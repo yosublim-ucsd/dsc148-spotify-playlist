@@ -1,6 +1,6 @@
 {
   "description": "Even through heartbreak and pain, God\u2019s love remains. Here are songs that cover the crossroads of hope and heartbreak.",
-  "num_followers": 16506,
+  "num_followers": 16530,
   "original_name": "Hope & Heartbreak",
   "owner": {
     "name": "Spotify",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Beautifully Broken",
-        "url": "https://open.spotify.com/album/4TisM8f1MV8XSE7U5iQ69I"
-      },
-      "artists": [
-        {
-          "name": "Plumb",
-          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
-        }
-      ],
-      "duration_ms": 203466,
-      "name": "Beautifully Broken",
-      "url": "https://open.spotify.com/track/2j5iN3PBDJrboveBmEEwfg"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Destroy Myself Just For You",
         "url": "https://open.spotify.com/album/1X71Gke5NpopGMNbNxEB35"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 146000,
       "name": "Destroy Myself Just For You",
       "url": "https://open.spotify.com/track/40iHwasC0kEK8fgaEfQReF"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/4TisM8f1MV8XSE7U5iQ69I"
+      },
+      "artists": [
+        {
+          "name": "Plumb",
+          "url": "https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH"
+        }
+      ],
+      "duration_ms": 203466,
+      "name": "Beautifully Broken",
+      "url": "https://open.spotify.com/track/2j5iN3PBDJrboveBmEEwfg"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Mistakes Were Made",
-        "url": "https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn"
-      },
-      "artists": [
-        {
-          "name": "John Michael Howell",
-          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
-        }
-      ],
-      "duration_ms": 213893,
-      "name": "Mistakes Were Made",
-      "url": "https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Everything About You",
         "url": "https://open.spotify.com/album/0cyH1iWX95Bpsp01sFGInX"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 207626,
       "name": "Everything About You (feat. Marlee)",
       "url": "https://open.spotify.com/track/6WEJfyD3saydrkwaGEAYI5"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Mistakes Were Made",
+        "url": "https://open.spotify.com/album/3wreBZPIdf6y5h56X46LJn"
+      },
+      "artists": [
+        {
+          "name": "John Michael Howell",
+          "url": "https://open.spotify.com/artist/4BqK6JLgMwQ99hx85DxNhP"
+        }
+      ],
+      "duration_ms": 213893,
+      "name": "Mistakes Were Made",
+      "url": "https://open.spotify.com/track/2xHHLxTDWQpiIzzYL8rzdx"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Faith Hope Love Repeat",
-        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
-      },
-      "artists": [
-        {
-          "name": "Brandon Heath",
-          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
-        }
-      ],
-      "duration_ms": 261626,
-      "name": "You'll Find Love Again",
-      "url": "https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Te Digo Adios",
         "url": "https://open.spotify.com/album/32LZEVREgNsGsdXpNH9tLZ"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 203408,
       "name": "Te Digo Adios",
       "url": "https://open.spotify.com/track/55Tm9Fb2flEu3lPtgpToTm"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Faith Hope Love Repeat",
+        "url": "https://open.spotify.com/album/4lpaCFD1YtduxtT2W1jlNb"
+      },
+      "artists": [
+        {
+          "name": "Brandon Heath",
+          "url": "https://open.spotify.com/artist/0W7wIkmxoGQbnZYn2z2sLj"
+        }
+      ],
+      "duration_ms": 261626,
+      "name": "You'll Find Love Again",
+      "url": "https://open.spotify.com/track/4dixlUlijVSoo1r3yG6kkX"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1247,38 +1247,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "With You Through It All",
-        "url": "https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g"
-      },
-      "artists": [
-        {
-          "name": "Savannah Locke",
-          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
-        }
-      ],
-      "duration_ms": 228648,
-      "name": "With You Through It All",
-      "url": "https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
-        "name": "already gone",
-        "url": "https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz"
-      },
-      "artists": [
-        {
-          "name": "JSteph",
-          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
-        }
-      ],
-      "duration_ms": 211500,
-      "name": "already gone",
-      "url": "https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "Just Say That",
         "url": "https://open.spotify.com/album/6FCgl0Rkbx8OdUBTAk0x8V"
       },
@@ -1291,6 +1259,22 @@
       "duration_ms": 121681,
       "name": "Just Say That",
       "url": "https://open.spotify.com/track/2IGS5KiDDnVtjw2d5NRILO"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "With You Through It All",
+        "url": "https://open.spotify.com/album/1JZmkqZ73hsY63GKjeBH0g"
+      },
+      "artists": [
+        {
+          "name": "Savannah Locke",
+          "url": "https://open.spotify.com/artist/0GGJB62JqywhEnwBPGwOGb"
+        }
+      ],
+      "duration_ms": 228648,
+      "name": "With You Through It All",
+      "url": "https://open.spotify.com/track/5qFEcVgJ8hxgSYkYDYZrnh"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1311,22 +1295,18 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Just Grieve (feat. Shanell Alyssa)",
-        "url": "https://open.spotify.com/album/2JYmUvK8FHCEJ0krUKO0sR"
+        "name": "already gone",
+        "url": "https://open.spotify.com/album/7KH9YyGGUqn3geIoty1rLz"
       },
       "artists": [
         {
-          "name": "Caleb McCoy",
-          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
-        },
-        {
-          "name": "Shanell Alyssa",
-          "url": "https://open.spotify.com/artist/0Jf2yrWAh3w5XPxf0zsM5n"
+          "name": "JSteph",
+          "url": "https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3"
         }
       ],
-      "duration_ms": 217980,
-      "name": "Just Grieve (feat. Shanell Alyssa)",
-      "url": "https://open.spotify.com/track/0x8z2ZNKWJP2o5cnUnmpH2"
+      "duration_ms": 211500,
+      "name": "already gone",
+      "url": "https://open.spotify.com/track/5s1mXKAscJsC5aizCMbwKC"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1343,6 +1323,26 @@
       "duration_ms": 141502,
       "name": "Who You?",
       "url": "https://open.spotify.com/track/767ZVjUmigWt8JUmG39x6W"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Just Grieve (feat. Shanell Alyssa)",
+        "url": "https://open.spotify.com/album/2JYmUvK8FHCEJ0krUKO0sR"
+      },
+      "artists": [
+        {
+          "name": "Caleb McCoy",
+          "url": "https://open.spotify.com/artist/2iPpUS5kjjfalhlrsT9Fsi"
+        },
+        {
+          "name": "Shanell Alyssa",
+          "url": "https://open.spotify.com/artist/0Jf2yrWAh3w5XPxf0zsM5n"
+        }
+      ],
+      "duration_ms": 217980,
+      "name": "Just Grieve (feat. Shanell Alyssa)",
+      "url": "https://open.spotify.com/track/0x8z2ZNKWJP2o5cnUnmpH2"
     },
     {
       "added_at": "2024-02-03 03:32:22",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-02-03 03:32:22",
       "album": {
-        "name": "Like That",
-        "url": "https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A"
-      },
-      "artists": [
-        {
-          "name": "Phil J.",
-          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Like That",
-      "url": "https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO"
-    },
-    {
-      "added_at": "2024-02-03 03:32:22",
-      "album": {
         "name": "HOLD ON 2.0",
         "url": "https://open.spotify.com/album/2WcjKD1KdlcM4BXmGhk2YH"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 179954,
       "name": "Why",
       "url": "https://open.spotify.com/track/2BEk1FVrYVPicOo4rLzpfm"
+    },
+    {
+      "added_at": "2024-02-03 03:32:22",
+      "album": {
+        "name": "Like That",
+        "url": "https://open.spotify.com/album/4lIL3O7bwzUsG036jsXr4A"
+      },
+      "artists": [
+        {
+          "name": "Phil J.",
+          "url": "https://open.spotify.com/artist/5D2KHBBywjO32ifLVWSci9"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Like That",
+      "url": "https://open.spotify.com/track/3pLDuAz6GEFNnGWVfX6KSO"
     },
     {
       "added_at": "2024-02-03 03:32:22",

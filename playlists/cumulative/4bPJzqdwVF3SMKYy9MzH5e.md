@@ -4,7 +4,7 @@
 
 > 
 
-1,886 songs - 4 day 5 hr 47 min
+1,887 songs - 4 day 5 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Closer To You](https://open.spotify.com/track/3r2TFFPynN97CgmzXKal5X) | [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Immunity](https://open.spotify.com/album/4kkVGtCqE2NiAKosri9Rnd) | 3:04 | 2021-08-05 |  |
 | [Closet](https://open.spotify.com/track/4hAPiyiwGAlIKP53qfmDuN) | [Fleshwater](https://open.spotify.com/artist/6P5ccCJCe8A4s9tDSTNFzF) | [We're Not Here to Be Loved](https://open.spotify.com/album/0hm7PiBu72tRliLqLfiKy1) | 2:02 | 2023-06-07 |  |
 | [Cloud99 \(As Above Mix\)](https://open.spotify.com/track/5FbJG8bTkeDjTWUEgsGzQG) | [Machine Girl](https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0) | [Gemini](https://open.spotify.com/album/4vdHY7cdRkKTebKoEM6yaE) | 3:20 | 2023-02-26 |  |
+| [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 | 2024-04-22 |  |
 | [Club Cyberia](https://open.spotify.com/track/3OPwVR3dVHEuWkNYk6LsQl) | [TOKYOPILL](https://open.spotify.com/artist/39kuwM2oBNmrM3kEYVmk2X) | [Abandon The Flesh !](https://open.spotify.com/album/5UbQTFCWSpqzy8ZwviEJQ6) | 1:36 | 2022-10-13 |  |
 | [Clueless](https://open.spotify.com/track/7mrEpwmQJ7qK1ik7ZjjcdD) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Clueless](https://open.spotify.com/album/6kQBBlENraS03XVnFJ5mlU) | 3:47 | 2021-08-05 |  |
 | [Coachella \- Woodstock In My Mind](https://open.spotify.com/track/5UPHeuDP0AnG830Yf3bJJD) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Lust For Life](https://open.spotify.com/album/7xYiTrbTL57QO0bb4hXIKo) | 4:18 | 2021-08-05 |  |

@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udfb5 they'd make beautiful babies \ud83c\udfb5  \ud83d\udcf7: Towa Bird & Rene\u00e9 Rapp",
-  "num_followers": 1494625,
+  "num_followers": 1492953,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
@@ -169,6 +169,22 @@
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
     },
     {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "emails i can\u2019t send fwd:",
+        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 185552,
+      "name": "Feather",
+      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+    },
+    {
       "added_at": "2024-04-05 20:38:39",
       "album": {
         "name": "What Happens Now?",
@@ -217,22 +233,6 @@
       "url": "https://open.spotify.com/track/6WO7IDGLakjO38lsvI2gHB"
     },
     {
-      "added_at": "2024-03-22 04:18:26",
-      "album": {
-        "name": "GUTS (spilled)",
-        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 169717,
-      "name": "so american",
-      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
-    },
-    {
       "added_at": "2024-04-05 20:38:39",
       "album": {
         "name": "What Happens Now?",
@@ -249,20 +249,20 @@
       "url": "https://open.spotify.com/track/4cQ8Os8Gf1GgAkzoFQg8Az"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
+      "added_at": "2024-03-22 04:18:26",
       "album": {
-        "name": "emails i can\u2019t send fwd:",
-        "url": "https://open.spotify.com/album/2g4aJTa5ejGpp0O0GKzWAQ"
+        "name": "GUTS (spilled)",
+        "url": "https://open.spotify.com/album/1D06fz3cuob62ysTS8k6gu"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
         }
       ],
-      "duration_ms": 185552,
-      "name": "Feather",
-      "url": "https://open.spotify.com/track/2Zo1PcszsT9WQ0ANntJbID"
+      "duration_ms": 169717,
+      "name": "so american",
+      "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Superache",
         "url": "https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI"
       },
@@ -343,22 +327,6 @@
       "duration_ms": 248818,
       "name": "Memories",
       "url": "https://open.spotify.com/track/5UXJzLFdBn6u9FJTCnoHrH"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Snow Angel",
-        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 146234,
-      "name": "Pretty Girls",
-      "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -379,6 +347,38 @@
       "duration_ms": 135066,
       "name": "Glue Song (feat. Clairo)",
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Snow Angel",
+        "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 146234,
+      "name": "Pretty Girls",
+      "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -415,38 +415,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Found Heaven",
-        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 151738,
-      "name": "Bourgeoisieses",
-      "url": "https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Everything To Everyone",
-        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
-      },
-      "artists": [
-        {
-          "name": "Rene\u00e9 Rapp",
-          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
-        }
-      ],
-      "duration_ms": 156631,
-      "name": "Too Well",
-      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -497,6 +465,22 @@
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
+      },
+      "artists": [
+        {
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "duration_ms": 151738,
+      "name": "Bourgeoisieses",
+      "url": "https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"
+    },
+    {
       "added_at": "2024-03-22 04:18:26",
       "album": {
         "name": "clouds",
@@ -511,6 +495,22 @@
       "duration_ms": 162615,
       "name": "clouds",
       "url": "https://open.spotify.com/track/1Gp3vNi64EY7sEStAZ51en"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Everything To Everyone",
+        "url": "https://open.spotify.com/album/4Kk5hoolfW8UN6cTSo5fXJ"
+      },
+      "artists": [
+        {
+          "name": "Rene\u00e9 Rapp",
+          "url": "https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn"
+        }
+      ],
+      "duration_ms": 156631,
+      "name": "Too Well",
+      "url": "https://open.spotify.com/track/6Szgu8v7CAapag3XuuJX0b"
     },
     {
       "added_at": "2024-03-22 04:18:26",
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Too Much",
-        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 183473,
-      "name": "Too Much",
-      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/1WFMXKtfmcwsojf8gSEXm5"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 146769,
       "name": "It Is What It Is",
       "url": "https://open.spotify.com/track/1558CwDaXSZiCplq9AaH0q"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 183473,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "petals",
+        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+      },
+      "artists": [
+        {
+          "name": "Jessica Baio",
+          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+        }
+      ],
+      "duration_ms": 157598,
+      "name": "he loves me, he loves me not",
+      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Doing Better",
         "url": "https://open.spotify.com/album/64WbXlIjvrqkf5AI019x0L"
       },
@@ -823,18 +839,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "petals",
-        "url": "https://open.spotify.com/album/0nCriAFnpCNUPgF9VtWhFb"
+        "name": "Vertigo",
+        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
       },
       "artists": [
         {
-          "name": "Jessica Baio",
-          "url": "https://open.spotify.com/artist/0VMFTqmv0hYlWruyBERT95"
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
         }
       ],
-      "duration_ms": 157598,
-      "name": "he loves me, he loves me not",
-      "url": "https://open.spotify.com/track/5ftDdWVTk330Wbnm2eRf89"
+      "duration_ms": 179757,
+      "name": "Vertigo",
+      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Vertigo",
-        "url": "https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc"
-      },
-      "artists": [
-        {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
-        }
-      ],
-      "duration_ms": 179757,
-      "name": "Vertigo",
-      "url": "https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "FU In My Head",
         "url": "https://open.spotify.com/album/02FPQ0z3Xm5PkzTulKcfKT"
       },
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "WHAT THE HELL",
-        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 172604,
-      "name": "WHAT THE HELL",
-      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Evangeline",
         "url": "https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 177880,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "WHAT THE HELL",
+        "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 172604,
+      "name": "WHAT THE HELL",
+      "url": "https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/0aU73DSJXOwjzMakUhlL9t"
     },
     {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "hair down",
+        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
+      },
+      "artists": [
+        {
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
+        }
+      ],
+      "duration_ms": 210027,
+      "name": "hair down",
+      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
+    },
+    {
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "NEVER AGAIN",
@@ -1271,22 +1287,6 @@
       "duration_ms": 129229,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/0r3S0Ry5jY337wngS38fDT"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "hair down",
-        "url": "https://open.spotify.com/album/5djAY9zWdFiHnzrpcyV7R5"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 210027,
-      "name": "hair down",
-      "url": "https://open.spotify.com/track/1E7ernXLGM9tS7Ng5fNycn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1417,22 +1417,6 @@
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Maybe Life Is Good",
-        "url": "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 190853,
-      "name": "Maybe Life Is Good",
-      "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
-    },
-    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "Accelerator",
@@ -1447,6 +1431,22 @@
       "duration_ms": 171705,
       "name": "Accelerator",
       "url": "https://open.spotify.com/track/4O8KIGH2v0z5yR20nzFrWv"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Maybe Life Is Good",
+        "url": "https://open.spotify.com/album/3JrelA49G1d8BdKIaJ64YO"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 190853,
+      "name": "Maybe Life Is Good",
+      "url": "https://open.spotify.com/track/1Yg1vxpbL10eBFoKXHrFMn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
-      },
-      "artists": [
-        {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
-        }
-      ],
-      "duration_ms": 160266,
-      "name": "Coming Of Age",
-      "url": "https://open.spotify.com/track/6DdBrebXDXdTkN0Zb64O6p"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "everything about her",
         "url": "https://open.spotify.com/album/13rfoNMlBqL3ZTxOqiGLGk"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 171033,
       "name": "everything about her",
       "url": "https://open.spotify.com/track/4cQ2xighvUJyg7DHpzySPu"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 160266,
+      "name": "Coming Of Age",
+      "url": "https://open.spotify.com/track/6DdBrebXDXdTkN0Zb64O6p"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1689,22 +1689,6 @@
       "url": "https://open.spotify.com/track/40tZTQ47XEMg7KT61xAEOI"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Self/Less",
-        "url": "https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP"
-      },
-      "artists": [
-        {
-          "name": "Alicia Creti",
-          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
-        }
-      ],
-      "duration_ms": 191666,
-      "name": "Going Down",
-      "url": "https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "all-american bitch!",
@@ -1719,6 +1703,22 @@
       "duration_ms": 148000,
       "name": "all-american bitch!",
       "url": "https://open.spotify.com/track/49YAy6A7wAOvKvSxvUhxbd"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Self/Less",
+        "url": "https://open.spotify.com/album/6ufptISTWnxr9Zqm2mS1QP"
+      },
+      "artists": [
+        {
+          "name": "Alicia Creti",
+          "url": "https://open.spotify.com/artist/0V0XsSn8lNPXAEEFG292iX"
+        }
+      ],
+      "duration_ms": 191666,
+      "name": "Going Down",
+      "url": "https://open.spotify.com/track/5sSTJF2a8Ew2wxIW1mCBG5"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I Hope It All Works Out",
-        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 167083,
-      "name": "I Hope It All Works Out",
-      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Make Me Your Mrs",
         "url": "https://open.spotify.com/album/4s2DYFk0AkoZjknQAjjt1K"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 158955,
       "name": "Make Me Your Mrs",
       "url": "https://open.spotify.com/track/2FVEPuJo6IQ078JPdQ5gVb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I Hope It All Works Out",
+        "url": "https://open.spotify.com/album/4Y7hxshp2MXAMXW5BwqZ6s"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 167083,
+      "name": "I Hope It All Works Out",
+      "url": "https://open.spotify.com/track/2u2claSA1aCUMrVRsBD4Ik"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1879,6 +1879,22 @@
       "duration_ms": 180500,
       "name": "i only smoke to feel bad",
       "url": "https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "LIPS",
+        "url": "https://open.spotify.com/album/58WDcinKOBr7xzCJ2OnO9R"
+      },
+      "artists": [
+        {
+          "name": "MaKenzie",
+          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "LIPS",
+      "url": "https://open.spotify.com/track/6KWkRbb8Lh2K44MnTxdhuY"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1963,22 +1979,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Bloodstream",
-        "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
-      },
-      "artists": [
-        {
-          "name": "Zolita",
-          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Bloodstream",
-      "url": "https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Monster",
         "url": "https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE"
       },
@@ -1993,20 +1993,20 @@
       "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
+      "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "LIPS",
-        "url": "https://open.spotify.com/album/58WDcinKOBr7xzCJ2OnO9R"
+        "name": "Bloodstream",
+        "url": "https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH"
       },
       "artists": [
         {
-          "name": "MaKenzie",
-          "url": "https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0"
+          "name": "Zolita",
+          "url": "https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU"
         }
       ],
-      "duration_ms": 200146,
-      "name": "LIPS",
-      "url": "https://open.spotify.com/track/6KWkRbb8Lh2K44MnTxdhuY"
+      "duration_ms": 211000,
+      "name": "Bloodstream",
+      "url": "https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2073,22 +2073,6 @@
       "url": "https://open.spotify.com/track/7dE6CFpsyBMHnC9OgEwDN2"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "push up bra",
-        "url": "https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY"
-      },
-      "artists": [
-        {
-          "name": "Amelia Moore",
-          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
-        }
-      ],
-      "duration_ms": 133721,
-      "name": "push up bra",
-      "url": "https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Dumb Blonde",
@@ -2103,6 +2087,22 @@
       "duration_ms": 162000,
       "name": "Dumb Blonde",
       "url": "https://open.spotify.com/track/5mflHxpFOhqsXoIGlk2w2c"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "push up bra",
+        "url": "https://open.spotify.com/album/56l2wVNW9dqsumrKaajQZY"
+      },
+      "artists": [
+        {
+          "name": "Amelia Moore",
+          "url": "https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo"
+        }
+      ],
+      "duration_ms": 133721,
+      "name": "push up bra",
+      "url": "https://open.spotify.com/track/5HmAnp494nmfabHiRFGBkc"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wtf u want.",
-        "url": "https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb"
-      },
-      "artists": [
-        {
-          "name": "OSTON",
-          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
-        }
-      ],
-      "duration_ms": 127600,
-      "name": "Wtf u want.",
-      "url": "https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Killing Time",
         "url": "https://open.spotify.com/album/74wbYbvJFwGIuFw5BNuzCQ"
       },
@@ -2351,18 +2335,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Lose Her",
-        "url": "https://open.spotify.com/album/316orttce8f1LBwKgJCOou"
+        "name": "Wtf u want.",
+        "url": "https://open.spotify.com/album/10sX64KGtxKuFNNskErQkb"
       },
       "artists": [
         {
-          "name": "Sadie Fine",
-          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+          "name": "OSTON",
+          "url": "https://open.spotify.com/artist/4PR77KtW5drJXCsqcyfuzJ"
         }
       ],
-      "duration_ms": 170515,
-      "name": "Lose Her",
-      "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
+      "duration_ms": 127600,
+      "name": "Wtf u want.",
+      "url": "https://open.spotify.com/track/0pURlXPaj5o9tXRim3kT1a"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -2379,6 +2363,22 @@
       "duration_ms": 173551,
       "name": "i can't get my shit together",
       "url": "https://open.spotify.com/track/5QQH0yRUbD4fYqNWKiPX9I"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Lose Her",
+        "url": "https://open.spotify.com/album/316orttce8f1LBwKgJCOou"
+      },
+      "artists": [
+        {
+          "name": "Sadie Fine",
+          "url": "https://open.spotify.com/artist/2DZXPZaYfPQy9ojosxzJCc"
+        }
+      ],
+      "duration_ms": 170515,
+      "name": "Lose Her",
+      "url": "https://open.spotify.com/track/3I4QH84TrFPE7Z53He9rg0"
     },
     {
       "added_at": "2024-03-15 04:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The ultimate seasonal (indie) playlist. ",
-  "num_followers": 181230,
+  "num_followers": 181216,
   "original_name": "Indie Christmas",
   "owner": {
     "name": "Spotify",
@@ -327,6 +327,22 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
+        "name": "Day After Tomorrow",
+        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 365141,
+      "name": "Day After Tomorrow",
+      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
         "name": "A Very Lonely Solstice",
         "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
@@ -415,22 +431,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Day After Tomorrow",
-        "url": "https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 365141,
-      "name": "Day After Tomorrow",
-      "url": "https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "We're The Lucky Ones",
         "url": "https://open.spotify.com/album/12USXSqjhL8yMhajTI8fD8"
       },
@@ -511,22 +511,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
-      },
-      "artists": [
-        {
-          "name": "Oh Wonder",
-          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
-        }
-      ],
-      "duration_ms": 219093,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Darling I Do",
         "url": "https://open.spotify.com/album/0BeGOenR0eXIrFxmgQnt2j"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 181094,
       "name": "Darling I Do",
       "url": "https://open.spotify.com/track/4HQPftni948NDA17ajheQQ"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/08zgrixDuu7cQJ5AJO0KHW"
+      },
+      "artists": [
+        {
+          "name": "Oh Wonder",
+          "url": "https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9"
+        }
+      ],
+      "duration_ms": 219093,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/7FNsGGAGyMoSwjH3ivmcep"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -933,6 +933,22 @@
       "url": "https://open.spotify.com/track/3PS3si74boOaOC6zxf858B"
     },
     {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "Carol Of The Bells",
+        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
+      },
+      "artists": [
+        {
+          "name": "The Big Moon",
+          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
+        }
+      ],
+      "duration_ms": 193379,
+      "name": "Carol Of The Bells",
+      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
+    },
+    {
       "added_at": "2023-12-08 17:43:39",
       "album": {
         "name": "Christmas in Prison (feat. John Prine)",
@@ -951,22 +967,6 @@
       "duration_ms": 297973,
       "name": "Christmas in Prison (feat. John Prine)",
       "url": "https://open.spotify.com/track/4rTSdrqqsxbS3E6rU6tUQl"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
-        "name": "Carol Of The Bells",
-        "url": "https://open.spotify.com/album/7Kx0uEGDCShpPKDaQaeRyK"
-      },
-      "artists": [
-        {
-          "name": "The Big Moon",
-          "url": "https://open.spotify.com/artist/0KU55rzxAihPhi27MAuz9O"
-        }
-      ],
-      "duration_ms": 193379,
-      "name": "Carol Of The Bells",
-      "url": "https://open.spotify.com/track/4UdfZoxXG46LSOIJYYzSWK"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "thank you wisdom angel i love you",
-        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
-      },
-      "artists": [
-        {
-          "name": "quinnie",
-          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
-        }
-      ],
-      "duration_ms": 198208,
-      "name": "silver second",
-      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "Last Christmas",
         "url": "https://open.spotify.com/album/3acMUF1baafzo6Zi61F1rS"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 161811,
       "name": "Last Christmas",
       "url": "https://open.spotify.com/track/4mOjvafN3FbHFmXH5QaXv5"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "thank you wisdom angel i love you",
+        "url": "https://open.spotify.com/album/7g2z1mqGxTwBeObnhVWppc"
+      },
+      "artists": [
+        {
+          "name": "quinnie",
+          "url": "https://open.spotify.com/artist/4aEuFytRb43SAgjchJDk5e"
+        }
+      ],
+      "duration_ms": 198208,
+      "name": "silver second",
+      "url": "https://open.spotify.com/track/30Aa66S7RfoyBnrLXXvsrK"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "christmas day",
-        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
-      },
-      "artists": [
-        {
-          "name": "Lexie Carroll",
-          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
-        }
-      ],
-      "duration_ms": 161324,
-      "name": "christmas day",
-      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
-    },
-    {
-      "added_at": "2023-10-16 19:34:42",
-      "album": {
         "name": "LIFE ON EARTH (with Preservation Hall Jazz Band)",
         "url": "https://open.spotify.com/album/0oBz5ydRtqLZliiATbtZ9w"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 380480,
       "name": "LIFE ON EARTH - with Preservation Hall Jazz Band",
       "url": "https://open.spotify.com/track/7h9AzoDlI59MOEsg7a3GBZ"
+    },
+    {
+      "added_at": "2023-10-16 19:34:42",
+      "album": {
+        "name": "christmas day",
+        "url": "https://open.spotify.com/album/4PrwbE53q78EQlVEiYoo9K"
+      },
+      "artists": [
+        {
+          "name": "Lexie Carroll",
+          "url": "https://open.spotify.com/artist/0j3JsMUkjmRIqTi1xQ5dp0"
+        }
+      ],
+      "duration_ms": 161324,
+      "name": "christmas day",
+      "url": "https://open.spotify.com/track/3bwzW1wwkCr9EEefaKHEVL"
     },
     {
       "added_at": "2023-10-16 19:34:42",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2023-10-16 19:34:42",
       "album": {
-        "name": "Holidays Rule",
-        "url": "https://open.spotify.com/album/6WYKqCoezPOWXD9UxbXyGZ"
+        "name": "ugly xmas sweater party",
+        "url": "https://open.spotify.com/album/42SBvg1Vs8eMGAILnG4hSI"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "girlhouse",
+          "url": "https://open.spotify.com/artist/7AWyYXZ5tIc0xNSfKLD3QX"
         }
       ],
-      "duration_ms": 272266,
-      "name": "Auld Lang Syne",
-      "url": "https://open.spotify.com/track/0iDlZGhqZQO1j7Vnmnu8P9"
+      "duration_ms": 208000,
+      "name": "ugly xmas sweater party",
+      "url": "https://open.spotify.com/track/1yHF4X4RtaXHYaQzoQ9TUU"
     }
   ],
   "unique_name": "Indie Christmas",

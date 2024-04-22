@@ -10106,7 +10106,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 164250,
       "name": "Cherry Tree",
       "url": "https://open.spotify.com/track/3dPvIz40hyu20YTcIHudlk"
@@ -28850,7 +28850,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 206783,
       "name": "Kaleidoscope Daydreaming",
       "url": "https://open.spotify.com/track/3BB2gPH00aLM3ozeJsAtv0"
@@ -36158,7 +36158,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 270651,
       "name": "More Than This",
       "url": "https://open.spotify.com/track/6N7gPTru90HYLRUIVDQ185"
@@ -43542,7 +43542,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 194733,
       "name": "R e a l W o m a n",
       "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
@@ -48310,6 +48310,28 @@
       "duration_ms": 169717,
       "name": "so american",
       "url": "https://open.spotify.com/track/5Jh1i0no3vJ9u4deXkb4aV"
+    },
+    {
+      "album": {
+        "name": "So Cool",
+        "url": "https://open.spotify.com/album/3qDSi20OwFqEp879zRl0Hx"
+      },
+      "artists": [
+        {
+          "name": "The Planetoids",
+          "url": "https://open.spotify.com/artist/01lK8t2cYqYfRherW82aHm"
+        },
+        {
+          "name": "Tamara Dey",
+          "url": "https://open.spotify.com/artist/5uR7S1soFxQcnnVMn6TIe9"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207741,
+      "name": "So Cool",
+      "url": "https://open.spotify.com/track/77ilrvQSGD3BWTDcFCn0FE"
     },
     {
       "album": {

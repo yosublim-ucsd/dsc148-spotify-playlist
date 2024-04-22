@@ -4,7 +4,7 @@
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Ryan Castro en portada.
 
-7,179 songs - 16 day 0 hr 22 min
+7,180 songs - 16 day 0 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4686,7 +4686,7 @@
 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-12 | 2023-05-20 |
 | [ODIOSOTORIUS](https://open.spotify.com/track/4P4VJcKFfMzTd3cXLkZw3V) | [Big Soto](https://open.spotify.com/artist/2TQ4CGgxxCWHqa9yYIGDoU) | [ODIOSOTORIUS](https://open.spotify.com/album/1Hbgu9thBNAmynMfZf8XWK) | 2:03 | 2024-03-01 | 2024-03-09 |
 | [Off Plane](https://open.spotify.com/track/2Np99yttbr8WIkHOCNavjM) | [Caro](https://open.spotify.com/artist/1c5lGbGivjIIkHoDm5p5kQ) | [Off Plane](https://open.spotify.com/album/1s6MuVniixKvlmKWfRNLnx) | 2:21 | 2022-12-16 | 2022-12-24 |
-| [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-05 |  |
+| [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 | 2024-04-05 | 2024-04-22 |
 | [Oficializar \- Ao Vivo](https://open.spotify.com/track/5eID9KNVJV2fDSPQGzQHQg) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Oficializar \(Ao Vivo\)](https://open.spotify.com/album/2pU9UzS827vpfB5NHy7N4t) | 2:47 | 2023-08-25 | 2023-09-02 |
 | [Oficialmente en Soltería](https://open.spotify.com/track/63BZhuQ6OZQmxy2RERMHko) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Oficialmente en Soltería](https://open.spotify.com/album/6PVL1eOWGgrULXTd6diUxe) | 2:02 | 2022-09-16 | 2022-09-24 |
 | [Og \(feat\. Lèlèman\)](https://open.spotify.com/track/799uSHHlGs4kYeNAMKkRdu) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Lèlèman](https://open.spotify.com/artist/4MazrrmZL1GVNV5fkwblkB) | [Og \(feat\. Lèlèman\)](https://open.spotify.com/album/3vmdVmdvKH4KfvVvwf2Gyf) | 2:22 | 2022-11-11 | 2022-11-19 |
@@ -6867,6 +6867,7 @@
 | [Vienen Y Van](https://open.spotify.com/track/5oWh8d5vckVbBuO7Udcgo8) | [Kaia Lana](https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ) | [Vienen Y Van](https://open.spotify.com/album/4mItIB7t3BKjoSUXx9odyS) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Vienes o Voy](https://open.spotify.com/track/6MocrPHRgxQ1cDs51rfXGf) | [Luisa Fernanda W](https://open.spotify.com/artist/3iKdkIEoOGT55KE72tSOgU), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Vienes o Voy](https://open.spotify.com/album/2t1uqXDZcezSbZNyOt3J63) | 3:08 | 2022-02-18 | 2022-02-26 |
 | [Viernes](https://open.spotify.com/track/1qZ9xDBnQ8vORJoN7kGv1f) | [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Viernes](https://open.spotify.com/album/4aAnbqUTQj3anbIkY8cbqe) | 3:16 | 2022-10-14 | 2022-10-22 |
+| [Viernes 13](https://open.spotify.com/track/1h8zgoGsezP2QyOzVwvzpf) | [EXTi](https://open.spotify.com/artist/4qXoStzSrllHWv0TPl96l1) | [Viernes 13](https://open.spotify.com/album/667dNv4Hv869bOltkZw3SF) | 2:54 | 2024-04-21 |  |
 | [Vikingos](https://open.spotify.com/track/5xsB0fAhMLOjutwlPNsQls) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [Vikingos](https://open.spotify.com/album/1yM8N3pWYI7LjWEvGbBkcQ) | 2:46 | 2023-05-19 | 2023-05-21 |
 | [Vikingos](https://open.spotify.com/track/6t82eltBDEw70ePnk5GGe4) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Vikingos](https://open.spotify.com/album/50fDCiIhdGoiJLSYXdLbt9) | 2:46 | 2023-05-19 | 2023-05-27 |
 | [Villana](https://open.spotify.com/track/5axifdp2gauTPuqyEsmSBV) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [Villana](https://open.spotify.com/album/70fWf5r76nO4WZrtnlm5Op) | 3:46 | 2022-09-09 | 2022-09-17 |

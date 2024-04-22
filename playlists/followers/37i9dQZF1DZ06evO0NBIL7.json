@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 1476,
+  "2024-04-22": 1476,
   "date_first_scraped": "2022-09-17",
   "description": "This is Fangclub. The essential tracks, all in one playlist.",
   "name": "This Is Fangclub",
@@ -417,6 +417,24 @@
       "duration_ms": 180920,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/3Li4rMcFQisVPnw7nmfX7N"
+    },
+    {
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/4rbx06swFc9rEHVZmjjRch"
+      },
+      "artists": [
+        {
+          "name": "Fangclub",
+          "url": "https://open.spotify.com/artist/1rT2DYzj3q6QnrxaqF4jnN"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164049,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/16vbLC2QSm34CsaXDltVbv"
     },
     {
       "album": {

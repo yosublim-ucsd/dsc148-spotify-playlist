@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 37373,
+  "2024-04-22": 37429,
   "date_first_scraped": "2023-01-15",
   "description": "Rock Legends from Ireland. Cover: Sin\u00e9ad O'Connor",
   "name": "Irish Rock Classics",
@@ -561,7 +561,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-02",
+      "date_removed": null,
       "duration_ms": 355493,
       "name": "I Still Haven't Found What I'm Looking For - Live - Rattle & Hum Version",
       "url": "https://open.spotify.com/track/2yRJduHjhAu85Y3dO5Ftz6"
@@ -763,7 +763,7 @@
       ],
       "date_added": "2022-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 234013,
       "name": "Miracle Drug",
       "url": "https://open.spotify.com/track/2b6pyyrxfP79LhV2hLtTm4"

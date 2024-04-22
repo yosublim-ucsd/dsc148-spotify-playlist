@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 300837,
+  "num_followers": 300821,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1ssia Eller",
+          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
+        }
+      ],
+      "duration_ms": 240799,
+      "name": "Malandragem - Ao Vivo",
+      "url": "https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -115,22 +131,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7mgNhvsT5RpvIoq8q2DHFI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1ssia Eller",
-          "url": "https://open.spotify.com/artist/10naVTwNjE50daQVrN0bXh"
-        }
-      ],
-      "duration_ms": 240799,
-      "name": "Malandragem - Ao Vivo",
-      "url": "https://open.spotify.com/track/2PIHTeccvbpmrSeYrlWkfx"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/1ghzhhlGuTLCD790oXWJwX"
       },
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Ac\u00fastico Ira!",
-        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
-      },
-      "artists": [
-        {
-          "name": "Ira!",
-          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
-        }
-      ],
-      "duration_ms": 247160,
-      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
         "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 369915,
       "name": "Pescador de ilus\u00f5es - Ao vivo",
       "url": "https://open.spotify.com/track/5ytWdfs7iGpu42VQyAQyvY"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Ac\u00fastico Ira!",
+        "url": "https://open.spotify.com/album/2pqGLzC2eD4oFSpUzisVMw"
+      },
+      "artists": [
+        {
+          "name": "Ira!",
+          "url": "https://open.spotify.com/artist/7L5YQQJPL1wrmrdigJavV7"
+        }
+      ],
+      "duration_ms": 247160,
+      "name": "O Girassol - Vers\u00e3o Ac\u00fastica",
+      "url": "https://open.spotify.com/track/6OwunUyuA5gtuJOdrE43vH"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Live / Unplugged",
-        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
-      },
-      "artists": [
-        {
-          "name": "Alanis Morissette",
-          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
-        }
-      ],
-      "duration_ms": 233946,
-      "name": "Ironic - Live / Unplugged",
-      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Ac\u00fastico - Ao Vivo",
         "url": "https://open.spotify.com/album/2DMlDuUYFSjOyEDDL86yia"
       },
@@ -267,6 +251,38 @@
       "duration_ms": 291125,
       "name": "Mulher de Fases - Ao Vivo | Ac\u00fastico",
       "url": "https://open.spotify.com/track/2OBzAYQUWGuTgY90TRnXMf"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Live / Unplugged",
+        "url": "https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv"
+      },
+      "artists": [
+        {
+          "name": "Alanis Morissette",
+          "url": "https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi"
+        }
+      ],
+      "duration_ms": 233946,
+      "name": "Ironic - Live / Unplugged",
+      "url": "https://open.spotify.com/track/5WltiUcx5HdM6PPkOkZptu"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
+      },
+      "artists": [
+        {
+          "name": "O Rappa",
+          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
+        }
+      ],
+      "duration_ms": 438583,
+      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
+      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -315,22 +331,6 @@
       "duration_ms": 339960,
       "name": "Black - Kaufman Astoria Studios - MTV Unplugged - New York, NY 3/16/1992",
       "url": "https://open.spotify.com/track/0DUaFpOFS5H8LbswpbcP2m"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
-        "name": "O Rappa - Ac\u00fastico Oficina Francisco Brennand (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/18b9UToB7XhEkVpuoJ5ZaR"
-      },
-      "artists": [
-        {
-          "name": "O Rappa",
-          "url": "https://open.spotify.com/artist/1A5QJAC1vdhbhPE25Q0x0f"
-        }
-      ],
-      "duration_ms": 438583,
-      "name": "Anjos (Pra quem tem f\u00e9) - Ao vivo",
-      "url": "https://open.spotify.com/track/0T5oFIUY2wDXQ7yRd9epfP"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -419,22 +419,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
-      },
-      "artists": [
-        {
-          "name": "Charlie Brown Jr.",
-          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
-        }
-      ],
-      "duration_ms": 151666,
-      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
-      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Ac\u00fastico Jota Quest",
         "url": "https://open.spotify.com/album/5op3qEsyQ81iVROB97nWd9"
       },
@@ -451,18 +435,18 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Gigaton",
-        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+        "name": "Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0AFkktyrrPtQvpIBqpRrc7"
       },
       "artists": [
         {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+          "name": "Charlie Brown Jr.",
+          "url": "https://open.spotify.com/artist/1on7ZQ2pvgeQF4vmIA09x5"
         }
       ],
-      "duration_ms": 322306,
-      "name": "Retrograde",
-      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
+      "duration_ms": 151666,
+      "name": "Proibida Pra Mim (Grazon) - Ao Vivo",
+      "url": "https://open.spotify.com/track/2ScU6iEvgb0TIuKiyem9rg"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -495,6 +479,22 @@
       "duration_ms": 263919,
       "name": "Invisible - Songs Of Surrender",
       "url": "https://open.spotify.com/track/40EiOxrNDU2DObDLOgcbdw"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Gigaton",
+        "url": "https://open.spotify.com/album/5bTixyz2GHx1YUqNUdzfut"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 322306,
+      "name": "Retrograde",
+      "url": "https://open.spotify.com/track/2D68wN3hwEZFdeui0c5Ar6"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -579,38 +579,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "00070725 Live At Studio 606",
-        "url": "https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X"
-      },
-      "artists": [
-        {
-          "name": "Foo Fighters",
-          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
-        }
-      ],
-      "duration_ms": 279453,
-      "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
-      "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas Roque Clube",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 277693,
-      "name": "S\u00f3 por hoje / Tenis Roque",
-      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Sex on the Beach (Ao Vivo)",
         "url": "https://open.spotify.com/album/5zdUlB5etflvZE2q0ZWuu5"
       },
@@ -631,6 +599,38 @@
       "duration_ms": 192853,
       "name": "Hear Me Now - Ao Vivo",
       "url": "https://open.spotify.com/track/4kNNWpU47YCCBSfWrsVuwk"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas Roque Clube",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 277693,
+      "name": "S\u00f3 por hoje / Tenis Roque",
+      "url": "https://open.spotify.com/track/4PY23WVDXuHDHwhg0P7PDq"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "00070725 Live At Studio 606",
+        "url": "https://open.spotify.com/album/1i7uzsvuhrO7d1gXSZnr4X"
+      },
+      "artists": [
+        {
+          "name": "Foo Fighters",
+          "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
+        }
+      ],
+      "duration_ms": 279453,
+      "name": "My Hero - Live at Studio 606 West, Northridge, CA - September 2007",
+      "url": "https://open.spotify.com/track/6rlLQPXSkhTlcDgUkCfqOr"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -847,22 +847,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "RoncaRonca Apresenta Os Paralamas do Sucesso (Ao Vivo)",
         "url": "https://open.spotify.com/album/4I2EcdKiwes6vePNcrPSKz"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
+        "name": "Big Jet Plane (Acoustic)",
+        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Big Jet Plane - Acoustic",
+      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
         "name": "Gold on the Ceiling (BBC Session)",
         "url": "https://open.spotify.com/album/5a7S1MDqFYulZZD40MrdGt"
       },
@@ -891,6 +891,22 @@
       "duration_ms": 228163,
       "name": "Gold on the Ceiling - BBC Session",
       "url": "https://open.spotify.com/track/5W8OjPfxN7bc7FgTcqwgfu"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -959,22 +975,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Big Jet Plane (Acoustic)",
-        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Big Jet Plane - Acoustic",
-      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "S\u00e3o Paulo (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/79hcKgsKK6w2n7sBVX2SMr"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Pra Dizer Adeus (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx"
-      },
-      "artists": [
-        {
-          "name": "Paulo Miklos",
-          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
-        }
-      ],
-      "duration_ms": 253232,
-      "name": "Pra Dizer Adeus - Ao Vivo",
-      "url": "https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Pra Dizer Adeus (Trio Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5UNoFiPyAyTq9B6E4CBX2g"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 224080,
       "name": "Pra Dizer Adeus - Trio Ac\u00fastico",
       "url": "https://open.spotify.com/track/5d3FwTgLhVIFf6UcSIfkk8"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Pra Dizer Adeus (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0o5WvjHaxbnY8ftGZPVbbx"
+      },
+      "artists": [
+        {
+          "name": "Paulo Miklos",
+          "url": "https://open.spotify.com/artist/4GIB9MiZTggcpRXOPXRSJe"
+        }
+      ],
+      "duration_ms": 253232,
+      "name": "Pra Dizer Adeus - Ao Vivo",
+      "url": "https://open.spotify.com/track/0tXAm6W1xV2mDLVaO3Hn58"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -1087,6 +1087,22 @@
       "duration_ms": 253893,
       "name": "Come As You Are",
       "url": "https://open.spotify.com/track/4yzgjSHWy5E8fKflgwaKQh"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
+      },
+      "artists": [
+        {
+          "name": "Tit\u00e3s",
+          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
+        }
+      ],
+      "duration_ms": 213760,
+      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -1167,22 +1183,6 @@
       "duration_ms": 236306,
       "name": "Society",
       "url": "https://open.spotify.com/track/7AYoXqCtME90flUOpBJM7i"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
-        "name": "Enquanto Houver Sol (Trio Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5RLrPV95g4R45lyXxY2Bk9"
-      },
-      "artists": [
-        {
-          "name": "Tit\u00e3s",
-          "url": "https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl"
-        }
-      ],
-      "duration_ms": 213760,
-      "name": "Enquanto Houver Sol - Trio Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3bahcqxOYXOFL5bSJAhZU2"
     },
     {
       "added_at": "2024-04-19 19:00:01",

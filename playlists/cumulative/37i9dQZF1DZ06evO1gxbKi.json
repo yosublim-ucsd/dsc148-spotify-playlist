@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is Sister Rosetta Tharpe. The essential tracks, all in one playlist.",
+  "description": "This Is Sister Rosetta Tharpe. Los temas esenciales, todos en una lista.",
   "name": "This Is Sister Rosetta Tharpe",
   "tracks": [
     {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 157573,
       "name": "All Alone",
       "url": "https://open.spotify.com/track/0rsTuDQFai2jbs5D2yAxo6"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 165413,
       "name": "All over This World",
       "url": "https://open.spotify.com/track/0NgdzrGJt8YA0KfD9F3eh3"
@@ -124,7 +124,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 204959,
       "name": "Beams Of Heaven",
       "url": "https://open.spotify.com/track/4NuXIH3TvC2RehKx5SoxYT"
@@ -236,7 +236,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 164311,
       "name": "Cain't No Grave Hold My Body Down",
       "url": "https://open.spotify.com/track/2O89VddEOv4BywX9bad9Vm"
@@ -396,7 +396,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 171333,
       "name": "Down by the Riverside",
       "url": "https://open.spotify.com/track/2tk6nL1NqqRkjNtOLzwlnl"
@@ -504,7 +504,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 147701,
       "name": "Fly Away",
       "url": "https://open.spotify.com/track/0uqrVU6p1FD04exzZKkLe0"
@@ -714,7 +714,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 174492,
       "name": "How Far From God",
       "url": "https://open.spotify.com/track/3cN5ydsv1f5UVWIognMcRj"
@@ -862,7 +862,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 171173,
       "name": "I Want A Tall Skinny Papa",
       "url": "https://open.spotify.com/track/6oBEmtC2OuL0tqaEvqKC8e"
@@ -1176,7 +1176,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 190772,
       "name": "My Journey To The Sky",
       "url": "https://open.spotify.com/track/3O3Zzre0FPv6GNTeInm6Md"
@@ -1320,7 +1320,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 261000,
       "name": "Peace In The Valley",
       "url": "https://open.spotify.com/track/2eJgsexdt03ESg86cMONv5"
@@ -1446,7 +1446,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 160731,
       "name": "Rock Daniel (VD129)",
       "url": "https://open.spotify.com/track/4AE2k4Ng7W6Yj5tD9xqVo2"
@@ -1526,7 +1526,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 160520,
       "name": "Shout, Sister, Shout!",
       "url": "https://open.spotify.com/track/52ppD2ntvCjr22dP17fuJ7"
@@ -1544,7 +1544,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 200586,
       "name": "Sing and Shout",
       "url": "https://open.spotify.com/track/31ZnDwW7ERlKZRvLrWKgrl"
@@ -1598,7 +1598,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 133160,
       "name": "Sit Down",
       "url": "https://open.spotify.com/track/5wEg2hMv0QRDuUoySWRRu6"
@@ -1732,7 +1732,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 214273,
       "name": "Stand by Me",
       "url": "https://open.spotify.com/track/7j3gsabZNOnUJ8XlvL9WFq"
@@ -1858,7 +1858,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 173688,
       "name": "The Devil Has Thrown Him Down",
       "url": "https://open.spotify.com/track/4kAlnTkUPazNX7rIq03Npw"
@@ -1970,7 +1970,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 146773,
       "name": "There Is Something Within Me",
       "url": "https://open.spotify.com/track/6bM7JWEqwRTwNfmEMKym5R"
@@ -2024,7 +2024,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 282813,
       "name": "This Train",
       "url": "https://open.spotify.com/track/4FgwdqCbpfv2AX17vbF8KN"
@@ -2158,7 +2158,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 196127,
       "name": "Were You There When They Crucified My Lord?",
       "url": "https://open.spotify.com/track/5ezKCpPjLd7m6aS2hZFRie"

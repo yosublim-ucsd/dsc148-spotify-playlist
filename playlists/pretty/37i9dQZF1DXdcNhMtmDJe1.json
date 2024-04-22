@@ -1,6 +1,6 @@
 {
   "description": "Celebrated composer of jazz standards, classical masterpieces and some very catchy love songs; this is Gershwin.",
-  "num_followers": 85052,
+  "num_followers": 85051,
   "original_name": "This is Gershwin",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5QmvPo8pAa95shF5MAuNsm"
-      },
-      "artists": [
-        {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        }
-      ],
-      "duration_ms": 211960,
-      "name": "'S Wonderful",
-      "url": "https://open.spotify.com/track/6UHsYaPGop2ySwksAbreY6"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin Plays Gershwin: The Piano Rolls",
         "url": "https://open.spotify.com/album/4sX0syeh1dyi8s7Gx0m7H0"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 258093,
       "name": "So Am I",
       "url": "https://open.spotify.com/track/4BG2tiyGdAY8PWbvXd3587"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Ella Fitzgerald Sings The George And Ira Gershwin Song Book (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5QmvPo8pAa95shF5MAuNsm"
+      },
+      "artists": [
+        {
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        }
+      ],
+      "duration_ms": 211960,
+      "name": "'S Wonderful",
+      "url": "https://open.spotify.com/track/6UHsYaPGop2ySwksAbreY6"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -535,26 +535,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
-        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Martin James Bartlett",
-          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
-        }
-      ],
-      "duration_ms": 92533,
-      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
-      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Kiri sings Gershwin",
         "url": "https://open.spotify.com/album/0DbXv4zODvHFF9Imo88NR3"
       },
@@ -579,6 +559,26 @@
       "duration_ms": 187826,
       "name": "Gershwin Love Walked In (From \"The Goldwyn Follies\") [Orch. Powell]",
       "url": "https://open.spotify.com/track/6fqUacLto2pt1ipANMkjG2"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Rhapsody - Gershwin Songbook: No. 5, I Got Rhythm",
+        "url": "https://open.spotify.com/album/5u6QPwcOgG1laRXdyvyaRe"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Martin James Bartlett",
+          "url": "https://open.spotify.com/artist/6zWfzjBaMu0anAw2kHMW0O"
+        }
+      ],
+      "duration_ms": 92533,
+      "name": "Gershwin: Gershwin's Songbook: No. 5, I Got Rhythm",
+      "url": "https://open.spotify.com/track/1mFkGv6RtoUQ01ls87TTJa"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -839,30 +839,6 @@
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin for Trumpet",
-        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
-      },
-      "artists": [
-        {
-          "name": "George Gershwin",
-          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
-        },
-        {
-          "name": "Juraj Barto\u0161",
-          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
-        },
-        {
-          "name": "Peter Breiner",
-          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
-        }
-      ],
-      "duration_ms": 336000,
-      "name": "Shall we Dance, They can't take That away from me: They Can't Take That Away from Me (Arr. P. Breiner for trumpet and piano)",
-      "url": "https://open.spotify.com/track/43BmYld0Bx5IWxQaU2QwxW"
-    },
-    {
-      "added_at": "2022-08-05 04:02:00",
-      "album": {
         "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
         "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
       },
@@ -908,15 +884,15 @@
           "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
         }
       ],
-      "duration_ms": 510600,
-      "name": "A Damsel in Distress: A Foggy Day (Arr. P. Breiner)",
-      "url": "https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt"
+      "duration_ms": 336000,
+      "name": "Shall we Dance, They can't take That away from me: They Can't Take That Away from Me (Arr. P. Breiner for trumpet and piano)",
+      "url": "https://open.spotify.com/track/43BmYld0Bx5IWxQaU2QwxW"
     },
     {
       "added_at": "2022-08-05 04:02:00",
       "album": {
-        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
-        "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
+        "name": "Gershwin for Trumpet",
+        "url": "https://open.spotify.com/album/0pdegcimOFi10jS49gi458"
       },
       "artists": [
         {
@@ -924,21 +900,17 @@
           "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
         },
         {
-          "name": "Orion Weiss",
-          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+          "name": "Juraj Barto\u0161",
+          "url": "https://open.spotify.com/artist/6SvTl33pmrXRQvYktp1AqT"
         },
         {
-          "name": "Buffalo Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
-        },
-        {
-          "name": "Joann Falletta",
-          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+          "name": "Peter Breiner",
+          "url": "https://open.spotify.com/artist/50MREZ0LJcSvrtKuyTV8Su"
         }
       ],
-      "duration_ms": 762453,
-      "name": "Piano Concerto in F Major: II. Adagio",
-      "url": "https://open.spotify.com/track/46gNLKrYxnCeufo37Ai1m4"
+      "duration_ms": 510600,
+      "name": "A Damsel in Distress: A Foggy Day (Arr. P. Breiner)",
+      "url": "https://open.spotify.com/track/60Ivc8tpIsZhPgeP9CJhqt"
     },
     {
       "added_at": "2022-08-05 04:02:00",
@@ -1047,6 +1019,34 @@
       "duration_ms": 417640,
       "name": "Overture (From \"Strike Up the Band\") [Arr. D. Rose for Orchestra]",
       "url": "https://open.spotify.com/track/7rEOx9erYQKfhmeUJyAgJC"
+    },
+    {
+      "added_at": "2022-08-05 04:02:00",
+      "album": {
+        "name": "Gershwin: Piano Concerto in F Major, 2nd Rhapsody & I Got Rhythm Variations",
+        "url": "https://open.spotify.com/album/2G5PbCn4yCRPGdzAVoTNxr"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Orion Weiss",
+          "url": "https://open.spotify.com/artist/5iT645Y7XQ99AdNq7hGI2e"
+        },
+        {
+          "name": "Buffalo Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/6iDnYNOkR3z2A3czefBnaK"
+        },
+        {
+          "name": "Joann Falletta",
+          "url": "https://open.spotify.com/artist/4XNYbiwP1fToWVyvNPTMMK"
+        }
+      ],
+      "duration_ms": 762453,
+      "name": "Piano Concerto in F Major: II. Adagio",
+      "url": "https://open.spotify.com/track/46gNLKrYxnCeufo37Ai1m4"
     },
     {
       "added_at": "2022-08-05 04:02:00",

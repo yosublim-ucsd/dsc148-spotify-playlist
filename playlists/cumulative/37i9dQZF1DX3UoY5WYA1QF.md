@@ -4,11 +4,11 @@
 
 > Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.
 
-140 songs - 7 hr 19 min
+141 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [25 Rosas](https://open.spotify.com/track/3w08iUjYVTFdpaUKDdek0U) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Exitos \- Joan Sebastian](https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy) | 3:00 | 2023-04-10 |  |
+| [25 Rosas](https://open.spotify.com/track/3w08iUjYVTFdpaUKDdek0U) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [15 Grandes Exitos \- Joan Sebastian](https://open.spotify.com/album/3BUKCyMR8wUcz7ekY5Oxjy) | 3:00 | 2023-04-10 | 2024-04-22 |
 | [A Quién Vas A Amar Más Que A Mí](https://open.spotify.com/track/5s6D3aH0ZJPVW2BmQBPpaJ) | [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [Para Siempre Los Nietos De Terán](https://open.spotify.com/album/3tUjVgBRVOdcwmCyRiPdrt) | 2:51 | 2023-04-10 | 2024-04-19 |
 | [A Quién Vas A Amar Más Que A Mí](https://open.spotify.com/track/1rjoK1uBEVZjOPGzxZbWDJ) | [Los Nietos De Terán](https://open.spotify.com/artist/2aRlqEM3PhwgKtXmYOWhFf), [La Abuela Irma Silva](https://open.spotify.com/artist/54326fpqCFfVK6deMVzOTq) | [A Quién Vas A Amar Más Que A Mí](https://open.spotify.com/album/0ER0ByDLQTlDQ5jHruKjMO) | 2:51 | 2023-04-10 |  |
 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 | 2023-04-10 |  |
@@ -92,6 +92,7 @@
 | [Mata El Recuerdo](https://open.spotify.com/track/4gDTjvWcEVIJNrmutfpFTu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Otra Vez](https://open.spotify.com/album/4m0gGYxARQYFGbAuXn4AAF) | 3:05 | 2023-04-10 |  |
 | [Mayra](https://open.spotify.com/track/5iqAE9eRwewAI7mtpdTphG) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [Nuestras Favoritas De Joan Sebastian](https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT) | 3:14 | 2023-04-10 |  |
 | [Me Dueles](https://open.spotify.com/track/2j3goI4D6w6SGqQEJYzO0s) | [Alejandro Fernández](https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9) | [Dos Mundos Tradición](https://open.spotify.com/album/0iB7cMguWS4caKxufTEG2I) | 2:58 | 2023-04-10 |  |
+| [Me Gustas](https://open.spotify.com/track/7ExYnTuBouEyCDCSo5xRbh) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/1wc7nRyIpIhe2DXcPs7JaM) | 3:27 | 2023-04-10 |  |
 | [Me Gustas](https://open.spotify.com/track/7jtbRKtXtGtsJOBMaBo72W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Secreto De Amor](https://open.spotify.com/album/2OivwIlbg7qwTg8SLGB0rV) | 3:27 | 2023-04-10 | 2024-04-19 |
 | [Medios Hermanos](https://open.spotify.com/track/64ipivlugGKqBdGRFbQmpm) | [Miguel Y Miguel](https://open.spotify.com/artist/7fmQXLCgx5q0vkGArvS6mm) | [Grandes De Joan Sebastián](https://open.spotify.com/album/7fpLd3ssUyFM5PQFgjk6Sb) | 3:32 | 2023-04-10 |  |
 | [Melodia Para Dos](https://open.spotify.com/track/3sLRC3lwcKEn6tdGc0xoWI) | [Sonora Tropicana](https://open.spotify.com/artist/0XKgjkHamDZy6obrO52fIs) | [Tesoros De Coleccion](https://open.spotify.com/album/7g5bfjbwzzYDTXFqBXaGfn) | 2:43 | 2023-04-10 | 2024-04-19 |

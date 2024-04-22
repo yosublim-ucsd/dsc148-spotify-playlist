@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 7921,
+  "2024-04-22": 7929,
   "date_first_scraped": "2022-09-21",
   "description": "Freshest of Pakistani discoveries. Cover - Aashir Wajahat\n",
   "name": "Fresh Finds Pakistan",
@@ -101,6 +101,28 @@
       "duration_ms": 174006,
       "name": "21",
       "url": "https://open.spotify.com/track/0URl70xQCUwWmhEeGO4Ga6"
+    },
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq"
+      },
+      "artists": [
+        {
+          "name": "Star Shah",
+          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
+        },
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302306,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h"
     },
     {
       "album": {

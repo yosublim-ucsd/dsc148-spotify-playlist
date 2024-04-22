@@ -4,7 +4,7 @@
 
 > This Is Zona Ganjah\. Los temas esenciales, todos en una lista.
 
-63 songs - 3 hr 59 min
+64 songs - 4 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Dicen y dicen](https://open.spotify.com/track/6c2IWkxfyvAO1HO21AxbSI) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:38 | 2022-05-26 | 2022-10-13 |
 | [Dos que Brillamos](https://open.spotify.com/track/3g6a9iLkuWfUnqD7bslHC4) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:05 | 2022-05-25 |  |
 | [En la naturaleza](https://open.spotify.com/track/7KM07uVWpOtSqwzvZfgZ73) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:29 | 2022-05-26 | 2022-10-13 |
+| [En Zion mi anhelo](https://open.spotify.com/track/2Zyo7QD2QZ4gswBZNDDJiS) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:13 | 2024-04-22 |  |
 | [En Zion mi anhelo](https://open.spotify.com/track/2DtKSErB8T984w0XGfSGIr) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 4:16 | 2022-05-25 | 2024-04-13 |
 | [Es Ignorancia](https://open.spotify.com/track/2VpS3jSmRQRx8jprvjz9qM) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:04 | 2022-05-25 |  |
 | [Esa luz](https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:03 | 2022-05-25 |  |
@@ -46,7 +47,7 @@
 | [La vida](https://open.spotify.com/track/4Zsd5tcOdGhabgr3CUKDHA) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La vida](https://open.spotify.com/album/1n6Ab0Qnl5nKt2MJfzeq8n) | 3:51 | 2022-05-25 | 2022-06-14 |
 | [La vida \- Remastered](https://open.spotify.com/track/4uG1CIuJ6uG6bWh6VMYlaF) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:51 | 2022-06-19 |  |
 | [Laberinto interno](https://open.spotify.com/track/4W5AGY6yA6jQb8UiHQpJD0) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:53 | 2022-05-26 |  |
-| [Liberame](https://open.spotify.com/track/7BuIXkMWLEumdFEEKngFXK) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:10 | 2022-05-25 |  |
+| [Liberame](https://open.spotify.com/track/7BuIXkMWLEumdFEEKngFXK) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:10 | 2022-05-25 | 2024-04-22 |
 | [Libre te hara](https://open.spotify.com/track/05FonB4ghTXAkpuogIzdhz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:14 | 2022-05-25 |  |
 | [Lo importante](https://open.spotify.com/track/6aTyDIjOo0oP4zCWTvITBP) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:20 | 2022-08-05 | 2023-01-07 |
 | [Luces de la ciudad](https://open.spotify.com/track/3zznC4iFBLSBcPFg1R0Adk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:18 | 2022-05-25 |  |

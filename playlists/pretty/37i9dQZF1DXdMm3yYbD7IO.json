@@ -1,6 +1,6 @@
 {
   "description": "Move your body with your favorite 90s songs.",
-  "num_followers": 334995,
+  "num_followers": 335355,
   "original_name": "90's Workout",
   "owner": {
     "name": "Spotify",
@@ -147,22 +147,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "The Sign",
-        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
-      },
-      "artists": [
-        {
-          "name": "Ace of Base",
-          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
-        }
-      ],
-      "duration_ms": 191240,
-      "name": "The Sign",
-      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Big Willie Style",
         "url": "https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "The Sign",
+        "url": "https://open.spotify.com/album/5UwIyIyFzkM7wKeGtRJPgB"
+      },
+      "artists": [
+        {
+          "name": "Ace of Base",
+          "url": "https://open.spotify.com/artist/5ksRONqssB7BR161NTtJAm"
+        }
+      ],
+      "duration_ms": 191240,
+      "name": "The Sign",
+      "url": "https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
+        "name": "Spice",
+        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
+      },
+      "artists": [
+        {
+          "name": "Spice Girls",
+          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
+        }
+      ],
+      "duration_ms": 235973,
+      "name": "Say You'll Be There",
+      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
         "name": "Hear My Cry",
         "url": "https://open.spotify.com/album/4LX27S3cszKEJW84BGa1Ff"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 246426,
       "name": "Waiting for Tonight",
       "url": "https://open.spotify.com/track/5yaCquc7koPqtgj7v0lwHX"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
-        "name": "Spice",
-        "url": "https://open.spotify.com/album/3x2jF7blR6bFHtk4MccsyJ"
-      },
-      "artists": [
-        {
-          "name": "Spice Girls",
-          "url": "https://open.spotify.com/artist/0uq5PttqEjj3IH1bzwcrXF"
-        }
-      ],
-      "duration_ms": 235973,
-      "name": "Say You'll Be There",
-      "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -735,26 +735,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Europop",
-        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
-      },
-      "artists": [
-        {
-          "name": "Eiffel 65",
-          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
-        },
-        {
-          "name": "Gabry Ponte",
-          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
-        }
-      ],
-      "duration_ms": 283747,
-      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
-      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Horny (Radio Edit's)",
         "url": "https://open.spotify.com/album/3WQ59lVT7UR1WvU0Of3W4D"
       },
@@ -787,6 +767,26 @@
       "duration_ms": 211000,
       "name": "Tearin' up My Heart - Radio Edit",
       "url": "https://open.spotify.com/track/594M0rqYMOo8BhMGEdoi5C"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Europop",
+        "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
+      },
+      "artists": [
+        {
+          "name": "Eiffel 65",
+          "url": "https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF"
+        },
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        }
+      ],
+      "duration_ms": 283747,
+      "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
+      "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
     },
     {
       "added_at": "2024-03-22 15:16:56",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-22 15:16:56",
       "album": {
-        "name": "Remember Me",
-        "url": "https://open.spotify.com/album/12VFylHDX01Xw4joC9wH6Z"
-      },
-      "artists": [
-        {
-          "name": "Blue Boy",
-          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
-        }
-      ],
-      "duration_ms": 424306,
-      "name": "Remember Me - Original Mix",
-      "url": "https://open.spotify.com/track/0nhu2tp9FXwTu8kUDvS0xO"
-    },
-    {
-      "added_at": "2024-03-22 15:16:56",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/4043DNu4jVlMNetxtdh68B"
       },
@@ -1203,6 +1187,22 @@
       "duration_ms": 198573,
       "name": "Crush (Dance Mix)",
       "url": "https://open.spotify.com/track/39D7jfatdB8iX42ZCJmILT"
+    },
+    {
+      "added_at": "2024-03-22 15:16:56",
+      "album": {
+        "name": "Remember Me",
+        "url": "https://open.spotify.com/album/12VFylHDX01Xw4joC9wH6Z"
+      },
+      "artists": [
+        {
+          "name": "Blue Boy",
+          "url": "https://open.spotify.com/artist/5wAkbDfgFUeXzWO4rdPQiG"
+        }
+      ],
+      "duration_ms": 424306,
+      "name": "Remember Me - Original Mix",
+      "url": "https://open.spotify.com/track/0nhu2tp9FXwTu8kUDvS0xO"
     },
     {
       "added_at": "2024-03-22 15:16:56",

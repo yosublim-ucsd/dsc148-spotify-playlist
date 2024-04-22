@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-406 songs - 19 hr 39 min
+407 songs - 19 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Apollo](https://open.spotify.com/track/3OsZkVwyJhGLJ0KrdUx23o) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Apollo](https://open.spotify.com/album/3yblFXYTz2eKaNd36H6QQz) | 2:50 | 2022-06-09 | 2022-12-18 |
 | [Aquafina](https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Aquafina](https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC) | 2:48 | 2023-04-28 |  |
 | [Ara \(Gen Gen Tin\)](https://open.spotify.com/track/1j9I9JrUTXNblSWazCq9CU) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Ara \(Gen Gen Tin\)](https://open.spotify.com/album/4ysDR8PYoFO4R6rNMOYSSO) | 2:26 | 2023-03-16 | 2023-11-12 |
-| [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 |  |
+| [Arizona](https://open.spotify.com/track/3SA6Rfor4ghxWbyxxdpV3c) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Arizona](https://open.spotify.com/album/0qiVeOmNPdZy5ky2j74Cga) | 2:19 | 2023-11-24 | 2024-04-22 |
 | [Ashewo Boy](https://open.spotify.com/track/3VwRxqjO4kvpaiBefwzZ1S) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Last Son of a Widow](https://open.spotify.com/album/5ggCK28dJNwpH58dNI8BFr) | 2:26 | 2023-11-03 | 2023-11-17 |
 | [Asibe Happy](https://open.spotify.com/track/6F70m9aMK4PSJKBfp1H8DZ) | [Kabza De Small](https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [Asibe Happy](https://open.spotify.com/album/0K6ImXCD9oG3p3HBcAq9UA) | 7:38 | 2022-06-09 | 2022-10-09 |
 | [At This Point](https://open.spotify.com/track/0sPVT91gQlOy5WIxstCbUh) | [Hotkid](https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj), [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI) | [At This Point](https://open.spotify.com/album/0x4rCwdWzIqrW2XNWGVN0M) | 2:19 | 2024-03-22 |  |
@@ -395,6 +395,7 @@
 | [UNAVAILABLE \(feat\. Musa Keys\) \- Latto Remix](https://open.spotify.com/track/29Mf5GsUgU3KLh3lAOGIU3) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Musa Keys](https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [UNAVAILABLE \(feat\. Musa Keys\) \[Latto Remix\]](https://open.spotify.com/album/5bnvOHmaiVvrc4uz5LJojE) | 2:52 | 2023-08-18 | 2023-09-23 |
 | [understand](https://open.spotify.com/track/6oOCGD2Sp9UTcDsuDz8Hdu) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:54 | 2022-06-09 | 2023-09-28 |
 | [Up Forever](https://open.spotify.com/track/1KlbfHhbjOYMBQCCwjTYAi) | [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Up Forever](https://open.spotify.com/album/0MudurbiRd1bZh3Vpagh2Z) | 2:30 | 2023-12-01 | 2024-01-13 |
+| [Wadibusa \(feat\. OHP Sage, Pcee, & Djy Biza\)](https://open.spotify.com/track/5DqA8IUhk1DQSGmf6XOVrI) | [Uncle Waffles](https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ), [Royal MusiQ](https://open.spotify.com/artist/0UDlBvCj6BwV8uYLf8zzKS), [Ohp Sage](https://open.spotify.com/artist/1gXN6AnsN21VxAi55o3oAm), [Pcee](https://open.spotify.com/artist/22Bl1QCNEZvpqVwRPYscE4), [Djy Biza](https://open.spotify.com/artist/1YO25RWxpZ2Pvg82Bs4ING) | [Wadibusa \(feat\. OHP Sage, Pcee, & Djy Biza\)](https://open.spotify.com/album/1vpRmBwAIRhGbWQ8o7r8UI) | 4:45 | 2024-04-19 |  |
 | [Waist Drop](https://open.spotify.com/track/0pq7v5FzfN7pv4qVk173a5) | [L.A.X](https://open.spotify.com/artist/6lNEt5LSOQRUFl43OnnHUL) | [Waist Drop](https://open.spotify.com/album/2bXMxsnq3X6PgRx4Oucn3H) | 2:47 | 2022-06-09 | 2023-01-20 |
 | [Walking Dead](https://open.spotify.com/track/18jFtQZUqk4n4lzmjweLq5) | [Ayox](https://open.spotify.com/artist/1lxw1eewbvAVmEwJrYUDEx), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Walking Dead](https://open.spotify.com/album/2mNsSI2EXm4w1Nn5QkqJFq) | 2:30 | 2023-09-27 | 2023-12-16 |
 | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/track/3AZY6NZ1R8GI9003EEFPeu) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Abidoza](https://open.spotify.com/artist/1Ck3UYsoNkZ63PLY8yZR33) | [WATAWI \(feat\. Davido, Focalistic & Abidoza\)](https://open.spotify.com/album/5hxrayrgITzYPpQ6uEg3kL) | 5:05 | 2022-06-16 | 2023-04-21 |

@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 91626,
+  "num_followers": 91769,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 133977,
+      "name": "BICHOTAG",
+      "url": "https://open.spotify.com/track/5CQXesQM39J0CBnY0Npp6S"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Phone",
         "url": "https://open.spotify.com/album/7ajeVOWfz9qfKlEXDBN5Uo"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 155076,
       "name": "Phone",
       "url": "https://open.spotify.com/track/0GTuyzPTs2G0wqFD1trSOw"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 133977,
-      "name": "BICHOTAG",
-      "url": "https://open.spotify.com/track/5CQXesQM39J0CBnY0Npp6S"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1337,6 +1337,22 @@
       "url": "https://open.spotify.com/track/12WuJATJtln4wMEQ1EEMOO"
     },
     {
+      "added_at": "2023-12-01 18:29:06",
+      "album": {
+        "name": "smile",
+        "url": "https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a"
+      },
+      "artists": [
+        {
+          "name": "Insincere",
+          "url": "https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI"
+        }
+      ],
+      "duration_ms": 165307,
+      "name": "smile",
+      "url": "https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx"
+    },
+    {
       "added_at": "2023-11-20 15:00:00",
       "album": {
         "name": "i've got a bf (best friend)",
@@ -1355,22 +1371,6 @@
       "duration_ms": 148852,
       "name": "i've got a bf (best friend)",
       "url": "https://open.spotify.com/track/34OjRqhUtpC3lkhsVpIr1D"
-    },
-    {
-      "added_at": "2023-12-01 18:29:06",
-      "album": {
-        "name": "smile",
-        "url": "https://open.spotify.com/album/0uZJPZPqhHyTacaugkeg4a"
-      },
-      "artists": [
-        {
-          "name": "Insincere",
-          "url": "https://open.spotify.com/artist/3IkzWxjxkhMaIlMbvTIRXI"
-        }
-      ],
-      "duration_ms": 165307,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/5t8Rq9zn8w41gRpNtVjzdx"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Powder",
-        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
-      },
-      "artists": [
-        {
-          "name": "Pontypool",
-          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
-        }
-      ],
-      "duration_ms": 206680,
-      "name": "Powder",
-      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "DICHOTOMY",
         "url": "https://open.spotify.com/album/2spJG3BUUV6ec0CvvNSUZg"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 223278,
       "name": "Paradox",
       "url": "https://open.spotify.com/track/7ylEdgnznF9rAjDEsmpsRp"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Powder",
+        "url": "https://open.spotify.com/album/1RrDvZ7Nz0Lcgd1rwfb92R"
+      },
+      "artists": [
+        {
+          "name": "Pontypool",
+          "url": "https://open.spotify.com/artist/1YbwDEYd3zXoAZy4WbutXZ"
+        }
+      ],
+      "duration_ms": 206680,
+      "name": "Powder",
+      "url": "https://open.spotify.com/track/16rnpRKp27VbbnW9t7DHHd"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1495,30 +1495,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "Mamgobhozi",
-        "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
-      },
-      "artists": [
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Major League Djz",
-          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
-        },
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 236379,
-      "name": "Mamgobhozi",
-      "url": "https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Haunt My Mind (Machinedrum Remix)",
         "url": "https://open.spotify.com/album/28qqCQqnNzVnAsfXOsuaDU"
       },
@@ -1583,6 +1559,30 @@
       "duration_ms": 148674,
       "name": "My Way",
       "url": "https://open.spotify.com/track/7jNvkE2zWQeUqLJpy6tbyq"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "Mamgobhozi",
+        "url": "https://open.spotify.com/album/3stGihwj49yO2EJ6Ovl598"
+      },
+      "artists": [
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Major League Djz",
+          "url": "https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb"
+        },
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 236379,
+      "name": "Mamgobhozi",
+      "url": "https://open.spotify.com/track/6bzWAiIR1YNGcnBeFYQBl5"
     },
     {
       "added_at": "2023-11-20 15:00:00",
@@ -1707,26 +1707,6 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
-        "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
-        "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
-      },
-      "artists": [
-        {
-          "name": "Jords",
-          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
-        },
-        {
-          "name": "Jordan Mackampa",
-          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
-        }
-      ],
-      "duration_ms": 267066,
-      "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
-      "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
         "name": "Tings My Way",
         "url": "https://open.spotify.com/album/5ljS6V83W1O00uaXLFRYW5"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 124878,
       "name": "Tings My Way",
       "url": "https://open.spotify.com/track/3xdiLJ5x946mdlj3vwbPPu"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
+        "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
+        "url": "https://open.spotify.com/album/1KZV8Ywiz12q19o5rtFMoU"
+      },
+      "artists": [
+        {
+          "name": "Jords",
+          "url": "https://open.spotify.com/artist/7lhD6ETR0JNlpJWYycy3jx"
+        },
+        {
+          "name": "Jordan Mackampa",
+          "url": "https://open.spotify.com/artist/24WPEGLYPvEsmk4GSDFyST"
+        }
+      ],
+      "duration_ms": 267066,
+      "name": "FIST IN THE SKY (feat. Jordan Mackampa)",
+      "url": "https://open.spotify.com/track/3yVz0LNJ7gdMsAfIAxlKJO"
     },
     {
       "added_at": "2023-11-20 15:00:00",

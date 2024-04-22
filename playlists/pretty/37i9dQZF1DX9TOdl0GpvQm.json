@@ -1,6 +1,6 @@
 {
   "description": "Walk the threshold into the netherworld...",
-  "num_followers": 159278,
+  "num_followers": 159333,
   "original_name": "Hauntology",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
-      },
-      "artists": [
-        {
-          "name": "Kyle Dixon & Michael Stein",
-          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
-        }
-      ],
-      "duration_ms": 219893,
-      "name": "Eulogy",
-      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "The Very Best Of",
         "url": "https://open.spotify.com/album/0T5JxyJdfCZAOMnX9uZehI"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 180373,
       "name": "Saute-Mouton",
       "url": "https://open.spotify.com/track/2NVfqbSEFDT6CmDA2DQMpZ"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Stranger Things 2 (Soundtrack from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/2l0rdHb97fQidl9dsOxE6B"
+      },
+      "artists": [
+        {
+          "name": "Kyle Dixon & Michael Stein",
+          "url": "https://open.spotify.com/artist/00oL7zWxmWveTsKF7DnIRd"
+        }
+      ],
+      "duration_ms": 219893,
+      "name": "Eulogy",
+      "url": "https://open.spotify.com/track/5SjLRpgI7LWFzy9ggSqlkO"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/5JJSEkQUbrh9lkKnh0jq5s"
     },
     {
-      "added_at": "2023-12-20 05:17:07",
-      "album": {
-        "name": "Everywhere at the End of Time (Stage 2)",
-        "url": "https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm"
-      },
-      "artists": [
-        {
-          "name": "The Caretaker",
-          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
-        }
-      ],
-      "duration_ms": 282695,
-      "name": "C2 - Misplaced in time",
-      "url": "https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON"
-    },
-    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "Traces of Time",
@@ -443,6 +427,22 @@
       "duration_ms": 160441,
       "name": "Kommissar Brenkstrupp (Main Titles)",
       "url": "https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN"
+    },
+    {
+      "added_at": "2023-12-20 05:17:07",
+      "album": {
+        "name": "Everywhere at the End of Time (Stage 2)",
+        "url": "https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm"
+      },
+      "artists": [
+        {
+          "name": "The Caretaker",
+          "url": "https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP"
+        }
+      ],
+      "duration_ms": 282695,
+      "name": "C2 - Misplaced in time",
+      "url": "https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON"
     },
     {
       "added_at": "2024-02-02 05:51:49",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
-        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
-      },
-      "artists": [
-        {
-          "name": "Throbbing Gristle",
-          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
-        }
-      ],
-      "duration_ms": 249023,
-      "name": "Hamburger Lady - Remastered",
-      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Inter-Dimensional Music",
         "url": "https://open.spotify.com/album/59hWFsFOPOrXQMeTiXYGLr"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 252146,
       "name": "Lueena Coast",
       "url": "https://open.spotify.com/track/6JR1XlStv1gnRLT7sNek4q"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "D.O.A. The Third and Final Report of Throbbing Gristle (Remastered)",
+        "url": "https://open.spotify.com/album/5Mbw7VLJdYGYbwWBUbPPgi"
+      },
+      "artists": [
+        {
+          "name": "Throbbing Gristle",
+          "url": "https://open.spotify.com/artist/1UYhxPY1oqFUg1HfF8nV3k"
+        }
+      ],
+      "duration_ms": 249023,
+      "name": "Hamburger Lady - Remastered",
+      "url": "https://open.spotify.com/track/7eAewwhDIvqRKaIuRp71Sv"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -643,26 +643,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Study Series 07: Autumnal Activities",
-        "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
       },
       "artists": [
-        {
-          "name": "Pye Corner Audio with The Advisory Circle",
-          "url": "https://open.spotify.com/artist/29C6FFgTDpuzN92DEnrHTl"
-        },
-        {
-          "name": "Pye Corner Audio",
-          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
-        },
         {
           "name": "The Advisory Circle",
           "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
         }
       ],
-      "duration_ms": 168126,
-      "name": "November Sequence",
-      "url": "https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2"
+      "duration_ms": 207866,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
     },
     {
       "added_at": "2022-03-11 06:00:33",
@@ -687,18 +679,26 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+        "name": "Study Series 07: Autumnal Activities",
+        "url": "https://open.spotify.com/album/4kszHqLUfAllYvodM8wM5r"
       },
       "artists": [
+        {
+          "name": "Pye Corner Audio with The Advisory Circle",
+          "url": "https://open.spotify.com/artist/29C6FFgTDpuzN92DEnrHTl"
+        },
+        {
+          "name": "Pye Corner Audio",
+          "url": "https://open.spotify.com/artist/3ib3ECT421EXd8CNLfNqAL"
+        },
         {
           "name": "The Advisory Circle",
           "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
         }
       ],
-      "duration_ms": 207866,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
+      "duration_ms": 168126,
+      "name": "November Sequence",
+      "url": "https://open.spotify.com/track/20izJg7Kft3HmOtmalKBl2"
     },
     {
       "added_at": "2023-12-22 16:02:06",
@@ -849,22 +849,6 @@
       "url": "https://open.spotify.com/track/15QDc2N1Uo2FM8oYV6IA1J"
     },
     {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Flowers Of Evil",
-        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 848256,
-      "name": "Flowers Of Evil",
-      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
-    },
-    {
       "added_at": "2023-12-12 20:36:27",
       "album": {
         "name": "El Tonto",
@@ -879,6 +863,22 @@
       "duration_ms": 133853,
       "name": "La Nebulosa",
       "url": "https://open.spotify.com/track/7bnAhrmY8bSH8cw8zmI8DK"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Flowers Of Evil",
+        "url": "https://open.spotify.com/album/0XB4eado6AWXas8Z98FmG6"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 848256,
+      "name": "Flowers Of Evil",
+      "url": "https://open.spotify.com/track/39yNHxks286iIcWLmQCg2m"
     },
     {
       "added_at": "2022-07-15 05:23:56",
@@ -899,6 +899,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "The Elektrik Karousel",
+        "url": "https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8"
+      },
+      "artists": [
+        {
+          "name": "The Focus Group",
+          "url": "https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU"
+        }
+      ],
+      "duration_ms": 144543,
+      "name": "Kinky Korner Klub",
+      "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Lazy",
         "url": "https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh"
       },
@@ -915,38 +931,6 @@
       "duration_ms": 296479,
       "name": "Sleep",
       "url": "https://open.spotify.com/track/2V5fHNhW9C1D5eSKx8zeSb"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "Perception Report 2",
-        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
-      },
-      "artists": [
-        {
-          "name": "The Night Monitor",
-          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
-        }
-      ],
-      "duration_ms": 254955,
-      "name": "Dance of the Mince Pie Martians",
-      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Elektrik Karousel",
-        "url": "https://open.spotify.com/album/4JvqNOHhRlmmRedc3NK7v8"
-      },
-      "artists": [
-        {
-          "name": "The Focus Group",
-          "url": "https://open.spotify.com/artist/1rBMmvtO1VqLH4kSpe5oaU"
-        }
-      ],
-      "duration_ms": 144543,
-      "name": "Kinky Korner Klub",
-      "url": "https://open.spotify.com/track/3SfDfknpokP9xM4q3QKeqU"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -981,20 +965,20 @@
       "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
     },
     {
-      "added_at": "2023-07-18 19:07:28",
+      "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Tinnitus",
-        "url": "https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J"
+        "name": "Perception Report 2",
+        "url": "https://open.spotify.com/album/4HRx2jXRLDMwaGQ5OgtIat"
       },
       "artists": [
         {
-          "name": "David Boulter",
-          "url": "https://open.spotify.com/artist/5VUBJKfJCbFqezm6lHrLHp"
+          "name": "The Night Monitor",
+          "url": "https://open.spotify.com/artist/3CZX2LMIYMGF8CK70c6zMm"
         }
       ],
-      "duration_ms": 122368,
-      "name": "Tinnitus Titles (Tinnitus OST)",
-      "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
+      "duration_ms": 254955,
+      "name": "Dance of the Mince Pie Martians",
+      "url": "https://open.spotify.com/track/1SciwnxrXz7WNUfcqH6lqF"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1011,6 +995,22 @@
       "duration_ms": 193346,
       "name": "The Black Drop",
       "url": "https://open.spotify.com/track/3Q6uOdluKWobVlA5590G5i"
+    },
+    {
+      "added_at": "2023-07-18 19:07:28",
+      "album": {
+        "name": "Tinnitus",
+        "url": "https://open.spotify.com/album/1Ql9iOzse7nbLemXldLd1J"
+      },
+      "artists": [
+        {
+          "name": "David Boulter",
+          "url": "https://open.spotify.com/artist/5VUBJKfJCbFqezm6lHrLHp"
+        }
+      ],
+      "duration_ms": 122368,
+      "name": "Tinnitus Titles (Tinnitus OST)",
+      "url": "https://open.spotify.com/track/41raaLWyqsMOStu9sYqJPK"
     },
     {
       "added_at": "2022-02-21 20:35:59",
@@ -1277,6 +1277,22 @@
       "url": "https://open.spotify.com/track/1Yddi8T49f9KwEMn7RnZSN"
     },
     {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "Study Series 09: \"Projections\"",
+        "url": "https://open.spotify.com/album/2up3mfykEEM2l8IKMi60vb"
+      },
+      "artists": [
+        {
+          "name": "Listening Center",
+          "url": "https://open.spotify.com/artist/0aRECIgfOv83734a9YRnki"
+        }
+      ],
+      "duration_ms": 271485,
+      "name": "Titoli",
+      "url": "https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh"
+    },
+    {
       "added_at": "2022-05-24 01:10:52",
       "album": {
         "name": "Tloque Nahuaque",
@@ -1303,18 +1319,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Study Series 09: \"Projections\"",
-        "url": "https://open.spotify.com/album/2up3mfykEEM2l8IKMi60vb"
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
       },
       "artists": [
         {
-          "name": "Listening Center",
-          "url": "https://open.spotify.com/artist/0aRECIgfOv83734a9YRnki"
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
         }
       ],
-      "duration_ms": 271485,
-      "name": "Titoli",
-      "url": "https://open.spotify.com/track/2Rvjpyr0IV4LlJ2O7o6jVh"
+      "duration_ms": 228289,
+      "name": "Fol-de-rol",
+      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2022-06-08 02:20:31",
@@ -1331,22 +1347,6 @@
       "duration_ms": 437634,
       "name": "Umbra",
       "url": "https://open.spotify.com/track/65oyZGxKUxzfv12LglkHbO"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Willows",
-        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 221626,
-      "name": "Caermaen",
-      "url": "https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi"
     },
     {
       "added_at": "2022-03-30 05:15:55",
@@ -1431,6 +1431,22 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
+        "name": "The Willows",
+        "url": "https://open.spotify.com/album/5ilT4DXjIzF81QkF5uYMZU"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 221626,
+      "name": "Caermaen",
+      "url": "https://open.spotify.com/track/4qkrxmPzmepaAzbxhaA6Oi"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
         "name": "Spacemen Mystery of the Terror Triangle",
         "url": "https://open.spotify.com/album/6NWEGsCYZxiyyc4ULdLntX"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 313600,
       "name": "Francis K.",
       "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
-      },
-      "artists": [
-        {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
-        }
-      ],
-      "duration_ms": 228289,
-      "name": "Fol-de-rol",
-      "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1509,6 +1509,38 @@
       "url": "https://open.spotify.com/track/12yR0xcp0nGr0pSsDzzMUe"
     },
     {
+      "added_at": "2022-04-05 14:39:00",
+      "album": {
+        "name": "Vesica Piscis",
+        "url": "https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e"
+      },
+      "artists": [
+        {
+          "name": "Vesica Piscis",
+          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
+        }
+      ],
+      "duration_ms": 236192,
+      "name": "Bugambilia",
+      "url": "https://open.spotify.com/track/1BhJi0s4bsMpvwvdOmrNsa"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Gone Away",
+        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+      },
+      "artists": [
+        {
+          "name": "Belbury Poly",
+          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+        }
+      ],
+      "duration_ms": 241258,
+      "name": "Corner of the Eye",
+      "url": "https://open.spotify.com/track/0yGROd1yLTCjlFxtVtXc9a"
+    },
+    {
       "added_at": "2021-10-27 14:20:30",
       "album": {
         "name": "The Book of Dogma III",
@@ -1527,22 +1559,6 @@
       "duration_ms": 183226,
       "name": "Dear Ron",
       "url": "https://open.spotify.com/track/77mVQ3nmIau6fRuTG81HF6"
-    },
-    {
-      "added_at": "2022-04-05 14:39:00",
-      "album": {
-        "name": "Vesica Piscis",
-        "url": "https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e"
-      },
-      "artists": [
-        {
-          "name": "Vesica Piscis",
-          "url": "https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6"
-        }
-      ],
-      "duration_ms": 236192,
-      "name": "Bugambilia",
-      "url": "https://open.spotify.com/track/1BhJi0s4bsMpvwvdOmrNsa"
     },
     {
       "added_at": "2021-10-27 14:20:30",
@@ -1571,22 +1587,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "Im Hag",
-        "url": "https://open.spotify.com/album/7GbLgBz049xqbJhnyavn0Q"
-      },
-      "artists": [
-        {
-          "name": "ToiToiToi",
-          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
-        }
-      ],
-      "duration_ms": 131733,
-      "name": "Kilon",
-      "url": "https://open.spotify.com/track/70rEL6J2nQ6MPs3ovlomEn"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "Ouroborindra",
         "url": "https://open.spotify.com/album/5AzeLnYYLMOmvdTjkNKvrd"
       },
@@ -1603,18 +1603,18 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Gone Away",
-        "url": "https://open.spotify.com/album/0xd7v6oCe19dDOKz7Po6lv"
+        "name": "Im Hag",
+        "url": "https://open.spotify.com/album/7GbLgBz049xqbJhnyavn0Q"
       },
       "artists": [
         {
-          "name": "Belbury Poly",
-          "url": "https://open.spotify.com/artist/0CiNWo5EYXqsHrRkmEBgSB"
+          "name": "ToiToiToi",
+          "url": "https://open.spotify.com/artist/7GsvaD3QjxU9RtBAzCU3De"
         }
       ],
-      "duration_ms": 241258,
-      "name": "Corner of the Eye",
-      "url": "https://open.spotify.com/track/0yGROd1yLTCjlFxtVtXc9a"
+      "duration_ms": 131733,
+      "name": "Kilon",
+      "url": "https://open.spotify.com/track/70rEL6J2nQ6MPs3ovlomEn"
     },
     {
       "added_at": "2022-09-30 05:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2021-10-27 14:20:30",
       "album": {
-        "name": "The Super Sounds Of Bosworth",
-        "url": "https://open.spotify.com/album/2ARy8T6ej1fifQKrnFT3zy"
-      },
-      "artists": [
-        {
-          "name": "V\u00e1clav Nelh\u00fdbel",
-          "url": "https://open.spotify.com/artist/4QHuaQ6Rsd3Mqz1Fcgs08f"
-        }
-      ],
-      "duration_ms": 45853,
-      "name": "Cosmic Awakening",
-      "url": "https://open.spotify.com/track/4FCxi7c2lwcqG5qrznRv1t"
-    },
-    {
-      "added_at": "2021-10-27 14:20:30",
-      "album": {
         "name": "I Am the Center: Private Issue New Age Music in America, 1950-1990",
         "url": "https://open.spotify.com/album/5J6elnQWSwhzzD6Zo6QZso"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 291706,
       "name": "Formentera Sunset Clouds",
       "url": "https://open.spotify.com/track/50j7VH9VeTa2CZCWXJzipo"
+    },
+    {
+      "added_at": "2021-10-27 14:20:30",
+      "album": {
+        "name": "The Super Sounds Of Bosworth",
+        "url": "https://open.spotify.com/album/2ARy8T6ej1fifQKrnFT3zy"
+      },
+      "artists": [
+        {
+          "name": "V\u00e1clav Nelh\u00fdbel",
+          "url": "https://open.spotify.com/artist/4QHuaQ6Rsd3Mqz1Fcgs08f"
+        }
+      ],
+      "duration_ms": 45853,
+      "name": "Cosmic Awakening",
+      "url": "https://open.spotify.com/track/4FCxi7c2lwcqG5qrznRv1t"
     }
   ],
   "unique_name": "Hauntology",

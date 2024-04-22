@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Cami.",
-  "num_followers": 13468,
+  "num_followers": 13473,
   "original_name": "EQUAL Chile",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-03-11 17:02:36",
       "album": {
+        "name": "REPR\u00cdS",
+        "url": "https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP"
+      },
+      "artists": [
+        {
+          "name": "Javiera Electra",
+          "url": "https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp"
+        }
+      ],
+      "duration_ms": 269210,
+      "name": "Cuarta pared",
+      "url": "https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj"
+    },
+    {
+      "added_at": "2024-03-11 17:02:36",
+      "album": {
         "name": "Baby del Rey",
         "url": "https://open.spotify.com/album/1DzOsYZEhcXcbJvICzzhnB"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 200833,
       "name": "Baby del Rey",
       "url": "https://open.spotify.com/track/457jFfPXJqTZtG0o9uNokI"
-    },
-    {
-      "added_at": "2024-03-11 17:02:36",
-      "album": {
-        "name": "REPR\u00cdS",
-        "url": "https://open.spotify.com/album/6VV0FKDFoMDWL1vAuL2DBP"
-      },
-      "artists": [
-        {
-          "name": "Javiera Electra",
-          "url": "https://open.spotify.com/artist/7c2QpfLeD8s647evep6Mbp"
-        }
-      ],
-      "duration_ms": 269210,
-      "name": "Cuarta pared",
-      "url": "https://open.spotify.com/track/1gADJxAF0of5vxTRisUWCj"
     },
     {
       "added_at": "2024-03-11 17:02:36",

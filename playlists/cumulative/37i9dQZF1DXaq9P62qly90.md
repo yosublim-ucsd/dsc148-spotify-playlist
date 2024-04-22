@@ -4,7 +4,7 @@
 
 > Conscious songs for everyday reflection.
 
-113 songs - 8 hr 4 min
+114 songs - 8 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,13 +24,14 @@
 | [Caribbean Skies](https://open.spotify.com/track/3B2Sq2SoDVTFOxcvrQttCI) | [Citizen Cope](https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F) | [Heroin and Helicopters](https://open.spotify.com/album/7k02SLVHPe0zfReerpvyK1) | 3:59 | 2020-11-25 |  |
 | [Change The World](https://open.spotify.com/track/318KlGWToczNB1mHZlH3SU) | [Leilani Wolfgramm](https://open.spotify.com/artist/1CJqIxlYOwcuIZAzfhfnZj), [Sugarshack Sessions](https://open.spotify.com/artist/5CT2hYT8j5uBMqTyMVp1kI), [Jacob Hemphill](https://open.spotify.com/artist/19eNU5TerePMfGRGoKxC3b), [Fortunate Youth](https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB) | [Sugarshack Sessions Selects, Vol\. 1](https://open.spotify.com/album/6uo1uYH6afoP84SUliIPkS) | 3:17 | 2023-01-03 |  |
 | [Chill Out](https://open.spotify.com/track/2l2rbGwL6R7MP3tcJzBTOX) | [Iration](https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk) | [Chill Out](https://open.spotify.com/album/16PDU6lKWAdHpYTGvggfz7) | 3:55 | 2020-11-25 |  |
-| [Cowboys & Indians](https://open.spotify.com/track/5gd7jhg0RA2X26uA4iRqyZ) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Cowboys & Indians](https://open.spotify.com/album/3U3TLuR9tNcwQKdpWyTXVJ) | 4:42 | 2020-11-25 |  |
+| [Cowboys & Indians](https://open.spotify.com/track/5gd7jhg0RA2X26uA4iRqyZ) | [Dustin Thomas](https://open.spotify.com/artist/4xZc2DiEMOQP4KppCfK5QK) | [Cowboys & Indians](https://open.spotify.com/album/3U3TLuR9tNcwQKdpWyTXVJ) | 4:42 | 2020-11-25 | 2024-04-22 |
 | [Directions](https://open.spotify.com/track/2h5silGx7nHrQ6IWMw1huo) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb), [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [HOKA](https://open.spotify.com/album/3fuNjlUS1tfdcDSy1G5K2T) | 4:21 | 2020-11-25 | 2024-04-19 |
 | [Directions](https://open.spotify.com/track/60VDrzU6bCr3QJ1T6ctymr) | [Nahko And Medicine For The People](https://open.spotify.com/artist/35fFUv2850L9CQjjNrLBpb), [Joseph](https://open.spotify.com/artist/4Th1eLJe7p566Z4NNwfF1o) | [HOKA](https://open.spotify.com/album/4qk7ZGYGZvCN0qB3JHhuLF) | 4:21 | 2020-11-25 | 2022-07-28 |
 | [Don't Hold Your Breath](https://open.spotify.com/track/4Forev92LuFwlUSQ2dA1Te) | [Wookiefoot](https://open.spotify.com/artist/4qD6ABoI7PKjZCdTYodIaH) | [You're It!](https://open.spotify.com/album/4zDNiR48ZZcikZHwm7Sz4S) | 3:36 | 2020-11-25 |  |
 | [Don't Let Me Disappear](https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Don't Let Me Disappear](https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7) | 4:24 | 2020-11-25 |  |
 | [Dragonfly](https://open.spotify.com/track/1430JP99azZDEBpHVxfDk2) | [Nahko](https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S) | [My Name Is Bear](https://open.spotify.com/album/09zL9FcRAnYwhdMg3NmAK2) | 4:45 | 2020-11-25 | 2022-07-29 |
 | [Dragonfly](https://open.spotify.com/track/5BVt0NrZm3FEEYqj0zrxGf) | [Nahko](https://open.spotify.com/artist/7gkeGRk9xaQ0gGVi5kHN3S) | [My Name Is Bear](https://open.spotify.com/album/4oocWIC3N2ZSmFPy2u1Zor) | 4:45 | 2020-11-25 | 2024-04-19 |
+| [Family Tree](https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8) | [Rise](https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu) | 3:11 | 2024-03-25 |  |
 | [Family Tree \(Live at Sugarshack Sessions\)](https://open.spotify.com/track/2HuVKmAhWpB4bBfzlzJX7X) | [Will Evans](https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8), [Sugarshack Sessions](https://open.spotify.com/artist/5CT2hYT8j5uBMqTyMVp1kI) | [Will Evans Live at Sugarshack Sessions](https://open.spotify.com/album/4GJY4OSwmRyll8bB1xrRSw) | 4:43 | 2020-11-25 | 2022-07-29 |
 | [Fast And Slow](https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM) | [The Elovaters](https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3) | [Double Vision](https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj) | 4:40 | 2020-11-25 |  |
 | [Fly Away](https://open.spotify.com/track/5toBuWuHXCsausMXQcQkLR) | [Starling Arrow](https://open.spotify.com/artist/67EFNAHiiYqTew9dzK2QhC), [Marya Stark](https://open.spotify.com/artist/2lntMaVHOro0wJYMYHco9d), [Ayla Nereo](https://open.spotify.com/artist/4gJMOPjz1OUnD6TysFPUr1), [Tina Malia](https://open.spotify.com/artist/1c0uQiM5LLHE4juxlFn1Q2), [Chloe Smith](https://open.spotify.com/artist/7lLK9mKP9CJuRhIR5URoFg), [Leah Song](https://open.spotify.com/artist/2aYGkbB8xdACbyp7BYR8Gv), [Rising Appalachia](https://open.spotify.com/artist/3I6e2ZqqoxQhXc9z7Tp5ci) | [Fly Away](https://open.spotify.com/album/01I7NXp9kAgyrpvxrrVfzm) | 4:34 | 2023-01-06 |  |

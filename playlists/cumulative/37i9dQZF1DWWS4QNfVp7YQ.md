@@ -4,7 +4,7 @@
 
 > Échate un zapateo al ritmo del tribal.
 
-79 songs - 4 hr 20 min
+80 songs - 4 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/track/52YR2Gi2z7uCiSTb0zq36a) | [Yilberking](https://open.spotify.com/artist/31ZHTvBmdrhQZpLAJSTCnt), [Dayvi](https://open.spotify.com/artist/2TWBei99x2tV70bdYbWdAf), [Manco the Sound](https://open.spotify.com/artist/2orC1t4J80YDSFYtZ7DIPI) | [Toco el Cielo \(Dayvi Remix\)](https://open.spotify.com/album/6Bf9OGh6wWNdshA4xDHneQ) | 5:58 | 2022-08-05 | 2024-04-19 |
 | [Tokio](https://open.spotify.com/track/181jOJv47IFVJNlZqSgHFW) | [TOSCA](https://open.spotify.com/artist/4HNSfNTAFpn017tvAro6xx), [Alex Martinez](https://open.spotify.com/artist/3vkoJYTS0dkxrsrpAVPrTb) | [I'm \#ELSRDLM](https://open.spotify.com/album/0ZFG7HAARlziJ1QKjoYNC6) | 3:58 | 2022-08-05 | 2024-04-19 |
 | [Tribal Guarachoso](https://open.spotify.com/track/6cpZP3klWUpzQBMheImhO0) | [3BallMTY](https://open.spotify.com/artist/1MLs9allBZrajb5Dc4146L) | [Inténtalo \(Deluxe Edition\)](https://open.spotify.com/album/4ldSAxBxxmdxlfoh81njb4) | 3:11 | 2022-08-05 | 2024-04-19 |
+| [Trippyal](https://open.spotify.com/track/68r7Jv0bRXStZVCFII2os3) | [XAVO](https://open.spotify.com/artist/54gLTe1T8autK5kYcHbepM) | [Trippyal](https://open.spotify.com/album/0iZ8wdFNWdKEmgfy1aHmQY) | 2:50 | 2024-03-08 |  |
 | [Tus Besos](https://open.spotify.com/track/1wbIYS28OVIKPPhgqJ2bFn) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd), [Cuvan](https://open.spotify.com/artist/600tEotuBvksb03YwjVkX0), [Aneth](https://open.spotify.com/artist/666a8c5dpuBV9GM1Yv14p7) | [Tus Besos](https://open.spotify.com/album/5eUI4VKc1cHEMTuIOBM2kg) | 3:00 | 2022-08-05 |  |
 | [vaMos](https://open.spotify.com/track/4bgV7f02Yt2wIdKRVwVYSn) | [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Dj Zetian](https://open.spotify.com/artist/2Mf7rgGLrAbgnMqnANKnmy), [Dj Monst3r5](https://open.spotify.com/artist/2DAs7dxh1jqGtGmK9DWeAe) | [vaMos](https://open.spotify.com/album/4nrtKr0c1QbQDyr8llymgr) | 2:51 | 2022-08-05 |  |
 | [Vibora](https://open.spotify.com/track/5KICj0zW5ZvAarj52tcEIF) | [Freebot](https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd) | [Terror, Ep\. 2](https://open.spotify.com/album/4FX3UqkVgH0TW2DhXpOzH2) | 2:25 | 2022-08-05 |  |
@@ -86,6 +87,6 @@
 | [Ya Se Tardaron](https://open.spotify.com/track/4CJokP3z9dm9oPOocuCbed) | [Fierro Pa Dubai](https://open.spotify.com/artist/79K7zwm0V8H5AH1nP6Jhze), [Dj Otto](https://open.spotify.com/artist/4NUOSz1OVP30beWFCtEIVv), [Maxx Gallo](https://open.spotify.com/artist/30XfbCbtW4PAJ5mvhoajY2) | [Ya Se Tardaron](https://open.spotify.com/album/4wKTQKjevGrmYplMzNAaVm) | 2:55 | 2022-08-05 |  |
 | [Zapatear](https://open.spotify.com/track/2ZEruRr8IXykUCQBlEiYhv) | [Los Dutis](https://open.spotify.com/artist/7euy0eWE4fAyce469eL2fi) | [Zapatear](https://open.spotify.com/album/2ZCfbuEez3QTha7TdNcC8s) | 2:42 | 2022-08-05 |  |
 | [Zumba Tribal](https://open.spotify.com/track/1tO56JLSWKeg2ZSXoa4Out) | [El Pelón del Mikrophone](https://open.spotify.com/artist/7fD78qBivZ5nhloRHma0Pw) | [El After Party Ya Llego](https://open.spotify.com/album/1LhDt05IVDdQrwybh3Xsyj) | 2:57 | 2022-08-05 | 2024-04-19 |
-| [África](https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [África](https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq) | 3:11 | 2024-03-08 |  |
+| [África](https://open.spotify.com/track/6Pg73MxEBAaTKwScljCNV7) | [Clap Freckles](https://open.spotify.com/artist/4MKLDHc4HFeRNBdKKw7klD) | [África](https://open.spotify.com/album/6bBjdvQMYWkgvBP2YI1hVq) | 3:11 | 2024-03-08 | 2024-04-22 |
 
 \*This playlist was first scraped on 2023-10-15. Prior content cannot be recovered.

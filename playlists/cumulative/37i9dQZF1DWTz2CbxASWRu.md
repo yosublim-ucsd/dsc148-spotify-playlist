@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-559 songs - 1 day 17 hr 2 min
+560 songs - 1 day 17 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@
 | [De La](https://open.spotify.com/track/1OEL0mmkqxXj3Co1YogSwO) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt), [Carol C](https://open.spotify.com/artist/3PDTHN0oVucy6WF2LVlS9A) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:48 | 2023-07-10 | 2024-04-19 |
 | [Deep Cumbia](https://open.spotify.com/track/6dfFxwfNJhe1A1vNGioiyL) | [Nacho Maldonado](https://open.spotify.com/artist/4K6VsMmNzvyjrkVFdncNRH), [Israel Arteaga](https://open.spotify.com/artist/0OgPHnQhFq7XR3DnywgRIP) | [Deep Cumbia](https://open.spotify.com/album/4bIjpYcmePHJU30xuxMQCC) | 9:02 | 2023-07-10 |  |
 | [Deja](https://open.spotify.com/track/6zarphghaqXEUFEOKRtMZC) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 4:49 | 2023-07-10 |  |
-| [Desde Que O Samba E Samba](https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 5:08 | 2024-03-08 |  |
+| [Desde Que O Samba E Samba](https://open.spotify.com/track/1SL9baz3WrN29MAkeyvaHn) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [A Bossa De Caetano](https://open.spotify.com/album/4PVqfWHbgxXs9IElHBCMFy) | 5:08 | 2024-03-08 | 2024-04-22 |
 | [Desde Que O Samba E Samba](https://open.spotify.com/track/6juNy6ewMDMU38YRpgcWR3) | [Caetano Veloso e Gilberto Gil](https://open.spotify.com/artist/0de6Qb2zkptulmWKNMlaSl) | [Tropicalia 2](https://open.spotify.com/album/2ybYLHauxa3H7MdxQmCDIg) | 5:11 | 2023-07-10 | 2024-04-19 |
 | [Desierto](https://open.spotify.com/track/4AaWrj0s8jwkrQZT41aMXM) | [Simah](https://open.spotify.com/artist/6LYnrefo5eYNNpzOiNxa4L) | [Desierto](https://open.spotify.com/album/46UeLDMUsEfQ8cI4CkUvSE) | 2:53 | 2023-07-10 |  |
 | [Dheem Thana Thana Nana](https://open.spotify.com/track/0wK8iikO9ePSrawtqKqmGq) | [Vijaya Anand](https://open.spotify.com/artist/1URKxHireD4bwhkGQWbKYX) | [Asia Classics I \- Dance Raja Dance](https://open.spotify.com/album/4Tz0EVpAZ8JZjnpIMrFpQ8) | 4:20 | 2024-03-08 |  |
@@ -226,6 +226,7 @@
 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:46 | 2023-07-10 | 2024-02-02 |
 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/3f8PJ21mO5LJoFJvdXYwFf) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3dynzqPHUqyPPnGGs8STcI) | 3:46 | 2024-03-08 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2023-07-10 |  |
+| [Helelyos](https://open.spotify.com/track/1Qc84oCY8WZFQkyxY8bnZQ) | [Mitra Sumara](https://open.spotify.com/artist/3bbQStte1OsVxENTTxMFfd) | [Tahdig](https://open.spotify.com/album/0KX975WwN6lVXzf9aSmtCG) | 4:37 | 2024-03-08 |  |
 | [Herbalist](https://open.spotify.com/track/3A50RFIzgUphr3ea4o6lkx) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Soundsystem Champions](https://open.spotify.com/album/08C6xNOwGqXS1WgpgcAJXZ) | 4:08 | 2023-07-10 |  |
 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 | 2023-07-10 | 2024-04-19 |
 | [Hijos Del Sol](https://open.spotify.com/track/0ds8HD4pYc88Po0RMygxiO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hijos Del Sol](https://open.spotify.com/album/6gnYcXVaffdG0vwVM34cr8) | 2:56 | 2023-07-10 |  |

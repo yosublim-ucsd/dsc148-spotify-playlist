@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-530 songs - 1 day 11 hr 43 min
+531 songs - 1 day 11 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Fire\-Mare](https://open.spotify.com/track/3FHSvVNjp1AvZNb52XAVK7) | [Owen Pallett](https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68) | [Island](https://open.spotify.com/album/07fRYHyHA0ptI3NvxmmCkv) | 4:19 | 2023-01-17 |  |
 | [Fireworks](https://open.spotify.com/track/3qJImzh896FdKl5mJfpFaC) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Ruins](https://open.spotify.com/album/5l2Ts5Hd4BN2O28rZksznR) | 4:14 | 2023-01-17 | 2024-04-19 |
 | [Fisher Island Sound](https://open.spotify.com/track/3XHtGQBlfMHfKcXdTX7Mt0) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Artifacts](https://open.spotify.com/album/26G7PfSLTyLiIcITVl7GAK) | 2:44 | 2023-01-17 | 2024-04-19 |
-| [Fisher Island Sound](https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Fisher Island Sound](https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s) | 2:44 | 2023-01-17 |  |
+| [Fisher Island Sound](https://open.spotify.com/track/5F16DqcQbTuBTpzKjt5LCO) | [Beirut](https://open.spotify.com/artist/6pmxr66tMAePxzOLfjGNcX) | [Fisher Island Sound](https://open.spotify.com/album/7m9fOQhCj0noSv92E2XT9s) | 2:44 | 2023-01-17 | 2024-04-22 |
 | [Five Minutes](https://open.spotify.com/track/7ERTi1RsIo6jtM8zaziUlQ) | [Her](https://open.spotify.com/artist/1T2WeXEi0XlZiPpjjDAY0L) | [Her Tape \#1](https://open.spotify.com/album/46Bec3H2EincHIIyyhEsMD) | 3:44 | 2023-01-17 |  |
 | [Flags](https://open.spotify.com/track/3mRViwFBCegDxjCsvOf5gO) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Flags](https://open.spotify.com/album/3Vr2VwZd7MHd1Sf0V7uYAz) | 3:29 | 2023-01-17 | 2024-04-19 |
 | [Floating Gardens](https://open.spotify.com/track/3KJPratGlhkWYVemRbbp6F) | [Tan Cologne](https://open.spotify.com/artist/0BzCBe2kdywrXRgiP1JZeo) | [Floating Gardens](https://open.spotify.com/album/4dJRREQz4GQ3s0Qut1aucC) | 4:50 | 2023-01-17 |  |
@@ -193,6 +193,7 @@
 | [Heart of Gold](https://open.spotify.com/track/3rVbE0KZ8N26C9yn6PonQ0) | [Molly Burch](https://open.spotify.com/artist/6bEYoIUTLdcs4lZBNVw5L5) | [Romantic Images](https://open.spotify.com/album/25RhUgQQlr0u6G2r7np9bT) | 2:51 | 2023-01-17 | 2024-04-19 |
 | [Hearts](https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno) | [Nari](https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl) | [Hearts](https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt) | 2:50 | 2023-01-17 |  |
 | [Heavenly](https://open.spotify.com/track/70YTBH8vOGJNMhy6186yFm) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy) | 4:46 | 2023-01-17 | 2024-04-19 |
+| [Heavenly](https://open.spotify.com/track/0M6TLjxixptslrmQpWbRoR) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Heavenly](https://open.spotify.com/album/3cgFq282Yi9czapuam0DwB) | 4:48 | 2023-01-17 |  |
 | [Heavenly](https://open.spotify.com/track/1Bh0UzthW8pKEnYg7v40Oa) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cry](https://open.spotify.com/album/6fUVptFdeOgcqDvCZzM2kC) | 4:48 | 2023-01-17 | 2023-09-21 |
 | [Help Me Help Myself](https://open.spotify.com/track/0ZIllgA4WQsH2dSCUCAdRb) | [White Flowers](https://open.spotify.com/artist/3Rge2zrmllt5FBUahfoX8J) | [Help Me Help Myself](https://open.spotify.com/album/4CvsRCXktnzHYXgt2qsLSn) | 3:35 | 2023-01-17 |  |
 | [Here in the Dark](https://open.spotify.com/track/312rd2c4ALzMJ0nbbie6Pg) | [Aoife Nessa Frances](https://open.spotify.com/artist/53HMXaQpXt5m6cBJNO5OFX) | [Land of No Junction](https://open.spotify.com/album/10QaSb6RScjUha6Wkeu1Km) | 5:26 | 2023-01-17 |  |

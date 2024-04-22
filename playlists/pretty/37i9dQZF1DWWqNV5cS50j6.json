@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Malcolm Todd",
-  "num_followers": 742059,
+  "num_followers": 741915,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "hypochondriac",
+        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
+      },
+      "artists": [
+        {
+          "name": "brakence",
+          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
+        }
+      ],
+      "duration_ms": 209706,
+      "name": "5g",
+      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "New Friends (feat. Eem Triplin)",
         "url": "https://open.spotify.com/album/2A4pe5mwhAjBx2gas0HsWM"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 130434,
       "name": "New Friends (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/0shO1fRNWJusvfEId0OfsR"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "hypochondriac",
-        "url": "https://open.spotify.com/album/6XV76W17coHAKFdeyiGT08"
-      },
-      "artists": [
-        {
-          "name": "brakence",
-          "url": "https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV"
-        }
-      ],
-      "duration_ms": 209706,
-      "name": "5g",
-      "url": "https://open.spotify.com/track/61Ph6Q4HYgWUVGulPszt9n"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "How Do You Sleep At Night? With You",
-        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
-      },
-      "artists": [
-        {
-          "name": "Teezo Touchdown",
-          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
-        }
-      ],
-      "duration_ms": 184335,
-      "name": "Up And Down",
-      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "CAROLINE",
         "url": "https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 192951,
       "name": "CAROLINE",
       "url": "https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "How Do You Sleep At Night? With You",
+        "url": "https://open.spotify.com/album/0wXpRGFLQVpCi1qpunqBRH"
+      },
+      "artists": [
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "duration_ms": 184335,
+      "name": "Up And Down",
+      "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Me n My Girl",
-        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
-      },
-      "artists": [
-        {
-          "name": "Artemas",
-          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
-        }
-      ],
-      "duration_ms": 130242,
-      "name": "Me n My Girl",
-      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
-    },
-    {
       "added_at": "2024-04-09 16:51:42",
       "album": {
         "name": "So What If I'm A Freak",
@@ -903,6 +887,22 @@
       "duration_ms": 146865,
       "name": "So What If I'm A Freak",
       "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Me n My Girl",
+        "url": "https://open.spotify.com/album/5zod1g9FgDO4eNNpjLMDPT"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "duration_ms": 130242,
+      "name": "Me n My Girl",
+      "url": "https://open.spotify.com/track/6tngVk9QDusW1nJmcY83uf"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        }
+      ],
+      "duration_ms": 190348,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "Starving (feat. Teezo Touchdown)",
         "url": "https://open.spotify.com/album/1H7FJxNEOxKJbbHvKCtAgp"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 216841,
       "name": "Starving (feat. Teezo Touchdown)",
       "url": "https://open.spotify.com/track/6zELuTXrMMOk4fFIf3OErT"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/6ugJZC0ZQjafnUWLZcJNYw"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        }
-      ],
-      "duration_ms": 190348,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/0u4warxXglSh16oXyMEpoB"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1133,22 +1133,6 @@
       "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Aphid (feat. Dijon)",
-        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Aphid (feat. Dijon)",
-      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "fIT chECK fREEsTYle",
@@ -1167,6 +1151,22 @@
       "duration_ms": 183429,
       "name": "fIT chECK fREEsTYle",
       "url": "https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Aphid (feat. Dijon)",
+        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Aphid (feat. Dijon)",
+      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1333,22 +1333,6 @@
       "url": "https://open.spotify.com/track/2QFHyK2SV2YWyJzu6kpGhk"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Stars",
-        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
-      },
-      "artists": [
-        {
-          "name": "Tai Verdes",
-          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
-        }
-      ],
-      "duration_ms": 165333,
-      "name": "Stars",
-      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "Younger Than I Was Before",
@@ -1363,6 +1347,22 @@
       "duration_ms": 155536,
       "name": "Crazy Stupid Love",
       "url": "https://open.spotify.com/track/5gZmKbISqeyhHl63nMFvi0"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Stars",
+        "url": "https://open.spotify.com/album/0fyOtCkwjiWzm6myJJOjfZ"
+      },
+      "artists": [
+        {
+          "name": "Tai Verdes",
+          "url": "https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I"
+        }
+      ],
+      "duration_ms": 165333,
+      "name": "Stars",
+      "url": "https://open.spotify.com/track/3KMp3FuaCabAi75a5oDRfH"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1473,6 +1473,22 @@
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
     },
     {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "THE RUSH",
+        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130515,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
+    },
+    {
       "added_at": "2024-03-29 04:00:00",
       "album": {
         "name": "push up bra",
@@ -1555,22 +1571,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "THE RUSH",
-        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130515,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "true",
         "url": "https://open.spotify.com/album/0a7AaCJjuiyqe1cM5nvjtv"
       },
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "UGOMDN - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH"
+      },
+      "artists": [
+        {
+          "name": "chlothegod",
+          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
+        }
+      ],
+      "duration_ms": 176191,
+      "name": "UGOMDN - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "I Might be Fake",
         "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 168805,
       "name": "I Might be Fake",
       "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "UGOMDN - A COLORS SHOW",
-        "url": "https://open.spotify.com/album/5WJlAVq7OMFFQSA5ZVRnyH"
-      },
-      "artists": [
-        {
-          "name": "chlothegod",
-          "url": "https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx"
-        }
-      ],
-      "duration_ms": 176191,
-      "name": "UGOMDN - A COLORS SHOW",
-      "url": "https://open.spotify.com/track/3dDEKW90qTAjYPxhcA6Mtk"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Apartment A",
-        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 192133,
-      "name": "Apartment A",
-      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Erotic Probiotic 2",
         "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Apartment A",
+        "url": "https://open.spotify.com/album/3QZBxL6hF9ePj3qGJw6iPx"
+      },
+      "artists": [
+        {
+          "name": "Isaac Dunbar",
+          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
+        }
+      ],
+      "duration_ms": 192133,
+      "name": "Apartment A",
+      "url": "https://open.spotify.com/track/7EgX30W2Gj5vZqx4zkDMAM"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1779,18 +1779,18 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Into The Rift",
-        "url": "https://open.spotify.com/album/7ulrW1c9ERpGyadIqYwu8Y"
+        "name": "Sylvia (Nanana)",
+        "url": "https://open.spotify.com/album/6kRnRq8xlM8Mpe4qu3GbJZ"
       },
       "artists": [
         {
-          "name": "Quarters of Change",
-          "url": "https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa"
+          "name": "Bay Ledges",
+          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
         }
       ],
-      "duration_ms": 219984,
-      "name": "Dead",
-      "url": "https://open.spotify.com/track/2LaHq6oy3DYrsmreXlmlwx"
+      "duration_ms": 155686,
+      "name": "Sylvia (Nanana)",
+      "url": "https://open.spotify.com/track/1xwTt7QJn3fCQldUbX0flF"
     }
   ],
   "unique_name": "anti pop",

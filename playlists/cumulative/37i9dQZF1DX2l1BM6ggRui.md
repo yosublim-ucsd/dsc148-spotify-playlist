@@ -4,7 +4,7 @@
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-126 songs - 7 hr 8 min
+127 songs - 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,8 +52,9 @@
 | [Good Parts \(when the quality is bad but I am\)](https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [ANTIFRAGILE](https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9) | 2:36 | 2023-11-03 | 2024-03-09 |
 | [Gradation](https://open.spotify.com/track/775S83AMYbQc8SYteOktTL) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [5.3 \(Gradation\)](https://open.spotify.com/album/4uqihIyXomdsr6ttzYwKjG) | 3:21 | 2023-11-03 | 2024-03-09 |
 | [Guardian](https://open.spotify.com/track/1hXpqrmqmlYMfpF23fb8mK) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [BASTIONS OST Part.4](https://open.spotify.com/album/0pjWgLVCGDd3mEJIOIqE0k) | 2:38 | 2023-11-03 | 2024-03-09 |
+| [Gulliver](https://open.spotify.com/track/7HB3OUMUrZDdS0XnQ9h8Wr) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Street Man Fighter Original Vol.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ZxaSeVDBBvSKDLXbCSLYU) | 3:03 | 2024-03-27 |  |
 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 | 2023-11-03 |  |
-| [Happy me from today \(Feat\. Lee Sangsoon\)](https://open.spotify.com/track/5dYHwnVY9Knvz7M3iuu8cL) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [Happy me from today](https://open.spotify.com/album/2wkTfa0Rofkwf3CN1TJvFP) | 3:56 | 2024-03-27 |  |
+| [Happy me from today \(Feat\. Lee Sangsoon\)](https://open.spotify.com/track/5dYHwnVY9Knvz7M3iuu8cL) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5), [Lee Sang Soon](https://open.spotify.com/artist/2k5qXj4B0cMlBbLJOVQMUJ) | [Happy me from today](https://open.spotify.com/album/2wkTfa0Rofkwf3CN1TJvFP) | 3:56 | 2024-03-27 | 2024-04-22 |
 | [Happy Song](https://open.spotify.com/track/1eUQ5JMD5vGz24Wxcq8fDv) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [Our Blues, Pt\. 7 \(Original Television Soundtrack\)](https://open.spotify.com/album/5CkqLnLIpyWKmt6iUIhW5s) | 3:57 | 2023-11-03 |  |
 | [He Loves Me \(With Windy\)](https://open.spotify.com/track/5zcqzLiXvZc68HAPJaE8LL) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [He Loves Me \(With Windy\)](https://open.spotify.com/album/56WFA9DY6elZw9uPt2xGcL) | 3:59 | 2024-03-08 | 2024-04-19 |
 | [Hero](https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [Hero](https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM) | 2:30 | 2024-03-08 |  |

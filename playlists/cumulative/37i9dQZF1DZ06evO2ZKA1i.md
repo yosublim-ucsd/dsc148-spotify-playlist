@@ -2,7 +2,7 @@
 
 ### [This Is Deep Purple](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZKA1i)
 
-> This is Deep Purple\. The essential tracks, all in one playlist.
+> This Is Deep Purple\. Los temas esenciales, todos en una lista.
 
 89 songs - 7 hr 23 min
 

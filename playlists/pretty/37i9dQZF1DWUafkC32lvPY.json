@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 14901,
+  "num_followers": 14946,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -199,6 +199,30 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "LA FALDA (LoFi)",
+        "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
+      },
+      "artists": [
+        {
+          "name": "LoFi HITS",
+          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
+        },
+        {
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 171844,
+      "name": "LA FALDA - LoFi",
+      "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Morena",
         "url": "https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U"
       },
@@ -315,30 +339,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "LA FALDA (LoFi)",
-        "url": "https://open.spotify.com/album/7KMN8GpKBOir51rh12X0dJ"
-      },
-      "artists": [
-        {
-          "name": "LoFi HITS",
-          "url": "https://open.spotify.com/artist/0NKA6xBw7RSg1up2cx1Nu7"
-        },
-        {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 171844,
-      "name": "LA FALDA - LoFi",
-      "url": "https://open.spotify.com/track/7tEeHjAZtNCVWmwt4R7Q3u"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Ontem",
         "url": "https://open.spotify.com/album/5ezHGivGiyMLQ7CthbHBWy"
       },
@@ -351,22 +351,6 @@
       "duration_ms": 135017,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/6dz4i3NF00qBfygOvznDty"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Nova",
-        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
-      },
-      "artists": [
-        {
-          "name": "Maple Syrup",
-          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
-        }
-      ],
-      "duration_ms": 116447,
-      "name": "Tudo Bem",
-      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -387,6 +371,22 @@
       "duration_ms": 189811,
       "name": "Aves del Sur",
       "url": "https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Nova",
+        "url": "https://open.spotify.com/album/1dmilMbcUhBOkH8nATHSin"
+      },
+      "artists": [
+        {
+          "name": "Maple Syrup",
+          "url": "https://open.spotify.com/artist/18hiqhddMloGWzY8pNZ8qr"
+        }
+      ],
+      "duration_ms": 116447,
+      "name": "Tudo Bem",
+      "url": "https://open.spotify.com/track/0SGRPlbprTyOMPNgwlir3Q"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -507,26 +507,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Remixes lofi del Regional Chill",
-        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        },
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 123875,
-      "name": "Los d\u00edas grises (Remix)",
-      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Bolero coqueto",
         "url": "https://open.spotify.com/album/5NpL6azGR3wLAyPSA3yo5D"
       },
@@ -551,6 +531,26 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Remixes lofi del Regional Chill",
+        "url": "https://open.spotify.com/album/0zYXLwvBFEYXKJg9bI8YAT"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        }
+      ],
+      "duration_ms": 123875,
+      "name": "Los d\u00edas grises (Remix)",
+      "url": "https://open.spotify.com/track/5HS4clb7EG8MeRGybBVPRY"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Harissa",
-        "url": "https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo"
-      },
-      "artists": [
-        {
-          "name": "AvenREC",
-          "url": "https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB"
-        }
-      ],
-      "duration_ms": 183702,
-      "name": "No S\u00e9 Que Hacer",
-      "url": "https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "love in medell\u00edn",
         "url": "https://open.spotify.com/album/6IHUbJzZ2P4XMC9fq4O7TA"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 109723,
       "name": "love in medell\u00edn",
       "url": "https://open.spotify.com/track/5mGAQqsga5RzDp8NoQgmsH"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Harissa",
+        "url": "https://open.spotify.com/album/4siGcNNVSchO8VNb108pNo"
+      },
+      "artists": [
+        {
+          "name": "AvenREC",
+          "url": "https://open.spotify.com/artist/6DYx07DTxaB1GfSnJsB8tB"
+        }
+      ],
+      "duration_ms": 183702,
+      "name": "No S\u00e9 Que Hacer",
+      "url": "https://open.spotify.com/track/01TZ0fufGAMfludHHYiRDh"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -651,22 +651,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "\u00d3leo sobre tela",
-        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
-      },
-      "artists": [
-        {
-          "name": "Jiony",
-          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
-        }
-      ],
-      "duration_ms": 162479,
-      "name": "Abr\u00e1zame mucho estos d\u00edas",
-      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Te Adoro",
         "url": "https://open.spotify.com/album/6YpkDFutK6pQfAdSQiwwp5"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 124500,
       "name": "Te Adoro",
       "url": "https://open.spotify.com/track/1sagWkuNSjjj1juUOTQNRF"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "\u00d3leo sobre tela",
+        "url": "https://open.spotify.com/album/105WPjJen4emN55961ICvo"
+      },
+      "artists": [
+        {
+          "name": "Jiony",
+          "url": "https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP"
+        }
+      ],
+      "duration_ms": 162479,
+      "name": "Abr\u00e1zame mucho estos d\u00edas",
+      "url": "https://open.spotify.com/track/4JIZw0eFWLoTJjpCbiQWgT"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -743,30 +743,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Bossa De Flauta",
-        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
-      },
-      "artists": [
-        {
-          "name": "Papi Churro",
-          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
-        },
-        {
-          "name": "Smuv",
-          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
-        },
-        {
-          "name": "Beats for Trees",
-          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
-        }
-      ],
-      "duration_ms": 114418,
-      "name": "Bossa De Flauta",
-      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Ag\u00fcita de Coco",
         "url": "https://open.spotify.com/album/63a3KXPLPUfeYVswmr8gFL"
       },
@@ -799,6 +775,30 @@
       "duration_ms": 269800,
       "name": "Nos Usamos",
       "url": "https://open.spotify.com/track/19MEAx5dkaKyFoCeSv6Kv9"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Bossa De Flauta",
+        "url": "https://open.spotify.com/album/5MwIh4cqWfS4U7XlStZU6e"
+      },
+      "artists": [
+        {
+          "name": "Papi Churro",
+          "url": "https://open.spotify.com/artist/4igGvshE0R9UvpobsKOsSK"
+        },
+        {
+          "name": "Smuv",
+          "url": "https://open.spotify.com/artist/0SM6zo7lSdqyplZo6XRX76"
+        },
+        {
+          "name": "Beats for Trees",
+          "url": "https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y"
+        }
+      ],
+      "duration_ms": 114418,
+      "name": "Bossa De Flauta",
+      "url": "https://open.spotify.com/track/4bURJNtMormiqKdJoq2vcu"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Todo Tranqui",
+        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
+      },
+      "artists": [
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 100738,
+      "name": "Todo Tranqui",
+      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Vueltas",
         "url": "https://open.spotify.com/album/0GnzcCxFuBmx7VWXnHbLUK"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 115714,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/1eVE0xK0vChhI2Ey8vEN0s"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Todo Tranqui",
-        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 100738,
-      "name": "Todo Tranqui",
-      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
-        "name": "Monte Nativo",
-        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
-      },
-      "artists": [
-        {
-          "name": "Los Bosques",
-          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
-        }
-      ],
-      "duration_ms": 146933,
-      "name": "Rambla Sur",
-      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
         "name": "Primer Beso",
         "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
@@ -1167,6 +1151,38 @@
     {
       "added_at": "2024-03-29 04:01:00",
       "album": {
+        "name": "Monte Nativo",
+        "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
+      },
+      "artists": [
+        {
+          "name": "Los Bosques",
+          "url": "https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG"
+        }
+      ],
+      "duration_ms": 146933,
+      "name": "Rambla Sur",
+      "url": "https://open.spotify.com/track/4lHldDrYVmjTxxZ4F7K9jp"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "El D\u00eda M\u00e1s Largo",
+        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
+      },
+      "artists": [
+        {
+          "name": "Barzo",
+          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
+        }
+      ],
+      "duration_ms": 146239,
+      "name": "Cholomuco",
+      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
         "name": "Sample Saga: Brazil",
         "url": "https://open.spotify.com/album/4TcMCBXsN0l6EQPGzwZnNe"
       },
@@ -1183,6 +1199,26 @@
       "duration_ms": 117446,
       "name": "Devagar",
       "url": "https://open.spotify.com/track/2gexXPkOG9S65o5YpF1JRw"
+    },
+    {
+      "added_at": "2024-03-29 04:01:00",
+      "album": {
+        "name": "Hora Azul",
+        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
+      },
+      "artists": [
+        {
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+        },
+        {
+          "name": "Eric Chac\u00f3n",
+          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
+        }
+      ],
+      "duration_ms": 165976,
+      "name": "Lunes Azul",
+      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
     },
     {
       "added_at": "2024-03-29 04:01:00",
@@ -1215,42 +1251,6 @@
       "duration_ms": 101065,
       "name": "bailar contigo",
       "url": "https://open.spotify.com/track/7eNyCZVfHBKAy6tko25z5G"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "El D\u00eda M\u00e1s Largo",
-        "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
-      },
-      "artists": [
-        {
-          "name": "Barzo",
-          "url": "https://open.spotify.com/artist/6H7lTzp0q6WGPUJObZz7sO"
-        }
-      ],
-      "duration_ms": 146239,
-      "name": "Cholomuco",
-      "url": "https://open.spotify.com/track/1VACAmytiMZVFqjFB8dtWo"
-    },
-    {
-      "added_at": "2024-03-29 04:01:00",
-      "album": {
-        "name": "Hora Azul",
-        "url": "https://open.spotify.com/album/6k4g02kI6zXRUYoGgAmlpo"
-      },
-      "artists": [
-        {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
-        },
-        {
-          "name": "Eric Chac\u00f3n",
-          "url": "https://open.spotify.com/artist/6ZiQIMVzOvDwR4mKPLMNRR"
-        }
-      ],
-      "duration_ms": 165976,
-      "name": "Lunes Azul",
-      "url": "https://open.spotify.com/track/2DJABf6anvoVv9CdereeL3"
     },
     {
       "added_at": "2024-03-29 04:01:00",

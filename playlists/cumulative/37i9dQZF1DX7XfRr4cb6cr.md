@@ -4,7 +4,7 @@
 
 > Hymns for darker hours.
 
-270 songs - 22 hr 22 min
+271 songs - 22 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,7 +27,7 @@
 | [Ardent](https://open.spotify.com/track/28XnWGHQ1c3fhxZGBbJVKb) | [Giuliano Poles](https://open.spotify.com/artist/3BvVMUz8byTqm9nFMezZk4) | [Ardent](https://open.spotify.com/album/3NuQL86Pn1mTYcej6XwOCI) | 2:12 | 2023-01-27 | 2024-04-20 |
 | [Arena](https://open.spotify.com/track/6BydEdGxofGj0FmP6BVG1E) | [Julian Gomez](https://open.spotify.com/artist/5aPdwHVVmfNKqm4CcTZIIq) | [62000 \| 62508](https://open.spotify.com/album/4MxHMfindjyks5Qq4t8tR1) | 4:24 | 2022-01-28 | 2022-07-29 |
 | [ascending](https://open.spotify.com/track/7fNXK4v2n9IlxrN90o7R9o) | [Oscuro](https://open.spotify.com/artist/2FYj4Dc7l6f8JyLB2I3eLl), [Riversilvers](https://open.spotify.com/artist/7EUXYUkFuXIC7KdhLnZbfa) | [ascending](https://open.spotify.com/album/1C2CwoRoJkLC2pVvvDLtBR) | 2:51 | 2023-10-23 |  |
-| [Ascent](https://open.spotify.com/track/6IV2VvCA0li8ShOy03haGf) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [ThePianoPlayer](https://open.spotify.com/artist/53W6G847URB4LUmls2hLjD) | [Ascent](https://open.spotify.com/album/0dt7jRDx1D3f2q9TKSDwoU) | 5:02 | 2022-01-21 |  |
+| [Ascent](https://open.spotify.com/track/6IV2VvCA0li8ShOy03haGf) | [Lauge](https://open.spotify.com/artist/72Syhg4FIEracKDa3yumQY), [ThePianoPlayer](https://open.spotify.com/artist/53W6G847URB4LUmls2hLjD) | [Ascent](https://open.spotify.com/album/0dt7jRDx1D3f2q9TKSDwoU) | 5:02 | 2022-01-21 | 2024-04-22 |
 | [Ascent](https://open.spotify.com/track/1qQUvt1yMWwgGKtdNuQMgX) | [Warmth](https://open.spotify.com/artist/687UOpjghQt4KG3gfqJy5d) | [Ascent](https://open.spotify.com/album/2t7gXzOW5dPHmPuLUdlzxM) | 6:47 | 2023-01-13 | 2023-02-21 |
 | [Ashes](https://open.spotify.com/track/2m1XpzhxIr7l7dEyrYX5dQ) | [Deaf Center](https://open.spotify.com/artist/0GQJRlsTD8irKEDcClYiiA) | [Vintage Well](https://open.spotify.com/album/6Yq2E5sFMqeT3SsOsdVHTm) | 2:03 | 2022-07-01 |  |
 | [Astron](https://open.spotify.com/track/7orIxoE1ibxFKOXHxWYBiV) | [Akasaka](https://open.spotify.com/artist/0FYaJp4G2p5HO6cIMVqp0q) | [Astron](https://open.spotify.com/album/43m7SNLBFqDyrQyy1lPIpG) | 3:14 | 2022-01-21 |  |
@@ -222,6 +222,7 @@
 | [Sun \- Midnight Version](https://open.spotify.com/track/1qzAQw3RpFpdB7p71KQRrr) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/0Ki50P3NuzhFtM70S5OOtf) | 19:28 | 2022-10-14 | 2024-04-19 |
 | [Sun \- Midnight Version](https://open.spotify.com/track/7MJNbajzY9V54Eq2a0SiQD) | [Lisa Nordström](https://open.spotify.com/artist/4K9TXqOfC8Owin6QflkeHl) | [Midnight](https://open.spotify.com/album/3jzXWkXEgM5WDtLnf3ySUK) | 19:28 | 2022-03-25 | 2022-07-25 |
 | [Supreme Monuments](https://open.spotify.com/track/7lyDRUzEWTELXc0Kec4i8X) | [Yair Elazar Glotman](https://open.spotify.com/artist/5WauIMQCkt1pLvm15mi22B), [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF), [Robert Aiki Aubrey Lowe](https://open.spotify.com/artist/1RWnH2AYF6gpgtDNOlLZLg) | [Last And First Men](https://open.spotify.com/album/79x1fDyq0qs8OS75QfEoYC) | 1:48 | 2022-01-21 | 2023-10-06 |
+| [Talk to Death \- Master Rabbit Tape Variation](https://open.spotify.com/track/1LCKpWIMoeYF0TTtyqInHE) | [mui zyu](https://open.spotify.com/artist/4ZE2UrQP3ATxcgwVTbnd7w) | [Rotten Bun for an Eggless Century \(Master Rabbit Tape Variations\)](https://open.spotify.com/album/5lZW9WgjHcAVD8Mcvo7Dis) | 4:35 | 2023-12-01 |  |
 | [Tekhenu \- Desiderii Marginis Rework](https://open.spotify.com/track/6EyLlOK4XQGpfHGBTj1yPP) | [The Allegorist](https://open.spotify.com/artist/2MdPqMxOwUlRihPUFZNeR8), [Desiderii Marginis](https://open.spotify.com/artist/56TXBqxg34LL3EqFqwS3EX) | [Tekhenu \(Desiderii Marginis Rework\)](https://open.spotify.com/album/4dH96XtNpjxlzBVggZFN3P) | 6:28 | 2023-12-01 | 2024-04-21 |
 | [Ten Days Of Silence](https://open.spotify.com/track/6btH0bYdGH6JAzK4T2XW1y) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Sleeping Sculptures](https://open.spotify.com/album/5ih2VXZzQpPUmCNeC8v5iq) | 4:01 | 2023-04-21 | 2024-04-19 |
 | [Ten Days Of Silence](https://open.spotify.com/track/7MKDDopU4Sc64SORGL3qY5) | [Voice Of Art](https://open.spotify.com/artist/43uNO2fINUuRLZLgqo9Fwk), [Kenneth Bager](https://open.spotify.com/artist/4MDM56W6RidntU2HH9mQUU), [Troels Hammer](https://open.spotify.com/artist/6BG79szH5N3AyYLbuEpelR) | [Ten Days of Silence](https://open.spotify.com/album/1gqCn9PPhEg5FCx0luN0uu) | 4:01 | 2022-03-25 | 2022-04-20 |

@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-159 songs - 6 hr 51 min
+160 songs - 6 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
 | [BELLA](https://open.spotify.com/track/1AuKZFNQfIKdwR2LngeNjD) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:24 | 2024-03-21 |  |
 | [BELLA](https://open.spotify.com/track/7kDWqdkbVoSWkb93NELVae) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:24 | 2024-03-21 | 2024-04-19 |
-| [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 | 2024-01-04 |  |
+| [Benzin](https://open.spotify.com/track/2QUULEWNV7RG4cvW3bjrNN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61) | [Benzin](https://open.spotify.com/album/0h9pTxa0Ww6bA98GjK1O2R) | 1:56 | 2024-01-04 | 2024-04-22 |
 | [BIG BANDZ](https://open.spotify.com/track/5QYc0tl5ZAz8I7lMmlCuYJ) | [Rvzeli](https://open.spotify.com/artist/1ufmj2rsu21unXQ7C6naYy), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [BIG BANDZ](https://open.spotify.com/album/38HjO1arCoX18hmmBSoR8c) | 2:31 | 2023-10-26 | 2023-11-11 |
 | [BLANCO](https://open.spotify.com/track/5LYFMzXTecAGk9cKxRpxwo) | [Gaboro](https://open.spotify.com/artist/1sLnQclviHMISG1VaLtKHx), [Dizzy](https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy) | [BLANCO](https://open.spotify.com/album/2xy29TobynKnncoMPfSLD2) | 2:15 | 2023-09-21 |  |
 | [BLIND](https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN) | [Owen](https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl) | [BLIND](https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd) | 2:28 | 2023-09-28 |  |
@@ -33,7 +33,7 @@
 | [bob bob bob](https://open.spotify.com/track/53jaspN1dZhlBK4MioH1iX) | [B\-Boy Myhre](https://open.spotify.com/artist/7H788ePZvqYPv7MxfLt3rj) | [sitter inne](https://open.spotify.com/album/1rVBiTR6WE7TpJ3CI35SD9) | 2:43 | 2023-11-09 | 2023-12-09 |
 | [BODY](https://open.spotify.com/track/6jYyljzxnFohnVpHgrBpNp) | [Dutty Dior](https://open.spotify.com/artist/5ktSHm2pKmqua1MTV1dkrg), [ifrapluto](https://open.spotify.com/artist/6DDyKBj86C24FkwrjEPE0B) | [BODY](https://open.spotify.com/album/1GIESGxRLnPgv4D37y1qDN) | 2:23 | 2023-09-21 | 2023-10-13 |
 | [BONANZA](https://open.spotify.com/track/1L3pLzpYt4KuiUkBpdPDoz) | [25](https://open.spotify.com/artist/0LVDX2sdKpfXwVmy52HLAc), [ADAAM](https://open.spotify.com/artist/7zLm9op6LgPqKL62d1FzhO), [Kayen](https://open.spotify.com/artist/3ntW47aiIFFvi4glmmP8a1) | [BONANZA](https://open.spotify.com/album/6mcasYSlPLjXTrVpSfKKDH) | 2:27 | 2023-11-09 |  |
-| [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 | 2024-03-15 |
+| [Boys I D Blå](https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN) | [Kamelen](https://open.spotify.com/artist/59WNMskn4tSvgnWKXHXj61), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Boys I D Blå](https://open.spotify.com/album/5beXTxct0Rdq5EwWr5tsVB) | 2:13 | 2023-09-21 |  |
 | [Brazil Flow](https://open.spotify.com/track/1rxFEfLu4vTQUJzvB5Hddr) | [Naod](https://open.spotify.com/artist/31KGMx2XwpugdUpJzeZOv1) | [Brazil Flow](https://open.spotify.com/album/2qBDUq858Mc3HT33TcXzgl) | 1:31 | 2023-09-21 | 2024-01-12 |
 | [Bundet Til En By](https://open.spotify.com/track/4C6Bmg8RFjgY20l4eAas5Y) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [Bundet Til En By](https://open.spotify.com/album/69TJC2jJlJULm9Y8Tv0QRT) | 2:41 | 2024-02-09 | 2024-03-08 |
 | [Come Up](https://open.spotify.com/track/5YPVk5H7KIIKFo2Qf24cqG) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5) | [Come Up](https://open.spotify.com/album/5gF7ulkH0pjCqJlTnF2kAE) | 1:55 | 2024-02-29 | 2024-03-22 |
@@ -56,7 +56,7 @@
 | [En till dans](https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE) | [Ant Wan](https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy) | [En till dans](https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP) | 3:20 | 2023-09-21 |  |
 | [Eneste jeg vil](https://open.spotify.com/track/0psfsKyQhgh1ZoezmBNtNC) | [Larsiveli](https://open.spotify.com/artist/3xQ7Td9gKHIT3J7w7e2CeW) | [Bitterhetens Hotell](https://open.spotify.com/album/4TA1oZbrSZWKV1jmLVB02m) | 2:43 | 2023-10-19 | 2023-11-11 |
 | [EXTEND](https://open.spotify.com/track/6f5P5n98ZkYG7Kveh4N5kh) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [SILENT HILLS](https://open.spotify.com/album/7pcx9qC7j4WPDUkuXwKUuo) | 2:29 | 2023-11-09 |  |
-| [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-11-09 |  |
+| [F.H.D.S!](https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9) | [F.H.D.S!](https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj) | 2:38 | 2023-11-09 | 2024-04-22 |
 | [Falt Ut](https://open.spotify.com/track/1Qe4tOzNLtVwtV63D9VumX) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF) | [Falt Ut](https://open.spotify.com/album/5pbwQh49wMdn0muqJHPFgg) | 2:33 | 2024-03-14 |  |
 | [Fantasy](https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Fantasy](https://open.spotify.com/album/0Zpv2L3usXFp6RWzcGBKeI) | 2:18 | 2023-09-21 |  |
 | [Feeling Myself](https://open.spotify.com/track/0SOgdDDCI704FegadgOfc1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Feeling Myself](https://open.spotify.com/album/0KOYsqi0RwEZWPIt6V9ICU) | 3:02 | 2023-09-21 |  |
@@ -117,6 +117,7 @@
 | [Noe](https://open.spotify.com/track/0oORQe4pppHNTXggkGajQw) | [Lars Vaular](https://open.spotify.com/artist/3f8ujTspJT6Voq6HYEv3i2) | [Noe](https://open.spotify.com/album/0JaO097crtKgKhTLAKiO2E) | 3:12 | 2023-10-19 | 2023-12-09 |
 | [Nånting i Luften](https://open.spotify.com/track/0gLXS6YP75FZnZllPNdEvy) | [Yasin](https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ) | [Nånting i Luften](https://open.spotify.com/album/7pjH1T9HVPsyDsVmZybh5Y) | 2:31 | 2023-09-21 |  |
 | [OIOIOI \(feat\. Branco\)](https://open.spotify.com/track/0DdRz9c2fC6ucqqCbSQrbh) | [Chris Abolade](https://open.spotify.com/artist/4wqjUmydj8rX3foHUjNOtB), [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [Alle Hater Chris](https://open.spotify.com/album/3YwGDIZHOfTRlRF3f0g837) | 2:53 | 2024-04-04 |  |
+| [Oslo B](https://open.spotify.com/track/4XHgCjrFjFTofyZGla2w6L) | [Pasha](https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl), [sachi](https://open.spotify.com/artist/2EGblO3Zjp1JonjHzAy7h5), [Fetisha](https://open.spotify.com/artist/7ybWsReDAYTG94DhunDSHK) | [Oslo B](https://open.spotify.com/album/1n5VbNJ7mxx2KSSOikqynX) | 2:14 | 2024-04-18 |  |
 | [OTR \(On The Road\)](https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB) | [Deso](https://open.spotify.com/artist/1U3mO1k6m4lSlusDwdNOZZ), [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [OTR \(On The Road\)](https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5) | 2:16 | 2024-02-09 |  |
 | [Palmerna](https://open.spotify.com/track/2uBybs4svMXCk9Kap6HK0V) | [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Palmerna](https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa) | 2:27 | 2023-09-21 |  |
 | [PANGPANG](https://open.spotify.com/track/4lxCRiUcm8k3fiWf0wDrUf) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [PANGPANG](https://open.spotify.com/album/7JgAD3sKtMTpbWqLivjE0H) | 2:29 | 2023-09-21 | 2024-01-15 |

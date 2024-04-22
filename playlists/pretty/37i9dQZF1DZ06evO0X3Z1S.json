@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30b8\u30e7\u30ca\u30b9\u30fb\u30d6\u30eb\u30fc\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 85099,
-  "original_name": "This Is \u30b8\u30e7\u30ca\u30b9\u30fb\u30d6\u30eb\u30fc",
+  "description": "This is Jonas Blue. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 85061,
+  "original_name": "This Is Jonas Blue",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDgxYTljZTdlOWI4NDMzMTc5NmNmMGVhOTRiN2Y3YmFl",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGUxMzc2MjM0ZTA3Mzk0NDZjMjdlMmIzMGJiYjA5NzM2",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Something Stupid (feat. AWA)",
-        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "AWA",
-          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
-        }
-      ],
-      "duration_ms": 176734,
-      "name": "Something Stupid (feat. AWA)",
-      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alien",
         "url": "https://open.spotify.com/album/3LXVxMUrioKZcoheV2zT3u"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 174840,
       "name": "Alien",
       "url": "https://open.spotify.com/track/0RUTnY2B3s05fZuCHsNaUP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Something Stupid (feat. AWA)",
+        "url": "https://open.spotify.com/album/2dvjAWKAaelqsNiqRajGlP"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "AWA",
+          "url": "https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ"
+        }
+      ],
+      "duration_ms": 176734,
+      "name": "Something Stupid (feat. AWA)",
+      "url": "https://open.spotify.com/track/2UCu2FoXFZpCT36lYzej4O"
     },
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Finally",
-        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
-      },
-      "artists": [
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        },
-        {
-          "name": "RANI",
-          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
-        }
-      ],
-      "duration_ms": 188891,
-      "name": "Finally",
-      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Liquid Spirit (Jonas Blue Remix)",
         "url": "https://open.spotify.com/album/447Zhy3nnzRX4yjlvubkTc"
       },
@@ -591,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I See Love (From Hotel Transylvania 3)",
-        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+        "name": "Finally",
+        "url": "https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9"
       },
       "artists": [
         {
@@ -600,13 +580,13 @@
           "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
         },
         {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
         }
       ],
-      "duration_ms": 173220,
-      "name": "I See Love - From Hotel Transylvania 3",
-      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
+      "duration_ms": 188891,
+      "name": "Finally",
+      "url": "https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV"
     },
     {
       "added_at": null,
@@ -631,6 +611,26 @@
       "duration_ms": 238451,
       "name": "Hearts Ain't Gonna Lie - Eden Prince Remix",
       "url": "https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I See Love (From Hotel Transylvania 3)",
+        "url": "https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        }
+      ],
+      "duration_ms": 173220,
+      "name": "I See Love - From Hotel Transylvania 3",
+      "url": "https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Give Up (Jonas Blue Remix)",
-        "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
-      },
-      "artists": [
-        {
-          "name": "Zoe Wees",
-          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
-        },
-        {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Don't Give Up - Jonas Blue Remix",
-      "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 200694,
       "name": "You're The One",
       "url": "https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Give Up (Jonas Blue Remix)",
+        "url": "https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA"
+      },
+      "artists": [
+        {
+          "name": "Zoe Wees",
+          "url": "https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS"
+        },
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Don't Give Up - Jonas Blue Remix",
+      "url": "https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94"
     },
     {
       "added_at": null,
@@ -1009,6 +1009,6 @@
       "url": "https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4"
     }
   ],
-  "unique_name": "This Is \u30b8\u30e7\u30ca\u30b9\u30fb\u30d6\u30eb\u30fc",
+  "unique_name": "This Is Jonas Blue",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S"
 }

@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 118055,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 118009,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDllODQyMzAyMThlMWYyYTg0ODEyOWNiN2NiNTM2ODI5",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGZmMDcwOTA3NDM2ZTQ4ZTFhYWFjNWQyZWMxNTI2N2Yy",
   "tracks": [
     {
       "added_at": null,
@@ -543,22 +543,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De a poco",
-        "url": "https://open.spotify.com/album/0q7wEGw99hj9dbGe3LLCIQ"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 178746,
-      "name": "De a poco",
-      "url": "https://open.spotify.com/track/5n89KAstAaCpx1KLh8ioFL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 182533,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De a poco",
+        "url": "https://open.spotify.com/album/0q7wEGw99hj9dbGe3LLCIQ"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 178746,
+      "name": "De a poco",
+      "url": "https://open.spotify.com/track/5n89KAstAaCpx1KLh8ioFL"
     },
     {
       "added_at": null,
@@ -659,6 +659,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Love You (432 Hz) (with Greeicy)",
+        "url": "https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk"
+      },
+      "artists": [
+        {
+          "name": "Maejor",
+          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
+        },
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "I Love You (432 Hz) (with Greeicy)",
+      "url": "https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
         "url": "https://open.spotify.com/album/0f7eKFD7GWis0BuKXaikB5"
       },
@@ -683,26 +703,6 @@
       "duration_ms": 218981,
       "name": "Jerusalema (feat. Micro TDH, Greeicy & Nomcebo Zikode) [Remix]",
       "url": "https://open.spotify.com/track/54nChLooSgU5bUQCV2oVOY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Love You (432 Hz) (with Greeicy)",
-        "url": "https://open.spotify.com/album/3HI2xAgLyGEw4w66lmwUQk"
-      },
-      "artists": [
-        {
-          "name": "Maejor",
-          "url": "https://open.spotify.com/artist/3XcCT5MPlQPWFTJyzXbfuX"
-        },
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "I Love You (432 Hz) (with Greeicy)",
-      "url": "https://open.spotify.com/track/1ICUVPtaZlWQ45aQCtmW2y"
     },
     {
       "added_at": null,
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 136293,
-      "name": "I Try For You",
-      "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
+      "duration_ms": 139973,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
     },
     {
       "added_at": null,
@@ -800,25 +800,9 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 139973,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 216413,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao"
+      "duration_ms": 136293,
+      "name": "I Try For You",
+      "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
     },
     {
       "added_at": null,
@@ -851,6 +835,22 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 171520,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
     },
     {
       "added_at": null,
@@ -891,22 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Baila",
-        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 171520,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/0o0eubjweqWRrZ4PuW8s3n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "YELIANA - Cap. 2 - I Try For You / Qu\u00edmica",
         "url": "https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 137680,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Baila",
+        "url": "https://open.spotify.com/album/0ZrbrBx1Rkc7hq3hDKdOmH"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 216413,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/5Olgt8adke15M1zpzja0Ao"
     },
     {
       "added_at": null,

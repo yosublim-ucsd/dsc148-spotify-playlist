@@ -1,6 +1,6 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Shego.",
-  "num_followers": 60399,
+  "num_followers": 60437,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -121,6 +121,22 @@
       "url": "https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV"
     },
     {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Forget About Us",
+        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
+      },
+      "artists": [
+        {
+          "name": "Perrie",
+          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
+        }
+      ],
+      "duration_ms": 186232,
+      "name": "Forget About Us",
+      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
+    },
+    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "NVMD",
@@ -151,22 +167,6 @@
       "duration_ms": 206500,
       "name": "Saan?",
       "url": "https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Forget About Us",
-        "url": "https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD"
-      },
-      "artists": [
-        {
-          "name": "Perrie",
-          "url": "https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe"
-        }
-      ],
-      "duration_ms": 186232,
-      "name": "Forget About Us",
-      "url": "https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "\u30da\u30a2\u30ea\u30f3\u30b0",
-        "url": "https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP"
-      },
-      "artists": [
-        {
-          "name": "\u97f3\u7530 \u96c5\u5247",
-          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
-        }
-      ],
-      "duration_ms": 189638,
-      "name": "\u30da\u30a2\u30ea\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Rome",
         "url": "https://open.spotify.com/album/6tsIKPtNFPVwUztMLk8nST"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 161213,
       "name": "Rome",
       "url": "https://open.spotify.com/track/2lfVOXTYg0AQ30BOmvTDXX"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "\u30da\u30a2\u30ea\u30f3\u30b0",
+        "url": "https://open.spotify.com/album/78HHdtzcQk4AVf5d46foLP"
+      },
+      "artists": [
+        {
+          "name": "\u97f3\u7530 \u96c5\u5247",
+          "url": "https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo"
+        }
+      ],
+      "duration_ms": 189638,
+      "name": "\u30da\u30a2\u30ea\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/2vznAtq5wtn4D7U6WCwu5l"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/6sl8thmAsTzYfVw3jJ9z49"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "NINETYNINE",
-        "url": "https://open.spotify.com/album/6j4H7Z52aDxJMjaog31UDE"
-      },
-      "artists": [
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 146808,
-      "name": "112",
-      "url": "https://open.spotify.com/track/151QpsxCSYAPPchzELKWXb"
-    },
-    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "Padaba Taka",
@@ -551,6 +535,22 @@
       "duration_ms": 277583,
       "name": "Padaba Taka",
       "url": "https://open.spotify.com/track/07gUvSU765VtVbSoHPMHHO"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "NINETYNINE",
+        "url": "https://open.spotify.com/album/6j4H7Z52aDxJMjaog31UDE"
+      },
+      "artists": [
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 146808,
+      "name": "112",
+      "url": "https://open.spotify.com/track/151QpsxCSYAPPchzELKWXb"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -805,6 +805,22 @@
       "url": "https://open.spotify.com/track/6AzLKOoOuDELNmLFW9LUQi"
     },
     {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Love Lost",
+        "url": "https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN"
+      },
+      "artists": [
+        {
+          "name": "Calum Bowie",
+          "url": "https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG"
+        }
+      ],
+      "duration_ms": 179889,
+      "name": "Love Lost",
+      "url": "https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0"
+    },
+    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
         "name": "One Time",
@@ -823,22 +839,6 @@
       "duration_ms": 139680,
       "name": "Excuse Me",
       "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Love Lost",
-        "url": "https://open.spotify.com/album/2TFjqyVzdKjNnNxoiR1VFN"
-      },
-      "artists": [
-        {
-          "name": "Calum Bowie",
-          "url": "https://open.spotify.com/artist/0BjKESiuU8dT323VIL8SqG"
-        }
-      ],
-      "duration_ms": 179889,
-      "name": "Love Lost",
-      "url": "https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -873,22 +873,6 @@
       "url": "https://open.spotify.com/track/6iNfcXYuTkHWarYUaKGnZX"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "B\u00fcy\u00fcklere Ninniler",
-        "url": "https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T"
-      },
-      "artists": [
-        {
-          "name": "Paptircem",
-          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
-        }
-      ],
-      "duration_ms": 197869,
-      "name": "Yaln\u0131zl\u0131k Bana Kalan",
-      "url": "https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV"
-    },
-    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless) - Single",
@@ -903,6 +887,22 @@
       "duration_ms": 225085,
       "name": "\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e19\u0e49\u0e2d\u0e22\u0e25\u0e07\u0e2b\u0e19\u0e48\u0e2d\u0e22 (Cuteless)",
       "url": "https://open.spotify.com/track/7f1L9GyOgbt3ZguWN7Eog0"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "B\u00fcy\u00fcklere Ninniler",
+        "url": "https://open.spotify.com/album/2zviwzygpyVqqab20KQC5T"
+      },
+      "artists": [
+        {
+          "name": "Paptircem",
+          "url": "https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b"
+        }
+      ],
+      "duration_ms": 197869,
+      "name": "Yaln\u0131zl\u0131k Bana Kalan",
+      "url": "https://open.spotify.com/track/1MLVv52wh7QmiW0mQEKKuV"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -969,22 +969,6 @@
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "LOSTWITHOUTMARIA",
-        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
-      },
-      "artists": [
-        {
-          "name": "F3miii",
-          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
-        }
-      ],
-      "duration_ms": 154104,
-      "name": "LOSTWITHOUTMARIA",
-      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
-    },
-    {
       "added_at": "2024-04-05 06:00:00",
       "album": {
         "name": "Cartwheels",
@@ -999,6 +983,22 @@
       "duration_ms": 124013,
       "name": "Cartwheels",
       "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "LOSTWITHOUTMARIA",
+        "url": "https://open.spotify.com/album/19JU2xfgLz08uhItsL9mrT"
+      },
+      "artists": [
+        {
+          "name": "F3miii",
+          "url": "https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s"
+        }
+      ],
+      "duration_ms": 154104,
+      "name": "LOSTWITHOUTMARIA",
+      "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "NANA",
         "url": "https://open.spotify.com/album/7ouow45j59PfwRk3rZNsZi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 146086,
       "name": "NANA",
       "url": "https://open.spotify.com/track/2pGaQYZIleZVcRLL79zSVf"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1113,22 +1113,6 @@
       "url": "https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "How Many Nights",
-        "url": "https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 200640,
-      "name": "How Many Nights",
-      "url": "https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom"
-    },
-    {
       "added_at": "2024-04-12 06:00:00",
       "album": {
         "name": "Breathe",
@@ -1145,20 +1129,20 @@
       "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
-      "added_at": "2024-03-29 06:00:00",
+      "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Live Forever",
-        "url": "https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z"
+        "name": "How Many Nights",
+        "url": "https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9"
       },
       "artists": [
         {
-          "name": "Kate Hudson",
-          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
         }
       ],
-      "duration_ms": 193973,
-      "name": "Live Forever",
-      "url": "https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7"
+      "duration_ms": 200640,
+      "name": "How Many Nights",
+      "url": "https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1175,6 +1159,22 @@
       "duration_ms": 141818,
       "name": "10x Better",
       "url": "https://open.spotify.com/track/7FjRthQOOmRWrjiX8WrzES"
+    },
+    {
+      "added_at": "2024-03-29 06:00:00",
+      "album": {
+        "name": "Live Forever",
+        "url": "https://open.spotify.com/album/7JIW8bW2IvO0cSmrPMth3z"
+      },
+      "artists": [
+        {
+          "name": "Kate Hudson",
+          "url": "https://open.spotify.com/artist/5AILMlfEtVO0ehMpDhesME"
+        }
+      ],
+      "duration_ms": 193973,
+      "name": "Live Forever",
+      "url": "https://open.spotify.com/track/0f8vJ5TNG54ymfv7b70NF7"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1225,20 +1225,20 @@
       "url": "https://open.spotify.com/track/53czFJt0Cz9DGgpyDrO6l1"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
+      "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Normalde",
-        "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
+        "name": "high school boy",
+        "url": "https://open.spotify.com/album/2ORcCijIfVbm8mfSzhHhRB"
       },
       "artists": [
         {
-          "name": "Ege Can Sal",
-          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
+          "name": "Regina Song",
+          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
         }
       ],
-      "duration_ms": 141000,
-      "name": "Normalde",
-      "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
+      "duration_ms": 174462,
+      "name": "high school boy",
+      "url": "https://open.spotify.com/track/44P8V1OgBQH1l54gY5Buck"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1257,20 +1257,20 @@
       "url": "https://open.spotify.com/track/1FG0HeNkIK4bmj6W1iBg3B"
     },
     {
-      "added_at": "2024-04-19 06:00:00",
+      "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "high school boy",
-        "url": "https://open.spotify.com/album/2ORcCijIfVbm8mfSzhHhRB"
+        "name": "Normalde",
+        "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
       },
       "artists": [
         {
-          "name": "Regina Song",
-          "url": "https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W"
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
         }
       ],
-      "duration_ms": 174462,
-      "name": "high school boy",
-      "url": "https://open.spotify.com/track/44P8V1OgBQH1l54gY5Buck"
+      "duration_ms": 141000,
+      "name": "Normalde",
+      "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1353,6 +1353,22 @@
       "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
     },
     {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Attitude(s)",
+        "url": "https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Bbye",
+      "url": "https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav"
+    },
+    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
         "name": "CAN YOU UNDERSTAND ME?",
@@ -1371,18 +1387,18 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Attitude(s)",
-        "url": "https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58"
+        "name": "kelep\u00e7e",
+        "url": "https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w"
       },
       "artists": [
         {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+          "name": "Sena \u015eahin",
+          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
         }
       ],
-      "duration_ms": 196706,
-      "name": "Bbye",
-      "url": "https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav"
+      "duration_ms": 139200,
+      "name": "kelep\u00e7e",
+      "url": "https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1399,22 +1415,6 @@
       "duration_ms": 226379,
       "name": "\u0e19\u0e35\u0e48\u0e19\u0e30\u0e04\u0e30 (I'm Here!)",
       "url": "https://open.spotify.com/track/25WkNItOoTJrAzwU5yUZEU"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Born To Lose",
-        "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
-      },
-      "artists": [
-        {
-          "name": "Elle Coves",
-          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
-        }
-      ],
-      "duration_ms": 180812,
-      "name": "Born To Lose",
-      "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1449,20 +1449,20 @@
       "url": "https://open.spotify.com/track/2zRKJr7WxH6wzWxZRAmpxb"
     },
     {
-      "added_at": "2024-04-12 06:00:00",
+      "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "kelep\u00e7e",
-        "url": "https://open.spotify.com/album/0VVAz2skQSINs9D64ODr6w"
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
       },
       "artists": [
         {
-          "name": "Sena \u015eahin",
-          "url": "https://open.spotify.com/artist/40VwjQ6yxDV90bjbDU124W"
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
         }
       ],
-      "duration_ms": 139200,
-      "name": "kelep\u00e7e",
-      "url": "https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne"
+      "duration_ms": 180812,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1479,38 +1479,6 @@
       "duration_ms": 190129,
       "name": "We Are The River",
       "url": "https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "CATENE",
-        "url": "https://open.spotify.com/album/5cu1didsjiJlzmKOYNCiju"
-      },
-      "artists": [
-        {
-          "name": "STE",
-          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
-        }
-      ],
-      "duration_ms": 203478,
-      "name": "CATENE",
-      "url": "https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Kaleidoscope",
-        "url": "https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj"
-      },
-      "artists": [
-        {
-          "name": "rhyu",
-          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
-        }
-      ],
-      "duration_ms": 207625,
-      "name": "Kaleidoscope",
-      "url": "https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1535,18 +1503,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "notte vodka",
-        "url": "https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL"
+        "name": "CATENE",
+        "url": "https://open.spotify.com/album/5cu1didsjiJlzmKOYNCiju"
       },
       "artists": [
         {
-          "name": "centomilacarie",
-          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
         }
       ],
-      "duration_ms": 145348,
-      "name": "notte vodka",
-      "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
+      "duration_ms": 203478,
+      "name": "CATENE",
+      "url": "https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1563,6 +1531,38 @@
       "duration_ms": 195001,
       "name": "Ghost",
       "url": "https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Kaleidoscope",
+        "url": "https://open.spotify.com/album/0XcxAm4mYasJbBHzNO19Mj"
+      },
+      "artists": [
+        {
+          "name": "rhyu",
+          "url": "https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ"
+        }
+      ],
+      "duration_ms": 207625,
+      "name": "Kaleidoscope",
+      "url": "https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "notte vodka",
+        "url": "https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "duration_ms": 145348,
+      "name": "notte vodka",
+      "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1605,20 +1605,20 @@
       "url": "https://open.spotify.com/track/3Hk0otwsBfoQ3kIZcOJCfW"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
+      "added_at": "2024-04-05 06:00:00",
       "album": {
-        "name": "downtime",
-        "url": "https://open.spotify.com/album/3YdXanlid6mJC5xhsMW8va"
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN"
       },
       "artists": [
         {
-          "name": "TYLER LEWIS",
-          "url": "https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p"
+          "name": "Mellissa",
+          "url": "https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW"
         }
       ],
-      "duration_ms": 192336,
-      "name": "downtime",
-      "url": "https://open.spotify.com/track/38bkkPgAZUCL6VgiswFFCU"
+      "duration_ms": 182428,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
     },
     {
       "added_at": "2024-03-29 06:00:00",

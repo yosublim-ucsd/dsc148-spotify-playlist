@@ -4,7 +4,7 @@
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg"> Omar Sterling</a>
 
-247 songs - 12 hr 58 min
+248 songs - 13 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Guestlist](https://open.spotify.com/track/46yplRp7xn26QkDe8AdgaB) | [Frenna](https://open.spotify.com/artist/6m1LYS5NQonxjOcQFPQOb5), [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Guestlist](https://open.spotify.com/album/5D89rT4XKSkoOCLJewdiB4) | 3:54 | 2021-10-14 | 2022-10-21 |
 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 | 2023-06-16 |  |
 | [Haibo \(feat\. S1mba & Reason\) \- Remix](https://open.spotify.com/track/5xO9vhE0odRSahw5oQOHwr) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Reason](https://open.spotify.com/artist/25LmW62LFKrcapOAnJWoNX), [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s) | [Haibo \(feat\. S1mba & Reason\) \[Remix\]](https://open.spotify.com/album/6y5QE68qjiuXSQ9d0XYpaJ) | 3:18 | 2022-05-19 | 2022-07-01 |
+| [Hallelujah](https://open.spotify.com/track/6JNLAYsRE0JAES5arxN0nY) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Rozzz](https://open.spotify.com/artist/3wIYjte1HLaehiGvrSxUju), [Morrelo](https://open.spotify.com/artist/5NRc0M274Rv77nzXtH0avd) | [Hallelujah](https://open.spotify.com/album/7y3LiQvJhZtj3cuuT596LH) | 3:18 | 2024-04-19 |  |
 | [Headliner](https://open.spotify.com/track/5yX1jR8VbEygSGnY7dXPBq) | [NSG](https://open.spotify.com/artist/31Ua7zSTJxegjyd49ujbSA) | [Headliner](https://open.spotify.com/album/6AAVCyWUzc7rcna0kXmmaf) | 3:27 | 2021-12-09 |  |
 | [Heartbreaker \(feat\. Nasty C\)](https://open.spotify.com/track/28qXHN4aeQ3D2asjK0Vouz) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Sex Over Love](https://open.spotify.com/album/34tZdQwqkLwmCE6a4armXv) | 2:35 | 2021-10-14 | 2022-07-01 |
 | [Hmm \- Remix](https://open.spotify.com/track/62slPHVX1XEFfdoxaUtosU) | [G4 Boyz](https://open.spotify.com/artist/4ZtqSJYEh407LR6NM5hNcS), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/1ti1eoBDoZtKJVZSkCUY8h) | [Hmm \(Remix\)](https://open.spotify.com/album/7w1vWwOOr64HhVRTGIscTb) | 3:30 | 2021-10-14 | 2023-11-11 |
@@ -203,7 +204,7 @@
 | [SHARP SHOOTER](https://open.spotify.com/track/5ThgZ5GSs5KffqHZ2chM17) | [Prettyboy D\-O](https://open.spotify.com/artist/76qtJqxLY1aXEPHxAJui7y) | [Sharp Shooter](https://open.spotify.com/album/4SHAx7mREFbv5VcLCrrq6X) | 2:30 | 2024-03-01 |  |
 | [SHOOT AND GO HOME](https://open.spotify.com/track/7LULqWeafZzoFjW9KAUvay) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [EZIOKWU](https://open.spotify.com/album/6e1McsPwHgiySHVlpZRhFx) | 2:52 | 2023-10-13 | 2024-03-16 |
 | [Show No Love](https://open.spotify.com/track/16qfwBiZQuSWUNQL0wW6PU) | [PatricKxxLee](https://open.spotify.com/artist/5iFdCQifoUkuVGsZLTsNHP) | [Show No Love](https://open.spotify.com/album/4DEuvbtH2gB1YLumuAClcy) | 2:19 | 2024-02-23 | 2024-04-05 |
-| [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 | 2023-10-13 |  |
+| [SHUT IT DOWN](https://open.spotify.com/track/7209lSaT96QO2FEm7BYDLX) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Chocobantis](https://open.spotify.com/artist/70Jve0OujgQxmXXxMBoVON) | [SHUT IT DOWN](https://open.spotify.com/album/0zoAELio4zrfT3tnYTkOdM) | 2:30 | 2023-10-13 | 2024-04-22 |
 | [Shut Up](https://open.spotify.com/track/3LuSjVLN13xR6WO01Mv5ta) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Shut Up](https://open.spotify.com/album/4kvqQHjh1FTCxFPhBdHu0j) | 3:12 | 2024-04-05 |  |
 | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/track/4aHEayGDKLzX49rtj1GGvM) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Siberia \(feat\. Burna Boy\)](https://open.spotify.com/album/2drdsKc7tHWW2ZyvKFTZV4) | 2:53 | 2021-10-14 | 2022-02-04 |
 | [Sinner](https://open.spotify.com/track/6miftk872yxPKve9CdKaQO) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Lp2loose](https://open.spotify.com/artist/6PvcxssrQ0QaJVaBWHD07l) | [Sinner](https://open.spotify.com/album/1sODnxd2EWcvRsMkfeBL3z) | 3:52 | 2021-10-14 | 2022-03-18 |

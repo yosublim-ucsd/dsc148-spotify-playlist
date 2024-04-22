@@ -1,12 +1,12 @@
 {
   "description": "This is El de La Guitarra. The essential tracks, all in one playlist.",
-  "num_followers": 88531,
+  "num_followers": 88423,
   "original_name": "This Is El de La Guitarra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDVhOWZkZmNiZjc4MzBiODAzMWJlMjYwNDFiY2IwOGY3",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDViYjYyNmIxNmM2NjdhODBiYWNmZmI1MzhkZTE4MzQ2",
   "tracks": [
     {
       "added_at": null,
@@ -27,22 +27,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Prometido Es Deuda (Vol.3)",
-        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 225825,
-      "name": "Gustos VIP",
-      "url": "https://open.spotify.com/track/7iRrVxEVK37m34vGEE8LfJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lo Prometido Es Deuda Vol.2",
         "url": "https://open.spotify.com/album/4lPJVD5JmytPu0jnJAU7PS"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 202124,
       "name": "El Monstro 7",
       "url": "https://open.spotify.com/track/21jEIOf3pXF1EOb9n0vZJf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Prometido Es Deuda (Vol.3)",
+        "url": "https://open.spotify.com/album/4MBxCRPECSq8s18CjO6feM"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 225825,
+      "name": "Gustos VIP",
+      "url": "https://open.spotify.com/track/7iRrVxEVK37m34vGEE8LfJ"
     },
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Va Por Todos",
+        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
+      },
+      "artists": [
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 174556,
+      "name": "Para Ser Respetado",
+      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Las Calles",
         "url": "https://open.spotify.com/album/4sqxfNeqy1wpAJgk8Xuz1e"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 149000,
       "name": "Por Las Calles",
       "url": "https://open.spotify.com/track/4nGiX1q909OD6ewChFFiB1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Va Por Todos",
-        "url": "https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 174556,
-      "name": "Para Ser Respetado",
-      "url": "https://open.spotify.com/track/3OtWHaaJVAQpEpaiUhWO4K"
     },
     {
       "added_at": null,
@@ -647,22 +647,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como Una Pantera",
-        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
+        "name": "Botas Ariat",
+        "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
       },
       "artists": [
-        {
-          "name": "Hermanos Siqueiros",
-          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
-        },
         {
           "name": "El de La Guitarra",
           "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
         }
       ],
-      "duration_ms": 170492,
-      "name": "Como Una Pantera",
-      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
+      "duration_ms": 183409,
+      "name": "Botas Ariat",
+      "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
     },
     {
       "added_at": null,
@@ -683,22 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Botas Ariat",
-        "url": "https://open.spotify.com/album/4u3djr5WDq8rPzagF79rJF"
-      },
-      "artists": [
-        {
-          "name": "El de La Guitarra",
-          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
-        }
-      ],
-      "duration_ms": 183409,
-      "name": "Botas Ariat",
-      "url": "https://open.spotify.com/track/1uSKLuMMqy48AFI7dFOiIA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Peligro",
         "url": "https://open.spotify.com/album/4YViCFmwpHIMQVm2Opv1u3"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 120749,
       "name": "Peligro",
       "url": "https://open.spotify.com/track/3cMC0cscoByKmZ4jY1spXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Una Pantera",
+        "url": "https://open.spotify.com/album/4EF1XEWqEJN0MkBzK2QAH4"
+      },
+      "artists": [
+        {
+          "name": "Hermanos Siqueiros",
+          "url": "https://open.spotify.com/artist/7kmSbutRbO93rp52GQac9C"
+        },
+        {
+          "name": "El de La Guitarra",
+          "url": "https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk"
+        }
+      ],
+      "duration_ms": 170492,
+      "name": "Como Una Pantera",
+      "url": "https://open.spotify.com/track/5h0qcUht3LTT8zf36EHV5b"
     },
     {
       "added_at": null,

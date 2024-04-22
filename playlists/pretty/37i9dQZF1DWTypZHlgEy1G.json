@@ -1,6 +1,6 @@
 {
   "description": "Le patrimoine de la chanson fran\u00e7aise. Photo : Charles Aznavour",
-  "num_followers": 535427,
+  "num_followers": 535182,
   "original_name": "Standards de la Chanson Fran\u00e7aise",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Eternelle",
-        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 142280,
-      "name": "Non, je ne regrette rien",
-      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
         "name": "Love Me Please Love Me",
         "url": "https://open.spotify.com/album/68clUJF0fZaWSdmcBYKxGH"
       },
@@ -187,6 +171,22 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
+        "name": "Eternelle",
+        "url": "https://open.spotify.com/album/2k3nz0I7mJzegtkooii4za"
+      },
+      "artists": [
+        {
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
+        }
+      ],
+      "duration_ms": 142280,
+      "name": "Non, je ne regrette rien",
+      "url": "https://open.spotify.com/track/3dkIE8P7hvl3tHl9KSb6dA"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
         "name": "Niagara",
         "url": "https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU"
       },
@@ -199,6 +199,22 @@
       "duration_ms": 214173,
       "name": "Ce n'est rien",
       "url": "https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Dave",
+        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
+      },
+      "artists": [
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
+        }
+      ],
+      "duration_ms": 180200,
+      "name": "Du c\u00f4te de chez Swann",
+      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -231,38 +247,6 @@
       "duration_ms": 132213,
       "name": "La mauvaise r\u00e9putation",
       "url": "https://open.spotify.com/track/1CXcTLzJ3b2KJylbsbF0cE"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "de l'accordeoniste a milord",
-        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
-      },
-      "artists": [
-        {
-          "name": "\u00c9dith Piaf",
-          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
-        }
-      ],
-      "duration_ms": 178840,
-      "name": "La foule",
-      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Dave",
-        "url": "https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o"
-      },
-      "artists": [
-        {
-          "name": "Dave",
-          "url": "https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg"
-        }
-      ],
-      "duration_ms": 180200,
-      "name": "Du c\u00f4te de chez Swann",
-      "url": "https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -313,20 +297,20 @@
       "url": "https://open.spotify.com/track/1IsYgxPzYd4cBB2qMGZ1mG"
     },
     {
-      "added_at": "2024-03-22 19:37:47",
+      "added_at": "2023-10-19 14:26:00",
       "album": {
-        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
-        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+        "name": "de l'accordeoniste a milord",
+        "url": "https://open.spotify.com/album/7l3ydaHRFTcEGM0D9rlfqS"
       },
       "artists": [
         {
-          "name": "Georges Brassens",
-          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+          "name": "\u00c9dith Piaf",
+          "url": "https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j"
         }
       ],
-      "duration_ms": 180746,
-      "name": "Les amoureux des bancs publics",
-      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
+      "duration_ms": 178840,
+      "name": "La foule",
+      "url": "https://open.spotify.com/track/2xZfPZxInlDXDKc6NDts8Z"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -381,6 +365,22 @@
       "url": "https://open.spotify.com/track/028I09aqplLUYRJXGLAPNq"
     },
     {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
+        "url": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+      },
+      "artists": [
+        {
+          "name": "Georges Brassens",
+          "url": "https://open.spotify.com/artist/5UWyW1PcEM8coxeqg3RIHr"
+        }
+      ],
+      "duration_ms": 180746,
+      "name": "Les amoureux des bancs publics",
+      "url": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
+    },
+    {
       "added_at": "2023-10-19 14:26:00",
       "album": {
         "name": "En Vogue",
@@ -395,22 +395,6 @@
       "duration_ms": 173586,
       "name": "Il est cinq heures, Paris s'\u00e9veille",
       "url": "https://open.spotify.com/track/1Gw2viJ4XE9hylW4ujtNef"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
-        "name": "Yves Montand",
-        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Sous le ciel de Paris",
-      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -435,6 +419,22 @@
       "duration_ms": 171640,
       "name": "La chanson d'H\u00e9l\u00e8ne",
       "url": "https://open.spotify.com/track/5zcGOXyESkZHfMNsVfGii9"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Yves Montand",
+        "url": "https://open.spotify.com/album/41hNqtbMJTaTYCIq6W0571"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Sous le ciel de Paris",
+      "url": "https://open.spotify.com/track/7A3JZum5yfNq9I3TtFVMMt"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -489,22 +489,6 @@
       "url": "https://open.spotify.com/track/3A3LBrCEXGcyUPPBjuaNKl"
     },
     {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Yves Montand Gold",
-        "url": "https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp"
-      },
-      "artists": [
-        {
-          "name": "Yves Montand",
-          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
-        }
-      ],
-      "duration_ms": 163040,
-      "name": "\u00c0 bicyclette",
-      "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
-    },
-    {
       "added_at": "2024-03-22 19:37:47",
       "album": {
         "name": "20 chansons d'or",
@@ -535,6 +519,22 @@
       "duration_ms": 158493,
       "name": "Jolie m\u00f4me",
       "url": "https://open.spotify.com/track/0nKRwRUAbGiqDj0jJMifzf"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
+        "name": "Yves Montand Gold",
+        "url": "https://open.spotify.com/album/6Jje43nqb9VwFIPrHIppCp"
+      },
+      "artists": [
+        {
+          "name": "Yves Montand",
+          "url": "https://open.spotify.com/artist/5ru2x3pjrNn67D22BRwlFP"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "\u00c0 bicyclette",
+      "url": "https://open.spotify.com/track/18dwyNRkzzggWGBPWKH5Uh"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "Fleur De Paris",
-        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
-      },
-      "artists": [
-        {
-          "name": "Maurice Chevalier",
-          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
-        }
-      ],
-      "duration_ms": 194933,
-      "name": "Paris sera toujours Paris",
-      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
         "name": "George Brassens: Douce France",
         "url": "https://open.spotify.com/album/61jtgow8SNKJWfd8gFFeUJ"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 182266,
       "name": "Frou-Frou",
       "url": "https://open.spotify.com/track/4W9ZcMFqQMbG1llswppGY0"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Fleur De Paris",
+        "url": "https://open.spotify.com/album/0Z5YgfnmXWZM6KVw3pkdAc"
+      },
+      "artists": [
+        {
+          "name": "Maurice Chevalier",
+          "url": "https://open.spotify.com/artist/3QXjI80udwDSEfxK5BjUXc"
+        }
+      ],
+      "duration_ms": 194933,
+      "name": "Paris sera toujours Paris",
+      "url": "https://open.spotify.com/track/4YpmjnVzUfbPfbDguayy22"
     },
     {
       "added_at": "2024-03-22 19:37:47",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2023-10-19 14:26:00",
       "album": {
+        "name": "Fais Comme L'Oiseau",
+        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
+      },
+      "artists": [
+        {
+          "name": "Michel Fugain & Le Big Bazar",
+          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Fais comme l'oiseau",
+      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
+    },
+    {
+      "added_at": "2023-10-19 14:26:00",
+      "album": {
         "name": "Infiniment",
         "url": "https://open.spotify.com/album/5NwlXR5GbA10N4cZ6qViRf"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 212200,
       "name": "Emmenez Moi",
       "url": "https://open.spotify.com/track/7A0piuknKPVbFtf9gxI6le"
-    },
-    {
-      "added_at": "2023-10-19 14:26:00",
-      "album": {
-        "name": "Fais Comme L'Oiseau",
-        "url": "https://open.spotify.com/album/6u9tEKSghovMOBy9rwTMLn"
-      },
-      "artists": [
-        {
-          "name": "Michel Fugain & Le Big Bazar",
-          "url": "https://open.spotify.com/artist/5KnLt0VENhwsfmQL3y2nsY"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Fais comme l'oiseau",
-      "url": "https://open.spotify.com/track/5INFljqNxkfUkUajeXtBFh"
     },
     {
       "added_at": "2023-10-19 14:26:00",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-03-22 19:37:47",
       "album": {
-        "name": "Platinum Charles Aznavour",
-        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
-      },
-      "artists": [
-        {
-          "name": "Charles Aznavour",
-          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
-        }
-      ],
-      "duration_ms": 156933,
-      "name": "Que C'est Triste Venise",
-      "url": "https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR"
-    },
-    {
-      "added_at": "2024-03-22 19:37:47",
-      "album": {
         "name": "Midnight in Paris - French Classics",
         "url": "https://open.spotify.com/album/0kP8oCXy88fxa0hRhS1oV0"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 175613,
       "name": "Parlez moi d'amour",
       "url": "https://open.spotify.com/track/6MqBuCt2rVBWQ0x23icnWc"
+    },
+    {
+      "added_at": "2024-03-22 19:37:47",
+      "album": {
+        "name": "Platinum Charles Aznavour",
+        "url": "https://open.spotify.com/album/0rvCisxGedY59K1LrvjAfv"
+      },
+      "artists": [
+        {
+          "name": "Charles Aznavour",
+          "url": "https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT"
+        }
+      ],
+      "duration_ms": 156933,
+      "name": "Que C'est Triste Venise",
+      "url": "https://open.spotify.com/track/7H5Jw7GQh0ij0UMGwLkdKR"
     },
     {
       "added_at": "2024-03-22 19:37:47",

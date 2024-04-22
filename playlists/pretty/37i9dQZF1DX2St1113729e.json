@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. Metrika",
-  "num_followers": 217517,
+  "num_followers": 217452,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "shadowban",
-        "url": "https://open.spotify.com/album/0bkY3IrrsLxdnI3bsO2I8b"
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/2G8vQf90vV1VaZil0ukv6g"
       },
       "artists": [
-        {
-          "name": "Orslok",
-          "url": "https://open.spotify.com/artist/2TzPi0fPdqVesjZ3Y2wY43"
-        },
         {
           "name": "Saramalacara",
           "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
         }
       ],
-      "duration_ms": 199741,
-      "name": "tierraplana",
-      "url": "https://open.spotify.com/track/3EXRT7jILUvCiCumT4bP27"
+      "duration_ms": 213154,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/6vKq8Q4UCs4q6LqlijQGKE"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -279,6 +275,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "shadowban",
+        "url": "https://open.spotify.com/album/0bkY3IrrsLxdnI3bsO2I8b"
+      },
+      "artists": [
+        {
+          "name": "Orslok",
+          "url": "https://open.spotify.com/artist/2TzPi0fPdqVesjZ3Y2wY43"
+        },
+        {
+          "name": "Saramalacara",
+          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
+        }
+      ],
+      "duration_ms": 199741,
+      "name": "tierraplana",
+      "url": "https://open.spotify.com/track/3EXRT7jILUvCiCumT4bP27"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "TOT EST\u00c0 PER FER",
         "url": "https://open.spotify.com/album/0hERmYkJ52X2YwcV86dFsZ"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 164949,
       "name": "FOMO",
       "url": "https://open.spotify.com/track/1Hh5UHY9n7YMySDJUBe4xO"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/2G8vQf90vV1VaZil0ukv6g"
-      },
-      "artists": [
-        {
-          "name": "Saramalacara",
-          "url": "https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir"
-        }
-      ],
-      "duration_ms": 213154,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/6vKq8Q4UCs4q6LqlijQGKE"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -519,22 +519,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Kanekalon",
-        "url": "https://open.spotify.com/album/3T2GrYHzc9Z2UNO3HQSHDX"
-      },
-      "artists": [
-        {
-          "name": "Samantha Hudson",
-          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
-        }
-      ],
-      "duration_ms": 127363,
-      "name": "Kanekalon",
-      "url": "https://open.spotify.com/track/72FOS2i2LW9z1kG2WLapwp"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Cuatro Bodas",
         "url": "https://open.spotify.com/album/0CghLUe2fYF7okP7u7wjhi"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 166431,
       "name": "Cuatro Bodas",
       "url": "https://open.spotify.com/track/5CLsVEGnKJA23w5x7CQIP1"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Kanekalon",
+        "url": "https://open.spotify.com/album/3T2GrYHzc9Z2UNO3HQSHDX"
+      },
+      "artists": [
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        }
+      ],
+      "duration_ms": 127363,
+      "name": "Kanekalon",
+      "url": "https://open.spotify.com/track/72FOS2i2LW9z1kG2WLapwp"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -655,26 +655,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Desde la Luna",
-        "url": "https://open.spotify.com/album/189H9UzXywc9F8HeLnlJ9z"
-      },
-      "artists": [
-        {
-          "name": "El Virtual",
-          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
-        },
-        {
-          "name": "Logal",
-          "url": "https://open.spotify.com/artist/3WOYJSxYbPIUpdj7EYhNOs"
-        }
-      ],
-      "duration_ms": 114869,
-      "name": "Desde la Luna",
-      "url": "https://open.spotify.com/track/3YUn5SXAbsxkxUWbn9vc2k"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "QU\u00c9 M\u00c1S DA",
         "url": "https://open.spotify.com/album/0vPxyGWwFapgN1VLV65Wsi"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 153333,
       "name": "QU\u00c9 M\u00c1S DA",
       "url": "https://open.spotify.com/track/3ytTVQxppgPBANgAdYv3bs"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Desde la Luna",
+        "url": "https://open.spotify.com/album/189H9UzXywc9F8HeLnlJ9z"
+      },
+      "artists": [
+        {
+          "name": "El Virtual",
+          "url": "https://open.spotify.com/artist/1M6Haz9vxliXQXeVO49CSY"
+        },
+        {
+          "name": "Logal",
+          "url": "https://open.spotify.com/artist/3WOYJSxYbPIUpdj7EYhNOs"
+        }
+      ],
+      "duration_ms": 114869,
+      "name": "Desde la Luna",
+      "url": "https://open.spotify.com/track/3YUn5SXAbsxkxUWbn9vc2k"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "ESA NO ERES T\u00da",
-        "url": "https://open.spotify.com/album/2drDvEpuRZYTh2Gjd9n9UU"
-      },
-      "artists": [
-        {
-          "name": "Blanca Vergara",
-          "url": "https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "ESA NO ERES T\u00da",
-      "url": "https://open.spotify.com/track/3bzIamV5ZshdOHcSsrq5eN"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "guardian angel",
         "url": "https://open.spotify.com/album/46lr95nzgntYPq8cin5kN8"
       },
@@ -783,22 +767,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "gaZzZzZ",
-        "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
+        "name": "ESA NO ERES T\u00da",
+        "url": "https://open.spotify.com/album/2drDvEpuRZYTh2Gjd9n9UU"
       },
       "artists": [
         {
-          "name": "CONDY",
-          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
-        },
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+          "name": "Blanca Vergara",
+          "url": "https://open.spotify.com/artist/1x96drG6MuIhTlof4vmpWU"
         }
       ],
-      "duration_ms": 157237,
-      "name": "gaZzZzZ",
-      "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
+      "duration_ms": 154000,
+      "name": "ESA NO ERES T\u00da",
+      "url": "https://open.spotify.com/track/3bzIamV5ZshdOHcSsrq5eN"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -823,6 +803,26 @@
       "duration_ms": 149230,
       "name": "SUPERBETA",
       "url": "https://open.spotify.com/track/3eLGreGXBaAtBqvJnJg44E"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "gaZzZzZ",
+        "url": "https://open.spotify.com/album/6S4A3uQtVBp6JCJ3Jqv0AI"
+      },
+      "artists": [
+        {
+          "name": "CONDY",
+          "url": "https://open.spotify.com/artist/6b1pYqwBLVfhlTHpk3tnE3"
+        },
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 157237,
+      "name": "gaZzZzZ",
+      "url": "https://open.spotify.com/track/0QqWd0ZVvK0H9hf02GI2I3"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "FINA Y ELEGANTA",
-        "url": "https://open.spotify.com/album/3TMaPyEbd9lbjtYomcIRsU"
-      },
-      "artists": [
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 152068,
-      "name": "FINA Y ELEGANTA",
-      "url": "https://open.spotify.com/track/61WtcJBA1CwKBPkqZnod0E"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "MINIFALDA",
         "url": "https://open.spotify.com/album/1JUZhs1hFlj48kRp9kcz8P"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 122700,
       "name": "MINIFALDA",
       "url": "https://open.spotify.com/track/4amK1Za3HuN2DJZTfHiP6t"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "FINA Y ELEGANTA",
+        "url": "https://open.spotify.com/album/3TMaPyEbd9lbjtYomcIRsU"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 152068,
+      "name": "FINA Y ELEGANTA",
+      "url": "https://open.spotify.com/track/61WtcJBA1CwKBPkqZnod0E"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1019,30 +1019,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "venier_rmx165bpm",
-        "url": "https://open.spotify.com/album/29I76NDyjWvTDfBoLs1Vmj"
-      },
-      "artists": [
-        {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
-        },
-        {
-          "name": "LVL1",
-          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
-        },
-        {
-          "name": "DJ Final Boss",
-          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
-        }
-      ],
-      "duration_ms": 168727,
-      "name": "venier_rmx165bpm",
-      "url": "https://open.spotify.com/track/11pm3TTl9Fi6d0RaCwpzFT"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Me rodean (feat. Orslok)",
         "url": "https://open.spotify.com/album/0hKClB3h5t5wsfmX4hLPxh"
       },
@@ -1067,6 +1043,30 @@
       "duration_ms": 226789,
       "name": "Me rodean (feat. Orslok)",
       "url": "https://open.spotify.com/track/08KAerPtahxPaEFN6ydLUC"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "venier_rmx165bpm",
+        "url": "https://open.spotify.com/album/29I76NDyjWvTDfBoLs1Vmj"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        },
+        {
+          "name": "LVL1",
+          "url": "https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ"
+        },
+        {
+          "name": "DJ Final Boss",
+          "url": "https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR"
+        }
+      ],
+      "duration_ms": 168727,
+      "name": "venier_rmx165bpm",
+      "url": "https://open.spotify.com/track/11pm3TTl9Fi6d0RaCwpzFT"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1111,26 +1111,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Ultras del Amor",
-        "url": "https://open.spotify.com/album/1DSz19Z32UIz7g6nwCVF0K"
-      },
-      "artists": [
-        {
-          "name": "Slappy Av",
-          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
-        },
-        {
-          "name": "Faxu",
-          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
-        }
-      ],
-      "duration_ms": 183447,
-      "name": "LindooOo",
-      "url": "https://open.spotify.com/track/5MuM4zRjSj2Zqy6FsGutRG"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "MYLOVEMYLOVE",
         "url": "https://open.spotify.com/album/31ky1vexdnfugnK89JteJM"
       },
@@ -1151,18 +1131,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Checkpoint",
-        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
+        "name": "Ultras del Amor",
+        "url": "https://open.spotify.com/album/1DSz19Z32UIz7g6nwCVF0K"
       },
       "artists": [
         {
-          "name": "Traw",
-          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
+          "name": "Slappy Av",
+          "url": "https://open.spotify.com/artist/6GWTEzK62O11ilSUbVG7Fi"
+        },
+        {
+          "name": "Faxu",
+          "url": "https://open.spotify.com/artist/0LA5aboyOdxBzRiQGrnLdF"
         }
       ],
-      "duration_ms": 107168,
-      "name": "Checkpoint",
-      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
+      "duration_ms": 183447,
+      "name": "LindooOo",
+      "url": "https://open.spotify.com/track/5MuM4zRjSj2Zqy6FsGutRG"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1187,6 +1171,22 @@
       "duration_ms": 201624,
       "name": "RUIDO",
       "url": "https://open.spotify.com/track/1D4M14uj2mFZKgq5Hro3qw"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Checkpoint",
+        "url": "https://open.spotify.com/album/6Zwy3c6bbocheA4AZMtQId"
+      },
+      "artists": [
+        {
+          "name": "Traw",
+          "url": "https://open.spotify.com/artist/0p2hyflfP93qeIOd7Rx1gj"
+        }
+      ],
+      "duration_ms": 107168,
+      "name": "Checkpoint",
+      "url": "https://open.spotify.com/track/4iSfkr4D8N2TiDWfIrehEK"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1599,26 +1599,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Y T\u00fa Con \u00c9l (Extra\u00f1\u00e1ndote)",
-        "url": "https://open.spotify.com/album/42Bq0SlMUwEY4a9v5nffD2"
-      },
-      "artists": [
-        {
-          "name": "moreira",
-          "url": "https://open.spotify.com/artist/6bqLDtvs4Ab3qcmRB9XWEe"
-        },
-        {
-          "name": "SIMONA",
-          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
-        }
-      ],
-      "duration_ms": 190090,
-      "name": "Y T\u00fa Con \u00c9l - Extra\u00f1\u00e1ndote",
-      "url": "https://open.spotify.com/track/3akWoBzRyv21tNhCTKlcqI"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "\u00a1eh! \u00bfqui\u00e9n apag\u00f3 la luz?",
         "url": "https://open.spotify.com/album/5QTeqwX60g7TpoNyzo3ted"
       },
@@ -1635,6 +1615,26 @@
       "duration_ms": 126641,
       "name": "\u00a1eh! \u00bfqui\u00e9n apag\u00f3 la luz?",
       "url": "https://open.spotify.com/track/1Y0vKCnUNMjvmDpXItdloY"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Y T\u00fa Con \u00c9l (Extra\u00f1\u00e1ndote)",
+        "url": "https://open.spotify.com/album/42Bq0SlMUwEY4a9v5nffD2"
+      },
+      "artists": [
+        {
+          "name": "moreira",
+          "url": "https://open.spotify.com/artist/6bqLDtvs4Ab3qcmRB9XWEe"
+        },
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/7H7hLNfP9MzG8mt2A3s7nT"
+        }
+      ],
+      "duration_ms": 190090,
+      "name": "Y T\u00fa Con \u00c9l - Extra\u00f1\u00e1ndote",
+      "url": "https://open.spotify.com/track/3akWoBzRyv21tNhCTKlcqI"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1759,6 +1759,26 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "PENROSE",
+        "url": "https://open.spotify.com/album/5nLPjBn032PXESRcknb4VT"
+      },
+      "artists": [
+        {
+          "name": "Espineli",
+          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+        },
+        {
+          "name": "curtice",
+          "url": "https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq"
+        }
+      ],
+      "duration_ms": 121193,
+      "name": "PENROSE",
+      "url": "https://open.spotify.com/track/6DE6GQb7LcoNlDufJhdRlz"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "PISCIS",
         "url": "https://open.spotify.com/album/4tp5y77Wb8wDdAf42HHOS1"
       },
@@ -1795,22 +1815,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "PENROSE",
-        "url": "https://open.spotify.com/album/5nLPjBn032PXESRcknb4VT"
+        "name": "2MOODS",
+        "url": "https://open.spotify.com/album/01W0iFrqBvqkEaxf7oqFxv"
       },
       "artists": [
         {
-          "name": "Espineli",
-          "url": "https://open.spotify.com/artist/74l577inT1nnMPPMajMv2f"
+          "name": "albwhisp",
+          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
         },
         {
-          "name": "curtice",
-          "url": "https://open.spotify.com/artist/5Gn6E1VcXkKRGLA5f9yoHq"
+          "name": "whitelxck",
+          "url": "https://open.spotify.com/artist/1dLGd3gjAIcrI4Qhd7YGBf"
         }
       ],
-      "duration_ms": 121193,
-      "name": "PENROSE",
-      "url": "https://open.spotify.com/track/6DE6GQb7LcoNlDufJhdRlz"
+      "duration_ms": 163764,
+      "name": "2MOODS",
+      "url": "https://open.spotify.com/track/7tykptmGairQ5NO9BzHy6R"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1835,26 +1855,6 @@
       "duration_ms": 197468,
       "name": "Girl!",
       "url": "https://open.spotify.com/track/17vLq7x19C5eMphdQNJDD5"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "2MOODS",
-        "url": "https://open.spotify.com/album/01W0iFrqBvqkEaxf7oqFxv"
-      },
-      "artists": [
-        {
-          "name": "albwhisp",
-          "url": "https://open.spotify.com/artist/05pwTgoRDUVSr8VegYBu0g"
-        },
-        {
-          "name": "whitelxck",
-          "url": "https://open.spotify.com/artist/1dLGd3gjAIcrI4Qhd7YGBf"
-        }
-      ],
-      "duration_ms": 163764,
-      "name": "2MOODS",
-      "url": "https://open.spotify.com/track/7tykptmGairQ5NO9BzHy6R"
     },
     {
       "added_at": "2024-04-11 22:00:00",

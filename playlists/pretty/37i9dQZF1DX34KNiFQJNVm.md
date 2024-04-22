@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem Taylor Swift, Guilherme & Benuto, Ferrugem com Sorriso Maroto e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,915,551 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,910,750 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 | 45 | [Sophisticated](https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Reduto EP](https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd) | 5:40 |
 | 46 | [Sintoma de Dengo](https://open.spotify.com/track/53N0G1Lg0e7OrrCLORcb5D) | [Davi Kneip](https://open.spotify.com/artist/6rygauyIMQJrXRC4e5rQJP), [Kelwin Lopes](https://open.spotify.com/artist/0s7XyRPQrAAfi9I7OOrHEP) | [Sintoma de Dengo](https://open.spotify.com/album/04ZxJJVkeeFoJ66Jr3fpml) | 2:42 |
 | 47 | [Bagulho Doido \(Papatracks \#14\)](https://open.spotify.com/track/1PgRNBplB2HtcjqLEQoxae) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Bagulho Doido \(Papatracks \#14\)](https://open.spotify.com/album/0fDyobbQDSjItxCoOT5396) | 2:40 |
-| 48 | [Santa Marta](https://open.spotify.com/track/6HBtSG8TrRPPYJnSuZhFdd) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 3:18 |
+| 48 | [Santa Marta](https://open.spotify.com/track/6HBtSG8TrRPPYJnSuZhFdd) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC), [SkinnyBeats](https://open.spotify.com/artist/7Jv5LSH4YmJ3SzfMjr1vZS) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 3:18 |
 | 49 | [O Coach](https://open.spotify.com/track/15Kar6PKdgpnIxGCT74dBU) | [Fabio Brazza](https://open.spotify.com/artist/0Ludmn78UAusTsNCXgICrN) | [O Coach](https://open.spotify.com/album/5U1w0f5p8b9pndjg39hJUw) | 4:00 |
 | 50 | [Eu Lembro](https://open.spotify.com/track/79IpvQrjXxP5QquprlESFL) | [Brocasito](https://open.spotify.com/artist/6ixe2JpfacOq9BvkwQ9rXM) | [Eu Lembro](https://open.spotify.com/album/2yZjCeie6oduzyEeVNETgf) | 2:38 |
 | 51 | [Brotou uma P!ranha](https://open.spotify.com/track/3VqAUdeNOHJqheiVit9gyl) | [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d), [BLOCKKSTAR](https://open.spotify.com/artist/5D0bLmj9HZnmryBo2SMtvB) | [Brotou uma P!ranha](https://open.spotify.com/album/6jX0Nz2S4cq3DQlRFohE5u) | 2:40 |

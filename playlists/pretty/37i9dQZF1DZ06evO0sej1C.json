@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 38117,
+  "num_followers": 38124,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDZiYWZkNGViMzhlMTNjZTdjNWVjMjljY2VkYzI2NDQw",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGJmOWUzMTllZjEwM2Y4MTY5ZWY1ZjA4ZjVhMDQ2NGUy",
   "tracks": [
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De Roll",
+        "url": "https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Pato Machete",
+          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
+        }
+      ],
+      "duration_ms": 226666,
+      "name": "De Roll",
+      "url": "https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Faruz Fit, Vol. 2",
         "url": "https://open.spotify.com/album/043rYVTShwRpn32EcK9YVQ"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 171807,
       "name": "Alto Calibre",
       "url": "https://open.spotify.com/track/2wRuhcMahUetbnf7R3nqK5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "De Roll",
-        "url": "https://open.spotify.com/album/1j7jCLsAyoWIQvhtB7dByg"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Pato Machete",
-          "url": "https://open.spotify.com/artist/0Wvud7hEqI5zaI0o0iIkj2"
-        }
-      ],
-      "duration_ms": 226666,
-      "name": "De Roll",
-      "url": "https://open.spotify.com/track/5yvRLSBdxhhVCZv9MvGKhE"
     },
     {
       "added_at": null,

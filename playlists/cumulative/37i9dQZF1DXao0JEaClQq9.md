@@ -4,7 +4,7 @@
 
 > Modern heavenly sounds\. Cover: A.G\. Cook
 
-587 songs - 1 day 12 hr 45 min
+588 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [\(to me\) your face is love](https://open.spotify.com/track/0rMmfE1Cblk78IC48wxT5i) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [\(to me\) your face is love](https://open.spotify.com/album/3pkXtqn98A5ANVrJSMQunk) | 3:36 | 2021-11-12 | 2022-07-29 |
 | [1st Soundscape](https://open.spotify.com/track/2YMY061QrP62VEA6thqCqm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU), [Endel](https://open.spotify.com/artist/3JNr31WfX56vgwBuIcdOt4) | [Wind Down](https://open.spotify.com/album/0SNkVpjU9S4zVxBoytcfON) | 3:44 | 2022-06-03 | 2022-07-24 |
 | [2021](https://open.spotify.com/track/7sy4upvDMtpz0jDCech44W) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [7G](https://open.spotify.com/album/16NHNs15w1bpkFiBOUgDaB) | 1:56 | 2021-06-03 | 2022-06-04 |
+| [4am](https://open.spotify.com/track/1F2guay5Aj7XNNvbuCx9p5) | [soft siren](https://open.spotify.com/artist/2231C2oqgdZQmJ0vh6bNX2), [CASHFORGOLD](https://open.spotify.com/artist/4FzthA7DjutA71z91I1DKX), [Sidewalks and Skeletons](https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1) | [4am](https://open.spotify.com/album/0sDl1OIYoL0dMgRQ50rHrH) | 2:57 | 2023-05-12 |  |
 | [5 to 8 Hours a Day \(WWwaG\)](https://open.spotify.com/track/0SoEbU9NN28HxNAhkLDuEe) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 4:30 | 2023-10-13 | 2024-01-13 |
 | [5.17](https://open.spotify.com/track/7i8wAKUOcb9BWK50mFOOHU) | [Thom Yorke](https://open.spotify.com/artist/4CvTDPKA6W06DRfBnZKrau) | [5.17](https://open.spotify.com/album/7CxtQw1cz4fQW4A0w81eeC) | 4:01 | 2022-04-08 | 2022-07-20 |
 | [500 ascended](https://open.spotify.com/track/1dncdmAcnFsm4geFSLV1Km) | [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [humanus](https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN) | 7:32 | 2023-07-03 | 2023-07-08 |
@@ -332,7 +333,7 @@
 | [Love333](https://open.spotify.com/track/0wAQl7JsYX4PgX3YCBf8RN) | [Girlpool](https://open.spotify.com/artist/3BYXi96LqI8TwNljFKE0DZ) | [Forgiveness](https://open.spotify.com/album/1rkbaI9xnf7yi70SyGNKi2) | 3:09 | 2022-05-20 | 2022-07-19 |
 | [Loved](https://open.spotify.com/track/6fUo4GlD0FbvXNTylA4o68) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Loved](https://open.spotify.com/album/7z0gdOZRbERZSAq50rassb) | 4:03 | 2024-01-20 |  |
 | [Lucky](https://open.spotify.com/track/0mYslGmbnkbxuyr0ISIYtB) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Forever & A Few](https://open.spotify.com/album/1NHlnn47gB3IrP9fwahcjF) | 4:11 | 2022-06-03 | 2022-06-12 |
-| [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 | 2022-10-28 |  |
+| [Lullaby](https://open.spotify.com/track/0PiSok4AgEcnVSWSGiz86p) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:06 | 2022-10-28 | 2024-04-22 |
 | [Løb Stop Stå](https://open.spotify.com/track/3wyLILirr6oFIFw1vYuktv) | [Boom Clap Bachelors](https://open.spotify.com/artist/30A0dNl1aYj4oOaMJKQk6Q), [Coco O.](https://open.spotify.com/artist/4cc6PmIfhsUCGJUU9QsxEy) | [Mellem Dine Læber](https://open.spotify.com/album/6jdBXphE7GNaJbnM0bQEqH) | 4:48 | 2021-06-03 | 2022-04-19 |
 | [Machote](https://open.spotify.com/track/2TqYC6Gn7vDhL8f2wWCYTB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 2:57 | 2021-06-03 | 2022-06-01 |
 | [Make U Stay](https://open.spotify.com/track/32Q7B7BsaUBb8D2zT2Vngb) | [Sega Bodega](https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077), [Låpsley](https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg) | [Make U Stay](https://open.spotify.com/album/4qdvHpWNuKzIo49fq9ASrL) | 3:20 | 2021-06-03 | 2022-04-22 |

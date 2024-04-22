@@ -1,12 +1,12 @@
 {
-  "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 238838,
+  "description": "This Is ZZ Top. Los temas esenciales, todos en una lista.",
+  "num_followers": 238842,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDk2YzU1NjQyM2RiZWU0ZmIzMzUxNmQ1NzM1Yjk0NDcw",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGQ3NDVhZDA3NzFhMmI5MjE1Y2Y2MDJkZjkwOGFlYjIz",
   "tracks": [
     {
       "added_at": null,
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 155133,
-      "name": "(Somebody Else Been) Shaking Your Tree",
-      "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
+      "duration_ms": 324560,
+      "name": "Brown Sugar",
+      "url": "https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 324560,
-      "name": "Brown Sugar",
-      "url": "https://open.spotify.com/track/1DtPmLMwBEa0fugJRhzwzn"
+      "duration_ms": 155133,
+      "name": "(Somebody Else Been) Shaking Your Tree",
+      "url": "https://open.spotify.com/track/63dvxR46Wf4qEOUS21Vlfz"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 213600,
-      "name": "Francine",
-      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Afterburner",
         "url": "https://open.spotify.com/album/1YFWLc1QQ34XbIBXzesWdm"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 209133,
       "name": "Velcro Fly",
       "url": "https://open.spotify.com/track/0RdncvNPTN9NVX8VffgKsR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 213600,
+      "name": "Francine",
+      "url": "https://open.spotify.com/track/6EENMYtKyDz0lpCAYE5noI"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rio Grande Mud",
-        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 440946,
-      "name": "Sure Got Cold After the Rain Fell",
-      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Baddest",
         "url": "https://open.spotify.com/album/5CGNEMUtCJanGlhQIgM4WZ"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 179333,
       "name": "Sharp Dressed Man",
       "url": "https://open.spotify.com/track/7aXgo7vAHDjHR0JrCX2qJv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rio Grande Mud",
+        "url": "https://open.spotify.com/album/084ZK8EqqBrMgQGaor0tF2"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 440946,
+      "name": "Sure Got Cold After the Rain Fell",
+      "url": "https://open.spotify.com/track/2kLUV1CN43PzxvEmpscZ45"
     },
     {
       "added_at": null,

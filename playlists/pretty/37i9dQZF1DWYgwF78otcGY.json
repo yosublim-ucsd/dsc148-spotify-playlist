@@ -1,6 +1,6 @@
 {
   "description": "Fj\u00e4derboa, dansgolv, alls\u00e5ng och tonartsh\u00f6jningar - nu \u00e4r det mellofest! \ud83e\udea9\u2728\ud83d\udc9c",
-  "num_followers": 29948,
+  "num_followers": 29944,
   "original_name": "Mellofest! ",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Euphoria",
-        "url": "https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv"
-      },
-      "artists": [
-        {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
-        }
-      ],
-      "duration_ms": 181786,
-      "name": "Euphoria - Single Version",
-      "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "My Number One",
         "url": "https://open.spotify.com/album/0JLlI8YNAvvrhHAwz5UCgI"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 164000,
       "name": "Mer av dig",
       "url": "https://open.spotify.com/track/7xzgJNufqvox5oQQa1dP1O"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Euphoria",
+        "url": "https://open.spotify.com/album/1KfKXG5VRlDTX55wq5bXbv"
+      },
+      "artists": [
+        {
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+        }
+      ],
+      "duration_ms": 181786,
+      "name": "Euphoria - Single Version",
+      "url": "https://open.spotify.com/track/1xN7BpTAWnZkuSLOtRP6Qc"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Never Give Up",
-        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
-      },
-      "artists": [
-        {
-          "name": "Maria Sur",
-          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "Fr\u00e4mling 25 \u00e5r",
         "url": "https://open.spotify.com/album/4cotyYQgYleaHbqQEgU9Hv"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 177893,
       "name": "Fr\u00e4mling",
       "url": "https://open.spotify.com/track/17zFOtbuquEAAxSttpfWWl"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Never Give Up",
+        "url": "https://open.spotify.com/album/13g0On9hQnYAQsVslilDhP"
+      },
+      "artists": [
+        {
+          "name": "Maria Sur",
+          "url": "https://open.spotify.com/artist/7eoVDCrNq6NirTBRrgSoNA"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Never Give Up",
+      "url": "https://open.spotify.com/track/3Xov23KN1ztHZrLBnhFSc4"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Ingenting att f\u00f6rlora",
-        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
-      },
-      "artists": [
-        {
-          "name": "Linda Bengtzing",
-          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Alla flickor",
-      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "Bra vibrationer",
         "url": "https://open.spotify.com/album/6pTczERNVTTxtoFjfOIKWU"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 183373,
       "name": "Sean den f\u00f6rste Banan",
       "url": "https://open.spotify.com/track/5J2UfqBylH8jDQZJnxby81"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "Ingenting att f\u00f6rlora",
+        "url": "https://open.spotify.com/album/7KW1wOSzVGdWs1aA3pzT1l"
+      },
+      "artists": [
+        {
+          "name": "Linda Bengtzing",
+          "url": "https://open.spotify.com/artist/6IBNZlx6x6TbLUIJhXT4xV"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Alla flickor",
+      "url": "https://open.spotify.com/track/6YGqMb6MmqcwIHaDSCA7Nq"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "The Best Of",
-        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
-      },
-      "artists": [
-        {
-          "name": "Janne Lucas",
-          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
-        }
-      ],
-      "duration_ms": 174720,
-      "name": "V\u00e4xeln hall\u00e5",
-      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
-    },
-    {
-      "added_at": "2024-02-20 09:12:35",
-      "album": {
         "name": "Mera mera mera",
         "url": "https://open.spotify.com/album/2sjbpLcx2MTRtq72RoytQw"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 178168,
       "name": "Mera mera mera",
       "url": "https://open.spotify.com/track/0dLe7y9Pil9ETtYuDWyrpP"
+    },
+    {
+      "added_at": "2024-02-20 09:12:35",
+      "album": {
+        "name": "The Best Of",
+        "url": "https://open.spotify.com/album/7g8VSftiiJllTZkOZUoSFe"
+      },
+      "artists": [
+        {
+          "name": "Janne Lucas",
+          "url": "https://open.spotify.com/artist/0Z8KU7sIq35JPkymHAuBwx"
+        }
+      ],
+      "duration_ms": 174720,
+      "name": "V\u00e4xeln hall\u00e5",
+      "url": "https://open.spotify.com/track/61hgZt5HEewtSjxibp01Vy"
     },
     {
       "added_at": "2024-02-20 09:12:35",
@@ -847,18 +847,18 @@
     {
       "added_at": "2024-02-20 09:12:35",
       "album": {
-        "name": "Rhythm Of My Show",
-        "url": "https://open.spotify.com/album/0kZuNbILNMuGH45keYqiYE"
+        "name": "H\u00f6gt \u00f6ver havet",
+        "url": "https://open.spotify.com/album/0lTGL5FPRV2cL926HKbUaS"
       },
       "artists": [
         {
-          "name": "Tone Sekelius",
-          "url": "https://open.spotify.com/artist/60ocUh2KF1ZOSqjkxyt6jl"
+          "name": "Arja Saijonmaa",
+          "url": "https://open.spotify.com/artist/7eoFSuG70jwEpxd1LdKNxK"
         }
       ],
-      "duration_ms": 165981,
-      "name": "Rhythm Of My Show",
-      "url": "https://open.spotify.com/track/48NRejAH4xS4PNTl3465O5"
+      "duration_ms": 169226,
+      "name": "H\u00f6gt \u00f6ver havet",
+      "url": "https://open.spotify.com/track/4J5KXnvaoSPa7yHrsNnqda"
     }
   ],
   "unique_name": "Mellofest! ",

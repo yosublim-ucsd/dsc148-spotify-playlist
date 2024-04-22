@@ -4,7 +4,7 @@
 
 > The perfect soundtrack to those long nights over dinner
 
-414 songs - 1 day 0 hr 28 min
+416 songs - 1 day 0 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [ceilings](https://open.spotify.com/track/2L9N0zZnd37dwF0clgxMGI) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [five seconds flat](https://open.spotify.com/album/68L5xVV9wydotfDXEik7eD) | 3:02 | 2023-04-24 |  |
 | [Change](https://open.spotify.com/track/1ztB2LwqXxn0IH2jMrKvDw) | [Teddy Failure](https://open.spotify.com/artist/6nmR8KccL37IGwr2uMxpR2) | [Change](https://open.spotify.com/album/6ffkQ1TU9uDe40ECeNj86T) | 2:34 | 2021-06-22 | 2022-05-04 |
 | [Charmed](https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 2:38 | 2023-12-31 |  |
+| [Cherry On Top](https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE) | [Ben Platt](https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k) | [Cherry On Top](https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm) | 4:14 | 2024-04-19 |  |
 | [City Dream](https://open.spotify.com/track/6XGOARRSafpojbCZXKQrzn) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [City Dream](https://open.spotify.com/album/7A4d757zmzIJNPpojceENf) | 3:38 | 2021-06-22 | 2022-07-29 |
 | [Cleopatra](https://open.spotify.com/track/2ToW7zhGCrVrLU4fiKj9U1) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 3:21 | 2023-05-26 |  |
 | [Cold](https://open.spotify.com/track/5rdhDMfiwWNnrEQpjUVpDu) | [Matt Simons](https://open.spotify.com/artist/1g0fXhQMHAxlRyIBkCbuE7) | [Cold](https://open.spotify.com/album/0j6cURTL2HYMxsNKdyJCM7) | 2:53 | 2021-06-22 | 2022-07-29 |
@@ -116,7 +117,7 @@
 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 | 2023-04-28 |  |
 | [Faithless](https://open.spotify.com/track/1voEP0IYk4K1ei5KHAMObl) | [Ewan J Phillips](https://open.spotify.com/artist/5nuipt5MF5Np09BWob9N6N) | [Are We Gonna Be Alright?](https://open.spotify.com/album/4uPLi51DB94S2plD5O3kSB) | 4:05 | 2021-06-22 | 2022-05-18 |
 | [Falcons](https://open.spotify.com/track/1FNvsOtp6bnSOQTBgJOtha) | [Amanda Bergman](https://open.spotify.com/artist/4FmkyL0ggkDBUUoPzBlo80) | [Docks](https://open.spotify.com/album/46ouJiWK0jC4QlaWP6DTCH) | 3:54 | 2022-07-22 | 2022-07-28 |
-| [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2023-05-26 |  |
+| [Falling Asleep At The Wheel](https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Falling Asleep At The Wheel](https://open.spotify.com/album/359BMiYkEMDC70gvpCVljg) | 3:23 | 2023-05-26 | 2024-04-22 |
 | [Falling Behind](https://open.spotify.com/track/4KGGeE7RJsgLNZmnxGFlOj) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:53 | 2023-08-18 |  |
 | [Falling Like The Stars](https://open.spotify.com/track/15xWRPHQMeqgdkGzInx3PY) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Falling Like The Stars](https://open.spotify.com/album/6Vd7ZTFfhrtPuiQIqEN8XU) | 3:32 | 2021-06-22 |  |
 | [Fast Car](https://open.spotify.com/track/1Lo0QY9cvc8sUB2vnIOxDT) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 4:25 | 2023-04-24 |  |
@@ -168,6 +169,7 @@
 | [Heart On a String](https://open.spotify.com/track/6JcHIuAM866TRpJLG9a5ya) | [Candi Staton](https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et) | [Evidence: The Complete Fame Records Masters](https://open.spotify.com/album/6scaz9JVVNwmDgLht7sAjH) | 3:04 | 2023-05-26 | 2023-06-03 |
 | [Helium \- From "Fifty Shades Darker \(Original Motion Picture Soundtrack\)"](https://open.spotify.com/track/5fc6rQgAKiLutfUYWQ6QnJ) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Fifty Shades Darker \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4RPo8gaqAbJksSE8JOIVLF) | 4:12 | 2021-06-22 | 2022-03-21 |
 | [Helplessly Hoping \- 2005 Remaster](https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [Crosby, Stills & Nash](https://open.spotify.com/album/6vUWpE8qciYHOhf7mgaGny) | 2:37 | 2023-05-26 | 2024-01-01 |
+| [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 | 2024-04-19 |  |
 | [hill that i'll die on](https://open.spotify.com/track/7sQffRumg8cOOnEZ0LSPMo) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [hill that i'll die on](https://open.spotify.com/album/7GvvjRTMJ3ODSDqR6YiwrM) | 2:24 | 2022-10-28 | 2022-11-13 |
 | [Hold Me While You Wait](https://open.spotify.com/track/6700Z4Izi8EbB6JNthU6Ma) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Hold Me While You Wait](https://open.spotify.com/album/1yDDPX98edTDjG5hFqY2xL) | 3:25 | 2022-07-22 | 2023-08-13 |
 | [Hold My Girl](https://open.spotify.com/track/1kjrgWG47wJgVqvQOvyb7C) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j) | [Hold My Girl](https://open.spotify.com/album/6cYPeMZiYaFOyHEoXglH7m) | 3:31 | 2021-06-22 | 2022-07-29 |
@@ -379,7 +381,7 @@
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2024-02-08 |  |
 | [Vincent](https://open.spotify.com/track/4FSUtZs7mH9V6eWB2EBXdH) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/1wfAzSF0uPCOu8yngdcKsY) | 3:43 | 2021-06-22 | 2022-07-29 |
 | [Vincent](https://open.spotify.com/track/6OkfJkVO5anGzXuSFzMBD7) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Vincent](https://open.spotify.com/album/61U8LRbEAiftr3xRri0rxS) | 3:43 | 2022-10-28 | 2022-11-13 |
-| [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 | 2024-04-19 |  |
+| [Waiting for God in the Garden](https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc) | [CLAY](https://open.spotify.com/artist/20aPu5vizjmoX2A7f7AOWL) | [Waiting for God in the Garden](https://open.spotify.com/album/2cJvCqyoG0fJQMwPkU7vKR) | 3:00 | 2024-04-19 | 2024-04-22 |
 | [Walls \- Naked Edition](https://open.spotify.com/track/4jIEgyvK3AbptWjps8IDXR) | [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Walls \(Naked Edition\)](https://open.spotify.com/album/2j7PeOrfX7XPhIwduGyK60) | 2:59 | 2021-06-22 | 2022-06-14 |
 | [Want You Back \- Acoustic](https://open.spotify.com/track/4twiC6FAkanyFLXMRoMhwf) | [Grey](https://open.spotify.com/artist/4lDBihdpMlOalxy1jkUbPl), [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Want You Back \(Acoustic\)](https://open.spotify.com/album/6aKAnlTkHozKsnwwdWJIDZ) | 2:59 | 2022-05-17 | 2022-07-20 |
 | [Warwick Avenue](https://open.spotify.com/track/5Og47k4AHrotP2QP36p5iO) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry \(intl Deluxe Edition\)](https://open.spotify.com/album/7HPrr0iy8FSvvCtfPWeKRA) | 3:46 | 2022-05-17 | 2022-07-29 |

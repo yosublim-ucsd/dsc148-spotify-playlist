@@ -4137,6 +4137,24 @@
     },
     {
       "album": {
+        "name": "unpeople",
+        "url": "https://open.spotify.com/album/2yV0odoEXSE36SQUDWPdwI"
+      },
+      "artists": [
+        {
+          "name": "unpeople",
+          "url": "https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205590,
+      "name": "going numb",
+      "url": "https://open.spotify.com/track/4PBJo0f4fyAHektLZXxhOL"
+    },
+    {
+      "album": {
         "name": "Golden Liar",
         "url": "https://open.spotify.com/album/4b0VXZTRkHPyFWZVcEqt1k"
       },
@@ -5307,17 +5325,13 @@
     },
     {
       "album": {
-        "name": "In The Mean Time feat. Ash Costello of New Years Day",
+        "name": "In The Mean Time feat. Ash Costello",
         "url": "https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V"
       },
       "artists": [
         {
           "name": "Lacuna Coil",
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        },
-        {
-          "name": "Ash Costello",
-          "url": "https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn"
         },
         {
           "name": "New Years Day",
@@ -5328,7 +5342,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213000,
-      "name": "In The Mean Time feat. Ash Costello of New Years Day",
+      "name": "In The Mean Time feat. Ash Costello",
       "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
     },
     {
@@ -12568,7 +12582,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 148623,
       "name": "Where Are the Punks?!?!",
       "url": "https://open.spotify.com/track/2BwNxXx1tDpcA2btA89i6X"

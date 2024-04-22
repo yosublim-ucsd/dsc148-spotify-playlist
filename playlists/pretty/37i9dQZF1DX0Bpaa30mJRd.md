@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 
 > 一夜限りのスペシャルアレンジでお届けした<a href="https://www.sonymusic.co.jp/artist/SoundTrackInt/info/552938">「スタジオ地図シネマティックオーケストラ2022」</a>をライブ収録したアルバムが発売！スタジオ地図作品の映画を彩る音楽をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,244 likes - 111 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,251 likes - 111 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Bpaa30mJRd.md) - [plain]
 | 42 | [変わらないもの \- 「時をかける少女」より](https://open.spotify.com/track/0o5zmM3IRUwjUxEU3n6hsh) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [スタジオ地図 Music Journey Vol\. 1 \- シネマティックオーケストラ 2022](https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8) | 4:55 |
 | 43 | [変わらないもの](https://open.spotify.com/track/6YLOHQNtv89VSK9hprZ8dz) | [Hanako Oku](https://open.spotify.com/artist/2tOwqfTtAMswbLySSaTRYR) | [ガーネット](https://open.spotify.com/album/14rIFa6gMqFVEF7vw0OhWT) | 4:45 |
 | 44 | [U \- 「竜とそばかすの姫」より](https://open.spotify.com/track/1MKl53PZ7F6KzgB8399ElD) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [スタジオ地図 Music Journey Vol\. 1 \- シネマティックオーケストラ 2022](https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8) | 3:09 |
-| 45 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
+| 45 | [U](https://open.spotify.com/track/32H7fwKsaYtSl6qiXFI6I6) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [U](https://open.spotify.com/album/6geoEKwXSuETawoDPOkfV7) | 3:07 |
 | 46 | [歌よ \- 「竜とそばかすの姫」より](https://open.spotify.com/track/4AbzJAEQ706FLlzLMq7wDC) | [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [スタジオ地図 Music Journey Vol\. 1 \- シネマティックオーケストラ 2022](https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8) | 1:32 |
 | 47 | [歌よ](https://open.spotify.com/track/5dy1QO156l2ct1MVPzc8px) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [歌よ](https://open.spotify.com/album/2cbkTAOwaD1L8vmbWdIfzU) | 3:58 |
 | 48 | [竜の城 \- 「竜とそばかすの姫」より](https://open.spotify.com/track/56ZQYCqZULijefYRYSjJRA) | [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [スタジオ地図 Music Journey Vol\. 1 \- シネマティックオーケストラ 2022](https://open.spotify.com/album/2SrS1B2im6BV3OrgI7C2s8) | 3:19 |

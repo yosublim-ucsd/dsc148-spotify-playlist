@@ -4,7 +4,7 @@
 
 > All the vibes\. All the feels\. 🫠 🙄
 
-326 songs - 19 hr 13 min
+327 songs - 19 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [LANSDOWNE](https://open.spotify.com/track/6Dv76051LlfL1LvMpcPLKw) | [Liza](https://open.spotify.com/artist/7CeUn1UNtIFSZIIBNXV8jk) | [LANSDOWNE](https://open.spotify.com/album/2phfndUK6vGdlNO7I3GxrH) | 2:33 | 2022-12-02 | 2023-01-28 |
 | [Leave You Alone](https://open.spotify.com/track/0cNc0bSxmRVhAUJVYEd2Qk) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve](https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy) | 3:29 | 2024-01-18 | 2024-04-07 |
 | [Let Me Go](https://open.spotify.com/track/4AwJSk491AvHk2AAJReGzZ) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Let Me Go](https://open.spotify.com/album/3jQtxhyRMPYcYcHvFhI05D) | 3:36 | 2023-11-08 |  |
+| [Let Me Go](https://open.spotify.com/track/3KSy31qPrTqOcPXnebceQN) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Let Me Go](https://open.spotify.com/album/27csXPVTW3PLguY6vbGoH7) | 2:20 | 2024-04-19 |  |
 | [Let Me Love You](https://open.spotify.com/track/3ibKnFDaa3GhpPGlOUj7ff) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Let Me Love You](https://open.spotify.com/album/7EXstuWka51pNFzEAidEol) | 4:16 | 2019-06-19\* |  |
 | [Let's Get Lost \(feat\. Devon Baldwin\)](https://open.spotify.com/track/5DSr1NMci58MEgS20vivSL) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Devon Baldwin](https://open.spotify.com/artist/5JYReWgOGu4JKm5pqmACqG) | [These Things Happen](https://open.spotify.com/album/6wDc63NhKy2PyXdbhkRmrl) | 4:00 | 2019-05-26\* | 2020-05-01 |
 | [Let's Go](https://open.spotify.com/track/4VA0v1bv45og1IVCGr9gxl) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Let's Go](https://open.spotify.com/album/39sITSzMPwk6cL47lsAnUe) | 3:24 | 2019-05-26\* | 2019-06-19 |
@@ -216,7 +217,7 @@
 | [Novacane](https://open.spotify.com/track/5zrZHMklhOXABpnBl0EMBN) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Novacane](https://open.spotify.com/album/0CDbHMx23D44bHfttcHJki) | 5:02 | 2019-06-19\* | 2022-07-29 |
 | [Numb](https://open.spotify.com/track/2X62E2rxNuCK3IdwnutBbI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Heartbreak Hill](https://open.spotify.com/album/659XtuIbCfz9UWWrlMmq7v) | 4:13 | 2023-11-08 |  |
 | [Often](https://open.spotify.com/track/4RdBZE3BH44wZXoj2vmjez) | [Abhi//Dijon](https://open.spotify.com/artist/1crlEwxm5dcQjCcgCJEyqg) | [Often](https://open.spotify.com/album/3KOSzvZlRyhU6grHpI7y4m) | 3:09 | 2019-05-26\* | 2019-06-19 |
-| [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 | 2024-04-09 |  |
+| [Oh, Wait...](https://open.spotify.com/track/4AG0bAu5QvQacdyOhQLYqF) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N) | [Love's Letter](https://open.spotify.com/album/2WCUgddua4H6GiwTBK6Zom) | 4:10 | 2024-04-09 | 2024-04-22 |
 | [One Of Them Days \(feat\. Monica\)](https://open.spotify.com/track/2ocJnGeHud74jyPlxN7XB7) | [Queen Naija](https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98), [Monica](https://open.spotify.com/artist/6qWpPgfKJehZmeJMIeicqW) | [After the Butterflies](https://open.spotify.com/album/3KxnjxwC38wxRIYl2tFo80) | 2:35 | 2024-02-02 | 2024-03-22 |
 | [oui](https://open.spotify.com/track/0PJIbOdMs3bd5AT8liULMQ) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96) | 3:58 | 2022-07-28 | 2024-04-19 |
 | [oui](https://open.spotify.com/track/4sw7dHjD6EsGs0d57AHgdy) | [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [Late Nights: The Album](https://open.spotify.com/album/4p9QlliNvKndyKSPyuJlP8) | 3:58 | 2019-06-19\* | 2022-07-29 |

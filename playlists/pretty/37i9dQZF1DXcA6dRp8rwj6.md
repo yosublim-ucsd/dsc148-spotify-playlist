@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Pyra\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,407 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,075 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 6 | [Like That](https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:27 |
 | 7 | [7 Minute Drill](https://open.spotify.com/track/2mhdhTWqT8RhkTlN2yWZZi) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:32 |
 | 8 | [CARNIVAL](https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN) | [¥$](https://open.spotify.com/artist/4xPQFgDA5M2xa0ZGo5iIsv), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [VULTURES 1](https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF) | 4:24 |
-| 9 | [TALK BOUT SUMN\. \(with Vayzeen\)](https://open.spotify.com/track/7KmsnacQV6fMai71AkNUCF) | [rangupfr](https://open.spotify.com/artist/2sDfrfWGHOaDayozuEgMxU), [Vayzeen](https://open.spotify.com/artist/4cipYjOsEqT6SDZq83d7yi) | [TALK BOUT SUMN.](https://open.spotify.com/album/59jFi1rVXF0HPznMkIDJpK) | 3:01 |
+| 9 | [TALK BOUT SUMN\. \(with Vayzeen\)](https://open.spotify.com/track/7KmsnacQV6fMai71AkNUCF) | [rangupfr](https://open.spotify.com/artist/2sDfrfWGHOaDayozuEgMxU), [Vayzeen](https://open.spotify.com/artist/4cipYjOsEqT6SDZq83d7yi) | [TALK BOUT SUMN\. \(with Vayzeen\)](https://open.spotify.com/album/59jFi1rVXF0HPznMkIDJpK) | 3:01 |
 | 10 | [Soufflé](https://open.spotify.com/track/6Z79p0EQm2PNCST8EQfaQ2) | [Dessy](https://open.spotify.com/artist/1GSKqQSEbAGUjWXceR0VTy), [PLAYGROUND](https://open.spotify.com/artist/6jcd1FALUEzaGDl7Syikem) | [Soufflé](https://open.spotify.com/album/0r7EKnvPN4a3t4QrIN78GB) | 3:02 |
 | 11 | [Ape Shit](https://open.spotify.com/track/0n0gpo87pFPzXMbQ4l3laH) | [1300](https://open.spotify.com/artist/34dKvFZNwGaM0NMDtZaJ0P), [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [Ape Shit](https://open.spotify.com/album/2XIvEKG4tudF3cQKreQr7d) | 3:08 |
 | 12 | [DAZED IN TIME](https://open.spotify.com/track/5ynZwYcg67eRItAdqRRdWy) | [Eemrun](https://open.spotify.com/artist/3SzEQ3hsRWErsfXFGImVEe), [lucidrari](https://open.spotify.com/artist/2OuQGHGAZFocbf70tibJac) | [SUPERNATURAL](https://open.spotify.com/album/7vVSHXrcB6Hn0as3y15qEQ) | 4:11 |

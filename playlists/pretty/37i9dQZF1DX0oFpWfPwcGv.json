@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 61237,
+  "num_followers": 61279,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -295,38 +295,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Triumph (Expanded Version)",
-        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
-      },
-      "artists": [
-        {
-          "name": "The Jacksons",
-          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
-        }
-      ],
-      "duration_ms": 230967,
-      "name": "Can You Feel It - 7\" Version",
-      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "The Boss (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
-      },
-      "artists": [
-        {
-          "name": "Diana Ross",
-          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
-        }
-      ],
-      "duration_ms": 274560,
-      "name": "It's My House",
-      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Off the Wall",
         "url": "https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP"
       },
@@ -339,6 +307,22 @@
       "duration_ms": 221026,
       "name": "Burn This Disco Out",
       "url": "https://open.spotify.com/track/6aCs8gCrp4yrwvw7ylhau2"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Triumph (Expanded Version)",
+        "url": "https://open.spotify.com/album/3CE276hNs9VVg3aWeBziL7"
+      },
+      "artists": [
+        {
+          "name": "The Jacksons",
+          "url": "https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI"
+        }
+      ],
+      "duration_ms": 230967,
+      "name": "Can You Feel It - 7\" Version",
+      "url": "https://open.spotify.com/track/0GIk0Mm87D0CDyj57Urtt3"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -359,6 +343,22 @@
       "duration_ms": 222346,
       "name": "T.S.O.P. (The Sound of Philadelphia) (feat. The Three Degrees)",
       "url": "https://open.spotify.com/track/7kllQQPam6HumbUCIPSvHJ"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Boss (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7jqe6yQ9qtHqahli8WSYH4"
+      },
+      "artists": [
+        {
+          "name": "Diana Ross",
+          "url": "https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl"
+        }
+      ],
+      "duration_ms": 274560,
+      "name": "It's My House",
+      "url": "https://open.spotify.com/track/7yAslROTLRHGwuiLBpdErT"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Dance, Dance, Dance: The Best of Chic",
-        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
-      },
-      "artists": [
-        {
-          "name": "CHIC",
-          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
-        }
-      ],
-      "duration_ms": 501466,
-      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
-      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Instant Replay (Expanded Edition)",
         "url": "https://open.spotify.com/album/1c7nolG1Y0EBuQKOg5svZa"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 320480,
       "name": "Instant Replay",
       "url": "https://open.spotify.com/track/0E1PR66A94yVPiYJxGHimf"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "Dance, Dance, Dance: The Best of Chic",
+        "url": "https://open.spotify.com/album/0XRRSLnVrtXMI6cyVCacjd"
+      },
+      "artists": [
+        {
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
+        }
+      ],
+      "duration_ms": 501466,
+      "name": "Dance, Dance, Dance (Yowsah, Yowsah, Yowsah)",
+      "url": "https://open.spotify.com/track/1SwyDb5qUcLjukFqSCRqxy"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "I'm Caught Up (In a One Night Love Affair)",
-        "url": "https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG"
-      },
-      "artists": [
-        {
-          "name": "Inner Life",
-          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
-        }
-      ],
-      "duration_ms": 446013,
-      "name": "I'm Caught up (In a One Night Love Affair) - 12\u201d Edit",
-      "url": "https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Ready To Roll",
         "url": "https://open.spotify.com/album/6dPoNt2149PjWJxQBssKr9"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 235293,
       "name": "Saturday Night, Sunday Morning",
       "url": "https://open.spotify.com/track/5cJcdWSynjh80IAEiiYd6j"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "I'm Caught Up (In a One Night Love Affair)",
+        "url": "https://open.spotify.com/album/60o5ZuM7b03ENGBfED56RG"
+      },
+      "artists": [
+        {
+          "name": "Inner Life",
+          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
+        }
+      ],
+      "duration_ms": 446013,
+      "name": "I'm Caught up (In a One Night Love Affair) - 12\u201d Edit",
+      "url": "https://open.spotify.com/track/5XaBOlOPKJGnq3XFiS5ZHH"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "The Essential Evelyn \"Champagne\" King",
-        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
-      },
-      "artists": [
-        {
-          "name": "Evelyn \"Champagne\" King",
-          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
-        }
-      ],
-      "duration_ms": 391693,
-      "name": "Shame - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "The Dance Collection",
         "url": "https://open.spotify.com/album/7FqRt16IDbD2LvgJ4Otqcp"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 1067333,
       "name": "MacArthur Park Suite: MacArthur Park/One Of A Kind/Heavens Knows/MacArthur Park Reprise",
       "url": "https://open.spotify.com/track/0rXruSqepHUNIrPM7PpEhQ"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Essential Evelyn \"Champagne\" King",
+        "url": "https://open.spotify.com/album/4BlJ6291OlTOAKnnXJMIQI"
+      },
+      "artists": [
+        {
+          "name": "Evelyn \"Champagne\" King",
+          "url": "https://open.spotify.com/artist/4JCt4xrbbBB9blkKwNlcJ7"
+        }
+      ],
+      "duration_ms": 391693,
+      "name": "Shame - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/0QewO59ixTHz3bsa4mRHup"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "The Essential Johnny Mathis",
-        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 258253,
-      "name": "Begin the Beguine",
-      "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
         "name": "Donna Summer (Re-Mastered & Expanded)",
         "url": "https://open.spotify.com/album/0kj5N3OTnl3nCmLEDbbt7Z"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 262320,
       "name": "Love Is in Control (Finger on the Trigger) [2014 Remaster]",
       "url": "https://open.spotify.com/track/3UOkQoi2jRxuuBIIlPOETW"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
+        "name": "The Essential Johnny Mathis",
+        "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 258253,
+      "name": "Begin the Beguine",
+      "url": "https://open.spotify.com/track/2hLAqf6uB6QusEUHfDf5oi"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
+        "name": "Full Moon",
+        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
+      },
+      "artists": [
+        {
+          "name": "Ms. (Sharon) Ridley",
+          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
+        }
+      ],
+      "duration_ms": 388920,
+      "name": "Changin'",
+      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
+    },
+    {
+      "added_at": "2024-02-12 15:00:21",
+      "album": {
         "name": "Stay Free",
         "url": "https://open.spotify.com/album/0deJgBEQc6s9ljcW2My2uV"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 322480,
       "name": "Stay Free",
       "url": "https://open.spotify.com/track/39rVzigiXOF0feDwgKzKIs"
-    },
-    {
-      "added_at": "2024-02-12 15:00:21",
-      "album": {
-        "name": "Full Moon",
-        "url": "https://open.spotify.com/album/1PbVQRjZQxRK6ml00vOKrp"
-      },
-      "artists": [
-        {
-          "name": "Ms. (Sharon) Ridley",
-          "url": "https://open.spotify.com/artist/1bN0ObJIFfCWF5Pa0vXROz"
-        }
-      ],
-      "duration_ms": 388920,
-      "name": "Changin'",
-      "url": "https://open.spotify.com/track/0fkmYAlaWRl8PekuNfSsYE"
     },
     {
       "added_at": "2024-02-12 15:00:21",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-02-12 15:00:21",
       "album": {
-        "name": "Inner Life",
-        "url": "https://open.spotify.com/album/7ldc7KAIZ3JmsuCwIHcS2B"
+        "name": "Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria",
+        "url": "https://open.spotify.com/album/7JWKGMRtcV4q1hLN52TN9K"
       },
       "artists": [
         {
-          "name": "Inner Life",
-          "url": "https://open.spotify.com/artist/39fymbns0snQudVbD1hZjX"
+          "name": "Steve Monite",
+          "url": "https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY"
         }
       ],
-      "duration_ms": 479600,
-      "name": "Ain't No Mountain High Enough",
-      "url": "https://open.spotify.com/track/51uChSR8zp4cui4tLqiXb6"
+      "duration_ms": 381040,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/3hYwZdd2dvngfePGMwkfbN"
     }
   ],
   "unique_name": "Disco Decadence",

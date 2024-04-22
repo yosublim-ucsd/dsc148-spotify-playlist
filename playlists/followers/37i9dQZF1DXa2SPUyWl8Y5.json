@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 492352,
+  "2024-04-22": 492367,
   "date_first_scraped": "2019-05-26",
   "description": "Focus with melodic house and techno. ",
   "name": "Beats to think to",
@@ -3927,13 +3927,13 @@
       },
       "artists": [
         {
-          "name": "Roemisch 111",
-          "url": "https://open.spotify.com/artist/5s2PN6vRUKztZ3SCfLmj3V"
+          "name": "Roemisch",
+          "url": "https://open.spotify.com/artist/0WuIfBOsejzJRLHiVXtDSI"
         }
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-09-17",
+      "date_removed": null,
       "duration_ms": 488632,
       "name": "Mutation",
       "url": "https://open.spotify.com/track/58oYyiSqmTA2dzoM7AeCqq"
@@ -5119,7 +5119,7 @@
       ],
       "date_added": "2021-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 425437,
       "name": "Reframed Future",
       "url": "https://open.spotify.com/track/71US62LiNfgUNoAMdAMyXz"

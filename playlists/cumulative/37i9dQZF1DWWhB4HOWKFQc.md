@@ -4,7 +4,7 @@
 
 > Kumpulan lagu yang sedang menyebar luas\. Cover: BABYMONSTER
 
-488 songs - 1 day 5 hr 17 min
+492 songs - 1 day 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,6 +153,7 @@
 | [Heart Attack](https://open.spotify.com/track/1V6gIisPpYqgFeWbMLI0bA) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Demi](https://open.spotify.com/album/6Kssm2LosQ0WyLukFZkEG5) | 3:30 | 2023-09-21 | 2024-01-25 |
 | [Heather](https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Kid Krow](https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5) | 3:18 | 2023-12-06 | 2024-02-21 |
 | [HEAVEN AND BACK](https://open.spotify.com/track/5dewQ7ojISR32NAYNHFYWC) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [PHASES](https://open.spotify.com/album/22DL6IRGNYNenKej7aw8pO) | 4:08 | 2023-04-20 | 2023-07-08 |
+| [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hell N Back \(feat\. Summer Walker\)](https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b) | 3:15 | 2024-04-22 |  |
 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 | 2023-04-13 | 2023-05-12 |
 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2023-06-01 | 2023-09-01 |
 | [Here With Me](https://open.spotify.com/track/78Sw5GDo6AlGwTwanjXbGh) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Here With Me](https://open.spotify.com/album/0OuoHWf8yB0TPzoBWw1R1S) | 4:02 | 2023-03-23 | 2023-06-02 |
@@ -189,6 +190,7 @@
 | [Januari](https://open.spotify.com/track/2STWrmj6fWevrLzubKCWoS) | [The Bakuucakar](https://open.spotify.com/artist/3yJ1arup3yyqX2GbCs3PUs), [Anneth](https://open.spotify.com/artist/2UHBgxDvOBaIY7hQ8CEAmW) | [Januari](https://open.spotify.com/album/3EOiB4qF1bb5QVms99Szpc) | 4:42 | 2023-03-23 | 2023-04-14 |
 | [Jendela Kelas 1](https://open.spotify.com/track/438ilw1OljGU8GNEtuirlJ) | [Iwan Fals](https://open.spotify.com/artist/7LkkXDrBNVODZKIJlWGwbX) | [Country](https://open.spotify.com/album/0YgZqV0b2jVagi7qnbzCoX) | 3:35 | 2023-09-01 | 2024-01-23 |
 | [Jiwa Yang Bersedih](https://open.spotify.com/track/6XsFgTG4dY768oIB4Dmeu0) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Jiwa Yang Bersedih](https://open.spotify.com/album/1qZmwFxHsdCTrwkzXI69oL) | 4:38 | 2023-06-15 | 2023-12-02 |
+| [Jungkir Balik](https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4) | [Maisha Kanna](https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw) | [Jungkir Balik](https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp) | 3:50 | 2024-04-22 |  |
 | [Just Say Hello](https://open.spotify.com/track/1fflhv9kqRw6rm50KaXcYm) | [Melo\-D](https://open.spotify.com/artist/2i1ftWZdQCfRZExJCmumZL) | [Just Say Hello](https://open.spotify.com/album/06k6PpQ15XGk2MVQuKljyH) | 4:48 | 2023-06-30 | 2023-08-19 |
 | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/track/4Ssmc2huU8shKR9aO9PMQH) | [Gadis Kretek \- Cast](https://open.spotify.com/artist/4Vhjay9RCWFn14SVCpXY2a), [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Kala Sang Surya Tenggelam \(from the Netflix Series "Gadis Kretek"\)](https://open.spotify.com/album/6KBxUSNGEAMLGxo9GwpGOt) | 3:21 | 2023-12-01 | 2024-02-02 |
 | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/track/5HjUxcQKhTYpR44Lhv68Gw) | [BIANCADIMAS](https://open.spotify.com/artist/2p3vbgeu0Y7v7EVJ41Hu9M) | [Kalimat Cinta \(From Viu Original "Private Bodyguard"\)](https://open.spotify.com/album/0ckVPtsAvHRAEe03eZU4Ih) | 2:17 | 2024-04-02 | 2024-04-19 |
@@ -223,6 +225,7 @@
 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 | 2024-02-20 | 2024-03-22 |
 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 | 2023-11-16 | 2024-02-22 |
 | [Landslide](https://open.spotify.com/track/3X3mfRMRaPJRiIMDMQtSkd) | [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [Oh Wonder](https://open.spotify.com/album/37ABUtLPqktcopsBJ7jmXT) | 3:28 | 2023-09-21 | 2023-10-20 |
+| [Laskar Pelangi](https://open.spotify.com/track/0wcQln9MrQ0NRetjYYZsKv) | [TRUST \(Trinity Youth Symphony Orchestra\)](https://open.spotify.com/artist/0PXiTwsJJQRYhRzKGUn9sc), [Nathania Karina](https://open.spotify.com/artist/5lBzbavvZxwebJniZTtnfd) | [Hari Ini Indah](https://open.spotify.com/album/6pYAlS13TFIymXJmpea1zR) | 4:50 | 2024-04-22 |  |
 | [Let Me Go](https://open.spotify.com/track/3ym8ajVmKm6Fybgov3WBI5) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:36 | 2023-04-13 | 2023-05-26 |
 | [Lie With You](https://open.spotify.com/track/39uhLliuH6Otvhg9duW9Fb) | [TEN](https://open.spotify.com/artist/3Q5Qep7ytrjVleNnMnntgQ) | [TEN \- The 1st Mini Album](https://open.spotify.com/album/50Zo1vf3YCQtXLUZr2oBiQ) | 3:20 | 2024-03-07 | 2024-03-22 |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2023-04-20 | 2023-05-12 |
@@ -305,6 +308,7 @@
 | [Peak of Love](https://open.spotify.com/track/0aK5EUC1MYp4MHp1IbFwS2) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/2gfunzuGEA4l3A6CJPQJ48) | 4:02 | 2024-02-01 | 2024-02-28 |
 | [Peak of Love](https://open.spotify.com/track/1c4FsERA2Jp4TfvuCc2csI) | [Aldi Haqq](https://open.spotify.com/artist/0neIwseaLtmCa6xhfMqk7P) | [Peak of Love](https://open.spotify.com/album/0zqvoEoLwMYeBLEhXKkhRJ) | 4:02 | 2024-01-26 |  |
 | [Peanut Butter & Tears](https://open.spotify.com/track/05QrjMU5kHV7dpyNmSxqdv) | [DPR IAN](https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe) | [Peanut Butter & Tears](https://open.spotify.com/album/7FxcCo8w3LEpJsZuFhsO4I) | 3:45 | 2023-09-01 | 2023-09-22 |
+| [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 | 2024-04-22 |  |
 | [Pengingat](https://open.spotify.com/track/4xVBlNFpqerqcF1a9Qoo0N) | [Good Morning Everyone](https://open.spotify.com/artist/6HyZoYVf8K9abFPxwhJcbK) | [Pengingat](https://open.spotify.com/album/6DCVdHnNhGY8s7SAuAgJq8) | 4:00 | 2023-07-07 | 2023-09-08 |
 | [penjaga hati](https://open.spotify.com/track/7F4tV8SiUy6itZTdAzdafO) | [Nadhif Basalamah](https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO) | [penjaga hati](https://open.spotify.com/album/1IuORbF4Tb4X9EyAmIvx9a) | 4:20 | 2023-10-05 | 2024-02-29 |
 | [Penolong Yang Setia](https://open.spotify.com/track/1GnI8blHYhoC6WK5LIvNUn) | [Melitha Sidabutar](https://open.spotify.com/artist/4Qcaozre1Spe8vbQtolgWu) | [Penolong Yang Setia](https://open.spotify.com/album/6Adr2FRz6LK4Uzx7JzpWMe) | 4:13 | 2024-04-19 |  |

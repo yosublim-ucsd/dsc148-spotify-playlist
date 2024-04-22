@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 
 > VAD BÄNKAR DU??
 
-[Spotify](https://open.spotify.com/user/spotify) - 162,642 likes - 100 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,590 likes - 100 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sQWfevMRw3.md) - [plain]
 | 23 | [DEN MAN VILL HA](https://open.spotify.com/track/3cx30FR0xzXuL6bZwdtgYd) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE), [MADNEZZ](https://open.spotify.com/artist/5lmx6s9v76pWT7alLaiL9b) | [DEN MAN VILL HA](https://open.spotify.com/album/6RvYaOvQYKb1glxDfC5fX8) | 1:49 |
 | 24 | [FÖRSTA BIRAN](https://open.spotify.com/track/34I35RpgRDa8sTtjwwZdZs) | [Elov & Beny](https://open.spotify.com/artist/4uAXlCewJdAu44uAHehKfd) | [FÖRSTA BIRAN](https://open.spotify.com/album/5MNOaQbAz2PmkeGeGK6Nu9) | 3:05 |
 | 25 | [Lavish \(Gingerjompa Remix\)](https://open.spotify.com/track/0q4iioGvWyt2rD7vJnMp6A) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [GingerJompa](https://open.spotify.com/artist/7aa3reqsfQ4FQq18stqY2z) | [Lavish \(Gingerjompa Remix\)](https://open.spotify.com/album/2deGyQQ7HynLazLfr0BMyB) | 1:40 |
-| 26 | [F.F.F.](https://open.spotify.com/track/1P8daHkXA1EGdRoAPy6LCA) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd), [FLÄDERFLICKAN](https://open.spotify.com/artist/5vSm8Ru446StZBWSlDUUBx) | [F.F.F.](https://open.spotify.com/album/1eoTeEVPkVMyJSBXU3tbsY) | 2:40 |
+| 26 | [F.F.F.](https://open.spotify.com/track/1P8daHkXA1EGdRoAPy6LCA) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [FLÄDERPOJKARNA](https://open.spotify.com/artist/6kVG7vRsL7U7UuATIAyPtd), [GRANNJÄNTAN](https://open.spotify.com/artist/68F1zsaJ2m6HuKqtJz9kaZ) | [F.F.F.](https://open.spotify.com/album/1eoTeEVPkVMyJSBXU3tbsY) | 2:40 |
 | 27 | [MARK OCH FJÄLL \(LA LA LA\)](https://open.spotify.com/track/6QYe7wbNvWO47XDhdxrdSZ) | [Greta Tuborg](https://open.spotify.com/artist/2hRvedA9zoAUee7DvkVZoQ) | [MARK OCH FJÄLL \(LA LA LA\)](https://open.spotify.com/album/64nF94LlK8PdOXKgnudkJX) | 1:44 |
 | 28 | [PSYKOPAT](https://open.spotify.com/track/513HKBUyCIwv1zXOLmEYCM) | [Lia Larsson](https://open.spotify.com/artist/7wdEdhvMnmb3lqogWSY9xD) | [PSYKOPAT](https://open.spotify.com/album/3LrERkehZNXq8YsN2HowHo) | 2:36 |
 | 29 | [LYSSNA PÅ DANSBAND](https://open.spotify.com/track/7j3PRUN9gcgcRsxCDfseCU) | [Coola Kids](https://open.spotify.com/artist/3XmHBwGYiLNWThAP4F82fq), [Alkis](https://open.spotify.com/artist/4du4gxnCGpDsJHYfCL66WD) | [LYSSNA PÅ DANSBAND](https://open.spotify.com/album/0oaIlZp9PCHir7mnNyic3Q) | 3:19 |

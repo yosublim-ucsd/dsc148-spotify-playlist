@@ -1,6 +1,6 @@
 {
   "description": "The best in current indie rock. Cover: Friedberg",
-  "num_followers": 114591,
+  "num_followers": 114578,
   "original_name": "pulp",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Sinner",
-        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
-      },
-      "artists": [
-        {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
-        }
-      ],
-      "duration_ms": 176707,
-      "name": "Sinner",
-      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "Beatopia",
         "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 158293,
       "name": "Talk",
       "url": "https://open.spotify.com/track/4tf04WrZTy60CawyvueIdK"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Sinner",
+        "url": "https://open.spotify.com/album/7bP6iLlQ2LkW7tnq2Q1vxt"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 176707,
+      "name": "Sinner",
+      "url": "https://open.spotify.com/track/4fBEzQfcHgiSQFOF6gXasu"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -219,22 +219,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Wake Up & It's Over",
-        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 227546,
-      "name": "Portrait of a Blank Slate",
-      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "Skinty Fia",
         "url": "https://open.spotify.com/album/2ZMViS2A6M15Z1kN6n6O8S"
       },
@@ -251,18 +235,18 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "My Lady Of Mercy",
-        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
+        "name": "Wake Up & It's Over",
+        "url": "https://open.spotify.com/album/5LHuQr88XpvvuGpqgsu2gr"
       },
       "artists": [
         {
-          "name": "The Last Dinner Party",
-          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
         }
       ],
-      "duration_ms": 175410,
-      "name": "My Lady of Mercy",
-      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
+      "duration_ms": 227546,
+      "name": "Portrait of a Blank Slate",
+      "url": "https://open.spotify.com/track/7505qe0xzCuDPaILCURnOC"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -283,22 +267,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "The Dark Prince (feat. Mac DeMarco)",
         "url": "https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd"
       },
@@ -315,6 +283,38 @@
       "duration_ms": 214356,
       "name": "The Dark Prince (feat. Mac DeMarco)",
       "url": "https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "My Lady Of Mercy",
+        "url": "https://open.spotify.com/album/2W3JTxVFYQ9m4xd5sYKCC0"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 175410,
+      "name": "My Lady of Mercy",
+      "url": "https://open.spotify.com/track/2M1zHytH8Ch9HmhpScKyvV"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -347,22 +347,6 @@
       "duration_ms": 245225,
       "name": "The Narcissist",
       "url": "https://open.spotify.com/track/35d93v9AXADp8Wc0qJ3mIo"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
-        "name": "Normal People Things",
-        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
-      },
-      "artists": [
-        {
-          "name": "Lovejoy",
-          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
-        }
-      ],
-      "duration_ms": 164844,
-      "name": "Normal People Things",
-      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -411,6 +395,22 @@
       "duration_ms": 173028,
       "name": "Run Run Run",
       "url": "https://open.spotify.com/track/08SkuBh4lrdQTthEc3J1kN"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Normal People Things",
+        "url": "https://open.spotify.com/album/2fzxvtlp5mqgJktyPAt5UC"
+      },
+      "artists": [
+        {
+          "name": "Lovejoy",
+          "url": "https://open.spotify.com/artist/33tFkBLsl6f8TjKkV0uF0C"
+        }
+      ],
+      "duration_ms": 164844,
+      "name": "Normal People Things",
+      "url": "https://open.spotify.com/track/1vJmd8YIIAz6XQ9GHlUr5p"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Bleach",
-        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 249751,
-      "name": "Bleach",
-      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "Pedestal",
         "url": "https://open.spotify.com/album/3wkV84YZxNsqZ0CUZkKAdj"
       },
@@ -607,18 +591,18 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
+        "name": "Bleach",
+        "url": "https://open.spotify.com/album/1vM3k1nzp5CL2dsIHgPA2x"
       },
       "artists": [
         {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
         }
       ],
-      "duration_ms": 164466,
-      "name": "Paradise",
-      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
+      "duration_ms": 249751,
+      "name": "Bleach",
+      "url": "https://open.spotify.com/track/71hZZmCpeIly6IDECDKDun"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -635,6 +619,22 @@
       "duration_ms": 156008,
       "name": "strawberry chainsaw",
       "url": "https://open.spotify.com/track/1hf0PdHw0lnVxq5lfzwjSl"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/5wMUl1NuhyxRnRQK6shy9U"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 164466,
+      "name": "Paradise",
+      "url": "https://open.spotify.com/track/1iXtTFvDXtL4sr5GOc2tXx"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "Gloria",
-        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
-      },
-      "artists": [
-        {
-          "name": "The Snuts",
-          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
-        }
-      ],
-      "duration_ms": 152993,
-      "name": "Gloria",
-      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "Make You Proud",
         "url": "https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 207439,
       "name": "Make You Proud",
       "url": "https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "Gloria",
+        "url": "https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC"
+      },
+      "artists": [
+        {
+          "name": "The Snuts",
+          "url": "https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo"
+        }
+      ],
+      "duration_ms": 152993,
+      "name": "Gloria",
+      "url": "https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -783,6 +783,22 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
+        "name": "24 hours",
+        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
+      },
+      "artists": [
+        {
+          "name": "Chloe Slater",
+          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "24 hours",
+      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
         "name": "My Big Day",
         "url": "https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 322453,
       "name": "Heaven - feat. Damon Albarn",
       "url": "https://open.spotify.com/track/3ROgWZzcpQ0y8k67PzlbBC"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
-        "name": "24 hours",
-        "url": "https://open.spotify.com/album/7CeRRQTS5yD21SnqYoIsu2"
-      },
-      "artists": [
-        {
-          "name": "Chloe Slater",
-          "url": "https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "24 hours",
-      "url": "https://open.spotify.com/track/7j0XR8mdPg6tlbvPd2DUQO"
     },
     {
       "added_at": "2024-04-12 12:02:00",
@@ -929,6 +929,22 @@
       "url": "https://open.spotify.com/track/6KDop8OGP6rXd3bLtZVy1h"
     },
     {
+      "added_at": "2024-04-12 12:02:00",
+      "album": {
+        "name": "Alien",
+        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
+      },
+      "artists": [
+        {
+          "name": "Dehd",
+          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
+        }
+      ],
+      "duration_ms": 150897,
+      "name": "Alien",
+      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
+    },
+    {
       "added_at": "2024-03-15 12:32:20",
       "album": {
         "name": "Follow You Down",
@@ -959,22 +975,6 @@
       "duration_ms": 179037,
       "name": "Theatre",
       "url": "https://open.spotify.com/track/1JAh2AOLiO3HcUl1A3Ryr6"
-    },
-    {
-      "added_at": "2024-04-12 12:02:00",
-      "album": {
-        "name": "Alien",
-        "url": "https://open.spotify.com/album/2LFzrOu3S91cYYHQ2ATzVs"
-      },
-      "artists": [
-        {
-          "name": "Dehd",
-          "url": "https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1"
-        }
-      ],
-      "duration_ms": 150897,
-      "name": "Alien",
-      "url": "https://open.spotify.com/track/4rPyGuxevuCdywQ1o9Kw71"
     },
     {
       "added_at": "2024-03-15 12:32:20",
@@ -1185,6 +1185,22 @@
       "url": "https://open.spotify.com/track/2kPS4cxktbqt6cBpAyiU4a"
     },
     {
+      "added_at": "2024-04-12 12:02:00",
+      "album": {
+        "name": "Lady Messiah",
+        "url": "https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q"
+      },
+      "artists": [
+        {
+          "name": "Corella",
+          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
+        }
+      ],
+      "duration_ms": 206810,
+      "name": "Lady Messiah",
+      "url": "https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB"
+    },
+    {
       "added_at": "2024-03-15 12:32:20",
       "album": {
         "name": "Borderline Insane",
@@ -1205,22 +1221,6 @@
       "url": "https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po"
     },
     {
-      "added_at": "2024-04-12 12:02:00",
-      "album": {
-        "name": "Lady Messiah",
-        "url": "https://open.spotify.com/album/2wFYnARRz82hDG4udhjz7q"
-      },
-      "artists": [
-        {
-          "name": "Corella",
-          "url": "https://open.spotify.com/artist/5LoyxydilSHtcohX3rSRXe"
-        }
-      ],
-      "duration_ms": 206810,
-      "name": "Lady Messiah",
-      "url": "https://open.spotify.com/track/0hYP2EZeqbq9Kh0AHY0JWB"
-    },
-    {
       "added_at": "2024-03-15 12:32:20",
       "album": {
         "name": "Love Will Get You There",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2024-03-15 12:32:20",
       "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
-      },
-      "artists": [
-        {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
-        }
-      ],
-      "duration_ms": 172921,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
-    },
-    {
-      "added_at": "2024-03-15 12:32:20",
-      "album": {
         "name": "Believe Me (Even If I'm Lying)",
         "url": "https://open.spotify.com/album/2J6zYvoCvBeZzBrA1WGybw"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 165093,
       "name": "Believe Me (Even If I'm Lying)",
       "url": "https://open.spotify.com/track/5D4mRZsNbuJHUD4IyPWiTs"
+    },
+    {
+      "added_at": "2024-03-15 12:32:20",
+      "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/19GTyFd4MvQ9jRTyczZIB1"
+      },
+      "artists": [
+        {
+          "name": "Petey",
+          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+        }
+      ],
+      "duration_ms": 172921,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/5n0EvYxNnyCBJpKn90i9Wl"
     },
     {
       "added_at": "2024-03-15 12:32:20",

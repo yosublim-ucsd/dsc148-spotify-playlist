@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 12746,
+  "2024-04-22": 12724,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bolivia.",
   "name": "Viral 50 - Bolivia",
@@ -607,7 +607,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3235,7 +3235,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 211969,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
@@ -3283,6 +3283,24 @@
       "duration_ms": 211969,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5eCXvznEquEklXtTrR2BNV"
+    },
+    {
+      "album": {
+        "name": "Diablos, Doble A",
+        "url": "https://open.spotify.com/album/6VCKimznrPSiFMKfGICXrw"
+      },
+      "artists": [
+        {
+          "name": "refracted arg",
+          "url": "https://open.spotify.com/artist/6xXSh0V8MmmCJ5CGwxV0OV"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207342,
+      "name": "Maquillaje - Remix",
+      "url": "https://open.spotify.com/track/5tA0dW3vNglRMQRVn5oXhU"
     },
     {
       "album": {
@@ -3755,7 +3773,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 273290,
       "name": "NEURON (with Gaeko & YOON MIRAE)",
       "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
@@ -4517,7 +4535,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 167637,
       "name": "Rid\u00edculo",
       "url": "https://open.spotify.com/track/2EcGljResI3kZnrucrGORE"
@@ -5113,6 +5131,24 @@
       "duration_ms": 264880,
       "name": "Te Quiero",
       "url": "https://open.spotify.com/track/0eJGouVmEGxPktWPSTfpuI"
+    },
+    {
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "album": {

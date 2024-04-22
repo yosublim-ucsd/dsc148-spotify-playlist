@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as principais vozes de adoradoras do gospel brasileiro. Foto: Bruna Olly",
-  "num_followers": 314848,
+  "num_followers": 314027,
   "original_name": "Mulheres do Gospel",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
+        "name": "Os Sonhos de Deus",
+        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 267077,
+      "name": "Os Sonhos de Deus",
+      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
         "name": "Meu Filho, Descansa",
         "url": "https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ"
       },
@@ -195,18 +211,22 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Os Sonhos de Deus",
-        "url": "https://open.spotify.com/album/5ZbKlJh2vqfhBQobdZT07b"
+        "name": "Eis-me Aqui (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
       },
       "artists": [
         {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+          "name": "Valesca Mayssa",
+          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 267077,
-      "name": "Os Sonhos de Deus",
-      "url": "https://open.spotify.com/track/18aEZ4QzbuB8OZuxAeqeCd"
+      "duration_ms": 459230,
+      "name": "Eis-me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -239,26 +259,6 @@
       "duration_ms": 416842,
       "name": "Onde o Fogo N\u00e3o Apaga - Ao Vivo",
       "url": "https://open.spotify.com/track/6uJuREXqz3BWRM2awbXrDv"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
-        "name": "Eis-me Aqui (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0zSfnWkLUfBTTQOUb1h0SW"
-      },
-      "artists": [
-        {
-          "name": "Valesca Mayssa",
-          "url": "https://open.spotify.com/artist/4K4fsuNkaAwysF3AxRPLNh"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 459230,
-      "name": "Eis-me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/1W0C210HKx61DqM4I55iVE"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -299,38 +299,6 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Deus de Milagres (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Deus de Milagres - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
-        "name": "Diz",
-        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 275306,
-      "name": "Diz",
-      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
         "name": "Tetelestai (feat. Carol Tauber) [Ao Vivo]",
         "url": "https://open.spotify.com/album/3KEDeUTss9pszz8D9I0c6Q"
       },
@@ -351,22 +319,6 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Esse Vento Vai Passar (Studio Session)",
-        "url": "https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9"
-      },
-      "artists": [
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 319283,
-      "name": "Esse Vento Vai Passar - Studio Session",
-      "url": "https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
         "name": "Inflama (Ao Vivo)",
         "url": "https://open.spotify.com/album/46BFASV2bY4obTjFmStnh8"
       },
@@ -383,6 +335,54 @@
       "duration_ms": 411976,
       "name": "Inflama - Ao Vivo",
       "url": "https://open.spotify.com/track/5FrSW8HWQjFWV6XADtwPLN"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
+        "name": "Diz",
+        "url": "https://open.spotify.com/album/5rwRqr9Pvfm3COjj5j9o6O"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 275306,
+      "name": "Diz",
+      "url": "https://open.spotify.com/track/4EdKJoJqBr73rA7aqrdBA5"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
+        "name": "Deus de Milagres (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Deus de Milagres - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
+        "name": "Esse Vento Vai Passar (Studio Session)",
+        "url": "https://open.spotify.com/album/2QACIXRqqL5NWMC6ws52y9"
+      },
+      "artists": [
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 319283,
+      "name": "Esse Vento Vai Passar - Studio Session",
+      "url": "https://open.spotify.com/track/5K5zTAn7Sf5UNmuIZ7e6Db"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
-        "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 384870,
-      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
-      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
         "name": "Dependente (Ao Vivo)",
         "url": "https://open.spotify.com/album/724QZLpvmUYnZ8FwbgAkZ9"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 354173,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/6jTbdr0MpxuP6nyJOXcMqW"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
+        "name": "Juntos Em Adora\u00e7\u00e3o (Live 2020)",
+        "url": "https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 384870,
+      "name": "A Ele a Gl\u00f3ria / Porque Ele vive - Live 2020",
+      "url": "https://open.spotify.com/track/3RdYctD14VWKn1Zu32kJfs"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
-      },
-      "artists": [
-        {
-          "name": "Kailane Frauches",
-          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
-        }
-      ],
-      "duration_ms": 298174,
-      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
-      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
         "name": "Sou Teu Deus",
         "url": "https://open.spotify.com/album/15aD5OIPVjK9Qq3jhITeX1"
       },
@@ -575,18 +559,18 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Quem \u00e9 Como Nosso Deus?",
-        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
+        "name": "N\u00e3o Se Cobre Tanto (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5YBQxkJqAnDvHsgqqBJCYo"
       },
       "artists": [
         {
-          "name": "N\u00edvea Soares",
-          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+          "name": "Kailane Frauches",
+          "url": "https://open.spotify.com/artist/4Gbrv0tqC8CkFU639l5VjD"
         }
       ],
-      "duration_ms": 489116,
-      "name": "Quem \u00e9 Como Nosso Deus?",
-      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+      "duration_ms": 298174,
+      "name": "N\u00e3o Se Cobre Tanto - Ao Vivo",
+      "url": "https://open.spotify.com/track/3dvWfnbNqKnAMtPEJEHx7m"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -611,22 +595,6 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 258146,
-      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
-      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
         "name": "El Shaday (Ao Vivo)",
         "url": "https://open.spotify.com/album/2DchFCysxlnI0flscFLnEB"
       },
@@ -639,6 +607,38 @@
       "duration_ms": 323832,
       "name": "El Shaday (Ao Vivo)",
       "url": "https://open.spotify.com/track/2kuSwazCXbTJO52vH4Yrfu"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
+        "name": "Quem \u00e9 Como Nosso Deus?",
+        "url": "https://open.spotify.com/album/6FEiGQwI028PHCKsxtaMni"
+      },
+      "artists": [
+        {
+          "name": "N\u00edvea Soares",
+          "url": "https://open.spotify.com/artist/7FJXPSSrHgr0YDfeiQ63uk"
+        }
+      ],
+      "duration_ms": 489116,
+      "name": "Quem \u00e9 Como Nosso Deus?",
+      "url": "https://open.spotify.com/track/12lShKyr5n3B8qobwzxepl"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
+        "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+        "url": "https://open.spotify.com/album/0XnWhNtjH4e496qm9Ucbwo"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 258146,
+      "name": "Santidade (Ao Vivo Na Su\u00ed\u00e7a)",
+      "url": "https://open.spotify.com/track/1xHIGCspHfgpK36phGDXku"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -807,6 +807,22 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
+        "name": "Romanos 8:26 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 269739,
+      "name": "Romanos 8:26 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
         "name": "Dependente",
         "url": "https://open.spotify.com/album/1rlxjSQ6ZCf6isHexFcbDI"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 301395,
       "name": "Dependente",
       "url": "https://open.spotify.com/track/7ilMa9uRyjoVqqRhAYcsax"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
-        "name": "T\u00e1 Chorando Por Qu\u00ea?",
-        "url": "https://open.spotify.com/album/6skA7SfyH0VWa78KOFwNGU"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 248768,
-      "name": "T\u00e1 Chorando Por Qu\u00ea?",
-      "url": "https://open.spotify.com/track/2jHJlzo6TYxqmMufgMDWBl"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -855,6 +855,22 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
+        "name": "T\u00e1 Chorando Por Qu\u00ea?",
+        "url": "https://open.spotify.com/album/6skA7SfyH0VWa78KOFwNGU"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 248768,
+      "name": "T\u00e1 Chorando Por Qu\u00ea?",
+      "url": "https://open.spotify.com/track/2jHJlzo6TYxqmMufgMDWBl"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
         "name": "Vai Ter Vida A\u00ed",
         "url": "https://open.spotify.com/album/1ZozrNvdcx0F6vmowuIuiX"
       },
@@ -871,8 +887,8 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Romanos 8:26 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4la129Bk0w8ubbxMwwHzkC"
+        "name": "O Amor Que Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
       },
       "artists": [
         {
@@ -880,9 +896,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 269739,
-      "name": "Romanos 8:26 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4eEB1CdGj3I7kv3QNykRnG"
+      "duration_ms": 261999,
+      "name": "O Amor Que Cura - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -995,22 +1011,6 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "O Amor Que Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 261999,
-      "name": "O Amor Que Cura - Ao Vivo",
-      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
         "name": "Poder Pra Salvar (Mighty to Save) [Ao Vivo Em Los Angeles]",
         "url": "https://open.spotify.com/album/2b0XVRX9gGvngP9Dr5onIz"
       },
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
+        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+      },
+      "artists": [
+        {
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        }
+      ],
+      "duration_ms": 419263,
+      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
+      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
         "name": "Acalma",
         "url": "https://open.spotify.com/album/2OEpzKL5wIriq3VfQLVPts"
       },
@@ -1091,6 +1107,26 @@
       "duration_ms": 296988,
       "name": "Acalma",
       "url": "https://open.spotify.com/track/2DdQXkkf5y4kuNAhPTMO09"
+    },
+    {
+      "added_at": "2024-04-19 18:22:51",
+      "album": {
+        "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
+      },
+      "artists": [
+        {
+          "name": "Stella Laura",
+          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 381302,
+      "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
+      "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -1123,26 +1159,6 @@
       "duration_ms": 258799,
       "name": "Um Milh\u00e3o de Vezes - Ao Vivo",
       "url": "https://open.spotify.com/track/3ozxp7Jde9AAbBycLmyetV"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
-        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
-      },
-      "artists": [
-        {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 312674,
-      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -1215,38 +1231,18 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "O Senhor \u00e9 o Meu Pastor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V6W8jgXxmcr5VBPdStzmx"
+        "name": "Deus Prover\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6"
       },
       "artists": [
         {
-          "name": "Stella Laura",
-          "url": "https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Bruna Olly",
+          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
         }
       ],
-      "duration_ms": 381302,
-      "name": "O Senhor \u00e9 o Meu Pastor - Ao Vivo",
-      "url": "https://open.spotify.com/track/7k7hhDB8ZleGKhxMg43Fwr"
-    },
-    {
-      "added_at": "2024-04-19 18:22:51",
-      "album": {
-        "name": "Transforma-me (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4VvjMi1B7az8yTBkU2lJ7s"
-      },
-      "artists": [
-        {
-          "name": "Gisele Nascimento",
-          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
-        }
-      ],
-      "duration_ms": 355893,
-      "name": "Transforma-me (Ao Vivo)",
-      "url": "https://open.spotify.com/track/76RWrsRr467nRctpzdwn0H"
+      "duration_ms": 332677,
+      "name": "Deus Prover\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -1267,18 +1263,18 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Deus Prover\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2HqzEm9b9PnjVjnbDUhyh6"
+        "name": "Transforma-me (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4VvjMi1B7az8yTBkU2lJ7s"
       },
       "artists": [
         {
-          "name": "Bruna Olly",
-          "url": "https://open.spotify.com/artist/4SqgfSueCwdjxbmRbROHbZ"
+          "name": "Gisele Nascimento",
+          "url": "https://open.spotify.com/artist/5vXZDaOrGiU7bvoqJiDo0m"
         }
       ],
-      "duration_ms": 332677,
-      "name": "Deus Prover\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/2fWLl3Iq7sv9LdA3C3KUuP"
+      "duration_ms": 355893,
+      "name": "Transforma-me (Ao Vivo)",
+      "url": "https://open.spotify.com/track/76RWrsRr467nRctpzdwn0H"
     },
     {
       "added_at": "2024-04-19 18:22:51",
@@ -1363,18 +1359,22 @@
     {
       "added_at": "2024-04-19 18:22:51",
       "album": {
-        "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0qCLy84OJNZDiyhL8pcGVt"
+        "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0GQdUpiAJQOZgm8JA0tpfu"
       },
       "artists": [
         {
           "name": "Bruna Karla",
           "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 419263,
-      "name": "Maranata (Vem Emanuel) (Ao Vivo)",
-      "url": "https://open.spotify.com/track/04OXVN5Z15fpezFw4cHA6q"
+      "duration_ms": 312674,
+      "name": "Deixar a L\u00e1grima Rolar (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4IiFYwOR4JnUuQPdxucT3a"
     },
     {
       "added_at": "2024-04-19 18:22:51",

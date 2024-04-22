@@ -2,7 +2,7 @@
 
 ### [This Is ATARASHII GAKKO!](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2OZck1)
 
-> This is ATARASHII GAKKO!\. Todos os maiores hits em uma só playlist.
+> This is ATARASHII GAKKO!\. The essential tracks, all in one playlist.
 
 44 songs - 2 hr 29 min
 

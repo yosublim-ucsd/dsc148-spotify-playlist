@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGQ1NjBkNjc0MGIxMzMyNDYyNDMyYjU2MjYzZjMwZGU5",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDBhMTJhNjY1NTY5MTQ4MjExMTc4YjVlMmM5ZDNlZmFi",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Domestic La La",
-        "url": "https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3"
+        "name": "Violent Soho",
+        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 219773,
-      "name": "Domestic La La",
-      "url": "https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN"
+      "duration_ms": 196333,
+      "name": "Muscle Junkie",
+      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Violent Soho",
-        "url": "https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0"
+        "name": "Domestic La La",
+        "url": "https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
         }
       ],
-      "duration_ms": 196333,
-      "name": "Muscle Junkie",
-      "url": "https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r"
+      "duration_ms": 219773,
+      "name": "Domestic La La",
+      "url": "https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN"
     },
     {
       "added_at": null,

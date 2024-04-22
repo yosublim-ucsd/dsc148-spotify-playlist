@@ -1,6 +1,6 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a> ",
-  "num_followers": 71969,
+  "num_followers": 72010,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
@@ -323,6 +323,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "Saved You Too",
+        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "duration_ms": 118413,
+      "name": "Saved You Too",
+      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "I Pray",
         "url": "https://open.spotify.com/album/2oXzrYopy6GG9TdIperrVC"
       },
@@ -339,22 +355,6 @@
       "duration_ms": 212366,
       "name": "I Pray",
       "url": "https://open.spotify.com/track/0izNEoXVrG6GtLneKnJmWU"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Saved You Too",
-        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
-      },
-      "artists": [
-        {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
-        }
-      ],
-      "duration_ms": 118413,
-      "name": "Saved You Too",
-      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -587,38 +587,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Rollin'",
-        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
-      },
-      "artists": [
-        {
-          "name": "Blessing Offor",
-          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
-        }
-      ],
-      "duration_ms": 198333,
-      "name": "Rollin'",
-      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "I Love It",
-        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 162403,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Koryn Hawthorne Bundle",
         "url": "https://open.spotify.com/album/2WnXB1FLl2M3JwHqNLpy0b"
       },
@@ -631,6 +599,22 @@
       "duration_ms": 134235,
       "name": "Cut 'Em Off",
       "url": "https://open.spotify.com/track/0EIjQy9ifrBLscYBSVCr1M"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Rollin'",
+        "url": "https://open.spotify.com/album/5cWGiHofYU21PbMwcBv2XN"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "duration_ms": 198333,
+      "name": "Rollin'",
+      "url": "https://open.spotify.com/track/0tgjvCrVS32K4QzbTSxPVd"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -667,6 +651,22 @@
       "duration_ms": 253077,
       "name": "Back To Life - Studio Version",
       "url": "https://open.spotify.com/track/2IbrgPz3YiOE9TtQWeqifn"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "I Love It",
+        "url": "https://open.spotify.com/album/2Xy6iLb2skc9sP2LVw8W00"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 162403,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/33gnHgG4uhgFpdig9KkwgV"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Glory Hour",
-        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
-      },
-      "artists": [
-        {
-          "name": "Victory",
-          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
-        }
-      ],
-      "duration_ms": 421320,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "HI-C",
         "url": "https://open.spotify.com/album/42eKaKWWjei5ViAUQ4XY1J"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 183201,
       "name": "HI-C",
       "url": "https://open.spotify.com/track/6DmLU5yyCcwCS5MgHbZq78"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Glory Hour",
+        "url": "https://open.spotify.com/album/0P3o32VNf3DArR1I3TcSR4"
+      },
+      "artists": [
+        {
+          "name": "Victory",
+          "url": "https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr"
+        }
+      ],
+      "duration_ms": 421320,
+      "name": "One Thing",
+      "url": "https://open.spotify.com/track/5VfQ6xXvgmm4Udi6Jf3AEk"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
-      },
-      "artists": [
-        {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
-        }
-      ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Take It",
         "url": "https://open.spotify.com/album/1yDiC9e4VJrVT8BA2AaGnZ"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 189850,
       "name": "Love Never Ceases",
       "url": "https://open.spotify.com/track/02Vpti3pbDxqyv7mUnMa6h"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+      },
+      "artists": [
+        {
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+        }
+      ],
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1335,26 +1335,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "GHETTO GOSPEL",
-        "url": "https://open.spotify.com/album/7dzrf8O5uvPdslYGeVIvpd"
-      },
-      "artists": [
-        {
-          "name": "EmanuelDaProphet",
-          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
-        },
-        {
-          "name": "Rich The Kid",
-          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
-        }
-      ],
-      "duration_ms": 158297,
-      "name": "GHETTO GOSPEL",
-      "url": "https://open.spotify.com/track/1SUIkGtUfDb6LXs94j9XIb"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Welcome to Faith City",
         "url": "https://open.spotify.com/album/09zNjY9WsONhfsyze2CFu3"
       },
@@ -1375,6 +1355,26 @@
       "duration_ms": 285106,
       "name": "Jesus (feat. Le'andria Johnson)",
       "url": "https://open.spotify.com/track/3Fw9sLyTKHYpRISAWCgvY1"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "GHETTO GOSPEL",
+        "url": "https://open.spotify.com/album/7dzrf8O5uvPdslYGeVIvpd"
+      },
+      "artists": [
+        {
+          "name": "EmanuelDaProphet",
+          "url": "https://open.spotify.com/artist/5P0vV6Fw0YTdumAPZSkkuC"
+        },
+        {
+          "name": "Rich The Kid",
+          "url": "https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI"
+        }
+      ],
+      "duration_ms": 158297,
+      "name": "GHETTO GOSPEL",
+      "url": "https://open.spotify.com/track/1SUIkGtUfDb6LXs94j9XIb"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Mr. McClure",
-        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
-      },
-      "artists": [
-        {
-          "name": "Pastor Mike Jr.",
-          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
-        }
-      ],
-      "duration_ms": 197254,
-      "name": "Mr. McClure",
-      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "God Of My Dreams",
         "url": "https://open.spotify.com/album/76mWJMAuLvCwzG7i4AJbLT"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 178360,
       "name": "God Of My Dreams",
       "url": "https://open.spotify.com/track/0iCoAvCGdcS8il7ZcGvCop"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Mr. McClure",
+        "url": "https://open.spotify.com/album/0q9anux1BAeqdaulGxibU7"
+      },
+      "artists": [
+        {
+          "name": "Pastor Mike Jr.",
+          "url": "https://open.spotify.com/artist/1aNtFg4D7HdF8jOppyKpUS"
+        }
+      ],
+      "duration_ms": 197254,
+      "name": "Mr. McClure",
+      "url": "https://open.spotify.com/track/32FopMR4tx27RZMkXmkyvV"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "NOW",
-        "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
-      },
-      "artists": [
-        {
-          "name": "Ko'rale",
-          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
-        },
-        {
-          "name": "Faith Child",
-          "url": "https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy"
-        }
-      ],
-      "duration_ms": 223524,
-      "name": "NOW",
-      "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/6103XRods58M1Wd36Ke5Nb"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 267374,
       "name": "Without You",
       "url": "https://open.spotify.com/track/1PZrnMxqoO1vxyQlX24ovM"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "NOW",
+        "url": "https://open.spotify.com/album/0008KTgbnIMu8pvOrfYYOv"
+      },
+      "artists": [
+        {
+          "name": "Ko'rale",
+          "url": "https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS"
+        },
+        {
+          "name": "Faith Child",
+          "url": "https://open.spotify.com/artist/0FMlGMImrFqeOL7ykcYdZy"
+        }
+      ],
+      "duration_ms": 223524,
+      "name": "NOW",
+      "url": "https://open.spotify.com/track/68N09T45EtsG8BdvKjDjvz"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Steady",
-        "url": "https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2"
-      },
-      "artists": [
-        {
-          "name": "Cecily",
-          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
-        }
-      ],
-      "duration_ms": 226248,
-      "name": "Steady",
-      "url": "https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Follow You",
         "url": "https://open.spotify.com/album/5ma9oYRBZVrc7b30zFKftk"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 224416,
       "name": "Follow You",
       "url": "https://open.spotify.com/track/1dMziINdISRb67vXMFsT2J"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Steady",
+        "url": "https://open.spotify.com/album/2EWfsVbf3AwGAovgE7e5W2"
+      },
+      "artists": [
+        {
+          "name": "Cecily",
+          "url": "https://open.spotify.com/artist/4hryzFSB8IYFIaBba9jUvT"
+        }
+      ],
+      "duration_ms": 226248,
+      "name": "Steady",
+      "url": "https://open.spotify.com/track/6gGfORW04FjcMSn2u8zgHH"
     },
     {
       "added_at": "2024-03-20 10:43:05",

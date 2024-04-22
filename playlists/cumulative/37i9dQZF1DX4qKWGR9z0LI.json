@@ -371,6 +371,24 @@
     },
     {
       "album": {
+        "name": "Basta Ya",
+        "url": "https://open.spotify.com/album/6DOxLq4YiYcq815ABk5PB8"
+      },
+      "artists": [
+        {
+          "name": "Chiquito Team Band",
+          "url": "https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182727,
+      "name": "Basta Ya",
+      "url": "https://open.spotify.com/track/5LpobtWokaLmZW87M52tgL"
+    },
+    {
+      "album": {
         "name": "Besos de Amor",
         "url": "https://open.spotify.com/album/7uopsqM4qKfK7M8TwLqqm7"
       },
@@ -4432,7 +4450,7 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 209743,
       "name": "Te Quise Olvidar",
       "url": "https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB"

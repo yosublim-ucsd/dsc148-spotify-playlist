@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Y8kMPjaqrb.md) - [plain]
 
 > Music from Studio Chizu's new movie "BELLE"!  ©︎STUDIO CHIZU/ 映画『竜とそばかすの姫』の音楽をプレイリストで。豪華ミュージシャン、作家陣が音楽の魅力を語る「Music+Talk」版は<a href="spotify:show:0GVl86Z7umr9JEu8EhN22m">こちら</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,588 likes - 71 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,614 likes - 71 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [U](https://open.spotify.com/track/3adpw5EbVZ7VFnPynUEjR1) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:04 |
+| 1 | [U](https://open.spotify.com/track/3adpw5EbVZ7VFnPynUEjR1) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:04 |
 | 2 | [A Million Miles Away](https://open.spotify.com/track/4EouoYXPLTgO1v16BE8t4L) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 8:01 |
 | 3 | [歌よ](https://open.spotify.com/track/13C6yg32SUkj52po7mkwTP) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 3:59 |
 | 4 | [心のそばに](https://open.spotify.com/track/6orNyGXMqjb6YTEoiA2GEa) | [Belle](https://open.spotify.com/artist/1m9ZvxLFfX9avls54a0y40) | [「竜とそばかすの姫」オリジナル・サウンドトラック](https://open.spotify.com/album/0tukMaQwVfipeF0cuFfGlW) | 5:03 |

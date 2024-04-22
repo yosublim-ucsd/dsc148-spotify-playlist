@@ -1,6 +1,6 @@
 {
   "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: <a href=\"spotify:artist:61SFRZAmfyJhcffwR2Ijuq\">Jason Crabb</a>",
-  "num_followers": 347288,
+  "num_followers": 347121,
   "original_name": "Top Christian Contemporary",
   "owner": {
     "name": "Spotify",
@@ -503,26 +503,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "You Will Be Found",
-        "url": "https://open.spotify.com/album/2pTMEwEKSdrr7tBsLbROrz"
-      },
-      "artists": [
-        {
-          "name": "Natalie Grant",
-          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
-        },
-        {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        }
-      ],
-      "duration_ms": 221400,
-      "name": "You Will Be Found",
-      "url": "https://open.spotify.com/track/37JSM2sf79iQfvpBQx1W3L"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "You've Already Won (Radio Version)",
         "url": "https://open.spotify.com/album/1wDI9ygwPs3apzy4IB8SEK"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 187306,
       "name": "Love Me Like I Am (with Jordin Sparks)",
       "url": "https://open.spotify.com/track/0Nxb56H6D3z2ZO9BniUcNj"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "You Will Be Found",
+        "url": "https://open.spotify.com/album/2pTMEwEKSdrr7tBsLbROrz"
+      },
+      "artists": [
+        {
+          "name": "Natalie Grant",
+          "url": "https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh"
+        },
+        {
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        }
+      ],
+      "duration_ms": 221400,
+      "name": "You Will Be Found",
+      "url": "https://open.spotify.com/track/37JSM2sf79iQfvpBQx1W3L"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Heaven On Earth",
-        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
-      },
-      "artists": [
-        {
-          "name": "Newsboys",
-          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
-        }
-      ],
-      "duration_ms": 199236,
-      "name": "Heaven On Earth",
-      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Lifesongs: A Celebration of the First 20 Years",
         "url": "https://open.spotify.com/album/4CMr6grYkY2l24pEJY6PV8"
       },
@@ -647,18 +631,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Where Can I Go - Psalm 139",
-        "url": "https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1"
+        "name": "Heaven On Earth",
+        "url": "https://open.spotify.com/album/274mYhGCC5uGfFWUkkUic5"
       },
       "artists": [
         {
-          "name": "Ellie Holcomb",
-          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+          "name": "Newsboys",
+          "url": "https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62"
         }
       ],
-      "duration_ms": 277000,
-      "name": "Where Can I Go - Psalm 139",
-      "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
+      "duration_ms": 199236,
+      "name": "Heaven On Earth",
+      "url": "https://open.spotify.com/track/3eJMUVFDLOG490UgWrbXf3"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -675,6 +659,22 @@
       "duration_ms": 184186,
       "name": "I Got You",
       "url": "https://open.spotify.com/track/0jbludNUb0EqbuTsnRpRmE"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Where Can I Go - Psalm 139",
+        "url": "https://open.spotify.com/album/79urTMskFiBnMovdMAwUw1"
+      },
+      "artists": [
+        {
+          "name": "Ellie Holcomb",
+          "url": "https://open.spotify.com/artist/5hNiAUVPCTgcpy8vljCxzs"
+        }
+      ],
+      "duration_ms": 277000,
+      "name": "Where Can I Go - Psalm 139",
+      "url": "https://open.spotify.com/track/759M03NuO9GCcWNRbZlWOL"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -763,6 +763,26 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "I'm So Blessed (Aaron Cole Mix)",
+        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 175090,
+      "name": "I'm So Blessed - Aaron Cole Mix",
+      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Invited",
         "url": "https://open.spotify.com/album/1wj7dPYIb0ECjKmgZ50fZ0"
       },
@@ -807,26 +827,6 @@
       "duration_ms": 248666,
       "name": "Always",
       "url": "https://open.spotify.com/track/1YoIJ1glQCGAxrPJgnoUCI"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "I'm So Blessed (Aaron Cole Mix)",
-        "url": "https://open.spotify.com/album/7itmb3rK26AZtLbdzy8QNQ"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "I'm So Blessed - Aaron Cole Mix",
-      "url": "https://open.spotify.com/track/5OjLmBBHKM9bt99wYGpmTe"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -879,6 +879,26 @@
       "duration_ms": 206560,
       "name": "Oxygen",
       "url": "https://open.spotify.com/track/2pOzcg0ID39t34si3387GC"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "The Commission (Go Tell The World)",
+        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        },
+        {
+          "name": "Isaiah Templeton",
+          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
+        }
+      ],
+      "duration_ms": 245475,
+      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
+      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -951,26 +971,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "The Commission (Go Tell The World)",
-        "url": "https://open.spotify.com/album/0vXN44A8CS4pnk3yv1hvPy"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        },
-        {
-          "name": "Isaiah Templeton",
-          "url": "https://open.spotify.com/artist/4atJuIvhr9uWLmxl1ixfG5"
-        }
-      ],
-      "duration_ms": 245475,
-      "name": "The Commission (Go Tell The World) (feat. Isaiah Templeton)",
-      "url": "https://open.spotify.com/track/3yGHfPi206znPB31iyOSbV"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "All Along",
         "url": "https://open.spotify.com/album/77WsuRa6qXxutGWSW8RxT9"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 189400,
       "name": "All Along",
       "url": "https://open.spotify.com/track/4AQ9Yz6qxhZhlyAbWbgsdI"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Friend In Jesus (Live)",
+        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
+      },
+      "artists": [
+        {
+          "name": "CAIN",
+          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
+        }
+      ],
+      "duration_ms": 348141,
+      "name": "Friend In Jesus - Live",
+      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1059,22 +1075,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Friend In Jesus (Live)",
-        "url": "https://open.spotify.com/album/2h2Lt5nJbH7muL3lIS7mch"
-      },
-      "artists": [
-        {
-          "name": "CAIN",
-          "url": "https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq"
-        }
-      ],
-      "duration_ms": 348141,
-      "name": "Friend In Jesus - Live",
-      "url": "https://open.spotify.com/track/5mg7ppgQFoJAjq0fzfKRLX"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "SUNDAY IS COMING \u2022 HOMETOWN VERSION",
         "url": "https://open.spotify.com/album/5M8QVTJtlTKM71Ra9XpfC4"
       },
@@ -1123,26 +1123,6 @@
       "duration_ms": 363240,
       "name": "You're Not Done",
       "url": "https://open.spotify.com/track/2sRC7NJqjECWTjC0G4lkTC"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "You Changed My Name (Jon Reddick Collab Version)",
-        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
-      },
-      "artists": [
-        {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
-        },
-        {
-          "name": "Jon Reddick",
-          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
-        }
-      ],
-      "duration_ms": 236261,
-      "name": "You Changed My Name - Jon Reddick Collab Version",
-      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1211,22 +1191,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Eden (Isn't It Just Like You?)",
-        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
-      },
-      "artists": [
-        {
-          "name": "Benjamin William Hastings",
-          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "Eden (Isn't It Just Like You?)",
-      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Jesus Music",
         "url": "https://open.spotify.com/album/3kjQ9mZ8SWjp7q5USnlmG0"
       },
@@ -1243,6 +1207,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Eden (Isn't It Just Like You?)",
+        "url": "https://open.spotify.com/album/4D3hRNhHp7NmvrVDIKStIN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin William Hastings",
+          "url": "https://open.spotify.com/artist/6CK4CBL0n07VdVZmfh40nm"
+        }
+      ],
+      "duration_ms": 275466,
+      "name": "Eden (Isn't It Just Like You?)",
+      "url": "https://open.spotify.com/track/5OVCLYafTB1w8ChIF21Uxm"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "I LOVE YOU TO DEATH",
         "url": "https://open.spotify.com/album/1DXLjXc0K8noPurFkXIzZK"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 203832,
       "name": "I LOVE YOU TO DEATH",
       "url": "https://open.spotify.com/track/05nthkowAN1YmD7Y8ospny"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "You Changed My Name (Jon Reddick Collab Version)",
+        "url": "https://open.spotify.com/album/1hGZNecvgaMDhRHpdB9y9C"
+      },
+      "artists": [
+        {
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+        },
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "duration_ms": 236261,
+      "name": "You Changed My Name - Jon Reddick Collab Version",
+      "url": "https://open.spotify.com/track/5EQSJElOqQQwiVFvgIqkKh"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1315,18 +1315,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Miracle Time",
-        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
+        "name": "Hills Of Tyrone",
+        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
       },
       "artists": [
         {
-          "name": "Matthew West",
-          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
+          "name": "We Are Messengers",
+          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
         }
       ],
-      "duration_ms": 260133,
-      "name": "Miracle Time",
-      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
+      "duration_ms": 209390,
+      "name": "Seasons",
+      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1351,18 +1351,18 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Hills Of Tyrone",
-        "url": "https://open.spotify.com/album/7jiDpHKjW1ZitkptGTpp2v"
+        "name": "Miracle Time",
+        "url": "https://open.spotify.com/album/2To3QHpsCIJqR11q4W7R3k"
       },
       "artists": [
         {
-          "name": "We Are Messengers",
-          "url": "https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd"
+          "name": "Matthew West",
+          "url": "https://open.spotify.com/artist/6e8OTLDQpaz1Tl2GEaxsNj"
         }
       ],
-      "duration_ms": 209390,
-      "name": "Seasons",
-      "url": "https://open.spotify.com/track/4BN0k321aIFLpaxxtwO23x"
+      "duration_ms": 260133,
+      "name": "Miracle Time",
+      "url": "https://open.spotify.com/track/6HXFMfXNHaJGIBzQ9glsMX"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Plans",
-        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
-      },
-      "artists": [
-        {
-          "name": "David Leonard",
-          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
-        }
-      ],
-      "duration_ms": 297413,
-      "name": "Plans",
-      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Worst Days",
         "url": "https://open.spotify.com/album/2cJ58kOSn3ilqpCdPUNFJO"
       },
@@ -1547,6 +1531,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Plans",
+        "url": "https://open.spotify.com/album/070LBiLQAHqlcuS3a4e2Jp"
+      },
+      "artists": [
+        {
+          "name": "David Leonard",
+          "url": "https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE"
+        }
+      ],
+      "duration_ms": 297413,
+      "name": "Plans",
+      "url": "https://open.spotify.com/track/2vhZXqa2xiGCFGAxxhGcs6"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Worthy One",
         "url": "https://open.spotify.com/album/0SLLkcMA1BbhmhSlhg091R"
       },
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
-      },
-      "artists": [
-        {
-          "name": "Corey Voss",
-          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
-        }
-      ],
-      "duration_ms": 241951,
-      "name": "Time",
-      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "Egypt",
         "url": "https://open.spotify.com/album/2gfvdJgeevB1V1nHZCtfoC"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 257720,
       "name": "Egypt",
       "url": "https://open.spotify.com/track/3uAulkGLXosyXmTEYsST8G"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/7r6f767S7JejcRmw2PAAOL"
+      },
+      "artists": [
+        {
+          "name": "Corey Voss",
+          "url": "https://open.spotify.com/artist/1eqQW3Oj7MHXK05b8O5RHa"
+        }
+      ],
+      "duration_ms": 241951,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/5mOeK4IBsw9SailoaEB9Kj"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Burial",
-        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
-      },
-      "artists": [
-        {
-          "name": "Mitch Wong",
-          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
-        }
-      ],
-      "duration_ms": 278119,
-      "name": "Burial",
-      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
         "name": "In Christ Alone",
         "url": "https://open.spotify.com/album/3f09hTkQJplZaTQ0r6XJRj"
       },
@@ -1679,6 +1663,22 @@
       "duration_ms": 222115,
       "name": "In Christ Alone",
       "url": "https://open.spotify.com/track/3nEQk6WLLLjcFkGNKYDylL"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Burial",
+        "url": "https://open.spotify.com/album/0VzooohUIg7b3lgU9nwp7G"
+      },
+      "artists": [
+        {
+          "name": "Mitch Wong",
+          "url": "https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39"
+        }
+      ],
+      "duration_ms": 278119,
+      "name": "Burial",
+      "url": "https://open.spotify.com/track/1VWktOJAGIbNzqmtCK8BHp"
     },
     {
       "added_at": "2024-03-29 04:00:00",

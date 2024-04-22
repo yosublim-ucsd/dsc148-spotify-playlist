@@ -1,6 +1,6 @@
 {
   "description": "Get your Sunday sound right with this collection of current Gospel essentials.",
-  "num_followers": 104012,
+  "num_followers": 104022,
   "original_name": "Sundays Best",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "LONG LIVE LOVE",
+        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 251714,
+      "name": "Love Theory",
+      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Decade",
         "url": "https://open.spotify.com/album/6oRlsJuXGdngrivhSqAq75"
       },
@@ -143,38 +159,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "One Way",
-        "url": "https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB"
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
       },
       "artists": [
         {
-          "name": "Tamela Mann",
-          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
+          "name": "Koryn Hawthorne",
+          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
         }
       ],
-      "duration_ms": 366319,
-      "name": "Change Me",
-      "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "The Preacher's Wife",
-        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
-      },
-      "artists": [
-        {
-          "name": "Whitney Houston",
-          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "The Georgia Mass Choir",
-          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
-        }
-      ],
-      "duration_ms": 296373,
-      "name": "I Love The Lord (with Georgia Mass Choir)",
-      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
+      "duration_ms": 193791,
+      "name": "Unstoppable",
+      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -195,34 +191,54 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "LONG LIVE LOVE",
-        "url": "https://open.spotify.com/album/0n0B8fefGF2CiVyNktbapt"
+        "name": "One Way",
+        "url": "https://open.spotify.com/album/5M8DUTlZa68recDK5RvmBB"
       },
       "artists": [
         {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+          "name": "Tamela Mann",
+          "url": "https://open.spotify.com/artist/6ZyV955Ypf3JAKInn1a0dt"
         }
       ],
-      "duration_ms": 251714,
-      "name": "Love Theory",
-      "url": "https://open.spotify.com/track/2Yfkjb3z3pN9DfS1yE0b3Y"
+      "duration_ms": 366319,
+      "name": "Change Me",
+      "url": "https://open.spotify.com/track/14iF9JDX0AOxkoa8BL2WYB"
     },
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Unstoppable",
-        "url": "https://open.spotify.com/album/5ZyTkx6rT1LnFXvZhpEang"
+        "name": "This Is A Move (Live)",
+        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
       },
       "artists": [
         {
-          "name": "Koryn Hawthorne",
-          "url": "https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW"
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 193791,
-      "name": "Unstoppable",
-      "url": "https://open.spotify.com/track/7ImLXs35qALCxJMiz33Ab9"
+      "duration_ms": 445586,
+      "name": "This Is A Move - Live",
+      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "The Preacher's Wife",
+        "url": "https://open.spotify.com/album/4GtmXlzXsP67AKOVT8LWKK"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "The Georgia Mass Choir",
+          "url": "https://open.spotify.com/artist/1CdyK67jEL4DXXsmp8vFfN"
+        }
+      ],
+      "duration_ms": 296373,
+      "name": "I Love The Lord (with Georgia Mass Choir)",
+      "url": "https://open.spotify.com/track/2xrXUa8o1JJtz8nobY2UsY"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -263,22 +279,6 @@
       "duration_ms": 223666,
       "name": "Praise on the Inside",
       "url": "https://open.spotify.com/track/3GN2Y6iwlw1M7fhMHl60PI"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "This Is A Move (Live)",
-        "url": "https://open.spotify.com/album/5SH3LZPcZVx5fr6uQ7R2pF"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 445586,
-      "name": "This Is A Move - Live",
-      "url": "https://open.spotify.com/track/776imhCfnvp9NoIYJ8uj0G"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "The Truth (Standard)",
-        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
-      },
-      "artists": [
-        {
-          "name": "Casey J",
-          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
-        }
-      ],
-      "duration_ms": 469631,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Losing My Religion",
         "url": "https://open.spotify.com/album/5jmz4EGoRRbBvzaLRNAPEA"
       },
@@ -491,18 +475,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "GRACELAND",
-        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+        "name": "I See Miracles",
+        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
       },
       "artists": [
         {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+          "name": "Jekalyn Carr",
+          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
         }
       ],
-      "duration_ms": 175813,
-      "name": "2nd Win",
-      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+      "duration_ms": 260431,
+      "name": "I See Miracles",
+      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -523,6 +507,38 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "The Truth (Standard)",
+        "url": "https://open.spotify.com/album/2PN0icbfw6JsxnWrNmksuO"
+      },
+      "artists": [
+        {
+          "name": "Casey J",
+          "url": "https://open.spotify.com/artist/0B0NzcRnTARbZc83a34cDd"
+        }
+      ],
+      "duration_ms": 469631,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1Le6O6aIBN69wCWL1psmLR"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "GRACELAND",
+        "url": "https://open.spotify.com/album/7CeLcdXA8rCbkZSbmZYM0S"
+      },
+      "artists": [
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 175813,
+      "name": "2nd Win",
+      "url": "https://open.spotify.com/track/2GjOk5EmK3njFZPx0aXtm4"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "The Higher Experience",
         "url": "https://open.spotify.com/album/6MjlmoY1Y0vYhGQ1ShRXzV"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 313146,
       "name": "No Ordinary Worship - Live",
       "url": "https://open.spotify.com/track/6YGfEESAaw90c7saDtwiej"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "I See Miracles",
-        "url": "https://open.spotify.com/album/09PFJeifkOxQbhkhV8igtM"
-      },
-      "artists": [
-        {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
-        }
-      ],
-      "duration_ms": 260431,
-      "name": "I See Miracles",
-      "url": "https://open.spotify.com/track/4c11HmomjkYU2wf9maxf17"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -587,22 +587,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Listen",
-        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
-      },
-      "artists": [
-        {
-          "name": "Tim Bowman Jr.",
-          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
-        }
-      ],
-      "duration_ms": 295213,
-      "name": "Your Love",
-      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
       },
@@ -619,18 +603,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "I Am (Radio Edit)",
-        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
+        "name": "Listen",
+        "url": "https://open.spotify.com/album/5YChjVISCxpP25SXcAeEQm"
       },
       "artists": [
         {
-          "name": "Jason Nelson",
-          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+          "name": "Tim Bowman Jr.",
+          "url": "https://open.spotify.com/artist/5A8ZfGPAh4EUTmOJ0Fck3l"
         }
       ],
-      "duration_ms": 287674,
-      "name": "I Am - Radio Edit",
-      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
+      "duration_ms": 295213,
+      "name": "Your Love",
+      "url": "https://open.spotify.com/track/0RZfOr4ZxPJYOGqfhSQqoo"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -647,6 +631,22 @@
       "duration_ms": 383552,
       "name": "By Myself",
       "url": "https://open.spotify.com/track/1yJQVmWI7KuCbVtG4jgysG"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "I Am (Radio Edit)",
+        "url": "https://open.spotify.com/album/5xnXnNzG7FUUrIZdiTxYot"
+      },
+      "artists": [
+        {
+          "name": "Jason Nelson",
+          "url": "https://open.spotify.com/artist/2UhHLKzq979iTCkLFurmef"
+        }
+      ],
+      "duration_ms": 287674,
+      "name": "I Am - Radio Edit",
+      "url": "https://open.spotify.com/track/1X2DFg7sUV1ajTbsJFJKqx"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -715,6 +715,22 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
+        "name": "Close",
+        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
+      },
+      "artists": [
+        {
+          "name": "Marvin Sapp",
+          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+        }
+      ],
+      "duration_ms": 249173,
+      "name": "Kind God",
+      "url": "https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
         "name": "Kingdom...LIVE!",
         "url": "https://open.spotify.com/album/6s3BIqDGjArQt2Pv26qB6a"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 306426,
       "name": "All of My Help",
       "url": "https://open.spotify.com/track/29RRapHwQNANgAdwc6HuPE"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
-        "name": "I'm All In",
-        "url": "https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK"
-      },
-      "artists": [
-        {
-          "name": "Maranda Curtis",
-          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
-        }
-      ],
-      "duration_ms": 203911,
-      "name": "I'm All In",
-      "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -763,18 +763,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Close",
-        "url": "https://open.spotify.com/album/61YnH58KCdWzLWjkbRES9H"
+        "name": "I'm All In",
+        "url": "https://open.spotify.com/album/2OGtoyigrfRs1h9TdZWlSK"
       },
       "artists": [
         {
-          "name": "Marvin Sapp",
-          "url": "https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo"
+          "name": "Maranda Curtis",
+          "url": "https://open.spotify.com/artist/28BlrKFyTd2woqU7ai8502"
         }
       ],
-      "duration_ms": 249173,
-      "name": "Kind God",
-      "url": "https://open.spotify.com/track/42lwMiKlH2nVmvnOtVFTHy"
+      "duration_ms": 203911,
+      "name": "I'm All In",
+      "url": "https://open.spotify.com/track/1ijoiBbxkaeqsGO0Dnsssn"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -835,22 +835,6 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "Love & Other Dreams",
-        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
-      },
-      "artists": [
-        {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        }
-      ],
-      "duration_ms": 290213,
-      "name": "Sunday Morning (Thinkin \u2018Bout You)",
-      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
-    },
-    {
-      "added_at": "2020-06-03 14:33:10",
-      "album": {
         "name": "Open Door (See You Later)",
         "url": "https://open.spotify.com/album/79GeSVwspNCUizEmG84J4M"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 255786,
       "name": "Open Door (See You Later)",
       "url": "https://open.spotify.com/track/6OtxcWnKrgxoFjcwV8WBBy"
+    },
+    {
+      "added_at": "2020-06-03 14:33:10",
+      "album": {
+        "name": "Love & Other Dreams",
+        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
+      },
+      "artists": [
+        {
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
+        }
+      ],
+      "duration_ms": 290213,
+      "name": "Sunday Morning (Thinkin \u2018Bout You)",
+      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
     },
     {
       "added_at": "2020-06-03 14:33:10",
@@ -1003,18 +1003,18 @@
     {
       "added_at": "2020-06-03 14:33:10",
       "album": {
-        "name": "It's Gonna Happen",
-        "url": "https://open.spotify.com/album/40iezMjEBFgpdQkHWjbCFy"
+        "name": "A Worshipper's Heart",
+        "url": "https://open.spotify.com/album/7AM048RcQMeKhZ9iwSNXIS"
       },
       "artists": [
         {
-          "name": "Jekalyn Carr",
-          "url": "https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH"
+          "name": "Todd Dulaney",
+          "url": "https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz"
         }
       ],
-      "duration_ms": 254120,
-      "name": "It's Gonna Happen",
-      "url": "https://open.spotify.com/track/0EaPrUg8xS77fedbknCF1t"
+      "duration_ms": 344019,
+      "name": "Victory Belongs To Jesus",
+      "url": "https://open.spotify.com/track/1Ewkl1ys052xqnnCGPssbv"
     }
   ],
   "unique_name": "Sundays Best",

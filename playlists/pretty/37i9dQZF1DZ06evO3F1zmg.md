@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 
 > This Is Saweetie\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,417 likes - 51 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,427 likes - 51 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3F1zmg.md) - [plain]
 | 50 | [DON'T SAY NOTHIN'](https://open.spotify.com/track/71OhlyZmlUaJ1yL20SR372) | [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [DON'T SAY NOTHIN'](https://open.spotify.com/album/1lcQCI355q0dW7gCrIs5x3) | 3:07 |
 | 51 | [Seesaw \(feat\. Saweetie\)](https://open.spotify.com/track/1rlASnWYQsgGz9g2YVCl6I) | [Kendra Jae](https://open.spotify.com/artist/1KcnqRVBBJ2FUZMQUn3k5P), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Seesaw](https://open.spotify.com/album/0fR9mr0fEAvAlLl0Ks5E0B) | 3:44 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMDRkODdkMDkwMjIxMzNhNDUxYWM1NDZjYTFhM2NiM2Qz`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGQ4NTEwMjZmYzliZTY2Mzc3NDU2Y2JjYzFlY2FmOWE4`

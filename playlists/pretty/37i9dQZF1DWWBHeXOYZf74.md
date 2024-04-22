@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWBHeXOYZf74.md) - [plain]
 
 > Genre\-less\. Quality first always\. Cover: UCHE YARA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,327,403 likes - 109 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,327,325 likes - 109 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

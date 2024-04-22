@@ -1,6 +1,6 @@
 {
   "description": "Get on down the road with these classic country tunes. Cover: Johnny Cash",
-  "num_followers": 399803,
+  "num_followers": 399799,
   "original_name": "Classic Country Drive",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
+        "name": "Ring Of Fire: The Best Of Johnny Cash",
+        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "Ring of Fire",
+      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
         "name": "Highwayman",
         "url": "https://open.spotify.com/album/6rFM5jHaGzwut3hGbG9pGU"
       },
@@ -251,22 +267,6 @@
       "duration_ms": 190800,
       "name": "Song of the South",
       "url": "https://open.spotify.com/track/2uX5f3x2cObov0iDAPln4o"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
-        "name": "Ring Of Fire: The Best Of Johnny Cash",
-        "url": "https://open.spotify.com/album/0ucV57dbnqmrGv9d60r6X2"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "Ring of Fire",
-      "url": "https://open.spotify.com/track/6YffUZJ2R06kyxyK6onezL"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -419,34 +419,38 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Southern Comfort",
-        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
+        "name": "Louisiana Woman, Mississippi Man",
+        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
       },
       "artists": [
         {
           "name": "Conway Twitty",
           "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Slow Hand",
-      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
+      "duration_ms": 151731,
+      "name": "Louisiana Woman, Mississippi Man",
+      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
     },
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Sings Heart Songs",
-        "url": "https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V"
+        "name": "Storms of Life",
+        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
       "artists": [
         {
-          "name": "Charley Pride",
-          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
+          "name": "Randy Travis",
+          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
         }
       ],
-      "duration_ms": 123466,
-      "name": "Kiss an Angel Good Mornin'",
-      "url": "https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE"
+      "duration_ms": 178973,
+      "name": "Diggin' Up Bones",
+      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -467,18 +471,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Storms of Life",
-        "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
+        "name": "Sings Heart Songs",
+        "url": "https://open.spotify.com/album/0426RVFAsCAeiUcCOq0J1V"
       },
       "artists": [
         {
-          "name": "Randy Travis",
-          "url": "https://open.spotify.com/artist/1pTuR132U5b4Rizal2Pr7m"
+          "name": "Charley Pride",
+          "url": "https://open.spotify.com/artist/69Fk1s1lzINOKqoSWjjEiE"
         }
       ],
-      "duration_ms": 178973,
-      "name": "Diggin' Up Bones",
-      "url": "https://open.spotify.com/track/6JdbV5DDltMVCyV0twmKwj"
+      "duration_ms": 123466,
+      "name": "Kiss an Angel Good Mornin'",
+      "url": "https://open.spotify.com/track/37GWhu8R61gTStMvVQfDuE"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -531,22 +535,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Louisiana Woman, Mississippi Man",
-        "url": "https://open.spotify.com/album/1t9NDn6KVCLkj5bD7a2xAS"
+        "name": "Mama Tried/ Pride In What I Am",
+        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
       },
       "artists": [
         {
-          "name": "Conway Twitty",
-          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Merle Haggard",
+          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
         }
       ],
-      "duration_ms": 151731,
-      "name": "Louisiana Woman, Mississippi Man",
-      "url": "https://open.spotify.com/track/02sENi9ULQ36x9mKo5B7XW"
+      "duration_ms": 134453,
+      "name": "Mama Tried",
+      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -567,18 +567,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Mama Tried/ Pride In What I Am",
-        "url": "https://open.spotify.com/album/7LmhShcQUdQf0vbfa6VUPn"
+        "name": "Southern Comfort",
+        "url": "https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9"
       },
       "artists": [
         {
-          "name": "Merle Haggard",
-          "url": "https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9"
+          "name": "Conway Twitty",
+          "url": "https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF"
         }
       ],
-      "duration_ms": 134453,
-      "name": "Mama Tried",
-      "url": "https://open.spotify.com/track/6h3YJ05BovN1Pgk145J3r9"
+      "duration_ms": 174640,
+      "name": "Slow Hand",
+      "url": "https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -695,22 +695,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Rose Colored Glasses",
-        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
-      },
-      "artists": [
-        {
-          "name": "John Conlee",
-          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
-        }
-      ],
-      "duration_ms": 200493,
-      "name": "Rose Colored Glasses",
-      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Storms of Life",
         "url": "https://open.spotify.com/album/6rOVPyzQ5s7cUUyHHplESf"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 186346,
       "name": "On the Other Hand",
       "url": "https://open.spotify.com/track/5MkOctZG8LI9uHzpY7ncWj"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "Rose Colored Glasses",
+        "url": "https://open.spotify.com/album/3rRwWX6dg9IBQBalgqEgSN"
+      },
+      "artists": [
+        {
+          "name": "John Conlee",
+          "url": "https://open.spotify.com/artist/4Wfq6fHhifS8MmQOcJ18TP"
+        }
+      ],
+      "duration_ms": 200493,
+      "name": "Rose Colored Glasses",
+      "url": "https://open.spotify.com/track/1Ko3qmw2ItUEefsjDjpLWL"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -895,18 +895,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "You're The One",
+        "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "The Oak Ridge Boys",
+          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
         }
       ],
-      "duration_ms": 190800,
-      "name": "Country Club",
-      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
+      "duration_ms": 174693,
+      "name": "Y'all Come Back Saloon",
+      "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -927,18 +927,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "You're The One",
-        "url": "https://open.spotify.com/album/4q0ML8wcGoyyMl3hOOACtJ"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
-          "name": "The Oak Ridge Boys",
-          "url": "https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 174693,
-      "name": "Y'all Come Back Saloon",
-      "url": "https://open.spotify.com/track/790HdFZdub1eobl2iLzcem"
+      "duration_ms": 190800,
+      "name": "Country Club",
+      "url": "https://open.spotify.com/track/6o7BCdJjGvHBBPMb4ZrA68"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "The Best Of Jimmy Dean",
-        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Dean",
-          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
-        }
-      ],
-      "duration_ms": 182560,
-      "name": "Big Bad John",
-      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "The Essential Jim Reeves",
         "url": "https://open.spotify.com/album/2pU9doTVvJH0xeZQnzvsPU"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 142893,
       "name": "Welcome to My World",
       "url": "https://open.spotify.com/track/2kfKzsVOdfeh778FtuT5bo"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "The Best Of Jimmy Dean",
+        "url": "https://open.spotify.com/album/2vCenQXDX4DqtRShqJzCci"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Dean",
+          "url": "https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC"
+        }
+      ],
+      "duration_ms": 182560,
+      "name": "Big Bad John",
+      "url": "https://open.spotify.com/track/61uAY9xdzYiIbYJ07XvKso"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
-      },
-      "artists": [
-        {
-          "name": "Johnny Paycheck",
-          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "I'm the Only Hell (Mama Ever Raised)",
-      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
-    },
-    {
-      "added_at": "2023-08-21 00:02:44",
-      "album": {
         "name": "Chiseled In Stone",
         "url": "https://open.spotify.com/album/5uiVA8AloRMncawS0H1cJP"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 145200,
       "name": "Set 'Em Up Joe",
       "url": "https://open.spotify.com/track/3NK1S43wIXbYhWHCjQOrnM"
+    },
+    {
+      "added_at": "2023-08-21 00:02:44",
+      "album": {
+        "name": "RCA Country Legends: Don Gibson",
+        "url": "https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As"
+      },
+      "artists": [
+        {
+          "name": "Don Gibson",
+          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+        }
+      ],
+      "duration_ms": 155040,
+      "name": "Sea of Heartbreak",
+      "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "RCA Country Legends: Don Gibson",
-        "url": "https://open.spotify.com/album/4SWOxLi7nLs2Gjyv22q5As"
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3"
       },
       "artists": [
         {
-          "name": "Don Gibson",
-          "url": "https://open.spotify.com/artist/4xcYVPssil6vbG6tq3W43S"
+          "name": "Johnny Paycheck",
+          "url": "https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD"
         }
       ],
-      "duration_ms": 155040,
-      "name": "Sea of Heartbreak",
-      "url": "https://open.spotify.com/track/0xERMvJD8djz1ZBjPSRLvM"
+      "duration_ms": 186293,
+      "name": "I'm the Only Hell (Mama Ever Raised)",
+      "url": "https://open.spotify.com/track/73zqRPuK9AEBiy8X9XFJXR"
     },
     {
       "added_at": "2023-08-21 00:02:44",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2023-08-21 00:02:44",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu"
+        "name": "The Essential Willie Nelson",
+        "url": "https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU"
       },
       "artists": [
         {
-          "name": "Ricky Skaggs",
-          "url": "https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 188893,
-      "name": "Highway 40 Blues",
-      "url": "https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ"
+      "duration_ms": 152893,
+      "name": "On the Road Again - Live at Austin, Texas - Fall 1979",
+      "url": "https://open.spotify.com/track/7MbEJl6xVNVRVZ1sqwqLMN"
     }
   ],
   "unique_name": "Classic Country Drive",

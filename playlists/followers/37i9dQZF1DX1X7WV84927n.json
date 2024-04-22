@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 356825,
+  "2024-04-22": 356647,
   "date_first_scraped": "2021-12-21",
   "description": "For full-volume lovers, new and recent favorites. Cover: Billy Morrison",
   "name": "Hard Rock",
@@ -433,7 +433,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 337346,
       "name": "Allergic To Food",
       "url": "https://open.spotify.com/track/6PW0oztSFitYKVfDqzzG6q"
@@ -993,6 +993,28 @@
       "duration_ms": 223750,
       "name": "Best Of Me",
       "url": "https://open.spotify.com/track/6UlQHIRJLrUcWFcGgYoo8l"
+    },
+    {
+      "album": {
+        "name": "Better Days (feat. Dorothy)",
+        "url": "https://open.spotify.com/album/5kg2p6l4S8ggKJFzioquG6"
+      },
+      "artists": [
+        {
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+        },
+        {
+          "name": "Dorothy",
+          "url": "https://open.spotify.com/artist/6IOvhXyk5edbA2DVaeP9Up"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225881,
+      "name": "Better Days (feat. Dorothy)",
+      "url": "https://open.spotify.com/track/3qYVgtSRgpfVwipxF52d4T"
     },
     {
       "album": {
@@ -5283,6 +5305,32 @@
       "duration_ms": 206506,
       "name": "In the Beginning of Time",
       "url": "https://open.spotify.com/track/2t2aSAxxNZVWjgkLizBMki"
+    },
+    {
+      "album": {
+        "name": "In The Mean Time feat. Ash Costello of New Years Day",
+        "url": "https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V"
+      },
+      "artists": [
+        {
+          "name": "Lacuna Coil",
+          "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
+        },
+        {
+          "name": "Ash Costello",
+          "url": "https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn"
+        },
+        {
+          "name": "New Years Day",
+          "url": "https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "In The Mean Time feat. Ash Costello of New Years Day",
+      "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
     },
     {
       "album": {
@@ -12767,7 +12815,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 230124,
       "name": "You & I",
       "url": "https://open.spotify.com/track/1BRayrsxaSwsIGn43iUxgZ"

@@ -235,22 +235,6 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "MONOCHROME",
-        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
-      },
-      "artists": [
-        {
-          "name": "Lee Hyori",
-          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
-        }
-      ],
-      "duration_ms": 235624,
-      "name": "Miss Korea",
-      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
         "name": "KILL THIS LOVE",
         "url": "https://open.spotify.com/album/3PNxZ3BELbUXJ1XLktXiHz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 191050,
       "name": "Kill This Love",
       "url": "https://open.spotify.com/track/6hvczQ05jc1yGlp9zhb95V"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "MONOCHROME",
+        "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
+      },
+      "artists": [
+        {
+          "name": "Lee Hyori",
+          "url": "https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5"
+        }
+      ],
+      "duration_ms": 235624,
+      "name": "Miss Korea",
+      "url": "https://open.spotify.com/track/7v4T4qeHh2Y8Rg7HQWaFSS"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -331,6 +331,22 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
+        "name": "THE ALBUM",
+        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
+      },
+      "artists": [
+        {
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "duration_ms": 201122,
+      "name": "Pretty Savage",
+      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -355,6 +371,22 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 235779,
+      "name": "Go Go",
+      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
         "name": "Mar\u00eda",
         "url": "https://open.spotify.com/album/5YYY7QCkq3pSw4Hoc1m0D3"
       },
@@ -375,6 +407,22 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
+        "name": "What Type of X",
+        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
+      },
+      "artists": [
+        {
+          "name": "Jessi",
+          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "What Type of X",
+      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
         "name": "Queendom - The 6th Mini Album",
         "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
       },
@@ -387,38 +435,6 @@
       "duration_ms": 200680,
       "name": "Pose",
       "url": "https://open.spotify.com/track/6RTF5urAOB5C52nLxeRK5h"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
-        "name": "To Anyone",
-        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
-      },
-      "artists": [
-        {
-          "name": "2NE1",
-          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
-        }
-      ],
-      "duration_ms": 219453,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
-        "name": "THE ALBUM",
-        "url": "https://open.spotify.com/album/71O60S5gIJSIAhdnrDIh3N"
-      },
-      "artists": [
-        {
-          "name": "BLACKPINK",
-          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
-        }
-      ],
-      "duration_ms": 201122,
-      "name": "Pretty Savage",
-      "url": "https://open.spotify.com/track/1XnpzbOGptRwfJhZgLbmSr"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -439,38 +455,6 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 235779,
-      "name": "Go Go",
-      "url": "https://open.spotify.com/track/4kZoZfj7IBg8eo1JZ2vsGO"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
-        "name": "What Type of X",
-        "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
-      },
-      "artists": [
-        {
-          "name": "Jessi",
-          "url": "https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "What Type of X",
-      "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 214813,
       "name": "Summer Tights",
       "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "To Anyone",
+        "url": "https://open.spotify.com/album/2SNSGfhfcfBLyQDTXMCPXG"
+      },
+      "artists": [
+        {
+          "name": "2NE1",
+          "url": "https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp"
+        }
+      ],
+      "duration_ms": 219453,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/4ebNVkfNL5kHuxr3o5K93R"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "WANNA BE MYSELF",
-        "url": "https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI"
-      },
-      "artists": [
-        {
-          "name": "MAMAMOO",
-          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
-        }
-      ],
-      "duration_ms": 206240,
-      "name": "WANNA BE MYSELF",
-      "url": "https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
         "name": "MONOCHROME",
         "url": "https://open.spotify.com/album/7Bhg7EOxBASEzLV3U6DnjK"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 207466,
       "name": "Bad Girls",
       "url": "https://open.spotify.com/track/2IrmdHJjwBH1pFIMcTJ1xq"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "WANNA BE MYSELF",
+        "url": "https://open.spotify.com/album/0n62copUsWrST9M6AsYfZI"
+      },
+      "artists": [
+        {
+          "name": "MAMAMOO",
+          "url": "https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G"
+        }
+      ],
+      "duration_ms": 206240,
+      "name": "WANNA BE MYSELF",
+      "url": "https://open.spotify.com/track/0VPBuXtEG16NtN5ZGYJ7lV"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -579,26 +579,6 @@
       "duration_ms": 177973,
       "name": "WE ARE YOUNG",
       "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -655,6 +635,26 @@
       "duration_ms": 223973,
       "name": "End Better (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "SOLO DAY",
-        "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
-      },
-      "artists": [
-        {
-          "name": "B1A4",
-          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
-        }
-      ],
-      "duration_ms": 199040,
-      "name": "SOLO DAY",
-      "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
         "name": "Street Woman Fighter(SWF) Special",
         "url": "https://open.spotify.com/album/3iW6rZmhiSLNveTOrX26z6"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 139093,
       "name": "NO BREAK (Prod. GooseBumps & Simon Dominic)",
       "url": "https://open.spotify.com/track/7p5iFapJ56W9Swmu9NT00L"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "SOLO DAY",
+        "url": "https://open.spotify.com/album/5bzGBXIqZIiqKJHDTNP8ix"
+      },
+      "artists": [
+        {
+          "name": "B1A4",
+          "url": "https://open.spotify.com/artist/3sxWOFw4MSN54SIQ8np6iG"
+        }
+      ],
+      "duration_ms": 199040,
+      "name": "SOLO DAY",
+      "url": "https://open.spotify.com/track/58wbNn4eEsvAqTz4JJxn9L"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "Fashion Hoarder",
-        "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
-      },
-      "artists": [
-        {
-          "name": "Beenzino",
-          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
-        },
-        {
-          "name": "ZENE THE ZILLA",
-          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
-        }
-      ],
-      "duration_ms": 187061,
-      "name": "Fashion Hoarder",
-      "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
         "name": "GOOD",
         "url": "https://open.spotify.com/album/4UlGIso11ixt3WiNUPZ4kT"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 180006,
       "name": "GOOD",
       "url": "https://open.spotify.com/track/4erhEGuOGQgjv3p1bccnpn"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "Fashion Hoarder",
+        "url": "https://open.spotify.com/album/54raPqsVO70w92rOVD1plB"
+      },
+      "artists": [
+        {
+          "name": "Beenzino",
+          "url": "https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg"
+        },
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "duration_ms": 187061,
+      "name": "Fashion Hoarder",
+      "url": "https://open.spotify.com/track/74yV7OO9okeK2VROw9k8aq"
     },
     {
       "added_at": "2024-03-27 05:45:57",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-27 05:45:57",
       "album": {
-        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
-      },
-      "artists": [
-        {
-          "name": "Whee In",
-          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Cheers!",
-      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
-    },
-    {
-      "added_at": "2024-03-27 05:45:57",
-      "album": {
         "name": "a tempo",
         "url": "https://open.spotify.com/album/1XJ7xgz0ryXkAWVwmSEpno"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 193790,
       "name": "Missing You (feat. Dvwn)",
       "url": "https://open.spotify.com/track/7j7p9sU2Obtf3daiEDMF8e"
+    },
+    {
+      "added_at": "2024-03-27 05:45:57",
+      "album": {
+        "name": "Work Later Drink Now S2, Pt. 3 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/0Z5UmfvsfNUMVedakree1B"
+      },
+      "artists": [
+        {
+          "name": "Whee In",
+          "url": "https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Cheers!",
+      "url": "https://open.spotify.com/track/2VFKbSBzOeLq3FFMcrkpXl"
     }
   ],
   "unique_name": "I'M FINE, SOLO. AND U?",

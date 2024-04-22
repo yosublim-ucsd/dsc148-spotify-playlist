@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 50169,
+  "2024-04-22": 50234,
   "date_first_scraped": "2023-05-05",
   "description": "Home to current Pakistani Hits. \ud83c\uddf5\ud83c\uddf0 Cover: Kaifi Khalil",
   "name": "Pakka Hit Hai",
@@ -21,6 +21,28 @@
       "duration_ms": 193810,
       "name": "12 Saal",
       "url": "https://open.spotify.com/track/00KoecK1MTjqUamcy5Tm0l"
+    },
+    {
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/4N7aRRCARMSm26NnolcFuq"
+      },
+      "artists": [
+        {
+          "name": "Star Shah",
+          "url": "https://open.spotify.com/artist/7GJ4wHYYwqqM8wnNtk8H1E"
+        },
+        {
+          "name": "Zeeshan Ali",
+          "url": "https://open.spotify.com/artist/1Bz46nDCMO1UOKp9GJjL92"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302306,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3dhEu1ux3U7wwoQr5xFO6h"
     },
     {
       "album": {

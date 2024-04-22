@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3QX3YzE51B2iuT5ol1U6BC">Murda Beatz</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,903 likes - 316 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,894 likes - 316 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -213,8 +213,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 203 | [Misery Loves Company](https://open.spotify.com/track/4ui1Pja7YshNBdalTg6Swp) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Bigger Than Life Or Death Part 2](https://open.spotify.com/album/50590zy2jXipuPgHomTXgv) | 1:43 |
 | 204 | [They Said It](https://open.spotify.com/track/1TOTyT39WSgeuSFdBUu0yh) | [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale) | [Trust the Process II: Undefeated](https://open.spotify.com/album/7f5WIkHMRgBYvkZd9Qd0V2) | 3:53 |
 | 205 | [Tango \(Go\)](https://open.spotify.com/track/7BlCFDAHV17zwgjj2avheX) | [Preme](https://open.spotify.com/artist/0bdJZl7TDeiymDYzMJnVh2) | [Light Of Day](https://open.spotify.com/album/5jp7IiLD8lRVVmf8gfeHOV) | 3:03 |
-| 206 | [No Discussion \(feat\. Aj Tracey\)](https://open.spotify.com/track/1VhKoWGmQcfJQGfe9oD0WU) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Struggle Before Glory](https://open.spotify.com/album/6cguupMoW9kXgg6Nbuk6fC) | 3:01 |
-| 207 | [Solteiras Shake](https://open.spotify.com/track/7dRLn6Fgj25i2jCb0YGhaK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:07 |
+| 206 | [Solteiras Shake](https://open.spotify.com/track/7dRLn6Fgj25i2jCb0YGhaK) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Dj Gabriel do Borel](https://open.spotify.com/artist/6HJiLhKqnOh32p3LSNWsR3) | [VILÃ](https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh) | 2:07 |
+| 207 | [No Discussion \(feat\. Aj Tracey\)](https://open.spotify.com/track/1VhKoWGmQcfJQGfe9oD0WU) | [Smoke Dawg](https://open.spotify.com/artist/7k6kjJwn24BmBPoBpoepcd), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [Struggle Before Glory](https://open.spotify.com/album/6cguupMoW9kXgg6Nbuk6fC) | 3:01 |
 | 208 | [Intro \(Prod\. Murda Beatz\)](https://open.spotify.com/track/4fR3tkiBMdYSoNAKMTQIvi) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 2:22 |
 | 209 | [Seattle](https://open.spotify.com/track/7CBmiFdp5vj83mstdl3Qmu) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane](https://open.spotify.com/album/6m30knOGvtlQGoN4qMqtbp) | 2:33 |
 | 210 | [Contacts](https://open.spotify.com/track/5AhNq2KzWTlgJwx5oKybwD) | [Shordie Shordie](https://open.spotify.com/artist/5fyvTyetDr7gvLafBsEEhU), [Murda Beatz](https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC) | [Memory Lane 2](https://open.spotify.com/album/53UEhZvzn3wSJQlhZKY4Cd) | 2:23 |
@@ -325,4 +325,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFA0CfcznYLLB.md) - [plain]
 | 315 | [On God](https://open.spotify.com/track/1rmWQqmKWRtm9bks6Lr0Sp) | [Majin Murda](https://open.spotify.com/artist/7LLv3nfvIIYTqBAV8XjlO9) | [3K](https://open.spotify.com/album/7zjBIckQRALycP2MCWEYUg) | 3:27 |
 | 316 | [Peace Of Mind](https://open.spotify.com/track/6xISF2zBnsQ8SGWT4KmWsC) | [Heightsbaby](https://open.spotify.com/artist/4fEE1O32L50PqVbKhnfkCD) | [Peace Of Mind](https://open.spotify.com/album/1Kqzy0cn7DIKQKkHqTqQD6) | 2:55 |
 
-Snapshot ID: `Mjg1NjExNTYsMDAwMDAwMDA3NWRlMDdiNzg3NDBmNDhiNzRhYjUwOTM0OWE4NzNmYQ==`
+Snapshot ID: `Mjg1NjI1OTYsMDAwMDAwMDA4ZDk3OGZlNTFhODkzNzFhNjAwN2UxMjEzN2E3N2M1ZA==`

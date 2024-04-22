@@ -2,16 +2,16 @@
 
 ### [This Is Baby Tate](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2am4qZ)
 
-> This Is Baby Tate\. Los temas esenciales, todos en una lista.
+> This is Baby Tate\. The essential tracks, all in one playlist.
 
-90 songs - 4 hr 22 min
+91 songs - 4 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [4Lifers](https://open.spotify.com/track/2UeLzlhYSfNUdHDqJTNoYV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:20 | 2022-10-28 | 2022-11-28 |
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/4I8BPrBeb1LjE4QHFYBJvP) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 3:04 | 2024-01-20 |  |
 | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/track/69TzD9PfuWekKoak6pAdcV) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp) | [Ain’t No Love \(feat\. 2 Chainz\)](https://open.spotify.com/album/4zVXUfWSP8ndHCQUW1a6HI) | 3:04 | 2022-10-28 | 2024-01-21 |
-| [ATM \(ft\. Baby Tate\)](https://open.spotify.com/track/0MdSTZKOylxdSzSKVwOgUL) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/album/3V6buZJlxOu0smUddpIak2) | 2:40 | 2023-04-22 |  |
+| [ATM \(ft\. Baby Tate\)](https://open.spotify.com/track/0MdSTZKOylxdSzSKVwOgUL) | [Nonô](https://open.spotify.com/artist/2izgj6WOKJsuCRCQUKOoVO), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [ATM \(ft\. Baby Tate\)](https://open.spotify.com/album/3V6buZJlxOu0smUddpIak2) | 2:40 | 2023-04-22 | 2024-04-22 |
 | [B.O.M.B.S.](https://open.spotify.com/track/4D8KWoUe3oTaQSQq928X7B) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [B.O.M.B.S.](https://open.spotify.com/album/26Mu53kDQHQ5wIjUhpiMhY) | 3:13 | 2022-10-28 | 2023-02-09 |
 | [Bad Lil Bish \(feat\. Baby Tate & Black Boe\)](https://open.spotify.com/track/6pZFQmfGK8NnU0xrvK42ng) | [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Black Boe](https://open.spotify.com/artist/0H6CjdCp9GMNoFgMVALJOk) | [Better Than Drugs](https://open.spotify.com/album/1Z7KnOiOsVLzW2qkgYatxY) | 3:09 | 2022-10-28 | 2023-05-17 |
 | [Baecation](https://open.spotify.com/track/34ukbJprybxATIMVL5ku4x) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [After The Rain: Deluxe](https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe) | 3:02 | 2022-10-28 |  |
@@ -79,6 +79,7 @@
 | [Pedi](https://open.spotify.com/track/4W302qkLfaNUiqkkV6E6HT) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:05 | 2022-11-27 |  |
 | [Pedi](https://open.spotify.com/track/718LR2LTJEjk61pTBn2cOo) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pedi](https://open.spotify.com/album/0sy5zTEXULEyswNOxnAoLU) | 2:05 | 2022-10-28 | 2022-11-28 |
 | [Perfect](https://open.spotify.com/track/44AlUStg32yZ3xwhhrUGxq) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Mani/Pedi](https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh) | 2:52 | 2022-10-28 |  |
+| [Picky \(feat\. Baby Tate\)](https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0) | [Leaf](https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Picky \(feat\. Baby Tate\)](https://open.spotify.com/album/67G5PaoGn8tGMLQLrq9Cab) | 2:39 | 2024-04-22 |  |
 | [Playground \(from the series Arcane League of Legends\) \- Baby Tate Remix](https://open.spotify.com/track/2TRtAPADsGBBXaEmXEh7dt) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x), [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR) | [Arcane League of Legends \(The Remixes\)](https://open.spotify.com/album/6LUMiog4suQdCv2F31U9pq) | 2:31 | 2022-11-20 |  |
 | [Poof Be Gone \(with Yung Baby Tate & Yvette and feat\. Cheerlebridee\)](https://open.spotify.com/track/7ddJSaMdfeSeCwJzOYcE2W) | [KyleYouMadeThat](https://open.spotify.com/artist/7qlye19Yivz8Iog1ueVGzw), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4), [Yvette](https://open.spotify.com/artist/5rirYSrpdHexU3pcU1ANrV), [Cheerlebridee](https://open.spotify.com/artist/2I6BKeCoduZbfZJzpSNwUj) | [Poof Be Gone](https://open.spotify.com/album/1MxPUBtYCzZ3qSxF5XUf9P) | 1:52 | 2022-10-28 |  |
 | [Pretty Girl](https://open.spotify.com/track/3oFlyenXjgsCoLCO90sAdY) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Pretty Girl](https://open.spotify.com/album/0cO634E61hUhjEkrVm9VOf) | 2:33 | 2022-12-04 | 2023-03-05 |

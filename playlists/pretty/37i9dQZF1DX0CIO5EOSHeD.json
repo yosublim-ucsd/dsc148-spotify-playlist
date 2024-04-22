@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 485604,
+  "num_followers": 485568,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -795,22 +795,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Fade",
-        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
-      },
-      "artists": [
-        {
-          "name": "Launder",
-          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
-        }
-      ],
-      "duration_ms": 203444,
-      "name": "Fade",
-      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "It's In My Head",
         "url": "https://open.spotify.com/album/3eeewwhmPTGJzW21G4wFhO"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 181792,
       "name": "It's In My Head",
       "url": "https://open.spotify.com/track/1m0gveci0Fk64DpWhVxwzL"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Fade",
+        "url": "https://open.spotify.com/album/7mvQaGNnewjly0RNWdfiNT"
+      },
+      "artists": [
+        {
+          "name": "Launder",
+          "url": "https://open.spotify.com/artist/34oS6XgB17t0Gm7623KXLh"
+        }
+      ],
+      "duration_ms": 203444,
+      "name": "Fade",
+      "url": "https://open.spotify.com/track/56aGCgQHz0eRCNXcuNY99B"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Teen Mom",
-        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 222803,
-      "name": "Teen Mom",
-      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "End Of The Day (music from the film Anonymous Club)",
         "url": "https://open.spotify.com/album/0krQrRHXegSUt9UxuH0br5"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 131107,
       "name": "Start Somewhere",
       "url": "https://open.spotify.com/track/5nq6JuSSC7quMwNqfHBRVv"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Teen Mom",
+        "url": "https://open.spotify.com/album/5fNJayJ6PmV9QkAYUeCRea"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 222803,
+      "name": "Teen Mom",
+      "url": "https://open.spotify.com/track/0RZ4aDEVxe22PYSxGxAthT"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Le feu",
-        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 231358,
-      "name": "Le feu",
-      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Anti-glory",
         "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 210640,
       "name": "Anti-glory",
       "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Le feu",
+        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 231358,
+      "name": "Le feu",
+      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Attempt",
-        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
-      },
-      "artists": [
-        {
-          "name": "Far Caspian",
-          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
-        }
-      ],
-      "duration_ms": 281906,
-      "name": "Attempt",
-      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Makeup",
         "url": "https://open.spotify.com/album/4pBMcr7cjlbsB7MkMiuA0H"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 208101,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Attempt",
+        "url": "https://open.spotify.com/album/5E28eyKT4NRsWuFY1o0yau"
+      },
+      "artists": [
+        {
+          "name": "Far Caspian",
+          "url": "https://open.spotify.com/artist/0EzsHuJxUDcfqSqvoPhKG4"
+        }
+      ],
+      "duration_ms": 281906,
+      "name": "Attempt",
+      "url": "https://open.spotify.com/track/0a7RXqXcCSNeo7WxynoNka"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Royal Headache",
-        "url": "https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN"
-      },
-      "artists": [
-        {
-          "name": "Royal Headache",
-          "url": "https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1"
-        }
-      ],
-      "duration_ms": 93146,
-      "name": "Surprise",
-      "url": "https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Warning Sign (Alt Version)",
         "url": "https://open.spotify.com/album/622AyvYosXOdxnbW2CprMx"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 179669,
       "name": "Warning Sign - Alt Version",
       "url": "https://open.spotify.com/track/1rIols5fQBAIwsCuN4kFXG"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Royal Headache",
+        "url": "https://open.spotify.com/album/2g0N32g0cQXFDp4QnIa1RN"
+      },
+      "artists": [
+        {
+          "name": "Royal Headache",
+          "url": "https://open.spotify.com/artist/01Jsi7Q2a1GdLvNShahaj1"
+        }
+      ],
+      "duration_ms": 93146,
+      "name": "Surprise",
+      "url": "https://open.spotify.com/track/7d4bEIDNRgTWUTOZqWzFfK"
     },
     {
       "added_at": "2023-12-02 02:07:22",

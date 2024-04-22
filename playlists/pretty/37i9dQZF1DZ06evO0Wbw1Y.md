@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 
 ### [This Is Ventino](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Wbw1Y)
 
-> This is Ventino\. The essential tracks, all in one playlist.
+> This Is Ventino\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,474 likes - 43 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,470 likes - 43 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 27 | [Combustible](https://open.spotify.com/track/7B887UeJFfm4uZrWHdVLx2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Combustible](https://open.spotify.com/album/1zNoHpkZ3BCvkW1LJfTONC) | 2:46 |
 | 28 | [Caramelo \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/5rQ55a8vrrmKTIOcruNajD) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:38 |
 | 29 | [Ya No Quiero Amarte](https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya No Quiero Amarte](https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5) | 3:08 |
-| 30 | [Por Qué Te Vas](https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Por Qué Te Vas](https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3) | 3:21 |
-| 31 | [Vámonos Antes](https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Vámonos Antes](https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI) | 3:30 |
+| 30 | [Vámonos Antes](https://open.spotify.com/track/0w7ywHLY22Fb2uQMCd0YD5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Vámonos Antes](https://open.spotify.com/album/42IH1jOQlgWayPXVBoTfBI) | 3:30 |
+| 31 | [Por Qué Te Vas](https://open.spotify.com/track/6e9x0Bw1mQEM84tR403zl3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Por Qué Te Vas](https://open.spotify.com/album/6tu0Ff3lJRlFva2xMh7zB3) | 3:21 |
 | 32 | [Entre Mis Planes \- Banda Sonora Original De La Serie De Televisión](https://open.spotify.com/track/4u1nJinarCNYXhbyE9LIb3) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Caracol Televisión](https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm) | [Ventino: El Precio De La Gloria \(Banda Sonora Original De La Serie De Televisión\)](https://open.spotify.com/album/1yZC3hn1Adr59UlR6g0NBx) | 2:38 |
 | 33 | [Soltar Tu Mano \(feat\. Román Torres\)](https://open.spotify.com/track/0PFPvBVuzKoQTVu9jkePzj) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Román Torres](https://open.spotify.com/artist/1LqUT7DfWYks6bAltUOlOg) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:15 |
 | 34 | [Cosas Pendientes](https://open.spotify.com/track/7ulwug8z6klrIGZ2hjl47c) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Cosas Pendientes](https://open.spotify.com/album/1rdheyQu3kEBiGOT6l4jFa) | 3:01 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Wbw1Y.md) - [plain]
 | 36 | [De 0 a 100](https://open.spotify.com/track/758aruGJmpUvoLtBc7GH5F) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [De 0 a 100](https://open.spotify.com/album/1LGhGflurGnPJAINGAS7nW) | 2:48 |
 | 37 | [Popurrí de Juan Gabriel](https://open.spotify.com/track/3gDoyUvY3ok0EJfpu1lSn0) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Popurrí de Juan Gabriel](https://open.spotify.com/album/6Q9uzSD6sQbbWMg6oUFrAQ) | 4:54 |
 | 38 | [Mariposas](https://open.spotify.com/track/2NXjSc70bijXn2OXzkRzCb) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Mariposas](https://open.spotify.com/album/2fMiZ4guqZIS5f0CoCh2Lv) | 2:30 |
-| 39 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
-| 40 | [Stop](https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Stop](https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1) | 2:43 |
+| 39 | [Stop](https://open.spotify.com/track/495Hm09V13VOx1mfwYVYQo) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Stop](https://open.spotify.com/album/77Jrt3VPHNwlYIubPNdkK1) | 2:43 |
+| 40 | [Otra Noche](https://open.spotify.com/track/0Ls4i5oy30p9qwkX47hBa2) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:18 |
 | 41 | [ALÓ](https://open.spotify.com/track/4e9MlCrkbOFfy0xlYJfQsM) | [Kexxy Pardo](https://open.spotify.com/artist/2m6kEXGT6VWc6JqJj36iBx), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [ALÓ](https://open.spotify.com/album/5pAD2S8xRypRkMR2WqwqhH) | 3:27 |
 | 42 | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6), [Francy](https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1), [Martina La Peligrosa](https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n) | [Más Fuertes \(feat\. Andrés Cepeda, Francy, Pedrina & Martina La Peligrosa\)](https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR) | 3:03 |
 | 43 | [Estás](https://open.spotify.com/track/190oPZ25kanU2CRpgi801e) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD), [Jeon](https://open.spotify.com/artist/3ECsaSd1fom8coUUkkFzqt) | [Otra Noche](https://open.spotify.com/album/3c9rfTuSviV1bZBnXURf27) | 3:12 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMGZkYTRjYjBkYzE2NTUxYmEyMWI2OTIwMzYzZTU1NDc5`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDVmMmEwZmY1NjA4MDc4MDZjZDliYWVmN2U5ZTg4ZDcy`

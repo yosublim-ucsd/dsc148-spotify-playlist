@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 815959,
+  "2024-04-22": 814783,
   "date_first_scraped": "2022-05-26",
   "description": "Get the chill vibes going and flowing \u2728 Las vibras tranqui que ocupas en tu vida.",
   "name": "chill latino",
@@ -801,6 +801,24 @@
       "duration_ms": 171357,
       "name": "Chistes Malos",
       "url": "https://open.spotify.com/track/18u0LkneTkVliL6KU08bP9"
+    },
+    {
+      "album": {
+        "name": "Aqu\u00ed Estoy",
+        "url": "https://open.spotify.com/album/1akofGzJY1aWUjkQK1qs6o"
+      },
+      "artists": [
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176033,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/22FInoTbMz4v3xGdZThI5p"
     },
     {
       "album": {
@@ -3453,7 +3471,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 187933,
       "name": "Paralizado",
       "url": "https://open.spotify.com/track/1FEYsHYeKFrNzWm6R3OM30"

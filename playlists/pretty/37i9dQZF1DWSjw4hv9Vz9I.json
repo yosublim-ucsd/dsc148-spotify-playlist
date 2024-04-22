@@ -1,6 +1,6 @@
 {
   "description": "A neo-classic sound for the road. Cover: Thee Sacred Souls",
-  "num_followers": 133448,
+  "num_followers": 133494,
   "original_name": "Retro Road Trip",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2021-07-13 21:11:09",
       "album": {
+        "name": "Good Thing",
+        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 207306,
+      "name": "Bad Bad News",
+      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
         "name": "Ventura",
         "url": "https://open.spotify.com/album/0YF8PfcGbsKg5IaFyPnlyY"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 219332,
       "name": "Make It Better (feat. Smokey Robinson)",
       "url": "https://open.spotify.com/track/4SBVWkRIMJ6WBCYPvr5Bwr"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Good Thing",
-        "url": "https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8"
-      },
-      "artists": [
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 207306,
-      "name": "Bad Bad News",
-      "url": "https://open.spotify.com/track/7FxzgizJRGTQ3fxUqfvljg"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -351,22 +351,6 @@
     {
       "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Sea of Noise",
-        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
-      },
-      "artists": [
-        {
-          "name": "St. Paul & The Broken Bones",
-          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
-        }
-      ],
-      "duration_ms": 196866,
-      "name": "Flow with It (You Got Me Feeling Like)",
-      "url": "https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l"
-    },
-    {
-      "added_at": "2022-12-13 18:45:33",
-      "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/1aM7FK3fr3L00Y3q79TXns"
       },
@@ -411,6 +395,22 @@
       "duration_ms": 227680,
       "name": "Atlas",
       "url": "https://open.spotify.com/track/3a28WmAKhiRvQATY3tfk5l"
+    },
+    {
+      "added_at": "2022-12-13 18:45:33",
+      "album": {
+        "name": "Sea of Noise",
+        "url": "https://open.spotify.com/album/2fRc3TJSXKXGFdnmcm17p2"
+      },
+      "artists": [
+        {
+          "name": "St. Paul & The Broken Bones",
+          "url": "https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o"
+        }
+      ],
+      "duration_ms": 196866,
+      "name": "Flow with It (You Got Me Feeling Like)",
+      "url": "https://open.spotify.com/track/2eM4Ew20VXdjBhm6a6Cs9l"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -853,20 +853,20 @@
       "url": "https://open.spotify.com/track/3fPBXNuHlH4N3hmiEzK5y0"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
+      "added_at": "2022-12-13 18:45:33",
       "album": {
-        "name": "Black Hole Rainbow",
-        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
+        "name": "Fighting for Peace",
+        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
       "artists": [
         {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
         }
       ],
-      "duration_ms": 245080,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
+      "duration_ms": 202058,
+      "name": "Fighting for Peace",
+      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -885,20 +885,20 @@
       "url": "https://open.spotify.com/track/5QZdS4lYhW27Y8RJGSdPfV"
     },
     {
-      "added_at": "2022-12-13 18:45:33",
+      "added_at": "2021-07-13 21:11:09",
       "album": {
-        "name": "Fighting for Peace",
-        "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
+        "name": "Black Hole Rainbow",
+        "url": "https://open.spotify.com/album/0F6GEmGd1mErhB4Ie2d2So"
       },
       "artists": [
         {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
         }
       ],
-      "duration_ms": 202058,
-      "name": "Fighting for Peace",
-      "url": "https://open.spotify.com/track/2iYDEwzq00a571f0hbQ53g"
+      "duration_ms": 245080,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/2tiq10rhGegBQmBa81etVS"
     },
     {
       "added_at": "2022-12-13 18:45:33",
@@ -1033,6 +1033,22 @@
       "url": "https://open.spotify.com/track/1THXgalXpkfvIPlxp6U05K"
     },
     {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Aviary: Act 1",
+        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
+      },
+      "artists": [
+        {
+          "name": "Eryn Allen Kane",
+          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
+        }
+      ],
+      "duration_ms": 222937,
+      "name": "Slipping",
+      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
+    },
+    {
       "added_at": "2023-12-13 17:43:50",
       "album": {
         "name": "Takin' All My Lovin'",
@@ -1051,22 +1067,6 @@
       "duration_ms": 207920,
       "name": "Takin' All My Lovin'",
       "url": "https://open.spotify.com/track/5L4FLTgwJtV8teoPKIrzc7"
-    },
-    {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Aviary: Act 1",
-        "url": "https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N"
-      },
-      "artists": [
-        {
-          "name": "Eryn Allen Kane",
-          "url": "https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3"
-        }
-      ],
-      "duration_ms": 222937,
-      "name": "Slipping",
-      "url": "https://open.spotify.com/track/5qVgjRn125fERbF5bY7Zvb"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1493,6 +1493,22 @@
       "url": "https://open.spotify.com/track/4b5OFU4bzExRpplFzrcecp"
     },
     {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "The Gumption",
+        "url": "https://open.spotify.com/album/7GuUikcFr7yABSMwse3beG"
+      },
+      "artists": [
+        {
+          "name": "Tanika Charles",
+          "url": "https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I"
+        }
+      ],
+      "duration_ms": 184907,
+      "name": "Tell Me Something",
+      "url": "https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV"
+    },
+    {
       "added_at": "2021-07-13 21:11:09",
       "album": {
         "name": "Motenko",
@@ -1509,20 +1525,20 @@
       "url": "https://open.spotify.com/track/0ROXERrNsGt3O3mXFgjOK2"
     },
     {
-      "added_at": "2023-07-11 18:58:28",
+      "added_at": "2022-01-21 05:02:00",
       "album": {
-        "name": "The Gumption",
-        "url": "https://open.spotify.com/album/7GuUikcFr7yABSMwse3beG"
+        "name": "Good To Be...",
+        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
       },
       "artists": [
         {
-          "name": "Tanika Charles",
-          "url": "https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I"
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
         }
       ],
-      "duration_ms": 184907,
-      "name": "Tell Me Something",
-      "url": "https://open.spotify.com/track/5KxO8FockGFq9A9qJqGboV"
+      "duration_ms": 208173,
+      "name": "\u201962 Chevy",
+      "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1555,22 +1571,6 @@
       "duration_ms": 200264,
       "name": "Girl from the Valley",
       "url": "https://open.spotify.com/track/38zNWMi1YRsvaVq3RuZcyV"
-    },
-    {
-      "added_at": "2022-01-21 05:02:00",
-      "album": {
-        "name": "Good To Be...",
-        "url": "https://open.spotify.com/album/0wcbmTdkb0bUmKvRQkG25S"
-      },
-      "artists": [
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 208173,
-      "name": "\u201962 Chevy",
-      "url": "https://open.spotify.com/track/4M9P0IpYx9kZmo07CcwVNT"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1757,22 +1757,6 @@
       "url": "https://open.spotify.com/track/44RQIKmcpCf3YTW9XZ2SGQ"
     },
     {
-      "added_at": "2023-07-11 18:58:28",
-      "album": {
-        "name": "Definitely NOW",
-        "url": "https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu"
-      },
-      "artists": [
-        {
-          "name": "Liam Bailey",
-          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "Summer Rain",
-      "url": "https://open.spotify.com/track/7eUDlOuxZtPJkEhySb3RUv"
-    },
-    {
       "added_at": "2023-07-14 04:01:00",
       "album": {
         "name": "Wait Til I Get Over",
@@ -1787,6 +1771,22 @@
       "duration_ms": 176876,
       "name": "Sadie",
       "url": "https://open.spotify.com/track/0joFqmedFJMz4M59qeZyLo"
+    },
+    {
+      "added_at": "2023-07-11 18:58:28",
+      "album": {
+        "name": "Definitely NOW",
+        "url": "https://open.spotify.com/album/2R40qpfi2fRj8eBFuPi6mu"
+      },
+      "artists": [
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "Summer Rain",
+      "url": "https://open.spotify.com/track/7eUDlOuxZtPJkEhySb3RUv"
     },
     {
       "added_at": "2021-07-13 21:11:09",
@@ -1857,22 +1857,6 @@
       "url": "https://open.spotify.com/track/5gNi31Lt7AxHYCMefgS2Xv"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "Ready EP",
-        "url": "https://open.spotify.com/album/2zEcWUVsJIH9eRBwrYRlI7"
-      },
-      "artists": [
-        {
-          "name": "Sex on Toast",
-          "url": "https://open.spotify.com/artist/7w6CFgYRRBheH4QOpa7xzI"
-        }
-      ],
-      "duration_ms": 269283,
-      "name": "Oh, Loretta!",
-      "url": "https://open.spotify.com/track/2vOENBztmIbPxh80Ndr02P"
-    },
-    {
       "added_at": "2021-11-05 04:01:00",
       "album": {
         "name": "Still Rising - The Collection",
@@ -1887,6 +1871,22 @@
       "duration_ms": 333126,
       "name": "No Love Dying - 2021 \"Still Rising\" Version",
       "url": "https://open.spotify.com/track/0WDFRoUoXqI8DngC41eqF9"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "Ready EP",
+        "url": "https://open.spotify.com/album/2zEcWUVsJIH9eRBwrYRlI7"
+      },
+      "artists": [
+        {
+          "name": "Sex on Toast",
+          "url": "https://open.spotify.com/artist/7w6CFgYRRBheH4QOpa7xzI"
+        }
+      ],
+      "duration_ms": 269283,
+      "name": "Oh, Loretta!",
+      "url": "https://open.spotify.com/track/2vOENBztmIbPxh80Ndr02P"
     },
     {
       "added_at": "2021-10-22 04:02:00",
@@ -1937,26 +1937,6 @@
       "url": "https://open.spotify.com/track/2UvjzFa5j6V2oi6PStN2TT"
     },
     {
-      "added_at": "2021-07-13 21:11:09",
-      "album": {
-        "name": "EmOGs",
-        "url": "https://open.spotify.com/album/5bcCk9BpsuHowXQwq6dxB7"
-      },
-      "artists": [
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
-        },
-        {
-          "name": "Mumu Fresh",
-          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
-        }
-      ],
-      "duration_ms": 257973,
-      "name": "EmOGs",
-      "url": "https://open.spotify.com/track/2qz1vGLzlQf0Xc2dlfhOEA"
-    },
-    {
       "added_at": "2021-10-22 04:02:00",
       "album": {
         "name": "Rolling Through California (feat. Miko Marks)",
@@ -1975,6 +1955,26 @@
       "duration_ms": 219546,
       "name": "Rolling Through California (feat. Miko Marks)",
       "url": "https://open.spotify.com/track/6IjR1Pab1JWRm4T8gHfoef"
+    },
+    {
+      "added_at": "2021-07-13 21:11:09",
+      "album": {
+        "name": "EmOGs",
+        "url": "https://open.spotify.com/album/5bcCk9BpsuHowXQwq6dxB7"
+      },
+      "artists": [
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        },
+        {
+          "name": "Mumu Fresh",
+          "url": "https://open.spotify.com/artist/5UIl2yxuQbC2rU8m9pN8mD"
+        }
+      ],
+      "duration_ms": 257973,
+      "name": "EmOGs",
+      "url": "https://open.spotify.com/track/2qz1vGLzlQf0Xc2dlfhOEA"
     },
     {
       "added_at": "2022-01-14 05:01:00",

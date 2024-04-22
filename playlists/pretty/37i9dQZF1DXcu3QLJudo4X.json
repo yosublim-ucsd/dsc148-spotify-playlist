@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 86521,
+  "num_followers": 86613,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "Backlash Blues",
-      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Canned Heat",
         "url": "https://open.spotify.com/album/1IW70uqFMjoCwHjHQLcid8"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 191093,
       "name": "Rollin' And Tumblin'",
       "url": "https://open.spotify.com/track/2Ihc193y6t3DNixXjQWTZD"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "Backlash Blues",
+      "url": "https://open.spotify.com/track/2bdapwYVEGpGWxlx3iooAB"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -347,22 +347,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "T-Bone Blues",
-        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 317000,
-      "name": "How Long Blues",
-      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Rocks The House",
         "url": "https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk"
       },
@@ -375,6 +359,38 @@
       "duration_ms": 254165,
       "name": "Baby, What You Want Me To Do - Live At The New Era Club,1963",
       "url": "https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "T-Bone Blues",
+        "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "How Long Blues",
+      "url": "https://open.spotify.com/track/1qHFxjvmKpmwZUcXckLkYc"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -427,22 +443,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Let The Good Times Roll: The Music Of Louis Jordan",
         "url": "https://open.spotify.com/album/4ikYbM2TWojqVQzmBeQ31u"
       },
@@ -475,6 +475,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "The King of Chicago Blues Piano",
+        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
+      },
+      "artists": [
+        {
+          "name": "Big Maceo",
+          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
+        }
+      ],
+      "duration_ms": 175293,
+      "name": "Worried Life Blues",
+      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "West Side Soul (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2bonSc9cW7a0YcFBiH9naX"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 256533,
       "name": "Sweet Home Chicago",
       "url": "https://open.spotify.com/track/31NrEjRvAP4ot9Mj3DWIqa"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "The King of Chicago Blues Piano",
-        "url": "https://open.spotify.com/album/7B0UpbAjvyWdS6ira2Ns5Z"
-      },
-      "artists": [
-        {
-          "name": "Big Maceo",
-          "url": "https://open.spotify.com/artist/6MaCG0Ef8DahWf6Mn0Ikve"
-        }
-      ],
-      "duration_ms": 175293,
-      "name": "Worried Life Blues",
-      "url": "https://open.spotify.com/track/77j9SlhRd4MBGU998c7dnw"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -687,6 +687,22 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
         "name": "Blues From The Gutter",
         "url": "https://open.spotify.com/album/6tBbwtL1simKd3VF6jE5dL"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2023-08-23 10:30:13",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
         "name": "Good Things Don't Happen Every Day",
         "url": "https://open.spotify.com/album/4dJatMxgiZaFlZdRxQnHPE"
       },
@@ -767,6 +767,22 @@
       "duration_ms": 183800,
       "name": "(I Think) Drowning on Dry Land",
       "url": "https://open.spotify.com/track/4QdQM3OufepusXfhtPL26z"
+    },
+    {
+      "added_at": "2023-08-23 10:30:13",
+      "album": {
+        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
+        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
+      },
+      "artists": [
+        {
+          "name": "Smiley Lewis",
+          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
+        }
+      ],
+      "duration_ms": 147840,
+      "name": "One Night - Remastered",
+      "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
     },
     {
       "added_at": "2023-08-23 10:30:13",
@@ -799,22 +815,6 @@
       "duration_ms": 187173,
       "name": "I Can't Quit You Baby",
       "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
-    },
-    {
-      "added_at": "2023-08-23 10:30:13",
-      "album": {
-        "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
-        "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
-      },
-      "artists": [
-        {
-          "name": "Smiley Lewis",
-          "url": "https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk"
-        }
-      ],
-      "duration_ms": 147840,
-      "name": "One Night - Remastered",
-      "url": "https://open.spotify.com/track/1FysXGpNQQIf2yhlOoSFfH"
     },
     {
       "added_at": "2023-08-23 10:30:13",

@@ -231,6 +231,24 @@
     },
     {
       "album": {
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "El Branco Fajiado",
+      "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
+    },
+    {
+      "album": {
         "name": "Nieves de Enero",
         "url": "https://open.spotify.com/album/69CnGWLFrxlYAl5ku4q5XV"
       },

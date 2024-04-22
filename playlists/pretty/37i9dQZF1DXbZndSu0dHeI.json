@@ -1,6 +1,6 @@
 {
   "description": "Have the loveliest little day.",
-  "num_followers": 217875,
+  "num_followers": 217949,
   "original_name": "The Lovely Little Playlist",
   "owner": {
     "name": "Spotify",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/3jQyadhLTxpxadQlkFh2b8"
     },
     {
-      "added_at": "2024-03-22 16:44:40",
-      "album": {
-        "name": "Shakes",
-        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
-      },
-      "artists": [
-        {
-          "name": "Luke Hemmings",
-          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "Shakes",
-      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
-    },
-    {
       "added_at": "2022-08-05 10:31:40",
       "album": {
         "name": "The Moldy Peaches",
@@ -355,6 +339,22 @@
       "duration_ms": 180093,
       "name": "Anyone Else But You",
       "url": "https://open.spotify.com/track/2pKi1lRvXNASy7ybeQIDTy"
+    },
+    {
+      "added_at": "2024-03-22 16:44:40",
+      "album": {
+        "name": "Shakes",
+        "url": "https://open.spotify.com/album/3A01ws0GCa2TcuiWx7k9oR"
+      },
+      "artists": [
+        {
+          "name": "Luke Hemmings",
+          "url": "https://open.spotify.com/artist/4UFShyUQuA8dguoZrqX0jQ"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "Shakes",
+      "url": "https://open.spotify.com/track/61GYDushz3N6OXEr4zIES2"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-02-03 00:30:16",
       "album": {
-        "name": "Honey",
-        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "Honey",
-      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
-    },
-    {
-      "added_at": "2023-02-03 00:30:16",
-      "album": {
         "name": "The Florist",
         "url": "https://open.spotify.com/album/1CcPFEX5L52OeFXHlqI4pa"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 190601,
       "name": "The Florist",
       "url": "https://open.spotify.com/track/3LbPPqqqmmvEwjHA8YH4Wo"
+    },
+    {
+      "added_at": "2023-02-03 00:30:16",
+      "album": {
+        "name": "Honey",
+        "url": "https://open.spotify.com/album/6xQIAbfKyR8HaoJmxTnOHv"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "Honey",
+      "url": "https://open.spotify.com/track/1KaAcMbFNcqxmt9lzjkm9b"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Woman on the Internet",
-        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 220208,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
-    },
-    {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
         "name": "Morning Phase",
         "url": "https://open.spotify.com/album/2Qx7dgA5VjX8JDQaXVxzHu"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 271106,
       "name": "Heart Is A Drum",
       "url": "https://open.spotify.com/track/573nT62vtbezncIwCfxIm7"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Woman on the Internet",
+        "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 220208,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1239,18 +1239,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "Margaux",
-        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+        "name": "How Beautiful Life Can Be",
+        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
       },
       "artists": [
         {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+          "name": "The Lathums",
+          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
         }
       ],
-      "duration_ms": 146810,
-      "name": "Margaux",
-      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
+      "duration_ms": 150662,
+      "name": "How Beautiful Life Can Be - Single Version",
+      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
     },
     {
       "added_at": "2024-02-18 00:00:00",
@@ -1271,18 +1271,18 @@
     {
       "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "How Beautiful Life Can Be",
-        "url": "https://open.spotify.com/album/2vlmiZvKsLEMkbv17IM26Z"
+        "name": "{Awayland}",
+        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
       },
       "artists": [
         {
-          "name": "The Lathums",
-          "url": "https://open.spotify.com/artist/6PXYvMeTixxDzYAYugMlbg"
+          "name": "Villagers",
+          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
         }
       ],
-      "duration_ms": 150662,
-      "name": "How Beautiful Life Can Be - Single Version",
-      "url": "https://open.spotify.com/track/3GrRJRZabcEpKD1HI59nFK"
+      "duration_ms": 223935,
+      "name": "Nothing Arrived",
+      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1301,22 +1301,6 @@
       "url": "https://open.spotify.com/track/1T01w1vBwWdKScKmHnha53"
     },
     {
-      "added_at": "2022-08-05 10:31:40",
-      "album": {
-        "name": "{Awayland}",
-        "url": "https://open.spotify.com/album/4lZBE5uyS5BGnJOJc88s95"
-      },
-      "artists": [
-        {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
-        }
-      ],
-      "duration_ms": 223935,
-      "name": "Nothing Arrived",
-      "url": "https://open.spotify.com/track/4Qegqm597Rw1PfaV43WkLy"
-    },
-    {
       "added_at": "2024-02-18 00:00:00",
       "album": {
         "name": "Synthetic Flowers For A Romantic Comedy",
@@ -1331,6 +1315,22 @@
       "duration_ms": 279984,
       "name": "The Brown Eyed Driver",
       "url": "https://open.spotify.com/track/0QQgM0bkR3myEAEE7QNOaS"
+    },
+    {
+      "added_at": "2022-08-05 10:31:40",
+      "album": {
+        "name": "Margaux",
+        "url": "https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 146810,
+      "name": "Margaux",
+      "url": "https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i"
     },
     {
       "added_at": "2022-08-05 10:31:40",
@@ -1581,22 +1581,6 @@
       "url": "https://open.spotify.com/track/3mh7FfDdLfOIbEFThIvvCG"
     },
     {
-      "added_at": "2024-03-22 14:38:07",
-      "album": {
-        "name": "Chamomile",
-        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Chamomile",
-      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
-    },
-    {
       "added_at": "2023-03-08 12:04:06",
       "album": {
         "name": "Hospital (One Man Down)",
@@ -1617,6 +1601,22 @@
       "url": "https://open.spotify.com/track/3viGqgmswIMRcmGat5WYYq"
     },
     {
+      "added_at": "2024-03-22 14:38:07",
+      "album": {
+        "name": "Chamomile",
+        "url": "https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Chamomile",
+      "url": "https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC"
+    },
+    {
       "added_at": "2024-02-18 00:00:00",
       "album": {
         "name": "I'm In Love",
@@ -1633,20 +1633,20 @@
       "url": "https://open.spotify.com/track/5kGCnXbeNgKak05lfRFrll"
     },
     {
-      "added_at": "2024-02-21 11:44:23",
+      "added_at": "2022-08-05 10:31:40",
       "album": {
-        "name": "From the Night",
-        "url": "https://open.spotify.com/album/7cx6OCRk4hVPXL9VzX6AzE"
+        "name": "Song For Our Daughter",
+        "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
       "artists": [
         {
-          "name": "overpass",
-          "url": "https://open.spotify.com/artist/2y3PEaAgTdxYfbyeSXORv8"
+          "name": "Laura Marling",
+          "url": "https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM"
         }
       ],
-      "duration_ms": 251821,
-      "name": "From the Night",
-      "url": "https://open.spotify.com/track/6ujJmSj0ArAHKrhLwsirGh"
+      "duration_ms": 200186,
+      "name": "Only The Strong",
+      "url": "https://open.spotify.com/track/6c1LDkyXooBQWELWZlDwCt"
     }
   ],
   "unique_name": "The Lovely Little Playlist",

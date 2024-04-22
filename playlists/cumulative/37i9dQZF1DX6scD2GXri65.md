@@ -4,7 +4,7 @@
 
 > Go hard or go home
 
-194 songs - 10 hr 45 min
+195 songs - 10 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [In the Shadows 2k22 \- Krowdexx Mix](https://open.spotify.com/track/6pgDjTGp6VgbUG2dYLUMdO) | [DJ Gollum](https://open.spotify.com/artist/1wNmJCRRNn8WpJrRSTKKqT), [A.Spencer](https://open.spotify.com/artist/5mc3fIXZDVqM8g9wkntXyg), [Krowdexx](https://open.spotify.com/artist/7Ecbym3UD6q848BAse6Qeb) | [In the Shadows 2k22 \(Krowdexx Mix\)](https://open.spotify.com/album/5l19N5cOJJv9Mj4KF5dJDk) | 2:39 | 2022-12-08 |  |
 | [Invincible](https://open.spotify.com/track/1HZ45bmBkEy7ZrzA8XsBpD) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK) | [Invincible](https://open.spotify.com/album/7rGPeX8nIBG28idHyjNWH0) | 3:54 | 2023-09-21 | 2024-02-16 |
 | [Irrenhaus](https://open.spotify.com/track/4SR46lHTitWMTzRTwsFIa6) | [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Outsiders](https://open.spotify.com/artist/0aKXalHKVzkLJ6aeUY3HMf) | [Irrenhaus](https://open.spotify.com/album/0oMSnIuTuOV4A4V6DynPif) | 3:23 | 2023-01-26 | 2023-02-23 |
-| [Landmines](https://open.spotify.com/track/6Bq1Elt1IMGTgjTp0wj9pU) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Landmines](https://open.spotify.com/album/5OcqH8C8BvkE8no10d51Wn) | 3:38 | 2022-12-08 |  |
+| [Landmines](https://open.spotify.com/track/6Bq1Elt1IMGTgjTp0wj9pU) | [Phuture Noize](https://open.spotify.com/artist/7AGSJihqYPhYy5QzMcwcQT) | [Landmines](https://open.spotify.com/album/5OcqH8C8BvkE8no10d51Wn) | 3:38 | 2022-12-08 | 2024-04-22 |
 | [Legacy](https://open.spotify.com/track/7afpuAsblQQuHUk58VGNx0) | [Aftershock](https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j), [Last Word](https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG) | [Legacy \(feat\. Last Word\)](https://open.spotify.com/album/37TqwiOBSOpGaQwiE1iKiJ) | 3:38 | 2022-12-08 | 2022-12-16 |
 | [Let Go](https://open.spotify.com/track/2n4ddu9TEIPoL3IQP88uk6) | [Envine](https://open.spotify.com/artist/4jxFb0CASzyps1aMpZOxyi), [REKALL](https://open.spotify.com/artist/6I21Q5XZwxPffqsQ9PXjsp), [Myke](https://open.spotify.com/artist/4MQJh64qUPAmGoeW7sL1OY) | [Let Go](https://open.spotify.com/album/4GgXak6TYk4IMUTFq7dZD3) | 2:47 | 2023-02-28 | 2023-03-08 |
 | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/track/321NLHCw7fk329HwnpDw9S) | [Gunz For Hire](https://open.spotify.com/artist/0WbAxASsYdodSlqwserDAW) | [Let's Go Insane \(Into The Madness 2023 OST\)](https://open.spotify.com/album/4CXFQdtkKxov3rjvmDsML2) | 3:35 | 2023-11-17 | 2024-01-18 |
@@ -119,6 +119,7 @@
 | [Mind Of A Psycho](https://open.spotify.com/track/6fef7XefOl9P2GFbqk4ql2) | [Devin Wild](https://open.spotify.com/artist/4ksdbwHbqSmv7sWP3W6L21) | [Mind Of A Psycho](https://open.spotify.com/album/3D6wjgCQ16Vttcpoyjgq5l) | 2:17 | 2023-06-01 |  |
 | [My Time](https://open.spotify.com/track/2QG8mQwRQk3VRZFeEbx5rh) | [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [My Time](https://open.spotify.com/album/6twbJ6MrK36i8nTNpEuzPU) | 3:18 | 2023-01-26 | 2023-05-11 |
 | [Never Be Alone](https://open.spotify.com/track/621OKN7F7dicuOKewxxeq1) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Øien](https://open.spotify.com/artist/5qNp5UbIhNLdYVIAg4Sxic), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb) | [Never Be Alone](https://open.spotify.com/album/4R4iMy5aLahQicWIoaf1QZ) | 2:45 | 2023-04-07 |  |
+| [Never Give Up](https://open.spotify.com/track/36WTxqLe4DgddYkPklj3ta) | [Firelite](https://open.spotify.com/artist/7FTQICqfx93tZdwZJb3wt2), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Never Give Up](https://open.spotify.com/album/4Vv28kVvSUjrAZ1pGTHzc5) | 2:44 | 2024-04-08 |  |
 | [Never Give Up](https://open.spotify.com/track/3MtarDmRYs4hJPWo15mok6) | [Maxtreme](https://open.spotify.com/artist/3skGwvTX8jbm2EKf0Whe1j) | [Never Give Up](https://open.spotify.com/album/6Q23JLlRz1dJuhTFf78WSs) | 3:30 | 2023-02-28 | 2023-03-27 |
 | [Next Level](https://open.spotify.com/track/3rYbbTaZpgTkgTVM0TgaSo) | [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr), [Sub Sonik](https://open.spotify.com/artist/4FApejrnKXgmvrVmBMRO2l) | [Next Level](https://open.spotify.com/album/4V5Unm0OwUFn32saWfnqgU) | 3:28 | 2023-04-07 |  |
 | [Nightmare Nirvana](https://open.spotify.com/track/0X89hVtXc6V04eRMCjB1Vj) | [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl), [Diandra Faye](https://open.spotify.com/artist/5gdYdbKxGw2Mq25TfsmH6q) | [Nightmare Nirvana](https://open.spotify.com/album/7jPDK7qtsjA010J5fXR9w1) | 4:30 | 2022-12-08 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 127482,
+  "num_followers": 127377,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Guitarra y Canto del Ande",
-        "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
-      },
-      "artists": [
-        {
-          "name": "Manuelcha Prado",
-          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
-        }
-      ],
-      "duration_ms": 341210,
-      "name": "Panorama ayacuchano",
-      "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Pura Flor",
         "url": "https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 237613,
       "name": "Pura Flor",
       "url": "https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "Guitarra y Canto del Ande",
+        "url": "https://open.spotify.com/album/0Vhe6HDh6M6zeVvRXp8YD1"
+      },
+      "artists": [
+        {
+          "name": "Manuelcha Prado",
+          "url": "https://open.spotify.com/artist/6cR40PCkvUGZaRw1ZZ9q22"
+        }
+      ],
+      "duration_ms": 341210,
+      "name": "Panorama ayacuchano",
+      "url": "https://open.spotify.com/track/3RSKSNv8odGUcE8jzDhEo1"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -807,26 +807,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Vol. 2",
-        "url": "https://open.spotify.com/album/4ue3QgybkfMuFP2sFk2zBP"
-      },
-      "artists": [
-        {
-          "name": "Puna",
-          "url": "https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ"
-        },
-        {
-          "name": "Mariana P\u00e4raway",
-          "url": "https://open.spotify.com/artist/17FXNujFBCzgEHqMIULmja"
-        }
-      ],
-      "duration_ms": 328887,
-      "name": "Chica Cascada (feat. Mariana P\u00e4raway)",
-      "url": "https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Presente Simple",
         "url": "https://open.spotify.com/album/5ti3NX7RmgXSSWaFJQ9eay"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 225524,
       "name": "Tiempo Atr\u00e1s",
       "url": "https://open.spotify.com/track/5LJnR5ogdDceRdb0G039HD"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "La Estrella y la Isla",
+        "url": "https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Correa",
+          "url": "https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96"
+        },
+        {
+          "name": "Cavito Mendoza",
+          "url": "https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7"
+        }
+      ],
+      "duration_ms": 241083,
+      "name": "La Estrella y la Isla",
+      "url": "https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo"
     }
   ],
   "unique_name": "Entre los Andes",

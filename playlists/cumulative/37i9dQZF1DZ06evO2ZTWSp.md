@@ -2,7 +2,7 @@
 
 ### [This Is Lizzo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZTWSp)
 
-> This Is Lizzo\. Los temas esenciales, todos en una lista.
+> This is Lizzo\. The essential tracks, all in one playlist.
 
 54 songs - 2 hr 54 min
 

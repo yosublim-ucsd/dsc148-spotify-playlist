@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 204767,
+  "num_followers": 204208,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -91,6 +91,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Chaos A.D.",
+        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 199226,
+      "name": "Refuse / Resist",
+      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "Pacto con el diablo",
         "url": "https://open.spotify.com/album/24u0EDg9yMY6AYVPDn9o25"
       },
@@ -119,22 +135,6 @@
       "duration_ms": 209013,
       "name": "El Caballo De Troya",
       "url": "https://open.spotify.com/track/2sUsyTWx6HeRxrnPpNL1gJ"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Chaos A.D.",
-        "url": "https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 199226,
-      "name": "Refuse / Resist",
-      "url": "https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -203,6 +203,22 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
+        "name": "Arise",
+        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
+      },
+      "artists": [
+        {
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
+        }
+      ],
+      "duration_ms": 401413,
+      "name": "Desperate Cry",
+      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
         "name": "El Nuevo Camino del Hombre",
         "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 209373,
       "name": "El nuevo camino del hombre",
       "url": "https://open.spotify.com/track/7uZcZ7lXte8e8rNCIRH38y"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
-        "name": "Arise",
-        "url": "https://open.spotify.com/album/7hgWmH16eu70yqrg5Pc3SM"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 401413,
-      "name": "Desperate Cry",
-      "url": "https://open.spotify.com/track/3PWgD7Gk14tGxHIEK8PQ6o"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -351,22 +351,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Rebeli\u00f3n En El Chiquero",
-        "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
-      },
-      "artists": [
-        {
-          "name": "Marraneitors",
-          "url": "https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs"
-        }
-      ],
-      "duration_ms": 150602,
-      "name": "Eres Tan Mala Como la Carne de Puerco",
-      "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Subkonzziente",
         "url": "https://open.spotify.com/album/3dNRIGq5OGwFB3UGxX4kCh"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 234666,
       "name": "M\u00edstica",
       "url": "https://open.spotify.com/track/4L30SyewCjkmJoX4qra9Ac"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Rebeli\u00f3n En El Chiquero",
+        "url": "https://open.spotify.com/album/4ZbNHiuVBbHU47EIWzWPwR"
+      },
+      "artists": [
+        {
+          "name": "Marraneitors",
+          "url": "https://open.spotify.com/artist/4AfocMBJSpoWTgjXGTyVXs"
+        }
+      ],
+      "duration_ms": 150602,
+      "name": "Eres Tan Mala Como la Carne de Puerco",
+      "url": "https://open.spotify.com/track/3mKil8CbR3556RMA3AkK2z"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -559,26 +559,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "El Nuevo Camino del Hombre",
-        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
-      },
-      "artists": [
-        {
-          "name": "A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
-        },
-        {
-          "name": "Mario Altamirano and A.N.I.M.A.L.",
-          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
-        }
-      ],
-      "duration_ms": 198893,
-      "name": "Pueblos erguidos",
-      "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Esp\u00edritu Combativo",
         "url": "https://open.spotify.com/album/6lAJZDH8gDBDQjymjhZ6nz"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 295263,
       "name": "Vida Eterna",
       "url": "https://open.spotify.com/track/14nEPCQLWtMqV4uE1cRHFv"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "El Nuevo Camino del Hombre",
+        "url": "https://open.spotify.com/album/5YoYz3KN6jGFuH9qiCI72f"
+      },
+      "artists": [
+        {
+          "name": "A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/6eoz7BtTcC5Q303xQtSgj9"
+        },
+        {
+          "name": "Mario Altamirano and A.N.I.M.A.L.",
+          "url": "https://open.spotify.com/artist/5Szv9SK8b5cY40jhN0mV5m"
+        }
+      ],
+      "duration_ms": 198893,
+      "name": "Pueblos erguidos",
+      "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Dead Soul",
-        "url": "https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS"
-      },
-      "artists": [
-        {
-          "name": "Criminal",
-          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
-        }
-      ],
-      "duration_ms": 180773,
-      "name": "Victimized",
-      "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Toca Madera",
         "url": "https://open.spotify.com/album/4PDGOiVAnuuOS9L1RSZHY1"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 211426,
       "name": "Toca Madera",
       "url": "https://open.spotify.com/track/6UhKwPu6inXi1dCSYjONfm"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Dead Soul",
+        "url": "https://open.spotify.com/album/2vW8nOEvd85a5Uz4u6qjcS"
+      },
+      "artists": [
+        {
+          "name": "Criminal",
+          "url": "https://open.spotify.com/artist/2obZTQu3NO5oRcIZKY9fOh"
+        }
+      ],
+      "duration_ms": 180773,
+      "name": "Victimized",
+      "url": "https://open.spotify.com/track/6OSb8LkFYX7kUSDzSmphxH"
     },
     {
       "added_at": "2023-04-28 03:00:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2023-04-28 03:00:00",
       "album": {
-        "name": "Deceitful Idols",
-        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
-      },
-      "artists": [
-        {
-          "name": "Anima Tempo",
-          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
-        }
-      ],
-      "duration_ms": 331013,
-      "name": "Deceitful Idols",
-      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
-    },
-    {
-      "added_at": "2023-04-28 03:00:00",
-      "album": {
         "name": "Nulo",
         "url": "https://open.spotify.com/album/34MqjCLcRf2VVNc6kqqbAq"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 150600,
       "name": "\u00a1Qu\u00e9menlos!",
       "url": "https://open.spotify.com/track/65qq9FT1BRPg8CQ5A4WUmK"
+    },
+    {
+      "added_at": "2023-04-28 03:00:00",
+      "album": {
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
+      },
+      "artists": [
+        {
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
+        }
+      ],
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     },
     {
       "added_at": "2023-04-28 03:00:00",

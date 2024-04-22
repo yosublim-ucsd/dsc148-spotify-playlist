@@ -2,7 +2,7 @@
 
 ### [This Is Metro Boomin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ki7m)
 
-> This Is Metro Boomin\. Todas as faixas essenciais numa única playlist.
+> This is Metro Boomin\. The essential tracks, all in one playlist.
 
 72 songs - 4 hr 16 min
 

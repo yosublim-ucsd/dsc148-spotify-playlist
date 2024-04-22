@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 8202,
+  "2024-04-22": 8185,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -8047,7 +8047,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-17",
+      "date_removed": null,
       "duration_ms": 96946,
       "name": "CUTE DEPRESSED",
       "url": "https://open.spotify.com/track/06PqeO7IInus2yvzsZwZhf"
@@ -19651,7 +19651,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 211969,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/16flcJEZHzqoSRv7Ku5gjJ"
@@ -19699,6 +19699,24 @@
       "duration_ms": 211969,
       "name": "Maquillaje",
       "url": "https://open.spotify.com/track/5eCXvznEquEklXtTrR2BNV"
+    },
+    {
+      "album": {
+        "name": "Diablos, Doble A",
+        "url": "https://open.spotify.com/album/6VCKimznrPSiFMKfGICXrw"
+      },
+      "artists": [
+        {
+          "name": "refracted arg",
+          "url": "https://open.spotify.com/artist/6xXSh0V8MmmCJ5CGwxV0OV"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207342,
+      "name": "Maquillaje - Remix",
+      "url": "https://open.spotify.com/track/5tA0dW3vNglRMQRVn5oXhU"
     },
     {
       "album": {
@@ -29445,7 +29463,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
@@ -29913,7 +29931,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 241958,
       "name": "SI SI SI SI (feat. Eladio Carrion, Bryant Myers, Dei V)",
       "url": "https://open.spotify.com/track/3GY16GkbrhV1hya2TKsaaj"
@@ -30269,7 +30287,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"

@@ -1,6 +1,6 @@
 {
   "description": "De mooiste muziek: Americana | Country",
-  "num_followers": 7210,
+  "num_followers": 7219,
   "original_name": "Route Americana",
   "owner": {
     "name": "Spotify",
@@ -131,18 +131,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Summertime Blues",
-        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
+        "name": "Bronco",
+        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
       },
       "artists": [
         {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 220885,
-      "name": "Quittin' Time",
-      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
+      "duration_ms": 210840,
+      "name": "C'mon Baby, Cry",
+      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -163,18 +163,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Bronco",
-        "url": "https://open.spotify.com/album/2hCcPHWTbvF81CiXPUrM6I"
+        "name": "Summertime Blues",
+        "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
       "artists": [
         {
-          "name": "Orville Peck",
-          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 210840,
-      "name": "C'mon Baby, Cry",
-      "url": "https://open.spotify.com/track/67swXHVknS142T5tIcNFkl"
+      "duration_ms": 220885,
+      "name": "Quittin' Time",
+      "url": "https://open.spotify.com/track/50Emgupm363qIrYBe20FR3"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Love Is A Place",
-        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
-      },
-      "artists": [
-        {
-          "name": "Jaime Wyatt",
-          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
-        }
-      ],
-      "duration_ms": 185542,
-      "name": "Love Is A Place",
-      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Aphrodite",
         "url": "https://open.spotify.com/album/4Z9VwS2ksXpFBdn5pSxfoQ"
       },
@@ -331,6 +315,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Love Is A Place",
+        "url": "https://open.spotify.com/album/5lzXvyf2j1KHvzanYAmBdE"
+      },
+      "artists": [
+        {
+          "name": "Jaime Wyatt",
+          "url": "https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U"
+        }
+      ],
+      "duration_ms": 185542,
+      "name": "Love Is A Place",
+      "url": "https://open.spotify.com/track/0gX6FDCWsArTJwmbtX2AIr"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Too Close",
         "url": "https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO"
       },
@@ -347,22 +347,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Fruits Of My Labor",
-        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 216666,
-      "name": "Fruits Of My Labor",
-      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Ballad Of Easy Rider",
         "url": "https://open.spotify.com/album/0QQxEoiKi7sgUjlAzjTQCS"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 125800,
       "name": "Ballad Of Easy Rider",
       "url": "https://open.spotify.com/track/5Nn8SPmzJUV3xUZFBdFjcV"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Fruits Of My Labor",
+        "url": "https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 216666,
+      "name": "Fruits Of My Labor",
+      "url": "https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -423,6 +423,22 @@
       "duration_ms": 268293,
       "name": "Built And Broken",
       "url": "https://open.spotify.com/track/2oLl22EdWPR8u8hTtfgBPS"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "DNA",
+        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
+      },
+      "artists": [
+        {
+          "name": "Danny Vera",
+          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
+        }
+      ],
+      "duration_ms": 194474,
+      "name": "DNA",
+      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -479,6 +495,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Pink Shades",
+        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+      },
+      "artists": [
+        {
+          "name": "Blackbird",
+          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+        }
+      ],
+      "duration_ms": 210506,
+      "name": "Pink Shades",
+      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "The Epic Tale of the Stranded Man",
         "url": "https://open.spotify.com/album/1BfrHxEQliuMZYzetI8TGH"
       },
@@ -491,38 +523,6 @@
       "duration_ms": 212139,
       "name": "Lola with the Light Eyes",
       "url": "https://open.spotify.com/track/05eGBCOwS0vA4c2TBVRiJ0"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "DNA",
-        "url": "https://open.spotify.com/album/1zOm18cLXjrqjrYuHRUTBY"
-      },
-      "artists": [
-        {
-          "name": "Danny Vera",
-          "url": "https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x"
-        }
-      ],
-      "duration_ms": 194474,
-      "name": "DNA",
-      "url": "https://open.spotify.com/track/5K10PzXx9DEmFuqXKIcp4t"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "For The Better Of Me",
-        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
-      },
-      "artists": [
-        {
-          "name": "Yentl",
-          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
-        }
-      ],
-      "duration_ms": 230431,
-      "name": "For The Better Of Me",
-      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -543,18 +543,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Pink Shades",
-        "url": "https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv"
+        "name": "For The Better Of Me",
+        "url": "https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg"
       },
       "artists": [
         {
-          "name": "Blackbird",
-          "url": "https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL"
+          "name": "Yentl",
+          "url": "https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE"
         }
       ],
-      "duration_ms": 210506,
-      "name": "Pink Shades",
-      "url": "https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF"
+      "duration_ms": 230431,
+      "name": "For The Better Of Me",
+      "url": "https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -583,26 +583,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Bluefinger",
-        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
-      },
-      "artists": [
-        {
-          "name": "Bertolf",
-          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
-        },
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 202906,
-      "name": "Even The Bad Ends Badly",
-      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Times",
         "url": "https://open.spotify.com/album/6RiH1JegZGAMd8lx4Jsw3l"
       },
@@ -623,6 +603,26 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Bluefinger",
+        "url": "https://open.spotify.com/album/7kyAYsfjmUrGMqPzWf84M1"
+      },
+      "artists": [
+        {
+          "name": "Bertolf",
+          "url": "https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty"
+        },
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 202906,
+      "name": "Even The Bad Ends Badly",
+      "url": "https://open.spotify.com/track/1yoAJ7RJOf0j02C8Wi3H37"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Bittersweet",
         "url": "https://open.spotify.com/album/3l4OdclVUWDKoS3G3qT1Rb"
       },
@@ -635,22 +635,6 @@
       "duration_ms": 215553,
       "name": "Bittersweet",
       "url": "https://open.spotify.com/track/4gitlSJ8ksxAMhmHxNKjNl"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "In The Morning, When We Rise",
-        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
-      },
-      "artists": [
-        {
-          "name": "Christof van der Ven",
-          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
-        }
-      ],
-      "duration_ms": 232725,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -671,6 +655,22 @@
       "duration_ms": 214240,
       "name": "What Kind of Woman",
       "url": "https://open.spotify.com/track/08f6hgvzLlDXPy0rhz3a0W"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "In The Morning, When We Rise",
+        "url": "https://open.spotify.com/album/6qeEfohwybwm2zAPYLk2lM"
+      },
+      "artists": [
+        {
+          "name": "Christof van der Ven",
+          "url": "https://open.spotify.com/artist/4OmL1NFB2mS4Ipv9TAWC1F"
+        }
+      ],
+      "duration_ms": 232725,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/1bVBp6PpUcxrn9EjA3uI50"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -723,6 +723,46 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "A Heightened Sense of Everything",
+        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
+      },
+      "artists": [
+        {
+          "name": "Jon Allen",
+          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
+        }
+      ],
+      "duration_ms": 208440,
+      "name": "Heat of the Moment",
+      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Feel Like Going Home (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw"
+      },
+      "artists": [
+        {
+          "name": "Miko Marks",
+          "url": "https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs"
+        },
+        {
+          "name": "The Resurrectors",
+          "url": "https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5"
+        },
+        {
+          "name": "Mark Lettieri",
+          "url": "https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP"
+        }
+      ],
+      "duration_ms": 185984,
+      "name": "Trouble (Sunday Version)",
+      "url": "https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Before The Storm",
         "url": "https://open.spotify.com/album/1ketSreRN3Qq5OTzgqPOcP"
       },
@@ -739,22 +779,6 @@
       "duration_ms": 191760,
       "name": "Before The Storm",
       "url": "https://open.spotify.com/track/3Rul7xOVvLysGVak1Qu9N8"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "A Heightened Sense of Everything",
-        "url": "https://open.spotify.com/album/5Ln1l27n8H7F1aVaYBEWng"
-      },
-      "artists": [
-        {
-          "name": "Jon Allen",
-          "url": "https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa"
-        }
-      ],
-      "duration_ms": 208440,
-      "name": "Heat of the Moment",
-      "url": "https://open.spotify.com/track/60wwe08CizhZJYDoFC8O1i"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -795,22 +819,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Anybody Else But Me",
-        "url": "https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv"
-      },
-      "artists": [
-        {
-          "name": "Deborah Parlor",
-          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
-        }
-      ],
-      "duration_ms": 211066,
-      "name": "Anybody Else But Me",
-      "url": "https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Too Much Of A Woman",
         "url": "https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d"
       },
@@ -827,6 +835,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Anybody Else But Me",
+        "url": "https://open.spotify.com/album/4rWkiDyXhDqN2Lm1Zg08sv"
+      },
+      "artists": [
+        {
+          "name": "Deborah Parlor",
+          "url": "https://open.spotify.com/artist/47nKN1WACRUyzwrDzQx7Jl"
+        }
+      ],
+      "duration_ms": 211066,
+      "name": "Anybody Else But Me",
+      "url": "https://open.spotify.com/track/6bO44ywoBjbe2XeI1lgTm5"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "How Did We Get To Goodbye",
         "url": "https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq"
       },
@@ -839,22 +863,6 @@
       "duration_ms": 279138,
       "name": "How Did We Get To Goodbye",
       "url": "https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "While I Was Sleeping",
-        "url": "https://open.spotify.com/album/0CFLU2Md6nF2Rn1LMu8bQA"
-      },
-      "artists": [
-        {
-          "name": "Lukas Batteau",
-          "url": "https://open.spotify.com/artist/4wNihh6y03PHRnn0dN8fx8"
-        }
-      ],
-      "duration_ms": 255213,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/2oD1II7gCnddoq5uj9KNhJ"
     }
   ],
   "unique_name": "Route Americana",

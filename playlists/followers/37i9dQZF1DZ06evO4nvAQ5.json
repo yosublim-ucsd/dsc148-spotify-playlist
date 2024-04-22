@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 13923,
+  "2024-04-22": 13928,
   "date_first_scraped": "2024-01-30",
   "description": "This is J Boog. The essential tracks, all in one playlist.",
   "name": "This Is J Boog",
@@ -311,6 +311,36 @@
       "duration_ms": 194731,
       "name": "Feelings (with J Boog & Gyptian)",
       "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
+    },
+    {
+      "album": {
+        "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
+        "url": "https://open.spotify.com/album/5mo5nalgXTB1DSfAtSK93e"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "Common Kings",
+          "url": "https://open.spotify.com/artist/4j0qbafzqnGf4ARF8tY4VL"
+        },
+        {
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236434,
+      "name": "Fire Up Di Roses (with The Green, Common Kings & Fiji)",
+      "url": "https://open.spotify.com/track/3Y9kBavkO9sD8K7QZki0se"
     },
     {
       "album": {

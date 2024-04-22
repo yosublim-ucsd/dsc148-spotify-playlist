@@ -439,6 +439,24 @@
     },
     {
       "album": {
+        "name": "Lose Somebody",
+        "url": "https://open.spotify.com/album/3pGl8W6BmODkc1fCfgy3xj"
+      },
+      "artists": [
+        {
+          "name": "Florence Nevada",
+          "url": "https://open.spotify.com/artist/5Su2AuJl1GOtKPIYTmYLKu"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133714,
+      "name": "Lose Somebody",
+      "url": "https://open.spotify.com/track/1iejPNbfS5p32qpByIDuYK"
+    },
+    {
+      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ"
       },

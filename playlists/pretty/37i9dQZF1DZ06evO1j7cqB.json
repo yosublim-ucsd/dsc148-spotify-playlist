@@ -1,12 +1,12 @@
 {
   "description": "This is Bear McCreary. The essential tracks, all in one playlist.",
-  "num_followers": 9325,
+  "num_followers": 9331,
   "original_name": "This Is Bear McCreary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDZiZGNkODVjYjI0MTllNTQ5NGU4MGNjZTAwMjlmYjJk",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGY1Nzc2ZTI3NDZkZjdmMzYzZGUyYjJlNWJiNWU5Mzg5",
   "tracks": [
     {
       "added_at": null,
@@ -455,6 +455,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 49321,
+      "name": "Theme from the Walking Dead",
+      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
@@ -471,22 +487,6 @@
       "duration_ms": 141720,
       "name": "The Echo and the River",
       "url": "https://open.spotify.com/track/44s77gJbPi0QizWRLJDhz8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 49321,
-      "name": "Theme from the Walking Dead",
-      "url": "https://open.spotify.com/track/2cji350vUbvxQ9QwyL5Nkp"
     },
     {
       "added_at": null,
@@ -607,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Walking Dead (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 177613,
-      "name": "The Day Will Come",
-      "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Witcher: Blood Origin (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/3wpT0UznACauxn7SjizehW"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 206400,
       "name": "The Black Rose",
       "url": "https://open.spotify.com/track/65bVC6KYo6AEzSBIuah9BE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Walking Dead (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/5VDBnlsmkyOlotpdRGn88D"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 177613,
+      "name": "The Day Will Come",
+      "url": "https://open.spotify.com/track/4tjeF7cfcy4q5vN1Yu7IAo"
     },
     {
       "added_at": null,
@@ -700,13 +700,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Gillebr\u00ecde Macmillan",
-          "url": "https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4"
+          "name": "Raya Yarbrough",
+          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
         }
       ],
-      "duration_ms": 95262,
-      "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
-      "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
+      "duration_ms": 201773,
+      "name": "The Summoning (feat. Raya Yarbrough)",
+      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
     },
     {
       "added_at": null,
@@ -723,26 +723,6 @@
       "duration_ms": 224760,
       "name": "Echoes of an Old Life",
       "url": "https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sparks & Shadows",
-          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
-        }
-      ],
-      "duration_ms": 226146,
-      "name": "Master Thyself",
-      "url": "https://open.spotify.com/track/0HtL5WPZBgjv3h1J8A8F0U"
     },
     {
       "added_at": null,
@@ -771,6 +751,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        }
+      ],
+      "duration_ms": 226146,
+      "name": "Master Thyself",
+      "url": "https://open.spotify.com/track/0HtL5WPZBgjv3h1J8A8F0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
       },
@@ -780,13 +780,13 @@
           "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
         },
         {
-          "name": "Raya Yarbrough",
-          "url": "https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2"
+          "name": "Gillebr\u00ecde Macmillan",
+          "url": "https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4"
         }
       ],
-      "duration_ms": 201773,
-      "name": "The Summoning (feat. Raya Yarbrough)",
-      "url": "https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq"
+      "duration_ms": 95262,
+      "name": "An Fh\u00ecdeag Airgid (feat. Gillebride MacMillan)",
+      "url": "https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC"
     },
     {
       "added_at": null,
@@ -803,26 +803,6 @@
       "duration_ms": 153826,
       "name": "Peaks Pass",
       "url": "https://open.spotify.com/track/4M3xwNsO3Ns8dNxklSCyjO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        },
-        {
-          "name": "Sparks & Shadows",
-          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
-        }
-      ],
-      "duration_ms": 353186,
-      "name": "Clearing the Mind",
-      "url": "https://open.spotify.com/track/7HBKEbxLboNg62hY7kU1dO"
     },
     {
       "added_at": null,
@@ -847,6 +827,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "God of War Ragnar\u00f6k: Valhalla (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Sparks & Shadows",
+          "url": "https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ"
+        }
+      ],
+      "duration_ms": 353186,
+      "name": "Clearing the Mind",
+      "url": "https://open.spotify.com/track/7HBKEbxLboNg62hY7kU1dO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Eight: Alloyed - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP"
       },
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        }
+      ],
+      "duration_ms": 429440,
+      "name": "The Key to Lallybroch",
+      "url": "https://open.spotify.com/track/1zWAmJcTnSmDFdGknjMiNl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lord of the Rings: The Rings of Power (Season One, Episode Seven: The Eye - Amazon Original Series Soundtrack)",
         "url": "https://open.spotify.com/album/1uVZhJYHy8dcumbR7ZEkVv"
       },
@@ -875,22 +891,6 @@
       "duration_ms": 392964,
       "name": "Infirmary",
       "url": "https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Outlander: Season 1, Vol. 2 (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87"
-      },
-      "artists": [
-        {
-          "name": "Bear McCreary",
-          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
-        }
-      ],
-      "duration_ms": 135893,
-      "name": "To the Begging I Will Go",
-      "url": "https://open.spotify.com/track/6fgl77WtVLCveA6IPmLvXX"
     },
     {
       "added_at": null,

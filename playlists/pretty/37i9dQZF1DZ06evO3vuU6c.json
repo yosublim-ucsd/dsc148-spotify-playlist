@@ -1,12 +1,12 @@
 {
   "description": "This is Sia. The essential tracks, all in one playlist.",
-  "num_followers": 1384806,
+  "num_followers": 1384113,
   "original_name": "This Is Sia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDYxODM0YmI0YTcwMjM1MDg1YWQwNzljZjY1ZDg1Nzg2",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDZkMmUxZTMzN2Q1M2ZlNWE0NzdjNDQzYTI4NTBiYTdm",
   "tracks": [
     {
       "added_at": null,
@@ -219,6 +219,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "1000 Forms Of Fear",
+        "url": "https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 257200,
+      "name": "Elastic Heart",
+      "url": "https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "LABRINTH, SIA & DIPLO PRESENT... LSD",
         "url": "https://open.spotify.com/album/0ujHQ5WCLuKJQXOqXpGtpf"
       },
@@ -247,22 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "This Is Acting (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 210920,
-      "name": "The Greatest",
-      "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Is Acting",
         "url": "https://open.spotify.com/album/77jAfTh3KH9K2reMOmTgOh"
       },
@@ -275,6 +275,22 @@
       "duration_ms": 211666,
       "name": "Cheap Thrills",
       "url": "https://open.spotify.com/track/27SdWb2rFzO6GWiYDBTD9j"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Is Acting (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 210920,
+      "name": "The Greatest",
+      "url": "https://open.spotify.com/track/6bLopGnirdrilrpdVB6Um1"
     },
     {
       "added_at": null,
@@ -635,6 +651,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
+        "url": "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "duration_ms": 199688,
+      "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
+      "url": "https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Is Acting (Deluxe Version)",
         "url": "https://open.spotify.com/album/2eV6DIPDnGl1idcjww6xyX"
       },
@@ -759,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Some People Have REAL Problems",
-        "url": "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 260120,
-      "name": "Soon We'll Be Found",
-      "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mon coeur avait raison",
         "url": "https://open.spotify.com/album/4tYyNNlbRGlS6FNphD8mur"
       },
@@ -791,6 +811,22 @@
       "duration_ms": 213026,
       "name": "Je te pardonne (feat. Sia) - Pilule bleue",
       "url": "https://open.spotify.com/track/6ftEA8CwMP4vtlL7F6VKsj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Some People Have REAL Problems",
+        "url": "https://open.spotify.com/album/6jwrliQ4758qVYMtdgQtZt"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "duration_ms": 260120,
+      "name": "Soon We'll Be Found",
+      "url": "https://open.spotify.com/track/4eiL3JVHop31N0PwPv6M9D"
     },
     {
       "added_at": null,
@@ -991,42 +1027,6 @@
       "duration_ms": 213667,
       "name": "Original (from Dolittle)",
       "url": "https://open.spotify.com/track/0YoquWDxpwAq8jFPj3K8wp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
-        "url": "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Paris Hilton",
-          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
-        }
-      ],
-      "duration_ms": 199688,
-      "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
-      "url": "https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "My Little Pony: The Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5L7cZeMTVwaJUt1NHJSuEm"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "duration_ms": 197026,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/2xie0OhRzMjWE1Be82sC0k"
     }
   ],
   "unique_name": "This Is Sia",

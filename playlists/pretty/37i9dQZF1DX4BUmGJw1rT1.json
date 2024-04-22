@@ -1,6 +1,6 @@
 {
   "description": "Kick back and relax after a hard day.",
-  "num_followers": 68896,
+  "num_followers": 68905,
   "original_name": "Home at Last",
   "owner": {
     "name": "Spotify",
@@ -359,6 +359,26 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Don't Let the Green Grass Fool You",
+        "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        },
+        {
+          "name": "The Midnight Band",
+          "url": "https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR"
+        }
+      ],
+      "duration_ms": 225160,
+      "name": "Don't Let the Green Grass Fool You",
+      "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Fighting for Peace",
         "url": "https://open.spotify.com/album/2IXjRTudNXd1hEczsBwcos"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 201970,
       "name": "Goodbye\u2019s Kickin\u2019 In",
       "url": "https://open.spotify.com/track/3KcBTqKjbo8CG9eXdFzXoA"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Don't Let the Green Grass Fool You",
-        "url": "https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        },
-        {
-          "name": "The Midnight Band",
-          "url": "https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR"
-        }
-      ],
-      "duration_ms": 225160,
-      "name": "Don't Let the Green Grass Fool You",
-      "url": "https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Long Road Ahead",
-        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
-      },
-      "artists": [
-        {
-          "name": "Elles Bailey",
-          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
-        }
-      ],
-      "duration_ms": 202143,
-      "name": "Long Road Ahead",
-      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Lie To Me",
         "url": "https://open.spotify.com/album/6RIlPlBtXSMN9UePrFIBio"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 356426,
       "name": "A Quitter Never Wins",
       "url": "https://open.spotify.com/track/74QzbLH96yoUOcSiXKnnMX"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Long Road Ahead",
+        "url": "https://open.spotify.com/album/3vu2p0Mr9zohNfPmok6jE2"
+      },
+      "artists": [
+        {
+          "name": "Elles Bailey",
+          "url": "https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU"
+        }
+      ],
+      "duration_ms": 202143,
+      "name": "Long Road Ahead",
+      "url": "https://open.spotify.com/track/7kAc8788lUH0y65VbR2nAQ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Made Up Mind",
+        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 220880,
+      "name": "Made Up Mind",
+      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -1019,22 +1035,6 @@
       "duration_ms": 290453,
       "name": "Eyes on You",
       "url": "https://open.spotify.com/track/31lG2URaPvdi7atAM8Tu4V"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "Made Up Mind",
-        "url": "https://open.spotify.com/album/7L64rhLRuHGIEqnWMMPPXh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 220880,
-      "name": "Made Up Mind",
-      "url": "https://open.spotify.com/track/5XTDvPvCDO9lxrwkEE9aUF"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Strange Time To Be Alive",
-        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
-      },
-      "artists": [
-        {
-          "name": "Early James",
-          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "If Heaven Is A Hotel",
-      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "The Platinum Collection",
         "url": "https://open.spotify.com/album/7Kr5H7qAtXjsMxAeNvugTl"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 473080,
       "name": "Need Your Love So Bad - 2002 Digital Remaster",
       "url": "https://open.spotify.com/track/58BGpUO6f8f8LuRyInc61J"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Strange Time To Be Alive",
+        "url": "https://open.spotify.com/album/3HKdMZgD0EQCy9FI0fz9PA"
+      },
+      "artists": [
+        {
+          "name": "Early James",
+          "url": "https://open.spotify.com/artist/6fJpluuZmZ2tX2AviJ3bNY"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "If Heaven Is A Hotel",
+      "url": "https://open.spotify.com/track/1GxhXZons5WjLrGmiQDBhE"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 264506,
-      "name": "Country Girl",
-      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Good To Be (Home Again)",
         "url": "https://open.spotify.com/album/7f36mEASmMWIvTmFv6tnOA"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 210800,
       "name": "Good To Be (Home Again)",
       "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 264506,
+      "name": "Country Girl",
+      "url": "https://open.spotify.com/track/3o34jLExYxt9nkMr8Q88oF"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "One Foot In The Groove",
-        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
-      },
-      "artists": [
-        {
-          "name": "Boneshakers",
-          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
-        }
-      ],
-      "duration_ms": 205974,
-      "name": "Ice Cream and Cigarettes",
-      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "White Jesus Black Problems",
         "url": "https://open.spotify.com/album/4C87UAmhJ3nhATyp9nCI4i"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 227274,
       "name": "Nibbadip",
       "url": "https://open.spotify.com/track/6YPSs7nidM3FK5qFN0nJnh"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "One Foot In The Groove",
+        "url": "https://open.spotify.com/album/4tvZrqg0Yow830Ko9pnYqD"
+      },
+      "artists": [
+        {
+          "name": "Boneshakers",
+          "url": "https://open.spotify.com/artist/24riNM88j6XOrjc8c8D55m"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Ice Cream and Cigarettes",
+      "url": "https://open.spotify.com/track/3gj8kdPWFbNEnBegd20KJJ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Behind The Rain",
-        "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
-      },
-      "artists": [
-        {
-          "name": "Grace Theisen",
-          "url": "https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf"
-        }
-      ],
-      "duration_ms": 214412,
-      "name": "Behind The Rain",
-      "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Get Behind the Wheel",
         "url": "https://open.spotify.com/album/38uG2SenaORYitq26CJnh9"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 216724,
       "name": "Breakaway",
       "url": "https://open.spotify.com/track/2DrANfSqbYgYqBXuB1CLNe"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Behind The Rain",
+        "url": "https://open.spotify.com/album/5ktC5H8hQ2G5tNOoDER8FE"
+      },
+      "artists": [
+        {
+          "name": "Grace Theisen",
+          "url": "https://open.spotify.com/artist/2OiP1wtWnUxo4c7h5uFfxf"
+        }
+      ],
+      "duration_ms": 214412,
+      "name": "Behind The Rain",
+      "url": "https://open.spotify.com/track/3EvlnCWBHQlJZI0Iu2iAwx"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Downtown",
-        "url": "https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle"
-      },
-      "artists": [
-        {
-          "name": "Ariel Posen",
-          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
-        }
-      ],
-      "duration_ms": 222170,
-      "name": "Downtown",
-      "url": "https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Me to You",
         "url": "https://open.spotify.com/album/642PO6YTBiP26uQek3zOd5"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 234000,
       "name": "A Better Man",
       "url": "https://open.spotify.com/track/7v7dx0S3dO2AKQDCJLwqLS"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Downtown",
+        "url": "https://open.spotify.com/album/0nMJLE97CCbuE9KivHRBle"
+      },
+      "artists": [
+        {
+          "name": "Ariel Posen",
+          "url": "https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y"
+        }
+      ],
+      "duration_ms": 222170,
+      "name": "Downtown",
+      "url": "https://open.spotify.com/track/4dzu4NhhokRDXA8SpR4egQ"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Only The Wild Ones",
-        "url": "https://open.spotify.com/album/23987SO39NcnKh9gtceZKf"
-      },
-      "artists": [
-        {
-          "name": "Jax Hollow",
-          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
-        }
-      ],
-      "duration_ms": 249418,
-      "name": "Stepping Stone",
-      "url": "https://open.spotify.com/track/1FpU8YyRBBi2bmCtyi20ZI"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "Not the One",
         "url": "https://open.spotify.com/album/34i7Bv4RkWhjcAWgddRDMS"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 218666,
       "name": "Not the One",
       "url": "https://open.spotify.com/track/3ILOjQIsXO1gfvHzkBsc89"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "Only The Wild Ones",
+        "url": "https://open.spotify.com/album/23987SO39NcnKh9gtceZKf"
+      },
+      "artists": [
+        {
+          "name": "Jax Hollow",
+          "url": "https://open.spotify.com/artist/25MQQTJdMDKnJoGMyOdHYB"
+        }
+      ],
+      "duration_ms": 249418,
+      "name": "Stepping Stone",
+      "url": "https://open.spotify.com/track/1FpU8YyRBBi2bmCtyi20ZI"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
+        "name": "Fault Line",
+        "url": "https://open.spotify.com/album/7fepSBCM3xorBhjlVoXBSs"
+      },
+      "artists": [
+        {
+          "name": "HeavyDrunk",
+          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
+        }
+      ],
+      "duration_ms": 224221,
+      "name": "Fault Line",
+      "url": "https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
         "name": "Am I Still Mine",
         "url": "https://open.spotify.com/album/1wziCgGwodAnDKC8gIT3Qr"
       },
@@ -1863,18 +1879,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Fault Line",
-        "url": "https://open.spotify.com/album/7fepSBCM3xorBhjlVoXBSs"
+        "name": "West Coast Eyes",
+        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
       },
       "artists": [
         {
-          "name": "HeavyDrunk",
-          "url": "https://open.spotify.com/artist/0txqFPQebPvVitCyaj4rVp"
+          "name": "Robert Jon & the Wreck",
+          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
         }
       ],
-      "duration_ms": 224221,
-      "name": "Fault Line",
-      "url": "https://open.spotify.com/track/0H6gY8B8XmpFsAvlDwijUQ"
+      "duration_ms": 245306,
+      "name": "West Coast Eyes",
+      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -1907,22 +1923,6 @@
       "duration_ms": 238840,
       "name": "My Skin",
       "url": "https://open.spotify.com/track/4a1LcS2pg4MyF2XaH9NPnZ"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
-        "name": "West Coast Eyes",
-        "url": "https://open.spotify.com/album/5g126IZfaZ8Wm8KZuLe8uC"
-      },
-      "artists": [
-        {
-          "name": "Robert Jon & the Wreck",
-          "url": "https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC"
-        }
-      ],
-      "duration_ms": 245306,
-      "name": "West Coast Eyes",
-      "url": "https://open.spotify.com/track/30qwcdF8KTYzEF2lVkoGDN"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2003,18 +2003,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "Dusty Highway",
-        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
+        "name": "No Limit to My Love",
+        "url": "https://open.spotify.com/album/4Rm5WNevoHC55Fez7NO5Mj"
       },
       "artists": [
         {
-          "name": "David Gelman",
-          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
         }
       ],
-      "duration_ms": 242786,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
+      "duration_ms": 266088,
+      "name": "No Limit to My Love",
+      "url": "https://open.spotify.com/track/51YhgKncpDg0Y9nB1eB7Ox"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2035,18 +2035,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "No Limit to My Love",
-        "url": "https://open.spotify.com/album/4Rm5WNevoHC55Fez7NO5Mj"
+        "name": "Dusty Highway",
+        "url": "https://open.spotify.com/album/0W1be2o6NzfXZmQZDfFz7H"
       },
       "artists": [
         {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+          "name": "David Gelman",
+          "url": "https://open.spotify.com/artist/7wCbwQRrqj5daUqfaUVVsN"
         }
       ],
-      "duration_ms": 266088,
-      "name": "No Limit to My Love",
-      "url": "https://open.spotify.com/track/51YhgKncpDg0Y9nB1eB7Ox"
+      "duration_ms": 242786,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/4bqK1zQ6908Tnvj4DkFHZG"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "All My Love For You",
-        "url": "https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Rush",
-          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
-        }
-      ],
-      "duration_ms": 313219,
-      "name": "I Can't Stand It",
-      "url": "https://open.spotify.com/track/4Bj7hYQXTuUpuVPleoiq3A"
-    },
-    {
-      "added_at": "2023-11-24 19:22:06",
-      "album": {
         "name": "The Deep And The Dirty",
         "url": "https://open.spotify.com/album/7axAFOQrv524I4Tr23P5X4"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 260866,
       "name": "Just Like New",
       "url": "https://open.spotify.com/track/2d9GYgrWMIVs9asm6FSzwq"
+    },
+    {
+      "added_at": "2023-11-24 19:22:06",
+      "album": {
+        "name": "All My Love For You",
+        "url": "https://open.spotify.com/album/222kRkwtM8uoejy4iuhMMK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 313219,
+      "name": "I Can't Stand It",
+      "url": "https://open.spotify.com/track/4Bj7hYQXTuUpuVPleoiq3A"
     },
     {
       "added_at": "2023-11-24 19:22:06",
@@ -2511,18 +2511,18 @@
     {
       "added_at": "2023-11-24 19:22:06",
       "album": {
-        "name": "I'm Slippin' In (Mono Version)",
-        "url": "https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8"
+        "name": "Best of Me",
+        "url": "https://open.spotify.com/album/0Cz86E9vYly9pSmLN3fvn4"
       },
       "artists": [
         {
-          "name": "Ford Eaglin",
-          "url": "https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL"
+          "name": "Joanna Connor",
+          "url": "https://open.spotify.com/artist/0MJGyEl8BgJbBTv3xeeFeB"
         }
       ],
-      "duration_ms": 138531,
-      "name": "Don't Slam That Door",
-      "url": "https://open.spotify.com/track/0ofjPkzbOx37MmdpQUOS91"
+      "duration_ms": 213289,
+      "name": "All I Want Is You",
+      "url": "https://open.spotify.com/track/58MlT9VHTNGYtjNPR0vIWV"
     },
     {
       "added_at": "2023-11-24 19:22:06",

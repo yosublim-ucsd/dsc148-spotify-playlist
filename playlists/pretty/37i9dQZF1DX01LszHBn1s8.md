@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > when you wake up next to him in the middle of the night!!!!!!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,282 likes - 932 songs - 2 day 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,219 likes - 932 songs - 2 day 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

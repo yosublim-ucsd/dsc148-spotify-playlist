@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover:  Ellen Allien",
-  "num_followers": 33841,
+  "num_followers": 33832,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Ich liebe dich nicht",
-        "url": "https://open.spotify.com/album/6ZBmRYtK2zBhUDLGaSGHY0"
-      },
-      "artists": [
-        {
-          "name": "Eunique",
-          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
-        }
-      ],
-      "duration_ms": 158709,
-      "name": "Ich liebe dich nicht",
-      "url": "https://open.spotify.com/track/12rGjQA0PGmVV0Y6LMFWr5"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "viele",
         "url": "https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 219142,
       "name": "viele",
       "url": "https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Ich liebe dich nicht",
+        "url": "https://open.spotify.com/album/6ZBmRYtK2zBhUDLGaSGHY0"
+      },
+      "artists": [
+        {
+          "name": "Eunique",
+          "url": "https://open.spotify.com/artist/7MSwVATA5fRIxRA6Z0BmTe"
+        }
+      ],
+      "duration_ms": 158709,
+      "name": "Ich liebe dich nicht",
+      "url": "https://open.spotify.com/track/12rGjQA0PGmVV0Y6LMFWr5"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -303,18 +303,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Nichts macht Sinn",
-        "url": "https://open.spotify.com/album/2ObdUQl8ysIJf7gg14RzYs"
+        "name": "RAUS AN DICH",
+        "url": "https://open.spotify.com/album/6GUT1N11QD3AdtXuvilyvn"
       },
       "artists": [
         {
-          "name": "MELE",
-          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
+          "name": "Deine Cousine",
+          "url": "https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y"
         }
       ],
-      "duration_ms": 128546,
-      "name": "Nichts macht Sinn",
-      "url": "https://open.spotify.com/track/4dNhCiis0TcK1hXqduzvAD"
+      "duration_ms": 152533,
+      "name": "RAUS AN DICH",
+      "url": "https://open.spotify.com/track/428hiEHnFCS3lSa0zU51ak"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -335,18 +335,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "RAUS AN DICH",
-        "url": "https://open.spotify.com/album/6GUT1N11QD3AdtXuvilyvn"
+        "name": "Nichts macht Sinn",
+        "url": "https://open.spotify.com/album/2ObdUQl8ysIJf7gg14RzYs"
       },
       "artists": [
         {
-          "name": "Deine Cousine",
-          "url": "https://open.spotify.com/artist/579hwkWz1UQx97t0tzYv1Y"
+          "name": "MELE",
+          "url": "https://open.spotify.com/artist/6Lk699bosWcOqCMFLJFrPp"
         }
       ],
-      "duration_ms": 152533,
-      "name": "RAUS AN DICH",
-      "url": "https://open.spotify.com/track/428hiEHnFCS3lSa0zU51ak"
+      "duration_ms": 128546,
+      "name": "Nichts macht Sinn",
+      "url": "https://open.spotify.com/track/4dNhCiis0TcK1hXqduzvAD"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -495,22 +495,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "zara",
-        "url": "https://open.spotify.com/album/4kHpjLXHGIgiOQmEeUg9a5"
-      },
-      "artists": [
-        {
-          "name": "zara",
-          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
-        }
-      ],
-      "duration_ms": 99799,
-      "name": "zara",
-      "url": "https://open.spotify.com/track/25DnrdX0juB0RIqw3uxJnZ"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Botanical Garden",
         "url": "https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 188740,
       "name": "Botanical Garden",
       "url": "https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "zara",
+        "url": "https://open.spotify.com/album/4kHpjLXHGIgiOQmEeUg9a5"
+      },
+      "artists": [
+        {
+          "name": "zara",
+          "url": "https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD"
+        }
+      ],
+      "duration_ms": 99799,
+      "name": "zara",
+      "url": "https://open.spotify.com/track/25DnrdX0juB0RIqw3uxJnZ"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Young and Dumb",
-        "url": "https://open.spotify.com/album/6ETds3D01rAKshm0Uz3ye3"
-      },
-      "artists": [
-        {
-          "name": "Mary Middlefield",
-          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
-        }
-      ],
-      "duration_ms": 263724,
-      "name": "Young and Dumb",
-      "url": "https://open.spotify.com/track/7mw00RGMdi3fydgaNZ0RMP"
-    },
-    {
-      "added_at": "2024-04-02 22:00:00",
-      "album": {
         "name": "Winter",
         "url": "https://open.spotify.com/album/6CAbpfbvE7WOaGPQJiJVK0"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 160000,
       "name": "Winter",
       "url": "https://open.spotify.com/track/7eG3d6RNfdnehbEDOJINhb"
+    },
+    {
+      "added_at": "2024-04-02 22:00:00",
+      "album": {
+        "name": "Young and Dumb",
+        "url": "https://open.spotify.com/album/6ETds3D01rAKshm0Uz3ye3"
+      },
+      "artists": [
+        {
+          "name": "Mary Middlefield",
+          "url": "https://open.spotify.com/artist/4AHdi9slY1QQdgFXRFUUIs"
+        }
+      ],
+      "duration_ms": 263724,
+      "name": "Young and Dumb",
+      "url": "https://open.spotify.com/track/7mw00RGMdi3fydgaNZ0RMP"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -687,18 +687,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Tomboy Tussi",
-        "url": "https://open.spotify.com/album/1IjJq9F5l6lYHJSRrAVmBG"
+        "name": "Skirt On Pants",
+        "url": "https://open.spotify.com/album/4ovWAdWdbaaRx3X4SGCFPO"
       },
       "artists": [
         {
-          "name": "NASHI44",
-          "url": "https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL"
+          "name": "K\u00c4SSY",
+          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
         }
       ],
-      "duration_ms": 179226,
-      "name": "Tomboy Tussi",
-      "url": "https://open.spotify.com/track/75u5MxEYwyl5uYFSOv4NPW"
+      "duration_ms": 171978,
+      "name": "Skirt On Pants",
+      "url": "https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw"
     },
     {
       "added_at": "2024-04-02 22:00:00",
@@ -719,18 +719,18 @@
     {
       "added_at": "2024-04-02 22:00:00",
       "album": {
-        "name": "Skirt On Pants",
-        "url": "https://open.spotify.com/album/4ovWAdWdbaaRx3X4SGCFPO"
+        "name": "Tomboy Tussi",
+        "url": "https://open.spotify.com/album/1IjJq9F5l6lYHJSRrAVmBG"
       },
       "artists": [
         {
-          "name": "K\u00c4SSY",
-          "url": "https://open.spotify.com/artist/6DH0pvj2jRzlp608bX6qe6"
+          "name": "NASHI44",
+          "url": "https://open.spotify.com/artist/2v6rUpbFB5iHW6hR91BIpL"
         }
       ],
-      "duration_ms": 171978,
-      "name": "Skirt On Pants",
-      "url": "https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw"
+      "duration_ms": 179226,
+      "name": "Tomboy Tussi",
+      "url": "https://open.spotify.com/track/75u5MxEYwyl5uYFSOv4NPW"
     },
     {
       "added_at": "2024-04-02 22:00:00",

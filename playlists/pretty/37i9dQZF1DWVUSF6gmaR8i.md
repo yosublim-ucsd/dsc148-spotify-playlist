@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 
 > Kick back with a collection of classic and new piano rock and pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,261 likes - 40 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,212 likes - 40 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUSF6gmaR8i.md) - [plain]
 | 28 | [Isis](https://open.spotify.com/track/5j216bw8PG0EcIdfu92k4l) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Desire](https://open.spotify.com/album/1T8usYsiGEMPMQOLFgJEbE) | 6:58 |
 | 29 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |
 | 30 | [Letter To The Past](https://open.spotify.com/track/0RxUz1GCgFRLO4hQwkobkg) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [In These Silent Days](https://open.spotify.com/album/5mIT7iw9w64DMP2vxP9L1f) | 3:40 |
-| 31 | [Your Song](https://open.spotify.com/track/46AKrc7rPuEXL9QYr9eqFR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 4:16 |
-| 32 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
-| 33 | [All the Way from Memphis](https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Mott \(Expanded Edition\)](https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s) | 5:02 |
-| 34 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/6KHNMPZTSif1zFbFKErpNU) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:34 |
-| 35 | [Silent All These Years](https://open.spotify.com/track/3IZXUxoL1Q7yUj5mh3Tmqp) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 4:11 |
-| 36 | [In My Life](https://open.spotify.com/track/28pCUugff10DEjOtU2kKSS) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower \(Deluxe Edition\)](https://open.spotify.com/album/0y23DgLgmNM6o3SLlXV0Xd) | 3:51 |
-| 37 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 |
-| 38 | [The Luckiest](https://open.spotify.com/track/2HlRYsFHmIwdBK2nUHVrzK) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [About Time](https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y) | 4:04 |
-| 39 | [Blow By Blow](https://open.spotify.com/track/3sj6VdqRx1V71WW1xUEq92) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 2:55 |
+| 31 | [Moondance \- 2013 Remaster](https://open.spotify.com/track/6KHNMPZTSif1zFbFKErpNU) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Moondance](https://open.spotify.com/album/5PfnCqRbdfIDMb1x3MPQam) | 4:34 |
+| 32 | [Your Song](https://open.spotify.com/track/46AKrc7rPuEXL9QYr9eqFR) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Revamp: The Songs Of Elton John & Bernie Taupin](https://open.spotify.com/album/2w667CqWz0JWkhxP7IfijA) | 4:16 |
+| 33 | [Blue Skies](https://open.spotify.com/track/3qgK1i52jyuvz8ATQmMLTx) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Blue Skies](https://open.spotify.com/album/1m50nO6LDcbAsv82M2KaZR) | 2:34 |
+| 34 | [All the Way from Memphis](https://open.spotify.com/track/5lP2EYWk8LFUkM0grPWUFT) | [Mott The Hoople](https://open.spotify.com/artist/6ysQi6NI88X627t2srsWz6) | [Mott \(Expanded Edition\)](https://open.spotify.com/album/3ApRy4edE6ZYi081aFpq4s) | 5:02 |
+| 35 | [In My Life](https://open.spotify.com/track/28pCUugff10DEjOtU2kKSS) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [Wallflower \(Deluxe Edition\)](https://open.spotify.com/album/0y23DgLgmNM6o3SLlXV0Xd) | 3:51 |
+| 36 | [Wild Horses](https://open.spotify.com/track/1P3JfNdQLDlQUFmo0r5QyK) | [Charlotte Martin](https://open.spotify.com/artist/5Cmht6FxXbw5GtPOCrzjNM) | [On Your Shore](https://open.spotify.com/album/4azwQskqRbcF2yUske9S7q) | 5:31 |
+| 37 | [The Luckiest](https://open.spotify.com/track/2HlRYsFHmIwdBK2nUHVrzK) | [Ben Folds](https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu) | [About Time](https://open.spotify.com/album/0jzSVXaQln8X9e4m8e2V0y) | 4:04 |
+| 38 | [Blow By Blow](https://open.spotify.com/track/3sj6VdqRx1V71WW1xUEq92) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Song For Our Daughter](https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu) | 2:55 |
+| 39 | [Silent All These Years](https://open.spotify.com/track/3IZXUxoL1Q7yUj5mh3Tmqp) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes](https://open.spotify.com/album/1pFUGy3ABpLRRE3oNMPbDb) | 4:11 |
 | 40 | [Blue Sky Blues](https://open.spotify.com/track/4uNBtQq2SUcdnp2BK83TiV) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [29](https://open.spotify.com/album/1Bn1Zxb5g2Fa6T5pMY324X) | 5:18 |
 
 Snapshot ID: `MTcwNjU2NzMyMSwwMDAwMDAwMDkwZDQ1NzkxNzZiNDRjNzRmMWYyNzBjMmZlYTNmMTc5`

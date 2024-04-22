@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del pop en espa\u00f1ol. Foto: Abraham Mateo",
-  "num_followers": 967561,
+  "num_followers": 965007,
   "original_name": "Pop con \u00d1",
   "owner": {
     "name": "Spotify",
@@ -355,6 +355,22 @@
     {
       "added_at": "2024-04-18 15:19:50",
       "album": {
+        "name": "Tarde",
+        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 162181,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+    },
+    {
+      "added_at": "2024-04-18 15:19:50",
+      "album": {
         "name": "Todo cambia",
         "url": "https://open.spotify.com/album/2rwGnAgqgUU3mYtY5pscXd"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2024-04-18 15:19:50",
       "album": {
-        "name": "Tarde",
-        "url": "https://open.spotify.com/album/4S33ZpEVs5S2RqcqkM4KGF"
+        "name": "buenos aires",
+        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
       },
       "artists": [
         {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 162181,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/1rGqazNAf6UvmnAC7a5M3B"
+      "duration_ms": 203114,
+      "name": "buenos aires",
+      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
     },
     {
       "added_at": "2024-04-18 15:19:50",
@@ -403,22 +419,6 @@
       "duration_ms": 184320,
       "name": "Vocation",
       "url": "https://open.spotify.com/track/6vkEJP0K2rPfe0ucPnKkLd"
-    },
-    {
-      "added_at": "2024-04-18 15:19:50",
-      "album": {
-        "name": "buenos aires",
-        "url": "https://open.spotify.com/album/4SXpbXXNdxRmHbyoFaCnvc"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "buenos aires",
-      "url": "https://open.spotify.com/track/7L0BH62HRIap3Fg6KUyQfR"
     },
     {
       "added_at": "2024-04-18 15:19:50",
@@ -667,22 +667,6 @@
     {
       "added_at": "2024-04-18 15:19:50",
       "album": {
-        "name": "\u00c1NGEL",
-        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
-      },
-      "artists": [
-        {
-          "name": "Cali Y El Dandee",
-          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Ella",
-      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
-    },
-    {
-      "added_at": "2024-04-18 15:19:50",
-      "album": {
         "name": "Sin Filtro",
         "url": "https://open.spotify.com/album/5FFN7Ju1YOxdSBcbO7Iqs5"
       },
@@ -707,6 +691,22 @@
     {
       "added_at": "2024-04-18 15:19:50",
       "album": {
+        "name": "\u00c1NGEL",
+        "url": "https://open.spotify.com/album/3g5VwrXN4bKoU9UKux5k5N"
+      },
+      "artists": [
+        {
+          "name": "Cali Y El Dandee",
+          "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Ella",
+      "url": "https://open.spotify.com/track/1DPtfQYOFB9IAEk1o4qBmS"
+    },
+    {
+      "added_at": "2024-04-18 15:19:50",
+      "album": {
         "name": "Te echo de -",
         "url": "https://open.spotify.com/album/2ZidbiN9jxUipofcnQohLN"
       },
@@ -719,22 +719,6 @@
       "duration_ms": 176226,
       "name": "Te echo de -",
       "url": "https://open.spotify.com/track/6bo5SaAuPbRA70oTA3MIRj"
-    },
-    {
-      "added_at": "2024-04-18 15:19:50",
-      "album": {
-        "name": "Coraz\u00f3n Quemado",
-        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 185473,
-      "name": "Coraz\u00f3n Quemado",
-      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
     },
     {
       "added_at": "2024-04-18 15:19:50",
@@ -767,6 +751,22 @@
       "duration_ms": 169721,
       "name": "PETER PAN",
       "url": "https://open.spotify.com/track/4JF5WLz8y7hfTsy5Tpnwwj"
+    },
+    {
+      "added_at": "2024-04-18 15:19:50",
+      "album": {
+        "name": "Coraz\u00f3n Quemado",
+        "url": "https://open.spotify.com/album/3Z4oiCXucKORyireiaaYev"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 185473,
+      "name": "Coraz\u00f3n Quemado",
+      "url": "https://open.spotify.com/track/6IGEcJDI3vTApF34vv5OT7"
     },
     {
       "added_at": "2024-04-18 15:19:50",
@@ -835,22 +835,6 @@
       "duration_ms": 163578,
       "name": "EL FORASTERO",
       "url": "https://open.spotify.com/track/1W4IXAf9YN7FOsdycfu7j8"
-    },
-    {
-      "added_at": "2024-04-18 15:19:50",
-      "album": {
-        "name": "TE TRAJE FLORES",
-        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
-      },
-      "artists": [
-        {
-          "name": "Enol",
-          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
-        }
-      ],
-      "duration_ms": 177103,
-      "name": "COMO TE QUIERO YO",
-      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
     },
     {
       "added_at": "2024-04-18 15:19:50",
@@ -927,6 +911,22 @@
       "duration_ms": 193626,
       "name": "Pirata",
       "url": "https://open.spotify.com/track/4QE2lll1AHZw20DOnkGmZD"
+    },
+    {
+      "added_at": "2024-04-18 15:19:50",
+      "album": {
+        "name": "TE TRAJE FLORES",
+        "url": "https://open.spotify.com/album/4TFyBwPFFulgy4cPKfeuxA"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        }
+      ],
+      "duration_ms": 177103,
+      "name": "COMO TE QUIERO YO",
+      "url": "https://open.spotify.com/track/5ElBS8iZQYjScNJCtwLXKO"
     },
     {
       "added_at": "2024-04-18 15:19:50",

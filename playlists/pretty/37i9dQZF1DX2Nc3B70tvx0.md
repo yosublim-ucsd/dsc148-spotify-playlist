@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Nc3B70tvx0.md) - [plain]
 
 > The best in modern indie\. Cover: Suki Waterhouse
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,099,319 likes - 130 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,091,211 likes - 130 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

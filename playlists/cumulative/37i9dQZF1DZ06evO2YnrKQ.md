@@ -2,7 +2,7 @@
 
 ### [This Is Alexisonfire](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2YnrKQ)
 
-> This is Alexisonfire\. The essential tracks, all in one playlist.
+> This is Alexisonfire\. Todos os maiores hits em uma só playlist.
 
 41 songs - 2 hr 56 min
 

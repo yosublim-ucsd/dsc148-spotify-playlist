@@ -4,7 +4,7 @@
 
 > Big rooms and big sounds\. Cover: Hardwell
 
-431 songs - 22 hr 40 min
+432 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Cafe Del Mar](https://open.spotify.com/track/5rYJdqK0TTWSqSRbOnsLmg) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy), [MATTN](https://open.spotify.com/artist/1RQ3ZwCNI7KniEKIN5kkio) | [Cafe Del Mar](https://open.spotify.com/album/7fBrYVTlHm2HDWLciyiWUy) | 3:31 | 2022-04-21 | 2023-12-21 |
 | [Call On Me \(feat\. Georgia Ku\) \- Justus Remix](https://open.spotify.com/track/5OFvLsXk7c0aBParNuigiL) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Justus](https://open.spotify.com/artist/0iPzFfhXb2ilEodYsMoUX4), [Georgia Ku](https://open.spotify.com/artist/5mYakBbBzPMQTfkVMIgiDM) | [Call On Me \(feat\. Georgia Ku\) \[Justus Remix\]](https://open.spotify.com/album/7LU7n5PuOXFApyoZvsh8T2) | 3:27 | 2022-04-14 | 2022-09-26 |
 | [Can You Feel It](https://open.spotify.com/track/1jNLVHoxNFEWRTEaFuCUiT) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX) | [Can You Feel It](https://open.spotify.com/album/3r7fZsRIWMBDbiYP3R8FDI) | 1:37 | 2023-11-30 | 2024-01-12 |
-| [Cannonball \- Will Sparks Remix](https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Cannonball \(Will Sparks Remix\)](https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8) | 4:03 | 2023-07-27 |  |
+| [Cannonball \- Will Sparks Remix](https://open.spotify.com/track/4wRKAezWo1oLA0g2fw0XE9) | [Showtek](https://open.spotify.com/artist/3gk0OYeLFWYupGFRHqLSR7), [Justin Prime](https://open.spotify.com/artist/0TFdkHvlyUVl9zrb4seHxJ), [Will Sparks](https://open.spotify.com/artist/1u7OVFmWah4wQhOPIbUb8U) | [Cannonball \(Will Sparks Remix\)](https://open.spotify.com/album/5zaayiAD6wljfJTYmS33A8) | 4:03 | 2023-07-27 | 2024-04-22 |
 | [Cantus](https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n) | [Mariana BO](https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22) | [Cantus](https://open.spotify.com/album/4EpXHxtJQBHKPK17PSyaAF) | 3:04 | 2023-12-20 |  |
 | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/track/50uVUAAKVcn35SHQ1Dtjbd) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Alida](https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0) | [Careful What You Wish For \(feat\. Alida\) \[Club Mix\]](https://open.spotify.com/album/5d7j6vrBghNkNy6FiU7imF) | 2:52 | 2023-06-08 |  |
 | [Caution](https://open.spotify.com/track/3kb6CrEAEFXQhv4F0fzJ0W) | [Lister](https://open.spotify.com/artist/3PVaZbavVE6omwXa3SNLmI), [AndyG](https://open.spotify.com/artist/2br4jMqV5zeEWuwZALYqw3) | [Caution](https://open.spotify.com/album/41PHDKzQZhm5mi1yZXTLd3) | 2:36 | 2022-12-27 | 2023-01-03 |
@@ -194,6 +194,7 @@
 | [INTO THE UNKNOWN](https://open.spotify.com/track/7nHruG1y3zBupJG6F6UQtB) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174) | [INTO THE UNKNOWN](https://open.spotify.com/album/5m6bf6RkkaLp3iTH7qllng) | 3:58 | 2022-04-14 | 2022-07-29 |
 | [It Burns](https://open.spotify.com/track/1ErBChhaYaWQuQ4zdnnx8C) | [Alle Farben](https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo) | [It Burns \- EP](https://open.spotify.com/album/2Ez7bO7GYBLHsgXdApOnl2) | 3:12 | 2023-05-25 |  |
 | [Judgement Day](https://open.spotify.com/track/2WtAN4pdVELZmswx5QGGyY) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Sub Zero Project](https://open.spotify.com/artist/4f0OXMMSxr0r8Ztx6CdpAl) | [Judgement Day](https://open.spotify.com/album/0by4En9FMFKLpeDiq6DhCF) | 4:28 | 2023-04-20 | 2023-11-10 |
+| [JUMP AND RAVE](https://open.spotify.com/track/5ccpdTCx1ZxIg4oDaB3aMf) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD) | [JUMP AND RAVE](https://open.spotify.com/album/6gO207P5ORSgyFxwoO2Foq) | 2:18 | 2024-04-18 |  |
 | [Jump Up](https://open.spotify.com/track/573dAl0k0byOJYXrqGbESd) | [Firebeatz](https://open.spotify.com/artist/53YSn9tHwGJ6bq5P0gGoYo) | [Jump Up](https://open.spotify.com/album/7MYJPKIMcn331wbHRjUYhl) | 2:35 | 2024-03-28 |  |
 | [Keep Moving](https://open.spotify.com/track/0QFKNWVDzx68m98IMDSxyY) | [Quintino](https://open.spotify.com/artist/1V3VTM7VspiQjcmRhC010n) | [Keep Moving](https://open.spotify.com/album/169CFMX9eGD379MAPwLEud) | 2:26 | 2022-06-30 | 2023-04-09 |
 | [Kill Me Slow](https://open.spotify.com/track/2NZJKUPIGfJqLAzONNr4gv) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [MORTEN](https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8) | [New Rave](https://open.spotify.com/album/0fKU8zzmBjXNAJp5Uo2dml) | 3:28 | 2022-04-14 | 2022-10-28 |

@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-714 songs - 1 day 16 hr 48 min
+715 songs - 1 day 16 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -209,7 +209,7 @@
 | [Feeling For You](https://open.spotify.com/track/1BSTT3sbQ1MVVacApHilK9) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Living In A Haze](https://open.spotify.com/album/0i97wLIXfWMDi3vyRDZBCn) | 3:41 | 2024-02-15 | 2024-03-01 |
 | [FEELING IT](https://open.spotify.com/track/5tKM15EmEHGRufPvR2Prqi) | [Yung Beathoven](https://open.spotify.com/artist/1jRPlDFS33VKRsW5WYBNTs), [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [FEELING IT](https://open.spotify.com/album/3I3dDA3aaa94LY9eXkk774) | 2:23 | 2023-09-29 | 2023-12-01 |
 | [Feet Up](https://open.spotify.com/track/5INtXPkeFiKoxfb1NCHQTH) | [My Ugly Clementine](https://open.spotify.com/artist/5PLynKfQumQiB3ihXcG28Y) | [Feet Up](https://open.spotify.com/album/4WsRuEohGjQM5T09Osf97R) | 2:59 | 2023-06-15 | 2023-07-14 |
-| [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 | 2022-11-24 |  |
+| [Fight For Me](https://open.spotify.com/track/04SvT7sTy6PcImc0mmEXmU) | [Mann Friday](https://open.spotify.com/artist/5mIQ8NjjqcuGvlboXVzJV8) | [Fight For Me](https://open.spotify.com/album/20vcpStEfCgWZiwTtGojta) | 3:46 | 2022-11-24 | 2024-04-22 |
 | [Finally](https://open.spotify.com/track/2j7sYiFQN40rXPfW8PyJ0S) | [Myles Creamer](https://open.spotify.com/artist/1eyiZ9G6tINrP8uHJIrlEL) | [Finally](https://open.spotify.com/album/6yXWiFRIs3Ko1K8xVaDTX4) | 3:28 | 2023-12-14 | 2024-01-12 |
 | [Find You There](https://open.spotify.com/track/3Xbjkj3z2xth7EdP3RdMTi) | [Booshle G.](https://open.spotify.com/artist/1QSMqcINjuDyxFbacapl0s) | [Find You There](https://open.spotify.com/album/4rn5EMuUivnnQmxccYkRe3) | 3:05 | 2023-06-22 | 2023-08-05 |
 | [Finding Paradise](https://open.spotify.com/track/0fmegVXiAaQ2pGgKsZUEZB) | [Petite Noir](https://open.spotify.com/artist/4dGwtd1FYag1VY1vaR1U8y) | [Finding Paradise](https://open.spotify.com/album/3vjQseBx4vWN7iHLRHHOtg) | 3:35 | 2023-03-09 | 2023-05-19 |
@@ -409,6 +409,7 @@
 | [Naked as We Came](https://open.spotify.com/track/6UIxGIqWlO5wsddY44AV1R) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Our Endless Numbered Days \(Deluxe Edition\)](https://open.spotify.com/album/169vCBCFaW2na816P8Ir7m) | 2:32 | 2023-01-12 | 2023-02-17 |
 | [Ndi a Ni Funa](https://open.spotify.com/track/2N1TKyUtiutH2AqBpF98t1) | [Muneyi](https://open.spotify.com/artist/6JzpDqY5CZkjLU40GmmTkM), [Kozo Zwane](https://open.spotify.com/artist/0Sa8nh1qc2jZhlqddED69k) | [Ndi a Ni Funa](https://open.spotify.com/album/1u5Wl8S3EuGd0woWFeJ68I) | 3:48 | 2023-03-02 | 2023-04-15 |
 | [Ndokulandela](https://open.spotify.com/track/1kQjyyI3xZixtByFizxlXE) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [Mangaliso](https://open.spotify.com/album/1fXiO7h7dDB3RBG13jLh8A) | 3:51 | 2024-01-11 |  |
+| [New Old Times](https://open.spotify.com/track/74xrdg0CobTeKelmdCdyKm) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [New Old Times](https://open.spotify.com/album/2jGbhP0UjeaFTQWwR2Kx0m) | 3:07 | 2024-04-12 |  |
 | [next to me](https://open.spotify.com/track/21GXvxNrCD86TOCJSAy7wC) | [aidin](https://open.spotify.com/artist/49zJIP0xR8T2B1hrzm4fcL) | [next to me](https://open.spotify.com/album/73G06P0MgohwfkY9Attppu) | 3:32 | 2023-09-07 | 2023-12-01 |
 | [Nice](https://open.spotify.com/track/0wbvC5m9im0mBkUtoVC0BA) | [Luh'ra](https://open.spotify.com/artist/0iXElExInTSMZ3DRWE7lpD) | [Nice](https://open.spotify.com/album/7m5ZWrFd3dbAW6oOrkxdm6) | 5:11 | 2022-07-21 | 2022-11-18 |
 | [Nice Guy](https://open.spotify.com/track/1D84s1Wi9wDnyiLTrn174x) | [Mila Smith](https://open.spotify.com/artist/7DI5lMybujziYTvkwJajab) | [Nice Guy](https://open.spotify.com/album/671RmYhAsiLtuug0Tykqfc) | 2:24 | 2022-12-15 | 2023-01-13 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 1002626,
+  "2024-04-22": 1000479,
   "date_first_scraped": "2022-02-09",
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Babas\u00f3nicos en portada. ",
   "name": "La + Chingona",
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 202556,
       "name": "Estoy Perdiendo La Raz\u00f3n",
       "url": "https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR"
@@ -3187,12 +3187,12 @@
           "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         },
         {
-          "name": "Vivir Quintana",
-          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
-        },
-        {
           "name": "Los Aut\u00e9nticos Decadentes",
           "url": "https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj"
+        },
+        {
+          "name": "Vivir Quintana",
+          "url": "https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2"
         }
       ],
       "date_added": "2024-04-19",
@@ -3661,7 +3661,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 240814,
       "name": "Te entiendo",
       "url": "https://open.spotify.com/track/6KBgTCipUwiimLNCSal4FZ"

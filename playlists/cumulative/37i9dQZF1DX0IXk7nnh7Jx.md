@@ -4,7 +4,7 @@
 
 > Celebrate the spirit of independence by listening to the best songs from faith\-based indie artists\.  Cover: <a href="spotify:artist:19TPpTWkgX13Qc2stbqVoP">Terrian</a>
 
-522 songs - 1 day 6 hr 59 min
+523 songs - 1 day 7 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Goodbye Ole Me](https://open.spotify.com/track/2Ia3J3KjBGuJpNv93YaoLk) | [Consumed By Fire](https://open.spotify.com/artist/7nuXXKpffW4YAaXrJP6IH5) | [Goodbye Ole Me](https://open.spotify.com/album/4nFLk3fZUyo8CnQZ1FHKc2) | 2:01 | 2023-02-19 | 2023-03-23 |
 | [Grace](https://open.spotify.com/track/2LF1EjI7vMM37yRUzEWk8s) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Grace](https://open.spotify.com/album/2SLgmMY9hC8pM6qPwNRBWK) | 3:20 | 2023-11-03 | 2024-01-27 |
 | [Grace](https://open.spotify.com/track/73RrO6QxGa9svtiBkzjgPc) | [Jonny Henninger](https://open.spotify.com/artist/1L9zhXcitRv35NwUZmwBZ4), [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [Grace](https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v) | 3:15 | 2023-11-03 | 2024-01-27 |
-| [Grateful For \- Piano Version](https://open.spotify.com/track/0sOzRCuLs6xggtyowXqafn) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Grateful For \(Piano Version\)](https://open.spotify.com/album/43bHldkjFIByi6y72XfrJ2) | 3:38 | 2023-11-03 |  |
+| [Grateful For \- Piano Version](https://open.spotify.com/track/0sOzRCuLs6xggtyowXqafn) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Grateful For \(Piano Version\)](https://open.spotify.com/album/43bHldkjFIByi6y72XfrJ2) | 3:38 | 2023-11-03 | 2024-04-22 |
 | [Grateful For \- Piano Version](https://open.spotify.com/track/4V8Qpg8beqyZQkQmsdFQ2u) | [Natalie Layne](https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB) | [Amen \(At The Piano\)](https://open.spotify.com/album/5Ofet3s3gft7E3gMcNZQmE) | 3:38 | 2024-01-26 | 2024-04-19 |
 | [growing into my dreams](https://open.spotify.com/track/4GtT4W8Ze5bFJpxxy3m4Mh) | [Ben Lawrence](https://open.spotify.com/artist/4hwbEkmTTgBuc7sYVKA5PN), [Christian Singleton](https://open.spotify.com/artist/5KGTTFuyg5XfMMep5hTokE) | [growing into my dreams](https://open.spotify.com/album/1zN8J0Ci8C1k49ypLIzvfQ) | 2:05 | 2023-08-11 | 2023-08-14 |
 | [Growing Up](https://open.spotify.com/track/26AqRniqB19PZGLuvYFqUZ) | [Joseph O'Brien](https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa) | [Growing Up](https://open.spotify.com/album/23IZW5PrpK26X2UeP3i2qX) | 3:35 | 2023-02-24 | 2023-12-02 |
@@ -197,6 +197,7 @@
 | [home](https://open.spotify.com/track/3f2nncGJy6DcBiNiPlogf2) | [Austin Sebek](https://open.spotify.com/artist/1hm6dCjV3emUEfCRgBvdo8) | [home](https://open.spotify.com/album/7Mwc5AMvPLzGJQp0GgIdt9) | 3:13 | 2023-02-24 | 2023-12-02 |
 | [Home](https://open.spotify.com/track/4BCZjpJSkQ9zpeEM8dV0VE) | [John Mark Pantana](https://open.spotify.com/artist/6cbdCv0bmLwcxSVFM7tuyG) | [Home / Rooftop](https://open.spotify.com/album/2FHGN0TTP3Y1xNN5H3nrcj) | 4:02 | 2023-02-19 | 2023-12-02 |
 | [Home Called Heaven](https://open.spotify.com/track/1RUgjAvt8majG62li8evpf) | [LOVKN](https://open.spotify.com/artist/2bEFxVGVlzEIEdDAaQZCrc) | [Home Called Heaven](https://open.spotify.com/album/2QlmS7ToKED5SenA36CSsV) | 3:47 | 2023-02-19 | 2023-12-02 |
+| [honestly](https://open.spotify.com/track/39Oza9lQutyyjBIeXc8Osv) | [LLC Flame](https://open.spotify.com/artist/2K7pASLzTcuXPT8ZYbi3M4) | [honestly](https://open.spotify.com/album/1SeuTEIP5GPOmQWHgH8vuc) | 2:47 | 2024-01-26 |  |
 | [Honeysuckle](https://open.spotify.com/track/7c0lalC1x342UtK0Cc5qS7) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Honeysuckle](https://open.spotify.com/album/5EqZ1Ht0tTY3IOvypM7vlJ) | 2:20 | 2023-11-03 |  |
 | [Hope](https://open.spotify.com/track/5zi9xHZ5qEdBSPkNVGumCY) | [Jervis Campbell](https://open.spotify.com/artist/31Bh5G3Q9JzwqPpHDLIQtW) | [Hope](https://open.spotify.com/album/7bklnY03LmtbfgZQbU407O) | 2:59 | 2023-02-19 | 2023-12-02 |
 | [Hope You Find Love](https://open.spotify.com/track/5BVQIDplvK9yVH6e4V20aw) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez), [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t), [Will Clifton](https://open.spotify.com/artist/5La2nqMXX5f4QHLp8VNFCy) | [Hope You Find Love](https://open.spotify.com/album/3qSrq3G0Ib01gaX0iznu1y) | 3:30 | 2023-11-03 |  |

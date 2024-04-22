@@ -1,12 +1,12 @@
 {
   "description": "Kumpulan lagu yang sedang menyebar luas. Cover: BABYMONSTER",
-  "num_followers": 1273617,
+  "num_followers": 1273327,
   "original_name": "Lagi Viral",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5MjAwOSwwMDAwMDAwMDdkZTg0YjUxZjZlN2E1Yzg1YWUwODJmM2RiYjlhMDc5",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDMxNzQ1OTA1ODAwZjg4NWY3ZGRmYmRkOTQwMDhlN2I3",
   "tracks": [
     {
       "added_at": "2024-04-19 02:00:09",
@@ -345,6 +345,30 @@
       "url": "https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE"
     },
     {
+      "added_at": "2024-04-22 00:00:00",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
       "added_at": "2024-04-19 02:00:09",
       "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.4",
@@ -463,6 +487,26 @@
       "duration_ms": 213360,
       "name": "Baby By Me",
       "url": "https://open.spotify.com/track/1x075F39Q0zOhjPzPKgG8E"
+    },
+    {
+      "added_at": "2024-04-22 00:00:00",
+      "album": {
+        "name": "Hari Ini Indah",
+        "url": "https://open.spotify.com/album/6pYAlS13TFIymXJmpea1zR"
+      },
+      "artists": [
+        {
+          "name": "TRUST (Trinity Youth Symphony Orchestra)",
+          "url": "https://open.spotify.com/artist/0PXiTwsJJQRYhRzKGUn9sc"
+        },
+        {
+          "name": "Nathania Karina",
+          "url": "https://open.spotify.com/artist/5lBzbavvZxwebJniZTtnfd"
+        }
+      ],
+      "duration_ms": 290466,
+      "name": "Laskar Pelangi",
+      "url": "https://open.spotify.com/track/0wcQln9MrQ0NRetjYYZsKv"
     },
     {
       "added_at": "2024-04-19 02:00:09",
@@ -649,6 +693,26 @@
       "url": "https://open.spotify.com/track/6bIQQJk47tJsUmlqd1hEUW"
     },
     {
+      "added_at": "2024-04-22 00:00:00",
+      "album": {
+        "name": "Hell N Back (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+    },
+    {
       "added_at": "2024-04-19 02:00:09",
       "album": {
         "name": "Top Hits Sunda Togel",
@@ -791,6 +855,22 @@
       "duration_ms": 166384,
       "name": "Smart",
       "url": "https://open.spotify.com/track/4lR8sYGMGZPvthF2yUfo7T"
+    },
+    {
+      "added_at": "2024-04-22 00:00:00",
+      "album": {
+        "name": "Jungkir Balik",
+        "url": "https://open.spotify.com/album/61Iqd46DegZEqa1yFwm3Dp"
+      },
+      "artists": [
+        {
+          "name": "Maisha Kanna",
+          "url": "https://open.spotify.com/artist/3iYoSZ1R7GsEvKNzTfr5gw"
+        }
+      ],
+      "duration_ms": 230029,
+      "name": "Jungkir Balik",
+      "url": "https://open.spotify.com/track/7FHZjRzlzK7EYLfWNjVQG4"
     },
     {
       "added_at": "2024-04-19 02:00:09",

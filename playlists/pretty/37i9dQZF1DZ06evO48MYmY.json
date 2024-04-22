@@ -1,12 +1,12 @@
 {
-  "description": "This is Simon & Garfunkel. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 327074,
+  "description": "This is Simon & Garfunkel. The essential tracks, all in one playlist.",
+  "num_followers": 327067,
   "original_name": "This Is Simon & Garfunkel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDI1M2JhYTIyYTI0MDdjY2JlY2I2ZmM5ZTNlMTBiMDcy",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGI3NTkxZTBhODQ5MDhhMDY1MWU1ODNjYTllY2RiMDAw",
   "tracks": [
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 125413,
-      "name": "For Emily, Whenever I May Find Her",
-      "url": "https://open.spotify.com/track/76Fcbx3T7fUgA7phUkmsn7"
+      "duration_ms": 158773,
+      "name": "The Dangling Conversation",
+      "url": "https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX"
     },
     {
       "added_at": null,
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 158773,
-      "name": "The Dangling Conversation",
-      "url": "https://open.spotify.com/track/1tQy2AqgFc0AdddmIboIfX"
+      "duration_ms": 125413,
+      "name": "For Emily, Whenever I May Find Her",
+      "url": "https://open.spotify.com/track/76Fcbx3T7fUgA7phUkmsn7"
     },
     {
       "added_at": null,

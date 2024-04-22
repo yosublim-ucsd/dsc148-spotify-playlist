@@ -1,12 +1,12 @@
 {
-  "description": "This is Joan Baez. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 64335,
+  "description": "This Is Joan Baez. Los temas esenciales, todos en una lista.",
+  "num_followers": 64337,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDFkMzY0Mzg0MjM4MzdmYWZjOWQ5NzNjNjQyYWQ1M2Zj",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDQ3OWVmZjI2NGFlM2I1MDM5NjUzNzJkZGRmMjJlMDhm",
   "tracks": [
     {
       "added_at": null,
@@ -59,38 +59,6 @@
       "duration_ms": 188826,
       "name": "Here's to you (feat. Joan Baez)",
       "url": "https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 192933,
-      "name": "Donna Donna",
-      "url": "https://open.spotify.com/track/49uBVeaM3ixGD8VIeqh9KI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The First 10 Years",
-        "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 189800,
-      "name": "Don't Think Twice, It's All Right",
-      "url": "https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse"
     },
     {
       "added_at": null,
@@ -239,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -283,6 +235,22 @@
       "duration_ms": 223733,
       "name": "Sweet Sir Galahad",
       "url": "https://open.spotify.com/track/0wVsSz391qR4eORwDy3Xvg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
       "added_at": null,
@@ -403,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "From Every Stage",
-        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 219533,
-      "name": "Forever Young - Live On Tour / 1975",
-      "url": "https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed Are...",
         "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
       },
@@ -431,6 +383,22 @@
       "duration_ms": 182026,
       "name": "Help Me Make It Through The Night",
       "url": "https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "From Every Stage",
+        "url": "https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 219533,
+      "name": "Forever Young - Live On Tour / 1975",
+      "url": "https://open.spotify.com/track/5y6ZSk8B59M17VLCeSjdOy"
     },
     {
       "added_at": null,
@@ -663,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 185933,
-      "name": "Colours",
-      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -695,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Any Day Now",
-        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -704,9 +656,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 164200,
-      "name": "Love Minus Zero / No Limit",
-      "url": "https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO"
+      "duration_ms": 185933,
+      "name": "Colours",
+      "url": "https://open.spotify.com/track/5RbUDT4ZWJZTRVRcfAbV0J"
     },
     {
       "added_at": null,
@@ -723,6 +675,22 @@
       "duration_ms": 273506,
       "name": "Boots Of Spanish Leather",
       "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Any Day Now",
+        "url": "https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "Love Minus Zero / No Limit",
+      "url": "https://open.spotify.com/track/4zU2gsfo50BU2MWpMUJtpO"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
       "duration_ms": 677800,
       "name": "Sad-Eyed Lady Of The Low Lands",
       "url": "https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Baez, Vol. Ii",
+        "url": "https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Plaisir D' Amour",
+      "url": "https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "We Shall Overcome - Live",
+      "url": "https://open.spotify.com/track/3lM2es3TbqmWjOGAx35fyh"
     }
   ],
   "unique_name": "This Is Joan Baez",

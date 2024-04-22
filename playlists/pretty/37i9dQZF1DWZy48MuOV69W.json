@@ -1,6 +1,6 @@
 {
   "description": "Cozy and jazzy interpretations of all your favourite Christmas songs.",
-  "num_followers": 73065,
+  "num_followers": 73049,
   "original_name": "Fireside Christmas Jazz",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
+        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
+      },
+      "artists": [
+        {
+          "name": "Dinah Washington",
+          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
+        }
+      ],
+      "duration_ms": 165160,
+      "name": "Ole Santa",
+      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "The Classic Christmas Album",
         "url": "https://open.spotify.com/album/6Djk03kVAeEzGpFpLbA141"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 195173,
       "name": "Silver Bells (feat. Count Basie Big Band)",
       "url": "https://open.spotify.com/track/1qUNMljTcCUraMU82IU7aN"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "The Complete Dinah Washington On Mercury Vol. 6 (1958-1960)",
-        "url": "https://open.spotify.com/album/19tw1MckQmVNrGJYcCva7f"
-      },
-      "artists": [
-        {
-          "name": "Dinah Washington",
-          "url": "https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa"
-        }
-      ],
-      "duration_ms": 165160,
-      "name": "Ole Santa",
-      "url": "https://open.spotify.com/track/6MpmfCUaLKb4MsrbmTwRx0"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -183,6 +183,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "White Christmas",
+        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
+      },
+      "artists": [
+        {
+          "name": "Matt Belsante",
+          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
+        }
+      ],
+      "duration_ms": 214786,
+      "name": "Home For The Holidays",
+      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Have Yourself a Merry Little Christmas",
         "url": "https://open.spotify.com/album/0h9OvpJOdA59Ki48TXj2Ag"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 253607,
       "name": "Cradle in Bethlehem",
       "url": "https://open.spotify.com/track/5ggS2BD1ZVTF6gHPGnsG1s"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "White Christmas",
-        "url": "https://open.spotify.com/album/3YsRLmD4nlPi6fJOEmsO30"
-      },
-      "artists": [
-        {
-          "name": "Matt Belsante",
-          "url": "https://open.spotify.com/artist/4xJmGeK78D0iQa6rk4wlgz"
-        }
-      ],
-      "duration_ms": 214786,
-      "name": "Home For The Holidays",
-      "url": "https://open.spotify.com/track/0UzJq86HhxcMzisUcX2BcV"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -727,38 +727,6 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
-        "name": "The Season",
-        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 166613,
-      "name": "Sleighride",
-      "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "Greatest Christmas Songs",
-        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
-      },
-      "artists": [
-        {
-          "name": "Perry Como",
-          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
-        }
-      ],
-      "duration_ms": 121573,
-      "name": "Love Is a Christmas Rose",
-      "url": "https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
         "name": "\u30db\u30bb\u30fb\u30b8\u30a7\u30a4\u30e0\u30ba\u306e\u30af\u30ea\u30b9\u30de\u30b9\u30fb\u30bf\u30a4\u30e0",
         "url": "https://open.spotify.com/album/0ijbJQRuc5NRvLtTs3206Z"
       },
@@ -771,6 +739,22 @@
       "duration_ms": 177160,
       "name": "Christmas in New York",
       "url": "https://open.spotify.com/track/1k5garqjeufmINDIJ4RDwE"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
+        "name": "The Season",
+        "url": "https://open.spotify.com/album/3ciopGUNGy8S9VoLIfNaFG"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 166613,
+      "name": "Sleighride",
+      "url": "https://open.spotify.com/track/1rlOKavLOXeUIStHSy71a2"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -791,6 +775,22 @@
       "duration_ms": 158133,
       "name": "Love to Keep Me Warm",
       "url": "https://open.spotify.com/track/2x6Hg0OmYnkvCtFmAcyzwX"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
+        "name": "Greatest Christmas Songs",
+        "url": "https://open.spotify.com/album/1CCaTAFPyzp5XQY9nrk2TO"
+      },
+      "artists": [
+        {
+          "name": "Perry Como",
+          "url": "https://open.spotify.com/artist/5v8jlSmAQfrkTjAlpUfWtu"
+        }
+      ],
+      "duration_ms": 121573,
+      "name": "Love Is a Christmas Rose",
+      "url": "https://open.spotify.com/track/47yDmrLymZOj8W8zIgWqxw"
     },
     {
       "added_at": "2023-12-19 12:10:20",
@@ -947,6 +947,22 @@
     {
       "added_at": "2023-12-19 12:10:20",
       "album": {
+        "name": "Christmas With Ella & Friends",
+        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
+      },
+      "artists": [
+        {
+          "name": "Bing Crosby",
+          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
+        }
+      ],
+      "duration_ms": 179498,
+      "name": "White Christmas",
+      "url": "https://open.spotify.com/track/3FYOHrQTCwF0SvPQlWDXJU"
+    },
+    {
+      "added_at": "2023-12-19 12:10:20",
+      "album": {
         "name": "Jazz Christmas",
         "url": "https://open.spotify.com/album/52DmiGDlFOexov6sASMAmc"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 235560,
       "name": "Baby, It's Cold Outside",
       "url": "https://open.spotify.com/track/0V8QwRbttYen0nSQ3YrbmD"
-    },
-    {
-      "added_at": "2023-12-19 12:10:20",
-      "album": {
-        "name": "Christmas With Ella & Friends",
-        "url": "https://open.spotify.com/album/0wEWuRUrwhSlDyqUZGgHqI"
-      },
-      "artists": [
-        {
-          "name": "Bing Crosby",
-          "url": "https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S"
-        }
-      ],
-      "duration_ms": 179498,
-      "name": "White Christmas",
-      "url": "https://open.spotify.com/track/3FYOHrQTCwF0SvPQlWDXJU"
     }
   ],
   "unique_name": "Fireside Christmas Jazz",

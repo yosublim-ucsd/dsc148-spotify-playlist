@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 67658,
+  "2024-04-22": 67673,
   "date_first_scraped": "2022-04-20",
   "description": "Deep beats to study to.",
   "name": "Deep Study",
@@ -263,6 +263,24 @@
       "duration_ms": 377738,
       "name": "Atlas - Adriatique Remix",
       "url": "https://open.spotify.com/track/1Ou1g6tCGdwp2SFnNyfZXw"
+    },
+    {
+      "album": {
+        "name": "Zero",
+        "url": "https://open.spotify.com/album/5pTAVj7wSwreiGKy9zo5B1"
+      },
+      "artists": [
+        {
+          "name": "Romane Santarelli",
+          "url": "https://open.spotify.com/artist/0yQ9z8ic7T2OpRCtJVFyEN"
+        }
+      ],
+      "date_added": "2023-06-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199715,
+      "name": "Attractions",
+      "url": "https://open.spotify.com/track/4OThTZ1uXY8EXKiZcyaBGc"
     },
     {
       "album": {
@@ -621,7 +639,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 209073,
       "name": "Cloud 21 - Bongbeck Remix",
       "url": "https://open.spotify.com/track/2oEm3jyydcbdjkjmiloLaf"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover: Lil Moshpit, Paul Blanco, Okaisian\) Listen Top 5 tracks from the HAN Project artists!
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,863 likes - 151 songs - 7 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 525,707 likes - 151 songs - 7 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

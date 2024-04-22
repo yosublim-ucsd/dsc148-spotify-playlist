@@ -1,6 +1,6 @@
 {
   "description": "A collection of Grieg's finest songs, symphonies and suites.",
-  "num_followers": 35667,
+  "num_followers": 35673,
   "original_name": "This Is Grieg",
   "owner": {
     "name": "Spotify",
@@ -1231,46 +1231,6 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
-        "name": "Grieg: Piano Music, Vol. 1",
-        "url": "https://open.spotify.com/album/07IYZiT8k6webWPS63sANZ"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco pi\u00f9 lento (1887 revised Version)",
-      "url": "https://open.spotify.com/track/6ca3dprarLepreaViibS74"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Grieg: Piano Music, Vol. 1",
-        "url": "https://open.spotify.com/album/07IYZiT8k6webWPS63sANZ"
-      },
-      "artists": [
-        {
-          "name": "Edvard Grieg",
-          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
-        },
-        {
-          "name": "Einar Steen-N\u00f8kleberg",
-          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
-        }
-      ],
-      "duration_ms": 354773,
-      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale. Molto allegro (1887 revised Version)",
-      "url": "https://open.spotify.com/track/3ONoOYRg9nUmyhxEqB6XJa"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
         "name": "Grieg: Orchestral Music, Vol. 4: Peer Gynt Suites - Orchestral Songs",
         "url": "https://open.spotify.com/album/6YzXJHCK4n0unzpKqtpbBB"
       },
@@ -1336,9 +1296,49 @@
           "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
         }
       ],
+      "duration_ms": 205400,
+      "name": "Piano Sonata in E Minor, Op. 7: III. Alla Menuetto, ma poco pi\u00f9 lento (1887 revised Version)",
+      "url": "https://open.spotify.com/track/6ca3dprarLepreaViibS74"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Music, Vol. 1",
+        "url": "https://open.spotify.com/album/07IYZiT8k6webWPS63sANZ"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
       "duration_ms": 267093,
       "name": "Piano Sonata in E Minor, Op. 7: I. Allegro moderato (1887 revised Version)",
       "url": "https://open.spotify.com/track/2zyLYFU0clRveRVdiLZM7u"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
+        "name": "Grieg: Piano Music, Vol. 1",
+        "url": "https://open.spotify.com/album/07IYZiT8k6webWPS63sANZ"
+      },
+      "artists": [
+        {
+          "name": "Edvard Grieg",
+          "url": "https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy"
+        },
+        {
+          "name": "Einar Steen-N\u00f8kleberg",
+          "url": "https://open.spotify.com/artist/417bLc6SGbykzJLkFLD9HZ"
+        }
+      ],
+      "duration_ms": 354773,
+      "name": "Piano Sonata in E Minor, Op. 7: IV. Finale. Molto allegro (1887 revised Version)",
+      "url": "https://open.spotify.com/track/3ONoOYRg9nUmyhxEqB6XJa"
     },
     {
       "added_at": "2022-09-30 04:01:00",

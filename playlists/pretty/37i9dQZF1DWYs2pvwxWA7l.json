@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Ruger & Bnxn",
-  "num_followers": 555926,
+  "num_followers": 556069,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,22 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
+    },
+    {
+      "added_at": "2024-04-19 07:56:26",
+      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-04-19 07:56:26",
-      "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
-        "name": "Growing Pains",
-        "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
-      },
-      "artists": [
-        {
-          "name": "Joshua Baraka",
-          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
-        },
-        {
-          "name": "Axon",
-          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
-        }
-      ],
-      "duration_ms": 167755,
-      "name": "Dalilah",
-      "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
-    },
-    {
-      "added_at": "2024-04-19 07:56:26",
-      "album": {
         "name": "Love Made Me Do It",
         "url": "https://open.spotify.com/album/09afloJIDVkuukH5f0Puo2"
       },
@@ -1111,6 +1091,26 @@
       "duration_ms": 196008,
       "name": "Love Made Me Do It",
       "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
+    },
+    {
+      "added_at": "2024-04-19 07:56:26",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx"
+      },
+      "artists": [
+        {
+          "name": "Joshua Baraka",
+          "url": "https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW"
+        },
+        {
+          "name": "Axon",
+          "url": "https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol"
+        }
+      ],
+      "duration_ms": 167755,
+      "name": "Dalilah",
+      "url": "https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -1223,34 +1223,6 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
-        "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
-        "url": "https://open.spotify.com/album/15WfPT1UJGzQTjCMTVLvkL"
-      },
-      "artists": [
-        {
-          "name": "JAE5",
-          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
-        },
-        {
-          "name": "Lojay",
-          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
-        },
-        {
-          "name": "Tyler ICU",
-          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
-        },
-        {
-          "name": "Sha Sha",
-          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
-      "url": "https://open.spotify.com/track/4PawszYWrGKg2UddKeVk0C"
-    },
-    {
-      "added_at": "2024-04-19 07:56:26",
-      "album": {
         "name": "IS IT YOU? / MYSTERIOUS LOVE",
         "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
       },
@@ -1287,6 +1259,54 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
+        "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
+        "url": "https://open.spotify.com/album/15WfPT1UJGzQTjCMTVLvkL"
+      },
+      "artists": [
+        {
+          "name": "JAE5",
+          "url": "https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p"
+        },
+        {
+          "name": "Lojay",
+          "url": "https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL"
+        },
+        {
+          "name": "Tyler ICU",
+          "url": "https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4"
+        },
+        {
+          "name": "Sha Sha",
+          "url": "https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Dishonest (feat. Tyler ICU & Sha Sha)",
+      "url": "https://open.spotify.com/track/4PawszYWrGKg2UddKeVk0C"
+    },
+    {
+      "added_at": "2024-04-19 07:56:26",
+      "album": {
+        "name": "Likor (feat. Stonebwoy)",
+        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+      },
+      "artists": [
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        },
+        {
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        }
+      ],
+      "duration_ms": 164705,
+      "name": "Likor (feat. Stonebwoy)",
+      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
+    },
+    {
+      "added_at": "2024-04-19 07:56:26",
+      "album": {
         "name": "FADE AWAY",
         "url": "https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb"
       },
@@ -1299,26 +1319,6 @@
       "duration_ms": 168019,
       "name": "FADE AWAY",
       "url": "https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg"
-    },
-    {
-      "added_at": "2024-04-19 07:56:26",
-      "album": {
-        "name": "Down",
-        "url": "https://open.spotify.com/album/2nRCzZ8OwYBgSmjcF8wYbY"
-      },
-      "artists": [
-        {
-          "name": "Rayvanny",
-          "url": "https://open.spotify.com/artist/7G9dCn1mqomAa0ucJoBm6J"
-        },
-        {
-          "name": "ZiiBeats",
-          "url": "https://open.spotify.com/artist/1u5KBiGGlipkOJL7DQPLM4"
-        }
-      ],
-      "duration_ms": 162818,
-      "name": "Down",
-      "url": "https://open.spotify.com/track/0M9O5WAGgXg6S7f2WjU3dD"
     }
   ],
   "unique_name": "Afropop",

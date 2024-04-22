@@ -4,7 +4,7 @@
 
 > Melt into the Atmospheric Calm with these mellow beats and ambient tones.
 
-274 songs - 16 hr 11 min
+275 songs - 16 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Father Time](https://open.spotify.com/track/07cPfu8rikx5pkmAFzBDfC) | [David Payne](https://open.spotify.com/artist/1ytC4mMzuUs1yVcqMM1lu0) | [Father Time](https://open.spotify.com/album/34oHoVmrfHegqTJRnO6dLQ) | 3:51 | 2020-12-08\* | 2021-09-17 |
 | [finding home](https://open.spotify.com/track/6EweJCKcNfB2YfhLi5D2xu) | [inertia.](https://open.spotify.com/artist/3g0TdQT1NW2ZQUiertTxxH) | [finding home](https://open.spotify.com/album/5ZB82BDpGQGbGtpaddeB8F) | 1:52 | 2023-02-24 | 2023-07-29 |
 | [Finn roen](https://open.spotify.com/track/0NtkoVSkVKRmybx0Vau21E) | [Andrine Årdal](https://open.spotify.com/artist/4bxTOGvKxGPNTKqgbDsoIx) | [Finn roen](https://open.spotify.com/album/2eX9Kdyv7Pb6ro098w5yke) | 3:34 | 2020-12-08\* | 2021-05-27 |
-| [First Light](https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Daily Light](https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe) | 2:42 | 2022-07-22 |  |
+| [First Light](https://open.spotify.com/track/1bnxXs5RnZMstR6U1lsJtV) | [Pacificus Luminus](https://open.spotify.com/artist/2p0u1XegTR9g9diM8xYDRU) | [Daily Light](https://open.spotify.com/album/2P4ERwxCZCBsRb5TgqigIe) | 2:42 | 2022-07-22 | 2024-04-22 |
 | [Flight to Polaris](https://open.spotify.com/track/22M3gpI0en4ZYrhK1JBt8X) | [Hindrick](https://open.spotify.com/artist/25NRdQfTSmntRQ1ioRGZ8N) | [Flight to Polaris](https://open.spotify.com/album/4QcXA1apOxDteqr3W0hadh) | 2:31 | 2023-08-04 |  |
 | [Fluorescent \- Meditation Rework](https://open.spotify.com/track/2dKEuiYDd07R9ekDK3v8Kp) | [Loufish](https://open.spotify.com/artist/6csWDKGJDNYc0ebonJ3Xoo) | [Fluorescent \(Meditation Rework\)](https://open.spotify.com/album/38QGNYxFbXNr9sCjHi59YE) | 2:27 | 2023-09-08 | 2023-09-30 |
 | [Focus](https://open.spotify.com/track/3l7mCSypI6tYJvYe8dDI4f) | [IFEELU](https://open.spotify.com/artist/59TdBGgpKBf2dRrmguF06s) | [Focus](https://open.spotify.com/album/0Q6OXWzRgM4pbUlxYMV2Pb) | 2:47 | 2020-12-08\* | 2021-05-27 |
@@ -270,6 +270,7 @@
 | [Unsaid](https://open.spotify.com/track/2AGNymbWbkZUYTZIAdGb4H) | [Nowun](https://open.spotify.com/artist/6iuLyhiEemtogvz593CVKK) | [Unsaid](https://open.spotify.com/album/7I2441VTSINBUfbWemfCyG) | 2:28 | 2023-07-28 |  |
 | [Upwards](https://open.spotify.com/track/7AR7xW0wCscHZeYf2zj7Fc) | [Edmund's Oasis](https://open.spotify.com/artist/5zPsjxustR5GJSG26xw2SR) | [Signals Cometh](https://open.spotify.com/album/1wn3AKz6aDS0NHOkFgTi8L) | 2:03 | 2022-10-21 |  |
 | [Utopia](https://open.spotify.com/track/5TCFzGCMYTVONeGJuk8F8G) | [Sudestada X](https://open.spotify.com/artist/6IR56PVqmSSjd0Bv9nuf48) | [Humedal](https://open.spotify.com/album/3WkfEJ2DmvDItp5HdOd8Eu) | 3:04 | 2020-12-08\* | 2021-02-20 |
+| [Vesperam](https://open.spotify.com/track/6xUIYjip7xV5rOGz0V168m) | [Echoes Of Time](https://open.spotify.com/artist/4nlTOopsxNUc0ps46oigBM) | [Vesperam](https://open.spotify.com/album/6XnyWTBrYLkNvpiDoEN3b5) | 2:56 | 2024-04-04 |  |
 | [W.E.](https://open.spotify.com/track/3SDO8hL0wQ3Dxr6NN1CUbH) | [Asa Bjorg](https://open.spotify.com/artist/1aFaXuKUvi4TpzZn8cKYRQ) | [W.E.](https://open.spotify.com/album/3fqMLlZ31uYIz326zw9bdH) | 4:16 | 2020-12-08\* | 2021-02-20 |
 | [Water Jewel](https://open.spotify.com/track/2GKxE4qFT0kUaYveDnFcVt) | [Crystal Fragments](https://open.spotify.com/artist/3crlQoae3kpZFKLtSCxrnM) | [Two Jewels](https://open.spotify.com/album/6uESTKXHQ490eo7x83I9bi) | 4:07 | 2020-12-08\* |  |
 | [Waves are coming](https://open.spotify.com/track/4m6jCOTDZfNhKA7qUEpo98) | [Nicole Rosario](https://open.spotify.com/artist/56m6DbefNtX4faz0CTVjUY) | [Waves are coming](https://open.spotify.com/album/4YJTcfkvMihuIDh0oQAnuq) | 3:53 | 2021-06-16 |  |

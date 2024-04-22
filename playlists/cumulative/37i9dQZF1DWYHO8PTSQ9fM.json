@@ -863,6 +863,24 @@
     },
     {
       "album": {
+        "name": "Corazon",
+        "url": "https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188370,
+      "name": "Corazon",
+      "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
+    },
+    {
+      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -2093,6 +2111,24 @@
     },
     {
       "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
+    },
+    {
+      "album": {
         "name": "IDK",
         "url": "https://open.spotify.com/album/6dSLJYro7OAXBPj9wAWV3j"
       },
@@ -3317,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/0kp1wmniMAFFatjW8ehxsE"
+      },
+      "artists": [
+        {
+          "name": "Didine Canon 16",
+          "url": "https://open.spotify.com/artist/2aVPTWc4WYc7b384eatevF"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186062,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/64BdhCUilpLD8cxjbUIHER"
+    },
+    {
+      "album": {
         "name": "Noss Ellil",
         "url": "https://open.spotify.com/album/24wRSBBUiTv9EGUuhQnwYp"
       },
@@ -3652,7 +3706,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 208405,
       "name": "Pyramide",
       "url": "https://open.spotify.com/track/0y79GClHejq2TTQLaYFLUT"
@@ -3696,7 +3750,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 184253,
       "name": "RAZONES (feat. Morad)",
       "url": "https://open.spotify.com/track/62OmBF30kfTb0XLbGZPeTS"

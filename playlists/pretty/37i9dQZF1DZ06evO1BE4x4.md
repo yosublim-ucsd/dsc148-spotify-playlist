@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 5 | [Saramona Said](https://open.spotify.com/track/6n0UZBn3qWgsm13ihODEMS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:00 |
 | 6 | [Kamikaze](https://open.spotify.com/track/4LSj32kCt3uKefJZfWiMd8) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Kamikaze](https://open.spotify.com/album/3ljqE5xXeHOgMHJ0ydRmBV) | 3:22 |
 | 7 | [Viceroy](https://open.spotify.com/track/1GDHLUJbmUrd0Jf88q2pZP) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:14 |
-| 8 | [Domestic La La](https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Domestic La La](https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3) | 3:39 |
+| 8 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 |
 | 9 | [Fur Eyes](https://open.spotify.com/track/7LWjyfOdMrdRWnetsxqBsu) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 4:33 |
-| 10 | [Muscle Junkie](https://open.spotify.com/track/6gDmTuKbuGUkFSpVqdZH4r) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:16 |
+| 10 | [Domestic La La](https://open.spotify.com/track/17Xp1DIwYwUJuXlTJ7lsyN) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Domestic La La](https://open.spotify.com/album/7N342aITKYsIB8P6vK3em3) | 3:39 |
 | 11 | [Blanket](https://open.spotify.com/track/08k7gNeLvsZamR6Thx8lzZ) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [WACO](https://open.spotify.com/album/6ix7lKcyEpFlEpyiq8vfne) | 3:48 |
 | 12 | [Lying On The Floor](https://open.spotify.com/track/6Z1M64sIAU2d2NNOEDZlkS) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 3:23 |
 | 13 | [Dope Calypso](https://open.spotify.com/track/0SUXtdt8aLCt6ENqPwrJ2V) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Hungry Ghost](https://open.spotify.com/album/7MGL9NDDFd6JdFUAcJ0GbZ) | 5:04 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1BE4x4.md) - [plain]
 | 31 | [A\-OK](https://open.spotify.com/track/7fRmDecaHguRLdKIlccebL) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Everything Is A\-OK](https://open.spotify.com/album/0NoURVN52i7sOfSHeoVXKd) | 2:43 |
 | 32 | [Here Be Dragons](https://open.spotify.com/track/5VeV8aExj7SSgNDXr5bdJK) | [Violent Soho](https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp) | [Violent Soho](https://open.spotify.com/album/752CwfZ8NvwXHv8IOjnWV0) | 3:14 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMGQ1NjBkNjc0MGIxMzMyNDYyNDMyYjU2MjYzZjMwZGU5`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDBhMTJhNjY1NTY5MTQ4MjExMTc4YjVlMmM5ZDNlZmFi`

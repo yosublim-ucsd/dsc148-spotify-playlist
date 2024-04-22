@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 195759,
+  "2024-04-22": 195694,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -519,6 +519,28 @@
       "duration_ms": 168982,
       "name": "Airforce blue",
       "url": "https://open.spotify.com/track/32Y3wufXTQKoVtNs23kwKi"
+    },
+    {
+      "album": {
+        "name": "Alaska (feat. Ji Nilsson)",
+        "url": "https://open.spotify.com/album/21nebDA7hpQYiXIj6COyFC"
+      },
+      "artists": [
+        {
+          "name": "Tjejdikter",
+          "url": "https://open.spotify.com/artist/24jxioCskQfOCxvBwhJegc"
+        },
+        {
+          "name": "Ji Nilsson",
+          "url": "https://open.spotify.com/artist/4gXoprttD6M0HwTqQNsxOY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165928,
+      "name": "Alaska (feat. Ji Nilsson)",
+      "url": "https://open.spotify.com/track/2K1YdQfbCSUhJWJFygc8if"
     },
     {
       "album": {
@@ -3437,7 +3459,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 210172,
       "name": "Dear Emily",
       "url": "https://open.spotify.com/track/4RMH038jyziMgRwiFW4xQC"
@@ -4905,7 +4927,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 204746,
       "name": "Earth",
       "url": "https://open.spotify.com/track/10DkiMa9oJCAKNnelrf4XC"
@@ -5916,6 +5938,24 @@
     },
     {
       "album": {
+        "name": "FFL",
+        "url": "https://open.spotify.com/album/67XbEzL2I0E1nRBsp76azd"
+      },
+      "artists": [
+        {
+          "name": "Elias Abbas",
+          "url": "https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169333,
+      "name": "FFL",
+      "url": "https://open.spotify.com/track/4Ar2EzzoTHOxemFzFSBy0J"
+    },
+    {
+      "album": {
         "name": "Fight Like A Girl",
         "url": "https://open.spotify.com/album/2HblPY60rDzBDoL2T5Gw5e"
       },
@@ -6151,6 +6191,28 @@
       "duration_ms": 173680,
       "name": "Flyga",
       "url": "https://open.spotify.com/track/2NYq3cFJKFtGkxbGLzSXLP"
+    },
+    {
+      "album": {
+        "name": "FLYTTA",
+        "url": "https://open.spotify.com/album/1odyNv0lnQ6cTRLyIc4qLt"
+      },
+      "artists": [
+        {
+          "name": "Albin Johns\u00e9n",
+          "url": "https://open.spotify.com/artist/6IfZesOI3vKCZy8pjzVknj"
+        },
+        {
+          "name": "KHARMA",
+          "url": "https://open.spotify.com/artist/2EZTSVr6dVIOe7aeMEFQic"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141642,
+      "name": "FLYTTA",
+      "url": "https://open.spotify.com/track/5FHLiCHC4pZcjAuvmiaGJz"
     },
     {
       "album": {
@@ -6755,7 +6817,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 229346,
       "name": "F\u00d6RST\u00c4RKARE",
       "url": "https://open.spotify.com/track/1q3g6ZgG0vIIZGQduiPQIz"
@@ -6953,7 +7015,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 192238,
       "name": "Genom M\u00f6rker",
       "url": "https://open.spotify.com/track/03OwhLPJ20AjijuZs8QFaO"
@@ -8055,6 +8117,24 @@
       "duration_ms": 198217,
       "name": "Her",
       "url": "https://open.spotify.com/track/6K0EBxtRqlFl481Zy0zAu9"
+    },
+    {
+      "album": {
+        "name": "Hercules",
+        "url": "https://open.spotify.com/album/128LJh1FIAAS0QcpRNvPWD"
+      },
+      "artists": [
+        {
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200874,
+      "name": "Hercules",
+      "url": "https://open.spotify.com/track/2EKj7HXp6JHXIVbMzmDUlK"
     },
     {
       "album": {
@@ -9494,6 +9574,24 @@
     },
     {
       "album": {
+        "name": "IGEN IGEN IGEN",
+        "url": "https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj"
+      },
+      "artists": [
+        {
+          "name": "LOOKET",
+          "url": "https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130153,
+      "name": "IGEN IGEN IGEN",
+      "url": "https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls"
+    },
+    {
+      "album": {
         "name": "Imagine",
         "url": "https://open.spotify.com/album/6hvg6l17kva8IRQBe6mgS6"
       },
@@ -9541,7 +9639,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 104347,
       "name": "In My Mind",
       "url": "https://open.spotify.com/track/4ywvtcOycSYXx7LOMQ2bW4"
@@ -12919,7 +13017,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 198586,
       "name": "Mullvadsbuljong",
       "url": "https://open.spotify.com/track/6bPYkRmqs2Ejl4NVwOAKjS"
@@ -13604,6 +13702,24 @@
     },
     {
       "album": {
+        "name": "N\u00e4r vi var tillsammans",
+        "url": "https://open.spotify.com/album/30RGwYO7tOZS7HkPRxwzNP"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218040,
+      "name": "N\u00e4r vi var tillsammans",
+      "url": "https://open.spotify.com/track/6lNVSkccMQGDdcSppOGOol"
+    },
+    {
+      "album": {
         "name": "N\u00e4r vinden bl\u00e5ser kallt",
         "url": "https://open.spotify.com/album/7gyuvekH6RECOct1BH4PKM"
       },
@@ -13727,7 +13843,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 188280,
       "name": "N\u00e5n annan",
       "url": "https://open.spotify.com/track/3P8yoq6ztDKZnJKE9EXZr3"
@@ -14057,6 +14173,24 @@
       "duration_ms": 129098,
       "name": "om du skulle g\u00e5 (du gick)",
       "url": "https://open.spotify.com/track/72i98bgPnpI1qrZLc7h6QY"
+    },
+    {
+      "album": {
+        "name": "OM DU VILL",
+        "url": "https://open.spotify.com/album/6YjFp8oMT5ZblznCE57H0s"
+      },
+      "artists": [
+        {
+          "name": "Emil Asserg\u00e5rd",
+          "url": "https://open.spotify.com/artist/3fpHdW8mp95bOCzRLcauZm"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170970,
+      "name": "OM DU VILL",
+      "url": "https://open.spotify.com/track/1f1L3OyGiD8EurPsIwxFfa"
     },
     {
       "album": {
@@ -17236,6 +17370,24 @@
     },
     {
       "album": {
+        "name": "SOVA ME N\u00c5N ANNAN",
+        "url": "https://open.spotify.com/album/6MUzMkt675hx5r08JPuqpx"
+      },
+      "artists": [
+        {
+          "name": "LOAM",
+          "url": "https://open.spotify.com/artist/6yAKbgaSH283c7eAZVgk3P"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137289,
+      "name": "SOVA ME N\u00c5N ANNAN",
+      "url": "https://open.spotify.com/track/7nXfkFG6fNIPwE8DcAw5PT"
+    },
+    {
+      "album": {
         "name": "Sover du sj\u00e4lv?",
         "url": "https://open.spotify.com/album/5btCIgc2cAr64WfxeKxgXP"
       },
@@ -19643,7 +19795,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 222506,
       "name": "Travelling Forever",
       "url": "https://open.spotify.com/track/2eRsu0g5PEwXJv9twUxkvX"

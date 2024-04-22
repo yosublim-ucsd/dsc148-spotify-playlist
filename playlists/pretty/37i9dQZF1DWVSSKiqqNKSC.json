@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 242627,
+  "num_followers": 242647,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
-      },
-      "artists": [
-        {
-          "name": "Rey Ruiz",
-          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
-        }
-      ],
-      "duration_ms": 289586,
-      "name": "No Me Acostumbro",
-      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "Fiestas de Cuba (Remasterizado)",
         "url": "https://open.spotify.com/album/520m5W3Yq9dKrNRp3WqU3u"
       },
@@ -223,22 +207,18 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Me Dicen Cuba / Rosa la Peligrosa",
-        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE"
       },
       "artists": [
         {
-          "name": "Alexander Abreu",
-          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
-        },
-        {
-          "name": "Havana D\u2019Primera",
-          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+          "name": "Rey Ruiz",
+          "url": "https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ"
         }
       ],
-      "duration_ms": 298374,
-      "name": "Me Dicen Cuba",
-      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+      "duration_ms": 289586,
+      "name": "No Me Acostumbro",
+      "url": "https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -275,6 +255,26 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
+        "name": "Me Dicen Cuba / Rosa la Peligrosa",
+        "url": "https://open.spotify.com/album/0OBXMlPSCxqZr4fQTcI5aN"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu",
+          "url": "https://open.spotify.com/artist/2YnskQkgb6kTSXh9YcNzgu"
+        },
+        {
+          "name": "Havana D\u2019Primera",
+          "url": "https://open.spotify.com/artist/05qiwKzU1RgkyqkEH1ZFlA"
+        }
+      ],
+      "duration_ms": 298374,
+      "name": "Me Dicen Cuba",
+      "url": "https://open.spotify.com/track/2AMQZ5IupHljTDOH44Nx2s"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
         "name": "Llego... Van Van",
         "url": "https://open.spotify.com/album/39Bn2tQqMTFkJvPPPKkiwW"
       },
@@ -287,22 +287,6 @@
       "duration_ms": 288506,
       "name": "Temba, Tumba, Timba",
       "url": "https://open.spotify.com/track/621LLhcTYkEbt1fwJuSdWi"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
-        "name": "Grandes Exitos Vol. 1",
-        "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
-      },
-      "artists": [
-        {
-          "name": "Issac Delgado",
-          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
-        }
-      ],
-      "duration_ms": 378013,
-      "name": "Qu\u00e9 Pasa Loco",
-      "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -323,6 +307,22 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
+        "name": "Grandes Exitos Vol. 1",
+        "url": "https://open.spotify.com/album/2qIauTRLruweUbBVZrQkF9"
+      },
+      "artists": [
+        {
+          "name": "Issac Delgado",
+          "url": "https://open.spotify.com/artist/2NssDL7cTwvfQm01xvepBQ"
+        }
+      ],
+      "duration_ms": 378013,
+      "name": "Qu\u00e9 Pasa Loco",
+      "url": "https://open.spotify.com/track/5evx5is4W5iLY7A5zv82Ut"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
         "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
         "url": "https://open.spotify.com/album/2rvfJUNyzz6JrSdqgHZGi6"
       },
@@ -339,58 +339,6 @@
       "duration_ms": 288012,
       "name": "Yo Vengo de Cuba (feat. Havana D' Primera)",
       "url": "https://open.spotify.com/track/2Tq5qXd9wmX2dxE69EV8od"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
-        "name": "Yo Voy Pa Encima - Single",
-        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 206992,
-      "name": "Yo Voy Pa Encima",
-      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 168866,
-      "name": "Historia de un Amor",
-      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
-        "name": "Haciendo Historia (Remasterizado)",
-        "url": "https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W"
-      },
-      "artists": [
-        {
-          "name": "Alexander Abreu and Havana D' Primera",
-          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
-        }
-      ],
-      "duration_ms": 347153,
-      "name": "Mi M\u00fasica - Remasterizado",
-      "url": "https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -443,6 +391,58 @@
       "duration_ms": 328253,
       "name": "El Negro Esta Cocinando",
       "url": "https://open.spotify.com/track/0id4prYPcy8PkGkbWy4bcP"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Yo Voy Pa Encima - Single",
+        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 206992,
+      "name": "Yo Voy Pa Encima",
+      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+      },
+      "artists": [
+        {
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 168866,
+      "name": "Historia de un Amor",
+      "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Haciendo Historia (Remasterizado)",
+        "url": "https://open.spotify.com/album/37Yk5kqjN3pCFURxP1NQ2W"
+      },
+      "artists": [
+        {
+          "name": "Alexander Abreu and Havana D' Primera",
+          "url": "https://open.spotify.com/artist/6SE3JOfUEXlxp0iUKzzLLI"
+        }
+      ],
+      "duration_ms": 347153,
+      "name": "Mi M\u00fasica - Remasterizado",
+      "url": "https://open.spotify.com/track/24hmqfTZpZ1xEb21qmOqFL"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "The Most From Beny More",
-        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 196933,
-      "name": "Que Bueno Baila Usted",
-      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
         "name": "La Vuelta al Mundo",
         "url": "https://open.spotify.com/album/4YkbsY00dYjZj5wQmdfilG"
       },
@@ -615,18 +599,18 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
-        "name": "Legado",
-        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+        "name": "The Most From Beny More",
+        "url": "https://open.spotify.com/album/0HLeuihxljxWozRHDvy0Yy"
       },
       "artists": [
         {
-          "name": "Formell y los Van Van",
-          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
         }
       ],
-      "duration_ms": 313295,
-      "name": "Al Paso",
-      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
+      "duration_ms": 196933,
+      "name": "Que Bueno Baila Usted",
+      "url": "https://open.spotify.com/track/0O8Gf1dTGNbEaSYSGk1pcS"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -647,6 +631,22 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
+        "name": "Legado",
+        "url": "https://open.spotify.com/album/1zkrBmI2CMM3z3fGoZVReP"
+      },
+      "artists": [
+        {
+          "name": "Formell y los Van Van",
+          "url": "https://open.spotify.com/artist/7CyI9iSxzxeZssDSrQv8Z4"
+        }
+      ],
+      "duration_ms": 313295,
+      "name": "Al Paso",
+      "url": "https://open.spotify.com/track/665FL9SYPVyf8ZMTvltwam"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
         "name": "Bueno",
         "url": "https://open.spotify.com/album/3TdBztL3zrCPNaAHP7WKDg"
       },
@@ -659,22 +659,6 @@
       "duration_ms": 248586,
       "name": "Tus Luces Sobre Mi",
       "url": "https://open.spotify.com/track/7AdPaRTnk63nx1E8J6XMr6"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
-        "name": "Rom\u00e1ntico",
-        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
-      },
-      "artists": [
-        {
-          "name": "Beny Mor\u00e9",
-          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
-        }
-      ],
-      "duration_ms": 176733,
-      "name": "Como Fue",
-      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2024-03-19 14:46:33",
@@ -715,6 +699,22 @@
       "duration_ms": 407920,
       "name": "La Gozadera",
       "url": "https://open.spotify.com/track/47lSbhOlKE8fJJ2jc6HqRQ"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
+        "name": "Rom\u00e1ntico",
+        "url": "https://open.spotify.com/album/5vF1wkyOrXRdnu3o3QNjNk"
+      },
+      "artists": [
+        {
+          "name": "Beny Mor\u00e9",
+          "url": "https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw"
+        }
+      ],
+      "duration_ms": 176733,
+      "name": "Como Fue",
+      "url": "https://open.spotify.com/track/6BDI8tJZLePuf70SzCiX42"
     },
     {
       "added_at": "2024-03-19 14:46:33",

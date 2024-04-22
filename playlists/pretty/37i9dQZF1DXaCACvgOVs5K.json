@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2024. See you on the dancefloor.",
-  "num_followers": 394907,
+  "num_followers": 395422,
   "original_name": "Ibiza 2024",
   "owner": {
     "name": "Spotify",
@@ -259,6 +259,22 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
+        "name": "La Danza",
+        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        }
+      ],
+      "duration_ms": 157619,
+      "name": "La Danza",
+      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
         "name": "Won't Forget You",
         "url": "https://open.spotify.com/album/36b1UkMwoVCfTVlRqgkp3J"
       },
@@ -295,38 +311,6 @@
       "duration_ms": 201713,
       "name": "The Boy Is Mine",
       "url": "https://open.spotify.com/track/1aRd5tMVhiRyMJLmSOg2IF"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "La Danza",
-        "url": "https://open.spotify.com/album/6veWaUKjv5fGyTMQoYKkgR"
-      },
-      "artists": [
-        {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
-        }
-      ],
-      "duration_ms": 157619,
-      "name": "La Danza",
-      "url": "https://open.spotify.com/track/2FEUloDXMvRnyfLcsrCfkw"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "So Much In Love",
-        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
-      },
-      "artists": [
-        {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
-        }
-      ],
-      "duration_ms": 178453,
-      "name": "So Much In Love",
-      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -399,6 +383,22 @@
       "duration_ms": 174375,
       "name": "TAKA",
       "url": "https://open.spotify.com/track/645e3XeVtB7QYpl3RdJBil"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
+        "name": "So Much In Love",
+        "url": "https://open.spotify.com/album/7p0hUdHwZw2lN8PtRkVeiX"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        }
+      ],
+      "duration_ms": 178453,
+      "name": "So Much In Love",
+      "url": "https://open.spotify.com/track/7DnI3ktF2vcmzKuCCKseQL"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -671,26 +671,6 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
-        "name": "Better Times",
-        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
-      },
-      "artists": [
-        {
-          "name": "KC Lights",
-          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
-        },
-        {
-          "name": "L\u00e5psley",
-          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
-        }
-      ],
-      "duration_ms": 199015,
-      "name": "Better Times",
-      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
         "name": "Thandaza",
         "url": "https://open.spotify.com/album/6EJu5rECOfBSeHfVM3g6pm"
       },
@@ -727,18 +707,22 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
-        "name": "All Night Long",
-        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
+        "name": "Better Times",
+        "url": "https://open.spotify.com/album/02ie8m0VrTiwLr8NHMuo2T"
       },
       "artists": [
         {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+          "name": "KC Lights",
+          "url": "https://open.spotify.com/artist/0bUZrFj7rstq07E4iAJHgZ"
+        },
+        {
+          "name": "L\u00e5psley",
+          "url": "https://open.spotify.com/artist/27ze6hCgfr3HcDZAHY60pg"
         }
       ],
-      "duration_ms": 234525,
-      "name": "All Night Long",
-      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+      "duration_ms": 199015,
+      "name": "Better Times",
+      "url": "https://open.spotify.com/track/5PXZlm9dBDA8dBXxle5Da8"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -811,26 +795,6 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
-        "name": "Take It Off",
-        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
-      },
-      "artists": [
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Aatig",
-          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
-        }
-      ],
-      "duration_ms": 194604,
-      "name": "Take It Off",
-      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
         "name": "Carry Me Higher",
         "url": "https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348"
       },
@@ -875,6 +839,22 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
+        "name": "All Night Long",
+        "url": "https://open.spotify.com/album/6v4ZkEMI1Q20fX4Yrg7d2v"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 234525,
+      "name": "All Night Long",
+      "url": "https://open.spotify.com/track/7b4twDZXjQf8gyQGSvySZd"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
         "name": "God Made Me Phunky (Jess Bays Remix)",
         "url": "https://open.spotify.com/album/5ntomn4F2F0AA7r6n8Y8Hl"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 220270,
       "name": "God Made Me Phunky - Jess Bays Remix",
       "url": "https://open.spotify.com/track/6qRzNXm3vpGcGoLVB3zk9n"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
+        "name": "Take It Off",
+        "url": "https://open.spotify.com/album/4neMbAAnmstZsruR9V7K6J"
+      },
+      "artists": [
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Aatig",
+          "url": "https://open.spotify.com/artist/21OabQwzpxuFNxp7p781Ao"
+        }
+      ],
+      "duration_ms": 194604,
+      "name": "Take It Off",
+      "url": "https://open.spotify.com/track/4EAKIDNz9sETtpeLa7LrQi"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -931,6 +931,26 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
+        "name": "Fresh",
+        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
+      },
+      "artists": [
+        {
+          "name": "Crazibiza",
+          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
+        },
+        {
+          "name": "House of Prayers",
+          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
+        }
+      ],
+      "duration_ms": 284886,
+      "name": "Fresh - House of Prayers Poolside Edit",
+      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/138ec88T9pXLv6jhKuQD4z"
       },
@@ -951,26 +971,6 @@
       "duration_ms": 214575,
       "name": "Halo",
       "url": "https://open.spotify.com/track/6LziN7kYIkvyV4DLz5kAL1"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "Fresh",
-        "url": "https://open.spotify.com/album/3VYGGCtGjNHGOSFkYVNmLV"
-      },
-      "artists": [
-        {
-          "name": "Crazibiza",
-          "url": "https://open.spotify.com/artist/7gLis8CQkAQ7fJJNTWQNU1"
-        },
-        {
-          "name": "House of Prayers",
-          "url": "https://open.spotify.com/artist/6UZpnBnk8Ubc6fflLAb6qg"
-        }
-      ],
-      "duration_ms": 284886,
-      "name": "Fresh - House of Prayers Poolside Edit",
-      "url": "https://open.spotify.com/track/71vqZFDzzvwt7tsTYy1g01"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -1179,6 +1179,42 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
+        "name": "Amana",
+        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
+      },
+      "artists": [
+        {
+          "name": "Maz",
+          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+        },
+        {
+          "name": "VXSION",
+          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+        }
+      ],
+      "duration_ms": 338210,
+      "name": "Amana",
+      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
         "name": "Energy ('05 Remix)",
         "url": "https://open.spotify.com/album/2wRRQ3sFAFiNzKUFxGms8R"
       },
@@ -1203,38 +1239,22 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+        "name": "Vente",
+        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "Amana",
-        "url": "https://open.spotify.com/album/61UaqkZC7cj48imVudUhlN"
-      },
-      "artists": [
-        {
-          "name": "Maz",
-          "url": "https://open.spotify.com/artist/6gYwbDKcqhLitCTlgF1oZn"
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
         },
         {
-          "name": "VXSION",
-          "url": "https://open.spotify.com/artist/1mhfrC0qmYcAcAX6yM1tXJ"
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
         }
       ],
-      "duration_ms": 338210,
-      "name": "Amana",
-      "url": "https://open.spotify.com/track/728jwEfBJVrR9aYpuhwdvb"
+      "duration_ms": 182891,
+      "name": "Vente",
+      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -1255,26 +1275,6 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "Vente",
-        "url": "https://open.spotify.com/album/0eUPpld1iDDStlcH1bhwWA"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        }
-      ],
-      "duration_ms": 182891,
-      "name": "Vente",
-      "url": "https://open.spotify.com/track/5il5NxrB2dsemKG7T7uLGO"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -1435,6 +1435,26 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
+        "name": "Sierra",
+        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Baset",
+          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Sierra",
+      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
         "name": "That Sound (feat. Dope Earth Alien)",
         "url": "https://open.spotify.com/album/0DcVggpeCNz0CpQnK4vJgj"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 233836,
       "name": "Palm Beach Banga",
       "url": "https://open.spotify.com/track/2Q4nScd22kJ70CqQbQqWFD"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "Sierra",
-        "url": "https://open.spotify.com/album/6WzMt8T4SIuxFBjmgcpSzX"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Baset",
-          "url": "https://open.spotify.com/artist/7ICFbeWRkxZ9JppxYRhtBl"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Sierra",
-      "url": "https://open.spotify.com/track/5c4gtyaea8i7H1BqRyb2Xp"
     },
     {
       "added_at": "2024-04-19 17:17:09",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
-        "name": "Burning In My Arms (Edit)",
-        "url": "https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B"
-      },
-      "artists": [
-        {
-          "name": "BURNS",
-          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
-        }
-      ],
-      "duration_ms": 211200,
-      "name": "Burning In My Arms - Edit",
-      "url": "https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
         "name": "You Ain't Breakin' My Heart",
         "url": "https://open.spotify.com/album/4qL5uXQEy6yuUK33mbCMIL"
       },
@@ -1931,6 +1915,22 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
+        "name": "Burning In My Arms (Edit)",
+        "url": "https://open.spotify.com/album/6WdHT5YZeHkKkCUZe5ka1B"
+      },
+      "artists": [
+        {
+          "name": "BURNS",
+          "url": "https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7"
+        }
+      ],
+      "duration_ms": 211200,
+      "name": "Burning In My Arms - Edit",
+      "url": "https://open.spotify.com/track/3Z9qdV9SOWHuTxNbyOwXIa"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
         "name": "White Rabbit (Moxy Club Mix)",
         "url": "https://open.spotify.com/album/1F3pHJB16ExPcfcLfZpJQZ"
       },
@@ -1947,6 +1947,42 @@
     {
       "added_at": "2024-04-19 17:17:09",
       "album": {
+        "name": "Don't Understand",
+        "url": "https://open.spotify.com/album/7kGBvuLCHU8s4KnKlCAQjC"
+      },
+      "artists": [
+        {
+          "name": "lau.ra",
+          "url": "https://open.spotify.com/artist/3uOdNUjwD6hhOh1z2dQEIn"
+        },
+        {
+          "name": "Chelsea Jade",
+          "url": "https://open.spotify.com/artist/5K0BVchFxmuKBw7DojGSQO"
+        }
+      ],
+      "duration_ms": 237230,
+      "name": "Don't Understand",
+      "url": "https://open.spotify.com/track/3PRYBfxhOk16LhRjRPnRGq"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
+        "name": "The Judge",
+        "url": "https://open.spotify.com/album/7BNYEXizheSk1HuD8GYmg9"
+      },
+      "artists": [
+        {
+          "name": "Biscits",
+          "url": "https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o"
+        }
+      ],
+      "duration_ms": 220966,
+      "name": "The Judge",
+      "url": "https://open.spotify.com/track/6r6hSnqlIvtpPFZMiM0LEy"
+    },
+    {
+      "added_at": "2024-04-19 17:17:09",
+      "album": {
         "name": "I'll Be Fine",
         "url": "https://open.spotify.com/album/11qaljg84xPgLx7yT38tPB"
       },
@@ -1959,42 +1995,6 @@
       "duration_ms": 217013,
       "name": "I'll Be Fine",
       "url": "https://open.spotify.com/track/16vsGUfAqnribmvTsg8W9f"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "Whine Up",
-        "url": "https://open.spotify.com/album/7jf1fvzIVmG9hZmPeaKSVB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Newson",
-          "url": "https://open.spotify.com/artist/66MrdPDHTjnnMOTBmC81q5"
-        },
-        {
-          "name": "Simon Kidzoo",
-          "url": "https://open.spotify.com/artist/7rsKf4S6rilmYTPrViFPlA"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "Whine Up",
-      "url": "https://open.spotify.com/track/1bbxfTnS17w2D8UXo12dHj"
-    },
-    {
-      "added_at": "2024-04-19 17:17:09",
-      "album": {
-        "name": "Affection",
-        "url": "https://open.spotify.com/album/7iEmfai44TVKtcTu2N03mc"
-      },
-      "artists": [
-        {
-          "name": "Amelie Lens",
-          "url": "https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf"
-        }
-      ],
-      "duration_ms": 421818,
-      "name": "Affection",
-      "url": "https://open.spotify.com/track/5bAmqp96l9YO7V8LW5sUjZ"
     }
   ],
   "unique_name": "Ibiza 2024",

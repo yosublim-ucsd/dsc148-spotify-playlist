@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 193045,
+  "2024-04-22": 193014,
   "date_first_scraped": "2023-04-29",
   "description": "This is Willie Nelson. The essential tracks, all in one playlist.",
   "name": "This Is Willie Nelson",
@@ -473,7 +473,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 173001,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em"
@@ -751,7 +751,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 146109,
       "name": "Hello Walls",
       "url": "https://open.spotify.com/track/27hpjHYx6duzBH99XW7ENn"
@@ -931,7 +931,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 122760,
       "name": "If You've Got the Money I've Got the Time",
       "url": "https://open.spotify.com/track/1s2Wyk3QM2qZ9J863GFd3n"
@@ -1197,7 +1197,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 183453,
       "name": "My Heroes Have Always Been Cowboys",
       "url": "https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK"

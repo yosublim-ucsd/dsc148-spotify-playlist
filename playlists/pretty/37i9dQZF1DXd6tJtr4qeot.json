@@ -1,6 +1,6 @@
 {
   "description": "All the of punk rock that you need in your life. ",
-  "num_followers": 912134,
+  "num_followers": 911754,
   "original_name": "Punk Essentials",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
+        "name": "American Idiot",
+        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
+      },
+      "artists": [
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 176346,
+      "name": "American Idiot",
+      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
         "name": "Out Of Our Heads",
         "url": "https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 258000,
       "name": "The Boys of Summer",
       "url": "https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
-        "name": "American Idiot",
-        "url": "https://open.spotify.com/album/5dN7F9DV0Qg1XRdIgW8rke"
-      },
-      "artists": [
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 176346,
-      "name": "American Idiot",
-      "url": "https://open.spotify.com/track/6nTiIhLmQ3FWhvrGafw2zj"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
-        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
-      },
-      "artists": [
-        {
-          "name": "Bikini Kill",
-          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
-        }
-      ],
-      "duration_ms": 157333,
-      "name": "Rebel Girl",
-      "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
         "name": "The Essential Van Morrison",
         "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 156800,
       "name": "Gloria (feat. Van Morrison) - Stereo Version",
       "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
+        "name": "The Punk Singer (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7DoTlKAupC8rNAdb0tNmZ2"
+      },
+      "artists": [
+        {
+          "name": "Bikini Kill",
+          "url": "https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe"
+        }
+      ],
+      "duration_ms": 157333,
+      "name": "Rebel Girl",
+      "url": "https://open.spotify.com/track/0XyjtybwqSdqMAFfBEkmZf"
     },
     {
       "added_at": "2024-02-06 19:36:52",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-02-06 19:36:52",
       "album": {
+        "name": "Dude Ranch",
+        "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
+      },
+      "artists": [
+        {
+          "name": "blink-182",
+          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
+        }
+      ],
+      "duration_ms": 199973,
+      "name": "Josie",
+      "url": "https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV"
+    },
+    {
+      "added_at": "2024-02-06 19:36:52",
+      "album": {
         "name": "My Generation (50th Anniversary / Super Deluxe)",
         "url": "https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 123000,
       "name": "New Girl",
       "url": "https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C"
-    },
-    {
-      "added_at": "2024-02-06 19:36:52",
-      "album": {
-        "name": "Dude Ranch",
-        "url": "https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq"
-      },
-      "artists": [
-        {
-          "name": "blink-182",
-          "url": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP"
-        }
-      ],
-      "duration_ms": 199973,
-      "name": "Josie",
-      "url": "https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV"
     },
     {
       "added_at": "2024-02-06 19:36:52",

@@ -997,6 +997,28 @@
     },
     {
       "album": {
+        "name": "butterfly",
+        "url": "https://open.spotify.com/album/1amQciKTNw1gSAEWzBlkbJ"
+      },
+      "artists": [
+        {
+          "name": "yedira",
+          "url": "https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq"
+        },
+        {
+          "name": "Shoi",
+          "url": "https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151305,
+      "name": "butterfly",
+      "url": "https://open.spotify.com/track/2MA293TkgkhpCXjF9B5b2h"
+    },
+    {
+      "album": {
         "name": "Cactus",
         "url": "https://open.spotify.com/album/5dm1Wf0mTF0PwY3tXqohVI"
       },
@@ -2576,7 +2598,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 219133,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/21vLEEtCTBS6fxw1TuPJAy"
@@ -2858,7 +2880,7 @@
       ],
       "date_added": "2023-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 210322,
       "name": "Let It Rain",
       "url": "https://open.spotify.com/track/6uOSgCjfRFc4hrqK2PEq12"
@@ -3382,6 +3404,24 @@
       "duration_ms": 210000,
       "name": "Mariposa",
       "url": "https://open.spotify.com/track/4ja2gzrNh9VNigzoXfmbwD"
+    },
+    {
+      "album": {
+        "name": "matters of the heart",
+        "url": "https://open.spotify.com/album/1UbN4K1Lyl81gPo92g7uK4"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204272,
+      "name": "matters of the heart",
+      "url": "https://open.spotify.com/track/2TnwiwXe4ktgHJ5sv53Zhu"
     },
     {
       "album": {

@@ -271,6 +271,26 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 445080,
+      "name": "Pedro Navaja",
+      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "Valio La Pena",
         "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
       },
@@ -319,22 +339,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "De Verdad (15 Super Exitos)",
-        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
-      },
-      "artists": [
-        {
-          "name": "Eddie Santiago",
-          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
-        }
-      ],
-      "duration_ms": 297053,
-      "name": "Lluvia",
-      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Sentimental de Punta a Punta",
         "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
       },
@@ -351,22 +355,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+        "name": "De Verdad (15 Super Exitos)",
+        "url": "https://open.spotify.com/album/7x4yJrZW7V1XdazGp7owXr"
       },
       "artists": [
         {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+          "name": "Eddie Santiago",
+          "url": "https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I"
         }
       ],
-      "duration_ms": 445080,
-      "name": "Pedro Navaja",
-      "url": "https://open.spotify.com/track/7aKs8kWKKau0SDgaeyZMAX"
+      "duration_ms": 297053,
+      "name": "Lluvia",
+      "url": "https://open.spotify.com/track/3SzJ4qlIjYkSO7bh0oKTXA"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -551,6 +551,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Pegame Tu Vicio",
+        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
+      },
+      "artists": [
+        {
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+        }
+      ],
+      "duration_ms": 303293,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "32 Ca\u00f1onazos",
         "url": "https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn"
       },
@@ -571,18 +587,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Pegame Tu Vicio",
-        "url": "https://open.spotify.com/album/4lboawyI2xBP52DPWPjk87"
+        "name": "Nuevo Milenio - El Mismo Sabor",
+        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
       },
       "artists": [
         {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
         }
       ],
-      "duration_ms": 303293,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/0FcgB8l69nXBOmvhvEXm8o"
+      "duration_ms": 263920,
+      "name": "Me Liber\u00e9",
+      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -599,22 +615,6 @@
       "duration_ms": 232880,
       "name": "La Bilirrubina - En Vivo Estadio Ol\u00edmpico De Rep\u00fablica Dominicana/2012",
       "url": "https://open.spotify.com/track/1GT0Q2ZTeKtIBueYKr4vhr"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Nuevo Milenio - El Mismo Sabor",
-        "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Me Liber\u00e9",
-      "url": "https://open.spotify.com/track/1IcnHHfeAkdc88LybFWwb9"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -915,22 +915,6 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Serie 2000",
-        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 249813,
-      "name": "Abusadora",
-      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
         "name": "Super \u00c9xitos Maracaibo 15",
         "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 192466,
       "name": "Amparito",
       "url": "https://open.spotify.com/track/7JROzRIIqOlXCLeqKUMhb2"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
+        "name": "Serie 2000",
+        "url": "https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 249813,
+      "name": "Abusadora",
+      "url": "https://open.spotify.com/track/5mCvkhkAvwNnUsIt2PN9Al"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
+        "name": "Super \u00c9xitos Maracaibo 15",
+        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
+      },
+      "artists": [
+        {
+          "name": "Maracaibo 15",
+          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
+        }
+      ],
+      "duration_ms": 194533,
+      "name": "Venga un Abrazo",
+      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
+    },
+    {
+      "added_at": "2023-12-15 19:49:30",
+      "album": {
         "name": "st. Pedro's Christmas Special",
         "url": "https://open.spotify.com/album/0EtuT9P5H53CHMbfSFB49O"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 181133,
       "name": "Cinco Pa' las 12",
       "url": "https://open.spotify.com/track/7mSmItMB11IWTIEOVKLxuG"
-    },
-    {
-      "added_at": "2023-12-15 19:49:30",
-      "album": {
-        "name": "Super \u00c9xitos Maracaibo 15",
-        "url": "https://open.spotify.com/album/2eosHIm0MBOnhvbiBANIH5"
-      },
-      "artists": [
-        {
-          "name": "Maracaibo 15",
-          "url": "https://open.spotify.com/artist/1V6FooKFiokndcPHKJ4Tmz"
-        }
-      ],
-      "duration_ms": 194533,
-      "name": "Venga un Abrazo",
-      "url": "https://open.spotify.com/track/2G2ZMxJ7Fqoocm3jQTfm8P"
     },
     {
       "added_at": "2023-12-15 19:49:30",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2023-12-15 19:49:30",
       "album": {
-        "name": "Las Mejores Gaitas Vol.2",
-        "url": "https://open.spotify.com/album/7eDVGI2esAhKDPeNiOYx3S"
+        "name": "Para Ti",
+        "url": "https://open.spotify.com/album/3ymWHKNKXp04OoBbkHEkZB"
       },
       "artists": [
         {
-          "name": "Gran Coquivacoa",
-          "url": "https://open.spotify.com/artist/0D8yIOlFPxp7OL6n6UzJ38"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 174240,
-      "name": "Gaita Onomatopeyica",
-      "url": "https://open.spotify.com/track/0HAoMv4QDZ52UCiCSWwLyy"
+      "duration_ms": 197333,
+      "name": "Las Avispas",
+      "url": "https://open.spotify.com/track/4VLeXSrhxaGzRpIYc9rLxl"
     }
   ],
   "unique_name": "Fiesta Decembrina",

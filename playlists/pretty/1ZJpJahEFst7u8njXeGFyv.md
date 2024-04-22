@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 
 > Relax, unwind, study or work to the soundtracks of Einaudi, Bach, Beethoven, Mozart incl\. Yo\-Yo Ma, Alexis Ffrench, Alexandra Streliski and more.
 
-[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 309,435 likes - 204 songs - 13 hr 40 min
+[Filtr UK](https://open.spotify.com/user/sonymusicuk) - 309,124 likes - 204 songs - 13 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/1ZJpJahEFst7u8njXeGFyv.md) - [plain]
 | 6 | [Prelude in C Major, BWV 846](https://open.spotify.com/track/70sk23BoP9F6UeppZ2IiL5) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Khatia Buniatishvili](https://open.spotify.com/artist/0bouHpX4JiuPnIfP2jFxRi) | [Labyrinth: Ephemera](https://open.spotify.com/album/1M1tsv2nCOuUkztiGG3tBh) | 2:25 |
 | 7 | [Nocturnes, Op\. 62: II\. Lento \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/2NS85cYgltENgdfA6Pq7un) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Nocturnes, Op\. 62: II\. Lento \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/album/5Qz7MbOHUXBTgZqs30l4gH) | 2:59 |
 | 8 | [Stay](https://open.spotify.com/track/5saIh79M2WQdA2WBakzrD8) | [Goldbæk](https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO) | [Stay](https://open.spotify.com/album/4Z22hUgQ17J785sqjJzLCj) | 2:35 |
-| 9 | [Myrthen, Op\. 25: No\. 24 \- Du bist wie eine Blume](https://open.spotify.com/track/30zhs5LCgnAVZWwlPhsfxS) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Myrthen, Op\. 25: No\. 24 \- Du bist wie eine Blume](https://open.spotify.com/album/0K7M942rxV2r60HwRJnxwD) | 1:41 |
+| 9 | [Myrthen, Op\. 25: No\. 24 \- Du bist wie eine Blume](https://open.spotify.com/track/30zhs5LCgnAVZWwlPhsfxS) | [Robert Schumann](https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ), [Pablo Ferrandez](https://open.spotify.com/artist/0W2xAxxZVRbIhzn5lLMowt), [Julien Quentin](https://open.spotify.com/artist/374U7fciZF54RvuwwZY3bR) | [Night Sessions: Vol\. 2](https://open.spotify.com/album/0K7M942rxV2r60HwRJnxwD) | 1:41 |
 | 10 | [Experience](https://open.spotify.com/track/5tGGaozQBrq2TuVG6RqJtj) | [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Experience](https://open.spotify.com/album/7wGanYu9hC4Psgbqll3XL3) | 5:44 |
 | 11 | [Song to the Moon \(from Rusalka\)](https://open.spotify.com/track/66mLVHPZvRtTELZ6q7Z22d) | [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s) | [Song to the Moon \(from Rusalka\)](https://open.spotify.com/album/4T8l44AOJgKuXxwzPQOxmf) | 6:25 |
 | 12 | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/track/25UvpN42Ghr4OdUcDmytqU) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Olga Scheps](https://open.spotify.com/artist/07Nqz7k5QdR10iuTJkd6Mp), [Raphaela Gromes](https://open.spotify.com/artist/1MBdqvpYGau9IvRqwsSS50) | [Nocturnes, Op\. 55: I\. Andante \(Arr\. for Cello & Piano by Julian Riem\)](https://open.spotify.com/album/19URJzQHLZGf3TbfKSsN3D) | 5:17 |

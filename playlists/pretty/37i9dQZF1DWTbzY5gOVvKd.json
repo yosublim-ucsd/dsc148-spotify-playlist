@@ -1,6 +1,6 @@
 {
   "description": "Jazzy love songs. Cover: Lady Gaga & Tony Bennett",
-  "num_followers": 1219930,
+  "num_followers": 1218758,
   "original_name": "Jazzy Romance",
   "owner": {
     "name": "Spotify",
@@ -167,6 +167,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "Turn Up The Quiet",
+        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 278293,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "The Complete Great American Songbook",
         "url": "https://open.spotify.com/album/3xUOObdRU9f2wblHafYx0j"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 248416,
       "name": "You Make Me Feel so Young",
       "url": "https://open.spotify.com/track/6SYFwqZvPueoTBLoNjidAs"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "Turn Up The Quiet",
-        "url": "https://open.spotify.com/album/5MSulOhAWko8b4VbReKjYv"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 278293,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/5gSYmTVASekarEoK4puiRD"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "This Dream Of You",
+        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 319226,
+      "name": "Autumn In New York",
+      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "Around The City",
         "url": "https://open.spotify.com/album/2kbn1xuLBYfxgsZbaIxzGO"
       },
@@ -279,22 +295,6 @@
       "duration_ms": 141640,
       "name": "Sweet Pea",
       "url": "https://open.spotify.com/track/5QyNvhoW9N0xzrzc5uNZKc"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "This Dream Of You",
-        "url": "https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 319226,
-      "name": "Autumn In New York",
-      "url": "https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Language Of Love",
-        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
-      },
-      "artists": [
-        {
-          "name": "Karen Souza",
-          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
-        }
-      ],
-      "duration_ms": 256174,
-      "name": "Language Of Love",
-      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "The Nearness Of You",
         "url": "https://open.spotify.com/album/1aKnLcluIO8BHNQwp99PPR"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 211360,
       "name": "Sunday Kind of Love",
       "url": "https://open.spotify.com/track/6XmN8QIxuZt8ljcnaPmhOM"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Language Of Love",
+        "url": "https://open.spotify.com/album/1oaLaAbS6PC0XdnsUGcjQL"
+      },
+      "artists": [
+        {
+          "name": "Karen Souza",
+          "url": "https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu"
+        }
+      ],
+      "duration_ms": 256174,
+      "name": "Language Of Love",
+      "url": "https://open.spotify.com/track/4nnztEkOw2g2RO2nzPQWw8"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -779,22 +779,18 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "The Silver Lining - The Songs of Jerome Kern",
-        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
+        "name": "Wild Is The Wind",
+        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
       },
       "artists": [
         {
-          "name": "Tony Bennett",
-          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
-        },
-        {
-          "name": "Bill Charlap",
-          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
+          "name": "Kari Kirkland",
+          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
         }
       ],
-      "duration_ms": 277226,
-      "name": "All The Things You Are",
-      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
+      "duration_ms": 343055,
+      "name": "Wild Is The Wind",
+      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -815,18 +811,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Wild Is The Wind",
-        "url": "https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp"
+        "name": "The Silver Lining - The Songs of Jerome Kern",
+        "url": "https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m"
       },
       "artists": [
         {
-          "name": "Kari Kirkland",
-          "url": "https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU"
+          "name": "Tony Bennett",
+          "url": "https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV"
+        },
+        {
+          "name": "Bill Charlap",
+          "url": "https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg"
         }
       ],
-      "duration_ms": 343055,
-      "name": "Wild Is The Wind",
-      "url": "https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T"
+      "duration_ms": 277226,
+      "name": "All The Things You Are",
+      "url": "https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "Blame It On My Youth",
+        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 275440,
+      "name": "Midnight Sun",
+      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -1291,22 +1307,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "Blame It On My Youth",
-        "url": "https://open.spotify.com/album/40yQ3EJwQH4R4MXAxip5un"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 275440,
-      "name": "Midnight Sun",
-      "url": "https://open.spotify.com/track/0O2cnPY1dKGDfnQghH7ZUI"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "An Englishman in Love in LA",
         "url": "https://open.spotify.com/album/723cgY8qRQjpkNYtGBgkIp"
       },
@@ -1319,6 +1319,22 @@
       "duration_ms": 176573,
       "name": "The Touch of Your Lips",
       "url": "https://open.spotify.com/track/5Qq1gWHJ0yFkW6cHNewvTZ"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
+        "name": "Love & the Lack Thereof",
+        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
+      },
+      "artists": [
+        {
+          "name": "Kat Gang",
+          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
+        }
+      ],
+      "duration_ms": 373946,
+      "name": "Then I'll Be Tired of You",
+      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1351,22 +1367,6 @@
       "duration_ms": 363440,
       "name": "Once Again Looking For Love",
       "url": "https://open.spotify.com/track/15co0IfqPYN3UvUX47Arhq"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "Love & the Lack Thereof",
-        "url": "https://open.spotify.com/album/6G02poGGFTpTnrkrv1lrH6"
-      },
-      "artists": [
-        {
-          "name": "Kat Gang",
-          "url": "https://open.spotify.com/artist/2xTwCujoVxqAHsNTUr1qDi"
-        }
-      ],
-      "duration_ms": 373946,
-      "name": "Then I'll Be Tired of You",
-      "url": "https://open.spotify.com/track/4w1IwCOEWobiZUh5uA35GZ"
     },
     {
       "added_at": "2024-03-20 08:21:42",
@@ -1551,6 +1551,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "For All We Know",
+        "url": "https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb"
+      },
+      "artists": [
+        {
+          "name": "Mandy Barnett",
+          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
+        }
+      ],
+      "duration_ms": 173360,
+      "name": "For All We Know",
+      "url": "https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "Homefree",
         "url": "https://open.spotify.com/album/6COf6f8aKjM6GiBhi1LH5O"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
-        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
-        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
-      },
-      "artists": [
-        {
-          "name": "Stacey Kent",
-          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
-        }
-      ],
-      "duration_ms": 367213,
-      "name": "Photograph",
-      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/1GHLXZszNeMFgHiolSg50f"
       },
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-03-20 08:21:42",
       "album": {
+        "name": "I Know I Dream : The Orchestral Sessions (Deluxe Version)",
+        "url": "https://open.spotify.com/album/053FwZ4XD8d2xY2GhMB9sH"
+      },
+      "artists": [
+        {
+          "name": "Stacey Kent",
+          "url": "https://open.spotify.com/artist/03EYBMnqSchCMp5D9qmFXi"
+        }
+      ],
+      "duration_ms": 367213,
+      "name": "Photograph",
+      "url": "https://open.spotify.com/track/0yKhFtDzzxV1t0VpM37uLp"
+    },
+    {
+      "added_at": "2024-03-20 08:21:42",
+      "album": {
         "name": "Stripped",
         "url": "https://open.spotify.com/album/78qI1KR0g7JiLB3mc2WXYz"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 251000,
       "name": "First Time",
       "url": "https://open.spotify.com/track/2Um1CzJYNjxvNZZWHiMXtA"
-    },
-    {
-      "added_at": "2024-03-20 08:21:42",
-      "album": {
-        "name": "For All We Know",
-        "url": "https://open.spotify.com/album/7ox83NOG8GAo9qGavP8aQb"
-      },
-      "artists": [
-        {
-          "name": "Mandy Barnett",
-          "url": "https://open.spotify.com/artist/1dueb4USSa0IBdtDolg4pO"
-        }
-      ],
-      "duration_ms": 173360,
-      "name": "For All We Know",
-      "url": "https://open.spotify.com/track/2nixpMsReC7Pwwfanpk7IZ"
     },
     {
       "added_at": "2024-03-20 08:21:42",

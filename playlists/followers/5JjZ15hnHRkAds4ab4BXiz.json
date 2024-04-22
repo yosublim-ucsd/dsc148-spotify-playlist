@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 0,
+  "2024-04-22": 0,
   "date_first_scraped": "2023-11-18",
   "description": "",
   "name": "Ballads",
@@ -612,6 +612,24 @@
     },
     {
       "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117306,
+      "name": "Communist Daughter",
+      "url": "https://open.spotify.com/track/0n97PkKoTpnp5L343TMAgB"
+    },
+    {
+      "album": {
         "name": "Night Nurse",
         "url": "https://open.spotify.com/album/7EsnnOcEBgrZWZPuM7uHHu"
       },
@@ -1182,6 +1200,24 @@
     },
     {
       "album": {
+        "name": "Everything Is",
+        "url": "https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "Here We Are (For W. Cullen Hart)",
+      "url": "https://open.spotify.com/track/6M1I7wG0zhA2WihCdBd2tt"
+    },
+    {
+      "album": {
         "name": "Highway to Hell",
         "url": "https://open.spotify.com/album/10v912xgTZbjAtYfyKWJCS"
       },
@@ -1215,6 +1251,24 @@
       "duration_ms": 204906,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5hxmV8ZwqtBmS6tGG150ha"
+    },
+    {
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192533,
+      "name": "Holland, 1945",
+      "url": "https://open.spotify.com/track/64DpBZj4IlDFzCwxTq7azl"
     },
     {
       "album": {
@@ -1478,6 +1532,24 @@
     },
     {
       "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202346,
+      "name": "In the Aeroplane Over the Sea",
+      "url": "https://open.spotify.com/track/5rfT032kGmLvbxZzfHlu5D"
+    },
+    {
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/3hcrTu8zeynChXDOJt3lX2"
       },
@@ -1677,6 +1749,24 @@
       "duration_ms": 234693,
       "name": "King Kunta",
       "url": "https://open.spotify.com/track/0N3W5peJUQtI4eyR6GJT5O"
+    },
+    {
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120426,
+      "name": "King of Carrot Flowers Pt. 1",
+      "url": "https://open.spotify.com/track/5CU1bbfY1wUPm7fU255Dhf"
     },
     {
       "album": {
@@ -2774,6 +2864,24 @@
     },
     {
       "album": {
+        "name": "Everything Is",
+        "url": "https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222333,
+      "name": "Snow Song",
+      "url": "https://open.spotify.com/track/7DdkMm05oJ14yqf2gs6ddW"
+    },
+    {
+      "album": {
         "name": "Making Mirrors",
         "url": "https://open.spotify.com/album/1HjSyGjmLNjRAKgT9t1cna"
       },
@@ -3119,6 +3227,24 @@
       "duration_ms": 185560,
       "name": "The End Has No End",
       "url": "https://open.spotify.com/track/0dy6iXYIF0piirySAzCBwF"
+    },
+    {
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113146,
+      "name": "The Fool",
+      "url": "https://open.spotify.com/track/7BSadtswKNAyWfiuHZNeih"
     },
     {
       "album": {
@@ -3483,6 +3609,60 @@
       "duration_ms": 202760,
       "name": "Trying Your Luck",
       "url": "https://open.spotify.com/track/5KupfEBaVJwL7D2ZN0n1Q1"
+    },
+    {
+      "album": {
+        "name": "Everything Is",
+        "url": "https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128533,
+      "name": "Tuesday Moon",
+      "url": "https://open.spotify.com/track/5APAPnpSciLxsOzWnWjq6y"
+    },
+    {
+      "album": {
+        "name": "In the Aeroplane Over the Sea",
+        "url": "https://open.spotify.com/album/0vVekV45lOaVKs6RZQQNob"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266106,
+      "name": "Two-Headed Boy",
+      "url": "https://open.spotify.com/track/27AG99NmWMFLRoyZMMPNW2"
+    },
+    {
+      "album": {
+        "name": "Everything Is",
+        "url": "https://open.spotify.com/album/1bJ7SFKnVcexGafRpKmLKO"
+      },
+      "artists": [
+        {
+          "name": "Neutral Milk Hotel",
+          "url": "https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235933,
+      "name": "Unborn",
+      "url": "https://open.spotify.com/track/7hmWo4sO9k6HtB2XeyPzRg"
     },
     {
       "album": {

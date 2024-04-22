@@ -1,12 +1,12 @@
 {
   "description": "This is Ulices Chaidez. The essential tracks, all in one playlist.",
-  "num_followers": 46536,
+  "num_followers": 46526,
   "original_name": "This Is Ulices Chaidez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDZmZTk2ZTM1M2IyNGFmOTViZDU1MDhlYjYzOTNkMTU5",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGMxODI4YjU5YmYwMDhlNGZmNjgzNTM2ZGI2YTY4ZDgz",
   "tracks": [
     {
       "added_at": null,
@@ -667,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ten\u00eda Que Ser As\u00ed",
+        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 198896,
+      "name": "Despu\u00e9s No Hay Despu\u00e9s",
+      "url": "https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Por Ti",
         "url": "https://open.spotify.com/album/40Z8sTFONm1ZAEWirIyvxo"
       },
@@ -703,38 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ten\u00eda Que Ser As\u00ed",
-        "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 198896,
-      "name": "Despu\u00e9s No Hay Despu\u00e9s",
-      "url": "https://open.spotify.com/track/4zjZ9enXsiY1shAytEiCPP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Dec\u00eda El Compa Ariel (En Vivo)",
-        "url": "https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 190599,
-      "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
-      "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Seguimos En El Ruedo",
         "url": "https://open.spotify.com/album/5hvmfoq7LhljtwgtKiTKI5"
       },
@@ -751,22 +735,6 @@
       "duration_ms": 218923,
       "name": "Voy a Echarme Otra",
       "url": "https://open.spotify.com/track/0xhrEHmvRyhyOtBmz9SQ07"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias Mam\u00e1",
-        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 189248,
-      "name": "Gracias Mam\u00e1",
-      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
     },
     {
       "added_at": null,
@@ -791,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11",
-        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+        "name": "Gracias Mam\u00e1",
+        "url": "https://open.spotify.com/album/5vgPnl9LeTdTTRtjY0bB7W"
       },
       "artists": [
         {
@@ -800,9 +768,25 @@
           "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
         }
       ],
-      "duration_ms": 166751,
-      "name": "Contigo",
-      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+      "duration_ms": 189248,
+      "name": "Gracias Mam\u00e1",
+      "url": "https://open.spotify.com/track/2H7D673ECblsbYwzgzIusU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Como Dec\u00eda El Compa Ariel (En Vivo)",
+        "url": "https://open.spotify.com/album/2CCxv6n3BrljYorG3PwxZb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 190599,
+      "name": "Como Dec\u00eda El Compa Ariel - En Vivo",
+      "url": "https://open.spotify.com/track/1eP1oMScLbriGrUTVy5AKl"
     },
     {
       "added_at": null,
@@ -823,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un D\u00eda a La Vez (En Vivo)",
-        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
-      },
-      "artists": [
-        {
-          "name": "Ulices Chaidez",
-          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
-        }
-      ],
-      "duration_ms": 252750,
-      "name": "Un D\u00eda a La Vez (En Vivo)",
-      "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ten\u00eda Que Ser As\u00ed",
         "url": "https://open.spotify.com/album/5jwi3znQm71ufVih6xLgED"
       },
@@ -851,6 +819,38 @@
       "duration_ms": 191692,
       "name": "Ten\u00eda Que Ser As\u00ed",
       "url": "https://open.spotify.com/track/2oi7QcHjLrowSfG5O87dZW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "11:11",
+        "url": "https://open.spotify.com/album/18JLkno6FLd8LItdzmlkOI"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 166751,
+      "name": "Contigo",
+      "url": "https://open.spotify.com/track/3AgH8376tYAJebNhoWlAE1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un D\u00eda a La Vez (En Vivo)",
+        "url": "https://open.spotify.com/album/0n6B0wGLCPzAJ9KLByNCKb"
+      },
+      "artists": [
+        {
+          "name": "Ulices Chaidez",
+          "url": "https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV"
+        }
+      ],
+      "duration_ms": 252750,
+      "name": "Un D\u00eda a La Vez (En Vivo)",
+      "url": "https://open.spotify.com/track/3LAoAfISn5Y9lKu1GxbDij"
     },
     {
       "added_at": null,

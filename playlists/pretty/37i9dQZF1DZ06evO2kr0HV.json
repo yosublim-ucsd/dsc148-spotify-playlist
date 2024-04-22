@@ -1,12 +1,12 @@
 {
-  "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 32735,
+  "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
+  "num_followers": 32746,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGY3OTUxM2UyMTI0ZDg5NjJkZjBiMzM4MmM4MWIzMWRh",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDI5NjVjNWVhNTc4NDNmYzEyODA0ZWE4ZmM0NjQxYmFh",
   "tracks": [
     {
       "added_at": null,
@@ -280,13 +280,13 @@
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         },
         {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
         }
       ],
-      "duration_ms": 224333,
-      "name": "Si Volviera A Nacer",
-      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
+      "duration_ms": 221760,
+      "name": "Juan Y Paul",
+      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
     },
     {
       "added_at": null,
@@ -356,13 +356,13 @@
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         },
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
         }
       ],
-      "duration_ms": 232973,
-      "name": "Extra\u00f1os",
-      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
+      "duration_ms": 224333,
+      "name": "Si Volviera A Nacer",
+      "url": "https://open.spotify.com/track/6K7J8BsFt49NA2Hx35RI4v"
     },
     {
       "added_at": null,
@@ -430,11 +430,15 @@
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Rozal\u00e9n",
+          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
         }
       ],
-      "duration_ms": 237320,
-      "name": "Hasta Que T\u00fa Me Quieras",
-      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
+      "duration_ms": 232973,
+      "name": "Extra\u00f1os",
+      "url": "https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl"
     },
     {
       "added_at": null,
@@ -500,9 +504,9 @@
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 226586,
-      "name": "Milagrosa",
-      "url": "https://open.spotify.com/track/7i0IAeWI5SLPWtwCHiS9kD"
+      "duration_ms": 237320,
+      "name": "Hasta Que T\u00fa Me Quieras",
+      "url": "https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr"
     },
     {
       "added_at": null,
@@ -755,26 +759,6 @@
       "duration_ms": 190320,
       "name": "De Otro Planeta",
       "url": "https://open.spotify.com/track/1XfgQpZQqDVNu2edxeyw3h"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Desconocidos",
-        "url": "https://open.spotify.com/album/24milmfp1Ttd2ZYjRjezWC"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Recoversi\u00f3n",
-          "url": "https://open.spotify.com/artist/0NdB1t0K23mQgPxlAvqN1r"
-        }
-      ],
-      "duration_ms": 195913,
-      "name": "Desconocidos",
-      "url": "https://open.spotify.com/track/2dyP9LDKtL2QpU7No6Zxri"
     },
     {
       "added_at": null,

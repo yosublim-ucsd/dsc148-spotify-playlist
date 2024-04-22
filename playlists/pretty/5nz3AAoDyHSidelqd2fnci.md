@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 58 min 4 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 46 min 14 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rap Vs\. Racismo \- Con Lírico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Titó y Xhelazz.](https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [El Ataque De Los Que Observaban](https://open.spotify.com/album/4o6mYEnQEUVwTW6ijgdwBY) | 5:54 |
-| 2 | [Stand My Ground](https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Silent Force](https://open.spotify.com/album/1sxSd1h4vEICnl5Q3scnGI) | 4:27 |
-| 3 | [The Ransom](https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34) | [chameleon](https://open.spotify.com/artist/46lv0U33sExwKvxwCwaDKK) | [The Ransom](https://open.spotify.com/album/5n9Z7vxsXEnk0s7O2H6B35) | 4:10 |
-| 4 | [For Your Love](https://open.spotify.com/track/0ybVIU8FkjBfdCfjiAbkL8) | [Chilly](https://open.spotify.com/artist/1QLZE3zps2XLkFDFw0wG6h) | [Disco Music History, Vol\. 3](https://open.spotify.com/album/3xHTumHPprOZAAZfLmBaRg) | 11:47 |
-| 5 | [Sad But True](https://open.spotify.com/track/5lMxWFcKooEH8n4duizJ67) | [Flipper](https://open.spotify.com/artist/20VDXslLsXlLgSF765m1Ug) | [Punk Goes Metal \(Extended Version\)](https://open.spotify.com/album/6uyqrSmGc6nCicqLVcp1HA) | 5:01 |
-| 6 | [Endless War](https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Resist \(Extended Deluxe\)](https://open.spotify.com/album/1SL2IdaCrXDtv695Px6AXR) | 4:09 |
-| 7 | [The Burden \(Interlude\)](https://open.spotify.com/track/1zs3NwkHQJQ445DUvTof5T) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [The Hollow](https://open.spotify.com/album/59fpw1PC2LgFYS0Hmn4zm3) | 3:17 |
-| 8 | [Ras In France](https://open.spotify.com/track/3qcwqE8ZrkoK2zvDPVczMn) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Ras In France](https://open.spotify.com/album/42qxRpwtMaIUnT7qFa6DHt) | 3:00 |
-| 9 | [Cuán lejos voy](https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS) | [Sara Paula Gómez Arias](https://open.spotify.com/artist/2eR6JJZdUg8R3TB8LLdaxT) | [Moana: un mar de aventuras \(Sonora Original en Español\)](https://open.spotify.com/album/0QwMi39rp88SdJk1YLM2TX) | 2:44 |
-| 10 | [Wish I Could Forget You](https://open.spotify.com/track/2FIEGuM3DUQLBhXwypJ5yw) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [When Broken Is Easily Fixed](https://open.spotify.com/album/54Uh5ml62KrDl4nDygENBy) | 3:26 |
-| 11 | [Cae el Sol](https://open.spotify.com/track/0ib6BPTVVoBiEfPUsfFKXj) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Obras Cumbres \(Parte 2\)](https://open.spotify.com/album/1I2nAQWVXtI9xJ0xuRBLYV) | 4:51 |
-| 12 | [My Soul to the Devil](https://open.spotify.com/track/6ZyNUzdjHxlzopS9H0z4yD) | [Cruskin](https://open.spotify.com/artist/0HhKAWSf0VFCkW9zoZodE9) | [Secrets in a Box](https://open.spotify.com/album/7eQ5R30YMqoyIQXW1B1f2E) | 5:13 |
+| 1 | [We Will Rock You \- Remastered 2011](https://open.spotify.com/track/54flyrjcdnQdco7300avMJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World \(Deluxe Remastered Version\)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | 2:02 |
+| 2 | [Puttin' on the Ritz](https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc) | [Taco](https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH) | [After Eight](https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh) | 4:41 |
+| 3 | [Crash Course In Brain Surgery](https://open.spotify.com/track/4iYo3wpPdcplPDHsvXrMsJ) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage, Inc.](https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ) | 3:10 |
+| 4 | [Some Kinda Hate](https://open.spotify.com/track/0RlC8gQmtupGoklgc97LVa) | [Misfits](https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey) | [Static Age](https://open.spotify.com/album/51tAz06EJxwhsk8uNfWxBo) | 2:01 |
+| 5 | [The Thing About Fences](https://open.spotify.com/track/4G0QxtnbJeoVZ8klydzW4V) | [Walker County](https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg) | [Painted Ponies](https://open.spotify.com/album/2ln2xLwxx6ew3hwpPukjud) | 3:21 |
+| 6 | [Inner Light \(From "Hajime No Ippo"\)](https://open.spotify.com/track/5q9gEHMWOCNFdl3Is3Lau9) | [Miura Jam](https://open.spotify.com/artist/5ZcXM1KFH6hhLoBIdgCnap) | [Inner Light \(From "Hajime No Ippo"\)](https://open.spotify.com/album/2zbkEjeACYRZyRiao4yHbj) | 5:04 |
+| 7 | [Turn The Other Way](https://open.spotify.com/track/2L6O0QR2Zmjy04PeD7hGDS) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Sounding The Seventh Trumpet](https://open.spotify.com/album/46yRqBsLmCPBMumrBCY3kq) | 5:36 |
+| 8 | [Love Hurts \- Single Edit](https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN) | [Nazareth](https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP) | [Hair of the Dog](https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP) | 3:52 |
+| 9 | [DLT](https://open.spotify.com/track/25j5mnFdxuaxrJGER0IZHe) | [We Are Harlot](https://open.spotify.com/artist/2Gf3bDVBECfT7UCU3XcvlD) | [We Are Harlot](https://open.spotify.com/album/1wM07YWwj8Ib0Q4Nc8apq4) | 3:10 |
+| 10 | [Mustapha \- Remastered 2011](https://open.spotify.com/track/3blt6xuEed5PDZYO1Fjj2W) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Deep Cuts \(Vol\. 2 / 1977\-1982\)](https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7) | 3:01 |
+| 11 | [Smother Me](https://open.spotify.com/track/56tEfCjYtZgbDGDrcpHzGa) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Lies for the Liars](https://open.spotify.com/album/5e0H35jvjBwPOWQTAbpNvg) | 6:17 |
+| 12 | [High With Your Lover](https://open.spotify.com/track/6WRCSTFIlK0quhnICyHiNy) | [Sweet Bill](https://open.spotify.com/artist/5kFZGxVFIgurSkmj5V5uo2) | [High With Your Lover](https://open.spotify.com/album/3WRbEHjN0ePquqEtlc6vPE) | 3:55 |
 
-Snapshot ID: `OTIsZGUyZmQzNDJjYjBiZDMwY2JkODE4ZjRjM2ZhNmU3ZmMxNTI2NmQ4Mg==`
+Snapshot ID: `OTMsNDE0MDYxZjE4OThiMjkzODU1Y2FkYzRmZDM0NTU0YjcxNGEyNmZjMg==`

@@ -4,7 +4,7 @@
 
 > Lo último y lo mejor de la salsa\. Cover: Victor Manuelle
 
-268 songs - 19 hr 50 min
+269 songs - 19 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -27,6 +27,7 @@
 | [Así Es la Vida](https://open.spotify.com/track/72AMsl79P96E6rz36zQ7Rc) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Mis Favoritas](https://open.spotify.com/album/2egG2DlANQY3fxAI3gOaCZ) | 4:41 | 2022-01-01 | 2022-07-29 |
 | [Ayúdame Inspiración](https://open.spotify.com/track/3WyCqAwE7P6OgWGGd9sW1r) | [Maite Hontelé](https://open.spotify.com/artist/1Pe4MoTbike2NZeexUUBrU), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Ayúdame Inspiración](https://open.spotify.com/album/3POCvSEqOXYWinGpbkR7iO) | 4:07 | 2022-01-01 | 2022-02-01 |
 | [Bailando A Tu Son](https://open.spotify.com/track/3vrPR7zhJKvVG5INzVu8l6) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Debut y Segunda Tanda, Vol.1](https://open.spotify.com/album/1m8xBkNoOgnAPnHL5VLdem) | 4:36 | 2022-09-09 | 2024-03-18 |
+| [Basta Ya](https://open.spotify.com/track/5LpobtWokaLmZW87M52tgL) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Basta Ya](https://open.spotify.com/album/6DOxLq4YiYcq815ABk5PB8) | 3:02 | 2024-04-12 |  |
 | [Besos de Amor](https://open.spotify.com/track/1mjnPkzmQBrm5x4p1dpxnP) | [Guayacán Orquesta](https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE) | [Besos de Amor](https://open.spotify.com/album/7uopsqM4qKfK7M8TwLqqm7) | 4:32 | 2022-03-18 | 2022-05-27 |
 | [Bochinchero](https://open.spotify.com/track/5ju2uIITK3ZXXhF9e074iG) | [Motiff](https://open.spotify.com/artist/5yjh35rXozitS6KLyjicLj), [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Bochinchero](https://open.spotify.com/album/4QUSOz0vAbOGRAFAduJ6GY) | 3:19 | 2024-02-16 |  |
 | [Boogaloo Supreme](https://open.spotify.com/track/3X5h9JHRn22bwysuTLVOXQ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [Boogaloo Supreme](https://open.spotify.com/album/5Pce9doDhsmeD7QEuIsF98) | 3:28 | 2022-01-01 | 2022-07-29 |
@@ -232,7 +233,7 @@
 | [Te Estan Buscando](https://open.spotify.com/track/61p1Ha5D8jCY42BnocQu5j) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/4XQDD2iAavRQ9caGWBfHqc) | 6:28 | 2022-01-01 | 2022-07-04 |
 | [Te Están Buscando](https://open.spotify.com/track/3BBNvpNb4uBGetyf5R34ac) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [Canciones Del Solar De Los Aburridos](https://open.spotify.com/album/1szanrwjas55YHd6OzZrCs) | 6:28 | 2022-05-20 | 2024-04-19 |
 | [Te Propongo](https://open.spotify.com/track/2WLNCSzgMtdXyHcdPNK8UQ) | [Hector Rey](https://open.spotify.com/artist/3IfYZNt3tOmvN7HA3iNbGv) | [Al Duro](https://open.spotify.com/album/7kB5Db63xnbxos7xL5kW5U) | 4:37 | 2022-01-01 |  |
-| [Te Quise Olvidar](https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Te Quise Olvidar](https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3) | 3:29 | 2023-08-11 |  |
+| [Te Quise Olvidar](https://open.spotify.com/track/4MyvPLexTyZd6sCHQgx0zB) | [Moa Rivera](https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz) | [Te Quise Olvidar](https://open.spotify.com/album/4aenZl6F7YEiyTx5xk2Gh3) | 3:29 | 2023-08-11 | 2024-04-22 |
 | [Te Voy a Hacer Feliz](https://open.spotify.com/track/4jBkRRscUmbKtUbngf2WQf) | [Mariano Civico](https://open.spotify.com/artist/3u6R4DMXSDavQmQBzFPM3q) | [De Costa a Costa](https://open.spotify.com/album/2nOvkgvFGscNv3cqa2GNaN) | 5:09 | 2022-05-20 | 2024-04-19 |
 | [Tengo Ganas](https://open.spotify.com/track/0gVmUkRX09cY5uNPSI74JC) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Historia De Un Sonero](https://open.spotify.com/album/1v1eJiZh9virmkSaMeMwi4) | 4:26 | 2022-01-01 | 2024-04-13 |
 | [Tengo Que Colgar](https://open.spotify.com/track/6W9gmfyZ94oeAaBK3IjAqx) | [Chiquito Team Band](https://open.spotify.com/artist/0vEYOFlkqy2FUy1UOF7RiV) | [Hot Salsa 2017 \[19 Salsa Latin Hits \(Salsa Romántica, Urbana, para Bailar\)\]](https://open.spotify.com/album/4UfiwSxgoLBp2FDEZjHCve) | 3:40 | 2022-01-01 | 2022-07-22 |

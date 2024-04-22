@@ -4,7 +4,7 @@
 
 > Indie soul that's highkey fire
 
-700 songs - 1 day 14 hr 18 min
+701 songs - 1 day 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -237,7 +237,7 @@
 | [Golden Child \(Jealous\)](https://open.spotify.com/track/1NHNnN4m39qq0v33BBaib8) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Heaven](https://open.spotify.com/album/6aWsHOGYXoEY1kxnxGMLwU) | 3:27 | 2023-09-16 |  |
 | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/track/6FwuRS7LLtemBSw18PK2fz) | [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl), [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Golden pt\. 2 \(feat\. Mereba\)](https://open.spotify.com/album/4sivA5FISjDDuqcFZuvPsy) | 2:17 | 2021-12-15 | 2023-07-15 |
 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 | 2023-02-12 | 2023-08-12 |
-| [GOOD DAY](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 | 2023-02-17 |  |
+| [GOOD DAY](https://open.spotify.com/track/4DvepWnbBJzTb0jZZTqgPG) | [Theo Croker](https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6), [D'LEAU](https://open.spotify.com/artist/33ZK4nYxwuvdVW7vmepMYk) | [BY THE WAY](https://open.spotify.com/album/66QY3NzmyFrugwv8fBwAVe) | 4:04 | 2023-02-17 | 2024-04-22 |
 | [Good Good](https://open.spotify.com/track/02adJbZO7bHXJjboTwph45) | [Tanerélle](https://open.spotify.com/artist/1r1n66Rkx4fzNCIUQhS6OH) | [Good Good](https://open.spotify.com/album/77zg0WMPMfptvnSR4PeRpI) | 3:45 | 2021-12-15 | 2023-08-19 |
 | [Good Guys \- pt\. 2](https://open.spotify.com/track/6EvduCV0pNOco1D2POpViK) | [chlothegod](https://open.spotify.com/artist/10YC7gfEVGGez94KMAJoLx), [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [Good Guys pt\. 2 \(Ft\. Amindi\)](https://open.spotify.com/album/1sdy89VTtPcRPes83FcQn6) | 3:28 | 2024-01-19 |  |
 | [Good News](https://open.spotify.com/track/2oXhUifLIC0brl2xFfjONm) | [Jamila Woods](https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B) | [Good News](https://open.spotify.com/album/4c0gGmxV7oCRLp79PrebTe) | 3:03 | 2023-09-15 | 2023-12-04 |
@@ -431,6 +431,7 @@
 | [Motions](https://open.spotify.com/track/2cx6YvfaDNCIc0baeqMKxx) | [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW) | [Motions](https://open.spotify.com/album/2M9QFRKbVSXaQHy7J6vdhY) | 3:28 | 2023-03-17 | 2023-08-12 |
 | [Move](https://open.spotify.com/track/5g6Oon5f65EzBXHpIM3quE) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh), [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Move](https://open.spotify.com/album/00f6VPIgwapHjGZWxkAeKq) | 3:39 | 2024-03-22 |  |
 | [Movement](https://open.spotify.com/track/4PkqYfR5Z1So9tWexu6uhz) | [Moo Latte](https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F), [Iman Omari](https://open.spotify.com/artist/1ySUvbTVNE9pyhdzcDxjg4) | [Movement](https://open.spotify.com/album/78CsycL5yFdeyd8h9o37U6) | 3:10 | 2021-12-15 | 2022-07-28 |
+| [Ms\. Ebony Brown](https://open.spotify.com/track/4y4WjTFKiPDtFRCobVIC39) | [Flwr Chyld](https://open.spotify.com/artist/33luNNaeHIJ5KfjW56aleZ), [Grimm Lynn](https://open.spotify.com/artist/0JkfcKhoGCGKSBxSRGaRDh) | [Ms\. Ebony Brown](https://open.spotify.com/album/5ZPuVPB6ot1QCKasaxBeSz) | 3:18 | 2024-04-19 |  |
 | [Multiply \- Feat\. Luedji Luna](https://open.spotify.com/track/5PaQRXicaR5efjg0Pl8Ev9) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Multiply \(Feat\. Luedji Luna\)](https://open.spotify.com/album/77uUexIkyFfbFNRqFNNpHG) | 4:00 | 2024-04-05 |  |
 | [My World](https://open.spotify.com/track/5wXQFi7alwkKVf7PdYb3Co) | [Asiahn](https://open.spotify.com/artist/1mKtlPrXjWK6oIdk9cSOjs) | [The Interlude](https://open.spotify.com/album/6bZ7XNBJFwmpOdAp9xZkoX) | 3:11 | 2021-12-15 | 2022-11-25 |
 | [Mystic Lover](https://open.spotify.com/track/5Qs1FoJHwRJWx258CMJSxH) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Mystic Lover](https://open.spotify.com/album/6NUcMrmhoAIwvO0kAhk6Rt) | 3:55 | 2021-12-15 | 2022-07-23 |

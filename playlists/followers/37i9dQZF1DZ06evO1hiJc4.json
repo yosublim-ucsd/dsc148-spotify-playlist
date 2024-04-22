@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 141928,
+  "2024-04-22": 141972,
   "date_first_scraped": "2023-12-19",
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
   "name": "This Is Labrinth",
@@ -43,6 +43,28 @@
       "duration_ms": 181497,
       "name": "100 Miles An Hour",
       "url": "https://open.spotify.com/track/5vulybdsJSpz0wyvJGBXtP"
+    },
+    {
+      "album": {
+        "name": "The Kitchen (Score from the Netflix Film)",
+        "url": "https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf"
+      },
+      "artists": [
+        {
+          "name": "Labrinth",
+          "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Alex Baranowski",
+          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102603,
+      "name": "Accepted By The Crew",
+      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
     },
     {
       "album": {
@@ -331,7 +353,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 124148,
       "name": "Fun At The Alley",
       "url": "https://open.spotify.com/track/0njtFgDso6x7h9aZ8SPNET"

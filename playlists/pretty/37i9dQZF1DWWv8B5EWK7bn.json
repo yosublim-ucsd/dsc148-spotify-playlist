@@ -1,6 +1,6 @@
 {
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
-  "num_followers": 181062,
+  "num_followers": 181111,
   "original_name": "Oblique",
   "owner": {
     "name": "Spotify",
@@ -325,6 +325,22 @@
       "url": "https://open.spotify.com/track/4FyZknHKfTxbVnsvnt8BEk"
     },
     {
+      "added_at": "2024-01-04 01:06:11",
+      "album": {
+        "name": "Dumb Guitar",
+        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
+      },
+      "artists": [
+        {
+          "name": "Mount Kimbie",
+          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
+        }
+      ],
+      "duration_ms": 310865,
+      "name": "Dumb Guitar",
+      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
+    },
+    {
       "added_at": "2023-10-22 04:22:10",
       "album": {
         "name": "Suono Assente",
@@ -351,22 +367,6 @@
       "duration_ms": 249798,
       "name": "Habadash",
       "url": "https://open.spotify.com/track/6yaL3ufWIdKC1HGJb4TQae"
-    },
-    {
-      "added_at": "2024-01-04 01:06:11",
-      "album": {
-        "name": "Dumb Guitar",
-        "url": "https://open.spotify.com/album/0oPbGSY87GRUH60Owh8Yql"
-      },
-      "artists": [
-        {
-          "name": "Mount Kimbie",
-          "url": "https://open.spotify.com/artist/3NUtpWpGDoffm3RCGhSHtl"
-        }
-      ],
-      "duration_ms": 310865,
-      "name": "Dumb Guitar",
-      "url": "https://open.spotify.com/track/50UWt4jx8Y1t8EoV0ODKDL"
     },
     {
       "added_at": "2023-08-10 05:47:21",
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/4SIy0CT0thjNx55TAeBq6x"
     },
     {
+      "added_at": "2024-01-30 05:23:45",
+      "album": {
+        "name": "Life Drummer",
+        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
+      },
+      "artists": [
+        {
+          "name": "Vanishing Twin",
+          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
+        }
+      ],
+      "duration_ms": 158638,
+      "name": "Life Drummer",
+      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
+    },
+    {
       "added_at": "2023-06-07 23:32:59",
       "album": {
         "name": "Spotify Singles",
@@ -583,22 +599,6 @@
       "duration_ms": 151022,
       "name": "Highway Brain Planet (Credits)",
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
-    },
-    {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Life Drummer",
-        "url": "https://open.spotify.com/album/7FGTtUQdU299dKGgpHxDXQ"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Twin",
-          "url": "https://open.spotify.com/artist/4idG41ELGGRKuiHLc3VLc5"
-        }
-      ],
-      "duration_ms": 158638,
-      "name": "Life Drummer",
-      "url": "https://open.spotify.com/track/29s6C2D4Y2EjT9fwRG2YMD"
     },
     {
       "added_at": "2023-12-20 04:44:18",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/1X3i5zsOswKJkF7ZmG4uO7"
     },
     {
-      "added_at": "2024-01-30 05:23:45",
-      "album": {
-        "name": "Lose",
-        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
-      },
-      "artists": [
-        {
-          "name": "Boeckner",
-          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
-        }
-      ],
-      "duration_ms": 291037,
-      "name": "Lose",
-      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
-    },
-    {
       "added_at": "2023-10-25 14:03:48",
       "album": {
         "name": "Snapdragon",
@@ -819,6 +803,22 @@
       "duration_ms": 420080,
       "name": "MERCY",
       "url": "https://open.spotify.com/track/1S5KEj2FV5TJAoHJaXHmC0"
+    },
+    {
+      "added_at": "2024-01-30 05:23:45",
+      "album": {
+        "name": "Lose",
+        "url": "https://open.spotify.com/album/4ddL8UW6YILIWxd0g185KP"
+      },
+      "artists": [
+        {
+          "name": "Boeckner",
+          "url": "https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE"
+        }
+      ],
+      "duration_ms": 291037,
+      "name": "Lose",
+      "url": "https://open.spotify.com/track/729EJVbWkITU4vAc690cFE"
     },
     {
       "added_at": "2022-09-29 00:57:24",
@@ -973,20 +973,20 @@
       "url": "https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS"
     },
     {
-      "added_at": "2021-10-06 20:23:10",
+      "added_at": "2023-06-07 04:10:00",
       "album": {
-        "name": "Centre",
-        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
+        "name": "Crispy Moon",
+        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
       "artists": [
         {
-          "name": "Mt. Mountain",
-          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
+          "name": "Yama Warashi",
+          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
         }
       ],
-      "duration_ms": 280404,
-      "name": "Aplomb",
-      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
+      "duration_ms": 300866,
+      "name": "Dividual Individual",
+      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1009,20 +1009,20 @@
       "url": "https://open.spotify.com/track/3O05FgZ3XcjoVkZm6YpIKZ"
     },
     {
-      "added_at": "2023-06-07 04:10:00",
+      "added_at": "2021-10-06 20:23:10",
       "album": {
-        "name": "Crispy Moon",
-        "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
+        "name": "Centre",
+        "url": "https://open.spotify.com/album/2JizQfhhkRRiyOFlwVikV7"
       },
       "artists": [
         {
-          "name": "Yama Warashi",
-          "url": "https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C"
+          "name": "Mt. Mountain",
+          "url": "https://open.spotify.com/artist/0bnTW40PsAYmEgWwucEpS4"
         }
       ],
-      "duration_ms": 300866,
-      "name": "Dividual Individual",
-      "url": "https://open.spotify.com/track/0teitNswTb5fqi3eLlQzN0"
+      "duration_ms": 280404,
+      "name": "Aplomb",
+      "url": "https://open.spotify.com/track/2W0eN3BqaBz4WeInKnQmCR"
     },
     {
       "added_at": "2023-10-23 19:41:11",
@@ -1089,22 +1089,6 @@
       "url": "https://open.spotify.com/track/6FodQMZJw91jvvDxI5xWhm"
     },
     {
-      "added_at": "2024-01-29 16:23:09",
-      "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        }
-      ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
-    },
-    {
       "added_at": "2024-01-03 18:37:44",
       "album": {
         "name": "Dog's Life",
@@ -1135,6 +1119,22 @@
       "duration_ms": 197500,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/2GF0rZItoo3ptwCjiwShBa"
+    },
+    {
+      "added_at": "2024-01-29 16:23:09",
+      "album": {
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/7cJDsHyqQS6k7vSubd1reE"
+      },
+      "artists": [
+        {
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
+        }
+      ],
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/5j0A24ckSZtirzrxxVjGdy"
     },
     {
       "added_at": "2024-02-02 05:28:10",
@@ -1173,22 +1173,6 @@
       "url": "https://open.spotify.com/track/71WskoE44lUhHqrQxGxYPe"
     },
     {
-      "added_at": "2022-03-30 04:28:53",
-      "album": {
-        "name": "Sans oublier",
-        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
-      },
-      "artists": [
-        {
-          "name": "Lysandre",
-          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
-        }
-      ],
-      "duration_ms": 170737,
-      "name": "La Roseraie",
-      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Al Sur",
@@ -1207,6 +1191,22 @@
       "duration_ms": 198773,
       "name": "Al Sur",
       "url": "https://open.spotify.com/track/6mrxKzfu4L3AcDxPwYPjUs"
+    },
+    {
+      "added_at": "2022-03-30 04:28:53",
+      "album": {
+        "name": "Sans oublier",
+        "url": "https://open.spotify.com/album/5gTvIe8CJZMUqsGohBOA7c"
+      },
+      "artists": [
+        {
+          "name": "Lysandre",
+          "url": "https://open.spotify.com/artist/5EtRfuHiXyKw18rAaIaSEh"
+        }
+      ],
+      "duration_ms": 170737,
+      "name": "La Roseraie",
+      "url": "https://open.spotify.com/track/4fSzvoIxLIW84DiqWd3axz"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1381,22 +1381,6 @@
       "url": "https://open.spotify.com/track/5ZRDV496C5qfNwfrC5yUQb"
     },
     {
-      "added_at": "2022-02-09 04:03:27",
-      "album": {
-        "name": "Unfamiliar Minds",
-        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
-      },
-      "artists": [
-        {
-          "name": "Elena Seti\u00e9n",
-          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "Situation",
-      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
-    },
-    {
       "added_at": "2022-03-11 04:34:08",
       "album": {
         "name": "P.O.N",
@@ -1411,6 +1395,22 @@
       "duration_ms": 174518,
       "name": "Hasta Ma\u00f1ana",
       "url": "https://open.spotify.com/track/52FOa3LKl18XqXzQQCIaXG"
+    },
+    {
+      "added_at": "2022-02-09 04:03:27",
+      "album": {
+        "name": "Unfamiliar Minds",
+        "url": "https://open.spotify.com/album/6vsPejvpgp2RGHqRDGbvC0"
+      },
+      "artists": [
+        {
+          "name": "Elena Seti\u00e9n",
+          "url": "https://open.spotify.com/artist/3Nh3SJTy4Q47oP45XHmdvg"
+        }
+      ],
+      "duration_ms": 180560,
+      "name": "Situation",
+      "url": "https://open.spotify.com/track/0lkrl5Z30yfeaipp2LkOI2"
     },
     {
       "added_at": "2023-10-19 18:49:28",
@@ -1573,38 +1573,6 @@
       "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
     },
     {
-      "added_at": "2022-01-21 20:15:30",
-      "album": {
-        "name": "Feedback Loop",
-        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
-      },
-      "artists": [
-        {
-          "name": "Cid Rim",
-          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
-        }
-      ],
-      "duration_ms": 188873,
-      "name": "Feedback Loop",
-      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
-    },
-    {
-      "added_at": "2021-10-06 20:23:10",
-      "album": {
-        "name": "The Revolution Of Super Visions",
-        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 301153,
-      "name": "The Revolution Of Super Visions",
-      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
-    },
-    {
       "added_at": "2022-02-04 15:20:01",
       "album": {
         "name": "I Could Be Your Dog (Prequel)",
@@ -1627,6 +1595,22 @@
     {
       "added_at": "2021-10-06 20:23:10",
       "album": {
+        "name": "The Revolution Of Super Visions",
+        "url": "https://open.spotify.com/album/4faN9KeYJRiyylygDmHqbP"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 301153,
+      "name": "The Revolution Of Super Visions",
+      "url": "https://open.spotify.com/track/4FBxXwJfqJv5kmeJ4ciAhY"
+    },
+    {
+      "added_at": "2021-10-06 20:23:10",
+      "album": {
         "name": "void beats/invocation trex",
         "url": "https://open.spotify.com/album/7vDuLO8bzESr0BF7wWgaPX"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 233903,
       "name": "melody in high feedback tones",
       "url": "https://open.spotify.com/track/4R0J5oREX8vuljW1OYg8nU"
+    },
+    {
+      "added_at": "2022-01-21 20:15:30",
+      "album": {
+        "name": "Feedback Loop",
+        "url": "https://open.spotify.com/album/204n8zYF4t6GYr7atvFvsE"
+      },
+      "artists": [
+        {
+          "name": "Cid Rim",
+          "url": "https://open.spotify.com/artist/1qsa20MWDjV9QI93zn2i2s"
+        }
+      ],
+      "duration_ms": 188873,
+      "name": "Feedback Loop",
+      "url": "https://open.spotify.com/track/0P0mIfzkLvBU2xZQN7rQNC"
     },
     {
       "added_at": "2021-10-06 20:23:10",
@@ -1673,22 +1673,6 @@
       "url": "https://open.spotify.com/track/6Fp99MU2pE8RILQnqAL8iT"
     },
     {
-      "added_at": "2022-08-31 04:56:45",
-      "album": {
-        "name": "Flock (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6BAwrKOz139eyfUMyYxcxL"
-      },
-      "artists": [
-        {
-          "name": "Jane Weaver",
-          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
-        }
-      ],
-      "duration_ms": 215831,
-      "name": "Don't Tell Me I'm Wrong",
-      "url": "https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ"
-    },
-    {
       "added_at": "2021-10-06 20:23:10",
       "album": {
         "name": "Silver Ladders",
@@ -1703,6 +1687,22 @@
       "duration_ms": 225934,
       "name": "Silver Ladders",
       "url": "https://open.spotify.com/track/3Vduh36kT0NNKaxfpfo75B"
+    },
+    {
+      "added_at": "2022-08-31 04:56:45",
+      "album": {
+        "name": "Flock (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6BAwrKOz139eyfUMyYxcxL"
+      },
+      "artists": [
+        {
+          "name": "Jane Weaver",
+          "url": "https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL"
+        }
+      ],
+      "duration_ms": 215831,
+      "name": "Don't Tell Me I'm Wrong",
+      "url": "https://open.spotify.com/track/4n5pGqntHw2yLB61tbVGoJ"
     },
     {
       "added_at": "2021-10-06 20:23:10",

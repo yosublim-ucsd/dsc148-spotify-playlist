@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 112961,
+  "2024-04-22": 112904,
   "date_first_scraped": "2022-03-22",
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
   "name": "Flow Panam\u00e1",
@@ -2191,6 +2191,28 @@
       "duration_ms": 223137,
       "name": "H\u00e1blame de Ti",
       "url": "https://open.spotify.com/track/20XMeJgjo5Xrq8MP2kh0p4"
+    },
+    {
+      "album": {
+        "name": "IGNORANT SH!T (Maleanteria)",
+        "url": "https://open.spotify.com/album/4zgU5GUocpTGIT6omIrpqU"
+      },
+      "artists": [
+        {
+          "name": "Los Rakas",
+          "url": "https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0"
+        },
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166961,
+      "name": "IGNORANT SH!T (Maleanteria)",
+      "url": "https://open.spotify.com/track/7MbIDgvG9lkKn1yJZBjUEd"
     },
     {
       "album": {

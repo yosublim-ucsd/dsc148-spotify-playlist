@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 68260,
+  "2024-04-22": 68265,
   "date_first_scraped": "2023-06-18",
   "description": "The biggest pop hits to come from the land down under.",
   "name": "Aussie Pop Classics",
@@ -361,7 +361,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 254106,
       "name": "Catch My Disease",
       "url": "https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu"
@@ -513,6 +513,24 @@
       "duration_ms": 209754,
       "name": "Dance Monkey",
       "url": "https://open.spotify.com/track/1rgnBhdG2JDFTbYkYRZAku"
+    },
+    {
+      "album": {
+        "name": "Thirty One",
+        "url": "https://open.spotify.com/album/4kZKz4ZQCnuKWV6MqOR2H2"
+      },
+      "artists": [
+        {
+          "name": "Jarryd James",
+          "url": "https://open.spotify.com/artist/23IZADrJHPStZ6aMxJVq3s"
+        }
+      ],
+      "date_added": "2022-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234866,
+      "name": "Do You Remember",
+      "url": "https://open.spotify.com/track/5V53dAjgNInfXNlz2cryvd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 
 > Sit back, stay awhile, and savor the soft, sweet sounds of this collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,261 likes - 150 songs - 9 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,235 likes - 150 songs - 9 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2PsvJSPnPf.md) - [plain]
 | 2 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 |
 | 3 | [Wondering Why](https://open.spotify.com/track/158mZIMC4X58ZJK4fJfH1b) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Wondering Why](https://open.spotify.com/album/5WtlaMCff9QS0I76EE7lge) | 3:52 |
 | 4 | [Hurts So Good](https://open.spotify.com/track/3kPmfYnG7vvLxIO1PFoPlC) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [Hurts So Good](https://open.spotify.com/album/4sk8GbzVtD055DCdQmxloZ) | 4:55 |
-| 5 | [Long Time Ago](https://open.spotify.com/track/1RR3PCooe7Uhak8sUP3OQB) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4), [Rylie Bourne](https://open.spotify.com/artist/6gVr94x6xH84PhBJOsKG70), [Lucianna Costa](https://open.spotify.com/artist/0W8RdNurhRPm7GJVoPYiea) | [Long Time Ago](https://open.spotify.com/album/2ut9F2KYjy2cf15Ta2ShE7) | 4:02 |
+| 5 | [Long Time Ago](https://open.spotify.com/track/1RR3PCooe7Uhak8sUP3OQB) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4), [Rylie Bourne](https://open.spotify.com/artist/6gVr94x6xH84PhBJOsKG70), [Lucciana Costa](https://open.spotify.com/artist/77fSWaufxseHLD6seG4XB4) | [Long Time Ago](https://open.spotify.com/album/2ut9F2KYjy2cf15Ta2ShE7) | 4:02 |
 | 6 | [I Am Appalachia](https://open.spotify.com/track/6qmRm8Fq9SvOMT0Ekr06V5) | [Josiah and the Bonnevilles](https://open.spotify.com/artist/3FMcVBx2TMq2f5gEPcUieC) | [I Am Appalachia](https://open.spotify.com/album/63626Q1PaEAugYbB4xAIDn) | 2:40 |
 | 7 | [For a Long While](https://open.spotify.com/track/2PNQZvAiJouT0v1XkyUrgF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [For a Long While](https://open.spotify.com/album/1vOGxW3zlR7k5PsAawSxqD) | 3:19 |
 | 8 | [A Little Devil](https://open.spotify.com/track/3qdSwHoHEQBcboISRiZWgO) | [The Dead South](https://open.spotify.com/artist/3HR1xtIsUefdFnkI1XHgeA) | [A Little Devil / Tiny Wooden Box](https://open.spotify.com/album/5QjTvxUeVtVavvBaNUk0Ls) | 3:51 |

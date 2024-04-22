@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 103194,
+  "2024-04-22": 103173,
   "date_first_scraped": "2022-06-15",
   "description": "The best in UK Funky. Cover: Roska",
   "name": "UK Funky",
@@ -509,7 +509,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 267904,
       "name": "Cheese and Bun",
       "url": "https://open.spotify.com/track/54NCFi6uvFsfhIMXkduSgT"
@@ -575,6 +575,10 @@
         {
           "name": "Zed Bias",
           "url": "https://open.spotify.com/artist/1XZzbCZRuj6eOdRxQcmiD7"
+        },
+        {
+          "name": "Fox",
+          "url": "https://open.spotify.com/artist/5SGoXZP1nUNCdOjccpKBAS"
         }
       ],
       "date_added": "2022-04-13",
@@ -973,7 +977,7 @@
       ],
       "date_added": "2022-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-24",
+      "date_removed": null,
       "duration_ms": 285460,
       "name": "Fuller",
       "url": "https://open.spotify.com/track/0cjqXX58zJv6H7Wq1EliTW"

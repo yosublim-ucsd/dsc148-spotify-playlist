@@ -1,12 +1,12 @@
 {
-  "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 602570,
+  "description": "This Is Whitney Houston. Los temas esenciales, todos en una lista.",
+  "num_followers": 602415,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDFjZDEyZWU3NjAyMWMwNDhiY2RlNWQ5MTg5OGFiODZl",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDU0NWFkOTQ3ZWFjYmNiMjhhOGMwMjQyMDA4MjFhMzQ2",
   "tracks": [
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 255733,
-      "name": "One Of Those Days",
-      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
+      "duration_ms": 221866,
+      "name": "You Light Up My Life",
+      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
     },
     {
       "added_at": null,
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
         }
       ],
-      "duration_ms": 221866,
-      "name": "You Light Up My Life",
-      "url": "https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT"
+      "duration_ms": 255733,
+      "name": "One Of Those Days",
+      "url": "https://open.spotify.com/track/4qoRtBttExNQ8eguqiYsRg"
     },
     {
       "added_at": null,

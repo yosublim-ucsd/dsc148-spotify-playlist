@@ -1,6 +1,6 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 206854,
+  "num_followers": 207136,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -227,18 +227,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Tonight",
-        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
+        "name": "Marechi\u00e0",
+        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
       },
       "artists": [
         {
-          "name": "Savage",
-          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        },
+        {
+          "name": "C\u00e9lia Kameni",
+          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
         }
       ],
-      "duration_ms": 233640,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
+      "duration_ms": 264929,
+      "name": "Marechi\u00e0",
+      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -259,22 +263,18 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Marechi\u00e0",
-        "url": "https://open.spotify.com/album/2VWCyefmIWJn1trgychc0W"
+        "name": "Tonight",
+        "url": "https://open.spotify.com/album/1YluRFeZzVHA5tFvJtGKys"
       },
       "artists": [
         {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        },
-        {
-          "name": "C\u00e9lia Kameni",
-          "url": "https://open.spotify.com/artist/7dSwsPGp84lyzlAvuqQhLt"
+          "name": "Savage",
+          "url": "https://open.spotify.com/artist/2t97iXd3qCH0qMvf83HziW"
         }
       ],
-      "duration_ms": 264929,
-      "name": "Marechi\u00e0",
-      "url": "https://open.spotify.com/track/1gE7p3b4J8p4ivOCR2CO0Y"
+      "duration_ms": 233640,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/2GMxS3x59raBvdX9SFNmtC"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Nuova Napoli",
+        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
+      },
+      "artists": [
+        {
+          "name": "Nu Genea",
+          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
+        }
+      ],
+      "duration_ms": 263508,
+      "name": "Disco Sole",
+      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "The Glow of Love (Original Album and Rare Tracks)",
         "url": "https://open.spotify.com/album/5AWDEEdFf7ab4X6HpfxLye"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 373240,
       "name": "The Glow of Love",
       "url": "https://open.spotify.com/track/6w9g12jpHCPCuvYVX7vLLG"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "Nuova Napoli",
-        "url": "https://open.spotify.com/album/1NuMP2jrBeyxR3MqwengWD"
-      },
-      "artists": [
-        {
-          "name": "Nu Genea",
-          "url": "https://open.spotify.com/artist/77J3V0V7sEOf5ifCDBSNaJ"
-        }
-      ],
-      "duration_ms": 263508,
-      "name": "Disco Sole",
-      "url": "https://open.spotify.com/track/4shVjgoOMa73JgBtZIDDz4"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
       },
       "artists": [
         {
-          "name": "Plustwo",
-          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
+          "name": "La Bionda",
+          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
         }
       ],
-      "duration_ms": 231691,
-      "name": "Melody (1983 Radio Version)",
-      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
+      "duration_ms": 193893,
+      "name": "I Wanna Be Your Lover",
+      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -603,18 +603,18 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5YZvjQajxWFGPxJMcPTwDT"
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/6wxav4nCiImWwjtyRsNBcz"
       },
       "artists": [
         {
-          "name": "La Bionda",
-          "url": "https://open.spotify.com/artist/64KxTrl5ovS7lD7pSNov9i"
+          "name": "Plustwo",
+          "url": "https://open.spotify.com/artist/5bHicu5GncBzOsjUFsooLK"
         }
       ],
-      "duration_ms": 193893,
-      "name": "I Wanna Be Your Lover",
-      "url": "https://open.spotify.com/track/3LYvtDZSTCQv9WrUv15vyZ"
+      "duration_ms": 231691,
+      "name": "Melody (1983 Radio Version)",
+      "url": "https://open.spotify.com/track/78q9spnn1sK4UBefjvKjeJ"
     },
     {
       "added_at": "2024-04-04 22:01:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+      },
+      "artists": [
+        {
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
         "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
         "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 401773,
       "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
       "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
-      },
-      "artists": [
-        {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
-        }
-      ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2024-04-04 22:01:00",

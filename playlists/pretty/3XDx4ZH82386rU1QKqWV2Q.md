@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 
 > Brazilian Phonk FOCUS ON YOU!  This account is not associated with any social media accounts!
 
-[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,077,060 likes - 144 songs - 5 hr 44 min
+[CRD](https://open.spotify.com/user/315do5izbo6glskxkgjxl2s6ed6u) - 1,077,098 likes - 144 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/3XDx4ZH82386rU1QKqWV2Q.md) - [plain]
 | 21 | [MELODIA DE VITORIA](https://open.spotify.com/track/3y5LRV9dYkGECL51KkZfxc) | [S3BZS](https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id), [acronym.](https://open.spotify.com/artist/5GFRLmuyDjzaobJ5xRFAU0) | [MELODIA DE VITORIA](https://open.spotify.com/album/6sBNyXmOT6TgdZdZWah3kD) | 1:29 |
 | 22 | [GigaChad Theme \- Phonk House Version](https://open.spotify.com/track/7mLWNwcvwRdEviz6SfYp8A) | [g3ox\_em](https://open.spotify.com/artist/0Zw2ivPEDptvMHwCXjhdRs) | [GigaChad Theme \(Phonk House Version\)](https://open.spotify.com/album/6XMRvZrrp6KDqYO4tDutwr) | 2:26 |
 | 23 | [Hollow](https://open.spotify.com/track/43m2rSnNDyVc3XEg8TDJTw) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f), [GOLDKID$](https://open.spotify.com/artist/6PEnjhcHrk3FoMtUSHc3Jz) | [Hollow](https://open.spotify.com/album/7DarvJQ1pM56CZOLwEQQbi) | 2:50 |
-| 24 | [x\-tudo \- slowed](https://open.spotify.com/track/2CSQju5oDh0zMIwsf6qcsN) | [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa) | [x\-tudo](https://open.spotify.com/album/5mGMCvuF70Alfy0FXg3Sn7) | 1:15 |
+| 24 | [x\-tudo \- slowed](https://open.spotify.com/track/2CSQju5oDh0zMIwsf6qcsN) | [slxughter](https://open.spotify.com/artist/1M02J1PLobtQYok93DEvVa), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [x\-tudo](https://open.spotify.com/album/5mGMCvuF70Alfy0FXg3Sn7) | 1:15 |
 | 25 | [Hold It Down \[The FifthGuys Remix\]](https://open.spotify.com/track/0K4h7wmNfQyj5V2NYDKLNh) | [The FifthGuys](https://open.spotify.com/artist/0Jk0TeNXrhhwOMmR2nNyZR), [Swisha T](https://open.spotify.com/artist/1KNGrimbkpYFO5jKiBSCLZ), [Bmike](https://open.spotify.com/artist/1iwTLEeVSDXJxCY9pg0UZz), [Prznt](https://open.spotify.com/artist/57kVlVXJYheaFNXA91qP4w) | [Hold It Down \[The FifthGuys Remix\]](https://open.spotify.com/album/7kT2iqP1GVGr1UXq63YZDz) | 2:47 |
 | 26 | [DNA](https://open.spotify.com/track/3i6tlvYU1BSAM3yGQNemtM) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [VISXGE](https://open.spotify.com/artist/6kLsCQ1gKvJmjmC8XbfqFE) | [DNA](https://open.spotify.com/album/1ILssfrknV8cQv5QvwBGUY) | 1:28 |
 | 27 | [sins](https://open.spotify.com/track/5QCFXhgAwZBzX2szVZ3Xmt) | [PHARAØH](https://open.spotify.com/artist/5SHDLpahWqSLc0qhuGpS3f) | [sins](https://open.spotify.com/album/5rsH2fYloVrPHJOXv2aDQL) | 1:55 |

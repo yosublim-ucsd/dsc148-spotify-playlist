@@ -1,6 +1,6 @@
 {
   "description": "Deja que el sentimiento antig\u00fcito de los boleros te envuelva con amor y nostalgia \ud83d\udc96\ud83c\udfb5\ud83c\udf39",
-  "num_followers": 77685,
+  "num_followers": 77721,
   "original_name": "B\u00e9same Mucho",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Serie 32",
+        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
+      },
+      "artists": [
+        {
+          "name": "Victor Yturbe \"El Piruli\"",
+          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Ver\u00f3nica",
+      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -131,22 +147,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Serie 32",
-        "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
-      },
-      "artists": [
-        {
-          "name": "Victor Yturbe \"El Piruli\"",
-          "url": "https://open.spotify.com/artist/288DN4mD1eyvKyVz8So3HB"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Ver\u00f3nica",
-      "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Serenata con Los Tecolines",
         "url": "https://open.spotify.com/album/5B8WnefLZ6ako5S6eUa7mb"
       },
@@ -159,6 +159,22 @@
       "duration_ms": 173146,
       "name": "Ahora y siempre",
       "url": "https://open.spotify.com/track/5J32HBvOLwvvJmgwRhn8fh"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 175253,
+      "name": "Tres Regalos",
+      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -195,18 +211,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+        "name": "Los Santos",
+        "url": "https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR"
       },
       "artists": [
         {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+          "name": "Los Santos",
+          "url": "https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI"
         }
       ],
-      "duration_ms": 175253,
-      "name": "Tres Regalos",
-      "url": "https://open.spotify.com/track/0Wui9qdWQt5zhH0ZYXmrVq"
+      "duration_ms": 176889,
+      "name": "Jacarand\u00e1",
+      "url": "https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -223,22 +239,6 @@
       "duration_ms": 197149,
       "name": "La Barca",
       "url": "https://open.spotify.com/track/1GHTx9EyR44pgtGLotj2nH"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Santos",
-        "url": "https://open.spotify.com/album/2oFAIyqSu5623ZUIFnbiiR"
-      },
-      "artists": [
-        {
-          "name": "Los Santos",
-          "url": "https://open.spotify.com/artist/2yecGImQIcTzSN0nh6BHcI"
-        }
-      ],
-      "duration_ms": 176889,
-      "name": "Jacarand\u00e1",
-      "url": "https://open.spotify.com/track/0RIijpTXIM2xf11zcH3eGL"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -275,6 +275,22 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Coleccion Original",
+        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
+      },
+      "artists": [
+        {
+          "name": "Los Dandys",
+          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
+        }
+      ],
+      "duration_ms": 175693,
+      "name": "Cerca del Mar",
+      "url": "https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "La Absoluta Colecci\u00f3n",
         "url": "https://open.spotify.com/album/4T8MOQQIuICQ3Q7VF0JFB7"
       },
@@ -305,6 +321,22 @@
       "url": "https://open.spotify.com/track/3HRqqfLJXMvEcqflLpy5Os"
     },
     {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Usted",
+        "url": "https://open.spotify.com/album/7fTMdHlOrYglm01YcdOMig"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Diamantes",
+          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
+        }
+      ],
+      "duration_ms": 196066,
+      "name": "Usted",
+      "url": "https://open.spotify.com/track/1Wt3vmlSvvdyjeizfXsyrg"
+    },
+    {
       "added_at": "2024-04-03 16:52:53",
       "album": {
         "name": "A Mi Amor Con Mi Amor",
@@ -319,22 +351,6 @@
       "duration_ms": 158733,
       "name": "Esta Tarde Vi Llover",
       "url": "https://open.spotify.com/track/7K1wswXrFRcR0I7EcpDSsM"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Coleccion Original",
-        "url": "https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ"
-      },
-      "artists": [
-        {
-          "name": "Los Dandys",
-          "url": "https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK"
-        }
-      ],
-      "duration_ms": 175693,
-      "name": "Cerca del Mar",
-      "url": "https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -383,22 +399,6 @@
       "duration_ms": 340400,
       "name": "Nostalgia",
       "url": "https://open.spotify.com/track/1lMoqzAjvLxIQJoYSeNVj1"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Usted",
-        "url": "https://open.spotify.com/album/7fTMdHlOrYglm01YcdOMig"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Diamantes",
-          "url": "https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1"
-        }
-      ],
-      "duration_ms": 196066,
-      "name": "Usted",
-      "url": "https://open.spotify.com/track/1Wt3vmlSvvdyjeizfXsyrg"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -551,22 +551,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Mis \u00c9xitos",
-        "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
-      },
-      "artists": [
-        {
-          "name": "Marco Antonio Mu\u00f1iz",
-          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Delirio",
-      "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Las 30 grandes de Chavela Vargas",
         "url": "https://open.spotify.com/album/5PBV4NRJsndZpe2cbIejt2"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 155773,
       "name": "Toda una vida",
       "url": "https://open.spotify.com/track/3uNjBiROyJVAz2ez2Qc4dD"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Mis \u00c9xitos",
+        "url": "https://open.spotify.com/album/6f0Chja4OX6KvJLame43xy"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Mu\u00f1iz",
+          "url": "https://open.spotify.com/artist/4BLAYO57LtkaZ6odOdWmGc"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Delirio",
+      "url": "https://open.spotify.com/track/3d4dnAUxWzthwkrWaOSAAx"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -619,42 +619,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Noche criolla",
-        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
-        },
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        }
-      ],
-      "duration_ms": 180035,
-      "name": "Ven aca (Bolero)",
-      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Los Exitos de Alvaro Carrillo",
-        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Carrillo",
-          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
-        }
-      ],
-      "duration_ms": 189426,
-      "name": "Como un Lunar",
-      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "Aunque Me Cueste la Vida",
         "url": "https://open.spotify.com/album/4M7JZW7HpJAdYVZCObIAQ2"
       },
@@ -675,6 +639,26 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Noche criolla",
+        "url": "https://open.spotify.com/album/3pDyJPkrKEtPBAJ3S4kavf"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1a La Negra",
+          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+        },
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        }
+      ],
+      "duration_ms": 180035,
+      "name": "Ven aca (Bolero)",
+      "url": "https://open.spotify.com/track/4yG6U4LH22eozbfVkD5x5r"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "El Bolerista De Am\u00e9rica",
         "url": "https://open.spotify.com/album/1G5i6MjFQqHQpwX7uS5jJT"
       },
@@ -691,38 +675,18 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 Inolvidables",
-        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
+        "name": "Los Exitos de Alvaro Carrillo",
+        "url": "https://open.spotify.com/album/1ceMVDdh3VaZex0OxWEg0Y"
       },
       "artists": [
         {
-          "name": "Antonio Badu",
-          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+          "name": "Alvaro Carrillo",
+          "url": "https://open.spotify.com/artist/5mJPpY55svdSmufkSBA0Kp"
         }
       ],
-      "duration_ms": 176906,
-      "name": "Sortilegio",
-      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Latin Trumpets - Bolero",
-        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
-      },
-      "artists": [
-        {
-          "name": "Leo Marini",
-          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
-        },
-        {
-          "name": "La Sonora Matancera",
-          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
-        }
-      ],
-      "duration_ms": 178173,
-      "name": "En la Palma de la Mano",
-      "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
+      "duration_ms": 189426,
+      "name": "Como un Lunar",
+      "url": "https://open.spotify.com/track/6bVxowP80G2ScKsfAz56Fs"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -743,6 +707,22 @@
       "duration_ms": 141000,
       "name": "Besos De Fuego",
       "url": "https://open.spotify.com/track/0gcHTyuJ19PvuDAcaw0uEX"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 Inolvidables",
+        "url": "https://open.spotify.com/album/6NQaVDESoAu9IPRD8z9SPO"
+      },
+      "artists": [
+        {
+          "name": "Antonio Badu",
+          "url": "https://open.spotify.com/artist/3HMS8RHr7RqTB1vj8igPkl"
+        }
+      ],
+      "duration_ms": 176906,
+      "name": "Sortilegio",
+      "url": "https://open.spotify.com/track/0MV5NacynjQkSro73OCLx8"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -779,6 +759,26 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
+        "name": "Latin Trumpets - Bolero",
+        "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
+      },
+      "artists": [
+        {
+          "name": "Leo Marini",
+          "url": "https://open.spotify.com/artist/3Y5vifXLGyyHfY99BH73Ld"
+        },
+        {
+          "name": "La Sonora Matancera",
+          "url": "https://open.spotify.com/artist/01p7Homi0d4XxZ06f2NYYD"
+        }
+      ],
+      "duration_ms": 178173,
+      "name": "En la Palma de la Mano",
+      "url": "https://open.spotify.com/track/4fPCFJHsR8iWRv3Q6yDL4i"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
         "name": "Bodas De Plata",
         "url": "https://open.spotify.com/album/5Hmy8KUqe100HKt2Pwky27"
       },
@@ -791,22 +791,6 @@
       "duration_ms": 156106,
       "name": "Est\u00fapido Cupido",
       "url": "https://open.spotify.com/track/5kx2Rl1UcO0jOMDOAOlXBL"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
-        "name": "Tres Super Trios",
-        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
-      },
-      "artists": [
-        {
-          "name": "Los Tres Reyes",
-          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
-        }
-      ],
-      "duration_ms": 197773,
-      "name": "Odiame",
-      "url": "https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -827,6 +811,22 @@
       "duration_ms": 247906,
       "name": "Flores Negras - Fichas Negras",
       "url": "https://open.spotify.com/track/3ci6RAlkx0Z6V2AGB3BC9A"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Tres Super Trios",
+        "url": "https://open.spotify.com/album/0YJaOjYj6ljHzadphJcpMY"
+      },
+      "artists": [
+        {
+          "name": "Los Tres Reyes",
+          "url": "https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u"
+        }
+      ],
+      "duration_ms": 197773,
+      "name": "Odiame",
+      "url": "https://open.spotify.com/track/4p3A63uJHJXU4IRnmH2316"
     },
     {
       "added_at": "2021-12-26 12:28:38",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-12-26 12:28:38",
       "album": {
-        "name": "Perlas Cubanas: Bola de Nieve",
-        "url": "https://open.spotify.com/album/4qxgH4FU5jSUgiUP2N2pPI"
-      },
-      "artists": [
-        {
-          "name": "Bola De Nieve",
-          "url": "https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ"
-        }
-      ],
-      "duration_ms": 145635,
-      "name": "Ay Amor (Bolero)",
-      "url": "https://open.spotify.com/track/2Ab3yxKUk8SCdIbb2jLh94"
-    },
-    {
-      "added_at": "2021-12-26 12:28:38",
-      "album": {
         "name": "The Golden Record Vol. 2",
         "url": "https://open.spotify.com/album/7yNwQGXtWVHxTqdXFf8eLf"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 188773,
       "name": "En Mi Viejo San Juan",
       "url": "https://open.spotify.com/track/60fBitJmPKw266klMQ9hvm"
+    },
+    {
+      "added_at": "2021-12-26 12:28:38",
+      "album": {
+        "name": "Perlas Cubanas: Bola de Nieve",
+        "url": "https://open.spotify.com/album/4qxgH4FU5jSUgiUP2N2pPI"
+      },
+      "artists": [
+        {
+          "name": "Bola De Nieve",
+          "url": "https://open.spotify.com/artist/1pmg82OsemYIXnWLWxEmiZ"
+        }
+      ],
+      "duration_ms": 145635,
+      "name": "Ay Amor (Bolero)",
+      "url": "https://open.spotify.com/track/2Ab3yxKUk8SCdIbb2jLh94"
     },
     {
       "added_at": "2021-12-26 12:28:38",

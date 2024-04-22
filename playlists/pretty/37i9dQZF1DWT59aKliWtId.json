@@ -1,6 +1,6 @@
 {
   "description": "a high-quality alternative blend ft. Marcus King",
-  "num_followers": 104041,
+  "num_followers": 104057,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
@@ -371,26 +371,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 169467,
-      "name": "Spotless (feat. The Lumineers)",
-      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Northern Attitude (with Hozier)",
         "url": "https://open.spotify.com/album/5yWshZTxFD4N2clZjUBGOH"
       },
@@ -407,6 +387,26 @@
       "duration_ms": 267256,
       "name": "Northern Attitude (with Hozier)",
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 169467,
+      "name": "Spotless (feat. The Lumineers)",
+      "url": "https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Atomic City",
         "url": "https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 210842,
       "name": "Atomic City",
       "url": "https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Missing Out",
+        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+      },
+      "artists": [
+        {
+          "name": "Maya Hawke",
+          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+        }
+      ],
+      "duration_ms": 217320,
+      "name": "Missing Out",
+      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "All in Good Time",
         "url": "https://open.spotify.com/album/6kVfufglPPPTLPWQkvHPaR"
       },
@@ -755,18 +771,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Missing Out",
-        "url": "https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH"
+        "name": "Modern Girl",
+        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
       },
       "artists": [
         {
-          "name": "Maya Hawke",
-          "url": "https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x"
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
         }
       ],
-      "duration_ms": 217320,
-      "name": "Missing Out",
-      "url": "https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD"
+      "duration_ms": 223100,
+      "name": "Modern Girl",
+      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -803,22 +819,6 @@
       "duration_ms": 210493,
       "name": "Docket (feat. Bully)",
       "url": "https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Modern Girl",
-        "url": "https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2"
-      },
-      "artists": [
-        {
-          "name": "Bleachers",
-          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
-        }
-      ],
-      "duration_ms": 223100,
-      "name": "Modern Girl",
-      "url": "https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1227,26 +1227,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Digging In The Dirt",
-        "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
-      },
-      "artists": [
-        {
-          "name": "Sheryl Crow",
-          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
-        },
-        {
-          "name": "Peter Gabriel",
-          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
-        }
-      ],
-      "duration_ms": 324436,
-      "name": "Digging In The Dirt",
-      "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Be Yourself (feat. The War and Treaty)",
         "url": "https://open.spotify.com/album/0quN4o0L4LkoGu0hKedFgO"
       },
@@ -1267,6 +1247,26 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Digging In The Dirt",
+        "url": "https://open.spotify.com/album/07Qcp9zO5cCKShwTlxNaUL"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        },
+        {
+          "name": "Peter Gabriel",
+          "url": "https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I"
+        }
+      ],
+      "duration_ms": 324436,
+      "name": "Digging In The Dirt",
+      "url": "https://open.spotify.com/track/6pO1Jy5E3tqsjidJooNP9e"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Run Away With Me",
         "url": "https://open.spotify.com/album/17HtJeuxy9kO8agW21ua9I"
       },
@@ -1279,22 +1279,6 @@
       "duration_ms": 192654,
       "name": "Run Away With Me",
       "url": "https://open.spotify.com/track/2DUt3aAwcVeeHwcQPjFqLH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 214282,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1319,18 +1303,18 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+        "name": "Skin",
+        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
       },
       "artists": [
         {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
         }
       ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+      "duration_ms": 214282,
+      "name": "Skin",
+      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1347,6 +1331,22 @@
       "duration_ms": 310300,
       "name": "Pretty Vicious",
       "url": "https://open.spotify.com/track/0qIOCd5RPUKObKu9FTWRaz"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Impossible House",
-        "url": "https://open.spotify.com/album/09VXDO9xysL9cjYqrYfC7L"
-      },
-      "artists": [
-        {
-          "name": "Phosphorescent",
-          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
-        }
-      ],
-      "duration_ms": 275614,
-      "name": "Impossible House",
-      "url": "https://open.spotify.com/track/2ADRkMvfIrX8ZJq49SaK8g"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/3xGVAgbCAxl2c40vRVRjoe"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 232133,
       "name": "Alive!",
       "url": "https://open.spotify.com/track/4Yf2S4ArywzowFQZmesSI9"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Impossible House",
+        "url": "https://open.spotify.com/album/09VXDO9xysL9cjYqrYfC7L"
+      },
+      "artists": [
+        {
+          "name": "Phosphorescent",
+          "url": "https://open.spotify.com/artist/57kIMCLPgkzQlXjblX7XXP"
+        }
+      ],
+      "duration_ms": 275614,
+      "name": "Impossible House",
+      "url": "https://open.spotify.com/track/2ADRkMvfIrX8ZJq49SaK8g"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "All My Friends",
-        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 197465,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Cowboy Tumbleweed",
         "url": "https://open.spotify.com/album/3lJcMnimBy6eAJgdL4V55R"
       },
@@ -1883,6 +1867,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/52sZ3HakMMdOXPt8A2ZLM8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 197465,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7mfTeRK4k18u5IZ9Th4CrH"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Tiny Garden",
         "url": "https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke"
       },
@@ -1903,22 +1903,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Impressively Average",
-        "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Calls Me Baby",
-          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
-        }
-      ],
-      "duration_ms": 200536,
-      "name": "Eddie My Love",
-      "url": "https://open.spotify.com/track/1e30gnAROOzY0jvOlQT8bL"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "BOOTCUT",
         "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
       },
@@ -1931,6 +1915,22 @@
       "duration_ms": 329437,
       "name": "I'm Still",
       "url": "https://open.spotify.com/track/33sIw5cjj9j64VaDE2hFQD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Impressively Average",
+        "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Calls Me Baby",
+          "url": "https://open.spotify.com/artist/3sB1RV3IE5yCyMbl01FzBN"
+        }
+      ],
+      "duration_ms": 200536,
+      "name": "Eddie My Love",
+      "url": "https://open.spotify.com/track/1e30gnAROOzY0jvOlQT8bL"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1999,22 +1999,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Stranger",
-        "url": "https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA"
-      },
-      "artists": [
-        {
-          "name": "Willow Avalon",
-          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
-        }
-      ],
-      "duration_ms": 234288,
-      "name": "Stranger",
-      "url": "https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Cuero Dudes / Beauty Opens Doors",
         "url": "https://open.spotify.com/album/08zvbZIUq3mHkIF7uDVgVr"
       },
@@ -2027,6 +2011,22 @@
       "duration_ms": 298921,
       "name": "Cuero Dudes",
       "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Stranger",
+        "url": "https://open.spotify.com/album/4I3hBaNXrp7V0Fzx9KE8iA"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "duration_ms": 234288,
+      "name": "Stranger",
+      "url": "https://open.spotify.com/track/6zQjpTXDwTr0otUzBFqdPo"
     },
     {
       "added_at": "2024-04-05 04:00:00",

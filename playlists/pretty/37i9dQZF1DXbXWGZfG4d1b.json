@@ -1,6 +1,6 @@
 {
   "description": "Rock independiente, pop alternativo y golden hour.",
-  "num_followers": 22193,
+  "num_followers": 22202,
   "original_name": "6PM Indie",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "La concentraci\u00f3n",
+        "url": "https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX"
+      },
+      "artists": [
+        {
+          "name": "El Plan De La Mariposa",
+          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
+        }
+      ],
+      "duration_ms": 249444,
+      "name": "La concentraci\u00f3n",
+      "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "Barato Ideal",
         "url": "https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg"
       },
@@ -251,22 +267,6 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "La concentraci\u00f3n",
-        "url": "https://open.spotify.com/album/6bbUZ2qsqrYUZT3lJh5xVX"
-      },
-      "artists": [
-        {
-          "name": "El Plan De La Mariposa",
-          "url": "https://open.spotify.com/artist/3LY3yBRRL9yxCZxaxkdUir"
-        }
-      ],
-      "duration_ms": 249444,
-      "name": "La concentraci\u00f3n",
-      "url": "https://open.spotify.com/track/2QGFVU0pCEBT2DKXcUzARu"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
         "name": "Las Flores Sangran",
         "url": "https://open.spotify.com/album/5qUgzq7T3JlqS8EStNt6GV"
       },
@@ -335,22 +335,6 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Arariyo",
-        "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
-      },
-      "artists": [
-        {
-          "name": "Et\u00e9 y Los Problems",
-          "url": "https://open.spotify.com/artist/7zM4bBkY1KMOzi0BK2rzff"
-        }
-      ],
-      "duration_ms": 270007,
-      "name": "Arariyo",
-      "url": "https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
         "name": "La Dinast\u00eda Scorpio",
         "url": "https://open.spotify.com/album/33szFJNdxgVGQa518rOohL"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 253520,
       "name": "M\u00e1s o Menos Bien",
       "url": "https://open.spotify.com/track/3qItYNPhAFxQp4QLN1pikP"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "Arariyo",
+        "url": "https://open.spotify.com/album/6r3fduiWdDrWIvjdpewheP"
+      },
+      "artists": [
+        {
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
+        }
+      ],
+      "duration_ms": 270007,
+      "name": "Arariyo",
+      "url": "https://open.spotify.com/track/14WX41twek7T3yKsLUA6JN"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -504,8 +504,8 @@
       },
       "artists": [
         {
-          "name": "Et\u00e9 y Los Problems",
-          "url": "https://open.spotify.com/artist/7zM4bBkY1KMOzi0BK2rzff"
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
         }
       ],
       "duration_ms": 221843,
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Romance Con la Luna",
-        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
-      },
-      "artists": [
-        {
-          "name": "Delfina Campos",
-          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
-        }
-      ],
-      "duration_ms": 171882,
-      "name": "Romance Con la Luna",
-      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
         "name": "Lago Eterno",
         "url": "https://open.spotify.com/album/4QE8gwER0QUeNM7ydyiLwC"
       },
@@ -1099,6 +1083,38 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "Romance Con la Luna",
+        "url": "https://open.spotify.com/album/035K8wr5lzZSvkYIUfb781"
+      },
+      "artists": [
+        {
+          "name": "Delfina Campos",
+          "url": "https://open.spotify.com/artist/4d0lC4AT0DwcybhN6SSB0G"
+        }
+      ],
+      "duration_ms": 171882,
+      "name": "Romance Con la Luna",
+      "url": "https://open.spotify.com/track/5cTIKVnQPW1qW7LioXEilJ"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "La Cena",
+        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+      },
+      "artists": [
+        {
+          "name": "Marilina Bertoldi",
+          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+        }
+      ],
+      "duration_ms": 166500,
+      "name": "La Cena",
+      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "mutar la piel",
         "url": "https://open.spotify.com/album/3FpUrtVBDvGQKwzvFqOkMd"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "La Cena",
-        "url": "https://open.spotify.com/album/73HZ1dIoza9ZPuvUUxchaS"
+        "name": "EN EL CIELO",
+        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
       },
       "artists": [
         {
-          "name": "Marilina Bertoldi",
-          "url": "https://open.spotify.com/artist/1nm9PdmvzPXJmIlMOk5XLy"
+          "name": "Juan Lopez",
+          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
         }
       ],
-      "duration_ms": 166500,
-      "name": "La Cena",
-      "url": "https://open.spotify.com/track/3DcxQ89yroyWPYbxgbllCI"
+      "duration_ms": 161604,
+      "name": "TIEMPO PERFECTO",
+      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1163,18 +1179,18 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "EN EL CIELO",
-        "url": "https://open.spotify.com/album/4rirmULdcVYZ0k6xpsDXDc"
+        "name": "Lo Que Queda",
+        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
       },
       "artists": [
         {
-          "name": "Juan Lopez",
-          "url": "https://open.spotify.com/artist/2qNWn8KXd9mEEEGIxlDiuT"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 161604,
-      "name": "TIEMPO PERFECTO",
-      "url": "https://open.spotify.com/track/4WsMd2FeCYXI9NycBNbcrh"
+      "duration_ms": 224737,
+      "name": "Lo Que Queda",
+      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1211,18 +1227,18 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Lo Que Queda",
-        "url": "https://open.spotify.com/album/1DZPwyCDVejGNFJt3EW1W4"
+        "name": "Distintas Frecuencias",
+        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Fantasmagoria",
+          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
         }
       ],
-      "duration_ms": 224737,
-      "name": "Lo Que Queda",
-      "url": "https://open.spotify.com/track/08P7zJowfvm0lI63b7xkUO"
+      "duration_ms": 242547,
+      "name": "Distintas Frecuencias",
+      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1239,22 +1255,6 @@
       "duration_ms": 221516,
       "name": "Nadie va a decidir por vos",
       "url": "https://open.spotify.com/track/3pQeLODdZQBI4f8DTiDlLs"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Entre L\u00edneas",
-        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
-      },
-      "artists": [
-        {
-          "name": "Cerro Dubl\u00edn",
-          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Entre L\u00edneas",
-      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Distintas Frecuencias",
-        "url": "https://open.spotify.com/album/4t6JL7GsAjzeURvUwA5rJs"
+        "name": "Entre L\u00edneas",
+        "url": "https://open.spotify.com/album/1bABFsJ5fcgwxnaimzmJxe"
       },
       "artists": [
         {
-          "name": "Fantasmagoria",
-          "url": "https://open.spotify.com/artist/59zFIrLQf6ht2Edo0BarLn"
+          "name": "Cerro Dubl\u00edn",
+          "url": "https://open.spotify.com/artist/1ZOH6fmb1eW0dHZgLCGui7"
         }
       ],
-      "duration_ms": 242547,
-      "name": "Distintas Frecuencias",
-      "url": "https://open.spotify.com/track/3o90wagp7oiSUjeHcJEoAV"
+      "duration_ms": 196173,
+      "name": "Entre L\u00edneas",
+      "url": "https://open.spotify.com/track/3jPgaRBb1VXKr3nt4pLvFp"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "Razon",
+        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
+      },
+      "artists": [
+        {
+          "name": "Francisco Bochat\u00f3n",
+          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
+        }
+      ],
+      "duration_ms": 179658,
+      "name": "Raz\u00f3n",
+      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "Curriculum Completo",
         "url": "https://open.spotify.com/album/5k20Vj3lG8aoiFjkuX8NiC"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 145401,
       "name": "Curriculum Completo",
       "url": "https://open.spotify.com/track/2hsCy9vR1eAswd4Iuo7qAy"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Razon",
-        "url": "https://open.spotify.com/album/4h9tNVsb4NVkuwlyXODjFa"
-      },
-      "artists": [
-        {
-          "name": "Francisco Bochat\u00f3n",
-          "url": "https://open.spotify.com/artist/74rb5haBUzWWe7v8MQbZwS"
-        }
-      ],
-      "duration_ms": 179658,
-      "name": "Raz\u00f3n",
-      "url": "https://open.spotify.com/track/2HJTLma7NZUMF6gNHRDims"
     },
     {
       "added_at": "2024-04-11 16:43:29",
@@ -1463,38 +1463,6 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
-        "name": "Yoni Yonki",
-        "url": "https://open.spotify.com/album/22aeIVwNKsUuEcMm1Fnf4C"
-      },
-      "artists": [
-        {
-          "name": "Yoni Yonki",
-          "url": "https://open.spotify.com/artist/5VzE7gAS6VyRyvThR3lXbv"
-        }
-      ],
-      "duration_ms": 176062,
-      "name": "Lo Haces Bien",
-      "url": "https://open.spotify.com/track/2NT4AtSmyxZZloogGMA0xg"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
-        "name": "Psicodelia arbolera",
-        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
-      },
-      "artists": [
-        {
-          "name": "\u00c1rbol",
-          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
-        }
-      ],
-      "duration_ms": 248808,
-      "name": "Psicodelia arbolera",
-      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
-    },
-    {
-      "added_at": "2024-04-11 16:43:29",
-      "album": {
         "name": "LA ARA\u00d1A",
         "url": "https://open.spotify.com/album/3StTP7lHsMyNlt092aOsCl"
       },
@@ -1511,6 +1479,22 @@
     {
       "added_at": "2024-04-11 16:43:29",
       "album": {
+        "name": "Yoni Yonki",
+        "url": "https://open.spotify.com/album/22aeIVwNKsUuEcMm1Fnf4C"
+      },
+      "artists": [
+        {
+          "name": "Yoni Yonki",
+          "url": "https://open.spotify.com/artist/5VzE7gAS6VyRyvThR3lXbv"
+        }
+      ],
+      "duration_ms": 176062,
+      "name": "Lo Haces Bien",
+      "url": "https://open.spotify.com/track/2NT4AtSmyxZZloogGMA0xg"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
         "name": "Ceremonia",
         "url": "https://open.spotify.com/album/516TbYe7ZRYOyFxkhTnq1J"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 194937,
       "name": "Ceremonia",
       "url": "https://open.spotify.com/track/5YnCVGrhkkCjh23v2c8Bld"
+    },
+    {
+      "added_at": "2024-04-11 16:43:29",
+      "album": {
+        "name": "Psicodelia arbolera",
+        "url": "https://open.spotify.com/album/2JDPqOcPBNk2Y3lfTqLu9k"
+      },
+      "artists": [
+        {
+          "name": "\u00c1rbol",
+          "url": "https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT"
+        }
+      ],
+      "duration_ms": 248808,
+      "name": "Psicodelia arbolera",
+      "url": "https://open.spotify.com/track/1rAbshnvEsArNPwW4vUR1L"
     },
     {
       "added_at": "2024-04-11 16:43:29",

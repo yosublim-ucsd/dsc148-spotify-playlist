@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-132 songs - 8 hr 0 min
+133 songs - 8 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Pink Shades](https://open.spotify.com/track/6kDcrYQImUgkezQXuAQUqF) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/7td13U2cAaFTV5TWMtgfwv) | 3:30 | 2023-08-31 |  |
 | [Priest From Terre Haute](https://open.spotify.com/track/41AdctlVIX5Jmkbe3r5rSt) | [Marcos Cabanas](https://open.spotify.com/artist/4JBxhCOOXTqL70LD3wx402) | [Priest From Terre Haute](https://open.spotify.com/album/2g30G0QERaeiqhkeyr0oxH) | 11:43 | 2023-06-15 | 2023-10-21 |
 | [Quittin' Time](https://open.spotify.com/track/50Emgupm363qIrYBe20FR3) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:40 | 2023-02-23 |  |
-| [Rainbow](https://open.spotify.com/track/2oD1II7gCnddoq5uj9KNhJ) | [Lukas Batteau](https://open.spotify.com/artist/4wNihh6y03PHRnn0dN8fx8) | [While I Was Sleeping](https://open.spotify.com/album/0CFLU2Md6nF2Rn1LMu8bQA) | 4:15 | 2024-04-18 |  |
+| [Rainbow](https://open.spotify.com/track/2oD1II7gCnddoq5uj9KNhJ) | [Lukas Batteau](https://open.spotify.com/artist/4wNihh6y03PHRnn0dN8fx8) | [While I Was Sleeping](https://open.spotify.com/album/0CFLU2Md6nF2Rn1LMu8bQA) | 4:15 | 2024-04-18 | 2024-04-22 |
 | [Rollin' with the Punches](https://open.spotify.com/track/0n3dt5BM0wJm6kLvUfB7hK) | [Voltage](https://open.spotify.com/artist/5ipXUWgnE57t4sz9mfPRW1) | [Rollin' with the Punches](https://open.spotify.com/album/5VLNC9q4WqKqG3tOQsPKEw) | 4:13 | 2023-04-27 |  |
 | [Russell County Line](https://open.spotify.com/track/4xxadE0DSjELkTXjRjwOcB) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Russell County Line](https://open.spotify.com/album/7oKoqz8mBYP0HNsNJ0fW4h) | 4:09 | 2023-02-23 |  |
 | [Russell County Line](https://open.spotify.com/track/7JQavxjJS7gEB6oxhhGyJj) | [49 Winchester](https://open.spotify.com/artist/1JWMpIl0nhqFJNdO3IOQ20) | [Fortune Favors the Bold](https://open.spotify.com/album/0AAW8aytDh2xZiNUbaMySW) | 4:09 | 2024-04-11 | 2024-04-19 |
@@ -129,6 +129,7 @@
 | [Too Close](https://open.spotify.com/track/2uv1HWIbwXRhnSB4O2677y) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Too Close](https://open.spotify.com/album/3262qPeujrLgKfe56wYFCO) | 3:28 | 2023-02-23 |  |
 | [Too Much Of A Woman](https://open.spotify.com/track/1kZno76kl0lVWni9SlncvW) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Too Much Of A Woman](https://open.spotify.com/album/2bT1OG1ABW8NzsFfoyhu0d) | 3:13 | 2023-07-06 |  |
 | [Tower Of Song](https://open.spotify.com/track/2HHXqnrD7PaUIUSj9lz3xK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Beautiful Time](https://open.spotify.com/album/7oPKRoThZFX1xQ7X05cfFG) | 4:59 | 2023-02-23 | 2024-04-19 |
+| [Trouble \(Sunday Version\)](https://open.spotify.com/track/3ePUzOCiAf8o8q34KZA6tN) | [Miko Marks](https://open.spotify.com/artist/2pkqyjrPhrzJcdhwN80kAs), [The Resurrectors](https://open.spotify.com/artist/6JClEpHPvEsfw4Ke5VhbX5), [Mark Lettieri](https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP) | [Feel Like Going Home \(Deluxe Version\)](https://open.spotify.com/album/5dWdL988AdroD2DvuJ3wjw) | 3:05 | 2024-04-18 |  |
 | [Underneath This Skin](https://open.spotify.com/track/0aobMBLmusskREM8uF8UMB) | [Pieternel](https://open.spotify.com/artist/5JzvmJdkliw2nERmKleDuS) | [Underneath This Skin](https://open.spotify.com/album/0VUhmsdVl0KYWCYcRVe2Ox) | 3:41 | 2023-04-27 | 2023-06-28 |
 | [Use Me](https://open.spotify.com/track/6dqJ50r54N2CrddT8XEtgc) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Use Me](https://open.spotify.com/album/6MCzIFRAFlSQeXn7JrhXI0) | 4:05 | 2023-02-23 |  |
 | [What Am I Gonna Do](https://open.spotify.com/track/4DYVmGdpglpFoq1YyawFCl) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Higher](https://open.spotify.com/album/6kcZ35GY84A3FBIcIKVqTW) | 3:01 | 2023-11-09 |  |

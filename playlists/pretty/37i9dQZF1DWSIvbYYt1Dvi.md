@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIvbYYt1Dvi.md) - [plain]
 
 > felp é AULAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,197,993 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,196,968 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Santa Marta](https://open.spotify.com/track/6HBtSG8TrRPPYJnSuZhFdd) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 3:18 |
+| 1 | [Santa Marta](https://open.spotify.com/track/6HBtSG8TrRPPYJnSuZhFdd) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC), [SkinnyBeats](https://open.spotify.com/artist/7Jv5LSH4YmJ3SzfMjr1vZS) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 3:18 |
 | 2 | [Férias da Metrópole](https://open.spotify.com/track/1Yh1BIQoPyH63SUxTGWs6U) | [MC Marks](https://open.spotify.com/artist/04QHNiih9ZesPvals6II1h), [Murillo e LT no Beat](https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6), [Duani](https://open.spotify.com/artist/7kfnPmwhVUGVTbp4IEiHxZ) | [Férias da Metrópole](https://open.spotify.com/album/2zrVQ7cEqAMquEsilCU0U7) | 3:01 |
 | 3 | [Amanhecer](https://open.spotify.com/track/2RUTvhNHo2DEECnumWFG0o) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Nansy Silvvz](https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s), [Gigantes](https://open.spotify.com/artist/6IRQqK4ODeABKC4kLRoiHe) | [ICARUS](https://open.spotify.com/album/4YxPiDQY2qbVb0tJHEhAxS) | 3:31 |
 | 4 | [No Brooklin \- Sabotage 50](https://open.spotify.com/track/7qe83eUTv4IbvMYCYCOAbu) | [Sabotage](https://open.spotify.com/artist/5deK5HnwbEKvge2svL0i0B), [Bivolt](https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ), [Xis](https://open.spotify.com/artist/1y8yhK12XTLCbWDs4aLgc1), [Nave](https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J) | [Sabotage 50](https://open.spotify.com/album/6Y71epbFxkDeFtReHp2inZ) | 3:42 |

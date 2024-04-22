@@ -1,6 +1,6 @@
 {
   "description": "La m\u00fasica que enciende las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia.",
-  "num_followers": 124914,
+  "num_followers": 124850,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Rep\u00edtela",
+        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "duration_ms": 209075,
+      "name": "Rep\u00edtela",
+      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Grandes Exitos",
         "url": "https://open.spotify.com/album/7jOSnwx4l31yUCmcE3qElN"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 189954,
       "name": "Oye",
       "url": "https://open.spotify.com/track/11r0RQ89XTJOkbZCnFYdqG"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Rep\u00edtela",
-        "url": "https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29"
-      },
-      "artists": [
-        {
-          "name": "Jessi Uribe",
-          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
-        }
-      ],
-      "duration_ms": 209075,
-      "name": "Rep\u00edtela",
-      "url": "https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -303,6 +303,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "La Orquesta Que Impone El Ritmo",
+        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
+      },
+      "artists": [
+        {
+          "name": "Los Mel\u00f3dicos",
+          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
+        }
+      ],
+      "duration_ms": 248480,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "El Pich\u00f3n",
         "url": "https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 191400,
       "name": "El Pich\u00f3n",
       "url": "https://open.spotify.com/track/1UcmXqYYHTe3qvYaisKwsc"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "La Orquesta Que Impone El Ritmo",
-        "url": "https://open.spotify.com/album/5q6hd4CqyZ1sgdZfPmB4G1"
-      },
-      "artists": [
-        {
-          "name": "Los Mel\u00f3dicos",
-          "url": "https://open.spotify.com/artist/4LdArZAC1QPQdyz8JNOYVW"
-        }
-      ],
-      "duration_ms": 248480,
-      "name": "Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6l0xwRuI7LrQ7xfBx4YLwi"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -411,6 +411,38 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Y Como Se Mata El Gusano?",
+        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
+      },
+      "artists": [
+        {
+          "name": "Miguel Moly",
+          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Junto A Tu Corazon",
+      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Inmortal (Vol. 2)",
         "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
       },
@@ -443,38 +475,6 @@
       "duration_ms": 243840,
       "name": "Ay Amor",
       "url": "https://open.spotify.com/track/3IIcfSqWExqdjypo8HlMq8"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Y Como Se Mata El Gusano?",
-        "url": "https://open.spotify.com/album/4XYaFGWLlnQoOsUanKU4NK"
-      },
-      "artists": [
-        {
-          "name": "Miguel Moly",
-          "url": "https://open.spotify.com/artist/597Qn1wBw1ZwHNIzeRxOm8"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Junto A Tu Corazon",
-      "url": "https://open.spotify.com/track/0weoBV2J1VVaNrjD8h4bLx"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -615,6 +615,26 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Muy Tropical y Bailable",
+        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 220354,
+      "name": "Ojitos Hechiceros",
+      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Navidades Con la Sonora Dinamita: 16 Grandes \u00c9xitos Navide\u00f1os",
         "url": "https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE"
       },
@@ -663,26 +683,6 @@
       "duration_ms": 364617,
       "name": "Guayacan Pasodobles: Espa\u00f1a Ca\u00f1i / Ni Se Compra Ni Se Vende / Feria de Manizales / Silverio / Te Quiero Porque Te Quiero",
       "url": "https://open.spotify.com/track/3JgqWRxoH1UdjIzTAlSU1q"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Muy Tropical y Bailable",
-        "url": "https://open.spotify.com/album/4FTPpblS9F4DOT7o46A9cU"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 220354,
-      "name": "Ojitos Hechiceros",
-      "url": "https://open.spotify.com/track/6ACbgxx9BXs64G1aWVXJOV"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -759,6 +759,26 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Una Leyenda: Rodolfo Aicardi (Exitos)",
+        "url": "https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 219079,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/5xGaRpF4e5WN4FEjM1cUgz"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Las Que Faltaban",
         "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
@@ -779,22 +799,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
-        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 157866,
-      "name": "Se Me Perdio La Cadenita",
-      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
         "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
       },
@@ -807,6 +811,22 @@
       "duration_ms": 305950,
       "name": "La Due\u00f1a de Mi Suerte",
       "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "Narcos, Vol. 2 (More Music from the Netflix Original Series)",
+        "url": "https://open.spotify.com/album/0EJRlYjvVcym9K4wrww9vB"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        }
+      ],
+      "duration_ms": 157866,
+      "name": "Se Me Perdio La Cadenita",
+      "url": "https://open.spotify.com/track/0vtaaIAwWzIQgdSMG59KGx"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -827,8 +847,8 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Una Leyenda: Rodolfo Aicardi (Exitos)",
-        "url": "https://open.spotify.com/album/2pGgv9foPyYI6IqX1IhhKn"
+        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
+        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
       },
       "artists": [
         {
@@ -836,13 +856,13 @@
           "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
         },
         {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+          "name": "Los Hispanos",
+          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
         }
       ],
-      "duration_ms": 219079,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/5xGaRpF4e5WN4FEjM1cUgz"
+      "duration_ms": 198053,
+      "name": "Daniela",
+      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -883,6 +903,22 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Sus M\u00e1s Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
+      },
+      "artists": [
+        {
+          "name": "Pastor Lopez",
+          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
+        }
+      ],
+      "duration_ms": 205893,
+      "name": "Traicionera - Digitally Remastered Original",
+      "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "\u00c9xitos Armando Hern\u00e1ndez",
         "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
       },
@@ -919,42 +955,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Sus M\u00e1s Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd"
-      },
-      "artists": [
-        {
-          "name": "Pastor Lopez",
-          "url": "https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE"
-        }
-      ],
-      "duration_ms": 205893,
-      "name": "Traicionera - Digitally Remastered Original",
-      "url": "https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "Historia Musical de Rodolfo Con los Hispanos: 40 \u00c9xitos Inolvidables",
-        "url": "https://open.spotify.com/album/4iAoJku3znCzfRb0yEGp7y"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "Los Hispanos",
-          "url": "https://open.spotify.com/artist/6zk8WqI12buD0B67tteQ5h"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Daniela",
-      "url": "https://open.spotify.com/track/4Jz3mGW1jn8tjBgx42iEuF"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "\u00c9xitos los Tupamaros",
         "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
@@ -975,6 +975,26 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
+        "name": "Rescatando los \u00c9xitos Originales de Long Play",
+        "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
+      },
+      "artists": [
+        {
+          "name": "Rodolfo Aicardi",
+          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
+        },
+        {
+          "name": "La Tipica Ra7",
+          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
+        }
+      ],
+      "duration_ms": 207566,
+      "name": "Plegaria",
+      "url": "https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
         "name": "Mano A Mano",
         "url": "https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr"
       },
@@ -987,22 +1007,6 @@
       "duration_ms": 121893,
       "name": "Apagame La Vela",
       "url": "https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "El Mujeriego",
-        "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
-      },
-      "artists": [
-        {
-          "name": "Jhonny Rivera",
-          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
-        }
-      ],
-      "duration_ms": 181269,
-      "name": "El Mujeriego",
-      "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1023,6 +1027,22 @@
       "duration_ms": 176273,
       "name": "La Paloma Guarumera",
       "url": "https://open.spotify.com/track/16bOQUi9cs6bb08VWDoH7U"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "El Mujeriego",
+        "url": "https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rivera",
+          "url": "https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx"
+        }
+      ],
+      "duration_ms": 181269,
+      "name": "El Mujeriego",
+      "url": "https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2023-12-20 18:46:33",
       "album": {
-        "name": "Rescatando los \u00c9xitos Originales de Long Play",
-        "url": "https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51"
-      },
-      "artists": [
-        {
-          "name": "Rodolfo Aicardi",
-          "url": "https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414"
-        },
-        {
-          "name": "La Tipica Ra7",
-          "url": "https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG"
-        }
-      ],
-      "duration_ms": 207566,
-      "name": "Plegaria",
-      "url": "https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
         "name": "Pasado y Presente: 14 A\u00f1os de \u00c9xitos",
         "url": "https://open.spotify.com/album/2sFskvgiMamk6Uhgowq12F"
       },
@@ -1103,22 +1103,6 @@
       "duration_ms": 162298,
       "name": "El Ron de Vinola",
       "url": "https://open.spotify.com/track/0kyzl82KTVUF6WHpCQ0GpI"
-    },
-    {
-      "added_at": "2023-12-20 18:46:33",
-      "album": {
-        "name": "\u00cddolo del Pueblo",
-        "url": "https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE"
-      },
-      "artists": [
-        {
-          "name": "Alci Acosta",
-          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
-        }
-      ],
-      "duration_ms": 154346,
-      "name": "La \u00daltima Copa",
-      "url": "https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV"
     },
     {
       "added_at": "2023-12-20 18:46:33",
@@ -1139,6 +1123,22 @@
       "duration_ms": 200033,
       "name": "La Cinta Verde",
       "url": "https://open.spotify.com/track/6HX5qNv8VDWdm9YaYZKImS"
+    },
+    {
+      "added_at": "2023-12-20 18:46:33",
+      "album": {
+        "name": "\u00cddolo del Pueblo",
+        "url": "https://open.spotify.com/album/6ig8xziD88iwcXRZjrWJtE"
+      },
+      "artists": [
+        {
+          "name": "Alci Acosta",
+          "url": "https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK"
+        }
+      ],
+      "duration_ms": 154346,
+      "name": "La \u00daltima Copa",
+      "url": "https://open.spotify.com/track/4KvDehYUsEFeQLM4CmBTNV"
     },
     {
       "added_at": "2023-12-20 18:46:33",

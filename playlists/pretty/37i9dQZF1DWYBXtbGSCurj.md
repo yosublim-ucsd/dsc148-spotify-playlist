@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: WIU, Teto
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,340 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 382,955 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 20 | [Caranguejo do Trap](https://open.spotify.com/track/3ZWBnOnNIhZnvBD2slFm1V) | [Mago de Tarso](https://open.spotify.com/artist/496KV2f0kNcIdXGe1i0Fh4), [Prodbythb](https://open.spotify.com/artist/75lGZXVl7cDhLGCYJBw5ae), [WR No Beat](https://open.spotify.com/artist/4D1GYBX7yrYgjGrTcCa5zs) | [Caranguejo do Trap](https://open.spotify.com/album/2FcEqf4hGkHkJ1bV4toLXO) | 2:56 |
 | 21 | [Dono Do Morro](https://open.spotify.com/track/6FkrWmDwc4w3YwMG3tWYTh) | [Mc Luki](https://open.spotify.com/artist/3I44LJGCaI0gSPPz3n16xn), [Real Bege](https://open.spotify.com/artist/26L8m5uIaOJCe0RgMMX3RP) | [Dono Do Morro](https://open.spotify.com/album/1e2ZjrdomPu2tBGXVyT2K2) | 2:29 |
 | 22 | [Qual é seu desejo?](https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Qual é seu desejo?](https://open.spotify.com/album/5qNaCpWDBGkFQ4xfLs0TKs) | 2:33 |
-| 23 | [Das Esquinas ao Sucesso](https://open.spotify.com/track/4B0UfZP9tDHKtYWjNZKzVQ) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC), [JP Diazz](https://open.spotify.com/artist/344mmrwz81JfFfW9PLqZsd) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 2:44 |
+| 23 | [Das Esquinas ao Sucesso](https://open.spotify.com/track/4B0UfZP9tDHKtYWjNZKzVQ) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Castelobeats](https://open.spotify.com/artist/3no8LdgnzjumzHIyoZGWEC) | [Melhor Momento, Pt\. 2](https://open.spotify.com/album/619zQs32QIXwHb1Vt9pcYh) | 2:44 |
 | 24 | [Sexta Hoje é Aonde](https://open.spotify.com/track/4Wb7GrhDbaxh2RtuOUWQUT) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [JayA Luuck](https://open.spotify.com/artist/4oxFgud0qa3A1tE6JFpFVp) | [Sexta Hoje é Aonde](https://open.spotify.com/album/7wd8kuw1VcxkR7GwbA65nK) | 3:10 |
 | 25 | [Bagulho Doido \(Papatracks \#14\)](https://open.spotify.com/track/1PgRNBplB2HtcjqLEQoxae) | [Raflow](https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0), [Neo BXD](https://open.spotify.com/artist/6X3QhlzJhLlevlW8QsxC73), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [Bagulho Doido \(Papatracks \#14\)](https://open.spotify.com/album/0fDyobbQDSjItxCoOT5396) | 2:40 |
 | 26 | [Imperatriz](https://open.spotify.com/track/63Ky69ZZdFQUA68W1ctn3u) | [Kotim](https://open.spotify.com/artist/210Sy1oGhvPu929TKoSVcN), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Imperatriz](https://open.spotify.com/album/3QfpNn7I9zuzTN6OFPpDgP) | 3:02 |

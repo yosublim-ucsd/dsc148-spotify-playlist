@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 238492,
+  "num_followers": 238060,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -167,42 +167,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
-        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 140032,
-      "name": "El Dia Que Me Quieras",
-      "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Antologia Roberto Goyeneche",
-        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
-      },
-      "artists": [
-        {
-          "name": "Roberto Goyeneche",
-          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
-        },
-        {
-          "name": "Atilio Stampone y su Orquesta Tipica",
-          "url": "https://open.spotify.com/artist/7BaxhBweRJpcPzkowkOquu"
-        }
-      ],
-      "duration_ms": 168773,
-      "name": "Yira...Yira (with Atilio Stampone y su Orquesta Tipica)",
-      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Serie De Oro",
         "url": "https://open.spotify.com/album/7Id8NVwwWDmiRjPEoRDObj"
       },
@@ -219,38 +183,18 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "El Firulete",
-        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
+        "name": "Antolog\u00eda, Vol. 1: Gardel y Le Pera",
+        "url": "https://open.spotify.com/album/0nfXjFRLFngleV9mIkhEMQ"
       },
       "artists": [
         {
-          "name": "Julio Sosa",
-          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
-        },
-        {
-          "name": "Leopoldo Federico y su Orquesta",
-          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
         }
       ],
-      "duration_ms": 185626,
-      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
-      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Milonguera: Des femmes et du tango",
-        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Gardel",
-          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
-        }
-      ],
-      "duration_ms": 124146,
-      "name": "Chorra",
-      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
+      "duration_ms": 140032,
+      "name": "El Dia Que Me Quieras",
+      "url": "https://open.spotify.com/track/5dk0nQ1vHHMhQMb9ngbpRY"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -275,6 +219,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Milonguera: Des femmes et du tango",
+        "url": "https://open.spotify.com/album/37rcqU2wI70tmbQOQsmJlw"
+      },
+      "artists": [
+        {
+          "name": "Carlos Gardel",
+          "url": "https://open.spotify.com/artist/05Q9xndTxhXhD5trpmTtfU"
+        }
+      ],
+      "duration_ms": 124146,
+      "name": "Chorra",
+      "url": "https://open.spotify.com/track/1URyyv3KRVnqlVkQQi3OlQ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Ausencia",
         "url": "https://open.spotify.com/album/5FgdIk8Td9O66U74UF7slF"
       },
@@ -287,6 +247,46 @@
       "duration_ms": 166773,
       "name": "La Yumba - Instrumental",
       "url": "https://open.spotify.com/track/6B11DcP8lV8vq720QEfC9B"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Antologia Roberto Goyeneche",
+        "url": "https://open.spotify.com/album/6mkrR53e4FhE59s92qE0gX"
+      },
+      "artists": [
+        {
+          "name": "Roberto Goyeneche",
+          "url": "https://open.spotify.com/artist/3tkyefEX4NNjb0AILRLq2A"
+        },
+        {
+          "name": "Atilio Stampone y su Orquesta Tipica",
+          "url": "https://open.spotify.com/artist/7BaxhBweRJpcPzkowkOquu"
+        }
+      ],
+      "duration_ms": 168773,
+      "name": "Yira...Yira (with Atilio Stampone y su Orquesta Tipica)",
+      "url": "https://open.spotify.com/track/4OdgV0DhEd9gnXwQf4giSh"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "El Firulete",
+        "url": "https://open.spotify.com/album/3Gs3IScxQIDPlkUK2QibPV"
+      },
+      "artists": [
+        {
+          "name": "Julio Sosa",
+          "url": "https://open.spotify.com/artist/7Cg2eqV6oHNE0P54WfajIX"
+        },
+        {
+          "name": "Leopoldo Federico y su Orquesta",
+          "url": "https://open.spotify.com/artist/2QtuDqkuMbNQlmGgMbPBOA"
+        }
+      ],
+      "duration_ms": 185626,
+      "name": "El Ultimo Caf\u00e9 (with Leopoldo Federico y Su Orquesta)",
+      "url": "https://open.spotify.com/track/0c19zOgwp0OFKv7tlNYebl"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -319,6 +319,22 @@
       "duration_ms": 142133,
       "name": "Milonga de mis amores - Estilo Pedro Laurenz",
       "url": "https://open.spotify.com/track/15tGcGuT4MaynEctZBLaNK"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "From Argentina To The World",
+        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
+      },
+      "artists": [
+        {
+          "name": "Osvaldo Pugliese",
+          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
+        }
+      ],
+      "duration_ms": 213720,
+      "name": "Gallo Ciego - Instrumental",
+      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -383,22 +399,6 @@
       "duration_ms": 190573,
       "name": "Remolino",
       "url": "https://open.spotify.com/track/48OjE2RNkrqVOLhiWcWdny"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "From Argentina To The World",
-        "url": "https://open.spotify.com/album/0U52Cb4CVMYMZ4vWCXOd8G"
-      },
-      "artists": [
-        {
-          "name": "Osvaldo Pugliese",
-          "url": "https://open.spotify.com/artist/2HO9rAU2R7CRnmhx0ytN41"
-        }
-      ],
-      "duration_ms": 213720,
-      "name": "Gallo Ciego - Instrumental",
-      "url": "https://open.spotify.com/track/0fIgeZTUAs6FKTrBWJBJl5"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -619,22 +619,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
-        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
-      },
-      "artists": [
-        {
-          "name": "Angelito Martinez",
-          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
-        }
-      ],
-      "duration_ms": 133760,
-      "name": "Si Tu Quisieras",
-      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Tangos",
         "url": "https://open.spotify.com/album/4LwgNmDKop1Q5gWVBN4tow"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 191346,
       "name": "Ave de Paso",
       "url": "https://open.spotify.com/track/10vEz0V5deohU5dK0Lrh3W"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Antolog\u00eda, Vol. 3: Yuyo Verde",
+        "url": "https://open.spotify.com/album/7kuPFrlocZ0Rgw6gBujNeT"
+      },
+      "artists": [
+        {
+          "name": "Angelito Martinez",
+          "url": "https://open.spotify.com/artist/5g1vnuJPRdxecXJDxw1Gf2"
+        }
+      ],
+      "duration_ms": 133760,
+      "name": "Si Tu Quisieras",
+      "url": "https://open.spotify.com/track/627r41lcqFbypDLnKg9uuY"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -958,11 +958,15 @@
         {
           "name": "Chino Laborde",
           "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        },
+        {
+          "name": "Federico Mizrahi",
+          "url": "https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt"
         }
       ],
-      "duration_ms": 158487,
-      "name": "Desencuentro",
-      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
+      "duration_ms": 221500,
+      "name": "Tarde",
+      "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1019,26 +1023,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Mi Version de los Hechos",
-        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
-      },
-      "artists": [
-        {
-          "name": "Romina Balestrino",
-          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
-        },
-        {
-          "name": "Guillermo Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
-        }
-      ],
-      "duration_ms": 233732,
-      "name": "Cualquiera de Estas Noches",
-      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
         "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
@@ -1067,6 +1051,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Mi Version de los Hechos",
+        "url": "https://open.spotify.com/album/63wvYeS5fZLT9VahjapmHv"
+      },
+      "artists": [
+        {
+          "name": "Romina Balestrino",
+          "url": "https://open.spotify.com/artist/4mCEifV4uLTqfnI6gvZf9L"
+        },
+        {
+          "name": "Guillermo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/2zzYRIDKcVq20xeBefKO2J"
+        }
+      ],
+      "duration_ms": 233732,
+      "name": "Cualquiera de Estas Noches",
+      "url": "https://open.spotify.com/track/73AB5izFOtarOahEB7oHpJ"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Doce Milongas de Amor y un Tango Desesperado",
         "url": "https://open.spotify.com/album/4vwBzO3iFLn3JWTyW1lvy3"
       },
@@ -1083,46 +1087,6 @@
       "duration_ms": 190438,
       "name": "Barrio de Tango",
       "url": "https://open.spotify.com/track/5eCCfVLbsR9dX93NV4sw5j"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Tal vez ser\u00e0 su voz",
-        "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
-      },
-      "artists": [
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
-        },
-        {
-          "name": "Orquesta El Arranque",
-          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
-        }
-      ],
-      "duration_ms": 262706,
-      "name": "Tal vez sera su voz",
-      "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "El Tango",
-        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
-      },
-      "artists": [
-        {
-          "name": "Chino Laborde",
-          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
-        },
-        {
-          "name": "Federico Mizrahi",
-          "url": "https://open.spotify.com/artist/0RcujGrIDwI6n6f9PfWhFt"
-        }
-      ],
-      "duration_ms": 221500,
-      "name": "Tarde",
-      "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1155,6 +1119,42 @@
       "duration_ms": 253573,
       "name": "Todo Es Amor",
       "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Tal vez ser\u00e0 su voz",
+        "url": "https://open.spotify.com/album/38DLfwMW0mZdcUh1sr2eTG"
+      },
+      "artists": [
+        {
+          "name": "Lidia Borda",
+          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+        },
+        {
+          "name": "Orquesta El Arranque",
+          "url": "https://open.spotify.com/artist/5EsRO0Vumc48k4pMoC4MWV"
+        }
+      ],
+      "duration_ms": 262706,
+      "name": "Tal vez sera su voz",
+      "url": "https://open.spotify.com/track/72grNDm7LBvqrcrRkm33ix"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "El Tango",
+        "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
+      },
+      "artists": [
+        {
+          "name": "Chino Laborde",
+          "url": "https://open.spotify.com/artist/5OrKrSqxhTFrtScoJhqLrP"
+        }
+      ],
+      "duration_ms": 158487,
+      "name": "Desencuentro",
+      "url": "https://open.spotify.com/track/7hpCXzUdgp4I1aX45W7514"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
-        "name": "Gran Hotel Victoria",
-        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
-      },
-      "artists": [
-        {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
-        }
-      ],
-      "duration_ms": 171773,
-      "name": "Gran Hotel Victoria",
-      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
         "name": "Tango Cosmopolita (with Gran Orquesta T\u00edpica OTRA)",
         "url": "https://open.spotify.com/album/5p0dfS1qHHcNeqQ3vgHwu0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 230160,
       "name": "Mimi Pinson (with Gran Orquesta T\u00edpica OTRA)",
       "url": "https://open.spotify.com/track/0OEcBnaJWvbx804nDaufHp"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
+        "name": "Gran Hotel Victoria",
+        "url": "https://open.spotify.com/album/5MmEA4C0cMFqrjdXPDB0X9"
+      },
+      "artists": [
+        {
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+        }
+      ],
+      "duration_ms": 171773,
+      "name": "Gran Hotel Victoria",
+      "url": "https://open.spotify.com/track/1rxRxnOfJIVcXVG1TY0yhi"
     },
     {
       "added_at": "2023-12-01 03:00:00",
@@ -1335,6 +1335,26 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Intimos, Vol. 1 en vivo en Bebop",
+        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
+      },
+      "artists": [
+        {
+          "name": "Ariel Ardit",
+          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
+        },
+        {
+          "name": "Andr\u00e9s Linetzky",
+          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
+        }
+      ],
+      "duration_ms": 236708,
+      "name": "Quedemonos Aqui - En Vivo",
+      "url": "https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "El Nuevo Rumbo",
         "url": "https://open.spotify.com/album/0PNFCx0M4ol1VFWMOUuErM"
       },
@@ -1371,6 +1391,22 @@
     {
       "added_at": "2023-12-01 03:00:00",
       "album": {
+        "name": "Taller de Dibujo y Pintura",
+        "url": "https://open.spotify.com/album/2USsP36W62jZctEBMzkZn3"
+      },
+      "artists": [
+        {
+          "name": "Miguel L\u00f3pez",
+          "url": "https://open.spotify.com/artist/1EACpzKh8PIklpFGsoQOV9"
+        }
+      ],
+      "duration_ms": 130395,
+      "name": "Taller de Dibujo y Pintura",
+      "url": "https://open.spotify.com/track/1TIEQHGw4LqojU10bWujB4"
+    },
+    {
+      "added_at": "2023-12-01 03:00:00",
+      "album": {
         "name": "Luna de Abril",
         "url": "https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT"
       },
@@ -1391,42 +1427,6 @@
       "duration_ms": 227426,
       "name": "Luna de Abril",
       "url": "https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Intimos, Vol. 1 en vivo en Bebop",
-        "url": "https://open.spotify.com/album/4KEVZmkt2zitBzugvPR0mg"
-      },
-      "artists": [
-        {
-          "name": "Ariel Ardit",
-          "url": "https://open.spotify.com/artist/62WLKvGxUiIjMITbNetyR6"
-        },
-        {
-          "name": "Andr\u00e9s Linetzky",
-          "url": "https://open.spotify.com/artist/4KJdL42Z7VOZj01tWZCznH"
-        }
-      ],
-      "duration_ms": 236708,
-      "name": "Quedemonos Aqui - En Vivo",
-      "url": "https://open.spotify.com/track/6Y0EIzZmLz9zWQineeK6Kz"
-    },
-    {
-      "added_at": "2023-12-01 03:00:00",
-      "album": {
-        "name": "Taller de Dibujo y Pintura",
-        "url": "https://open.spotify.com/album/2USsP36W62jZctEBMzkZn3"
-      },
-      "artists": [
-        {
-          "name": "Miguel L\u00f3pez",
-          "url": "https://open.spotify.com/artist/1EACpzKh8PIklpFGsoQOV9"
-        }
-      ],
-      "duration_ms": 130395,
-      "name": "Taller de Dibujo y Pintura",
-      "url": "https://open.spotify.com/track/1TIEQHGw4LqojU10bWujB4"
     }
   ],
   "unique_name": "Tangos y Milongas",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 
 ### [This Is Pantera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zub2o)
 
-> This is Pantera\. The essential tracks, all in one playlist.
+> This Is Pantera\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 281,001 likes - 40 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 280,927 likes - 40 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zub2o.md) - [plain]
 | 39 | [I Can't Hide](https://open.spotify.com/track/2SHJINY5mfK79Ms7dACUBD) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Official Live: 101 Proof](https://open.spotify.com/album/5jhAuU3PRZsnck8CHgvqMS) | 2:16 |
 | 40 | [Avoid the Light](https://open.spotify.com/track/7BkWSwQXa1hSa3c2fqBjwu) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Reinventing the Steel \(20th Anniversary Edition\)](https://open.spotify.com/album/6OuB0VXwf8uJQdRTxfzsH3) | 6:26 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMDczNTJhZGE0ZjE3MDE2NGE4Y2UzMGYzMTc0YzhkMGY3`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGRkNDg1YjBmOWVjZmQ3YWQxZmYzYjIwYWE3NjJlNWVk`

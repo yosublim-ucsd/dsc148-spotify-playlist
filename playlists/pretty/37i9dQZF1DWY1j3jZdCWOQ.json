@@ -1,6 +1,6 @@
 {
   "description": "Spain without the S ",
-  "num_followers": 477531,
+  "num_followers": 477625,
   "original_name": "teen angst",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 154516,
-      "name": "love is embarrassing",
-      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "Enema Of The State",
         "url": "https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 148360,
       "name": "What's My Age Again?",
       "url": "https://open.spotify.com/track/4LJhJ6DQS7NwE7UKtvcM52"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 143746,
+      "name": "brutal",
+      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "I Did Something Bad",
-      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "Let Go",
         "url": "https://open.spotify.com/album/3zXjR3y2dUWklKmmp6lEhy"
       },
@@ -351,18 +335,18 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
       },
       "artists": [
         {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 143746,
-      "name": "brutal",
-      "url": "https://open.spotify.com/track/6SRsiMl7w1USE4mFqrOhHC"
+      "duration_ms": 238253,
+      "name": "I Did Something Bad",
+      "url": "https://open.spotify.com/track/4svZDCRz4cJoneBpjpx8DJ"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -379,6 +363,22 @@
       "duration_ms": 192000,
       "name": "Face Down",
       "url": "https://open.spotify.com/track/4wzjNqjKAKDU82e8uMhzmr"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 154516,
+      "name": "love is embarrassing",
+      "url": "https://open.spotify.com/track/26QLJMK8G0M06sk7h7Fkse"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
+        "name": "From Under The Cork Tree",
+        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
+      },
+      "artists": [
+        {
+          "name": "Fall Out Boy",
+          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "Sugar, We're Goin Down",
+      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
         "name": "Collide With The Sky",
         "url": "https://open.spotify.com/album/661Hz0qJK8WIp7vAWsqKvk"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 207093,
       "name": "In Too Deep",
       "url": "https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
-        "name": "From Under The Cork Tree",
-        "url": "https://open.spotify.com/album/5nkUSlIhtoJZMOUlB0sNCp"
-      },
-      "artists": [
-        {
-          "name": "Fall Out Boy",
-          "url": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "Sugar, We're Goin Down",
-      "url": "https://open.spotify.com/track/2TfSHkHiFO4gRztVIkggkE"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "Overcompensate",
-        "url": "https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz"
-      },
-      "artists": [
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
-        }
-      ],
-      "duration_ms": 190733,
-      "name": "Overcompensate (edit)",
-      "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "sTraNgeRs",
         "url": "https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 211026,
       "name": "Partners in Crime (feat. Ash Costello)",
       "url": "https://open.spotify.com/track/4oaU0fMSg3n9kqOwmLPVhH"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "Overcompensate",
+        "url": "https://open.spotify.com/album/5ZSqGFLuXUJUlIObSkN0Bz"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 190733,
+      "name": "Overcompensate (edit)",
+      "url": "https://open.spotify.com/track/7kcApwUclbIw9B6MuVmqPc"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "The Taste of Ink",
-      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/5AKycvv2TUUh9h0KIletJt"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 187880,
       "name": "Wolf in Sheep's Clothing (feat. William Beckett)",
       "url": "https://open.spotify.com/track/4WXFDVe299Po8ih6Np54n2"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 208693,
+      "name": "The Taste of Ink",
+      "url": "https://open.spotify.com/track/5jZ1Z2GFTf2gwmFc3qiUxs"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
+        "name": "The Silence In Black And White (Re-Issue)",
+        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
+      },
+      "artists": [
+        {
+          "name": "Hawthorne Heights",
+          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+        }
+      ],
+      "duration_ms": 244480,
+      "name": "Ohio Is For Lovers",
+      "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
         "name": "Riot!",
         "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
       },
@@ -1119,18 +1135,18 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
-        "name": "The Silence In Black And White (Re-Issue)",
-        "url": "https://open.spotify.com/album/6ypfxw9fHuwow6dkcA4y1z"
+        "name": "You're Gonna Miss It All",
+        "url": "https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA"
       },
       "artists": [
         {
-          "name": "Hawthorne Heights",
-          "url": "https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe"
+          "name": "Modern Baseball",
+          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
         }
       ],
-      "duration_ms": 244480,
-      "name": "Ohio Is For Lovers",
-      "url": "https://open.spotify.com/track/23DHUWJ7iEieNPMPKvjzBV"
+      "duration_ms": 163760,
+      "name": "Your Graduation",
+      "url": "https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -1147,22 +1163,6 @@
       "duration_ms": 198026,
       "name": "Digital Silence",
       "url": "https://open.spotify.com/track/6cJSXxvl9l94huIUIqsEQo"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
-        "name": "You're Gonna Miss It All",
-        "url": "https://open.spotify.com/album/4QElAwQufg6wCeyvpafqwA"
-      },
-      "artists": [
-        {
-          "name": "Modern Baseball",
-          "url": "https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8"
-        }
-      ],
-      "duration_ms": 163760,
-      "name": "Your Graduation",
-      "url": "https://open.spotify.com/track/7kVoPBSlGghzLoQjODkxGD"
     },
     {
       "added_at": "2024-03-25 22:07:45",
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2024-03-25 22:07:45",
       "album": {
+        "name": "Now You See Inside",
+        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
+      },
+      "artists": [
+        {
+          "name": "SR-71",
+          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
+        }
+      ],
+      "duration_ms": 167200,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
+    },
+    {
+      "added_at": "2024-03-25 22:07:45",
+      "album": {
         "name": "WHAT THE HELL",
         "url": "https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 162577,
       "name": "Turbulent",
       "url": "https://open.spotify.com/track/4ig3DcNoj3UfPdhL2Rw9J1"
-    },
-    {
-      "added_at": "2024-03-25 22:07:45",
-      "album": {
-        "name": "Now You See Inside",
-        "url": "https://open.spotify.com/album/1eDNzJLCxus27R8ZC2hS3z"
-      },
-      "artists": [
-        {
-          "name": "SR-71",
-          "url": "https://open.spotify.com/artist/7fTcs8dn9y6XuB2IqZMzBq"
-        }
-      ],
-      "duration_ms": 167200,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/3iwsyTZzOWHZbHffBEyi1N"
     },
     {
       "added_at": "2024-03-25 22:07:45",

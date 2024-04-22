@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 14056,
+  "2024-04-22": 14059,
   "date_first_scraped": "2022-08-06",
   "description": "mate- Bus stop!",
   "name": "Troski Rhythms",
@@ -649,7 +649,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 180486,
       "name": "Aseda",
       "url": "https://open.spotify.com/track/6oNuASyQEzd7Z6VsF1hKNG"
@@ -9011,7 +9011,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"

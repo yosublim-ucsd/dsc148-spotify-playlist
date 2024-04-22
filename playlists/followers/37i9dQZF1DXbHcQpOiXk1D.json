@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 310153,
+  "2024-04-22": 310164,
   "date_first_scraped": "2022-01-01",
   "description": "The best from Britain's vibrant scene. Cover: Shabaka",
   "name": "Jazz UK",
@@ -1503,6 +1503,28 @@
       "duration_ms": 292500,
       "name": "Canta Y No Llores",
       "url": "https://open.spotify.com/track/06qGYdkmiFTDzLV2VOZt0j"
+    },
+    {
+      "album": {
+        "name": "Carry Me",
+        "url": "https://open.spotify.com/album/2wQ82L31Pd99UVfS4wJs7H"
+      },
+      "artists": [
+        {
+          "name": "Nubiyan Twist",
+          "url": "https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO"
+        },
+        {
+          "name": "Seun Kuti",
+          "url": "https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235920,
+      "name": "Carry Me",
+      "url": "https://open.spotify.com/track/3wSkiU2kjlunkqm2PcZZLa"
     },
     {
       "album": {
@@ -4000,6 +4022,24 @@
     },
     {
       "album": {
+        "name": "Greatest Gift (Reimagined)",
+        "url": "https://open.spotify.com/album/7fz7gZ1S8BnHGi96KESoQi"
+      },
+      "artists": [
+        {
+          "name": "Jorja Smith",
+          "url": "https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239666,
+      "name": "Greatest Gift - Reimagined",
+      "url": "https://open.spotify.com/track/4AN2N5UNDHyl4vYRcTEwD1"
+    },
+    {
+      "album": {
         "name": "Greek Honey Slick",
         "url": "https://open.spotify.com/album/0eu3SEfwUHGLl6S9D7HGiW"
       },
@@ -4441,7 +4481,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 227177,
       "name": "Honest Mistake",
       "url": "https://open.spotify.com/track/7lF8vFU9L2xzHJkv3zvtnm"
@@ -4829,7 +4869,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 352999,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/5ePKT3lYR97ZCwWTkXeKt6"

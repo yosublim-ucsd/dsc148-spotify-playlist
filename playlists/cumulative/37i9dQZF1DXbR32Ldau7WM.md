@@ -602,7 +602,6 @@
 | [When the Ship Rolls In](https://open.spotify.com/track/6IUulBDi2zoxZoTlDXLuRe) | [LOW IQ 01](https://open.spotify.com/artist/03iXYfVe4ZvZ0Q0dfLxzKc) | [Adjusted](https://open.spotify.com/album/3vi50McgHideZ6Ke8dBCzz) | 4:07 | 2022-12-13 | 2022-12-21 |
 | [Wife](https://open.spotify.com/track/6sj4L1gpMd3KJTczI9H8N6) | [METAFIVE](https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI) | [Wife](https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD) | 4:28 | 2022-07-19 | 2022-08-04 |
 | [Winter Story](https://open.spotify.com/track/5v5eCRsO7yJXcq2DGtlhVB) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Winter Story](https://open.spotify.com/album/2jFjmAgTNaduGZ77qN72Js) | 3:39 | 2022-12-20 | 2023-01-25 |
-| [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-04 |  |
 | [YAKIIMO](https://open.spotify.com/track/35UY3e5HiGSmOu5yuISc36) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:51 | 2024-01-23 | 2024-01-31 |
 | [Yasashiku Naritai \(ROCK'N ROLL Recording Session 2023\)](https://open.spotify.com/track/5Di7mAEctcwaj2HpoW4DAu) | [Kazuyoshi Saito](https://open.spotify.com/artist/7sl3PZyhzAqUpL3M6WVD8G) | [ROCK'N ROLL Recording Session at Victor Studio 301](https://open.spotify.com/album/67rfBRMgQSY4ctr2PAtUJx) | 5:26 | 2023-07-25 | 2023-08-02 |
 | [Yellow](https://open.spotify.com/track/7pRtSBPQJ9rH0i1bcOegtc) | [THE ORAL CIGARETTES](https://open.spotify.com/artist/4rqJz9fE9prZvQd8WsQv6q) | [Yellow](https://open.spotify.com/album/0NhUnxavKjNKP6YU1TBOoL) | 3:27 | 2023-10-24 | 2023-11-18 |
@@ -1033,5 +1032,6 @@
 | [魔法](https://open.spotify.com/track/5kxL7DfGUkUuGxaocTqMeG) | [LACCO TOWER](https://open.spotify.com/artist/47VpPVgXyjyV2pIShGpUud) | [魔法](https://open.spotify.com/album/4fCHFQoHBE7NOJ5l3s9c0i) | 4:19 | 2022-11-22 | 2022-11-30 |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-10 | 2023-06-14 |
 | [黄泉の国](https://open.spotify.com/track/5Wjr32cfS2M71FvZkBAm1m) | [ZAZEN BOYS](https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM) | [らんど](https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v) | 4:11 | 2024-01-23 | 2024-01-31 |
+| [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-04-04 |  |
 
 \*This playlist was first scraped on 2022-05-11. Prior content cannot be recovered.

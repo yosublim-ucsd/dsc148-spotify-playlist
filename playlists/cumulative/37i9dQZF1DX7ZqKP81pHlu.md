@@ -2,7 +2,7 @@
 
 ### [DZ Hits](https://open.spotify.com/playlist/37i9dQZF1DX7ZqKP81pHlu)
 
-> Les hits algériens du moment\. Cover: Lyna Mahyem, Numidia Lezoul
+> Les hits algériens du moment\. Cover: Didine Canon 16
 
 197 songs - 12 hr 0 min
 

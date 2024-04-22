@@ -1,12 +1,12 @@
 {
-  "description": "This is Ramon Ayala Y Sus Bravos Del Norte. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 74788,
+  "description": "This Is Ramon Ayala Y Sus Bravos Del Norte. Los temas esenciales, todos en una lista.",
+  "num_followers": 74783,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDY4MWE5MWZhODE3MDg5ZDBkZjJiNmUxNTJjZDRiYzAz",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGJiN2U2MTk3YzBlZDg3Yjg0ZWYwZTk2MWFlYzJiMDY0",
   "tracks": [
     {
       "added_at": null,
@@ -171,22 +171,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Y Caricias",
-        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 210026,
-      "name": "Que Me Lleve El Diablo",
-      "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recu\u00e9rdame Y Ven A M\u00ed",
         "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 171413,
       "name": "Mi Golondrina",
       "url": "https://open.spotify.com/track/28cEjHqqh494m594SwLyvt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Y Caricias",
+        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 210026,
+      "name": "Que Me Lleve El Diablo",
+      "url": "https://open.spotify.com/track/4aChlMVq129vxl8lb0xreC"
     },
     {
       "added_at": null,
@@ -395,8 +395,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Central Camionera",
-        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
+        "name": "Corridos Autenticos",
+        "url": "https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL"
       },
       "artists": [
         {
@@ -404,9 +404,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 202373,
-      "name": "Central Camionera",
-      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
+      "duration_ms": 199826,
+      "name": "La Venganza del Tah\u00far",
+      "url": "https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd"
     },
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Autenticos",
-        "url": "https://open.spotify.com/album/58oq7ubxQKCUxOVvha9mZL"
+        "name": "Central Camionera",
+        "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 199826,
-      "name": "La Venganza del Tah\u00far",
-      "url": "https://open.spotify.com/track/5yb5ILBgqJLPaESPA5llsd"
+      "duration_ms": 202373,
+      "name": "Central Camionera",
+      "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Besos Y Caricias",
-        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 149586,
-      "name": "Besos Y Caricias",
-      "url": "https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 Norte\u00f1as De Exito Herencia Musical De",
         "url": "https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 191253,
       "name": "Vino Maldito",
       "url": "https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Besos Y Caricias",
+        "url": "https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 149586,
+      "name": "Besos Y Caricias",
+      "url": "https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe"
     },
     {
       "added_at": null,

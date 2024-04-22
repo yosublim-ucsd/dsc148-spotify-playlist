@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-50 songs - 3 hr 24 min
+56 songs - 3 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [It's Who We Are](https://open.spotify.com/track/1cAkiUgNaCYF7Y5pc2S73d) | [Nulbarich](https://open.spotify.com/artist/2yPOqQXgXAw3TVjCNReIrD) | [H.O.T](https://open.spotify.com/album/7hsa4N91owE1h5y1jGEcST) | 5:02 | 2024-04-01 |  |
 | [Junior Sweet](https://open.spotify.com/track/0iSpQPgX7orFgBZ3atrqZA) | [Chara](https://open.spotify.com/artist/2v3eFzDOUnyWP1drW2dPTp) | [Junior Sweet](https://open.spotify.com/album/6mOQ8WkcSPoIk8w3zA6ZuG) | 6:27 | 2024-04-06 |  |
 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 | 2024-04-01 |  |
+| [McDonald Romance](https://open.spotify.com/track/75Yz67wlMsVyXTP3SlS2D9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Tokyo Rendez\-Vous](https://open.spotify.com/album/52Y1UmTf763sUUpVMLPYLO) | 2:45 | 2024-04-21 |  |
 | [modify Youth](https://open.spotify.com/track/3BcceWQDoclXyOmOH5eZ8I) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/3rfcMKe4vOugZxhJxYv6lf) | 3:11 | 2024-04-01 | 2024-04-19 |
 | [modify Youth](https://open.spotify.com/track/7AAchgAYr6hI80KmCuP8N1) | [kurayamisaka](https://open.spotify.com/artist/5kJvtFkFAXSgbz05ZZ4mVL) | [evergreen/modify Youth](https://open.spotify.com/album/6DCMQFmazDSVmu90dfp2rd) | 3:11 | 2024-04-18 |  |
 | [MOOD](https://open.spotify.com/track/39dvNiqFBQ1OG27fCCOZe7) | [LUCKY TAPES](https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx) | [dressing](https://open.spotify.com/album/4su8ZjNhqpIl4sZApycz63) | 4:26 | 2024-04-02 |  |
@@ -37,6 +38,11 @@
 | [STARLIGHT](https://open.spotify.com/track/5Gy2K8tW4bc4TAov7pfEKd) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [PRIVATE](https://open.spotify.com/album/1WnTRvkka3YQKTdMWt3J8O) | 3:08 | 2024-04-01 | 2024-04-19 |
 | [Stateless feat\. YonYon](https://open.spotify.com/track/2aaGksOvk3MqhlFvhnPVif) | [Gotch](https://open.spotify.com/artist/6IVCk7qklx0tv5wtr4VSPc), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Stateless feat\. YonYon](https://open.spotify.com/album/0HmxEwYS2irKltYO87x0F2) | 3:31 | 2024-04-01 |  |
 | [Summer Child](https://open.spotify.com/track/3dDS3c0Xe1kdFC8CYvX7Yp) | [んoon](https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC) | [Body](https://open.spotify.com/album/5AMu3q938fvG6sQfTSmf0Q) | 3:48 | 2024-04-01 |  |
+| [Talk:Comic artist&Film director 「バジーノイズ」の音楽について](https://open.spotify.com/track/0BJzQEksdf1meLXPEKnNnl) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 3:14 | 2024-04-21 |  |
+| [Talk:Comic artist&Film director これから映画を観る方へ](https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:43 | 2024-04-21 |  |
+| [Talk:Comic artist&Film director オープニング](https://open.spotify.com/track/4QQcB7T7OJQOuVgv559WsH) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:06 | 2024-04-21 |  |
+| [Talk:Comic artist&Film director キャラクターから紐解く](https://open.spotify.com/track/0UCd4WnohX0wU46TxZeXQZ) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 2:25 | 2024-04-21 |  |
+| [Talk:Comic artist&Film director 音楽漫画の映画化](https://open.spotify.com/track/7yrgykkHyA2gOVlCC6xkks) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:31 | 2024-04-21 |  |
 | [Talk：Cast これから映画を観る方へ](https://open.spotify.com/track/1ooLbtBbJ88pRfnOSmHYbe) | [川西拓実、桜田ひより](https://open.spotify.com/artist/2gwTw4Mp8Jl56DoSUSQyVI) | [Talk：川西拓実、桜田ひより](https://open.spotify.com/album/6CRGkfpZm2IkuH1ZSdyuLv) | 2:37 | 2024-04-14 |  |
 | [Talk：Cast 原作漫画と音楽について](https://open.spotify.com/track/17EdFlnlvNmyJpOkn4l8vY) | [川西拓実、桜田ひより](https://open.spotify.com/artist/2gwTw4Mp8Jl56DoSUSQyVI) | [Talk：川西拓実、桜田ひより](https://open.spotify.com/album/6CRGkfpZm2IkuH1ZSdyuLv) | 2:06 | 2024-04-14 |  |
 | [Talk：Cast 映画に出演して](https://open.spotify.com/track/78ntZAvTx3rXsugtoluqtl) | [川西拓実、桜田ひより](https://open.spotify.com/artist/2gwTw4Mp8Jl56DoSUSQyVI) | [Talk：川西拓実、桜田ひより](https://open.spotify.com/album/6CRGkfpZm2IkuH1ZSdyuLv) | 3:12 | 2024-04-14 |  |

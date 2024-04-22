@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,189 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,177 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 | 8 | [Pomoni](https://open.spotify.com/track/6XKvZYp4RFUynZf6XUXrEC) | [Muthoni Drummer Queen](https://open.spotify.com/artist/2FzYw9fn2ZtQ7sZma5BxuB) | [Moonsoon](https://open.spotify.com/album/7LTHIDC5Ui2HzF50HTeOzD) | 3:16 |
 | 9 | [Coup du marteau](https://open.spotify.com/track/3YRe2NXbJ5aalCE0YH6YBo) | [Tam Sir](https://open.spotify.com/artist/4WxmlzvtfZbTyGB1LvR02X), [Team Paiya](https://open.spotify.com/artist/5UGLLBEL0U3j4OzxxgVTmk), [Ste Milano](https://open.spotify.com/artist/3z0zOzORjgGBn9NdYfgRYd), [Renard Barakissa](https://open.spotify.com/artist/723b4uVlhopiahp6hgHGRj), [Tazeboy](https://open.spotify.com/artist/1AmK5toq2JV8BT9tCkDFAa), [PSK](https://open.spotify.com/artist/037wzy2YR7LOBvRI9uV5UX) | [Coup du marteau](https://open.spotify.com/album/2Dq4WTswTU9y0nJkWPjhN3) | 2:54 |
 | 10 | [Buya](https://open.spotify.com/track/5Wai6QEkHKrCVNvF8zEiGw) | [Seekay](https://open.spotify.com/artist/3sznqsdJNWJ0pz21q6kTrQ), [Chley](https://open.spotify.com/artist/7HpriU9gAJThxAfPfXpZ6N) | [Buya](https://open.spotify.com/album/0KWBXMg9C2q8nuME55Fn3I) | 4:30 |
-| 11 | [Mister Romantic](https://open.spotify.com/track/7axEJkECTvAt6D12Lvt718) | [MC One](https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Mister Romantic](https://open.spotify.com/album/4YZad4HqvIRKTAFgdRLmrt) | 3:20 |
+| 11 | [Mister Romantic \(feat\. Oxlade\)](https://open.spotify.com/track/7axEJkECTvAt6D12Lvt718) | [MC One](https://open.spotify.com/artist/5z9JWjPGfMql97ONrrC294), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Mister Romantic \(feat\. Oxlade\)](https://open.spotify.com/album/4YZad4HqvIRKTAFgdRLmrt) | 3:20 |
 | 12 | [Africa Wola](https://open.spotify.com/track/0lvRPoLLrsSa9aRyOmvwBt) | [ESINAM](https://open.spotify.com/artist/2cy0RMC2TKpQnxVzXVl5kK), [Sibusile Xaba](https://open.spotify.com/artist/3UZ496XnQSGebDZ8jQqtIJ), [ESINAM & Sibusile Xaba](https://open.spotify.com/artist/6gcbu0CXDpg84HFdyF22qI) | [Africa Wola](https://open.spotify.com/album/3DbHFeWUmZ9tgEIetSDKKK) | 3:41 |
 | 13 | [ON & ON](https://open.spotify.com/track/6jvSpQ8UmGuRiKC9ALyinP) | [LUVANGA](https://open.spotify.com/artist/58J4IMKWK2gAYnNvPrHWpy) | [Seben of Luv](https://open.spotify.com/album/00ReOEqHyrVmjHOOun88Ak) | 2:53 |
 | 14 | [This Time \(feat\. Ami Faku\)](https://open.spotify.com/track/1fIXzuAcGq0mZqGkAy5Zs9) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj), [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE) | [I Love It Here](https://open.spotify.com/album/3BzDtldlIXJJGh9Qc7tbLK) | 3:09 |

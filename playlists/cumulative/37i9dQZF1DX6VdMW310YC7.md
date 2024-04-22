@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,612 songs - 4 day 14 hr 51 min
+1,613 songs - 4 day 14 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [Brand](https://open.spotify.com/track/6cLlBaaZIZZ7XvnsLYar8c) | [Ghasper](https://open.spotify.com/artist/0FyLoJJdvkCwTpgHt0un3K) | [Brand](https://open.spotify.com/album/4I2gchc5rMJlmWYqzLsZbC) | 4:06 | 2020-05-18 | 2020-07-03 |
 | [Brand New Day](https://open.spotify.com/track/0aBKKHRHtNFfTsF02qcqGM) | [Kyle McEvoy](https://open.spotify.com/artist/6rRqxCKHpl9C5Imf2uinft), [Aviino](https://open.spotify.com/artist/6poGVkPdF42Kfchhw1cu0J), [Josh Jacobson](https://open.spotify.com/artist/3KpCBwmIHMdBD3GzV1xNtE) | [Brand New Day](https://open.spotify.com/album/20a92TYYR6TOdkTqpF4HEK) | 3:09 | 2020-05-22 | 2020-10-09 |
 | [Brave](https://open.spotify.com/track/2HI595p5wIHXoVgo4lOZ3f) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Brave](https://open.spotify.com/album/4KRRm0aGMm3lTCtMhoDPmk) | 3:50 | 2023-07-07 |  |
-| [Brave](https://open.spotify.com/track/4lHgV3SgQIDEgHXAdWbED4) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Brave](https://open.spotify.com/album/642PHXG3lS5SVfwoWmZRBf) | 4:52 | 2024-04-19 |  |
+| [Brave](https://open.spotify.com/track/4lHgV3SgQIDEgHXAdWbED4) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Christian Burns](https://open.spotify.com/artist/1hu8RDN5gKsi2YYvWTOAqY) | [Brave](https://open.spotify.com/album/642PHXG3lS5SVfwoWmZRBf) | 4:52 | 2024-04-19 | 2024-04-22 |
 | [Brazilian Soul \(feat\. Sofi Tukker\) \- Gilligan Moss Remix](https://open.spotify.com/track/2R3GqU7JBAscpMIjFL3uzC) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Gilligan Moss](https://open.spotify.com/artist/2fo0F81pRzdXjmWP6MkQqB) | [Brazilian Soul \(feat\. Sofi Tukker\) \[Remixes\]](https://open.spotify.com/album/2OTIyP1zBOinX4qEj6x3Qa) | 5:00 | 2020-03-20 | 2022-12-29 |
 | [Break Open Colour](https://open.spotify.com/track/0IoVnQAJTWNSD1qddEgrJH) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh) | [Don't Look Back](https://open.spotify.com/album/6e295vU5RvRKECmI5p8ZNm) | 4:36 | 2022-03-11 | 2022-07-29 |
 | [Breaking Apart](https://open.spotify.com/track/6QSgJaGAs7EhyCXTYehkZd) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Breaking Apart](https://open.spotify.com/album/7cRUi8PAJDgwxbe0TKZlLp) | 4:35 | 2023-05-05 | 2024-04-06 |
@@ -644,6 +644,7 @@
 | [Horizon](https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi) | [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Horizon](https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2) | 3:19 | 2024-04-05 |  |
 | [Hotel Moonlight](https://open.spotify.com/track/4et2maqfvMaZiori5YatgZ) | [Trashlagoon](https://open.spotify.com/artist/2Ceq5nkABzryK0OkaQYtzg), [Parra for Cuva](https://open.spotify.com/artist/238y1dKPtMeFEpX3Y6H1Vr) | [Hotel Moonlight](https://open.spotify.com/album/3xySt2iiPTbv98AIo1Ug4p) | 4:41 | 2020-03-22 | 2022-04-21 |
 | [House Of The Rising Sun](https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [House Of The Rising Sun](https://open.spotify.com/album/4bplLIBUWTi43ZySUAPL0I) | 2:18 | 2022-01-28 | 2023-07-08 |
+| [How Does It Feel](https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K), [Kasbo](https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq) | [How Does It Feel](https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U) | 4:57 | 2024-04-19 |  |
 | [How Many Times?](https://open.spotify.com/track/4gnw7ZduO3LMqEcrA1qvyL) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [How Many Times?](https://open.spotify.com/album/6BOkJ1sAOEPyfdYEvNnmIn) | 3:58 | 2020-11-20 | 2022-12-29 |
 | [How Often](https://open.spotify.com/track/5sYagRbhe4FAWYE04wlEYQ) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Kauf](https://open.spotify.com/artist/4T7v6mIRvUB3AEORZRzWUy) | [Brightest Lights](https://open.spotify.com/album/6EdbqQvOCialJuOjEEUlsL) | 4:15 | 2020-02-29\* | 2020-03-16 |
 | [Howl](https://open.spotify.com/track/3360fzHkXtFCGSnTpyBMRA) | [Elderbrook](https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Howl](https://open.spotify.com/album/6IYBjFaUzMGNj6mptyYg66) | 4:17 | 2022-09-02 | 2023-09-09 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 1036287,
+  "2024-04-22": 1035315,
   "date_first_scraped": "2021-12-21",
   "description": "The newest r&b drops, every week. Cover: Lucky Daye",
   "name": "R&B Weekly",
@@ -5813,7 +5813,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 144000,
       "name": "Can I Call You Rose? - Cover",
       "url": "https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5"
@@ -31189,7 +31189,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 177174,
       "name": "QUIET TYPE",
       "url": "https://open.spotify.com/track/5MeyBFQGinr5PDLqTjZdEM"
@@ -31915,6 +31915,24 @@
       "duration_ms": 152000,
       "name": "Replacement",
       "url": "https://open.spotify.com/track/4sesuIEYPhGwC2daNc0PkU"
+    },
+    {
+      "album": {
+        "name": "Restore",
+        "url": "https://open.spotify.com/album/73NGIBbhn0EYQwEkf38MJq"
+      },
+      "artists": [
+        {
+          "name": "Paulade",
+          "url": "https://open.spotify.com/artist/47FIkKjgZpNkMg1XcEqVdK"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221730,
+      "name": "Restore",
+      "url": "https://open.spotify.com/track/3l32gsJB5Vry8kan0VsyKR"
     },
     {
       "album": {
@@ -39543,6 +39561,24 @@
       "duration_ms": 208000,
       "name": "Timber",
       "url": "https://open.spotify.com/track/2SRTeASxMcHb6Muqw0B7rm"
+    },
+    {
+      "album": {
+        "name": "Wish It Wasn't You",
+        "url": "https://open.spotify.com/album/02uBtX5v0ZSqIkIxpUQp3E"
+      },
+      "artists": [
+        {
+          "name": "Amirah",
+          "url": "https://open.spotify.com/artist/2mM9wOpDT6r0FTrXwUoutj"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121250,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/6N1FpewhwEzs9kuZSCpHpB"
     },
     {
       "album": {

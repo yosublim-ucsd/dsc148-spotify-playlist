@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 1230902,
+  "2024-04-22": 1230487,
   "date_first_scraped": "2021-12-21",
   "description": "Heavy Metal forever \\m/ classics to brand new tracks, play it loud. Cover: Kittie",
   "name": "Heavy Metal",
@@ -4514,6 +4514,24 @@
     },
     {
       "album": {
+        "name": "Out Of The Shadows 2.0",
+        "url": "https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219195,
+      "name": "Feral",
+      "url": "https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3"
+    },
+    {
+      "album": {
         "name": "Magica",
         "url": "https://open.spotify.com/album/2E457EiUG9l2rD1EaWcRM4"
       },
@@ -6087,7 +6105,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 276653,
       "name": "Hungry and Angry",
       "url": "https://open.spotify.com/track/57PT761NIApIzfORTkmwWU"

@@ -1,6 +1,6 @@
 {
   "description": "Big bands, big sounds.",
-  "num_followers": 397307,
+  "num_followers": 397140,
   "original_name": "Big Band",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman",
-          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
-        }
-      ],
-      "duration_ms": 520293,
-      "name": "Sing, Sing, Sing",
-      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Begin The Beguine",
         "url": "https://open.spotify.com/album/3uXjIDVSLPp8niomuVDd5h"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 149986,
       "name": "Perhaps",
       "url": "https://open.spotify.com/track/5crzhw9xiWFMF2NDZzk6eb"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman",
+          "url": "https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve"
+        }
+      ],
+      "duration_ms": 520293,
+      "name": "Sing, Sing, Sing",
+      "url": "https://open.spotify.com/track/5L8ta4ECl5zeA6bGqY7G38"
     },
     {
       "added_at": "2020-03-06 16:28:56",
@@ -551,22 +551,6 @@
     {
       "added_at": "2020-03-06 16:28:56",
       "album": {
-        "name": "More Smiles",
-        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
-      },
-      "artists": [
-        {
-          "name": "The Kenny Clarke-Francy Boland Big Band",
-          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
-        }
-      ],
-      "duration_ms": 254413,
-      "name": "Lullaby of the Leaves",
-      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
-    },
-    {
-      "added_at": "2020-03-06 16:28:56",
-      "album": {
         "name": "Birks Works: The Verve Big-Band Sessions",
         "url": "https://open.spotify.com/album/7yyH8DozyrWFMEAWhCV2oS"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 235866,
       "name": "Doodlin'",
       "url": "https://open.spotify.com/track/2jb1Abu8FOdpIAICSnV6C6"
+    },
+    {
+      "added_at": "2020-03-06 16:28:56",
+      "album": {
+        "name": "More Smiles",
+        "url": "https://open.spotify.com/album/4Pyfz10lCoDGuFISUxLZmg"
+      },
+      "artists": [
+        {
+          "name": "The Kenny Clarke-Francy Boland Big Band",
+          "url": "https://open.spotify.com/artist/7C6sfpvSQJ9V0i4hDW9ciO"
+        }
+      ],
+      "duration_ms": 254413,
+      "name": "Lullaby of the Leaves",
+      "url": "https://open.spotify.com/track/6FyP9sU6l9JhHIPW2yfJnu"
     },
     {
       "added_at": "2020-03-06 16:28:56",

@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Sebastián Romero.
 
-574 songs - 1 day 10 hr 27 min
+575 songs - 1 day 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Calma](https://open.spotify.com/track/7wKz16Le77RMTt0eOGPp0v) | [IRIA M](https://open.spotify.com/artist/03Vw7tyeZfyhZ0lQQQsXAa), [Medina](https://open.spotify.com/artist/4HWvloZKsYg0HmsnFMkeNO), [Factoria Chakataga](https://open.spotify.com/artist/2DZnEICNEc4QJrU5q0lnJl) | [Calma](https://open.spotify.com/album/5DSlYtdAQ7x3KxldkrAwBg) | 2:26 | 2023-03-02 | 2023-03-21 |
 | [Caminar y Silbar](https://open.spotify.com/track/5iMjqRdsME17iDsAGTkHiL) | [Izqui y los Pequeños Planetas](https://open.spotify.com/artist/4rIMxwqlZeHtdFBGonACct) | [Caminar y Silbar](https://open.spotify.com/album/0cxtvqa04vMLpshMs5szhb) | 2:45 | 2022-05-13 | 2022-07-09 |
 | [Caminata](https://open.spotify.com/track/10q58ySzhr4lUvqFQHwoUD) | [Adrián Berra](https://open.spotify.com/artist/3w9xEAItKEIFjQoR88mtsO) | [Caminata](https://open.spotify.com/album/04JEuJTa7Uf1KROL7gTnUt) | 2:58 | 2022-10-21 | 2022-12-03 |
+| [Camino al Bembé](https://open.spotify.com/track/4PzPtQgbDCaRajfbppvNBd) | [Carey](https://open.spotify.com/artist/0oxfm2BvNWiRi3WwmcOdQy) | [Camino al Bembé](https://open.spotify.com/album/4XeP79F6lHKf2YZgR3Ggtb) | 3:23 | 2024-04-19 |  |
 | [Camino Dorado](https://open.spotify.com/track/4ZqWMX8vgit2ZZqSctYqfj) | [Lola Cobach](https://open.spotify.com/artist/7iCmAFvjuryIN4uF5jPpRu) | [Camino Dorado](https://open.spotify.com/album/2zIO6vgZtXTV3No8H6SHLU) | 3:11 | 2023-06-16 | 2023-07-10 |
 | [Camino Que Pasa](https://open.spotify.com/track/5qrVNXz5lCpjPnjAagWl6U) | [Sandra Bernardo](https://open.spotify.com/artist/5JKn780F1w5aPxnMZEmA5H), [Natalia Doco](https://open.spotify.com/artist/6UeIDlkYcSRGg4aLX1d4TN) | [Camino Que Pasa](https://open.spotify.com/album/2A8gutTW0ZnIgz4mX7P1Zl) | 3:00 | 2022-07-22 |  |
 | [Camposanto](https://open.spotify.com/track/2yn6VHPMXU4RPnENTQSHLH) | [Vicente Navarro](https://open.spotify.com/artist/4GQvwhelHXInRiDs6LqrNQ) | [Camposanto](https://open.spotify.com/album/6Bd3L7gZ9ZxKYSWtIjJHjP) | 3:27 | 2022-11-11 | 2023-01-06 |
@@ -363,7 +364,7 @@
 | [Niña de mis ojos](https://open.spotify.com/track/6VhLNiAEbawLpsUgBIZt5P) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Pasajeros](https://open.spotify.com/album/65SoK883st0WxA0XbzCx9D) | 5:12 | 2022-07-22 | 2023-12-23 |
 | [Niña de mis ojos](https://open.spotify.com/track/1sicJa9Y4jg67tHPHIsIoo) | [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd), [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE) | [Niña de mis ojos](https://open.spotify.com/album/5ISjEhGb4KWf5tt4ky8YHI) | 5:12 | 2021-12-24 | 2022-07-29 |
 | [Niña voladora](https://open.spotify.com/track/6t9ot6JHFylOIfKRRvxIS8) | [Juanito Makandé](https://open.spotify.com/artist/72fEVnXpnjN2i2MU99ga0z) | [Las canciones que escribí mientras volaba](https://open.spotify.com/album/2xnYo9d4AVFfTaDRXzgpjy) | 3:42 | 2021-12-24 | 2022-03-22 |
-| [No Fer Tant](https://open.spotify.com/track/2lx42rIGTfQzs3kGNPxnGf) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [No Fer Tant](https://open.spotify.com/album/1VHlNUJepNTcoygNb5NC2K) | 2:32 | 2021-12-24 |  |
+| [No Fer Tant](https://open.spotify.com/track/2lx42rIGTfQzs3kGNPxnGf) | [Guillem Roma](https://open.spotify.com/artist/6JOlZGgTWBmJESRlaPBhro) | [No Fer Tant](https://open.spotify.com/album/1VHlNUJepNTcoygNb5NC2K) | 2:32 | 2021-12-24 | 2024-04-22 |
 | [no hace falta saber](https://open.spotify.com/track/6lXq1bTonpEYQYSQ9IXI1Y) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [no hace falta saber](https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW) | 2:48 | 2023-06-23 | 2023-08-05 |
 | [No me pidas que no sea un inconsciente](https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2) | [Sir Hope](https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA) | [No me pidas que no sea un inconsciente](https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g) | 2:13 | 2023-03-10 | 2023-03-25 |
 | [No Pasarán](https://open.spotify.com/track/01qqX42EpmyAS6mOTKzBB0) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7) | [El Vuelo](https://open.spotify.com/album/11ZYjr4BcCTyu8kAcZ6gA9) | 5:29 | 2021-12-24 | 2022-10-11 |
@@ -424,7 +425,7 @@
 | [Propuestas Imposibles](https://open.spotify.com/track/2hqbxrVkDwUGjW37FcpUMy) | [Daniela Escalante](https://open.spotify.com/artist/00YbcwdtRDXKGvdpBsUfkd) | [Propuestas Imposibles](https://open.spotify.com/album/1cmDYMQXjP5IGxgp2KPwfb) | 3:43 | 2021-12-24 |  |
 | [Pulmón](https://open.spotify.com/track/0cawJnGa5dqxVTBakjrfGd) | [Andrea Santiago](https://open.spotify.com/artist/25ujYqJknNjORPPtUIDUXo) | [Pulmón](https://open.spotify.com/album/5oTyIaIFvkOpeCPU4UJ3cl) | 3:49 | 2022-04-01 | 2022-05-16 |
 | [Punto de No Retorno](https://open.spotify.com/track/5e0YvZ9pN4KJmhxkboPCpp) | [Victoria Lerma](https://open.spotify.com/artist/0k6LayErsqG0p2pgWUmBsF) | [Punto de No Retorno](https://open.spotify.com/album/7FhO2Owgg8bs15TB4vhChh) | 3:33 | 2022-02-04 | 2022-03-12 |
-| [Puntos Equidistantes](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 | 2023-12-01 |  |
+| [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/track/5oDXv4nZ83gQsa2QFG6NpB) | [Kevin Johansen](https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Puntos Equidistantes \(feat\. Natalia Lafourcade\)](https://open.spotify.com/album/7ASy3IISzpmxFlgi55rr7D) | 3:47 | 2023-12-01 |  |
 | [Puquio](https://open.spotify.com/track/7AU74ElllykOv422FjsU1E) | [Triste Domingo](https://open.spotify.com/artist/5wWTQAmSqsyuPXtjNm0oos) | [Puquio](https://open.spotify.com/album/4gLcpquRoWzxLjF0451BD6) | 2:56 | 2022-10-10 | 2023-06-03 |
 | [Pura Flor](https://open.spotify.com/track/4BWHCYLHCD62RQPxzX0HO1) | [Minuk](https://open.spotify.com/artist/5IIGsnZbpoR1ONGK1fRumn) | [Pura Flor](https://open.spotify.com/album/3ZmeBQcn3RwUxvE4HPabt1) | 3:57 | 2021-12-24 | 2022-07-15 |
 | [Puto Pillada](https://open.spotify.com/track/7dVhIL98jntUf9qR5WiUa8) | [Sabe](https://open.spotify.com/artist/1B5MSSz9S1b7hWzpiWZ7yY) | [Puto Pillada](https://open.spotify.com/album/3uOKDxkIsC2leRK6qP4P85) | 2:52 | 2023-05-12 | 2023-06-17 |

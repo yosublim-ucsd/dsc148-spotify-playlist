@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 13504,
+  "2024-04-22": 13535,
   "date_first_scraped": "2023-12-04",
   "description": "to the people who look at the stars and wish \ud83e\uddda\u200d\u2640\ufe0f",
   "name": "Faerie Core",
@@ -219,6 +219,24 @@
       "duration_ms": 77000,
       "name": "Calm Night Under Red Stars",
       "url": "https://open.spotify.com/track/79fmjTovx8yC2ZutpTefDg"
+    },
+    {
+      "album": {
+        "name": "The Shark in Your Water",
+        "url": "https://open.spotify.com/album/75nZGvjStgCUavXcsYsXf7"
+      },
+      "artists": [
+        {
+          "name": "Flower Face",
+          "url": "https://open.spotify.com/artist/0sYlth2PW1zWJMEU2vCukz"
+        }
+      ],
+      "date_added": "2024-03-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188864,
+      "name": "Cornflower Blue",
+      "url": "https://open.spotify.com/track/2MfwT3SKUyF0na2LCa2fCp"
     },
     {
       "album": {
@@ -1261,7 +1279,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 181969,
       "name": "Ready Now",
       "url": "https://open.spotify.com/track/1xzIv4LPe57Lgz3ELDOdBE"

@@ -4,7 +4,7 @@
 
 > Classic and new soul music for the perfect dinner vibe.
 
-454 songs - 1 day 5 hr 27 min
+455 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,7 +189,7 @@
 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 | 2023-01-09 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/5TWbNkeJnYkcT04J81apOr) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 2:21 | 2024-04-16 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/54QckpslekyZCIEanFk787) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 2:24 | 2023-06-27 | 2024-04-19 |
-| [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 | 2024-04-16 |  |
+| [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [Barry White \- Universal Masters Collection](https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs) | 7:08 | 2024-04-16 | 2024-04-22 |
 | [I'm Gonna Love You Just A Little More Baby](https://open.spotify.com/track/1QR3Wcba5NBidmxEE8DW3w) | [Barry White](https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt) | [I've Got So Much To Give](https://open.spotify.com/album/0ldkrsBFHXhKHlynq8tJVI) | 7:11 | 2023-01-09 | 2024-04-19 |
 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/0XaJ8Fk3d8eZa9RZGUat0e) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Motown: The Complete No\. 1's](https://open.spotify.com/album/0iv3gV69jA1YY2H0UTy9yF) | 3:07 | 2024-04-16 |  |
 | [I'm Gonna Make You Love Me](https://open.spotify.com/track/3Rhxe6P1im82NFVkt9X2qZ) | [Diana Ross & The Supremes](https://open.spotify.com/artist/0rXI0q8Cahq6numvPlloaq), [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Diana Ross & The Supremes Join The Temptations](https://open.spotify.com/album/7tZt4EApjs2MSzt0OJ1vaT) | 3:07 | 2023-01-09 | 2024-04-19 |
@@ -382,6 +382,7 @@
 | [Tell Me A Tale](https://open.spotify.com/track/6GQQz48swxNlRrhflWmd2q) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again \(Deluxe Version\)](https://open.spotify.com/album/6b7DeWxueaZY0NNReD6TrK) | 4:09 | 2024-04-16 |  |
 | [Tell Me A Tale](https://open.spotify.com/track/3ZRvYw3UuvHemty0UHKRSI) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Home Again](https://open.spotify.com/album/79VDAdjzMMGoftIbw5feYN) | 4:12 | 2023-06-27 | 2024-04-19 |
 | [Tender](https://open.spotify.com/track/6xd6wN0uNxx1YMOv1BwHNm) | [Bo Saris](https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l) | [Gold](https://open.spotify.com/album/1fvAt6txgwrzz0ULXhARpT) | 4:03 | 2024-04-16 |  |
+| [The Addict](https://open.spotify.com/track/5rPXLUWqG6JwKCYMGH6e8C) | [Bo Saris](https://open.spotify.com/artist/5iFyVnPvgc3b4bduxnqn6l) | [The Addict](https://open.spotify.com/album/2HFb5wiy7PY5u11FhHzkCK) | 3:44 | 2024-04-16 |  |
 | [The Dark End Of The Street](https://open.spotify.com/track/1qboV1rrtiCburWz7E07lB) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [Woodstock Generation](https://open.spotify.com/album/4ozDtdDznuECwLlFboqv0W) | 2:30 | 2024-04-16 |  |
 | [The Dark End of the Street](https://open.spotify.com/track/1dDKfo8La1mM5xpLK3Rqcv) | [James Carr](https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS) | [A Man Needs a Woman](https://open.spotify.com/album/6JpD37NS5oX9Db7m51Hj8s) | 2:34 | 2023-01-09 | 2023-06-28 |
 | [The Family](https://open.spotify.com/track/14wpG5eRZwU73l6TYrvgkT) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [Baltimore](https://open.spotify.com/album/4UjcMSiyv8QCiZ4O8gpzXS) | 4:58 | 2023-08-15 |  |

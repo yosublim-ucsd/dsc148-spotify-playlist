@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Galih & Ratna (From \"Galih & Ratna\")",
+        "url": "https://open.spotify.com/album/6ecF1hIoV21v0hie4icsxl"
+      },
+      "artists": [
+        {
+          "name": "GAC (Gamali\u00e9l Audrey Cantika)",
+          "url": "https://open.spotify.com/artist/3YYdJZO7kX8nwDzN3YJzdW"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183182,
+      "name": "Galih & Ratna (From \"Galih & Ratna\")",
+      "url": "https://open.spotify.com/track/4s7A3Fd0Sw9HmHkDzSeG2F"
+    },
+    {
+      "album": {
         "name": "Konspirasi Alam Semesta",
         "url": "https://open.spotify.com/album/6d2K6Ku4sXH63OQnsGVbbe"
       },
@@ -830,7 +848,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 296938,
       "name": "Hujan di Mimpi",
       "url": "https://open.spotify.com/track/0VX8UdmK5BMdExvht2m1Yx"

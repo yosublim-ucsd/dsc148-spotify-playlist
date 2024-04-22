@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 
 > This is The Clash\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,580 likes - 42 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,584 likes - 42 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fKbHG.md) - [plain]
 | 41 | [The Magnificent Dance](https://open.spotify.com/track/2vUlFUyRbemQaseUj6NESz) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Sound System](https://open.spotify.com/album/48xJ1Xj8V4snc0am3T0SoF) | 5:37 |
 | 42 | [Ghetto Defendant \- Remastered](https://open.spotify.com/track/4WidRX7HuOreEGkQ6tKBBi) | [The Clash](https://open.spotify.com/artist/3RGLhK1IP9jnYFH4BRFJBS) | [Combat Rock \(Remastered\)](https://open.spotify.com/album/1ZH5g1RDq3GY1OvyD0w0s2) | 4:43 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMGU2M2FjZWQ2ZjFiM2JkZjI4NGMzNDdlMzdlZjk2YTRm`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGIyMWNmODQ2M2Y1ODBiNjM1ZDVhZTQ2NTI3NTFkNjc1`

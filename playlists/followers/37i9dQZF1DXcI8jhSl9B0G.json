@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 75313,
+  "2024-04-22": 75294,
   "date_first_scraped": "2022-09-15",
   "description": "Tunes for sun drenched days and balmy nights.",
   "name": "Summer Daze",
@@ -1426,6 +1426,24 @@
     },
     {
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/2ikfoXXectNhLUgpSkS0xL"
+      },
+      "artists": [
+        {
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
+        }
+      ],
+      "date_added": "2023-11-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226789,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2EJCqwvgcGQEbqSW3Fa3Pu"
+    },
+    {
+      "album": {
         "name": "Life Ain't Fine",
         "url": "https://open.spotify.com/album/3cGwh7qmuvXOwx49k5qsCn"
       },
@@ -2599,7 +2617,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 319798,
       "name": "The Winner Takes It All",
       "url": "https://open.spotify.com/track/7uH8x4BeKXG3ivXFecFzhv"

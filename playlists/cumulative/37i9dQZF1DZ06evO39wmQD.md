@@ -2,7 +2,7 @@
 
 ### [This Is Auli'i Cravalho](https://open.spotify.com/playlist/37i9dQZF1DZ06evO39wmQD)
 
-> This is Auli'i Cravalho\. The essential tracks, all in one playlist.
+> This Is Auli'i Cravalho\. Los temas esenciales, todos en una lista.
 
 28 songs - 1 hr 20 min
 
@@ -14,7 +14,7 @@
 | [Feels Like Home](https://open.spotify.com/track/3o68rA5ozeALCXNt7LbSlS) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Keegan DeWitt](https://open.spotify.com/artist/1QkkfXx0WxSxmUIQOkSWa2) | [Feels Like Home](https://open.spotify.com/album/0eGPbc8BTRwmiKrYK9Mvlh) | 3:32 | 2023-05-02 |  |
 | [Glorious \- Rise Cast Version](https://open.spotify.com/track/0hasaAKHUsmlAVbeo6jBUt) | [Rise Cast](https://open.spotify.com/artist/7IfYfy6wD9b12MlJYl099P), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Damon J\. Gillespie](https://open.spotify.com/artist/31XsoVTeHGOLgOtsv9nK8I) | [Glorious \(Rise Cast Version\)](https://open.spotify.com/album/0pegn0FfZZRbQKSHGaPbcb) | 2:27 | 2023-05-02 |  |
 | [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2023-05-02 |  |
-| [I Am Moana \(Song of the Ancestors\)](https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8) | [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:42 | 2023-05-02 |  |
+| [I Am Moana \(Song of the Ancestors\)](https://open.spotify.com/track/6uk7QQiWRDjPHSiSMZlez8) | [Rachel House](https://open.spotify.com/artist/1kB7GlXzdNWl28zLcOkQqU), [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:42 | 2023-05-02 | 2024-04-22 |
 | [I'd Rather Be Me](https://open.spotify.com/track/4vndz7TD2SHRwEKbz158DR) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [Mean Girls \(Music From The Motion Picture\)](https://open.spotify.com/album/1LJWyyP756YVEeIRa6DU74) | 2:56 | 2024-01-13 |  |
 | [If Only \- From "The Little Mermaid Live!"](https://open.spotify.com/track/1WM0k6YUk7GwnxXjnDMNnC) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Graham Phillips](https://open.spotify.com/artist/7cx3SW07K49VaNuC71o4vj) | [The Little Mermaid Live!](https://open.spotify.com/album/3vld0EGY1kKpRYrjVqFMMc) | 2:56 | 2023-05-02 |  |
 | [Know Who You Are](https://open.spotify.com/track/2wCRJwiL1WSrW0Dwfco7Nj) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe), [Vai Mahina](https://open.spotify.com/artist/4I9DOo7pz3fn9yjxTktmX9), [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50), [Opetaia Foa'i](https://open.spotify.com/artist/759h9uEwoHm8KKq1pGI9RH), [Matthew Ineleo](https://open.spotify.com/artist/31tOVgwE9y1Kuz7qcWaLJD) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 1:12 | 2023-05-02 |  |

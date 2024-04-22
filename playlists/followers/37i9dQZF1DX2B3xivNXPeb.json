@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 41462,
+  "2024-04-22": 41531,
   "date_first_scraped": "2022-07-19",
   "description": "Whether you're cooking or pottering about, here's an all-day soundtrack to enjoy in the comfort of your own home.",
   "name": "Your Kitchen Stereo",
@@ -1225,7 +1225,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 148445,
       "name": "circles",
       "url": "https://open.spotify.com/track/26EQGfXXAxCnrNA3d5BpfC"
@@ -2014,6 +2014,24 @@
     },
     {
       "album": {
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6t3TwobcE2V5XXYnC6aQLS"
+      },
+      "artists": [
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166080,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/0ZUpCQFSRhJhMJlnjzf1oZ"
+    },
+    {
+      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/5oynNGKQpgYInscV7mbP5K"
       },
@@ -2069,7 +2087,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 240503,
       "name": "Good Mourning",
       "url": "https://open.spotify.com/track/0M1MpH0RHZuYYqN2wkBBBV"
@@ -2329,6 +2347,42 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "album": {
+        "name": "Hello Lonely",
+        "url": "https://open.spotify.com/album/4LG7UeHRKbdRoth0my9vbr"
+      },
+      "artists": [
+        {
+          "name": "Alfie Templeman",
+          "url": "https://open.spotify.com/artist/6QzMY3tnu0m56eKUnr4uCF"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211120,
+      "name": "Hello Lonely",
+      "url": "https://open.spotify.com/track/0qVkhLbM5Y3ef73wirigiQ"
+    },
+    {
+      "album": {
+        "name": "HERicane",
+        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
     },
     {
       "album": {
@@ -2894,6 +2948,24 @@
     },
     {
       "album": {
+        "name": "Imaginary",
+        "url": "https://open.spotify.com/album/452lfMnD6UpKUA7cCk7ghW"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200839,
+      "name": "Imaginary",
+      "url": "https://open.spotify.com/track/7J0uovBm6eDVBQL1ZaXOJ6"
+    },
+    {
+      "album": {
         "name": "Do It Yourself",
         "url": "https://open.spotify.com/album/1NIjSkhC7skEApaGrti8g9"
       },
@@ -3007,6 +3079,24 @@
       "duration_ms": 210368,
       "name": "IOU",
       "url": "https://open.spotify.com/track/2Yil8y4YADc3sMtY3YqpWY"
+    },
+    {
+      "album": {
+        "name": "It Is What It Is",
+        "url": "https://open.spotify.com/album/3QuRvvoQDqZybOukNzNu3V"
+      },
+      "artists": [
+        {
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179666,
+      "name": "It Is What It Is",
+      "url": "https://open.spotify.com/track/7rYAJwAZ7gokGokrsfrOQ5"
     },
     {
       "album": {
@@ -3205,6 +3295,24 @@
       "duration_ms": 291853,
       "name": "King Midas",
       "url": "https://open.spotify.com/track/1omlDv3oJVn3ja7RSkylNO"
+    },
+    {
+      "album": {
+        "name": "Kissing In the Cold",
+        "url": "https://open.spotify.com/album/1FxQgKsnvnA1zdrwaXmyPA"
+      },
+      "artists": [
+        {
+          "name": "Florrie",
+          "url": "https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234853,
+      "name": "Kissing In the Cold",
+      "url": "https://open.spotify.com/track/1hCo51EshXlxroXjvczKgB"
     },
     {
       "album": {
@@ -3505,7 +3613,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 171958,
       "name": "Lights are Dancing",
       "url": "https://open.spotify.com/track/3eAfr9tTURvobS4FGr7zMk"
@@ -3523,7 +3631,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 187822,
       "name": "limerence",
       "url": "https://open.spotify.com/track/0AChzXS7AsnWfY4YOdcKEc"
@@ -4097,7 +4205,7 @@
       ],
       "date_added": "2022-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 223873,
       "name": "Nostalgia (feat. Taura)",
       "url": "https://open.spotify.com/track/6TajNVI83TPoOEc3PCzcIt"
@@ -4205,7 +4313,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 176250,
       "name": "Outrun This Feeling",
       "url": "https://open.spotify.com/track/5pI9tVNPYhWrxBwV1IlfV8"

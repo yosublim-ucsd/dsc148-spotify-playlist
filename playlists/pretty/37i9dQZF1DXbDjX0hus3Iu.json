@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 495121,
+  "num_followers": 494773,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 547106,
+      "name": "Free Bird",
+      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "Heart Like A Wheel",
         "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 276000,
       "name": "Fooled Around And Fell In Love",
       "url": "https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 547106,
-      "name": "Free Bird",
-      "url": "https://open.spotify.com/track/5EWPGh7jbTNO2wakv8LjUI"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "It'll Shine When It Shines",
-        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
-      },
-      "artists": [
-        {
-          "name": "The Ozark Mountain Daredevils",
-          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
-        }
-      ],
-      "duration_ms": 250120,
-      "name": "Jackie Blue",
-      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Searchin' for a Rainbow",
         "url": "https://open.spotify.com/album/2Ua8b7Q4KvVMlA8e3v1OMS"
       },
@@ -215,70 +199,6 @@
       "duration_ms": 236466,
       "name": "Fire on the Mountain",
       "url": "https://open.spotify.com/track/4delgtiKX7L3nsbC0exhCS"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Heart Like A Wheel",
-        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
-      },
-      "artists": [
-        {
-          "name": "Linda Ronstadt",
-          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
-        }
-      ],
-      "duration_ms": 124866,
-      "name": "When Will I Be Loved",
-      "url": "https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Sailin' Shoes",
-        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
-      },
-      "artists": [
-        {
-          "name": "Little",
-          "url": "https://open.spotify.com/artist/1WdS0srmQKf0ewFkIQeIEu"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Willin'",
-      "url": "https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -299,18 +219,98 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Million Mile Reflections",
-        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
+        "name": "It'll Shine When It Shines",
+        "url": "https://open.spotify.com/album/558WlMriwRXU9I2Hq6JMzG"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "The Ozark Mountain Daredevils",
+          "url": "https://open.spotify.com/artist/7jM2XoJBKhdL8oNnDr4re9"
         }
       ],
-      "duration_ms": 215066,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
+      "duration_ms": 250120,
+      "name": "Jackie Blue",
+      "url": "https://open.spotify.com/track/1R9EHsvzpXwOvlGkgDmE55"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Heart Like A Wheel",
+        "url": "https://open.spotify.com/album/7upKDUGJUjsvfIe6vuVB0b"
+      },
+      "artists": [
+        {
+          "name": "Linda Ronstadt",
+          "url": "https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc"
+        }
+      ],
+      "duration_ms": 124866,
+      "name": "When Will I Be Loved",
+      "url": "https://open.spotify.com/track/5jPPjNMIi1rD6BvQqxhJh5"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Sailin' Shoes",
+        "url": "https://open.spotify.com/album/7uFbv3TYfv44PcjTphXekt"
+      },
+      "artists": [
+        {
+          "name": "Little",
+          "url": "https://open.spotify.com/artist/1WdS0srmQKf0ewFkIQeIEu"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Willin'",
+      "url": "https://open.spotify.com/track/0jMyU6bO52IYhAEoWbT4K9"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Strikes",
+        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 216693,
+      "name": "Train, Train",
+      "url": "https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -331,34 +331,34 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
-        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
+        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
+        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
         }
       ],
-      "duration_ms": 279893,
-      "name": "Hold On Loosely",
-      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
+      "duration_ms": 267173,
+      "name": "Gimme Three Steps",
+      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
     },
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Strikes",
-        "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
+        "name": "Million Mile Reflections",
+        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
       },
       "artists": [
         {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 216693,
-      "name": "Train, Train",
-      "url": "https://open.spotify.com/track/5bSpsKGoGKXOOfg7F3ZtKz"
+      "duration_ms": 215066,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
+        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Hold On Loosely",
+      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "The Whippoorwill",
         "url": "https://open.spotify.com/album/2jFnRLRUvsEfnmosLcwjCi"
       },
@@ -407,70 +423,6 @@
       "duration_ms": 298786,
       "name": "Ain't Much Left of Me",
       "url": "https://open.spotify.com/track/4jKBjyOdVKfmyauxwW8QUs"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Keep On Smilin'",
-        "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
-      },
-      "artists": [
-        {
-          "name": "Wet Willie",
-          "url": "https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Keep On Smilin'",
-      "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
-        "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 267173,
-      "name": "Gimme Three Steps",
-      "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Molly Hatchet",
-        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
-      },
-      "artists": [
-        {
-          "name": "Molly Hatchet",
-          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
-        }
-      ],
-      "duration_ms": 426000,
-      "name": "Dreams I'll Never See",
-      "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Rockin' Into The Night",
-        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Rockin' Into The Night",
-      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -507,18 +459,34 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "The Outlaws",
-        "url": "https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp"
+        "name": "Keep On Smilin'",
+        "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
       },
       "artists": [
         {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+          "name": "Wet Willie",
+          "url": "https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh"
         }
       ],
-      "duration_ms": 184360,
-      "name": "There Goes Another Love Song",
-      "url": "https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV"
+      "duration_ms": 237333,
+      "name": "Keep On Smilin'",
+      "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Molly Hatchet",
+        "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
+      },
+      "artists": [
+        {
+          "name": "Molly Hatchet",
+          "url": "https://open.spotify.com/artist/4ZqBwBVB3dsYWL3d5Spi10"
+        }
+      ],
+      "duration_ms": 426000,
+      "name": "Dreams I'll Never See",
+      "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -535,6 +503,22 @@
       "duration_ms": 450226,
       "name": "Tuesday's Gone",
       "url": "https://open.spotify.com/track/64sn7wgJfeQKY3Jisnl59w"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "The Outlaws",
+        "url": "https://open.spotify.com/album/5NR8rq89bfEMA7JJGzfFkp"
+      },
+      "artists": [
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "There Goes Another Love Song",
+      "url": "https://open.spotify.com/track/5jKdSZtw2yst6FzDJ4yvEV"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -571,6 +555,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Rockin' Into The Night",
+        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Rockin' Into The Night",
+      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -583,6 +583,22 @@
       "duration_ms": 147666,
       "name": "Feats Don't Fail Me Now",
       "url": "https://open.spotify.com/track/63WY1u5pDf6Nk5Z7xqmn9f"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Best Of...Green Grass & High Tides",
+        "url": "https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd"
+      },
+      "artists": [
+        {
+          "name": "The Outlaws",
+          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+        }
+      ],
+      "duration_ms": 586400,
+      "name": "Green Grass & High Tides - Remastered",
+      "url": "https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -619,22 +635,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "The Allman Brothers Band (Deluxe)",
-        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
-      },
-      "artists": [
-        {
-          "name": "Allman Brothers Band",
-          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
-        }
-      ],
-      "duration_ms": 317438,
-      "name": "Whipping Post",
-      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Right On Time",
         "url": "https://open.spotify.com/album/0HEuFHATf4xNesfim5EwMr"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Best Of...Green Grass & High Tides",
-        "url": "https://open.spotify.com/album/1MhPGLDNQLwtqxwJRU9brd"
+        "name": "The Allman Brothers Band (Deluxe)",
+        "url": "https://open.spotify.com/album/3BnNGoffl0O96ZlxYiPuml"
       },
       "artists": [
         {
-          "name": "The Outlaws",
-          "url": "https://open.spotify.com/artist/72JEwd3EjDEwTLypkFYJn9"
+          "name": "Allman Brothers Band",
+          "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 586400,
-      "name": "Green Grass & High Tides - Remastered",
-      "url": "https://open.spotify.com/track/4BxfXnGbnlibcUUPKog7Ne"
+      "duration_ms": 317438,
+      "name": "Whipping Post",
+      "url": "https://open.spotify.com/track/5JBUpI6OGZahUqchMKe6UY"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Where a Country Boy Belongs",
-        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
-      },
-      "artists": [
-        {
-          "name": "The Marshall Tucker Band",
-          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
-        }
-      ],
-      "duration_ms": 295666,
-      "name": "Heard It in a Love Song",
-      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Feats Don't Fail Me Now",
         "url": "https://open.spotify.com/album/5nflfddG6Tlrt2YiZhXJAD"
       },
@@ -779,18 +763,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "High On The Hog",
-        "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
+        "name": "Where a Country Boy Belongs",
+        "url": "https://open.spotify.com/album/0rP1zFi6WyUG9TxKmGknG1"
       },
       "artists": [
         {
-          "name": "Black Oak Arkansas",
-          "url": "https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU"
+          "name": "The Marshall Tucker Band",
+          "url": "https://open.spotify.com/artist/59QxeZBL6k9L4oJBGSyukd"
         }
       ],
-      "duration_ms": 161506,
-      "name": "Jim Dandy",
-      "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
+      "duration_ms": 295666,
+      "name": "Heard It in a Love Song",
+      "url": "https://open.spotify.com/track/3T3aWHBbX85hqRPsd8vhJB"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -807,6 +791,22 @@
       "duration_ms": 287040,
       "name": "Ain't Life Grand",
       "url": "https://open.spotify.com/track/4YslG4WvV5eXviT2q0gO8K"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "High On The Hog",
+        "url": "https://open.spotify.com/album/0dDpccoB4BNvUKVTUJyFkC"
+      },
+      "artists": [
+        {
+          "name": "Black Oak Arkansas",
+          "url": "https://open.spotify.com/artist/07xwCifj3iE7F6fYHin4TU"
+        }
+      ],
+      "duration_ms": 161506,
+      "name": "Jim Dandy",
+      "url": "https://open.spotify.com/track/0JFEn4sPozptBShOuqMQVs"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Keep On Smilin'",
-        "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
-      },
-      "artists": [
-        {
-          "name": "Wet Willie",
-          "url": "https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh"
-        }
-      ],
-      "duration_ms": 210426,
-      "name": "Country Side Of Life",
-      "url": "https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Get Right With The Man",
         "url": "https://open.spotify.com/album/1TlZtsAIXuZWNP8i7gKXsp"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 165320,
       "name": "Takin' Up Space",
       "url": "https://open.spotify.com/track/5sulm1kqJnbnqL4wo6xwRJ"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Keep On Smilin'",
+        "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
+      },
+      "artists": [
+        {
+          "name": "Wet Willie",
+          "url": "https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh"
+        }
+      ],
+      "duration_ms": 210426,
+      "name": "Country Side Of Life",
+      "url": "https://open.spotify.com/track/2qQusZC1YyZSLzhkffY9IG"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
+        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+      },
+      "artists": [
+        {
+          "name": "Dickey Betts",
+          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+        }
+      ],
+      "duration_ms": 396226,
+      "name": "Duane's Tune",
+      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "Sweet Southern Wind",
         "url": "https://open.spotify.com/album/71f9IDLMhdIrIZPzbTtKnw"
       },
@@ -1051,18 +1067,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Dickey Betts Band: Live At The Lone Star Roadhouse",
-        "url": "https://open.spotify.com/album/1vlb9RE7vvuZ2zo65pzTny"
+        "name": "Pattern Disruptive",
+        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
       },
       "artists": [
+        {
+          "name": "The Dickey Betts Band",
+          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
+        },
         {
           "name": "Dickey Betts",
           "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
         }
       ],
-      "duration_ms": 396226,
-      "name": "Duane's Tune",
-      "url": "https://open.spotify.com/track/3ZJ2fqZgjunv0RbEBeAowU"
+      "duration_ms": 298266,
+      "name": "Time To Roll",
+      "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1099,38 +1119,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Pattern Disruptive",
-        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
+        "name": "Cats On The Coast",
+        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
       },
       "artists": [
         {
-          "name": "The Dickey Betts Band",
-          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
-        },
-        {
-          "name": "Dickey Betts",
-          "url": "https://open.spotify.com/artist/5km3TReHXRqvDuC83Fw3u7"
+          "name": "Sea Level",
+          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
         }
       ],
-      "duration_ms": 298266,
-      "name": "Time To Roll",
-      "url": "https://open.spotify.com/track/4k4xeOTxpb6mkufYSSxfZp"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Potlatch",
-        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
-      },
-      "artists": [
-        {
-          "name": "The Bean Pickers Union",
-          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
-        }
-      ],
-      "duration_ms": 280346,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
+      "duration_ms": 316600,
+      "name": "That's Your Secret",
+      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Potlatch",
+        "url": "https://open.spotify.com/album/2eKxdmLv9lVT0cLDfWknLq"
+      },
+      "artists": [
+        {
+          "name": "The Bean Pickers Union",
+          "url": "https://open.spotify.com/artist/7c6Pn7mGHXd4M6Xyrg8UHT"
+        }
+      ],
+      "duration_ms": 280346,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/4M2we5cIRbXIIz5iCb7qQe"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "Alligator Stew",
         "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 240066,
       "name": "Two Wheels",
       "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Cats On The Coast",
-        "url": "https://open.spotify.com/album/3R4P3ai1blLNI2c8WXhpqR"
-      },
-      "artists": [
-        {
-          "name": "Sea Level",
-          "url": "https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP"
-        }
-      ],
-      "duration_ms": 316600,
-      "name": "That's Your Secret",
-      "url": "https://open.spotify.com/track/4cPgzpdeKtOkgBYqHNLe9P"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Pattern Disruptive",
+        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
+      },
+      "artists": [
+        {
+          "name": "The Dickey Betts Band",
+          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
+        }
+      ],
+      "duration_ms": 341933,
+      "name": "Rock Bottom",
+      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "The Johnny Van Zant Collection",
         "url": "https://open.spotify.com/album/3nBExAerr88StQ0lN8YWMe"
       },
@@ -1247,22 +1263,6 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Pattern Disruptive",
-        "url": "https://open.spotify.com/album/4MfdvvYsqYDUcmQBFKQdmq"
-      },
-      "artists": [
-        {
-          "name": "The Dickey Betts Band",
-          "url": "https://open.spotify.com/artist/27xGA3Cv8vhbzRPWPH7xHP"
-        }
-      ],
-      "duration_ms": 341933,
-      "name": "Rock Bottom",
-      "url": "https://open.spotify.com/track/0c4aazSW1tPBa77emdNRjv"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
         "name": "Dark Side of the Mule (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2V78RuVG8YmX509TP0DM51"
       },
@@ -1275,22 +1275,6 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Southern Delight/Barefoot Jerry",
-        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
-      },
-      "artists": [
-        {
-          "name": "Barefoot Jerry",
-          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Castle Rock",
-      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
-        "name": "Train, Train",
-        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
+        "name": "Southern Delight/Barefoot Jerry",
+        "url": "https://open.spotify.com/album/69OytdILaMW8zJVK5KXAXV"
       },
       "artists": [
         {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+          "name": "Barefoot Jerry",
+          "url": "https://open.spotify.com/artist/4FC6XIiULAVlbmfrrPXsZy"
         }
       ],
-      "duration_ms": 244400,
-      "name": "Gimme, Gimme, Gimme",
-      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
+      "duration_ms": 279266,
+      "name": "Castle Rock",
+      "url": "https://open.spotify.com/track/59Esi3fm62DbqaVdHWQhKT"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1339,6 +1323,22 @@
       "duration_ms": 242106,
       "name": "Can't Keep Running",
       "url": "https://open.spotify.com/track/09VHjYoL6VRHh5anKV1e09"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
+        "name": "Train, Train",
+        "url": "https://open.spotify.com/album/1XhDXpPbnaPmyB526mHa0I"
+      },
+      "artists": [
+        {
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+        }
+      ],
+      "duration_ms": 244400,
+      "name": "Gimme, Gimme, Gimme",
+      "url": "https://open.spotify.com/track/1f45G1LRvCKuq7BTC67HZx"
     },
     {
       "added_at": "2024-03-19 19:54:29",
@@ -1407,6 +1407,22 @@
     {
       "added_at": "2024-03-19 19:54:29",
       "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
+    },
+    {
+      "added_at": "2024-03-19 19:54:29",
+      "album": {
         "name": "Just Before The Bullets Fly",
         "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 205000,
       "name": "Keep Your Hands to Yourself",
       "url": "https://open.spotify.com/track/4MgGdPmbySSVLUPBxzQ7mx"
-    },
-    {
-      "added_at": "2024-03-19 19:54:29",
-      "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2024-03-19 19:54:29",

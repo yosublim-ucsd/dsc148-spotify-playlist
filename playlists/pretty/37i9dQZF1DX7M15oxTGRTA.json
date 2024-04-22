@@ -1,6 +1,6 @@
 {
   "description": "Soul Music daqui e de fora, um toque de sensibilidade. Foto: Cassiano",
-  "num_followers": 100407,
+  "num_followers": 100507,
   "original_name": "Melodia & Nostalgia",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "That's The Way Of The World",
+        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Perfect Angel",
         "url": "https://open.spotify.com/album/3TFzRE2Mm1uZcJeu91UNs9"
       },
@@ -251,18 +267,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "That's The Way Of The World",
-        "url": "https://open.spotify.com/album/5tXZfxvr2VaWibD74nw8VL"
+        "name": "Between the Sheets",
+        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
       },
       "artists": [
         {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
         }
       ],
-      "duration_ms": 299333,
-      "name": "Reasons",
-      "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
+      "duration_ms": 340013,
+      "name": "Between the Sheets",
+      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -299,22 +315,6 @@
       "duration_ms": 205906,
       "name": "If You Don't Know Me by Now (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/3NElqDNNnzvWYOwsbxLQKN"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Between the Sheets",
-        "url": "https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 340013,
-      "name": "Between the Sheets",
-      "url": "https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -483,18 +483,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Breakin' Away",
-        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
+        "name": "Maybe Tomorrow",
+        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
       },
       "artists": [
         {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
         }
       ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
+      "duration_ms": 177626,
+      "name": "Never Can Say Goodbye",
+      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -515,18 +515,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Maybe Tomorrow",
-        "url": "https://open.spotify.com/album/1RhSU65eltYthavUXScSzB"
+        "name": "Breakin' Away",
+        "url": "https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X"
       },
       "artists": [
         {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
         }
       ],
-      "duration_ms": 177626,
-      "name": "Never Can Say Goodbye",
-      "url": "https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT"
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -567,22 +567,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "In A Special Way",
-        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
-      },
-      "artists": [
-        {
-          "name": "DeBarge",
-          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
-        }
-      ],
-      "duration_ms": 225573,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "The Best Of Stephanie Mills",
         "url": "https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 325173,
       "name": "Never Knew Love Like This Before",
       "url": "https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "In A Special Way",
+        "url": "https://open.spotify.com/album/4TcXnypScHBMIwlVa1rGGa"
+      },
+      "artists": [
+        {
+          "name": "DeBarge",
+          "url": "https://open.spotify.com/artist/6is2U7I1jlI8PjxNZOHIMV"
+        }
+      ],
+      "duration_ms": 225573,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5jlcCqsD7yJdwhZYAhoCFY"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "3+3",
+        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 371706,
+      "name": "Summer Breeze, Pts. 1 & 2",
+      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "You've Got It Bad Girl",
         "url": "https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 307640,
       "name": "Ebony Eyes",
       "url": "https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "3+3",
-        "url": "https://open.spotify.com/album/27eI33obJuyKebMTxAJJam"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 371706,
-      "name": "Summer Breeze, Pts. 1 & 2",
-      "url": "https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -883,6 +883,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Open Our Eyes",
+        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 290186,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Q's Jook Joint",
         "url": "https://open.spotify.com/album/5zq1m9RP5iwHBRQlgbROx1"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 373266,
       "name": "You Put A Move On My Heart",
       "url": "https://open.spotify.com/track/1RjCsqiatsrQwQvqjecr30"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "Open Our Eyes",
-        "url": "https://open.spotify.com/album/5wELXR9l9i0ffOylTmpHV0"
-      },
-      "artists": [
-        {
-          "name": "Earth, Wind & Fire",
-          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
-        }
-      ],
-      "duration_ms": 290186,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/2RH61BqMEeRjfND7MQBWHU"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Nossa Imagina\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
-      },
-      "artists": [
-        {
-          "name": "Don Beto",
-          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
-        }
-      ],
-      "duration_ms": 215106,
-      "name": "Num Para\u00edso",
-      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Girassol",
         "url": "https://open.spotify.com/album/2z2VudqDCv38Pp6VuQvQmw"
       },
@@ -1447,22 +1431,6 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 300133,
-      "name": "Um dia de domingo",
-      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
         "name": "Let's Get It On (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3rDn7vWteVTxTbuLQXb6eC"
       },
@@ -1475,6 +1443,22 @@
       "duration_ms": 290933,
       "name": "Let's Get It On",
       "url": "https://open.spotify.com/track/39l1UORIhuHvUWfxG53tRZ"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
+        "name": "Nossa Imagina\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5xigVAuBgDEeKPJMdEu3n9"
+      },
+      "artists": [
+        {
+          "name": "Don Beto",
+          "url": "https://open.spotify.com/artist/7yuXKHgZGdEX0z4Fvx4laa"
+        }
+      ],
+      "duration_ms": 215106,
+      "name": "Num Para\u00edso",
+      "url": "https://open.spotify.com/track/70EBZBh1LIwvYuzdvtvPCI"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1543,6 +1527,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 300133,
+      "name": "Um dia de domingo",
+      "url": "https://open.spotify.com/track/41UtrfZQMk8598NmRIbZlt"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Let's Stay Together",
         "url": "https://open.spotify.com/album/5MQx9U0AAIrcbvZ0lL1RCi"
       },
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
+        "name": "Barry White - Universal Masters Collection",
+        "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 428240,
+      "name": "I'm Gonna Love You Just A Little More Baby",
+      "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
+    },
+    {
+      "added_at": "2023-09-14 19:15:58",
+      "album": {
         "name": "Pizzazz",
         "url": "https://open.spotify.com/album/3PgLKHkINPRRRA76eT6QJY"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 315440,
       "name": "Settle For My Love",
       "url": "https://open.spotify.com/track/2xRgzDEtR2eBz5dTgMvIpx"
-    },
-    {
-      "added_at": "2023-09-14 19:15:58",
-      "album": {
-        "name": "iCollection",
-        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 291106,
-      "name": "Me d\u00ea motivos",
-      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     },
     {
       "added_at": "2023-09-14 19:15:58",
@@ -1639,18 +1639,18 @@
     {
       "added_at": "2023-09-14 19:15:58",
       "album": {
-        "name": "Barry White - Universal Masters Collection",
-        "url": "https://open.spotify.com/album/5ogEmmn5ptsW34WRZLBOJs"
+        "name": "iCollection",
+        "url": "https://open.spotify.com/album/3yFSvoGiwt8MvGIhPvL4Sn"
       },
       "artists": [
         {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
         }
       ],
-      "duration_ms": 428240,
-      "name": "I'm Gonna Love You Just A Little More Baby",
-      "url": "https://open.spotify.com/track/4sfcHQgJdkB3g9itexwsvk"
+      "duration_ms": 291106,
+      "name": "Me d\u00ea motivos",
+      "url": "https://open.spotify.com/track/30DmZoDNZaaLTWtur7cI66"
     },
     {
       "added_at": "2023-09-14 19:15:58",

@@ -4,7 +4,7 @@
 
 > Enjoy music from "Detective Conan"! 映画「名探偵コナン」シリーズの世界を彩る音楽をプレイリストで。キャンペーン特設ページは<a href="https://movie.byspotify.com/conan\-2024">こちら</a>。©2024 青山剛昌／名探偵コナン製作委員会
 
-136 songs - 9 hr 50 min
+137 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,8 @@
 | [世界はあなたの色になる](https://open.spotify.com/track/7ynpWZgax9H43b9dWPU9wt) | [B'z](https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc) | [声明 / Still Alive](https://open.spotify.com/album/7edMjpLvwAPeYL2SxwyfkS) | 5:00 | 2022-10-01 |  |
 | [世界はまわると言うけれど](https://open.spotify.com/track/3OzF81F8P0WVqu3A2Lvrp3) | [GARNET CROW](https://open.spotify.com/artist/6vJEQqtEx2VB8clDzhyhvC) | [LOCKS](https://open.spotify.com/album/6ceRPwnBLq6RPE1IVldo3p) | 4:40 | 2022-10-01 | 2023-03-22 |
 | [光](https://open.spotify.com/track/5Z96ZmuknV8Obun3B0dxU1) | [BREAKERZ](https://open.spotify.com/artist/1U1oKFcjwl8Tb3b3APG9lE) | [BREAKERZ×名探偵コナン COLLABORATION BEST](https://open.spotify.com/album/04Ym0xEthdAQepiCKzrYrw) | 5:43 | 2022-10-01 | 2023-03-22 |
-| [劇場版『名探偵コナン 100万ドルの五稜星』第1回 高山みなみ×山口勝平「怪盗キッドはエンターテイナー！」](https://open.spotify.com/episode/1rcqAcES39SOTxebOOdK0z) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 27:59 | 2024-04-16 |  |
+| [劇場版『名探偵コナン 100万ドルの五稜星』第1回 高山みなみ×山口勝平「怪盗キッドはエンターテイナー！」](https://open.spotify.com/episode/1rcqAcES39SOTxebOOdK0z) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 27:59 | 2024-04-16 | 2024-04-22 |
+| [劇場版『名探偵コナン 100万ドルの五稜星』第2回 高山みなみ×山口勝平「劇場版の収録はお祭り気分！」](https://open.spotify.com/episode/0WnezOA9NoA1o3dRAwJ9o3) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/show/71KYRSpbEPEKsMYNF4qUik) | [名探偵コナン 100万ドルの五稜星 \- ANIZONE特別編](https://open.spotify.com/album/71KYRSpbEPEKsMYNF4qUik) | 31:59 | 2024-04-22 |  |
 | [名探偵コナン メイン・テーマ \- 摩天楼ヴァージョン](https://open.spotify.com/track/5vWYRXIw88ZKaOjsvFuWus) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 時計じかけの摩天楼 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/1KvpgzU0FqKKvneATY175e) | 2:27 | 2023-03-21 |  |
 | [名探偵コナン メイン・テーマ \- 暗殺者ヴァージョン](https://open.spotify.com/track/4ELXBKQHnfWiNt6OUcSo15) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [名探偵コナン 瞳の中の暗殺者 \(オリジナル・サウンドトラック\)](https://open.spotify.com/album/0fAhvb5Ir2kHM2DREhn45a) | 2:32 | 2022-10-01 |  |
 | [名探偵コナンメインテーマ\(ゼロの執行人ヴァージョン\)](https://open.spotify.com/track/1AgohkbIwKIyZ2V7ARhs66) | [Katsuo Ohno](https://open.spotify.com/artist/3qqjOqSKN1IKax9C8VmFmZ) | [「名探偵コナン ゼロの執行人」オリジナル・サウンドトラック](https://open.spotify.com/album/6MVxKQc17vJKQqoApjDq7R) | 2:16 | 2022-10-01 |  |

@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 1039137,
+  "2024-04-22": 1038685,
   "date_first_scraped": "2023-07-28",
   "description": "Wenn die Tage l\u00e4nger werden und die Luft w\u00e4rmer - diese Tracks begleiten dich in den Fr\u00fchling.",
   "name": "Fr\u00fchlings Chillout",
@@ -1942,6 +1942,24 @@
     },
     {
       "album": {
+        "name": "Damn the Wild Air, Pt. 01",
+        "url": "https://open.spotify.com/album/2vi9ZLXr7t48sW4c07GMwk"
+      },
+      "artists": [
+        {
+          "name": "JONAH",
+          "url": "https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207133,
+      "name": "Only Love",
+      "url": "https://open.spotify.com/track/7GSDVuT5iV0tSEvsnTmRtT"
+    },
+    {
+      "album": {
         "name": "SOS",
         "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
       },
@@ -2981,7 +2999,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 218727,
       "name": "Versailles (Hold) - Edit",
       "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"

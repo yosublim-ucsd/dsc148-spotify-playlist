@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 66955,
+  "2024-04-22": 67012,
   "date_first_scraped": "2022-09-22",
   "description": "Amapiano tracks to fuel your beast mode!",
   "name": "Beast Mode Amapiano",
@@ -3328,6 +3328,36 @@
     },
     {
       "album": {
+        "name": "Shuffle",
+        "url": "https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i"
+      },
+      "artists": [
+        {
+          "name": "Shuffle Muzik",
+          "url": "https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x"
+        },
+        {
+          "name": "Fire",
+          "url": "https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN"
+        },
+        {
+          "name": "Lynden X",
+          "url": "https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a"
+        },
+        {
+          "name": "Thabsoul",
+          "url": "https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375530,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
+    },
+    {
+      "album": {
         "name": "Notumato",
         "url": "https://open.spotify.com/album/4ojp3TfH4piWMEvqJ7Foge"
       },
@@ -4283,7 +4313,7 @@
       ],
       "date_added": "2023-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 437712,
       "name": "Welcome To Cairo!",
       "url": "https://open.spotify.com/track/12OOvIG2fJkojf998UXLrA"

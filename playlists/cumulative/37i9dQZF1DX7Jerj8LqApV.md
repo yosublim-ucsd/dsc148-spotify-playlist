@@ -4,7 +4,7 @@
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-98 songs - 6 hr 32 min
+99 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [B.A.D.](https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [B.A.D.](https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM) | 2:50 | 2023-11-10 |  |
 | [Bahaghari \(Halika na\)](https://open.spotify.com/track/1i0Kp24hzORn8FPXlS7TEt) | [Sandiwa](https://open.spotify.com/artist/720Zve67rPRTRjyI9Qsb0q) | [Bahaghari \(Halika na\)](https://open.spotify.com/album/1cz9BF4Rs8M9IvjT9dI6wB) | 3:55 | 2024-02-07 | 2024-02-21 |
 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 | 2023-11-10 | 2023-11-28 |
-| [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2023-12-08 |  |
+| [Binibini](https://open.spotify.com/track/2X5AFygz5SDYlXagyPw8kX) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Binibini](https://open.spotify.com/album/0oJLtle44OSumLZj1WDEf0) | 3:41 | 2023-12-08 | 2024-04-22 |
 | [Bituin](https://open.spotify.com/track/014ZhS6LpxihZ1lW8hir4F) | [Ame](https://open.spotify.com/artist/5FBMWQ27y0de4TaZawQ7bN) | [Bituin](https://open.spotify.com/album/1N0KVT7nC3flNBZn7cjFto) | 5:50 | 2023-10-18 | 2023-11-11 |
 | [Bukod\-Tangi](https://open.spotify.com/track/66tKd60oZUTAK0PdmXJl09) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Bukod\-Tangi](https://open.spotify.com/album/4yAWdaZDMWNCNrpwd745NH) | 3:42 | 2024-02-20 | 2024-02-27 |
 | [Closer You and I](https://open.spotify.com/track/4yefFdkOF4T8rN6OAO7RIP) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2) | [Closer You and I](https://open.spotify.com/album/3oiv09ehNwGqaLWk3TDBgA) | 4:00 | 2024-04-17 |  |
@@ -88,6 +88,7 @@
 | [RomCom](https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3) | [Rob Deniel](https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT) | [RomCom](https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX) | 3:57 | 2023-12-08 |  |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2023-10-18 |  |
 | [Saan?](https://open.spotify.com/track/61DuXKQqvXkxcrAIiNLIgR) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Saan?](https://open.spotify.com/album/2USw0nRD3YRnfofRyufJnR) | 3:26 | 2023-10-18 |  |
+| [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 | 2024-04-17 |  |
 | [Sagada](https://open.spotify.com/track/2wh4fGevm9QWeZtUXEJYCp) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Sagada](https://open.spotify.com/album/5atwOm2uqTx0Zy9Hc3K0xs) | 4:10 | 2024-02-20 | 2024-03-30 |
 | [Same Ground](https://open.spotify.com/track/5ghwi50zKaBUuWoSA1tPCw) | [Rangel](https://open.spotify.com/artist/0bleiPugTnkqSUBnepa7Xi) | [Same Ground](https://open.spotify.com/album/57ixBNu71U56E9NJ5JRX60) | 3:22 | 2023-10-25 | 2023-11-11 |
 | [Sayo Lamang](https://open.spotify.com/track/5Qf7Rx5Mpvs95k1Inotcfa) | [Lipip](https://open.spotify.com/artist/4NslYs4dIwJjyAmfak2Yc2) | [Sayo Lamang](https://open.spotify.com/album/1BE5KW5Pk2Y6Xz7qzhRvyh) | 3:04 | 2023-10-18 | 2023-11-11 |

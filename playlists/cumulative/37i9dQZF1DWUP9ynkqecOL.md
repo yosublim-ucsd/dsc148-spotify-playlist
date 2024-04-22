@@ -4,7 +4,7 @@
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-114 songs - 8 hr 30 min
+115 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Cañaveral](https://open.spotify.com/track/59SisvjSeXXmlO39EKze2d) | [Rumbo Tumba](https://open.spotify.com/artist/7rure1hFRz36lJv4LSTXxH), [El Búho](https://open.spotify.com/artist/1I7FVmvisCtSFzmm87mbLR) | [Cañaveral](https://open.spotify.com/album/2x4XQ6Fj0DUh66uiT1vYTB) | 2:58 | 2024-03-29 |  |
 | [Chilenitas \(Orozco / Barrientos\) \[Remix\]](https://open.spotify.com/track/2EuAmjrBtJaqc46VhizcGs) | [Puna](https://open.spotify.com/artist/7e3Y09KPFBjqyMICWFdyeZ) | [Vol\. 1](https://open.spotify.com/album/5qtEX6yktv2BXT0s2bI6l8) | 6:19 | 2023-08-11 |  |
 | [Cometa](https://open.spotify.com/track/57579JMa428PUzNyRHRtsm) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [La Estrella](https://open.spotify.com/album/7quHZhPNAMaxImHsjrOkSr) | 4:56 | 2023-08-11 | 2024-04-19 |
+| [Cometa](https://open.spotify.com/track/6YIAGoFSZDu5BkjMBmXZVD) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Fémina](https://open.spotify.com/artist/6Saxi5uCjuMzIGcqqvTumR) | [Cometa](https://open.spotify.com/album/7qXYhzhdXPMPLwI9ikmiTP) | 4:56 | 2024-03-29 |  |
 | [Como la Cigarra](https://open.spotify.com/track/276D6h5wgvcyhcGxFIJXGV) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7) | [Como la Cigarra](https://open.spotify.com/album/1gnN6SQHW3qjUsGhCwP5xH) | 4:09 | 2023-11-10 |  |
 | [Coplita](https://open.spotify.com/track/1X7DuK2wnKRwijmxtF8mYj) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Amansara](https://open.spotify.com/album/7KJruqiZwhVmnfW3CfvIPu) | 3:49 | 2023-08-11 | 2024-04-19 |
 | [Coplita](https://open.spotify.com/track/4s6MCWAr01enmTFE9miOPC) | [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl), [Miriam García](https://open.spotify.com/artist/2mOHlObkV2dhspvDzllGOS) | [Amansara](https://open.spotify.com/album/14DTBgOPUSBQwiK0DCzaLl) | 3:49 | 2024-03-29 |  |
@@ -90,7 +91,7 @@
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/3hyFE4ZFa1kljhj4EKOWjh) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/2kiwiXeBYtNKbFQnzrLTLO) | 4:01 | 2024-03-29 |  |
 | [Peoncito de Estancia \- Kaleema Remix](https://open.spotify.com/track/0zIiND609voPOWidaLjnYi) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH), [Kaleema](https://open.spotify.com/artist/7o5v2sjfFaMOgUKtfMQRWW) | [Pluma \(Un Disco de Reversiones de la San Llamarada\)](https://open.spotify.com/album/75WAti5nxvS6YsoKr9jnUO) | 4:01 | 2023-08-11 | 2024-04-19 |
 | [Que Bailen](https://open.spotify.com/track/1OiEdS4FTTJlMMplNKHomb) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Asimetrico](https://open.spotify.com/album/0MlR0D5QnF9PLS7wQjHXit) | 5:14 | 2023-08-11 | 2024-04-19 |
-| [Que Bailen](https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Que Bailen](https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP) | 5:14 | 2024-03-29 |  |
+| [Que Bailen](https://open.spotify.com/track/4KTS3P0abOevRe35oIWO6I) | [El Remolón](https://open.spotify.com/artist/2ubr2Ri0ue6a0XHFWLJyaR), [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Que Bailen](https://open.spotify.com/album/3CLefmLn6lJPMOSaDUGEaP) | 5:14 | 2024-03-29 | 2024-04-22 |
 | [Quita La Pena](https://open.spotify.com/track/2RU0QArxmFL37mUih06i4d) | [Terraplén](https://open.spotify.com/artist/3o1PqOdaqzmzkYtYdUQxNe) | [Terraplén](https://open.spotify.com/album/2W1GIoYBLIXXIwTHC2xk9Q) | 3:56 | 2024-03-29 |  |
 | [Recién He Llegado Vidita \(Recopilación Leda Valladares\)](https://open.spotify.com/track/0wy9RdnvIvuH63aygXv0dm) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp) | [AMA](https://open.spotify.com/album/02fcZ97Z4wjbM0143uMLUI) | 4:47 | 2023-08-11 |  |
 | [Reverdecer \- Remix](https://open.spotify.com/track/6dmYVOQHqiFvgZLGExgwcB) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Reverdecer \(Remix\)](https://open.spotify.com/album/5Jdbh1vxLk6vy5D8Uj8yQG) | 3:01 | 2023-08-11 | 2024-04-19 |

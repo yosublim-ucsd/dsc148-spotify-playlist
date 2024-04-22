@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 6377,
+  "num_followers": 6455,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "El Beso (feat. Mathieu Ruz)",
-        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
-      },
-      "artists": [
-        {
-          "name": "Dombresky",
-          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 211547,
-      "name": "El Beso (feat. Mathieu Ruz)",
-      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "El Baile",
         "url": "https://open.spotify.com/album/2DOVXXA1GO8R4vn37YqCLM"
       },
@@ -1011,6 +991,26 @@
       "duration_ms": 174880,
       "name": "El Baile",
       "url": "https://open.spotify.com/track/1KUQ3lq3GuwW5wAUF4tOGb"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "El Beso (feat. Mathieu Ruz)",
+        "url": "https://open.spotify.com/album/5rCFh5wOLyHTfPicJom5eA"
+      },
+      "artists": [
+        {
+          "name": "Dombresky",
+          "url": "https://open.spotify.com/artist/2GVtgxcx7jg5xVCZsIHSGN"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 211547,
+      "name": "El Beso (feat. Mathieu Ruz)",
+      "url": "https://open.spotify.com/track/0Rgi5EktdB5EFgMjU4YTnx"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1147,6 +1147,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Satisfied",
+        "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
+      },
+      "artists": [
+        {
+          "name": "David Penn",
+          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
+        },
+        {
+          "name": "OFFAIAH",
+          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+        }
+      ],
+      "duration_ms": 186713,
+      "name": "Satisfied",
+      "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Serena",
         "url": "https://open.spotify.com/album/6Ri9fNMTIfBOfGyXtl6dom"
       },
@@ -1171,22 +1191,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Toma Que Toma",
-        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 227076,
-      "name": "Toma Que Toma",
-      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Bim Boom Bam",
         "url": "https://open.spotify.com/album/5jIkBRxJrtk14bkHIGmf1k"
       },
@@ -1203,22 +1207,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Satisfied",
-        "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
+        "name": "Toma Que Toma",
+        "url": "https://open.spotify.com/album/5zYPO8F5ByuZXxvSfBR5dd"
       },
       "artists": [
         {
-          "name": "David Penn",
-          "url": "https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki"
-        },
-        {
-          "name": "OFFAIAH",
-          "url": "https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO"
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
         }
       ],
-      "duration_ms": 186713,
-      "name": "Satisfied",
-      "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
+      "duration_ms": 227076,
+      "name": "Toma Que Toma",
+      "url": "https://open.spotify.com/track/3UaBvKvmGxlZ1PINFSQdB1"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1279,22 +1279,6 @@
       "duration_ms": 180014,
       "name": "Senta Relaxa",
       "url": "https://open.spotify.com/track/3ZNU9pcZeoGy0wMmThJ4XP"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Vai Caralho (Do togo)",
-        "url": "https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN"
-      },
-      "artists": [
-        {
-          "name": "Andruss",
-          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
-        }
-      ],
-      "duration_ms": 188538,
-      "name": "Vai Caralho (Do togo)",
-      "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1379,26 +1363,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Toma Dale",
-        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
-      },
-      "artists": [
-        {
-          "name": "Classmatic",
-          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
-        },
-        {
-          "name": "Nfasis",
-          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
-        }
-      ],
-      "duration_ms": 323763,
-      "name": "Toma Dale",
-      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Me Gusta",
         "url": "https://open.spotify.com/album/2CaLuhIpgR5omJCyx2rnm4"
       },
@@ -1439,6 +1403,42 @@
       "duration_ms": 246027,
       "name": "Ay",
       "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Vai Caralho (Do togo)",
+        "url": "https://open.spotify.com/album/4bxHE4s7X3LQwPGVS4CqmN"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        }
+      ],
+      "duration_ms": 188538,
+      "name": "Vai Caralho (Do togo)",
+      "url": "https://open.spotify.com/track/0L4U0wnIFUktjTk9Vcfv0W"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Toma Dale",
+        "url": "https://open.spotify.com/album/3OWVF4FS8KScMPHZ5avdUr"
+      },
+      "artists": [
+        {
+          "name": "Classmatic",
+          "url": "https://open.spotify.com/artist/2vOQkFQDXp4QV77pnlet6m"
+        },
+        {
+          "name": "Nfasis",
+          "url": "https://open.spotify.com/artist/5ypEYwWaSgtjBPCPcredFM"
+        }
+      ],
+      "duration_ms": 323763,
+      "name": "Toma Dale",
+      "url": "https://open.spotify.com/track/3plaSBlILmcUoVBAHDca5c"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Bandolera (feat. Buza)",
-        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        },
-        {
-          "name": "Buza",
-          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Bandolera (feat. Buza)",
-      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Dimini",
         "url": "https://open.spotify.com/album/3ygKQsnMN1nBrpsxYYnlny"
       },
@@ -1671,6 +1651,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Bandolera (feat. Buza)",
+        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
+      },
+      "artists": [
+        {
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "Buza",
+          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
+        }
+      ],
+      "duration_ms": 175040,
+      "name": "Bandolera (feat. Buza)",
+      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
       },
@@ -1683,38 +1683,6 @@
       "duration_ms": 225116,
       "name": "La Fiesta",
       "url": "https://open.spotify.com/track/3SrNF6KtlYy8xVOHi8F9xC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Esta Vaina",
-        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
-      },
-      "artists": [
-        {
-          "name": "Truth x Lies",
-          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
-        }
-      ],
-      "duration_ms": 215699,
-      "name": "Esta Vaina",
-      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Soy Candela",
-        "url": "https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        }
-      ],
-      "duration_ms": 159523,
-      "name": "Soy Candela",
-      "url": "https://open.spotify.com/track/5G2LYJ2GDHfOZKekpAbIMh"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1751,6 +1719,22 @@
       "duration_ms": 140787,
       "name": "Tuku Tu",
       "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Esta Vaina",
+        "url": "https://open.spotify.com/album/3QgF3YoBLnrEKOT2IWOiuq"
+      },
+      "artists": [
+        {
+          "name": "Truth x Lies",
+          "url": "https://open.spotify.com/artist/3bh4M54m4LRs41WQs07Jy0"
+        }
+      ],
+      "duration_ms": 215699,
+      "name": "Esta Vaina",
+      "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1803,6 +1787,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Soy Candela",
+        "url": "https://open.spotify.com/album/5zpCg6IbOsWFsASZiMqZ1y"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        }
+      ],
+      "duration_ms": 159523,
+      "name": "Soy Candela",
+      "url": "https://open.spotify.com/track/5G2LYJ2GDHfOZKekpAbIMh"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Jaleo",
         "url": "https://open.spotify.com/album/1ZdmmuqN2FXZrSvR4bvu0C"
       },
@@ -1819,22 +1819,6 @@
       "duration_ms": 187500,
       "name": "Jaleo",
       "url": "https://open.spotify.com/track/1YcBeCPxCdPCxXOrWJEiwm"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Wimbo",
-        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
-      },
-      "artists": [
-        {
-          "name": "Miane",
-          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
-        }
-      ],
-      "duration_ms": 150488,
-      "name": "Wimbo",
-      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1867,38 +1851,34 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "HAVANA",
-        "url": "https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN"
+        "name": "Wimbo",
+        "url": "https://open.spotify.com/album/1g0MngSgjz9ZiPEe8thh87"
       },
       "artists": [
         {
-          "name": "Vince Morgana",
-          "url": "https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8"
-        },
-        {
-          "name": "GLADYS",
-          "url": "https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf"
+          "name": "Miane",
+          "url": "https://open.spotify.com/artist/6bprXdW2g8kg49tNslPQ6X"
         }
       ],
-      "duration_ms": 146666,
-      "name": "HAVANA",
-      "url": "https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s"
+      "duration_ms": 150488,
+      "name": "Wimbo",
+      "url": "https://open.spotify.com/track/7iTDDrMZszyVaTowWShuwf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Morena",
-        "url": "https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc"
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
       },
       "artists": [
         {
-          "name": "Henry Fong",
-          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
         }
       ],
-      "duration_ms": 170625,
-      "name": "Morena",
-      "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
+      "duration_ms": 263680,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1943,18 +1923,38 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Pronosticos Cachito",
-        "url": "https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e"
+        "name": "Morena",
+        "url": "https://open.spotify.com/album/2uV1mmtYPm4cGFnXWZa1kc"
       },
       "artists": [
         {
-          "name": "KinAhau",
-          "url": "https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB"
+          "name": "Henry Fong",
+          "url": "https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Pronosticos Cachito",
-      "url": "https://open.spotify.com/track/3lBQvzsycvySqg739cOGew"
+      "duration_ms": 170625,
+      "name": "Morena",
+      "url": "https://open.spotify.com/track/3pyYe4wjMV0ehhmBgZo9tE"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "HAVANA",
+        "url": "https://open.spotify.com/album/4a01OCAe3GzRCRpx67bXFN"
+      },
+      "artists": [
+        {
+          "name": "Vince Morgana",
+          "url": "https://open.spotify.com/artist/3OSIswp0zBG2rR96q1Rwp8"
+        },
+        {
+          "name": "GLADYS",
+          "url": "https://open.spotify.com/artist/1Prt0hPO7hG4KRGs9DPpDf"
+        }
+      ],
+      "duration_ms": 146666,
+      "name": "HAVANA",
+      "url": "https://open.spotify.com/track/1okjg2DZKCyA0w0iCDd10s"
     }
   ],
   "unique_name": "Latin House",

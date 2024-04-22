@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-271 songs - 14 hr 26 min
+272 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,11 +164,12 @@
 | [Mi Corazón Encantado](https://open.spotify.com/track/6NVX0ugkjMSeXJN8wB9JTn) | [Aaron Montalvo](https://open.spotify.com/artist/1MmC4gHYHB5GlVPfLapkmi) | [Dragon Ball GT](https://open.spotify.com/album/28bqDhECSrv4hV656tzYpB) | 3:33 | 2024-03-09 | 2024-03-19 |
 | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/track/5nkVhLA1qnWbH1QN1aR6lG) | [Elio Leiros](https://open.spotify.com/artist/3oOY07QqOUrLSEJ4AOv9rz), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [Mi Otra Mitad \(Remix\)](https://open.spotify.com/album/668u02QByaBqOr2YiJE0hW) | 3:14 | 2024-02-21 | 2024-02-28 |
 | [mi último peso](https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU) | [Foking](https://open.spotify.com/artist/60n2WytJgR3JHkeqJxZQrm), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Lisan Beat](https://open.spotify.com/artist/33mpx3IrKw93IM1C8tVSQi), [DommoBeats](https://open.spotify.com/artist/2kMVBdVpeeZOVpeirhykCc) | [mi último peso](https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT) | 2:20 | 2024-03-12 | 2024-03-20 |
-| [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 | 2024-01-31 |  |
+| [Mil preguntas](https://open.spotify.com/track/78Kl2Yvf2XXEDXGFNXfYIr) | [Marina Reche](https://open.spotify.com/artist/2fUMrRPj5xcEYXG5FoCTfw) | [Mil preguntas](https://open.spotify.com/album/68TdQaRchrJqDmOO1rizlq) | 3:19 | 2024-01-31 | 2024-04-22 |
 | [Mil Preguntas](https://open.spotify.com/track/4YntVuBqggRsASIbBoWT3F) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Luana](https://open.spotify.com/artist/6uJKnn4CV4IIop8mg4kCUy) | [Mil Preguntas](https://open.spotify.com/album/5ougKjEm8bDDKJQSEsWSSR) | 2:57 | 2024-03-26 |  |
 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 | 2024-04-09 |  |
 | [MONTAGEM DIAMANTE ROSA \- SLOWED](https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C) | [vtze archive](https://open.spotify.com/artist/3yn6fs9MkW1i4V3S2G8Dxs), [Mc Ster](https://open.spotify.com/artist/2RqjTHL40djgpNGG2LS9O0) | [MONTAGEM DIAMANTE ROSA](https://open.spotify.com/album/28N1pcdMLhrEajfJKkBkl1) | 1:54 | 2024-03-19 | 2024-03-27 |
 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 | 2024-03-25 | 2024-03-31 |
+| [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 | 2024-04-21 |  |
 | [Municiones \- Guaracha Remix](https://open.spotify.com/track/2pHb9SVMtiIQDOPU3iky9l) | [Martin Moreno](https://open.spotify.com/artist/59h2d6LEgTjC8LUySW54EA), [Axel Martinez](https://open.spotify.com/artist/55a3tmLfnZaniwPDbTr5NF) | [Municiones \(Guaracha Remix\)](https://open.spotify.com/album/6XFROdE4mopCvzyKssELvL) | 2:57 | 2024-04-11 | 2024-04-19 |
 | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/track/5ug5mDxyHaWjViEiDlMPCN) | [Blaster DJ](https://open.spotify.com/artist/04tXa59qDOMrlU6mWs6aqT) | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/album/2nzIp9cVhwXGnMuapTxzqV) | 3:21 | 2024-01-29 | 2024-04-07 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-29 | 2024-02-15 |

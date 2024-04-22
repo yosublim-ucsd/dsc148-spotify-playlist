@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 
 > El nuevo sonido argentino lo encontrás acá\. Foto: doppel gangs
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,036 likes - 100 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,707 likes - 100 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8ttjhONFA1.md) - [plain]
 | 27 | [Los Lunes](https://open.spotify.com/track/7COVceD2VIwMgh5tKnyWWv) | [Tango Astral](https://open.spotify.com/artist/3omZQ6YjfgYdViKE9mvm7j) | [Los Lunes](https://open.spotify.com/album/5aiLxQadEA6CoBZ2WgBhSS) | 2:59 |
 | 28 | [Vale Todo](https://open.spotify.com/track/40Za1VS1b5mkWSHrlSu6Db) | [Francisca y Los Exploradores](https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf), [Facundo Castaño Montoya](https://open.spotify.com/artist/4dXtpo9qIdpfR8renHkzqW) | [Deseo](https://open.spotify.com/album/51wJqhiJ1Ja7Zpn56rY9hz) | 2:46 |
 | 29 | [Mi Fiesta](https://open.spotify.com/track/1h1ryRXPpMLgXeYdq9qylK) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp) | [El Big Blue](https://open.spotify.com/album/1K6DMhbzgcx1T8e4HPnOX4) | 3:12 |
-| 30 | [la noche del viernes](https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [la noche del viernes](https://open.spotify.com/album/6Q2IqXwMVZvkDw4bZ4y1ls) | 3:01 |
+| 30 | [la noche del viernes](https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [la noche del viernes](https://open.spotify.com/album/6Q2IqXwMVZvkDw4bZ4y1ls) | 3:02 |
 | 31 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
 | 32 | [Lejos de Todo](https://open.spotify.com/track/6cdvRh5aYQdPdfr18T5Zmc) | [Mi Amigo Invencible](https://open.spotify.com/artist/2uxy7shOeojRrRr9EwD2t7) | [Lejos de Todo](https://open.spotify.com/album/4T4AjXYchVi4s3JVTN2GbX) | 2:54 |
 | 33 | [Desaparecer](https://open.spotify.com/track/6PDPcB56TilUyxwSzi1qIi) | [Peces Raros](https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9) | [Desaparecer](https://open.spotify.com/album/0YPzpvzXBQJFLv4SOM3Lqk) | 3:16 |

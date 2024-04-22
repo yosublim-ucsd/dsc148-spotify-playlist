@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 > This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,925 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,934 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [What U Want](https://open.spotify.com/track/4wOyrbNG5eEv5ZF5oVqHtX) | [Lil Xxel](https://open.spotify.com/artist/7iDeMFJKjI1ak40N3hoYOZ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [What U Want](https://open.spotify.com/album/2dHNueuBm0PuI5gF5J5Ubh) | 3:44 |
 | 50 | [Isabel Marant](https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:37 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMDNjOTI0MWVjOTZmZjBmMmFhZmNjNjg4ZjQwYzlkNTI4`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGE4OTRiNWFmZjEyNjBhZDViODU4ODY0YmNlOTc0ZWIx`

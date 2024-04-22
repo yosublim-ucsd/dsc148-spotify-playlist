@@ -1,12 +1,12 @@
 {
   "description": "This Is Panteon Rococo. Los temas esenciales, todos en una lista.",
-  "num_followers": 212818,
+  "num_followers": 212758,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDMzNzMwNTU2ZTk0ZTdkMjJkM2M5ODQ0M2IwNDcyOWQ5",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDk2YTIzODI3MmQyNmNmYTQ4NzVlZDQ1NGQ5ZGI1Y2I5",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fuera de Control",
-        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 210824,
-      "name": "Fuera de Control",
-      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "XX A\u00f1os (En Vivo)",
         "url": "https://open.spotify.com/album/4YfBlW4L2iqbqq7masWr9V"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 222746,
       "name": "Mar\u00eda (feat. To\u00f1o Lira) - En Vivo",
       "url": "https://open.spotify.com/track/5Frqok1Wj7ljQJX7hBx23B"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fuera de Control",
+        "url": "https://open.spotify.com/album/1ij0qU5LuG9HqJyMujjyWt"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 210824,
+      "name": "Fuera de Control",
+      "url": "https://open.spotify.com/track/22KvARMRAQ0i0F28lDUkTl"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 116506,
+  "num_followers": 116603,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Take Me Home, Country Roads",
-        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
-      },
-      "artists": [
-        {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-        }
-      ],
-      "duration_ms": 166676,
-      "name": "Take Me Home, Country Roads",
-      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
         "name": "Halo",
         "url": "https://open.spotify.com/album/2VJD6kU8nmxXVrScRyddqV"
       },
@@ -163,6 +147,22 @@
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
+        "name": "Take Me Home, Country Roads",
+        "url": "https://open.spotify.com/album/5qDjtBY8cC4bO6wytuGOuT"
+      },
+      "artists": [
+        {
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+        }
+      ],
+      "duration_ms": 166676,
+      "name": "Take Me Home, Country Roads",
+      "url": "https://open.spotify.com/track/7qF0FfuzBFwMe1lNHkEDxW"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Afterglow",
-        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 185486,
-      "name": "Afterglow",
-      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
         "name": "XO",
         "url": "https://open.spotify.com/album/305TANxsPTFkiqS4cEilx1"
       },
@@ -247,18 +231,18 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "me va a costar",
-        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+        "name": "Afterglow",
+        "url": "https://open.spotify.com/album/5bb2Sf8jps2DTyI2urMThV"
       },
       "artists": [
         {
-          "name": "Kevin Kaarl",
-          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 228266,
-      "name": "me va a costar",
-      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
+      "duration_ms": 185486,
+      "name": "Afterglow",
+      "url": "https://open.spotify.com/track/0E4Y1XIbs8GrAT1YqVy6dq"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -279,6 +263,22 @@
       "duration_ms": 205467,
       "name": "Trevo (Tu)",
       "url": "https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
+        "name": "me va a costar",
+        "url": "https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9"
+      },
+      "artists": [
+        {
+          "name": "Kevin Kaarl",
+          "url": "https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE"
+        }
+      ],
+      "duration_ms": 228266,
+      "name": "me va a costar",
+      "url": "https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -555,6 +555,22 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
+        "name": "Happier Than Ever",
+        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 194886,
+      "name": "Male Fantasy",
+      "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
         "name": "Paradise Valley",
         "url": "https://open.spotify.com/album/712VoD72K500yLhhgqCyVe"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 249933,
       "name": "Who You Love (feat. Katy Perry)",
       "url": "https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
-        "name": "Happier Than Ever",
-        "url": "https://open.spotify.com/album/5tzRuO6GP7WRvP3rEOPAO9"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 194886,
-      "name": "Male Fantasy",
-      "url": "https://open.spotify.com/track/13lUUFsU6GMvRDN432qKxX"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 133960,
+      "name": "Just a Song Before I Go",
+      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
         "name": "Seven Nation Army",
         "url": "https://open.spotify.com/album/0v1JwHkMxT27evapwgUcvp"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 249080,
       "name": "Shot in the Dark",
       "url": "https://open.spotify.com/track/239yM7BAQ2CkNc61ogPGXo"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 133960,
-      "name": "Just a Song Before I Go",
-      "url": "https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Rock It",
-        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 207595,
-      "name": "Rock It",
-      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
         "name": "Miragem",
         "url": "https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 213351,
       "name": "Miragem",
       "url": "https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
+        "name": "Rock It",
+        "url": "https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 207595,
+      "name": "Rock It",
+      "url": "https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3"
     },
     {
       "added_at": "2024-03-08 22:42:45",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-03-08 22:42:45",
       "album": {
-        "name": "Riptide",
-        "url": "https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C"
-    },
-    {
-      "added_at": "2024-03-08 22:42:45",
-      "album": {
         "name": "Wake Up Now",
         "url": "https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 224946,
       "name": "Unconditional",
       "url": "https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX"
+    },
+    {
+      "added_at": "2024-03-08 22:42:45",
+      "album": {
+        "name": "Riptide",
+        "url": "https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C"
     },
     {
       "added_at": "2024-03-08 22:42:45",

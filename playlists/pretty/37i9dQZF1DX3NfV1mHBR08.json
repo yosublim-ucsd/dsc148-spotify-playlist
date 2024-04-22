@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14895,
+  "num_followers": 14893,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -155,22 +155,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Red Moon: To You My Light",
         "url": "https://open.spotify.com/album/1pqAIHe422sy6zGwJhvcqO"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 265586,
       "name": "To You My Light (feat. LEE RAON)",
       "url": "https://open.spotify.com/track/5kPpA4aMFeAQnahSnTIOi4"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -279,22 +279,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "H1-KEYnote #2 [Deeper]",
-        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
-      },
-      "artists": [
-        {
-          "name": "H1-KEY",
-          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Deeper",
-      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "28",
         "url": "https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull"
       },
@@ -311,18 +295,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Still the Same",
-        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
+        "name": "H1-KEYnote #2 [Deeper]",
+        "url": "https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN"
       },
       "artists": [
         {
-          "name": "KYUL",
-          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+          "name": "H1-KEY",
+          "url": "https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU"
         }
       ],
-      "duration_ms": 148002,
-      "name": "Still the Same",
-      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
+      "duration_ms": 216160,
+      "name": "Deeper",
+      "url": "https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -343,6 +327,22 @@
       "duration_ms": 217412,
       "name": "Palette (feat. G-DRAGON)",
       "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Still the Same",
+        "url": "https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu"
+      },
+      "artists": [
+        {
+          "name": "KYUL",
+          "url": "https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm"
+        }
+      ],
+      "duration_ms": 148002,
+      "name": "Still the Same",
+      "url": "https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "I Mean",
-        "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
-      },
-      "artists": [
-        {
-          "name": "BTOB",
-          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
-        }
-      ],
-      "duration_ms": 240009,
-      "name": "Way Back Home",
-      "url": "https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Palette",
         "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 253293,
       "name": "Through the Night",
       "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "I Mean",
+        "url": "https://open.spotify.com/album/2SSsz0XFUeTYZfGWRLFswR"
+      },
+      "artists": [
+        {
+          "name": "BTOB",
+          "url": "https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ"
+        }
+      ],
+      "duration_ms": 240009,
+      "name": "Way Back Home",
+      "url": "https://open.spotify.com/track/2YeozkaCbAYWOdjMKahrjU"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -515,6 +515,22 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
+        "name": "Love poem",
+        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 258238,
+      "name": "Love poem",
+      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
         "name": "Fighting!",
         "url": "https://open.spotify.com/album/2BEu1ulaGHvhNYmOcurP80"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 218523,
       "name": "Dear Diary",
       "url": "https://open.spotify.com/track/2qgA8fMwtftAhDzkd6mhgD"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
-        "name": "Love poem",
-        "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 258238,
-      "name": "Love poem",
-      "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Lonely night",
-        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
-      },
-      "artists": [
-        {
-          "name": "BEN",
-          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
-        }
-      ],
-      "duration_ms": 215693,
-      "name": "Lonely night",
-      "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "Girls Planet 999 - Completion Mission",
         "url": "https://open.spotify.com/album/41RRWp0vb7RnUifsD78stU"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "WE:TH",
-        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
+        "name": "Lonely night",
+        "url": "https://open.spotify.com/album/1PPYjHO08pHBbIKvWrx5jA"
       },
       "artists": [
         {
-          "name": "PENTAGON",
-          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+          "name": "BEN",
+          "url": "https://open.spotify.com/artist/0bDdOBGVCFVt0f8N9ldW1k"
         }
       ],
-      "duration_ms": 183946,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/2dfk8VM64Xe22itp2bn4rX"
+      "duration_ms": 215693,
+      "name": "Lonely night",
+      "url": "https://open.spotify.com/track/33uSVRloZKosKDrGz4eIGS"
     },
     {
       "added_at": "2024-03-08 06:40:15",
@@ -691,6 +675,22 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
+        "name": "WE:TH",
+        "url": "https://open.spotify.com/album/1ASYbBYBwV6Rcfc2ycqmlK"
+      },
+      "artists": [
+        {
+          "name": "PENTAGON",
+          "url": "https://open.spotify.com/artist/1wKpMkucynaTfG8lyPprYV"
+        }
+      ],
+      "duration_ms": 183946,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/2dfk8VM64Xe22itp2bn4rX"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
         "name": "Happiness",
         "url": "https://open.spotify.com/album/54Or2CfKCxw4UK1U0Sbgc8"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-03-08 06:40:15",
       "album": {
-        "name": "Listen to this song",
-        "url": "https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 223644,
-      "name": "Listen to this song",
-      "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
-    },
-    {
-      "added_at": "2024-03-08 06:40:15",
-      "album": {
         "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
         "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 357120,
       "name": "\u1102\u1162\u1100\u1161 \u1102\u1175\u1111\u1167\u11ab\u110b\u1175 \u1103\u116c\u110b\u1165 \u110c\u116e\u11af\u1100\u1166 I Will Be on Your Side",
       "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
+    },
+    {
+      "added_at": "2024-03-08 06:40:15",
+      "album": {
+        "name": "Listen to this song",
+        "url": "https://open.spotify.com/album/6Jq8RAeVPIY6mlr6uj1yir"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 223644,
+      "name": "Listen to this song",
+      "url": "https://open.spotify.com/track/3Nei4vBEJMjEiQFThLsHrG"
     },
     {
       "added_at": "2024-03-08 06:40:15",

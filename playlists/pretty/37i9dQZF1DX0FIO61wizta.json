@@ -1,6 +1,6 @@
 {
   "description": "Verdi was the undisputed king of Italian opera in the 19th century. Explore his greatest works, including Rigoletto and La Traviata, right here.",
-  "num_followers": 77139,
+  "num_followers": 77146,
   "original_name": "This Is Verdi",
   "owner": {
     "name": "Spotify",
@@ -179,30 +179,6 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
-        "name": "Verdi: La Traviata",
-        "url": "https://open.spotify.com/album/79g1os8AKRFd8iQwCaokGR"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "National Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
-        },
-        {
-          "name": "Richard Bonynge",
-          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
-        }
-      ],
-      "duration_ms": 247120,
-      "name": "La traviata / Act 1: Prelude",
-      "url": "https://open.spotify.com/track/3gHhHH1raH4Xf7j1YkvlTX"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
         "name": "Verdi: La Traviata - Highlights",
         "url": "https://open.spotify.com/album/4Z7x65Pdm8AWeA8rtSXzcv"
       },
@@ -235,6 +211,30 @@
       "duration_ms": 169333,
       "name": "La traviata / Act 1: Libiamo ne'lieti calici",
       "url": "https://open.spotify.com/track/2jPFGSbq3exl6sc9udZPr2"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: La Traviata",
+        "url": "https://open.spotify.com/album/79g1os8AKRFd8iQwCaokGR"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "National Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2Ek1WGW7WeyDoxsZiu0AAd"
+        },
+        {
+          "name": "Richard Bonynge",
+          "url": "https://open.spotify.com/artist/6JAPOSeaWl61UBRKZYgAeZ"
+        }
+      ],
+      "duration_ms": 247120,
+      "name": "La traviata / Act 1: Prelude",
+      "url": "https://open.spotify.com/track/3gHhHH1raH4Xf7j1YkvlTX"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1064,34 +1064,6 @@
       "added_at": "2022-06-27 14:42:44",
       "album": {
         "name": "Verdi: Nabucco",
-        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Piero Cappuccilli",
-          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
-        },
-        {
-          "name": "Orchester der Deutschen Oper Berlin",
-          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
-        },
-        {
-          "name": "Giuseppe Sinopoli",
-          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
-        }
-      ],
-      "duration_ms": 180400,
-      "name": "Nabucco / Act 4: Dio di Giuda!",
-      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Nabucco",
         "url": "https://open.spotify.com/album/6dLhLAMPKpxpyhKjphx62U"
       },
       "artists": [
@@ -1119,6 +1091,34 @@
       "duration_ms": 667640,
       "name": "Verdi: Nabucco, Act 3: \"Donna, chi sei?\" - \"Chi \u00e8 costei?... Oh, di qual'onta aggravisi\" (Nabucco, Abigaille)",
       "url": "https://open.spotify.com/track/74hbxXrq3TYPK5JzDgHkeL"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
+        "name": "Verdi: Nabucco",
+        "url": "https://open.spotify.com/album/0qup4PMyopHsRFROiy1HYt"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Piero Cappuccilli",
+          "url": "https://open.spotify.com/artist/3RUGMx9yxNg3lltGmkTB2I"
+        },
+        {
+          "name": "Orchester der Deutschen Oper Berlin",
+          "url": "https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO"
+        },
+        {
+          "name": "Giuseppe Sinopoli",
+          "url": "https://open.spotify.com/artist/3d1jQ9OG2p2PW3rzzTspDY"
+        }
+      ],
+      "duration_ms": 180400,
+      "name": "Nabucco / Act 4: Dio di Giuda!",
+      "url": "https://open.spotify.com/track/4NHXTEsJtPayAbxT4xsHHS"
     },
     {
       "added_at": "2022-06-27 14:42:44",
@@ -1979,6 +1979,50 @@
     {
       "added_at": "2022-06-27 14:42:44",
       "album": {
+        "name": "Verdi: Requiem - Quattro Pezzi Sacri",
+        "url": "https://open.spotify.com/album/0PRIoqsFCo9STvzm0tU0cY"
+      },
+      "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
+        {
+          "name": "Elena Filipova",
+          "url": "https://open.spotify.com/artist/0teBSkQ1Hp3Zw2rmfp1ZRT"
+        },
+        {
+          "name": "Gloria Scalchi",
+          "url": "https://open.spotify.com/artist/3jYv3ldYxV0I5HwUDNGzPo"
+        },
+        {
+          "name": "Cesar Hernandez",
+          "url": "https://open.spotify.com/artist/2cjrZTZHJ3WO3vF85P9NG3"
+        },
+        {
+          "name": "Carlo Colombara",
+          "url": "https://open.spotify.com/artist/7qR8JpbvBYbqViPWD6tyHz"
+        },
+        {
+          "name": "Hungarian State Opera Chorus",
+          "url": "https://open.spotify.com/artist/0rSz4XGJJJMaBCXViWTDWc"
+        },
+        {
+          "name": "Hungarian State Opera Orchestra",
+          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
+        },
+        {
+          "name": "Pier Giorgio Morandi",
+          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
+        }
+      ],
+      "duration_ms": 112533,
+      "name": "Messa da Requiem: Tuba mirum",
+      "url": "https://open.spotify.com/track/36lJMwGBBaccEAEGknCHVM"
+    },
+    {
+      "added_at": "2022-06-27 14:42:44",
+      "album": {
         "name": "Verdi: Aida",
         "url": "https://open.spotify.com/album/09bHQb95DpyCHImuYCln5q"
       },
@@ -2127,50 +2171,6 @@
       "duration_ms": 173666,
       "name": "Macbeth: Preludio",
       "url": "https://open.spotify.com/track/4i3Of6t1qWydfgyVGp2J9k"
-    },
-    {
-      "added_at": "2022-06-27 14:42:44",
-      "album": {
-        "name": "Verdi: Requiem - Quattro Pezzi Sacri",
-        "url": "https://open.spotify.com/album/0PRIoqsFCo9STvzm0tU0cY"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Elena Filipova",
-          "url": "https://open.spotify.com/artist/0teBSkQ1Hp3Zw2rmfp1ZRT"
-        },
-        {
-          "name": "Gloria Scalchi",
-          "url": "https://open.spotify.com/artist/3jYv3ldYxV0I5HwUDNGzPo"
-        },
-        {
-          "name": "Cesar Hernandez",
-          "url": "https://open.spotify.com/artist/2cjrZTZHJ3WO3vF85P9NG3"
-        },
-        {
-          "name": "Carlo Colombara",
-          "url": "https://open.spotify.com/artist/7qR8JpbvBYbqViPWD6tyHz"
-        },
-        {
-          "name": "Hungarian State Opera Chorus",
-          "url": "https://open.spotify.com/artist/0rSz4XGJJJMaBCXViWTDWc"
-        },
-        {
-          "name": "Hungarian State Opera Orchestra",
-          "url": "https://open.spotify.com/artist/6rLUj0kWUXAEbz26rtS9wO"
-        },
-        {
-          "name": "Pier Giorgio Morandi",
-          "url": "https://open.spotify.com/artist/5N26LR3F8OW56imuIElk6B"
-        }
-      ],
-      "duration_ms": 112533,
-      "name": "Messa da Requiem: Tuba mirum",
-      "url": "https://open.spotify.com/track/36lJMwGBBaccEAEGknCHVM"
     }
   ],
   "unique_name": "This Is Verdi",

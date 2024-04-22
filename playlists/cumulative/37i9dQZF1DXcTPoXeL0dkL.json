@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Historia del Vallenato en el Siglo XX, Vol. 3",
+        "url": "https://open.spotify.com/album/2Dmt9hXCXvVyisvgHdj1PB"
+      },
+      "artists": [
+        {
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241297,
+      "name": "Ceniza Fr\u00eda",
+      "url": "https://open.spotify.com/track/6gRKQI8kLeEUkoj70kVBzp"
+    },
+    {
+      "album": {
         "name": "Los 50 vallenatos m\u00e1s recordados, dedicados, vendidos y sonados",
         "url": "https://open.spotify.com/album/4cVUjJKyfpB5JH7mf34YRA"
       },
@@ -742,6 +760,24 @@
       "duration_ms": 269191,
       "name": "El Santo Cachon",
       "url": "https://open.spotify.com/track/5MDeca8IiesNdQsOZC894q"
+    },
+    {
+      "album": {
+        "name": "Grandes \u00c9xitos - Los Embajadores Vallenatos",
+        "url": "https://open.spotify.com/album/2vttfGimI3QtJ8wlScNwTM"
+      },
+      "artists": [
+        {
+          "name": "Los Embajadores Vallenatos",
+          "url": "https://open.spotify.com/artist/7fKNYbN8RoEoPyi6FoGMLf"
+        }
+      ],
+      "date_added": "2023-02-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266949,
+      "name": "El Santo Cach\u00f3n",
+      "url": "https://open.spotify.com/track/0ccHYF0xpaJe0fymGmr7ri"
     },
     {
       "album": {
@@ -1418,7 +1454,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 298834,
       "name": "Nunca Niegues Que Te Amo",
       "url": "https://open.spotify.com/track/4JkpD6REg8MDOsCjkcJGpR"
@@ -1984,7 +2020,7 @@
       ],
       "date_added": "2023-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 288493,
       "name": "S\u00f3lo para Ti",
       "url": "https://open.spotify.com/track/3OJB3RTL92x7ODE8yXy1Oi"

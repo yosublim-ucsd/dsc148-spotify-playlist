@@ -1,12 +1,12 @@
 {
-  "description": "This Is Avenged Sevenfold. Los temas esenciales, todos en una lista.",
-  "num_followers": 459802,
+  "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
+  "num_followers": 459663,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDNmNjYzNjU2NWFiZmU1YjhhODY4OTdmZDZkNWRiOGJk",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDY3ZWNlNTFlZTk4ODBhNmE4NjY5NWY3OTUxOTk2NTA5",
   "tracks": [
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stage",
-        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 221973,
-      "name": "God Damn",
-      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
+      "duration_ms": 366666,
+      "name": "Remenissions",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0vINJeraREv5ySgWs57Dko"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 366666,
-      "name": "Remenissions",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr"
+      "duration_ms": 221973,
+      "name": "God Damn",
+      "url": "https://open.spotify.com/track/1CibV0i5tzTI5Fvqeez6S7"
     },
     {
       "added_at": null,

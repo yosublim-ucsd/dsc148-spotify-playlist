@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: AMINDI
 
-1,147 songs - 2 day 12 hr 47 min
+1,148 songs - 2 day 12 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -118,6 +118,7 @@
 | [Beautiful](https://open.spotify.com/track/0SPvoWOI3cUvLSF61bToD0) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Beautiful](https://open.spotify.com/album/6izE6ya12rKksWBZXKh7zU) | 2:46 | 2022-09-09 | 2022-10-29 |
 | [Been Through That](https://open.spotify.com/track/2cZbLHnTKtdSYUsVYlrnSi) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Been Through That](https://open.spotify.com/album/3ygNPDPtpbk2QSsLCKoClM) | 3:14 | 2021-06-18 | 2022-07-17 |
 | [Believe \(feat\. Johan Lenox\)](https://open.spotify.com/track/5e9ruquVWWxR0rvX3rkSxc) | [Luck](https://open.spotify.com/artist/7DYPs6H8VJGxvuGu0FaV3M), [Johan Lenox](https://open.spotify.com/artist/1KuV6xtFnLPsneN3yBrjFj) | [Believe \(feat\. Johan Lenox\)](https://open.spotify.com/album/72qUAF7JgAzkoYfYbyBgBO) | 3:10 | 2024-02-02 |  |
+| [Believe It](https://open.spotify.com/track/34Q2IJkAq6QbRHhEeDWOrl) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [nowhere, fast](https://open.spotify.com/album/1oEDfMIpHpl9pVZsqhFo2L) | 3:21 | 2024-04-12 |  |
 | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/track/4RrJBZZ41eKEZAylP1A9t1) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO), [Berhana](https://open.spotify.com/artist/0WjtdWS6su0f3jrW9aqEHl) | [Beluga v2 \(feat\. Berhana\)](https://open.spotify.com/album/1fyV8Ul6YsyPChDdtZoiCX) | 2:35 | 2021-05-14 | 2022-07-29 |
 | [Benchmark](https://open.spotify.com/track/17Ct6PmsR5laPdylW8cRms) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [Benchmark](https://open.spotify.com/album/0nDORNahzyOzSM4jBwNMEz) | 3:07 | 2022-04-01 | 2022-07-07 |
 | [bend yr ear](https://open.spotify.com/track/3mslSmibP6M7u9RQEOZ2Zh) | [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7) | [Like Neptune](https://open.spotify.com/album/014KjVEwCWxN2hWFYsUWNB) | 3:53 | 2022-09-09 | 2023-12-09 |
@@ -293,7 +294,7 @@
 | [Don't Recommend](https://open.spotify.com/track/6t8ZKSOjhFVwvrJdRcKytT) | [Reagan Capaci](https://open.spotify.com/artist/3juQ8wz0DRybHcAQj4Jxvw) | [Don't Recommend](https://open.spotify.com/album/2viuq33ElyD8CXCyrf4fTO) | 3:03 | 2021-06-11 | 2022-07-27 |
 | [Don't Say](https://open.spotify.com/track/3zpV1pF29S3jPGNY1J8HZo) | [Jex Nwalor](https://open.spotify.com/artist/1D4bP2qFi4EcC4ZdBgH5F8) | [Don't Say](https://open.spotify.com/album/3t1AbuJrkCU4c8LnWLJMUZ) | 2:35 | 2022-05-13 | 2022-11-05 |
 | [Don't Walk Away](https://open.spotify.com/track/52CFxHZxBbiZ1l9eTFpFxJ) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Don't Walk Away](https://open.spotify.com/album/6pjgZeaZ44JQ7fkRCODDHh) | 2:22 | 2022-06-03 | 2022-08-09 |
-| [Doom Gloom](https://open.spotify.com/track/6FFkkUbFHFS2kPYxAIOoXp) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Doom Gloom](https://open.spotify.com/album/7K7AkFYXsmFC3ZvS2AhddS) | 4:01 | 2024-01-26 |  |
+| [Doom Gloom](https://open.spotify.com/track/6FFkkUbFHFS2kPYxAIOoXp) | [FARR](https://open.spotify.com/artist/0eHwH1Ze2lRt6KOGw1T3rq) | [Doom Gloom](https://open.spotify.com/album/7K7AkFYXsmFC3ZvS2AhddS) | 4:01 | 2024-01-26 | 2024-04-22 |
 | [Dopamine](https://open.spotify.com/track/3ynnGOYFsSPb0aUmWYZ6T3) | [BINA.](https://open.spotify.com/artist/2cOj9uwYqm3PHx1i5n7BkC), [Subculture](https://open.spotify.com/artist/45CiOVzqS9wkh8pX59IOfx) | [Dopamine](https://open.spotify.com/album/37UvvLpEtCEfHZTRVK2KEn) | 3:00 | 2023-12-08 |  |
 | [double take](https://open.spotify.com/track/2CVChktEKBsM6v4IfdFU5k) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [double take](https://open.spotify.com/album/1FBBji6E8EB4zBsTn6m8Ax) | 2:51 | 2022-04-01 | 2022-04-15 |
 | [Down](https://open.spotify.com/track/7n4TRiA2ppPKG76gIWzkBU) | [Raury](https://open.spotify.com/artist/2PU4qFehXQF7WnlFsJpBiJ) | [Down](https://open.spotify.com/album/6YHnY9KcwLKtXabds5NUFQ) | 3:13 | 2023-02-10 | 2023-06-08 |

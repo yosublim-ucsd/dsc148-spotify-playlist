@@ -1,6 +1,6 @@
 {
   "description": "Let\u2019s get it on....",
-  "num_followers": 302623,
+  "num_followers": 302651,
   "original_name": "Sexy R&B",
   "owner": {
     "name": "Spotify",
@@ -99,6 +99,22 @@
     {
       "added_at": "2024-04-04 10:39:51",
       "album": {
+        "name": "SOS",
+        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 183893,
+      "name": "Love Language",
+      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
         "name": "Late Nights: The Album",
         "url": "https://open.spotify.com/album/7DMyQuDPe8xzjC0UDSDa96"
       },
@@ -131,38 +147,6 @@
     {
       "added_at": "2024-04-04 10:39:51",
       "album": {
-        "name": "Chris Brown (Expanded Edition)",
-        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 229040,
-      "name": "Yo (Excuse Me Miss)",
-      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
-        "name": "SOS",
-        "url": "https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 183893,
-      "name": "Love Language",
-      "url": "https://open.spotify.com/track/1eIXYZWEfJO3Na2LCCnIJE"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
         "name": "8701",
         "url": "https://open.spotify.com/album/6k16WXh4rKyusIoN00rmpi"
       },
@@ -175,6 +159,22 @@
       "duration_ms": 247840,
       "name": "U Got It Bad",
       "url": "https://open.spotify.com/track/7J41dYQolQJEtj3UmKLu5r"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
+        "name": "Chris Brown (Expanded Edition)",
+        "url": "https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 229040,
+      "name": "Yo (Excuse Me Miss)",
+      "url": "https://open.spotify.com/track/7DFnq8FYhHMCylykf6ZCxA"
     },
     {
       "added_at": "2024-04-04 10:39:51",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-04-04 10:39:51",
       "album": {
-        "name": "I Wish you Roses",
-        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 225947,
-      "name": "I Wish you Roses",
-      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
         "name": "H.E.R. Volume 1",
         "url": "https://open.spotify.com/album/6btE9k5ED8ydC8XY1K0kko"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 245722,
       "name": "Bad Intentions",
       "url": "https://open.spotify.com/track/5W3UniuRMkHHIpaiQo1hAW"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
+        "name": "I Wish you Roses",
+        "url": "https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        }
+      ],
+      "duration_ms": 225947,
+      "name": "I Wish you Roses",
+      "url": "https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd"
     },
     {
       "added_at": "2024-04-04 10:39:51",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-04-04 10:39:51",
       "album": {
-        "name": "About Time",
-        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Claudio",
-          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
-        }
-      ],
-      "duration_ms": 283236,
-      "name": "Stand Still",
-      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
         "name": "How Many Drinks? (feat. Kendrick Lamar)",
         "url": "https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 270160,
       "name": "How Many Drinks? (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
+        "name": "About Time",
+        "url": "https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Claudio",
+          "url": "https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg"
+        }
+      ],
+      "duration_ms": 283236,
+      "name": "Stand Still",
+      "url": "https://open.spotify.com/track/66H06L8hktjhduwRDWntDT"
     },
     {
       "added_at": "2024-04-04 10:39:51",
@@ -663,38 +663,6 @@
     {
       "added_at": "2024-04-04 10:39:51",
       "album": {
-        "name": "19 - EP",
-        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
-      },
-      "artists": [
-        {
-          "name": "Jacquees",
-          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
-        }
-      ],
-      "duration_ms": 259918,
-      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
-      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
-        "name": "Late Night Drive",
-        "url": "https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 252371,
-      "name": "Late Night Drive",
-      "url": "https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
         "name": "Legends of the Summer",
         "url": "https://open.spotify.com/album/10VeHPWU3210DSCq0uQ9uN"
       },
@@ -715,6 +683,38 @@
       "duration_ms": 234589,
       "name": "Dangerous (feat. Jeremih and PnB Rock)",
       "url": "https://open.spotify.com/track/1lL7Sj9AitQT7YWXs6obEq"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
+        "name": "Late Night Drive",
+        "url": "https://open.spotify.com/album/1ZpjavjzxvWjPYDnpDR8nX"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 252371,
+      "name": "Late Night Drive",
+      "url": "https://open.spotify.com/track/0K83VVfg5Y4bPoZ4kmytKH"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
+        "name": "19 - EP",
+        "url": "https://open.spotify.com/album/3N1TB3dK4eC44E92ByGJy6"
+      },
+      "artists": [
+        {
+          "name": "Jacquees",
+          "url": "https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ"
+        }
+      ],
+      "duration_ms": 259918,
+      "name": "Feel It (feat. Lloyd, Rich Homie Quan)",
+      "url": "https://open.spotify.com/track/60A9cgTlUXxO7c2ucnen1x"
     },
     {
       "added_at": "2024-04-04 10:39:51",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-04-04 10:39:51",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
-      },
-      "artists": [
-        {
-          "name": "Yo Trane",
-          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
         "name": "Heartbreak on a Full Moon",
         "url": "https://open.spotify.com/album/3zak0kNLcOY5vFcB3Ipskp"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 197285,
       "name": "Sip",
       "url": "https://open.spotify.com/track/7xHDuriXFKJtPTJ84wLM0y"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/2hQEUXjLCD9HUwK4O6Z8Ig"
+      },
+      "artists": [
+        {
+          "name": "Yo Trane",
+          "url": "https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/4lloQRaCOcbv3OekRnaQWB"
     },
     {
       "added_at": "2024-04-04 10:39:51",
@@ -847,6 +847,22 @@
       "duration_ms": 169378,
       "name": "get me started (feat. syd)",
       "url": "https://open.spotify.com/track/0jeCoIGrGhw8lnkd5YF0qB"
+    },
+    {
+      "added_at": "2024-04-04 10:39:51",
+      "album": {
+        "name": "Back To Sleep",
+        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 201647,
+      "name": "Back To Sleep",
+      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
     },
     {
       "added_at": "2024-04-04 10:39:51",
@@ -935,22 +951,6 @@
       "duration_ms": 192600,
       "name": "Freaky with You (feat. Jacquees)",
       "url": "https://open.spotify.com/track/5zO5UXvI31FaxDDvSI9XPc"
-    },
-    {
-      "added_at": "2024-04-04 10:39:51",
-      "album": {
-        "name": "Back To Sleep",
-        "url": "https://open.spotify.com/album/5GIDk7gHi6x19CxZeackUx"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 201647,
-      "name": "Back To Sleep",
-      "url": "https://open.spotify.com/track/3FQdtOMXdfDcDDjY1OHAqz"
     },
     {
       "added_at": "2024-04-04 10:39:51",

@@ -4,7 +4,7 @@
 
 > A happy place, featuring Purple Disco Machine
 
-351 songs - 22 hr 31 min
+352 songs - 22 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [Let's Go!](https://open.spotify.com/track/6MomDISbOEnUQARwoiBPgF) | [Dance System](https://open.spotify.com/artist/1ju2puXmReF61q0pjZX0oh), [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Where's the Party At?](https://open.spotify.com/album/74chXRreUjoqMEN4RRk6yq) | 2:54 | 2022-01-14 | 2022-07-25 |
 | [Let´s Groove](https://open.spotify.com/track/3JOWZsqRRZEEXVgDub0kF3) | [Superlover](https://open.spotify.com/artist/4OxEbB5MV7rDnbYtWUL1UO) | [Let´s Groove](https://open.spotify.com/album/0ZMm0xr9oZqQgXvYh1XNAo) | 2:59 | 2023-06-09 | 2023-06-17 |
 | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/track/3hrN93f0xTIsejwDB3avn6) | [The Shapeshifters](https://open.spotify.com/artist/60FV7KyxIH9FH1uq7u8inP), [Kimberly Davis](https://open.spotify.com/artist/1mQYmp7PviGfyjSb2oJ6gJ) | [Life Is A Dancefloor \(feat\. Kimberly Davis\)](https://open.spotify.com/album/2UzDkeFYB2PkXUDq192KbP) | 3:59 | 2022-01-14 | 2023-06-10 |
+| [Lift You Up](https://open.spotify.com/track/766OCy2QMl814sxiR1gl6v) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [Lift You Up](https://open.spotify.com/album/1UtcVAhnTCM1eqnCVZLEaI) | 2:13 | 2024-04-19 |  |
 | [Light Up My Life \- Alex Preston Remix](https://open.spotify.com/track/0DlLLaliuECL8YOLxc87rZ) | [Jack Wins](https://open.spotify.com/artist/5v8ZROs9c26k4yGMxUkebt), [Joe Stone](https://open.spotify.com/artist/4kwEd1P9j15ZqUVP5zK7Pv), [Alex Preston](https://open.spotify.com/artist/0f8HuVIxsHG6bnEZsz0RuD) | [Light Up My Life \(Alex Preston Remix\)](https://open.spotify.com/album/5mLoVEoRY9KrtlXewzfIGu) | 2:40 | 2022-01-14 | 2022-07-24 |
 | [Like A Fool](https://open.spotify.com/track/511InmWye3UrDWkcE4SmT4) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/3zzkk0n26DWgqVuQkefg0J) | 5:05 | 2022-04-06 | 2022-04-14 |
 | [Like A Fool](https://open.spotify.com/track/5wTv501Kl9wLABLwHo11RJ) | [Crazy P](https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf) | [Walk Dance Talk Sing](https://open.spotify.com/album/2xHHmfzza35KfhlgOOc3y4) | 5:05 | 2022-06-09 | 2024-04-19 |
@@ -296,7 +297,7 @@
 | [She's On My Mind](https://open.spotify.com/track/4heve4ydl1u6V3AD4moZq9) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 3:01 | 2023-12-22 |  |
 | [Shit Cant Make Anything](https://open.spotify.com/track/39XdVtrOfiXIMqZ9YMJYLO) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Shit Cant Make Anything](https://open.spotify.com/album/52PiRAX8jw2CtkaEJSLZJr) | 3:13 | 2022-01-14 | 2022-07-29 |
 | [Silk Robe](https://open.spotify.com/track/1PLWMDuWR3gfsuBGMRUgY8) | [Flaurese](https://open.spotify.com/artist/2ZZtx5Nl2hf5rjM2q9XE06) | [Silk Robe](https://open.spotify.com/album/2cREL8DhgMw5f2VYC1I1Qv) | 3:38 | 2022-01-14 | 2022-07-28 |
-| [Sizzling](https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 5:21 | 2022-04-06 |  |
+| [Sizzling](https://open.spotify.com/track/7AkuWVEfviEjaNa8ps3uVw) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 5:21 | 2022-04-06 | 2024-04-22 |
 | [Sizzling \- Radio Edit](https://open.spotify.com/track/3hn2XlucfhFh7XGDEvMPoS) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9), [Paradise](https://open.spotify.com/artist/4tcARMnMEtBq3onlfD8Rgl) | [Sizzling EP](https://open.spotify.com/album/4W9aq61WczmInpQ2RBGj2B) | 3:38 | 2022-04-06 | 2022-07-16 |
 | [Sky's the Limit \- Edit](https://open.spotify.com/track/1CXE6v4j5TkObA01MtchbP) | [Full Intention](https://open.spotify.com/artist/1tayOcNuoYWnrXeuh1HhXB) | [Sky's the Limit \(Edit\)](https://open.spotify.com/album/5pQwvmqU1IU8VdvqBGuSl1) | 2:43 | 2022-01-14 |  |
 | [Slide](https://open.spotify.com/track/7gZAxiXoVDDEAx9URqEzRB) | [Sonickraft](https://open.spotify.com/artist/6TM9nl47jBGEA9C2nsUP4o) | [Slide](https://open.spotify.com/album/3CyLYBbtZ5dOsCT3iukLh9) | 3:15 | 2022-04-06 | 2022-04-29 |

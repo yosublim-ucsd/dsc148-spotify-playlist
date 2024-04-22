@@ -4,7 +4,7 @@
 
 > New music and timeless tracks from legends only\. Cover: Pearl Jam
 
-290 songs - 20 hr 43 min
+291 songs - 20 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,7 +270,7 @@
 | [Time is Running Out](https://open.spotify.com/track/2takcwOaAZWiXQijPHIx7B) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI) | [Absolution](https://open.spotify.com/album/0HcHPBu9aaF1MxOiZmUQTl) | 3:57 | 2022-07-28 | 2023-12-10 |
 | [Tippa My Tongue](https://open.spotify.com/track/3s53zBEi1ZU6dJj19eFOxW) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Tippa My Tongue](https://open.spotify.com/album/58As6ZmLLmhtkF8l5voV9p) | 4:20 | 2022-08-18 | 2022-12-02 |
 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 | 2023-10-19 | 2023-11-04 |
-| [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2024-03-15 |  |
+| [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 | 2024-03-15 | 2024-04-22 |
 | [Too Far Gone?](https://open.spotify.com/track/7KdgYr9jNkQO1Au7BGjGLW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 4:33 | 2023-04-14 | 2023-05-12 |
 | [Town Called Malice](https://open.spotify.com/track/0gdmDP6xy3ZV7JNoHWAN9k) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift](https://open.spotify.com/album/71OyKSCFX7DGsJc6qAhhQG) | 2:53 | 2022-07-28 | 2024-04-19 |
 | [Town Called Malice](https://open.spotify.com/track/4TOYmUloyDslQIj0k3pXn3) | [The Jam](https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR) | [The Gift \(Deluxe Edition\)](https://open.spotify.com/album/5tCafNFnLdK5orQH5Y9FFP) | 2:53 | 2022-04-08 | 2022-07-29 |
@@ -296,6 +296,7 @@
 | [Wild God](https://open.spotify.com/track/6d2JJCLcg02uteyuvFVmCq) | [Nick Cave & The Bad Seeds](https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q) | [Wild God](https://open.spotify.com/album/0mDWCfytbtRYgiWzjUQrnp) | 5:19 | 2024-03-08 |  |
 | [World Go Round](https://open.spotify.com/track/2XjubQcmmUicXahauChf8k) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [World Go Round](https://open.spotify.com/album/6RArtfR4uHvzEm5KjDevR3) | 4:11 | 2022-07-28 | 2022-08-19 |
 | [World On Fire](https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [World On Fire](https://open.spotify.com/album/1PVoMQaN6xLMAsBOu27Lf7) | 4:21 | 2023-05-11 | 2023-06-19 |
+| [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 |  |
 | [You Should Be Dancing](https://open.spotify.com/track/1Iu66OVgb8wioY6tpesoQS) | [Dee Gees](https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX) | [Dee Gees / Hail Satin \- Foo Fighters / Live](https://open.spotify.com/album/50QMS2zosvUxhucf6zMRUy) | 3:52 | 2022-04-08 | 2022-07-27 |
 | [You've Got A Habit Of Leaving \- Radio Edit](https://open.spotify.com/track/3dEb9tm18t9qwNUoiR2fXY) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy) | [You've Got A Habit Of Leaving \(Radio Edit\)](https://open.spotify.com/album/04PhgcPruSRzPLmk1RJk8a) | 3:26 | 2022-04-08 | 2022-07-27 |
 

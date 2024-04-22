@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/meaghansmom/">Monique Blake</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,865 likes - 50 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,874 likes - 50 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuhvPvPnf4R.md) - [plain]
 | 42 | [Preach \(feat\. Jim Jones\)](https://open.spotify.com/track/4c1ziBFAuQKKeJE6NXjuuG) | [Swizz Beatz](https://open.spotify.com/artist/2cADQgiLMjNhbsfeN52Bf3), [Jim Jones](https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe) | [POISON](https://open.spotify.com/album/7wQWfHMlE9OVghvW74yfz3) | 2:18 |
 | 43 | [Hop On](https://open.spotify.com/track/1F8xlznQgz0BKTXZpOXCwx) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Hop On](https://open.spotify.com/album/1bRNXuSz43dKGLF2EdkpY5) | 3:22 |
 | 44 | [Middle Finger](https://open.spotify.com/track/2M2zpLfK5GaNKA5PINPP0b) | [Cham](https://open.spotify.com/artist/5G8IlDlnPQPN4YmtJ6NDxK) | [Reggae Gold 2002](https://open.spotify.com/album/6JPjYKnOWIzK5k6RlhUWMv) | 4:16 |
-| 45 | [Reverse Di Ting](https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Ragga Ragga Ragga 2007](https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j) | 3:56 |
-| 46 | [The Greatest](https://open.spotify.com/track/0ScOAZW5rQbEreoK0h5r5S) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Riddim Driven: Hydro](https://open.spotify.com/album/00z29AN17yDBugKpGv2XcZ) | 3:36 |
-| 47 | [Inner G](https://open.spotify.com/track/37tNZm4rc7JurO55X6xHTi) | [Jahnya](https://open.spotify.com/artist/6y09dM8DdPHYCtoIDxAHT2) | [Inner G](https://open.spotify.com/album/1u5uKl52hG6kODMImLNI8B) | 2:50 |
+| 45 | [The Greatest](https://open.spotify.com/track/0ScOAZW5rQbEreoK0h5r5S) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Riddim Driven: Hydro](https://open.spotify.com/album/00z29AN17yDBugKpGv2XcZ) | 3:36 |
+| 46 | [Inner G](https://open.spotify.com/track/37tNZm4rc7JurO55X6xHTi) | [Jahnya](https://open.spotify.com/artist/6y09dM8DdPHYCtoIDxAHT2) | [Inner G](https://open.spotify.com/album/1u5uKl52hG6kODMImLNI8B) | 2:50 |
+| 47 | [Reverse Di Ting](https://open.spotify.com/track/2bxxNd0cXD5GopNFEhyHjr) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Ragga Ragga Ragga 2007](https://open.spotify.com/album/2EaSckIrSSr6wLPdKPYg4j) | 3:56 |
 | 48 | [Find Someone Like You](https://open.spotify.com/track/53SIeTHgXuAOd98hZWV2wD) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [\- Ugh, those feels again](https://open.spotify.com/album/42wtqDcTQlJJbUzAPBSwaK) | 3:26 |
 | 49 | [Whuteva](https://open.spotify.com/track/0QJU13S307gWlr4nhUh2SV) | [Remy Ma](https://open.spotify.com/artist/39mHYiNmLR7p8PXNG8Wll6) | [There's Something About Remy\-Based On A True Story](https://open.spotify.com/album/6y9AdbqYziDJmcLSyyOsGO) | 3:46 |
 | 50 | [Flex](https://open.spotify.com/track/2TajSezbrdFdex9g5L6wo9) | [Mad Cobra](https://open.spotify.com/artist/56MDhktp7hO6MqKCS9rSXT) | [Dancehall 101 Vol\. 3](https://open.spotify.com/album/2cGFEvfRv59zyj2E9BTkiH) | 3:50 |

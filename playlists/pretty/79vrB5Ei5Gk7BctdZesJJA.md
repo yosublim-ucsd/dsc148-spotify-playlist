@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79vrB5Ei5Gk7BctdZesJJA.md) - [plain]
 
 > Official Roadrunner Records Playlist \- This weeks DEADNOISE.FM playlist is  curated by Mutually Assured Destruction
 
-[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,783 likes - 17 songs - 1 hr 12 min
+[Roadrunner Records](https://open.spotify.com/user/roadrunnerrecords) - 4,781 likes - 17 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

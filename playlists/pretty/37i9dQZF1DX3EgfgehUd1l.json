@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 166227,
+  "num_followers": 166249,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best Of Peggy Lee",
         "url": "https://open.spotify.com/album/16BF4fvjjxlzrdKrUl4k5F"
       },
@@ -171,6 +155,38 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
+        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
+      },
+      "artists": [
+        {
+          "name": "Paul Anka",
+          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
+        }
+      ],
+      "duration_ms": 138360,
+      "name": "Diana",
+      "url": "https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 205226,
       "name": "Love Me Tender - with The Royal Philharmonic Orchestra",
       "url": "https://open.spotify.com/track/1bZdOnI0GIcB2xqQqQH7DY"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Put Your Head On My Shoulder: The Very Best Of Paul Anka",
-        "url": "https://open.spotify.com/album/75zBkbUSaFzpyPa1mBDjON"
-      },
-      "artists": [
-        {
-          "name": "Paul Anka",
-          "url": "https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh"
-        }
-      ],
-      "duration_ms": 138360,
-      "name": "Diana",
-      "url": "https://open.spotify.com/track/4chlGZQX5uPYpRLp3NezmX"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -239,6 +239,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Definitive Pop: The Everly Brothers",
+        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 140373,
+      "name": "All I Have to Do Is Dream - Single Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Capitol Years",
         "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
       },
@@ -255,22 +271,6 @@
       "duration_ms": 188266,
       "name": "That's Amore",
       "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Definitive Pop: The Everly Brothers",
-        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 140373,
-      "name": "All I Have to Do Is Dream - Single Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -347,54 +347,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Essential Johnny Mathis",
         "url": "https://open.spotify.com/album/4KM9hhWCgasx9j7y3NogNv"
       },
@@ -427,6 +379,54 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Frank Sinatra: The Complete Capitol Singles Collection",
         "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
@@ -439,22 +439,6 @@
       "duration_ms": 181906,
       "name": "Learnin' The Blues",
       "url": "https://open.spotify.com/track/6rNOKdqa2lThuBIJOZXSVa"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "30th Anniversary Collection",
-        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
-      },
-      "artists": [
-        {
-          "name": "michael holliday",
-          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
-        }
-      ],
-      "duration_ms": 135826,
-      "name": "The Story of My Life",
-      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -479,6 +463,22 @@
       "duration_ms": 160866,
       "name": "Magic Moments (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/165n9dxHacuguzneup0HXQ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "30th Anniversary Collection",
+        "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
+      },
+      "artists": [
+        {
+          "name": "michael holliday",
+          "url": "https://open.spotify.com/artist/0dl2GgafJKRSnIjhjtxhAW"
+        }
+      ],
+      "duration_ms": 135826,
+      "name": "The Story of My Life",
+      "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -511,6 +511,22 @@
       "duration_ms": 137320,
       "name": "Don't Forbid Me",
       "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -567,22 +583,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Mr. Broadway",
         "url": "https://open.spotify.com/album/1Ye8xbzoKJ8XjfzRsFcuWa"
       },
@@ -595,26 +595,6 @@
       "duration_ms": 187586,
       "name": "Stranger in Paradise",
       "url": "https://open.spotify.com/track/0VSkGr3AikTWSUaJQL6GNC"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Calamity Jane / The Pajama Game",
-        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
-      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -695,6 +675,26 @@
       "duration_ms": 141426,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Calamity Jane / The Pajama Game",
+        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
+      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -831,6 +831,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Most of All",
+        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
+      },
+      "artists": [
+        {
+          "name": "Don Cornell",
+          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
+        }
+      ],
+      "duration_ms": 169213,
+      "name": "Hold My Hand",
+      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 169560,
       "name": "If I Give My Heart to You (with The Mellomen)",
       "url": "https://open.spotify.com/track/3EuT9Db7LX4no2y4XTUc53"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Most of All",
-        "url": "https://open.spotify.com/album/6OzfE38wgytWErZZuk8htF"
-      },
-      "artists": [
-        {
-          "name": "Don Cornell",
-          "url": "https://open.spotify.com/artist/2Oe27JVtJqG8OLkgYDGzvS"
-        }
-      ],
-      "duration_ms": 169213,
-      "name": "Hold My Hand",
-      "url": "https://open.spotify.com/track/4fCfTLuNQmQeHznSt6pvwc"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -915,8 +915,8 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Pure... '50s",
-        "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
+        "name": "Frankie Laine's Greatest Hits",
+        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
         }
       ],
-      "duration_ms": 157586,
-      "name": "High Noon (Do Not Forsake Me)",
-      "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
+      "duration_ms": 174693,
+      "name": "Moonlight Gambler",
+      "url": "https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Pure... '50s",
+        "url": "https://open.spotify.com/album/01YaGa6qd4HjIPjyJI8mpb"
+      },
+      "artists": [
+        {
+          "name": "Frankie Laine",
+          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "High Noon (Do Not Forsake Me)",
+      "url": "https://open.spotify.com/track/2KA7Kytj9Ahdb6tX74EJJ3"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Ruby Murray - Greatest Hits",
         "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 156373,
       "name": "I'll Come When You Call",
       "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Frankie Laine's Greatest Hits",
-        "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
-      },
-      "artists": [
-        {
-          "name": "Frankie Laine",
-          "url": "https://open.spotify.com/artist/3cgO5CdhEHKMxldjZlP5ix"
-        }
-      ],
-      "duration_ms": 174693,
-      "name": "Moonlight Gambler",
-      "url": "https://open.spotify.com/track/27jaiKKAGY0HXVXkOGnUJW"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Platters",
-        "url": "https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 163920,
-      "name": "My Prayer",
-      "url": "https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Climb Every Mountain",
         "url": "https://open.spotify.com/album/2dAO2pmhT1CjY8xDcQ3ZCq"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 169080,
       "name": "Finger of Suspicion",
       "url": "https://open.spotify.com/track/6UchVQhfXfp1RCz2T3s1En"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Platters",
+        "url": "https://open.spotify.com/album/3kMD4w9rWAFZRacAljVvwt"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 163920,
+      "name": "My Prayer",
+      "url": "https://open.spotify.com/track/6vR2UxBMmUAopJyIWAXXuO"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+      },
+      "artists": [
+        {
+          "name": "The Hilltoppers",
+          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Only You (and You Alone)",
+      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Street Of Memories",
         "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
       },
@@ -1155,18 +1171,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
       "artists": [
         {
-          "name": "The Hilltoppers",
-          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
         }
       ],
-      "duration_ms": 165466,
-      "name": "Only You (and You Alone)",
-      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
+      "duration_ms": 149093,
+      "name": "I Need You Now - 2001 Remastered",
+      "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1199,22 +1215,6 @@
       "duration_ms": 166051,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
-      },
-      "artists": [
-        {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "I Need You Now - 2001 Remastered",
-      "url": "https://open.spotify.com/track/0gxpt81ZzaX0x72k1NOojB"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Best Of The 50's (Fifties)",
-        "url": "https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
       },
       "artists": [
         {
-          "name": "Russ Hamilton",
-          "url": "https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV"
+          "name": "Eddie Fisher",
+          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
         }
       ],
-      "duration_ms": 160280,
-      "name": "We Will Make Love",
-      "url": "https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW"
+      "duration_ms": 184400,
+      "name": "I'm Walking Behind You - 2001 Remastered",
+      "url": "https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1323,18 +1323,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/5W8G2sRRXvYTuuFu4Jinmc"
+        "name": "The Best Of The 50's (Fifties)",
+        "url": "https://open.spotify.com/album/6IT0jEXEkvbJkgGQwFyOud"
       },
       "artists": [
         {
-          "name": "Eddie Fisher",
-          "url": "https://open.spotify.com/artist/6bHSJldq5J4lYowHOm9OOX"
+          "name": "Russ Hamilton",
+          "url": "https://open.spotify.com/artist/6ghW1DfBe5HLRybsxZrQHV"
         }
       ],
-      "duration_ms": 184400,
-      "name": "I'm Walking Behind You - 2001 Remastered",
-      "url": "https://open.spotify.com/track/70PXozsEK1wUHXnT72Wlxh"
+      "duration_ms": 160280,
+      "name": "We Will Make Love",
+      "url": "https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW"
     }
   ],
   "unique_name": "Easy 50s",

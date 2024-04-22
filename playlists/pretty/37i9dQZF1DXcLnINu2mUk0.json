@@ -1,6 +1,6 @@
 {
   "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: Salah, Timor YSF, MC Zaquin",
-  "num_followers": 45186,
+  "num_followers": 45197,
   "original_name": "Seda",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "P\u00e9 Descal\u00e7o",
-        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
-      },
-      "artists": [
-        {
-          "name": "Domingues",
-          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
-        }
-      ],
-      "duration_ms": 214677,
-      "name": "P\u00e9 Descal\u00e7o",
-      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "Pontos Finais",
         "url": "https://open.spotify.com/album/5kytfMGwFyzMPcwJfmmCzg"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 194039,
       "name": "Pontos Finais",
       "url": "https://open.spotify.com/track/4YNdviC7wvO6oTdMm8z40S"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "P\u00e9 Descal\u00e7o",
+        "url": "https://open.spotify.com/album/6NvtgRhxTLAiikcTrTKt1d"
+      },
+      "artists": [
+        {
+          "name": "Domingues",
+          "url": "https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx"
+        }
+      ],
+      "duration_ms": 214677,
+      "name": "P\u00e9 Descal\u00e7o",
+      "url": "https://open.spotify.com/track/0KCfDsOY1k1gA1JxzJZotI"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
+        "name": "Sem Ti",
+        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
+      },
+      "artists": [
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        }
+      ],
+      "duration_ms": 155050,
+      "name": "Sem Ti",
+      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
         "name": "Dama & Vagabundo",
         "url": "https://open.spotify.com/album/4BKUmz50VANU1McCxFG9oM"
       },
@@ -599,6 +615,26 @@
       "duration_ms": 313825,
       "name": "Dama & Vagabundo",
       "url": "https://open.spotify.com/track/2u1LLm7B1yUggZfMyaZjk9"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "Essa Saia",
+        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
+      },
+      "artists": [
+        {
+          "name": "Bispo",
+          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
+        },
+        {
+          "name": "Ivandro",
+          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
+        }
+      ],
+      "duration_ms": 209069,
+      "name": "Essa Saia",
+      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -635,22 +671,6 @@
       "duration_ms": 204320,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/2Z8pPatBfVlRqNlsnmMdhV"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
-        "name": "Sem Ti",
-        "url": "https://open.spotify.com/album/13ARq2g2xclODcbnbCEX0X"
-      },
-      "artists": [
-        {
-          "name": "Slow J",
-          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
-        }
-      ],
-      "duration_ms": 155050,
-      "name": "Sem Ti",
-      "url": "https://open.spotify.com/track/6bZoSXs4RbMgJaAnEiQsHz"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -707,26 +727,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Essa Saia",
-        "url": "https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX"
-      },
-      "artists": [
-        {
-          "name": "Bispo",
-          "url": "https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY"
-        },
-        {
-          "name": "Ivandro",
-          "url": "https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm"
-        }
-      ],
-      "duration_ms": 209069,
-      "name": "Essa Saia",
-      "url": "https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "do.mar",
         "url": "https://open.spotify.com/album/4chPUBJXFpxBagtuD5l0rq"
       },
@@ -739,26 +739,6 @@
       "duration_ms": 182876,
       "name": "23:40",
       "url": "https://open.spotify.com/track/1M6DxA2Ql8FUfstms0kHI3"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
-        "name": "Tsunami",
-        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
-      },
-      "artists": [
-        {
-          "name": "Richie Campbell",
-          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
-        },
-        {
-          "name": "Gson",
-          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
-        }
-      ],
-      "duration_ms": 297737,
-      "name": "Tsunami",
-      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -795,6 +775,26 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/27Gt5wAgEVjatU36I1ogDf"
+      },
+      "artists": [
+        {
+          "name": "Richie Campbell",
+          "url": "https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "duration_ms": 297737,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/5TqGewrmzgeb21FYQC7mJZ"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
         "name": "BOM BOM",
         "url": "https://open.spotify.com/album/6JdO9kxfUaZ0kZCKKXkoBe"
       },
@@ -811,6 +811,30 @@
       "duration_ms": 180597,
       "name": "BOM BOM",
       "url": "https://open.spotify.com/track/3WIcI0ONzyVFHC21TlVXkM"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "ORDEM & PROGRESSO",
+        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
+      },
+      "artists": [
+        {
+          "name": "Plutonio",
+          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
+        },
+        {
+          "name": "PL Quest",
+          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        }
+      ],
+      "duration_ms": 209150,
+      "name": "Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -851,30 +875,6 @@
       "duration_ms": 211636,
       "name": "\u00c0 Tua Porta",
       "url": "https://open.spotify.com/track/5gWEoHkpYex8mi50RCZ3ll"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
-        "name": "ORDEM & PROGRESSO",
-        "url": "https://open.spotify.com/album/3zKhMzs8Hw9XQJVYovzcW1"
-      },
-      "artists": [
-        {
-          "name": "Plutonio",
-          "url": "https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G"
-        },
-        {
-          "name": "PL Quest",
-          "url": "https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        }
-      ],
-      "duration_ms": 209150,
-      "name": "Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/5GXJgx3zcR3m3ihcqbFBLv"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Orgulho",
-        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
-      },
-      "artists": [
-        {
-          "name": "Dream Boyz",
-          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
-        },
-        {
-          "name": "Dji Tafinha",
-          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
-        }
-      ],
-      "duration_ms": 264496,
-      "name": "Orgulho",
-      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "Soma",
         "url": "https://open.spotify.com/album/6nlMPBV9pvlP9O5sUA1iez"
       },
@@ -1015,6 +995,26 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
+        "name": "Orgulho",
+        "url": "https://open.spotify.com/album/2pv6xhnEH7N71mcgMkp7wX"
+      },
+      "artists": [
+        {
+          "name": "Dream Boyz",
+          "url": "https://open.spotify.com/artist/2T1cjraXeFGf3neQE2MHmf"
+        },
+        {
+          "name": "Dji Tafinha",
+          "url": "https://open.spotify.com/artist/3VGB73iYdHZ7T3jjgucrYS"
+        }
+      ],
+      "duration_ms": 264496,
+      "name": "Orgulho",
+      "url": "https://open.spotify.com/track/76dnUs1YTIIGCUBiTWIbY4"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
         "name": "Juro",
         "url": "https://open.spotify.com/album/5pN2iGKNsoGZvT8GqfUmoP"
       },
@@ -1031,26 +1031,22 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Filme",
-        "url": "https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV"
+        "name": "Impala",
+        "url": "https://open.spotify.com/album/7s8IGcnpC6nSZ2HXdzxoys"
       },
       "artists": [
         {
-          "name": "Don Plako",
-          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
+          "name": "Jo\u00e3o Maia Ferreira",
+          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
         },
         {
-          "name": "Blanko",
-          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
-        },
-        {
-          "name": "POTTER",
-          "url": "https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU"
+          "name": "Alex D'Alva",
+          "url": "https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne"
         }
       ],
-      "duration_ms": 198857,
-      "name": "Filme",
-      "url": "https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd"
+      "duration_ms": 180958,
+      "name": "Impala",
+      "url": "https://open.spotify.com/track/5mZkyOiu3gQK7ybJqQoPYu"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -1091,6 +1087,30 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
+        "name": "Filme",
+        "url": "https://open.spotify.com/album/2bDwKIpew8gQhIi2BzeAEV"
+      },
+      "artists": [
+        {
+          "name": "Don Plako",
+          "url": "https://open.spotify.com/artist/78t9jA2K9J6GhlPV9OWa7h"
+        },
+        {
+          "name": "Blanko",
+          "url": "https://open.spotify.com/artist/45Tim2ONMuopCOzCaZUAaB"
+        },
+        {
+          "name": "POTTER",
+          "url": "https://open.spotify.com/artist/2qr1gotEePk3ZaJVDrQltU"
+        }
+      ],
+      "duration_ms": 198857,
+      "name": "Filme",
+      "url": "https://open.spotify.com/track/4Hd0HVZtJpxCMGOkCClCZd"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
         "name": "Neblina",
         "url": "https://open.spotify.com/album/0Mu3iU0aG1gwstlUxsiDdw"
       },
@@ -1103,26 +1123,6 @@
       "duration_ms": 203437,
       "name": "Neblina",
       "url": "https://open.spotify.com/track/49SML6eNRInpgHhoZ0hRto"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
-        "name": "Impala",
-        "url": "https://open.spotify.com/album/7s8IGcnpC6nSZ2HXdzxoys"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Maia Ferreira",
-          "url": "https://open.spotify.com/artist/2XWfm5Ts8pvNzZMENVZ65I"
-        },
-        {
-          "name": "Alex D'Alva",
-          "url": "https://open.spotify.com/artist/2fgZiRzEqoruWyz7XyJpne"
-        }
-      ],
-      "duration_ms": 180958,
-      "name": "Impala",
-      "url": "https://open.spotify.com/track/5mZkyOiu3gQK7ybJqQoPYu"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Dado",
-        "url": "https://open.spotify.com/album/5jCyzG4vOc1y19Hn5YSZjG"
-      },
-      "artists": [
-        {
-          "name": "Sali",
-          "url": "https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb"
-        }
-      ],
-      "duration_ms": 141566,
-      "name": "Dado",
-      "url": "https://open.spotify.com/track/7bpK1Ml005N0Dc9FlLReBA"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "PESSOAS MUDAM",
         "url": "https://open.spotify.com/album/3KkKIYZoRuBGa8nHaIhQj3"
       },
@@ -1247,22 +1231,6 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "\u00e2ngulo morto",
-        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
-      },
-      "artists": [
-        {
-          "name": "E.Se",
-          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
-        }
-      ],
-      "duration_ms": 148467,
-      "name": "\u00e2ngulo morto",
-      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
-    },
-    {
-      "added_at": "2024-04-18 23:00:00",
-      "album": {
         "name": "Mundo Novo",
         "url": "https://open.spotify.com/album/6zqvzgC06Dek13qRXrQmxM"
       },
@@ -1283,18 +1251,34 @@
     {
       "added_at": "2024-04-18 23:00:00",
       "album": {
-        "name": "Sonhos",
-        "url": "https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb"
+        "name": "Dado",
+        "url": "https://open.spotify.com/album/5jCyzG4vOc1y19Hn5YSZjG"
       },
       "artists": [
         {
-          "name": "Burrz",
-          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+          "name": "Sali",
+          "url": "https://open.spotify.com/artist/6b2j8sTUYQJ8fiEXgrIoLb"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Sonhos",
-      "url": "https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu"
+      "duration_ms": 141566,
+      "name": "Dado",
+      "url": "https://open.spotify.com/track/7bpK1Ml005N0Dc9FlLReBA"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "\u00e2ngulo morto",
+        "url": "https://open.spotify.com/album/6rVLA2QZ4ZyOIMXt7riQiT"
+      },
+      "artists": [
+        {
+          "name": "E.Se",
+          "url": "https://open.spotify.com/artist/5nEB0TgQYisGlSy8c1C64l"
+        }
+      ],
+      "duration_ms": 148467,
+      "name": "\u00e2ngulo morto",
+      "url": "https://open.spotify.com/track/4SeMRBstr9y1QUuzHFBVp1"
     },
     {
       "added_at": "2024-04-18 23:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 179380,
       "name": "Accelerate",
       "url": "https://open.spotify.com/track/6F037kDQvzNndsorXVKT8h"
+    },
+    {
+      "added_at": "2024-04-18 23:00:00",
+      "album": {
+        "name": "Sonhos",
+        "url": "https://open.spotify.com/album/3tKcDDPlMgu3TOKIUf7Xjb"
+      },
+      "artists": [
+        {
+          "name": "Burrz",
+          "url": "https://open.spotify.com/artist/0jWbSiF3EIlsqIe1DjUnoh"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Sonhos",
+      "url": "https://open.spotify.com/track/4bdkXHkOvNGUr2UrKtCXJu"
     },
     {
       "added_at": "2024-04-18 23:00:00",

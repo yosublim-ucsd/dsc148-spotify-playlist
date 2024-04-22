@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY1wwcap53LA.md) - [plain]
 
 > Country music making waves\. Cover: Reyna Roberts, Tanner Adell, Brittney Spencer and Tiera Kennedy
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,256 likes - 139 songs - 7 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,291 likes - 139 songs - 7 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

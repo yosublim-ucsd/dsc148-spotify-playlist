@@ -2,7 +2,7 @@
 
 ### [This Is Phoebe Bridgers](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0N5yhI)
 
-> This Is Phoebe Bridgers\. Los temas esenciales, todos en una lista.
+> This is Phoebe Bridgers\. Todos os maiores hits em uma só playlist.
 
 66 songs - 4 hr 20 min
 

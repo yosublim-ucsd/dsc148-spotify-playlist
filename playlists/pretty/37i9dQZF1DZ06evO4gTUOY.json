@@ -1,12 +1,12 @@
 {
-  "description": "This Is Eminem. Los temas esenciales, todos en una lista.",
-  "num_followers": 3663974,
+  "description": "This is Eminem. The essential tracks, all in one playlist.",
+  "num_followers": 3662925,
   "original_name": "This Is Eminem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDdmOTMzOWE3ODdhMmM5YjgzMzYzYzZkZDQyZjlmN2Jl",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGM4NmZhNTk1ZDhkMmQ4MDRlZTU1ZjdkZjA5NTNiNTgz",
   "tracks": [
     {
       "added_at": null,
@@ -999,30 +999,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Eminem Show (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6EzbFdrwvWpnpUjzrR57aU"
+        "name": "Rebirth",
+        "url": "https://open.spotify.com/album/2v3xdUz73rd6Nness5SSIh"
       },
       "artists": [
         {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
           "name": "Eminem",
           "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        },
-        {
-          "name": "Tony Yayo",
-          "url": "https://open.spotify.com/artist/50UMTib697JJ44le8DO2Va"
-        },
-        {
-          "name": "50 Cent",
-          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
-        },
-        {
-          "name": "Lloyd Banks",
-          "url": "https://open.spotify.com/artist/3vDUJHQtqT3jFRZ2ECXDTi"
         }
       ],
-      "duration_ms": 281457,
-      "name": "Bump Heads",
-      "url": "https://open.spotify.com/track/4OYGHze5MiMkgozardIRxU"
+      "duration_ms": 229226,
+      "name": "Drop The World",
+      "url": "https://open.spotify.com/track/3e21cX0CVwzkQXiHz7WUQZ"
     }
   ],
   "unique_name": "This Is Eminem",

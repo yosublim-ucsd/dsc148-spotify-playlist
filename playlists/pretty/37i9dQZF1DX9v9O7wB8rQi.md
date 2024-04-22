@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9v9O7wB8rQi.md) - [plain]
 
 > Music from "GHOST IN THE SHELL SAC\_2045" and "ARISE" series has arrived!/「攻殻機動隊」シリーズを彩る音楽をひとつのプレイリストに。©S,IG/K/2045
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,992 likes - 47 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,963 likes - 47 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
-| 2 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
+| 1 | [Secret Ceremony](https://open.spotify.com/track/4H0jA4BmoPsR1g0YojlYKV) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU) | [Secret Ceremony](https://open.spotify.com/album/79uzDTAtLl2kp5bskMLgtQ) | 3:40 |
+| 2 | [No Time to Cast Anchor](https://open.spotify.com/track/1fNDKKuErDdqMka5NhwkeF) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU) | [No Time to Cast Anchor](https://open.spotify.com/album/6zeWOVv8Kt4iI5wqCR4eYt) | 3:12 |
 | 3 | [SAC\_2045](https://open.spotify.com/track/4V1EswwC6Sf14IGnNMWIMC) | [戸田信子×陣内一真](https://open.spotify.com/artist/4760RLuTxI29623sQovQyl), [戸田信子](https://open.spotify.com/artist/1p5QJt54eUDRP6qks4dO3d), [陣内一真](https://open.spotify.com/artist/5LnJiGWNnbWuFV46ItlLDs) | [攻殻機動隊 SAC\_2045 ORIGINAL SOUNDTRACK 2](https://open.spotify.com/album/6grVWZopVKS4GBqROrcL7Q) | 2:13 |
 | 4 | [Fly with me](https://open.spotify.com/track/71vmt0KizGHsixCbMpHlhV) | [millennium parade × ghost in the shell: SAC\_2045](https://open.spotify.com/artist/4TrqOjik4odYGs0pJpZwVw), [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ) | [Fly with me](https://open.spotify.com/album/1i00ESFv1vED85s1GtgQjS) | 4:37 |
 | 5 | [sustain++;](https://open.spotify.com/track/1QcKCeK0oOXwSknnlC1W3p) | [Mili](https://open.spotify.com/artist/0K05TDnN7xPwIHDOwD2YYs) | [Intrauterine Education](https://open.spotify.com/album/0RMVVFxZimOMAJi4Pveb0z) | 6:01 |

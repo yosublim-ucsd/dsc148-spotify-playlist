@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 
 > This week's best new metal & hard rock tracks\. Cover: High On Fire
 
-[Spotify](https://open.spotify.com/user/spotify) - 710,990 likes - 60 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 710,263 likes - 60 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5J7FIl4q56G.md) - [plain]
 | 4 | [Lambsbread](https://open.spotify.com/track/54i9gyfnqlodJRW5Kcnd8Q) | [High On Fire](https://open.spotify.com/artist/1eiIIImNeUj3vpaocWqoOf) | [Cometh The Storm](https://open.spotify.com/album/6p9Ia4q3Vrep9dFshfWFTU) | 5:44 |
 | 5 | [Feral](https://open.spotify.com/track/6H1NzgT2ATt9szN6kts3N3) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Out Of The Shadows 2.0](https://open.spotify.com/album/1wuycxQQV5GcXiF7H7HEEv) | 3:39 |
 | 6 | [Chaotic](https://open.spotify.com/track/4mdp26YsqfiqL6Fj9DJmaV) | [Memphis May Fire](https://open.spotify.com/artist/7cNNNhdJDrt3vgQjwSavNf) | [Chaotic](https://open.spotify.com/album/7CVMgkiSYe0PWvm6umBTwj) | 2:51 |
-| 7 | [In The Mean Time feat\. Ash Costello of New Years Day](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [Ash Costello](https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time feat\. Ash Costello of New Years Day](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 |
+| 7 | [In The Mean Time feat\. Ash Costello](https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL), [New Years Day](https://open.spotify.com/artist/7IEyUxk8jyEVz9Zm9H8bfg) | [In The Mean Time feat\. Ash Costello](https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V) | 3:33 |
 | 8 | [Lubricant Like Kerosene](https://open.spotify.com/track/1YKw45N7mTTsuyZPxe4Klz) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1), [Kim Dracula](https://open.spotify.com/artist/526TMJFuJibm9j2p9td9Yp) | [Coup de Grâce](https://open.spotify.com/album/3tp7UvthYQGlACoVpzJaAF) | 3:17 |
 | 9 | [Under The Skin](https://open.spotify.com/track/6tsI3hDX8QLySSK06W4YfJ) | [Calva Louise](https://open.spotify.com/artist/02nZLQtQ4vL5iHyp6atBrh) | [Under The Skin](https://open.spotify.com/album/4DFVyeCnVGzdm5Cw2lcLPs) | 4:12 |
 | 10 | [Forever](https://open.spotify.com/track/2pgfdzKN7YGPbYWfX0vagu) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Alejandro Aranda](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Forever](https://open.spotify.com/album/5GFLPDed9YmdBRfv9iyVgB) | 4:36 |

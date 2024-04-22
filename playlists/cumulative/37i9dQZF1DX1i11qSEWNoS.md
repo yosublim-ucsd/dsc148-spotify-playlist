@@ -4,7 +4,7 @@
 
 > und macht laune
 
-194 songs - 9 hr 20 min
+195 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Airwaves](https://open.spotify.com/track/5CqkgDH8QZjSqqI3HmYxDD) | [Pashanim](https://open.spotify.com/artist/34LetYSjEuG2fBb4Z8PwPg) | [Airwaves](https://open.spotify.com/album/4ZylcATH7a5JkgNNGXxwhJ) | 2:58 | 2023-07-21 | 2023-08-26 |
 | [All Night](https://open.spotify.com/track/4taclmQm9wFcK4dKQjR5ny) | [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L), [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg) | [All Night](https://open.spotify.com/album/5YX1KuyERTN67FxoqcLUQm) | 2:33 | 2023-07-21 |  |
 | [All The Things She Said \- Teaboy Flip](https://open.spotify.com/track/4r8vtv55ZqVxRAXdcLGS8J) | [TEABOY](https://open.spotify.com/artist/5iGDVVnLBTuVlgZRQd7L1x) | [All The Things She Said \(Teaboy Flip\)](https://open.spotify.com/album/69vWxMtXxJsbB4AXP4NFEe) | 2:44 | 2023-07-21 |  |
+| [Alle Haben Bock](https://open.spotify.com/track/2QUkcBV8t0A2AYH1G76EUB) | [Zombic](https://open.spotify.com/artist/6t0ofV5WMAz84Iqu0YkmTV), [PaSt](https://open.spotify.com/artist/10OSCZe5VI36g5KB44hZ7w), [D.T.E](https://open.spotify.com/artist/72HNCRVjK93J4ZnCY8rb1q) | [Alle Haben Bock](https://open.spotify.com/album/5RvApRrz1fSbYEBVgdtKPr) | 2:34 | 2024-04-11 |  |
 | [Alles ist relativ](https://open.spotify.com/track/3L4pLlkTz0WyZPza8tlAgx) | [BIG TIM](https://open.spotify.com/artist/7M8VQpddsuHZ3rlbsNnLKF) | [Alles ist relativ](https://open.spotify.com/album/0foO3UbcTAdLAk4vYRRRox) | 2:06 | 2023-12-01 |  |
 | [Anders](https://open.spotify.com/track/5TYmnScjaRecWuBqEaA7S5) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Ski Aggu](https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H) | [Anders](https://open.spotify.com/album/5AXp6zh5m2lyBV5OTH5iwq) | 2:35 | 2023-07-21 |  |
 | [ANNE KAFFEEKANNE](https://open.spotify.com/track/3m8GvywmS7eCJMcv5ApyXd) | [TIM PLVNK](https://open.spotify.com/artist/1nZvBVvZi86Bjf40oxsYEk) | [ANNE KAFFEEKANNE](https://open.spotify.com/album/2atktS9Fh4Qf5PSO0SrJ1i) | 2:20 | 2024-04-11 |  |
@@ -59,7 +60,7 @@
 | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/track/7AVyve7cFYTd51ha5i9kE2) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Colin Hay](https://open.spotify.com/artist/5mxB08ktCukEhGMg2YZeEv) | [Down Under \(feat\. Colin Hay\)](https://open.spotify.com/album/64xmSwJJbFQMf63AFYZXpW) | 2:38 | 2023-07-21 |  |
 | [Drugs From Amsterdam](https://open.spotify.com/track/0w7JPlp7eEQI2EKW3ayXrv) | [Mau P](https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv) | [Drugs From Amsterdam](https://open.spotify.com/album/060SvgMzLKrNzpvVLK5gSo) | 3:55 | 2023-07-21 | 2024-03-07 |
 | [Du bist irgendeine](https://open.spotify.com/track/2b4BepZzEaV874w02jZBi6) | [EN6O](https://open.spotify.com/artist/6mIDWMSkPgBJhOo4jzMqI4) | [Du bist irgendeine](https://open.spotify.com/album/0jbvdFNOg7tF4WuGi8Rwyn) | 1:45 | 2023-12-28 | 2024-01-02 |
-| [DU HAST DEN SCHÖNSTEN ARSCH DER WELT](https://open.spotify.com/track/0ppVqONIwiMl78qe8LANJU) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [DU HAST DEN SCHÖNSTEN ARSCH DER WELT](https://open.spotify.com/album/4xxZx9qbArmtWq4pQSAjsD) | 2:34 | 2024-04-11 |  |
+| [DU HAST DEN SCHÖNSTEN ARSCH DER WELT](https://open.spotify.com/track/0ppVqONIwiMl78qe8LANJU) | [FiNCH](https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD), [Alex Christensen](https://open.spotify.com/artist/2NbYIb2nZ2Z8YORBCbugPq) | [DU HAST DEN SCHÖNSTEN ARSCH DER WELT](https://open.spotify.com/album/4xxZx9qbArmtWq4pQSAjsD) | 2:34 | 2024-04-11 | 2024-04-22 |
 | [Durstlöscher](https://open.spotify.com/track/2QAsTQ1tydZ6mhYH2FyzfG) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [AVO](https://open.spotify.com/artist/3g8GEfox7TneqzId98rNGi), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Durstlöscher](https://open.spotify.com/album/4RF1l08nRRHF3lWfM35bUx) | 2:41 | 2023-07-21 | 2024-01-27 |
 | [ECHT \- Techno Mix](https://open.spotify.com/track/2Pyfpd75r3dC3nDgVA4fnX) | [NOISETIME](https://open.spotify.com/artist/0oW7WNHDC1tqLU3urqLKbC), [Glasperlenspiel](https://open.spotify.com/artist/2UFKXTZgKtOTHSqMSyAcLO), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai), [Stevio](https://open.spotify.com/artist/3RN5xNByg87vUHz3D692lM) | [ECHT \(Techno Mix\)](https://open.spotify.com/album/6EOe0HCjcuiOImjKJ7yAzR) | 2:04 | 2023-12-19 |  |
 | [Einmal um die Welt 2k23](https://open.spotify.com/track/5HSZBIy10tdHp6OuNwEEaU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [NIKSTER](https://open.spotify.com/artist/4lthXDxTc1gx0roDyIeaai) | [Einmal um die Welt 2k23](https://open.spotify.com/album/3a42tIOr7yy7FOBgrXT48a) | 2:15 | 2023-07-21 |  |

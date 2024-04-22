@@ -4,7 +4,7 @@
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: Rosario Ortega y Delfina Campos.
 
-144 songs - 8 hr 34 min
+145 songs - 8 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,7 +149,8 @@
 | [Una Canción Diferente](https://open.spotify.com/track/15JIAJtVW9FJe7q9BYIAsE) | [Celeste Carballo](https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW), [Juanse](https://open.spotify.com/artist/5AQlQBU9LCmQwReukeom2I) | [Celesteacustica](https://open.spotify.com/album/1tQKUvIE5Hy2AAu5vQ42xe) | 3:53 | 2024-04-19 |  |
 | [Utopia \(Versión Acústica\)](https://open.spotify.com/track/0djYzmnJUd8oiD55itwMM1) | [Sofia Hervier](https://open.spotify.com/artist/0bk1zGf1qLB7YC2NXPByE3) | [Utopía \(Versión Acústica\)](https://open.spotify.com/album/1ELj8bVKvWpjAqljMsFIkx) | 2:11 | 2023-08-18 | 2023-10-27 |
 | [Vasos Vacíos](https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Tributo A Los Fabulosos Cadillacs](https://open.spotify.com/album/124W0KG9oS8z7s7D8mGU76) | 5:21 | 2023-08-18 |  |
-| [Vámonos](https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vámonos](https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h) | 2:45 | 2024-04-19 |  |
+| [Voy Con Vos \- En Vivo](https://open.spotify.com/track/1t3Op2vLVRwSVATVvJzHzR) | [Lisandro Aristimuño](https://open.spotify.com/artist/0ovfSEcDqepf0vqJc811zQ), [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x), [Hilda Lizarazu](https://open.spotify.com/artist/1imu37uW2KnEiLMAKmQVgn) | [Constelaciones en el Luna Park \(En Vivo\)](https://open.spotify.com/album/0kjW8an3vJajEiUQ8Uvu10) | 3:26 | 2024-04-19 |  |
+| [Vámonos](https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vámonos](https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h) | 2:45 | 2024-04-19 | 2024-04-22 |
 | [y las flores? \(en bruto 1/2\)](https://open.spotify.com/track/7f5jzJFTBifZHuJTkOrLyt) | [J18](https://open.spotify.com/artist/0DAA1By7FZlx94U5BO4d6Q) | [travesía](https://open.spotify.com/album/6rYhu4elCJMNgreuzQfK4H) | 2:36 | 2023-08-18 | 2023-09-02 |
 | [yen3](https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV) | [lisandro skar](https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg) | [yen3](https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy) | 3:06 | 2023-08-18 |  |
 

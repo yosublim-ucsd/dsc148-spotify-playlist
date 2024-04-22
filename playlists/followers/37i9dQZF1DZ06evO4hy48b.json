@@ -1,7 +1,7 @@
 {
-  "2024-04-21": 197690,
+  "2024-04-22": 197702,
   "date_first_scraped": "2023-11-11",
-  "description": "This is Aitana. The essential tracks, all in one playlist.",
+  "description": "This Is Aitana. Los temas esenciales, todos en una lista.",
   "name": "This Is Aitana",
   "tracks": [
     {
@@ -691,7 +691,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 222640,
       "name": "Luna",
       "url": "https://open.spotify.com/track/531VAckj8CrGSXaE14kI9z"
@@ -757,10 +757,32 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 159360,
       "name": "miamor",
       "url": "https://open.spotify.com/track/1zTzz7nUxA2UxE6NhNTWSF"
+    },
+    {
+      "album": {
+        "name": "alpha",
+        "url": "https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        },
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159360,
+      "name": "miamor",
+      "url": "https://open.spotify.com/track/7qMXuEQmZzlQ6nDpxJfcRo"
     },
     {
       "album": {

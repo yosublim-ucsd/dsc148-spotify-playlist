@@ -1,12 +1,12 @@
 {
-  "description": "This Is Lenny Kravitz. Los temas esenciales, todos en una lista.",
-  "num_followers": 254946,
+  "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
+  "num_followers": 254959,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDY1MDI0NmZjNTU3NzQ1NWZhZDg4YjY1N2M2ODhiZTcx",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGNjMDYwNDQ5NjQzNjg5NGQyMzk4YjIwY2U1YTUyNWE4",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
       "duration_ms": 264560,
       "name": "American Woman",
       "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Are You Gonna Go My Way",
-        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 191200,
-      "name": "Heaven Help",
-      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 464733,
       "name": "Little Girl's Eyes",
       "url": "https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mama Said",
+        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "More Than Anything In This World",
+      "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

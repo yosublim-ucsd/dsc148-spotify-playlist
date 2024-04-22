@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 91225,
+  "2024-04-22": 91344,
   "date_first_scraped": "2022-06-10",
   "description": "Cl\u00e1sicas rom\u00e1nticas, melodiosas, apacibles.",
   "name": "bohemia tranqui",
@@ -690,6 +690,24 @@
     },
     {
       "album": {
+        "name": "Morning Mood",
+        "url": "https://open.spotify.com/album/6UluutaZLcT5YTmmMlr6AL"
+      },
+      "artists": [
+        {
+          "name": "mar-feliz",
+          "url": "https://open.spotify.com/artist/2mzOhpj1B9Yc4ORHgsATmN"
+        }
+      ],
+      "date_added": "2023-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108975,
+      "name": "Morning Mood",
+      "url": "https://open.spotify.com/track/7dGyECgFJK1FhZdkHkLq3q"
+    },
+    {
+      "album": {
         "name": "Te Amo TV 3 - los Exitos Originales de las Telenovelas",
         "url": "https://open.spotify.com/album/4dsGgVv1nbRUmZEZDKC9Mn"
       },
@@ -943,7 +961,7 @@
       ],
       "date_added": "2021-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 167466,
       "name": "Por Ti",
       "url": "https://open.spotify.com/track/5yRsYFUzZma7IaXhROkuo8"

@@ -1,12 +1,12 @@
 {
-  "description": "This is Black Alien. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 32439,
+  "description": "This is Black Alien. The essential tracks, all in one playlist.",
+  "num_followers": 32458,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDU0ZTVjMmExYjc1NGQ0NjFmZGE1NGY5MDQxZDZhMTIy",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGM0MzUzNjAyZTdjNGNjMzJhYjU5YjEyMjQ2NDJmNGRj",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Sangue de Free - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Fast Five (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4m2xhUYfu1TIPoSDpQAOp8"
       },
@@ -627,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
+        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
+      },
+      "artists": [
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 212725,
+      "name": "Homem de Fam\u00edlia",
+      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rael Convida: Black Alien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
       },
@@ -640,25 +676,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 177746,
-      "name": "Sangue de Free - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
-        "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 212725,
-      "name": "Homem de Fam\u00edlia",
-      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
+      "duration_ms": 241653,
+      "name": "Terra - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T"
     },
     {
       "added_at": null,
@@ -719,26 +739,6 @@
       "duration_ms": 420674,
       "name": "Feeling",
       "url": "https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 241653,
-      "name": "Terra - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T"
     },
     {
       "added_at": null,

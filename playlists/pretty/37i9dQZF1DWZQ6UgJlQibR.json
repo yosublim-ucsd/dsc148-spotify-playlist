@@ -1,6 +1,6 @@
 {
   "description": "Where music and emotions meet. Cover: <a href=\"spotify:artist:7Ddov9nbJDbpgzvBVb7cU1\">George Wassouf</a>",
-  "num_followers": 81074,
+  "num_followers": 81031,
   "original_name": "Tarab",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Haramt Ahebak",
-        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
-      },
-      "artists": [
-        {
-          "name": "Warda",
-          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
-        }
-      ],
-      "duration_ms": 476487,
-      "name": "Haramt Ahebak",
-      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Law Fina",
         "url": "https://open.spotify.com/album/6i64TppqvGbIw0feHLRgNB"
       },
@@ -199,6 +183,22 @@
       "duration_ms": 376386,
       "name": "Wahashtini",
       "url": "https://open.spotify.com/track/3tNjYMW0KORaE2tK1Sjd7J"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Haramt Ahebak",
+        "url": "https://open.spotify.com/album/47QmEHiw3P8huVwZ0jHeUo"
+      },
+      "artists": [
+        {
+          "name": "Warda",
+          "url": "https://open.spotify.com/artist/3myefQO8upDe4aNxjTFddr"
+        }
+      ],
+      "duration_ms": 476487,
+      "name": "Haramt Ahebak",
+      "url": "https://open.spotify.com/track/14XBdaGIR0iIaLHquiUWr5"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -255,6 +255,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 389773,
+      "name": "Al-Hobbi Koullou",
+      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Master of Andalusian Folklore: Traditional Syrian Songs",
         "url": "https://open.spotify.com/album/3vnpDLv3yONaJBcs3Du2HN"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 666840,
       "name": "Alloulou al-Mamdood / Loulou Bi Loulou",
       "url": "https://open.spotify.com/track/5W9KJkUcyLchbT3fV0kX8l"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Sultan's of Al Tarab, Vol. 4",
-        "url": "https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65"
-      },
-      "artists": [
-        {
-          "name": "Ahmad Abdar",
-          "url": "https://open.spotify.com/artist/3Zdzznb63NbHmP6Iowy22x"
-        }
-      ],
-      "duration_ms": 135506,
-      "name": "Ala El Aadid Ijtamaana",
-      "url": "https://open.spotify.com/track/7FkTCLunm1yMQuRDsfJtcH"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -303,6 +303,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Sultan's of Al Tarab, Vol. 4",
+        "url": "https://open.spotify.com/album/6oHJk3MZboCBJzqHsOZe65"
+      },
+      "artists": [
+        {
+          "name": "Ahmad Abdar",
+          "url": "https://open.spotify.com/artist/3Zdzznb63NbHmP6Iowy22x"
+        }
+      ],
+      "duration_ms": 135506,
+      "name": "Ala El Aadid Ijtamaana",
+      "url": "https://open.spotify.com/track/7FkTCLunm1yMQuRDsfJtcH"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Sheel Oyoonak Anni",
         "url": "https://open.spotify.com/album/3XuDhEdBDaT1zd9mmUfo77"
       },
@@ -319,6 +335,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+      },
+      "artists": [
+        {
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+        }
+      ],
+      "duration_ms": 449226,
+      "name": "Ibaati Gawab",
+      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "El Zakah",
         "url": "https://open.spotify.com/album/7qHio96eRUQ6lwWKH44QFc"
       },
@@ -331,22 +363,6 @@
       "duration_ms": 119318,
       "name": "El Zakah",
       "url": "https://open.spotify.com/track/5BPiU4eojxCA9PHLRi8x4t"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 389773,
-      "name": "Al-Hobbi Koullou",
-      "url": "https://open.spotify.com/track/5ndZ0322fIgfW7eTgRr5Ly"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -399,6 +415,22 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Beateriflik",
+        "url": "https://open.spotify.com/album/5Io8slUHRxxvIsRulY3WBI"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "duration_ms": 542998,
+      "name": "Beateriflik",
+      "url": "https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Osset Helem (Live)",
         "url": "https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW"
       },
@@ -431,54 +463,6 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
-      },
-      "artists": [
-        {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
-        }
-      ],
-      "duration_ms": 449226,
-      "name": "Ibaati Gawab",
-      "url": "https://open.spotify.com/track/1czNqDPs2M3AKufyOxinDR"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Sahra (Live Rare Concert Recording)",
-        "url": "https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl"
-      },
-      "artists": [
-        {
-          "name": "Fadel Chaker",
-          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
-        }
-      ],
-      "duration_ms": 296800,
-      "name": "Ya habibi - Live",
-      "url": "https://open.spotify.com/track/7foZcrSugkCx062oIi4wVQ"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Beateriflik",
-        "url": "https://open.spotify.com/album/5Io8slUHRxxvIsRulY3WBI"
-      },
-      "artists": [
-        {
-          "name": "Wael Kfoury",
-          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
-        }
-      ],
-      "duration_ms": 542998,
-      "name": "Beateriflik",
-      "url": "https://open.spotify.com/track/56RjD8YTvGYNhwATPxTrbJ"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
         "name": "Melhem Barakat",
         "url": "https://open.spotify.com/album/5NV5n0I5B6MxYYWV9cd3vK"
       },
@@ -495,34 +479,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Ma Tehun",
-        "url": "https://open.spotify.com/album/0KgqHCprFfPZn4DKAA4zXr"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
       },
       "artists": [
         {
-          "name": "Yara",
-          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+          "name": "Nour Mehanna",
+          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
         }
       ],
-      "duration_ms": 297500,
-      "name": "Ma Tehun",
-      "url": "https://open.spotify.com/track/39ohufVtqCn9ySNSL0800B"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Tarab Shaimaa Elshayeb",
-        "url": "https://open.spotify.com/album/1Zfo16P7bNcUjR4ymd1L8B"
-      },
-      "artists": [
-        {
-          "name": "Shaimaa ElShayeb",
-          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
-        }
-      ],
-      "duration_ms": 213838,
-      "name": "Ashka W Ghalbana",
-      "url": "https://open.spotify.com/track/4h1vT91RaEVpHw5mps8kBA"
+      "duration_ms": 321120,
+      "name": "Khamratal Houbbi",
+      "url": "https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -547,6 +515,54 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
+        "name": "Ma Tehun",
+        "url": "https://open.spotify.com/album/0KgqHCprFfPZn4DKAA4zXr"
+      },
+      "artists": [
+        {
+          "name": "Yara",
+          "url": "https://open.spotify.com/artist/46FJPTBdnCK0GMd76nil6e"
+        }
+      ],
+      "duration_ms": 297500,
+      "name": "Ma Tehun",
+      "url": "https://open.spotify.com/track/39ohufVtqCn9ySNSL0800B"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Sahra (Live Rare Concert Recording)",
+        "url": "https://open.spotify.com/album/7hsND1sb0FyP41zUE7GSMl"
+      },
+      "artists": [
+        {
+          "name": "Fadel Chaker",
+          "url": "https://open.spotify.com/artist/1LljnS3oumQ36wdBhkPKrs"
+        }
+      ],
+      "duration_ms": 296800,
+      "name": "Ya habibi - Live",
+      "url": "https://open.spotify.com/track/7foZcrSugkCx062oIi4wVQ"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
+        "name": "Tarab Shaimaa Elshayeb",
+        "url": "https://open.spotify.com/album/1Zfo16P7bNcUjR4ymd1L8B"
+      },
+      "artists": [
+        {
+          "name": "Shaimaa ElShayeb",
+          "url": "https://open.spotify.com/artist/2hEKer00BCTbnluLPC0Mbr"
+        }
+      ],
+      "duration_ms": 213838,
+      "name": "Ashka W Ghalbana",
+      "url": "https://open.spotify.com/track/4h1vT91RaEVpHw5mps8kBA"
+    },
+    {
+      "added_at": "2022-09-13 14:22:57",
+      "album": {
         "name": "Ah Ya Lamouny",
         "url": "https://open.spotify.com/album/6z6bmdmPwaKnwPvDnAb7gX"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 348640,
       "name": "Ya Habibti Ya Masr",
       "url": "https://open.spotify.com/track/5Qwrje2t7Nzl1XYbLyGdeE"
-    },
-    {
-      "added_at": "2022-09-13 14:22:57",
-      "album": {
-        "name": "Osset Helem (Live)",
-        "url": "https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW"
-      },
-      "artists": [
-        {
-          "name": "Nassif Zeytoun",
-          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
-        }
-      ],
-      "duration_ms": 303765,
-      "name": "Debna Aa Ghiyabak - Live",
-      "url": "https://open.spotify.com/track/2RitpqrakB9vc8qvLgZnDH"
     },
     {
       "added_at": "2022-09-13 14:22:57",
@@ -595,18 +595,18 @@
     {
       "added_at": "2022-09-13 14:22:57",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/7ALk1jLl63umul7khEyEjD"
+        "name": "Osset Helem (Live)",
+        "url": "https://open.spotify.com/album/4iHkEaRoDSkP7FImQUBFxW"
       },
       "artists": [
         {
-          "name": "Nour Mehanna",
-          "url": "https://open.spotify.com/artist/5AILvx0r074KUi1FDzRsoF"
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
         }
       ],
-      "duration_ms": 321120,
-      "name": "Khamratal Houbbi",
-      "url": "https://open.spotify.com/track/1Iz1pyVDrnEAJkutlgQxXL"
+      "duration_ms": 303765,
+      "name": "Debna Aa Ghiyabak - Live",
+      "url": "https://open.spotify.com/track/2RitpqrakB9vc8qvLgZnDH"
     },
     {
       "added_at": "2022-09-13 14:22:57",

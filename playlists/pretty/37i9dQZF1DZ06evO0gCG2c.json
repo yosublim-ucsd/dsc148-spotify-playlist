@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 292146,
+  "num_followers": 292090,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDU2MzljZTA5OTgwMzhhMjI2ZTcxZWVmODJmMDcwMjQ3",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGUxYmMzOTg1YTQzODgzYmViOGZkN2RkNjBmZWU4YTdh",
   "tracks": [
     {
       "added_at": null,
@@ -823,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One More Love",
+        "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
+      },
+      "artists": [
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        }
+      ],
+      "duration_ms": 194346,
+      "name": "Sexy Chick (feat. Akon)",
+      "url": "https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Locked Up (ft. Akon)",
         "url": "https://open.spotify.com/album/4eUAfbKPrliNUtflCe6sEu"
       },
@@ -843,26 +863,6 @@
       "duration_ms": 147170,
       "name": "Locked Up (ft. Akon)",
       "url": "https://open.spotify.com/track/7kITGCwFNyrwG98FQTjM53"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One More Love",
-        "url": "https://open.spotify.com/album/5bRrEsH3Mjl8O0lpUgdIHI"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        }
-      ],
-      "duration_ms": 194346,
-      "name": "Sexy Chick (feat. Akon)",
-      "url": "https://open.spotify.com/track/4MKzCHlZvkwJOQRNkdw4zq"
     },
     {
       "added_at": null,
@@ -1011,22 +1011,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me We're Ok - Single",
-        "url": "https://open.spotify.com/album/0YKav7VhBM8vUefVsGCNvT"
+        "name": "Tha Blue Carpet Treatment",
+        "url": "https://open.spotify.com/album/5EyEI8tm60S6y2YKbjE0xI"
       },
       "artists": [
         {
-          "name": "DJ Hardwerk",
-          "url": "https://open.spotify.com/artist/5eX67XYPPv11MhDIdIoCN4"
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
         },
         {
           "name": "Akon",
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 278740,
-      "name": "Tell Me We're Ok",
-      "url": "https://open.spotify.com/track/6gHG47OtyMngVSvRSw6tuH"
+      "duration_ms": 202680,
+      "name": "Boss' Life",
+      "url": "https://open.spotify.com/track/4UprL40OVADveANAtCNrIa"
     }
   ],
   "unique_name": "This Is Akon",

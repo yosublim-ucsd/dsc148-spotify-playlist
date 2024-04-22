@@ -92,7 +92,6 @@
 | [WIN \- "The God of HighSchool" ED](https://open.spotify.com/track/7apQPgVEiRpAIFe8VaeB7h) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [WIN \("The God of HighSchool" ED\)](https://open.spotify.com/album/3Nc5br1HThZq5XrCI802gX) | 3:25 | 2022-05-10 |  |
 | [Windy](https://open.spotify.com/track/6L9ppkvgd57cyrEqtVUqZb) | [CHEMISTRY](https://open.spotify.com/artist/257kEbQnBziYfmtmqiNuNE) | [CHEMISTRY](https://open.spotify.com/album/7qI4Y22vz8c2zzRxKLw1Fw) | 4:25 | 2022-05-10 |  |
 | [Without Love](https://open.spotify.com/track/1GBl9PT3AV0qph1dEtGnzp) | [LMYK](https://open.spotify.com/artist/7a2CrMd3xwcZDDC39OKUGg) | [Without Love](https://open.spotify.com/album/2PqGRaQmk2DjD3yTSMSZ71) | 4:07 | 2023-04-25 |  |
-| [W●RK](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [millennium parade](https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [W●RK](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 |  |
 | [You Only Live Once](https://open.spotify.com/track/7bCQjrEH2zcKqqiGm35GQW) | [YURI!!! on ICE](https://open.spotify.com/artist/1TdCQle8fQvM4Tk2cVEZSZ), [w.hatano](https://open.spotify.com/artist/0ZJgJU3awP4bitIUvVzGtO) | [You Only Live Once](https://open.spotify.com/album/7dyihdys9qBZj1XG7evPZ8) | 3:45 | 2022-05-10 |  |
 | [さよならごっこ](https://open.spotify.com/track/7H09NfuWbm1lhCqtPb5M5s) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [ボイコット](https://open.spotify.com/album/3L2UTa9fUGVuIGtrOqsMGX) | 4:32 | 2022-05-10 |  |
 | [さよならごっこ](https://open.spotify.com/track/7ha9B32izQ0Ni2RtSzm2C4) | [amazarashi](https://open.spotify.com/artist/6T4K8YuFc0JPDrYgABbxao) | [BOYCOTT](https://open.spotify.com/album/1PdHNXd6zUwYxcadffHHBX) | 4:32 | 2022-05-10 | 2022-10-03 |
@@ -176,5 +175,6 @@
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-13 |  |
 | [風、花](https://open.spotify.com/track/2LyD72XzzJMSKqGrddyVr4) | [Hitorie](https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0) | [風、花](https://open.spotify.com/album/0uZBgvAuuoejT0ZcCzFXaj) | 3:16 | 2022-05-10 |  |
 | [鳴り響く限り](https://open.spotify.com/track/1AudHfLgLyJoDvqBTZBtSU) | [YUKI](https://open.spotify.com/artist/380DW51qbu5pSP8crFRIII) | [鳴り響く限り](https://open.spotify.com/album/6NDdztWIUAsK2pbmDvWjND) | 3:53 | 2022-05-10 |  |
+| [Ｗ●ＲＫ](https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf) | [ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ](https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU), [Sheena Ringo](https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi) | [Ｗ●ＲＫ](https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB) | 3:21 | 2023-03-31 |  |
 
 \*This playlist was first scraped on 2022-06-10. Prior content cannot be recovered.

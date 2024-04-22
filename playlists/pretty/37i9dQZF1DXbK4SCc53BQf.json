@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Aqui est\u00e1n todas las esenciales Tropicales de adoraci\u00f3n!",
-  "num_followers": 95593,
+  "num_followers": 95447,
   "original_name": "Inspiraci\u00f3n Tropical",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Flaming Fire",
+        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
+      },
+      "artists": [
+        {
+          "name": "Melvin Ayala",
+          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
+        }
+      ],
+      "duration_ms": 212146,
+      "name": "Que No Faltes Tu",
+      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "Voy a Amarte",
         "url": "https://open.spotify.com/album/18PfvYdVeeRdXLi9VbtK71"
       },
@@ -123,6 +139,22 @@
       "duration_ms": 207360,
       "name": "Voy a Amarte",
       "url": "https://open.spotify.com/track/5bbOzB0tnW6aNPjt3gvFGi"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Enamorarme Mas",
+        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
+      },
+      "artists": [
+        {
+          "name": "Christian Ray",
+          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
+        }
+      ],
+      "duration_ms": 275426,
+      "name": "Perfume a Tus Pies",
+      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -143,38 +175,6 @@
       "duration_ms": 222506,
       "name": "Una Nueva Canci\u00f3n (feat. Kike Pav\u00f3n)",
       "url": "https://open.spotify.com/track/2s4npyJ0dfZ3uEZ5mw6X7K"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Flaming Fire",
-        "url": "https://open.spotify.com/album/4MYWnUXEyqvznkPcIkaDMR"
-      },
-      "artists": [
-        {
-          "name": "Melvin Ayala",
-          "url": "https://open.spotify.com/artist/5EGSaehrI82YE3RpU6GkLS"
-        }
-      ],
-      "duration_ms": 212146,
-      "name": "Que No Faltes Tu",
-      "url": "https://open.spotify.com/track/4ct64YIDnmfCDYPiVidt8l"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Enamorarme Mas",
-        "url": "https://open.spotify.com/album/3wkaAjJkem9YQO9l7SGmQa"
-      },
-      "artists": [
-        {
-          "name": "Christian Ray",
-          "url": "https://open.spotify.com/artist/31b011kEKkVK3I5v56GOig"
-        }
-      ],
-      "duration_ms": 275426,
-      "name": "Perfume a Tus Pies",
-      "url": "https://open.spotify.com/track/2yJyqIIEH2uBAyNqjXnDEM"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -255,6 +255,22 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        }
+      ],
+      "duration_ms": 264800,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
         "name": "PANORAMA",
         "url": "https://open.spotify.com/album/7wD8rF1uNrehwaVoPgQn33"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 248857,
       "name": "Good Good Father (feat. Avion Blackman)",
       "url": "https://open.spotify.com/track/2ZlaPNCTkfbyOn29z3DrSo"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
-        "name": "Sin Ti",
-        "url": "https://open.spotify.com/album/74TJfLPvOdH3Pn04Vt7jjH"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        }
-      ],
-      "duration_ms": 264800,
-      "name": "Sin Ti",
-      "url": "https://open.spotify.com/track/08PHbleBCzVQqiHeLi3631"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -443,18 +443,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Te Entrego Mi Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
+        "name": "La Fe Que Dios Me Di\u00f3",
+        "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
       },
       "artists": [
         {
-          "name": "Pablo Betancourth",
-          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
+          "name": "Cesar Roncallo",
+          "url": "https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK"
         }
       ],
-      "duration_ms": 207965,
-      "name": "Te Entrego Mi Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
+      "duration_ms": 198599,
+      "name": "La Fe Que Dios Me Di\u00f3",
+      "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -483,18 +483,18 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "La Fe Que Dios Me Di\u00f3",
-        "url": "https://open.spotify.com/album/18ECiI6oY13SIADC1tEW7K"
+        "name": "Te Entrego Mi Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1zthoHj47DANo7hIwf0ZcT"
       },
       "artists": [
         {
-          "name": "Cesar Roncallo",
-          "url": "https://open.spotify.com/artist/0XiaBeWLxRwCckee0NN9zK"
+          "name": "Pablo Betancourth",
+          "url": "https://open.spotify.com/artist/1HswyM5Xhfp8mogA5HJALe"
         }
       ],
-      "duration_ms": 198599,
-      "name": "La Fe Que Dios Me Di\u00f3",
-      "url": "https://open.spotify.com/track/5HMsPerWX3t7dgzQiRiIzB"
+      "duration_ms": 207965,
+      "name": "Te Entrego Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/3vjUs4D0CfYuABhwMyG50o"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -555,22 +555,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Reden\u00e7\u00e3o e Liberdade",
-        "url": "https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr"
-      },
-      "artists": [
-        {
-          "name": "Gilvan Santana",
-          "url": "https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds"
-        }
-      ],
-      "duration_ms": 216351,
-      "name": "Hora de Cantar",
-      "url": "https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Ven Te Estado Esperando",
         "url": "https://open.spotify.com/album/3odRdzPRVRi3yHzwl1h71d"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 349909,
       "name": "Hermoso Nombre",
       "url": "https://open.spotify.com/track/2xz5VHm0Wa0YKVlbIwtOU5"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Reden\u00e7\u00e3o e Liberdade",
+        "url": "https://open.spotify.com/album/0HQK2BQHcScsqFtagdDCVr"
+      },
+      "artists": [
+        {
+          "name": "Gilvan Santana",
+          "url": "https://open.spotify.com/artist/7yCl5PCByfPpREKqgiiyds"
+        }
+      ],
+      "duration_ms": 216351,
+      "name": "Hora de Cantar",
+      "url": "https://open.spotify.com/track/5o4vm04U4p8r4ViAOChKtT"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -667,22 +667,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Salsa De Amor Vol. 4",
-        "url": "https://open.spotify.com/album/2thWavVdha911NOv0EB2VQ"
-      },
-      "artists": [
-        {
-          "name": "Kevin Ceballo",
-          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
-        }
-      ],
-      "duration_ms": 271466,
-      "name": "El Milagro De Tu Amor",
-      "url": "https://open.spotify.com/track/6QS38Fn4nJfpeQzYnXl9iD"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Dise\u00f1o Original",
         "url": "https://open.spotify.com/album/1k2T2Xm7K8XRGQX6UZNTbg"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 251333,
       "name": "Empezar de Nuevo",
       "url": "https://open.spotify.com/track/6VFytIFJB96QQWVIYUkjPW"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Salsa De Amor Vol. 4",
+        "url": "https://open.spotify.com/album/2thWavVdha911NOv0EB2VQ"
+      },
+      "artists": [
+        {
+          "name": "Kevin Ceballo",
+          "url": "https://open.spotify.com/artist/41xsiEh9qfWhieXgsoI43v"
+        }
+      ],
+      "duration_ms": 271466,
+      "name": "El Milagro De Tu Amor",
+      "url": "https://open.spotify.com/track/6QS38Fn4nJfpeQzYnXl9iD"
     },
     {
       "added_at": "2020-11-24 13:23:55",
@@ -743,22 +743,6 @@
     {
       "added_at": "2020-11-24 13:23:55",
       "album": {
-        "name": "Vestida De Adoracion",
-        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
-      },
-      "artists": [
-        {
-          "name": "Kathy Cristina",
-          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
-        }
-      ],
-      "duration_ms": 257650,
-      "name": "Yo Te Adoro",
-      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
-    },
-    {
-      "added_at": "2020-11-24 13:23:55",
-      "album": {
         "name": "Quinto Elemento",
         "url": "https://open.spotify.com/album/1Jlnu4bxr0NhJZLg9SZ8qx"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 191549,
       "name": "Va Cae",
       "url": "https://open.spotify.com/track/7zyrVOD70rjN3QMVTcERBq"
+    },
+    {
+      "added_at": "2020-11-24 13:23:55",
+      "album": {
+        "name": "Vestida De Adoracion",
+        "url": "https://open.spotify.com/album/3HL5KhmbzAuVBSPQoaUwZu"
+      },
+      "artists": [
+        {
+          "name": "Kathy Cristina",
+          "url": "https://open.spotify.com/artist/287HBPD9OBO14J8gsG0Da4"
+        }
+      ],
+      "duration_ms": 257650,
+      "name": "Yo Te Adoro",
+      "url": "https://open.spotify.com/track/6RF34iBYJpnFGaYUXgIfvi"
     },
     {
       "added_at": "2020-11-24 13:23:55",

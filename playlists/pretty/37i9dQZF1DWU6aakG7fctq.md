@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: VALÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,435 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,781 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 | 47 | [NSQD](https://open.spotify.com/track/2M6cqvG7RlSswImTO5jX4B) | [Manu Beker](https://open.spotify.com/artist/2MrcyIp9eo5ksKDkyeX6KH) | [NSQD](https://open.spotify.com/album/0JL4oHOY2RHnPBLUoVqi2c) | 2:22 |
 | 48 | [De noche me cuesta más](https://open.spotify.com/track/1wKatnmF8t1Lt1rt7Ele0C) | [Pol](https://open.spotify.com/artist/0di3IdbM04Sd886p1steuf) | [De noche me cuesta más](https://open.spotify.com/album/1G5R8Vx4NhbZcLecnNjQ79) | 3:44 |
 | 49 | [Primavera](https://open.spotify.com/track/6fvq7tLQ4WXoMVfCQkKgyU) | [Champ Jr.](https://open.spotify.com/artist/4VQ1gn6ljyT8pVQKjZbgRr) | [Primavera](https://open.spotify.com/album/5jkWkpNd7YFkq37CLGJwIi) | 3:42 |
-| 50 | [la noche del viernes](https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [la noche del viernes](https://open.spotify.com/album/6Q2IqXwMVZvkDw4bZ4y1ls) | 3:01 |
+| 50 | [la noche del viernes](https://open.spotify.com/track/28jSqIffzDrb03shMCAPp9) | [Santi Muk](https://open.spotify.com/artist/0IaiZRhsEDKT58KYfU5isz) | [la noche del viernes](https://open.spotify.com/album/6Q2IqXwMVZvkDw4bZ4y1ls) | 3:02 |
 | 51 | [Un Rayo de Luz](https://open.spotify.com/track/5U3PdgKSiB4mz5DRuhR4FK) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Rayo de Luz](https://open.spotify.com/album/3A4HLW7VGA5Rm44QzEmGWr) | 3:42 |
 | 52 | [Cuadriculado](https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh) | [Javypablo](https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq) | [Cuadriculado](https://open.spotify.com/album/5lOF69vy9TfGYX6E8C8LgX) | 2:49 |
 | 53 | [Volver](https://open.spotify.com/track/2RnHwAElxef6tyAkt7mKl1) | [Jorge Prada](https://open.spotify.com/artist/7MNJy93yO4MA7MWAzfAMGo) | [Volver](https://open.spotify.com/album/2YtzQcmkcgzO2kzpNm1AoC) | 2:12 |

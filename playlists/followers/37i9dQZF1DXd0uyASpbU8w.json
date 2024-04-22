@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 86696,
+  "2024-04-22": 86740,
   "date_first_scraped": "2023-05-19",
   "description": "The hottest tracks picked from the latest new releases in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ?si=HR_Ft7FcTuuDgcQfNX8fmQ\">Uncle Waffles</a>",
   "name": "New Music Friday South Africa",
@@ -22890,7 +22890,7 @@
     },
     {
       "album": {
-        "name": "Nay' indaba",
+        "name": "NAY' INDABA",
         "url": "https://open.spotify.com/album/6lq7yEisfybFUNRRVHJQ6K"
       },
       "artists": [
@@ -23604,7 +23604,7 @@
     },
     {
       "album": {
-        "name": "Indian Sarangi",
+        "name": "Indian Sarangi (feat. Deestar ZA)",
         "url": "https://open.spotify.com/album/3OFwCfnVQusXF5Do74ElwS"
       },
       "artists": [
@@ -23619,13 +23619,17 @@
         {
           "name": "Longkay",
           "url": "https://open.spotify.com/artist/3IZzNubzVhF1OabrBl0fmx"
+        },
+        {
+          "name": "Deestar Za",
+          "url": "https://open.spotify.com/artist/1EVlFkPHFtkUOpwWFKkIXI"
         }
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 348318,
-      "name": "Indian Sarangi",
+      "name": "Indian Sarangi (feat. Deestar ZA)",
       "url": "https://open.spotify.com/track/6M1wDYOXfFHoArcaV0TwIP"
     },
     {

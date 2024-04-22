@@ -1,6 +1,6 @@
 {
   "description": "Los temas inmortales de Selena en voces de nuevos int\u00e9rpretes",
-  "num_followers": 20436,
+  "num_followers": 20459,
   "original_name": "Selena Cancionero",
   "owner": {
     "name": "Spotify",
@@ -227,26 +227,6 @@
     {
       "added_at": "2023-01-09 06:20:56",
       "album": {
-        "name": "Enamorada de Ti",
-        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        },
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 175573,
-      "name": "Como La Flor",
-      "url": "https://open.spotify.com/track/6o5ZlCDb85cE8jrhkYysiE"
-    },
-    {
-      "added_at": "2023-01-09 06:20:56",
-      "album": {
         "name": "Movie Soundtrack",
         "url": "https://open.spotify.com/album/6tgYUMd4BkJnE88UfrUSDO"
       },
@@ -331,6 +311,26 @@
     {
       "added_at": "2023-01-09 06:20:56",
       "album": {
+        "name": "Enamorada de Ti",
+        "url": "https://open.spotify.com/album/6QT2jnwcvYH2H3fEbXeu0l"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        },
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 175573,
+      "name": "Como La Flor",
+      "url": "https://open.spotify.com/track/6o5ZlCDb85cE8jrhkYysiE"
+    },
+    {
+      "added_at": "2023-01-09 06:20:56",
+      "album": {
         "name": "Reyna",
         "url": "https://open.spotify.com/album/6gurGGQvCTVdFZZh1Abs3c"
       },
@@ -359,26 +359,6 @@
       "duration_ms": 200269,
       "name": "No Me Queda M\u00e1s",
       "url": "https://open.spotify.com/track/4CWNGOfdt0hBP5hBkQUX85"
-    },
-    {
-      "added_at": "2023-01-09 06:20:56",
-      "album": {
-        "name": "Amor Prohibido",
-        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
-      },
-      "artists": [
-        {
-          "name": "Selena",
-          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
-        },
-        {
-          "name": "Barrio Boyzz",
-          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Donde Quiera Que Est\u00e9s",
-      "url": "https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU"
     },
     {
       "added_at": "2023-01-09 06:20:56",
@@ -435,8 +415,8 @@
     {
       "added_at": "2023-01-09 06:20:56",
       "album": {
-        "name": "Enamorada De Ti",
-        "url": "https://open.spotify.com/album/0foXhJIAVKcMJybslend7Q"
+        "name": "Amor Prohibido",
+        "url": "https://open.spotify.com/album/6iv9WTw1nhNxSsgKaxMp4E"
       },
       "artists": [
         {
@@ -444,13 +424,13 @@
           "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
         },
         {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+          "name": "Barrio Boyzz",
+          "url": "https://open.spotify.com/artist/2pEJhUF93gQGPdWJnusnZp"
         }
       ],
-      "duration_ms": 179066,
-      "name": "Enamorada De Ti - Merengue Mix",
-      "url": "https://open.spotify.com/track/5gCNPCHNnK9DGjlwSb9R7z"
+      "duration_ms": 273000,
+      "name": "Donde Quiera Que Est\u00e9s",
+      "url": "https://open.spotify.com/track/7qUmi5fQAZ2FWvVb91tAvU"
     },
     {
       "added_at": "2023-01-09 06:20:56",
@@ -467,6 +447,26 @@
       "duration_ms": 176365,
       "name": "Como la Flor",
       "url": "https://open.spotify.com/track/7bZ50bzuhzhOoNomJPq5xr"
+    },
+    {
+      "added_at": "2023-01-09 06:20:56",
+      "album": {
+        "name": "Enamorada De Ti",
+        "url": "https://open.spotify.com/album/0foXhJIAVKcMJybslend7Q"
+      },
+      "artists": [
+        {
+          "name": "Selena",
+          "url": "https://open.spotify.com/artist/6IE6z7DcZIT4Ml3Fh5Ivch"
+        },
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 179066,
+      "name": "Enamorada De Ti - Merengue Mix",
+      "url": "https://open.spotify.com/track/5gCNPCHNnK9DGjlwSb9R7z"
     },
     {
       "added_at": "2023-01-09 06:20:56",

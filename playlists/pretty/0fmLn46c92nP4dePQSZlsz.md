@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0fmLn46c92nP4dePQSZlsz.md) - [plain]
 
 > Secretly's collection of the best new music from independent artists and labels everywhere\. Updates bi\-weekly\. Cover star: <a href="https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik?si=ii79IxucQ1W1kS2\-4zUCxg">Cassandra Jenkins</a>
 
-[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,065 likes - 70 songs - 4 hr 9 min
+[Secretly Group](https://open.spotify.com/user/secretlygroup) - 17,059 likes - 70 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

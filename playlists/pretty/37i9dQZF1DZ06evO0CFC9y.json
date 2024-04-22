@@ -1,12 +1,12 @@
 {
-  "description": "This Is AFI. Todas as faixas essenciais numa \u00fanica playlist.",
-  "num_followers": 32780,
+  "description": "This is AFI. The essential tracks, all in one playlist.",
+  "num_followers": 32782,
   "original_name": "This Is AFI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGRiMDg5MjU4MDI0ODFkNWFhNTYwMjA4MWQ4MTM4MTM0",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGU1YmU5NzZhN2JkM2UxNjg4ZWEwZGI3NzU5ODRjNmZl",
   "tracks": [
     {
       "added_at": null,
@@ -235,22 +235,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Answer That And Stay Fashionable",
-        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 72560,
-      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
-      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crash Love (Deluxe)",
         "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 260760,
       "name": "Medicate",
       "url": "https://open.spotify.com/track/42vwak6ZIFMscDhRB3S52z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Answer That And Stay Fashionable",
+        "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 72560,
+      "name": "I Wanna Get A Mohawk (But Mom Won't Let Me Get One)",
+      "url": "https://open.spotify.com/track/1RlIa3ho39v23Bs9tWbrCN"
     },
     {
       "added_at": null,
@@ -555,22 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Burials",
-        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 241560,
-      "name": "A Deep Slow Panic",
-      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Very Proud of Ya",
         "url": "https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 140240,
       "name": "This Secret Ninja",
       "url": "https://open.spotify.com/track/55O5Cy0aULLS0Gvt4XakVM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Burials",
+        "url": "https://open.spotify.com/album/3pvmZwuBBm8Tt6NXDJkl14"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 241560,
+      "name": "A Deep Slow Panic",
+      "url": "https://open.spotify.com/track/4ihV0ic9h89fhCLdEkH1aE"
     },
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crash Love (Deluxe)",
-        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
-      },
-      "artists": [
-        {
-          "name": "AFI",
-          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
-        }
-      ],
-      "duration_ms": 176640,
-      "name": "Too Shy To Scream",
-      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Answer That And Stay Fashionable",
         "url": "https://open.spotify.com/album/0KqMA5Ul8nyvSXoj5BC8BR"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 277840,
       "name": "I Hope You Suffer",
       "url": "https://open.spotify.com/track/1bl434nynICAlETvh9kf4e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
+      },
+      "artists": [
+        {
+          "name": "AFI",
+          "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
+        }
+      ],
+      "duration_ms": 176640,
+      "name": "Too Shy To Scream",
+      "url": "https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt"
     },
     {
       "added_at": null,
@@ -715,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+        "name": "Trash Bat",
+        "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
       },
       "artists": [
         {
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 168574,
-      "name": "Far Too Near",
-      "url": "https://open.spotify.com/track/6AW7A6Z0HPhR5aO6k0zvtz"
+      "duration_ms": 127625,
+      "name": "Trash Bat",
+      "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
     },
     {
       "added_at": null,
@@ -747,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trash Bat",
-        "url": "https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp"
+        "name": "Bodies",
+        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
       },
       "artists": [
         {
@@ -756,9 +756,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 127625,
-      "name": "Trash Bat",
-      "url": "https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz"
+      "duration_ms": 168574,
+      "name": "Far Too Near",
+      "url": "https://open.spotify.com/track/6AW7A6Z0HPhR5aO6k0zvtz"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bodies",
-        "url": "https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3"
+        "name": "Crash Love (Deluxe)",
+        "url": "https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz"
       },
       "artists": [
         {
@@ -788,9 +788,9 @@
           "url": "https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz"
         }
       ],
-      "duration_ms": 241856,
-      "name": "Twisted Tongues",
-      "url": "https://open.spotify.com/track/2F4pVmHCyjmaPQZaD6M5Ln"
+      "duration_ms": 164360,
+      "name": "Veronica Sawyer Smokes",
+      "url": "https://open.spotify.com/track/6SN4qm8A1aQNvZm52dLAvu"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 24354,
+  "num_followers": 24372,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDE3YWJkYjNlOWJlMTg4YjhkM2Y1MDI3YzY0NmEyN2Ey",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGI0NWY4OWYwYWQ2M2Y5ZTlhMjk2ZWFjMTFjN2FjMWQ4",
   "tracks": [
     {
       "added_at": null,
@@ -75,8 +75,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Para Que No Me Olvides",
-        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
       },
       "artists": [
         {
@@ -84,9 +84,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 207320,
-      "name": "Aniversario de un Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
+      "duration_ms": 136226,
+      "name": "El Ausente",
+      "url": "https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj"
     },
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+        "name": "Para Que No Me Olvides",
+        "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 136226,
-      "name": "El Ausente",
-      "url": "https://open.spotify.com/track/618y63IoyK0mX1nWOsvHYj"
+      "duration_ms": 207320,
+      "name": "Aniversario de un Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3iy4x55H6gGoC0NTbPLErg"
     },
     {
       "added_at": null,
@@ -203,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Vivo",
-        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
+        "name": "La Historia de Los Exitos",
+        "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
       },
       "artists": [
         {
@@ -212,9 +212,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162400,
-      "name": "Los Hombres No Deben Llorar - Live Version",
-      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
+      "duration_ms": 162500,
+      "name": "Pero Te Amo",
+      "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Historia de Los Exitos",
-        "url": "https://open.spotify.com/album/5Ipj4ksIrC5Kz2bkmc6JBb"
+        "name": "Exitos En Vivo",
+        "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 162500,
-      "name": "Pero Te Amo",
-      "url": "https://open.spotify.com/track/0f18aoe9EaonJuWLTUzWXE"
+      "duration_ms": 162400,
+      "name": "Los Hombres No Deben Llorar - Live Version",
+      "url": "https://open.spotify.com/track/1Sv7fAl93sicX5qsFjpOgg"
     },
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 156703,
+      "name": "Baila Nena",
+      "url": "https://open.spotify.com/track/3Vl4hefE2fB1C9Lxet9XrQ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exitos En Vivo",
         "url": "https://open.spotify.com/album/7GxLafMEpqfNA8mz8ojHbF"
       },
@@ -395,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 156703,
-      "name": "Baila Nena",
-      "url": "https://open.spotify.com/track/3Vl4hefE2fB1C9Lxet9XrQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Popurr\u00ed Quebraditas: Tumbando Ca\u00f1a / Como la Luna / Eva Mar\u00eda (30 Aniversario)",
         "url": "https://open.spotify.com/album/4NpEVKlOcYVwkVZsCEgoJE"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 321910,
       "name": "Popurr\u00ed Quebraditas: Tumbando Ca\u00f1a / Como la Luna / Eva Mar\u00eda - 30 Aniversario",
       "url": "https://open.spotify.com/track/54YlyNUYMtrQzzU0vQyK60"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 164200,
+      "name": "El Zancudito",
+      "url": "https://open.spotify.com/track/3IXUfO6OXDgk6ZnJwi9KGW"
     },
     {
       "added_at": null,
@@ -459,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 164200,
-      "name": "El Zancudito",
-      "url": "https://open.spotify.com/track/3IXUfO6OXDgk6ZnJwi9KGW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Para Que No Me Olvides",
         "url": "https://open.spotify.com/album/4HhljolOfX1qrERyoqog91"
       },
@@ -487,6 +487,22 @@
       "duration_ms": 191866,
       "name": "Para Que No Me Olvides",
       "url": "https://open.spotify.com/track/4AtmHzWtpI7PmFubjvUfmN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 153359,
+      "name": "La Mano De Dios",
+      "url": "https://open.spotify.com/track/07QCCzkYr17jJ7kTLLJltI"
     },
     {
       "added_at": null,
@@ -519,22 +535,6 @@
       "duration_ms": 189626,
       "name": "Cu\u00e1nto Te Quiero",
       "url": "https://open.spotify.com/track/2y58KLpoSRCHHR1053NO9E"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/0ReAxNUuSLCu2t1ZXawrNS"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 153359,
-      "name": "La Mano De Dios",
-      "url": "https://open.spotify.com/track/07QCCzkYr17jJ7kTLLJltI"
     },
     {
       "added_at": null,
@@ -795,8 +795,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Exitos En Radio",
-        "url": "https://open.spotify.com/album/3xuKMzzujppsqEvxFVgmEX"
+        "name": "Lagrimas De Sangre",
+        "url": "https://open.spotify.com/album/5uxBBlqqir0VvbT72133WG"
       },
       "artists": [
         {
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 153960,
-      "name": "El Joven Viejo",
-      "url": "https://open.spotify.com/track/0acpP24ASl2qWpABqcjmIa"
+      "duration_ms": 135893,
+      "name": "La Traicionera",
+      "url": "https://open.spotify.com/track/1cHG4Z9p9qSwKVs8AetKAz"
     }
   ],
   "unique_name": "This Is Banda Maguey",

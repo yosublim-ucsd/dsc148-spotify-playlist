@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Carin Leon en portada.",
-  "num_followers": 66741,
+  "num_followers": 66776,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -419,6 +419,22 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
+        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 226481,
+      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
+      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
         "name": "Me Hace Tanto Bien",
         "url": "https://open.spotify.com/album/40IOas3f9rXV6CfpHZ6PjV"
       },
@@ -435,22 +451,6 @@
       "duration_ms": 231304,
       "name": "Me Hace Tanto Bien",
       "url": "https://open.spotify.com/track/21D2EZmXoJYccfgeZndtOg"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
-        "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-        "url": "https://open.spotify.com/album/0X3ypNwDzwYW7iEPQ4MWrl"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 226481,
-      "name": "Todo Fue Por Amor (de la pel\u00edcula \u201cCon Esta Luz\u201d)",
-      "url": "https://open.spotify.com/track/6X6wECGLnBIMDsAjgOR5Di"
     },
     {
       "added_at": "2024-04-19 19:01:49",
@@ -527,6 +527,30 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
+        "name": "Sincer\u00e1ndome",
+        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 175172,
+      "name": "Alguien Me Espera en Madrid",
+      "url": "https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
         "name": "El Cielo A\u00fan Espera",
         "url": "https://open.spotify.com/album/0a33IGqqFPLIkiKVS7BnhV"
       },
@@ -563,26 +587,18 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
-        "name": "Sincer\u00e1ndome",
-        "url": "https://open.spotify.com/album/3m7RgFTpgegZrhETayZOA7"
+        "name": "Ahora S\u00e9",
+        "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
       },
       "artists": [
         {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
         }
       ],
-      "duration_ms": 175172,
-      "name": "Alguien Me Espera en Madrid",
-      "url": "https://open.spotify.com/track/4EffpCSd0574GIKF9eKOUl"
+      "duration_ms": 220161,
+      "name": "Ahora S\u00e9",
+      "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
     },
     {
       "added_at": "2024-04-19 19:01:49",
@@ -599,22 +615,6 @@
       "duration_ms": 197853,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/7HPVL1OrloOoaW2E9zAssr"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
-        "name": "Ahora S\u00e9",
-        "url": "https://open.spotify.com/album/7c0oX5ymPQwBlgO9ETKrXx"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 220161,
-      "name": "Ahora S\u00e9",
-      "url": "https://open.spotify.com/track/4Xn8A5LqK9p8wDDSG2gHiM"
     },
     {
       "added_at": "2024-04-19 19:01:49",
@@ -687,6 +687,22 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
+        "name": "Dime Que S\u00ed",
+        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
+      },
+      "artists": [
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 274601,
+      "name": "Dime Que S\u00ed",
+      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
         "name": "Un Viaje a Todas Partes",
         "url": "https://open.spotify.com/album/4Zvth8uetJ0XyKfaLVN7n0"
       },
@@ -743,22 +759,6 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
-        "name": "Qu\u00e9 Suerte",
-        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 165960,
-      "name": "Qu\u00e9 Suerte",
-      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
         "name": "LA FALTA QUE ME HACES",
         "url": "https://open.spotify.com/album/0aKIRSfDhab4HjgNxNYhcT"
       },
@@ -771,22 +771,6 @@
       "duration_ms": 180250,
       "name": "LA FALTA QUE ME HACES",
       "url": "https://open.spotify.com/track/39U5DHTTvKNX7o9lyJmBpl"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
-        "name": "Dime Que S\u00ed",
-        "url": "https://open.spotify.com/album/5GvafeiQzIgdPpLcq2UtUs"
-      },
-      "artists": [
-        {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
-        }
-      ],
-      "duration_ms": 274601,
-      "name": "Dime Que S\u00ed",
-      "url": "https://open.spotify.com/track/0ZYVbnBPqWIWjTpT796kpY"
     },
     {
       "added_at": "2024-04-19 19:01:49",
@@ -827,6 +811,22 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
+        "name": "Qu\u00e9 Suerte",
+        "url": "https://open.spotify.com/album/2e1pigjsm0n9gxjum8jQg6"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 165960,
+      "name": "Qu\u00e9 Suerte",
+      "url": "https://open.spotify.com/track/0xlvFISds9itCX4EUX6wMp"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
         "name": "Hab\u00eda Olvidado (feat. Jos\u00e9 Maria Napole\u00f3n)",
         "url": "https://open.spotify.com/album/0xTx8go2fsysiJnH79Fqu6"
       },
@@ -859,22 +859,6 @@
       "duration_ms": 156000,
       "name": "Hola, Me Llamo Mar\u00eda",
       "url": "https://open.spotify.com/track/2J5AcNu1g9UHgWjDVMok5q"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
-        "name": "Polvo De Gigantes",
-        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 153440,
-      "name": "Polvo De Gigantes",
-      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
     },
     {
       "added_at": "2024-04-19 19:01:49",
@@ -971,6 +955,22 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
+        "name": "Polvo De Gigantes",
+        "url": "https://open.spotify.com/album/1yMkHhULCUvkUJ8bEPG4QL"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 153440,
+      "name": "Polvo De Gigantes",
+      "url": "https://open.spotify.com/track/6zCJNA6EeEZjP6PdZffhAV"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
         "name": "La Calle de las Sirenas",
         "url": "https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi"
       },
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
-        "name": "Qu\u00e9 Es Amor? My Love",
-        "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
-      },
-      "artists": [
-        {
-          "name": "CoolestAndie",
-          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
-        }
-      ],
-      "duration_ms": 214114,
-      "name": "Qu\u00e9 Es Amor? My Love",
-      "url": "https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
         "name": "Hubo Algo",
         "url": "https://open.spotify.com/album/5pJYHPBXmibLJSFDSUYeaM"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 311618,
       "name": "Hubo Algo",
       "url": "https://open.spotify.com/track/2mjfefMcjK9w6cN6oE5xV4"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
+        "name": "Qu\u00e9 Es Amor? My Love",
+        "url": "https://open.spotify.com/album/7m0M9LnoMYv8Fb03BrMM4Y"
+      },
+      "artists": [
+        {
+          "name": "CoolestAndie",
+          "url": "https://open.spotify.com/artist/2TBvQNXLncWIE3ZcuRHSUr"
+        }
+      ],
+      "duration_ms": 214114,
+      "name": "Qu\u00e9 Es Amor? My Love",
+      "url": "https://open.spotify.com/track/5huKGFf8ru8bPuBI1iTtZX"
     },
     {
       "added_at": "2024-04-19 19:01:49",
@@ -1187,42 +1187,6 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
-        "name": "A Simple Vista",
-        "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
-      },
-      "artists": [
-        {
-          "name": "Tyna Ros",
-          "url": "https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT"
-        },
-        {
-          "name": "Espumas y Terciopelo",
-          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
-        }
-      ],
-      "duration_ms": 207784,
-      "name": "A Simple Vista",
-      "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
-        "name": "Anclada",
-        "url": "https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM"
-      },
-      "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        }
-      ],
-      "duration_ms": 170542,
-      "name": "Anclada",
-      "url": "https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT"
-    },
-    {
-      "added_at": "2024-04-19 19:01:49",
-      "album": {
         "name": "Tauro Con Leo",
         "url": "https://open.spotify.com/album/6Ad8wsibWtAhqaTwxBJFib"
       },
@@ -1251,6 +1215,42 @@
       "duration_ms": 179459,
       "name": "Nada Te Pido",
       "url": "https://open.spotify.com/track/2BgaHOrVH5QD1YRIaZraQo"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
+        "name": "Anclada",
+        "url": "https://open.spotify.com/album/4QqnlWm3sHytfnYeRrkpPM"
+      },
+      "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        }
+      ],
+      "duration_ms": 170542,
+      "name": "Anclada",
+      "url": "https://open.spotify.com/track/3TOFWmQExKcOcxqAOq3FPT"
+    },
+    {
+      "added_at": "2024-04-19 19:01:49",
+      "album": {
+        "name": "A Simple Vista",
+        "url": "https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP"
+      },
+      "artists": [
+        {
+          "name": "Tyna Ros",
+          "url": "https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT"
+        },
+        {
+          "name": "Espumas y Terciopelo",
+          "url": "https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd"
+        }
+      ],
+      "duration_ms": 207784,
+      "name": "A Simple Vista",
+      "url": "https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1"
     },
     {
       "added_at": "2024-04-19 19:01:49",
@@ -1307,18 +1307,22 @@
     {
       "added_at": "2024-04-19 19:01:49",
       "album": {
-        "name": "Entre T\u00fa y Yo",
-        "url": "https://open.spotify.com/album/0vKVRqu5Cnv4LLJskpIVJz"
+        "name": "Estrellas En El Mar",
+        "url": "https://open.spotify.com/album/1jhtYcygAtP8nO57swjE4N"
       },
       "artists": [
         {
-          "name": "Karla Breu",
-          "url": "https://open.spotify.com/artist/64kqaiiwxLbRBOM3JQufP1"
+          "name": "Charlie Rodd",
+          "url": "https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762"
+        },
+        {
+          "name": "Angie Vazquez",
+          "url": "https://open.spotify.com/artist/0iLUxaOduzrvmapRsqxB8s"
         }
       ],
-      "duration_ms": 241780,
-      "name": "Entre T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/124LWNIke7C7Cc5wCdQ8vJ"
+      "duration_ms": 251040,
+      "name": "Estrellas En El Mar",
+      "url": "https://open.spotify.com/track/6phjeQUN6GnVT7eHPLnb4p"
     }
   ],
   "unique_name": "Cantamores",

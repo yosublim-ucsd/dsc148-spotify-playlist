@@ -1,6 +1,6 @@
 {
   "description": "Un'estate al mare, stile balenare... \ud83c\udfdd\ufe0f Hit dell'estate italiana anni 60, 70 e 80!",
-  "num_followers": 28073,
+  "num_followers": 28104,
   "original_name": "Sapore di Sale",
   "owner": {
     "name": "Spotify",
@@ -491,22 +491,6 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
-        "name": "Gianni Morandi",
-        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
-      },
-      "artists": [
-        {
-          "name": "Gianni Morandi",
-          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
-        }
-      ],
-      "duration_ms": 152000,
-      "name": "Andavo A Cento All'Ora",
-      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
         "name": "I Marcellos Ferial",
         "url": "https://open.spotify.com/album/7Jib1N5PzwSylNrcgCc6jj"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 135527,
       "name": "Pezzetini di bikini",
       "url": "https://open.spotify.com/track/7qNvDdwy8MhpdxIhfEY3Il"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
+        "name": "Gianni Morandi",
+        "url": "https://open.spotify.com/album/1Z47BhRPU4sSFwXdJDYPsS"
+      },
+      "artists": [
+        {
+          "name": "Gianni Morandi",
+          "url": "https://open.spotify.com/artist/15FrhfFYJIx7Ijltkpjbsr"
+        }
+      ],
+      "duration_ms": 152000,
+      "name": "Andavo A Cento All'Ora",
+      "url": "https://open.spotify.com/track/0JcxwcoLqFiqNXAAw2AeoH"
     },
     {
       "added_at": "2023-06-05 07:42:38",
@@ -731,6 +731,22 @@
     {
       "added_at": "2023-06-05 07:42:38",
       "album": {
+        "name": "Rita Pavone",
+        "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
+      },
+      "artists": [
+        {
+          "name": "Rita Pavone",
+          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
+        }
+      ],
+      "duration_ms": 133226,
+      "name": "La Partita Di Pallone",
+      "url": "https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h"
+    },
+    {
+      "added_at": "2023-06-05 07:42:38",
+      "album": {
         "name": "Donatella Rettore",
         "url": "https://open.spotify.com/album/2eGxIkMPIgcvthCOLYoQZU"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 148826,
       "name": "Bandiera gialla",
       "url": "https://open.spotify.com/track/1ANLC3r7DQ5KCH4WRBnUXq"
-    },
-    {
-      "added_at": "2023-06-05 07:42:38",
-      "album": {
-        "name": "Rita Pavone",
-        "url": "https://open.spotify.com/album/1c5unYhvdg4dPgJQpsCTum"
-      },
-      "artists": [
-        {
-          "name": "Rita Pavone",
-          "url": "https://open.spotify.com/artist/3xc8CD41vwsoBNkGXL3pS7"
-        }
-      ],
-      "duration_ms": 133226,
-      "name": "La Partita Di Pallone",
-      "url": "https://open.spotify.com/track/3wWmHzFEcG4Mg13JrR1J9h"
     },
     {
       "added_at": "2023-06-05 07:42:38",

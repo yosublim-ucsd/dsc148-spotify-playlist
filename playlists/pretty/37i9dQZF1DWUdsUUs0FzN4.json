@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. El Malilla en portada ",
-  "num_followers": 18701,
+  "num_followers": 18702,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,30 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Otro Show",
+        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
+      },
+      "artists": [
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        },
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Otro Show",
+      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Chup\u00f3n",
         "url": "https://open.spotify.com/album/0TVjnQlL30VMz4Kqu0qoVQ"
       },
@@ -463,30 +487,6 @@
       "duration_ms": 201084,
       "name": "Chup\u00f3n",
       "url": "https://open.spotify.com/track/3lev2QW3nUHNuxrVstVEGj"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Otro Show",
-        "url": "https://open.spotify.com/album/5KXm7Y71y5UX1KxDLnloGU"
-      },
-      "artists": [
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        },
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Otro Show",
-      "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -735,42 +735,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Rebote",
-        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
+        "name": "MAMI CHAKALOSA",
+        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
       },
       "artists": [
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
         },
         {
-          "name": "Dj Kiire",
-          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
+          "name": "Yeyo",
+          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
         }
       ],
-      "duration_ms": 158400,
-      "name": "Rebote",
-      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "L-Gante: RKT SESSIONS #1",
-        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
-      },
-      "artists": [
-        {
-          "name": "Papu DJ",
-          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
-        },
-        {
-          "name": "L-Gante",
-          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
-        }
-      ],
-      "duration_ms": 181928,
-      "name": "L-Gante: RKT SESSIONS #1",
-      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+      "duration_ms": 136843,
+      "name": "MAMI CHAKALOSA",
+      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -799,6 +779,26 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "L-Gante: RKT SESSIONS #1",
+        "url": "https://open.spotify.com/album/530tno9W2FoIzPffRMOyGG"
+      },
+      "artists": [
+        {
+          "name": "Papu DJ",
+          "url": "https://open.spotify.com/artist/1Z7q2glJYLsPpPoPIgBjdE"
+        },
+        {
+          "name": "L-Gante",
+          "url": "https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq"
+        }
+      ],
+      "duration_ms": 181928,
+      "name": "L-Gante: RKT SESSIONS #1",
+      "url": "https://open.spotify.com/track/4A9u8OrzFYbxdjiydkNdUi"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Tra Tra Tra Remix",
         "url": "https://open.spotify.com/album/4TntWxJmNQSZJGcj3ewRBc"
       },
@@ -823,42 +823,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "MAMI CHAKALOSA",
-        "url": "https://open.spotify.com/album/7qNA059vQm84DreXknnuHr"
+        "name": "Rebote",
+        "url": "https://open.spotify.com/album/7x4VUK9g8a8q0rdkxke8WF"
       },
       "artists": [
         {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
         },
         {
-          "name": "Yeyo",
-          "url": "https://open.spotify.com/artist/5KWQms4jSjzMC3P9cJUP9L"
+          "name": "Dj Kiire",
+          "url": "https://open.spotify.com/artist/1jwYIyylx1XF15nbiPtLdu"
         }
       ],
-      "duration_ms": 136843,
-      "name": "MAMI CHAKALOSA",
-      "url": "https://open.spotify.com/track/4fCyHWNFN6fOrPyoqVqezw"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Booty Booty",
-        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Los Dareyes De La Sierra",
-          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
-        }
-      ],
-      "duration_ms": 150155,
-      "name": "Booty Booty",
-      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
+      "duration_ms": 158400,
+      "name": "Rebote",
+      "url": "https://open.spotify.com/track/3Ky0vwvC1U2mRrDBS87se7"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -887,6 +867,26 @@
       "duration_ms": 214897,
       "name": "G Low Kitty",
       "url": "https://open.spotify.com/track/7z6DZLcw8FFKR0j16gich8"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Booty Booty",
+        "url": "https://open.spotify.com/album/3qF3IgcIPMurpqXASo9F0E"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Los Dareyes De La Sierra",
+          "url": "https://open.spotify.com/artist/1ZMJSCQw8DIefcLb1FIpY0"
+        }
+      ],
+      "duration_ms": 150155,
+      "name": "Booty Booty",
+      "url": "https://open.spotify.com/track/5A8lUMKGNV5QWvneOkWWYc"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -951,30 +951,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "DDD (Don Dimadon)",
-        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
-      },
-      "artists": [
-        {
-          "name": "TUNDER",
-          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
-        },
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Beto Sierra",
-          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
-        }
-      ],
-      "duration_ms": 185281,
-      "name": "DDD (Don Dimadon)",
-      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Azote",
         "url": "https://open.spotify.com/album/2IvC3pPmUw7QDAamPXP0i8"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 117068,
       "name": "Azote",
       "url": "https://open.spotify.com/track/7IJZyhrttBYZAIwQxmPxuj"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 5",
+        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "\u00d1ero Session 5",
+      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1015,26 +1015,26 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "\u00d1ero Session 5",
-        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+        "name": "DDD (Don Dimadon)",
+        "url": "https://open.spotify.com/album/57rh0geFIqYsrhh7qq9VGe"
       },
       "artists": [
         {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+          "name": "TUNDER",
+          "url": "https://open.spotify.com/artist/6GMxW7EAQQjvk00uTF8pzZ"
         },
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
         },
         {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+          "name": "Beto Sierra",
+          "url": "https://open.spotify.com/artist/6kPf6aO5cAHU2RJUDN1UUy"
         }
       ],
-      "duration_ms": 147633,
-      "name": "\u00d1ero Session 5",
-      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
+      "duration_ms": 185281,
+      "name": "DDD (Don Dimadon)",
+      "url": "https://open.spotify.com/track/4RD4bv5iG8233iA3VMgPcF"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1099,6 +1099,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "A POKA LUZ",
+        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "A POKA LUZ",
+      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Piripituchy",
         "url": "https://open.spotify.com/album/0NSjS20vhwXNNIe5gSZeAW"
       },
@@ -1155,22 +1171,6 @@
       "duration_ms": 195625,
       "name": "Metele",
       "url": "https://open.spotify.com/track/0bhNA2f3YxwP2dNo1BTbcB"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "A POKA LUZ",
-        "url": "https://open.spotify.com/album/1wGSSU8qO6PernvEJt8rfi"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "A POKA LUZ",
-      "url": "https://open.spotify.com/track/7ps2ubDk6VEytKw5xFSZeE"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1403,6 +1403,26 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "\u00d1ero Session 8",
+        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Jossie A",
+          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
+        }
+      ],
+      "duration_ms": 144468,
+      "name": "\u00d1ero Session 8",
+      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Nobajoniconpasta",
         "url": "https://open.spotify.com/album/3oqHCxg3R1Q3Pstqd7DSk3"
       },
@@ -1491,26 +1511,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "\u00d1ero Session 8",
-        "url": "https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Jossie A",
-          "url": "https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5"
-        }
-      ],
-      "duration_ms": 144468,
-      "name": "\u00d1ero Session 8",
-      "url": "https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Peli-Culeo (Remix)",
         "url": "https://open.spotify.com/album/6r9E0ojkW7EHWBKLgznPME"
       },
@@ -1539,6 +1539,26 @@
       "duration_ms": 221646,
       "name": "Peli-Culeo - Remix",
       "url": "https://open.spotify.com/track/0fHpcRj2Jog7fHYB6DbOZF"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 7",
+        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Los Menores",
+          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
+        }
+      ],
+      "duration_ms": 183012,
+      "name": "\u00d1ero Session 7",
+      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1675,26 +1695,6 @@
       "duration_ms": 152171,
       "name": "Gpi Al Perreo",
       "url": "https://open.spotify.com/track/0bH8otgZfS8Jymjpx8AL5g"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "\u00d1ero Session 7",
-        "url": "https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Los Menores",
-          "url": "https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal"
-        }
-      ],
-      "duration_ms": 183012,
-      "name": "\u00d1ero Session 7",
-      "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -2023,6 +2023,46 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "3ple X (Radio Edit)",
+        "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 211084,
+      "name": "3ple X - Radio Edit",
+      "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "A Mover Ese Booty",
+        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
+      },
+      "artists": [
+        {
+          "name": "Pablito Mix",
+          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
+        },
+        {
+          "name": "Nyel",
+          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
+        }
+      ],
+      "duration_ms": 157347,
+      "name": "A Mover Ese Booty",
+      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "PARTY DE MALEANTES (RMX)",
         "url": "https://open.spotify.com/album/5kZF7dNdOpXm66JJ4Taxp2"
       },
@@ -2051,46 +2091,6 @@
       "duration_ms": 308366,
       "name": "PARTY DE MALEANTES - RMX",
       "url": "https://open.spotify.com/track/3lMXF0Sn0X1n1CBJn3pNYM"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "A Mover Ese Booty",
-        "url": "https://open.spotify.com/album/2VHXKpkQNthOvzq6TVEq3A"
-      },
-      "artists": [
-        {
-          "name": "Pablito Mix",
-          "url": "https://open.spotify.com/artist/6YnCbY5kHjyJcMEUjoeyX3"
-        },
-        {
-          "name": "Nyel",
-          "url": "https://open.spotify.com/artist/5kwCLUDUVzT4sQinTSJ2a5"
-        }
-      ],
-      "duration_ms": 157347,
-      "name": "A Mover Ese Booty",
-      "url": "https://open.spotify.com/track/04SjhfpIKuLzsxCUYY838j"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "3ple X (Radio Edit)",
-        "url": "https://open.spotify.com/album/1Ah1jnwVoENBApJqSargQd"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 211084,
-      "name": "3ple X - Radio Edit",
-      "url": "https://open.spotify.com/track/2lDi1sm9zSkmBwkuLUjZND"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -2131,22 +2131,6 @@
       "duration_ms": 188862,
       "name": "El Que Resuelve",
       "url": "https://open.spotify.com/track/56Br9FPB36z1qf8gnu2Zib"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Ubi",
-        "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
-      },
-      "artists": [
-        {
-          "name": "King Savagge",
-          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
-        }
-      ],
-      "duration_ms": 186487,
-      "name": "Ubi",
-      "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -2223,6 +2207,22 @@
       "duration_ms": 220000,
       "name": "3 x 3 (feat. Lexy Walter)",
       "url": "https://open.spotify.com/track/7nQFKhrS6eN6xyQwnp3hjK"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Ubi",
+        "url": "https://open.spotify.com/album/1T7eoAJmQkDVxPWYQuyEUM"
+      },
+      "artists": [
+        {
+          "name": "King Savagge",
+          "url": "https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU"
+        }
+      ],
+      "duration_ms": 186487,
+      "name": "Ubi",
+      "url": "https://open.spotify.com/track/0FwCxicKn0FYSDZ8c9gVG1"
     },
     {
       "added_at": "2024-04-19 06:00:00",

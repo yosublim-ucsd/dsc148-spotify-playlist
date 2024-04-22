@@ -1,12 +1,12 @@
 {
   "description": "This Is Grupo Firme. Los temas esenciales, todos en una lista.",
-  "num_followers": 953026,
+  "num_followers": 953010,
   "original_name": "This Is Grupo Firme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDNhODQ1YjYxNzdjMDU2MDNjYjkxMWVjOTU3MDljYWE4",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDk2NmE2NjU5Y2NjNzFjODdjYzg5MGU4NWUwZTVkMDg2",
   "tracks": [
     {
       "added_at": null,
@@ -575,22 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Ve\u00eda Venir",
-        "url": "https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 152135,
-      "name": "Se Ve\u00eda Venir",
-      "url": "https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Historia De Mis Manos (En Vivo)",
         "url": "https://open.spotify.com/album/7hkZNvcm0g8EVAyY66ivDG"
       },
@@ -611,22 +595,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias (En Vivo)",
-        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
+        "name": "Se Ve\u00eda Venir",
+        "url": "https://open.spotify.com/album/0vB3SngZl9CBJWY3E0H8Qy"
       },
       "artists": [
         {
           "name": "Grupo Firme",
           "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Codiciado",
-          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
         }
       ],
-      "duration_ms": 235221,
-      "name": "Gracias - En Vivo",
-      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
+      "duration_ms": 152135,
+      "name": "Se Ve\u00eda Venir",
+      "url": "https://open.spotify.com/track/5G8a9zruEYp0QbU1lEcMcY"
     },
     {
       "added_at": null,
@@ -647,6 +627,26 @@
       "duration_ms": 241536,
       "name": "Vali\u00f3 La Pena Equivocarme (En Vivo)",
       "url": "https://open.spotify.com/track/6bANxR8naOx4pnq1795q31"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gracias (En Vivo)",
+        "url": "https://open.spotify.com/album/1J5sBLRkJnpnXOYK31M2ad"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Codiciado",
+          "url": "https://open.spotify.com/artist/4aWhlVjiUjYHpVWBPP8AFc"
+        }
+      ],
+      "duration_ms": 235221,
+      "name": "Gracias - En Vivo",
+      "url": "https://open.spotify.com/track/2XlGKZNMkRKvEJsbwQ6MCl"
     },
     {
       "added_at": null,
@@ -839,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XL",
-        "url": "https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        }
-      ],
-      "duration_ms": 147597,
-      "name": "XL",
-      "url": "https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Viva M\u00e9xico (En Vivo)",
         "url": "https://open.spotify.com/album/7kMLaUdwvSVUtYFtBT7znC"
       },
@@ -891,6 +871,26 @@
       "duration_ms": 272234,
       "name": "No Llega el Olvido - En Vivo",
       "url": "https://open.spotify.com/track/5MPY1xEb6E8Lv9HuGKEVLp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XL",
+        "url": "https://open.spotify.com/album/42gWMcRX1GVhRvUAb1jUcw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        }
+      ],
+      "duration_ms": 147597,
+      "name": "XL",
+      "url": "https://open.spotify.com/track/2WbciITogHwrgtxtkhmdPj"
     },
     {
       "added_at": null,
@@ -983,6 +983,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Te So\u00f1\u00e9 (En Vivo)",
+        "url": "https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 223566,
+      "name": "Te So\u00f1\u00e9 (En Vivo)",
+      "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ONTAS BB",
         "url": "https://open.spotify.com/album/2sbHi7VQ7U7uohlhAo0gax"
       },
@@ -1003,26 +1023,6 @@
       "duration_ms": 207804,
       "name": "ONTAS BB",
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Te So\u00f1\u00e9 (En Vivo)",
-        "url": "https://open.spotify.com/album/7DIYjfFkFIAfMBQF66NqKX"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 223566,
-      "name": "Te So\u00f1\u00e9 (En Vivo)",
-      "url": "https://open.spotify.com/track/2RGQaFUjKxEVBEFzma54YN"
     }
   ],
   "unique_name": "This Is Grupo Firme",

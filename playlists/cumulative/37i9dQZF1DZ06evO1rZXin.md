@@ -2,7 +2,7 @@
 
 ### [This Is Banda Vallarta Show](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1rZXin)
 
-> This Is Banda Vallarta Show\. Los temas esenciales, todos en una lista.
+> This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
 77 songs - 3 hr 46 min
 

@@ -4,7 +4,7 @@
 
 > 回家的路上，有好聽的歌曲陪伴，會讓人暫時忘了疲倦。
 
-418 songs - 1 day 6 hr 8 min
+419 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,7 +94,7 @@
 | [你是我的歌 \- 《不二兄弟》電影主題曲](https://open.spotify.com/track/7jO0c4fG0NTFfj8SmPyNBC) | [A\-Lin](https://open.spotify.com/artist/28gf2piFx6cAKOMIwcky5a) | [你是我的歌 \(《不二兄弟》電影主題曲\)](https://open.spotify.com/album/1ncIZJXWqn0t66iOG3pwRW) | 3:37 | 2023-02-21 | 2023-10-07 |
 | [你的出現完整了我的世界](https://open.spotify.com/track/3FxKg8IFfpkmQGaLAnDeKl) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的出現完整了我的世界](https://open.spotify.com/album/2w5DxwYbaURL06Qpw4fBVg) | 4:59 | 2022-07-04 | 2022-07-29 |
 | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/track/7EzeNbQHT6DHxQty56qsbN) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [你的情歌 \(電影《你的情歌》主題曲\)](https://open.spotify.com/album/7Kb83jUcj0vHErIIascKw6) | 4:43 | 2022-06-06 |  |
-| [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 | 2024-01-15 | 2024-04-21 |
+| [你的童話 \(電視劇《你也有今天》片尾曲\)](https://open.spotify.com/track/1yKfefGYc9vk125q1OrSPm) | [LaLa Hsu](https://open.spotify.com/artist/3dI4Io8XE33J2o04ZwjR0Y) | [你的童話](https://open.spotify.com/album/5lCV1ehKM7jma7XgLQF2KD) | 5:27 | 2024-01-15 |  |
 | [你的酒馆对我打了烊](https://open.spotify.com/track/6BL2V0CvfW9QVHm9oU4Lmk) | [Shirley Chen](https://open.spotify.com/artist/4fbvNLpGvqBWKt7pVGzdV8) | [你的酒馆对我打了烊](https://open.spotify.com/album/2lYhegs4QXZDW1vpmsR1FW) | 4:11 | 2022-07-04 | 2022-07-08 |
 | [你的酒馆对我打了烊](https://open.spotify.com/track/6FurM8spY6gzyPF1yUuXwX) | [陈雪凝](https://open.spotify.com/artist/7hhBMsiz3xH2GHj7tbRpgW) | [你的酒馆对我打了烊](https://open.spotify.com/album/2TwPjdqlFBNjR2qrFHnYWL) | 4:11 | 2022-07-25 | 2024-04-19 |
 | [你給過我的快樂](https://open.spotify.com/track/7r2HFq3O0M3z4lrE7eexpT) | [Who Cares 胡凱兒](https://open.spotify.com/artist/0AiFba38vwZy2L1SJGX4mW) | [你給過我的快樂](https://open.spotify.com/album/7FSJzbMr2AddYiZO52c582) | 4:47 | 2022-11-29 | 2022-12-06 |
@@ -108,6 +108,7 @@
 | [備胎 \(feat\. Eetu Kalavainen\)](https://open.spotify.com/track/6OuBzoZm0GHYzPNGlvB3yx) | [R\-chord](https://open.spotify.com/artist/5XkrVVn0lQIVPkH55nbTgZ), [Eetu Kalavainen](https://open.spotify.com/artist/2gmrjqnmYgLobcr15nJR3O) | [像水一樣](https://open.spotify.com/album/1ACpdg4OuZtA5MfrK4mM5u) | 4:32 | 2022-09-12 |  |
 | [像做一場夢](https://open.spotify.com/track/2ENzBNp5UQDY28JtHWjwSE) | [TANK 呂建忠](https://open.spotify.com/artist/39LWbzZB6lcrRviPzrAVdZ) | [像做一場夢](https://open.spotify.com/album/2tUeTLb4EsCEXnH9VoaCFh) | 4:36 | 2024-01-22 | 2024-02-19 |
 | [像是一顆星星](https://open.spotify.com/track/6SMLP3dTwRTuc1E1YUjrB1) | [Rainie Yang](https://open.spotify.com/artist/0MEchSWR9pJvw1S5CV3Kuk) | [像是一顆星星](https://open.spotify.com/album/12UdZ0g89H8qexIJJZZfxS) | 3:50 | 2022-06-13 | 2022-07-11 |
+| [先聽我說完](https://open.spotify.com/track/0JFjq8LLXa5E1P5YovgqFY) | [Vivian Hsu](https://open.spotify.com/artist/6cP65fCRmCJQejKYSnVb47) | [先聽我說完](https://open.spotify.com/album/3OnqKDhsXwElt1TYi3LFa8) | 3:33 | 2024-04-22 |  |
 | [免死金牌](https://open.spotify.com/track/4tyzI1J819jmIldlo1fQGg) | [Show Luo](https://open.spotify.com/artist/33ApZ6LzfimooQNIKqf4jo) | [免死金牌](https://open.spotify.com/album/4mg1qNudoBBoRTwRtZp3cO) | 4:21 | 2022-11-21 | 2022-11-29 |
 | [內傷](https://open.spotify.com/track/6tIaVtOWhsJhOYT81hioxk) | [Ricky Hsiao](https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB) | [說故事的歌](https://open.spotify.com/album/2OcafcgIRbdMhbAKjrYRVB) | 4:52 | 2022-06-13 | 2023-02-04 |
 | [兽](https://open.spotify.com/track/68sr6E4ex5txuwTJNX1JTL) | [Angela Chang](https://open.spotify.com/artist/4txug0T3vYc9p20tuhfCUa) | [兽](https://open.spotify.com/album/2G07rbuWMEdhhrseYoLfsW) | 4:09 | 2023-09-25 | 2023-10-03 |
@@ -155,7 +156,7 @@
 | [嚣张](https://open.spotify.com/track/1vfUASvUGt3gxQ1x3T3u1C) | [en](https://open.spotify.com/artist/7z7tLLiBfmH0kZ2lNVs8LW) | [嚣张](https://open.spotify.com/album/09KIrKBU3kamLtHV5IkHSp) | 4:13 | 2023-01-30 | 2024-04-19 |
 | [嚣张](https://open.spotify.com/track/3t8M86tiO0aKMMTXzRrFn8) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/7HBIfL5J50gkUIjSWMRWqw) | 4:13 | 2022-06-13 | 2022-07-25 |
 | [嚣张](https://open.spotify.com/track/78mWZg7F2XRlOr50Z2rKyv) | [En](https://open.spotify.com/artist/1SZdTuxme3mOk0D9pUFrET) | [嚣张](https://open.spotify.com/album/5mW7p3W0I2ZG5pEPdUsfMM) | 4:13 | 2022-07-25 | 2023-02-01 |
-| [囚犯 \(Looper\)](https://open.spotify.com/track/7jINhSQ6DTTTlvOxCLFc6M) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [囚犯 \(Looper\)](https://open.spotify.com/album/5ecunoxEfqhLRI9CkbitcJ) | 3:28 | 2024-04-15 |  |
+| [囚犯 \(Looper\)](https://open.spotify.com/track/7jINhSQ6DTTTlvOxCLFc6M) | [VH \(Vast & Hazy\)](https://open.spotify.com/artist/2O6Fn6smW8hJ5x9rOUDPJc) | [囚犯 \(Looper\)](https://open.spotify.com/album/5ecunoxEfqhLRI9CkbitcJ) | 3:28 | 2024-04-15 | 2024-04-22 |
 | [四季予你](https://open.spotify.com/track/0upiMcFbQHH51etgz4xK0l) | [程響](https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3) | [四季予你](https://open.spotify.com/album/4csJfkLKIaltiP8ALv7H0S) | 4:08 | 2022-06-06 | 2022-07-29 |
 | [四季予你](https://open.spotify.com/track/4BGkSCrjiLao1bpibNptTD) | [程響](https://open.spotify.com/artist/7nKA1c1Qn6nI0XA8yburf3) | [四季予你](https://open.spotify.com/album/25IglxVmbGUl92NJZ0Pvo9) | 4:08 | 2022-07-25 | 2024-04-19 |
 | [因為你 所以我](https://open.spotify.com/track/3oRP6yGs5d0kFpGRRzzaS8) | [Mayday](https://open.spotify.com/artist/16s0YTFcyjP4kgFwt7ktrY) | [因為你 所以我](https://open.spotify.com/album/0bLc2MyuEEP8eiMnd6v5Rt) | 4:41 | 2022-06-06 |  |
@@ -353,7 +354,7 @@
 | [聽見下雨的聲音](https://open.spotify.com/track/41xbDSEbEqCxqA7gVhIKM4) | [Jay Chou](https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql) | [哎呦，不錯哦](https://open.spotify.com/album/3vkhunM2UohkqFQaHOfzbl) | 4:39 | 2024-01-15 | 2024-04-19 |
 | [聽見下雨的聲音](https://open.spotify.com/track/6jxW7qkub1YP51eQVElqUG) | [魏嘉瑩 Arrow Wei](https://open.spotify.com/artist/5JIZFQ7EMAp257CdzKemXO), [Queen Wei](https://open.spotify.com/artist/31o2LJ3ZpFgb4WMZzC1gOR) | [聽見下雨的聲音](https://open.spotify.com/album/15h50Ym2gyEfp7rL0qksXH) | 5:58 | 2022-06-06 | 2022-07-27 |
 | [脫胎換骨](https://open.spotify.com/track/3KMozKCYJDSNJ53paNEIXk) | [Ronghao Li](https://open.spotify.com/artist/0rTP0x4vRFSDbhtqcCqc8K) | [脫胎換骨](https://open.spotify.com/album/0nkgECpB80bkATzGsvvFI7) | 4:30 | 2022-06-06 | 2023-03-05 |
-| [至少我還有勇氣唱情歌（For You） \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/5MDx1h8tSj5XfybPkyxQt2) | [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [至少我還有勇氣唱情歌（For You） \(影集《華麗計程車行》插曲\)](https://open.spotify.com/album/3GnFJTv23Qn7iFJBHRdKQo) | 4:38 | 2024-04-15 |  |
+| [至少我還有勇氣唱情歌（For You） \- 影集《華麗計程車行》插曲](https://open.spotify.com/track/5MDx1h8tSj5XfybPkyxQt2) | [Daikyu Wu](https://open.spotify.com/artist/3ossD3v4iNPKU0Cw3JQfDg) | [至少我還有勇氣唱情歌（For You） \(影集《華麗計程車行》插曲\)](https://open.spotify.com/album/3GnFJTv23Qn7iFJBHRdKQo) | 4:38 | 2024-04-15 | 2024-04-22 |
 | [致遠道而來的我們 \(feat.陳華\)](https://open.spotify.com/track/6o95XPlKyjtDEmSowKncrt) | [Della](https://open.spotify.com/artist/1EUq1MC4vfYYxcVK9aJnXf), [陳華](https://open.spotify.com/artist/5ZxRmJ21NzjxD2ZGBxi7um) | [日與夜，跟自己說晚安](https://open.spotify.com/album/6eZ6GBoYL3HAezneabIq49) | 4:03 | 2024-03-04 |  |
 | [蓝](https://open.spotify.com/track/1oK05ieWeGNud5Tfa47cCo) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [蓝](https://open.spotify.com/album/1VMcaGUnZCKz5QVqUO9Q9e) | 4:31 | 2023-05-01 | 2023-05-09 |
 | [蓝](https://open.spotify.com/track/6mDGz94bhuw5ipk0VMdJ8s) | [石白其](https://open.spotify.com/artist/4bRMSv20sBKRl1eikK5LWh) | [蓝](https://open.spotify.com/album/67tMNYQpjY1meSEh4vxAdO) | 4:31 | 2022-08-29 | 2023-02-03 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 142951,
+  "num_followers": 142909,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDg2ODk0NGJmMTJjOTMyYzYwYWRlNjRhYmUyMmRkMDI2",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDJmNGM3YTNmNGE5ZjRkMTAyMmI2YjkxYmM5ZGEyNjgy",
   "tracks": [
     {
       "added_at": null,
@@ -319,22 +319,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Canciones de Amor",
-        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 193317,
-      "name": "Adi\u00f3s, Adi\u00f3s",
-      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Y Nada",
         "url": "https://open.spotify.com/album/0tsv50A3ZdXC5EeohYYHag"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 214505,
       "name": "Polvo Y Nada",
       "url": "https://open.spotify.com/track/3hxmYDtf38nK7MLtbdaHFj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mis Canciones de Amor",
+        "url": "https://open.spotify.com/album/0JCDByU5HnFtMb2Ov4CJLV"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 193317,
+      "name": "Adi\u00f3s, Adi\u00f3s",
+      "url": "https://open.spotify.com/track/3DeS3HVYR3hhb2WkomDsEU"
     },
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        },
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 200146,
-      "name": "Vuelve Por Favor",
-      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
@@ -563,6 +543,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/07yRUflwcRq8xwhUPJ1t0W"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        },
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 200146,
+      "name": "Vuelve Por Favor",
+      "url": "https://open.spotify.com/track/0TflYAKQ2cTYzOKQTcAmpP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luchar\u00e9 Por Ti",
         "url": "https://open.spotify.com/album/5ZhzGPdJ3ybEx9fK6LF5c7"
       },
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Vagabundo Que Te Ama",
+        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 213774,
+      "name": "Por Amor Y Fe",
+      "url": "https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Bonito",
         "url": "https://open.spotify.com/album/0Z05URN9ad0MN2TuakJH0u"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 167986,
       "name": "Qu\u00e9 Bonito",
       "url": "https://open.spotify.com/track/3AG3kaV6b3DDQDCEDN1HdS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Vagabundo Que Te Ama",
-        "url": "https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 213774,
-      "name": "Por Amor Y Fe",
-      "url": "https://open.spotify.com/track/6VD5k9j9LmtxyK4BbrIOV7"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Poco de Amor",
-        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 171236,
-      "name": "Un Poco de Amor",
-      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 158200,
       "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Poco de Amor",
+        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 171236,
+      "name": "Un Poco de Amor",
+      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
     },
     {
       "added_at": null,

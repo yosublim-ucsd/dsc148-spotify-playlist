@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 35192,
+  "num_followers": 35224,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1063,38 +1063,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "You Can Forever Be",
-        "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        },
-        {
-          "name": "Deniz Bul",
-          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
-        },
-        {
-          "name": "Moritz Hofbauer",
-          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
-        },
-        {
-          "name": "Kevin Kaczynski",
-          "url": "https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr"
-        },
-        {
-          "name": "Denise",
-          "url": "https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2"
-        }
-      ],
-      "duration_ms": 376875,
-      "name": "You Can Forever Be",
-      "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Playing With Foc...",
         "url": "https://open.spotify.com/album/3DiEaP7sRq9S7cIuuaMTp7"
       },
@@ -1127,6 +1095,38 @@
       "duration_ms": 373920,
       "name": "In You",
       "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "You Can Forever Be",
+        "url": "https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Deniz Bul",
+          "url": "https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21"
+        },
+        {
+          "name": "Moritz Hofbauer",
+          "url": "https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE"
+        },
+        {
+          "name": "Kevin Kaczynski",
+          "url": "https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr"
+        },
+        {
+          "name": "Denise",
+          "url": "https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2"
+        }
+      ],
+      "duration_ms": 376875,
+      "name": "You Can Forever Be",
+      "url": "https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Unfair",
-        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        }
-      ],
-      "duration_ms": 247566,
-      "name": "Unfair",
-      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Dusty Showbiz",
         "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
       },
@@ -1195,22 +1179,6 @@
       "duration_ms": 178040,
       "name": "Dusty Showbiz",
       "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Fakez",
-        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
-      },
-      "artists": [
-        {
-          "name": "Endor",
-          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
-        }
-      ],
-      "duration_ms": 271200,
-      "name": "Fakez",
-      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1231,6 +1199,38 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Unfair",
+        "url": "https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        }
+      ],
+      "duration_ms": 247566,
+      "name": "Unfair",
+      "url": "https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Fakez",
+        "url": "https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X"
+      },
+      "artists": [
+        {
+          "name": "Endor",
+          "url": "https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt"
+        }
+      ],
+      "duration_ms": 271200,
+      "name": "Fakez",
+      "url": "https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Origins EP",
-        "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Harvy Valencia",
-          "url": "https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4"
-        }
-      ],
-      "duration_ms": 236279,
-      "name": "Origins - 3AM Tusi Mix",
-      "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Vamo",
         "url": "https://open.spotify.com/album/5fpcn6vdsxTyh1m3XmGDHA"
       },
@@ -1371,18 +1351,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Like Dat",
-        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
+        "name": "Origins EP",
+        "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
       },
       "artists": [
         {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Harvy Valencia",
+          "url": "https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4"
         }
       ],
-      "duration_ms": 224322,
-      "name": "Like Dat",
-      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
+      "duration_ms": 236279,
+      "name": "Origins - 3AM Tusi Mix",
+      "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 388800,
       "name": "Get On The Floor",
       "url": "https://open.spotify.com/track/45JOJ1S8OK78Ce0zX6krvu"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Like Dat",
+        "url": "https://open.spotify.com/album/2k6hw2VG0XdQLqmas3JQFf"
+      },
+      "artists": [
+        {
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+        }
+      ],
+      "duration_ms": 224322,
+      "name": "Like Dat",
+      "url": "https://open.spotify.com/track/4X6RJDR65ntTziCrgkcLfj"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Club Vibes Part 01",
-        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
-      },
-      "artists": [
-        {
-          "name": "Boris Brejcha",
-          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
-        }
-      ],
-      "duration_ms": 518400,
-      "name": "Geh\u00f6rschadengenerator",
-      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Stutter EP",
         "url": "https://open.spotify.com/album/6S3BbGBdXGll07mJj5i6UV"
       },
@@ -1491,18 +1475,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Amused EP",
-        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
+        "name": "Club Vibes Part 01",
+        "url": "https://open.spotify.com/album/03zo0uqSccDlJjgWfUT5zk"
       },
       "artists": [
         {
-          "name": "Havoc & Lawn",
-          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
         }
       ],
-      "duration_ms": 195000,
-      "name": "Amused",
-      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
+      "duration_ms": 518400,
+      "name": "Geh\u00f6rschadengenerator",
+      "url": "https://open.spotify.com/track/3NfeXbPEafvsiPtwq5huQX"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1523,6 +1507,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Amused EP",
+        "url": "https://open.spotify.com/album/71ViKLNXZ55srxn3MZN4Js"
+      },
+      "artists": [
+        {
+          "name": "Havoc & Lawn",
+          "url": "https://open.spotify.com/artist/6EaFaq8NthVEQYSHSemmBv"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Amused",
+      "url": "https://open.spotify.com/track/6HwWPFDSqwHiWdjCdHHi6G"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "What's Your Name",
         "url": "https://open.spotify.com/album/7JrzBm1nyUSYZ0VD6TCN59"
       },
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Noreaga",
-        "url": "https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Olander",
-          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
-        }
-      ],
-      "duration_ms": 487218,
-      "name": "Noreaga",
-      "url": "https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Where Ya At",
         "url": "https://open.spotify.com/album/1IdxL4BAGoA9Cf5Vi2UfQ4"
       },
@@ -1567,6 +1551,22 @@
       "duration_ms": 228750,
       "name": "Where Ya At",
       "url": "https://open.spotify.com/track/5ly24DpozyrKv1FFDivUHx"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Noreaga",
+        "url": "https://open.spotify.com/album/43ZR2HJop5IZAboipHGbc1"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Olander",
+          "url": "https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB"
+        }
+      ],
+      "duration_ms": 487218,
+      "name": "Noreaga",
+      "url": "https://open.spotify.com/track/0qKPsIpJdCEUSeoB3JZddK"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
+      },
+      "artists": [
+        {
+          "name": "Victor Lou",
+          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
+        }
+      ],
+      "duration_ms": 222923,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "without you",
         "url": "https://open.spotify.com/album/05maWYabu665iJoxUOxDHB"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 336350,
       "name": "without you",
       "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/5OTT1ROw5fg0RCZgASpzh6"
-      },
-      "artists": [
-        {
-          "name": "Victor Lou",
-          "url": "https://open.spotify.com/artist/063wYkWkHrq5L5YWdrqjEt"
-        }
-      ],
-      "duration_ms": 222923,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/08iDFOXmXWcDCHMunhEWda"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1679,30 +1679,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "JS04",
-        "url": "https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL"
-      },
-      "artists": [
-        {
-          "name": "Jump Source",
-          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
-        },
-        {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
-        },
-        {
-          "name": "Priori",
-          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
-        }
-      ],
-      "duration_ms": 346666,
-      "name": "Scrap",
-      "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Single Kiss",
         "url": "https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf"
       },
@@ -1735,26 +1711,42 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Targa (Logic1000 Remix)",
-        "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
+        "name": "JS04",
+        "url": "https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL"
       },
       "artists": [
         {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
         },
         {
-          "name": "Ian Isiah",
-          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
         },
         {
-          "name": "Logic1000",
-          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
         }
       ],
-      "duration_ms": 215642,
-      "name": "Targa - Logic1000 Remix",
-      "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
+      "duration_ms": 346666,
+      "name": "Scrap",
+      "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Azabache",
+        "url": "https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y"
+      },
+      "artists": [
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 217440,
+      "name": "Azabache",
+      "url": "https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1775,18 +1767,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Azabache",
-        "url": "https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y"
+        "name": "Targa (Logic1000 Remix)",
+        "url": "https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo"
       },
       "artists": [
         {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+        },
+        {
+          "name": "Ian Isiah",
+          "url": "https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI"
+        },
+        {
+          "name": "Logic1000",
+          "url": "https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I"
         }
       ],
-      "duration_ms": 217440,
-      "name": "Azabache",
-      "url": "https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC"
+      "duration_ms": 215642,
+      "name": "Targa - Logic1000 Remix",
+      "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
     },
     {
       "added_at": "2024-04-19 04:00:00",

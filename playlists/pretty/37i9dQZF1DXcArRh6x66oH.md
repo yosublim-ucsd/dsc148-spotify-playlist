@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcArRh6x66oH.md) - [plain]
 
 > somewhere between with Dylan Gossett
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,418 likes - 124 songs - 7 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,816 likes - 124 songs - 7 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

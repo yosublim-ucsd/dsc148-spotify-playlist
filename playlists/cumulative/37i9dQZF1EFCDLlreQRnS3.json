@@ -1061,6 +1061,24 @@
     },
     {
       "album": {
+        "name": "Lost In Life",
+        "url": "https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265546,
+      "name": "Lost In Life",
+      "url": "https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4"
+    },
+    {
+      "album": {
         "name": "love and hate",
         "url": "https://open.spotify.com/album/22RD49QYSQoEAnpHOBmp6m"
       },

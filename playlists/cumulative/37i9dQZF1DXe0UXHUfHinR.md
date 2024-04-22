@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-735 songs - 2 day 9 hr 49 min
+736 songs - 2 day 9 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Autumn In New York](https://open.spotify.com/track/4TUYXBMD004ZwWTeYcynFH) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [This Dream Of You](https://open.spotify.com/album/2axVAnC2sE98xigU2BV1TY) | 5:19 | 2022-10-27 | 2023-04-09 |
 | [Autumn In New York](https://open.spotify.com/track/0f2489MzoisF9pKduawvce) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Ella And Louis Again](https://open.spotify.com/album/4zWqQOob980K9drUrUGM8M) | 5:56 | 2022-10-27 |  |
 | [Autumn In New York](https://open.spotify.com/track/2rguP2Zy8ohN8tYWwcbr0l) | [Johnny Hodges](https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5) | [Used To Be Duke](https://open.spotify.com/album/0FDIQRrWsQ8euHDTAYQiIZ) | 3:37 | 2023-01-18 |  |
+| [Autumn in New York \- Bonus Track](https://open.spotify.com/track/0gxbmuy5GdkivP5bmfXWqm) | [Bobby Timmons](https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC), [Jimmy Bond](https://open.spotify.com/artist/4iuQpahfMI03RGiO2CB14x), [Peter Littman](https://open.spotify.com/artist/1R2BToECYEMKfJhJVgSIJM) | [This Here Is Bobby Timmons / Easy Does It](https://open.spotify.com/album/76cd2lOIpE29vAyewtKd4b) | 2:11 | 2024-03-20 |  |
 | [Autumn in Washington Square](https://open.spotify.com/track/5I3dI6HaVLW34JxNYxB7sn) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Jazz Impressions Of New York](https://open.spotify.com/album/595TGZHxJLd3Zwu1Rlz5RH) | 5:28 | 2022-10-27 | 2023-01-07 |
 | [Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7) | [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA) | [Somethin' Else \(Rudy Van Gelder Edition\)](https://open.spotify.com/album/3Wu0chxAm4GxSeRnIIf2Om) | 10:59 | 2022-10-27 |  |
 | [Autumn Leaves](https://open.spotify.com/track/2rFRXdxA9PupBVau54E3tl) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Unforgettable](https://open.spotify.com/album/6B7Oo2qWozbz9hz1s4S8Yi) | 2:31 | 2023-02-23 | 2023-07-09 |
@@ -544,7 +545,7 @@
 | [So What \(feat\. John Coltrane, Cannonball Adderley & Bill Evans\)](https://open.spotify.com/track/4vLYewWIvqHfKtJDk8c8tq) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Bill Evans](https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF) | [Kind Of Blue \(Legacy Edition\)](https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw) | 9:22 | 2022-10-27 |  |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/2CLZaxEWSVkteBpjhmyLRE) | [Sonny Clark](https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8) | [The Best Of The Blue Note Years](https://open.spotify.com/album/1nGkt50fYVSDGiEVCwf9Fc) | 6:33 | 2022-10-27 | 2023-02-01 |
 | [Softly As In A Morning Sunrise](https://open.spotify.com/track/4vWMrM0AwlhRlkAdQtC2zn) | [The Modern Jazz Quartet](https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI) | [Elegance: The Birth Of The Modern Jazz Quartet](https://open.spotify.com/album/2uu6trC0IdVMMeslfF8nCC) | 3:29 | 2022-10-27 |  |
-| [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2022-10-27 |  |
+| [Softly As In A Morning Sunrise](https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq) | [Wynton Kelly](https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0) | [Kelly Blue \(Keepnews Collection\)](https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B) | 6:33 | 2022-10-27 | 2024-04-22 |
 | [Softly As In A Morning Sunrise \- Rudy Van Gelder Edition, 2008 Digital Remaster](https://open.spotify.com/track/6I0I8uMyDHtA1nfyP8c5WE) | [Paul Chambers Quintet](https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My) | [Paul Chambers Quintet \(Remastered\)](https://open.spotify.com/album/3YjDsVQMm9N0u2A0uUCiyb) | 3:10 | 2022-10-27 |  |
 | [Solar \- Rudy Van Gelder Remaster](https://open.spotify.com/track/16KZuJfRKqMZQvmOibsVqX) | [Miles Davis Quintet](https://open.spotify.com/artist/71Ur25Abq58vksqJINpGdx) | [Walkin'](https://open.spotify.com/album/7nFwdPkEbfMUb1c5xuHGR6) | 4:42 | 2022-10-27 | 2023-07-16 |
 | [Solitude](https://open.spotify.com/track/30QD4VRP9yEneOh0eGTrtJ) | [Billie Holiday](https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp) | [Solitude](https://open.spotify.com/album/4izD3SCRElbkO06i8yf4Zp) | 3:27 | 2022-10-27 |  |

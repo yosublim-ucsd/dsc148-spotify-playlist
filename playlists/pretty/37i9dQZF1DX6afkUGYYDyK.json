@@ -1,6 +1,6 @@
 {
   "description": "Give thanks to the Lord, in all circumstances, with these songs about being grateful.",
-  "num_followers": 19084,
+  "num_followers": 19082,
   "original_name": "Give Thanks",
   "owner": {
     "name": "Spotify",
@@ -827,26 +827,6 @@
     {
       "added_at": "2022-11-23 15:01:23",
       "album": {
-        "name": "I Won't Forget",
-        "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
-      },
-      "artists": [
-        {
-          "name": "Lifepoint Worship",
-          "url": "https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo"
-        },
-        {
-          "name": "Hope Darst",
-          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
-        }
-      ],
-      "duration_ms": 521973,
-      "name": "I Won't Forget (Live)",
-      "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
-    },
-    {
-      "added_at": "2022-11-23 15:01:23",
-      "album": {
         "name": "Songs 4 Worship Gospel - God Is In the House",
         "url": "https://open.spotify.com/album/052YKRyqnlBdsBPvL82WRZ"
       },
@@ -875,6 +855,26 @@
       "duration_ms": 386466,
       "name": "Thankful",
       "url": "https://open.spotify.com/track/0NQFXVSRCtWXRRKGuQTgFm"
+    },
+    {
+      "added_at": "2022-11-23 15:01:23",
+      "album": {
+        "name": "I Won't Forget",
+        "url": "https://open.spotify.com/album/3ZDeyTbNrItTMYscutBCg7"
+      },
+      "artists": [
+        {
+          "name": "Lifepoint Worship",
+          "url": "https://open.spotify.com/artist/7GPZGfVnkGTiIq3f4E78yo"
+        },
+        {
+          "name": "Hope Darst",
+          "url": "https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36"
+        }
+      ],
+      "duration_ms": 521973,
+      "name": "I Won't Forget (Live)",
+      "url": "https://open.spotify.com/track/1mohJvDGBQ4pury12Q3sFP"
     },
     {
       "added_at": "2022-11-23 15:01:23",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9n1dvGkpvfI.md) - [plain]
 
 > Challenging norms, breaking boundaries with <a href="https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6?si=d6fdc78e0db64cde">St\. Vincent</a> and the songs that shape their alternative spirit\. This is <a href=spotify:genre:0JQ5IMCbQBLnnDn497UHrz>COUNTER//CULTURE</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,895 likes - 29 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,931 likes - 29 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

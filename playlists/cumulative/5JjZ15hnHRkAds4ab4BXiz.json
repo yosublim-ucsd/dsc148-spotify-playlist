@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Strangeways, Here We Come",
+        "url": "https://open.spotify.com/album/7jfexk2w5aDI25njkN0UGg"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183013,
+      "name": "A Rush and a Push and the Land Is Ours - 2011 Remaster",
+      "url": "https://open.spotify.com/track/6Ps04Nfh2PySU4fIPZWxrU"
+    },
+    {
+      "album": {
         "name": "Pinkerton",
         "url": "https://open.spotify.com/album/3jWhmYMAWw5NvHTTeiQtfl"
       },
@@ -1398,7 +1416,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 162040,
       "name": "I Can't Win",
       "url": "https://open.spotify.com/track/7eX5SypK35V8Y9d9pS6rWy"
@@ -1434,7 +1452,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 349186,
       "name": "I Know It's Over - 2011 Remaster",
       "url": "https://open.spotify.com/track/3M2bD9SMYnJIPdrTKUnBd3"
@@ -2361,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Transmission, Flux",
+        "url": "https://open.spotify.com/album/1MKrXmYKkTv9foXroXTDbo"
+      },
+      "artists": [
+        {
+          "name": "Duster",
+          "url": "https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138266,
+      "name": "Orbitron",
+      "url": "https://open.spotify.com/track/2O1fWJD4M38spxqK6ly8qZ"
+    },
+    {
+      "album": {
         "name": "London 0 Hull 4",
         "url": "https://open.spotify.com/album/4BNELxLJPRYIEOiYGPAET9"
       },
@@ -2667,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "The Queen Is Dead (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234106,
+      "name": "Rubber Ring - 2017 Master",
+      "url": "https://open.spotify.com/track/7xuyW6Ly5oaVRmTVeZDKJU"
+    },
+    {
+      "album": {
         "name": "All My Demons Greeting Me as a Friend (Deluxe)",
         "url": "https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf"
       },
@@ -2820,7 +2874,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 173333,
       "name": "Slave",
       "url": "https://open.spotify.com/track/2puGRTU4wKLn6sPF5eUzmR"

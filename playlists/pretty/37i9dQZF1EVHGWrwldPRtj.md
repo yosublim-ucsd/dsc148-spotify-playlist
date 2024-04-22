@@ -1,8 +1,8 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain](/playlists/plain/37i9dQZF1EVHGWrwldPRtj) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EVHGWrwldPRtj)
 
-### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
+### [Mix de chill](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIX6w3UehUg5U>Hozier</a>, <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIXU5Hw1noEbj>Teddy Swims</a> y más
 
 [Spotify](https://open.spotify.com/user/spotify) - 0 like - 50 songs - 2 hr 42 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVHGWrwldPRtj.md) - [plain]
 | 49 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 |
 | 50 | [All The Stars](https://open.spotify.com/track/3YDjXk0eiQm2Qd8cr5ssBV) | [Lonely in the Rain](https://open.spotify.com/artist/42KUul1wLmOdQCEYf3MweS), [Saavan](https://open.spotify.com/artist/7HIN13S8A6wfupCwXRNv6U) | [All The Stars](https://open.spotify.com/album/1A3tS1C0LZrWHa8FyTm8lK) | 2:38 |
 
-Snapshot ID: `MCwwMDAwMDAwMDcwMzMzZmU4MDUxYmMzMWZkMmEyY2I5YTgwZjIyNjIz`
+Snapshot ID: `MCwwMDAwMDAwMGRlYmEwZWY2NDQyNWUyZmQ0YTJlZTAzMDgwOWI4NDI1`

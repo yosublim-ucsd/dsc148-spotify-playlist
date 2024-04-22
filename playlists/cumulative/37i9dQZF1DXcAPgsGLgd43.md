@@ -4,7 +4,7 @@
 
 > The pulse of Latin House 💃🏻💃🏻
 
-223 songs - 12 hr 19 min
+224 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Morena](https://open.spotify.com/track/1D0pCmlp5TnFaCTifJGAHW) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Kuisitambó](https://open.spotify.com/artist/6iWNV6MJhL8469VQpRRiMK) | [Morena](https://open.spotify.com/album/2vSBA2DSlXOcamxOAFLAht) | 2:48 | 2023-12-01 | 2024-02-12 |
 | [Morenita](https://open.spotify.com/track/0pIiCv0GdhtsOjCJ5Y7zHj) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Cumbiafrica](https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs) | [Morenita](https://open.spotify.com/album/4zMIwkKxRg5oo8ekxOKqHW) | 2:56 | 2021-10-08 | 2023-11-11 |
 | [Mueve Los Dos Pies](https://open.spotify.com/track/4ZSAH3KeoaQ17VpplxkdVQ) | [Teddy Wong](https://open.spotify.com/artist/0GdhK4DxpuQ1C7SXpdon31) | [Mueve Los Dos Pies](https://open.spotify.com/album/62RADUg9aYhCC2k7fxg2jU) | 3:32 | 2023-12-01 | 2024-02-24 |
+| [Mujer](https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mujer](https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs) | 4:23 | 2024-04-19 |  |
 | [Musica](https://open.spotify.com/track/207YcqxaFYsOdJarlqyjWl) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Musica](https://open.spotify.com/album/6bjQOS2LqOWMo2sGUYCKpc) | 2:57 | 2023-12-01 |  |
 | [Nicotina](https://open.spotify.com/track/6oWPpW3OWrypVoCHB2Cpw0) | [Malóne](https://open.spotify.com/artist/7fQMET8UaHL3gpH9LhqINM), [Musicologo The Libro](https://open.spotify.com/artist/0lIw3RIPiAC50dWNjJXe2Q) | [Nicotina](https://open.spotify.com/album/3RPabycr55t7BDwUOzwhE0) | 3:08 | 2024-03-22 |  |
 | [No Pares](https://open.spotify.com/track/0r2tv5UOCiSyXE0AG98lxQ) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta), [Alexander Som](https://open.spotify.com/artist/22tboof8TJ0m7PjeuRzQeW) | [No Pares](https://open.spotify.com/album/45O9tkZOE8dDkK3TWXD58Z) | 3:33 | 2024-02-09 | 2024-03-25 |
@@ -164,7 +165,7 @@
 | [Periquito](https://open.spotify.com/track/5gJU2cf4oyZdFqVoeYr7jn) | [Bruno Bona](https://open.spotify.com/artist/0BeKej0zI0RZQxLPoktkpU) | [Salzzati](https://open.spotify.com/album/06whUCfuBRM3hI1Vgzs7fw) | 5:16 | 2024-04-19 |  |
 | [Piano de la Selva](https://open.spotify.com/track/0FJnDA2xiJ5jqYZgA6bhdE) | [Mia Moretti](https://open.spotify.com/artist/508HEnl2cDRksyq8hyQtRh) | [Piano de la Selva](https://open.spotify.com/album/3eeNuUpzHKLg0rTSTcMh0D) | 4:07 | 2023-12-01 | 2024-03-20 |
 | [Pliva](https://open.spotify.com/track/5tfqO6elC42ZwXfIN1aSDk) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO) | [Pliva](https://open.spotify.com/album/4EATgaagFfAx7fynhS2gdh) | 4:04 | 2023-11-17 |  |
-| [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 | 2023-11-17 |  |
+| [Pronosticos Cachito](https://open.spotify.com/track/3lBQvzsycvySqg739cOGew) | [KinAhau](https://open.spotify.com/artist/3C7Tv0IqIGLjA9rpVaeHRB) | [Pronosticos Cachito](https://open.spotify.com/album/50SQ7JTtUKAjggTuf6Sv6e) | 4:00 | 2023-11-17 | 2024-04-22 |
 | [Puerto Rico](https://open.spotify.com/track/4AOCixIsN5aoszu3dcwalf) | [Landis](https://open.spotify.com/artist/7bSDGumYzI7Cehekr534Xn) | [Puerto Rico](https://open.spotify.com/album/5uAyqWPXo6H3fpWa9T433G) | 2:24 | 2021-10-08 | 2023-11-11 |
 | [Pégate](https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy) | [Tom Enzy](https://open.spotify.com/artist/6Nva7JhU0nL9SZ8ZvJni6O) | [Pégate](https://open.spotify.com/album/6Jz3HWNzj6GHH5udXBKoSS) | 3:17 | 2023-12-01 |  |
 | [Q' Pario](https://open.spotify.com/track/1WITm8WzXW6sTDvHGKQI4i) | [Sunday Noise](https://open.spotify.com/artist/7GIGyQw9goHVF0MRV4bGRY), [Cris Ocana](https://open.spotify.com/artist/2ZnHDfsIGvemWTMkvKAPuI) | [Q' Pario](https://open.spotify.com/album/2r5Q18MMpuhbEariH5zTJx) | 3:51 | 2023-12-01 | 2024-02-24 |

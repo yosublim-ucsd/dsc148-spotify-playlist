@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 675678,
+  "num_followers": 675606,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -303,6 +303,22 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "Use Your Illusion I",
+        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+      },
+      "artists": [
+        {
+          "name": "Guns N' Roses",
+          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+        }
+      ],
+      "duration_ms": 182733,
+      "name": "Live And Let Die",
+      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "Shake Your Money Maker",
         "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 156146,
       "name": "You Really Got Me - 2015 Remaster",
       "url": "https://open.spotify.com/track/0upLyFR8Rr52ZpMp5esQoq"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Mother's Milk",
-        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Higher Ground - Remastered 2003",
-      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -383,18 +383,18 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Use Your Illusion I",
-        "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
+        "name": "Mother's Milk",
+        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
       },
       "artists": [
         {
-          "name": "Guns N' Roses",
-          "url": "https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 182733,
-      "name": "Live And Let Die",
-      "url": "https://open.spotify.com/track/0rFWuqFgHAfuzE8uSB9TWR"
+      "duration_ms": 202053,
+      "name": "Higher Ground - Remastered 2003",
+      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "The Best",
-        "url": "https://open.spotify.com/album/6bGjpzX1wMp0NYX3ZiPUnf"
-      },
-      "artists": [
-        {
-          "name": "Nicotine Dolls",
-          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
-        }
-      ],
-      "duration_ms": 228948,
-      "name": "The Best",
-      "url": "https://open.spotify.com/track/4DsxMZjoeXSI3dpQC0kCOj"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Yellow - Spotify Singles",
         "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 269967,
       "name": "Yellow - Spotify Singles",
       "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "The Best",
+        "url": "https://open.spotify.com/album/6bGjpzX1wMp0NYX3ZiPUnf"
+      },
+      "artists": [
+        {
+          "name": "Nicotine Dolls",
+          "url": "https://open.spotify.com/artist/72gC2IIj21UAPKneFwl4NM"
+        }
+      ],
+      "duration_ms": 228948,
+      "name": "The Best",
+      "url": "https://open.spotify.com/track/4DsxMZjoeXSI3dpQC0kCOj"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
+        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 274829,
+      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
+      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Just A Girl (From The Original Series \u201cYellowjackets\u201d)",
-        "url": "https://open.spotify.com/album/2g9A59r1lqhUp29wxLY3Nk"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 274829,
-      "name": "Just A Girl - From The Original Series \u201cYellowjackets\u201d",
-      "url": "https://open.spotify.com/track/7DtbrNlYifGnJc7HY0fS9i"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Wild Card/A Word To The Wise",
-        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 187826,
-      "name": "Stand By Me",
-      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Age Of Ignorance (Deluxe Edition)",
         "url": "https://open.spotify.com/album/2XGFVYNHi4z3zwd3e2kNO1"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 249411,
       "name": "Skyfall",
       "url": "https://open.spotify.com/track/77WO0JSWRfhu0ek3Zp2amk"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Wild Card/A Word To The Wise",
+        "url": "https://open.spotify.com/album/3YpA1wk8b1yLCYBDb8PS0r"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 187826,
+      "name": "Stand By Me",
+      "url": "https://open.spotify.com/track/4jpYBxEFpa1Rdw1yAXVSAZ"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1335,6 +1335,22 @@
       "duration_ms": 321040,
       "name": "Walk",
       "url": "https://open.spotify.com/track/3fDV1GHwjDNhWEMDKupa9Q"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Rebels",
+        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
+      },
+      "artists": [
+        {
+          "name": "Black Veil Brides",
+          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
+        }
+      ],
+      "duration_ms": 278280,
+      "name": "Rebel Yell",
+      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Rebels",
-        "url": "https://open.spotify.com/album/1rtB3hzE9dbjJMP7dYy9rF"
-      },
-      "artists": [
-        {
-          "name": "Black Veil Brides",
-          "url": "https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs"
-        }
-      ],
-      "duration_ms": 278280,
-      "name": "Rebel Yell",
-      "url": "https://open.spotify.com/track/2nbXgSw0D7llrE4N06FZcQ"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Carry On",
         "url": "https://open.spotify.com/album/7DTYi2YCfQZGDyeedTdNGb"
       },
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "I Think We're Alone Now",
-        "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
-      },
-      "artists": [
-        {
-          "name": "Billie Joe Armstrong",
-          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
-        },
-        {
-          "name": "Green Day",
-          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
-        }
-      ],
-      "duration_ms": 134671,
-      "name": "I Think We're Alone Now",
-      "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "In Love and Death",
         "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 211733,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/7oof6K1s09QXjOxDucR2r8"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "I Think We're Alone Now",
+        "url": "https://open.spotify.com/album/2FYNBNvvPgrUYC87Lqvz6W"
+      },
+      "artists": [
+        {
+          "name": "Billie Joe Armstrong",
+          "url": "https://open.spotify.com/artist/1MrEurzLcL8ugfP1PrUPWG"
+        },
+        {
+          "name": "Green Day",
+          "url": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        }
+      ],
+      "duration_ms": 134671,
+      "name": "I Think We're Alone Now",
+      "url": "https://open.spotify.com/track/6h8QlZzBBnZhF4EkGi8JPr"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "No One Sings Like You Anymore",
-        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
-      },
-      "artists": [
-        {
-          "name": "Chris Cornell",
-          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
-        }
-      ],
-      "duration_ms": 194359,
-      "name": "Watching The Wheels",
-      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "DJ Got Us Fallin in Love",
         "url": "https://open.spotify.com/album/7BlAqQCFaGeZ74asl8SvGL"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 189248,
       "name": "Hungry Like the Wolf - Recorded Live at AIR Studios, London",
       "url": "https://open.spotify.com/track/0YdWb05mQJwJnd3U7zXWFv"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "No One Sings Like You Anymore",
+        "url": "https://open.spotify.com/album/50CtNizqlxOXeHICmNwc45"
+      },
+      "artists": [
+        {
+          "name": "Chris Cornell",
+          "url": "https://open.spotify.com/artist/0XHiH53dHrvbwfjYM7en7I"
+        }
+      ],
+      "duration_ms": 194359,
+      "name": "Watching The Wheels",
+      "url": "https://open.spotify.com/track/1G90xitIQEtzGyiPG1tHJN"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1739,6 +1739,22 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "Uninvited",
+        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
+      },
+      "artists": [
+        {
+          "name": "Red Sun Rising",
+          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
+        }
+      ],
+      "duration_ms": 259689,
+      "name": "Uninvited",
+      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "Origin (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1ttLnUVyZM8x6qvgjhaUHu"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 293732,
       "name": "Hello",
       "url": "https://open.spotify.com/track/2d0uBfr5XlbvlIlfq1loz7"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Uninvited",
-        "url": "https://open.spotify.com/album/01gQ0OeVj1zV5HZh2Sk5e8"
-      },
-      "artists": [
-        {
-          "name": "Red Sun Rising",
-          "url": "https://open.spotify.com/artist/01ZtptlLUxoAbJDrS9fTqX"
-        }
-      ],
-      "duration_ms": 259689,
-      "name": "Uninvited",
-      "url": "https://open.spotify.com/track/735Ge0JqNmz6hKYEB1q7vZ"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Comandante",
-        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
-      },
-      "artists": [
-        {
-          "name": "Tom Morello",
-          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
-        }
-      ],
-      "duration_ms": 312262,
-      "name": "Voodoo Child",
-      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2ofkss2PsSivatWu9zTkdh"
       },
@@ -2067,6 +2051,22 @@
       "duration_ms": 184417,
       "name": "Hey Ya! - Live Session from Spotify Studios NYC",
       "url": "https://open.spotify.com/track/22qQjtiv3Xy1P8WvpA6HgR"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Comandante",
+        "url": "https://open.spotify.com/album/0XicAYGRSG7OTZTdsCAhdA"
+      },
+      "artists": [
+        {
+          "name": "Tom Morello",
+          "url": "https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed"
+        }
+      ],
+      "duration_ms": 312262,
+      "name": "Voodoo Child",
+      "url": "https://open.spotify.com/track/1LDr80fXBUO4Iqa28mMNCg"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2219,22 +2219,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
-      },
-      "artists": [
-        {
-          "name": "BRKN LOVE",
-          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
-        }
-      ],
-      "duration_ms": 211019,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Free Rein to Passions (Deluxe)",
         "url": "https://open.spotify.com/album/36JPPW9J3Luzekc4iWkKEk"
       },
@@ -2247,6 +2231,22 @@
       "duration_ms": 130397,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/2Ra1d0arxerDuDvVi1rKos"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/1gbZr44u85xj3X7SGrim98"
+      },
+      "artists": [
+        {
+          "name": "BRKN LOVE",
+          "url": "https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp"
+        }
+      ],
+      "duration_ms": 211019,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/093b1blyOJsbJcX9dyJ8RB"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
-      },
-      "artists": [
-        {
-          "name": "Islander",
-          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
-        }
-      ],
-      "duration_ms": 178250,
-      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
-      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/2tKenSIL0VRCD5tSjWh73P"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 251803,
       "name": "Lovesong - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/5o546Sxsa5KAl90cEdSo4T"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+        "url": "https://open.spotify.com/album/7m2qgouMIUFAAeWjeNfyiF"
+      },
+      "artists": [
+        {
+          "name": "Islander",
+          "url": "https://open.spotify.com/artist/6DHKrV1tmyV6dxN7fmPm9w"
+        }
+      ],
+      "duration_ms": 178250,
+      "name": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "url": "https://open.spotify.com/track/5o9gbDIYU02WpBT1XHpXsy"
     },
     {
       "added_at": "2024-04-19 19:49:27",

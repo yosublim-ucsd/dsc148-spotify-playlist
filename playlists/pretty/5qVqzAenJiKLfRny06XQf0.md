@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 
 > Help the band set\-up and get ready for the best live performances from your favorite artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,518 likes - 100 songs - 8 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,500 likes - 100 songs - 8 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/5qVqzAenJiKLfRny06XQf0.md) - [plain]
 | 57 | [Nine in the Afternoon \- Live at Congress Theater, Chicago, IL, 2008](https://open.spotify.com/track/641eTjClhfoX0qHDoXbic8) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live in Chicago](https://open.spotify.com/album/2zuVGxuEzVhhRHNS2ZeRja) | 2:53 |
 | 58 | [Lying Is the Most Fun a Girl Can Have Without Taking Her Clothes Off \- Live at Congress Theater, Chicago, IL, 2008](https://open.spotify.com/track/1IO0vmLJC3xjZK1f9VVX2K) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Live in Chicago](https://open.spotify.com/album/2zuVGxuEzVhhRHNS2ZeRja) | 3:05 |
 | 59 | [No Woman, No Cry \- Live At The Lyceum](https://open.spotify.com/track/5J5c4T026P8s5EoHAa7xki) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Marley OST](https://open.spotify.com/album/3GNhjIdkd87lLc19w2L1jS) | 7:09 |
-| 60 | [Make You Feel My Love \- Live at WXPN](https://open.spotify.com/track/3NYceIpgRH9enVfWVxeLbB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 4:06 |
+| 60 | [Make You Feel My Love \(Live at WXPN\)](https://open.spotify.com/track/3NYceIpgRH9enVfWVxeLbB) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [Chimes Of Freedom: The Songs Of Bob Dylan Honoring 50 Years Of Amnesty International](https://open.spotify.com/album/1SB9SD66SM04dm8wZdLatY) | 4:06 |
 | 61 | [Gone Tomorrow \- Live at Cecil Sharp House](https://open.spotify.com/track/6vF3G8AyxuSZuPtID1eRrv) | [The Staves](https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY) | [Live at Cecil Sharp House EP](https://open.spotify.com/album/60OLa1I0mJkiB3gK09jnDU) | 3:37 |
 | 62 | [jar of hearts \- live at the ocean way studios](https://open.spotify.com/track/4837kNWGD6qqRESyOL2Dn1) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [the ocean way sessions](https://open.spotify.com/album/0feLDKjvjDJ2GsajalELPS) | 4:05 |
 | 63 | [One More Saturday Night \- Live at the Strand Lyceum, London, England, May 24, 1972](https://open.spotify.com/track/1sxuKv3aaLDf1uRLlQc4CH) | [Grateful Dead](https://open.spotify.com/artist/4TMHGUX5WI7OOm53PqSDAT), [Merle Saunders](https://open.spotify.com/artist/09uBVu0MVp8f1NO2LI12O9) | [The Very Best of the Grateful Dead](https://open.spotify.com/album/3qzvxfhCWUYsJuVSOSv0AP) | 4:46 |

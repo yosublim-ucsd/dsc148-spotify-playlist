@@ -1,12 +1,12 @@
 {
   "description": "This Is Lola Indigo. Los temas esenciales, todos en una lista.",
-  "num_followers": 37364,
+  "num_followers": 37387,
   "original_name": "This Is Lola Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGEyNTQ0ODE1NDFlMjRkZTAzZWE0NmMyZDY0YjFjMjQ3",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDY3ZjA3NzQ5YmNjMDcxNzhmMTJhYmIxZWQ5NTdkYmI5",
   "tracks": [
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Akelarre",
-        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        },
-        {
-          "name": "Lalo Ebratt",
-          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
-        }
-      ],
-      "duration_ms": 188693,
-      "name": "Maldici\u00f3n",
-      "url": "https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chivirika (Remix)",
         "url": "https://open.spotify.com/album/2hi0gHwba26cTJEY3YAko2"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 337106,
       "name": "Chivirika - Remix",
       "url": "https://open.spotify.com/track/0u8glMfKNxpiArg4YOlT9I"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Akelarre",
+        "url": "https://open.spotify.com/album/5OcwnNamdhVLQTcpXS2bK9"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Lalo Ebratt",
+          "url": "https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj"
+        }
+      ],
+      "duration_ms": 188693,
+      "name": "Maldici\u00f3n",
+      "url": "https://open.spotify.com/track/6qz7XM4Ysl3z0rEcInLivx"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Stevie Ray Vaughan](https://open.spotify.com/playlist/37i9dQZF1DZ06evO35m9Q4)
 
-> This is Stevie Ray Vaughan\. The essential tracks, all in one playlist.
+> This is Stevie Ray Vaughan\. Todos os maiores hits em uma só playlist.
 
 65 songs - 4 hr 50 min
 

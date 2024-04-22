@@ -1,12 +1,12 @@
 {
-  "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 30040,
+  "description": "This Is Edgardo Nu\u00f1ez. Los temas esenciales, todos en una lista.",
+  "num_followers": 30075,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDU4MzgwMzI3NGYwYTkyYjBiMWE1YTMxODczNDZkMDZj",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDA4NDRkMmI5OTczMzNkYzdhZmI5OTc1NTU1OWVhNWJm",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos 602",
+        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 215061,
+      "name": "Tatuajes",
+      "url": "https://open.spotify.com/track/04et5uJuyiX6S2dGtfIusX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Si Esta Botella Hablara",
         "url": "https://open.spotify.com/album/098L2b6zmrDW8PX9LRq88o"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 188511,
       "name": "Si Esta Botella Hablara",
       "url": "https://open.spotify.com/track/3KMqPVzCOTcDAy5cGBEv5N"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602",
-        "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 215061,
-      "name": "Tatuajes",
-      "url": "https://open.spotify.com/track/04et5uJuyiX6S2dGtfIusX"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Llores BB",
-        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 158090,
-      "name": "Ya No Llores BB",
-      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Corridos 602",
         "url": "https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 202509,
       "name": "Alto y Piel Morena",
       "url": "https://open.spotify.com/track/6gEUZHMdjTWEi74fHNHW52"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ya No Llores BB",
+        "url": "https://open.spotify.com/album/3Aex8IQQTjNn0FXPVc173W"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 158090,
+      "name": "Ya No Llores BB",
+      "url": "https://open.spotify.com/track/3nhRj5PwAgCViXn9qNjnkx"
     },
     {
       "added_at": null,

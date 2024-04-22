@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 35112,
+  "num_followers": 35120,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMDA3ZTljN2EyZGFjY2FiNDA3YzU3NWVkZmIzNjVhNDM4",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDk3M2RkOTgxYjNjYWJmZWMxNGZhN2JmNGVhZTBmZTM4",
   "tracks": [
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Ngizobuya",
+      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Refe Matla",
         "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 296733,
       "name": "Dikonyana",
       "url": "https://open.spotify.com/track/2v3m71lnJIB8GPeMdnjVlx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Ngizobuya",
-      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
     },
     {
       "added_at": null,
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 291640,
-      "name": "Somlandela",
-      "url": "https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef"
+      "duration_ms": 290266,
+      "name": "Hamba Sathane",
+      "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/3EDFeCAmLSVbMJZJBZj05z"
         }
       ],
-      "duration_ms": 290266,
-      "name": "Hamba Sathane",
-      "url": "https://open.spotify.com/track/5WRoiwyCUQxn4eE6WOaQKa"
+      "duration_ms": 291640,
+      "name": "Somlandela",
+      "url": "https://open.spotify.com/track/33PtTKpTPfEdpbgVGHhnef"
     },
     {
       "added_at": null,

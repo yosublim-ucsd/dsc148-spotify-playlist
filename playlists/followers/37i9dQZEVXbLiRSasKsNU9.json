@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 1769614,
+  "2024-04-22": 1767399,
   "date_first_scraped": "2021-12-28",
   "description": "Your daily update of the most viral tracks right now - Global.",
   "name": "Viral 50 - Global",
@@ -17617,7 +17617,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 223347,
       "name": "Gulabi Sadi",
       "url": "https://open.spotify.com/track/4ITtnvLQ6SOA8XhiqkLa24"
@@ -20464,6 +20464,28 @@
     },
     {
       "album": {
+        "name": "Aavesham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Dabzee",
+          "url": "https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212525,
+      "name": "Illuminati",
+      "url": "https://open.spotify.com/track/1a1xLj9W8libnO9PvJf6ao"
+    },
+    {
+      "album": {
         "name": "Illuminati (From \"Aavesham\")",
         "url": "https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE"
       },
@@ -20483,7 +20505,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 212525,
       "name": "Illuminati - From \"Aavesham\"",
       "url": "https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I"
@@ -23799,7 +23821,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -25197,6 +25219,24 @@
     {
       "album": {
         "name": "Like That!",
+        "url": "https://open.spotify.com/album/3yye4vuTGdJWHqDHwxaTF6"
+      },
+      "artists": [
+        {
+          "name": "Laila!",
+          "url": "https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169403,
+      "name": "Like That!",
+      "url": "https://open.spotify.com/track/28ZwgrsyIbpX4diz92ACnm"
+    },
+    {
+      "album": {
+        "name": "Like That!",
         "url": "https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g"
       },
       "artists": [
@@ -25207,7 +25247,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 169403,
       "name": "Like That!",
       "url": "https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr"
@@ -26143,6 +26183,24 @@
       "duration_ms": 172189,
       "name": "love you twice",
       "url": "https://open.spotify.com/track/0GLXQAdrh4tdvz0JLw8DX8"
+    },
+    {
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2024-04-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Love You With All My Heart",
+      "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
     },
     {
       "album": {
@@ -40561,7 +40619,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 107076,
       "name": "SLAY!",
       "url": "https://open.spotify.com/track/67smGwuPEtA6GAfeweAVNO"

@@ -2,7 +2,7 @@
 
 ### [This Is Alaina Castillo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO03E4VO)
 
-> This is Alaina Castillo\. Todos os maiores hits em uma só playlist.
+> This Is Alaina Castillo\. Los temas esenciales, todos en una lista.
 
 40 songs - 2 hr 3 min
 

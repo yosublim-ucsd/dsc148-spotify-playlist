@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 322311,
+  "num_followers": 321547,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,22 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
+        "name": "DNA de Maria",
+        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+      },
+      "artists": [
+        {
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+        }
+      ],
+      "duration_ms": 218830,
+      "name": "DNA de Maria",
+      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
         "name": "Tudo \u00c9 do Pai",
         "url": "https://open.spotify.com/album/68YZx0zsiGT4nK4qMVCN4X"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 396777,
       "name": "Tudo \u00c9 do Pai",
       "url": "https://open.spotify.com/track/37DyD8BoLPQUEYZHBTPkxK"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Romanos 12",
-        "url": "https://open.spotify.com/album/1HNPnd9VdzaOtRo933kud2"
-      },
-      "artists": [
-        {
-          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
-          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
-        }
-      ],
-      "duration_ms": 490000,
-      "name": "Romanos 12",
-      "url": "https://open.spotify.com/track/1wRFaq5QqbIgS2vJTazBuL"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -239,58 +239,18 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "DNA de Maria",
-        "url": "https://open.spotify.com/album/2L2VoLA5hA5GX0lJAhry55"
+        "name": "Romanos 12",
+        "url": "https://open.spotify.com/album/1HNPnd9VdzaOtRo933kud2"
       },
       "artists": [
         {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
+          "name": "Fraternidade S\u00e3o Jo\u00e3o Paulo II",
+          "url": "https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt"
         }
       ],
-      "duration_ms": 218830,
-      "name": "DNA de Maria",
-      "url": "https://open.spotify.com/track/0FXx2WlgjVPOaFDPW4FScz"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Decididamente",
-        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
-      },
-      "artists": [
-        {
-          "name": "Cassiano Menke",
-          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
-        },
-        {
-          "name": "Walmir Alencar",
-          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
-        }
-      ],
-      "duration_ms": 258560,
-      "name": "Decididamente",
-      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
-      },
-      "artists": [
-        {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
+      "duration_ms": 490000,
+      "name": "Romanos 12",
+      "url": "https://open.spotify.com/track/1wRFaq5QqbIgS2vJTazBuL"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -315,6 +275,26 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
+        "name": "Decididamente",
+        "url": "https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN"
+      },
+      "artists": [
+        {
+          "name": "Cassiano Menke",
+          "url": "https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1"
+        },
+        {
+          "name": "Walmir Alencar",
+          "url": "https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN"
+        }
+      ],
+      "duration_ms": 258560,
+      "name": "Decididamente",
+      "url": "https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
         "name": "Romaria",
         "url": "https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne"
       },
@@ -335,18 +315,22 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "Resili\u00eancia (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
+        },
+        {
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 569032,
-      "name": "Eis-Me Aqui - Ao Vivo",
-      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -371,22 +355,18 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "In Concert (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
+        "name": "Resili\u00eancia (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q"
       },
       "artists": [
         {
-          "name": "Rosa de Saron",
-          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
-        },
-        {
-          "name": "Leonardo Gon\u00e7alves",
-          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
         }
       ],
-      "duration_ms": 303096,
-      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
-      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
+      "duration_ms": 569032,
+      "name": "Eis-Me Aqui - Ao Vivo",
+      "url": "https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -423,6 +403,26 @@
       "duration_ms": 173272,
       "name": "Como \u00c9s Lindo",
       "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "In Concert (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q"
+      },
+      "artists": [
+        {
+          "name": "Rosa de Saron",
+          "url": "https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX"
+        },
+        {
+          "name": "Leonardo Gon\u00e7alves",
+          "url": "https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ"
+        }
+      ],
+      "duration_ms": 303096,
+      "name": "Sobre a D\u00favida: In Concert - Ao Vivo",
+      "url": "https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
+        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 449016,
+      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
         "name": "Aparecida",
         "url": "https://open.spotify.com/album/1PwZ4VdOiutXpHW36p3Ix8"
       },
@@ -555,22 +571,6 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou (Ao Vivo Em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/6jjMwk7kiWqxuJnLI6xIKi"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 449016,
-      "name": "Egito - Ao Vivo Em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/1E2KOxfkqmysj9lpa9xFHe"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
         "name": "Yeshua (feat. Eliana Ribeiro)",
         "url": "https://open.spotify.com/album/6kb2Z7f0oZtl7TDrfhTN3j"
       },
@@ -587,74 +587,6 @@
       "duration_ms": 287562,
       "name": "Yeshua (feat. Eliana Ribeiro)",
       "url": "https://open.spotify.com/track/2K3QKrBAZBdRdABzOmQ1TL"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Em Sil\u00eancio",
-        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
-      },
-      "artists": [
-        {
-          "name": "Minist\u00e9rio Tua Palavra",
-          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
-        },
-        {
-          "name": "Padre Denis-Ricard",
-          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
-        }
-      ],
-      "duration_ms": 228125,
-      "name": "Em Sil\u00eancio",
-      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Cantai a Deus Com Alegria 2023",
-        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 308875,
-      "name": "Louvor dos Pequenos",
-      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Se Eu Tenho o Hoje",
-        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
-      },
-      "artists": [
-        {
-          "name": "Tony Allysson",
-          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
-        }
-      ],
-      "duration_ms": 327961,
-      "name": "Se Eu Tenho o Hoje",
-      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
-      },
-      "artists": [
-        {
-          "name": "Frei Gilson",
-          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
-        }
-      ],
-      "duration_ms": 429900,
-      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
-      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -679,38 +611,70 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "Romaria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
+        "name": "Em Sil\u00eancio",
+        "url": "https://open.spotify.com/album/0A8rhLcw0SKeubx4Xgms3z"
       },
       "artists": [
         {
-          "name": "Daniel",
-          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+          "name": "Minist\u00e9rio Tua Palavra",
+          "url": "https://open.spotify.com/artist/4Dyw6COJR3B4yus3Z395CS"
         },
         {
-          "name": "Leo Cidade",
-          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+          "name": "Padre Denis-Ricard",
+          "url": "https://open.spotify.com/artist/3jPoPCgveODfF3DA65KPyb"
         }
       ],
-      "duration_ms": 319556,
-      "name": "Romaria - Ao Vivo",
-      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
+      "duration_ms": 228125,
+      "name": "Em Sil\u00eancio",
+      "url": "https://open.spotify.com/track/6qshS3oZjIpzbdkeoboecg"
     },
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
-        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
+        "name": "Se Eu Tenho o Hoje",
+        "url": "https://open.spotify.com/album/549XQaKTb6FGifXx73xNQi"
       },
       "artists": [
         {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+          "name": "Tony Allysson",
+          "url": "https://open.spotify.com/artist/44bBAyEUlfLwzAe6bXoKGU"
         }
       ],
-      "duration_ms": 636452,
-      "name": "Me Aceita de Volta",
-      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
+      "duration_ms": 327961,
+      "name": "Se Eu Tenho o Hoje",
+      "url": "https://open.spotify.com/track/4NrDiMP2CI3usEYY8d3LgH"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "Cantai a Deus Com Alegria 2023",
+        "url": "https://open.spotify.com/album/5tqJF42DVxyCtzLQ1Zho3q"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 308875,
+      "name": "Louvor dos Pequenos",
+      "url": "https://open.spotify.com/track/34OpCyq1JuZoEajsedtbJv"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "N\u00e3o H\u00e1 Mais Vendaval (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2I4kBEgQH9wAhuHFt4HrUv"
+      },
+      "artists": [
+        {
+          "name": "Frei Gilson",
+          "url": "https://open.spotify.com/artist/0jzTaWBcJ6h5ccHe04CcyX"
+        }
+      ],
+      "duration_ms": 429900,
+      "name": "N\u00e3o H\u00e1 Mais Vendaval - Ao Vivo",
+      "url": "https://open.spotify.com/track/2X4O74zn405JrqhifUa3dk"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -731,6 +695,42 @@
       "duration_ms": 235714,
       "name": "S\u00f3 por Ti, Jesus",
       "url": "https://open.spotify.com/track/258nDtlsgbuBNWuB1b9Sjy"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "Adora\u00e7\u00e3o na Nossa Casa \u00c9 Assim 9",
+        "url": "https://open.spotify.com/album/1Z19YIT9c8WBEPPsiUnGBU"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 636452,
+      "name": "Me Aceita de Volta",
+      "url": "https://open.spotify.com/track/3GIxWG9j6QNtm6BteSTIqG"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "Romaria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/36ZVrFlkRLQOEJO4p2ha3U"
+      },
+      "artists": [
+        {
+          "name": "Daniel",
+          "url": "https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM"
+        },
+        {
+          "name": "Leo Cidade",
+          "url": "https://open.spotify.com/artist/6zikg0PVHgcLu227sEPDit"
+        }
+      ],
+      "duration_ms": 319556,
+      "name": "Romaria - Ao Vivo",
+      "url": "https://open.spotify.com/track/06gsgAFv0RXiFnir0PsuYj"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "Contigo Vou Cantar",
-        "url": "https://open.spotify.com/album/2kcJb8d4nk4sQ30bN42b3A"
-      },
-      "artists": [
-        {
-          "name": "Entretons",
-          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
-        }
-      ],
-      "duration_ms": 183030,
-      "name": "Contigo Vou Cantar",
-      "url": "https://open.spotify.com/track/3dYRJMoKJGWhroxHFBwUGp"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
         "name": "Inflama-Me",
         "url": "https://open.spotify.com/album/2GeYgCm9jZQn2aHJVAwmXR"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 401500,
       "name": "Inflama-Me",
       "url": "https://open.spotify.com/track/6wHZw0DKzottADN8MenvdQ"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "Contigo Vou Cantar",
+        "url": "https://open.spotify.com/album/2kcJb8d4nk4sQ30bN42b3A"
+      },
+      "artists": [
+        {
+          "name": "Entretons",
+          "url": "https://open.spotify.com/artist/49SMfgb279XJeskQxZm5sa"
+        }
+      ],
+      "duration_ms": 183030,
+      "name": "Contigo Vou Cantar",
+      "url": "https://open.spotify.com/track/3dYRJMoKJGWhroxHFBwUGp"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -971,6 +971,26 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
+        "name": "Gba Stage, Vol. 11",
+        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Suely Fa\u00e7anha",
+          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
+        }
+      ],
+      "duration_ms": 302794,
+      "name": "Maria de Minha Inf\u00e2ncia",
+      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
         "name": "Grande Rei",
         "url": "https://open.spotify.com/album/45ZCgKMQuLnnn2S2yS8aiN"
       },
@@ -1023,26 +1043,6 @@
       "duration_ms": 240513,
       "name": "Maria Vem",
       "url": "https://open.spotify.com/track/0AlGx8Q5pUvpt8Z4NcrA8L"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Gba Stage, Vol. 11",
-        "url": "https://open.spotify.com/album/1YlEijhkZrFIZ9NGgvpSVG"
-      },
-      "artists": [
-        {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
-        },
-        {
-          "name": "Suely Fa\u00e7anha",
-          "url": "https://open.spotify.com/artist/6BuaFf9rDLYqRgZhnzwvy5"
-        }
-      ],
-      "duration_ms": 302794,
-      "name": "Maria de Minha Inf\u00e2ncia",
-      "url": "https://open.spotify.com/track/4cSp3zAiACxH3sQrhzj3Y2"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
+        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
+      },
+      "artists": [
+        {
+          "name": "Flavio Vitor Jr.",
+          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
+        }
+      ],
+      "duration_ms": 384059,
+      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
         "name": "Minha Voca\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/0s95JwpzAH7S9PWV3tg5Yi"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "O Fogo N\u00e3o Se Apagou, Vol. 2 (Ao Vivo em S\u00e3o Paulo)",
-        "url": "https://open.spotify.com/album/2dkVBXN1VwbS9srty3fs4m"
-      },
-      "artists": [
-        {
-          "name": "Flavio Vitor Jr.",
-          "url": "https://open.spotify.com/artist/4TnxVt3dBBta2xVx2WWwPF"
-        }
-      ],
-      "duration_ms": 384059,
-      "name": "M\u00e3e Presente - Ao Vivo em S\u00e3o Paulo",
-      "url": "https://open.spotify.com/track/5dCkXmuddOb4sZ6pINNlIX"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
         "name": "A tua ternura",
         "url": "https://open.spotify.com/album/1V5hxJk8n6AgrB7oHJdVwt"
       },
@@ -1183,6 +1183,22 @@
       "duration_ms": 201089,
       "name": "A tua ternura",
       "url": "https://open.spotify.com/track/407jM0l4pJwZBbvzFXTw4o"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "Alma de Cristo",
+        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
+      },
+      "artists": [
+        {
+          "name": "Comunidade Cat\u00f3lica Shalom",
+          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
+        }
+      ],
+      "duration_ms": 232115,
+      "name": "Alma de Cristo",
+      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -1227,22 +1243,6 @@
       "duration_ms": 218104,
       "name": "Divino Esposo",
       "url": "https://open.spotify.com/track/7f06pgaAEhXOsovtXnLdyS"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
-        "name": "Alma de Cristo",
-        "url": "https://open.spotify.com/album/7sEqIY578bRcQMIRpD2jqA"
-      },
-      "artists": [
-        {
-          "name": "Comunidade Cat\u00f3lica Shalom",
-          "url": "https://open.spotify.com/artist/0t9f7kAQ1wKeHeLC25ZYin"
-        }
-      ],
-      "duration_ms": 232115,
-      "name": "Alma de Cristo",
-      "url": "https://open.spotify.com/track/5biyHI1KgkgmP2Lh7qey2S"
     },
     {
       "added_at": "2024-04-19 18:30:03",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 
 ### [This Is Boards of Canada](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1GMSJj)
 
-> This Is Boards of Canada\. Los temas esenciales, todos en una lista.
+> This is Boards of Canada\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,799 likes - 35 songs - 1 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,804 likes - 35 songs - 1 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1GMSJj.md) - [plain]
 | 34 | [Iced Cooly](https://open.spotify.com/track/10A5AbphZ1ibW6h4XaKokE) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [Twoism](https://open.spotify.com/album/46YfeDd8YhuAcywdxZkRqf) | 2:22 |
 | 35 | [Amo Bishop Roden \[Chosen by Warp co\-founder Steve Beckett\]](https://open.spotify.com/track/7rthWzg7LMuXANxC0gaVKL) | [Boards of Canada](https://open.spotify.com/artist/2VAvhf61GgLYmC6C8anyX1) | [In A Beautiful Place Out In The Country](https://open.spotify.com/album/2U2WNneO3RdYEASjRI2OZx) | 6:13 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMGQ4NzRhYjc5MDc0ZGNhMmMwZjI2MzI5NWNkY2MxODFj`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGIzNDk2ODIyZjQ1NWRjZmYzZGI2MTFkZmQzNWMwODk4`

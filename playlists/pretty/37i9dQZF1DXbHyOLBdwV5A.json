@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 121060,
+  "num_followers": 120952,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -195,26 +195,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "S\u00f3 o Come\u00e7o (Remix)",
-        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "Vocal Livre",
-          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "S\u00f3 o Come\u00e7o - Remix",
-      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Voc\u00ea Me Mudou",
         "url": "https://open.spotify.com/album/40lCRRvzjvPOfyZysE62B1"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 161718,
       "name": "A Casa \u00c9 Sua - Remix",
       "url": "https://open.spotify.com/track/3PM6PvMzdQmzvNYHbydQqd"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "S\u00f3 o Come\u00e7o (Remix)",
+        "url": "https://open.spotify.com/album/5dApJHhpM7BMh7fBBXjnBt"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "Vocal Livre",
+          "url": "https://open.spotify.com/artist/36vknDs4OtlCZuloFIJAhN"
+        }
+      ],
+      "duration_ms": 243750,
+      "name": "S\u00f3 o Come\u00e7o - Remix",
+      "url": "https://open.spotify.com/track/5FvMsEAd3rO9JXZojAQUNn"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -319,30 +319,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
-        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
-        }
-      ],
-      "duration_ms": 258750,
-      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
-      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Controle (Remix)",
         "url": "https://open.spotify.com/album/5SKNgPWB0axicM6fUOWSSs"
       },
@@ -383,26 +359,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Furioso Oceano (Remix)",
-        "url": "https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Jhonas Serra",
-          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
-        }
-      ],
-      "duration_ms": 142553,
-      "name": "Furioso Oceano (Remix)",
-      "url": "https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Loucura (Remix)",
         "url": "https://open.spotify.com/album/34WzBc5yCs0NtU7av4Dvk3"
       },
@@ -419,6 +375,50 @@
       "duration_ms": 225519,
       "name": "Loucura - Remix",
       "url": "https://open.spotify.com/track/5sKGNRsEx3ojXbVrEB09dN"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea",
+        "url": "https://open.spotify.com/album/4qzveuyWchP5wpVZ6PKm3O"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/30P5aXJyIGmH93qiM251ze"
+        }
+      ],
+      "duration_ms": 258750,
+      "name": "Yeshua + S\u00f3 Quero Ver Voc\u00ea (feat. Marcelo Markes)",
+      "url": "https://open.spotify.com/track/3QEqBKFS8boYIAELBcHUnj"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Furioso Oceano (Remix)",
+        "url": "https://open.spotify.com/album/3BWmeSTqHjOB4JXDhZhTt0"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Jhonas Serra",
+          "url": "https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH"
+        }
+      ],
+      "duration_ms": 142553,
+      "name": "Furioso Oceano (Remix)",
+      "url": "https://open.spotify.com/track/5tRnAJq0VCUQmG29Ep2Put"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -487,46 +487,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Me Faz Viver",
-        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
-      },
-      "artists": [
-        {
-          "name": "DJ PV",
-          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
-        }
-      ],
-      "duration_ms": 151945,
-      "name": "Me Faz Viver",
-      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Praise",
-        "url": "https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        }
-      ],
-      "duration_ms": 166874,
-      "name": "Praise",
-      "url": "https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Joquebede (Remix)",
         "url": "https://open.spotify.com/album/0I5KP5Tn7qAiXyZ5bnPwga"
       },
@@ -567,6 +527,26 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
+        "name": "Me Faz Viver",
+        "url": "https://open.spotify.com/album/3Q5FROylds8ChyXH0zTasS"
+      },
+      "artists": [
+        {
+          "name": "DJ PV",
+          "url": "https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+        }
+      ],
+      "duration_ms": 151945,
+      "name": "Me Faz Viver",
+      "url": "https://open.spotify.com/track/4qq6jj8rureuqHHdy54CDY"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
         "name": "J\u00e1 N\u00e3o Vivo Eu: Remixes",
         "url": "https://open.spotify.com/album/4d7OitGdG363rNRA0VkBpl"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 215625,
       "name": "J\u00e1 N\u00e3o Vivo Eu - Michaell D Remix",
       "url": "https://open.spotify.com/track/2g6Ua888bM07qMQ5bVm392"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Praise",
+        "url": "https://open.spotify.com/album/5YgyARkjEkGMzz96G4qVBA"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        }
+      ],
+      "duration_ms": 166874,
+      "name": "Praise",
+      "url": "https://open.spotify.com/track/6j0DDG232N0ZJfGcD32bE3"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -699,50 +699,18 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+        "name": "Tomado",
+        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
       },
       "artists": [
         {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "VITOHRIA SOUNDS",
-          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
-        },
-        {
-          "name": "Amanda Loyola",
-          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
         }
       ],
-      "duration_ms": 195140,
-      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
-      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Festa de Crente",
-        "url": "https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ"
-      },
-      "artists": [
-        {
-          "name": "Gui Brazil",
-          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
-        },
-        {
-          "name": "GV3",
-          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
-        },
-        {
-          "name": "Bruninho Music",
-          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "Festa de Crente",
-      "url": "https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1"
+      "duration_ms": 236792,
+      "name": "Tomado",
+      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -775,22 +743,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Tomado",
-        "url": "https://open.spotify.com/album/6El5tIeqH2hPoD0TZSos0j"
-      },
-      "artists": [
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        }
-      ],
-      "duration_ms": 236792,
-      "name": "Tomado",
-      "url": "https://open.spotify.com/track/7p5T7ZyVmvgBvRXFI1KzMS"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Dias de Ver\u00e3o",
         "url": "https://open.spotify.com/album/7k2vszlA8rDdqUWM7ZfLrp"
       },
@@ -811,6 +763,54 @@
       "duration_ms": 200476,
       "name": "Dias de Ver\u00e3o",
       "url": "https://open.spotify.com/track/42eIXzoVFJlxIhhn1xkzyN"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Festa de Crente",
+        "url": "https://open.spotify.com/album/66c8LxbePEhv4iMeCAtGgZ"
+      },
+      "artists": [
+        {
+          "name": "Gui Brazil",
+          "url": "https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE"
+        },
+        {
+          "name": "GV3",
+          "url": "https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr"
+        },
+        {
+          "name": "Bruninho Music",
+          "url": "https://open.spotify.com/artist/0IoG0i1kOAShWTr534OXoH"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "Festa de Crente",
+      "url": "https://open.spotify.com/track/50YI1QSHPwJAcuO25icep1"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+        "url": "https://open.spotify.com/album/5o6IMMj4gBCKlXVFI128Il"
+      },
+      "artists": [
+        {
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "VITOHRIA SOUNDS",
+          "url": "https://open.spotify.com/artist/0WYAQTkoygxjnkzjjv05yN"
+        },
+        {
+          "name": "Amanda Loyola",
+          "url": "https://open.spotify.com/artist/4VKcPBViTvYJyYpI6qb2Al"
+        }
+      ],
+      "duration_ms": 195140,
+      "name": "Maranata / L\u00e1grimas de fogo (Remix) (feat. VITOHRIA SOUNDS & Amanda Loyola)",
+      "url": "https://open.spotify.com/track/4JMlGTQnS06HAayUWFkVFm"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Tempo Novo",
-        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
-      },
-      "artists": [
-        {
-          "name": "DJ Alan Nunes",
-          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
-        },
-        {
-          "name": "Cristo Alegria",
-          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
-        }
-      ],
-      "duration_ms": 217147,
-      "name": "Tempo Novo",
-      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "Respirar e Confiar",
         "url": "https://open.spotify.com/album/3dmStxhcGEBKhPzJ6UBXxP"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 171428,
       "name": "Se Tu Creres - Remix",
       "url": "https://open.spotify.com/track/7uSXm6dV5Kmum31V3rsrxr"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Tempo Novo",
+        "url": "https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ"
+      },
+      "artists": [
+        {
+          "name": "DJ Alan Nunes",
+          "url": "https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo"
+        },
+        {
+          "name": "Cristo Alegria",
+          "url": "https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J"
+        }
+      ],
+      "duration_ms": 217147,
+      "name": "Tempo Novo",
+      "url": "https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
+        "name": "Balada do Senhor (Remixes)",
+        "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
+      },
+      "artists": [
+        {
+          "name": "DJ Emerson MK",
+          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
+        },
+        {
+          "name": "DJ Vitor Capoia",
+          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
+        },
+        {
+          "name": "Cleyton & Johnny",
+          "url": "https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT"
+        }
+      ],
+      "duration_ms": 178663,
+      "name": "Balada do Senhor (Slap House Gospel)",
+      "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
         "name": "Encontrar",
         "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
@@ -1227,26 +1251,22 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Balada do Senhor (Remixes)",
-        "url": "https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N"
+        "name": "Dono da Minha Vida (Remix)",
+        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
       },
       "artists": [
         {
-          "name": "DJ Emerson MK",
-          "url": "https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX"
+          "name": "Dj Del Mag",
+          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
         },
         {
-          "name": "DJ Vitor Capoia",
-          "url": "https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp"
-        },
-        {
-          "name": "Cleyton & Johnny",
-          "url": "https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT"
+          "name": "Filipe Souza",
+          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
         }
       ],
-      "duration_ms": 178663,
-      "name": "Balada do Senhor (Slap House Gospel)",
-      "url": "https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV"
+      "duration_ms": 205714,
+      "name": "Dono da Minha Vida - Remix",
+      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1267,26 +1287,6 @@
       "duration_ms": 155142,
       "name": "Sorrindo \u00e0 Toa - Remix",
       "url": "https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
-        "name": "Dono da Minha Vida (Remix)",
-        "url": "https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ"
-      },
-      "artists": [
-        {
-          "name": "Dj Del Mag",
-          "url": "https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4"
-        },
-        {
-          "name": "Filipe Souza",
-          "url": "https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z"
-        }
-      ],
-      "duration_ms": 205714,
-      "name": "Dono da Minha Vida - Remix",
-      "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1447,30 +1447,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Em Ti",
-        "url": "https://open.spotify.com/album/1dwq7hvvGq65oxSDVQS4Ol"
-      },
-      "artists": [
-        {
-          "name": "Michaell D",
-          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
-        },
-        {
-          "name": "Douglas Alves",
-          "url": "https://open.spotify.com/artist/4FeYCKtgdZR3vtPTNtF4rA"
-        },
-        {
-          "name": "Renata Pattez",
-          "url": "https://open.spotify.com/artist/2q4zIxOv0rcbqQoulO4trv"
-        }
-      ],
-      "duration_ms": 174375,
-      "name": "Em Ti",
-      "url": "https://open.spotify.com/track/1cPbaOUlNW3TuFNQLN3yMZ"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "O C\u00e9u \u00c9 O Meu Lugar",
         "url": "https://open.spotify.com/album/0dgtQEwbUoiCcoWRxi6siP"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 163125,
       "name": "Impar\u00e1vel",
       "url": "https://open.spotify.com/track/13uOw9VAS34D34jx64rGEk"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Em Ti",
+        "url": "https://open.spotify.com/album/1dwq7hvvGq65oxSDVQS4Ol"
+      },
+      "artists": [
+        {
+          "name": "Michaell D",
+          "url": "https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE"
+        },
+        {
+          "name": "Douglas Alves",
+          "url": "https://open.spotify.com/artist/4FeYCKtgdZR3vtPTNtF4rA"
+        },
+        {
+          "name": "Renata Pattez",
+          "url": "https://open.spotify.com/artist/2q4zIxOv0rcbqQoulO4trv"
+        }
+      ],
+      "duration_ms": 174375,
+      "name": "Em Ti",
+      "url": "https://open.spotify.com/track/1cPbaOUlNW3TuFNQLN3yMZ"
     },
     {
       "added_at": "2024-01-05 13:32:37",

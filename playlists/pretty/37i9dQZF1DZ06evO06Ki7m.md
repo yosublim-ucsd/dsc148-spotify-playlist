@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 
 ### [This Is Metro Boomin](https://open.spotify.com/playlist/37i9dQZF1DZ06evO06Ki7m)
 
-> This Is Metro Boomin\. Todas as faixas essenciais numa única playlist.
+> This is Metro Boomin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,163 likes - 32 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,206 likes - 32 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO06Ki7m.md) - [plain]
 | 31 | [Red Leather](https://open.spotify.com/track/4Dx4e0X5dR6TW85dtFU42x) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 6:54 |
 | 32 | [Drink N Dance](https://open.spotify.com/track/0SdpzQRdK8BdSV57rn6AZZ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE STILL DON'T TRUST YOU](https://open.spotify.com/album/3bSNhnaQQXpC639OQ4pMyP) | 3:40 |
 
-Snapshot ID: `MTcxMzQ4NDgwMCwwMDAwMDAwMDRkOGI0YzhmMmViNzNiNGE0ZDU5Y2ViODkzOTM1MWIw`
+Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGRmYThiM2RmOTBkN2IzZjc4OWFmZjIzMWEwNjg3MzI4`

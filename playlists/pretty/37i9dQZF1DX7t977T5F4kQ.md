@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Yaw tog
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,646 likes - 80 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,657 likes - 80 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7t977T5F4kQ.md) - [plain]
 | 31 | [Bad People Do Good](https://open.spotify.com/track/3iVoZUSWgCPHvCKT3u3vck) | [Kweku Darlington](https://open.spotify.com/artist/3ZR23AVEcvrtRqPXpIcjSW), [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Bad People Do Good](https://open.spotify.com/album/0kSIpqgG1STLxXLI8ylOYs) | 3:03 |
 | 32 | [Fate](https://open.spotify.com/track/1QCV9ndrHVnqtMcqXszEN6) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Fate](https://open.spotify.com/album/4ReLbue8ShBMjIGbJjGGAw) | 2:58 |
 | 33 | [Not God](https://open.spotify.com/track/6u15h9ZJMKrV3ZBZ5FwAUH) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L) | [Not God](https://open.spotify.com/album/3ACMZjr0WdsIqQiIMo7eRs) | 2:30 |
-| 34 | [Sexual Healing](https://open.spotify.com/track/5xj7eOgkSCTkgqqujOOghJ) | [Ohene PD](https://open.spotify.com/artist/0s63VUGZb0adtZsJ1QLiuU), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw) | [Sexual Healing](https://open.spotify.com/album/4XsKn3Cv9kmeKNu6WIS9hm) | 3:10 |
+| 34 | [Sexual Healing](https://open.spotify.com/track/5xj7eOgkSCTkgqqujOOghJ) | [Ohene PD](https://open.spotify.com/artist/0s63VUGZb0adtZsJ1QLiuU), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Sexual Healing](https://open.spotify.com/album/4XsKn3Cv9kmeKNu6WIS9hm) | 3:10 |
 | 35 | [Not God \- Remix](https://open.spotify.com/track/3WOjwhAJopm0H1d7Z804JP) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq) | [Not God \(Remix\)](https://open.spotify.com/album/05ruDWqO8oNBoz4L66xzG2) | 3:35 |
 | 36 | [Abronoma](https://open.spotify.com/track/6ilwDSiCw5N9108ykDjvf1) | [Amerado](https://open.spotify.com/artist/4vNCRfPa5uflWbtrBxEZew) | [Abronoma](https://open.spotify.com/album/5wkgLP3g2t87ag2ZcNolpO) | 3:23 |
 | 37 | [Canopy](https://open.spotify.com/track/6HWx6dqKPfThbHIt79oBus) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [Canopy](https://open.spotify.com/album/3mIQ9QuBDBhLkSJYpKcmPV) | 2:34 |

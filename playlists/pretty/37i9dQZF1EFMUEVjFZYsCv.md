@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5rGEVA02BzuqceQxXAGrqE">James Arthur</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2 likes - 91 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 3 likes - 91 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 59 | [Supposed](https://open.spotify.com/track/4756zA32smjHNNnu1mvGmE) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:50 |
 | 60 | [Smoke Clouds](https://open.spotify.com/track/4j6a2JkoaJ8hDRxyTeH2Sk) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [James Arthur](https://open.spotify.com/album/7pzwt3MlcxBDbLwfKXpOuW) | 3:57 |
 | 61 | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/track/37PtW9bccg3KULj4nWAjEY) | [MOKS](https://open.spotify.com/artist/19ykePlANf2icrCUi6trQz), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Otherwise \(feat\. James Arthur\)](https://open.spotify.com/album/5KhioDLlcd5a4DYrLRr0fP) | 3:53 |
-| 62 | [Running Away](https://open.spotify.com/track/425PpIsnEbeVtMp6GJj7jX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 4:08 |
-| 63 | [Sleepwalking](https://open.spotify.com/track/7fHvyYO8FYnvhGpysMvz26) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:48 |
+| 62 | [Sleepwalking](https://open.spotify.com/track/7fHvyYO8FYnvhGpysMvz26) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:48 |
+| 63 | [Running Away](https://open.spotify.com/track/425PpIsnEbeVtMp6GJj7jX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 4:08 |
 | 64 | [From Me To You I Hate Everybody](https://open.spotify.com/track/0H8peJeFlnNVmnkljyQBuz) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:35 |
 | 65 | [If We Can Get Through This We Can Get Through Anything](https://open.spotify.com/track/3SwshlmimrMsFhONlKjgbS) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [YOU](https://open.spotify.com/album/0cm9LOQUBK3JUgyoRj238z) | 3:34 |
 | 66 | [Wolves](https://open.spotify.com/track/07TgFELXJuTNKjqOnmAjzF) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:20 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 78 | [Roses](https://open.spotify.com/track/3exRCJnBrKSRhGXR4kcakZ) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [James Arthur \(Deluxe\)](https://open.spotify.com/album/029WUoBjWc7Js1QiPH3mw0) | 4:14 |
 | 79 | [4000 Miles](https://open.spotify.com/track/0PlLtt2CJaVkkFJUzzlHMt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End](https://open.spotify.com/album/0P4xzdUBgd8cMncwM7okcd) | 3:08 |
 | 80 | [Nothing In The Way Of Us](https://open.spotify.com/track/55t3fgRMsDdmCy8PWJ1rQg) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:12 |
-| 81 | [Religion](https://open.spotify.com/track/0XQkjNLEQYts6XYvyUDZqt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:29 |
-| 82 | [From The Jump](https://open.spotify.com/track/7Ag5CkwiVJx88lMenduJCE) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:51 |
+| 81 | [From The Jump](https://open.spotify.com/track/7Ag5CkwiVJx88lMenduJCE) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:51 |
+| 82 | [Religion](https://open.spotify.com/track/0XQkjNLEQYts6XYvyUDZqt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 3:29 |
 | 83 | [Is It Alright?](https://open.spotify.com/track/3fXvARTUbGQ25DegAOBZDd) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:44 |
 | 84 | [Ruthless](https://open.spotify.com/track/4MGkRLnl4ooV9TvvAlJklt) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:12 |
 | 85 | [Comeback Kid](https://open.spotify.com/track/2TKDsoGfxdpuD8lgFsk4ea) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Bitter Sweet Love](https://open.spotify.com/album/02muSEofPSAk276DCafUPb) | 3:53 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMUEVjFZYsCv.md) - [plain]
 | 90 | [New Blood](https://open.spotify.com/track/1Ha3z5BfyZQ4MZ2Yxf1olv) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [It'll All Make Sense In The End \(Deluxe\)](https://open.spotify.com/album/2RksiqpjjJUri0aO3sfe79) | 5:07 |
 | 91 | [Burn Me Alive \(feat\. James Arthur\)](https://open.spotify.com/track/1avrqqjrHakyG5JrlNRkq4) | [Alex Hepburn](https://open.spotify.com/artist/1rQ2ssALv6BirzJJxwETXO), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Things I've Seen](https://open.spotify.com/album/2ptUS7vVvBKOD5PUSXZsGi) | 3:50 |
 
-Snapshot ID: `Mjg1NjExNDAsMDAwMDAwMDA2MmMyNjE0ODkyMTBjYTkzMzlhMzMwZGNhOTU3MWVmZQ==`
+Snapshot ID: `Mjg1NjI1ODAsMDAwMDAwMDA4MThhN2I3NzExYjEzODIyZjJlMGEzZmMzYzhlZDZkNA==`

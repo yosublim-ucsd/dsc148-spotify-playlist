@@ -1,12 +1,12 @@
 {
-  "description": "This Is Mon Laferte. Los temas esenciales, todos en una lista.",
-  "num_followers": 658644,
+  "description": "This is Mon Laferte. The essential tracks, all in one playlist.",
+  "num_followers": 658383,
   "original_name": "This Is Mon Laferte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGM4OTliNDE5ODVlM2U4OGQ3YWI3NGNjZjVjM2M1NmI5",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGNjNjAzODJlNDUyNGQ0YjJlY2Y5OGZmYTc2YWI0OGJk",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Norma",
+        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 230973,
+      "name": "Qu\u00e9date Esta Noche",
+      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Canci\u00f3n Sin Miedo",
         "url": "https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 213013,
       "name": "Canci\u00f3n Sin Miedo",
       "url": "https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Norma",
-        "url": "https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 230973,
-      "name": "Qu\u00e9date Esta Noche",
-      "url": "https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB"
     },
     {
       "added_at": null,

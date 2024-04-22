@@ -5337,6 +5337,24 @@
     },
     {
       "album": {
+        "name": "hand on my heart",
+        "url": "https://open.spotify.com/album/76BS51UVvR4Dcc38FMzKhM"
+      },
+      "artists": [
+        {
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
+        }
+      ],
+      "date_added": "2024-04-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84000,
+      "name": "hand on my heart",
+      "url": "https://open.spotify.com/track/7tYZhK3J2Rl6Fq5ivzJur6"
+    },
+    {
+      "album": {
         "name": "Handle with Care",
         "url": "https://open.spotify.com/album/05hWw0s7A5YHErAUE3OMXu"
       },
@@ -10178,7 +10196,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 196866,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6472TSRvXlqcmg3iSh4GEi"

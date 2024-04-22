@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 606756,
+  "2024-04-22": 606840,
   "date_first_scraped": "2022-05-23",
   "description": "Corridos viejitos que cuentan los hechos reales de nuestro pueblo. Chalino S\u00e1nchez en portada. ",
   "name": "Corridos de Anta\u00f1o",
@@ -43,7 +43,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 208956,
       "name": "Anastasio Pacheco",
       "url": "https://open.spotify.com/track/2U1ucjQui6SBjirCgqqcud"
@@ -1033,13 +1033,13 @@
       },
       "artists": [
         {
-          "name": "Ramon Ayala",
+          "name": "Ram\u00f3n Ayala",
           "url": "https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL"
         }
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 185413,
       "name": "El Federal De Caminos",
       "url": "https://open.spotify.com/track/6PY99M6Maq7mNhOfhxXLwY"

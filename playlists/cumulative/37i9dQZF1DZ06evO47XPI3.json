@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "This is The Delfonics. The essential tracks, all in one playlist.",
+  "description": "This Is The Delfonics. Los temas esenciales, todos en una lista.",
   "name": "This Is The Delfonics",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-13",
+      "date_removed": null,
       "duration_ms": 138066,
       "name": "A Lover's Concerto",
       "url": "https://open.spotify.com/track/6pUW8VjjIQ3LkGxEitcvNx"
@@ -106,7 +106,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 184506,
       "name": "Break Your Promise - Remastered",
       "url": "https://open.spotify.com/track/6k2cegIpd6Nc2WpO6xaSIc"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 124733,
       "name": "Hurt so Bad",
       "url": "https://open.spotify.com/track/5FGSizyi9HyfIVzNivq2IY"
@@ -726,7 +726,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 166160,
       "name": "I'm Sorry - Remastered",
       "url": "https://open.spotify.com/track/1ORONFOMyCcwFVvfHMH2Ky"
@@ -914,7 +914,7 @@
       ],
       "date_added": "2022-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 171426,
       "name": "Looking for a Girl",
       "url": "https://open.spotify.com/track/5HylsHxFBewHLod118HfHi"
@@ -998,7 +998,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 242299,
       "name": "Love On A Two Way Street - Live",
       "url": "https://open.spotify.com/track/1dZQXLbCGVjkKJXvcJ8CYX"
@@ -1258,7 +1258,7 @@
       ],
       "date_added": "2022-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 261456,
       "name": "Seventeen (And In Love)",
       "url": "https://open.spotify.com/track/3VNuR7BTR6293tyn8aSUKW"
@@ -1854,7 +1854,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 182280,
       "name": "Walk Right Up to the Sun",
       "url": "https://open.spotify.com/track/0YkyLCW2dNHZFRjNbrrwkK"

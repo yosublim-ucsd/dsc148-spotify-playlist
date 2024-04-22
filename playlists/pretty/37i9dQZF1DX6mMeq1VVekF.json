@@ -1,6 +1,6 @@
 {
   "description": "No tags, no labels - just free form. Cover: BXKS",
-  "num_followers": 175223,
+  "num_followers": 175276,
   "original_name": "Free Form",
   "owner": {
     "name": "Spotify",
@@ -811,6 +811,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "All My Girls Like To Fight",
+        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+      },
+      "artists": [
+        {
+          "name": "Hope Tala",
+          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+        }
+      ],
+      "duration_ms": 232712,
+      "name": "All My Girls Like To Fight",
+      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "Green Eyes",
         "url": "https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp"
       },
@@ -859,18 +875,18 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "All My Girls Like To Fight",
-        "url": "https://open.spotify.com/album/0ajMPNNALiabIrvCCaCKcl"
+        "name": "FU",
+        "url": "https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ"
       },
       "artists": [
         {
-          "name": "Hope Tala",
-          "url": "https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e"
+          "name": "BEAM",
+          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
         }
       ],
-      "duration_ms": 232712,
-      "name": "All My Girls Like To Fight",
-      "url": "https://open.spotify.com/track/6rCuplMDiFQVSca77OQocz"
+      "duration_ms": 136917,
+      "name": "FU",
+      "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -899,6 +915,22 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
+        "name": "Get Inspired",
+        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
+      },
+      "artists": [
+        {
+          "name": "Genesis Owusu",
+          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
+        }
+      ],
+      "duration_ms": 173152,
+      "name": "Get Inspired",
+      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
         "name": "TYRON",
         "url": "https://open.spotify.com/album/7qE3WaOVAAIxgH8WtjbBBj"
       },
@@ -919,22 +951,6 @@
       "duration_ms": 192733,
       "name": "terms (feat. Dominic Fike & Denzel Curry)",
       "url": "https://open.spotify.com/track/2iwLygOHE2YStc23isxS3b"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "Get Inspired",
-        "url": "https://open.spotify.com/album/2aBGFRtuLyivUnE2TF1FrD"
-      },
-      "artists": [
-        {
-          "name": "Genesis Owusu",
-          "url": "https://open.spotify.com/artist/1HvH97rzvCH6lfnLlgyfke"
-        }
-      ],
-      "duration_ms": 173152,
-      "name": "Get Inspired",
-      "url": "https://open.spotify.com/track/4Og0uXMYqouN7xOQ7u8jiW"
     },
     {
       "added_at": "2023-11-24 12:22:37",
@@ -963,38 +979,6 @@
     {
       "added_at": "2023-11-24 12:22:37",
       "album": {
-        "name": "Hope",
-        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
-      },
-      "artists": [
-        {
-          "name": "Arlo Parks",
-          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
-        }
-      ],
-      "duration_ms": 270066,
-      "name": "Hope",
-      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
-        "name": "FU",
-        "url": "https://open.spotify.com/album/0fxV0telSv7hzJxOoluSGZ"
-      },
-      "artists": [
-        {
-          "name": "BEAM",
-          "url": "https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98"
-        }
-      ],
-      "duration_ms": 136917,
-      "name": "FU",
-      "url": "https://open.spotify.com/track/1YBBKNODINXewbFOTyTDGd"
-    },
-    {
-      "added_at": "2023-11-24 12:22:37",
-      "album": {
         "name": "Call of Duty 3",
         "url": "https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 405049,
       "name": "Rule of Two",
       "url": "https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN"
+    },
+    {
+      "added_at": "2023-11-24 12:22:37",
+      "album": {
+        "name": "Hope",
+        "url": "https://open.spotify.com/album/2cqVLSrisNHPR6Q1Q4HsBp"
+      },
+      "artists": [
+        {
+          "name": "Arlo Parks",
+          "url": "https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx"
+        }
+      ],
+      "duration_ms": 270066,
+      "name": "Hope",
+      "url": "https://open.spotify.com/track/6m5g6mY0EqyPW6Snc6n749"
     },
     {
       "added_at": "2023-11-24 12:22:37",

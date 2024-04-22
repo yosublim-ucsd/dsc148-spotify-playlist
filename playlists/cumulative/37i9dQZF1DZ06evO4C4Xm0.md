@@ -4,7 +4,7 @@
 
 > This is Brian Eno\. The essential tracks, all in one playlist.
 
-159 songs - 12 hr 29 min
+160 songs - 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Foreshadowed \- 2005 Digital Remaster](https://open.spotify.com/track/6vo5a9n1HWYroioj7k6gZS) | [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Pearl](https://open.spotify.com/album/5SSf6lNbSoaAUx6PxQVjlP) | 3:52 | 2022-05-31 | 2022-10-17 |
 | [From The Same Hill \- Remastered 2005](https://open.spotify.com/track/6KXkRnKRmVes2BfNzN7bnX) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Music For Films](https://open.spotify.com/album/1ISvymGGbUmHY01eJ8EF07) | 3:00 | 2023-01-24 | 2023-01-26 |
 | [Garden of Stars](https://open.spotify.com/track/3CTJWZbJuoPwXV0oJPYE9K) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 4:19 | 2022-11-04 | 2022-11-29 |
+| [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm) | 4:17 | 2024-04-22 |  |
 | [Golden Hours \- 2004 Digital Remaster](https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Another Green World](https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY) | 4:00 | 2022-05-30 | 2023-06-07 |
 | [Hardly Me \- Instrumental](https://open.spotify.com/track/3X6nQIGR66C4VCgG9Cxqtq) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE \(FOREVER VOICELESS EDITION\)](https://open.spotify.com/album/4LnPArXRTX4jlOmcO6mIfN) | 3:50 | 2023-04-22 | 2023-07-06 |
 | [Here Come The Warm Jets \- 2004 Digital Remaster](https://open.spotify.com/track/5AiNr1E4t8n1T4NebVLKyK) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Here Come The Warm Jets](https://open.spotify.com/album/74jn28Kr29iyh8eZXSvnwi) | 4:04 | 2022-06-20 | 2022-10-07 |
@@ -150,7 +151,7 @@
 | [There Were Bells](https://open.spotify.com/track/3scoh1BWW0rVW5ZmrJQU3l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [There Were Bells](https://open.spotify.com/album/4aTHChoZPVwUVqHawBfoP0) | 4:52 | 2022-07-30 |  |
 | [These Small Noises](https://open.spotify.com/track/7kGKNGydrkDDo580fNWAaB) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [FOREVERANDEVERNOMORE](https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W) | 3:22 | 2022-10-18 | 2022-11-05 |
 | [Thursday Afternoon \- 2005 Digital Remaster](https://open.spotify.com/track/4t3Yh6tKkxXrc458pNI7zZ) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Thursday Afternoon](https://open.spotify.com/album/6AKF0REZoFiXMorWDpSiZt) | 1:00:50 | 2022-05-29 | 2022-10-13 |
-| [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 | 2023-11-10 |  |
+| [Top Boy Theme](https://open.spotify.com/track/3qrlugcKmaN0bbeY0751xa) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Top Boy \(Score from the Original Series\)](https://open.spotify.com/album/2ahTTFhXz1jbglsd5hoXcV) | 2:46 | 2023-11-10 | 2024-04-22 |
 | [Trying](https://open.spotify.com/track/25k70O2pKn9Zn0HknWrS8x) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Secret Life](https://open.spotify.com/album/1FJVbtVFLARPKbn1HepNh1) | 3:41 | 2023-05-22 | 2024-04-13 |
 | [Ultramarine](https://open.spotify.com/track/5OfT4ZkwMlowogOBJoYdGH) | [Roger Eno](https://open.spotify.com/artist/7JCthCuu5Wmxv2avqVFolo), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Mixing Colours](https://open.spotify.com/album/20WDVLmfzGI6vlXNGoLyxf) | 2:27 | 2023-01-17 | 2024-02-26 |
 | [Under \- From "Cool World"](https://open.spotify.com/track/5TlKBQIYCuGaCVfnXc2u0l) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Brian Eno \- Film Music 1976 \~ 2020](https://open.spotify.com/album/5DMrxqH65TaIJj7XFnxlFq) | 5:19 | 2023-02-23 | 2023-03-10 |

@@ -1,6 +1,6 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 362661,
+  "num_followers": 362623,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
@@ -215,18 +215,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "All I Ever Asked",
-        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
+        "name": "Women In Music Pt. III",
+        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
       },
       "artists": [
         {
-          "name": "Rachel Chinouriri",
-          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
+          "name": "HAIM",
+          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+        },
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 215384,
-      "name": "All I Ever Asked",
-      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
+      "duration_ms": 193373,
+      "name": "Gasoline (feat. Taylor Swift)",
+      "url": "https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -247,22 +251,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Women In Music Pt. III",
-        "url": "https://open.spotify.com/album/396EJBtUzseofX2YCBJVvM"
+        "name": "All I Ever Asked",
+        "url": "https://open.spotify.com/album/2FuT85CBZhzZ8dndFdtwXn"
       },
       "artists": [
         {
-          "name": "HAIM",
-          "url": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
-        },
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Rachel Chinouriri",
+          "url": "https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP"
         }
       ],
-      "duration_ms": 193373,
-      "name": "Gasoline (feat. Taylor Swift)",
-      "url": "https://open.spotify.com/track/645Exr2lJIO45Guht3qyIa"
+      "duration_ms": 215384,
+      "name": "All I Ever Asked",
+      "url": "https://open.spotify.com/track/2F9DCIJ7ZXHhNkiIlIIOkw"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -427,22 +427,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Desire, I Want To Turn Into You",
-        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
-      },
-      "artists": [
-        {
-          "name": "Caroline Polachek",
-          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
-        }
-      ],
-      "duration_ms": 247375,
-      "name": "I Believe",
-      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Chaise Longue",
         "url": "https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 196905,
       "name": "Chaise Longue",
       "url": "https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Desire, I Want To Turn Into You",
+        "url": "https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q"
+      },
+      "artists": [
+        {
+          "name": "Caroline Polachek",
+          "url": "https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a"
+        }
+      ],
+      "duration_ms": 247375,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/6GqesoY3jZD9BqT1v4UEmk"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
-      },
-      "artists": [
-        {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
-        }
-      ],
-      "duration_ms": 222293,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Anak Ko",
         "url": "https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 233583,
       "name": "Superbike",
       "url": "https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "duration_ms": 222293,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Makes Me Sick Makes Me Smile",
-        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
-      },
-      "artists": [
-        {
-          "name": "Pretty Sick",
-          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
-        }
-      ],
-      "duration_ms": 229961,
-      "name": "Self Fulfilling Prophecy",
-      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "WINK",
         "url": "https://open.spotify.com/album/105329tEvmR4S5ofi0EZig"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 228360,
       "name": "Donuts Mind If I Do",
       "url": "https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Makes Me Sick Makes Me Smile",
+        "url": "https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx"
+      },
+      "artists": [
+        {
+          "name": "Pretty Sick",
+          "url": "https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e"
+        }
+      ],
+      "duration_ms": 229961,
+      "name": "Self Fulfilling Prophecy",
+      "url": "https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Bad Thing",
-        "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
-      },
-      "artists": [
-        {
-          "name": "Miya Folick",
-          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
-        }
-      ],
-      "duration_ms": 202219,
-      "name": "Bad Thing",
-      "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 212120,
       "name": "stabilise",
       "url": "https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Bad Thing",
+        "url": "https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI"
+      },
+      "artists": [
+        {
+          "name": "Miya Folick",
+          "url": "https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV"
+        }
+      ],
+      "duration_ms": 202219,
+      "name": "Bad Thing",
+      "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1207,38 +1207,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Guts",
-        "url": "https://open.spotify.com/album/0PQmgJOVE5gyJc4JimlSX6"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 304613,
-      "name": "Guts",
-      "url": "https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "Valentine",
-        "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
-      },
-      "artists": [
-        {
-          "name": "Snail Mail",
-          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
-        }
-      ],
-      "duration_ms": 196173,
-      "name": "Valentine",
-      "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "I Guess This is Life",
         "url": "https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb"
       },
@@ -1255,18 +1223,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "More",
-        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
+        "name": "Guts",
+        "url": "https://open.spotify.com/album/0PQmgJOVE5gyJc4JimlSX6"
       },
       "artists": [
         {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
         }
       ],
-      "duration_ms": 286042,
-      "name": "More",
-      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+      "duration_ms": 304613,
+      "name": "Guts",
+      "url": "https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1287,6 +1255,38 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "Valentine",
+        "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
+      },
+      "artists": [
+        {
+          "name": "Snail Mail",
+          "url": "https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe"
+        }
+      ],
+      "duration_ms": 196173,
+      "name": "Valentine",
+      "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "More",
+        "url": "https://open.spotify.com/album/4OEfZc7e0DYhKApzEZrXk8"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 286042,
+      "name": "More",
+      "url": "https://open.spotify.com/track/5FK9E2XwYMx8Bhw3mQ7eGy"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "SASAMI",
         "url": "https://open.spotify.com/album/5dJhE07Jbhdg8wj3ysnT7H"
       },
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Wisecrack",
-        "url": "https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT"
-      },
-      "artists": [
-        {
-          "name": "Haley Blais",
-          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
-        }
-      ],
-      "duration_ms": 318467,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Anti-glory",
         "url": "https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 210640,
       "name": "Anti-glory",
       "url": "https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Wisecrack",
+        "url": "https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT"
+      },
+      "artists": [
+        {
+          "name": "Haley Blais",
+          "url": "https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT"
+        }
+      ],
+      "duration_ms": 318467,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "History Of A Feeling",
-        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
-      },
-      "artists": [
-        {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        }
-      ],
-      "duration_ms": 166453,
-      "name": "Nervous",
-      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "VBS",
         "url": "https://open.spotify.com/album/3YhoJPT2c8vJgx304vdEbu"
       },
@@ -1463,18 +1447,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Starlight Lounge",
-        "url": "https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF"
+        "name": "History Of A Feeling",
+        "url": "https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt"
       },
       "artists": [
         {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
         }
       ],
-      "duration_ms": 214305,
-      "name": "The Starlight Lounge",
-      "url": "https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK"
+      "duration_ms": 166453,
+      "name": "Nervous",
+      "url": "https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1491,6 +1475,22 @@
       "duration_ms": 256664,
       "name": "Hold U",
       "url": "https://open.spotify.com/track/6cc0aU3UwzVxpJ4hzqGedK"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Starlight Lounge",
+        "url": "https://open.spotify.com/album/7iNE6BUiYfVFGRVyVgIfZF"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 214305,
+      "name": "The Starlight Lounge",
+      "url": "https://open.spotify.com/track/7kDWWJ3kyVjeqrG5LQLdSK"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
+        "name": "First Prize Bravery",
+        "url": "https://open.spotify.com/album/5DNRLMYCFWYiXrp9RPdCM9"
+      },
+      "artists": [
+        {
+          "name": "Sorcha Richardson",
+          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
+        }
+      ],
+      "duration_ms": 230053,
+      "name": "First Prize Bravery",
+      "url": "https://open.spotify.com/track/7juXOrLe6pu2Jz8EbiG67i"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
         "name": "Shotgun",
         "url": "https://open.spotify.com/album/0Yej0tiVfjM6odIQpyulOv"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 210000,
       "name": "Backseat",
       "url": "https://open.spotify.com/track/54lPXSgOxKnsHXYU2y81RL"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
-        "name": "First Prize Bravery",
-        "url": "https://open.spotify.com/album/5DNRLMYCFWYiXrp9RPdCM9"
-      },
-      "artists": [
-        {
-          "name": "Sorcha Richardson",
-          "url": "https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc"
-        }
-      ],
-      "duration_ms": 230053,
-      "name": "First Prize Bravery",
-      "url": "https://open.spotify.com/track/7juXOrLe6pu2Jz8EbiG67i"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Nothing Left To Give",
-        "url": "https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO"
-      },
-      "artists": [
-        {
-          "name": "BAILEN",
-          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
-        }
-      ],
-      "duration_ms": 193522,
-      "name": "Nothing Left To Give",
-      "url": "https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Call Me Home",
         "url": "https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 225631,
       "name": "Call Me Home",
       "url": "https://open.spotify.com/track/7EepuMExJZF3eimemlp771"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Nothing Left To Give",
+        "url": "https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO"
+      },
+      "artists": [
+        {
+          "name": "BAILEN",
+          "url": "https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII"
+        }
+      ],
+      "duration_ms": 193522,
+      "name": "Nothing Left To Give",
+      "url": "https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1799,22 +1799,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Half We Still Have",
-        "url": "https://open.spotify.com/album/5835P51LPwAvov94bc35PP"
-      },
-      "artists": [
-        {
-          "name": "Rachel Bobbitt",
-          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
-        }
-      ],
-      "duration_ms": 250293,
-      "name": "The Call\u2019s Inside The House",
-      "url": "https://open.spotify.com/track/2Npu3oUYytAQwM0pvKWhhR"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "PBR (with girlhouse)",
         "url": "https://open.spotify.com/album/4BmMN4Z1v1JjU9zelxaBH3"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 218400,
       "name": "PBR (with girlhouse)",
       "url": "https://open.spotify.com/track/7pb6zMQEK9LBAP140UNIpt"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "The Half We Still Have",
+        "url": "https://open.spotify.com/album/5835P51LPwAvov94bc35PP"
+      },
+      "artists": [
+        {
+          "name": "Rachel Bobbitt",
+          "url": "https://open.spotify.com/artist/2scnOsuExko5GJdIYZdEnC"
+        }
+      ],
+      "duration_ms": 250293,
+      "name": "The Call\u2019s Inside The House",
+      "url": "https://open.spotify.com/track/2Npu3oUYytAQwM0pvKWhhR"
     },
     {
       "added_at": "2023-10-27 04:00:00",

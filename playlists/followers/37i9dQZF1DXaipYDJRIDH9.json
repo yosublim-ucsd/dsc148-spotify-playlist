@@ -1,5 +1,5 @@
 {
-  "2024-04-21": 217452,
+  "2024-04-22": 217168,
   "date_first_scraped": "2024-01-15",
   "description": "Piano instrumental para ajudar sua concentra\u00e7\u00e3o na hora de ler e estudar.",
   "name": "Foco no Estudo",
@@ -777,6 +777,24 @@
       "duration_ms": 151124,
       "name": "Flourish",
       "url": "https://open.spotify.com/track/64FQyOZ9XEu8BOjSLdKSxP"
+    },
+    {
+      "album": {
+        "name": "Flower Wings",
+        "url": "https://open.spotify.com/album/40VuQEGGWo9QHWSHQiUhWv"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9on Mignard",
+          "url": "https://open.spotify.com/artist/1qwQOqXTSElUUKTCdwkfHL"
+        }
+      ],
+      "date_added": "2024-04-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138187,
+      "name": "Flower Wings",
+      "url": "https://open.spotify.com/track/0Q9AH52EwC19MjsaJpVf9S"
     },
     {
       "album": {
@@ -1583,7 +1601,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-21",
       "duration_ms": 131551,
       "name": "Ripples of Moonlight",
       "url": "https://open.spotify.com/track/7bpquLnlXXBPG7VsR0QKM1"

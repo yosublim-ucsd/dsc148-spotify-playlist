@@ -4,7 +4,7 @@
 
 > 45 grados y un chingo de cerveza..\. ¡Así suena el noreste!
 
-186 songs - 11 hr 37 min
+187 songs - 11 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Ando Pedo Y Ella Esta Aqui](https://open.spotify.com/track/2W3QTyPSI5Zg1a4Cm3UMvd) | [PXNDX](https://open.spotify.com/artist/5NNlkZBrBpOJ7C11JwVxIj) | [La Revancha Del Principe Charro](https://open.spotify.com/album/3IZaue2sfl2uX7qOYOx9gg) | 3:35 | 2023-06-16 |  |
 | [Así Son Mis Días](https://open.spotify.com/track/4fb3Xk1LAfQoVk42LgD9Zn) | [Control Machete](https://open.spotify.com/artist/628gUkswCfCS1hIOOHmIpK) | [Mucho Barato](https://open.spotify.com/album/12Fkvf2oi1B6yjDwkMrUog) | 3:34 | 2023-06-16 |  |
 | [Ay Hombe](https://open.spotify.com/track/4nWYJI6JxrALpuOc4StT1t) | [Jorge Celedón](https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek), [Jimmy Zambrano](https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj) | [Jorge Celedón & Jimmy Zambrano De Lo Nuevo..\. Lo Mejor](https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D) | 5:21 | 2023-06-16 |  |
-| [Ayúdame a olvidar](https://open.spotify.com/track/3ZoViNzPip6N0dwBXcRUXJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Trayectoria](https://open.spotify.com/album/3vSXHqTX4uqCajsC1ijBUo) | 2:50 | 2023-11-08 |  |
+| [Ayúdame a olvidar](https://open.spotify.com/track/3ZoViNzPip6N0dwBXcRUXJ) | [Pesado](https://open.spotify.com/artist/4BwiodzEp9Hwes5HeFjMVK) | [Trayectoria](https://open.spotify.com/album/3vSXHqTX4uqCajsC1ijBUo) | 2:50 | 2023-11-08 | 2024-04-22 |
 | [Bebe Dame](https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Bebe Dame](https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC) | 4:31 | 2023-06-16 |  |
 | [Belleza De Cantina](https://open.spotify.com/track/4ZplewvZRLFcfBa5uyBbhd) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Por Las Damas](https://open.spotify.com/album/4knvBWQwoePhytbeXYTGc0) | 3:03 | 2023-06-16 |  |
 | [Bomboro Quiñá Quiñá \(with Rubén Albarrán\)](https://open.spotify.com/track/1rE3FOiSxAR0vmDg4Yntjy) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Rubén Albarrán](https://open.spotify.com/artist/7M75Am5m6J934JSviUOGz0) | [La Sonora Santanera en Su 60 Aniversario](https://open.spotify.com/album/3xgFRfjD0wkntTxiSa7c8U) | 2:44 | 2023-06-16 |  |
@@ -106,6 +106,7 @@
 | [La Pava Congona](https://open.spotify.com/track/0F5nrRCz0Fzabqd6Xzss4h) | [Andres Landero Y Su Conjunto](https://open.spotify.com/artist/1a1B3usUWpHK4S3u0iN8T4) | [La Fiebre](https://open.spotify.com/album/27PuzGwpMOxN0U9pnaqeoA) | 3:09 | 2023-11-08 | 2024-04-19 |
 | [La Ramita De Ciriguaya](https://open.spotify.com/track/0PzepClKfRFI87D1TywZnT) | [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi) | [El Canto De Un Rebelde Para Un](https://open.spotify.com/album/7hcqIWxB110shP4PC8Wu9a) | 2:57 | 2023-11-08 |  |
 | [La Vampiresa](https://open.spotify.com/track/06uyFPb72xxh5takZ206Of) | [Explosion Colombiana De Ortiz Ortiz](https://open.spotify.com/artist/0TnUsXdjrYnKIU6BCBbWop) | [La Vampiresa](https://open.spotify.com/album/2zwdkKmfduNetGgWDlUM3T) | 5:14 | 2023-11-08 |  |
+| [Ladrona de Amor](https://open.spotify.com/track/1wYDAzh56Wi462FoMBCMBv) | [Adriana Del Valle](https://open.spotify.com/artist/4qKMtq5L3ovk8NfySulYrd) | [Ladrona de Amor](https://open.spotify.com/album/01LuyerGk4j325fKvKc5mN) | 3:20 | 2023-11-08 |  |
 | [Le Hace Falta Un Beso](https://open.spotify.com/track/0b601Fnoi2vTzGeSMippyu) | [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Lives, Vol.1](https://open.spotify.com/album/4cWhUcmMJdjiYA4FyKpCFQ) | 4:00 | 2023-06-16 | 2024-04-19 |
 | [Lejanía](https://open.spotify.com/track/526efTi8StSvD9I7P2K5UQ) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [63 Años de Vida Artística](https://open.spotify.com/album/2mTUZfmlvLfB9T04w1Z3F5) | 3:44 | 2023-06-16 | 2024-04-19 |
 | [Lejanía](https://open.spotify.com/track/6uba6FMkBMkQGzDhzXnPf3) | [Lisandro Meza](https://open.spotify.com/artist/2iewjNvcxTxH8Pyi7S0KF3) | [Solo Cumbias](https://open.spotify.com/album/3OrPozsgIvSVIZRXfNNwex) | 3:44 | 2023-06-16 | 2023-10-06 |

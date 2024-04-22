@@ -1,12 +1,12 @@
 {
-  "description": "This is Hombres G. The essential tracks, all in one playlist.",
-  "num_followers": 270139,
+  "description": "This Is Hombres G. Los temas esenciales, todos en una lista.",
+  "num_followers": 270111,
   "original_name": "This Is Hombres G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ4NDgwMCwwMDAwMDAwMGY3MjI4NGFhMTQ2Y2Q5Y2Q2MmQ4ZGQ3YmI0OGYzMTEw",
+  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGVlM2NkZWRhNTFmMzdjZDU3N2M5NGMyNDQ1ZjZmZjRj",
   "tracks": [
     {
       "added_at": null,
@@ -415,18 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "30 a\u00f1os y un d\u00eda",
-        "url": "https://open.spotify.com/album/2gCKmsAG21Prjee7ooKE4p"
+        "name": "Nada que perder",
+        "url": "https://open.spotify.com/album/7HcGohAEZob2YPzhcJzk4u"
       },
       "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
         {
           "name": "Hombres G",
           "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
         }
       ],
-      "duration_ms": 193960,
-      "name": "Devu\u00e9lveme a mi chica - 2015 Remaster",
-      "url": "https://open.spotify.com/track/1fAnXKGZR1iRAS9GAfkbIs"
+      "duration_ms": 197978,
+      "name": "Nada que perder",
+      "url": "https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV"
     },
     {
       "added_at": null,
@@ -463,26 +467,6 @@
       "duration_ms": 258200,
       "name": "Tu C\u00e1rcel (En Vivo)",
       "url": "https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada que perder",
-        "url": "https://open.spotify.com/album/7HcGohAEZob2YPzhcJzk4u"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Hombres G",
-          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
-        }
-      ],
-      "duration_ms": 197978,
-      "name": "Nada que perder",
-      "url": "https://open.spotify.com/track/5hemFV7r667VHvm0mrQPWV"
     },
     {
       "added_at": null,
@@ -603,6 +587,30 @@
       "duration_ms": 243880,
       "name": "Hace un a\u00f1o",
       "url": "https://open.spotify.com/track/1IGF8i4TR7VsVFsvcTZUB2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Devu\u00e9lveme a mi chica",
+        "url": "https://open.spotify.com/album/3xNMZpxORpL6Hn1V7YNDKT"
+      },
+      "artists": [
+        {
+          "name": "Hombres G",
+          "url": "https://open.spotify.com/artist/60uh2KYYSCqAgJNxcU4DA0"
+        },
+        {
+          "name": "Walls",
+          "url": "https://open.spotify.com/artist/6tvDaHOPNWfkc9Q8IghqSR"
+        },
+        {
+          "name": "Funzo & Baby Loud",
+          "url": "https://open.spotify.com/artist/1nwjHzOUQZsNYX8xoWiGVC"
+        }
+      ],
+      "duration_ms": 193101,
+      "name": "Devu\u00e9lveme a mi chica",
+      "url": "https://open.spotify.com/track/6aPj6iq1cYfvTbvyYLyQGv"
     },
     {
       "added_at": null,

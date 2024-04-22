@@ -1,6 +1,6 @@
 {
   "description": "This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord. Cover:   <a href=\"https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=Ehfcig4qQSOPvtSWy8E2uw\">EJ Newton</a>",
-  "num_followers": 8576,
+  "num_followers": 8592,
   "original_name": "Redeemed",
   "owner": {
     "name": "Spotify",
@@ -217,10 +217,10 @@
       "url": "https://open.spotify.com/track/5q4Tz1jwVjpQLU3AJFZ0AR"
     },
     {
-      "added_at": "2024-03-08 00:01:00",
+      "added_at": "2024-04-05 00:01:00",
       "album": {
-        "name": "Aileyipada",
-        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+        "name": "Yeshua (Worship Rendition)",
+        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
         }
       ],
-      "duration_ms": 395555,
-      "name": "Aileyipada",
-      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
+      "duration_ms": 216962,
+      "name": "Yeshua (Worship Rendition)",
+      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
     },
     {
       "added_at": "2024-03-08 00:01:00",
@@ -361,22 +361,6 @@
       "url": "https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Yeshua (Worship Rendition)",
-        "url": "https://open.spotify.com/album/0KTOUGmGuoO81AVc4ro4EO"
-      },
-      "artists": [
-        {
-          "name": "Sunmisola Agbebi",
-          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
-        }
-      ],
-      "duration_ms": 216962,
-      "name": "Yeshua (Worship Rendition)",
-      "url": "https://open.spotify.com/track/6KxgjgVDbiAnRB2SZhcu0h"
-    },
-    {
       "added_at": "2024-01-26 00:01:00",
       "album": {
         "name": "Altar (Hosanna)",
@@ -399,6 +383,22 @@
       "duration_ms": 172035,
       "name": "Altar (Hosanna)",
       "url": "https://open.spotify.com/track/3q3ItcIZzhzCSmKIvWhfWU"
+    },
+    {
+      "added_at": "2024-03-08 00:01:00",
+      "album": {
+        "name": "Aileyipada",
+        "url": "https://open.spotify.com/album/2srl7GFgmEg0w9BleWvGOJ"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        }
+      ],
+      "duration_ms": 395555,
+      "name": "Aileyipada",
+      "url": "https://open.spotify.com/track/2VMV8JIa71bZVhR9C1cRfH"
     },
     {
       "added_at": "2024-03-22 00:01:00",
@@ -477,26 +477,6 @@
       "url": "https://open.spotify.com/track/6iQQmSaJM6jki2RJF0UguT"
     },
     {
-      "added_at": "2024-03-01 00:01:00",
-      "album": {
-        "name": "We Prevail",
-        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "We Prevail",
-      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Baba",
@@ -519,6 +499,42 @@
       "duration_ms": 211200,
       "name": "Baba",
       "url": "https://open.spotify.com/track/0YMnqOrQWPwXWMMY1L0WBL"
+    },
+    {
+      "added_at": "2024-03-22 00:01:00",
+      "album": {
+        "name": "iZono Zami",
+        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
+      },
+      "artists": [
+        {
+          "name": "Nomcebo Zikode",
+          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
+        }
+      ],
+      "duration_ms": 319334,
+      "name": "iZono Zami",
+      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
+    },
+    {
+      "added_at": "2024-03-01 00:01:00",
+      "album": {
+        "name": "We Prevail",
+        "url": "https://open.spotify.com/album/3AvmRtH11WdKuUfNUP2R3g"
+      },
+      "artists": [
+        {
+          "name": "Moses Bliss",
+          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
+        },
+        {
+          "name": "Neeja",
+          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "We Prevail",
+      "url": "https://open.spotify.com/track/4jdeJiC74gkk4C2xienh6i"
     },
     {
       "added_at": "2024-02-09 00:01:00",
@@ -545,22 +561,6 @@
       "url": "https://open.spotify.com/track/5KzsS5i3EVocEZGCX0vLkU"
     },
     {
-      "added_at": "2024-03-22 00:01:00",
-      "album": {
-        "name": "iZono Zami",
-        "url": "https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b"
-      },
-      "artists": [
-        {
-          "name": "Nomcebo Zikode",
-          "url": "https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6"
-        }
-      ],
-      "duration_ms": 319334,
-      "name": "iZono Zami",
-      "url": "https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp"
-    },
-    {
       "added_at": "2024-04-05 00:01:00",
       "album": {
         "name": "Waiting",
@@ -577,22 +577,6 @@
       "url": "https://open.spotify.com/track/3IdBaxcQgISbp1cwc4lKQj"
     },
     {
-      "added_at": "2024-03-15 00:01:00",
-      "album": {
-        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 383320,
-      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
-    },
-    {
       "added_at": "2024-03-22 00:01:00",
       "album": {
         "name": "Diamant",
@@ -607,6 +591,22 @@
       "duration_ms": 178059,
       "name": "Diamant",
       "url": "https://open.spotify.com/track/38Eb7bpsTlG6MJ45XLXKAo"
+    },
+    {
+      "added_at": "2024-03-15 00:01:00",
+      "album": {
+        "name": "Unusual (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/07HmJ29ItAdV707SqVoc6D"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 383320,
+      "name": "Unusual - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2wEDJMF9LhhhHPKqnbsfW5"
     },
     {
       "added_at": "2024-01-12 00:01:00",
@@ -701,6 +701,22 @@
       "url": "https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r"
     },
     {
+      "added_at": "2024-04-05 00:01:00",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
+      },
+      "artists": [
+        {
+          "name": "Kingdmusic",
+          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
+        }
+      ],
+      "duration_ms": 157800,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
+    },
+    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "I Testify (Live)",
@@ -737,22 +753,6 @@
       "url": "https://open.spotify.com/track/2snbZ33cTV6xQ5c42d6LST"
     },
     {
-      "added_at": "2024-04-05 00:01:00",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/1qYAr43bIHnllHcVN9Jt8r"
-      },
-      "artists": [
-        {
-          "name": "Kingdmusic",
-          "url": "https://open.spotify.com/artist/3BJmyFO1PAwy3kW5YzdvQL"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2zuETnfYrQ5Xh0QYw2xvOH"
-    },
-    {
       "added_at": "2024-03-08 00:01:00",
       "album": {
         "name": "Alagbara",
@@ -769,22 +769,6 @@
       "url": "https://open.spotify.com/track/1GWjrdfcIbN4l1AJHwwTAR"
     },
     {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
-        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 239506,
-      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
-      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
-    },
-    {
       "added_at": "2024-03-29 00:01:00",
       "album": {
         "name": "Kukhona Amadlelo",
@@ -799,6 +783,22 @@
       "duration_ms": 509999,
       "name": "Kukhona Amadlelo",
       "url": "https://open.spotify.com/track/2yA0xKOletqDtaQQ0ObC9H"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Ngiyamazi Umhlengi Wam (Live At Cedarwoods of Sandton, 2023)",
+        "url": "https://open.spotify.com/album/3746LVUDdq2j4dzJAyZVbG"
+      },
+      "artists": [
+        {
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
+        }
+      ],
+      "duration_ms": 239506,
+      "name": "Ngiyamazi Umhlengi Wami - Live At Cedarwoods of Sandton, 2023",
+      "url": "https://open.spotify.com/track/2kUmCaHL6wXqq9CgTpqCBG"
     },
     {
       "added_at": "2024-02-16 00:01:00",
@@ -819,6 +819,22 @@
       "duration_ms": 157161,
       "name": "Kumama Papa",
       "url": "https://open.spotify.com/track/2uHY9QxXldmXdbhvvEOf6J"
+    },
+    {
+      "added_at": "2024-02-09 00:01:00",
+      "album": {
+        "name": "Surrender",
+        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
+      },
+      "artists": [
+        {
+          "name": "Jvson",
+          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
+        }
+      ],
+      "duration_ms": 172083,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-03-01 00:01:00",
@@ -855,22 +871,6 @@
       "duration_ms": 691541,
       "name": "Dry Bones",
       "url": "https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ"
-    },
-    {
-      "added_at": "2024-02-09 00:01:00",
-      "album": {
-        "name": "Surrender",
-        "url": "https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h"
-      },
-      "artists": [
-        {
-          "name": "Jvson",
-          "url": "https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F"
-        }
-      ],
-      "duration_ms": 172083,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo"
     },
     {
       "added_at": "2024-01-26 00:01:00",
