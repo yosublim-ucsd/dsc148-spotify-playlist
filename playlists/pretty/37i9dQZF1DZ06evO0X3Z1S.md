@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0X3Z1S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0X3Z1S)
 
-### [This Is Jonas Blue](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S)
+### [This Is ジョナス・ブルー](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S)
 
-> This is Jonas Blue\. Todos os maiores hits em uma só playlist.
+> This is ジョナス・ブルー。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,061 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,037 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,13 +35,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 25 | [Younger](https://open.spotify.com/track/4D7ERaKgv8NAeck8RzUtRz) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Younger](https://open.spotify.com/album/26IuzA897QHyOQVYBWXtTD) | 3:14 |
 | 26 | [Liquid Spirit \- Jonas Blue Remix](https://open.spotify.com/track/0kmiBmbUPXMRwCoh0py1VG) | [Gregory Porter](https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Liquid Spirit \(Jonas Blue Remix\)](https://open.spotify.com/album/447Zhy3nnzRX4yjlvubkTc) | 2:22 |
 | 27 | [Finally](https://open.spotify.com/track/0PZpE9CYvOLt0wRZeOY5fV) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Finally](https://open.spotify.com/album/0mjru6iErl5h2amcxpMpg9) | 3:08 |
-| 28 | [Hearts Ain't Gonna Lie \- Eden Prince Remix](https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Hearts Ain't Gonna Lie \(Remixes, Pt\. 1\)](https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i) | 3:58 |
-| 29 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 |
+| 28 | [I See Love \- From Hotel Transylvania 3](https://open.spotify.com/track/32UJH1F38AMSjZilQyBzOE) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL) | [I See Love \(From Hotel Transylvania 3\)](https://open.spotify.com/album/3aH4OEoC8UGnCyHhVZDJav) | 2:53 |
+| 29 | [Hearts Ain't Gonna Lie \- Eden Prince Remix](https://open.spotify.com/track/6B9cqNooxIyPfr3P5EB8LA) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Hearts Ain't Gonna Lie \(Remixes, Pt\. 1\)](https://open.spotify.com/album/00wIfIEWOqJ2RFrRazVl0i) | 3:58 |
 | 30 | [MOONLIGHT SUNRISE \(Jonas Blue Remix\)](https://open.spotify.com/track/0H8vXZHYrbMfYJlojEjiS3) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [THE REMIXES](https://open.spotify.com/album/37WsLE5Eny9CTmF9CPzWIq) | 2:47 |
 | 31 | [Naked](https://open.spotify.com/track/2gGLpMzoo80A7jGEIr4ou8) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Naked](https://open.spotify.com/album/6C8hZT4nmCER89JVbhq9BV) | 3:30 |
 | 32 | [In Your Arms Tonight](https://open.spotify.com/track/1frhPzQ2B7rM62INKyuLV7) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Mark Villa](https://open.spotify.com/artist/5WClIOxkXF0aG93CLEC96i) | [Jonas Blue: Electronic Nature \- The Mix 2017](https://open.spotify.com/album/0zMLyv1kNV2B0LDGEK2RbB) | 2:43 |
-| 33 | [Mistakes](https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Mistakes](https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT) | 3:06 |
-| 34 | [You're The One](https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 3:20 |
+| 33 | [You're The One](https://open.spotify.com/track/4WLQxsTTcTE8eFhdv5Wl83) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Together](https://open.spotify.com/album/7koSts2YQyNIzS6unvkTfU) | 3:20 |
+| 34 | [Mistakes](https://open.spotify.com/track/4zCEJUxsW73s2sIIoM4SLC) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Paloma Faith](https://open.spotify.com/artist/4fwuXg6XQHfdlOdmw36OHa) | [Mistakes](https://open.spotify.com/album/7dm0STpyctopt8zjJ0IHPT) | 3:06 |
 | 35 | [Don't Give Up \- Jonas Blue Remix](https://open.spotify.com/track/4k1fuzOlu1vQEYG5muVP94) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Don't Give Up \(Jonas Blue Remix\)](https://open.spotify.com/album/1yqDCZu5DB4XCSWE6eeiZA) | 3:21 |
 | 36 | [yes, and? \- Jonas Blue Remix](https://open.spotify.com/track/62iX6bbxe9T81LrNwqre3p) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [yes, and? \(remixes\)](https://open.spotify.com/album/0kHBlnc69hLOSyXAZn2yeX) | 3:32 |
 | 37 | [Till The End \- Jonas Blue & Sam Feldt Present Endless Summer](https://open.spotify.com/track/42NgRCC7M5rfVNKXMaFitZ) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Sam DeRosa](https://open.spotify.com/artist/4xOi6SOP1jUoAeSfuPsfx0), [Endless Summer](https://open.spotify.com/artist/3E0d6yF8knEtWluzLbxCVA) | [Till The End \(Jonas Blue & Sam Feldt Present Endless Summer\)](https://open.spotify.com/album/1ocuRCXk3wpcRl5OzQvGB9) | 3:08 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 46 | [Fade \- Jonas Blue Vocal Mix](https://open.spotify.com/track/6Q1v4ZvXui7kMfBLzr9Vca) | [Solu Music](https://open.spotify.com/artist/0lpwsK5bX64iD7GjEda5De), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [KimBlee](https://open.spotify.com/artist/4OKxdPfybjZIWXLj8rml2s) | [Fade](https://open.spotify.com/album/5o15ApBZwwn2zkLHqSiPNK) | 3:39 |
 | 47 | [Siento](https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa) | 3:37 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGUxMzc2MjM0ZTA3Mzk0NDZjMjdlMmIzMGJiYjA5NzM2`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGU0ZWJiY2NjNzBlZWU4OGY1NmU1OWQ2MTEyYWM2MmVk`

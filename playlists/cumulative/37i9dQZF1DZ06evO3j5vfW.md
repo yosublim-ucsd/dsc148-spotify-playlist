@@ -2,7 +2,7 @@
 
 ### [This Is Nicky Romero](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3j5vfW)
 
-> This is Nicky Romero\. Todos os maiores hits em uma só playlist.
+> This is Nicky Romero\. The essential tracks, all in one playlist.
 
 107 songs - 5 hr 40 min
 
@@ -34,8 +34,8 @@
 | [Find You](https://open.spotify.com/track/0bWHZZkzy7wgTYaTcrkyvE) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Monocule \(Volume 2\)](https://open.spotify.com/album/0Lo3tsG5drmteljSwQX01I) | 3:03 | 2021-12-20 | 2022-01-15 |
 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 | 2022-10-29 |  |
 | [Forever](https://open.spotify.com/track/5nUyqq07mqo7dt8xd7BfYP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Forever](https://open.spotify.com/album/2iGZU0LNQmhZ5QbRDmCNZz) | 2:20 | 2023-03-11 |  |
-| [Give In](https://open.spotify.com/track/50FvSZE7zXdP3tvKYLDQY0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Give In](https://open.spotify.com/album/7sRz2CJyxpX3ejI3vRnKjR) | 3:04 | 2023-07-22 | 2024-02-16 |
-| [Give In \- VE/RA Remix](https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Give In \(VE/RA Remix\)](https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB) | 3:06 | 2023-08-25 |  |
+| [Give In](https://open.spotify.com/track/50FvSZE7zXdP3tvKYLDQY0) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Give In](https://open.spotify.com/album/7sRz2CJyxpX3ejI3vRnKjR) | 3:04 | 2023-07-22 |  |
+| [Give In \- VE/RA Remix](https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Give In \(VE/RA Remix\)](https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB) | 3:06 | 2023-08-25 | 2024-04-23 |
 | [Harmony](https://open.spotify.com/track/0qwPUvS4Eofc19Uw2IDodG) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Harmony](https://open.spotify.com/album/4SnEzerWvY2jHhNiMu0iKE) | 3:33 | 2022-04-11 | 2022-10-07 |
 | [Harmony \- Extended Stadiumx Remix](https://open.spotify.com/track/11SwOkvwTXlCfprgPCA5yP) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Stadiumx](https://open.spotify.com/artist/0DRf6JJDQnRnz0Yp209CmH) | [Harmony \(Stadiumx Remix\)](https://open.spotify.com/album/166oI2CSmmp0Wk4IaVbNrU) | 5:25 | 2023-01-08 | 2023-02-22 |
 | [Hear Me Now](https://open.spotify.com/track/2RENEC1I3hpe1PXVbqSvr6) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Perception EP](https://open.spotify.com/album/2YE08q7reI4y0Ucx8mfJtE) | 3:29 | 2022-05-29 | 2023-02-05 |

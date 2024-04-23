@@ -2885,6 +2885,24 @@
     },
     {
       "album": {
+        "name": "Clementine",
+        "url": "https://open.spotify.com/album/10Zs0dh8IWO0Ztahybh90K"
+      },
+      "artists": [
+        {
+          "name": "Sonya",
+          "url": "https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA"
+        }
+      ],
+      "date_added": "2024-01-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128000,
+      "name": "Clementine",
+      "url": "https://open.spotify.com/track/2odYMaZmkYcfcuIaxIZGlR"
+    },
+    {
+      "album": {
         "name": "Cloud 9",
         "url": "https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq"
       },
@@ -13210,7 +13228,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 200281,
       "name": "Sleepover Mood",
       "url": "https://open.spotify.com/track/5JWDrfbceMjpUpEeV8Lwd5"

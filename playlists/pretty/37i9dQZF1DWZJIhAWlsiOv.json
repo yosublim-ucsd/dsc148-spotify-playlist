@@ -1,6 +1,6 @@
 {
   "description": "Latin songs that changed the game. Cover: Celia Cruz",
-  "num_followers": 1038577,
+  "num_followers": 1038101,
   "original_name": "100 Latin Classics",
   "owner": {
     "name": "Spotify",
@@ -671,18 +671,22 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "La Trayectoria",
-        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
+        "name": "Mi Gente",
+        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
       },
       "artists": [
         {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Willy William",
+          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
         }
       ],
-      "duration_ms": 204906,
-      "name": "Todos Me Miran",
-      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
+      "duration_ms": 189440,
+      "name": "Mi Gente",
+      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
     },
     {
       "added_at": "2023-04-11 19:14:43",
@@ -703,22 +707,18 @@
     {
       "added_at": "2023-04-11 19:14:43",
       "album": {
-        "name": "Mi Gente",
-        "url": "https://open.spotify.com/album/1ZJtkYBzRb7drznu3UYb3k"
+        "name": "La Trayectoria",
+        "url": "https://open.spotify.com/album/1NVDbnjIE6FFpNUohWJwXQ"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
         }
       ],
-      "duration_ms": 189440,
-      "name": "Mi Gente",
-      "url": "https://open.spotify.com/track/4ipnJyDU3Lq15qBAYNqlqK"
+      "duration_ms": 204906,
+      "name": "Todos Me Miran",
+      "url": "https://open.spotify.com/track/4pmRDyDRRiZ5Pq7hm4WTpb"
     },
     {
       "added_at": "2023-04-11 19:14:43",

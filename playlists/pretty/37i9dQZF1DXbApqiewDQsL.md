@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbApqiewDQsL.md) - [plain]
 
 > The songs and collaborations pushing the Mexican sound to a global level\. Cover: Peso Pluma & Becky G
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,079 likes - 122 songs - 6 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,101 likes - 122 songs - 6 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

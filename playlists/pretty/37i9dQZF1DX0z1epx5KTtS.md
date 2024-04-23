@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > African dance party music from Paris to Abidjan\. Photo : Tam Sir
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,220 likes - 39 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,287 likes - 39 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 38 | [Debout couler](https://open.spotify.com/track/0mGXMd7mni2MQeygIXa5OJ) | [Chouchou Salvador](https://open.spotify.com/artist/44kNwZgajzrqZ2x1qKYohI) | [Debout couler](https://open.spotify.com/album/5Kd15ctpwOulgkxzNZTUtl) | 3:40 |
 | 39 | [C'est pour les grands](https://open.spotify.com/track/5347vjt4voHoVXB4r4PUQm) | [Lionell](https://open.spotify.com/artist/678uLiEv9CfIv59509DnZe) | [C'est pour les grands](https://open.spotify.com/album/3ZWT7ouS6rVQLC69ZUhBJc) | 3:36 |
 
-Snapshot ID: `MTcxMzQ3NzYwMCwwMDAwMDAwMGE3Y2M0NjQ1ZTFiN2Q0M2Q1MTMyNDU4Njg2NWJmNmU2`
+Snapshot ID: `MTcxMzc4MjA5MiwwMDAwMDAwMGJlNTdmY2E5YjNiYjRhNjM1ZTAzNzIyMjFlOTMwYjMy`

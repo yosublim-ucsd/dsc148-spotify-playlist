@@ -1,12 +1,12 @@
 {
   "description": "A sonic wonderland of mesmerizing tunes...",
-  "num_followers": 74449,
+  "num_followers": 74441,
   "original_name": "Kaleidoscope",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ2NDI3OCwwMDAwMDAwMDhiMTYxYzBiODNmNTQ2NTA2OWI0MWM3NzQ3NTQ0NjI4",
+  "snapshot_id": "MTcxMzgzMzM3MSwwMDAwMDAwMGI1NDc5ODQ3MzNmYWI0ODI5MWVmMzgxODRjYmEyMjM1",
   "tracks": [
     {
       "added_at": "2024-04-15 22:56:47",
@@ -39,6 +39,26 @@
       "duration_ms": 257226,
       "name": "Love in Constant Spectacle",
       "url": "https://open.spotify.com/track/15EzGKqgmv2DJqrZ64tWM3"
+    },
+    {
+      "added_at": "2024-04-23 00:30:14",
+      "album": {
+        "name": "A Soul With No King - Remix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/596bNFZ0FCXSzoFcyQOb89"
+      },
+      "artists": [
+        {
+          "name": "AURORA",
+          "url": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 314933,
+      "name": "A Soul With No King - Remix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/24OMVt6uyLUl7Dv4JYp4yH"
     },
     {
       "added_at": "2024-04-15 18:26:20",
@@ -89,6 +109,30 @@
       "url": "https://open.spotify.com/track/5TMGf0iNjOVLOgBf9vgq2O"
     },
     {
+      "added_at": "2024-04-22 19:37:46",
+      "album": {
+        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 257273,
+      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
+    },
+    {
       "added_at": "2024-01-23 03:56:17",
       "album": {
         "name": "Mount Matsu",
@@ -119,6 +163,26 @@
       "duration_ms": 209242,
       "name": "Me Da Igual",
       "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+    },
+    {
+      "added_at": "2024-04-23 00:49:31",
+      "album": {
+        "name": "OH WAH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "duration_ms": 205485,
+      "name": "OH WAH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
     },
     {
       "added_at": "2024-04-15 23:38:37",
@@ -815,54 +879,6 @@
       "duration_ms": 288613,
       "name": "Blackoak",
       "url": "https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18"
-    },
-    {
-      "added_at": "2023-12-20 04:40:36",
-      "album": {
-        "name": "Al Pie del Volc\u00e1n",
-        "url": "https://open.spotify.com/album/34jUSNv9RoyaxI78mHzFmr"
-      },
-      "artists": [
-        {
-          "name": "Yo y las Bestias",
-          "url": "https://open.spotify.com/artist/6IMsvQIE5UuA92aA22TfxP"
-        }
-      ],
-      "duration_ms": 245422,
-      "name": "Al Pie del Volc\u00e1n",
-      "url": "https://open.spotify.com/track/5TpldaZoFR74NclU2mEhTP"
-    },
-    {
-      "added_at": "2024-02-02 06:04:28",
-      "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 305946,
-      "name": "Wall Of Eyes",
-      "url": "https://open.spotify.com/track/3tP2P4KybC9wYVI8Pe41GT"
-    },
-    {
-      "added_at": "2023-11-10 06:00:00",
-      "album": {
-        "name": "Powders",
-        "url": "https://open.spotify.com/album/3zjvJv9tqkQ5kdX9pOpT6U"
-      },
-      "artists": [
-        {
-          "name": "Eartheater",
-          "url": "https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "Crushing",
-      "url": "https://open.spotify.com/track/6BPwBHxjmavFAyMrLQgQYd"
     }
   ],
   "unique_name": "Kaleidoscope",

@@ -1,12 +1,12 @@
 {
   "description": "El Dembow que est\u00e1 subiendo en RD. Foto: Bulin 47",
-  "num_followers": 104209,
+  "num_followers": 104255,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzM1MDAzMSwwMDAwMDAwMDM3YWI5N2JkZTA0M2YzZDAyMzhlOGYwYTVhNzIxY2Fj",
+  "snapshot_id": "MTcxMzc5NzU2NywwMDAwMDAwMGQ3MzIzOWFlY2Q0ZDgyNzc3ODQ2MWVkMDIyMDg3Zjhl",
   "tracks": [
     {
       "added_at": "2024-04-11 20:48:43",
@@ -23,34 +23,6 @@
       "duration_ms": 169660,
       "name": "Me Arregle - El loco",
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
-    },
-    {
-      "added_at": "2024-04-17 10:33:51",
-      "album": {
-        "name": "Que Malo De Que?",
-        "url": "https://open.spotify.com/album/0Q4QJJY1kuyyKtvwKRovNY"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        },
-        {
-          "name": "El Mayor Clasico",
-          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
-        },
-        {
-          "name": "El Kable",
-          "url": "https://open.spotify.com/artist/3hbiGjxZ86peyzzA5N4hil"
-        },
-        {
-          "name": "Yomel El Meloso",
-          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Que Malo De Que?",
-      "url": "https://open.spotify.com/track/1ulFpPwq47WmEeqzfi1ycr"
     },
     {
       "added_at": "2024-03-28 14:23:32",
@@ -205,26 +177,6 @@
       "url": "https://open.spotify.com/track/0yTv8zIpgEdmqvPAteE2OY"
     },
     {
-      "added_at": "2024-04-11 20:48:43",
-      "album": {
-        "name": "La Cocolita",
-        "url": "https://open.spotify.com/album/2iYNizyKv4DOgEtmTyCpgb"
-      },
-      "artists": [
-        {
-          "name": "Mestizo Is Back",
-          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
-        },
-        {
-          "name": "Keila",
-          "url": "https://open.spotify.com/artist/6b7BKSpMuReJlss9x6XYtg"
-        }
-      ],
-      "duration_ms": 132480,
-      "name": "La Cocolita",
-      "url": "https://open.spotify.com/track/7F5PZ4KnpcNbKDnthUM646"
-    },
-    {
       "added_at": "2024-03-21 19:13:50",
       "album": {
         "name": "Pa Q Mame",
@@ -263,6 +215,34 @@
       "duration_ms": 161000,
       "name": "El Singon",
       "url": "https://open.spotify.com/track/3QtkrsXH8G5CO2m4CZp3lu"
+    },
+    {
+      "added_at": "2024-04-17 10:33:51",
+      "album": {
+        "name": "Que Malo De Que?",
+        "url": "https://open.spotify.com/album/0Q4QJJY1kuyyKtvwKRovNY"
+      },
+      "artists": [
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        },
+        {
+          "name": "El Mayor Clasico",
+          "url": "https://open.spotify.com/artist/5sZ0LIk7BJLJquEUUt5rJj"
+        },
+        {
+          "name": "El Kable",
+          "url": "https://open.spotify.com/artist/3hbiGjxZ86peyzzA5N4hil"
+        },
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Que Malo De Que?",
+      "url": "https://open.spotify.com/track/1ulFpPwq47WmEeqzfi1ycr"
     },
     {
       "added_at": "2024-04-03 20:10:24",
@@ -379,6 +359,26 @@
       "duration_ms": 103142,
       "name": "Dame Chapa",
       "url": "https://open.spotify.com/track/0UKMhBNesk10SKIruI3xue"
+    },
+    {
+      "added_at": "2024-04-11 20:48:43",
+      "album": {
+        "name": "La Cocolita",
+        "url": "https://open.spotify.com/album/2iYNizyKv4DOgEtmTyCpgb"
+      },
+      "artists": [
+        {
+          "name": "Mestizo Is Back",
+          "url": "https://open.spotify.com/artist/5DbHAUWNEMwhEUSC4UwcKH"
+        },
+        {
+          "name": "Keila",
+          "url": "https://open.spotify.com/artist/6b7BKSpMuReJlss9x6XYtg"
+        }
+      ],
+      "duration_ms": 132480,
+      "name": "La Cocolita",
+      "url": "https://open.spotify.com/track/7F5PZ4KnpcNbKDnthUM646"
     },
     {
       "added_at": "2024-04-04 22:49:14",

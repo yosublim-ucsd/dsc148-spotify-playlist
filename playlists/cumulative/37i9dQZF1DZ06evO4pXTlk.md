@@ -2,7 +2,7 @@
 
 ### [This Is The XCERTS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pXTlk)
 
-> This is The XCERTS\. The essential tracks, all in one playlist.
+> This Is The XCERTS\. Los temas esenciales, todos en una lista.
 
 88 songs - 5 hr 3 min
 
@@ -23,7 +23,7 @@
 | [Crisis in the Slow Lane](https://open.spotify.com/track/7qWw4H4fBYV3p0rPrpT8IV) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 4:22 | 2022-09-16 |  |
 | [Cry](https://open.spotify.com/track/52vsw5MbrxfOWRaDWn6va9) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 5:44 | 2022-09-16 | 2022-10-09 |
 | [Daydream](https://open.spotify.com/track/4ZJRoFTNJzcA1KKJgxncvu) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:26 | 2022-09-16 |  |
-| [Distant Memory](https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:30 | 2022-09-16 |  |
+| [Distant Memory](https://open.spotify.com/track/4l4SP3rYBjOvJCEcLQH75f) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 4:30 | 2022-09-16 | 2024-04-23 |
 | [Do You Feel Safe?](https://open.spotify.com/track/71B1fNBwSnln85JuY4bTh3) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [In the Cold Wind We Smile \(10th Anniversary Edition\)](https://open.spotify.com/album/7KpMyE6xSVdRVdkIxSng5N) | 3:32 | 2022-09-16 |  |
 | [Drag Me Out](https://open.spotify.com/track/5MmCBut3K1DS3SJtjVDluN) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Learning How To Live And Let Go](https://open.spotify.com/album/6GrsEsTOh0Pb56iQMIe0qe) | 2:47 | 2023-08-19 | 2024-02-08 |
 | [Drive Me Wild](https://open.spotify.com/track/0vOuCoedkkXYOpU3QYkCBa) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 3:49 | 2022-10-09 |  |
@@ -82,7 +82,7 @@
 | [She](https://open.spotify.com/track/3QXfWJWaIzypNt8SKjXbps) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:03 | 2023-01-24 | 2023-03-08 |
 | [Show Me Beautiful](https://open.spotify.com/track/5yMpH6XqTIjz2nWJMsP3ua) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 4:00 | 2022-09-16 |  |
 | [Slackerpop](https://open.spotify.com/track/7qgp4PNvNPG5vPoMeGg29E) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 2:34 | 2022-09-16 |  |
-| [Tar Ok](https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 0:59 | 2022-09-16 | 2024-01-09 |
+| [Tar Ok](https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 0:59 | 2022-09-16 |  |
 | [Tear Me Down](https://open.spotify.com/track/4RZv3EVH2lebzYec3mSi2Z) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:32 | 2022-12-12 | 2024-01-28 |
 | [Teenage Lust](https://open.spotify.com/track/3bW5tgDE5f9nvwMJsaeHLq) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [There Is Only You](https://open.spotify.com/album/1PVASk4Wj9YoOlllQgDUoL) | 3:02 | 2022-12-28 | 2023-08-31 |
 | [The Dark](https://open.spotify.com/track/0dssgFX5eTaCA7TcSwgDII) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Hold on to Your Heart](https://open.spotify.com/album/0dUfvaLw6L22guWr1ldEr2) | 2:58 | 2022-09-20 | 2023-04-22 |

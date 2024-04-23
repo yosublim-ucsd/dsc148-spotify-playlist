@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 
 > 듣고만 있어도 행복한 노래들과 더더욱 행복하세요 ;\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,533 likes - 60 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,537 likes - 60 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 17 | [HANGANG \(Feat\. BIG Naughty\)](https://open.spotify.com/track/25QGSFaB28MnIp7CIX1Nkk) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [HANGANG](https://open.spotify.com/album/3VF7eXNnX3jEgJVAPcC7BM) | 3:19 |
 | 18 | [Reference](https://open.spotify.com/track/2PmLP4DNUPJC98L78mrkal) | [Lee Mujin](https://open.spotify.com/artist/4Xj0peBt3EZHbdF20JmdWC) | [Room Vol.1](https://open.spotify.com/album/2cSXk0XqGoen6IvmlJmJJt) | 3:41 |
 | 19 | [My Love \(Duet Ver.\)](https://open.spotify.com/track/0K0HXYXl26keaIiVH8dPI1) | [Lee Seung Chul](https://open.spotify.com/artist/5Ecf8RR2UWFAvyeItabffF), [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Lee Seung Chul 35th Anniversary Album Special 'My Love'](https://open.spotify.com/album/3gAshpQbkBHturbpMAB3YL) | 3:47 |
-| 20 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
-| 21 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
+| 20 | [About You](https://open.spotify.com/track/3Pc9NJtnXnFdhmqcQWXZnF) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [YUMI's Cells 2, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/3g8K5V6U4ZkEC1X7rRZoBo) | 3:15 |
+| 21 | [Shooting Star](https://open.spotify.com/track/2CecbOSkOaZ2lQFVtOVTlT) | [SHAUN](https://open.spotify.com/artist/72nLe76yBFSlP6VBzME358) | [Omnibus, Pt\. 2: Inside Out](https://open.spotify.com/album/5JxvBJJnSkZt5RXWITnO9A) | 3:52 |
 | 22 | [Thursday Night \(feat.Beenzino\)](https://open.spotify.com/track/6Qm8MRcsr9VlRIGf1AJ1W5) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [Thursday Night](https://open.spotify.com/album/7GVvjxihGZSqkUokJhSKtq) | 3:30 |
 | 23 | [She Gonna Stop \(Feat\. Leellamarz\) \(Prod\. TOIL\)](https://open.spotify.com/track/6lny2zJqlDPBzgq1Eiy0a0) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0) | [She Gonna Stop](https://open.spotify.com/album/2qq0JhNSmRiVFYdTz7pZxN) | 3:29 |
 | 24 | [When the door opens](https://open.spotify.com/track/1P0B7bgi2NfSoAM5awO1r0) | [JT&MARCUS](https://open.spotify.com/artist/20XGi1IKkqt4emnpwQjVjH) | [When the door opens \(From "Going to You at a Speed of 493km" \[Original Soundtrack\]\), Pt.5](https://open.spotify.com/album/5FcTAparH1cY84LvR03Pg1) | 3:27 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2l1BM6ggRui.md) - [plain]
 | 55 | [Shining Love Song](https://open.spotify.com/track/0DFSFBB4faitgBed2IJ4O5) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [Shining Love Song](https://open.spotify.com/album/7n2p500IY7UeU9NlgFFeV0) | 3:11 |
 | 56 | [\#Self\_Trip](https://open.spotify.com/track/2I0uCY7VX3XkMx9s6gMM4K) | [MINSEO](https://open.spotify.com/artist/3qo507hAo0pjRj42AmioUv) | [mOS 2.74](https://open.spotify.com/album/4vDtSmZdZmkmoqNdh9Lpcv) | 3:01 |
 | 57 | [Gulliver](https://open.spotify.com/track/7HB3OUMUrZDdS0XnQ9h8Wr) | [Kang Seung Yoon](https://open.spotify.com/artist/2Ip3x4XtEEhlGg8qI146jL) | [Street Man Fighter Original Vol.2 \(Original Television Soundtrack\)](https://open.spotify.com/album/5ZxaSeVDBBvSKDLXbCSLYU) | 3:03 |
-| 58 | [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 |
-| 59 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 |
+| 58 | [Loving You](https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE) | [Harryan Yoonsoan](https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ) | [Loving You](https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm) | 3:47 |
+| 59 | [Beautiful Day](https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Beautiful Day](https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq) | 3:29 |
 | 60 | [Good Night](https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Good Night](https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k) | 4:18 |
 
 Snapshot ID: `MTcxMTUxODcwNCwwMDAwMDAwMGM2ZThlNTgxZmNmMDM0OTZjNDIyY2RiNjhhMzM1ZmQx`

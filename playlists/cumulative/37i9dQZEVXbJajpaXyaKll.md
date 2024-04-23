@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Argentina.
 
-272 songs - 14 hr 29 min
+273 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,6 +171,7 @@
 | [MORFEO](https://open.spotify.com/track/297Ev6aeDHc8dECDmK7SFH) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK) | [DESCARTABLE](https://open.spotify.com/album/0t9xw4VcPabCkwVO77u31Z) | 3:53 | 2024-03-25 | 2024-03-31 |
 | [Mtg Quero Te Encontrar](https://open.spotify.com/track/5GV7OpSEb8MPTryL0Q5i6c) | [DJ JZ](https://open.spotify.com/artist/4ptGOXi053ILmLfMcIG2hB), [Humberto & Ronaldo](https://open.spotify.com/artist/1zEo6Fk1iaaOYFlFPBHCFn), [Mc Mininin](https://open.spotify.com/artist/5PtqDNfEbT1c8wnGce6EIE), [DJ LG PROD](https://open.spotify.com/artist/1hPg0YVHOP4dizsVCYCnIA), [Silvanno Salles](https://open.spotify.com/artist/0HFoOA61ShFCVKyKUPoN6B) | [Mtg Quero Te Encontrar](https://open.spotify.com/album/3pEubhqsNBQdsxgM3knWYh) | 2:57 | 2024-04-21 |  |
 | [Municiones \- Guaracha Remix](https://open.spotify.com/track/2pHb9SVMtiIQDOPU3iky9l) | [Martin Moreno](https://open.spotify.com/artist/59h2d6LEgTjC8LUySW54EA), [Axel Martinez](https://open.spotify.com/artist/55a3tmLfnZaniwPDbTr5NF) | [Municiones \(Guaracha Remix\)](https://open.spotify.com/album/6XFROdE4mopCvzyKssELvL) | 2:57 | 2024-04-11 | 2024-04-19 |
+| [MUNICIONES GUARACHA](https://open.spotify.com/track/3r9NWQ0kkrxA3i6yE8PC87) | [DJ CHINO MAXI ROA](https://open.spotify.com/artist/47dsPhRhk9XBE369sTOdib), [Dj Luciano Troncoso](https://open.spotify.com/artist/14fjAuMMzVyFGJ86kfZcPN) | [MUNICIONES GUARACHA](https://open.spotify.com/album/2mhbj8Z3rf79ZQWZo0SPpv) | 2:10 | 2024-04-22 |  |
 | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/track/5ug5mDxyHaWjViEiDlMPCN) | [Blaster DJ](https://open.spotify.com/artist/04tXa59qDOMrlU6mWs6aqT) | [Municiones Guarachetamix Blaster Dj](https://open.spotify.com/album/2nzIp9cVhwXGnMuapTxzqV) | 3:21 | 2024-01-29 | 2024-04-07 |
 | [Murder On The Dancefloor](https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Read My Lips](https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG) | 3:50 | 2024-01-29 | 2024-02-15 |
 | [My Love Mine All Mine](https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:17 | 2024-01-29 | 2024-01-31 |
@@ -207,7 +208,7 @@
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 | 2024-01-29 | 2024-04-05 |
 | [Praise Jah In The Moonlight](https://open.spotify.com/track/7ueuqvQkKA9k1Pys0hB5br) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight \(Live\)](https://open.spotify.com/album/1GhTKndy4z6y8sJoKXi1kt) | 4:23 | 2024-04-11 | 2024-04-17 |
 | [PRIMER AVISO](https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [PRIMER AVISO](https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo) | 3:02 | 2024-03-19 | 2024-04-05 |
-| [Que Fluya](https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 4:22 | 2024-03-12 |  |
+| [Que Fluya](https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [LAS LETRAS YA NO IMPORTAN](https://open.spotify.com/album/2VqfdamIWfwbBVzOzHJWs3) | 4:22 | 2024-03-12 | 2024-04-23 |
 | [QUE ME FALTE TODO](https://open.spotify.com/track/1NMbORRsowjN8q000xlJ8l) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE ME FALTE TODO](https://open.spotify.com/album/10O0BuUEtx9Rs3S9pgUBKd) | 2:45 | 2024-01-29 | 2024-02-04 |
 | [QUE ME FALTE TODO](https://open.spotify.com/track/1TyBUtMxdmRfXhW3MmbxtQ) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 2:45 | 2024-02-03 | 2024-02-10 |
 | [QUE SED](https://open.spotify.com/track/4GLmfc26LRlW5otKs6TewR) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [QUE SED](https://open.spotify.com/album/13Uyz9aJHEkfWPtt7b9lTG) | 2:11 | 2024-04-09 | 2024-04-17 |

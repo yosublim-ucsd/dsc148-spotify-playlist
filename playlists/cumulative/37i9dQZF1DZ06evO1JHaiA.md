@@ -2,7 +2,7 @@
 
 ### [This Is The Intruders](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JHaiA)
 
-> This Is The Intruders\. Los temas esenciales, todos en una lista.
+> This is The Intruders\. The essential tracks, all in one playlist.
 
 73 songs - 3 hr 57 min
 
@@ -26,7 +26,7 @@
 | [Dance Boy](https://open.spotify.com/track/3ldpPfTpKMP4eksHXWW25A) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:13 | 2022-05-25 |  |
 | [Energy of Love](https://open.spotify.com/track/1q9MC7vjGT105dBvkyU3Sq) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:33 | 2022-05-26 |  |
 | [Everyone's a Star](https://open.spotify.com/track/0C3lpa03bqjYdH5IHeNyo2) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 5:40 | 2022-05-25 |  |
-| [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 | 2023-06-03 |  |
+| [Fried Eggs](https://open.spotify.com/track/3NwMSgyUmb2fbZoqwiizB1) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Koko\-Mojo Diner, Vol\. 2 \- Cornbread & Cabbage Greens](https://open.spotify.com/album/56sNGZKmZ8NJmLID2DeQZ4) | 1:57 | 2023-06-03 | 2024-04-23 |
 | [Friends No More](https://open.spotify.com/track/2o3WT6RdrJcjRcXzLYfiMg) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:57 | 2022-05-25 |  |
 | [Give Her a Transplant](https://open.spotify.com/track/2aVqUmlGpPE55BeUzjDIfw) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Gamble Records All\-Stars](https://open.spotify.com/album/5XwPEweRZRgXoaicBAF0gl) | 2:49 | 2022-05-25 |  |
 | [Gloria](https://open.spotify.com/track/0Nu3tJkKb4UBDBLRMVRV2s) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Old Town Doo Wop, Vol\. 5](https://open.spotify.com/album/5Lv8TMJkF1HYwoAyyJOuuF) | 2:28 | 2022-05-25 |  |
@@ -79,7 +79,7 @@
 | [Turn the Hands of Time](https://open.spotify.com/track/2hVGNk2SveZLU1UhRQjTvf) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:31 | 2022-05-25 |  |
 | [What's Easy for Two Is so Hard for One](https://open.spotify.com/track/4WtaSpnJOWGPGhLHCmxoeC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Energy of Love](https://open.spotify.com/album/56ppptQbKsmQMSSEMHyle5) | 3:17 | 2022-05-25 |  |
 | [When We Get Married](https://open.spotify.com/track/577wJybDQlVQ4qrT8nogLk) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 3:21 | 2022-05-25 |  |
-| [Wonder What Kind of Bag She's In](https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:36 | 2024-01-26 | 2024-04-22 |
+| [Wonder What Kind of Bag She's In](https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:36 | 2024-01-26 |  |
 | [You're My One & Only Baby](https://open.spotify.com/track/3uq8W20KfDh10oPQkLhph0) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:14 | 2022-05-25 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Carlos Rafael Rivera. Los temas esenciales, todos en una lista.",
-  "num_followers": 467,
+  "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
+  "num_followers": 468,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGJhZWU0YTQxMmM3ZWQwZTI0NDBhZjFiNzNhNjY5NGUw",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDQ1Y2U3M2Q1NzliZjM3NDMyYzZjMDU0OTEzZjRkYjI2",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
         }
       ],
-      "duration_ms": 144739,
-      "name": "The Remsen",
-      "url": "https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b"
+      "duration_ms": 116015,
+      "name": "Mad",
+      "url": "https://open.spotify.com/track/5UvOMRZ9OLfWlHAF72qo6y"
     }
   ],
   "unique_name": "This Is Carlos Rafael Rivera",

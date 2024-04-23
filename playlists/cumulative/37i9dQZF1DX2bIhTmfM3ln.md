@@ -4,7 +4,7 @@
 
 > Afrobeats love stories have the best beginnings
 
-493 songs - 1 day 0 hr 40 min
+494 songs - 1 day 0 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [African Queen](https://open.spotify.com/track/3FEc6z5Q5mgeZtbeBDNEEy) | [2Baba](https://open.spotify.com/artist/2n4DcAtRMvfyRX3ljeC8Kp) | [REWIND\. SELECT\. UPDATE](https://open.spotify.com/album/5V7P9MxiwDQZzhklXRNgu6) | 4:24 | 2024-02-13 | 2024-02-16 |
 | [Afro Bass](https://open.spotify.com/track/57SIbxmrWA7GsMtv5micLJ) | [Cznbaby](https://open.spotify.com/artist/5m2vJFnLqbBvu4cm3Zn0Rf) | [Afro Bass](https://open.spotify.com/album/5OFYLCyFCuhR4hnTlqQtvn) | 2:32 | 2024-03-08 | 2024-04-19 |
 | [Again](https://open.spotify.com/track/6zDZvJJRxofaA7c9ombPIH) | [Boybreed](https://open.spotify.com/artist/0c6BBWTsX4cGRLanSDldSc) | [Again](https://open.spotify.com/album/0FbNfX2DcyFNvgrSe0ZLba) | 3:04 | 2023-03-30 | 2023-05-05 |
+| [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-19 |  |
 | [Ahoufe](https://open.spotify.com/track/4XU0t33ITYzP8D0YroWBRV) | [Eugy](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mamba Sounds](https://open.spotify.com/artist/1QATgeQhzBedfbzCpZLvtN) | [Ahoufe](https://open.spotify.com/album/6eYHMWlLzFeUZChXI7raVY) | 2:58 | 2023-08-11 | 2023-09-15 |
 | [Alarm](https://open.spotify.com/track/273uUYBv3zZoqSR8VOk6vV) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Alarm](https://open.spotify.com/album/7bQn6pdb6524vpGGxftUA9) | 2:22 | 2022-12-02 | 2023-02-22 |
 | [All I Want](https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [All I Want](https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe) | 2:55 | 2024-02-23 | 2024-04-12 |
@@ -261,7 +262,7 @@
 | [Loju \(feat\. Wizkid\)](https://open.spotify.com/track/4U3RTbBmft10cAQqMYw7At) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Loju \(feat\. Wizkid\)](https://open.spotify.com/album/08Y8xB9NINjDkoT30eCoB8) | 2:54 | 2023-06-30 |  |
 | [Lokation](https://open.spotify.com/track/2WNIVszX0QnQfWWfDqqyKI) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [The More The Better](https://open.spotify.com/album/3F886JEtegyU2CGjbvbv4I) | 2:26 | 2023-09-09 | 2023-09-15 |
 | [Lonely](https://open.spotify.com/track/7CEtMPWyALbePUNSi5Ak3F) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Lonely](https://open.spotify.com/album/7venGVbmyCI4UBIgyYxW0M) | 2:56 | 2022-02-11 | 2022-09-05 |
-| [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-07-28 |  |
+| [Look What You Made Me Do \(with Simi\)](https://open.spotify.com/track/5a314dyLzz8YyFTFjd8X6w) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Tequila Ever After](https://open.spotify.com/album/2ZWPLY75DaydQvoeVMHfh3) | 2:54 | 2023-07-28 | 2024-04-23 |
 | [Look What You Made Me Do \(with Simi\) \- Acoustic](https://open.spotify.com/track/4P5lDKLKvsrVoxiXfR90KI) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Look What You Made Me Do \(Acoustic\)](https://open.spotify.com/album/3fpD30KH5gy3ytYXluMxrT) | 2:55 | 2024-02-13 | 2024-02-16 |
 | [Lose Control \(feat\. Blxckie\)](https://open.spotify.com/track/57NBD4H4CIFw5sdOuci0UB) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [Love.\. For Free](https://open.spotify.com/album/67d06FDN55b7vN6vaqKpiE) | 2:58 | 2023-10-27 | 2023-11-14 |
 | [Lova](https://open.spotify.com/track/37wnGbe2R8r7BMKoSzDydC) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Lova](https://open.spotify.com/album/6kFn3QbTXiRr6ZTkVdIoGa) | 2:53 | 2023-10-20 | 2023-11-14 |

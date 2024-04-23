@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa1pcUVlBhYz.md) - [plain]
 
 > Electronic + Dance making waves, every month\. Cover: Kah\-Lo and Jamie Jones
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,748 likes - 81 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,751 likes - 81 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
-  "2024-04-22": 47926,
+  "2024-04-23": 47990,
   "date_first_scraped": "2023-09-19",
-  "description": "This is BK. The essential tracks, all in one playlist.",
+  "description": "This is BK. Todos os maiores hits em uma s\u00f3 playlist.",
   "name": "This Is BK",
   "tracks": [
     {
@@ -1633,7 +1633,7 @@
       ],
       "date_added": "2023-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 270062,
       "name": "ROMPEU O COURO.",
       "url": "https://open.spotify.com/track/6aboy6b50nYKU7gW7RPXU1"

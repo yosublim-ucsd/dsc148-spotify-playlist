@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > ANOTR is back!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,901 likes - 229 songs - 16 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,080 likes - 229 songs - 16 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

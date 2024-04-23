@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27947,
+  "num_followers": 27952,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Sommerhus",
+        "url": "https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 141714,
+      "name": "Sommerhus",
+      "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "OTR (On The Road)",
         "url": "https://open.spotify.com/album/6F5ACT5GB1yKHapZ0iPPG5"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 136615,
       "name": "OTR (On The Road)",
       "url": "https://open.spotify.com/track/1tN35VXKqqilry2wxZ9XQB"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "H\u00c5LL K\u00c4FTEN",
-        "url": "https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe"
-      },
-      "artists": [
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        }
-      ],
-      "duration_ms": 127482,
-      "name": "H\u00c5LL K\u00c4FTEN",
-      "url": "https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -339,34 +339,34 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Sommerhus",
-        "url": "https://open.spotify.com/album/1xzkyK5V6Q6PXMdJzLtW3y"
+        "name": "H\u00c5LL K\u00c4FTEN",
+        "url": "https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe"
       },
       "artists": [
         {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
         }
       ],
-      "duration_ms": 141714,
-      "name": "Sommerhus",
-      "url": "https://open.spotify.com/track/08dWbd4W1hhUusqsJ7zk2J"
+      "duration_ms": 127482,
+      "name": "H\u00c5LL K\u00c4FTEN",
+      "url": "https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH"
     },
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Blind",
-        "url": "https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246"
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
       },
       "artists": [
         {
-          "name": "Shiro",
-          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
         }
       ],
-      "duration_ms": 161240,
-      "name": "Blind",
-      "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
+      "duration_ms": 135346,
+      "name": "Lenge Leve",
+      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+        "name": "Blind",
+        "url": "https://open.spotify.com/album/31ksRf0SjvqKDRJicFN246"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Shiro",
+          "url": "https://open.spotify.com/artist/2r9JAY6ISvp0VvZsT6cBJo"
         }
       ],
-      "duration_ms": 135346,
-      "name": "Lenge Leve",
-      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
+      "duration_ms": 161240,
+      "name": "Blind",
+      "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "L\u00f8sningsorienterte",
+        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
+      },
+      "artists": [
+        {
+          "name": "Ari Bajgora",
+          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
+        }
+      ],
+      "duration_ms": 173465,
+      "name": "L\u00f8sningsorienterte",
+      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "R\u00e4dda mig",
         "url": "https://open.spotify.com/album/6NyE3oHY83RrfypKR1FFbu"
       },
@@ -627,22 +643,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "L\u00f8sningsorienterte",
-        "url": "https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf"
-      },
-      "artists": [
-        {
-          "name": "Ari Bajgora",
-          "url": "https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD"
-        }
-      ],
-      "duration_ms": 173465,
-      "name": "L\u00f8sningsorienterte",
-      "url": "https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "BLIND",
         "url": "https://open.spotify.com/album/50O2Oh66m9qVHkAnxipCOd"
       },
@@ -655,22 +655,6 @@
       "duration_ms": 148120,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/5zO0y8TGj6NT0pFluvrllN"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "2X SPEKTRUM FREESTYLE",
-        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 322431,
-      "name": "2X SPEKTRUM FREESTYLE",
-      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -691,6 +675,22 @@
       "duration_ms": 135333,
       "name": "SIPPER",
       "url": "https://open.spotify.com/track/6zmYjRCtFkZqKTPgEqbODr"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "2X SPEKTRUM FREESTYLE",
+        "url": "https://open.spotify.com/album/3GX1PPcRgGZMBXPgMLtdhx"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 322431,
+      "name": "2X SPEKTRUM FREESTYLE",
+      "url": "https://open.spotify.com/track/4c5BsYDauVKFJuV4njPnvI"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Gas",
-        "url": "https://open.spotify.com/album/4rBij9sYNOfrBltR7rUYjN"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 173131,
-      "name": "Gas",
-      "url": "https://open.spotify.com/track/77T996JlKleOyB1RAchTQr"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Ville Dyr",
         "url": "https://open.spotify.com/album/5cjuG3dO5EoojY1X8Oyf1K"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 131250,
       "name": "Ville Dyr",
       "url": "https://open.spotify.com/track/6bdcLY8p5bhQEzrhSPerO5"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Gas",
+        "url": "https://open.spotify.com/album/4rBij9sYNOfrBltR7rUYjN"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Gas",
+      "url": "https://open.spotify.com/track/77T996JlKleOyB1RAchTQr"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "In Memory Of Some Stand Up Guys (Private Collection)",
-        "url": "https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 161250,
-      "name": "DIAMANTER",
-      "url": "https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Mariachi",
         "url": "https://open.spotify.com/album/5VEJg4FgkfQXOJygPhgqzL"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 162857,
       "name": "Mariachi",
       "url": "https://open.spotify.com/track/4NDYDxNhfR5eJRDXB1P6OV"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "In Memory Of Some Stand Up Guys (Private Collection)",
+        "url": "https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH"
+      },
+      "artists": [
+        {
+          "name": "C.Gambino",
+          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "DIAMANTER",
+      "url": "https://open.spotify.com/track/6z8QKwRlKLG81uKYMPnvcI"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Thug Lover",
-        "url": "https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s"
-      },
-      "artists": [
-        {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
-        }
-      ],
-      "duration_ms": 162478,
-      "name": "Thug Lover",
-      "url": "https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 135901,
       "name": "Mama",
       "url": "https://open.spotify.com/track/774f2Kn00cBgYObzXGEHbx"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Thug Lover",
+        "url": "https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 162478,
+      "name": "Thug Lover",
+      "url": "https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Til Toppen",
-        "url": "https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo"
-      },
-      "artists": [
-        {
-          "name": "Rambow",
-          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
-        },
-        {
-          "name": "Voksen Mann Uten Slips",
-          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
-        },
-        {
-          "name": "Blizzy",
-          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
-        }
-      ],
-      "duration_ms": 156269,
-      "name": "Til Toppen",
-      "url": "https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Aura",
         "url": "https://open.spotify.com/album/6gQrFdytErXSB1VjxpsxYI"
       },
@@ -1303,6 +1279,22 @@
       "duration_ms": 186123,
       "name": "Aura",
       "url": "https://open.spotify.com/track/4DJ6P3O5xd11cQMOsPIWg7"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "F.H.D.S!",
+        "url": "https://open.spotify.com/album/57nk6LQlgsL7PMyxHnSAxj"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        }
+      ],
+      "duration_ms": 158836,
+      "name": "F.H.D.S!",
+      "url": "https://open.spotify.com/track/1N0yatFpCrTgSEg0D3osd4"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1327,22 +1319,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "\u00d6verallt",
-        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 125092,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Takket v\u00e6re livet",
         "url": "https://open.spotify.com/album/0FpElBecf0GKSZh1ZV2XZC"
       },
@@ -1359,6 +1335,70 @@
       "duration_ms": 210453,
       "name": "555",
       "url": "https://open.spotify.com/track/4s8kJv5M6vIXPciohYgMHN"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "\u00d6verallt",
+        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 125092,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Oslo B",
+        "url": "https://open.spotify.com/album/1n5VbNJ7mxx2KSSOikqynX"
+      },
+      "artists": [
+        {
+          "name": "Pasha",
+          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
+        },
+        {
+          "name": "sachi",
+          "url": "https://open.spotify.com/artist/2EGblO3Zjp1JonjHzAy7h5"
+        },
+        {
+          "name": "Fetisha",
+          "url": "https://open.spotify.com/artist/7ybWsReDAYTG94DhunDSHK"
+        }
+      ],
+      "duration_ms": 134732,
+      "name": "Oslo B",
+      "url": "https://open.spotify.com/track/4XHgCjrFjFTofyZGla2w6L"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Til Toppen",
+        "url": "https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo"
+      },
+      "artists": [
+        {
+          "name": "Rambow",
+          "url": "https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9"
+        },
+        {
+          "name": "Voksen Mann Uten Slips",
+          "url": "https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF"
+        },
+        {
+          "name": "Blizzy",
+          "url": "https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp"
+        }
+      ],
+      "duration_ms": 156269,
+      "name": "Til Toppen",
+      "url": "https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1395,46 +1435,6 @@
       "duration_ms": 133130,
       "name": "Boys I D Bl\u00e5",
       "url": "https://open.spotify.com/track/6qnfvfy3dte9Hk5sJRLILN"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "In Memory Of Some Stand Up Guys (Private Collection)",
-        "url": "https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH"
-      },
-      "artists": [
-        {
-          "name": "C.Gambino",
-          "url": "https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "BELLA",
-      "url": "https://open.spotify.com/track/1AuKZFNQfIKdwR2LngeNjD"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Oslo B",
-        "url": "https://open.spotify.com/album/1n5VbNJ7mxx2KSSOikqynX"
-      },
-      "artists": [
-        {
-          "name": "Pasha",
-          "url": "https://open.spotify.com/artist/0elSJZFrHnayc7AUCkbWAl"
-        },
-        {
-          "name": "sachi",
-          "url": "https://open.spotify.com/artist/2EGblO3Zjp1JonjHzAy7h5"
-        },
-        {
-          "name": "Fetisha",
-          "url": "https://open.spotify.com/artist/7ybWsReDAYTG94DhunDSHK"
-        }
-      ],
-      "duration_ms": 134732,
-      "name": "Oslo B",
-      "url": "https://open.spotify.com/track/4XHgCjrFjFTofyZGla2w6L"
     },
     {
       "added_at": "2024-04-18 22:00:00",

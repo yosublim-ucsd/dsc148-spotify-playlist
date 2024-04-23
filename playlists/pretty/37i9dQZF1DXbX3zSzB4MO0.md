@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 
 > Club vibes wherever you are!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,129 likes - 75 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,253 likes - 75 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbX3zSzB4MO0.md) - [plain]
 | 35 | [Electricity](https://open.spotify.com/track/0NNSpmyyr0I4lrMaXS8Tba) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Alex Aris](https://open.spotify.com/artist/7J7YzKnvAyEmHCg7LGWW0G) | [Electricity](https://open.spotify.com/album/1ofN1B9x8lwUSbb2eS65fV) | 2:34 |
 | 36 | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/track/1xFrwpp4li4MFpMr9KpTEK) | [Sam Green](https://open.spotify.com/artist/4Dvxcj9zZyKbzuwRG4lzSR), [Carla Monroe](https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB) | [Jam Inside Your Love \(feat\. Carla Monroe\)](https://open.spotify.com/album/7CfLWKrEPYYsJ46kWTKtUA) | 2:27 |
 | 37 | [You & I](https://open.spotify.com/track/7k0kq03bs3micRAVvYgzg8) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [You & I](https://open.spotify.com/album/1tiC5qMa7iI5dES19tVAYH) | 2:55 |
-| 38 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
-| 39 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
+| 38 | [Yeah The Girls](https://open.spotify.com/track/2ST4u9GusI2ddDfuMvXA5l) | [FISHER](https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt), [MERYLL](https://open.spotify.com/artist/4pqY01dGuzojomnVCXYbXC) | [Yeah The Girls](https://open.spotify.com/album/6yxWTg8P4cAJ0gyPHUqPfv) | 3:14 |
+| 39 | [Jealous](https://open.spotify.com/track/5Ir9mqfAUnXkSkXHF1yvM0) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo) | [Jealous](https://open.spotify.com/album/4Kka250AUtEvx1XUuoNHfZ) | 4:16 |
 | 40 | [I Got You](https://open.spotify.com/track/2FAik0wCT2bEcXMeYhoTkj) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [I Got You](https://open.spotify.com/album/0h9Si8hhyqG2TRm61mNUnv) | 2:44 |
 | 41 | [Hesitate](https://open.spotify.com/track/522LFdtOuvHkNQeYJrAvIC) | [Picco](https://open.spotify.com/artist/6i1CBwvebApraHKXUhMHQK) | [Hesitate](https://open.spotify.com/album/1NphNEK4Twi2yrGmLkjym8) | 2:50 |
 | 42 | [Talamanca](https://open.spotify.com/track/7dDLAQ1y0qOq3E4DhNh8FS) | [BURNS](https://open.spotify.com/artist/5eKqhPrKad0J9xGAtq3rW7) | [Talamanca](https://open.spotify.com/album/1N66eMzBBNRHa3HFE6GCsW) | 3:06 |

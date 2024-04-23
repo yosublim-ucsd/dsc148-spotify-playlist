@@ -1,12 +1,12 @@
 {
   "description": "\ud83d\udd25 All the hottest hip hop tracks in one spot! Featuring: <a href=\"https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ?si=jQqAUyTPThqyJKCm1mxJTQ\">Gunna</a>, Jack Harlow, Gucci Mane,  Lil Uzi Vert, Young Thug, Don Toliver,  NLE Choppa &amp; many more.",
-  "num_followers": 39119,
+  "num_followers": 39076,
   "original_name": "Hip Hop Weekly",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "Nzc5OSxiNDZhY2I4ZWY5NDVkM2MwNzhhYzBiNDVmN2FkZTdiNDdkYTIwMjYw",
+  "snapshot_id": "NzgxMSxiNmU0YTVmY2NlMzU4Yzg0N2E1NzY2YjQyYTg0ZGE2ZGFlYjhjODQw",
   "tracks": [
     {
       "added_at": "2024-03-22 13:05:33",
@@ -29,20 +29,24 @@
       "url": "https://open.spotify.com/track/0ZBg0OsGKgZajDgFtryiz7"
     },
     {
-      "added_at": "2024-03-22 13:05:33",
+      "added_at": "2024-04-22 19:59:50",
       "album": {
-        "name": "Fight or Flight (Playtime's Over)",
-        "url": "https://open.spotify.com/album/2Tzsn9PvVjWnSB7583IXut"
+        "name": "Who Decides War",
+        "url": "https://open.spotify.com/album/7eadCbsmeguNADwk91fHM2"
       },
       "artists": [
         {
           "name": "Da Crook",
           "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
         }
       ],
-      "duration_ms": 149250,
-      "name": "Fight or Flight (Playtime's Over)",
-      "url": "https://open.spotify.com/track/0gwPIeDyqsM2nXVQOJeBv2"
+      "duration_ms": 179284,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/043OcdbUW2bCfxH3zgxIDj"
     },
     {
       "added_at": "2024-03-22 13:05:33",
@@ -63,22 +67,6 @@
     {
       "added_at": "2024-03-22 13:05:33",
       "album": {
-        "name": "Whatever She Wants",
-        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
-      },
-      "artists": [
-        {
-          "name": "Bryson Tiller",
-          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
-        }
-      ],
-      "duration_ms": 161342,
-      "name": "Whatever She Wants",
-      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
-    },
-    {
-      "added_at": "2024-03-22 13:05:33",
-      "album": {
         "name": "Tee's Coney Island",
         "url": "https://open.spotify.com/album/2XCjDuNrAObHZrKPhsWvzP"
       },
@@ -95,6 +83,22 @@
       "duration_ms": 151182,
       "name": "Loop Hole (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5gzEL5O1ubbtIHUhLkSMTz"
+    },
+    {
+      "added_at": "2024-04-22 19:59:11",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "added_at": "2024-03-22 13:05:33",
@@ -123,6 +127,22 @@
       "duration_ms": 228266,
       "name": "Type Shit",
       "url": "https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C"
+    },
+    {
+      "added_at": "2024-03-22 13:05:33",
+      "album": {
+        "name": "ONE CALL",
+        "url": "https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi"
+      },
+      "artists": [
+        {
+          "name": "Rich Amiri",
+          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+        }
+      ],
+      "duration_ms": 121399,
+      "name": "ONE CALL",
+      "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
     },
     {
       "added_at": "2024-03-22 13:05:33",
@@ -175,18 +195,18 @@
     {
       "added_at": "2024-03-22 13:05:33",
       "album": {
-        "name": "ONE CALL",
-        "url": "https://open.spotify.com/album/32Gv2KwfKu35P5r77bmxzi"
+        "name": "Whatever She Wants",
+        "url": "https://open.spotify.com/album/60s0PMYFJhe34io9HuyUXf"
       },
       "artists": [
         {
-          "name": "Rich Amiri",
-          "url": "https://open.spotify.com/artist/2sF5nNXnrrsCPZlt8ZpyGd"
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
         }
       ],
-      "duration_ms": 121399,
-      "name": "ONE CALL",
-      "url": "https://open.spotify.com/track/6et5HwX6nTYddg7hDGAxug"
+      "duration_ms": 161342,
+      "name": "Whatever She Wants",
+      "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
     },
     {
       "added_at": "2024-03-22 13:05:33",
@@ -755,38 +775,6 @@
       "duration_ms": 154466,
       "name": "Hellcat Kenny (feat. Lil Uzi Vert)",
       "url": "https://open.spotify.com/track/5nYygW7bTgPOhckh3uDR9L"
-    },
-    {
-      "added_at": "2024-03-22 13:05:33",
-      "album": {
-        "name": "american dream",
-        "url": "https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq"
-      },
-      "artists": [
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
-        }
-      ],
-      "duration_ms": 198292,
-      "name": "all of me",
-      "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
-    },
-    {
-      "added_at": "2024-03-22 13:05:33",
-      "album": {
-        "name": "Red Moon",
-        "url": "https://open.spotify.com/album/1Qps54HR7OJ8GJsmoRl6ob"
-      },
-      "artists": [
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 171827,
-      "name": "Red Moon",
-      "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"
     },
     {
       "added_at": "2024-03-22 13:05:33",

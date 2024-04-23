@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 
 > 話題のロックナンバーをVolume上げて爆音で。Cover: Pearl Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,257 likes - 99 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,238 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,9 +43,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 33 | [RE：人是](https://open.spotify.com/track/5WuKGARwktpTcoGhbBiaqh) | [鬼否](https://open.spotify.com/artist/6QJLsvsWMiVNKdvOJY9CGC) | [本體Ontology](https://open.spotify.com/album/7JP1h7mQBNTuq6HVSpAU8c) | 3:43 |
 | 34 | [Friendly Fire](https://open.spotify.com/track/1rAzOr3zpUDRtN2zsqGHiG) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Friendly Fire](https://open.spotify.com/album/601IEigQO3enlyrbn4SpNM) | 2:56 |
 | 35 | [A Vineyard for the North](https://open.spotify.com/track/3xZAvU8o7EDJzFKBy9mvlg) | [Yard Act](https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd) | [Where’s My Utopia?](https://open.spotify.com/album/1mRX6QPV832KdiDhsdOb09) | 5:03 |
-| 36 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
+| 36 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
 | 37 | [V.O.V](https://open.spotify.com/track/4rhp0vc9pjyLlLdOXGkWbt) | [HIMALAYAS](https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x) | [V.O.V](https://open.spotify.com/album/4wt8jyHUjdtjM7ghPIIZE0) | 3:09 |
-| 38 | [Murder on the Dance Floor \- triple j Like A Version](https://open.spotify.com/track/1swz9stsbG1p34SJHJqiww) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Murder on the Dancefloor \(triple j Like A Version\)](https://open.spotify.com/album/02tTPri1bqHRdIwhz4gceP) | 3:00 |
+| 38 | [Kool\-Aid](https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Kool\-Aid](https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut) | 3:48 |
 | 39 | [Doll](https://open.spotify.com/track/718j4dLgigKSHiRYiHuhMC) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Doll](https://open.spotify.com/album/233GhcZaDayKcSfRtx5rW3) | 3:31 |
 | 40 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 |
 | 41 | [Loud Bark](https://open.spotify.com/track/4iaSz388a4iRMNRJZSClVG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 3:03 |
@@ -77,10 +77,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 67 | [I Never Had Control](https://open.spotify.com/track/77Gsx3dSqTa4mk2lhUZ6bQ) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [I Never Had Control](https://open.spotify.com/album/0OgL3UYzJqDx6bwSumJXme) | 3:00 |
 | 68 | [alright \(feat\. The Kid LAROI\)](https://open.spotify.com/track/1uQ5oCjZvQsMZaBFAdkSuF) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [EKKSTACY](https://open.spotify.com/album/5kBHoINYa2WwRaOK3vA7LC) | 2:09 |
 | 69 | [All I Need](https://open.spotify.com/track/0zfzw3G2UtqSTU0n9RsoJV) | [The Blinders](https://open.spotify.com/artist/3Z8Y3Ek99rukRa1Hdo14GE) | [Beholder](https://open.spotify.com/album/6U8qhQ6rctGIbYAlzS4Z3O) | 5:11 |
-| 70 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
+| 70 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 71 | [Stray](https://open.spotify.com/track/7ekWlDymyDnzmqoNDBGjck) | [Boys of Fall](https://open.spotify.com/artist/0ILEjQuglCTYQkTrKGQvj5) | [Stray](https://open.spotify.com/album/0OSZuAeBp0lUDblgxwErDM) | 3:09 |
 | 72 | [缸](https://open.spotify.com/track/2OL3D6q6Qs1PY0NV3u4dNu) | [No Party For Cao Dong](https://open.spotify.com/artist/3HXSUfI76zVZk71UMAeVfp) | [瓦合](https://open.spotify.com/album/4jG9BnjtTMttg9E3sfg1B8) | 3:06 |
-| 73 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
+| 73 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 74 | [SPECIALZ](https://open.spotify.com/track/5oQpH1uuZte4axR411rIlN) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [THE GREATEST UNKNOWN](https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr) | 3:53 |
 | 75 | [Tea On The Kettle](https://open.spotify.com/track/60nHhF2dqeYxbqyZr4X59o) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Playing Favorites](https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq) | 2:36 |
 | 76 | [Dark Matter](https://open.spotify.com/track/0HLRccMV34ON7T0hH1qEVn) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/23OiEvMGO1kNntkCon2ODF) | 3:31 |
@@ -88,12 +88,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYXBm3qy96SP.md) - [plain]
 | 78 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |
 | 79 | [BAD INFLUENCE](https://open.spotify.com/track/2Zb0EFTUJPE75ga3EJGaTI) | [Fuller](https://open.spotify.com/artist/6u0sR7YTLPNf5CdyBg3ZE1) | [BAD INFLUENCE](https://open.spotify.com/album/2LFQ1ci8QLwO4EVLqDgrja) | 2:46 |
 | 80 | [War](https://open.spotify.com/track/1ED1SD4TRK5NprtJ837Eaa) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Tear Me to Pieces](https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge) | 2:54 |
-| 81 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
-| 82 | [ROCKSTAR](https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [ROCKSTAR](https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl) | 3:14 |
+| 81 | [ROCKSTAR](https://open.spotify.com/track/5jhY1n1cTKSxx8lEujMcAS) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [ROCKSTAR](https://open.spotify.com/album/3vCjG6V4zutlCWvVPQFzbl) | 3:14 |
+| 82 | [Mustang](https://open.spotify.com/track/5y1kheWw8d3DHl8bv5aEE8) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Mustang](https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW) | 3:14 |
 | 83 | [Collide](https://open.spotify.com/track/7wDVVWvsjPL2tKvcbOlJHK) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Collide](https://open.spotify.com/album/7szVhLSeh3tWpRF6ZDozOd) | 4:03 |
 | 84 | [Bubblegum](https://open.spotify.com/track/7oEQMrBcT9kvJF1mJpk5IP) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Bubblegum](https://open.spotify.com/album/6EIC2a6khsh1h1DfG8WlBW) | 4:39 |
-| 85 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
-| 86 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 |
+| 85 | [Let It Burn](https://open.spotify.com/track/5OKlj1PEpzA4g0JSljysE9) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let It Burn](https://open.spotify.com/album/7n4ITaoKpCiI1DxyuOfJNZ) | 3:26 |
+| 86 | [Superstar](https://open.spotify.com/track/7Ew5us0FuyUZZ4p6jRP2r3) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [Superstar](https://open.spotify.com/album/1qFrExdXI9pjXU30XulYae) | 3:13 |
 | 87 | [Diving in After You](https://open.spotify.com/track/3EDpOGFvsriOrCQ9P8DJbj) | [Caiola](https://open.spotify.com/artist/2wtnLqsyJndM1rASXsxltV) | [Diving in After You](https://open.spotify.com/album/4IMHZKSN6dXybcaaw7Wzzm) | 3:00 |
 | 88 | [Neon Pill](https://open.spotify.com/track/4kTHDmH15ubreezeDqRHXc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Neon Pill](https://open.spotify.com/album/0wXH96NWr3scCMVuVuAkt1) | 3:21 |
 | 89 | [Atom Bomb](https://open.spotify.com/track/5XUyGdZCo0BN2lTRa4oL2m) | [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Atom Bomb](https://open.spotify.com/album/4sQazS0PXlz8PBKtvz64UL) | 2:53 |

@@ -1,6 +1,6 @@
 {
   "description": "You can dance or chill.",
-  "num_followers": 49056,
+  "num_followers": 49069,
   "original_name": "Dance Chill",
   "owner": {
     "name": "Spotify",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Wake Me Up",
-        "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
-      },
-      "artists": [
-        {
-          "name": "ARTO",
-          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
-        }
-      ],
-      "duration_ms": 165853,
-      "name": "Wake Me Up",
-      "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Shatterproof (Sebastian Davidson Remix)",
         "url": "https://open.spotify.com/album/74weVpLq86UNh1LlZjrcmu"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 166693,
       "name": "Shatterproof - Sebastian Davidson Remix",
       "url": "https://open.spotify.com/track/3jkyGmk58RSeyTnhHDam7v"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Wake Me Up",
+        "url": "https://open.spotify.com/album/72jI12qAnYJjWj7DWdDlIz"
+      },
+      "artists": [
+        {
+          "name": "ARTO",
+          "url": "https://open.spotify.com/artist/3T70Dxzh4RhkD3jPvkRLxn"
+        }
+      ],
+      "duration_ms": 165853,
+      "name": "Wake Me Up",
+      "url": "https://open.spotify.com/track/20AtESSjtFjlJzthw4hoK5"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Down from this High",
-        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
-      },
-      "artists": [
-        {
-          "name": "k\u00e1nji",
-          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
-        },
-        {
-          "name": "N\u00d8TALUVA",
-          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
-        },
-        {
-          "name": "CLGN",
-          "url": "https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9"
-        }
-      ],
-      "duration_ms": 115297,
-      "name": "Down from this High",
-      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Rooftop",
         "url": "https://open.spotify.com/album/2dxviQ3pceDaEjeVasmMFL"
       },
@@ -1131,6 +1107,30 @@
       "duration_ms": 126147,
       "name": "Nightcall",
       "url": "https://open.spotify.com/track/5UVnC9VooGhAOn4zGNi8Uy"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Down from this High",
+        "url": "https://open.spotify.com/album/4E0VQF4tkbv44VgE57gsXo"
+      },
+      "artists": [
+        {
+          "name": "k\u00e1nji",
+          "url": "https://open.spotify.com/artist/1IDGlUuHLvSiyzn3CZwh5U"
+        },
+        {
+          "name": "N\u00d8TALUVA",
+          "url": "https://open.spotify.com/artist/55NFqO9vW37u5QmUUzRpId"
+        },
+        {
+          "name": "CLGN",
+          "url": "https://open.spotify.com/artist/0i4UreWPyWBNpKCQd0dme9"
+        }
+      ],
+      "duration_ms": 115297,
+      "name": "Down from this High",
+      "url": "https://open.spotify.com/track/36DsWaTvP6quCM4Ibxv2u6"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Chasing Daydreams",
-        "url": "https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw"
-      },
-      "artists": [
-        {
-          "name": "DJ Licious",
-          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
-        },
-        {
-          "name": "PollyAnna",
-          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Chasing Daydreams",
-      "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Say Goodbye",
         "url": "https://open.spotify.com/album/5pS942I4W6bfRUcCnSRkho"
       },
@@ -1519,6 +1499,26 @@
       "duration_ms": 156375,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/7bCQA4jNsMewYrumV75Jkk"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Chasing Daydreams",
+        "url": "https://open.spotify.com/album/3Q1SershhxnM6HmiZy9bPw"
+      },
+      "artists": [
+        {
+          "name": "DJ Licious",
+          "url": "https://open.spotify.com/artist/30SUNrTLW7OZeDALH3sWzH"
+        },
+        {
+          "name": "PollyAnna",
+          "url": "https://open.spotify.com/artist/3mRSi79NwnlKaOH8vFxBVL"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Chasing Daydreams",
+      "url": "https://open.spotify.com/track/45VICFveHN4B9Rigyh9WA1"
     },
     {
       "added_at": "2024-04-11 22:00:00",

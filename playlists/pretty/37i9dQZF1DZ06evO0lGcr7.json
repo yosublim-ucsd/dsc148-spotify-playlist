@@ -1,12 +1,12 @@
 {
   "description": "This is mxmtoon. The essential tracks, all in one playlist.",
-  "num_followers": 46450,
+  "num_followers": 46442,
   "original_name": "This Is mxmtoon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGYxNTMyMjU1YjJkODQ4MTZlZDMwZTA0ZmI2NWUzODI1",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDljZDQyODliMTkyZTM3MmVmN2VmMzJkYTg0MDRmZjQz",
   "tracks": [
     {
       "added_at": null,
@@ -279,8 +279,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 196440,
-      "name": "bon iver",
-      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
+      "duration_ms": 156120,
+      "name": "seasonal depression",
+      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
     },
     {
       "added_at": null,
@@ -311,8 +311,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
       },
       "artists": [
         {
@@ -320,9 +320,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 156120,
-      "name": "seasonal depression",
-      "url": "https://open.spotify.com/track/0lmn3d7hn5MwQotOvPFKxy"
+      "duration_ms": 196440,
+      "name": "bon iver",
+      "url": "https://open.spotify.com/track/46O72y5JshKPtCI8ExSPGu"
     },
     {
       "added_at": null,
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 169413,
-      "name": "no faker",
-      "url": "https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt"
+      "duration_ms": 158200,
+      "name": "quiet motions",
+      "url": "https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa"
     },
     {
       "added_at": null,
@@ -632,15 +632,15 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 158200,
-      "name": "quiet motions",
-      "url": "https://open.spotify.com/track/5JLCvvRxzSogiBcL1Fl0Xa"
+      "duration_ms": 169413,
+      "name": "no faker",
+      "url": "https://open.spotify.com/track/0RyLL5AEo53smpSW9bENAt"
     },
     {
       "added_at": null,
       "album": {
-        "name": "the masquerade",
-        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
+        "name": "true colors (from Life is Strange)",
+        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
       },
       "artists": [
         {
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 197320,
-      "name": "suffice",
-      "url": "https://open.spotify.com/track/52zX2mU98vc7Vz9EzvRGMh"
+      "duration_ms": 169320,
+      "name": "every wave",
+      "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
     },
     {
       "added_at": null,
@@ -671,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "true colors (from Life is Strange)",
-        "url": "https://open.spotify.com/album/2fp5uZFWvVglQmgp1dBQ0h"
+        "name": "the masquerade",
+        "url": "https://open.spotify.com/album/7uao4FMrfz8x7lYFrOJb6C"
       },
       "artists": [
         {
@@ -680,9 +680,9 @@
           "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
         }
       ],
-      "duration_ms": 169320,
-      "name": "every wave",
-      "url": "https://open.spotify.com/track/0swoGl1Iu00peGZvqkjc8i"
+      "duration_ms": 197320,
+      "name": "suffice",
+      "url": "https://open.spotify.com/track/52zX2mU98vc7Vz9EzvRGMh"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 198640,
-      "name": "asking for a friend",
-      "url": "https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "don't play your card",
         "url": "https://open.spotify.com/album/1TYzvjRwqBNQIy48CDnWRi"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 221422,
       "name": "don't play your card",
       "url": "https://open.spotify.com/track/5wPqSe2jbb9z50bSccR8Vo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 198640,
+      "name": "asking for a friend",
+      "url": "https://open.spotify.com/track/40z4JrjH1eR4ALR90tnZv1"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "dusk",
-        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
-      },
-      "artists": [
-        {
-          "name": "mxmtoon",
-          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
-        }
-      ],
-      "duration_ms": 146626,
-      "name": "first",
-      "url": "https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "the sideline",
         "url": "https://open.spotify.com/album/6V0Ossl8Is6h2QBPLXRKfY"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 212506,
       "name": "the sideline",
       "url": "https://open.spotify.com/track/1KqtqSDSN2TCmXS4kP32bw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "dusk",
+        "url": "https://open.spotify.com/album/1GEoF1i1vxlstUnr2jPeFp"
+      },
+      "artists": [
+        {
+          "name": "mxmtoon",
+          "url": "https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1"
+        }
+      ],
+      "duration_ms": 146626,
+      "name": "first",
+      "url": "https://open.spotify.com/track/26evQTTVOSgM8yuPm3clND"
     }
   ],
   "unique_name": "This Is mxmtoon",

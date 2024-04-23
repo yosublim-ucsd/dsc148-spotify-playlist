@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,165 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,151 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 17 | [tired of california](https://open.spotify.com/track/02xRKYZ1jY4B6utPa59qSf) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [tired of california](https://open.spotify.com/album/3PQnyFFBb15Po24KfIDO8Q) | 3:10 |
 | 18 | [lonely bitch](https://open.spotify.com/track/6IaOyzYlT5809ASyUKzDPq) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [lonely bitch](https://open.spotify.com/album/63SAV7dDaGuXCiorabPaze) | 2:55 |
 | 19 | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/track/4GvPlSOKfN7aXEuGW8zKUx) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [GOSSIP \(feat\. Tom Morello\)](https://open.spotify.com/album/6kHJE5xnpA6zncKOD70bS8) | 2:48 |
-| 20 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 |
-| 21 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
+| 20 | [FELL IN LOVE](https://open.spotify.com/track/0rc6gtN1L7i0TacdfxhiND) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [FELL IN LOVE](https://open.spotify.com/album/3inphIxOlFnDL3CD3wkMe6) | 2:18 |
+| 21 | [Eu Nunca Fui Embora](https://open.spotify.com/track/14CmAgvaO309e1erSWnRsJ) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Eu Nunca Fui Embora](https://open.spotify.com/album/3waAqG5OQMuzBRZgGYG82h) | 3:05 |
 | 22 | [MALVADONA](https://open.spotify.com/track/3V1XdOJVcvtupbYLzOaulm) | [O Grilo](https://open.spotify.com/artist/22KEpOwThQ5q1DGochfayO), [MC Bin Laden](https://open.spotify.com/artist/2PC0CLpUsoEQPNIZKg2ZX0), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU) | [MALVADONA](https://open.spotify.com/album/7BgO5sEJpQIjrrAwxqUKUM) | 3:24 |
 | 23 | [Canoa](https://open.spotify.com/track/2LneA7MOWuowIRaga0eO3t) | [kamaitachi](https://open.spotify.com/artist/1ISc8zhrqxd5WrJMkMMLSm), [Lagum](https://open.spotify.com/artist/5D56dZmhE9DgT01XixdHiD) | [Canoa](https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D) | 2:57 |
 | 24 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 64 | [FORA DE SI](https://open.spotify.com/track/55Glu5AJDiVpUOLmxaTFoc) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt) | [FORA DE SI](https://open.spotify.com/album/7xeqEfqU6k9VIbm9v9HD17) | 2:22 |
 | 65 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
 | 66 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
-| 67 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
-| 68 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
+| 67 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
+| 68 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
 | 69 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
 | 70 | [Deixa Estar](https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Foi Tudo Aqui](https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd) | 3:09 |
 | 71 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |

@@ -1,6 +1,6 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 60710,
+  "num_followers": 60748,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
@@ -251,22 +251,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Definitive Collection",
-        "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
-      },
-      "artists": [
-        {
-          "name": "J.J. Cale",
-          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
-        }
-      ],
-      "duration_ms": 263960,
-      "name": "Midnight In Memphis",
-      "url": "https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "At Fillmore East",
         "url": "https://open.spotify.com/album/0Y5Wlv2OJKaW0uDJ5HnUfy"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 275303,
       "name": "Done Somebody Wrong - Live At The Fillmore East, March 1971",
       "url": "https://open.spotify.com/track/0WDsLvL9DKjj3qjed4IBa0"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Definitive Collection",
+        "url": "https://open.spotify.com/album/0SNxW2btAb8QBETOF43oqA"
+      },
+      "artists": [
+        {
+          "name": "J.J. Cale",
+          "url": "https://open.spotify.com/artist/06nsZ3qSOYZ2hPVIMcr1IN"
+        }
+      ],
+      "duration_ms": 263960,
+      "name": "Midnight In Memphis",
+      "url": "https://open.spotify.com/track/2OXDdCck0bMDIUCpaIMBJS"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Neon Sounds",
         "url": "https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 247013,
       "name": "Hey! You Know You Wanna!",
       "url": "https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -939,6 +939,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 175733,
       "name": "Just Like I Treat You - Single Version",
       "url": "https://open.spotify.com/track/4rFIhtPEMIL63bc8mNWUrO"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
-        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
-      },
-      "artists": [
-        {
-          "name": "Bobby \"Blue\" Bland",
-          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
-        }
-      ],
-      "duration_ms": 157800,
-      "name": "Don't Want No Woman",
-      "url": "https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "No Mercy In This Land (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6iwWWapZi9KtLsdfoGG3X4"
       },
@@ -1091,18 +1075,18 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+        "name": "I Pity The Fool: The Duke Recordings, Vol. One",
+        "url": "https://open.spotify.com/album/58DNpB9P4aUKPtaTiZmjK6"
       },
       "artists": [
         {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+          "name": "Bobby \"Blue\" Bland",
+          "url": "https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj"
         }
       ],
-      "duration_ms": 173040,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
+      "duration_ms": 157800,
+      "name": "Don't Want No Woman",
+      "url": "https://open.spotify.com/track/4wf3I828IPvlbEGw7IZ3Ic"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1119,6 +1103,22 @@
       "duration_ms": 232200,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
-        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
-      },
-      "artists": [
-        {
-          "name": "T-Bone Walker",
-          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
-        }
-      ],
-      "duration_ms": 171746,
-      "name": "Stormy Monday Blues - Remastered 2022",
-      "url": "https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Calling All Blues - The Chief, Profile & USA Recordings 1957-1963",
         "url": "https://open.spotify.com/album/3WqFy7VvZvKmyFRGgAp6WZ"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 135866,
       "name": "Messin' With The Kid",
       "url": "https://open.spotify.com/track/0PIaEqgCwnWf3Qi8UI8zWP"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
+        "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
+      },
+      "artists": [
+        {
+          "name": "T-Bone Walker",
+          "url": "https://open.spotify.com/artist/6nPKmEbQmR8jGZEm7ArOFX"
+        }
+      ],
+      "duration_ms": 171746,
+      "name": "Stormy Monday Blues - Remastered 2022",
+      "url": "https://open.spotify.com/track/0E5L3ZvZD3cGCesbYuAtnY"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Juke Joint Chapel",
-        "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
-      },
-      "artists": [
-        {
-          "name": "Charlie Musselwhite",
-          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
-        }
-      ],
-      "duration_ms": 460640,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "I'm Slippin' In (Mono Version)",
         "url": "https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 173164,
       "name": "I'm Slippin' In",
       "url": "https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Juke Joint Chapel",
+        "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
+      },
+      "artists": [
+        {
+          "name": "Charlie Musselwhite",
+          "url": "https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc"
+        }
+      ],
+      "duration_ms": 460640,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Fat Man in the Bathtub (Live at The Rainbow, London, England, 8/2/77)",
-        "url": "https://open.spotify.com/album/5wG3OiBqX45j3xvIMwq6a7"
-      },
-      "artists": [
-        {
-          "name": "Little Feat",
-          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
-        }
-      ],
-      "duration_ms": 304466,
-      "name": "Fat Man in the Bathtub (Live at The Rainbow, London, England, 8/2/77)",
-      "url": "https://open.spotify.com/track/70HkPi6r1kKd2qBCn4dmsL"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Hound Dog On a Chain",
         "url": "https://open.spotify.com/album/2sqPeDIMh2NroqCEU0DTto"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 201640,
       "name": "Hound Dog On a Chain",
       "url": "https://open.spotify.com/track/7cqji2mGT2RZLt8MdpH0Eb"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Fat Man in the Bathtub (Live at The Rainbow, London, England, 8/2/77)",
+        "url": "https://open.spotify.com/album/5wG3OiBqX45j3xvIMwq6a7"
+      },
+      "artists": [
+        {
+          "name": "Little Feat",
+          "url": "https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S"
+        }
+      ],
+      "duration_ms": 304466,
+      "name": "Fat Man in the Bathtub (Live at The Rainbow, London, England, 8/2/77)",
+      "url": "https://open.spotify.com/track/70HkPi6r1kKd2qBCn4dmsL"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Somebody Save Me",
-        "url": "https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 217361,
-      "name": "Time to Get Movin'",
-      "url": "https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 141493,
       "name": "I Got the Walkin' Blues",
       "url": "https://open.spotify.com/track/4r57hl0xZ4re7wldHUBvOq"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Somebody Save Me",
+        "url": "https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 217361,
+      "name": "Time to Get Movin'",
+      "url": "https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2111,22 +2111,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Just As Gone",
-        "url": "https://open.spotify.com/album/6RZhnzYqtpDr5dZpgqMUvh"
-      },
-      "artists": [
-        {
-          "name": "Tony Holiday",
-          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
-        }
-      ],
-      "duration_ms": 148933,
-      "name": "Just As Gone",
-      "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Sweet Like Sugar",
         "url": "https://open.spotify.com/album/0IP5xdy2rkJ7wZE5mNw51y"
       },
@@ -2139,6 +2123,22 @@
       "duration_ms": 173984,
       "name": "Sweet Like Sugar",
       "url": "https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Just As Gone",
+        "url": "https://open.spotify.com/album/6RZhnzYqtpDr5dZpgqMUvh"
+      },
+      "artists": [
+        {
+          "name": "Tony Holiday",
+          "url": "https://open.spotify.com/artist/3D0wC1c48o3U0nsAcVPJLv"
+        }
+      ],
+      "duration_ms": 148933,
+      "name": "Just As Gone",
+      "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"
     },
     {
       "added_at": "2023-11-24 19:21:59",

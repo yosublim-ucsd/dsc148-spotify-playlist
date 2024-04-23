@@ -8514,7 +8514,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 151391,
       "name": "Left Behind",
       "url": "https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm"
@@ -17432,6 +17432,24 @@
       "duration_ms": 260739,
       "name": "Wind Pose",
       "url": "https://open.spotify.com/track/3DJJolFxxcCpwAawEPCSUO"
+    },
+    {
+      "album": {
+        "name": "Wind Runner",
+        "url": "https://open.spotify.com/album/4yxndJO9vyjopsDlms5E2n"
+      },
+      "artists": [
+        {
+          "name": "Douran",
+          "url": "https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280357,
+      "name": "Wind Runner",
+      "url": "https://open.spotify.com/track/6uobAqU4RKxlHkFJ7aH3XJ"
     },
     {
       "album": {

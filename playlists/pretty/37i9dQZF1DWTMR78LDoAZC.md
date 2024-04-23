@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,579 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,658 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 13 | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/track/6uL6HCOsEwvnmCX4cDf65g) | [corook](https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt), [Olivia Barton](https://open.spotify.com/artist/0S3L5s6PIqKBIu21j910N1) | [if i were a fish \(feat\. Olivia Barton\)](https://open.spotify.com/album/4FspuxJM0FCRvV4apMLMaI) | 2:21 |
 | 14 | [Leave It On The Dancefloor](https://open.spotify.com/track/30ae9cv36eD4Q6Zc8PVF8v) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Leave It On The Dancefloor](https://open.spotify.com/album/07Vt92F3DMX0GHMKSJ6A3o) | 2:55 |
 | 15 | [Eugene](https://open.spotify.com/track/0sT4slW2xWai3EwVSiuL9Y) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:43 |
-| 16 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 |
-| 17 | [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 |
+| 16 | [Juno](https://open.spotify.com/track/6OpU3cvY19M2hFxTbLKy5L) | [Choker](https://open.spotify.com/artist/5XQRfs0gXs30aWUn1Umves) | [Honeybloom](https://open.spotify.com/album/6CwBR2GHX84xyA8T95HTM3) | 3:51 |
+| 17 | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/track/4pmiEqiZKvQIJP7zquAzHg) | [Boyish](https://open.spotify.com/artist/6VgPyGeGO86DztjK7GCYT3), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Kill Your Pain \(with King Princess\)](https://open.spotify.com/album/3hP1YYnCmiBD9tnpA42MrA) | 2:46 |
 | 18 | [I Know A Place](https://open.spotify.com/track/0bPSRn4crnh5f1JhELPlyL) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U](https://open.spotify.com/album/0mfj2MrZptbPw7K5Wo4ikY) | 4:32 |
 | 19 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 |
 | 20 | [Races](https://open.spotify.com/track/7rH1YBai3Kq8glq8ya8Uo5) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [5K](https://open.spotify.com/album/4vlWZZVe7ZSKYmnyp6xiI8) | 2:13 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 69 | [Boom](https://open.spotify.com/track/4ePoI4pCJV9METwC3vXLT4) | [Martha Hill](https://open.spotify.com/artist/4Kc5DsSHbP83BQiY1btHjR) | [Boom](https://open.spotify.com/album/1U7pRYqBHJcFhr8oRqyVvL) | 3:11 |
 | 70 | [Plastic Envelope](https://open.spotify.com/track/7oud5ro5Y5yKS38JwYdYoy) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Plastic Envelope / Protect Him Always](https://open.spotify.com/album/7rmLFKfDkqSUmBOAfJUWTa) | 3:17 |
 | 71 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 |
-| 72 | [Ruby Off The Rails](https://open.spotify.com/track/0TaViAtX3IcIJ3Osa5Mofc) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Ruby Off The Rails](https://open.spotify.com/album/2S8Nzw6qzyQXwPFLJW4WSL) | 3:23 |
-| 73 | [Rockstar](https://open.spotify.com/track/5MErJ4WyrDRZvu7HloRNKr) | [Maple St.](https://open.spotify.com/artist/4gGRM0ctqeTWqer59nW0S9) | [Rockstar](https://open.spotify.com/album/5ro6fuWkVRLbMSEAdQBNy9) | 3:32 |
+| 72 | [Rockstar](https://open.spotify.com/track/5MErJ4WyrDRZvu7HloRNKr) | [Maple St.](https://open.spotify.com/artist/4gGRM0ctqeTWqer59nW0S9) | [Rockstar](https://open.spotify.com/album/5ro6fuWkVRLbMSEAdQBNy9) | 3:32 |
+| 73 | [Ruby Off The Rails](https://open.spotify.com/track/0TaViAtX3IcIJ3Osa5Mofc) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Ruby Off The Rails](https://open.spotify.com/album/2S8Nzw6qzyQXwPFLJW4WSL) | 3:23 |
 | 74 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 |
 | 75 | [Man in Your Eyes](https://open.spotify.com/track/2YkfUvBYoCQXYJN5hE2Oi8) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Multi Adolescence](https://open.spotify.com/album/5Q7BRGEFzlIlEjiBzqWxNz) | 2:28 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Walter Esaú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,363 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,357 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 35 | [SENCILLO](https://open.spotify.com/track/5knUczKxRmqga38xt3Dpx6) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [SENCILLO](https://open.spotify.com/album/2mGzOvYjy6sMqUelE2advD) | 3:27 |
 | 36 | [No Sabía](https://open.spotify.com/track/7pk6N0rE7NcfDYryeqsAHn) | [Daniel, Me Estás Matando](https://open.spotify.com/artist/51yyeVxyvecgePAWXmeLUE), [Niño de Elche](https://open.spotify.com/artist/5IbUz6BcOu6IVY512oxavP) | [No Sabía](https://open.spotify.com/album/2gOm3N82lznLwNw58asTBL) | 3:05 |
 | 37 | [Milagro y Desastre](https://open.spotify.com/track/05dd1UuDnxJzJNOkYgjAPf) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Milagro y Desastre](https://open.spotify.com/album/24QEcWNmuCzYB7dcb1nUzl) | 4:05 |
-| 38 | [Más Que Ella](https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Santiago En La Guitarra](https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV) | [Más Que Ella](https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e) | 3:15 |
-| 39 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:26 |
+| 38 | [De Verdad](https://open.spotify.com/track/1afwnLVsqusPl2cAUQ94ky) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [De Verdad](https://open.spotify.com/album/3yMBrg5Xa9WdumtUJlE1gW) | 3:26 |
+| 39 | [Más Que Ella](https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc) | [Tufic](https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV), [Santiago En La Guitarra](https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV) | [Más Que Ella](https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e) | 3:15 |
 | 40 | [Mi Sueño](https://open.spotify.com/track/5KEVe54PKR5Imu2ovBm1CY) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Mi Sueño](https://open.spotify.com/album/0E94vI4EfOVH9HVnmhyafU) | 2:42 |
 | 41 | [Nunca Te Olvido](https://open.spotify.com/track/3XXZerYu2j34Z7eUh56F6K) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH), [Lulú Bulos](https://open.spotify.com/artist/3GnE3KJ3V1YO5IhindQrkj) | [Byebye Sayonara, Nunca Sabrás Que Esto Fue para Ti](https://open.spotify.com/album/5Uv6SEehbntf84qXBZyT56) | 3:51 |
 | 42 | [azul](https://open.spotify.com/track/0KqWGI9OozmFKkHAIRdQ27) | [Marco Mares](https://open.spotify.com/artist/5Eg5ZoZgXAa1Eit48sxoKQ), [Vacación](https://open.spotify.com/artist/0VDRX95OX96cR7q15oaXgd) | [azul](https://open.spotify.com/album/4OapkPqaM7mbksJL8WjinK) | 2:45 |
@@ -68,12 +68,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 58 | [Te Rendiste en Mi](https://open.spotify.com/track/0avJUBhRYnqhqDWb9kBCy6) | [Anthrés](https://open.spotify.com/artist/69euPppXM1JP7UYXzKBvi4) | [Te Rendiste en Mi](https://open.spotify.com/album/4KnN1SFJS4nOuyJrq76IAK) | 2:28 |
 | 59 | [Llegas Tú](https://open.spotify.com/track/6hTueX70hZWte9EIZT8gVY) | [Charlie Rodd](https://open.spotify.com/artist/2vylKAxeoJ2dAwIi9ck762) | [Llegas Tú](https://open.spotify.com/album/1FpQMUoPBbW919ow0vVqA9) | 3:17 |
 | 60 | [Sobre el Mar](https://open.spotify.com/track/3T9jOyviuZ0JoX3dfBKE0m) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L), [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Sobre el Mar](https://open.spotify.com/album/4ss0ZG3vjtuYtvbM1fgab0) | 3:47 |
-| 61 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
-| 62 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
-| 63 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
+| 61 | [mejor me voy](https://open.spotify.com/track/7A57VR1nMMqRXP0BDw8JUG) | [EVÍC](https://open.spotify.com/artist/4VrtzTmhlJ4NxpNLGEOYsz) | [mejor me voy](https://open.spotify.com/album/2sFJkOdy6a4nA68qu3cGld) | 3:17 |
+| 62 | [Tabú](https://open.spotify.com/track/2pLkuaMACGAuRvuu159qwB) | [Me Dicen Jos](https://open.spotify.com/artist/36HdCwthOIRbl977xy0ymV) | [Tabú](https://open.spotify.com/album/5TEkVvvh3W9gTvtcgwmdvx) | 3:30 |
+| 63 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
 | 64 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
-| 65 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
-| 66 | [Bolero Surrealista](https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Surrealista](https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a) | 3:54 |
+| 65 | [Bolero Surrealista](https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Surrealista](https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a) | 3:54 |
+| 66 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
 | 67 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
 | 68 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
 | 69 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 71 | [Amanecer](https://open.spotify.com/track/5TQwSAq0BAU9DWpKmHmI9F) | [Los Americanos](https://open.spotify.com/artist/4Q0wQsRzWYhbAXIKQN6LSw) | [Amanecer](https://open.spotify.com/album/5XX0iRSDLzElMVY2EcDThW) | 4:05 |
 | 72 | [Dime](https://open.spotify.com/track/4nVXw2k8sRREEK4w4akSXd) | [Nicoletta Spinelli](https://open.spotify.com/artist/69hYMQ2gjsvpxbOwUNzwLj) | [Al Amor](https://open.spotify.com/album/1vefYbawyvYoFEzvw8kVUB) | 3:28 |
 | 73 | [Nos Dijimos Adiós](https://open.spotify.com/track/4DEa05v9flZt5Q009QucTU) | [Paola Decanini](https://open.spotify.com/artist/17yUbbjExrUX4RrV7fqkNE) | [Nos Dijimos Adiós](https://open.spotify.com/album/2AQqArbCTwT5LEAD01IXHe) | 3:42 |
-| 74 | [SIN TI](https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [SIN TI](https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG) | 2:48 |
-| 75 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
+| 74 | [La Lista](https://open.spotify.com/track/1cZPSSzSWzdwBv6ZuvCcVi) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Boleros que me dictó el gallo](https://open.spotify.com/album/5ecBNG2qHClZ2YdfbBfisX) | 4:15 |
+| 75 | [SIN TI](https://open.spotify.com/track/2Bvi1KTSvX2OlfUBbOhu1e) | [Costa de Ámbar](https://open.spotify.com/artist/4K41ddEQfjQ0XGZPA6ErMg) | [SIN TI](https://open.spotify.com/album/1Ze1iSoCDbhaRMqfuRnoMG) | 2:48 |
 | 76 | [Repetir](https://open.spotify.com/track/4TlpJDThWiOD0KJz0snvD7) | [La Isla Centeno](https://open.spotify.com/artist/7EnLmrL4jTZKjeseaZyA0L) | [Repetir](https://open.spotify.com/album/2hN53yrLB2x6xcHwPiHTd5) | 2:43 |
 | 77 | [Antes de Partir \- Cap.1](https://open.spotify.com/track/4IqmLOM19rzF1WeOTwK2ND) | [Erick Mendoza](https://open.spotify.com/artist/4a3ZMZGCMmCEAFnRdUTdw4) | [Antes de Partir \- Cap.1](https://open.spotify.com/album/3yBJgpGmpOIQ79oBEbaNdm) | 3:31 |
 | 78 | [La Balada de Sarah Lynn](https://open.spotify.com/track/358ITOTwU2zByvL2YftgGn) | [Un León Marinero](https://open.spotify.com/artist/3r55sOwTNOxG0GIM3VAyE7) | [La Balada de Sarah Lynn](https://open.spotify.com/album/04SGJp6OGTuWtAycY4oOtY) | 2:34 |

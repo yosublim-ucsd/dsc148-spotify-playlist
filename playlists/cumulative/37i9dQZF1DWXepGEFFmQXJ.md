@@ -4,7 +4,7 @@
 
 > The cream of today's Country crop\. Cover: Y.O.G.A
 
-608 songs - 1 day 9 hr 24 min
+609 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [3 Feet Tall](https://open.spotify.com/track/2gwrfZzOjAinobFoOiy1T2) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [3 Feet Tall](https://open.spotify.com/album/4nh0KuO11MpP06u2P165QJ) | 3:42 | 2023-11-30 |  |
 | [5 Foot 9](https://open.spotify.com/track/6AqwH2Y9FJwhUE2dCSkw1u) | [Tyler Hubbard](https://open.spotify.com/artist/3BEV5FcxOtkQJ7lLRKMh3V) | [5 Foot 9](https://open.spotify.com/album/5CTNA7y4WYhLcCd8ijsnRr) | 3:09 | 2022-05-26 | 2022-10-28 |
 | [5 Leaf Clover](https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [5 Leaf Clover](https://open.spotify.com/album/6Aa81tDuPFATzb61ZQNTmM) | 3:31 | 2023-03-16 | 2023-08-10 |
+| [A Bar Song \(Tipsy\)](https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [A Bar Song \(Tipsy\)](https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ) | 2:51 | 2024-04-22 |  |
 | [A Boy That's Into Trucks](https://open.spotify.com/track/4EG8V97vcIWo6PbNcPTdHb) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [A Boy That's Into Trucks](https://open.spotify.com/album/28wWwYIM2g1A407gF1iRar) | 3:25 | 2023-06-08 | 2023-08-18 |
 | [A Heart Don't Break Like That](https://open.spotify.com/track/2V7KxZ0HTzRVqKkQFOawNO) | [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Bastian Baker](https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC) | [A Heart Don't Break Like That](https://open.spotify.com/album/0DCDKUtWSJc3KgIG0JjcwT) | 2:59 | 2022-03-17 | 2022-08-12 |
 | [A Little Love Will Fix You Up](https://open.spotify.com/track/55cp9h1BUgjvwDG4v4swHe) | [The Long and Short Of It](https://open.spotify.com/artist/78GEEWDfGY6HjdDG8CLiiI) | [Midnight Choir](https://open.spotify.com/album/0nBWf4xjmKnwmZKZkibL8B) | 2:52 | 2022-08-05 | 2022-10-28 |
@@ -145,7 +146,7 @@
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-30 | 2022-06-24 |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-14 | 2022-06-03 |
 | [Down the Road](https://open.spotify.com/track/1l1Ox60fjW0go6YcT2YlF1) | [Jade Gibson](https://open.spotify.com/artist/6WySchWeh56OiZ7Fxzu7Aq) | [Down the Road](https://open.spotify.com/album/7bHANBcNtY6NuvVVMDf8zc) | 3:06 | 2024-04-18 |  |
-| [Dream Baby](https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Dream Baby](https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V) | 3:37 | 2024-03-21 |  |
+| [Dream Baby](https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ) | [Taylor Moss](https://open.spotify.com/artist/6kk3eFuZoE4Lq7dD03Ehkj) | [Dream Baby](https://open.spotify.com/album/3IwClZfwpNZyHpbaS38D7V) | 3:37 | 2024-03-21 | 2024-04-23 |
 | [Dress](https://open.spotify.com/track/4GRvesPS6gPU8AV2RUgECk) | [Mason & Julez](https://open.spotify.com/artist/7ixzwZCFEILN04Sc8SgHkB) | [Dress](https://open.spotify.com/album/7sYU3TwTLUFudBlbnWWMM4) | 3:11 | 2023-11-09 | 2024-02-16 |
 | [Drink Along Song](https://open.spotify.com/track/0EKtrPckzmWUQgVQpLd61k) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups) | [Drink Along Song](https://open.spotify.com/album/5r840J3ihnRPTn2XShDJyy) | 2:48 | 2021-12-30 | 2022-04-01 |
 | [Drink Along Song](https://open.spotify.com/track/2BBbFB5XlySql9TliA0bsV) | [Gord Bamford](https://open.spotify.com/artist/1w9VjfHGE5qPLJQy3dKups), [The Wolfe Brothers](https://open.spotify.com/artist/1McMRetlMqavXFC8TCVfma) | [Drink Along Song](https://open.spotify.com/album/3dYhC4VoJB2ytJxZfcuilM) | 2:56 | 2022-03-31 | 2022-06-24 |

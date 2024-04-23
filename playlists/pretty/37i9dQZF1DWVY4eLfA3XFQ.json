@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring John Summit. 50% techno, 50% house",
-  "num_followers": 617219,
+  "num_followers": 617321,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1309,26 +1309,6 @@
       "url": "https://open.spotify.com/track/3FrlcqYxS1A3W7pCGAHai6"
     },
     {
-      "added_at": "2023-12-08 05:00:00",
-      "album": {
-        "name": "Levitate",
-        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
-      },
-      "artists": [
-        {
-          "name": "Sonny Fodera",
-          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
-        },
-        {
-          "name": "Marten H\u00f8rger",
-          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Levitate",
-      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "Lady (Hear Me Tonight)",
@@ -1347,6 +1327,26 @@
       "duration_ms": 134880,
       "name": "Lady (Hear Me Tonight)",
       "url": "https://open.spotify.com/track/0Jag248wCds9vbWJkIorce"
+    },
+    {
+      "added_at": "2023-12-08 05:00:00",
+      "album": {
+        "name": "Levitate",
+        "url": "https://open.spotify.com/album/730xOvYxbM6hsmbHlDsHbr"
+      },
+      "artists": [
+        {
+          "name": "Sonny Fodera",
+          "url": "https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP"
+        },
+        {
+          "name": "Marten H\u00f8rger",
+          "url": "https://open.spotify.com/artist/0EdUwJSqkMmsH6Agg3G8Ls"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Levitate",
+      "url": "https://open.spotify.com/track/18o6r7yB7rxFoLV5rcrWTa"
     },
     {
       "added_at": "2023-12-22 05:00:00",
@@ -1577,22 +1577,6 @@
       "url": "https://open.spotify.com/track/2h9uC8vTvEdUHLNHJ06Eqb"
     },
     {
-      "added_at": "2024-03-08 05:01:00",
-      "album": {
-        "name": "While The Record Spins",
-        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187840,
-      "name": "While The Record Spins",
-      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
-    },
-    {
       "added_at": "2023-12-08 05:00:00",
       "album": {
         "name": "Moonlight",
@@ -1611,6 +1595,22 @@
       "duration_ms": 337000,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/39JDdezxhax7XyjkRpM6Ds"
+    },
+    {
+      "added_at": "2024-03-08 05:01:00",
+      "album": {
+        "name": "While The Record Spins",
+        "url": "https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187840,
+      "name": "While The Record Spins",
+      "url": "https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a"
     },
     {
       "added_at": "2023-11-24 05:00:00",
@@ -1673,6 +1673,22 @@
       "url": "https://open.spotify.com/track/2SCkpXTuQOvXySjlz9O1JH"
     },
     {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "One Pill",
+        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
+      },
+      "artists": [
+        {
+          "name": "VNSSA",
+          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
+        }
+      ],
+      "duration_ms": 217946,
+      "name": "One Pill",
+      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
+    },
+    {
       "added_at": "2024-01-12 05:00:00",
       "album": {
         "name": "Ready To Go (My Addiction)",
@@ -1691,22 +1707,6 @@
       "duration_ms": 144390,
       "name": "Ready To Go (My Addiction)",
       "url": "https://open.spotify.com/track/38WaKuEd7hiWFsT0kbCwFn"
-    },
-    {
-      "added_at": "2023-10-27 04:01:00",
-      "album": {
-        "name": "One Pill",
-        "url": "https://open.spotify.com/album/7EeBTWpH1hiiL8ttysUTio"
-      },
-      "artists": [
-        {
-          "name": "VNSSA",
-          "url": "https://open.spotify.com/artist/6fjbZ7zQBYEy3kvB5JL5PM"
-        }
-      ],
-      "duration_ms": 217946,
-      "name": "One Pill",
-      "url": "https://open.spotify.com/track/3C74wo9oewRgcvMj14O7Xu"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -1773,6 +1773,22 @@
       "url": "https://open.spotify.com/track/6UF4Bj3prR1bNu8IW8zpzh"
     },
     {
+      "added_at": "2024-01-26 05:00:00",
+      "album": {
+        "name": "No Guest List",
+        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
+      },
+      "artists": [
+        {
+          "name": "San Pacho",
+          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "No Guest List",
+      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Don't Waste My Time (feat. Sophie Powers)",
@@ -1795,38 +1811,6 @@
       "duration_ms": 129373,
       "name": "Don't Waste My Time (feat. Sophie Powers)",
       "url": "https://open.spotify.com/track/0a8zTjSM9Fqam9aGQIpTil"
-    },
-    {
-      "added_at": "2024-01-26 05:00:00",
-      "album": {
-        "name": "No Guest List",
-        "url": "https://open.spotify.com/album/6ca7Pb96E9hZh8QFCANfHs"
-      },
-      "artists": [
-        {
-          "name": "San Pacho",
-          "url": "https://open.spotify.com/artist/5jBerZvTAajwYvdxt3UhgU"
-        }
-      ],
-      "duration_ms": 158906,
-      "name": "No Guest List",
-      "url": "https://open.spotify.com/track/3LKg0CXVZx5ToWLLK7ugHE"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Shimmy Shake",
-        "url": "https://open.spotify.com/album/5jveu2wYXFqubWHzsb5bG0"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        }
-      ],
-      "duration_ms": 152195,
-      "name": "Shimmy Shake",
-      "url": "https://open.spotify.com/track/7w0JYXCfmjrnb8hhppxhMK"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -1887,6 +1871,22 @@
       "duration_ms": 136615,
       "name": "Stolen Dub",
       "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Shimmy Shake",
+        "url": "https://open.spotify.com/album/5jveu2wYXFqubWHzsb5bG0"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        }
+      ],
+      "duration_ms": 152195,
+      "name": "Shimmy Shake",
+      "url": "https://open.spotify.com/track/7w0JYXCfmjrnb8hhppxhMK"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1989,22 +1989,6 @@
       "url": "https://open.spotify.com/track/0XT1NN2f0Zb3vjW4Z46Bmi"
     },
     {
-      "added_at": "2023-11-24 05:00:00",
-      "album": {
-        "name": "Calling",
-        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
-      },
-      "artists": [
-        {
-          "name": "Ellis Moss",
-          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
-        }
-      ],
-      "duration_ms": 196615,
-      "name": "Calling",
-      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
-    },
-    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Hypnotic",
@@ -2021,24 +2005,20 @@
       "url": "https://open.spotify.com/track/1TCJjzvQn6zaIzckTZiabG"
     },
     {
-      "added_at": "2023-10-27 04:01:00",
+      "added_at": "2023-11-24 05:00:00",
       "album": {
-        "name": "Dancing At The Disco",
-        "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
+        "name": "Calling",
+        "url": "https://open.spotify.com/album/5dl10Bi93YCk2BvuFrCc5r"
       },
       "artists": [
         {
-          "name": "J. Worra",
-          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
-        },
-        {
-          "name": "Cherry Tooth",
-          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+          "name": "Ellis Moss",
+          "url": "https://open.spotify.com/artist/0XOfJ1JJXwMVJG26ZZj3UQ"
         }
       ],
-      "duration_ms": 194423,
-      "name": "Dancing At The Disco",
-      "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
+      "duration_ms": 196615,
+      "name": "Calling",
+      "url": "https://open.spotify.com/track/66RXdotm5DaizBKalAq3iV"
     },
     {
       "added_at": "2024-02-23 05:00:00",
@@ -2059,6 +2039,26 @@
       "duration_ms": 148200,
       "name": "Where My Girls At?",
       "url": "https://open.spotify.com/track/4cWja9OGm0MPB5B6sd2SHz"
+    },
+    {
+      "added_at": "2023-10-27 04:01:00",
+      "album": {
+        "name": "Dancing At The Disco",
+        "url": "https://open.spotify.com/album/2zRVSA2HEm7bVR5R9EjJgt"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Cherry Tooth",
+          "url": "https://open.spotify.com/artist/3neju4j8u80IBvGawKA3dv"
+        }
+      ],
+      "duration_ms": 194423,
+      "name": "Dancing At The Disco",
+      "url": "https://open.spotify.com/track/0nAYPzFbosQZ0a60zf88aN"
     },
     {
       "added_at": "2024-02-12 16:50:06",
@@ -2169,6 +2169,26 @@
       "url": "https://open.spotify.com/track/2iBuBZcnnuDBV9qVcLCRh4"
     },
     {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Da Feeling",
+        "url": "https://open.spotify.com/album/0cNGG4vhhA9ZL2gdmlbvYm"
+      },
+      "artists": [
+        {
+          "name": "Jengi",
+          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+        },
+        {
+          "name": "GFDM",
+          "url": "https://open.spotify.com/artist/6AIKpm3NV3gJ4UrvrMCJIj"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "Da Feeling",
+      "url": "https://open.spotify.com/track/3yAZRpEbliOJUnZH3478xG"
+    },
+    {
       "added_at": "2023-11-17 05:00:00",
       "album": {
         "name": "Better Recognize",
@@ -2191,22 +2211,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
-        "name": "Da Feeling",
-        "url": "https://open.spotify.com/album/0cNGG4vhhA9ZL2gdmlbvYm"
+        "name": "Wildstyle",
+        "url": "https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL"
       },
       "artists": [
         {
-          "name": "Jengi",
-          "url": "https://open.spotify.com/artist/4lgrPvofm0IT605L9OrOTN"
+          "name": "Kaysin",
+          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
         },
         {
-          "name": "GFDM",
-          "url": "https://open.spotify.com/artist/6AIKpm3NV3gJ4UrvrMCJIj"
+          "name": "DOUG!",
+          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
         }
       ],
-      "duration_ms": 201904,
-      "name": "Da Feeling",
-      "url": "https://open.spotify.com/track/3yAZRpEbliOJUnZH3478xG"
+      "duration_ms": 170625,
+      "name": "Wildstyle",
+      "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -2227,26 +2247,6 @@
       "duration_ms": 164115,
       "name": "Sneaky Link (feat. Barney Bones)",
       "url": "https://open.spotify.com/track/3zULmVC0d9EUr3pofDgZGJ"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Wildstyle",
-        "url": "https://open.spotify.com/album/1vqZbevQkLOvgu8wHGGeQL"
-      },
-      "artists": [
-        {
-          "name": "Kaysin",
-          "url": "https://open.spotify.com/artist/10mZhaOPNKtQfg46DptrBU"
-        },
-        {
-          "name": "DOUG!",
-          "url": "https://open.spotify.com/artist/4G8g4gL4SfJzPJBcyRz7GS"
-        }
-      ],
-      "duration_ms": 170625,
-      "name": "Wildstyle",
-      "url": "https://open.spotify.com/track/64Wl8uuA3p0uHhYlSQFAeu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -2301,26 +2301,6 @@
       "url": "https://open.spotify.com/track/1p53sKGwHI0HuAVg9NWGNy"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Acid Rain",
-        "url": "https://open.spotify.com/album/0SWKBsotIgXTd3ekDpRUdC"
-      },
-      "artists": [
-        {
-          "name": "Noizu",
-          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
-        },
-        {
-          "name": "Madge",
-          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
-        }
-      ],
-      "duration_ms": 180952,
-      "name": "Acid Rain",
-      "url": "https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK"
-    },
-    {
       "added_at": "2023-10-27 04:01:00",
       "album": {
         "name": "PLAY SOME RECORDS",
@@ -2339,6 +2319,26 @@
       "duration_ms": 168983,
       "name": "PLAY SOME RECORDS",
       "url": "https://open.spotify.com/track/2GkY6fWVFsOi8AjZmnpQwa"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Acid Rain",
+        "url": "https://open.spotify.com/album/0SWKBsotIgXTd3ekDpRUdC"
+      },
+      "artists": [
+        {
+          "name": "Noizu",
+          "url": "https://open.spotify.com/artist/3VRyybsQu0MDG0F2LBxnv7"
+        },
+        {
+          "name": "Madge",
+          "url": "https://open.spotify.com/artist/2StukZYqvy5IZmVestMrWo"
+        }
+      ],
+      "duration_ms": 180952,
+      "name": "Acid Rain",
+      "url": "https://open.spotify.com/track/3xW5rSnwELfR2VnkOpngqK"
     },
     {
       "added_at": "2024-02-16 05:00:00",

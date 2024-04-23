@@ -2,7 +2,7 @@
 
 ### [PURO SUCO DO BRASIL](https://open.spotify.com/playlist/37i9dQZF1DWUSHGSJhLype)
 
-> aqui tem sushi com feijoada hot dog com purê lasanha farofa açaí guardião slc\. Foto: Mc Jacaré, Luan Pereira
+> aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Mc Jacaré, Luan Pereira
 
 275 songs - 13 hr 0 min
 

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Danny Ocean. Los temas esenciales, todos en una lista.",
-  "num_followers": 238206,
+  "description": "This is Danny Ocean. The essential tracks, all in one playlist.",
+  "num_followers": 238308,
   "original_name": "This Is Danny Ocean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGI3Mjg3YjE4OWM2ZjMxMDcwYWMyMTUzMjgxY2RhYWU1",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGUzOTkyOGYwNjc5YTI2OWU1N2ZlNDJiZGQzMDY3ZDNl",
   "tracks": [
     {
       "added_at": null,
@@ -79,22 +79,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 215082,
-      "name": "Dembow",
-      "url": "https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Insomnio",
         "url": "https://open.spotify.com/album/2zwuaAuKxwrYX0MXSJQQmB"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 185546,
       "name": "Bailarina",
       "url": "https://open.spotify.com/track/3MTzCXM4r6yTOLhiuIaRfh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 215082,
+      "name": "Dembow",
+      "url": "https://open.spotify.com/track/30LBoQSk8gjcN0hWCWtdbF"
     },
     {
       "added_at": null,
@@ -151,22 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 155058,
-      "name": "Swing",
-      "url": "https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
         "url": "https://open.spotify.com/album/6TRoxZTx8HtZ2B3U7c1jVC"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 209905,
       "name": "Miedito o Qu\u00e9? (feat. KAROL G)",
       "url": "https://open.spotify.com/track/7MoZgM6AsQaZw14WnKopuy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 155058,
+      "name": "Swing",
+      "url": "https://open.spotify.com/track/4DbhxwlkhTbCTqlZptxmI6"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 194233,
-      "name": "Vuelve",
-      "url": "https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CARACAS EN EL 2000",
         "url": "https://open.spotify.com/album/3Sn2sIMx8CvcWSoDPvt0IV"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 227784,
       "name": "CARACAS EN EL 2000",
       "url": "https://open.spotify.com/track/4CUWxHauVJriW776t5lyCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 194233,
+      "name": "Vuelve",
+      "url": "https://open.spotify.com/track/30zRVzH3FUvbtqYwLvd5fc"
     },
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "54+1",
-        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 193435,
-      "name": "Cuando Me Acerco A Ti",
-      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amapolas (Remix)",
         "url": "https://open.spotify.com/album/1vgLiqD7LfGkuymUPdAB2U"
       },
@@ -335,6 +319,22 @@
       "duration_ms": 267338,
       "name": "Amapolas - Remix",
       "url": "https://open.spotify.com/track/44QxiGlmeSpF8boud04Rkc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "54+1",
+        "url": "https://open.spotify.com/album/3pHFjWCK7d5YLtEuFwfR5N"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 193435,
+      "name": "Cuando Me Acerco A Ti",
+      "url": "https://open.spotify.com/track/1Q4DK5GLldkubj5GtCzbs7"
     },
     {
       "added_at": null,
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medio Friends",
-        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 149834,
-      "name": "Medio friends",
-      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/2OXeXtTp8KR8TO21LbBIWP"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 187000,
       "name": "No Eres Tu Soy Yo (feat. Danny Ocean)",
       "url": "https://open.spotify.com/track/32MgTutHhEgjn25vyD2PRZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medio Friends",
+        "url": "https://open.spotify.com/album/2uPnyHbZyrpNtUB1g65oeX"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 149834,
+      "name": "Medio friends",
+      "url": "https://open.spotify.com/track/3fuZitmpwtM6clDeuEgaqn"
     },
     {
       "added_at": null,
@@ -659,42 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOMO",
-        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
-      },
-      "artists": [
-        {
-          "name": "Paula Cendejas",
-          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
-        },
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 169802,
-      "name": "cosquillas",
-      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "@dannocean",
-        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 148791,
-      "name": "Istanbul",
-      "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Me Controles",
         "url": "https://open.spotify.com/album/3XqaX2LpehvqTSehktQkhC"
       },
@@ -715,6 +679,42 @@
       "duration_ms": 162149,
       "name": "No Me Controles",
       "url": "https://open.spotify.com/track/4G83XIKqqzv9ofGZs47SmF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@dannocean",
+        "url": "https://open.spotify.com/album/21IzWBMtUfaOOfFx8CiR6I"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 148791,
+      "name": "Istanbul",
+      "url": "https://open.spotify.com/track/3gU9FbBKkLB23WvmSXpca2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOMO",
+        "url": "https://open.spotify.com/album/2wj8AHax9qryX210NBwu5Q"
+      },
+      "artists": [
+        {
+          "name": "Paula Cendejas",
+          "url": "https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC"
+        },
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 169802,
+      "name": "cosquillas",
+      "url": "https://open.spotify.com/track/5wX7RyoYLhUdTccRqyay42"
     },
     {
       "added_at": null,

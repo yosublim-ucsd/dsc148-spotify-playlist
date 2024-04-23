@@ -1,6 +1,6 @@
 {
   "description": "Rock en vivo de la A a la Z, de ayer, de hoy y de siempre... \u00a1Canten ustedes! Foto: Eruca Sativa & Marilina Bertoldi",
-  "num_followers": 110554,
+  "num_followers": 110524,
   "original_name": "Vivo de Rock",
   "owner": {
     "name": "Spotify",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
+        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
+        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
+      },
+      "artists": [
+        {
+          "name": "Los Fundamentalistas del Aire Acondicionado",
+          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
+        }
+      ],
+      "duration_ms": 383040,
+      "name": "Espejismo - En Vivo",
+      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
         "name": "Silencio (Ft. Fito P\u00e1ez) (En Vivo Teatro \u00d3pera)",
         "url": "https://open.spotify.com/album/2k5KhI4SGsscifqsHjiRpg"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 301830,
       "name": "Silencio (Ft. Fito P\u00e1ez) - En Vivo Teatro \u00d3pera",
       "url": "https://open.spotify.com/track/2Shj8NDwydmHtOpWgjbvS6"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
-        "name": "Los Fundamentalistas del Aire Acondicionado en Hurac\u00e1n (En Vivo)",
-        "url": "https://open.spotify.com/album/0HBXl0BoyqkfJmxjrLtnqL"
-      },
-      "artists": [
-        {
-          "name": "Los Fundamentalistas del Aire Acondicionado",
-          "url": "https://open.spotify.com/artist/1SKA2QwV2fwGgoMlx16FXO"
-        }
-      ],
-      "duration_ms": 383040,
-      "name": "Espejismo - En Vivo",
-      "url": "https://open.spotify.com/track/5tZIvOjdd8tFekjvd8u83O"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1055,30 +1055,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
-        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
-      },
-      "artists": [
-        {
-          "name": "Los Tipitos",
-          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
-        },
-        {
-          "name": "Alejandro Lerner",
-          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
-        },
-        {
-          "name": "Fabi\u00e1n Von Quintiero",
-          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
-        }
-      ],
-      "duration_ms": 298263,
-      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
-      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "De No Olvidar (En Vivo)",
         "url": "https://open.spotify.com/album/5Za1fHcJlmlMZ6Y68qBWoE"
       },
@@ -1127,6 +1103,22 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
+        "name": "Barek (En Vivo Luna Park)",
+        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
+      },
+      "artists": [
+        {
+          "name": "Cielo Razzo",
+          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+        }
+      ],
+      "duration_ms": 243253,
+      "name": "Barek - En Vivo Luna Park",
+      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
         "name": "Fuego (En Vivo Luna Park)",
         "url": "https://open.spotify.com/album/1V8ku6WhML2Z15eiLqIoHA"
       },
@@ -1143,18 +1135,26 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Barek (En Vivo Luna Park)",
-        "url": "https://open.spotify.com/album/4qYSyuSs6ErU3W62tstxo5"
+        "name": "Yendo de la Cama al Living (En Vivo Teatro \u00d3pera)",
+        "url": "https://open.spotify.com/album/3luYZNG2a6Y2qaKtEbZEzc"
       },
       "artists": [
         {
-          "name": "Cielo Razzo",
-          "url": "https://open.spotify.com/artist/7EgR8MOSpxSytMngVCVGEu"
+          "name": "Los Tipitos",
+          "url": "https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt"
+        },
+        {
+          "name": "Alejandro Lerner",
+          "url": "https://open.spotify.com/artist/6ESkuwldylZr39AIAPC63J"
+        },
+        {
+          "name": "Fabi\u00e1n Von Quintiero",
+          "url": "https://open.spotify.com/artist/5GUNQozsGa2d0JupBb99hG"
         }
       ],
-      "duration_ms": 243253,
-      "name": "Barek - En Vivo Luna Park",
-      "url": "https://open.spotify.com/track/3F6owj1sw7oPul8jedGkhT"
+      "duration_ms": 298263,
+      "name": "Yendo de la Cama al Living - En Vivo Teatro \u00d3pera",
+      "url": "https://open.spotify.com/track/08qqssgwcz5zN5L9ev8BkZ"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1299,22 +1299,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Razzmatazz (En directo)",
-        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 180885,
-      "name": "Me envenenaste - En directo Razzmatazz",
-      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
         "url": "https://open.spotify.com/album/66xb8pQPGVe9j2f2LeAH5x"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 268960,
       "name": "Cinco Siglos Igual (En Vivo Teatro Coliseo)",
       "url": "https://open.spotify.com/track/7BvZe1dKoDjB7cWaenTgkX"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Razzmatazz (En directo)",
+        "url": "https://open.spotify.com/album/0lhtRV9TKRZriNswVCca9q"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 180885,
+      "name": "Me envenenaste - En directo Razzmatazz",
+      "url": "https://open.spotify.com/track/1t3NbPBc8i2pQQnyneENrj"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1403,22 +1403,6 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Huellas Digitales (En Vivo)",
-        "url": "https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54"
-      },
-      "artists": [
-        {
-          "name": "Eruca Sativa",
-          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
-        }
-      ],
-      "duration_ms": 208946,
-      "name": "Para\u00edso en Retro - En Vivo",
-      "url": "https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR"
-    },
-    {
-      "added_at": "2024-04-18 21:14:50",
-      "album": {
         "name": "En Vivo en Chile Volumen 2",
         "url": "https://open.spotify.com/album/6FDXSzTmfZ1sVYf6D81HGv"
       },
@@ -1435,18 +1419,34 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Botella (En Vivo)",
-        "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
+        "name": "Ni Mierda (Vivo En Obras)",
+        "url": "https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs"
       },
       "artists": [
         {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+          "name": "La Perra Que Los Pari\u00f3",
+          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
         }
       ],
-      "duration_ms": 277875,
-      "name": "Botella - En Vivo",
-      "url": "https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne"
+      "duration_ms": 311014,
+      "name": "Ni Mierda - Vivo En Obras",
+      "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
+    },
+    {
+      "added_at": "2024-04-18 21:14:50",
+      "album": {
+        "name": "Huellas Digitales (En Vivo)",
+        "url": "https://open.spotify.com/album/61TR8ZaXw2iCrD4uxgex54"
+      },
+      "artists": [
+        {
+          "name": "Eruca Sativa",
+          "url": "https://open.spotify.com/artist/2RPNbhguRnI9uqahGYcUc6"
+        }
+      ],
+      "duration_ms": 208946,
+      "name": "Para\u00edso en Retro - En Vivo",
+      "url": "https://open.spotify.com/track/7rOWI8Z47Qx6VID1SgQ3AR"
     },
     {
       "added_at": "2024-04-18 21:14:50",
@@ -1467,18 +1467,18 @@
     {
       "added_at": "2024-04-18 21:14:50",
       "album": {
-        "name": "Ni Mierda (Vivo En Obras)",
-        "url": "https://open.spotify.com/album/7kzJtlZEgD8fLVuT2wgoVs"
+        "name": "Botella (En Vivo)",
+        "url": "https://open.spotify.com/album/1todV49PshzA1zQckYe0KR"
       },
       "artists": [
         {
-          "name": "La Perra Que Los Pari\u00f3",
-          "url": "https://open.spotify.com/artist/3sVVMPMbALoko1Iub9ADj7"
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
         }
       ],
-      "duration_ms": 311014,
-      "name": "Ni Mierda - Vivo En Obras",
-      "url": "https://open.spotify.com/track/5uNgDVyoegpIQcHu4Fto8h"
+      "duration_ms": 277875,
+      "name": "Botella - En Vivo",
+      "url": "https://open.spotify.com/track/08d1UDaHKgllnuTffTj9ne"
     },
     {
       "added_at": "2024-04-18 21:14:50",

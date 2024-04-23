@@ -4,7 +4,7 @@
 
 > Get\. It\. Done\. Focus\-enhancing piano music to keep you motivated during your study session.
 
-506 songs - 21 hr 39 min
+507 songs - 21 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Paintings](https://open.spotify.com/track/5ddcsw3fJkGjW67wjjtpu6) | [Esperanza](https://open.spotify.com/artist/24T5i2cT1QSUxliOi5KeJa) | [Paintings](https://open.spotify.com/album/3kwHT5PRLc3T1iHAln18Bi) | 2:35 | 2021-12-07 | 2024-04-04 |
 | [Paloma](https://open.spotify.com/track/0Ic0bvDJY7b0qLKvQoJ3kn) | [Ziva](https://open.spotify.com/artist/3w8cRlmbnCOmIcFqwNyN1S) | [Paloma](https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6) | 2:12 | 2022-12-22 |  |
 | [Partenza](https://open.spotify.com/track/2QnEeS0SxgJR9RrMGB2dnm) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Partenza](https://open.spotify.com/album/1acWCWktmQRrpvqNdnrib1) | 1:52 | 2022-07-19 | 2023-07-26 |
+| [Past](https://open.spotify.com/track/13iDwwDxbDCDhgqAKcGkaq) | [Muriël Bostdorp](https://open.spotify.com/artist/0X98pXmiqyxLXGiLjkj4rq) | [Past](https://open.spotify.com/album/7tG4d2Ol5jKEqmhzVN9tpi) | 2:26 | 2024-04-22 |  |
 | [Patina](https://open.spotify.com/track/3FjHvK6O7529qNnCqDEaFc) | [Jacob David](https://open.spotify.com/artist/2ClAWj3iKUlyddnvR6faUP), [Arvid Holst](https://open.spotify.com/artist/51QTBtxREzZTTSqmwmPgpl) | [Patina](https://open.spotify.com/album/03JOXrUPxpvaAsxJ4kTa4X) | 2:02 | 2024-03-19 |  |
 | [Patricia](https://open.spotify.com/track/1lDjAQOvZqzZhGND13qcev) | [Guillaume Poncelet](https://open.spotify.com/artist/1tchnux34dr1K8VevCDxPn) | [Patricia](https://open.spotify.com/album/5KFhOJ8UUxHrF5eVtGZaLN) | 2:56 | 2023-04-03 |  |
 | [Patterns](https://open.spotify.com/track/6ssrsr0MumEjM2CeYioYcU) | [Amira Bowden](https://open.spotify.com/artist/3KTNLgvfcSJP0V33bJuJNE) | [Patterns](https://open.spotify.com/album/6Bmr6r1RUZrMJKbZuRE8Gz) | 2:05 | 2022-05-06 | 2023-10-05 |

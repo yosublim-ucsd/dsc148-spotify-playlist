@@ -1,6 +1,6 @@
 {
   "description": "Timeless and smooth. Here are your favorite crooners. Cover: Nat King Cole. ",
-  "num_followers": 404187,
+  "num_followers": 404265,
   "original_name": "Crooner Classics",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,22 @@
     {
       "added_at": "2023-10-24 04:44:54",
       "album": {
+        "name": "The Anthology",
+        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
+      },
+      "artists": [
+        {
+          "name": "The Ink Spots",
+          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "We Three (My Echo, My Shadow, And Me)",
+      "url": "https://open.spotify.com/track/43a4zqUZL1vHH93EKBFkLj"
+    },
+    {
+      "added_at": "2023-10-24 04:44:54",
+      "album": {
         "name": "Sarah Vaughan's Golden Hits",
         "url": "https://open.spotify.com/album/6pZ5dSsfNRSuMV9RcMyfwU"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 194573,
       "name": "As Time Goes By",
       "url": "https://open.spotify.com/track/3lO4Z6BSp773vcovgYurHg"
-    },
-    {
-      "added_at": "2023-10-24 04:44:54",
-      "album": {
-        "name": "The Anthology",
-        "url": "https://open.spotify.com/album/5kP2AlLe5EsHEx6y3HpJjN"
-      },
-      "artists": [
-        {
-          "name": "The Ink Spots",
-          "url": "https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "We Three (My Echo, My Shadow, And Me)",
-      "url": "https://open.spotify.com/track/43a4zqUZL1vHH93EKBFkLj"
     },
     {
       "added_at": "2023-10-24 04:44:54",

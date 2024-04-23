@@ -1,6 +1,6 @@
 {
   "description": "\u65b0\u9032\u6c17\u92ed\u306e\u90a6\u30ed\u30c3\u30af\u30b5\u30a6\u30f3\u30c9\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002Cover: \u304b\u3089\u3042\u3052\u5f01\u5f53",
-  "num_followers": 12924,
+  "num_followers": 12938,
   "original_name": "\u9752\u6625\u3068\u4e00\u77ac",
   "owner": {
     "name": "Spotify",
@@ -1179,18 +1179,18 @@
     {
       "added_at": "2024-04-16 17:05:44",
       "album": {
-        "name": "\u5024\u5343\u91d1",
-        "url": "https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2"
+        "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
+        "url": "https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR"
       },
       "artists": [
         {
-          "name": "SUPER BEAVER",
-          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
+          "name": "\u30de\u30eb\u30b7\u30a3",
+          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
         }
       ],
-      "duration_ms": 286225,
-      "name": "\u5024\u5343\u91d1",
-      "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
+      "duration_ms": 215853,
+      "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
+      "url": "https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo"
     },
     {
       "added_at": "2024-04-16 17:05:44",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-04-16 17:05:44",
       "album": {
-        "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
-        "url": "https://open.spotify.com/album/0hszj3ElKlD0MYdcZg4vrR"
+        "name": "\u5024\u5343\u91d1",
+        "url": "https://open.spotify.com/album/3os5FZ32x5aQUF6C0PILq2"
       },
       "artists": [
         {
-          "name": "\u30de\u30eb\u30b7\u30a3",
-          "url": "https://open.spotify.com/artist/7oQ6zxSp4eQjvVkk9rGIDV"
+          "name": "SUPER BEAVER",
+          "url": "https://open.spotify.com/artist/0SMhG4gXGD4gzLMMz08cQU"
         }
       ],
-      "duration_ms": 215853,
-      "name": "\u30e9\u30ba\u30d9\u30ea\u30fc",
-      "url": "https://open.spotify.com/track/3JLpngLNxVRL6JLaBqqMpo"
+      "duration_ms": 286225,
+      "name": "\u5024\u5343\u91d1",
+      "url": "https://open.spotify.com/track/7mX0z3O3SpT6SFGLJAnNWy"
     },
     {
       "added_at": "2024-04-16 17:05:44",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-04-16 17:05:44",
       "album": {
-        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
-      },
-      "artists": [
-        {
-          "name": "Hitsujibungaku",
-          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
-        }
-      ],
-      "duration_ms": 228573,
-      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
-      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
-    },
-    {
-      "added_at": "2024-04-16 17:05:44",
-      "album": {
         "name": "\u4e00\u63c6",
         "url": "https://open.spotify.com/album/5ikYdBpLMYXadwfkJIPfje"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 193578,
       "name": "\u4e00\u63c6",
       "url": "https://open.spotify.com/track/0dVNJHo0xIt3uaCQDUsfve"
+    },
+    {
+      "added_at": "2024-04-16 17:05:44",
+      "album": {
+        "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+        "url": "https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "duration_ms": 228573,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH"
     },
     {
       "added_at": "2024-04-16 17:05:44",
@@ -1595,18 +1595,18 @@
     {
       "added_at": "2024-04-16 17:05:44",
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+        "name": "midori",
+        "url": "https://open.spotify.com/album/0F02EF6jnrk9JAZJ5kXaQd"
       },
       "artists": [
         {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+          "name": "FOMARE",
+          "url": "https://open.spotify.com/artist/615ixHXsfFwzxgw3sOPICH"
         }
       ],
-      "duration_ms": 212013,
-      "name": "FIVE",
-      "url": "https://open.spotify.com/track/22gPvcIwQOXDIxbZSxWuu7"
+      "duration_ms": 209120,
+      "name": "\u611b\u3059\u308b\u4eba",
+      "url": "https://open.spotify.com/track/6ccUHHRNdjR0Hj3Xz5S3U9"
     }
   ],
   "unique_name": "\u9752\u6625\u3068\u4e00\u77ac",

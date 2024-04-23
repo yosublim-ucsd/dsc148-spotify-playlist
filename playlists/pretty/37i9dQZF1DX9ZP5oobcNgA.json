@@ -1,6 +1,6 @@
 {
   "description": "Explore the essential works of Handel, including his Messiah, dozens of operas, oratorios, anthems, and instrumental favourites.",
-  "num_followers": 122844,
+  "num_followers": 122848,
   "original_name": "This Is Handel",
   "owner": {
     "name": "Spotify",
@@ -507,30 +507,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "Handel: Water Music/Sonatas etc.",
-        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Yehudi Menuhin",
-          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
-        },
-        {
-          "name": "Bath Festival Orchestra",
-          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
-        }
-      ],
-      "duration_ms": 121493,
-      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
-      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Organ Concertos, Op. 4",
         "url": "https://open.spotify.com/album/2pflqKce344roWZ9shdTiC"
       },
@@ -551,6 +527,30 @@
       "duration_ms": 434333,
       "name": "Organ Concertos, Op. 4, Concerto No. 6 in B-Flat Major, HWV 294: I. Andante allegro",
       "url": "https://open.spotify.com/track/2hRO0WN2Goxy4NWaQW58XB"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "Handel: Water Music/Sonatas etc.",
+        "url": "https://open.spotify.com/album/6w9Qr87wGmjXMrNDWbKQuG"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "Yehudi Menuhin",
+          "url": "https://open.spotify.com/artist/32i0ni9RO8Q7T7T7ZqkGU2"
+        },
+        {
+          "name": "Bath Festival Orchestra",
+          "url": "https://open.spotify.com/artist/4bBd0RemSH7hG24W6kFWry"
+        }
+      ],
+      "duration_ms": 121493,
+      "name": "Handel: Water Music, Suite No. 2 in D Major, HWV 349: III. Gigue",
+      "url": "https://open.spotify.com/track/38gibGVp2n7D0GQKoUTPRj"
     },
     {
       "added_at": "2022-06-28 08:56:25",
@@ -1571,34 +1571,6 @@
     {
       "added_at": "2022-06-28 08:56:25",
       "album": {
-        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
-        "url": "https://open.spotify.com/album/5gyztja7azlAeO3Lnra6pR"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "L\u00e1szl\u00f3 Czidra",
-          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
-        },
-        {
-          "name": "P\u00e1l Kelemen",
-          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
-        },
-        {
-          "name": "Zsuzsa Pertis",
-          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
-        }
-      ],
-      "duration_ms": 134800,
-      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
-      "url": "https://open.spotify.com/track/3SDqDOLou1woXz22uTauxC"
-    },
-    {
-      "added_at": "2022-06-28 08:56:25",
-      "album": {
         "name": "Handel: Gideon (Compiled and Arr. by J. C. Smith)",
         "url": "https://open.spotify.com/album/0RLMdqR1Pc7CNaw01NtaXx"
       },
@@ -1647,6 +1619,34 @@
       "duration_ms": 261040,
       "name": "Gideon, Pt. 3: Air. Let the Trumpet's Sound Inviting",
       "url": "https://open.spotify.com/track/16CYKG2vIIbN3Get4hqanl"
+    },
+    {
+      "added_at": "2022-06-28 08:56:25",
+      "album": {
+        "name": "HANDEL: Recorder Sonatas, Op. 1, Nos. 2, 4, 7 and 11",
+        "url": "https://open.spotify.com/album/5gyztja7azlAeO3Lnra6pR"
+      },
+      "artists": [
+        {
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
+        },
+        {
+          "name": "L\u00e1szl\u00f3 Czidra",
+          "url": "https://open.spotify.com/artist/4AOTuAm81DV2ElJF1yFMkA"
+        },
+        {
+          "name": "P\u00e1l Kelemen",
+          "url": "https://open.spotify.com/artist/2Vp6pBo6skj1xdAt8Sot2v"
+        },
+        {
+          "name": "Zsuzsa Pertis",
+          "url": "https://open.spotify.com/artist/6EoqRbLEP9xsmznf0BdYlC"
+        }
+      ],
+      "duration_ms": 134800,
+      "name": "Recorder Sonata in F Major, Op. 1 No. 11, HWV 369: I. Larghetto",
+      "url": "https://open.spotify.com/track/3SDqDOLou1woXz22uTauxC"
     },
     {
       "added_at": "2022-06-28 08:56:25",

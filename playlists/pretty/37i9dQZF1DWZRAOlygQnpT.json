@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ahi viene la plaga... por eso, avi\u00e9ntense todos a bailar!",
-  "num_followers": 86244,
+  "num_followers": 86278,
   "original_name": "Rock & Roll en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
-        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
+        "name": "Los Originales",
+        "url": "https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+          "name": "Los Bopper's",
+          "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
         }
       ],
-      "duration_ms": 156240,
-      "name": "Payasito (Ponchinello)",
-      "url": "https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL"
+      "duration_ms": 154506,
+      "name": "Colina azul - Bluberry Hill",
+      "url": "https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -491,18 +491,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Los Originales",
-        "url": "https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e"
+        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
+        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
       },
       "artists": [
         {
-          "name": "Los Bopper's",
-          "url": "https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE"
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
         }
       ],
-      "duration_ms": 154506,
-      "name": "Colina azul - Bluberry Hill",
-      "url": "https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8"
+      "duration_ms": 156240,
+      "name": "Payasito (Ponchinello)",
+      "url": "https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -731,18 +731,22 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Loco - Vintage Rock en Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
+        "name": "Se Habla Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/2lMuOCrNgc5ker7gde4dXB"
       },
       "artists": [
         {
-          "name": "Los Ovnis",
-          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        },
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
         }
       ],
-      "duration_ms": 164440,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC"
+      "duration_ms": 186733,
+      "name": "Rock De La C\u00e1rcel",
+      "url": "https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi"
     },
     {
       "added_at": "2020-04-17 21:51:59",
@@ -763,22 +767,18 @@
     {
       "added_at": "2020-04-17 21:51:59",
       "album": {
-        "name": "Se Habla Espa\u00f1ol",
-        "url": "https://open.spotify.com/album/2lMuOCrNgc5ker7gde4dXB"
+        "name": "Loco - Vintage Rock en Espa\u00f1ol",
+        "url": "https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO"
       },
       "artists": [
         {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        },
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+          "name": "Los Ovnis",
+          "url": "https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi"
         }
       ],
-      "duration_ms": 186733,
-      "name": "Rock De La C\u00e1rcel",
-      "url": "https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi"
+      "duration_ms": 164440,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC"
     },
     {
       "added_at": "2020-04-17 21:51:59",

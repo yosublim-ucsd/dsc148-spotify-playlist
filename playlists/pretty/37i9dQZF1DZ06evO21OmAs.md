@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 
 ### [This Is girl in red](https://open.spotify.com/playlist/37i9dQZF1DZ06evO21OmAs)
 
-> This Is girl in red\. Los temas esenciales, todos en una lista.
+> This is girl in red\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 249,236 likes - 33 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 249,258 likes - 33 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO21OmAs.md) - [plain]
 | 32 | [Stay \- Spotify Singles](https://open.spotify.com/track/2MLapVzHNgZit4tTGkfAcf) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Spotify Singles](https://open.spotify.com/album/6H1GSOFY2sL863KbEYUq5c) | 2:55 |
 | 33 | [something new](https://open.spotify.com/track/5HGZJeGaJsHHgKy95BAai0) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [MOOMINVALLEY 2 \(Official Soundtrack\)](https://open.spotify.com/album/2SuMYxHuybyoaBLSDkQ5Rc) | 3:25 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDEyMjIwOGI1ODZhYTc5MWY3MzY5YzJmNzgxMjVkMDIz`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGY1Y2VkMDcxNDdiY2I4NjUwYzM0Zjc1YjQ0MzgxMzgy`

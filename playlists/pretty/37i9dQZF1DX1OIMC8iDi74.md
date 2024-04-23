@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 
 > The best of electronic trap\. Cover: k?d
 
-[Spotify](https://open.spotify.com/user/spotify) - 887,606 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 887,195 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OIMC8iDi74.md) - [plain]
 | 84 | [Rainbow Funk](https://open.spotify.com/track/4VwXCvFS1ogjSWKgClcHwa) | [Ahee](https://open.spotify.com/artist/1gbDc1TANALgP8lLvO5UEf), [ProbCause](https://open.spotify.com/artist/1ZcfGrGrm9aHnUNVQz3sCY) | [Rainbow Funk](https://open.spotify.com/album/1eFn1sXC3rcCAoHPLlaaG1) | 2:40 |
 | 85 | [Feel It \(feat\. Tunji Ige\)](https://open.spotify.com/track/3Vad9kkHv0DZZ0ioJdRrYV) | [Good Times Ahead](https://open.spotify.com/artist/6M7RdR9ZP52h2mfNLmiHtU), [What So Not](https://open.spotify.com/artist/4AA8eXtzqh5ykxtafLaPOi), [Tunji Ige](https://open.spotify.com/artist/5fW1JQP4DfDyNqvYQ5m4Ju) | [Good Times Ahead](https://open.spotify.com/album/7D7gToSUwjOPdnpNdQHCKd) | 3:34 |
 | 86 | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/track/2rAB0mDHnaOnfvFmaWUx0j) | [Billy Gillies](https://open.spotify.com/artist/0kmovylAP20DMJhS3BE2CO), [Levity](https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [DNA \(Loving You\) \[feat\. Hannah Boleyn\] \[Levity Remix\]](https://open.spotify.com/album/4dKYCpl0dDy01Lw2msVJBU) | 2:56 |
-| 87 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
-| 88 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
+| 87 | [LOYAL](https://open.spotify.com/track/0XTC88XX9rerDucl82skTW) | [33 Below](https://open.spotify.com/artist/4tMIsBBR8M0PsorDf0mNEz), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [LOYAL](https://open.spotify.com/album/4pqpFCjg3Y5vi1SHCEFIMI) | 4:15 |
+| 88 | [Tokyo](https://open.spotify.com/track/0lqvcq1uZbeau5O0AOmj6g) | [Klinical](https://open.spotify.com/artist/7qMADlc8tXmh8bOx6bQAxB), [Spektiv](https://open.spotify.com/artist/1ILJ2noUbT5iGh3bzHGY3J) | [Tokyo](https://open.spotify.com/album/1ibBcUwUtIL0ewWMtX0w87) | 4:10 |
 | 89 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 |
 | 90 | [Breach](https://open.spotify.com/track/3vSYtWxpOfhp54VGGxCZrn) | [RL Grime](https://open.spotify.com/artist/5eIbEEQnDM8yuDVB0bimSP), [Juelz](https://open.spotify.com/artist/04p1jV00pBnrmh2rKl0jnT) | [Breach](https://open.spotify.com/album/5AHBWAHdJuIY5K6nIcHgJE) | 4:09 |
 | 91 | [DYSPHORIA](https://open.spotify.com/track/23DEUXkuHskvqvM1j5VrGa) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Holly](https://open.spotify.com/artist/65stAzefvkwLeulY8215Zo) | [DYSPHORIA](https://open.spotify.com/album/3Kb1pVUl5FlOTf55LkBZRe) | 2:37 |

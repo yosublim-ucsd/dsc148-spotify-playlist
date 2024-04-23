@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA">Prime Circle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,790 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,795 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,9 +19,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 9 | [Blue Eyes](https://open.spotify.com/track/7DirY6NZx5zbsNChNHUZNb) | [Springbok Nude Girls](https://open.spotify.com/artist/3hz6VscKnCkBeeeiy66Qzh) | [Surpass The Power](https://open.spotify.com/album/7hCunCzhFrtnlE24iOtQwY) | 3:53 |
 | 10 | [Hemel Op Die Platteland](https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [As Jy Met Vuur Speel Sal Jy Brand](https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM) | 2:39 |
 | 11 | [Kan Ek Met Jou Dans](https://open.spotify.com/track/0gpgcKD4j45TooC06HLMrx) | [Straatligkinders](https://open.spotify.com/artist/5UiwFnPps6GB50J7e8Q5GS) | [Bloeisels](https://open.spotify.com/album/21Wolo015jpmELBve2nf8E) | 3:22 |
-| 12 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
+| 12 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 |
 | 13 | [Africa](https://open.spotify.com/track/2TceGONzzKH5mskSzoTpfA) | [Wonderboom](https://open.spotify.com/artist/45Ahb3Z1t6yHM2F2gFrAtx) | [Rewind](https://open.spotify.com/album/3MWLY2HOD6zSdw7AQTDRzF) | 3:27 |
-| 14 | [Terapie Vir Nou](https://open.spotify.com/track/7K7JxiW7VcnJexqPaAY9Bd) | [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Terapie Vir Nou](https://open.spotify.com/album/2s7XUTruquG0eOrNIyqMQN) | 3:38 |
+| 14 | [Die Liedjie Oor Die Meisie \(Ek Wil Jou Hê\)](https://open.spotify.com/track/0MshehIqq1LGLiTrIawSo2) | [Glaskas](https://open.spotify.com/artist/3mbYAsXro0k8Rvi9GrMPPn) | [Revolusie, Romantiek, Ruk en Rol](https://open.spotify.com/album/528vOlag3lv4aOPia804bY) | 2:55 |
 | 15 | [Cloetesville](https://open.spotify.com/track/2f2zF9Gs0kdjsYT704zu81) | [Spoegwolf](https://open.spotify.com/artist/6o4TnAxiqaQfZMLl55NFdn) | [Lente](https://open.spotify.com/album/0npVagHg875j2gbr4CAvzS) | 2:59 |
 | 16 | [Better Days](https://open.spotify.com/track/3GOakZnkk9N8WoC520MInS) | [Prime Circle](https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB) | [Better Days](https://open.spotify.com/album/4tpduvbK0nh1H65MoZIrDt) | 3:28 |
 | 17 | [Against All Odds](https://open.spotify.com/track/4w2QqBnvtWdj4L7QIZxIQW) | [aKING](https://open.spotify.com/artist/7sDD7J6PTmxXfYgIYZpBf5) | [Against All Odds](https://open.spotify.com/album/6mfTMtCYLUXnW7OVkjkOnu) | 2:55 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 40 | [Ooaa](https://open.spotify.com/track/0l6dcnH2fpmWeh2wvk03S8) | [Boo!](https://open.spotify.com/artist/39dPrvOQpekY24oOeKGYlq) | [Pynapple](https://open.spotify.com/album/6X7KUMT70zeYdRYxYgqirF) | 3:16 |
 | 41 | [Picture Perfect](https://open.spotify.com/track/2RZlgvQasR4X3gglKV4vuP) | [Perez](https://open.spotify.com/artist/4G30SsYmThGzZPCCyDN1bH) | [Picture Perfect](https://open.spotify.com/album/60Hh4NmsMVF1BriCanVolb) | 4:05 |
 | 42 | [My Hart Is 'n Trein](https://open.spotify.com/track/0UBxkP3u0lvRJRgpL7ew7N) | [VOLK](https://open.spotify.com/artist/4FvIuLbPat5vSttuzmM7VE) | [My Hart Is 'n Trein](https://open.spotify.com/album/3rVVd7WGdBVSKmQco86Y2J) | 3:44 |
-| 43 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
-| 44 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
+| 43 | [Skree](https://open.spotify.com/track/0nrnO5EK6NLHUqfAesvjwV) | [Klopjag](https://open.spotify.com/artist/7CKSkmBkcnuX9L4wJYpSY9) | [Album Drie](https://open.spotify.com/album/1DtlSqSSRjfucIMrtoKsLx) | 3:31 |
+| 44 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
 | 45 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
 | 46 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 |
 | 47 | [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 |

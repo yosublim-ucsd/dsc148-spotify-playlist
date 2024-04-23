@@ -4,22 +4,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels, featuring the performing artists of Fresh Finds Live in Chicago\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,143 likes - 113 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,848 likes - 113 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stacy's Chips](https://open.spotify.com/track/3vKvc3L1fq3mtAcJV8zdCd) | [Lexa Gates](https://open.spotify.com/artist/5D70nuec9omH4CXmCGXGTu) | [Stacy's Chips](https://open.spotify.com/album/5HVQN6oGyAjq4iVoH8WwqO) | 2:48 |
-| 2 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 |
-| 3 | [Where We're Going](https://open.spotify.com/track/1UbED5y1JGKAeFWUAgZhoG) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3) | [Where We're Going To Drown](https://open.spotify.com/album/4XQIohYg8fIFVFFx2qIbHM) | 2:54 |
-| 4 | [Live Or Die](https://open.spotify.com/track/78gfrqVsMKemZp6alMCuRt) | [Brooke Daye](https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib) | [Live Or Die](https://open.spotify.com/album/6O5lkLmqRerbbdZ0GCzvBx) | 2:31 |
-| 5 | [He's Dancing So Well \(I'm Better\)](https://open.spotify.com/track/0JnV1e4sPig5UFzrO8S6iG) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [He's Dancing So Well \(I'm Better\)](https://open.spotify.com/album/7J738KJmycLtjRfN2Uk9FQ) | 3:00 |
-| 6 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
+| 2 | [Live Or Die](https://open.spotify.com/track/78gfrqVsMKemZp6alMCuRt) | [Brooke Daye](https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib) | [Live Or Die](https://open.spotify.com/album/6O5lkLmqRerbbdZ0GCzvBx) | 2:31 |
+| 3 | [Tired Boy](https://open.spotify.com/track/1eaRpdsgUxH5AY0W9W3Mcc) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Tired Boy](https://open.spotify.com/album/0kuLoUuLTKV4kd59C3iXoW) | 4:30 |
+| 4 | [He's Dancing So Well \(I'm Better\)](https://open.spotify.com/track/0JnV1e4sPig5UFzrO8S6iG) | [Asbjørn](https://open.spotify.com/artist/47rOF45mpciP0KFUlBqKUX) | [He's Dancing So Well \(I'm Better\)](https://open.spotify.com/album/7J738KJmycLtjRfN2Uk9FQ) | 3:00 |
+| 5 | [she wants me too](https://open.spotify.com/track/2wFMROal7vNCCBBUpUAe3E) | [wilt](https://open.spotify.com/artist/2VnYxiqJFYjBlP3RWRr9Fy) | [wilt](https://open.spotify.com/album/3kmDFMtB0dcW12p62brgKG) | 2:41 |
+| 6 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 |
 | 7 | [tikipo](https://open.spotify.com/track/7xeya8K6eFSBNzP0YMh9lF) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [tikipo](https://open.spotify.com/album/7MEYeRzKog2M6yrYTMlDXF) | 3:19 |
-| 8 | [Angel Blessings](https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Angel Blessings](https://open.spotify.com/album/5hA6fSTq97D1oVy31h5nFF) | 3:20 |
-| 9 | [Nada ni nadie](https://open.spotify.com/track/4t1qjH92i2MlnWRNirdbow) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Nada ni nadie](https://open.spotify.com/album/3ykoo2K7GuaNFpt4uqFmuz) | 3:32 |
-| 10 | [Now That It's Over](https://open.spotify.com/track/4AefwTbKGbKzpxyYS8AHB3) | [Homer](https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb), [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Now That It's Over](https://open.spotify.com/album/5RNcCztY1A0NrmT4VUjVd6) | 3:04 |
-| 11 | [SNA!](https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SNA!](https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw) | 2:08 |
-| 12 | [good wind](https://open.spotify.com/track/6X0V8H3CWWV0ahbRfdGUP8) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [amen!](https://open.spotify.com/album/38wnPxWVlBO3FgpSoUtSh4) | 2:35 |
+| 8 | [Nada ni nadie](https://open.spotify.com/track/4t1qjH92i2MlnWRNirdbow) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Nada ni nadie](https://open.spotify.com/album/3ykoo2K7GuaNFpt4uqFmuz) | 3:32 |
+| 9 | [Now That It's Over](https://open.spotify.com/track/4AefwTbKGbKzpxyYS8AHB3) | [Homer](https://open.spotify.com/artist/7ANZyzPbMcdINl4ZP6wmyb), [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Now That It's Over](https://open.spotify.com/album/5RNcCztY1A0NrmT4VUjVd6) | 3:04 |
+| 10 | [SNA!](https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SNA!](https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw) | 2:08 |
+| 11 | [good wind](https://open.spotify.com/track/6X0V8H3CWWV0ahbRfdGUP8) | [hemlock](https://open.spotify.com/artist/2urQCjxehNpSQWZW83h1L2) | [amen!](https://open.spotify.com/album/38wnPxWVlBO3FgpSoUtSh4) | 2:35 |
+| 12 | [Where We're Going](https://open.spotify.com/track/1UbED5y1JGKAeFWUAgZhoG) | [Gabbie](https://open.spotify.com/artist/27Q1yLLsM3wAerZDpUsgU3) | [Where We're Going To Drown](https://open.spotify.com/album/4XQIohYg8fIFVFFx2qIbHM) | 2:54 |
 | 13 | [COOL RIFF!](https://open.spotify.com/track/3HAmeofcy7zbiv4jykoOIN) | [Jackson August](https://open.spotify.com/artist/1fEYP7fDawtTMpV3IHzZRN) | [COOL RIFF!](https://open.spotify.com/album/7z9fZybutFwMMrTuCOzZFY) | 2:59 |
 | 14 | [Love Is A Trap](https://open.spotify.com/track/1C8oiysXkAycdB30Kd22Et) | [Mopiano](https://open.spotify.com/artist/7JbagUbgzNXbNk9XvFKiKJ) | [Love Is A Trap](https://open.spotify.com/album/60z4drZtyVUax17b1P9mUm) | 3:24 |
 | 15 | [MOTHER ATE](https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw) | [Jane Bell](https://open.spotify.com/artist/77bNmKoq4fuzSlRB8KDCKk) | [MOTHER ATE](https://open.spotify.com/album/17SKda70MgNi3mViFcweHp) | 3:21 |
@@ -122,4 +122,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 112 | [Burnt Away](https://open.spotify.com/track/11A0LdoGtVWaCLv6qQQcNf) | [Liam Brock](https://open.spotify.com/artist/2SXklwipRmgoEraPulXVdE) | [Burnt Away](https://open.spotify.com/album/036uHAJf0bP6jfkEo9Hlfe) | 2:58 |
 | 113 | [Land of the Living](https://open.spotify.com/track/53SeSYTpjW2jBzDdrqEk9D) | [Jackie Lee](https://open.spotify.com/artist/25MYbTsDB9aQ70l6VqNKOR) | [Land of the Living](https://open.spotify.com/album/5TFXCJSrunPQO9xqrzQvMq) | 3:26 |
 
-Snapshot ID: `MTcxMzQ2MjgxNCwwMDAwMDAwMDIzNWI1ZmJkY2ExODk3Y2FhYzRjOGVjYjM0NzAyMDE2`
+Snapshot ID: `MTcxMzgwMzQxMywwMDAwMDAwMDMyMmU5M2UwYzVjY2QwYzMzMGE5MGZhZjMzYjc0ZGVj`

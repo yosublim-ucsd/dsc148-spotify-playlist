@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,049 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,060 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 56 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 57 | [MY RIDE](https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50) | [JASMINE](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [MY RIDE](https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2) | 3:06 |
 | 58 | [CANTSAY](https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [VELVETMOTH](https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx) | 3:16 |
-| 59 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 |
-| 60 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 |
+| 59 | [Dawn Call](https://open.spotify.com/track/1e9JncQXdjM4DtFpyZrlU7) | [BB](https://open.spotify.com/artist/4AsWfslaatLcNfRiK0RXX6) | [Dawn Call](https://open.spotify.com/album/49P8OaQVu9YVHQcUoLLmoX) | 3:13 |
+| 60 | [You’re mine, You!](https://open.spotify.com/track/3qoBzjth2rDTVXlzhL2lTd) | [Shin Youme](https://open.spotify.com/artist/4h4EHI7XsI5L2kTIPqUXPn) | [You're mine, You!](https://open.spotify.com/album/1bBFrkrEpLG0RhiglXbPLT) | 3:52 |
 
 Snapshot ID: `MTcwOTg3NTk3NiwwMDAwMDAwMGI1MjIyYzlkZmQ0Y2I5NjcwOGRjNzgzZGVmY2NmZGMx`

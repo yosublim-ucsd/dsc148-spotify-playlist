@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Fantasma. Los temas esenciales, todos en una lista.",
-  "num_followers": 428148,
+  "description": "This is El Fantasma. The essential tracks, all in one playlist.",
+  "num_followers": 427919,
   "original_name": "This Is El Fantasma",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDdkZjMxMTBkNmYzNWRiYzNiMjZiODgyNDFkMmE1MTcx",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDM5OGJjZjgxYTQ4ODBkOGE5YzUwZmI0YjA2OTU3ZjI1",
   "tracks": [
     {
       "added_at": null,
@@ -175,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En El Camino",
-        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 198814,
-      "name": "El Nano - Versi\u00f3n Estudio",
-      "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
       },
@@ -211,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa' los Recuerdos, Vol. 2",
-        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+        "name": "En El Camino",
+        "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
       "artists": [
         {
@@ -220,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 104746,
-      "name": "Ser\u00e9 un Borracho",
-      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
+      "duration_ms": 198814,
+      "name": "El Nano - Versi\u00f3n Estudio",
+      "url": "https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu"
     },
     {
       "added_at": null,
@@ -239,6 +223,22 @@
       "duration_ms": 234895,
       "name": "Agarra Tu Camino",
       "url": "https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pa' los Recuerdos, Vol. 2",
+        "url": "https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 104746,
+      "name": "Ser\u00e9 un Borracho",
+      "url": "https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k"
     },
     {
       "added_at": null,
@@ -303,6 +303,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 159613,
+      "name": "Dolor y Amor",
+      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "UVV Vol. 8 (En Vivo)",
         "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 194000,
       "name": "Fuerza - En Vivo",
       "url": "https://open.spotify.com/track/6H3ZjrXcbYP4C0mQtdKFS2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dolor y Amor",
-        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 159613,
-      "name": "Dolor y Amor",
-      "url": "https://open.spotify.com/track/7JF3vH3qtE35wKztVK7398"
     },
     {
       "added_at": null,
@@ -467,26 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV",
-        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 160625,
-      "name": "Nemesio",
-      "url": "https://open.spotify.com/track/2zOIGIlHpkN32dvnj19MHP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Chavo",
         "url": "https://open.spotify.com/album/5f3DQfWQRC3he3Cx6sFUGb"
       },
@@ -503,6 +483,26 @@
       "duration_ms": 226101,
       "name": "El Chavo",
       "url": "https://open.spotify.com/track/4BBQZ0tRBZPlP5ornyo3di"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV",
+        "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 160625,
+      "name": "Nemesio",
+      "url": "https://open.spotify.com/track/2zOIGIlHpkN32dvnj19MHP"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Encantadora",
-        "url": "https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 144512,
-      "name": "Encantadora",
-      "url": "https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Zool\u00f3gico (En Vivo)",
         "url": "https://open.spotify.com/album/37RVFNtvyofJTE5Ui9YkFC"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 222270,
       "name": "El Exitoso",
       "url": "https://open.spotify.com/track/0TaPRY3f4Iw1zhZ8aedti2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Encantadora",
+        "url": "https://open.spotify.com/album/0Cun0bbB8jz6QqyshWUBPe"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 144512,
+      "name": "Encantadora",
+      "url": "https://open.spotify.com/track/15gKM0h7lqe2vZsBAFA5L2"
     },
     {
       "added_at": null,
@@ -883,8 +883,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Inicios",
-        "url": "https://open.spotify.com/album/2wZIWBfIpZXVDkdULrKFsI"
+        "name": "Dolor y Amor",
+        "url": "https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT"
       },
       "artists": [
         {
@@ -892,9 +892,9 @@
           "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
         }
       ],
-      "duration_ms": 152704,
-      "name": "Los Inicios",
-      "url": "https://open.spotify.com/track/05ySOTPwLvGKE6e1fz6EaY"
+      "duration_ms": 141409,
+      "name": "Soy de Durango",
+      "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"
     }
   ],
   "unique_name": "This Is El Fantasma",

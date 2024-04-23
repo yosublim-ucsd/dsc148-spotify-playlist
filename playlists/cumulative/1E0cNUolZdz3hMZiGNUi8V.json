@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 198292,
       "name": "all of me",
       "url": "https://open.spotify.com/track/2FoahzOSxJnalPA8aBUme3"
@@ -661,6 +661,28 @@
     },
     {
       "album": {
+        "name": "Who Decides War",
+        "url": "https://open.spotify.com/album/7eadCbsmeguNADwk91fHM2"
+      },
+      "artists": [
+        {
+          "name": "Da Crook",
+          "url": "https://open.spotify.com/artist/6KdGtfP7YDHgFdpdo0lc9g"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179284,
+      "name": "Down",
+      "url": "https://open.spotify.com/track/043OcdbUW2bCfxH3zgxIDj"
+    },
+    {
+      "album": {
         "name": "Drop That",
         "url": "https://open.spotify.com/album/6ZbGJeoaZmeC1JVOqVreFL"
       },
@@ -770,7 +792,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 149250,
       "name": "Fight or Flight (Playtime's Over)",
       "url": "https://open.spotify.com/track/0gwPIeDyqsM2nXVQOJeBv2"
@@ -2059,6 +2081,24 @@
     },
     {
       "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "album": {
         "name": "Rasputia",
         "url": "https://open.spotify.com/album/7BhtC8TtWM2Ab5SNi9Q1x1"
       },
@@ -2088,7 +2128,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 171827,
       "name": "Red Moon",
       "url": "https://open.spotify.com/track/6odqveUIgvpWWvtANLcZpH"

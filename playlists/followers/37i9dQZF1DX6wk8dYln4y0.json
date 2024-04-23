@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 533662,
+  "2024-04-23": 533674,
   "date_first_scraped": "2023-03-19",
   "description": "Music that just *hits different* Cover: Taylor Swift",
   "name": "*hits different*",
@@ -735,7 +735,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -2683,7 +2683,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 153946,
       "name": "Kill Bill",
       "url": "https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8"

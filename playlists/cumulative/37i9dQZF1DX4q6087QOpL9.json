@@ -431,6 +431,28 @@
     },
     {
       "album": {
+        "name": "Bliss",
+        "url": "https://open.spotify.com/album/0WSuifTXmz50xOidZsO0rZ"
+      },
+      "artists": [
+        {
+          "name": "Fybe:One",
+          "url": "https://open.spotify.com/artist/27KCpRYUXOIJIjOSPqBTSw"
+        },
+        {
+          "name": "Liam Bailey",
+          "url": "https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264586,
+      "name": "Bliss",
+      "url": "https://open.spotify.com/track/7jokcgwenxH9rBm5s3CYfs"
+    },
+    {
+      "album": {
         "name": "Virgin Ubiquity: Remixed",
         "url": "https://open.spotify.com/album/2fx4CE0Us9UpxDD9ySZLHd"
       },
@@ -546,7 +568,7 @@
       ],
       "date_added": "2022-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 402800,
       "name": "Cascades of Colour",
       "url": "https://open.spotify.com/track/4Q1lNgOmrCPu5pnPHBDP3n"

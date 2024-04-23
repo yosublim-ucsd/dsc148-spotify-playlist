@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 
 > bøgdebangers du kan spelle i kjerra!
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,616 likes - 70 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,633 likes - 70 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa5zM0UrfG4s.md) - [plain]
 | 48 | [Svensk i kväll](https://open.spotify.com/track/0C2UfLRDNB0oOt8nYyJRYu) | [Helene Olafsen](https://open.spotify.com/artist/74LbOioJUqae6mkQ9wDiDN), [Norges Nye Megahit](https://open.spotify.com/artist/35kBMx0nauaGZIhWESWrc5) | [Svensk i kväll](https://open.spotify.com/album/4XdVxdRjQoooI2KSapG1YX) | 2:04 |
 | 49 | [Hej skål!](https://open.spotify.com/track/3JuV8RufPTaEpMCeITnZIl) | [Kuselofte](https://open.spotify.com/artist/5nIPWm5XA6Cy6zVYkjpCe2) | [Hej skål!](https://open.spotify.com/album/0hUNC2NNniMcSHnoYDz7oS) | 2:09 |
 | 50 | [Livet på bøgda](https://open.spotify.com/track/5W1Aap840SZeiSyU2rK912) | [JONE](https://open.spotify.com/artist/6w3Rnp6LwJ0BdWgHBiMlqN), [Daskeladden](https://open.spotify.com/artist/0rTmZkZxtp2Kzsh3yRjTZb) | [Livet på bøgda](https://open.spotify.com/album/0ZOlf5ki6keYctTeoxR5tv) | 2:33 |
-| 51 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |
+| 51 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
 | 52 | [Kainn Æ Få Lov](https://open.spotify.com/track/5lBh7KByI6qrCk0u8whPyB) | [Too Far Gone](https://open.spotify.com/artist/6lrVaoOsYaOwqsG0whjurP) | [Bæst I Test](https://open.spotify.com/album/3uk4DtG5e9pMRXodwV3pxk) | 2:52 |
-| 53 | [Siste Kveld](https://open.spotify.com/track/3qLNHejkuopLaI0HaLl081) | [Sandra Lyng](https://open.spotify.com/artist/6OS2jyNVjuVsvA63jsw3Rf), [Staysman](https://open.spotify.com/artist/5J10DHSs5nFktP4DNYncwj) | [Siste Kveld](https://open.spotify.com/album/57e4YYv5JDQULceiS7x0my) | 2:39 |
+| 53 | [Är det kärlek du behöver \- N!NE EPA Bass Boosted Remix](https://open.spotify.com/track/45MJ4bysE50sOo2AXrk3tj) | [Lasse Stefanz](https://open.spotify.com/artist/0ntVZReCfBFQctUiiaTaeu), [N!NE](https://open.spotify.com/artist/0RF3teBjUzbf1SDpnuR8Ro) | [Är det kärlek du behöver \(EPA Remixes\)](https://open.spotify.com/album/1iIvpW6StpS5bwdYl5hbjp) | 2:53 |
 | 54 | [Alt du vil ha](https://open.spotify.com/track/0gSJWzYKV9mjwO0pBs5ZXB) | [Sie Gubba](https://open.spotify.com/artist/7ftlSYcmPae1pZ0q7eaGo6) | [Alt du vil ha](https://open.spotify.com/album/2QRyTA27H57KmItlwy9LNR) | 3:00 |
 | 55 | [29 tonn](https://open.spotify.com/track/1pSEXjBnrgZiHHs45k6pEI) | [Plumbo](https://open.spotify.com/artist/6EokhXVfuwkt5542gzakJ9) | [29 tonn](https://open.spotify.com/album/5xURrIcRE2TPM5BNmNoYcv) | 3:18 |
 | 56 | [Vårrull](https://open.spotify.com/track/4tE2ySKkRFJtT36q5ie1fv) | [Halva Priset](https://open.spotify.com/artist/05XcYmdt6oIP0URKWYnyWk) | [Vårrull](https://open.spotify.com/album/3weP2oF0T3NhFCDJqXGIbx) | 2:17 |

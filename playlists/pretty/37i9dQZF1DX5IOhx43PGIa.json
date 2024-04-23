@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 284763,
+  "num_followers": 284697,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "how can i pretend?",
+        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "ur so pretty",
+      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/4OZBMZ4hR5fLjRWpj3bTAT"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 165653,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/5Y1JLn2xFudNJolHkvoTXk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "how can i pretend?",
-        "url": "https://open.spotify.com/album/5utykEfgIIgl1Nt5ld60y0"
-      },
-      "artists": [
-        {
-          "name": "Wasia Project",
-          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "ur so pretty",
-      "url": "https://open.spotify.com/track/1Jt24MPLz6fGXSCTlXTjzF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "E-SIDE 3",
         "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 199082,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
+      },
+      "artists": [
+        {
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
+        }
+      ],
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "So Familiar",
+        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 238055,
+      "name": "So Familiar",
+      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Birdwatcher",
         "url": "https://open.spotify.com/album/5jdRIHmKzjrDjvfK6Zf9rZ"
       },
@@ -1991,18 +2007,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "So Familiar",
-        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
+        "name": "moviestar",
+        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
       },
       "artists": [
         {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+          "name": "asumuh",
+          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
         }
       ],
-      "duration_ms": 238055,
-      "name": "So Familiar",
-      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
+      "duration_ms": 138714,
+      "name": "moviestar",
+      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2019,22 +2035,6 @@
       "duration_ms": 166941,
       "name": "2.0",
       "url": "https://open.spotify.com/track/36srzCGlOmPqwDNwHQZXS6"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "moviestar",
-        "url": "https://open.spotify.com/album/60Sla9POUkC3JtiMlPEOfW"
-      },
-      "artists": [
-        {
-          "name": "asumuh",
-          "url": "https://open.spotify.com/artist/6hjYrTgChYiwxAzggQaqvO"
-        }
-      ],
-      "duration_ms": 138714,
-      "name": "moviestar",
-      "url": "https://open.spotify.com/track/4YO6SdPNChAqKLgiZvEnIc"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Where'd The Time Go?",
-        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 105266,
-      "name": "Where'd The Time Go?",
-      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4zEDYMnxbEW93SZXUDQq6Q"
       },
@@ -2135,6 +2119,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Where'd The Time Go?",
+        "url": "https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM"
+      },
+      "artists": [
+        {
+          "name": "Kaleah Lee",
+          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
+        }
+      ],
+      "duration_ms": 105266,
+      "name": "Where'd The Time Go?",
+      "url": "https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "HSB",
         "url": "https://open.spotify.com/album/2LLfG193pOrWD0a4YhsQTJ"
       },
@@ -2147,6 +2147,26 @@
       "duration_ms": 154553,
       "name": "HSB",
       "url": "https://open.spotify.com/track/1YDfM80A8RdwnaEVvCKdzA"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "SHYPOP",
+        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
+      },
+      "artists": [
+        {
+          "name": "ISOxo",
+          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
+        },
+        {
+          "name": "Ninajirachi",
+          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
+        }
+      ],
+      "duration_ms": 208941,
+      "name": "SHYPOP",
+      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2187,26 +2207,6 @@
       "duration_ms": 148965,
       "name": "Accent",
       "url": "https://open.spotify.com/track/4MDwa4SfUr9ATSzYPROjtm"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "SHYPOP",
-        "url": "https://open.spotify.com/album/54nbjxcvF5fRiDmp6IoWm8"
-      },
-      "artists": [
-        {
-          "name": "ISOxo",
-          "url": "https://open.spotify.com/artist/4zVCMnjw54nkhGHU4e1Pav"
-        },
-        {
-          "name": "Ninajirachi",
-          "url": "https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR"
-        }
-      ],
-      "duration_ms": 208941,
-      "name": "SHYPOP",
-      "url": "https://open.spotify.com/track/2iggQ4lOp55ohzosZMYhSd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Clouds",
+        "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
+      },
+      "artists": [
+        {
+          "name": "aimei \u5a9a",
+          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+        }
+      ],
+      "duration_ms": 201506,
+      "name": "Clouds",
+      "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "i know you know (sped up)",
         "url": "https://open.spotify.com/album/2SKGm8OPhvVFT8ZSz5nJ92"
       },
@@ -2319,22 +2335,6 @@
       "duration_ms": 264424,
       "name": "i know you know",
       "url": "https://open.spotify.com/track/3WyZ7dK3zospzqBdVeIVlF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "DND",
-        "url": "https://open.spotify.com/album/5o1cuob7TMEd7oAKuffRHK"
-      },
-      "artists": [
-        {
-          "name": "Cheska Cruz",
-          "url": "https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ"
-        }
-      ],
-      "duration_ms": 161489,
-      "name": "DND",
-      "url": "https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2355,18 +2355,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Clouds",
-        "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
+        "name": "DND",
+        "url": "https://open.spotify.com/album/5o1cuob7TMEd7oAKuffRHK"
       },
       "artists": [
         {
-          "name": "aimei \u5a9a",
-          "url": "https://open.spotify.com/artist/2ij6gLxPV2uEuRxDwnyBfZ"
+          "name": "Cheska Cruz",
+          "url": "https://open.spotify.com/artist/2bNO8PVe01PX6gdmkvuPDZ"
         }
       ],
-      "duration_ms": 201506,
-      "name": "Clouds",
-      "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
+      "duration_ms": 161489,
+      "name": "DND",
+      "url": "https://open.spotify.com/track/41zRYnYdIGDppmxqsBvEpE"
     },
     {
       "added_at": "2024-04-19 04:00:00",

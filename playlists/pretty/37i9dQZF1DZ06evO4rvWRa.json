@@ -1,12 +1,12 @@
 {
-  "description": "This is Alan Walker. The essential tracks, all in one playlist.",
-  "num_followers": 1636412,
+  "description": "This is Alan Walker. Track-track unggulan, semuanya dalam satu playlist.",
+  "num_followers": 1634891,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGRlN2YzMTIyMjdjMTY0NGNlZjM1ZGEzZDI0NmRlMTk5",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFkYTg5ZTk4YmE0ODgxN2RjMDEwOGE2MTRmMzkxNzU5",
   "tracks": [
     {
       "added_at": null,
@@ -367,26 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Walkerworld",
-        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        }
-      ],
-      "duration_ms": 189391,
-      "name": "Heart over Mind",
-      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -403,6 +383,26 @@
       "duration_ms": 178625,
       "name": "Man On The Moon",
       "url": "https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Walkerworld",
+        "url": "https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        }
+      ],
+      "duration_ms": 189391,
+      "name": "Heart over Mind",
+      "url": "https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Una fusi\u00f3n moderna de m\u00fasica Cristiana que alimenta el alma.",
-  "num_followers": 410140,
+  "num_followers": 409990,
   "original_name": "Creo En Ti",
   "owner": {
     "name": "Spotify",
@@ -274,15 +274,11 @@
         {
           "name": "Marcela Gandara",
           "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
-        },
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 203516,
-      "name": "Si Sabes Donde Hallarlo (feat. Marcos Vidal)",
-      "url": "https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv"
+      "duration_ms": 212523,
+      "name": "Cerca Est\u00e1s",
+      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -434,11 +430,15 @@
         {
           "name": "Marcela Gandara",
           "url": "https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T"
+        },
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
         }
       ],
-      "duration_ms": 212523,
-      "name": "Cerca Est\u00e1s",
-      "url": "https://open.spotify.com/track/7j4GJDmCiUEPZSu420sNul"
+      "duration_ms": 203516,
+      "name": "Si Sabes Donde Hallarlo (feat. Marcos Vidal)",
+      "url": "https://open.spotify.com/track/1ShMaAfr3S4TrovNsMRBkv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -459,6 +459,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Unidos Somos M\u00e1s Fuertes",
         "url": "https://open.spotify.com/album/5CaiOljtlmZvIOcKyyFIZ8"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 256305,
       "name": "Unidos Somos M\u00e1s Fuertes",
       "url": "https://open.spotify.com/track/50OAZ16SOAKSfp8ksaDOZF"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1031,6 +1031,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Respiro",
+        "url": "https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl"
+      },
+      "artists": [
+        {
+          "name": "Musiko",
+          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
+        },
+        {
+          "name": "Indiomar",
+          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
+        }
+      ],
+      "duration_ms": 249519,
+      "name": "Respiro",
+      "url": "https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "Esto Es Jesus Culture",
         "url": "https://open.spotify.com/album/2RNvr92S3rufXeAYnHr8qY"
       },
@@ -1063,26 +1083,6 @@
       "duration_ms": 253440,
       "name": "La Milla Extra",
       "url": "https://open.spotify.com/track/7Ednu75B1EVOm5igUG3e8N"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
-        "name": "Respiro",
-        "url": "https://open.spotify.com/album/7JQ2JE7zWZwr8dmictQdMl"
-      },
-      "artists": [
-        {
-          "name": "Musiko",
-          "url": "https://open.spotify.com/artist/4A03xFVufDpEqOY9fQlFue"
-        },
-        {
-          "name": "Indiomar",
-          "url": "https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM"
-        }
-      ],
-      "duration_ms": 249519,
-      "name": "Respiro",
-      "url": "https://open.spotify.com/track/2N7VkoqFIsANXJxIthXVtx"
     },
     {
       "added_at": "2021-05-21 19:19:27",
@@ -1211,30 +1211,6 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Monta\u00f1a",
-        "url": "https://open.spotify.com/album/31iCIGdIIOnCFtHeRBSZlJ"
-      },
-      "artists": [
-        {
-          "name": "Evan Craft",
-          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
-        },
-        {
-          "name": "GAWVI",
-          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
-        },
-        {
-          "name": "Sam Rivera",
-          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
-        }
-      ],
-      "duration_ms": 198742,
-      "name": "Monta\u00f1a",
-      "url": "https://open.spotify.com/track/4HcnKPqSK9LohkhjJEwAzu"
-    },
-    {
-      "added_at": "2021-05-21 19:19:27",
-      "album": {
         "name": "Bueno es Dios (feat. Julia Vit\u00f3ria)",
         "url": "https://open.spotify.com/album/2FrL299sNgpraHh0TjflHD"
       },
@@ -1255,6 +1231,22 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
+        "name": "Mujer Frente a la Cruz",
+        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+      },
+      "artists": [
+        {
+          "name": "Son By Four",
+          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+        }
+      ],
+      "duration_ms": 276986,
+      "name": "Wake Up",
+      "url": "https://open.spotify.com/track/6HqN69wrOzLJYaJPMmxLwx"
+    },
+    {
+      "added_at": "2021-05-21 19:19:27",
+      "album": {
         "name": "El Eco De Su Voz",
         "url": "https://open.spotify.com/album/1KQrSJiQAhRFffoTvA8pW7"
       },
@@ -1271,18 +1263,26 @@
     {
       "added_at": "2021-05-21 19:19:27",
       "album": {
-        "name": "Mujer Frente a la Cruz",
-        "url": "https://open.spotify.com/album/5y5z8e3HEagRt9GjkIbs6d"
+        "name": "Monta\u00f1a",
+        "url": "https://open.spotify.com/album/31iCIGdIIOnCFtHeRBSZlJ"
       },
       "artists": [
         {
-          "name": "Son By Four",
-          "url": "https://open.spotify.com/artist/1qyAl8T6GTcaOViaI7fs1j"
+          "name": "Evan Craft",
+          "url": "https://open.spotify.com/artist/4vEpUOtKWtpotWkuv0Vlx4"
+        },
+        {
+          "name": "GAWVI",
+          "url": "https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab"
+        },
+        {
+          "name": "Sam Rivera",
+          "url": "https://open.spotify.com/artist/4BuHGiGgKtUUHqthu6Ze5x"
         }
       ],
-      "duration_ms": 276986,
-      "name": "Wake Up",
-      "url": "https://open.spotify.com/track/6HqN69wrOzLJYaJPMmxLwx"
+      "duration_ms": 198742,
+      "name": "Monta\u00f1a",
+      "url": "https://open.spotify.com/track/4HcnKPqSK9LohkhjJEwAzu"
     },
     {
       "added_at": "2021-05-21 19:19:27",

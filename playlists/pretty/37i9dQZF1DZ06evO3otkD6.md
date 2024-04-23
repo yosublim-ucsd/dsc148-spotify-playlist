@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 
 ### [This Is Belinda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3otkD6)
 
-> This is Belinda\. Todos os maiores hits em uma só playlist.
+> This Is Belinda\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,260 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,263 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3otkD6.md) - [plain]
 | 49 | [I Love You..\. Te Quiero](https://open.spotify.com/track/7FFFRavnUPwKhidY259LMD) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Catarsis](https://open.spotify.com/album/7zOaF1rmHsRNkBd6QZd3Qg) | 3:36 |
 | 50 | [Utopia](https://open.spotify.com/track/1D2RM65NrWgwGOFLidtJTg) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [Utopia 2](https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k) | 3:00 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGJkMjRiNzM5MzA0MWRlOWVjOTJjOWU4ODFlYjgzMjEz`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDI1ZjRmNDkwNmE5YWVkNGY1Y2NiZjQ5MTJmMzcwMzUz`

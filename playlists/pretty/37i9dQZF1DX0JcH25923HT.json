@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 439639,
+  "num_followers": 439810,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
-        "name": "S.U.N.O",
-        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
-      },
-      "artists": [
-        {
-          "name": "Pablo Chill-E",
-          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
-        },
-        {
-          "name": "Yung Beef",
-          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
-        }
-      ],
-      "duration_ms": 169448,
-      "name": "Singapur (feat. Yung Beef)",
-      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
         "name": "Fresko",
         "url": "https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 201290,
       "name": "Fresko",
       "url": "https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
+        "name": "S.U.N.O",
+        "url": "https://open.spotify.com/album/6V18lHqeCbGGFxtpkOJVpk"
+      },
+      "artists": [
+        {
+          "name": "Pablo Chill-E",
+          "url": "https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D"
+        },
+        {
+          "name": "Yung Beef",
+          "url": "https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch"
+        }
+      ],
+      "duration_ms": 169448,
+      "name": "Singapur (feat. Yung Beef)",
+      "url": "https://open.spotify.com/track/1Q7NJD40pBK47Ii1ZdBTyi"
     },
     {
       "added_at": "2024-03-08 16:14:30",
@@ -2251,6 +2251,38 @@
     {
       "added_at": "2024-03-08 16:14:30",
       "album": {
+        "name": "Krippy Kush (feat. 21 Savage & Rvssian) [Remix]",
+        "url": "https://open.spotify.com/album/6PLLKjD7vpHDrl8tc7aFaR"
+      },
+      "artists": [
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Krippy Kush (feat. 21 Savage & Rvssian) - Remix",
+      "url": "https://open.spotify.com/track/038kavjqUaGIYZL5lYocvX"
+    },
+    {
+      "added_at": "2024-03-08 16:14:30",
+      "album": {
         "name": "Canciones Mamalonas",
         "url": "https://open.spotify.com/album/6OIteXjnMqe4RQT6QfWE3x"
       },
@@ -2263,30 +2295,6 @@
       "duration_ms": 141904,
       "name": "Modo Bestia",
       "url": "https://open.spotify.com/track/6GWUyY1CXSVDLrszAJCZMh"
-    },
-    {
-      "added_at": "2024-03-08 16:14:30",
-      "album": {
-        "name": "Haters (Remix)",
-        "url": "https://open.spotify.com/album/7eh4EPAHsOFpon6iG7q75Q"
-      },
-      "artists": [
-        {
-          "name": "J Alvarez",
-          "url": "https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Almighty",
-          "url": "https://open.spotify.com/artist/6P6GTRTigHBp8ZesNtpCKH"
-        }
-      ],
-      "duration_ms": 328706,
-      "name": "Haters - Remix",
-      "url": "https://open.spotify.com/track/1XuH3RXp7sCFPNof6xvFlm"
     },
     {
       "added_at": "2024-03-08 16:14:30",

@@ -19447,6 +19447,24 @@
     },
     {
       "album": {
+        "name": "S\u00f6rb\u00e4ckenkartellen",
+        "url": "https://open.spotify.com/album/6zAukiIRVPHgYhoM7rCOAT"
+      },
+      "artists": [
+        {
+          "name": "Br\u00f6derna \u00d6hman",
+          "url": "https://open.spotify.com/artist/5lLSZvy7jLYACia430zl4C"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "S\u00f6rb\u00e4ckenkartellen",
+      "url": "https://open.spotify.com/track/6Z9wEtCQtq0XSUAUL80lyJ"
+    },
+    {
+      "album": {
         "name": "TA EN SHOT MED MIG",
         "url": "https://open.spotify.com/album/0xOu8A9WuHt7bJPkvZtnv0"
       },

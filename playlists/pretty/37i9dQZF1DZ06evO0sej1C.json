@@ -1,12 +1,12 @@
 {
   "description": "This is Yoss Bones. The essential tracks, all in one playlist.",
-  "num_followers": 38124,
+  "num_followers": 38143,
   "original_name": "This Is Yoss Bones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGJmOWUzMTllZjEwM2Y4MTY5ZWY1ZjA4ZjVhMDQ2NGUy",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGQ0YmNlNjY2NzYzMTQ0N2RiOThlZTE1MDNkZjE5MDRm",
   "tracks": [
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tequila y Miel",
-        "url": "https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Hispana",
-          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
-        }
-      ],
-      "duration_ms": 211408,
-      "name": "Tequila y Miel",
-      "url": "https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Alzypher Vol. 9",
         "url": "https://open.spotify.com/album/3JKZcVkafBrbIZySypEw7H"
       },
@@ -855,6 +835,26 @@
       "duration_ms": 207483,
       "name": "Alzypher Vol. 9",
       "url": "https://open.spotify.com/track/4VgKKuLoLAcgNvJ8d0hKlA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tequila y Miel",
+        "url": "https://open.spotify.com/album/1mCObASikbbyG9K5gRt9JB"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Hispana",
+          "url": "https://open.spotify.com/artist/7rTmbfDJtDCjoy8XK5Dsj5"
+        }
+      ],
+      "duration_ms": 211408,
+      "name": "Tequila y Miel",
+      "url": "https://open.spotify.com/track/4eeggfKUbhnYSFV17Sq4h8"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
       "duration_ms": 231111,
       "name": "Otra Oportunidad",
       "url": "https://open.spotify.com/track/7xqbjHEyrnjhyXRsVVVSvv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PILLS",
-        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
-      },
-      "artists": [
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 187636,
-      "name": "PILLS",
-      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
     },
     {
       "added_at": null,
@@ -975,6 +959,22 @@
       "duration_ms": 283668,
       "name": "Susurros",
       "url": "https://open.spotify.com/track/7Iwd59LGO0TpTG64zNzBji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PILLS",
+        "url": "https://open.spotify.com/album/4JuyjmAq8idnUkKcOIWocf"
+      },
+      "artists": [
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 187636,
+      "name": "PILLS",
+      "url": "https://open.spotify.com/track/2pcZheBNDPRyMhKKYLNaTf"
     },
     {
       "added_at": null,
@@ -1075,30 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calor y Fr\u00edo",
-        "url": "https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2"
-      },
-      "artists": [
-        {
-          "name": "Afaz Natural",
-          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "Calor y Fr\u00edo",
-      "url": "https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serendipia",
         "url": "https://open.spotify.com/album/5otbd1pbveK9HktRULJnis"
       },
@@ -1119,6 +1095,30 @@
       "duration_ms": 200000,
       "name": "Serendipia",
       "url": "https://open.spotify.com/track/0MrwuLn61MSx6iVj7ntpaQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calor y Fr\u00edo",
+        "url": "https://open.spotify.com/album/4Uvg3yVPi2lMMkm36mhbS2"
+      },
+      "artists": [
+        {
+          "name": "Afaz Natural",
+          "url": "https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "Calor y Fr\u00edo",
+      "url": "https://open.spotify.com/track/6CVbA3wsSldLVlYMUJq1t3"
     },
     {
       "added_at": null,

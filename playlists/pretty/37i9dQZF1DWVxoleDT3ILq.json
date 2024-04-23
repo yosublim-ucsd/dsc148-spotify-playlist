@@ -1,6 +1,6 @@
 {
   "description": "Todo el sonido indie de Chile. Foto: F\u00e1rmacos",
-  "num_followers": 122657,
+  "num_followers": 122437,
   "original_name": "Indie Chile",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
-        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
-      },
-      "artists": [
-        {
-          "name": "Dulce y Agraz",
-          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
-        }
-      ],
-      "duration_ms": 326961,
-      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
-      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "intento 2: pi\u00e9nsalo bien",
         "url": "https://open.spotify.com/album/0Cb6g0K5lKTdOspMOOBW47"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "\u00cdndigo",
-        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+        "name": "Cuando Estoy con El (Sesi\u00f3n Jeanette)",
+        "url": "https://open.spotify.com/album/3xXWUqLpsgD1cunj3lDdno"
       },
       "artists": [
         {
-          "name": "Rubio",
-          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+          "name": "Dulce y Agraz",
+          "url": "https://open.spotify.com/artist/5cD6bctPV8wtKpO4o8ZtTQ"
         }
       ],
-      "duration_ms": 229740,
-      "name": "Pasos de Gigantes",
-      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
+      "duration_ms": 326961,
+      "name": "Cuando Estoy con El - Sesi\u00f3n Jeanette",
+      "url": "https://open.spotify.com/track/2bKQ7zfZztPbihIJ5O4rp3"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -915,6 +899,22 @@
       "duration_ms": 184250,
       "name": "Hace 10 A\u00f1os",
       "url": "https://open.spotify.com/track/1arOrwTLZS2qcUprYTBomD"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "\u00cdndigo",
+        "url": "https://open.spotify.com/album/1JUFR4Qgot2SmMssrlsYNz"
+      },
+      "artists": [
+        {
+          "name": "Rubio",
+          "url": "https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV"
+        }
+      ],
+      "duration_ms": 229740,
+      "name": "Pasos de Gigantes",
+      "url": "https://open.spotify.com/track/1DJQMFVIMbECJ4ElDoSYth"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Le\u00f3n de Arena",
-        "url": "https://open.spotify.com/album/7k8gLYZwVYGCqdtZTtWHB2"
-      },
-      "artists": [
-        {
-          "name": "Los Animales Tambi\u00e9n Se Suicidan",
-          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
-        }
-      ],
-      "duration_ms": 198887,
-      "name": "Le\u00f3n de Arena",
-      "url": "https://open.spotify.com/track/2iukXDVfZDfokLZ6fxqDSu"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "volumen dos",
         "url": "https://open.spotify.com/album/1o3XZboOgp69MgH8WL6hbz"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 187504,
       "name": "Pienso en Ti",
       "url": "https://open.spotify.com/track/2Oy1ZKm1QWYsLThU4rhduF"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Le\u00f3n de Arena",
+        "url": "https://open.spotify.com/album/7k8gLYZwVYGCqdtZTtWHB2"
+      },
+      "artists": [
+        {
+          "name": "Los Animales Tambi\u00e9n Se Suicidan",
+          "url": "https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T"
+        }
+      ],
+      "duration_ms": 198887,
+      "name": "Le\u00f3n de Arena",
+      "url": "https://open.spotify.com/track/2iukXDVfZDfokLZ6fxqDSu"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1091,42 +1091,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Paisajes",
-        "url": "https://open.spotify.com/album/7iK07OpJA0CQZu8sLfJrwf"
-      },
-      "artists": [
-        {
-          "name": "ZEBRA 93",
-          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
-        }
-      ],
-      "duration_ms": 189838,
-      "name": "BB",
-      "url": "https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Herida (Deluxe)",
-        "url": "https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K"
-      },
-      "artists": [
-        {
-          "name": "Francisco Victoria",
-          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
-        },
-        {
-          "name": "F\u00e1rmacos",
-          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
-        }
-      ],
-      "duration_ms": 187554,
-      "name": "Herida",
-      "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Antes que el sol nos queme",
         "url": "https://open.spotify.com/album/1s5MJq7KIQpR5z5clJ0ixU"
       },
@@ -1163,6 +1127,42 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Herida (Deluxe)",
+        "url": "https://open.spotify.com/album/4aj0hmsu1ZQOlHMCnA8Z4K"
+      },
+      "artists": [
+        {
+          "name": "Francisco Victoria",
+          "url": "https://open.spotify.com/artist/7IoWRnQriyj7YYLpvx00jv"
+        },
+        {
+          "name": "F\u00e1rmacos",
+          "url": "https://open.spotify.com/artist/1FJENlxciHSXzfHlYMgB2M"
+        }
+      ],
+      "duration_ms": 187554,
+      "name": "Herida",
+      "url": "https://open.spotify.com/track/1pckBg5zJgAnvDGehwUsZ5"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Paisajes",
+        "url": "https://open.spotify.com/album/7iK07OpJA0CQZu8sLfJrwf"
+      },
+      "artists": [
+        {
+          "name": "ZEBRA 93",
+          "url": "https://open.spotify.com/artist/3cr7KiInVBOX6gCKYQvIoC"
+        }
+      ],
+      "duration_ms": 189838,
+      "name": "BB",
+      "url": "https://open.spotify.com/track/7EK0zxNhtgm9RXt5kGFJ5a"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "no hace falta saber",
         "url": "https://open.spotify.com/album/7okZw7sF6r7x5NNF2eMaxW"
       },
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "NI\u00d1A",
+        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
+      },
+      "artists": [
+        {
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
+        }
+      ],
+      "duration_ms": 200245,
+      "name": "NI\u00d1A",
+      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Pantallas y Desiertos",
         "url": "https://open.spotify.com/album/40qq0w8Z2vP1qqXVMQJ5jb"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 212812,
       "name": "Pantallas y Desiertos",
       "url": "https://open.spotify.com/track/5TooZOGWPmbP8aS2ISwTKA"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "NI\u00d1A",
-        "url": "https://open.spotify.com/album/7hYbOuYfiOBUa9r6tdDcQj"
-      },
-      "artists": [
-        {
-          "name": "Bocho",
-          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
-        }
-      ],
-      "duration_ms": 200245,
-      "name": "NI\u00d1A",
-      "url": "https://open.spotify.com/track/2FJUH2s0dgddhjkfBdKNvC"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1251,22 +1251,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Tur Blues",
-        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+        "name": "\u00c9pica",
+        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
       },
       "artists": [
         {
-          "name": "pau",
-          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
-        },
-        {
-          "name": "Diego Lorenzini",
-          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+          "name": "Triciclo Parlante",
+          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
         }
       ],
-      "duration_ms": 213112,
-      "name": "Tur Blues",
-      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
+      "duration_ms": 194756,
+      "name": "Sin Fama ni Fortuna",
+      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1287,22 +1283,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "\u00c9pica",
-        "url": "https://open.spotify.com/album/4nqQnsYw58gEOZeMWkQ6XV"
-      },
-      "artists": [
-        {
-          "name": "Triciclo Parlante",
-          "url": "https://open.spotify.com/artist/1MnxpVolHmvO5azL3WRwbp"
-        }
-      ],
-      "duration_ms": 194756,
-      "name": "Sin Fama ni Fortuna",
-      "url": "https://open.spotify.com/track/0jL1naowZfg9x79IVmP9jf"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Ganas de Verte",
         "url": "https://open.spotify.com/album/3yKpDLg51b4vor8OiPu35J"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 198000,
       "name": "Ganas de Verte",
       "url": "https://open.spotify.com/track/1pZXCADGsAjIlhaCpUlpLz"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Tur Blues",
+        "url": "https://open.spotify.com/album/0FFTFsQQz0E8eldoOpSlxg"
+      },
+      "artists": [
+        {
+          "name": "pau",
+          "url": "https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3"
+        },
+        {
+          "name": "Diego Lorenzini",
+          "url": "https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4"
+        }
+      ],
+      "duration_ms": 213112,
+      "name": "Tur Blues",
+      "url": "https://open.spotify.com/track/1uiNMtfqJh6pzOXUsSiWOu"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "formas de volver a casa",
+        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
+      },
+      "artists": [
+        {
+          "name": "ataquemos",
+          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+        }
+      ],
+      "duration_ms": 153065,
+      "name": "formas de volver a casa",
+      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Bailar en la Cuerda Floja",
         "url": "https://open.spotify.com/album/2bJb8RTvJ0xMoCcwNjsmra"
       },
@@ -1391,18 +1407,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "formas de volver a casa",
-        "url": "https://open.spotify.com/album/3QpU35TA8wNbTGGGJ0XZVo"
+        "name": "Puro Espejo",
+        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
       },
       "artists": [
         {
-          "name": "ataquemos",
-          "url": "https://open.spotify.com/artist/3WMtbTa4xgtx9GJ9dPAJ7E"
+          "name": "Patio Solar",
+          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
         }
       ],
-      "duration_ms": 153065,
-      "name": "formas de volver a casa",
-      "url": "https://open.spotify.com/track/1LZvvf3oJeT5XgFXGQ4RAu"
+      "duration_ms": 187124,
+      "name": "G\u00e1rgolas",
+      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1423,22 +1439,6 @@
       "duration_ms": 194357,
       "name": "abracadabra",
       "url": "https://open.spotify.com/track/5Kq1WilU4CfoJBJgHwPtJn"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Puro Espejo",
-        "url": "https://open.spotify.com/album/42rkkwtIKgnsHVvvUYD8rW"
-      },
-      "artists": [
-        {
-          "name": "Patio Solar",
-          "url": "https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax"
-        }
-      ],
-      "duration_ms": 187124,
-      "name": "G\u00e1rgolas",
-      "url": "https://open.spotify.com/track/5zMc1pCaX0cSsff5sQZV0Q"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Nada Es Eterno",
-        "url": "https://open.spotify.com/album/4wNdkxUeKcI8kdMu7LzBoY"
-      },
-      "artists": [
-        {
-          "name": "Charly Benavente",
-          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
-        }
-      ],
-      "duration_ms": 239440,
-      "name": "Nada Es Eterno",
-      "url": "https://open.spotify.com/track/0xfLYdNUxIaT5fopOXh3ls"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "CASI P\u00daRPURA",
         "url": "https://open.spotify.com/album/1pWL1FM1INuUx4po96NwKJ"
       },
@@ -1583,6 +1567,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Nada Es Eterno",
+        "url": "https://open.spotify.com/album/4wNdkxUeKcI8kdMu7LzBoY"
+      },
+      "artists": [
+        {
+          "name": "Charly Benavente",
+          "url": "https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP"
+        }
+      ],
+      "duration_ms": 239440,
+      "name": "Nada Es Eterno",
+      "url": "https://open.spotify.com/track/0xfLYdNUxIaT5fopOXh3ls"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Nunca Estuvo en Ti el Litoral",
         "url": "https://open.spotify.com/album/62Wwf9DHae5Hi6X9vp8QBN"
       },
@@ -1595,26 +1595,6 @@
       "duration_ms": 178773,
       "name": "Nunca Estuvo en Ti el Litoral",
       "url": "https://open.spotify.com/track/0ealZ87kbyY8gsgDZwWGVq"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Rapapapaum",
-        "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
-      },
-      "artists": [
-        {
-          "name": "Mouzeh",
-          "url": "https://open.spotify.com/artist/5bv4mvzzv7fsqObEU4WVPy"
-        },
-        {
-          "name": "Blazer",
-          "url": "https://open.spotify.com/artist/399SMyeutEpMLsaBeUW5fA"
-        }
-      ],
-      "duration_ms": 170057,
-      "name": "Rapapapaum",
-      "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1651,6 +1631,26 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Rapapapaum",
+        "url": "https://open.spotify.com/album/2rXJTy0So75AGP4XV1mAxw"
+      },
+      "artists": [
+        {
+          "name": "Mouzeh",
+          "url": "https://open.spotify.com/artist/5bv4mvzzv7fsqObEU4WVPy"
+        },
+        {
+          "name": "Blazer",
+          "url": "https://open.spotify.com/artist/399SMyeutEpMLsaBeUW5fA"
+        }
+      ],
+      "duration_ms": 170057,
+      "name": "Rapapapaum",
+      "url": "https://open.spotify.com/track/3dvjfnYJUh6ZWKX4ZAxsgT"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Al calor de un sol que acaba de morir",
         "url": "https://open.spotify.com/album/79A9O0BwOk9aExtfjehAB9"
       },
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "Te Vas",
+        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
+      },
+      "artists": [
+        {
+          "name": "Fran Quintero",
+          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
+        }
+      ],
+      "duration_ms": 251261,
+      "name": "Te Vas",
+      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "Te puedes ir, amor",
         "url": "https://open.spotify.com/album/3xTDzgJme7JW24tMfS1fUt"
       },
@@ -1699,22 +1715,6 @@
       "duration_ms": 189625,
       "name": "Te puedes ir, amor",
       "url": "https://open.spotify.com/track/3e3eeimc7V6oqZbcyDu0Ls"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Te Vas",
-        "url": "https://open.spotify.com/album/6invyko2L6heCQ9aLCJLna"
-      },
-      "artists": [
-        {
-          "name": "Fran Quintero",
-          "url": "https://open.spotify.com/artist/2tb2LJzkF6LFQhQf43unP2"
-        }
-      ],
-      "duration_ms": 251261,
-      "name": "Te Vas",
-      "url": "https://open.spotify.com/track/7qQStAYkwgR92Ht75WeS3G"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1751,22 +1751,26 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "como antes :(",
-        "url": "https://open.spotify.com/album/1UbEziMtTNXhCJadyMWP55"
+        "name": "DIAMANTE",
+        "url": "https://open.spotify.com/album/0KVpNPH2JueCEJll6TbmgD"
       },
       "artists": [
         {
-          "name": "Yaima Cat",
-          "url": "https://open.spotify.com/artist/7lA6PHewYqNvU7FE8W2ohI"
+          "name": "Bocho",
+          "url": "https://open.spotify.com/artist/345MIEXxffgO93aCGlO8el"
         },
         {
-          "name": "Rosario Alfonso",
-          "url": "https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ"
+          "name": "Sergio Escribano",
+          "url": "https://open.spotify.com/artist/116npLgwaQ7gM9Foz4Lg7W"
+        },
+        {
+          "name": "Escaparate de Poes\u00eda",
+          "url": "https://open.spotify.com/artist/7tH4CflLKZ7jEJwsUzZL9I"
         }
       ],
-      "duration_ms": 237888,
-      "name": "como antes :(",
-      "url": "https://open.spotify.com/track/6MXABAwOJbAT3kmKLi8clB"
+      "duration_ms": 221610,
+      "name": "ELLA (CAE LA NOCHE)",
+      "url": "https://open.spotify.com/track/47BEXkblFksAYVHd0xPNEI"
     }
   ],
   "unique_name": "Indie Chile",

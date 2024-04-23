@@ -2,7 +2,7 @@
 
 ### [This Is Zudizilla](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2f3QaJ)
 
-> This is Zudizilla\. Todos os maiores hits em uma só playlist.
+> This is Zudizilla\. The essential tracks, all in one playlist.
 
 64 songs - 3 hr 58 min
 
@@ -42,10 +42,10 @@
 | [O Preço da Guerra](https://open.spotify.com/track/3kfLTBsbfEXKD7VkZ3uwIu) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Lino Krizz](https://open.spotify.com/artist/6vA4znwvrwhCSYfcrkC2Hg) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 4:49 | 2023-09-18 |  |
 | [Ordem Natural](https://open.spotify.com/track/0KcKSQqYDacO23ZGkxigK1) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 2:43 | 2023-10-10 |  |
 | [Pequenas Coisas](https://open.spotify.com/track/734Psmqq41D9bam2zPjY7z) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Zulu: Quarta Parede, Vol.3](https://open.spotify.com/album/2ZzTHZCszn13JnYTCHN4NJ) | 3:16 | 2023-09-18 |  |
-| [Prefácio](https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz) | 5:13 | 2023-09-18 | 2024-04-22 |
+| [Prefácio](https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz) | 5:13 | 2023-09-18 |  |
 | [Prisma](https://open.spotify.com/track/28azbjBNeQAUv060KuGomn) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Faça a Coisa Certa](https://open.spotify.com/album/6ms88BvhR93ah7DkQghQn3) | 3:37 | 2023-12-13 |  |
 | [Proveito](https://open.spotify.com/track/5N3znAB19oFAkGNrcBTPeD) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Proveito](https://open.spotify.com/album/6oFCxp73Skel2DgCzPQAH6) | 3:36 | 2023-09-18 |  |
-| [Raio De Sol](https://open.spotify.com/track/1A60gepW790C5S9JKATGQB) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine Temporada 2](https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI) | 5:48 | 2024-02-03 | 2024-04-22 |
+| [Raio De Sol](https://open.spotify.com/track/1A60gepW790C5S9JKATGQB) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine Temporada 2](https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI) | 5:48 | 2024-02-03 |  |
 | [Raio de Sol](https://open.spotify.com/track/6Gh7zFJpD7amBqvEq1JbDr) | [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Raio de Sol](https://open.spotify.com/album/3gpGDZnLal3U3Izek5Q2bt) | 2:52 | 2023-09-18 | 2023-12-30 |
 | [Resposta](https://open.spotify.com/track/2N3YBhqs58ro7hF36IP8Og) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:32 | 2024-02-23 | 2024-04-05 |
 | [Rua 12](https://open.spotify.com/track/0da1jFMV4cYzJ6O8nYrwpV) | [Guido Cnr](https://open.spotify.com/artist/4JgXTHTZATg8VPsqQuaJ9W), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Pepzi](https://open.spotify.com/artist/0UA5ouG9CGXcO3q1yXCOdx) | [Herdeiros R12](https://open.spotify.com/album/2z8OjtuFek85pEGbg8PEaB) | 4:09 | 2024-03-02 | 2024-03-05 |

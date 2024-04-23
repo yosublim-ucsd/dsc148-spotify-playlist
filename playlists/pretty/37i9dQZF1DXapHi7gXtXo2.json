@@ -1,6 +1,6 @@
 {
   "description": "Dale play y d\u00e9jate llevar por estas finas melod\u00edas Indie.",
-  "num_followers": 85161,
+  "num_followers": 85164,
   "original_name": "Radio Indie",
   "owner": {
     "name": "Spotify",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "El Mundo Siempre Estuvo Dividido en Dos",
+        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+      },
+      "artists": [
+        {
+          "name": "Alan Sutton y las criaturitas de la ansiedad",
+          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+        }
+      ],
+      "duration_ms": 125156,
+      "name": "El Mundo Siempre Estuvo Dividido en Dos",
+      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "SUR",
         "url": "https://open.spotify.com/album/1oTRpQm1ed2RqFq402ZaeO"
       },
@@ -1255,18 +1271,18 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "El Mundo Siempre Estuvo Dividido en Dos",
-        "url": "https://open.spotify.com/album/4DwDKGqyR2hp8roLeNrhYh"
+        "name": "Quiero Verte",
+        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
       },
       "artists": [
         {
-          "name": "Alan Sutton y las criaturitas de la ansiedad",
-          "url": "https://open.spotify.com/artist/3OFrGQrdXwm0UgTERW6LAV"
+          "name": "NAFTA",
+          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
         }
       ],
-      "duration_ms": 125156,
-      "name": "El Mundo Siempre Estuvo Dividido en Dos",
-      "url": "https://open.spotify.com/track/2mdZOkJvBqGaPmuqLLMp88"
+      "duration_ms": 225938,
+      "name": "Quiero Verte",
+      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1287,22 +1303,6 @@
       "duration_ms": 151619,
       "name": "Estamos Bajo el Agua",
       "url": "https://open.spotify.com/track/2qFVAC8H6C3MsbkvIB2v4V"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "Quiero Verte",
-        "url": "https://open.spotify.com/album/2EBcSmwjf7tjcH0unxkDWW"
-      },
-      "artists": [
-        {
-          "name": "NAFTA",
-          "url": "https://open.spotify.com/artist/5pg9cOudU7ezj3FnUABgu6"
-        }
-      ],
-      "duration_ms": 225938,
-      "name": "Quiero Verte",
-      "url": "https://open.spotify.com/track/0nddhkhTtvxd7kh7QdnkFR"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1339,22 +1339,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Seremos Idiotas",
-        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
-      },
-      "artists": [
-        {
-          "name": "Francisca y Los Exploradores",
-          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
-        }
-      ],
-      "duration_ms": 197790,
-      "name": "Seremos Idiotas",
-      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Ay, Amor",
         "url": "https://open.spotify.com/album/5XjIM5OdxYD9EfxxfGRvvk"
       },
@@ -1367,6 +1351,22 @@
       "duration_ms": 213041,
       "name": "Ay, Amor \u2665\ufe0e",
       "url": "https://open.spotify.com/track/1ZgKtZeMCBkT8inB4HKAtS"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Seremos Idiotas",
+        "url": "https://open.spotify.com/album/0pOxQBxRyfjv2Wck4qTM3I"
+      },
+      "artists": [
+        {
+          "name": "Francisca y Los Exploradores",
+          "url": "https://open.spotify.com/artist/2axDF0woEL8GYIoW93gPPf"
+        }
+      ],
+      "duration_ms": 197790,
+      "name": "Seremos Idiotas",
+      "url": "https://open.spotify.com/track/1uOCSlsvSXdAc04f4vDsrE"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
+        "name": "rangerover",
+        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 186945,
+      "name": "rangerover",
+      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
         "name": "PAHPAHPAH",
         "url": "https://open.spotify.com/album/0C7eIjtDYbcjz516g1urTt"
       },
@@ -1451,22 +1467,6 @@
       "duration_ms": 131874,
       "name": "PAHPAHPAH",
       "url": "https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
-        "name": "rangerover",
-        "url": "https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 186945,
-      "name": "rangerover",
-      "url": "https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "Oler A Ti",
         "url": "https://open.spotify.com/album/0dgD8Uj4j7dPMFoRFX6cZ5"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 225013,
       "name": "Oler A Ti",
       "url": "https://open.spotify.com/track/77aF6rwctQaadtAXQOrpjr"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2024-04-12 03:00:00",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-04-12 03:00:00",
       "album": {
-        "name": "No Me Quiero Ir Lejos",
-        "url": "https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy"
-      },
-      "artists": [
-        {
-          "name": "Zenon Pereyra",
-          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
-        }
-      ],
-      "duration_ms": 204614,
-      "name": "No Me Quiero Ir Lejos",
-      "url": "https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW"
-    },
-    {
-      "added_at": "2024-04-12 03:00:00",
-      "album": {
         "name": "El Tiempo",
         "url": "https://open.spotify.com/album/4x58tGZD6fe6qKQiQPacK7"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 236000,
       "name": "El Tiempo",
       "url": "https://open.spotify.com/track/6vUWrdWq0oCNuSVuvkWSO0"
+    },
+    {
+      "added_at": "2024-04-12 03:00:00",
+      "album": {
+        "name": "No Me Quiero Ir Lejos",
+        "url": "https://open.spotify.com/album/5elperv2EKL8ktGacrJPcy"
+      },
+      "artists": [
+        {
+          "name": "Zenon Pereyra",
+          "url": "https://open.spotify.com/artist/73lBjMjlN5WczHNWLIIVee"
+        }
+      ],
+      "duration_ms": 204614,
+      "name": "No Me Quiero Ir Lejos",
+      "url": "https://open.spotify.com/track/15k3iMTXbJxZklLBcpIyrW"
     },
     {
       "added_at": "2024-04-12 03:00:00",

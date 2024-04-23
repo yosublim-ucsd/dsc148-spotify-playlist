@@ -4,7 +4,7 @@
 
 > Explore all things indie rock right now\. Featuring music from Hana Vu
 
-1,465 songs - 3 day 8 hr 36 min
+1,466 songs - 3 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -815,6 +815,7 @@
 | [Madison](https://open.spotify.com/track/6Bz7VRGI74d4SjXZVPbqEQ) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ) | [Madison](https://open.spotify.com/album/6VilDmxMVVi7KBpdOFYKMo) | 3:42 | 2022-06-21 | 2022-10-29 |
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-01 | 2022-08-14 |
 | [MAGIC](https://open.spotify.com/track/3hB6fPgud6yt1MRKHJ58Mg) | [meija](https://open.spotify.com/artist/5Uc38SFcTd4bzDk3hhvRu1), [JAWNY](https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP) | [MAGIC](https://open.spotify.com/album/1GD5LEi9PqcG53COfp3LsQ) | 2:57 | 2024-02-02 | 2024-04-19 |
+| [Maine](https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Maine/The Sink](https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb) | 4:53 | 2024-04-22 |  |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-10-02 | 2022-06-09 |
 | [Make Ya Proud](https://open.spotify.com/track/4fhgClrrGEsKTpBekCmuUy) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Make Ya Proud](https://open.spotify.com/album/0XV0mG5uUDwqDkZvR6LKeE) | 3:30 | 2024-03-29 |  |
 | [Make You Mine](https://open.spotify.com/track/2KQehm3y77ahO2RXhH2iIe) | [The Walters](https://open.spotify.com/artist/027TpXKGwdXP7iwbjUSpV8) | [Try Again](https://open.spotify.com/album/2hBQFSGwy9HlBTeKFIug9M) | 2:29 | 2022-05-06 | 2022-06-22 |

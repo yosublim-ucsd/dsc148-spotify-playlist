@@ -2953,6 +2953,28 @@
     },
     {
       "album": {
+        "name": "Kattida Kanaja - Single",
+        "url": "https://open.spotify.com/album/4kwYsDa2ybRP83vnYqGc2Y"
+      },
+      "artists": [
+        {
+          "name": "Basavaraj Narendra",
+          "url": "https://open.spotify.com/artist/4q7mP1jGEu5xvxJ5aFPFYj"
+        },
+        {
+          "name": "Manjula Gururaj",
+          "url": "https://open.spotify.com/artist/75HAL44LxgiktGqiyaf1B9"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495530,
+      "name": "Kattida Kanaja",
+      "url": "https://open.spotify.com/track/6nByxU4WMi5sUiipyRQlCv"
+    },
+    {
+      "album": {
         "name": "Kelilli",
         "url": "https://open.spotify.com/album/0Tzvd8xmI0kKZPwIIedKHM"
       },

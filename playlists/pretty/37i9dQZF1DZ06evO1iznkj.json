@@ -1,12 +1,12 @@
 {
-  "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 142380,
+  "description": "This is Gunna\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 142419,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDEzNmQ1NzcwNjdhMDM2Nzg1ZWY4MTI2MzFlOTI4MWNl",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGNhMWE3YjhmZTRlZmFmNTI2MzdjY2I4ZjlhM2U5MzBk",
   "tracks": [
     {
       "added_at": null,
@@ -495,26 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bachelor",
-        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
-      },
-      "artists": [
-        {
-          "name": "Turbo",
-          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 241533,
-      "name": "Bachelor",
-      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "7220",
         "url": "https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 181393,
       "name": "What Happened To Virgil (feat. Gunna)",
       "url": "https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bachelor",
+        "url": "https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk"
+      },
+      "artists": [
+        {
+          "name": "Turbo",
+          "url": "https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 241533,
+      "name": "Bachelor",
+      "url": "https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Drip Harder",
-        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 145059,
-      "name": "I Am (Lil Baby & Gunna)",
-      "url": "https://open.spotify.com/track/3F57PtOdqRpD6euFYqtKXX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shoot For The Stars Aim For The Moon (Deluxe)",
         "url": "https://open.spotify.com/album/2MDU46hcBn3u94s46BOSdv"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 212658,
       "name": "Paranoia (feat. Gunna & Young Thug)",
       "url": "https://open.spotify.com/track/3QqJ44HiM84iyZS0G2IKIP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drip Harder",
+        "url": "https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 145059,
+      "name": "I Am (Lil Baby & Gunna)",
+      "url": "https://open.spotify.com/track/3F57PtOdqRpD6euFYqtKXX"
     },
     {
       "added_at": null,

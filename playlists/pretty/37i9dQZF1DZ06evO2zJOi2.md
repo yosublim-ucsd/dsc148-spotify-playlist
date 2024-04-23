@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 
 ### [This Is Morgan Wallen](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2zJOi2)
 
-> This is Morgan Wallen\. The essential tracks, all in one playlist.
+> This Is Morgan Wallen\. Sus mejores éxitos, todos en una playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,777 likes - 31 songs - 1 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,981 likes - 31 songs - 1 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2zJOi2.md) - [plain]
 | 30 | [Bandaid On A Bullet Hole](https://open.spotify.com/track/1RvoRAL612adAVrPUoAMHR) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Dangerous: The Double Album \(Bonus\)](https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX) | 3:54 |
 | 31 | [He Went To Jared \(HARDY feat\. Morgan Wallen\)](https://open.spotify.com/track/65IHmBagtQrYRcJd8a47zv) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 3:33 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGFiNTA5NDc1ODJhOGMzN2ZhYjc1YzM2ODEyZjE1MWYx`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGYxOGI3ODg5OTU3MjE3NGMzNjE0ODQwYWY3ZTg1YTY3`

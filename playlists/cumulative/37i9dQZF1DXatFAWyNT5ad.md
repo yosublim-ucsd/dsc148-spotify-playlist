@@ -4,7 +4,7 @@
 
 > Let's mix it\. Cover: Imagine Dragons
 
-768 songs - 1 day 15 hr 39 min
+769 songs - 1 day 15 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -301,7 +301,7 @@
 | [Godsent](https://open.spotify.com/track/4FMj1VNLl5qMy3m3M3rS7g) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Godsent & All Eyes On You](https://open.spotify.com/album/6AqHQHsbeyr6G94BGyslQN) | 3:34 | 2022-03-24 | 2022-04-21 |
 | [good 4 u](https://open.spotify.com/track/4ZtFanR9U6ndgddUvNcjcG) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 2:58 | 2022-07-07 | 2023-10-07 |
 | [good 4 u](https://open.spotify.com/track/6PERP62TejQjgHu81OHxgM) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [good 4 u](https://open.spotify.com/album/3rMjL8NA5Wh2hbMNk2fSlY) | 2:58 | 2022-03-17 | 2022-07-29 |
-| [Good Feeling About You](https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT) | 3:06 | 2024-04-19 |  |
+| [Good Feeling About You](https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Inner Love Energy](https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT) | 3:06 | 2024-04-19 | 2024-04-23 |
 | [GOOD FOR HER](https://open.spotify.com/track/76YyKbh4QI8Sfxm9Id2mBz) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA), [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [GOOD FOR HER](https://open.spotify.com/album/4HSsLhmoneSVz1GmqFTFdK) | 2:13 | 2022-03-24 | 2022-05-30 |
 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5LJsMlAwHdRzyq6Z3lLCat) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES](https://open.spotify.com/album/4ehJjs7mB5D5sTgsEAKG8Y) | 2:19 | 2023-09-08 | 2024-04-19 |
 | [GOOD GIRL ERA \(SIDE A\)](https://open.spotify.com/track/5whdFux566Ve7KTpR0Hk73) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [UPSAHL PRESENTS: THE PHX TAPES V1](https://open.spotify.com/album/7hF7nGQXoQhkWjz7y1uTPk) | 2:19 | 2023-05-05 | 2023-11-02 |
@@ -747,6 +747,7 @@
 | [WHAT THE HELL](https://open.spotify.com/track/7fjd7XOn6Bp8PMNdp7YZDO) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHAT THE HELL](https://open.spotify.com/album/3ipWal9rIQJcZHztmB8tLQ) | 2:52 | 2024-04-19 |  |
 | [WHAT YOU GONNA DO???](https://open.spotify.com/track/31brGBYDq5N15VxIn5juop) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc), [Graham Coxon](https://open.spotify.com/artist/7ueZp29tCNwjIj4yAMTEaC) | [WHAT YOU GONNA DO???](https://open.spotify.com/album/60qrudaXQ3p7R3gX4ctAdD) | 2:11 | 2022-03-24 | 2022-04-10 |
 | [What You Want](https://open.spotify.com/track/6PyH24L1C5jWIMnEnbQyKq) | [Adelitas Way](https://open.spotify.com/artist/1ZjAT2nTrzDIXFfsQ2hWJk) | [What You Want](https://open.spotify.com/album/4tgds6JiEPig7FJMZuMyPO) | 3:14 | 2022-03-24 | 2022-04-15 |
+| [What You Want](https://open.spotify.com/track/4yOorbmH62krVQ1dtaXdIL) | [Capstan](https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE), [Oliver Baxxter](https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b) | [What You Want](https://open.spotify.com/album/1GSwthIrEhu3WUJ8I8DluY) | 3:55 | 2024-04-19 |  |
 | [wheels up](https://open.spotify.com/track/0TqwxUrCVYgN1UvDvwrFyz) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [bb u ok?](https://open.spotify.com/album/5aw2jktb3oQiufFVm5MfAY) | 3:16 | 2022-03-24 | 2022-04-06 |
 | [WHEN THE MUSIC STOPS](https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB) | [jxdn](https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF) | [WHEN THE MUSIC STOPS](https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J) | 3:13 | 2024-02-20 |  |
 | [When You're Around](https://open.spotify.com/track/4C3vAnXJmFR2McECc1du5l) | [Jutes](https://open.spotify.com/artist/53fzjsJnjEKkA6TdncuIM4) | [When You're Around](https://open.spotify.com/album/403m6rdMFJpSaY4gL0aXY1) | 3:08 | 2022-03-17 | 2022-07-27 |

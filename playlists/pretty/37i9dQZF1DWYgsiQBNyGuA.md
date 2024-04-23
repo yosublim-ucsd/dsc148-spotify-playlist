@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 
 > Soul to brighten up your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,275 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,343 likes - 80 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,9 +83,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYgsiQBNyGuA.md) - [plain]
 | 73 | [The World \(Is Going Up in Flames\)](https://open.spotify.com/track/7a5xvCgoD8qFEQmO8Jjvtf) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [No Time For Dreaming](https://open.spotify.com/album/6llfJp31mi9r7swqmSAwuK) | 3:22 |
 | 74 | [Joy In The Battle](https://open.spotify.com/track/085xF3tCAXlTmaWDczmwmv) | [MAJOR.](https://open.spotify.com/artist/2YjrvPxeToeP8MyPH2Viky) | [The Hope of My Soul](https://open.spotify.com/album/7ghSniRwAWBJiW6PKfMbC5) | 3:40 |
 | 75 | [Ain't No Use](https://open.spotify.com/track/0tjjWJfZyceooAGlRfZTh1) | [L.A.B.](https://open.spotify.com/artist/3eAOH2az3fQIfX2UAw0FfC) | [L.A.B](https://open.spotify.com/album/0mjmpOTgR8UaqUSNjCL9Aq) | 4:40 |
-| 76 | [Montego Sunset](https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 3:18 |
-| 77 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 |
-| 78 | [Never Be Another You](https://open.spotify.com/track/0WOgSnlW67lN5ZpXSvPmdi) | [Lee Fields & The Expressions](https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K) | [Special Night](https://open.spotify.com/album/535eEdWzIdctqDMi1LzPyG) | 4:25 |
+| 76 | [Positivity](https://open.spotify.com/track/2agIeYLyjyxLwQV09f2NCA) | [Steffen Morrison](https://open.spotify.com/artist/2KV4sKhTlyrtxaJWZTPj8r) | [Positivity](https://open.spotify.com/album/3q2UpV35Krzbcf7Wqk2uyv) | 3:20 |
+| 77 | [Montego Sunset](https://open.spotify.com/track/0fsD8umgWm5PxXKY3h741i) | [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp) | [Make the Road By Walking](https://open.spotify.com/album/6wdxaAC6P7f6w05QadHFcB) | 3:18 |
+| 78 | [Smile](https://open.spotify.com/track/0Rliuj2FRErOzjvSSKTGLd) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP) | [Durand Jones & The Indications \(Deluxe Edition\)](https://open.spotify.com/album/0CzFk2RSGJjhXLEGhk6K1E) | 3:49 |
 | 79 | [Sunny Days](https://open.spotify.com/track/6FXis8xolZr1w66kY27zbs) | [Sabrina Starke](https://open.spotify.com/artist/1wTUsxee6HtnB6Z6QiUCub) | [Bags & Suitcases](https://open.spotify.com/album/3TwHPffWffk3jvRzgTHVWm) | 3:29 |
 | 80 | [Things We Do for Love](https://open.spotify.com/track/6hrc261IYXhqLVYuXjddhp) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [The Sha La Das](https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:28 |
 

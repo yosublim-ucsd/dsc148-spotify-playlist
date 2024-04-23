@@ -1,12 +1,12 @@
 {
-  "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 19373,
+  "description": "This is Midian Lima. \uaf2d \ub4e4\uc5b4\uc57c \ud558\ub294 \ud2b8\ub799\uc744 \ud558\ub098\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc5d0 \ubaa8\uc558\uc2b5\ub2c8\ub2e4.",
+  "num_followers": 19374,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGU1MDk0MmFmZmI5ZThkMmY4MWJjNWE4OTllZDNjMmUz",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDRlOTVhMThkOWMwODMyN2FmOTJkOWY4ZjNlM2E4YzI5",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Melhor Pra Ti",
+        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "O Melhor Pra Ti",
+      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Escolhidas",
         "url": "https://open.spotify.com/album/4ull6HOMUtcjs9hhlOb3YC"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 247756,
       "name": "Escolhidas",
       "url": "https://open.spotify.com/track/67iZyjUMkdGl8RSXsXaYET"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Melhor Pra Ti",
-        "url": "https://open.spotify.com/album/6d2Zx3I2bl97lhQAl2m2dd"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "O Melhor Pra Ti",
-      "url": "https://open.spotify.com/track/6F1oXa2BbKYBIVlUaWP17F"
     },
     {
       "added_at": null,
@@ -547,6 +547,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mais Um Dia",
+        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        },
+        {
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+        }
+      ],
+      "duration_ms": 317000,
+      "name": "Mais Um Dia",
+      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "N\u00e3o Haver\u00e1 Vergonha",
         "url": "https://open.spotify.com/album/5JHnsAUQlOUH88A4bg2LRX"
       },
@@ -583,22 +603,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mais Um Dia",
-        "url": "https://open.spotify.com/album/67K8kSFzjEqx7Fk9GO7nil"
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
       },
       "artists": [
         {
           "name": "Midian Lima",
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        },
-        {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
         }
       ],
-      "duration_ms": 317000,
-      "name": "Mais Um Dia",
-      "url": "https://open.spotify.com/track/2lpkT44bYWAyMoZ8zMf5Dm"
+      "duration_ms": 229552,
+      "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
+      "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
     },
     {
       "added_at": null,
@@ -612,25 +628,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 275853,
-      "name": "Grande Dia",
-      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 229552,
-      "name": "Jesus n\u00e3o se esqueceu de voc\u00ea",
-      "url": "https://open.spotify.com/track/7zvrd90Kxt7ueDJvMqjMuL"
+      "duration_ms": 276456,
+      "name": "O Pre\u00e7o Foi de Sangue",
+      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
     },
     {
       "added_at": null,
@@ -671,22 +671,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "N\u00e3o Pare",
-        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 276456,
-      "name": "O Pre\u00e7o Foi de Sangue",
-      "url": "https://open.spotify.com/track/7xjM5HubCVLFcgfRCCDO7U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A B\u00ean\u00e7\u00e3o do Senhor",
         "url": "https://open.spotify.com/album/6JYB97cfmq5wOBa2u0ZvY9"
       },
@@ -703,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midian Lima Live Session",
-        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+        "name": "N\u00e3o Pare",
+        "url": "https://open.spotify.com/album/19befBP8BMqgHh96PkDHZM"
       },
       "artists": [
         {
@@ -712,45 +696,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 243112,
-      "name": "O Poder do Sangue",
-      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Midian Lima (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 314026,
-      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
-      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9a Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
-        },
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 260342,
-      "name": "Mem\u00f3rias (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
+      "duration_ms": 275853,
+      "name": "Grande Dia",
+      "url": "https://open.spotify.com/track/5FdWIIivMbJHD7eAY6FtBB"
     },
     {
       "added_at": null,
@@ -771,6 +719,58 @@
       "duration_ms": 429708,
       "name": "500 Graus - Drive In",
       "url": "https://open.spotify.com/track/0tgOPG1Gu2CIxJUi5mHNno"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3WSgyalJpLppQ2n74DNDFi"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 314026,
+      "name": "Voc\u00ea N\u00e3o Imagina (Ao Vivo)",
+      "url": "https://open.spotify.com/track/70hw7NRr6BZJZpnyQNC5bx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midian Lima Live Session",
+        "url": "https://open.spotify.com/album/7kEOcgI8WXPXrg9cqjnjsr"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 243112,
+      "name": "O Poder do Sangue",
+      "url": "https://open.spotify.com/track/46hfcKPBhqemiyit7rH7ap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "L\u00e9a Mendon\u00e7a (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5MCnlnXqI1pjozG7j5Cvvl"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9a Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97"
+        },
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 260342,
+      "name": "Mem\u00f3rias (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0NEKWNtO1glIx80zsMzp66"
     },
     {
       "added_at": null,

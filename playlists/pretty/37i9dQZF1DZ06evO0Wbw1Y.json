@@ -1,12 +1,12 @@
 {
-  "description": "This Is Ventino. Los temas esenciales, todos en una lista.",
-  "num_followers": 28470,
+  "description": "This is Ventino. The essential tracks, all in one playlist.",
+  "num_followers": 28463,
   "original_name": "This Is Ventino",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDVmMmEwZmY1NjA4MDc4MDZjZDliYWVmN2U5ZTg4ZDcy",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDljNDQ1MjRhODFkNWI4Y2RjM2RhNjczOWRiMmUxNDkx",
   "tracks": [
     {
       "added_at": null,
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
         }
       ],
-      "duration_ms": 143737,
-      "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
+      "duration_ms": 154475,
+      "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/6Rk6tAhO16QKZZtYFrHMbm"
         }
       ],
-      "duration_ms": 154475,
-      "name": "Besos En La Herida - Banda Sonora Original De La Serie De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/5QI8Y9bkk1xse08JUDueuQ"
+      "duration_ms": 143737,
+      "name": "Qu\u00e9 F\u00e1cil - Banda Sonora Original De La Serie De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/0C53fChbzpahAVM3rg46wM"
     },
     {
       "added_at": null,
@@ -783,42 +783,6 @@
       "duration_ms": 207157,
       "name": "AL\u00d3",
       "url": "https://open.spotify.com/track/4e9MlCrkbOFfy0xlYJfQsM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1s Fuertes (feat. Andr\u00e9s Cepeda, Francy, Pedrina & Martina La Peligrosa)",
-        "url": "https://open.spotify.com/album/1PMFRNKwAlOrOg2tmIcfgR"
-      },
-      "artists": [
-        {
-          "name": "Ventino",
-          "url": "https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD"
-        },
-        {
-          "name": "Alejandro Gonz\u00e1lez",
-          "url": "https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W"
-        },
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Francy",
-          "url": "https://open.spotify.com/artist/5pAEGsouhZbgSqJMTmEXoT"
-        },
-        {
-          "name": "Pedrina",
-          "url": "https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1"
-        },
-        {
-          "name": "Martina La Peligrosa",
-          "url": "https://open.spotify.com/artist/0kPA7qoAAkI8id1ARXhh5n"
-        }
-      ],
-      "duration_ms": 183339,
-      "name": "M\u00e1s Fuertes (feat. Andr\u00e9s Cepeda, Francy, Pedrina & Martina La Peligrosa)",
-      "url": "https://open.spotify.com/track/1Almzz97LopTjEDLILaNEE"
     },
     {
       "added_at": null,

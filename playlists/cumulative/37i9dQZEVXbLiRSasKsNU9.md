@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-2,523 songs - 5 day 13 hr 48 min
+2,524 songs - 5 day 13 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -874,7 +874,7 @@
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/06tNJ27nVxbDwhiQMChWyr) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0uj4fkv8FHhc7sZyxMnAAw) | 1:42 | 2023-05-19 | 2023-06-21 |
 | [GOOD LOYAL THOTS](https://open.spotify.com/track/6PadQidABni2peo3kYKW0M) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc) | [GOOD LOYAL THOTS](https://open.spotify.com/album/0x4bB3gflkfs2teiVIJ5t5) | 1:42 | 2023-05-07 | 2023-05-20 |
 | [Good Person \(2022\)](https://open.spotify.com/track/0lbtRkC7Bs9aR3ZYvtZydi) | [HAECHAN](https://open.spotify.com/artist/1pHMYguhayIoXmPjoOUyu3) | [Good Person \(2022\)](https://open.spotify.com/album/5RZrivX6GuIijYW0A2ippm) | 4:40 | 2022-03-29 | 2022-04-16 |
-| [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 | 2024-04-16 |  |
+| [Gosta De Rua \- Ao Vivo](https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a) | [Felipe e Rodrigo](https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F) | [Questão de Tempo \(Ao Vivo / Vol.2\)](https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9) | 2:51 | 2024-04-16 | 2024-04-23 |
 | [Granite](https://open.spotify.com/track/0rcJX1gJdAAm7vnqY1H7O2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [Granite](https://open.spotify.com/album/35zx0t2picyGskSU3QceVr) | 3:45 | 2023-02-19 | 2023-02-22 |
 | [Great Balls Of Fire \- Live](https://open.spotify.com/track/79iLGWV1TP277jSF8QJEo3) | [Miles Teller](https://open.spotify.com/artist/0Mwiznen8otvLN9KAHeUlq) | [Top Gun: Maverick \(Music From The Motion Picture\)](https://open.spotify.com/album/3tjIKRAPBy5Qu4z8F5HmBz) | 1:54 | 2022-06-21 | 2022-06-29 |
 | [greedy](https://open.spotify.com/track/1reEeZH9wNt4z1ePYLyC7p) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/5TCVikuC7Npt0WOOWGxLs9) | 2:11 | 2023-10-14 | 2023-10-19 |
@@ -2321,6 +2321,7 @@
 | [ur the moon](https://open.spotify.com/track/20WKIcsFqP3fpWvnfKEqv2) | [wzzywrld](https://open.spotify.com/artist/4tMG97uFOBETyazRgjEFac) | [ur the moon](https://open.spotify.com/album/3UMvk3TDzkVQ4cT4xN2lEG) | 2:46 | 2024-01-06 | 2024-01-11 |
 | [Ur the Moon Catier](https://open.spotify.com/track/543jVJIoCGTUCcCWNheFqp) | [Negoheror](https://open.spotify.com/artist/1avlVy2ZiWrk03xFi4MYTD) | [Ur the Moon Catier](https://open.spotify.com/album/66mK9UIYkdF8tqPj1YvNqi) | 2:46 | 2024-01-05 | 2024-01-07 |
 | [Urugi Urugi \- From "Joe"](https://open.spotify.com/track/1pTkmFDgxz09fg6Mu1mBpH) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu), [Anand Aravindakshan](https://open.spotify.com/artist/03Q99mwmSqlbQo2iGtpE0g) | [Urugi Urugi \(From "Joe"\)](https://open.spotify.com/album/4gKYKbIsDeQSlWIiukYV3P) | 3:42 | 2024-01-31 | 2024-02-09 |
+| [Us Vs\. Them](https://open.spotify.com/track/3cmdqMDc0Fj4TgPeyDOYTM) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [Us Vs\. Them](https://open.spotify.com/album/6G7r3vu2Snjn8Ese1uwNZp) | 3:04 | 2024-04-22 |  |
 | [Uyire \- From "Minnal Murali"](https://open.spotify.com/track/0vmxxVMfJN21J3xX2uqzkg) | [Shaan Rahman](https://open.spotify.com/artist/42k1aOQmLqy5YQmqJ2zq8s), [Narayani Gopan](https://open.spotify.com/artist/77CpK8W1pBsAITFE3zVeOI), [Mithun Jayaraj](https://open.spotify.com/artist/3mVQkEy8bTczhoTmCWTRbh) | [Uyire \(From "Minnal Murali"\)](https://open.spotify.com/album/5FzV5fBNAsL0WtfIFkw3Mt) | 5:27 | 2022-01-01 | 2022-01-10 |
 | [V16](https://open.spotify.com/track/1FwZHWFat13A1XookoEtI3) | [Martinwhite](https://open.spotify.com/artist/1PANUPmT5KUDGs3Xgkhw3T) | [V16](https://open.spotify.com/album/1NYH6nfQS1yuB2PHEHIgtz) | 1:59 | 2022-08-08 | 2022-09-12 |
 | [Vai Novinha Ah Ah Ah](https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC) | [Dyamante DJ](https://open.spotify.com/artist/3i7Bn2SoEkRVEGkdz9o6Yu) | [Ritmo dos Crias](https://open.spotify.com/album/1rpZ5lbh30fimLCZvcyh0f) | 2:03 | 2023-06-24 | 2023-07-19 |

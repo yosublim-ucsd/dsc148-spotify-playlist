@@ -1,12 +1,12 @@
 {
   "description": "This is Babyface. The essential tracks, all in one playlist.",
-  "num_followers": 34293,
+  "num_followers": 34290,
   "original_name": "This Is Babyface",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGE3MzU3ZmIyZjQ1MTFkZTQyNDI4MWU4YzY4YTNlYTAz",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDRlNmFlMDBmN2NkY2RjZTA1YTliNWI0MDc0NTkyYjFm",
   "tracks": [
     {
       "added_at": null,
@@ -387,26 +387,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Lifetime, Vol.1",
-        "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
+        "name": "As a matter of fact",
+        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
       },
       "artists": [
         {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Foxy Brown",
-          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
         }
       ],
-      "duration_ms": 283360,
-      "name": "Always Be My Sunshine",
-      "url": "https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy"
+      "duration_ms": 144581,
+      "name": "As a matter of fact",
+      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
     },
     {
       "added_at": null,
@@ -431,18 +423,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "As a matter of fact",
-        "url": "https://open.spotify.com/album/4MkjomUjWjKm4SKBvO8Ksh"
+        "name": "In My Lifetime, Vol.1",
+        "url": "https://open.spotify.com/album/2nJapeqTbOhnhHUhh5tzpB"
       },
       "artists": [
         {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Foxy Brown",
+          "url": "https://open.spotify.com/artist/1wvlC6NwleHt1iRD6d5X2C"
         }
       ],
-      "duration_ms": 144581,
-      "name": "As a matter of fact",
-      "url": "https://open.spotify.com/track/7sKqEHM3swTrZAdbwazi7Y"
+      "duration_ms": 283360,
+      "name": "Always Be My Sunshine",
+      "url": "https://open.spotify.com/track/1EkteNRr1GNnrjRZ5zRXWy"
     },
     {
       "added_at": null,
@@ -499,22 +499,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309640,
-      "name": "Soon as I Get Home",
-      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Day",
         "url": "https://open.spotify.com/album/66Vhr3F0vp90jhQUlcf4Sk"
       },
@@ -551,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309640,
+      "name": "Soon as I Get Home",
+      "url": "https://open.spotify.com/track/2yZxdm4Fdi8B5UGVqv8IgP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Girls Night Out",
         "url": "https://open.spotify.com/album/20BluhELkpoDsYhUOpUMye"
       },
@@ -567,22 +567,6 @@
       "duration_ms": 188761,
       "name": "The Recipe (with Muni Long)",
       "url": "https://open.spotify.com/track/4xDoRWwnUASi910ArPewng"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tender Lover",
-        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
-      },
-      "artists": [
-        {
-          "name": "Babyface",
-          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        }
-      ],
-      "duration_ms": 309333,
-      "name": "Where Will You Go",
-      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
     },
     {
       "added_at": null,
@@ -607,22 +591,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
+        "name": "Reason For Breathing",
+        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
-        },
-        {
-          "name": "Toni Braxton",
-          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 301626,
-      "name": "Give U My Heart (feat. Toni Braxton)",
-      "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
+      "duration_ms": 342800,
+      "name": "Reason for Breathing - Album Edit",
+      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
+      },
+      "artists": [
+        {
+          "name": "Babyface",
+          "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        }
+      ],
+      "duration_ms": 309333,
+      "name": "Where Will You Go",
+      "url": "https://open.spotify.com/track/1kjNj5vBOG5v0VHYGErbO9"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Reason For Breathing",
-        "url": "https://open.spotify.com/album/2J1pVoU61Jii9EIkX8gJ4Q"
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/3hrK0o67R7x4ZcG4NMTTXh"
       },
       "artists": [
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
+        },
+        {
+          "name": "Toni Braxton",
+          "url": "https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe"
         }
       ],
-      "duration_ms": 342800,
-      "name": "Reason for Breathing - Album Edit",
-      "url": "https://open.spotify.com/track/5388TmolaMEmwFmkII7pdL"
+      "duration_ms": 301626,
+      "name": "Give U My Heart (feat. Toni Braxton)",
+      "url": "https://open.spotify.com/track/6pMliTILbMMQJVFvru12DX"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Return Of The Tender Lover",
-        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
+        "name": "A Closer Look",
+        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 278293,
-      "name": "Our Love",
-      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
+      "duration_ms": 352866,
+      "name": "Two Occasions (Live) - Live Version",
+      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
     },
     {
       "added_at": null,
@@ -859,8 +859,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Closer Look",
-        "url": "https://open.spotify.com/album/3scHFBGPXH6we6uOCo6DeT"
+        "name": "Return Of The Tender Lover",
+        "url": "https://open.spotify.com/album/1GnNyWpPxeqSYTF8bNWFcw"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 352866,
-      "name": "Two Occasions (Live) - Live Version",
-      "url": "https://open.spotify.com/track/6SoTirMFTzsTEnxEXaDvPy"
+      "duration_ms": 278293,
+      "name": "Our Love",
+      "url": "https://open.spotify.com/track/3NGqHeg1tIqtgy82EfyKYp"
     },
     {
       "added_at": null,
@@ -935,22 +935,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Partners (Deluxe)",
-        "url": "https://open.spotify.com/album/0vpZmvUH5x2ByXTYtXB4mG"
+        "name": "Tender Lover",
+        "url": "https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb"
       },
       "artists": [
-        {
-          "name": "Barbra Streisand",
-          "url": "https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6"
-        },
         {
           "name": "Babyface",
           "url": "https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3"
         }
       ],
-      "duration_ms": 194000,
-      "name": "Evergreen (with Babyface)",
-      "url": "https://open.spotify.com/track/1Mn263ocXqVrFArQJ3QKJi"
+      "duration_ms": 311533,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe"
     }
   ],
   "unique_name": "This Is Babyface",

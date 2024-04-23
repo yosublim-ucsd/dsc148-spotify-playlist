@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Lumina",
+        "url": "https://open.spotify.com/album/5nyCbLJDlIvZWJ2DJRkSgh"
+      },
+      "artists": [
+        {
+          "name": "Arlo Thiem",
+          "url": "https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130000,
+      "name": "Lumina",
+      "url": "https://open.spotify.com/track/3ROPBozZCwfK1R8ZO3gcyD"
+    },
+    {
+      "album": {
         "name": "Lumi\u00e8re Du Matin",
         "url": "https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ"
       },

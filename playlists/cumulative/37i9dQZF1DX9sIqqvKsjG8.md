@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-859 songs - 1 day 12 hr 45 min
+863 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-02-01 | 2023-10-07 |
 | [Calm after the Storm](https://open.spotify.com/track/3FTGaPHBo9p6fce4rYOfxT) | [Nicolai Bertoli](https://open.spotify.com/artist/1A6h4GZEr6PJvIuqcWYFBI) | [Calm after the Storm](https://open.spotify.com/album/3y7x47zbzfA3pd6C0zjnoE) | 2:09 | 2021-12-07 | 2022-05-06 |
 | [Calm Skies](https://open.spotify.com/track/2IpHdNslMW4mijoiTKF3j3) | [Edu Lahmar](https://open.spotify.com/artist/2cUQRSrBnFd4OKJKhlVVDc) | [Calm Skies](https://open.spotify.com/album/3Z6ejTSGeCcThfOjvv5sP4) | 2:07 | 2021-12-07 | 2022-03-17 |
+| [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Canyon, Catch Your Thoughts](https://open.spotify.com/track/1DZgGPsQfkz9JUTzP2qQVr) | [Warble](https://open.spotify.com/artist/6c97PAHbxfwJuLjV7gpwUb) | [Canyon, Catch Your Thoughts](https://open.spotify.com/album/59OTSpWsLdw5IVPFTnzr3v) | 2:15 | 2022-10-24 | 2024-03-26 |
 | [Cascada](https://open.spotify.com/track/7dMT5XlXtLoFkUBzJapLUr) | [Luiza Schmidt](https://open.spotify.com/artist/6cGebk3cSumbL2uYiLp2tV) | [Cascada](https://open.spotify.com/album/7IQlp6U0qYQuaYZqgD96Z0) | 3:09 | 2022-11-11 |  |
 | [Cascade](https://open.spotify.com/track/17kS1C8S66paes4e3YNYsb) | [Bear Paige](https://open.spotify.com/artist/58QsixPAQcOShUMHUhDb4o) | [Cascade](https://open.spotify.com/album/2X3dNuKEQxi29u22VtL2gj) | 2:16 | 2021-12-07 | 2022-10-25 |
@@ -434,6 +435,7 @@
 | [Luminous](https://open.spotify.com/track/7lPvVD6xk2KjEqyS0VkxM1) | [Lucas van Kesteren](https://open.spotify.com/artist/1nuw1AswgVJaRJLS5IkRTY) | [Luminous](https://open.spotify.com/album/6m4wOlboYm7g0LKsqsRJPG) | 2:15 | 2021-12-07 | 2023-05-10 |
 | [Luminous](https://open.spotify.com/track/08vlEPtp1Pxz4IJWsZnMJR) | [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Luminous](https://open.spotify.com/album/1hWA2NOx6oYqSDAyiEIn3q) | 3:24 | 2023-07-25 |  |
 | [Lure](https://open.spotify.com/track/77JZMOwuyKnDpzBAQwwrhh) | [Nil Ciuró](https://open.spotify.com/artist/2mKlC27x5dL4PIOwzwPGWh) | [Lure / Elegiac](https://open.spotify.com/album/435QkFbt0x0yrEJs6j5jtC) | 2:43 | 2021-12-07 | 2022-08-05 |
+| [Lysithea](https://open.spotify.com/track/4XBdquxpnwZRjFiM55TRkQ) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Lysithea](https://open.spotify.com/album/0j6dhJ8LwkmtCbTOYMdTH3) | 2:14 | 2024-04-22 |  |
 | [Léana](https://open.spotify.com/track/4RjIFSjFbvR43htmAHW6Gf) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Léana](https://open.spotify.com/album/2IFpHSZQyD8Oxn8IBnJ8Ss) | 2:21 | 2021-12-07 | 2023-03-09 |
 | [Ma danse avec toi](https://open.spotify.com/track/0DZwhqf4al0ykWMR9azxz5) | [Oscar Latreux](https://open.spotify.com/artist/3sdfC805aK4OSRQ5YdlDLK) | [Ma danse avec toi](https://open.spotify.com/album/1g81bFVcK5rzjJuG4pzzRx) | 2:05 | 2023-04-25 |  |
 | [Ma meilleure année](https://open.spotify.com/track/6cxJxS35yFpNdN40G9hIw5) | [Amour Lesauvage](https://open.spotify.com/artist/6qx6GDbg4utV2vDQvS2I4k) | [Ma meilleure année](https://open.spotify.com/album/30w5d5wLvQ3zkV9jXAAded) | 2:35 | 2022-01-04 | 2023-04-19 |
@@ -654,6 +656,7 @@
 | [Sogni di Positano](https://open.spotify.com/track/3tRkhS5byc7Dt4zjwliaWY) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Sogni di Positano](https://open.spotify.com/album/3mdlYi31wx0txhBSKaSP6x) | 3:27 | 2024-01-03 |  |
 | [Solace](https://open.spotify.com/track/0c3pAQGKjwHKo9ilC8i8c5) | [Armando Bauer](https://open.spotify.com/artist/1pIK8qkorRfrjvr4Idrm9W) | [Solace](https://open.spotify.com/album/5ECVYCYDwCfXed8eeJuIIj) | 1:57 | 2022-05-05 | 2023-07-26 |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-02-01 | 2023-03-21 |
+| [Solitude](https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Solitude](https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN) | 2:29 | 2024-04-22 |  |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2021-12-07 | 2023-01-27 |
 | [Something Like Love](https://open.spotify.com/track/1SHZMSLi7z0lNlo6ljl0PC) | [James Keer](https://open.spotify.com/artist/2IJ2zbVdi2aR2DAM8boOE8) | [Something Like Love](https://open.spotify.com/album/5TF7WCLi2ysXIp8m88L2Nr) | 2:42 | 2021-12-07 | 2022-01-05 |
 | [Sonata](https://open.spotify.com/track/4GlviVjDNvQruNqzTwcYai) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Sonata](https://open.spotify.com/album/0wWUeek23P7AXtX4syYrC0) | 4:23 | 2023-09-11 |  |
@@ -813,6 +816,7 @@
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-01-26 |  |
 | [Vide sans toi](https://open.spotify.com/track/5QdkQqkU8WgB2sxkUM7wdn) | [Orlene de Brisay](https://open.spotify.com/artist/0j1bGzjDxr3eqhdWsmkVMN) | [Vide sans toi](https://open.spotify.com/album/5PZJTl6yZJHQBNfkWSKKGd) | 2:07 | 2022-10-13 |  |
 | [Vierzylinder](https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Vierzylinder](https://open.spotify.com/album/5qYXPblYOuRH9V3d7MoJBg) | 2:49 | 2021-12-07 | 2022-05-06 |
+| [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 | 2021-12-07 | 2022-10-05 |
 | [Vocation](https://open.spotify.com/track/3WO9w2dTOjfwn8cf04Ft0W) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Vocation](https://open.spotify.com/album/7hyTlMMTqS0Vs7oWvqc9uy) | 2:15 | 2023-04-25 |  |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-17 | 2023-05-10 |

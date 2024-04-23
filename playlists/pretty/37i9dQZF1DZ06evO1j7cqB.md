@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This is Bear McCreary\. The essential tracks, all in one playlist.
+> This Is Bear McCreary\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,331 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,333 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 37 | [Faith](https://open.spotify.com/track/4NGQdWwIqpUZ0Ft9L3KtJ1) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/4ucaiMJlT2G3FCDObTbTsI) | 3:29 |
 | 38 | [The New Fraser's Ridge](https://open.spotify.com/track/3LQpHBFyPRjOldl20DFUHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 2:57 |
 | 39 | [Agents of S.H.I.E.L.D\. Overture](https://open.spotify.com/track/7g5H7rvDNnb6VAaLxjCgW5) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Marvel's Agents of S.H.I.E.L.D.](https://open.spotify.com/album/0QC50e0EZ0MAYLbbbeit0M) | 2:51 |
-| 40 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
-| 41 | [Echoes of an Old Life](https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:44 |
+| 40 | [Echoes of an Old Life](https://open.spotify.com/track/4GhsCIi3U4SR62l5Mlga2I) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 3:44 |
+| 41 | [An Fhìdeag Airgid \(feat\. Gillebride MacMillan\)](https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Gillebrìde Macmillan](https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 1:35 |
 | 42 | [Clementine \(feat\. Richard Rankin & Sophie Skelton\)](https://open.spotify.com/track/3bngJ81AN1cON3DgrSDcHe) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Richard Rankin](https://open.spotify.com/artist/2Vm0leCYBMDlQItrFKcxQJ), [Sophie Skelton](https://open.spotify.com/artist/3TNQm043dLYpNJSaK6BKob) | [Outlander: Season 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/3MzysgDbqZa3o1eEklNe4r) | 1:45 |
 | 43 | [Master Thyself](https://open.spotify.com/track/0HtL5WPZBgjv3h1J8A8F0U) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 3:46 |
-| 44 | [An Fhìdeag Airgid \(feat\. Gillebride MacMillan\)](https://open.spotify.com/track/1HBRYkdOLAxiP1D06hmqCC) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Gillebrìde Macmillan](https://open.spotify.com/artist/19zK5vFzvXwUb65RRuoIg4) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 1:35 |
-| 45 | [Peaks Pass](https://open.spotify.com/track/4M3xwNsO3Ns8dNxklSCyjO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 2:33 |
+| 44 | [Peaks Pass](https://open.spotify.com/track/4M3xwNsO3Ns8dNxklSCyjO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [God of War \(PlayStation Soundtrack\)](https://open.spotify.com/album/3AieuV7WztobSMYG86Hdez) | 2:33 |
+| 45 | [The Summoning \(feat\. Raya Yarbrough\)](https://open.spotify.com/track/1xnNYxFwlKOkZRRrGvc9Xq) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Raya Yarbrough](https://open.spotify.com/artist/0REVpmwvmt8Mc9rHPJTsV2) | [Outlander: Season 1, Vol\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2tYOFTmwwQydlHFksksO87) | 3:21 |
 | 46 | [A Plea to the Rocks](https://open.spotify.com/track/3TJv4muSnTh31frWAhXM7l) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sophia Nomvete](https://open.spotify.com/artist/4psdBvyZ9koExsBkXNWvrW) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Four: The Great Wave \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/4weUG3UZYTKHrVpzXkdCno) | 3:47 |
 | 47 | [Clearing the Mind](https://open.spotify.com/track/7HBKEbxLboNg62hY7kU1dO) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG), [Sparks & Shadows](https://open.spotify.com/artist/2c6YNJWnwaVHRxWC4jHrZZ) | [God of War Ragnarök: Valhalla \(Original Soundtrack\)](https://open.spotify.com/album/2j8WG0EzaUgsmSy2iPIwJZ) | 5:53 |
 | 48 | [Black Flags](https://open.spotify.com/track/2JDiNTQYlq0ok8ZI0G9S3M) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Eight: Alloyed \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/6ZqOU4HF77DpP42vXG09rP) | 3:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 50 | [Infirmary](https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Seven: The Eye \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1uVZhJYHy8dcumbR7ZEkVv) | 6:32 |
 | 51 | [Foundation Main Title](https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Foundation: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG) | 1:26 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGY1Nzc2ZTI3NDZkZjdmMzYzZGUyYjJlNWJiNWU5Mzg5`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDQyMjJkMDZiYjU0NGU4ZTUyZTIwZmYyNmQ1ZTA3Mjc5`

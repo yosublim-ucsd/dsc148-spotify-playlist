@@ -4,7 +4,7 @@
 
 > Relaxing piano to help you find calm and stillness within.
 
-774 songs - 1 day 9 hr 8 min
+775 songs - 1 day 9 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Light in the Mist](https://open.spotify.com/track/4Be0A7S5hA8MvzB7rbFuHc) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 4:00 | 2022-08-29 | 2024-04-04 |
 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2022-03-17 | 2024-04-04 |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2021-12-13 | 2022-07-22 |
+| [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 | 2024-04-22 |  |
 | [Lisser](https://open.spotify.com/track/7JuANIIOksqHRFXgE8tEld) | [Miran](https://open.spotify.com/artist/2Nk5XPyODZYGkTpGPQel2Q) | [Lisser](https://open.spotify.com/album/5tmo9htHpTWaVxZEgHFtB8) | 2:05 | 2023-03-06 |  |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2021-12-13 | 2022-12-06 |
 | [Little Boy](https://open.spotify.com/track/5vl7yLTgL1cpEmUqtMhk9n) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [Little Boy](https://open.spotify.com/album/70GsT9wbvO2cUu0lhKnuvQ) | 2:35 | 2021-12-13 | 2022-03-18 |

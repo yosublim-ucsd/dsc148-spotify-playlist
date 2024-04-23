@@ -4,7 +4,7 @@
 
 > Get your gaming session going with this rap mix.
 
-412 songs - 22 hr 39 min
+413 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Love Scars](https://open.spotify.com/track/4w552MI4k7dwPHLjI8YOBy) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [A Love Letter To You](https://open.spotify.com/album/4bJCgEvJNMhIxmufeJlFB9) | 2:23 | 2022-10-28 | 2024-01-12 |
 | [Lucid Dreams](https://open.spotify.com/track/285pBltuF7vW8TeWk8hdRR) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Goodbye & Good Riddance](https://open.spotify.com/album/6tkjU4Umpo79wwkgPMV3nZ) | 3:59 | 2022-10-28 |  |
 | [Lucky You \(feat\. Joyner Lucas\)](https://open.spotify.com/track/60SdxE8apGAxMiRrpbmLY0) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Kamikaze](https://open.spotify.com/album/3HNnxK7NgLXbDoxRZxNWiR) | 4:04 | 2022-10-28 |  |
+| [Lust](https://open.spotify.com/track/7oJrVhiTPZGBXWPwhxjy9S) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Life of a Dark Rose](https://open.spotify.com/album/0CuYNS755Ow710G2E7aLDE) | 2:36 | 2024-01-11 |  |
 | [Magnolia](https://open.spotify.com/track/1e1JKLEDKP7hEQzJfNAgPl) | [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Playboi Carti](https://open.spotify.com/album/4rJgzzfFHAVFhCSt2P4I3j) | 3:01 | 2022-10-28 |  |
 | [Make No Sense](https://open.spotify.com/track/6klLvorLoo1sxvZcjJIY8I) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [AI YoungBoy 2](https://open.spotify.com/album/1nzUj7VkiaytMmf2KrhK2L) | 2:28 | 2022-10-28 |  |
 | [Man Of The Year](https://open.spotify.com/track/5SsR3wtCOafDmZgvIdRhSm) | [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Oxymoron \(Deluxe\)](https://open.spotify.com/album/7Et3bSTLLqdABO1qCxUplS) | 3:36 | 2022-04-29 | 2022-10-29 |
@@ -241,7 +242,7 @@
 | [Narrow Road \(feat\. Lil Baby\)](https://open.spotify.com/track/3GZd1aDsgKL71Kt3VIp0hc) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Narrow Road \(feat\. Lil Baby\)](https://open.spotify.com/album/0F4bzfGxyxDT5xdKUAUfhN) | 4:00 | 2021-09-03 | 2022-07-29 |
 | [Need It](https://open.spotify.com/track/6mtjo5kIHKlboGE84lf1FJ) | [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Need It](https://open.spotify.com/album/3L3WBqghAN3LeGZa5eRIBk) | 3:15 | 2021-09-03 | 2024-01-17 |
 | [Neighborhood Superstar](https://open.spotify.com/track/0lTqQTHcYb0RzGa5STjVrf) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [Neighborhood Superstar](https://open.spotify.com/album/6XQN9XWA3gJr6NNB3PvWBP) | 3:55 | 2022-02-25 | 2022-05-30 |
-| [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 | 2024-01-11 |  |
+| [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 | 2024-01-11 | 2024-04-23 |
 | [NFL \(feat\. Gudda Gudda & HoodyBaby\)](https://open.spotify.com/track/3D9G7MPDU48r91YRCYeVRI) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Gudda Gudda](https://open.spotify.com/artist/7s47glsDg6fwq9KXNTsTpa), [Hoodybaby](https://open.spotify.com/artist/13lxs5lLGCBMyGLfmtfLEK) | [NFL](https://open.spotify.com/album/7DBAcWoFguEGBzypRXbMyA) | 3:30 | 2022-03-25 | 2022-04-21 |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/2Zb7wnGUnNPCas2E0wWSQ5) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/1YwzJz7CrV9fd9Qeb6oo1d) | 3:39 | 2021-09-03 | 2022-07-20 |
 | [Ni\*\*as In Paris](https://open.spotify.com/track/4Li2WHPkuyCdtmokzW2007) | [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Watch The Throne \(Deluxe\)](https://open.spotify.com/album/2P2Xwvh2xWXIZ1OWY9S9o5) | 3:39 | 2022-03-11 | 2022-10-29 |

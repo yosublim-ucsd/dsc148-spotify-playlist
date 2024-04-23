@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 7971,
+  "num_followers": 7972,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGM3N2VmNGRjZjc1ZTNhNWY5MGE0ZGNlNjc2YmY4YzY4",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDM2ODY5MDllZGI2YTM0MmZjNjhiZjFlMTA1Y2U4ZTYz",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "RINGOS DESERT",
-        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
       "artists": [
         {
-          "name": "ZHU",
-          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
-        },
-        {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
         }
       ],
-      "duration_ms": 198567,
-      "name": "Light It Up",
-      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
+      "duration_ms": 309145,
+      "name": "Darkest (Dim)",
+      "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
     },
     {
       "added_at": null,
@@ -123,22 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+        "name": "RINGOS DESERT",
+        "url": "https://open.spotify.com/album/1Cw2ULAWbEnGz9301uL9BL"
       },
       "artists": [
         {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+          "name": "ZHU",
+          "url": "https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2"
         },
         {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 309145,
-      "name": "Darkest (Dim)",
-      "url": "https://open.spotify.com/track/548HwuXDxj3wxRu45e0uf8"
+      "duration_ms": 198567,
+      "name": "Light It Up",
+      "url": "https://open.spotify.com/track/1IhWgIG1eScniLWZivkPPF"
     },
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lune Rouge",
-        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 182467,
-      "name": "Lune",
-      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Say Tell Me",
         "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
       },
@@ -467,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "Lune Rouge",
+        "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
       "artists": [
         {
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 280022,
-      "name": "Up and Out",
-      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
+      "duration_ms": 182467,
+      "name": "Lune",
+      "url": "https://open.spotify.com/track/3uDOm0SzcByFzD6LIipJLL"
     },
     {
       "added_at": null,
@@ -499,22 +483,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eats The Tale",
-        "url": "https://open.spotify.com/album/6Gua9T9kD4nkga4fqhMwFB"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
           "name": "TOKiMONSTA",
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 223920,
-      "name": "Eats The Tale",
-      "url": "https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT"
+      "duration_ms": 280022,
+      "name": "Up and Out",
+      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
     },
     {
       "added_at": null,
@@ -543,6 +523,26 @@
       "duration_ms": 204077,
       "name": "NO WAY",
       "url": "https://open.spotify.com/track/4ZXMp5VitkH5kwjLppmDU8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eats The Tale",
+        "url": "https://open.spotify.com/album/6Gua9T9kD4nkga4fqhMwFB"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 223920,
+      "name": "Eats The Tale",
+      "url": "https://open.spotify.com/track/0FDK9Vl9rgWm6PO5TBamvT"
     },
     {
       "added_at": null,
@@ -619,6 +619,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 191233,
+      "name": "Fried for the Night",
+      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Boom",
         "url": "https://open.spotify.com/album/4hxs85emYrIVnF1xBy7rCO"
       },
@@ -639,26 +659,6 @@
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 191233,
-      "name": "Fried for the Night",
-      "url": "https://open.spotify.com/track/2d5QxR4sH361DVFCyl97X9"
     },
     {
       "added_at": null,
@@ -807,26 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You're Invited",
-        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 220934,
-      "name": "Surrender",
-      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ija (TOKiMONSTA Remix)",
         "url": "https://open.spotify.com/album/19AGDITx691QWTmb0q1hhf"
       },
@@ -847,6 +827,58 @@
       "duration_ms": 190822,
       "name": "Ija - TOKiMONSTA Remix",
       "url": "https://open.spotify.com/track/27ALJpTFMItteosC4kyj9x"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 186708,
+      "name": "Sa Mo Jung",
+      "url": "https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 220934,
+      "name": "Surrender",
+      "url": "https://open.spotify.com/track/2i2FA9KzL0fKg5IuVePGhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Creature Dreams",
+        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 275586,
+      "name": "Day Job",
+      "url": "https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq"
     },
     {
       "added_at": null,
@@ -891,38 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 186708,
-      "name": "Sa Mo Jung",
-      "url": "https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Creature Dreams",
-        "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 275586,
-      "name": "Day Job",
-      "url": "https://open.spotify.com/track/15Mo2tdzulBWzaG6Yv37Tq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desiderium",
         "url": "https://open.spotify.com/album/5F5I5bpS03YzEwBRH3vrGh"
       },
@@ -939,26 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FOVERE",
-        "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Kiya Lacey",
-          "url": "https://open.spotify.com/artist/1Htc0eOZHfYwFGbydWI5Wb"
-        }
-      ],
-      "duration_ms": 211764,
-      "name": "Heart on the Ground",
-      "url": "https://open.spotify.com/track/3GBpgtfVFfT2mX9sRNOlr7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -971,6 +951,22 @@
       "duration_ms": 266345,
       "name": "House of Dal",
       "url": "https://open.spotify.com/track/0QppVcTeM2ZQlxKbHhs3pf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Ghost Burns (TOKiMONSTA Remix)",
+        "url": "https://open.spotify.com/album/6mHwNoULGKR4jaxRWUcUfB"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 239813,
+      "name": "The Ghost Burns (TOKiMONSTA Remix)",
+      "url": "https://open.spotify.com/track/1heTHqqur0LBIZuQzuUTSV"
     }
   ],
   "unique_name": "This Is TOKiMONSTA",

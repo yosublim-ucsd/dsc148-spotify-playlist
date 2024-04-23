@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Cassandra Jenkins
 
-[Spotify](https://open.spotify.com/user/spotify) - 791,464 likes - 151 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 790,850 likes - 151 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 | 150 | [Mudroom](https://open.spotify.com/track/6UJaQZTvpWUWp7FZDJJUXj) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Mudroom](https://open.spotify.com/album/4z3Lq0ha127elfRFtkbKsc) | 3:59 |
 | 151 | [Nothing to Lose](https://open.spotify.com/track/434io34sIbKCD3KzuoJCg5) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [Nothing to Lose](https://open.spotify.com/album/3MLs9OSTBURXZ87o8ItJSp) | 3:57 |
 
-Snapshot ID: `MTcxMzU0MDA3MywwMDAwMDAwMDc2ZDdmM2U5MjVhNmViYTY1Y2Q1ZWY0YjQzMDU3ODNi`
+Snapshot ID: `MTcxMzc5Nzc5NiwwMDAwMDAwMGVkMTY0NDRkZjljNWMwMTFmMWE4NDAzZjZjMDFhNjVk`

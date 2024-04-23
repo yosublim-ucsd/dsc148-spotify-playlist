@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 
 > Sambinhas selecionados especialmente pra você curtir um dia de sol.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,606 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,638 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXR7eYLCoKN.md) - [plain]
 | 66 | [E o Mundo Não Se Acabou](https://open.spotify.com/track/5BCRmx6YhSQPkTEfYqP1HJ) | [Mimi Wankenne](https://open.spotify.com/artist/51iSaWnKKyErZIycs1wkds) | [E o Mundo Não Se Acabou](https://open.spotify.com/album/1TLy2lSg1430cRPxb1jB5A) | 2:04 |
 | 67 | [Dia De Glória](https://open.spotify.com/track/33zWdhvtorBDf3voIMVZe6) | [Fabiana Cozza](https://open.spotify.com/artist/4LRB7RihmGCUE9TYFH6151), [Leci Brandao](https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u) | [Dia De Glória](https://open.spotify.com/album/6EV9tH0aYrzvnINZJQ55fH) | 4:02 |
 | 68 | [Câncer Com Touro](https://open.spotify.com/track/3uupLgLlD2ZIe6D1CuRVjW) | [Sambaiana](https://open.spotify.com/artist/5gGjpgad4tcVWMv4mlOw7a), [Grace Profeta](https://open.spotify.com/artist/6UvvBk4jun0UH6IiMAZCko), [Rayra Mayara](https://open.spotify.com/artist/2JxBztEP6d5277y39owSBb), [Ju Moraes](https://open.spotify.com/artist/19P3N1zEBTIeW3I0cyVthZ), [Lalá Evangelista](https://open.spotify.com/artist/5wTHY9NhwtH1Q84hJcwJHr), [Marcinha BB](https://open.spotify.com/artist/4KGopYW2G8P41kyEXlYLU7), [Marília Sodré](https://open.spotify.com/artist/4vFvo1osQ1NCjyKnFD6hVh) | [Câncer Com Touro](https://open.spotify.com/album/0vvr3GmtsWOq8EDBFG1xtp) | 2:59 |
-| 69 | [Conselheiro Calado](https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO) | [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ) | [Conselheiro Calado](https://open.spotify.com/album/1SWSMAbIToMxu0OIQLPyeN) | 4:01 |
-| 70 | [Macieira](https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Macieira](https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ) | 3:23 |
+| 69 | [Macieira](https://open.spotify.com/track/2Aa7811ydihpw3zDKimFDX) | [Telê](https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1) | [Macieira](https://open.spotify.com/album/1nfsB4TyQJUTefoMzBohSQ) | 3:23 |
+| 70 | [Conselheiro Calado](https://open.spotify.com/track/7MHTISeIULk2TxbJKJDWSO) | [Maurício Tagliari](https://open.spotify.com/artist/0QAhPl2A50QPWp1mJRu2ml), [Rodrigo Campos](https://open.spotify.com/artist/08VlguMfAFdEAJb15OWAeJ) | [Conselheiro Calado](https://open.spotify.com/album/1SWSMAbIToMxu0OIQLPyeN) | 4:01 |
 | 71 | [Jura](https://open.spotify.com/track/3Uet0zyQWzgLCRBNTKmBgU) | [Orlandivo](https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0) | [A Chave do Sucesso](https://open.spotify.com/album/3DvT2KqKuuP8BWqLUl6wF1) | 2:22 |
 | 72 | [Prova dos Nove](https://open.spotify.com/track/7KXjiSy1p54I0EIxW1zcwx) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/3hXXMdT2z0lunHoz5KalQY) | 4:32 |
 | 73 | [Exagero](https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi) | [Beba\-Me Ao Vivo](https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM) | 3:50 |

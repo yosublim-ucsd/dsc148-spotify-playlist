@@ -1,6 +1,6 @@
 {
   "description": "De la douceur pour accompagner votre journ\u00e9e. \ud83c\udf37",
-  "num_followers": 122390,
+  "num_followers": 122413,
   "original_name": "Caf\u00e9 montr\u00e9alais",
   "owner": {
     "name": "Spotify",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "_dec carte de no\u00ebl",
-        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
-      },
-      "artists": [
-        {
-          "name": "Pomme",
-          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
-        }
-      ],
-      "duration_ms": 124960,
-      "name": "_dec carte de no\u00ebl",
-      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sprint!",
         "url": "https://open.spotify.com/album/5xJzH5mAstzasA183cAEEq"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 201557,
       "name": "Tu trembleras encore",
       "url": "https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "_dec carte de no\u00ebl",
+        "url": "https://open.spotify.com/album/0hAs4JSdnymgbu18ARLLs7"
+      },
+      "artists": [
+        {
+          "name": "Pomme",
+          "url": "https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9"
+        }
+      ],
+      "duration_ms": 124960,
+      "name": "_dec carte de no\u00ebl",
+      "url": "https://open.spotify.com/track/0yr7VTpZTGsoLrqEaJdJm1"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Bright Green Vibrant Gray",
-        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
-      },
-      "artists": [
-        {
-          "name": "Helena Deland",
-          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
-        }
-      ],
-      "duration_ms": 219507,
-      "name": "Bright Green Vibrant Gray",
-      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Solitudes",
         "url": "https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 248306,
       "name": "Solitudes",
       "url": "https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Bright Green Vibrant Gray",
+        "url": "https://open.spotify.com/album/6nZGvx9KlQsM23CTuqIMEO"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "duration_ms": 219507,
+      "name": "Bright Green Vibrant Gray",
+      "url": "https://open.spotify.com/track/4nq1ycSKzbzGcMoRfD6lCN"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1047,8 +1047,8 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "L'\u00e9t\u00e9 indien de ta vie",
-        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+        "name": "Ma chanson Natashquan",
+        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
       },
       "artists": [
         {
@@ -1056,9 +1056,9 @@
           "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 238969,
-      "name": "L'\u00e9t\u00e9 indien de ta vie",
-      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+      "duration_ms": 198928,
+      "name": "Ma chanson Natashquan",
+      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1111,58 +1111,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Height of the Feeling",
-        "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
-      },
-      "artists": [
-        {
-          "name": "Patrick Watson",
-          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
-        },
-        {
-          "name": "La Force",
-          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
-        }
-      ],
-      "duration_ms": 239040,
-      "name": "Height of the Feeling",
-      "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Du temps",
-        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
-      },
-      "artists": [
-        {
-          "name": "Beyries",
-          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
-        }
-      ],
-      "duration_ms": 222586,
-      "name": "Du temps",
-      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ma chanson Natashquan",
-        "url": "https://open.spotify.com/album/7xFdfFJadsGE0tdmbRf1D6"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 198928,
-      "name": "Ma chanson Natashquan",
-      "url": "https://open.spotify.com/track/5N4W2lUwgTZYrAxduTC2sC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "1969",
         "url": "https://open.spotify.com/album/2NEtbWNxBAfOjMf0WPV38q"
       },
@@ -1183,6 +1131,38 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Du temps",
+        "url": "https://open.spotify.com/album/4EGEOLI7Xs4Usp4s2OSvno"
+      },
+      "artists": [
+        {
+          "name": "Beyries",
+          "url": "https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn"
+        }
+      ],
+      "duration_ms": 222586,
+      "name": "Du temps",
+      "url": "https://open.spotify.com/track/6F0U5qmFfiA5slwhFRI5yL"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "L'\u00e9t\u00e9 indien de ta vie",
+        "url": "https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM"
+      },
+      "artists": [
+        {
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
+        }
+      ],
+      "duration_ms": 238969,
+      "name": "L'\u00e9t\u00e9 indien de ta vie",
+      "url": "https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "The Paradise Club",
         "url": "https://open.spotify.com/album/7gYMUBhQwEtxA5XhJqHAW7"
       },
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Me semble que c'est facile",
-        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
+        "name": "Height of the Feeling",
+        "url": "https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW"
       },
       "artists": [
         {
-          "name": "Lisa LeBlanc",
-          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
+          "name": "Patrick Watson",
+          "url": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+        },
+        {
+          "name": "La Force",
+          "url": "https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH"
         }
       ],
-      "duration_ms": 203586,
-      "name": "Me semble que c'est facile",
-      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
+      "duration_ms": 239040,
+      "name": "Height of the Feeling",
+      "url": "https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1251,18 +1235,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dormir dans l'auto",
-        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
+        "name": "Me semble que c'est facile",
+        "url": "https://open.spotify.com/album/79oVShReMrIa4ACzMTX990"
       },
       "artists": [
         {
-          "name": "Daniel B\u00e9langer",
-          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+          "name": "Lisa LeBlanc",
+          "url": "https://open.spotify.com/artist/4YsjYDobnm0mf2tB4I9Zya"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Dormir dans l'auto",
-      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
+      "duration_ms": 203586,
+      "name": "Me semble que c'est facile",
+      "url": "https://open.spotify.com/track/5GnjCmIZZi09KzDsiFHYU4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1299,22 +1283,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "\u00c9coute",
-        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
-      },
-      "artists": [
-        {
-          "name": "\u00c9tienne Copp\u00e9e",
-          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "\u00c9coute",
-      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Elle vit dans les bois",
         "url": "https://open.spotify.com/album/7zqogW39G3OCAsmbFXN36I"
       },
@@ -1331,18 +1299,34 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dans la for\u00eat num\u00e9rique",
-        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+        "name": "\u00c9coute",
+        "url": "https://open.spotify.com/album/6jZzuXLPJFgottCyUEgJ3F"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00f4me Mini\u00e8re",
-          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+          "name": "\u00c9tienne Copp\u00e9e",
+          "url": "https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp"
         }
       ],
-      "duration_ms": 231906,
-      "name": "Nos corps",
-      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+      "duration_ms": 152893,
+      "name": "\u00c9coute",
+      "url": "https://open.spotify.com/track/0ibGf52f3J60HlcSvuizKs"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dormir dans l'auto",
+        "url": "https://open.spotify.com/album/38XYlSUWPXP5g0YiFqnsEl"
+      },
+      "artists": [
+        {
+          "name": "Daniel B\u00e9langer",
+          "url": "https://open.spotify.com/artist/3k0HFz1mMtmsaWYsX75MiW"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Dormir dans l'auto",
+      "url": "https://open.spotify.com/track/6YeU90UGMd5pOapVHBXF1Q"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Dans la for\u00eat num\u00e9rique",
+        "url": "https://open.spotify.com/album/0K5AJ0lFnv7l9fdVvswYcR"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00f4me Mini\u00e8re",
+          "url": "https://open.spotify.com/artist/35QNxIS3w7AC2R2vrAlrhT"
+        }
+      ],
+      "duration_ms": 231906,
+      "name": "Nos corps",
+      "url": "https://open.spotify.com/track/3a2qhSVtcRBha7vJ6KHhyT"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3Xj4TtMdMydSBQTjCWobxp"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Call Me",
-        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
-      },
-      "artists": [
-        {
-          "name": "The Franklin Electric",
-          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
-        }
-      ],
-      "duration_ms": 179773,
-      "name": "Call Me",
-      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Tatouage",
         "url": "https://open.spotify.com/album/6nnyNRzGslhQ1WYM7H31jZ"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 179950,
       "name": "Tatouage",
       "url": "https://open.spotify.com/track/4df7sF3EBW2MU5FFanAIQB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Call Me",
+        "url": "https://open.spotify.com/album/6M4PH0BcosPJh6lvZS3wIg"
+      },
+      "artists": [
+        {
+          "name": "The Franklin Electric",
+          "url": "https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN"
+        }
+      ],
+      "duration_ms": 179773,
+      "name": "Call Me",
+      "url": "https://open.spotify.com/track/5WpWQSBUD3XWKk4Ic2ueAk"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Fables (The Garden Version)",
-        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
-      },
-      "artists": [
-        {
-          "name": "Basia Bulat",
-          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
-        }
-      ],
-      "duration_ms": 176536,
-      "name": "Fables - The Garden Version",
-      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
         "url": "https://open.spotify.com/album/270Bbbh2dJynbVAV9qb3kO"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 187893,
       "name": "Rendez-vous (feat. Cam\u00e9lia Jordana)",
       "url": "https://open.spotify.com/track/0ICXb82u1L3CpYvYQI14xz"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Fables (The Garden Version)",
+        "url": "https://open.spotify.com/album/38uDEzlrOXkLtPfRz0zX5s"
+      },
+      "artists": [
+        {
+          "name": "Basia Bulat",
+          "url": "https://open.spotify.com/artist/2iuqXpyyC67z6S2pq2m0gV"
+        }
+      ],
+      "duration_ms": 176536,
+      "name": "Fables - The Garden Version",
+      "url": "https://open.spotify.com/track/3jLVtU8Sm0cyiVHWFENICL"
     },
     {
       "added_at": "2024-04-19 04:00:00",

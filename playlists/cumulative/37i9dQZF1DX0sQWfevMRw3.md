@@ -4,7 +4,7 @@
 
 > VAD BÄNKAR DU??
 
-1,062 songs - 1 day 20 hr 50 min
+1,063 songs - 1 day 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -923,6 +923,7 @@
 | [Så kommer känslorna tillbaka \- J.O.X EPA Remix](https://open.spotify.com/track/6Kk5b5nJ65MsYybzSvGbqF) | [Casanovas](https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Så kommer känslorna tillbaka](https://open.spotify.com/album/2GxPeFHyST0Vzado2OFzav) | 3:10 | 2023-04-13 | 2023-05-05 |
 | [Så kommer känslorna tillbaka \- Summer Dance Remix](https://open.spotify.com/track/5saaFsfDlrNWDrKuSmxKdo) | [Casanovas](https://open.spotify.com/artist/29JwBerAT0YALGfItKsEbT), [Allergic](https://open.spotify.com/artist/3NYEc5oq4d2os0rOsgJNgk) | [Så kommer känslorna tillbaka \(Summer Dance Remix\)](https://open.spotify.com/album/0zTjMv9AhRDN7NZGkyURH0) | 2:48 | 2023-06-15 | 2023-08-11 |
 | [SÅ MÅNGA MIL, SÅ MÅNGA ÅR...](https://open.spotify.com/track/3yE566OGWBAZ6Z6SuosfFQ) | [Louise Andersson Bodin](https://open.spotify.com/artist/23z00NPQmiYxmpZSiDlQAE) | [SÅ MÅNGA MIL, SÅ MÅNGA ÅR...](https://open.spotify.com/album/0pgqOhQRFL2n6if9pbcvGs) | 3:01 | 2023-10-12 | 2023-11-10 |
+| [Sörbäckenkartellen](https://open.spotify.com/track/6Z9wEtCQtq0XSUAUL80lyJ) | [Bröderna Öhman](https://open.spotify.com/artist/5lLSZvy7jLYACia430zl4C) | [Sörbäckenkartellen](https://open.spotify.com/album/6zAukiIRVPHgYhoM7rCOAT) | 3:28 | 2024-04-22 |  |
 | [TA EN SHOT MED MIG](https://open.spotify.com/track/3owHmkXorSOsxWtwU7byqO) | [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [TA EN SHOT MED MIG](https://open.spotify.com/album/0xOu8A9WuHt7bJPkvZtnv0) | 2:25 | 2024-03-28 | 2024-04-05 |
 | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/track/6DhMtmrn1rmxntTVQhvQrb) | [Maximus](https://open.spotify.com/artist/7KXt61GtLmrIizwZkpZa5C), [RIK1](https://open.spotify.com/artist/0YnSx8xXces528yeQtNRuz) | [TA EN ÖL \(DOH DAH\)](https://open.spotify.com/album/0aWSNqsyetGipemN5tnhyY) | 2:21 | 2023-11-30 |  |
 | [TA MIG HELA NATTEN](https://open.spotify.com/track/3W5CDHudoElqUNbuqqPlBW) | [Tjuraz](https://open.spotify.com/artist/422TKCcRW5Kd6j7WDbS4gL), [JENTAN](https://open.spotify.com/artist/4MEouD4sJ7R7RS4AWPmLH8), [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [TA MIG HELA NATTEN](https://open.spotify.com/album/3XPMm4co393lrFQbozwZu4) | 2:37 | 2023-02-23 | 2023-04-21 |

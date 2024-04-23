@@ -1,6 +1,6 @@
 {
   "description": "The softer side of dance.",
-  "num_followers": 564476,
+  "num_followers": 564750,
   "original_name": "Chilled Dance Hits",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Paradise",
         "url": "https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 197640,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "The Wanderings Of The Avener",
+        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
+      },
+      "artists": [
+        {
+          "name": "The Avener",
+          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
+        },
+        {
+          "name": "Phoebe Killdeer",
+          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
+        }
+      ],
+      "duration_ms": 276600,
+      "name": "Fade Out Lines - The Avener Rework",
+      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Sorry (with Madonna)",
         "url": "https://open.spotify.com/album/2pZKo6RIXWaZReQKBHjaxn"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "The Wanderings Of The Avener",
-        "url": "https://open.spotify.com/album/6dUvmAyjqJv11TAWNoxsBP"
-      },
-      "artists": [
-        {
-          "name": "The Avener",
-          "url": "https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0"
-        },
-        {
-          "name": "Phoebe Killdeer",
-          "url": "https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT"
-        }
-      ],
-      "duration_ms": 276600,
-      "name": "Fade Out Lines - The Avener Rework",
-      "url": "https://open.spotify.com/track/1ubVPccf8Vb9mL0XYpVpCV"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1063,26 +1063,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Rhythm (Of The Night)",
-        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
-      },
-      "artists": [
-        {
-          "name": "Something Good",
-          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
-        },
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 201621,
-      "name": "Rhythm (Of The Night)",
-      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Exotica",
         "url": "https://open.spotify.com/album/1IeEUrtmzQGatMM6uIA1in"
       },
@@ -1099,6 +1079,26 @@
       "duration_ms": 195704,
       "name": "Hypnotized",
       "url": "https://open.spotify.com/track/1zsFr9rPcsMwRtqjDJJpnC"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Rhythm (Of The Night)",
+        "url": "https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW"
+      },
+      "artists": [
+        {
+          "name": "Something Good",
+          "url": "https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX"
+        },
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 201621,
+      "name": "Rhythm (Of The Night)",
+      "url": "https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Panorama",
-        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
-      },
-      "artists": [
-        {
-          "name": "M\u00f8me",
-          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
-        },
-        {
-          "name": "Merryn Jeann",
-          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
-        }
-      ],
-      "duration_ms": 218480,
-      "name": "Aloha",
-      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Settle (Deluxe Version)",
         "url": "https://open.spotify.com/album/0v5BqH7RQlIuJIWfQCl1Bp"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 244174,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/3whmx5Ptrqzx2c101FJFi3"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "Panorama",
+        "url": "https://open.spotify.com/album/4ZaeYUM5vgvkpexijZ3w2r"
+      },
+      "artists": [
+        {
+          "name": "M\u00f8me",
+          "url": "https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX"
+        },
+        {
+          "name": "Merryn Jeann",
+          "url": "https://open.spotify.com/artist/6PwHyGcUfjwdjT9cdsaVWT"
+        }
+      ],
+      "duration_ms": 218480,
+      "name": "Aloha",
+      "url": "https://open.spotify.com/track/7IfOWyh4jTfkcGVrXKVNq0"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -1959,6 +1959,22 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
+        "name": "Fire Hell and Holy Water",
+        "url": "https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ"
+      },
+      "artists": [
+        {
+          "name": "Giol\u00ec & Assia",
+          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
+        }
+      ],
+      "duration_ms": 221966,
+      "name": "Silence",
+      "url": "https://open.spotify.com/track/6MdHVJhh0cQomfFevROFuJ"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
         "name": "Rainbows",
         "url": "https://open.spotify.com/album/0unoReVDp3l2iY7Pgkv7jm"
       },
@@ -1979,22 +1995,6 @@
     {
       "added_at": "2024-03-19 13:37:55",
       "album": {
-        "name": "Fire Hell and Holy Water",
-        "url": "https://open.spotify.com/album/0ZTKj2OdsF2gI2npmAADAQ"
-      },
-      "artists": [
-        {
-          "name": "Giol\u00ec & Assia",
-          "url": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU"
-        }
-      ],
-      "duration_ms": 221966,
-      "name": "Silence",
-      "url": "https://open.spotify.com/track/6MdHVJhh0cQomfFevROFuJ"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
         "name": "Better Love",
         "url": "https://open.spotify.com/album/0delJu1UUzdBfufg94lbME"
       },
@@ -2007,22 +2007,6 @@
       "duration_ms": 138080,
       "name": "Better Love",
       "url": "https://open.spotify.com/track/1UTHkifQMS6znmSx2Svobk"
-    },
-    {
-      "added_at": "2024-03-19 13:37:55",
-      "album": {
-        "name": "There's Another Life 4 U / So Long",
-        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 213987,
-      "name": "There's Another Life 4 U",
-      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
     },
     {
       "added_at": "2024-03-19 13:37:55",
@@ -2047,6 +2031,22 @@
       "duration_ms": 222624,
       "name": "Sometimes\u2026 (with Daya & Earthgang)",
       "url": "https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi"
+    },
+    {
+      "added_at": "2024-03-19 13:37:55",
+      "album": {
+        "name": "There's Another Life 4 U / So Long",
+        "url": "https://open.spotify.com/album/5VwbMyHjQ1hPcIHnEEvTKa"
+      },
+      "artists": [
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        }
+      ],
+      "duration_ms": 213987,
+      "name": "There's Another Life 4 U",
+      "url": "https://open.spotify.com/track/4LiZi2fbEIxcC9tZUtu0WW"
     },
     {
       "added_at": "2024-03-19 13:37:55",

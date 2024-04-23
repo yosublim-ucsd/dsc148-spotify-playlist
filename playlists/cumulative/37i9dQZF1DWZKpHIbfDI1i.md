@@ -4,7 +4,7 @@
 
 > La playlist con los más grandes éxitos de nuestrxs artistas mexicanxs\. Grupo Firme y El Coyote en portada.
 
-958 songs - 2 day 3 hr 37 min
+959 songs - 2 day 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [Llorar y Llorar \- con Carin Leon](https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN) | [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Llorar y Llorar \(con Carin Leon\)](https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn) | 2:49 | 2022-06-03 | 2022-12-03 |
 | [Llévame](https://open.spotify.com/track/0eduCnvSAPlph82xkBOGsY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Mundo](https://open.spotify.com/album/1ZSEd6KC03jopwyB22gaK9) | 3:01 | 2022-08-18 | 2022-12-17 |
 | [Llévatelo](https://open.spotify.com/track/53RLjHptrKflawOuGru1xM) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Cambios de Luna](https://open.spotify.com/album/0UaPZ3OfJgoTB5RKpZ0UY0) | 2:23 | 2022-04-23 | 2022-07-16 |
+| [Lo Dejaría Todo](https://open.spotify.com/track/4ekRFS0oOGdkZxaeZ4Btd5) | [Priscilla Félix](https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu) | [Lo Dejaría Todo](https://open.spotify.com/album/50cfhfrNgotJpIy0tQPy38) | 3:22 | 2024-04-22 |  |
 | [Lo Lindo de Mi Ex](https://open.spotify.com/track/4f0FzBzq8rtqtbiHRQSJl8) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Lo Lindo de Mi Ex](https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa) | 2:12 | 2022-04-08 | 2022-04-20 |
 | [LO LOGRÉ](https://open.spotify.com/track/46WF4Sv3OOpxuoK4kFqXiC) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 | 2023-03-28 | 2023-04-01 |
 | [Lo Que Construimos \- Spotify Singles](https://open.spotify.com/track/5YCs2XXzIFHADPntqJ2jqv) | [Virlan Garcia](https://open.spotify.com/artist/0vjeBgTzYTwmYoVySJzXGD) | [Lo Que Construimos \(Spotify Singles\)](https://open.spotify.com/album/7ewtzbOUdPhT85PQ6onKEF) | 3:39 | 2022-06-17 | 2022-10-08 |
@@ -906,7 +907,7 @@
 | [Veneno](https://open.spotify.com/track/1Pw3YZofZjTNuxrGUB3wgY) | [Fey](https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL) | [Veneno](https://open.spotify.com/album/45yr2xU2lJ8Gdcb9axOPXP) | 2:24 | 2023-08-25 | 2023-09-02 |
 | [VETE A LA FREGADA](https://open.spotify.com/track/4WkyOBjeLPk7rAisyKl0uN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [NOSTALGIA](https://open.spotify.com/album/72rN7YPXX4BxMQ3nNmipAd) | 2:46 | 2022-05-06 | 2022-05-08 |
 | [Viejo](https://open.spotify.com/track/4Jnqwmy4Ms1q4PDMmACzfw) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Historia Debe Continuar \(TOUR EN VIVO\) \[En Vivo\]](https://open.spotify.com/album/2BzRAvBLzKPp03b5VRLde2) | 3:01 | 2022-06-17 | 2022-07-29 |
-| [Vitamina D](https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt) | 2:47 | 2024-03-22 |  |
+| [Vitamina D](https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA) | [Tofu](https://open.spotify.com/album/7kLvURv846Zx0ehgCXyyVt) | 2:47 | 2024-03-22 | 2024-04-23 |
 | [Vivir Así Es Morir de Amor](https://open.spotify.com/track/2JBGoJqzvPAsGa0eo7zcNg) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Ofrenda](https://open.spotify.com/album/3lt8rmUiZvG6Lnt1Ejfd97) | 3:40 | 2022-01-13 | 2022-07-29 |
 | [Vivo en el 6](https://open.spotify.com/track/3afafgQst7OyR2d7vPbJTM) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Vivo en el 6](https://open.spotify.com/album/11z6QHC7vKHwAbwpzV7Xsz) | 3:12 | 2022-05-06 | 2022-10-15 |
 | [Volverás](https://open.spotify.com/track/65peiUbnSBGUxhxkRPJBSm) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Volverás](https://open.spotify.com/album/5wKABXihyPEA2YGNnfDttk) | 3:48 | 2023-10-13 | 2023-11-04 |

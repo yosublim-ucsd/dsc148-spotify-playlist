@@ -1,12 +1,12 @@
 {
   "description": "This is Rihanna. The essential tracks, all in one playlist.",
-  "num_followers": 3049281,
+  "num_followers": 3048281,
   "original_name": "This Is Rihanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDY5ZDE5M2ZmMDgwNWYwY2UzZWY5ZmRlNWQzN2MxNjRi",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDMxZmM4NWRiZmI5ZWQ0NWE4YzQ4MzI4ZTBkZWQyOWNh",
   "tracks": [
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talk That Talk",
+        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 200013,
+      "name": "You Da One",
+      "url": "https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Music Of The Sun",
         "url": "https://open.spotify.com/album/4FyGpObwABjn0o8Tdp7AZz"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 161200,
       "name": "Pour It Up",
       "url": "https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talk That Talk",
-        "url": "https://open.spotify.com/album/1Kw1bVd07oRqcjrcjQKC8T"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 200013,
-      "name": "You Da One",
-      "url": "https://open.spotify.com/track/3Yt9lRtS5V4nbJnwcgFgvC"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loud (Japan Version)",
+        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "California King Bed",
+      "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -811,38 +827,6 @@
       "duration_ms": 216293,
       "name": "Nobody's Business",
       "url": "https://open.spotify.com/track/6EAxaAk1eZx0aqqH4ff4rP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rated R",
-        "url": "https://open.spotify.com/album/7uGmyYwDFJbSc1xs4hkEs2"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 208426,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/4YYHgF9dWyVSor0GtrBzdf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Loud (Japan Version)",
-        "url": "https://open.spotify.com/album/5QG3tjE5L9F6O2vCAPph38"
-      },
-      "artists": [
-        {
-          "name": "Rihanna",
-          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "California King Bed",
-      "url": "https://open.spotify.com/track/1NpDnkQO0yWxTtntrC0UNz"
     },
     {
       "added_at": null,

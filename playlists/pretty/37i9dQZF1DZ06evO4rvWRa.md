@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 
 ### [This Is Alan Walker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rvWRa)
 
-> This is Alan Walker\. The essential tracks, all in one playlist.
+> This is Alan Walker\. Track\-track unggulan, semuanya dalam satu playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,636,412 likes - 49 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,634,891 likes - 49 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 14 | [Darkside](https://open.spotify.com/track/6SRWhUJcD2YKahCwHavz3X) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Au/Ra](https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV), [Tomine Harket](https://open.spotify.com/artist/6064pL9Hu3Wx2bwJMeOx6o) | [Different World](https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0) | 3:31 |
 | 15 | [PS5](https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr) | [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT), [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [\(MORE\) Unsponsored Content](https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye) | 2:32 |
 | 16 | [Ignite](https://open.spotify.com/track/1jLsirPDkUS2g4gnkYua58) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv), [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [SEUNGRI](https://open.spotify.com/artist/20j1uz7iDOtIvIzCr5S8nx) | [Ignite](https://open.spotify.com/album/6Rg9tJW4DSAUyNp59VXzu1) | 3:30 |
-| 17 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 |
-| 18 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
+| 17 | [Man On The Moon](https://open.spotify.com/track/0zqBZqm5czQ3A4EoSdKFHj) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [World Of Walker](https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF) | 2:58 |
+| 18 | [Heart over Mind](https://open.spotify.com/track/3duI7TT4kzLtoqf4PeUR3Z) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 3:09 |
 | 19 | [Legends Never Die \- \(Remix\)](https://open.spotify.com/track/66YtIqT0kN4958EXnCnAmE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Mako](https://open.spotify.com/artist/0Ye4nfYAA91T1X56gnlXAA) | [Legends Never Die \(Remix\)](https://open.spotify.com/album/2cRJKhNgs1Snq7bV4ELLho) | 2:47 |
 | 20 | [Unity](https://open.spotify.com/track/3Os9onUOoxT6EP3kwiMRKA) | [The Walkers](https://open.spotify.com/artist/3o6ANFc1elhbAeqRYphStE), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Unity](https://open.spotify.com/album/22lXrN1Kqr8FNNZLPNmEeh) | 3:24 |
 | 21 | [End of Time](https://open.spotify.com/track/67O8CWXxPsfz8orZVGMQwf) | [K\-391](https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ahrix](https://open.spotify.com/artist/0kXCdaJ7C5MD27jXxzvHsa) | [End of Time](https://open.spotify.com/album/03tk4zBML1lvnm5xrjnJFl) | 3:07 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rvWRa.md) - [plain]
 | 48 | [Spectre 2.0](https://open.spotify.com/track/6DCF3DIlT4iGKGlqudoUD7) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Lonely Club](https://open.spotify.com/artist/1tPJP9nWEM6mQK295zgp2K) | [Walkerworld](https://open.spotify.com/album/3bKcoHSsmTEWHAGXqwOneo) | 2:56 |
 | 49 | [Blue](https://open.spotify.com/track/2DwNvCKsQLtLILczk3I9bA) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Walkerverse Pt\. I & II](https://open.spotify.com/album/6kbiBMllsbGVYMAy8YJKs9) | 2:37 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGRlN2YzMTIyMjdjMTY0NGNlZjM1ZGEzZDI0NmRlMTk5`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDFkYTg5ZTk4YmE0ODgxN2RjMDEwOGE2MTRmMzkxNzU5`

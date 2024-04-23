@@ -2215,6 +2215,24 @@
     },
     {
       "album": {
+        "name": "Jack of the Drought",
+        "url": "https://open.spotify.com/album/2QqooWaTATVvx12AWzqFMY"
+      },
+      "artists": [
+        {
+          "name": "Pushing Veronica",
+          "url": "https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189253,
+      "name": "Jack of the Drought",
+      "url": "https://open.spotify.com/track/3tP8884xqAPd7xUEszh8ZL"
+    },
+    {
+      "album": {
         "name": "A Lesson In Romantics",
         "url": "https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9"
       },

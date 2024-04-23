@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,885 songs - 4 day 5 hr 40 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 1,887 songs - 4 day 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1893,5 +1893,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 1883 | [Moving Body](https://open.spotify.com/track/5xlfaqSM2xoOJH3ObTfEnc) | [TNMN](https://open.spotify.com/artist/3lgh0lWovwBcXgL0Ws5j1j) | [RCKLSS014](https://open.spotify.com/album/5AJCAzuRIrvhYG2ah1w13p) | 6:40 |
 | 1884 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
 | 1885 | [Club classics](https://open.spotify.com/track/7BoOmRrtNCbIT9yQ4xidk5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:33 |
+| 1886 | [The von dutch remix with skream and benga](https://open.spotify.com/track/6avei3GTDwm3u8jobPwGh5) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [The von dutch remix with skream and benga](https://open.spotify.com/album/6e5PBZjpdbu2t39D9QoUgF) | 4:41 |
+| 1887 | [B2b](https://open.spotify.com/track/6tYGrpUyqB4yao5lAs3AR4) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Club classics / B2b](https://open.spotify.com/album/1SVYaK0V3lULwQ0rtnrIy3) | 2:58 |
 
-Snapshot ID: `NzQ1LGQwMzQzZWMyZDA2YmZjMWE2Mjc3YWNlYjgyMzFjNmYzNWNiY2E4MDI=`
+Snapshot ID: `NzQ3LDVlNGUwMmIwODg2OWYzZTUzY2IxOWY4MWExNTkyOWZmNTRhZGQwNWI=`

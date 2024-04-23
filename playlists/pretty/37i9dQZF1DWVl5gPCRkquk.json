@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 856799,
+  "num_followers": 855961,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Everybody Needs Someone (feat. Vance Joy)",
+        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 178819,
+      "name": "Everybody Needs Someone (feat. Vance Joy)",
+      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Until You",
         "url": "https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem"
       },
@@ -407,26 +427,6 @@
       "duration_ms": 251933,
       "name": "I Was Born To Love You",
       "url": "https://open.spotify.com/track/3YllcvA3PW1DUwjckCVjIw"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Everybody Needs Someone (feat. Vance Joy)",
-        "url": "https://open.spotify.com/album/5eWIV7Xa9H7aeciqMgMKNZ"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 178819,
-      "name": "Everybody Needs Someone (feat. Vance Joy)",
-      "url": "https://open.spotify.com/track/2TZKvEQyTtcXLBfAk7kt8n"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Past Is Still Alive",
-        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 222341,
-      "name": "Hawkmoon",
-      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "That Spell",
         "url": "https://open.spotify.com/album/4iTfIM0YixQgp8s0QAN0xJ"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 193333,
       "name": "Take Back Thy Gift",
       "url": "https://open.spotify.com/track/3ugct54al0lscnP8yZhE4C"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Past Is Still Alive",
+        "url": "https://open.spotify.com/album/5swrwkZivdtPxSHAuQvrOE"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 222341,
+      "name": "Hawkmoon",
+      "url": "https://open.spotify.com/track/4LbT4vgs0uYQHT3NZn9GD1"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Good Woman",
-        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 216746,
-      "name": "Nothing\u2019s Gonna Happen",
-      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Flag Day (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 212546,
       "name": "I Think Of Angels",
       "url": "https://open.spotify.com/track/2OiTeK0Cjs1zGu6ZiA4yC2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Good Woman",
+        "url": "https://open.spotify.com/album/66A7X1EqFQEEvuE5Nezqrl"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 216746,
+      "name": "Nothing\u2019s Gonna Happen",
+      "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "First Mind",
-        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 248853,
-      "name": "April",
-      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Song For Our Daughter",
         "url": "https://open.spotify.com/album/0ubXthGSkZfe30Nuj91lcu"
       },
@@ -843,18 +827,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Faking My Own Death",
-        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+        "name": "First Mind",
+        "url": "https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh"
       },
       "artists": [
         {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         }
       ],
-      "duration_ms": 238829,
-      "name": "Faking My Own Death",
-      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
+      "duration_ms": 248853,
+      "name": "April",
+      "url": "https://open.spotify.com/track/6J0OvmRxVmiRyLeJ0aBryf"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -871,6 +855,22 @@
       "duration_ms": 230813,
       "name": "Featherweight",
       "url": "https://open.spotify.com/track/3ir3Eoj0pi0vlhqunNSyK3"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Faking My Own Death",
+        "url": "https://open.spotify.com/album/5wGcJVAdzM6LndVUbMxTnf"
+      },
+      "artists": [
+        {
+          "name": "Allison Ponthier",
+          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
+        }
+      ],
+      "duration_ms": 238829,
+      "name": "Faking My Own Death",
+      "url": "https://open.spotify.com/track/0GoTonjhYLPM7NVKqliTTt"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "When I Say That I Love You",
-        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
-      },
-      "artists": [
-        {
-          "name": "Gabe Goodman",
-          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
-        }
-      ],
-      "duration_ms": 177674,
-      "name": "When I Say That I Love You",
-      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/1mtoKw1qiU13YdQkz5vgEe"
       },
@@ -1495,6 +1479,38 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "When I Say That I Love You",
+        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 177674,
+      "name": "When I Say That I Love You",
+      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Parking Lot",
+        "url": "https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH"
+      },
+      "artists": [
+        {
+          "name": "Pajaro Sunrise",
+          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
+        }
+      ],
+      "duration_ms": 232649,
+      "name": "Parking Lot",
+      "url": "https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "America",
         "url": "https://open.spotify.com/album/7m8l1V5XSWHN7QF6cDDYby"
       },
@@ -1515,22 +1531,6 @@
       "duration_ms": 251733,
       "name": "America",
       "url": "https://open.spotify.com/track/1inPvlZzUNG4hqYxLLEF0W"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Parking Lot",
-        "url": "https://open.spotify.com/album/6wGepQvwSctX1zib7kpUdH"
-      },
-      "artists": [
-        {
-          "name": "Pajaro Sunrise",
-          "url": "https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq"
-        }
-      ],
-      "duration_ms": 232649,
-      "name": "Parking Lot",
-      "url": "https://open.spotify.com/track/632xyZbSBdyc5tJ9gOYFdE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "These Four Words",
+        "url": "https://open.spotify.com/album/6spUqdLQA7jkRInsc7MxFb"
+      },
+      "artists": [
+        {
+          "name": "Virginia Man",
+          "url": "https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "Come Back to Me",
+      "url": "https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Lie to Me",
         "url": "https://open.spotify.com/album/4FfQqWJbo7vCoC3oxz3k7E"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 221000,
       "name": "Burden",
       "url": "https://open.spotify.com/track/7HOTm58hiTnCjpSJq4OvJs"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "These Four Words",
-        "url": "https://open.spotify.com/album/6spUqdLQA7jkRInsc7MxFb"
-      },
-      "artists": [
-        {
-          "name": "Virginia Man",
-          "url": "https://open.spotify.com/artist/2SHS7BBj7Rv0UjsWwlkFEt"
-        }
-      ],
-      "duration_ms": 126960,
-      "name": "Come Back to Me",
-      "url": "https://open.spotify.com/track/794cBkkuwcRJ6tDq35dhgC"
     },
     {
       "added_at": "2024-03-08 05:00:00",

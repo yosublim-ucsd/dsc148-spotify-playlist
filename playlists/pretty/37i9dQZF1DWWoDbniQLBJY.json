@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las canciones ac\u00fasticas. Cover: Maria Becerra",
-  "num_followers": 1914529,
+  "num_followers": 1910939,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
+        "name": "chiquita",
+        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 198720,
+      "name": "culpa",
+      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
         "name": "Universo Amor",
         "url": "https://open.spotify.com/album/7qU1O8uxdzWUPVQ9AnzN0Z"
       },
@@ -559,22 +575,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "chiquita",
-        "url": "https://open.spotify.com/album/4K29NpImQBdRlngO3NhNbK"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 198720,
-      "name": "culpa",
-      "url": "https://open.spotify.com/track/7nByHsiIV08TNL6hG4nBBs"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "MTV Unplugged",
         "url": "https://open.spotify.com/album/2uhUNyt2jQ4JdtJmWynza2"
       },
@@ -587,22 +587,6 @@
       "duration_ms": 400826,
       "name": "No Ha Parado de Llover - Unplugged",
       "url": "https://open.spotify.com/track/7fJKZAezCzADUYPX7IJf7L"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
-        "name": "La \u00daltima Canci\u00f3n",
-        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
-      },
-      "artists": [
-        {
-          "name": "CNCO",
-          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -627,6 +611,22 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
+        "name": "La \u00daltima Canci\u00f3n",
+        "url": "https://open.spotify.com/album/0pSYqGyZXM9SlyTdyB1t1N"
+      },
+      "artists": [
+        {
+          "name": "CNCO",
+          "url": "https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/0wKivXf3kIW91AtEll1Aqa"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
         "name": "Tus Ojitos",
         "url": "https://open.spotify.com/album/4uBMJOCvn3j1Q2spx5Suoc"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "7 Meses",
-        "url": "https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR"
-      },
-      "artists": [
-        {
-          "name": "Lizzy Parra",
-          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
-        }
-      ],
-      "duration_ms": 175404,
-      "name": "7 Meses",
-      "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Pablo Albor\u00e1n Spotify Sessions",
         "url": "https://open.spotify.com/album/2MvBTwo2wis5ucqYxOJANe"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 266104,
       "name": "Pasos de cero - Live from Spotify NYC",
       "url": "https://open.spotify.com/track/4SsgDQo4lLoFKbfoWhf5hh"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "7 Meses",
+        "url": "https://open.spotify.com/album/3q81z0sKzdh4MeQjUVn0VR"
+      },
+      "artists": [
+        {
+          "name": "Lizzy Parra",
+          "url": "https://open.spotify.com/artist/1Cm5r6LqrFQDuA0F4KUIQz"
+        }
+      ],
+      "duration_ms": 175404,
+      "name": "7 Meses",
+      "url": "https://open.spotify.com/track/00q4uzpZiCOExi2JdDOcvc"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
-        "url": "https://open.spotify.com/album/7svWXeyE07A5uDMa2gCkS2"
-      },
-      "artists": [
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 226481,
-      "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
-      "url": "https://open.spotify.com/track/717UO8qmZhhgr8nz9psfss"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Tusa",
         "url": "https://open.spotify.com/album/6MwzNJsdOyTx6b6dbAv1wc"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 153564,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/2KhQWu0rUU6zGu53c6nkVs"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
+        "url": "https://open.spotify.com/album/7svWXeyE07A5uDMa2gCkS2"
+      },
+      "artists": [
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 226481,
+      "name": "Everything Was For Love (from the movie \u201cWith This Light\")",
+      "url": "https://open.spotify.com/track/717UO8qmZhhgr8nz9psfss"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 201500,
-      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/1iISTtFC766MmhpKtlz3sy"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 152533,
       "name": "Juana Mecho - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/4Nz1LJSDHxHxPjIZdP4tGf"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Para Ti (Versi\u00f3n Ac\u00fastica)",
+        "url": "https://open.spotify.com/album/2A4NWAmKm275rN9tycg6K3"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 201500,
+      "name": "Para Ti - Versi\u00f3n Ac\u00fastica",
+      "url": "https://open.spotify.com/track/3wO71n44x8JqR1lLgsOU6v"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "A M\u00ed y a Nadie M\u00e1s",
-        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
-      },
-      "artists": [
-        {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
-        }
-      ],
-      "duration_ms": 157617,
-      "name": "A M\u00ed y a Nadie M\u00e1s",
-      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Despacito (Acoustic)",
         "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 218108,
       "name": "Despacito - Acoustic",
       "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "A M\u00ed y a Nadie M\u00e1s",
+        "url": "https://open.spotify.com/album/0gyqky5IqDE7Rhh0To0U7P"
+      },
+      "artists": [
+        {
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+        }
+      ],
+      "duration_ms": 157617,
+      "name": "A M\u00ed y a Nadie M\u00e1s",
+      "url": "https://open.spotify.com/track/5FkY6tiDeRyYkmknZGwXSX"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
+        "name": "SUBEME LA RADIO",
+        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
         "name": "Acustico",
         "url": "https://open.spotify.com/album/7nWAePPkngD730y97WP8H1"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 453893,
       "name": "Algo M\u00e1s (Versi\u00f3n Ac\u00fastica) (with Miguel Inzunza) - En Vivo",
       "url": "https://open.spotify.com/track/4lsQ95QbbWVlJYjsRxsOda"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
-        "name": "SUBEME LA RADIO",
-        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1431,26 +1431,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Souvenir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
-      },
-      "artists": [
-        {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
-        },
-        {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
-        }
-      ],
-      "duration_ms": 198213,
-      "name": "Souvenir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Dimos Tanto",
         "url": "https://open.spotify.com/album/1j3xpnB1UQmJgUTLtaVwEo"
       },
@@ -1479,6 +1459,26 @@
       "duration_ms": 210848,
       "name": "Underdog - Acoustic Version",
       "url": "https://open.spotify.com/track/4IbaDX0qm36Oiu0kdoq8Wb"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Souvenir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Souvenir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
     },
     {
       "added_at": "2024-04-19 15:27:41",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2024-04-19 15:27:41",
       "album": {
-        "name": "Un Cari\u00f1ito (Versi\u00f3n Ac\u00fastica)",
-        "url": "https://open.spotify.com/album/74fF7h1oaKiGaUQBVvScwu"
-      },
-      "artists": [
-        {
-          "name": "Alex Ferreira",
-          "url": "https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7"
-        }
-      ],
-      "duration_ms": 210942,
-      "name": "Un Cari\u00f1ito - Versi\u00f3n Ac\u00fastica",
-      "url": "https://open.spotify.com/track/6yafaQ3bGzRgC6Rr2gRGxt"
-    },
-    {
-      "added_at": "2024-04-19 15:27:41",
-      "album": {
         "name": "Canciones del Alma",
         "url": "https://open.spotify.com/album/39GDfEb2NSMJ5EmKtd79yi"
       },
@@ -1719,6 +1703,22 @@
       "duration_ms": 205010,
       "name": "T\u00fa Con \u00c9l",
       "url": "https://open.spotify.com/track/3Olb1S4AGjZcD5pB0CXG55"
+    },
+    {
+      "added_at": "2024-04-19 15:27:41",
+      "album": {
+        "name": "Am\u00e1",
+        "url": "https://open.spotify.com/album/1l2vOwtFeylsUJLf5ZDwOZ"
+      },
+      "artists": [
+        {
+          "name": "Josue Alaniz",
+          "url": "https://open.spotify.com/artist/0xe5VGTguHmr56kk0FF66A"
+        }
+      ],
+      "duration_ms": 176256,
+      "name": "Am\u00e1",
+      "url": "https://open.spotify.com/track/3RKuu8pgaGr2yhZFDtpOi9"
     }
   ],
   "unique_name": "Ac\u00fasticas",

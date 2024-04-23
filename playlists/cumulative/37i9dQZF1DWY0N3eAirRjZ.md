@@ -4,7 +4,7 @@
 
 > Please consider donating to Hawai'i Community Foundation's <a href="https://www.hawaiicommunityfoundation.org/maui\-strong?fbclid=IwAR13k\_bWcOzvA0EM6bF6CSmkSktK8G\[%E2%80%A6\]EzD6jXm7wvU2z18gYZVchaFYOyGe2pBhhcts&mibextid=Zxz2cZ">Maui Strong Fund</a> to provide financial resources quickly to those that have been impacted by the devastating wildfires on Maui.
 
-91 songs - 5 hr 47 min
+92 songs - 5 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,7 @@
 | [Hilo Hula](https://open.spotify.com/track/2XctnPVkwBKFcRWf0QGaGF) | [Uluwehi Guerrero](https://open.spotify.com/artist/7bZEhAbKw58nj7f7dxISjd) | [Hawaiian Island Breeze](https://open.spotify.com/album/2rOCJTDQKbDSxYWG930bMb) | 2:31 | 2022-05-02 | 2023-12-16 |
 | [Home](https://open.spotify.com/track/2HvDdnIM3gzROq4jZ0t2ha) | [Jay.Keyz](https://open.spotify.com/artist/735Dj0ds517E8X1uPiJ35s) | [Home](https://open.spotify.com/album/2S6Y4khGh8zG8RVVvBAcP6) | 3:56 | 2023-08-23 |  |
 | [Honolulu City Lights](https://open.spotify.com/track/7p7wUyiSlKhbBj6a4W5JQJ) | [Keola & Kapono Beamer](https://open.spotify.com/artist/3EzISrY4SedvUU2QWGaH4f) | [Honolulu City Lights](https://open.spotify.com/album/30Gr4mOBobnQqhMAVVmhS3) | 3:23 | 2022-05-02 |  |
-| [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-05-02 |  |
+| [How Far I'll Go](https://open.spotify.com/track/6mb6lVLNrcUgLnEN8QnDJd) | [Auli'i Cravalho](https://open.spotify.com/artist/5mnS9jJdKQQcRSqFu5YPVe) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:43 | 2022-05-02 | 2024-04-23 |
 | [Huaka\`i](https://open.spotify.com/track/0ZAXFqWIT7Abz7RkXeMdFJ) | [Patrick Landeza](https://open.spotify.com/artist/7ujNPg1x9Q4n0CRNZ8JseP) | [Slack Key Huaka\`i](https://open.spotify.com/album/7hKvLXhooRXdqytXRZ6Ib7) | 3:26 | 2022-05-02 |  |
 | [Ipo Lei Manu](https://open.spotify.com/track/4cXRygylIkwc1EgOJltbIw) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [Songs of Aloha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/119mKxx5iYvDFOFJbSxO6K) | 5:10 | 2023-12-15 | 2024-01-16 |
 | [Ipo Lei Manu](https://open.spotify.com/track/0j1rPE5I0707BqbolAyT0G) | [Cyril Pahinui](https://open.spotify.com/artist/7wsc0FqwFJpSWeSjuBMBJ5) | [6 & 12 String Slack Key Guitar](https://open.spotify.com/album/7dgIUPKunBub5OYXGJf5UQ) | 5:10 | 2023-12-15 | 2024-04-19 |
@@ -97,6 +97,7 @@
 | [Whee Ha Swing](https://open.spotify.com/track/6tZkisNMGuSuaH6WTylYPi) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters: Instrumental Collection, Vol\. 1](https://open.spotify.com/album/2EOjWFzzACQ0Q21rlTNu56) | 2:31 | 2022-05-02 | 2024-01-14 |
 | [Whee Ha Swing](https://open.spotify.com/track/1ECsI8Z2IhCKpLZbsEe5iw) | [Ledward Kaapana](https://open.spotify.com/artist/4rbuIw9Fa3U8yCZuK2Ig1K) | [Hawaiian Slack Key Guitar Masters, Vol\. 1](https://open.spotify.com/album/53hJB0xPGms7KJxRZsWE0I) | 2:37 | 2022-05-02 |  |
 | [When I Think About You](https://open.spotify.com/track/60Mv9DQI1mxjaSpfwTJHQZ) | [Ho'onu'a](https://open.spotify.com/artist/7fNv44w4jZllwDLtLMxvup) | [Feel Good Island Music](https://open.spotify.com/album/4bRTEB4bs4fn408VdimJEN) | 3:01 | 2023-08-23 |  |
+| [Why Kiki?](https://open.spotify.com/track/4PXmBGMfDzosaAVrS1Mjio) | [Iam Tongi](https://open.spotify.com/artist/4HRMz0O4zNGfvgpDWYNiS3) | [Why Kiki?](https://open.spotify.com/album/2XQAcE5Yb5FgOwuUroex59) | 2:39 | 2024-04-22 |  |
 | [You Ku'uipo](https://open.spotify.com/track/3VnRQ8M9wksw8cTXTXoxOw) | [Willie K](https://open.spotify.com/artist/2RzwqtC6CQeZUDXWz6wzlV) | [The Uncle In Me Volume 1](https://open.spotify.com/album/4U9VLjuXnFynCYvlH5xqYM) | 4:44 | 2022-05-02 |  |
 | [Ūlili E \(feat\. David Kamakahi\)](https://open.spotify.com/track/2QzWe2SeKCft3DWKO7DuBS) | [Dennis Kamakahi](https://open.spotify.com/artist/2Ntbsut1zuMvsXBTDGj18Y), [David Kamakahi](https://open.spotify.com/artist/5802fcyYOOyqi780xWf2VK) | ['Ohana](https://open.spotify.com/album/3gqr13mGk87I6YVstdFl82) | 4:17 | 2023-12-15 | 2024-04-19 |
 

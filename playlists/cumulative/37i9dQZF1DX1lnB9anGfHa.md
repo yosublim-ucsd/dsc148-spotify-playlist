@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-261 songs - 17 hr 46 min
+262 songs - 17 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [4ÆM](https://open.spotify.com/track/4keclC0eBhQm8lFtYmX01K) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene \(Deluxe Edition\)](https://open.spotify.com/album/4zyqNfmTrnvUejh8M1IEh9) | 4:30 | 2020-10-20 | 2023-09-30 |
 | [4ÆM](https://open.spotify.com/track/6IdjgneeIkqxA9gWcMEx3L) | [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Miss Anthropocene](https://open.spotify.com/album/2tKMfEo15Y4OMEm5sljPsJ) | 4:30 | 2020-10-20 | 2022-11-13 |
 | [A Garden by the Sea](https://open.spotify.com/track/1Nzdc7gAPufUvqXulMHsWu) | [Beautify Junkyards](https://open.spotify.com/artist/2Rrf9CkzPdPihESHDo5KZl) | [Cosmorama](https://open.spotify.com/album/51huDw05lsbbpDcR1MuIfq) | 4:42 | 2021-01-22 |  |
+| [A Soul With No King \- Remix \(feat\. NATURE\)](https://open.spotify.com/track/24OMVt6uyLUl7Dv4JYp4yH) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [A Soul With No King \- Remix \(feat\. NATURE\)](https://open.spotify.com/album/596bNFZ0FCXSzoFcyQOb89) | 5:14 | 2024-04-23 |  |
 | [Afterburn](https://open.spotify.com/track/3ZeOlJzcevGwxnnIGS2e4C) | [Mesh Kimono](https://open.spotify.com/artist/0JrIlMMd4MQAQXo59etjQh) | [After Dark 4](https://open.spotify.com/album/6x3gv3hXKXbJC1VCsn1o8M) | 3:28 | 2022-08-24 |  |
 | [Além do tempo](https://open.spotify.com/track/2CPEglkFQ15tlZoo8IChFi) | [sús](https://open.spotify.com/artist/5KPx6xI1tSCazXrwc5rXTc) | [Além do tempo](https://open.spotify.com/album/318gPAeSQOuTa2OLeTevaj) | 3:59 | 2024-04-15 |  |
 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 | 2023-01-04 |  |
@@ -70,7 +71,7 @@
 | [drowning](https://open.spotify.com/track/7zG96zOUfMR01JKGDskylX) | [kraymira](https://open.spotify.com/artist/6SSZMkPO9imVUp2ZN9sITn) | [drowning](https://open.spotify.com/album/7onJZ3rdjU9yEjho30raQe) | 2:18 | 2021-06-23 | 2022-07-29 |
 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 | 2024-03-22 |  |
 | [Dusk](https://open.spotify.com/track/6yzuu8joRLnkpDIUzeXTMM) | [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Dusk](https://open.spotify.com/album/4rBFXDL3kIxwqeicNkWK8q) | 4:34 | 2023-09-21 |  |
-| [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 | 2023-03-03 | 2023-04-01 |
+| [Empty space](https://open.spotify.com/track/7hctEV1xzChyXgCzzMNpth) | [Bianca Scout](https://open.spotify.com/artist/0SViH83GsqJ0GCwnmTTlep) | [The Heart of the Anchoress](https://open.spotify.com/album/3MawvDSn4MxS2a73jPe10o) | 3:47 | 2023-03-03 |  |
 | [Even It Out](https://open.spotify.com/track/4RgfngxUX05xp09dNutO1O) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GCoy0h2laaZlhKhnjjRpe) | 3:07 | 2024-04-18 |  |
 | [Even It Out](https://open.spotify.com/track/6A5MnQeIz8R39Ed6huqwQI) | [Fever Ray](https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY) | [Radical Romantics](https://open.spotify.com/album/0GSARUUhweinQufLR663b4) | 3:07 | 2023-03-23 | 2024-04-19 |
 | [Evening Mood](https://open.spotify.com/track/0Pwk9jrn5MfTTFKtsntzIT) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Evening Mood](https://open.spotify.com/album/7lR0ukB3rDagjRbrnWALUu) | 6:24 | 2024-03-11 |  |
@@ -146,7 +147,7 @@
 | [Mount Misery](https://open.spotify.com/track/1BoBPIe499ZwVVc8zqOFNj) | [Lila Tirando a Violeta](https://open.spotify.com/artist/1ZD9xcoRJKY4ldaV4UuAhx) | [Mount Misery](https://open.spotify.com/album/1i13sJv3UofqSozgBC9ZZO) | 5:25 | 2024-01-26 | 2024-02-07 |
 | [Music Is The Drug](https://open.spotify.com/track/1BWGyrR8iDDXwhXmE5xmQQ) | [Lolina](https://open.spotify.com/artist/1jj1qbHgrDKYct7IJv5VQ8) | [Music Is The Drug](https://open.spotify.com/album/0tsuOcwGUKiitJ5ZbtwDiN) | 3:39 | 2022-08-31 | 2023-10-28 |
 | [My Agenda](https://open.spotify.com/track/2aKrS1piFqGk1ZLs3DXTTw) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u), [Village People](https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW), [Pussy Riot](https://open.spotify.com/artist/2hThsqaVEAWhWPBXnaOfB9) | [My Agenda](https://open.spotify.com/album/0qGRzjp27bq0ZaOlSPr3JU) | 2:51 | 2020-10-20 | 2023-04-01 |
-| [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 | 2023-08-10 |  |
+| [MY BLACK CAT](https://open.spotify.com/track/2B5M0GZMNC8Yy33P2N4mxq) | [Nana Nina](https://open.spotify.com/artist/51NvNgCzRqXjxfklCa8TVB) | [MY BLACK CAT](https://open.spotify.com/album/65rUCgwK0khKnH5uz8ZmvQ) | 2:29 | 2023-08-10 | 2024-04-23 |
 | [Máscara de Niña](https://open.spotify.com/track/14RubZ8E6S34PohWgJq21G) | [Valgur](https://open.spotify.com/artist/0HHh73DHIGrZjm3dADNdcH) | [Máscara de Niña](https://open.spotify.com/album/5oYBMmeTlPZcIqwqSL9iEw) | 3:14 | 2023-03-23 | 2023-05-11 |
 | [Nasty](https://open.spotify.com/track/0SfmpgvdH8nm4cfxc5vj1O) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Nasty](https://open.spotify.com/album/59P8nU2rZUFJaavj4FHDg0) | 2:07 | 2020-10-20 | 2023-03-04 |
 | [No Limit](https://open.spotify.com/track/1YR94xmVWP4Y4t8jojuFow) | [Tirzah](https://open.spotify.com/artist/6f5lOlSFJw9K79gaNnmWAd) | [trip9love...???](https://open.spotify.com/album/0kgD4sTUloCGUbDGyTxqV7) | 3:02 | 2023-10-28 |  |
@@ -214,7 +215,7 @@
 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 | 2023-02-09 |
 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 | 2022-09-21 | 2024-04-19 |
 | [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 |  |
-| [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 |  |
+| [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 | 2024-04-23 |
 | [Time Killing Killing Time](https://open.spotify.com/track/0mFBlq5k7fqIU46kn6tLL4) | [Zam Ram](https://open.spotify.com/artist/0j9YZpB0I5WDVIHEmAtQjV) | [Time Killing Killing Time](https://open.spotify.com/album/3Q7pAE46S5rBHvyBGmXIlX) | 4:22 | 2022-09-14 | 2023-04-01 |
 | [Tintoretto, It's for You](https://open.spotify.com/track/4hNlGoJ9rgKaMSBermXqwZ) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [Tintoretto, It's for You](https://open.spotify.com/album/3pGqMfIDbb7rtdf4qiqDLE) | 3:05 | 2022-02-18 | 2022-07-29 |
 | [Tintoretto, It's for You](https://open.spotify.com/track/73miaQGwScM2m8qf7yg3EP) | [Destroyer](https://open.spotify.com/artist/22ojy4H4ZVpowC4lRRC8In) | [LABYRINTHITIS](https://open.spotify.com/album/63bs2cLZO9wm6hvhovU1AU) | 3:05 | 2022-02-18 | 2024-02-03 |

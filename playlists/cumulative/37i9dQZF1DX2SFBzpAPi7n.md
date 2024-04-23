@@ -2,14 +2,15 @@
 
 ### [Cool K'IDs Rock](https://open.spotify.com/playlist/37i9dQZF1DX2SFBzpAPi7n)
 
-> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: PEPPERTONES\(페퍼톤스\)\) \(핫한 국내 록 음악을 만나보세요!\)
+> K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Han Yo Han\(한요한\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-616 songs - 1 day 13 hr 41 min
+622 songs - 1 day 14 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/379tO5t6C4eFENqNBF29RV) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/34qIpVQVdQaaWQhBwAv5oJ) | 0:00 | 2022-04-12 | 2022-07-20 |
 | [0107](https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo) | [After Thoughts](https://open.spotify.com/artist/5Kt6MttjG8m2rlMdjA8WiA) | [0107](https://open.spotify.com/album/3f2dEWHhavMsuBP4lTdc7e) | 3:46 | 2022-07-08 | 2022-07-10 |
+| [100 WINS](https://open.spotify.com/track/4y1AEJFXM6RLwAe9EBBaFq) | [SEO EUNKWANG](https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2) | [Chief Detective 1958 OST Part.1](https://open.spotify.com/album/155wwFVpY5fG97UX0cY5DS) | 3:25 | 2024-04-22 |  |
 | [120BPM](https://open.spotify.com/track/7pYiTMBG8sgPJvXZZ476i1) | [KyoungSeo](https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA) | [ONGOING](https://open.spotify.com/album/4TKudxgCXXAngwcPY2ba77) | 3:18 | 2023-05-31 | 2023-06-14 |
 | [20s](https://open.spotify.com/track/41jvAKlAHXpP6ywHiF30Ld) | [Coker](https://open.spotify.com/artist/1JIM8VyYhmiC1QzmBf2hUG) | [STUDY](https://open.spotify.com/album/5Ui0n470azPnCIBmfTMvCO) | 4:40 | 2024-03-21 |  |
 | [24 years](https://open.spotify.com/track/4fr96gcFKpf9kAJtvCJROx) | [Slowcity](https://open.spotify.com/artist/47ihvylvlBiMq6F5GBGeif) | [24 years](https://open.spotify.com/album/326uCTjLWz3BUV85xkuVtX) | 3:20 | 2022-07-08 | 2022-07-10 |
@@ -78,6 +79,7 @@
 | [Break the Brake](https://open.spotify.com/track/35tFDNRthpr63bVGF7G8GB) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Livelock](https://open.spotify.com/album/6wRy2dydFytIzBlEqVa5sh) | 3:20 | 2023-10-11 | 2024-03-22 |
 | [Break Through](https://open.spotify.com/track/7A45JvsGzoiGPZBFmPIxGp) | [Soulights](https://open.spotify.com/artist/35ducZNsJuhyWmHnhHAADz) | [Break Through](https://open.spotify.com/album/0NELqOfC7kZ4uXrgo5DDUT) | 4:06 | 2022-07-22 | 2022-08-02 |
 | [break up](https://open.spotify.com/track/1vvnAjGNySweI5iBb1xuOh) | [Deepshower](https://open.spotify.com/artist/117Rg4kISlVXLtYDzYL7gS), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [break up](https://open.spotify.com/album/1HX8lBHyJisMzf5YLyMoKF) | 3:09 | 2022-04-12 | 2022-07-28 |
+| [Break up! \(Feat\. CHANGMO\)](https://open.spotify.com/track/77SdyZ2AxTfa849qhQaFVT) | [Han Yo Han](https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Break up!](https://open.spotify.com/album/6Am09EioIsVMrl5dUnYtKp) | 3:08 | 2024-04-22 |  |
 | [BULLET](https://open.spotify.com/track/1jHSRIGQXYb126dtXq9Dl7) | [Zior Park](https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD) | [WHERE DOES SASQUATCH LIVE? Pt\. 2](https://open.spotify.com/album/5Nx3ogcideDoWZYJyXuuTr) | 3:15 | 2024-03-21 |  |
 | [BULLY](https://open.spotify.com/track/4A0BDmZFJY7cXhGRaRIjb1) | [ABTB](https://open.spotify.com/artist/4xS1C9pM9EoHEM1Gxxzf4m) | [iii](https://open.spotify.com/album/2gv803EGREwibN37uQk2Em) | 3:46 | 2022-11-09 | 2022-12-13 |
 | [Burger](https://open.spotify.com/track/4XvXox1Qjw5iadBBJkVRMv) | [FRankly](https://open.spotify.com/artist/45hB81mVYnKWDGWPBX0mza) | [Frankly I…](https://open.spotify.com/album/3ceIIgqr4ot4QBpdCALSzJ) | 4:06 | 2022-10-02 | 2022-10-19 |
@@ -227,6 +229,7 @@
 | [HYPNOSIS](https://open.spotify.com/track/7qhjwn64be9d1ISv6EuVkl) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [HYPNOSIS](https://open.spotify.com/album/0bEnhrI5XFjnTmewRdxc5q) | 4:53 | 2024-04-09 |  |
 | [I AM FINE](https://open.spotify.com/track/3B7f8nNtTeZ2KGwnK2Yc9Q) | [Ulala Session](https://open.spotify.com/artist/2EFJSNZzGSfLXMfAaxbK2A) | [I AM FINE](https://open.spotify.com/album/4e29onVlOB70Pr4fsO7yJX) | 2:47 | 2022-06-18 | 2022-07-26 |
 | [I Don’t Want To Live Without You](https://open.spotify.com/track/0OJmMcuSinPLXoWSb1MOLN) | [The Midnight Romance](https://open.spotify.com/artist/0pBFhZQVWFUZF6ChBiEsBi) | [I Don’t Want To Live Without You](https://open.spotify.com/album/1BzaYuNzCpY49BouMw53KL) | 4:56 | 2022-04-12 | 2022-05-16 |
+| [I Guess](https://open.spotify.com/track/0UoSl0jx4wFUEhnXTuTMKM) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [I Guess](https://open.spotify.com/album/7r62nzSWNE1csFdkbeutfz) | 3:38 | 2024-04-22 |  |
 | [I hate you](https://open.spotify.com/track/1XlSkQeITGEv8r6HIZfpfX) | [WOODZ](https://open.spotify.com/artist/6y9nlaoynxSvoTGY09Vdcy) | [COLORFUL TRAUMA](https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe) | 3:10 | 2022-05-11 | 2024-01-29 |
 | [I Like You](https://open.spotify.com/track/11S43bdWSQ9ZZOrtcR1jpJ) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Dearest](https://open.spotify.com/album/0acWIHNrFzz54y5GyiVua8) | 3:26 | 2022-10-18 | 2023-01-05 |
 | [I Loved You](https://open.spotify.com/track/1o1Nx8wVtBkcpNCC3R5PII) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [MOONRISE](https://open.spotify.com/album/2H9FhZVEsNyG9XmJgfNASb) | 3:54 | 2023-06-13 | 2024-03-22 |
@@ -290,6 +293,7 @@
 | [Light UP](https://open.spotify.com/track/16aCdXdUqHMwt9lZCXPpav) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Lord of Heroes OST Part 3](https://open.spotify.com/album/4JVgXZdk3iz4MDwtZApqDB) | 3:25 | 2022-05-02 | 2022-07-23 |
 | [Lights \(Feat\. Yerin Baek\)](https://open.spotify.com/track/1srir2eS2n9AlI3v13cdDx) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [The LIGHTS](https://open.spotify.com/album/2QtJUE3h7lHsKAUnTlNV4U) | 3:47 | 2022-11-09 | 2022-12-13 |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
+| [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 | 2024-04-22 |  |
 | [Lonely Soul](https://open.spotify.com/track/1h6Kl03PcftlUbdElWIoD6) | [David Oh](https://open.spotify.com/artist/7LfjAtFXL1fwMB23GNf8Mu) | [Lonely Soul](https://open.spotify.com/album/3IfjL4M7gk3NaVzm7KEC59) | 3:35 | 2022-04-12 | 2022-05-08 |
 | [Lonely Stars \(Korean Ver.\)](https://open.spotify.com/track/5EIMmyT519rdZzdeSGEj0m) | [SEUNGKWAN](https://open.spotify.com/artist/0Vb2DjojEYsasFpc3aTZb6) | [Lonely Stars](https://open.spotify.com/album/01Jmjq2ScXdj8hufqKXrlP) | 4:06 | 2024-03-21 |  |
 | [Loser](https://open.spotify.com/track/3DqPf14Sj60ScAfzV3FPP2) | [HERD](https://open.spotify.com/artist/6aQtLvZBb5B8fy6KfWRvTQ) | [New Forest](https://open.spotify.com/album/6KayWBF4SwMXmRq7T0r1SX) | 3:58 | 2022-05-24 | 2022-07-19 |
@@ -502,6 +506,7 @@
 | [SWIMMING](https://open.spotify.com/track/6y8BCw8EyaGOcjGpgqOnMx) | [Lim Hyunsik](https://open.spotify.com/artist/0SA2I3s4t7hmv1XVvky9Po) | [Piece of BTOB Vol.4](https://open.spotify.com/album/0maS5rDN2WBQElPQVR9GZW) | 4:20 | 2022-04-22 | 2022-05-01 |
 | [T.B.H](https://open.spotify.com/track/39gaUtq2z4ejJbno7tWHbL) | [QWER](https://open.spotify.com/artist/0XufO9nLOKNN0w0qNrDrZy) | [1st Mini Album 'MANITO'](https://open.spotify.com/album/58749dw7F011CU9lRmX0MO) | 2:55 | 2024-04-01 |  |
 | [Take me out, tonight \- 2022 Version](https://open.spotify.com/track/4G7gSxgKxFim71L7wlyHm0) | [The Vastards](https://open.spotify.com/artist/7lUtWxDBvmHPTBlcekHVjf) | [CARNIVAL](https://open.spotify.com/album/0bF5gUOVTNZZ4sHtrAPsB6) | 3:42 | 2022-06-18 | 2022-07-09 |
+| [Take off](https://open.spotify.com/track/3qCq7hnNm87XtsAIGyRAe9) | [D82](https://open.spotify.com/artist/6L71MuejIjNrtoiqb6sTJE) | [Take off](https://open.spotify.com/album/2dTVAj7BMO63ep3hqVkgOS) | 3:33 | 2024-04-22 |  |
 | [takeoff](https://open.spotify.com/track/5PRc30D1NLEGUKi7KeIetn) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [magicality](https://open.spotify.com/album/3lve3n6DTwvbU3vA4pimYz) | 3:14 | 2022-08-10 | 2022-08-19 |
 | [Tallgrass](https://open.spotify.com/track/3ejKDgWyYihU4hKlzjgwlm) | [O3ohn](https://open.spotify.com/artist/3ZPELd2uCgchQqhLgvrDrI) | [Tallgrass](https://open.spotify.com/album/112a4wCjK6TpZtKhCxZhtt) | 2:22 | 2022-05-11 | 2022-07-29 |
 | [TATTOO](https://open.spotify.com/track/2qDm3urhZhuBDZanIPFLuF) | [Daddy O Radio](https://open.spotify.com/artist/2CnlaPaWAPrHEu4TbR0pz9) | [GREEN TATTOO](https://open.spotify.com/album/0wsqgKLZxPY2pDvv1ii1Tp) | 3:12 | 2023-04-14 | 2023-04-21 |
@@ -591,6 +596,7 @@
 | [You make Me](https://open.spotify.com/track/3Y4SnP9NDIjEj69mMY4NVp) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : Negentropy \- Chaos swallowed up in love](https://open.spotify.com/album/3Ss5rH4Ua4Z7bQzhWDbbsG) | 3:38 | 2022-04-12 | 2022-07-28 |
 | [You Make Me Back](https://open.spotify.com/track/1cwHRnup3iQoGAzUDwXQsh) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo) | [ITAEWON CLASS \(Original Television Soundtrack\) Pt\. 5](https://open.spotify.com/album/5mAPG6FxTtZwujiHu5GmSA) | 3:14 | 2022-04-22 | 2022-08-02 |
 | [You need my love](https://open.spotify.com/track/2KnF8lF5elSlvN97jOgAaw) | [verycoybunny](https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB) | [You need my love](https://open.spotify.com/album/1dXOIUrXCi7RBbQSj5WfGE) | 3:40 | 2022-08-18 | 2022-09-06 |
+| [You show up again and again](https://open.spotify.com/track/2u06HBMNna6cnF2CQpAPco) | [Yeoeun](https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug) | [Beauty and Romantic OST Part.5 \(Soundtrack\)](https://open.spotify.com/album/3TKeceruXt78eooVAf7IcT) | 3:12 | 2024-04-22 |  |
 | [You Were Beautiful](https://open.spotify.com/track/3FR2yqZsG07NhXz7uPyUyC) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/70ryb5nR8iCsY8OlIq2J8c) | 4:43 | 2023-06-01 |  |
 | [You Were Beautiful](https://open.spotify.com/track/71WZ7yFuwxmQz5jJUpvkGv) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [SUNRISE](https://open.spotify.com/album/4B2Ijqpz9hRDqWraaDxLSS) | 4:43 | 2022-04-12 | 2023-06-07 |
 | [You Were Beautiful \(My love X Kim Min\-seok \(MeloMance\)\)](https://open.spotify.com/track/5RrUPK9KuZcaVcO0aJwCdy) | [Kim Min\-seok \(MeloMance\)](https://open.spotify.com/artist/291PurnPPvBW3Kf1B5J4Mp) | [You Were Beautiful \(My love X Kim Min\-seok \(MeloMance\)\)](https://open.spotify.com/album/3iytrx0MJW1L1z3Bs5R6ie) | 4:32 | 2023-07-11 | 2023-07-29 |

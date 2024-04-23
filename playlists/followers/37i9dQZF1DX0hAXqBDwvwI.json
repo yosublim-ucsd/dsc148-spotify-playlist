@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 583847,
+  "2024-04-23": 584325,
   "date_first_scraped": "2022-06-10",
   "description": "A mega Anime hits mix! \u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u306e\u30ed\u30f3\u30b0&\u30e1\u30ac\u30d2\u30c3\u30c8\u66f2\u3092\u307e\u3068\u3081\u3066\u697d\u3057\u3082\u3046\u3002Illustration by <a href=\"https://kazuhisauragami.com/\"> Kazuhisa Uragami</a> ",
   "name": "Anime On Replay",
@@ -6101,8 +6101,8 @@
       },
       "artists": [
         {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
         },
         {
           "name": "Belle",
@@ -6595,28 +6595,6 @@
       "duration_ms": 210256,
       "name": "wit and love",
       "url": "https://open.spotify.com/track/1I6xj2Nn4JDMd0zdJC0Pnp"
-    },
-    {
-      "album": {
-        "name": "W\u25cfRK",
-        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
-      },
-      "artists": [
-        {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "date_added": "2023-07-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201073,
-      "name": "W\u25cfRK",
-      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
     },
     {
       "album": {
@@ -12593,6 +12571,28 @@
       "duration_ms": 243133,
       "name": "\u9f13\u52d5",
       "url": "https://open.spotify.com/track/6QDyiZyiQjRL02PIiJo2bq"
+    },
+    {
+      "album": {
+        "name": "\uff37\u25cf\uff32\uff2b",
+        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
+      },
+      "artists": [
+        {
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2023-07-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201073,
+      "name": "\uff37\u25cf\uff32\uff2b",
+      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX0hAXqBDwvwI"

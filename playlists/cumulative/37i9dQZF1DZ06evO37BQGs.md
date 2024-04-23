@@ -2,7 +2,7 @@
 
 ### [This Is Hundred Reasons](https://open.spotify.com/playlist/37i9dQZF1DZ06evO37BQGs)
 
-> This is Hundred Reasons\. The essential tracks, all in one playlist.
+> This is Hundred Reasons\. Track\-track unggulan, semuanya dalam satu playlist.
 
 76 songs - 4 hr 26 min
 
@@ -51,7 +51,7 @@
 | [Opera](https://open.spotify.com/track/0hs0LwQwCxMLwjJbDYwMau) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:46 | 2023-04-23 | 2023-04-25 |
 | [Out Of Time](https://open.spotify.com/track/4Uz4uphfFwQqXVgnnYbXRR) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:32 | 2023-01-03 |  |
 | [Pernavas Iela](https://open.spotify.com/track/4G1o1rszgspDdYmEu6oBRs) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 2:07 | 2024-03-06 | 2024-03-10 |
-| [Pop](https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 | 2023-01-16 |  |
+| [Pop](https://open.spotify.com/track/0H11Sou0GRil5ozQ7Qaclh) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 | 2023-01-16 | 2024-04-23 |
 | [Punctuality's Greatest Enemy](https://open.spotify.com/track/5M0z2M1clANb4ACB8OLWjG) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick the Word Sharp the Action \(New Version\)](https://open.spotify.com/album/1w1ukla1NGjk1DUDaiQyvX) | 2:15 | 2022-11-17 | 2023-01-22 |
 | [Remmus \(Live\)](https://open.spotify.com/track/2RT9TJVahSuoOsYBnmsyuB) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Live at the Lemon Grove](https://open.spotify.com/album/5nykFp8cx7wIad1R4rlFc2) | 3:22 | 2022-11-17 | 2023-09-19 |
 | [Remmus \- Live At Hammersmith](https://open.spotify.com/track/2zljVahQTKfZqc3oRT6Gxq) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Hundred Reasons \- Live At Hammersmith](https://open.spotify.com/album/5dUBD9UVNHzfPeDlDNHg1H) | 3:00 | 2023-09-18 |  |
@@ -59,7 +59,7 @@
 | [Replicate](https://open.spotify.com/track/3VvWADtitcT75nZvKtfS7Q) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/7c7Ls32YEt5ifi8BbrLX3D) | 3:35 | 2023-03-17 | 2024-04-20 |
 | [Right There With You](https://open.spotify.com/track/2oHAFre5AkwfcNemSKMb5V) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/3UsHM8DzVWx0rh5qQWvYLY) | 3:40 | 2023-02-25 | 2023-04-26 |
 | [Right There With You](https://open.spotify.com/track/7fQr8pR6fIjlmnM5BNz62T) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Glorious Sunset](https://open.spotify.com/album/71maDCJKDDfxPR1QcIHmaU) | 3:40 | 2023-04-30 |  |
-| [Savanna](https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 | 2022-11-17 | 2024-01-08 |
+| [Savanna](https://open.spotify.com/track/4H5bB6B7kOS9V6kBcLKz8k) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Shatterproof Is Not A Challenge](https://open.spotify.com/album/5NRqlYZGCBZO5vwZCGJvah) | 3:10 | 2022-11-17 |  |
 | [She Is Poison](https://open.spotify.com/track/3omFnVaIxHHUgOGLpS6OHX) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:29 | 2022-11-17 | 2024-03-22 |
 | [Shine](https://open.spotify.com/track/3k0W0Lim50fBU1bmo7otBN) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Ideas Above Our Station](https://open.spotify.com/album/0njHxwzfjbX5MS7YPXBwMM) | 1:28 | 2023-02-20 | 2023-07-21 |
 | [Sick Little Masquerade](https://open.spotify.com/track/76jTPFhV40C0eJXTswyRrC) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [Quick The Word Sharp The Action](https://open.spotify.com/album/2tJbT3ckeLs6FD5FXBKxtz) | 3:42 | 2022-11-17 |  |

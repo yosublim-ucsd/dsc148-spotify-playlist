@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 
 > Indie folk songs to help your worries get lost in the woods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,242 likes - 80 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,246 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 21 | [Forever](https://open.spotify.com/track/0QDtXBF9jBvmHFzTUPeKIC) | [Paper Planes](https://open.spotify.com/artist/432wkHSzPV1QWA9A9Ioz6h) | [Forever](https://open.spotify.com/album/7LQVnMp1BvmBJE75bEZ5yd) | 2:02 |
 | 22 | [Wildfire Love](https://open.spotify.com/track/2Z9r1F0qUif5yjEHq01X60) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Wildfire Love](https://open.spotify.com/album/0ElRBkdS5gLayPwG1HO1if) | 1:43 |
 | 23 | [One Last Song](https://open.spotify.com/track/3Rviv1akOeg6RhUNvy1RBR) | [Laura Alden](https://open.spotify.com/artist/19DUsD728zdjGRvEtRXy6J) | [One Last Song](https://open.spotify.com/album/2Ax8c96I3uP49OmJVcgSBl) | 3:29 |
-| 24 | [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 |
+| 24 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
 | 25 | [I Can and I Will](https://open.spotify.com/track/3veBdtlaLO4NH8ZkGyriU4) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [End Of The World](https://open.spotify.com/album/0yZgstl288CsPgZaS0wmVz) | 6:29 |
-| 26 | [Latchkey](https://open.spotify.com/track/1pQ9MWG0yUS51uU0pJfBZL) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Latchkey](https://open.spotify.com/album/7ybg1PGLMLhYm6JcjMVJYp) | 2:51 |
+| 26 | [365](https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6) | [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [365](https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU) | 3:07 |
 | 27 | [Margaux](https://open.spotify.com/track/7r8gXkNiJJqv2Wb8i8sT1i) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu) | [Margaux](https://open.spotify.com/album/66qOyZqMF1BlrenvYYMoJk) | 2:26 |
 | 28 | [My Oh My](https://open.spotify.com/track/301vWc0Pq7JeQ6GvjpXnCm) | [Odhran Murphy](https://open.spotify.com/artist/33flJthxKOZaTdeOZHJez0) | [My Oh My](https://open.spotify.com/album/7JoxuZ0l9yvqKcsVVa2U9K) | 2:46 |
 | 29 | [Mona](https://open.spotify.com/track/7rfoxuUYSfGSuGjRoTq4qH) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [New Mythology](https://open.spotify.com/album/0m1s2KM4LbDqD2lwZhOTJw) | 3:22 |
@@ -77,9 +77,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYm3dUe8iSaq.md) - [plain]
 | 67 | [Mother Don't You Cry](https://open.spotify.com/track/3AAaRxiAkKyE8r5bU8Luvz) | [Tomo](https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM) | [Mother Don't You Cry](https://open.spotify.com/album/3MQbjzCfeE9Eo3e3khqTTb) | 3:12 |
 | 68 | [Young](https://open.spotify.com/track/1p4iQ1vXaXtoM8SyOamNNU) | [Nanuk](https://open.spotify.com/artist/5k64JTFIHR64agZZUTinI7) | [Young](https://open.spotify.com/album/6J0Giau2BxwhGBYS4UDcic) | 3:21 |
 | 69 | [Stow Brae](https://open.spotify.com/track/6FgsycVqVLwuWVs66lf9sX) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Stow Brae](https://open.spotify.com/album/0CbHExiIeCAhFeOVxH8D1T) | 2:42 |
-| 70 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 |
-| 71 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 |
-| 72 | [High & Low](https://open.spotify.com/track/21vR6ME6fngSvEN8oW2uEg) | [Gemma Hayes](https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2) | [High & Low](https://open.spotify.com/album/1dsyvDDlTPjDYRnMjYnkWb) | 3:53 |
+| 70 | [Derby's Dose](https://open.spotify.com/track/3XWtrpRAyfF6ZoHAsdlao1) | [Daudi Matsiko](https://open.spotify.com/artist/41QVnDFGdU4ALpM7zCe9CL) | [Derby's Dose](https://open.spotify.com/album/62s4yMS26LGe6DFcWyWAdW) | 3:06 |
+| 71 | [High & Low](https://open.spotify.com/track/21vR6ME6fngSvEN8oW2uEg) | [Gemma Hayes](https://open.spotify.com/artist/1blgL26JbtaUUKUEMR6Hs2) | [High & Low](https://open.spotify.com/album/1dsyvDDlTPjDYRnMjYnkWb) | 3:53 |
+| 72 | [Corduroy](https://open.spotify.com/track/2qwMUXVtNkvvtyR0QVVuGg) | [Memorial](https://open.spotify.com/artist/1ql8GAa7a8Ur8x6evYipAc) | [Corduroy](https://open.spotify.com/album/499Z1f8EJDdAsABRtIEigH) | 3:15 |
 | 73 | [Brother](https://open.spotify.com/track/0FvVaTrZMaXm7qsQQh8HXe) | [Fran Lusty](https://open.spotify.com/artist/6idlNQLvsjYJwQG4ojsmKK) | [Brother](https://open.spotify.com/album/58GJ648X070rfl1apkW3MT) | 3:47 |
 | 74 | [Give Me Love](https://open.spotify.com/track/1xFGvwqlCx7vnCkviqon4J) | [Jessie Reid](https://open.spotify.com/artist/5KjGwF0TkKmKSC42Mtq2VV) | [Give Me Love](https://open.spotify.com/album/0Gg7esLkSTocFYZBt1WPsP) | 3:14 |
 | 75 | [Floorboards](https://open.spotify.com/track/3DZKzoLMmAXIEH0vIDILjk) | [Tommy Ashby](https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t) | [Floorboards](https://open.spotify.com/album/5wQ3lBKKZtiZt1D2WO83si) | 2:47 |

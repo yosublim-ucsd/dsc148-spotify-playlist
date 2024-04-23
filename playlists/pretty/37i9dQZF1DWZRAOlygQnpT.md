@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 
 > ¡Ahi viene la plaga..\. por eso, aviéntense todos a bailar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,244 likes - 100 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,278 likes - 100 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,9 +36,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 26 | [Leroy](https://open.spotify.com/track/1kwc6ggb5M9EsyBKb0z0CU) | [Los Crazy Boys](https://open.spotify.com/artist/70OY1mGEfKH1KcV7lRD3QN) | [Rock & Roll](https://open.spotify.com/album/4mvqmX5poKlKB8lSkbz27K) | 2:23 |
 | 27 | [Tus Ojos](https://open.spotify.com/track/2pBbjdRMtCnFFUpOug5vtj) | [Los Locos Del Ritmo](https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO) | [Rock Con los Locos del Ritmo](https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH) | 3:13 |
 | 28 | [Vuelve Primavera](https://open.spotify.com/track/1tYoZkGPkvHW9XmmweBd27) | [Los Blue Caps](https://open.spotify.com/artist/6rC7ojIyJ2a1zVcZevThcv) | [Buen Rock Esta Noche](https://open.spotify.com/album/6RKoJJF8DBhDvJAw5tULfz) | 2:30 |
-| 29 | [Payasito \(Ponchinello\)](https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:36 |
+| 29 | [Colina azul \- Bluberry Hill](https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:34 |
 | 30 | [Agujetas de Color de Rosa \(Pink Shoe Laces\)](https://open.spotify.com/track/5kstxhvKTpuO3A8PYmYeKV) | [Los Hooligans](https://open.spotify.com/artist/2PscyQNouYlR193NQFjBka) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:13 |
-| 31 | [Colina azul \- Bluberry Hill](https://open.spotify.com/track/4UoVBuPJlaKNyspCITsiA8) | [Los Bopper's](https://open.spotify.com/artist/6q05JVBv3G6S61xoOlW5cE) | [Los Originales](https://open.spotify.com/album/6xIM6qFTIsQLkS7USVir2e) | 2:34 |
+| 31 | [Payasito \(Ponchinello\)](https://open.spotify.com/track/0bfNMCcujmZHi03rkpFmAL) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG) | [Serie De Coleccion 15 Autenticos Exitos \- Enrique Guzman](https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT) | 2:36 |
 | 32 | [Sospecha](https://open.spotify.com/track/0siRDrhbWLCoCdJt0Cv0dq) | [Los Seven Days](https://open.spotify.com/artist/76Zp92FdrV5z00lcCMcZNp) | [Los Originales](https://open.spotify.com/album/5UnYv67PEkeTWnlkBL1s5a) | 2:29 |
 | 33 | [Y Es Por Ti](https://open.spotify.com/track/26aQy7fgeQuhJm619Z8lgq) | [Los Reno](https://open.spotify.com/artist/2gmmO8dk7iXgNYuB24FKQo) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:11 |
 | 34 | [Tequila Con Limón](https://open.spotify.com/track/2FYdec3yREDp9gIoaWMOxn) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:37 |
@@ -53,9 +53,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRAOlygQnpT.md) - [plain]
 | 43 | [Tequila](https://open.spotify.com/track/552AXR7LxxOeAqtsNWHVjs) | [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:15 |
 | 44 | [La Carrera Del Oso](https://open.spotify.com/track/1HxmciCZuRwYfoCkUT8iQK) | [Los Sinners](https://open.spotify.com/artist/1KCGNxg6XmrhYGANj72c7j) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:08 |
 | 45 | [Las Cerezas](https://open.spotify.com/track/708Xuv8hEgmKTqEmkv199u) | [Los Hermanos Carrion](https://open.spotify.com/artist/6s99lPSFFrlxBfk14DUNyz) | [Los Grandes Éxitos del Rock & Roll \(En Español\), Vol\. 1](https://open.spotify.com/album/0sxafO6H50bdV0DTidP9MV) | 2:55 |
-| 46 | [La Última Vez](https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:44 |
+| 46 | [Rock De La Cárcel](https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Se Habla Español](https://open.spotify.com/album/2lMuOCrNgc5ker7gde4dXB) | 3:06 |
 | 47 | [Magia Blanca \(Devil Woman\)](https://open.spotify.com/track/4nYQcuY0FLpmQiwrfKxhjs) | [Hermanos Carrion](https://open.spotify.com/artist/1imQoJLlChzLWuwtodAgWN) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 3:24 |
-| 48 | [Rock De La Cárcel](https://open.spotify.com/track/2CvtoIFUHZTi3MFfUkbIgi) | [Enrique Guzman](https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG), [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Se Habla Español](https://open.spotify.com/album/2lMuOCrNgc5ker7gde4dXB) | 3:06 |
+| 48 | [La Última Vez](https://open.spotify.com/track/2MTNVoknkbqRIMHMNqs7WC) | [Los Ovnis](https://open.spotify.com/artist/0hwmbUrvyepLTKQfJr3BTi) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:44 |
 | 49 | [Los locos adams](https://open.spotify.com/track/6fPwTYL4B8hTx4VL3DFCnQ) | [Los Belmonts](https://open.spotify.com/artist/4QQX6KlJqcfMUEyWWfWaDs) | [Lucha Va Voom \- Señor Amor's Mexican R&R Faves](https://open.spotify.com/album/4cSPyc5Ykedj67OKPi965B) | 1:56 |
 | 50 | [La Plaga \(Good Golly, Miss Molly\)](https://open.spotify.com/track/7yPAsPa7EOp1w3PT6ng0l8) | [Los Teen Tops](https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy) | [La Onda Juvenil 25 Aniversario](https://open.spotify.com/album/6POPCirOiD4pCpdvZECVar) | 2:14 |
 | 51 | [A Través De Los Años](https://open.spotify.com/track/6rqgDSZ4by55WFR7WrC8Xi) | [Los Juniors](https://open.spotify.com/artist/56UFFBf8lm4RJbpaXY6PAf) | [Loco \- Vintage Rock en Español](https://open.spotify.com/album/7dLAXcE0Bg0JP9TRtYVORO) | 2:42 |

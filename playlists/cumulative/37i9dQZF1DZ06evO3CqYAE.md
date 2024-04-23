@@ -2,7 +2,7 @@
 
 ### [This Is Mercy Chinwo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3CqYAE)
 
-> This Is Mercy Chinwo\. Los temas esenciales, todos en una lista.
+> This is Mercy Chinwo\. The essential tracks, all in one playlist.
 
 76 songs - 6 hr 57 min
 
@@ -16,9 +16,9 @@
 | [Amazing God](https://open.spotify.com/track/5k5659U0Gb6p0w3koQaNJu) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:56 | 2024-03-26 |  |
 | [Beyond me \- Live at Yalic, Abuja](https://open.spotify.com/track/14ZcU8XXyH3tyzG5IKATnG) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Prospa Ochimana](https://open.spotify.com/artist/4tFkCYyWjDUXCHKqBpqw4g), [Chris Morgan](https://open.spotify.com/artist/40n0HESbOmwGQh401vtbWM) | [Beyond me \(Live at Yalic, Abuja\)](https://open.spotify.com/album/6MCsoe8mI0KatCIXP4GcL9) | 9:58 | 2023-04-02 |  |
 | [Bor Ekom](https://open.spotify.com/track/6seV1XGapGdXZ4jn7VNHAe) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:07 | 2023-04-02 |  |
-| [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2023-10-10 | 2024-04-14 |
+| [Chinedum](https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:40 | 2023-10-10 |  |
 | [Chinedum](https://open.spotify.com/track/0HusibEdXGcG70s8Oa0gFm) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 4:40 | 2023-11-10 | 2024-03-29 |
-| [Chinedum](https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Chinedum](https://open.spotify.com/album/5V0vhc3p1EllrWsBNQR6Hh) | 4:40 | 2023-04-02 |  |
+| [Chinedum](https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Chinedum](https://open.spotify.com/album/5V0vhc3p1EllrWsBNQR6Hh) | 4:40 | 2023-04-02 | 2024-04-23 |
 | [COME AND SEE](https://open.spotify.com/track/6AcuWVJLutTcYQJQSikgZI) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Assignment](https://open.spotify.com/album/2HuCRu5g3Et1hPhutXCJoK) | 4:22 | 2023-04-02 |  |
 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 | 2023-04-02 |  |
 | [Do Something](https://open.spotify.com/track/7hMCer4q0483Uxdb7EcvG2) | [Chioma Jesus](https://open.spotify.com/artist/7GNY8eqnvkcMvJp1jrETa4), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Holy Ghost](https://open.spotify.com/album/4wJuzLINYvguF70TkdSbYB) | 3:26 | 2024-04-02 |  |
@@ -67,7 +67,7 @@
 | [Power Belongs To Jesus](https://open.spotify.com/track/5fqI7ZiaxhNAGDD2rO0v9R) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Power Belongs To Jesus](https://open.spotify.com/album/4XDq3mAaDCBSBJzRGszNoN) | 4:16 | 2023-04-02 | 2024-04-02 |
 | [Regular \(feat\. Fiokee\)](https://open.spotify.com/track/3h4clLNlW8j8XZaZ9Av2nP) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Fiokee](https://open.spotify.com/artist/0dIKXNriGyVYvw6Cw2jko5) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 3:57 | 2023-04-02 |  |
 | [Selense](https://open.spotify.com/track/7pIVgLpDDIF7oAt7YNhGx0) | [Banky W.](https://open.spotify.com/artist/1c61yiH4iYE7cHtjAYSUu3), [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Bank Statements](https://open.spotify.com/album/7gXl3kRiPWnC53m50neX1D) | 4:25 | 2023-04-02 |  |
-| [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 | 2023-04-02 |  |
+| [Strong Tower](https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU) | 4:56 | 2023-04-02 | 2024-04-23 |
 | [Strong Tower](https://open.spotify.com/track/69dqXCQKvyZQyHdOpNKRVV) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 4:56 | 2023-04-08 | 2023-12-14 |
 | [Suddenly](https://open.spotify.com/track/1hHmS0mH6rUoEj9MAVhiyE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/1kBd76gF9G6AAFS3Ss1DMR) | 4:51 | 2024-03-30 |  |
 | [Suddenly](https://open.spotify.com/track/1r0l8K0zN1IsKwIGBpV86r) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Suddenly + Amazing God \(Double Single\)](https://open.spotify.com/album/79mjv5qhSTzJ3gMM8k7lMS) | 4:51 | 2023-04-02 | 2024-03-31 |

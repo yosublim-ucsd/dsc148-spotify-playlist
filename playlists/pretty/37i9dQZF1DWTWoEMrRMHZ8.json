@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: Roberta Campos, George Israel",
-  "num_followers": 344753,
+  "num_followers": 344357,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -215,6 +215,26 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
+        "name": "Por Que N\u00e3o",
+        "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
+      },
+      "artists": [
+        {
+          "name": "Murilo Chester",
+          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Por Que N\u00e3o",
+      "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
+    },
+    {
+      "added_at": "2024-04-19 16:19:10",
+      "album": {
         "name": "DARAM\u00d4",
         "url": "https://open.spotify.com/album/0O0QBrT05nhkoMIpjLznk1"
       },
@@ -243,26 +263,6 @@
       "duration_ms": 235586,
       "name": "Acabou, mas tem...",
       "url": "https://open.spotify.com/track/5egpEMl7hYdmLP9ptpeE12"
-    },
-    {
-      "added_at": "2024-04-19 16:19:10",
-      "album": {
-        "name": "Por Que N\u00e3o",
-        "url": "https://open.spotify.com/album/0lxn5ms0KZl2pobc2XKauA"
-      },
-      "artists": [
-        {
-          "name": "Murilo Chester",
-          "url": "https://open.spotify.com/artist/6ByAo7zH3RbuJ04S5zinWU"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Por Que N\u00e3o",
-      "url": "https://open.spotify.com/track/4JXUxqykBgeotbc9a8zMYA"
     },
     {
       "added_at": "2024-04-19 16:19:10",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
+        "name": "Doce Vampiro (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 169890,
+      "name": "Doce Vampiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
+    },
+    {
+      "added_at": "2024-04-19 16:19:10",
+      "album": {
         "name": "Paisagem",
         "url": "https://open.spotify.com/album/4Z9xkO4lKohbX5JCuW1pbu"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 212300,
       "name": "Paisagem",
       "url": "https://open.spotify.com/track/3EBUi6ngDPHnhtjsQAuPua"
-    },
-    {
-      "added_at": "2024-04-19 16:19:10",
-      "album": {
-        "name": "Doce Vampiro (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4ZQHhjyNkL1utoEVM975nL"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 169890,
-      "name": "Doce Vampiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/0dGjakfmSuFILGzEWGOZos"
     },
     {
       "added_at": "2024-04-19 16:19:10",
@@ -703,26 +703,6 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
-        "name": "Paisagem",
-        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
-      },
-      "artists": [
-        {
-          "name": "Tuyo",
-          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
-        },
-        {
-          "name": "Arthur Verocai",
-          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Apazigua",
-      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
-    },
-    {
-      "added_at": "2024-04-19 16:19:10",
-      "album": {
         "name": "Sangue Latino",
         "url": "https://open.spotify.com/album/5EMqWcRxe3KdiMJojkJtr1"
       },
@@ -739,6 +719,26 @@
       "duration_ms": 187934,
       "name": "Sangue Latino",
       "url": "https://open.spotify.com/track/6us6kHPrXKQUI1hR9gVETQ"
+    },
+    {
+      "added_at": "2024-04-19 16:19:10",
+      "album": {
+        "name": "Paisagem",
+        "url": "https://open.spotify.com/album/6QJfLIoORUht7DGSfZmcNo"
+      },
+      "artists": [
+        {
+          "name": "Tuyo",
+          "url": "https://open.spotify.com/artist/3Ujv6sa60JRiaxS8RVuNOj"
+        },
+        {
+          "name": "Arthur Verocai",
+          "url": "https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Apazigua",
+      "url": "https://open.spotify.com/track/60p6i7sTLp2wVk5Wpv4nqr"
     },
     {
       "added_at": "2024-04-19 16:19:10",
@@ -979,30 +979,18 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
-        "name": "Tudo \u00e9 Carnaval",
-        "url": "https://open.spotify.com/album/6X4YSZrPQ5BRaKUXBNz0U3"
+        "name": "Esque\u00e7a Tudo",
+        "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
       },
       "artists": [
         {
-          "name": "Cruvinel",
-          "url": "https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW"
-        },
-        {
-          "name": "B\u00e1rbara Le\u00e3o",
-          "url": "https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn"
-        },
-        {
-          "name": "s\u00f3dan.",
-          "url": "https://open.spotify.com/artist/496bSkfI4ViB2GrUpYXPu3"
-        },
-        {
-          "name": "Ogrow Beats",
-          "url": "https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr"
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
         }
       ],
-      "duration_ms": 177586,
-      "name": "Tudo \u00e9 Carnaval",
-      "url": "https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK"
+      "duration_ms": 189206,
+      "name": "Esque\u00e7a Tudo",
+      "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
     },
     {
       "added_at": "2024-04-19 16:19:10",
@@ -1031,18 +1019,30 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
-        "name": "Esque\u00e7a Tudo",
-        "url": "https://open.spotify.com/album/1PugCRv3I48m1IgsbVytRF"
+        "name": "Tudo \u00e9 Carnaval",
+        "url": "https://open.spotify.com/album/6X4YSZrPQ5BRaKUXBNz0U3"
       },
       "artists": [
         {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+          "name": "Cruvinel",
+          "url": "https://open.spotify.com/artist/2TUCCtskhrTEMAAGyQaBaW"
+        },
+        {
+          "name": "B\u00e1rbara Le\u00e3o",
+          "url": "https://open.spotify.com/artist/4JduGZ99yejLQKkve0LMUn"
+        },
+        {
+          "name": "s\u00f3dan.",
+          "url": "https://open.spotify.com/artist/496bSkfI4ViB2GrUpYXPu3"
+        },
+        {
+          "name": "Ogrow Beats",
+          "url": "https://open.spotify.com/artist/0Y71tGmD0xjvdg6hZoRywr"
         }
       ],
-      "duration_ms": 189206,
-      "name": "Esque\u00e7a Tudo",
-      "url": "https://open.spotify.com/track/5JKn2MgAqLWRXAWwxvB6tp"
+      "duration_ms": 177586,
+      "name": "Tudo \u00e9 Carnaval",
+      "url": "https://open.spotify.com/track/3X5hJ2EqdIKpmw5tagtAnK"
     },
     {
       "added_at": "2024-04-19 16:19:10",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
+        "name": "Riviera",
+        "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
+      },
+      "artists": [
+        {
+          "name": "Toco",
+          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
+        }
+      ],
+      "duration_ms": 189666,
+      "name": "Clube",
+      "url": "https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW"
+    },
+    {
+      "added_at": "2024-04-19 16:19:10",
+      "album": {
         "name": "2023",
         "url": "https://open.spotify.com/album/0NwDg971pu7KeDgnbrueEq"
       },
@@ -1175,6 +1191,22 @@
       "duration_ms": 142921,
       "name": "quentinha",
       "url": "https://open.spotify.com/track/0Gvql6QqmLyGWoveIvDjiS"
+    },
+    {
+      "added_at": "2024-04-19 16:19:10",
+      "album": {
+        "name": "No Rastro de Catarina",
+        "url": "https://open.spotify.com/album/4gYVttpxy9hYycFdT3uaWI"
+      },
+      "artists": [
+        {
+          "name": "C\u00e1tia de Fran\u00e7a",
+          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
+        }
+      ],
+      "duration_ms": 240822,
+      "name": "F\u00eanix",
+      "url": "https://open.spotify.com/track/4d3UkxDzBK91Q9Lb2G2Y5o"
     },
     {
       "added_at": "2024-04-19 16:19:10",
@@ -1219,38 +1251,6 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
-        "name": "Riviera",
-        "url": "https://open.spotify.com/album/5qYjtEuTWrnTUl27exa4kA"
-      },
-      "artists": [
-        {
-          "name": "Toco",
-          "url": "https://open.spotify.com/artist/2lVC2nWo4KJE4p6EySdfkL"
-        }
-      ],
-      "duration_ms": 189666,
-      "name": "Clube",
-      "url": "https://open.spotify.com/track/1OpcS7nQ6xy74NAbqRnbuW"
-    },
-    {
-      "added_at": "2024-04-19 16:19:10",
-      "album": {
-        "name": "No Rastro de Catarina",
-        "url": "https://open.spotify.com/album/4gYVttpxy9hYycFdT3uaWI"
-      },
-      "artists": [
-        {
-          "name": "C\u00e1tia de Fran\u00e7a",
-          "url": "https://open.spotify.com/artist/0Pn49e9KBqcekfXpSAGgAM"
-        }
-      ],
-      "duration_ms": 240822,
-      "name": "F\u00eanix",
-      "url": "https://open.spotify.com/track/4d3UkxDzBK91Q9Lb2G2Y5o"
-    },
-    {
-      "added_at": "2024-04-19 16:19:10",
-      "album": {
         "name": "SEGUNDA OU TER\u00c7A",
         "url": "https://open.spotify.com/album/3Ux5I1tcBaNrGXwZmSMgpJ"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2024-04-19 16:19:10",
       "album": {
+        "name": "O Vento",
+        "url": "https://open.spotify.com/album/40Rsk68l9BWUbTqlbZKJH7"
+      },
+      "artists": [
+        {
+          "name": "Boca Livre",
+          "url": "https://open.spotify.com/artist/360FjbxByY4XLqXrZ6cWGF"
+        }
+      ],
+      "duration_ms": 214992,
+      "name": "O Vento",
+      "url": "https://open.spotify.com/track/4LkoWJaD6nAftnz9w6r4Lr"
+    },
+    {
+      "added_at": "2024-04-19 16:19:10",
+      "album": {
         "name": "Julia Mestre - PP sessions (Ao Vivo)",
         "url": "https://open.spotify.com/album/6ZdKE5ACOcTVPq8qouvpuJ"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 272469,
       "name": "sentimento blues - PP sessions - Ao Vivo",
       "url": "https://open.spotify.com/track/0teSCqkAu773AAo2G5MVII"
-    },
-    {
-      "added_at": "2024-04-19 16:19:10",
-      "album": {
-        "name": "O Vento",
-        "url": "https://open.spotify.com/album/40Rsk68l9BWUbTqlbZKJH7"
-      },
-      "artists": [
-        {
-          "name": "Boca Livre",
-          "url": "https://open.spotify.com/artist/360FjbxByY4XLqXrZ6cWGF"
-        }
-      ],
-      "duration_ms": 214992,
-      "name": "O Vento",
-      "url": "https://open.spotify.com/track/4LkoWJaD6nAftnz9w6r4Lr"
     },
     {
       "added_at": "2024-04-19 16:19:10",

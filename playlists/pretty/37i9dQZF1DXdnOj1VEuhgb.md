@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: BLOK3
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,343,135 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,342,479 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,17 +13,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 3 | [Beni Yargılama](https://open.spotify.com/track/5QUk45sRjlcPrAAksKQbW1) | [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Beni Yargılama](https://open.spotify.com/album/5pD2RIbL3CfdSF6Gu7MwRB) | 2:37 |
 | 4 | [Kaptan](https://open.spotify.com/track/4SRgqhtJjo210gkdwMoHNw) | [Ati242](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Kaptan](https://open.spotify.com/album/5d92iD055uQcWBsqWqQMRs) | 3:11 |
 | 5 | [Koyu Siyah](https://open.spotify.com/track/4RaUr30Wsaw3y2sSHjl9QM) | [No.1](https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y), [Doruk Erester](https://open.spotify.com/artist/3CwnAZ3czmquojmi4X3OKp) | [Koyu Siyah](https://open.spotify.com/album/3e1pH4DC88DXopF9Tk1rvi) | 4:46 |
-| 6 | [WALTER WHITE](https://open.spotify.com/track/40cvbS9VhRyV9Uqg5MQAKw) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [SİMÜLASYON](https://open.spotify.com/album/7J4wkdCK6o8X5QKyapKpde) | 4:00 |
-| 7 | [Say Goodbye 2.0](https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn) | [Say Goodbye 2.0](https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5) | 3:30 |
+| 6 | [Say Goodbye 2.0](https://open.spotify.com/track/5bFz7S7cxnLMaNrdS11r37) | [Ufo361](https://open.spotify.com/artist/5pVRwX5ZQR7hfJ18w8ZYkl), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn) | [Say Goodbye 2.0](https://open.spotify.com/album/5Vk7rj2j2qxfWzOFT1sXn5) | 3:30 |
+| 7 | [WALTER WHITE](https://open.spotify.com/track/40cvbS9VhRyV9Uqg5MQAKw) | [Hidra](https://open.spotify.com/artist/3yzGegJHrOW1CndMVFoo3m), [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [SİMÜLASYON](https://open.spotify.com/album/7J4wkdCK6o8X5QKyapKpde) | 4:00 |
 | 8 | [Kennedy'i Ben Vurdum](https://open.spotify.com/track/3MrnZlzlrR17CCustVoya8) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Kennedy'i Ben Vurdum](https://open.spotify.com/album/0OPWTDbvr7QTG1EIP2iVwq) | 2:18 |
-| 9 | [RedKeyGang X](https://open.spotify.com/track/4ZS2uCEcWvNTA5svSwOomw) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [RedKeyGang X](https://open.spotify.com/album/4eowQw7dQqxTEhDDMM8fEP) | 2:52 |
+| 9 | [Korkmasan](https://open.spotify.com/track/4bVWnUmckay9Ek0HB05cCS) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [Show No Love \- Part 2](https://open.spotify.com/album/162yX61ZWPtY6qCW9B3zCh) | 2:21 |
 | 10 | [SUBMARINER](https://open.spotify.com/track/2L39N1sTAiaKbN8NBtOH4I) | [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [SUBMARINER](https://open.spotify.com/album/2UGRgtYH9ron8nioaqzkO7) | 2:03 |
 | 11 | [LANNISTER](https://open.spotify.com/track/3kahv1hGB5bOr5blQMguOx) | [Tanerman](https://open.spotify.com/artist/1X8IDE7vOMFmhR8Hg32EGA), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [LANNISTER](https://open.spotify.com/album/6ofhyEoqDiB2YqK3QVp5DM) | 2:09 |
-| 12 | [Korkmasan](https://open.spotify.com/track/4bVWnUmckay9Ek0HB05cCS) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [Show No Love \- Part 2](https://open.spotify.com/album/162yX61ZWPtY6qCW9B3zCh) | 2:21 |
-| 13 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/4UwT5GziuMCCtnMHxg0Hsf) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 3:11 |
-| 14 | [Kaynanam](https://open.spotify.com/track/0rjtocRvOFrYcsmJiAJP5V) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Kaynanam](https://open.spotify.com/album/20FhWeR02sTa0j1MgetrkC) | 2:29 |
-| 15 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 |
-| 16 | [Tatlı Tecrübe](https://open.spotify.com/track/4uKCFesMVkUIzJPXdAPGlI) | [Narkoz Ex](https://open.spotify.com/artist/03xtWF5TIaUUdwkWPDKCZE) | [Tatlı Tecrübe](https://open.spotify.com/album/6D4Esfxb7lBD7iiqtu7kRA) | 3:33 |
+| 12 | [Kaynanam](https://open.spotify.com/track/0rjtocRvOFrYcsmJiAJP5V) | [ElMusto](https://open.spotify.com/artist/1Tjaa3WWIVU00kfZ8Dvpcl) | [Kaynanam](https://open.spotify.com/album/20FhWeR02sTa0j1MgetrkC) | 2:29 |
+| 13 | [Tatlı Tecrübe](https://open.spotify.com/track/4uKCFesMVkUIzJPXdAPGlI) | [Narkoz Ex](https://open.spotify.com/artist/03xtWF5TIaUUdwkWPDKCZE) | [Tatlı Tecrübe](https://open.spotify.com/album/6D4Esfxb7lBD7iiqtu7kRA) | 3:33 |
+| 14 | [Risk \(feat\. UZI & Sfera Ebbasta\)](https://open.spotify.com/track/4UwT5GziuMCCtnMHxg0Hsf) | [Luciano](https://open.spotify.com/artist/3CJKkU0XuElRT1z8rEtIYg), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Seductive](https://open.spotify.com/album/7hei2uspjzTH1oZA4xo8zz) | 3:11 |
+| 15 | [RedKeyGang X](https://open.spotify.com/track/4ZS2uCEcWvNTA5svSwOomw) | [Khontkar](https://open.spotify.com/artist/1iJrQKRh5aJnp6cG5lpITr) | [RedKeyGang X](https://open.spotify.com/album/4eowQw7dQqxTEhDDMM8fEP) | 2:52 |
+| 16 | [pVg](https://open.spotify.com/track/5h4MeMaKxsJaHpUIqikkCe) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [pVg](https://open.spotify.com/album/1ZkJH6h7PFQe8UPoZsD4M6) | 4:03 |
 | 17 | [Dale](https://open.spotify.com/track/5NIfOnuujMRqIoNCn86kfE) | [Astral](https://open.spotify.com/artist/7g6rPQyaKLwHpM6JB4lByD), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [Dale](https://open.spotify.com/album/7rK2gabrAs3ugnUEAsRiwp) | 2:19 |
 | 18 | [Mümkünse](https://open.spotify.com/track/1LYVm4xK4dAoBNd4IDs5Wa) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Güneş](https://open.spotify.com/artist/0L3wrFI3QcbXAvFL7IaPQX) | [YBF](https://open.spotify.com/album/45cQk54hGNWgTImfVD5RAB) | 3:16 |
 | 19 | [MINI TERORISTA](https://open.spotify.com/track/6kvf06eThDCrvYknMY32To) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [MINI TERORISTA](https://open.spotify.com/album/2NtepMpiLssGo9t2fSIhEG) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 | 49 | [ZOR](https://open.spotify.com/track/4wLpDd099QT7TmNpMkFIvT) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:51 |
 | 50 | [GANG](https://open.spotify.com/track/4xMDN8uwikMBJrmJc9dqG3) | [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Cairo](https://open.spotify.com/artist/7ecHMwo18VtgSVZRULWLId), [Narco](https://open.spotify.com/artist/6WpmH4J0R74ZkHtgm7JLvM) | [GANG](https://open.spotify.com/album/0yUTCkMIdMG5Tx9QRah2GR) | 3:10 |
 
-Snapshot ID: `MTcxMzQ3NDAwMCwwMDAwMDAwMGQyNjlhYTE4OWYzOTg2NjA4MGJjYWNkOTc4NGVkZDFj`
+Snapshot ID: `MTcxMzc3MzU1NCwwMDAwMDAwMDExOWUyOWU4ZTIxNGJmNDEzYzhjNTA5NDg1MmViOGJh`

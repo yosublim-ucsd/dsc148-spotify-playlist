@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 124134,
+  "2024-04-23": 124098,
   "date_first_scraped": "2023-09-26",
   "description": "This Is Mau y Ricky. Los temas esenciales, todos en una lista.",
   "name": "This Is Mau y Ricky",
@@ -621,10 +621,32 @@
       ],
       "date_added": "2023-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 227312,
       "name": "La Boca Junta",
       "url": "https://open.spotify.com/track/0wA3AZzA0gp0wfSS0SpZt5"
+    },
+    {
+      "album": {
+        "name": "Likes y Cicatrices",
+        "url": "https://open.spotify.com/album/450aVb02CfLVugPpSjUlWO"
+      },
+      "artists": [
+        {
+          "name": "Melendi",
+          "url": "https://open.spotify.com/artist/1EXjXQpDx2pROygh8zvHs4"
+        },
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228866,
+      "name": "La Boca Junta",
+      "url": "https://open.spotify.com/track/0rFD2VyCIu2ToXbkvlsKJv"
     },
     {
       "album": {

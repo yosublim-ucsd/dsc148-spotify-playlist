@@ -1,6 +1,6 @@
 {
   "description": "Just good energy",
-  "num_followers": 500780,
+  "num_followers": 500641,
   "original_name": "Vibe Check",
   "owner": {
     "name": "Spotify",
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "Afraid To Feel",
-        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
-      },
-      "artists": [
-        {
-          "name": "LF SYSTEM",
-          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
-        }
-      ],
-      "duration_ms": 177524,
-      "name": "Afraid To Feel",
-      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "It's Not Right But It's Okay",
         "url": "https://open.spotify.com/album/116jZe8fEmfjKBh4d8ZcDO"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Afraid To Feel",
+        "url": "https://open.spotify.com/album/528LrHfHcB7PMAvyp8Obhp"
+      },
+      "artists": [
+        {
+          "name": "LF SYSTEM",
+          "url": "https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO"
+        }
+      ],
+      "duration_ms": 177524,
+      "name": "Afraid To Feel",
+      "url": "https://open.spotify.com/track/40SBS57su9xLiE1WqkXOVr"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
     },
     {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
-        "name": "Queen Of The Clouds",
-        "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 209160,
-      "name": "Habits (Stay High)",
-      "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
-    },
-    {
       "added_at": "2024-04-04 13:00:01",
       "album": {
         "name": "My Oh My",
@@ -947,6 +931,22 @@
       "duration_ms": 156155,
       "name": "My Oh My",
       "url": "https://open.spotify.com/track/377uEWjxVKksQDlwDqaIfx"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "Queen Of The Clouds",
+        "url": "https://open.spotify.com/album/47C7w4o1resDhr7jvYEpxE"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 209160,
+      "name": "Habits (Stay High)",
+      "url": "https://open.spotify.com/track/14OxJlLdcHNpgsm4DRwDOB"
     },
     {
       "added_at": "2024-03-28 13:00:00",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2024-03-28 13:00:00",
       "album": {
-        "name": "DREAM( )SCAPE",
-        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Smoothie",
-      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
-    },
-    {
-      "added_at": "2024-03-28 13:00:00",
-      "album": {
         "name": "Acapulco",
         "url": "https://open.spotify.com/album/76f2Wq7QxiHImxzsYwiXWW"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 139672,
       "name": "Acapulco",
       "url": "https://open.spotify.com/track/3eJH2nAjvNXdmPfBkALiPZ"
+    },
+    {
+      "added_at": "2024-03-28 13:00:00",
+      "album": {
+        "name": "DREAM( )SCAPE",
+        "url": "https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Smoothie",
+      "url": "https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I"
     },
     {
       "added_at": "2024-03-28 13:00:00",

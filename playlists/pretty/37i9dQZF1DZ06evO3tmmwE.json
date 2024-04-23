@@ -1,12 +1,12 @@
 {
   "description": "This is Bo Bundy. The essential tracks, all in one playlist.",
-  "num_followers": 1109,
+  "num_followers": 1110,
   "original_name": "This Is Bo Bundy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGRiOTUxZTQ2NzAwNmU5ZjBmNGM1NGEyOWM0OTIwZjRm",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDkwYWZlNTczY2NmYTdiZTNlZjM5NTczZmFmZDgyYzM0",
   "tracks": [
     {
       "added_at": null,
@@ -435,6 +435,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cocaine Cowboy",
+        "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Giovannie and the Hired Guns",
+          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
+        }
+      ],
+      "duration_ms": 144662,
+      "name": "Cocaine Cowboy",
+      "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lonestar (Side B)",
         "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
@@ -459,22 +479,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cocaine Cowboy",
-        "url": "https://open.spotify.com/album/6zOUWwPcy8nWbleaxaBvfe"
+        "name": "Nave 687",
+        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Giovannie and the Hired Guns",
-          "url": "https://open.spotify.com/artist/0sJqZPLoTiqTqXz4nxKw94"
         }
       ],
-      "duration_ms": 144662,
-      "name": "Cocaine Cowboy",
-      "url": "https://open.spotify.com/track/2XU1fq06U9s0PdJ7UXbMX4"
+      "duration_ms": 207230,
+      "name": "Nave 687",
+      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Unico Desmadre De Mi Madre",
+        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "3 Noches",
+      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
     },
     {
       "added_at": null,
@@ -503,50 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Unico Desmadre De Mi Madre",
-        "url": "https://open.spotify.com/album/1wmOkfoXchbPEPP1oz4pAW"
+        "name": "The Lonestar (Side A)",
+        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
       },
       "artists": [
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "3 Noches",
-      "url": "https://open.spotify.com/track/3rNYesKTSEHJSwm5AfIaqi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nave 687",
-        "url": "https://open.spotify.com/album/5pU9CpVy7lYs5ZL7Bp2Ai8"
-      },
-      "artists": [
+        },
         {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+          "name": "Andy Hernandez",
+          "url": "https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR"
         }
       ],
-      "duration_ms": 207230,
-      "name": "Nave 687",
-      "url": "https://open.spotify.com/track/2C8kQRpjB5N57EvpsZyU8i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side B)",
-        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 209111,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
+      "duration_ms": 124879,
+      "name": "Pa los Hombres",
+      "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
     },
     {
       "added_at": null,
@@ -567,26 +571,6 @@
       "duration_ms": 199414,
       "name": "Tequila",
       "url": "https://open.spotify.com/track/524VJm7vgd42I1fOkYcwUO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Lonestar (Side A)",
-        "url": "https://open.spotify.com/album/1rJiyZO8IkLAG0oWweOrHp"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Andy Hernandez",
-          "url": "https://open.spotify.com/artist/7nB8tKUsp7YlXtuHdn8EMR"
-        }
-      ],
-      "duration_ms": 124879,
-      "name": "Pa los Hombres",
-      "url": "https://open.spotify.com/track/0gFsz5GfIcGnO9eM4htJOS"
     },
     {
       "added_at": null,
@@ -614,21 +598,17 @@
         {
           "name": "Bo Bundy",
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        },
-        {
-          "name": "Maxo Kream",
-          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         }
       ],
-      "duration_ms": 142415,
-      "name": "25 Lighters",
-      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
+      "duration_ms": 209111,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/1QCkjXXUc9XXBXa4Xb00ia"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Godspeed",
-        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
+        "name": "FTNSWL",
+        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
       },
       "artists": [
         {
@@ -636,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         }
       ],
-      "duration_ms": 155928,
-      "name": "Cassius Clay",
-      "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
+      "duration_ms": 171428,
+      "name": "FTNSWL",
+      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
     },
     {
       "added_at": null,
@@ -675,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pa Mi Gente",
-        "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
+        "name": "The Lonestar (Side B)",
+        "url": "https://open.spotify.com/album/06umNxBSyTAPfB3XYfn95D"
       },
       "artists": [
         {
@@ -684,17 +664,29 @@
           "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
         },
         {
-          "name": "Prolifek",
-          "url": "https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX"
-        },
-        {
-          "name": "Sam King",
-          "url": "https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r"
+          "name": "Maxo Kream",
+          "url": "https://open.spotify.com/artist/6xS5PpBWaVYraexEkEjjXv"
         }
       ],
-      "duration_ms": 261407,
-      "name": "Pa Mi Gente",
-      "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
+      "duration_ms": 142415,
+      "name": "25 Lighters",
+      "url": "https://open.spotify.com/track/0JehGDrKNg4mSGmvz7em3G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Godspeed",
+        "url": "https://open.spotify.com/album/4w2VTx35NJRufT0ZFwNgcy"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 155928,
+      "name": "Cassius Clay",
+      "url": "https://open.spotify.com/track/0G52dus3dx0cnobNQbieDi"
     },
     {
       "added_at": null,
@@ -755,6 +747,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pa Mi Gente",
+        "url": "https://open.spotify.com/album/28Ipfx3KvKxvEhTIsjxg7X"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        },
+        {
+          "name": "Prolifek",
+          "url": "https://open.spotify.com/artist/702sOLRskZxAkEH1czvwQX"
+        },
+        {
+          "name": "Sam King",
+          "url": "https://open.spotify.com/artist/0VymO8inS4wKgGtfeQpT3r"
+        }
+      ],
+      "duration_ms": 261407,
+      "name": "Pa Mi Gente",
+      "url": "https://open.spotify.com/track/1hYpFYjueQ9Drcg5VTyEQD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "EL RODEO",
         "url": "https://open.spotify.com/album/3L5vvWez1vD04YbEjRc2Hf"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 226528,
       "name": "EL RODEO",
       "url": "https://open.spotify.com/track/13WpF1APbK3c4swe9ifY58"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FTNSWL",
-        "url": "https://open.spotify.com/album/13VzlFX6FM52CEI7HZuQDO"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 171428,
-      "name": "FTNSWL",
-      "url": "https://open.spotify.com/track/7aaqN7RCQRKUxEcdCaSD2B"
     },
     {
       "added_at": null,
@@ -867,22 +867,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XQ",
-        "url": "https://open.spotify.com/album/1mK5rEIJ2p7QQCN1XVYmqy"
-      },
-      "artists": [
-        {
-          "name": "Bo Bundy",
-          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
-        }
-      ],
-      "duration_ms": 141866,
-      "name": "XQ",
-      "url": "https://open.spotify.com/track/5i7Xg48Q0gS40rKVZwDuRA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Contra el Mundo",
         "url": "https://open.spotify.com/album/54CaxF5mj1rXGAHRE5DiAK"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 87384,
       "name": "Like Sheen",
       "url": "https://open.spotify.com/track/6dMLp2T3kdrEJjmnUssBhn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XQ",
+        "url": "https://open.spotify.com/album/1mK5rEIJ2p7QQCN1XVYmqy"
+      },
+      "artists": [
+        {
+          "name": "Bo Bundy",
+          "url": "https://open.spotify.com/artist/5Tm0Q6noHS5KjlsvFwHoFS"
+        }
+      ],
+      "duration_ms": 141866,
+      "name": "XQ",
+      "url": "https://open.spotify.com/track/5i7Xg48Q0gS40rKVZwDuRA"
     }
   ],
   "unique_name": "This Is Bo Bundy",

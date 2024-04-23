@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: PEPPERTONES(\ud398\ud37c\ud1a4\uc2a4)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "K'ID = Korean ID. Welcome to the K-Rock anthem! (Cover: Han Yo Han(\ud55c\uc694\ud55c)) (\ud56b\ud55c \uad6d\ub0b4 \ub85d \uc74c\uc545\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Cool K'IDs Rock",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 226666,
       "name": "0107",
       "url": "https://open.spotify.com/track/2KdxnAZ3m0SPkalA6XHgUo"
+    },
+    {
+      "album": {
+        "name": "Chief Detective 1958 OST Part.1",
+        "url": "https://open.spotify.com/album/155wwFVpY5fG97UX0cY5DS"
+      },
+      "artists": [
+        {
+          "name": "SEO EUNKWANG",
+          "url": "https://open.spotify.com/artist/6Uug3azJYNwnLkO82CTTY2"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205133,
+      "name": "100 WINS",
+      "url": "https://open.spotify.com/track/4y1AEJFXM6RLwAe9EBBaFq"
     },
     {
       "album": {
@@ -1314,6 +1332,28 @@
       "duration_ms": 189346,
       "name": "break up",
       "url": "https://open.spotify.com/track/1vvnAjGNySweI5iBb1xuOh"
+    },
+    {
+      "album": {
+        "name": "Break up!",
+        "url": "https://open.spotify.com/album/6Am09EioIsVMrl5dUnYtKp"
+      },
+      "artists": [
+        {
+          "name": "Han Yo Han",
+          "url": "https://open.spotify.com/artist/0yHrFzi7dWriMWhB5XA99P"
+        },
+        {
+          "name": "CHANGMO",
+          "url": "https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188289,
+      "name": "Break up! (Feat. CHANGMO)",
+      "url": "https://open.spotify.com/track/77SdyZ2AxTfa849qhQaFVT"
     },
     {
       "album": {
@@ -4095,6 +4135,24 @@
     },
     {
       "album": {
+        "name": "I Guess",
+        "url": "https://open.spotify.com/album/7r62nzSWNE1csFdkbeutfz"
+      },
+      "artists": [
+        {
+          "name": "verycoybunny",
+          "url": "https://open.spotify.com/artist/2J9XKuzbhYp7Ibs7sqGoGB"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218266,
+      "name": "I Guess",
+      "url": "https://open.spotify.com/track/0UoSl0jx4wFUEhnXTuTMKM"
+    },
+    {
+      "album": {
         "name": "COLORFUL TRAUMA",
         "url": "https://open.spotify.com/album/2A3y4U3r7xzgicuJYisnOe"
       },
@@ -5262,6 +5320,24 @@
       "duration_ms": 187124,
       "name": "Like my groove",
       "url": "https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp"
+    },
+    {
+      "album": {
+        "name": "YOUTH - The 1st Album",
+        "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Little Light",
+      "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
     },
     {
       "album": {
@@ -9169,6 +9245,24 @@
     },
     {
       "album": {
+        "name": "Take off",
+        "url": "https://open.spotify.com/album/2dTVAj7BMO63ep3hqVkgOS"
+      },
+      "artists": [
+        {
+          "name": "D82",
+          "url": "https://open.spotify.com/artist/6L71MuejIjNrtoiqb6sTJE"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213997,
+      "name": "Take off",
+      "url": "https://open.spotify.com/track/3qCq7hnNm87XtsAIGyRAe9"
+    },
+    {
+      "album": {
         "name": "magicality",
         "url": "https://open.spotify.com/album/3lve3n6DTwvbU3vA4pimYz"
       },
@@ -10796,6 +10890,24 @@
       "duration_ms": 220480,
       "name": "You need my love",
       "url": "https://open.spotify.com/track/2KnF8lF5elSlvN97jOgAaw"
+    },
+    {
+      "album": {
+        "name": "Beauty and Romantic OST Part.5 (Soundtrack)",
+        "url": "https://open.spotify.com/album/3TKeceruXt78eooVAf7IcT"
+      },
+      "artists": [
+        {
+          "name": "Yeoeun",
+          "url": "https://open.spotify.com/artist/0gL7BEXkWaQQm6y8r9Feug"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192578,
+      "name": "You show up again and again",
+      "url": "https://open.spotify.com/track/2u06HBMNna6cnF2CQpAPco"
     },
     {
       "album": {

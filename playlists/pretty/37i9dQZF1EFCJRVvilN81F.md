@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,565 likes - 135 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,564 likes - 135 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 29 | [Communicate](https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:57 |
 | 30 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
 | 31 | [TRACK UNO](https://open.spotify.com/track/2yuRPuX2qOUDaBlbZDSZl9) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 5:44 |
-| 32 | [LEAVE ME ALONE \(feat\. Shay Lia\)](https://open.spotify.com/track/44dOBMeJCASW2TfKraoGnl) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 4:37 |
-| 33 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
+| 32 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
+| 33 | [LEAVE ME ALONE \(feat\. Shay Lia\)](https://open.spotify.com/track/44dOBMeJCASW2TfKraoGnl) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 4:37 |
 | 34 | [ONE TOO MANY](https://open.spotify.com/track/11jR36qzNpUnQ2YbMrru1p) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:38 |
 | 35 | [Freefall \(feat\. Durand Bernarr\)](https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:01 |
 | 36 | [Out of Time \- KAYTRANADA Remix](https://open.spotify.com/track/36aoiqTQcBGDb7bAO3n5XO) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Dawn FM \(Alternate World\)](https://open.spotify.com/album/0A8SNVB9aIWEW3rm2OgwOB) | 4:35 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 90 | [Traveling Light](https://open.spotify.com/track/4iacGlbvEi6JsH3EmMQVwf) | [Talib Kweli](https://open.spotify.com/artist/0lEssBAxQl2In4RpaB1C2Y), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Radio Silence](https://open.spotify.com/album/7C82GwudARaV8PrNPia8AV) | 4:30 |
 | 91 | [Ghost](https://open.spotify.com/track/18pHQ7Tjkb8EKzq69qebUB) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Ghost](https://open.spotify.com/album/500oNCqdXLgK8vLhE3BQnu) | 3:29 |
 | 92 | [Guillotine](https://open.spotify.com/track/1Wh8GeXvt7lANMGHubpaQn) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Ocean & Montana](https://open.spotify.com/album/6wQHjKlxXujDKgkUXJ4NIv) | 2:58 |
-| 93 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 |
-| 94 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
+| 93 | [Out of Luck](https://open.spotify.com/track/4GztgCDwEDr7H0C7Fs0Luv) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [To Be Eaten Alive](https://open.spotify.com/album/4rZuZBtErG2Bc34ThHpJHk) | 2:55 |
+| 94 | [Zaza Tree](https://open.spotify.com/track/6mNOqBMluf9aEXgNg1O831) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 2:16 |
 | 95 | [NIKE SHOE BOX \(feat\. KAYTRANADA\)](https://open.spotify.com/track/2j2iro1jdg8atPJfF7qg9X) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [EXTRA EXTRA!](https://open.spotify.com/album/2e6cYARtMKZUhYqD7WXXa1) | 2:12 |
 | 96 | [1000 Xans](https://open.spotify.com/track/2XkYcbrEv83s6wD0AkeCbz) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [theMIND](https://open.spotify.com/artist/5ZK5YGazICLXEXlaNnEBqP) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:15 |
 | 97 | [Stuntin](https://open.spotify.com/track/44CSjBjs3mcn5c66XnB8It) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Lover/Friend](https://open.spotify.com/album/1CS8eBSCVXMwYJytG5aYfX) | 3:02 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 134 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 135 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Mjg1NjI1ODQsMDAwMDAwMDAyYjRhZmM1ODZlMjA3NDVmZDA2Mzg1Nzc0MGJlYjE1Zg==`
+Snapshot ID: `Mjg1NjQwMjQsMDAwMDAwMDBkMzYyOWM2OGQ4NTNjMjI2OTQyYTA1MzcwODFhNTFmNw==`

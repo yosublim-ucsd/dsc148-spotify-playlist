@@ -2,7 +2,7 @@
 
 ### [This Is Amy Grant](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4aluxi)
 
-> This is Amy Grant\. The essential tracks, all in one playlist.
+> This is Amy Grant\. De viktigste sporene samlet i én spilleliste.
 
 67 songs - 4 hr 20 min
 

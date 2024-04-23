@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 
 > Os padres e nomes que movem multidões pelo país\. Foto: Davidson Silva, Danúbia M.J
 
-[Spotify](https://open.spotify.com/user/spotify) - 321,547 likes - 70 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 321,081 likes - 70 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9foP18YmfwY.md) - [plain]
 | 15 | [Deus Está Aqui \(Noites Traiçoeiras\)](https://open.spotify.com/track/2cnKUhnCJ0MSYsG3q2zQiC) | [Thiago Brado](https://open.spotify.com/artist/7nhFPRuBTebusd2cBMAaEK), [Katholika Music](https://open.spotify.com/artist/0grtBW6nOD3qjL2S8xNqo2) | [Deus Está Aqui \(Noites Traiçoeiras\)](https://open.spotify.com/album/2IVSlMvLNPCUGCDiAAo2Iw) | 3:45 |
 | 16 | [Decididamente](https://open.spotify.com/track/3wWu0QLfTDfNa7ZVH6pQs8) | [Cassiano Menke](https://open.spotify.com/artist/6XEVCyhWv960rTzOHTkcv1), [Walmir Alencar](https://open.spotify.com/artist/5dPToGb1vTTAf0ZiKqCpSN) | [Decididamente](https://open.spotify.com/album/0mAKA1AGk8xqP2i4bfBPeN) | 4:18 |
 | 17 | [Romaria](https://open.spotify.com/track/2qBAmHKdaXpxAm63nPTPQO) | [Daniel](https://open.spotify.com/artist/2wwWukJBsCikjlj7vlbQkM), [Seu Jorge](https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo) | [Romaria](https://open.spotify.com/album/5PRPqe8TP4JPqklpWtVTne) | 4:41 |
-| 18 | [Caminho no Deserto](https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Caminho no Deserto](https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr) | 6:45 |
-| 19 | [Retrovisor](https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Retrovisor](https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi) | 3:38 |
+| 18 | [Retrovisor](https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje) | [Padre Fábio De Melo](https://open.spotify.com/artist/72G62rG7kmq4GFOzyjJV4q), [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Retrovisor](https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi) | 3:38 |
+| 19 | [Como És Lindo](https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Gil Monteiro](https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:53 |
 | 20 | [Eis\-Me Aqui \- Ao Vivo](https://open.spotify.com/track/2B8hftUbw5ZgpDierVaXNn) | [Colo de Deus](https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1) | [Resiliência \(Ao Vivo\)](https://open.spotify.com/album/1hVNGg5aKdYEJ54F9xPh1Q) | 9:29 |
 | 21 | [Não Vou Desisitir](https://open.spotify.com/track/5GF5wmkOro0Ldjlkmk5ofu) | [Fraternidade São João Paulo II](https://open.spotify.com/artist/3P2GN1O0yI6n84aDFOcvVt) | [Não Vou Desistir](https://open.spotify.com/album/3lIFxKUC9Ipe7pT1b3Ril0) | 4:27 |
-| 22 | [Como És Lindo](https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Gil Monteiro](https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy) | [Gba Stage, Vol\. 5](https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd) | 2:53 |
+| 22 | [Caminho no Deserto](https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA) | [Dyego Afonso](https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG), [Aline Brasil](https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS) | [Caminho no Deserto](https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr) | 6:45 |
 | 23 | [Sobre a Dúvida: In Concert \- Ao Vivo](https://open.spotify.com/track/72jnxMQFcHeAnPbPh9tBOM) | [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX), [Leonardo Gonçalves](https://open.spotify.com/artist/6AyvSIi2EyLOaMJCc6J5fZ) | [In Concert \(Ao Vivo\)](https://open.spotify.com/album/2UNw2qExlpT9cLwDz3Mr5q) | 5:03 |
 | 24 | [Faça Um Milagre \- Ao Vivo](https://open.spotify.com/track/2ToXwQGR8W74QBzhNLpFoV) | [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Faça Um Milagre \(Ao Vivo\)](https://open.spotify.com/album/2wLjQBv56JdmwIojvlc7D6) | 4:22 |
 | 25 | [Gratidão](https://open.spotify.com/track/4qp1XuMdwpxxwsJGvYrU0x) | [Rafa Gomes](https://open.spotify.com/artist/7F9ZF1WVkJHsD8t4iNtDh2), [Padre Reginaldo Manzotti](https://open.spotify.com/artist/7luES30fTO66nDk83NZCJV) | [Gratidão](https://open.spotify.com/album/2mR8N7U8tl7ABErUql5XH8) | 4:22 |

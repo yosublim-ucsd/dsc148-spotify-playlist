@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,623 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,621 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,22 +64,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 54 | [Charm You \- Blondshell Version](https://open.spotify.com/track/1BZdaILVXGhuJbvlMFzBBD) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Charm You \(Blondshell Version\)](https://open.spotify.com/album/20Towcj9sBpT5CfdizVUR7) | 2:58 |
 | 55 | [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 |
 | 56 | [Jersey](https://open.spotify.com/track/7cuXfrCsbCOfHIj6iZUn3P) | [Barrie](https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g) | [Barbara](https://open.spotify.com/album/5eieb3BvJUgPIzE5VkdyWL) | 2:46 |
-| 57 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 |
-| 58 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
+| 57 | [Tick Tock](https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE) | [Aldous Harding](https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG) | [Warm Chris](https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v) | 3:39 |
+| 58 | [90s American Superstar](https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5) | [Wallice](https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4) | [90s American Superstar](https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc) | 2:19 |
 | 59 | [Satellite](https://open.spotify.com/track/5r882UNUUII5EKZ9rlVImU) | [Courtney Marie Andrews](https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H) | [Satellite](https://open.spotify.com/album/1RzcWepHYgRdm07qC7CFjh) | 2:54 |
 | 60 | [Superbike](https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:53 |
-| 61 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
+| 61 | [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 |
 | 62 | [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 |
-| 63 | [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 |
+| 63 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
 | 64 | [Champion](https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Champion](https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX) | 4:39 |
 | 65 | [Angelica](https://open.spotify.com/track/1QmWlI3uylUl7Je1uTtj42) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM) | 3:52 |
 | 66 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 |
 | 67 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 |
 | 68 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 | 69 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
-| 70 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 |
-| 71 | [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 |
-| 72 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
+| 70 | [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 |
+| 71 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
+| 72 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 |
 | 73 | [Maps](https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Maps / Country](https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw) | 3:27 |
 | 74 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
 | 75 | [Guts](https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Guts](https://open.spotify.com/album/0PQmgJOVE5gyJc4JimlSX6) | 5:04 |
@@ -113,8 +113,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 103 | [Woman on Fire](https://open.spotify.com/track/1UVKKR5tN9KfKYng30e1dx) | [BEL](https://open.spotify.com/artist/2ts6M8dSQ1GYdVF2ZeCyy6) | [Woman on Fire](https://open.spotify.com/album/3tyDFxumq69ziGnO9DzNRV) | 2:58 |
 | 104 | [Call Me Home](https://open.spotify.com/track/7EepuMExJZF3eimemlp771) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Call Me Home](https://open.spotify.com/album/2VTv5RQrj5dRi70aCfNhUc) | 3:45 |
 | 105 | [Nothing Left To Give](https://open.spotify.com/track/5ti3pAj9M9HlnXrjUiO232) | [BAILEN](https://open.spotify.com/artist/3sYoUB7tAeXO7sOAB8eaII) | [Nothing Left To Give](https://open.spotify.com/album/0IVhJ8PzPajZB401x4lfkO) | 3:13 |
-| 106 | [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 |
-| 107 | [God Knows Why](https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [New Truth](https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE) | 3:01 |
+| 106 | [God Knows Why](https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [New Truth](https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE) | 3:01 |
+| 107 | [Homesick Honeybee \- Edit](https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC) | [Becca Mancari](https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5) | [Homesick Honeybee](https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz) | 2:58 |
 | 108 | [Always Gonna Happen](https://open.spotify.com/track/4VIo9g5gTcLqbZEDbBMAr8) | [Savannah Conley](https://open.spotify.com/artist/4iyGL0YdGnDUVbmuca9e2G) | [Always Gonna Happen](https://open.spotify.com/album/7Jp1J2Smum2GeJRpkZDohG) | 3:59 |
 | 109 | [Spike The Punch](https://open.spotify.com/track/2gzhJCWgQ9MxKXiIWP1BfB) | [Alex Lahey](https://open.spotify.com/artist/5kdYrM3h2sB1Eid5tDf6Hk) | [Spike The Punch](https://open.spotify.com/album/3S2fNUJkRiyB3SrgkixKRG) | 3:01 |
 | 110 | [Cascades](https://open.spotify.com/track/70p2JCsiqE8hhrFhb0dhuq) | [Denai Moore](https://open.spotify.com/artist/4bS7w1U8P3Zuaa5jmj3mvN) | [Modern Dread](https://open.spotify.com/album/2DSkwAMBZN0NY9mz2xJogR) | 3:36 |

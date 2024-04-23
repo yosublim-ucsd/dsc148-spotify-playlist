@@ -1,6 +1,6 @@
 {
   "description": "Warm indie dance vibes, the music you need at golden hour.",
-  "num_followers": 521319,
+  "num_followers": 521634,
   "original_name": "golden hour",
   "owner": {
     "name": "Spotify",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2024-04-19 04:40:02",
       "album": {
+        "name": "Moments Die",
+        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "duration_ms": 246886,
+      "name": "Moments Die",
+      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
+    },
+    {
+      "added_at": "2024-04-19 04:40:02",
+      "album": {
         "name": "Lovely Day (Austin Millz Remix)",
         "url": "https://open.spotify.com/album/5Unm1ObgyJx8TvjrqjWqp1"
       },
@@ -1775,42 +1795,18 @@
     {
       "added_at": "2024-04-19 04:40:02",
       "album": {
-        "name": "Moments Die",
-        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
+        "name": "So Good to Me (Radio Edit)",
+        "url": "https://open.spotify.com/album/5z6aqbVipcLm2KtFLYMhfj"
       },
       "artists": [
         {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
         }
       ],
-      "duration_ms": 246886,
-      "name": "Moments Die",
-      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
-    },
-    {
-      "added_at": "2024-04-19 04:40:02",
-      "album": {
-        "name": "Swirl (Roosevelt Remix)",
-        "url": "https://open.spotify.com/album/0JcAcT7K4l5dp5grqmiIaN"
-      },
-      "artists": [
-        {
-          "name": "Anna of the North",
-          "url": "https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI"
-        },
-        {
-          "name": "Roosevelt",
-          "url": "https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7"
-        }
-      ],
-      "duration_ms": 303142,
-      "name": "Swirl - Roosevelt Remix",
-      "url": "https://open.spotify.com/track/7sH9vN5ziCJ3snQ2nxJtMG"
+      "duration_ms": 226120,
+      "name": "So Good to Me - Radio Edit",
+      "url": "https://open.spotify.com/track/3fDrZa4ksxA5lgi0utGu6k"
     }
   ],
   "unique_name": "golden hour",

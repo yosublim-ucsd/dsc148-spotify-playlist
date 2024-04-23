@@ -2,9 +2,9 @@
 
 ### [K\-Pop Rising](https://open.spotify.com/playlist/37i9dQZF1DX4FcAKI5Nhzq)
 
-> Future K\-Pop hits! Cover: BOYNEXTDOOR
+> Future K\-Pop hits! Cover: KIM WOOJIN
 
-1,038 songs - 2 day 8 hr 54 min
+1,039 songs - 2 day 8 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Blessed\-Cursed](https://open.spotify.com/track/7ecbsiAQ6PNdiAq0hplVZo) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : ANSWER](https://open.spotify.com/album/3nOj9hsnptBEDt9ie2lra5) | 2:50 | 2022-01-10 | 2022-03-22 |
 | [blessing in disguise](https://open.spotify.com/track/3d9qrCD7YR4dFTY0xIP8yq) | [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy) | [blessing in disguise](https://open.spotify.com/album/0ErwZjPs0hjZEkBT7By3Nh) | 3:46 | 2023-08-18 | 2023-10-06 |
 | [BLOOD ON MY HANDS \(Feat\. Paul Blanco & DeVita\)](https://open.spotify.com/track/2tWlrQ5VAwVcVmTdxeqa5J) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [Ballerina \(Music from The Netflix Film\)](https://open.spotify.com/album/11HqjJX3c1LsSrCmUUBjI5) | 3:31 | 2023-10-12 | 2023-11-16 |
-| [Blooming just for you](https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Blooming just for you](https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd) | 3:27 | 2024-03-14 |  |
+| [Blooming just for you](https://open.spotify.com/track/2HPWrzo08BqVptseRrk2GI) | [NuNew](https://open.spotify.com/artist/5ZjDcrnjYCnD9G5nYKjGk5), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Blooming just for you](https://open.spotify.com/album/7HBkXZSY6SQknB6MeS7KYd) | 3:27 | 2024-03-14 | 2024-04-23 |
 | [Blue & Black](https://open.spotify.com/track/43BSk6dOW6THSGe4PyxNSn) | [HYOJUNG](https://open.spotify.com/artist/6seuyGQ3Fq56sS06YVPsOk), [ARIN](https://open.spotify.com/artist/34hCqjzOeeJjqmfsd38zuF), [JANGWONYOUNG](https://open.spotify.com/artist/2ZoHusq9SCsHGbe105EvSw), [LEESEO](https://open.spotify.com/artist/7Hn1uLW6kxd1Pvq83z93f8), [SERIM](https://open.spotify.com/artist/6PNb5DmTuZBGUSxXNbr1JO), [JUNGMO](https://open.spotify.com/artist/2aACxJmf5wuJMcmpdpipRV) | [Blue & Black](https://open.spotify.com/album/5n3Ny3eqXdOY4NzQCXsykh) | 3:21 | 2022-06-30 | 2022-07-26 |
 | [BLUE CHECK \(Feat\. Jay Park, Jessi\) \(Prod\. by Slom\)](https://open.spotify.com/track/7aNA0yQbOYu3HKWv9zElJX) | [toigo](https://open.spotify.com/artist/5tTstLTFQFGb2dBb6h9zeG), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI), [Jessi](https://open.spotify.com/artist/64k5e9kV9MdukXjFrR5R37) | [SHOW ME THE MONEY 11 Episode 3](https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF) | 3:28 | 2023-02-06 | 2023-09-12 |
 | [Blue Hour](https://open.spotify.com/track/0JQHGu03YJikcND4SENdiW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/4usjdWBMHtZyhdqcbTrLB2) | 3:29 | 2020-10-26 | 2021-04-14 |
@@ -446,6 +446,7 @@
 | [I Don't Know You Anymore](https://open.spotify.com/track/4Z4FusIyks3EQfscAFslWj) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [I Don't Know You Anymore](https://open.spotify.com/album/2CGgP7HTjvgAU2ta6bImXP) | 2:46 | 2021-10-16 | 2022-01-05 |
 | [I Don't Love You \(Feat\. Coogie\)](https://open.spotify.com/track/3U7bYD9n4QP0P3LITLgLkc) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja) | [I Don't Love You](https://open.spotify.com/album/1WHtJ18aMLsWdxak99t7Bh) | 3:17 | 2021-08-14 | 2021-10-13 |
 | [I Got U](https://open.spotify.com/track/23W0eq63H9sTGG8SjJu6Ke) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Gatcha!](https://open.spotify.com/album/2LQ1gERkYGpu5pGpUoLNjr) | 3:15 | 2021-06-18 | 2021-08-25 |
+| [I Like The Way](https://open.spotify.com/track/1K68S3pjjU9C4zbmxmY2yj) | [KIM WOOJIN](https://open.spotify.com/artist/2jAhpp38AMZvTHud2OJbvM) | [I LIKE THE WAY](https://open.spotify.com/album/2z5FcX4RUgBLTocUB9pPgC) | 2:52 | 2024-04-22 |  |
 | [I LOVE YOU](https://open.spotify.com/track/4zazrdH47Bkgunb3riXVlJ) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE FIRST STEP : CHAPTER TWO](https://open.spotify.com/album/3qOsKiuw6NaywkQnlmETP7) | 3:01 | 2020-10-13\* | 2021-03-19 |
 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE \(Sa\-Fire\)](https://open.spotify.com/artist/6RbhPRkvqZ4YtziMIUVzeV) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-13 | 2022-08-18 |
 | [I remember](https://open.spotify.com/track/3uXTRQ41tZ7xwGJ1NnKnUC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [I remember](https://open.spotify.com/album/0mJpJJqa0HWqcEujcOF8zO) | 3:31 | 2023-07-07 | 2023-08-26 |
@@ -832,7 +833,7 @@
 | [Spider](https://open.spotify.com/track/2TwB7aK39tnZBQjBPgcbCj) | [HOSHI](https://open.spotify.com/artist/6nWKAdMv1BDq1zHfZzkdbR) | [Spider](https://open.spotify.com/album/3PtE3yizKf8e2MzCtXU8K9) | 3:31 | 2021-04-06 | 2021-06-18 |
 | [SPIN OFF](https://open.spotify.com/track/6xstWwvswCDUclHQCRkLVZ) | [UP10TION](https://open.spotify.com/artist/2LjaeuGS0ubYXZfNihGp9y) | [CONNECTION](https://open.spotify.com/album/6woaNcVnybcymVzGHZbdhG) | 3:25 | 2021-06-18 | 2021-07-28 |
 | [Splash](https://open.spotify.com/track/6jDg7fyZRymvKPYWdBxTgu) | [MIRAE](https://open.spotify.com/artist/3cI5n4TdsnqzKxYPkQLs4b) | [Splash \- MIRAE 2nd Mini Album](https://open.spotify.com/album/6i4asWHVJ6ji44qYYSUakM) | 3:25 | 2021-09-02 | 2021-10-28 |
-| [Spring has come \(with Yang Da\-Il\)](https://open.spotify.com/track/6nAvfX95tDniO0CvctHnIf) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Spring has come \(with Yang Da\-Il\)](https://open.spotify.com/album/4MrFofkylk5sPpDUoO8IMl) | 3:18 | 2024-03-25 |  |
+| [Spring has come \(with Yang Da\-Il\)](https://open.spotify.com/track/6nAvfX95tDniO0CvctHnIf) | [Kim Jong Kook](https://open.spotify.com/artist/60YNqzrSj7rJkuqHkpHPqG), [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [Spring has come \(with Yang Da\-Il\)](https://open.spotify.com/album/4MrFofkylk5sPpDUoO8IMl) | 3:18 | 2024-03-25 | 2024-04-23 |
 | [STALKER](https://open.spotify.com/track/4WCg4g0lMTZxyFC19W0DHF) | [3YE](https://open.spotify.com/artist/65SWpUO42tdFbEhdfj1ryf) | [STALKER](https://open.spotify.com/album/4fzdBEYv8M4d0p6QcDSgn3) | 3:48 | 2021-04-22 | 2021-06-25 |
 | [STAR](https://open.spotify.com/track/4wdUuQQ32Pcrzln7NaZCFk) | [ONEWE](https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16) | [STAR](https://open.spotify.com/album/3vzL4zqeWqJ7stqWpX5bfD) | 4:09 | 2021-11-27 | 2022-01-04 |
 | [Starry Night \(prod\. dress\)](https://open.spotify.com/track/2skhJRyeMP1EefyjTYwQmA) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [Starry Night \(prod\. dress\)](https://open.spotify.com/album/5LveI3wQQYc6XddckFhFzN) | 3:07 | 2021-10-06 | 2021-11-05 |

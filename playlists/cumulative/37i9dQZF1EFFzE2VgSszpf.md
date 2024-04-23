@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7IpfIGtcw2TKQNK7jYRhp5">Kadhja Bonet</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-53 songs - 3 hr 17 min
+54 songs - 3 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Thoughts Around Tea](https://open.spotify.com/track/05It00he7qwMO89POQHvdQ) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 2:12 | 2022-05-25 |  |
 | [Wake](https://open.spotify.com/track/3YujvmwqVRN7JDZbEXiOji) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen Outtakes](https://open.spotify.com/album/5DBp30tDVgskvi4q1ykiGp) | 5:14 | 2022-05-25 |  |
 | [We Forgot Love](https://open.spotify.com/track/5eJsZTCed61pw1mY753QTZ) | [Nicolas Godin](https://open.spotify.com/artist/313G7P4CxkVyQGNFfxNOpC), [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Concrete and Glass](https://open.spotify.com/album/3NOC4ce2g0iULPbC0hevQX) | 5:06 | 2022-05-25 |  |
+| [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/track/0DcmLRFLuYGpADgpS6Vjnz) | [James Tonic](https://open.spotify.com/artist/7eDGkEF3YrLdMyc2dSrW3z), [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG) | [What I Need \(feat\. 42 Dugg\)](https://open.spotify.com/album/1WOzaAOirESxvAqPHwzBFn) | 3:01 | 2024-04-22 |  |
 | [Wings](https://open.spotify.com/track/3jNtJxFceUPsTTvASyY5OY) | [Kadhja Bonet](https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF) | [Childqueen](https://open.spotify.com/album/1rUI6iwxz81yEgS7POrqlO) | 4:03 | 2022-05-25 |  |
 | [You Don't Have To Be Alone](https://open.spotify.com/track/4OLmzWtuaXy9vebMWUJ30v) | [DJDS](https://open.spotify.com/artist/0orEyXhG0KnPEDVgpctNJI) | [Stand Up And Speak](https://open.spotify.com/album/1yuarGUd1KbQPgd7jwsJox) | 3:35 | 2022-05-25 |  |
 | [Zombie](https://open.spotify.com/track/7LE0A2BjH23iXlBVXzBNuU) | [Saint Bodhi](https://open.spotify.com/artist/6X7nWsfLVq8lo1qePztyu5) | [Mad World](https://open.spotify.com/album/55xeus9CHAn0fy4Jo6Xs2v) | 3:01 | 2022-05-25 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 
 > Chill tunes for mellow moods.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,736 likes - 60 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,619 likes - 60 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,13 +38,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2n5hpuulC75.md) - [plain]
 | 28 | [downstate \- Ara Koufax Remix](https://open.spotify.com/track/4iYwaMVjH0E0QuSTWZlWg7) | [Jack Grace](https://open.spotify.com/artist/4aj0Uc8eSN4NQPhLkFZSGB), [Ara Koufax](https://open.spotify.com/artist/6DiOOEpE72LMevCgPUlNNO) | [downstate \(Ara Koufax Remix\)](https://open.spotify.com/album/6FmE1Ipm1ljBpRg3pNzaDI) | 4:38 |
 | 29 | [Edition](https://open.spotify.com/track/1wz7B02oOtrTW6SNLG0cSk) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [Edition](https://open.spotify.com/album/6Do68lYD1UfOmeBYtsxF18) | 1:55 |
 | 30 | [Vibe](https://open.spotify.com/track/3cbgUz3NTglWlY0tuzQiQO) | [MELVV](https://open.spotify.com/artist/7cae9Fkz2R1NDHWtdnaE8d) | [Vibe](https://open.spotify.com/album/5w0BNHjrQ9ObkkQUVWzFdn) | 2:24 |
-| 31 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 |
-| 32 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
-| 33 | [I would](https://open.spotify.com/track/1HsPRFQdULoSCBNDrlWbgb) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/0JkfS74A9BTW6tTQQkg0W9) | 3:25 |
-| 34 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 |
-| 35 | [Plastic](https://open.spotify.com/track/18gcopzbu2DjQjR2DI5pE8) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/30WjNaR79shSTGB52IJTw0) | 3:08 |
-| 36 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
-| 37 | [Ayahuasca](https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Ayahuasca](https://open.spotify.com/album/241mYCg9mXZXgfTAlTsktH) | 8:28 |
+| 31 | [Ayahuasca](https://open.spotify.com/track/6oVm5ocTB8B0rjO5dZk8Px) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Ayahuasca](https://open.spotify.com/album/241mYCg9mXZXgfTAlTsktH) | 8:28 |
+| 32 | [Lagoon](https://open.spotify.com/track/5A7FKtfUqykPsmQ1wMZLDo) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Lagoon](https://open.spotify.com/album/5JaQ8AXFiX3bgStAAKs4Eb) | 4:15 |
+| 33 | [Young](https://open.spotify.com/track/3u4rIcRR7gSoJdkJIx9zpu) | [Vallis Alps](https://open.spotify.com/artist/7qhWa7UI1QNZNDnzYwAYZm) | [Vallis Alps](https://open.spotify.com/album/0s2fghAEEk3Uzz1IbGMDlq) | 5:24 |
+| 34 | [I would](https://open.spotify.com/track/1HsPRFQdULoSCBNDrlWbgb) | [slchld](https://open.spotify.com/artist/33crDRqANd3NQHJagZkQ7O), [Harris Cole](https://open.spotify.com/artist/6DnF6PBcTSsEZuEjXpK0gX), [Aso](https://open.spotify.com/artist/45Ui3GdcxzbdJhhTtZLXO8) | [I would](https://open.spotify.com/album/0JkfS74A9BTW6tTQQkg0W9) | 3:25 |
+| 35 | [Naps](https://open.spotify.com/track/3tnJuFQtMrbf0nBx3tqGAS) | [Joey Pecoraro](https://open.spotify.com/artist/44insiIQApkRaCMIbuaISJ) | [Naps](https://open.spotify.com/album/1x97Q26gAmHUMEmc7vXP1v) | 3:58 |
+| 36 | [Plastic](https://open.spotify.com/track/18gcopzbu2DjQjR2DI5pE8) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/30WjNaR79shSTGB52IJTw0) | 3:08 |
+| 37 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
 | 38 | [I'm Right Here](https://open.spotify.com/track/1P6nShfHtDMPeX9ioSpuDB) | [El Ten Eleven](https://open.spotify.com/artist/0d1j4VJ7gzAJaDslzmjTF0), [E\. Mosseri](https://open.spotify.com/artist/6uGJAxVdyHS0giyh2TzRWI) | [I'm Right Here](https://open.spotify.com/album/40FBsidorGc3bClqQAvXYe) | 4:41 |
 | 39 | [Fleur](https://open.spotify.com/track/28a0RlnfHnnJ5tBA7OIPos) | [Instupendo](https://open.spotify.com/artist/3ctnkEZGtVBTxS7IMin8nC), [Teen Daze](https://open.spotify.com/artist/2GE6MAdyGzeXpY9TwIYd3l) | [Fleur](https://open.spotify.com/album/0HAiMf04OeW4qcgoN4wU82) | 4:19 |
 | 40 | [Holiday \- Kyson Remix](https://open.spotify.com/track/3EsqrnNfJ9CgKtmqM8dJPN) | [Drinker](https://open.spotify.com/artist/2BfQmbIWtDNKSSHNAEOQur), [Kyson](https://open.spotify.com/artist/1ysHnRqLx1sIFxUlahQftx) | [Holiday \(Kyson Remix\)](https://open.spotify.com/album/13suTnGeieJJA5mF9ivLH2) | 4:41 |

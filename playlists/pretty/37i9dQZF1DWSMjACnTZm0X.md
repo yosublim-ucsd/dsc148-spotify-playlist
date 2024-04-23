@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSMjACnTZm0X.md) - [plain]
 
 > Top and emerging tracks from around the world inspired by the amapiano movement\. Cover: <a href="https://open.spotify.com/artist/2tXCRC5DEbW9crbmB6xpEn?si=vPMKVF4FSi6lM3uLNi3zvw">Savage</a>,  <a href=https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep?si=FjEmTtW9RoGz1Phk4uyAxg>Zlatan</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,902 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,916 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

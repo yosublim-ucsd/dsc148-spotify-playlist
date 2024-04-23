@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWZuIX5Q3yUjF.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWZuIX5Q3yUjF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZuIX5Q3yUjF)
 
-### [anima R&B Takeover Fest](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
+### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Una selezione speciale in occasione del <a href="https://dice.fm/event/vx5pd\-rb\-takeover\-fest\-21st\-apr\-monk\-sala\-teatro\-roma\-tickets?lng=en">primo Festival R&B italiano il 21 aprile</a>! Cover: Martina May
+> Il meglio dell'R&B italiano\. Cover: Martina May
 
 555 songs - 1 day 3 hr 34 min
 

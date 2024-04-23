@@ -4,7 +4,7 @@
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 9 min
+87 songs - 5 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Champagne Problems](https://open.spotify.com/track/5iKXqTVr88ghRPwMEeVKVM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:16 | 2022-01-12 |  |
 | [Con Calma \- Remix](https://open.spotify.com/track/4au7FRcgZzChASRYu279xH) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Snow](https://open.spotify.com/artist/3uZFBSsMiooimnprFL9jD1) | [Con Calma \(Remix\)](https://open.spotify.com/album/5lJogLNbwElUSdBmmf8VQB) | 3:01 | 2022-01-12 |  |
 | [Cozy Little Christmas](https://open.spotify.com/track/02FaKXXL7KUtRc7K0k54tL) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Cozy Little Christmas](https://open.spotify.com/album/5IxObv8TvRsYE6DGKnbrXn) | 3:02 | 2023-12-13 | 2023-12-30 |
+| [Cry About It Later](https://open.spotify.com/track/7cLrrJ1Dk6WAQyDIj9j26A) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:09 | 2024-04-23 |  |
 | [Cry About It Later \(feat\. Luísa Sonza & Bruno Martini\)](https://open.spotify.com/track/43WYPxyEfIxlIjNlxQGYzc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Bruno Martini](https://open.spotify.com/artist/5veVxxPm1vzgi6pO2iVA8L) | [Cry About It Later \(feat\. Luísa Sonza & Bruno Martini\)](https://open.spotify.com/album/6a74WD13saUvUB52D62NV0) | 2:39 | 2022-01-12 | 2024-04-19 |
 | [Daisies](https://open.spotify.com/track/4uqh9bualXNHXXwO2wPorc) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Daisies](https://open.spotify.com/album/2m5J1DUH7hJpPSOromIqpN) | 2:53 | 2022-01-12 |  |
 | [Dark Horse](https://open.spotify.com/track/4jbmgIyjGoXjY01XxatOx6) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Juicy J](https://open.spotify.com/artist/5gCRApTajqwbnHHPbr2Fpi) | [PRISM](https://open.spotify.com/album/3jB9yFDwRe3KhtGnHXJntk) | 3:35 | 2022-05-20 |  |
@@ -93,6 +94,6 @@
 | [Where We Started](https://open.spotify.com/track/2yBWKK84uebv35lGajIMhc) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Where We Started](https://open.spotify.com/album/794M3R461sLnY042CsB3xW) | 3:02 | 2022-04-05 |  |
 | [Who You Love \(feat\. Katy Perry\)](https://open.spotify.com/track/7IByJvSqRFltGyiiIiL4wn) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14), [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Paradise Valley](https://open.spotify.com/album/712VoD72K500yLhhgqCyVe) | 4:09 | 2022-01-12 |  |
 | [Wide Awake](https://open.spotify.com/track/5JLv62qFIS1DR3zGEcApRt) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream: The Complete Confection](https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz) | 3:40 | 2022-04-12 |  |
-| [Witness](https://open.spotify.com/track/6EzuVdWmzgOBmqHpzbbzfQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:10 | 2024-04-11 |  |
+| [Witness](https://open.spotify.com/track/6EzuVdWmzgOBmqHpzbbzfQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:10 | 2024-04-11 | 2024-04-23 |
 
 \*This playlist was first scraped on 2022-01-13. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
-  "description": "This is Nick Drake. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 51380,
+  "description": "This is Nick Drake. The essential tracks, all in one playlist.",
+  "num_followers": 51392,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGMzMWMzYWMzYzA0YWQ2Nzc4YjM1YzQyZDQ1NjE2Mjcy",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGEwODlmYWRiZGJkZjA4M2M3OTkxNmM3OGEwMmQ4MDJm",
   "tracks": [
     {
       "added_at": null,
@@ -251,22 +251,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Tree",
-        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
+        "name": "Made To Love Magic",
+        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
       },
       "artists": [
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
-        },
-        {
-          "name": "Gabrielle Drake",
-          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 115960,
-      "name": "All My Trials",
-      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
+      "duration_ms": 157813,
+      "name": "Rider On The Wheel",
+      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
     },
     {
       "added_at": null,
@@ -319,18 +315,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Made To Love Magic",
-        "url": "https://open.spotify.com/album/0nHa7yhIyuYgRL6msr9dJR"
+        "name": "Family Tree",
+        "url": "https://open.spotify.com/album/6tSbmYy6GAIsjtAId5GCbo"
       },
       "artists": [
         {
           "name": "Nick Drake",
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
+        },
+        {
+          "name": "Gabrielle Drake",
+          "url": "https://open.spotify.com/artist/6obKknZATkNWQVnN5aN3Wq"
         }
       ],
-      "duration_ms": 157813,
-      "name": "Rider On The Wheel",
-      "url": "https://open.spotify.com/track/4jLxvHa0g3kZV24TuUyOMB"
+      "duration_ms": 115960,
+      "name": "All My Trials",
+      "url": "https://open.spotify.com/track/7jcEwTZu5mf6Xd9eVU20ML"
     },
     {
       "added_at": null,

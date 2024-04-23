@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 
 > Feels like falling in love in the 50s
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,920 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,028 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 15 | [L\-O\-V\-E](https://open.spotify.com/track/4QxDOjgpYtQDxxbWPuEJOy) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [L\-O\-V\-E](https://open.spotify.com/album/3mGmn1JDde3XyKQqZTJUAL) | 2:35 |
 | 16 | [A Sunday Kind Of Love](https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 3:16 |
 | 17 | [Beyond the Sea](https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [That's All](https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn) | 2:52 |
-| 18 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 |
-| 19 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
+| 18 | [Ladyfingers](https://open.spotify.com/track/7ubd6wvhN4TKMwQUy6hR69) | [Herb Alpert & The Tijuana Brass](https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I) | [Whipped Cream & Other Delights](https://open.spotify.com/album/7DxaerKtPdBxBZLwlgGcqP) | 2:44 |
+| 19 | [A Man Without Love](https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq) | [Engelbert Humperdinck](https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm) | [A Man Without Love](https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE) | 3:23 |
 | 20 | [Crazy \- Single Version](https://open.spotify.com/track/3zpj9dvJABiyMrmLCPw6i8) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK), [The Jordanaires](https://open.spotify.com/artist/6CXezToiGS8K6jr9kr8Muv) | [Showcase](https://open.spotify.com/album/54Ykk8Gg8TuHjLbYvErsKh) | 2:44 |
 | 21 | [Everybody Loves Somebody](https://open.spotify.com/track/5I9sHwLDX28tLtzVgKLtpr) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Everybody Loves Somebody](https://open.spotify.com/album/5py1cVI9V82vgizOzh7z1q) | 2:44 |
 | 22 | [Strangers In The Night](https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [Strangers In The Night \(Expanded Edition\)](https://open.spotify.com/album/1kyb5tomEXcA106V57puFW) | 2:37 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWiYmf13kBNz.md) - [plain]
 | 39 | [Call Me Irresponsible \- 2001 Remaster](https://open.spotify.com/track/0Juciz8gOjrO89qw5KwQV5) | [Bobby Darin](https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ) | [From Hello Dolly To Goodbye Charlie](https://open.spotify.com/album/2eUmHmpjsRfIJvulkcGfug) | 2:04 |
 | 40 | [She's Got You \- Single Version](https://open.spotify.com/track/4H1POasJbrLNaQirsIH29e) | [Patsy Cline](https://open.spotify.com/artist/7dNsHhGeGU5MV01r06O8gK) | [Sentimentally Yours](https://open.spotify.com/album/0GhlY0htAsFNb0eHO9y1lZ) | 3:01 |
 | 41 | [Cry Me A River](https://open.spotify.com/track/7f6AAixCrVar1ZY7RPHDfM) | [Julie London](https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m) | [Julie Is Her Name](https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P) | 2:58 |
-| 42 | [We Have All The Time In The World \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
-| 43 | [Moon River \(From Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4) | [Audrey Hepburn](https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8) | [Moon River \(Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA) | 2:03 |
+| 42 | [Moon River \(From Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/track/1XwAKjAZ1xDZOcuyZoqce4) | [Audrey Hepburn](https://open.spotify.com/artist/16eV2TebyEhqaDRFEZJ9h8) | [Moon River \(Breakfast at Tiffany's\) \[Remastered\]](https://open.spotify.com/album/3RnvFVaJrRTpSTFDabNgGA) | 2:03 |
+| 43 | [We Have All The Time In The World \- From “On Her Majesty’s Secret Service” Soundtrack / Remastered 2003](https://open.spotify.com/track/0OAnoLrIVxpdne3mkVLrwr) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [On Her Majesty's Secret Service \(Expanded Edition\)](https://open.spotify.com/album/4BVd2gkQNWj30YN5P3r8Av) | 3:15 |
 | 44 | [Danke Schoen](https://open.spotify.com/track/3H8Sn0mYsZMPPlMCbebOJ5) | [Wayne Newton](https://open.spotify.com/artist/5NX29TmuYrENlpvz6IgYMJ) | [Danke Schoen](https://open.spotify.com/album/3UGH64Cfac6rQQQvqiDZrT) | 2:35 |
 | 45 | [In The Still of the Night](https://open.spotify.com/track/0GVvRmCoiLkhxJvlZy9bLk) | [The Five Satins](https://open.spotify.com/artist/2YP02JRa1JLejrg3XTssJS) | [For Collectors Only](https://open.spotify.com/album/2ITzRNAK93yj5T5I7zB0I6) | 3:07 |
 | 46 | [Till There Was You \- Remastered](https://open.spotify.com/track/0CczH75yFBo53bVqLRvYn4) | [Peggy Lee](https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc) | [Latin Ala Lee](https://open.spotify.com/album/5A7sAUKBDHvRyA5AxkeKAK) | 2:31 |

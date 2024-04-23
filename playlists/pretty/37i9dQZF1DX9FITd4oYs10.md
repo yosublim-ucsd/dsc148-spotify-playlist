@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 
 > Os brabos do hip hop nacional\. Foto: Racionais MCs
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,960 likes - 60 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,959 likes - 60 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FITd4oYs10.md) - [plain]
 | 7 | [Ela Só Quer Paz](https://open.spotify.com/track/1RPrzKZdkzCNV0Ux0xEHg2) | [Projota](https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K) | [Ela Só Quer Paz](https://open.spotify.com/album/0kt2b6HTMmlV4A5f97LZk9) | 2:54 |
 | 8 | [CORRA](https://open.spotify.com/track/660jt1ifpZZJK6j4g9GX0Q) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [Paige](https://open.spotify.com/artist/1XqfMFbATKSRu5nDy2AZO9) | [O MENINO QUE QUERIA SER DEUS](https://open.spotify.com/album/04iHzaSGrOo5MgBY7R2PbX) | 3:39 |
 | 9 | [Rainha da Pista](https://open.spotify.com/track/6pSS3wWysnciJRFMcK14R7) | [ConeCrewDiretoria](https://open.spotify.com/artist/0iUdFhwiXjGQWAt9yXPP1T) | [Com os Neurônios Evoluidos](https://open.spotify.com/album/6BZBlOY8oVISvKMnUvDQ3Z) | 4:18 |
-| 10 | [Libertários Não Morrem](https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:10 |
-| 11 | [Vai Baby](https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:57 |
+| 10 | [Vai Baby](https://open.spotify.com/track/2Kk7b7iKXhFETUvKD4LaHS) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Abaixo de Zero: Hello Hell](https://open.spotify.com/album/0d9km1VogLi6sN6S95ilyT) | 2:57 |
+| 11 | [Libertários Não Morrem](https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:10 |
 | 12 | [Vilã](https://open.spotify.com/track/6u7Z4HEvyBO8r0wWhgFEho) | [Cacife Clandestino](https://open.spotify.com/artist/2RKcy8YT2w2QYn0D7TjiIi), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy) | [Conteúdo Explícito, Pt\. 1](https://open.spotify.com/album/1WoPJwd3VWWp2BU0f8tFz3) | 3:18 |
 | 13 | [O Mundo é Nosso](https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Coyote Beatz](https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j), [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo) | [Heresia](https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2) | 3:43 |
 | 14 | [Praia do Rosa \- Acústico](https://open.spotify.com/track/5lYKob6hewwt3dcy5kWMfF) | [Oriente](https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Delacruz](https://open.spotify.com/artist/1MzXJ8AaHdidMAnjgcahS4) | [Praia do Rosa \(Acústico\)](https://open.spotify.com/album/0ZctkhWjiHRZ4t20iKd2Ql) | 4:16 |

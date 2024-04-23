@@ -4,7 +4,7 @@
 
 > madi diaz x lennon stella collab & so much more!
 
-247 songs - 14 hr 32 min
+248 songs - 14 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -248,6 +248,7 @@
 | [Where'd The Time Go?](https://open.spotify.com/track/2dXU17E5YrtwfQBlpyu8Ut) | [Kaleah Lee](https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ) | [Where'd The Time Go?](https://open.spotify.com/album/7ttGJ6CYogFKE2twKTjSHM) | 1:45 | 2023-10-20 | 2024-02-14 |
 | [White Winter Hymnal](https://open.spotify.com/track/0GegHVxeozw3rdjte45Bfx) | [Fleet Foxes](https://open.spotify.com/artist/4EVpmkEwrLYEg6jIsiPMIb) | [Fleet Foxes](https://open.spotify.com/album/5GRnydamKvIeG46dycID6v) | 2:27 | 2023-12-22 | 2024-04-06 |
 | [Whole](https://open.spotify.com/track/26nQglIAtzdWhpe0wa7R7V) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 3:19 | 2023-10-06 | 2024-03-13 |
+| [Widows of Normandy](https://open.spotify.com/track/3djAYoVGOkzXsgo7OKzFx0) | [Rye LaChance](https://open.spotify.com/artist/2Se7WvcOZLwezj91JjlVCj) | [Widows of Normandy](https://open.spotify.com/album/5PwfQsDyAcUo4XP3ljb6O1) | 3:10 | 2024-04-22 |  |
 | [Willows](https://open.spotify.com/track/0skYZXWfbJtGlmRRRvQI4A) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Willows](https://open.spotify.com/album/1a1XOILeamqVZsPpUL2D6P) | 3:41 | 2023-10-06 | 2024-01-27 |
 | [Yeehoo!](https://open.spotify.com/track/7CturcmN3XAaQhl32n5Pm2) | [Lauren Juzang](https://open.spotify.com/artist/2HCsMc18MHvpDACmNhbpQ5) | [Yeehoo!](https://open.spotify.com/album/425NhcK8beUulJGrT4duTL) | 3:28 | 2023-10-06 | 2023-12-16 |
 | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/track/45PRcjOnvjz6VMl7tI3O3c) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [You Could Start A Cult \(with Lizzy McAlpine\)](https://open.spotify.com/album/6sTwHqzlr0QYUzH5Dx4pwk) | 3:14 | 2023-10-27 | 2024-02-17 |

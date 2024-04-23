@@ -1,6 +1,6 @@
 {
   "description": "Indie folk that defined the 2010s.",
-  "num_followers": 67433,
+  "num_followers": 67463,
   "original_name": "10s Indie Folk",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Barchords",
-        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 236720,
-      "name": "Lost In The Light",
-      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/5VrMypyjjBGzObGwnEHIJO"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 370666,
       "name": "To Build A Home",
       "url": "https://open.spotify.com/track/3AqPL1n1wKc5DVFFnYuJhp"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Barchords",
+        "url": "https://open.spotify.com/album/4GRRGsQBwwd2kKaEXZqVNd"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 236720,
+      "name": "Lost In The Light",
+      "url": "https://open.spotify.com/track/6IBpFG2LU2udYofIuROp3w"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1703,6 +1703,22 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
+        "name": "Small Town Heroes",
+        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 153546,
+      "name": "Blue Ridge Mountain",
+      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
         "name": "case/lang/veirs",
         "url": "https://open.spotify.com/album/0U5U4AU94YjYY2QoOpmwfN"
       },
@@ -1723,22 +1739,6 @@
       "duration_ms": 177802,
       "name": "Atomic Number",
       "url": "https://open.spotify.com/track/6dA9wLJzLDS3Vfk7m3qIPI"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
-        "name": "Small Town Heroes",
-        "url": "https://open.spotify.com/album/2PKIZjQQgHQeDAw5fn35LO"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 153546,
-      "name": "Blue Ridge Mountain",
-      "url": "https://open.spotify.com/track/2y9IwrkkEVfWpKgPotxf8Q"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "Apocalypse",
-        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
-      },
-      "artists": [
-        {
-          "name": "Bill Callahan",
-          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
-        }
-      ],
-      "duration_ms": 365746,
-      "name": "Riding For The Feeling",
-      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Moonshine Freeze",
         "url": "https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 221666,
       "name": "Moonshine Freeze",
       "url": "https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "Apocalypse",
+        "url": "https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP"
+      },
+      "artists": [
+        {
+          "name": "Bill Callahan",
+          "url": "https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr"
+        }
+      ],
+      "duration_ms": 365746,
+      "name": "Riding For The Feeling",
+      "url": "https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C"
     },
     {
       "added_at": "2024-03-25 16:56:42",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2024-03-25 16:56:42",
       "album": {
-        "name": "The World We Built",
-        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
-      },
-      "artists": [
-        {
-          "name": "The Wild Reeds",
-          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
-        }
-      ],
-      "duration_ms": 328120,
-      "name": "Everything Looks Better (In Hindsight)",
-      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
-    },
-    {
-      "added_at": "2024-03-25 16:56:42",
-      "album": {
         "name": "Been Listening",
         "url": "https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 254853,
       "name": "The Water - feat. Laura Marling",
       "url": "https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV"
+    },
+    {
+      "added_at": "2024-03-25 16:56:42",
+      "album": {
+        "name": "The World We Built",
+        "url": "https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern"
+      },
+      "artists": [
+        {
+          "name": "The Wild Reeds",
+          "url": "https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH"
+        }
+      ],
+      "duration_ms": 328120,
+      "name": "Everything Looks Better (In Hindsight)",
+      "url": "https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6"
     },
     {
       "added_at": "2024-03-25 16:56:42",

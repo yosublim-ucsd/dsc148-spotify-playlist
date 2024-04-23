@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 8185,
+  "2024-04-23": 8167,
   "date_first_scraped": "2022-01-29",
   "description": "Your daily update of the most viral tracks right now - Honduras.",
   "name": "Viral 50 - Honduras",
@@ -9493,7 +9493,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
@@ -20330,6 +20330,24 @@
     },
     {
       "album": {
+        "name": "Promesas",
+        "url": "https://open.spotify.com/album/4LTQxogrlOZjB2VdWigHXC"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175066,
+      "name": "Me Vas a Echar de Menos",
+      "url": "https://open.spotify.com/track/1ZzSTURCWH0Xax2i69ooSE"
+    },
+    {
+      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -29463,7 +29481,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
@@ -32504,6 +32522,24 @@
     },
     {
       "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "album": {
         "name": "Tengo Un Plan",
         "url": "https://open.spotify.com/album/45n6MC1kPEpbyoF17APPf1"
       },
@@ -32533,7 +32569,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 189282,
       "name": "Tengo Un Plan",
       "url": "https://open.spotify.com/track/3r9OpHiEaeMaBOa7kVtWtC"
@@ -33003,7 +33039,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"

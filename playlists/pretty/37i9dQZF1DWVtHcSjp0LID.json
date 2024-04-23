@@ -1,6 +1,6 @@
 {
   "description": "Deep beats to study to.",
-  "num_followers": 67673,
+  "num_followers": 67686,
   "original_name": "Deep Study",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,18 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Mirrors",
-        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
+        "name": "Youth",
+        "url": "https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2"
       },
       "artists": [
         {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        },
-        {
-          "name": "Teira",
-          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
+          "name": "Holly North",
+          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
         }
       ],
-      "duration_ms": 272346,
-      "name": "The Right Place (feat. Teira)",
-      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
+      "duration_ms": 250936,
+      "name": "Youth",
+      "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
     },
     {
       "added_at": "2023-06-09 18:05:35",
@@ -479,18 +475,22 @@
     {
       "added_at": "2023-06-09 18:05:35",
       "album": {
-        "name": "Youth",
-        "url": "https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2"
+        "name": "Mirrors",
+        "url": "https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7"
       },
       "artists": [
         {
-          "name": "Holly North",
-          "url": "https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p"
+          "name": "DJ Seinfeld",
+          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
+        },
+        {
+          "name": "Teira",
+          "url": "https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh"
         }
       ],
-      "duration_ms": 250936,
-      "name": "Youth",
-      "url": "https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0"
+      "duration_ms": 272346,
+      "name": "The Right Place (feat. Teira)",
+      "url": "https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH"
     },
     {
       "added_at": "2023-06-09 18:05:35",

@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-127 songs - 6 hr 39 min
+128 songs - 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Shipwrecked](https://open.spotify.com/track/1xg8d98qGB9fLfiOOWxffX) | [Taxidermists](https://open.spotify.com/artist/7pigwk4t0mwGiwrbrQbEV7) | [KO EP](https://open.spotify.com/album/5WR6HST1bxLuH5kcI4H5Pg) | 2:38 | 2024-04-13 |  |
 | [Shirt No.7](https://open.spotify.com/track/01kxM787BeH0WqdmCIw8jJ) | [The Durutti Column](https://open.spotify.com/artist/7fh7bwX9qV60tLxxsp9bTe) | [Vini Reilly](https://open.spotify.com/album/4nKBqIL9jq9TCTRYoZAykx) | 2:30 | 2024-01-31 | 2024-03-10 |
 | [Shoot from the Heart](https://open.spotify.com/track/2tuiGLoE9ZNqAamqylsafY) | [Judie Tzuke](https://open.spotify.com/artist/7eo4Kn4hJuwXKCD6nOl2Kh) | [Ritmo](https://open.spotify.com/album/0xwLWmM77s0319HTS6HJ4T) | 4:26 | 2024-01-05 | 2024-03-10 |
+| [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 | 2024-04-22 |  |
 | [Signs](https://open.spotify.com/track/7epmAvoQHWEXQKkESieryn) | [Samba Jean\-Baptiste](https://open.spotify.com/artist/7nfBxjb99prCqaT3wk87u5) | [Cardinal](https://open.spotify.com/album/5j2btF2YP9WdNBo7ZKPEtH) | 2:19 | 2024-04-05 |  |
 | [Silver](https://open.spotify.com/track/6zJu9qqwSxx1aPnqQmdAlv) | [Astra King](https://open.spotify.com/artist/1lf6ZLHzJmR8d6gLHt51dn) | [Silver](https://open.spotify.com/album/1HLmtzoF0ZGdY2iSiCvP3y) | 2:39 | 2024-01-05 | 2024-03-10 |
 | [Slow](https://open.spotify.com/track/2r8qfNBFEXlYrIpF0m31un) | [Florence Sinclair](https://open.spotify.com/artist/1zIrnPKywoksAoyOuTDL2W) | [It's a big man ting](https://open.spotify.com/album/2NIMo3HrBwvtkIHsTmluZa) | 1:55 | 2024-04-01 |  |

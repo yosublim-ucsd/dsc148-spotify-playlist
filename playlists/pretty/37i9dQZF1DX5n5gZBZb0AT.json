@@ -1,6 +1,6 @@
 {
   "description": "all gains",
-  "num_followers": 826895,
+  "num_followers": 827515,
   "original_name": "gymcore",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-02-13 14:13:34",
       "album": {
-        "name": "EMPTY DREAMS",
-        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
-      },
-      "artists": [
-        {
-          "name": "CYPARISS",
-          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
-        }
-      ],
-      "duration_ms": 135000,
-      "name": "EMPTY DREAMS",
-      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
-    },
-    {
-      "added_at": "2024-02-13 14:13:34",
-      "album": {
         "name": "YUM YUM",
         "url": "https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 154236,
       "name": "YUM YUM - Slowed",
       "url": "https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46"
+    },
+    {
+      "added_at": "2024-02-13 14:13:34",
+      "album": {
+        "name": "EMPTY DREAMS",
+        "url": "https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2"
+      },
+      "artists": [
+        {
+          "name": "CYPARISS",
+          "url": "https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "EMPTY DREAMS",
+      "url": "https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo"
     },
     {
       "added_at": "2024-02-13 14:13:34",

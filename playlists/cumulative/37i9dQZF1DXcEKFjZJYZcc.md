@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-297 songs - 12 hr 9 min
+299 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,6 +41,7 @@
 | [Blue in Navy](https://open.spotify.com/track/2tCGNbqDih63om2SqaVZNk) | [Taichi Chishaki](https://open.spotify.com/artist/1JNnDWgUDZJvOO6wAqfIUJ) | [Blue in Navy](https://open.spotify.com/album/5k70Is3eskwYuu9hhfgGRa) | 2:12 | 2023-10-10 |  |
 | [Blumenwiese](https://open.spotify.com/track/5LqtZQRkuuz3X6sa7vKAuN) | [Paul Herfort](https://open.spotify.com/artist/7m2yuNYMuLBtNgcHh9yBpl) | [Blumenwiese](https://open.spotify.com/album/1y3sMt414NJdOYiHYGDGSn) | 2:40 | 2022-10-26 |  |
 | [Boite à Musique](https://open.spotify.com/track/3XZDnfcnrOokM3dDgQ6oYX) | [Christophe Pouget](https://open.spotify.com/artist/6NMPthFB3FbixffuRKpIGU) | [Boite à Musique](https://open.spotify.com/album/58jpKetqYQHsoVcwOLj4Ef) | 2:19 | 2023-10-10 | 2024-04-19 |
+| [Boscotrecase](https://open.spotify.com/track/3FuD9bDwD9kCUjxz9GEM2o) | [Ennio Bellucc](https://open.spotify.com/artist/62ZwR3KQ7YIIzgAcLxNsHx) | [Boscotrecase](https://open.spotify.com/album/7xYAJnnKPGyzr3qgo9mFMe) | 2:16 | 2024-04-22 |  |
 | [Brighter Days](https://open.spotify.com/track/00QS3WvHXKf0BwZRcKtruO) | [Andrew Lodge](https://open.spotify.com/artist/34k08Wh9fmLzg8Hg3wPS2y) | [Brighter Days](https://open.spotify.com/album/2yo3evs2rNkuRBTDDwW4bw) | 3:25 | 2023-01-09 |  |
 | [Broken Wings](https://open.spotify.com/track/6DsrTcbNItkd09LUx61ZGd) | [Fredrik Lundberg](https://open.spotify.com/artist/1WFoHIANaCtKQ1jrzPl3C3) | [Broken Wings](https://open.spotify.com/album/7yhv9BZoyPY5xlf1LAzW8V) | 2:00 | 2021-12-14 | 2022-07-21 |
 | [Brothers](https://open.spotify.com/track/3bnbVhW9oTICGh0l8cwSqj) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Brothers](https://open.spotify.com/album/0nSGSxftcsyML7gy5shGgs) | 2:42 | 2023-06-27 |  |
@@ -55,6 +56,7 @@
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-05 |  |
 | [Charlie's Dream](https://open.spotify.com/track/71QtyOzyAQf1WNfaW39g8u) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Charlie's Dream](https://open.spotify.com/album/3lz45nxfVNnTaqpZHYkDv6) | 2:13 | 2022-07-20 |  |
 | [Childhood Friends](https://open.spotify.com/track/5ss7ZRNsM5geuOqEb7ntkL) | [Noël](https://open.spotify.com/artist/3hCvaJnqBQX6DqHh4nZiYj) | [Childhood Friends](https://open.spotify.com/album/7dr25bsJvu47HJhW8mIZ19) | 2:07 | 2023-01-20 | 2023-11-11 |
+| [Colors Of Spring](https://open.spotify.com/track/0exze8zwHur43rYZ2jT7pL) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Colors Of Spring](https://open.spotify.com/album/0J41XEwKOq2mkoHo9JJdJE) | 2:11 | 2024-04-22 |  |
 | [Comme un tableau](https://open.spotify.com/track/6ee0ytkYNy49PYkvmcJn4c) | [Jean Willneuve](https://open.spotify.com/artist/6DnT4U6g5TExpqgvumr78V) | [Comme un tableau](https://open.spotify.com/album/3LRuBGPRltyrUX4aO1yqjp) | 2:04 | 2021-12-14 |  |
 | [Con el tiempo todo se consigue](https://open.spotify.com/track/7iw3S9vmaQYrdp9fUh4gzC) | [Claribel Ramón](https://open.spotify.com/artist/2R6KwyIVkDBMHj2fNvy6Aq) | [Con el tiempo todo se consigue](https://open.spotify.com/album/2IyGImJyMeoaxHpCfFDMoJ) | 2:35 | 2021-12-14 |  |
 | [Con Le Zampe](https://open.spotify.com/track/1Ypn8gv9pyrGVaVvbxfWWf) | [Pied\-à\-Terre](https://open.spotify.com/artist/3FChImdCbv0x9AYfNzGfvQ) | [Con Le Zampe](https://open.spotify.com/album/7GqLrlOGywYZNFSgOp1KZT) | 2:34 | 2021-12-14 |  |

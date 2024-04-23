@@ -2283,6 +2283,24 @@
     },
     {
       "album": {
+        "name": "Jade Vine",
+        "url": "https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX"
+      },
+      "artists": [
+        {
+          "name": "Moonsong",
+          "url": "https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156606,
+      "name": "Jade Vine",
+      "url": "https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT"
+    },
+    {
+      "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
       },

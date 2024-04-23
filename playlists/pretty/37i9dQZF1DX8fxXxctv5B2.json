@@ -1,6 +1,6 @@
 {
   "description": "Windows down, volume up. The soundtrack to your road trip.",
-  "num_followers": 172450,
+  "num_followers": 172507,
   "original_name": "Coastal Drive",
   "owner": {
     "name": "Spotify",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Bull Breed",
+        "url": "https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 172592,
+      "name": "Bull Breed",
+      "url": "https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Slow Song (with Dragonette)",
         "url": "https://open.spotify.com/album/43HtqLPR1ZIXU8c81c2Vj6"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 253723,
       "name": "Slow Song (with Dragonette)",
       "url": "https://open.spotify.com/track/7HDcd1vyDdNWq897wSILCZ"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     }
   ],
   "unique_name": "Coastal Drive",

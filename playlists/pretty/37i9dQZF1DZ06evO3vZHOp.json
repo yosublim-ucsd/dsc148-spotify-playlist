@@ -1,12 +1,12 @@
 {
-  "description": "This is Eladio Carrion. The essential tracks, all in one playlist.",
-  "num_followers": 326883,
+  "description": "This Is Eladio Carrion. Los temas esenciales, todos en una lista.",
+  "num_followers": 327012,
   "original_name": "This Is Eladio Carrion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDQwYjhlZjkyOGQ4NTFkZWE2OWRiOTNkZTcxMGVmMjk5",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGEwYjA0OTY1OGVjNDkwYWRlZDA3MTQ3ODY5M2Y5MDBh",
   "tracks": [
     {
       "added_at": null,
@@ -75,6 +75,34 @@
       "duration_ms": 208125,
       "name": "Coco Chanel",
       "url": "https://open.spotify.com/track/0PB0O24JqAuNdOAFVJljMS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "100xCiento",
+        "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
+      },
+      "artists": [
+        {
+          "name": "Foreign Teck",
+          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        }
+      ],
+      "duration_ms": 219682,
+      "name": "100xCiento",
+      "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
     },
     {
       "added_at": null,
@@ -227,34 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "100xCiento",
-        "url": "https://open.spotify.com/album/0ftjfi9ePDKKe3JI7IxqEy"
-      },
-      "artists": [
-        {
-          "name": "Foreign Teck",
-          "url": "https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        }
-      ],
-      "duration_ms": 219682,
-      "name": "100xCiento",
-      "url": "https://open.spotify.com/track/52qI65Ek66LV3evWVDf1ET"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sauce Boyz",
         "url": "https://open.spotify.com/album/2JwUsV3QP7FMWx1Fzt6dHQ"
       },
@@ -307,26 +307,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "3MEN2 KBRN",
         "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 240000,
       "name": "Si La Calle Llama - Remix",
       "url": "https://open.spotify.com/track/3qXZqXGniqNt3PK2CBSZgM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN"
     },
     {
       "added_at": null,
@@ -391,26 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Yandel",
-          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
-        }
-      ],
-      "duration_ms": 194941,
-      "name": "Sigo Enamorau'",
-      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00e1rgolas Forever",
         "url": "https://open.spotify.com/album/05CWqvhNPDwN3sWXwMxXXO"
       },
@@ -427,6 +407,26 @@
       "duration_ms": 206706,
       "name": "Promesa",
       "url": "https://open.spotify.com/track/7bwufLkhYm0zA6YOBEUTt7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        }
+      ],
+      "duration_ms": 194941,
+      "name": "Sigo Enamorau'",
+      "url": "https://open.spotify.com/track/6v9Sbtpt6par16uCnlvm98"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sol Mar\u00eda",
-        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 106666,
-      "name": "RKO",
-      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pensabas",
         "url": "https://open.spotify.com/album/5drYlJ8I0GfyZPBDiHU1J2"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 292000,
       "name": "Pensabas",
       "url": "https://open.spotify.com/track/6VpnpePeNlOmzUR3r5Ydrk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sol Mar\u00eda",
+        "url": "https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 106666,
+      "name": "RKO",
+      "url": "https://open.spotify.com/track/4KglpGG1pPLuXmO4lxrIaQ"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 125124,
-      "name": "El Hokage",
-      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
+      "duration_ms": 147499,
+      "name": "Quiz\u00e1s, Tal Vez",
+      "url": "https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 147499,
-      "name": "Quiz\u00e1s, Tal Vez",
-      "url": "https://open.spotify.com/track/15malicZv4vdLHzIXg5kK0"
+      "duration_ms": 125124,
+      "name": "El Hokage",
+      "url": "https://open.spotify.com/track/5GZ4tx6VZxM7V4IQtSJFyx"
     },
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00f3venes Millonarios",
-        "url": "https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        },
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 182189,
-      "name": "J\u00f3venes Millonarios",
-      "url": "https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Salgo a Buscarte",
         "url": "https://open.spotify.com/album/5mHoWx0yEHgj4Gm5jAzdHV"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 201225,
       "name": "Salgo a Buscarte",
       "url": "https://open.spotify.com/track/3FKkbn11xHnb2XOsqsX3Sa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00f3venes Millonarios",
+        "url": "https://open.spotify.com/album/3ilfq7b1QorqjU5qSCLD3y"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 182189,
+      "name": "J\u00f3venes Millonarios",
+      "url": "https://open.spotify.com/track/0MJ9rq9zMOe0G7eL3j5w8G"
     },
     {
       "added_at": null,
@@ -931,6 +931,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "3MEN2 KBRN",
+        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 155750,
+      "name": "\u00bfQu\u00e9 Carajos Quieres T\u00fa Ahora?",
+      "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/2VXV9qOEoAvUoqEws4vmEF"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 217736,
       "name": "Animal",
       "url": "https://open.spotify.com/track/2ALcaaW3YYMo08fotltKHC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3MEN2 KBRN",
-        "url": "https://open.spotify.com/album/6BGN5CVd7koJApotl5Bj8u"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 155750,
-      "name": "\u00bfQu\u00e9 Carajos Quieres T\u00fa Ahora?",
-      "url": "https://open.spotify.com/track/7GuEE0ydKmuXV5DVliachs"
     },
     {
       "added_at": null,
@@ -1043,6 +1043,26 @@
       "duration_ms": 161311,
       "name": "Que Cojones",
       "url": "https://open.spotify.com/track/22TyikLrwsaXhsL31mewls"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Habla Claro",
+        "url": "https://open.spotify.com/album/2pzQh6cUaDXAw2a96vcwVr"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Habla Claro",
+      "url": "https://open.spotify.com/track/1Ixi7vcTIvgyeFlbqy1QQ7"
     }
   ],
   "unique_name": "This Is Eladio Carrion",

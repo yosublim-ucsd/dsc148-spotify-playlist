@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > La nuova generazione del rap italiano\. Aggiornata ogni venerdì\. Niky Savage in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,323 likes - 49 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,253 likes - 49 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 48 | [SINNER](https://open.spotify.com/track/4xUTsAbqDSwAHvjIBvyweN) | [TIA2091](https://open.spotify.com/artist/1oUmYfxENlEgWVw2wBsjDv) | [SINNER](https://open.spotify.com/album/6fHzeT0WDZCJJd8xBLnvUx) | 1:32 |
 | 49 | [Nati Per Fare La Guerra](https://open.spotify.com/track/5kjCIGDQzAWgfSKsnjnX7D) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Nati Per Fare La Guerra](https://open.spotify.com/album/3B72CwXRmMdlSSJW6cza0h) | 2:18 |
 
-Snapshot ID: `MTcxMzQ3NzY2MCwwMDAwMDAwMDcyNzhmNzVjNjg2MmE0OGNjMjU2NWZmMzcxNGVkYmZk`
+Snapshot ID: `MTcxMzc4Mjc1MywwMDAwMDAwMGQ0ZTk2YjVkYTBmZmY2NTBlNzA0YjljN2EzZGY4OTdj`

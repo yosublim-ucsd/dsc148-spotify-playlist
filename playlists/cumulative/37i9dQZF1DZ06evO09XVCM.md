@@ -2,7 +2,7 @@
 
 ### [This Is Ziggy Marley](https://open.spotify.com/playlist/37i9dQZF1DZ06evO09XVCM)
 
-> This Is Ziggy Marley\. Los temas esenciales, todos en una lista.
+> This is Ziggy Marley\. The essential tracks, all in one playlist.
 
 57 songs - 3 hr 44 min
 
@@ -11,7 +11,7 @@
 | [A Lifetime](https://open.spotify.com/track/0SoUvs8IebBx2ZoDBwGqSk) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 4:48 | 2024-02-01 |  |
 | [All You Need Is Love](https://open.spotify.com/track/3QjO59K7XYaPLF8PBTuzQU) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Jake & Friends](https://open.spotify.com/album/55TghcfDJdSXWfsSlkfQwe) | 2:29 | 2024-02-01 |  |
 | [América Vibra](https://open.spotify.com/track/3RZtzSdjGLrETsnm2JVqMB) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Yalitza Aparicio](https://open.spotify.com/artist/3Spa8nHPVqwproM33tHfE8) | [Good Vibration \- Vol\. 1](https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG) | 4:21 | 2024-02-01 |  |
-| [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 | 2024-02-01 |  |
+| [Beach In Hawaii](https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 3:44 | 2024-02-01 | 2024-04-23 |
 | [Black Cat](https://open.spotify.com/track/5Ysvj4iTmZpcwtTdFHzuBq) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp) | 2:41 | 2024-02-01 |  |
 | [Butterflies](https://open.spotify.com/track/4AK6gKiw1nnJDEyAQYRR7j) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Ziggy Marley](https://open.spotify.com/album/1flAWuCR67R6HOsoLTE4xf) | 3:39 | 2024-02-01 |  |
 | [Circle of Peace](https://open.spotify.com/track/4pzVIJSMJC3Aji2rjpyzuT) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:21 | 2024-02-01 |  |
@@ -20,7 +20,7 @@
 | [Cry Cry Cry](https://open.spotify.com/track/1VilEaotlgWLe02BEUIyZP) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf) | [Jack Johnson & Friends: Best Of Kokua Festival, A Benefit For The Kokua Hawaii Foundation](https://open.spotify.com/album/1tqFk7TTYICk0Mhk9XUX9L) | 4:03 | 2024-02-01 |  |
 | [Dragonfly](https://open.spotify.com/track/6nawvymysrG1PgLtNpUwVL) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 4:14 | 2024-02-01 |  |
 | [El Hilo](https://open.spotify.com/track/73MVpByUJzvT5GFNkss7ik) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Cumbiana](https://open.spotify.com/album/1AWWSFCourc5LCAczs3GOS) | 3:48 | 2024-02-01 |  |
-| [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 | 2024-02-01 | 2024-04-22 |
+| [Family Time \(feat\. Judah Marley\)](https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Judah Marley](https://open.spotify.com/artist/5n4DiYhGBepDhn9AJymujP) | [Family Time](https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3) | 4:20 | 2024-02-01 |  |
 | [Fly Rasta](https://open.spotify.com/track/5yy9slyOjLet4v7AOi2AYg) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/25ehyn3bBEPlOsjXTjsGIH) | 3:39 | 2024-04-14 |  |
 | [Fly Rasta \(feat\. U\-Roy\)](https://open.spotify.com/track/7dFKiop2pzcDffeBNOXyPb) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [U\-Roy](https://open.spotify.com/artist/4aCH6cwaYahrWfJWqfEfra) | [Fly Rasta](https://open.spotify.com/album/5nQixRPyGjTQnCc5GR1kKC) | 3:39 | 2024-02-01 | 2024-04-14 |
 | [Garden Song of Miracles \(feat\. Stephen Marley\)](https://open.spotify.com/track/3Potk2QPnD4Oc9jvgPUYZ5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [More Family Time](https://open.spotify.com/album/2kHooAwZ8twZMTDzzpRvyf) | 3:11 | 2024-02-01 |  |

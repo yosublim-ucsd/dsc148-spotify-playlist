@@ -1,6 +1,6 @@
 {
   "description": "Listen to women at full volume. Cover: Maren Morris",
-  "num_followers": 52566,
+  "num_followers": 52575,
   "original_name": "EQUAL US",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
+        "name": "Skin to Skin",
+        "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
+      },
+      "artists": [
+        {
+          "name": "Amira Elfeky",
+          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
+        }
+      ],
+      "duration_ms": 191439,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
+    },
+    {
+      "added_at": "2024-04-01 04:00:00",
+      "album": {
         "name": "Free Treasure",
         "url": "https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP"
       },
@@ -415,22 +431,6 @@
       "duration_ms": 267149,
       "name": "hummingbird",
       "url": "https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY"
-    },
-    {
-      "added_at": "2024-04-01 04:00:00",
-      "album": {
-        "name": "Skin to Skin",
-        "url": "https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8"
-      },
-      "artists": [
-        {
-          "name": "Amira Elfeky",
-          "url": "https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu"
     },
     {
       "added_at": "2024-04-01 04:00:00",
@@ -695,18 +695,22 @@
     {
       "added_at": "2024-04-01 04:00:00",
       "album": {
-        "name": "World's Hardest Game",
-        "url": "https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB"
+        "name": "Keep Marching (from the Broadway musical \"Suffs\")",
+        "url": "https://open.spotify.com/album/5yomacDB0dw5lDid2JCkoT"
       },
       "artists": [
         {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
+          "name": "Shaina Taub",
+          "url": "https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA"
+        },
+        {
+          "name": "Original Broadway Cast of Suffs",
+          "url": "https://open.spotify.com/artist/1kskwE0A7A0TRvLjUGR5br"
         }
       ],
-      "duration_ms": 208967,
-      "name": "World's Hardest Game",
-      "url": "https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO"
+      "duration_ms": 237273,
+      "name": "Keep Marching (from the Broadway musical \"Suffs\")",
+      "url": "https://open.spotify.com/track/62gT1akd5YKj8uw5bUx9Fe"
     }
   ],
   "unique_name": "EQUAL US",

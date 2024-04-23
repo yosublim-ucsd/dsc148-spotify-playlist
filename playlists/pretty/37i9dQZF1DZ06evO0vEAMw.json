@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 74164,
+  "num_followers": 74195,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDE3MTI2ODI0OTE3NzcyYWU5Yjc3NjYyNjJjODFhOThl",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGE0OGNmYWI2NWQ0YjBlNDIwMzgzNTdmMDQyMDcwOWNh",
   "tracks": [
     {
       "added_at": null,
@@ -559,50 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
-        "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
-      },
-      "artists": [
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 204277,
-      "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
-      "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 162285,
-      "name": "Holy Ground (feat. Nicki Minaj)",
-      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -631,6 +587,50 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 162285,
+      "name": "Holy Ground (feat. Nicki Minaj)",
+      "url": "https://open.spotify.com/track/6DWErydPjjZyH06gOkhxRL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
+        "url": "https://open.spotify.com/album/2uqJUP4F59bkjjQpiWNL8M"
+      },
+      "artists": [
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
+        }
+      ],
+      "duration_ms": 204277,
+      "name": "Woju (Remix) [feat. Davido & Tiwa Savage]",
+      "url": "https://open.spotify.com/track/5mLjOzvBL124hjJsoT6Ctz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FIA",
         "url": "https://open.spotify.com/album/7kknjkTumdJA57Ogy0Fq7Z"
       },
@@ -643,46 +643,6 @@
       "duration_ms": 214205,
       "name": "FIA",
       "url": "https://open.spotify.com/track/6sfdU1tGLpXhjjLjGJa0zA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Breezy (Deluxe)",
-        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 179080,
-      "name": "Nobody Has To Know (feat. Davido)",
-      "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Better Time",
-        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        }
-      ],
-      "duration_ms": 171724,
-      "name": "The Best (feat. Mayorkun)",
-      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     },
     {
       "added_at": null,
@@ -703,6 +663,26 @@
       "duration_ms": 182791,
       "name": "Stand Strong (feat. Sunday Service Choir)",
       "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Better Time",
+        "url": "https://open.spotify.com/album/5Af7bJAiAKBCazSQU8BOsD"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        }
+      ],
+      "duration_ms": 171724,
+      "name": "The Best (feat. Mayorkun)",
+      "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
     },
     {
       "added_at": null,
@@ -1051,6 +1031,30 @@
       "duration_ms": 328766,
       "name": "Ke Star (feat. Virgo Deep) - Remix",
       "url": "https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
     }
   ],
   "unique_name": "This Is Davido",

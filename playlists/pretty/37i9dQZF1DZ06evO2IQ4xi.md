@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 
 ### [This Is Doechii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IQ4xi)
 
-> This is Doechii\. The essential tracks, all in one playlist.
+> This is Doechii。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,294 likes - 37 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,295 likes - 37 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,4 +46,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2IQ4xi.md) - [plain]
 | 36 | [God](https://open.spotify.com/track/34soFye9AmIvGfmc9YPQRi) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Oh The Places You’ll Go](https://open.spotify.com/album/0VV963BfZvQmjzZ14ai7Gu) | 2:36 |
 | 37 | [Pms](https://open.spotify.com/track/1bkrjP1Ng2W4k2xC48PKzc) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Bra\-Less](https://open.spotify.com/album/37qnx9fyIcMonemFUpDwNv) | 4:37 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGE4ZWQ4NjU1ODdhYzk3ZmVhMzM4ZWRiYmI2NmE0Nzcz`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGZiZmVhYTFjMTg5ZjFjZWE1YzE5MGI2OTA3NjgwZThl`

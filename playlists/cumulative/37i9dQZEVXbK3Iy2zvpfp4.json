@@ -3149,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "SKEETER",
+        "url": "https://open.spotify.com/album/67cert3BRIaXt0PgGV9VmC"
+      },
+      "artists": [
+        {
+          "name": "Marko Damian",
+          "url": "https://open.spotify.com/artist/7AqU9NR1gQwKApJyxxTC0z"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160546,
+      "name": "Badass!",
+      "url": "https://open.spotify.com/track/6L1yx4dM2VrAMWJaUm9R7Q"
+    },
+    {
+      "album": {
         "name": "Baddadan (feat. IRAH, Flowdan, Trigga & Takura)",
         "url": "https://open.spotify.com/album/2xV74PLdZg5gwA65xGF8cF"
       },
@@ -16648,7 +16666,7 @@
       ],
       "date_added": "2023-07-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 199512,
       "name": "ITALODISCO",
       "url": "https://open.spotify.com/track/3QAU2pj4LUKf7yaTgANlQV"
@@ -18680,7 +18698,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 199500,
       "name": "Les Duele",
       "url": "https://open.spotify.com/track/0JC2yPGYZsO9zR9Bss3Hi8"
@@ -23712,7 +23730,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 224809,
       "name": "Nem\u00e1m Koho Obdivova\u0165",
       "url": "https://open.spotify.com/track/5bkZNilirTDw64wm1KP6oI"
@@ -33945,6 +33963,28 @@
     },
     {
       "album": {
+        "name": "TEETH (feat. Diggy Graves)",
+        "url": "https://open.spotify.com/album/3kyhds57Cj6kSPZhqJ1w4I"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        },
+        {
+          "name": "Diggy Graves",
+          "url": "https://open.spotify.com/artist/1TpOqFPZPxxeuLHL3oSl2t"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149333,
+      "name": "TEETH (feat. Diggy Graves)",
+      "url": "https://open.spotify.com/track/1IsOdvUcz8eoN1qgoNP1sC"
+    },
+    {
+      "album": {
         "name": "Tek It (I Watch the Moon)",
         "url": "https://open.spotify.com/album/3Bt2OtHQDRDXC10Flgm9Rv"
       },
@@ -40214,7 +40254,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 146285,
       "name": "\u043f\u0440\u0430\u0432\u0430",
       "url": "https://open.spotify.com/track/6E2ec1JmPOXyh7k37tYhYU"

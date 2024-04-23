@@ -2,7 +2,7 @@
 
 ### [This Is Mc Dricka](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2szZf2)
 
-> This is Mc Dricka\. Todos os maiores hits em uma só playlist.
+> This is Mc Dricka。アーティストの代表曲をひとつのプレイリストに。
 
 67 songs - 3 hr 54 min
 

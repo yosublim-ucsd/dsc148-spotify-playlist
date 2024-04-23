@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 
 > Canciones que marcaron la década de los 80s en Argentina.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,416 likes - 60 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,225 likes - 60 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSRkJxO1RgW.md) - [plain]
 | 54 | [Vía México](https://open.spotify.com/track/0fSeOXEDSRDlImjW2Cqkt5) | [Suéter](https://open.spotify.com/artist/6YbPwijYI1KH2v4aPzAORT) | [Completo](https://open.spotify.com/album/1kzbderno6TMQbGXYGLbtx) | 3:32 |
 | 55 | [Volver A Los 17 \- Live In Argentina / 1984](https://open.spotify.com/track/2N9y942Xz3zsgEDbIzs1Mz) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [Corazón Americano](https://open.spotify.com/album/4Rq7IfvTdpx1jNTkLkEXZS) | 5:45 |
 | 56 | [Héroes](https://open.spotify.com/track/0tj6CJdNcyU7L8hc61KXAE) | [Friccion](https://open.spotify.com/artist/5MoGn6jc9GHCMiWzccjWRD) | [Heroes / Antologia 1986 \- 1988](https://open.spotify.com/album/5hTIPpvzJIy2Os07sMSWP5) | 6:19 |
-| 57 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
-| 58 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
+| 57 | [Sólo Quiero Rock and Roll](https://open.spotify.com/track/5f5b4AlzF42gLjrentic5P) | [La Torre](https://open.spotify.com/artist/2OL1Rpd8YwI243JOKhC02L) | [Sólo Quiero Rock & Roll](https://open.spotify.com/album/0f7XdhLccYIYBdyOeOT5jP) | 3:55 |
+| 58 | [Hu Na Na](https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69) | [Cosméticos](https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon) | [Cosméticos](https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm) | 4:13 |
 | 59 | [A Cada Hombre, A Cada Mujer](https://open.spotify.com/track/15YgfiMf7ArHQOLQ1fZEEC) | [Serú Girán](https://open.spotify.com/artist/6CrQKZeuSKNYgrE7PeYqJ1) | [Seru Giran 92](https://open.spotify.com/album/2RpzZJ2bn9gEtHzLsTejT4) | 3:53 |
 | 60 | [Corazones Muertos](https://open.spotify.com/track/4UgtuMtQBOHTSJktZgwQvV) | [Raul Porchetto](https://open.spotify.com/artist/3WoxTj3fh8I58MpnwZyYyL) | [Noche y Día](https://open.spotify.com/album/0FWccOOClD62jDsDvqj6Gl) | 3:46 |
 

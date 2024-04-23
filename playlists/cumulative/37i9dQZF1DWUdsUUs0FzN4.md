@@ -4,7 +4,7 @@
 
 > Con licuachela en mano y perreando hasta el piso\. El Malilla en portada
 
-322 songs - 16 hr 0 min
+323 songs - 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,10 +324,11 @@
 | [Yakuza](https://open.spotify.com/track/7Jyk0UOKEfXbcuZPEYqe3S) | [Flyboiz](https://open.spotify.com/artist/1v6yTtwOltsxSmIqLqXe6V), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Yakuza](https://open.spotify.com/album/20xl5EPX6JtQERzwcpzIVs) | 2:49 | 2022-01-04 | 2022-07-28 |
 | [Yo Quiero De Eso](https://open.spotify.com/track/6mx3RV0pobsvblmDYluDYI) | [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Yo Quiero De Eso](https://open.spotify.com/album/4OOGzzhfdiSFVS9QCtm86s) | 2:14 | 2023-03-10 | 2023-03-22 |
 | [Yumi Yumi](https://open.spotify.com/track/7BMXyM754xlyx8IN23WLHI) | [Kentow](https://open.spotify.com/artist/4u3hoILnjldAsnwZkAa0oh) | [Yumi Yumi](https://open.spotify.com/album/3VEwb1dVNNgz4C0qnOSa9I) | 3:12 | 2023-03-17 | 2023-03-25 |
+| [Ñero Session 11](https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Totoy El Frio](https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z) | [Ñero Session 11](https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr) | 3:06 | 2024-04-19 |  |
 | [Ñero Session 2](https://open.spotify.com/track/5dERrcB9eCq5x44BbpQQfp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Cris Sour](https://open.spotify.com/artist/4FDok6VDIf3e0KFxaWXc4t), [Zkiper Mami](https://open.spotify.com/artist/42dhqBXADvMbtRoUX2SckE) | [Ñero Session 2](https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E) | 2:26 | 2023-03-03 | 2023-11-25 |
 | [Ñero Session 3](https://open.spotify.com/track/0awixw6edMqOwTm2wcM3Uj) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf) | [Ñero Session 3](https://open.spotify.com/album/1FKZ9HEFRmELWUtyaWcHWA) | 2:48 | 2023-05-05 |  |
 | [Ñero Session 5](https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Dani Flow](https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ), [Tensec](https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB) | [Ñero Session 5](https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n) | 2:27 | 2023-07-14 |  |
-| [Ñero Session 7](https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal) | [Ñero Session 7](https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB) | 3:03 | 2023-09-29 |  |
+| [Ñero Session 7](https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Los Menores](https://open.spotify.com/artist/51YrdVc67EHkCDRJMHxJal) | [Ñero Session 7](https://open.spotify.com/album/0kXgMtDQPGRvXY91yOOLZB) | 3:03 | 2023-09-29 | 2024-04-23 |
 | [Ñero Session 8](https://open.spotify.com/track/4K4d0aCB2G7oULFGnR8UYv) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Jossie A](https://open.spotify.com/artist/3wXd0N7IkY2bZ4KMbhmBJ5) | [Ñero Session 8](https://open.spotify.com/album/0lBWP5l7mhQ4afnp8RVZ2C) | 2:24 | 2023-11-24 |  |
 | [Ñero Session 9](https://open.spotify.com/track/25436Um1IRszqdgUJhbeEp) | [Alu Mix](https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF), [Kodigo](https://open.spotify.com/artist/3hwgckfLtTHdnkf694c7HS) | [Ñero Session 9](https://open.spotify.com/album/3TSe0oswvNGwkq9N0qUt0L) | 2:31 | 2024-01-26 | 2024-02-20 |
 

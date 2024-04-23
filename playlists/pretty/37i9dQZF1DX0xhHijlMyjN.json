@@ -1,6 +1,6 @@
 {
   "description": "Lo que necesita cualquier verbena veraniega.",
-  "num_followers": 344100,
+  "num_followers": 343638,
   "original_name": "Cl\u00e1sicos del Verano",
   "owner": {
     "name": "Spotify",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Tarpeia",
-        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
-      },
-      "artists": [
-        {
-          "name": "Paradisio",
-          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
-        }
-      ],
-      "duration_ms": 229333,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Tribalistas",
         "url": "https://open.spotify.com/album/1kNwLPweR4ieuoGvbm1kP1"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 196933,
       "name": "J\u00e1 Sei Namorar - 2004 Digital Remaster",
       "url": "https://open.spotify.com/track/352FuGmGJClPjojSYjNrXG"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Tarpeia",
+        "url": "https://open.spotify.com/album/2ckPp0V20I5lKZ6pKWuhpf"
+      },
+      "artists": [
+        {
+          "name": "Paradisio",
+          "url": "https://open.spotify.com/artist/0FfjCldzckJBQNsnQyMJmb"
+        }
+      ],
+      "duration_ms": 229333,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/6PwbVXIomkvk4YcafiOc6i"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
-      },
-      "artists": [
-        {
-          "name": "Kate Ryan",
-          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
-        }
-      ],
-      "duration_ms": 184693,
-      "name": "Ella Elle L A",
-      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Lo Mejor de Banda Blanca - 16 Exitos",
         "url": "https://open.spotify.com/album/696Y05qV9YgqTqA8gPmY20"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 293906,
       "name": "Sopa de Caracol",
       "url": "https://open.spotify.com/track/4V8uHuLaBRxQ02H4YNCOO7"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/4SPD09dxTSb1isoxVSNhAq"
+      },
+      "artists": [
+        {
+          "name": "Kate Ryan",
+          "url": "https://open.spotify.com/artist/47BNWfpngeFHYvBlPPyraM"
+        }
+      ],
+      "duration_ms": 184693,
+      "name": "Ella Elle L A",
+      "url": "https://open.spotify.com/track/2uWK6uBDfyg78xfiH1iiFP"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Todos Los D\u00edas Sale El Sol",
+        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
+      },
+      "artists": [
+        {
+          "name": "Bongo Botrako",
+          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
+        }
+      ],
+      "duration_ms": 146337,
+      "name": "Todos los d\u00edas sale el sol",
+      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Europop",
         "url": "https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 283747,
       "name": "Blue (Da Ba Dee) - Gabry Ponte Ice Pop Radio",
       "url": "https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Todos Los D\u00edas Sale El Sol",
-        "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
-      },
-      "artists": [
-        {
-          "name": "Bongo Botrako",
-          "url": "https://open.spotify.com/artist/6XcqNunmoXrhbq6rAYgFxJ"
-        }
-      ],
-      "duration_ms": 146337,
-      "name": "Todos los d\u00edas sale el sol",
-      "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
+        "name": "Que No Se Extinga La Llama!",
+        "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
+      },
+      "artists": [
+        {
+          "name": "Seguridad Social",
+          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
+        }
+      ],
+      "duration_ms": 187999,
+      "name": "Chiquilla",
+      "url": "https://open.spotify.com/track/4eJikwHYHJ3yMg1tvS1Mom"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
         "name": "Global Warming",
         "url": "https://open.spotify.com/album/4aawyAB9vmqN3uQ7FjRGTy"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 196440,
       "name": "Echa Pa'lla (Manos Pa'rriba) (feat. Papayo)",
       "url": "https://open.spotify.com/track/0fjRYHFz9ealui1lfnN8it"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
-        "name": "Que No Se Extinga La Llama!",
-        "url": "https://open.spotify.com/album/100SajoSYlozWJ2wRFKob3"
-      },
-      "artists": [
-        {
-          "name": "Seguridad Social",
-          "url": "https://open.spotify.com/artist/5UbMQUFrcJdDstPCza7y0B"
-        }
-      ],
-      "duration_ms": 187999,
-      "name": "Chiquilla",
-      "url": "https://open.spotify.com/track/4eJikwHYHJ3yMg1tvS1Mom"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Paulina",
-        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
-      },
-      "artists": [
-        {
-          "name": "Paulina Rubio",
-          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
-        }
-      ],
-      "duration_ms": 254773,
-      "name": "Y Yo Sigo Aqui - Spanglish",
-      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "...Balla!",
         "url": "https://open.spotify.com/album/1nFv7xx9OHyArzWuCke1yE"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 262456,
       "name": "Ma quale idea",
       "url": "https://open.spotify.com/track/0nHdPB5NA4xkoDoSLbREwD"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Paulina",
+        "url": "https://open.spotify.com/album/64M45unRUhuzlOYth6w5HB"
+      },
+      "artists": [
+        {
+          "name": "Paulina Rubio",
+          "url": "https://open.spotify.com/artist/1d6dwipPrsFSJVmFTTdFSS"
+        }
+      ],
+      "duration_ms": 254773,
+      "name": "Y Yo Sigo Aqui - Spanglish",
+      "url": "https://open.spotify.com/track/2Ma2f8jV8VKMJoAcnCvZ8h"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -1943,22 +1943,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Cartas de Amor",
-        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
-      },
-      "artists": [
-        {
-          "name": "Los Moles",
-          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
-        }
-      ],
-      "duration_ms": 303680,
-      "name": "El Legia",
-      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Confidencial/New Booklet",
         "url": "https://open.spotify.com/album/4MlGPzHeuch6yl8VBzDDmU"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 189133,
       "name": "Salta!!!",
       "url": "https://open.spotify.com/track/0M2tanh26PWePnaGVV3h3y"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Cartas de Amor",
+        "url": "https://open.spotify.com/album/3FXoSGC8aRYM05wG0FWmO4"
+      },
+      "artists": [
+        {
+          "name": "Los Moles",
+          "url": "https://open.spotify.com/artist/50pSmQcXiFTWQ4O5sUddnV"
+        }
+      ],
+      "duration_ms": 303680,
+      "name": "El Legia",
+      "url": "https://open.spotify.com/track/6oAQjQUNla2rJSYeQ8qWxe"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2195,22 +2195,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Papi Chulo... Te Traigo El Mmmm",
-        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
-      },
-      "artists": [
-        {
-          "name": "Lorna",
-          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
-        }
-      ],
-      "duration_ms": 180466,
-      "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
-      "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Dulce Veneno",
         "url": "https://open.spotify.com/album/103iVGOwBBlDcdrRmORWDH"
       },
@@ -2223,6 +2207,22 @@
       "duration_ms": 264826,
       "name": "Amigos para Siempre",
       "url": "https://open.spotify.com/track/6PfQB3xEbIlky1dXOb3Yyh"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Papi Chulo... Te Traigo El Mmmm",
+        "url": "https://open.spotify.com/album/2PXmGyRtObJ5jdRjkaovZs"
+      },
+      "artists": [
+        {
+          "name": "Lorna",
+          "url": "https://open.spotify.com/artist/2AwxAHULVspHSlffbyOSg3"
+        }
+      ],
+      "duration_ms": 180466,
+      "name": "Papi Chulo... Te Traigo El Mmmm - Radio Version",
+      "url": "https://open.spotify.com/track/6PRv5QDR843SgVpk4IqEit"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
-      },
-      "artists": [
-        {
-          "name": "Baccara",
-          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
-        }
-      ],
-      "duration_ms": 275200,
-      "name": "Yes Sir, I Can Boogie",
-      "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
-    },
-    {
-      "added_at": "2023-06-09 09:38:51",
-      "album": {
         "name": "Matricula De Honor/New Booklet",
         "url": "https://open.spotify.com/album/4ajHTO6YQLBIgfsF9MpKBv"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
+    },
+    {
+      "added_at": "2023-06-09 09:38:51",
+      "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/40coqImDQgGDlN8TxMhJwJ"
+      },
+      "artists": [
+        {
+          "name": "Baccara",
+          "url": "https://open.spotify.com/artist/4dn4KQgTE4P3jrwa3iIVzQ"
+        }
+      ],
+      "duration_ms": 275200,
+      "name": "Yes Sir, I Can Boogie",
+      "url": "https://open.spotify.com/track/1UNP66Mr3sPB3ItYt5bEUe"
     },
     {
       "added_at": "2023-06-09 09:38:51",
@@ -2543,22 +2543,18 @@
     {
       "added_at": "2023-06-09 09:38:51",
       "album": {
-        "name": "Love Generation (Radio Edit)",
-        "url": "https://open.spotify.com/album/18K5xK91s36fWgIcfzkcEt"
+        "name": "La Copla, Vol.4",
+        "url": "https://open.spotify.com/album/4pCNgOQ0N1D9HyVJ4J2RzS"
       },
       "artists": [
         {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "Gary Pine",
-          "url": "https://open.spotify.com/artist/2cSQyZg5t274Y3Nv0uuwjd"
+          "name": "Manolo Escobar",
+          "url": "https://open.spotify.com/artist/0Zt1X6eSDuttQS3JHIyCvZ"
         }
       ],
-      "duration_ms": 204798,
-      "name": "Love Generation - Radio Edit",
-      "url": "https://open.spotify.com/track/7M13FwBAKWNa2jqcZeUhL6"
+      "duration_ms": 216466,
+      "name": "Y Viva Espa\u00f1a",
+      "url": "https://open.spotify.com/track/4Q2vhlUXoWWzZQeKn7OreC"
     },
     {
       "added_at": "2023-06-09 09:38:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 
 > Thunder is coming.
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,848 likes - 40 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,704 likes - 40 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 20 | [Glow](https://open.spotify.com/track/0LF29vtBiXGfFdLzq0dkdo) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [Chronicle](https://open.spotify.com/album/0VIxw6zt84N7sWxGzgXEOU) | 4:16 |
 | 21 | [Love in the Void](https://open.spotify.com/track/6pta8oSJZZ8ypEgAN3zeNY) | [Hammock](https://open.spotify.com/artist/0VOR7Ie9xUSb45fzIIVJQ1) | [Love in the Void](https://open.spotify.com/album/1zlinQtrWot4RrBtxB4UTX) | 5:03 |
 | 22 | [Balabaristas](https://open.spotify.com/track/0iJhP5gxnbgprXwQOkZD52) | [Tristeza](https://open.spotify.com/artist/3oglFEsE6GvwwJFConxKa5) | [A Colores](https://open.spotify.com/album/2G1xCfcdhD34iLvclBqfM6) | 6:07 |
-| 23 | [Zaris](https://open.spotify.com/track/3lG9eYlhnipGfvAR4ZkBk7) | [Mooncake](https://open.spotify.com/artist/6DKVucXliE7U2RV52HF1YL) | [Zaris / Cast the Route](https://open.spotify.com/album/7s5TjksKTu7Ox6KMgHTqBt) | 5:15 |
-| 24 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
+| 23 | [Her Beating Wings](https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1) | [This Patch of Sky](https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf) | [These Small Spaces](https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB) | 6:59 |
+| 24 | [Zaris](https://open.spotify.com/track/3lG9eYlhnipGfvAR4ZkBk7) | [Mooncake](https://open.spotify.com/artist/6DKVucXliE7U2RV52HF1YL) | [Zaris / Cast the Route](https://open.spotify.com/album/7s5TjksKTu7Ox6KMgHTqBt) | 5:15 |
 | 25 | [From Embrace To Embrace](https://open.spotify.com/track/2AHejGSGKvO4qu4f26uyEa) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 6:23 |
 | 26 | [The Letters We'll Never Send](https://open.spotify.com/track/4HrZYWhVwy6oOzn5BUPjIv) | [Break My Fucking Sky](https://open.spotify.com/artist/3mFTiX7WrhpcmoJLghp54A) | [The Letters We'll Never Send](https://open.spotify.com/album/1X72RQSH32yVaSlTvrIlsL) | 6:50 |
 | 27 | [Alaska](https://open.spotify.com/track/4h0iGeA83sYvsngisIw92M) | [Kwoon](https://open.spotify.com/artist/1ctreRQSlu47UoP3po9zd2) | [Alaska](https://open.spotify.com/album/5hSPs0thai8mK30ivMFHeY) | 6:43 |
@@ -40,9 +40,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWTdxbiocWOL.md) - [plain]
 | 30 | [Mogwai Fear Satan](https://open.spotify.com/track/39q7Yyr5iD0ajA6ZFw91y7) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Young Team \(Deluxe Edition\)](https://open.spotify.com/album/3sHB5AiFaJEOCAqh3taqGX) | 16:19 |
 | 31 | [Magik](https://open.spotify.com/track/0kuRZfnraTXD8p8Qr4FMKA) | [Glasgow Coma Scale](https://open.spotify.com/artist/3OilnTuGkR6gZKZa0sV8E8) | [Sirens](https://open.spotify.com/album/0rJ9KcNjZ8MjYBuviSzMmV) | 6:41 |
 | 32 | [Colors In Stereo](https://open.spotify.com/track/2ThL97UJtUQwqZHpgtkktm) | [Moonlit Sailor](https://open.spotify.com/artist/3YX8jgxBqkl30HXjazVXXU) | [Colors In Stereo](https://open.spotify.com/album/6QWZgvK9Gid1Nu8w3rLfCx) | 3:39 |
-| 33 | [We've Arrived at the Burning Building](https://open.spotify.com/track/7vmv4QUPdDSM6cZNen8keb) | [Maybeshewill](https://open.spotify.com/artist/33qUIIydEBgWpe58IA0o61) | [No Feeling Is Final](https://open.spotify.com/album/42Reb04Pln4XkONjQGhm5C) | 3:36 |
-| 34 | [We Grew Old Too Soon](https://open.spotify.com/track/3bISPUFe5nbO9wTHH1fOEi) | [We Came From The North](https://open.spotify.com/artist/1Gz4eaCY3apix9Wd9wBznb) | [Low Sun, Long Shadow](https://open.spotify.com/album/6SUmSpQ8dW7yfhiivSYPHm) | 2:58 |
-| 35 | [Hexis](https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9) | [Carved Into the Sun](https://open.spotify.com/artist/5g6B8BImDEAOJxGNBNJFsJ) | [The Earth Fell Away](https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj) | 8:40 |
+| 33 | [Hexis](https://open.spotify.com/track/7hIWzzbMFypsYqwXTUY8K9) | [Carved Into the Sun](https://open.spotify.com/artist/5g6B8BImDEAOJxGNBNJFsJ) | [The Earth Fell Away](https://open.spotify.com/album/6yU7H3vYfeXC6HQJ97oRkj) | 8:40 |
+| 34 | [We've Arrived at the Burning Building](https://open.spotify.com/track/7vmv4QUPdDSM6cZNen8keb) | [Maybeshewill](https://open.spotify.com/artist/33qUIIydEBgWpe58IA0o61) | [No Feeling Is Final](https://open.spotify.com/album/42Reb04Pln4XkONjQGhm5C) | 3:36 |
+| 35 | [We Grew Old Too Soon](https://open.spotify.com/track/3bISPUFe5nbO9wTHH1fOEi) | [We Came From The North](https://open.spotify.com/artist/1Gz4eaCY3apix9Wd9wBznb) | [Low Sun, Long Shadow](https://open.spotify.com/album/6SUmSpQ8dW7yfhiivSYPHm) | 2:58 |
 | 36 | [Above The Clouds Lies Eternal Sun](https://open.spotify.com/track/0WCvBujFldzGsAimcyjchH) | [Joy Wants Eternity](https://open.spotify.com/artist/4ycYjrk65Tk9G1rhkzGjEy) | [You Who Pretend To Sleep](https://open.spotify.com/album/7G1o9IjZhkUIsQ1IGb7JDs) | 3:53 |
 | 37 | [Indie Rose](https://open.spotify.com/track/1kGTMoTlnYNX6SqR9JSGTA) | [Overhead, The Albatross](https://open.spotify.com/artist/6LvUT0nQphy4BzdzKbdOpx) | [Learning To Growl](https://open.spotify.com/album/3UNCRus4lasxUBTjmr8rzx) | 7:51 |
 | 38 | [The World I Remember](https://open.spotify.com/track/1NKpRhBMGNEBK17cC3G3gx) | [Lights & Motion](https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG) | [The World I Remember](https://open.spotify.com/album/4dc7dwhwBEpDajRO1PetWG) | 5:31 |

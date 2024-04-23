@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,178 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,238 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,7 +48,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 38 | [Loner \(Alone\)](https://open.spotify.com/track/2zFt35JaZM7uOvgXVHBplT) | [Wizard Chan](https://open.spotify.com/artist/4NiZlwuau3hlznWpJYnme4), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Loner \(Alone\)](https://open.spotify.com/album/3T66NsbkDR8yu0Da7nE4pl) | 2:31 |
 | 39 | [Pursuit](https://open.spotify.com/track/4UD9Biajx14iDad5MMJZgX) | [Kaptain](https://open.spotify.com/artist/7ML0FG7erVlQvCsfktO4EH), [Dre Foryoursoul](https://open.spotify.com/artist/3WUSqwXcNB1E8JbAdFXUAT) | [Pursuit](https://open.spotify.com/album/4oAzLQC5wyJ8Srw3BYZBuj) | 2:26 |
 | 40 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
-| 41 | [Only You](https://open.spotify.com/track/4Nbsk8Nc3VCdFUjDrjvCZH) | [Melodi](https://open.spotify.com/artist/0BSCJF8X34d3bVZ6WpZlRE) | [Only You](https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I) | 2:43 |
+| 41 | [Only You](https://open.spotify.com/track/4Nbsk8Nc3VCdFUjDrjvCZH) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Only You](https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I) | 2:43 |
 | 42 | [No One Cares](https://open.spotify.com/track/4KXymUzgOQlVzzUJkqhlT6) | [DEDAN](https://open.spotify.com/artist/6V3bSP6SAobPg4SVtsUTrP) | [No One Cares](https://open.spotify.com/album/6phBnvjWE3OarO3o1xHspu) | 2:52 |
 | 43 | [Ogaranya](https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [Ogaranya](https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG) | 2:48 |
 | 44 | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/track/2dyny0cqxTu0hEVLBUMyV2) | [larrylanes](https://open.spotify.com/artist/1YEisn8aVyjibFXhNpO7vI), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Mamba \(With Bella Shmurda & Seyi Vibez\)](https://open.spotify.com/album/2imNyNmpOrJktWi5eQNLY1) | 2:27 |

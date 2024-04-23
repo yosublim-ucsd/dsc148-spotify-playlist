@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 
 ### [This Is Pedro Capó](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2QB6oe)
 
-> This Is Pedro Capó\. Los temas esenciales, todos en una lista.
+> This is Pedro Capó\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,719 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,731 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 23 | [Todo Bien](https://open.spotify.com/track/3tRKqZBZFpQ6DyJDAWNqOB) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Good Vibration \- Vol\. 1](https://open.spotify.com/album/4F6bIheCKeB1DdoG5OaoYG) | 3:20 |
 | 24 | [Besos Escondíos \(feat\. Pedro Capó\)](https://open.spotify.com/track/2GzZdNShX80JKeeGSwYtCu) | [India Martinez](https://open.spotify.com/artist/6FOpWOxsjQxKEbLiJpU1xV), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Palmeras](https://open.spotify.com/album/44T0wt9lD2FnxPg5d2qXJL) | 2:42 |
 | 25 | [Sin Haber Dormido](https://open.spotify.com/track/3f8ohdsBs0EG9ktGccn4h0) | [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Sin Haber Dormido](https://open.spotify.com/album/2TuwTjtSX2dXBKfaVODYsh) | 3:07 |
-| 26 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 |
-| 27 | [La Sábana y los Pies](https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:06 |
+| 26 | [La Sábana y los Pies](https://open.spotify.com/track/2dO6OrbCT0eBuiExwfo6KZ) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [MUNAY](https://open.spotify.com/album/4E0E7d1jNLPrmf1u4xMnl8) | 3:06 |
+| 27 | [La Neta](https://open.spotify.com/track/0DKIkTI5jB14BEC6sJlsFm) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La Neta](https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1) | 3:25 |
 | 28 | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/track/3pnxj3KnSjqO1Qkl2qLHIz) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\) \(feat\. Small Jam\)](https://open.spotify.com/album/73ikyU6v9zvR63RwjKWikR) | 2:55 |
 | 29 | [Pagamento](https://open.spotify.com/track/0FzATyAkvGkWdR6Rp0lN2x) | [Carlos Vives](https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [Cumbiana II](https://open.spotify.com/album/4fscMZmg0NKVmgDDDE6mA6) | 3:13 |
 | 30 | [Estoy Enamorado](https://open.spotify.com/track/1twgctCV8hHwexACjTzBRn) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [En Letra de Otro](https://open.spotify.com/album/2FSiTQRfhKBOb0my3NK60n) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QB6oe.md) - [plain]
 | 49 | [Jíbaro](https://open.spotify.com/track/7BxtSpUt1DPBE3GCHezgB6) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy) | [La 167](https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK) | 3:09 |
 | 50 | [Tu Fanático \- Remix](https://open.spotify.com/track/6yvWk1foReDykNoYd7n1Wc) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tu Fanático \(Remix\)](https://open.spotify.com/album/0bS2p0AQqpChH6HOhK5NzM) | 3:34 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGY1MTVmMjUwOWIwNmEzNDNlY2ZjYjcwNWNiMjY2NzVm`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDJiYzMzNTdkOTJiYjFlYTYxZGIyODhjZTYxNDRiYTdk`

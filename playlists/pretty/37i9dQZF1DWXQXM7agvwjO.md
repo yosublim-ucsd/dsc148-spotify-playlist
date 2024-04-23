@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds & the best new tracks from Asia\. cover: Elaine \(Singapore\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,448 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,496 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,8 +84,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 74 | [Chết Trong Em](https://open.spotify.com/track/4QjxvzEFwb63NZ1pp3wvHy) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [Chết Trong Em](https://open.spotify.com/album/38JFpZ6hGFaQ4BUxT7XcI0) | 4:16 |
 | 75 | [Bite you](https://open.spotify.com/track/0HQY3oa2908qhJwIPtiYHE) | [muque](https://open.spotify.com/artist/3SfOqz3ae0KRhTQzeR4m3t) | [Bite you](https://open.spotify.com/album/7p1zPjZwJJA9sYTqw7lmpm) | 3:02 |
 | 76 | [Drink!](https://open.spotify.com/track/16OYugyNRr5pxjWZEfkU6b) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg), [YonYon](https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl) | [Drink!](https://open.spotify.com/album/781ggo4OZzeu39c9S3lf3n) | 3:07 |
-| 77 | [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 |
-| 78 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
+| 77 | [sad girl](https://open.spotify.com/track/1C4qmPFkEXh7jfJYZG4KjM) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [sad girl](https://open.spotify.com/album/38q4VehB1wdiNUPOoO7JfN) | 2:28 |
+| 78 | [Sweet Hurting](https://open.spotify.com/track/2WFmtZWu1lV7emNPeWxBtB) | [GANGGA](https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI), [Valentina Ploy](https://open.spotify.com/artist/4RnzpVhMevUeU16FlV4e3e) | [Sweet Hurting](https://open.spotify.com/album/0My4HXeLw9xcBwCLx2N5uw) | 3:34 |
 | 79 | [房屋供應問題](https://open.spotify.com/track/5GOI8Z0pzra4ZJcERjTbFw) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7) | [房屋供應問題](https://open.spotify.com/album/7ncE4lTIsZrWtoy1KuXRkp) | 2:10 |
 | 80 | [meringue doll](https://open.spotify.com/track/1iPAcVXxspQM3aP8f3JtBQ) | [Ichiko Aoba](https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs) | [meringue doll](https://open.spotify.com/album/7qeJaFdCP3hCLm2KFp96Ts) | 4:13 |
 | 81 | [My Dear](https://open.spotify.com/track/38dyoMgDMotr4qX8qlL17j) | [HYBS](https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI) | [WELL DONE](https://open.spotify.com/album/3ZYrXylEYlFvr3HDv1wJqJ) | 2:39 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 84 | [My Plan](https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [My Plan](https://open.spotify.com/album/5tnh0GwxdYRH5aVxVBm52e) | 3:43 |
 | 85 | [WANDERLUST](https://open.spotify.com/track/52mpGQtxgG3h3ihxGHXlu2) | [Paul Partohap](https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9) | [LOVERs ATLAS](https://open.spotify.com/album/3tXerD5ud55G8xiP3TV0zU) | 3:16 |
 | 86 | [Toast](https://open.spotify.com/track/0rdkMTuORAVbsxIdiRCu8s) | [CLAUDIA](https://open.spotify.com/artist/2kUBwtoPkA9ZoJxcQUtL2P) | [Toast](https://open.spotify.com/album/6fWQVnWx02ri1fW8vtRaqb) | 2:34 |
-| 87 | [Tik Tak Tok \(feat\. So!YoON!\)](https://open.spotify.com/track/0dpcP3g0O9uPkyruGfVKi8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 6:15 |
-| 88 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 |
+| 87 | [friends](https://open.spotify.com/track/0ELbsCYuxUarB2UrjGUO3P) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [friends](https://open.spotify.com/album/36P6BJk9IrPXSUQDULhyGO) | 2:23 |
+| 88 | [Tik Tak Tok \(feat\. So!YoON!\)](https://open.spotify.com/track/0dpcP3g0O9uPkyruGfVKi8) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 6:15 |
 | 89 | [รบกวน](https://open.spotify.com/track/7BAS21NdSsGX3LTjzpy9sy) | [Dept](https://open.spotify.com/artist/1zVBNAJivxfj3HygJZOSw3) | [รบกวน](https://open.spotify.com/album/3WMbcDqNUZXATunOGkMfPb) | 3:41 |
 | 90 | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/track/2lyUj9ReeWZHSBaw22yqPT) | [Tokimeki Records](https://open.spotify.com/artist/73vrL9RiKlSaQFo2izavC1), [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Glitter Eyes \(feat\. mindfreakkk\)](https://open.spotify.com/album/19NdL3I9k3u1HhVwSaEa02) | 3:45 |
 | 91 | [tired](https://open.spotify.com/track/55fNfPGUBeRWSvSStXU2b9) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [asheu](https://open.spotify.com/artist/3ft1JIPPDsSpFr6y6Xvqu3) | [tired](https://open.spotify.com/album/6NIR1zEyjL76C1aiyOWPLA) | 2:24 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 97 | [想要有個避風港](https://open.spotify.com/track/4QCM9noC0TValwcd08F6IY) | [老王樂隊](https://open.spotify.com/artist/4MRQK5pLyNbcOW493n55iT) | [想要有個避風港](https://open.spotify.com/album/1WItqWTGRe9OsFC60tKMTp) | 5:57 |
 | 98 | [sharp knife](https://open.spotify.com/track/05G4r4bpW4tdZMPdhlujmZ) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc), [KIRE](https://open.spotify.com/artist/2KZp9cq9DQ9unz17ohWTlL) | [sharp knife](https://open.spotify.com/album/7LPMEgNE8JgxuESYT53wVI) | 2:50 |
 | 99 | [love is growing](https://open.spotify.com/track/1xzKJE6Q1fOhXLzYOCXXQg) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [love is growing](https://open.spotify.com/album/422FUc3Fc4UG1Cn9CeeOAQ) | 2:58 |
-| 100 | [Coming Home Isn't Easy \(feat\. Phum Viphurit\)](https://open.spotify.com/track/3BcNAUgEbT22O0K0DkUGFi) | [Summer Salt](https://open.spotify.com/artist/3MATPJ9tYbcMhw5VOZrRU6), [Phum Viphurit](https://open.spotify.com/artist/5mqguTgtaoCMNMZD6txCh6) | [Coming Home Isn't Easy \(feat\. Phum Viphurit\)](https://open.spotify.com/album/1jzXPiCE938LMWgUlJ20PA) | 3:10 |
+| 100 | [Wanna be my](https://open.spotify.com/track/2rXpdfLf7MJmFWU9eDK2tD) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Wanna be my](https://open.spotify.com/album/5m6JuppdsIQmydayDNDk4c) | 3:07 |
 
 Snapshot ID: `MTcxMzUxODI3NSwwMDAwMDAwMDQ2YTA4MzYyMjViODM5Mjc1Mjc3NDc1ZTY1NGVjODQ2`

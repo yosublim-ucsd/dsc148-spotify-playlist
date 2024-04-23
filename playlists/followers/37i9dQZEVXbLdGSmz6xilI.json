@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 90904,
+  "2024-04-23": 90586,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Vietnam.",
   "name": "Top 50 - Vietnam",
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2023-03-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 194005,
       "name": "Anh \u0110\u00e3 \u1ed4n H\u01a1n",
       "url": "https://open.spotify.com/track/3YctJXK6kznnWl68TnYobN"
@@ -2347,7 +2347,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 340428,
       "name": "But Daddy I Love Him",
       "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
@@ -4847,7 +4847,7 @@
       ],
       "date_added": "2023-02-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 148880,
       "name": "Don't C\u00f4i",
       "url": "https://open.spotify.com/track/3ukrFH17Zl6iEZ2QJ1Zwiy"
@@ -5837,7 +5837,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 201589,
       "name": "Exit Sign",
       "url": "https://open.spotify.com/track/4nXrVH5xwN1w6TpmP7uu8n"
@@ -6061,7 +6061,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
@@ -6293,7 +6293,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 210789,
       "name": "Fresh Out The Slammer",
       "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
@@ -6915,7 +6915,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
@@ -7571,7 +7571,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 354782,
       "name": "H\u01b0 kh\u00f4ng",
       "url": "https://open.spotify.com/track/3A9A7mfVDVm3rrS9SMGhg5"
@@ -7709,7 +7709,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -7727,7 +7727,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 156297,
       "name": "I Can Fix Him (No Really I Can)",
       "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
@@ -9637,7 +9637,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 277156,
       "name": "loml",
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
@@ -9975,7 +9975,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 200842,
       "name": "L\u1ec7 L\u01b0u Ly",
       "url": "https://open.spotify.com/track/2JuHIbFudHwDqQssgqsH3i"
@@ -10803,10 +10803,28 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/05msZuGKP3OCUGQnvLBOf4"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
     },
     {
       "album": {
@@ -12363,7 +12381,7 @@
       ],
       "date_added": "2023-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -13837,7 +13855,7 @@
       ],
       "date_added": "2024-02-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 250122,
       "name": "Sau L\u1eddi T\u1eeb Kh\u01b0\u1edbc (Theme Song From \"MAI\")",
       "url": "https://open.spotify.com/track/36OyVzUmUFb1MTTzy3YXbh"
@@ -14245,7 +14263,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 170356,
       "name": "SHEESH",
       "url": "https://open.spotify.com/track/1njlnn8ZKHI77Pe9szIONR"
@@ -14793,10 +14811,28 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262974,
+      "name": "So Long, London",
+      "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
     },
     {
       "album": {
@@ -18089,7 +18125,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 334084,
       "name": "Who\u2019s Afraid of Little Old Me?",
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"

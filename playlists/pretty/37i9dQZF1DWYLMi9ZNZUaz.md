@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 
 > Dòng chảy rap Việt luôn cuồn cuộn\. Ảnh bìa: RPT MCK
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,177 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,132 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYLMi9ZNZUaz.md) - [plain]
 | 39 | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/track/70hEVaGwwat644nPWkhKNW) | [Phuc Du](https://open.spotify.com/artist/0qkGQFUrj8ERPAZcdpa79j) | [yêu anh đi mẹ anh bán bánh mì](https://open.spotify.com/album/5SJdYLmgXEYDTRWxambaQU) | 4:12 |
 | 40 | [Già Cùng Nhau Là Được](https://open.spotify.com/track/3y6kYOBeVg8jtUiBdTR0pD) | [Tùng TeA](https://open.spotify.com/artist/2SWNzbf1maA3oR4x56Uv9W), [PC](https://open.spotify.com/artist/3HD3V1nGFPwepBO7064Ij0), [TaynguyenSound](https://open.spotify.com/artist/5ayWRfrcpObgDDlzheJ2Gr) | [Già Cùng Nhau Là Được](https://open.spotify.com/album/6uLKMVAfgwW68y7GuKYyXK) | 3:51 |
 | 41 | [Càng Cua](https://open.spotify.com/track/6zrQLaZG0OlT63oUDwFKri) | [Low G](https://open.spotify.com/artist/6TITnFVRcl0AcZ4syE7Toe) | [Càng Cua](https://open.spotify.com/album/6MuNwqjIXFTqiAp7gDMG6F) | 2:19 |
-| 42 | [nữ siêu anh hùng](https://open.spotify.com/track/5FFVQGnZuJt9iAYpasTeq4) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 3:31 |
-| 43 | [Vinflow](https://open.spotify.com/track/6Ov6L8Iy0SMEl9w1TOUvaG) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [420ent.](https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV) | 2:48 |
+| 42 | [Vinflow](https://open.spotify.com/track/6Ov6L8Iy0SMEl9w1TOUvaG) | [Wxrdie](https://open.spotify.com/artist/1Jmkhzve9TuXHUUWGmpANw), [WOKEUP](https://open.spotify.com/artist/0qAJ604EZMbkbpZ9NN6W6d), [2pillz](https://open.spotify.com/artist/0XtC2d9ZVigYA7iMy5YkW0) | [420ent.](https://open.spotify.com/album/7IP9ElXmlMp3U8fbFUpkKV) | 2:48 |
+| 43 | [nữ siêu anh hùng](https://open.spotify.com/track/5FFVQGnZuJt9iAYpasTeq4) | [tlinh](https://open.spotify.com/artist/3diftVOq7aEIebXKkC34oR) | [ái](https://open.spotify.com/album/0LM9Cm43Sug8Hfpm84qmt6) | 3:31 |
 | 44 | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/track/0s7RyyUlQfd8mnnboHe18n) | [MANBO](https://open.spotify.com/artist/2rKtPYcwYmevNcaqzJOwvf), [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY), [HURRYKNG](https://open.spotify.com/artist/5ulyphh5uJrH4Gb1JpSMkV) | [Hẹn Gặp Em Dưới Ánh Trăng](https://open.spotify.com/album/19nGMLMd8gjMQwgh2aYmsx) | 3:42 |
 | 45 | [Yêu 5](https://open.spotify.com/track/5U30iZBlmxkpHqzb1OSnBS) | [Rhymastic](https://open.spotify.com/artist/0gGd4WhPXBSgDX6fdOHcOw) | [Yêu 5](https://open.spotify.com/album/0zverkhFFDtpDSZlbmJkTr) | 4:00 |
 | 46 | [Xin Anh Đừng](https://open.spotify.com/track/7yTgIc73QykZ77WnKiLgLV) | [JustaTee](https://open.spotify.com/artist/3rjcQ5VIWCN4q7UFetzdeO), [LK](https://open.spotify.com/artist/6S0JgJU2l6ds1EhZUJMQFk), [Emily](https://open.spotify.com/artist/2XKlSkrslCs0egLOvSB4Ul) | [Xin Anh Đừng](https://open.spotify.com/album/58WrzEbn6tNryB0lZVUKEY) | 3:52 |

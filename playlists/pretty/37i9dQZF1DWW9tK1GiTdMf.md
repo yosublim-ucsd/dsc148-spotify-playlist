@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 
 > canzoni che ti fanno ribaltare i tavoli \(╯°□°\)╯︵ ┻━┻ Artemas in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,322 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,323 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW9tK1GiTdMf.md) - [plain]
 | 51 | [Traffico Moderno](https://open.spotify.com/track/0bMIpF2k9bNPXmGu8sLkd8) | [Zaite](https://open.spotify.com/artist/6KLLVe6z95qVupJjRHmxMO) | [Traffico Moderno](https://open.spotify.com/album/2a8Hbz6qzdCoXgZ3HeenqK) | 2:30 |
 | 52 | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/track/2Rgnz1zbNus9eaTYd3DcEe) | [Sally Cruz](https://open.spotify.com/artist/1zdw3hXWH7Ri55SoCVt7gc), [thasup](https://open.spotify.com/artist/19i93sA0D7yS9dYoVNBqAA), [Mike Defunto](https://open.spotify.com/artist/6uHOqShw2mIXcOK0jwnqHx) | [LA NOTTE \(feat\. thasup\)](https://open.spotify.com/album/7KPWHITXB44PYMY7ZdzRDN) | 2:41 |
 | 53 | [Feel It \- From The Original Series “Invincible”](https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Feel It \(From The Original Series “Invincible”\)](https://open.spotify.com/album/0GHlPN101r1WcuQCwINbI2) | 2:37 |
-| 54 | [WOW \(feat\. Bedini\)](https://open.spotify.com/track/4CaQm9FxPolY4eJGKpp1s3) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [WOW \(feat\. Bedini\)](https://open.spotify.com/album/3G8u4i2t05fbFUbL0ZJCeY) | 2:46 |
+| 54 | [WOW \(feat\. Troyamaki & Bedini\)](https://open.spotify.com/track/4CaQm9FxPolY4eJGKpp1s3) | [Decrow](https://open.spotify.com/artist/5FlK8QftyFsvopniOcLdch), [Troyamaki](https://open.spotify.com/artist/2sg19ijzUk1KsvKUs3YrxG), [Bedini](https://open.spotify.com/artist/0mM2J659MQ5QvOJAWGt3eP) | [WOW \(feat\. Troyamaki & Bedini\)](https://open.spotify.com/album/3G8u4i2t05fbFUbL0ZJCeY) | 2:46 |
 | 55 | [Angelo Custode](https://open.spotify.com/track/4ArazHVoCAt3FP5GqV2dWd) | [Giovane Miska](https://open.spotify.com/artist/172d1Ks0mK3OBicOBdWlAR), [Manuelyto](https://open.spotify.com/artist/2UU4ROccW19DYo1EEnxPRS) | [Voci](https://open.spotify.com/album/6nR2dTQUW4JYKGoutw96FK) | 2:36 |
 | 56 | [Burn The Witch](https://open.spotify.com/track/4Ne4UbfqgXcBdIsYHjvR6y) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy), [Tommy Genesis](https://open.spotify.com/artist/2qDdxfKUpYg8wc49KIuT3b), [Alice Longyu Gao](https://open.spotify.com/artist/5HvKzBgj4yphQfBJjBJrhL) | [Burn The Witch](https://open.spotify.com/album/1pZGazPWeMdbQFBdEQUXm0) | 2:55 |
 | 57 | [polaroid](https://open.spotify.com/track/1rpL10Z5s5oZbQQcHzaGDj) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo) | [polaroid](https://open.spotify.com/album/2KWHlhRq8QelHPN4yg3Ury) | 2:41 |

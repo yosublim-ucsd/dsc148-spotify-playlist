@@ -4,7 +4,7 @@
 
 > This is Teenage Wrist\. The essential tracks, all in one playlist.
 
-47 songs - 3 hr 2 min
+48 songs - 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,9 +17,10 @@
 | [Cigarette Two Step](https://open.spotify.com/track/5KwLLL8VE4k3mUTy1gfgpP) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [Fear Before The March Of Flames](https://open.spotify.com/artist/4sGnh5atNR6I2OHURlmlMq), [David Marion](https://open.spotify.com/artist/1Su8KMQGp47Q3LddHVXj5k) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:55 | 2023-08-05 | 2023-08-26 |
 | [Cold Case](https://open.spotify.com/track/5G3IvLAzd5V4CzMhh8EBBc) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:44 | 2023-08-05 |  |
 | [Dark Sky](https://open.spotify.com/track/4XvDPaoKmHsrgf5eksXNYu) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Dark Sky](https://open.spotify.com/album/7A8gtZtoZMbpT0xAYl7ma3) | 3:11 | 2023-07-12 | 2023-08-26 |
-| [Dark Sky](https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:11 | 2023-08-25 |  |
+| [Dark Sky](https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx), [S.A\. Martinez](https://open.spotify.com/artist/5dOE9cNjwaLO7AiaXJqnAy) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:11 | 2023-08-25 | 2024-04-23 |
 | [Daylight](https://open.spotify.com/track/3NFESrMYBdTbsKVtIpg2Sz) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 3:47 | 2022-09-16 | 2024-02-06 |
 | [Digital Self](https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:46 | 2023-08-05 |  |
+| [Diorama](https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 3:54 | 2024-04-23 |  |
 | [Diorama](https://open.spotify.com/track/5hYc50kmNWDtMzXS7DtHKz) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Diorama](https://open.spotify.com/album/3dDsFTuqqhrZTywI6TvrbW) | 3:54 | 2023-05-10 | 2024-03-29 |
 | [Dweeb](https://open.spotify.com/track/2rJs5L8S6ivX0Bhk1snhUm) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Chrome Neon Jesus](https://open.spotify.com/album/7DUbrWwDxAeoNzFwKNVpiw) | 4:23 | 2022-09-16 |  |
 | [Earth Is A Black Hole](https://open.spotify.com/track/13a2v5JNOROuvh2MBMWxqb) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Earth Is A Black Hole](https://open.spotify.com/album/2mrdThr7I4qOOivf2KSgwD) | 2:55 | 2022-09-16 |  |

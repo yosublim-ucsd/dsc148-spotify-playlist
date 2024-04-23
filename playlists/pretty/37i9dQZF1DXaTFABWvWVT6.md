@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 
 > Bring the festival vibes to wherever you are with these dance bangers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,755 likes - 44 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,762 likes - 44 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaTFABWvWVT6.md) - [plain]
 | 39 | [Feels So Good](https://open.spotify.com/track/2u6BTFqxoiC6jigy7EPmXv) | [Arielle Free](https://open.spotify.com/artist/3hHvAP73aCKQMbcn2SQZ9d) | [Feels So Good](https://open.spotify.com/album/3AurHVibrDLc1qUWKoS2nO) | 3:39 |
 | 40 | [Money \(Can't Save Us\)](https://open.spotify.com/track/3MfFBWYQTYpCyus3wqzpm1) | [Alec Monopoly](https://open.spotify.com/artist/7uOE9p28qcPPuSOfcofRS9), [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu) | [Money \(Can't Save Us\)](https://open.spotify.com/album/1n4zia945ygcWt83hs611e) | 2:03 |
 | 41 | [On & On](https://open.spotify.com/track/6q8lkavDM3yhk7PXdRK3me) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [On & On](https://open.spotify.com/album/1HaIedqKyxg6wI24PEQfHi) | 2:35 |
-| 42 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
-| 43 | [La Trumpeta](https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [La Trumpeta](https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd) | 3:20 |
+| 42 | [La Trumpeta](https://open.spotify.com/track/0c1dC4GXVKdyU6AakBrYKw) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS) | [La Trumpeta](https://open.spotify.com/album/1FKabhcumxfcWsrtsekyXd) | 3:20 |
+| 43 | [Midtown Playground](https://open.spotify.com/track/22fEl4nzfgTqKi7ZYNXW3c) | [Chris Stussy](https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So) | [Midtown Playground](https://open.spotify.com/album/4wJmh4uUgDAAAyFdRMIE7K) | 3:42 |
 | 44 | [Alive](https://open.spotify.com/track/43yv23e1pejzlyvs5Fsa5w) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts) | [Alive](https://open.spotify.com/album/2AP6dy9DNEXjERfyveb35H) | 3:53 |
 
 Snapshot ID: `MTcxMjI3NTI2MCwwMDAwMDAwMDFiZTFmYzliMDA4MTMwZDI4NGU0MzVhOGRkZDcyNGJh`

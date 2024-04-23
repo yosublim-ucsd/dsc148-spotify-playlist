@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Suki Waterhouse
 
-2,146 songs - 5 day 9 hr 0 min
+2,148 songs - 5 day 9 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1157,6 +1157,7 @@
 | [Magenta Mountain](https://open.spotify.com/track/1mTZgUSvyG3I3O9onu3p5V) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Magenta Mountain](https://open.spotify.com/album/5lqPdkAz8XUdjYIiTnZTZz) | 6:04 | 2022-04-08 | 2022-07-29 |
 | [Mahal](https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 3:21 | 2024-02-22 |  |
 | [Mahal \- Edit](https://open.spotify.com/track/5hmdyjNLMxhrM15jXCCxan) | [Glass Beams](https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF) | [Mahal](https://open.spotify.com/album/65vbRZn1cqkjyjMtlsbDGT) | 2:16 | 2024-02-27 | 2024-02-29 |
+| [Maine](https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Maine/The Sink](https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb) | 4:53 | 2024-04-22 |  |
 | [Make Out](https://open.spotify.com/track/6haLtXSts5wuG97Nyq4jI5) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm) | [Dandelion](https://open.spotify.com/album/3VUCu7FabxaBsNopxsLIkG) | 2:23 | 2021-10-04 | 2022-04-27 |
 | [Make You Proud](https://open.spotify.com/track/2hyaYnjeDSqapulrcPph8z) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Make You Proud](https://open.spotify.com/album/1hnrxf53JOrVRTgjbGPHfj) | 3:27 | 2023-11-17 | 2024-01-27 |
 | [Making It Through](https://open.spotify.com/track/5gH0m1KstxQ1isPiw7CiYV) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Making It Through](https://open.spotify.com/album/0pBCogvXt3tfyHxjDyvcP8) | 4:42 | 2023-11-06 | 2023-12-09 |
@@ -1253,7 +1254,7 @@
 | [My Echo](https://open.spotify.com/track/5tFleO79RsHgXTqyDjoFWT) | [Rolling Blackouts Coastal Fever](https://open.spotify.com/artist/65mMkD9WW39U9Yadv0dWUF) | [My Echo](https://open.spotify.com/album/3y33CXQRWrRZttJV1hXl2L) | 3:35 | 2022-04-14 | 2022-04-18 |
 | [My Fun](https://open.spotify.com/track/306xT15GTuDs3NyopIANrh) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [My Fun](https://open.spotify.com/album/2obv9kAuyDBzo5jTwAOHob) | 2:42 | 2024-04-19 |  |
 | [My Future](https://open.spotify.com/track/1VTwC3ckWtSWzNwCvWz1pT) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [Spotify Singles](https://open.spotify.com/album/0PNOAfrc2KfgKH2ZaKuNs7) | 3:31 | 2021-06-05 | 2021-07-18 |
-| [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 | 2024-01-12 |  |
+| [My Golden Years](https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [My Golden Years](https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj) | 3:13 | 2024-01-12 | 2024-04-23 |
 | [My Grandma Says We Have No Future](https://open.spotify.com/track/5GnSbcq1asisRkpCTLsQC6) | [Cari Cari](https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV) | [My Grandma Says We Have No Future](https://open.spotify.com/album/2sjVhEXzXRUhNwSYjufF2o) | 2:54 | 2023-07-07 | 2023-07-14 |
 | [My Heart Your Heart](https://open.spotify.com/track/47LxA6pPKDv8Y5J2eRA86m) | [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6) | [My Heart Your Heart](https://open.spotify.com/album/0eC8ALyJCCfX2ergC72Ikr) | 2:48 | 2024-03-28 |  |
 | [My House](https://open.spotify.com/track/2zsmJ1AE5MlLfVrwaCytiD) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [My House](https://open.spotify.com/album/3T9SMHvZrlOst5HCTVr2CP) | 4:16 | 2021-07-19 | 2022-01-29 |
@@ -1651,7 +1652,7 @@
 | [Sisyphus](https://open.spotify.com/track/403vzOZN0tETDpvFipkNIL) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [My Finest Work Yet](https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51) | 4:07 | 2019-05-26\* | 2019-10-04 |
 | [Sit on Your Hands](https://open.spotify.com/track/1AUl49yGgselgHvW6DKQpx) | [chemical club](https://open.spotify.com/artist/1J4KMCREAODEtqsexXWbeN) | [Sit on Your Hands](https://open.spotify.com/album/6MwVFr8VucrU2kVVAI3xqQ) | 2:55 | 2021-03-10 | 2021-05-28 |
 | [Sitting In The Corner \(feat\. Adriel Favela & Kacey Musgraves\)](https://open.spotify.com/track/1Cx5pTBRWI67JXVmMGJT23) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Adriel Favela](https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Fantasy Gateway](https://open.spotify.com/album/7JvjOgEBBcrLs9048x1QcM) | 3:52 | 2022-07-29 | 2022-12-10 |
-| [Skin](https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Skin](https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB) | 3:34 | 2024-03-15 |  |
+| [Skin](https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Skin](https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB) | 3:34 | 2024-03-15 | 2024-04-23 |
 | [Skin Game](https://open.spotify.com/track/2Paii6qKa1C0AKWLFnruFy) | [DIIV](https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd) | [Skin Game](https://open.spotify.com/album/3Vg9mkJSyq18e3ASkYfGaU) | 4:25 | 2019-07-30 | 2019-12-13 |
 | [skin in the game](https://open.spotify.com/track/2EpduTUFSZfeb0GI4CaCQD) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [everything is alive](https://open.spotify.com/album/2jSmcj39eQiU76EbMGuxS0) | 3:52 | 2023-07-19 | 2023-10-07 |
 | [skin in the game](https://open.spotify.com/track/3X0KbbFJSUK1hzXggbtreP) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [skin in the game](https://open.spotify.com/album/1EYRoDy36KEklMF2LJRnZb) | 3:52 | 2023-07-19 | 2023-09-14 |
@@ -1727,6 +1728,7 @@
 | [squares](https://open.spotify.com/track/0byJI4UB0ibHxUVz5Fz5Ne) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [squares / y 13](https://open.spotify.com/album/1TszPNUGDtDdfgg1SPDPH6) | 4:27 | 2022-01-21 | 2022-04-21 |
 | [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-19 |  |
 | [Star](https://open.spotify.com/track/4Gv6lS9SMvaT6nS6yMYuUC) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Star b/w Heaven](https://open.spotify.com/album/31JzBxnoBhjRRaEGijOGxU) | 2:59 | 2023-08-23 | 2023-10-07 |
+| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-22 |  |
 | [stardew](https://open.spotify.com/track/3LS02Ewrx5b2itSR2PPVjf) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [stardew](https://open.spotify.com/album/5VyevkD6ggq90eeGPWta5O) | 4:06 | 2020-02-28 | 2020-07-03 |
 | [Stargazing](https://open.spotify.com/track/0VF7YLIxSQKyNiFL3X6MmN) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones \(Deluxe\)](https://open.spotify.com/album/2JyArayVlT6t3MVWLLdSwZ) | 3:37 | 2020-12-22 | 2022-04-30 |
 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 | 2022-08-15 | 2022-12-10 |

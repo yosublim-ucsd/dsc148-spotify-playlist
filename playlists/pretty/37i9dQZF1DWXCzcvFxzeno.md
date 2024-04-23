@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 
 > 😈 welcome to the rave 😈 Cover: Sara Landry
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,547 likes - 100 songs - 8 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,994 likes - 100 songs - 8 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,8 +69,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 59 | [Give Me a Break](https://open.spotify.com/track/5HAtVqY3fFmlyKHQTLd2cg) | [Carter Graham](https://open.spotify.com/artist/1fKvbFKG5LjDDw0agxGZQo) | [Silence](https://open.spotify.com/album/7h47uzPVw34uAn9pztCTUA) | 5:31 |
 | 60 | [The Kickdrum](https://open.spotify.com/track/7ukXlDcPOZKz7lMMWSkahM) | [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [The Kickdrum](https://open.spotify.com/album/7htNx91SOyDqjQofDpYfdh) | 2:19 |
 | 61 | [Frei](https://open.spotify.com/track/3zuaDpUbBX1yepWVGdBYQG) | [In Verruf](https://open.spotify.com/artist/5EnbpUtGIk2qPzGgNE75m0) | [Sektion 3](https://open.spotify.com/album/1nGOgACCBlA4Hmrlm8Xkpd) | 6:09 |
-| 62 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 |
-| 63 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 |
+| 62 | [Do You Like It Fast?](https://open.spotify.com/track/7omTB2Z2lyHny4vQNFaUp7) | [Doruksen](https://open.spotify.com/artist/4QualaVaoF8vYnpJ5o8Pw6) | [Do You Like It Fast? EP](https://open.spotify.com/album/1i403h35Basm5D2bNKjdBO) | 5:07 |
+| 63 | [Control](https://open.spotify.com/track/7DiK4Zb8foUGz0DdmLGOCH) | [Clara Cuvé](https://open.spotify.com/artist/7daFW9cX9jHmOxZ0PIofRm) | [Sektion 1](https://open.spotify.com/album/4C3R1RL6h7EkNvTJnwwV1j) | 5:43 |
 | 64 | [Gettogether](https://open.spotify.com/track/4umMJJesNImOQ4uERpQtqA) | [H! Dude](https://open.spotify.com/artist/5EdJyUrE9kntnBdcVTVLAe) | [Gettogether](https://open.spotify.com/album/3OYEIb3CxkmIxheEGnSUpB) | 5:26 |
 | 65 | [Disfigure](https://open.spotify.com/track/1rbHfStcFOWagdugYdiK5T) | [XRTN](https://open.spotify.com/artist/5oXWx1ZjiyWTt4fhjUQgKR), [GWELD](https://open.spotify.com/artist/4RFa0ShXF9VKaaKDyT2NlC) | [Disfigure](https://open.spotify.com/album/40N5Ez27dWfybAHuOLcue8) | 5:26 |
 | 66 | [The Future is Female](https://open.spotify.com/track/4V9UPaG4tajz9TQtTjPSOY) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Diavoli](https://open.spotify.com/album/5bGud6uErdBVZbwUqBlIvc) | 5:24 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 83 | [Acid Is My Drug](https://open.spotify.com/track/6ozzp2fnqDP0iKzf3uwDAO) | [Rabteu](https://open.spotify.com/artist/6RJC2mTVh69zPcBo5RdkF4) | [Acid Is My Drug](https://open.spotify.com/album/1EEcgNtx2wToMD22yZ0W6b) | 4:26 |
 | 84 | [Swords](https://open.spotify.com/track/3kZTkTa0skVIvp1UCRVEmK) | [Veseli](https://open.spotify.com/artist/50s52gIdkQNpkt7iKWrvjY) | [Swords EP](https://open.spotify.com/album/7DuE1pxDycYqwqQz3kbE9s) | 6:33 |
 | 85 | [Break 42 \- Original Mix](https://open.spotify.com/track/4J0937OJLtaj7atAcOEMZy) | [URI](https://open.spotify.com/artist/7gGrcuMxnavGamcBRvhEXM) | [COLOR VA02](https://open.spotify.com/album/5hprpC8cms818kVtMFFZJv) | 5:58 |
-| 86 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 |
-| 87 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 |
+| 86 | [Drop The Bomb](https://open.spotify.com/track/4yU6ZZmBIffFRe8BXJxmkc) | [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [Drop The Bomb](https://open.spotify.com/album/5rvu2p5QSMZOj6VaVEZJsD) | 3:33 |
+| 87 | [Trancy Bounce](https://open.spotify.com/track/2sFlh6vt8U5TN3rTBFxRBl) | [Sasuma](https://open.spotify.com/artist/1qUAy2qWAGnMh6xifHvCST) | [Trancy Bounce](https://open.spotify.com/album/60LfrprMRsOFUXUgJaeEai) | 4:06 |
 | 88 | [Reverse Bitch](https://open.spotify.com/track/0X5SKepXgvauLJRWxS004t) | [BRÅWN](https://open.spotify.com/artist/6ZCwFfoR1cUmb4KR7mPGLt) | [FIRE SERIES Vol\. 2](https://open.spotify.com/album/1CspkKn0omUXfsqzcGnHkN) | 5:46 |
 | 89 | [Go Get Some People](https://open.spotify.com/track/2gtY2fRwzWeFY1arZKuyp9) | [Danny Wabbit](https://open.spotify.com/artist/57vSMXKEfRZ02gI0D0frvP) | [Go Get Some People \- EP](https://open.spotify.com/album/23wXuuke1j3T9ibf9oaLaT) | 4:41 |
 | 90 | [Hyper Runner](https://open.spotify.com/track/3kZVKXB24lQARYyZ83WMWT) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9) | [Hyper Runner](https://open.spotify.com/album/7BZDljcUP3xVkt8G4STmhv) | 4:39 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXCzcvFxzeno.md) - [plain]
 | 94 | [MUJER](https://open.spotify.com/track/3tCyfFH3PpwDGtXzoGqjJR) | [Vlinder Vos](https://open.spotify.com/artist/0dTdgnb11wkxjzXv9JdXdi) | [MUJER](https://open.spotify.com/album/4bBFwCZ0I4VLSLqgYgsAjL) | 3:01 |
 | 95 | [introvert problems](https://open.spotify.com/track/7HWpCIF5sfiTcO8DOEp0bg) | [AADJA](https://open.spotify.com/artist/5HPEhGfMkvCmtIiSaSIRmt) | [pyrocbs](https://open.spotify.com/album/4FAQ8phkHnpsmqrQHPbVPJ) | 3:51 |
 | 96 | [Meet Her At The Love Parade \- Mixed Cut](https://open.spotify.com/track/5KcrlmHmiVV6tzmP8k2W1R) | [JTS](https://open.spotify.com/artist/1n9qeXgQufKhjWdgKFd3no), [Technikore](https://open.spotify.com/artist/45mQUJrPyctvf2IhkVE0ym) | [OneSeventy: The Annual II](https://open.spotify.com/album/6qcw68pT9kM1qQWnyzmZev) | 2:44 |
-| 97 | [Fractured Reality](https://open.spotify.com/track/6cIOLPd3uInITUTJKmnTO7) | [BLNK](https://open.spotify.com/artist/6c4dKwBxfp4bTz118Y3LJf), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Resident of Evil](https://open.spotify.com/album/6scBDlzufkha65gcJlfLTN) | 5:50 |
-| 98 | [Fuck Ya](https://open.spotify.com/track/5yFyrWjO4wCJVNqzLCtpmy) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Fuck Ya](https://open.spotify.com/album/4d4jcU0a69rFbun9oKffCL) | 5:47 |
+| 97 | [Fuck Ya](https://open.spotify.com/track/5yFyrWjO4wCJVNqzLCtpmy) | [DJ Physical](https://open.spotify.com/artist/5gLrd7zW9n1zpwkKsmzsrk) | [Fuck Ya](https://open.spotify.com/album/4d4jcU0a69rFbun9oKffCL) | 5:47 |
+| 98 | [Fractured Reality](https://open.spotify.com/track/6cIOLPd3uInITUTJKmnTO7) | [BLNK](https://open.spotify.com/artist/6c4dKwBxfp4bTz118Y3LJf), [Zentryc](https://open.spotify.com/artist/1C0qYaeK3MtaDfOWbOnme7) | [Resident of Evil](https://open.spotify.com/album/6scBDlzufkha65gcJlfLTN) | 5:50 |
 | 99 | [Murdock](https://open.spotify.com/track/7nN21YXSaGR5mygpLIk76a) | [Jayron](https://open.spotify.com/artist/361A1lQwio37oKbADnC8V9), [AXL](https://open.spotify.com/artist/3HvGktIqgqALPusQhtRtno), [GEWOONRAVES](https://open.spotify.com/artist/2DyAvufHza4om6Vgqlt0v8) | [Murdock](https://open.spotify.com/album/399a0712lFkePRqeJUANNY) | 5:15 |
 | 100 | [Sucia](https://open.spotify.com/track/65Vx8J63EtrVdsJrbGYxIr) | [JODA & MARROW](https://open.spotify.com/artist/6Ar8R40O8JXTQ2FsCMsWuF) | [Sucia](https://open.spotify.com/album/4R82Tc7PJJf8CNFAkGusZH) | 3:03 |
 

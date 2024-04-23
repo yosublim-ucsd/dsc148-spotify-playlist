@@ -4,7 +4,7 @@
 
 > Pegue seu café, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.
 
-134 songs - 8 hr 10 min
+135 songs - 8 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abrigo](https://open.spotify.com/track/5xl9IXMENlBNwAbs7Y8z2W) | [ÀVUÀ](https://open.spotify.com/artist/7EDkQ6to7SSWWJto0gbdik), [Jota.pê](https://open.spotify.com/artist/17MzHbvKuzJje12SxWY9wN), [Bruna Black](https://open.spotify.com/artist/4XT8kTR1AgQzXS7ggdYPDX) | [Abrigo](https://open.spotify.com/album/3IcpMI2WjS8OHrbsHuh6pL) | 3:52 | 2022-08-19 | 2022-10-02 |
 | [Acender as Velas](https://open.spotify.com/track/4EeEwcqSLV8QmguC33sxE6) | [Martinho Da Vila](https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E), [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Negra Ópera](https://open.spotify.com/album/12ruJLnnZM4RlCAlxPSq6f) | 4:27 | 2023-05-12 | 2023-06-09 |
 | [Algo Parecido](https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Algo Parecido](https://open.spotify.com/album/4xujhMVqrfeMvtt4SV8QIb) | 3:45 | 2022-08-19 |  |
+| [Amanheceu](https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Real / Surreal \(Deluxe\)](https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP) | 2:50 | 2024-04-19 |  |
 | [Amarelo, azul e branco](https://open.spotify.com/track/2LOIoeI16A8jjKubPKoCSa) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Rita Lee](https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ) | [COR](https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC) | 3:21 | 2022-08-19 |  |
 | [Andar com fé](https://open.spotify.com/track/2BvDFQOl4JieEGK2cgKOey) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/3eXCgCBM4BS6H83xmxKdL6) | 3:20 | 2022-08-19 | 2024-04-19 |
 | [Andei Só \- Ao Vivo](https://open.spotify.com/track/7xMb0izMxYXFT0T7w0s9ir) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts Acústico no Rio de Janeiro \(Ao Vivo\)](https://open.spotify.com/album/1x2y04H5qSXOU9tzDZVT9i) | 4:23 | 2022-08-19 | 2024-04-19 |
@@ -35,7 +36,7 @@
 | [Chico](https://open.spotify.com/track/43eRVwfXFkY3kXN4K47gNT) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/39nlfd4MoNcVGgvx64Opnt) | 3:02 | 2023-09-02 | 2024-04-19 |
 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 | 2023-09-02 | 2023-09-08 |
 | [Ciumeira](https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ) | [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [Ciumeira](https://open.spotify.com/album/1qqJHRn7GYlL0gpOSCA2A9) | 2:31 | 2022-08-19 | 2023-03-13 |
-| [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 | 2024-04-05 |  |
+| [Concrete Jungle](https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 3:32 | 2024-04-05 | 2024-04-23 |
 | [Corcovado](https://open.spotify.com/track/5y4OLeQ9cwyhFXQgdOQgSY) | [MAR ABERTO](https://open.spotify.com/artist/2PK9pWPbpzjPDM2HVR1NEO) | [Corcovado](https://open.spotify.com/album/5hhug6SmgmQh1NDueAwCgA) | 2:31 | 2023-01-20 | 2023-04-11 |
 | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/track/2KAzfWoE9TeMob1tm1qz5i) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Da Maior Importância \- Spotify Singles](https://open.spotify.com/album/2ic2RENBBrqajKb4X9npUb) | 5:01 | 2022-10-19 | 2022-11-25 |
 | [Dançando](https://open.spotify.com/track/0QDXiLDkxOPlqwAsCCSggx) | [Agridoce](https://open.spotify.com/artist/4SyWhCnXrV0FDnGw1ISMJI) | [Agridoce](https://open.spotify.com/album/5OLjJ3js2XpdaDGBAk5X5x) | 5:49 | 2022-08-19 |  |

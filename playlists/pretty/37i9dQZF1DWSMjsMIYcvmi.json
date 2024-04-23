@@ -1,6 +1,6 @@
 {
   "description": "Hey (office) DJ, turn the music up! \ud83d\udc69\u200d\ud83d\udcbb",
-  "num_followers": 20544,
+  "num_followers": 20542,
   "original_name": "9 to 5",
   "owner": {
     "name": "Spotify",
@@ -755,6 +755,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "COSMIC",
+        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 178242,
+      "name": "Beautiful",
+      "url": "https://open.spotify.com/track/5TVirkSwFEXF1nLJEebe2I"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Rise",
         "url": "https://open.spotify.com/album/3KjCdhPbjbLptyJzviKu4P"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 194407,
       "name": "Rise",
       "url": "https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "COSMIC",
-        "url": "https://open.spotify.com/album/5EEkfRgfYHiFu0lGur6Z6M"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 178242,
-      "name": "Beautiful",
-      "url": "https://open.spotify.com/track/5TVirkSwFEXF1nLJEebe2I"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "Mortal Man",
+        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "Mortal Man",
+      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "We Were Young",
         "url": "https://open.spotify.com/album/3kZ0FRj4CvEhzvfAws1YfJ"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 214200,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Mortal Man",
-        "url": "https://open.spotify.com/album/7KiOI9KabLyB8vx5gQTkO2"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "Mortal Man",
-      "url": "https://open.spotify.com/track/1QGac4OblpXqHpk9AubVuo"
     },
     {
       "added_at": "2023-11-23 23:00:00",
@@ -1199,6 +1199,26 @@
     {
       "added_at": "2023-11-23 23:00:00",
       "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "Motheo Moleko",
+          "url": "https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5"
+    },
+    {
+      "added_at": "2023-11-23 23:00:00",
+      "album": {
         "name": "Better Days - Mejores D\u00edas (with KHEA)",
         "url": "https://open.spotify.com/album/2oVCeLycUdkke9NNXyEoWk"
       },
@@ -1251,22 +1271,6 @@
       "duration_ms": 211626,
       "name": "If The World Was Ending (feat. Julia Michaels) - Original Demo",
       "url": "https://open.spotify.com/track/1WnKdiEPEvd1Meo3gUipPe"
-    },
-    {
-      "added_at": "2023-11-23 23:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 189486,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
     }
   ],
   "unique_name": "9 to 5",

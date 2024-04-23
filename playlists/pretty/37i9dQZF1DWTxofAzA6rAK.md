@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 
 > Latest and biggest tracks from Jamaica's Dancehall scene\. Cover: Intence
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,655 likes - 150 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,713 likes - 150 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,9 +38,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 28 | [Top Tier](https://open.spotify.com/track/57RxPPRCpdFkx1q6pNn0Hd) | [Bayka](https://open.spotify.com/artist/7pRxYXACpWZf1i7Chd8Sk2) | [Top Tier](https://open.spotify.com/album/5RQDN8PlDQELozxIeUKVXC) | 2:21 |
 | 29 | [Deja Vu](https://open.spotify.com/track/3iSr9hJ5Ho56LhKXILErsJ) | [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [I'll Never Die](https://open.spotify.com/album/6ZDK2wcGJqmfk3hrP3ZHXu) | 2:26 |
 | 30 | [Ambala](https://open.spotify.com/track/35k0jeXz6vwKCasj2cRkSE) | [Squash](https://open.spotify.com/artist/1HXkVBU6RwIxxN6xuI6b00) | [Ambala](https://open.spotify.com/album/1l3bAkcbIMJW966ddTxnJm) | 2:22 |
-| 31 | [Likkle Miss \(with Skeng\) \- Remix](https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Queen Radio: Volume 1](https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6) | 2:18 |
+| 31 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
 | 32 | [FOREVER](https://open.spotify.com/track/4Lv6Jh52ZV2T7Zfr9KMsul) | [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [FOREVER](https://open.spotify.com/album/1m3dE5IrOZoMhYrPPtdhWn) | 3:13 |
-| 33 | [Likkle Miss](https://open.spotify.com/track/7vqvgXQ94BBiTtfzf6w7Nh) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Likkle Miss](https://open.spotify.com/album/4TJXGCegYt88zuBS88XYMk) | 2:14 |
+| 33 | [Likkle Miss \(with Skeng\) \- Remix](https://open.spotify.com/track/2VdsU2IJdx3i1aCsbyMlm6) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7) | [Queen Radio: Volume 1](https://open.spotify.com/album/30jNbSUWscm8OXxOMPk1L6) | 2:18 |
 | 34 | [I Wish](https://open.spotify.com/track/0eFqA7YetI2Wp95GgdJbiK) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [I Wish](https://open.spotify.com/album/1OMDWu1SbiOvYA7idzWm2h) | 2:55 |
 | 35 | [Solemn Request](https://open.spotify.com/track/4svJStfE1Z3lMpcPeqDYlD) | [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Solemn Request](https://open.spotify.com/album/6rnacNkcCAOybo9DZNKHXM) | 3:06 |
 | 36 | [Live n' Learn](https://open.spotify.com/track/4YSbKyNXJ1vHVgM4bYerDs) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL) | [Live n' Learn](https://open.spotify.com/album/1CzlfsRqL1sgMuhniUU5CZ) | 2:41 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 47 | [Dawkniss](https://open.spotify.com/track/4Io8OmQnfuNFQsM9PpMO6d) | [1Skimask](https://open.spotify.com/artist/5sG7iQRe5qVQvGmZ8B0xEo), [Falconn](https://open.spotify.com/artist/4DEgH35qSaMQfi45LW6dD5) | [Dawkniss](https://open.spotify.com/album/1gWmZdRV5vAsll3BM5B3kg) | 2:41 |
 | 48 | [Be Good](https://open.spotify.com/track/1jZQeKeIvYZfuH9nXIRag4) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Be Good](https://open.spotify.com/album/2PEorn33CYUgsCdllVw0m6) | 2:37 |
 | 49 | [Born Fighter](https://open.spotify.com/track/1Bxl4Z0pv1gIDLgvxOy4tB) | [Jahshii](https://open.spotify.com/artist/4pP4fxW65oev1NdRd2Fbn7) | [Born Fighter](https://open.spotify.com/album/4lj5UoUo0wkvwXO8rKRxhc) | 3:28 |
-| 50 | [SINTRAP \(Giftcard\)](https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [SIN TRAP \(Giftcard\)](https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV) | 2:57 |
-| 51 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
+| 50 | [Update](https://open.spotify.com/track/1Vso1T5aUUflMhgijuG4SZ) | [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Update](https://open.spotify.com/album/0PaM6uUQDeF2SSv3o4noRe) | 3:24 |
+| 51 | [SINTRAP \(Giftcard\)](https://open.spotify.com/track/7EBrB8ZuJe9zYI5kW39WQn) | [Najeeriii](https://open.spotify.com/artist/2m6yzJ0whBggOhNgLskdLF) | [SIN TRAP \(Giftcard\)](https://open.spotify.com/album/1pYvUxE24u8KYnQCUdN3YV) | 2:57 |
 | 52 | [Gvnman Session](https://open.spotify.com/track/1jNNRFedRvdncFQpogCxUH) | [Skeng](https://open.spotify.com/artist/4SGo67MJz6DdsjzaRZ4OD7), [John Coop](https://open.spotify.com/artist/3L2ENBfz08H3T8ndKRiQUG), [Shacko DiTruth](https://open.spotify.com/artist/0NxpDomdSH00FtYUrYsSo0) | [Gvnman Session](https://open.spotify.com/album/1CVOatmiqxOWd2rKM7wYv8) | 2:32 |
 | 53 | [Know Weh Ya Do](https://open.spotify.com/track/4Vt1uT3bxlEoMoZ1BDdQWA) | [450](https://open.spotify.com/artist/2v6V75NbousiJwy2HV44VL), [Weekday](https://open.spotify.com/artist/2ZoRuY63B7fzl9HaKjlWoF) | [Know Weh Ya Do](https://open.spotify.com/album/0GFq5vA7xwEDqyiJWprBQz) | 2:57 |
 | 54 | [Mona Lisa](https://open.spotify.com/track/4FOLsEGYFzPy1CyO0vkLwH) | [Kranium](https://open.spotify.com/artist/1LKo6ZA3RNvKtLa6zDu32S) | [Mona Lisa](https://open.spotify.com/album/4Pf654V1D7cwZaQ5Hqwvv4) | 2:29 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTxofAzA6rAK.md) - [plain]
 | 62 | [Influence \(feat\. Dexta Daps\)](https://open.spotify.com/track/6QC19cMrtbLNrZMH2bVl7w) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Dexta Daps](https://open.spotify.com/artist/28UDeKu2FPrU0T7dpUiSGY) | [WSTRN Season 3](https://open.spotify.com/album/7stgMji7x8jvLjibOwngE7) | 3:53 |
 | 63 | [Bun Fi Bun \(Fast\)](https://open.spotify.com/track/4Ta2BdlUeRsSdQARipaDTq) | [IQ](https://open.spotify.com/artist/10jSImvLGufcMdETaNGvsv), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [Bun Fi Bun \(Fast\)](https://open.spotify.com/album/71ktd6XTxLmI4VoQ8q7w5Z) | 2:29 |
 | 64 | [21 Psalm](https://open.spotify.com/track/5omLQJya4umViap9GwViw8) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu) | [21 Psalm](https://open.spotify.com/album/0J3Ilvx9rIi0aHvgmiIy31) | 3:23 |
-| 65 | [Crook](https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [Crook](https://open.spotify.com/album/42swaElolib5BwSAtaZYQl) | 4:05 |
-| 66 | [Guzu Bunx \(Fada Rock\)](https://open.spotify.com/track/0aypZqcK5pDscPH5SyOTbw) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Guzu Bunx \(Fada Rock\)](https://open.spotify.com/album/3BkkaOV017yFknzAZzQ8By) | 3:08 |
+| 65 | [Guzu Bunx \(Fada Rock\)](https://open.spotify.com/track/0aypZqcK5pDscPH5SyOTbw) | [Tommy Lee Sparta](https://open.spotify.com/artist/2yHxc12dEUiLXNeqUadxBh), [Valiant](https://open.spotify.com/artist/7dvG18F378r7HRxmiHn3ti) | [Guzu Bunx \(Fada Rock\)](https://open.spotify.com/album/3BkkaOV017yFknzAZzQ8By) | 3:08 |
+| 66 | [Crook](https://open.spotify.com/track/5mXpQWrAZoPVgp4cV0Avh0) | [Malie Donn](https://open.spotify.com/artist/0sP79Bq6zJj6EskteStNBW) | [Crook](https://open.spotify.com/album/42swaElolib5BwSAtaZYQl) | 4:05 |
 | 67 | [Big Chune](https://open.spotify.com/track/1IjPlLjheWe899ounTjCby) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [IamNuhRush](https://open.spotify.com/artist/6wU5HisymxJxU6ucvCwfOE) | [Big Chune](https://open.spotify.com/album/5ioIjN8A0qVhfKvTUtWwOs) | 2:43 |
 | 68 | [Powder](https://open.spotify.com/track/7sSVFr6ENsP1D6jWFUNZ3X) | [RajahWild](https://open.spotify.com/artist/5t36kC15OK6oYHpfb3rDPI) | [Powder](https://open.spotify.com/album/4tMjcwSNXqUsPhLwsFA1GP) | 2:29 |
 | 69 | [Top Coote](https://open.spotify.com/track/1fz7vkm6VbYlznJdTc9JOX) | [Marksman](https://open.spotify.com/artist/6L4nSgGW6OpNPqa83i2jDR) | [Top Coote](https://open.spotify.com/album/7wLLQ7fRiHGEaiYNYrtoPw) | 2:20 |

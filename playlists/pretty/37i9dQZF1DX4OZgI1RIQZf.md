@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 
 > The best indie songs from all decades for your Halloween party
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,747 likes - 80 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,800 likes - 80 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,13 +74,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OZgI1RIQZf.md) - [plain]
 | 64 | [Help I'm Alive](https://open.spotify.com/track/1z4xjDLLWJgG48Bn8OCxZv) | [Metric](https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl) | [Fantasies](https://open.spotify.com/album/3Oj8FdHcV6kAiOVWfkqRaA) | 4:45 |
 | 65 | [Halloween Blues](https://open.spotify.com/track/3Wby5EleliIk9ZF9aYynX9) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [We Need Medicine](https://open.spotify.com/album/20K4oohZg7r3nYN8VSBtj6) | 3:16 |
 | 66 | [To Lose My Life](https://open.spotify.com/track/2hUHm19fmQnJ40LZXqjhZt) | [White Lies](https://open.spotify.com/artist/6ssXMmc5EOUrauZxirM910) | [To Lose My Life ...](https://open.spotify.com/album/1ySdrRPZa9ZRvlcUoGv8UE) | 3:11 |
-| 67 | [Let's Have A Satanic Orgy](https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Let's Have A Satanic Orgy](https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV) | 4:04 |
-| 68 | [Hunting for Witches](https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In the City](https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y) | 3:31 |
-| 69 | [So Haunted](https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9) | 4:27 |
-| 70 | [Boris The Spider \- New Remix](https://open.spotify.com/track/17JpQPUX1xbtpL19dDmYCQ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Remastered\)](https://open.spotify.com/album/0tLm9oyw4uz02ZHJDBRdmM) | 2:29 |
-| 71 | [Zombie](https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs) | 4:06 |
-| 72 | [Skeleton Dance](https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K) | 3:37 |
-| 73 | [Blood Red Moon](https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj) | 4:31 |
+| 67 | [Blood Red Moon](https://open.spotify.com/track/6PlzmahLfw9VTRARbIdGT7) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Blood Red Moon](https://open.spotify.com/album/3clEQCPrQ7MAfW3vUasGpj) | 4:31 |
+| 68 | [Let's Have A Satanic Orgy](https://open.spotify.com/track/1wJCQOm2LmQVTfO0d2Ax87) | [Twin Temple](https://open.spotify.com/artist/5NYEE4kgrEZPlM3DxUsTyc) | [Let's Have A Satanic Orgy](https://open.spotify.com/album/6wKzNT7iuR06KiXJBTpkuV) | 4:04 |
+| 69 | [Hunting for Witches](https://open.spotify.com/track/0ZXCTJS5QaNQcYK4PgTvYl) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [A Weekend In the City](https://open.spotify.com/album/3OiE2agv6jj4K0vh6wOh7y) | 3:31 |
+| 70 | [So Haunted](https://open.spotify.com/track/5TM606Zfk31aNXIR63baT5) | [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [In Ghost Colours](https://open.spotify.com/album/56YFlkW3xQdHKel5VzPvv9) | 4:27 |
+| 71 | [Boris The Spider \- New Remix](https://open.spotify.com/track/17JpQPUX1xbtpL19dDmYCQ) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [A Quick One \(Remastered\)](https://open.spotify.com/album/0tLm9oyw4uz02ZHJDBRdmM) | 2:29 |
+| 72 | [Zombie](https://open.spotify.com/track/5tbZBnWJAw72ZRjmMsrh0D) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Carry On The Grudge](https://open.spotify.com/album/3dvHXz1aCtrPvvpIMDJFfs) | 4:06 |
+| 73 | [Skeleton Dance](https://open.spotify.com/track/2Un5ghpSnfy4gRnun3pUTn) | [Teleman](https://open.spotify.com/artist/3wrtQM9ICPPeHwoc1GWiyV) | [Breakfast](https://open.spotify.com/album/0OaVZJwUqAyLlniMCB5O6K) | 3:37 |
 | 74 | [MORBID FASCINATION](https://open.spotify.com/track/5cZQ33YXXZgLXwc0egqPl3) | [Blood Red Shoes](https://open.spotify.com/artist/3r6Sk3pYxdJk7MekhBGgMR) | [MORBID FASCINATION](https://open.spotify.com/album/3QMNASdVriKoYo0LZPr2Vq) | 3:46 |
 | 75 | [Halloween](https://open.spotify.com/track/3FdejSKJNVZaLIr0VcYrTK) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [I Feel Better](https://open.spotify.com/album/2vtPjaPz2trtyDsz7ZBpYc) | 2:34 |
 | 76 | [Evil Eye](https://open.spotify.com/track/2F3dEXRcLx9nQT8qCnHj1j) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Right Thoughts, Right Words, Right Action \(Deluxe Edition\)](https://open.spotify.com/album/4X6YC6PgSMt5s7ARwGpLJ7) | 2:47 |

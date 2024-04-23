@@ -1,12 +1,12 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Lizzy McAlpine",
-  "num_followers": 75350,
+  "num_followers": 75420,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjg5NDQwMCwwMDAwMDAwMDI0ZjY5Y2I1ZmIyNWRjZDY4NWUxNjUyOTI4ODMwM2Rk",
+  "snapshot_id": "MTcxMzgyNDk5NCwwMDAwMDAwMGYwNTFjNmQ3MWU2MDVjZGFmYzI2NTRmNGJjYzQ2ZTVh",
   "tracks": [
     {
       "added_at": "2024-04-12 04:00:00",
@@ -219,18 +219,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "ROOM FOR 2",
-        "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 151500,
-      "name": "ROOM FOR 2",
-      "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+        "name": "ROOM FOR 2",
+        "url": "https://open.spotify.com/album/51XyM5nK6zGwa4hWNNMmSz"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+      "duration_ms": 151500,
+      "name": "ROOM FOR 2",
+      "url": "https://open.spotify.com/track/7wfxf9QXBIWgBx1aG5QWhR"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -327,6 +327,22 @@
       "duration_ms": 200173,
       "name": "Long Blue Light",
       "url": "https://open.spotify.com/track/3gaH1EhTC53WZeFRj3hGtp"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "Don't Forget Me",
+      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -399,22 +415,6 @@
       "duration_ms": 184200,
       "name": "Thinking 'Bout Love",
       "url": "https://open.spotify.com/track/0YHH3qK8Ntqxcc2GFkRrPh"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/2bSJsOM3hBoBBF4MaxJKyQ"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "Don't Forget Me",
-      "url": "https://open.spotify.com/track/0DFldA3ySuV2dblrOAWq1f"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Ruined",
-        "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
-      },
-      "artists": [
-        {
-          "name": "Adrianne Lenker",
-          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
-        }
-      ],
-      "duration_ms": 272800,
-      "name": "Ruined",
-      "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Th\u00e9r\u00e8se",
         "url": "https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 207389,
       "name": "Th\u00e9r\u00e8se",
       "url": "https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Ruined",
+        "url": "https://open.spotify.com/album/71N25vEnlT0Xc5GGCQGzuA"
+      },
+      "artists": [
+        {
+          "name": "Adrianne Lenker",
+          "url": "https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY"
+        }
+      ],
+      "duration_ms": 272800,
+      "name": "Ruined",
+      "url": "https://open.spotify.com/track/2NUIlCRqz6OxgGOipYqBCw"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "The Walls Are Way Too Thin",
-        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 221933,
-      "name": "The Walls Are Way Too Thin",
-      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Woman on the Internet",
         "url": "https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 220208,
       "name": "More Like You",
       "url": "https://open.spotify.com/track/2cKHnVTfjxDaDYnMUyhZwU"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "The Walls Are Way Too Thin",
+        "url": "https://open.spotify.com/album/3fnXTtLgkjHv2HmqOODSW8"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 221933,
+      "name": "The Walls Are Way Too Thin",
+      "url": "https://open.spotify.com/track/7b7wO3Je7i2HhyipNhcs1u"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "365",
-        "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 187440,
-      "name": "365",
-      "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Somebody Else",
         "url": "https://open.spotify.com/album/3SFFWh2ceqIpRvUnZ7Q28o"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 189254,
       "name": "Pink Razor",
       "url": "https://open.spotify.com/track/480VW3yVOs71KjZhT1Dh1H"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "365",
+        "url": "https://open.spotify.com/album/66IzG6BBgOOTIwyTGZlIcU"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 187440,
+      "name": "365",
+      "url": "https://open.spotify.com/track/1QCkXXmlsduoitdYRT9HD6"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1435,6 +1435,22 @@
       "duration_ms": 270426,
       "name": "We Don\u2019t Know We\u2019re Living (w/ Brandi Carlile & Joy Oladokun)",
       "url": "https://open.spotify.com/track/67whVnjuQPRV27BE4lbqwI"
+    },
+    {
+      "added_at": "2024-04-22 22:29:54",
+      "album": {
+        "name": "Only One",
+        "url": "https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1551,22 +1567,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "It's Alright",
-        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
-      },
-      "artists": [
-        {
-          "name": "Cecilia Castleman",
-          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
-        }
-      ],
-      "duration_ms": 248210,
-      "name": "It's Alright",
-      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "14",
         "url": "https://open.spotify.com/album/1XMoLibHe44yrlBxr77bWe"
       },
@@ -1579,6 +1579,22 @@
       "duration_ms": 141796,
       "name": "14",
       "url": "https://open.spotify.com/track/3kCYnvSwhSzYBD7fnDFhbY"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "It's Alright",
+        "url": "https://open.spotify.com/album/5sxieYVKKC6kvgIdKmByyI"
+      },
+      "artists": [
+        {
+          "name": "Cecilia Castleman",
+          "url": "https://open.spotify.com/artist/6yB7WddQdPHwbyQpKl1qOH"
+        }
+      ],
+      "duration_ms": 248210,
+      "name": "It's Alright",
+      "url": "https://open.spotify.com/track/67LEdY2HlgEWNnrdaPyYpK"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1659,22 +1675,6 @@
       "duration_ms": 231573,
       "name": "Bindi in the Dirt",
       "url": "https://open.spotify.com/track/53tfkDomy1TGkN3YWGAWiH"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Heard You Got Love",
-        "url": "https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        }
-      ],
-      "duration_ms": 203966,
-      "name": "Head Start",
-      "url": "https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

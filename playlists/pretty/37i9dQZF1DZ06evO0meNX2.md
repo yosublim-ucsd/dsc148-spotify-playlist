@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 
 > This is Codiciado\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,296 likes - 30 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,327 likes - 30 songs - 1 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0meNX2.md) - [plain]
 | 29 | [En Una De Pista](https://open.spotify.com/track/0e2sClDxK89Jsomfg1FQNZ) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 3:01 |
 | 30 | [Chavo Félix](https://open.spotify.com/track/49s7IfMs465QGg0Rz8J5gA) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Golpes De La Vida](https://open.spotify.com/album/3ru369H2JPYtw1GxlZFRDm) | 2:46 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDI4NGIzNjUxOWNmZGQyY2M2YTEzMDgzNTUxYzg2NjIw`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGNmYTA2NGQ1NTQ3OGE4ZDRhYTViNTg2ODkwY2QxNTFh`

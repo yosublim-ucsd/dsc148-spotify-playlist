@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 
 > Epic and melodic metal \- for the dragonslayer in you! Cover: Amaranthe
 
-[Spotify](https://open.spotify.com/user/spotify) - 764,364 likes - 80 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 764,204 likes - 80 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 32 | [Secrets Of The American Gods \- Single Edit](https://open.spotify.com/track/59Zt3ljewoHZ0A2J6qayNo) | [Blind Guardian](https://open.spotify.com/artist/7jxJ25p0pPjk0MStloN6o6) | [Secrets Of The American Gods](https://open.spotify.com/album/2VlGYrtrvRshFFEzBDRmD2) | 6:37 |
 | 33 | [Outer Dimensions](https://open.spotify.com/track/2cTj4pAJNev8vcJQCoGuQb) | [Amaranthe](https://open.spotify.com/artist/2KaW48xlLnXC2v8tvyhWsa) | [The Catalyst](https://open.spotify.com/album/0Rfiyvva6juwbWHRApI5Hj) | 3:05 |
 | 34 | [A Brave New Hope](https://open.spotify.com/track/7CTZgDqC7vcSsTumTmxz0D) | [Rhapsody Of Fire](https://open.spotify.com/artist/3IjLXN4eSksdGj8uDE4Jm1) | [A Brave New Hope](https://open.spotify.com/album/4R7CBA3wk2lrj9tkglsnQh) | 4:40 |
-| 35 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
-| 36 | [Rogue \(Aim for the Kill\)](https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Rogue \(Aim for the Kill\)](https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb) | 3:56 |
+| 35 | [Rogue \(Aim for the Kill\)](https://open.spotify.com/track/28R9RX7V1tQx91u1cSDlmz) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY) | [Rogue \(Aim for the Kill\)](https://open.spotify.com/album/6svzfGdfbGtII5vHl4TNRb) | 3:56 |
+| 36 | [Call out the Dark](https://open.spotify.com/track/5IqvKkwIqeqc2s8DF0avei) | [Evergrey](https://open.spotify.com/artist/4S0foX2r0RlC12KBW8u73D) | [A Heartless Portrait \(The Orphéan Testament\)](https://open.spotify.com/album/7ks1taIwddDv4bjFrujxn2) | 4:23 |
 | 37 | [A Lesser King](https://open.spotify.com/track/47QynH6AAUDiwxzQ8tnHcP) | [Words Of Farewell](https://open.spotify.com/artist/1tcrgTKBUpGVRGnPz4breO) | [Stories to Forget](https://open.spotify.com/album/7dx2PWJ9lSRMPflWwiTjYY) | 4:41 |
 | 38 | [Axes](https://open.spotify.com/track/5cMNQ2LmvEBTUL0ZKdxtPl) | [Týr](https://open.spotify.com/artist/6TmGNPW2oDM5uaXBILozGa) | [Axes](https://open.spotify.com/album/2KtjpfdPn3rNCoRTdhHGtv) | 3:32 |
 | 39 | [Walborg](https://open.spotify.com/track/44gQ6qYCNVksivDoFwHnZ8) | [Tungsten](https://open.spotify.com/artist/529eA6ZaD8bWorDonM2wnm) | [Walborg](https://open.spotify.com/album/7tgt7BhR3dGVsj5AHopGAK) | 2:51 |
@@ -71,9 +71,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37bXS7EGI3f.md) - [plain]
 | 61 | [Almosttown](https://open.spotify.com/track/25cW3WuUYMBi2gXVBYAVWN) | [Seven Spires](https://open.spotify.com/artist/2lP1T5oI2BjkLq9axMhG2o) | [Almosttown](https://open.spotify.com/album/2ucY8ZkajTe4LMQBYdoaFg) | 5:02 |
 | 62 | [Queen of Shadow \(feat\. Paolo Ribaldini\)](https://open.spotify.com/track/6k8Jiyv3d2s5kt8p1e95SA) | [Delain](https://open.spotify.com/artist/6pIRdCtSE5hLFfIfcTAicI), [Paolo Ribaldini](https://open.spotify.com/artist/3iP3pQWA7YYgEltcPQ2OeN) | [Queen of Shadow](https://open.spotify.com/album/0Zn0cFk7LKXL6R5M9bXDku) | 4:02 |
 | 63 | [Vita Nova](https://open.spotify.com/track/2o7Exjn3bLrKOYS7rsJXlr) | [Eye of Melian](https://open.spotify.com/artist/4o6EEebyNsDyI14s2jnB4G), [Johanna Kurkela](https://open.spotify.com/artist/7fsO7iJz8gv776THRffk0A) | [Vita Nova](https://open.spotify.com/album/6HLg30KBqgZsKRhWeKmops) | 6:04 |
-| 64 | [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 |
+| 64 | [Krigsherren](https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Krigsherren](https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl) | 3:29 |
 | 65 | [Summer Wine](https://open.spotify.com/track/1FgRL0qBHeVu4iZnj3WP9r) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Summer Wine](https://open.spotify.com/album/0zD0AziIE0AvM4cklnT7Bj) | 4:05 |
-| 66 | [Krigsherren](https://open.spotify.com/track/5vKHU3aMlAzujMK2LcKPf7) | [Hulkoff](https://open.spotify.com/artist/2ztj3MdrAuEMrU1P4HrZwH) | [Krigsherren](https://open.spotify.com/album/1UaQsVV7QmUd1cCzSHYNvl) | 3:29 |
+| 66 | [Love Reign O'er Me](https://open.spotify.com/track/4iTx8xQFl22MH82TTrw8NQ) | [Edge Of Paradise](https://open.spotify.com/artist/45MvWoWLKlKglPHeKiVlJY), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Love Reign O'er Me](https://open.spotify.com/album/4bYUQCRw0UMQaPdlMmPnce) | 4:00 |
 | 67 | [New Horizons](https://open.spotify.com/track/2sHZTVXbyiz38DIFZYgxdQ) | [The Dark Side of the Moon](https://open.spotify.com/artist/7mkJGPq0wt04Wz4xyWsGEm), [Fabienne Erni](https://open.spotify.com/artist/0q3kTmmx7D54or2e8HnluR) | [New Horizons](https://open.spotify.com/album/1PFvlYHRyqoF19R6hwxTKK) | 4:25 |
 | 68 | [World on Fire](https://open.spotify.com/track/4LyJfkFQTpMHRSj0rCBgdo) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [World on Fire](https://open.spotify.com/album/1q2nD6Ft2JwA6zTNrgezMj) | 4:26 |
 | 69 | [We Are Legion](https://open.spotify.com/track/7zooUycg2N63RgfMuIHYFF) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [We Are Legion](https://open.spotify.com/album/1jexIhocz0R6rK1nbUU6Cq) | 3:41 |

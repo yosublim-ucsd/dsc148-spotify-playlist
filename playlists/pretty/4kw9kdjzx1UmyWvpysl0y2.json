@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 126216,
+  "num_followers": 126161,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "NDY2OSw0MDRkZTAyNDliMWQ3YTQ5ZjM3ZGZlZDkwN2U5ZDlmMGJjNGRkZjZk",
+  "snapshot_id": "NDY3MSxkOGYyMDBiZjY4ODcxOGMwMTFjOTJlNzExY2ZmOWU5MGYwNTM2MWQ3",
   "tracks": [
+    {
+      "added_at": "2024-04-22 14:19:05",
+      "album": {
+        "name": "Together As One (Remixes)",
+        "url": "https://open.spotify.com/album/3dM2A27Ki3TlqHMVaaxyb3"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Lights",
+          "url": "https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6"
+        },
+        {
+          "name": "Herobust",
+          "url": "https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp"
+        }
+      ],
+      "duration_ms": 281600,
+      "name": "Someone To Forget - BUSTED by Herobust",
+      "url": "https://open.spotify.com/track/4upSQkSLPZjoUAAnqhxlry"
+    },
     {
       "added_at": "2024-04-19 16:19:04",
       "album": {
@@ -1155,26 +1179,6 @@
       "duration_ms": 192879,
       "name": "Real Girls",
       "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy"
-    },
-    {
-      "added_at": "2024-02-01 11:18:55",
-      "album": {
-        "name": "Digital Friends",
-        "url": "https://open.spotify.com/album/5BssQ7HjIK7tyeiKLBVWPs"
-      },
-      "artists": [
-        {
-          "name": "No Mana",
-          "url": "https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg"
-        },
-        {
-          "name": "SOFI",
-          "url": "https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb"
-        }
-      ],
-      "duration_ms": 221679,
-      "name": "Digital Friends",
-      "url": "https://open.spotify.com/track/0ygnGDRZjKhO9nOXo2WlLI"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

@@ -1,6 +1,6 @@
 {
   "description": "The tracks you just keep pulling up. Cover: Drake",
-  "num_followers": 476606,
+  "num_followers": 476554,
   "original_name": "Hip-Hop Favourites",
   "owner": {
     "name": "Spotify",
@@ -947,6 +947,22 @@
     {
       "added_at": "2024-04-18 16:05:43",
       "album": {
+        "name": "Artist 2.0 (Deluxe)",
+        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
+      },
+      "artists": [
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 133331,
+      "name": "Secrets",
+      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
+    },
+    {
+      "added_at": "2024-04-18 16:05:43",
+      "album": {
         "name": "Drippy",
         "url": "https://open.spotify.com/album/7xlh4JhUD65QX1HzN2guSX"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 195200,
       "name": "Drippy",
       "url": "https://open.spotify.com/track/4fnIORP0QTYTOMPqMKpJtF"
-    },
-    {
-      "added_at": "2024-04-18 16:05:43",
-      "album": {
-        "name": "Artist 2.0 (Deluxe)",
-        "url": "https://open.spotify.com/album/4v0IxMbMN975IfxFHzgK9d"
-      },
-      "artists": [
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 133331,
-      "name": "Secrets",
-      "url": "https://open.spotify.com/track/2xB46Bj9HZ4cr058yN4Pla"
     },
     {
       "added_at": "2024-04-18 16:05:43",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-04-18 16:05:43",
       "album": {
-        "name": "Detroit 2",
-        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        }
-      ],
-      "duration_ms": 199758,
-      "name": "Wolves (feat. Post Malone)",
-      "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
-    },
-    {
-      "added_at": "2024-04-18 16:05:43",
-      "album": {
         "name": "Peaches & Eggplants (feat. 21 Savage)",
         "url": "https://open.spotify.com/album/6Hj61lLEt0UxscLniz6h74"
       },
@@ -1319,6 +1299,26 @@
       "duration_ms": 203813,
       "name": "Peaches & Eggplants (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/1KUZ33cOqk3X4Ezk0aZnVp"
+    },
+    {
+      "added_at": "2024-04-18 16:05:43",
+      "album": {
+        "name": "Detroit 2",
+        "url": "https://open.spotify.com/album/6slkiHeFK3wW2D1mao0TX3"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "duration_ms": 199758,
+      "name": "Wolves (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ"
     },
     {
       "added_at": "2024-04-18 16:05:43",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2024-04-18 16:05:43",
       "album": {
+        "name": "Beat the Odds",
+        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
+      },
+      "artists": [
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Beat the Odds",
+      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
+    },
+    {
+      "added_at": "2024-04-18 16:05:43",
+      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 268666,
       "name": "Forbidden Fruit (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/1mvDFqbbmgmMmU6U4dIq5m"
-    },
-    {
-      "added_at": "2024-04-18 16:05:43",
-      "album": {
-        "name": "Beat the Odds",
-        "url": "https://open.spotify.com/album/5jopeyeE3iVZ5zlEMadVcv"
-      },
-      "artists": [
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Beat the Odds",
-      "url": "https://open.spotify.com/track/2BJWxD8xKrDv8vneTvTIm9"
     },
     {
       "added_at": "2024-04-18 16:05:43",

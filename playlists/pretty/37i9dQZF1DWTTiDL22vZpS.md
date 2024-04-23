@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 
 > Funk\-inspired beats by latinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,657 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,689 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 35 | [Blockbuster \(90's R&B\)](https://open.spotify.com/track/5wa8q4KYRxU5Ch8KhPIrJu) | [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2) | [Blockbuster \(90's R&B\)](https://open.spotify.com/album/55M9YK89rE00TLo6TY8Cdk) | 3:27 |
 | 36 | [In My Bones](https://open.spotify.com/track/79nl5WirZHBsWvTCy3s4iv) | [DJ Who](https://open.spotify.com/artist/2MI03I2UxwCen2VjYktQA7), [Willy Rodríguez](https://open.spotify.com/artist/4PXThoWa6Eg0a1Cui7KJee), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [In My Bones](https://open.spotify.com/album/6dxeJJi4Sbj1k89jS0gRyp) | 3:37 |
 | 37 | [Injusto](https://open.spotify.com/track/1uWuaKvvTcrdEBLM5NRuuN) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [Injusto](https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd) | 3:33 |
-| 38 | [Más](https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:52 |
-| 39 | [Tuyonama \(feat\. Charles Ans\)](https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cool Love](https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe) | 3:24 |
+| 38 | [Tuyonama \(feat\. Charles Ans\)](https://open.spotify.com/track/74AMpBBqy0JOJaWHF0r7cR) | [Los Amigos Invisibles](https://open.spotify.com/artist/5x3mrCTZmkoTXURN7pWdGN), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cool Love](https://open.spotify.com/album/3u5uYLbUjSKqK9y3DDFwAe) | 3:24 |
+| 39 | [Más](https://open.spotify.com/track/2I05emlmUJ46qbp7ngibmu) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Vida Cotidiana](https://open.spotify.com/album/1fHpKy8dfAplGSfcOsqtOm) | 3:52 |
 | 40 | [Si Fui Yo](https://open.spotify.com/track/3xVDIiVKzx815eNVkPKT1J) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Si Fui Yo](https://open.spotify.com/album/3ystJXvxwN8aVGO3gSzzzs) | 2:26 |
 | 41 | [Midnight Caller](https://open.spotify.com/track/26LjeIJNpcnnCAy0Y9jHP4) | [Wet Baes](https://open.spotify.com/artist/6mYovveNfg4PF4HnT8Lner) | [Youth Attraction](https://open.spotify.com/album/1qEYAW03qOUzZi6QaVVcuC) | 5:33 |
 | 42 | [Terciopelo](https://open.spotify.com/track/3BfkRtP5fDcHa9ebwIaGMY) | [seye](https://open.spotify.com/artist/73KizolhbyyKC9d9xtK3VT) | [Terciopelo](https://open.spotify.com/album/5ts7xYpW6igFn8lD1RYI9t) | 2:58 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTTiDL22vZpS.md) - [plain]
 | 57 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 |
 | 58 | [Paraíso](https://open.spotify.com/track/0FnWZZTkUeenPGOxIF247f) | [Lilly Yan](https://open.spotify.com/artist/5FBHMcTg26VVGLJz5mqU5C) | [Paraíso](https://open.spotify.com/album/4iLRZohe57Q4qq2EgMITFD) | 2:40 |
 | 59 | [Juntos](https://open.spotify.com/track/5i0TwLP1YDj5ZCMYUGBbC0) | [Películas Geniales](https://open.spotify.com/artist/6TdUG7ecoZQ4y87MO9410f), [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF), [Ferraz](https://open.spotify.com/artist/01VsXNrszWERedrdHgRVH2), [Andru](https://open.spotify.com/artist/3oOQ670Uw0UyVnmj9XM58W), [Disco Bahía](https://open.spotify.com/artist/31Wb354M8kymhMPAvwF7I4) | [La Película](https://open.spotify.com/album/7JwKwYrxUD3UewbJ9nVFma) | 3:19 |
-| 60 | [DASOUL](https://open.spotify.com/track/6Pu0gcxT23ZEwTmkXIKZdO) | [Galo Barker](https://open.spotify.com/artist/0K7CHaWKAmKYaPFBnAW9q9), [Soenia](https://open.spotify.com/artist/0vuduaT81euHWyccGAYbaq) | [DASOUL](https://open.spotify.com/album/5WKQYhE3HKhycVuYZIqW3L) | 2:38 |
-| 61 | [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 |
+| 60 | [Ki Flip](https://open.spotify.com/track/1JMCvBGLY8DvM8nXKGjP7D) | [Groovin' Bohemia](https://open.spotify.com/artist/2h61fAPumECGmmEmJPJkj1) | [Groovin' Bohemia](https://open.spotify.com/album/22N6SuZAlDTlvgUGbM9UUI) | 2:35 |
+| 61 | [DASOUL](https://open.spotify.com/track/6Pu0gcxT23ZEwTmkXIKZdO) | [Galo Barker](https://open.spotify.com/artist/0K7CHaWKAmKYaPFBnAW9q9), [Soenia](https://open.spotify.com/artist/0vuduaT81euHWyccGAYbaq) | [DASOUL](https://open.spotify.com/album/5WKQYhE3HKhycVuYZIqW3L) | 2:38 |
 | 62 | [nuncatevayasnunca](https://open.spotify.com/track/5WFAEA3YAcQtFUdwScD2ut) | [Floridablanca](https://open.spotify.com/artist/3Ri7j4vT0iYvMjMv5I3iqp) | [Hay frases que sólo escuchamos de noche](https://open.spotify.com/album/6x9Nd9EHF4c2M9nIuVLhIS) | 3:57 |
 | 63 | [Santiago](https://open.spotify.com/track/58r843NDpyDVVvd6In95g3) | [jame minogue](https://open.spotify.com/artist/0zzKHfNZYWeOjJpHdhT1Ck) | [Santiago](https://open.spotify.com/album/5CqEEjDulphHq8zgJcko21) | 2:22 |
 | 64 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 |

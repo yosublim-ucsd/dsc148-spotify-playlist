@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Hungary.",
-  "num_followers": 71412,
+  "num_followers": 71282,
   "original_name": "Top 50 - Hungary",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY3MDY0NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY3MTUwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/1tTOuvmJvZ2DACbTLkwZIT"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Tiara",
         "url": "https://open.spotify.com/album/4zwAnvsCRk4a7sBdYHFYOn"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/0nI4wU2023g1mFho21Vddr"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "skatulya I",
         "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
@@ -77,23 +77,7 @@
       "url": "https://open.spotify.com/track/4IIEKJ3RVCc7z3PZdD5PZu"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 192727,
-      "name": "tartarosz",
-      "url": "https://open.spotify.com/track/1xPqR1twZKzVvHeVtP9wmN"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
@@ -109,7 +93,7 @@
       "url": "https://open.spotify.com/track/5BMR7642rtK1PdcsMDhuFf"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -133,7 +117,23 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 192727,
+      "name": "tartarosz",
+      "url": "https://open.spotify.com/track/1xPqR1twZKzVvHeVtP9wmN"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
@@ -149,7 +149,7 @@
       "url": "https://open.spotify.com/track/2jWn2D8Xs7gmmDU0valnfO"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "skatulya I",
         "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
@@ -165,7 +165,7 @@
       "url": "https://open.spotify.com/track/0fBK1og2qGc1vSdEln0sFs"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "skatulya I",
         "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
@@ -181,39 +181,7 @@
       "url": "https://open.spotify.com/track/4kRnFRvg8mFFJFFlxJ9FLW"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 132105,
-      "name": "yukata",
-      "url": "https://open.spotify.com/track/72CToGLjHS2QsMOiUYY89j"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 277714,
-      "name": "lesson",
-      "url": "https://open.spotify.com/track/7EcJ2eThRCoqr902mGunDq"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Torz",
         "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
@@ -229,7 +197,7 @@
       "url": "https://open.spotify.com/track/6FEOBxU5S269ahQfY9xLvZ"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "skatulya I",
         "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
@@ -240,12 +208,28 @@
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 312883,
-      "name": "cipoe - full",
-      "url": "https://open.spotify.com/track/4QGKV8j62DQnnvukExzCGo"
+      "duration_ms": 132105,
+      "name": "yukata",
+      "url": "https://open.spotify.com/track/72CToGLjHS2QsMOiUYY89j"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 277714,
+      "name": "lesson",
+      "url": "https://open.spotify.com/track/7EcJ2eThRCoqr902mGunDq"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "cipoe",
         "url": "https://open.spotify.com/album/1aNoilrZREe8e16qX2fFTG"
@@ -261,7 +245,7 @@
       "url": "https://open.spotify.com/track/2H5Xte3poqJ1ld8HtmC7yc"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
@@ -277,7 +261,23 @@
       "url": "https://open.spotify.com/track/2zIijzos3rNY6DkvX2ZYDX"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 312883,
+      "name": "cipoe - full",
+      "url": "https://open.spotify.com/track/4QGKV8j62DQnnvukExzCGo"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Vagy Mindent Vagy Semmit",
         "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
@@ -297,55 +297,7 @@
       "url": "https://open.spotify.com/track/13EtEH0X61xnyEChVmeb2Q"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 176395,
-      "name": "M\u00e1mor",
-      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 169841,
-      "name": "introvert\u00e1lt dal",
-      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -365,7 +317,55 @@
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 176395,
+      "name": "M\u00e1mor",
+      "url": "https://open.spotify.com/track/1zWdoNRmxhBaAJiJI2SI7j"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 169841,
+      "name": "introvert\u00e1lt dal",
+      "url": "https://open.spotify.com/track/2EAvOY1uymm5ZAd0ZbnnPW"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Gata Only",
         "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
@@ -385,7 +385,23 @@
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "Torz",
+        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
+      },
+      "artists": [
+        {
+          "name": "Manuel",
+          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
+        }
+      ],
+      "duration_ms": 115500,
+      "name": "Badman",
+      "url": "https://open.spotify.com/track/7oUZdEXAM2eaOL7VBvUpE5"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "CARPE DIEM",
         "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
@@ -413,59 +429,7 @@
       "url": "https://open.spotify.com/track/1E2flGJxXQNeBLRqQXiAsK"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "Torz",
-        "url": "https://open.spotify.com/album/15vBZChxdbXK922Kx9YBnh"
-      },
-      "artists": [
-        {
-          "name": "Manuel",
-          "url": "https://open.spotify.com/artist/1O4dvMoyQSIClCii6DSai8"
-        }
-      ],
-      "duration_ms": 115500,
-      "name": "Badman",
-      "url": "https://open.spotify.com/track/7oUZdEXAM2eaOL7VBvUpE5"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "skatulya I",
-        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
-      },
-      "artists": [
-        {
-          "name": "Azahriah",
-          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
-        }
-      ],
-      "duration_ms": 270291,
-      "name": "mariana.\u00e1rok - slowed + reverb",
-      "url": "https://open.spotify.com/track/3vZ0veZZrkpdKKiwnLvxG7"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "CARPE DIEM",
-        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        },
-        {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
-        }
-      ],
-      "duration_ms": 161025,
-      "name": "Pakiszt\u00e1ni/popo",
-      "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "greedy",
         "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
@@ -481,7 +445,7 @@
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Meg\u00e1ll Az Id\u0151",
         "url": "https://open.spotify.com/album/22ZvDsUygqGo9SmPtPhRtp"
@@ -501,7 +465,27 @@
       "url": "https://open.spotify.com/track/2KViM7OZzQU9mLWxJxHJWG"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "CARPE DIEM",
+        "url": "https://open.spotify.com/album/68gj4MmytrI8exdgfjhWzb"
+      },
+      "artists": [
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
+        },
+        {
+          "name": "Young Fly",
+          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+        }
+      ],
+      "duration_ms": 161025,
+      "name": "Pakiszt\u00e1ni/popo",
+      "url": "https://open.spotify.com/track/1tCIXEBHBFHO1x3M07z3xy"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -517,7 +501,7 @@
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -533,43 +517,23 @@
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
-        "name": "0",
-        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+        "name": "Ap\u00e1ly",
+        "url": "https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX"
       },
       "artists": [
         {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "ANUBII$",
-          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 146400,
-      "name": "MEGGYF\u00c1N",
-      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
+      "duration_ms": 130869,
+      "name": "Ap\u00e1ly",
+      "url": "https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 169795,
-      "name": "Gengetek ellen",
-      "url": "https://open.spotify.com/track/4Q6pUe0KTMlqRoxJpXCytk"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -585,30 +549,10 @@
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
-        "name": "The Sound of Silence (CYRIL Remix)",
-        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        },
-        {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
-        }
-      ],
-      "duration_ms": 185238,
-      "name": "The Sound of Silence - CYRIL Remix",
-      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "memento",
-        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+        "name": "skatulya I",
+        "url": "https://open.spotify.com/album/5u9MCFoebxeT8zyJk7ubYw"
       },
       "artists": [
         {
@@ -616,12 +560,60 @@
           "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         }
       ],
-      "duration_ms": 193398,
-      "name": "3korty",
-      "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
+      "duration_ms": 270291,
+      "name": "mariana.\u00e1rok - slowed + reverb",
+      "url": "https://open.spotify.com/track/3vZ0veZZrkpdKKiwnLvxG7"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Valencia",
         "url": "https://open.spotify.com/album/0sVF7F2neNBn9D3pRtqlH9"
@@ -641,7 +633,59 @@
       "url": "https://open.spotify.com/track/7kIn3HrqM432chtEydQgMb"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "0",
+        "url": "https://open.spotify.com/album/3IOx3DP8tK4ihrbAyk7fCf"
+      },
+      "artists": [
+        {
+          "name": "Beton.Hofi",
+          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
+        },
+        {
+          "name": "ANUBII$",
+          "url": "https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "MEGGYF\u00c1N",
+      "url": "https://open.spotify.com/track/0Ro1NBqAymTPeQuHVNOekw"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261228,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "memento",
+        "url": "https://open.spotify.com/album/2mtBBnbkj7HMywF5FAtERT"
+      },
+      "artists": [
+        {
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
+        }
+      ],
+      "duration_ms": 193398,
+      "name": "3korty",
+      "url": "https://open.spotify.com/track/5ZY255MSISgMrvHmRZux1E"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "A l\u00f3 t\u00faloldal\u00e1n",
         "url": "https://open.spotify.com/album/0TMeEvXP5MKfH34B5tBga7"
@@ -661,71 +705,23 @@
       "url": "https://open.spotify.com/track/7lemjnVRAqQtqqLdSqCKqM"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
         }
       ],
-      "duration_ms": 203801,
-      "name": "My Boy Only Breaks His Favorite Toys",
-      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
+      "duration_ms": 169795,
+      "name": "Gengetek ellen",
+      "url": "https://open.spotify.com/track/4Q6pUe0KTMlqRoxJpXCytk"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "Ap\u00e1ly",
-        "url": "https://open.spotify.com/album/1Mh4B5kMXU35AexkEjOlSX"
-      },
-      "artists": [
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
-        }
-      ],
-      "duration_ms": 130869,
-      "name": "Ap\u00e1ly",
-      "url": "https://open.spotify.com/track/156AeYPPIRgeYJWmC3JUbO"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261228,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "Fall Back / Selfish Game",
-        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
-      },
-      "artists": [
-        {
-          "name": "Lithe",
-          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
-        }
-      ],
-      "duration_ms": 129522,
-      "name": "Fall Back",
-      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -741,23 +737,43 @@
       "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+        "name": "The Sound of Silence (CYRIL Remix)",
+        "url": "https://open.spotify.com/album/4AaJMesGEVwF7QpWMSG29p"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        },
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
         }
       ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+      "duration_ms": 185238,
+      "name": "The Sound of Silence - CYRIL Remix",
+      "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "Vagy Mindent Vagy Semmit",
+        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
+      },
+      "artists": [
+        {
+          "name": "Pog\u00e1ny Indul\u00f3",
+          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
+        }
+      ],
+      "duration_ms": 138883,
+      "name": "Kitart\u00e1st",
+      "url": "https://open.spotify.com/track/6S8A2hIs3iqFnn3ZdQGg68"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -777,63 +793,7 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "PLAYB\u00c1NIA",
-        "url": "https://open.spotify.com/album/5xMzTHcRiGKdBhGj8PjV4h"
-      },
-      "artists": [
-        {
-          "name": "Beton.Hofi",
-          "url": "https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y"
-        },
-        {
-          "name": "Hundred Sins",
-          "url": "https://open.spotify.com/artist/1hvixOq3kh8xqWm5ytcK28"
-        }
-      ],
-      "duration_ms": 124273,
-      "name": "BAGIRA",
-      "url": "https://open.spotify.com/track/18DVypBkvcJtVFzQr5Ly7J"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "Vagy Mindent Vagy Semmit",
-        "url": "https://open.spotify.com/album/3yzr3LxESMVFNQbz5qZIrH"
-      },
-      "artists": [
-        {
-          "name": "Pog\u00e1ny Indul\u00f3",
-          "url": "https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju"
-        }
-      ],
-      "duration_ms": 138883,
-      "name": "Kitart\u00e1st",
-      "url": "https://open.spotify.com/track/6S8A2hIs3iqFnn3ZdQGg68"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 215463,
-      "name": "Florida!!! (feat. Florence + The Machine)",
-      "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
-    },
-    {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -849,7 +809,7 @@
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
         "name": "VULTURES 1",
         "url": "https://open.spotify.com/album/30zwjSQEodaUXCn11nmiVF"
@@ -881,24 +841,60 @@
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
     },
     {
-      "added_at": "2024-04-21 10:52:47",
+      "added_at": "2024-04-22 11:06:50",
       "album": {
-        "name": "EZER NAP",
-        "url": "https://open.spotify.com/album/2sdrLFENQ7qtygveNHMxel"
+        "name": "tripq",
+        "url": "https://open.spotify.com/album/6ZO1hIeCfQ8neaKn3bPhyr"
       },
       "artists": [
         {
-          "name": "T. Danny",
-          "url": "https://open.spotify.com/artist/3RDALl5RyRDHPryF1uyWwG"
+          "name": "Azahriah",
+          "url": "https://open.spotify.com/artist/6EIriUxo7vznEgJtTDlXpq"
         },
         {
-          "name": "Young Fly",
-          "url": "https://open.spotify.com/artist/0zmW213tzA7NFv6ESRso7N"
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/4dqqy9z09htrVsRiJpoQmw"
         }
       ],
-      "duration_ms": 158325,
-      "name": "No Woman No Cry",
-      "url": "https://open.spotify.com/track/7BHYrsEYySLRs6PcZvvFEm"
+      "duration_ms": 171428,
+      "name": "lost tiki",
+      "url": "https://open.spotify.com/track/1VPU7SKdABCb3gNCNjMFIZ"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 215463,
+      "name": "Florida!!! (feat. Florence + The Machine)",
+      "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
+    },
+    {
+      "added_at": "2024-04-22 11:06:50",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     }
   ],
   "unique_name": "Top 50 - Hungary",

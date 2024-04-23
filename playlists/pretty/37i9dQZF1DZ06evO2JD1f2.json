@@ -1,12 +1,12 @@
 {
-  "description": "This Is EST Gee. Los temas esenciales, todos en una lista.",
-  "num_followers": 10845,
+  "description": "This is EST Gee. The essential tracks, all in one playlist.",
+  "num_followers": 10848,
   "original_name": "This Is EST Gee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGRiNzM0NGY5ZWIxMDJhNTdmMDY5Nzc0MWEwYTZjMjA1",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGI0NmFmMjgxZTVhNWViMGVlMzM1MTc5MmZiOWNjN2Ix",
   "tracks": [
     {
       "added_at": null,
@@ -164,13 +164,13 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
         }
       ],
-      "duration_ms": 187843,
-      "name": "Shoot It Myself (feat. Future)",
-      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
+      "duration_ms": 158431,
+      "name": "Backstage Passes (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
     },
     {
       "added_at": null,
@@ -252,13 +252,13 @@
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         },
         {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
         }
       ],
-      "duration_ms": 158431,
-      "name": "Backstage Passes (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj"
+      "duration_ms": 187843,
+      "name": "Shoot It Myself (feat. Future)",
+      "url": "https://open.spotify.com/track/6Md6lyVVoKWcOaSg8u1tDn"
     },
     {
       "added_at": null,
@@ -631,22 +631,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death (Deluxe)",
-        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
+        "name": "7220 (Deluxe)",
+        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
       },
       "artists": [
         {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
         },
         {
-          "name": "Moneybagg Yo",
-          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
         }
       ],
-      "duration_ms": 156981,
-      "name": "Balloons (feat. Moneybagg Yo)",
-      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
+      "duration_ms": 160033,
+      "name": "Burglars & Murderers (feat. EST Gee)",
+      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
     },
     {
       "added_at": null,
@@ -667,22 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7220 (Deluxe)",
-        "url": "https://open.spotify.com/album/2rGN0kLth4hNmyMffDTlpX"
+        "name": "Bigger Than Life Or Death (Deluxe)",
+        "url": "https://open.spotify.com/album/5TJ8D5dMvMYla06T6hTAvA"
       },
       "artists": [
         {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        },
-        {
           "name": "EST Gee",
           "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Moneybagg Yo",
+          "url": "https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f"
         }
       ],
-      "duration_ms": 160033,
-      "name": "Burglars & Murderers (feat. EST Gee)",
-      "url": "https://open.spotify.com/track/6JbrcjoMVBBNZllVOiHBcU"
+      "duration_ms": 156981,
+      "name": "Balloons (feat. Moneybagg Yo)",
+      "url": "https://open.spotify.com/track/48l0R6FAcGDQtyRCdIc9Vs"
     },
     {
       "added_at": null,
@@ -787,42 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Never Felt Nun",
-        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "mgk",
-          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
-        }
-      ],
-      "duration_ms": 163402,
-      "name": "Death Around The Corner (feat. Machine Gun Kelly)",
-      "url": "https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MAD",
-        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 165972,
-      "name": "UNDEFEATED",
-      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cold Gangsta",
         "url": "https://open.spotify.com/album/59XP7yesh6A9KlpST9Rx11"
       },
@@ -843,6 +807,42 @@
       "duration_ms": 211569,
       "name": "Cold Gangsta",
       "url": "https://open.spotify.com/track/700cZW0tW9q1amsUhsUDkA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MAD",
+        "url": "https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 165972,
+      "name": "UNDEFEATED",
+      "url": "https://open.spotify.com/track/4HGiXPr1kAN40W8kfbtDMc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Never Felt Nun",
+        "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        }
+      ],
+      "duration_ms": 163402,
+      "name": "Death Around The Corner (feat. Machine Gun Kelly)",
+      "url": "https://open.spotify.com/track/3zGZJdM9kXWYatib6GWyk9"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        },
-        {
-          "name": "Pooh Shiesty",
-          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
-        }
-      ],
-      "duration_ms": 132501,
-      "name": "All I Know (feat. Pooh Shiesty)",
-      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Breezy",
         "url": "https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 204533,
       "name": "Hmhmm (feat. EST Gee)",
       "url": "https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        },
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "duration_ms": 132501,
+      "name": "All I Know (feat. Pooh Shiesty)",
+      "url": "https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bigger Than Life Or Death",
-        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
-      },
-      "artists": [
-        {
-          "name": "EST Gee",
-          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
-        }
-      ],
-      "duration_ms": 141633,
-      "name": "Capitol 1",
-      "url": "https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Never Felt Nun",
         "url": "https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 154838,
       "name": "Blood",
       "url": "https://open.spotify.com/track/2mcunJucOjUZfPzfBwXal6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bigger Than Life Or Death",
+        "url": "https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku"
+      },
+      "artists": [
+        {
+          "name": "EST Gee",
+          "url": "https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj"
+        }
+      ],
+      "duration_ms": 141633,
+      "name": "Capitol 1",
+      "url": "https://open.spotify.com/track/2MI2Mm4Sfnvz41hJkKZEhK"
     },
     {
       "added_at": null,

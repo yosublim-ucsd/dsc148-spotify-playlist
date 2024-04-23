@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,038 likes - 50 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,080 likes - 50 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 38 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
 | 39 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 |
 | 40 | [EYES ON JESUS](https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [EYES ON JESUS](https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP) | 12:06 |
-| 41 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 |
+| 41 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 |
 | 42 | [Father](https://open.spotify.com/track/2PnfKLfeJbVjRtGYrAXPPM) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Fathered by the best](https://open.spotify.com/album/0SGehcWaVRh6KWwDEWlAOY) | 4:45 |
-| 43 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 |
+| 43 | [Dry Bones](https://open.spotify.com/track/0de9ygeGsHpnmpgZHOLrPJ) | [Abbey Ojomu](https://open.spotify.com/artist/4iH3ZFHoEkZcSdeFganofM) | [Dry Bones](https://open.spotify.com/album/55SIgOQ9eEOTGYxOW3fz7g) | 11:31 |
 | 44 | [He Is Here \(Live\)](https://open.spotify.com/track/5xTyw6RcRUIPbDPSXgl9h1) | [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [He Is Here \(Live\)](https://open.spotify.com/album/4yC2SG1jlzE9HumSAGdMx1) | 11:41 |
 | 45 | [Covenant Keeping God](https://open.spotify.com/track/3S37qaCmNR0ejVOFVBcZCo) | [Sonnie Badu](https://open.spotify.com/artist/52tpqX8Cxa7eiWUgHHSWBo) | [Lost in His Glory](https://open.spotify.com/album/5OcrjI1YzaqXYwLe3Eo9T5) | 3:10 |
 | 46 | [Ogya](https://open.spotify.com/track/0ybDJBHB8CPayBVvqYAdZv) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [God of Miracles](https://open.spotify.com/album/3zf0GwGizuZX3G7HBoVwgF) | 6:09 |
 | 47 | [So Good](https://open.spotify.com/track/0SHtiTJHKedzCfu32dIFQ7) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Fearless Wrshp](https://open.spotify.com/album/0qUGI3RkYQIKuIXhrPE9Fd) | 6:13 |
 | 48 | [You Always Win](https://open.spotify.com/track/7IXDG5wWAC7TqoWAddT5rx) | [Wura Mercé](https://open.spotify.com/artist/0cgOd3FsFScsYB7dN5jRfN), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [You Always Win](https://open.spotify.com/album/3bNnM2VEM979HyZF40JxKh) | 4:13 |
-| 49 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 |
-| 50 | [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 |
+| 49 | [All the Glory](https://open.spotify.com/track/21TNIJLjRY22md0LWvtGtc) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Nations Will Rise and Sing](https://open.spotify.com/album/1M6f4SoC0VXNZoo9yMPOhV) | 5:17 |
+| 50 | [Obinigwe](https://open.spotify.com/track/1zyQByOXDyQlFYzqTuax5l) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [To Yahweh's Delight](https://open.spotify.com/album/779P4ZNqRzXiiw2sIRTXva) | 9:12 |
 
 Snapshot ID: `MTcxMjMyNzExMCwwMDAwMDAwMDMzNjU4ZjNlYWNkNWJhMjYxMGNiYzJlZDYxNDY4NTM4`

@@ -1,6 +1,6 @@
 {
   "description": "All the greatest Thrash tunes - from classics to the best new tracks. Cover: Anthrax",
-  "num_followers": 543564,
+  "num_followers": 543280,
   "original_name": "Thrashers",
   "owner": {
     "name": "Spotify",
@@ -943,22 +943,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Strike of the Beast",
-      "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Alice In Hell",
         "url": "https://open.spotify.com/album/5oKZacGOXxb7A2OwXgh9UY"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 236226,
       "name": "W.T.Y.D.",
       "url": "https://open.spotify.com/track/4puBhL71XaixTPxpK02yog"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Strike of the Beast",
+      "url": "https://open.spotify.com/track/3nBbTSjJpTHDyz3D1x1rDu"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Aita",
-        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
-      },
-      "artists": [
-        {
-          "name": "Korpiklaani",
-          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
-        }
-      ],
-      "duration_ms": 227204,
-      "name": "Aita",
-      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "The Man That Never Was",
         "url": "https://open.spotify.com/album/7hqBWYPGvk8WrGm66UgCJW"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 203000,
       "name": "The Man That Never Was",
       "url": "https://open.spotify.com/track/19ZMUBNaw5HopQ5ljdZj8T"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Aita",
+        "url": "https://open.spotify.com/album/78zNb7zhpXPx2IxLz4vZKz"
+      },
+      "artists": [
+        {
+          "name": "Korpiklaani",
+          "url": "https://open.spotify.com/artist/521Yl3LUvD7G9dMRO4fpCy"
+        }
+      ],
+      "duration_ms": 227204,
+      "name": "Aita",
+      "url": "https://open.spotify.com/track/0TfZAE7oV7Zv56crYu5m0K"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1039,18 +1039,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Myrsky",
-        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
       },
       "artists": [
         {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+          "name": "Metal Church",
+          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
         }
       ],
-      "duration_ms": 210691,
-      "name": "Ympyr\u00e4 sulkeutuu",
-      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
+      "duration_ms": 225800,
+      "name": "Start the Fire",
+      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1071,18 +1071,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/32nLLpycunqmJfnF3EEfNJ"
+        "name": "Myrsky",
+        "url": "https://open.spotify.com/album/7HRrljwjEWlAAeeO0AIHw1"
       },
       "artists": [
         {
-          "name": "Metal Church",
-          "url": "https://open.spotify.com/artist/0exvkfkATkqWOJgugTjJhP"
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
         }
       ],
-      "duration_ms": 225800,
-      "name": "Start the Fire",
-      "url": "https://open.spotify.com/track/6EDh3fGDzhYlgzPiccnRKe"
+      "duration_ms": 210691,
+      "name": "Ympyr\u00e4 sulkeutuu",
+      "url": "https://open.spotify.com/track/3vMLPlqHCMn1XQxT1H1Py6"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Bonded by Blood",
-        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
-      },
-      "artists": [
-        {
-          "name": "Exodus",
-          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
-        }
-      ],
-      "duration_ms": 228880,
-      "name": "A Lesson in Violence",
-      "url": "https://open.spotify.com/track/7INHJI8QevyNUri2JKinLO"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Enter The Grave",
         "url": "https://open.spotify.com/album/3G3vlh9dfQMTcgcDhNkgut"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 270920,
       "name": "Enter The Grave",
       "url": "https://open.spotify.com/track/6A00Xnn0qg12xjEzCLY22O"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Bonded by Blood",
+        "url": "https://open.spotify.com/album/1IfG1UITBGxTIIVZ3qgUrD"
+      },
+      "artists": [
+        {
+          "name": "Exodus",
+          "url": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH"
+        }
+      ],
+      "duration_ms": 228880,
+      "name": "A Lesson in Violence",
+      "url": "https://open.spotify.com/track/7INHJI8QevyNUri2JKinLO"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Tango & Thrash",
-        "url": "https://open.spotify.com/album/2UirD4DbVjOVzeYjIi59wC"
-      },
-      "artists": [
-        {
-          "name": "Municipal Waste",
-          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "Intervention",
-      "url": "https://open.spotify.com/track/4PaTT8J0ktwShZ2tEaoEwZ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Worlds Torn Asunder",
         "url": "https://open.spotify.com/album/6v6I6MFsUq4ioOt4EHRheA"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 261560,
       "name": "Living Weapon",
       "url": "https://open.spotify.com/track/24I20Jlh6Tv1WatCnusj8H"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Tango & Thrash",
+        "url": "https://open.spotify.com/album/2UirD4DbVjOVzeYjIi59wC"
+      },
+      "artists": [
+        {
+          "name": "Municipal Waste",
+          "url": "https://open.spotify.com/artist/2Ah9OuOj7B57gPD1cbwiaE"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Intervention",
+      "url": "https://open.spotify.com/track/4PaTT8J0ktwShZ2tEaoEwZ"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Empire of the Blind",
-        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
-      },
-      "artists": [
-        {
-          "name": "Heathen",
-          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
-        }
-      ],
-      "duration_ms": 351613,
-      "name": "Empire of the Blind",
-      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Forbidden Evil",
         "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 384853,
       "name": "Through Eyes of Glass",
       "url": "https://open.spotify.com/track/5Xwn7YmF5BRCWyBYHXqZGL"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Empire of the Blind",
+        "url": "https://open.spotify.com/album/217f4bYa9XozSYchLop1qW"
+      },
+      "artists": [
+        {
+          "name": "Heathen",
+          "url": "https://open.spotify.com/artist/3VD3oXiELCSHXzR4XXnlaF"
+        }
+      ],
+      "duration_ms": 351613,
+      "name": "Empire of the Blind",
+      "url": "https://open.spotify.com/track/7f9GwtBThFbtYnxc7X47XE"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Forbidden Evil",
+        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+      },
+      "artists": [
+        {
+          "name": "Forbidden",
+          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+        }
+      ],
+      "duration_ms": 272853,
+      "name": "Chalice of Blood",
+      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Profane Prayer",
         "url": "https://open.spotify.com/album/4PcHDeJv6FmO6WZb6qYGHa"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 174120,
       "name": "Virtues of Destruction",
       "url": "https://open.spotify.com/track/1ACpMQW2yIPcLDrpHlrY7l"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Do-Over",
-        "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
-      },
-      "artists": [
-        {
-          "name": "Lich King",
-          "url": "https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz"
-        }
-      ],
-      "duration_ms": 189280,
-      "name": "Black Metal Sucks",
-      "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1507,18 +1507,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Forbidden Evil",
-        "url": "https://open.spotify.com/album/5yjZpCAc80twY03yRI0hce"
+        "name": "Do-Over",
+        "url": "https://open.spotify.com/album/1zndMZYyzhEbEVe4I9fB4D"
       },
       "artists": [
         {
-          "name": "Forbidden",
-          "url": "https://open.spotify.com/artist/5MhPZVXE28sD9rXE3GU1uN"
+          "name": "Lich King",
+          "url": "https://open.spotify.com/artist/4rlxS0LeVnHz6z1zp2iJbz"
         }
       ],
-      "duration_ms": 272853,
-      "name": "Chalice of Blood",
-      "url": "https://open.spotify.com/track/2NnbfST2iUUUQ0ZJJWtcY0"
+      "duration_ms": 189280,
+      "name": "Black Metal Sucks",
+      "url": "https://open.spotify.com/track/62f5Wr85zS0rEhnh7Ege1Z"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Punishment for Decadence",
-        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
-      },
-      "artists": [
-        {
-          "name": "Coroner",
-          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
-        }
-      ],
-      "duration_ms": 287600,
-      "name": "Masked Jackal",
-      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Convicted",
         "url": "https://open.spotify.com/album/7mHgdfVzpEFJ3w5ZMM1Ehv"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 152280,
       "name": "Lowlife",
       "url": "https://open.spotify.com/track/5BPPlNliU7Ddz1uU20MQcG"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Punishment for Decadence",
+        "url": "https://open.spotify.com/album/2o6XqegTow2rfyKM9UglBX"
+      },
+      "artists": [
+        {
+          "name": "Coroner",
+          "url": "https://open.spotify.com/artist/7lfdXL6PuTM5iWJNvI7PPV"
+        }
+      ],
+      "duration_ms": 287600,
+      "name": "Masked Jackal",
+      "url": "https://open.spotify.com/track/2pjI7phMrTO2KOJCqCkHIU"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Infernal Overkill",
-        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
-      },
-      "artists": [
-        {
-          "name": "Destruction",
-          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Bestial Invasion",
-      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Face of Despair",
         "url": "https://open.spotify.com/album/2d4iPSQfwwQZDN5F4woNvi"
       },
@@ -1763,18 +1747,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Pyh\u00e4 Vitutus",
-        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
+        "name": "Infernal Overkill",
+        "url": "https://open.spotify.com/album/6Alq1l8ezrAFtEK0tCWnZC"
       },
       "artists": [
         {
-          "name": "Mokoma",
-          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
+          "name": "Destruction",
+          "url": "https://open.spotify.com/artist/5d6KI8frPEo3qGsIL8Sak2"
         }
       ],
-      "duration_ms": 201223,
-      "name": "Pyh\u00e4 Vitutus",
-      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
+      "duration_ms": 276106,
+      "name": "Bestial Invasion",
+      "url": "https://open.spotify.com/track/2TNiNhyFLXAjtBuVydgYfo"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1795,18 +1779,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Year of the Goat",
-        "url": "https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb"
+        "name": "Pyh\u00e4 Vitutus",
+        "url": "https://open.spotify.com/album/7l48qUCRcUiNUyOD2zzkDT"
       },
       "artists": [
         {
-          "name": "Exhorder",
-          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+          "name": "Mokoma",
+          "url": "https://open.spotify.com/artist/2LBteY4vnSD2zKwAgzOijB"
         }
       ],
-      "duration_ms": 206653,
-      "name": "Year of the Goat",
-      "url": "https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ"
+      "duration_ms": 201223,
+      "name": "Pyh\u00e4 Vitutus",
+      "url": "https://open.spotify.com/track/3nn2BBMs1fwcUzvz3SsWBk"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1823,6 +1807,22 @@
       "duration_ms": 256880,
       "name": "World in a World",
       "url": "https://open.spotify.com/track/5nJixh1Yoax0OX03cIfUDQ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Year of the Goat",
+        "url": "https://open.spotify.com/album/3vcSAW1Y7YNi9isFfRCWyb"
+      },
+      "artists": [
+        {
+          "name": "Exhorder",
+          "url": "https://open.spotify.com/artist/5kuYamMO00pHPdRQcAXWTl"
+        }
+      ],
+      "duration_ms": 206653,
+      "name": "Year of the Goat",
+      "url": "https://open.spotify.com/track/7D0wXdVm5aMwOgArdzBMcQ"
     },
     {
       "added_at": "2024-03-08 05:00:00",

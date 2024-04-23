@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 
 > Do you remember when you fell in love with emo and post\-hardcore? Cover: Refused
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,630 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,633 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 9 | [Say It Ain't So](https://open.spotify.com/track/6VoIBz0VhCyz7OdEoRYDiA) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:18 |
 | 10 | [Ape Dos Mil](https://open.spotify.com/track/1IqKlSMBlwWF0kxY2fBstA) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Worship And Tribute \(U.S\. Version\)](https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT) | 5:03 |
 | 11 | [Tears Over Beers](https://open.spotify.com/track/7hPLPHeKbwJrsuDHv4BCTA) | [Modern Baseball](https://open.spotify.com/artist/1HxXNvsraqrsgfmju1yKk8) | [Sports](https://open.spotify.com/album/1xmzPFLf2gjDF0D8OQJyAo) | 2:48 |
-| 12 | [Sic Transit Gloria ..\. Glory Fades](https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 3:06 |
-| 13 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
+| 12 | [Seven Years](https://open.spotify.com/track/0C71NJD4BhvPopTwI7a8KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 3:12 |
+| 13 | [Sic Transit Gloria ..\. Glory Fades](https://open.spotify.com/track/42A4dSYBf0g9OHreccqU5o) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Deja Entendu](https://open.spotify.com/album/6vDiMhyfSnTn18OY99BSQX) | 3:06 |
 | 14 | [Honestly?](https://open.spotify.com/track/0QNdEegC3Q9AVoAMmd8MEL) | [American Football](https://open.spotify.com/artist/5FwydyGVcsQllnM4xM6jw4) | [American Football](https://open.spotify.com/album/70OkRXiiwdTCtZ9YiPBzPp) | 6:10 |
 | 15 | [Seven \- Remastered](https://open.spotify.com/track/4mQfmZSNbkpIHua7lsVU7k) | [Sunny Day Real Estate](https://open.spotify.com/artist/2lZkXWxkZsZzBocxMjN1or) | [Diary \(Remastered and Expanded Edition\)](https://open.spotify.com/album/3wdD2PQkm8N4ezZf732Oxv) | 4:46 |
 | 16 | [Standing On The Edge Of Summer](https://open.spotify.com/track/1DtLnHvLta8jPswUfplrfT) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [Full Collapse](https://open.spotify.com/album/5HMT2y9yUoPH7yYhnyIpQo) | 3:42 |
-| 17 | [Jude Law And A Semester Abroad](https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Your Favorite Weapon](https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj) | 3:42 |
+| 17 | [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 |
 | 18 | [The World Has Turned And Left Me Here](https://open.spotify.com/track/06isZAG9Bgm4jhPj7V0Rhx) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer](https://open.spotify.com/album/1xpGyKyV26uPstk1Elgp9Q) | 4:19 |
 | 19 | [Always Focused](https://open.spotify.com/track/20zs5ECJ4on1YqXHiDZkTN) | [Tiny Moving Parts](https://open.spotify.com/artist/5rJVTTK0ucAxQhkUc0nXbH) | [Pleasant Living](https://open.spotify.com/album/6glHUYWR8paVp72N7xmBci) | 2:40 |
-| 20 | [3rd Measurement in C](https://open.spotify.com/track/3y5f6SfCuDjYOzeSbKP72p) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Translating the Name](https://open.spotify.com/album/3Lfxp4dgtCBJN74rmo7tiE) | 2:38 |
+| 20 | [Jude Law And A Semester Abroad](https://open.spotify.com/track/4w7hIjpuEfvMPiyEgdqlf6) | [Brand New](https://open.spotify.com/artist/168dgYui7ExaU612eooDF1) | [Your Favorite Weapon](https://open.spotify.com/album/1kRnFF71UTGdHmSrRDllKj) | 3:42 |
 | 21 | [Lucky Denver Mint](https://open.spotify.com/track/2GtMBnQshzpr6kIInqTJVd) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 3:49 |
 | 22 | [For The Workforce, Drowning](https://open.spotify.com/track/1lJBNe8CjXxTX8VoIHr0KX) | [Thursday](https://open.spotify.com/artist/61awhbNK16ku1uQyXRsQj5) | [War All The Time](https://open.spotify.com/album/7gd57Ics8NX1LGdGgvYZ0t) | 3:16 |
 | 23 | [Oh Messy Life](https://open.spotify.com/track/5UGOuPyoMT5XHNA75LJlQE) | [Cap'n Jazz](https://open.spotify.com/artist/3JhEcBWSCPXkRMt1VK14i4) | [Analphabetapolothology](https://open.spotify.com/album/4VgTw2LLWNMz1FIHkZuv5D) | 2:02 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYAyGN1XM1YS.md) - [plain]
 | 26 | [Accident Prone](https://open.spotify.com/track/2Dqgj2nE6RwZKocWsWqXcG) | [Jawbreaker](https://open.spotify.com/artist/4bcaz6nXnH8LTRiXALe8XV) | [Dear You](https://open.spotify.com/album/7KyQp50wm9lprjaW6UMAkI) | 6:13 |
 | 27 | [Caboose](https://open.spotify.com/track/4lIyRjVqJlN8naBv6Cd5Dw) | [Snapcase](https://open.spotify.com/artist/1egTA9mNgTwglPEQLmMd9W) | [Progression Through Unlearning](https://open.spotify.com/album/0EXE2JkwLwhSPaOuMBAxxu) | 2:33 |
 | 28 | [Heartbeat in the Brain](https://open.spotify.com/track/6rCQnAXP0UKEGKPZF8u5iL) | [The World Is A Beautiful Place & I Am No Longer Afraid To Die](https://open.spotify.com/artist/5bCNJ1ICzdnzK0yoCIP2Ip) | [Whenever, If Ever](https://open.spotify.com/album/40C7bBDW77dS5BBbNzcdmm) | 5:41 |
-| 29 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
-| 30 | [Chinatown](https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8) | [Jets To Brazil](https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY) | [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD) | 5:35 |
+| 29 | [Chinatown](https://open.spotify.com/track/7iLR3XqK3d5WbHeurAB1d8) | [Jets To Brazil](https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY) | [Orange Rhyming Dictionary](https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD) | 5:35 |
+| 30 | [The Casualty](https://open.spotify.com/track/5kgwBCYQtJ3vS0RpCrI6jG) | [Cursive](https://open.spotify.com/artist/1sylmUjlKYsLA49YtkNHW3) | [Cursive's Domestica](https://open.spotify.com/album/215RKfiHGpOXzOxftk3fqs) | 3:30 |
 | 31 | [For Me This Is Heaven](https://open.spotify.com/track/64Kk49W8HFh22diWSBVxCr) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Clarity \(Expanded Edition\)](https://open.spotify.com/album/0JfCEzWgcuUxrAUZw5eUT4) | 4:06 |
 | 32 | [Cut Your Ribbon](https://open.spotify.com/track/1DYud4lcStjYxJ8JBBva6g) | [Sparta](https://open.spotify.com/artist/3DWWL4kwLZMBLsmVsbZYHR) | [Wiretap Scars](https://open.spotify.com/album/2Lg6QTklBKk6eIJs5onQQl) | 3:04 |
 | 33 | [Napoleon Solo](https://open.spotify.com/track/34q1w3Eh0vocZj0FOtVQAS) | [At the Drive\-In](https://open.spotify.com/artist/5E2rtn57BM2WPjwak4kGd5) | [In / Casino / Out](https://open.spotify.com/album/35qZXJifEQcpWnKP6E4oNv) | 4:48 |

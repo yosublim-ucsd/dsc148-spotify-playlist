@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes that both you and your little one can enjoy.",
-  "num_followers": 32382,
+  "num_followers": 32395,
   "original_name": "Raised on Latin",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2023-01-09 06:31:47",
       "album": {
+        "name": "The Reventon: 30 Pegaditas",
+        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas",
+          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
+        }
+      ],
+      "duration_ms": 263253,
+      "name": "El Baile del Perrito",
+      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
+    },
+    {
+      "added_at": "2023-01-09 06:31:47",
+      "album": {
         "name": "Los D\u00fao",
         "url": "https://open.spotify.com/album/2IlXnGyMzDixqs44RSUObZ"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 295280,
       "name": "Querida",
       "url": "https://open.spotify.com/track/7osHjFGYUmIMB6eAiU9HDs"
-    },
-    {
-      "added_at": "2023-01-09 06:31:47",
-      "album": {
-        "name": "The Reventon: 30 Pegaditas",
-        "url": "https://open.spotify.com/album/1BVdrfS67jHUUNBF4epJeD"
-      },
-      "artists": [
-        {
-          "name": "Wilfrido Vargas",
-          "url": "https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4"
-        }
-      ],
-      "duration_ms": 263253,
-      "name": "El Baile del Perrito",
-      "url": "https://open.spotify.com/track/2XESoQVXG9ssxyjxXSrmxo"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 210933,
-      "name": "Lo Que Pas\u00f3, Pas\u00f3",
-      "url": "https://open.spotify.com/track/6z5Xrx58p5Bs18RIe6KXbI"
+      "duration_ms": 192600,
+      "name": "Gasolina",
+      "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
     },
     {
       "added_at": "2023-01-09 06:31:47",
@@ -1012,9 +1012,9 @@
           "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
         }
       ],
-      "duration_ms": 192600,
-      "name": "Gasolina",
-      "url": "https://open.spotify.com/track/6jEZLz3YpnEBRpVkv35AmP"
+      "duration_ms": 210933,
+      "name": "Lo Que Pas\u00f3, Pas\u00f3",
+      "url": "https://open.spotify.com/track/6z5Xrx58p5Bs18RIe6KXbI"
     },
     {
       "added_at": "2023-01-09 06:31:47",

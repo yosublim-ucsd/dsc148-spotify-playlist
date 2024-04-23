@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the spirit of independence by listening to the best songs from faith-based indie artists.  Cover: <a href=\"spotify:artist:19TPpTWkgX13Qc2stbqVoP\">Terrian</a>",
-  "num_followers": 82593,
+  "num_followers": 82623,
   "original_name": "Indie Spirit",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
+        "name": "Down In My Heart (Joy)",
+        "url": "https://open.spotify.com/album/0vAd51CBFDJXarTCGnTDGK"
       },
       "artists": [
         {
-          "name": "Switchfoot",
-          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
-        },
-        {
-          "name": "Twenty One Pilots",
-          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          "name": "Joseph O'Brien",
+          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
         }
       ],
-      "duration_ms": 282000,
-      "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
-      "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
+      "duration_ms": 177293,
+      "name": "Down In My Heart (Joy)",
+      "url": "https://open.spotify.com/track/53P88AP6l1f8I9IikB55Ex"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -103,18 +99,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Down In My Heart (Joy)",
-        "url": "https://open.spotify.com/album/0vAd51CBFDJXarTCGnTDGK"
+        "name": "The Beautiful Letdown (Our Version) [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT"
       },
       "artists": [
         {
-          "name": "Joseph O'Brien",
-          "url": "https://open.spotify.com/artist/1ibVSKkKjRcDYXTJrUprGa"
+          "name": "Switchfoot",
+          "url": "https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu"
+        },
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 177293,
-      "name": "Down In My Heart (Joy)",
-      "url": "https://open.spotify.com/track/53P88AP6l1f8I9IikB55Ex"
+      "duration_ms": 282000,
+      "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
+      "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -187,22 +187,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "LIGHTER FLUID",
-        "url": "https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ"
-      },
-      "artists": [
-        {
-          "name": "nobigdyl.",
-          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
-        }
-      ],
-      "duration_ms": 133113,
-      "name": "LIGHTER FLUID",
-      "url": "https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Magnolia",
         "url": "https://open.spotify.com/album/3v8SVEcUWgW33eR5IljRCB"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 220838,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/4x2uqkTk7Lb2zTdgAA8GEj"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "LIGHTER FLUID",
+        "url": "https://open.spotify.com/album/6qm4XXccJz12KfaFyKkcwJ"
+      },
+      "artists": [
+        {
+          "name": "nobigdyl.",
+          "url": "https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4"
+        }
+      ],
+      "duration_ms": 133113,
+      "name": "LIGHTER FLUID",
+      "url": "https://open.spotify.com/track/6ZRC56ykoaYLnncqvSwKWR"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Your Friend",
+        "url": "https://open.spotify.com/album/3G58HpqUFhdC9nvpzYMMxB"
+      },
+      "artists": [
+        {
+          "name": "MUCH MORE",
+          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
+        }
+      ],
+      "duration_ms": 160200,
+      "name": "Your Friend",
+      "url": "https://open.spotify.com/track/5zr31oaC7xFN3vck4Fh7hs"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "FIND MY WAY",
         "url": "https://open.spotify.com/album/6zMB1gaaFKxJIWQtYnsES5"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 110030,
       "name": "FIND MY WAY",
       "url": "https://open.spotify.com/track/32oM6ZiwrFcXtscoQWpN76"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Your Friend",
-        "url": "https://open.spotify.com/album/3G58HpqUFhdC9nvpzYMMxB"
-      },
-      "artists": [
-        {
-          "name": "MUCH MORE",
-          "url": "https://open.spotify.com/artist/0B1cF1eekag30vXyt0YWMs"
-        }
-      ],
-      "duration_ms": 160200,
-      "name": "Your Friend",
-      "url": "https://open.spotify.com/track/5zr31oaC7xFN3vck4Fh7hs"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -611,22 +611,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Till It Kills Me",
-        "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
+        "name": "Vices",
+        "url": "https://open.spotify.com/album/0PrUUOQuS8P3Nk7d9MUlFL"
       },
       "artists": [
         {
-          "name": "Trulah",
-          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
-        },
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+          "name": "ISLY",
+          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
         }
       ],
-      "duration_ms": 234500,
-      "name": "Till It Kills Me",
-      "url": "https://open.spotify.com/track/6bEIHsUn9pcJAzWK99YeAq"
+      "duration_ms": 183934,
+      "name": "Vices",
+      "url": "https://open.spotify.com/track/4BO3yKlrLoGJP7O6dDAxPC"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -651,18 +647,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Vices",
-        "url": "https://open.spotify.com/album/0PrUUOQuS8P3Nk7d9MUlFL"
+        "name": "Till It Kills Me",
+        "url": "https://open.spotify.com/album/2LEBSDEECtxcoot8F0Cs8z"
       },
       "artists": [
         {
-          "name": "ISLY",
-          "url": "https://open.spotify.com/artist/6vcdxuQqc3jvWqznVDPEAW"
+          "name": "Trulah",
+          "url": "https://open.spotify.com/artist/7yUqjhujjMXv4QHq59Q9wR"
+        },
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
         }
       ],
-      "duration_ms": 183934,
-      "name": "Vices",
-      "url": "https://open.spotify.com/track/4BO3yKlrLoGJP7O6dDAxPC"
+      "duration_ms": 234500,
+      "name": "Till It Kills Me",
+      "url": "https://open.spotify.com/track/6bEIHsUn9pcJAzWK99YeAq"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -799,6 +799,26 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "mess it up (H3nry Thr!ll Remix)",
+        "url": "https://open.spotify.com/album/2ibPucOeZRiQEf2SYQFNAT"
+      },
+      "artists": [
+        {
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
+        },
+        {
+          "name": "H3nry Thr!ll",
+          "url": "https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5"
+        }
+      ],
+      "duration_ms": 128300,
+      "name": "mess it up - H3nry Thr!ll Remix",
+      "url": "https://open.spotify.com/track/2gX81qSWUFpnnJsBB7vmEV"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Jesus, My Brother + Like Jesus (Live)",
         "url": "https://open.spotify.com/album/6FF25x5ZScHJpGXQtHuANN"
       },
@@ -827,22 +847,18 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "mess it up (H3nry Thr!ll Remix)",
-        "url": "https://open.spotify.com/album/2ibPucOeZRiQEf2SYQFNAT"
+        "name": "Deliverer",
+        "url": "https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4"
       },
       "artists": [
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "H3nry Thr!ll",
-          "url": "https://open.spotify.com/artist/2GKIFC9wCaMs2vohojNLk5"
+          "name": "Antoine Bradford",
+          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
         }
       ],
-      "duration_ms": 128300,
-      "name": "mess it up - H3nry Thr!ll Remix",
-      "url": "https://open.spotify.com/track/2gX81qSWUFpnnJsBB7vmEV"
+      "duration_ms": 249350,
+      "name": "Deliverer",
+      "url": "https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -867,22 +883,6 @@
       "duration_ms": 162427,
       "name": "RICH",
       "url": "https://open.spotify.com/track/3J6kfqAnqQSTzhkB93O4TG"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Deliverer",
-        "url": "https://open.spotify.com/album/1RoNtF8fj3ms3r6oA4cSn4"
-      },
-      "artists": [
-        {
-          "name": "Antoine Bradford",
-          "url": "https://open.spotify.com/artist/1FYE37rOHOrxO1lHAQUkCl"
-        }
-      ],
-      "duration_ms": 249350,
-      "name": "Deliverer",
-      "url": "https://open.spotify.com/track/5ZSeBObQHeYMUiRkwwcE6M"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "START AGAIN",
-        "url": "https://open.spotify.com/album/5JSKAiL91po3N9ondgSFY1"
-      },
-      "artists": [
-        {
-          "name": "Manafest",
-          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
-        }
-      ],
-      "duration_ms": 181944,
-      "name": "START AGAIN",
-      "url": "https://open.spotify.com/track/52Vy5fDKlXOzCLzguIyOkT"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "REASON",
         "url": "https://open.spotify.com/album/2QC30uOXwPkSpt2QyN4Kt0"
       },
@@ -1355,6 +1339,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "START AGAIN",
+        "url": "https://open.spotify.com/album/5JSKAiL91po3N9ondgSFY1"
+      },
+      "artists": [
+        {
+          "name": "Manafest",
+          "url": "https://open.spotify.com/artist/4uOFEWy9mIcvQbr03IbPcL"
+        }
+      ],
+      "duration_ms": 181944,
+      "name": "START AGAIN",
+      "url": "https://open.spotify.com/track/52Vy5fDKlXOzCLzguIyOkT"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "It's Alright",
         "url": "https://open.spotify.com/album/4EEMuP3WN69ObKivvZ8d5V"
       },
@@ -1367,22 +1367,6 @@
       "duration_ms": 205635,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/3INuuULY6TANh1Aov4Cxc8"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "How To Love (Acoustic)",
-        "url": "https://open.spotify.com/album/69qVCmyY6GWDUFZwjfelAb"
-      },
-      "artists": [
-        {
-          "name": "Levi Mitchell",
-          "url": "https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr"
-        }
-      ],
-      "duration_ms": 113125,
-      "name": "How To Love - Acoustic",
-      "url": "https://open.spotify.com/track/1RVAsTegFVrlbGM82SnBkT"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1407,6 +1391,22 @@
       "duration_ms": 312307,
       "name": "Captured - with Trulah",
       "url": "https://open.spotify.com/track/2E0HUOrgjtVfMYCeKw9ZoQ"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "How To Love (Acoustic)",
+        "url": "https://open.spotify.com/album/69qVCmyY6GWDUFZwjfelAb"
+      },
+      "artists": [
+        {
+          "name": "Levi Mitchell",
+          "url": "https://open.spotify.com/artist/2lm3ISdfvGLIqhp9roRcdr"
+        }
+      ],
+      "duration_ms": 113125,
+      "name": "How To Love - Acoustic",
+      "url": "https://open.spotify.com/track/1RVAsTegFVrlbGM82SnBkT"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Thank You",
-        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 144574,
-      "name": "Thank You",
-      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/1IbthdE8uINCVyFz4ydAGw"
       },
@@ -1555,6 +1539,38 @@
       "duration_ms": 154218,
       "name": "Higher",
       "url": "https://open.spotify.com/track/2g1hAEomKQ03UXpfgHmhyn"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/6zYdQqHTnmwVfE2boMvzV7"
+      },
+      "artists": [
+        {
+          "name": "Leslie Perez",
+          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/3yXTQs2iGnCLMPPLE8XJE9"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Thank You",
+        "url": "https://open.spotify.com/album/4g7lvkjDGen25u25SFNPFV"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 144574,
+      "name": "Thank You",
+      "url": "https://open.spotify.com/track/0l2Y3iQqgDqnuh7qn2tw7d"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1599,22 +1615,6 @@
       "duration_ms": 206771,
       "name": "Blindman (Brother Isaiah, J.J. Wright and Friends)",
       "url": "https://open.spotify.com/track/3eNyaMoj1HPBUIEfYZTMD3"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/6zYdQqHTnmwVfE2boMvzV7"
-      },
-      "artists": [
-        {
-          "name": "Leslie Perez",
-          "url": "https://open.spotify.com/artist/2NUERBKvU6ghDuqmLReybs"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/3yXTQs2iGnCLMPPLE8XJE9"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1687,22 +1687,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "SUNSHINE",
-        "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
-      },
-      "artists": [
-        {
-          "name": "Jacob Stanifer",
-          "url": "https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl"
-        }
-      ],
-      "duration_ms": 187073,
-      "name": "SUNSHINE",
-      "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Veil",
         "url": "https://open.spotify.com/album/3OSOyi6kUgfrZKUrOklrol"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 236667,
       "name": "Lift Me",
       "url": "https://open.spotify.com/track/0p0OlAwwoRoL9HkwfLGhO5"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "SUNSHINE",
+        "url": "https://open.spotify.com/album/0D6Y4LUu13t6XLiLv87opR"
+      },
+      "artists": [
+        {
+          "name": "Jacob Stanifer",
+          "url": "https://open.spotify.com/artist/6vOLg94b2uu3742kkSkRBl"
+        }
+      ],
+      "duration_ms": 187073,
+      "name": "SUNSHINE",
+      "url": "https://open.spotify.com/track/1Q6GO5Uq4DbfWAtMGTlnm4"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1751,22 +1751,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Person of Peace",
-        "url": "https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC"
-      },
-      "artists": [
-        {
-          "name": "PKYB",
-          "url": "https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ"
-        }
-      ],
-      "duration_ms": 179714,
-      "name": "Person of Peace",
-      "url": "https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "Good God",
         "url": "https://open.spotify.com/album/1eNFSWubs0WkDEme69zu4j"
       },
@@ -1783,6 +1767,22 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "Person of Peace",
+        "url": "https://open.spotify.com/album/3VU42y35AYl32o2WhpzVVC"
+      },
+      "artists": [
+        {
+          "name": "PKYB",
+          "url": "https://open.spotify.com/artist/08zvqg4s6PtATq707V95hZ"
+        }
+      ],
+      "duration_ms": 179714,
+      "name": "Person of Peace",
+      "url": "https://open.spotify.com/track/7oCJdbU8fDqwIYk8MEHHTw"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Taxi",
         "url": "https://open.spotify.com/album/6M6icqwiEExSsx8y8XaN7n"
       },
@@ -1795,22 +1795,6 @@
       "duration_ms": 160444,
       "name": "Taxi",
       "url": "https://open.spotify.com/track/41pVJKmDtmmyXIVKFki50N"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "Your Arms",
-        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
-      },
-      "artists": [
-        {
-          "name": "RORE",
-          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
-        }
-      ],
-      "duration_ms": 157477,
-      "name": "Your Arms",
-      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -1843,6 +1827,22 @@
       "duration_ms": 244390,
       "name": "Narrow Road",
       "url": "https://open.spotify.com/track/3XnfmwxGymQEgSf1LwTtOL"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Your Arms",
+        "url": "https://open.spotify.com/album/2FGO1TD4b69CQHPG4tbB6v"
+      },
+      "artists": [
+        {
+          "name": "RORE",
+          "url": "https://open.spotify.com/artist/4es2gLCEQiV2WeeIMCdn2j"
+        }
+      ],
+      "duration_ms": 157477,
+      "name": "Your Arms",
+      "url": "https://open.spotify.com/track/56B8Ls0ASzAKEmZ87hgYfb"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2491,6 +2491,26 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
+        "name": "fruit",
+        "url": "https://open.spotify.com/album/6T88kyf9kjV5QUdTyuK5y4"
+      },
+      "artists": [
+        {
+          "name": "Gaetan Judd",
+          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
+        },
+        {
+          "name": "Elle Limebear",
+          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "fruit",
+      "url": "https://open.spotify.com/track/6FxNF5hpiYSA40odAuCQ65"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
         "name": "Won\u2019t Settle",
         "url": "https://open.spotify.com/album/0aN04XDOdQaanGUnvE9jrJ"
       },
@@ -2511,26 +2531,6 @@
       "duration_ms": 263168,
       "name": "Won\u2019t Settle",
       "url": "https://open.spotify.com/track/4IJoNuDNZlCJTCWHqm627s"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
-        "name": "fruit",
-        "url": "https://open.spotify.com/album/6T88kyf9kjV5QUdTyuK5y4"
-      },
-      "artists": [
-        {
-          "name": "Gaetan Judd",
-          "url": "https://open.spotify.com/artist/7F5l2LuXQMfl3NAooWWdkc"
-        },
-        {
-          "name": "Elle Limebear",
-          "url": "https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "fruit",
-      "url": "https://open.spotify.com/track/6FxNF5hpiYSA40odAuCQ65"
     },
     {
       "added_at": "2024-01-26 11:01:00",
@@ -2619,26 +2619,6 @@
     {
       "added_at": "2024-01-26 11:01:00",
       "album": {
-        "name": "Conversations",
-        "url": "https://open.spotify.com/album/56Y2QlGyHtQPn1l4423yG8"
-      },
-      "artists": [
-        {
-          "name": "Grace Graber",
-          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
-        },
-        {
-          "name": "Jason Dunn",
-          "url": "https://open.spotify.com/artist/1G9AcaVa5rcmA9UmakXnPl"
-        }
-      ],
-      "duration_ms": 181221,
-      "name": "This One's for You",
-      "url": "https://open.spotify.com/track/1x2YR5F8jET6dIZ3rhtExM"
-    },
-    {
-      "added_at": "2024-01-26 11:01:00",
-      "album": {
         "name": "not alone",
         "url": "https://open.spotify.com/album/3W0QMSt56denSHXr274111"
       },
@@ -2655,6 +2635,26 @@
       "duration_ms": 138578,
       "name": "not alone",
       "url": "https://open.spotify.com/track/4aaq3m2pZB8kyMag9eUZgl"
+    },
+    {
+      "added_at": "2024-01-26 11:01:00",
+      "album": {
+        "name": "Conversations",
+        "url": "https://open.spotify.com/album/56Y2QlGyHtQPn1l4423yG8"
+      },
+      "artists": [
+        {
+          "name": "Grace Graber",
+          "url": "https://open.spotify.com/artist/5zKLAqfSLwj61spd5ereRK"
+        },
+        {
+          "name": "Jason Dunn",
+          "url": "https://open.spotify.com/artist/1G9AcaVa5rcmA9UmakXnPl"
+        }
+      ],
+      "duration_ms": 181221,
+      "name": "This One's for You",
+      "url": "https://open.spotify.com/track/1x2YR5F8jET6dIZ3rhtExM"
     },
     {
       "added_at": "2024-01-26 11:01:00",

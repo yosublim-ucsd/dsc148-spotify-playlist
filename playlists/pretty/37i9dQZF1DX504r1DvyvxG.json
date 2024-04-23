@@ -1,6 +1,6 @@
 {
   "description": "Kick back with a collection of iconic and new acoustic tracks with that classic feel. Cover: George Harrison",
-  "num_followers": 2649132,
+  "num_followers": 2648093,
   "original_name": "Classic Acoustic",
   "owner": {
     "name": "Spotify",
@@ -319,8 +319,8 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Still Crazy After All These Years",
-        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
+        "name": "Paul Simon",
+        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
       },
       "artists": [
         {
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 217346,
-      "name": "50 Ways to Leave Your Lover",
-      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
+      "duration_ms": 164813,
+      "name": "Me and Julio Down by the Schoolyard",
+      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -399,8 +399,8 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Paul Simon",
-        "url": "https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep"
+        "name": "Still Crazy After All These Years",
+        "url": "https://open.spotify.com/album/4A366gjTrYQwmRtkTezF2W"
       },
       "artists": [
         {
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 164813,
-      "name": "Me and Julio Down by the Schoolyard",
-      "url": "https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E"
+      "duration_ms": 217346,
+      "name": "50 Ways to Leave Your Lover",
+      "url": "https://open.spotify.com/track/6Qb7gtV6Q4MnUjSbkFcopl"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "It's So Hard To Tell Who's Going To Love You The Best",
-        "url": "https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe"
-      },
-      "artists": [
-        {
-          "name": "Karen Dalton",
-          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
-        }
-      ],
-      "duration_ms": 156893,
-      "name": "Little Bit Of Rain",
-      "url": "https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Forever Young (From NBC's Parenthood)",
         "url": "https://open.spotify.com/album/6Q7WssoFXDJoqNEkn8LnWN"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 261370,
       "name": "Forever Young - From NBC's Parenthood",
       "url": "https://open.spotify.com/track/0QYgtwYCftkAqunXmvkZtr"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "It's So Hard To Tell Who's Going To Love You The Best",
+        "url": "https://open.spotify.com/album/1O330PE8lc1dDXduHBwLXe"
+      },
+      "artists": [
+        {
+          "name": "Karen Dalton",
+          "url": "https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy"
+        }
+      ],
+      "duration_ms": 156893,
+      "name": "Little Bit Of Rain",
+      "url": "https://open.spotify.com/track/09g4TuWLxMmrOTt1kzS47Z"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Terms of My Surrender",
-        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
-      },
-      "artists": [
-        {
-          "name": "John Hiatt",
-          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Long Time Comin'",
-      "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/0Z1S7FjbZJ6OQ9hBo25dLa"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 245775,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/0HKLzcztfHW7o9b2i0PwtV"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "Terms of My Surrender",
+        "url": "https://open.spotify.com/album/5Kl06Gn6TlYxhRr7Qmrr8m"
+      },
+      "artists": [
+        {
+          "name": "John Hiatt",
+          "url": "https://open.spotify.com/artist/4Sld5LOPbAm1QSq9U32fFV"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Long Time Comin'",
+      "url": "https://open.spotify.com/track/4OfCkjpcpqKgr9igYyOSHm"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Rich Kid Blues",
-        "url": "https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk"
-      },
-      "artists": [
-        {
-          "name": "Marianne Faithfull",
-          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "It's All Over Now Baby Blue",
-      "url": "https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/4mheuwaP5LY9Kum0Jqr1CE"
       },
@@ -1175,18 +1159,18 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
+        "name": "Rich Kid Blues",
+        "url": "https://open.spotify.com/album/7m06IfHTHIxJHPlOrCybrk"
       },
       "artists": [
         {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+          "name": "Marianne Faithfull",
+          "url": "https://open.spotify.com/artist/7mlge4peaoNgzTsY6M32RB"
         }
       ],
-      "duration_ms": 307880,
-      "name": "900 Miles",
-      "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
+      "duration_ms": 229960,
+      "name": "It's All Over Now Baby Blue",
+      "url": "https://open.spotify.com/track/7hoWkhuHv9b3jiCbxX1kMm"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1203,6 +1187,22 @@
       "duration_ms": 259120,
       "name": "Dublin Blues",
       "url": "https://open.spotify.com/track/4rXt1tYHZIavECuN32fk96"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 307880,
+      "name": "900 Miles",
+      "url": "https://open.spotify.com/track/0zVduthKvT1FEsUGFWT9Xo"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
-      },
-      "artists": [
-        {
-          "name": "Terry Callier",
-          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
-        }
-      ],
-      "duration_ms": 177760,
-      "name": "Oh Dear, What Can The Matter Be",
-      "url": "https://open.spotify.com/track/580Am1PtXEC1hVVibksKRE"
-    },
-    {
-      "added_at": "2023-03-31 04:00:00",
-      "album": {
         "name": "Happy Sad",
         "url": "https://open.spotify.com/album/20CYfxjKvqXkCXBhAgOE39"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 161253,
       "name": "Sing a Song for You",
       "url": "https://open.spotify.com/track/01o6YGrdvMrUAFmWgwoDCb"
+    },
+    {
+      "added_at": "2023-03-31 04:00:00",
+      "album": {
+        "name": "The New Folk Sound Of Terry Callier (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2cX2VDaXtAvTgZbSOZe2T7"
+      },
+      "artists": [
+        {
+          "name": "Terry Callier",
+          "url": "https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs"
+        }
+      ],
+      "duration_ms": 177760,
+      "name": "Oh Dear, What Can The Matter Be",
+      "url": "https://open.spotify.com/track/580Am1PtXEC1hVVibksKRE"
     },
     {
       "added_at": "2023-03-31 04:00:00",
@@ -1615,8 +1615,8 @@
     {
       "added_at": "2023-03-31 04:00:00",
       "album": {
-        "name": "Teaser And The Firecat",
-        "url": "https://open.spotify.com/album/2B719vL1xtPTwYs0j5BuAo"
+        "name": "Tea For The Tillerman (Remastered)",
+        "url": "https://open.spotify.com/album/25Vt8FvZBx4BsSJWEsF7sJ"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8"
         }
       ],
-      "duration_ms": 251333,
-      "name": "Peace Train",
-      "url": "https://open.spotify.com/track/1ppuHX1oVMku5LTL0swNZP"
+      "duration_ms": 200173,
+      "name": "Wild World",
+      "url": "https://open.spotify.com/track/6Xz7FeyE8HTP90HecgHV57"
     }
   ],
   "unique_name": "Classic Acoustic",

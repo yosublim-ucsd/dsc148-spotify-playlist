@@ -4,7 +4,7 @@
 
 > ジャズを基調にロックやラテン音楽、電子音楽、時にはクラシックなどを融合させた「ジャズフュージョン」を牽引する日本のアーティストを特集。cover: bohemianvoodoo
 
-96 songs - 7 hr 26 min
+97 songs - 7 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Galactic Funk](https://open.spotify.com/track/3Y1k10FsXMXFw9H08dZlKl) | [CASIOPEA](https://open.spotify.com/artist/0lRXEutklZUeNdWIJA1NI0) | [Asian Dreamer](https://open.spotify.com/album/2brs79CBxiApvCNRM880RA) | 5:24 | 2023-03-14 | 2024-04-19 |
 | [Gently](https://open.spotify.com/track/6mqfABkvkJxfCnQoXoY1Tp) | [Akira Jimbo](https://open.spotify.com/artist/3lpJqlTUaUV0Q7OlnbtBeC) | [燦燦](https://open.spotify.com/album/1XengrA8fJxquErrp3T3zW) | 3:51 | 2023-03-14 |  |
 | [Glassland](https://open.spotify.com/track/1VXha98SArQoMQCL2tPVzb) | [Apneumo](https://open.spotify.com/artist/4pd2vMniXFGmAXS3NQxIaR) | [Glassland](https://open.spotify.com/album/3RZLViD4iKtZ7LIAVIfBKO) | 4:30 | 2023-10-17 |  |
+| [Golden Forest](https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [color & monochrome 2](https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW) | 5:18 | 2024-02-27 |  |
 | [Good song](https://open.spotify.com/track/1pdMs8HUL8udZMqbUaBtd6) | [SPECIAL OTHERS](https://open.spotify.com/artist/4642raFccEF58fHRtJSsc5) | [WAVE](https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B) | 3:22 | 2023-03-14 |  |
 | [Greenfield](https://open.spotify.com/track/2puY8TFmn0geYy2NuPC8Jo) | [The Hey Song](https://open.spotify.com/artist/1amNM2sij1uuKOTunyYuze) | [New Horizon](https://open.spotify.com/album/3rYt9et8uKmF1ek5CPDW2F) | 2:26 | 2024-02-27 |  |
 | [Horns Riot](https://open.spotify.com/track/23Qd9pGRAGYvkW769SDCIg) | [TRI4TH](https://open.spotify.com/artist/5RdEgvFMoLubrYet7DNjia), [Calmera](https://open.spotify.com/artist/5EQqINW9nAQs8lw8BzjQXw) | [Horns Riot](https://open.spotify.com/album/75yKmLPDLWt0G9RdDlHNY6) | 4:07 | 2023-06-14 |  |
@@ -67,7 +68,7 @@
 | [regalecus glesne \- feat.元晴 & 柴田亮](https://open.spotify.com/track/21VomxDANSnbiaVzcqaNC7) | [BimBomBam Orchestra](https://open.spotify.com/artist/6LglW9con0IEpWmE6XjvT6), [元晴](https://open.spotify.com/artist/4O9JglJVkDAOWTC5kNO04L), [柴田亮](https://open.spotify.com/artist/0sKQ57LUMTe7U2v15D3lXu) | [regalecus glesne \(feat.元晴 & 柴田亮\)](https://open.spotify.com/album/0jbynTtZoFFmrUyL9OD6SZ) | 7:07 | 2023-03-14 |  |
 | [relive](https://open.spotify.com/track/50t4tQAB6MPXX2bzFeGCid) | [toconoma](https://open.spotify.com/artist/3XKBSRkQeskeHIpRvA5XaS) | [TENT](https://open.spotify.com/album/2TKWC4WpImusMrl1AmkW2t) | 5:01 | 2023-03-14 | 2024-04-19 |
 | [Sad Premonition / Lilium](https://open.spotify.com/track/2ZMpOq0n124MRPO8vxAgCi) | [haruka nakamura](https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4) | [I'll](https://open.spotify.com/album/1dOgFP65sSxMncWqJ8FADo) | 4:05 | 2023-03-14 | 2023-12-05 |
-| [Sakura Flutter](https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Bouquet](https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW) | 4:09 | 2024-02-27 |  |
+| [Sakura Flutter](https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [Bouquet](https://open.spotify.com/album/5jJgBsbMoXwoSCOvvFuwRW) | 4:09 | 2024-02-27 | 2024-04-23 |
 | [seiren](https://open.spotify.com/track/0f1hKtgruSDYQ52wvS9YeR) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/3RaPoJgvbOwugD3mKSjew5) | 4:23 | 2023-04-04 | 2024-04-19 |
 | [seiren](https://open.spotify.com/track/4tzmAKoooM1NNMaoBiunvI) | [mouse on the keys](https://open.spotify.com/artist/6NVzd3Lv9yMFIf1bsXNLIp) | [an anxious object](https://open.spotify.com/album/7uLIqmPNnfmBd92Tz1apN2) | 4:23 | 2023-03-14 | 2023-04-29 |
 | [Sepia](https://open.spotify.com/track/5AVnWUXifjcxv7l9lKVIqb) | [Indigo Jam Unit](https://open.spotify.com/artist/0Mb07um3EFUmVvjcqN0DCn) | [Oonops Drops Vol\. 1](https://open.spotify.com/album/3JXpqb40IwJuCGWYbZdzns) | 5:25 | 2023-03-14 | 2024-04-19 |

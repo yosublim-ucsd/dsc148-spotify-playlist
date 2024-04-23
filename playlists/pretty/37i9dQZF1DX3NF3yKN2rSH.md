@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 
 > New and classic Gospel songs to celebrate the Easter season.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,625 likes - 100 songs - 9 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,602 likes - 100 songs - 9 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 37 | [Worthy Is The Lamb Slain](https://open.spotify.com/track/0kBssWQicwNaU5jJ547luQ) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:11 |
 | 38 | [They Didn't Know](https://open.spotify.com/track/1P8pSziECPmbA1Yd1k2ZY7) | [Kurt Carr](https://open.spotify.com/artist/3HPpUSemwpvcLFn5RBvUwH) | [One Church](https://open.spotify.com/album/7BfKk5DYFFWM1m8lcmFAok) | 6:39 |
 | 39 | [Always Jesus](https://open.spotify.com/track/4aGRQYEtZySJ5KRnBU6Yfn) | [Gene Moore](https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6) | [Tunnel Vision](https://open.spotify.com/album/36OUmfH7fvxdjJL1Zhkr8v) | 3:57 |
-| 40 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Risen Powerful Gospel Resurrection Songs](https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg) | 6:57 |
-| 41 | [Because He Lives](https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy) | [Rev\. Cleophus Robinson](https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62) | [I Shall Know Him](https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ) | 5:14 |
+| 40 | [Because He Lives](https://open.spotify.com/track/4V941Tt1pJKFPicJcZMYIy) | [Rev\. Cleophus Robinson](https://open.spotify.com/artist/2KBIwRiovYlac37ehvlF62) | [I Shall Know Him](https://open.spotify.com/album/4mMN2C6hfUmvoiXNmGZpjJ) | 5:14 |
+| 41 | [Now Behold the Lamb \- Live](https://open.spotify.com/track/5xdZFymYd44sEgBQNATvaw) | [Kirk Franklin & The Family](https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd) | [Risen Powerful Gospel Resurrection Songs](https://open.spotify.com/album/2AuRPxmT1ZBi9m2f422BKg) | 6:57 |
 | 42 | [Worth Fighting For \- 1 Mic 1 Take](https://open.spotify.com/track/7qF4oWmfFcJZm1lWnTJB3S) | [Brian Courtney Wilson](https://open.spotify.com/artist/5K2BdUwQNqXy70BX2L8BQx) | [Resilience](https://open.spotify.com/album/65mjXtPcrYhjhc1JwfJTPt) | 4:01 |
 | 43 | [Release \- Live/Edit](https://open.spotify.com/track/70mAuybPl9xCCmCRkubv6E) | [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM), [Tiff Joy](https://open.spotify.com/artist/5BZU9FuwmQoyYg3OQMMiv9) | [Choirmaster](https://open.spotify.com/album/5rKcQHUtvVkawYalUN2IMR) | 4:03 |
 | 44 | [Redeemer](https://open.spotify.com/track/43yNBaEEwBhGGS0yJJaK2V) | [Karima](https://open.spotify.com/artist/55xDuhefd7WGiIXDhN8hOE) | [Redeemer](https://open.spotify.com/album/4nMk16S67GzM7jsA2HnwHs) | 5:17 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NF3yKN2rSH.md) - [plain]
 | 72 | [You Did It All \(with Vision\)](https://open.spotify.com/track/43GrHq2HESNffQyauLdBRq) | [Richard Smallwood](https://open.spotify.com/artist/4WIRlLxuzmZciQ8JS2b3jP), [Vision](https://open.spotify.com/artist/28vGUslhbTPQaqt8pmnK5m) | [Healing \- Live In Detroit \(with Vision\)](https://open.spotify.com/album/2f5Pp3wWWYGGoO9EHqR70A) | 5:57 |
 | 73 | [Born To Die](https://open.spotify.com/track/5LhzfQIdF2E7WQvRQNH3TB) | [Hezekiah Walker](https://open.spotify.com/artist/0pXt4sMs2oRnt528LTYgyd), [The Love Fellowship Crusade Choir](https://open.spotify.com/artist/3xrX4BvsX5AqroXDkwVmw1) | [Verity Records: The First Decade, A Celebration Of Christmas](https://open.spotify.com/album/0nn0Wkf7YNHAZzgW0qirAx) | 4:50 |
 | 74 | [The Old Rugged Cross](https://open.spotify.com/track/5aDPMyBFhThZrjRJXrrGy7) | [Rev\. James Moore](https://open.spotify.com/artist/2r7fA3DrMO5JXl3uoOLkaN) | [Live In Detroit \(Live\)](https://open.spotify.com/album/0uKzIXtrSUvzRCFHSOv1vv) | 8:16 |
-| 75 | [I Know It Was the Blood](https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Sing A Nu Song](https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t) | 6:10 |
-| 76 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |
+| 75 | [God Is Not Dead](https://open.spotify.com/track/64u71Ii45f6Pa3BPwIvYul) | [Joshua's Troop](https://open.spotify.com/artist/4ejvtrRzhIaqGb7YhTLUsV) | [Joshua's Troop](https://open.spotify.com/album/3XYaQRnY5ha54xB4x2gbgT) | 5:11 |
+| 76 | [I Know It Was the Blood](https://open.spotify.com/track/3OK5efpJzgvpqzgTsSvgaP) | [Deitrick Haddon](https://open.spotify.com/artist/7tlQrRh6jNY1c95poJvBe9) | [Sing A Nu Song](https://open.spotify.com/album/2Pq4TiBAMv0r7WD0DmMp6t) | 6:10 |
 | 77 | [These Nails \- Live](https://open.spotify.com/track/3kVIUABK3lKYuXOu6d4vjl) | [Donald Lawrence & The Tri\-City Singers](https://open.spotify.com/artist/57d6a3ex4tB3hO0WE1hC1V) | [Donald Lawrence & The Tri\-City Singers Collection](https://open.spotify.com/album/5ejaaJUSkQ6k7LdxFAniDs) | 5:28 |
 | 78 | [Victory Belongs To Jesus](https://open.spotify.com/track/4bJM66nNeI2TZ1cSRKpLfm) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart](https://open.spotify.com/album/5xaGK6HOJPPpRlcQEDVBfJ) | 5:44 |
 | 79 | [You Deserve It \(feat\. Bishop Cortez Vaughn\)](https://open.spotify.com/track/6FeGkKpsH1ht2GRDCEa0O2) | [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Bishop Cortez Vaughn](https://open.spotify.com/artist/5AkeEGPP5D9gUO61YH59Lz) | [You Deserve It \(Deluxe Edition\)](https://open.spotify.com/album/0NlDLxMWZfaAAbAmWTD7pP) | 6:05 |

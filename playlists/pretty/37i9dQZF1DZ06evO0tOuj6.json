@@ -1,12 +1,12 @@
 {
-  "description": "This is Tokyo Ska Paradise Orchestra. The essential tracks, all in one playlist.",
-  "num_followers": 34556,
+  "description": "This is Tokyo Ska Paradise Orchestra. \uaf2d \ub4e4\uc5b4\uc57c \ud558\ub294 \ud2b8\ub799\uc744 \ud558\ub098\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc5d0 \ubaa8\uc558\uc2b5\ub2c8\ub2e4.",
+  "num_followers": 34585,
   "original_name": "This Is Tokyo Ska Paradise Orchestra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDkxZjBhODYzMTBkYjMwZGUzYTAyNWM5NjdhNDRiZWUy",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDY5YWJlODk4NzI4Y2VkMmQ5ZGE5ZDcyNGNkZWIwZmYy",
   "tracks": [
     {
       "added_at": null,
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 250366,
-      "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
-      "url": "https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR"
+      "duration_ms": 267500,
+      "name": "\u5feb\u54c9\u3092\u53eb\u3076\u3068\u304d",
+      "url": "https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z"
     },
     {
       "added_at": null,
@@ -504,9 +504,9 @@
           "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
         }
       ],
-      "duration_ms": 267500,
-      "name": "\u5feb\u54c9\u3092\u53eb\u3076\u3068\u304d",
-      "url": "https://open.spotify.com/track/3Grbp1AzBvGAZt8meIoJ4Z"
+      "duration_ms": 250366,
+      "name": "\u541b\u306b\u30b5\u30c1\u30a2\u30ec",
+      "url": "https://open.spotify.com/track/2G58KvDX7VmM7069VlHWdR"
     },
     {
       "added_at": null,
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILD PEACE",
-        "url": "https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 222146,
-      "name": "\u30b4\u30c3\u30c9\u30d5\u30a1\u30fc\u30b6\u30fc\u611b\u306e\u30c6\u30fc\u30de",
-      "url": "https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "WORLD SKA SYMPHONY",
         "url": "https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL"
       },
@@ -619,6 +603,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
+        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        },
+        {
+          "name": "Yukihiro Takahashi",
+          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
+        }
+      ],
+      "duration_ms": 336933,
+      "name": "WATERMELON",
+      "url": "https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "GR8EST",
         "url": "https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM"
       },
@@ -635,6 +639,22 @@
       "duration_ms": 299040,
       "name": "\u7121\u8cac\u4efb\u30d2\u30fc\u30ed\u30fc jam with \u6771\u4eac\u30b9\u30ab\u30d1\u30e9\u30c0\u30a4\u30b9\u30aa\u30fc\u30b1\u30b9\u30c8\u30e9",
       "url": "https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WILD PEACE",
+        "url": "https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 222146,
+      "name": "\u30b4\u30c3\u30c9\u30d5\u30a1\u30fc\u30b6\u30fc\u611b\u306e\u30c6\u30fc\u30de",
+      "url": "https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5"
     },
     {
       "added_at": null,
@@ -659,46 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b0\u30e9\u30f3\u30d7\u30ea",
-        "url": "https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "Yukihiro Takahashi",
-          "url": "https://open.spotify.com/artist/5Rv28BOArteQRhL8YUYgD5"
-        }
-      ],
-      "duration_ms": 336933,
-      "name": "WATERMELON",
-      "url": "https://open.spotify.com/track/081ccCOe9myoXhqDm9uNTh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SKA ME FOREVER",
-        "url": "https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        },
-        {
-          "name": "MONGOL800",
-          "url": "https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO"
-        }
-      ],
-      "duration_ms": 313240,
-      "name": "\u6d41\u308c\u3086\u304f\u4e16\u754c\u306e\u4e2d\u3067",
-      "url": "https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SKA=ALMIGHTY",
         "url": "https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C"
       },
@@ -715,6 +695,22 @@
       "duration_ms": 204826,
       "name": "JUMON - feat.\u30a2\u30a4\u30ca\u30fb\u30b8\u30fb\u30a8\u30f3\u30c9",
       "url": "https://open.spotify.com/track/1L2graoM4Kycxf3qLRmMJA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "JUNK or GEM",
+        "url": "https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 178800,
+      "name": "JUNK or GEM",
+      "url": "https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie"
     },
     {
       "added_at": null,
@@ -747,22 +743,6 @@
       "duration_ms": 255746,
       "name": "DOWN BEAT STOMP",
       "url": "https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "JUNK or GEM",
-        "url": "https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 178800,
-      "name": "JUNK or GEM",
-      "url": "https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie"
     },
     {
       "added_at": null,

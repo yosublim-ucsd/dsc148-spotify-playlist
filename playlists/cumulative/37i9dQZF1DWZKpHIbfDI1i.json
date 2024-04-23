@@ -9665,6 +9665,24 @@
     },
     {
       "album": {
+        "name": "Lo Dejar\u00eda Todo",
+        "url": "https://open.spotify.com/album/50cfhfrNgotJpIy0tQPy38"
+      },
+      "artists": [
+        {
+          "name": "Priscilla F\u00e9lix",
+          "url": "https://open.spotify.com/artist/0WWelL4rhUknYdkhfKDnLu"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202288,
+      "name": "Lo Dejar\u00eda Todo",
+      "url": "https://open.spotify.com/track/4ekRFS0oOGdkZxaeZ4Btd5"
+    },
+    {
+      "album": {
         "name": "Lo Lindo de Mi Ex",
         "url": "https://open.spotify.com/album/0LQOlTuQnTJWCnWGSaGnFa"
       },
@@ -18624,7 +18642,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 167186,
       "name": "Vitamina D",
       "url": "https://open.spotify.com/track/2XZO0xoygaWnFfpILzaH5X"

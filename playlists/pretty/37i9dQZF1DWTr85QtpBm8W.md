@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 
 > Immerse yourself in Ambient from the first decade of the 21st century.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,639 likes - 100 songs - 7 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,687 likes - 100 songs - 7 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,9 +48,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTr85QtpBm8W.md) - [plain]
 | 38 | [Under the Water It Glowed](https://open.spotify.com/track/37oYHRw3yNT2VTL1WIkpo0) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Lambent Material](https://open.spotify.com/album/05YNkDNjqv9EhuvJ5GEQht) | 5:09 |
 | 39 | [A Chronicle of Early Failures \- Part 2](https://open.spotify.com/track/3lOKW6po9WXDidfTxRZROT) | [The Dead Texan](https://open.spotify.com/artist/0sf2u7qJQLxkZjon6FsvJT) | [The Dead Texan](https://open.spotify.com/album/55mLyioYUt6V3TxkFObTEo) | 5:47 |
 | 40 | [How Distant Your Heart](https://open.spotify.com/track/3sZ1KWZYD4WZhEa0jIgVg6) | [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC), [Harold Budd](https://open.spotify.com/artist/3uOCouLFR4bVx0XeiQJSbl) | [After The Night Falls](https://open.spotify.com/album/37xpeBIwCGwIYKpyakvJZR) | 4:03 |
-| 41 | [Fib01a](https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 8:01 |
+| 41 | [Jesus / Pop](https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 1:42 |
 | 42 | [I Will](https://open.spotify.com/track/5WGoSnsHY26l4WTWX0L42t) | [Brian McBride](https://open.spotify.com/artist/1FTBjo6ovfmw3HWkD8sZTs) | [When the Detail Lost Its Freedom](https://open.spotify.com/album/0Nrl8YjdGmaeuhCqFz7nBs) | 5:44 |
-| 43 | [Jesus / Pop](https://open.spotify.com/track/2DuYIq8kK3FC4RJg21oI0N) | [Set Fire To Flames](https://open.spotify.com/artist/7N0ceyBaroraISr1hoECzv) | [Sings Reign Rebuilder](https://open.spotify.com/album/3Zo8ZrDAAmm9yDVTAIo0ir) | 1:42 |
+| 43 | [Fib01a](https://open.spotify.com/track/4IJCUAfJub0AmmN15YJwmQ) | [Keith Fullerton Whitman](https://open.spotify.com/artist/5ImhhHipsVekTFfTPSSFgl) | [Playthroughs](https://open.spotify.com/album/6ougW9XMhBN61PLZBrwZVW) | 8:01 |
 | 44 | [City of Light](https://open.spotify.com/track/1x5gVSrVSGtnNZ3JewrKKH) | [Fennesz](https://open.spotify.com/artist/2DoQBgPsB9AdmWpIa2hUSz) | [Venice](https://open.spotify.com/album/7wAP4Bb3vyXR6uV8lXv2VZ) | 6:34 |
 | 45 | [We Say Goodbye To Ourselves](https://open.spotify.com/track/2D7BAfmLR4ixVprkt479so) | [Eluvium](https://open.spotify.com/artist/4QK3YJ6hzJdhJHE9q7kbVV) | [Talk Amongst the Trees](https://open.spotify.com/album/6926m4gBSRgEduj23vjc6p) | 2:09 |
 | 46 | [N.L.T.](https://open.spotify.com/track/3OIRQC5qvLCXwJzj9JC1k2) | [Boris](https://open.spotify.com/artist/3EgMK920cIH5aLxFnJ6zSi), [sunn O\)\)\)](https://open.spotify.com/artist/2e7hYqRjL82c1nIoREHc4J) | [Altar](https://open.spotify.com/album/0v2IQBEPQqlKFiAa5rj1AC) | 3:49 |

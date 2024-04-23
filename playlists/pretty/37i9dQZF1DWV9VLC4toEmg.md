@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 
 > Spa treatment role\-play and ASMR massage sounds to give you tingles and help you relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,541 likes - 47 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,585 likes - 47 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9VLC4toEmg.md) - [plain]
 | 19 | [Jennifer's Silicon Brush](https://open.spotify.com/track/3vMJDguczmKoE8ioJHkf5K) | [My ASMR Room](https://open.spotify.com/artist/74ewzpfsEL70CLM2hU9K4B) | [Yummy ASMR](https://open.spotify.com/album/3PKQMXqfzyjCiLr1HdLKZH) | 4:18 |
 | 20 | [7 Tingle Massages Pt.1](https://open.spotify.com/track/4f7emjWlRrzGny0U85rHUH) | [ASMR Glow](https://open.spotify.com/artist/3pIhTb0jnfckdPD74sAppI) | [7 Tingly Massages](https://open.spotify.com/album/4rsAtuIMx3RkhaV5Leqx2T) | 6:50 |
 | 21 | [Lovely Ear Massage & Positive Words to Help You Sleep Pt\. 1](https://open.spotify.com/track/6sOGM8fZ8HXl1tDMslCXC5) | [Seafoam Kitten's ASMR](https://open.spotify.com/artist/6uh6geb4QlGeZjRo9FP3p1) | [Oil Ear Massage: Ear Massage & Positive Words to Help You Sleep](https://open.spotify.com/album/0dTsNkZzZw3nviHbBFJ3dJ) | 6:58 |
-| 22 | [Tapping, massaging & lotion sounds](https://open.spotify.com/track/2qkXfFuBjVHTrEjCG9vB23) | [Olivia Kissper ASMR](https://open.spotify.com/artist/1MEV9ITWXMftwktI602Cze) | [Luxury Novice ASMR Massage Therapist](https://open.spotify.com/album/56Is2bkK7cgKeqiDW2Ufdj) | 7:06 |
+| 22 | [Foamy Ear Massage Part 4](https://open.spotify.com/track/0QR8c9BhiZPwfSA62KEqLt) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Foamy Ear Massage](https://open.spotify.com/album/37njbdb7VxWKN4w0U6E0Y9) | 6:44 |
 | 23 | [Ear Massage Part Two](https://open.spotify.com/track/6B1iHYqP15euvr2jtK2ioO) | [Vanhi](https://open.spotify.com/artist/01brNLghg7jSF2ZJxSj72y) | [Ear Massage with Very Light Rain in the Background](https://open.spotify.com/album/2Xa2JDNosTHQqh9CTPo3b6) | 5:45 |
-| 24 | [Foamy Ear Massage Part 4](https://open.spotify.com/track/0QR8c9BhiZPwfSA62KEqLt) | [Karuna Satori ASMR](https://open.spotify.com/artist/3gK713oCPxcYsIsfAXSpl5) | [Foamy Ear Massage](https://open.spotify.com/album/37njbdb7VxWKN4w0U6E0Y9) | 6:44 |
+| 24 | [Tapping, massaging & lotion sounds](https://open.spotify.com/track/2qkXfFuBjVHTrEjCG9vB23) | [Olivia Kissper ASMR](https://open.spotify.com/artist/1MEV9ITWXMftwktI602Cze) | [Luxury Novice ASMR Massage Therapist](https://open.spotify.com/album/56Is2bkK7cgKeqiDW2Ufdj) | 7:06 |
 | 25 | [Ear Muff Mic Scratching Pt.2](https://open.spotify.com/track/4ixjpI5tKBm6JfXNF8J8Us) | [HeatheredEffect ASMR](https://open.spotify.com/artist/11uBB2l2Ne1rZCyS1xnv1L) | [Ear Muff Mic Scratching Pt.2](https://open.spotify.com/album/2ifFLVJpBwip4cSvPBG1Ns) | 4:17 |
 | 26 | [Helping you fall sleep with a relaxing hand and head massage Pt.2](https://open.spotify.com/track/0llPJPAIBv48UDRI0piTAX) | [Catplant ASMR](https://open.spotify.com/artist/5qw3MMovQQEq4URS46Ij5C) | [Helping you fall sleep with a relaxing hand and head massage](https://open.spotify.com/album/0Mxearp6dO183ZajtJdtM6) | 4:45 |
 | 27 | [A Deep Ear Massage](https://open.spotify.com/track/0XMRFPrEPHoWRVnfBaId3g) | [Chloe C ASMR](https://open.spotify.com/artist/0qLW4QW8EMXTxjBph3jY4q) | [A Deep Ear Massage](https://open.spotify.com/album/0VChj0yICJTZk7Fer3bqiv) | 3:24 |

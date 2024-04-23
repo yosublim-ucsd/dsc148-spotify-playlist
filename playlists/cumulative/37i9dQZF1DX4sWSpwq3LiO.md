@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,699 songs - 3 day 3 hr 31 min
+1,700 songs - 3 day 3 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -781,6 +781,7 @@
 | [Light of wintertime](https://open.spotify.com/track/3Q1HOPyyOPygEkiF5j8TDL) | [Josephe Burke](https://open.spotify.com/artist/41P9wQe7ndXNRH4dMmeWXi) | [Light of wintertime](https://open.spotify.com/album/5BmL3qmVWwq9ErKKZP0SoD) | 2:11 | 2023-07-03 |  |
 | [Like a Child](https://open.spotify.com/track/2J9UTgDdul3kMGZgnsUZIp) | [Hiroko Murakami](https://open.spotify.com/artist/2FPMZBH13ARkDrd37sIp13), [Hiroco.M](https://open.spotify.com/artist/723sN2rn2hMtdiMbzAZ3Of) | [Like a Child](https://open.spotify.com/album/4RF4Nz20dvgZUk2iSXbddV) | 2:35 | 2022-03-10 | 2023-09-23 |
 | [Like A Whisper](https://open.spotify.com/track/4C4B9L1O7JCiDSniF64rbJ) | [Lydia Barnes](https://open.spotify.com/artist/6AoY3GD7zFJmvpJNKRwvqN) | [Harbour](https://open.spotify.com/album/1YZbiOwmyO8HbKqGub0Tzi) | 3:57 | 2021-05-12 | 2022-05-13 |
+| [Like an Open Book](https://open.spotify.com/track/7FhgcPqNKXfzCkyiR2Tq4O) | [Hudson Rull](https://open.spotify.com/artist/0Ovdnf8EmBSJvquaUrQZ75) | [Like an Open Book](https://open.spotify.com/album/2uqm3Wad4JnBQ5XVuWrUzO) | 2:11 | 2024-04-22 |  |
 | [Like Before](https://open.spotify.com/track/27An0sDvzMb7GM6pRE9ycF) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/2XnJ6Gy388bHlx1rikNI4p) | 2:15 | 2022-07-28 | 2023-03-14 |
 | [Like Before](https://open.spotify.com/track/4gh3kOpFSQPn6jGOI0gZPm) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Like Before](https://open.spotify.com/album/7KG32lDHhYrznuU2EXHJPp) | 2:15 | 2021-11-24 | 2022-07-29 |
 | [Like When We were Young](https://open.spotify.com/track/4J9XjfiPKFrrEy0yZB3NdT) | [Avaldi](https://open.spotify.com/artist/3eVHpUdXpbXGJW1A4assdx) | [Frameworks](https://open.spotify.com/album/07SZvWLQwR9TYfBqZzkuh3) | 5:20 | 2019-06-13 | 2019-07-05 |

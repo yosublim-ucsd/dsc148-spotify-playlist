@@ -1,12 +1,12 @@
 {
   "description": "This is Katy Perry. The essential tracks, all in one playlist.",
-  "num_followers": 1151751,
+  "num_followers": 1151363,
   "original_name": "This Is Katy Perry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGI5ODQwZDlmNGM4MDU1ODEwNWYwYmE5ZjM2ZjExYWMy",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGQ2NzhmM2I4NTA5Yjg5M2U2MWM3Njg1ZWVkMDM3NThm",
   "tracks": [
     {
       "added_at": null,
@@ -735,22 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 198680,
-      "name": "Roulette",
-      "url": "https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Smile",
         "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
       },
@@ -783,6 +767,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 198680,
+      "name": "Roulette",
+      "url": "https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -795,22 +795,6 @@
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 214960,
-      "name": "Hey Hey Hey",
-      "url": "https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu"
     },
     {
       "added_at": null,
@@ -847,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 214960,
+      "name": "Hey Hey Hey",
+      "url": "https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -863,22 +863,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        }
-      ],
-      "duration_ms": 250506,
-      "name": "Witness",
-      "url": "https://open.spotify.com/track/6EzuVdWmzgOBmqHpzbbzfQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Never Worn White",
         "url": "https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 225039,
       "name": "Never Worn White",
       "url": "https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        }
+      ],
+      "duration_ms": 189772,
+      "name": "Cry About It Later",
+      "url": "https://open.spotify.com/track/7cLrrJ1Dk6WAQyDIj9j26A"
     }
   ],
   "unique_name": "This Is Katy Perry",

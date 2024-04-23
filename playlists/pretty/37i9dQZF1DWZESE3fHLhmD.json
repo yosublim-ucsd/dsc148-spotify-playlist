@@ -1,6 +1,6 @@
 {
   "description": "Endlich Fr\u00fchling!",
-  "num_followers": 1290211,
+  "num_followers": 1289795,
   "original_name": "Fr\u00fchlingsgef\u00fchle",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 177954,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
-    },
-    {
-      "added_at": "2024-04-19 06:07:07",
-      "album": {
         "name": "What Do You Think About the Car?",
         "url": "https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 252306,
       "name": "Brazil",
       "url": "https://open.spotify.com/track/4sNG6zQBmtq7M8aeeKJRMQ"
+    },
+    {
+      "added_at": "2024-04-19 06:07:07",
+      "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 177954,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 232133,
-      "name": "Deeper Well",
-      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
-    },
-    {
-      "added_at": "2024-04-19 06:07:07",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 213573,
       "name": "Hell N Back",
       "url": "https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD"
+    },
+    {
+      "added_at": "2024-04-19 06:07:07",
+      "album": {
+        "name": "Deeper Well",
+        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 232133,
+      "name": "Deeper Well",
+      "url": "https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
+        "name": "THE FIRST TIME",
+        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 169990,
+      "name": "BLEED",
+      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+    },
+    {
+      "added_at": "2024-04-19 06:07:07",
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "THE FIRST TIME",
-        "url": "https://open.spotify.com/album/63IolVUykZCHMlu2zu9jHS"
+        "name": "Spite",
+        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
         }
       ],
-      "duration_ms": 169990,
-      "name": "BLEED",
-      "url": "https://open.spotify.com/track/2m6HgwjakjAXimujX8m4sk"
+      "duration_ms": 162205,
+      "name": "Spite",
+      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -803,18 +819,18 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "Spite",
-        "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
+        "name": "What Love Is",
+        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
       },
       "artists": [
         {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
         }
       ],
-      "duration_ms": 162205,
-      "name": "Spite",
-      "url": "https://open.spotify.com/track/0XHFylA18yuwGVCfJfq4dw"
+      "duration_ms": 220245,
+      "name": "What Love Is",
+      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -851,18 +867,18 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "What Love Is",
-        "url": "https://open.spotify.com/album/7uCo58WB7trmYTPZteUUzS"
+        "name": "Comfortable",
+        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
       },
       "artists": [
         {
-          "name": "Zimmer90",
-          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+          "name": "Victor Ray",
+          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
         }
       ],
-      "duration_ms": 220245,
-      "name": "What Love Is",
-      "url": "https://open.spotify.com/track/11RJg9AillccZgJYZ47L5f"
+      "duration_ms": 228961,
+      "name": "Comfortable",
+      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -879,22 +895,6 @@
       "duration_ms": 146640,
       "name": "LOVE AGAIN",
       "url": "https://open.spotify.com/track/4sx6NRwL6Ol3V6m9exwGlQ"
-    },
-    {
-      "added_at": "2024-04-19 06:07:07",
-      "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
-      },
-      "artists": [
-        {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
-        }
-      ],
-      "duration_ms": 228961,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "Strawberry eyes",
-        "url": "https://open.spotify.com/album/7icn8Fv9Wy1yHHwoA7Yvxa"
+        "name": "Mexico",
+        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
       },
       "artists": [
         {
-          "name": "Emilio",
-          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
+          "name": "Goth Babe",
+          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
+        },
+        {
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
         }
       ],
-      "duration_ms": 158840,
-      "name": "Strawberry eyes",
-      "url": "https://open.spotify.com/track/55g4rnkPWozcmWW2a8MNMl"
+      "duration_ms": 176632,
+      "name": "Mexico",
+      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -1051,22 +1055,18 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "Mexico",
-        "url": "https://open.spotify.com/album/3KU0NNhdNFksujfg39R6D9"
+        "name": "Strawberry eyes",
+        "url": "https://open.spotify.com/album/7icn8Fv9Wy1yHHwoA7Yvxa"
       },
       "artists": [
         {
-          "name": "Goth Babe",
-          "url": "https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3"
-        },
-        {
-          "name": "Surfaces",
-          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          "name": "Emilio",
+          "url": "https://open.spotify.com/artist/1HFnM3rs2ZJWVL9q273DYF"
         }
       ],
-      "duration_ms": 176632,
-      "name": "Mexico",
-      "url": "https://open.spotify.com/track/5e9f2mQ8DYtZa9UcrZZRNt"
+      "duration_ms": 158840,
+      "name": "Strawberry eyes",
+      "url": "https://open.spotify.com/track/55g4rnkPWozcmWW2a8MNMl"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
+        "name": "The Roads",
+        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
+      },
+      "artists": [
+        {
+          "name": "Jonah Kagen",
+          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
+        }
+      ],
+      "duration_ms": 250597,
+      "name": "The Roads",
+      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
+    },
+    {
+      "added_at": "2024-04-19 06:07:07",
+      "album": {
         "name": "Cigarettes & Wine (feat. Holly Humberstone)",
         "url": "https://open.spotify.com/album/0KUNjsa4YtmFilHMgwLzfo"
       },
@@ -1187,22 +1203,6 @@
       "duration_ms": 181666,
       "name": "Cigarettes & Wine (feat. Holly Humberstone)",
       "url": "https://open.spotify.com/track/4eAV1ZCliRotEcjzEbOWNW"
-    },
-    {
-      "added_at": "2024-04-19 06:07:07",
-      "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/2QRL4SnhoN9c6bK8R93o1k"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250597,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/1z8cabK9f2r2pXWx30ErUW"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-04-19 06:07:07",
       "album": {
-        "name": "House On Fire",
-        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
-      },
-      "artists": [
-        {
-          "name": "Mimi Webb",
-          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
-        }
-      ],
-      "duration_ms": 140803,
-      "name": "House On Fire",
-      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
-    },
-    {
-      "added_at": "2024-04-19 06:07:07",
-      "album": {
         "name": "Fu\u00df baumeln",
         "url": "https://open.spotify.com/album/2BukPk8h55bGp9vildXq57"
       },
@@ -1291,6 +1275,38 @@
       "duration_ms": 147046,
       "name": "Fu\u00df baumeln",
       "url": "https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV"
+    },
+    {
+      "added_at": "2024-04-19 06:07:07",
+      "album": {
+        "name": "House On Fire",
+        "url": "https://open.spotify.com/album/4zZ3DDacL1IvmaozxYEGuL"
+      },
+      "artists": [
+        {
+          "name": "Mimi Webb",
+          "url": "https://open.spotify.com/artist/3GxKJzJK4LpsYGXQrw77wz"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "House On Fire",
+      "url": "https://open.spotify.com/track/2iHsdUnmKGIuc9oRE3DfgJ"
+    },
+    {
+      "added_at": "2024-04-19 06:07:07",
+      "album": {
+        "name": "HERicane",
+        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
     },
     {
       "added_at": "2024-04-19 06:07:07",
@@ -1455,22 +1471,6 @@
       "duration_ms": 184457,
       "name": "20s",
       "url": "https://open.spotify.com/track/62Vz24WH66GYadBPFJKwT7"
-    },
-    {
-      "added_at": "2024-04-19 06:07:07",
-      "album": {
-        "name": "HERicane",
-        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
-      },
-      "artists": [
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
-        }
-      ],
-      "duration_ms": 227368,
-      "name": "HERicane",
-      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
     },
     {
       "added_at": "2024-04-19 06:07:07",

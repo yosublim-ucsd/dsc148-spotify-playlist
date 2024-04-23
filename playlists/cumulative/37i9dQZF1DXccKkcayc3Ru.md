@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-56 songs - 3 hr 36 min
+57 songs - 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Blue in Green](https://open.spotify.com/track/2hxednAIH7H2fo1IcVG9Nv) | [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE), [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs) | [Blue in Green](https://open.spotify.com/album/3nhfj5QWyti6p5Qu67sT9z) | 4:41 | 2024-04-18 |  |
 | [Blue in Green](https://open.spotify.com/track/6EiGHN6OX3rPyPdqymU3V7) | [SUKISHA](https://open.spotify.com/artist/2Ea7qJOrKOD6OYkXNEUwrs), [kiki vivi lily](https://open.spotify.com/artist/5D21ZneiMBeuS22kVg2sxE) | [Over the Rainbow](https://open.spotify.com/album/550OQP4Yq1H4UQCW2WrLk0) | 4:41 | 2024-04-01 | 2024-04-19 |
 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 | 2024-04-01 |  |
+| [Echo](https://open.spotify.com/track/38IFz4cwgI4TzpXihVsc9s) | [PAELLAS](https://open.spotify.com/artist/6ELS2XYR8tvJdQyEx8s3ZT) | [Echo](https://open.spotify.com/album/2BQEHmKCpTfHesUSXBZhjd) | 5:40 | 2024-04-22 |  |
 | [Final Girl](https://open.spotify.com/track/3mNo6Wh3QfKh8yBymGumBA) | [Johnnivan](https://open.spotify.com/artist/27JM9HvAAcjGJPZCoZLgWe) | [Final Girl](https://open.spotify.com/album/0GZZCnHOMUx134tHJqocIm) | 3:30 | 2024-04-01 |  |
 | [From Me To You](https://open.spotify.com/track/2uvwFXISvfrm2v7DKiuV5J) | [Yaffle](https://open.spotify.com/artist/2BbGifSrMGEgvUXLypUWzV) | [After the chaos](https://open.spotify.com/album/2WmbGJLnpIcfwgTHW1Uq9H) | 5:42 | 2024-04-01 |  |
 | [hanashi](https://open.spotify.com/track/1B3d52exw8bkJFB9V1Y9Bo) | [YOOKs](https://open.spotify.com/artist/6vYpkbuf0haDeCdzsAhO1C) | [Newtownage](https://open.spotify.com/album/0SE06MlQwHvPN3kl2DkBUa) | 4:24 | 2024-04-01 |  |

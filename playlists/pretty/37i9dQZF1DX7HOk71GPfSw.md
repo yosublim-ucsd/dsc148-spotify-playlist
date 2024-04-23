@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > these songs will break your phone\. ft\. Odetari x Ayesha Erotica
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,212 likes - 115 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,366 likes - 115 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
-| 2 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 |
-| 3 | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk) | 1:56 |
+| 1 | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/track/0hmd7it20lGXWfNPOUcYUp) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [BREAK A NECK \(w/ Ayesha Erotica\)](https://open.spotify.com/album/6fzW2bpKzn9SQUbjq2GWgk) | 1:56 |
+| 2 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 |
+| 3 | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/track/1EycQzSpakKNsHgMbTMMKo) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Addison Rae](https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [The von dutch remix with addison rae and a.g\. cook](https://open.spotify.com/album/5Pj0xqgA9D5lJ8ZQuAe3ft) | 2:37 |
 | 4 | [Princess](https://open.spotify.com/track/3MRBeskZBQ7j9W9CJgNN19) | [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco), [Petey Plastic](https://open.spotify.com/artist/59R8GbaEIJH0vO9taJMmZQ) | [Princess](https://open.spotify.com/album/4zVPyvVpXQwZAIqPa1MPx3) | 2:14 |
 | 5 | [Obsessed](https://open.spotify.com/track/2C4r9G7FE0BiYQluzEPQ5S) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [Obsessed](https://open.spotify.com/album/4fIV9iUM0W0A1GXuEQuETh) | 2:27 |
 | 6 | [Soulbreaker](https://open.spotify.com/track/0aLfKWtwCRGrzb0Rg6c8tF) | [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8) | [Soulbreaker](https://open.spotify.com/album/7wHsf7I3cYPiC6KKWX5acW) | 3:54 |
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 114 | [Affirmations](https://open.spotify.com/track/5BgsNewvpXArLhK1sxZyPB) | [Hannah Diamond](https://open.spotify.com/artist/3sXErEOw7EmO6Sj7EgjHdU) | [Affirmations](https://open.spotify.com/album/6fswdiE5noqpRbyZCj3fnm) | 3:34 |
 | 115 | [Lost Everything](https://open.spotify.com/track/55gIwFTMl1c3ZuesPM0VHo) | [Thy Slaughter](https://open.spotify.com/artist/4tXmMY3u0qbzec7aocHPPt), [A\. G\. Cook](https://open.spotify.com/artist/335TWGWGFan4vaacJzSiU8), [EASYFUN](https://open.spotify.com/artist/2IRRnJ7AkcLnqMX8jvQqrW) | [Lost Everything / Reign](https://open.spotify.com/album/6n6uqHl0JaMqDe2sFErG83) | 4:01 |
 
-Snapshot ID: `MTcxMzU1ODk1MiwwMDAwMDAwMDdjYmM0OTZiZjQzNzk4MTQwZGFlN2NlOTk3OTMxZmQz`
+Snapshot ID: `MTcxMzgwNTkyOSwwMDAwMDAwMDJmZmEyNWEyZDVlZWJiOTliOGM2ODkyNGU4YjExYWJj`

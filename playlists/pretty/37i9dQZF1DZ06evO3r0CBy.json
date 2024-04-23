@@ -1,12 +1,12 @@
 {
   "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
-  "num_followers": 37279,
+  "num_followers": 37283,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDg3YmUzNGRlY2VjYmRmMjQ3ZDdiNjI3ZGIxYjA4MGRk",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDU1ODM4ODAzYzI1NTBiYmE4NTI4NjFhYTMyYzQ5MTI5",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 229413,
-      "name": "Sugar Man",
-      "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"
+      "duration_ms": 185586,
+      "name": "Rich Folks Hoax",
+      "url": "https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF"
     },
     {
       "added_at": null,
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 185586,
-      "name": "Rich Folks Hoax",
-      "url": "https://open.spotify.com/track/3S36aqn9EqvHkRCAa86oiF"
+      "duration_ms": 229413,
+      "name": "Sugar Man",
+      "url": "https://open.spotify.com/track/17nOJOcPbcl4sKzM2yyYDp"
     },
     {
       "added_at": null,

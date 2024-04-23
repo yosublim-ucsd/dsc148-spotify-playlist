@@ -2,7 +2,7 @@
 
 ### [This Is Peggy Gou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
 
-> This Is Peggy Gou\. Los temas esenciales, todos en una lista.
+> This is Peggy Gou\. The essential tracks, all in one playlist.
 
 37 songs - 3 hr 19 min
 

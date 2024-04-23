@@ -2,7 +2,7 @@
 
 ### [This Is Sum 41](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bHrKp)
 
-> This Is Sum 41\. Los temas esenciales, todos en una lista.
+> This is Sum 41。アーティストの代表曲をひとつのプレイリストに。
 
 73 songs - 3 hr 56 min
 

@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 72500,
+  "num_followers": 72587,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -243,6 +243,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "Esse \u00c9 O Rem\u00e9dio",
+        "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
+      },
+      "artists": [
+        {
+          "name": "Planta E Raiz",
+          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
+        }
+      ],
+      "duration_ms": 235933,
+      "name": "Com Certeza",
+      "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Vai Passar Mal",
         "url": "https://open.spotify.com/album/2HTrcsRAZAfD28QdqNc2jT"
       },
@@ -259,22 +275,6 @@
       "duration_ms": 170649,
       "name": "Corpo Sensual (feat. Mateus Carrilho)",
       "url": "https://open.spotify.com/track/4kkQGhScJDzNIIGavQE9SN"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Esse \u00c9 O Rem\u00e9dio",
-        "url": "https://open.spotify.com/album/3COaHypWRhe0mwPBwFr2o4"
-      },
-      "artists": [
-        {
-          "name": "Planta E Raiz",
-          "url": "https://open.spotify.com/artist/5fKHm5RVUWIIirTGZlwGeO"
-        }
-      ],
-      "duration_ms": 235933,
-      "name": "Com Certeza",
-      "url": "https://open.spotify.com/track/3lnQYHdFC4TwGVC0LSTu8q"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -567,6 +567,22 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
+        "name": "2 \u00e9 Demais",
+        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
+      },
+      "artists": [
+        {
+          "name": "Kid Abelha",
+          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Pintura \u00edntima - Compacto",
+      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
         "name": "Conversa Fiada",
         "url": "https://open.spotify.com/album/2V0ZVQuPdzePp6hO19WFWm"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 264200,
       "name": "Canto Das Tr\u00eas Ra\u00e7as",
       "url": "https://open.spotify.com/track/7wQTptwkkTHXjBF2JSZlHY"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "2 \u00e9 Demais",
-        "url": "https://open.spotify.com/album/7tgo3DT9js4ycqryQWJ7dG"
-      },
-      "artists": [
-        {
-          "name": "Kid Abelha",
-          "url": "https://open.spotify.com/artist/4bOZtegYNmYOe3gMgPtt0H"
-        }
-      ],
-      "duration_ms": 267960,
-      "name": "Pintura \u00edntima - Compacto",
-      "url": "https://open.spotify.com/track/0kocdEM8L4eBJFmfhrGoru"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -915,22 +915,6 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "20 Grandes \u00caxitos",
-        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
-      },
-      "artists": [
-        {
-          "name": "Daniela Mercury",
-          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "Swing da Cor",
-      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
         "name": "Para\u00edso da Miragem",
         "url": "https://open.spotify.com/album/62WF6z5NAbTK5sPOc3BxRy"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 228895,
       "name": "Paraquedas",
       "url": "https://open.spotify.com/track/0S7g8mY7IsSvP4g8YouHel"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "20 Grandes \u00caxitos",
+        "url": "https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R"
+      },
+      "artists": [
+        {
+          "name": "Daniela Mercury",
+          "url": "https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "Swing da Cor",
+      "url": "https://open.spotify.com/track/6XQBY4dYT9Q8AZJPQK9RRQ"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1051,18 +1051,18 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "M\u00e1quina de Escrever M\u00fasica (20th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7o5qJh2A57nroT64dUV2vz"
+        "name": "Mudei de Ideia",
+        "url": "https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw"
       },
       "artists": [
         {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+          "name": "Antonio Carlos & Jocafi",
+          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
         }
       ],
-      "duration_ms": 297573,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1"
+      "duration_ms": 141800,
+      "name": "Kabaluere",
+      "url": "https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1087,18 +1087,34 @@
     {
       "added_at": "2022-09-22 18:13:04",
       "album": {
-        "name": "Mudei de Ideia",
-        "url": "https://open.spotify.com/album/0zblsLfCD9smWpW0gZhgaw"
+        "name": "Emilio Santiago (Remastered)",
+        "url": "https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU"
       },
       "artists": [
         {
-          "name": "Antonio Carlos & Jocafi",
-          "url": "https://open.spotify.com/artist/6we2u0wHu4S9H6A1LVZ6LA"
+          "name": "Em\u00edlio Santiago",
+          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
         }
       ],
-      "duration_ms": 141800,
-      "name": "Kabaluere",
-      "url": "https://open.spotify.com/track/3vSb3Tq7A51VIYfZDSEEBs"
+      "duration_ms": 173506,
+      "name": "Bananeira (Remastered)",
+      "url": "https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8"
+    },
+    {
+      "added_at": "2022-09-22 18:13:04",
+      "album": {
+        "name": "M\u00e1quina de Escrever M\u00fasica (20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7o5qJh2A57nroT64dUV2vz"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "duration_ms": 297573,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/5bYc3SytNlaeXiprYUrPK1"
     },
     {
       "added_at": "2022-09-22 18:13:04",
@@ -1119,22 +1135,6 @@
       "duration_ms": 142653,
       "name": "Cigano - Instrumental",
       "url": "https://open.spotify.com/track/2REfZQ03ryu2zaQAcJoxUQ"
-    },
-    {
-      "added_at": "2022-09-22 18:13:04",
-      "album": {
-        "name": "Emilio Santiago (Remastered)",
-        "url": "https://open.spotify.com/album/2FlDGXezVaILbnqmFIb2vU"
-      },
-      "artists": [
-        {
-          "name": "Em\u00edlio Santiago",
-          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
-        }
-      ],
-      "duration_ms": 173506,
-      "name": "Bananeira (Remastered)",
-      "url": "https://open.spotify.com/track/3Z2Thcr0SrxKcQpvouDpR8"
     },
     {
       "added_at": "2022-09-22 18:13:04",

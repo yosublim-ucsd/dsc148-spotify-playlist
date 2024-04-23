@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 274,
+  "2024-04-23": 273,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/2849WwDsNlt9FpSLivBw2v\">Waleria Le\u00e3o</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Waleria Le\u00e3o",
@@ -1097,7 +1097,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 157878,
       "name": "Atr\u00e1s de um Amor",
       "url": "https://open.spotify.com/track/4ZknlAcDU1YuLaWAJc9CtJ"
@@ -1303,7 +1303,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 164153,
       "name": "Barbie",
       "url": "https://open.spotify.com/track/7yTdaQFsYrKpd2pGsXhjeo"
@@ -6111,7 +6111,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-07",
+      "date_removed": null,
       "duration_ms": 163660,
       "name": "Negociando o Fim",
       "url": "https://open.spotify.com/track/5IUB06VcigEHjYWRyhMqtL"
@@ -6859,6 +6859,24 @@
       "duration_ms": 199935,
       "name": "Para - Ao Vivo",
       "url": "https://open.spotify.com/track/4bEJQfFBOILBCnmfISI6vc"
+    },
+    {
+      "album": {
+        "name": "Bar da Sofr\u00eancia",
+        "url": "https://open.spotify.com/album/5lBPPg8SHsgAFyDOVw9kDv"
+      },
+      "artists": [
+        {
+          "name": "Icaro Moraes",
+          "url": "https://open.spotify.com/artist/2kAlzxn6PmKm9KBfQspeih"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175601,
+      "name": "Para de Me Tratar Bem",
+      "url": "https://open.spotify.com/track/5BvJoOxUQooOkhJtAVD1sF"
     },
     {
       "album": {

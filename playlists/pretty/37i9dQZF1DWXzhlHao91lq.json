@@ -1,6 +1,6 @@
 {
   "description": "\u4ee5\u8f15\u5feb\u53c8\u5bcc\u539f\u91ce\u6c23\u606f\u7684\u6c11\u8b20\u642d\u914d\u5348\u8336\uff0c\u8b93\u8033\u969b\u3001\u9f52\u9830\u4e00\u540c\u7559\u9999\uff0c\u597d\u5fc3\u60c5\u958b\u82b1\u7d50\u679c\u3002",
-  "num_followers": 71764,
+  "num_followers": 71730,
   "original_name": "\u82b1\u8349\u4e0b\u5348\u8336",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-04-22 01:02:17",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224255,
-      "name": "Two Ghosts - Recorded at Metropolis Studios, London",
-      "url": "https://open.spotify.com/track/1GDF5AusV7p0wwi4OVNz3i"
-    },
-    {
-      "added_at": "2024-04-22 01:02:17",
-      "album": {
         "name": "Love Adolescent",
         "url": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 263633,
       "name": "The Simple Things",
       "url": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
+    },
+    {
+      "added_at": "2024-04-22 01:02:17",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/7neiWgd56IO7vi2cRUP8Tj"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224255,
+      "name": "Two Ghosts - Recorded at Metropolis Studios, London",
+      "url": "https://open.spotify.com/track/1GDF5AusV7p0wwi4OVNz3i"
     },
     {
       "added_at": "2024-04-22 01:02:17",
@@ -535,6 +535,22 @@
     {
       "added_at": "2024-04-22 01:02:17",
       "album": {
+        "name": "Hard To Be Human",
+        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
+      },
+      "artists": [
+        {
+          "name": "Anson Seabra",
+          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
+        }
+      ],
+      "duration_ms": 170414,
+      "name": "Hard To Be Human",
+      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+    },
+    {
+      "added_at": "2024-04-22 01:02:17",
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 195752,
       "name": "Found",
       "url": "https://open.spotify.com/track/1RDz34JJrGPn5msAXvnvoO"
-    },
-    {
-      "added_at": "2024-04-22 01:02:17",
-      "album": {
-        "name": "Hard To Be Human",
-        "url": "https://open.spotify.com/album/7Fo8WHPyK3fmdUb2sfHW71"
-      },
-      "artists": [
-        {
-          "name": "Anson Seabra",
-          "url": "https://open.spotify.com/artist/2jHp7gQArCQrlMvdrIVFCg"
-        }
-      ],
-      "duration_ms": 170414,
-      "name": "Hard To Be Human",
-      "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
     },
     {
       "added_at": "2024-04-22 01:02:17",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-04-22 01:02:17",
       "album": {
-        "name": "Aisle 6",
-        "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
-      },
-      "artists": [
-        {
-          "name": "Sadie Jean",
-          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
-        }
-      ],
-      "duration_ms": 185390,
-      "name": "Aisle 6",
-      "url": "https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav"
-    },
-    {
-      "added_at": "2024-04-22 01:02:17",
-      "album": {
         "name": "Home Tapes",
         "url": "https://open.spotify.com/album/6ZGs1cTdS7wvHa10DicJuw"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 219880,
       "name": "Don't You Worry",
       "url": "https://open.spotify.com/track/5XaGqclLmeuH0EBg75Li0n"
+    },
+    {
+      "added_at": "2024-04-22 01:02:17",
+      "album": {
+        "name": "Aisle 6",
+        "url": "https://open.spotify.com/album/5uBb7hM05jypCsZo2Kd1ve"
+      },
+      "artists": [
+        {
+          "name": "Sadie Jean",
+          "url": "https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d"
+        }
+      ],
+      "duration_ms": 185390,
+      "name": "Aisle 6",
+      "url": "https://open.spotify.com/track/6imuRuYPVTDg3XIKLrAuav"
     },
     {
       "added_at": "2024-04-22 01:02:17",
@@ -903,6 +903,22 @@
     {
       "added_at": "2024-04-22 01:02:17",
       "album": {
+        "name": "hungover sunday",
+        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
+      },
+      "artists": [
+        {
+          "name": "Christian French",
+          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
+        }
+      ],
+      "duration_ms": 180402,
+      "name": "hungover sunday",
+      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
+    },
+    {
+      "added_at": "2024-04-22 01:02:17",
+      "album": {
         "name": "Don't Stop Believing",
         "url": "https://open.spotify.com/album/7lioeM9YLlGipkbkfFxS3R"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
-    },
-    {
-      "added_at": "2024-04-22 01:02:17",
-      "album": {
-        "name": "hungover sunday",
-        "url": "https://open.spotify.com/album/5UeQ6n7MrjoThJkklnNU1a"
-      },
-      "artists": [
-        {
-          "name": "Christian French",
-          "url": "https://open.spotify.com/artist/7naAJDAh7AZnf18YYfQruM"
-        }
-      ],
-      "duration_ms": 180402,
-      "name": "hungover sunday",
-      "url": "https://open.spotify.com/track/3jGlOBjMJiNDWhdqRJl5dK"
     },
     {
       "added_at": "2024-04-22 01:02:17",
@@ -983,22 +983,6 @@
     {
       "added_at": "2024-04-22 01:02:17",
       "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
-      },
-      "artists": [
-        {
-          "name": "Isabella Celander",
-          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
-        }
-      ],
-      "duration_ms": 186334,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
-    },
-    {
-      "added_at": "2024-04-22 01:02:17",
-      "album": {
         "name": "Two Punks In Love",
         "url": "https://open.spotify.com/album/3koAGDxVGllCXSbgS4mI9U"
       },
@@ -1031,22 +1015,18 @@
     {
       "added_at": "2024-04-22 01:02:17",
       "album": {
-        "name": "You Belong To Somebody Else",
-        "url": "https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW"
+        "name": "Stargazing",
+        "url": "https://open.spotify.com/album/1AEKfZUlivdz3cBmO1Zeky"
       },
       "artists": [
         {
-          "name": "PJ Harding",
-          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
-        },
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          "name": "Isabella Celander",
+          "url": "https://open.spotify.com/artist/6sQYT9B066RITdelCECQuE"
         }
       ],
-      "duration_ms": 199144,
-      "name": "You Belong To Somebody Else",
-      "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
+      "duration_ms": 186334,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/4sAX65hbNtEC1lceCdGuMt"
     },
     {
       "added_at": "2024-04-22 01:02:17",
@@ -1063,6 +1043,26 @@
       "duration_ms": 180545,
       "name": "Beautiful Girl - Recorded at Kodama Studios, Philippines",
       "url": "https://open.spotify.com/track/2rSEuTXuRnGOHcU5JuoW13"
+    },
+    {
+      "added_at": "2024-04-22 01:02:17",
+      "album": {
+        "name": "You Belong To Somebody Else",
+        "url": "https://open.spotify.com/album/0KFJcWV5MW76YWSfKS83rW"
+      },
+      "artists": [
+        {
+          "name": "PJ Harding",
+          "url": "https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP"
+        },
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "duration_ms": 199144,
+      "name": "You Belong To Somebody Else",
+      "url": "https://open.spotify.com/track/20R40KmQrdwKES14PmDwaf"
     },
     {
       "added_at": "2024-04-22 01:02:17",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-22 01:02:17",
       "album": {
-        "name": "Mood (Acoustic)",
-        "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 175517,
-      "name": "Mood - Acoustic",
-      "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
-    },
-    {
-      "added_at": "2024-04-22 01:02:17",
-      "album": {
         "name": "the boy",
         "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 145298,
       "name": "confidence",
       "url": "https://open.spotify.com/track/1rMEkT856LkjGIHQSGYQxX"
+    },
+    {
+      "added_at": "2024-04-22 01:02:17",
+      "album": {
+        "name": "Mood (Acoustic)",
+        "url": "https://open.spotify.com/album/69dfiUTykV6DzWoP8vzgdc"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 175517,
+      "name": "Mood - Acoustic",
+      "url": "https://open.spotify.com/track/50bNtjatwTxRbw6gMncgcr"
     },
     {
       "added_at": "2024-04-22 01:02:17",

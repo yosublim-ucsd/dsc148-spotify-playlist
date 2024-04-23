@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 
 > Músicas para dançar e louvar com os pequenos adoradores.
 
-[Spotify](https://open.spotify.com/user/spotify) - 66,563 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 66,553 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dança do Canguru](https://open.spotify.com/track/1U4Vl0LRSvWtfBtRI6bnBN) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 3](https://open.spotify.com/album/6dtJQolCzJVqKjpBE72gpg) | 2:53 |
 | 2 | [Aos Olhos do Pai](https://open.spotify.com/track/28ATy9KFpbfUujbB8ZMkWc) | [Crianças Diante do Trono](https://open.spotify.com/artist/1DrV98ubDph1jAWq7ikcF5) | [Crianças Diante do Trono](https://open.spotify.com/album/0NQ0gD4kZUZ7NR76X1QCqk) | 4:32 |
 | 3 | [Coral dos Bichos](https://open.spotify.com/track/0pWnhGVmpCVXcKe4DZnQXR) | [Minha Vida é Uma Viagem](https://open.spotify.com/artist/1o0rLhiJRM3IFLGlqBVolR) | [Minha Vida É uma Viagem 6](https://open.spotify.com/album/1A7Sa3Wv1F3XhTcaLug07F) | 3:51 |
-| 4 | [Minha Pequena Luz](https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Minha Pequena Luz](https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9) | 2:02 |
+| 4 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
 | 5 | [Eu Nasci](https://open.spotify.com/track/2dE7xXqKFCUAnL8njBXUrI) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Eu Nasci](https://open.spotify.com/album/2HmqtDhNBSUKR42VLi2Evl) | 3:34 |
 | 6 | [Corpo Perfeito](https://open.spotify.com/track/0ppgTngQMJwHyM5DTjo8nv) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 2:54 |
 | 7 | [A Alegria Está no Coração](https://open.spotify.com/track/61PU43JNFgjn1zuAaAz96d) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 6](https://open.spotify.com/album/1cAgUMSQibfGNArPNRIJKn) | 3:23 |
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX52rW82P8TUE.md) - [plain]
 | 11 | [Dança do Pinguim](https://open.spotify.com/track/4xIhkjavXmWmlUSBOtEqUq) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia](https://open.spotify.com/album/5RFApbqCFVwb3ABVj8Q8w4) | 2:56 |
 | 12 | [Tesouro](https://open.spotify.com/track/0d7iluBpPMuBSFxrhqfDyF) | [Vaneyse](https://open.spotify.com/artist/3S1zrPd36u0KRCPF6HUAOl) | [Tesouro](https://open.spotify.com/album/61v4qQZaJwjprUBIJx9c1v) | 3:25 |
 | 13 | [Sapo Abençoado](https://open.spotify.com/track/6udRCH0KMT8k4GrXAsoI6e) | [Bruna Karla](https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR) | [Bruna Kids](https://open.spotify.com/album/0W7kUdHwTI6L17XHH73HY2) | 3:06 |
-| 14 | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/track/3lRfG9FccT67tuGboXeEZs) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Cabeça, Ombro, Joelho e Pé](https://open.spotify.com/album/1F1pwnUBYMI9vFVpIQF97W) | 2:12 |
+| 14 | [Minha Pequena Luz](https://open.spotify.com/track/1fr5LcT7TguvSZJRlNQNNv) | [3 Palavrinhas](https://open.spotify.com/artist/6apif9UbguC36klKtjMKVL) | [Minha Pequena Luz](https://open.spotify.com/album/6CnrRYF7ONjhhmCVzjRkg9) | 2:02 |
 | 15 | [Destino ao Céu](https://open.spotify.com/track/25nCwxGYMiwJeEbqitBkjn) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Destino ao Céu](https://open.spotify.com/album/7mGVlHAO59mS0XChbEDRUm) | 3:46 |
 | 16 | [Pedro, Tiago e João no Barquinho](https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Aline Barros e Cia 2](https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr) | 3:09 |
 | 17 | [Erguei as Mãos](https://open.spotify.com/track/7GTVVZiren9LxoyNW4pATK) | [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Mara Lima e Seus Amiguinhos, Vol\. 5](https://open.spotify.com/album/5hCu7mordTwYqr2n2rW0LR) | 3:17 |

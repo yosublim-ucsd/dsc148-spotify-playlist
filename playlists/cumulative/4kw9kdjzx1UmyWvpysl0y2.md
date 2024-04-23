@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-708 songs - 1 day 16 hr 52 min
+709 songs - 1 day 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Deja Reve](https://open.spotify.com/track/1nkpXkr1Qacmp2BPd6mgct) | [GG Magree](https://open.spotify.com/artist/54pgkpWVgQYbQXD8bkUP8n) | [Deja Reve](https://open.spotify.com/album/1hKAyeVJEnIJWZtKOkhnsu) | 2:48 | 2022-03-21 | 2022-06-03 |
 | [destination heartbreak](https://open.spotify.com/track/52jU1xu6sYArAcWufqlpyK) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63) | [destination heartbreak pt\. 2](https://open.spotify.com/album/3YHaDF9skvzUA0OvqzTZD8) | 3:47 | 2023-02-10 | 2023-05-03 |
 | [Different](https://open.spotify.com/track/3rnFEiW9efHwnzsb9KzUVd) | [Fløa](https://open.spotify.com/artist/3XgQiERzlGzUe286O2jo7I), [OAI](https://open.spotify.com/artist/518xSxGVtLL5ck9r5xzasg) | [Different](https://open.spotify.com/album/568K9K7mWXC3FDBcPKQfb5) | 3:20 | 2022-10-21 | 2023-01-11 |
-| [Digital Friends](https://open.spotify.com/track/0ygnGDRZjKhO9nOXo2WlLI) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Digital Friends](https://open.spotify.com/album/5BssQ7HjIK7tyeiKLBVWPs) | 3:41 | 2024-02-01 |  |
+| [Digital Friends](https://open.spotify.com/track/0ygnGDRZjKhO9nOXo2WlLI) | [No Mana](https://open.spotify.com/artist/20yuGdfbRkW0HH3OfG1Nkg), [SOFI](https://open.spotify.com/artist/5JQzXeT8vXc1N4Y6tGenCb) | [Digital Friends](https://open.spotify.com/album/5BssQ7HjIK7tyeiKLBVWPs) | 3:41 | 2024-02-01 | 2024-04-23 |
 | [Dilemma](https://open.spotify.com/track/1B9t3ewu5mPiFHbWcGudRk) | [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377), [Bianca](https://open.spotify.com/artist/43BmOTbp0fKzSvC4YxykMl) | [Dilemma](https://open.spotify.com/album/1LEREp3j92WCGRMt93W3GD) | 3:29 | 2022-10-17 | 2022-12-17 |
 | [Ding Dong](https://open.spotify.com/track/4pRnMMMzvjj9uqMZa0YO7U) | [Crankdat](https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb) | [Ding Dong](https://open.spotify.com/album/4g7lD5NvinPkSPj5PElwdp) | 2:57 | 2022-06-23 | 2022-09-07 |
 | [Dive](https://open.spotify.com/track/6q0Dab9y6ztIqXXMuqx9Oe) | [Into The Ether](https://open.spotify.com/artist/3d4kaVkfUluAiKUxDWDz5v), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Dive](https://open.spotify.com/album/5PluCcUGUOuGdODZhrYkRH) | 4:04 | 2022-08-12 | 2022-10-26 |
@@ -567,6 +567,7 @@
 | [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 | 2023-02-18 |
 | [Someone Else \- Blanke Remix](https://open.spotify.com/track/4ht1wtZBmlyLAVDivgVYok) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e), [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT) | [Overthrown \(The Thrones of Blood Remix Album\)](https://open.spotify.com/album/0uX6vlfx2rgxUX5cCZ1eXE) | 4:26 | 2023-12-01 | 2024-03-15 |
 | [Someone To Forget](https://open.spotify.com/track/6ieSmmi7H6BdBowVhMOZ6F) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Someone To Forget](https://open.spotify.com/album/193cXUcTyX1JDg1VF3mgXO) | 4:01 | 2023-05-12 | 2023-08-04 |
+| [Someone To Forget \- BUSTED by Herobust](https://open.spotify.com/track/4upSQkSLPZjoUAAnqhxlry) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6), [Herobust](https://open.spotify.com/artist/43tAs3kRWvyu1B7eZOv2pp) | [Together As One \(Remixes\)](https://open.spotify.com/album/3dM2A27Ki3TlqHMVaaxyb3) | 4:41 | 2024-04-22 |  |
 | [Sound & Silence](https://open.spotify.com/track/3VVdmxspjqeSNTQaOrhGbX) | [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld), [Soultorque](https://open.spotify.com/artist/43Oxp8D7P6sJWfbmrh1cif), [flowanastasia](https://open.spotify.com/artist/6AAhs4ooZ8UUIuuhWj1ZjM) | [Sound & Silence](https://open.spotify.com/album/1sOEzIzCRv7BYK8jbEU4Rv) | 4:19 | 2022-07-01 | 2022-09-15 |
 | [sound therapy](https://open.spotify.com/track/7lEefCbeaFBzMJZvsEwy27) | [zensei ゼンセー](https://open.spotify.com/artist/6T9kdEIYDzBGxqO6X1Fl63), [Delaney Kai](https://open.spotify.com/artist/4R9LxtRMT4XlrKbbrvEHNl) | [sound therapy](https://open.spotify.com/album/4hmHweoHXduW8hhnyMvxUk) | 4:10 | 2024-03-05 |  |
 | [SOYUZ](https://open.spotify.com/track/5juJF1nVYYtNRbAa8tos6v) | [Teddy Killerz](https://open.spotify.com/artist/4xaF2VIGwhWyEMbM6GuLdm) | [INEEDU / SOYUZ](https://open.spotify.com/album/3kfTKr2reUQfr7EEQOMzxg) | 3:47 | 2022-11-21 | 2022-11-24 |

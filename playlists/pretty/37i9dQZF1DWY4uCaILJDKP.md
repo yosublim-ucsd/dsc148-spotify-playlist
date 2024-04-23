@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 
 > 国民的アイドルやビッグアーティストへの楽曲提供、作詞、編曲、レコーディングディレクションをこなす稀代のクリエイター。2010年5月 にヒャダイン＝前山田健一であることを発表。彼の多岐に渡る活動はお茶の間〜コアなリスナーまで、幅広い世代を魅了している。
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,416 likes - 113 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,418 likes - 113 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 47 | [えびぞりダイアモンド!!](https://open.spotify.com/track/3l9lRw474hlmpgBYvz1L0B) | [Shiritsu Ebisu Chugaku](https://open.spotify.com/artist/0hWvpmIrUgyPKOYvEGcERp) | [エビ中の絶盤ベスト〜おわらない青春〜](https://open.spotify.com/album/1Zryn01YlILizK2SEnZsVC) | 4:28 |
 | 48 | [開雲見日 〜スーパーJチャンネルのテーマ〜](https://open.spotify.com/track/7KDYIIJEHPIULDtabF19T2) | [HYADAIN](https://open.spotify.com/artist/3PiHi4Zeg1UCZuXCxLOEm2) | [テレビ朝日「スーパーJチャンネル」2020テーマ曲](https://open.spotify.com/album/3Z2aAAtsS4PcOuunrPyYNe) | 1:12 |
 | 49 | [REASON](https://open.spotify.com/track/3ERIqXHoQnhhiRuQxyjXcL) | [YUZU](https://open.spotify.com/artist/7lNFzeAXmSIKexINNgO6bu) | [LAND](https://open.spotify.com/album/6HFINxP6sxXmWkzEVMye3F) | 5:04 |
-| 50 | [五色のShooting☆Star!!!!!](https://open.spotify.com/track/6xJkGb622GVmf1chfPak7P) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ! アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 3:54 |
+| 50 | [五色のShooting☆Star!!!!!](https://open.spotify.com/track/6xJkGb622GVmf1chfPak7P) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 3:54 |
 | 51 | [誠\-Live for Justice\-](https://open.spotify.com/track/1L5wceNlns34OuiQ1UycYO) | [Urashimasakatasen](https://open.spotify.com/artist/1EYvO39JCY52RH1buMSgX2) | [$HUFFLE](https://open.spotify.com/album/7LT9tCh3HhrcOWzK9j62l4) | 4:32 |
 | 52 | [ササゲロ \-You Are Mine\-](https://open.spotify.com/track/0L9VEMrJvVWTVooP3TG1j8) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 4:26 |
 | 53 | [バッタマン](https://open.spotify.com/track/3YJ0vNl9V7ab7n7oaEvqP1) | [chotokkyu](https://open.spotify.com/artist/0udR1QMfgT37SQnL1QClTU) | [スターダスト LOVE TRAIN/バッタマン](https://open.spotify.com/album/4kKUWnQN00MhiSKwa7SUp3) | 3:55 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY4uCaILJDKP.md) - [plain]
 | 80 | [樹愛羅、助けに来たぞ](https://open.spotify.com/track/0a9703vA2qok2MbpWU46M0) | [=LOVE](https://open.spotify.com/artist/1j2WhcTW00Zd2SjFYsJVc6) | [手遅れcaution](https://open.spotify.com/album/1ANjYhJNnkIbdYwg9ruRzo) | 4:09 |
 | 81 | [どどどどどりーまー](https://open.spotify.com/track/4gb4EnBnCV6JJzv7PLjZS6) | [Tokimeki Sendenbu](https://open.spotify.com/artist/2lqUcuIdIv7Qyuw19ukFKP) | [どどどどどりーまー](https://open.spotify.com/album/0GRwTRbjuclectAUk0Jh6o) | 4:11 |
 | 82 | [ユーアノッアロン](https://open.spotify.com/track/2ChhFmU1wCP2vTybhespub) | [永野と高城。](https://open.spotify.com/artist/74KFQxfUK4pKaeJvZovg5N) | [れにちゃんWORLD](https://open.spotify.com/album/1FOM4ocBJZgADGPIG55KUm) | 3:39 |
-| 83 | [疾風迅雷 忍び道](https://open.spotify.com/track/05CJFdKw6ZvLNV8c0EuCvv) | [仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1seTDZnzHdkrjcCYdfCGlV) | [あんさんぶるスターズ! アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 3:43 |
+| 83 | [疾風迅雷 忍び道](https://open.spotify.com/track/05CJFdKw6ZvLNV8c0EuCvv) | [仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1seTDZnzHdkrjcCYdfCGlV) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 3:43 |
 | 84 | [Life's The Party Time!!](https://open.spotify.com/track/1krMMx1aJoMEU6Sh0d9HA0) | [中島愛](https://open.spotify.com/artist/4S6CGCwYKyStOwGV4IS8mI) | [Curiosity](https://open.spotify.com/album/1Iid4Xm44JxBfBv9jLfkR6) | 4:12 |
 | 85 | [I'm a Voice Actor](https://open.spotify.com/track/6pJydKTV4bvypoYEDBESXp) | [Wataru Hatano](https://open.spotify.com/artist/01vVQFcDbtkS4TbHyttdoT) | [W](https://open.spotify.com/album/5pEbeVGscrAW9AjHSJgKLm) | 4:38 |
 | 86 | [あいのうた](https://open.spotify.com/track/6ut1zsOUJTRxrf2248QeRl) | [寺島拓篤](https://open.spotify.com/artist/5ZKiRPYd2p2N9vs4FY6AjF) | [NEW GAME](https://open.spotify.com/album/2nRkRzNoquQZLmmAsVHDqS) | 4:04 |

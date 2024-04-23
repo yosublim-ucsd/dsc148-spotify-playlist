@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 15845,
+  "num_followers": 15849,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDU0NTcxMzA0ODUzMWQwYzg3M2FhOTNhZDJmYzUxMWE3",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGVjOGU0YjQxMmYyYjliZTAwMjkxNWY4Nzc0YTNjOTcy",
   "tracks": [
     {
       "added_at": null,
@@ -147,6 +147,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 191133,
+      "name": "Australian Boy - Remastered 2017",
+      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The 25th Anniversary Album",
         "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 161875,
       "name": "Dumb Things",
       "url": "https://open.spotify.com/track/3LaakWngDrr1fx1ZC1yt1L"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 191133,
-      "name": "Australian Boy - Remastered 2017",
-      "url": "https://open.spotify.com/track/0mst1r5jDZ32vusCulvpBH"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 184546,
-      "name": "Ute Me",
-      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 169875,
       "name": "Keep on Truckin'",
       "url": "https://open.spotify.com/track/3svcVzSWjzyg4tdZlCx343"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 184546,
+      "name": "Ute Me",
+      "url": "https://open.spotify.com/track/34wl0IaUNvWA4GQmrQc5gT"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Country",
-        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 178053,
-      "name": "I Milk Cows - Remastered 2017",
-      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Backroad Nation",
         "url": "https://open.spotify.com/album/1DpDxB7bmSywE3cI857l8F"
       },
@@ -535,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The 25th Anniversary Album",
-        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
+        "name": "Planet Country",
+        "url": "https://open.spotify.com/album/1SuH7QSsIz2DDDYIEgqTbW"
       },
       "artists": [
         {
@@ -544,9 +528,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 240834,
-      "name": "Outback Club Reunion",
-      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
+      "duration_ms": 178053,
+      "name": "I Milk Cows - Remastered 2017",
+      "url": "https://open.spotify.com/track/0IKpM9zNbEeGgeweMuGciK"
     },
     {
       "added_at": null,
@@ -567,8 +551,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beautiful Noise",
-        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+        "name": "The 25th Anniversary Album",
+        "url": "https://open.spotify.com/album/4gaxwMBtHK1DQraxEnEJBy"
       },
       "artists": [
         {
@@ -576,9 +560,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 190346,
-      "name": "It's Only Country",
-      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+      "duration_ms": 240834,
+      "name": "Outback Club Reunion",
+      "url": "https://open.spotify.com/track/06CVzZI2qm96JPi0wIP0EP"
     },
     {
       "added_at": null,
@@ -615,22 +599,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1959",
-        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Skinny Dippin' - Remastered 2017",
-      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Beautiful Noise",
         "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
       },
@@ -643,6 +611,22 @@
       "duration_ms": 204746,
       "name": "Beautiful Noise",
       "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1959",
+        "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Skinny Dippin' - Remastered 2017",
+      "url": "https://open.spotify.com/track/7qUel1eCCLuODJxWvy19Zw"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Beautiful Noise",
+        "url": "https://open.spotify.com/album/7kWgkcpCpLOqAtipwQ74pw"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 190346,
+      "name": "It's Only Country",
+      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1959",
         "url": "https://open.spotify.com/album/3X2UUwL1BTr5Yzf3fvxrYo"
       },
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 244106,
-      "name": "This Cowboy's Hat - Remastered 2017",
-      "url": "https://open.spotify.com/track/7MdBCNboSJPdXaNrxb9RnK"
+      "duration_ms": 234400,
+      "name": "Country Crowd - Remastered 2017",
+      "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
     },
     {
       "added_at": null,
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 234400,
-      "name": "Country Crowd - Remastered 2017",
-      "url": "https://open.spotify.com/track/11zQvjFccpnImml13XWNdS"
+      "duration_ms": 244106,
+      "name": "This Cowboy's Hat - Remastered 2017",
+      "url": "https://open.spotify.com/track/7MdBCNboSJPdXaNrxb9RnK"
     },
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Country Girls - Remastered 2017",
+      "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 251463,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Outback Club",
-        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Country Girls - Remastered 2017",
-      "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
     },
     {
       "added_at": null,

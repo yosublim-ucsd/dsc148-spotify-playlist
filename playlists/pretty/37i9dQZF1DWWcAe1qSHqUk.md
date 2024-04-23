@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 
 > 爵士就是一個聲音的紳士，有歌聲動人、有演奏優雅，旋律美妙之餘還濃濃情意！
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,364 likes - 75 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,344 likes - 75 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,12 +69,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWcAe1qSHqUk.md) - [plain]
 | 59 | [As You Are](https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI) | [Margareta Bengtson](https://open.spotify.com/artist/1JCdbZOcdCzEP77XJoj3Ov), [Jan Allan](https://open.spotify.com/artist/16oi0GQ9croDkKnFFCU1z6), [Anders Paulsson](https://open.spotify.com/artist/7ckFJ4mBSnZE1HYuF9DL2y), [Alberto Pinton](https://open.spotify.com/artist/3UjG2ialyrtso8EoqYavB2), [Third Saxes Galore](https://open.spotify.com/artist/5XylwFZ2XZhB1yGJ09z98X) | [As We Are](https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx) | 5:30 |
 | 60 | [These Things You Are to Me](https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ) | [Jamison Ross](https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK) | [Jamison](https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2) | 4:22 |
 | 61 | [THERE YOU ARE \(SECOND CHANCE\)](https://open.spotify.com/track/0Kws2a2GfsZlMKzdYm5aeC) | [Karen Souza](https://open.spotify.com/artist/2d5lQo9YQ1DkAsBKTRp7Iu) | [LANGUAGE OF LOVE](https://open.spotify.com/album/1aZI6dE6paumZHjfgzwyjS) | 3:33 |
-| 62 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 |
-| 63 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
+| 62 | [For the Love of Freedom](https://open.spotify.com/track/2yuDexdINZo3jxbFHf5fLw) | [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Marshall \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3L4djDxGf9l7mF39CGlHOZ) | 2:32 |
+| 63 | [Me Dediqué a Perderte](https://open.spotify.com/track/4lmbcXDjftid5Vah3VyLXn) | [Bossa Nostra](https://open.spotify.com/artist/5snbG5YJBnNxJeFNwzzZWv) | [Bossa & Co.](https://open.spotify.com/album/2eJv6fkyn9RIdgsDtpz9Pl) | 4:20 |
 | 64 | [What Are You Doing The Rest Of Your Life](https://open.spotify.com/track/4cZS6Zsn3H7Srg42UX7v5W) | [Rigmor Gustafsson](https://open.spotify.com/artist/4PVhLylgFzJbW165GuwMzU) | [On My Way to You](https://open.spotify.com/album/1HQrW5oQigjeWcKwR3HkNX) | 5:57 |
 | 65 | [Like Someone in Love](https://open.spotify.com/track/1my1nf6O10GIZEZRp2Cxv7) | [Elisabeth Melander](https://open.spotify.com/artist/09FsiQ9vAnKdvZcM5DZGYm) | [Reflections of a Voice](https://open.spotify.com/album/7nGWElWBanIzLOX3S6jeQH) | 4:25 |
-| 66 | [Cherokee](https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Cherokee](https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ) | 5:38 |
-| 67 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
+| 66 | [Smile](https://open.spotify.com/track/1hdDf2KsMhh8DvCsZ5IUNM) | [Ellen Andersson](https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog) | [I'll Be Seeing You](https://open.spotify.com/album/7bEA5jGqt2KYhjCa73OWpL) | 7:57 |
+| 67 | [Cherokee](https://open.spotify.com/track/2uSMorEaDvIDOXT6YfMgr7) | [Deelee Dube](https://open.spotify.com/artist/3Ix43SFAtx0lm13hcNNYkb) | [Cherokee](https://open.spotify.com/album/3snQLuE3XO2uYZEXo77sQZ) | 5:38 |
 | 68 | [Beyond the Sea](https://open.spotify.com/track/0z7HoTIz4VyKF8xldfxMK2) | [Halie Loren](https://open.spotify.com/artist/1Fcd5av0AI3xn05b3hrQfI) | [After Dark](https://open.spotify.com/album/1jHMh9wZHmRbBAnRpi8KLL) | 4:17 |
 | 69 | [The Promise](https://open.spotify.com/track/3xvCyI2J1nSvl85kOmPcK6) | [Jamie Lancaster](https://open.spotify.com/artist/0iRoi077zFrRThy27nP4GR), [Lizette](https://open.spotify.com/artist/5W2wSFP3ZxgYAColX5r3wT) | [The Promise](https://open.spotify.com/album/3BeSTlo1dAa4bdPqUaXATy) | 2:37 |
 | 70 | [Questi Vent'Anni Miei](https://open.spotify.com/track/1AhpFthKZAh4rABFrKn4CJ) | [Lisa Ono](https://open.spotify.com/artist/4WJ4FSFiEsJbK4SpGi4w1k) | [クエスタ・ボッサ・ミーア...](https://open.spotify.com/album/4ZAB0E6q1y8BpYm0fSTuft) | 3:51 |

@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fcSideM\u306e\u697d\u66f2\u30921\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3067\u3002THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 22688,
+  "num_followers": 22686,
   "original_name": "THE IDOLM@STER SideM \u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc SideM",
   "owner": {
     "name": "Spotify",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2024-03-05 17:33:35",
       "album": {
-        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
-        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
-      },
-      "artists": [
-        {
-          "name": "Jupiter",
-          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
-        }
-      ],
-      "duration_ms": 256338,
-      "name": "\u904b\u547d\u5149\u5e74",
-      "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"
-    },
-    {
-      "added_at": "2024-03-05 17:33:35",
-      "album": {
         "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 04",
         "url": "https://open.spotify.com/album/5Bt8rXxPktwiDT7zHjEd65"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 295120,
       "name": "Because",
       "url": "https://open.spotify.com/track/5GjWFMMlK4N63DUsfUgt4Q"
+    },
+    {
+      "added_at": "2024-03-05 17:33:35",
+      "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 06",
+        "url": "https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA"
+      },
+      "artists": [
+        {
+          "name": "Jupiter",
+          "url": "https://open.spotify.com/artist/3lJVQgWgaTtaIQxlNEHTpE"
+        }
+      ],
+      "duration_ms": 256338,
+      "name": "\u904b\u547d\u5149\u5e74",
+      "url": "https://open.spotify.com/track/4gAniioYF8jxhfl5vEz8sC"
     },
     {
       "added_at": "2024-03-05 17:33:35",

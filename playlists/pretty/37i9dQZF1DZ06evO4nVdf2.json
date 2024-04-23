@@ -1,12 +1,12 @@
 {
   "description": "This is Ximena Sari\u00f1ana. The essential tracks, all in one playlist.",
-  "num_followers": 58921,
+  "num_followers": 58915,
   "original_name": "This Is Ximena Sari\u00f1ana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDA1YmY0MWQ5YjZhZDMwMWI5M2EyNDkyMjkwMjNlYmIx",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGEzNzAzYTE3MDE2YTVjZDhjZDBiMWEzMGUyOWRkMDVj",
   "tracks": [
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
+        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        }
+      ],
+      "duration_ms": 173450,
+      "name": "Lo Bailado",
+      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lo Que Se Va",
         "url": "https://open.spotify.com/album/5D7TVjx5cphnUYDw6FZpbW"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 208803,
       "name": "Lo Que Se Va",
       "url": "https://open.spotify.com/track/4PogjAS9lDLn8L5KmqOrft"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
-        "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        }
-      ],
-      "duration_ms": 173450,
-      "name": "Lo Bailado",
-      "url": "https://open.spotify.com/track/5AQFKEETsXkpLsHHq9kpmO"
     },
     {
       "added_at": null,
@@ -815,26 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ojal\u00e1",
-        "url": "https://open.spotify.com/album/6uxAJWtRItOwN6lJslmktU"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Los Aptos",
-          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
-        }
-      ],
-      "duration_ms": 235661,
-      "name": "Ojal\u00e1",
-      "url": "https://open.spotify.com/track/74NWPOS1H8yBmHUFJlLl41"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00bfD\u00f3nde Bailar\u00e1n Las Ni\u00f1as?",
         "url": "https://open.spotify.com/album/6BvR8xqcnvm7Gpmmnr7JKa"
       },
@@ -851,6 +831,26 @@
       "duration_ms": 218479,
       "name": "No S\u00e9 (feat. Girl Ultra)",
       "url": "https://open.spotify.com/track/00bdtvYtc1OTsMqIDyB9VJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ojal\u00e1",
+        "url": "https://open.spotify.com/album/6uxAJWtRItOwN6lJslmktU"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Los Aptos",
+          "url": "https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO"
+        }
+      ],
+      "duration_ms": 235661,
+      "name": "Ojal\u00e1",
+      "url": "https://open.spotify.com/track/74NWPOS1H8yBmHUFJlLl41"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
+        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
+      },
+      "artists": [
+        {
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+        },
+        {
+          "name": "Jay de la Cueva",
+          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+        }
+      ],
+      "duration_ms": 221253,
+      "name": "Si nos dejan",
+      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un A\u00f1o M\u00e1s",
         "url": "https://open.spotify.com/album/3WM326tepD4WNnaiFNnHXO"
       },
@@ -983,8 +1003,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Mundo Raro: Las Canciones de Jos\u00e9 Alfredo Jim\u00e9nez",
-        "url": "https://open.spotify.com/album/1E5iOV8pW3EjEzBxshz4Kx"
+        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
       },
       "artists": [
         {
@@ -992,13 +1012,13 @@
           "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         },
         {
-          "name": "Jay de la Cueva",
-          "url": "https://open.spotify.com/artist/2PQW0MnXmZd19XKZQyoPgu"
+          "name": "Jesse Baez",
+          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
         }
       ],
-      "duration_ms": 221253,
-      "name": "Si nos dejan",
-      "url": "https://open.spotify.com/track/7tYl5XyYDe2jCNdlM1iWpD"
+      "duration_ms": 167753,
+      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
+      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": null,
@@ -1019,26 +1039,6 @@
       "duration_ms": 228906,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/3LplsitRxVq8kre3gvkQT1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-        "url": "https://open.spotify.com/album/2HnrU7teXQDKv65s8OoWZY"
-      },
-      "artists": [
-        {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 167753,
-      "name": "TBT 4 EVER 2.0 (feat. Jesse Baez)",
-      "url": "https://open.spotify.com/track/7EW1QpUaFRKwsMQvr6rJoC"
     },
     {
       "added_at": null,

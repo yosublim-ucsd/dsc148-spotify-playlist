@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 223 songs - 13 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,051 likes - 223 songs - 13 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,19 +91,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 81 | [Here Is Home](https://open.spotify.com/track/0INX6z1BBtUN0mHLTRU0rC) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 4:20 |
 | 82 | [We Could Run](https://open.spotify.com/track/4rL7wJv8tEpt6ND1cFjj0a) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:30 |
 | 83 | [Savoir Faire](https://open.spotify.com/track/28ob4ectuSLvn5gkefESsp) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:37 |
-| 84 | [Disintegration \- Memtrix Remix](https://open.spotify.com/track/58rw1aBngMLC7bh6fOZYfO) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Memtrix](https://open.spotify.com/artist/3bffaBH7akOhsSLsVJcJug) | [Prophication \(Remixes\)](https://open.spotify.com/album/118lzP3BexBAS4HzhwLxtz) | 4:33 |
-| 85 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
-| 86 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
+| 84 | [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 |
+| 85 | [Disintegration \- Memtrix Remix](https://open.spotify.com/track/58rw1aBngMLC7bh6fOZYfO) | [Le Castle Vania](https://open.spotify.com/artist/2KrXlzpSX4wWvJ2555FWLv), [Memtrix](https://open.spotify.com/artist/3bffaBH7akOhsSLsVJcJug) | [Prophication \(Remixes\)](https://open.spotify.com/album/118lzP3BexBAS4HzhwLxtz) | 4:33 |
+| 86 | [10 Seconds](https://open.spotify.com/track/7qFfTeft3nLJRW22jNJ7kA) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [AOA 4th Mini Album Good Luck](https://open.spotify.com/album/3D4EskjAYfo91G4BN7XcbB) | 3:56 |
 | 87 | [Free](https://open.spotify.com/track/4xTg0C2hbt19hlRA7HFWqU) | [Ryn Weaver](https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX) | [The Fool](https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4) | 3:27 |
 | 88 | [White Lies](https://open.spotify.com/track/1jvzgJQyOTwg9HDz8Px9Dp) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [Second Nature](https://open.spotify.com/album/27yHVnSUoOngzMAwwPA0ks) | 4:07 |
-| 89 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
-| 90 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 |
+| 89 | [Crush](https://open.spotify.com/track/4onuVDT23p1Bhl1Joc02td) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:24 |
+| 90 | [Good Hurt](https://open.spotify.com/track/5nLQXxJa02HwKsLxE0uM9L) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Hurt](https://open.spotify.com/album/7JLxLmGuLMgyE2jl9JoQM5) | 3:12 |
 | 91 | [Two Things Can Be True](https://open.spotify.com/track/38fBiZhAfXclw5avjMiu1b) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:45 |
 | 92 | [Feel For You](https://open.spotify.com/track/2d9459rCOb4K0xypqo3qK8) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 3:39 |
 | 93 | [Bomba](https://open.spotify.com/track/1foglYjabYgq2PnG1IlMsz) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Back 2 Life](https://open.spotify.com/album/1fOIkbQO1zU1rO3GLIGJBH) | 3:39 |
 | 94 | [Wouldn't Be Love](https://open.spotify.com/track/6x7Q6sYuLRRlF3hkoGBQUO) | [RITUAL](https://open.spotify.com/artist/3RP50pmG8Wz1mhNCidQj68) | [No Escape Out Of Time](https://open.spotify.com/album/5xDzV2IFfcVOFK3n4EksKs) | 3:45 |
-| 95 | [5000 Miles](https://open.spotify.com/track/23DIKne9C2VXKhMQTFd4VW) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:31 |
-| 96 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
+| 95 | [Attached To You](https://open.spotify.com/track/2KCMKqK2hFvUiio8pzuHRC) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:36 |
+| 96 | [5000 Miles](https://open.spotify.com/track/23DIKne9C2VXKhMQTFd4VW) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:31 |
 | 97 | [Smile](https://open.spotify.com/track/6YJZ2uD1DwRUx2inm8g9kr) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Smile](https://open.spotify.com/album/4mKGz8LpzNFzhXHxeadZfi) | 2:56 |
 | 98 | [roses in the rain \(lullaby\)](https://open.spotify.com/track/6LYBomYZljvsHKV2rLA3Vs) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [songs for rosie](https://open.spotify.com/album/3FeFO08zreGyZWTDYP9hKo) | 2:26 |
 | 99 | [Joyride](https://open.spotify.com/track/73pkKcumGPXXdLaBWvdRzW) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 3:04 |
@@ -142,8 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 132 | [Pressure](https://open.spotify.com/track/7i7cqLZ2CAZxW47WhfIov8) | [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Pressure](https://open.spotify.com/album/5OMQvLlSiHTCnTuXBPKvmA) | 3:42 |
 | 133 | [Love In Real Life](https://open.spotify.com/track/0aBiz5baCyZbJApDikehjL) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 4:03 |
 | 134 | [Peach Sky](https://open.spotify.com/track/7ljGNojZOWRrCii8npbf0g) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Lost Girls](https://open.spotify.com/album/21pLZkjJiP0zaFve7FJ8wq) | 4:34 |
-| 135 | [Do You Want Me To](https://open.spotify.com/track/6ygZkBHLbm0MkgDSgFED2i) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:07 |
-| 136 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 |
+| 135 | [Glue](https://open.spotify.com/track/4EbwhvDv0TFLN7SjuOUjym) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [How To Catch A Falling Knife](https://open.spotify.com/album/4y09e5XNcSik8Vfnam7Tj4) | 5:17 |
+| 136 | [Do You Want Me To](https://open.spotify.com/track/6ygZkBHLbm0MkgDSgFED2i) | [Beth Ditto](https://open.spotify.com/artist/7y8lzaGqtadGmtAtg2SGv4) | [Fake Sugar](https://open.spotify.com/album/2PjJXeTOqUHHAfJ4J65E49) | 3:07 |
 | 137 | [That Time Of Year Always](https://open.spotify.com/track/1Uy0dtxpFBCt6uNcRnLudo) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/2T8UKnnH2VfNB2QwCQcq3o) | 3:34 |
 | 138 | [Always](https://open.spotify.com/track/00f9bVD0cVpRK0V9DnCVoF) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Cigarettes & City Lights](https://open.spotify.com/album/7a5sQmXXnUANreLelj7OFe) | 3:49 |
 | 139 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
@@ -232,4 +232,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 222 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 223 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `Mjg1NjI1OTUsMDAwMDAwMDAzZTlmM2QzZWMwNjlhMjkwZmU5MmFkMmFhNjhiOGE1MQ==`
+Snapshot ID: `Mjg1NjQwMzUsMDAwMDAwMDA0NTBhZTcyZDQzMDZmYTAyNTE2MjNkOTU1OWRiYWZhYw==`

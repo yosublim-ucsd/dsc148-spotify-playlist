@@ -1,6 +1,6 @@
 {
   "description": "Les meilleurs airs d'autoroute.",
-  "num_followers": 152865,
+  "num_followers": 152907,
   "original_name": "Bleu Blanc Route",
   "owner": {
     "name": "Spotify",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "D\u00e9cembre en \u00e9t\u00e9",
-        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
-      },
-      "artists": [
-        {
-          "name": "Da Silva",
-          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
-        }
-      ],
-      "duration_ms": 185065,
-      "name": "L'ind\u00e9cision",
-      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Sacha Distel: Crooner",
         "url": "https://open.spotify.com/album/1HioIbajn5pHxM7A0uMpKV"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 123053,
       "name": "La belle vie",
       "url": "https://open.spotify.com/track/78OdnOhPOk19xYhGAKgjCO"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "D\u00e9cembre en \u00e9t\u00e9",
+        "url": "https://open.spotify.com/album/34FJDy2QrV2gMESfcL2Kxf"
+      },
+      "artists": [
+        {
+          "name": "Da Silva",
+          "url": "https://open.spotify.com/artist/2DOrhe8H1WfcD6PPkgJH8X"
+        }
+      ],
+      "duration_ms": 185065,
+      "name": "L'ind\u00e9cision",
+      "url": "https://open.spotify.com/track/41zrRHYHY72LCf2hzaK18z"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 218133,
-      "name": "Le reste",
-      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "Sur La Route De Memphis",
         "url": "https://open.spotify.com/album/53SYGh9begSjMAyh0MgpLJ"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 173933,
       "name": "Sur la route de Memphis",
       "url": "https://open.spotify.com/track/6NQ1iVoOqcYKDdsrkLi1PK"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "C\u0153ur",
+        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 218133,
+      "name": "Le reste",
+      "url": "https://open.spotify.com/track/73oVDoxJHbqOIkZ0C9ir31"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
-        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
-        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
-      },
-      "artists": [
-        {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
-        }
-      ],
-      "duration_ms": 184077,
-      "name": "Nue",
-      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
         "name": "PYRAMIDE",
         "url": "https://open.spotify.com/album/4SGj2EwogAMqiN2imHvJSb"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 215160,
       "name": "Le pouvoir des fleurs",
       "url": "https://open.spotify.com/track/4msnxiNpg9Mvm6f0NMYFKx"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
+        "name": "Sainte-Victoire (R\u00e9\u00e9dition)",
+        "url": "https://open.spotify.com/album/5BnINulXJFyn86yZ0EfOPd"
+      },
+      "artists": [
+        {
+          "name": "Clara Luciani",
+          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+        }
+      ],
+      "duration_ms": 184077,
+      "name": "Nue",
+      "url": "https://open.spotify.com/track/3rfDjFBGWeDW88inQfLzmm"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
+      },
+      "artists": [
+        {
+          "name": "Indochine",
+          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
+        }
+      ],
+      "duration_ms": 326186,
+      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
+      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "La R\u00e9alit\u00e9",
         "url": "https://open.spotify.com/album/6WY9BkvpRyeA5FYwpYrVp9"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 232440,
       "name": "Sur la route",
       "url": "https://open.spotify.com/track/5NFbXrKAou3S8Jg0heGyW8"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5NFN9HK3cvDaYnEtmHUVbo"
-      },
-      "artists": [
-        {
-          "name": "Indochine",
-          "url": "https://open.spotify.com/artist/7knmbOGe07k85GmK50vACB"
-        }
-      ],
-      "duration_ms": 326186,
-      "name": "Un \u00e9t\u00e9 fran\u00e7ais",
-      "url": "https://open.spotify.com/track/4Ngeca4zs304bDnDh3pjzI"
     },
     {
       "added_at": "2024-03-11 10:01:59",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2024-03-11 10:01:59",
       "album": {
+        "name": "M\u00e9langer les couleurs",
+        "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
+      },
+      "artists": [
+        {
+          "name": "Kaolin",
+          "url": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
+        }
+      ],
+      "duration_ms": 241146,
+      "name": "Partons vite",
+      "url": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
+    },
+    {
+      "added_at": "2024-03-11 10:01:59",
+      "album": {
         "name": "Grandir",
         "url": "https://open.spotify.com/album/61Kjs8CGtVFQAP1qt5sSuf"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 202303,
       "name": "Grandir",
       "url": "https://open.spotify.com/track/0ruriS7oaQE0j1NE0AAW3o"
-    },
-    {
-      "added_at": "2024-03-11 10:01:59",
-      "album": {
-        "name": "M\u00e9langer les couleurs",
-        "url": "https://open.spotify.com/album/6isztb4hV9Ad2u6NUhK5l0"
-      },
-      "artists": [
-        {
-          "name": "Kaolin",
-          "url": "https://open.spotify.com/artist/3avnNpfPFjWpj84R8Jaqbr"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Partons vite",
-      "url": "https://open.spotify.com/track/4bsSygJynZCIoU5xje0KQA"
     }
   ],
   "unique_name": "Bleu Blanc Route",

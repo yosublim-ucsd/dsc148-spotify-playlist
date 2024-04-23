@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 
 > Fresh gospel music from Ghana\. Cover: MOGMusic
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,772 likes - 50 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,784 likes - 50 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEN7P4UGUaR.md) - [plain]
 | 33 | [Se Mekume Ho](https://open.spotify.com/track/3ojCyHzmRr5hNsEn4zeTqH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Golden Oil](https://open.spotify.com/album/4F6PfioAlt3AZzSfb4fhZm) | 4:34 |
 | 34 | [Fawohodie\(Twi Medley\)](https://open.spotify.com/track/2N5uglkqAalKPTCnm4a2Cl) | [Perez Musik](https://open.spotify.com/artist/0aoCkJnz41cyF84JmMISzI) | [Fawohodie\(Twi Medley\)](https://open.spotify.com/album/3mLLK2GJ9k1uvVetcauSm1) | 9:54 |
 | 35 | [Ghana Local Praise Medley](https://open.spotify.com/track/5EpTEpmbU57I9FMGR9m9sV) | [DOXA WAVE GH](https://open.spotify.com/artist/1zqLzdhDVwbe35i4IFrgf6), [Shadrach Mensah Kwesi](https://open.spotify.com/artist/6WRzw7R2P5DfMPXZAulY7e) | [Ghana Local Praise Medley](https://open.spotify.com/album/6JMeaFneyim4EC2BxMYMGw) | 9:26 |
-| 36 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
-| 37 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
+| 36 | [Nyansabuakwa Nyame](https://open.spotify.com/track/0JDNNVdxIvbnHMQiJGAdFD) | [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [Nyansabuakwa Nyame](https://open.spotify.com/album/2OzSHOEEUiFwjywLFwwrnq) | 5:56 |
+| 37 | [Deeper Medley](https://open.spotify.com/track/0ZAXIDq2pDCoFQxtk7ldwg) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p) | [Deeper Touch](https://open.spotify.com/album/5nOXDaaJq1brfEv9jEYAGP) | 13:01 |
 | 38 | [Lord Have Your Way](https://open.spotify.com/track/53sEAgeh4Pb2hJETL6IkcE) | [Efe Grace Official](https://open.spotify.com/artist/4sUJ8WsQFdYNsOVuXTZLgS) | [Lord Have Your Way](https://open.spotify.com/album/309FhXt3gyQzKeQ9sQ0DiD) | 6:08 |
-| 39 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 |
-| 40 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
+| 39 | [Borborbor Gospel Medley](https://open.spotify.com/track/35kYZLjrvvDkEMZ20ELLT3) | [Bethel Revival Choir](https://open.spotify.com/artist/3kIYstVAMoxfhzN3SelLbz) | [Borborbor Gospel Medley](https://open.spotify.com/album/6AfJx9o8D0VztTeuIxy189) | 8:37 |
+| 40 | [Okasa](https://open.spotify.com/track/6TYPPXh9VhmqP3o47FMOdc) | [Eugene Zuta](https://open.spotify.com/artist/1KmG9OvZmiOv0ntWc7mYcP) | [Okasa](https://open.spotify.com/album/3PSX2qgryboF6ibNTYOfkP) | 4:27 |
 | 41 | [Come and See](https://open.spotify.com/track/23GEN8dLBDYRAiDSno0eP2) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc), [Piesie Esther](https://open.spotify.com/artist/3yz5tcmMGPPxfy9Ilp4sft) | [Come and See](https://open.spotify.com/album/6Le36V9KISl0nz7lJicj5g) | 5:42 |
 | 42 | [Me Ko M'Anim](https://open.spotify.com/track/4aRLuPcQMUH6XnOoHdcXeH) | [Ceccy Twum](https://open.spotify.com/artist/388AN0RI2UvUm7RwCU5Twz) | [Efiri Nyame](https://open.spotify.com/album/0nYa4h4NADQ8GkhgVw0iYl) | 4:35 |
 | 43 | [Onwanwani](https://open.spotify.com/track/4mb4OvcBCNezU9v4X9Pyv3) | [Edwin Dadson](https://open.spotify.com/artist/47Faqq0jbVjfytkzaHxlIb), [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Isaiah Fosu\-Kwakye Jnr](https://open.spotify.com/artist/7nFCc2h1AAmKMGwr2Nc72u) | [Onwanwani](https://open.spotify.com/album/4fbkb0H4gq0FBaour6fnPs) | 8:33 |

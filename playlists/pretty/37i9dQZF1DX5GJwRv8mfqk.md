@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 
 > ¡A la antigüita, chiquitita! Las canciones escritas e interpretadas por Edén Muñoz 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,954 likes - 100 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,931 likes - 100 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 53 | [Ni Dios Lo Quiera](https://open.spotify.com/track/39vwvN7Etjp8h5HimNEboV) | [Luz Maria](https://open.spotify.com/artist/4rLKybqVCIbuTaYVRbdaex) | [Ni Dios Lo Quiera](https://open.spotify.com/album/36enprBr7gUm6TuQ50cK5B) | 3:04 |
 | 54 | [Dígale](https://open.spotify.com/track/1V2U6e2YEFRGPBhIErpUPp) | [Jary Franco](https://open.spotify.com/artist/01agtJ7Ob6B8N8jC8QvAJ6) | [Siendo Franco](https://open.spotify.com/album/08FstJ62XKEuL012P8jI6t) | 3:30 |
 | 55 | [Ya Estuvo Bueno](https://open.spotify.com/track/7a6ms6F6JzoRYtCQFntLdd) | [Los Del Arroyo](https://open.spotify.com/artist/43mTldLHocYpIrVrGuY4e4) | [La Casa Invita](https://open.spotify.com/album/7Hf1kRkgZA47DrA0Mimg5W) | 3:19 |
-| 56 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
-| 57 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
+| 56 | [También Tú Te Equivocas](https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg) | [Joel Elizalde](https://open.spotify.com/artist/55EA5tfk6pyYA7L6Hgb5Nr) | [El Heredero Mayor](https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok) | 2:59 |
+| 57 | [Y Qué Les Vamos A Decir \- Desde El Estudio Andaluz Music](https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf) | [Los De La Noria](https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO) | [Desde El Estudio Andaluz Music](https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs) | 3:14 |
 | 58 | [El Amor De Antes](https://open.spotify.com/track/4tYTSyIIrAnf9fTO6MVsbR) | [Beto Peña](https://open.spotify.com/artist/4dMcbyCa0TCT5rfhBAJJtl) | [El Quemado](https://open.spotify.com/album/7BoKxPrMe4FXjC80Dhpy6i) | 4:00 |
 | 59 | [Y Si Es Posible](https://open.spotify.com/track/5QKBZrSlpwzmLVeec2fdqD) | [Banda Legal](https://open.spotify.com/artist/6qzADkcD6NEhqaYRVfC7Sj) | [Sigo De Pie](https://open.spotify.com/album/23FhyIwGbJXIkPyB8xgQzB) | 3:15 |
 | 60 | [Los Narcoplaticantes](https://open.spotify.com/track/7K1DHCLtIfAnm07wxVnNOI) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [Seguimos Sumando](https://open.spotify.com/album/7G8SUIcg4K4Rx55r2fuMGk) | 4:34 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5GJwRv8mfqk.md) - [plain]
 | 90 | [Gente Batallosa](https://open.spotify.com/track/71gk97Oadf8MPN9fCMP9cP) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [El Buen Ejemplo](https://open.spotify.com/album/4FNrB1vD9kdIUQpoTPG5K3) | 2:28 |
 | 91 | [Ni Mandándote A Hacer](https://open.spotify.com/track/5JQLQCEqMOZLZW78qIVm9N) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Vamos Bien](https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ) | 4:06 |
 | 92 | [La Tatema](https://open.spotify.com/track/3ovi8ac2bNxvKe3EnZjOiW) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
-| 93 | [Si Me Hubieras Oido](https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:50 |
-| 94 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 |
+| 93 | [Las Ultras](https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 2:06 |
+| 94 | [Si Me Hubieras Oido](https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [La Mejor Versión De Mí](https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1) | 3:50 |
 | 95 | [Frijoles Con Panela](https://open.spotify.com/track/1wxbTlwvzRp3thyCoexuUD) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Guerra De Poder](https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc) | 3:33 |
 | 96 | [Se Volvió a Pelar Mi Apá](https://open.spotify.com/track/76wKy6yQjIJiMbuO0EQQsy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Historias de la Calle](https://open.spotify.com/album/68oeH15c0id8blWP7cOu5T) | 2:34 |
 | 97 | [El Triste Alegre](https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Contigo](https://open.spotify.com/album/5t3hXKG2uyhYSlMaRViaEH) | 2:19 |

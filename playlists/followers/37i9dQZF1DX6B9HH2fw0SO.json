@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 64253,
+  "2024-04-23": 64297,
   "date_first_scraped": "2022-09-17",
   "description": "2015 highlights from the home of indie music.",
   "name": "Best of Indie 2015",
@@ -673,7 +673,7 @@
       ],
       "date_added": "2021-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 187915,
       "name": "Drive",
       "url": "https://open.spotify.com/track/0czTyG0fnI3ERVcVrUx8Ol"
@@ -825,6 +825,24 @@
       "duration_ms": 200946,
       "name": "First",
       "url": "https://open.spotify.com/track/0kuSx4Cm1q6N6pOmCI9CRY"
+    },
+    {
+      "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/5hB4jVN4ZHpubyiMmW81K1"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-03-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264523,
+      "name": "Flesh without Blood",
+      "url": "https://open.spotify.com/track/4ZcGbQ5dOKX6rJk4yvza9R"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Your go to Afrobeats workout playlist ",
-  "num_followers": 31040,
+  "num_followers": 31066,
   "original_name": "Keep Fit Club ",
   "owner": {
     "name": "Spotify",
@@ -767,6 +767,22 @@
     {
       "added_at": "2024-04-19 10:44:45",
       "album": {
+        "name": "Kulule",
+        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        }
+      ],
+      "duration_ms": 157281,
+      "name": "Kulule",
+      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
+    },
+    {
+      "added_at": "2024-04-19 10:44:45",
+      "album": {
         "name": "Ronaldo",
         "url": "https://open.spotify.com/album/60URysVADvw9jbvTJypX2N"
       },
@@ -799,26 +815,6 @@
     {
       "added_at": "2024-04-19 10:44:45",
       "album": {
-        "name": "Minding My Business",
-        "url": "https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS"
-      },
-      "artists": [
-        {
-          "name": "Korede Bello",
-          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
-        },
-        {
-          "name": "Don Jazzy",
-          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
-        }
-      ],
-      "duration_ms": 173635,
-      "name": "Minding My Business",
-      "url": "https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs"
-    },
-    {
-      "added_at": "2024-04-19 10:44:45",
-      "album": {
         "name": "Like (feat. Kizz Daniel)",
         "url": "https://open.spotify.com/album/45UWuUIciHbsLfZeJhbuIB"
       },
@@ -843,18 +839,22 @@
     {
       "added_at": "2024-04-19 10:44:45",
       "album": {
-        "name": "Duffel Bag",
-        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+        "name": "Minding My Business",
+        "url": "https://open.spotify.com/album/1JlZVS3ByAW0f2cHzv3eRS"
       },
       "artists": [
         {
-          "name": "Joeboy",
-          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+          "name": "Korede Bello",
+          "url": "https://open.spotify.com/artist/2TwUVWFJs4LD0lOBbJXnNa"
+        },
+        {
+          "name": "Don Jazzy",
+          "url": "https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a"
         }
       ],
-      "duration_ms": 127067,
-      "name": "Duffel Bag",
-      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
+      "duration_ms": 173635,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/1qexUMtMWGdP1wGcGYkNJs"
     },
     {
       "added_at": "2024-04-19 10:44:45",
@@ -871,6 +871,22 @@
       "duration_ms": 155897,
       "name": "Terminator",
       "url": "https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78"
+    },
+    {
+      "added_at": "2024-04-19 10:44:45",
+      "album": {
+        "name": "Duffel Bag",
+        "url": "https://open.spotify.com/album/0SGMYduxnZ8jz9zb6eGnR0"
+      },
+      "artists": [
+        {
+          "name": "Joeboy",
+          "url": "https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF"
+        }
+      ],
+      "duration_ms": 127067,
+      "name": "Duffel Bag",
+      "url": "https://open.spotify.com/track/3d04OfVqip9ZQdvboUsPg3"
     },
     {
       "added_at": "2024-04-19 10:44:45",
@@ -915,22 +931,6 @@
     {
       "added_at": "2024-04-19 10:44:45",
       "album": {
-        "name": "Holiday / Reason You",
-        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
-      },
-      "artists": [
-        {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
-        }
-      ],
-      "duration_ms": 159100,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
-    },
-    {
-      "added_at": "2024-04-19 10:44:45",
-      "album": {
         "name": "Ijo (Laba Laba)",
         "url": "https://open.spotify.com/album/5A1qWiQBSEkCpGvQE2YfOH"
       },
@@ -947,18 +947,18 @@
     {
       "added_at": "2024-04-19 10:44:45",
       "album": {
-        "name": "Go Low",
-        "url": "https://open.spotify.com/album/6Ev4ji21spB3qmbTggGx8X"
+        "name": "Holiday / Reason You",
+        "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
       },
       "artists": [
         {
-          "name": "Pheelz",
-          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 124348,
-      "name": "Go Low",
-      "url": "https://open.spotify.com/track/18knj0rESK9fge8VWsAGOM"
+      "duration_ms": 159100,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
     },
     {
       "added_at": "2024-04-19 10:44:45",
@@ -979,18 +979,18 @@
     {
       "added_at": "2024-04-19 10:44:45",
       "album": {
-        "name": "Kulule",
-        "url": "https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa"
+        "name": "Go Low",
+        "url": "https://open.spotify.com/album/6Ev4ji21spB3qmbTggGx8X"
       },
       "artists": [
         {
-          "name": "Naza",
-          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+          "name": "Pheelz",
+          "url": "https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg"
         }
       ],
-      "duration_ms": 157281,
-      "name": "Kulule",
-      "url": "https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV"
+      "duration_ms": 124348,
+      "name": "Go Low",
+      "url": "https://open.spotify.com/track/18knj0rESK9fge8VWsAGOM"
     },
     {
       "added_at": "2024-04-19 10:44:45",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2024-04-19 10:44:45",
       "album": {
-        "name": "The One (Chop Life)",
-        "url": "https://open.spotify.com/album/5nECl8Xw4BiWM7PSuI6dDl"
+        "name": "Otilo (Izz Gone)",
+        "url": "https://open.spotify.com/album/6kke6rJHaFiXh99zlicPY5"
       },
       "artists": [
         {
-          "name": "Crayon",
-          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
+          "name": "Poco Lee",
+          "url": "https://open.spotify.com/artist/63NVCM00HP3vWokNnWQAIc"
         },
         {
-          "name": "Yaba Buluku Boyz",
-          "url": "https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi"
+          "name": "Hotkid",
+          "url": "https://open.spotify.com/artist/18o7UrZPvSitJxti0OodSj"
         }
       ],
-      "duration_ms": 196471,
-      "name": "The One (Chop Life)",
-      "url": "https://open.spotify.com/track/4QrZSUg5xCZpFKDIhJMU2Q"
+      "duration_ms": 162782,
+      "name": "Otilo (Izz Gone)",
+      "url": "https://open.spotify.com/track/3nTzEDC9sTD0YsC9C7osnN"
     }
   ],
   "unique_name": "Keep Fit Club ",

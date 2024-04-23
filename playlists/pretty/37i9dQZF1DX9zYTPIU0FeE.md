@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9zYTPIU0FeE.md) - [plain]
 
 > Journey through the exciting and innovative sounds of South African Jazz\. Cover: <a href="https://open.spotify.com/artist/6Y5DNQAHBjLtlb7xPOmk3N?si=X8HRCEU8TmakIvRd6vXg1g">Thandiswa</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,891 likes - 59 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,897 likes - 59 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

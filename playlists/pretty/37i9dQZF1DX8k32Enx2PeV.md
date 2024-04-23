@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,154 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,164 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 26 | [Sí](https://open.spotify.com/track/4hgcGCJZPv0SPrbidGwpfI) | [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H), [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Sí](https://open.spotify.com/album/7knVEKrQWPs7BIHXJwJDsJ) | 2:38 |
 | 27 | [Quiromancia \(feat\. Vic Mirallas\)](https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 4:16 |
 | 28 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
-| 29 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
-| 30 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
+| 29 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
+| 30 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
 | 31 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 |
 | 32 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
 | 33 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 61 | [All Night Long](https://open.spotify.com/track/4hgda2zsC0CPHtxT55FJho) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l), [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl) | [All Night Long](https://open.spotify.com/album/2PuKW3LCrVlfbIY1u4RoMe) | 4:20 |
 | 62 | [Ma Vie](https://open.spotify.com/track/5DMWjLDck4h90C61FPwKWt) | [Valerianä](https://open.spotify.com/artist/31eD4Jy2jTXFosFfrnaVgs) | [Ma Vie](https://open.spotify.com/album/70bUXOYC5M8yRPTybauNt8) | 2:32 |
 | 63 | [Respiro](https://open.spotify.com/track/42op2wd3o7SZ1MUImRkbkh) | [Paraísos](https://open.spotify.com/artist/4UWT6RWeTPk7hN7OihScMM), [CERO39](https://open.spotify.com/artist/1B6UFfDLZPbLl1rpOmHmi0) | [Respiro](https://open.spotify.com/album/0obtRY4p00WwIHafC8MTlF) | 3:15 |
-| 64 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
-| 65 | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL) | 2:51 |
+| 64 | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/track/1xJfxxyuhOQmBTJ8k549BZ) | [Cabra](https://open.spotify.com/artist/1ZBJ5DMUE7UDWuxp3b5Cy3), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Un Trambo \(feat\. De La Ghetto\)](https://open.spotify.com/album/7Lfh4TQpKIHbQONtS1K1lL) | 2:51 |
+| 65 | [Isla](https://open.spotify.com/track/0njT0PeIOjXZ4wcY1tuSSJ) | [Som Caney](https://open.spotify.com/artist/7ymW4RibYTRpCKmk3Q5YyH) | [Isla](https://open.spotify.com/album/5QQ2uGDTtJNfM5OffTfSoG) | 3:51 |
 | 66 | [Calavera](https://open.spotify.com/track/34AtIFSuygzhGe5Xm6QvCD) | [Keke Minowa](https://open.spotify.com/artist/0jhgrCkiSuW5UPZRJoUXHb) | [Calavera](https://open.spotify.com/album/4ow3K1rnLp878Zzi7wGlFL) | 3:13 |
 | 67 | [Dale Melón](https://open.spotify.com/track/1rRR2kteGIoimfFex15wKu) | [Contento](https://open.spotify.com/artist/3yQ4D1hK8dmhy2q5gDFg3h) | [Lo Bueno Está Aquí](https://open.spotify.com/album/1pQ2O6Ksnw6p3QnjMgyNFd) | 4:20 |
 | 68 | [Pasatiempo](https://open.spotify.com/track/0zTrBn533RlwK9EpQToLRV) | [Tim Mara](https://open.spotify.com/artist/1RCqp2ViXc6Vbog6QdaiLR) | [Pasatiempo](https://open.spotify.com/album/2gj0XvFtwo0NTDARtj1I39) | 3:22 |

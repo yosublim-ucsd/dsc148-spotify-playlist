@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 
 > This is Rod Wave\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,957 likes - 45 songs - 2 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,024 likes - 45 songs - 2 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 17 | [Boyz Don't Cry](https://open.spotify.com/track/3DcfXXPsVIjU1UgY0YBtAM) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/4n2Wo5AqL6FUuheNYGZI4f) | 2:46 |
 | 18 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/40TPiJpvwGIyvPjJMDTKfy) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Pray 4 Love \(Deluxe\)](https://open.spotify.com/album/0pGGvcUT08FrwV0RJIIVA9) | 3:55 |
 | 19 | [Poison](https://open.spotify.com/track/5C1PY8gSPXadGda4SKH1Cs) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 3:15 |
-| 20 | [Shooting Star](https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Shooting Star](https://open.spotify.com/album/14qCy7dx554jMsZuf8braG) | 3:03 |
+| 20 | [What's Wrong](https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 2:35 |
 | 21 | [HG4](https://open.spotify.com/track/59ksHIFa69pi0az2bKdu6s) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Nostalgia](https://open.spotify.com/album/0xojHpNNGFiPqc3TXmh6Gv) | 2:00 |
-| 22 | [What's Wrong](https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [SoulFly \(Deluxe Version\)](https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN) | 2:35 |
+| 22 | [Shooting Star](https://open.spotify.com/track/6D1SdwPIbc6mmLVZqJr4m7) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Shooting Star](https://open.spotify.com/album/14qCy7dx554jMsZuf8braG) | 3:03 |
 | 23 | [Dark Conversation](https://open.spotify.com/track/5lQvcmJHBcCHMFEusim8bH) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Ghetto Gospel](https://open.spotify.com/album/1ft5RivOWEdZT3nfqThV7K) | 2:24 |
 | 24 | [Home Ain't Home \(feat\. Rod Wave\)](https://open.spotify.com/track/0oPpchtgx4hZ2J246g5mqn) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [The Last Slimeto](https://open.spotify.com/album/1ZCsPUZ7j9dTqjhU2I36tw) | 2:21 |
 | 25 | [Alone](https://open.spotify.com/track/5ie5OPdaP9fivYaKcjwKF1) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:11 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oiloJ.md) - [plain]
 | 44 | [Forever](https://open.spotify.com/track/4mChXwwU4xbiYIP7QQeLFP) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 3:34 |
 | 45 | [Never Get Over Me](https://open.spotify.com/track/5sRUXYW5XqkHpGUjNIaU1W) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Beautiful Mind](https://open.spotify.com/album/0QdrshIUWbNGzw4dAtrLlL) | 2:50 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDc0NGEzOTMwMDRmMDE0OWI0NDc4ZGVkODU5ZDJlNzBl`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGU5ZjU4ZjQxNjFjOWY0NDA2YzcyOWJmZjE1NzU3Zjk3`

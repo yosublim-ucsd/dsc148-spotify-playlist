@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 
 ### [This Is La Santa Grifa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0LGEA8)
 
-> This Is La Santa Grifa\. Los temas esenciales, todos en una lista.
+> This is La Santa Grifa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,831 likes - 50 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 217,961 likes - 50 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 4 | [Sabanas Blancas](https://open.spotify.com/track/0IBhXEEKXhv0bdpboaw5M3) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Frenia](https://open.spotify.com/album/6DtziobPePcdasV0uUycOn) | 4:14 |
 | 5 | [Piel Con Piel](https://open.spotify.com/track/3R0PgPUdZUtd6dGq6yRwc7) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Piel Con Piel](https://open.spotify.com/album/7GxFfPCbKkOHhi1GFA1hSW) | 4:03 |
 | 6 | [No Me Hablen De Penas](https://open.spotify.com/track/6bSeGQcsve915cgePuw2bZ) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [No Me Hablen de Penas](https://open.spotify.com/album/7HoDdcb8bHonDW0v9yUtL5) | 1:55 |
-| 7 | [Regresen el Tiempo](https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:56 |
-| 8 | [Un Minuto](https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Un Minuto](https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9) | 1:00 |
+| 7 | [Un Minuto](https://open.spotify.com/track/1bteISG6lnlop62KsGT6CL) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Un Minuto](https://open.spotify.com/album/0dbSRcAFzkMLHDu5WtQhZ9) | 1:00 |
+| 8 | [Regresen el Tiempo](https://open.spotify.com/track/6Ydl0XXvzCjE25xDLbV7Qf) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Fuera de Órbita](https://open.spotify.com/album/51yJSY6U0Bl7rrQDekZvjF) | 2:56 |
 | 9 | [Que Se Yo](https://open.spotify.com/track/3rKZuDrVxEcHLcHwIp2I2z) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Que Se Yo](https://open.spotify.com/album/29GPy18nuDwaIBrlwxZsGK) | 3:25 |
 | 10 | [Monalisa](https://open.spotify.com/track/56ZMnyvW7uO9sJoTVHNBxs) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Mickey Ojo Rojo Sg](https://open.spotify.com/artist/0oxYBzQwBy2nmTquzJ447r) | [Monalisa](https://open.spotify.com/album/67gixCAUn6Sd1BXHr3xg3s) | 4:07 |
 | 11 | [Pensando en Ti](https://open.spotify.com/track/7MfrwUdFybdVfNHd1wcH63) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Pensando en Ti](https://open.spotify.com/album/328KPPOFjIYTfLsH8iyIAh) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0LGEA8.md) - [plain]
 | 49 | [Humo y Tequila](https://open.spotify.com/track/0MXSsoo0t2UDuqpISvdU3A) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Humo y Tequila](https://open.spotify.com/album/0VMJ1Z2uByksrNmrcsVCS0) | 4:29 |
 | 50 | [Noche De Lokera](https://open.spotify.com/track/2AE2CB3jFINTfjhlOWgDx9) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A) | [Hits Visuales, Vol\. 1](https://open.spotify.com/album/2IHqRzkYGxiiVSZ8mdKnok) | 4:24 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDlkNGM5YjY4ZWU1ZjE4YjEyM2E3YjE2ZmY4MmY5ZWFl`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGUzNGQwNzg3MjgxZWMzOWRiNzBhOGYxMGI3OGFiNmMw`

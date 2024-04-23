@@ -372,7 +372,7 @@
       ],
       "date_added": "2022-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 170843,
       "name": "Gotta Believe",
       "url": "https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO"
@@ -676,6 +676,28 @@
       "duration_ms": 506200,
       "name": "I'm Getting Ready",
       "url": "https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP"
+    },
+    {
+      "album": {
+        "name": "Believe (Live)",
+        "url": "https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Purpose Worship",
+          "url": "https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 428181,
+      "name": "I've Been Waiting - Live",
+      "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
     },
     {
       "album": {

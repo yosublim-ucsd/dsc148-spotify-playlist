@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 209,
+  "2024-04-23": 209,
   "date_first_scraped": "2023-03-18",
   "description": "With Callie Day, Terrell Grice, Shel\u00e9a and more",
   "name": "Callie Day Radio",
@@ -1355,7 +1355,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 400253,
       "name": "Available To You",
       "url": "https://open.spotify.com/track/0b4W94Y8SzMzxbL8glbXMV"
@@ -2037,7 +2037,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-10",
+      "date_removed": null,
       "duration_ms": 276991,
       "name": "Bless Somebody Else (Dorothy's Song)",
       "url": "https://open.spotify.com/track/44exLlofkDlBfdeJyJtnRS"
@@ -2170,6 +2170,24 @@
     },
     {
       "album": {
+        "name": "The Nu Nation Project",
+        "url": "https://open.spotify.com/album/2AipEP8KHGkhpQkhqBYTfH"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209573,
+      "name": "Blessing In The Storm",
+      "url": "https://open.spotify.com/track/6pnl2K7y2aA8eMJjwMBigb"
+    },
+    {
+      "album": {
         "name": "Four",
         "url": "https://open.spotify.com/album/3u22dfrDKIicxT3S165n26"
       },
@@ -2283,7 +2301,7 @@
       ],
       "date_added": "2023-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 238784,
       "name": "Bow Down - Radio Version",
       "url": "https://open.spotify.com/track/1dpkB3U45Sy3sJHX4p4KDq"
@@ -3419,7 +3437,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 337896,
       "name": "Dear God - Live",
       "url": "https://open.spotify.com/track/0ROHVar91z6Coqmv5WKjDP"
@@ -4503,7 +4521,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 268081,
       "name": "Fear and Faith Can't Live Together",
       "url": "https://open.spotify.com/track/4y3DjpTkrGgdJMf5dmE1uQ"
@@ -5879,7 +5897,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 252029,
       "name": "God Is Able",
       "url": "https://open.spotify.com/track/1xSTs5VF8BtRQpzR2fkj9A"
@@ -8681,7 +8699,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 273013,
       "name": "I Belong Here",
       "url": "https://open.spotify.com/track/22tu08CfFWq1nkJiOBp0xa"
@@ -8985,7 +9003,7 @@
       ],
       "date_added": "2023-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 401466,
       "name": "I Don't Feel Noways Tired",
       "url": "https://open.spotify.com/track/24qfSdQa013gZ7GqlMjRx9"
@@ -10815,7 +10833,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 351533,
       "name": "I'm Still Here",
       "url": "https://open.spotify.com/track/0qtIa1k4Dh5bVYNngW9SDz"
@@ -11311,7 +11329,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 219866,
       "name": "In The Garden",
       "url": "https://open.spotify.com/track/2eeYyj1vbbkye5vmOnZSF7"
@@ -12279,7 +12297,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 541893,
       "name": "Jesus Saves",
       "url": "https://open.spotify.com/track/0ZHkUuCSPch90Levz43rW5"
@@ -14893,7 +14911,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 423733,
       "name": "Midnight - Beautiful Album Version",
       "url": "https://open.spotify.com/track/1XdOLrBeMAO3CoOXa9x0PI"
@@ -15199,7 +15217,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 383893,
       "name": "More, More, More",
       "url": "https://open.spotify.com/track/5bViLIKOBeIH49Gyleo1rE"
@@ -16565,7 +16583,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 304373,
       "name": "Oh It Is Jesus",
       "url": "https://open.spotify.com/track/6jrBiDvxmrRecURfqE29fB"
@@ -16757,7 +16775,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 209213,
       "name": "Oh, Lord, I Want You To Help Me",
       "url": "https://open.spotify.com/track/4YYAq7R4J1BOj48nKA0icC"
@@ -17243,7 +17261,7 @@
       ],
       "date_added": "2023-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 252619,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/5p4aqYZlL44hI0imyk7AV2"
@@ -17283,7 +17301,7 @@
       ],
       "date_added": "2023-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 290600,
       "name": "Pass Me Not",
       "url": "https://open.spotify.com/track/1pGfsKTVU8e7vcCeL2cln4"
@@ -18093,7 +18111,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-01",
+      "date_removed": null,
       "duration_ms": 229026,
       "name": "Psalm 64",
       "url": "https://open.spotify.com/track/1RzJSycPERDFCJ5gZz11DL"
@@ -18665,7 +18683,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-16",
+      "date_removed": null,
       "duration_ms": 187133,
       "name": "Run Til I Finish",
       "url": "https://open.spotify.com/track/70f2csknABwJHInhZD03hq"
@@ -22279,7 +22297,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 291813,
       "name": "There Is More",
       "url": "https://open.spotify.com/track/0RugrGfhtDCfFN4SUwg0th"
@@ -23811,6 +23829,24 @@
       "duration_ms": 175266,
       "name": "We'll Understand It Better Bye And Bye",
       "url": "https://open.spotify.com/track/52bOTRPWzzTT2os8BADhjN"
+    },
+    {
+      "album": {
+        "name": "We're Going To Make It",
+        "url": "https://open.spotify.com/album/3Lmez2yORQIBYXdS6Z7qdc"
+      },
+      "artists": [
+        {
+          "name": "Myrna Summers & Rev. Timothy Wright",
+          "url": "https://open.spotify.com/artist/0Jd1Xw088l9oCLy9ou38Nh"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 415613,
+      "name": "We're Going To Make It",
+      "url": "https://open.spotify.com/track/5g88NIge8fib8hW28EzpQf"
     },
     {
       "album": {

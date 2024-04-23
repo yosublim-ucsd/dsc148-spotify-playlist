@@ -4,7 +4,7 @@
 
 > A mega Anime hits mix! アニメシーンのロング&メガヒット曲をまとめて楽しもう。Illustration by <a href="https://kazuhisauragami.com/"> Kazuhisa Uragami</a>
 
-679 songs - 1 day 20 hr 42 min
+680 songs - 1 day 20 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -283,6 +283,7 @@
 | [Sense](https://open.spotify.com/track/6Tav592Kp5bcrdoLlZbSfM) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Sense](https://open.spotify.com/album/6X7WGh9omm3GVTmJIDBUbU) | 3:24 | 2022-06-14 | 2022-07-29 |
 | [Shake & Shake](https://open.spotify.com/track/0idhExUjnjy7SKveejhupN) | [sumika](https://open.spotify.com/artist/0ySFZq3Wd0SQUyJUzmJAeb) | [Shake & Shake](https://open.spotify.com/album/4098ruOtOKi0By5IGTp7HD) | 4:08 | 2022-06-14 | 2022-07-16 |
 | [Shinzo wo Sasageyo !](https://open.spotify.com/track/5uraJqtCBvLpwt3VeomZdq) | [Linked Horizon](https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO) | [Shingeki no Kiseki](https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4) | 5:41 | 2022-07-28 | 2024-04-19 |
+| [SHOCK!](https://open.spotify.com/track/2L1HeoX1m3Zv8KPM6HdfZN) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [SHOCK!](https://open.spotify.com/album/4L33Z8w28HGEwywExm2Z4L) | 3:00 | 2024-04-16 |  |
 | [Shogeki](https://open.spotify.com/track/5QwAdWCnauw0GpDzM3glrO) | [Yuko Ando](https://open.spotify.com/artist/12dhEcVUnJVnIQLt91VdA3) | [Shogeki](https://open.spotify.com/album/39y5a0EiZCEvBb4y00QnJh) | 3:01 | 2022-07-28 | 2024-01-19 |
 | [Shout Baby](https://open.spotify.com/track/3SNczkrn6bUm6zZM8i5XDe) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/5eOZfFGTrGw41rNqFjTaas) | 4:25 | 2022-06-03 | 2022-07-29 |
 | [Shout Baby](https://open.spotify.com/track/5K1m4aaPCxwnm9SKlWW1vh) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Shout Baby](https://open.spotify.com/album/09zBDn6RECoEaWhArkgnjf) | 4:25 | 2022-07-28 | 2024-04-19 |
@@ -433,7 +434,7 @@
 | [キリフダ](https://open.spotify.com/track/0E7t1CSCWQaSqLvJo0tNHE) | [PENGUIN RESEARCH](https://open.spotify.com/artist/4jiOvoNgxnEvdlBwrx6o28) | [キリフダ](https://open.spotify.com/album/7HqGIrY65zULGtgwDfTe9b) | 2:29 | 2022-06-14 | 2022-07-10 |
 | [キンギョバチ](https://open.spotify.com/track/11CfCFLGBkAYLfhld5hsRz) | [KanoeRana](https://open.spotify.com/artist/41xWPhTGTkBVZwftEX2Xft) | [キンギョバチ](https://open.spotify.com/album/3b0uUWITNCJLycX3smrciS) | 4:40 | 2022-06-03 | 2022-07-11 |
 | [ケアレス](https://open.spotify.com/track/0vEGVn21baQ0D5xaWJgLCc) | [ClariS](https://open.spotify.com/artist/5htVtReJ3NAwcAdxdHpim3) | [TVアニメ「マギアレコード 魔法少女まどか☆マギカ外伝 2nd SEASON \-覚醒前夜\-」Theme Song Collection](https://open.spotify.com/album/2pw39NnC62DLxaNFeAYRui) | 4:14 | 2022-06-21 | 2022-07-24 |
-| [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-18 |  |
+| [コイコガレ](https://open.spotify.com/track/1RtxMS6dcQuxK5y8TKh4Md) | [milet](https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM), [MAN WITH A MISSION](https://open.spotify.com/artist/3NTbOmzlj2cL86XFuDVFvZ) | [コイコガレ](https://open.spotify.com/album/71gRqLVrm4OMLRUYXMkWbu) | 3:35 | 2023-07-18 | 2024-04-23 |
 | [ココロオドル \-original version\-](https://open.spotify.com/track/4SUcD2v7iEcjMiQJTC6idd) | [nobodyknows+](https://open.spotify.com/artist/7lSZHedda1CjyJwI6Z9Zlj) | [ココロオドル \-original version\- / Hero's Come Back!! BESTタッグ](https://open.spotify.com/album/5Ut8vkVvaJFT7XhnqMGsUR) | 4:13 | 2022-07-07 | 2022-07-09 |
 | [サイレントマイノリティー](https://open.spotify.com/track/2X0KAuaG6RCoa8C1A1DPmI) | [Kashitaro Ito](https://open.spotify.com/artist/3i7tuzRfutJGAUowspOM1f) | [TVアニメ「乙女ゲー世界はモブに厳しい世界です」オープニングテーマ「サイレントマイノリティー」](https://open.spotify.com/album/5hK3alKl1ln4eAJtM3vN4u) | 3:38 | 2022-07-14 | 2022-07-16 |
 | [サクラミツツキ](https://open.spotify.com/track/2M0eegWyJdvE3tUTWe8mFL) | [SPYAIR](https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt) | [MILLION](https://open.spotify.com/album/6OkpOEghbWWOSzbCvbWIBL) | 3:37 | 2022-06-03 | 2022-07-28 |

@@ -1,6 +1,6 @@
 {
   "description": "Disfruta del m\u00e1s fino R&B hecho en espa\u00f1ol. LIT killah y Milo J en portada.",
-  "num_followers": 253309,
+  "num_followers": 253288,
   "original_name": "R&B Latino",
   "owner": {
     "name": "Spotify",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Makin Money",
+        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
+      },
+      "artists": [
+        {
+          "name": "Foudeqush",
+          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
+        }
+      ],
+      "duration_ms": 188737,
+      "name": "Makin Money",
+      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Curvas",
         "url": "https://open.spotify.com/album/4epp2PoR2TdOkYN90EG1MT"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 159465,
       "name": "ADI\u00d3S AMOR",
       "url": "https://open.spotify.com/track/3icYhbxVykalMuLA3rVcp0"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Makin Money",
-        "url": "https://open.spotify.com/album/5LFrClQQyURQWYOTIIA0vm"
-      },
-      "artists": [
-        {
-          "name": "Foudeqush",
-          "url": "https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd"
-        }
-      ],
-      "duration_ms": 188737,
-      "name": "Makin Money",
-      "url": "https://open.spotify.com/track/0nMeCH0qe2CTdA6YDzyFRW"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Boomerang",
-        "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
-      },
-      "artists": [
-        {
-          "name": "Miranda Santizo",
-          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
-        }
-      ],
-      "duration_ms": 169365,
-      "name": "Boomerang",
-      "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "ahora A.K.A NAO",
         "url": "https://open.spotify.com/album/7rGwf6uEx1n7o5x53r2oaD"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 202400,
       "name": "Mi Piscis",
       "url": "https://open.spotify.com/track/2H6a6uhaCicyhpoPdfUSAm"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Boomerang",
+        "url": "https://open.spotify.com/album/6GBWx201Pez8oOd7Y4Szqe"
+      },
+      "artists": [
+        {
+          "name": "Miranda Santizo",
+          "url": "https://open.spotify.com/artist/0vnFLa5I5bovwTOiCebuCT"
+        }
+      ],
+      "duration_ms": 169365,
+      "name": "Boomerang",
+      "url": "https://open.spotify.com/track/3VeFS1wjkjIk3pfzdtB4GJ"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1479,26 +1479,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Barco",
-        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        },
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "Barco",
-      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Running Away",
         "url": "https://open.spotify.com/album/61e4jD3cr8rPCz1TYDaUFb"
       },
@@ -1515,6 +1495,26 @@
       "duration_ms": 180565,
       "name": "Running Away",
       "url": "https://open.spotify.com/track/1QvmQqljAlV0vdc2N18fI8"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Barco",
+        "url": "https://open.spotify.com/album/4kBwg7WWtpNMnm4LfNYXkK"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        },
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 238000,
+      "name": "Barco",
+      "url": "https://open.spotify.com/track/2x6pJL7zRMTT4GMLWcUTLL"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Nervios de Acero",
-        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
+        "name": "Room 302",
+        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
       },
       "artists": [
         {
-          "name": "Irepelusa",
-          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
         }
       ],
-      "duration_ms": 187368,
-      "name": "Nervios de Acero",
-      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
+      "duration_ms": 182500,
+      "name": "Room 302",
+      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Room 302",
-        "url": "https://open.spotify.com/album/2ahKg6oAm6bUCnCaUob2mV"
+        "name": "Nervios de Acero",
+        "url": "https://open.spotify.com/album/0Q1CgNC7kxF5R1Ln5LfTO2"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+          "name": "Irepelusa",
+          "url": "https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw"
         }
       ],
-      "duration_ms": 182500,
-      "name": "Room 302",
-      "url": "https://open.spotify.com/track/1CRG6Br8GUtDwpi2l4LuIW"
+      "duration_ms": 187368,
+      "name": "Nervios de Acero",
+      "url": "https://open.spotify.com/track/5AtOFc69R8iYQlShJoXB3n"
     },
     {
       "added_at": "2024-04-19 06:00:00",

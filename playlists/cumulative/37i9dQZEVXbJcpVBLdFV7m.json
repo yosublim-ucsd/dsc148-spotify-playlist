@@ -451,6 +451,24 @@
     },
     {
       "album": {
+        "name": "Bongoloco",
+        "url": "https://open.spotify.com/album/14L2mKGJukRn3jtAB04ZxV"
+      },
+      "artists": [
+        {
+          "name": "Bruno Furlan",
+          "url": "https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206250,
+      "name": "Bongoloco",
+      "url": "https://open.spotify.com/track/3k45oaugo4fin6M1KrtO8f"
+    },
+    {
+      "album": {
         "name": "2093",
         "url": "https://open.spotify.com/album/1jXYc5gip5tqCTDOotfY5L"
       },
@@ -704,7 +722,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
@@ -892,7 +910,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
@@ -1196,7 +1214,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 123428,
       "name": "Faster n Harder",
       "url": "https://open.spotify.com/track/499mGaGmtP9U1MPGVeUOIV"
@@ -1254,7 +1272,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 157974,
       "name": "Feel It - From The Original Series \u201cInvincible\u201d",
       "url": "https://open.spotify.com/track/3SAga35lAPYdjj3qyfEsCF"
@@ -2119,6 +2137,24 @@
     },
     {
       "album": {
+        "name": "Kopnej",
+        "url": "https://open.spotify.com/album/0ymIY3FjipJchSd3OHaSgF"
+      },
+      "artists": [
+        {
+          "name": "MBT",
+          "url": "https://open.spotify.com/artist/7iCQglTnIkivy8E3yP7WMd"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200437,
+      "name": "Kopnej",
+      "url": "https://open.spotify.com/track/6Hk5pAiHlvamdvpNNwTczI"
+    },
+    {
+      "album": {
         "name": "LAYALI",
         "url": "https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp"
       },
@@ -2624,7 +2660,7 @@
       ],
       "date_added": "2024-03-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 114955,
       "name": "MONTAGEM DIAMANTE ROSA - SLOWED",
       "url": "https://open.spotify.com/track/6fdjPVlCwFryREAsmRHy4C"
@@ -3948,7 +3984,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 211456,
       "name": "Sigue",
       "url": "https://open.spotify.com/track/63ZedTAVRCICh2CNLWnsPZ"
@@ -4492,7 +4528,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-25",
+      "date_removed": null,
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -5652,7 +5688,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 261600,
       "name": "\u0414\u0438\u0448\u0430\u0439",
       "url": "https://open.spotify.com/track/4QOo2JSh916Fj2PQfQRFXQ"

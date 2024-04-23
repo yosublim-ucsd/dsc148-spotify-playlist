@@ -1,12 +1,12 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 221281,
+  "num_followers": 221280,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDBkMWJlMWI0NDg2N2M0OTZhZDYzNmZiODM0NGE1Njcx",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGQ0ZGYwZjMwMmUzMjkwMzNlZmI5YWExZjY5MWJkY2Mx",
   "tracks": [
     {
       "added_at": null,
@@ -963,26 +963,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olvidemos el Reloj",
-        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "M2H",
-          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Olvidemos el Reloj",
-      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Tiempo Cura",
         "url": "https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0"
       },
@@ -999,6 +979,26 @@
       "duration_ms": 208564,
       "name": "El Tiempo Cura",
       "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Olvidemos el Reloj",
+        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Olvidemos el Reloj",
+      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
     },
     {
       "added_at": null,

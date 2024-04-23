@@ -4,7 +4,7 @@
 
 > Adormecer ao som relaxante da chuva.
 
-434 songs - 20 hr 7 min
+435 songs - 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,6 +290,7 @@
 | [Raindrop Therapy: Calming Nature Sounds](https://open.spotify.com/track/6D9jolrYI4EHvePVa9FNdq) | [Rainfall Place](https://open.spotify.com/artist/12VKP0dcM6h7NRx0UPgqXX) | [Raindrop Therapy: Calming Nature Sounds](https://open.spotify.com/album/3HoeofPBTDfp2OUeF8HKux) | 2:26 | 2023-06-15 |  |
 | [Rainfall Oasis: Journey to Serenity](https://open.spotify.com/track/3yA4BEbG49OFuPHjrR4tbA) | [Sky Fall SF](https://open.spotify.com/artist/5ZYniVpbDvHg0ywuRU8Wb7) | [Rainy Day Zen: Relaxing Rain Soundscape](https://open.spotify.com/album/2CGrdBC5OnBoSbh886WuYH) | 2:40 | 2023-06-15 |  |
 | [Rainfall Reverberations: Melodic Rain Sounds](https://open.spotify.com/track/20HUGlsJXMHLAXkW5HDoav) | [Score Of The Poar](https://open.spotify.com/artist/1wF4K9mRRgY5YGI0Jv1HIt) | [Tranquil Showers: Refreshing Rain Sounds](https://open.spotify.com/album/75Z3imNQxLfriwo9X5iWQv) | 2:30 | 2023-06-15 |  |
+| [Rainfall Symphony](https://open.spotify.com/track/45lICfV5vHF9zeVTsXoREP) | [Pax Natura](https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ) | [Rainfall Symphony](https://open.spotify.com/album/21xYLPgL1tcmjJekVbq6UH) | 4:24 | 2024-03-27 |  |
 | [Raining After Midnight](https://open.spotify.com/track/0ngmRlW9zdGf52YSsZfhbM) | [Ray N.Y](https://open.spotify.com/artist/6QOi0WtxrycnPENvP8Rhvz) | [Heavy Rain](https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs) | 2:20 | 2023-06-15 |  |
 | [Raining Coma](https://open.spotify.com/track/3Iz6G9HAuoh31yBriwzMMw) | [Precip](https://open.spotify.com/artist/2MvLKa31qeJOBzobqE10FX) | [Heavy Due](https://open.spotify.com/album/3RcTFyLySVy1aRt1ah2Ytx) | 3:00 | 2023-06-15 |  |
 | [raining for hours](https://open.spotify.com/track/3L1JHXiqNOJ57w3n2R3HyU) | [ame](https://open.spotify.com/artist/7htQnykNfk2Bu39bSw7owz) | [grey cloud](https://open.spotify.com/album/2Iyw159svPU1i8iNnHDIne) | 2:11 | 2023-06-15 | 2024-03-21 |
@@ -367,7 +368,7 @@
 | [Storm Ahead](https://open.spotify.com/track/4kHA1o1prccwstvGjPAUkP) | [Taranis](https://open.spotify.com/artist/1NJVAyxYtsmOu8aiWyVpaH) | [Celtic Storm](https://open.spotify.com/album/5CFVwpOfT7S8GZ5stbFQbn) | 3:12 | 2023-06-15 |  |
 | [Storm Dreaming](https://open.spotify.com/track/5jD3UfznmqTdBvWOkKKPKa) | [Haruna Fields](https://open.spotify.com/artist/3hrpVisxCnVzRPdXg4K6EL) | [Black Storm](https://open.spotify.com/album/1F9tRpXv45NOVwyvgSFF9R) | 2:04 | 2023-06-15 |  |
 | [Storm During Night](https://open.spotify.com/track/0DhLvC2rnUUEffwwHYoCt6) | [Atmospheric Force](https://open.spotify.com/artist/6Py5HyyKAoChKdXs6CofD8) | [Stormy Conditions](https://open.spotify.com/album/54Sg1PfgxhbOgIrCmxMuwf) | 2:47 | 2023-06-15 |  |
-| [Storm In Manchester](https://open.spotify.com/track/6OoxcsTg73NQ7gGc163hsz) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [British Storms](https://open.spotify.com/album/2tp4FAKkOdT7SFI0ilV5Ap) | 3:36 | 2023-06-15 |  |
+| [Storm In Manchester](https://open.spotify.com/track/6OoxcsTg73NQ7gGc163hsz) | [April Shower](https://open.spotify.com/artist/2cwPMVEFK3JRfFmbStXoMD) | [British Storms](https://open.spotify.com/album/2tp4FAKkOdT7SFI0ilV5Ap) | 3:36 | 2023-06-15 | 2024-04-23 |
 | [Storm Is Building Up](https://open.spotify.com/track/13yZWnQQjc3VrHXh16ujky) | [Weather Man](https://open.spotify.com/artist/5znXlYkm0Dv19ioN2utZFv) | [Low Pressure](https://open.spotify.com/album/36Bvfz1AnAQaBYOVZjmf96) | 2:36 | 2023-06-15 |  |
 | [Storm på Västkusten](https://open.spotify.com/track/1GrVV84J9doI0HuXVuxXQu) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian storms](https://open.spotify.com/album/5Exe9UKxWCFz7yLoBBACFb) | 2:27 | 2023-06-15 |  |
 | [Storm Through The Night](https://open.spotify.com/track/1OMb4pb98GL1SJBJqM3Mq3) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Storm Through The Night](https://open.spotify.com/album/3ET4fRTZD9UegXiX0tgky5) | 2:36 | 2023-06-15 |  |

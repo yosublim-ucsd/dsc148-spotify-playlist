@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs in Latin America in 2014. Cover: Romeo Santos",
-  "num_followers": 34437,
+  "num_followers": 34533,
   "original_name": "Latin Hits 2014",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2024-04-06 00:41:46",
       "album": {
+        "name": "Golpe Avisa",
+        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
+      },
+      "artists": [
+        {
+          "name": "Cartel De Santa",
+          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
+        }
+      ],
+      "duration_ms": 213480,
+      "name": "Los Mensajes del Whatsapp",
+      "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
         "name": "8",
         "url": "https://open.spotify.com/album/3dnAanoquMtbaksF7pUjyI"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 221946,
       "name": "Llegaste T\u00fa",
       "url": "https://open.spotify.com/track/609SDGj0txmlAXRrpwee9Y"
-    },
-    {
-      "added_at": "2024-04-06 00:41:46",
-      "album": {
-        "name": "Golpe Avisa",
-        "url": "https://open.spotify.com/album/2EexU9SdoDbgCGazUepCyL"
-      },
-      "artists": [
-        {
-          "name": "Cartel De Santa",
-          "url": "https://open.spotify.com/artist/07PdYoE4jVRF6Ut40GgVSP"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "Los Mensajes del Whatsapp",
-      "url": "https://open.spotify.com/track/2MJVc9F85EPNiSfD1KKhC9"
     },
     {
       "added_at": "2024-04-06 00:41:46",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-04-06 00:41:46",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 234373,
-      "name": "Pasos de cero",
-      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
-    },
-    {
-      "added_at": "2024-04-06 00:41:46",
-      "album": {
         "name": "Love and Sex",
         "url": "https://open.spotify.com/album/04NPh9S2gPzYveqlJYQ0V8"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 220866,
       "name": "Choca",
       "url": "https://open.spotify.com/track/5E0gsHgrsCwG4FxTit0ltJ"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 234373,
+      "name": "Pasos de cero",
+      "url": "https://open.spotify.com/track/18mmN3VrFWRi6SsSBJf6WJ"
     },
     {
       "added_at": "2024-04-06 00:41:46",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-04-06 00:41:46",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 287733,
-      "name": "Recu\u00e9rdame",
-      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
-    },
-    {
-      "added_at": "2024-04-06 00:41:46",
-      "album": {
         "name": "Un alumno m\u00e1s",
         "url": "https://open.spotify.com/album/0Ggp1Xlj8V9dBz1nrQATgo"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 216000,
       "name": "Una Noche M\u00e1s",
       "url": "https://open.spotify.com/track/4HLGAcqh05iAqsCCs8ayrq"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
+      },
+      "artists": [
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 287733,
+      "name": "Recu\u00e9rdame",
+      "url": "https://open.spotify.com/track/5UEtsmhfAtUb1KmPGougtO"
     },
     {
       "added_at": "2024-04-06 00:41:46",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-04-06 00:41:46",
       "album": {
-        "name": "Terral",
-        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
-      },
-      "artists": [
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 241013,
-      "name": "Por fin",
-      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
-    },
-    {
-      "added_at": "2024-04-06 00:41:46",
-      "album": {
         "name": "Radio Universo",
         "url": "https://open.spotify.com/album/6JRDbgNUSL0I38UMocyBS1"
       },
@@ -847,6 +831,22 @@
     {
       "added_at": "2024-04-06 00:41:46",
       "album": {
+        "name": "Johnny Sky",
+        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+      },
+      "artists": [
+        {
+          "name": "Johnny Sky",
+          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+        }
+      ],
+      "duration_ms": 240732,
+      "name": "Quiereme",
+      "url": "https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB"
+    },
+    {
+      "added_at": "2024-04-06 00:41:46",
+      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og"
       },
@@ -863,18 +863,18 @@
     {
       "added_at": "2024-04-06 00:41:46",
       "album": {
-        "name": "Johnny Sky",
-        "url": "https://open.spotify.com/album/6PVFjEtIIZaK4fj1ACzVoi"
+        "name": "Terral",
+        "url": "https://open.spotify.com/album/1cWvezm4YsxlvvOSRUXLmS"
       },
       "artists": [
         {
-          "name": "Johnny Sky",
-          "url": "https://open.spotify.com/artist/3EVZsBWq5KqdtS6eVNHN8d"
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
         }
       ],
-      "duration_ms": 240732,
-      "name": "Quiereme",
-      "url": "https://open.spotify.com/track/3zLZzw2t5mbsLaNQURufkB"
+      "duration_ms": 241013,
+      "name": "Por fin",
+      "url": "https://open.spotify.com/track/0YUiI4zdalScQmDUahywEg"
     }
   ],
   "unique_name": "Latin Hits 2014",

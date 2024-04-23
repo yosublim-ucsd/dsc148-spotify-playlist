@@ -2,14 +2,14 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 
 ### [Armada Today](https://open.spotify.com/playlist/3PCZEuLpGKpsEHeaQ6cKEN)
 
-> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover: Sharam, Green Velvet,  Adam Beyer,  Layton Giordani
+> The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:Charlie Boon
 
-[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 273,388 likes - 210 songs - 11 hr 14 min
+[Armada Music](https://open.spotify.com/user/armadamusicofficial) - 272,975 likes - 210 songs - 11 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
-| 2 | [All My Life](https://open.spotify.com/track/1AEdLtFcRC1HUBzj97XWTV) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [All My Life](https://open.spotify.com/album/19Vgz8pVKz3MkkR7x8uIZJ) | 2:26 |
+| 1 | [All My Life](https://open.spotify.com/track/1AEdLtFcRC1HUBzj97XWTV) | [Charlie Boon](https://open.spotify.com/artist/6NGofnQORNQtnWXN3ef270) | [All My Life](https://open.spotify.com/album/19Vgz8pVKz3MkkR7x8uIZJ) | 2:26 |
+| 2 | [PATT \(Party All The Time\) \- Adam Beyer, Layton Giordani & Green Velvet Remix](https://open.spotify.com/track/6DFHSmlrZLDZnXV5kTTMF6) | [Sharam](https://open.spotify.com/artist/7rVEQZBDtYmToQaYOQJCm2), [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2) | [PATT \(Party All The Time\) \[Adam Beyer, Layton Giordani & Green Velvet Remix\]](https://open.spotify.com/album/5GqWIHTVjceZXGpzIc1a2J) | 3:03 |
 | 3 | [Hands](https://open.spotify.com/track/5u1mG6G7YKeI7mmebulqUT) | [OFFAIAH](https://open.spotify.com/artist/2E1NFr5AeEGUJkLUUsWCAO) | [Hands](https://open.spotify.com/album/44xvwDapMZ387AQbNoBSGW) | 2:28 |
 | 4 | [What Took You So Long](https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [What Took You So Long](https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h) | 3:31 |
 | 5 | [Concentrate](https://open.spotify.com/track/5r95IdimXwAdL3jN33BjVB) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Carl Cox](https://open.spotify.com/artist/19SmlbABtI4bXz864MLqOS) | [Concentrate](https://open.spotify.com/album/5EhPHzAp8qZMtdB1Y2EuHP) | 2:43 |
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/3PCZEuLpGKpsEHeaQ6cKEN.md) - [plain]
 | 209 | [Fever](https://open.spotify.com/track/1KGsBbd2rHdhWTRb0x4kTO) | [David Penn](https://open.spotify.com/artist/5kA0fIY29Fnfu4U2I2xvki), [KPD](https://open.spotify.com/artist/0hfAYH44GGDMvBJ4uGp4u0) | [Fever](https://open.spotify.com/album/5k7CAr5HR1lllblIW482AW) | 3:08 |
 | 210 | [Like Water](https://open.spotify.com/track/6NHxw3CZj7c8c25x15GXEt) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [Amira Eldine](https://open.spotify.com/artist/5x0OHHY63e9ikyPpyUUrst) | [Like Water](https://open.spotify.com/album/3818IN5vl1Qme8qm1nNG8E) | 2:48 |
 
-Snapshot ID: `NTM1MjAsOGU1ODYzY2U5YzBlMjJkNDA1MmRhN2IwZTIzYmY1NjljMjk2YmNkZg==`
+Snapshot ID: `NTM1MjIsNGEwMDBlNjU3MTc3NzU2NzdmZGEzNDU1ODdkYWMwY2U2MDQ4YmM5Nw==`

@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 481390,
+  "num_followers": 481583,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-04-19 16:58:28",
       "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
+    },
+    {
+      "added_at": "2024-04-19 16:58:28",
+      "album": {
         "name": "Can't Get You out of My Head (Peggy Gou\u2019s Midnight Remix)",
         "url": "https://open.spotify.com/album/046ZhN1OxrBDq9KSUQTzm3"
       },
@@ -595,26 +615,6 @@
       "duration_ms": 181459,
       "name": "Quiver",
       "url": "https://open.spotify.com/track/59AhbmCmtzcGVEYuzNXFIx"
-    },
-    {
-      "added_at": "2024-04-19 16:58:28",
-      "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "added_at": "2024-04-19 16:58:28",

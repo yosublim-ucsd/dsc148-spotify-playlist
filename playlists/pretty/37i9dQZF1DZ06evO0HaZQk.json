@@ -1,12 +1,12 @@
 {
-  "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 491661,
+  "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
+  "num_followers": 491539,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDA2ZjMxNjAwNGU1NWQ2MzRkMzE0NzA2MzRjYTE1Njk2",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDAyNDY0NjZkNWZhY2FlNjBhYzlmYzgxN2JmYzZmZTI3",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Contra el Viento",
-        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 231946,
-      "name": "Remamos",
-      "url": "https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RawayanaLand",
         "url": "https://open.spotify.com/album/3Qxc69fEzxQpVni3yfu5UD"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 267200,
       "name": "Mamita (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Contra el Viento",
+        "url": "https://open.spotify.com/album/16nUcmZoEneQGzyvqpXrGr"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 231946,
+      "name": "Remamos",
+      "url": "https://open.spotify.com/track/2mtmUkZBBPehTwrAp05VGv"
     },
     {
       "added_at": null,

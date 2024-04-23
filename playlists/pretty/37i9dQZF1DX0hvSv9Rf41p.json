@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:bass\">bass</a> with Riot Ten",
-  "num_followers": 976550,
+  "num_followers": 976360,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -1921,26 +1921,6 @@
       "url": "https://open.spotify.com/track/4bjyN1jFFC43cSTPtxqWpt"
     },
     {
-      "added_at": "2024-01-05 05:03:38",
-      "album": {
-        "name": "Hot In Here",
-        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
-      },
-      "artists": [
-        {
-          "name": "Champion",
-          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
-        },
-        {
-          "name": "Sammy Virji",
-          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
-        }
-      ],
-      "duration_ms": 191022,
-      "name": "Hot In Here",
-      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
-    },
-    {
       "added_at": "2023-10-20 04:01:00",
       "album": {
         "name": "You Found Me",
@@ -1965,6 +1945,26 @@
       "url": "https://open.spotify.com/track/5caU54QlqCMPEKIbQ3nbhd"
     },
     {
+      "added_at": "2024-01-05 05:03:38",
+      "album": {
+        "name": "Hot In Here",
+        "url": "https://open.spotify.com/album/02oLtxGI6xxN68iVnnDR6W"
+      },
+      "artists": [
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Sammy Virji",
+          "url": "https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb"
+        }
+      ],
+      "duration_ms": 191022,
+      "name": "Hot In Here",
+      "url": "https://open.spotify.com/track/0jzGm5fCcbUdaiUj4hAxeM"
+    },
+    {
       "added_at": "2023-12-15 05:13:07",
       "album": {
         "name": "In The Place",
@@ -1979,6 +1979,26 @@
       "duration_ms": 230400,
       "name": "In The Place",
       "url": "https://open.spotify.com/track/64VyLST8MmGb2x5ilwNm2l"
+    },
+    {
+      "added_at": "2024-01-19 05:00:00",
+      "album": {
+        "name": "Harbinger",
+        "url": "https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS"
+      },
+      "artists": [
+        {
+          "name": "SVDDEN DEATH",
+          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
+        },
+        {
+          "name": "Bejalvin",
+          "url": "https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb"
+        }
+      ],
+      "duration_ms": 133587,
+      "name": "Teeth (feat. Bejalvin)",
+      "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
     },
     {
       "added_at": "2023-11-10 05:00:00",
@@ -2027,26 +2047,6 @@
       "duration_ms": 167176,
       "name": "BOSS FIGHT",
       "url": "https://open.spotify.com/track/4LLfFnU48vESdgSHR7WeqR"
-    },
-    {
-      "added_at": "2024-01-19 05:00:00",
-      "album": {
-        "name": "Harbinger",
-        "url": "https://open.spotify.com/album/5pazNbyAVUbzngKtSko5zS"
-      },
-      "artists": [
-        {
-          "name": "SVDDEN DEATH",
-          "url": "https://open.spotify.com/artist/2u01kCKA5wDvvztuH8lyT0"
-        },
-        {
-          "name": "Bejalvin",
-          "url": "https://open.spotify.com/artist/2tIX1YEoPn5Mzxh2LPzeIb"
-        }
-      ],
-      "duration_ms": 133587,
-      "name": "Teeth (feat. Bejalvin)",
-      "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
     },
     {
       "added_at": "2023-10-20 04:01:00",

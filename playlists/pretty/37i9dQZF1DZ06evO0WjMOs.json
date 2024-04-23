@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzy McAlpine. The essential tracks, all in one playlist.",
-  "num_followers": 27831,
+  "num_followers": 27850,
   "original_name": "This Is Lizzy McAlpine",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGM3N2FmMTE0OTg1YTQ5YjNhMTkxN2VhMzUyNDcwYWIz",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGI2MThhYTEwZDllOWE5NzdiYTUwYzY0OTgxNjNkMWQy",
   "tracks": [
     {
       "added_at": null,
@@ -170,11 +170,15 @@
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 268432,
-      "name": "doomsday",
-      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
+      "duration_ms": 189247,
+      "name": "reckless driving",
+      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
     },
     {
       "added_at": null,
@@ -238,15 +242,11 @@
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         }
       ],
-      "duration_ms": 189247,
-      "name": "reckless driving",
-      "url": "https://open.spotify.com/track/5GpEHUNI0T7L7H3DnAaBXh"
+      "duration_ms": 268432,
+      "name": "doomsday",
+      "url": "https://open.spotify.com/track/4WjxtORnwPavm5PDsAWJEc"
     },
     {
       "added_at": null,
@@ -471,26 +471,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Grey Area",
-        "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
+        "name": "False Art",
+        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
       },
       "artists": [
         {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          "name": "Ben Kessler",
+          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
         },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        },
-        {
-          "name": "Tiny Habits",
-          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 133626,
-      "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
-      "url": "https://open.spotify.com/track/07hbdNti9gk29sidptgZou"
+      "duration_ms": 183454,
+      "name": "False Art",
+      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
     },
     {
       "added_at": null,
@@ -511,22 +507,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "False Art",
-        "url": "https://open.spotify.com/album/4AkKVNM05Pf48mQVhAj5SZ"
+        "name": "A Grey Area",
+        "url": "https://open.spotify.com/album/2m7UZMFoKqkCSz1KEX6in0"
       },
       "artists": [
         {
-          "name": "Ben Kessler",
-          "url": "https://open.spotify.com/artist/6Lx82nbEVfeTfEa4yT01Jo"
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
         },
         {
           "name": "Lizzy McAlpine",
           "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        },
+        {
+          "name": "Tiny Habits",
+          "url": "https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn"
         }
       ],
-      "duration_ms": 183454,
-      "name": "False Art",
-      "url": "https://open.spotify.com/track/5eBZPQjBjCRXKsu9DnfS21"
+      "duration_ms": 133626,
+      "name": "Everything Ends (feat. Lizzy McAlpine and Tiny Habits)",
+      "url": "https://open.spotify.com/track/07hbdNti9gk29sidptgZou"
     },
     {
       "added_at": null,

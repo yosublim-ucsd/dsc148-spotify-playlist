@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 
 ### [This Is Humbe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DwpxK)
 
-> This Is Humbe\. Los temas esenciales, todos en una lista.
+> This is Humbe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,875 likes - 41 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 162,149 likes - 41 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,11 +23,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 13 | [TU VALOR](https://open.spotify.com/track/4NytE0I3U8ZVsfO9Bxc2jQ) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:00 |
 | 14 | [Muchachitos Feat\. Humbe](https://open.spotify.com/track/22D72L2NnJJkI5m1g3pXnj) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [DOS DOS DOS](https://open.spotify.com/album/0mND2TIOaPmbkchdyu59TP) | 3:05 |
 | 15 | [tú me hiciste volar](https://open.spotify.com/track/7gx3fwyhHjpLbuW236QYiT) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:06 |
-| 16 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
+| 16 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
 | 17 | [sanvalentín:\(](https://open.spotify.com/track/6oyz3h6HEpmzvXxjWcf8J6) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 4:02 |
 | 18 | [CÓMO RESPIRAR???](https://open.spotify.com/track/0K7JLUqCpPJrFRz4Eb9g14) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [CÓMO RESPIRAR???](https://open.spotify.com/album/4d6dB3zVorvbqroywYr09q) | 3:41 |
 | 19 | [Te Conocí en Japón](https://open.spotify.com/track/1QSvHSBcPlSlHhsntszy85) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:08 |
-| 20 | [MANIFIESTO](https://open.spotify.com/track/3dCaq6gk0XBCSfnlupKJ5r) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 4:05 |
+| 20 | [AURORA](https://open.spotify.com/track/0NHsOitbhh1DJy1b6otZHf) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [AURORA](https://open.spotify.com/album/2Yjubr5GHX41ht808oZPzs) | 5:50 |
 | 21 | [mamá](https://open.spotify.com/track/2JW4s3HaqPerHX3R644sIG) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ESENCIA](https://open.spotify.com/album/39dBODVnnDV4ZB1TtPeMTj) | 3:29 |
 | 22 | [Amor a Primera](https://open.spotify.com/track/2filNZQPKju4OSbRKQvI2V) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Amor a Primera](https://open.spotify.com/album/050xwu2KqU1mned3kh65Nw) | 3:06 |
 | 23 | [Himno](https://open.spotify.com/track/0qKwMEPwaEs4CuVGrGFYFR) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [ENTROPÍA](https://open.spotify.com/album/34ra2lYORSjzzupmCDKz46) | 3:27 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0DwpxK.md) - [plain]
 | 40 | [Encerrados](https://open.spotify.com/track/3bLEc8iw4wZqMFb6MFB7Bg) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:36 |
 | 41 | [Nunca Dijiste Adiós](https://open.spotify.com/track/0lTHLJ03jTiaGnhVBTY2vc) | [Humbe](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Sonámbulo](https://open.spotify.com/album/7cDgpvAVujyriu78aIkw4M) | 3:39 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDVkZDEwMjcxZDFhZDQzMWRmZjlkMGI3MGRhNjAxZjI5`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDdiNzg2ZmQyOWYxZjYyMGEyNDMzZTg5OTFlMmE0NGY0`

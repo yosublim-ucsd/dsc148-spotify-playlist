@@ -2,9 +2,9 @@
 
 ### [This Is Carlos Rafael Rivera](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Wf5EQ)
 
-> This Is Carlos Rafael Rivera\. Los temas esenciales, todos en una lista.
+> This is Carlos Rafael Rivera\. The essential tracks, all in one playlist.
 
-49 songs - 1 hr 27 min
+50 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [LaBelle Opera](https://open.spotify.com/track/4aE6lKn6mPTRF2DDqUPAuS) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:23 | 2024-01-27 | 2024-04-15 |
 | [Lessons In Chemistry](https://open.spotify.com/track/5uF3bldebcNNuyZaJliK5h) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:16 | 2023-12-13 |  |
 | [Levantate Abuelo](https://open.spotify.com/track/122XzF89QhYoZkPIj5p53f) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Chupa \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/6GGqqXXRUwPfbkLaUD65mm) | 0:58 | 2023-11-10 | 2024-02-25 |
+| [Mad](https://open.spotify.com/track/5UvOMRZ9OLfWlHAF72qo6y) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 1:56 | 2024-04-23 |  |
 | [Marcus And Wilson](https://open.spotify.com/track/38KL6ie7NlCpJnw27cyuNT) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Hacks: Season 1 \(Original Series Soundtrack\)](https://open.spotify.com/album/5UvGy41xXQxYWguXtHMHoI) | 1:01 | 2023-06-13 | 2023-06-18 |
 | [Marguerite](https://open.spotify.com/track/4F2pkHXBCYJucVQI7d1TRl) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 1:29 | 2024-02-11 | 2024-04-09 |
 | [Mary Agnes & Callie](https://open.spotify.com/track/3ywYZubSA4DRPT8JyBgAyp) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 1:21 | 2023-04-19 |  |
@@ -47,7 +48,7 @@
 | [Sygrayem \(Let's Play\)](https://open.spotify.com/track/4OuuChRBdM8QPEl9yDIrSX) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 2:11 | 2023-06-18 | 2023-07-02 |
 | [The Monk](https://open.spotify.com/track/4JKdXCwp1mB0lMGhsNbRRx) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 1:43 | 2024-03-02 | 2024-04-22 |
 | [The Old Mill](https://open.spotify.com/track/0ReMdMIsV9wkI4YHGx6dP7) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 2:25 | 2024-03-01 | 2024-03-15 |
-| [The Remsen](https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:24 | 2024-01-02 |  |
+| [The Remsen](https://open.spotify.com/track/51qQvPxeHMUvHaMnwZxU3b) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Lessons In Chemistry: Season 1 \(Apple Original Series Soundtrack\)](https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP) | 2:24 | 2024-01-02 | 2024-04-23 |
 | [The Scholar's Mate](https://open.spotify.com/track/2qKga0VHaH41ajUMbVofcb) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [The Queen's Gambit \(Music from the Netflix Limited Series\)](https://open.spotify.com/album/7Gdn94u4xTxoIpfq2rZci9) | 1:18 | 2023-04-03 |  |
 | [Thirty Horses](https://open.spotify.com/track/1x0z9afsXvpw5iCF9ZliId) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Godless \(Original Music from the Netflix Series\)](https://open.spotify.com/album/4S2jmig5eJzSEqTKDQwdkv) | 2:46 | 2023-04-03 |  |
 | [Tricked](https://open.spotify.com/track/6DRA0bA2uKiq21dLrP8vTo) | [Carlos Rafael Rivera](https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh) | [Monsieur Spade \(Original Series Soundtrack\)](https://open.spotify.com/album/4xHv6i545xZKmZR2J5ui1u) | 1:14 | 2024-04-02 | 2024-04-12 |

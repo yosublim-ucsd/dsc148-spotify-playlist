@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Lourena, MC Hariel",
-  "num_followers": 290026,
+  "num_followers": 289906,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -223,8 +223,8 @@
     {
       "added_at": "2024-04-19 18:19:34",
       "album": {
-        "name": "Ibiza",
-        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+        "name": "Me Espera",
+        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
       },
       "artists": [
         {
@@ -232,17 +232,17 @@
           "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
         },
         {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+          "name": "Papatinho",
+          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
         },
         {
-          "name": "HHR",
-          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+          "name": "Camila Zasoul",
+          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Ibiza",
-      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+      "duration_ms": 194821,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
     },
     {
       "added_at": "2024-04-19 18:19:34",
@@ -267,6 +267,26 @@
       "duration_ms": 220000,
       "name": "S\u00f3 Olha - Ao Vivo",
       "url": "https://open.spotify.com/track/26OAbs5hQcTnIlk9nmo4FY"
+    },
+    {
+      "added_at": "2024-04-19 18:19:34",
+      "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
     },
     {
       "added_at": "2024-04-19 18:19:34",
@@ -323,6 +343,30 @@
     {
       "added_at": "2024-04-19 18:19:34",
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/50GOoPDaUtjpGX36yhrgz7"
+      },
+      "artists": [
+        {
+          "name": "L7NNON",
+          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
+        },
+        {
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "HHR",
+          "url": "https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/0iqMxa5BrNSP4ogxOwwqIK"
+    },
+    {
+      "added_at": "2024-04-19 18:19:34",
+      "album": {
         "name": "Praia do Rosa",
         "url": "https://open.spotify.com/album/1tZ0Nwo5mAogte1wpVjTuT"
       },
@@ -339,50 +383,6 @@
       "duration_ms": 155553,
       "name": "Praia do Rosa",
       "url": "https://open.spotify.com/track/6uVu7KamzHXTUKSjfdZb84"
-    },
-    {
-      "added_at": "2024-04-19 18:19:34",
-      "album": {
-        "name": "Me Espera",
-        "url": "https://open.spotify.com/album/4JL14tRjU1msXjdvLmfLof"
-      },
-      "artists": [
-        {
-          "name": "L7NNON",
-          "url": "https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C"
-        },
-        {
-          "name": "Papatinho",
-          "url": "https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv"
-        },
-        {
-          "name": "Camila Zasoul",
-          "url": "https://open.spotify.com/artist/48L62vfIzemLRdkT35IeqH"
-        }
-      ],
-      "duration_ms": 194821,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0571RzyEWagSsz0pA45VxJ"
-    },
-    {
-      "added_at": "2024-04-19 18:19:34",
-      "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
     },
     {
       "added_at": "2024-04-19 18:19:34",
@@ -435,6 +435,30 @@
     {
       "added_at": "2024-04-19 18:19:34",
       "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "added_at": "2024-04-19 18:19:34",
+      "album": {
         "name": "Ladeira da Vida",
         "url": "https://open.spotify.com/album/2gjNuzeCoJy6YMU3udbhHw"
       },
@@ -471,30 +495,6 @@
     {
       "added_at": "2024-04-19 18:19:34",
       "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
-      },
-      "artists": [
-        {
-          "name": "Budah",
-          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
-        },
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        }
-      ],
-      "duration_ms": 244571,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
-    },
-    {
-      "added_at": "2024-04-19 18:19:34",
-      "album": {
         "name": "Teu Sorriso",
         "url": "https://open.spotify.com/album/0yEhVaO6xTfNdhY8ByYqZE"
       },
@@ -519,26 +519,26 @@
     {
       "added_at": "2024-04-19 18:19:34",
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/4QptkBkKgK640CMy4kaivu"
       },
       "artists": [
         {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+          "name": "Budah",
+          "url": "https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO"
         },
         {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
         },
         {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
         }
       ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+      "duration_ms": 244571,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/0j6vQv5SiLZOficlBiFWnT"
     },
     {
       "added_at": "2024-04-19 18:19:34",
@@ -695,6 +695,22 @@
     {
       "added_at": "2024-04-19 18:19:34",
       "album": {
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
+      },
+      "artists": [
+        {
+          "name": "Luana Berti",
+          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
+        }
+      ],
+      "duration_ms": 143661,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
+    },
+    {
+      "added_at": "2024-04-19 18:19:34",
+      "album": {
         "name": "Ele Me Falou",
         "url": "https://open.spotify.com/album/1ZcPayaQioWQ4DRcJUqJoh"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 209268,
       "name": "Ele Me Falou",
       "url": "https://open.spotify.com/track/5OHyVyyjFInvuuBeupT7c5"
-    },
-    {
-      "added_at": "2024-04-19 18:19:34",
-      "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/0zS2dRNVij5Z1A7fi5wpRV"
-      },
-      "artists": [
-        {
-          "name": "Luana Berti",
-          "url": "https://open.spotify.com/artist/15a4XZHhLX9jMVKnIUn79T"
-        }
-      ],
-      "duration_ms": 143661,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/5sDpV6Z7wwfATtiSVkt5Hu"
     },
     {
       "added_at": "2024-04-19 18:19:34",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2024-04-19 18:19:34",
       "album": {
+        "name": "Fico Bem",
+        "url": "https://open.spotify.com/album/1SNQV9at6GikGl11XRMUtR"
+      },
+      "artists": [
+        {
+          "name": "Projota",
+          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
+        }
+      ],
+      "duration_ms": 184075,
+      "name": "Fico Bem",
+      "url": "https://open.spotify.com/track/5huAwkSNnxPsQQVdaXMwJQ"
+    },
+    {
+      "added_at": "2024-04-19 18:19:34",
+      "album": {
         "name": "Escuro Brilhante, \u00daltimo Dia no Orfanato Tia Guga",
         "url": "https://open.spotify.com/album/5Y2p1OcAawojX5XstCxJob"
       },
@@ -1207,22 +1223,6 @@
       "duration_ms": 203141,
       "name": "Gingado Dela",
       "url": "https://open.spotify.com/track/0NBgncDWl87Zpoi2oy48lJ"
-    },
-    {
-      "added_at": "2024-04-19 18:19:34",
-      "album": {
-        "name": "Fico Bem",
-        "url": "https://open.spotify.com/album/1SNQV9at6GikGl11XRMUtR"
-      },
-      "artists": [
-        {
-          "name": "Projota",
-          "url": "https://open.spotify.com/artist/2zGf6lwQ9PxXdoeo5XXP2K"
-        }
-      ],
-      "duration_ms": 184075,
-      "name": "Fico Bem",
-      "url": "https://open.spotify.com/track/5huAwkSNnxPsQQVdaXMwJQ"
     },
     {
       "added_at": "2024-04-19 18:19:34",

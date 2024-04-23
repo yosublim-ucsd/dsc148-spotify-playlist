@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,294 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,236 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,9 +34,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 24 | [Keep Crashing](https://open.spotify.com/track/3w752Se1mkiTtMqAeoli1y) | [Ruzer](https://open.spotify.com/artist/09mAGI8RIblTO46vN2FQaq) | [Keep Crashing](https://open.spotify.com/album/4tjTuXsc7Icjn6hg9JZyOg) | 2:58 |
 | 25 | [Change Us](https://open.spotify.com/track/6SfsL6v65hiJwS0clxWsw5) | [Snavs](https://open.spotify.com/artist/4xFadP7L1YVwVSjDDfjKjM), [Jack Dawson](https://open.spotify.com/artist/2UrCf8LmvXFfXAR0HtGkSx) | [Change Us](https://open.spotify.com/album/2aHsYsKRe868FXbHlo9WZu) | 2:51 |
 | 26 | [Let's Roll](https://open.spotify.com/track/35lF14PODtapsReNYnN6D9) | [Ephixa](https://open.spotify.com/artist/7xYcJfhrRx9Iv8smhoEibc), [Going Quantum](https://open.spotify.com/artist/14XqctcPu0lzQjrUZ06Tsn) | [Let's Roll](https://open.spotify.com/album/6NF7Hsl2Z64odMfXKMHLpY) | 3:49 |
-| 27 | [Feel Alive](https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Lone / Feel Alive](https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG) | 3:18 |
-| 28 | [Take You Down](https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Take You Down / Melange](https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq) | 3:43 |
-| 29 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
+| 27 | [Vex](https://open.spotify.com/track/5EYmCZ7F6sA7fVhNhkAMf1) | [Bensley](https://open.spotify.com/artist/3SfEKS85dj9v75ROsWJSiL) | [Vex](https://open.spotify.com/album/76zmqdpTOItu1E4PXhgCML) | 3:55 |
+| 28 | [Feel Alive](https://open.spotify.com/track/28kPohGGsDT7hbOZVhpB8j) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [SOUNDR](https://open.spotify.com/artist/0YnlfML5Nu6DrpCshXMH0X) | [Lone / Feel Alive](https://open.spotify.com/album/0frTSsh3FnxkCVF4NcNANG) | 3:18 |
+| 29 | [Take You Down](https://open.spotify.com/track/4bJpdznQXEeRE1xrn69nMU) | [Fox Stevenson](https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy) | [Take You Down / Melange](https://open.spotify.com/album/0cBF66VT43qWDEKFQ7qjOq) | 3:43 |
 | 30 | [Cyclone](https://open.spotify.com/track/6iQwh5BYsrqdjaQVzz5iAE) | [Montee](https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG), [Kyrill](https://open.spotify.com/artist/5e5rUBxDpavATXOiXbaoQK) | [Cyclone](https://open.spotify.com/album/4LERF7il6VDwrBWkVZLjIJ) | 3:06 |
 | 31 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
 | 32 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 42 | [Outlaw](https://open.spotify.com/track/45g7ik10mOQ2YCv0lOULLP) | [Degs](https://open.spotify.com/artist/7gYMOxGbwZZgvaOc6z5VJG), [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Outlaw](https://open.spotify.com/album/4qgo6AVeJsQOqVMYDSoV0U) | 3:29 |
 | 43 | [Dynamite](https://open.spotify.com/track/4V3hPbuDGoK5pGSqeYhDdt) | [Pirapus](https://open.spotify.com/artist/7KgEOoJ0CawH7NOaLe34Qe) | [Dynamite](https://open.spotify.com/album/4QbFXXhWgq2EIlaTaGgXs4) | 3:49 |
 | 44 | [u want me](https://open.spotify.com/track/1bUXna1GljM8CwCvLiK8oE) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [u want me](https://open.spotify.com/album/0ig4oVRsVf6z5EavfOvhNL) | 3:05 |
-| 45 | [Wish You Were Dead](https://open.spotify.com/track/0vetKRU0ky6bwDGZcoTNE9) | [Tom Finster](https://open.spotify.com/artist/0jA09tU838A2JRveNgDSGa) | [Untiefe EP](https://open.spotify.com/album/3eZCLfJ7Zb7yxRCJfQlrIm) | 4:34 |
-| 46 | [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 |
+| 45 | [Wait](https://open.spotify.com/track/7Fdw5PCKFHkHJAhhDIj0qA) | [NEUNOSIEM](https://open.spotify.com/artist/4DStul0QS1lt65yVW1wDbQ) | [Wait](https://open.spotify.com/album/31NKlTHMrNqj1doFeGp09f) | 2:59 |
+| 46 | [Wish You Were Dead](https://open.spotify.com/track/0vetKRU0ky6bwDGZcoTNE9) | [Tom Finster](https://open.spotify.com/artist/0jA09tU838A2JRveNgDSGa) | [Untiefe EP](https://open.spotify.com/album/3eZCLfJ7Zb7yxRCJfQlrIm) | 4:34 |
 | 47 | [Believer](https://open.spotify.com/track/0KuvjeKpXNK6fMPsnpJ0cm) | [Friction](https://open.spotify.com/artist/5xdizdgbQQvGAgAolGhpXr) | [Believer](https://open.spotify.com/album/09539Dh2pzs6OmoWsXFtFH) | 3:38 |
 | 48 | [Where Have You Been \- Drum & Bass](https://open.spotify.com/track/3K7gluY2Myz8ptVbct7n9r) | [Jungle Queen](https://open.spotify.com/artist/2MIRGflIq2CXV97zccpIpb), [Tsenay](https://open.spotify.com/artist/6aHn8RsiWlLB8K6CWHFxeO), [dj tani](https://open.spotify.com/artist/4c59nmQyhUfXe5RkS0bjNA) | [Where Have You Been \(Drum & Bass\)](https://open.spotify.com/album/5avrrjAJ3RMeBvC3z8wC7p) | 2:22 |
 | 49 | [Galaxies](https://open.spotify.com/track/2wJwCrie7euxtBIl1uZGXi) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH) | [Monstercat \- Best of 2020](https://open.spotify.com/album/3juG6u5kmrIdzbPEBu75xk) | 4:05 |

@@ -4,7 +4,7 @@
 
 > أفضل الأغاني الشعبية من قلب مصر! غلاف:<a href="https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM?si=BAGxzWLhTSGNNpZ3FoAIug">  رضا البحراوي </a>
 
-256 songs - 18 hr 48 min
+258 songs - 18 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Bena2es](https://open.spotify.com/track/50L0cjBEGiEuxA15kQw850) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Bena2es](https://open.spotify.com/album/3r6ulG2SGCqROirKSqdetn) | 4:08 | 2021-12-16 | 2022-12-21 |
 | [Bent El Soltan](https://open.spotify.com/track/31LFewwCdaBFct3p1Os0fn) | [Ahmed Adaweya](https://open.spotify.com/artist/7EJbIeuxQY12K2EQoRbPC5) | [Bent El Soltan](https://open.spotify.com/album/7G75mfH0x0LG40buGY3LGI) | 12:41 | 2021-12-16 |  |
 | [Beshweish Alaya](https://open.spotify.com/track/1e41x6mKFcFNCWx4jolBuB) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Beshweish Alaya](https://open.spotify.com/album/61XCudIdITOYqycdnHI34j) | 4:29 | 2021-12-16 | 2023-02-17 |
-| [Bet Ya Helwa](https://open.spotify.com/track/4YF7Mrdj25M0rCtb3iiY43) | [Ismail El\-lethi](https://open.spotify.com/artist/2ksh3ZKKnIFDl0HZjVbI3i) | [Bet Ya Helwa](https://open.spotify.com/album/7kD9idyzxKPp3mjV5LoJyi) | 4:03 | 2021-12-16 |  |
+| [Bet Ya Helwa](https://open.spotify.com/track/4YF7Mrdj25M0rCtb3iiY43) | [Ismail El\-lethi](https://open.spotify.com/artist/2ksh3ZKKnIFDl0HZjVbI3i) | [Bet Ya Helwa](https://open.spotify.com/album/7kD9idyzxKPp3mjV5LoJyi) | 4:03 | 2021-12-16 | 2024-04-23 |
 | [Betkhony Ya Waleed](https://open.spotify.com/track/76CDBfhrgF0pgL1ygK6q7y) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Betkhony Ya Waleed](https://open.spotify.com/album/6UKoFFHNtrat5J7yztu4sJ) | 3:08 | 2023-09-01 | 2023-09-20 |
 | [Bonbonaya](https://open.spotify.com/track/5ekfw4C7jpdLtbfQ1A5SYo) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [Bonbonaya](https://open.spotify.com/album/0OY59LMcxeUJqfLgknZg4M) | 3:57 | 2021-12-16 | 2023-07-12 |
 | [Bye Bye](https://open.spotify.com/track/5gb1HXr2CFFMURJRLzpzHi) | [Amina](https://open.spotify.com/artist/6Uov1ltYtgzByzlGDyDBcO) | [Bye Bye](https://open.spotify.com/album/4IhnA20aSZK2h7cj9naprD) | 3:16 | 2021-12-16 | 2022-09-26 |
@@ -211,10 +211,12 @@
 | [دوكه](https://open.spotify.com/track/3O01ChQwIuqwZSHSv1aFWQ) | [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ), [Houda Bodok](https://open.spotify.com/artist/1siovIHkUbtQoPKWw9uWSd) | [دوكه](https://open.spotify.com/album/4l8WltW1mSqTOmby0ASWwx) | 2:27 | 2023-06-25 | 2023-08-25 |
 | [رؤيه](https://open.spotify.com/track/0CbicEFhMQc3pJvVCXGWCQ) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [رؤيه](https://open.spotify.com/album/543Xje9ZP6XhTf8h9hOznR) | 5:14 | 2021-12-16 | 2022-07-29 |
 | [رؤيه](https://open.spotify.com/track/6fUKfFIg9KDlAEEv5fbA5Y) | [Wael El Fashny](https://open.spotify.com/artist/3HmBF9Z6hSXHWDMgLALAnD) | [رؤيه](https://open.spotify.com/album/0sViw2t348HGD2T27ek4sk) | 5:14 | 2022-07-14 | 2023-05-12 |
+| [رايقة رايقة](https://open.spotify.com/track/2rCx7525ytyjPPqLwVyqjc) | [Hamada El Leithy](https://open.spotify.com/artist/3l9SjFdMWrYsIDtFxanbzm), [Amr Salama](https://open.spotify.com/artist/4GcegYRULZV2bEkSgl01Wk) | [رايقة رايقة](https://open.spotify.com/album/20hlcAIrpd2bg8IURWAFxG) | 3:28 | 2024-04-22 |  |
 | [رجوله برجوله](https://open.spotify.com/track/2jKz9RbKLDLoLGVUQcJyGN) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/4ONvsbkmfIQNvHa3Bc6STl) | 2:39 | 2022-09-01 | 2023-02-23 |
 | [رجوله برجوله](https://open.spotify.com/track/6zHTueE7m07zUriRDA5qIJ) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6) | [رجوله برجوله](https://open.spotify.com/album/0RpaDyeJRmBWFpWWTlFPmM) | 2:39 | 2021-12-16 | 2022-07-29 |
 | [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/track/5VW3aJVP0CxGxlMYLUvOhJ) | [Reda El Bahrawy](https://open.spotify.com/artist/3gCqbhXmiSto3R8U9YZcZM) | [رضا البحراوي اغنية البابا وصل](https://open.spotify.com/album/2CeT9WKHjiLdd39o2UeukO) | 3:41 | 2022-10-26 | 2022-11-17 |
 | [رقم واحد في الجراح](https://open.spotify.com/track/0XgVRCUMm6hNjQuxMbkHPZ) | [Tarek El Sheikh](https://open.spotify.com/artist/6dUaKkMGw5Ov1gaokc7YBN) | [رقم واحد في الجراح](https://open.spotify.com/album/50DzYdnPjLu83s33XW7dzc) | 3:03 | 2024-01-02 | 2024-04-19 |
+| [روقان](https://open.spotify.com/track/6bltDO0jvqd9OQqhtR4Hjf) | [Hoda Bondok](https://open.spotify.com/artist/3fyqTnSY7KwpOnO6zdHPVH) | [روقان](https://open.spotify.com/album/4A2j98zoNqWWBTUp9sygjs) | 2:42 | 2024-04-22 |  |
 | [زمن](https://open.spotify.com/track/1NE0yaKgeucwaWvBbFOehu) | [محمود معتمد](https://open.spotify.com/artist/1qLRa9jjpAzxs3NPglKHBK) | [زمن](https://open.spotify.com/album/3YXBs3n5PDf1rLjayi8C9Z) | 3:46 | 2023-02-16 | 2023-05-12 |
 | [سبع طبقات](https://open.spotify.com/track/6c0Yv0sPKts7NTP1O5iZKz) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [AMEENAH](https://open.spotify.com/artist/4CvhaDfMtFJGsnBcqZIrCA) | [سبع طبقات](https://open.spotify.com/album/5oeIXy0J7lQzsFZakpq5y3) | 3:29 | 2024-02-01 | 2024-02-23 |
 | [ست البنات \- من فيلم حمص وحلاوة](https://open.spotify.com/track/7zdtpoc0FZHIhIGByD4bvP) | [Mahmoud El Leithy](https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [ست البنات \(من فيلم حمص وحلاوة\)](https://open.spotify.com/album/2oxlsSucqhSky72BZ9Iff2) | 3:11 | 2024-01-26 | 2024-02-02 |

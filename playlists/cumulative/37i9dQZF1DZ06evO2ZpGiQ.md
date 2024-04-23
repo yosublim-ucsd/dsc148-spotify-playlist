@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO2ZpGiQ.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO2ZpGiQ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO2ZpGiQ)
 
-### [This Is Lil Wayne](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZpGiQ)
+### [This Is リル・ウェイン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZpGiQ)
 
-> This is Lil Wayne\. The essential tracks, all in one playlist.
+> This is リル・ウェイン。アーティストの代表曲をひとつのプレイリストに。
 
 62 songs - 3 hr 57 min
 

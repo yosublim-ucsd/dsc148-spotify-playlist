@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 
 > The classic recordings from Bossa Nova\. Cover: João Gilberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 254,000 likes - 65 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 254,541 likes - 65 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWgccrbg3zbJ.md) - [plain]
 | 44 | [Bim Bom](https://open.spotify.com/track/2v9LGwYybWMNhO0xZXpo6M) | [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy) | [Bossa Nova Café](https://open.spotify.com/album/2umykbaUStNVXKLtbGclUz) | 1:12 |
 | 45 | [Vivo Sonhando](https://open.spotify.com/track/6tGwpf1CczvEvzVaDVUPjk) | [Stan Getz](https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8), [João Gilberto](https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Getz/Gilberto](https://open.spotify.com/album/69xayFuQfFKnxxSmHtNo6Y) | 3:04 |
 | 46 | [A Tonga Da Mironga Do Kabuletê](https://open.spotify.com/track/1xgiVKlkBQsBeDfImpQXYM) | [Toquinho](https://open.spotify.com/artist/7rPqFVgJYARiFsLDlN6W6y), [Vinícius de Moraes](https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd) | [20 Grandes Sucessos De Vinicius De Moreas](https://open.spotify.com/album/0XRyGJJdrVKMDmp70hKQpo) | 0:54 |
-| 47 | [Outra Vez](https://open.spotify.com/track/3fBxGMlrjOhQ2NOiKfrRtf) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Legends Play Jobim](https://open.spotify.com/album/2EweqGzFf3aMoV8mrZpACj) | 1:50 |
-| 48 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 |
+| 47 | [Este Seu Olhar](https://open.spotify.com/track/7lDKmjx051iKv7kU6keNEm) | [Nara Leão](https://open.spotify.com/artist/64KVQ4YupSZYrGNLduVtj3) | [Pure Bossa Nova](https://open.spotify.com/album/3Ag8PjmVWUSdUt5lbgpPTt) | 2:32 |
+| 48 | [Outra Vez](https://open.spotify.com/track/3fBxGMlrjOhQ2NOiKfrRtf) | [Elizeth Cardoso](https://open.spotify.com/artist/5w4qi7KMTWcV7sgXgVoPwW) | [Legends Play Jobim](https://open.spotify.com/album/2EweqGzFf3aMoV8mrZpACj) | 1:50 |
 | 49 | [Fotografia](https://open.spotify.com/track/7Fp9aHipEXSe218KJOQOG1) | [Elis Regina](https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Elis & Tom](https://open.spotify.com/album/3FH2fsOXRungGHJ63dKj0k) | 2:47 |
 | 50 | [Meu Mundo Caiu](https://open.spotify.com/track/4XWgUf9Hke6SekbfxEhdGG) | [Maysa](https://open.spotify.com/artist/6O67GI6ayhWHyFmOOJRLEq) | [The Sound Of Love](https://open.spotify.com/album/3KYK6KPU7EFjCsrt5cvsXC) | 3:23 |
 | 51 | [One Note Samba](https://open.spotify.com/track/00KsnoekYhjdUu9yAPvXVh) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD), [Antônio Carlos Jobim](https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG) | [Rio Revisited](https://open.spotify.com/album/5ODnlDDe8dxCN23lkc8RcI) | 3:01 |

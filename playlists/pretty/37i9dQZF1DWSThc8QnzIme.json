@@ -1,6 +1,6 @@
 {
   "description": "Breeze through your commute with these pop favorites. Cover: Sabrina Carpenter",
-  "num_followers": 277678,
+  "num_followers": 277832,
   "original_name": "Pop Drive",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "All I Want Is You",
-        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
-      },
-      "artists": [
-        {
-          "name": "Miguel",
-          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Sure Thing",
-      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Sure Thing",
+      "url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -647,22 +647,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Takin' It Back",
-        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 134256,
-      "name": "Made You Look",
-      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 186359,
       "name": "Cry",
       "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "Takin' It Back",
+        "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 134256,
+      "name": "Made You Look",
+      "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
         "name": "Save Your Tears (Remix)",
         "url": "https://open.spotify.com/album/2fyOpT5c9kxR8zbDh6UtXh"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 191013,
       "name": "Save Your Tears (with Ariana Grande) (Remix)",
       "url": "https://open.spotify.com/track/37BZB0z9T8Xu7U3e65qxFy"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Bluebird Days",
-        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        }
-      ],
-      "duration_ms": 175226,
-      "name": "Next Thing You Know",
-      "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "Hell N Back",
         "url": "https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 157714,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/1ZbqAYqiaqA9aegBxFyWax"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "Bluebird Days",
+        "url": "https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        }
+      ],
+      "duration_ms": 175226,
+      "name": "Next Thing You Know",
+      "url": "https://open.spotify.com/track/39OclE5hZematADrdfaWvE"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "After Hours",
         "url": "https://open.spotify.com/album/062urW4KS66GPlEHIueefz"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 202414,
       "name": "After Hours",
       "url": "https://open.spotify.com/track/2x03XLsTZ0o86h0cfHrkKF"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
         "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/0rQRrrZPPv6XXsxilJ1wFz"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/6b81dy3WjbozXK6b7C1gu5"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "HOPE",
-        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
-      },
-      "artists": [
-        {
-          "name": "NF",
-          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
-        }
-      ],
-      "duration_ms": 242691,
-      "name": "HAPPY",
-      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "Eastside (with Halsey & Khalid)",
         "url": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 173799,
       "name": "Eastside (with Halsey & Khalid)",
       "url": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "HOPE",
+        "url": "https://open.spotify.com/album/6zaisPwfcIAfdUGPj3mmGY"
+      },
+      "artists": [
+        {
+          "name": "NF",
+          "url": "https://open.spotify.com/artist/6fOMl44jA4Sp5b9PpYCkzz"
+        }
+      ],
+      "duration_ms": 242691,
+      "name": "HAPPY",
+      "url": "https://open.spotify.com/track/3ZEno9fORwMA1HPecdLi0R"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1539,22 +1539,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "The Beginning: Cupid",
-        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
-      },
-      "artists": [
-        {
-          "name": "FIFTY FIFTY",
-          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
-        }
-      ],
-      "duration_ms": 174253,
-      "name": "Cupid - Twin Ver.",
-      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "1989",
         "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 160766,
       "name": "Remember",
       "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "The Beginning: Cupid",
+        "url": "https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4"
+      },
+      "artists": [
+        {
+          "name": "FIFTY FIFTY",
+          "url": "https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6"
+        }
+      ],
+      "duration_ms": 174253,
+      "name": "Cupid - Twin Ver.",
+      "url": "https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1631,6 +1631,22 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
+        "name": "Numb Little Bug",
+        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
+      },
+      "artists": [
+        {
+          "name": "Em Beihold",
+          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
+        }
+      ],
+      "duration_ms": 169237,
+      "name": "Numb Little Bug",
+      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
         "name": "Incredible (feat. Labrinth)",
         "url": "https://open.spotify.com/album/5ZoC2lrruEGZJCKppgOYoV"
       },
@@ -1647,22 +1663,6 @@
       "duration_ms": 213632,
       "name": "Incredible (feat. Labrinth)",
       "url": "https://open.spotify.com/track/3SOaoZ1AfhMjEMCJrdGKEw"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
-        "name": "Numb Little Bug",
-        "url": "https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM"
-      },
-      "artists": [
-        {
-          "name": "Em Beihold",
-          "url": "https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA"
-        }
-      ],
-      "duration_ms": 169237,
-      "name": "Numb Little Bug",
-      "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Last Man Standing",
-        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
-      },
-      "artists": [
-        {
-          "name": "Livingston",
-          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
-        }
-      ],
-      "duration_ms": 183021,
-      "name": "Last Man Standing",
-      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "One Thing Right",
         "url": "https://open.spotify.com/album/4QAC6FquY8D0RXom13iE5J"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 181823,
       "name": "One Thing Right",
       "url": "https://open.spotify.com/track/4hPpVbbakQNv8YTHYaOJP4"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "Last Man Standing",
+        "url": "https://open.spotify.com/album/2IdgA8BGe4nVSa2PM5uaKP"
+      },
+      "artists": [
+        {
+          "name": "Livingston",
+          "url": "https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ"
+        }
+      ],
+      "duration_ms": 183021,
+      "name": "Last Man Standing",
+      "url": "https://open.spotify.com/track/2lWdeczQNurRVraTyZFmgp"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -1863,22 +1863,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Victoria\u2019s Secret",
-        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
-      },
-      "artists": [
-        {
-          "name": "Jax",
-          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
-        }
-      ],
-      "duration_ms": 176124,
-      "name": "Victoria's Secret",
-      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "Don't Forget Me",
         "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
@@ -1891,6 +1875,22 @@
       "duration_ms": 251600,
       "name": "The Kill",
       "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "Victoria\u2019s Secret",
+        "url": "https://open.spotify.com/album/47eeG5ewIbO53gXZOkvHhg"
+      },
+      "artists": [
+        {
+          "name": "Jax",
+          "url": "https://open.spotify.com/artist/7DQYAz99eM3Y5PkP9WtUew"
+        }
+      ],
+      "duration_ms": 176124,
+      "name": "Victoria's Secret",
+      "url": "https://open.spotify.com/track/4svaKoxMMP7ImmKrD5hfQu"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Good To Be",
-        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
-      },
-      "artists": [
-        {
-          "name": "Mark Ambor",
-          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
-        }
-      ],
-      "duration_ms": 147166,
-      "name": "Good To Be",
-      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "Mistake",
         "url": "https://open.spotify.com/album/0I3LNftLmxI702wknVkcfg"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 144230,
       "name": "Mistake",
       "url": "https://open.spotify.com/track/1WLpHzABY3TFLkOQoU4bDW"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "Good To Be",
+        "url": "https://open.spotify.com/album/0GBpszNiUBiRAKZoCRb9KW"
+      },
+      "artists": [
+        {
+          "name": "Mark Ambor",
+          "url": "https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL"
+        }
+      ],
+      "duration_ms": 147166,
+      "name": "Good To Be",
+      "url": "https://open.spotify.com/track/2hPGC3ZuGsJUF1ixwzNMU6"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -2163,22 +2163,6 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Clarity",
-        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 227240,
-      "name": "Clarity",
-      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
-    },
-    {
-      "added_at": "2024-04-12 05:06:08",
-      "album": {
         "name": "99 boys",
         "url": "https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX"
       },
@@ -2191,6 +2175,22 @@
       "duration_ms": 146317,
       "name": "99 boys",
       "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
+    },
+    {
+      "added_at": "2024-04-12 05:06:08",
+      "album": {
+        "name": "Clarity",
+        "url": "https://open.spotify.com/album/4V3BerycmgxqE3sr3RaDYE"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 227240,
+      "name": "Clarity",
+      "url": "https://open.spotify.com/track/5c6lM2zjAF6MFoD8C1hiBr"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -2263,18 +2263,18 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Mourning",
-        "url": "https://open.spotify.com/album/7nMVEzxsULtU5bodJ5vw6v"
+        "name": "Healing Out of Spite",
+        "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
       },
       "artists": [
         {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+          "name": "CATTY",
+          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
         }
       ],
-      "duration_ms": 147819,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/03VEWFuke6NBTcwZR1rykF"
+      "duration_ms": 228857,
+      "name": "Healing Out of Spite",
+      "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
     },
     {
       "added_at": "2024-04-12 05:06:08",
@@ -2295,18 +2295,18 @@
     {
       "added_at": "2024-04-12 05:06:08",
       "album": {
-        "name": "Healing Out of Spite",
-        "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/7nMVEzxsULtU5bodJ5vw6v"
       },
       "artists": [
         {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
         }
       ],
-      "duration_ms": 228857,
-      "name": "Healing Out of Spite",
-      "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
+      "duration_ms": 147819,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/03VEWFuke6NBTcwZR1rykF"
     },
     {
       "added_at": "2024-04-12 05:06:08",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 
 > 
 
-[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 144 songs - 7 hr 42 min
+[James Williams](https://open.spotify.com/user/imathieu32) - 1 like - 146 songs - 7 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -152,5 +152,7 @@ pretty - [cumulative](/playlists/cumulative/7KiWS8RzTKKELnmiE4pDz3.md) - [plain]
 | 142 | [Usain](https://open.spotify.com/track/1eUqSndw8Wq35xKCIL0K7C) | [Larry League](https://open.spotify.com/artist/1s2VYzJ4Z4vFnp2yLYaLQe) | [Larry Leaks](https://open.spotify.com/album/6DXdOvjqHKwzF8nRUTbQvj) | 3:30 |
 | 143 | [No Joke](https://open.spotify.com/track/37ehwQANnRHdqvWdPlkFWA) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Season 3 \(Deluxe\)](https://open.spotify.com/album/5xtAAHr59ozJ2PQ67utEmi) | 3:15 |
 | 144 | [Treacherous](https://open.spotify.com/track/7zTuJaP8fvMWMy6DdkC9U5) | [LAZER DIM 700](https://open.spotify.com/artist/3CE6MgsLpKMDfYFtexgc8U) | [Treacherous](https://open.spotify.com/album/4oniEHUSpIyuFH7iIV0rV9) | 1:55 |
+| 145 | [Acting](https://open.spotify.com/track/2IwL0fwckPbO9sau1EHslH) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 7:05 |
+| 146 | [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 |
 
-Snapshot ID: `NzI4NCxkODI0YjU0NDgzOTBhNDBhNDBhOGYyOTZkMzUwZWIyMzUzY2Y5NWYz`
+Snapshot ID: `NzI4Niw5MDRmMjQ4OTliNjE4ZjZlYjNlNjE2ODAxOTZkOWExZTMxYjk0Mzdj`

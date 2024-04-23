@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 
 > Slow down and relax with a mix of calming piano music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,293 likes - 222 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,357 likes - 222 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,33 +31,33 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 21 | [Little Things](https://open.spotify.com/track/1L9NurhEYJFmy69FNRZpQX) | [Jeroen Granneman](https://open.spotify.com/artist/1R0UpoenE1gqapaTNm9d0f) | [Little Things](https://open.spotify.com/album/5wP3H8FWcmE8A8mGAL6VIn) | 2:10 |
 | 22 | [Toujours](https://open.spotify.com/track/53XnZJJNw7VwbmRXJE4wP2) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Toujours](https://open.spotify.com/album/5dtVQd67tUTLyVFszSzbwh) | 2:26 |
 | 23 | [Lumina](https://open.spotify.com/track/3ROPBozZCwfK1R8ZO3gcyD) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Lumina](https://open.spotify.com/album/5nyCbLJDlIvZWJ2DJRkSgh) | 2:10 |
-| 24 | [Entre manos](https://open.spotify.com/track/5Vgd3eeZtgLqtpuzvRO5Dl) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre manos](https://open.spotify.com/album/3OdZqMZqv0aKW1aWcKQqTe) | 2:13 |
-| 25 | [Lleno De Ti](https://open.spotify.com/track/5uGX3dCbfTWl6hvOkTqP8l) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Lleno De Ti](https://open.spotify.com/album/2vLdVOc4bROhHeAdxjWjto) | 2:41 |
-| 26 | [Les pavillons des délaissés](https://open.spotify.com/track/4lSyzEUY0pxWWJrhnLiyUC) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Les pavillons des délaissés](https://open.spotify.com/album/0vK08Lh4PcuujemvwSpfKW) | 2:28 |
-| 27 | [Idyll](https://open.spotify.com/track/2IbmkbZxpaEamIoEbpJ4r5) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Idyll](https://open.spotify.com/album/1eB9IofFwCJi40HRPo50ov) | 2:48 |
-| 28 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
-| 29 | [Between The Lines](https://open.spotify.com/track/3iOfZpOsRAwvGq8dXlrdvD) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Between The Lines](https://open.spotify.com/album/2bhOKZGovHAF8lgooiiG4h) | 2:59 |
-| 30 | [Feather Drift](https://open.spotify.com/track/7bqhyMBmURZagaBV7gwpdO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Feather Drift](https://open.spotify.com/album/63dhCrTLJ1AhUqhPUkL7Yj) | 2:32 |
-| 31 | [Harmony](https://open.spotify.com/track/6I3wMGZNIGwGvjPfzIyq01) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Harmony](https://open.spotify.com/album/2GsLI3ZuRTI5GyktudCsBd) | 2:43 |
-| 32 | [Inner Growth](https://open.spotify.com/track/1vUUh7PcopWP76S8ZAtX15) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Inner Growth](https://open.spotify.com/album/0FVyWF6pVe7pntNhHyLxEK) | 2:31 |
-| 33 | [Still Waters](https://open.spotify.com/track/4c3jTa0EKfUHpbfWUeHFiT) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Still Waters](https://open.spotify.com/album/1hfQwFVwaRVffpbIbQbJ3w) | 2:32 |
-| 34 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 |
-| 35 | [Dormancy](https://open.spotify.com/track/0gTGHIdwerQJczdziYMaoq) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Dormancy](https://open.spotify.com/album/1nJmaA5MmaQ8U8t2eknqYz) | 2:49 |
-| 36 | [Three Small Steps](https://open.spotify.com/track/7pYPoG1pds3ZaoZt5tVGe6) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Three Small Steps](https://open.spotify.com/album/71PNbuZGjoFXdjJ818Nv8q) | 3:03 |
-| 37 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 |
-| 38 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 |
-| 39 | [An Evening](https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm) | [Daan Duijf](https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc) | [An Evening](https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh) | 2:35 |
-| 40 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 |
-| 41 | [Angel Wings](https://open.spotify.com/track/2XZC2qNKbAKHLpvJH0BEZs) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Angel Wings](https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT) | 2:58 |
-| 42 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 |
-| 43 | [Falling Leaves](https://open.spotify.com/track/1rzC7unFOnmkvhJ8f9hKvn) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Falling Leaves](https://open.spotify.com/album/030THEgwacYaV1XQ2jumYh) | 2:48 |
-| 44 | [Kragerø](https://open.spotify.com/track/7nPNz869TJHvmEgJjH4290) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Kragerø](https://open.spotify.com/album/5TkRRcAfYAsDBCKo3kUMpx) | 2:22 |
-| 45 | [The life of a flower](https://open.spotify.com/track/1s9K9MrOUcSeeoi8HrzZM3) | [Bo Henning](https://open.spotify.com/artist/6NAmqtkKUi22cOkQCOlth6) | [The life of a flower](https://open.spotify.com/album/32C7WDFahMTVTGzMgFSz60) | 2:49 |
-| 46 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 |
-| 47 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 |
-| 48 | [Hourglass](https://open.spotify.com/track/06ccLctiYNiBdE6N24HCPO) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hourglass](https://open.spotify.com/album/0E1NjPzlHaB6BdmJTujmp0) | 2:35 |
-| 49 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 |
-| 50 | [In The Distant](https://open.spotify.com/track/5g3LiwdKsP3DCeXhzva5dY) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [In The Distant](https://open.spotify.com/album/56H0VNVYqT2QlG8FwjtHCH) | 2:33 |
+| 24 | [Lleno De Ti](https://open.spotify.com/track/5uGX3dCbfTWl6hvOkTqP8l) | [Leddei](https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs) | [Lleno De Ti](https://open.spotify.com/album/2vLdVOc4bROhHeAdxjWjto) | 2:41 |
+| 25 | [Les pavillons des délaissés](https://open.spotify.com/track/4lSyzEUY0pxWWJrhnLiyUC) | [Jane Avril](https://open.spotify.com/artist/0j9LgX7QrQUORV9eICoHap) | [Les pavillons des délaissés](https://open.spotify.com/album/0vK08Lh4PcuujemvwSpfKW) | 2:28 |
+| 26 | [Idyll](https://open.spotify.com/track/2IbmkbZxpaEamIoEbpJ4r5) | [Haupu](https://open.spotify.com/artist/4MmKQsRQZ1bHFIhYxMJOv0) | [Idyll](https://open.spotify.com/album/1eB9IofFwCJi40HRPo50ov) | 2:48 |
+| 27 | [Amiable](https://open.spotify.com/track/1WNj5OaWzAZyyAeumYFWPn) | [Sonja Elliott](https://open.spotify.com/artist/7kKuC431bgNSQmNpEUBbbr) | [Amiable](https://open.spotify.com/album/3rWRFWT7dErO0kTLSeqgJn) | 2:37 |
+| 28 | [Between The Lines](https://open.spotify.com/track/3iOfZpOsRAwvGq8dXlrdvD) | [Catherine Peterson](https://open.spotify.com/artist/4w0JSW4wf4K5yYsruCZEbV) | [Between The Lines](https://open.spotify.com/album/2bhOKZGovHAF8lgooiiG4h) | 2:59 |
+| 29 | [Feather Drift](https://open.spotify.com/track/7bqhyMBmURZagaBV7gwpdO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Feather Drift](https://open.spotify.com/album/63dhCrTLJ1AhUqhPUkL7Yj) | 2:32 |
+| 30 | [Harmony](https://open.spotify.com/track/6I3wMGZNIGwGvjPfzIyq01) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Harmony](https://open.spotify.com/album/2GsLI3ZuRTI5GyktudCsBd) | 2:43 |
+| 31 | [Inner Growth](https://open.spotify.com/track/1vUUh7PcopWP76S8ZAtX15) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Inner Growth](https://open.spotify.com/album/0FVyWF6pVe7pntNhHyLxEK) | 2:31 |
+| 32 | [Still Waters](https://open.spotify.com/track/4c3jTa0EKfUHpbfWUeHFiT) | [Dirk van Arnhem](https://open.spotify.com/artist/40yZwvRyg1OUOAonHfozfM) | [Still Waters](https://open.spotify.com/album/1hfQwFVwaRVffpbIbQbJ3w) | 2:32 |
+| 33 | [Cataverdis](https://open.spotify.com/track/6Qqto6duuFLcAUvTEsacwS) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Cataverdis](https://open.spotify.com/album/7tGqajhsfJf24VmrE96j9s) | 2:29 |
+| 34 | [Dormancy](https://open.spotify.com/track/0gTGHIdwerQJczdziYMaoq) | [Les Moray](https://open.spotify.com/artist/3oJtOPrahfYye5Ffs05pYR) | [Dormancy](https://open.spotify.com/album/1nJmaA5MmaQ8U8t2eknqYz) | 2:49 |
+| 35 | [Three Small Steps](https://open.spotify.com/track/7pYPoG1pds3ZaoZt5tVGe6) | [Flore Habendum](https://open.spotify.com/artist/3CdIKTNMspWKu4RFaWPihl) | [Three Small Steps](https://open.spotify.com/album/71PNbuZGjoFXdjJ818Nv8q) | 3:03 |
+| 36 | [Reverie](https://open.spotify.com/track/58iu44DB0JdKTGXYfbIYMA) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Reverie](https://open.spotify.com/album/6UI7QQxBRpKU8lstoM4ncP) | 2:30 |
+| 37 | [Divine](https://open.spotify.com/track/0dPlWCE1GsnltA6q0n6nzN) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Divine](https://open.spotify.com/album/2aIQpr7QM5i2xuVQuB9YpB) | 2:45 |
+| 38 | [An Evening](https://open.spotify.com/track/1XC63Vb7wvBRuIYcEuOEVm) | [Daan Duijf](https://open.spotify.com/artist/4vgc7LR6lNRJBCO1FGWeSc) | [An Evening](https://open.spotify.com/album/7DtgwEUhcxPrSNZ1Pi0Ydh) | 2:35 |
+| 39 | [Picture Life](https://open.spotify.com/track/4bjAEUYwbMIcd3e86EinLN) | [Emmanuel Sapphire](https://open.spotify.com/artist/1Xk9H6dztBzvOCUfFUaxRQ) | [Picture Life](https://open.spotify.com/album/21ZXPpXidDE9KvpZRCB12d) | 2:29 |
+| 40 | [Angel Wings](https://open.spotify.com/track/2XZC2qNKbAKHLpvJH0BEZs) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Angel Wings](https://open.spotify.com/album/65XjpkXA9NZbuhOaEOqGnT) | 2:58 |
+| 41 | [Once Forever Ago](https://open.spotify.com/track/0bGOgz4DShPF9bTMglH0n5) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Once Forever Ago](https://open.spotify.com/album/4cR5Wy8LV56sEP177KVrd6) | 2:26 |
+| 42 | [Falling Leaves](https://open.spotify.com/track/1rzC7unFOnmkvhJ8f9hKvn) | [Bjarni Erlingursson](https://open.spotify.com/artist/183EuY975jD6CSCkAEPuP6) | [Falling Leaves](https://open.spotify.com/album/030THEgwacYaV1XQ2jumYh) | 2:48 |
+| 43 | [Kragerø](https://open.spotify.com/track/7nPNz869TJHvmEgJjH4290) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Kragerø](https://open.spotify.com/album/5TkRRcAfYAsDBCKo3kUMpx) | 2:22 |
+| 44 | [The life of a flower](https://open.spotify.com/track/1s9K9MrOUcSeeoi8HrzZM3) | [Bo Henning](https://open.spotify.com/artist/6NAmqtkKUi22cOkQCOlth6) | [The life of a flower](https://open.spotify.com/album/32C7WDFahMTVTGzMgFSz60) | 2:49 |
+| 45 | [Highlands](https://open.spotify.com/track/23PYmOs15gQXHPEGQXJP8O) | [André Dívou](https://open.spotify.com/artist/1MIy4clJ09eOtu2W7wcC7T) | [Highlands](https://open.spotify.com/album/4fGBjm0G7Cr5tXeo2aHkn7) | 3:00 |
+| 46 | [Archipelago](https://open.spotify.com/track/5LmaeC0bRQqaHtK781KOhD) | [Damien Jeunet](https://open.spotify.com/artist/4PLGZc5uRGoXxjzjVDzlPs) | [Archipelago](https://open.spotify.com/album/5cvXAkKUZjtimQ19bN6AN9) | 2:38 |
+| 47 | [Hourglass](https://open.spotify.com/track/06ccLctiYNiBdE6N24HCPO) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Hourglass](https://open.spotify.com/album/0E1NjPzlHaB6BdmJTujmp0) | 2:35 |
+| 48 | [Alone in the crowd](https://open.spotify.com/track/1hYJR8FJuusobeDp9IBOs6) | [Lara Di Umbra](https://open.spotify.com/artist/26Js1EtYSgTosRfHYbEpZG) | [Alone in the crowd](https://open.spotify.com/album/3pdsFTTSJLP66YwPMOZvSO) | 2:50 |
+| 49 | [In The Distant](https://open.spotify.com/track/5g3LiwdKsP3DCeXhzva5dY) | [Dunham Froebel](https://open.spotify.com/artist/0MvupKzpYkQtaadEOoPsHT) | [In The Distant](https://open.spotify.com/album/56H0VNVYqT2QlG8FwjtHCH) | 2:33 |
+| 50 | [Entre manos](https://open.spotify.com/track/5Vgd3eeZtgLqtpuzvRO5Dl) | [Arata Rin](https://open.spotify.com/artist/61cavYEyS6y1T99hc6gjYI) | [Entre manos](https://open.spotify.com/album/3OdZqMZqv0aKW1aWcKQqTe) | 2:13 |
 | 51 | [This Tender Appeal](https://open.spotify.com/track/3RI7rnK1YgmyRcXq9pkMqQ) | [Allysium](https://open.spotify.com/artist/5uQAgpFL2lx2pufHYhPAin) | [This Tender Appeal](https://open.spotify.com/album/6mXWQfXOEZCFfEcYwC74qH) | 2:48 |
 | 52 | [The Whitening Fields](https://open.spotify.com/track/4MOy0eZpw1xoveN5S8stBC) | [Dean Caplan](https://open.spotify.com/artist/5S8R73SrnsbicfhME9Ix5q) | [The Whitening Fields](https://open.spotify.com/album/5m4Wj9vFbucH4Iq7pLapu2) | 2:33 |
 | 53 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 |
@@ -231,4 +231,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTC99MCpbjP8.md) - [plain]
 | 221 | [Love Theme](https://open.spotify.com/track/0lSZUzGi4EBc1Q0HqynTqO) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Love Theme](https://open.spotify.com/album/5trgrL7pUh0OyxMRsxztyk) | 2:59 |
 | 222 | [Eternal Light](https://open.spotify.com/track/0utTxlkXq7mv67jgyL7XEg) | [Javi Lobe](https://open.spotify.com/artist/5HofhLeuf1dGJVLDdQ6DLT) | [Eternal Light](https://open.spotify.com/album/0kKtZbnc8mRAEz6VMdhIZg) | 2:18 |
 
-Snapshot ID: `MTcxMzE5MDQzMCwwMDAwMDAwMGQyYmI5OTFlM2ZkYWUwN2RlNzAzMTkzOTIwOTBmYWM2`
+Snapshot ID: `MTcxMzc4MTI0MiwwMDAwMDAwMDY1YmNlZDU2ZGE4ZjRkNjU5YjA4YTBiZWI4MDc2Yzhj`

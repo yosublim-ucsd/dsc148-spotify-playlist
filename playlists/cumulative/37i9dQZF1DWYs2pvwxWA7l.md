@@ -4,7 +4,7 @@
 
 > The hottest Afropop records on the planet\.  Cover:  Ruger & Bnxn
 
-501 songs - 1 day 1 hr 44 min
+502 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Abena](https://open.spotify.com/track/0wJPOkn6n54O2ppeP4wHc2) | [DJ Shawn](https://open.spotify.com/artist/5o0KEMdyrT6tA9YwhI43R8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [AWESOME \(EP\)](https://open.spotify.com/album/7eKsLknJCkJLF2tujndWtp) | 2:37 | 2023-10-04 | 2023-10-13 |
 | [Addicted](https://open.spotify.com/track/0f1B2xgH5lXQ5ZYt1jZICc) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X), [Nico & Vinz](https://open.spotify.com/artist/0awl5piYwO0CDTHEkCjUhn) | [Bridging The Gap](https://open.spotify.com/album/6NQLxliCb1gZqDc1QAg85Z) | 3:26 | 2024-03-01 | 2024-03-23 |
 | [Adenuga \(feat\. Qing Madi\)](https://open.spotify.com/track/74CA9T8IpFzrLNFV6EoY3a) | [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Adenuga x Concerning](https://open.spotify.com/album/1O3r2Q1sb3XUuUFwbJQKo2) | 2:40 | 2024-04-19 |  |
+| [Agent secret](https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [Agent Secret](https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X) | 2:44 | 2024-04-19 |  |
 | [Aibu](https://open.spotify.com/track/0Jq1RbXxclz844TLHUUi0E) | [Bensoul](https://open.spotify.com/artist/09vo12hHajgG2cZzq0rGmE), [Bien](https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X) | [Aibu](https://open.spotify.com/album/0Y0he9QG0p0jFWcM9ZahzC) | 2:17 | 2022-02-11 | 2022-04-15 |
 | [Alarm](https://open.spotify.com/track/273uUYBv3zZoqSR8VOk6vV) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Alarm](https://open.spotify.com/album/7bQn6pdb6524vpGGxftUA9) | 2:22 | 2022-12-02 | 2022-12-24 |
 | [All I Want](https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC) | [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [All I Want](https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe) | 2:55 | 2024-02-23 | 2024-03-01 |
@@ -147,7 +148,7 @@
 | [Everything But You Remix \(feat\. BackRoad Gee & Young Chencs\)](https://open.spotify.com/track/1lPHY9ZgTIsG32MsmYB6Lz) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Young Chencs](https://open.spotify.com/artist/5YMGTiKafkJq2cgzBuXkYi) | [Everything But You Remix \(feat\. BackRoad Gee & Young Chencs\)](https://open.spotify.com/album/41BhXXsci7NSw4IWi4gcxR) | 2:41 | 2022-04-28 | 2022-05-03 |
 | [Eye to Eye](https://open.spotify.com/track/6la2yQPbuFKD6I1vEaS2bz) | [Nonso Amadi](https://open.spotify.com/artist/6pOz4M7D8ENqfLSFvciEuV) | [Eye to Eye](https://open.spotify.com/album/2lqCLCQj0prUEwqEDxRKIy) | 2:36 | 2022-09-01 | 2022-09-09 |
 | [Eyedwa](https://open.spotify.com/track/0AjOI7TUV7HjQe7IHUwqNZ) | [Aubrey Qwana](https://open.spotify.com/artist/6uVEWgg7sAAzfPQsXjzTRi), [Zamoh Cofi](https://open.spotify.com/artist/31BGgielHC0uRLARr7eymC) | [Amalobolo \- EP](https://open.spotify.com/album/0IYVqNYLnX0KDHi1Z2Gf3W) | 3:30 | 2021-11-25 | 2022-04-15 |
-| [FADE AWAY](https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [FADE AWAY](https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb) | 2:48 | 2024-02-16 |  |
+| [FADE AWAY](https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb) | [FADE AWAY](https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb) | 2:48 | 2024-02-16 | 2024-04-23 |
 | [Fakosi](https://open.spotify.com/track/21c4uTFmR8UccKjYoG8Mvn) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn) | [Fakosi](https://open.spotify.com/album/50K8OYdwAczPTxrEYoZCmB) | 2:45 | 2023-11-17 | 2024-02-02 |
 | [Fall](https://open.spotify.com/track/1z9QlqiV7MsrU4WBZAxsOA) | [Olakira](https://open.spotify.com/artist/0rMCvFPIvdoBmgdcVADKQE) | [Fall](https://open.spotify.com/album/4gLz3s4Zg3BduGWKk2aNPO) | 3:06 | 2022-02-17 | 2022-11-26 |
 | [Fallen Angel](https://open.spotify.com/track/3XFc1Q32ssmKglaZKI5iTI) | [Smallgod](https://open.spotify.com/artist/4qgwPhVCW359a62QYueaVP), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Fallen Angel](https://open.spotify.com/album/3O8VIa31ZtEh5DKRhMzp2m) | 3:20 | 2024-01-05 |  |

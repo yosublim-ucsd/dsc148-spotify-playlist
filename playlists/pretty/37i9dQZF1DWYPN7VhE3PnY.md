@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,528 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,552 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 45 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 |
 | 46 | [Swingin' Party](https://open.spotify.com/track/30CHepNhUAml9rw1Z0qPRf) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU) | [World, You Need a Change of Mind](https://open.spotify.com/album/3Z10TDlk4DiFPeNvOj1VXz) | 3:57 |
 | 47 | [i thought i was waiting](https://open.spotify.com/track/7jyfcztRYdl9rjrzVQoUQ2) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [love you forever](https://open.spotify.com/album/5QPDTfgHE0ElC8calQBjtb) | 3:03 |
-| 48 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |
-| 49 | [Superglue](https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [SUPERGLUE](https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX) | 3:34 |
+| 48 | [Superglue](https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [SUPERGLUE](https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX) | 3:34 |
+| 49 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |
 | 50 | [Angels By My Side](https://open.spotify.com/track/1w5flBwajxFJQToEcR2vNx) | [Sølv](https://open.spotify.com/artist/4QmC9vyeUlNcmR9sKzbmxe) | [Angels By My Side](https://open.spotify.com/album/774t1jg8P7V9oqMrW3XxPs) | 3:12 |
 
 Snapshot ID: `MTcwOTU2ODUzMSwwMDAwMDAwMDU0YTIyZWM4YTgxMGU1MTY1MWNhMGU2YzRiOWI5NWQw`

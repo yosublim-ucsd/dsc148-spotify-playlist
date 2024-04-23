@@ -1,12 +1,12 @@
 {
-  "description": "This is EGOIST. The essential tracks, all in one playlist.",
-  "num_followers": 39553,
+  "description": "This is EGOIST\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 39554,
   "original_name": "This Is EGOIST",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDY2OTUxY2QwMTBmODFiY2Y0ZmIzMDllNTY4M2JmNDgw",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDMyNzE5NDFiMmI5N2YyM2U5ZDZmYzg0ZDM3NDIyMmZl",
   "tracks": [
     {
       "added_at": null,
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 301813,
-      "name": "The Everlasting Guilty Crown Nightcore mix",
-      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
+      "duration_ms": 143946,
+      "name": "London Bridge is falling down",
+      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
     },
     {
       "added_at": null,
@@ -660,15 +660,15 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 143946,
-      "name": "London Bridge is falling down",
-      "url": "https://open.spotify.com/track/5x8Pla4awAAvyfmJG4Se2R"
+      "duration_ms": 301813,
+      "name": "The Everlasting Guilty Crown Nightcore mix",
+      "url": "https://open.spotify.com/track/4tGTYRb4WvONONBHQMAJBA"
     },
     {
       "added_at": null,
       "album": {
-        "name": "All Alone With You",
-        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
+        "name": "The Everlasting Guilty Crown",
+        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 91200,
-      "name": "All Alone With You (TV Edit) -Instrumental-",
-      "url": "https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4"
+      "duration_ms": 475773,
+      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
+      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Everlasting Guilty Crown",
-        "url": "https://open.spotify.com/album/2tXcG38XstJAsjlcoDmnxC"
+        "name": "All Alone With You",
+        "url": "https://open.spotify.com/album/6jX8qb7jeuhudH40tWG4B7"
       },
       "artists": [
         {
@@ -708,9 +708,25 @@
           "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
         }
       ],
-      "duration_ms": 475773,
-      "name": "The Everlasting Guilty Crown BOOM BOOM SATELLITES remix -The Last Moment Of The Dawn-",
-      "url": "https://open.spotify.com/track/7HkFBmpnbzUPMz3vanDPjO"
+      "duration_ms": 91200,
+      "name": "All Alone With You (TV Edit) -Instrumental-",
+      "url": "https://open.spotify.com/track/1NevfY3IplHIbDdiC5lqr4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Departures - Anata Ni Okuru Ai No Uta",
+        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
+      },
+      "artists": [
+        {
+          "name": "EGOIST",
+          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
+        }
+      ],
+      "duration_ms": 95506,
+      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c(TV Edit)-Instrumental-",
+      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
     },
     {
       "added_at": null,
@@ -759,22 +775,6 @@
       "duration_ms": 254906,
       "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c -Instrumental-",
       "url": "https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Departures - Anata Ni Okuru Ai No Uta",
-        "url": "https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy"
-      },
-      "artists": [
-        {
-          "name": "EGOIST",
-          "url": "https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj"
-        }
-      ],
-      "duration_ms": 95506,
-      "name": "Departures \u301c\u3042\u306a\u305f\u306b\u304a\u304f\u308b\u30a2\u30a4\u306e\u6b4c\u301c(TV Edit)-Instrumental-",
-      "url": "https://open.spotify.com/track/4TWjUF3wARx5I0gBMCZIJl"
     },
     {
       "added_at": null,

@@ -1536,24 +1536,6 @@
     {
       "album": {
         "name": "Dive Out",
-        "url": "https://open.spotify.com/album/4HRYlkiEjt8ckvvX88eUdf"
-      },
-      "artists": [
-        {
-          "name": "Divermy (MILIA/RARA/RIRI/KONA/YOO)",
-          "url": "https://open.spotify.com/artist/3LrI6xqtCkS1rNxJVEXofR"
-        }
-      ],
-      "date_added": "2024-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219941,
-      "name": "Dive Out",
-      "url": "https://open.spotify.com/track/0qnhkfOU7OjjrYg4qL7oTa"
-    },
-    {
-      "album": {
-        "name": "Dive Out",
         "url": "https://open.spotify.com/album/1toleh3WDPh2EL82aKONox"
       },
       "artists": [
@@ -1568,6 +1550,28 @@
       "duration_ms": 219941,
       "name": "Dive Out",
       "url": "https://open.spotify.com/track/6zEN0UTIJbRRGBzSYmkno9"
+    },
+    {
+      "album": {
+        "name": "Dive Out",
+        "url": "https://open.spotify.com/album/4HRYlkiEjt8ckvvX88eUdf"
+      },
+      "artists": [
+        {
+          "name": "Divermy (MILIA/RARA/RIRI/KONA/YOO)",
+          "url": "https://open.spotify.com/artist/3LrI6xqtCkS1rNxJVEXofR"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219941,
+      "name": "Dive Out",
+      "url": "https://open.spotify.com/track/0qnhkfOU7OjjrYg4qL7oTa"
     },
     {
       "album": {

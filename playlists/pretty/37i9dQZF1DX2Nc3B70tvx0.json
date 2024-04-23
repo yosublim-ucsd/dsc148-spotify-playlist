@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: Suki Waterhouse",
-  "num_followers": 2091211,
+  "num_followers": 2086402,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDk1OGE5MjEyNzA1YTAzZjkwZmMyY2RjYTg0MmRiZmQ4",
+  "snapshot_id": "MTcxMzgyNDgzOSwwMDAwMDAwMGIzMWFhZWRiNGI4ZDEwMTIwMmJlMzVkYmMxODcwZGYy",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -25,22 +25,6 @@
       "url": "https://open.spotify.com/track/306xT15GTuDs3NyopIANrh"
     },
     {
-      "added_at": "2024-04-04 16:13:25",
-      "album": {
-        "name": "Mary Boone",
-        "url": "https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz"
-      },
-      "artists": [
-        {
-          "name": "Vampire Weekend",
-          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
-        }
-      ],
-      "duration_ms": 266026,
-      "name": "Mary Boone",
-      "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Again",
@@ -55,6 +39,22 @@
       "duration_ms": 173447,
       "name": "Again",
       "url": "https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh"
+    },
+    {
+      "added_at": "2024-04-04 16:13:25",
+      "album": {
+        "name": "Mary Boone",
+        "url": "https://open.spotify.com/album/3BeMjbziyS6lCFnSel4Tsz"
+      },
+      "artists": [
+        {
+          "name": "Vampire Weekend",
+          "url": "https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx"
+        }
+      ],
+      "duration_ms": 266026,
+      "name": "Mary Boone",
+      "url": "https://open.spotify.com/track/0AblcvD6OBKCvICEHzgWSJ"
     },
     {
       "added_at": "2024-04-11 21:28:26",
@@ -73,56 +73,20 @@
       "url": "https://open.spotify.com/track/5jdlKW2oMtQkOaZp5YOS4G"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
+      "added_at": "2024-04-22 22:27:19",
       "album": {
-        "name": "Country",
-        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+        "name": "Maine/The Sink",
+        "url": "https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb"
       },
       "artists": [
         {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
         }
       ],
-      "duration_ms": 272065,
-      "name": "Stick Around",
-      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Vampire in Beverly Hills",
-        "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
-      },
-      "artists": [
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        },
-        {
-          "name": "Cuco",
-          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
-        }
-      ],
-      "duration_ms": 115177,
-      "name": "Changing Faces (feat. Cuco)",
-      "url": "https://open.spotify.com/track/0Ti4ZWTNevOQFTN63Vldjl"
+      "duration_ms": 293389,
+      "name": "Maine",
+      "url": "https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -149,6 +113,42 @@
       "url": "https://open.spotify.com/track/5SqHQPdRnsypIJEJNTspWE"
     },
     {
+      "added_at": "2024-04-22 15:00:52",
+      "album": {
+        "name": "Starburster",
+        "url": "https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 221450,
+      "name": "Starburster",
+      "url": "https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Vampire in Beverly Hills",
+        "url": "https://open.spotify.com/album/34GevB4U1WHwDcm7kQmANH"
+      },
+      "artists": [
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        },
+        {
+          "name": "Cuco",
+          "url": "https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP"
+        }
+      ],
+      "duration_ms": 115177,
+      "name": "Changing Faces (feat. Cuco)",
+      "url": "https://open.spotify.com/track/0Ti4ZWTNevOQFTN63Vldjl"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "Shudder",
@@ -165,90 +165,10 @@
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
     },
     {
-      "added_at": "2024-04-09 20:24:58",
-      "album": {
-        "name": "A LA SALA",
-        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
-      },
-      "artists": [
-        {
-          "name": "Khruangbin",
-          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
-        }
-      ],
-      "duration_ms": 229437,
-      "name": "Hold Me Up (Thank You)",
-      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
-    },
-    {
-      "added_at": "2024-04-11 21:28:26",
-      "album": {
-        "name": "Creatures In Heaven",
-        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
-      },
-      "artists": [
-        {
-          "name": "Glass Animals",
-          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
-        }
-      ],
-      "duration_ms": 221670,
-      "name": "Creatures in Heaven",
-      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
-    },
-    {
-      "added_at": "2024-03-01 05:05:00",
-      "album": {
-        "name": "Tejano Blue",
-        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "Tejano Blue",
-      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
-    },
-    {
-      "added_at": "2024-04-11 21:28:26",
-      "album": {
-        "name": "Lejos de Ti",
-        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
-      },
-      "artists": [
-        {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
-        }
-      ],
-      "duration_ms": 179520,
-      "name": "Lejos de Ti",
-      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
-    },
-    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Your Day Will Come",
-        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 119666,
-      "name": "Unifying Thought",
-      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
-    },
-    {
-      "added_at": "2024-03-21 18:03:44",
-      "album": {
-        "name": "So Sick Of Dreaming",
-        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
       },
       "artists": [
         {
@@ -256,25 +176,9 @@
           "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 232080,
-      "name": "So Sick Of Dreaming",
-      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
-    },
-    {
-      "added_at": "2024-03-28 23:28:29",
-      "album": {
-        "name": "Unheard",
-        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 251424,
-      "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
     },
     {
       "added_at": "2024-04-11 21:28:26",
@@ -293,20 +197,84 @@
       "url": "https://open.spotify.com/track/7ySoma7tOtUTPSELihpcko"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-04-09 20:24:58",
       "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+        "name": "A LA SALA",
+        "url": "https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2"
       },
       "artists": [
         {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+          "name": "Khruangbin",
+          "url": "https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk"
         }
       ],
-      "duration_ms": 179791,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+      "duration_ms": 229437,
+      "name": "Hold Me Up (Thank You)",
+      "url": "https://open.spotify.com/track/0juMDnoo3u3uDJ32wjK2BF"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Country",
+        "url": "https://open.spotify.com/album/6DUyohk95eun9LArJtHyF7"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 272065,
+      "name": "Stick Around",
+      "url": "https://open.spotify.com/track/4LxQxGzZj0niHD8bbZCEYn"
+    },
+    {
+      "added_at": "2024-04-11 21:28:26",
+      "album": {
+        "name": "Creatures In Heaven",
+        "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
+      },
+      "artists": [
+        {
+          "name": "Glass Animals",
+          "url": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
+        }
+      ],
+      "duration_ms": 221670,
+      "name": "Creatures in Heaven",
+      "url": "https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh"
+    },
+    {
+      "added_at": "2024-04-11 21:28:26",
+      "album": {
+        "name": "Lejos de Ti",
+        "url": "https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR"
+      },
+      "artists": [
+        {
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+        }
+      ],
+      "duration_ms": 179520,
+      "name": "Lejos de Ti",
+      "url": "https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m"
+    },
+    {
+      "added_at": "2024-03-01 05:05:00",
+      "album": {
+        "name": "Tejano Blue",
+        "url": "https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "Tejano Blue",
+      "url": "https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw"
     },
     {
       "added_at": "2024-03-28 23:28:29",
@@ -323,6 +291,70 @@
       "duration_ms": 243952,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Your Day Will Come",
+        "url": "https://open.spotify.com/album/5VJTZMk9joIX2t80S9e6ov"
+      },
+      "artists": [
+        {
+          "name": "Chanel Beads",
+          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
+        }
+      ],
+      "duration_ms": 119666,
+      "name": "Unifying Thought",
+      "url": "https://open.spotify.com/track/1y5OVG464f99HsWCVeXHtQ"
+    },
+    {
+      "added_at": "2024-03-28 23:28:29",
+      "album": {
+        "name": "Unheard",
+        "url": "https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+    },
+    {
+      "added_at": "2024-03-21 18:03:44",
+      "album": {
+        "name": "So Sick Of Dreaming",
+        "url": "https://open.spotify.com/album/3WI6jJQhOD82xGYDLTjk0v"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 232080,
+      "name": "So Sick Of Dreaming",
+      "url": "https://open.spotify.com/track/4pUWfW7nhtlmqww70u0nkh"
     },
     {
       "added_at": "2024-04-11 21:28:26",
@@ -387,6 +419,22 @@
       "duration_ms": 189640,
       "name": "World on a String",
       "url": "https://open.spotify.com/track/0IsVEZzB4oBYqf2Nx0u2n8"
+    },
+    {
+      "added_at": "2024-04-11 21:28:26",
+      "album": {
+        "name": "Big Brown Eyes",
+        "url": "https://open.spotify.com/album/0rez0kptEcS4h9NMKlHsl0"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 218469,
+      "name": "Big Brown Eyes",
+      "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE"
     },
     {
       "added_at": "2024-04-09 17:09:01",
@@ -505,6 +553,22 @@
       "url": "https://open.spotify.com/track/4u7vj352S98d9iA7ac1EVG"
     },
     {
+      "added_at": "2024-03-15 00:50:11",
+      "album": {
+        "name": "Goddess",
+        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 267866,
+      "name": "Goddess",
+      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
+    },
+    {
       "added_at": "2024-03-21 18:03:44",
       "album": {
         "name": "Shotput",
@@ -551,22 +615,6 @@
       "duration_ms": 228546,
       "name": "Prep-School Gangsters",
       "url": "https://open.spotify.com/track/0NiaHPlgDp7081zSqXuULS"
-    },
-    {
-      "added_at": "2024-04-11 21:28:26",
-      "album": {
-        "name": "Big Brown Eyes",
-        "url": "https://open.spotify.com/album/0rez0kptEcS4h9NMKlHsl0"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 218469,
-      "name": "Big Brown Eyes",
-      "url": "https://open.spotify.com/track/2eQotZtrNHzi38qge7CGXE"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -663,22 +711,6 @@
       "duration_ms": 178436,
       "name": "Pon P\u00f3n",
       "url": "https://open.spotify.com/track/4B3X07DwS1HoviCmfkEKzC"
-    },
-    {
-      "added_at": "2024-03-15 00:50:11",
-      "album": {
-        "name": "Goddess",
-        "url": "https://open.spotify.com/album/6iud55ph203oHsmq9VQBRQ"
-      },
-      "artists": [
-        {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-        }
-      ],
-      "duration_ms": 267866,
-      "name": "Goddess",
-      "url": "https://open.spotify.com/track/4R3AU2pjv8ge2siX1fVbZs"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1593,22 +1625,6 @@
       "url": "https://open.spotify.com/track/039Mnm9c2b2zI5j1iENJ7P"
     },
     {
-      "added_at": "2024-03-15 00:50:11",
-      "album": {
-        "name": "Skin",
-        "url": "https://open.spotify.com/album/5oeAizWMabulSRyY3mMjEB"
-      },
-      "artists": [
-        {
-          "name": "Allison Ponthier",
-          "url": "https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx"
-        }
-      ],
-      "duration_ms": 214282,
-      "name": "Skin",
-      "url": "https://open.spotify.com/track/5WwV3sbkt2F95hVAEs7SgZ"
-    },
-    {
       "added_at": "2024-03-28 23:28:29",
       "album": {
         "name": "Mahal",
@@ -2123,22 +2139,6 @@
       "duration_ms": 235821,
       "name": "take yr time",
       "url": "https://open.spotify.com/track/7lQbnpAD7WJj6MaPowEcwx"
-    },
-    {
-      "added_at": "2024-01-12 03:26:55",
-      "album": {
-        "name": "My Golden Years",
-        "url": "https://open.spotify.com/album/0cqMtiIhqVJMqjz8Tffsoj"
-      },
-      "artists": [
-        {
-          "name": "The Lemon Twigs",
-          "url": "https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "My Golden Years",
-      "url": "https://open.spotify.com/track/28NQHKpVvnf03kWFWIWMXR"
     }
   ],
   "unique_name": "Front Page Indie",

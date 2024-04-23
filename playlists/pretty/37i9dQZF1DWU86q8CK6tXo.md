@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 
 > Listen to women at full volume\. Cover: Maren Morris
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,566 likes - 41 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,575 likes - 41 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,9 +29,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 19 | [escapar de mí](https://open.spotify.com/track/6OdGNXcMemuWdEJIuIoQQV) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [escapar de mí](https://open.spotify.com/album/69BRUrFVqghDTidsWugUL1) | 3:48 |
 | 20 | [Docket \(feat\. Bully\)](https://open.spotify.com/track/3NfastUCFxLepBhv7UGSqR) | [Blondshell](https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij), [Bully](https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ) | [Docket \(feat\. Bully\)](https://open.spotify.com/album/5GuXfw9nUEx8TTmTpbrpEI) | 3:30 |
 | 21 | [Unfinished Business](https://open.spotify.com/track/15AMGNS7cN4zBtTafqZe7c) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Unfinished Business](https://open.spotify.com/album/7jsXqctphtpjxSyprnVlNf) | 3:16 |
-| 22 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
-| 23 | [hummingbird](https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS) | 4:27 |
-| 24 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 |
+| 22 | [Secrets](https://open.spotify.com/track/2iiBRLeAWVr20kf1XN4zZu) | [Amira Elfeky](https://open.spotify.com/artist/6Z4kwq0LOaYQW2CqudoOIk) | [Skin to Skin](https://open.spotify.com/album/5PFVeA1sXSeyPVvZSupNd8) | 3:11 |
+| 23 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 |
+| 24 | [hummingbird](https://open.spotify.com/track/5HAff5WrHbF6Z5OQ87xMYY) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [hummingbird](https://open.spotify.com/album/7uWRQGtSciziEDFxqcWNkS) | 4:27 |
 | 25 | [2AM in London](https://open.spotify.com/track/2MG0gRnnPFFMLKPF4ZH8uP) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [2AM in London](https://open.spotify.com/album/07pnM1TEU8McjEe4gw1SGQ) | 3:03 |
 | 26 | [DIRT](https://open.spotify.com/track/4yecHdRmT62mztymihKxYK) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [DIRT](https://open.spotify.com/album/5cRSLaVtgLt9U3leSOTcXD) | 2:15 |
 | 27 | [Lorelei](https://open.spotify.com/track/08fcIMIo6tXMHm0UbqVdvQ) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [For Your Consideration](https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83) | 3:00 |
@@ -48,6 +48,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU86q8CK6tXo.md) - [plain]
 | 38 | [Someone to Follow](https://open.spotify.com/track/66quf0gB7ZRU9Dgdbhpoy9) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Someone to Follow](https://open.spotify.com/album/6YeSuJSCR7M1BQXM59o0h5) | 4:46 |
 | 39 | [Jezebel](https://open.spotify.com/track/7IaLsraisLGTQOze4Ydjpw) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Jezebel](https://open.spotify.com/album/3whXNmd35dNWxBYY0DnLpl) | 3:16 |
 | 40 | [Champagne & Sushi](https://open.spotify.com/track/6l3JgDi2o2FGI9lOkULJFB) | [Emily Weisband](https://open.spotify.com/artist/1am9EW2QubqpkCbg29vu5n) | [Champagne & Sushi](https://open.spotify.com/album/54Dpx01lo22InjzBeIEpPU) | 3:25 |
-| 41 | [World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [World's Hardest Game](https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB) | 3:28 |
+| 41 | [Keep Marching \(from the Broadway musical "Suffs"\)](https://open.spotify.com/track/62gT1akd5YKj8uw5bUx9Fe) | [Shaina Taub](https://open.spotify.com/artist/1O4wMLsVVPjdhTBzR592kA), [Original Broadway Cast of Suffs](https://open.spotify.com/artist/1kskwE0A7A0TRvLjUGR5br) | [Keep Marching \(from the Broadway musical "Suffs"\)](https://open.spotify.com/album/5yomacDB0dw5lDid2JCkoT) | 3:57 |
 
 Snapshot ID: `MTcxMTk0NDAwMCwwMDAwMDAwMGU5ZDYyMTRjNjNiMjQzODg0ZWRjNzVhODVkYzk0NmMw`

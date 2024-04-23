@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 
 > Many would say that this decade is a "Golden Era" for country music\. Cover: Patsy Cline
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,437 likes - 100 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,364 likes - 100 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 45 | [May the Bird of Paradise Fly up Your Nose](https://open.spotify.com/track/4KRLWRl1bFjnXhY5MgZWrM) | [Little Jimmy Dickens](https://open.spotify.com/artist/7nhi4qhomET7CUCXYhbAlM) | [May the Bird of Paradise Fly Up Your Nose](https://open.spotify.com/album/0bC3amgMq1cdEOdsTChqIR) | 2:31 |
 | 46 | [Take Me](https://open.spotify.com/track/321EGZZRFk8kj4pNZraesQ) | [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5), [Tammy Wynette](https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id) | [The Essential George Jones](https://open.spotify.com/album/2Pf9lml86yy0wuEDUSBIUF) | 2:20 |
 | 47 | [The Bottle Let Me Down](https://open.spotify.com/track/4zzcta2PO7TIs9YuXZ6G2u) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Vintage Collections](https://open.spotify.com/album/14QyCjfoBHSmq5nxux8OJg) | 2:48 |
-| 48 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
-| 49 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
+| 48 | [Wolverton Mountain](https://open.spotify.com/track/7GjmzKbriJewFNDPJtVjey) | [Claude King](https://open.spotify.com/artist/3apueasSp0paDZeS4aU06g) | [Columbia Country Classics Volume 3: Americana](https://open.spotify.com/album/4gjtwmWWKjI9p3dLUUfZEA) | 2:57 |
+| 49 | [Stupid Cupid](https://open.spotify.com/track/47HkYPYpZeW91xbsNj8HTl) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [Right Or Wrong](https://open.spotify.com/album/20GlDsJVtCIPHyww5MYFcX) | 2:16 |
 | 50 | [Don't Worry](https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [The Story Of My Life: The Best Of Marty Robbins 1952\-1965](https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m) | 3:14 |
 | 51 | [I'm So Lonesome I Could Cry](https://open.spotify.com/track/6VpbL35xNjnpFclaWVrR1d) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [Country Style](https://open.spotify.com/album/5jZjP2dKKHILInEP99iHyt) | 2:37 |
 | 52 | [Don't Let Me Cross Over](https://open.spotify.com/track/1ZNDtli4TjhuoBnWplaePI) | [Carl Butler](https://open.spotify.com/artist/2EtHntibRhuBeOmpRT2HNF) | [Don't Let Me Cross Over](https://open.spotify.com/album/4x4PlliOVqlLHyqel4cOL8) | 2:57 |
@@ -86,10 +86,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7CGYgLhqwu5.md) - [plain]
 | 76 | [Talk Back Trembling Lips](https://open.spotify.com/track/2kc2v1biRvuHJaBozQzfqs) | [Ernest Ashworth](https://open.spotify.com/artist/4wThxGOdUJp05INkly6n0o) | [Greatest Hits](https://open.spotify.com/album/1s6BocSrXp9Gu4hv8fHgEk) | 2:40 |
 | 77 | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/track/0srp0yXqH0Axym0z7wLUQy) | [Bobby Bare](https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd) | [\(Margie's At\) The Lincoln Park Inn](https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM) | 3:18 |
 | 78 | [Still \- Single Version](https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx) | [Bill Anderson](https://open.spotify.com/artist/0gWNSMYCSHF4wxIs1XTSDh) | [The Definitive Collection](https://open.spotify.com/album/2PEQef4Kfc2af6MqXRckrl) | 2:46 |
-| 79 | [Standing In The Shadows](https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Best Of Hank Williams, Jr\. 20th Century Masters The Millennium Collection](https://open.spotify.com/album/3UEsMApmagWq63RApvoAER) | 3:09 |
+| 79 | [Burning Memories \- Single Version](https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Burning Memories](https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD) | 2:29 |
 | 80 | [We'll Get Ahead Someday](https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv) | [Porter Wagoner](https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [The Essential Porter Wagoner & Dolly Parton](https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850) | 1:57 |
 | 81 | [Blue Kentucky Girl](https://open.spotify.com/track/0BD9I8rnTQC43yNwEuaHSL) | [Loretta Lynn](https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl) | [Gold](https://open.spotify.com/album/2Fk1fXwRNqdEdcfLuCrGxl) | 2:40 |
-| 82 | [Burning Memories \- Single Version](https://open.spotify.com/track/569rWEzod8v8JX86gO2eX6) | [Ray Price](https://open.spotify.com/artist/5sAg1HZePcFfhrs0G8A8OP) | [Burning Memories](https://open.spotify.com/album/0menjprjsUXBN3jKjGk1XD) | 2:29 |
+| 82 | [Standing In The Shadows](https://open.spotify.com/track/5NTDu48JtNkuXzs2Zbc1X1) | [Hank Williams, Jr.](https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb) | [The Best Of Hank Williams, Jr\. 20th Century Masters The Millennium Collection](https://open.spotify.com/album/3UEsMApmagWq63RApvoAER) | 3:09 |
 | 83 | [One in a Row](https://open.spotify.com/track/2CDh0bBvP0ZAXiibPZvpPC) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [One Hell Of A Ride](https://open.spotify.com/album/4Jh0a4YXdXmIMaB0oIWyqv) | 2:32 |
 | 84 | [Mr\. Record Man](https://open.spotify.com/track/66vVLhaUGw1xaABx0jLMo9) | [Jeannie Seely](https://open.spotify.com/artist/0i9f82nIFjrLnnsf2YX3vY) | [Together Again](https://open.spotify.com/album/6mB60S645utmjUe0RIeHkb) | 2:26 |
 | 85 | [You Didn't Have To Be So Nice](https://open.spotify.com/track/1zEenuHokRIDtzvB4l65GE) | [Roger Miller](https://open.spotify.com/artist/1RP2UpEaRzkF0Id3JigqD8) | [Walkin' In The Sunshine](https://open.spotify.com/album/0f08APYCMBP8URERmkBfCT) | 1:45 |

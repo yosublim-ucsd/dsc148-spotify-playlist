@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 
 > พบคนคลั่งรักหลายอัตราในเพลย์ลิสต์นี้ \#คลั่งรัก
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,477 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,366 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 25 | [เพลงรัก \(Hook\) \(เพลงประกอบซีรีส์ แฟนผมเป็นประธานนักเรียน My School President\)](https://open.spotify.com/track/3IPNXwdcnW8WSMvUPl66hI) | [GEMINI](https://open.spotify.com/artist/5rtw0EF6bxppwLA8XlxGei) | [เพลงรัก \(Hook\) \- Single](https://open.spotify.com/album/6HxDXm6KhHnGo7ceZniiXS) | 4:15 |
 | 26 | [เป็นได้ทุกอย่าง](https://open.spotify.com/track/27qlKjzLoCOzltggfY8FPy) | [URBOYTJ](https://open.spotify.com/artist/1WLKjYJX9YHSlwufclauhg) | [เป็นได้ทุกอย่าง](https://open.spotify.com/album/4YQqcCKXLmZcJkzijUfSiy) | 3:11 |
 | 27 | [รักรออยู่ไม่ไกล](https://open.spotify.com/track/72UBnP9Be8bZFgGTfm5rwU) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [รักรออยู่ไม่ไกล](https://open.spotify.com/album/44X6txRQMIIwqW8tw0LTdm) | 4:19 |
-| 28 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
-| 29 | [ใจความสำคัญ \- From "รักหมดแก้ว Love on the Rocks"](https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [ใจความสำคัญ \(From "รักหมดแก้ว Love on the Rocks"\)](https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY) | 3:36 |
+| 28 | [ใจความสำคัญ \- From "รักหมดแก้ว Love on the Rocks"](https://open.spotify.com/track/1QVDZtpOnbu9nt8qzzRPqY) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [ใจความสำคัญ \(From "รักหมดแก้ว Love on the Rocks"\)](https://open.spotify.com/album/77BBKWvVuqbLRIHoJIYEdY) | 3:36 |
+| 29 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 |
 | 30 | [บานปลาย \(best wishes\)](https://open.spotify.com/track/3Js0tYhiLhVXHskoOF0jLh) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [บานปลาย \(best wishes\)](https://open.spotify.com/album/6xoyq8b2PH5uBwTw6ppCbA) | 4:49 |
 | 31 | [Sunkissed](https://open.spotify.com/track/52h8p62Jx8KzQynM6heq7n) | [Urworld](https://open.spotify.com/artist/4l5kOTi1YvQy386sH7rldN) | [Sunkissed](https://open.spotify.com/album/7zKKltrA8661h1AlUsGezL) | 4:02 |
 | 32 | [ถ้าเธอ feat\. Violette Wautier](https://open.spotify.com/track/2bGK8OZkr2IH4XHFMWS3CZ) | [Stamp](https://open.spotify.com/artist/4e3QCzBNkr0t3GGqo86Ofl), [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ถ้าเธอ](https://open.spotify.com/album/5ZyBwGsykmsxmxk8qNu7pD) | 3:19 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wrHNWlb0Eu.md) - [plain]
 | 68 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 |
 | 69 | [ใจเดียว](https://open.spotify.com/track/4OZjDh3pxthm3Ig9Fs7C7N) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [ใจเดียว](https://open.spotify.com/album/6aC3OBM7rpD1gAzF4oZfxl) | 3:49 |
 | 70 | [เรา](https://open.spotify.com/track/3CCcOP9IQHVQoYIFKuS5BP) | [Cocktail](https://open.spotify.com/artist/6JrR3zrG0NQiXb9N9XSyGb) | [เรา \- Single](https://open.spotify.com/album/1DdTVigUvEMwqK6r710cZ8) | 5:06 |
-| 71 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
-| 72 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
+| 71 | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/track/126PlW2V73OM9n1s1zOKW9) | [Violette Wautier](https://open.spotify.com/artist/0XkEUMM4lJHAzfTK9vR0cu) | [ตั้งแต่มีเธอฉันมีความสุข \(This Time\)](https://open.spotify.com/album/3mahPKrZPzwrbxQkEtAJzg) | 4:00 |
+| 72 | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \- AirTag](https://open.spotify.com/track/1pFNuRW1pWWrDvw3d6HFfR) | [Praesun](https://open.spotify.com/artist/2Sh3qw7RhefxTOThPiGTb7) | [ใจหายอ่ะ สงสัยอยู่ที่เธอ \(AirTag\)](https://open.spotify.com/album/2Y7LL9rhInVW0YH5uK0hMY) | 3:18 |
 | 73 | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/track/1NEBh01Wwtak3R1eCxlwrJ) | [bonnadol](https://open.spotify.com/artist/19IYWJFjZPv3INWYpkavTc) | [ฉลามชอบงับคุณ Feat.IIVY B](https://open.spotify.com/album/7nzdc88JydSq90v212jrfU) | 3:55 |
 | 74 | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/track/5kEW70VzIYbKL7mUMV4fvH) | [Ae Jirakorn](https://open.spotify.com/artist/73zuDd5WCgjjsF6TNbbBe1), [วิน รัตนพล](https://open.spotify.com/artist/4DjUSzKP28JRUYJKh2VwP0) | [ใจกลางความรู้สึกดีดี](https://open.spotify.com/album/1e2S6QXHK5P3wf18n8kO5D) | 5:26 |
 | 75 | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/track/7DLdnWK7OYDsRf7I15Ze0L) | [Singto Numchok](https://open.spotify.com/artist/780z5aP7EUHfDT6Q5YERKL) | [I JUST WANNA PEN FAN YOU DAI BOR ? \(อ้ายจัสวอนน่าเป็นแฟนยูได้บ่ ?\)](https://open.spotify.com/album/6G2oqaD3wdiXVAgubTcDzP) | 3:48 |

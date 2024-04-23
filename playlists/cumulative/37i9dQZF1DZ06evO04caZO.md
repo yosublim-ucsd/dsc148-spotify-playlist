@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO04caZO.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO04caZO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO04caZO)
 
-### [This Is The Strokes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04caZO)
+### [This Is ザ・ストロークス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04caZO)
 
-> This is The Strokes\. The essential tracks, all in one playlist.
+> This is ザ・ストロークス。アーティストの代表曲をひとつのプレイリストに。
 
 42 songs - 2 hr 33 min
 

@@ -2,7 +2,7 @@
 
 ### [This Is Little Simz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3GmPLr)
 
-> This is Little Simz\. The essential tracks, all in one playlist.
+> This is Little Simz。アーティストの代表曲をひとつのプレイリストに。
 
 77 songs - 4 hr 21 min
 

@@ -4,7 +4,7 @@
 
 > Nomadismo sonoro para quienes aman la música de todos los rincones del planeta.
 
-560 songs - 1 day 17 hr 6 min
+561 songs - 1 day 17 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -226,7 +226,7 @@
 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/2ep9FW2KBErhsl6HXAlgzr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3o9VCOZFC4DLp4hvyS1zd8) | 3:46 | 2023-07-10 | 2024-02-02 |
 | [Güzelliğin On Para Etmez](https://open.spotify.com/track/3f8PJ21mO5LJoFJvdXYwFf) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Aşk](https://open.spotify.com/album/3dynzqPHUqyPPnGGs8STcI) | 3:46 | 2024-03-08 |  |
 | [Harta](https://open.spotify.com/track/1J4xv5V5dzkA8UGtXSbCNU) | [Mel Muñiz](https://open.spotify.com/artist/05NEGCiyDYaJtcPiagl46Y) | [Harta](https://open.spotify.com/album/7xxEXEwifY6NE0sEmIybSg) | 3:05 | 2023-07-10 |  |
-| [Helelyos](https://open.spotify.com/track/1Qc84oCY8WZFQkyxY8bnZQ) | [Mitra Sumara](https://open.spotify.com/artist/3bbQStte1OsVxENTTxMFfd) | [Tahdig](https://open.spotify.com/album/0KX975WwN6lVXzf9aSmtCG) | 4:37 | 2024-03-08 |  |
+| [Helelyos](https://open.spotify.com/track/1Qc84oCY8WZFQkyxY8bnZQ) | [Mitra Sumara](https://open.spotify.com/artist/3bbQStte1OsVxENTTxMFfd) | [Tahdig](https://open.spotify.com/album/0KX975WwN6lVXzf9aSmtCG) | 4:37 | 2024-03-08 | 2024-04-23 |
 | [Herbalist](https://open.spotify.com/track/3A50RFIzgUphr3ea4o6lkx) | [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK), [Top Cat](https://open.spotify.com/artist/3QR3QV1qQuTpcy1DIqOw9j) | [Soundsystem Champions](https://open.spotify.com/album/08C6xNOwGqXS1WgpgcAJXZ) | 4:08 | 2023-07-10 |  |
 | [Herejia](https://open.spotify.com/track/5nQTVn417aepqNo6BF9fMN) | [Novalima](https://open.spotify.com/artist/2lN3yllrsFyoobMnKSfzsI) | [Ch'usay](https://open.spotify.com/album/5KNsxBQPRUBeAG0WVdHXNG) | 3:46 | 2023-07-10 | 2024-04-19 |
 | [Hijos Del Sol](https://open.spotify.com/track/0ds8HD4pYc88Po0RMygxiO) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Hijos Del Sol](https://open.spotify.com/album/6gnYcXVaffdG0vwVM34cr8) | 2:56 | 2023-07-10 |  |
@@ -548,6 +548,7 @@
 | [Vuelvo A Comenzar](https://open.spotify.com/track/5wUj9rEsOX8cqpkhBJCSCD) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Cybertropic Chilango Power](https://open.spotify.com/album/5oZPMmTNAyvo2H0Yfav5en) | 4:37 | 2023-07-10 |  |
 | [W Boru Kalinka](https://open.spotify.com/track/1qW9yHYYXwPXCw58qjLqJN) | [Warsaw Village Band](https://open.spotify.com/artist/2TQwsunAFHqQuIGG4kegie) | [Wykorzenienie](https://open.spotify.com/album/1NGak9Mv3q20g05HXik7fq) | 3:29 | 2023-07-10 | 2024-04-19 |
 | [Wah Fu Dance \(feat\. Angelique Kidjo\)](https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK) | [Calypso Rose](https://open.spotify.com/artist/56QlZ0AFfkaaHyANLVkg5h), [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [So Calypso !](https://open.spotify.com/album/0Cr6LMHp2MfIaAB9wcsbzX) | 4:09 | 2023-07-10 |  |
+| [Wahala Dey Come](https://open.spotify.com/track/3Xmz8QFLPVG1WxEUS3KNub) | [Olumo Soundz](https://open.spotify.com/artist/1poZ5uHaXqaGiPV70IWi0l) | [U.N\. \(United Nonsense\)](https://open.spotify.com/album/1fhkaWXCAmwhEVlSbTXIKF) | 11:31 | 2024-03-08 |  |
 | [Wake Up](https://open.spotify.com/track/6rRX2qkhHxoxwJE0mgbafw) | [Äl Jawala](https://open.spotify.com/artist/4bTTaQVaf03641We5lnIRI) | [Hypnophonic](https://open.spotify.com/album/2rwi8vVy77g6ixrdTS3o8O) | 3:04 | 2023-07-10 |  |
 | [Water No Get Enemy](https://open.spotify.com/track/2U9z0Wcb39heOjdq8o7keE) | [Eyo'Nlé Brass Band](https://open.spotify.com/artist/53G96svqntkUPHb7Lvf8No) | [Empreinte du père](https://open.spotify.com/album/6umxOImcEiM9OvkyiwIpwu) | 3:56 | 2024-03-08 |  |
 | [We We](https://open.spotify.com/track/5QkeHNln4J9O3kEkxLZWey) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Logozo](https://open.spotify.com/album/1zQ3u7t7FV8nQDg0LMN5pw) | 4:24 | 2024-03-08 |  |

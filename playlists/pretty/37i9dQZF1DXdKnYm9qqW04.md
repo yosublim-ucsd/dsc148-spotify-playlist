@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 
 > Floor fillers and big streamers of 2015.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,387 likes - 98 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,493 likes - 98 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdKnYm9qqW04.md) - [plain]
 | 35 | [Working For It](https://open.spotify.com/track/2HJQcyUpmUuvzS5vBAICIc) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [THEY.](https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 3:51 |
 | 36 | [Omen \- Radio Edit](https://open.spotify.com/track/78EQ5LZGgviMU9k0zrqv1r) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Omen \(Radio Edit\)](https://open.spotify.com/album/2Vd3aVbpKUyRq42B7xd2HW) | 3:16 |
 | 37 | [Shots & Squats](https://open.spotify.com/track/5nIrdpo8eXQU3YgZelEXkd) | [Vigiland](https://open.spotify.com/artist/3tLYpanVDomWAZqF82NPds), [Tham Sway](https://open.spotify.com/artist/3sEqETeMb1urfCoVUhdjUv) | [Shots & Squats](https://open.spotify.com/album/2oww4CllHtrPPeMId1UUjA) | 2:51 |
-| 38 | [Ganjaman](https://open.spotify.com/track/6RwUhWOoRECbpM9FBh13Z2) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Ganjaman](https://open.spotify.com/album/1gaKmKxsQv1tu6w4UB9TIm) | 2:58 |
+| 38 | [Show Me Love \- EDX Remix / Radio Edit](https://open.spotify.com/track/6PkzXU8dlwtfrwyTlUyVnv) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Show Me Love \(EDX Remix / Radio Edit\)](https://open.spotify.com/album/6i0e9955UWeADYG0ZsXBiP) | 3:00 |
 | 39 | [Broken Arrows](https://open.spotify.com/track/260jSxvzkFt71ksvkcy2ke) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Stories](https://open.spotify.com/album/7dqftJ3kas6D0VAdmt3k3V) | 3:52 |
-| 40 | [Show Me Love \- EDX Remix / Radio Edit](https://open.spotify.com/track/6PkzXU8dlwtfrwyTlUyVnv) | [Sam Feldt](https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf), [Kimberly Anne](https://open.spotify.com/artist/3dfslm6CkJXlsvGSQxGgxt), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Show Me Love \(EDX Remix / Radio Edit\)](https://open.spotify.com/album/6i0e9955UWeADYG0ZsXBiP) | 3:00 |
+| 40 | [Ganjaman](https://open.spotify.com/track/6RwUhWOoRECbpM9FBh13Z2) | [Alfons](https://open.spotify.com/artist/5f5mH9BDkeyXmDbzevu38d) | [Ganjaman](https://open.spotify.com/album/1gaKmKxsQv1tu6w4UB9TIm) | 2:58 |
 | 41 | [Show Me Love](https://open.spotify.com/track/0aHOXu219Z4MqEKwiKsddl) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Richard Judge](https://open.spotify.com/artist/5z275L9haKWG328mm7UFd3) | [Sugar](https://open.spotify.com/album/5XyJzEROSmup2TcWmVjTIt) | 4:15 |
 | 42 | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/track/7vqUr6K2Js9Paq4kdNSOm6) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Here for You \(feat\. Ella Henderson\)](https://open.spotify.com/album/6HnspnDTGO0iGliX6OuCTd) | 4:04 |
 | 43 | [Bang My Head \(feat\. Sia & Fetty Wap\)](https://open.spotify.com/track/53Y0kdCa1CZ9gRqEuknfwy) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Listen Again](https://open.spotify.com/album/7bpWEp24oHgUs08ImjakfU) | 3:13 |

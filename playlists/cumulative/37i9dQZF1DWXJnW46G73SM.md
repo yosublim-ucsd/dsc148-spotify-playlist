@@ -2,7 +2,7 @@
 
 ### [مصري جديد](https://open.spotify.com/playlist/37i9dQZF1DWXJnW46G73SM)
 
-> أحدث الأغاني المصرية هنا🤩 الغلاف: رامي صبري
+> أحدث الأغاني المصرية هنا🤩 الغلاف: رامي جمال
 
 919 songs - 2 day 4 hr 2 min
 
@@ -266,7 +266,7 @@
 | [Ghayarina](https://open.spotify.com/track/2plBAu5y28jMGmwsF4brVy) | [Nesma Herky](https://open.spotify.com/artist/20KfKaHWko8qNRRhoXTByX) | [Ghayarina](https://open.spotify.com/album/4z16XoFuqUURzvfj1YQVbT) | 4:17 | 2024-01-26 | 2024-02-17 |
 | [Ghayart El Tarekh](https://open.spotify.com/track/7KKXMHZZbl3j2u6NgMKnrq) | [Hamid Al Shaeri](https://open.spotify.com/artist/7u1V0Ucu5ggW1VaXwh8KeT) | [Ghayart El Tarekh](https://open.spotify.com/album/6grY10EzNruoWcBvo2MxKG) | 3:50 | 2021-12-23 | 2022-02-02 |
 | [Ghi T9al \(Et2al\)](https://open.spotify.com/track/3L19EYCeRURGzbIVMjCkLx) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl), [Marwan Moussa](https://open.spotify.com/artist/2BBnFUgIaLHqoRYPfshoPb) | [٤in \(Act 1\)](https://open.spotify.com/album/0q5xkDt5Eb3KUPMRjUiIJW) | 3:38 | 2022-10-20 | 2023-01-06 |
-| [Ghoma \( Men Film Derwila \)](https://open.spotify.com/track/12Ek9huizZMzoLwy3BpQpV) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Ghoma \( Men Film Derwila \)](https://open.spotify.com/album/5K1DgdrISKCrQViiqKqBVb) | 3:41 | 2024-02-14 |  |
+| [Ghoma \( Men Film Derwila \)](https://open.spotify.com/track/12Ek9huizZMzoLwy3BpQpV) | [Muslim \- مُسلِم](https://open.spotify.com/artist/2PM82jOCB674w4BL08zFVS) | [Ghoma \( Men Film Derwila \)](https://open.spotify.com/album/5K1DgdrISKCrQViiqKqBVb) | 3:41 | 2024-02-14 | 2024-04-23 |
 | [Good Morning Baby](https://open.spotify.com/track/3XklYy1kjbs0y0HL5s56gU) | [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt), [Omar Kamal](https://open.spotify.com/artist/1AxlE5JCJrJzVYa0ywJQqV) | [Good Morning Baby](https://open.spotify.com/album/41rVNCKFx5rMKUKRKcyLdg) | 2:31 | 2022-05-04 | 2022-08-21 |
 | [Gowa Eneik](https://open.spotify.com/track/560gzpG954VltmHVDDJhql) | [Saber Rebai](https://open.spotify.com/artist/7Fqe0QpkJOM26wbeHGEKbD), [Ayman Alatar](https://open.spotify.com/artist/30JNu4EdBVY0rVTiLveZ9f) | [Gowa Eneik](https://open.spotify.com/album/2Ni6XFg4E6e8vzkaMf206k) | 3:37 | 2023-07-28 | 2023-07-30 |
 | [GPS](https://open.spotify.com/track/0cvB8z1iA7Xe82yPaFii7U) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [GPS](https://open.spotify.com/album/1aAzxjWZOSGO7TCHXhNCeD) | 3:17 | 2023-07-13 | 2023-08-16 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os maiores hits e novidades de artistas LGBTQIA+ estão aqui\. Foto: Lia Clark
 
-[Spotify](https://open.spotify.com/user/spotify) - 225,166 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 225,020 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 43 | [te vi na festa \(e nem doeu\)](https://open.spotify.com/track/0MYh8Zdpo84FPqsJuaWYlC) | [Bruno Gadiol](https://open.spotify.com/artist/0UlEgLbUMrAuiWGptQzCJ3) | [te vi na festa \(e nem doeu\)](https://open.spotify.com/album/1V4jTH823sCKfJWxZQVmGc) | 2:01 |
 | 44 | [Amor de Que](https://open.spotify.com/track/29caulxU0jxucdVIyhSJTc) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [111 1](https://open.spotify.com/album/3HpTJ9jpgwzzn7S8AUwlb9) | 2:37 |
 | 45 | [Parabéns](https://open.spotify.com/track/6X0XdIcgwfVa9orJnDMQB0) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Psirico](https://open.spotify.com/artist/20L3gYREq24KddkFreyiNv) | [Parabéns](https://open.spotify.com/album/0rDDD6fyQCUDiwlehEJsnd) | 2:16 |
-| 46 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
-| 47 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
+| 46 | [GRETA](https://open.spotify.com/track/6Li2optWeB4GobWGCzN4wf) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:32 |
+| 47 | [RADAR \- AO VIVO](https://open.spotify.com/track/4g771Ik6PRt0poI1wXddXb) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE \(AO VIVO\)](https://open.spotify.com/album/3M76dR9f8pjvLVL31Xw28d) | 3:04 |
 | 48 | [Penetra \- Pedro Sampaio Remix](https://open.spotify.com/track/7j3doxjvebuL0ESuTIHFlA) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [O Kannalha](https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq), [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1) | [After](https://open.spotify.com/album/3ihmqghhBO5ZVx01RpYp5R) | 2:30 |
 | 49 | [Bang Bang](https://open.spotify.com/track/1gjKagIlUT6u2giC5NJTyF) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Bang Bang](https://open.spotify.com/album/65gaJhM7QYfPtjO2lg4B9V) | 2:54 |
 | 50 | [MIL GRAU](https://open.spotify.com/track/4BkjISAYyQ6OMnEpzpQxgA) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [ALEGORIA](https://open.spotify.com/album/6kAhfgYBxtIQcI2AfMn2nq) | 2:25 |

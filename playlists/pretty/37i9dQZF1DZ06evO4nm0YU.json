@@ -1,12 +1,12 @@
 {
-  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
-  "num_followers": 148925,
+  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
+  "num_followers": 148943,
   "original_name": "This Is H\u00e9ctor Lavoe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDkzM2I4YjU2ZTA3MTEzNDMyY2ZjNmM3ZmJiM2JkNGMw",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDY5YmIwOTBjNGJmMjFjNTE2NjdjODRhMjc2MDQ0MTY1",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 262680,
-      "name": "El Todopoderoso",
-      "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 227280,
       "name": "Ah-Ah / O-No",
       "url": "https://open.spotify.com/track/5OmWm4rnwYwHAxWePNqaoK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Strikes Back",
+        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 286000,
+      "name": "Ella Minti\u00f3",
+      "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
     },
     {
       "added_at": null,
@@ -195,22 +195,6 @@
       "duration_ms": 456960,
       "name": "Juanito Alima\u00f1a",
       "url": "https://open.spotify.com/track/336Xdyzllb9WbJIC8XF90t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Strikes Back",
-        "url": "https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 286000,
-      "name": "Ella Minti\u00f3",
-      "url": "https://open.spotify.com/track/4cdqHVp6GhPSxcqJGRVsYZ"
     },
     {
       "added_at": null,
@@ -819,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 275880,
+      "name": "Para\u00edso De Dulzura",
+      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Ti Depende",
         "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
       },
@@ -835,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/6L5s2MnpJNhWA54koTN7UV"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
@@ -844,9 +844,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 275880,
-      "name": "Para\u00edso De Dulzura",
-      "url": "https://open.spotify.com/track/65H0XKHaMafgni2wJsSI6m"
+      "duration_ms": 470280,
+      "name": "Songoro Cosongo",
+      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
     },
     {
       "added_at": null,
@@ -871,8 +871,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Comedia",
-        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
+        "name": "El Sabio",
+        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
       },
       "artists": [
         {
@@ -880,9 +880,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 470280,
-      "name": "Songoro Cosongo",
-      "url": "https://open.spotify.com/track/0cCLNIYOUthHiQHOS8iGRV"
+      "duration_ms": 427560,
+      "name": "Al\u00e9jate",
+      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
     },
     {
       "added_at": null,
@@ -907,8 +907,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sabio",
-        "url": "https://open.spotify.com/album/2QqqS97l2DLYq1vrhHUpze"
+        "name": "Comedia",
+        "url": "https://open.spotify.com/album/7CBmznpnzPgLpBXFlB40B6"
       },
       "artists": [
         {
@@ -916,9 +916,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 427560,
-      "name": "Al\u00e9jate",
-      "url": "https://open.spotify.com/track/6dKDnjNPg2oHi5yOY4RRlB"
+      "duration_ms": 211200,
+      "name": "Comedia",
+      "url": "https://open.spotify.com/track/53ouAECHnwj8AV1fzXf5dk"
     },
     {
       "added_at": null,

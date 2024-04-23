@@ -1,6 +1,6 @@
 {
   "description": "?! ft. Malcolm Todd",
-  "num_followers": 741915,
+  "num_followers": 741870,
   "original_name": "anti pop",
   "owner": {
     "name": "Spotify",
@@ -239,7 +239,7 @@
     {
       "added_at": "2024-04-19 05:00:00",
       "album": {
-        "name": "WELCOME HOME (deluxe)",
+        "name": "WELCOME HOME [deluxe]",
         "url": "https://open.spotify.com/album/1AZ73AyVJ1aYn1uW7hx5bC"
       },
       "artists": [
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-03-29 04:00:00",
       "album": {
+        "name": "Too Slow",
+        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
+      },
+      "artists": [
+        {
+          "name": "Maude Latour",
+          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
+        }
+      ],
+      "duration_ms": 124614,
+      "name": "Too Slow",
+      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
         "name": "Psykos",
         "url": "https://open.spotify.com/album/3Prj5ncKli5arNTmILU6aV"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 180083,
       "name": "Ghosts",
       "url": "https://open.spotify.com/track/3w6dkcgoHdRrSUlkH0w8T7"
-    },
-    {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Too Slow",
-        "url": "https://open.spotify.com/album/4jG5t1TT5os5XgzEekr9J7"
-      },
-      "artists": [
-        {
-          "name": "Maude Latour",
-          "url": "https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62"
-        }
-      ],
-      "duration_ms": 124614,
-      "name": "Too Slow",
-      "url": "https://open.spotify.com/track/4XUejjxBZ4UQQ2LB9h8qvJ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -857,22 +857,6 @@
       "url": "https://open.spotify.com/track/35AVujsErg1f4OoqPwDPzJ"
     },
     {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Evil",
-        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
-      },
-      "artists": [
-        {
-          "name": "Doov",
-          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
-        }
-      ],
-      "duration_ms": 158235,
-      "name": "Evil",
-      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
-    },
-    {
       "added_at": "2024-04-09 16:51:42",
       "album": {
         "name": "So What If I'm A Freak",
@@ -887,6 +871,22 @@
       "duration_ms": 146865,
       "name": "So What If I'm A Freak",
       "url": "https://open.spotify.com/track/3Om0j8yTp9MMMvrf4Xe94N"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Evil",
+        "url": "https://open.spotify.com/album/5vzUGiHb1LrOjJ5Pz55wO0"
+      },
+      "artists": [
+        {
+          "name": "Doov",
+          "url": "https://open.spotify.com/artist/5HRGHEtYLGW78bYOxCmhnm"
+        }
+      ],
+      "duration_ms": 158235,
+      "name": "Evil",
+      "url": "https://open.spotify.com/track/3nlwxpdoduF0VTIphyOS2Q"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "Sweet Boy Pt. 2",
-        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Todd",
-          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
-        }
-      ],
-      "duration_ms": 175200,
-      "name": "Sore Throat",
-      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "SINS",
         "url": "https://open.spotify.com/album/7dBIrsWSqBofw64rRCk6ra"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 177952,
       "name": "SINS",
       "url": "https://open.spotify.com/track/3zm96XNTmVVUSL9LEJsMtW"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Sweet Boy Pt. 2",
+        "url": "https://open.spotify.com/album/4hQLHqX3ht0FNuk2z5sKfG"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "Sore Throat",
+      "url": "https://open.spotify.com/track/4rFBcz1rUH5IKmKeVRVpcO"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "me and all my niggas",
+        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
+      },
+      "artists": [
+        {
+          "name": "Yaya Bey",
+          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
+        }
+      ],
+      "duration_ms": 114698,
+      "name": "me and all my niggas",
+      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Pigeons & Planes presents: See You Next Year 2",
         "url": "https://open.spotify.com/album/2HmJbK4LHezgshv0V4m9bi"
       },
@@ -1117,22 +1133,6 @@
       "url": "https://open.spotify.com/track/1P2ugR200fs2J3ASKUAIMg"
     },
     {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "me and all my niggas",
-        "url": "https://open.spotify.com/album/41k4Tf1ig86lbYzIK710T0"
-      },
-      "artists": [
-        {
-          "name": "Yaya Bey",
-          "url": "https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT"
-        }
-      ],
-      "duration_ms": 114698,
-      "name": "me and all my niggas",
-      "url": "https://open.spotify.com/track/1V5LZEDXnCctyA2G4NNjsg"
-    },
-    {
       "added_at": "2024-04-12 04:00:00",
       "album": {
         "name": "fIT chECK fREEsTYle",
@@ -1151,22 +1151,6 @@
       "duration_ms": 183429,
       "name": "fIT chECK fREEsTYle",
       "url": "https://open.spotify.com/track/1nGPFgUuF5fJTKhLz5BfER"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Aphid (feat. Dijon)",
-        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
-      },
-      "artists": [
-        {
-          "name": "Matt Champion",
-          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Aphid (feat. Dijon)",
-      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1203,6 +1187,22 @@
       "duration_ms": 126233,
       "name": "Ant Pile",
       "url": "https://open.spotify.com/track/2hR3npB7rQOqRXS4yISzFs"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "Aphid (feat. Dijon)",
+        "url": "https://open.spotify.com/album/4vtOzM8bPSkU9ctAJMcVlc"
+      },
+      "artists": [
+        {
+          "name": "Matt Champion",
+          "url": "https://open.spotify.com/artist/29Oq9Nv8zLgu3IvX1tIpbm"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Aphid (feat. Dijon)",
+      "url": "https://open.spotify.com/track/5BLRxUeMQFa4cK61ljrNiF"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "THE RUSH",
+        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 130515,
+      "name": "FEVER",
+      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "are you sleeping alone again?",
         "url": "https://open.spotify.com/album/3ZCbPySe4fDzZCfqUqYLUU"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 245122,
       "name": "Johnny johnny johnny",
       "url": "https://open.spotify.com/track/60qaApzoNFsAXhhPc5zDxh"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "THE RUSH",
-        "url": "https://open.spotify.com/album/2tdu1jCUYmUPB5FvqDHhnD"
-      },
-      "artists": [
-        {
-          "name": "Tommy Richman",
-          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
-        }
-      ],
-      "duration_ms": 130515,
-      "name": "FEVER",
-      "url": "https://open.spotify.com/track/7xkOsl8tMeZRGeTO0PZoPI"
     },
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "Princess Forever",
+        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
+      },
+      "artists": [
+        {
+          "name": "Dreamer Isioma",
+          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
+        }
+      ],
+      "duration_ms": 211875,
+      "name": "Gimme A Chance",
+      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "I Might be Fake",
         "url": "https://open.spotify.com/album/6lg88hmM7QAFDWvaW47TZ6"
       },
@@ -1639,22 +1655,6 @@
       "duration_ms": 168805,
       "name": "I Might be Fake",
       "url": "https://open.spotify.com/track/7DTpqH64fSXDA3CuFxMAKE"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Princess Forever",
-        "url": "https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR"
-      },
-      "artists": [
-        {
-          "name": "Dreamer Isioma",
-          "url": "https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i"
-        }
-      ],
-      "duration_ms": 211875,
-      "name": "Gimme A Chance",
-      "url": "https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
-        "name": "HIGHWITCHA",
-        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
-      },
-      "artists": [
-        {
-          "name": "Peach Tree Rascals",
-          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "HIGHWITCHA",
-      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
         "name": "Erotic Probiotic 2",
         "url": "https://open.spotify.com/album/6HPNCXxhRfj8tus7gw0dDI"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 246626,
       "name": "Daddy",
       "url": "https://open.spotify.com/track/3jKlmTVS7ym2axSs9OEcrT"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
+        "name": "HIGHWITCHA",
+        "url": "https://open.spotify.com/album/0jm2bQw1Gk8MokQr23MlCh"
+      },
+      "artists": [
+        {
+          "name": "Peach Tree Rascals",
+          "url": "https://open.spotify.com/artist/0imE3buPhAowREqCrr4CYe"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "HIGHWITCHA",
+      "url": "https://open.spotify.com/track/7B63qxsALIx0CgOIZK2KZy"
     },
     {
       "added_at": "2024-03-19 20:25:15",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2024-03-19 20:25:15",
       "album": {
+        "name": "SOULCRUSHER",
+        "url": "https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC"
+      },
+      "artists": [
+        {
+          "name": "Tommy Richman",
+          "url": "https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo"
+        }
+      ],
+      "duration_ms": 171828,
+      "name": "SOULCRUSHER",
+      "url": "https://open.spotify.com/track/6xpZW6bnDbfce8qBRu7M9x"
+    },
+    {
+      "added_at": "2024-03-19 20:25:15",
+      "album": {
         "name": "It\u2019s Never Fair, Always True",
         "url": "https://open.spotify.com/album/3i09IRJLqeRM9v92W7phES"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 167841,
       "name": "lalala",
       "url": "https://open.spotify.com/track/2pCR7dwwRpeAAnpUr1Ekwz"
-    },
-    {
-      "added_at": "2024-03-19 20:25:15",
-      "album": {
-        "name": "Sylvia (Nanana)",
-        "url": "https://open.spotify.com/album/6kRnRq8xlM8Mpe4qu3GbJZ"
-      },
-      "artists": [
-        {
-          "name": "Bay Ledges",
-          "url": "https://open.spotify.com/artist/7FhRUp59cBzPaxobsRY1Nc"
-        }
-      ],
-      "duration_ms": 155686,
-      "name": "Sylvia (Nanana)",
-      "url": "https://open.spotify.com/track/1xwTt7QJn3fCQldUbX0flF"
     }
   ],
   "unique_name": "anti pop",

@@ -2,7 +2,7 @@
 
 ### [This Is Fatherson](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4wEnux)
 
-> This is Fatherson\. The essential tracks, all in one playlist.
+> This is Fatherson\. Các bản nhạc bạn nên nghe, tất cả trong một danh sách phát.
 
 37 songs - 2 hr 15 min
 

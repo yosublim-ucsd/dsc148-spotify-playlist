@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 
 > Legendary blues guitarists\. Cover: Buddy Guy
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,951 likes - 50 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,968 likes - 50 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWhiW4fdIska.md) - [plain]
 | 38 | [Sit and Cry \(The Blues\)](https://open.spotify.com/track/2x0uiOepdvCXYk8Wh8bXIk) | [Buddy Guy](https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0) | [Blue On Blues](https://open.spotify.com/album/7I1hciUQhs0IlNPxR6yluS) | 3:00 |
 | 39 | [Blues Power](https://open.spotify.com/track/79rWsO8ZlvekVEsGAzeFeA) | [Albert King](https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o) | [The Very Best Of Albert King](https://open.spotify.com/album/4OlzrLmYCCqAXdEGS2UkJx) | 3:12 |
 | 40 | [Downhearted Blues](https://open.spotify.com/track/0h0pAsjw7YVQyn43cbAPqF) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [The Original Delta Blues \(Mojo Workin': Blues For The Next Generation\)](https://open.spotify.com/album/3k3hqZqYl9XYgKC63wrKMq) | 6:03 |
-| 41 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
-| 42 | [Tired Of Your Jive \- Live At The International Club, Chicago/1966](https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Is King \(Live At The International Club, Chicago/1966\)](https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti) | 3:31 |
+| 41 | [Tired Of Your Jive \- Live At The International Club, Chicago/1966](https://open.spotify.com/track/5IGQhVuiVCPUtr7gatwbfM) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [Blues Is King \(Live At The International Club, Chicago/1966\)](https://open.spotify.com/album/1iYvqgZGYpBkkkTt37g0ti) | 3:31 |
+| 42 | [Somebody Loan Me A Dime](https://open.spotify.com/track/35X1ucjCm7rHK80qJ413ci) | [Fenton Robinson](https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT) | [Somebody Loan Me A Dime](https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl) | 2:59 |
 | 43 | [Don't Drive Me Baby](https://open.spotify.com/track/0YwiXJVTCIqIuqqexiDOym) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Complete Chess Masters](https://open.spotify.com/album/1oKzIjaJ00OKzVxwjSfCXl) | 2:39 |
 | 44 | [Sure Got Cold After the Rain Fell](https://open.spotify.com/track/30sJmjuLalNSzlRIml1PlJ) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Rio Grande Mud](https://open.spotify.com/album/4M9bA8YsjIlZOg2wD0BmsM) | 7:20 |
 | 45 | [It's My Own Fault](https://open.spotify.com/track/35bFBYboT095ukNp4lUYiU) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Ain't Enough Comin' In](https://open.spotify.com/album/4aEPDrXRjEqkI6FTO7UNIA) | 5:16 |

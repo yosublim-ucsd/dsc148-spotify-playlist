@@ -4,7 +4,7 @@
 
 > The original chill instrumental beats playlist.
 
-4,077 songs - 6 day 11 hr 47 min
+4,078 songs - 6 day 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -557,6 +557,7 @@
 | [Candle Lights](https://open.spotify.com/track/0Tqc3QEPejVYY2w6GNqkqH) | [Kaspa.](https://open.spotify.com/artist/06O3Epykgsr2PuMgTwZCWF) | [Candle Lights](https://open.spotify.com/album/4LyeyvNZMplRnDebCwdlFU) | 2:33 | 2021-03-14 | 2021-07-16 |
 | [Canned Stop](https://open.spotify.com/track/0vma0SpgVxGj9bSgtP5MHV) | [Elènne](https://open.spotify.com/artist/5bv2uGb0NPkGoYRa5m82Wv) | [Canned Stop](https://open.spotify.com/album/0443ubyK2C41lwqA47Hpfb) | 3:16 | 2021-05-21 | 2021-06-18 |
 | [Caps](https://open.spotify.com/track/1VvJrVBlqNrBxXdy1akslD) | [YAYA](https://open.spotify.com/artist/1WYSFpEEWRZa2U8XV04Nid) | [Caps](https://open.spotify.com/album/3YlOo4BHFmr9QqB0YOoLo2) | 2:31 | 2019-07-26 | 2019-12-20 |
+| [Capybara Spa](https://open.spotify.com/track/5kSpG7KnpcN3aSvpJ82ydo) | [Snooze Operator](https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk), [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [Capybara Spa](https://open.spotify.com/album/4N28xaQ7I9q115v9znKzmk) | 1:58 | 2024-04-18 |  |
 | [carambola](https://open.spotify.com/track/2kq7JiyNzRVOwTHXvTnzAt) | [Wun Two](https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE) | [old fruits](https://open.spotify.com/album/2FDaNo35JXwJe46dqZzxuL) | 1:40 | 2021-09-03 | 2021-10-16 |
 | [Caramel](https://open.spotify.com/track/04jJ9UM2wKF9ka8GDOMXRn) | [Lætitia](https://open.spotify.com/artist/4Nirbjxiir4YAdEBLeHOP7) | [Caramel](https://open.spotify.com/album/6ZJI0nSb9VZ4N8eIvCcoms) | 2:27 | 2020-05-15 | 2020-07-31 |
 | [Cardinal](https://open.spotify.com/track/4t5vamMz2vFTHvioFh2WpF) | [Cloudchord](https://open.spotify.com/artist/5EjKjFGvMmVUGCfAyDY2lG), [Oatmello](https://open.spotify.com/artist/0YAkOkbeAPiS35qyouiM4O) | [Birds](https://open.spotify.com/album/5Qo9oAogWhlwjhdY9pT648) | 1:54 | 2021-03-14 | 2021-08-06 |
@@ -1795,7 +1796,7 @@
 | [Keep It Real \- Instrumental](https://open.spotify.com/track/25t2JEAgYYHVKWPWXYiFZu) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Keep It Real \(Instrumental\)](https://open.spotify.com/album/2p20DQMzqEfC0pbeGbLG84) | 3:09 | 2022-04-07 | 2022-04-28 |
 | [Keep It Up](https://open.spotify.com/track/4HseTAkmR3lvidL8ut0NvB) | [Spurendieb](https://open.spotify.com/artist/2ZkqHfi77hI8mhB7TymaZX), [ØNEMOR3](https://open.spotify.com/artist/75XUnXCiMd1YMHwBvAIfnn) | [Keep It Up](https://open.spotify.com/album/4Zh7aRDCcRqi2ATNs66Q5R) | 2:20 | 2023-10-26 |  |
 | [Keep Movin](https://open.spotify.com/track/29efODow5UMJ782TDvOVN2) | [Kevoe West](https://open.spotify.com/artist/6Va1VmR8BklpY5M7UBlhqU) | [Keep Movin](https://open.spotify.com/album/2pPAAk2XkJm9qOdeGWzcFn) | 2:08 | 2021-07-19 | 2021-08-20 |
-| [Keep Moving](https://open.spotify.com/track/2W2d4IiC8wVvd9uzNaI4h4) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [Are We There Yet?](https://open.spotify.com/album/02Jk9Qeu8PnWlqtnndJrQ9) | 1:12 | 2024-03-07 |  |
+| [Keep Moving](https://open.spotify.com/track/2W2d4IiC8wVvd9uzNaI4h4) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB) | [Are We There Yet?](https://open.spotify.com/album/02Jk9Qeu8PnWlqtnndJrQ9) | 1:12 | 2024-03-07 | 2024-04-23 |
 | [Keep On Dreaming](https://open.spotify.com/track/49JVqMDZnJaYfQ8bka3YRb) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Keep On Dreaming](https://open.spotify.com/album/2iNpTIfMlHZS259aEclat4) | 3:08 | 2024-03-07 |  |
 | [Keep Ya Jaw Intact](https://open.spotify.com/track/58sYA8kkuvOwcxtUgyj8TL) | [Oracle da Goldsmif](https://open.spotify.com/artist/5qO7eOAUDzFgz4ExV0yoIz), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Keep Ya Jaw Intact](https://open.spotify.com/album/5dUrT3YawNzPk2Sv0k0lTR) | 2:35 | 2019-05-26\* | 2019-06-22 |
 | [Keeps Getting Better](https://open.spotify.com/track/2jXO4jFRRDpuv8ihjAuVBk) | [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80) | [Keeps Getting Better](https://open.spotify.com/album/21PnyCi00lOy5i8vq8rRgz) | 2:46 | 2021-05-21 | 2022-04-08 |

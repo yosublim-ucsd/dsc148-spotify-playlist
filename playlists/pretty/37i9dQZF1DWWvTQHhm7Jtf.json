@@ -1,12 +1,12 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 18616,
+  "num_followers": 18693,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5NzU5OCwwMDAwMDAwMDgwZTUzOTlhNGY1YzZlODVkZDJhN2I2OWU2NzJmYzYz",
+  "snapshot_id": "MTcxMzgzMzU3MywwMDAwMDAwMGIyZDNjMzJlNGI5ZmQwM2QyNWNmZmQ5NGU1MjEzYzBk",
   "tracks": [
     {
       "added_at": "2021-10-20 18:30:26",
@@ -249,20 +249,24 @@
       "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2024-04-23 00:52:53",
       "album": {
-        "name": "Shortwave Ruins",
-        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
+        "name": "Hell To The Liars (feat. NATURE)",
+        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
       },
       "artists": [
         {
-          "name": "Mount Shrine",
-          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
         }
       ],
-      "duration_ms": 434716,
-      "name": "Subtotem",
-      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
+      "duration_ms": 571168,
+      "name": "Hell To The Liars (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
     },
     {
       "added_at": "2024-01-03 18:03:36",
@@ -283,6 +287,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Shortwave Ruins",
+        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
+      },
+      "artists": [
+        {
+          "name": "Mount Shrine",
+          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
+        }
+      ],
+      "duration_ms": 434716,
+      "name": "Subtotem",
+      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Comme \u00e7a",
         "url": "https://open.spotify.com/album/55YrEqkp3Qrnue9WXHXo8t"
       },
@@ -299,22 +319,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Gave in Rest",
-        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
-      },
-      "artists": [
-        {
-          "name": "Sarah Davachi",
-          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
-        }
-      ],
-      "duration_ms": 210716,
-      "name": "Gilded",
-      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Water Memory",
         "url": "https://open.spotify.com/album/7GFnprDHbH3BkxjCiOH0k6"
       },
@@ -327,6 +331,22 @@
       "duration_ms": 448133,
       "name": "Water Memory 1",
       "url": "https://open.spotify.com/track/7x1ct7s9fVqkIWwbah9NO1"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Gave in Rest",
+        "url": "https://open.spotify.com/album/4IFuTsN2aWyIysDMui5VnR"
+      },
+      "artists": [
+        {
+          "name": "Sarah Davachi",
+          "url": "https://open.spotify.com/artist/2Swn6We5XXpyDz1YxRkprA"
+        }
+      ],
+      "duration_ms": 210716,
+      "name": "Gilded",
+      "url": "https://open.spotify.com/track/0cSdWJzO18liElNMCAYCig"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -717,26 +737,6 @@
       "url": "https://open.spotify.com/track/1RQBeZgMF37bZaXCXYbfil"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 414026,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA"
-    },
-    {
       "added_at": "2022-03-17 01:20:50",
       "album": {
         "name": "Skyline - Instant Composition Vol. 2",
@@ -823,6 +823,26 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
+      },
+      "artists": [
+        {
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 414026,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/0OsMpLnqd6pkoT1OqgkQSA"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
         "name": "Whisper Fold Brush",
         "url": "https://open.spotify.com/album/1VRGRbyHmvPuuelNSIj8m7"
       },
@@ -857,22 +877,6 @@
       "url": "https://open.spotify.com/track/5y7kD1xehhdOzrVA4mODuj"
     },
     {
-      "added_at": "2022-03-30 04:58:54",
-      "album": {
-        "name": "Antiphony of the Trees",
-        "url": "https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "We Borrowed Feathers",
-      "url": "https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK"
-    },
-    {
       "added_at": "2022-02-16 01:53:19",
       "album": {
         "name": "Plut\u00f3n",
@@ -891,6 +895,22 @@
       "duration_ms": 416560,
       "name": "Ether",
       "url": "https://open.spotify.com/track/3OXf3f3t3Yx9TMVsZHh2lD"
+    },
+    {
+      "added_at": "2022-03-30 04:58:54",
+      "album": {
+        "name": "Antiphony of the Trees",
+        "url": "https://open.spotify.com/album/6iDjToo4wsYwronftMsCeD"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "We Borrowed Feathers",
+      "url": "https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -925,6 +945,22 @@
       "url": "https://open.spotify.com/track/2YWskv2ppcTSt1FZDKJW85"
     },
     {
+      "added_at": "2023-03-07 03:31:30",
+      "album": {
+        "name": "Mirrored Solitude",
+        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
+      },
+      "artists": [
+        {
+          "name": "Kalia Vandever",
+          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
+        }
+      ],
+      "duration_ms": 206863,
+      "name": "Mirrored Solitude",
+      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
+    },
+    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Missing Pages",
@@ -947,22 +983,6 @@
       "duration_ms": 339440,
       "name": "June 26th",
       "url": "https://open.spotify.com/track/5NU40ogYGIxPCcmSAAZPlh"
-    },
-    {
-      "added_at": "2023-03-07 03:31:30",
-      "album": {
-        "name": "Mirrored Solitude",
-        "url": "https://open.spotify.com/album/4bd0O6ioCKu3uh3d89rtpB"
-      },
-      "artists": [
-        {
-          "name": "Kalia Vandever",
-          "url": "https://open.spotify.com/artist/2eFIJMz1OPMcyyqxVbh8tL"
-        }
-      ],
-      "duration_ms": 206863,
-      "name": "Mirrored Solitude",
-      "url": "https://open.spotify.com/track/52vNlD5YZT1yUmZUnukAbT"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -997,6 +1017,26 @@
       "url": "https://open.spotify.com/track/1g95vNwQ1Nt1sv4pHEKYJe"
     },
     {
+      "added_at": "2022-03-11 05:56:40",
+      "album": {
+        "name": "Bl\u00e5ne II",
+        "url": "https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx"
+      },
+      "artists": [
+        {
+          "name": "Inge Weatherhead Breistein",
+          "url": "https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG"
+        },
+        {
+          "name": "Haav",
+          "url": "https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy"
+        }
+      ],
+      "duration_ms": 271680,
+      "name": "Bl\u00e5ne II",
+      "url": "https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK"
+    },
+    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Aka / Darbari / Java",
@@ -1027,26 +1067,6 @@
       "duration_ms": 288000,
       "name": "Pale Purple Flower",
       "url": "https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7"
-    },
-    {
-      "added_at": "2022-03-11 05:56:40",
-      "album": {
-        "name": "Bl\u00e5ne II",
-        "url": "https://open.spotify.com/album/2uhS4oZEuvDqcb5lKBUVcx"
-      },
-      "artists": [
-        {
-          "name": "Inge Weatherhead Breistein",
-          "url": "https://open.spotify.com/artist/31R4oqL2Aeic9iwpOHsxqG"
-        },
-        {
-          "name": "Haav",
-          "url": "https://open.spotify.com/artist/1qLtmt4U8aOgERNMfqNlyy"
-        }
-      ],
-      "duration_ms": 271680,
-      "name": "Bl\u00e5ne II",
-      "url": "https://open.spotify.com/track/0cEcZNgg0ErP53MjZ9HkkK"
     },
     {
       "added_at": "2022-09-14 12:31:52",
@@ -1195,22 +1215,6 @@
       "duration_ms": 491371,
       "name": "1/2 SCULPTURE",
       "url": "https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Melancholia",
-        "url": "https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm"
-      },
-      "artists": [
-        {
-          "name": "William Basinski",
-          "url": "https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB"
-        }
-      ],
-      "duration_ms": 410986,
-      "name": "Melancholia II",
-      "url": "https://open.spotify.com/track/2UZXQrEi0A8ySbDuyeuMt3"
     }
   ],
   "unique_name": "Planetary Soul",

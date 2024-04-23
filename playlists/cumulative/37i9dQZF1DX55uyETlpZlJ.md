@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover :Rahul Dit\-O
 
-320 songs - 17 hr 22 min
+321 songs - 17 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -148,6 +148,7 @@
 | [Karedaaga Ninna](https://open.spotify.com/track/1QsjxwZlmNea67Js4XAiNg) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Karedaaga Ninna](https://open.spotify.com/album/4xv9R4Z0Y3oMYhruPheWne) | 2:09 | 2023-12-11 | 2024-04-19 |
 | [Karma](https://open.spotify.com/track/5uOfjSX8fqPKTqdmDwoXKK) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ) | [Karma](https://open.spotify.com/album/0otfI7PmqVOgKLlmktOaB9) | 1:25 | 2023-07-17 | 2024-01-19 |
 | [Karunada Rajakumara](https://open.spotify.com/track/46kuuT29cpKKYe4UDHnz8U) | [Pranav Satish](https://open.spotify.com/artist/2dxv96rKJF5dYWQ9Kbt961), [Pruthuviraj Sanki](https://open.spotify.com/artist/01XlfcAXv2vz5or291EVjv), [Shanmukha Govindaraj](https://open.spotify.com/artist/6zgQiJjYwOhpZS1MULEmef) | [Karunada Rajakumara](https://open.spotify.com/album/0zIYEfryqVg73pCF4Q932C) | 4:12 | 2024-03-19 |  |
+| [Kattida Kanaja](https://open.spotify.com/track/6nByxU4WMi5sUiipyRQlCv) | [Basavaraj Narendra](https://open.spotify.com/artist/4q7mP1jGEu5xvxJ5aFPFYj), [Manjula Gururaj](https://open.spotify.com/artist/75HAL44LxgiktGqiyaf1B9) | [Kattida Kanaja \- Single](https://open.spotify.com/album/4kwYsDa2ybRP83vnYqGc2Y) | 8:15 | 2024-04-22 |  |
 | [Kelilli](https://open.spotify.com/track/7oVFj9kWbTuHbNafpcLqbi) | [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [John On The Beat](https://open.spotify.com/artist/6LlGGD8vKtcraxhCCPkRaS) | [Kelilli](https://open.spotify.com/album/0Tzvd8xmI0kKZPwIIedKHM) | 2:22 | 2023-10-19 | 2024-04-06 |
 | [Khayali](https://open.spotify.com/track/4yQSmhi8kCpEoNAN4PCELf) | [Karna](https://open.spotify.com/artist/5emr0hDfZPtMhi0u5wywDQ), [Dheemusix](https://open.spotify.com/artist/3vJ12GL0X2a48lbZYd3cjo) | [Khayali](https://open.spotify.com/album/6QNuYLe3fEVm43H8ADzTTU) | 3:09 | 2023-04-22 | 2023-06-08 |
 | [Khushiyaadenu Naa](https://open.spotify.com/track/6F6P4st3J11p2vfNepvRRn) | [Sahana Hegde](https://open.spotify.com/artist/6zFbnKp5WefatujgmaBGYm) | [Khushiyaadenu Naa](https://open.spotify.com/album/05F0QUtC0lmAyt0ozTB5L3) | 3:12 | 2023-11-09 |  |

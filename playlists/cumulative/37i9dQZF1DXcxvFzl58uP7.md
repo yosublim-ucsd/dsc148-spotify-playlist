@@ -4,7 +4,7 @@
 
 > Dreamy melodies and hushed vocals\. Cover: Still Woozy
 
-941 songs - 2 day 0 hr 51 min
+942 songs - 2 day 0 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,6 +162,7 @@
 | [cirrostratus](https://open.spotify.com/track/6bYMqPOoKowrOAUlboVcEi) | [dyl dion](https://open.spotify.com/artist/6oqHT4S7trO98T8NkbQJ4h) | [cirrostratus](https://open.spotify.com/album/6KoqPWFxw1UWqYWMEbw3Al) | 2:32 | 2024-01-12 |  |
 | [Cleaner Air](https://open.spotify.com/track/3RNHSxHnAIdMAHtMsVNqlS) | [Yeek](https://open.spotify.com/artist/5BhFZpE8kUGZJiKOsYjLQM) | [Cleaner Air](https://open.spotify.com/album/2DSu8njxwzY0bNvc029jNf) | 2:08 | 2019-07-30\* | 2020-04-24 |
 | [Clear Water](https://open.spotify.com/track/4VkcLBrVk0rjcbSvEIjyix) | [Pretty Boy Aaron](https://open.spotify.com/artist/6TIiGARk7Eo8igAnbM2eeR), [Phlowerie](https://open.spotify.com/artist/4gnXAbCkJgPL3Pd2D79B5A) | [Pretty Boy](https://open.spotify.com/album/327jlRWWT2vjxbTIHGVWFX) | 2:22 | 2021-10-25 | 2022-04-19 |
+| [Clementine](https://open.spotify.com/track/2odYMaZmkYcfcuIaxIZGlR) | [Sonya](https://open.spotify.com/artist/1sxq3PHS2sb0jQhAQRv3TA) | [Clementine](https://open.spotify.com/album/10Zs0dh8IWO0Ztahybh90K) | 2:08 | 2024-01-12 |  |
 | [Cloud 9](https://open.spotify.com/track/0Qj4YyHTtV01Fvfl2fibea) | [Paravi](https://open.spotify.com/artist/3hu0zovv9ZERrUy09lIsTH) | [Cloud 9](https://open.spotify.com/album/4fa2ZcM78pgy7iB9xwl1lq) | 2:22 | 2021-06-04 | 2023-08-26 |
 | [Cloudy Days](https://open.spotify.com/track/5BlY7WtI52hx9FlMGcM8Wm) | [Sam Plant](https://open.spotify.com/artist/4yJhpF6wzsv1nH7ZUQDx1w), [Bug Teeth](https://open.spotify.com/artist/3b90Lpnlon3MrNSPo1a0VD) | [Cloudy Days](https://open.spotify.com/album/68hKxVlOw3iq3WaGiPeHC7) | 3:38 | 2019-07-31 | 2021-03-23 |
 | [Clueless](https://open.spotify.com/track/4pnXcQSeFwrr3GPHEmeS7m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 3:47 | 2023-09-29 | 2024-04-19 |
@@ -719,7 +720,7 @@
 | [Six Speed](https://open.spotify.com/track/38loOBAgDgCW4pFWyH9cey) | [Current Blue](https://open.spotify.com/artist/6wW4D3fGgRABc3cAotb0RS) | [Six Speed](https://open.spotify.com/album/2DkQzt5cmb3Jy8ZQH4tBo9) | 2:00 | 2019-07-31 | 2023-08-26 |
 | [skype calls](https://open.spotify.com/track/4i4YoTjnTs1Z0VRAX9GSIU) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [come ovr/skype calls](https://open.spotify.com/album/6WlsGn24BvEIiQCyCXtvfG) | 3:12 | 2019-11-26 | 2021-05-27 |
 | [Sleep Well](https://open.spotify.com/track/3GWuPbPr5nT65fmew963zV) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [Sleep Well](https://open.spotify.com/album/7vT3flPEcoHfHJrGGw1YFU) | 4:08 | 2021-03-19 | 2022-04-29 |
-| [Sleepover Mood](https://open.spotify.com/track/5JWDrfbceMjpUpEeV8Lwd5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Sleepover Mood](https://open.spotify.com/album/7yAAQigx3XpcCEgl0ZRm3y) | 3:20 | 2024-01-12 |  |
+| [Sleepover Mood](https://open.spotify.com/track/5JWDrfbceMjpUpEeV8Lwd5) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [Sleepover Mood](https://open.spotify.com/album/7yAAQigx3XpcCEgl0ZRm3y) | 3:20 | 2024-01-12 | 2024-04-23 |
 | [Slow Dance](https://open.spotify.com/track/6nDkgZcgo5MymSY9ILu7b0) | [Tucker Rivera](https://open.spotify.com/artist/09WHWCIpkmBt5LP1OyZLxb) | [Slow Dance](https://open.spotify.com/album/4BXjCWmC7eY6SV8TOZL6rA) | 3:37 | 2021-03-20 | 2021-08-22 |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/0rKtyWc8bvkriBthvHKY8d) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/34GQP3dILpyCN018y2k61L) | 3:29 | 2022-12-16 |  |
 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 | 2024-01-12 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 
 > ¡Las poderosas, las reinas, las chacalosas! Estas son la mujeres quebrando barreras en la Música Mexicana\. Cover: Janeth Valenzuela
 
-[Spotify](https://open.spotify.com/user/spotify) - 489,543 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,906 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QYsoI8NDDe.md) - [plain]
 | 49 | [Un Día Llegará La Muerte](https://open.spotify.com/track/12lXjp68kn92QS8Tjkajn5) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [Un Día Llegará La Muerte](https://open.spotify.com/album/4ZFRDoeqaVXCFuP65keIWG) | 3:09 |
 | 50 | [La Fama de una Dama](https://open.spotify.com/track/3b5zTUkmm2yKVpt85Xtuz8) | [Noelia](https://open.spotify.com/artist/0uMBj1TX0cktGnVzLlgWux) | [La Fama de una Dama](https://open.spotify.com/album/7Bnz0ZP60dDcTUDW6RoA0d) | 2:48 |
 | 51 | [LA QUE MANDA](https://open.spotify.com/track/3ONXaciwwjXzDEhZ8GF5ra) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 2:38 |
-| 52 | [¿Qué Pasó Ayer?](https://open.spotify.com/track/4Nu0C7alSyNnBuFH4ilbUF) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Pasó Ayer?](https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy) | 2:55 |
-| 53 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 |
+| 52 | [No Me Lamentare](https://open.spotify.com/track/1Wmxfl6r5CVc8FplFZ8hxM) | [Cheli Madrid](https://open.spotify.com/artist/55vcI80PhlIE7harEjtMZu) | [No Me Lamentare](https://open.spotify.com/album/7Bl7KTEP0tDvSLfLbYhn1O) | 2:15 |
+| 53 | [¿Qué Pasó Ayer?](https://open.spotify.com/track/4Nu0C7alSyNnBuFH4ilbUF) | [El Mesía](https://open.spotify.com/artist/0ZfWDfHN3CRDL76A5ahdIh), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy), [Palm Street Music](https://open.spotify.com/artist/2DhIjqkqMeJbniEyuWRT2c) | [¿Qué Pasó Ayer?](https://open.spotify.com/album/3wJw6YF37C5GqhFkQI6ZKy) | 2:55 |
 | 54 | [Mentiroso](https://open.spotify.com/track/0Wm2gBQwbCTTdkLbuiGlFG) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Mentiroso](https://open.spotify.com/album/6arHthrwXAAUuehcBKshhd) | 2:39 |
 | 55 | [La Chacalosa](https://open.spotify.com/track/5vuVl4GyBzqurNoUmVmWfC) | [Janely Rosa](https://open.spotify.com/artist/2dRuTJ4s1SlwmiPpi5uhQF) | [La Chacalosa](https://open.spotify.com/album/3mmYCTs2YEuJPnXyJpNEJT) | 3:33 |
 | 56 | [Yo Ni Te Topo](https://open.spotify.com/track/2hiAOmnmUnk90Cg3uMz6Jr) | [Brianda](https://open.spotify.com/artist/61LNM8cDiz5ozA8BbUi7Hf) | [Yo Ni Te Topo](https://open.spotify.com/album/6vfNB1Hos5ni9wAIdKAexj) | 2:38 |

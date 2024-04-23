@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 
 > Check out these inspired hits to keep your Summer fun and upbeat!
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,935 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,928 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 36 | [Never Far \(House Church\)](https://open.spotify.com/track/5Z72BdPMGtQ6TGKxKO4Lwa) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [Never Far \(House Church\)](https://open.spotify.com/album/51FsVOFCZmAwrRvvQl3H72) | 3:51 |
 | 37 | [Confidence](https://open.spotify.com/track/2qoac9iEajoV0V6eJcCvkJ) | [Sanctus Real](https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj) | [Confidence](https://open.spotify.com/album/5arHoem6Gn0ZZEckShyhP6) | 3:01 |
 | 38 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
-| 39 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 |
-| 40 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
+| 39 | [Shining Down](https://open.spotify.com/track/32xXj2TeK1vrtFDUfFFXEW) | [Swoope](https://open.spotify.com/artist/78ZdtwvDD5zTElro6EGkcU) | [Sonshine](https://open.spotify.com/album/5ac7A7sUQdSR1ZnuznpBN7) | 5:11 |
+| 40 | [Anchor](https://open.spotify.com/track/2gCATN5nBgcwOGG2BE19u7) | [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [BRKNHRT.](https://open.spotify.com/album/53rq2pHU4MZCWYKGfbLola) | 3:33 |
 | 41 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
 | 42 | [Love \(Remix\)](https://open.spotify.com/track/7CtbpjinSwlPwRolx7wmTi) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd), [Mali Music](https://open.spotify.com/artist/4S4kD5NBlgaq4YLBQSEMyY) | [Love \(Remix\)](https://open.spotify.com/album/3irVs3SlBLgZnrotRIkd6W) | 3:30 |
 | 43 | [Pray](https://open.spotify.com/track/2RLXKrcqCYLFZIGJbmyaVD) | [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [Pray](https://open.spotify.com/album/36yjJrRmzJT7IMEtd4OtQe) | 3:48 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzcqvqvxPQA.md) - [plain]
 | 51 | [Standing In Your Light](https://open.spotify.com/track/4oVUUhJRcY0bPfS7DjWcsr) | [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [Standing In Your Light](https://open.spotify.com/album/6juuzTTAAfhevQ2tvshhCP) | 3:32 |
 | 52 | [Not Too Far](https://open.spotify.com/track/6YvfFdBKpgYMuV1Q8beFax) | [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [Not Too Far](https://open.spotify.com/album/0QlOVnfV5mMUYWughwqoP8) | 3:01 |
 | 53 | [Mercy's Tree](https://open.spotify.com/track/3FTi0FOjEywikC2IkCRHPw) | [Firma Collective](https://open.spotify.com/artist/52MaCDJuPM1dlrCPMOlhmB), [Lexi Jones](https://open.spotify.com/artist/2P43J08xD06ufX2GuJLVT6) | [Songs for Every Soul](https://open.spotify.com/album/494eVpr2xXEPkDxzk5kjbk) | 4:17 |
-| 54 | [Snapshot](https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Snapshot](https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s) | 3:28 |
-| 55 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 |
+| 54 | [What Freedom Feels Like](https://open.spotify.com/track/3JpweS0YOuNHJsMdgZlAOA) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [What Freedom Feels Like](https://open.spotify.com/album/62Hd11LH9xM8HX9GClD72L) | 3:05 |
+| 55 | [Snapshot](https://open.spotify.com/track/4hO0jaw7w3gF4JjdImHEyf) | [Matthew Parker](https://open.spotify.com/artist/0QT3cPPXMGYtTG3kN8Ez54), [JSteph](https://open.spotify.com/artist/0MCSKdSCK4aujv5BeTJPj3) | [Snapshot](https://open.spotify.com/album/1jqP8dTXqeMOCQtkTe5a4s) | 3:28 |
 | 56 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
 | 57 | [Chasing Quiet](https://open.spotify.com/track/1DlqtcXFYM730abZTuudEr) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Chasing Quiet](https://open.spotify.com/album/0a6FXEKKbN0nVdKF9ZIpsg) | 2:38 |
 | 58 | [Paid For It](https://open.spotify.com/track/012SkEI8fzg3pKAKNygn5c) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [Jay\-Way](https://open.spotify.com/artist/1RDbE3dM2bNNSTh88R4MQ7), [Brianna Catrice](https://open.spotify.com/artist/2zT458SceFHdoOiokYSleQ) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:01 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 
 > Classics by the pioneers of the sound, and its modern\-day icons\. Cover: 100 gecs
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,065 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,097 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakZCf7SV1CS.md) - [plain]
 | 11 | [claws](https://open.spotify.com/track/7Dexi5Z2IowCkHrnzlWysc) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [how i'm feeling now](https://open.spotify.com/album/3a9qH2VEsSiOZvMrjaS0Nu) | 2:29 |
 | 12 | [When I Rule the World](https://open.spotify.com/track/7nu0Lc0jJltztDxsGeoPiG) | [LIZ](https://open.spotify.com/artist/6t2Rja6dihuxH6Mrgyynp6) | [When I Rule the World](https://open.spotify.com/album/2yqtOR8q6lSbLQp7Bka74v) | 3:05 |
 | 13 | [hand crushed by a mallet](https://open.spotify.com/track/7CUkeiG7QtB7tPU9f8SANS) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 2:06 |
-| 14 | [i dont want that many friends in the first place](https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ) | 1:49 |
-| 15 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 |
+| 14 | [Mine](https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [Mine](https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP) | 2:39 |
+| 15 | [i dont want that many friends in the first place](https://open.spotify.com/track/10P4luHAHr1o5kqDa8NDIU) | [quinn](https://open.spotify.com/artist/2QpNu8tDPv9n7oY34J1TtN) | [i dont want that many friends in the first place](https://open.spotify.com/album/44nPHmYq8LeqrjgwqcWyuQ) | 1:49 |
 | 16 | [i know you hate me](https://open.spotify.com/track/1dyGAvhMll39BwCGb6u9pP) | [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [i know you hate me](https://open.spotify.com/album/4ZJoNTkzmI2R9iG5CURjWh) | 2:04 |
 | 17 | [prism](https://open.spotify.com/track/3LOF9w7r0yos4DqBvizeLa) | [monty.pk](https://open.spotify.com/artist/3L2O6zqeWf9jdUFVihAB5g) | [prism](https://open.spotify.com/album/6dVBs7hZT8Y0W0V0I9bqE7) | 2:32 |
 | 18 | [astrid](https://open.spotify.com/track/3SpRtNO7GKWaFyWydXArvn) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [cypress grove](https://open.spotify.com/album/0cF9M8eWDJfgbf0XtyrTL9) | 1:41 |

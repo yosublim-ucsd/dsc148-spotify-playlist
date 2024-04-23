@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 ### [This Is Gabito Ballesteros](https://open.spotify.com/playlist/37i9dQZF1DZ06evO43Xw6T)
 
-> This Is Gabito Ballesteros\. Los temas esenciales, todos en una lista.
+> This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,211 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,450 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 50 | [Pensaron Que No Podia](https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 2:36 |
 | 51 | [Ya Comieron?](https://open.spotify.com/track/4Vrkqy10qbb5R1nRnbfD55) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya Comieron?](https://open.spotify.com/album/1cKEr2VczSEJqTsRSduaIL) | 2:58 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDE4ZTcyZGRjOGZlYjU4MDc4YjIyOTIzZWZjZTg2OTIy`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGJkMDk0ZTRiYThiZGMwYjA2NWRkYmU5MDVlYzFiYTYz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,605 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,700 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 36 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
 | 37 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
 | 38 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
-| 39 | [Overlook](https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt) | [Jack Bradley Vaught](https://open.spotify.com/artist/5wblMUnLVqEef2mIpuiDED) | [Overlook](https://open.spotify.com/album/3UAI3FHdoMIdFDK0Pwb4Cd) | 2:41 |
-| 40 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
+| 39 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
+| 40 | [Overlook](https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt) | [Jack Bradley Vaught](https://open.spotify.com/artist/5wblMUnLVqEef2mIpuiDED) | [Overlook](https://open.spotify.com/album/3UAI3FHdoMIdFDK0Pwb4Cd) | 2:41 |
 | 41 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
 | 42 | [Pistol Shrimp](https://open.spotify.com/track/5M1hoIZLs9cSOihCgUTJjT) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Pistol Shrimp](https://open.spotify.com/album/5teivAr6a0JL0H36dIwRyf) | 3:58 |
 | 43 | [The Wolf](https://open.spotify.com/track/3HMd3dLDhHC9JfS9I6X4LJ) | [LEØ](https://open.spotify.com/artist/1dIdB87SOCg58ixm8rEtnm) | [The Wolf](https://open.spotify.com/album/2rMdFF4V0BhFxGExXFddY3) | 3:54 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 49 | [Marionette](https://open.spotify.com/track/059jgZN65g4cZY9pe7phoY) | [Keaton Henson](https://open.spotify.com/artist/6GFfu1alUSrL7qazImC160), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Fragments EP](https://open.spotify.com/album/6MFubeEasrCBNKpo26Ddx9) | 4:48 |
 | 50 | [Stay Right Here Until Morning](https://open.spotify.com/track/1G3PUN2xuhLytcQ8gzyO2s) | [Twiceyoung](https://open.spotify.com/artist/1gIaahQbTZ8EX77uQw62Vc), [The Light The Heat](https://open.spotify.com/artist/17EpO9pUubOAhnTopBgQYR) | [Stay Right Here Until Morning](https://open.spotify.com/album/2FqjRRFbmdmz9NhbQIi2O0) | 3:24 |
 | 51 | [Dreams](https://open.spotify.com/track/1WfA8fbuQeHh1ADwjJMwLg) | [Caroline Glaser](https://open.spotify.com/artist/4qiAhwxeFLSbkNq6tFEWpJ) | [Caroline Glaser](https://open.spotify.com/album/4zd3piahMJULe7zBWeZcxJ) | 3:50 |
-| 52 | [Laugh Again](https://open.spotify.com/track/5ZgbBziuSI2t9D35PNEKU4) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Awake](https://open.spotify.com/album/6X80JGSK70plo8k6bccvIf) | 3:59 |
-| 53 | [Petrichor](https://open.spotify.com/track/7kVwwBJPDCCCrsLzzs27vO) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Petrichor](https://open.spotify.com/album/3fmwjRpD4yzD8LOrDWoj3Y) | 3:32 |
+| 52 | [Petrichor](https://open.spotify.com/track/7kVwwBJPDCCCrsLzzs27vO) | [Canyon City](https://open.spotify.com/artist/6TdfKQvrdHZdr4DIzjuWOr) | [Petrichor](https://open.spotify.com/album/3fmwjRpD4yzD8LOrDWoj3Y) | 3:32 |
+| 53 | [Laugh Again](https://open.spotify.com/track/5ZgbBziuSI2t9D35PNEKU4) | [Ev Carm](https://open.spotify.com/artist/7HRu2XaMM0YFdWqKGDiQtL) | [Awake](https://open.spotify.com/album/6X80JGSK70plo8k6bccvIf) | 3:59 |
 | 54 | [Illuminate](https://open.spotify.com/track/5o5SVIrVETWIQFMdgPFXPt) | [The Kite String Tangle](https://open.spotify.com/artist/3D6cosC5ZOLCpRxt6T3XS7), [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Illuminate](https://open.spotify.com/album/0jNQhlyidtHVsBYtXMFV3g) | 4:10 |
 | 55 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 |
 | 56 | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/track/2OBjNngWUWi2aTqZbCrYmb) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi) | 4:34 |

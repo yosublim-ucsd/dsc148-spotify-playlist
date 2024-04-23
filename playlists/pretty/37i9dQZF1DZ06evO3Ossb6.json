@@ -1,12 +1,12 @@
 {
   "description": "This Is Alejandro Fern\u00e1ndez. Los temas esenciales, todos en una lista.",
-  "num_followers": 791712,
+  "num_followers": 791555,
   "original_name": "This Is Alejandro Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDFjNGY0NmI2ZWU4MzkwMmNkYWNlNDI4OGJlYmY5NjY0",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFjODc0YTQzYThkZjZiMzc5ZWRiMGM3MWFkMjM1NzAw",
   "tracks": [
     {
       "added_at": null,
@@ -171,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duele",
-        "url": "https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT"
+        "name": "Confidencias",
+        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
       "artists": [
         {
@@ -180,13 +180,13 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         },
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Christina Aguilera",
+          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
         }
       ],
-      "duration_ms": 192960,
-      "name": "Duele",
-      "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
+      "duration_ms": 291106,
+      "name": "Hoy Tengo Ganas De Ti",
+      "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
     },
     {
       "added_at": null,
@@ -223,8 +223,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confidencias",
-        "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
+        "name": "Duele",
+        "url": "https://open.spotify.com/album/6ia94ihMQr60Wzr9kqvjoT"
       },
       "artists": [
         {
@@ -232,13 +232,13 @@
           "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
         },
         {
-          "name": "Christina Aguilera",
-          "url": "https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 291106,
-      "name": "Hoy Tengo Ganas De Ti",
-      "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
+      "duration_ms": 192960,
+      "name": "Duele",
+      "url": "https://open.spotify.com/track/6CFaze42M5wiTqMidNtJLE"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dos Mundos",
+        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        }
+      ],
+      "duration_ms": 195906,
+      "name": "Estuve",
+      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Decepciones",
         "url": "https://open.spotify.com/album/4Q7weZZRXGVLoKk3NeOuNT"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 223706,
       "name": "Decepciones",
       "url": "https://open.spotify.com/track/2LTYkSso5VAfdqzqjprOcH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dos Mundos",
-        "url": "https://open.spotify.com/album/65go3XkEnCQoFByHvFLcDD"
-      },
-      "artists": [
-        {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        }
-      ],
-      "duration_ms": 195906,
-      "name": "Estuve",
-      "url": "https://open.spotify.com/track/4AZFdWGuK1VfUpvPBUM7pv"
     },
     {
       "added_at": null,

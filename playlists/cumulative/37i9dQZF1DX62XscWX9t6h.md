@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-177 songs - 12 hr 42 min
+178 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Nomad](https://open.spotify.com/track/68wrmZ8GgYlidAhERxI0Bz) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:44 | 2022-07-01 |  |
 | [Nosotros También](https://open.spotify.com/track/76xUNVY7llhvudB1jrl21I) | [Gitkin](https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt) | [Safe Passage](https://open.spotify.com/album/79iAX89nw9T3AH2CvsboR3) | 3:26 | 2021-10-20 | 2024-04-19 |
 | [Octopus](https://open.spotify.com/track/0DiWyh4VhRKg6VXqcaVA0o) | [Malphino](https://open.spotify.com/artist/1hWJbIVGfYRmwRgmM6HFij) | [Sueño EP](https://open.spotify.com/album/3Ss0rghY7VI1gFuzqEKhKR) | 3:51 | 2023-04-13 | 2024-04-19 |
+| [OH WAH \(feat\. NATURE\)](https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I) | [Blinky Bill](https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [OH WAH \(feat\. NATURE\)](https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1) | 3:25 | 2024-04-23 |  |
 | [On te l'avait dit](https://open.spotify.com/track/3d6u38zeC6XIt87Hhp4pql) | [Voilaaa](https://open.spotify.com/artist/6MQoRoLtsUg7Fzi5nJGmC1), [Pat Kalla](https://open.spotify.com/artist/3qOrdMiR9VBKS6MIlDH4Aj) | [On te l'avait dit](https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp) | 6:24 | 2021-10-20 |  |
 | [Once in a Lifetime](https://open.spotify.com/track/5nXXJeSf9MeDmUmEoafgOH) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Remain in Light](https://open.spotify.com/album/4RWSXCDIk9HDCAjRFTPVcn) | 5:48 | 2021-10-20 |  |
 | [Ordunun Dereleri](https://open.spotify.com/track/64Pztp6tg1ZBV9zF09mdFr) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Ordunun Dereleri](https://open.spotify.com/album/4mfZiG69wQPi8f4iJdv2xm) | 4:45 | 2021-10-20 |  |
@@ -130,7 +131,7 @@
 | [Sacatela](https://open.spotify.com/track/7AQSnI0NylqRyXJTvN1Aku) | [La Femme](https://open.spotify.com/artist/5VTWoYYizcOY3uIKnxeCGI) | [Sacatela](https://open.spotify.com/album/06nue4Ry0BmfBW1aX3RWNe) | 2:52 | 2022-07-01 |  |
 | [Savanne](https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm) | [Vieux Farka Touré](https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze), [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [Ali](https://open.spotify.com/album/4dfAJiDQHQf4dGX0ZdtxPh) | 5:16 | 2022-08-03 | 2024-04-19 |
 | [Serpentines \(to Nikšić\)](https://open.spotify.com/track/3qOF9KosQNYRlyoWQF5eAY) | [Takeshi's Cashew](https://open.spotify.com/artist/6Fz85Ih5XufwQ1TH4s0pHA) | [Enter J's Chamber](https://open.spotify.com/album/0SYCOHLxNJksWTbAtP9PYo) | 4:47 | 2022-08-31 | 2024-04-19 |
-| [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 | 2021-10-20 |  |
+| [Sierra Madre \(Remix\)](https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6) | [Bial Hclap](https://open.spotify.com/artist/6f2R15yk7Bem9aU3nyXXo1), [Héctor Guerra](https://open.spotify.com/artist/4lfPNH1M6M7uNbHlhQdvZz), [Danger](https://open.spotify.com/artist/23TYM4mYLQjyJLr4x89MjH), [Noe Gonzalez Molina](https://open.spotify.com/artist/7Fwc3AwZokLaMKG6PBldYg) | [Sierra Madre \(Remix\)](https://open.spotify.com/album/6ZiLWGGHlbwU6Z2llnJRns) | 5:05 | 2021-10-20 | 2024-04-23 |
 | [Silky](https://open.spotify.com/track/7oelcLcMEvuvcr8AOqNFdm) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Mentallogenic](https://open.spotify.com/album/6yIJxxHYflUXbspDdrrJym) | 4:19 | 2023-04-14 |  |
 | [Sina Vaishu](https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Yawanawa Saiti Kaya](https://open.spotify.com/artist/6LGmos5f8NjKasqSazopGg) | [THE FUTURE IS ANCESTRAL](https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3) | 3:29 | 2024-04-19 |  |
 | [Solstício](https://open.spotify.com/track/1OvgFEAdvQp7va0C68UaiW) | [Baiuca](https://open.spotify.com/artist/2GSXsSy3YzWsp4BXfSGucS), [Carlos Núñez](https://open.spotify.com/artist/3e09WanUMwtc9XfZRLvZ30) | [Solstício](https://open.spotify.com/album/7I3I6jxYh64keGLmZFGP4R) | 4:25 | 2022-02-18 |  |

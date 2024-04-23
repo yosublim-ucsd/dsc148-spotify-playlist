@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for a big workout.",
-  "num_followers": 596854,
+  "num_followers": 597488,
   "original_name": "Beast Mode Dance",
   "owner": {
     "name": "Spotify",
@@ -1463,30 +1463,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "DubVision",
-          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
-        },
-        {
-          "name": "Jaimes",
-          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
-        }
-      ],
-      "duration_ms": 198425,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Drinkin'",
         "url": "https://open.spotify.com/album/2OjEzu9OvZLeGOJnAOxphI"
       },
@@ -1507,6 +1483,30 @@
       "duration_ms": 149545,
       "name": "Drinkin'",
       "url": "https://open.spotify.com/track/2LCd6P35jFyZ9SN37o9D2q"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5UPw5Z0vsHExBhH56uS3iQ"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Jaimes",
+          "url": "https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO"
+        }
+      ],
+      "duration_ms": 198425,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/575ViHchpSUjfTLCQPdE49"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "PARADISE",
         "url": "https://open.spotify.com/album/6lumo11dn8gPbLLdmpe1PZ"
       },
@@ -1651,22 +1667,6 @@
       "duration_ms": 166666,
       "name": "All For Love",
       "url": "https://open.spotify.com/track/3ec1mgb7R6yhRvzp3DaTus"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Vent",
-        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
-      },
-      "artists": [
-        {
-          "name": "NOIT",
-          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
-        }
-      ],
-      "duration_ms": 176898,
-      "name": "Vent",
-      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1755,26 +1755,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        }
-      ],
-      "duration_ms": 160714,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Past Life",
         "url": "https://open.spotify.com/album/0vJYeZ82yiEUvuGBDMoqwL"
       },
@@ -1791,6 +1771,26 @@
       "duration_ms": 196821,
       "name": "Past Life",
       "url": "https://open.spotify.com/track/4yc0wKwKXGkx9Vqc42MIFy"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/1D8XFqGY27IpYFAKB61h8v"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 160714,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/4Wu62DoQg1ECGlDKDfo30R"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1923,26 +1923,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "I Want You",
-        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
-      },
-      "artists": [
-        {
-          "name": "Butch",
-          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
-        },
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        }
-      ],
-      "duration_ms": 187286,
-      "name": "I Want You",
-      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Eternity",
         "url": "https://open.spotify.com/album/1JjGogI2XIeKZK0UOSJQaY"
       },
@@ -1963,6 +1943,26 @@
       "duration_ms": 135428,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/3aNxfCcd9EohIxKmcQv1zn"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/3Dh81kJfGeinI3r7YMNX3E"
+      },
+      "artists": [
+        {
+          "name": "Butch",
+          "url": "https://open.spotify.com/artist/5kLzaeSHrmS7okc5XNE6lv"
+        },
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        }
+      ],
+      "duration_ms": 187286,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/5UM6P3y6794GYNOzZvj2zh"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -2079,18 +2079,26 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Take Me Away",
-        "url": "https://open.spotify.com/album/6EYwIO2gr5pTgQBysWPQvt"
+        "name": "Won't Forget You",
+        "url": "https://open.spotify.com/album/2b2p2llc051aP6YlPG5AnK"
       },
       "artists": [
         {
-          "name": "ACRAZE",
-          "url": "https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd"
+          "name": "Jax Jones",
+          "url": "https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr"
+        },
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
         }
       ],
-      "duration_ms": 179528,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/1EXDjOpV3Lbiv8CzJ7caHs"
+      "duration_ms": 153817,
+      "name": "Won't Forget You",
+      "url": "https://open.spotify.com/track/2fP9aII1LkmZZmzdAiuNVz"
     }
   ],
   "unique_name": "Beast Mode Dance",

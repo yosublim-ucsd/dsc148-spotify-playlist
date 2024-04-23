@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,542 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,129 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 31 | [Julia \(deep diving\)](https://open.spotify.com/track/5DHSlpd0MX9DfnoAQqolfa) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Julia \(deep diving\)](https://open.spotify.com/album/2HJCdduuXbN70tTNQyuFQn) | 4:34 |
 | 32 | [Frail State Of Mind](https://open.spotify.com/track/2i1CnSeLjppv41BTuc7qhY) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Frail State Of Mind](https://open.spotify.com/album/1KAWoDpnecuSNHijVTrWxn) | 3:54 |
 | 33 | [Naive](https://open.spotify.com/track/2jPQpbzZd90opXN0cBOspe) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [Naive](https://open.spotify.com/album/5e4XZZ2tTPPtBAKMTZnILI) | 3:33 |
-| 34 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
-| 35 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
+| 34 | [I'll Be There](https://open.spotify.com/track/17mZZOqfeFSDS4Cu0ggkvW) | [BEKA](https://open.spotify.com/artist/1ClmHgLorY9RUCIvsTdT7A) | [I'll Be There](https://open.spotify.com/album/1WrbaQ0Z01VLqkqwspRU5J) | 3:55 |
+| 35 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 36 | [What Kinda Music \- Jordan Rakei Remix](https://open.spotify.com/track/0FMgzGbCh8yNMibGY5L2cM) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [What Kinda Music \(Jordan Rakei Remix\)](https://open.spotify.com/album/2xNZKNIlHUY9NKXrHzr19g) | 5:40 |
 | 37 | [6 Letters](https://open.spotify.com/track/1MJi765hSvWGBxCoxYeQsn) | [Daktyl](https://open.spotify.com/artist/2YrfEkWJvn1wue6JqekigJ), [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [6 Letters](https://open.spotify.com/album/1hanBCpxNcew4qx4g7nME2) | 2:46 |
 | 38 | [This World](https://open.spotify.com/track/3C571WNMD9cqzDzeNrqNXE) | [Astral Weeks](https://open.spotify.com/artist/1hivL4fCqxeDzyReGyrIB3) | [This World](https://open.spotify.com/album/0z2OPouev2a1KQ5fA5xbxK) | 3:52 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 73 | [The Middle](https://open.spotify.com/track/3iSqkvJmmEfvG65MI0Ua8R) | [Ukiyo](https://open.spotify.com/artist/0Geqa2iYzhQA5oVKUWuu0x), [Panama](https://open.spotify.com/artist/3W9UldYu0xJcaOAw2SUTDI) | [The Middle](https://open.spotify.com/album/2Cpy8vr0SjGbKZ8sUEnaxW) | 3:04 |
 | 74 | [Love Is Easy](https://open.spotify.com/track/7ycVunD8eBQjKgOcqNIUwg) | [JMR](https://open.spotify.com/artist/5TvAqaxbbxUNnzX11Pt752) | [Love Is Easy](https://open.spotify.com/album/7IayMpkgvHb3ZvxbDmvWvu) | 2:54 |
 | 75 | [I Leave Again \(Japanese Wallpaper Remix\)](https://open.spotify.com/track/6j73UJ8jieAOi1qJzbOOSo) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk), [Japanese Wallpaper](https://open.spotify.com/artist/2xUsnfrcs3h2FzdRQvGmGM) | [I Leave Again](https://open.spotify.com/album/15yBff9ZnXVgnO3v6vfCw5) | 3:27 |
-| 76 | [You Don’t Look at Me the Same](https://open.spotify.com/track/2mNFhyfs6zXClFy20XHb34) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [You Don’t Look at Me the Same](https://open.spotify.com/album/5kKlM8cwqFu70WyLJjfXKf) | 2:56 |
-| 77 | [Flowers for Anna](https://open.spotify.com/track/47U7lFNFG9T3zH7eWaUUry) | [Ames](https://open.spotify.com/artist/4oDmrxjcmdVRXErxCTDFZA) | [Flowers for Anna](https://open.spotify.com/album/6byTecwER6LeUzKXGldAhH) | 3:30 |
+| 76 | [Flowers for Anna](https://open.spotify.com/track/47U7lFNFG9T3zH7eWaUUry) | [Ames](https://open.spotify.com/artist/4oDmrxjcmdVRXErxCTDFZA) | [Flowers for Anna](https://open.spotify.com/album/6byTecwER6LeUzKXGldAhH) | 3:30 |
+| 77 | [You Don’t Look at Me the Same](https://open.spotify.com/track/2mNFhyfs6zXClFy20XHb34) | [Great Good Fine Ok](https://open.spotify.com/artist/422RLznpwUa5FsQgnTlgUH), [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [You Don’t Look at Me the Same](https://open.spotify.com/album/5kKlM8cwqFu70WyLJjfXKf) | 2:56 |
 | 78 | [Onlysmokecigsontheweekend](https://open.spotify.com/track/61sqEURvZ2rKQSo747y8RS) | [Walkabout](https://open.spotify.com/artist/1L5pkrtjkNysKt7YJYtLKZ), [Chris Ryan](https://open.spotify.com/artist/1R4WQIk1hRYS6ilbFxg5Rx) | [Fun Like That](https://open.spotify.com/album/4jUIb0Ip7qgo3qmCef9nfW) | 2:28 |
 | 79 | [Home](https://open.spotify.com/track/62VYVWExRnkAmcbKTOvk1l) | [Alejandro Aranda](https://open.spotify.com/artist/6nnETPmZS7rdAwzBLhMPXn) | [Home](https://open.spotify.com/album/4n9GXR9Tu9o4SE0eGvTMfA) | 3:45 |
 | 80 | [One & Only](https://open.spotify.com/track/7pOYphM23vrb84EESH2cN7) | [Bevan](https://open.spotify.com/artist/7n4PxTryLarh0iSfBHsibu) | [One & Only](https://open.spotify.com/album/1yggNykuBhJfkYibz3hmhN) | 4:06 |
@@ -103,9 +103,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 93 | [lakeshore](https://open.spotify.com/track/6zb5zepZKys7cTLWZy3ffL) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [portraits](https://open.spotify.com/album/6U3xoLDkmM8QD6Zi9n6kmP) | 2:47 |
 | 94 | [Twisted](https://open.spotify.com/track/3PhRL0xECU41r6j8Mc5F6Z) | [Fractures](https://open.spotify.com/artist/7sjRnhONmeFL1tmlUvdq70) | [Fractures](https://open.spotify.com/album/6a7mIWHjfQRdaXNlZ4Wcyz) | 4:20 |
 | 95 | [Why](https://open.spotify.com/track/3pr6oJh5ypTefpVnxHAcsP) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Why](https://open.spotify.com/album/4QihSvriLLNUwVd4R0gTi9) | 4:03 |
-| 96 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
+| 96 | [In Cold Blood](https://open.spotify.com/track/6sIvAyM1AtnSGz3anRLcDo) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [In Cold Blood](https://open.spotify.com/album/5zlu4KRhI3Ld9zOVBgXAEX) | 3:26 |
 | 97 | [Almost There](https://open.spotify.com/track/2WlEJqRXj37vtII3CTt2Hj) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [A Place We Know / Almost There](https://open.spotify.com/album/677phHoNKIklj64z6GuA5L) | 3:54 |
-| 98 | [In Cold Blood](https://open.spotify.com/track/6sIvAyM1AtnSGz3anRLcDo) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [In Cold Blood](https://open.spotify.com/album/5zlu4KRhI3Ld9zOVBgXAEX) | 3:26 |
+| 98 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
 | 99 | [Better](https://open.spotify.com/track/6HUf5XZ42rs0svrOZjODj4) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG), [Daniel Loumpouridis](https://open.spotify.com/artist/4mdHhJxqXDxoVwDDcJKTL0) | [Better](https://open.spotify.com/album/7mRF5LbfCd1ggGm5Xfy9WN) | 3:27 |
 | 100 | [Captivated](https://open.spotify.com/track/4215JgBYhwg7jUtfL4Nzkc) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Captivated](https://open.spotify.com/album/6cFedsjaaJ4Lx6D8g907YE) | 4:02 |
 

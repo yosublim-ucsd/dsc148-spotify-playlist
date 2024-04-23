@@ -4,7 +4,7 @@
 
 > Trendy x Chill K\-Hip Hop\.  \(Cover: Loopy\(루피\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-687 songs - 1 day 13 hr 13 min
+688 songs - 1 day 13 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -441,6 +441,7 @@
 | [Oh G Ma \(Feat\. nugu ?\)](https://open.spotify.com/track/7HR77XLHr5OoPrWKUwrSqp) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [YUNNUGU](https://open.spotify.com/artist/202toms3QJeNCFXO0BFNY4) | [smells of summer](https://open.spotify.com/album/5rr8NYWqw3J0b29LBFwXC2) | 2:42 | 2022-04-21 | 2022-04-23 |
 | [Oh Girl](https://open.spotify.com/track/2kPGB5tbMeBBhPphntw6JU) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg) | [Is Anybody Out There?](https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT) | 3:24 | 2022-04-21 | 2022-06-28 |
 | [oh yeah](https://open.spotify.com/track/6HcYZ1SlmnmiPJ5oXwoT9y) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [insatiable <3](https://open.spotify.com/album/1Nsu0LDVxxAEeGnJQs4pZA) | 2:43 | 2023-04-21 | 2023-07-28 |
+| [OK](https://open.spotify.com/track/36ivhvZz9YVL0AjELWlWGP) | [sokodomo](https://open.spotify.com/artist/23LskvW8ErKu8v1teU7xFZ) | [OK](https://open.spotify.com/album/2aVzG0xQisfr60C4zSD4Um) | 4:02 | 2024-04-22 |  |
 | [OKAY \(Feat\. Swings\)](https://open.spotify.com/track/4azqExDJLlQBhiSTuGi4yC) | [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE), [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [ISLAND](https://open.spotify.com/album/5FyZZQnOzCUzAMWmeWbQhO) | 2:40 | 2022-04-21 | 2022-07-15 |
 | [On The Rocks \(Feat\. h3hyeon, BE′O\)](https://open.spotify.com/track/0jIU2p3kJTeLa2figH0KBj) | [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [TOTO](https://open.spotify.com/album/6uSzRAcTm7VIF9kXmEW1YK) | 2:33 | 2024-04-05 |  |
 | [On the street \(Feat\. ASH ISLAND\)](https://open.spotify.com/track/0b0E2uQdDqRljyLY89SE7O) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [On the street](https://open.spotify.com/album/6ItJ5CozK65pukSempmAcU) | 3:29 | 2023-08-16 |  |
@@ -545,7 +546,7 @@
 | [Sit Down](https://open.spotify.com/track/0GJEnSR95YQ6zXNjfaYefx) | [Newaile](https://open.spotify.com/artist/6AfRvdVeh2FRtHkXzBYeIu) | [Sit Down](https://open.spotify.com/album/0NvmeuhbNePOCY5lNJMDe0) | 2:49 | 2022-04-21 | 2022-07-24 |
 | [Six Weeks](https://open.spotify.com/track/12F3kZjxE4LT6XjOvrzbqO) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Pressure Makes Diamonds](https://open.spotify.com/album/0eT8WtiDIRVOzHuYWVpEnc) | 2:17 | 2023-02-24 |  |
 | [Sleep with another \(feat\. Kid Wine\)](https://open.spotify.com/track/5rkBTlPFwWwe6pWKLZBP1O) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [Kid Wine](https://open.spotify.com/artist/4AUvnqezrLIzhkWD7TuICb) | [im your xYz](https://open.spotify.com/album/7iWDsAvnU18wUP8jGrvvCO) | 2:44 | 2022-07-09 | 2022-07-13 |
-| [So Far Away](https://open.spotify.com/track/6ihEBTnJTwXet6mKscZTwO) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [blur](https://open.spotify.com/album/7aOcvCFG0M2c0NVBq4LzyK) | 2:42 | 2024-04-18 |  |
+| [So Far Away](https://open.spotify.com/track/6ihEBTnJTwXet6mKscZTwO) | [Ourealgoat](https://open.spotify.com/artist/3YRGcoHMIvWleQfa0qa1D1) | [blur](https://open.spotify.com/album/7aOcvCFG0M2c0NVBq4LzyK) | 2:42 | 2024-04-18 | 2024-04-23 |
 | [So Far So Good \(feat\. TRADE L, JAEHA & Mirani\)](https://open.spotify.com/track/5d3rQVvcXkwYPRut655ANV) | [Yuwol](https://open.spotify.com/artist/5Jr606hvocuVIuk6Es5IlT), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Mirani](https://open.spotify.com/artist/6N7b9mUVwn885jI7RRg8no) | [Yuwol](https://open.spotify.com/album/71ftm0ABuOLacpeJbIiM88) | 2:54 | 2022-10-28 | 2022-11-23 |
 | [So Wet](https://open.spotify.com/track/6x64i1R4OdHFthZ9e3D7mq) | [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg) | [12](https://open.spotify.com/album/5EOIB0TzyKgOG1WoeE9gLE) | 3:19 | 2023-03-22 | 2023-04-07 |
 | [So What](https://open.spotify.com/track/1uWC5OG9GBYNjEWLIvpirZ) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [So What](https://open.spotify.com/album/463xJ8TlO5izv33kF1TCoS) | 2:36 | 2023-10-16 | 2023-10-28 |

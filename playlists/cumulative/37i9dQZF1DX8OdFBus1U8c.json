@@ -164,7 +164,7 @@
       ],
       "date_added": "2022-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 244131,
       "name": "All Divine",
       "url": "https://open.spotify.com/track/7mzu2WH5iRdKyBZVLZhHS2"
@@ -1000,7 +1000,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 246000,
       "name": "Fly",
       "url": "https://open.spotify.com/track/0iSVHgbveiiQ3KWD2JGsRB"
@@ -1080,7 +1080,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 198000,
       "name": "Hope",
       "url": "https://open.spotify.com/track/19WKaVw42t88aLr04lH4Qk"
@@ -1566,8 +1566,8 @@
           "url": "https://open.spotify.com/artist/4AmlgLX3ZgHhJ9phrzlIRu"
         },
         {
-          "name": "Neha Nair",
-          "url": "https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk"
+          "name": "Neha S. Nair",
+          "url": "https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH"
         },
         {
           "name": "MC Couper",
@@ -1816,7 +1816,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 276104,
       "name": "Lokam Mayakathilo",
       "url": "https://open.spotify.com/track/22QA31omSDg4TvqgxaJBPO"
@@ -2277,6 +2277,32 @@
     },
     {
       "album": {
+        "name": "Jai Ganesh (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6S6FCMEo7uNTqeICbpli4O"
+      },
+      "artists": [
+        {
+          "name": "Sankar Sharma",
+          "url": "https://open.spotify.com/artist/3hmaYZ6q0ZWzdbpz8B5kZE"
+        },
+        {
+          "name": "Rzee",
+          "url": "https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et"
+        },
+        {
+          "name": "Bhadra Rajin",
+          "url": "https://open.spotify.com/artist/2Z8xrdU7UXKkHgtJ3U4HZn"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176544,
+      "name": "Neram",
+      "url": "https://open.spotify.com/track/1jZxDKiB7HwTZl8V3nMhPb"
+    },
+    {
+      "album": {
         "name": "NERAM POKKU",
         "url": "https://open.spotify.com/album/4k8PDPpDBGGrh4wNYJVuOE"
       },
@@ -2398,7 +2424,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 197568,
       "name": "Ozhappan Anthem",
       "url": "https://open.spotify.com/track/1tVwdVeuje3iVvIHoBhCte"
@@ -2588,7 +2614,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 192214,
       "name": "PO",
       "url": "https://open.spotify.com/track/4QhqKtimLWiEx2haRDjn71"
@@ -2728,6 +2754,24 @@
       "duration_ms": 184887,
       "name": "Psycho",
       "url": "https://open.spotify.com/track/4DNno7YwgVANoQLNKcTgQi"
+    },
+    {
+      "album": {
+        "name": "Raavanan",
+        "url": "https://open.spotify.com/album/2Fxy7tQSkhKVINxfDaSmWY"
+      },
+      "artists": [
+        {
+          "name": "AQIL",
+          "url": "https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209054,
+      "name": "Raavanan",
+      "url": "https://open.spotify.com/track/7EZIw08pSqINJLo1wsqd9R"
     },
     {
       "album": {
@@ -3264,7 +3308,7 @@
       ],
       "date_added": "2021-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 234962,
       "name": "Trap Sundhari",
       "url": "https://open.spotify.com/track/51vzYdS2wo4peP0hu3i7au"

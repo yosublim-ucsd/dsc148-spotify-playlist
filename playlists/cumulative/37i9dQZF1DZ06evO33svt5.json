@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-11-11",
-  "description": "This Is Doja Cat. Los temas esenciales, todos en una lista.",
-  "name": "This Is Doja Cat",
+  "description": "This is \u30c9\u30fc\u30b8\u30e3\u30fb\u30ad\u30e3\u30c3\u30c8\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "name": "This Is \u30c9\u30fc\u30b8\u30e3\u30fb\u30ad\u30e3\u30c3\u30c8",
   "tracks": [
     {
       "album": {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 177373,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
@@ -346,7 +346,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 165733,
       "name": "Cyber Sex",
       "url": "https://open.spotify.com/track/1ghvzmzpx2nnrbx7wtpMgo"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 208666,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 285053,
       "name": "MOOO!",
       "url": "https://open.spotify.com/track/043dDJ9u0PQ3ooAXMgcwOe"
@@ -886,7 +886,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 210560,
       "name": "Need to Know",
       "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 159160,
       "name": "Options (feat. JID)",
       "url": "https://open.spotify.com/track/1ayV64ur8VWgc6OPtPRl1q"
@@ -1056,7 +1056,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 187040,
       "name": "Rules",
       "url": "https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 226986,
       "name": "Streets",
       "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
@@ -1248,10 +1248,28 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 182906,
       "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
       "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+    },
+    {
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "Wet Vagina",
+      "url": "https://open.spotify.com/track/5MqauQV2PhcEFfhKtBOTua"
     },
     {
       "album": {
@@ -1310,7 +1328,7 @@
       ],
       "date_added": "2023-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 195213,
       "name": "Won't Bite (feat. Smino)",
       "url": "https://open.spotify.com/track/7k51pIqTGEHHZOnpI11Qq2"

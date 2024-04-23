@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO04caZO) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO04caZO)
 
-### [This Is The Strokes](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04caZO)
+### [This Is ザ・ストロークス](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04caZO)
 
-> This is The Strokes\. The essential tracks, all in one playlist.
+> This is ザ・ストロークス。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,194 likes - 41 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,273 likes - 41 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 8 | [Call It Fate, Call It Karma](https://open.spotify.com/track/3Y4rUyw7XBCK6hGHCOt6rp) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 3:24 |
 | 9 | [Under Cover of Darkness](https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:55 |
 | 10 | [Ode To The Mets](https://open.spotify.com/track/1BLOVHYYlH4JUHQGcpt75R) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 5:51 |
-| 11 | [Heart In a Cage](https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:26 |
-| 12 | [What Ever Happened?](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:49 |
+| 11 | [What Ever Happened?](https://open.spotify.com/track/78Gzxi27GuNHTfkn2BylG4) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Room On Fire](https://open.spotify.com/album/3HFbH1loOUbqCyPsLuHLLh) | 2:49 |
+| 12 | [Heart In a Cage](https://open.spotify.com/track/3mYCd23hPxJW5okSvMoy3x) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [First Impressions Of Earth](https://open.spotify.com/album/1HQ61my1h3VWp2EBWKlp0n) | 3:26 |
 | 13 | [Machu Picchu](https://open.spotify.com/track/6mVD1SfTvlFAPVi7txFL5H) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:29 |
 | 14 | [Why Are Sundays So Depressing](https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:35 |
 | 15 | [Hard To Explain](https://open.spotify.com/track/2LMloFiV7DHpBhITOaBSam) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2yNaksHgeMQM9Quse463b5) | 3:44 |
@@ -50,4 +50,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04caZO.md) - [plain]
 | 40 | [80's Comedown Machine](https://open.spotify.com/track/2lffRiAET2Xt6BNb4EmkS2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Comedown Machine](https://open.spotify.com/album/4WnkQO4xD9ljQooB3VIxCV) | 4:58 |
 | 41 | [Call Me Back](https://open.spotify.com/track/6z5mh42xSM54RncKZMM8hS) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Angles](https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ) | 3:02 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDI5MjA5MzA0YmZjMzZlNDZmZDBiNWY1NWRlZmRmYTRk`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDJlZDdjMmQ4YWRlMzRmMjc5OWQ0NTBiNjA5NTkzMWYy`

@@ -160,10 +160,28 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 139173,
       "name": "Kami no Miwaza",
       "url": "https://open.spotify.com/track/1ZwXYsG8IA9h10Uz7gVNdU"
+    },
+    {
+      "album": {
+        "name": "Shingeki no Kiseki",
+        "url": "https://open.spotify.com/album/24pr7CLiiJk8rUsXcocSA4"
+      },
+      "artists": [
+        {
+          "name": "Linked Horizon",
+          "url": "https://open.spotify.com/artist/3eNYrVLcWfjJ9JdH9kiPJO"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 319253,
+      "name": "Kanojo wa Tsumetai Hitsugi no Nakade",
+      "url": "https://open.spotify.com/track/20doJFAJWN2Krqri6fTbpZ"
     },
     {
       "album": {
@@ -340,7 +358,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 687298,
       "name": "\u30eb\u30af\u30bb\u30f3\u30c0\u30eb\u30af\u7d00\u884c",
       "url": "https://open.spotify.com/track/0PbbrQy8ZkdRf5PDyXXcgN"
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 277346,
       "name": "\u82b1\u304c\u6563\u308b\u4e16\u754c - Vocalized Version",
       "url": "https://open.spotify.com/track/75zWVtdvpl23vtRH4LnFS5"

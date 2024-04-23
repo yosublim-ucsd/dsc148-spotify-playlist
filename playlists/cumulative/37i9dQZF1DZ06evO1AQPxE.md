@@ -4,7 +4,7 @@
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-54 songs - 2 hr 30 min
+55 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Is That Ight?](https://open.spotify.com/track/78aELoNP2X3DC3rjHEVLPy) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:58 | 2024-01-12 |  |
 | [Killer \(feat\. Jack Harlow & Cordae\) \- Remix](https://open.spotify.com/track/7zl7kehxesNEo2pYkKXTSe) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [Killer \(feat\. Jack Harlow & Cordae\) \[Remix\]](https://open.spotify.com/album/0H1ASykMKIX8PYfqxbxBar) | 3:56 | 2024-01-12 |  |
 | [KNACK FOR IT](https://open.spotify.com/track/7znMNt4SWNyheMtwgzvUzK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Loose](https://open.spotify.com/album/50UV94JhFbWhF37n74Jhk3) | 2:29 | 2024-01-12 |  |
+| [Leaf Wraps](https://open.spotify.com/track/4f0IS8GKd6RHx0UlvSyJLK) | [The Homies](https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Leaf Wraps](https://open.spotify.com/album/5VfR15U7wjAA20ChsFd3Rg) | 3:33 | 2024-04-23 |  |
 | [Like A Blade Of Grass](https://open.spotify.com/track/22xea6Z2a8BbyVeCksSBX9) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Come Home The Kids Miss You](https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw) | 2:06 | 2024-01-12 |  |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2024-01-12 |  |
 | [Luv Is Dro \(feat\. Static Major & Bryson Tiller\)](https://open.spotify.com/track/0LcsvJQSFIQo3RjNhPcYqT) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:57 | 2024-01-12 |  |
@@ -43,7 +44,7 @@
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2024-01-12 |  |
 | [No Enhancers](https://open.spotify.com/track/2nK3bNHjO0IAMarcoN27UK) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Jackman.](https://open.spotify.com/album/1ep4OEfNOhvcY85STfEtKy) | 1:39 | 2024-01-12 |  |
 | [OUT FRONT](https://open.spotify.com/track/6ukXwaLZoMjeqA98ZdKLtq) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:58 | 2024-01-12 |  |
-| [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2024-01-12 |  |
+| [Psychic](https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:40 | 2024-01-12 | 2024-04-23 |
 | [ROTTEN \(feat\. EST Gee\)](https://open.spotify.com/track/15jg4vt123axobdGleLugn) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Confetti](https://open.spotify.com/album/7xfcihbsBamUi6sezd0oOG) | 3:10 | 2024-01-12 |  |
 | [Route 66 \(feat\. EST Gee\)](https://open.spotify.com/track/5faz5WYRJdRDiCa42DSgHR) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thats What They All Say](https://open.spotify.com/album/5g2INX6dnMIJG0xKygXwF3) | 2:33 | 2024-01-12 |  |
 | [SMELLS LIKE INCENSE](https://open.spotify.com/track/5xAR2kje4pVMHz0ipvp2VA) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Sweet Action](https://open.spotify.com/album/7AaqMMiYMvnMB3RcS8u3EY) | 2:24 | 2024-01-12 |  |

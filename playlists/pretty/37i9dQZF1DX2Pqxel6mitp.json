@@ -1,6 +1,6 @@
 {
   "description": "A cup of Joe and the raw Blues.",
-  "num_followers": 84003,
+  "num_followers": 84062,
   "original_name": "Black Coffee Blues",
   "owner": {
     "name": "Spotify",
@@ -639,22 +639,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "The Midnight Broadcast",
-        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
-      },
-      "artists": [
-        {
-          "name": "Peter Case",
-          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Bumble Bee",
-      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 360480,
       "name": "Blue River Rising",
       "url": "https://open.spotify.com/track/22jAc1VDDfEMZwecjhaKuE"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "The Midnight Broadcast",
+        "url": "https://open.spotify.com/album/5XWkAsBVccgg9FFC77e9B6"
+      },
+      "artists": [
+        {
+          "name": "Peter Case",
+          "url": "https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Bumble Bee",
+      "url": "https://open.spotify.com/track/1FgQnc7KZLvaB89eWOfQ2R"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -691,22 +691,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Jolene",
-        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
-      },
-      "artists": [
-        {
-          "name": "GA-20",
-          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
-        }
-      ],
-      "duration_ms": 237769,
-      "name": "Jolene",
-      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Too Wet to Plow",
         "url": "https://open.spotify.com/album/51swNhclsOSHdQRFHQcsjp"
       },
@@ -723,18 +707,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Call Me King",
-        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
+        "name": "Jolene",
+        "url": "https://open.spotify.com/album/6bD5yWr1tSMSnuCqkR1HsG"
       },
       "artists": [
         {
-          "name": "Son Of Dave",
-          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+          "name": "GA-20",
+          "url": "https://open.spotify.com/artist/5lg8xPLWMK8R3EfQlKA5bT"
         }
       ],
-      "duration_ms": 174933,
-      "name": "Call Me King",
-      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
+      "duration_ms": 237769,
+      "name": "Jolene",
+      "url": "https://open.spotify.com/track/7xy2SAiuKSfpUeUizXvmX7"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -751,6 +735,22 @@
       "duration_ms": 215662,
       "name": "Dust My Broom",
       "url": "https://open.spotify.com/track/3OGfvgASu7KjQn8whfBALw"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Call Me King",
+        "url": "https://open.spotify.com/album/7s3GreHgKwTs879knH8VWp"
+      },
+      "artists": [
+        {
+          "name": "Son Of Dave",
+          "url": "https://open.spotify.com/artist/5t81Dbcvlm5J7YP7cI2kae"
+        }
+      ],
+      "duration_ms": 174933,
+      "name": "Call Me King",
+      "url": "https://open.spotify.com/track/54lWZZ8Mx6dlHeGoGrga6l"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -787,6 +787,26 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "How Many Miles",
+        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
+      },
+      "artists": [
+        {
+          "name": "Bo Ramsey",
+          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
+        },
+        {
+          "name": "Mark Knopfler",
+          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "Wounded Dog",
+      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Blue River Rising",
         "url": "https://open.spotify.com/album/2oKbRUC7S1CmDvIXIPDG4W"
       },
@@ -815,26 +835,6 @@
       "duration_ms": 289786,
       "name": "Black Horizon",
       "url": "https://open.spotify.com/track/3E6epwRVuuksTZDlvc24VH"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "How Many Miles",
-        "url": "https://open.spotify.com/album/4zILuFyP6jRsSMN5Nv25l0"
-      },
-      "artists": [
-        {
-          "name": "Bo Ramsey",
-          "url": "https://open.spotify.com/artist/38qOf8V7eBUzxgFH9wTFYd"
-        },
-        {
-          "name": "Mark Knopfler",
-          "url": "https://open.spotify.com/artist/0FI0kxP0BWurTz8cB8BBug"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "Wounded Dog",
-      "url": "https://open.spotify.com/track/7fo6yqWRktquOz56JDsnco"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -951,22 +951,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Great God Almighty (Demo, Summer 2018)",
-        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
-      },
-      "artists": [
-        {
-          "name": "Mike Trask",
-          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
-        }
-      ],
-      "duration_ms": 178276,
-      "name": "Great God Almighty - Demo, Summer 2018",
-      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "I\u2019m Leaving (The Circle Session, 2023)",
         "url": "https://open.spotify.com/album/3pKl41Jxd2TLvWFSqsDRM7"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 319011,
       "name": "I'm Leaving - The Circle Session, 2023",
       "url": "https://open.spotify.com/track/21BrIxmHjrYiLrzIDP3kNI"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Great God Almighty (Demo, Summer 2018)",
+        "url": "https://open.spotify.com/album/346VRPWFqkGJ6r67HMvOm4"
+      },
+      "artists": [
+        {
+          "name": "Mike Trask",
+          "url": "https://open.spotify.com/artist/03QTVe1gbMUcw3wF1Vdn4k"
+        }
+      ],
+      "duration_ms": 178276,
+      "name": "Great God Almighty - Demo, Summer 2018",
+      "url": "https://open.spotify.com/track/1LOYHXCCqHpnLuzfXRCjfy"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Devil Got My Woman",
-        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
-      },
-      "artists": [
-        {
-          "name": "Skip James",
-          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Devil Got My Woman",
-      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Neckbone Stew",
         "url": "https://open.spotify.com/album/5WaGSIkfMgfuJ0Yd9FNyKb"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 181040,
       "name": "Cross Creek Road",
       "url": "https://open.spotify.com/track/6sfZbIO4O4BtgE0mJ20zFg"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Devil Got My Woman",
+        "url": "https://open.spotify.com/album/0sgYD9rg6DpI2uWrffTXEr"
+      },
+      "artists": [
+        {
+          "name": "Skip James",
+          "url": "https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Devil Got My Woman",
+      "url": "https://open.spotify.com/track/6DawgaTuMtL9DOq1jCVeVN"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Outdated Emotion",
+        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
+      },
+      "artists": [
+        {
+          "name": "Delbert McClinton",
+          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
+        }
+      ],
+      "duration_ms": 156465,
+      "name": "The Sun is Shining",
+      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Set Sail",
         "url": "https://open.spotify.com/album/12psJfvIqIEwGY6JNuQMzF"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 298293,
       "name": "Outside (featuring Lamar Williams Jr.)",
       "url": "https://open.spotify.com/track/00b6fpaBoDoPhbsVbraJX3"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Outdated Emotion",
-        "url": "https://open.spotify.com/album/2ZmQvtqYsWVFPDrG1ssz7z"
-      },
-      "artists": [
-        {
-          "name": "Delbert McClinton",
-          "url": "https://open.spotify.com/artist/3Ri72CuuQSCLLkDRJgniFU"
-        }
-      ],
-      "duration_ms": 156465,
-      "name": "The Sun is Shining",
-      "url": "https://open.spotify.com/track/0iY3krkgfmdqw6dOVVyuf3"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1375,6 +1375,26 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Lone Star Blues",
+        "url": "https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE"
+      },
+      "artists": [
+        {
+          "name": "Edgar Winter",
+          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
+        },
+        {
+          "name": "Keb' Mo'",
+          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
+        }
+      ],
+      "duration_ms": 237096,
+      "name": "Lone Star Blues",
+      "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Misery Loves Company",
         "url": "https://open.spotify.com/album/1q5Y6DUXVUbAAKCYENUQSc"
       },
@@ -1403,26 +1423,6 @@
       "duration_ms": 291295,
       "name": "T.B. Blues",
       "url": "https://open.spotify.com/track/6pl6vZWf1SOS46qAwOs5a6"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Lone Star Blues",
-        "url": "https://open.spotify.com/album/3MsyeHhJNENyUTAxVDZXrE"
-      },
-      "artists": [
-        {
-          "name": "Edgar Winter",
-          "url": "https://open.spotify.com/artist/3UNrI3SG1l2ezKikxQ2zuk"
-        },
-        {
-          "name": "Keb' Mo'",
-          "url": "https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F"
-        }
-      ],
-      "duration_ms": 237096,
-      "name": "Lone Star Blues",
-      "url": "https://open.spotify.com/track/4hzdQmUZ8MjtdWY5oCprFu"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1479,6 +1479,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "High Flying Bird",
+        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
+      },
+      "artists": [
+        {
+          "name": "Judy Henske",
+          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
+        }
+      ],
+      "duration_ms": 159360,
+      "name": "Blues Chase up a Rabbit",
+      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Dirtiest Little Darling / Railroad Bill",
         "url": "https://open.spotify.com/album/7vAzun3PS8V9f8ylWHIVW5"
       },
@@ -1499,22 +1515,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "High Flying Bird",
-        "url": "https://open.spotify.com/album/1PKo6UvTCdxihIRNH5qLyA"
-      },
-      "artists": [
-        {
-          "name": "Judy Henske",
-          "url": "https://open.spotify.com/artist/3UtfXMhd36NSwHMvWYuE8A"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Blues Chase up a Rabbit",
-      "url": "https://open.spotify.com/track/1sUlYlnaANkXLmv78fRkzA"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Empire State Express",
         "url": "https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh"
       },
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
+        "name": "Judgement Day",
+        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
+      },
+      "artists": [
+        {
+          "name": "Marc Amacher",
+          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
+        }
+      ],
+      "duration_ms": 252253,
+      "name": "Judgement Day",
+      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
         "name": "Next Time You See Me",
         "url": "https://open.spotify.com/album/47tUqkIpGOM1Mpn8dkCzmx"
       },
@@ -1543,6 +1559,22 @@
       "duration_ms": 180066,
       "name": "Fussin' and Fightin' (Blues)",
       "url": "https://open.spotify.com/track/479M29eunSUcosQ608slSc"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "Today!",
+        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
+      },
+      "artists": [
+        {
+          "name": "Mississippi John Hurt",
+          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+        }
+      ],
+      "duration_ms": 248560,
+      "name": "Louis Collins",
+      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1567,50 +1599,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Today!",
-        "url": "https://open.spotify.com/album/2AijI0LujDEUd9smSk87Uw"
+        "name": "Make Myself Me Again",
+        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
       },
       "artists": [
         {
-          "name": "Mississippi John Hurt",
-          "url": "https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA"
+          "name": "Cristina Vane",
+          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
         }
       ],
-      "duration_ms": 248560,
-      "name": "Louis Collins",
-      "url": "https://open.spotify.com/track/5hoYqvKHvdpZXk2WwlpSWq"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Judgement Day",
-        "url": "https://open.spotify.com/album/26Cre4KkKh1zqNjUsWdVmR"
-      },
-      "artists": [
-        {
-          "name": "Marc Amacher",
-          "url": "https://open.spotify.com/artist/1I2PNULXYS3j9Kz2Vvu3T0"
-        }
-      ],
-      "duration_ms": 252253,
-      "name": "Judgement Day",
-      "url": "https://open.spotify.com/track/1upnWLTSKwbTDFYujFU6Tu"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
-        "name": "Roots",
-        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
-      },
-      "artists": [
-        {
-          "name": "Jhett Black",
-          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
-        }
-      ],
-      "duration_ms": 222724,
-      "name": "Smoke In Heaven",
-      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
+      "duration_ms": 169826,
+      "name": "Small Town Nashville Blues",
+      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1631,18 +1631,18 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "Make Myself Me Again",
-        "url": "https://open.spotify.com/album/6MlhXUHL77RMMOhBw1OHre"
+        "name": "Roots",
+        "url": "https://open.spotify.com/album/5UThB2HUZQxIe2mhEV97qd"
       },
       "artists": [
         {
-          "name": "Cristina Vane",
-          "url": "https://open.spotify.com/artist/7lfl96v1nJCpVeAmr6lgJD"
+          "name": "Jhett Black",
+          "url": "https://open.spotify.com/artist/4xz4YAqEHCJQsbrqBy4Iz2"
         }
       ],
-      "duration_ms": 169826,
-      "name": "Small Town Nashville Blues",
-      "url": "https://open.spotify.com/track/40hxZyIGMPdymJB5DWiJei"
+      "duration_ms": 222724,
+      "name": "Smoke In Heaven",
+      "url": "https://open.spotify.com/track/2qYV73ZzVbhgqGyhqP6myQ"
     },
     {
       "added_at": "2023-11-24 19:23:20",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2023-11-24 19:23:20",
       "album": {
-        "name": "When Your Best Friend Turns Their Back On You",
-        "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
-      },
-      "artists": [
-        {
-          "name": "John Littlejohn",
-          "url": "https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn"
-        }
-      ],
-      "duration_ms": 361200,
-      "name": "Drifting",
-      "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
-    },
-    {
-      "added_at": "2023-11-24 19:23:20",
-      "album": {
         "name": "Got to Go Back Home",
         "url": "https://open.spotify.com/album/47a2tTcWRCEOxQVEw12tvR"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 234473,
       "name": "Got to Go Back Home",
       "url": "https://open.spotify.com/track/0Br4WpOz24iobkfvAEVsz6"
+    },
+    {
+      "added_at": "2023-11-24 19:23:20",
+      "album": {
+        "name": "When Your Best Friend Turns Their Back On You",
+        "url": "https://open.spotify.com/album/3Ay1P99wYBVNKeQTF6z6M4"
+      },
+      "artists": [
+        {
+          "name": "John Littlejohn",
+          "url": "https://open.spotify.com/artist/2HzWKvI04SaehwU6bM9GUn"
+        }
+      ],
+      "duration_ms": 361200,
+      "name": "Drifting",
+      "url": "https://open.spotify.com/track/24iHvzbOM56UjDckloaz6o"
     },
     {
       "added_at": "2023-11-24 19:23:20",

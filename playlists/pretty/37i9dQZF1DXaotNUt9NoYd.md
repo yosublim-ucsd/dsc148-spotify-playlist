@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 
 > Its time to travel inwards & feel the bliss!
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,197 likes - 75 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,195 likes - 75 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 10 | [The Tower of Embellion](https://open.spotify.com/track/76RktDCi1rVj63vpt9u5F0) | [Muni Yogi](https://open.spotify.com/artist/5VMpyeQNlYtPipmkNpxRt0) | [Winds of Haryana](https://open.spotify.com/album/1RR1WACNqmE89FmqtAUW07) | 2:56 |
 | 11 | [The Journey](https://open.spotify.com/track/77Fs2NajDBQaOOZkYDsFLE) | [Malik Jeremiassen](https://open.spotify.com/artist/6qIThryE8kmwkl6RfPdhHI) | [The Journey](https://open.spotify.com/album/6O3yzoZ7VeGF9jiWu6nchO) | 2:37 |
 | 12 | [Drifting](https://open.spotify.com/track/07HyW4lru1xdPooGfX3s6x) | [Vibrational Winds](https://open.spotify.com/artist/3S51HXTFUW0h2esKYpsZ5y) | [Drifting](https://open.spotify.com/album/6TDEdmR4SSC7mUXXU8EdbQ) | 3:13 |
-| 13 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
-| 14 | [Indian Flute](https://open.spotify.com/track/1ycfHOXNHyzgC52Gf5Pkvn) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Indian Flute](https://open.spotify.com/album/2ygYSIMkHOlfRb9ysUAIsU) | 4:08 |
+| 13 | [Indian Flute](https://open.spotify.com/track/1ycfHOXNHyzgC52Gf5Pkvn) | [Nu Meditation Music](https://open.spotify.com/artist/66K6bDotWhnNf557BCkfIH) | [Indian Flute](https://open.spotify.com/album/2ygYSIMkHOlfRb9ysUAIsU) | 4:08 |
+| 14 | [Time Travel](https://open.spotify.com/track/1aa3A3F6b5FZFtXAhtrybK) | [Antologie](https://open.spotify.com/artist/6T31mMEmlR4YDtVTQtpPyc) | [Time Travel](https://open.spotify.com/album/52vkIdfOyHog6vAGTru68z) | 3:04 |
 | 15 | [Hanami](https://open.spotify.com/track/0DAX6DFAopKq9PqzIXJi42) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Hanami](https://open.spotify.com/album/5khFi2xy0WnJVwiJ3PW609) | 3:05 |
 | 16 | [Raga Hemavati \(Flute\)](https://open.spotify.com/track/5lSSnYTe9Fm2KsHSnybC4F) | [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Romantic Evening Ragas'](https://open.spotify.com/album/5nYb3oYwbDYkWyb85ShfyM) | 2:52 |
 | 17 | [Reasons For Being](https://open.spotify.com/track/5tY0sWgi6v0UEibwYjfWlL) | [Deep Watch](https://open.spotify.com/artist/1X1f0eZsNTvUUZ48ZGmFtd) | [Reasons For Being](https://open.spotify.com/album/6X9Eg8aDPNEIEYFVdG6zNS) | 2:56 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaotNUt9NoYd.md) - [plain]
 | 66 | [Blue Aurora](https://open.spotify.com/track/32VnVQtjXPZfUSp5kHtMbz) | [The Art of Quiet Living](https://open.spotify.com/artist/0qpdyOYWA6WGS0DgWAhC5y) | [Piano Soundscapes & Nature Sounds for Meditation, Relaxation, Massage & Sleep](https://open.spotify.com/album/4ZxoQmUBik7bA5zSA5Qruf) | 3:19 |
 | 67 | [Ayurveda](https://open.spotify.com/track/0yEUTofCJIxdRIuW6JxE3l) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:01 |
 | 68 | [Samadhi](https://open.spotify.com/track/1WJdUxC0wACrNH5IlqfL2f) | [Advaitas](https://open.spotify.com/artist/0eGpzO3YMOyEZRsrwH3Np8) | [Meditation Spa](https://open.spotify.com/album/6C6ZOAschwGsGWhFYH8Xwe) | 3:52 |
-| 69 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
-| 70 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
+| 69 | [Bageshri](https://open.spotify.com/track/086xtupAgie6cOt9CnCzsy) | [Buddhadev DasGupta](https://open.spotify.com/artist/4CMEJPRpRGpW6qMvIsFgBU) | [The Raga Guide](https://open.spotify.com/album/6LX6cgc3VpmVozT2wz83yy) | 5:58 |
+| 70 | [Deep Awareness](https://open.spotify.com/track/2VdfLOw5SFQ1Py550Y2KJP) | [Yoga Nidra](https://open.spotify.com/artist/76xnzK5NDVM0C5inC2iqNL) | [Yoga Nidra \- Sleep Yoga Relaxation Songs, Sacred Oriental Music for Yoga Classes](https://open.spotify.com/album/34ZdFwqQzgWYqGmZmc7XFF) | 5:14 |
 | 71 | [Dhyāna](https://open.spotify.com/track/4OGE31bP3woVbTTkelXBES) | [Elof Sunflower](https://open.spotify.com/artist/6BncFvDvMh4Z9JZ04ujVpa) | [Mindful Meditation](https://open.spotify.com/album/14NggUSq5mr6Zyo8Wovpw6) | 4:22 |
 | 72 | [Spa Music](https://open.spotify.com/track/0Lh7IIcgWIA11OcfEstcko) | [Ayurveda](https://open.spotify.com/artist/4OlZYsYD7j6OCbRklNPjpv) | [Ayurveda: Lullabies for Relaxation, Sleep, Relax, Yoga and Meditation with Relaxing Piano Music, Nature Sounds and Natural White Noise](https://open.spotify.com/album/1fzHuo2IttTwieEVzq0UrQ) | 3:36 |
 | 73 | [Reiki Bansuri: Recommended Music](https://open.spotify.com/track/0b7JB89DUAE4PLoqqQIHEZ) | [Bansuri Flute Collection](https://open.spotify.com/artist/3gOXobsj4Ad7IuEzxe9qVk) | [Reiki Bansuri: Recommended Music for Reiki Treatments and Meditation, Healing Flutes for Massage and Calm Nature for Harmonious and Balanced Life](https://open.spotify.com/album/1xE7uD9HrzurXb3H8D7BQJ) | 4:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,045 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,088 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 17 | [Lo Que Es](https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:22 |
 | 18 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
 | 19 | [Buen Ejemplo](https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Buen Ejemplo](https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW) | 3:25 |
-| 20 | [Oro](https://open.spotify.com/track/0peDp43dtDzI4I5599gG02) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Oro](https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np) | 2:17 |
-| 21 | [Historia De Los Barrios](https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:38 |
+| 20 | [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 |
+| 21 | [Oro](https://open.spotify.com/track/0peDp43dtDzI4I5599gG02) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Oro](https://open.spotify.com/album/4y7ZS8RuXvWYYaptqoD6Np) | 2:17 |
 | 22 | [Heisenbern](https://open.spotify.com/track/5o85qzTzakjNsy4XjxsP4W) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:07 |
-| 23 | [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 |
+| 23 | [Historia De Los Barrios](https://open.spotify.com/track/30D57KzZN77jlSkMpVGELy) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:38 |
 | 24 | [Lo Que Pudo Ser](https://open.spotify.com/track/3BONaN9ZGSecM2fJX8CVds) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:33 |
 | 25 | [Francotirador](https://open.spotify.com/track/3ED6wBTpybjYfzl9ZHAS67) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 3:11 |
 | 26 | [Casino](https://open.spotify.com/track/2fcLXXBJ43R0vFDU06rL5N) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 3:01 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 44 | [De La Calle \(Remix\)](https://open.spotify.com/track/3ZOZnG7Xt4IupK4buRguwU) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [The Line Up](https://open.spotify.com/album/4fnsl9gH6VlQNZi2tEszDU) | 2:37 |
 | 45 | [Crimes](https://open.spotify.com/track/73FEbxI3YxlVzN1rkkbcxe) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait 2](https://open.spotify.com/album/0emQHEDmTxlPRKFkRcZ0wH) | 3:40 |
 | 46 | [Distinta Movida](https://open.spotify.com/track/42TZH071pHVhIYxhpwTPlr) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 4:01 |
-| 47 | [Mi Escuela Fueron Las Calles](https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Mi Escuela Fueron Las Calles](https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK) | 2:01 |
-| 48 | [En El Laboratorio](https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [En El Laboratorio](https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc) | 3:05 |
+| 47 | [En El Laboratorio](https://open.spotify.com/track/4jHs2TkRNjEDsymVCzDuxQ) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [En El Laboratorio](https://open.spotify.com/album/1c5GRF8iWRduHOwOMqyLUc) | 3:05 |
+| 48 | [Mi Escuela Fueron Las Calles](https://open.spotify.com/track/0FWWehapPaXw1asEDXoDLH) | [JR Torres](https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Mi Escuela Fueron Las Calles](https://open.spotify.com/album/2lp9rfXDp02iJSEv75zbhK) | 2:01 |
 | 49 | [Gelatti](https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:00 |
 | 50 | [Pasajes De La Vida](https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:41 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDBhN2JlOGM2M2QxMjk1NzA3NmIyODVmYjFmNzMxMzFj`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGQ5OGZiMDY3ZDNjNjVlOTQyZGNmY2IzNjkzNzk2YzQx`

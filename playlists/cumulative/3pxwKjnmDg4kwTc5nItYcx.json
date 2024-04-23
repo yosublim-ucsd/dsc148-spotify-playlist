@@ -10947,6 +10947,24 @@
     },
     {
       "album": {
+        "name": "Young In Love",
+        "url": "https://open.spotify.com/album/0QSODGFtWdtOAfy7LzHnTx"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169059,
+      "name": "Same Things",
+      "url": "https://open.spotify.com/track/0lGfXIzwIPBLeP149vMCS9"
+    },
+    {
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI"
       },

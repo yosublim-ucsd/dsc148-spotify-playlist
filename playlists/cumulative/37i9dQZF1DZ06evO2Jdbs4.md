@@ -2,7 +2,7 @@
 
 ### [This Is Bobby Pulido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Jdbs4)
 
-> This Is Bobby Pulido\. Los temas esenciales, todos en una lista.
+> This is Bobby Pulido\. Tutti i brani in un'unica playlist.
 
 82 songs - 4 hr 46 min
 

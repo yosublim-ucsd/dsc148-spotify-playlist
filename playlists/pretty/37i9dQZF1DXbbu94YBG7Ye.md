@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbu94YBG7Ye.md) - [plain]
 
 > Si la rompe está acá\. Foto: Bhavi, Seven Kayne, Milo J, Tiago PZK, KHEA & Neo Pistea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,372,885 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,368,902 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

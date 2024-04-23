@@ -4,7 +4,7 @@
 
 > hop in and take the long way.
 
-335 songs - 21 hr 7 min
+336 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -162,7 +162,7 @@
 | [I\-89](https://open.spotify.com/track/1UeD3GhVTK0BtUhDVxdg9Q) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr), [Sara Watkins](https://open.spotify.com/artist/1FDE7zZ6jmP8HHb9ej3mek), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ), [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [See You Around](https://open.spotify.com/album/6nIGYJuUbUNPlqLseIbFQh) | 3:01 | 2022-03-22 | 2022-04-21 |
 | [In Your Eyes](https://open.spotify.com/track/4RyCx8Z2lBO3w3FzcVq9Ok) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [Giver Taker](https://open.spotify.com/album/19eBS7pEsntVjYu1Sj7g9Z) | 3:07 | 2021-10-08 | 2022-04-21 |
 | [Infinite Scroll](https://open.spotify.com/track/6RtVMEArxqplDJy5dFPiXF) | [Jess Williamson](https://open.spotify.com/artist/784kOgkd1H6jU4KgPMYHi9) | [Sorceress](https://open.spotify.com/album/4PFQNELzkJ1AFwb9GsQc26) | 4:10 | 2022-03-22 | 2022-04-21 |
-| [Isn’t It](https://open.spotify.com/track/7qRK8fPW1Pu3TURMXwJJpb) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:04 | 2021-10-08 |  |
+| [Isn’t It](https://open.spotify.com/track/7qRK8fPW1Pu3TURMXwJJpb) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p), [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Plastic Bouquet](https://open.spotify.com/album/2ih2y265Nk7ipR1RZDRniF) | 2:04 | 2021-10-08 | 2024-04-23 |
 | [It Ain’t Easy](https://open.spotify.com/track/2Gq6IrusLyXNxtLojM62l7) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [What Is There](https://open.spotify.com/album/6uzcCtt4iRnlTG8HGRqXHz) | 3:20 | 2022-03-22 | 2023-07-29 |
 | [It Ain’t Easy](https://open.spotify.com/track/4Opesd5707IEiXCCn70SMW) | [Delta Spirit](https://open.spotify.com/artist/1xVWSPiw5B0OduIC0DSu3V) | [It Ain’t Easy](https://open.spotify.com/album/5qa9yf0Yqs6IvI19khaEKB) | 3:20 | 2021-10-08 | 2022-07-29 |
 | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/track/0E5MOJcS4Fluq18lTvTVkf) | [Shungudzo](https://open.spotify.com/artist/1zC5fndU0aEvINmBra2M3T), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [It’s a good day \(to fight the system\) \(feat\. Joy Oladokun\)](https://open.spotify.com/album/4PLKogyBkZU5ApXNogSDIF) | 3:17 | 2022-01-07 | 2022-07-29 |
@@ -237,6 +237,7 @@
 | [Right Down the Line](https://open.spotify.com/track/7sJ5JL0c0cba0tJBmy3tw7) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu) | [Right Down the Line](https://open.spotify.com/album/0xMvVtSsEL5HMYql9ZiRoI) | 4:27 | 2022-03-22 | 2024-04-19 |
 | [Riptide](https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 3:24 | 2023-07-28 | 2024-04-19 |
 | [Riptide](https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:24 | 2023-12-27 |  |
+| [Road Trippin'](https://open.spotify.com/track/5LiVFwvlEeqMlCei96JkR3) | [Xavier Rudd](https://open.spotify.com/artist/5lbM4g6bhxjNX7R5QHP2nD) | [Road Trippin'](https://open.spotify.com/album/1GwMpo5f1BhiVvnWO9i0ys) | 5:18 | 2023-12-27 |  |
 | [Rococo Zephyr](https://open.spotify.com/track/4pptcDdsgxN4qsjOOzotI6) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Sometimes I Wish We Were An Eagle](https://open.spotify.com/album/4bKHXqEVmt32YU7u51GIHB) | 5:42 | 2022-01-07 | 2022-04-20 |
 | [Rodeo](https://open.spotify.com/track/3wCgdTY19EGEvBVdz2yZ9s) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [8th Wonder](https://open.spotify.com/album/5GA9VdRshqKOSOdAEPYG0b) | 3:46 | 2023-12-27 |  |
 | [Roll The Dice](https://open.spotify.com/track/2q7RE1Csj30DPOXqO4sWqO) | [Sunflower Bean](https://open.spotify.com/artist/1xVcjJ5YsYOClO2Unt3Rm8) | [Roll The Dice](https://open.spotify.com/album/4ujPS7j4S1xyRS4ZQh4VgN) | 3:14 | 2022-03-22 | 2022-04-20 |

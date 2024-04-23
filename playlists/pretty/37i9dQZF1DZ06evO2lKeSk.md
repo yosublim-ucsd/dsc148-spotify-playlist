@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 
 ### [This Is Ana Gabriel](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2lKeSk)
 
-> This Is Ana Gabriel\. Los temas esenciales, todos en una lista.
+> This Is Ana Gabriel\. Sus mejores éxitos, todos en una playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,962 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,976 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 3 | [Evidencias](https://open.spotify.com/track/5YndFYZkywO0F5taLwCEQR) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Silueta](https://open.spotify.com/album/1pmUVsO9cAYP6OmJNho4I0) | 4:16 |
 | 4 | [No Entiendo](https://open.spotify.com/track/3bEjAIA1UHtRLX2gq8cO6B) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 3:43 |
 | 5 | [Simplemente Amigos](https://open.spotify.com/track/5qGx6HUkOxs0NGvPzn9qrz) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Tierra De Nadie](https://open.spotify.com/album/1qgBllFM7eTrDU1NChzk1I) | 3:47 |
-| 6 | [Es Demasiado Tarde](https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 4:10 |
-| 7 | [Y Aquí Estoy](https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:44 |
+| 6 | [Y Aquí Estoy](https://open.spotify.com/track/5PSES4lFkqiLk2ERayuuha) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Sagitario](https://open.spotify.com/album/05tHWQm1uJIo6FxQ9xzygd) | 3:44 |
+| 7 | [Es Demasiado Tarde](https://open.spotify.com/track/7wt6xHEIxuKlqCq2YurOLO) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Amores](https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU) | 4:10 |
 | 8 | [Destino](https://open.spotify.com/track/78KzU9VKRmDrEO6EvZlQRG) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:59 |
 | 9 | [Mi Talismán](https://open.spotify.com/track/6CYf0PlFE36q772z8qrZrT) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Mi Mexico](https://open.spotify.com/album/0AhHiKGTjvrxCmy3eN4dsa) | 4:48 |
 | 10 | [Luna](https://open.spotify.com/track/64qCBHI5L54SUOZQfGFYcg) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Luna](https://open.spotify.com/album/7vAsW66jMph541o9EYE9b0) | 4:29 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2lKeSk.md) - [plain]
 | 46 | [No Me Digas \- En Vivo](https://open.spotify.com/track/5qtEihIGUr0HmIcE4I5aL5) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [No Me Digas \(En Vivo\)](https://open.spotify.com/album/6NMQo0oesPRr3kDik5wdIH) | 4:24 |
 | 47 | [Vámonos](https://open.spotify.com/track/6qxQMPMbwn8l5CuPeTRa7O) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ayer Y Hoy](https://open.spotify.com/album/301WAwIJ2sSfY8I4Jwujqm) | 2:59 |
 | 48 | [Propuesta \- En Vivo \- Remasterizado](https://open.spotify.com/track/0aqUzB00ONkLsVdjESxIsQ) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Lo Esencial De Ana Gabriel](https://open.spotify.com/album/2bdaZKWu05LqbN8OwJtuPZ) | 3:24 |
-| 49 | [La Cárcel del Amor](https://open.spotify.com/track/0Z7ZdI3JNqqVJBYz0xFQoF) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 4:22 |
-| 50 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 |
+| 49 | [Hasta Que Te Conocí \- En Vivo \- Remasterizado](https://open.spotify.com/track/09ecAy3dQdxRUlNm5ogVHp) | [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Ana Gabriel "En Vivo"](https://open.spotify.com/album/7o9mXBmfcf34lmwAmCjLet) | 3:40 |
+| 50 | [La Cárcel del Amor](https://open.spotify.com/track/0Z7ZdI3JNqqVJBYz0xFQoF) | [José Luis Perales](https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP), [Ana Gabriel](https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe) | [Originales \(20 Exitos\)](https://open.spotify.com/album/5VFfSX0PMM5YbDGHf4j9uc) | 4:22 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDE3Yjg0ODFmZWRiZjhkNTMzNTNlMjU2ZGU3N2ZiNTRh`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDAzODc2ZTdiMDE1OTRiOTkyZjAyNWU1MjA4MmViNWNm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best drill, trap and genre bending rap from Australia and NZ\. Cover: Kobie Dee
 
-[Spotify](https://open.spotify.com/user/spotify) - 138,331 likes - 90 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,259 likes - 90 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

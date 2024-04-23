@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 
 > Recuerda la década de los acampanados, patillas y cuellos picudos
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,875 likes - 61 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,712 likes - 61 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeIwHbnsb6O.md) - [plain]
 | 37 | [Smog](https://open.spotify.com/track/6MzXulC37YZkShGJLXYR14) | [Los Dug Dug's](https://open.spotify.com/artist/4NJDvfZdkJBPqecQ83THVT) | [Smog](https://open.spotify.com/album/1QQZWTHIDvquxXLSqCaq9L) | 3:21 |
 | 38 | [Adoro](https://open.spotify.com/track/4irHHlpVq5VCPgqSoJgD89) | [Carlos Lico](https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba) | [Serie 3X4 \(Los Angeles Negros, Altemar Dutra, Carlos Lico\)](https://open.spotify.com/album/1S1zJAXDxGM6HqXMj1aS7F) | 3:04 |
 | 39 | [Ciudad Perdida](https://open.spotify.com/track/3idcbx21Jgm10E3Ji71UQ1) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Puro Rock \(CD1\)](https://open.spotify.com/album/2HXxumPCyqtjOaw7G3bACs) | 4:34 |
-| 40 | [Ella Fue](https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Si Tú Te Acuerdas de Mi](https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG) | 4:24 |
-| 41 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
+| 40 | [Hasta Que Vuelvas](https://open.spotify.com/track/0f8AMcclUWij6oCjYiyLQg) | [Gualberto Castro](https://open.spotify.com/artist/31YYMJNqlsj6dAlZLjShbC) | [25 Exitos](https://open.spotify.com/album/5JMgIEiwX8WsKZf9CYz4We) | 3:57 |
+| 41 | [Ella Fue](https://open.spotify.com/track/5tTZCXy4lOapYDw7kMPRaX) | [Javier Bátiz](https://open.spotify.com/artist/6ilGdhbF4bK00hzVs5fHt1) | [Si Tú Te Acuerdas de Mi](https://open.spotify.com/album/0Lg4pYC31TmqCggVLFk5ZG) | 4:24 |
 | 42 | [Divina Ilusión](https://open.spotify.com/track/6xFJpltR4UBDXGNE8oTpfj) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Tan Cerca ..\. Tan Lejos](https://open.spotify.com/album/38WQ5FzWFuIz4c58VLklAj) | 4:08 |
 | 43 | [Corazon de roca](https://open.spotify.com/track/7gZsYjASjfykZdB8ncVJvI) | [La Rondalla De Saltillo](https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P) | [Las Mejores Rondallas de Mexico](https://open.spotify.com/album/1YvJGXqCVBgAc5d3M6316Q) | 2:56 |
 | 44 | [Voy a Rifar Mi Corazón](https://open.spotify.com/track/5kzDgkyl2iAo4qEitoqU5n) | [Imelda Miller](https://open.spotify.com/artist/2oVaeCKi0RspvgUjWxil4J) | [Que Alegre Va María](https://open.spotify.com/album/1ttlxUfJimVo4kiyXCrxa9) | 2:43 |

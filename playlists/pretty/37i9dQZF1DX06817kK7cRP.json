@@ -1,6 +1,6 @@
 {
   "description": "Soft Jazz beats in the background while you're studying or relaxing.",
-  "num_followers": 174313,
+  "num_followers": 174352,
   "original_name": "Smooth Jazz Beats",
   "owner": {
     "name": "Spotify",
@@ -631,6 +631,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
+        "name": "Smooth Sunday Barbeque",
+        "url": "https://open.spotify.com/album/3248TWghWQaI4iwhukipLS"
+      },
+      "artists": [
+        {
+          "name": "Pat Kujala",
+          "url": "https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK"
+        }
+      ],
+      "duration_ms": 197124,
+      "name": "Smooth Sunday Barbeque",
+      "url": "https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
         "name": "MAINS",
         "url": "https://open.spotify.com/album/4ffYTuxsKPUVL5eFJWjVHS"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Smooth Sunday Barbeque",
-        "url": "https://open.spotify.com/album/3248TWghWQaI4iwhukipLS"
+        "name": "Eat More Fruits",
+        "url": "https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu"
       },
       "artists": [
         {
-          "name": "Pat Kujala",
-          "url": "https://open.spotify.com/artist/4myCjaaRFXSNYDhXsOOfUK"
+          "name": "Sweet Spot Lab",
+          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
         }
       ],
-      "duration_ms": 197124,
-      "name": "Smooth Sunday Barbeque",
-      "url": "https://open.spotify.com/track/3SxZEMqUuXMEY97bjjjGQM"
+      "duration_ms": 136153,
+      "name": "Eat More Fruits",
+      "url": "https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -679,22 +695,6 @@
       "duration_ms": 441818,
       "name": "When You're In Love",
       "url": "https://open.spotify.com/track/4FIKrQcAqi5I6PGWb5BNPB"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "Eat More Fruits",
-        "url": "https://open.spotify.com/album/3JENHK40xUTH4VgMbxrZVu"
-      },
-      "artists": [
-        {
-          "name": "Sweet Spot Lab",
-          "url": "https://open.spotify.com/artist/1PbqUXqRFkCIIKvm2048At"
-        }
-      ],
-      "duration_ms": 136153,
-      "name": "Eat More Fruits",
-      "url": "https://open.spotify.com/track/5zWf9Ug3ubWOizrx9iDnTi"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -795,22 +795,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Keep Cruising",
-        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
-      },
-      "artists": [
-        {
-          "name": "Erik von Spreckelsen",
-          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
-        }
-      ],
-      "duration_ms": 236250,
-      "name": "Keep Cruising",
-      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Leafy Greens",
         "url": "https://open.spotify.com/album/5vaCBfz8K866fJH9GUAfZt"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 160750,
       "name": "Leafy Greens",
       "url": "https://open.spotify.com/track/4v2QdeTrznnSrGhPPc5szG"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Keep Cruising",
+        "url": "https://open.spotify.com/album/1tFPg1D0lkIdF5KQyh4fWT"
+      },
+      "artists": [
+        {
+          "name": "Erik von Spreckelsen",
+          "url": "https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA"
+        }
+      ],
+      "duration_ms": 236250,
+      "name": "Keep Cruising",
+      "url": "https://open.spotify.com/track/3XvmzqTtljQMpSGqvxA6IO"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1243,30 +1243,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Fever, Fever",
-        "url": "https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz"
-      },
-      "artists": [
-        {
-          "name": "Melatone",
-          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
-        },
-        {
-          "name": "DESH",
-          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
-        },
-        {
-          "name": "Howden",
-          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
-        }
-      ],
-      "duration_ms": 164939,
-      "name": "Fever, Fever",
-      "url": "https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Nightlife",
         "url": "https://open.spotify.com/album/4IeJl3nyIh15rF6AaaHhFP"
       },
@@ -1291,6 +1267,30 @@
       "duration_ms": 123750,
       "name": "Nightlife",
       "url": "https://open.spotify.com/track/7rFYeoifHq9wYNSL7nQpAj"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Fever, Fever",
+        "url": "https://open.spotify.com/album/6fl21BaGkpjnUQa5x9V2Vz"
+      },
+      "artists": [
+        {
+          "name": "Melatone",
+          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
+        },
+        {
+          "name": "DESH",
+          "url": "https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO"
+        },
+        {
+          "name": "Howden",
+          "url": "https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi"
+        }
+      ],
+      "duration_ms": 164939,
+      "name": "Fever, Fever",
+      "url": "https://open.spotify.com/track/7D9UKc1To1SiOrQGcAMjM3"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1579,6 +1579,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
+        "name": "Battery",
+        "url": "https://open.spotify.com/album/44cfwIRSZvnFCkhDRDpzVk"
+      },
+      "artists": [
+        {
+          "name": "Mbrs Gear",
+          "url": "https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Battery",
+      "url": "https://open.spotify.com/track/2R1q865i7OzATBbZCoX1YI"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
         "name": "Pathways",
         "url": "https://open.spotify.com/album/4hm57vdkhtsFjYqcuUYcH4"
       },
@@ -1603,38 +1619,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "The Jazz Art Of Relax",
-        "url": "https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd"
-      },
-      "artists": [
-        {
-          "name": "Soulstance",
-          "url": "https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur"
-        }
-      ],
-      "duration_ms": 320388,
-      "name": "As We Are",
-      "url": "https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "Battery",
-        "url": "https://open.spotify.com/album/44cfwIRSZvnFCkhDRDpzVk"
-      },
-      "artists": [
-        {
-          "name": "Mbrs Gear",
-          "url": "https://open.spotify.com/artist/6bHl5CMbDUkkVJ0YUKqK30"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Battery",
-      "url": "https://open.spotify.com/track/2R1q865i7OzATBbZCoX1YI"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Golden Age",
         "url": "https://open.spotify.com/album/2jieVYlcnZeg15awQMbJS9"
       },
@@ -1655,6 +1639,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
+        "name": "The Jazz Art Of Relax",
+        "url": "https://open.spotify.com/album/1p3Xt5qBqnycUV55XdcJJd"
+      },
+      "artists": [
+        {
+          "name": "Soulstance",
+          "url": "https://open.spotify.com/artist/5E2lFPYLaaJMppQA2qDkur"
+        }
+      ],
+      "duration_ms": 320388,
+      "name": "As We Are",
+      "url": "https://open.spotify.com/track/2eKzmYenGeK9YBxD9TTGK5"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
         "name": "Driftwood",
         "url": "https://open.spotify.com/album/0A6bH7eWnye4Pe25YdCv6g"
       },
@@ -1667,26 +1667,6 @@
       "duration_ms": 139534,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/6dkFwu9Z7HUuz69P2Nr6yF"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7"
-      },
-      "artists": [
-        {
-          "name": "Glance",
-          "url": "https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M"
-        },
-        {
-          "name": "yujeongcokr",
-          "url": "https://open.spotify.com/artist/3mspVlD1WihY46b7keRPyf"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1719,6 +1699,26 @@
       "duration_ms": 147000,
       "name": "Hidden Paradise",
       "url": "https://open.spotify.com/track/3d3Jq8vwoJOrELUtlUhVjp"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/168btAQtCTUue1WU0bpJz7"
+      },
+      "artists": [
+        {
+          "name": "Glance",
+          "url": "https://open.spotify.com/artist/4zsm9w2iVTLhuOIhnpqz9M"
+        },
+        {
+          "name": "yujeongcokr",
+          "url": "https://open.spotify.com/artist/3mspVlD1WihY46b7keRPyf"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/20rDMAV7nHVWN0ih5vLdLc"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1767,38 +1767,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Glass",
-        "url": "https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ"
-      },
-      "artists": [
-        {
-          "name": "Oli Howe",
-          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "Glass",
-      "url": "https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "THIQ",
-        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
-      },
-      "artists": [
-        {
-          "name": "Bloomsbury Boys",
-          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
-        }
-      ],
-      "duration_ms": 143283,
-      "name": "THIQ",
-      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "When Every Leaf Is A Flower",
         "url": "https://open.spotify.com/album/4kLccp6jRkfsZh9Wrky3MQ"
       },
@@ -1819,6 +1787,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
+        "name": "Glass",
+        "url": "https://open.spotify.com/album/0jiT4sRjdccTgOjxXEJmaZ"
+      },
+      "artists": [
+        {
+          "name": "Oli Howe",
+          "url": "https://open.spotify.com/artist/0Ky1tgoT4tGP4yFEYOBfof"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "Glass",
+      "url": "https://open.spotify.com/track/6YmAN8wW3S1GFa3FQ7hYc5"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
         "name": "Kruisin'",
         "url": "https://open.spotify.com/album/5jRxlX5baGFYSlK4XJ9K2a"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 171315,
       "name": "Kruisin'",
       "url": "https://open.spotify.com/track/6ghuMTXlPGarm2SaPxrxcY"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "THIQ",
+        "url": "https://open.spotify.com/album/58DFMetPJSIf1H2uhefB6u"
+      },
+      "artists": [
+        {
+          "name": "Bloomsbury Boys",
+          "url": "https://open.spotify.com/artist/7cwVlsMga7sXR644hJbA3c"
+        }
+      ],
+      "duration_ms": 143283,
+      "name": "THIQ",
+      "url": "https://open.spotify.com/track/0nVkXSPPznif7IifqC2T8H"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1879,18 +1879,22 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Gemstone",
-        "url": "https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ"
+        "name": "overtake on the outside",
+        "url": "https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW"
       },
       "artists": [
         {
-          "name": "Keeth",
-          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
+          "name": "trak-side",
+          "url": "https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh"
+        },
+        {
+          "name": "chill.farm",
+          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
         }
       ],
-      "duration_ms": 187647,
-      "name": "Gemstone",
-      "url": "https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955"
+      "duration_ms": 151624,
+      "name": "overtake on the outside",
+      "url": "https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1915,22 +1919,34 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "overtake on the outside",
-        "url": "https://open.spotify.com/album/2cKPB2qD6K88rC6o3G7xaW"
+        "name": "Gemstone",
+        "url": "https://open.spotify.com/album/00k8alj8IzblCKTeCDvUNQ"
       },
       "artists": [
         {
-          "name": "trak-side",
-          "url": "https://open.spotify.com/artist/3tcFm0EMOPYGhKOa9z47Uh"
-        },
-        {
-          "name": "chill.farm",
-          "url": "https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF"
+          "name": "Keeth",
+          "url": "https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u"
         }
       ],
-      "duration_ms": 151624,
-      "name": "overtake on the outside",
-      "url": "https://open.spotify.com/track/13wgIAjCCWKkebdUlPnS70"
+      "duration_ms": 187647,
+      "name": "Gemstone",
+      "url": "https://open.spotify.com/track/2peUYTOZ5tOHSl6opQ8955"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Delta",
+        "url": "https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv"
+      },
+      "artists": [
+        {
+          "name": "Stan Forebee",
+          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
+        }
+      ],
+      "duration_ms": 128248,
+      "name": "Delta",
+      "url": "https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -1951,22 +1967,6 @@
       "duration_ms": 180000,
       "name": "Harvest Time",
       "url": "https://open.spotify.com/track/3ykIHaFm72d2vQJx5PW89z"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "Delta",
-        "url": "https://open.spotify.com/album/6SOsPztuO7oRa0NI5hSMJv"
-      },
-      "artists": [
-        {
-          "name": "Stan Forebee",
-          "url": "https://open.spotify.com/artist/2cg9jlWp1QRc0Sk6kTp9Ez"
-        }
-      ],
-      "duration_ms": 128248,
-      "name": "Delta",
-      "url": "https://open.spotify.com/track/5DdzyKfJMCGTk4RTbpSaXL"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -2047,6 +2047,26 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
+        "name": "Daybreak",
+        "url": "https://open.spotify.com/album/4JBCzFSYDYV4tP0Ty07jOj"
+      },
+      "artists": [
+        {
+          "name": "SYNC.EXE",
+          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
+        },
+        {
+          "name": "Nosmoh",
+          "url": "https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa"
+        }
+      ],
+      "duration_ms": 161012,
+      "name": "Peach Rings",
+      "url": "https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
         "name": "Class",
         "url": "https://open.spotify.com/album/7wORQYmtzCmi9afnh4TwYo"
       },
@@ -2067,26 +2087,6 @@
       "duration_ms": 173682,
       "name": "Class",
       "url": "https://open.spotify.com/track/3jfb2El9s0DKukAvOpON9a"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
-        "name": "Daybreak",
-        "url": "https://open.spotify.com/album/4JBCzFSYDYV4tP0Ty07jOj"
-      },
-      "artists": [
-        {
-          "name": "SYNC.EXE",
-          "url": "https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx"
-        },
-        {
-          "name": "Nosmoh",
-          "url": "https://open.spotify.com/artist/7MZx3uoMDM7wE8An0kdHwa"
-        }
-      ],
-      "duration_ms": 161012,
-      "name": "Peach Rings",
-      "url": "https://open.spotify.com/track/3nt0tWlN3r4JPCqWBulqYS"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -2195,30 +2195,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Jonde",
-        "url": "https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k"
-      },
-      "artists": [
-        {
-          "name": "Melatone",
-          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
-        },
-        {
-          "name": "Louk",
-          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
-        },
-        {
-          "name": "No\u00e9 Mina",
-          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
-        }
-      ],
-      "duration_ms": 167608,
-      "name": "Jonde",
-      "url": "https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Nest Egg",
         "url": "https://open.spotify.com/album/1wLRWjcc8P3erTiNjeJWSJ"
       },
@@ -2239,6 +2215,30 @@
       "duration_ms": 145576,
       "name": "Nest Egg",
       "url": "https://open.spotify.com/track/7kPQE1Ras4XcoFAhqkMuLG"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Jonde",
+        "url": "https://open.spotify.com/album/2PAu7Dzy32vksH99LQho5k"
+      },
+      "artists": [
+        {
+          "name": "Melatone",
+          "url": "https://open.spotify.com/artist/18xuTjIXDD1Wi4wGgPmapr"
+        },
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        },
+        {
+          "name": "No\u00e9 Mina",
+          "url": "https://open.spotify.com/artist/6bhgnwSJ85LTzAeWRFXrzF"
+        }
+      ],
+      "duration_ms": 167608,
+      "name": "Jonde",
+      "url": "https://open.spotify.com/track/0hvhmLGNOEy6qlNodaGTWX"
     },
     {
       "added_at": "2024-03-25 08:59:57",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2024-03-25 08:59:57",
       "album": {
-        "name": "Morning Waffles",
-        "url": "https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7"
-      },
-      "artists": [
-        {
-          "name": "Twiggy Fiz",
-          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
-        }
-      ],
-      "duration_ms": 144744,
-      "name": "Morning Waffles",
-      "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
-    },
-    {
-      "added_at": "2024-03-25 08:59:57",
-      "album": {
         "name": "Together",
         "url": "https://open.spotify.com/album/7mlqv5ptQizQ5P8nWQthQr"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 260487,
       "name": "Amethyst",
       "url": "https://open.spotify.com/track/6XbL87j8HuMLzHfQeyumXK"
+    },
+    {
+      "added_at": "2024-03-25 08:59:57",
+      "album": {
+        "name": "Morning Waffles",
+        "url": "https://open.spotify.com/album/0GKyzzLrKS6f61Z6jYCvB7"
+      },
+      "artists": [
+        {
+          "name": "Twiggy Fiz",
+          "url": "https://open.spotify.com/artist/5nSlNHeiPo3oBXSOXJfuh8"
+        }
+      ],
+      "duration_ms": 144744,
+      "name": "Morning Waffles",
+      "url": "https://open.spotify.com/track/1XhDC4CcSNpeBKuxER02gt"
     },
     {
       "added_at": "2024-03-25 08:59:57",

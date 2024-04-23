@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Budjerah
 
-767 songs - 1 day 17 hr 15 min
+768 songs - 1 day 17 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -585,6 +585,7 @@
 | [Sad Song](https://open.spotify.com/track/0fjdTZFuBkKxpm9tQ8q8qD) | [EBEN](https://open.spotify.com/artist/0mZsmXegjYM7hNw0QGE5b7) | [Sad Song](https://open.spotify.com/album/3Drj0EVrIr6D4OSiuGbB20) | 2:55 | 2020-04-24 | 2021-05-12 |
 | [Safe Place](https://open.spotify.com/track/473mm8ZCEemFD8p2RnP9nz) | [PARADISE RISING](https://open.spotify.com/artist/0bGLIWZrNjcM3mIwPqxBNo), [Kiana V](https://open.spotify.com/artist/1DZGAZcaTA32eLJELEsjXY) | [semilucent](https://open.spotify.com/album/0pQOeB5lxMJ8OhNZE2Jv9a) | 2:43 | 2020-07-31 | 2021-05-12 |
 | [Said&Done](https://open.spotify.com/track/5lU7ncUEARvpKJ0jGAgaqO) | [Lara Andallo](https://open.spotify.com/artist/2vUHihKugU0Ml0VZVgzivx) | [Said&Done](https://open.spotify.com/album/3bHF1i9CFWmYU8ZsL6HgFB) | 2:40 | 2019-11-08 |  |
+| [Same Things](https://open.spotify.com/track/0lGfXIzwIPBLeP149vMCS9) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Young In Love](https://open.spotify.com/album/0QSODGFtWdtOAfy7LzHnTx) | 2:49 | 2024-04-23 |  |
 | [Sanctuary](https://open.spotify.com/track/3xaugmCyXrVkrDTXbFkMW3) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Sanctuary](https://open.spotify.com/album/1cjgTku8zcYVHRi8QQH1XI) | 3:00 | 2019-08-27\* | 2021-05-12 |
 | [Satellite](https://open.spotify.com/track/3xIP4i2mstqylCME7dek0G) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Satellite](https://open.spotify.com/album/5wmvoawQeyRINdlMJtZJlf) | 4:22 | 2019-08-27\* | 2020-05-19 |
 | [Saving Bugs \- Stripped Back](https://open.spotify.com/track/08PP85WolVTpwZkFU5npni) | [Chase Zera](https://open.spotify.com/artist/6HHwfKLPp4UtvfLEXpmVGl) | [Saving Bugs](https://open.spotify.com/album/3q0GNzzssAcizkBv61aiqR) | 3:16 | 2020-09-29 |  |

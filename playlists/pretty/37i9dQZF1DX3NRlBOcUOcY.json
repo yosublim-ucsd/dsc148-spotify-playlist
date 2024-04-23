@@ -1,6 +1,6 @@
 {
   "description": "Good vibes only! Aqu\u00ed solo hay buena vibra.",
-  "num_followers": 443656,
+  "num_followers": 443228,
   "original_name": "Buenas Vibras",
   "owner": {
     "name": "Spotify",
@@ -231,30 +231,6 @@
     {
       "added_at": "2024-04-12 22:02:47",
       "album": {
-        "name": "VAGABUNDO",
-        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        }
-      ],
-      "duration_ms": 215600,
-      "name": "VAGABUNDO",
-      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
-    },
-    {
-      "added_at": "2024-04-12 22:02:47",
-      "album": {
         "name": "Santa",
         "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
       },
@@ -275,6 +251,30 @@
       "duration_ms": 193038,
       "name": "Santa",
       "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
+    },
+    {
+      "added_at": "2024-04-12 22:02:47",
+      "album": {
+        "name": "VAGABUNDO",
+        "url": "https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 215600,
+      "name": "VAGABUNDO",
+      "url": "https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG"
     },
     {
       "added_at": "2024-04-12 22:02:47",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-04-12 22:02:47",
       "album": {
-        "name": "Energ\u00eda Bacana",
-        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "Energ\u00eda Bacana",
-      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
-    },
-    {
-      "added_at": "2024-04-12 22:02:47",
-      "album": {
         "name": "Hecho En Medell\u00edn",
         "url": "https://open.spotify.com/album/50SdnzlrXUMadt9JYeaJSh"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 233453,
       "name": "Medallo",
       "url": "https://open.spotify.com/track/6lX6l7OuA3qrnIRfdsr0dw"
+    },
+    {
+      "added_at": "2024-04-12 22:02:47",
+      "album": {
+        "name": "Energ\u00eda Bacana",
+        "url": "https://open.spotify.com/album/2brG72G6JbbYbVM0lxuFTq"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "Energ\u00eda Bacana",
+      "url": "https://open.spotify.com/track/72O5JOfMVbbJVYD9DOCWMi"
     },
     {
       "added_at": "2024-04-12 22:02:47",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-04-12 22:02:47",
       "album": {
+        "name": "Feriado",
+        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        }
+      ],
+      "duration_ms": 166399,
+      "name": "Feriado",
+      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
+    },
+    {
+      "added_at": "2024-04-12 22:02:47",
+      "album": {
         "name": "Good Energy (Remix)",
         "url": "https://open.spotify.com/album/1PihY5yy5PX8kW2jGonJW1"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 214906,
       "name": "Good Energy - Remix",
       "url": "https://open.spotify.com/track/37sgLcobfnLtle8H17N0H1"
-    },
-    {
-      "added_at": "2024-04-12 22:02:47",
-      "album": {
-        "name": "Feriado",
-        "url": "https://open.spotify.com/album/4QiIMsHtpCmGdPYYlhiMet"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        }
-      ],
-      "duration_ms": 166399,
-      "name": "Feriado",
-      "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
       "added_at": "2024-04-12 22:02:47",
@@ -2171,6 +2171,26 @@
     {
       "added_at": "2024-04-12 22:02:47",
       "album": {
+        "name": "Planes",
+        "url": "https://open.spotify.com/album/4RwD6nFhLc0TqP0w7P0RdM"
+      },
+      "artists": [
+        {
+          "name": "Alex Hoyer",
+          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
+        },
+        {
+          "name": "Mario Bautista",
+          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
+        }
+      ],
+      "duration_ms": 201428,
+      "name": "Planes",
+      "url": "https://open.spotify.com/track/6r2Ad8YSXzCcUDx4UX0YTI"
+    },
+    {
+      "added_at": "2024-04-12 22:02:47",
+      "album": {
         "name": "La Tarea",
         "url": "https://open.spotify.com/album/31A5oihohOkYIos5lWB0pp"
       },
@@ -2207,26 +2227,6 @@
       "duration_ms": 209655,
       "name": "EN MI PIEL",
       "url": "https://open.spotify.com/track/7xkMZiXypSSqi7EIIYLDHF"
-    },
-    {
-      "added_at": "2024-04-12 22:02:47",
-      "album": {
-        "name": "Planes",
-        "url": "https://open.spotify.com/album/4RwD6nFhLc0TqP0w7P0RdM"
-      },
-      "artists": [
-        {
-          "name": "Alex Hoyer",
-          "url": "https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr"
-        },
-        {
-          "name": "Mario Bautista",
-          "url": "https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn"
-        }
-      ],
-      "duration_ms": 201428,
-      "name": "Planes",
-      "url": "https://open.spotify.com/track/6r2Ad8YSXzCcUDx4UX0YTI"
     }
   ],
   "unique_name": "Buenas Vibras",

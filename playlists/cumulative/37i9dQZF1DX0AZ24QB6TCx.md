@@ -4,7 +4,7 @@
 
 > Relax with deep house and electronica.
 
-317 songs - 1 day 3 hr 24 min
+318 songs - 1 day 3 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Follow the Light \- Monkey Safari Remix](https://open.spotify.com/track/7k5PvrXwrqHywiAv4Tr75I) | [Dapayk solo](https://open.spotify.com/artist/0vz3JBcXuyp4QefXwtD0Lp), [VARS](https://open.spotify.com/artist/7dqsxiqiRG5upZhT4bTBd1), [Monkey Safari](https://open.spotify.com/artist/5zovXI5By2gUhdr7EByjLa) | [Follow the Light](https://open.spotify.com/album/6EHwa2mEEpPHZKrp12IBWN) | 6:07 | 2021-12-23 | 2022-07-28 |
 | [Following](https://open.spotify.com/track/4hW0NmYZa400gMN5l0gUK3) | [Saive](https://open.spotify.com/artist/66sSc9LMhJkUdiEu7LTytJ) | [Following](https://open.spotify.com/album/2t9PHmQnnvfAEy9JlN1vZ9) | 3:39 | 2024-02-23 |  |
 | [Fool's Gold \- ARPS Mix](https://open.spotify.com/track/3sN4ihJMrBfOZAU3PqlLc3) | [Karol XVII & MB Valence](https://open.spotify.com/artist/00LIVantW8SMg38JskHPbj), [Jono McCleery](https://open.spotify.com/artist/23usQJ95w7f95tnN4MJEgy), [ARPS](https://open.spotify.com/artist/1wSPM7Q7HYvFPLFk2Ei3nk) | [Fool's Gold](https://open.spotify.com/album/6o5F69DTHxW2YlzeJwrjl8) | 7:00 | 2022-01-14 | 2022-07-29 |
+| [Forelsket](https://open.spotify.com/track/4GKaQwQjOpx6TBc3M9ubDp) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Milo Häfliger](https://open.spotify.com/artist/6dmIQsOoChrgOZc6hveoHT) | [Forelsket](https://open.spotify.com/album/4jTwsVQan0LMDtyH4Ko0N7) | 5:36 | 2024-02-23 |  |
 | [Forever](https://open.spotify.com/track/7ggbnV69yPxLieDPQKTCdD) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Forever](https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X) | 3:12 | 2022-11-16 | 2023-05-12 |
 | [Forget You](https://open.spotify.com/track/5aFD0QPy4BQqUq39l0o5HD) | [Lemon & Herb](https://open.spotify.com/artist/0YbodxZ8dsnWW002EWS51w), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Aura](https://open.spotify.com/album/60qadrHOmLoafmRjgRw3BS) | 4:48 | 2021-12-23 | 2023-07-15 |
 | [Forrest Glade](https://open.spotify.com/track/77fSqYrYJI2RelDOIUE2e7) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Forrest Glade](https://open.spotify.com/album/7hRyQtQhYkVC0QQV3D5F2r) | 7:17 | 2021-12-23 | 2023-07-15 |
@@ -307,7 +308,7 @@
 | [Verdammt \- Radio Edit](https://open.spotify.com/track/6B8hCZtANfdTrU4y9P9R5i) | [Acud](https://open.spotify.com/artist/6nkfC5ET7sPeZHTZN5X78N) | [Verdammt](https://open.spotify.com/album/3f9JcIzhjRr3h58sJOt2qT) | 3:37 | 2022-11-17 | 2022-11-26 |
 | [Versailles \(Hold\) \- Edit](https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [Versailles \(Hold\)](https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15) | 3:38 | 2021-12-23 | 2022-01-15 |
 | [Wanna Know](https://open.spotify.com/track/4UVh9wuv6yubeC03Uc3GsX) | [Crouwel](https://open.spotify.com/artist/1VeS9qe7asGQH9s5J5fjZE), [Erik Buschmann](https://open.spotify.com/artist/6ayPPyDLx13CCYtvlO9YhD) | [Wanna Know](https://open.spotify.com/album/30FEuwDd7QsFuTIonpcpg0) | 6:16 | 2021-12-23 | 2022-07-28 |
-| [Waves](https://open.spotify.com/track/1hwug6dzxpgjQ6QsA2jvFr) | [Gryr](https://open.spotify.com/artist/3QNDp4bvJ5u3dPEyN3ymsf) | [Heino](https://open.spotify.com/album/3Z0NohL5kRMvuKP5HMD8Ne) | 5:04 | 2023-04-27 |  |
+| [Waves](https://open.spotify.com/track/1hwug6dzxpgjQ6QsA2jvFr) | [Gryr](https://open.spotify.com/artist/3QNDp4bvJ5u3dPEyN3ymsf) | [Heino](https://open.spotify.com/album/3Z0NohL5kRMvuKP5HMD8Ne) | 5:04 | 2023-04-27 | 2024-04-23 |
 | [We Know](https://open.spotify.com/track/1ZELlMbQISLH9XfQkHRbtO) | [Avidus](https://open.spotify.com/artist/6v1l56EZ8Wl7gpZhfihaKQ) | [Erlking](https://open.spotify.com/album/4iyNvCmvwszqIz0XRFW41J) | 4:39 | 2023-01-13 | 2023-02-16 |
 | [We Want to Feel Love](https://open.spotify.com/track/7LWds5WApLqIiLxlshvRaK) | [MARIA Die RUHE](https://open.spotify.com/artist/2h7LIGXwIr6m1tZ27JHgxQ) | [We Want to Feel Love](https://open.spotify.com/album/5B9blW3s4QFiTWxxxUdhn0) | 6:30 | 2021-12-23 | 2022-07-28 |
 | [Wellenlänge](https://open.spotify.com/track/2ZDGyWKqCAEQ25qnzQoQIk) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Wellenlänge](https://open.spotify.com/album/60dyqy6uNTDWloVRwqyWOm) | 3:38 | 2022-01-14 | 2022-07-25 |

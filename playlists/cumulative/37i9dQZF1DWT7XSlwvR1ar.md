@@ -4,7 +4,7 @@
 
 > Stay relaxed with these easy, laid\-back songs.
 
-422 songs - 1 day 1 hr 38 min
+424 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,8 +185,9 @@
 | [I Was Born To Love You](https://open.spotify.com/track/24CcvMOaNniXXcxA8HjUw1) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/02MVHB8DuzSjoU3pXTg8N6) | 4:25 | 2024-03-08 | 2024-04-19 |
 | [I Was Born To Love You](https://open.spotify.com/track/3PG6V5yuFfo4APiovOQoRv) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [I Was Born To Love You](https://open.spotify.com/album/7cwHkTgTHLbCUFB6hRi9QQ) | 4:25 | 2022-04-29 |  |
 | [I'm Yours](https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA) | [Jason Mraz](https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl) | [We Sing\. We Dance\. We Steal Things.](https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5) | 4:02 | 2019-07-29\* | 2019-08-30 |
+| [Ice Cream \(Pay Phone\)](https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [Chronicles of a Diamond](https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH) | 3:52 | 2024-04-22 |  |
 | [If Ever \(with Jack Johnson & Ben Harper\)](https://open.spotify.com/track/5CeXAfGpk9baITQvV0feoG) | [Paula Fuga](https://open.spotify.com/artist/6ja6QKojqolpOJpChYXHTf), [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3), [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [If Ever](https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC) | 3:35 | 2021-06-05 |  |
-| [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 | 2024-03-08 |  |
+| [If Not My Heart](https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG) | [Mega](https://open.spotify.com/artist/45xGatk4AWq9yzqOfolEWg) | [Colour Your World](https://open.spotify.com/album/0gT6YmVfpPg5DzEAWrgMkZ) | 3:13 | 2024-03-08 | 2024-04-23 |
 | [In Bloom](https://open.spotify.com/track/2TNhDjD4wb5XFO2Z7FFWve) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq), [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [In Bloom](https://open.spotify.com/album/1p2mOtXzL6GZV5NMuap85T) | 3:13 | 2024-03-12 |  |
 | [In the Clouds](https://open.spotify.com/track/559r5jzQgpbEMdXst1yOKG) | [O.A.R.](https://open.spotify.com/artist/1Cq0LAHFfvUTBEtMPXUidI) | [In the Clouds](https://open.spotify.com/album/6CuxjOJxfOouED6FsDw1SD) | 3:32 | 2022-07-01 | 2022-07-29 |
 | [In Your Hands \- Single Version](https://open.spotify.com/track/7tJHvRoGvkckZkZk5ORUot) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [In Your Hands](https://open.spotify.com/album/0tZj37rUrevqNsoI4N0iEA) | 3:50 | 2019-07-29\* |  |
@@ -385,7 +386,7 @@
 | [True To Myself](https://open.spotify.com/track/5N0lcnJTtKj4wNDvurHige) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Dragonfly](https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ) | 3:45 | 2019-10-25 | 2021-10-16 |
 | [Tryin' My Best, Los Angeles](https://open.spotify.com/track/5fmRajOaD1KjoVRnJkVanc) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [Silver Landings](https://open.spotify.com/album/0XYdiMZgEZ8HxWOJPk6aVx) | 4:01 | 2020-04-16 | 2022-04-21 |
 | [Twenty Something](https://open.spotify.com/track/62DKDpn34ACcv4HarAzF8p) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Twenty Something](https://open.spotify.com/album/0P4bD3SFm6300Za4ABk8fs) | 3:41 | 2020-03-13 | 2022-04-20 |
-| [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 | 2023-09-15 |  |
+| [Twenty\-Four \(Tyler Joseph from Twenty One Pilots Version\)](https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [The Beautiful Letdown \(Our Version\) \[Deluxe Edition\]](https://open.spotify.com/album/5xxmevNUSUFEwao2H1CWlT) | 4:42 | 2023-09-15 | 2024-04-23 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-03-21 | 2022-11-26 |
 | [Until We Get There \- Acoustic](https://open.spotify.com/track/3rBjagU6UnTMXVjxKN3UfU) | [Lucius](https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas) | [NUDES](https://open.spotify.com/album/4CJOeZrzjHBiLXEusekD5y) | 3:50 | 2021-06-19 | 2022-04-14 |
 | [Until You](https://open.spotify.com/track/07J2YnBDALX80kWIdQoK7Q) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/719riSyZnHWIJibYVpTS96) | 3:18 | 2021-06-20 | 2021-08-02 |
@@ -419,6 +420,7 @@
 | [Witness](https://open.spotify.com/track/1zsNRFaPx18PfKaP9tJqu1) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Witness](https://open.spotify.com/album/4rk1gsTnxsImKoJDCCRzRK) | 3:54 | 2020-07-18 | 2022-07-29 |
 | [Witness](https://open.spotify.com/track/56GEhx9XahoD6sxkJwczod) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Rearrange Us](https://open.spotify.com/album/0JEbkW1a2Ws7P8vMflSPc9) | 3:54 | 2022-11-25 | 2024-04-19 |
 | [Worry No More](https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Worry No More](https://open.spotify.com/album/3TS9LGoHqv0vyvIy2Lg6aL) | 3:41 | 2021-08-14 |  |
+| [Wreckage](https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Dark Matter](https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8) | 5:00 | 2024-04-22 |  |
 | [Yellow](https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Parachutes](https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra) | 4:26 | 2019-07-29\* | 2019-10-26 |
 | [You And I](https://open.spotify.com/track/7aohwSiTDju51QmC54AUba) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/26OZ2w8TlwMUmA0GMpQL1U) | 2:28 | 2022-07-18 | 2024-04-19 |
 | [You and I](https://open.spotify.com/track/4oeRfmp9XpKWym6YD1WvBP) | [Ingrid Michaelson](https://open.spotify.com/artist/2vm8GdHyrJh2O2MfbQFYG0) | [Be OK](https://open.spotify.com/album/3KVfMVtOmoVCgihLE4HoBr) | 2:28 | 2019-07-29\* | 2022-04-21 |

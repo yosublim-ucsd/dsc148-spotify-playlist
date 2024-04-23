@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Vacra",
-  "num_followers": 40387,
+  "num_followers": 40373,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -355,18 +355,18 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Me Da Igual",
-        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
+        "name": "5am in Paris",
+        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Saint Levant",
+          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
         }
       ],
-      "duration_ms": 209242,
-      "name": "Me Da Igual",
-      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
+      "duration_ms": 135179,
+      "name": "5am in Paris",
+      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -387,18 +387,18 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "5am in Paris",
-        "url": "https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG"
+        "name": "Me Da Igual",
+        "url": "https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN"
       },
       "artists": [
         {
-          "name": "Saint Levant",
-          "url": "https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT"
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
         }
       ],
-      "duration_ms": 135179,
-      "name": "5am in Paris",
-      "url": "https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR"
+      "duration_ms": 209242,
+      "name": "Me Da Igual",
+      "url": "https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "RSQ3",
+        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
+      },
+      "artists": [
+        {
+          "name": "Naps",
+          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
+        }
+      ],
+      "duration_ms": 138585,
+      "name": "RSQ3",
+      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "J'ai mal",
         "url": "https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6"
       },
@@ -735,22 +751,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "RSQ3",
-        "url": "https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq"
-      },
-      "artists": [
-        {
-          "name": "Naps",
-          "url": "https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx"
-        }
-      ],
-      "duration_ms": 138585,
-      "name": "RSQ3",
-      "url": "https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Dis-toi que c'est la vie",
         "url": "https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ"
       },
@@ -783,6 +783,26 @@
       "duration_ms": 102000,
       "name": "blue (yes, i love you)",
       "url": "https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Fractur\u00e9",
+        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
+      },
+      "artists": [
+        {
+          "name": "Rimkus",
+          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
+        },
+        {
+          "name": "Ninho",
+          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
+        }
+      ],
+      "duration_ms": 238474,
+      "name": "Danger",
+      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -839,26 +859,6 @@
       "duration_ms": 171000,
       "name": "LE FOND (feat. Zokush)",
       "url": "https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Fractur\u00e9",
-        "url": "https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw"
-      },
-      "artists": [
-        {
-          "name": "Rimkus",
-          "url": "https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8"
-        },
-        {
-          "name": "Ninho",
-          "url": "https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH"
-        }
-      ],
-      "duration_ms": 238474,
-      "name": "Danger",
-      "url": "https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh"
     },
     {
       "added_at": "2024-04-19 04:01:00",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 126040,
+  "num_followers": 126053,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -931,6 +931,22 @@
     {
       "added_at": "2023-12-26 03:01:00",
       "album": {
+        "name": "Al\u00f4 Al\u00f4, Como Vai?",
+        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
+      },
+      "artists": [
+        {
+          "name": "Jorge Ben Jor",
+          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Olha a Pipa",
+      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
+    },
+    {
+      "added_at": "2023-12-26 03:01:00",
+      "album": {
         "name": "Rose",
         "url": "https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT"
       },
@@ -947,22 +963,6 @@
       "duration_ms": 186240,
       "name": "Rose",
       "url": "https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0"
-    },
-    {
-      "added_at": "2023-12-26 03:01:00",
-      "album": {
-        "name": "Al\u00f4 Al\u00f4, Como Vai?",
-        "url": "https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi"
-      },
-      "artists": [
-        {
-          "name": "Jorge Ben Jor",
-          "url": "https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Olha a Pipa",
-      "url": "https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5"
     },
     {
       "added_at": "2023-12-26 03:01:00",

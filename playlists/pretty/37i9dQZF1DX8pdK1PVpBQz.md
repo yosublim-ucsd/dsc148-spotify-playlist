@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8pdK1PVpBQz.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover: CLYPSO  Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,746 likes - 95 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,748 likes - 95 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

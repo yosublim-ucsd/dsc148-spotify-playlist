@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-190 songs - 9 hr 28 min
+191 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Capella](https://open.spotify.com/track/4An1Q5SqarQjbKLXCChQ58) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1rDpaLp8PXWQ6DOcA7YpYR) | 2:37 | 2022-07-05 | 2022-07-29 |
 | [Capella](https://open.spotify.com/track/5RPMibWUfF3LzQ6kjb7prZ) | [Aerial Love](https://open.spotify.com/artist/7HOYUr9LEDEhGVcfthgpQK) | [Capella](https://open.spotify.com/album/1eSGsRf3dno1OZPsqwl4SE) | 2:37 | 2022-07-19 | 2024-04-19 |
 | [Catch the Breeze](https://open.spotify.com/track/3xzFMO2rbHK4lrt9e1j8wM) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Catch the Breeze](https://open.spotify.com/album/6jQDIpNMuZx5zTNERIcoqX) | 3:43 | 2023-10-04 | 2023-10-13 |
+| [Catch the Breeze](https://open.spotify.com/track/6NBmxK1yoYz7lRKM3Ecc52) | [The Future Sound of XYZ](https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY) | [Catch the Breeze](https://open.spotify.com/album/5W1mWHI2pGdchMs77OPKM6) | 3:43 | 2024-04-04 |  |
 | [Circle Of Everything](https://open.spotify.com/track/3rydBdAYaK1gslIS8JSm5D) | [Dance Of Centuries](https://open.spotify.com/artist/5y6jYkmnAqeXseHx3earZD) | [Circle Of Everything](https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL) | 2:42 | 2022-08-05 |  |
 | [Clarity Moon](https://open.spotify.com/track/05jY1kWoJC3H8AuVUaL8gi) | [Liam Steed](https://open.spotify.com/artist/2mwLRUvh0iuf9swl6Rn7ki) | [Clarity Moon](https://open.spotify.com/album/5NvCov4I30QGt5kbvZpUKV) | 2:52 | 2022-11-11 |  |
 | [Cleansing Raindrops](https://open.spotify.com/track/1EcOqsCldm9OArlEuiAm6e) | [Divine Retreat](https://open.spotify.com/artist/4FhNQH7TAvTZ00sUnU04cG) | [Calming Water](https://open.spotify.com/album/1VEaqcUXRbwLFUkmmied70) | 3:59 | 2022-07-19 |  |
@@ -174,7 +175,7 @@
 | [Tangerine Dreams](https://open.spotify.com/track/0loHXV5PTemi8u167w9NYi) | [Dreamabout](https://open.spotify.com/artist/5kgTICWVgll5FnOGnsbFl3) | [Tangerine Dreams](https://open.spotify.com/album/5Qr4R4KJuA08m64wcHJ20Z) | 2:50 | 2022-07-05 | 2022-07-29 |
 | [Tensions](https://open.spotify.com/track/75u1CPntzCwYTaenr5nlWA) | [Spheres](https://open.spotify.com/artist/3c3ccZ0IYqJ9cfMdSfVt02) | [Tensions](https://open.spotify.com/album/5NzWFvAmbcYhwOLwsXJ7nh) | 2:36 | 2023-11-24 |  |
 | [The Sleep](https://open.spotify.com/track/7nwY6NWAgKc5ugYWLMZtc4) | [Joseph Beg](https://open.spotify.com/artist/2N40EmjIUVBHidajBVs3Px) | [Dogma of Sleep](https://open.spotify.com/album/7E9G74qdVBpjKwFoJMAv1d) | 6:18 | 2023-10-04 |  |
-| [The State of Mudita](https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/4o8usQMTLQY2MQJzF97XFJ) | 2:35 | 2022-07-19 |  |
+| [The State of Mudita](https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/4o8usQMTLQY2MQJzF97XFJ) | 2:35 | 2022-07-19 | 2024-04-23 |
 | [The State of Mudita](https://open.spotify.com/track/1xPNLw77249xsb6EBWipV2) | [The State Of Mudita](https://open.spotify.com/artist/6CqbtbMl0AAhgkpg7nmquy) | [The State of Mudita](https://open.spotify.com/album/34tKY4ovl06o917Ggv6ztL) | 2:35 | 2022-11-11 | 2023-12-23 |
 | [The Sun Will Rise Again](https://open.spotify.com/track/4MxfZWFxWBBWcdQtYUhWli) | [Remi Asana](https://open.spotify.com/artist/5z5yEQcD8JtwJRYJgCO7yc) | [The Sun Will Rise Again](https://open.spotify.com/album/1T0OyHWTbIbPSqXkLZsqfn) | 2:22 | 2022-07-05 |  |
 | [Tokyo Drifting](https://open.spotify.com/track/0CkGIAXElJ53MPbhlcE5t7) | [M\. David](https://open.spotify.com/artist/6BeIzleeMXksgYgjnYZ8oM) | [Tokyo Drifting](https://open.spotify.com/album/2jdD7Hg1UGMmIwlW9rhQQw) | 3:23 | 2022-07-19 |  |

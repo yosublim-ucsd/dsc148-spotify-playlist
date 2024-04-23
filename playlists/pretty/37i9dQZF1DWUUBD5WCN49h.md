@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 
 > New and emerging R&B, afropop and Alternative tracks\. Cover: Filah Lah Lah
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,730 likes - 80 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,747 likes - 80 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUUBD5WCN49h.md) - [plain]
 | 23 | [Happy](https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY) | [Mellissa](https://open.spotify.com/artist/30OlnKlh10yCfIuAWBmBkW) | [Happy](https://open.spotify.com/album/6h0gTnUQ4Af24CpoCQrYrN) | 3:02 |
 | 24 | [Real Love](https://open.spotify.com/track/1KeFmuq6Z336HLtkCU7XND) | [Tobi Toun](https://open.spotify.com/artist/6hZdbBNTnqujBRgVzROQ22), [Esua](https://open.spotify.com/artist/4d4PXQtoasXLoQHuguk2U2) | [Real Love](https://open.spotify.com/album/4LPI5bAHSMotEOTtfIAFvZ) | 2:32 |
 | 25 | [Ascension](https://open.spotify.com/track/5lAuNmFdgHCFgwAPp1WYnJ) | [Corby](https://open.spotify.com/artist/4uHKRVYCZ4sT0EtrlemkT4) | [Ascension](https://open.spotify.com/album/6tXOMXO3H2JD4ZOqcEw0SB) | 2:18 |
-| 26 | [Only You](https://open.spotify.com/track/4Nbsk8Nc3VCdFUjDrjvCZH) | [Melodi](https://open.spotify.com/artist/0BSCJF8X34d3bVZ6WpZlRE) | [Only You](https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I) | 2:43 |
+| 26 | [Only You](https://open.spotify.com/track/4Nbsk8Nc3VCdFUjDrjvCZH) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Only You](https://open.spotify.com/album/0vxQ7lhCLDy0g2bL21vK8I) | 2:43 |
 | 27 | [slo\-mo](https://open.spotify.com/track/6lA2TkKvMZyfEn105eSB0V) | [MisterKay](https://open.spotify.com/artist/1rd2uaxe75DEeIz8AnlyLN) | [slo\-mo](https://open.spotify.com/album/6nWO6MsoxH8F1UfMs4zutk) | 2:48 |
 | 28 | [Gold and Fire](https://open.spotify.com/track/43jS8cTGqRXojqw2AVoHZp) | [Mide Fash](https://open.spotify.com/artist/2EEcXQmsCmbsjvLineYFKj) | [Gold and Fire](https://open.spotify.com/album/4T36K2nPMTdiZM9BoqkhCO) | 2:20 |
 | 29 | [AVANTE](https://open.spotify.com/track/29RwIvbQYfo2K0wJKfTtlE) | [QUIN2](https://open.spotify.com/artist/38bv049huVFKpzBb0Qk4gW) | [AVANTE](https://open.spotify.com/album/1lHQhdNkqZzgoaIsNhQX8a) | 2:23 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is BK. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 47926,
+  "description": "This is BK. The essential tracks, all in one playlist.",
+  "num_followers": 47990,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDU4M2MzYmNjYWZkOTFkYzgxOGE2ZDRlMzllYzFlYTQ3",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGU3YWQ1MWIxNDU4ZWY5NmEyODFjNmIzMzljNGNiYzI3",
   "tracks": [
     {
       "added_at": null,
@@ -534,15 +534,11 @@
         {
           "name": "JXNV$",
           "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Nansy Silvvz",
-          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         }
       ],
-      "duration_ms": 256161,
-      "name": "Universo",
-      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
+      "duration_ms": 152342,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
     },
     {
       "added_at": null,
@@ -626,11 +622,15 @@
         {
           "name": "JXNV$",
           "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Nansy Silvvz",
+          "url": "https://open.spotify.com/artist/2eKpDydKIHp3fkST2ZDB8s"
         }
       ],
-      "duration_ms": 152342,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/3bdgb8PuKpkA54t4SPN0cG"
+      "duration_ms": 256161,
+      "name": "Universo",
+      "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
     },
     {
       "added_at": null,
@@ -1119,6 +1119,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pir\u00e2mide Perdida (Vol. 7)",
+        "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
+      },
+      "artists": [
+        {
+          "name": "Pir\u00e2mide Perdida",
+          "url": "https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "Sain",
+          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
+        },
+        {
+          "name": "CHS",
+          "url": "https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj"
+        },
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Akira Presidente",
+          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
+        }
+      ],
+      "duration_ms": 281684,
+      "name": "Canto das Baixas",
+      "url": "https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poetas no Topo 1",
         "url": "https://open.spotify.com/album/2TXsGcsDKimJKtcJ01Yy4y"
       },
@@ -1159,42 +1195,6 @@
       "duration_ms": 398478,
       "name": "Poetas no Topo 1",
       "url": "https://open.spotify.com/track/0buQLT5lhSRs7wtunIeK8v"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pir\u00e2mide Perdida (Vol. 7)",
-        "url": "https://open.spotify.com/album/6HEg1KrzxLjvupqYf0jleE"
-      },
-      "artists": [
-        {
-          "name": "Pir\u00e2mide Perdida",
-          "url": "https://open.spotify.com/artist/4lJ000HqAKrfAehIP2XENM"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "Sain",
-          "url": "https://open.spotify.com/artist/26aPjwxSSJsGy6yQ19YL55"
-        },
-        {
-          "name": "CHS",
-          "url": "https://open.spotify.com/artist/3MHIgk9kofA8ZkNcZoQMpj"
-        },
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Akira Presidente",
-          "url": "https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG"
-        }
-      ],
-      "duration_ms": 281684,
-      "name": "Canto das Baixas",
-      "url": "https://open.spotify.com/track/3HCdLS7z9TSs349d3UxV8I"
     },
     {
       "added_at": null,

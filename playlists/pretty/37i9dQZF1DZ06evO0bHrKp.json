@@ -1,12 +1,12 @@
 {
-  "description": "This Is Sum 41. Los temas esenciales, todos en una lista.",
-  "num_followers": 191708,
+  "description": "This is Sum 41\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 191715,
   "original_name": "This Is Sum 41",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDhjOGExOTQ3ZjMyZGU1Nzc2N2RlMWJkYzY0ZjcwZGZh",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDEwOWI3YmRhZDRiZWZkYWNiNWRhZmM3MGYxYzQxMTQ0",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+        "name": "Underclass Hero",
+        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 205933,
-      "name": "Some Say",
-      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
+      "duration_ms": 291360,
+      "name": "With Me",
+      "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Underclass Hero",
-        "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
         }
       ],
-      "duration_ms": 291360,
-      "name": "With Me",
-      "url": "https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He"
+      "duration_ms": 205933,
+      "name": "Some Say",
+      "url": "https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl"
     },
     {
       "added_at": null,
@@ -315,38 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 218946,
-      "name": "We're All To Blame",
-      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 183175,
-      "name": "Bad Mistake",
-      "url": "https://open.spotify.com/track/1BOb5cwjb5TPt2OztMsQaD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -359,38 +327,6 @@
       "duration_ms": 194133,
       "name": "Underclass Hero",
       "url": "https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Screaming Bloody Murder",
-        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "Jessica Kill",
-      "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chuck",
-        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Noots",
-      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
     },
     {
       "added_at": null,
@@ -411,6 +347,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 218946,
+      "name": "We're All To Blame",
+      "url": "https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Screaming Bloody Murder",
+        "url": "https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "Jessica Kill",
+      "url": "https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Underclass Hero",
         "url": "https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG"
       },
@@ -423,6 +391,38 @@
       "duration_ms": 286373,
       "name": "Walking Disaster",
       "url": "https://open.spotify.com/track/7xuhVUJmBpHR276Yc7AsgW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 183175,
+      "name": "Bad Mistake",
+      "url": "https://open.spotify.com/track/1BOb5cwjb5TPt2OztMsQaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Chuck",
+        "url": "https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 231000,
+      "name": "Noots",
+      "url": "https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp"
     },
     {
       "added_at": null,

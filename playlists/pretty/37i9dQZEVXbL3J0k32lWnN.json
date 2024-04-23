@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Denmark.",
-  "num_followers": 208700,
+  "num_followers": 208645,
   "original_name": "Top 50 - Denmark",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY3MDY0MDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY3MTUwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "Bellevue (feat. D1MA)",
         "url": "https://open.spotify.com/album/50IEh2Bx2YFfznWBjCA6Pe"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/6EXV782Zpktyx9NvcwkYN5"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -65,23 +65,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Storeb\u00e6ltsbroen",
-        "url": "https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 179034,
-      "name": "Storeb\u00e6ltsbroen",
-      "url": "https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "Alt Det (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/561WRtqToj8ILZEkDXkfqm"
@@ -105,7 +89,23 @@
       "url": "https://open.spotify.com/track/1knZ2cJRHNUeEidZvhypRm"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Storeb\u00e6ltsbroen",
+        "url": "https://open.spotify.com/album/3Rd1qpiv4brUgL2qJrFL5q"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 179034,
+      "name": "Storeb\u00e6ltsbroen",
+      "url": "https://open.spotify.com/track/7jnKJJB0H7Pl3uyw9ifY7X"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "Unreal Unearth: Unheard",
         "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
@@ -121,7 +121,23 @@
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Knuser Hjerter",
+        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
+      },
+      "artists": [
+        {
+          "name": "Annika",
+          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+        }
+      ],
+      "duration_ms": 207020,
+      "name": "Knuser Hjerter",
+      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "Kiko Club",
         "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
@@ -141,55 +157,23 @@
       "url": "https://open.spotify.com/track/742ldXChILBv6QeqaXoOWi"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
-        "name": "Knuser Hjerter",
-        "url": "https://open.spotify.com/album/00Z4rtj9djfU5graftXlEU"
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
       },
       "artists": [
         {
-          "name": "Annika",
-          "url": "https://open.spotify.com/artist/1GKN1Js8fa19K23eIhOMhg"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 207020,
-      "name": "Knuser Hjerter",
-      "url": "https://open.spotify.com/track/6KliOBbtUUSwHHFjDzYVPe"
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 293048,
-      "name": "The Tortured Poets Department",
-      "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -205,7 +189,39 @@
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293048,
+      "name": "The Tortured Poets Department",
+      "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -221,7 +237,39 @@
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261228,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -237,7 +285,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "F\u00f8rste Dag",
         "url": "https://open.spotify.com/album/4UlublRVVPERXTBrzYjhWo"
@@ -257,91 +305,23 @@
       "url": "https://open.spotify.com/track/2XxRgaOO73AtKS3bPciDSL"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 261228,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Det Modsatte",
-        "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
-      },
-      "artists": [
-        {
-          "name": "Mumle",
-          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
-        }
-      ],
-      "duration_ms": 201863,
-      "name": "Det Modsatte",
-      "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Sent",
-        "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
-      },
-      "artists": [
-        {
-          "name": "Artigeardit",
-          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
-        },
-        {
-          "name": "Lamin",
-          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
-        }
-      ],
-      "duration_ms": 154565,
-      "name": "Sent",
-      "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "Pedro",
         "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
@@ -365,23 +345,23 @@
       "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "name": "Det Modsatte",
+        "url": "https://open.spotify.com/album/7CEuiEBEyYDn9eXAyu1Jb8"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Mumle",
+          "url": "https://open.spotify.com/artist/6xfKNngTw1zxViM96HSTCq"
         }
       ],
-      "duration_ms": 218004,
-      "name": "I Can Do It With a Broken Heart",
-      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
+      "duration_ms": 201863,
+      "name": "Det Modsatte",
+      "url": "https://open.spotify.com/track/6vdsc40TnfCdZsWj7GecQV"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -397,23 +377,55 @@
       "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "OT",
         "url": "https://open.spotify.com/album/6fqud5SMiWILs4EQIJtgjQ"
@@ -429,23 +441,27 @@
       "url": "https://open.spotify.com/track/1erc6T5ojSwOiuNc7i2AFA"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
-        "name": "I KNOW",
-        "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
+        "name": "Sent",
+        "url": "https://open.spotify.com/album/2IchXZECJXUQYmD0o49uwU"
       },
       "artists": [
         {
-          "name": "D1MA",
-          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
         }
       ],
-      "duration_ms": 189473,
-      "name": "I KNOW",
-      "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
+      "duration_ms": 154565,
+      "name": "Sent",
+      "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -465,51 +481,7 @@
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
-        "url": "https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl"
-      },
-      "artists": [
-        {
-          "name": "Kimbo",
-          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
-        },
-        {
-          "name": "KESI",
-          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
-        },
-        {
-          "name": "Noah Carter",
-          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
-        }
-      ],
-      "duration_ms": 149543,
-      "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
-      "url": "https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Danser Med D\u00e6moner",
-        "url": "https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy"
-      },
-      "artists": [
-        {
-          "name": "Baloosh",
-          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
-        },
-        {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
-        }
-      ],
-      "duration_ms": 161433,
-      "name": "Danser Med D\u00e6moner",
-      "url": "https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -525,55 +497,23 @@
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
       },
       "artists": [
         {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
         }
       ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Kiko Club",
-        "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "duration_ms": 183332,
-      "name": "Skarpt Lys",
-      "url": "https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "MELLEM HIMMEL & JORD",
-        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
-      },
-      "artists": [
-        {
-          "name": "Gobs",
-          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
-        }
-      ],
-      "duration_ms": 155511,
-      "name": "Tak For Sidst",
-      "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "B\u00f8rn Af Natten (Hola Bonita)",
         "url": "https://open.spotify.com/album/7jE9aP0aQYJXVHmBOs1vdv"
@@ -597,7 +537,75 @@
       "url": "https://open.spotify.com/track/3ZNTae1ZOrSaURxMZAVFq6"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Danser Med D\u00e6moner",
+        "url": "https://open.spotify.com/album/0ylIK3wZr5wKMixNJxrqNy"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        },
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "duration_ms": 161433,
+      "name": "Danser Med D\u00e6moner",
+      "url": "https://open.spotify.com/track/5BKvRShfSfa1phRGEKkSvb"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "I KNOW",
+        "url": "https://open.spotify.com/album/5DjM5MJoima73xcyXJ1mkG"
+      },
+      "artists": [
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "I KNOW",
+      "url": "https://open.spotify.com/track/3aQzeklWllLWZSH4xk7Udj"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "MELLEM HIMMEL & JORD",
+        "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
+      },
+      "artists": [
+        {
+          "name": "Gobs",
+          "url": "https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82"
+        }
+      ],
+      "duration_ms": 155511,
+      "name": "Tak For Sidst",
+      "url": "https://open.spotify.com/track/1UTeDUAusifkVapsAZxbSc"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "MELLEM HIMMEL & JORD",
         "url": "https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX"
@@ -613,7 +621,143 @@
       "url": "https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
+        "url": "https://open.spotify.com/album/0II9bww0pk1x5lPvocJRbl"
+      },
+      "artists": [
+        {
+          "name": "Kimbo",
+          "url": "https://open.spotify.com/artist/4a88Q5HOh8FSXQ1gPcQu2U"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "duration_ms": 149543,
+      "name": "\u00c5ret Ud (feat. KESI & Noah Carter)",
+      "url": "https://open.spotify.com/track/2aehSqz7mLvJ4Sp7UtpN5m"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "MGP 2024",
+        "url": "https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay"
+      },
+      "artists": [
+        {
+          "name": "Thomas",
+          "url": "https://open.spotify.com/artist/48TDXlvrRdpiXio8IjkP4z"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Jeg Er En Gamer",
+      "url": "https://open.spotify.com/track/6crE5bktd0Kr3ihxQ4ZWpt"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 254365,
+      "name": "Guilty as Sin?",
+      "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Kiko Club",
+        "url": "https://open.spotify.com/album/2ELpKIoLV8YYCFzhAOh8hK"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "duration_ms": 183332,
+      "name": "Skarpt Lys",
+      "url": "https://open.spotify.com/track/2ReomS91v9imlj7ZzzEKqu"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Helt Sikker",
+        "url": "https://open.spotify.com/album/7mh11unLoqJZZHFJR3J5Xg"
+      },
+      "artists": [
+        {
+          "name": "Baloosh",
+          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
+        }
+      ],
+      "duration_ms": 123224,
+      "name": "Helt Sikker",
+      "url": "https://open.spotify.com/track/5jWfU6LMjuFqWUK6gXGixD"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 210789,
+      "name": "Fresh Out The Slammer",
+      "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Dansktop",
+        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
+      },
+      "artists": [
+        {
+          "name": "Ukendt Kunstner",
+          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
+        }
+      ],
+      "duration_ms": 191341,
+      "name": "Uden Dig",
+      "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "Noahs Ark",
         "url": "https://open.spotify.com/album/4oExjnLMuvThxFs2UR80R8"
@@ -637,135 +781,7 @@
       "url": "https://open.spotify.com/track/7JfLdwhVW1Ul6CF5KFeyPe"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Dansktop",
-        "url": "https://open.spotify.com/album/1XV38PhhJEcJ2pzhpKkor5"
-      },
-      "artists": [
-        {
-          "name": "Ukendt Kunstner",
-          "url": "https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67"
-        }
-      ],
-      "duration_ms": 191341,
-      "name": "Uden Dig",
-      "url": "https://open.spotify.com/track/5dNSfOZb6AlEF0Xg6C970o"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "Fresh Out The Slammer",
-      "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Helt Sikker",
-        "url": "https://open.spotify.com/album/7mh11unLoqJZZHFJR3J5Xg"
-      },
-      "artists": [
-        {
-          "name": "Baloosh",
-          "url": "https://open.spotify.com/artist/5IpqfN8Pqjy89nj1IfuOXC"
-        }
-      ],
-      "duration_ms": 123224,
-      "name": "Helt Sikker",
-      "url": "https://open.spotify.com/track/5jWfU6LMjuFqWUK6gXGixD"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 254365,
-      "name": "Guilty as Sin?",
-      "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Halsk\u00e6de",
-        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
-      },
-      "artists": [
-        {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        }
-      ],
-      "duration_ms": 157373,
-      "name": "Halsk\u00e6de",
-      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "MGP 2024",
-        "url": "https://open.spotify.com/album/3Av5h0fGOEkZ71t2McMWay"
-      },
-      "artists": [
-        {
-          "name": "Thomas",
-          "url": "https://open.spotify.com/artist/48TDXlvrRdpiXio8IjkP4z"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Jeg Er En Gamer",
-      "url": "https://open.spotify.com/track/6crE5bktd0Kr3ihxQ4ZWpt"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -781,7 +797,23 @@
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Halsk\u00e6de",
+        "url": "https://open.spotify.com/album/2eJ283FDkj0WAyhwC6mUfq"
+      },
+      "artists": [
+        {
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        }
+      ],
+      "duration_ms": 157373,
+      "name": "Halsk\u00e6de",
+      "url": "https://open.spotify.com/track/4XSe9ssgPFPD5FuWJoDOID"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -805,55 +837,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Tell Ur Girlfriend",
-        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
-      },
-      "artists": [
-        {
-          "name": "Lay Bankz",
-          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
-        }
-      ],
-      "duration_ms": 124444,
-      "name": "Tell Ur Girlfriend",
-      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
-      "album": {
-        "name": "Allerhelst Vil Vi Elskes",
-        "url": "https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP"
-      },
-      "artists": [
-        {
-          "name": "URO",
-          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
-        }
-      ],
-      "duration_ms": 197056,
-      "name": "Godth\u00e5bsvej",
-      "url": "https://open.spotify.com/track/6YO3wxivgRbms3OrqvfnXY"
-    },
-    {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -869,7 +853,23 @@
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
     },
     {
-      "added_at": "2024-04-21 10:52:51",
+      "added_at": "2024-04-22 11:06:48",
+      "album": {
+        "name": "Allerhelst Vil Vi Elskes",
+        "url": "https://open.spotify.com/album/0PvtxoHkUFd9SjApTQUVcP"
+      },
+      "artists": [
+        {
+          "name": "URO",
+          "url": "https://open.spotify.com/artist/5FIdLxucf1EKqZfxeeXZzD"
+        }
+      ],
+      "duration_ms": 197056,
+      "name": "Godth\u00e5bsvej",
+      "url": "https://open.spotify.com/track/6YO3wxivgRbms3OrqvfnXY"
+    },
+    {
+      "added_at": "2024-04-22 11:06:48",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"

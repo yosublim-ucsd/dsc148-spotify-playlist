@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-03",
-  "description": "This Is Raveena. Los temas esenciales, todos en una lista.",
+  "description": "This is Raveena. The essential tracks, all in one playlist.",
   "name": "This Is Raveena",
   "tracks": [
     {
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 202006,
       "name": "Seagirl",
       "url": "https://open.spotify.com/track/0FO4lzbW7ufcYSc1iHune9"
@@ -436,7 +436,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 202006,
       "name": "Seagirl",
       "url": "https://open.spotify.com/track/7ssj7z5AP6V5O6Ooyeni60"

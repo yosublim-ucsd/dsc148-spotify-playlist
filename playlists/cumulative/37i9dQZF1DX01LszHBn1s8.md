@@ -2,9 +2,9 @@
 
 ### [pov \(2\)](https://open.spotify.com/playlist/37i9dQZF1DX01LszHBn1s8)
 
-> when you wake up next to him in the middle of the night!!!!!!!
+> i'm so depressed, i act like it's my birthday every day 🎂
 
-1,465 songs - 3 day 5 hr 21 min
+1,466 songs - 3 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -562,6 +562,7 @@
 | [Hälften så kär](https://open.spotify.com/track/6o5YTfmOjerBGuITHpwu4y) | [Vikingarna](https://open.spotify.com/artist/0kWWPlF3hudGPbahg5Xt9n) | [Kramgoa låtar 9](https://open.spotify.com/album/2CtW35Vco4jlDBHu0N2g5f) | 2:40 | 2022-09-27 | 2022-10-06 |
 | [I Ain't Worried](https://open.spotify.com/track/4h9wh7iOZ0GGn8QVp4RAOB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [I Ain’t Worried \(Music From The Motion Picture "Top Gun: Maverick"\)](https://open.spotify.com/album/04PEOM6kIEeq9lRp1asNP2) | 2:28 | 2022-08-01 |  |
 | [I AM WOMAN](https://open.spotify.com/track/3nOz1U41SZZ0N3fuUWr9nb) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [I AM WOMAN](https://open.spotify.com/album/4zxSM7n57ny7FztFtjSj7n) | 3:52 | 2022-05-19 |  |
+| [I Can Do It With a Broken Heart](https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:38 | 2024-04-22 |  |
 | [I Don't Care](https://open.spotify.com/track/1lY4b6mJkkPJR0dSCYaGAp) | [Katherine Li](https://open.spotify.com/artist/6C7CCNJVIGEla8AI1LuBxI) | [I Don't Care](https://open.spotify.com/album/1j7aFjim8kdthezxLxAuld) | 3:03 | 2022-09-08 | 2022-09-16 |
 | [I GUESS I'M IN LOVE](https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY) | [Clinton Kane](https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P) | [I GUESS I'M IN LOVE](https://open.spotify.com/album/56meo2KJ9tRlaGUHSGfTpP) | 3:24 | 2022-05-19 | 2022-10-07 |
 | [I Hate U](https://open.spotify.com/track/5dXWFMwD7I7zXsInONVl0H) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [I Hate U](https://open.spotify.com/album/1hJUh5y1ggqqGsCivnRmHw) | 2:54 | 2022-05-19 |  |

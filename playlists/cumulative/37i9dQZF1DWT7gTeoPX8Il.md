@@ -4,7 +4,7 @@
 
 > layan je
 
-121 songs - 7 hr 57 min
+122 songs - 8 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [Aku Ada](https://open.spotify.com/track/4ZurJR1BsX2m4f5rEy402F) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Aku Ada](https://open.spotify.com/album/3nEcXrYMBLnXfAumOk6yTa) | 3:06 | 2024-04-05 | 2024-04-19 |
 | [Aku Ada](https://open.spotify.com/track/0r5gRknwxWehOSfrcNQKKp) | [Heidi Moru](https://open.spotify.com/artist/5ejbmmyWwnQys0g72tuems) | [Aku Ada](https://open.spotify.com/album/20Ep8Rjoi0kOLATHGTNl0s) | 3:31 | 2024-02-29 | 2024-03-08 |
 | [Aku Yang Tersakiti](https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:02 | 2024-02-15 |  |
+| [Asal Kau Bahagia](https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV) | [Armada](https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf) | [Maju Terus Pantang Mundur \(Deluxe Version\)](https://open.spotify.com/album/1wCop93d6T0oG496Qman6b) | 4:05 | 2024-04-18 |  |
 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 | 2024-02-15 |  |
 | [Astana](https://open.spotify.com/track/67oBisTedMhW9Ku67XPcXZ) | [Ernie Zakri](https://open.spotify.com/artist/5Plk4JdCzMxhAHSRTEsxJp) | [Astana](https://open.spotify.com/album/38UjF0TgEfXgo5Zl4mnPle) | 3:25 | 2024-01-18 | 2024-01-26 |
 | [Baik Dan Burukmu](https://open.spotify.com/track/5shoTyhcitiZVNJruRLJZp) | [Ungu](https://open.spotify.com/artist/4HHdjvdn30koo54zQ6QeF5) | [Baik Dan Burukmu](https://open.spotify.com/album/3f2gtgXgCYOLmkPEIMGAPl) | 4:24 | 2024-02-29 | 2024-03-08 |
@@ -107,7 +108,7 @@
 | [Si Perkasa](https://open.spotify.com/track/0v3PrKg1XQDz5El2dJMpR0) | [Ashira Zamita](https://open.spotify.com/artist/7u6zt5ZVx1yiUWbCzCyD2l) | [Si Perkasa](https://open.spotify.com/album/2K61NA2gvT0cdjSJYPQKtI) | 3:38 | 2024-01-18 | 2024-01-26 |
 | [Sial](https://open.spotify.com/track/6O0WEM0QNEhqpU50BKui7o) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [fábula](https://open.spotify.com/album/1vva4fJyjXaJ2RDsGmIbCv) | 4:03 | 2024-01-18 | 2024-04-19 |
 | [Sinar Sunyi](https://open.spotify.com/track/7qQ6IU3dGAcwJyQc8RQAfa) | [Hariz Fayahet](https://open.spotify.com/artist/0hRbAnOeXlXQE8GpliXoM3) | [Sinar Sunyi](https://open.spotify.com/album/4LdRznxIxHlkL1GCLQ5hJy) | 3:24 | 2024-02-15 | 2024-02-23 |
-| [Sumpah dan Cinta Matiku](https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA) | 4:45 | 2024-04-18 |  |
+| [Sumpah dan Cinta Matiku](https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc) | [Nidji](https://open.spotify.com/artist/4sEWznAKWWNcicTuLxzb6d) | [King of Soundtrack](https://open.spotify.com/album/4Wujmvou9cOqxARmnq1XjA) | 4:45 | 2024-04-18 | 2024-04-23 |
 | [Surat Hati](https://open.spotify.com/track/7tuwsUy09EoabNtrXrLnX1) | [Devano](https://open.spotify.com/artist/5nWpcynsaMBFgtGmJODhdi) | [Surat Hati](https://open.spotify.com/album/6kTAiISEjLjvBSwJFXrh0V) | 4:54 | 2024-01-18 |  |
 | [Syurga](https://open.spotify.com/track/2vDJ5C6dgCPGqQhcnD1mnB) | [Irfan Haris](https://open.spotify.com/artist/0k30WyXe7aXAIgFKgUVAtP) | [Syurga](https://open.spotify.com/album/1WCl1wgB61ukTkVDHGQVXy) | 4:24 | 2024-02-01 | 2024-02-23 |
 | [Tak Berharap Lagi](https://open.spotify.com/track/1UJn9fyMNelBMvWTWu6FDZ) | [Raisa](https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk) | [Tak Berharap Lagi](https://open.spotify.com/album/4yCbbBKsNxrDLXUs1INARs) | 3:57 | 2024-01-18 | 2024-01-26 |

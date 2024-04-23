@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain](/playlists/plain/37i9dQZF1DWZuIX5Q3yUjF) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWZuIX5Q3yUjF)
 
-### [anima R&B Takeover Fest](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
+### [anima R&B](https://open.spotify.com/playlist/37i9dQZF1DWZuIX5Q3yUjF)
 
-> Una selezione speciale in occasione del <a href="https://dice.fm/event/vx5pd\-rb\-takeover\-fest\-21st\-apr\-monk\-sala\-teatro\-roma\-tickets?lng=en">primo Festival R&B italiano il 21 aprile</a>! Cover: Martina May
+> Il meglio dell'R&B italiano\. Cover: Martina May
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,819 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,859 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 | 49 | [MA COME SI FA](https://open.spotify.com/track/0NWiNpldKNulxKaVSOToBB) | [STE](https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz), [Scraby](https://open.spotify.com/artist/3BgpK7ZHEWz7oX8376ngNL) | [MA COME SI FA](https://open.spotify.com/album/4YwdSpryGk4Ciu2fqc3OdL) | 2:19 |
 | 50 | [Il Mio Inferno](https://open.spotify.com/track/5JttknTrWbCsvcW7L4yR1E) | [Andrea Blanc](https://open.spotify.com/artist/6WGCfH6ATZyAe39uWtPLR4) | [12](https://open.spotify.com/album/0cAvpfv3BFCBRhxWtJum3S) | 2:34 |
 
-Snapshot ID: `MTcxMzY5MTUyNCwwMDAwMDAwMDRlMGRlNTFlZDQ4Y2MzODM5YjQwY2RjMmI1ZTdjOGM4`
+Snapshot ID: `MTcxMzc3MjQ5OSwwMDAwMDAwMGRjOTdjZTJhY2ZmMDljYTUxMDAxMjY4MjEyZDk1OTBk`

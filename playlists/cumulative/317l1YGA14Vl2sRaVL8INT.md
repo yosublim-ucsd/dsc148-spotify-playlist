@@ -4,7 +4,7 @@
 
 > Its pop punk, its the best
 
-242 songs - 13 hr 19 min
+243 songs - 13 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [In This Diary](https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 3:50 | 2023-10-17 | 2023-12-02 |
 | [In Too Deep](https://open.spotify.com/track/1HNE2PX70ztbEl6MLxrpNL) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 3:27 | 2023-10-17 |  |
 | [Island](https://open.spotify.com/track/3KZg1OMDxddaXKgGSJ3xVK) | [The Starting Line](https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ) | [Direction](https://open.spotify.com/album/6c67LdJ8ueXtlIdIa1MabZ) | 3:42 | 2024-01-09 |  |
+| [Jack of the Drought](https://open.spotify.com/track/3tP8884xqAPd7xUEszh8ZL) | [Pushing Veronica](https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40) | [Jack of the Drought](https://open.spotify.com/album/2QqooWaTATVvx12AWzqFMY) | 3:09 | 2024-04-22 |  |
 | [Jamie All Over](https://open.spotify.com/track/05qCCJQJiOwvPQBb7akf1R) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:36 | 2024-01-09 |  |
 | [Jamie All Over](https://open.spotify.com/track/2jxujpjjRkggQbPPNhVseJ) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics \(Anniversary Edition\)](https://open.spotify.com/album/1Ewi8Uxjw5Etf7y8zaww9K) | 3:36 | 2022-11-13 | 2023-12-02 |
 | [Jersey](https://open.spotify.com/track/6gxupt6imt0qIdbE8e356n) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [A Lesson In Romantics](https://open.spotify.com/album/0UtenXp3qVbWedKEaNRAp9) | 3:29 | 2024-01-09 |  |

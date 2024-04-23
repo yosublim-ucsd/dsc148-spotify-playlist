@@ -1,52 +1,28 @@
 {
-  "description": "The finest set of Malayalam music from the past 10 years.\nCover : Manjummel Boys",
-  "num_followers": 97117,
+  "description": "The finest set of Malayalam music from the past 10 years.\nCover : Aadujeevitham",
+  "num_followers": 97221,
   "original_name": "Mollywood Gold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzI2ODIwNSwwMDAwMDAwMDMwZWYwNGVlNmU4MGNmNDk0ZTJiNjU5MzQ0OGNmNmM2",
+  "snapshot_id": "MTcxMzc5MDIzNCwwMDAwMDAwMGM1NmE2YTU0ZDRhYjdmNTU3YmU1ZTMzMmMyZDExNDg5",
   "tracks": [
     {
-      "added_at": "2024-03-21 10:40:58",
+      "added_at": "2024-04-22 12:50:34",
       "album": {
-        "name": "Manjummel Boys (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML"
+        "name": "The Goat Life - Aadujeevitham (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4xh8b46TsysD9SK9QtD29k"
       },
       "artists": [
         {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        },
-        {
-          "name": "Vedan",
-          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+          "name": "Jithin Raj",
+          "url": "https://open.spotify.com/artist/2GkBjSH85M2uKGVtFL5eua"
         }
       ],
-      "duration_ms": 240327,
-      "name": "Kuthanthram",
-      "url": "https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV"
-    },
-    {
-      "added_at": "2023-11-24 10:18:25",
-      "album": {
-        "name": "Puthiyoru Pathayil (From \"Varathan\")",
-        "url": "https://open.spotify.com/album/5t0PWUmZcc7f2XIeUFYGKN"
-      },
-      "artists": [
-        {
-          "name": "Nazriya Nazim",
-          "url": "https://open.spotify.com/artist/1Y8eSlmFO33Bn0D8ZNA9IE"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        }
-      ],
-      "duration_ms": 185958,
-      "name": "Puthiyoru Pathayil - From \"Varathan\"",
-      "url": "https://open.spotify.com/track/0j92tXG29XKV1ongcu3JjR"
+      "duration_ms": 325200,
+      "name": "Periyone",
+      "url": "https://open.spotify.com/track/6eSMc314qnbsO4sYxDGoqb"
     },
     {
       "added_at": "2024-04-16 11:50:05",
@@ -95,6 +71,26 @@
       "duration_ms": 195513,
       "name": "Venmegham - From \"2018\"",
       "url": "https://open.spotify.com/track/1GcMVclJHbwwbGC6zBc2bJ"
+    },
+    {
+      "added_at": "2024-03-21 10:40:58",
+      "album": {
+        "name": "Manjummel Boys (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML"
+      },
+      "artists": [
+        {
+          "name": "Sushin Shyam",
+          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
+        },
+        {
+          "name": "Vedan",
+          "url": "https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf"
+        }
+      ],
+      "duration_ms": 240327,
+      "name": "Kuthanthram",
+      "url": "https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV"
     },
     {
       "added_at": "2023-11-24 10:18:25",
@@ -903,30 +899,6 @@
       "duration_ms": 216555,
       "name": "Neeyilla Neram",
       "url": "https://open.spotify.com/track/150QIbzsnzGQLLcXVbJaXQ"
-    },
-    {
-      "added_at": "2023-11-24 10:18:25",
-      "album": {
-        "name": "Gold (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0vJnqsAwLrwM8D5T3ahym4"
-      },
-      "artists": [
-        {
-          "name": "Rajesh Murugesan",
-          "url": "https://open.spotify.com/artist/0dbzsYBJZ4XZUcrgts3kWf"
-        },
-        {
-          "name": "Vijay Yesudas",
-          "url": "https://open.spotify.com/artist/0aUQnP4HhUQXcurZl9GJIA"
-        },
-        {
-          "name": "Shabareesh Varma",
-          "url": "https://open.spotify.com/artist/7hSF5IJpSsH6PVSrqJfqki"
-        }
-      ],
-      "duration_ms": 236290,
-      "name": "Thanne Thanne",
-      "url": "https://open.spotify.com/track/1lKAkAnamzHph6thZ2kU87"
     },
     {
       "added_at": "2023-11-24 10:18:25",

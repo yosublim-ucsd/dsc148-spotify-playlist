@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3054,
+  "num_followers": 3052,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGI2ODJiYWY2YjNmN2VlNWNiNzhkNzU0Njc0YzYwYjdl",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFiY2VkMjI4MDZmYTkxMjk1YWRmOTBmOWQ4Mjk0MzUz",
   "tracks": [
     {
       "added_at": null,
@@ -235,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Age Of Worry",
+        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 167186,
+      "name": "The Age Of Worry",
+      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Send My Regards",
         "url": "https://open.spotify.com/album/0P0fxg3LcDZuYnMNqSlBmH"
       },
@@ -255,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Age Of Worry",
-        "url": "https://open.spotify.com/album/2sK9FA8u60GpTqusHp8GqN"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 167186,
-      "name": "The Age Of Worry",
-      "url": "https://open.spotify.com/track/7ltM6d3uA0lUBCPfJTyc1N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Broken Harvest",
         "url": "https://open.spotify.com/album/3cw9LHQyTxAjwGbkJDewme"
       },
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revealer",
         "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 306783,
       "name": "All I\u2019ve Ever Known",
       "url": "https://open.spotify.com/track/3asrVoL2yOlr6LSAamJ94L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": null,
@@ -359,6 +359,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 262934,
+      "name": "In From Japan",
+      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "...but i'd rather be with you, too",
         "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 262934,
-      "name": "In From Japan",
-      "url": "https://open.spotify.com/track/3nL4XPPA0k2BCfaAxoUiZw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -407,6 +407,42 @@
       "duration_ms": 194226,
       "name": "Trouble Found Me",
       "url": "https://open.spotify.com/track/5eOvYoXwPk5b3yEIKiphuV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WELL WELL",
+        "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 150444,
+      "name": "Braver (feat. Madison Cunningham)",
+      "url": "https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 197972,
+      "name": "Who Are You Now",
+      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
     },
     {
       "added_at": null,
@@ -447,62 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 197972,
-      "name": "Who Are You Now",
-      "url": "https://open.spotify.com/track/5kxVd8hCvJWaXw8Rp5xtGh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "WELL WELL",
-        "url": "https://open.spotify.com/album/3Nwh1LOn4xwCyxvx9Yxwdc"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 150444,
-      "name": "Braver (feat. Madison Cunningham)",
-      "url": "https://open.spotify.com/track/5v7u7TkiuIhS9iD7zS3B96"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
-        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
-      },
-      "artists": [
-        {
-          "name": "The Porter's Gate",
-          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
-        },
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 307157,
-      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
-      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who Are You Now",
         "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
       },
@@ -535,6 +515,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
+        "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
+      },
+      "artists": [
+        {
+          "name": "The Porter's Gate",
+          "url": "https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW"
+        },
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 307157,
+      "name": "Little Things With Great Love (Live) [feat. Madison Cunningham]",
+      "url": "https://open.spotify.com/track/4mpVCcWKI4uQVJoQWAwTHV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Subtitles",
         "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 245172,
       "name": "Subtitles",
       "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 289461,
-      "name": "Army Of Me - Spotify Single",
-      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 289461,
+      "name": "Army Of Me - Spotify Single",
+      "url": "https://open.spotify.com/track/1tE9hcCoX2CcSSqS78MAZt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
@@ -615,6 +615,22 @@
       "duration_ms": 215200,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Common Language",
+      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
     },
     {
       "added_at": null,
@@ -635,22 +651,6 @@
       "duration_ms": 202895,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/5SEIUFwcfzz23XOsV9Zkq4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Common Language",
-      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 268053,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
+      "duration_ms": 201653,
+      "name": "To Another Land",
+      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/2ilclX1VSOuOhcPBWI4rkK"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 201653,
-      "name": "To Another Land",
-      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
+      "duration_ms": 268053,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/0MeWGR4nVsu9x67kPTxC0R"
     },
     {
       "added_at": null,
@@ -767,8 +767,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Inventing The Wheel",
-        "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 257202,
-      "name": "Inventing The Wheel",
-      "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
     },
     {
       "added_at": null,
@@ -799,8 +799,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+        "name": "Inventing The Wheel",
+        "url": "https://open.spotify.com/album/3T2i1Ia16aqjbchxICe2tw"
       },
       "artists": [
         {
@@ -808,9 +808,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 239120,
-      "name": "I Close My Eyes",
-      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
+      "duration_ms": 257202,
+      "name": "Inventing The Wheel",
+      "url": "https://open.spotify.com/track/5nVBunhfgeCpCl36r12Ac2"
     },
     {
       "added_at": null,
@@ -835,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Are Olympians",
-        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
       },
       "artists": [
-        {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 203173,
-      "name": "The Gotholympians Featuring Madison Cunningham",
-      "url": "https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN"
+      "duration_ms": 270746,
+      "name": "When Love Loves Alone",
+      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
     },
     {
       "added_at": null,
@@ -875,18 +871,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+        "name": "We Are Olympians",
+        "url": "https://open.spotify.com/album/5KV0wZMvRNqxXLYJOgaIqf"
       },
       "artists": [
+        {
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 270746,
-      "name": "When Love Loves Alone",
-      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
+      "duration_ms": 203173,
+      "name": "The Gotholympians Featuring Madison Cunningham",
+      "url": "https://open.spotify.com/track/4qoZQTcijnMaIbFlIs2YaN"
     }
   ],
   "unique_name": "This Is Madison Cunningham",

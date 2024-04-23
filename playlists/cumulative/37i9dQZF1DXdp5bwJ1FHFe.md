@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 | 2024-03-30 |
+| [08pm rain](https://open.spotify.com/track/5avCPLTbfEaFt6KwhNaEsV) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in gothenburg](https://open.spotify.com/album/5YsUXczkuSJUIqYCTCcaOV) | 3:06 | 2022-04-07 |  |
 | [11 p.m rain](https://open.spotify.com/track/0236YDA8KmwrVQV5f4tTzE) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:15 | 2022-04-07 | 2023-06-21 |
 | [11 p.m rain](https://open.spotify.com/track/7umWlKowqWEBaX7XlwHC7I) | [The Sleep Specialist](https://open.spotify.com/artist/3TWBaLqcB1lbb3LhLwAayN) | [11 p.m rain](https://open.spotify.com/album/1lSOE7QiLZ79Egs0OBB1aW) | 2:23 | 2022-04-07 |  |
 | [3am rain](https://open.spotify.com/track/1ylGvrRIddMub56gKjmkoN) | [pluvia](https://open.spotify.com/artist/2L0WmgzvOHv3xAbc3NY3K6) | [rain in oslo](https://open.spotify.com/album/13U4QiRMlsWftosdvI17ho) | 3:28 | 2022-04-07 |  |
@@ -28,7 +28,7 @@
 | [Calming Rain Deluxe](https://open.spotify.com/track/4KhpDFwW3HxjX70PKNTY5d) | [Always Raining](https://open.spotify.com/artist/3LQVNu4j9sFJRAXSD9AWGN) | [Always Raining](https://open.spotify.com/album/2guN86OowlAoUmcZBIpDs9) | 1:26 | 2022-04-07 | 2023-06-21 |
 | [Chill Summer Rain](https://open.spotify.com/track/51yBX5feHREH4CQB3z4Mk0) | [All Rain](https://open.spotify.com/artist/0Whrxu3qzfYHtEnnztpdVQ) | [Chill Summer Rain](https://open.spotify.com/album/4xThZFSz5zpljbvsr7x83f) | 2:17 | 2022-04-07 |  |
 | [Circle of Rain](https://open.spotify.com/track/71XsLqUK4kmYNW8fV5HYVV) | [Wet Forest](https://open.spotify.com/artist/0yYHxGvTufoACTinBREEXT) | [Wilderness](https://open.spotify.com/album/50928u7imP1NfSYTnTgOLh) | 2:35 | 2022-04-07 |  |
-| [City Rain Sound](https://open.spotify.com/track/2RTGkFiczbUaQMZ6LUtBH9) | [Weather FX](https://open.spotify.com/artist/0xH1bgFshduejJalF03geC) | [Weather FX](https://open.spotify.com/album/1okI9QAICqslhH9gudX7qh) | 4:19 | 2022-04-07 |  |
+| [City Rain Sound](https://open.spotify.com/track/2RTGkFiczbUaQMZ6LUtBH9) | [Weather FX](https://open.spotify.com/artist/0xH1bgFshduejJalF03geC) | [Weather FX](https://open.spotify.com/album/1okI9QAICqslhH9gudX7qh) | 4:19 | 2022-04-07 | 2024-04-23 |
 | [Clarity](https://open.spotify.com/track/0MAlsJSQfEgP9VjUtNQL8Q) | [Relaxcation](https://open.spotify.com/artist/1Iww3Y4gDbNvjkqnjUzIZu) | [Drizzle & Shower](https://open.spotify.com/album/4oQiUHa2cBZiio6H7ONJXE) | 2:19 | 2022-04-07 |  |
 | [Consistent Rain](https://open.spotify.com/track/7hleOo6zmfPQVT4GHtLLco) | [Noise and Nature](https://open.spotify.com/artist/2hcGTRaH2FXoKel4UTGWJ0) | [Tranquil Rain Sounds](https://open.spotify.com/album/34eXFqczELpudpgS6M5QTS) | 2:06 | 2022-04-07 |  |
 | [Cool Air & Rain](https://open.spotify.com/track/5mhS5BXqC8InFDFvmvH8WH) | [Why Wynne](https://open.spotify.com/artist/7rBAEboEJSX7TaS9z62lb8) | [Drizzle Down](https://open.spotify.com/album/4IyIBXlsDileK31SIIQCnc) | 2:11 | 2022-04-07 |  |

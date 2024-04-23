@@ -1,6 +1,6 @@
 {
   "description": "Slacker jams. Cover: Bnny",
-  "num_followers": 485568,
+  "num_followers": 485642,
   "original_name": "Lofi Indie",
   "owner": {
     "name": "Spotify",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "LIFE ON EARTH",
-        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 242053,
-      "name": "PIERCED ARROWS",
-      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Maybe the Problem Is Me",
         "url": "https://open.spotify.com/album/0SsPfnh3JLRz8mKRjKD4BB"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 133090,
       "name": "Maybe the Problem Is Me",
       "url": "https://open.spotify.com/track/5gPRsdhEoR53H4eSRBXnzh"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "LIFE ON EARTH",
+        "url": "https://open.spotify.com/album/5oHaiGt9cgATxsrv409jP3"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 242053,
+      "name": "PIERCED ARROWS",
+      "url": "https://open.spotify.com/track/2wEYO3Vg0gv5xK4iAMfHBz"
     },
     {
       "added_at": "2023-12-02 02:07:22",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2023-12-02 02:07:22",
       "album": {
-        "name": "Le feu",
-        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
-      },
-      "artists": [
-        {
-          "name": "Bibi Club",
-          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
-        }
-      ],
-      "duration_ms": 231358,
-      "name": "Le feu",
-      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
-    },
-    {
-      "added_at": "2023-12-02 02:07:22",
-      "album": {
         "name": "Avian",
         "url": "https://open.spotify.com/album/5Jbk5XyOqZL6Eji4vQDDdY"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 208101,
       "name": "Makeup",
       "url": "https://open.spotify.com/track/1vTNp2KQzVM5GkQ7sd2GOp"
+    },
+    {
+      "added_at": "2023-12-02 02:07:22",
+      "album": {
+        "name": "Le feu",
+        "url": "https://open.spotify.com/album/3yrKC3JOwOu5z9RkdByzbA"
+      },
+      "artists": [
+        {
+          "name": "Bibi Club",
+          "url": "https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD"
+        }
+      ],
+      "duration_ms": 231358,
+      "name": "Le feu",
+      "url": "https://open.spotify.com/track/6GaVUNzYZPpeU2qJrlVjtD"
     },
     {
       "added_at": "2023-12-02 02:07:22",

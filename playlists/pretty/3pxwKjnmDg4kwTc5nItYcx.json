@@ -6,8 +6,24 @@
     "name": "Topsify Australia",
     "url": "https://open.spotify.com/user/popmob"
   },
-  "snapshot_id": "MTc2Nyw4N2I1NDEzNDRmYzkyNzQ3ZjNhNGEzYzAxZGJiMmUyZWRkMDA0ZjRl",
+  "snapshot_id": "MTc2OCxkNWIwNDk0NzAxYzZlZTk1NmFhMTVmMTNlYzc5MjZjYjM5NDZiZmI3",
   "tracks": [
+    {
+      "added_at": "2024-04-23 00:45:08",
+      "album": {
+        "name": "Young In Love",
+        "url": "https://open.spotify.com/album/0QSODGFtWdtOAfy7LzHnTx"
+      },
+      "artists": [
+        {
+          "name": "Kita Alexander",
+          "url": "https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec"
+        }
+      ],
+      "duration_ms": 169059,
+      "name": "Same Things",
+      "url": "https://open.spotify.com/track/0lGfXIzwIPBLeP149vMCS9"
+    },
     {
       "added_at": "2024-04-05 05:37:22",
       "album": {

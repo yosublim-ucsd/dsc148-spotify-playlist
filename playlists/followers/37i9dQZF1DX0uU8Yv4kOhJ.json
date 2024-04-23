@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 127377,
+  "2024-04-23": 127329,
   "date_first_scraped": "2022-12-04",
   "description": "Concentrate con el aire de la cordillera de los Andes.",
   "name": "Entre los Andes",
@@ -299,7 +299,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 328887,
       "name": "Chica Cascada (feat. Mariana P\u00e4raway)",
       "url": "https://open.spotify.com/track/7bPZBm7Wr6poE49MRWO30V"
@@ -779,6 +779,28 @@
       "duration_ms": 315493,
       "name": "La Cosecha",
       "url": "https://open.spotify.com/track/1Mp07ugvnIUW3CtR9vN3SO"
+    },
+    {
+      "album": {
+        "name": "La Estrella y la Isla",
+        "url": "https://open.spotify.com/album/7pgzb5XHHpPbhnJxfTZz93"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Correa",
+          "url": "https://open.spotify.com/artist/5HLeoxDDkwdthuonhgIH96"
+        },
+        {
+          "name": "Cavito Mendoza",
+          "url": "https://open.spotify.com/artist/1XqU4hvMAYthv8emuGGSv7"
+        }
+      ],
+      "date_added": "2023-09-29",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241083,
+      "name": "La Estrella y la Isla",
+      "url": "https://open.spotify.com/track/2X267A5MdlFC7duXrbyzAo"
     },
     {
       "album": {

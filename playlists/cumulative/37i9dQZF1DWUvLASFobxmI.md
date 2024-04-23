@@ -4,7 +4,7 @@
 
 > Bravías, románticas y rancheras, las mejores canciones norteñas\. Los Tigres del Norte en portada.
 
-497 songs - 1 day 2 hr 32 min
+498 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Con un Botecito a Pecho](https://open.spotify.com/track/2rv3za9M5o6DtkIVZXgu1r) | [La Alianza Norteña](https://open.spotify.com/artist/6RTbXTYbxbg4hHHwu12xdw) | [Disfruto](https://open.spotify.com/album/3IlO5KgqBRd6DHEOzBcf9l) | 2:56 | 2022-12-02 | 2022-12-10 |
 | [Con Una Mirada](https://open.spotify.com/track/3UbwPNINEgzZ8QfWmEYTHh) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Con Una Mirada](https://open.spotify.com/album/380MMrYgSSedRqiDWtsJjL) | 3:21 | 2023-10-06 | 2024-03-23 |
 | [Conexión](https://open.spotify.com/track/6nVaSyHHv07obQYrVuWQFa) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [Conexión](https://open.spotify.com/album/3LzrPKfe2norm7MRc2vZmD) | 2:26 | 2023-12-08 | 2024-03-23 |
+| [Corazón Frío](https://open.spotify.com/track/02j9DOZREexcJgF6B1hKVc) | [EKA Norteña](https://open.spotify.com/artist/2MQX75uFpikBt6HtJeBJaE) | [Corazón Frío](https://open.spotify.com/album/0vPSRt2hb0XGXiex5vzmeI) | 3:32 | 2024-04-22 |  |
 | [Corazón Mágico](https://open.spotify.com/track/6RRtNiWSCiqMUTkKjTdZOf) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Corazón Mágico](https://open.spotify.com/album/2X8z7fMtWHjzRBYCRj9IAI) | 3:13 | 2022-06-20 | 2023-07-01 |
 | [Corazón Mágico \- En Vivo](https://open.spotify.com/track/0ExktfrQcR6B5o2LmWlNlU) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Secretto](https://open.spotify.com/artist/1p2oJls3t03KjBx99Lj2ZQ) | [Corazón Mágico \(En Vivo\)](https://open.spotify.com/album/3HJjHiydQNt7Ix8g3lUPxx) | 3:39 | 2023-06-16 | 2023-09-12 |
 | [Corrido De Antonia Lopez](https://open.spotify.com/track/7KXgqdYzOVvqENcVtO4vLd) | [Betillo Guerrero](https://open.spotify.com/artist/0OtTjzw8SQkRaGzpTNvu1y) | [Corrido De Antonia Lopez](https://open.spotify.com/album/4kgTo9OnBDOnWqLcnHQl0S) | 3:36 | 2023-01-27 | 2023-02-25 |
@@ -286,7 +287,7 @@
 | [Los Pasajes Del Sera](https://open.spotify.com/track/7fVZVKzWzM7G1Q5jBiMyE5) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [La Receta Del Corrido](https://open.spotify.com/album/4q77TLjYQuxlqun205xmfz) | 2:43 | 2023-06-30 | 2023-10-22 |
 | [M.L.P](https://open.spotify.com/track/0oYk83uZu4S5ROlM8VZMGl) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9), [Jaziel Avilez](https://open.spotify.com/artist/6LC8g4SRSqJ4zm6sQeutFZ) | [M.L.P](https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1) | 3:31 | 2023-03-10 |  |
 | [Malas Decisiones](https://open.spotify.com/track/2VYutJTaiK3oJursGk9z6a) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Malas Decisiones](https://open.spotify.com/album/1SBtatmdkqzCgt16ujwPBZ) | 3:27 | 2023-03-31 |  |
-| [Mas Que Amigos \- En vivo](https://open.spotify.com/track/2i6er0a1fHBsxibw8g3jNX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo Vol\. One](https://open.spotify.com/album/56p8CK0TWqMnwCHN8yqG0N) | 3:07 | 2022-09-02 |  |
+| [Mas Que Amigos \- En vivo](https://open.spotify.com/track/2i6er0a1fHBsxibw8g3jNX) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo Vol\. One](https://open.spotify.com/album/56p8CK0TWqMnwCHN8yqG0N) | 3:07 | 2022-09-02 | 2024-04-23 |
 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2022-09-02 | 2024-04-19 |
 | [Me Cuesta](https://open.spotify.com/track/7Es3jdZdUTMhAlYo0EzBpN) | [Hermanos Espinoza](https://open.spotify.com/artist/1V0BgbhknuuZIMxKO0M9FV) | [Me Cuesta](https://open.spotify.com/album/62C5ubjYWmmEPfryq1uiUa) | 3:01 | 2024-03-22 |  |
 | [Me Di Cuenta](https://open.spotify.com/track/0xfdBhImqnPN4yh2bT1rr0) | [Grupo Clasificado](https://open.spotify.com/artist/5ZGrM7y0Z6yF3s9dBjHWi9) | [Broche De Oro, Vol\. 2](https://open.spotify.com/album/2VNRQcvWyaZY20xKwGEOz0) | 3:02 | 2023-12-08 | 2023-12-10 |

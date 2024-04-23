@@ -4,7 +4,7 @@
 
 > Ultimate 101 Punjabi Hits with Sidhu Moose Wala
 
-332 songs - 17 hr 11 min
+333 songs - 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF) | 3:34 | 2023-07-31 |  |
 | [Afterhours](https://open.spotify.com/track/7o1SDLghDwMc4OW3rKakVt) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M), [thiarajxtt](https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD) | [Afterhours](https://open.spotify.com/album/0gutaa3BZpZvwSL0eVRbP8) | 2:20 | 2023-04-03 |  |
 | [Ain't Died In Vain](https://open.spotify.com/track/5tXDVieP5trNSb9cco2ZRt) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H) | [Ain't Died In Vain](https://open.spotify.com/album/5wb5xwD5MjgcpnnLNEK3V3) | 2:50 | 2022-06-25 | 2022-07-16 |
-| [Akh Da Taara](https://open.spotify.com/track/2t3B5tQlc84jNPfleiZQX9) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Akh Da Taara](https://open.spotify.com/album/1KeTyjyHUxls7pGQv7iaCX) | 2:49 | 2024-04-06 |  |
+| [Akh Da Taara](https://open.spotify.com/track/2t3B5tQlc84jNPfleiZQX9) | [Ayushmann Khurrana](https://open.spotify.com/artist/7qHsapL39aTQsPhixtzVvy) | [Akh Da Taara](https://open.spotify.com/album/1KeTyjyHUxls7pGQv7iaCX) | 2:49 | 2024-04-06 | 2024-04-23 |
 | [Akhiyaan](https://open.spotify.com/track/2l3dFxtoSMgMQVyRIUHjpz) | [Mitraz](https://open.spotify.com/artist/3iGhlvzpXc0UHBQ7klAItX) | [Akhiyaan](https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL) | 3:11 | 2022-08-19 | 2022-12-11 |
 | [All Aces](https://open.spotify.com/track/6LZys87Q37Jr3RKWDFUkRF) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Byg Byrd](https://open.spotify.com/artist/1QO8PBgZ3Cv1xtKyw9ihjT), [Blamo](https://open.spotify.com/artist/217YiebQLxLOSubsItInzR) | [All Aces](https://open.spotify.com/album/58xwAleBBDucWbz7xukMsh) | 3:21 | 2022-05-29 | 2022-12-11 |
 | [All Night \(Live\)](https://open.spotify.com/track/7IK26RNUdgoZWJdlarrcty) | [AP Dhillon](https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB), [Shinda Kahlon](https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh) | [Two Hearts Never Break The Same](https://open.spotify.com/album/0eZKTY3yDMqMTrVvtcEokh) | 3:49 | 2022-10-07 | 2023-04-25 |
@@ -155,6 +155,7 @@
 | [JOURNEY](https://open.spotify.com/track/1SYgmpUc80vRIXbxEzVLBi) | [Amrit Maan](https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [GLOBAL WARNING](https://open.spotify.com/album/2mMcWfQX3I83kRaT4psGLg) | 2:54 | 2024-04-10 |  |
 | [Judge](https://open.spotify.com/track/6Ffl1BBRfr8I2ASR6iiRTe) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr) | [Judge](https://open.spotify.com/album/6T3L3QXrlWDJiL1JJhOHsH) | 3:01 | 2022-05-29 | 2022-08-23 |
 | [Jugni](https://open.spotify.com/track/0gHFDbhx2RFBrhJplPxlcT) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Diamond Platnumz](https://open.spotify.com/artist/3cAisWS37sGCCtRgWfvrod) | [Jugni](https://open.spotify.com/album/2f4OFd2m05NI1WSJnhJi9v) | 3:13 | 2022-10-07 | 2023-03-19 |
+| [Kali Hoodie](https://open.spotify.com/track/0zPu5K0c8Otwntbkru7qt2) | [Bohemia](https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP) | [Rap Star Reloaded](https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt) | 3:01 | 2024-04-22 |  |
 | [Kamlee](https://open.spotify.com/track/3W81Nm3KNOYUPaDHrwMzWz) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Kamlee](https://open.spotify.com/album/7vVDDJV4smCfEEerr0wlRC) | 3:29 | 2024-01-09 | 2024-04-19 |
 | [Kamlee](https://open.spotify.com/track/7xpZ1artTVaHabv93yK77N) | [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6), [Starboy X](https://open.spotify.com/artist/0Fvud1OrUvlMHqxbEGmtnj) | [Kamlee](https://open.spotify.com/album/2yTk24mhG0VYWFY7bj9mLJ) | 3:29 | 2023-11-09 |  |
 | [Khabbi Seat](https://open.spotify.com/track/4aK30RcFKxsiF1gjLlH5Gt) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Sweetaj Brar](https://open.spotify.com/artist/2B4azLEfuhlG2ykxCaQJWk) | [Khabbi Seat](https://open.spotify.com/album/0Q0QRo49mBz9zs7KKdZYrG) | 3:24 | 2022-05-29 | 2022-06-01 |

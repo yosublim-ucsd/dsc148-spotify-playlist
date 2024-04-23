@@ -1,6 +1,6 @@
 {
   "description": "Get the party started with these Naija bangers! ",
-  "num_followers": 51643,
+  "num_followers": 51685,
   "original_name": "Party Dey!",
   "owner": {
     "name": "Spotify",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Aquafina",
-        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 168103,
-      "name": "Aquafina",
-      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Terminator (feat. Young Jonn)",
         "url": "https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE"
       },
@@ -831,6 +815,22 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
+        "name": "Aquafina",
+        "url": "https://open.spotify.com/album/3mMVoC6HJ8mqcq9qd5GmUC"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 168103,
+      "name": "Aquafina",
+      "url": "https://open.spotify.com/track/59sAr7NvZDeH7oYrkiyZcQ"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
         "name": "NAHAMciaga",
         "url": "https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk"
       },
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Only Me",
-        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
-      },
-      "artists": [
-        {
-          "name": "Asake",
-          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
-        }
-      ],
-      "duration_ms": 159310,
-      "name": "Only Me",
-      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Unruly",
         "url": "https://open.spotify.com/album/51mowf1u3WaEYvqalsbP7M"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 155019,
       "name": "Jinja",
       "url": "https://open.spotify.com/track/5dVJTSZhL2n81ZkT4PZu0x"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Only Me",
+        "url": "https://open.spotify.com/album/5DmINnxz0XR8nixREQIjns"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        }
+      ],
+      "duration_ms": 159310,
+      "name": "Only Me",
+      "url": "https://open.spotify.com/track/0GeZh7YiQRqYwHS2IdEskL"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -935,30 +935,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-        "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        },
-        {
-          "name": "Kizz Daniel",
-          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 180530,
-      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
-      "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Ojapiano",
         "url": "https://open.spotify.com/album/1j2D58Awo2MGDL1nAwdF3e"
       },
@@ -987,6 +963,30 @@
       "duration_ms": 218657,
       "name": "Pidgin & English",
       "url": "https://open.spotify.com/track/4jcrO2T6XJ1B7hXsAEJ3ve"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+        "url": "https://open.spotify.com/album/2CcOmbLxQFIsm5aQu7VSuJ"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        },
+        {
+          "name": "Kizz Daniel",
+          "url": "https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 180530,
+      "name": "Big Big Things (feat. Kizz Daniel & Seyi Vibez)",
+      "url": "https://open.spotify.com/track/7MaM9JVq1UXAGZQ4JFNXMg"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Sharpally",
-        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 163361,
-      "name": "Sharpally",
-      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Carry Me Go",
         "url": "https://open.spotify.com/album/7hAXzkLo3J1tLMMO3H74do"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 136464,
       "name": "Carry Me Go",
       "url": "https://open.spotify.com/track/7qxtOyjZ2zSaxBPH8fLyNi"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Sharpally",
+        "url": "https://open.spotify.com/album/7adhYj6nGEGJots1OpYgdg"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 163361,
+      "name": "Sharpally",
+      "url": "https://open.spotify.com/track/19IAoqAkRQ5tC1U0p7SWpZ"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Disconnect + Go Hard",
-        "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 153103,
-      "name": "Go Hard",
-      "url": "https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Anabella",
         "url": "https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 124076,
       "name": "Anabella",
       "url": "https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Disconnect + Go Hard",
+        "url": "https://open.spotify.com/album/56TPH8hCFhV8jJr0vxeSvu"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/2GWkO5XkrxGJJWrKxLLRjA"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1287,6 +1287,26 @@
       "duration_ms": 186000,
       "name": "Obaa Sima",
       "url": "https://open.spotify.com/track/3DmBkPi3DjThsopnHVt2cA"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Run Away (OMALICHA)",
+        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        },
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 176200,
+      "name": "Run Away (OMALICHA)",
+      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1367,26 +1387,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Run Away (OMALICHA)",
-        "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
-      },
-      "artists": [
-        {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
-        },
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 176200,
-      "name": "Run Away (OMALICHA)",
-      "url": "https://open.spotify.com/track/1xet6MZrk4Zr5ebis0EF1Q"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "KATIGORI/PIANO",
         "url": "https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3"
       },
@@ -1399,26 +1399,6 @@
       "duration_ms": 178909,
       "name": "KATIGORI",
       "url": "https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "Outside / Obaa Sima",
-        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
-      },
-      "artists": [
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        },
-        {
-          "name": "Blaqbonez",
-          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
-        }
-      ],
-      "duration_ms": 180512,
-      "name": "Outside (feat. Blaqbonez)",
-      "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1455,6 +1435,50 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
+        "name": "TECHNICIAN",
+        "url": "https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK"
+      },
+      "artists": [
+        {
+          "name": "ODUMODUBLVCK",
+          "url": "https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        },
+        {
+          "name": "Lekaa Beats",
+          "url": "https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY"
+        }
+      ],
+      "duration_ms": 156428,
+      "name": "TECHNICIAN (feat. Blaqbonez & Lekaa Beats)",
+      "url": "https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Outside / Obaa Sima",
+        "url": "https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "Blaqbonez",
+          "url": "https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W"
+        }
+      ],
+      "duration_ms": 180512,
+      "name": "Outside (feat. Blaqbonez)",
+      "url": "https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
         "name": "RAVAGE",
         "url": "https://open.spotify.com/album/4FNo7grg0Z6cbOwgzNwyD9"
       },
@@ -1483,22 +1507,6 @@
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "Puff & Pass",
-        "url": "https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F"
-      },
-      "artists": [
-        {
-          "name": "Zerrydl",
-          "url": "https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd"
-        }
-      ],
-      "duration_ms": 161462,
-      "name": "Puff & Pass",
-      "url": "https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U"
     }
   ],
   "unique_name": "Party Dey!",

@@ -4,7 +4,7 @@
 
 > The perfect mix of Punk, Rock, Alt & Indie\. Cover: Gustaf
 
-666 songs - 1 day 12 hr 47 min
+668 songs - 1 day 12 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [A Real Thing](https://open.spotify.com/track/5cHFMi5m8FTcYOjzgzmXt1) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [A Real Thing](https://open.spotify.com/album/53IuAG6Mqh2iMjI3b1ithn) | 3:35 | 2022-02-11 | 2022-08-17 |
 | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/track/4BwPKXsMkinmd1okNTryUc) | [JOHN \(TIMESTWO\)](https://open.spotify.com/artist/1zeT022vOyMGqBCTSs9qiI) | [A Song for Those Who Speed in Built\-up Areas](https://open.spotify.com/album/4qq5LjTdwWXVdMAjubHwnK) | 2:56 | 2021-10-07 | 2022-02-22 |
 | [Across That Fine Line](https://open.spotify.com/track/0naG5PyrfwJQ0xtuQ1BGCM) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz) | [A Way Forward](https://open.spotify.com/album/2hPnsq6HZHcgkFlLclKrvv) | 5:25 | 2022-01-31 | 2022-10-08 |
+| [Adrenaline](https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf) | [We Hate You Please Die](https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l) | [Adrenaline](https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b) | 4:04 | 2024-04-22 |  |
 | [AHHHH!](https://open.spotify.com/track/6Pfma5baS7P2EIjn3Htj9q) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [AHHHH!](https://open.spotify.com/album/3c58AoCgrcGD0kF2PAxo1F) | 2:24 | 2022-01-07 | 2022-06-11 |
 | [Ain't Nice](https://open.spotify.com/track/1ByVGqBt33n0iT5wgbwVzN) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/6Kni5BJN0cqBMXqANtHGG8) | 3:32 | 2022-01-07 | 2022-10-14 |
 | [Ain't Nice](https://open.spotify.com/track/3hxUQ6HX7p4dY8qQVInVoY) | [Viagra Boys](https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg) | [Welfare Jazz](https://open.spotify.com/album/2UorQ6UuGys6Ivsg1exRSu) | 3:32 | 2022-10-07 | 2022-12-10 |
@@ -570,7 +571,7 @@
 | [System](https://open.spotify.com/track/1zTHW5TprTtkSfyY39Wr4Q) | [Curtis Waters](https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U) | [System](https://open.spotify.com/album/1RDY4RAy078SdY2ywM61XN) | 2:09 | 2021-10-07 | 2022-08-06 |
 | [Takes the Piss](https://open.spotify.com/track/5Xv1xvngdGCkrt1MnaOyEX) | [gloo](https://open.spotify.com/artist/22nB1MCDHJehA6lhrgrev3) | [How Not to Be Happy](https://open.spotify.com/album/1jB1L2n0kCjePkgb8ThTBI) | 2:31 | 2021-10-07 | 2022-03-12 |
 | [Talk For Hours](https://open.spotify.com/track/03PjveqFmnkDdYNWXrujZb) | [High Vis](https://open.spotify.com/artist/4Gmrt82h2vjGjnp67SG5Nw) | [Blending](https://open.spotify.com/album/2O3NneZDbRKj2kTyMK9jrw) | 4:59 | 2023-03-21 | 2023-11-01 |
-| [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 | 2023-08-25 |  |
+| [Talkin' On The Internet](https://open.spotify.com/track/2QSDrcOfvflcy2rtiTZbJd) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Talkin' On The Internet](https://open.spotify.com/album/4uSg0LQqvVFEbZIIzfJAay) | 2:35 | 2023-08-25 | 2024-04-23 |
 | [Talkin' On The Internet](https://open.spotify.com/track/35u6OtruMBLZYAouGUzRSH) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:35 | 2023-10-20 | 2024-04-19 |
 | [Talkin' On The Internet](https://open.spotify.com/track/6nrTOALDsdBIIVblrv0sYh) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Herberts On Holiday](https://open.spotify.com/album/3m3hEjQTaDq3QgiXR8XjW6) | 2:35 | 2023-09-22 | 2023-11-06 |
 | [Tea On The Kettle](https://open.spotify.com/track/60nHhF2dqeYxbqyZr4X59o) | [Sheer Mag](https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1) | [Playing Favorites](https://open.spotify.com/album/2R7crs7YbXoJrjzb7IOEEq) | 2:36 | 2024-03-01 | 2024-04-13 |
@@ -658,6 +659,7 @@
 | [What You Did](https://open.spotify.com/track/3PfPDRwntf2v4iohiINx7s) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [What You Did](https://open.spotify.com/album/3zJKF1QzRphIyM2V2qEbnP) | 3:02 | 2023-02-24 | 2023-05-24 |
 | [What You Did](https://open.spotify.com/track/3sfWGFNBEY1tCOabYwVcZ1) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:02 | 2023-05-22 | 2023-08-26 |
 | [Whatever](https://open.spotify.com/track/6nCeCu9xovpYGPBUGoGqXi) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Whatever](https://open.spotify.com/album/5RbmktxpqVBEHpq14N5MUP) | 3:06 | 2021-10-07 | 2022-03-26 |
+| [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/track/6S0qDB8PnXMyU5xhsYxcGI) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj), [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [Whatever You Say Man \(feat\. White Reaper\)](https://open.spotify.com/album/3tUsrj0Qe62M6wz71Ulbh0) | 2:24 | 2024-04-22 |  |
 | [Who Do You Wanna Be?](https://open.spotify.com/track/0bIiZBC5B0Nbz4nus2LOOL) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Social Lubrication](https://open.spotify.com/album/4zhDraKp81jTANE6rvH4G7) | 3:49 | 2023-06-02 | 2023-09-09 |
 | [Who Do You Wanna Be?](https://open.spotify.com/track/1mQYynQkyb5DPdS5xYauL2) | [Dream Wife](https://open.spotify.com/artist/2DaP4uXwKOXAaD77XokW9a) | [Who Do You Wanna Be?](https://open.spotify.com/album/3ijhS6VXxosq4hSTXlIaZs) | 3:49 | 2023-05-22 | 2023-06-12 |
 | [Who Loves Ya? \(Coup d'état\)](https://open.spotify.com/track/5VWxoK8gGzImPEaHi8UP67) | [Chubby and the Gang](https://open.spotify.com/artist/54owRfib7AwmLx1OEM1Apd) | [Labour of Love](https://open.spotify.com/album/2eiPZLFJNcNnjj7YEHOW3p) | 3:40 | 2022-07-08 | 2022-08-27 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV?si=zpfrracLRqydGxDfjqcRtg">HONEYMOAN</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,399 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,402 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,21 +42,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6dYPM8db5Sz.md) - [plain]
 | 32 | [See You Shine](https://open.spotify.com/track/7bzmfqeBpB4crtt1Vm5GRk) | [Sean Koch](https://open.spotify.com/artist/4sOLJi96MhdlMv5Iz9YZT9) | [See You Shine](https://open.spotify.com/album/0pPVLCQw41MZRY6SGKtsQN) | 2:44 |
 | 33 | [Setting Suns](https://open.spotify.com/track/0GB6NBQY3nYvuwaCApTbFx) | [Brandon Grant](https://open.spotify.com/artist/3rD8GtrMQjQ8UAQCEQ0RGU) | [Setting Suns](https://open.spotify.com/album/3BqqPFVR6zGtNkkAtLb68y) | 3:19 |
 | 34 | [Pink Skies](https://open.spotify.com/track/4MiJlJoCLr6X2Q7D9fN4hT) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Pink Skies](https://open.spotify.com/album/6mhMHaEdNMxyPi4Otr73nM) | 3:21 |
-| 35 | [Come Back Home](https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Come Back Home](https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD) | 2:24 |
-| 36 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 35 | [Miss You](https://open.spotify.com/track/1MpyOrNKUXCv3lE9DlPqWe) | [Lone Tree](https://open.spotify.com/artist/0VAj0iiD96mFA60tqZrtUU) | [Miss You](https://open.spotify.com/album/6gqySHl4zPpgNOcxg9Usdj) | 4:47 |
+| 36 | [Come Back Home](https://open.spotify.com/track/7ABsADpcCtPFZoNX2PeyaL) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Come Back Home](https://open.spotify.com/album/3lBpG62hgBRnAHy6oYVCoD) | 2:24 |
 | 37 | [Your Company](https://open.spotify.com/track/753pRTUPt9ZFHWeEX8KtKr) | [Keanan Eksteen](https://open.spotify.com/artist/2J4GlBnz2g9mW4Xwaa5M3C) | [Your Company](https://open.spotify.com/album/0KSpU6ZG8i8hktl3FRAYOj) | 3:08 |
 | 38 | [Night Bus](https://open.spotify.com/track/5MJLYGN2xkA9p9FaKhtzvU) | [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Night Bus](https://open.spotify.com/album/5QdvSCOjTIDM1tFkNVzwak) | 2:33 |
-| 39 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
-| 40 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 |
+| 39 | [Hollow](https://open.spotify.com/track/1lUany9gir3JNqywMxvSVy) | [We Are All Fossils](https://open.spotify.com/artist/15vQbVx84dPqYBWX2XK8kw) | [Hollow](https://open.spotify.com/album/7gQky4elzyKHb9hLax9poM) | 3:07 |
+| 40 | [Nyoni Yami](https://open.spotify.com/track/1hO7XxOmMRAo3gj2UYqqEg) | [Jabulile Majola](https://open.spotify.com/artist/7hGWdecNt4fPrcIEAVf3AF), [Yoav](https://open.spotify.com/artist/2TUFDVa7aZJ4O9U0qjrSJH) | [Nyoni Yami](https://open.spotify.com/album/1U2hqgPgcpntPLQyYnBxUy) | 3:32 |
 | 41 | [Don't Let Me Go](https://open.spotify.com/track/4c3ZblqLbAmXIhlyOopuOu) | [Gangs of Ballet](https://open.spotify.com/artist/2OMjeKZFgRSOJzJnM1umNu) | [Yes / No / Grey.](https://open.spotify.com/album/6kJcdD7xa1ZZXdbgFrTa4q) | 3:16 |
-| 42 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
-| 43 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
-| 44 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
+| 42 | [Another Day](https://open.spotify.com/track/4T17A5uxXxGo48TYhbH5jF) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Another Day](https://open.spotify.com/album/759Xj2GPV3t0LaMtr7RPgP) | 2:16 |
+| 43 | [White Shadow](https://open.spotify.com/track/3Xlu89nWr1l6cakQu2BEov) | [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Beatenberg](https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU) | [Platinumb Heart Open](https://open.spotify.com/album/22FziGbftNET7IBUj4IFdP) | 4:08 |
+| 44 | [Written In The Stars](https://open.spotify.com/track/3arW9nlgAquoBjZnVZmqlI) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [Written In The Stars](https://open.spotify.com/album/75tepfildppNN5jqkBcEBc) | 3:38 |
 | 45 | [GHOSTS](https://open.spotify.com/track/6QFgE1RSsCncK81HoKmMVp) | [December Streets](https://open.spotify.com/artist/60oeRht0NXwELSxJNhQw7v) | [GHOSTS](https://open.spotify.com/album/4jrzhfsW9LFG1leDoipgyo) | 2:41 |
-| 46 | [Rooms](https://open.spotify.com/track/6SkeoOFpFW6HJeyxo4zor1) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Rooms](https://open.spotify.com/album/4QNmmRawWXUDvty7Pyc5ve) | 3:15 |
-| 47 | [Everything Slow](https://open.spotify.com/track/5OwSmeumvnHstbaBpaEAnZ) | [Jackal & the Wind](https://open.spotify.com/artist/12iw4uOEV5d8gogRQ3wMkx) | [Everything Slow](https://open.spotify.com/album/0oc6tm1J1vjE649NRXyjzT) | 3:31 |
-| 48 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
-| 49 | [The Loudest Thing](https://open.spotify.com/track/6AgRrEHmDM9w2vEHtJ6Zps) | [Kris Angelis](https://open.spotify.com/artist/5NSCSZj6ourZB5Yy4j4saO), [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [The Loudest Thing](https://open.spotify.com/album/09mOKo6OXJH9ip3OmwBDwF) | 2:52 |
+| 46 | [Best Days](https://open.spotify.com/track/1KmXiVfMRbEVBApKViuFoc) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [Best Days](https://open.spotify.com/album/3LSiNb7hENTIhP9lUKtNF6) | 3:13 |
+| 47 | [Holding On To You](https://open.spotify.com/track/7eUpf4w7JE323DhRnjIysS) | [Justin Lee](https://open.spotify.com/artist/5lSVCLx0jJ09fPhHS2fRTQ) | [Holding On To You](https://open.spotify.com/album/7EPsqTKceMEh9IE4DPjggo) | 2:34 |
+| 48 | [Rooms](https://open.spotify.com/track/6SkeoOFpFW6HJeyxo4zor1) | [Lucy Kruger & The Lost Boys](https://open.spotify.com/artist/2qFDhzWBDqbPOjhy8Fkl3u) | [Rooms](https://open.spotify.com/album/4QNmmRawWXUDvty7Pyc5ve) | 3:15 |
+| 49 | [Postcards](https://open.spotify.com/track/3oyNkeV7QnQ68biEQhkPLH) | [Jade Garisch](https://open.spotify.com/artist/4Ek7jRRsy7yczCU0wl5SgG), [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Postcards](https://open.spotify.com/album/4cbusMetDTHoeO0QSUsyJp) | 3:28 |
 | 50 | [New Old Times](https://open.spotify.com/track/74xrdg0CobTeKelmdCdyKm) | [Bad Peter](https://open.spotify.com/artist/0dceAs5Ap8kfV0hcvdIm6l) | [New Old Times](https://open.spotify.com/album/2jGbhP0UjeaFTQWwR2Kx0m) | 3:07 |
 
 Snapshot ID: `MTcxMjkyNzYzNCwwMDAwMDAwMDdhZWNkMjI4YTZjMmZjM2Q1ZmFmZmVjYmU5ZGIzZjI2`

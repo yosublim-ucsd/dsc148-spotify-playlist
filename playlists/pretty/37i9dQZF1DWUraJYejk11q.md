@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 
 > Instrumental bliss beyond genre classification.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,877 likes - 50 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,829 likes - 50 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUraJYejk11q.md) - [plain]
 | 3 | [Daydream Repeat](https://open.spotify.com/track/3jBAlJcUMJKwRgTuGiLFGX) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three](https://open.spotify.com/album/7mpTSR6E855VhdCeoPgpCF) | 6:08 |
 | 4 | [VOLVER \(instrumental\)](https://open.spotify.com/track/7yXlGX1tlIYn5wZcJbJB6f) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [DATA \(Instrumental\)](https://open.spotify.com/album/1PueylpRcNPGRgr8i8tbXR) | 3:00 |
 | 5 | [Worms on Acid](https://open.spotify.com/track/0A44Bg2Hg2wDFOqTzfA8Ny) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worms on Acid](https://open.spotify.com/album/5zM9uniBVZQHqlijpyhpMh) | 2:30 |
-| 6 | [Wendorlan](https://open.spotify.com/track/5riAIZl7bL5PEgpIxaNNrH) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Wendorlan](https://open.spotify.com/album/5KCxPdaw34RM8d9OjYJAwT) | 6:19 |
+| 6 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
 | 7 | [The Visit](https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Alt\-Mobeat](https://open.spotify.com/album/71cvsfFWvvE5L0t82Lp5CI) | 1:41 |
 | 8 | [Tahara](https://open.spotify.com/track/4HDyneNRqT6teWLfG5CQ1x) | [Jacana People](https://open.spotify.com/artist/2f0w048dh1LH5QPDvwKECY) | [Tahara](https://open.spotify.com/album/7evkhN1L2LeQjCm1IaCNzS) | 3:33 |
-| 9 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
+| 9 | [Wendorlan](https://open.spotify.com/track/5riAIZl7bL5PEgpIxaNNrH) | [Squarepusher](https://open.spotify.com/artist/4mtHSXwIHihO6MWNq5Qoko) | [Wendorlan](https://open.spotify.com/album/5KCxPdaw34RM8d9OjYJAwT) | 6:19 |
 | 10 | [A Ghost At Noon](https://open.spotify.com/track/5o4IyOYeFXEQ8NZuKuPHOQ) | [Sam Prekop](https://open.spotify.com/artist/4Vtlz5IfA9y4EBwmp20wwk), [John McEntire](https://open.spotify.com/artist/39xjP2biuKg7i0U6DwoRHg) | [Sons Of](https://open.spotify.com/album/5Zb3em703R0GO9k6LXh33a) | 7:51 |
 | 11 | [Promises](https://open.spotify.com/track/7jbt4qgjVkr1mdGEjXnPHM) | [Sunareht](https://open.spotify.com/artist/4E2w3DKsTpmnbxLApe9p5O), [Le Dom](https://open.spotify.com/artist/4XAj4OqOBRYiYqeliUTS8P) | [Promises](https://open.spotify.com/album/7y6QonZa3omz4lgMqLwOON) | 3:46 |
 | 12 | [l'empelt](https://open.spotify.com/track/19xIHqQ06u9gzxbbmeNvx4) | [drames rurals](https://open.spotify.com/artist/4Fc8hhmKcYdCVdByPDBLPG), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD), [juns](https://open.spotify.com/artist/2VnW9TLWqKhenhIz5fyAlF), [oma totem](https://open.spotify.com/artist/1rGwnZdib4PzGaxYuXJBhb), [Meritxell Bonastre](https://open.spotify.com/artist/0QCq80HQCr8SQr40QCe7Gp) | [drames rurals](https://open.spotify.com/album/3yC35q63Eg6ctGi3CXFUDD) | 4:43 |

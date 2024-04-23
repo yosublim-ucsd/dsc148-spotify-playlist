@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYIJnfwk84BX.md) - [plain]
 
 > Trilhas sonoras e grandes clássicos para te ajudar a relaxar durante a leitura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,177 likes - 117 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,179 likes - 117 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

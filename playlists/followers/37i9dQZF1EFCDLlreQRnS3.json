@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 36,
+  "2024-04-23": 36,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/3t8IlEzZBcgzaM2IhupjLR\">Moli</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Moli",
@@ -1059,6 +1059,24 @@
       "duration_ms": 178882,
       "name": "lose touch",
       "url": "https://open.spotify.com/track/6XhyqmBQDLFPaqF4fnVPun"
+    },
+    {
+      "album": {
+        "name": "Lost In Life",
+        "url": "https://open.spotify.com/album/1MLO53mmmqSWffWI0DEE0X"
+      },
+      "artists": [
+        {
+          "name": "FIL BO RIVA",
+          "url": "https://open.spotify.com/artist/3JE0uoggWwwYG6rSSJk0HN"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265546,
+      "name": "Lost In Life",
+      "url": "https://open.spotify.com/track/0FbkI3asd6oFBgEX2xCLq4"
     },
     {
       "album": {

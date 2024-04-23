@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 15085,
+  "2024-04-23": 15075,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Bulgaria.",
   "name": "Top 50 - Bulgaria",
@@ -945,7 +945,7 @@
       ],
       "date_added": "2023-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-20",
+      "date_removed": null,
       "duration_ms": 191666,
       "name": "Alcohol",
       "url": "https://open.spotify.com/track/7FDCQfEwJDsOlv655b1Qsv"
@@ -4547,7 +4547,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 216662,
       "name": "Clara Bow",
       "url": "https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB"
@@ -5143,6 +5143,28 @@
       "duration_ms": 201533,
       "name": "Dai Mi Vsichko",
       "url": "https://open.spotify.com/track/7qmV6PWC86hFlYusuxAqwg"
+    },
+    {
+      "album": {
+        "name": "DALE BABY",
+        "url": "https://open.spotify.com/album/5jIce6BU7PcSkS7aXXGL0l"
+      },
+      "artists": [
+        {
+          "name": "Galin",
+          "url": "https://open.spotify.com/artist/5amPFw5XVlNzP7uSKBXtai"
+        },
+        {
+          "name": "Dessita",
+          "url": "https://open.spotify.com/artist/1WOWylyMYTYIkDJmKLeSpQ"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "DALE BABY",
+      "url": "https://open.spotify.com/track/71D3yrwwKGf9HDbXO5PJjD"
     },
     {
       "album": {
@@ -7795,7 +7817,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 133608,
       "name": "favorite",
       "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
@@ -8461,7 +8483,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 210789,
       "name": "Fresh Out The Slammer",
       "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
@@ -9479,7 +9501,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
@@ -10509,7 +10531,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 156297,
       "name": "I Can Fix Him (No Really I Can)",
       "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
@@ -13343,7 +13365,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 277156,
       "name": "loml",
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
@@ -15745,10 +15767,28 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/05msZuGKP3OCUGQnvLBOf4"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
     },
     {
       "album": {
@@ -16961,7 +17001,7 @@
       ],
       "date_added": "2023-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 244684,
       "name": "One Of The Girls (with JENNIE, Lily Rose Depp)",
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
@@ -18662,6 +18702,24 @@
     },
     {
       "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -19055,7 +19113,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 270697,
       "name": "redrum",
       "url": "https://open.spotify.com/track/52eIcoLUM25zbQupAZYoFh"
@@ -21199,10 +21257,28 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262974,
+      "name": "So Long, London",
+      "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
     },
     {
       "album": {
@@ -23065,7 +23141,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 196900,
       "name": "The Alchemy",
       "url": "https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn"
@@ -23429,7 +23505,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 245541,
       "name": "The Smallest Man Who Ever Lived",
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
@@ -27039,7 +27115,7 @@
       ],
       "date_added": "2023-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 197030,
       "name": "\u0411\u0430\u0432\u0430\u0440\u0438\u044f",
       "url": "https://open.spotify.com/track/0FQVI0C86ASSO1TW4YIoUG"
@@ -28147,7 +28223,7 @@
       ],
       "date_added": "2023-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 213975,
       "name": "\u0417\u0434\u0440\u0430\u0441\u0442\u0438",
       "url": "https://open.spotify.com/track/5zQJgQMsG2Q8JOmMmiE5Nt"
@@ -28725,7 +28801,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 188571,
       "name": "\u041c\u0430\u043b\u043a\u0430\u0442\u0430 \u0431\u0435\u043b\u044f",
       "url": "https://open.spotify.com/track/2Fs3HuNZQ2QK0Qcfr19L8Y"
@@ -30039,7 +30115,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-09",
+      "date_removed": null,
       "duration_ms": 210000,
       "name": "\u041f\u0440\u043e\u0449\u0430\u0432\u0430\u043c \u0442\u0438",
       "url": "https://open.spotify.com/track/1Kgu5BIPXBqB6VEzQmZpMH"
@@ -30821,7 +30897,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 206000,
       "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
       "url": "https://open.spotify.com/track/4CdCa2gcNtsqPTA9JELgqb"

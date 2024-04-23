@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,550 songs - 3 day 10 hr 47 min
+1,551 songs - 3 day 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,6 +395,7 @@
 | [Egw & Esy](https://open.spotify.com/track/3N2iBFazoTUIvgcqu2PdDZ) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Eleni Foureira](https://open.spotify.com/artist/39E15l8zeCDYpSZwFNX4G2) | [Egw & Esy](https://open.spotify.com/album/1zRXNHNn9OahCcQdhG5zwH) | 3:06 | 2022-08-12 | 2023-03-15 |
 | [Egw Ki Esy](https://open.spotify.com/track/4bn7uGPFqouyMIXnnXx4KU) | [Sophia](https://open.spotify.com/artist/21sZyR7G75dNav5foqjApa), [FLY LO](https://open.spotify.com/artist/1zeAbUJAbLOWeYpgRVnYmu), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Egw Ki Esy](https://open.spotify.com/album/6Az4jJ1gutegsszavSJXsB) | 3:02 | 2022-06-11 | 2022-07-03 |
 | [Eikones](https://open.spotify.com/track/1Tb2JP8DE92VTtzU5n42tv) | [FANN](https://open.spotify.com/artist/6IDb1Sr6WglBeOZoqRT269), [Greco Beats](https://open.spotify.com/artist/7x4X4E8agWghoTDdHrUfLV) | [Kyrios Nekrikos Part I](https://open.spotify.com/album/0Is0VPWEV0FhVMfAp0vqwZ) | 3:26 | 2023-01-20 | 2023-01-22 |
+| [Eipes](https://open.spotify.com/track/6hetSa5ChpVZ30jcxQNRZf) | [Ivi Adamou](https://open.spotify.com/artist/2arQ0lfcNGLrJOHoJksWOw) | [Eipes](https://open.spotify.com/album/1H3ahuX2TFGViiP3fon6kh) | 3:40 | 2024-04-22 |  |
 | [Eipes Tha Figeis](https://open.spotify.com/track/1Fb2MdKgC5IYdinvP3RHp2) | [VLOSPA](https://open.spotify.com/artist/5VzicjuhIv0IwMz15hEORa), [Beats Pliz](https://open.spotify.com/artist/6x6jVrxZYv8bB6fwPsg79E) | [Eipes Tha Figeis](https://open.spotify.com/album/0pWX92zcZPZOTRvGWtH4bk) | 3:04 | 2021-12-28 | 2022-01-13 |
 | [Ekato](https://open.spotify.com/track/4s6W225nD6Auj9Qfayujgu) | [Sadam](https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq), [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [Golgothas](https://open.spotify.com/album/56uWf4qkg5xwdUqm6ZNIX0) | 3:27 | 2024-01-13 | 2024-01-28 |
 | [Ekeina Ta Meri](https://open.spotify.com/track/5pKkx2psY8nq3dHukJaakC) | [Buzz](https://open.spotify.com/artist/72psY0qma8uEbuSXL8LtT5), [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy), [Reddy A](https://open.spotify.com/artist/75QGJWUR1GaWNKYNTxmciu) | [Street Business](https://open.spotify.com/album/51zVTRP9si2TiCxjQXomIL) | 4:07 | 2023-04-08 | 2023-04-10 |
@@ -1164,7 +1165,7 @@
 | [PSILOS FREESTYLE](https://open.spotify.com/track/34oPAKE1SIIqR6mela35iL) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp) | [PSILOS FREESTYLE](https://open.spotify.com/album/6e6n2cuuuTg7P5TTqFvPvx) | 2:55 | 2023-10-19 | 2023-10-28 |
 | [PULL UP](https://open.spotify.com/track/1pVRN4ppqzn4sQ1jwX451z) | [Diablo](https://open.spotify.com/artist/6zlmpdTPJuoUoZzasQ4cGb), [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Niku Bossi](https://open.spotify.com/artist/1sMZlq43h0wt6TBQZYQmXS) | [PULL UP](https://open.spotify.com/album/764wuci2T1E24TKz1zo0Lk) | 2:46 | 2022-03-20 | 2022-04-24 |
 | [Pure](https://open.spotify.com/track/7makDOAs66DPSP8s9CZ5rd) | [Immune](https://open.spotify.com/artist/7bg4UOzqHiULOABzTycGyX), [Jessy Blue](https://open.spotify.com/artist/7wjYnJv8GkjAU4qxkGoLwG) | [ATHENA](https://open.spotify.com/album/16BsYbHUF4VT2u8R1Ef3Bc) | 1:13 | 2022-12-17 | 2022-12-22 |
-| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-21 |  |
+| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-21 | 2024-04-23 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2022-02-01 | 2022-02-12 |
 | [Pussy & Millions \(feat\. Travis Scott\)](https://open.spotify.com/track/2KLwPaRDOB87XOYAT2fgxh) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Her Loss](https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6) | 4:02 | 2022-11-05 | 2022-11-13 |
 | [Pyrkagia](https://open.spotify.com/track/5rHMm3EnBfYhenxew4FzEn) | [Mente Fuerte](https://open.spotify.com/artist/7siPnM6FjNP8KnXO5YDwAH), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Amantes Amentes](https://open.spotify.com/album/2LkHpJX8sT5M4c5T71xRqF) | 3:02 | 2022-06-11 | 2022-06-15 |

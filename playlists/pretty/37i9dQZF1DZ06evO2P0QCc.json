@@ -1,12 +1,12 @@
 {
-  "description": "This is Inspector. The essential tracks, all in one playlist.",
-  "num_followers": 107767,
+  "description": "This Is Inspector. Los temas esenciales, todos en una lista.",
+  "num_followers": 107765,
   "original_name": "This Is Inspector",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDVlNTM4ZWNiNjlkYjRlMTFhN2JmNGIyNDZkYmY1MGRk",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGE1MjkxNjk5N2IyYmZmYmE2MDlhMGZhYzBkODNjYWI0",
   "tracks": [
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Serpientes Y Escaleras",
         "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 224666,
       "name": "Grita",
       "url": "https://open.spotify.com/track/2lI7vYYG6KDsUyz7zxP01c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 182000,
+      "name": "Lo Que T\u00fa Me Das - Gracias",
+      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
     },
     {
       "added_at": null,
@@ -439,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Serpientes Y Escaleras",
-        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
-      },
-      "artists": [
-        {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
-        }
-      ],
-      "duration_ms": 214933,
-      "name": "Serpientes Y Escaleras",
-      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Busco Amor",
         "url": "https://open.spotify.com/album/2vALxKJpED66tqUiDLLzXw"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 222138,
       "name": "Busco Amor",
       "url": "https://open.spotify.com/track/7xSg3RsbKQW7psMXu85oqM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Serpientes Y Escaleras",
+        "url": "https://open.spotify.com/album/7jimLEJwnuJSPqKFb8LPHJ"
+      },
+      "artists": [
+        {
+          "name": "Inspector",
+          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+        }
+      ],
+      "duration_ms": 214933,
+      "name": "Serpientes Y Escaleras",
+      "url": "https://open.spotify.com/track/5eUoshsxNYpDVDyvApzxed"
     },
     {
       "added_at": null,

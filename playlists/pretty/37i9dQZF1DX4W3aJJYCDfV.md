@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Taylor Swift \(pictured\), Fontaines D.C, Jamie xx and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 849,489 likes - 126 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 849,285 likes - 126 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

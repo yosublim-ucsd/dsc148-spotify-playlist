@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 1006,
+  "2024-04-23": 1034,
   "date_first_scraped": "2024-04-02",
   "description": "\u5b9f\u5199\u6620\u753b\u300c<a href=\"https://gaga.ne.jp/buzzynoise_movie/\">\u30d0\u30b8\u30fc\u30ce\u30a4\u30ba</a>\u300d5\u67083\u65e5\u516c\u958b\uff01\u4f5c\u8005 \u3080\u3064\u304d\u6f64\u306b\u3088\u308b\u9078\u66f2\u306e\u30aa\u30d5\u30a3\u30b7\u30e3\u30eb\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u304c\u5230\u7740\u3002/ The official playlist selected by Mutsuki Jun. ",
   "name": "BUZZY NOISE \u30d0\u30b8\u30fc\u30ce\u30a4\u30ba",
@@ -231,6 +231,24 @@
       "duration_ms": 336866,
       "name": "Luv(sic.) pt3 (feat. Shing02)",
       "url": "https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk"
+    },
+    {
+      "album": {
+        "name": "Tokyo Rendez-Vous",
+        "url": "https://open.spotify.com/album/52Y1UmTf763sUUpVMLPYLO"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "McDonald Romance",
+      "url": "https://open.spotify.com/track/75Yz67wlMsVyXTP3SlS2D9"
     },
     {
       "album": {
@@ -545,6 +563,96 @@
       "duration_ms": 228520,
       "name": "Summer Child",
       "url": "https://open.spotify.com/track/3dDS3c0Xe1kdFC8CYvX7Yp"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+        "url": "https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E"
+      },
+      "artists": [
+        {
+          "name": "\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+          "url": "https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194327,
+      "name": "Talk:Comic artist&Film director \u300c\u30d0\u30b8\u30fc\u30ce\u30a4\u30ba\u300d\u306e\u97f3\u697d\u306b\u3064\u3044\u3066",
+      "url": "https://open.spotify.com/track/0BJzQEksdf1meLXPEKnNnl"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+        "url": "https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E"
+      },
+      "artists": [
+        {
+          "name": "\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+          "url": "https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103002,
+      "name": "Talk:Comic artist&Film director \u3053\u308c\u304b\u3089\u6620\u753b\u3092\u89b3\u308b\u65b9\u3078",
+      "url": "https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+        "url": "https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E"
+      },
+      "artists": [
+        {
+          "name": "\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+          "url": "https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 66366,
+      "name": "Talk:Comic artist&Film director \u30aa\u30fc\u30d7\u30cb\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/4QQcB7T7OJQOuVgv559WsH"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+        "url": "https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E"
+      },
+      "artists": [
+        {
+          "name": "\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+          "url": "https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145778,
+      "name": "Talk:Comic artist&Film director \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u304b\u3089\u7d10\u89e3\u304f",
+      "url": "https://open.spotify.com/track/0UCd4WnohX0wU46TxZeXQZ"
+    },
+    {
+      "album": {
+        "name": "Talk\uff1a\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+        "url": "https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E"
+      },
+      "artists": [
+        {
+          "name": "\u3080\u3064\u304d\u6f64\u3001\u98a8\u9593\u592a\u6a39",
+          "url": "https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91558,
+      "name": "Talk:Comic artist&Film director \u97f3\u697d\u6f2b\u753b\u306e\u6620\u753b\u5316",
+      "url": "https://open.spotify.com/track/7yrgykkHyA2gOVlCC6xkks"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Only the hottest Hip Hop from Future & Metro Boomin'\(pictured\), Big Sean and more...
 
-276 songs - 14 hr 59 min
+277 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Stadiums](https://open.spotify.com/track/5Sqya98MFN0RHN2oglnTTX) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [London On Da Track](https://open.spotify.com/artist/5Nf5yishRW9Ye174sJISkg) | [Stadiums](https://open.spotify.com/album/40F5ywKIXAvpWHrsRc0Ufo) | 2:52 | 2023-01-23 | 2023-02-24 |
 | [Start Over \(feat\. 6LACK\)](https://open.spotify.com/track/2d9MYGHDxjUB8P7qAI6bhe) | [Trey Bond](https://open.spotify.com/artist/6BWvzCLOnxDse9KYROLCHs), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Start Over \(feat\. 6LACK\)](https://open.spotify.com/album/4QlBtOJAooYJjTOlmOEDLO) | 3:25 | 2022-09-29 | 2022-11-11 |
 | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/track/0g2Bbgy7P41pFjMWJuzsf4) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [STAYING ALIVE \(feat\. Drake & Lil Baby\)](https://open.spotify.com/album/0oEsQwXJhNbbb8VT0xOMok) | 2:58 | 2022-09-29 | 2023-06-24 |
+| [stoners](https://open.spotify.com/track/3tYBsGcHQS8OqkLlE72Lm7) | [Michael Tuohy](https://open.spotify.com/artist/5FeEPMjFuqvtxQzU2hl6Y5), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP), [Kashcpt](https://open.spotify.com/artist/2QRB0fbCA9ZCwe67h96PNs) | [worth it + stoners](https://open.spotify.com/album/3rTmgPoF2CqroawhmSIZDR) | 2:43 | 2024-04-22 |  |
 | [Stop Breathing](https://open.spotify.com/track/6mM8gri8d2abYYomjOV4ut) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [Stop Breathing](https://open.spotify.com/album/1nP2b8dTaVUvvAOyRbDoBe) | 1:50 | 2022-09-29 | 2023-01-24 |
 | [Strike \(Holster\)](https://open.spotify.com/track/7iTTWHbr4tAlsRJN4m4bay) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Strike \(Holster\)](https://open.spotify.com/album/1v3fDc2dJvSEKOd3hOSjAH) | 2:28 | 2023-04-11 | 2024-04-05 |
 | [Sucka Or Sum](https://open.spotify.com/track/4vIBtcC2KzJY4Va98bvI8P) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [Sucka Or Sum](https://open.spotify.com/album/5gaVPtt0TIRuPeRfQeJ63P) | 3:09 | 2023-02-23 | 2023-05-06 |

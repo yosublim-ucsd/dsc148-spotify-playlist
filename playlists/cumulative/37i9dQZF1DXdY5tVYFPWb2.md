@@ -4,7 +4,7 @@
 
 > 再び脚光を浴びる日本のシティ・ポップの今をお届けします。
 
-821 songs - 2 day 6 hr 2 min
+822 songs - 2 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Drive’n The Rain](https://open.spotify.com/track/5PixDfOQbLTEG2YFPcXA1e) | [Perfume](https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr) | [PLASMA](https://open.spotify.com/album/4gqRmcXiuzlxB9nEnFiK4y) | 6:16 | 2022-07-27 | 2023-08-25 |
 | [Eastern Railroad](https://open.spotify.com/track/1ePjUavUg94dF598YFLiwt) | [S\. Kiyotaka & Omega Tribe](https://open.spotify.com/artist/7bG2PIfT22HGxisl6LAohx) | [NEVER ENDING SUMMER REMIX](https://open.spotify.com/album/0ZbNM7icPjo2rt0l56xGWW) | 3:54 | 2022-09-27 | 2022-10-05 |
 | [Eclipse](https://open.spotify.com/track/3xUemE6fdgQKwymzvCjHJt) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/3awnnhSoffzFbLrQs0QnKA) | 3:37 | 2023-11-21 | 2024-02-14 |
+| [Eclipse](https://open.spotify.com/track/6wcI81d5Tg6hAFS3jRwAF1) | [Billyrrom](https://open.spotify.com/artist/7our8lu1Vk9CLnFEu3JEbc) | [Eclipse](https://open.spotify.com/album/6w4q3aezkBoa7LTr9TdKng) | 3:37 | 2024-04-16 |  |
 | [eden](https://open.spotify.com/track/7lXEPbQO0zQSWVRPxmHuuY) | [Maharajan](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF) | [ちがう](https://open.spotify.com/album/5dUP4yDeeOuClON4hiqVCO) | 3:50 | 2023-12-12 |  |
 | [ENDLESS](https://open.spotify.com/track/1OrplXMoRRaHS7D9pIn5e1) | [TENDRE](https://open.spotify.com/artist/6cMnpAZ9QN0wn4dVd0Tinb), [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [IMAGINE](https://open.spotify.com/album/3PqSE7humFjBigvsUK48U2) | 3:51 | 2022-05-24 |  |
 | [ENJOY THE RIDE](https://open.spotify.com/track/68yPKpoph3amKSGRZLXlkf) | [FRONTIER BACKYARD](https://open.spotify.com/artist/5MW5Dg53vAA4Rorq0I51xy), [Neil and Iraiza](https://open.spotify.com/artist/6rAA6xJe1O2ubeZj6xIB2y), [ALL STARS](https://open.spotify.com/artist/1bNTB1MJpFa6LauIlZCInr) | [ENJOY THE RIDE](https://open.spotify.com/album/7IbyAfAKOMdzWQXLMTkMFP) | 3:21 | 2024-01-09 | 2024-01-24 |
@@ -249,7 +250,7 @@
 | [Lively Christmas](https://open.spotify.com/track/53DGlr6zHEfNFQV4719Wsd) | [YONA YONA WEEKENDERS](https://open.spotify.com/artist/6DvqAr90Cw6sbEt4Iu6KDR) | [Lively Christmas](https://open.spotify.com/album/4XRSy18v6qt4iAzmqc9rXi) | 3:18 | 2023-11-21 | 2023-12-14 |
 | [Loneliness](https://open.spotify.com/track/0dPQXzKfYSVPCoTftltoiC) | [Funkindustry](https://open.spotify.com/artist/0QYdME0a29bLqdSqKaprOX), [Natsu Summer](https://open.spotify.com/artist/4l3pCmSMjqdSkhWUZp6jCD) | [Loneliness](https://open.spotify.com/album/0rtgFB3NTb4M2hjJcU05zJ) | 4:14 | 2023-03-30 | 2023-04-05 |
 | [long island iced tea](https://open.spotify.com/track/65odcT5IsIASZI5sRmXlhQ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [long island iced tea](https://open.spotify.com/album/6PmL0VtPsbrOg5w4U6J8VJ) | 3:18 | 2023-08-29 | 2023-11-11 |
-| [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 |  |
+| [LOOP](https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [FEEL GOOD](https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn) | 5:05 | 2024-04-16 | 2024-04-23 |
 | [LOOP](https://open.spotify.com/track/40TPC9leP3bl1YJsjtTgqs) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh) | [SIRUP EP2](https://open.spotify.com/album/5sNvS2IkCuDWs8VKqmRVy8) | 5:05 | 2023-11-10 | 2024-04-19 |
 | [LOST IN PARADISE](https://open.spotify.com/track/7kRKlFCFLAUwt43HWtauhX) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU), [AKLO](https://open.spotify.com/artist/5fNuYnFYyzsrVRtDcKPnxb) | [LOST IN PARADISE](https://open.spotify.com/album/6Jp8BbweVonPWAP5Qyn56J) | 5:27 | 2023-11-10 |  |
 | [lostpeople](https://open.spotify.com/track/14haJ18mwSL6BwqMDHS6qX) | [Deep Sea Diving Club](https://open.spotify.com/artist/06kwmmM4VcnrOdBM25pREY) | [lostpeople](https://open.spotify.com/album/358geVKGrGtN2Tb9nNTw2P) | 3:39 | 2022-06-16 | 2022-06-22 |

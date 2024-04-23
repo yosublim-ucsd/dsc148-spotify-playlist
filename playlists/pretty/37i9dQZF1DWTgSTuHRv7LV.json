@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del Hip-Hop y Rap en espa\u00f1ol. Cover: Nanpa B\u00e1sico & Pj Sin Suela",
-  "num_followers": 493158,
+  "num_followers": 491882,
   "original_name": "Mucho Rap",
   "owner": {
     "name": "Spotify",
@@ -219,18 +219,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "LA \u00daLTIMA",
-        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
+        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
       },
       "artists": [
         {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
         }
       ],
-      "duration_ms": 170322,
-      "name": "LA \u00daLTIMA",
-      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
+      "duration_ms": 164895,
+      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
+      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -271,22 +275,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-        "url": "https://open.spotify.com/album/4b2xHCwmoOeGHbo15dtqfb"
+        "name": "LA \u00daLTIMA",
+        "url": "https://open.spotify.com/album/2VZ9rmzFLZbsMMrmrJF8ur"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
         }
       ],
-      "duration_ms": 164895,
-      "name": "Eladio Carrion: Bzrp Music Sessions, Vol. 40",
-      "url": "https://open.spotify.com/track/1VauUM5CBX7nkLcgafQL2B"
+      "duration_ms": 170322,
+      "name": "LA \u00daLTIMA",
+      "url": "https://open.spotify.com/track/2qHvD3r5qu4wuPpvq3CQKb"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
-        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 183157,
-      "name": "NOVATO",
-      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "No Te Metas",
         "url": "https://open.spotify.com/album/5MHhCvivczCfxuhItlYgbS"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 219452,
       "name": "No Te Metas",
       "url": "https://open.spotify.com/track/341IhTrfJQujky7ovX3hlV"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "LVEU: VIVE LA TUYA...NO LA MIA",
+        "url": "https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 183157,
+      "name": "NOVATO",
+      "url": "https://open.spotify.com/track/2bcBQUFjbrsS8rq0u5PK6O"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1615,22 +1615,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Socios",
-        "url": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
+        "name": "Llamando A Tu Fon",
+        "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
       },
       "artists": [
         {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+          "name": "MC Davo",
+          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
         },
         {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 243000,
-      "name": "Socios",
-      "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
+      "duration_ms": 207037,
+      "name": "Llamando A Tu Fon",
+      "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1651,22 +1651,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Llamando A Tu Fon",
-        "url": "https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7"
+        "name": "Socios",
+        "url": "https://open.spotify.com/album/35aCkilcy42NSM3eQqdYWm"
       },
       "artists": [
         {
-          "name": "MC Davo",
-          "url": "https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I"
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         },
         {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
         }
       ],
-      "duration_ms": 207037,
-      "name": "Llamando A Tu Fon",
-      "url": "https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT"
+      "duration_ms": 243000,
+      "name": "Socios",
+      "url": "https://open.spotify.com/track/5XEKaGX5bEvZE79KneoLic"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Te Encontr\u00e9",
-        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Russ",
-          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Te Encontr\u00e9",
-      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "La Mision 3",
         "url": "https://open.spotify.com/album/5gA4AFEjzYhqv1OxixVOK6"
       },
@@ -1859,6 +1839,26 @@
       "duration_ms": 164092,
       "name": "100 TRACKS",
       "url": "https://open.spotify.com/track/2tS3MCvIoHw2m0iyYpsdRF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Te Encontr\u00e9",
+        "url": "https://open.spotify.com/album/0RvUTJIIZUlDiMMhA63sX9"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Russ",
+          "url": "https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Te Encontr\u00e9",
+      "url": "https://open.spotify.com/track/3Do3yeHyrQtV302BQxeOWj"
     },
     {
       "added_at": "2024-02-09 05:00:00",

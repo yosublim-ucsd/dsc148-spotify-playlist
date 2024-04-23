@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 
 > ¡A preparar la comida con la sazón de música tradicional y deliciosa! 🍅🌶️🍲🎵👩‍🍳
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,245 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,244 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahoF6RyWHgS.md) - [plain]
 | 27 | [Café Café](https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf) | [Radio Jarocho](https://open.spotify.com/artist/5E2MtBNRzM4FzQWyLvkvXx) | [Café Café](https://open.spotify.com/album/099AV8DpZlxt2y1qKhWv1S) | 3:58 |
 | 28 | [Dame Tu Querer](https://open.spotify.com/track/3SQauyf4T2j5XCTZxZ3gxY) | [Sidestepper](https://open.spotify.com/artist/6HnF6i8GjIQbRbUmGXvr1B) | [3 AM \(In Beats We Trust\)](https://open.spotify.com/album/5SG03amThdGbDpvOufQLev) | 4:22 |
 | 29 | [Bonita](https://open.spotify.com/track/0ACVN7hfM4xYLBQIIGlzx2) | [Germán Valdéz](https://open.spotify.com/artist/4b7DTJNSPg9gevcNOaWI9l), [Tintan](https://open.spotify.com/artist/5mUFdpfKhKfuRcNOVa43l4) | [Solo para Románticos \- de Mujer a Mujer](https://open.spotify.com/album/3LyPtYOOqsTIBNrg7224Pc) | 2:23 |
-| 30 | [Agüita de Manantial](https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 4:06 |
-| 31 | [Anna \(El Negro Zumbon\)](https://open.spotify.com/track/4zE7FbDsTiikGfy09uzgRi) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang On Little Tomato](https://open.spotify.com/album/00ufkobVchUc1GnJYu734s) | 2:36 |
+| 30 | [Anna \(El Negro Zumbon\)](https://open.spotify.com/track/4zE7FbDsTiikGfy09uzgRi) | [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Hang On Little Tomato](https://open.spotify.com/album/00ufkobVchUc1GnJYu734s) | 2:36 |
+| 31 | [Agüita de Manantial](https://open.spotify.com/track/4fTEJsSGo4jFc3AmULnvDt) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK) | [Formoseña](https://open.spotify.com/album/12C9DL2J39QMoWhorROrA2) | 4:06 |
 | 32 | [Merecumbé del cantinero](https://open.spotify.com/track/2yfTxhGOsfpKHcJJiZBKTT) | [Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/artist/0ioh6FwJgyen3UNGYiL0fm) | [Antología\. \. .Marimba Cuquita de los Hermanos Narvaez](https://open.spotify.com/album/4iofQumfq1VzKug1C5K3cb) | 3:01 |
 | 33 | [Papayas](https://open.spotify.com/track/5IdYwtkWxze5HKIq6uwFEk) | [chicarica](https://open.spotify.com/artist/6FCUGgR9Bf7zx8q7Sog9dN) | [Papayas](https://open.spotify.com/album/2yicqz18D45XpgeHAL2692) | 5:37 |
 | 34 | [Señor Presidente](https://open.spotify.com/track/0TkBSy6fOFWe0whp6b37qC) | [Los Cojolites](https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO) | [No Tiene Fin](https://open.spotify.com/album/5TAAs1zOW4ZOywhXYWD5Ox) | 2:47 |

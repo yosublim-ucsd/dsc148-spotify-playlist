@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DX5Hl0iWtr5b3.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3)
 
-### [Bridgerton and Queen Charlotte Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5Hl0iWtr5b3)
+### [Bridgerton Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5Hl0iWtr5b3)
 
-> All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.
+> Even a wallflower can bloom...Listen to the music from Bridgerton, new season coming soon to Netflix.
 
 96 songs - 4 hr 57 min
 

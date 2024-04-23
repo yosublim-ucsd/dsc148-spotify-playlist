@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 
 > This is Matt Maher\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,800 likes - 50 songs - 3 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,803 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0F9kBy.md) - [plain]
 | 36 | [Holy, Holy, Holy \(God With Us\)](https://open.spotify.com/track/2th1KuQJc7aImX1eZ9cdrM) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Jesus, Firm Foundation: Hymns of Worship](https://open.spotify.com/album/6qmPIJGrMMPT3erUNOdJpi) | 4:15 |
 | 37 | [Baptized](https://open.spotify.com/track/5TjlGElg43A1pHSS6sdKBg) | [Mac Powell](https://open.spotify.com/artist/5X77nNxT45eR0OshjmAvKa), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [New Creation](https://open.spotify.com/album/24792gcL1yqhVFu7QkqxSX) | 3:53 |
 | 38 | [The Cross Forever Speaks](https://open.spotify.com/track/2y49SLyQscZZCl1Z4kvTEU) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:52 |
-| 39 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
-| 40 | [Deliverer](https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:25 |
-| 41 | [The Way You Love Me](https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:18 |
-| 42 | [Abide With Me \- Radio Version](https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Abide With Me \(Radio Version\)](https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t) | 3:41 |
-| 43 | [Hallelujah, You Are Good \(feat\. Matt Maher\)](https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Worship And Believe \(Deluxe Edition\)](https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4) | 3:30 |
-| 44 | [Adoration \(Live\)](https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 5:59 |
-| 45 | [Burning Heart of God](https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:16 |
-| 46 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
-| 47 | [Lord of My Life](https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:59 |
+| 39 | [The Way You Love Me](https://open.spotify.com/track/1X6DdAapNhXKQemy5R6WNW) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 3:18 |
+| 40 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
+| 41 | [Deliverer](https://open.spotify.com/track/5KAtrhdDrzLgtG4tmMH1w0) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Saints and Sinners](https://open.spotify.com/album/2p4nNg7P6ckP0D7MFOUTgP) | 3:25 |
+| 42 | [Hallelujah, You Are Good \(feat\. Matt Maher\)](https://open.spotify.com/track/3XenID3zL7KUMTgBhNp9Iz) | [Steven Curtis Chapman](https://open.spotify.com/artist/3vcFXwLEUdfWMu7gTQKyot), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Worship And Believe \(Deluxe Edition\)](https://open.spotify.com/album/2x3pEnvjOnFfn6er1yGlf4) | 3:30 |
+| 43 | [Burning Heart of God](https://open.spotify.com/track/6BZNiWZcn87Xc8R3JyOkII) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [The Stories I Tell Myself](https://open.spotify.com/album/6Kv4VGIplIgRTTQodGfdt4) | 4:16 |
+| 44 | [Abide With Me \- Radio Version](https://open.spotify.com/track/5rsERw80XgOfKW98hLTYET) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Abide With Me \(Radio Version\)](https://open.spotify.com/album/6e6e5QP2FBLMKAMn5my95t) | 3:41 |
+| 45 | [Adoration \(Live\)](https://open.spotify.com/track/5PfnaRjEsPfNOd7AdJmd2N) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [All The People Said Amen](https://open.spotify.com/album/2WtZ4nYCFphrLzFcjuxhyu) | 5:59 |
+| 46 | [Lord of My Life](https://open.spotify.com/track/6vGSYpEzyiAT3vVcGeJgXt) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing](https://open.spotify.com/album/1BxJ93fbfJSKQ4GWqUcQB9) | 3:59 |
+| 47 | [Because He Lives \(Amen\) \- \[Live\]](https://open.spotify.com/track/0UIy96vF75u1ebFFmop49Y) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive & Breathing Vol\. 2](https://open.spotify.com/album/6NykyYzeUp4LTAN5hAAKPk) | 3:49 |
 | 48 | [As It Is In Heaven](https://open.spotify.com/track/28ixmwKVlJOaljyLqNxetf) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Empty And Beautiful](https://open.spotify.com/album/7C4ZFwSLusbV8DhsDGqqNs) | 4:09 |
 | 49 | [Awake My Soul \(A Thousand Tongues\)](https://open.spotify.com/track/62G1fPW9lyLHs1DGOyDRjL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:51 |
 | 50 | [Hosanna! \(Will You Rise?\)](https://open.spotify.com/track/1gZywnKlKqwRqtOFOUxKKg) | [The Porter's Gate](https://open.spotify.com/artist/3lFjLxwdFzhGr9fhWzE0SW), [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Terrian](https://open.spotify.com/artist/19TPpTWkgX13Qc2stbqVoP) | [Climate Vigil Songs](https://open.spotify.com/album/2WHh6TmX4BFuPLBsPwaWff) | 4:51 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDEyMTZlYWJlODM0OWM3ZmM3MWRmODRkYzIwNzg1Y2Ez`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDcxNmJkZjFmMDc3MDc3YTdkNGFkNDAzZTFhYTMwMDA3`

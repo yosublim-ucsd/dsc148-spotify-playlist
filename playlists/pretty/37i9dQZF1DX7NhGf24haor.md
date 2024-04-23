@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Updated weekly \| Hardstyle \| Cover: Deepack
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,470 likes - 110 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,559 likes - 110 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

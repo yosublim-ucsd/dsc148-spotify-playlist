@@ -1,6 +1,6 @@
 {
   "description": "Releases from the legendary label.",
-  "num_followers": 34024,
+  "num_followers": 34039,
   "original_name": "Crate Diggin' Strictly Rhythm",
   "owner": {
     "name": "Spotify",
@@ -51,6 +51,26 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN"
+      },
+      "artists": [
+        {
+          "name": "Ultra Nat\u00e9",
+          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
+        },
+        {
+          "name": "Mood II Swing",
+          "url": "https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av"
+        }
+      ],
+      "duration_ms": 233293,
+      "name": "Free - Mood II Swing Radio Edit",
+      "url": "https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "Follow Me",
         "url": "https://open.spotify.com/album/7lHBZXxijgIaXDpKeDQs9O"
       },
@@ -79,26 +99,6 @@
       "duration_ms": 377960,
       "name": "Higher State of Consciousness - Tweekin Acid Funk",
       "url": "https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6TpwXfNBW8BSwCAuBDjJSN"
-      },
-      "artists": [
-        {
-          "name": "Ultra Nat\u00e9",
-          "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
-        },
-        {
-          "name": "Mood II Swing",
-          "url": "https://open.spotify.com/artist/1ioarahrQVnmKor7JmN5Av"
-        }
-      ],
-      "duration_ms": 233293,
-      "name": "Free - Mood II Swing Radio Edit",
-      "url": "https://open.spotify.com/track/0dc6CJ6BsiKxyPvW4yABLo"
     },
     {
       "added_at": "2022-03-03 13:59:16",
@@ -171,6 +171,22 @@
     {
       "added_at": "2022-03-03 13:59:16",
       "album": {
+        "name": "Feel It / Waterfalls",
+        "url": "https://open.spotify.com/album/1wVS8Gdyzyzb233I6pdmIl"
+      },
+      "artists": [
+        {
+          "name": "After Hours",
+          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
+        }
+      ],
+      "duration_ms": 358680,
+      "name": "Waterfalls - 3 A.M. Mix",
+      "url": "https://open.spotify.com/track/3Lv3bT31Sali9Zk7sFgy5r"
+    },
+    {
+      "added_at": "2022-03-03 13:59:16",
+      "album": {
         "name": "(Who?) Keeps Changing Your Mind",
         "url": "https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1"
       },
@@ -219,22 +235,6 @@
       "duration_ms": 368466,
       "name": "Equinox - Henrik Schwarz Remix",
       "url": "https://open.spotify.com/track/2igWooAsZ36Kc7UjnfXMbl"
-    },
-    {
-      "added_at": "2022-03-03 13:59:16",
-      "album": {
-        "name": "Feel It / Waterfalls",
-        "url": "https://open.spotify.com/album/1wVS8Gdyzyzb233I6pdmIl"
-      },
-      "artists": [
-        {
-          "name": "After Hours",
-          "url": "https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7"
-        }
-      ],
-      "duration_ms": 358680,
-      "name": "Waterfalls - 3 A.M. Mix",
-      "url": "https://open.spotify.com/track/3Lv3bT31Sali9Zk7sFgy5r"
     },
     {
       "added_at": "2022-03-03 13:59:16",

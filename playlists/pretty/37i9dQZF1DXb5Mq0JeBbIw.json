@@ -1,6 +1,6 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 9749,
+  "num_followers": 9762,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "If I Were You",
-        "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 192604,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Planets",
         "url": "https://open.spotify.com/album/2CarDiOUtxpQx9iaFlLA1O"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 195737,
       "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
       "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "If I Were You",
+        "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
+      },
+      "artists": [
+        {
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
+        }
+      ],
+      "duration_ms": 192604,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6"
     },
     {
       "added_at": "2023-06-23 11:57:00",
@@ -1303,22 +1303,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 186128,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Alien (Acoustic)",
         "url": "https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS"
       },
@@ -1339,18 +1323,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Trail Mix Tape",
-        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
       },
       "artists": [
         {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
         }
       ],
-      "duration_ms": 242931,
-      "name": "Don't Grow Up Too Fast",
-      "url": "https://open.spotify.com/track/1IX4Q6laqbBjofk52uFQpk"
+      "duration_ms": 186128,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1371,18 +1355,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Survivors (Acoustic)",
-        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
+        "name": "Trail Mix Tape",
+        "url": "https://open.spotify.com/album/7o1kPZMhYTeD78xeKZ6hm6"
       },
       "artists": [
         {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
         }
       ],
-      "duration_ms": 269015,
-      "name": "Survivors - Acoustic",
-      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
+      "duration_ms": 242931,
+      "name": "Don't Grow Up Too Fast",
+      "url": "https://open.spotify.com/track/1IX4Q6laqbBjofk52uFQpk"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1399,6 +1383,22 @@
       "duration_ms": 215538,
       "name": "Dig Deep - Acoustic Version",
       "url": "https://open.spotify.com/track/1L6rZhpvEMnNLPnUYEU6q4"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Survivors (Acoustic)",
+        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Survivors - Acoustic",
+      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
     },
     {
       "added_at": "2023-02-10 06:37:00",

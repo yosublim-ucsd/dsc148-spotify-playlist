@@ -1721,6 +1721,28 @@
     },
     {
       "album": {
+        "name": "Daler (From \"Je Jatt Vigarh Gya\")",
+        "url": "https://open.spotify.com/album/1HmF8RNy8ovdVNA6vsM0uo"
+      },
+      "artists": [
+        {
+          "name": "Varinder Brar",
+          "url": "https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV"
+        },
+        {
+          "name": "Gill Sahab",
+          "url": "https://open.spotify.com/artist/4lnpMsK4ec9u6QiOenGYMT"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156129,
+      "name": "Daler (From \"Je Jatt Vigarh Gya\")",
+      "url": "https://open.spotify.com/track/1ZiqQYnpeiopTE2nsJNR5s"
+    },
+    {
+      "album": {
         "name": "Dead (From 'Warning 2\")",
         "url": "https://open.spotify.com/album/04PgRF5C9TryruRdoaQmp9"
       },
@@ -2110,7 +2132,7 @@
       ],
       "date_added": "2024-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 146058,
       "name": "ENGINE",
       "url": "https://open.spotify.com/track/5nsd4o6nkpTov75TetYhzO"
@@ -5198,7 +5220,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 214943,
       "name": "News",
       "url": "https://open.spotify.com/track/1CsargjBmDcE9gClrg6R5k"
@@ -5794,7 +5816,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 210352,
       "name": "Puthi Matt",
       "url": "https://open.spotify.com/track/63Grzak4SE03nPhMkSzYSL"
@@ -6069,6 +6091,24 @@
     },
     {
       "album": {
+        "name": "Rap Star Reloaded",
+        "url": "https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt"
+      },
+      "artists": [
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163356,
+      "name": "Sangeet",
+      "url": "https://open.spotify.com/track/39V6hSkf2ib8CgwgiaHfbO"
+    },
+    {
+      "album": {
         "name": "Sardaar Munde",
         "url": "https://open.spotify.com/album/46CooAUUsJw8f0Ydg61zJV"
       },
@@ -6118,6 +6158,24 @@
       "duration_ms": 144545,
       "name": "Semi - Auto",
       "url": "https://open.spotify.com/track/4nRfFpzbqjGvxe9CrrbJ4O"
+    },
+    {
+      "album": {
+        "name": "Rap Star Reloaded",
+        "url": "https://open.spotify.com/album/6zVDnyx2GYjD4eLNtYEqyt"
+      },
+      "artists": [
+        {
+          "name": "Bohemia",
+          "url": "https://open.spotify.com/artist/0SWOtgI95g7oVrP9halrmP"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167059,
+      "name": "Shaq",
+      "url": "https://open.spotify.com/track/2KvY2aHPjAS2Or4MFLtVwq"
     },
     {
       "album": {

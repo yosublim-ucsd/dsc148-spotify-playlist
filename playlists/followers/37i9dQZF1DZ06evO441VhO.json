@@ -1,7 +1,7 @@
 {
-  "2024-04-22": 16313,
+  "2024-04-23": 16313,
   "date_first_scraped": "2022-09-17",
-  "description": "This is zebrahead. The essential tracks, all in one playlist.",
+  "description": "This Is zebrahead. Los temas esenciales, todos en una lista.",
   "name": "This Is zebrahead",
   "tracks": [
     {
@@ -471,7 +471,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 163767,
       "name": "Headrush",
       "url": "https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB"
@@ -795,7 +795,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 217401,
       "name": "Mike Dexter Is A God, Mike Dexter Is A Role Model, Mike Dexter Is An Asshole",
       "url": "https://open.spotify.com/track/4ABfHHCjRtxr1VcR8Y7X9N"

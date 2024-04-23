@@ -1,12 +1,12 @@
 {
-  "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4272,
+  "description": "This Is Baby Tate. Los temas esenciales, todos en una lista.",
+  "num_followers": 4270,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDkwZDBhODYzOTZhYjcwODU5MWExNDJmOGI2YjhjZTNk",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDVhODQ2OTZkZDdlY2Y0OTc4MzJlOTlmZTFiNmNhMzg0",
   "tracks": [
     {
       "added_at": null,
@@ -587,6 +587,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Picky (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/67G5PaoGn8tGMLQLrq9Cab"
+      },
+      "artists": [
+        {
+          "name": "Leaf",
+          "url": "https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 159402,
+      "name": "Picky (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "2000AND4EVA",
         "url": "https://open.spotify.com/album/4lmOcEBG9fJjc6UeMbttVt"
       },
@@ -691,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Eenie Meenie",
+        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 142175,
+      "name": "Eenie Meenie",
+      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "oOo that's my type (feat. Yung Baby Tate)",
         "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
       },
@@ -707,22 +743,6 @@
       "duration_ms": 161595,
       "name": "oOo that's my type (feat. Yung Baby Tate)",
       "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eenie Meenie",
-        "url": "https://open.spotify.com/album/1RjmHClvXOvgOFXIiqGb4l"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 142175,
-      "name": "Eenie Meenie",
-      "url": "https://open.spotify.com/track/7cZVHLMtivlPLHQgqQCGxZ"
     },
     {
       "added_at": null,
@@ -747,30 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRLS Deluxe",
-        "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        },
-        {
-          "name": "Queen Key",
-          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
-        },
-        {
-          "name": "Asian Doll",
-          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
-        }
-      ],
-      "duration_ms": 262832,
-      "name": "Mean Girl (feat. Queen Key & Asian Doll)",
-      "url": "https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mani/Pedi",
         "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
@@ -791,22 +787,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Picky (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/67G5PaoGn8tGMLQLrq9Cab"
+        "name": "GIRLS Deluxe",
+        "url": "https://open.spotify.com/album/1Qj0GLSG3jwLnwDP36nDkZ"
       },
       "artists": [
         {
-          "name": "Leaf",
-          "url": "https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l"
-        },
-        {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        },
+        {
+          "name": "Queen Key",
+          "url": "https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR"
+        },
+        {
+          "name": "Asian Doll",
+          "url": "https://open.spotify.com/artist/4guK7U9J36z76E1tWecJ0J"
         }
       ],
-      "duration_ms": 159402,
-      "name": "Picky (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0"
+      "duration_ms": 262832,
+      "name": "Mean Girl (feat. Queen Key & Asian Doll)",
+      "url": "https://open.spotify.com/track/61HXix5FqC7fuqty8sQJ0r"
     },
     {
       "added_at": null,
@@ -879,6 +879,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Muthaland",
+        "url": "https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m"
+      },
+      "artists": [
+        {
+          "name": "BbyMutha",
+          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 134735,
+      "name": "Nice Guy",
+      "url": "https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kim (with Baby Tate)",
+        "url": "https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk"
+      },
+      "artists": [
+        {
+          "name": "Tkay Maidza",
+          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "Kim (with Baby Tate)",
+      "url": "https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "After The Rain: Deluxe",
         "url": "https://open.spotify.com/album/6GOBCr97vW3rl3Nea3H6Pe"
       },
@@ -911,42 +951,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kim (with Baby Tate)",
-        "url": "https://open.spotify.com/album/7y4zc23S1ar6YUNEn56iOk"
+        "name": "Watch This!",
+        "url": "https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL"
       },
       "artists": [
         {
-          "name": "Tkay Maidza",
-          "url": "https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK"
+          "name": "Jean Deaux",
+          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 158740,
-      "name": "Kim (with Baby Tate)",
-      "url": "https://open.spotify.com/track/7ctUZZrE8nIerrGeC52Vkt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Muthaland",
-        "url": "https://open.spotify.com/album/6TXwuaX600F8N3s6Rpq04m"
-      },
-      "artists": [
-        {
-          "name": "BbyMutha",
-          "url": "https://open.spotify.com/artist/21C9Dbg9CD3Dv8NaD7iW8e"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 134735,
-      "name": "Nice Guy",
-      "url": "https://open.spotify.com/track/5cThMoFV6XK0xCqEcNg6Jw"
+      "duration_ms": 124785,
+      "name": "Flick! (Stacey) (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt"
     },
     {
       "added_at": null,
@@ -971,22 +991,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watch This!",
-        "url": "https://open.spotify.com/album/4Vu0PtnR4eyViFmKZNpJqL"
+        "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
+        "url": "https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK"
       },
       "artists": [
-        {
-          "name": "Jean Deaux",
-          "url": "https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 124785,
-      "name": "Flick! (Stacey) (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/1I0etEWpAifqN3Ceq1ZMYt"
+      "duration_ms": 66240,
+      "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
+      "url": "https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR"
     },
     {
       "added_at": null,
@@ -1007,22 +1023,6 @@
       "duration_ms": 209577,
       "name": "Dirty Girl (with Baby Tate)",
       "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
-        "url": "https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 66240,
-      "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
-      "url": "https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR"
     }
   ],
   "unique_name": "This Is Baby Tate",

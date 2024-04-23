@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Marshmello, SVDDEN DEATH & Crown The Empire \\m/",
-  "num_followers": 326173,
+  "num_followers": 326152,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -1823,26 +1823,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Brunt",
-        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
-      },
-      "artists": [
-        {
-          "name": "PhaseOne",
-          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
-        },
-        {
-          "name": "Nosphere",
-          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
-        }
-      ],
-      "duration_ms": 205241,
-      "name": "Brunt",
-      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Catastrophists EP",
         "url": "https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr"
       },
@@ -1863,6 +1843,26 @@
       "duration_ms": 251707,
       "name": "Lightning Over Mexico",
       "url": "https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Brunt",
+        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
+      },
+      "artists": [
+        {
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
+        },
+        {
+          "name": "Nosphere",
+          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
+        }
+      ],
+      "duration_ms": 205241,
+      "name": "Brunt",
+      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2467,6 +2467,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Cute Without The E (Ziri)",
         "url": "https://open.spotify.com/album/11oBNhmgFJzk7QGa4LraT0"
       },
@@ -2483,22 +2499,6 @@
       "duration_ms": 202105,
       "name": "Cute Without The E (Ziri)",
       "url": "https://open.spotify.com/track/4c840ZcqSo23gsv6tBdbar"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2024-04-19 04:00:00",

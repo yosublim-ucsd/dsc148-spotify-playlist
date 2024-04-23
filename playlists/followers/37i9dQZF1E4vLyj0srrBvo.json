@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 25498,
+  "2024-04-23": 25513,
   "date_first_scraped": "2020-10-16",
   "description": "With FKA twigs, Crystal Castles, Purity Ring and more",
   "name": "Grimes Radio",
@@ -825,7 +825,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 257147,
       "name": "After Dark",
       "url": "https://open.spotify.com/track/5FkJHVudUByVjanCqFXRql"
@@ -2225,7 +2225,7 @@
       ],
       "date_added": "2022-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 155685,
       "name": "Avi",
       "url": "https://open.spotify.com/track/6xdqkwSlDw4lGMwZsDU8rQ"
@@ -2741,7 +2741,7 @@
       ],
       "date_added": "2021-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 260413,
       "name": "Be a Body",
       "url": "https://open.spotify.com/track/6U47ju8uwyUcQHRI9pid3G"
@@ -3873,7 +3873,7 @@
       ],
       "date_added": "2023-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 227160,
       "name": "Black Out Days",
       "url": "https://open.spotify.com/track/6xWIuPEnPIODp4dCRsAd5I"
@@ -6407,7 +6407,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 239706,
       "name": "Colour of Moonlight (Antiochus)",
       "url": "https://open.spotify.com/track/3Kl512JPDDX8XsjagpNxlo"
@@ -7969,7 +7969,7 @@
       ],
       "date_added": "2021-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 270138,
       "name": "Devon",
       "url": "https://open.spotify.com/track/5AJkfdLjAFEKgJFDA5jYo2"
@@ -21972,6 +21972,24 @@
     },
     {
       "album": {
+        "name": "Art Angels",
+        "url": "https://open.spotify.com/album/1t9k2P4C88alWEikeJb4mI"
+      },
+      "artists": [
+        {
+          "name": "Grimes",
+          "url": "https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212440,
+      "name": "Pin",
+      "url": "https://open.spotify.com/track/76g1dbRCF8OAC0gtBOjq8j"
+    },
+    {
+      "album": {
         "name": "Once Twice Melody",
         "url": "https://open.spotify.com/album/4uGklcCyzOko2IOYtMzUNg"
       },
@@ -23389,7 +23407,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 306533,
       "name": "Realiti",
       "url": "https://open.spotify.com/track/7gylDRTKkPXrLwWyyBUNsz"
@@ -23617,7 +23635,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 258969,
       "name": "Ribs",
       "url": "https://open.spotify.com/track/38WyDtxZhxm63jiythwemE"
@@ -24777,7 +24795,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-15",
+      "date_removed": null,
       "duration_ms": 277866,
       "name": "Seventeen",
       "url": "https://open.spotify.com/track/7qHMaeWBGykUXtoMQLkIC4"
@@ -27785,7 +27803,7 @@
       ],
       "date_added": "2021-02-18",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-25",
+      "date_removed": null,
       "duration_ms": 292506,
       "name": "Symphonia IX (My Wait Is U)",
       "url": "https://open.spotify.com/track/76iqrqfj4k7Igq2WoKuTlS"
@@ -31017,7 +31035,7 @@
       ],
       "date_added": "2020-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 335289,
       "name": "We Appreciate Power",
       "url": "https://open.spotify.com/track/46cWr45cjDcXEQpkYp9jFT"

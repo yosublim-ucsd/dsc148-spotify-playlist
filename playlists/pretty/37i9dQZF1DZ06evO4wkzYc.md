@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 
 > This is Edicion Especial\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,373 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,492 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 35 | [Fuentes De Ortiz](https://open.spotify.com/track/3C1ew8imuOUAMc6JEL5EO1) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Fuentes De Ortiz](https://open.spotify.com/album/2BqFybANgMFE2Tm1tBOSKS) | 3:52 |
 | 36 | [Nestor \(El Nini\)](https://open.spotify.com/track/2whI3QJ3Slu3lv1Xnm5V3H) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:49 |
 | 37 | [El Proveedor](https://open.spotify.com/track/3AVEHsmsDr6MuGLRZS8Pev) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Proveedor](https://open.spotify.com/album/7jOpehP0DGSfoG5314Im7v) | 3:51 |
-| 38 | [El Pocho \- En Vivo](https://open.spotify.com/track/4ggSfStfqtdh0eifmjmnIf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/1dygfh3ka5qJvULv4iebxO) | 2:48 |
-| 39 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 |
+| 38 | [Andar Conmigo](https://open.spotify.com/track/77LbleaiKaiviCOD6QiAOc) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 4:07 |
+| 39 | [El Pocho \- En Vivo](https://open.spotify.com/track/4ggSfStfqtdh0eifmjmnIf) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Pocho \(En Vivo\)](https://open.spotify.com/album/1dygfh3ka5qJvULv4iebxO) | 2:48 |
 | 40 | [Luna](https://open.spotify.com/track/2Na64BFiR2dNfvqbFdhixX) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Las Guardadas](https://open.spotify.com/album/5krSYt76Q8nbdrZNEArZD4) | 3:34 |
 | 41 | [El Robot](https://open.spotify.com/track/3GpAxhaS9Lc4WN3VeE1X4D) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 4:37 |
 | 42 | [Me Vuelve Loco](https://open.spotify.com/track/3QqjIX7MHwmip6AGbATwTU) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Rompecabezas](https://open.spotify.com/album/7gpdMTJfi6DTyrnXSIxFGf) | 3:52 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4wkzYc.md) - [plain]
 | 49 | [Ya Regresamos Al Ruedo \(Fernando Meza\) \- En Vivo](https://open.spotify.com/track/2HqODdSbWmoaoNZRCUPpuE) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Pa Que Amarre \(En Vivo\)](https://open.spotify.com/album/1gLP7AqIXc00rEWnAKE066) | 3:18 |
 | 50 | [El Mandado](https://open.spotify.com/track/64kqJ2pSMRLGdBcnNbeNpw) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Playball](https://open.spotify.com/album/19Yw9DlcLrityl7uXQDCpU) | 2:41 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDQ2MGE4YTAyZjhlNWQxZTg1Zjk1ZjVhMWI2ZTI0NmZm`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDNmYjcxMGM4OWJhZTdkYjIyNjliODQzMGNmMWI0MzBm`

@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 5135,
+  "2024-04-23": 5136,
   "date_first_scraped": "2021-12-28",
   "description": "Latin songs you love like you've never heard before. Cover: Natanael Cano",
   "name": "Spotify Singles: Latin",
@@ -111,7 +111,7 @@
       ],
       "date_added": "2022-11-16",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-24",
+      "date_removed": null,
       "duration_ms": 203319,
       "name": "Argumento - Spotify Singles",
       "url": "https://open.spotify.com/track/7mqKpp6FJBoE0jKkBfRFx2"
@@ -307,7 +307,7 @@
       ],
       "date_added": "2021-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 191546,
       "name": "Cobarde - Spotify Singles",
       "url": "https://open.spotify.com/track/1YrpPdjVU89FeCvSMsUYLr"

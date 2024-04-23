@@ -1,6 +1,6 @@
 {
   "description": "Buenas vibras para limpiar la casa! The best vibes to keep the house clean!",
-  "num_followers": 212857,
+  "num_followers": 212853,
   "original_name": "Cleaning Kit en Espa\u00f1ol",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Qu\u00e9date Beb\u00e9",
-        "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
-      },
-      "artists": [
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 193258,
-      "name": "Qu\u00e9date Beb\u00e9",
-      "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "DESPECH\u00c1",
         "url": "https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 157017,
       "name": "DESPECH\u00c1",
       "url": "https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Qu\u00e9date Beb\u00e9",
+        "url": "https://open.spotify.com/album/5IpeeI5aICYo606fLh24jG"
+      },
+      "artists": [
+        {
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
+        }
+      ],
+      "duration_ms": 193258,
+      "name": "Qu\u00e9date Beb\u00e9",
+      "url": "https://open.spotify.com/track/427yd0A6Tkq8p2RYP4NeVn"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 186280,
-      "name": "Se Muri\u00f3 De Amor",
-      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Mi Sangre",
         "url": "https://open.spotify.com/album/2HbvQeJXke68tjwOcsj8ne"
       },
@@ -639,22 +623,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Rompiendo Fronteras",
-        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
       },
       "artists": [
         {
-          "name": "Alejandro Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
-        },
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
         }
       ],
-      "duration_ms": 228146,
-      "name": "S\u00e9 Que Te Duele",
-      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
+      "duration_ms": 186280,
+      "name": "Se Muri\u00f3 De Amor",
+      "url": "https://open.spotify.com/track/5iuGn3RXvfvHIyIe8fyxBE"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -679,6 +659,26 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Rompiendo Fronteras",
+        "url": "https://open.spotify.com/album/48XvYOTsoGV3Juk0OY7PDp"
+      },
+      "artists": [
+        {
+          "name": "Alejandro Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/6sq1yF0OZEWA4xoXVKW1L9"
+        },
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 228146,
+      "name": "S\u00e9 Que Te Duele",
+      "url": "https://open.spotify.com/track/1OJkKHmXsZVKtWlECdpDAe"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Caraluna",
         "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
       },
@@ -691,6 +691,26 @@
       "duration_ms": 237386,
       "name": "Mi Primer Millon",
       "url": "https://open.spotify.com/track/5fSDXbY8o9pA3TKwAbfwML"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+      },
+      "artists": [
+        {
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Fotograf\u00eda",
+      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -711,22 +731,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Una Lluvia De Rosas",
-        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
-      },
-      "artists": [
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        }
-      ],
-      "duration_ms": 181306,
-      "name": "17 A\u00f1os",
-      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
       },
@@ -739,6 +743,22 @@
       "duration_ms": 226400,
       "name": "Ll\u00e9vame Contigo",
       "url": "https://open.spotify.com/track/0uLwWjN1KFO678WNJcZDkw"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Una Lluvia De Rosas",
+        "url": "https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv"
+      },
+      "artists": [
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        }
+      ],
+      "duration_ms": 181306,
+      "name": "17 A\u00f1os",
+      "url": "https://open.spotify.com/track/1Y372uxsCkKqNclj2ercap"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -779,26 +799,6 @@
       "duration_ms": 240706,
       "name": "Su Veneno",
       "url": "https://open.spotify.com/track/709hAukJxapqTU9VhsiQm0"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
-      },
-      "artists": [
-        {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Fotograf\u00eda",
-      "url": "https://open.spotify.com/track/0dEPlb8waIqRtKpLb3l6So"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -963,6 +963,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Pitbull Starring In Rebelution",
+        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
+      },
+      "artists": [
+        {
+          "name": "Pitbull",
+          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
+        }
+      ],
+      "duration_ms": 237120,
+      "name": "I Know You Want Me (Calle Ocho)",
+      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "Morfina (feat. Paloma Mami)",
         "url": "https://open.spotify.com/album/4ebIgeih3hq832lPORpKtp"
       },
@@ -979,22 +995,6 @@
       "duration_ms": 229474,
       "name": "Morfina (feat. Paloma Mami)",
       "url": "https://open.spotify.com/track/4PFTO7EacpZMyuTa5dZGml"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Pitbull Starring In Rebelution",
-        "url": "https://open.spotify.com/album/00zN65JStpVnpJn9ckMsQI"
-      },
-      "artists": [
-        {
-          "name": "Pitbull",
-          "url": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
-        }
-      ],
-      "duration_ms": 237120,
-      "name": "I Know You Want Me (Calle Ocho)",
-      "url": "https://open.spotify.com/track/5RzFJd6W40SDTyZkX6xx45"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1175,22 +1175,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Lo Mejor De...",
-        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
-      },
-      "artists": [
-        {
-          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
-          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
-        }
-      ],
-      "duration_ms": 207693,
-      "name": "Na Na Na (Dulce Ni\u00f1a)",
-      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -1207,22 +1191,18 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Existo",
-        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+        "name": "Lo Mejor De...",
+        "url": "https://open.spotify.com/album/5J1qxK7rxPeYi7wgQALes2"
       },
       "artists": [
         {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        },
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "A.B. Quintanilla III Y Los Kumbia Kings",
+          "url": "https://open.spotify.com/artist/6BMQo3hxi4qwLiZpHKK5iL"
         }
       ],
-      "duration_ms": 175355,
-      "name": "Existo",
-      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
+      "duration_ms": 207693,
+      "name": "Na Na Na (Dulce Ni\u00f1a)",
+      "url": "https://open.spotify.com/track/3o3eHNNF5HDU3I0Jg25SGD"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1243,6 +1223,26 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Existo",
+        "url": "https://open.spotify.com/album/0aBkLzScGffWKy1Gz0qHwJ"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 175355,
+      "name": "Existo",
+      "url": "https://open.spotify.com/track/7ITHQze4eUbzMRJyi40dLN"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "No Te Veo",
-        "url": "https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "No Te Veo - Digital Single",
-      "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Bailando por Ahi",
         "url": "https://open.spotify.com/album/5xmRspB1FQCAaEEBD9lJql"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 180453,
       "name": "Bailando por Ahi",
       "url": "https://open.spotify.com/track/0VamAmertqIxKM5axPSkCy"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "No Te Veo",
+        "url": "https://open.spotify.com/album/2gSW9jTCv7OZgx8JKlkyE7"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "No Te Veo - Digital Single",
+      "url": "https://open.spotify.com/track/40EDOraCqoiMf14TzODihf"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Barrio Bravo",
+        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
+      },
+      "artists": [
+        {
+          "name": "Celso Pi\u00f1a",
+          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
+        }
+      ],
+      "duration_ms": 342973,
+      "name": "Cumbia sobre el r\u00edo / Interludio",
+      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "El ataque de las chicas cocodrilo",
         "url": "https://open.spotify.com/album/5VrsIoeYTTupAlat4oNpak"
       },
@@ -1711,22 +1727,6 @@
       "duration_ms": 157833,
       "name": "El ataque de las chicas cocodrilo",
       "url": "https://open.spotify.com/track/4dy99PdH0CM3dbNUwJRoDw"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Barrio Bravo",
-        "url": "https://open.spotify.com/album/0ZCip2zkf5EGx7j4QeRRUD"
-      },
-      "artists": [
-        {
-          "name": "Celso Pi\u00f1a",
-          "url": "https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi"
-        }
-      ],
-      "duration_ms": 342973,
-      "name": "Cumbia sobre el r\u00edo / Interludio",
-      "url": "https://open.spotify.com/track/77wwKKYeNZnXZ8xChSiSxN"
     },
     {
       "added_at": "2024-03-15 04:00:00",

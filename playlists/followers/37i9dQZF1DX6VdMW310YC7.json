@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 3698732,
+  "2024-04-23": 3696746,
   "date_first_scraped": "2020-02-29",
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
   "name": "Chill Tracks",
@@ -3477,7 +3477,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 292275,
       "name": "Brave",
       "url": "https://open.spotify.com/track/4lHgV3SgQIDEgHXAdWbED4"
@@ -12895,6 +12895,28 @@
       "duration_ms": 138796,
       "name": "House Of The Rising Sun",
       "url": "https://open.spotify.com/track/4FIGor0hvkEyu8ZAnjWAe7"
+    },
+    {
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297803,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9"
     },
     {
       "album": {

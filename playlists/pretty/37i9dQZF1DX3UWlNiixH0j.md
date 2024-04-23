@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: カネコアヤノ \(Kaneko Ayano\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,658 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,675 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,28 +75,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 65 | [不屈に花](https://open.spotify.com/track/0YN5Tb3ui1yon2qSqDR4VM) | [jo0ji](https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk) | [475](https://open.spotify.com/album/2wQuSgcO8nbUhdfXQpd6Rn) | 3:17 |
 | 66 | [Twenty\-Twenty](https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [Twenty\-Twenty](https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP) | 4:02 |
 | 67 | [金星](https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [金星](https://open.spotify.com/album/3El28GIdiUaHziptKtw5d0) | 3:37 |
-| 68 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
+| 68 | [honestly](https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 2:59 |
 | 69 | [FLOOR IS MINE](https://open.spotify.com/track/1tbQ2lRPx8EvVhdaVbGSr3) | [Skaai](https://open.spotify.com/artist/4L05lOQs0iZSVhrnnqS66E), [BIM](https://open.spotify.com/artist/704gz1q9ieRxZfTkhPlZGG) | [FLOOR IS MINE](https://open.spotify.com/album/1rPPxH7QfAbPZytfQlt9A9) | 3:15 |
 | 70 | [今世紀最大の夢](https://open.spotify.com/track/7LoraRHT6Un4WbAoiBVtYV) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [今世紀最大の夢](https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua) | 5:10 |
 | 71 | [ですとらくしょん!!](https://open.spotify.com/track/54krDxm0tOxeZy36AKT3Bj) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [Chevon](https://open.spotify.com/album/5zpDo1cOOtnbzrRjKdCqA8) | 4:01 |
 | 72 | [もうけもん](https://open.spotify.com/track/2hMn9FYHmZtIFikDDHnoTn) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [もうけもん](https://open.spotify.com/album/3M4xYeC19rVjldE12l7UxF) | 1:58 |
 | 73 | [頬杖](https://open.spotify.com/track/10KGI1LYDOpg8chhDecyZG) | [Bialystocks](https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe) | [頬杖](https://open.spotify.com/album/1q8XpH5tIpbHg9jeVsDz5X) | 3:40 |
-| 74 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 |
+| 74 | [Factor](https://open.spotify.com/track/2KIj2vjdFaPUGSbwBga6G4) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 3:02 |
 | 75 | [ホムンクルス](https://open.spotify.com/track/7KYZQay4ok85FWx1e5SweU) | [Tele](https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf) | [ホムンクルス](https://open.spotify.com/album/6r0PC1UIkeOvYBUWO79ohw) | 3:23 |
-| 76 | [Factor](https://open.spotify.com/track/2KIj2vjdFaPUGSbwBga6G4) | [DJ RYOW](https://open.spotify.com/artist/1bmqi99UHMUsIQVZDx4dAn), [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [C.O.S.A.](https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p) | [DRIVE MY DREAMS](https://open.spotify.com/album/5FWp05PHX3UMevTppACZJ5) | 3:02 |
+| 76 | [バックミラー](https://open.spotify.com/track/4IR9jERbGJSHna9dbErOXQ) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [バックミラー](https://open.spotify.com/album/6CjRbmZievz0W5E2D5b7rc) | 3:29 |
 | 77 | [Your Favorite Things](https://open.spotify.com/track/1BChLfdJmv6rPKnZyTNOQ2) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Your Favorite Things](https://open.spotify.com/album/45w2uu1ElL5z9NCTJ9Sf8e) | 3:20 |
-| 78 | [honestly](https://open.spotify.com/track/7ntRuy1lDZsIXNeSNsuCkz) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 2:59 |
-| 79 | [Everyday](https://open.spotify.com/track/28DnHTmW8CP94r9gdrklrY) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Everyday](https://open.spotify.com/album/6ixXVAnvxRiOpufVVZc6wb) | 3:01 |
-| 80 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 |
+| 78 | [永遠のブルー](https://open.spotify.com/track/1MsgOy65pxeU7BZkDvqItH) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [永遠のブルー](https://open.spotify.com/album/467z72afv2XBxXxaXrVOfo) | 3:48 |
+| 79 | [ノックブーツ](https://open.spotify.com/track/0qgj1atPxj1ae6rG7VHS0M) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ノックブーツ](https://open.spotify.com/album/6adm4VVFTHqIF4qmKbcpOd) | 3:11 |
+| 80 | [Everyday](https://open.spotify.com/track/28DnHTmW8CP94r9gdrklrY) | [satomoka](https://open.spotify.com/artist/0yFTQM79Y12E6J6aOPRoZg) | [Everyday](https://open.spotify.com/album/6ixXVAnvxRiOpufVVZc6wb) | 3:01 |
 | 81 | [風の向きが変わって](https://open.spotify.com/track/1up7HNjeHsDrtzirzJT4Wt) | [MONO NO AWARE](https://open.spotify.com/artist/5vFyh7GL35ShoJWrXL9aUR) | [風の向きが変わって](https://open.spotify.com/album/16zd5CxZ5VzZKppocHWg2E) | 5:02 |
 | 82 | [maybe](https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [maybe](https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF) | 3:41 |
 | 83 | [あたしの全部を愛せない](https://open.spotify.com/track/4Lz2o8TYE2p39ZUJaFpsmk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [あたしの全部を愛せない](https://open.spotify.com/album/0OunnU4xFgcVZBbFZ61kHQ) | 3:18 |
 | 84 | [FAKE MOON](https://open.spotify.com/track/44O74u3HNTWVEebEGLAoOk) | [DURDN](https://open.spotify.com/artist/5u1MCRvQ3cA2Y9BpLSZIeg) | [FAKE MOON](https://open.spotify.com/album/049vN5HuMG3Yo6UYLYqD29) | 3:19 |
 | 85 | [Superman](https://open.spotify.com/track/3R0VkHQ4az4AhbZP2KHFfF) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Superman](https://open.spotify.com/album/6TNjfpFlH6GqH8ZIUp7ziV) | 3:29 |
-| 86 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 |
-| 87 | [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 |
+| 86 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 |
+| 87 | [PULSE](https://open.spotify.com/track/1E1220SmTWNZhmdEML5PL7) | [Kroi](https://open.spotify.com/artist/4S8J8Nct8lHsbzAeNJXcJa) | [MAGNET](https://open.spotify.com/album/7DBDfww3UEeui6kRnFSJpr) | 3:41 |
 | 88 | [Strangers In The Night](https://open.spotify.com/track/3GoiPlWtQO9m1iqxKorcrr) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [Strangers In The Night](https://open.spotify.com/album/55CO6FPOjzSeWBHdVz1wTv) | 3:55 |
-| 89 | [ダンス・デカダンス](https://open.spotify.com/track/3MuPlYnGnFXvQEeBvMy365) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [ダンス・デカダンス](https://open.spotify.com/album/3h5YMuHYruQ5w2t1KYhE37) | 3:14 |
+| 89 | [副都心](https://open.spotify.com/track/4WmBjNWriwtA7nV7jWiU4n) | [Gestalt Girl](https://open.spotify.com/artist/7gBefUcQxW9DQljFrjOFwL), [荒井岳史](https://open.spotify.com/artist/7grzhKqVws9ckPpZSWKqLw) | [副都心](https://open.spotify.com/album/0D7gVvwBF5aei9MZ4Vskhv) | 3:32 |
 | 90 | [ごみ溜めのバラード \- band](https://open.spotify.com/track/6EWqH6zaPCUTVvAA73RmKv) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [Super Legend](https://open.spotify.com/album/545HhduxVVC1BnSMa0cVLm) | 3:53 |
 | 91 | [that place is burning](https://open.spotify.com/track/79pgNxvDw79toohZTCOgOR) | [KID FRESINO](https://open.spotify.com/artist/01b6szRrEne55vkR4tVPHP), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [that place is burning](https://open.spotify.com/album/4f6Ex2xbmAJLAxkp8d39ea) | 5:35 |
 | 92 | [花様年華](https://open.spotify.com/track/4LkH4PpFcaTXLVsum4dGPm) | [CHO CO PA CO CHO CO QUIN QUIN](https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C) | [tradition](https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm) | 3:29 |

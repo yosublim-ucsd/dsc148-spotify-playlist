@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 124014,
+  "num_followers": 123992,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "My Ego Dies At The End",
-        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
-      },
-      "artists": [
-        {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
-        }
-      ],
-      "duration_ms": 242644,
-      "name": "My Ego Dies At The End",
-      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Guitar",
         "url": "https://open.spotify.com/album/11ZzI1n9cMMPkb3jA2gMBc"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 182000,
       "name": "Guitar",
       "url": "https://open.spotify.com/track/6XRquB9kB5WK4FHEF26FhY"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "My Ego Dies At The End",
+        "url": "https://open.spotify.com/album/5OBhCOu9PsEEcLldCbwDn8"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 242644,
+      "name": "My Ego Dies At The End",
+      "url": "https://open.spotify.com/track/7wWr0jb8Z1FZaEkb977AK0"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "GREY",
+        "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
+      },
+      "artists": [
+        {
+          "name": "Juke Ross",
+          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
+        }
+      ],
+      "duration_ms": 194066,
+      "name": "Morning Breeze",
+      "url": "https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "loml",
         "url": "https://open.spotify.com/album/0szj1LIFIQjDAxMJv8m1Zq"
       },
@@ -603,22 +619,6 @@
       "duration_ms": 201908,
       "name": "loml",
       "url": "https://open.spotify.com/track/2y8XtG31pTKikEHTkqbZFK"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "GREY",
-        "url": "https://open.spotify.com/album/4XsAw2dh8SAGjCSrdTpWiI"
-      },
-      "artists": [
-        {
-          "name": "Juke Ross",
-          "url": "https://open.spotify.com/artist/3mDo5Nv0SWpslJe9HzA2xY"
-        }
-      ],
-      "duration_ms": 194066,
-      "name": "Morning Breeze",
-      "url": "https://open.spotify.com/track/7iM7I3dbNQGC5xkxJMWwrv"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Celebrity Lookalikes",
-        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
+        "name": "Lost At Last Vol. 1",
+        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
       },
       "artists": [
         {
-          "name": "slimdan",
-          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
+          "name": "Langhorne Slim",
+          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
         }
       ],
-      "duration_ms": 212458,
-      "name": "Celebrity Lookalikes",
-      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
+      "duration_ms": 171413,
+      "name": "Life Is Confusing",
+      "url": "https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1207,18 +1207,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Lost At Last Vol. 1",
-        "url": "https://open.spotify.com/album/4XlvkGpGZ0wqf13YkHyrXd"
+        "name": "Celebrity Lookalikes",
+        "url": "https://open.spotify.com/album/7kr8yMXMcL6SPSZ7F8CYmu"
       },
       "artists": [
         {
-          "name": "Langhorne Slim",
-          "url": "https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy"
+          "name": "slimdan",
+          "url": "https://open.spotify.com/artist/4rBmgPisz2KuN6czxDpIcu"
         }
       ],
-      "duration_ms": 171413,
-      "name": "Life Is Confusing",
-      "url": "https://open.spotify.com/track/4sYjFmNN8Vv2Rjg8jhwrSX"
+      "duration_ms": 212458,
+      "name": "Celebrity Lookalikes",
+      "url": "https://open.spotify.com/track/37hpqDnpVrfRcJYab1XWFc"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "More Like You",
-        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
-      },
-      "artists": [
-        {
-          "name": "Orla Gartland",
-          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "More Like You",
-      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Open Your Heart",
         "url": "https://open.spotify.com/album/6XRsffXJqRWhRjTrymXmw2"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 224701,
       "name": "Open Your Heart",
       "url": "https://open.spotify.com/track/6TRJINYsux28IglskjOSRy"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "More Like You",
+        "url": "https://open.spotify.com/album/2zX0uZRqO9wEG6Wq79T5jw"
+      },
+      "artists": [
+        {
+          "name": "Orla Gartland",
+          "url": "https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "More Like You",
+      "url": "https://open.spotify.com/track/1UpFb9izAOYlcxWTOQzGf6"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "The Hating Game (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/46SxMCDnnCR3Qceso4Dga5"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 196606,
       "name": "Count On Me",
       "url": "https://open.spotify.com/track/5VLhD6BQRgXAtKCqlS1hMJ"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-02-23 16:54:41",

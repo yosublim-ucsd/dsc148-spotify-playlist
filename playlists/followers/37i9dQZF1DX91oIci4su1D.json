@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 815203,
+  "2024-04-23": 814759,
   "date_first_scraped": "2021-12-21",
   "description": "Setting sights on banging <a href=\"spotify:genre:0JQ5DAqbMKFFfBKlpu08ru\">trance and progressive</a>.",
   "name": "Trance Mission",
@@ -6593,7 +6593,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 191142,
       "name": "Global Consciousness",
       "url": "https://open.spotify.com/track/76vD1qLwRLakgAHrBAGcdT"
@@ -6777,6 +6777,28 @@
       "duration_ms": 259354,
       "name": "Good People",
       "url": "https://open.spotify.com/track/6GAwRYpIiawJwJ8T9JPfze"
+    },
+    {
+      "album": {
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4fknvi4roE6EO7E78FgoAG"
+      },
+      "artists": [
+        {
+          "name": "XiJaro & Pitch",
+          "url": "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        {
+          "name": "Adara",
+          "url": "https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0dxG3l2rku53SIQjTk8ms6"
     },
     {
       "album": {
@@ -6975,7 +6997,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 192000,
       "name": "Happier Than Now",
       "url": "https://open.spotify.com/track/2y8J80BwsxKggLzZeSeziX"
@@ -13442,6 +13464,28 @@
     },
     {
       "album": {
+        "name": "Rise Again",
+        "url": "https://open.spotify.com/album/0Qe9RKMZQi00h2UIdgBnoh"
+      },
+      "artists": [
+        {
+          "name": "Alexander Popov",
+          "url": "https://open.spotify.com/artist/4zNhfG6i4QlfUuzt1hBGu2"
+        },
+        {
+          "name": "Simon & Phil",
+          "url": "https://open.spotify.com/artist/7lv2ETc0piWDxN0uwfJJ05"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "Rise Again",
+      "url": "https://open.spotify.com/track/27a7ojdqMexeIDYIOOJapD"
+    },
+    {
+      "album": {
         "name": "Rising Hope",
         "url": "https://open.spotify.com/album/75g4Ldc9rWfj0HedXKzuxx"
       },
@@ -14131,7 +14175,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 415770,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/2Halo15IYV2GDEuKXICduF"
@@ -18829,7 +18873,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 225937,
       "name": "You Get Me",
       "url": "https://open.spotify.com/track/4swpBMR7chyLpb3sbCOnUC"

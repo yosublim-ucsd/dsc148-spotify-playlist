@@ -4,7 +4,7 @@
 
 > Get in the zone with these current jams!
 
-660 songs - 1 day 9 hr 50 min
+661 songs - 1 day 9 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2023-09-22 | 2024-04-19 |
 | [Flowers Need Rain](https://open.spotify.com/track/079mntueS2KWjxVqOHjG70) | [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5), [Banx & Ranx](https://open.spotify.com/artist/2uFC1dAj5b0YU7vulKNZ0p) | [Flowers Need Rain](https://open.spotify.com/album/5oybxVX6goJoWlZYvJYAGN) | 2:48 | 2022-05-26 | 2024-01-28 |
 | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/track/41aBRoaTTz9qq8UGIlykiZ) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu), [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK), [Enisa](https://open.spotify.com/artist/19mMHUyLK5uYyg9D14yJP6) | [Fool 4 U \(feat\. Enisa\)](https://open.spotify.com/album/0ClMJUgs13v8GUyc40tpqT) | 2:26 | 2023-05-12 | 2023-06-03 |
+| [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 | 2024-04-19 |  |
 | [For My Hand \(feat\. Ed Sheeran\)](https://open.spotify.com/track/0HaRLPnr887lcQM2YQzkff) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Love, Damini](https://open.spotify.com/album/6kgDkAupBVRSqbJPUaTJwQ) | 2:39 | 2022-07-15 |  |
 | [For Tonight](https://open.spotify.com/track/61Emqg95O9zo1GNOcyxq4Y) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [For Tonight](https://open.spotify.com/album/5cAd6WOG1zVNQ2KDCOLtuf) | 3:13 | 2021-12-17 | 2022-05-04 |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-04-16 |  |
@@ -340,7 +341,7 @@
 | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2022-06-24 |  |
 | [LEJOS DEL CIELO](https://open.spotify.com/track/39qtjJ454r2fgyXaenq8Wv) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LEJOS DEL CIELO](https://open.spotify.com/album/4144E5wmhkJZJX4UR3Hw5M) | 3:28 | 2022-11-11 | 2023-02-04 |
 | [Less Than Zero](https://open.spotify.com/track/2D4dV2KXDTszzJ3p3cFqhA) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:31 | 2022-01-07 | 2022-04-21 |
-| [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-04-19 |  |
+| [Lessons](https://open.spotify.com/track/5vCSjHa6tOvfr02DoBFwx9) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [I've told the trees everything](https://open.spotify.com/album/2KHOBUj9QsyV2U3OYlKNJw) | 3:01 | 2024-04-19 | 2024-04-23 |
 | [Let It Die](https://open.spotify.com/track/3Mpz9tU5tLEkYKDMUOi067) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Let It Die](https://open.spotify.com/album/4hlQ4k5nonfDppqRtpBP9p) | 2:46 | 2022-10-21 | 2023-02-17 |
 | [Let Me Down Easy \(Lie\)](https://open.spotify.com/track/4w9qnwPPJRWPOw6DHhNtIc) | [Why Don't We](https://open.spotify.com/artist/2jnIB6XdLvnJUeNTy5A0J2) | [Let Me Down Easy \(Lie\)](https://open.spotify.com/album/3jJZCkZWJxe7dbYTOqXuV2) | 2:31 | 2022-04-15 | 2022-05-14 |
 | [Life's Too Short](https://open.spotify.com/track/326yOKaTPs91elL1KW794F) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [FITZ](https://open.spotify.com/artist/7FgfVur1vT0yQyKIi0feNB) | [Life's Too Short](https://open.spotify.com/album/7y2ZooIMvgEpB51V3R2qCm) | 3:31 | 2021-12-17 | 2022-07-29 |

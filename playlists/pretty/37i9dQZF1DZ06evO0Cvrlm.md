@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,713 likes - 50 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 563,635 likes - 50 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 49 | [My Baby Just Cares for Me](https://open.spotify.com/track/6iu9Pko748wfZbn3COSZe3) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 1:45 |
 | 50 | [They Won't Go When I Go \- Remastered](https://open.spotify.com/track/1IiN25dDcmKq6ZHq2JxaQv) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 5:06 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDI0MmE5MDFhNTk1MTBjOGZlZmU0MDE3ZDIzZDQyMDIz`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDE5MGNkZGFmMTgwNDAyM2FhN2Y5YmNkOGU0ODc1NDIw`

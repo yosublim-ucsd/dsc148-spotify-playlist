@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 5112,
+  "2024-04-23": 5130,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most played tracks right now - Belarus.",
   "name": "Top 50 - Belarus",
@@ -39,7 +39,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 152857,
       "name": "52 & HAUNTED",
       "url": "https://open.spotify.com/track/4OWzUW3tkhBVwIwE5HLpfu"
@@ -407,7 +407,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 115348,
       "name": "FUNKED UP - SLOWED",
       "url": "https://open.spotify.com/track/4VL5XwfATZuAVTW471Wpro"
@@ -593,7 +593,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 182628,
       "name": "lux",
       "url": "https://open.spotify.com/track/04MiXeA0SSdcVHYSLz9yuZ"
@@ -1577,7 +1577,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 180323,
       "name": "\u041b\u0438\u0437\u0430",
       "url": "https://open.spotify.com/track/69E0PXED6MvClnqED4d7f5"

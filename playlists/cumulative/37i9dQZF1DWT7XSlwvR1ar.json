@@ -3303,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "Chronicles of a Diamond",
+        "url": "https://open.spotify.com/album/6dyoypKM3foYufyQWKN7dH"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232466,
+      "name": "Ice Cream (Pay Phone)",
+      "url": "https://open.spotify.com/track/2SmOrR5Pre5Drv3qr11f7t"
+    },
+    {
+      "album": {
         "name": "If Ever",
         "url": "https://open.spotify.com/album/0hWhMuCu6vFSHTJNH3BqqC"
       },
@@ -3340,7 +3358,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 193367,
       "name": "If Not My Heart",
       "url": "https://open.spotify.com/track/4I3EdEfNb4Rf0NJ3IQoAnG"
@@ -6990,7 +7008,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 282000,
       "name": "Twenty-Four (Tyler Joseph from Twenty One Pilots Version)",
       "url": "https://open.spotify.com/track/3KhUUinfojt0DbzvXwfxW8"
@@ -7604,6 +7622,24 @@
       "duration_ms": 221066,
       "name": "Worry No More",
       "url": "https://open.spotify.com/track/6Sf1IjXhbfTIYOHhaj5DG0"
+    },
+    {
+      "album": {
+        "name": "Dark Matter",
+        "url": "https://open.spotify.com/album/7MNrrItJpom6uMJWdT0XD8"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300487,
+      "name": "Wreckage",
+      "url": "https://open.spotify.com/track/083LM23MmqS8HTTYZQrYxG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Porque el barrio es el barrio y eso nadie lo va a cambiar 😎💃🏾🕺🏾
 
-220 songs - 13 hr 6 min
+221 songs - 13 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Espejeando](https://open.spotify.com/track/6mEp3WgXcjJw5yjG2C4GuH) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Amor Platónico](https://open.spotify.com/album/1RejCnEA2V94czIZo8uuhC) | 3:03 | 2023-02-23 | 2024-04-19 |
 | [Feliz Feliz](https://open.spotify.com/track/3ibR3fiO0okIyc0lCqULHX) | [Mi Banda El Mexicano](https://open.spotify.com/artist/0OhiQFSqbnnmB52NWEpsO5) | [Éxitos](https://open.spotify.com/album/1r1Uhfd4edrlfDDJaGCify) | 3:37 | 2023-02-23 |  |
 | [Fiesta](https://open.spotify.com/track/5I0HxQ5xorz04qWXHZBrEN) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [Ni Juana la Cubana](https://open.spotify.com/album/5MQwY3jZs6Nqqg2JwMGPGw) | 2:51 | 2023-02-23 | 2024-04-19 |
-| [Fiesta](https://open.spotify.com/track/2d2na9fb1qaC5Aj5CtKqsS) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [20 Éxitos Bailables](https://open.spotify.com/album/3hlwZKYlm2oKtviUzbYJ5i) | 2:52 | 2024-03-01 |  |
+| [Fiesta](https://open.spotify.com/track/2d2na9fb1qaC5Aj5CtKqsS) | [Rigo Dominguez Y Su Grupo Audaz](https://open.spotify.com/artist/0BV1VR5KuCQYes0I4XyZVr) | [20 Éxitos Bailables](https://open.spotify.com/album/3hlwZKYlm2oKtviUzbYJ5i) | 2:52 | 2024-03-01 | 2024-04-23 |
 | [Fuerte No Soy](https://open.spotify.com/track/7A07Yu1dRND3RKDzbhKrDs) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Contigo](https://open.spotify.com/album/2UlbB3uHQNJlaYYBB2ljm0) | 4:27 | 2023-02-23 |  |
 | [Guaracha Sabrosona](https://open.spotify.com/track/0p88CmD2dgRH9Y52unhHi3) | [Alberto Pedraza](https://open.spotify.com/artist/3TQh6LXI9ADgyZJTT19TeR) | [Guaracha Sabrosona](https://open.spotify.com/album/0UZNJ0LcKDFyozURk4DUKJ) | 3:39 | 2023-02-23 |  |
 | [Huapango Amor Ranchero](https://open.spotify.com/track/4h8xnS3HBT19lpOvOfctS5) | [La Humildad De La Musica Norteña](https://open.spotify.com/artist/0fMwbTSqDbGyg0QgpijRoE) | [Huapango Amor Ranchero](https://open.spotify.com/album/40EvvWuBGio70bkcFLk6Fl) | 3:19 | 2023-02-23 | 2024-03-02 |
@@ -150,6 +150,7 @@
 | [NO SE VA \- EN VIVO](https://open.spotify.com/track/76kelNDs1ojicx1s6Urvck) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [El Comienzo](https://open.spotify.com/album/5i9lMMUZ1QZNsLEE3j50kT) | 3:13 | 2023-02-23 | 2024-04-19 |
 | [No Te Contaron Mal](https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ahora](https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS) | 2:36 | 2023-02-23 | 2023-11-11 |
 | [Notas de Sociedad](https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Desde El Corazon](https://open.spotify.com/album/6f0iQNDK9xsmaWfiuhFUj5) | 2:53 | 2023-02-23 | 2024-04-19 |
+| [Notas de Sociedad](https://open.spotify.com/track/0qhgZsoLxI1FHo2W0i8WTw) | [Los Mier](https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ) | [Tesoros De Coleccion \- Hermanos Mier](https://open.spotify.com/album/2ulHbkYQr51FQmdZPNDbz4) | 2:54 | 2024-03-01 |  |
 | [Nuestra Pobreza](https://open.spotify.com/track/26ksJ520roTNYyCE8nz2bO) | [Joe Rodriguez Y Su Grupo Latino](https://open.spotify.com/artist/1zOOgnJnnxgZh6PzvsnlUU) | [Pídeme](https://open.spotify.com/album/3zNrb6P4PB5bnzwBmCRuDU) | 3:21 | 2024-03-01 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/0HlMshB5JmZjPNbOuOgFHN) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/1ezTrrYQHb4QAsjw7uHZwG) | 4:26 | 2024-03-01 |  |
 | [Nunca Es Suficiente](https://open.spotify.com/track/63USmok1OioBzKuWGW9wAg) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Esto Sí Es Cumbia](https://open.spotify.com/album/3m1T3n3PcjlOoo4GfLGgkY) | 4:26 | 2023-02-23 | 2024-04-19 |

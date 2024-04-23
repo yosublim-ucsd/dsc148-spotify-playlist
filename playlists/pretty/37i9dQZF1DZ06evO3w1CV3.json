@@ -1,12 +1,12 @@
 {
   "description": "This is Joy Crookes. The essential tracks, all in one playlist.",
-  "num_followers": 24302,
+  "num_followers": 24309,
   "original_name": "This Is Joy Crookes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDQ0OGFhYjc1OWQ0YWYzNjljZmFiNGFjZTY0N2NiYTE4",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDQwNjNiMTMwNjlmNmJlYmVlNGNhNTVjNzNkZjIzNTA2",
   "tracks": [
     {
       "added_at": null,
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 184015,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
+      "duration_ms": 211700,
+      "name": "Poison",
+      "url": "https://open.spotify.com/track/3yNLAcsyowTQ1GZUJUAXbH"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
         }
       ],
-      "duration_ms": 211700,
-      "name": "Poison",
-      "url": "https://open.spotify.com/track/3yNLAcsyowTQ1GZUJUAXbH"
+      "duration_ms": 184015,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/3JqthBGrJH1BeV76QAq9BD"
     },
     {
       "added_at": null,

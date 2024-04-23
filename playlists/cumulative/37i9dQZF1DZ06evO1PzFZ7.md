@@ -2,7 +2,7 @@
 
 ### [This Is Ángela Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PzFZ7)
 
-> This is Ángela Aguilar\. The essential tracks, all in one playlist.
+> This Is Ángela Aguilar\. Los temas esenciales, todos en una lista.
 
 111 songs - 6 hr 40 min
 
@@ -54,7 +54,7 @@
 | [La Chancla](https://open.spotify.com/track/5hqx9HaZGTwuxj1HdLt15E) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Nueva Tradición](https://open.spotify.com/album/45Y30ZaXQ7tn4SZfZFRPOb) | 3:33 | 2024-01-01 |  |
 | [La Chancla / el Chivo / Puño de Tierra \(En Vivo\)](https://open.spotify.com/track/4ykmzBnsAlWN06gSCraH3t) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [MTV Unplugged \(En Vivo\)](https://open.spotify.com/album/3I6aJW1b2g32eDirOF0hON) | 7:42 | 2024-01-06 |  |
 | [La Chancla, el Chivo, Puño de Tierra](https://open.spotify.com/track/61Bjgk8Vrb3hY5MPcZj7FO) | [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [MTV Unplugged](https://open.spotify.com/album/0Oj8WUcWlQCS6CSJEAjaob) | 7:42 | 2023-03-10 | 2024-01-07 |
-| [La Charreada](https://open.spotify.com/track/0fG5R5B8KoJdjLSPqGgulu) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Celebrando a México](https://open.spotify.com/album/3a5j5YSrPqw9PMkW0hLGy0) | 2:41 | 2023-09-18 |  |
+| [La Charreada](https://open.spotify.com/track/0fG5R5B8KoJdjLSPqGgulu) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Celebrando a México](https://open.spotify.com/album/3a5j5YSrPqw9PMkW0hLGy0) | 2:41 | 2023-09-18 | 2024-04-23 |
 | [La Llorona](https://open.spotify.com/track/7L3borCR5Izc7zJjFpjjhh) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Primero Soy Mexicana](https://open.spotify.com/album/5OoN6koPuuOLo9xRuF6gXh) | 8:10 | 2023-03-10 | 2024-01-08 |
 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 | 2024-01-07 |  |
 | [La Malagueña](https://open.spotify.com/track/4ArF0aaOlk4K7VAjOVaQgq) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 5:24 | 2024-01-05 |  |
@@ -97,7 +97,7 @@
 | [Qué Agonía](https://open.spotify.com/track/5WEt9MiZPNmCbhu8GOR9Kk) | [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía](https://open.spotify.com/album/5OhmDEdu6pM2rTLOpOAk4v) | 2:32 | 2023-03-10 | 2023-05-19 |
 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 | 2023-06-24 |  |
 | [Rayando el Sol](https://open.spotify.com/track/3SNCoeOOJHbyhvGT2aGfji) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/11TUtenhdCYRiv1xEQxaZl) | 3:27 | 2023-03-10 | 2024-01-07 |
-| [Rayando el Sol](https://open.spotify.com/track/5fQaUabTHuTq8EIrpudwnb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 3:27 | 2024-01-06 | 2024-03-13 |
+| [Rayando el Sol](https://open.spotify.com/track/5fQaUabTHuTq8EIrpudwnb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 3:27 | 2024-01-06 |  |
 | [Se Disfrazó](https://open.spotify.com/track/35vWB9Yj2WwxpuI2WceZ38) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/6mkOolBljGoPHJAvsI7deX) | 3:26 | 2023-03-10 | 2024-01-07 |
 | [Se Disfrazó](https://open.spotify.com/track/369tzGKeCGugQApIbeKFuW) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:26 | 2024-01-06 |  |
 | [Si una Vez](https://open.spotify.com/track/4FA7IjDMarat0OWXMuH0AC) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/6MpiAS4mk0S7WRTX0l98z3) | 2:48 | 2023-03-10 | 2024-01-06 |

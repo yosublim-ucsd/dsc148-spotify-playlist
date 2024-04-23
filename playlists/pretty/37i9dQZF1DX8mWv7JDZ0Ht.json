@@ -1,6 +1,6 @@
 {
   "description": "Novidades do pop nacional pra te deixar mais leve! Foto: GUPE, Gabriel Elias",
-  "num_followers": 433867,
+  "num_followers": 433708,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -67,22 +67,6 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "Neste Contexto",
-        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
-      },
-      "artists": [
-        {
-          "name": "Jovem Dionisio",
-          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
-        }
-      ],
-      "duration_ms": 182757,
-      "name": "Neste Contexto",
-      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
-    },
-    {
-      "added_at": "2024-04-19 18:08:09",
-      "album": {
         "name": "Flora - EP",
         "url": "https://open.spotify.com/album/0SQlu42O4zvJbbEolJHTC3"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 158000,
       "name": "Vem conversar",
       "url": "https://open.spotify.com/track/7BWj4bLH3ppKNGH9rncZWT"
+    },
+    {
+      "added_at": "2024-04-19 18:08:09",
+      "album": {
+        "name": "Neste Contexto",
+        "url": "https://open.spotify.com/album/5ajFZehsAgL2sYI3bav9EE"
+      },
+      "artists": [
+        {
+          "name": "Jovem Dionisio",
+          "url": "https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ"
+        }
+      ],
+      "duration_ms": 182757,
+      "name": "Neste Contexto",
+      "url": "https://open.spotify.com/track/4WS6S4uWBa4WLsRSvdqGrL"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -339,18 +339,18 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "Caf\u00e9",
-        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
+        "name": "Cear\u00e1",
+        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
       },
       "artists": [
         {
-          "name": "Stefano",
-          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
         }
       ],
-      "duration_ms": 218604,
-      "name": "Caf\u00e9",
-      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
+      "duration_ms": 132636,
+      "name": "Cear\u00e1",
+      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -371,18 +371,34 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "Cear\u00e1",
-        "url": "https://open.spotify.com/album/37Os4CH6bRBrT6BkZtMWmx"
+        "name": "Caf\u00e9",
+        "url": "https://open.spotify.com/album/5exniSTn2LGUbnFHkTnLHL"
       },
       "artists": [
         {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+          "name": "Stefano",
+          "url": "https://open.spotify.com/artist/2Bao7Lz3ywa0lvgpwRmAVT"
         }
       ],
-      "duration_ms": 132636,
-      "name": "Cear\u00e1",
-      "url": "https://open.spotify.com/track/4und8X5ZjsDoFJMUyQoZX6"
+      "duration_ms": 218604,
+      "name": "Caf\u00e9",
+      "url": "https://open.spotify.com/track/2VgA9S2cBOCsxo9JhTa5Ub"
+    },
+    {
+      "added_at": "2024-04-19 18:08:09",
+      "album": {
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/6IpeEAsup8HxzCIKlvnh5B"
+      },
+      "artists": [
+        {
+          "name": "Suhai",
+          "url": "https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR"
+        }
+      ],
+      "duration_ms": 160875,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/7AkXdni6wENxnSE9kWG768"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -403,22 +419,6 @@
       "duration_ms": 155600,
       "name": "Deixa Acender",
       "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
-    },
-    {
-      "added_at": "2024-04-19 18:08:09",
-      "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/6IpeEAsup8HxzCIKlvnh5B"
-      },
-      "artists": [
-        {
-          "name": "Suhai",
-          "url": "https://open.spotify.com/artist/7qxYJsbJ6l2IgZbJyr1XBR"
-        }
-      ],
-      "duration_ms": 160875,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/7AkXdni6wENxnSE9kWG768"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -683,22 +683,6 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "Quando isso vai passar?",
-        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 156466,
-      "name": "Quando isso vai passar?",
-      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
-    },
-    {
-      "added_at": "2024-04-19 18:08:09",
-      "album": {
         "name": "a trilha do carro dos meus pais (ac\u00fastico)",
         "url": "https://open.spotify.com/album/7jWkv494WDk7XCktW82BDM"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 144000,
       "name": "n\u00e3o sei dan\u00e7ar (ac\u00fastico)",
       "url": "https://open.spotify.com/track/53CWA2RbGgDD9uwUBFRjW4"
+    },
+    {
+      "added_at": "2024-04-19 18:08:09",
+      "album": {
+        "name": "Quando isso vai passar?",
+        "url": "https://open.spotify.com/album/66jTl9rLZaXN0yMH4j6biH"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 156466,
+      "name": "Quando isso vai passar?",
+      "url": "https://open.spotify.com/track/2ydOTMH0LViI8b9tRp1WOp"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -755,6 +755,22 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
+        "name": "M\u00edstica",
+        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 216154,
+      "name": "M\u00edstica",
+      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
+    },
+    {
+      "added_at": "2024-04-19 18:08:09",
+      "album": {
         "name": "Montanha Russa",
         "url": "https://open.spotify.com/album/0FsbGXA20E9n6gGghVuiXp"
       },
@@ -767,30 +783,6 @@
       "duration_ms": 170965,
       "name": "Montanha Russa",
       "url": "https://open.spotify.com/track/4IsMyrJ3fRhSoh1BVfec4a"
-    },
-    {
-      "added_at": "2024-04-19 18:08:09",
-      "album": {
-        "name": "Pecadinho",
-        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
-      },
-      "artists": [
-        {
-          "name": "Liza Lou",
-          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        },
-        {
-          "name": "Duda Brack",
-          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "Pecadinho",
-      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -815,18 +807,26 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "M\u00edstica",
-        "url": "https://open.spotify.com/album/4rXXHodNhHE97z1XoO8rzI"
+        "name": "Pecadinho",
+        "url": "https://open.spotify.com/album/5eEjkPXz861G8vEbKUvs83"
       },
       "artists": [
         {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+          "name": "Liza Lou",
+          "url": "https://open.spotify.com/artist/1cJ8ZMi37OSQUMRbqWGKu2"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
+        },
+        {
+          "name": "Duda Brack",
+          "url": "https://open.spotify.com/artist/3AII51apacF3JYTW4qZRab"
         }
       ],
-      "duration_ms": 216154,
-      "name": "M\u00edstica",
-      "url": "https://open.spotify.com/track/2ELzrSFShJep9kd20V3SAQ"
+      "duration_ms": 126000,
+      "name": "Pecadinho",
+      "url": "https://open.spotify.com/track/12NSz6DgkBEvZIZAb4wQuU"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "Tudo Vai Ser Como Deve Ser",
-        "url": "https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        }
-      ],
-      "duration_ms": 174339,
-      "name": "Tudo Vai Ser Como Deve Ser",
-      "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
-    },
-    {
-      "added_at": "2024-04-19 18:08:09",
-      "album": {
         "name": "o futuro j\u00e1 est\u00e1 acontecendo",
         "url": "https://open.spotify.com/album/3sksOMEsFfAjf83Zz9HGLj"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 290502,
       "name": "Teu Ch\u00e1",
       "url": "https://open.spotify.com/track/0LKDqjA1o6o8voEEvz2fJH"
+    },
+    {
+      "added_at": "2024-04-19 18:08:09",
+      "album": {
+        "name": "Tudo Vai Ser Como Deve Ser",
+        "url": "https://open.spotify.com/album/28bYnQhOKBgA6NFngPPqPJ"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        }
+      ],
+      "duration_ms": 174339,
+      "name": "Tudo Vai Ser Como Deve Ser",
+      "url": "https://open.spotify.com/track/6UVvpnthUpkYT7dQu3oJbQ"
     },
     {
       "added_at": "2024-04-19 18:08:09",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "No Azul do Teu Olhar",
-        "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
-        }
-      ],
-      "duration_ms": 201792,
-      "name": "No Azul do Teu Olhar",
-      "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
-    },
-    {
-      "added_at": "2024-04-19 18:08:09",
-      "album": {
         "name": "V\u00e1rios Tipos de Amor",
         "url": "https://open.spotify.com/album/5HoZBDPdcsGtBFjjIvCy3J"
       },
@@ -1343,22 +1323,6 @@
     {
       "added_at": "2024-04-19 18:08:09",
       "album": {
-        "name": "J\u00e1 Te Falei",
-        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 205540,
-      "name": "J\u00e1 Te Falei",
-      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
-    },
-    {
-      "added_at": "2024-04-19 18:08:09",
-      "album": {
         "name": "Espiral",
         "url": "https://open.spotify.com/album/31c2DFsGxwU9A4eGKQ98aH"
       },
@@ -1371,6 +1335,42 @@
       "duration_ms": 205781,
       "name": "Telepatia",
       "url": "https://open.spotify.com/track/5qQakX292WkdKg4N4e9JHE"
+    },
+    {
+      "added_at": "2024-04-19 18:08:09",
+      "album": {
+        "name": "No Azul do Teu Olhar",
+        "url": "https://open.spotify.com/album/4e26MuGPtaW04apoRiYkmd"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
+        }
+      ],
+      "duration_ms": 201792,
+      "name": "No Azul do Teu Olhar",
+      "url": "https://open.spotify.com/track/1usi76vEIYhyu9a7Dniqs0"
+    },
+    {
+      "added_at": "2024-04-19 18:08:09",
+      "album": {
+        "name": "J\u00e1 Te Falei",
+        "url": "https://open.spotify.com/album/1zPJT1T0GT17RKdtAefWd8"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 205540,
+      "name": "J\u00e1 Te Falei",
+      "url": "https://open.spotify.com/track/5IyNzftggTwpT2VGTIphRs"
     },
     {
       "added_at": "2024-04-19 18:08:09",

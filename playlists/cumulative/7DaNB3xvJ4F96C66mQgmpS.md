@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/7DaNB3xvJ4F96C66mQgmpS.md) - cumulative - [plain](/playlists/plain/7DaNB3xvJ4F96C66mQgmpS) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/7DaNB3xvJ4F96C66mQgmpS)
 
-### [Workout Bangers](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
+### [Hip Hop Workout Bangers ](https://open.spotify.com/playlist/7DaNB3xvJ4F96C66mQgmpS)
 
 > Hip Hop workout hits to get your mental right and blood pumping\. Soundtrack your workout with heavy\-hitting bangers from Offset, Travis Scott, Drake and more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Hip Hop Workout \| Rap Bangers \| Rap Workout
 

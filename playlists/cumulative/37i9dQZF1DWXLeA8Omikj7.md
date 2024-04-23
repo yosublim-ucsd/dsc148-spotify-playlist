@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:space:electronica\_chill">Hypnotic electronic</a> for studies and a relax.
 
-937 songs - 2 day 19 hr 14 min
+938 songs - 2 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -457,7 +457,7 @@
 | [Leaving](https://open.spotify.com/track/67zRyxMsahqZKFBZ65Dbje) | [Murtagh](https://open.spotify.com/artist/4cpTlyZCR7ed2g4WG8gUDf) | [Rush / Leaving](https://open.spotify.com/album/5mChkbJAUSBmR9eep9TWV0) | 4:25 | 2020-01-18 |  |
 | [Leaving Earth](https://open.spotify.com/track/5TiJIieCsjUMFbQJiYUOwH) | [Seven Lions](https://open.spotify.com/artist/6fcTRFpz0yH79qSKfof7lp) | [Creation](https://open.spotify.com/album/759sclnD3ycdQqfjMpmnl4) | 7:06 | 2019-05-26\* | 2020-06-12 |
 | [Leaving Earth 2](https://open.spotify.com/track/0u74chsSgmcIyhhOqTrEyV) | [Medasin](https://open.spotify.com/artist/62vbsDRAq0qHdezaCOzB0T) | [Irene](https://open.spotify.com/album/156TeTaPykSuBs9lh0h2vc) | 3:13 | 2019-06-19\* | 2022-04-21 |
-| [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 |  |
+| [Left Behind](https://open.spotify.com/track/0mkR9v0jfXU7uf7sednDbm) | [vesky](https://open.spotify.com/artist/2zIECsUpk7rCi0zhXBvF7L) | [Left Behind](https://open.spotify.com/album/0YIXc0vszubi1lt09JKRZb) | 2:31 | 2024-04-19 | 2024-04-23 |
 | [Leftovers](https://open.spotify.com/track/5KDcDThWtlOOcEncBmseAw) | [Akın Sevgör](https://open.spotify.com/artist/586eJg9tmYDLSahAhozZBo) | [Reveries](https://open.spotify.com/album/3lcsRejIVqC2ZzgohbS9X1) | 3:01 | 2024-04-19 |  |
 | [Let You](https://open.spotify.com/track/3mZUPucA0LcSKoZbLHRhyY) | [Autumn Glow](https://open.spotify.com/artist/4VlqUkFSCfcGj6CpDMPd0b) | [Let You](https://open.spotify.com/album/2KupnIXyKS0Mprddu9on23) | 3:26 | 2021-09-10 | 2022-07-29 |
 | [Let You In \(feat\. East Forest\)](https://open.spotify.com/track/2weK6bsvMtRaYWydEnMhfw) | [ANNA](https://open.spotify.com/artist/3wkaDi2HJV3eCaBJ4iH6om), [East Forest](https://open.spotify.com/artist/0okmfBroVgFuvvljnUbqPW) | [Let You In \(feat\. East Forest\)](https://open.spotify.com/album/5HxnTLT7UjQ2DQxtaYqG1T) | 5:56 | 2023-05-09 | 2023-05-27 |
@@ -929,6 +929,7 @@
 | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/track/0CFeLYd2oDWNFONwZSo65G) | [\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|\|](https://open.spotify.com/artist/2i9OpWjVeuDPilnZ0mgM1L) | [Why She Is Hiding in the Other Man's Eyes](https://open.spotify.com/album/3PGnyvLbxElUQ6wx30UBG0) | 5:04 | 2021-06-11 |  |
 | [wilhelm](https://open.spotify.com/track/1i7R2nENJySeUOTQTBpGlv) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx) | [Polar \(Music from the Netflix Film\)](https://open.spotify.com/album/3kAKiw0kRCuSXsTBWbBc9X) | 1:20 | 2019-06-19\* | 2020-10-22 |
 | [Wind Pose](https://open.spotify.com/track/3DJJolFxxcCpwAawEPCSUO) | [RRUCCULLA](https://open.spotify.com/artist/4DyRwqRYLu9youbREKFzNU) | [Wind Pose](https://open.spotify.com/album/2ky1n9HX5hO7NBrOfolcR3) | 4:20 | 2023-07-28 | 2023-08-23 |
+| [Wind Runner](https://open.spotify.com/track/6uobAqU4RKxlHkFJ7aH3XJ) | [Douran](https://open.spotify.com/artist/3Rvdn0CASBunaYXQHEKIoQ) | [Wind Runner](https://open.spotify.com/album/4yxndJO9vyjopsDlms5E2n) | 4:40 | 2024-04-19 |  |
 | [Wintergreen](https://open.spotify.com/track/7zf1xFJp2PuqM00hhsC3ax) | [Jon Hopkins](https://open.spotify.com/artist/7yxi31szvlbwvKq9dYOmFI) | [Wintergreen](https://open.spotify.com/album/5abZ6znESLYUw9nEhUveJa) | 3:44 | 2021-04-24 |  |
 | [With Every Intention Of](https://open.spotify.com/track/5v8U5p1tozSYYVCWuiKTVU) | [Matt Lange](https://open.spotify.com/artist/2AmHV6vxRxvHdlxSHxnHE9) | [Ephemera](https://open.spotify.com/album/5RO33soLTH62sQM38L3RxV) | 1:53 | 2019-06-21 | 2022-04-09 |
 | [Wonda](https://open.spotify.com/track/2QEpeCQjrNsx2czYpi955l) | [Vandrz](https://open.spotify.com/artist/39aL8sGmqpSVt5hgraIRhw) | [STROBE](https://open.spotify.com/album/2bSpW7nlrEzNUPERyU5fqX) | 2:45 | 2023-10-27 |  |

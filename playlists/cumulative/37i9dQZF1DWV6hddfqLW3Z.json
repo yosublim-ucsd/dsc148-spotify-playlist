@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "Real / Surreal (Deluxe)",
+        "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
+      },
+      "artists": [
+        {
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
+    },
+    {
+      "album": {
         "name": "COR",
         "url": "https://open.spotify.com/album/43Q8jiKg8whuFnVCwA1xOC"
       },
@@ -570,7 +588,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 212040,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio"

@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Laufey
 
-1,692 songs - 3 day 19 hr 7 min
+1,693 songs - 3 day 19 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -203,6 +203,7 @@
 | [Bruises](https://open.spotify.com/track/4Of7rzpRpV1mWRbhp5rAqG) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:40 | 2020-05-01 | 2020-07-31 |
 | [Brutal](https://open.spotify.com/track/5bRYA6MVHD4uioMc402Mow) | [Rainsford](https://open.spotify.com/artist/4XxCuxkBeoJUdzaVRGJjrJ), [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Brutal](https://open.spotify.com/album/3FxFEZQqhxLPadxejyLY6H) | 3:03 | 2022-01-28 | 2022-03-26 |
 | [Built For This](https://open.spotify.com/track/7vA2Np8N7Yu1KfTQ43oLwF) | [Nick Wilson](https://open.spotify.com/artist/09Z3wZ88af1pfyJxziESQF) | [Love and Heartache](https://open.spotify.com/album/1kIEcVx2bLpobnhKmY73pc) | 2:35 | 2020-10-01 | 2020-10-02 |
+| [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ), [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY) | 3:08 | 2024-04-22 |  |
 | [bulletproof](https://open.spotify.com/track/4V2bBjCOgiOSNtgrTZL0og) | [Jamie Fine](https://open.spotify.com/artist/4uwJ3NRArTb8VlKbuAFyFG) | [bulletproof](https://open.spotify.com/album/1hCiqZ2uyJT5fWd4pxWwx0) | 3:02 | 2024-03-08 | 2024-03-23 |
 | [Bump](https://open.spotify.com/track/4rsuE0qXgtKUCVV1dIQFYd) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [Bump](https://open.spotify.com/album/0BbQhd9LzpcdZJ5fn7WhaV) | 3:22 | 2022-09-16 | 2022-10-18 |
 | [Burn](https://open.spotify.com/track/5UgPFAG4Qj6eN3AMPKATgt) | [Adam Hender](https://open.spotify.com/artist/1SRK7jrNXfWU6cBoEXuOcB) | [SICK](https://open.spotify.com/album/2nE9SyLBu59x3WP0nJRMT8) | 3:42 | 2020-12-04 | 2021-03-19 |
@@ -1086,7 +1087,7 @@
 | [One More Fight](https://open.spotify.com/track/22wEmQr6UswAZZSwAs2kCx) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [ONE MORE FIGHT](https://open.spotify.com/album/11zF9l8ZnEWTfRrfzrNKMy) | 2:50 | 2021-06-12 | 2021-07-17 |
 | [One More I Love You](https://open.spotify.com/track/3v9IFz7EikDfXXfvPVfH6B) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [One More I Love You](https://open.spotify.com/album/547kCTKUHCy01Jc8WC5WxH) | 3:36 | 2021-06-12 | 2021-08-14 |
 | [One More Shot](https://open.spotify.com/track/54SXW7yYS36p8rOMFGmcoN) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot \(One Take Version\)](https://open.spotify.com/album/1mgYvDEkZoWqoNjnMU6QhI) | 2:21 | 2023-07-07 | 2024-04-19 |
-| [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-04-07 |  |
+| [One More Shot](https://open.spotify.com/track/79uXvsyNG97zMLLq4bloRa) | [CIL](https://open.spotify.com/artist/1bBo1QjmPP5CfMiEsxmZxU) | [One More Shot](https://open.spotify.com/album/1uKIVSfEfjC8OjoUueYZOT) | 2:21 | 2023-04-07 | 2024-04-23 |
 | [One Night](https://open.spotify.com/track/1U9Jp66F0x7IM3Gv09hoxq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [One Night](https://open.spotify.com/album/1XTaJZrlBJp1gUDfcMhTCA) | 2:47 | 2021-08-28 | 2021-10-02 |
 | [One Of Those Girls](https://open.spotify.com/track/3IShDHcEMEBfaF3G9yn6Hs) | [Noelle Johnson](https://open.spotify.com/artist/2V17eU6gWyvIWAMxuDMoUJ) | [One Of Those Girls](https://open.spotify.com/album/2H7CqxwvVflqcA2fkdQYIQ) | 2:32 | 2022-09-23 | 2022-10-15 |
 | [One Of Your Girls](https://open.spotify.com/track/1Fav4xZn60uGM3XmiHJmvT) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Something To Give Each Other](https://open.spotify.com/album/5PsQkSZdGgr9jnuSKzSi5s) | 3:01 | 2023-10-13 | 2024-04-13 |

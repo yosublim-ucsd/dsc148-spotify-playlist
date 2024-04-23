@@ -4,7 +4,7 @@
 
 > Un parque de diversiones para gustos inconformes y sofisticados\. Khruangbin en portada.
 
-204 songs - 12 hr 26 min
+205 songs - 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [Odyssey](https://open.spotify.com/track/2xMDqXTRJTcsBFECwwZhYz) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS), [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Odyssey](https://open.spotify.com/album/2qk0NP9lpVaZIjkIY5oUFO) | 3:46 | 2023-08-04 | 2024-01-13 |
 | [OMG](https://open.spotify.com/track/64pGB9FHgZsu60aNC3mK9s) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [OMG](https://open.spotify.com/album/2M1OnRJE8VwbcyGBlwT3yh) | 2:58 | 2024-01-12 |  |
 | [One Call, That's All](https://open.spotify.com/track/2tQ1tPYwG39Gv8LuRI5G0Z) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [One Call, That's All](https://open.spotify.com/album/5ReXJD50OcjSTQ9vwFy0ld) | 3:12 | 2024-01-26 | 2024-02-03 |
-| [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 | 2024-04-19 |  |
+| [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 | 2024-04-19 | 2024-04-23 |
 | [Oral](https://open.spotify.com/track/6VCNxAwxA83j2jE3QZpYPr) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r) | 3:42 | 2023-11-24 | 2024-01-18 |
 | [Oysters In My Pocket](https://open.spotify.com/track/2B664ulJSVBd6B8SAY3Wux) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Oysters In My Pocket](https://open.spotify.com/album/2tQ8dsmr0EpIJ5FFyUMQES) | 2:42 | 2023-08-04 |  |
 | [Paranoia Paradise](https://open.spotify.com/track/5zsCS1MsvNZCzurf2s7gqt) | [Last Dinosaurs](https://open.spotify.com/artist/677sHrkjhB7IP4YwjzZyc4), [Glaze](https://open.spotify.com/artist/5gLtTxcMc99WAeidxGaFxu) | [KYO](https://open.spotify.com/album/65CQU7YxtMcU1Jew3OA9R7) | 5:10 | 2024-04-05 | 2024-04-16 |
@@ -174,6 +174,7 @@
 | [Sonido Cósmico](https://open.spotify.com/track/55BCpfZp7sVgGBzBlGW5f0) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/2P8acwzPaluqWw2qvnmIN0) | 3:43 | 2024-03-05 |  |
 | [Spare Me The Decision \- Cutouts Remix](https://open.spotify.com/track/6ovMHhjpZZAeL1c9KMChXZ) | [Nation of Language](https://open.spotify.com/artist/5JWBow4ywgKNQ5HBxY8hcz), [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [Spare Me the Decision \(Cutouts Remix\)](https://open.spotify.com/album/4S6O2DQLLiPd1T9gqirP6P) | 5:01 | 2024-01-12 | 2024-01-27 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/0JX23XA8E7aN1Chj32kgVn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Cool It Down](https://open.spotify.com/album/7ug0WdvzC2sLXTrtHUwNsj) | 4:17 | 2023-08-04 | 2024-03-16 |
+| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-22 |  |
 | [Starstruck](https://open.spotify.com/track/6xfghae1MOkdMCf3xDCcxP) | [Busty and the Bass](https://open.spotify.com/artist/4XMc1qHObZ7aXQrH5MmbjK), [Jordan Brown](https://open.spotify.com/artist/4bp25HfiPZW8JLc4DUEhP6) | [Forever Never Cares](https://open.spotify.com/album/7pearr4dOjSf9cNDe5lHeL) | 3:47 | 2023-11-17 | 2023-11-25 |
 | [Stay For Something](https://open.spotify.com/track/5tEREzW79U8O3FIkrGyRNW) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Stay For Something](https://open.spotify.com/album/7FKbJ9vC8xVqDoD9OAPTBS) | 3:36 | 2023-09-15 | 2023-12-13 |
 | [Summer Crush](https://open.spotify.com/track/4r0s51MILHrL1kOn0zEIH9) | [Sexy Pigeon](https://open.spotify.com/artist/4gnQSPui3dzrkaFdf18P6U) | [Summer Crush](https://open.spotify.com/album/1oONppotlfdPDcG7DY91uc) | 2:02 | 2024-04-05 | 2024-04-16 |

@@ -1,6 +1,6 @@
 {
   "description": "Na m\u00fasica eletr\u00f4nica underground brasileira, nos vemos no front.",
-  "num_followers": 11403,
+  "num_followers": 11407,
   "original_name": "Front BR",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Kin Sharuba",
-        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
-      },
-      "artists": [
-        {
-          "name": "Carrot Green",
-          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
-        }
-      ],
-      "duration_ms": 469695,
-      "name": "Kin Sharuba",
-      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Flame of the Pine Cone",
         "url": "https://open.spotify.com/album/5qWaHba39117j2eCaKiHIW"
       },
@@ -531,22 +515,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "N\u00f3dulo",
-        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
-      },
-      "artists": [
-        {
-          "name": "Entropia-Entalpia",
-          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
-        }
-      ],
-      "duration_ms": 453333,
-      "name": "Sobre Tum Tum Ta",
-      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Feel Me",
         "url": "https://open.spotify.com/album/28dybAb1bHM81bMOIPM9QW"
       },
@@ -563,54 +531,18 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Nocturnal Fear",
-        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+        "name": "Kin Sharuba",
+        "url": "https://open.spotify.com/album/4Kz5eYBKdAIu8RzgMODvFi"
       },
       "artists": [
         {
-          "name": "RHR",
-          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+          "name": "Carrot Green",
+          "url": "https://open.spotify.com/artist/56LbkVrwiOOlCLoIPVeEhY"
         }
       ],
-      "duration_ms": 336400,
-      "name": "Colapso",
-      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Sem Sono",
-        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
-      },
-      "artists": [
-        {
-          "name": "Martinelli",
-          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
-        }
-      ],
-      "duration_ms": 337643,
-      "name": "Sem Sono",
-      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Corpo",
-        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
-      },
-      "artists": [
-        {
-          "name": "Gezender",
-          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
-        },
-        {
-          "name": "Linn da Quebrada",
-          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
-        }
-      ],
-      "duration_ms": 303161,
-      "name": "Corpo Fechado",
-      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
+      "duration_ms": 469695,
+      "name": "Kin Sharuba",
+      "url": "https://open.spotify.com/track/0zZeLc3JJ0sMuHy0MGPxS7"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -635,6 +567,58 @@
       "duration_ms": 420000,
       "name": "Ch\u00e1 de trombeta",
       "url": "https://open.spotify.com/track/1pw1Jq2XPSyQNgdz3xplV5"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Nocturnal Fear",
+        "url": "https://open.spotify.com/album/5SKJOj2pql5vvHUz2TYtmP"
+      },
+      "artists": [
+        {
+          "name": "RHR",
+          "url": "https://open.spotify.com/artist/2Q01XKiycTMJqmeGbGcxX6"
+        }
+      ],
+      "duration_ms": 336400,
+      "name": "Colapso",
+      "url": "https://open.spotify.com/track/0GnU3VwY3jlVvOIm8mSwPb"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Corpo",
+        "url": "https://open.spotify.com/album/3sRnGBAdriBmqGZH52snaz"
+      },
+      "artists": [
+        {
+          "name": "Gezender",
+          "url": "https://open.spotify.com/artist/1oNqcSKUrJbsXHri4XS31a"
+        },
+        {
+          "name": "Linn da Quebrada",
+          "url": "https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t"
+        }
+      ],
+      "duration_ms": 303161,
+      "name": "Corpo Fechado",
+      "url": "https://open.spotify.com/track/3JtseE56PXDVUvZUqwbx5K"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Sem Sono",
+        "url": "https://open.spotify.com/album/1nHAqV2yyqPui5o8v13T5t"
+      },
+      "artists": [
+        {
+          "name": "Martinelli",
+          "url": "https://open.spotify.com/artist/3iSJjv1yv9EwpaTIfiuJ4L"
+        }
+      ],
+      "duration_ms": 337643,
+      "name": "Sem Sono",
+      "url": "https://open.spotify.com/track/0tnTG94G8PnaWUUkX79zqx"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -675,6 +659,22 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
+        "name": "N\u00f3dulo",
+        "url": "https://open.spotify.com/album/43JSvwecrejD1GqA0KGiWb"
+      },
+      "artists": [
+        {
+          "name": "Entropia-Entalpia",
+          "url": "https://open.spotify.com/artist/2SJ1flrpAzQqdayHjbRe2e"
+        }
+      ],
+      "duration_ms": 453333,
+      "name": "Sobre Tum Tum Ta",
+      "url": "https://open.spotify.com/track/52zdd6JFOv7k95Zrk1Eb46"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
         "name": "Maytrea",
         "url": "https://open.spotify.com/album/0B2eoVhFKrsHBraDO7p8mC"
       },
@@ -707,22 +707,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "Shine",
-        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
-      },
-      "artists": [
-        {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
-        }
-      ],
-      "duration_ms": 432000,
-      "name": "Shine - Dance Version",
-      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Bajolo Vol. I",
         "url": "https://open.spotify.com/album/6fh8K2jIvzokVcWbr7kkhx"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 384480,
       "name": "Vou Pra Longe (Floatin')",
       "url": "https://open.spotify.com/track/7KxarymbMmEiz8Cae7RwMZ"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "VA IFN 001 - Techno Concept",
+        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 311129,
+      "name": "Fixity - Original Mix",
+      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
     },
     {
       "added_at": "2023-11-10 03:03:00",
@@ -827,38 +827,6 @@
     {
       "added_at": "2023-11-10 03:03:00",
       "album": {
-        "name": "VA IFN 001 - Techno Concept",
-        "url": "https://open.spotify.com/album/4lwp9JmCU7CxpDPp1HF0L6"
-      },
-      "artists": [
-        {
-          "name": "Mau Maioli",
-          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
-        }
-      ],
-      "duration_ms": 311129,
-      "name": "Fixity - Original Mix",
-      "url": "https://open.spotify.com/track/6qLbhDQaerJfb8q9AdoP70"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
-        "name": "Espelho",
-        "url": "https://open.spotify.com/album/1cNxz3fo05EMxvqloj6Mn1"
-      },
-      "artists": [
-        {
-          "name": "Vermelho Wonder",
-          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
-        }
-      ],
-      "duration_ms": 320000,
-      "name": "Espelho (Malka Synthpop Rework)",
-      "url": "https://open.spotify.com/track/6aFLnRoJcUtnk1C5ZYGwL9"
-    },
-    {
-      "added_at": "2023-11-10 03:03:00",
-      "album": {
         "name": "Easytiiger__001",
         "url": "https://open.spotify.com/album/1mMoc1fxau0gi4TETJqoFt"
       },
@@ -887,6 +855,38 @@
       "duration_ms": 238032,
       "name": "Festa",
       "url": "https://open.spotify.com/track/3MkIMJ0ZoGmDlJ6tWcBKEd"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Espelho",
+        "url": "https://open.spotify.com/album/1cNxz3fo05EMxvqloj6Mn1"
+      },
+      "artists": [
+        {
+          "name": "Vermelho Wonder",
+          "url": "https://open.spotify.com/artist/1uJaXZr3h2FXfMTzQmhHpu"
+        }
+      ],
+      "duration_ms": 320000,
+      "name": "Espelho (Malka Synthpop Rework)",
+      "url": "https://open.spotify.com/track/6aFLnRoJcUtnk1C5ZYGwL9"
+    },
+    {
+      "added_at": "2023-11-10 03:03:00",
+      "album": {
+        "name": "Shine",
+        "url": "https://open.spotify.com/album/4NEJkZSWPNuRJV6sagTbsg"
+      },
+      "artists": [
+        {
+          "name": "Mau Maioli",
+          "url": "https://open.spotify.com/artist/68xQyTJpYadNytY09qeyuS"
+        }
+      ],
+      "duration_ms": 432000,
+      "name": "Shine - Dance Version",
+      "url": "https://open.spotify.com/track/26vXePs7JGUKyJuQC2JEOM"
     }
   ],
   "unique_name": "Front BR",

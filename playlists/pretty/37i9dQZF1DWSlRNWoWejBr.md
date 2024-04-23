@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSlRNWoWejBr.md) - [plain]
 
 > ou vc dança ou o grave t balança
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,760 likes - 70 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 772,099 likes - 70 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

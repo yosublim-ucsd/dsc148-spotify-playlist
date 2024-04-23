@@ -464,7 +464,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -854,7 +854,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 216346,
       "name": "BYAK",
       "url": "https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW"
@@ -1864,6 +1864,24 @@
       "duration_ms": 200735,
       "name": "Felicidad (De la serie 'Berlin' de Netflix)",
       "url": "https://open.spotify.com/track/1oANTqqfbOVwOX59aAeQOO"
+    },
+    {
+      "album": {
+        "name": "Sabi\u00e1 Marrom - O Samba Raro De Alcione",
+        "url": "https://open.spotify.com/album/2zEkyyq57U6JokONwsVy5H"
+      },
+      "artists": [
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139360,
+      "name": "Figa De Guin\u00e9",
+      "url": "https://open.spotify.com/track/0r3Mm4DMDknVpd9phO76v0"
     },
     {
       "album": {
@@ -2911,6 +2929,24 @@
     },
     {
       "album": {
+        "name": "Obsesionario",
+        "url": "https://open.spotify.com/album/1vALPYnFhuoeFte9ZHIc7j"
+      },
+      "artists": [
+        {
+          "name": "Tan Bionica",
+          "url": "https://open.spotify.com/artist/37MCoi4pcUf9EKsPXeuCqU"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208813,
+      "name": "Loca",
+      "url": "https://open.spotify.com/track/2n0NCtkvHx1oPqgiAvexiB"
+    },
+    {
+      "album": {
         "name": "Lola",
         "url": "https://open.spotify.com/album/0zTDg24VVw7fQerm0Y7Vua"
       },
@@ -3572,7 +3608,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 186373,
       "name": "mimos",
       "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
@@ -6024,7 +6060,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 127008,
       "name": "WTF 2",
       "url": "https://open.spotify.com/track/52Az0C2Qemjn1SP14PhTIW"

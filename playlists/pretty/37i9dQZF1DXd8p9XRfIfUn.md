@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 
 > Lo mejor de la nueva\. Foto: Picus
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,053 likes - 60 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,028 likes - 60 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8p9XRfIfUn.md) - [plain]
 | 56 | [Qué Rico Repetirlo](https://open.spotify.com/track/63tc67n05008BFsuVhGgNb) | [Andy Rivera](https://open.spotify.com/artist/7hIqJfRYGBWWT1Qxu6Cpd2) | [Qué Rico Repetirlo](https://open.spotify.com/album/20yLO5duZcBzRnMnWmVZBI) | 3:06 |
 | 57 | [Traje Tusi](https://open.spotify.com/track/3uSjM5ngnPg1JGnBn31rYG) | [El Jordan 23](https://open.spotify.com/artist/1fIJZfSmqQkuqfKNRmrS1V) | [Traje Tusi](https://open.spotify.com/album/10VJNxo5i9pnR5SZlNLuc7) | 3:02 |
 | 58 | [Palmas](https://open.spotify.com/track/3aEev62BGtfMvqUf2zbHCd) | [Crissin](https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC), [Saga WhiteBlack](https://open.spotify.com/artist/5LXWGcBr4mojJnf51Beuf6) | [Palmas](https://open.spotify.com/album/1hfUzj7KZvo7XrwdiFdSVl) | 2:51 |
-| 59 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
-| 60 | [PARTY TETEO](https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [PARTY TETEO](https://open.spotify.com/album/75mKvZIBX3KpW1AQVGWxmm) | 3:41 |
+| 59 | [PARTY TETEO](https://open.spotify.com/track/4vJJKzfLfLEOGHG4b1G9Y1) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas) | [PARTY TETEO](https://open.spotify.com/album/75mKvZIBX3KpW1AQVGWxmm) | 3:41 |
+| 60 | [Quiero Verte](https://open.spotify.com/track/5hNZC8Th0pe5wlqlzyqFXI) | [La Ross Maria](https://open.spotify.com/artist/5AmJYBIvICxss43P05MkU8) | [Quiero Verte](https://open.spotify.com/album/5Lxbf8iVNXxCYDbXzRanZn) | 2:54 |
 
 Snapshot ID: `MTcxMzUwNjQwMCwwMDAwMDAwMGI2NmJiNmYyZGNkZDU1YWY4Njc0NGI2MTJhZGEyMTU5`

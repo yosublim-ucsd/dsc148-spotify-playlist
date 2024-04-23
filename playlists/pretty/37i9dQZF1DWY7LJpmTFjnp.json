@@ -1,6 +1,6 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano. Babas\u00f3nicos en portada. ",
-  "num_followers": 1000479,
+  "num_followers": 999238,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Monarca",
-        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
-      },
-      "artists": [
-        {
-          "name": "La Gusana Ciega",
-          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
-        }
-      ],
-      "duration_ms": 283013,
-      "name": "Tu Volver\u00e1s",
-      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "40 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 294586,
       "name": "A.D.O.",
       "url": "https://open.spotify.com/track/1zP1eEWNTrTJxDeGNv0XjH"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Monarca",
+        "url": "https://open.spotify.com/album/2Y2jwkzcM6CszpX1FEghEw"
+      },
+      "artists": [
+        {
+          "name": "La Gusana Ciega",
+          "url": "https://open.spotify.com/artist/4bx914GWsNvshDzfYNSKjY"
+        }
+      ],
+      "duration_ms": 283013,
+      "name": "Tu Volver\u00e1s",
+      "url": "https://open.spotify.com/track/3FD4WGUSXKAkYSXs1FJ5JU"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "D.D. Y Ponle Play",
-        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
-      },
-      "artists": [
-        {
-          "name": "Jumbo",
-          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
-        }
-      ],
-      "duration_ms": 174880,
-      "name": "Cada Vez Que Me Voy",
-      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Tenochtitl\u00e1n",
         "url": "https://open.spotify.com/album/4bKnD4QuxZQc1dY1IIdYvf"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 253840,
       "name": "Tenochtitl\u00e1n",
       "url": "https://open.spotify.com/track/5XgRqRJ4LLMJS8EXhIGyh0"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "D.D. Y Ponle Play",
+        "url": "https://open.spotify.com/album/4LXKLEQwKSOPTjdQJ12AZW"
+      },
+      "artists": [
+        {
+          "name": "Jumbo",
+          "url": "https://open.spotify.com/artist/55qSbU11psT1e0HlLaTZPB"
+        }
+      ],
+      "duration_ms": 174880,
+      "name": "Cada Vez Que Me Voy",
+      "url": "https://open.spotify.com/track/2poAH0O2ori8T3SJztgv4Q"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Calles de Talcahuano",
-        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
-      },
-      "artists": [
-        {
-          "name": "Los Bunkers",
-          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
-        }
-      ],
-      "duration_ms": 226572,
-      "name": "Calles de Talcahuano",
-      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
         "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 170083,
       "name": "Don\u00b4t Give Up",
       "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Calles de Talcahuano",
+        "url": "https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE"
+      },
+      "artists": [
+        {
+          "name": "Los Bunkers",
+          "url": "https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT"
+        }
+      ],
+      "duration_ms": 226572,
+      "name": "Calles de Talcahuano",
+      "url": "https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1719,18 +1719,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Canciones De Amor, Y Un Remedio Pa'l Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha"
+        "name": "Elemento Noches De Sal\u00f3n",
+        "url": "https://open.spotify.com/album/5gWubyYwlatpcPJKUNHKmR"
       },
       "artists": [
         {
-          "name": "Inspector",
-          "url": "https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA"
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
         }
       ],
-      "duration_ms": 182000,
-      "name": "Lo Que T\u00fa Me Das - Gracias",
-      "url": "https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4"
+      "duration_ms": 223990,
+      "name": "Elemento Noches De Sal\u00f3n - Noches De Sal\u00f3n",
+      "url": "https://open.spotify.com/track/6DjYDyHHG29uzHs6ftHr97"
     }
   ],
   "unique_name": "La + Chingona",

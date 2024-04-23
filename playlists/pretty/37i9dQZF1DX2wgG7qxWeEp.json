@@ -1,6 +1,6 @@
 {
   "description": "Todo hits veraniegos para la mejor fiesta.",
-  "num_followers": 80631,
+  "num_followers": 80624,
   "original_name": "Verano Mix 2023",
   "owner": {
     "name": "Spotify",
@@ -347,6 +347,30 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Tiroteo (Remix)",
+        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Pol Granch",
+          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
+        }
+      ],
+      "duration_ms": 321555,
+      "name": "Tiroteo - Remix",
+      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "POLARIS (Remix)",
         "url": "https://open.spotify.com/album/6S1YyhsGOkQZSwBJCevlfv"
       },
@@ -371,30 +395,6 @@
       "duration_ms": 288000,
       "name": "POLARIS - Remix",
       "url": "https://open.spotify.com/track/0EhuGnOS6fTc5l5UNtDEH2"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Tiroteo (Remix)",
-        "url": "https://open.spotify.com/album/2Ke07jWpOWaNVYpNMmXt7C"
-      },
-      "artists": [
-        {
-          "name": "Marc Segu\u00ed",
-          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Pol Granch",
-          "url": "https://open.spotify.com/artist/1aMt4A5jrQHxDYyC7rXgV0"
-        }
-      ],
-      "duration_ms": 321555,
-      "name": "Tiroteo - Remix",
-      "url": "https://open.spotify.com/track/4OwhwvKESFtuu06dTgct7i"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Dharma",
-        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Tacones Rojos",
-      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Sola (Remix)",
         "url": "https://open.spotify.com/album/2ucmNNr2Y9ZI7fP4oAMdIj"
       },
@@ -719,22 +703,18 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Te Felicito",
-        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+        "name": "Dharma",
+        "url": "https://open.spotify.com/album/4qgRDM8Gyurf5hXV3LBmT8"
       },
       "artists": [
         {
-          "name": "Shakira",
-          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
         }
       ],
-      "duration_ms": 172235,
-      "name": "Te Felicito",
-      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
+      "duration_ms": 189333,
+      "name": "Tacones Rojos",
+      "url": "https://open.spotify.com/track/6ylDpki1VpIsc525KC1ojF"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -755,6 +735,26 @@
       "duration_ms": 172854,
       "name": "X",
       "url": "https://open.spotify.com/track/5YUyW9opqNsMSEzzecZih1"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Te Felicito",
+        "url": "https://open.spotify.com/album/6gQKAYf3TJM9sppw3AtbHH"
+      },
+      "artists": [
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 172235,
+      "name": "Te Felicito",
+      "url": "https://open.spotify.com/track/2rurDawMfoKP4uHyb2kJBt"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -923,6 +923,42 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Callaita",
+        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "duration_ms": 250533,
+      "name": "Callaita",
+      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
         "url": "https://open.spotify.com/album/0WEtvlRZhn9bZLHbjCLSv2"
       },
@@ -947,42 +983,6 @@
       "duration_ms": 254920,
       "name": "La Llevo Al Cielo (Ft. \u00d1engo Flow)",
       "url": "https://open.spotify.com/track/6DoL1yYIwEW7VZMRaJhoJI"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Callaita",
-        "url": "https://open.spotify.com/album/06S3Qjh4QWLtn6c7CVhYh7"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        },
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        }
-      ],
-      "duration_ms": 250533,
-      "name": "Callaita",
-      "url": "https://open.spotify.com/track/2TH65lNHgvLxCKXM3apjxI"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1131,26 +1131,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Bonita",
-        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Jowell & Randy",
-          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
-        }
-      ],
-      "duration_ms": 265746,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "El Madrile\u00f1o",
         "url": "https://open.spotify.com/album/52QyC9nSbgtHFXyQRHsXJ9"
       },
@@ -1171,6 +1151,26 @@
       "duration_ms": 198493,
       "name": "T\u00fa Me Dejaste De Querer",
       "url": "https://open.spotify.com/track/5ddFjrPG8NgQQ6xlOQIVd2"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Bonita",
+        "url": "https://open.spotify.com/album/5VVKOOGmPdCa8Iie0Jzydb"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        }
+      ],
+      "duration_ms": 265746,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/0atfY1ew83Ql9nNnJiD2t5"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Dura",
+        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 200480,
+      "name": "Dura",
+      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "KG0516",
         "url": "https://open.spotify.com/album/5CS8E6JVACItYto4OOJoPW"
       },
@@ -1491,22 +1507,6 @@
       "duration_ms": 201920,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/0dKg2vGC1hFqcK5LGTaKzX"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Dura",
-        "url": "https://open.spotify.com/album/1copqxpiZy0dn219MSyPR7"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 200480,
-      "name": "Dura",
-      "url": "https://open.spotify.com/track/6KuqAtoeVzxAYOaMveLNpH"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Mala Mujer",
-        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
-      },
-      "artists": [
-        {
-          "name": "C. Tangana",
-          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
-        }
-      ],
-      "duration_ms": 222896,
-      "name": "Mala Mujer",
-      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
         "name": "Baila Morena (Reggaeton Mix)",
         "url": "https://open.spotify.com/album/106R30c82nUmpln49yR9zs"
       },
@@ -1631,6 +1615,38 @@
       "duration_ms": 187080,
       "name": "Baila Morena (with Luny Tunes, Noriega) - Remix",
       "url": "https://open.spotify.com/track/4qbi9JDziBh3cxi9SFUbeu"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 193626,
+      "name": "Pasarela",
+      "url": "https://open.spotify.com/track/7uUYUy2qLfev9ppNvFBHpX"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
+        "name": "Mala Mujer",
+        "url": "https://open.spotify.com/album/2pWiw92YRmqEpIUs5P1HAe"
+      },
+      "artists": [
+        {
+          "name": "C. Tangana",
+          "url": "https://open.spotify.com/artist/5TYxZTjIPqKM8K8NuP9woO"
+        }
+      ],
+      "duration_ms": 222896,
+      "name": "Mala Mujer",
+      "url": "https://open.spotify.com/track/6puxHBNwu2Nmm7uD3Rd2MP"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1707,22 +1723,6 @@
       "duration_ms": 250840,
       "name": "No Es Justo",
       "url": "https://open.spotify.com/track/5qFeMRz4TvetPmzjre9Dq7"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 193626,
-      "name": "Pasarela",
-      "url": "https://open.spotify.com/track/7uUYUy2qLfev9ppNvFBHpX"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1831,6 +1831,26 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Qu\u00e9 M\u00e1s Pues?",
+        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 217773,
+      "name": "Qu\u00e9 M\u00e1s Pues?",
+      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Baila Conmigo (feat. Kelly Ruiz)",
         "url": "https://open.spotify.com/album/68hy2xnNgeo0dO0YOm4Th7"
       },
@@ -1875,22 +1895,18 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "Qu\u00e9 M\u00e1s Pues?",
-        "url": "https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK"
+        "name": "La Playa",
+        "url": "https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz"
       },
       "artists": [
         {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
         }
       ],
-      "duration_ms": 217773,
-      "name": "Qu\u00e9 M\u00e1s Pues?",
-      "url": "https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e"
+      "duration_ms": 207731,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1911,18 +1927,38 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
-        "name": "La Playa",
-        "url": "https://open.spotify.com/album/5PCQtgStgFE0UMZXd9YuYz"
+        "name": "Poblado (Remix)",
+        "url": "https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7"
       },
       "artists": [
         {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Crissin",
+          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        },
+        {
+          "name": "Natan & Shander",
+          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
         }
       ],
-      "duration_ms": 207731,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/0jeS8PyyIRAG0A3t5DtL71"
+      "duration_ms": 393280,
+      "name": "Poblado - Remix",
+      "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -1983,42 +2019,6 @@
       "duration_ms": 248768,
       "name": "RUMBAT\u00d3N",
       "url": "https://open.spotify.com/track/3XjN0mvFkQp1FMVM9Ro5hm"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Poblado (Remix)",
-        "url": "https://open.spotify.com/album/1avDIEjBJ9ayO1Lj7LxNM7"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Crissin",
-          "url": "https://open.spotify.com/artist/6VOoiigTiLVgsMQPP1JOdC"
-        },
-        {
-          "name": "Totoy El Frio",
-          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
-        },
-        {
-          "name": "Natan & Shander",
-          "url": "https://open.spotify.com/artist/5OBK3iQwjNQqElPmn4TgAE"
-        }
-      ],
-      "duration_ms": 393280,
-      "name": "Poblado - Remix",
-      "url": "https://open.spotify.com/track/1WedZeiezCmCEOzLwhx0hV"
     },
     {
       "added_at": "2023-07-10 17:59:12",
@@ -2227,6 +2227,22 @@
     {
       "added_at": "2023-07-10 17:59:12",
       "album": {
+        "name": "Verano Azul",
+        "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
+      },
+      "artists": [
+        {
+          "name": "Juan Mag\u00e1n",
+          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
+        }
+      ],
+      "duration_ms": 190560,
+      "name": "Verano Azul",
+      "url": "https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F"
+    },
+    {
+      "added_at": "2023-07-10 17:59:12",
+      "album": {
         "name": "Tigini (Remix)",
         "url": "https://open.spotify.com/album/0Gb4d09a4fJ9Kndgu8OHKe"
       },
@@ -2243,22 +2259,6 @@
       "duration_ms": 175555,
       "name": "Tigini (Remix)",
       "url": "https://open.spotify.com/track/6stWVqWxtPPednHy1mzoOz"
-    },
-    {
-      "added_at": "2023-07-10 17:59:12",
-      "album": {
-        "name": "Verano Azul",
-        "url": "https://open.spotify.com/album/687yvcM8ZmPohOsrrXh8Zu"
-      },
-      "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        }
-      ],
-      "duration_ms": 190560,
-      "name": "Verano Azul",
-      "url": "https://open.spotify.com/track/0dgwWXkfcWyB2a2qTgEc0F"
     },
     {
       "added_at": "2023-07-10 17:59:12",

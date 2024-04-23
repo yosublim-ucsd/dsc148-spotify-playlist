@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-407 songs - 19 hr 43 min
+408 songs - 19 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -316,7 +316,7 @@
 | [Power \(Remember Who You Are\) \- From The Flipper’s Skate Heist Short Film](https://open.spotify.com/track/7vQYsdVQMbB8d8DSxtHSgr) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Äyanna](https://open.spotify.com/artist/61SZdJffkiHvhHX2nnkymD), [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Power \(Remember Who You Are\) \[From The Flipper’s Skate Heist Short Film\]](https://open.spotify.com/album/0U8rhl69WPOU67DqFhjPaq) | 3:25 | 2022-09-09 | 2022-12-09 |
 | [Pressure](https://open.spotify.com/track/47FuxUowVBxua1XxsbLKKX) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [Pressure](https://open.spotify.com/album/54mr7b1004Jqg9PD185VI1) | 3:06 | 2023-03-11 | 2023-05-18 |
 | [Prophesy](https://open.spotify.com/track/1OdzPLdObHnYvixgViXwtS) | [Geoxpress](https://open.spotify.com/artist/2te0zfHOaOT11OYBSwBzVV) | [Apollo](https://open.spotify.com/album/0reda2xhxKY247dKfTn9Wy) | 2:30 | 2022-10-13 | 2022-12-03 |
-| [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 | 2023-09-27 |  |
+| [Puff & Pass](https://open.spotify.com/track/6WUdooO1NS5LZadjGNwY5U) | [Zerrydl](https://open.spotify.com/artist/3sHq8pB8IoGvnatMuoixwd) | [Puff & Pass](https://open.spotify.com/album/2ktmJpxJYszyMXloEkbh8F) | 2:41 | 2023-09-27 | 2024-04-23 |
 | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/track/163l4xzEe3JAfPbv0kYNQo) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Don Jazzy](https://open.spotify.com/artist/3orxvFDFViCLknRO2O2m8a) | [Question \(feat\. Don Jazzy\)](https://open.spotify.com/album/0QOalrk1Kbdbt6p38FgBdA) | 2:48 | 2022-06-09 | 2022-10-12 |
 | [reason](https://open.spotify.com/track/747cO9FmyVvRCrsRusfwdL) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone \(Deluxe\)](https://open.spotify.com/album/5EY6AWFCHJgcY00gUSnlrq) | 2:27 | 2023-06-16 |  |
 | [RESURRECT](https://open.spotify.com/track/4eovq4Ubecp361Ls97DWdZ) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [RESURRECT](https://open.spotify.com/album/32XrEc7ereRRDCjO0gVb0q) | 2:54 | 2024-04-05 |  |
@@ -372,6 +372,7 @@
 | [Ta Ta Ta](https://open.spotify.com/track/3rmqNsOiGqqvFNTmGlzl4R) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG) | [Bayanni](https://open.spotify.com/album/0XIgw74GKfTD6MCOHzhovL) | 2:39 | 2023-01-12 | 2023-04-15 |
 | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/track/1LRGZESVn8eF7WVY5DzLNy) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Ta Ta Ta \(with Jason Derulo\)](https://open.spotify.com/album/6plZIBIIAhS0URu19s65O1) | 2:39 | 2023-04-14 | 2023-09-28 |
 | [Talibans II](https://open.spotify.com/track/5zq5fYXIE7X842DD5HBiiB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Talibans II](https://open.spotify.com/album/4EouhaKTJkW8xRpLsCz7va) | 2:56 | 2023-07-21 | 2023-10-18 |
+| [TECHNICIAN \(feat\. Blaqbonez & Lekaa Beats\)](https://open.spotify.com/track/60qIa2znv2BICoDyJS8rNv) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Lekaa Beats](https://open.spotify.com/artist/3HzmmNkD0FRr2pBSwyUBBY) | [TECHNICIAN](https://open.spotify.com/album/7ChVqPO3roVcHSLi32PnIK) | 2:36 | 2024-04-19 |  |
 | [Terminator](https://open.spotify.com/track/4vI2KCvXTAPR3vfiWg1J78) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Terminator](https://open.spotify.com/album/6a3w9YAl8ZAloTczNVOwf3) | 2:35 | 2022-08-18 | 2023-11-21 |
 | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/track/4jyZRIiSAEkziHwhZsfmXc) | [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Terminator \(feat\. Young Jonn\)](https://open.spotify.com/album/1BICkuyzPn2IIQXjopKOXE) | 3:54 | 2023-08-10 |  |
 | [The Life I Chose](https://open.spotify.com/track/48kCxQOtSAeyB3YucB8Ccs) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s) | [The Life I Chose](https://open.spotify.com/album/7swEKu1GceYFZl5ZMPtCDS) | 2:24 | 2024-02-23 |  |

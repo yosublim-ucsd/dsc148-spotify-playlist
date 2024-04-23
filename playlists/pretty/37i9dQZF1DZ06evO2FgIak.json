@@ -1,12 +1,12 @@
 {
-  "description": "This is Muddy Waters. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 46632,
+  "description": "This is Muddy Waters. The essential tracks, all in one playlist.",
+  "num_followers": 46644,
   "original_name": "This Is Muddy Waters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDhkOWNhNmRhYjQyMTJhZWU4NGJkMjdjODIwODEwYjI3",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDgyOTA4ODg5MWI0OWY1NjM5YWZmMzUxZTY0NTc4YjBk",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 321133,
       "name": "Mannish Boy",
       "url": "https://open.spotify.com/track/58PSYdY0GFg0LFb2PxYk4T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 172059,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/18n0zch7bRo453Iwq98xYf"
     },
     {
       "added_at": null,
@@ -79,22 +63,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chess Box",
         "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
@@ -107,6 +75,22 @@
       "duration_ms": 162933,
       "name": "I Can't Be Satisfied",
       "url": "https://open.spotify.com/track/7FDFtgdyzlBN0tUo3boGZe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": null,
@@ -127,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters Sings Big Bill Broonzy",
-        "url": "https://open.spotify.com/album/2ULAVn0TXR0ISBy9v8iCrU"
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
       },
       "artists": [
         {
@@ -136,25 +120,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 135973,
-      "name": "Tell Me Baby",
-      "url": "https://open.spotify.com/track/71yVjDvQpUzzPdocf3DAYo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 231333,
-      "name": "I'm A King Bee",
-      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
+      "duration_ms": 174567,
+      "name": "Forty Days And Forty Nights",
+      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
     },
     {
       "added_at": null,
@@ -175,8 +143,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Real Folk Blues",
-        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
@@ -184,9 +152,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 174567,
-      "name": "Forty Days And Forty Nights",
-      "url": "https://open.spotify.com/track/7FQje5Elyeuou3n5lUbgvs"
+      "duration_ms": 231333,
+      "name": "I'm A King Bee",
+      "url": "https://open.spotify.com/track/4pyJrDKo7bXM51Q94Rxzkc"
     },
     {
       "added_at": null,
@@ -207,6 +175,38 @@
       "duration_ms": 120066,
       "name": "Baby Please Don't Go - Live / Instrumental",
       "url": "https://open.spotify.com/track/2XSi3vyadAKVd4eTdyWvAJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "You Can't Lose What You Ain't Never Had",
+      "url": "https://open.spotify.com/track/3R8jEWbqIexfbDteE3jlOz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 165106,
+      "name": "You Need Love",
+      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 165106,
-      "name": "You Need Love",
-      "url": "https://open.spotify.com/track/7Ak1aR9cK5b4yKHdhIhNVq"
+      "duration_ms": 275933,
+      "name": "Champagne & Reefer",
+      "url": "https://open.spotify.com/track/7kqGCWwUTnwisFFz5d37gE"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         }
       ],
-      "duration_ms": 275933,
-      "name": "Champagne & Reefer",
-      "url": "https://open.spotify.com/track/7kqGCWwUTnwisFFz5d37gE"
+      "duration_ms": 161026,
+      "name": "Long Distance Call",
+      "url": "https://open.spotify.com/track/21SJZoN35oJCD2MS6PRgvd"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
       "duration_ms": 217640,
       "name": "Tom Cat",
       "url": "https://open.spotify.com/track/1UHa7agK1kxbcyHLNQ8gTM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
     },
     {
       "added_at": null,
@@ -387,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Folk Singer (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Short Dress Woman",
+      "url": "https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Blues",
         "url": "https://open.spotify.com/album/2lal1dUF4SNuSwYwJHat6s"
       },
@@ -411,22 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Short Dress Woman",
-      "url": "https://open.spotify.com/track/5JoNCSJaHppA9EXDhYHmIY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Super Super Blues Band",
         "url": "https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 445026,
       "name": "The Red Rooster",
       "url": "https://open.spotify.com/track/1qdLSzpYZBqJcSBKbSc4e6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 166493,
+      "name": "You Shook Me",
+      "url": "https://open.spotify.com/track/0JGycbFUWSITx4NFCkEeqM"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
       "duration_ms": 209826,
       "name": "You Can't Judge A Book By Its Cover",
       "url": "https://open.spotify.com/track/2HD83NXZZRx68thhkaZk6H"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Folk Singer (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 193266,
-      "name": "You Gonna Need My Help",
-      "url": "https://open.spotify.com/track/2TUF4yTaTVRYh1I64AjvqO"
     },
     {
       "added_at": null,
@@ -647,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 137733,
+      "name": "Mean Red Spider",
+      "url": "https://open.spotify.com/track/6iukeqLbu4VAniiFbKQ6My"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Folk Singer (Expanded Edition)",
         "url": "https://open.spotify.com/album/4bi0CKFKviadIaSlkakfN7"
       },
@@ -675,22 +675,6 @@
       "duration_ms": 141466,
       "name": "I Want to Be Loved #2",
       "url": "https://open.spotify.com/track/5Q5GJBCmWJo7z7K8g223K1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 177213,
-      "name": "She Moves Me",
-      "url": "https://open.spotify.com/track/3Bu3JJvvTzEYnz61x4plF2"
     },
     {
       "added_at": null,
@@ -763,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Muddy Waters: Live (At Mr. Kelly's) [Reissue]",
-        "url": "https://open.spotify.com/album/4aOBXSIhfR0jqT0cLdHXqk"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 280293,
-      "name": "What Is That She Got - Live At Mr. Kelly's/1971",
-      "url": "https://open.spotify.com/track/6f42YOJ6Lc3s6osTbVQAZ5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -795,6 +763,22 @@
       "duration_ms": 248586,
       "name": "Blow Wind Blow - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
       "url": "https://open.spotify.com/track/5OFRzy4ReR0W5tZw0O6KHG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live At The Checkerboard Lounge",
+        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 339746,
+      "name": "You Don't Have To Go - Live",
+      "url": "https://open.spotify.com/track/3RcQoZDJPRqYnxJ7Eho21N"
     },
     {
       "added_at": null,
@@ -839,22 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live At The Checkerboard Lounge",
-        "url": "https://open.spotify.com/album/0SLzwxGYeOdJYbjxbE9plW"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 339746,
-      "name": "You Don't Have To Go - Live",
-      "url": "https://open.spotify.com/track/3RcQoZDJPRqYnxJ7Eho21N"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
         "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
@@ -891,6 +859,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Real Folk Blues",
+        "url": "https://open.spotify.com/album/0CFpUxbVKTYbqpEiaXAyZT"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 178600,
+      "name": "Walkin' Blues",
+      "url": "https://open.spotify.com/track/2xF0ubRru7TwLHdqFwH6Uo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Muddy \"Mississippi\" Waters Live (Legacy Edition)",
         "url": "https://open.spotify.com/album/7Dy6z1nWHNIF2IKCARP9QN"
       },
@@ -907,8 +891,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakin' It Up, Breakin' It Down",
-        "url": "https://open.spotify.com/album/3UvsmcrWPiyiLlm4Bp6Xbl"
+        "name": "Muddy Waters Blues Band Live Paris 1968 (Restauraci\u00f3n 2023)",
+        "url": "https://open.spotify.com/album/7ztpB4cnGsmmOyYiZuFXrv"
       },
       "artists": [
         {
@@ -916,17 +900,29 @@
           "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
         },
         {
-          "name": "Johnny Winter",
-          "url": "https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO"
-        },
-        {
-          "name": "James Cotton",
-          "url": "https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k"
+          "name": "Otis Spann",
+          "url": "https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X"
         }
       ],
-      "duration_ms": 129293,
-      "name": "Rocket 88",
-      "url": "https://open.spotify.com/track/6PB2CtohIEh0gXv5kacqaD"
+      "duration_ms": 277080,
+      "name": "Train Fare Home - Paris, 4 Novembre 1968 (Restauraci\u00f3n 2023)",
+      "url": "https://open.spotify.com/track/2TeimLyfJmqO7QsHkUZI4y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Shook Me - The Chess Masters, Vol. 3, 1958 To 1963",
+        "url": "https://open.spotify.com/album/7H6gYOQY7PQX5CMBr8r3ol"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 149626,
+      "name": "Crawlin' Kingsnake",
+      "url": "https://open.spotify.com/track/2fXcmQZ7lYoCxzQmZoDN06"
     }
   ],
   "unique_name": "This Is Muddy Waters",

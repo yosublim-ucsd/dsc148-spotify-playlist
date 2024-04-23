@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 168582,
+  "num_followers": 168532,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGRmODM5MTU2MjhkYmNmMjMxMDliYTA5YzdhYzdiNzI2",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGYzYWE4NjU4ZTBmMDQ3YzMxZmQyN2VjNWVmNjQyY2Yy",
   "tracks": [
     {
       "added_at": null,
@@ -199,22 +199,6 @@
       "duration_ms": 247826,
       "name": "Automatic",
       "url": "https://open.spotify.com/track/0B0y2FImat9j9MJTNRZWfW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
     },
     {
       "added_at": null,
@@ -1087,6 +1071,22 @@
       "duration_ms": 270334,
       "name": "Bramble Rose",
       "url": "https://open.spotify.com/track/5jrzQx2i7TGqYGWpNmkH8n"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Weight of These Wings",
+        "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 233266,
+      "name": "Highway Vagabond",
+      "url": "https://open.spotify.com/track/1m6un0uWcRlNcJHBQ1lKAo"
     }
   ],
   "unique_name": "This Is Miranda Lambert",

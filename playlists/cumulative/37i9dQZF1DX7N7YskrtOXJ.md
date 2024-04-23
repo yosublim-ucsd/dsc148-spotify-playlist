@@ -4,12 +4,12 @@
 
 > La fiesta se enciende con cumbia.
 
-210 songs - 12 hr 49 min
+211 songs - 12 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [3 AM](https://open.spotify.com/track/5uyUokRn9ryuEJ7hczuAcg) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [3 AM](https://open.spotify.com/album/0DkYroeRYdlhcp3kklyomb) | 3:13 | 2023-10-27 | 2024-03-06 |
-| [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 | 2024-03-29 |  |
+| [Acercate MI Amor](https://open.spotify.com/track/0drMB4P0bjoRrSQTKKlpkx) | [Amerika'n Sound](https://open.spotify.com/artist/497ma3Q1UnHPhvRQKyoxW2) | [Onda Tropical](https://open.spotify.com/album/0dErpFspzQ1Zunqh7esrEu) | 4:15 | 2024-03-29 | 2024-04-23 |
 | [ADIÓS](https://open.spotify.com/track/2bNCiY24Eh4saMcc23bvUN) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [LA NENA DE ARGENTINA](https://open.spotify.com/album/3iYC1GqtQVjnO63aYDs1nL) | 2:40 | 2023-08-25 |  |
 | [Adiós Amor](https://open.spotify.com/track/0QWVUw5wIoqVEu94F8dquj) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/6vGU2CXxFbL36Qhx0f8qWs) | 4:19 | 2024-02-27 | 2024-04-19 |
 | [Adiós Amor](https://open.spotify.com/track/367069JY6QWPaCJM21OVBC) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Adiós Amor](https://open.spotify.com/album/14am71BKAcj6UvGOIXoo6e) | 4:19 | 2024-03-29 |  |
@@ -193,6 +193,7 @@
 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 | 2024-02-27 |  |
 | [Torres Del Paine](https://open.spotify.com/track/6El1GAPRHcoP2rxERMz2Jj) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR) | [Torres Del Paine](https://open.spotify.com/album/3uFl4jYrz03lLruD5N1tkC) | 3:04 | 2024-03-29 |  |
 | [Tu Sangre En Mi cuerpo Feat\. Domi](https://open.spotify.com/track/3yRvZoHfliGWeSwUq5ggYV) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [Soy Cumbia](https://open.spotify.com/album/1NSU7oS48L2ez79wVbO2lE) | 4:27 | 2023-08-25 | 2024-02-28 |
+| [Tímido](https://open.spotify.com/track/4jdB97BKq7L6pOby20Nmed) | [Grupo Hechizo](https://open.spotify.com/artist/2j7cp8QCujOktjxUXuNou3) | [Grupo Hechizo](https://open.spotify.com/album/4nfCxHtQc9OfOrpvfJPGfC) | 3:26 | 2024-03-29 |  |
 | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/track/3tiJUOfAEqIrLFRQgGgdoY) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Un Finde \| CROSSOVER \#2](https://open.spotify.com/album/7cAfD0HludcAifXAbcIR80) | 2:42 | 2023-08-25 |  |
 | [Un Hombre No Llora](https://open.spotify.com/track/3i78S2Cm2V66QGkohxsqBD) | [Grupo Zúmbale Primo](https://open.spotify.com/artist/7hwlbJCUBQksiqlloB6x9K) | [Un Hombre No Llora](https://open.spotify.com/album/5d0LrF2Sr4MTPomdDSglYI) | 5:00 | 2024-02-27 |  |
 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 | 2023-08-25 |  |

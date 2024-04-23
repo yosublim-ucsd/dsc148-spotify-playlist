@@ -2,7 +2,7 @@
 
 ### [This Is Alan Walker](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rvWRa)
 
-> This is Alan Walker\. The essential tracks, all in one playlist.
+> This is Alan Walker\. Track\-track unggulan, semuanya dalam satu playlist.
 
 72 songs - 3 hr 25 min
 

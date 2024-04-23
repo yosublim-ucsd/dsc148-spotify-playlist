@@ -2,7 +2,7 @@
 
 ### [This Is Kidz Bop Kids](https://open.spotify.com/playlist/37i9dQZF1DZ06evO15qSjK)
 
-> This Is Kidz Bop Kids\. Los temas esenciales, todos en una lista.
+> This is Kidz Bop Kids\. The essential tracks, all in one playlist.
 
 108 songs - 5 hr 20 min
 
@@ -87,7 +87,7 @@
 | [Say So](https://open.spotify.com/track/3g3hE3WICIm03TSO4AUxfZ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Say So](https://open.spotify.com/album/2SMukJD6ePiMxdKTe6ZoPf) | 3:07 | 2023-02-16 | 2023-09-06 |
 | [Seven](https://open.spotify.com/track/5tfV7PqrtKIAfI6pqgZcoB) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 2024](https://open.spotify.com/album/5vsFw30SewCDspQaWR6WgV) | 3:04 | 2024-01-20 |  |
 | [Señorita](https://open.spotify.com/track/0rzOBbw7Zg4yyN22wwJzvJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP 40](https://open.spotify.com/album/16QkUgvO36X6REmJZgecVJ) | 2:49 | 2023-02-16 |  |
-| [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2023-02-16 |  |
+| [Shake It Off](https://open.spotify.com/track/3NODaFePbYJpp5VAY1ipYp) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Kidz Bop 27](https://open.spotify.com/album/0hOfYUluBZkHPmTGkcLJuO) | 3:28 | 2023-02-16 | 2024-04-23 |
 | [Si No Estás](https://open.spotify.com/track/1wAzzLKnVwLdkFLnKt3QyX) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Si No Estás](https://open.spotify.com/album/0RVcDCKlV7Pij2jtfbbFqM) | 3:04 | 2024-02-24 | 2024-03-24 |
 | [STAY](https://open.spotify.com/track/2cEt3vw0bEhhdeJsp6hk0u) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Ultimate Playlist](https://open.spotify.com/album/0ujUpcRjoMRt06Rx1kOGuu) | 2:19 | 2023-02-16 |  |
 | [Stick Season](https://open.spotify.com/track/3rnzQyGibuUqEJgVKL7lew) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Stick Season](https://open.spotify.com/album/50bMFXY8AbOMdSXvfu9CAl) | 3:00 | 2024-03-30 |  |

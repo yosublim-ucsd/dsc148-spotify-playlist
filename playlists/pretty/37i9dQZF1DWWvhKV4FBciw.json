@@ -1,6 +1,6 @@
 {
   "description": "A selection of the greatest funk & soul records ever made.",
-  "num_followers": 1713201,
+  "num_followers": 1713396,
   "original_name": "Funk & Soul Classics",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Midnight Love",
-        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
-      },
-      "artists": [
-        {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Sexual Healing",
-      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "Hold On, I'm Comin'",
         "url": "https://open.spotify.com/album/2PBsbww0MYw9F1JzyYWIEO"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 155706,
       "name": "Hold On, I'm Comin'",
       "url": "https://open.spotify.com/track/6PgVDY8GTkxF3GmhVGPzoB"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Midnight Love",
+        "url": "https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Sexual Healing",
+      "url": "https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED"
     },
     {
       "added_at": "2024-04-02 11:11:15",
@@ -727,22 +727,6 @@
     {
       "added_at": "2024-04-02 11:11:15",
       "album": {
-        "name": "Midnight Mover: The Bobby Womack Story",
-        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
-      },
-      "artists": [
-        {
-          "name": "Bobby Womack",
-          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
-        }
-      ],
-      "duration_ms": 230506,
-      "name": "Across 110th Street",
-      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
-    },
-    {
-      "added_at": "2024-04-02 11:11:15",
-      "album": {
         "name": "Superfly: Deluxe 25th Anniversary Edition",
         "url": "https://open.spotify.com/album/5QuvlU7nCUZZJauMvhlWR4"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 300693,
       "name": "Pusherman",
       "url": "https://open.spotify.com/track/7zrPswSV1yxrill5OyCuaU"
+    },
+    {
+      "added_at": "2024-04-02 11:11:15",
+      "album": {
+        "name": "Midnight Mover: The Bobby Womack Story",
+        "url": "https://open.spotify.com/album/7eVKCG0KD8FCvIlx8E1pBG"
+      },
+      "artists": [
+        {
+          "name": "Bobby Womack",
+          "url": "https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq"
+        }
+      ],
+      "duration_ms": 230506,
+      "name": "Across 110th Street",
+      "url": "https://open.spotify.com/track/2zyTP97uGsIc1C4KNNEkyn"
     },
     {
       "added_at": "2024-04-02 11:11:15",

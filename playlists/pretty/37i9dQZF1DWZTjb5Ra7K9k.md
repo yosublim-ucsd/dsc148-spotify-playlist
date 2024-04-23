@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,058 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,925 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,9 +73,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 63 | [Na Estranha Ordem Geométrica de Tudo](https://open.spotify.com/track/0so3FrbwEKDuagdoxUovAs) | [ANDALUZ](https://open.spotify.com/artist/5p8YPBQTHFW5PRl5B1C4QF) | [Na Estranha Ordem Geométrica de Tudo](https://open.spotify.com/album/3NnUzyLpvcvazOd6RYG455) | 2:22 |
 | 64 | [No Mar \- Ao Vivo](https://open.spotify.com/track/38P9vgI3czMkthxfAbwxcw) | [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Natiruts \- Natiruts Acústico ao Vivo no Rio de Janeiro](https://open.spotify.com/album/2Bgbj1L9OuhIsGNYumBMQb) | 3:29 |
 | 65 | [California](https://open.spotify.com/track/08aMpsxjozNNQPVnnE1QaC) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [California](https://open.spotify.com/album/4wuYQ9hyF1EGmrtjMpgpE9) | 3:10 |
-| 66 | [Young and Able](https://open.spotify.com/track/5yQWk2KWtPa4p7p4rCMr2A) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/3RGxeAYXO2X5l44ZYuZOXm) | 4:06 |
-| 67 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
-| 68 | [Could You Be Loved](https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo) | 3:57 |
+| 66 | [Could You Be Loved](https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh) | [Bob Marley & The Wailers](https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD) | [Uprising](https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo) | 3:57 |
+| 67 | [Young and Able](https://open.spotify.com/track/5yQWk2KWtPa4p7p4rCMr2A) | [Current Swell](https://open.spotify.com/artist/1DCRoiKOntBEezKXznDca4) | [Long Time Ago](https://open.spotify.com/album/3RGxeAYXO2X5l44ZYuZOXm) | 4:06 |
+| 68 | [Interstate Love Song](https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1) | [Stone Temple Pilots](https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z) | [Purple](https://open.spotify.com/album/2vi1ddPi3fY7vePMqxUVob) | 3:13 |
 | 69 | [Island In The Sun](https://open.spotify.com/track/3Pnhzf3Knhdsavx0VM2ZmG) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [Weezer \(Green Album\)](https://open.spotify.com/album/2hDiTEsKePTnDcvKEuLizk) | 3:20 |
 | 70 | [The Middle](https://open.spotify.com/track/5kD9T7GForh8LnRz5ClbL8) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Bleed American \(Deluxe Edition\)](https://open.spotify.com/album/4ZqTPNXU0MBXs2iCcwjOPe) | 2:48 |
 | 71 | [Ain't No Rest for the Wicked](https://open.spotify.com/track/3kb72STxc2959ZqsTwu52i) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant](https://open.spotify.com/album/2vs5faN4o8NCNXAGLh3HJf) | 2:55 |

@@ -1873,6 +1873,24 @@
     },
     {
       "album": {
+        "name": "YOUTH - The 1st Album",
+        "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Little Light",
+      "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
+    },
+    {
+      "album": {
         "name": "Long Flight",
         "url": "https://open.spotify.com/album/5shvXSOFncAaOXorw8G2t7"
       },

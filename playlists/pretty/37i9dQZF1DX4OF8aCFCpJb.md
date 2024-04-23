@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,850 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,870 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 47 | [ÖPPNA DÖRREN NU](https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [ÖPPNA DÖRREN NU](https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n) | 3:20 |
 | 48 | [Come By](https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v) | [Atso](https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN) | [Come By](https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG) | 3:19 |
 | 49 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
-| 50 | [Amazing](https://open.spotify.com/track/1eYbcnHmpUc9VHV9kxz7Ft) | [Robinholta](https://open.spotify.com/artist/0xsZpPENdV56KIViR6yFDc) | [Amazing](https://open.spotify.com/album/6yxiQgMgZThmXBz2iaQFtP) | 2:20 |
+| 50 | [Brandman](https://open.spotify.com/track/1CFhm4s7I9zgEEAGuHHDme) | [Angelica Mava](https://open.spotify.com/artist/3DI6xghRL08MvjfQ5M73Zk) | [Brandman](https://open.spotify.com/album/5hiLVs9YzZJEukAAgq9p3f) | 3:56 |
 
 Snapshot ID: `MTcwOTg1MjQwMCwwMDAwMDAwMGFlZGRlZDA2ODQ4OTUwNTg5ODg3NGY3ZDNjNTE1ZDAx`

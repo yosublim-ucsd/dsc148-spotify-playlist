@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 32955,
+  "num_followers": 32961,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDYzYzg4ZDgyNTMzNDM4MmNhNDZmYjIzN2YxNThiY2Yz",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDRkMTBlYjUxMWY2M2ZlZjI5NGE4Yjc2YjYzMTlhNDM3",
   "tracks": [
     {
       "added_at": null,
@@ -227,26 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 214872,
-      "name": "Blessings (feat. Tasha Cobbs Leonard)",
-      "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Burn Bright",
         "url": "https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX"
       },
@@ -271,6 +251,26 @@
       "duration_ms": 397216,
       "name": "What He's Done - Live From Passion 2022",
       "url": "https://open.spotify.com/track/49EYyEIx0xpGuPLWxSsNgX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 214872,
+      "name": "Blessings (feat. Tasha Cobbs Leonard)",
+      "url": "https://open.spotify.com/track/0USJzZsIiPDbr6ZXgXik7B"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 453173,
-      "name": "No Longer Slaves - Live",
-      "url": "https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo"
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
       "artists": [
         {
@@ -784,25 +784,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 481167,
-      "name": "You\u2019re Gonna Get The Glory - Live",
-      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
+      "duration_ms": 453173,
+      "name": "No Longer Slaves - Live",
+      "url": "https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "duration_ms": 481167,
+      "name": "You\u2019re Gonna Get The Glory - Live",
+      "url": "https://open.spotify.com/track/54DSYJ4UJS9Me8sdpuZlAT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "One Place Live (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
       },
@@ -835,26 +835,6 @@
       "duration_ms": 455480,
       "name": "You Still Love Me - Live",
       "url": "https://open.spotify.com/track/13cmGlpQsawlq6QwLzden1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Royalty: Live At The Ryman",
-        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 346765,
-      "name": "In Spite Of Me",
-      "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
     },
     {
       "added_at": null,
@@ -907,6 +887,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Royalty: Live At The Ryman",
+        "url": "https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 346765,
+      "name": "In Spite Of Me",
+      "url": "https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -931,6 +931,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe (Live)",
+        "url": "https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Purpose Worship",
+          "url": "https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH"
+        }
+      ],
+      "duration_ms": 428181,
+      "name": "I've Been Waiting - Live",
+      "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
         "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
@@ -943,22 +963,6 @@
       "duration_ms": 54173,
       "name": "I'm Free - Live",
       "url": "https://open.spotify.com/track/5GYogyslF0t1JkhCDv0UE0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gotta Believe",
-        "url": "https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        }
-      ],
-      "duration_ms": 170843,
-      "name": "Gotta Believe",
-      "url": "https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO"
     }
   ],
   "unique_name": "This Is Tasha Cobbs Leonard",

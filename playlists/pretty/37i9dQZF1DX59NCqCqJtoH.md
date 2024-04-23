@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 
 > We hear you.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,190,028 likes - 100 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,190,047 likes - 100 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 40 | [Pendant](https://open.spotify.com/track/45iJnPjul5yDYefM6GEYZB) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Pendant](https://open.spotify.com/album/5Byl3llMQRhBj88mYrEbGS) | 3:55 |
 | 41 | [Suddenly Okay](https://open.spotify.com/track/4mjMpDvvweBIuxC2LpbeWB) | [Blake Rose](https://open.spotify.com/artist/7wLyGTO9vUS7ndlq4BvBGe) | [Suddenly Okay](https://open.spotify.com/album/7bezusYLfnlW1g7bz4t1Y7) | 3:03 |
 | 42 | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/track/3ehrCQoouv7NW8LRgcMvRF) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [is your bedroom ceiling bored? \(feat\. Cavetown\)](https://open.spotify.com/album/3EScPN7QqAa3WUVgZe1dNo) | 3:27 |
-| 43 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 |
-| 44 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 |
+| 43 | [I Can't Hate You](https://open.spotify.com/track/21NeQgKhabORuZ3pfsPfz5) | [Kayou.](https://open.spotify.com/artist/4kTancl0Qa8Y7J0QKKTCrz), [yaeow](https://open.spotify.com/artist/4Abe9XH0fplj8dbOddoYgH) | [I Can't Hate You](https://open.spotify.com/album/0hza96UteVyFpucn2BpAUc) | 2:58 |
+| 44 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 |
 | 45 | [willow](https://open.spotify.com/track/61qLoMpEncPR7n8Ibf8Bhh) | [sombr](https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S) | [willow](https://open.spotify.com/album/1rzYZ0KwitNrhFGd3cWOnv) | 3:32 |
 | 46 | [Kenny](https://open.spotify.com/track/6FmnMoph4yx7zjhuBcrHDv) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Kenny](https://open.spotify.com/album/33xwiZOclaWIDKouzuc32w) | 3:14 |
 | 47 | [Right Before My Eyes \- Unpeeled](https://open.spotify.com/track/7d6qX28ITEgBUhCJ86SeYq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Unpeeled](https://open.spotify.com/album/4zpN41aGAYPWX3dzE19rH7) | 4:40 |
@@ -76,8 +76,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX59NCqCqJtoH.md) - [plain]
 | 66 | [princes of melancholia](https://open.spotify.com/track/6VTs85uQ0holJSYhflQsua) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [Dark Corners and Alchemy](https://open.spotify.com/album/3pcb6cs5ZquBAOiZXuQQRA) | 2:33 |
 | 67 | [Pyjama Pants](https://open.spotify.com/track/7aU0FxwwsAwmQ8uGFYLIlu) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Sleepyhead](https://open.spotify.com/album/6l8EXrFMXWeHaEutYhwl98) | 3:58 |
 | 68 | [Smile in the Face of the Devil](https://open.spotify.com/track/0h6X7BCq7IYKHNoXln3LX3) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [Smile in the Face of the Devil](https://open.spotify.com/album/4RpOz3IeMf2KmjLn6eEyCC) | 2:38 |
-| 69 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
-| 70 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
+| 69 | [Falling Down](https://open.spotify.com/track/5IMlULsFntQDQrCrvRpXFd) | [Puma Blue](https://open.spotify.com/artist/6lHO1eGthNnos9KP2BH0cG) | [Falling Down](https://open.spotify.com/album/6LBvi01O6nf03Et9ylZV7P) | 3:35 |
+| 70 | [handgun](https://open.spotify.com/track/5ScV9dmyjpNeQp7UwIKwTM) | [jake minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [handgun](https://open.spotify.com/album/2ybvSMYSgIh1fKcFGD2XTL) | 2:53 |
 | 71 | [Second Place](https://open.spotify.com/track/5vO71tywH4g5RnxVcRWGLz) | [loyalties](https://open.spotify.com/artist/4bKUAe1VLjBB1W0SmfHjhG), [Mikayla Geier](https://open.spotify.com/artist/3L7svRFWE5kcIReq1uwC5J) | [Second Place](https://open.spotify.com/album/3kp3ueUC5QZIHYmjnxE9yK) | 2:08 |
 | 72 | [whore](https://open.spotify.com/track/5kkSbXjKeAxmDllVqAjDq6) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [whore](https://open.spotify.com/album/4g1i5LuDHpKXalZZpeA6jM) | 2:43 |
 | 73 | [Mess](https://open.spotify.com/track/66koXsgfF5kOi8tGM9ENHs) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [Red Honey](https://open.spotify.com/album/0txm5Pz3TMKCSZ2NJH8gHs) | 1:38 |

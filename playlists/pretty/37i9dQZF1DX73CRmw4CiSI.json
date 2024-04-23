@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 89386,
+  "num_followers": 89422,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -403,22 +403,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Personas",
-        "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
-      },
-      "artists": [
-        {
-          "name": "El Canto Del Loco",
-          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
-        }
-      ],
-      "duration_ms": 259720,
-      "name": "Peter Pan",
-      "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Todos Los D\u00edas Sale El Sol",
         "url": "https://open.spotify.com/album/6qpGqHU6oXNUqluVYz0coh"
       },
@@ -431,6 +415,22 @@
       "duration_ms": 146337,
       "name": "Todos los d\u00edas sale el sol",
       "url": "https://open.spotify.com/track/1tmwswvJnwOIrskyCKVsgv"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Personas",
+        "url": "https://open.spotify.com/album/4VOwH05jq1S4GbQMR39itm"
+      },
+      "artists": [
+        {
+          "name": "El Canto Del Loco",
+          "url": "https://open.spotify.com/artist/5RK6c1tyaKpwcDpbgCGNgj"
+        }
+      ],
+      "duration_ms": 259720,
+      "name": "Peter Pan",
+      "url": "https://open.spotify.com/track/1gkBsKxTpVHIn1nLf05CUo"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Animales",
-        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
-      },
-      "artists": [
-        {
-          "name": "Pereza",
-          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
-        }
-      ],
-      "duration_ms": 260733,
-      "name": "Todo",
-      "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Muchas Flores",
         "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 267720,
       "name": "C\u00f3mo Quieres Que Te Quiera",
       "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Animales",
+        "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
+      },
+      "artists": [
+        {
+          "name": "Pereza",
+          "url": "https://open.spotify.com/artist/6mfK6Q2tzLMEchAr0e9Uzu"
+        }
+      ],
+      "duration_ms": 260733,
+      "name": "Todo",
+      "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "La Flaca",
-        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
-      },
-      "artists": [
-        {
-          "name": "Jarabe De Palo",
-          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
-        }
-      ],
-      "duration_ms": 212226,
-      "name": "Grita",
-      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "El Toro y la Luna (20 Aniversario)",
         "url": "https://open.spotify.com/album/2sTqLFdRN5kp3hBkrV7QYN"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 218647,
       "name": "El Toro y la Luna - 20 Aniversario",
       "url": "https://open.spotify.com/track/0hgens24d8G02NNiIlZ9Ug"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "La Flaca",
+        "url": "https://open.spotify.com/album/1O5kJTerozuI2WLgzvIz2m"
+      },
+      "artists": [
+        {
+          "name": "Jarabe De Palo",
+          "url": "https://open.spotify.com/artist/5B6H1Dq77AV1LZWrbNsuH5"
+        }
+      ],
+      "duration_ms": 212226,
+      "name": "Grita",
+      "url": "https://open.spotify.com/track/3zz4oi4aiOUV6lcQfKP5pU"
     },
     {
       "added_at": "2022-01-25 22:47:02",

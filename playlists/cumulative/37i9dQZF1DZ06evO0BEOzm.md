@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0BEOzm.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0BEOzm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0BEOzm)
 
-### [This Is Megan Thee Stallion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
+### [This Is ミーガン・ザ・スタリオン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
 
-> This is Megan Thee Stallion\. The essential tracks, all in one playlist.
+> This is ミーガン・ザ・スタリオン。アーティストの代表曲をひとつのプレイリストに。
 
 73 songs - 3 hr 21 min
 

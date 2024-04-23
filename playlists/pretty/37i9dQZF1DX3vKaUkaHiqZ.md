@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 
 > Listen to the official playlist for LUPIN, now streaming on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,519 likes - 62 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,526 likes - 62 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3vKaUkaHiqZ.md) - [plain]
 | 39 | [I Can See Clearly Now \- Edit](https://open.spotify.com/track/0DcrhZ12WcCqruCs8ibXSf) | [Johnny Nash](https://open.spotify.com/artist/0nAVvgfE9yI4DwvMiYwk8a) | [I Can See Clearly Now](https://open.spotify.com/album/2ZdUVurLZBrEphCLzX7MdU) | 2:44 |
 | 40 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
 | 41 | [Reach Out I'll Be There](https://open.spotify.com/track/2ELbFFbETUl4NYM7mWTmwj) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:58 |
-| 42 | [Gentleman cambrioleur \- Remastered](https://open.spotify.com/track/2steMN9MG8voyVYWeUvgLP) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Gentleman cambrioleur \(Remastered\)](https://open.spotify.com/album/0heE3Y3mMKEg3aS083r8zW) | 3:07 |
+| 42 | [Gentleman cambrioleur \- Remastered 2004](https://open.spotify.com/track/2steMN9MG8voyVYWeUvgLP) | [Jacques Dutronc](https://open.spotify.com/artist/3ayds6VIVBx3CU5NSNCDbq) | [Gentleman cambrioleur \(Remastered\)](https://open.spotify.com/album/0heE3Y3mMKEg3aS083r8zW) | 3:07 |
 | 43 | [Arsène](https://open.spotify.com/track/3faxOU7DRY4OsafO3T7lbv) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 1 of the Netflix Original Series\)](https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL) | 2:27 |
 | 44 | [Pellegrini](https://open.spotify.com/track/4N2R4evsVGjYmfLsWsyT4z) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 1 of the Netflix Original Series\)](https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL) | 1:52 |
 | 45 | [Juliette](https://open.spotify.com/track/5i64oW8cONNm3e4EVP2BLH) | [Mathieu Lamboley](https://open.spotify.com/artist/04Q5tKdnKLhTFcph6K5d45) | [Lupin \(Music from Pt\. 1 of the Netflix Original Series\)](https://open.spotify.com/album/0FB6cTL5tHytJJfoKFvSDL) | 1:24 |

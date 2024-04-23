@@ -4,7 +4,7 @@
 
 > It's a main pop girl emergency 🆘  Cover: Jojo Siwa
 
-884 songs - 1 day 20 hr 30 min
+885 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [F U Goodbye](https://open.spotify.com/track/205wK88loGkvq5Me6h3XZg) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [F U Goodbye](https://open.spotify.com/album/1qN1cdmp9anpdy8fohdvLo) | 2:46 | 2023-03-03 | 2023-06-03 |
 | [f0rbiidden l0ve$tory](https://open.spotify.com/track/4LIKefM5MAyRNuMg0fZkCo) | [horsegiirL](https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2) | [f0rbiidden l0ve$tory](https://open.spotify.com/album/34neOqBrIAoc7zw2qZN2JE) | 2:06 | 2023-10-27 | 2023-11-23 |
 | [Fading Like A Flower](https://open.spotify.com/track/5THQw2QDTWwOP1Hj543Rb2) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Fading Like A Flower](https://open.spotify.com/album/5wFmirRzEpKhkN1zQR73tT) | 2:25 | 2022-04-22 | 2022-06-04 |
+| [Falling Deep](https://open.spotify.com/track/55u8ATvEGWOBIb4vY81OgP) | [Will Young](https://open.spotify.com/artist/2U6gqwyl9F33YxawnFrZG7) | [Falling Deep](https://open.spotify.com/album/7kMyLSuFjj6zudrTaYRfG2) | 3:08 | 2024-04-22 |  |
 | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb) | 3:19 | 2024-04-19 |  |
 | [Fantasy Girl](https://open.spotify.com/track/202C4Jw7Ww8RryU62w8GOq) | [Revenge Wife](https://open.spotify.com/artist/25ze27QLJJPQewxTzQjKlT) | [Fantasy Girl](https://open.spotify.com/album/4AIOpQIz2coSkRGqdGC6z1) | 4:08 | 2023-05-19 | 2023-08-19 |
 | [Fashion](https://open.spotify.com/track/2Pm4Sxl4S1iJK38YnFGAFC) | [Billy Porter](https://open.spotify.com/artist/3sjUEh7eXUEL5oZLAEZXD4) | [Fashion](https://open.spotify.com/album/7bW2kZXTYEGUrVvDl1xdlY) | 3:03 | 2023-05-23 | 2023-07-01 |
@@ -883,7 +884,7 @@
 | [You Know What I Need](https://open.spotify.com/track/5PQFmB2xhRkJTUWDKccBoP) | [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [You Know What I Need](https://open.spotify.com/album/0kktnSnWwAcdS0PQGAEcSM) | 2:50 | 2022-12-02 | 2023-01-28 |
 | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/track/1lda5hogfvK9CY3vLyJbZ0) | [Adam Lambert](https://open.spotify.com/artist/6prmLEyn4LfHlD9NnXWlf7), [Sigala](https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN) | [You Make Me Feel \(Mighty Real\)](https://open.spotify.com/album/1kWLZZlF4UNEgxzjE8gBNw) | 3:25 | 2023-06-02 | 2023-09-23 |
 | [You Only Love Me](https://open.spotify.com/track/5FHPvs8RxWBQXP2Rq9I2B2) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [You Only Love Me](https://open.spotify.com/album/5Vqzr0g0cyJES3rIs4IkTq) | 2:28 | 2023-01-27 | 2023-04-15 |
-| [You Slept On Me](https://open.spotify.com/track/5ck0j6M9T01MxWhesQlGSW) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 4:11 | 2024-02-23 |  |
+| [You Slept On Me](https://open.spotify.com/track/5ck0j6M9T01MxWhesQlGSW) | [Allie X](https://open.spotify.com/artist/0wnYgCeP013HkKoOyC5V32) | [Girl With No Face](https://open.spotify.com/album/10o3OFqQt0gqemtIcCh72x) | 4:11 | 2024-02-23 | 2024-04-23 |
 | [You Want My …](https://open.spotify.com/track/7599UxhqJlpV013iiLCfZK) | [Bright Light Bright Light](https://open.spotify.com/artist/25bvQC4jyyFUce6jbzNlwb) | [You Want My ...](https://open.spotify.com/album/27zepHIiwqXIqBYB23Uc5D) | 3:26 | 2024-01-12 | 2024-01-27 |
 | [You're Free](https://open.spotify.com/track/0KF938333oCvIXDxe72K44) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw), [Ultra Naté](https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN) | [You're Free](https://open.spotify.com/album/3kufQdX9NuDXE0QxT1eDoM) | 2:47 | 2022-06-17 | 2022-09-17 |
 | [You're My Sunshine](https://open.spotify.com/track/04To9j9yEUCrNJXGEM7B2K) | [Cazzi Opeia](https://open.spotify.com/artist/1OKyf1iS27lqvUFebKrbee) | [You're My Sunshine](https://open.spotify.com/album/0n82hSQqzU4YTXGEMdMRfQ) | 3:01 | 2022-07-29 | 2022-09-17 |

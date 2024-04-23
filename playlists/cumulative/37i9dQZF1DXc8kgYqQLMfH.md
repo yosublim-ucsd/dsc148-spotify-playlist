@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,147 songs - 1 day 19 hr 33 min
+1,148 songs - 1 day 19 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -625,6 +625,7 @@
 | [Meeting Up At Night](https://open.spotify.com/track/1VSqMBcvU4vsgtcyBBGyag) | [Natasha Ghosh](https://open.spotify.com/artist/1NdDUOuRmmfgKiuWKUEp7z), [eaup](https://open.spotify.com/artist/5MvvhhTGyd2iGzaksZpLEt) | [Meeting Up At Night](https://open.spotify.com/album/6u5bkANy5hqUH9s2riEFXN) | 2:57 | 2022-07-01 | 2023-09-22 |
 | [Meetings](https://open.spotify.com/track/2gZpKWXtpyUHQf9LZBJCCA) | [Jorick](https://open.spotify.com/artist/0GE8ydB4Bg776B35TRKm52) | [Meetings](https://open.spotify.com/album/6By26w3NxZYcaWCVk2vyOH) | 2:40 | 2022-10-28 |  |
 | [mellow](https://open.spotify.com/track/6NQifrTw9bIazUX9oGfSsa) | [shogani](https://open.spotify.com/artist/0y76RS7R6xSSztxu7QfvN0) | [mellow](https://open.spotify.com/album/5hrFU6NdaH8oCAOZAy7wP0) | 2:07 | 2021-11-10 | 2022-10-29 |
+| [Mellow Moods](https://open.spotify.com/track/1yRN8ZelpRKfhTzzNuandF) | [Breezonic](https://open.spotify.com/artist/6dcAuzmzyzfUfwRyT2CIXb) | [Mellow Moods](https://open.spotify.com/album/17COrJFxElnzKjuEu9S9lH) | 1:59 | 2024-03-22 |  |
 | [Melon Madness](https://open.spotify.com/track/7pUcVgQVYJuCBUDJOZUjZs) | [Dip Lewis](https://open.spotify.com/artist/1WJVNwZkJiTU9YRr6vEGx0) | [Melon Madness](https://open.spotify.com/album/4d3SCKEx0V4p1kEPFXoxfu) | 2:18 | 2022-09-02 |  |
 | [Melt](https://open.spotify.com/track/6p1N8bVALlHeDZDepblht2) | [Loose Principles](https://open.spotify.com/artist/6sVzSwvK7Wq0a0xjHk8tGk) | [Melt](https://open.spotify.com/album/36z7ppKin2XyN9FYtwTsnZ) | 2:36 | 2023-09-29 |  |
 | [memories](https://open.spotify.com/track/14kGhyabTHGMtbNhraoe0p) | [s t r o b e](https://open.spotify.com/artist/5TfuBYzx9YHjTXKfH1iVTD) | [cosmic](https://open.spotify.com/album/2Jl7oKmRdC38vmasNoIsTM) | 1:39 | 2021-11-10 | 2023-04-12 |
@@ -1029,7 +1030,7 @@
 | [thyme](https://open.spotify.com/track/01u7mnb7IIIPwzyS2JMLkr) | [halfv](https://open.spotify.com/artist/39uoKVa0crMraoZRzL5sPQ) | [thyme](https://open.spotify.com/album/19By3kTebpVXN7WLzpUZx4) | 2:03 | 2021-11-10 | 2022-06-10 |
 | [Time \- Birds of the West Remix](https://open.spotify.com/track/1kl3d9lcw2OaIx1I3JmfLS) | [Karmacoda](https://open.spotify.com/artist/4X45nKUBNLpHB92NUo3TQE), [Birds Of The West](https://open.spotify.com/artist/37qnORF8QfcLsPYb6lRhiq) | [Time \(Birds of the West Remix\)](https://open.spotify.com/album/5FO1Dap8bsOhZ98WMy5Vv5) | 2:59 | 2022-09-09 | 2023-10-06 |
 | [Time Out](https://open.spotify.com/track/0XucO4F8DbXgABJvfDgY8F) | [skyswimming](https://open.spotify.com/artist/1VAupbjOIpMJk71kFmXrKy), [Layandar](https://open.spotify.com/artist/3SE9JR8Ors7GGbUWHYjgsv), [yani](https://open.spotify.com/artist/6TdK92VfuJbFh7aNmGv6li) | [Time Out](https://open.spotify.com/album/7b3ICAYEyq0JiGVZZgEIth) | 2:14 | 2022-06-10 | 2023-09-22 |
-| [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 | 2022-12-09 |  |
+| [Time To Fly](https://open.spotify.com/track/4lnTZHXAvMOuQSeAI4pp8o) | [KLYKA](https://open.spotify.com/artist/0OWKTmghewHnHIJzyYjSPP) | [Time To Fly](https://open.spotify.com/album/4LRz5K5TPO3MQDw5Iavkeb) | 1:44 | 2022-12-09 | 2024-04-23 |
 | [Time Voyagers](https://open.spotify.com/track/1zuzGuafawLRigw1I1NW8M) | [eugenio izzi](https://open.spotify.com/artist/0vpi2tMaHCn6YHS6L7qgoe), [Sweet Medicine](https://open.spotify.com/artist/0CF9CnQbK6uS8u78KVnIPv) | [Time Voyagers](https://open.spotify.com/album/2hqJIu5LcnkOJ4ou5ezxPe) | 2:37 | 2022-11-25 | 2023-04-28 |
 | [Time's Memories](https://open.spotify.com/track/6MEdygUrQQcTBonYYMhb7g) | [MY7O](https://open.spotify.com/artist/29bFz21OCfBIhQ7RoAfI5z) | [Time's Memories](https://open.spotify.com/album/2wxkse9MOM5dNrzu2U32PV) | 2:12 | 2022-07-22 | 2023-10-06 |
 | [Timeless](https://open.spotify.com/track/29fn9cpQP5bXvTOQiJrUfq) | [Jost Esser](https://open.spotify.com/artist/6g67HuwuliYaN3y0I3C3o8), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Timeless](https://open.spotify.com/album/3GhCdZi59qYMUNbHTvDdsp) | 2:21 | 2023-05-19 |  |

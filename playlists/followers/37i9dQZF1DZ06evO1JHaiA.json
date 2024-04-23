@@ -1,7 +1,7 @@
 {
-  "2024-04-22": 2681,
+  "2024-04-23": 2681,
   "date_first_scraped": "2022-05-26",
-  "description": "This is The Intruders. The essential tracks, all in one playlist.",
+  "description": "This Is The Intruders. Los temas esenciales, todos en una lista.",
   "name": "This Is The Intruders",
   "tracks": [
     {
@@ -741,7 +741,7 @@
       ],
       "date_added": "2023-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 151866,
       "name": "Jefferies Rock",
       "url": "https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V"
@@ -1363,7 +1363,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 156053,
       "name": "Wonder What Kind of Bag She's In",
       "url": "https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE"

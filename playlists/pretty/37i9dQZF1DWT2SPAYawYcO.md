@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 372,540 likes - 83 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,440 likes - 83 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

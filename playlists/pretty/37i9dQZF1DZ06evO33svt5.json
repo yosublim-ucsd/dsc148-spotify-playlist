@@ -1,12 +1,12 @@
 {
-  "description": "This Is Doja Cat. Los temas esenciales, todos en una lista.",
-  "num_followers": 992189,
-  "original_name": "This Is Doja Cat",
+  "description": "This is \u30c9\u30fc\u30b8\u30e3\u30fb\u30ad\u30e3\u30c3\u30c8\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 992455,
+  "original_name": "This Is \u30c9\u30fc\u30b8\u30e3\u30fb\u30ad\u30e3\u30c3\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDhiOTU2NDkyNTk1YWJhOGQ4Y2IzNzBjMjk3ODQxMTUw",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGE5NTVkMGRjMTk3OTY1YjM1NzViMmU3ODgzMDViNjIx",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Streets",
-      "url": "https://open.spotify.com/track/60ynsPSSKe6O3sfwRnIBRf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amala",
         "url": "https://open.spotify.com/album/54tInqO543zy0Y5F2VsUQI"
       },
@@ -151,26 +135,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 186173,
-      "name": "You Right",
-      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
       },
@@ -183,6 +147,26 @@
       "duration_ms": 169066,
       "name": "OKLOSER",
       "url": "https://open.spotify.com/track/3Vlt0DKYBK0h3Vf92nywhp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 208666,
+      "name": "Kiss Me More (feat. SZA)",
+      "url": "https://open.spotify.com/track/3DarAbFujv6eYNliUTyqtz"
     },
     {
       "added_at": null,
@@ -219,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 237893,
-      "name": "Say So",
-      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Scarlet 2 CLAUDE",
         "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
       },
@@ -255,8 +223,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-        "url": "https://open.spotify.com/album/2Q5DPv9uliinOBSdNooIe3"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 186173,
+      "name": "You Right",
+      "url": "https://open.spotify.com/track/0k4d5YPDr1r7FX77VdqWez"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
       },
       "artists": [
         {
@@ -264,9 +252,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 182906,
-      "name": "Vegas (From the Original Motion Picture Soundtrack ELVIS)",
-      "url": "https://open.spotify.com/track/0hquQWY3xvYqN4qtiquniF"
+      "duration_ms": 237893,
+      "name": "Say So",
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
     },
     {
       "added_at": null,
@@ -320,9 +308,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 138293,
-      "name": "Get Into It (Yuh)",
-      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
+      "duration_ms": 210560,
+      "name": "Need to Know",
+      "url": "https://open.spotify.com/track/3Vi5XqYrmQgOYBajMWSvCi"
     },
     {
       "added_at": null,
@@ -350,15 +338,11 @@
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
         }
       ],
-      "duration_ms": 163173,
-      "name": "Like That (feat. Gucci Mane)",
-      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
+      "duration_ms": 187040,
+      "name": "Rules",
+      "url": "https://open.spotify.com/track/1TMWcbxL5YF8rKsFHv5hAP"
     },
     {
       "added_at": null,
@@ -387,22 +371,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amala (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Rico Nasty",
-          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
         }
       ],
-      "duration_ms": 211013,
-      "name": "Tia Tamera (feat. Rico Nasty)",
-      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
+      "duration_ms": 138293,
+      "name": "Get Into It (Yuh)",
+      "url": "https://open.spotify.com/track/0W6I02J9xcqK8MtSeosEXb"
     },
     {
       "added_at": null,
@@ -419,6 +399,46 @@
       "duration_ms": 199480,
       "name": "HEADHIGH",
       "url": "https://open.spotify.com/track/29pWNRvG3sugJEr05GgqlQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        }
+      ],
+      "duration_ms": 163173,
+      "name": "Like That (feat. Gucci Mane)",
+      "url": "https://open.spotify.com/track/4EivmOT13NMpNSfTKn9p4s"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amala (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Rico Nasty",
+          "url": "https://open.spotify.com/artist/2OaHYHb2XcFPvqL3VsyPzU"
+        }
+      ],
+      "duration_ms": 211013,
+      "name": "Tia Tamera (feat. Rico Nasty)",
+      "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
       "added_at": null,
@@ -443,22 +463,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 188893,
-      "name": "I Don't Do Drugs (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W"
+      "duration_ms": 190613,
+      "name": "ACKNOWLEDGE ME",
+      "url": "https://open.spotify.com/track/2Ke8xquzK9JyPt6OPGBVTI"
     },
     {
       "added_at": null,
@@ -483,18 +499,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
       },
       "artists": [
         {
           "name": "Doja Cat",
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
         }
       ],
-      "duration_ms": 190613,
-      "name": "ACKNOWLEDGE ME",
-      "url": "https://open.spotify.com/track/2Ke8xquzK9JyPt6OPGBVTI"
+      "duration_ms": 188893,
+      "name": "I Don't Do Drugs (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/0FFsgUoFibYISzMxuGS61W"
     },
     {
       "added_at": null,
@@ -511,6 +531,22 @@
       "duration_ms": 242692,
       "name": "Streets - Silhouette Remix",
       "url": "https://open.spotify.com/track/0Uru1UoJdHKf2lxssQT3kC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet 2 CLAUDE",
+        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 155373,
+      "name": "PISS",
+      "url": "https://open.spotify.com/track/7oZ3BHE9ZzWS3DpjD9RBOl"
     },
     {
       "added_at": null,
@@ -535,38 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 177373,
-      "name": "Been Like This",
-      "url": "https://open.spotify.com/track/7y3xU9vEC1s8DSuuoSYKih"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scarlet 2 CLAUDE",
-        "url": "https://open.spotify.com/album/2IUoE0jqkViW6gGfqLcjG2"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 155373,
-      "name": "PISS",
-      "url": "https://open.spotify.com/track/7oZ3BHE9ZzWS3DpjD9RBOl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Attention",
         "url": "https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E"
       },
@@ -583,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hot Pink",
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 165733,
+      "name": "Cyber Sex",
+      "url": "https://open.spotify.com/track/1ghvzmzpx2nnrbx7wtpMgo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/7iduRgQGVmm0Thy4v734Py"
       },
@@ -595,6 +615,22 @@
       "duration_ms": 195573,
       "name": "Demons",
       "url": "https://open.spotify.com/track/1xemKSmCnH59ze3KX5wwgH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 176840,
+      "name": "Gun",
+      "url": "https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS"
     },
     {
       "added_at": null,
@@ -619,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
       },
       "artists": [
         {
@@ -628,9 +664,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 176840,
-      "name": "Gun",
-      "url": "https://open.spotify.com/track/15sNe8FD178zMsVz6ug0AS"
+      "duration_ms": 284480,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
     },
     {
       "added_at": null,
@@ -659,8 +695,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freak",
-        "url": "https://open.spotify.com/album/3jCcsG6jkQTnUJyCACAg0r"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
@@ -668,9 +704,9 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 284480,
-      "name": "Freak",
-      "url": "https://open.spotify.com/track/3aA6xB0tOilDDX17fIJ0Bl"
+      "duration_ms": 187400,
+      "name": "Shutcho",
+      "url": "https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x"
     },
     {
       "added_at": null,
@@ -691,22 +727,6 @@
       "duration_ms": 175238,
       "name": "Dick (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/3nY8AqaMNNHHLYV4380ol0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scarlet",
-        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 187400,
-      "name": "Shutcho",
-      "url": "https://open.spotify.com/track/4rjQxlKAIXbEqHzjrnYZ7x"
     },
     {
       "added_at": null,
@@ -743,26 +763,6 @@
       "duration_ms": 217813,
       "name": "Go To Town",
       "url": "https://open.spotify.com/track/6iOvnACn4ChlAw4lWUU4dd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "JID",
-          "url": "https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7"
-        }
-      ],
-      "duration_ms": 159160,
-      "name": "Options (feat. JID)",
-      "url": "https://open.spotify.com/track/1ayV64ur8VWgc6OPtPRl1q"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hot Pink",
-        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        },
-        {
-          "name": "Smino",
-          "url": "https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD"
-        }
-      ],
-      "duration_ms": 195213,
-      "name": "Won't Bite (feat. Smino)",
-      "url": "https://open.spotify.com/track/7k51pIqTGEHHZOnpI11Qq2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Better Mistakes",
         "url": "https://open.spotify.com/album/1v0new1LT7TVddV7dBIAmo"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 175873,
       "name": "Baby, I'm Jealous (feat. Doja Cat)",
       "url": "https://open.spotify.com/track/5r0cOO77xkM5jjHk67Z2Lt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sunshine Kitty",
+        "url": "https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        },
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 134845,
+      "name": "Equally Lost (feat. Doja Cat)",
+      "url": "https://open.spotify.com/track/0zFComc9VzjCKWm4PSbIJk"
     },
     {
       "added_at": null,
@@ -923,28 +923,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunshine Kitty",
-        "url": "https://open.spotify.com/album/5kaCqETtik8oE7M9D8wxrW"
-      },
-      "artists": [
-        {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        },
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 134845,
-      "name": "Equally Lost (feat. Doja Cat)",
-      "url": "https://open.spotify.com/track/0zFComc9VzjCKWm4PSbIJk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amala (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3wOMqxNHgkga91RBC7BaZU"
+        "name": "Scarlet",
+        "url": "https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl"
       },
       "artists": [
         {
@@ -952,11 +932,11 @@
           "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
         }
       ],
-      "duration_ms": 285053,
-      "name": "MOOO!",
-      "url": "https://open.spotify.com/track/043dDJ9u0PQ3ooAXMgcwOe"
+      "duration_ms": 192240,
+      "name": "Wet Vagina",
+      "url": "https://open.spotify.com/track/5MqauQV2PhcEFfhKtBOTua"
     }
   ],
-  "unique_name": "This Is Doja Cat",
+  "unique_name": "This Is \u30c9\u30fc\u30b8\u30e3\u30fb\u30ad\u30e3\u30c3\u30c8",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO33svt5"
 }

@@ -1,12 +1,12 @@
 {
-  "description": "This is Fernanda Brum. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 70951,
+  "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
+  "num_followers": 70897,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDAyZmY4NGZjYzMwNWUwZjAxZTc5NzZhODMyNWNjNDEz",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFmZDY3M2RiNWE0NGE4Y2FiZGE5YmU4OThiYWE1Yzhk",
   "tracks": [
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+        "name": "O Amor Que Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 290249,
-      "name": "Suas Digitais",
-      "url": "https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV"
+      "duration_ms": 261999,
+      "name": "O Amor Que Cura - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "O Amor Que Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 261999,
-      "name": "O Amor Que Cura - Ao Vivo",
-      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
+      "duration_ms": 290249,
+      "name": "Suas Digitais",
+      "url": "https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quebrantado Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 205868,
-      "name": "Vaso de Alabastro",
-      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paix\u00e3o de Cristo - O Musical",
         "url": "https://open.spotify.com/album/3FQM2qMVhkS4lnXVtpHZnO"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 193004,
       "name": "Vinho e P\u00e3o",
       "url": "https://open.spotify.com/track/5sI3nwxI5IncAepXQYhEod"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quebrantado Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 205868,
+      "name": "Vaso de Alabastro",
+      "url": "https://open.spotify.com/track/3BjAxbI4Db9QbIsYSyXzEx"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 284026,
-      "name": "Santo (Holy)",
-      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ou\u00e7o Deus Me Chamar",
         "url": "https://open.spotify.com/album/06qcwXnweJvNixBPekCcSd"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 298000,
       "name": "Ou\u00e7o Deus Me Chamar",
       "url": "https://open.spotify.com/track/78jlmri0xPa63LDt3g4h2E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 284026,
+      "name": "Santo (Holy)",
+      "url": "https://open.spotify.com/track/4l90mbIMuolQaY84Y07Y2G"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Da Eternidade",
-        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 259227,
-      "name": "Deus Est\u00e1 me Construindo",
-      "url": "https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pra Me Alegrar",
         "url": "https://open.spotify.com/album/0gH7iDQNDPnJ5C4ynNNf4l"
       },
@@ -707,6 +691,22 @@
       "duration_ms": 241906,
       "name": "O Deserto Vale Ouro (feat. Fernanda Brum)",
       "url": "https://open.spotify.com/track/5kMfmB02ngkeIwfI9FgXxZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Da Eternidade",
+        "url": "https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 259227,
+      "name": "Deus Est\u00e1 me Construindo",
+      "url": "https://open.spotify.com/track/43HJMNRjdq4XHHlWvsWNHd"
     },
     {
       "added_at": null,
@@ -755,6 +755,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberta-me",
+        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 245481,
+      "name": "Cacos Pelo Ch\u00e3o",
+      "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sonhos",
         "url": "https://open.spotify.com/album/1sUvDkBy5POHFyvSuuKmBC"
       },
@@ -771,18 +787,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Liberta-me",
-        "url": "https://open.spotify.com/album/29i2u8AJzIHYkyo5PFCuNT"
+        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
+        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
       },
       "artists": [
         {
           "name": "Fernanda Brum",
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Arianne",
+          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
         }
       ],
-      "duration_ms": 245481,
-      "name": "Cacos Pelo Ch\u00e3o",
-      "url": "https://open.spotify.com/track/14Hp6TfLnygHsJEQMhVqhl"
+      "duration_ms": 416194,
+      "name": "Jesus, Meu Primeiro Amor",
+      "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
     },
     {
       "added_at": null,
@@ -855,26 +875,6 @@
       "duration_ms": 182508,
       "name": "Unidos Pelo Amor",
       "url": "https://open.spotify.com/track/58JbyiEMEfi9SfOAmnvyeV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Arianne",
-          "url": "https://open.spotify.com/artist/49gy3r9VM6fxS16a9R8eE1"
-        }
-      ],
-      "duration_ms": 416194,
-      "name": "Jesus, Meu Primeiro Amor",
-      "url": "https://open.spotify.com/track/4DiKminQ3591BMQpmWgZvj"
     },
     {
       "added_at": null,
@@ -1119,8 +1119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Profetizando \u00e0s Na\u00e7\u00f5es",
-        "url": "https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T"
+        "name": "\u00c9s Real Pra Mim",
+        "url": "https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A"
       },
       "artists": [
         {
@@ -1128,9 +1128,9 @@
           "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
         }
       ],
-      "duration_ms": 267633,
-      "name": "Peniel",
-      "url": "https://open.spotify.com/track/33SjnQdGNOhQMtk6wSp6Bu"
+      "duration_ms": 334413,
+      "name": "\u00c9s Real pra Mim",
+      "url": "https://open.spotify.com/track/2hsERnD409nL9T06rhZC01"
     }
   ],
   "unique_name": "This Is Fernanda Brum",

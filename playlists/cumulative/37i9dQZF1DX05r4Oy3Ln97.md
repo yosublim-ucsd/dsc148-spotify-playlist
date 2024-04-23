@@ -4,7 +4,7 @@
 
 > Dip your feet in the pool and enjoy this perfect summer house mix ☀️
 
-315 songs - 16 hr 26 min
+316 songs - 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Give It All Now](https://open.spotify.com/track/0DagTSqkS7UIYWJFBN1Up1) | [Red Leopard](https://open.spotify.com/artist/5h24ruFrsYkrOrEA6PXq47) | [Give It All Now](https://open.spotify.com/album/70R5M4X86EDmrRL9jkSEhB) | 3:16 | 2022-03-25 | 2022-07-16 |
 | [Giving Me](https://open.spotify.com/track/1ACFweuuvf6MHtptObgreR) | [Jazzy](https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP) | [Giving Me](https://open.spotify.com/album/0wTaLHasxRWB2VBwh9maAc) | 2:49 | 2023-05-26 |  |
 | [Goodbye Lover](https://open.spotify.com/track/6P62rwu9ExgXscsUCaixuc) | [Adon](https://open.spotify.com/artist/7l7IyxqOyGDSU6iF4FzisA) | [Goodbye Lover](https://open.spotify.com/album/4s2dJEoEyNNSYZ45ecb5mr) | 2:31 | 2021-10-29 | 2022-04-17 |
-| [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 | 2023-01-27 |  |
+| [Got Me Like](https://open.spotify.com/track/5Lm0xkrtZFYz1waA9gwqYP) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Got Me Like](https://open.spotify.com/album/1oTR7MwbdO5KgAyWxxUZQP) | 2:10 | 2023-01-27 | 2024-04-23 |
 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/1asrO7gENmmoBu9iRJtZbi) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass](https://open.spotify.com/album/7s2tI5Em7hNCF9vZK6K91Q) | 3:11 | 2023-01-27 | 2023-07-15 |
 | [Green Green Grass \- Majestic Remix](https://open.spotify.com/track/5HQrESmLNtomQpoVALIVuJ) | [George Ezra](https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Green Green Grass \(Majestic Remix\)](https://open.spotify.com/album/3kWWCohWkatO0uyYxXTQas) | 3:11 | 2022-06-17 | 2022-11-14 |
 | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/track/1BAupWJ7hkJFJuOL0eHb45) | [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Bhaskar](https://open.spotify.com/artist/6kT18gnkVrCz8xJQcrib7L), [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Halfway \(feat\. Twan Ray\)](https://open.spotify.com/album/3Ql67TcOvEK8VOSML3UEv1) | 2:38 | 2021-10-29 | 2022-03-22 |
@@ -130,6 +130,7 @@
 | [Hold U \(feat\. James Tone\)](https://open.spotify.com/track/77iqZEJZEMZLt07rtpAnUw) | [Lenno](https://open.spotify.com/artist/4IRw3ME1D0lYOyFyXAjDv7), [James Tone](https://open.spotify.com/artist/5s5zRZUXDZnNcqVdWlHDkC) | [Hold U \(feat\. James Tone\)](https://open.spotify.com/album/2Ej6MtS04Rpyr66M3dnxiB) | 3:28 | 2022-04-08 | 2022-07-29 |
 | [Home](https://open.spotify.com/track/58W6OdSaSsRDcMQYdC2SB5) | [Jewels](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [Discrete](https://open.spotify.com/artist/7arwEayqcKWkzDmGEB7xov), [Tudor](https://open.spotify.com/artist/6YPmhC6xckfcUiw4undxAb) | [Home](https://open.spotify.com/album/5w3vUnEpFqhgvTUmTwoBbR) | 3:45 | 2022-09-09 | 2023-06-17 |
 | [How It Feels](https://open.spotify.com/track/2DSQvvaojC1yu5phfWDKuB) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [How It Feels](https://open.spotify.com/album/320rO6gCDoi1IOWMdthaZp) | 2:18 | 2023-08-25 | 2024-01-26 |
+| [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 | 2024-04-19 |  |
 | [Human](https://open.spotify.com/track/4TpPSDtJGuD51E66sWrxmd) | [Roman Müller](https://open.spotify.com/artist/3nFw6mPGG5Uj2YS7IyaGEF), [Ellysse Mason](https://open.spotify.com/artist/1lXWojioTTf8G8tOOxP9XN) | [Human](https://open.spotify.com/album/7kvzygcfZ2c2ndMxhi92uo) | 2:25 | 2021-10-29 | 2023-03-11 |
 | [I Feel Fine](https://open.spotify.com/track/0uNyb8YPD5LDM4gpb4hqry) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/27XW2QTeqZGOKlm2Dt0PvN) | 3:18 | 2023-01-27 | 2023-10-06 |
 | [I Feel Fine](https://open.spotify.com/track/265bwW6oJeDfm04EPElVQv) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [I Feel Fine](https://open.spotify.com/album/32fuBZ59NFOdFcjAC9m6A7) | 3:18 | 2022-09-09 | 2022-11-09 |

@@ -8436,7 +8436,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -9132,7 +9132,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 216662,
       "name": "Clara Bow",
       "url": "https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB"
@@ -14026,7 +14026,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 153408,
       "name": "Eredivisie",
       "url": "https://open.spotify.com/track/1IaZUglHDN0kO6yhuyYta2"
@@ -37016,7 +37016,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 166857,
       "name": "PRETTY LIL SHAWTY",
       "url": "https://open.spotify.com/track/6Is9gynDxpWAxDwC1AokLy"
@@ -44753,6 +44753,24 @@
     },
     {
       "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/1xQnVy9txnqnRnbr2nlJf2"
       },
@@ -51296,7 +51314,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 225000,
       "name": "XABAT",
       "url": "https://open.spotify.com/track/1V6qGsDqgKZwrX5dy5PPuA"

@@ -4,7 +4,7 @@
 
 > Take comfort in these sad piano songs.
 
-372 songs - 16 hr 43 min
+373 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Is This Really All That's Left](https://open.spotify.com/track/0WeedLPbEE8GGziUucNj1k) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Is This Really All That's Left](https://open.spotify.com/album/5B3YNyzs038xqqJ22CfZlK) | 2:26 | 2022-09-12 | 2022-11-15 |
 | [Island II](https://open.spotify.com/track/2vUY8WL94C9ortPW7AwwEE) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Sol Novo](https://open.spotify.com/album/3JWpVOW9aj9y5eoMaUFbFN) | 2:23 | 2022-08-01 |  |
 | [Isle of Arran](https://open.spotify.com/track/2VKWrVYPGgJzBmRGc8LWkh) | [Quinn MacKenzie](https://open.spotify.com/artist/0smsvjiRdPUrd3bDPIinyn) | [Isle of Arran](https://open.spotify.com/album/67HkNTwNvY9he8hu5lyg6R) | 2:50 | 2022-08-01 | 2023-05-10 |
+| [Jade Vine](https://open.spotify.com/track/6rr10DYH1fRl2r1JATikzT) | [Moonsong](https://open.spotify.com/artist/5AjSOMFkn9lSiVC64euKjX) | [Jade Vine](https://open.spotify.com/album/75AKexBMxxBFXllsZ4CmlX) | 2:36 | 2024-04-22 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2022-08-01 | 2022-09-13 |
 | [Juanita](https://open.spotify.com/track/2SxQiQXujf3D29LxFeWm9Z) | [Boone River](https://open.spotify.com/artist/5hnP6B3XX1yAvhQWHifkxx) | [Juanita](https://open.spotify.com/album/6IOVPJjXKlofAsOkb0ircw) | 2:44 | 2022-08-01 |  |
 | [Just Like You](https://open.spotify.com/track/1NMLWuUMYy2OqxhGY5tUYD) | [Linn Hope](https://open.spotify.com/artist/5VBvp5RbAHFL0UlVaKqK9D) | [Just Like You](https://open.spotify.com/album/4vTgD41WBmNIg2k93KlLsZ) | 2:09 | 2022-09-23 |  |

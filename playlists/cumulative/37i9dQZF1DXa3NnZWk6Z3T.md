@@ -4,7 +4,7 @@
 
 > Keep calm and enjoy this musical cafecito.
 
-353 songs - 20 hr 25 min
+354 songs - 20 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,7 @@
 | [Bésame mucho \(Kiss Me a Lot\)](https://open.spotify.com/track/0Vgsuj9b5MdKup4zwaQZIQ) | [Edna Vazquez](https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP), [Pink Martini](https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ) | [Bésame Mucho](https://open.spotify.com/album/64vqYa85KJSWGw3sbtcxbG) | 4:04 | 2021-12-09 | 2022-07-29 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0qMavnD5Z4HPl6O7ojX5Ov) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/0kYvC5jXQkvIYeMtAU9QK5) | 2:36 | 2022-09-21 | 2024-04-19 |
 | [bésame mucho \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/66JlPySmx98BQnX1xYMIG3) | [Alaina Castillo](https://open.spotify.com/artist/0duLKMlcwhyZgqu8zSSjBp) | [Spotify Singles](https://open.spotify.com/album/5kommCwJMaXFKYnfS6yB5A) | 2:36 | 2021-12-09 | 2022-10-13 |
-| [Cadáver](https://open.spotify.com/track/5iQoTxYBxuFt2hjrScsLCo) | [Stich](https://open.spotify.com/artist/25vFJVrERfAVNDjpLkXGQf) | [Los Jardines de la Memoria](https://open.spotify.com/album/3ppRHbKL2LIxa1JqnJvYiy) | 2:44 | 2022-04-07 |  |
+| [Cadáver](https://open.spotify.com/track/5iQoTxYBxuFt2hjrScsLCo) | [Stich](https://open.spotify.com/artist/25vFJVrERfAVNDjpLkXGQf) | [Los Jardines de la Memoria](https://open.spotify.com/album/3ppRHbKL2LIxa1JqnJvYiy) | 2:44 | 2022-04-07 | 2024-04-23 |
 | [Cafecito](https://open.spotify.com/track/4WuHzYPN060OB2bt3EgwyZ) | [Carmen DeLeon](https://open.spotify.com/artist/6vVKjeD0dvsg5EVMEUxI1l) | [Cafecito](https://open.spotify.com/album/7av0C1BqErsrx1CQb8aMRT) | 3:34 | 2021-12-09 |  |
 | [Café Con Canela](https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE) | [Sie7e](https://open.spotify.com/artist/11wOrJLuakmQqTuhXXW2xz), [The Islanauts](https://open.spotify.com/artist/3Fes3iYQgBEocYeRIFOwqx) | [Gaia](https://open.spotify.com/album/4PYQYYOE41VWrnr9OqqYYY) | 4:18 | 2021-12-09 |  |
 | [Café Con Chocolate](https://open.spotify.com/track/5oI5l1FUvJqKCbZTYTKWII) | [Okills](https://open.spotify.com/artist/5byIHYV7DDUKtHPAMyf3lA) | [Dimensión Caribe](https://open.spotify.com/album/1zsckcApfP5i2PGcGbJttW) | 3:22 | 2021-12-09 |  |
@@ -347,6 +347,7 @@
 | [Veracruz](https://open.spotify.com/track/5BtCjOEPnTt3m1PbCRxQhd) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Veracruz](https://open.spotify.com/album/6zQMFodbAoC1JJOtx2Q0av) | 4:03 | 2021-12-09 | 2022-09-04 |
 | [Veracruz](https://open.spotify.com/track/6QlEtyGqmX4dXASVeEEEDH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Un Canto por México, Vol\. 1](https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE) | 4:03 | 2022-09-08 | 2024-04-19 |
 | [Vernos Crecer](https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7) | [Andrea Cruz](https://open.spotify.com/artist/1CPyRfIuFga1dwN1PmQNn6) | [Vernos Crecer](https://open.spotify.com/album/7MwSQE8GJj5snfBoZf6vLY) | 2:55 | 2021-12-09 |  |
+| [vidas](https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK) | [Ale Fdz](https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy) | [vidas](https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U) | 4:13 | 2024-03-14 |  |
 | [Viejos Amores](https://open.spotify.com/track/2ZNchdc0bWU2BB8HMu1661) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja De Música \(Edición Especial\)](https://open.spotify.com/album/0c3JGBp60aExJSYIQ0Hbej) | 2:50 | 2022-04-07 | 2022-04-21 |
 | [Viejos Amores](https://open.spotify.com/track/2pyvcQecZGRnQoUczTxkwH) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Caja de Música](https://open.spotify.com/album/4XSLqHHDwqAnjwoMTtx7jC) | 2:50 | 2022-05-14 | 2022-10-28 |
 | [Viento y Tiempo \- Radio Edit](https://open.spotify.com/track/7mW99NJgskU2TChTgTVVrW) | [Vicente Cifuentes](https://open.spotify.com/artist/3b06h05NjiPizwnTeGybfG), [Vicente Garcia](https://open.spotify.com/artist/2Otnykd696YidQYfEGVmNq) | [Viento y Tiempo \(Radio Edit\)](https://open.spotify.com/album/3kZCDidGwgqvDvkzKkoSt1) | 3:57 | 2022-04-07 | 2022-04-21 |

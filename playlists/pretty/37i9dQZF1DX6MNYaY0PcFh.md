@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,583 likes - 60 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,604 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 34 | [Therapy](https://open.spotify.com/track/2ZT87sTizofihiECifOJnm) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5) | [Therapy](https://open.spotify.com/album/1BbRfh4nD8NgGqGw1aGdd0) | 3:54 |
 | 35 | [Show Me](https://open.spotify.com/track/0fOYe1mfPRzQ64zvMcqA59) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Show Me](https://open.spotify.com/album/3aF004NM1hTojpV1EMPy1M) | 3:28 |
 | 36 | [Crush](https://open.spotify.com/track/5NUCLEAAQKkP3OoCt19jrK) | [Hutcher](https://open.spotify.com/artist/2nwnPxZXwF9Mfaik9pQNXI), [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys), [Naike](https://open.spotify.com/artist/4eWMajurKslYrmKKz4MTRu) | [Crush](https://open.spotify.com/album/7v8DgbrDOeGHlDEgKnd2UP) | 3:00 |
-| 37 | [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 |
-| 38 | [Rita Ora](https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Rita Ora](https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk) | 2:02 |
+| 37 | [Rita Ora](https://open.spotify.com/track/2bPbyTiplZXroFIvW8Fjo0) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO) | [Rita Ora](https://open.spotify.com/album/5q9LTtptGJ6gk8Kaf6bUmk) | 2:02 |
+| 38 | [You & I](https://open.spotify.com/track/0EeArvKhN89pVWhVvWZmBv) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK) | [You & I](https://open.spotify.com/album/2bPXp4FEWCcN6WB68tY3xm) | 3:33 |
 | 39 | [Thinkin of You](https://open.spotify.com/track/2T4Nfk0tG4hfYCv06LY6Ej) | [Dylan & Harry](https://open.spotify.com/artist/6P4JE157ezddehGEnhC3jc), [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Baauer](https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv) | [Thinkin of You](https://open.spotify.com/album/0ajmnTICp3LDEsj9mvf9v6) | 2:17 |
 | 40 | [Without U \- Radio Edit](https://open.spotify.com/track/0IEXxwsZk1qf39V1xR4bWE) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf), [Megan Wroe](https://open.spotify.com/artist/2wIBVipx8Fv5orv4uzPW4C) | [Without U](https://open.spotify.com/album/4oRuCsWG1tg7hfPD0AFhjN) | 2:49 |
 | 41 | [Miss Dopamine](https://open.spotify.com/track/7tE9nUB6eBL0GPMfeZTqsh) | [Flava D](https://open.spotify.com/artist/682SntJ7VKoFfssPfDAmDZ), [Paige Eliza](https://open.spotify.com/artist/6zwVg9raWBJhhCpd8Etrey) | [Miss Dopamine](https://open.spotify.com/album/7dfCoyCzRpLmVwjRtMUqR6) | 3:46 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\) \[Murder He Wrote Remix\]](https://open.spotify.com/track/5ljicPY5xrI5f80r9MEWXM) | [Mollie Collins](https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu), [P Money](https://open.spotify.com/artist/6WjX4pepHwXa85B9KMk0PY), [Murder He Wrote](https://open.spotify.com/artist/4n11sJzNp7JjBQw9sDze9Z), [Laurena Volanté](https://open.spotify.com/artist/7KI4ye1U84lYhq78qm1hCu) | [Liquor By The Litre \(feat\. P Money & Laurena Volanté\) \[Murder He Wrote Remix\]](https://open.spotify.com/album/3KEZEvcyPrKBj423pUPLYl) | 3:26 |
 | 58 | [Friday Nights](https://open.spotify.com/track/4QQsSlu26MlInYyO9jXusj) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Friday Nights](https://open.spotify.com/album/0NhGRpBH1IEt6BQ69QSFDZ) | 3:25 |
 | 59 | [I Could \- Open Up Mix](https://open.spotify.com/track/4BDfygrHURRAI5EK3RxDqu) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [One Night, One Time](https://open.spotify.com/album/50dOkOrN2iLEaWBdGR0Osc) | 4:34 |
-| 60 | [Ricardo](https://open.spotify.com/track/5NKqifwgTbMOAZavYnrGcm) | [Arka](https://open.spotify.com/artist/6q3hVu8S1dWUSpmXmlL6Wx) | [Ricardo](https://open.spotify.com/album/63qn7uIE3pQWjYwm0zAcxz) | 2:12 |
+| 60 | [Pressure](https://open.spotify.com/track/15UU4ZRs2H51EerpEoGhZ7) | [Ell Murphy](https://open.spotify.com/artist/4r0F1gbqeQsaPg5d2nm5EJ) | [Pressure](https://open.spotify.com/album/1BfBUqYMPQF0N3GGM5QJEU) | 2:37 |
 
 Snapshot ID: `MTcxMjg4MDA2MCwwMDAwMDAwMDE3ODNiOTllOTBmZDU0NTM5ZjkyM2UyYjU5ZDNkYmM5`

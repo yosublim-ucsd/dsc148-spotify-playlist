@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0BRqs5.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0BRqs5) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0BRqs5)
 
-### [This Is Eir Aoi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
+### [This Is 藍井エイル](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BRqs5)
 
-> This is Eir Aoi\. The essential tracks, all in one playlist.
+> This is 藍井エイル。アーティストの代表曲をひとつのプレイリストに。
 
 84 songs - 6 hr 10 min
 
@@ -44,11 +44,11 @@
 | [Resonance](https://open.spotify.com/track/7p5NnU5fSHo52LaVEkFH6O) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [HELLO HELLO HELLO](https://open.spotify.com/album/3mNG6uD9uUc2E28h7baqt6) | 4:27 | 2022-08-31 | 2024-03-26 |
 | [Rosoku metronome](https://open.spotify.com/track/0b3Zn6LJsLJ8H6MpUI7IXz) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [PHOENIX PRAYER special edition](https://open.spotify.com/album/6YzzWuOx0NtLffVP3UA521) | 4:22 | 2022-06-11 | 2022-07-19 |
 | [SINGULARITY](https://open.spotify.com/track/0SD34sXHsm29Gm637omcuA) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:42 | 2022-06-11 | 2022-11-26 |
-| [UNLIMITED](https://open.spotify.com/track/0z6zShdYIiAJdT3I6FOl7q) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT \(Special Edition\)](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:36 | 2022-06-09 | 2023-05-08 |
+| [UNLIMITED](https://open.spotify.com/track/0z6zShdYIiAJdT3I6FOl7q) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:36 | 2022-06-09 |  |
 | [YeLL](https://open.spotify.com/track/3ughjGlNEbLBm5ba7y2vdB) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [KALEIDOSCOPE](https://open.spotify.com/album/1Ugh0hoPOsNnwfYnKX9Ibh) | 4:20 | 2023-02-11 |  |
 | [ずっとそばで](https://open.spotify.com/track/1aBr7sWU2lxnH1Hef7W4HZ) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [D'AZUR](https://open.spotify.com/album/7pwF54HCSkFDYcBqLJDrGr) | 3:58 | 2023-05-19 |  |
 | [アイリス](https://open.spotify.com/track/3Bl9pbEgCoSnm50nG93bvL) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [FRAGMENT （Special Edition）](https://open.spotify.com/album/6m8TwU9kiKfJXH3hMuLSrO) | 4:07 | 2022-06-09 |  |
-| [アカツキ](https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:51 | 2022-06-09 |  |
+| [アカツキ](https://open.spotify.com/track/3ZMnn1muAjYZ1XBbUuLqgi) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-E\-](https://open.spotify.com/album/6rjMSW0RSSr82ferEWoA3A) | 4:51 | 2022-06-09 | 2024-04-23 |
 | [アクセンティア](https://open.spotify.com/track/0mLK9TPqJ92eRPoJjrJIi9) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:36 | 2022-06-09 |  |
 | [アトック](https://open.spotify.com/track/0vWlopeKCm1atNKaTv1Bhg) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [アトック](https://open.spotify.com/album/03nazQKVW3vGbmLAOYvnzO) | 4:11 | 2022-06-09 |  |
 | [アヴァロン・ブルー](https://open.spotify.com/track/67D8rjvrqjb8XoF9S1Pak7) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:49 | 2022-06-09 |  |

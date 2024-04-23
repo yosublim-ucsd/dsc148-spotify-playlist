@@ -1,6 +1,6 @@
 {
   "description": "get into your feels with some r&b magic",
-  "num_followers": 241487,
+  "num_followers": 241395,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,26 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
+        "name": "NICE GIRLS",
+        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
+      },
+      "artists": [
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        },
+        {
+          "name": "Mahalia",
+          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "NICE GIRLS",
+      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
         "name": "Spinn On You",
         "url": "https://open.spotify.com/album/1LgjqLgqPlWVnkBSV43m3w"
       },
@@ -763,26 +783,6 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
-        "name": "NICE GIRLS",
-        "url": "https://open.spotify.com/album/65uwLNSqRZhRMMilQnb7lm"
-      },
-      "artists": [
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        },
-        {
-          "name": "Mahalia",
-          "url": "https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI"
-        }
-      ],
-      "duration_ms": 149538,
-      "name": "NICE GIRLS",
-      "url": "https://open.spotify.com/track/30JrG6H4yDSDyLPStS69CG"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
         "name": "After the Butterflies",
         "url": "https://open.spotify.com/album/2fyaGl2f9n6oNUVhf7XJhM"
       },
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
-        "name": "Called it Love",
-        "url": "https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a"
-      },
-      "artists": [
-        {
-          "name": "Gen Neo",
-          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
-        }
-      ],
-      "duration_ms": 186290,
-      "name": "Called it Love",
-      "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
         "name": "Why Remix",
         "url": "https://open.spotify.com/album/3HHhIRz5oDEXzbHPKixuZz"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 161281,
       "name": "Why Remix",
       "url": "https://open.spotify.com/track/4lhtcUETFNpbgMls6MZ2wf"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
+        "name": "Called it Love",
+        "url": "https://open.spotify.com/album/45EoNsjV157i7KNBUkD69a"
+      },
+      "artists": [
+        {
+          "name": "Gen Neo",
+          "url": "https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK"
+        }
+      ],
+      "duration_ms": 186290,
+      "name": "Called it Love",
+      "url": "https://open.spotify.com/track/7DGEGsOUG0lbPUlymrH4uJ"
     },
     {
       "added_at": "2024-04-18 22:01:00",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
-      },
-      "artists": [
-        {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        }
-      ],
-      "duration_ms": 161410,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
         "name": "Overture",
         "url": "https://open.spotify.com/album/7k4SVvaEm2QbqE5d8jgw2L"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 221492,
       "name": "Say Yes (Turquoise) (feat. Joshua J)",
       "url": "https://open.spotify.com/track/2vkx4WjT1wMJyZu4EEseL3"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
+        "name": "Split",
+        "url": "https://open.spotify.com/album/252FXpscMwNO4FXh194pf3"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/5CjWTW7fjNIcyOfUvJNIC0"
     },
     {
       "added_at": "2024-04-18 22:01:00",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
+        "name": "Something True",
+        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
+      },
+      "artists": [
+        {
+          "name": "Gaidaa",
+          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+        }
+      ],
+      "duration_ms": 163040,
+      "name": "Something True",
+      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
         "name": "On Mine",
         "url": "https://open.spotify.com/album/4C21azUS5PkhZUcVe82ik5"
       },
@@ -1399,6 +1415,26 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
+      },
+      "artists": [
+        {
+          "name": "Alice Aera",
+          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
+        },
+        {
+          "name": "Majo",
+          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
         "name": "Out of Touch",
         "url": "https://open.spotify.com/album/6vIwR0j1Ya3UJeuFTQPcdr"
       },
@@ -1419,38 +1455,18 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
-        "name": "Something True",
-        "url": "https://open.spotify.com/album/7EmWV14OIISnZwqlg4ySa5"
+        "name": "Drop In",
+        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
       },
       "artists": [
         {
-          "name": "Gaidaa",
-          "url": "https://open.spotify.com/artist/5aLDWFw5qUmTWnEuevuhYG"
+          "name": "[ K S R ]",
+          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
         }
       ],
-      "duration_ms": 163040,
-      "name": "Something True",
-      "url": "https://open.spotify.com/track/237j3OLZr3rfH0iHdxm2Xl"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/4LOK8lJTo5ftB7gr4vnngj"
-      },
-      "artists": [
-        {
-          "name": "Alice Aera",
-          "url": "https://open.spotify.com/artist/1r6ajY5Cgb1Rhl88UWG4B7"
-        },
-        {
-          "name": "Majo",
-          "url": "https://open.spotify.com/artist/3bFHx7H43rnf5GzOWnqwdf"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/1EMy0gThjvmvKVQqBhBrPY"
+      "duration_ms": 206511,
+      "name": "Drop In",
+      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
     },
     {
       "added_at": "2024-04-18 22:01:00",
@@ -1475,22 +1491,6 @@
     {
       "added_at": "2024-04-18 22:01:00",
       "album": {
-        "name": "Drop In",
-        "url": "https://open.spotify.com/album/5mFidAy9MG3XHqIFiH8NB3"
-      },
-      "artists": [
-        {
-          "name": "[ K S R ]",
-          "url": "https://open.spotify.com/artist/7BWjWVat8puiUriWads4kk"
-        }
-      ],
-      "duration_ms": 206511,
-      "name": "Drop In",
-      "url": "https://open.spotify.com/track/3EawgQ7oWbOQ2vVg4Vk12j"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
         "name": "The Right One",
         "url": "https://open.spotify.com/album/5BJlBjmBC2ihAW9gf6vLlV"
       },
@@ -1503,6 +1503,26 @@
       "duration_ms": 176756,
       "name": "The Right One",
       "url": "https://open.spotify.com/track/6OWocnbyqk4NX5tq9pBq1n"
+    },
+    {
+      "added_at": "2024-04-18 22:01:00",
+      "album": {
+        "name": "Toxicology",
+        "url": "https://open.spotify.com/album/4p3bXptsCmB97f6AiuA4DL"
+      },
+      "artists": [
+        {
+          "name": "Big Tobz",
+          "url": "https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK"
+        },
+        {
+          "name": "Jaz Karis",
+          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
+        }
+      ],
+      "duration_ms": 173792,
+      "name": "Make It Make Sense",
+      "url": "https://open.spotify.com/track/69mUOKUJh47tiXfl2OwIdT"
     },
     {
       "added_at": "2024-04-18 22:01:00",
@@ -1547,26 +1567,6 @@
       "duration_ms": 179112,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/4eLFb0Ygy59SEisCWsa85h"
-    },
-    {
-      "added_at": "2024-04-18 22:01:00",
-      "album": {
-        "name": "Toxicology",
-        "url": "https://open.spotify.com/album/4p3bXptsCmB97f6AiuA4DL"
-      },
-      "artists": [
-        {
-          "name": "Big Tobz",
-          "url": "https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK"
-        },
-        {
-          "name": "Jaz Karis",
-          "url": "https://open.spotify.com/artist/4rDcfb3TEWyx0BKdzKG24I"
-        }
-      ],
-      "duration_ms": 173792,
-      "name": "Make It Make Sense",
-      "url": "https://open.spotify.com/track/69mUOKUJh47tiXfl2OwIdT"
     },
     {
       "added_at": "2024-04-18 22:01:00",

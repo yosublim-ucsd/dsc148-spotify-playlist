@@ -1,6 +1,6 @@
 {
   "description": "Any songs you forgot existed? Let's go deep into 80s rock! Cover: Def Leppard.",
-  "num_followers": 94729,
+  "num_followers": 94761,
   "original_name": "Deep Dive: 80s Rock",
   "owner": {
     "name": "Spotify",
@@ -155,18 +155,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Pyromania (Deluxe)",
-        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
+        "name": "Lap Of Luxury",
+        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
       },
       "artists": [
         {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+          "name": "Cheap Trick",
+          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
         }
       ],
-      "duration_ms": 247828,
-      "name": "Rock Of Ages",
-      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
+      "duration_ms": 338800,
+      "name": "The Flame",
+      "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -187,18 +187,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Lap Of Luxury",
-        "url": "https://open.spotify.com/album/1aYjx4tcmci0lYwT5sKgvM"
+        "name": "Pyromania (Deluxe)",
+        "url": "https://open.spotify.com/album/3MJoDIkQxY0MTXE8fqzmPu"
       },
       "artists": [
         {
-          "name": "Cheap Trick",
-          "url": "https://open.spotify.com/artist/1LB8qB5BPb3MHQrfkvifXU"
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
         }
       ],
-      "duration_ms": 338800,
-      "name": "The Flame",
-      "url": "https://open.spotify.com/track/528CAH5pTLq86oZ52fHifA"
+      "duration_ms": 247828,
+      "name": "Rock Of Ages",
+      "url": "https://open.spotify.com/track/2AmEv442DGwSxMGZ9XEvBA"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -299,22 +299,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "5150",
-        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
-      },
-      "artists": [
-        {
-          "name": "Van Halen",
-          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "High 'N' Dry",
         "url": "https://open.spotify.com/album/2FC50FeHFVmksOYX1cymxr"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 273733,
       "name": "Bringin' On The Heartbreak",
       "url": "https://open.spotify.com/track/7iEVmnzJr1V7duYKPWplzp"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "5150",
+        "url": "https://open.spotify.com/album/5Ew5vOg3PYyT9QUPCrdIZq"
+      },
+      "artists": [
+        {
+          "name": "Van Halen",
+          "url": "https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2APxH5XbOLDTmW9X5yi6Hw"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -379,6 +379,22 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "Pyromania",
+        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 266728,
+      "name": "Too Late For Love",
+      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "Long After Dark",
         "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
       },
@@ -407,22 +423,6 @@
       "duration_ms": 254640,
       "name": "Made of Stone - Remastered",
       "url": "https://open.spotify.com/track/0bZelokqNQicLQfLU1Ayw8"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "Pyromania",
-        "url": "https://open.spotify.com/album/5ab6RIlAGwbVAacV1JIr2d"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 266728,
-      "name": "Too Late For Love",
-      "url": "https://open.spotify.com/track/5vHyWEoEyIJT5RhR1fcN7y"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -523,22 +523,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "The Distance",
-        "url": "https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 279573,
-      "name": "Roll Me Away",
-      "url": "https://open.spotify.com/track/3MqgFVRerrpqWHdRopk247"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "The Queen Is Dead",
         "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 138813,
       "name": "Frankly, Mr. Shankly - 2011 Remaster",
       "url": "https://open.spotify.com/track/1qIagqll7ZcgmiLTrtSvKc"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "The Distance",
+        "url": "https://open.spotify.com/album/0uaavZx8ako3Kb6GFpb1G1"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 279573,
+      "name": "Roll Me Away",
+      "url": "https://open.spotify.com/track/3MqgFVRerrpqWHdRopk247"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -667,18 +667,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Asia",
-        "url": "https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl"
+        "name": "Labyrinth (From The Original Soundtrack Of The Jim Henson Film)",
+        "url": "https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74"
       },
       "artists": [
         {
-          "name": "Asia",
-          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
         }
       ],
-      "duration_ms": 284893,
-      "name": "Only Time Will Tell",
-      "url": "https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6"
+      "duration_ms": 290963,
+      "name": "As The World Falls Down",
+      "url": "https://open.spotify.com/track/2elAyF0DLb10MWj76pU6pP"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -699,18 +699,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Labyrinth (From The Original Soundtrack Of The Jim Henson Film)",
-        "url": "https://open.spotify.com/album/6cvdkUIC4IdBypl9L5Ae74"
+        "name": "Asia",
+        "url": "https://open.spotify.com/album/5TkfP3cqWgeBvCugPeiGNl"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Asia",
+          "url": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej"
         }
       ],
-      "duration_ms": 290963,
-      "name": "As The World Falls Down",
-      "url": "https://open.spotify.com/track/2elAyF0DLb10MWj76pU6pP"
+      "duration_ms": 284893,
+      "name": "Only Time Will Tell",
+      "url": "https://open.spotify.com/track/49NDegc7RQyvq6mhAs06p6"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -783,18 +783,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+        "name": "The Bridge",
+        "url": "https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH"
       },
       "artists": [
         {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+          "name": "Billy Joel",
+          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
         }
       ],
-      "duration_ms": 327853,
-      "name": "Tweeter And The Monkey Man",
-      "url": "https://open.spotify.com/track/2rm4CNyzlEGs3PcK91wzGe"
+      "duration_ms": 248746,
+      "name": "A Matter of Trust",
+      "url": "https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -815,6 +815,22 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 327853,
+      "name": "Tweeter And The Monkey Man",
+      "url": "https://open.spotify.com/track/2rm4CNyzlEGs3PcK91wzGe"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "Rock & Roll Strategy",
         "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 304693,
       "name": "Second Chance",
       "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "The Bridge",
-        "url": "https://open.spotify.com/album/2fRxSC6FtiAkhEDVZr2seH"
-      },
-      "artists": [
-        {
-          "name": "Billy Joel",
-          "url": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
-        }
-      ],
-      "duration_ms": 248746,
-      "name": "A Matter of Trust",
-      "url": "https://open.spotify.com/track/6J212smZzpeOCYQ9DITMSC"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "duration_ms": 299320,
+      "name": "This Is the One - Remastered",
+      "url": "https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "Vacation",
         "url": "https://open.spotify.com/album/7qSxcMI3rTQaD1oTi1vel0"
       },
@@ -927,38 +943,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "The Traveling Wilburys, Vol. 1",
-        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
-      },
-      "artists": [
-        {
-          "name": "Traveling Wilburys",
-          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
-        }
-      ],
-      "duration_ms": 231240,
-      "name": "Last Night",
-      "url": "https://open.spotify.com/track/6hOCmsiGjQaS27iiLe2t0i"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "duration_ms": 299320,
-      "name": "This Is the One - Remastered",
-      "url": "https://open.spotify.com/track/433EQGQOsQjWvD5eImXkHf"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Stay Hungry",
         "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 229493,
       "name": "The Price",
       "url": "https://open.spotify.com/track/5iF683hJagzos663BxLns9"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "The Traveling Wilburys, Vol. 1",
+        "url": "https://open.spotify.com/album/7K3OJcdtRxv7miXfQBzvbi"
+      },
+      "artists": [
+        {
+          "name": "Traveling Wilburys",
+          "url": "https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK"
+        }
+      ],
+      "duration_ms": 231240,
+      "name": "Last Night",
+      "url": "https://open.spotify.com/track/6hOCmsiGjQaS27iiLe2t0i"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1135,18 +1135,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Maverick",
-        "url": "https://open.spotify.com/album/4i1BThlM0YcTgcNYkOa7Sl"
+        "name": "Born In The U.S.A.",
+        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
       },
       "artists": [
         {
-          "name": "George Thorogood & The Destroyers",
-          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 275493,
-      "name": "I Drink Alone",
-      "url": "https://open.spotify.com/track/2nIDPfhjHZP8UOXPenLZUC"
+      "duration_ms": 240146,
+      "name": "No Surrender",
+      "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1167,18 +1167,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Born In The U.S.A.",
-        "url": "https://open.spotify.com/album/0PMasrHdpaoIRuHuhHp72O"
+        "name": "Maverick",
+        "url": "https://open.spotify.com/album/4i1BThlM0YcTgcNYkOa7Sl"
       },
       "artists": [
         {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+          "name": "George Thorogood & The Destroyers",
+          "url": "https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK"
         }
       ],
-      "duration_ms": 240146,
-      "name": "No Surrender",
-      "url": "https://open.spotify.com/track/2zMlWt4aYreVczVERFK94w"
+      "duration_ms": 275493,
+      "name": "I Drink Alone",
+      "url": "https://open.spotify.com/track/2nIDPfhjHZP8UOXPenLZUC"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Wake Me When It's Over",
-        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
-      },
-      "artists": [
-        {
-          "name": "Faster Pussycat",
-          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
-        }
-      ],
-      "duration_ms": 344613,
-      "name": "House of Pain",
-      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Sirocco (Remastered)",
         "url": "https://open.spotify.com/album/5FCC3e09sFPqZrXfozCXhF"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 210720,
       "name": "Errol - Remastered",
       "url": "https://open.spotify.com/track/1kxPRJGVKGqjJM7BB44p0p"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Wake Me When It's Over",
+        "url": "https://open.spotify.com/album/37X0TI6pz7fSg2aUREHzys"
+      },
+      "artists": [
+        {
+          "name": "Faster Pussycat",
+          "url": "https://open.spotify.com/artist/1FwGBBwUviGVIeDIByO7u7"
+        }
+      ],
+      "duration_ms": 344613,
+      "name": "House of Pain",
+      "url": "https://open.spotify.com/track/46Qy1xAr2K7rylRYwdQ6Gw"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Long Cold Winter",
-        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
-      },
-      "artists": [
-        {
-          "name": "Cinderella",
-          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
-        }
-      ],
-      "duration_ms": 295066,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Noiseworks",
         "url": "https://open.spotify.com/album/3tELfbZ3YI1K8Ue21mu5bQ"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
-        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+        "name": "Long Cold Winter",
+        "url": "https://open.spotify.com/album/5EsAeGDozof1PIH3WPXLr2"
       },
       "artists": [
         {
-          "name": "Poison",
-          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+          "name": "Cinderella",
+          "url": "https://open.spotify.com/artist/7HL4id2U7FSDJtfKQHMgQx"
         }
       ],
-      "duration_ms": 214373,
-      "name": "I Won't Forget You - 2003 Remaster",
-      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
+      "duration_ms": 295066,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/5EicljVZKVOo2LZHREtWmQ"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1387,6 +1371,22 @@
       "duration_ms": 308133,
       "name": "I've Been In Love Before",
       "url": "https://open.spotify.com/track/7yQNqjXp9BAGAppPGkTbYf"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Look What The Cat Dragged In - 20th Anniversary Edition",
+        "url": "https://open.spotify.com/album/2SkbSj0eZ2H5uqKYEnMmIe"
+      },
+      "artists": [
+        {
+          "name": "Poison",
+          "url": "https://open.spotify.com/artist/1fBCIkoPOPCDLUxGuWNvyo"
+        }
+      ],
+      "duration_ms": 214373,
+      "name": "I Won't Forget You - 2003 Remaster",
+      "url": "https://open.spotify.com/track/6WmVgLj2htklkU3SZOsItg"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Super Hits",
-        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
-      },
-      "artists": [
-        {
-          "name": "The Hooters",
-          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
-        }
-      ],
-      "duration_ms": 237466,
-      "name": "Johnny B.",
-      "url": "https://open.spotify.com/track/20JrcZW9Djp70GZyFRrAfl"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "The Other Side Of Life",
         "url": "https://open.spotify.com/album/5dY18oz4mvg4ouRMz7oZTm"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 291000,
       "name": "Your Wildest Dreams",
       "url": "https://open.spotify.com/track/1T4iwEA2ySieXjWxjiMVWs"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Super Hits",
+        "url": "https://open.spotify.com/album/5Sh5gjCOggbEb2kMIFKHHo"
+      },
+      "artists": [
+        {
+          "name": "The Hooters",
+          "url": "https://open.spotify.com/artist/7uhvDINTTiD0XBrP9fquN1"
+        }
+      ],
+      "duration_ms": 237466,
+      "name": "Johnny B.",
+      "url": "https://open.spotify.com/track/20JrcZW9Djp70GZyFRrAfl"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Surfing With The Alien",
-        "url": "https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk"
-      },
-      "artists": [
-        {
-          "name": "Joe Satriani",
-          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
-        }
-      ],
-      "duration_ms": 202533,
-      "name": "Always with Me, Always with You",
-      "url": "https://open.spotify.com/track/0NNep3grWO95CVGp04gMM4"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 315186,
       "name": "Fascination Street - Remastered",
       "url": "https://open.spotify.com/track/2wanmHGKh4DFoOd04Klvuv"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Surfing With The Alien",
+        "url": "https://open.spotify.com/album/4SFG7APMZeeM97ixKPoQuk"
+      },
+      "artists": [
+        {
+          "name": "Joe Satriani",
+          "url": "https://open.spotify.com/artist/2yzxX2DI9LFK8VFTyW2zZ8"
+        }
+      ],
+      "duration_ms": 202533,
+      "name": "Always with Me, Always with You",
+      "url": "https://open.spotify.com/track/0NNep3grWO95CVGp04gMM4"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -1967,6 +1967,22 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "Sunnyboys (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3avNYPQrtAxtqlBRrw9wJo"
+      },
+      "artists": [
+        {
+          "name": "Sunnyboys",
+          "url": "https://open.spotify.com/artist/6sAh1RUpXblYP320gZ91LC"
+        }
+      ],
+      "duration_ms": 238960,
+      "name": "Alone with You - 2014 Remaster",
+      "url": "https://open.spotify.com/track/0cK7vBvgmRQVJpqgNwehch"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "The Road to Hell",
         "url": "https://open.spotify.com/album/6xCynP72PbiudbvVthLoah"
       },
@@ -1983,18 +1999,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Sunnyboys (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3avNYPQrtAxtqlBRrw9wJo"
+        "name": "Of Skins And Heart",
+        "url": "https://open.spotify.com/album/3QFUhbSxlj6Ajwx90mdHO4"
       },
       "artists": [
         {
-          "name": "Sunnyboys",
-          "url": "https://open.spotify.com/artist/6sAh1RUpXblYP320gZ91LC"
+          "name": "The Church",
+          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
         }
       ],
-      "duration_ms": 238960,
-      "name": "Alone with You - 2014 Remaster",
-      "url": "https://open.spotify.com/track/0cK7vBvgmRQVJpqgNwehch"
+      "duration_ms": 254400,
+      "name": "The Unguarded Moment - 2002 Digital Remaster",
+      "url": "https://open.spotify.com/track/00W0z4GR2fU8v11dhszOdw"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2031,38 +2047,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
-        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "The Unforgettable Fire - Remastered 2009",
-      "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "Of Skins And Heart",
-        "url": "https://open.spotify.com/album/3QFUhbSxlj6Ajwx90mdHO4"
-      },
-      "artists": [
-        {
-          "name": "The Church",
-          "url": "https://open.spotify.com/artist/2ZfogSsOWP4mVfEqfpLXCt"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "The Unguarded Moment - 2002 Digital Remaster",
-      "url": "https://open.spotify.com/track/00W0z4GR2fU8v11dhszOdw"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Love Over Gold",
         "url": "https://open.spotify.com/album/4hJqOIahWodpSJU6uDgjvN"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 375506,
       "name": "Love Over Gold",
       "url": "https://open.spotify.com/track/0K8tOSa1LE1Ue784z6qwWZ"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "The Unforgettable Fire (Deluxe Edition Remastered)",
+        "url": "https://open.spotify.com/album/6akaB3XfTnCwrY4DahsBCY"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "The Unforgettable Fire - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MuVgJIxvnMjRHbiUSD9Js"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2095,6 +2095,22 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "Sound Affects",
+        "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
+      },
+      "artists": [
+        {
+          "name": "The Jam",
+          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+        }
+      ],
+      "duration_ms": 149866,
+      "name": "Start!",
+      "url": "https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "Cut",
         "url": "https://open.spotify.com/album/1dMzGnObFJwZRG5Ki7i7Nt"
       },
@@ -2107,22 +2123,6 @@
       "duration_ms": 478106,
       "name": "Twilight Zone",
       "url": "https://open.spotify.com/track/1miXjv3X34Q9w7wDZoBnDz"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "Greatest Hits 2",
-        "url": "https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j"
-      },
-      "artists": [
-        {
-          "name": "Bob Seger",
-          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
-        }
-      ],
-      "duration_ms": 241946,
-      "name": "Shakedown",
-      "url": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2143,18 +2143,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Sound Affects",
-        "url": "https://open.spotify.com/album/4DkUmnDgrkBTk1RGLCTZcb"
+        "name": "Greatest Hits 2",
+        "url": "https://open.spotify.com/album/2gEoFIQznSHRBHApWGbX3j"
       },
       "artists": [
         {
-          "name": "The Jam",
-          "url": "https://open.spotify.com/artist/2P560DaOMNDUACoH8ZhOCR"
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
         }
       ],
-      "duration_ms": 149866,
-      "name": "Start!",
-      "url": "https://open.spotify.com/track/4svNZgdVZNtpWKbb7nsaLs"
+      "duration_ms": 241946,
+      "name": "Shakedown",
+      "url": "https://open.spotify.com/track/303oOLP2Jf6M4rke52qItM"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 286226,
-      "name": "Vital Signs",
-      "url": "https://open.spotify.com/track/1k0GxoZYv3Yx5mNeXMOZN2"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Shake It Up (Expanded Edition)",
         "url": "https://open.spotify.com/album/7KpSpJbHn3SYZIMHKkdO6V"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 211960,
       "name": "Shake It Up - 2017 Remaster",
       "url": "https://open.spotify.com/track/3ZBzJbqwV2gQUAe4ofghOo"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 286226,
+      "name": "Vital Signs",
+      "url": "https://open.spotify.com/track/1k0GxoZYv3Yx5mNeXMOZN2"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2351,22 +2351,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Crazy Nights",
-        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 240266,
-      "name": "Reason To Live",
-      "url": "https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Disintegration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
       },
@@ -2379,6 +2363,22 @@
       "duration_ms": 499853,
       "name": "Disintegration - Remastered",
       "url": "https://open.spotify.com/track/5LO3M8pfuprpwNN1p3tuxW"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Crazy Nights",
+        "url": "https://open.spotify.com/album/3UBqHwvxUDl6jWxY2RhmrN"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 240266,
+      "name": "Reason To Live",
+      "url": "https://open.spotify.com/track/3onHM3etsRdtbTS7cgwkNb"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2611,38 +2611,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Stay Hungry",
-        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
-      },
-      "artists": [
-        {
-          "name": "Twisted Sister",
-          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
-        }
-      ],
-      "duration_ms": 283226,
-      "name": "Burn in Hell",
-      "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/1m8ybrw0umxg8FbBC3pH7K"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 339480,
-      "name": "New Gold Dream (81/82/83/84) - Remastered 2002",
-      "url": "https://open.spotify.com/track/4hvrLEqMHWR4troGbku7ZV"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "New Jersey (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3mcKOl0KNe65BqiBa40WxR"
       },
@@ -2675,6 +2643,38 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "Stay Hungry",
+        "url": "https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm"
+      },
+      "artists": [
+        {
+          "name": "Twisted Sister",
+          "url": "https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut"
+        }
+      ],
+      "duration_ms": 283226,
+      "name": "Burn in Hell",
+      "url": "https://open.spotify.com/track/1aVChMRP6I3ViAIlnW3WYS"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/1m8ybrw0umxg8FbBC3pH7K"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 339480,
+      "name": "New Gold Dream (81/82/83/84) - Remastered 2002",
+      "url": "https://open.spotify.com/track/4hvrLEqMHWR4troGbku7ZV"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "Learning to Crawl (Expanded & Remastered)",
         "url": "https://open.spotify.com/album/48NYXFdasUBuSeO3RAolt3"
       },
@@ -2691,18 +2691,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Crowded House (Deluxe)",
-        "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
+        "name": "Seven The Hard Way",
+        "url": "https://open.spotify.com/album/72PfmPsimUrFAxfIaM70Xb"
       },
       "artists": [
         {
-          "name": "Crowded House",
-          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
+          "name": "Pat Benatar",
+          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
         }
       ],
-      "duration_ms": 194329,
-      "name": "Mean To Me",
-      "url": "https://open.spotify.com/track/6AxX8suzBNgw5pDNlHk8l7"
+      "duration_ms": 268866,
+      "name": "Invincible",
+      "url": "https://open.spotify.com/track/2kFCYlFRuC7YqM5stlM9fH"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2723,18 +2723,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Seven The Hard Way",
-        "url": "https://open.spotify.com/album/72PfmPsimUrFAxfIaM70Xb"
+        "name": "Crowded House (Deluxe)",
+        "url": "https://open.spotify.com/album/6W8rZvQ97nvTyOj26TRHJJ"
       },
       "artists": [
         {
-          "name": "Pat Benatar",
-          "url": "https://open.spotify.com/artist/43mhFhQ4JAknA7Ik1bOZuV"
+          "name": "Crowded House",
+          "url": "https://open.spotify.com/artist/7ohlPA8dRBtCf92zaZCaaB"
         }
       ],
-      "duration_ms": 268866,
-      "name": "Invincible",
-      "url": "https://open.spotify.com/track/2kFCYlFRuC7YqM5stlM9fH"
+      "duration_ms": 194329,
+      "name": "Mean To Me",
+      "url": "https://open.spotify.com/track/6AxX8suzBNgw5pDNlHk8l7"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2803,22 +2803,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Full Moon Fever",
-        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "The Apartment Song",
-      "url": "https://open.spotify.com/track/05Rd8zTyrkoOkglshkAQjR"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "Can't Hold Back",
         "url": "https://open.spotify.com/album/2gLYQmHLHZhNpTxlnlkXy7"
       },
@@ -2851,34 +2835,18 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Let Love Rule",
-        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+        "name": "Full Moon Fever",
+        "url": "https://open.spotify.com/album/5d71Imt5CIb7LpQwDMQ093"
       },
       "artists": [
         {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 342160,
-      "name": "Let Love Rule",
-      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "Out Of This World",
-        "url": "https://open.spotify.com/album/06CcedRLfxrvt5rTD35Mw2"
-      },
-      "artists": [
-        {
-          "name": "Europe",
-          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
-        }
-      ],
-      "duration_ms": 274960,
-      "name": "Superstitious",
-      "url": "https://open.spotify.com/track/1fUl0jZAnH3oWVqAcQfPNc"
+      "duration_ms": 152506,
+      "name": "The Apartment Song",
+      "url": "https://open.spotify.com/track/05Rd8zTyrkoOkglshkAQjR"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2899,6 +2867,38 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "Out Of This World",
+        "url": "https://open.spotify.com/album/06CcedRLfxrvt5rTD35Mw2"
+      },
+      "artists": [
+        {
+          "name": "Europe",
+          "url": "https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz"
+        }
+      ],
+      "duration_ms": 274960,
+      "name": "Superstitious",
+      "url": "https://open.spotify.com/track/1fUl0jZAnH3oWVqAcQfPNc"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Let Love Rule",
+        "url": "https://open.spotify.com/album/70Vuh3jYUMO8LLP5BaqZMb"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 342160,
+      "name": "Let Love Rule",
+      "url": "https://open.spotify.com/track/2pmN85k5m9nO1rWaCDdrNE"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "Flash Gordon (Deluxe Edition 2011 Remaster)",
         "url": "https://open.spotify.com/album/4r9kNse038AoF2KfbqPUOS"
       },
@@ -2911,22 +2911,6 @@
       "duration_ms": 168213,
       "name": "Flash - Single Version",
       "url": "https://open.spotify.com/track/5aswWmjJLHBSYFknQjegfg"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "Grace Under Pressure",
-        "url": "https://open.spotify.com/album/20RfdO7fta9qlXEWTFSWuT"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 296746,
-      "name": "Distant Early Warning",
-      "url": "https://open.spotify.com/track/1bVnRjdVprR6ZoT67DBxML"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -2963,6 +2947,22 @@
       "duration_ms": 141093,
       "name": "Hang Fire - Remastered",
       "url": "https://open.spotify.com/track/5HcTLesmMaPr0CkwdbtK0o"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Grace Under Pressure",
+        "url": "https://open.spotify.com/album/20RfdO7fta9qlXEWTFSWuT"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 296746,
+      "name": "Distant Early Warning",
+      "url": "https://open.spotify.com/track/1bVnRjdVprR6ZoT67DBxML"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -3031,6 +3031,22 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
+        "name": "Moving Pictures (2011 Remaster)",
+        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
+      },
+      "artists": [
+        {
+          "name": "Rush",
+          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
+        }
+      ],
+      "duration_ms": 658986,
+      "name": "The Camera Eye",
+      "url": "https://open.spotify.com/track/0hBby0yygBY1u3m6tSpZgC"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
         "name": "Tattoo You (2009 Re-Mastered)",
         "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
       },
@@ -3059,22 +3075,6 @@
       "duration_ms": 309960,
       "name": "Cat People (Putting Out Fire) - 2018 Remaster",
       "url": "https://open.spotify.com/track/25ceFvWSaI3zoy9hhNYDqu"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
-        "name": "Moving Pictures (2011 Remaster)",
-        "url": "https://open.spotify.com/album/2xg7iIKoSqaDNpDbJnyCjY"
-      },
-      "artists": [
-        {
-          "name": "Rush",
-          "url": "https://open.spotify.com/artist/2Hkut4rAAyrQxRdof7FVJq"
-        }
-      ],
-      "duration_ms": 658986,
-      "name": "The Camera Eye",
-      "url": "https://open.spotify.com/track/0hBby0yygBY1u3m6tSpZgC"
     },
     {
       "added_at": "2022-11-17 15:39:03",
@@ -3175,22 +3175,6 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "Pop Art",
-        "url": "https://open.spotify.com/album/5QAE6zeYz3Z7O83UdPOJcX"
-      },
-      "artists": [
-        {
-          "name": "Transvision Vamp",
-          "url": "https://open.spotify.com/artist/7oIgcNOdEHNwP8NFl9tYWs"
-        }
-      ],
-      "duration_ms": 209906,
-      "name": "I Want Your Love",
-      "url": "https://open.spotify.com/track/55NBt1WuvShjsGE1grbi2v"
-    },
-    {
-      "added_at": "2022-11-17 15:39:03",
-      "album": {
         "name": "True Stories",
         "url": "https://open.spotify.com/album/5PvkD4XryLL9oC4NFItYIM"
       },
@@ -3211,18 +3195,34 @@
     {
       "added_at": "2022-11-17 15:39:03",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
+        "name": "Pop Art",
+        "url": "https://open.spotify.com/album/5QAE6zeYz3Z7O83UdPOJcX"
       },
       "artists": [
         {
-          "name": "Talk Talk",
-          "url": "https://open.spotify.com/artist/7Fo8TAyGJr4VmhE68QamMf"
+          "name": "Transvision Vamp",
+          "url": "https://open.spotify.com/artist/7oIgcNOdEHNwP8NFl9tYWs"
         }
       ],
-      "duration_ms": 335533,
-      "name": "Such a Shame - 1997 Remaster",
-      "url": "https://open.spotify.com/track/35JhxrwW2bBAiMcnrmuLEN"
+      "duration_ms": 209906,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/55NBt1WuvShjsGE1grbi2v"
+    },
+    {
+      "added_at": "2022-11-17 15:39:03",
+      "album": {
+        "name": "Disintegration (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0H6TddUF2M63ZSHGvhk5yy"
+      },
+      "artists": [
+        {
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        }
+      ],
+      "duration_ms": 317346,
+      "name": "Plainsong - Remastered",
+      "url": "https://open.spotify.com/track/4gcfxHL1iRgP0RHCDYMNIo"
     }
   ],
   "unique_name": "Deep Dive: 80s Rock",

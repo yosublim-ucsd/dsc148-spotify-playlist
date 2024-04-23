@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-734 songs - 1 day 7 hr 49 min
+736 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -268,6 +268,7 @@
 | [I Rette Tid](https://open.spotify.com/track/0CIVRRNufQLSNuD0ODckGm) | [John Vegard Schow](https://open.spotify.com/artist/00bOFN0VJ7IQqtK3TdRcsN) | [I Rette Tid](https://open.spotify.com/album/4gwidAK3Xt7XmGMDzch8Cm) | 2:18 | 2023-04-03 |  |
 | [I Still Miss You](https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ) | [Boil The Ocean](https://open.spotify.com/artist/2I5UjNu4WPindIoyWAPnXI) | [I Still Miss You](https://open.spotify.com/album/3kHtcexla1h1I2wUnw7RqA) | 2:06 | 2023-06-19 |  |
 | [I Was Thinking](https://open.spotify.com/track/6nhqhyy74vnNf0Sg66Sdkf) | [Marcia Barlow](https://open.spotify.com/artist/45yDipnbqgnHXHKXdx290U) | [I Was Thinking](https://open.spotify.com/album/5CAT5ZnVtK4zp2XpBVVo5i) | 2:27 | 2022-04-15 | 2022-12-24 |
+| [I Watched a Blackbird](https://open.spotify.com/track/6qlBW3iQTQ0Cehh3KMi44M) | [George Agate](https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO) | [I Watched a Blackbird](https://open.spotify.com/album/3SX8ZSQ8ay74MuHUvWeQHP) | 2:19 | 2024-04-22 |  |
 | [Idyllic garden](https://open.spotify.com/track/0uPRRKhenDTl56bWKDcilK) | [Ellen Wince](https://open.spotify.com/artist/7siQWN6rSf13atgycy7zhP) | [Idyllic garden](https://open.spotify.com/album/7B53xiF08Ma86VBlkcQcuF) | 2:04 | 2023-08-29 |  |
 | [If I Could Tell You](https://open.spotify.com/track/11Qo1ZRy2R3aC12G33c210) | [Maude Eldridge](https://open.spotify.com/artist/21f60v74DrfHND4HjqmE1u) | [If I Could Tell You](https://open.spotify.com/album/2JPlNFaUONwpq8BiuuxG0z) | 2:23 | 2022-04-15 | 2022-09-21 |
 | [If It Snows](https://open.spotify.com/track/5uaOLZ0lOsNgVGSlfgj8U7) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [If It Snows](https://open.spotify.com/album/1YwmuYcOKl6lOBeQ5b4T9y) | 4:11 | 2022-04-27 | 2024-02-14 |
@@ -567,6 +568,7 @@
 | [Soar](https://open.spotify.com/track/5JoCHCDI2s4PvI2H2yGlHs) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Soar](https://open.spotify.com/album/20V23ZlHIuN3hChiJPFrLj) | 2:24 | 2022-04-15 | 2022-09-21 |
 | [Solace](https://open.spotify.com/track/6axlKJ7OnW6zxM16Hxwbb0) | [Claire Lerdier](https://open.spotify.com/artist/4qp7WWCDH2089pH1yOHX1k) | [Solace](https://open.spotify.com/album/1ZwWzrEoQskuYYnN9bMXgB) | 2:31 | 2022-12-22 |  |
 | [Solemn Resolve](https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Solemn Resolve](https://open.spotify.com/album/2AC4nZdkODSXUiQAX8UbIM) | 2:18 | 2022-04-15 | 2024-04-04 |
+| [Solitude](https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Solitude](https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN) | 2:29 | 2024-04-22 |  |
 | [Solitude](https://open.spotify.com/track/1DBcTd8Qkm9hAHOXI1ajDa) | [Light Beyond Life](https://open.spotify.com/artist/6qLYeDUv2dxEGxNCWoL7b5) | [Solitude](https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6) | 2:27 | 2022-04-15 | 2022-11-19 |
 | [Somersault \- Revisited](https://open.spotify.com/track/1hpZuDKO80t1lR5BR0BaKP) | [Tim Linghaus](https://open.spotify.com/artist/5pYvEtayIrFGYNKLI9pxKY) | [Somersault \(lO\)](https://open.spotify.com/album/33YGKrv3mjwVhAlFhz9vyQ) | 2:07 | 2023-02-13 | 2024-03-19 |
 | [Something \(Nothing\)](https://open.spotify.com/track/5pgQi74y4bGoT3bYFKZagk) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Ephemera](https://open.spotify.com/album/7r69JJ8k1o0wwjV16KczHZ) | 2:38 | 2022-04-15 | 2022-05-27 |

@@ -1,7 +1,7 @@
 {
-  "2024-04-22": 32365,
+  "2024-04-23": 32363,
   "date_first_scraped": "2024-02-02",
-  "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
+  "description": "This Is Ziggy Marley. Los temas esenciales, todos en una lista.",
   "name": "This Is Ziggy Marley",
   "tracks": [
     {
@@ -285,7 +285,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 260853,
       "name": "Family Time (feat. Judah Marley)",
       "url": "https://open.spotify.com/track/34OvVyZ6Vq0AcAnI6LMnjM"
@@ -427,7 +427,7 @@
       ],
       "date_added": "2024-02-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 299827,
       "name": "High Tide or Low Tide (feat. Ziggy Marley)",
       "url": "https://open.spotify.com/track/56iGwUFIn9SuKZIYl8RiAO"

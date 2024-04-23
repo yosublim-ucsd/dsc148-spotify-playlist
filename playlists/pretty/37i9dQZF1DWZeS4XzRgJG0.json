@@ -1,6 +1,6 @@
 {
   "description": "sorry ik kan niet... moet studeren",
-  "num_followers": 30727,
+  "num_followers": 30737,
   "original_name": "Studeermuziek",
   "owner": {
     "name": "Spotify",
@@ -679,26 +679,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "If the World Was Ending (feat. Julia Michaels)",
-        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
-      },
-      "artists": [
-        {
-          "name": "JP Saxe",
-          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 208687,
-      "name": "If the World Was Ending (feat. Julia Michaels)",
-      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Get You The Moon (feat. Sn\u00f8w)",
         "url": "https://open.spotify.com/album/5LZSpPoBVBsh6kRSEKfPQ8"
       },
@@ -715,6 +695,26 @@
       "duration_ms": 179080,
       "name": "Get You The Moon (feat. Sn\u00f8w)",
       "url": "https://open.spotify.com/track/4ZLzoOkj0MPWrTLvooIuaa"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "If the World Was Ending (feat. Julia Michaels)",
+        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ"
+      },
+      "artists": [
+        {
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 208687,
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Fire On Fire (From \"Watership Down\")",
-        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 246735,
-      "name": "Fire On Fire - From \"Watership Down\"",
-      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Are You With Me",
         "url": "https://open.spotify.com/album/4VpZ0Le2LUhUYERoNUtRZd"
       },
@@ -1603,6 +1587,22 @@
       "duration_ms": 249661,
       "name": "Are You With Me",
       "url": "https://open.spotify.com/track/401MfYscl2EMF4nDbnbG0K"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Fire On Fire (From \"Watership Down\")",
+        "url": "https://open.spotify.com/album/5utJfkRQ5yEIat3AIK6WIL"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 246735,
+      "name": "Fire On Fire - From \"Watership Down\"",
+      "url": "https://open.spotify.com/track/5rFj8OzffT0iggSjcBaeND"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2027,6 +2027,22 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
+        "name": "My World Untouched",
+        "url": "https://open.spotify.com/album/5u01rNslPPnklsyWLoUaJa"
+      },
+      "artists": [
+        {
+          "name": "Emma Bale",
+          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
+        }
+      ],
+      "duration_ms": 223120,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/1fmPvEu7fVUL8Png48XMGj"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
         "name": "Blue",
         "url": "https://open.spotify.com/album/0IHMJOuhVv3YyFScmeX6RM"
       },
@@ -2043,22 +2059,6 @@
       "duration_ms": 220264,
       "name": "Blue ft. Berre",
       "url": "https://open.spotify.com/track/6W851KE7s5gwJvEk8L9h2q"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
-        "name": "My World Untouched",
-        "url": "https://open.spotify.com/album/5u01rNslPPnklsyWLoUaJa"
-      },
-      "artists": [
-        {
-          "name": "Emma Bale",
-          "url": "https://open.spotify.com/artist/1vlR56ECqMAOA2mUTcTgPV"
-        }
-      ],
-      "duration_ms": 223120,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/1fmPvEu7fVUL8Png48XMGj"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2463,38 +2463,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "7 Years",
-        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
-      },
-      "artists": [
-        {
-          "name": "Lukas Graham",
-          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
-        }
-      ],
-      "duration_ms": 237300,
-      "name": "7 Years",
-      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
-        "name": "25",
-        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
-      },
-      "artists": [
-        {
-          "name": "Adele",
-          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
-        }
-      ],
-      "duration_ms": 290900,
-      "name": "When We Were Young",
-      "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "In A Perfect World",
         "url": "https://open.spotify.com/album/29Tc7Ue6KVfc5mzXxoMgEL"
       },
@@ -2507,6 +2475,38 @@
       "duration_ms": 305746,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/2PwXOevGUSkU8qaYZjgLq2"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "21",
+        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+      },
+      "artists": [
+        {
+          "name": "Adele",
+          "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
+        }
+      ],
+      "duration_ms": 285040,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "7 Years",
+        "url": "https://open.spotify.com/album/2EiK8K5y2z2RFVP6ZBnnOO"
+      },
+      "artists": [
+        {
+          "name": "Lukas Graham",
+          "url": "https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7"
+        }
+      ],
+      "duration_ms": 237300,
+      "name": "7 Years",
+      "url": "https://open.spotify.com/track/2vDT1uU6hZgdp3PbWGr0Xy"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2527,6 +2527,22 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
+        "name": "House of Cards",
+        "url": "https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 214285,
+      "name": "House of Cards",
+      "url": "https://open.spotify.com/track/58GufL5ouunj41e6QV65bw"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
         "name": "Amigo",
         "url": "https://open.spotify.com/album/1jkWbtGWX47YAIYHmRONUg"
       },
@@ -2539,22 +2555,6 @@
       "duration_ms": 238260,
       "name": "Nicotine",
       "url": "https://open.spotify.com/track/6yvxKrf9KZLTodXFTBmdR1"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
-        "name": "July",
-        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "July",
-      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2575,18 +2575,18 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "House of Cards",
-        "url": "https://open.spotify.com/album/4ElbBl74bLrx5yu8RXqh9z"
+        "name": "July",
+        "url": "https://open.spotify.com/album/2YQptVBjUJeIOBavD1AyXg"
       },
       "artists": [
         {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
         }
       ],
-      "duration_ms": 214285,
-      "name": "House of Cards",
-      "url": "https://open.spotify.com/track/58GufL5ouunj41e6QV65bw"
+      "duration_ms": 156106,
+      "name": "July",
+      "url": "https://open.spotify.com/track/5a6pdCHlWS2ekOOQ70QnAr"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2607,8 +2607,8 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "21",
-        "url": "https://open.spotify.com/album/1azUkThwd2HfUDdeNeT147"
+        "name": "25",
+        "url": "https://open.spotify.com/album/7uwTHXmFa1Ebi5flqBosig"
       },
       "artists": [
         {
@@ -2616,9 +2616,9 @@
           "url": "https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY"
         }
       ],
-      "duration_ms": 285040,
-      "name": "Someone Like You",
-      "url": "https://open.spotify.com/track/4kflIGfjdZJW4ot2ioixTB"
+      "duration_ms": 290900,
+      "name": "When We Were Young",
+      "url": "https://open.spotify.com/track/0cj2joJcY6b4XSRfj2eZOl"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2687,6 +2687,22 @@
       "duration_ms": 181266,
       "name": "Dreamer",
       "url": "https://open.spotify.com/track/2jv3f5GKP8ibGI0kvSQJc2"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 232852,
+      "name": "This Town",
+      "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
     },
     {
       "added_at": "2024-03-25 09:59:40",
@@ -2771,22 +2787,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/3QLB5s0MY7ERTwh4GpNMkf"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 232852,
-      "name": "This Town",
-      "url": "https://open.spotify.com/track/3UwT4FadEGWyMdaSwYcUBY"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "When You Love Someone (Acoustic)",
         "url": "https://open.spotify.com/album/7abPoR0SXjsHVkHquLrV7B"
       },
@@ -2851,22 +2851,6 @@
     {
       "added_at": "2024-03-25 09:59:40",
       "album": {
-        "name": "7 Layers (Special Edition)",
-        "url": "https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV"
-      },
-      "artists": [
-        {
-          "name": "Dotan",
-          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
-        }
-      ],
-      "duration_ms": 187933,
-      "name": "Let The River In",
-      "url": "https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8"
-    },
-    {
-      "added_at": "2024-03-25 09:59:40",
-      "album": {
         "name": "Ma Fleur",
         "url": "https://open.spotify.com/album/7ow7A9W9gqHAL0qKDL7ki9"
       },
@@ -2911,6 +2895,22 @@
       "duration_ms": 225065,
       "name": "Brick By Brick",
       "url": "https://open.spotify.com/track/1et21CEjWh8BO5nrdV4CNQ"
+    },
+    {
+      "added_at": "2024-03-25 09:59:40",
+      "album": {
+        "name": "7 Layers (Special Edition)",
+        "url": "https://open.spotify.com/album/0HKGIx3r0cIl1cNZs5JMfV"
+      },
+      "artists": [
+        {
+          "name": "Dotan",
+          "url": "https://open.spotify.com/artist/1cwOthlzLBwN8Imbq7P71H"
+        }
+      ],
+      "duration_ms": 187933,
+      "name": "Let The River In",
+      "url": "https://open.spotify.com/track/4iHgZ72mPU8XF1IsAatAj8"
     },
     {
       "added_at": "2024-03-25 09:59:40",

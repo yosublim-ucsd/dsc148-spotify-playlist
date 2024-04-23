@@ -1,6 +1,6 @@
 {
   "description": "The moody sound of easy listening from the 50's and 60's. Cover: Percy Faith",
-  "num_followers": 88327,
+  "num_followers": 88414,
   "original_name": "Classic Easy Listening",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "MTcxMDk0MTIyNiwwMDAwMDAwMGQyNjZiZTRhMmE4OWU4NDVlNzcwYzA4MGRjYWQ5OGZi",
   "tracks": [
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "My Way Of Music",
-        "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9 Popp",
-          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Les papillons",
-      "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
-    },
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 162533,
       "name": "Fascination",
       "url": "https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "My Way Of Music",
+        "url": "https://open.spotify.com/album/2v8Cn4xBjEKiMh4k3qHdXG"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 Popp",
+          "url": "https://open.spotify.com/artist/5NmHYphEyVeNxopdYctRyJ"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Les papillons",
+      "url": "https://open.spotify.com/track/4ny6NpcalvyvXgCHJGRTTB"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -63,22 +63,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Latin Hits I Missed",
-        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
-      },
-      "artists": [
-        {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
-        }
-      ],
-      "duration_ms": 133813,
-      "name": "Carnival",
-      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "With Compliments",
         "url": "https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d"
       },
@@ -91,6 +75,22 @@
       "duration_ms": 184520,
       "name": "El Condor Pasa",
       "url": "https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Latin Hits I Missed",
+        "url": "https://open.spotify.com/album/59ykUEGD13BeMV0qi700U6"
+      },
+      "artists": [
+        {
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+        }
+      ],
+      "duration_ms": 133813,
+      "name": "Carnival",
+      "url": "https://open.spotify.com/track/6KdYxXMJpJn6UlfzD2w8Z8"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Strings Latino",
-        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
+        "name": "Music For Lovers Only",
+        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
       "artists": [
         {
-          "name": "Edmundo Ros & His Orchestra",
-          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
         }
       ],
-      "duration_ms": 192666,
-      "name": "A Felicidade",
-      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
+      "duration_ms": 185400,
+      "name": "Alone Together",
+      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Music For Lovers Only",
-        "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
+        "name": "Strings Latino",
+        "url": "https://open.spotify.com/album/0dcD0Xc9CCmt5JfnbYGAfn"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "Edmundo Ros & His Orchestra",
+          "url": "https://open.spotify.com/artist/3CbSEqhKsYhEVQBj1tF1Kv"
         }
       ],
-      "duration_ms": 185400,
-      "name": "Alone Together",
-      "url": "https://open.spotify.com/track/0BEGcUB8xzHZa3BQfo6MSM"
+      "duration_ms": 192666,
+      "name": "A Felicidade",
+      "url": "https://open.spotify.com/track/2eSQzpWTDk8JqzKRZpEtPH"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Summer Place",
-        "url": "https://open.spotify.com/album/50nW5dxPVFGwwo61jmlwxG"
-      },
-      "artists": [
-        {
-          "name": "Percy Faith & His Orchestra",
-          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
-        }
-      ],
-      "duration_ms": 165213,
-      "name": "Theme From A Summer Place",
-      "url": "https://open.spotify.com/track/369DA2r2Ycpk8DjJGVIU9S"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "Two Pianos Today",
         "url": "https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 188880,
       "name": "Georgy Girl",
       "url": "https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "Music, Martinis And Memories",
+        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+      },
+      "artists": [
+        {
+          "name": "Jackie Gleason",
+          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+        }
+      ],
+      "duration_ms": 194880,
+      "name": "Once In A While",
+      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -395,18 +395,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Music, Martinis And Memories",
-        "url": "https://open.spotify.com/album/2JelxdxU46oAIVp9BwpqgA"
+        "name": "Summer Place",
+        "url": "https://open.spotify.com/album/50nW5dxPVFGwwo61jmlwxG"
       },
       "artists": [
         {
-          "name": "Jackie Gleason",
-          "url": "https://open.spotify.com/artist/2F0kPpQ5mtta1ORIyO2xex"
+          "name": "Percy Faith & His Orchestra",
+          "url": "https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv"
         }
       ],
-      "duration_ms": 194880,
-      "name": "Once In A While",
-      "url": "https://open.spotify.com/track/78N4D2m9rt9sYmniEr6RIm"
+      "duration_ms": 165213,
+      "name": "Theme From A Summer Place",
+      "url": "https://open.spotify.com/track/369DA2r2Ycpk8DjJGVIU9S"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -483,6 +483,22 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
+        "name": "Concert In Rhythm",
+        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
+      },
+      "artists": [
+        {
+          "name": "Ray Conniff",
+          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
+        }
+      ],
+      "duration_ms": 150666,
+      "name": "Early Evening",
+      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
         "name": "Music For Lovers Only",
         "url": "https://open.spotify.com/album/1yDWpowWTfhII9O0S9k2hs"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 168573,
       "name": "The Warmth Of The Sun",
       "url": "https://open.spotify.com/track/6c0M03HMyxST5H0qUhdfCH"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
-        "name": "Concert In Rhythm",
-        "url": "https://open.spotify.com/album/4eBac1T2uZzeAQIU8DbBk1"
-      },
-      "artists": [
-        {
-          "name": "Ray Conniff",
-          "url": "https://open.spotify.com/artist/7LfRnzGM0wRSyS5mmAwJbv"
-        }
-      ],
-      "duration_ms": 150666,
-      "name": "Early Evening",
-      "url": "https://open.spotify.com/track/5JHgfrc1OgnfOBasDLf4rD"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "The Magic Of Manuel",
-        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
-      },
-      "artists": [
-        {
-          "name": "Manuel & The Music Of The Mountains",
-          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
-        }
-      ],
-      "duration_ms": 224800,
-      "name": "Moonglow and Theme from Picnic",
-      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
-    },
-    {
-      "added_at": "2024-03-20 13:27:06",
-      "album": {
         "name": "I Wish You Love",
         "url": "https://open.spotify.com/album/3XkGjWU5IniYrxLyTyr5EE"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 168666,
       "name": "I Wish You Love",
       "url": "https://open.spotify.com/track/1I91gDn5YvCtwG7WL6Nwar"
+    },
+    {
+      "added_at": "2024-03-20 13:27:06",
+      "album": {
+        "name": "The Magic Of Manuel",
+        "url": "https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42"
+      },
+      "artists": [
+        {
+          "name": "Manuel & The Music Of The Mountains",
+          "url": "https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3"
+        }
+      ],
+      "duration_ms": 224800,
+      "name": "Moonglow and Theme from Picnic",
+      "url": "https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -711,22 +711,18 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "Pops Goes West",
-        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
+        "name": "The Shadow of Your Smile & Other Great Themes",
+        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
       },
       "artists": [
         {
-          "name": "Arthur Fiedler",
-          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
+          "name": "Andre Kostelanetz & His Orchestra",
+          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
         }
       ],
-      "duration_ms": 127986,
-      "name": "Buttons and Bows",
-      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
+      "duration_ms": 177213,
+      "name": "Forget Domani",
+      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
     },
     {
       "added_at": "2024-03-20 13:27:06",
@@ -747,18 +743,22 @@
     {
       "added_at": "2024-03-20 13:27:06",
       "album": {
-        "name": "The Shadow of Your Smile & Other Great Themes",
-        "url": "https://open.spotify.com/album/6YJJl88Mthfe24Wuf5bl2V"
+        "name": "Pops Goes West",
+        "url": "https://open.spotify.com/album/7bq3GSka6PDheAsQphwKH1"
       },
       "artists": [
         {
-          "name": "Andre Kostelanetz & His Orchestra",
-          "url": "https://open.spotify.com/artist/0O834tNw0PiiuYgj24yq0b"
+          "name": "Arthur Fiedler",
+          "url": "https://open.spotify.com/artist/2JQBcP1ceEAdwHM6cvSCv8"
+        },
+        {
+          "name": "Boston Pops Orchestra",
+          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
-      "duration_ms": 177213,
-      "name": "Forget Domani",
-      "url": "https://open.spotify.com/track/1d8xNh44oCpohmdiz38qCO"
+      "duration_ms": 127986,
+      "name": "Buttons and Bows",
+      "url": "https://open.spotify.com/track/3t0asMyGpWAgqzgprE2hQU"
     },
     {
       "added_at": "2024-03-20 13:27:06",

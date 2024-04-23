@@ -1,6 +1,6 @@
 {
   "description": "Amor aben\u00e7oado por Deus.",
-  "num_followers": 99894,
+  "num_followers": 99808,
   "original_name": "Gospel Rom\u00e2ntico",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
+        "name": "Disse Sim",
+        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
+      },
+      "artists": [
+        {
+          "name": "Mariana Aguiar",
+          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
+        }
+      ],
+      "duration_ms": 201874,
+      "name": "Disse Sim",
+      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
         "name": "Pamela Falando de Amor",
         "url": "https://open.spotify.com/album/1GGLOuf5RpSgokroQqOFHU"
       },
@@ -211,22 +227,6 @@
       "duration_ms": 284862,
       "name": "Um Verso de Amor",
       "url": "https://open.spotify.com/track/5P8LnyPsmeNztjsir8e5ke"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
-        "name": "Disse Sim",
-        "url": "https://open.spotify.com/album/05znoZeEDSkuU66gVAEi9Y"
-      },
-      "artists": [
-        {
-          "name": "Mariana Aguiar",
-          "url": "https://open.spotify.com/artist/5htTpNujBXYl3Dtsdw3fOw"
-        }
-      ],
-      "duration_ms": 201874,
-      "name": "Disse Sim",
-      "url": "https://open.spotify.com/track/3nzRymxESTUVKiIJ2Hr7jy"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -279,22 +279,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Aperfei\u00e7oou",
-        "url": "https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD"
-      },
-      "artists": [
-        {
-          "name": "Saulo Vianna",
-          "url": "https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe"
-        }
-      ],
-      "duration_ms": 239933,
-      "name": "Deus, Voc\u00ea e Eu",
-      "url": "https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Meu Bem",
         "url": "https://open.spotify.com/album/5EXAIjwCYVpVZ5xEgWF4Dd"
       },
@@ -307,6 +291,22 @@
       "duration_ms": 230878,
       "name": "Meu Bem",
       "url": "https://open.spotify.com/track/10xATNb0pIGuxHD31B6EFb"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Aperfei\u00e7oou",
+        "url": "https://open.spotify.com/album/3G5Gf6znSZ9gdIJBBc2tqD"
+      },
+      "artists": [
+        {
+          "name": "Saulo Vianna",
+          "url": "https://open.spotify.com/artist/758WjLdtMlNGzWtoUaJCHe"
+        }
+      ],
+      "duration_ms": 239933,
+      "name": "Deus, Voc\u00ea e Eu",
+      "url": "https://open.spotify.com/track/0WD0mcZTnBLhdHAvpSNy51"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -447,22 +447,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Eyshila Falando de Amor",
-        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 258345,
-      "name": "Meu Sonho",
-      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "Cabelo solto - Playback",
         "url": "https://open.spotify.com/album/2FoLg1Bm7PED4YTIayK0Cg"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 236251,
       "name": "Escolhi Te Esperar",
       "url": "https://open.spotify.com/track/0Ifj8NQ3Xl2Ia9s6XCphrz"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Eyshila Falando de Amor",
+        "url": "https://open.spotify.com/album/34ioOgwliXxkWJ6aJOn96Y"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 258345,
+      "name": "Meu Sonho",
+      "url": "https://open.spotify.com/track/3gpr0jaK2CXuv2EZKAHHGd"
     },
     {
       "added_at": "2023-07-14 16:56:11",
@@ -567,26 +567,6 @@
     {
       "added_at": "2023-07-14 16:56:11",
       "album": {
-        "name": "Onde Est\u00e1 Voc\u00ea",
-        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
-      },
-      "artists": [
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        },
-        {
-          "name": "Sarah Renata",
-          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
-        }
-      ],
-      "duration_ms": 246444,
-      "name": "Onde Est\u00e1 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
-    },
-    {
-      "added_at": "2023-07-14 16:56:11",
-      "album": {
         "name": "M\u00fasica Favorita (\u00c1gua)",
         "url": "https://open.spotify.com/album/0eyz2DKPN8JHZ96BkXom3l"
       },
@@ -607,6 +587,26 @@
       "duration_ms": 253636,
       "name": "M\u00fasica Favorita \u267e",
       "url": "https://open.spotify.com/track/6BhiOuSlMS1LtazjK2XfDQ"
+    },
+    {
+      "added_at": "2023-07-14 16:56:11",
+      "album": {
+        "name": "Onde Est\u00e1 Voc\u00ea",
+        "url": "https://open.spotify.com/album/7BXoXN8TRG0pZf9Q5FmtrW"
+      },
+      "artists": [
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        },
+        {
+          "name": "Sarah Renata",
+          "url": "https://open.spotify.com/artist/03KBnCXOAIMKBJhpadTkNY"
+        }
+      ],
+      "duration_ms": 246444,
+      "name": "Onde Est\u00e1 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0bk0A00Y3pw4u0oQPpkrQL"
     },
     {
       "added_at": "2023-07-14 16:56:11",

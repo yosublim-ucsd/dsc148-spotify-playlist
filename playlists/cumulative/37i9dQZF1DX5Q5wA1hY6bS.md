@@ -4,7 +4,7 @@
 
 > the best things in life can't be contained.
 
-461 songs - 1 day 4 hr 2 min
+462 songs - 1 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 | 2022-05-27 | 2024-04-19 |
 | [I'm Writing A Novel](https://open.spotify.com/track/7u8TLEgrY13mAXjzNUFe1S) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/6n5vLBsUWD0ryjsEfBBEmT) | 3:35 | 2020-07-10 | 2020-09-05 |
 | [If I Could Make You My Own](https://open.spotify.com/track/45w3LOpHZUKdEe8lAJr1RP) | [Dori Freeman](https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt) | [Letters Never Read](https://open.spotify.com/album/3SarATvyjJUcQqLhnjLid4) | 3:22 | 2020-03-09 | 2020-04-15 |
-| [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 | 2020-03-09 |  |
+| [If Something Breaks](https://open.spotify.com/track/7DjrbcooF37ZDOLjOK33xN) | [Front Country](https://open.spotify.com/artist/0wtrcS7HMXw3IHKCSr2szj) | [Other Love Songs](https://open.spotify.com/album/08gHftgrOWJDY4OlbOkxaQ) | 4:56 | 2020-03-09 | 2024-04-23 |
 | [In My Room](https://open.spotify.com/track/0uyzIps7qIdNKOVIvR6Ex0) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K), [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [In My Room](https://open.spotify.com/album/2LPetL2iAG5jqVLPaKJPHc) | 2:45 | 2021-10-12 | 2022-06-28 |
 | [Inner Meet Me](https://open.spotify.com/track/14v8jznoR89bjfgmVWvCrh) | [The Beta Band](https://open.spotify.com/artist/2LMR8u7DOMF0FBseDpTsRa) | [The Three E.P.'s](https://open.spotify.com/album/6w7XFtdCQf871KU40Ot1Ra) | 6:20 | 2020-07-10 | 2020-09-05 |
 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 | 2020-07-24 | 2021-06-18 |
@@ -255,6 +255,7 @@
 | [Lovely](https://open.spotify.com/track/6QvnE4jHzPdl6LuNLgo2Ey) | [Lauren Jones](https://open.spotify.com/artist/10EgNKwigpuf6nKo89u0va) | [Lovely](https://open.spotify.com/album/2oEbFVM6UA6sEVrc9ZJe8R) | 3:45 | 2021-06-18 | 2022-07-25 |
 | [Lovers Carvings \- WXAXRXP Session](https://open.spotify.com/track/0O8opD0spCg2nheujR7DyP) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Lovers Carvings \(WXAXRXP Session\)](https://open.spotify.com/album/3evuEsc433n45snDYp7TOM) | 4:30 | 2019-10-23 | 2023-02-03 |
 | [Lovers Carvings \- WXAXRXP Session](https://open.spotify.com/track/6FnqA5BcNf6EMnOIdP4H7W) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT) | [Lovers Carvings \(WXAXRXP Session\)](https://open.spotify.com/album/7zDW4DTfobs2nuUv09XIWl) | 4:30 | 2022-10-14 | 2023-08-28 |
+| [Maine](https://open.spotify.com/track/3pf3hHjBJP6E4zAaSDrl8r) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Maine/The Sink](https://open.spotify.com/album/15uBXJ6ezZjmpbqKYiy2xb) | 4:53 | 2024-04-22 |  |
 | [Mama Said](https://open.spotify.com/track/2boxPTf4giTdXkHbsSxcUO) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/2hIB0AAIzg2oQ4OF1RqD8z) | 3:33 | 2020-03-09 | 2021-10-16 |
 | [Mama Said](https://open.spotify.com/track/3eiTlfmClIHJS7Vq4IwkBZ) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Ivory Castanets](https://open.spotify.com/album/4feDk4LVjagDkvmpCem8Le) | 3:33 | 2022-05-27 | 2024-04-19 |
 | [Man Made by Delusion](https://open.spotify.com/track/5MfrKMzZ2eU9FTiLjgMKmy) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [5am Paradise](https://open.spotify.com/album/68bhX8AcCObSmY57ogdl4J) | 3:24 | 2022-05-27 | 2022-07-29 |

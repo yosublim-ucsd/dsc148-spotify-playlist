@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Ei2cOBgIym.md) - [plain]
 
 > All the music from Insecure
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,505 likes - 410 songs - 23 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,512 likes - 410 songs - 23 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

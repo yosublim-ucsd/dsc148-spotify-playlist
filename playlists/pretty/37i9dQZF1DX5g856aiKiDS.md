@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 
 > Chill Korean tunes that's perfect with your latte or americano\. \(카페와 어울리는 편안한 음악들을 감상하세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 484,082 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,009 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,9 +50,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5g856aiKiDS.md) - [plain]
 | 40 | [Peach](https://open.spotify.com/track/3hbi6hayJ6OibzGe3fWLwf) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Spring of Twenty](https://open.spotify.com/album/2DSxe9W0Mv0IU2YMAbljYb) | 3:10 |
 | 41 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 |
 | 42 | [Winter Blossom \(feat\. SAAY\) \(Prod\. by 0channel\)](https://open.spotify.com/track/5BVjsCcDlYgJG2bB2jsOeI) | [punchnello](https://open.spotify.com/artist/5enwJ9yOnKlCP91ov4Dqhv), [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [ordinary.](https://open.spotify.com/album/5KxykJIMpVCFZ7zow2Td0k) | 3:37 |
-| 43 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
-| 44 | [Fire up](https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Fire up](https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6) | 3:39 |
-| 45 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
+| 43 | [Fire up](https://open.spotify.com/track/66aRjw9DruRf9J40t1Wm9i) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [Fire up](https://open.spotify.com/album/6LsnwhszwrWSHWQh9f4kv6) | 3:39 |
+| 44 | [Being left \(Feat\. Dvwn\)](https://open.spotify.com/track/7hg44Uac2HOBJCLWsHXMQp) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [THINKING Part.2](https://open.spotify.com/album/6HcRiA5scMhgM5lBMKX2ad) | 3:38 |
+| 45 | [her](https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [her](https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1) | 2:35 |
 | 46 | [What Is Love](https://open.spotify.com/track/7DvK5WiY7UjwOnDg69XMEn) | [Seo Hyun Jin](https://open.spotify.com/artist/5mVia8ijuiXexx5tUSROzs), [Yu Seung Woo](https://open.spotify.com/artist/5ZSPRYslMYdwfwkKNcmBJf) | [Another Miss Oh, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0gRxdS2kPjtmxoXgFWjJms) | 3:33 |
 | 47 | [U](https://open.spotify.com/track/7wTqBeoo4bDr4eNnn3HHJk) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:19 |
 | 48 | [Fxxxnds \(Feat\. Kim Min Seok of MeloMance\)](https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Kim MinSeok](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Fxxxnds](https://open.spotify.com/album/7rwRRay2hz12bl652kIOTH) | 3:29 |

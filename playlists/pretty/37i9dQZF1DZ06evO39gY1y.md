@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 
 > This is Charles Ans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 221,281 likes - 51 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,280 likes - 51 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO39gY1y.md) - [plain]
 | 42 | [Vegetales Con Pescado](https://open.spotify.com/track/5hXIWWxST35rAT5pUCLAer) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI), [BCN](https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd) | [Vegetales Con Pescado](https://open.spotify.com/album/23XssGbWNkixBvuJL48mA3) | 3:02 |
 | 43 | [Me Toca Perder](https://open.spotify.com/track/0mmmQ4gBBCAkOOW4zWAar8) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Ms\. Ambar](https://open.spotify.com/artist/0jgJv4J29BJiJu1luw2SdA), [La Loquera](https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI) | [Me Toca Perder](https://open.spotify.com/album/032R6q6LebIk6GvTSIkQE6) | 2:54 |
 | 44 | [Aunque la Vida Duele](https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Ataraxia: A Plena Luz del Dia](https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi) | 3:31 |
-| 45 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
-| 46 | [El Tiempo Cura](https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH) | [El Tiempo Cura](https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0) | 3:28 |
+| 45 | [El Tiempo Cura](https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Adan Golden Ganga](https://open.spotify.com/artist/6FXfgNHxytp8GsDnK6uXlH) | [El Tiempo Cura](https://open.spotify.com/album/5zTKR5lMmaFyCcjjqC8gS0) | 3:28 |
+| 46 | [Olvidemos el Reloj](https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [M2H](https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi) | [Olvidemos el Reloj](https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr) | 3:52 |
 | 47 | [Suave](https://open.spotify.com/track/60Q52tRITuGCBbbt6zQPqQ) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Suave](https://open.spotify.com/album/5MYr57wJSDfVi4DnvSwPPv) | 3:34 |
 | 48 | [Llamando A Tu Fon](https://open.spotify.com/track/07lwUBDazPEFw2qvl9pERT) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Llamando A Tu Fon](https://open.spotify.com/album/2oXsW0YViUeRi38nZ41sl7) | 3:27 |
 | 49 | [Dos de Café](https://open.spotify.com/track/3J2BppVuNMkRLbfWW0qRE0) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [Sharif](https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Órbitas](https://open.spotify.com/album/3N3VyxZUijgbxTXdCECuK4) | 4:23 |
 | 50 | [Mis Ojos No Podían Ver \- En Vivo](https://open.spotify.com/track/3A8qwCz85Ql1Rdpp4AoZVX) | [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [En Vivo Desde el Plaza Condesa](https://open.spotify.com/album/7bWSpaa8JaPu7q9qmv5RnT) | 3:21 |
 | 51 | [Cada Vez](https://open.spotify.com/track/63Fb4Ug0IreGmhoKf6PVrt) | [Desert Niños](https://open.spotify.com/artist/2Ch5zHsrWSpgq7g0WI2UFD), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cada Vez](https://open.spotify.com/album/4eNiNe8uTe8LK410C4OOTJ) | 3:27 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDBkMWJlMWI0NDg2N2M0OTZhZDYzNmZiODM0NGE1Njcx`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGQ0ZGYwZjMwMmUzMjkwMzNlZmI5YWExZjY5MWJkY2Mx`

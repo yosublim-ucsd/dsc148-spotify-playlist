@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 
 > love peace techno
 
-[Spotify](https://open.spotify.com/user/spotify) - 237,163 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 237,417 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,9 +47,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXMERUaiq9M.md) - [plain]
 | 37 | [Call Me](https://open.spotify.com/track/4iqtDvbICWuBERMTz9cz41) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [Call Me](https://open.spotify.com/album/2NlSt0ZVPsx3dblkIoamuo) | 2:19 |
 | 38 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 39 | [Renaissance](https://open.spotify.com/track/03aBQclFfQ82oEYCYTORfY) | [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j), [VisionV](https://open.spotify.com/artist/5mOO1KIfKb5HY8ieKjG9Qf) | [Renaissance](https://open.spotify.com/album/4MT3BeO1DE8PAbsJSgfDtA) | 2:31 |
-| 40 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 |
+| 40 | [i like the way you kiss me \- Marlon Hoffstadt aka DJ Daddy Trance remix](https://open.spotify.com/track/2AljG7lFywSjjLBVMOhm7s) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 3:19 |
 | 41 | [Europaträume](https://open.spotify.com/track/0PYX7X0wTBT5WvKzNCWtk2) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [Europaträume](https://open.spotify.com/album/5AXd8wp7NNydXNzFAxlXmf) | 3:36 |
-| 42 | [i like the way you kiss me \- Marlon Hoffstadt aka DJ Daddy Trance remix](https://open.spotify.com/track/2AljG7lFywSjjLBVMOhm7s) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2), [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f), [DJ Daddy Trance](https://open.spotify.com/artist/4lBSzo2LS8asEzoePv6VLM) | [i like the way you kiss me \(remixes\)](https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB) | 3:19 |
+| 42 | [Cover Up My Face](https://open.spotify.com/track/5bad0bmasmpiK5EdAQDXrG) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Cover Up My Face](https://open.spotify.com/album/1R0KvMBXz6qzjAEIS57Sz8) | 3:24 |
 | 43 | [Schreien! \- Turbo Remix](https://open.spotify.com/track/4tQxA4wt4knZ19uqRka3u6) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ), [Marti Fischer](https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV) | [Schreien! \(Turbo Remix\)](https://open.spotify.com/album/39nZLctQpTKoFBNZ8gHjsE) | 2:45 |
 | 44 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 |
 | 45 | [The Captain](https://open.spotify.com/track/4NGwhkwJzROYFJKNFmFHus) | [HIJCKD](https://open.spotify.com/artist/4oFuOElyTlMdZMXMQBSdVq) | [The Captain](https://open.spotify.com/album/0hc4lRGEKpOzSdd2KXZ47j) | 3:12 |

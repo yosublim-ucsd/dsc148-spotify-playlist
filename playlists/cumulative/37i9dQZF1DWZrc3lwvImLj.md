@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-417 songs - 18 hr 15 min
+418 songs - 18 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -312,6 +312,7 @@
 | [Slow Sorrow](https://open.spotify.com/track/5rJVqzACUYjXwLqA4sAbib) | [Minnie Aoyama](https://open.spotify.com/artist/5AmhcDvUI7dmOI8U57NoC4) | [Slow Sorrow](https://open.spotify.com/album/1EGFcI9mmUc9KmorkNZyGx) | 2:04 | 2021-12-14 | 2023-11-16 |
 | [So Serene](https://open.spotify.com/track/0zadc4zL5oA8naLMEPcdsv) | [Katinka Overman](https://open.spotify.com/artist/774hf31XZL9jyrwZMpLRiU) | [So Serene](https://open.spotify.com/album/75cidIbNTEIRMg7yMeaWpQ) | 2:43 | 2022-01-05 |  |
 | [Sol 42](https://open.spotify.com/track/1JlqsLiK8l29lI1nvITHpz) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Sol 42](https://open.spotify.com/album/0w9o0ErIr3XtG3X6OhJvaj) | 3:09 | 2021-12-14 | 2023-11-16 |
+| [Solitude](https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k) | [Jerome Louis](https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ) | [Solitude](https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN) | 2:29 | 2024-04-22 |  |
 | [Solitude](https://open.spotify.com/track/1DBcTd8Qkm9hAHOXI1ajDa) | [Light Beyond Life](https://open.spotify.com/artist/6qLYeDUv2dxEGxNCWoL7b5) | [Solitude](https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6) | 2:27 | 2021-12-14 | 2022-05-21 |
 | [Solitudine](https://open.spotify.com/track/6YAlzxrja9WNcYHBukp1ZM) | [Guilliaume Om](https://open.spotify.com/artist/59TontIdB13G6OPjg6m7NN) | [Solitudine](https://open.spotify.com/album/613rQEf20H9ku0bsP2zFjs) | 2:37 | 2021-12-14 | 2022-05-21 |
 | [Solituned](https://open.spotify.com/track/1f88reZiqjn7GAyNy8TBRG) | [Piotr Wiese](https://open.spotify.com/artist/3e4aLWouBXjJXSFwU7ilQA) | [Solituned](https://open.spotify.com/album/6JgNvx1B7mPfLTvMLgSkGD) | 3:18 | 2021-12-14 | 2022-07-29 |

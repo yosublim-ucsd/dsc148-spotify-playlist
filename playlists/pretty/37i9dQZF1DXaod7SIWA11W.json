@@ -1,6 +1,6 @@
 {
   "description": "Get lifted by the waves of faith-infused music.  Cover: <a href=\"spotify:artist:03qM4LmPCrR7CuHTE0WAIW\">Koryn Hawthorne</a> ",
-  "num_followers": 72010,
+  "num_followers": 72063,
   "original_name": "Lifted Frequency",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "Saved You Too",
+        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
+      },
+      "artists": [
+        {
+          "name": "Y Shadey",
+          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
+        }
+      ],
+      "duration_ms": 118413,
+      "name": "Saved You Too",
+      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "Amazing Grace",
         "url": "https://open.spotify.com/album/0rqRhC288otR9wnmgHz6Bb"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 166190,
       "name": "Every Step",
       "url": "https://open.spotify.com/track/6lvJQigKOiGa8uAC4Ek6qd"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Saved You Too",
-        "url": "https://open.spotify.com/album/5HRjNTg2Q3N2OyNR6ISdc9"
-      },
-      "artists": [
-        {
-          "name": "Y Shadey",
-          "url": "https://open.spotify.com/artist/2NSMsMCNZzqNA1jlVO9M9t"
-        }
-      ],
-      "duration_ms": 118413,
-      "name": "Saved You Too",
-      "url": "https://open.spotify.com/track/0F0DeGGgX48CIeKWRKgdCQ"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "ALOT",
-        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
-      },
-      "artists": [
-        {
-          "name": "808 BEEZY",
-          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
-        }
-      ],
-      "duration_ms": 145011,
-      "name": "ALOT",
-      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Optimistic",
         "url": "https://open.spotify.com/album/4owoEaptnmB47H4gzz9VUr"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 186713,
       "name": "Optimistic",
       "url": "https://open.spotify.com/track/6N1Ckp6rRovph3WuIqVtPx"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "ALOT",
+        "url": "https://open.spotify.com/album/5Rekz99tSLtBKqCFyduQ8r"
+      },
+      "artists": [
+        {
+          "name": "808 BEEZY",
+          "url": "https://open.spotify.com/artist/3CltJZLndpJKtpUyRVBB1k"
+        }
+      ],
+      "duration_ms": 145011,
+      "name": "ALOT",
+      "url": "https://open.spotify.com/track/6YzOFXNcafOeBFTrTklZhd"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1219,18 +1219,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Bobby",
-        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
+        "name": "Affirmations",
+        "url": "https://open.spotify.com/album/6Tqy5qKGeNHyt0kRG0xmpt"
       },
       "artists": [
         {
-          "name": "IMRSQD",
-          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
+          "name": "Anthony Brown & group therAPy",
+          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
+        },
+        {
+          "name": "Kierra Sheard-Kelly",
+          "url": "https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po"
         }
       ],
-      "duration_ms": 168777,
-      "name": "Bobby",
-      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
+      "duration_ms": 337013,
+      "name": "Grace",
+      "url": "https://open.spotify.com/track/2G2lCdWkwgXvHVNMWZqWcJ"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1251,22 +1255,18 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "Affirmations",
-        "url": "https://open.spotify.com/album/6Tqy5qKGeNHyt0kRG0xmpt"
+        "name": "Bobby",
+        "url": "https://open.spotify.com/album/1qKLi1EyvymkK24fMVOInz"
       },
       "artists": [
         {
-          "name": "Anthony Brown & group therAPy",
-          "url": "https://open.spotify.com/artist/4sgW8IRub0jAU29ecct87w"
-        },
-        {
-          "name": "Kierra Sheard-Kelly",
-          "url": "https://open.spotify.com/artist/7k9QU2u4MTwjc6pHZoo9po"
+          "name": "IMRSQD",
+          "url": "https://open.spotify.com/artist/3SjPZFpbGUgmdGqpLIZ2lc"
         }
       ],
-      "duration_ms": 337013,
-      "name": "Grace",
-      "url": "https://open.spotify.com/track/2G2lCdWkwgXvHVNMWZqWcJ"
+      "duration_ms": 168777,
+      "name": "Bobby",
+      "url": "https://open.spotify.com/track/3ZpRFfVJ0bS4l9ufwEkK0P"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1539,6 +1539,22 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
+        "name": "RADICAL",
+        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
+      },
+      "artists": [
+        {
+          "name": "CalledOut Music",
+          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
+        }
+      ],
+      "duration_ms": 172027,
+      "name": "Day By Day",
+      "url": "https://open.spotify.com/track/6Kz4gt4CBJyjveJic1hB5X"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
         "name": "G.O.A.L.S.",
         "url": "https://open.spotify.com/album/20u7UEG2i60KRs5iPJ2pgl"
       },
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2024-03-20 10:43:05",
       "album": {
-        "name": "RADICAL",
-        "url": "https://open.spotify.com/album/1Wo57u7paNfHF6mFD0W2wE"
-      },
-      "artists": [
-        {
-          "name": "CalledOut Music",
-          "url": "https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH"
-        }
-      ],
-      "duration_ms": 172027,
-      "name": "Day By Day",
-      "url": "https://open.spotify.com/track/6Kz4gt4CBJyjveJic1hB5X"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/0qAatrpLz8e3mTDfgehXCH"
       },
@@ -1587,6 +1587,34 @@
       "duration_ms": 154970,
       "name": "Glory",
       "url": "https://open.spotify.com/track/4srODfoVNeEl1Djn2ZAvKc"
+    },
+    {
+      "added_at": "2024-03-20 10:43:05",
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6103XRods58M1Wd36Ke5Nb"
+      },
+      "artists": [
+        {
+          "name": "Jevon Dewand",
+          "url": "https://open.spotify.com/artist/29aLw1wHmH1tpXaG3bMnXF"
+        },
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        },
+        {
+          "name": "Gasner the Artist",
+          "url": "https://open.spotify.com/artist/1Ik7iTeQpqDquiNN80odM3"
+        },
+        {
+          "name": "Jazze Pha",
+          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
+        }
+      ],
+      "duration_ms": 267374,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1PZrnMxqoO1vxyQlX24ovM"
     },
     {
       "added_at": "2024-03-20 10:43:05",
@@ -1623,34 +1651,6 @@
       "duration_ms": 274756,
       "name": "I Will Rejoice - Live",
       "url": "https://open.spotify.com/track/1Q6yfDa3t9TsdZ3Dv6zFH9"
-    },
-    {
-      "added_at": "2024-03-20 10:43:05",
-      "album": {
-        "name": "Without You",
-        "url": "https://open.spotify.com/album/6103XRods58M1Wd36Ke5Nb"
-      },
-      "artists": [
-        {
-          "name": "Jevon Dewand",
-          "url": "https://open.spotify.com/artist/29aLw1wHmH1tpXaG3bMnXF"
-        },
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        },
-        {
-          "name": "Gasner the Artist",
-          "url": "https://open.spotify.com/artist/1Ik7iTeQpqDquiNN80odM3"
-        },
-        {
-          "name": "Jazze Pha",
-          "url": "https://open.spotify.com/artist/1QkusyyiLCVP97x3TADKV9"
-        }
-      ],
-      "duration_ms": 267374,
-      "name": "Without You",
-      "url": "https://open.spotify.com/track/1PZrnMxqoO1vxyQlX24ovM"
     },
     {
       "added_at": "2024-03-20 10:43:05",

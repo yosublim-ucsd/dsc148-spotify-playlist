@@ -4,7 +4,7 @@
 
 > No lyrics, no distractions, just chilled piano and study vibes for as long as you need.
 
-228 songs - 9 hr 39 min
+230 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Blinded by the light](https://open.spotify.com/track/5ZADutZI6cNNyeYcSAiGbb) | [Yuko Kimura](https://open.spotify.com/artist/4sVQyVPaGQ1MzslDmkf8nn) | [Blinded by the light](https://open.spotify.com/album/2C8D0P6qH28RM0icHOaWI2) | 2:55 | 2023-10-18 |  |
 | [Calm Waves](https://open.spotify.com/track/2eN6gy29Emm7MRbQrcJs7d) | [Anthony Jacobus](https://open.spotify.com/artist/6qxdmY3SMyvfVadKXWTZQi) | [Calm Waves](https://open.spotify.com/album/0ZDf5tT8xNOjb7NkdQB8lH) | 2:36 | 2023-10-18 |  |
 | [Calm Wind](https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi) | [Elfrieda](https://open.spotify.com/artist/6FHyFPk8S7LAUOvHBm5F5t) | [Calm Wind](https://open.spotify.com/album/3wpbjtW8zANzFTOIcdvF3K) | 2:20 | 2023-10-18 |  |
+| [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Camino](https://open.spotify.com/track/6iRtD6kgCTAHOl5nXmOkop) | [Ron Adelaar](https://open.spotify.com/artist/09L72oOms1QBoALUSLqx8u) | [Camino](https://open.spotify.com/album/5nyL3abLor8WN4Ba6mJIyr) | 2:15 | 2024-02-21 |  |
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
 | [Certain Days](https://open.spotify.com/track/3YKPxRJDUHhnFJUyjV57JQ) | [Viljar Iversen](https://open.spotify.com/artist/57zxco4Z1lUt03EMLy3GYl) | [Certain Days](https://open.spotify.com/album/2u2aoV0YFFubHvzgkaN244) | 2:18 | 2023-10-18 |  |
@@ -222,6 +223,7 @@
 | [Valencia](https://open.spotify.com/track/0lyxuER9HktBcYRwpaasqs) | [Gaspar Becerra](https://open.spotify.com/artist/11Bp9FCzawV5M3HV54FRCj) | [Valencia](https://open.spotify.com/album/5EblH0XOm0QKeOEeypwONP) | 2:54 | 2023-10-18 |  |
 | [velvet void](https://open.spotify.com/track/3wEBkJFS7AngSwHAEcrkFb) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [velvet void](https://open.spotify.com/album/2mDvDFwJV8FnrR6eq1Hm5e) | 2:28 | 2023-10-18 |  |
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-10-18 |  |
+| [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
 | [Vocation](https://open.spotify.com/track/3WO9w2dTOjfwn8cf04Ft0W) | [Christian Janssen](https://open.spotify.com/artist/42vzUzUtpdNGFYxqgVcXl1) | [Vocation](https://open.spotify.com/album/7hyTlMMTqS0Vs7oWvqc9uy) | 2:15 | 2023-10-18 |  |
 | [Warm](https://open.spotify.com/track/03zca5jNCKSk4uttDewQ42) | [Cinthya Garcia](https://open.spotify.com/artist/6bJ7NkfRa94C3IT6NGamEv) | [Warm](https://open.spotify.com/album/0qfYgChE45s9trkjNJT5Iq) | 2:07 | 2023-10-18 |  |
 | [Warm Embrace](https://open.spotify.com/track/6vmSs1vZTUYACBCW7udcnp) | [Ann Hildering](https://open.spotify.com/artist/6lWPmDlDmJS0YGQ8onTcBx) | [Warm Embrace](https://open.spotify.com/album/5TY47fQyAFrMzWLcsl08UY) | 2:43 | 2023-10-18 |  |

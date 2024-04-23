@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A la antig\u00fcita, chiquitita! Las canciones escritas e interpretadas por Ed\u00e9n Mu\u00f1oz \ud83e\udd20",
-  "num_followers": 115954,
+  "num_followers": 115931,
   "original_name": "Cancionero Ed\u00e9n Mu\u00f1oz",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "Desde El Estudio Andaluz Music",
-        "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
-      },
-      "artists": [
-        {
-          "name": "Los De La Noria",
-          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
-        }
-      ],
-      "duration_ms": 194040,
-      "name": "Y Qu\u00e9 Les Vamos A Decir - Desde El Estudio Andaluz Music",
-      "url": "https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "El Heredero Mayor",
         "url": "https://open.spotify.com/album/2X1Tw06QtYHmbVPwgvwAok"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 179514,
       "name": "Tambi\u00e9n T\u00fa Te Equivocas",
       "url": "https://open.spotify.com/track/1Nk84MlFkQmlri26uc0Tzg"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "Desde El Estudio Andaluz Music",
+        "url": "https://open.spotify.com/album/2Apw3yxOCr55zyWDJB3PGs"
+      },
+      "artists": [
+        {
+          "name": "Los De La Noria",
+          "url": "https://open.spotify.com/artist/4S5t9CJJNjl6zEp5e1OMiO"
+        }
+      ],
+      "duration_ms": 194040,
+      "name": "Y Qu\u00e9 Les Vamos A Decir - Desde El Estudio Andaluz Music",
+      "url": "https://open.spotify.com/track/2v7W1uaUgBES0FvNkCkCqf"
     },
     {
       "added_at": "2022-05-25 16:50:02",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2022-05-25 16:50:02",
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 230880,
-      "name": "Si Me Hubieras Oido",
-      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
-    },
-    {
-      "added_at": "2022-05-25 16:50:02",
-      "album": {
         "name": "Guerra De Poder",
         "url": "https://open.spotify.com/album/1W1M5dIjrNZdAD7mSsamKc"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 126880,
       "name": "Las Ultras",
       "url": "https://open.spotify.com/track/32nbIrhBqKTuZr4hFnlDbU"
+    },
+    {
+      "added_at": "2022-05-25 16:50:02",
+      "album": {
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 230880,
+      "name": "Si Me Hubieras Oido",
+      "url": "https://open.spotify.com/track/5LpItlraU0WzZqhH0FCHi5"
     },
     {
       "added_at": "2022-05-25 16:50:02",

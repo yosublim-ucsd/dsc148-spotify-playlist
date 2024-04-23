@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 
 > Your everyday pick\-me\-up playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,933 likes - 60 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,932 likes - 60 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,12 +61,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX18vEkgMAyAR.md) - [plain]
 | 51 | [Thank You/Rebel and a Cause \- from ech0](https://open.spotify.com/track/0BZ8a5cWdl7sNwNzHBLZj0) | [Just a Band](https://open.spotify.com/artist/0udvEwi0yqxRFUnv5x0VJA) | [echo: dawn](https://open.spotify.com/album/0ZhR4JnbnSgxcNPq5jaHKF) | 3:07 |
 | 52 | [Falling](https://open.spotify.com/track/4v9nRXzGgTFc2GuxWpG0Mg) | [Majozi](https://open.spotify.com/artist/1JvTUHnkJ8yiTQfOKDdArt) | [Falling](https://open.spotify.com/album/7ziJdl59dI4sSnp5M3AIPc) | 3:12 |
 | 53 | ['Til I Found You \- Montmartre Remix](https://open.spotify.com/track/1W3DjILstwRfspKO8vpfZp) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g), [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [‘Til I Found You \(Montmartre Remix\)](https://open.spotify.com/album/2gtbA1YdkxivCi36EambHn) | 2:46 |
-| 54 | [SHANGRI\-LA \- Radio Edit](https://open.spotify.com/track/04NEE6filobSes2pww809U) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [SHANGRI\-LA \(Radio Edit\)](https://open.spotify.com/album/5ibPTCuJQNcbZnWTU9HkuX) | 3:02 |
+| 54 | [Fine Little Rhythm](https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Fine Little Rhythm](https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb) | 3:31 |
 | 55 | [Say You Will Remember Me](https://open.spotify.com/track/3cVbwXyr9oZdeNfISdeS7F) | [Shaun Jacobs](https://open.spotify.com/artist/662ARLbv66AD2qerddBiDP) | [Say You Will Remember Me](https://open.spotify.com/album/39wcKYCki3w61JhTzUM8be) | 3:22 |
 | 56 | [Chasing Dreams](https://open.spotify.com/track/3ossMtuLj4Ku77HAPNP372) | [GoodLuck](https://open.spotify.com/artist/4iSv3eRHwrwQTYbRCXxmL3) | [Chasing Dreams](https://open.spotify.com/album/1zwKk5HDYeSkBzG1k27EKz) | 2:34 |
-| 57 | [Fine Little Rhythm](https://open.spotify.com/track/2YPAhxlPU2tcdlS4YSx5PA) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Fine Little Rhythm](https://open.spotify.com/album/05VHHbajKoryAVCTSZDDkb) | 3:31 |
-| 58 | [Never Let Me Go](https://open.spotify.com/track/2CbimpAqyAtc1qMznPODJV) | [Josh Wantie](https://open.spotify.com/artist/0pge2gEtqePVRTkYcK4hQb), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Never Let Me Go](https://open.spotify.com/album/2CqK9iuKQZP08okHT5kTOQ) | 2:35 |
-| 59 | [be my guest](https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 3:06 |
+| 57 | [SHANGRI\-LA \- Radio Edit](https://open.spotify.com/track/04NEE6filobSes2pww809U) | [Die Heuwels Fantasties](https://open.spotify.com/artist/0FrkoXLOCHCWfMXw10Apxb), [TRESOR](https://open.spotify.com/artist/5tYaRVYbV1anmzyxqMVdHi) | [SHANGRI\-LA \(Radio Edit\)](https://open.spotify.com/album/5ibPTCuJQNcbZnWTU9HkuX) | 3:02 |
+| 58 | [be my guest](https://open.spotify.com/track/6EsxMkOPOgMvRcGJO02pyt) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [the world i love](https://open.spotify.com/album/0PGaguvVjayjOSfFjwVKRV) | 3:06 |
+| 59 | [Never Let Me Go](https://open.spotify.com/track/2CbimpAqyAtc1qMznPODJV) | [Josh Wantie](https://open.spotify.com/artist/0pge2gEtqePVRTkYcK4hQb), [Conor Maynard](https://open.spotify.com/artist/6mU8ucezzms5I2kNH6HNlu) | [Never Let Me Go](https://open.spotify.com/album/2CqK9iuKQZP08okHT5kTOQ) | 2:35 |
 | 60 | [Bosana](https://open.spotify.com/track/4oK68YNIvg4J4lBvcwak6h) | [El Mukuka](https://open.spotify.com/artist/3z0l518027gIZvLtoXQCkd), [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK) | [Bosana](https://open.spotify.com/album/5t6pQwDnbCwsduBrrnJMh1) | 3:31 |
 
 Snapshot ID: `MTY5ODk4MzkzMiwwMDAwMDAwMDgzZDA3MWNjZjQzZDIwMjI3MzZmY2I5MWEwN2M0ZDAx`

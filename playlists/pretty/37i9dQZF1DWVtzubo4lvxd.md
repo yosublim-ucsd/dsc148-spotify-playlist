@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,195 likes - 75 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,192 likes - 75 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,13 +47,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 37 | [4AM](https://open.spotify.com/track/7H2dYM4aXTgYUv7xUMk2aN) | [Zesik](https://open.spotify.com/artist/1xNBQYNORzAxrGs8bQEX4I) | [4AM](https://open.spotify.com/album/2KS9ys7fkmoJBfnt3BNhTa) | 1:51 |
 | 38 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
 | 39 | [space jazz](https://open.spotify.com/track/5JngOFWX3RuNDAhxbofBht) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [space jazz](https://open.spotify.com/album/0BGU49UTwEGwvzxjJK1gUo) | 2:18 |
-| 40 | [Toyohashi](https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Toyohashi](https://open.spotify.com/album/2rgsNRuba87QugaU6gFtmD) | 1:32 |
-| 41 | [Solitude](https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Solitude](https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W) | 2:41 |
-| 42 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
+| 40 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
+| 41 | [Toyohashi](https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Toyohashi](https://open.spotify.com/album/2rgsNRuba87QugaU6gFtmD) | 1:32 |
+| 42 | [Solitude](https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Solitude](https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W) | 2:41 |
 | 43 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
 | 44 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 |
-| 45 | [Mother Earth](https://open.spotify.com/track/1fFQhH7c9kI5JhQanfmfhJ) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Mother Earth](https://open.spotify.com/album/1b38YWEUjM281wupVyqX2i) | 1:44 |
-| 46 | [Pick Ur Love](https://open.spotify.com/track/0ioSIb7KgickIu5YlAIQfo) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Pick Ur Love](https://open.spotify.com/album/3OKWzFoMxvdcPtqzrxVwOA) | 2:40 |
+| 45 | [Pick Ur Love](https://open.spotify.com/track/0ioSIb7KgickIu5YlAIQfo) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Pick Ur Love](https://open.spotify.com/album/3OKWzFoMxvdcPtqzrxVwOA) | 2:40 |
+| 46 | [Mother Earth](https://open.spotify.com/track/1fFQhH7c9kI5JhQanfmfhJ) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Mother Earth](https://open.spotify.com/album/1b38YWEUjM281wupVyqX2i) | 1:44 |
 | 47 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |
 | 48 | [Green](https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Green](https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j) | 2:02 |
 | 49 | [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 65 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 |
 | 66 | [Dont.Be.Afraid.](https://open.spotify.com/track/6JAE7Xhp03p7rhVHKJrsEk) | [DVLTVN](https://open.spotify.com/artist/4EjD919dnuBCJRZ9QnUagb) | [The Blyat Tapes,Vol.1](https://open.spotify.com/album/4agOIT6l8bQA9cQ7pjTwMu) | 1:25 |
 | 67 | [Afloat](https://open.spotify.com/track/4XDlW5QgLKZupaJ5VvacsP) | [Kupla](https://open.spotify.com/artist/7daSp9zXk1dmqNxwKFkL35) | [Imaginary](https://open.spotify.com/album/48hLO6DyflUOXESgg64zOA) | 2:28 |
-| 68 | [Da Vibe](https://open.spotify.com/track/2DAeyy5xuWaFGY41ci8gxW) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Da Vibe](https://open.spotify.com/album/6n8R1py8bnhgMz2hhssmDb) | 2:15 |
-| 69 | [Night Sky](https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Forest](https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn) | 1:59 |
+| 68 | [Night Sky](https://open.spotify.com/track/650q7YaIlNgEha9lB1bHY4) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif) | [Forest](https://open.spotify.com/album/0XQ4ErI49IzOQAh7UAIkVn) | 1:59 |
+| 69 | [Da Vibe](https://open.spotify.com/track/2DAeyy5xuWaFGY41ci8gxW) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Da Vibe](https://open.spotify.com/album/6n8R1py8bnhgMz2hhssmDb) | 2:15 |
 | 70 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 |
 | 71 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
 | 72 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
 | 73 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
 | 74 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
-| 75 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 |
+| 75 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
 
 Snapshot ID: `MTcxMDI1Mzk4OCwwMDAwMDAwMDE0NmNmOGNiOTNhYTJiZTJmNTQxYTNkODFjNjEwMWYw`

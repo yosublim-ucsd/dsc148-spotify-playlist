@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 205732,
+  "num_followers": 205857,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGI3MWIwOWIyMGEzMzJlZGEzOGEwNjYwYTAxMThmMmEw",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFmMmU1MGNlZjY4ODVhZDMwYzkzZGJjZDAwOGMzMzgw",
   "tracks": [
     {
       "added_at": null,
@@ -703,26 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 214708,
-      "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Self Medicated",
         "url": "https://open.spotify.com/album/5LtYMFZoC0elRSipbMV5sw"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 280647,
       "name": "Almost Home",
       "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 214708,
+      "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
     },
     {
       "added_at": null,

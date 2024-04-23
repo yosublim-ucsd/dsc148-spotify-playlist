@@ -1,12 +1,12 @@
 {
-  "description": "This Is Los Cafres. Los temas esenciales, todos en una lista.",
-  "num_followers": 155162,
+  "description": "This is Los Cafres. The essential tracks, all in one playlist.",
+  "num_followers": 155137,
   "original_name": "This Is Los Cafres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDZjZjUxZDU2YjNlMTA2NzNmYTY1MDRmMjMzYTRjZWE2",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGY2YzU2OThjNGJhNTVjN2FkOGFiOWNhNzU2NmY1MDUz",
   "tracks": [
     {
       "added_at": null,
@@ -215,22 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vos Sab\u00e9s",
-        "url": "https://open.spotify.com/album/3BB9jIVC6vWvx6wQaKvnEo"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 238291,
-      "name": "Vos sab\u00e9s",
-      "url": "https://open.spotify.com/track/6U4RZyZrUQj4w4umgs6Zpl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Paso Gigante",
         "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
@@ -271,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Una Perla en Mi Vida - Versi\u00f3n 25 A\u00f1os",
-      "url": "https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barrilete",
         "url": "https://open.spotify.com/album/68CATT5x7h27zl3KKnLM3g"
       },
@@ -303,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "C\u00f3mo Ver?",
-        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
       },
       "artists": [
         {
@@ -312,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 308522,
-      "name": "C\u00f3mo Ver?",
-      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
+      "duration_ms": 280040,
+      "name": "Una Perla en Mi Vida - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/3yoT4Lsk5dwmM95lAWTiWL"
     },
     {
       "added_at": null,
@@ -335,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+        "name": "C\u00f3mo Ver?",
+        "url": "https://open.spotify.com/album/0EKBRzjauMax0KqQAF8eZc"
       },
       "artists": [
         {
@@ -344,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 264400,
-      "name": "Mostrame Como Sos - Versi\u00f3n 25 A\u00f1os",
-      "url": "https://open.spotify.com/track/3XV0BKVTN6XXlANGdMcq0t"
+      "duration_ms": 308522,
+      "name": "C\u00f3mo Ver?",
+      "url": "https://open.spotify.com/track/0MNpiDfmdKHbe5l2w0gq2w"
     },
     {
       "added_at": null,
@@ -363,6 +331,38 @@
       "duration_ms": 247785,
       "name": "Flaca huella",
       "url": "https://open.spotify.com/track/4ZEkXz3SCHOqV76GQVEIQ1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 264400,
+      "name": "Mostrame Como Sos - Versi\u00f3n 25 A\u00f1os",
+      "url": "https://open.spotify.com/track/3XV0BKVTN6XXlANGdMcq0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nice Time (Bob Marley)",
+        "url": "https://open.spotify.com/album/4aQICjjARpQgUnGEf3FaFe"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 210050,
+      "name": "Nice Time",
+      "url": "https://open.spotify.com/track/6zTmBVtXNBKJvVsb2rJiHd"
     },
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Suena la Alarma",
-        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 247066,
-      "name": "Capit\u00e1n Pelusa",
-      "url": "https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx"
+      "duration_ms": 254037,
+      "name": "Mientras tanto",
+      "url": "https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2"
     },
     {
       "added_at": null,
@@ -543,8 +543,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+        "name": "Suena la Alarma",
+        "url": "https://open.spotify.com/album/3b6Shbr4R5szup0i6Yo6Dv"
       },
       "artists": [
         {
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 254037,
-      "name": "Mientras tanto",
-      "url": "https://open.spotify.com/track/42uzgH9HbRS3hTGyq0Ilr2"
+      "duration_ms": 247066,
+      "name": "Capit\u00e1n Pelusa",
+      "url": "https://open.spotify.com/track/7uLQUpJG2soXfZXq7FDNSx"
     },
     {
       "added_at": null,
@@ -751,8 +751,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Meta",
-        "url": "https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky"
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
       },
       "artists": [
         {
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 288386,
-      "name": "Tu Meta",
-      "url": "https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME"
+      "duration_ms": 258213,
+      "name": "Es la M\u00fasica - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE"
     },
     {
       "added_at": null,
@@ -783,8 +783,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+        "name": "Tu Meta",
+        "url": "https://open.spotify.com/album/38gfEqVNccvnpezMwBkWky"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
         }
       ],
-      "duration_ms": 258213,
-      "name": "Es la M\u00fasica - Versi\u00f3n 25 A\u00f1os [Live]",
-      "url": "https://open.spotify.com/track/0ZkjGddKhC7IxwLy4RQjcE"
+      "duration_ms": 288386,
+      "name": "Tu Meta",
+      "url": "https://open.spotify.com/track/1tDqJHfDFQzlkc4lsOsjME"
     },
     {
       "added_at": null,

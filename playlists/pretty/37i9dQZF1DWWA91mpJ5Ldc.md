@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,040 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,053 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 49 | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/track/4juBGpkEJrSbWUPUW0prlA) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/1hPfRy9zgpPB9KTlcB9dlM) | 4:31 |
 | 50 | [Seu Pensamento](https://open.spotify.com/track/5E9FgjQiyEckt2KUxb94vv) | [Adriana Calcanhotto](https://open.spotify.com/artist/72f733zGuCPEzCSLs9wOVi) | [Maré](https://open.spotify.com/album/5LAUGOnMeoWsGEVic4go6l) | 3:23 |
 | 51 | [Carinhoso](https://open.spotify.com/track/6VjeeVYWXVUn3bA8sfxQAE) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Carinhoso](https://open.spotify.com/album/0rJHcHo2NIgsVWRs4PcBpE) | 4:25 |
-| 52 | [Rose](https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Rose](https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT) | 3:06 |
-| 53 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
+| 52 | [Olha a Pipa](https://open.spotify.com/track/68pDys3d4esHKAntxrVFW5) | [Jorge Ben Jor](https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit) | [Alô Alô, Como Vai?](https://open.spotify.com/album/0FUD8ug6knwMxpVzAQRmEi) | 4:22 |
+| 53 | [Rose](https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf) | [Rose](https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT) | 3:06 |
 | 54 | [Quem Tem Um Amigo \(Tem Tudo\) \(Remix\) \(feat\. Zeca Pagodinho, Tokyo Ska Paradise Orchestra & Rashid\)](https://open.spotify.com/track/08WrWXRoXim0i1RkSVlpJ3) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Zeca Pagodinho](https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH) | [Quem Tem Um Amigo \(Tem Tudo\)](https://open.spotify.com/album/3yCfk5tZsvi3cWfLPzsqf3) | 4:06 |
 | 55 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 56 | [Paradise](https://open.spotify.com/track/2X4CPCeIpodiM1sPCYcXtL) | [DJ Center](https://open.spotify.com/artist/1h3GrJokWIvpbdKn6h4Owq), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY) | [Paradise](https://open.spotify.com/album/1NBcAphFK9qE9rAA6LV8t6) | 3:39 |

@@ -5502,6 +5502,24 @@
     {
       "album": {
         "name": "Solitude",
+        "url": "https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN"
+      },
+      "artists": [
+        {
+          "name": "Jerome Louis",
+          "url": "https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149883,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k"
+    },
+    {
+      "album": {
+        "name": "Solitude",
         "url": "https://open.spotify.com/album/21PRAMDAdTD9Q1GTWc89l6"
       },
       "artists": [

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 
 > sad beats\. deep vibes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,043 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,083 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 25 | [Broken](https://open.spotify.com/track/68Pr1RFCmybF7eK7m99a1n) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys) | [Broken](https://open.spotify.com/album/4ZBR5lkFXiVqI1oCehQZVO) | 3:18 |
 | 26 | [Beyond the Fire](https://open.spotify.com/track/45Q6hkvGtzW0VUybDnQ4n8) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1) | [Beyond the Fire](https://open.spotify.com/album/6lqBwXMLtXK7HGAaG4AnZ1) | 3:48 |
 | 27 | [Alive](https://open.spotify.com/track/5bFuHlXKw66Uu2cHKn5bf8) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [MKLA](https://open.spotify.com/artist/57Vnemieu10x71jR2UWc4o) | [Alive](https://open.spotify.com/album/424AkXXKYZsnsoiBrW64oh) | 3:17 |
-| 28 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
-| 29 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
+| 28 | [U&ME](https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh) | [Dezko](https://open.spotify.com/artist/4FAahCBNlbpgoAhVfuUHPD), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [U&ME](https://open.spotify.com/album/1ENNuqHU0L7gI0Cc8HaqOq) | 3:15 |
+| 29 | [Through the Fire](https://open.spotify.com/track/0pJT9XkLwjXnYBi84DTKeL) | [PALASTIC](https://open.spotify.com/artist/6OFZSmtxDquMkX2XZJSN6y), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Through the Fire](https://open.spotify.com/album/6KZHzEUYDXha4IetKQwIHB) | 2:29 |
 | 30 | [Original Sin](https://open.spotify.com/track/0fp6PDlnCkmdE0F3s0tfr6) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Original Sin](https://open.spotify.com/album/4DB6Xuvp4AlrNRNGRdhdEW) | 2:51 |
 | 31 | [Alone Together](https://open.spotify.com/track/7a7FMaC8Kaayk2xYYlzFHS) | [Astrality](https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ), [Georgia Blackwell](https://open.spotify.com/artist/0aZGNGBOglfjuaQ7sFG6Rq) | [Alone Together](https://open.spotify.com/album/4TXtU60U4NQ8zZXpZRiIZE) | 3:19 |
 | 32 | [Dive](https://open.spotify.com/track/2lRvisx71Qh4dI3nhHN7gf) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Rue More](https://open.spotify.com/artist/26bowrYXXcMtHgx8g7sPKa) | [Dive](https://open.spotify.com/album/6HM2HWm4h2WymgqHEtDNgU) | 3:17 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ApTpuYN5Gl.md) - [plain]
 | 34 | [Afterlife](https://open.spotify.com/track/3JuLu3PF1EyVBK2gI82Oxd) | [Nu Aspect](https://open.spotify.com/artist/4NhRml5ZOfNaYJAHUE0XwT), [JEWELS](https://open.spotify.com/artist/4C9H5Lat1NEZasl8MQHvtB), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w) | [Afterlife](https://open.spotify.com/album/4B1YBavH7Qp0X6mAS3L9xO) | 3:12 |
 | 35 | [GLY](https://open.spotify.com/track/6yGNvSOyCZvNOCtHs3hfrH) | [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [GLY](https://open.spotify.com/album/3G2e7Ruldtt69hWO9ArJDB) | 3:40 |
 | 36 | [Shadows](https://open.spotify.com/track/7aLYQgzGLy8duSSdTJa1ik) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 4:45 |
-| 37 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 |
-| 38 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
+| 37 | [All In My Head](https://open.spotify.com/track/0bTcsfvvELwAupgm0DxhjK) | [BKAYE](https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9), [Aria Ohlsson](https://open.spotify.com/artist/4hFc1FC8qA7XFF1XrTwlsJ) | [All In My Head](https://open.spotify.com/album/5XOshXQLbsax7zxKwMYS3F) | 2:33 |
+| 38 | [Goodbye](https://open.spotify.com/track/3vzBf1egEjRliBlnIJTW1T) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Goodbye](https://open.spotify.com/album/7zA83f7raZgu5ve9msmeLH) | 2:57 |
 | 39 | [Home](https://open.spotify.com/track/2FsUQgO3jopRHjW6rQ7jMc) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 3:33 |
 | 40 | [Howl](https://open.spotify.com/track/1PYUkeWwnAckQwOShEOyQy) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Howl](https://open.spotify.com/album/3N8N2qIQa4UhkjW8SrCcoQ) | 3:12 |
 | 41 | [NO SKIN](https://open.spotify.com/track/0ObzkSnoXbfcJxOjwG09u0) | [Mild Minds](https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW), [Frameworks](https://open.spotify.com/artist/2N5BJEXSPup1i4j2xiGZFP) | [NO SKIN](https://open.spotify.com/album/1nPrTtEBU85rcPfVwHUOyQ) | 4:38 |

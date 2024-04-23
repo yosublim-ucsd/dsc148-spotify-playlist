@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 
 > slow burners for late nights
 
-[Spotify](https://open.spotify.com/user/spotify) - 977,644 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 977,832 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 29 | [Humans](https://open.spotify.com/track/1F4Sia9UHvh5JuPV7bwgix) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Humans](https://open.spotify.com/album/3NBcENkuLCwmb0TSgbZvRi) | 4:11 |
 | 30 | [Summer Breeze](https://open.spotify.com/track/5XIXaFKCqXs1TKs1BB5tw4) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [On The Inside](https://open.spotify.com/album/0PW6NRnAfrWlngoemmoa8K) | 3:43 |
 | 31 | [Pixie Dust](https://open.spotify.com/track/3w8UEOStGNxoF7a9xuzY2j) | [Ethel](https://open.spotify.com/artist/71EdrAYsVrCyHOzDEqNOu0) | [Pixie Dust](https://open.spotify.com/album/6qzfWCqFbcf5wxMXQ7pKO8) | 3:03 |
-| 32 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
-| 33 | [High](https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:44 |
-| 34 | [La La La](https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz) | [Moon Soul](https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5) | [Moon Soul](https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O) | 1:06 |
+| 32 | [La La La](https://open.spotify.com/track/08eFlR1borTUC3cufSz5oz) | [Moon Soul](https://open.spotify.com/artist/48IWhckCqdKLfS7hFw20x5) | [Moon Soul](https://open.spotify.com/album/1GDqh9jIhxc7yoil0g5Z1O) | 1:06 |
+| 33 | [Sorrow](https://open.spotify.com/track/1WT2QEI4bRpjMX5sDmtbab) | [Konyikeh](https://open.spotify.com/artist/53EOtWH1wUGCS1NHYiy5OJ) | [Sorrow](https://open.spotify.com/album/6SYSK962vUBgT0SbFSBAhT) | 2:20 |
+| 34 | [High](https://open.spotify.com/track/3B9NEjn6V9kLsYmGc2RsSo) | [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [It's All a Bit Fuzzy](https://open.spotify.com/album/5Bt0eWwW0SAFvsgeH2SPJL) | 2:44 |
 | 35 | [By The Lake](https://open.spotify.com/track/08RxnD1RocmKqiGUiEQWkB) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM), [Okonski](https://open.spotify.com/artist/0UyhOIzQ8yAuLmVlEw1Lo5) | [Bewilderment](https://open.spotify.com/album/5uKC6k1EIwQ6mDSDKuQgBu) | 2:57 |
 | 36 | [Rouge](https://open.spotify.com/track/1EtuMOssvtZhPEWPB3VWzw) | [Bennett Coast](https://open.spotify.com/artist/5JKePhHHAtaMvBoWuULgm6) | [Where Are You Going?](https://open.spotify.com/album/71KLx5jfz3tTE83sKmeXYp) | 2:50 |
 | 37 | [This Is My Story](https://open.spotify.com/track/44PXZKO9CfbWrHosfe9j3a) | [Holy Hive](https://open.spotify.com/artist/1AcZuMRjIAdmksbzApOXnw) | [Big Crown Vaults Vol\. 3 \- Holy Hive](https://open.spotify.com/album/2WJTqjkxctm9tTax0zAq46) | 2:12 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 45 | [Moonlight](https://open.spotify.com/track/4firXMx3LKEH8a5hiJeL5D) | [CASTLEBEAT](https://open.spotify.com/artist/0k8UHfMqW86uvhmhHiYzj3) | [Moonlight](https://open.spotify.com/album/3a4JBDsQCybVTSAn3KDdrN) | 3:59 |
 | 46 | [I'll Never Leave](https://open.spotify.com/track/1NsUICf9ugoSbpyue5qcDh) | [Les Imprimés](https://open.spotify.com/artist/6pCq758EGVhfbiUIeuHTcf) | [Rêverie](https://open.spotify.com/album/0BjNFjGQwlPziWfwDzBUWO) | 3:17 |
 | 47 | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/track/2eROz9rnZZAX3xAcN2fhNP) | [Paul Dally](https://open.spotify.com/artist/6OQd6IInCegvnBJ3eWeokE), [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Moonlit Breakers \(feat\. Dijon\)](https://open.spotify.com/album/2wnS7uImW9YKItsZ0cyTxD) | 3:54 |
-| 48 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
-| 49 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
+| 48 | [Hammer](https://open.spotify.com/track/7KWBpMO8yZxhEbdGGB4lkZ) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [Shelter](https://open.spotify.com/album/44JtWis3WYHBL7YcmIPobL) | 5:38 |
+| 49 | [Favourite](https://open.spotify.com/track/7FrZRHCFpS6aCLrgmGEd2f) | [SOMOH](https://open.spotify.com/artist/6uwvfnsp74AHafIT1vxAG3) | [Favourite](https://open.spotify.com/album/1kbef2cypHylGieQcwSInH) | 2:30 |
 | 50 | [Evening News](https://open.spotify.com/track/1RyeT9Jw7lTA86mfwpBK8n) | [LAUNDRY DAY](https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk) | [HOMESICK](https://open.spotify.com/album/00lH27Je9yW7Y4dxZmmO6C) | 5:27 |
 | 51 | [Falling in Loves too Mean](https://open.spotify.com/track/2ECYzy9Xr3Cr3cRgcWXnga) | [Hether](https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3) | [Hether Who?](https://open.spotify.com/album/4U5EhQq161gJSUVFaEgrGA) | 2:56 |
 | 52 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 76 | [Iris and I](https://open.spotify.com/track/0keKUvQlMR21BPpZfJAMlW) | [Ralph Castelli](https://open.spotify.com/artist/4o16FybIZV7WPD7tOl7PUd) | [Iris and I](https://open.spotify.com/album/0OF4M8g6GOgUvMUX21ypu1) | 2:45 |
 | 77 | [hurt me enough](https://open.spotify.com/track/46VWMQxwA5cACMY28UlIPs) | [Nathan Archie](https://open.spotify.com/artist/4QTm9TRLBaMhCqQE96ETN6) | [hurt me enough](https://open.spotify.com/album/1lc8Zvp2mYEMTJyxG8rfb0) | 3:06 |
 | 78 | [Flower Girl](https://open.spotify.com/track/0Wv2uZY5ZU5rOxVjXo2ttu) | [Lionel Boy](https://open.spotify.com/artist/3UaINrj5Lmv7F7meQPuIGh) | [Lionel Boy](https://open.spotify.com/album/6GjZiLmCzYL2GnqlqS9759) | 3:44 |
-| 79 | [Like a Pie](https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [No Pressure at All](https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ) | 2:17 |
-| 80 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
+| 79 | [Hum](https://open.spotify.com/track/613GQvfjeHuxbXhH9Vxwpo) | [A Beacon School](https://open.spotify.com/artist/5Kbx8AkkM7259YdQh4rTdX) | [Cola](https://open.spotify.com/album/5BUwu0SK4LWMKiJ5y5TF36) | 1:38 |
+| 80 | [Like a Pie](https://open.spotify.com/track/66pGB2DpupvXqTrPbOzFHh) | [Michael Benedikt](https://open.spotify.com/artist/0wPKETcuVAcrtFRpBF29WL), [Ursina](https://open.spotify.com/artist/2uUqs3oz9AVll8Pc1rIghY) | [No Pressure at All](https://open.spotify.com/album/22ygyKdPyUIZXtlBeLceIZ) | 2:17 |
 | 81 | [Candy](https://open.spotify.com/track/15NYGHy9F4vQstNvznsTZw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:54 |
 | 82 | [Ohio](https://open.spotify.com/track/2yyM5THIv0BU4Jo1twbXaL) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 2:50 |
 | 83 | [Dance on the Rain](https://open.spotify.com/track/7LfjFGlaC9kktbEsfSQThH) | [Khazali](https://open.spotify.com/artist/4YrYwip7DToQ8tj6r7ZFVd) | [Dance on the Rain](https://open.spotify.com/album/0XbBAwdTn0ahj3prcY0HlQ) | 3:39 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdQvOLqzNHSW.md) - [plain]
 | 94 | [Show Me How \- Live at RBC Echo Beach](https://open.spotify.com/track/546DYMoIeq9bpz2ZQdDB6a) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Live at RBC Echo Beach](https://open.spotify.com/album/5r70krK838xAiHP8t0algB) | 3:33 |
 | 95 | [Shadowshow](https://open.spotify.com/track/5cuhNF549j5QMPhLOgMU6V) | [Jerkcurb](https://open.spotify.com/artist/2We7vKruiEweV984BdrxGA) | [Air Con Eden](https://open.spotify.com/album/486QPfqtxMumr35F75fkHU) | 5:42 |
 | 96 | [Love As A Weapon](https://open.spotify.com/track/2CwZN7Qv20PRenBsoyUp7v) | [Alan Chang](https://open.spotify.com/artist/0vYLvMZ5Io4mFGTsiIvo7g) | [Check Please](https://open.spotify.com/album/7573edXJCcJ5VlWhonMqXS) | 3:28 |
-| 97 | [Devil Disguised](https://open.spotify.com/track/1menSDf8OvWzHg9tCQ42tt) | [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Devil Disguised](https://open.spotify.com/album/3HFZuqUtP2WaCw91iSYNBl) | 4:27 |
+| 97 | [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 |
 | 98 | [Clementine](https://open.spotify.com/track/12LTyzzKTuGJ7877d9UvJp) | [Lou Val](https://open.spotify.com/artist/6u3PN3PCsWLGsw1OffKQ2F) | [Clementine](https://open.spotify.com/album/1cC3g85coOQwkIpbrbtuZm) | 3:02 |
-| 99 | [Tides](https://open.spotify.com/track/5PKry44nrSmbNmbFJ7gSD0) | [Sweeps](https://open.spotify.com/artist/1ZqVxe4j6KEwGA1WyJkw8t), [NK Music](https://open.spotify.com/artist/44L4NQt4H6Ru2aXHH3BLQi) | [単にRetroFuture](https://open.spotify.com/album/5Ypek9futUq1THrPjyQDkp) | 2:27 |
+| 99 | [Devil Disguised](https://open.spotify.com/track/1menSDf8OvWzHg9tCQ42tt) | [Torii Wolf](https://open.spotify.com/artist/3UQokJfoLRXZaSF111Vpyz) | [Devil Disguised](https://open.spotify.com/album/3HFZuqUtP2WaCw91iSYNBl) | 4:27 |
 | 100 | [What's Even Real Anymore](https://open.spotify.com/track/11JY5F9rxxqOXrtdx4KyVp) | [Old Man Canyon](https://open.spotify.com/artist/3lybdJ5QPH5NJolzMVKnLx) | [What's Even Real Anymore](https://open.spotify.com/album/0V2M8ekAk65ZSYK33TsfJL) | 4:09 |
 
 Snapshot ID: `MTcxMzM5MTY0NSwwMDAwMDAwMDMyMGMxMzY1NzRmYWY5Y2NhMjE5ZmM3NDQzYmRiMzVm`

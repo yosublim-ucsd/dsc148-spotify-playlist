@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 64633,
+  "num_followers": 64681,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDQ0Nzc5MmRlNzM2Njk5NWM1NjViNDQ1MjA3ODdjMTJi",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDE3ZGE1ZjI0MTllNmU1ZDRkNjk4ODI0OTliYzA4OGJm",
   "tracks": [
     {
       "added_at": null,
@@ -391,18 +391,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
+        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
       "artists": [
         {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+        },
+        {
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+        },
+        {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 208478,
-      "name": "SIGNED, SOBER YOU",
-      "url": "https://open.spotify.com/track/3hdh8HHhZyhO5oqDjjKVAn"
+      "duration_ms": 170112,
+      "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
+      "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
     },
     {
       "added_at": null,
@@ -439,34 +455,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 3: DIFFTAPE",
-        "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
       },
       "artists": [
         {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
-        },
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        },
-        {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
         }
       ],
-      "duration_ms": 170112,
-      "name": "Third Rock From The Sun (feat. Brooks & Dunn)",
-      "url": "https://open.spotify.com/track/1tJqLiSIjsVcvtmMGtCmXA"
+      "duration_ms": 208478,
+      "name": "SIGNED, SOBER YOU",
+      "url": "https://open.spotify.com/track/3hdh8HHhZyhO5oqDjjKVAn"
     },
     {
       "added_at": null,
@@ -515,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHERE TO FIND ME",
-        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 161159,
-      "name": "ALL SHE LEFT WAS ME",
-      "url": "https://open.spotify.com/track/0XCHPIlrVWgev8mcly9s0r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Stack of Records",
         "url": "https://open.spotify.com/album/7AzZB0UHZtWu7Ya8yQN3iW"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 183403,
       "name": "In Love With My Problems (feat. Jon Pardi)",
       "url": "https://open.spotify.com/track/4JzBPOh3OALX4vneDcPzOL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHERE TO FIND ME",
+        "url": "https://open.spotify.com/album/1ODlC6LpJ2Pw0MDawMtEsB"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 161159,
+      "name": "ALL SHE LEFT WAS ME",
+      "url": "https://open.spotify.com/track/0XCHPIlrVWgev8mcly9s0r"
     },
     {
       "added_at": null,
@@ -915,6 +915,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
+      },
+      "artists": [
+        {
+          "name": "Dallas Smith",
+          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "Some Things Never Change (feat. HARDY)",
+      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HIXTAPE: Vol. 2",
         "url": "https://open.spotify.com/album/7jocQ72CXWOXecaZwWAwGR"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 197314,
       "name": "To Hank (feat. HARDY, Brantley Gilbert & Colt Ford)",
       "url": "https://open.spotify.com/track/6F8QHX4aAyXKLOrJLICAWJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/28Z6uMV0Hyv5NjRg1w7EkE"
-      },
-      "artists": [
-        {
-          "name": "Dallas Smith",
-          "url": "https://open.spotify.com/artist/2HgKf6VcQtGmAKpNXidtiC"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "Some Things Never Change (feat. HARDY)",
-      "url": "https://open.spotify.com/track/7aqYYifyPQmuwWo7g4XWkR"
     },
     {
       "added_at": null,

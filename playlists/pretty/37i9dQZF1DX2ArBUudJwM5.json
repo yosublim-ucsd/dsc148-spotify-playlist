@@ -1,6 +1,6 @@
 {
   "description": "Mujeres a todo volumen. \nCo-curada por Lara91k.",
-  "num_followers": 40305,
+  "num_followers": 40304,
   "original_name": "EQUAL Argentina",
   "owner": {
     "name": "Spotify",
@@ -1295,26 +1295,6 @@
     {
       "added_at": "2024-04-05 17:40:20",
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1"
-      },
-      "artists": [
-        {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        },
-        {
-          "name": "Zyntax",
-          "url": "https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO"
-        }
-      ],
-      "duration_ms": 161513,
-      "name": "CRASH",
-      "url": "https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu"
-    },
-    {
-      "added_at": "2024-04-05 17:40:20",
-      "album": {
         "name": "Camino Dorado",
         "url": "https://open.spotify.com/album/1jESRLrDw77dVGvIVVeKQl"
       },
@@ -1347,6 +1327,26 @@
       "duration_ms": 173124,
       "name": "tribu urbana",
       "url": "https://open.spotify.com/track/2Ch6Q8JCBEguf4HCOpfCBj"
+    },
+    {
+      "added_at": "2024-04-05 17:40:20",
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/1cAWKfLaoca8sSAiY0bbd1"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "Zyntax",
+          "url": "https://open.spotify.com/artist/76KyZ9BBbydGTJkKJz7xdO"
+        }
+      ],
+      "duration_ms": 161513,
+      "name": "CRASH",
+      "url": "https://open.spotify.com/track/56AfMR14hEbvNxPkzkr4Lu"
     },
     {
       "added_at": "2024-04-05 17:40:20",

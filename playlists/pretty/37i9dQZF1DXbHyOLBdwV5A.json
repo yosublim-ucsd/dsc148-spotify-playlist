@@ -1,6 +1,6 @@
 {
   "description": "A palavra do Senhor pra voc\u00ea dan\u00e7ar.",
-  "num_followers": 120952,
+  "num_followers": 120881,
   "original_name": "Balada Gospel",
   "owner": {
     "name": "Spotify",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
-      },
-      "artists": [
-        {
-          "name": "Tomatti",
-          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
-        }
-      ],
-      "duration_ms": 164750,
-      "name": "Encontrar",
-      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
-    },
-    {
-      "added_at": "2024-01-05 13:32:37",
-      "album": {
         "name": "A Sertaneja de Jesus",
         "url": "https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg"
       },
@@ -1231,22 +1215,18 @@
     {
       "added_at": "2024-01-05 13:32:37",
       "album": {
-        "name": "Ele Voltar\u00e1",
-        "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc"
       },
       "artists": [
         {
-          "name": "Irm\u00e3 Ana Paula, CMES",
-          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
-        },
-        {
-          "name": "Mission\u00e1rio Shalom",
-          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+          "name": "Tomatti",
+          "url": "https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR"
         }
       ],
-      "duration_ms": 269958,
-      "name": "Ele Voltar\u00e1",
-      "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
+      "duration_ms": 164750,
+      "name": "Encontrar",
+      "url": "https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX"
     },
     {
       "added_at": "2024-01-05 13:32:37",
@@ -1267,6 +1247,26 @@
       "duration_ms": 205714,
       "name": "Dono da Minha Vida - Remix",
       "url": "https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP"
+    },
+    {
+      "added_at": "2024-01-05 13:32:37",
+      "album": {
+        "name": "Ele Voltar\u00e1",
+        "url": "https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ"
+      },
+      "artists": [
+        {
+          "name": "Irm\u00e3 Ana Paula, CMES",
+          "url": "https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv"
+        },
+        {
+          "name": "Mission\u00e1rio Shalom",
+          "url": "https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO"
+        }
+      ],
+      "duration_ms": 269958,
+      "name": "Ele Voltar\u00e1",
+      "url": "https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl"
     },
     {
       "added_at": "2024-01-05 13:32:37",

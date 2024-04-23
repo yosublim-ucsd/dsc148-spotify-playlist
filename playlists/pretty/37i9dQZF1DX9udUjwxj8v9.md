@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 
 > minha carne é de carnaval, meu coração é igual
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,259 likes - 50 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,199 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 7 | [Vou Festejar](https://open.spotify.com/track/54JLlb23AnzXErLRSNVIUn) | [Beth Carvalho](https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3) | [De Pé No Chão](https://open.spotify.com/album/2QxzAhXKjoUuiVO2sqMjP6) | 3:09 |
 | 8 | [Eu Quero É Botar Meu Bloco Na Rua](https://open.spotify.com/track/6yEBV6MlSODqJPXK6BilZo) | [Sérgio Sampaio](https://open.spotify.com/artist/0ttwBh6o5To3XujSD4x3uA) | [Eu Quero É Botar Meu Bloco Na Rua](https://open.spotify.com/album/221cRlERrYynaEGITG5LhE) | 4:40 |
 | 9 | [O Canto da Cidade](https://open.spotify.com/track/55ZjdmU2X8iClV61wAdHX6) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [O Canto da Cidade](https://open.spotify.com/album/6RVTNpx6xpxRIXEVSrI3hl) | 3:24 |
-| 10 | [Me Abraça](https://open.spotify.com/track/63lNKw8FiWJG5xsXYeMaY4) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Hora H](https://open.spotify.com/album/5ReSNT2PPdG3fNI8rl8852) | 4:10 |
-| 11 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
+| 10 | [Eu também quero beijar](https://open.spotify.com/track/52GKEkUJJUAPcYE8S0rZJV) | [Pepeu Gomes](https://open.spotify.com/artist/3XLeGN8GPEzQarxiDoQURu) | [Geração Pop](https://open.spotify.com/album/1SBKxrKIIgGyYMl43ffjnU) | 4:04 |
+| 11 | [Me Abraça](https://open.spotify.com/track/63lNKw8FiWJG5xsXYeMaY4) | [Banda Eva](https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ) | [Hora H](https://open.spotify.com/album/5ReSNT2PPdG3fNI8rl8852) | 4:10 |
 | 12 | [Vem meu amor](https://open.spotify.com/track/6Vi3zrYtd2n53YUiYLTnNC) | [Olodum](https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw) | [A Música do Olodum](https://open.spotify.com/album/7lFxuWjTe0JxXka9tjzGXm) | 2:36 |
 | 13 | [Vai Sacudir, Vai Abalar](https://open.spotify.com/track/2J0nljHgO5EfqN4tW7rftk) | [Cheiro de Amor](https://open.spotify.com/artist/2elJHGuwL43ahofvuD6KGs) | [É Demais Meu Rei!!!](https://open.spotify.com/album/4vkiwrvTcZ3XqVkhOdjV4t) | 4:06 |
 | 14 | [Swing de Campo Grande](https://open.spotify.com/track/5V0HmhGqwjoDq0cHlI05GS) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 3:09 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9udUjwxj8v9.md) - [plain]
 | 47 | [Pedra De Responsa](https://open.spotify.com/track/6nNfJTbmDbFFEsc8yxBqxV) | [Chico César](https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH) | [Cuscuz Clã](https://open.spotify.com/album/5wPTwkTaWBJWnOGhhcPNAd) | 3:55 |
 | 48 | [Nobre Vagabundo](https://open.spotify.com/track/2LUSX1OqewkHC3oCdxSZAF) | [Daniela Mercury](https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg) | [20 Grandes Êxitos](https://open.spotify.com/album/0cbKh9vBDagnsAqgeS559R) | 3:53 |
 | 49 | [Atrás Do Trio Elétrico](https://open.spotify.com/track/2tGDLtinIaepvrlICaDciX) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Muitos Carnavais](https://open.spotify.com/album/5tIE9wiVkcxCioMX5YhsSv) | 2:42 |
-| 50 | [O Carnaval Quem É Que Faz?](https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lucas Santtana](https://open.spotify.com/artist/67muZL7DIwZwLnH9BFfI5Z) | [BaianaSystem](https://open.spotify.com/album/1oAU4OkP63pBrWTvLPGlRS) | 4:23 |
+| 50 | [Caio No Suingue](https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn), [Pedro Luis E A Parede](https://open.spotify.com/artist/0gr5W0V12A1QsoG9lRdfQT) | [Vagabundo Ao Vivo](https://open.spotify.com/album/3n95npT8f24QSsH7KL4KVU) | 4:49 |
 
 Snapshot ID: `MTY4NjkyMDE1NCwwMDAwMDAwMDNlYjZjYzg0ODYzZjhjMTE5ZjZhMGQ3YzUyNjFhMDkw`

@@ -1,12 +1,12 @@
 {
-  "description": "This is Bob Dylan. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 512938,
+  "description": "This is Bob Dylan. The essential tracks, all in one playlist.",
+  "num_followers": 512928,
   "original_name": "This Is Bob Dylan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDYzNGRlZTFmZWY4OTdlNjc3MzU0NDI4OTQ0NDcwOTg2",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGMzOTBkZjgxN2RhY2M4MTU0NTEzMzdhYjhlZTQyY2Ji",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Freewheelin' Bob Dylan",
+        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Don't Think Twice, It's All Right",
+      "url": "https://open.spotify.com/track/2WOjLF83vqjit2Zh4B69V3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Times They Are A-Changin'",
         "url": "https://open.spotify.com/album/7DZeLXvr9eTVpyI1OlqtcS"
       },
@@ -91,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 330533,
-      "name": "Mr. Tambourine Man",
-      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nashville Skyline",
         "url": "https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN"
       },
@@ -123,6 +123,22 @@
       "duration_ms": 220400,
       "name": "Girl from the North Country",
       "url": "https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 330533,
+      "name": "Mr. Tambourine Man",
+      "url": "https://open.spotify.com/track/3RkQ3UwOyPqpIiIvGVewuU"
     },
     {
       "added_at": null,
@@ -159,22 +175,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 141293,
-      "name": "Subterranean Homesick Blues",
-      "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
@@ -187,6 +187,22 @@
       "duration_ms": 185200,
       "name": "I Want You",
       "url": "https://open.spotify.com/track/7tJQ4Ekp2vN3NlI3vJJW3v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bringing It All Back Home",
+        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 141293,
+      "name": "Subterranean Homesick Blues",
+      "url": "https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg"
     },
     {
       "added_at": null,
@@ -455,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bob Dylan",
-        "url": "https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Song to Woody",
-      "url": "https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blonde On Blonde",
         "url": "https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 290466,
       "name": "Just Like a Woman",
       "url": "https://open.spotify.com/track/37Dl7jQMmt0gUnzTKqnjkN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blood On The Tracks",
-        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 258973,
-      "name": "Meet Me in the Morning",
-      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
     },
     {
       "added_at": null,
@@ -523,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Blood On The Tracks",
+        "url": "https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 258973,
+      "name": "Meet Me in the Morning",
+      "url": "https://open.spotify.com/track/53ygARQf1f30Z0EmXPHWGT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Freewheelin' Bob Dylan",
         "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
       },
@@ -535,22 +535,6 @@
       "duration_ms": 412200,
       "name": "A Hard Rain's A-Gonna Fall",
       "url": "https://open.spotify.com/track/7ny2ATvjtKszCpLpfsGnVQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
-        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 180269,
-      "name": "Man of Constant Sorrow",
-      "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
     },
     {
       "added_at": null,
@@ -571,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Side Tracks",
-        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 307800,
-      "name": "Things Have Changed - Single Version",
-      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Freewheelin' Bob Dylan",
-        "url": "https://open.spotify.com/album/0o1uFxZ1VTviqvNaYkTJek"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 107226,
-      "name": "Oxford Town",
-      "url": "https://open.spotify.com/track/7Ay1lHxhuM33NoXKsS0iom"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Street-Legal",
         "url": "https://open.spotify.com/album/0bd6oCsp5JoJ5erpMzHu1U"
       },
@@ -619,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Another Side Of Bob Dylan",
-        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
+        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
+        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
       },
       "artists": [
         {
@@ -628,9 +580,25 @@
           "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
         }
       ],
-      "duration_ms": 214440,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
+      "duration_ms": 180269,
+      "name": "Man of Constant Sorrow",
+      "url": "https://open.spotify.com/track/1TEO2fqo8WfS6P1XoAnKUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Side Tracks",
+        "url": "https://open.spotify.com/album/6hQZ17lLlz3upoUPX9nBDY"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 307800,
+      "name": "Things Have Changed - Single Version",
+      "url": "https://open.spotify.com/track/5KOi77ameCimkAdw0DMNoy"
     },
     {
       "added_at": null,
@@ -647,6 +615,22 @@
       "duration_ms": 157933,
       "name": "One Too Many Mornings",
       "url": "https://open.spotify.com/track/5ATUmaVJWUTTagmPwQLck3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Another Side Of Bob Dylan",
+        "url": "https://open.spotify.com/album/3q1W9iVdyuwVOGKn696Oh0"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/5nbNWAfT1S6V1vqj3snHxS"
     },
     {
       "added_at": null,
@@ -679,22 +663,6 @@
       "duration_ms": 273200,
       "name": "Man in the Long Black Coat",
       "url": "https://open.spotify.com/track/5NtOAfnwkKo7eAGq7Uap3J"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bringing It All Back Home",
-        "url": "https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 171106,
-      "name": "Love Minus Zero",
-      "url": "https://open.spotify.com/track/2FDTgrYDUdQKyGmtynEk90"
     },
     {
       "added_at": null,
@@ -779,22 +747,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
-        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
-      },
-      "artists": [
-        {
-          "name": "Bob Dylan",
-          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
-        }
-      ],
-      "duration_ms": 153253,
-      "name": "Baby, Let Me Follow You Down",
-      "url": "https://open.spotify.com/track/71dBsBj7V7VvjMMKFV4Ze0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -807,6 +759,22 @@
       "duration_ms": 356706,
       "name": "Ballad of a Thin Man",
       "url": "https://open.spotify.com/track/0f5N14nB8xi0p3o4BlVvbx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
+        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 153253,
+      "name": "Baby, Let Me Follow You Down",
+      "url": "https://open.spotify.com/track/71dBsBj7V7VvjMMKFV4Ze0"
     },
     {
       "added_at": null,
@@ -839,6 +807,38 @@
       "duration_ms": 161466,
       "name": "Corrina, Corrina",
       "url": "https://open.spotify.com/track/1L4RtuEiAiwdX5taX4meLI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rough and Rowdy Ways",
+        "url": "https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 253853,
+      "name": "Goodbye Jimmy Reed",
+      "url": "https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Music Legends Bob Dylan : The Poet's Folk Hits",
+        "url": "https://open.spotify.com/album/0Tua8H6QtqZjJjhX1P8Wwc"
+      },
+      "artists": [
+        {
+          "name": "Bob Dylan",
+          "url": "https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX"
+        }
+      ],
+      "duration_ms": 94183,
+      "name": "You're No Good",
+      "url": "https://open.spotify.com/track/2db6YvapwrwAqOXSApL6lg"
     }
   ],
   "unique_name": "This Is Bob Dylan",

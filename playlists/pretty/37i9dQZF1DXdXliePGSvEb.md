@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favorite electronic songs from around the world this year\. Cover: Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,838 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,861 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 12 | [Big Hammer](https://open.spotify.com/track/3tdxmSKTmtMLlohrIxZ2EG) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Big Hammer](https://open.spotify.com/album/7yT5OWUrzLWQQ5LTgGpZ36) | 4:00 |
 | 13 | [More Love \- Rampa &ME Remix](https://open.spotify.com/track/70ofkwt6aIb4bPQ51OQMQO) | [Moderat](https://open.spotify.com/artist/2exkZbmNqMKnT8LRWuxWgy), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z) | [More Love \(Rampa &ME Remix\)](https://open.spotify.com/album/4ml88dBgRFbbucUERI1BYC) | 6:11 |
 | 14 | [One Last Call](https://open.spotify.com/track/30nygP64gBZqbLoWC72vNq) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Felix Raphael](https://open.spotify.com/artist/4nknUpUYu4baxWwkunq81Z) | [One Last Call](https://open.spotify.com/album/4P5fu99YdeoP7K29RyOvyy) | 4:16 |
-| 15 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
-| 16 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 |
+| 15 | [Concorde](https://open.spotify.com/track/1QWj9NYh8ZcSugtyBhSIea) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Concorde](https://open.spotify.com/album/5tDbwaajccd1lTumbnB0kK) | 3:56 |
+| 16 | [Carry Me Higher \- 7 Inch Version](https://open.spotify.com/track/7tm4pF2JvKc4GGKSagRuS9) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Carry Me Higher](https://open.spotify.com/album/21q5qrGNBSI1ihI0TT5348) | 4:30 |
 | 17 | [Feel It](https://open.spotify.com/track/6iKLdREEci9SyzXl9JNUVk) | [Amelie Lens](https://open.spotify.com/artist/5Ho1vKl1Uz8bJlk4vbmvmf) | [Feel It](https://open.spotify.com/album/1jexRZSS5u38DkCdzcHvTz) | 4:18 |
 | 18 | [JE N'EXISTE PAS](https://open.spotify.com/track/25xqUhCDGyJejMANoigvrI) | [Brutalismus 3000](https://open.spotify.com/artist/6LtXxYMIiKSy2EGHnz1f5j) | [ULTRAKUNST](https://open.spotify.com/album/1OegF0mIizsl36EVw1y1SW) | 4:40 |
 | 19 | [Blackoak](https://open.spotify.com/track/1iJL69P6zSF5lGf961kC18) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg) | [Blackoak](https://open.spotify.com/album/2ulcLtfovYkJyt8frpO6R9) | 4:48 |
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 39 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 |
 | 40 | [The Procedure \- Radio Edit](https://open.spotify.com/track/3dqRuioP7B3hXwKdcUEPrg) | [DANNY AVILA](https://open.spotify.com/artist/1Xv1qZHJ1hnRlWHRTZ3uci), [Heerhorst](https://open.spotify.com/artist/4C3vrP3HDWOph3a6XSAVWR) | [The Procedure](https://open.spotify.com/album/5tnVe6nQE4skLdV919H5qQ) | 3:13 |
 | 41 | [Euphoria](https://open.spotify.com/track/6uLwfXYTPZDPw3wht0HgRi) | [Pretty Pink](https://open.spotify.com/artist/78GHS9zWXcj8tBke222g5N) | [Born Digital](https://open.spotify.com/album/7xrjXYPCUgsNAGronmovK2) | 3:21 |
-| 42 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
-| 43 | [El Tiempo](https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Combinations EP](https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9) | 6:11 |
+| 42 | [El Tiempo](https://open.spotify.com/track/3gqn5ShJpp0VTnPNzpdfJi) | [Grigoré](https://open.spotify.com/artist/2RemyvxrdxNsB7ycf3rJHX) | [Combinations EP](https://open.spotify.com/album/7qrdnd3NoxZwClPen84lC9) | 6:11 |
+| 43 | [Stream State](https://open.spotify.com/track/2rL6RiorPm6fWSEFUNX8cF) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Fluid Meditations](https://open.spotify.com/album/3Tb3OLF2gtWesqXDqFvEEM) | 6:04 |
 | 44 | [Blackbox Life Recorder 21f](https://open.spotify.com/track/55q5FJy2MagUgplPVB0tjD) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Blackbox Life Recorder 21f](https://open.spotify.com/album/3LIBbRYQgXY8ARKlSl6TJX) | 4:26 |
 | 45 | [Three Drums](https://open.spotify.com/track/2FRIWWs5xxPoQrk5pMmsQN) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Three Drums](https://open.spotify.com/album/6zPGFGI2VVFGbiGTlsI237) | 8:15 |
 | 46 | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/track/3tZKrJ0EznJE4e5cn41Dfz) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Sunrise Bang Ur Head Against Tha Wall](https://open.spotify.com/album/4NDtzV15CP0IYfSgv4bAOK) | 2:30 |

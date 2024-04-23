@@ -1,6 +1,6 @@
 {
   "description": "Because we all deserve great pop love songs in one playlist.",
-  "num_followers": 3501283,
+  "num_followers": 3497693,
   "original_name": "Love Pop",
   "owner": {
     "name": "Spotify",
@@ -549,22 +549,6 @@
       "url": "https://open.spotify.com/track/7ce20yLkzuXXLUhzIDoZih"
     },
     {
-      "added_at": "2024-03-18 14:09:49",
-      "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
-    },
-    {
       "added_at": "2022-12-08 16:33:34",
       "album": {
         "name": "I GUESS I'M IN LOVE",
@@ -579,6 +563,22 @@
       "duration_ms": 204093,
       "name": "I GUESS I'M IN LOVE",
       "url": "https://open.spotify.com/track/1is8gU4RVcN4J8xItxWoOY"
+    },
+    {
+      "added_at": "2024-03-18 14:09:49",
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
     },
     {
       "added_at": "2022-12-08 16:33:34",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-12-08 16:33:34",
       "album": {
-        "name": "Imagine",
-        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        }
-      ],
-      "duration_ms": 164202,
-      "name": "imagine",
-      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
-    },
-    {
-      "added_at": "2022-12-08 16:33:34",
-      "album": {
         "name": "Can I Be Him (Acoustic Live Version)",
         "url": "https://open.spotify.com/album/2lc79WJoOQ3pJ0bDRbOdah"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 305160,
       "name": "Can I Be Him - Acoustic Live Version",
       "url": "https://open.spotify.com/track/0iVAPfPW2NkfxCqu0a1UBl"
+    },
+    {
+      "added_at": "2022-12-08 16:33:34",
+      "album": {
+        "name": "Imagine",
+        "url": "https://open.spotify.com/album/5WV2igw6AWfvAZwfNm83oP"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "duration_ms": 164202,
+      "name": "imagine",
+      "url": "https://open.spotify.com/track/716eVtciaJCtTcaknS3QXr"
     },
     {
       "added_at": "2022-12-08 16:33:34",

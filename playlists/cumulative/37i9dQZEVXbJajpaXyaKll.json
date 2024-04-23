@@ -3595,6 +3595,28 @@
     },
     {
       "album": {
+        "name": "MUNICIONES GUARACHA",
+        "url": "https://open.spotify.com/album/2mhbj8Z3rf79ZQWZo0SPpv"
+      },
+      "artists": [
+        {
+          "name": "DJ CHINO MAXI ROA",
+          "url": "https://open.spotify.com/artist/47dsPhRhk9XBE369sTOdib"
+        },
+        {
+          "name": "Dj Luciano Troncoso",
+          "url": "https://open.spotify.com/artist/14fjAuMMzVyFGJ86kfZcPN"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130317,
+      "name": "MUNICIONES GUARACHA",
+      "url": "https://open.spotify.com/track/3r9NWQ0kkrxA3i6yE8PC87"
+    },
+    {
+      "album": {
         "name": "Municiones Guarachetamix Blaster Dj",
         "url": "https://open.spotify.com/album/2nzIp9cVhwXGnMuapTxzqV"
       },
@@ -4390,7 +4412,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 262179,
       "name": "Que Fluya",
       "url": "https://open.spotify.com/track/2edb2SIakC6HADUz6s34hS"

@@ -1,6 +1,6 @@
 {
   "description": "s\u00f3 faixa rosa, tem disposi\u00e7\u00e3o? \ud83c\udf80 Foto: Amabbi",
-  "num_followers": 49906,
+  "num_followers": 49924,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "Atlanta - Spotify Singles",
-        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
-      },
-      "artists": [
-        {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
-        }
-      ],
-      "duration_ms": 121031,
-      "name": "Atlanta - Spotify Singles",
-      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
         "name": "Combate",
         "url": "https://open.spotify.com/album/4UNuBZQoxlSjx2bCI8kqfC"
       },
@@ -147,6 +131,22 @@
       "duration_ms": 190850,
       "name": "Combate",
       "url": "https://open.spotify.com/track/2LkRPTwqJ6PqoOKswBQkdp"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
+        "name": "Atlanta - Spotify Singles",
+        "url": "https://open.spotify.com/album/24WemjADLysPg2aJ7W2lkY"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        }
+      ],
+      "duration_ms": 121031,
+      "name": "Atlanta - Spotify Singles",
+      "url": "https://open.spotify.com/track/40gXrlLYOAK6O4QVunjRRp"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -291,6 +291,26 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
+        "name": "Primeiro de Maio (Gostosas Inteligentes)",
+        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "duration_ms": 130369,
+      "name": "Primeiro de Maio (Gostosas Inteligentes)",
+      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
         "name": "Negona",
         "url": "https://open.spotify.com/album/42CJ1awbR9yaCm8cqTzdbP"
       },
@@ -307,30 +327,6 @@
       "duration_ms": 186950,
       "name": "Negona",
       "url": "https://open.spotify.com/track/7xiw1iCmpj2it0RG8GfPkv"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
-        "name": "Olhar HD",
-        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Ajaxx",
-          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        }
-      ],
-      "duration_ms": 167741,
-      "name": "OLHAR HD",
-      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -355,22 +351,26 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "Primeiro de Maio (Gostosas Inteligentes)",
-        "url": "https://open.spotify.com/album/3sPEyvePf2VVTs3QF0OZSt"
+        "name": "Olhar HD",
+        "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
         },
         {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+          "name": "Ajaxx",
+          "url": "https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
         }
       ],
-      "duration_ms": 130369,
-      "name": "Primeiro de Maio (Gostosas Inteligentes)",
-      "url": "https://open.spotify.com/track/2DaHDTiB8DhBDIM7csF7Ny"
+      "duration_ms": 167741,
+      "name": "OLHAR HD",
+      "url": "https://open.spotify.com/track/0MKn146xdKs9Gnwtkfl0fB"
     },
     {
       "added_at": "2024-04-19 03:01:00",
@@ -463,6 +463,26 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
+        "name": "TAURUS/ \u00daNICA",
+        "url": "https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3"
+      },
+      "artists": [
+        {
+          "name": "Duquesa",
+          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+        },
+        {
+          "name": "THS",
+          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+        }
+      ],
+      "duration_ms": 126226,
+      "name": "Taurus",
+      "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
         "name": "Hino Delas",
         "url": "https://open.spotify.com/album/7yZ4A2amuedBlNHRC9ESMd"
       },
@@ -487,30 +507,6 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "ELAS PINTAM",
-        "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
-      },
-      "artists": [
-        {
-          "name": "SHURY",
-          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "biggie diehl",
-          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
-        }
-      ],
-      "duration_ms": 194020,
-      "name": "ELAS PINTAM",
-      "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
         "name": "100 Mili",
         "url": "https://open.spotify.com/album/1BwTcopCPLmipd6iCOVXFi"
       },
@@ -531,22 +527,26 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "TAURUS/ \u00daNICA",
-        "url": "https://open.spotify.com/album/3y0Mjfqb8h1wLITswMNri3"
+        "name": "ELAS PINTAM",
+        "url": "https://open.spotify.com/album/7ehwNnbvptTziab8QZkXV7"
       },
       "artists": [
         {
-          "name": "Duquesa",
-          "url": "https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx"
+          "name": "SHURY",
+          "url": "https://open.spotify.com/artist/7luJJRhYeoWYyJ6GALZvjM"
         },
         {
-          "name": "THS",
-          "url": "https://open.spotify.com/artist/3mI838insJsm1g7P3EsQW4"
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
+        },
+        {
+          "name": "biggie diehl",
+          "url": "https://open.spotify.com/artist/4EEMmF8KqAKox5uogK8uhy"
         }
       ],
-      "duration_ms": 126226,
-      "name": "Taurus",
-      "url": "https://open.spotify.com/track/6QEXxXD0UWYqRtD0fH4QmX"
+      "duration_ms": 194020,
+      "name": "ELAS PINTAM",
+      "url": "https://open.spotify.com/track/3HzDmhzi7LNVSb0VjTi0il"
     },
     {
       "added_at": "2024-04-19 03:01:00",

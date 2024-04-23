@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: Hot Mulligan
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,268 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,189 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 51 | [Hot Mess](https://open.spotify.com/track/0BI3OuWWFMx0pboFt0YGcC) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Hot Mess](https://open.spotify.com/album/7ClrTYF8GSAZUTOppk25dm) | 2:42 |
 | 52 | [You're My Medicine](https://open.spotify.com/track/1gXk7JzeRTPJn9ugLErbNb) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [You're My Medicine](https://open.spotify.com/album/3DuCbWlWRyCwqctRcICOiZ) | 3:12 |
 | 53 | [Real Life](https://open.spotify.com/track/3WcZqa5zOjq3FnEBZCriMw) | [Story Of The Year](https://open.spotify.com/artist/0KDuKk6YdEu3hR56HtXmxt) | [Real Life](https://open.spotify.com/album/52NM880fYreKPu2PJDFR0x) | 2:44 |
-| 54 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 |
-| 55 | [HORROR SHOW](https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [HORROR SHOW](https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW) | 3:15 |
-| 56 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
-| 57 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
+| 54 | [When We Were Young](https://open.spotify.com/track/3bYUFS0H27cU8A7DJW0AOY) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl), [Derek Sanders](https://open.spotify.com/artist/5vfh5OHbhWef7NigPS6CCE) | [When We Were Young](https://open.spotify.com/album/5tpdUkRLvsynbMO7dl0O5R) | 3:11 |
+| 55 | [Up In Smoke](https://open.spotify.com/track/3xmmbIkpcPanFEMBYlPvsf) | [Arm's Length](https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD) | [Up In Smoke](https://open.spotify.com/album/72mtL1x8ai5V2A6MqgJ86o) | 2:54 |
+| 56 | [is this what you wanted](https://open.spotify.com/track/33WUbp3DX0VQJCLspApITe) | [Scro](https://open.spotify.com/artist/2TFI4R2CXBQ0RyfHhF7oQW) | [is this what you wanted](https://open.spotify.com/album/5POEjUknLCeuqnRdLg7ewA) | 3:45 |
+| 57 | [HORROR SHOW](https://open.spotify.com/track/1r4ZfCIM1soKE3oh7pPUQ1) | [Hot Milk](https://open.spotify.com/artist/1koutXdSFq2PHqtxSWj9tK) | [HORROR SHOW](https://open.spotify.com/album/2raloI8qFpP1GzU2Mb7hOW) | 3:15 |
 | 58 | [Dandelions](https://open.spotify.com/track/1wCfd9MNQ9qiHc4juuHvGA) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Dandelions](https://open.spotify.com/album/46MdVbI4lly7RJawzSxlJc) | 2:59 |
 | 59 | [Generational](https://open.spotify.com/track/2H7ReZ9ZqBqp7YoiYaGMew) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Generational](https://open.spotify.com/album/0KjcU59seFJaLu75xJJgBv) | 2:09 |
 | 60 | [Glimmer](https://open.spotify.com/track/7JTaDwKJ44levpruU6FZTP) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/6AvWDbrgKLZB5d5oJBVFw1) | 3:08 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 69 | [Life Goes On](https://open.spotify.com/track/2VKbnaPkDvOFB2TzfucuC3) | [408](https://open.spotify.com/artist/1m2wYIvVYvhEnvdaOJbIfT) | [Life Goes On](https://open.spotify.com/album/5TDePQoJS7am0pjcsP6DTr) | 3:27 |
 | 70 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
 | 71 | [Who You Used to Be](https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx) | [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [Space to Heal](https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y) | 3:17 |
-| 72 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 |
-| 73 | [Superglue](https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 3:24 |
-| 74 | [Petty Enemy](https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Petty Enemy](https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f) | 3:19 |
+| 72 | [Superglue](https://open.spotify.com/track/6shhkpASLVaTUs5Gnuf5mX) | [Teenage Joans](https://open.spotify.com/artist/6i78AQeGl4IGuGePiz3woE) | [The Rot That Grows Inside My Chest](https://open.spotify.com/album/6Y0Gh7nGWrVw1CfA4fDWIV) | 3:24 |
+| 73 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 |
+| 74 | [theme song](https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [flare guns in the living room](https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1) | 3:00 |
 | 75 | [RECKLESS](https://open.spotify.com/track/2iNb7p7WLZ4fJHZd3kbWst) | [LOU](https://open.spotify.com/artist/4tVzfQLYPxk5vGAgPQXmK4) | [RECKLESS](https://open.spotify.com/album/1tKiELuITXrxUVWA1bUzII) | 2:55 |
-| 76 | [theme song](https://open.spotify.com/track/4pKW3eDE5EonKFYboxagYB) | [BESTIES](https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj), [Headstrong](https://open.spotify.com/artist/1QUtz3pwcGiuwnVtLJ5JCF) | [flare guns in the living room](https://open.spotify.com/album/3vEfN8kVdAhbCSXdvuLgr1) | 3:00 |
+| 76 | [Petty Enemy](https://open.spotify.com/track/52H6QAbHUfJf2bMgRE6Ooa) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Petty Enemy](https://open.spotify.com/album/5uHsfC0uBHrCpGCTTH658f) | 3:19 |
 | 77 | [Cardinals](https://open.spotify.com/track/723vVxxNycnmucEWfpvarT) | [Telltale](https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0) | [Cardinals](https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW) | 3:11 |
 | 78 | [Slow Dance](https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV) | [Life After Youth](https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2) | [Slow Dance](https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc) | 3:32 |
 | 79 | [The Credits](https://open.spotify.com/track/5S9NNVIDcsnk9rQVaMW0dL) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ), [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ), [Magnolia Park](https://open.spotify.com/artist/7B76SsfzG0wWk1WEvGzCmY) | [Head in The Clouds](https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH) | 3:04 |

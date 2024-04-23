@@ -2,9 +2,9 @@
 
 ### [K\-Pop ON! \(온\)](https://open.spotify.com/playlist/37i9dQZF1DX9tPFwDMOaN1)
 
-> Turn on the movement with the latest and greatest in K\-Pop! Cover: RIIZE
+> Turn on the movement with the latest and greatest in K\-Pop! Cover: DOYOUNG
 
-464 songs - 1 day 0 hr 35 min
+465 songs - 1 day 0 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,7 +100,7 @@
 | [Cupid](https://open.spotify.com/track/5mg3VB3Qh7jcR5kAAC4DSV) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-03-31 | 2023-09-16 |
 | [DARARI](https://open.spotify.com/track/0dcnrLo8s1rhjm8euGjI4n) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER ONE](https://open.spotify.com/album/17l09k7ZDb4GYwmsIVGcRZ) | 3:40 | 2022-02-25 | 2022-10-01 |
 | [Darl+ing](https://open.spotify.com/track/6vo0dV9t7PCQZKsLFwVwZ5) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [Darl+ing](https://open.spotify.com/album/0Dl7e3uv3UrVDdZ6saplzH) | 2:56 | 2022-04-17 | 2022-08-04 |
-| [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-15 |  |
+| [DASH](https://open.spotify.com/track/2RoYgkPzUY0vY7lhUuyus1) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5CCxLQgcI7cVwmgFDlicbP) | 2:46 | 2024-01-15 | 2024-04-23 |
 | [Dear My Light](https://open.spotify.com/track/0UXLLeFAFbo5JbSR9C4STe) | [DAWN 던](https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F) | [Dear My Light](https://open.spotify.com/album/1HIwbRLI1l4U0HcfCZwo11) | 2:55 | 2023-04-21 | 2023-07-15 |
 | [Deja Vu](https://open.spotify.com/track/3zmrdOtnOogqLllz26WLZ3) | [ATEEZ](https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L) | [ZERO : FEVER Part.3](https://open.spotify.com/album/5ozaWoYQScjFzGODcJmy3G) | 3:16 | 2021-12-13 | 2022-02-04 |
 | [Deja Vu](https://open.spotify.com/track/3aAnwyBJY9OLNLqSgd4fZU) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 3: TOMORROW](https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj) | 2:51 | 2024-04-01 |  |
@@ -238,6 +238,7 @@
 | [Like Magic](https://open.spotify.com/track/1bN4ejW5IMmL4CRVG6Fxfk) | [J.Y\. Park](https://open.spotify.com/artist/1TTx0YcbKUtJIZY1HEnh9B), [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE), [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3), [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Like Magic](https://open.spotify.com/album/5bp8pvBXLoluC3mXfTccfm) | 2:44 | 2024-03-07 | 2024-04-19 |
 | [LIMBO!](https://open.spotify.com/track/0I9SiHgJ8DTwAIoJPLn81c) | [NATURE](https://open.spotify.com/artist/5WUom9mTTEewPdUmI4qnQi) | [THE 3rd MINI ALBUM NATURE WORLD : CODE W](https://open.spotify.com/album/60LRJDOb3EM7svCFxA07mt) | 3:16 | 2022-11-24 | 2023-02-16 |
 | [LIP GLOSS](https://open.spotify.com/track/5yREbqEnoqMRuIOQ60t6as) | [THE BOYZ](https://open.spotify.com/artist/0CmvFWTX9zmMNCUi6fHtAx) | [THE BOYZ 2ND ALBUM \[PHANTASY\] Pt.1 Christmas In August](https://open.spotify.com/album/6j0bF8s6Kptbr4y8tuIhOY) | 3:32 | 2023-08-16 | 2023-10-07 |
+| [Little Light](https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [YOUTH \- The 1st Album](https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj) | 3:44 | 2024-04-22 |  |
 | [LO$ER=LO♡ER](https://open.spotify.com/track/21aOLk12MksET8AsbU0SI6) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Chaos Chapter: FIGHT OR ESCAPE](https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5) | 3:19 | 2021-12-13 | 2022-04-21 |
 | [LOCO](https://open.spotify.com/track/56Yxkm62GtEpnPyG7TvwLY) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/4U7rGOkJgtxs27H9L93Xli) | 3:11 | 2022-07-18 | 2022-07-30 |
 | [LOCO](https://open.spotify.com/track/5b8FtevTVz8xVF6E208xeV) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [CRAZY IN LOVE](https://open.spotify.com/album/5W75ifcHJzBAfHezBMfhPI) | 3:11 | 2021-12-13 | 2022-07-29 |

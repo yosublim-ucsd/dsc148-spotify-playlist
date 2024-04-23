@@ -1,6 +1,6 @@
 {
   "description": "nothing but bangers to help you with the grind ",
-  "num_followers": 541088,
+  "num_followers": 541137,
   "original_name": "Homework motivation",
   "owner": {
     "name": "Spotify",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "reputation",
-        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 208186,
-      "name": "...Ready For It?",
-      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "Takin' It Back",
         "url": "https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 134256,
       "name": "Made You Look",
       "url": "https://open.spotify.com/track/0QHEIqNKsMoOY5urbzN48u"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "reputation",
+        "url": "https://open.spotify.com/album/6DEjYFkNZh67HP7R9PSZvv"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 208186,
+      "name": "...Ready For It?",
+      "url": "https://open.spotify.com/track/2yLa0QULdQr0qAIvVwN6B5"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "1989 (Taylor's Version)",
-        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 146436,
-      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
-      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "Where Are You Now",
         "url": "https://open.spotify.com/album/5YrOK7zze6egKg9a8WRcnD"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 148197,
       "name": "Where Are You Now",
       "url": "https://open.spotify.com/track/3uUuGVFu1V7jTQL60S1r8z"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "1989 (Taylor's Version)",
+        "url": "https://open.spotify.com/album/64LU4c1nfjz1t4VnGhagcg"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 146436,
+      "name": "Now That We Don't Talk (Taylor's Version) (From The Vault)",
+      "url": "https://open.spotify.com/track/5KD6AEm19QnMbfWpfoOHMl"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -983,26 +983,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "Remember",
-        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        }
-      ],
-      "duration_ms": 160766,
-      "name": "Remember",
-      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "Dancing In The Moonlight (feat. NEIMY)",
         "url": "https://open.spotify.com/album/577x4v0DO2oQcymLzdAyQ8"
       },
@@ -1019,6 +999,26 @@
       "duration_ms": 164009,
       "name": "Dancing In The Moonlight (feat. NEIMY)",
       "url": "https://open.spotify.com/track/4GSDkZt7GcmzBWmsMcpaVO"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "Remember",
+        "url": "https://open.spotify.com/album/6DHfD3rZapWFmEKX1FNNZF"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        }
+      ],
+      "duration_ms": 160766,
+      "name": "Remember",
+      "url": "https://open.spotify.com/track/4laAKIq9ZxBCwf99rauPYb"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
+        "name": "Empires On Fire",
+        "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
+      },
+      "artists": [
+        {
+          "name": "BANNERS",
+          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Someone To You",
+      "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
         "name": "Gloria",
         "url": "https://open.spotify.com/album/3Uq1jNGnD412ZvCb6j2DKV"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 229604,
       "name": "I'm Not Here To Make Friends",
       "url": "https://open.spotify.com/track/3i0FkJYlU4MFfYkjFHXXAM"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
-        "name": "Empires On Fire",
-        "url": "https://open.spotify.com/album/6ErxPYc0KcJgLzQnpMGsth"
-      },
-      "artists": [
-        {
-          "name": "BANNERS",
-          "url": "https://open.spotify.com/artist/4qWnlmXWuGv2TtuxtIWlJX"
-        }
-      ],
-      "duration_ms": 219800,
-      "name": "Someone To You",
-      "url": "https://open.spotify.com/track/14BH4qO7pgCmIe6mgLKOK3"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -1579,26 +1579,6 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 185113,
-      "name": "Alone (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
-    },
-    {
-      "added_at": "2024-03-29 15:23:22",
-      "album": {
         "name": "The Sound of Silence (CYRIL Remix)",
         "url": "https://open.spotify.com/album/2aj8dhy2wfAtzBwh0bYuQc"
       },
@@ -1615,6 +1595,26 @@
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/32aeRhnsILUPSbPiH5x62t"
+    },
+    {
+      "added_at": "2024-03-29 15:23:22",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/5YdIiv5WLNbaONCyGIDszz"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 185113,
+      "name": "Alone (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/7kOletJ0Q5H4MWe7cfeZXP"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "I Wrote A Song",
-        "url": "https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu"
+        "name": "Meltdown",
+        "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
       },
       "artists": [
         {
-          "name": "Mae Muller",
-          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
         }
       ],
-      "duration_ms": 165151,
-      "name": "I Wrote A Song",
-      "url": "https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn"
+      "duration_ms": 153037,
+      "name": "Meltdown",
+      "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
     },
     {
       "added_at": "2024-03-29 15:23:22",
@@ -2335,18 +2335,18 @@
     {
       "added_at": "2024-03-29 15:23:22",
       "album": {
-        "name": "Meltdown",
-        "url": "https://open.spotify.com/album/5YFjep71L0CSTopsrhZ56q"
+        "name": "I Wrote A Song",
+        "url": "https://open.spotify.com/album/7JTww9J0sqx8tqm872Nsnu"
       },
       "artists": [
         {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+          "name": "Mae Muller",
+          "url": "https://open.spotify.com/artist/1BEUkE2CSUgHTLSBMZdnFB"
         }
       ],
-      "duration_ms": 153037,
-      "name": "Meltdown",
-      "url": "https://open.spotify.com/track/52Rfxu5AUNMV1qhhC2ZCkb"
+      "duration_ms": 165151,
+      "name": "I Wrote A Song",
+      "url": "https://open.spotify.com/track/0rO1zf0e7l8s7PRjchQpyn"
     },
     {
       "added_at": "2024-03-29 15:23:22",

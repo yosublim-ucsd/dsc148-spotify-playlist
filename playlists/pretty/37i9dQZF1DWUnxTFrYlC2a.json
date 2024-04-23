@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udd0as\u00fabele sin miedo, s\u00fabele hasta que reviente \ud83d\udd0a",
-  "num_followers": 157327,
+  "num_followers": 157383,
   "original_name": "q truene la bocina",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,22 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
+        "name": "Ya No Somos Ni Seremos",
+        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 185722,
+      "name": "Ya No Somos Ni Seremos",
+      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
         "name": "Sentimiento, Elegancia y M\u00e1s Maldad",
         "url": "https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
-        "name": "Ya No Somos Ni Seremos",
-        "url": "https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo"
-      },
-      "artists": [
-        {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        }
-      ],
-      "duration_ms": 185722,
-      "name": "Ya No Somos Ni Seremos",
-      "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -771,6 +771,22 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
+        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
+        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 237080,
+      "name": "Ojos Verdes",
+      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
         "name": "PRC",
         "url": "https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI"
       },
@@ -787,22 +803,6 @@
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
-        "name": "Soy Lo Que Quiero... Indispensable (Edici\u00f3n Especial)",
-        "url": "https://open.spotify.com/album/4kWF9XKqqLONgYtUQ4alvb"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 237080,
-      "name": "Ojos Verdes",
-      "url": "https://open.spotify.com/track/6981hdSOqG8tP6xTqaySa1"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
-        "name": "Limon Y Sal",
-        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
-      },
-      "artists": [
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        },
-        {
-          "name": "Ana Tijoux",
-          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
-        }
-      ],
-      "duration_ms": 192760,
-      "name": "Eres para M\u00ed (with Anita Tijoux)",
-      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
         "name": "Lo Siento BB:/ (with Bad Bunny & Julieta Venegas)",
         "url": "https://open.spotify.com/album/4589OIFRZp41qbsp7TWFCx"
       },
@@ -1291,18 +1271,22 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
-        "name": "DISTORSI\u00d3N",
-        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
+        "name": "Limon Y Sal",
+        "url": "https://open.spotify.com/album/1YhHEtOj1mhMz0769Fqa9Q"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        },
+        {
+          "name": "Ana Tijoux",
+          "url": "https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz"
         }
       ],
-      "duration_ms": 168210,
-      "name": "YW&F - Versi\u00f3n Reggaeton",
-      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
+      "duration_ms": 192760,
+      "name": "Eres para M\u00ed (with Anita Tijoux)",
+      "url": "https://open.spotify.com/track/4m3vLNZkFAjm30XxPXf7E3"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -1323,18 +1307,18 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "DISTORSI\u00d3N",
+        "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
         }
       ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+      "duration_ms": 168210,
+      "name": "YW&F - Versi\u00f3n Reggaeton",
+      "url": "https://open.spotify.com/track/3cF2DwEniY7qbL7nT93fAc"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -1351,6 +1335,22 @@
       "duration_ms": 300791,
       "name": "Me Hace Da\u00f1o Verte",
       "url": "https://open.spotify.com/track/4dyzxv5SsdBtunuU3qj7Ti"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 279320,
+      "name": "Talento De Televisi\u00f3n",
+      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
         "name": "DISTORSI\u00d3N",
         "url": "https://open.spotify.com/album/5MmiVlJJBI7hSd5QQIlHUT"
       },
@@ -1427,22 +1443,6 @@
       "duration_ms": 239493,
       "name": "Virtual Diva",
       "url": "https://open.spotify.com/track/5nJaS3PEpyPfaWiLxIGtRX"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 279320,
-      "name": "Talento De Televisi\u00f3n",
-      "url": "https://open.spotify.com/track/3fRIuTih8bzc0vtY9fHhvF"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
-        "name": "Timbiriche 7",
-        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
-      },
-      "artists": [
-        {
-          "name": "Timbiriche",
-          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
-        }
-      ],
-      "duration_ms": 184946,
-      "name": "Con Todos Menos Conmigo",
-      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
         "name": "Me Siento Tan Sola",
         "url": "https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 210360,
       "name": "Con los Ojos Cerrados",
       "url": "https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
+        "name": "Timbiriche 7",
+        "url": "https://open.spotify.com/album/5srfo2XTGJPW9EAiky3TdM"
+      },
+      "artists": [
+        {
+          "name": "Timbiriche",
+          "url": "https://open.spotify.com/artist/1FbygZnWsyUjzjTGLhWVlO"
+        }
+      ],
+      "duration_ms": 184946,
+      "name": "Con Todos Menos Conmigo",
+      "url": "https://open.spotify.com/track/4d7N2lqEJMbQwVy1LCqhXv"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -1627,26 +1627,6 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
-        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
-        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
-      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -1663,6 +1643,26 @@
       "duration_ms": 175532,
       "name": "La Nena",
       "url": "https://open.spotify.com/track/2O3V4meZv0bEc1LPITGvcC"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
+        "name": "Yo Ya No Vuelvo Contigo (En Vivo)",
+        "url": "https://open.spotify.com/album/78OOLWnOyjDZRqxZXlfNk9"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Yo Ya No Vuelvo Contigo - En Vivo",
+      "url": "https://open.spotify.com/track/1s59X35jDULAyOGmBuTAnd"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -1779,22 +1779,6 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
-        "name": "Hoja en Blanco",
-        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 307200,
-      "name": "Hoja En Blanco",
-      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
         "name": "En Vivo desde El Foro Lizos Music",
         "url": "https://open.spotify.com/album/6Am6MERXwzXEATDw7cdnag"
       },
@@ -1807,6 +1791,22 @@
       "duration_ms": 152186,
       "name": "Es Que Me Gustas - En Vivo",
       "url": "https://open.spotify.com/track/6nyl8kugrRsjzvpFhvw4hE"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
+        "name": "Hoja en Blanco",
+        "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
+      },
+      "artists": [
+        {
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
+        }
+      ],
+      "duration_ms": 307200,
+      "name": "Hoja En Blanco",
+      "url": "https://open.spotify.com/track/0wDEs6WvqDHq4XJZC0dHhO"
     },
     {
       "added_at": "2024-02-23 18:06:32",
@@ -2187,22 +2187,6 @@
     {
       "added_at": "2024-02-23 18:06:32",
       "album": {
-        "name": "UVV Vol. 8 (En Vivo)",
-        "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 709545,
-      "name": "Medley Apache - En Vivo",
-      "url": "https://open.spotify.com/track/1jYMD4tpWGlutkL7A6Q6HG"
-    },
-    {
-      "added_at": "2024-02-23 18:06:32",
-      "album": {
         "name": "El Vagabundo Que Te Ama",
         "url": "https://open.spotify.com/album/4aHIYnbJXldkqugU3YpRSs"
       },
@@ -2215,6 +2199,22 @@
       "duration_ms": 234666,
       "name": "Mi Enemigo El Amor",
       "url": "https://open.spotify.com/track/3V5mrjHNr7VFhcUJ5oh45V"
+    },
+    {
+      "added_at": "2024-02-23 18:06:32",
+      "album": {
+        "name": "UVV Vol. 8 (En Vivo)",
+        "url": "https://open.spotify.com/album/1heJabKbVYHVQCQEBrcSp3"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 709545,
+      "name": "Medley Apache - En Vivo",
+      "url": "https://open.spotify.com/track/1jYMD4tpWGlutkL7A6Q6HG"
     },
     {
       "added_at": "2024-02-23 18:06:32",

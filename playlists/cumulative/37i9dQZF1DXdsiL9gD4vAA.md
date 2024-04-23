@@ -2,9 +2,9 @@
 
 ### [Golden Ghazals](https://open.spotify.com/playlist/37i9dQZF1DXdsiL9gD4vAA)
 
-> Remembering the elegiac voice of love & longing..\. Pankaj Udhas, always & forever.
+> Ghazals for the rapture and passion of intense love and longing\. Cover \- Jagjit Singh
 
-160 songs - 14 hr 36 min
+161 songs - 14 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Rafta Rafta Voh Meri Hasti Ka](https://open.spotify.com/track/1m4wwtRG4UIB7GreQFP5QQ) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan Golden Film Hits Vol\-2](https://open.spotify.com/album/4bEaStiLiA9kJ9uOWam9Ct) | 3:46 | 2021-12-01 |  |
 | [Rafta Rafta Woh Meri Hasti Ka Saman Ho Gaye](https://open.spotify.com/track/6GdajL7Wy76jkC7QziZ1At) | [Muhammad Ali](https://open.spotify.com/artist/3O5X759SsQ6VzpPVopUZSX) | [Khiraj](https://open.spotify.com/album/3V2kOV6FanUWqzj7JZkY8z) | 4:47 | 2023-10-11 |  |
 | [Rang Rasiya \- Film Version](https://open.spotify.com/track/3JwTaFbO6HlMFyD0UvEtOM) | [Shilpa Rao](https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB), [Mahima Bhardwaj](https://open.spotify.com/artist/256cbupySWagIEHWcArnNf), [Shashi Suman](https://open.spotify.com/artist/3RDOiwcPufckpVDe8iAt94) | [Safed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7AfF3Yos8Gx1YYyws9zzq6) | 8:54 | 2023-12-12 |  |
+| [Rangrasiya](https://open.spotify.com/track/4yEkt1sfM6qziBykSESn7W) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Hopun Saikia](https://open.spotify.com/artist/427lOJJUkRWgIZYpcUKKwN) | [Rangrasiya](https://open.spotify.com/album/4EM5UkaNoCKB0seUaorGgq) | 4:21 | 2024-04-22 |  |
 | [Ranjish Hi Sahi](https://open.spotify.com/track/4t2sMBajRuSKudtieXPgPp) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Coke Studio Season 10: Episode 1](https://open.spotify.com/album/5OFJg7KklIIfXF2xxtMCj8) | 5:36 | 2024-03-05 |  |
 | [Ranjish Hi Sahi Dil Hi Dukhane Ke Liye](https://open.spotify.com/track/4NbG28kd9gYQHnNbF5Hsjd) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Mehdi Hassan \- Greatest Ghazals](https://open.spotify.com/album/6msMzk74VrVotyZfgwb8np) | 12:12 | 2021-12-01 | 2023-05-16 |
 | [Rasm \-E\- Ulfat Sikha Gaya Koi](https://open.spotify.com/track/6IGwyk06551osZprqKSJPk) | [Begum Akhtar](https://open.spotify.com/artist/2s5kwiBL19Iw2PnrJ6vYDf) | [Begum Akhtar](https://open.spotify.com/album/1DSPkSkvEe1TyrtXHvkkGo) | 3:53 | 2021-12-01 | 2023-03-03 |

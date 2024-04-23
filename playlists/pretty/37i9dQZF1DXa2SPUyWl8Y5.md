@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 
 > Focus with melodic house and techno.
 
-[Spotify](https://open.spotify.com/user/spotify) - 492,367 likes - 80 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 492,475 likes - 80 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Stay There](https://open.spotify.com/track/7t9PLlf9nI2Xo8WRrfcItk) | [Tonic Walter](https://open.spotify.com/artist/6HfRl1vZ3mVDGkXb7Pknjv) | [Stay There](https://open.spotify.com/album/2LUUNfPXV0MwcwITk97KWF) | 3:53 |
 | 2 | [Zodiac](https://open.spotify.com/track/1yZBuUYcA0Ug7Y7ImNdhwt) | [Agents Of Time](https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht) | [Zodiac](https://open.spotify.com/album/6dylMlHC16SU924l7a6UGV) | 5:42 |
-| 3 | [Verbier](https://open.spotify.com/track/4N00LsQe2f9SmJEq393HKf) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Verbier](https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3) | 3:26 |
-| 4 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 |
+| 3 | [Strangers](https://open.spotify.com/track/1FUNbwPOfV2D3Juv1eoXZZ) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Begin Again](https://open.spotify.com/album/1ZwkNGxlonmG4bjmLbV1Rr) | 4:31 |
+| 4 | [Verbier](https://open.spotify.com/track/4N00LsQe2f9SmJEq393HKf) | [Worakls](https://open.spotify.com/artist/5RPzPJCg4ER1LzQkorZ31p) | [Verbier](https://open.spotify.com/album/4jy3uq2tlKOOVFz1tumlu3) | 3:26 |
 | 5 | [All Equal](https://open.spotify.com/track/18l96LCRzEegdK7snU2DFF) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [Faodail](https://open.spotify.com/artist/7p53fRMaR9h4Ri162E5LGi) | [All Equal](https://open.spotify.com/album/1mv4eGXzEDCUmKnf43FUQS) | 3:42 |
 | 6 | [Hypnotised](https://open.spotify.com/track/3o5P6TF0Gop8MiuuuTtttl) | [Tinlicker](https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza), [Dosem](https://open.spotify.com/artist/0zmnkCTbAxYsZAMIqXEzfS) | [Hypnotised / I Can Feel](https://open.spotify.com/album/5QDehFZtgj2xIdHJYd0rE8) | 5:40 |
 | 7 | [Phases](https://open.spotify.com/track/5OWWBPmbl5abcQlsCHieFK) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u) | [Phases](https://open.spotify.com/album/6OuEoATc4jWyLZ6msSPvvX) | 4:26 |
@@ -68,10 +68,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 58 | [Dreaming](https://open.spotify.com/track/2Ii6VGM7F1nkbleXQPkJvT) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Dreaming](https://open.spotify.com/album/6ru7iTApllOAzaLs5Ggt4M) | 3:12 |
 | 59 | [Close to the Edge](https://open.spotify.com/track/5QC6Ze5kjWoFr3xHOXhx1N) | [Klanglos](https://open.spotify.com/artist/1jV311C5ADuBqCPpprsjUp) | [Close to the Edge](https://open.spotify.com/album/6fDQUCufTFl072nXDT54Hm) | 5:08 |
 | 60 | [Hailstorm \- Ann Clue Remix](https://open.spotify.com/track/4INsV87wHXViqJRAmbOo8t) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v), [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Hailstorm \(Ann Clue Remix\)](https://open.spotify.com/album/54LvPkBHCUXjuKIfFC3e76) | 6:22 |
-| 61 | [Night](https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Night](https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX) | 4:13 |
-| 62 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 |
-| 63 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 |
-| 64 | [Tesseract](https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM) | [Nors Kode](https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY) | [Lu \| Sal Amander \| Tesseract](https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm) | 6:37 |
+| 61 | [Alive](https://open.spotify.com/track/7cn2gHnDem0tI8rZXaBmXp) | [Mainterm](https://open.spotify.com/artist/7f7f9se1wn56qhlAWMT4eI) | [Alive](https://open.spotify.com/album/1QXGtZPuWcFFqaz3IidO7y) | 5:58 |
+| 62 | [Tesseract](https://open.spotify.com/track/5qn2rZD76ZBusD5WqMtVOM) | [Nors Kode](https://open.spotify.com/artist/4YBFnWJNrVZoUU6U30LaLY) | [Lu \| Sal Amander \| Tesseract](https://open.spotify.com/album/6ONMieARnYppdv9PZJ5ugm) | 6:37 |
+| 63 | [Night](https://open.spotify.com/track/253xpyhXIk9zrOveyC1i0D) | [AKZENTH](https://open.spotify.com/artist/33ARHtMLoXkzNYXqnSXhkL) | [Night](https://open.spotify.com/album/3gBbhTYRUfKkdN68v3nnBX) | 4:13 |
+| 64 | [Everything](https://open.spotify.com/track/6l0wXJbcTf4aNJ1OckXW6P) | [GHEIST](https://open.spotify.com/artist/60pOigPjgmU7AzmZmWEQZU) | [Everything](https://open.spotify.com/album/6HKbO7tyHA5CNDOzQxbfRp) | 6:17 |
 | 65 | [The Mood](https://open.spotify.com/track/6eHjPAXmPtSw7qjn3FTVfc) | [Rafael Osmo](https://open.spotify.com/artist/3ChjGRo4LfuJy7uXo0uQG5) | [The Mood](https://open.spotify.com/album/3XQPuf5CmDz0jEwgsfsygX) | 3:30 |
 | 66 | [Landing in Halifax](https://open.spotify.com/track/3CLUfqZpiTv3EO2eAS5nll) | [Passenger 10](https://open.spotify.com/artist/1Rmh4YOuttbNyVthCkTokT) | [Landing in Halifax](https://open.spotify.com/album/79DbNRg47wmpCmtoJrByH1) | 4:09 |
 | 67 | [The Duty](https://open.spotify.com/track/6VGCWLkUxy4OrK4Lb5YwUI) | [Cedric Gervais](https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724) | [The Duty](https://open.spotify.com/album/5wkFYvOqJVrdW92n31wFwS) | 3:14 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa2SPUyWl8Y5.md) - [plain]
 | 76 | [Black Ice](https://open.spotify.com/track/5KqPPGQikjJHRTT17E8XdS) | [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE) | [Black Ice](https://open.spotify.com/album/7kTHuLdBT3Mk45oHueS33E) | 6:20 |
 | 77 | [Revolt](https://open.spotify.com/track/7lQW1w8vXCPrkXrQvyuA2R) | [Theydream](https://open.spotify.com/artist/5dNuHnFp9DGGOxoQx1WB5v) | [Revolt](https://open.spotify.com/album/7h5XiTCsy80QsqI0oVDdkT) | 4:44 |
 | 78 | [Miracle](https://open.spotify.com/track/7LkAU8jTxTG1qcVQAiWXpz) | [Another Mind](https://open.spotify.com/artist/4DS2HXX4HA8V7V9xKsoxf4) | [Miracles](https://open.spotify.com/album/4ml5qzYT0esniNcFX0ehcR) | 7:56 |
-| 79 | [Barturator](https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3) | [Andre Lanine](https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh) | [Barturator](https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e) | 6:34 |
-| 80 | [Mutation](https://open.spotify.com/track/58oYyiSqmTA2dzoM7AeCqq) | [Roemisch](https://open.spotify.com/artist/0WuIfBOsejzJRLHiVXtDSI) | [Mutation](https://open.spotify.com/album/2p23hNbE2AeJPskkwkGQ6v) | 8:08 |
+| 79 | [Mutation](https://open.spotify.com/track/58oYyiSqmTA2dzoM7AeCqq) | [Roemisch](https://open.spotify.com/artist/0WuIfBOsejzJRLHiVXtDSI) | [Mutation](https://open.spotify.com/album/2p23hNbE2AeJPskkwkGQ6v) | 8:08 |
+| 80 | [Barturator](https://open.spotify.com/track/3dNVyzZi3RdVd0wBBEvUX3) | [Andre Lanine](https://open.spotify.com/artist/4m7JYimIummqKokshaDvFh) | [Barturator](https://open.spotify.com/album/6lhMnxfO8Hs0pJJRPSnY7e) | 6:34 |
 
 Snapshot ID: `MTcxMjg3MjgwMCwwMDAwMDAwMGM4OTVjN2Q2OTRmMTUyNjk3ZWFiNTA5YjUwN2RmYzc5`

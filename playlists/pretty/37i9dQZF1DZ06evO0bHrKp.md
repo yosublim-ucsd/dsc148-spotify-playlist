@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 
 ### [This Is Sum 41](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0bHrKp)
 
-> This Is Sum 41\. Los temas esenciales, todos en una lista.
+> This is Sum 41。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,708 likes - 46 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,715 likes - 46 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,17 +23,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 13 | [I Can't Wait](https://open.spotify.com/track/3kuuGbu0mZbMqZ8gNKiXyo) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:05 |
 | 14 | [Motivation](https://open.spotify.com/track/6joQ1zE0lhx0UazVTK05Xc) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 2:49 |
 | 15 | [Out For Blood](https://open.spotify.com/track/30XUVaCG8ghAiE45SnXLhn) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:36 |
-| 16 | [Some Say](https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:25 |
+| 16 | [With Me](https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:51 |
 | 17 | [Not Quite Myself](https://open.spotify.com/track/1N4D5MIp3v67TDRa8jJlQr) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:54 |
-| 18 | [With Me](https://open.spotify.com/track/1OTvWduKQV0MQd2gnGM9He) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:51 |
+| 18 | [Some Say](https://open.spotify.com/track/3AglCqd6PT4zp2Hv7oOKBl) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:25 |
 | 19 | [Never There](https://open.spotify.com/track/3ujzd7pcdAhILCnS3oGbaU) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 4:20 |
-| 20 | [We're All To Blame](https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:38 |
-| 21 | [Bad Mistake](https://open.spotify.com/track/1BOb5cwjb5TPt2OztMsQaD) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:03 |
-| 22 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
+| 20 | [Underclass Hero](https://open.spotify.com/track/6dXizHF3KbmdvOgvMAhnQC) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:14 |
+| 21 | [Future Primitive](https://open.spotify.com/track/1SqDCy8rKi52X3pQunsTmZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:12 |
+| 22 | [We're All To Blame](https://open.spotify.com/track/2cYoayTRed9m3scuQzKq8Z) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:38 |
 | 23 | [Jessica Kill](https://open.spotify.com/track/7aWYoIxfmQeyweth6IXY30) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 2:50 |
-| 24 | [Noots](https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:51 |
-| 25 | [Future Primitive](https://open.spotify.com/track/1SqDCy8rKi52X3pQunsTmZ) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:12 |
-| 26 | [Walking Disaster](https://open.spotify.com/track/7xuhVUJmBpHR276Yc7AsgW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:46 |
+| 24 | [Walking Disaster](https://open.spotify.com/track/7xuhVUJmBpHR276Yc7AsgW) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 4:46 |
+| 25 | [Bad Mistake](https://open.spotify.com/track/1BOb5cwjb5TPt2OztMsQaD) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 3:03 |
+| 26 | [Noots](https://open.spotify.com/track/6wXNqGJ5eHfAaz8WcBN4Sp) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Chuck](https://open.spotify.com/album/1aG8QbhABVtVxNlAkk8VBW) | 3:51 |
 | 27 | [Makes No Difference](https://open.spotify.com/track/0dEKHXkMPrC5vQkjPtmOic) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Half Hour Of Power](https://open.spotify.com/album/5iyuYd9BFLRoKHN3onmdMH) | 3:10 |
 | 28 | [Screaming Bloody Murder](https://open.spotify.com/track/1zqAXXA12UEVS7iDmAVeay) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Screaming Bloody Murder](https://open.spotify.com/album/1rqIeDLxDNH5wTVwiklzip) | 3:24 |
 | 29 | [Stranger In These Times](https://open.spotify.com/track/7nEuKvnCHkTvWQVNu4OPLd) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Heaven :x: Hell](https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF) | 2:57 |
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0bHrKp.md) - [plain]
 | 45 | [A Death In The Family](https://open.spotify.com/track/27zeUYNVuXG5kXlPvS2Wod) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Order In Decline](https://open.spotify.com/album/7j11BWRSLFBFUVR4EPG6WD) | 3:18 |
 | 46 | [Pain For Pleasure](https://open.spotify.com/track/4VtSO2QcHikRASfuNi7JOM) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [All Killer, No Filler](https://open.spotify.com/album/2UCWsnmZEVg9HhnMeKTsim) | 1:43 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDhjOGExOTQ3ZjMyZGU1Nzc2N2RlMWJkYzY0ZjcwZGZh`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDEwOWI3YmRhZDRiZWZkYWNiNWRhZmM3MGYxYzQxMTQ0`

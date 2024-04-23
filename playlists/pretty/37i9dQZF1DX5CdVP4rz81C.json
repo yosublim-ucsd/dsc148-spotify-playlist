@@ -1,12 +1,12 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: Myles Smith",
-  "num_followers": 1334783,
+  "num_followers": 1334395,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMDA1NjA1N2FlY2M4YTIzZmM0NzcxZjdjY2ExY2RhYWEw",
+  "snapshot_id": "MTcxMzgxMzg5MiwwMDAwMDAwMDMyMTljMzkxMWEwMTdjM2FiN2RkMzc1NTkxMmE5ZDY0",
   "tracks": [
     {
       "added_at": "2024-03-29 04:00:00",
@@ -1193,6 +1193,26 @@
       "url": "https://open.spotify.com/track/4EcGbkv46bCvSzEPmQvQkj"
     },
     {
+      "added_at": "2024-04-22 19:24:52",
+      "album": {
+        "name": "Built To Be Bad (with Alex Sampson)",
+        "url": "https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY"
+      },
+      "artists": [
+        {
+          "name": "Grace Gachot",
+          "url": "https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ"
+        },
+        {
+          "name": "Alex Sampson",
+          "url": "https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf"
+        }
+      ],
+      "duration_ms": 188572,
+      "name": "Built To Be Bad (with Alex Sampson)",
+      "url": "https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV"
+    },
+    {
       "added_at": "2023-12-01 05:00:00",
       "album": {
         "name": "Stick Season",
@@ -1615,22 +1635,6 @@
       "duration_ms": 171983,
       "name": "With Or Without You",
       "url": "https://open.spotify.com/track/0uIvgiRfJHFZY1sue0cpvm"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "sad songs in the summer (mixtape)",
-        "url": "https://open.spotify.com/album/1xq48TLzC81TsS1Tl4DNc6"
-      },
-      "artists": [
-        {
-          "name": "clide",
-          "url": "https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy"
-        }
-      ],
-      "duration_ms": 152405,
-      "name": "TRAGIC",
-      "url": "https://open.spotify.com/track/5yiOs4FYwtsuJZ6PfiziF8"
     },
     {
       "added_at": "2024-03-15 04:00:00",

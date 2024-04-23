@@ -1,6 +1,6 @@
 {
   "description": "The greatest operatic and orchestral works of Rossini, featuring William Tell, The Barber of Seville and Cinderella.",
-  "num_followers": 35229,
+  "num_followers": 35238,
   "original_name": "This Is Rossini",
   "owner": {
     "name": "Spotify",
@@ -899,26 +899,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Stabat Mater",
-        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Howard Arman",
-          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
-        }
-      ],
-      "duration_ms": 272173,
-      "name": "VIII. Inflammatus (Aria and Chorus)",
-      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Giovanna d'Arco; 19 songs",
         "url": "https://open.spotify.com/album/3VVwrNDAiowYFUeK5DSYZQ"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 273200,
       "name": "Rossini: Stabat Mater: IX. Quando corpus morietur",
       "url": "https://open.spotify.com/track/1OtTF78hnHqx0NDhPvtL5p"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Stabat Mater",
+        "url": "https://open.spotify.com/album/42HdAA7NqanLwohy5UiUjc"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Howard Arman",
+          "url": "https://open.spotify.com/artist/2cjMb8N7gfa90len54jFre"
+        }
+      ],
+      "duration_ms": 272173,
+      "name": "VIII. Inflammatus (Aria and Chorus)",
+      "url": "https://open.spotify.com/track/1RCsmuaklRkbbVzD1I0AQM"
     },
     {
       "added_at": "2022-06-28 08:38:32",
@@ -1323,26 +1323,6 @@
     {
       "added_at": "2022-06-28 08:38:32",
       "album": {
-        "name": "Rossini: Piano Music, Vol. 2",
-        "url": "https://open.spotify.com/album/2R1jKhILmZKO2seqjvSDkv"
-      },
-      "artists": [
-        {
-          "name": "Gioachino Rossini",
-          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
-        },
-        {
-          "name": "Alessandro Marangoni",
-          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
-        }
-      ],
-      "duration_ms": 322773,
-      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
-      "url": "https://open.spotify.com/track/4RNoeY41rmvZDLLE8FcArh"
-    },
-    {
-      "added_at": "2022-06-28 08:38:32",
-      "album": {
         "name": "Rossini: Otello",
         "url": "https://open.spotify.com/album/57GeZNJvRBMhDBievtcrYq"
       },
@@ -1451,6 +1431,26 @@
       "duration_ms": 335946,
       "name": "Sonata for Strings No. 6 in D Major, \"La tempesta\": III. Tempesta. Allegro (Version for orchestra)",
       "url": "https://open.spotify.com/track/3XJJmpEo533fHuKfmGnSEB"
+    },
+    {
+      "added_at": "2022-06-28 08:38:32",
+      "album": {
+        "name": "Rossini: Piano Music, Vol. 2",
+        "url": "https://open.spotify.com/album/2R1jKhILmZKO2seqjvSDkv"
+      },
+      "artists": [
+        {
+          "name": "Gioachino Rossini",
+          "url": "https://open.spotify.com/artist/0roWUeP7Ac4yK4VN6L2gF4"
+        },
+        {
+          "name": "Alessandro Marangoni",
+          "url": "https://open.spotify.com/artist/0OlYS1Nvt0W68RQpXv2eq9"
+        }
+      ],
+      "duration_ms": 322773,
+      "name": "P\u00e9ch\u00e9s de vieillesse, Vol. 6, Album pour les enfants degourdis: No. 8, Barcarole",
+      "url": "https://open.spotify.com/track/4RNoeY41rmvZDLLE8FcArh"
     },
     {
       "added_at": "2022-06-28 08:38:32",

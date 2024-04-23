@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,731 likes - 108 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,850 likes - 108 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 | 8 | [Gracias A La Cruz](https://open.spotify.com/track/1z8O7c6SeYQymSen7xbTsF) | [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75) | [Gracias A La Cruz](https://open.spotify.com/album/2qr3B7UPelc7paIgaj55Nk) | 5:08 |
 | 9 | [Tu Presencia me Llamó \- Me Atraiu \- Versão Espanhol](https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu Presencia me Llamó \(Me Atraiu \- Versão Espanhol\)](https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX) | 8:20 |
 | 10 | [Eres Grande](https://open.spotify.com/track/00THd4snJCmh5hjKDY14dO) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [Eres Grande](https://open.spotify.com/album/2c30lDtKlhRqrfjaBdPBD7) | 3:44 |
-| 11 | [Comunión](https://open.spotify.com/track/7pSt0qyCuUK6ZXREKa4SxF) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt) | [Adoración II](https://open.spotify.com/album/7FU46piVdzeRmyUPvgL32z) | 3:17 |
+| 11 | [Comunión](https://open.spotify.com/track/7pSt0qyCuUK6ZXREKa4SxF) | [SioVera](https://open.spotify.com/artist/6mEJxv4yQ0uvEZ023sKEPt), [Anthem Worship Español](https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A) | [Adoración II](https://open.spotify.com/album/7FU46piVdzeRmyUPvgL32z) | 3:17 |
 | 12 | [Todo Es Posible](https://open.spotify.com/track/24NGuW6DcoTZxyXofAGSOh) | [Ingrid Rosario](https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE) | [Todo Es Posible](https://open.spotify.com/album/5izMmQxqLuuP1T5pTbONwP) | 4:45 |
 | 13 | [En Hora Buena](https://open.spotify.com/track/06fsPaXoYro5HIhlgcNsWC) | [Alex Zurdo](https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd) | [En Hora Buena](https://open.spotify.com/album/3DiinkzXINjkCE0oFRhvxK) | 3:16 |
 | 14 | [Mi Dios Es El Primero](https://open.spotify.com/track/5hkIqZsDpgfm7hhtXqc602) | [Lorens Salcedo](https://open.spotify.com/artist/0jE7MuW4BnzjciUx3nTJYH), [Montesanto](https://open.spotify.com/artist/71UQaXNOhfg5hlYglhzVCJ) | [Mi Dios Es El Primero](https://open.spotify.com/album/7qkNBwRcLHZ4MKtUBFK1qE) | 9:40 |

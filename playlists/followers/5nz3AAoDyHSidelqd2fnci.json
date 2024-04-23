@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 0,
+  "2024-04-23": 0,
   "date_first_scraped": "2023-03-07",
   "description": "",
   "name": "import of The daily dozen (@pipemanuel10)",
@@ -1565,7 +1565,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 291306,
       "name": "Cae el Sol",
       "url": "https://open.spotify.com/track/0ib6BPTVVoBiEfPUsfFKXj"
@@ -2156,6 +2156,24 @@
     },
     {
       "album": {
+        "name": "Garage, Inc.",
+        "url": "https://open.spotify.com/album/4qDiQwJ7UEuJsGLWL078nQ"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190333,
+      "name": "Crash Course In Brain Surgery",
+      "url": "https://open.spotify.com/track/4iYo3wpPdcplPDHsvXrMsJ"
+    },
+    {
+      "album": {
         "name": "Rise (Deluxe Version)",
         "url": "https://open.spotify.com/album/4V9EJcLkKs0iZvbhsfQbrc"
       },
@@ -2347,7 +2365,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 164733,
       "name": "Cu\u00e1n lejos voy",
       "url": "https://open.spotify.com/track/2mkl0RWJn36fe0cX0oLahS"
@@ -2715,6 +2733,24 @@
       "duration_ms": 236386,
       "name": "Distraction",
       "url": "https://open.spotify.com/track/3Jh5Eh8F3QQ4iVbymcBXKc"
+    },
+    {
+      "album": {
+        "name": "We Are Harlot",
+        "url": "https://open.spotify.com/album/1wM07YWwj8Ib0Q4Nc8apq4"
+      },
+      "artists": [
+        {
+          "name": "We Are Harlot",
+          "url": "https://open.spotify.com/artist/2Gf3bDVBECfT7UCU3XcvlD"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190160,
+      "name": "DLT",
+      "url": "https://open.spotify.com/track/25j5mnFdxuaxrJGER0IZHe"
     },
     {
       "album": {
@@ -3285,7 +3321,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 249360,
       "name": "Endless War",
       "url": "https://open.spotify.com/track/5uDWqYSiWqWTXK9CbAKIA8"
@@ -3909,7 +3945,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 707626,
       "name": "For Your Love",
       "url": "https://open.spotify.com/track/0ybVIU8FkjBfdCfjiAbkL8"
@@ -4637,6 +4673,24 @@
       "duration_ms": 239343,
       "name": "High Like a Plane",
       "url": "https://open.spotify.com/track/275QQuIkO36GnffrfVHGVz"
+    },
+    {
+      "album": {
+        "name": "High With Your Lover",
+        "url": "https://open.spotify.com/album/3WRbEHjN0ePquqEtlc6vPE"
+      },
+      "artists": [
+        {
+          "name": "Sweet Bill",
+          "url": "https://open.spotify.com/artist/5kFZGxVFIgurSkmj5V5uo2"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235426,
+      "name": "High With Your Lover",
+      "url": "https://open.spotify.com/track/6WRCSTFIlK0quhnICyHiNy"
     },
     {
       "album": {
@@ -5413,6 +5467,24 @@
       "duration_ms": 53560,
       "name": "Initialization Sequence",
       "url": "https://open.spotify.com/track/5XRudtFV1XrzVETUVuJbZc"
+    },
+    {
+      "album": {
+        "name": "Inner Light (From \"Hajime No Ippo\")",
+        "url": "https://open.spotify.com/album/2zbkEjeACYRZyRiao4yHbj"
+      },
+      "artists": [
+        {
+          "name": "Miura Jam",
+          "url": "https://open.spotify.com/artist/5ZcXM1KFH6hhLoBIdgCnap"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304616,
+      "name": "Inner Light (From \"Hajime No Ippo\")",
+      "url": "https://open.spotify.com/track/5q9gEHMWOCNFdl3Is3Lau9"
     },
     {
       "album": {
@@ -6360,6 +6432,24 @@
     },
     {
       "album": {
+        "name": "Hair of the Dog",
+        "url": "https://open.spotify.com/album/5naYBHiMro7E0MVPmhhYHP"
+      },
+      "artists": [
+        {
+          "name": "Nazareth",
+          "url": "https://open.spotify.com/artist/6fvN9GmMCVKb5LY0WsnjFP"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232120,
+      "name": "Love Hurts - Single Edit",
+      "url": "https://open.spotify.com/track/5g1rzUEyVFNr2i4ifEjlVN"
+    },
+    {
+      "album": {
         "name": "Arrivals & Departures (Bonus Version)",
         "url": "https://open.spotify.com/album/5Zx1Rh9FFgJB47bx0jP0nS"
       },
@@ -6918,6 +7008,24 @@
     },
     {
       "album": {
+        "name": "Deep Cuts (Vol. 2 / 1977-1982)",
+        "url": "https://open.spotify.com/album/4sxXkoBsosrtiLSgXEfZn7"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181960,
+      "name": "Mustapha - Remastered 2011",
+      "url": "https://open.spotify.com/track/3blt6xuEed5PDZYO1Fjj2W"
+    },
+    {
+      "album": {
         "name": "Doomsday Machine",
         "url": "https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS"
       },
@@ -7091,7 +7199,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 313562,
       "name": "My Soul to the Devil",
       "url": "https://open.spotify.com/track/6ZyNUzdjHxlzopS9H0z4yD"
@@ -8380,6 +8488,24 @@
     },
     {
       "album": {
+        "name": "After Eight",
+        "url": "https://open.spotify.com/album/4rgfo8MPhMChBrxtBV8Fsh"
+      },
+      "artists": [
+        {
+          "name": "Taco",
+          "url": "https://open.spotify.com/artist/6Dxf1ZaJBrpbumiqTTnlIH"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281160,
+      "name": "Puttin' on the Ritz",
+      "url": "https://open.spotify.com/track/1taGkdO3DQsNRIQrarhVvc"
+    },
+    {
+      "album": {
         "name": "Sleepwalking",
         "url": "https://open.spotify.com/album/4LtD59YdjyGoA8twhW3gPo"
       },
@@ -8503,7 +8629,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 354226,
       "name": "Rap Vs. Racismo - Con L\u00edrico, Santo, El Langui, Kase.O, Nach, Locus, Ose, Nervizzo, Sho Hai, Zatu, Gitano Anton, Tit\u00f3 y Xhelazz.",
       "url": "https://open.spotify.com/track/3FZDo3ehmRfeKpkwhsjn7A"
@@ -8521,7 +8647,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 180747,
       "name": "Ras In France",
       "url": "https://open.spotify.com/track/3qcwqE8ZrkoK2zvDPVczMn"
@@ -8975,7 +9101,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 301026,
       "name": "Sad But True",
       "url": "https://open.spotify.com/track/5lMxWFcKooEH8n4duizJ67"
@@ -9512,6 +9638,24 @@
     },
     {
       "album": {
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/5e0H35jvjBwPOWQTAbpNvg"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 377680,
+      "name": "Smother Me",
+      "url": "https://open.spotify.com/track/56tEfCjYtZgbDGDrcpHzGa"
+    },
+    {
+      "album": {
         "name": "Consign To Oblivion (Expanded Edition)",
         "url": "https://open.spotify.com/album/050Dza66lBFneTLseVdFP8"
       },
@@ -9545,6 +9689,24 @@
       "duration_ms": 157213,
       "name": "Some Came Running",
       "url": "https://open.spotify.com/track/00pQYMt0mNh6fAWhgvAdMA"
+    },
+    {
+      "album": {
+        "name": "Static Age",
+        "url": "https://open.spotify.com/album/51tAz06EJxwhsk8uNfWxBo"
+      },
+      "artists": [
+        {
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121573,
+      "name": "Some Kinda Hate",
+      "url": "https://open.spotify.com/track/0RlC8gQmtupGoklgc97LVa"
     },
     {
       "album": {
@@ -9711,7 +9873,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 267986,
       "name": "Stand My Ground",
       "url": "https://open.spotify.com/track/7Chqf4yGnQlLWAWic9b0ET"
@@ -10361,7 +10523,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 197000,
       "name": "The Burden (Interlude)",
       "url": "https://open.spotify.com/track/1zs3NwkHQJQ445DUvTof5T"
@@ -10757,7 +10919,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 250539,
       "name": "The Ransom",
       "url": "https://open.spotify.com/track/3iQcTLzH1Cp6iQjtFWco34"
@@ -10873,6 +11035,24 @@
       "duration_ms": 543186,
       "name": "The Talisman - 2015 Remaster",
       "url": "https://open.spotify.com/track/14Zfm7LmHCLUlOPgJ0hY00"
+    },
+    {
+      "album": {
+        "name": "Painted Ponies",
+        "url": "https://open.spotify.com/album/2ln2xLwxx6ew3hwpPukjud"
+      },
+      "artists": [
+        {
+          "name": "Walker County",
+          "url": "https://open.spotify.com/artist/4O8A9zKc4TrSgV0RQp0cRg"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201275,
+      "name": "The Thing About Fences",
+      "url": "https://open.spotify.com/track/4G0QxtnbJeoVZ8klydzW4V"
     },
     {
       "album": {
@@ -11281,6 +11461,24 @@
       "duration_ms": 277441,
       "name": "Tuonela",
       "url": "https://open.spotify.com/track/1vuTO497hSEkEWvFWTGfl8"
+    },
+    {
+      "album": {
+        "name": "Sounding The Seventh Trumpet",
+        "url": "https://open.spotify.com/album/46yRqBsLmCPBMumrBCY3kq"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336533,
+      "name": "Turn The Other Way",
+      "url": "https://open.spotify.com/track/2L6O0QR2Zmjy04PeD7hGDS"
     },
     {
       "album": {
@@ -11970,6 +12168,24 @@
     },
     {
       "album": {
+        "name": "News Of The World (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2024-04-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122066,
+      "name": "We Will Rock You - Remastered 2011",
+      "url": "https://open.spotify.com/track/54flyrjcdnQdco7300avMJ"
+    },
+    {
+      "album": {
         "name": "This War Is Ours (Deluxe Edition)",
         "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
       },
@@ -12381,7 +12597,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 206573,
       "name": "Wish I Could Forget You",
       "url": "https://open.spotify.com/track/2FIEGuM3DUQLBhXwypJ5yw"

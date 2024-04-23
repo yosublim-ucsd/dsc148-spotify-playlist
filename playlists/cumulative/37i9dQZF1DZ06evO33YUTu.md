@@ -2,9 +2,9 @@
 
 ### [This Is Greeicy](https://open.spotify.com/playlist/37i9dQZF1DZ06evO33YUTu)
 
-> This Is Greeicy\. Los temas esenciales, todos en una lista.
+> This is Greeicy\. The essential tracks, all in one playlist.
 
-68 songs - 3 hr 24 min
+69 songs - 3 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [Perdón](https://open.spotify.com/track/4iCJFRTRsFlj4UWoEd7bS9) | [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perdón](https://open.spotify.com/album/3mS6qSzJvfbFkhLsp6hO8P) | 3:26 | 2023-03-19 |  |
 | [Perfecta](https://open.spotify.com/track/5gH9CSkFW45IjfocI8MPsb) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Perfecta](https://open.spotify.com/album/7qFvB7ZvDIud6x16xMv3Ur) | 3:02 | 2023-03-19 |  |
 | [Que me quiera](https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap.1 \- Que me quiera / Lokita](https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1) | 2:34 | 2023-06-10 |  |
-| [Química](https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:17 | 2023-06-26 |  |
+| [Química](https://open.spotify.com/track/36Q9lqAIlk20KTdctJyJW0) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:17 | 2024-04-23 |  |
+| [Química](https://open.spotify.com/track/3f4GVrbME6OfGJqlaxR6aF) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA \- Cap\. 2 \- I Try For You / Química](https://open.spotify.com/album/2MwlMWtZzYtqfUxhiYCCfM) | 2:17 | 2023-06-26 | 2024-04-23 |
 | [Ravin'](https://open.spotify.com/track/0AT08pe7CNV34sDKmTyh5b) | [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Ravin'](https://open.spotify.com/album/1iB6cyFWWKUTC5c8Fb54kQ) | 3:18 | 2023-03-19 | 2023-12-14 |
 | [Si te hubiera](https://open.spotify.com/track/5d7IxEBgNeHsJaR3IO4DQV) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 1:42 | 2024-02-23 | 2024-04-05 |
 | [Si Tu Amor No Vuelve](https://open.spotify.com/track/1Q2uBll5mMW8BY4T9XSrCo) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Si Tu Amor No Vuelve](https://open.spotify.com/album/4yPrBID40hUMocphha5lr7) | 3:21 | 2023-03-19 |  |

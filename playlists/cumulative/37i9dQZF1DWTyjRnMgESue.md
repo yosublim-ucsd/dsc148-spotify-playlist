@@ -4,7 +4,7 @@
 
 > The best new songs from modern singer\-songwriters\. Cover: Lizzy McAlpine
 
-479 songs - 1 day 3 hr 36 min
+480 songs - 1 day 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [hate to be lame \(feat\. FINNEAS\)](https://open.spotify.com/track/3QEX5O23KVp1yg1tj6Hycp) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS), [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [hate to be lame](https://open.spotify.com/album/5op9qDxPxMSBpV593Nxsaj) | 2:36 | 2022-04-22 | 2022-11-02 |
 | [hate to be you](https://open.spotify.com/track/7wDIcTm9EQiKxH60Z28jRU) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [hate to be you](https://open.spotify.com/album/6EFy6eC5CF3XUUMx2cwwAG) | 3:02 | 2022-03-11 | 2022-06-01 |
 | [Have You Thought About Me With Somebody Else](https://open.spotify.com/track/1qTH15ZeHHAf327AgfVulq) | [Georgia Greene](https://open.spotify.com/artist/4gG86DjoxWcWl5fkltnt6J) | [Have You Thought About Me With Somebody Else](https://open.spotify.com/album/6wjxvxjZygpj0H0vGGHyld) | 2:46 | 2021-11-19 | 2022-06-29 |
-| [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 | 2022-07-15 |  |
+| [Head Start](https://open.spotify.com/track/7iJhfdX3ZoVP7aXsZ5vFMM) | [Jeremy Loops](https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g) | [Heard You Got Love](https://open.spotify.com/album/5HCNFLIFq5qLGN67vpKrff) | 3:23 | 2022-07-15 | 2024-04-23 |
 | [Headspace \(feat\. Ruston Kelly\)](https://open.spotify.com/track/7rBRsvMrISY6SH3lxD06eE) | [Charli Adams](https://open.spotify.com/artist/2RzQznPCFWvnq3wBh0zzD2), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [Headspace \(feat\. Ruston Kelly\)](https://open.spotify.com/album/2EAFibiF5phk9RysDbCH3h) | 4:17 | 2021-11-19 | 2022-06-09 |
 | [Heaven Is Everywhere](https://open.spotify.com/track/1rPFqJjK21mcwaT0C10EfS) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Heaven Is Everywhere](https://open.spotify.com/album/5UeiyI4lj9FMmNQWymskL1) | 3:54 | 2022-02-21 | 2022-07-29 |
 | [Height of the Feeling](https://open.spotify.com/track/3vAR1iNQja3vPoJucrPrgh) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM), [La Force](https://open.spotify.com/artist/6Wt2zqLZOrA36sooqmAvFH) | [Height of the Feeling](https://open.spotify.com/album/05p0OYZuV6DFV9BkcrzNoW) | 3:59 | 2022-05-20 | 2022-07-25 |
@@ -323,6 +323,7 @@
 | [October Sky](https://open.spotify.com/track/4dGuN04mLIr6EgFkrBe5Vl) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [October Sky](https://open.spotify.com/album/6w7gENsq0E5THRxQZkA1D0) | 3:15 | 2021-11-19 |  |
 | [Olive Branch](https://open.spotify.com/track/4NdwzvXnYTIcxPXxaWY5eI) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Olive Branch](https://open.spotify.com/album/1tZ836sL4IkDcXIhvXYs8r) | 3:19 | 2022-03-25 | 2022-07-26 |
 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 | 2024-04-12 |  |
+| [Only One](https://open.spotify.com/track/5MXegzzvDfUSfwpf8a0FCq) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [Only One](https://open.spotify.com/album/0fzG0DP1dF2MEGyuhZHj5w) | 3:09 | 2024-04-22 |  |
 | [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 | 2024-03-08 |  |
 | [parasite](https://open.spotify.com/track/7dRSTYM5o4UuEAEnsCoOdH) | [mehro](https://open.spotify.com/artist/1ZwhhTSUPr7EBZHd1GjOT7) | [alchemy](https://open.spotify.com/album/72wPvtjiVDVty0FhvrlSqW) | 2:37 | 2022-04-22 | 2022-11-13 |
 | [Past Life](https://open.spotify.com/track/3YnqTS15HGxAXbwrNHxgRM) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Kumamoto](https://open.spotify.com/album/0A0b98wgcg0d9Dw6uG1IzO) | 2:40 | 2021-11-19 | 2022-07-29 |

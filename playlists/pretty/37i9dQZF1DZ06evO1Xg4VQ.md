@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This Is Lila Downs\. Los temas esenciales, todos en una lista.
+> This is Lila Downs。アーティストの代表曲をひとつのプレイリストに。
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,805 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,808 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 14 | [Mezcalito](https://open.spotify.com/track/1CbYx1JxHiCJlGl6npWp75) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pecados Y Milagros](https://open.spotify.com/album/08W9jeGlT5X9BtJkqqFu0O) | 4:27 |
 | 15 | [El Listón de Tu Pelo](https://open.spotify.com/track/1TCjQdcUcBPl7YXHCYh8WP) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Cómo Te Voy a Olvidar](https://open.spotify.com/album/3hgqQV4fVY9QfSyJOopuRl) | 3:34 |
 | 16 | [Naila](https://open.spotify.com/track/3doaeUZd2v2BbYTJLYUytI) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [El Alma De Lila Downs](https://open.spotify.com/album/78cEKu2fMM5fo0TAsBHcRT) | 3:11 |
-| 17 | [No Me Amenaces \(feat\. Lila Downs\)](https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr), [Mariachi Reyna De Los Angeles](https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pa' que Sientas Lo Que Siento](https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3) | 3:10 |
-| 18 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
+| 17 | [El Yerbero Moderno \(feat\. Lila Downs\)](https://open.spotify.com/track/5xQDQ7VToiDyn7IQs3aqlS) | [La Sonora Santanera](https://open.spotify.com/artist/3CsPxFJGyNa9ep79CFWN77), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Fiesta Continúa](https://open.spotify.com/album/6ARm9afMHyzlG7zN20ECFQ) | 3:00 |
+| 18 | [No Me Amenaces \(feat\. Lila Downs\)](https://open.spotify.com/track/3wjHY9iOulWhaLmEfJNUTk) | [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr), [Mariachi Reyna De Los Angeles](https://open.spotify.com/artist/650nqeGBxByQo7gS6jNwDy), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Pa' que Sientas Lo Que Siento](https://open.spotify.com/album/5zStXpEXkdFiKGVu0AR1Q3) | 3:10 |
 | 19 | [Conjuro](https://open.spotify.com/track/0kzWfLz03vVe9NCGfi7KbN) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:05 |
 | 20 | [Lágrimas Negras \(feat\. Lila Downs\)](https://open.spotify.com/track/02DvKHO0xe6MukjF4Hr2Wk) | [Carlos Cuevas](https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Los Boleros de Oro de la Música Tropical](https://open.spotify.com/album/2MCSHOk67yIocitxqMZAaJ) | 4:35 |
 | 21 | [Calaveras](https://open.spotify.com/track/6PO6PjA5zvQ9gCAFjDAG8D) | [Benny](https://open.spotify.com/artist/3YHFRVdfHlJ98iAc50PIYk), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Marcha de la Vida](https://open.spotify.com/album/7cdhRB4dbNZJMn1OafvISD) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 49 | [En el último trago](https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [En El Último Trago](https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6) | 3:27 |
 | 50 | [Gracias a la Vida](https://open.spotify.com/track/4JM6RkLoNpC0H0eApxXzNX) | [Las Voces de Latinoamérica](https://open.spotify.com/artist/38p5B1KoPgdaegOGm1jEt0), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF), [María Fernanda Rivera](https://open.spotify.com/artist/5R3cXcDrqWiBPRX9ouKmkz), [Pascuala Ilabaca](https://open.spotify.com/artist/34BMaYA9uw88I9Hyme5MDn), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Niyireth Alarcon](https://open.spotify.com/artist/79v7QMO04JLZs3ehbULM7K), [Margarita Laso](https://open.spotify.com/artist/1Ruw39HFexQEfPD75F3QHM), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Gracias a la Vida](https://open.spotify.com/album/1jDYMiHXJ9GRXKbamkq5uE) | 4:36 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDM2MWQ3MGUxYTYwYzU0Y2NlOWQwODA2Y2Y2ZTQwZWY5`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGIyZDY1MzJiZjg2MmEzMjNlYThhOTU3NTg1NjFhZTNk`

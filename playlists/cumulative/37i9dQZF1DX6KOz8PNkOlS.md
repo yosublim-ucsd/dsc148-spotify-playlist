@@ -4,7 +4,7 @@
 
 > Transform your workspace into a cozy retreat with gentle tunes and warm vibes
 
-167 songs - 10 hr 10 min
+168 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Immaterial Girl](https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L) | [Marci](https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E) | [Marci](https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e) | 3:29 | 2022-08-13 |  |
 | [Impurities](https://open.spotify.com/track/0yUpBx2Y5KwzENVCshSy3M) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Impurities](https://open.spotify.com/album/4bN7xco6FT5lDwmBcZ18tP) | 3:49 | 2023-03-31 | 2023-07-31 |
 | [interested](https://open.spotify.com/track/55SbTToiQ8JTe524EeIn8b) | [Nina Cobham](https://open.spotify.com/artist/4ETeWE9SAfaNU7XQ1RB2wq) | [interested](https://open.spotify.com/album/0Yvd8AciWmZXa2KQXQDl2V) | 3:13 | 2021-10-15 | 2024-04-19 |
-| [Into the Wave](https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Tamir Barzilay](https://open.spotify.com/artist/7LH8Hmng85ovgHH6nrU2N6) | [Into the Wave](https://open.spotify.com/album/3kwEu7mKvdsVYMhPQgpNSD) | 3:18 | 2021-10-15 |  |
+| [Into the Wave](https://open.spotify.com/track/5Du0XuQsmVWcmZ8kTQzZGz) | [Adam Ratner](https://open.spotify.com/artist/4TqrWqGb9OUbR3ZGx23W4K), [Jacob Mann](https://open.spotify.com/artist/6cM1vbrKTztN2uNjH8ub6F), [Sam Wilkes](https://open.spotify.com/artist/6Xo1vXFRCEJPgVqCyHlTPW), [Tamir Barzilay](https://open.spotify.com/artist/7LH8Hmng85ovgHH6nrU2N6) | [Into the Wave](https://open.spotify.com/album/3kwEu7mKvdsVYMhPQgpNSD) | 3:18 | 2021-10-15 | 2024-04-23 |
 | [Isle of Taste](https://open.spotify.com/track/5t4m1D3vZd8pBLnVAkXVJV) | [Session Victim](https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX) | [Needledrop](https://open.spotify.com/album/0KynfLw1af32baSTI7UO6z) | 3:52 | 2021-10-15 |  |
 | [Jalisco](https://open.spotify.com/track/7gEvMdJjKAlvW68yG4ASSX) | [Babeheaven](https://open.spotify.com/artist/0RlWCq8bq0lJgR6ZTvcqjQ) | [Home for Now](https://open.spotify.com/album/5lQ1jNr2gktMSkGpGVmFlN) | 3:42 | 2022-04-08 | 2024-04-19 |
 | [Japan](https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Saint Sinner](https://open.spotify.com/artist/0DoWlk1NzQp1VWVFtZOb8Y) | [Japan](https://open.spotify.com/album/4d67HTW9hBwtTiVzsVa2Vh) | 3:18 | 2021-10-15 |  |
@@ -170,6 +170,7 @@
 | [We Had A Good Time](https://open.spotify.com/track/0QQVRQ99PRD0c3dL1bMQ1J) | [Bullion](https://open.spotify.com/artist/6vcPgFOkMWBoY6Ks6eMEWj) | [We Had A Good Time](https://open.spotify.com/album/4TKffHJdGJQmDMsMzYVzmO) | 3:10 | 2021-10-15 |  |
 | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/track/0wOtc2nY3NOohp4xSwOyTN) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [We Might Even Be Falling In Love \(Duet\) \- Spotify Singles](https://open.spotify.com/album/05gJU1eQhBHXYUXrGSFBWG) | 1:30 | 2023-04-14 | 2024-01-11 |
 | [Where Do You Go](https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1) | [Yebba](https://open.spotify.com/artist/1ooV8YZC1KbpEcrmI8WH0F) | [Where Do You Go](https://open.spotify.com/album/74SSHu09e4vyHHMGKfw2CL) | 3:57 | 2021-10-15 |  |
+| [wherever u r \(feat\. V of BTS and NATURE\)](https://open.spotify.com/track/06DNeAJi8GYZn9TpCF8r2X) | [UMI](https://open.spotify.com/artist/4ClziihVpBeFXNyDH83Lde), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1), [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [wherever u r \(feat\. V of BTS and NATURE\)](https://open.spotify.com/album/2GlNxsOWZEeOY9f2VDRhGt) | 3:06 | 2024-04-23 |  |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2021-10-15 |  |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2021-10-15 |  |
 | [Wonder](https://open.spotify.com/track/7vMyUJeWiiF9CwMedCGCxF) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Haile Supreme](https://open.spotify.com/artist/4pZU0qHXvstRiBnhhRpY2R), [Shabaka Hutchings](https://open.spotify.com/artist/2lrCkW8oiUfuiouUjVvM1o) | [Shout Out! To Freedom...](https://open.spotify.com/album/7aqqi7wkPw0zWqCqA5VQio) | 6:32 | 2022-01-21 | 2024-04-19 |

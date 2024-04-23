@@ -1,12 +1,12 @@
 {
-  "description": "This is Bethel Music. The essential tracks, all in one playlist.",
-  "num_followers": 196838,
+  "description": "This is Bethel Music. \uaf2d \ub4e4\uc5b4\uc57c \ud558\ub294 \ud2b8\ub799\uc744 \ud558\ub098\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc5d0 \ubaa8\uc558\uc2b5\ub2c8\ub2e4.",
+  "num_followers": 196803,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDM3NjFhMTRmZjQ0ZDg0MWY1NGIyMzFmODhiN2U1MDVm",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFiNmU2NTdlMzQ0MmY3YTExMzljZGUyMDRlZjE1MDA3",
   "tracks": [
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Simple",
-        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
+        "name": "Peace, Vol. II",
+        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
       },
       "artists": [
         {
@@ -332,13 +332,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Emmy Rose",
-          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
         }
       ],
-      "duration_ms": 293377,
-      "name": "Tend",
-      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
+      "duration_ms": 261519,
+      "name": "You're Gonna Be Ok",
+      "url": "https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz"
     },
     {
       "added_at": null,
@@ -383,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace, Vol. II",
-        "url": "https://open.spotify.com/album/6rlmahX20G4EGu7ClCHe4p"
+        "name": "Simple",
+        "url": "https://open.spotify.com/album/6Loc2VbViFUgIe6EYa6z4Q"
       },
       "artists": [
         {
@@ -392,13 +392,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+          "name": "Emmy Rose",
+          "url": "https://open.spotify.com/artist/16f4gB92qCHbrYWixnzDGo"
         }
       ],
-      "duration_ms": 261519,
-      "name": "You're Gonna Be Ok",
-      "url": "https://open.spotify.com/track/35sVDinWrh5nYjpzPXe4qz"
+      "duration_ms": 293377,
+      "name": "Tend",
+      "url": "https://open.spotify.com/track/21OxPURFtFrTwWGq9aJCju"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Too Good To Not Believe (Live)",
-        "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
+        "name": "Homecoming (Live)",
+        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
       },
       "artists": [
         {
@@ -664,13 +664,17 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+          "name": "Cory Asbury",
+          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
+        },
+        {
+          "name": "Gable Price",
+          "url": "https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa"
         }
       ],
-      "duration_ms": 633462,
-      "name": "Too Good To Not Believe - Live",
-      "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
+      "duration_ms": 468274,
+      "name": "Homecoming - Live",
+      "url": "https://open.spotify.com/track/18Kt9lI9qQK5hUHtaIPOP2"
     },
     {
       "added_at": null,
@@ -699,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homecoming (Live)",
-        "url": "https://open.spotify.com/album/1lYaL9YlcMsLXXhmJMDrNL"
+        "name": "Too Good To Not Believe (Live)",
+        "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
       },
       "artists": [
         {
@@ -708,17 +712,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Cory Asbury",
-          "url": "https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU"
-        },
-        {
-          "name": "Gable Price",
-          "url": "https://open.spotify.com/artist/2X5RuQR8hFFPlPjMPLzrKa"
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
         }
       ],
-      "duration_ms": 468274,
-      "name": "Homecoming - Live",
-      "url": "https://open.spotify.com/track/18Kt9lI9qQK5hUHtaIPOP2"
+      "duration_ms": 633462,
+      "name": "Too Good To Not Believe - Live",
+      "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
     },
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+        "name": "Revival's In The Air (Live)",
+        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
       },
       "artists": [
         {
@@ -752,13 +752,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+          "name": "Paul McClure",
+          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
         }
       ],
-      "duration_ms": 294280,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
+      "duration_ms": 347566,
+      "name": "Reign Above It All - Live",
+      "url": "https://open.spotify.com/track/1zhp0SM5CkGUdoCFagzVPe"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revival's In The Air (Live)",
-        "url": "https://open.spotify.com/album/1t2YSGGRvSaf1zHE0cfjr2"
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
       },
       "artists": [
         {
@@ -796,13 +796,13 @@
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
         },
         {
-          "name": "Paul McClure",
-          "url": "https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz"
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
         }
       ],
-      "duration_ms": 347566,
-      "name": "Reign Above It All - Live",
-      "url": "https://open.spotify.com/track/1zhp0SM5CkGUdoCFagzVPe"
+      "duration_ms": 294280,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
     },
     {
       "added_at": null,
@@ -959,18 +959,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Words: Synesthesia",
-        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
+        "name": "Death Is Hollow",
+        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Kristene DiMarco",
+          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 79706,
-      "name": "Isabelline (Interlude)",
-      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
+      "duration_ms": 519288,
+      "name": "Death Is Hollow (Live)",
+      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
     },
     {
       "added_at": null,
@@ -995,22 +999,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Death Is Hollow",
-        "url": "https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg"
+        "name": "Without Words: Synesthesia",
+        "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Kristene DiMarco",
-          "url": "https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8"
         }
       ],
-      "duration_ms": 519288,
-      "name": "Death Is Hollow (Live)",
-      "url": "https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo"
+      "duration_ms": 79706,
+      "name": "Isabelline (Interlude)",
+      "url": "https://open.spotify.com/track/5vSIZDCn7bVFuEFB6DKmFX"
     },
     {
       "added_at": null,

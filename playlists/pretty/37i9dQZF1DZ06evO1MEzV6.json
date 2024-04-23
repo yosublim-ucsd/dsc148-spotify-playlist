@@ -1,12 +1,12 @@
 {
   "description": "This is beabadoobee. The essential tracks, all in one playlist.",
-  "num_followers": 79890,
+  "num_followers": 79924,
   "original_name": "This Is beabadoobee",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGU3NjQ1MzJiZTk0ZGE2NDFiZTQ2MTQxMDYyN2U2MThj",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDY3MTIyNmJmZjI2YTk2OGRiYmZlMzA5Njk2MzM1Zjg0",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,26 @@
       "duration_ms": 135066,
       "name": "Glue Song",
       "url": "https://open.spotify.com/track/3iBgrkexCzVuPy4O9vx7Mf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "death bed (coffee for your head)",
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc"
+      },
+      "artists": [
+        {
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "death bed (coffee for your head)",
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
     },
     {
       "added_at": null,
@@ -551,26 +571,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
-        "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
+        "name": "Patched Up",
+        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
       "artists": [
-        {
-          "name": "Mac Wetha",
-          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
-        },
-        {
-          "name": "Amin\u00e9",
-          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
-        },
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 131215,
-      "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
-      "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
+      "duration_ms": 255021,
+      "name": "The Way I Spoke",
+      "url": "https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz"
     },
     {
       "added_at": null,
@@ -623,18 +635,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Patched Up",
-        "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
+        "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+        "url": "https://open.spotify.com/album/17RkZnWlgVY355jiCG8m1e"
       },
       "artists": [
+        {
+          "name": "Mac Wetha",
+          "url": "https://open.spotify.com/artist/4q1qItmjb9INKQM0F82StP"
+        },
+        {
+          "name": "Amin\u00e9",
+          "url": "https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ"
+        },
         {
           "name": "beabadoobee",
           "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 255021,
-      "name": "The Way I Spoke",
-      "url": "https://open.spotify.com/track/4NuAQGfKJhrJnTtBSMNrtz"
+      "duration_ms": 131215,
+      "name": "Fear Of Flying (feat. Amin\u00e9 & beabadoobee)",
+      "url": "https://open.spotify.com/track/1Y4TOUS7R9DShEApDbb8Xm"
     },
     {
       "added_at": null,

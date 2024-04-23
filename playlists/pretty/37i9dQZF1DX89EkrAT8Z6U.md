@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 
 > The perfect mixtape for an anime fight scene\. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,055,404 likes - 75 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,056,326 likes - 75 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,9 +15,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 5 | [Limbo](https://open.spotify.com/track/37F7E7BKEw2E4O2L7u0IEp) | [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [Freddie's Inferno](https://open.spotify.com/album/2ll6KONxe4F87GJku1ZZrl) | 2:49 |
 | 6 | [Step Back!](https://open.spotify.com/track/6jdwbcH788txYS6Doy1F1j) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [SXMPRA](https://open.spotify.com/artist/14uo609t1MvRGZcskySt9R) | [Step Back!](https://open.spotify.com/album/5bgXspdu04zFxX5gq8uXMl) | 2:30 |
 | 7 | [POPTHATRUNK](https://open.spotify.com/track/6FxxGoSCC9UaX8loeVwrcs) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [Freddie Dredd](https://open.spotify.com/artist/0dlDsD7y6ccmDm8tuWCU6F) | [POPTHATRUNK](https://open.spotify.com/album/0brdkkqwVS8Y4v4s3xCZ7S) | 2:13 |
-| 8 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 |
-| 9 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
-| 10 | [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 |
+| 8 | [HDMI](https://open.spotify.com/track/7I4ibsZgwuf46g0xHuTC8s) | [BONES](https://open.spotify.com/artist/5v2WhpA59TJSdPh7LCx1lN) | [Rotten](https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf) | 2:19 |
+| 9 | [Unbothered](https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [STOKELEY](https://open.spotify.com/album/0z0z4DcXhHiobX5ZKAw8Qn) | 2:18 |
+| 10 | [paranoia](https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj) | [KENTENSHI](https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j) | [paranoia](https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx) | 1:57 |
 | 11 | [Let U Go](https://open.spotify.com/track/40TZnaw4eDPChJNHw2Swf3) | [lucidbeatz](https://open.spotify.com/artist/4jEwTCIHu0hdDbamxScpou) | [Let U Go](https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR) | 2:08 |
 | 12 | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf) | [WET DREAMS \(w/ Nimstarr\)](https://open.spotify.com/album/4LXyWIoaWrDD2WeWrfDHmg) | 2:04 |
 | 13 | [Not Even Ghosts Are This Empty](https://open.spotify.com/track/7rzNKooM3JrKVT40fR22HI) | [$uicideboy$](https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0) | [I No Longer Fear The Razor Guarding My Heel \(V\)](https://open.spotify.com/album/5HV1423uFq5uNui7tZBBas) | 3:00 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89EkrAT8Z6U.md) - [plain]
 | 72 | [Hazbin Hotel \(Alastor\)](https://open.spotify.com/track/5odD3zy396AEVrtYSIcxOW) | [Daddyphatsnaps](https://open.spotify.com/artist/6xini6REf0CP8muuVvDa91), [OmarCameUp](https://open.spotify.com/artist/5p9aalXlIMSGKmey78Ah5v), [JT Music](https://open.spotify.com/artist/5qvrAlKjc0Sqrqz6v2wBGk) | [Hazbin Hotel \(Alastor\)](https://open.spotify.com/album/7rS5lhEZReBAAKaSn6HRJL) | 3:22 |
 | 73 | [Vito / Bad Boy](https://open.spotify.com/track/6jo3Sv2PWgX7oX2gSsvbI5) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Vito / Bad Boy](https://open.spotify.com/album/4IXrqCGVS85NcXevhpSuZy) | 2:32 |
 | 74 | [MAMBO](https://open.spotify.com/track/4U69c6x6vG2ULgUd6tRapG) | [DIRTYXAN](https://open.spotify.com/artist/5BEGUGWpPDPKXCgqubqnLB) | [MAMBO](https://open.spotify.com/album/2BTaK3AfGOQCHEy7ivSSw7) | 2:07 |
-| 75 | [BLACKED OUT](https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6) | [777villain](https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7) | [BLACKED OUT](https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ) | 2:13 |
+| 75 | [Nikes](https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT) | [Nimstarr](https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf), [kid toni](https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy) | [Nikes](https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn) | 2:19 |
 
 Snapshot ID: `MTcxMTEzMTUzNCwwMDAwMDAwMDY0YTIyN2NiYWJjYjBlYWEyNzJlMDM2MGI4YzcwNTkw`

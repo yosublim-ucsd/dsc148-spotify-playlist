@@ -1,6 +1,6 @@
 {
   "description": "From sultry vocalists, sexy divas to cutesy girl-groups, the women of K-Pop are a formidable force to be reckoned with. (Cover: BABYMONSTER) (\ucf00\uc774\ud31d\uc744 \ub300\ud45c\ud558\ub294 \ud55c\uad6d\uc758 \uc5ec\uc131 \uac00\uc218\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
-  "num_followers": 955955,
+  "num_followers": 955424,
   "original_name": "EQUAL K-Pop",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-04-16 05:54:16",
       "album": {
-        "name": "BETWEEN 1&2",
-        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 177466,
-      "name": "Talk that Talk",
-      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
-    },
-    {
-      "added_at": "2024-04-16 05:54:16",
-      "album": {
         "name": "Savage - The 1st Mini Album",
         "url": "https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 238143,
       "name": "Savage",
       "url": "https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36"
+    },
+    {
+      "added_at": "2024-04-16 05:54:16",
+      "album": {
+        "name": "BETWEEN 1&2",
+        "url": "https://open.spotify.com/album/3NZ94nQbqimcu2i71qhc4f"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 177466,
+      "name": "Talk that Talk",
+      "url": "https://open.spotify.com/track/0RDqNCRBGrSegk16Avfzuq"
     },
     {
       "added_at": "2024-04-16 05:54:16",
@@ -755,8 +755,8 @@
     {
       "added_at": "2024-04-16 05:54:16",
       "album": {
-        "name": "Chill Kill - The 3rd Album",
-        "url": "https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO"
+        "name": "Queendom - The 6th Mini Album",
+        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 214800,
-      "name": "Chill Kill",
-      "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
+      "duration_ms": 181760,
+      "name": "Queendom",
+      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
     },
     {
       "added_at": "2024-04-16 05:54:16",
@@ -891,8 +891,8 @@
     {
       "added_at": "2024-04-16 05:54:16",
       "album": {
-        "name": "Queendom - The 6th Mini Album",
-        "url": "https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV"
+        "name": "Chill Kill - The 3rd Album",
+        "url": "https://open.spotify.com/album/4UUICitfodUVCNhzmDFbrO"
       },
       "artists": [
         {
@@ -900,9 +900,9 @@
           "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         }
       ],
-      "duration_ms": 181760,
-      "name": "Queendom",
-      "url": "https://open.spotify.com/track/6SpPr7K4YQ2wp8jU6uOTmQ"
+      "duration_ms": 214800,
+      "name": "Chill Kill",
+      "url": "https://open.spotify.com/track/68gQG2HpRMxIRom4pCugMq"
     },
     {
       "added_at": "2024-04-16 05:54:16",

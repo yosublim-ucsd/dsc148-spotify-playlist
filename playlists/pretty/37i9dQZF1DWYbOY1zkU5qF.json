@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 161301,
+  "num_followers": 161398,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK"
-      },
-      "artists": [
-        {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "El Microbito",
         "url": "https://open.spotify.com/album/1JNiJzyqgPtKD7xIBizamR"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 194874,
       "name": "El Microbito",
       "url": "https://open.spotify.com/track/3RZuoHtuX5ZJsqbAtJu8Cw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK"
+      },
+      "artists": [
+        {
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -623,22 +623,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Viral Hits, Vol. 1",
-        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
-      },
-      "artists": [
-        {
-          "name": "Reggaeton Ac\u00fastico",
-          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Bailame",
-      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Covers, Vol. 2",
         "url": "https://open.spotify.com/album/6KMPmqSSPMWe8HImn6q4S5"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 149292,
       "name": "Esc\u00e1pate Conmigo",
       "url": "https://open.spotify.com/track/0OWuNa52w8ZqQo0pBGdDAL"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Viral Hits, Vol. 1",
+        "url": "https://open.spotify.com/album/31JdJ3MW0AF5NWmLECQwnU"
+      },
+      "artists": [
+        {
+          "name": "Reggaeton Ac\u00fastico",
+          "url": "https://open.spotify.com/artist/2VG4iLloPFUXdzWZ9knh7c"
+        }
+      ],
+      "duration_ms": 215000,
+      "name": "Bailame",
+      "url": "https://open.spotify.com/track/2LCU2czGbhjboUOUjB9NUK"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Ahora Dice",
-        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
-      },
-      "artists": [
-        {
-          "name": "Alex Coppel",
-          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "Ahora Dice",
-      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Andar Conmigo",
         "url": "https://open.spotify.com/album/5ItestUQ48ki9aagEmthYn"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 238874,
       "name": "Andar Conmigo",
       "url": "https://open.spotify.com/track/5usKouO9EPZnbzztaZd9jw"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Ahora Dice",
+        "url": "https://open.spotify.com/album/2xB066cl8FPGnXxMQfB8JL"
+      },
+      "artists": [
+        {
+          "name": "Alex Coppel",
+          "url": "https://open.spotify.com/artist/1QBIsAL0onqKUjlO8Nl9IM"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "Ahora Dice",
+      "url": "https://open.spotify.com/track/08sswdOXk4nu7sYFIVU6f6"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Enam\u00f3rate de Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Enam\u00f3rate de Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Fin",
         "url": "https://open.spotify.com/album/1x2xsNNECv8DSisudpo0Nm"
       },
@@ -1199,18 +1183,18 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Pareja Del A\u00f1o",
-        "url": "https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf"
+        "name": "Enam\u00f3rate de Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
       },
       "artists": [
         {
-          "name": "Hermia Morillo",
-          "url": "https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4"
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
         }
       ],
-      "duration_ms": 248028,
-      "name": "Pareja Del A\u00f1o",
-      "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
+      "duration_ms": 166000,
+      "name": "Enam\u00f3rate de Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1227,6 +1211,22 @@
       "duration_ms": 284332,
       "name": "Asi Es La Vida",
       "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Pareja Del A\u00f1o",
+        "url": "https://open.spotify.com/album/2D7ZcpIFrswCFzPsU72gAf"
+      },
+      "artists": [
+        {
+          "name": "Hermia Morillo",
+          "url": "https://open.spotify.com/artist/4i0yEZXVjUar6mABs3PTP4"
+        }
+      ],
+      "duration_ms": 248028,
+      "name": "Pareja Del A\u00f1o",
+      "url": "https://open.spotify.com/track/1N61SM8vfZG5T1X6A30a4P"
     },
     {
       "added_at": "2022-02-18 06:00:00",

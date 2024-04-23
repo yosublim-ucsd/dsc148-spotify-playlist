@@ -1,12 +1,12 @@
 {
-  "description": "This is Julia Vit\u00f3ria. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 18853,
+  "description": "This is Julia Vit\u00f3ria. The essential tracks, all in one playlist.",
+  "num_followers": 18863,
   "original_name": "This Is Julia Vit\u00f3ria",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGFkNmM5MzdmYzk0ZmFiN2JhZmI4NTExOWM0Y2VmZWJh",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGVkMGE4OTk1M2ViY2Y0OTIwOGVlM2VhODM0OTIwMjJm",
   "tracks": [
     {
       "added_at": null,
@@ -203,22 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Outra Vez",
-        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 304400,
-      "name": "Outra Vez",
-      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Mais Escravos",
         "url": "https://open.spotify.com/album/0a55Mn7ktMRBPR1DIeynSG"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 312386,
       "name": "N\u00e3o Mais Escravos",
       "url": "https://open.spotify.com/track/4MtBvzWwKji4Of7qDp9EaN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Outra Vez",
+        "url": "https://open.spotify.com/album/7ACwaHel0Oo9kV0fDcG2H8"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 304400,
+      "name": "Outra Vez",
+      "url": "https://open.spotify.com/track/4tjvxMkJlHPPJ2hRDU2jYg"
     },
     {
       "added_at": null,
@@ -791,6 +791,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hambre Y Sed",
+        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
+      },
+      "artists": [
+        {
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
+        }
+      ],
+      "duration_ms": 361826,
+      "name": "Hambre Y Sed",
+      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "H\u00e1 Liberdade Aqui (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Xq6YRLfMecGOPpnqAtSQn"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 568958,
       "name": "H\u00e1 Liberdade Aqui - Ao Vivo",
       "url": "https://open.spotify.com/track/3WHjFJeiSro6DQ35p7OpHk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hambre Y Sed",
-        "url": "https://open.spotify.com/album/39B0NsZrMpotIGetBEWNPB"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        }
-      ],
-      "duration_ms": 361826,
-      "name": "Hambre Y Sed",
-      "url": "https://open.spotify.com/track/4uMXCCRjkxvw0M8qhbtmtp"
     },
     {
       "added_at": null,

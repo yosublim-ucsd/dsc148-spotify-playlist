@@ -4,7 +4,7 @@
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-87 songs - 8 hr 13 min
+88 songs - 8 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [God So Loved \- Live](https://open.spotify.com/track/0f0BtT5yPDxiAwlO9JqJ6s) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 7:07 | 2022-09-14 | 2024-03-22 |
 | [God's About To Do It \- Live](https://open.spotify.com/track/6o2nGV8dMKZW3uLx40liV6) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 2:11 | 2022-10-07 |  |
 | [God’s Been Good \- Live](https://open.spotify.com/track/2NvFKpZ6ECBe3wkSfvNS9K) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 5:58 | 2022-09-14 | 2022-10-08 |
-| [Gotta Believe](https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Gotta Believe](https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv) | 2:50 | 2022-09-14 |  |
+| [Gotta Believe](https://open.spotify.com/track/6XQnntAqVSQkcaBQP7HIJO) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Gotta Believe](https://open.spotify.com/album/0oS2D0IgnyGkkaUVmdJ1Dv) | 2:50 | 2022-09-14 | 2024-04-23 |
 | [Grace \- Live](https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Grace \(Live/Deluxe\)](https://open.spotify.com/album/1x6hrh2j50CCOozAmvc9I5) | 6:09 | 2022-09-14 |  |
 | [Gracefully Broken](https://open.spotify.com/track/3TMFxaCtDbBGi0UeGH2dzc) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Glory Song](https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo) | 5:50 | 2022-09-14 |  |
 | [Gracefully Broken](https://open.spotify.com/track/7ILH9xthuxo4i4bTXpwDcZ) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 6:16 | 2022-09-14 |  |
@@ -43,6 +43,7 @@
 | [I Will Follow](https://open.spotify.com/track/38mSgdGYO8FIcunxWbkTqh) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit\. \(Deluxe\)](https://open.spotify.com/album/7BQ2sFd1DNrETEw8xXPUHG) | 5:33 | 2022-09-14 | 2022-10-14 |
 | [I'm Free \- Live](https://open.spotify.com/track/5GYogyslF0t1JkhCDv0UE0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 0:54 | 2024-01-25 |  |
 | [I'm Getting Ready](https://open.spotify.com/track/5RjS5iW0FWn1U4ZaWjhLlP) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Heart\. Passion\. Pursuit.](https://open.spotify.com/album/39UpQWkYwByspw53CTZDis) | 8:26 | 2022-09-14 |  |
+| [I've Been Waiting \- Live](https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Purpose Worship](https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH) | [Believe \(Live\)](https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4) | 7:08 | 2024-04-23 |  |
 | [Immediately \- Live](https://open.spotify.com/track/4QnWMxwAkc9V2OlVPjG5mI) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [One Place Live](https://open.spotify.com/album/0Ki9jp3paaKiamzDDHuoyb) | 5:11 | 2022-09-14 | 2022-10-15 |
 | [In Spite Of Me](https://open.spotify.com/track/14jIX5rmoUWVPBNq3Q72J8) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Royalty: Live At The Ryman](https://open.spotify.com/album/66hDxNOJJd54OLzt79Uvef) | 5:46 | 2022-09-14 |  |
 | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/track/6CDRgl9dpXRV8yaUPi931k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [In The Room \(feat\. Tasha Cobbs Leonard\)](https://open.spotify.com/album/5i1NR3jkUECMwEgABF0iSS) | 9:57 | 2023-11-10 |  |

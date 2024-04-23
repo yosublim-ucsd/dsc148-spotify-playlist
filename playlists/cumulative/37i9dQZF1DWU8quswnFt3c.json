@@ -11130,7 +11130,7 @@
       ],
       "date_added": "2023-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 131872,
       "name": "greedy",
       "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
@@ -14394,6 +14394,24 @@
       "duration_ms": 196164,
       "name": "Kimseye Etmem \u015eikayet",
       "url": "https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb"
+    },
+    {
+      "album": {
+        "name": "Atlanta Millionaires Club",
+        "url": "https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4"
+      },
+      "artists": [
+        {
+          "name": "Faye Webster",
+          "url": "https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202160,
+      "name": "Kingston",
+      "url": "https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg"
     },
     {
       "album": {
@@ -19026,6 +19044,24 @@
       "duration_ms": 194906,
       "name": "Motinha",
       "url": "https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR"
+    },
+    {
+      "album": {
+        "name": "Mountains",
+        "url": "https://open.spotify.com/album/251uvmlPX4D3UiH4zGtj66"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "date_added": "2024-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248135,
+      "name": "Mountains",
+      "url": "https://open.spotify.com/track/0w0kClmKsQz5A6OecdwhVt"
     },
     {
       "album": {
@@ -28768,7 +28804,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 209487,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"

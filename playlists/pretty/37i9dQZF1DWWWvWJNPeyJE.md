@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 
 > Let’s get it on....
 
-[Spotify](https://open.spotify.com/user/spotify) - 302,651 likes - 80 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 302,685 likes - 80 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 31 | [Risk It All \(feat\. Tory Lanez\)](https://open.spotify.com/track/7ncVTZ86MJQZK1FuW4hWLs) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [King of R&B](https://open.spotify.com/album/4OloUHZpVVLawhX0DpBSrW) | 3:26 |
 | 32 | [Morning](https://open.spotify.com/track/2E6S3NgbSG9NYwbdi6rWYB) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Morning](https://open.spotify.com/album/65Jg9mmsgao1JJizzRt7em) | 4:13 |
 | 33 | [Dance Like We're Making Love](https://open.spotify.com/track/3biFdxByHgUhTbp2dG89zK) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:16 |
-| 34 | [Don't](https://open.spotify.com/track/7lxWzjZCSkXndL8eYKfFWU) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Don't](https://open.spotify.com/album/33QmlmdmJnFBkKgRKXh0SJ) | 3:20 |
-| 35 | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa) | 4:30 |
+| 34 | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/track/2dDCkXBbVDI4YR21lrQRK6) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [How Many Drinks? \(feat\. Kendrick Lamar\)](https://open.spotify.com/album/06ueBR3xyEH7vWPBx8ZCVa) | 4:30 |
+| 35 | [Don't](https://open.spotify.com/track/7lxWzjZCSkXndL8eYKfFWU) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Don't](https://open.spotify.com/album/33QmlmdmJnFBkKgRKXh0SJ) | 3:20 |
 | 36 | [Stand Still](https://open.spotify.com/track/66H06L8hktjhduwRDWntDT) | [Sabrina Claudio](https://open.spotify.com/artist/30DhU7BDmF4PH0JVhu8ZRg) | [About Time](https://open.spotify.com/album/2ICdqEf91Kc9FwdlLtB748) | 4:43 |
 | 37 | [Skin](https://open.spotify.com/track/62YAKv9ak7mxrNRdhe7Pe9) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Loud](https://open.spotify.com/album/6UHhmTLl9T1scRYLmpHcDX) | 5:03 |
 | 38 | [Girl Of My Dreams](https://open.spotify.com/track/5I9JpRapHDULuFxOqkjP5m) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo](https://open.spotify.com/album/1BfLzaTFI5qKsAAk0Ae6aV) | 3:22 |
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWWvWJNPeyJE.md) - [plain]
 | 62 | [F With U \(feat\. Ty Dolla $ign\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/2kHdu1N31NkD5roBf1EHh7) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [F With U \(feat\. Ty Dolla $ign\) \(feat\. Ty Dolla $ign\)](https://open.spotify.com/album/6d2MsVWqoCbMWCKiHtDE2r) | 2:59 |
 | 63 | [Waiting for You](https://open.spotify.com/track/3PgmQl12KXQofJDeBROKcU) | [Rexx Life Raj](https://open.spotify.com/artist/5rDXcEIODl8TgGTgrntnjX), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [Waiting for You](https://open.spotify.com/album/14md98nP3ELQss8GguD6dt) | 3:31 |
 | 64 | [Body](https://open.spotify.com/track/5PNa1MjGan22iWil3F4zv6) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx) | [Body](https://open.spotify.com/album/4Q4lurjRENDP1VOEfww9Im) | 4:22 |
-| 65 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/1CkNm4gprWnFCdiHGoql5C) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/album/3dEOPmRGGZF1g9OOd3wvs2) | 3:39 |
-| 66 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
+| 65 | [Drowning](https://open.spotify.com/track/28YJsoMPLIiUxtZqxVigbU) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Drowning](https://open.spotify.com/album/0Go0XvWfgTRs2I1ytu7TPy) | 3:38 |
+| 66 | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/track/1CkNm4gprWnFCdiHGoql5C) | [TK Kravitz](https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ) | [Ocean \(feat\. Jacquees\)](https://open.spotify.com/album/3dEOPmRGGZF1g9OOd3wvs2) | 3:39 |
 | 67 | [Love Controversy, Pt\. 1](https://open.spotify.com/track/65vHeUg08NqpNjgp4J78Th) | [Loose Ends](https://open.spotify.com/artist/4q3lWHEW55hoLJNzZskFVo), [Sunay Suleyman](https://open.spotify.com/artist/5XOt8DizAeCLP92Y1l8BHp) | [Look How Long](https://open.spotify.com/album/0ObU1HpJzqahdHUy7qbN6F) | 3:29 |
 | 68 | [Easy \(feat\. 6LACK\)](https://open.spotify.com/track/5iBO5vBRL92ytdwgZCjydX) | [Next Town Down](https://open.spotify.com/artist/2jJCk4fs0irQjjrG0Yo4I9), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [Easy \(feat\. 6LACK\)](https://open.spotify.com/album/3EZ0ulSjw5p5jX7od6ASxb) | 3:24 |
 | 69 | [Lessons in Love](https://open.spotify.com/track/4JVdfd11wMY1yOXblCTskJ) | [TGT](https://open.spotify.com/artist/1lEXbUjKjHQ7uc9jFfEViJ) | [Three Kings](https://open.spotify.com/album/4q9nPVz5Nt6KEqtcxk6SI8) | 3:53 |

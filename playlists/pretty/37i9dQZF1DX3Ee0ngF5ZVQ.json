@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 413094,
+  "num_followers": 412798,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "duration_ms": 204141,
+      "name": "Stay",
+      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "That's What Makes the World Go Around",
         "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 197861,
       "name": "That's What Makes The World Go Around",
       "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/4j8zbgOMEK1MdNCMfZFBhg"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 204141,
-      "name": "Stay",
-      "url": "https://open.spotify.com/track/37s7g1BDBh9n8dSF2iWBNd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -623,18 +623,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Tomorrow's Out Of Sight",
-        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
+        "name": "Turning Point",
+        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
       },
       "artists": [
         {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+          "name": "Josh Meloy",
+          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
         }
       ],
-      "duration_ms": 214252,
-      "name": "Tomorrow's Out Of Sight",
-      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
+      "duration_ms": 153125,
+      "name": "The Road",
+      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -659,18 +659,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Turning Point",
-        "url": "https://open.spotify.com/album/75OXnTQWuEJt4HTUgi6F21"
+        "name": "Tomorrow's Out Of Sight",
+        "url": "https://open.spotify.com/album/2fnlrAlHt9poTfrMSsUSCt"
       },
       "artists": [
         {
-          "name": "Josh Meloy",
-          "url": "https://open.spotify.com/artist/3EVsC9ZK7QMDuK4FPcZaEq"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 153125,
-      "name": "The Road",
-      "url": "https://open.spotify.com/track/3EwrObmGtZsR2ZWfgCnAN9"
+      "duration_ms": 214252,
+      "name": "Tomorrow's Out Of Sight",
+      "url": "https://open.spotify.com/track/37CikqHaMorBEZg3hRx9P8"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Malibu",
-        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
-      },
-      "artists": [
-        {
-          "name": "Ty Myers",
-          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
-        }
-      ],
-      "duration_ms": 219163,
-      "name": "Malibu",
-      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Show",
         "url": "https://open.spotify.com/album/4Is8rQeOG1SQeIK5feEhZ6"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 219481,
       "name": "Shines Through",
       "url": "https://open.spotify.com/track/2GrVTTzKbgxQcE4OrIqcHI"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Honky Tonk Halo",
+        "url": "https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ"
+      },
+      "artists": [
+        {
+          "name": "Mikayla Lane",
+          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+        }
+      ],
+      "duration_ms": 237013,
+      "name": "Honky Tonk Halo",
+      "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -831,18 +831,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Honky Tonk Halo",
-        "url": "https://open.spotify.com/album/5Vg9rREsvZv7Hi8X5JxMhQ"
+        "name": "Malibu",
+        "url": "https://open.spotify.com/album/2oagcp2i1TpX5QbKtqjWLa"
       },
       "artists": [
         {
-          "name": "Mikayla Lane",
-          "url": "https://open.spotify.com/artist/0O8sqn13OlGQfDAASHT2jl"
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
         }
       ],
-      "duration_ms": 237013,
-      "name": "Honky Tonk Halo",
-      "url": "https://open.spotify.com/track/1QnjAMD4pKP8vHmsgFMLW4"
+      "duration_ms": 219163,
+      "name": "Malibu",
+      "url": "https://open.spotify.com/track/2YYMlqyO7PXnq9qOADLN2m"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1207,18 +1207,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Rainin On Me",
-        "url": "https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt"
+        "name": "Learnin' my Lesson",
+        "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
       },
       "artists": [
         {
-          "name": "Wade Bowen",
-          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
+          "name": "The Wilder Blue",
+          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
+        },
+        {
+          "name": "Wes Bayliss",
+          "url": "https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f"
         }
       ],
-      "duration_ms": 252426,
-      "name": "Rainin On Me",
-      "url": "https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP"
+      "duration_ms": 187089,
+      "name": "Learnin' my Lesson",
+      "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1239,22 +1243,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Learnin' my Lesson",
-        "url": "https://open.spotify.com/album/7GUnsUVz27ZchZ7vmtm1Mn"
+        "name": "Rainin On Me",
+        "url": "https://open.spotify.com/album/4nExf5XzwhQFltAYmBUfbt"
       },
       "artists": [
         {
-          "name": "The Wilder Blue",
-          "url": "https://open.spotify.com/artist/5hewAzHE9nqxKYvSzqtVJD"
-        },
-        {
-          "name": "Wes Bayliss",
-          "url": "https://open.spotify.com/artist/4HVDdibCfau9ebwkNxDp0f"
+          "name": "Wade Bowen",
+          "url": "https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI"
         }
       ],
-      "duration_ms": 187089,
-      "name": "Learnin' my Lesson",
-      "url": "https://open.spotify.com/track/0BbB09Svr2wBTYERsUJ10b"
+      "duration_ms": 252426,
+      "name": "Rainin On Me",
+      "url": "https://open.spotify.com/track/4YmqhdQ3DJ3W6aK7Y1VBtP"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1403,26 +1403,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Kick A Little",
-        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
       },
       "artists": [
         {
-          "name": "Tracy Lawrence",
-          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
-        },
-        {
-          "name": "Rodney Carrington",
-          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
-        },
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
         }
       ],
-      "duration_ms": 227175,
-      "name": "Kick A Little",
-      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1443,18 +1435,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "Kick A Little",
+        "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "Tracy Lawrence",
+          "url": "https://open.spotify.com/artist/2BQVRw9md4UKcGUrDXABCD"
+        },
+        {
+          "name": "Rodney Carrington",
+          "url": "https://open.spotify.com/artist/7xsMZdxw6eEJXGTLZulONO"
+        },
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 227175,
+      "name": "Kick A Little",
+      "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1507,18 +1507,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Start over Somewhere",
-        "url": "https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc"
+        "name": "Settle for a Beer (with Triston Marez)",
+        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
       "artists": [
         {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Braxton Keith",
+          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
         }
       ],
-      "duration_ms": 246769,
-      "name": "Start over Somewhere",
-      "url": "https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP"
+      "duration_ms": 174327,
+      "name": "Settle for a Beer (with Triston Marez)",
+      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1539,22 +1543,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Settle for a Beer (with Triston Marez)",
-        "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
+        "name": "Start over Somewhere",
+        "url": "https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc"
       },
       "artists": [
         {
-          "name": "Triston Marez",
-          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
-        },
-        {
-          "name": "Braxton Keith",
-          "url": "https://open.spotify.com/artist/5JHw4x1RYIlwNfCq6FNXxf"
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
         }
       ],
-      "duration_ms": 174327,
-      "name": "Settle for a Beer (with Triston Marez)",
-      "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
+      "duration_ms": 246769,
+      "name": "Start over Somewhere",
+      "url": "https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "If I Had a Bar",
-        "url": "https://open.spotify.com/album/3xKfoEvSGdBlRIZ6GUT4Lf"
-      },
-      "artists": [
-        {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        }
-      ],
-      "duration_ms": 187116,
-      "name": "If I Had a Bar",
-      "url": "https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Your Bar Now",
         "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 214253,
       "name": "Your Bar Now",
       "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Turn It Down",
+        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
+      },
+      "artists": [
+        {
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+        }
+      ],
+      "duration_ms": 192643,
+      "name": "Turn It Down",
+      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Turn It Down",
-        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
-      },
-      "artists": [
-        {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Turn It Down",
-      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1719,18 +1703,38 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Richmond County Line",
-        "url": "https://open.spotify.com/album/5AFTEWjgI1kLPfdoHEauOR"
+        "name": "Cheating On A Memory, Chapter 3",
+        "url": "https://open.spotify.com/album/36DYqh63Xt8VWishLELknB"
       },
       "artists": [
         {
-          "name": "Wade Forster",
-          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+          "name": "The Lowdown Drifters",
+          "url": "https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG"
+        },
+        {
+          "name": "Taylor Hunnicutt",
+          "url": "https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp"
         }
       ],
-      "duration_ms": 221538,
-      "name": "Richmond County Line",
-      "url": "https://open.spotify.com/track/1qdlie6Hb1wzHTOyWJ4WBY"
+      "duration_ms": 235365,
+      "name": "Bring You Down",
+      "url": "https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "If I Had a Bar",
+        "url": "https://open.spotify.com/album/3xKfoEvSGdBlRIZ6GUT4Lf"
+      },
+      "artists": [
+        {
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
+        }
+      ],
+      "duration_ms": 187116,
+      "name": "If I Had a Bar",
+      "url": "https://open.spotify.com/track/6BGBFbs555m7u2yFRXWJey"
     }
   ],
   "unique_name": "Texas Country Now",

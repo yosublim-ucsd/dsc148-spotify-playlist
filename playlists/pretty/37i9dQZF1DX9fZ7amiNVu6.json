@@ -1,6 +1,6 @@
 {
   "description": "Kick back and enjoy these classic summer songs.",
-  "num_followers": 398786,
+  "num_followers": 398904,
   "original_name": "Feel Good Summer",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Second Helping (Expanded Edition)",
-        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
-      },
-      "artists": [
-        {
-          "name": "Lynyrd Skynyrd",
-          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
-        }
-      ],
-      "duration_ms": 283800,
-      "name": "Sweet Home Alabama",
-      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "The Temptations Sing Smokey",
         "url": "https://open.spotify.com/album/45tweuKI0zdh8zgKo05cTw"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 165000,
       "name": "My Girl",
       "url": "https://open.spotify.com/track/745H5CctFr12Mo7cqa1BMH"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Second Helping (Expanded Edition)",
+        "url": "https://open.spotify.com/album/54V1ljNtyzAm053oJqi0SH"
+      },
+      "artists": [
+        {
+          "name": "Lynyrd Skynyrd",
+          "url": "https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0"
+        }
+      ],
+      "duration_ms": 283800,
+      "name": "Sweet Home Alabama",
+      "url": "https://open.spotify.com/track/7e89621JPkKaeDSTQ3avtg"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
         "name": "Summer Breeze",
         "url": "https://open.spotify.com/album/16lsqxMjRUFOBo2jocsy1C"
       },
@@ -763,18 +779,18 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+        "name": "Moondance (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
       },
       "artists": [
         {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+      "duration_ms": 274040,
+      "name": "Moondance - 2013 Remaster",
+      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -795,22 +811,6 @@
       "duration_ms": 253333,
       "name": "Piece of My Heart",
       "url": "https://open.spotify.com/track/1xKQbqQtQWrtQS47fUJBtl"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
-        "name": "Moondance (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7diHYi0CglGJekoM3KaWBK"
-      },
-      "artists": [
-        {
-          "name": "Van Morrison",
-          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Moondance - 2013 Remaster",
-      "url": "https://open.spotify.com/track/683b4ikwa62JevCjwrmfg6"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
-      },
-      "artists": [
-        {
-          "name": "Carpenters",
-          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "Please Mr. Postman",
-      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Hums Of The Lovin' Spoonful",
         "url": "https://open.spotify.com/album/3enoBBhSA6i2pXEP8rjAWY"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 160306,
       "name": "Summer in the City - Remastered",
       "url": "https://open.spotify.com/track/7AzFID6u1b3zIWbd9pb8Dk"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/0ESCnyuOCpztPojn8m0uqi"
+      },
+      "artists": [
+        {
+          "name": "Carpenters",
+          "url": "https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "Please Mr. Postman",
+      "url": "https://open.spotify.com/track/74jZhGv0fdLaf9q8AZZ15k"
     },
     {
       "added_at": "2023-07-24 17:49:41",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2023-07-24 17:49:41",
       "album": {
-        "name": "Heat Wave",
-        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
-      },
-      "artists": [
-        {
-          "name": "Martha Reeves & The Vandellas",
-          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
-        }
-      ],
-      "duration_ms": 163053,
-      "name": "(Love Is Like A) Heat Wave",
-      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
-    },
-    {
-      "added_at": "2023-07-24 17:49:41",
-      "album": {
         "name": "Disraeli Gears",
         "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 250000,
       "name": "Sunshine Of Your Love",
       "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
+    },
+    {
+      "added_at": "2023-07-24 17:49:41",
+      "album": {
+        "name": "Heat Wave",
+        "url": "https://open.spotify.com/album/2GxwwKxtwDZkc9qX15YqKK"
+      },
+      "artists": [
+        {
+          "name": "Martha Reeves & The Vandellas",
+          "url": "https://open.spotify.com/artist/1Pe5hlKMCTULjosqZ6KanP"
+        }
+      ],
+      "duration_ms": 163053,
+      "name": "(Love Is Like A) Heat Wave",
+      "url": "https://open.spotify.com/track/3VgrSJEKBRT3xmwzpaxxEF"
     },
     {
       "added_at": "2023-07-24 17:49:41",

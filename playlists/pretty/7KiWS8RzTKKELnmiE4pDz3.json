@@ -6,7 +6,7 @@
     "name": "James Williams",
     "url": "https://open.spotify.com/user/imathieu32"
   },
-  "snapshot_id": "NzI4NCxkODI0YjU0NDgzOTBhNDBhNDBhOGYyOTZkMzUwZWIyMzUzY2Y5NWYz",
+  "snapshot_id": "NzI4Niw5MDRmMjQ4OTliNjE4ZjZlYjNlNjE2ODAxOTZkOWExZTMxYjk0Mzdj",
   "tracks": [
     {
       "added_at": "2022-09-26 20:53:27",
@@ -2511,6 +2511,38 @@
       "duration_ms": 115095,
       "name": "Treacherous",
       "url": "https://open.spotify.com/track/7zTuJaP8fvMWMy6DdkC9U5"
+    },
+    {
+      "added_at": "2024-04-22 13:59:39",
+      "album": {
+        "name": "You Will Never Know Why",
+        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "duration_ms": 425946,
+      "name": "Acting",
+      "url": "https://open.spotify.com/track/2IwL0fwckPbO9sau1EHslH"
+    },
+    {
+      "added_at": "2024-04-23 01:44:23",
+      "album": {
+        "name": "TOTEP",
+        "url": "https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "duration_ms": 126306,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231"
     }
   ],
   "unique_name": "main ",

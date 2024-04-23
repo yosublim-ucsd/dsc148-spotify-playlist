@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 1656781,
+  "2024-04-23": 1656419,
   "date_first_scraped": "2021-12-21",
   "description": "The perfect soundtrack to those long nights over dinner",
   "name": "Dinner with Friends",
@@ -1007,6 +1007,24 @@
       "duration_ms": 158359,
       "name": "Charmed",
       "url": "https://open.spotify.com/track/6DYLWAdxEJvwWmT7EkeDkX"
+    },
+    {
+      "album": {
+        "name": "Cherry On Top",
+        "url": "https://open.spotify.com/album/5xnwFUWAv18LZOUhAKkpGm"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254407,
+      "name": "Cherry On Top",
+      "url": "https://open.spotify.com/track/235lO0qJ7TO9lpDorTvegE"
     },
     {
       "album": {
@@ -2045,7 +2063,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 203247,
       "name": "Falling Asleep At The Wheel",
       "url": "https://open.spotify.com/track/5rqQv5jUcg58xsi1nuZDl9"
@@ -2975,6 +2993,24 @@
       "duration_ms": 157893,
       "name": "Helplessly Hoping - 2005 Remaster",
       "url": "https://open.spotify.com/track/1UKobFsdqNXQb8OthimCKe"
+    },
+    {
+      "album": {
+        "name": "HERicane",
+        "url": "https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1"
+      },
+      "artists": [
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227368,
+      "name": "HERicane",
+      "url": "https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY"
     },
     {
       "album": {
@@ -6891,7 +6927,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 180081,
       "name": "Waiting for God in the Garden",
       "url": "https://open.spotify.com/track/5kt5I9DFuzWlEFFjGhH1Cc"

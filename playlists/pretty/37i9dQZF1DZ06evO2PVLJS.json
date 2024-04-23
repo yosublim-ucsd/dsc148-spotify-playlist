@@ -1,12 +1,12 @@
 {
   "description": "This is Vicente Fern\u00e1ndez. The essential tracks, all in one playlist.",
-  "num_followers": 997306,
+  "num_followers": 996842,
   "original_name": "This Is Vicente Fern\u00e1ndez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDdmNzUxYzdjNTMwMjY1OGQwZDI0MjgxZGM5NDQ2ZDBi",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDIyZmIzZDk5MjQxMmFkMWYwYmFjMTc0MDQ1Y2QyODEx",
   "tracks": [
     {
       "added_at": null,
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 196253,
-      "name": "La Derrota",
-      "url": "https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU"
+      "duration_ms": 171000,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
     },
     {
       "added_at": null,
@@ -408,9 +408,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 171000,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/0uyVgmoXDbwS1ubv8AurVZ"
+      "duration_ms": 196253,
+      "name": "La Derrota",
+      "url": "https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU"
     },
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 203813,
-      "name": "Ya Me Voy para Siempre",
-      "url": "https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W"
+      "duration_ms": 186973,
+      "name": "El Tah\u00far",
+      "url": "https://open.spotify.com/track/1rxJGkbviNNz9UKWHXUJhg"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
         }
       ],
-      "duration_ms": 186973,
-      "name": "El Tah\u00far",
-      "url": "https://open.spotify.com/track/1rxJGkbviNNz9UKWHXUJhg"
+      "duration_ms": 203813,
+      "name": "Ya Me Voy para Siempre",
+      "url": "https://open.spotify.com/track/7CKDtdoxrQp0p7dWdIng2W"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Estatua De Marfil",
-        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 184426,
-      "name": "Nos Estorbo la Ropa",
-      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Si No Te Quisiera",
         "url": "https://open.spotify.com/album/1e3v7b33tm3jZfqNKSg5gT"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 189960,
       "name": "La Misma",
       "url": "https://open.spotify.com/track/6Fh3sBmdvUDb3pO8MjZBaW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Estatua De Marfil",
+        "url": "https://open.spotify.com/album/6dujkPGtA0MrnvMZ0MEZmu"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 184426,
+      "name": "Nos Estorbo la Ropa",
+      "url": "https://open.spotify.com/track/50WauvH7qWK3TeatWSrq2S"
     },
     {
       "added_at": null,
@@ -739,6 +739,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Tahur",
+        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 182746,
+      "name": "Cuando Yo Quer\u00eda Ser Grande",
+      "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mis Duetos",
         "url": "https://open.spotify.com/album/1jSkqqoREpC4oEERkILwAG"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 214213,
       "name": "Perd\u00f3n (with Alejandro Fern\u00e1ndez) - Remasterizado 2005",
       "url": "https://open.spotify.com/track/7yXN5WniQqoKxtFIRQeRkk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Tahur",
-        "url": "https://open.spotify.com/album/7DFIUkl2gT6b400CJltmJd"
-      },
-      "artists": [
-        {
-          "name": "Vicente Fern\u00e1ndez",
-          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
-        }
-      ],
-      "duration_ms": 182746,
-      "name": "Cuando Yo Quer\u00eda Ser Grande",
-      "url": "https://open.spotify.com/track/29JpPo9ex5jVm85PGBd8mv"
     },
     {
       "added_at": null,

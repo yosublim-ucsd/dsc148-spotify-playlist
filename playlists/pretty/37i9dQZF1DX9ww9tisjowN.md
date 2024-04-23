@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: DECO\*27
 
-[Spotify](https://open.spotify.com/user/spotify) - 339,640 likes - 75 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 339,856 likes - 75 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [ラビットホール](https://open.spotify.com/track/6CIQOFf01zQ9qJaqhD6rlH) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ラビットホール](https://open.spotify.com/album/6VlacW4pQH4G97p8vsOJNS) | 2:39 |
-| 2 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 |
+| 2 | [Tokyo Calling](https://open.spotify.com/track/4xeUmcISlgZUzFJKNIzw13) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Tokyo Calling](https://open.spotify.com/album/0tZdc6Y7Z8tmV3fT7kL0L7) | 3:11 |
 | 3 | [絶対零度](https://open.spotify.com/track/389rEslJY9vh7TZemIA4y7) | [natori](https://open.spotify.com/artist/6WmXWHmfBMhupyIs8MSqtu) | [絶対零度](https://open.spotify.com/album/4cAgsEZlaDdg3PSH3IAgEy) | 3:18 |
-| 4 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
-| 5 | [Biri\-Biri \- English Version](https://open.spotify.com/track/6f8RGfNa1cSk7I04vfFEQp) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:06 |
+| 4 | [Seventeen](https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but) | [YOASOBI](https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj) | [E\-SIDE 3](https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U) | 3:19 |
+| 5 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 |
 | 6 | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Bling\-Bang\-Bang\-Born](https://open.spotify.com/album/6M2PMiBa5zM37GQChwBHA6) | 2:48 |
-| 7 | [Tokyo Calling](https://open.spotify.com/track/4xeUmcISlgZUzFJKNIzw13) | [ATARASHII GAKKO!](https://open.spotify.com/artist/4OfU76YhPU04wlmbVFFgTJ) | [Tokyo Calling](https://open.spotify.com/album/0tZdc6Y7Z8tmV3fT7kL0L7) | 3:11 |
-| 8 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
+| 7 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
+| 8 | [ライラック](https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO) | [Mrs\. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9) | [ライラック](https://open.spotify.com/album/40CHqDtwO8xlI3Ns7sZZel) | 4:48 |
 | 9 | [地獄恋文](https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [地獄恋文](https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs) | 2:47 |
 | 10 | [NIGHT DANCER](https://open.spotify.com/track/348NF6vX0Yh22xvH0EZEro) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [NIGHT DANCER](https://open.spotify.com/album/0qbkekB04QYsLqCX68e8Oy) | 3:30 |
 | 11 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [どどんぱ](https://open.spotify.com/track/6OeQQeRIw82KWUvsCjtPrg) | [Kyary Pamyu Pamyu](https://open.spotify.com/artist/7Gh6fW49xfXLP8DTWaLVJP) | [キャンディーレーサー](https://open.spotify.com/album/1OxcfvSkYw5pD8Lv6zq5rf) | 4:37 |
 | 75 | [オーバールック](https://open.spotify.com/track/5ykdRyAaHly1N4svXvCuen) | [Chogakusei](https://open.spotify.com/artist/1o3K28VZiWLErDUMWD6xuo) | [MAR6LE](https://open.spotify.com/album/0j2cQ2x2FrEWBtFudO9l5v) | 2:52 |
 
-Snapshot ID: `MTcxMzQ1MjU5MywwMDAwMDAwMDg2ZGQwZWRkNWJkYWU4MjljNTE2NDQwMzhiMjQwNGRi`
+Snapshot ID: `MTcxMzgzODI4OSwwMDAwMDAwMDQ3NjRhNzg4NGY3ZDNiOGVmNzUzNDIwMGUyNzUxOTUy`

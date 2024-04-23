@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees from the 81st Golden Globe Awards. ",
-  "num_followers": 6349,
+  "num_followers": 6350,
   "original_name": "Golden Globes",
   "owner": {
     "name": "Spotify",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-12-19 16:37:32",
       "album": {
-        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 60983,
-      "name": "Science",
-      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
-    },
-    {
-      "added_at": "2023-12-19 16:37:32",
-      "album": {
         "name": "Dream Scenario (Original Motion Picture Score)",
         "url": "https://open.spotify.com/album/5NDIVLocg7KcHXRqMMHpR8"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 109248,
       "name": "I Wish This Was Real",
       "url": "https://open.spotify.com/track/7EuyxDSG25VWxaQg0DtOIV"
+    },
+    {
+      "added_at": "2023-12-19 16:37:32",
+      "album": {
+        "name": "Lessons In Chemistry: Season 1 (Apple Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/23xn7eZgOf41WYCfKj2LjP"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rafael Rivera",
+          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
+        }
+      ],
+      "duration_ms": 60983,
+      "name": "Science",
+      "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
     },
     {
       "added_at": "2023-12-19 16:37:32",

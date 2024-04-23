@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 8517,
+  "2024-04-23": 8516,
   "date_first_scraped": "2022-11-16",
   "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Bad Omens",
   "name": "Best New Songs Right Now",
@@ -5150,17 +5150,13 @@
     },
     {
       "album": {
-        "name": "In The Mean Time feat. Ash Costello of New Years Day",
+        "name": "In The Mean Time feat. Ash Costello",
         "url": "https://open.spotify.com/album/4gAuBOIXceqlOcf5ld730V"
       },
       "artists": [
         {
           "name": "Lacuna Coil",
           "url": "https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL"
-        },
-        {
-          "name": "Ash Costello",
-          "url": "https://open.spotify.com/artist/0PlJKkYgy1TSV15E2cHefn"
         },
         {
           "name": "New Years Day",
@@ -5171,7 +5167,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 213000,
-      "name": "In The Mean Time feat. Ash Costello of New Years Day",
+      "name": "In The Mean Time feat. Ash Costello",
       "url": "https://open.spotify.com/track/6DTbne2r9AyM2rNFTEUZvF"
     },
     {

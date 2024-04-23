@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 50560,
+  "num_followers": 50578,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -111,26 +111,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
-        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Vladimir Ashkenazy",
-          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
-        }
-      ],
-      "duration_ms": 77093,
-      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
-      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Johann Sebastian Bach",
         "url": "https://open.spotify.com/album/55XdhiY6nd3iij8msqiagR"
       },
@@ -147,6 +127,26 @@
       "duration_ms": 105853,
       "name": "Prelude & Fugue in D Major (Well-Tempered Clavier, Book I, No. 5), BWV 850: II. Fugue",
       "url": "https://open.spotify.com/track/3v1gviJrAtaIoLK41JSy8s"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: Das Wohltemperierte Klavier",
+        "url": "https://open.spotify.com/album/7Iq3gXQ76JdkYWlwtCgMUe"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Vladimir Ashkenazy",
+          "url": "https://open.spotify.com/artist/20iZXzMb8LoWXOeca32i82"
+        }
+      ],
+      "duration_ms": 77093,
+      "name": "Das Wohltemperierte Klavier: Book 1, BWV 846-869: Prelude in D minor BWV 851",
+      "url": "https://open.spotify.com/track/2Ubqa1PGRd6eJdAqXWFMTk"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -207,34 +207,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
-        "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Glenn Gould",
-          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
-        },
-        {
-          "name": "Columbia Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
-        },
-        {
-          "name": "Vladimir Golschmann",
-          "url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
-        }
-      ],
-      "duration_ms": 481160,
-      "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
-      "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -259,6 +231,34 @@
       "duration_ms": 187800,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
       "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Glenn Gould plays Bach: Piano Concertos Nos. 1 - 5 BWV 1052-1056 & No. 7 BWV 1058",
+        "url": "https://open.spotify.com/album/14rnDYdD1OCvTh9lSvodMK"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Glenn Gould",
+          "url": "https://open.spotify.com/artist/13dkPjqmbcchm8cXjEJQeP"
+        },
+        {
+          "name": "Columbia Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/1iNPygduJOu0JnzasoDVLE"
+        },
+        {
+          "name": "Vladimir Golschmann",
+          "url": "https://open.spotify.com/artist/3i9zo6m90f9mokNIXqCu0M"
+        }
+      ],
+      "duration_ms": 481160,
+      "name": "Keyboard Concerto No. 2 in E Major, BWV 1053: I. ?",
+      "url": "https://open.spotify.com/track/0qw5GdovyXGf6tK4RGIUNZ"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -351,6 +351,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "Bach: Keyboard Partitas Nos. 1-6",
+        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "duration_ms": 389706,
+      "name": "V. Sarabande",
+      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach: Keyboard Concertos & Italian Concerto",
         "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
       },
@@ -391,26 +411,6 @@
       "duration_ms": 233600,
       "name": "The Well-Tempered Clavier, Book 1, BWV 846-869: Prelude and Fugue in G Major, BWV 860",
       "url": "https://open.spotify.com/track/7GU7PgBdIvkPIhRGl4ghjp"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach: Keyboard Partitas Nos. 1-6",
-        "url": "https://open.spotify.com/album/2iIKZ5XSR7wYf6ASeMHK76"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Igor Levit",
-          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
-        }
-      ],
-      "duration_ms": 389706,
-      "name": "V. Sarabande",
-      "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -867,26 +867,6 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
-        "name": "BACH, J.S.: Inventions and Sinfonias, BWV 772-801",
-        "url": "https://open.spotify.com/album/6NKUJBfSBEwYFG33nSZff7"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 121333,
-      "name": "2-Part Inventions, BWV 772-786: Invention No. 2 in C Minor, BWV 773",
-      "url": "https://open.spotify.com/track/4dPPzgthDMeA9VRX0wemXa"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
         "name": "Bach: Partitas Nos. 5-6, Bwv 829-830",
         "url": "https://open.spotify.com/album/0t9vwhgZqm6IR7BHNkbQIu"
       },
@@ -907,6 +887,26 @@
     {
       "added_at": "2022-08-19 10:45:11",
       "album": {
+        "name": "BACH, J.S.: Inventions and Sinfonias, BWV 772-801",
+        "url": "https://open.spotify.com/album/6NKUJBfSBEwYFG33nSZff7"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 121333,
+      "name": "2-Part Inventions, BWV 772-786: Invention No. 2 in C Minor, BWV 773",
+      "url": "https://open.spotify.com/track/4dPPzgthDMeA9VRX0wemXa"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
         "name": "Bach, J.S.: Inventions and Sinfonias, Bwv 772-801 / Anna Magdalena's Notebook (Fragments)",
         "url": "https://open.spotify.com/album/0wsvDKL2xbeICH9Dtq2JiT"
       },
@@ -923,6 +923,26 @@
       "duration_ms": 50306,
       "name": "Notenb\u00fcchlein vor Anna Magdalena Bach, Book 2: Minuet in D Minor, BWV Anh. II 132",
       "url": "https://open.spotify.com/track/6JQS0WHXfzAvucIP9aKh1I"
+    },
+    {
+      "added_at": "2022-08-19 10:45:11",
+      "album": {
+        "name": "Bach, J.S.: From the W.F. Bach Notebook / 5 Little Preludes",
+        "url": "https://open.spotify.com/album/19gnuK981Yc1UZd8lCQbqy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Wolfgang R\u00fcbsam",
+          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
+        }
+      ],
+      "duration_ms": 67573,
+      "name": "Clavier-B\u00fcchlein vor W.F. Bach: Prelude in C Major, BWV 924",
+      "url": "https://open.spotify.com/track/19oVMQO42RtwyLaNGaiL5Y"
     },
     {
       "added_at": "2022-08-19 10:45:11",
@@ -955,26 +975,6 @@
       "duration_ms": 285466,
       "name": "Concerto for 2 Keyboards in C Minor, BWV 1060: I. Allegro",
       "url": "https://open.spotify.com/track/3vdM9Ob6K2hFoYBD2vikkl"
-    },
-    {
-      "added_at": "2022-08-19 10:45:11",
-      "album": {
-        "name": "Bach, J.S.: From the W.F. Bach Notebook / 5 Little Preludes",
-        "url": "https://open.spotify.com/album/19gnuK981Yc1UZd8lCQbqy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Wolfgang R\u00fcbsam",
-          "url": "https://open.spotify.com/artist/5w4SswA2oIU6HUuq0xreQj"
-        }
-      ],
-      "duration_ms": 67573,
-      "name": "Clavier-B\u00fcchlein vor W.F. Bach: Prelude in C Major, BWV 924",
-      "url": "https://open.spotify.com/track/19oVMQO42RtwyLaNGaiL5Y"
     }
   ],
   "unique_name": "Bach Piano",

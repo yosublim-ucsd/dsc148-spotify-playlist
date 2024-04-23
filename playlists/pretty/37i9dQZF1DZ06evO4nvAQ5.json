@@ -1,12 +1,12 @@
 {
   "description": "This is J Boog. The essential tracks, all in one playlist.",
-  "num_followers": 13928,
+  "num_followers": 13930,
   "original_name": "This Is J Boog",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGE5MTEzODA5MGRhOTc1ZmQ1Njk3ZTNjZTg4MTRhNjI3",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGRlOGUzZThkOTFiMjdhMjgyYmZiOWM4ZTBhODE3YjM1",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Wash House Ting",
+        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Let Me Love You",
+      "url": "https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Amid the Noise and Haste",
         "url": "https://open.spotify.com/album/3PPShSOyJlk6lG6BheUqCe"
       },
@@ -371,34 +387,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wash House Ting",
-        "url": "https://open.spotify.com/album/1vvWNmE4sucY3u3xd25SbK"
+        "name": "Smoking Bomb Bud",
+        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 208586,
-      "name": "Let Me Love You",
-      "url": "https://open.spotify.com/track/5wN7FwXj5SujmvTPkWwdbn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hear Me Roar",
-        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
-      },
-      "artists": [
+        },
         {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+          "name": "Fiji",
+          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 192168,
-      "name": "Hear Me Roar",
-      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
+      "duration_ms": 216967,
+      "name": "Smoking Bomb Bud",
+      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
     },
     {
       "added_at": null,
@@ -423,22 +427,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Smoking Bomb Bud",
-        "url": "https://open.spotify.com/album/5nnejNpcW9HNght3spNqYh"
+        "name": "Hear Me Roar",
+        "url": "https://open.spotify.com/album/4sJryrOLwDCYOQo5lJhrGo"
       },
       "artists": [
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Fiji",
-          "url": "https://open.spotify.com/artist/0DAaoRtoM8z0DHIhIzP4mJ"
         }
       ],
-      "duration_ms": 216967,
-      "name": "Smoking Bomb Bud",
-      "url": "https://open.spotify.com/track/618CpFCQ6R3i4jPlyTvspX"
+      "duration_ms": 192168,
+      "name": "Hear Me Roar",
+      "url": "https://open.spotify.com/track/5GV0IvqS6OYhSFSWfIY3GP"
     },
     {
       "added_at": null,
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 205013,
-      "name": "So Far Gone",
-      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
+      "duration_ms": 217360,
+      "name": "Police and Theives",
+      "url": "https://open.spotify.com/track/4C7ywbJNrB81ZYmKnPOj6S"
     },
     {
       "added_at": null,
@@ -714,11 +714,15 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Chaka Demus",
+          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 242333,
-      "name": "Rose Petals",
-      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
+      "duration_ms": 221666,
+      "name": "Good Cry (feat. Chaka Demus)",
+      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
     },
     {
       "added_at": null,
@@ -768,9 +772,9 @@
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
         }
       ],
-      "duration_ms": 217360,
-      "name": "Police and Theives",
-      "url": "https://open.spotify.com/track/4C7ywbJNrB81ZYmKnPOj6S"
+      "duration_ms": 205013,
+      "name": "So Far Gone",
+      "url": "https://open.spotify.com/track/6xBKN3i1QxWm8HytXaEHek"
     },
     {
       "added_at": null,
@@ -782,15 +786,11 @@
         {
           "name": "J Boog",
           "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Chaka Demus",
-          "url": "https://open.spotify.com/artist/6QCdkfa2WZToHCUZs1ZiYN"
         }
       ],
-      "duration_ms": 221666,
-      "name": "Good Cry (feat. Chaka Demus)",
-      "url": "https://open.spotify.com/track/5dwNgWoqKuGiULtMKILzKz"
+      "duration_ms": 242333,
+      "name": "Rose Petals",
+      "url": "https://open.spotify.com/track/5sRU1kj32aljCtja0KgRxH"
     },
     {
       "added_at": null,
@@ -807,46 +807,6 @@
       "duration_ms": 163977,
       "name": "Pennies From Heaven",
       "url": "https://open.spotify.com/track/4HVqLcIwCcmSCprLVPYrqW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Feelings (with J Boog & Gyptian)",
-        "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
-      },
-      "artists": [
-        {
-          "name": "The Green",
-          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
-        },
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        },
-        {
-          "name": "Gyptian",
-          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
-        }
-      ],
-      "duration_ms": 194731,
-      "name": "Feelings (with J Boog & Gyptian)",
-      "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "J Boog - EP",
-        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
-      },
-      "artists": [
-        {
-          "name": "J Boog",
-          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
-        }
-      ],
-      "duration_ms": 192740,
-      "name": "Coldest Zone",
-      "url": "https://open.spotify.com/track/3m5kR0GClMpR7gLc1ZZC2S"
     },
     {
       "added_at": null,
@@ -871,6 +831,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "J Boog - EP",
+        "url": "https://open.spotify.com/album/1mBSbSCwjpqInxijkFk06d"
+      },
+      "artists": [
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        }
+      ],
+      "duration_ms": 192740,
+      "name": "Coldest Zone",
+      "url": "https://open.spotify.com/track/3m5kR0GClMpR7gLc1ZZC2S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Just You & Me",
         "url": "https://open.spotify.com/album/1EuNhtoquIDqOAyklcyYtl"
       },
@@ -887,6 +863,30 @@
       "duration_ms": 205254,
       "name": "Just You & Me (with J Boog)",
       "url": "https://open.spotify.com/track/6ok5cwOYSskmwzfJ2Uay6q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feelings (with J Boog & Gyptian)",
+        "url": "https://open.spotify.com/album/0qwr73RDAt6DloQiEuljUS"
+      },
+      "artists": [
+        {
+          "name": "The Green",
+          "url": "https://open.spotify.com/artist/5RkXaPxdZ8L7ERNgDZXlKh"
+        },
+        {
+          "name": "J Boog",
+          "url": "https://open.spotify.com/artist/7oEWmZ9dKlAVxTgmjUbYr4"
+        },
+        {
+          "name": "Gyptian",
+          "url": "https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi"
+        }
+      ],
+      "duration_ms": 194731,
+      "name": "Feelings (with J Boog & Gyptian)",
+      "url": "https://open.spotify.com/track/05LWBvN1FeUHot4CdIowmL"
     },
     {
       "added_at": null,

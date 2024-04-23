@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 722804,
+  "num_followers": 722494,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Far from Home",
+        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
+      },
+      "artists": [
+        {
+          "name": "Aubrie Sellers",
+          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
+        }
+      ],
+      "duration_ms": 187253,
+      "name": "Far From Home",
+      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Small Town Hypocrite",
         "url": "https://open.spotify.com/album/19Rq07L8SBNeIWRQqFLkiT"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 241899,
       "name": "Small Town Hypocrite",
       "url": "https://open.spotify.com/track/7Bpivl6q9y2FgSp1nr5MZ8"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Far from Home",
-        "url": "https://open.spotify.com/album/6EgZXWhzIYtXFo1vhKg5Ch"
-      },
-      "artists": [
-        {
-          "name": "Aubrie Sellers",
-          "url": "https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u"
-        }
-      ],
-      "duration_ms": 187253,
-      "name": "Far From Home",
-      "url": "https://open.spotify.com/track/54tkmrvf1ejo3ejAHuVgq1"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "ballerini",
-        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
-      },
-      "artists": [
-        {
-          "name": "Kelsea Ballerini",
-          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
-        }
-      ],
-      "duration_ms": 236226,
-      "name": "half of my hometown - ballerini album version",
-      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "KING",
         "url": "https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 205840,
       "name": "20/10 TN",
       "url": "https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "ballerini",
+        "url": "https://open.spotify.com/album/6VHAJu9jfrIAubwug9riDk"
+      },
+      "artists": [
+        {
+          "name": "Kelsea Ballerini",
+          "url": "https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF"
+        }
+      ],
+      "duration_ms": 236226,
+      "name": "half of my hometown - ballerini album version",
+      "url": "https://open.spotify.com/track/3YJOCGSlrb78vNwu6meBSf"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -851,22 +851,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "The Dream: Living The Dream (Deluxe)",
-        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
-      },
-      "artists": [
-        {
-          "name": "Hailey Whitters",
-          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
-        }
-      ],
-      "duration_ms": 211293,
-      "name": "Heartland",
-      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Home To Me",
         "url": "https://open.spotify.com/album/3v3RaCDPgrUhjxQwqqcNMZ"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 186316,
       "name": "Home To Me",
       "url": "https://open.spotify.com/track/0aE6UUxRrKXQPL4f24PhDL"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "The Dream: Living The Dream (Deluxe)",
+        "url": "https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt"
+      },
+      "artists": [
+        {
+          "name": "Hailey Whitters",
+          "url": "https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I"
+        }
+      ],
+      "duration_ms": 211293,
+      "name": "Heartland",
+      "url": "https://open.spotify.com/track/5o0hAYrXcdGYUlDC8j3x34"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Because Of Yours",
-        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 240837,
-      "name": "Because Of Yours",
-      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Better Than That",
         "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 193242,
       "name": "Better Than That",
       "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Because Of Yours",
+        "url": "https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 240837,
+      "name": "Because Of Yours",
+      "url": "https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Nothing New",
-        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
-      },
-      "artists": [
-        {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
-        }
-      ],
-      "duration_ms": 218174,
-      "name": "Nothing New",
-      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
         "name": "Without A Word",
         "url": "https://open.spotify.com/album/1rzbmMngXvWTlfm2FyMFbr"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 238560,
       "name": "Without A Word",
       "url": "https://open.spotify.com/track/4e6dpHanuFVUxou9bKkLDN"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
+        "name": "Nothing New",
+        "url": "https://open.spotify.com/album/3M7n1eOFNiyAkn8rbBayee"
+      },
+      "artists": [
+        {
+          "name": "Jeffrey East",
+          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+        }
+      ],
+      "duration_ms": 218174,
+      "name": "Nothing New",
+      "url": "https://open.spotify.com/track/3lcPNrCGKYelcmE6PnInp4"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1223,18 +1223,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Time Is Cold (Coffee House Version)",
-        "url": "https://open.spotify.com/album/4sCjovt0vwuCj9aMMSW4dL"
+        "name": "Roadtripsong",
+        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
       },
       "artists": [
         {
-          "name": "Jeffrey East",
-          "url": "https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S"
+          "name": "Abby Cates",
+          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
         }
       ],
-      "duration_ms": 188541,
-      "name": "Time Is Cold (Coffee House Version)",
-      "url": "https://open.spotify.com/track/0BYkrYRN04xUnZG53OHfGS"
+      "duration_ms": 221142,
+      "name": "Roadtripsong",
+      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
     }
   ],
   "unique_name": "Country Coffeehouse",

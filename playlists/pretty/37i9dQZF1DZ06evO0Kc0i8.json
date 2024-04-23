@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 671274,
+  "num_followers": 671826,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDQwMGY1OGVjOTkxMDk2NDViY2Y1Yzc2MDUzMGMxMjU3",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGIwMDhjMWMwMDA1M2M1ZTJjNTljMDM1MmIyZWJlNjQ0",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
         },
         {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 199711,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
+        "name": "Fantasias",
+        "url": "https://open.spotify.com/album/1Flcx9eDuv7pTGM9nJBmGL"
       },
       "artists": [
         {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
         }
       ],
-      "duration_ms": 200040,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
+      "duration_ms": 199711,
+      "name": "Fantasias",
+      "url": "https://open.spotify.com/track/6mAN61JH0dzyZpWslS11jy"
     },
     {
       "added_at": null,
@@ -495,6 +495,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "SATURNO",
+        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "NO ME SUELTES",
+      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 188268,
       "name": "No Hay Ley Parte 2 (with Rauw Alejandro)",
       "url": "https://open.spotify.com/track/16pNGHrUDtUq5Qg4LnueIi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SATURNO",
-        "url": "https://open.spotify.com/album/5AcRssiG0Zqu3lqYW7hMoM"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "NO ME SUELTES",
-      "url": "https://open.spotify.com/track/7xDBtwxsife3u8luqSbSPR"
     },
     {
       "added_at": null,
@@ -1023,22 +1023,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PLAYA SATURNO",
-        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 166739,
-      "name": "CUANDO BAJE EL SOL",
-      "url": "https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Color Esperanza 2020",
         "url": "https://open.spotify.com/album/6EZE5e3vBZZkSsnyn1g1gb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 217546,
       "name": "Color Esperanza 2020",
       "url": "https://open.spotify.com/track/3eSJmGWqoBRx5wbFCtvPtz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PLAYA SATURNO",
+        "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 166739,
+      "name": "CUANDO BAJE EL SOL",
+      "url": "https://open.spotify.com/track/4OVHxReloGwGriqVFF2M79"
     },
     {
       "added_at": null,

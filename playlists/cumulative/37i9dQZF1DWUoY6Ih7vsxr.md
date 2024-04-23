@@ -4,7 +4,7 @@
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-261 songs - 15 hr 36 min
+262 songs - 15 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Crazy](https://open.spotify.com/track/5DZdCgnX9xAj59X6X7cQBs) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Crazy](https://open.spotify.com/album/5ooERKclQluBVu00PIH9Xm) | 3:12 | 2024-03-27 | 2024-04-19 |
 | [Crazy](https://open.spotify.com/track/7bayUG8A1EwRJRm6955F96) | [TEEN TOP](https://open.spotify.com/artist/3offPqpKAKmpQkIdWnjzkc) | [It’s](https://open.spotify.com/album/2yLpZZ6W01CqesccYaxEkL) | 3:07 | 2022-04-19 | 2024-03-28 |
 | [CROOKED](https://open.spotify.com/track/4EwNWRBWdZ6bgvxRHlZ8OO) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:44 | 2024-03-27 | 2024-04-19 |
-| [CRUSH](https://open.spotify.com/track/7FLHZtNqn4PfSs6DwtWdY3) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:14 | 2024-03-27 |  |
+| [CRUSH](https://open.spotify.com/track/7FLHZtNqn4PfSs6DwtWdY3) | [2NE1](https://open.spotify.com/artist/1l0mKo96Jh9HVYONcRl3Yp) | [CRUSH](https://open.spotify.com/album/4OviNx5CqaeGhARVtHYtDL) | 3:14 | 2024-03-27 | 2024-04-23 |
 | [Cry](https://open.spotify.com/track/0MXLWV4FdduvoPeHu0Yaoc) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [BLAQ Style](https://open.spotify.com/album/4DJLmLRFfzwzm9boS9jK2m) | 3:47 | 2022-04-19 | 2022-07-29 |
 | [Darling](https://open.spotify.com/track/4zM1okF68wbvOCmcyKDXkH) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [GIRL'S DAY EVERYDAY no\. 4](https://open.spotify.com/album/0Hsi6dYQAytY08EJm3zMRT) | 3:13 | 2022-04-19 | 2023-08-12 |
 | [DAY BY DAY](https://open.spotify.com/track/2X1Fg19lRPQD0OXKnkjvpP) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [DAY BY DAY](https://open.spotify.com/album/3iMOnSJt71rQi8Ksdy0KpE) | 3:29 | 2024-03-27 | 2024-04-19 |
@@ -102,7 +102,7 @@
 | [Heartbeat](https://open.spotify.com/track/1H7AvyWHYAYvbjFi1IVUhP) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [1:59PM](https://open.spotify.com/album/3FlMNN4eJ1mGpw2EJqBHpG) | 3:13 | 2022-04-19 | 2024-04-19 |
 | [Heartbeat](https://open.spotify.com/track/21OCDGhJavcSwMWw4uaepy) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Member's Selection](https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3) | 3:13 | 2022-04-19 | 2022-09-13 |
 | [Heaven](https://open.spotify.com/track/2Y34BGd4MdPVzaEk0tbqQj) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [Heaven](https://open.spotify.com/album/7ufUDUerN7wKhTTQ6yefmy) | 3:31 | 2024-03-27 |  |
-| [Hey You](https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [EAR FUN](https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk) | 3:56 | 2022-04-19 | 2024-03-28 |
+| [Hey You](https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [EAR FUN](https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk) | 3:56 | 2022-04-19 |  |
 | [Hi Ya Ya 여름날](https://open.spotify.com/track/5lC4gziKMPSihnedZbwAEn) | [TVXQ!](https://open.spotify.com/artist/6nVMMEywS5Y4tsHPKx1nIo) | [Hi Ya Ya 여름날](https://open.spotify.com/album/75D7tsP1Lv8FIkTDHqgR2H) | 3:31 | 2022-04-19 | 2022-07-21 |
 | [High High](https://open.spotify.com/track/00Luoss7SGaxzTEy94cfia) | [GD&TOP](https://open.spotify.com/artist/3e3oLJehq4vQl2H0FAJnvn) | [GD&TOP](https://open.spotify.com/album/6M11igFHxA92s2ks2uqu6F) | 3:06 | 2022-04-19 | 2024-03-28 |
 | [History](https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:29 | 2024-03-27 |  |
@@ -203,7 +203,7 @@
 | [SEXY LOVE](https://open.spotify.com/track/7pHItfUtUh6Qtm70QqB5oj) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [MIRAGE](https://open.spotify.com/album/1zrlobzNb63g4ywNVkpjOC) | 3:47 | 2024-03-27 | 2024-04-19 |
 | [Sexy, Free & Single](https://open.spotify.com/track/2gVUU6cUYgsExc7X70FrTo) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [Sexy, Free & Single](https://open.spotify.com/album/2JuQjHZ6ssTtwCrPgqc0Br) | 3:44 | 2022-04-19 | 2022-07-29 |
 | [SHAKE IT](https://open.spotify.com/track/59FBFyeST1vqN8G41YgFS6) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [SHAKE IT](https://open.spotify.com/album/7wxGBt2oAGDjZ9CgPhQU8C) | 3:28 | 2022-04-19 |  |
-| [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 | 2024-03-27 |  |
+| [Shampoo](https://open.spotify.com/track/50JMmvCIMZCniuFeCOsRc4) | [After School](https://open.spotify.com/artist/1loWI8jVk9btgJXHgqHXPD) | [VIRGIN](https://open.spotify.com/album/1fgyOFuEGFnWRTT1SwWH0V) | 4:34 | 2024-03-27 | 2024-04-23 |
 | [Sherlock \(Clue + Note\)](https://open.spotify.com/track/2sVtrcj32v3fR8mLjqWziv) | [SHINee](https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR) | [Sherlock \- The 4th Mini Album](https://open.spotify.com/album/2Mfisiv88pNRQNugqrEUHQ) | 3:59 | 2022-04-19 |  |
 | [Shock](https://open.spotify.com/track/2nzKrSghWXVnpudod8SKoY) | [Beast](https://open.spotify.com/artist/1Pr9gT0veB2tgcisQeIGoC) | [Shock Of The New Era](https://open.spotify.com/album/1B7oXzVqP0X5AS8HsMaUtg) | 3:45 | 2022-04-19 |  |
 | [Short Hair](https://open.spotify.com/track/05G51ez5Z73NRE0l2QtZfH) | [AOA](https://open.spotify.com/artist/54gWVQFHf8IIqbjxAoOarN) | [Short Hair](https://open.spotify.com/album/5JF8b6GKxOIve0KBuT7pzS) | 3:34 | 2024-03-27 |  |
@@ -240,7 +240,7 @@
 | [Wedding Dress](https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Solar](https://open.spotify.com/album/2rV8MCYJTfvuvXHZsBH12Z) | 4:02 | 2024-03-27 | 2024-04-19 |
 | [What Is Love](https://open.spotify.com/track/1VWSUWcVZEAPGBYVkevN3u) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 4:21 | 2024-03-27 | 2024-04-19 |
 | [What's your name?](https://open.spotify.com/track/13xfTHyEclnBd7XAS1P5Er) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [Name is 4minute](https://open.spotify.com/album/5KgCib0zfgBuKVuIFr3jhU) | 3:06 | 2024-03-27 |  |
-| [Whatcha Doin' Today](https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [4minute WORLD](https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG) | 3:26 | 2024-03-27 | 2024-04-22 |
+| [Whatcha Doin' Today](https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [4minute WORLD](https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG) | 3:26 | 2024-03-27 |  |
 | [WHO YOU?](https://open.spotify.com/track/7iT56ss42YdtYnNQEnxp9Z) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [COUP D'ETAT](https://open.spotify.com/album/4msI9bSfKohOPFic15aLR4) | 3:21 | 2024-03-27 | 2024-04-19 |
 | [Without U](https://open.spotify.com/track/0NgPIwYpxmvUUbI5pH6Alx) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Member's Selection](https://open.spotify.com/album/6b9ZAm9lzsF3aVBKAdrEf3) | 3:20 | 2022-04-19 | 2022-07-29 |
 | [Without U](https://open.spotify.com/track/0qQvKdS4Lj8dprNM1NUI59) | [2PM](https://open.spotify.com/artist/5iRPbkcPmqAFFwDUj6ywVS) | [Hands Up](https://open.spotify.com/album/1PPU2sGpyQVivVTBLyrjJx) | 3:21 | 2022-04-19 | 2024-03-28 |
@@ -254,7 +254,8 @@
 | [남자 없이 잘 살아](https://open.spotify.com/track/7hCnoPpEDBMGnooYnOCRPX) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [HUSH](https://open.spotify.com/album/27FDExxvG3h3XCUcJVlVSY) | 3:30 | 2022-04-19 | 2023-08-06 |
 | [내 귀에 캔디 \(FEAT\. 택연 Of 2PM\)](https://open.spotify.com/track/6bkovwrdDRK4NRaEH0ryar) | [Baek Ji Young](https://open.spotify.com/artist/3l0MJ9LCiBlMyOMaz485Q5), [TAECYEON](https://open.spotify.com/artist/3bk5TbtyJDRrJ8lMQIzSPh) | [Timeless : The Best](https://open.spotify.com/album/2IOJzhoCZo6MNjMGMMQcp2) | 3:46 | 2024-03-27 |  |
 | [내 머리가 나빠서](https://open.spotify.com/track/7k1zf9Ch2n8dgNQ0UxbxJ9) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\)](https://open.spotify.com/album/4jMu4ZrYUtiQNHIZvS42oR) | 4:23 | 2024-03-27 |  |
-| [너라고 It's You](https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [너라고 It's You](https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J) | 3:51 | 2022-04-19 |  |
+| [너 같은 사람 또 없어 No Other](https://open.spotify.com/track/6lTB8MISIFcEI4Rspwn4LV) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [미인아 \(Bonamana\) \- The 4th Album Repackage](https://open.spotify.com/album/6KGCyNa21pfeox5jXQVi74) | 4:16 | 2024-03-27 |  |
+| [너라고 It's You](https://open.spotify.com/track/2TG8kKgwsyyZU8lZIH6SZ1) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [너라고 It's You](https://open.spotify.com/album/3TC76yhvBNYaVvnzmyZN4J) | 3:51 | 2022-04-19 | 2024-04-23 |
 | [넘버나인](https://open.spotify.com/track/7CEWoh31m3nePP2Oz8joqo) | [T\-ARA](https://open.spotify.com/artist/1R52cwGf75yTf7I3Q0Irf8) | [Again 1977](https://open.spotify.com/album/08wUc4fBRDP5MHmtadEjZ5) | 3:48 | 2024-03-27 |  |
 | [닐리리맘보](https://open.spotify.com/track/4fZYGHiRcKxwVSnF498uaE) | [Block B](https://open.spotify.com/artist/4RnezwRV7VBJUCI1S0AE5u) | [BLOCKBUSTER](https://open.spotify.com/album/5humkj69QwOd1wBwmmMZq6) | 3:27 | 2024-03-27 |  |
 | [다른 남자 말고 너 Only You](https://open.spotify.com/track/09CAOGrMHucCFL64TYGJ7H) | [miss A](https://open.spotify.com/artist/1BEohdSWSBggmO979tzRwW) | [Colors](https://open.spotify.com/album/3X1fI5m8vwpqzCfhELxl2T) | 3:18 | 2022-04-19 | 2023-08-06 |

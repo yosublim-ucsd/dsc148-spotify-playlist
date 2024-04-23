@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 296892,
+  "2024-04-23": 296868,
   "date_first_scraped": "2024-01-30",
   "description": "This Is Chalino Sanchez. Los temas esenciales, todos en una lista.",
   "name": "This Is Chalino Sanchez",
@@ -229,6 +229,24 @@
       "duration_ms": 189939,
       "name": "Dinast\u00eda De Los Ochoa",
       "url": "https://open.spotify.com/track/6GgeIf39nDpOnyQg8MNUue"
+    },
+    {
+      "album": {
+        "name": "Puros \u00c9xitos de Colecci\u00f3n!",
+        "url": "https://open.spotify.com/album/14GVG63R0wtjny1CYM6Lp3"
+      },
+      "artists": [
+        {
+          "name": "Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/7u9m43vPVTERaALXXOzrRq"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161373,
+      "name": "El Branco Fajiado",
+      "url": "https://open.spotify.com/track/7wcumrISUbC0j0QWFOlTvy"
     },
     {
       "album": {

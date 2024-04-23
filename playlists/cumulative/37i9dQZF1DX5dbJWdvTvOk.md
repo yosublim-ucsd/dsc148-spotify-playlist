@@ -4,7 +4,7 @@
 
 > Canciones instrumentales de guitarra.
 
-680 songs - 1 day 4 hr 54 min
+684 songs - 1 day 5 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,7 @@
 | [Afgangurinn](https://open.spotify.com/track/6bploBGfSJclJuxjV65t3r) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Afgangurinn](https://open.spotify.com/album/711Vy0KS3fmb4K2rgMtP6x) | 2:03 | 2023-04-21 | 2023-06-10 |
 | [Afterglow](https://open.spotify.com/track/0g6ooNqnQPI231K12NymuV) | [Leo Vara](https://open.spotify.com/artist/3f2LfaBv92I0qjmfU6fseT) | [Bordeaux](https://open.spotify.com/album/0yU3pYIPQBNVNhEisrJwe6) | 2:38 | 2023-04-21 | 2023-06-03 |
 | [Afternoon in May](https://open.spotify.com/track/1FcvorbsrplfCxOX3ch77B) | [Michelle Qureshi](https://open.spotify.com/artist/2tnTYLzDkug2iNhsBpWmuG) | [Within](https://open.spotify.com/album/65eOKdl0MxptxgnpDiM8ax) | 2:22 | 2024-02-23 |  |
-| [Ain't Nothing But A Mistake](https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Ain't Nothing But A Mistake](https://open.spotify.com/album/2dOWa0Ss7pgUtBa6x0pPSE) | 3:21 | 2023-04-21 |  |
+| [Ain't Nothing But A Mistake](https://open.spotify.com/track/0Sn18IA6XwtXLkLeBoQFa2) | [Dawn Geller](https://open.spotify.com/artist/0HSRJAuF3aNdrbivhOb9SC) | [Ain't Nothing But A Mistake](https://open.spotify.com/album/2dOWa0Ss7pgUtBa6x0pPSE) | 3:21 | 2023-04-21 | 2024-04-23 |
 | [Akturu](https://open.spotify.com/track/4DTnXXYGPuef1H8aa1R0nA) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Akturu](https://open.spotify.com/album/3zPx6U036ddROrp6lG0XKV) | 3:00 | 2023-04-21 |  |
 | [Albarracín](https://open.spotify.com/track/1Syf6EfG7o04qESj65mxOv) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Albarracín](https://open.spotify.com/album/3xlEDW390BcYtfFMesVcv8) | 1:42 | 2022-08-05 | 2023-04-22 |
 | [Alegría](https://open.spotify.com/track/4EknSwO7h0DapEHV5G2vys) | [Marino Calle](https://open.spotify.com/artist/7B5DgVnyn7BhJ3gWxIWCYJ) | [Alegría](https://open.spotify.com/album/2UUxdIpFuyKudZgrUNZA6U) | 2:34 | 2023-04-21 |  |
@@ -49,6 +49,7 @@
 | [Anavilhanas](https://open.spotify.com/track/0OIW12J6IfqyQLZBe2eJ3u) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Anavilhanas](https://open.spotify.com/album/7FDvqlWnyupmAGykA4IoGc) | 2:09 | 2023-04-21 |  |
 | [Andromeda Shimmer](https://open.spotify.com/track/6dDWBvom0X1VsTaH6k6Uml) | [Under The Zodiac](https://open.spotify.com/artist/7rDI2DTZpZryRfJoZiI4WG) | [Andromeda Shimmer](https://open.spotify.com/album/4lUIFJ7YZuwxqEYoMwWMQB) | 2:46 | 2022-07-15 | 2023-03-11 |
 | [Angel Falls](https://open.spotify.com/track/7e29VRvlas6fkZrstGcPry) | [Beau Hayes](https://open.spotify.com/artist/2iojhDr0D5zVL3xhPb401I) | [Angel Falls](https://open.spotify.com/album/5Tlrch0TT9BZ9texXaqc3E) | 2:24 | 2023-05-12 |  |
+| [Another Time](https://open.spotify.com/track/5B86TJA6dpcXzZ7sh8wQpq) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Another Time](https://open.spotify.com/album/2X3xWHXPfx2mUfPEwjBs3K) | 2:25 | 2024-04-19 |  |
 | [Antofagasta](https://open.spotify.com/track/5CuV4yJTY9gaMGBlq14afa) | [Graciela Flores](https://open.spotify.com/artist/1XcbatNvZ4Dv7PgPELmQWJ) | [Antofagasta](https://open.spotify.com/album/1Vght0beo7Xp1utA81XL2a) | 2:07 | 2022-07-15 | 2022-10-29 |
 | [Antoni](https://open.spotify.com/track/6zklaT8tid33upy12H9Tlk) | [Los Tres Mariquitas](https://open.spotify.com/artist/1RpMXfKJ5wgJufPr4TPcQf) | [Antoni](https://open.spotify.com/album/3lXB92uIKsnBNy9XLFzDqO) | 2:46 | 2022-07-15 | 2023-04-22 |
 | [Ao Clarear](https://open.spotify.com/track/3ZBVScPb6BlEwHruAWdhtx) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Mare](https://open.spotify.com/album/5TUcF5QXLj6Ola0lbnCFiy) | 3:17 | 2023-04-21 |  |
@@ -421,7 +422,7 @@
 | [Nell'angolo](https://open.spotify.com/track/0EOIwRvmBzRE2RT7bxaLqf) | [Helena Timmers](https://open.spotify.com/artist/0B8LhZQbdtQPuzAu0cQ2az) | [Nell'angolo](https://open.spotify.com/album/26x2wgpD3z0vG6u30UGV9f) | 2:38 | 2023-04-21 |  |
 | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/track/2PygGi8gu5WfiT8zKQrC89) | [Ryan Judd](https://open.spotify.com/artist/1F8gdqObuIxT2cZrPjDeMv) | [Never to Return \(Celestial Guitar\)](https://open.spotify.com/album/1sEV06R2RJBrTNOmt5LHuM) | 3:11 | 2023-04-21 | 2023-10-30 |
 | [Night in Sevilla](https://open.spotify.com/track/3MeoEsS5PQ2Jh6ppvYOI9g) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [Night in Sevilla](https://open.spotify.com/album/779NwwOLuonCzVO6gQ7uNi) | 2:43 | 2023-04-21 | 2024-04-20 |
-| [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2023-04-21 |  |
+| [Night Sky](https://open.spotify.com/track/2FOxa2wEutyDKFd5uGz7ZD) | [Gabriella Vargas Luna](https://open.spotify.com/artist/1P3NtjxAwU5gdEev4Pd93O) | [Night Sky](https://open.spotify.com/album/2rcCBSP6wwWYfcBqTeHj6V) | 2:13 | 2023-04-21 | 2024-04-23 |
 | [Night Swim](https://open.spotify.com/track/2jPVTEbM04iucPvHAVRENU) | [Paul Turner](https://open.spotify.com/artist/7i4VoTrDKrU8S5722Zpm0V) | [Night Swim](https://open.spotify.com/album/0gaimSRqZlpxeCgfQGkhZR) | 1:20 | 2023-04-21 | 2023-05-13 |
 | [No Puedo Evitarlo](https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu) | [Aurelia](https://open.spotify.com/artist/6tnJc05Vcp2PyNBCgkcAiA) | [No Puedo Evitarlo](https://open.spotify.com/album/1i0nstc0LWCSvMCNczk1e6) | 2:37 | 2024-03-08 |  |
 | [Nobody But You](https://open.spotify.com/track/5LcwDax86a6ymfLDNEYN2T) | [Jaimie Escalera](https://open.spotify.com/artist/3Cbyi7uVS7E3c4XtlEdS0B) | [Nobody But You](https://open.spotify.com/album/1avmuhOQpHOmm4ItRvg3Re) | 2:25 | 2023-06-02 |  |
@@ -438,7 +439,7 @@
 | [Oklahoma](https://open.spotify.com/track/76zbGOyubID2QvyjLrY1AU) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Oklahoma](https://open.spotify.com/album/0TkLrVd4OUeTrn1yWXBM3E) | 2:18 | 2022-07-15 | 2023-04-22 |
 | [Old Friends](https://open.spotify.com/track/7iJmWc6nPZrov6yzOPgqb9) | [Ronny Davis](https://open.spotify.com/artist/1swm5Q9C4aCv90Axn6mtBt) | [Old Friends](https://open.spotify.com/album/4BGT0LqhdGpd8fO1AEUWX0) | 3:10 | 2022-07-15 | 2023-04-22 |
 | [Olessa](https://open.spotify.com/track/3uWeyoRHCWz52lhK37mYmT) | [Las Tres Abejas](https://open.spotify.com/artist/4AAGqhXf0H3FXHXkQzgLOi) | [Olessa](https://open.spotify.com/album/1mJRv18DBOxzSBiYHC3xvC) | 3:07 | 2023-04-21 | 2023-10-27 |
-| [Olomana](https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Kohala](https://open.spotify.com/album/7sOtaQGuDecDyWe4UTjAPC) | 2:39 | 2023-04-21 |  |
+| [Olomana](https://open.spotify.com/track/4E0pCVwsSnYcxcKpp0wf8Q) | [Andreas Borkental](https://open.spotify.com/artist/39r4N8Uojn27VzGTVjYfdV) | [Kohala](https://open.spotify.com/album/7sOtaQGuDecDyWe4UTjAPC) | 2:39 | 2023-04-21 | 2024-04-23 |
 | [Omaggio](https://open.spotify.com/track/77uZ7sLDxL0COLYkmNL6f5) | [Mina Pellé](https://open.spotify.com/artist/5ULQkv4ZSPh4HDDvwuDzVp) | [Omaggio](https://open.spotify.com/album/03dAXeqgfRskUKqP4iBiid) | 2:06 | 2023-04-21 |  |
 | [Onirique](https://open.spotify.com/track/00ktuagJxL4lP7xyJ1d82N) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Retrouvailles](https://open.spotify.com/album/3PwCrvkeUrCWFHwdjHCObf) | 2:41 | 2023-04-21 |  |
 | [Only Briefly](https://open.spotify.com/track/1ZdHCofnzXzQG262Z0sNyb) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Only Briefly](https://open.spotify.com/album/4v16VnIVhC9FWgRWHluvLG) | 2:07 | 2024-03-29 |  |
@@ -463,10 +464,11 @@
 | [Pink Sky](https://open.spotify.com/track/4Pd0UQizG3Nw8RzMTWKwgc) | [Tommy Berre](https://open.spotify.com/artist/1JS0Gw2KxVFPmFNivcjmgt) | [Pink Sky](https://open.spotify.com/album/558L60uVIk9oe3UPYbX9PF) | 2:21 | 2023-04-21 | 2023-05-13 |
 | [Pluto](https://open.spotify.com/track/1TsvBJoYAYrQbLDFnNE1MB) | [Jules Scott](https://open.spotify.com/artist/0Zwph8W146k7UHJ5BIyB7s) | [Pluto](https://open.spotify.com/album/1PAkHoLZyHQYJdnco9Ugpr) | 1:53 | 2023-04-21 | 2023-06-15 |
 | [Poesia](https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Poesia](https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs) | 2:20 | 2023-09-07 |  |
-| [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 | 2023-04-21 |  |
+| [Poetic Tale](https://open.spotify.com/track/1ztfVPH2xKNEFIGgT1Ea7n) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Poetic Tale](https://open.spotify.com/album/62GH2jdUVGtUrHnN1EI06M) | 3:28 | 2023-04-21 | 2024-04-23 |
 | [Porto Fino](https://open.spotify.com/track/3GflHrUfFb7mQi5GYsQ1i5) | [Pavel Bittová](https://open.spotify.com/artist/6XfO8fz3xbhOyC53SuSiQ9) | [Porto Fino](https://open.spotify.com/album/08FqjkBw2J8PNV86G1o3Vf) | 2:35 | 2023-04-21 |  |
 | [Preludium G\-Dur](https://open.spotify.com/track/7BrfpWvcN5ZlzaHs1ej0DF) | [Los Vasos Comunicantes](https://open.spotify.com/artist/2aNXMjF7dyGAYuOAAJ8qwV) | [Preludium G\-Dur](https://open.spotify.com/album/4hc2wnXGXMcbabRlM4zpnK) | 1:35 | 2022-07-15 | 2022-09-17 |
 | [Pure As You](https://open.spotify.com/track/3bPbiu9rSQou2Iqx5dT5z8) | [Blanche Genet](https://open.spotify.com/artist/2HKdCLXiYvnSQyujGm9Nkk) | [Pure As You](https://open.spotify.com/album/2om6nDeDbESNIsKmMNOIp6) | 2:17 | 2023-04-21 |  |
+| [Quality time](https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX) | [Maria Isabel Ferrer](https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9) | [Quality time](https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4) | 2:44 | 2024-04-19 |  |
 | [Quartzite](https://open.spotify.com/track/7ApVbA2DWxftyUApfSB5Qq) | [Aiden Archer](https://open.spotify.com/artist/3VgNLAQtZ0NxQLpZJSGFmE) | [Quartzite](https://open.spotify.com/album/2cnYYDd1dtIFhSc0gJUyAi) | 2:05 | 2023-10-27 |  |
 | [Quite Comfy](https://open.spotify.com/track/0oAZ7VXoIgk8Q8Izs0YkhO) | [R.B James](https://open.spotify.com/artist/2DUG73DKY1Km2VX1J866f1) | [Quite Comfy](https://open.spotify.com/album/3gf4STG2CwjdpqjqSJNKKw) | 3:34 | 2022-08-12 | 2023-04-22 |
 | [Quiver and Wince](https://open.spotify.com/track/06lkOWre18zq2lSEX23pzb) | [Dean M Parker](https://open.spotify.com/artist/1QuHekBuKJTCJa4R0ZbzdT) | [Quiver and Wince](https://open.spotify.com/album/6w3OZdViK1m8vmZSGZNGAH) | 2:19 | 2023-02-24 | 2023-04-22 |
@@ -527,6 +529,7 @@
 | [Shadmoor](https://open.spotify.com/track/5ZdIQzQKjUpVfKgS1uJJwu) | [Adriana Roman](https://open.spotify.com/artist/7HUyaHzmYiELlUuddfvwJp) | [Shadmoor](https://open.spotify.com/album/0cmWpYtEpZ8WT7nV1PbKVi) | 2:41 | 2023-04-21 |  |
 | [Shadows and Sunlight](https://open.spotify.com/track/3b2eNZja0ok5k8QQjn3ezu) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [Shadows and Sunlight](https://open.spotify.com/album/48ererOiL22UHujflBgt0r) | 2:56 | 2024-04-05 |  |
 | [Shape Of My Heart](https://open.spotify.com/track/6PHLD9YXtN4GOeDZofs9op) | [Paolo Velera](https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH) | [Shape Of My Heart](https://open.spotify.com/album/03v8TGP1Zc77rJhr1rT8ZF) | 3:28 | 2022-07-15 | 2023-04-22 |
+| [Sharing the Message](https://open.spotify.com/track/6uQ455iD5ovinVMKWuGbVu) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Sharing the Message](https://open.spotify.com/album/23Fi6Kuce1QLJOZLjTYwbl) | 2:56 | 2024-04-19 |  |
 | [Shifrin](https://open.spotify.com/track/6hcKAG0hvriFgNlhJPfhmU) | [Tomas North](https://open.spotify.com/artist/1JfHydBw6fmjakoFxPjDbF) | [Reise um die Welt](https://open.spotify.com/album/0zYxILZ553vmyZNgbaMMEK) | 3:13 | 2022-07-15 | 2022-09-17 |
 | [Shoes Filled With Water](https://open.spotify.com/track/2yYjoMurH5WOclS46dZU7c) | [Peter Netz](https://open.spotify.com/artist/2IrjMzbLiQJ60OBz4dk1ui) | [Shoes Filled With Water](https://open.spotify.com/album/1wN4NcPAER9ivsoqj5h3yi) | 3:33 | 2023-04-21 |  |
 | [Showers of Peace](https://open.spotify.com/track/4bs9xDSrypNaBwr5gpz13t) | [American Legion](https://open.spotify.com/artist/0jffXLYJMz2VeBonnuICk3) | [Showers of Peace](https://open.spotify.com/album/4dMEHoghOzPnQajEqi0nKn) | 2:41 | 2023-04-21 |  |
@@ -565,6 +568,7 @@
 | [Springwood Ranch](https://open.spotify.com/track/1LxPHwvy8xUaZUXJoGHiaD) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Springwood Ranch](https://open.spotify.com/album/2phvXSYBb8eODAavj4iplL) | 2:54 | 2023-08-10 |  |
 | [Stairs](https://open.spotify.com/track/6ufsRNZjLydBXfncTkZ9ut) | [Benjamins Friend](https://open.spotify.com/artist/54Pp9oG56ETWzr0DC65tld) | [Stairs](https://open.spotify.com/album/2mQcf2bqjYpNPbEfZw1ql5) | 2:40 | 2023-04-21 | 2023-06-03 |
 | [Stando Solo](https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3) | [Lennox Lorenzo](https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM) | [Stando Solo](https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1) | 2:36 | 2023-04-21 |  |
+| [Steps ahead](https://open.spotify.com/track/38HxNjQa0seDx02w8fEhLM) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Steps ahead](https://open.spotify.com/album/0XJK0qLoz7yt1v6CskH7E0) | 2:49 | 2024-04-19 |  |
 | [Stille Morgen](https://open.spotify.com/track/4pAiNoP7gIY4WcNftHGuHD) | [Gunni Møller](https://open.spotify.com/artist/1W3Msj0w5UgqoO24nOybtE) | [Stille Morgen](https://open.spotify.com/album/6kEivxJRru5Z2n0qTDD4xx) | 2:10 | 2023-04-21 | 2023-10-18 |
 | [Stockholm Waltz](https://open.spotify.com/track/4qH4Otl7cbyUjg7kshFzUr) | [Julian Vigil](https://open.spotify.com/artist/37iIAObpTKbDOZ9BjSrmMv) | [Stockholm Waltz](https://open.spotify.com/album/0Vl8Nl9s21QHz3fSk3U623) | 2:20 | 2022-09-16 | 2023-04-22 |
 | [Stolen Moments](https://open.spotify.com/track/1oEq1W6ChwTxUE87Jx9MFG) | [Philip Grass](https://open.spotify.com/artist/1P6oBwSLIpnKBsIObVaIj1) | [Stolen Moments](https://open.spotify.com/album/1VVynhg0E343qOHIlqfULV) | 2:42 | 2023-04-21 |  |

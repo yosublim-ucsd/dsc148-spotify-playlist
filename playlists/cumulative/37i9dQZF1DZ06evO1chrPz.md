@@ -2,7 +2,7 @@
 
 ### [This Is Bethel Music](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1chrPz)
 
-> This is Bethel Music\. The essential tracks, all in one playlist.
+> This is Bethel Music\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
 
 80 songs - 8 hr 6 min
 

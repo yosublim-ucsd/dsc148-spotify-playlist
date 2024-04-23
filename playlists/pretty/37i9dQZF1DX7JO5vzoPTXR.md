@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by women! Cover: <a href="https://open.spotify.com/playlist/37i9dQZF1EFRegGOhYpv3j?si=0ea1f81a3471473c">Alysa Vanderheym</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,138 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,152 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

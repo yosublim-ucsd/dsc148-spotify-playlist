@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 126230,
+  "2024-04-23": 126323,
   "date_first_scraped": "2022-06-30",
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Fabiana Cantilo",
   "name": "Baladas Rock",
@@ -173,8 +173,8 @@
       },
       "artists": [
         {
-          "name": "Et\u00e9 y Los Problems",
-          "url": "https://open.spotify.com/artist/7zM4bBkY1KMOzi0BK2rzff"
+          "name": "Et\u00e9 & Los Problems",
+          "url": "https://open.spotify.com/artist/708Cl7fLtLt0QkD1sFOTZk"
         }
       ],
       "date_added": "2024-01-04",
@@ -1731,7 +1731,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 256190,
       "name": "Mirenla",
       "url": "https://open.spotify.com/track/027NtsXW0vpDFhzxsJKmTL"
@@ -2229,7 +2229,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 313666,
       "name": "Que Ves?",
       "url": "https://open.spotify.com/track/6TzpJImasQyQjp46Umdqav"
@@ -2725,7 +2725,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 295160,
       "name": "Un Pacto - Live In Buenos Aires / 2001",
       "url": "https://open.spotify.com/track/0TNFwyywtAp01QF6mJZWXT"
@@ -2743,7 +2743,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-28",
+      "date_removed": null,
       "duration_ms": 130804,
       "name": "Una y Otra Vez",
       "url": "https://open.spotify.com/track/4odPPgH2sPMadY0nKws2pW"

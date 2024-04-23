@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 278743,
+  "num_followers": 278475,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -375,26 +375,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Jaula de Oro",
-        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
-      },
-      "artists": [
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        },
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        }
-      ],
-      "duration_ms": 238926,
-      "name": "Jaula de Oro",
-      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Algo Me Dice",
         "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
       },
@@ -411,6 +391,26 @@
       "duration_ms": 257008,
       "name": "Algo Me Dice",
       "url": "https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Jaula de Oro",
+        "url": "https://open.spotify.com/album/7o5gng8f0q586Laakp4Ilv"
+      },
+      "artists": [
+        {
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
+        },
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        }
+      ],
+      "duration_ms": 238926,
+      "name": "Jaula de Oro",
+      "url": "https://open.spotify.com/track/5N9gBB5NObA2S0kv7ABQYs"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Lo Que Hay Dentro de M\u00ed",
-        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
-      },
-      "artists": [
-        {
-          "name": "Malm\u00f6 040",
-          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
-        }
-      ],
-      "duration_ms": 190875,
-      "name": "Lo Que Hay Dentro de M\u00ed",
-      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "S\u00faper Terror",
         "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 205719,
       "name": "Moderato",
       "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Lo Que Hay Dentro de M\u00ed",
+        "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
+      },
+      "artists": [
+        {
+          "name": "Malm\u00f6 040",
+          "url": "https://open.spotify.com/artist/6i0h6wBrfNkdf3eTUoelpP"
+        }
+      ],
+      "duration_ms": 190875,
+      "name": "Lo Que Hay Dentro de M\u00ed",
+      "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -899,6 +899,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Astronom\u00eda Interior",
+        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
+      },
+      "artists": [
+        {
+          "name": "Astronom\u00eda Interior",
+          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
+        }
+      ],
+      "duration_ms": 203880,
+      "name": "Movimiento",
+      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Una sensaci\u00f3n",
         "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 197169,
       "name": "Una sensaci\u00f3n",
       "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Astronom\u00eda Interior",
-        "url": "https://open.spotify.com/album/0ozZh31IwYGhCVUOTvZaiu"
-      },
-      "artists": [
-        {
-          "name": "Astronom\u00eda Interior",
-          "url": "https://open.spotify.com/artist/6PpHeERfTGHJnYErCOOdPY"
-        }
-      ],
-      "duration_ms": 203880,
-      "name": "Movimiento",
-      "url": "https://open.spotify.com/track/2pBkGJf561cHhTLHaImDns"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Tratar\u00e9",
+        "url": "https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 247871,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Noches Largas (feat. Bruses)",
         "url": "https://open.spotify.com/album/02mEkveH5bAH4lMS5PvrMo"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 293866,
       "name": "Noches Largas (feat. Bruses)",
       "url": "https://open.spotify.com/track/5cOp5gpIT6HTJ2oDgaQsNu"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Tratar\u00e9",
-        "url": "https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 247871,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
     },
     {
       "added_at": "2024-04-12 04:00:00",

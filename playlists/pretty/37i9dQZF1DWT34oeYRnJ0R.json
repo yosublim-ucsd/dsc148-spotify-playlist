@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Hamilton & Zaider",
-  "num_followers": 668623,
+  "num_followers": 667606,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -847,26 +847,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Santorini",
-        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
-      },
-      "artists": [
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Farruko",
-          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
-        }
-      ],
-      "duration_ms": 160893,
-      "name": "Santorini",
-      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Reinsertado",
         "url": "https://open.spotify.com/album/6h5tdNdOnnFL6zbeMeeqdk"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 261713,
       "name": "Andando",
       "url": "https://open.spotify.com/track/0yK1nUASmGNYKUH5qpXeOY"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Santorini",
+        "url": "https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z"
+      },
+      "artists": [
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        },
+        {
+          "name": "Farruko",
+          "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO"
+        }
+      ],
+      "duration_ms": 160893,
+      "name": "Santorini",
+      "url": "https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -991,42 +991,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Amandita",
-        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 223469,
-      "name": "Amandita",
-      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "TQMQA",
-        "url": "https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r"
-      },
-      "artists": [
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "TQMQA",
-      "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sigues Con El (Remix)",
         "url": "https://open.spotify.com/album/0vPG06qvqmD1XL1uAFysKM"
       },
@@ -1047,6 +1011,42 @@
       "duration_ms": 189566,
       "name": "Sigues Con El - Remix",
       "url": "https://open.spotify.com/track/4Pu0a2TuHOYtI4CCE3HEXI"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "TQMQA",
+        "url": "https://open.spotify.com/album/2AUNqh31eFHMUCqM1aIl2r"
+      },
+      "artists": [
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "TQMQA",
+      "url": "https://open.spotify.com/track/6FvMc0dfKvSbzFmqfT1GoG"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Amandita",
+        "url": "https://open.spotify.com/album/7cO3QkRfOusJQJH8K3vW5P"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 223469,
+      "name": "Amandita",
+      "url": "https://open.spotify.com/track/21kXmEReiK9txm4Kv6YP2o"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dejalos que hablen",
-        "url": "https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv"
+        "name": "Sin Gato (MIAU!)",
+        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
       },
       "artists": [
         {
-          "name": "Chesca",
-          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
         }
       ],
-      "duration_ms": 175407,
-      "name": "Dejalos que hablen",
-      "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
+      "duration_ms": 148800,
+      "name": "Sin Gato (MIAU!)",
+      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Sin Gato (MIAU!)",
-        "url": "https://open.spotify.com/album/5Kav6970mLaRDQN1tSqWom"
+        "name": "Dejalos que hablen",
+        "url": "https://open.spotify.com/album/4l0UkrYml8m6aHv9V58bnv"
       },
       "artists": [
         {
-          "name": "Rels B",
-          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+          "name": "Chesca",
+          "url": "https://open.spotify.com/artist/7DgpPXntG6DkNR4hCi4PjP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
         }
       ],
-      "duration_ms": 148800,
-      "name": "Sin Gato (MIAU!)",
-      "url": "https://open.spotify.com/track/3vGYACdHXBG9COwobk3J5U"
+      "duration_ms": 175407,
+      "name": "Dejalos que hablen",
+      "url": "https://open.spotify.com/track/4nvjh9eLeMhTuuVVhBjfYd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1711,6 +1711,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "REGALONA",
+        "url": "https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 177412,
+      "name": "REGALONA",
+      "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Himalaya",
         "url": "https://open.spotify.com/album/2FxYWWfFTazRUhyYb3pofk"
       },
@@ -1727,22 +1743,6 @@
       "duration_ms": 168871,
       "name": "Himalaya",
       "url": "https://open.spotify.com/track/4JUQCUpWyitHecYN5qFLDw"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "REGALONA",
-        "url": "https://open.spotify.com/album/3oWWVVloAsuujw2QOoGF9d"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 177412,
-      "name": "REGALONA",
-      "url": "https://open.spotify.com/track/0vwCRieFJeccdBaDUSANOk"
     },
     {
       "added_at": "2024-04-19 04:00:00",

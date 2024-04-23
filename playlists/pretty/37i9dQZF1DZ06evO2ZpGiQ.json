@@ -1,12 +1,12 @@
 {
-  "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
-  "num_followers": 420701,
-  "original_name": "This Is Lil Wayne",
+  "description": "This is \u30ea\u30eb\u30fb\u30a6\u30a7\u30a4\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 420666,
+  "original_name": "This Is \u30ea\u30eb\u30fb\u30a6\u30a7\u30a4\u30f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGY4YzJjNjg4YjdiYzVlYzVkNjVjNWFmNzdhM2QyOGIy",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDI2NDNmYjY1ZjBjY2YwZGZlZWFjYTBmNDJhZmQ2MzE5",
   "tracks": [
     {
       "added_at": null,
@@ -203,34 +203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relapse: Refill",
-        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Eminem",
-          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
-        }
-      ],
-      "duration_ms": 357706,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grateful",
         "url": "https://open.spotify.com/album/4JBZ0QHveEpESepanNBG8A"
       },
@@ -259,6 +231,34 @@
       "duration_ms": 288600,
       "name": "I'm the One (feat. Justin Bieber, Quavo, Chance the Rapper & Lil Wayne)",
       "url": "https://open.spotify.com/track/3DXncPQOG4VBw3QHh3S817"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Relapse: Refill",
+        "url": "https://open.spotify.com/album/7MZzYkbHL9Tk3O6WeD4Z0Z"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        }
+      ],
+      "duration_ms": 357706,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/5UsLjwBaTHBX4ektWIr4XX"
     },
     {
       "added_at": null,
@@ -483,26 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter IV (Complete Edition)",
-        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 305840,
-      "name": "She Will",
-      "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CALL ME IF YOU GET LOST",
         "url": "https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9"
       },
@@ -519,6 +499,26 @@
       "duration_ms": 155292,
       "name": "HOT WIND BLOWS (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/3JJL91ilRV6fXhKqu0FGXs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter IV (Complete Edition)",
+        "url": "https://open.spotify.com/album/0pFydyko4Iw450abXlDPpp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 305840,
+      "name": "She Will",
+      "url": "https://open.spotify.com/track/0b4M7hd7mzLTm99MrMeZsp"
     },
     {
       "added_at": null,
@@ -567,6 +567,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bless",
+        "url": "https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Wheezy",
+          "url": "https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "duration_ms": 162778,
+      "name": "Bless (feat. Young Thug)",
+      "url": "https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -599,30 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bless",
-        "url": "https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Wheezy",
-          "url": "https://open.spotify.com/artist/4Ufo9whpMn1BwjnB3MJSYL"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 162778,
-      "name": "Bless (feat. Young Thug)",
-      "url": "https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "We The Best Forever",
         "url": "https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg"
       },
@@ -651,26 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tha Carter III",
-        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Static Major",
-          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
-        }
-      ],
-      "duration_ms": 299333,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believer (feat. Lil Wayne)",
         "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 219705,
       "name": "Believer (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tha Carter III",
+        "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Static Major",
+          "url": "https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV"
+        }
+      ],
+      "duration_ms": 299333,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J"
     },
     {
       "added_at": null,
@@ -715,6 +715,26 @@
       "duration_ms": 247445,
       "name": "Freak (feat. Lil Wayne, Joyner Lucas & Tee Grizzley)",
       "url": "https://open.spotify.com/track/4FXL19CnaMVS1HzRFl1BzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Flower Boy",
+        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
+      },
+      "artists": [
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 60000,
+      "name": "Droppin' Seeds (feat. Lil' Wayne)",
+      "url": "https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV"
     },
     {
       "added_at": null,
@@ -763,26 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flower Boy",
-        "url": "https://open.spotify.com/album/2nkto6YNI4rUYTLqEwWJ3o"
-      },
-      "artists": [
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 60000,
-      "name": "Droppin' Seeds (feat. Lil' Wayne)",
-      "url": "https://open.spotify.com/track/39u2PsqrAZpZ0KPx6CjasV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter V",
         "url": "https://open.spotify.com/album/50yFYgKdwJANZ5O9MIbMkg"
       },
@@ -803,26 +803,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Presha",
-        "url": "https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP"
-      },
-      "artists": [
-        {
-          "name": "2 Chainz",
-          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 185453,
-      "name": "Presha (with Lil Wayne)",
-      "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The City",
         "url": "https://open.spotify.com/album/5bHhH3k4p4ugORIb3q9BHd"
       },
@@ -839,6 +819,26 @@
       "duration_ms": 231173,
       "name": "Let It Rock",
       "url": "https://open.spotify.com/track/6TrNRd98WksT9Kkmx9uj6R"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Presha",
+        "url": "https://open.spotify.com/album/2tnjYrSajrt2nlv2Acf1DP"
+      },
+      "artists": [
+        {
+          "name": "2 Chainz",
+          "url": "https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 185453,
+      "name": "Presha (with Lil Wayne)",
+      "url": "https://open.spotify.com/track/6N7TGPYfGP2oxiy9Cpaz9G"
     },
     {
       "added_at": null,
@@ -867,6 +867,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "All The Time",
+        "url": "https://open.spotify.com/album/0FLBYsbtkgS11YvAnJc0Ct"
+      },
+      "artists": [
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Natasha Mosley",
+          "url": "https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ"
+        }
+      ],
+      "duration_ms": 264200,
+      "name": "All The Time",
+      "url": "https://open.spotify.com/track/0USZx50eApN045zIIyjePN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pinkprint (Deluxe)",
         "url": "https://open.spotify.com/album/5ooCuPIk58IwSo6DRr1JCu"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 312026,
       "name": "Only",
       "url": "https://open.spotify.com/track/4MRT0dDbhqFKl67WzhUbSw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All The Time",
-        "url": "https://open.spotify.com/album/0FLBYsbtkgS11YvAnJc0Ct"
-      },
-      "artists": [
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Natasha Mosley",
-          "url": "https://open.spotify.com/artist/1fYdgyGBrMIEML5cuo5FpZ"
-        }
-      ],
-      "duration_ms": 264200,
-      "name": "All The Time",
-      "url": "https://open.spotify.com/track/0USZx50eApN045zIIyjePN"
     },
     {
       "added_at": null,
@@ -1007,22 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorry 4 The Wait",
-        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
-      },
-      "artists": [
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 148610,
-      "name": "Twist Made Me",
-      "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "400 Degreez",
         "url": "https://open.spotify.com/album/6wpqS71CJr3I0dLguYiZdJ"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 265600,
       "name": "Back That Azz Up",
       "url": "https://open.spotify.com/track/6o2g1BJvtYQssH84kBYs7y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sorry 4 The Wait",
+        "url": "https://open.spotify.com/album/6MVsBi4m5eAzfjb6C3JKwp"
+      },
+      "artists": [
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 148610,
+      "name": "Twist Made Me",
+      "url": "https://open.spotify.com/track/4AZKDSYA1qtpiZQBdXno2j"
     },
     {
       "added_at": null,
@@ -1129,6 +1129,6 @@
       "url": "https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM"
     }
   ],
-  "unique_name": "This Is Lil Wayne",
+  "unique_name": "This Is \u30ea\u30eb\u30fb\u30a6\u30a7\u30a4\u30f3",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZpGiQ"
 }

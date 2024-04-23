@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6tYEFs22tT.md) - [plain]
 
 > Today's Hip\-Hop with Future, Metro Boomin, Drake and J\. Cole.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,704 likes - 69 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,248 likes - 69 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

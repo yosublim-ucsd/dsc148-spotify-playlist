@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 
 > Strut to electronic tracks that grace runways in Paris, New York City and Milan.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,963 likes - 100 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,992 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 53 | [Famous Monsters](https://open.spotify.com/track/0K5tCOHMG1GN4HsBTOljKm) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Famous Monsters](https://open.spotify.com/album/2TMoP7QgyGeRuortBdbOuQ) | 6:37 |
 | 54 | [Sharevari](https://open.spotify.com/track/2Bk2Oaz7u7F6yWsSyG8G1b) | [Aidan Noell](https://open.spotify.com/artist/7oAY9XKP6pjl3hIjvuoRCm), [Nancy Whang](https://open.spotify.com/artist/0xDT2bQJYfy8CYs8JlmH3B) | [Sharevari](https://open.spotify.com/album/4TZbGH2OySYi5WnA4tuh1l) | 5:51 |
 | 55 | [Romance Noire](https://open.spotify.com/track/7kBEQjXoeOGPGFaGIN9Ri8) | [Double Mixte](https://open.spotify.com/artist/0CbG9RmIlPk7RvbUEesKuR) | [Romance Noire](https://open.spotify.com/album/4Kw1fyxuNMfNOIXinAgTyD) | 5:12 |
-| 56 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
-| 57 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
+| 56 | [Flutter](https://open.spotify.com/track/41XT2xRCJW7Bcfi7Fva6h4) | [upsammy](https://open.spotify.com/artist/2orXY2oMFNUtiNrNMDyreV) | [Bend](https://open.spotify.com/album/3bkKjxSstHfQqzjdCEocTC) | 5:21 |
+| 57 | [Burner](https://open.spotify.com/track/79FRd4gq3o7yXSexLVsAFh) | [Ross from Friends](https://open.spotify.com/artist/1Ma3pJzPIrAyYPNRkp3SUF) | [Burner](https://open.spotify.com/album/1H2xgpZ4h6MAAlRnZxGKjl) | 5:08 |
 | 58 | [Beograd \- Edit](https://open.spotify.com/track/3gx1D5cgZgLnPiKLstrmtJ) | [SebastiAn](https://open.spotify.com/artist/5tOWIviwLM1EIqGAbF8VSU) | [Thirst](https://open.spotify.com/album/7AoXn0h3P8wtRN36CrA14y) | 3:36 |
 | 59 | [LOOK AT ME RIGHT NOW](https://open.spotify.com/track/74b8ZwgaV6wEokRZt8eWkG) | [GRANT KNOCHE](https://open.spotify.com/artist/4uLexEsM3MDb1sermSib4J) | [LOOK AT ME RIGHT NOW](https://open.spotify.com/album/2nJ18bOFgFIwKOkNryaJrn) | 2:08 |
 | 60 | [Cirrus](https://open.spotify.com/track/2hNTfrAILBLesbPootV83e) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Cirrus](https://open.spotify.com/album/6Yok6Vb8HTdoGf06XRsBsn) | 5:52 |
@@ -94,10 +94,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdGHH64iCtgA.md) - [plain]
 | 84 | [Jam Fam \- Chanel Show Version](https://open.spotify.com/track/5c9mk8S49pGZnUWXVLEGpI) | [Planningtorock](https://open.spotify.com/artist/7qHOphlWaJrfFa0BqpayDG) | [Jam Fam \(Chanel Show Version\)](https://open.spotify.com/album/4bfWioZVwpafj6ZAndLDZy) | 3:29 |
 | 85 | [Orvnge](https://open.spotify.com/track/0rG5nqOJMU8uEqq4RGC7oN) | [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv), [Virgil Abloh](https://open.spotify.com/artist/6zKRU70JFcCQtP3vKV4ANm) | [Orvnge](https://open.spotify.com/album/2gC6Mski1UzwVTwdbUAQPU) | 4:22 |
 | 86 | [Shhh](https://open.spotify.com/track/0yuMVPiMBtNKHqWNfAyzSY) | [LCY](https://open.spotify.com/artist/4UUWo1AiaKMCi76yo69O1U) | [Shhh](https://open.spotify.com/album/19yPeAYPzqohk9LMNbjhls) | 3:58 |
-| 87 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
-| 88 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
-| 89 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
-| 90 | [Domestic Tasks](https://open.spotify.com/track/2GNljwVh9HSEIAReooDJnL) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Domestic Tasks](https://open.spotify.com/album/0zsC5dskHff7Zk8Gb5Anzh) | 5:25 |
+| 87 | [Eat The Runway](https://open.spotify.com/track/14Ni5erIxyY8Y7nWbuDtpf) | [KLP](https://open.spotify.com/artist/3cWOwptrfEuGMJ2cM7ipc3), [LaLa Ri](https://open.spotify.com/artist/5sOIZhuDe7GzTTdJMVLmNz) | [Eat The Runway](https://open.spotify.com/album/6htixeOtoUYLx6uzAoitA0) | 3:08 |
+| 88 | [Never Sleep](https://open.spotify.com/track/4GT3Qum7qq52hP8PRtORMT) | [Gabber Eleganza](https://open.spotify.com/artist/4rCySlHzijM0ZiFPx7tUhd) | [Never Sleep \#1](https://open.spotify.com/album/5KmqZG7XmHAiflZGG6dwom) | 4:53 |
+| 89 | [Domestic Tasks](https://open.spotify.com/track/2GNljwVh9HSEIAReooDJnL) | [Sébastien Tellier](https://open.spotify.com/artist/23ymPLjbtAMzTJS2qRtQ8Z) | [Domestic Tasks](https://open.spotify.com/album/0zsC5dskHff7Zk8Gb5Anzh) | 5:25 |
+| 90 | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/track/6tdsK5sErHWB4ZzCbjpBI4) | [Robert Hood](https://open.spotify.com/artist/5ipQlfnpRCtyOuhYqvPvQ8) | [Chaos Walking \- Givenchy Mix](https://open.spotify.com/album/5ATZKrvHkDXz5bNpoLjftF) | 9:54 |
 | 91 | [YSL](https://open.spotify.com/track/32qENt36EnFCKOEGzLjRBY) | [Psycho Boys Club](https://open.spotify.com/artist/17NhTFMWDCB9nU8eDbRWiu) | [HYPNOTIZE EP](https://open.spotify.com/album/3uyE80PrNEyO6LVRu9e6Ud) | 2:42 |
 | 92 | [Fierce](https://open.spotify.com/track/6xbSap2nySRGj1XEptt4Tn) | [Rory Marshall](https://open.spotify.com/artist/6tS7Kh3N3ItYKa4hhy5JSE) | [Late Night Specialist](https://open.spotify.com/album/0kNtppJqchGWOfKTF1qEQJ) | 6:02 |
 | 93 | [Time Stands Still](https://open.spotify.com/track/4D5WSNm7QGcNcSHRBPKvQN) | [Richie Hawtin](https://open.spotify.com/artist/3AhwIUus3pIaA3CvYBEtpy) | [Time Warps](https://open.spotify.com/album/5V8ovTzN4QCvVJDW8ovVUE) | 16:37 |

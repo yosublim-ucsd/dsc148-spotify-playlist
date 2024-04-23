@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 114374,
+  "num_followers": 114386,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDFkMDIzNTZhZTZmODAzYzczOGFhZjY0MWJlNmVlZjcz",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDZmNjNlNDc4Mjk3MDU0NDlmMzAxNzAxZWJhOTAzMjFj",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 155642,
-      "name": "Middle Finger",
-      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blackout",
         "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 264473,
       "name": "Fields of Athenry",
       "url": "https://open.spotify.com/track/1U5yl42o56X6M6I2MRLJBd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 155642,
+      "name": "Middle Finger",
+      "url": "https://open.spotify.com/track/5YDSdt8rLCiUmc2BbNtCLe"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 219280,
-      "name": "(F)lannigan's Ball",
-      "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "11 Short Stories of Pain & Glory",
         "url": "https://open.spotify.com/album/6KLf1lMP6iFIRzxKcD7PFz"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 219280,
+      "name": "(F)lannigan's Ball",
+      "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Turn Up That Dial (Expanded Version)",
         "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
@@ -583,22 +583,6 @@
       "duration_ms": 222749,
       "name": "Turn Up That Dial",
       "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 205613,
-      "name": "The Wild Rover",
-      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
     },
     {
       "added_at": null,
@@ -627,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
       "artists": [
         {
@@ -636,9 +620,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 283680,
-      "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
-      "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
+      "duration_ms": 205613,
+      "name": "The Wild Rover",
+      "url": "https://open.spotify.com/track/3uDLaYtWx06MofPrKrljNW"
     },
     {
       "added_at": null,
@@ -659,8 +643,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
       "artists": [
         {
@@ -668,9 +652,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 173133,
-      "name": "Time To Go",
-      "url": "https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9"
+      "duration_ms": 283680,
+      "name": "It's A Long Way To The Top (If You Wanna Rock 'n' Roll)",
+      "url": "https://open.spotify.com/track/0BnS2mIXaKvNDmy98EBJO5"
     },
     {
       "added_at": null,
@@ -691,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Singles Collection Vol. 2",
-        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
       },
       "artists": [
         {
@@ -700,9 +684,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 158880,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
+      "duration_ms": 173133,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9"
     },
     {
       "added_at": null,
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+        "name": "Singles Collection Vol. 2",
+        "url": "https://open.spotify.com/album/1S7FQvutnvemp9eHsvGpxJ"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 145346,
-      "name": "Loyal To No One",
-      "url": "https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM"
+      "duration_ms": 158880,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/4XzxcPPwxCSEVn8qneqL3s"
     },
     {
       "added_at": null,
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sing Loud, Sing Proud",
-        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 93373,
-      "name": "For Boston",
-      "url": "https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp"
+      "duration_ms": 145346,
+      "name": "Loyal To No One",
+      "url": "https://open.spotify.com/track/1QPDnXVsateLgY8g75jasM"
     },
     {
       "added_at": null,
@@ -791,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Meanest Of Times",
-        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+        "name": "Sing Loud, Sing Proud",
+        "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
       "artists": [
         {
@@ -800,9 +784,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 196693,
-      "name": "God Willing",
-      "url": "https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik"
+      "duration_ms": 93373,
+      "name": "For Boston",
+      "url": "https://open.spotify.com/track/7GnGIJAJPwzaU2C7IXnlxp"
     },
     {
       "added_at": null,
@@ -823,6 +807,22 @@
       "duration_ms": 205937,
       "name": "Never Git Drunk No More (feat. Nikki Lane)",
       "url": "https://open.spotify.com/track/7IbJEpBPdVuec0WhORFwHJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Meanest Of Times",
+        "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 196693,
+      "name": "God Willing",
+      "url": "https://open.spotify.com/track/7fgK2S0XAGZk7gG3bwhXik"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

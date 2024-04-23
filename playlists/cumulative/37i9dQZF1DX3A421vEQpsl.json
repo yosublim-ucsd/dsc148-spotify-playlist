@@ -2391,6 +2391,36 @@
     },
     {
       "album": {
+        "name": "Papa Kehte Hain (From \"Srikanth\")",
+        "url": "https://open.spotify.com/album/1DoM6rYl4oyNaW7sLr8FTP"
+      },
+      "artists": [
+        {
+          "name": "Anand-Milind",
+          "url": "https://open.spotify.com/artist/2owjgBZQ70LoCNHIgW3gSk"
+        },
+        {
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
+        },
+        {
+          "name": "Aditya Dev",
+          "url": "https://open.spotify.com/artist/2IX6xq1cVcBoD4obUsT5xs"
+        },
+        {
+          "name": "Majrooh Sultanpuri",
+          "url": "https://open.spotify.com/artist/7ikcALJgPCvpL25820JNYR"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282078,
+      "name": "Papa Kehte Hain (From \"Srikanth\")",
+      "url": "https://open.spotify.com/track/7cAdIlAHmaWooLpqzPdTxI"
+    },
+    {
+      "album": {
         "name": "Pari Hoon Main (From \"Thank You For Coming\")",
         "url": "https://open.spotify.com/album/3Xdjd6F5JB9EFMXCDbrwLk"
       },
@@ -2858,7 +2888,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 182348,
       "name": "Saari Duniya Jalaa Denge",
       "url": "https://open.spotify.com/track/0YxKKO272sacGBJKjf6FnB"

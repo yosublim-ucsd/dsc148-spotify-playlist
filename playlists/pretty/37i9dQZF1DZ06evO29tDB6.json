@@ -1,12 +1,12 @@
 {
-  "description": "This Is El Tri. Los temas esenciales, todos en una lista.",
-  "num_followers": 131188,
+  "description": "This is El Tri. The essential tracks, all in one playlist.",
+  "num_followers": 131165,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGZjOGIxNDU3YjI2ZjgwNjNjODkyMTQ4NjNjZGJlYTVk",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDQ5Njc0ZmY2NzJmNDE2YzQwODE3ZDQzMzg4NWEyOGY4",
   "tracks": [
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 284640,
-      "name": "Todo sea por el rocanrol",
-      "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente",
         "url": "https://open.spotify.com/album/0DEAl6Dhwr8bIITWGVQR2Y"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 145093,
       "name": "Vicioso",
       "url": "https://open.spotify.com/track/1Dye6w5HIVXAzaECtHMNFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 284640,
+      "name": "Todo sea por el rocanrol",
+      "url": "https://open.spotify.com/track/4gJuuzk8bZmSpSlTyP6yMI"
     },
     {
       "added_at": null,
@@ -511,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Otra tocada m\u00e1s",
-        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 224906,
-      "name": "Sara",
-      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "40 A\u00f1os Vol. 1",
         "url": "https://open.spotify.com/album/2XxGkIvhq9F2eHxSifNpu1"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 246506,
       "name": "San Juanico",
       "url": "https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 246786,
+      "name": "Perro negro - Live",
+      "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
     },
     {
       "added_at": null,
@@ -575,8 +575,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE"
+        "name": "Sinf\u00f3nico",
+        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
       },
       "artists": [
         {
@@ -584,9 +584,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 246786,
-      "name": "Perro negro - Live",
-      "url": "https://open.spotify.com/track/2ch8w0Hcy8yXMPMIGLaQYQ"
+      "duration_ms": 244666,
+      "name": "Los minusv\u00e1lidos",
+      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
     },
     {
       "added_at": null,
@@ -611,8 +611,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinf\u00f3nico",
-        "url": "https://open.spotify.com/album/2N7qb2uMZLrGRVWnFDwXj8"
+        "name": "Otra tocada m\u00e1s",
+        "url": "https://open.spotify.com/album/4LKbyMIGm0gwSZqZV9XY4Z"
       },
       "artists": [
         {
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 244666,
-      "name": "Los minusv\u00e1lidos",
-      "url": "https://open.spotify.com/track/0vLrZpp49ADN2bqinIg1mU"
+      "duration_ms": 224906,
+      "name": "Sara",
+      "url": "https://open.spotify.com/track/30E7fZpUC0Cdw1E62BRxb3"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 A\u00f1os Vol. 2",
-        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 259053,
-      "name": "Chilangolandia",
-      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fin de siglo",
         "url": "https://open.spotify.com/album/3IM9oL8HMiQ3DzL0YKqKSD"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 158533,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 A\u00f1os Vol. 2",
+        "url": "https://open.spotify.com/album/0IbZ0zWLo7N6XKleOHQovV"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 259053,
+      "name": "Chilangolandia",
+      "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
     },
     {
       "added_at": null,

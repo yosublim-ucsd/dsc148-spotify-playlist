@@ -509,6 +509,24 @@
     },
     {
       "album": {
+        "name": "Catch the Breeze",
+        "url": "https://open.spotify.com/album/5W1mWHI2pGdchMs77OPKM6"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound of XYZ",
+          "url": "https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223994,
+      "name": "Catch the Breeze",
+      "url": "https://open.spotify.com/track/6NBmxK1yoYz7lRKM3Ecc52"
+    },
+    {
+      "album": {
         "name": "Circle Of Everything",
         "url": "https://open.spotify.com/album/0wHGczI6bIhfsYgCB0niAL"
       },
@@ -3012,7 +3030,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 155853,
       "name": "The State of Mudita",
       "url": "https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP"

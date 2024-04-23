@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Maju Terus Pantang Mundur (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1wCop93d6T0oG496Qman6b"
+      },
+      "artists": [
+        {
+          "name": "Armada",
+          "url": "https://open.spotify.com/artist/6H857CtcaYMSxOB4jvSIZf"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245146,
+      "name": "Asal Kau Bahagia",
+      "url": "https://open.spotify.com/track/79AlxPlv70kuRlsi2eZsnV"
+    },
+    {
+      "album": {
         "name": "Asing",
         "url": "https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7"
       },
@@ -1874,7 +1892,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 285693,
       "name": "Sumpah dan Cinta Matiku",
       "url": "https://open.spotify.com/track/2dWRApexXwC6HIpX0HvZxc"

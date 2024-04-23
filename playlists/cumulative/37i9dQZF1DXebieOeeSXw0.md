@@ -2,7 +2,7 @@
 
 ### [Tropicana](https://open.spotify.com/playlist/37i9dQZF1DXebieOeeSXw0)
 
-> The amazing sounds of the tropics.
+> The amazing sounds of the tropics 🌴🥥🥭🎶
 
 522 songs - 1 day 18 hr 37 min
 

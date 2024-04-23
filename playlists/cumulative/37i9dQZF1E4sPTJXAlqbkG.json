@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2023-06-30",
-  "description": "Con Bryson Tiller, Sonder, Summer Walker y m\u00e1s",
-  "name": "Radio de PARTYNEXTDOOR",
+  "description": "With Bryson Tiller, Sonder, Summer Walker and more",
+  "name": "PARTYNEXTDOOR Radio",
   "tracks": [
     {
       "album": {
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 98023,
       "name": "Belong to the City",
       "url": "https://open.spotify.com/track/5c3luoCub1Z1Gg74NdNtuq"
@@ -1308,7 +1308,7 @@
       ],
       "date_added": "2024-03-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 193840,
       "name": "Body",
       "url": "https://open.spotify.com/track/7vxLj7MREliG5i5vSnqSVr"
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 231253,
       "name": "Broken Clocks",
       "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
@@ -2006,7 +2006,7 @@
       ],
       "date_added": "2024-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
@@ -2212,7 +2212,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 92093,
       "name": "Deep",
       "url": "https://open.spotify.com/track/3LfHBTYZBTqmz43tvVXJBd"
@@ -2444,6 +2444,24 @@
       "duration_ms": 235391,
       "name": "DON'T DO IT FOR YOU NO MORE",
       "url": "https://open.spotify.com/track/2Tm4VevGfmqUUA5W0Ef0sf"
+    },
+    {
+      "album": {
+        "name": "PARTYNEXTDOOR 3 (P3)",
+        "url": "https://open.spotify.com/album/2veXxRriGPw4fFBZQNNMfQ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243977,
+      "name": "Don't Run",
+      "url": "https://open.spotify.com/track/4rKlOGw7Q0si6csx1Xq2IQ"
     },
     {
       "album": {
@@ -3342,7 +3360,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 272339,
       "name": "FREAK IN YOU",
       "url": "https://open.spotify.com/track/0jhodoJFvVnpQ6Ify39lJQ"
@@ -3400,7 +3418,7 @@
       ],
       "date_added": "2023-07-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 187998,
       "name": "Friends (feat. PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/48yghmFphEYBqEUReolP8J"
@@ -3866,7 +3884,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 256117,
       "name": "H e r O l d F r i e n d s",
       "url": "https://open.spotify.com/track/4SBZis6PQh5N40Zv9ro3Ti"
@@ -4120,7 +4138,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 272946,
       "name": "How Many Drinks?",
       "url": "https://open.spotify.com/track/4LiQ8uAynrXFWY0vimnAa1"
@@ -4910,7 +4928,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 205733,
       "name": "Just Might (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/43IMaycr34ZR5kS8mlL5hH"
@@ -4928,7 +4946,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 188906,
       "name": "Karma",
       "url": "https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380"
@@ -5070,7 +5088,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 150360,
       "name": "Language",
       "url": "https://open.spotify.com/track/4RnvS1tmh1ERhjXX6dxv95"
@@ -5966,7 +5984,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 116129,
       "name": "Mad Riches",
       "url": "https://open.spotify.com/track/0vA6Nhloi5UX2jmqX5Tvk9"
@@ -6330,7 +6348,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 213933,
       "name": "My Affection (with PARTYNEXTDOOR)",
       "url": "https://open.spotify.com/track/2aSM4sbNN7cSmpYOG0sf46"
@@ -6700,7 +6718,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 231497,
       "name": "No Love (with SZA)",
       "url": "https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk"
@@ -6780,7 +6798,7 @@
       ],
       "date_added": "2023-07-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
@@ -7510,7 +7528,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 303030,
       "name": "PEACE OF MIND",
       "url": "https://open.spotify.com/track/3FA8JpHhWwDXkroqRFLLFe"
@@ -8380,7 +8398,7 @@
       ],
       "date_added": "2024-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 376061,
       "name": "SAVAGE ANTHEM",
       "url": "https://open.spotify.com/track/7I0Sleck98bBPRZItY0w76"
@@ -8532,7 +8550,7 @@
       ],
       "date_added": "2023-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 98026,
       "name": "Session 32",
       "url": "https://open.spotify.com/track/2ktg2oZDyFAX3iY1QNkXl5"
@@ -8952,7 +8970,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 186339,
       "name": "SPLIT DECISION",
       "url": "https://open.spotify.com/track/7BY2h0RUgeenWrnbwPr0Kt"
@@ -9094,7 +9112,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 214893,
       "name": "stranger",
       "url": "https://open.spotify.com/track/7eZXAeqqdLDrAp2MvrPzWn"
@@ -9410,7 +9428,7 @@
       ],
       "date_added": "2023-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 123080,
       "name": "TBH",
       "url": "https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F"
@@ -9783,6 +9801,24 @@
     },
     {
       "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301895,
+      "name": "Thirsty",
+      "url": "https://open.spotify.com/track/2TPmjAg6ua4womsSaiNpdk"
+    },
+    {
+      "album": {
         "name": "SremmLife",
         "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
       },
@@ -9910,7 +9946,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 176506,
       "name": "Tonight",
       "url": "https://open.spotify.com/track/1qC6px1TOZgQFoTSOFUaBr"
@@ -11062,7 +11098,7 @@
       ],
       "date_added": "2023-06-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 212880,
       "name": "Wus Good / Curious",
       "url": "https://open.spotify.com/track/0NHvTrD8Igke3fawcp3njY"

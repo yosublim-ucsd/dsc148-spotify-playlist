@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:5d1JhBfyb58upMXCZOdbQu">Phil Wickham</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 980,552 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 979,597 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

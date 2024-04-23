@@ -1,6 +1,6 @@
 {
   "description": "A collection R&B and Afropop cuts from West Africa\u2019s finest artists. Cover: Juls",
-  "num_followers": 226837,
+  "num_followers": 226878,
   "original_name": "Ginger Me",
   "owner": {
     "name": "Spotify",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
+        "name": "Salt",
+        "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
+      },
+      "artists": [
+        {
+          "name": "Dai Verse",
+          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
+        }
+      ],
+      "duration_ms": 185660,
+      "name": "Salt",
+      "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
         "name": "How Many Times",
         "url": "https://open.spotify.com/album/32pRltYP2ioIOuycPQFpXm"
       },
@@ -975,22 +991,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Salt",
-        "url": "https://open.spotify.com/album/5f9qY7kRdRwPOYTdR4PJMG"
-      },
-      "artists": [
-        {
-          "name": "Dai Verse",
-          "url": "https://open.spotify.com/artist/2G0yYOdnPrffB2Mre1XCMv"
-        }
-      ],
-      "duration_ms": 185660,
-      "name": "Salt",
-      "url": "https://open.spotify.com/track/68d70XrR9yr5515EzmnE7e"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Everything I Thought It Was",
         "url": "https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7"
       },
@@ -1007,26 +1007,6 @@
       "duration_ms": 206226,
       "name": "Liar (feat. Fireboy DML)",
       "url": "https://open.spotify.com/track/5DIkmpzdunkmEo8yNukpJG"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "Risk (feat. Moliy)",
-        "url": "https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh"
-      },
-      "artists": [
-        {
-          "name": "Shekhinah",
-          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
-        },
-        {
-          "name": "Moliy",
-          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
-        }
-      ],
-      "duration_ms": 167272,
-      "name": "Risk (feat. Moliy)",
-      "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1051,6 +1031,26 @@
       "duration_ms": 163813,
       "name": "I Wish (feat. Libianca)",
       "url": "https://open.spotify.com/track/6Y22KIQd0RSREshosQvN2B"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Risk (feat. Moliy)",
+        "url": "https://open.spotify.com/album/5KSgs1ELY7Hw9psUKBUCZh"
+      },
+      "artists": [
+        {
+          "name": "Shekhinah",
+          "url": "https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB"
+        },
+        {
+          "name": "Moliy",
+          "url": "https://open.spotify.com/artist/2hVWBpjLW4Q7fboYz2pVYK"
+        }
+      ],
+      "duration_ms": 167272,
+      "name": "Risk (feat. Moliy)",
+      "url": "https://open.spotify.com/track/2dMAggfV7EGVwdaP74xlhB"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "All I Want",
-        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
-      },
-      "artists": [
-        {
-          "name": "Simi",
-          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
-        }
-      ],
-      "duration_ms": 175187,
-      "name": "All I Want",
-      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Kiss 'N' Tell",
         "url": "https://open.spotify.com/album/5ymb4OcOb0HkTHVaruOQ9B"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 141941,
       "name": "Kiss 'N' Tell",
       "url": "https://open.spotify.com/track/0I5l2lMLSLFUcTEKWwC1O5"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "All I Want",
+        "url": "https://open.spotify.com/album/61hib8ajgCzIBhNoNsJvUe"
+      },
+      "artists": [
+        {
+          "name": "Simi",
+          "url": "https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0"
+        }
+      ],
+      "duration_ms": 175187,
+      "name": "All I Want",
+      "url": "https://open.spotify.com/track/34oVCWxvzVR1sJNbCEMoEC"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
+        "name": "Ogaranya",
+        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
+      },
+      "artists": [
+        {
+          "name": "Adekunle Gold",
+          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Ogaranya",
+      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
         "name": "Undress You",
         "url": "https://open.spotify.com/album/7l0I4a6EZ7F6PzasBlGljO"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 213818,
       "name": "Undress You",
       "url": "https://open.spotify.com/track/6LVuaveD4hazORqbg67C03"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
-        "name": "Ogaranya",
-        "url": "https://open.spotify.com/album/6LUgn0kuzaQMhvKNorb5rG"
-      },
-      "artists": [
-        {
-          "name": "Adekunle Gold",
-          "url": "https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s"
-        }
-      ],
-      "duration_ms": 168610,
-      "name": "Ogaranya",
-      "url": "https://open.spotify.com/track/0tC86sTgoU5BXkV7iucdcS"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1239,30 +1239,6 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "5th Dimension",
-        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
-      },
-      "artists": [
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
-        },
-        {
-          "name": "Oxlade",
-          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
-        },
-        {
-          "name": "Tiwa Savage",
-          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
-    },
-    {
-      "added_at": "2024-04-19 00:01:00",
-      "album": {
         "name": "Ifeoma",
         "url": "https://open.spotify.com/album/7ln0dUxcBGuktHc6WXgIOx"
       },
@@ -1287,18 +1263,26 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "IS IT YOU? / MYSTERIOUS LOVE",
-        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
+        "name": "5th Dimension",
+        "url": "https://open.spotify.com/album/1stg00x6atjTH6w2MN4KZb"
       },
       "artists": [
         {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+          "name": "Stonebwoy",
+          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+        },
+        {
+          "name": "Oxlade",
+          "url": "https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT"
+        },
+        {
+          "name": "Tiwa Savage",
+          "url": "https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc"
         }
       ],
-      "duration_ms": 183652,
-      "name": "IS IT YOU?",
-      "url": "https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE"
+      "duration_ms": 200000,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/6qIlzp4lZfTYJujSXw5o7r"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1319,18 +1303,34 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Manifest (My Prayer)",
-        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
+        "name": "IS IT YOU? / MYSTERIOUS LOVE",
+        "url": "https://open.spotify.com/album/3nYZCI9RDtpcy5TtMKjwyS"
       },
       "artists": [
         {
-          "name": "Toby Grey",
-          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
         }
       ],
-      "duration_ms": 161739,
-      "name": "Manifest (My Prayer)",
-      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
+      "duration_ms": 183652,
+      "name": "IS IT YOU?",
+      "url": "https://open.spotify.com/track/3xmnR9kblvHlUWY2YDWkrE"
+    },
+    {
+      "added_at": "2024-04-19 00:01:00",
+      "album": {
+        "name": "Emotions",
+        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
+      },
+      "artists": [
+        {
+          "name": "Khaid",
+          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+        }
+      ],
+      "duration_ms": 160611,
+      "name": "Jara",
+      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
     },
     {
       "added_at": "2024-04-19 00:01:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-04-19 00:01:00",
       "album": {
-        "name": "Emotions",
-        "url": "https://open.spotify.com/album/3bGwvmmPjjxaiOjIG0YBqr"
+        "name": "Manifest (My Prayer)",
+        "url": "https://open.spotify.com/album/6Sx26wth07xY8HhYACRaZu"
       },
       "artists": [
         {
-          "name": "Khaid",
-          "url": "https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP"
+          "name": "Toby Grey",
+          "url": "https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww"
         }
       ],
-      "duration_ms": 160611,
-      "name": "Jara",
-      "url": "https://open.spotify.com/track/0WSxRM0rcUH9vqfsPcoDvx"
+      "duration_ms": 161739,
+      "name": "Manifest (My Prayer)",
+      "url": "https://open.spotify.com/track/5PQPG6LgvLxDuB02z4zSzY"
     },
     {
       "added_at": "2024-04-19 00:01:00",

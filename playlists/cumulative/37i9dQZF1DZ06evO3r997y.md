@@ -2,7 +2,7 @@
 
 ### [This Is 鬼頭明里](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3r997y)
 
-> This is 鬼頭明里\. The essential tracks, all in one playlist.
+> This is 鬼頭明里。アーティストの代表曲をひとつのプレイリストに。
 
 70 songs - 4 hr 40 min
 
@@ -37,8 +37,8 @@
 | [Esquisse](https://open.spotify.com/track/7aWBulbCFKjBPmY9AOJmhc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Esquisse](https://open.spotify.com/album/49EXGjFz7XT2UeSqyb2W7H) | 5:08 | 2022-09-15 | 2022-09-17 |
 | [Esquisse](https://open.spotify.com/track/2igZxJ4EC0jze98OazqKg3) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SfXj9tQ7sEH4uQNltc9Aa) | 5:08 | 2023-04-30 | 2023-09-26 |
 | [Esquisse](https://open.spotify.com/track/6KZ1wCYVxZEsxn45xCKc6P) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Luminous](https://open.spotify.com/album/3SxUa56iUcYT2tl1FbNSJg) | 5:08 | 2023-05-16 |  |
-| [Fleeting Time](https://open.spotify.com/track/6Wk3b3S9dwmYlNF3bCuHaO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/17Dj5oesL9DThjMDJ70vj4) | 3:56 | 2023-02-11 | 2024-04-20 |
-| [Fleeting Time](https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ) | 3:56 | 2023-02-10 |  |
+| [Fleeting Time](https://open.spotify.com/track/6Wk3b3S9dwmYlNF3bCuHaO) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/17Dj5oesL9DThjMDJ70vj4) | 3:56 | 2023-02-11 |  |
+| [Fleeting Time](https://open.spotify.com/track/78g4QBVg1TnTUADNagBwVB) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Dear Doze Days](https://open.spotify.com/album/32fWaY2GMkzb67EsHYc1WZ) | 3:56 | 2023-02-10 | 2024-04-23 |
 | [Fly\-High\-Five!](https://open.spotify.com/track/0jMIYKjbGzbWBWBqU34nZc) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [STYLE](https://open.spotify.com/album/2QFDuTNbTa8HGukQx4e5bL) | 4:24 | 2022-06-09 |  |
 | [Follow me!](https://open.spotify.com/track/3zY59yGG3JzTUUr6657zd0) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/3TyoqTtXHujGQBJ9LAA32n) | 4:22 | 2022-09-20 | 2022-09-26 |
 | [Follow me!](https://open.spotify.com/track/53VABfq0LKJa6Ru7ZNaZAi) | [Akari Kito](https://open.spotify.com/artist/5PFOljHpjdOGpyP34FGr8S) | [Kaleidoscope](https://open.spotify.com/album/7sUJB7RcSlzbww6NLR3TyU) | 4:22 | 2022-06-09 |  |

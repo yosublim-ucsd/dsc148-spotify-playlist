@@ -2,7 +2,7 @@
 
 ### [This Is Larkin Poe](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4gv01w)
 
-> This is Larkin Poe\. Todos os maiores hits em uma só playlist.
+> This is Larkin Poe\. The essential tracks, all in one playlist.
 
 141 songs - 8 hr 0 min
 
@@ -129,7 +129,7 @@
 | [Strike Gold](https://open.spotify.com/track/3eFCcD8aZJIc2wRmJm6Vyx) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Strike Gold](https://open.spotify.com/album/5YPy3q0MV7e5fJHFYNutjV) | 3:20 | 2022-10-09 | 2023-02-16 |
 | [Strike Gold](https://open.spotify.com/track/4vuqP2NPI5QaxvBJll1kCO) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/0Xf5P65OiLJlSF9h6DmZqe) | 3:20 | 2023-02-15 | 2023-04-30 |
 | [Strike Gold](https://open.spotify.com/track/7AZTHka2MiNr13j68b0Qun) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 3:20 | 2023-03-29 |  |
-| [Stubborn Love \- Acoustic](https://open.spotify.com/track/6oqPKcmGKibcIjmS2VZAu6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [An Acoustic Companion](https://open.spotify.com/album/4xY9iSCmjCYFeMkBbfuaiV) | 3:37 | 2023-11-10 |  |
+| [Stubborn Love \- Acoustic](https://open.spotify.com/track/6oqPKcmGKibcIjmS2VZAu6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [An Acoustic Companion](https://open.spotify.com/album/4xY9iSCmjCYFeMkBbfuaiV) | 3:37 | 2023-11-10 | 2024-04-23 |
 | [Sucker Puncher](https://open.spotify.com/track/5RXqnZB37wzll5IPQLcBX4) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Reskinned](https://open.spotify.com/album/4UwbVHSo5yrp4jkOIrKsRo) | 3:30 | 2022-08-05 |  |
 | [Sugar High](https://open.spotify.com/track/2wSZEb1pCkYoZn0jJs0CGd) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Kin](https://open.spotify.com/album/0mytUZFeUuGYr4abo8bf92) | 3:09 | 2022-08-05 |  |
 | [Summertime Sunset](https://open.spotify.com/track/4G1n8Ce2tgGxxBI7yjJHQk) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Blood Harmony](https://open.spotify.com/album/1mjMp0hRihcOnePY4DTfHj) | 5:09 | 2022-11-13 | 2022-11-18 |

@@ -1,6 +1,6 @@
 {
   "description": "Gotta catch 'em all.",
-  "num_followers": 144937,
+  "num_followers": 144945,
   "original_name": "Alternative Rock's Most Precious Gems",
   "owner": {
     "name": "Spotify",
@@ -395,18 +395,22 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Jar",
-        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
+        "name": "Lucky For You",
+        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
       },
       "artists": [
         {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+          "name": "Bully",
+          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
+        },
+        {
+          "name": "Soccer Mommy",
+          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
         }
       ],
-      "duration_ms": 222207,
-      "name": "Life In A Jar",
-      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
+      "duration_ms": 175386,
+      "name": "Lose You (feat. Soccer Mommy)",
+      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -427,22 +431,18 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Lucky For You",
-        "url": "https://open.spotify.com/album/0Wl5Z73DtV3cgqf0MLXgxz"
+        "name": "Jar",
+        "url": "https://open.spotify.com/album/6JLO3HVtVEKLHqbgs6ujdw"
       },
       "artists": [
         {
-          "name": "Bully",
-          "url": "https://open.spotify.com/artist/34LdbFt5sVXKTJOzf1iExQ"
-        },
-        {
-          "name": "Soccer Mommy",
-          "url": "https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q"
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Lose You (feat. Soccer Mommy)",
-      "url": "https://open.spotify.com/track/1ugQO8HhKXJ2kXaKJ6bznA"
+      "duration_ms": 222207,
+      "name": "Life In A Jar",
+      "url": "https://open.spotify.com/track/4yaBfHHZbAb2nim1fP7cRV"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Handwritten (Deluxe Version)",
-        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
-      },
-      "artists": [
-        {
-          "name": "The Gaslight Anthem",
-          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
-        }
-      ],
-      "duration_ms": 241240,
-      "name": "Handwritten",
-      "url": "https://open.spotify.com/track/7dqaE8YtE14X1QXMgVNMW4"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Anymore",
         "url": "https://open.spotify.com/album/1MtHTmOWEN7bpDj8sgCmHt"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 235826,
       "name": "Neon Brother",
       "url": "https://open.spotify.com/track/3onvqHzdPZXZrPo5GfLqGE"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Handwritten (Deluxe Version)",
+        "url": "https://open.spotify.com/album/3et3fAEh76eTu4O99WTtfY"
+      },
+      "artists": [
+        {
+          "name": "The Gaslight Anthem",
+          "url": "https://open.spotify.com/artist/7If8DXZN7mlGdQkLE2FaMo"
+        }
+      ],
+      "duration_ms": 241240,
+      "name": "Handwritten",
+      "url": "https://open.spotify.com/track/7dqaE8YtE14X1QXMgVNMW4"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Moving Away",
-        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
-      },
-      "artists": [
-        {
-          "name": "Gleemer",
-          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
-        }
-      ],
-      "duration_ms": 205148,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "My Friends",
         "url": "https://open.spotify.com/album/3UoQ5r0Vm1dznLfNdgQzxG"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 175648,
       "name": "My Friends",
       "url": "https://open.spotify.com/track/2Tv9dXLcMgOy1nx72qET0d"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Moving Away",
+        "url": "https://open.spotify.com/album/6mAz78FbXsb54tfopJLcDi"
+      },
+      "artists": [
+        {
+          "name": "Gleemer",
+          "url": "https://open.spotify.com/artist/4UjrcYERvCDC44O0uBSOFa"
+        }
+      ],
+      "duration_ms": 205148,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/5p8agvLs5qPIEZ7ygnmSMI"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "They Liked You Better When You Were Dead",
-        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
-      },
-      "artists": [
-        {
-          "name": "Fightstar",
-          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
-        }
-      ],
-      "duration_ms": 255720,
-      "name": "Palahniuk's Laughter",
-      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Abstract Figures in the Dark",
         "url": "https://open.spotify.com/album/4Wv5cp4Y9zk9ebuXOIGcpe"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 246005,
       "name": "Control",
       "url": "https://open.spotify.com/track/0ILT475efW2vVY5pxvCj0m"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "They Liked You Better When You Were Dead",
+        "url": "https://open.spotify.com/album/5ZbCUHOohVzwi7A6yrSJtj"
+      },
+      "artists": [
+        {
+          "name": "Fightstar",
+          "url": "https://open.spotify.com/artist/3CI0BdDDxe6D21RmqTB5fn"
+        }
+      ],
+      "duration_ms": 255720,
+      "name": "Palahniuk's Laughter",
+      "url": "https://open.spotify.com/track/4cpQ7ORCRYxBqzFyPkR4z3"
     },
     {
       "added_at": "2024-03-25 10:22:05",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-03-25 10:22:05",
       "album": {
-        "name": "Decay",
-        "url": "https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw"
-      },
-      "artists": [
-        {
-          "name": "Mirrortalk",
-          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
-        }
-      ],
-      "duration_ms": 279872,
-      "name": "Decay",
-      "url": "https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci"
-    },
-    {
-      "added_at": "2024-03-25 10:22:05",
-      "album": {
         "name": "Under Exit Lights",
         "url": "https://open.spotify.com/album/5c4rnFo67posi6omJUtu02"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 203600,
       "name": "Night Tryst",
       "url": "https://open.spotify.com/track/6t7JhxmZXS0YrYgvQyRWZ1"
+    },
+    {
+      "added_at": "2024-03-25 10:22:05",
+      "album": {
+        "name": "Decay",
+        "url": "https://open.spotify.com/album/6ECwJB9w4fL7X3vtoVTbHw"
+      },
+      "artists": [
+        {
+          "name": "Mirrortalk",
+          "url": "https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D"
+        }
+      ],
+      "duration_ms": 279872,
+      "name": "Decay",
+      "url": "https://open.spotify.com/track/3slMJuJsQelR7QrKJIIYci"
     },
     {
       "added_at": "2024-03-25 10:22:05",

@@ -1,6 +1,6 @@
 {
   "description": "Die gr\u00f6\u00dften Hits der deutschen Hip-Hop-Geschichte.",
-  "num_followers": 625264,
+  "num_followers": 625191,
   "original_name": "Deutschrap: Die Klassiker",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,22 @@
     {
       "added_at": "2024-04-17 14:41:20",
       "album": {
+        "name": "Power",
+        "url": "https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu"
+      },
+      "artists": [
+        {
+          "name": "Fischmob",
+          "url": "https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1"
+        }
+      ],
+      "duration_ms": 252013,
+      "name": "Susanne Zur Freiheit",
+      "url": "https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw"
+    },
+    {
+      "added_at": "2024-04-17 14:41:20",
+      "album": {
         "name": "Ich bin jung und brauche das Geld",
         "url": "https://open.spotify.com/album/0NP5dQgW9QSWDRHRoHYZxV"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 266573,
       "name": "Ich bin jung und brauche das Geld (feat. G-Style)",
       "url": "https://open.spotify.com/track/1ImJQbsJLoHj0YueZO21OT"
-    },
-    {
-      "added_at": "2024-04-17 14:41:20",
-      "album": {
-        "name": "Power",
-        "url": "https://open.spotify.com/album/5VmfxdCco6Rv8craZ7fOgu"
-      },
-      "artists": [
-        {
-          "name": "Fischmob",
-          "url": "https://open.spotify.com/artist/6OqgIRmdNbYzWX1r3KeiB1"
-        }
-      ],
-      "duration_ms": 252013,
-      "name": "Susanne Zur Freiheit",
-      "url": "https://open.spotify.com/track/20QcNlK3hAXszEYL324DPw"
     },
     {
       "added_at": "2024-04-17 14:41:20",
@@ -863,18 +863,22 @@
     {
       "added_at": "2024-04-17 14:41:20",
       "album": {
-        "name": "#Beste",
-        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
+        "name": "Get Up",
+        "url": "https://open.spotify.com/album/0rypL4vmBetlVD3PnjVJvd"
       },
       "artists": [
         {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+          "name": "Dj Thomilla",
+          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
+        },
+        {
+          "name": "Afrob",
+          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
         }
       ],
-      "duration_ms": 250680,
-      "name": "Hey Du!",
-      "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
+      "duration_ms": 229520,
+      "name": "Get Up (Radio Edit)",
+      "url": "https://open.spotify.com/track/1WlTJc85nw6jHFoHc6We8O"
     },
     {
       "added_at": "2024-04-17 14:41:20",
@@ -895,22 +899,18 @@
     {
       "added_at": "2024-04-17 14:41:20",
       "album": {
-        "name": "Get Up",
-        "url": "https://open.spotify.com/album/0rypL4vmBetlVD3PnjVJvd"
+        "name": "#Beste",
+        "url": "https://open.spotify.com/album/0J2IVb7kZRvOsiB30wsViE"
       },
       "artists": [
         {
-          "name": "Dj Thomilla",
-          "url": "https://open.spotify.com/artist/2WLE4ikok9I4HuBm9637rx"
-        },
-        {
-          "name": "Afrob",
-          "url": "https://open.spotify.com/artist/0XTiLzJ1VpU4HygM7uKA8c"
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
         }
       ],
-      "duration_ms": 229520,
-      "name": "Get Up (Radio Edit)",
-      "url": "https://open.spotify.com/track/1WlTJc85nw6jHFoHc6We8O"
+      "duration_ms": 250680,
+      "name": "Hey Du!",
+      "url": "https://open.spotify.com/track/5YU9jwcZ5vzLkcyWU8NTcj"
     }
   ],
   "unique_name": "Deutschrap: Die Klassiker",

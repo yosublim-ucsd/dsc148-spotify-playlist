@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 
 > Lo nuevo y lo mejor en el estilo mariachi\. Cover: Adriana Ríos
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,622 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,681 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VikJCuOpfO.md) - [plain]
 | 96 | [Ya No Vuelvas](https://open.spotify.com/track/5lqrDIEQy8YORSY8MoW37I) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Amor Como en las Películas de Antes](https://open.spotify.com/album/6llEx540bwa3fG9RI0boaW) | 2:54 |
 | 97 | [Tu Mama](https://open.spotify.com/track/4sT2ok1MLTcvLC2YocPuJU) | [Rocio Jasso](https://open.spotify.com/artist/26XEeP9QiBScGDRxcueg4b) | [Tu Mama](https://open.spotify.com/album/4UghGYyZTNF1yZMbMmJYPr) | 2:35 |
 | 98 | [Dime Qué Se Siente](https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS) | [Camila Fernández](https://open.spotify.com/artist/52Y9UQWlCoArmqJVFwaR2Q) | [Dime Qué Se Siente](https://open.spotify.com/album/4AGPivHFA82lHKFeIdM7kP) | 2:41 |
-| 99 | [Las Rejas No Matan](https://open.spotify.com/track/65QAEew8Hanp9jv41K0Wkm) | [Guadalupe Pineda](https://open.spotify.com/artist/6xG6oz3V8nZWrwSqpZmPii) | [Las Rejas No Matan](https://open.spotify.com/album/2HbREHvhYxmjUuWGFys3M9) | 2:58 |
+| 99 | [Cuatro Copas](https://open.spotify.com/track/61tGx5rUhzrt85uVxDqzof) | [La Santa Cecilia](https://open.spotify.com/artist/2FZrEn80eCoWrrkGXPLF0v), [Aida Cuevas](https://open.spotify.com/artist/5BOm3jiZCxwCXXJ0Hstubr) | [Cuatro Copas](https://open.spotify.com/album/2Q0z2joI0OzF4kLV1ty0gP) | 3:59 |
 | 100 | [Pinocho](https://open.spotify.com/track/1HbgsUNqjjMO6okGRkpS2L) | [Adriana Ríos](https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo) | [La Lotería](https://open.spotify.com/album/3jOBDGEiCdccHnOaHwZmtY) | 2:20 |
 
 Snapshot ID: `MTcxMzUwODAxNiwwMDAwMDAwMDNhMGFhN2Y4YzhlNjRmNDFhODI0YzcyNmNkYjg1MzA4`

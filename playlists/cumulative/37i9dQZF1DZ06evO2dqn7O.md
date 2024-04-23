@@ -2,7 +2,7 @@
 
 ### [This Is X Ambassadors](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2dqn7O)
 
-> This Is X Ambassadors\. Los temas esenciales, todos en una lista.
+> This is X Ambassadors\. Track\-track unggulan, semuanya dalam satu playlist.
 
 83 songs - 5 hr 0 min
 

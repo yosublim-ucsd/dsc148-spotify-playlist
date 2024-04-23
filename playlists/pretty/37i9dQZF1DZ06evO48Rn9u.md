@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 
 > This is Kacey Musgraves\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,301 likes - 46 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,331 likes - 46 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,15 +44,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO48Rn9u.md) - [plain]
 | 34 | [keep lookin’ up](https://open.spotify.com/track/06tKb2aBA9sma7Sftu7kSw) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:46 |
 | 35 | [Dime Store Cowgirl](https://open.spotify.com/track/43xanDcfSBWuURZCWbItzf) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:34 |
 | 36 | [Silver Lining](https://open.spotify.com/track/7Cmd1xEuyrUYtiLbbeBfgJ) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:50 |
-| 37 | [Love’s Gonna Live Here](https://open.spotify.com/track/7MrayLjl4mMWsSNBoQZTNw) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cayamo Sessions At Sea](https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF) | 2:14 |
+| 37 | [waves \(feat\. Kacey Musgraves\) \- Remix](https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:06 |
 | 38 | [angel](https://open.spotify.com/track/1fr6WZfau4vNzDFfHYSJVT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:19 |
 | 39 | [High Time](https://open.spotify.com/track/78eJbonprYfP4OU9Tjo64Z) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:57 |
 | 40 | [Step Off](https://open.spotify.com/track/5XolYC560U2AD6YJUemw2G) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:02 |
-| 41 | [waves \(feat\. Kacey Musgraves\) \- Remix](https://open.spotify.com/track/0JhyMqi5ihsk5neC8DMbbz) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:06 |
+| 41 | [Love’s Gonna Live Here](https://open.spotify.com/track/7MrayLjl4mMWsSNBoQZTNw) | [Buddy Miller](https://open.spotify.com/artist/6RwBVkrxTbbtS4bwxYQXcp), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Cayamo Sessions At Sea](https://open.spotify.com/album/4JbbKkl47kk0jNHWFWUjtF) | 2:14 |
 | 42 | [To June This Morning](https://open.spotify.com/track/5j7uJrdZv5JjxSPhDeqPSp) | [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Johnny Cash: Forever Words Expanded](https://open.spotify.com/album/5QkKD6xmHdaoxCRL5NHvIp) | 2:04 |
 | 43 | [Somebody To Love](https://open.spotify.com/track/3EFbnBUr70peMlk8g5XzT3) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 3:13 |
 | 44 | [Blowin' Smoke](https://open.spotify.com/track/4oqD7zXh23uvf583rDkunI) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:08 |
 | 45 | [Family Is Family](https://open.spotify.com/track/5IXXpT9Ypyqjl6qkuuekLc) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Pageant Material](https://open.spotify.com/album/5xxKrpAO6Toq1KmopQ4tox) | 2:32 |
 | 46 | [Keep It To Yourself](https://open.spotify.com/track/2fG23IIy7rYN8eMNbAHcS2) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Same Trailer Different Park](https://open.spotify.com/album/6IGpQUt0KNi5rBUXZZOFI6) | 3:16 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDdjNzFiNjkzYTViOTBmZmMwOTA5NWMyYWU1NWUxZjZj`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDA0MmViNTg4MzUyNzI3MDFmNzIyMjkyOTg3N2ZhNjM4`

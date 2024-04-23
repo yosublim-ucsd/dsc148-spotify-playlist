@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: LUDMILLA, Ryan Castro",
-  "num_followers": 361020,
+  "num_followers": 360217,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-04-19 18:20:22",
       "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
+    },
+    {
+      "added_at": "2024-04-19 18:20:22",
+      "album": {
         "name": "Olhar HD",
         "url": "https://open.spotify.com/album/5eAdKrXdGOxJEMmL1gucTv"
       },
@@ -851,26 +871,6 @@
       "duration_ms": 188976,
       "name": "Mal\u00edcia",
       "url": "https://open.spotify.com/track/2QZ1rsYyn93YttD5SlybTh"
-    },
-    {
-      "added_at": "2024-04-19 18:20:22",
-      "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
-      },
-      "artists": [
-        {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
-        }
-      ],
-      "duration_ms": 180021,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
     },
     {
       "added_at": "2024-04-19 18:20:22",
@@ -959,30 +959,6 @@
     {
       "added_at": "2024-04-19 18:20:22",
       "album": {
-        "name": "Um Pouco de Mim",
-        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 198260,
-      "name": "Cupido Querido",
-      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
-    },
-    {
-      "added_at": "2024-04-19 18:20:22",
-      "album": {
         "name": "Jardins Da Babil\u00f4nia",
         "url": "https://open.spotify.com/album/17eUYWC6XmUTbYFQ94wP0e"
       },
@@ -1015,6 +991,30 @@
       "duration_ms": 161903,
       "name": "Te Procurei",
       "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
+    },
+    {
+      "added_at": "2024-04-19 18:20:22",
+      "album": {
+        "name": "Um Pouco de Mim",
+        "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 198260,
+      "name": "Cupido Querido",
+      "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
     },
     {
       "added_at": "2024-04-19 18:20:22",

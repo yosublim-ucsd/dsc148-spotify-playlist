@@ -374,7 +374,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 269482,
       "name": "Babesihleka",
       "url": "https://open.spotify.com/track/1ctSLtJlPa5sLMyiDnVo0R"
@@ -414,7 +414,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 272404,
       "name": "BAMPHAMBANISELA",
       "url": "https://open.spotify.com/track/293R0EgKi4hLD8EUF5kFRj"
@@ -512,7 +512,7 @@
       ],
       "date_added": "2023-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 349831,
       "name": "Buza Kunyoko",
       "url": "https://open.spotify.com/track/3MwXl9gwg7aG1NBHcGKaZo"
@@ -1070,6 +1070,24 @@
       "duration_ms": 287906,
       "name": "Ikhotha Eyikhothayo",
       "url": "https://open.spotify.com/track/5lQrJySa8SnAVFzrppqOyo"
+    },
+    {
+      "album": {
+        "name": "ILO NALO NALOYA",
+        "url": "https://open.spotify.com/album/0tbbprX2Ysjr1ucc1huLpo"
+      },
+      "artists": [
+        {
+          "name": "Umlabalaba",
+          "url": "https://open.spotify.com/artist/4QpzTPW2meB4yr1ObtlQVY"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 333662,
+      "name": "Ilo Nalo Naloya",
+      "url": "https://open.spotify.com/track/7d2se65A7Vxyvlh0tnYoGN"
     },
     {
       "album": {
@@ -2093,6 +2111,28 @@
     },
     {
       "album": {
+        "name": "NGAGIYA NGAGIYA",
+        "url": "https://open.spotify.com/album/2R4PkXwcLBE7y15erayPTT"
+      },
+      "artists": [
+        {
+          "name": "AMA AK47",
+          "url": "https://open.spotify.com/artist/4EhqhDbkMsMg3v5XPVrBs2"
+        },
+        {
+          "name": "SMINOFU & NGIGA",
+          "url": "https://open.spotify.com/artist/3m494rnGtize8QcAO4kem8"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339498,
+      "name": "NGAGIYA NGAGIYA",
+      "url": "https://open.spotify.com/track/5l7buObzkuqmfXzPovpRXF"
+    },
+    {
+      "album": {
         "name": "Angitholi Lutho",
         "url": "https://open.spotify.com/album/5WOtZn2TNODSH5C4d5HDkt"
       },
@@ -2126,7 +2166,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 305382,
       "name": "Ngashela Kabi",
       "url": "https://open.spotify.com/track/7weVaok0qn6SH7KiEk1awy"
@@ -2232,6 +2272,32 @@
       "duration_ms": 296751,
       "name": "NGITHANDANA NE OWNER",
       "url": "https://open.spotify.com/track/5twLen4btRsNxaiUVDfxiC"
+    },
+    {
+      "album": {
+        "name": "Ngiyakudinga Dali",
+        "url": "https://open.spotify.com/album/3NrXhL3TmsDReIIHlnjxkh"
+      },
+      "artists": [
+        {
+          "name": "Abafana Baka Mgqumeni",
+          "url": "https://open.spotify.com/artist/0cgOYKvaAuokmhqrLSNPj6"
+        },
+        {
+          "name": "Imeya kazwelonke",
+          "url": "https://open.spotify.com/artist/0ojBhV7ziED4jfg5gA4nPP"
+        },
+        {
+          "name": "Tessa Masoka",
+          "url": "https://open.spotify.com/artist/1x9JwyRTkCrWXjYFctJtJR"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255007,
+      "name": "Ngiyakudinga Dali",
+      "url": "https://open.spotify.com/track/4QtN1mjfh4QathrMwco502"
     },
     {
       "album": {
@@ -3386,6 +3452,24 @@
       "duration_ms": 252853,
       "name": "Uyangithanda",
       "url": "https://open.spotify.com/track/15RuL9oTamznOswkGKF8rD"
+    },
+    {
+      "album": {
+        "name": "SILWA NEMPILO",
+        "url": "https://open.spotify.com/album/3BrkIp0jI17rm6iFMz0lHL"
+      },
+      "artists": [
+        {
+          "name": "AMA AK47",
+          "url": "https://open.spotify.com/artist/4EhqhDbkMsMg3v5XPVrBs2"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 719567,
+      "name": "UYINSIZWA KOBANI",
+      "url": "https://open.spotify.com/track/6hFRRT8YKi9PaNfXH1H36E"
     },
     {
       "album": {

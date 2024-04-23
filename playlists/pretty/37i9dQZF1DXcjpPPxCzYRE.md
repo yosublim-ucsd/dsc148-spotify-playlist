@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,053 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,091 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 62 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 63 | [Everyday Life](https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB) | 4:18 |
 | 64 | [Time After Time](https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Time After Time](https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc) | 3:26 |
-| 65 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
-| 66 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 65 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
+| 66 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
 | 67 | [every day is a game](https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [every day is a game](https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e) | 4:09 |
 | 68 | [Cambios](https://open.spotify.com/track/2pehRZBrGUQrsAnnyG02ET) | [Mario Diaz](https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [Cambios](https://open.spotify.com/album/1JgQALH4p7iOtrcJPHrYqD) | 3:23 |
 | 69 | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/track/7MQsvYlWeJUnMuY84MraBg) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/album/0ol8B8mnMgdkTJCR3ipqQx) | 3:16 |

@@ -1,6 +1,6 @@
 {
   "description": "Estas son las indomables de la M\u00fasica Mexicana. Fatima Campo en portada.",
-  "num_followers": 103862,
+  "num_followers": 103835,
   "original_name": "Mujeres Brav\u00edas",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Diamante",
+        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 158813,
+      "name": "Diamante",
+      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Qu\u00e9 Bueno Es Tenerte",
         "url": "https://open.spotify.com/album/5mylIAlnG7NVExUV5hPc3H"
       },
@@ -399,22 +415,6 @@
       "duration_ms": 205386,
       "name": "Qu\u00e9 Bueno Es Tenerte",
       "url": "https://open.spotify.com/track/2Vficy40iZyTKoAJNwLWzd"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Diamante",
-        "url": "https://open.spotify.com/album/0VOI5zNRRuxAOlYhRbV3il"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 158813,
-      "name": "Diamante",
-      "url": "https://open.spotify.com/track/6HVKGafBjt5eniLi0JFAwA"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -663,18 +663,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
+        "name": "Me Cuesta Tanto Olvidarte",
+        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
       },
       "artists": [
         {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+          "name": "Adriana R\u00edos",
+          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
         }
       ],
-      "duration_ms": 169750,
-      "name": "Decide Qu\u00e9 Somos",
-      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
+      "duration_ms": 173546,
+      "name": "Me Cuesta Tanto Olvidarte",
+      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -695,18 +695,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Me Cuesta Tanto Olvidarte",
-        "url": "https://open.spotify.com/album/5fokdp1rjaQb5sVgJ7GCqQ"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W"
       },
       "artists": [
         {
-          "name": "Adriana R\u00edos",
-          "url": "https://open.spotify.com/artist/2JnRvy27x6anarTXTHE9jo"
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
         }
       ],
-      "duration_ms": 173546,
-      "name": "Me Cuesta Tanto Olvidarte",
-      "url": "https://open.spotify.com/track/580BmtkUXvzFMKXfPRMeuK"
+      "duration_ms": 169750,
+      "name": "Decide Qu\u00e9 Somos",
+      "url": "https://open.spotify.com/track/2iYpbxARwexmEnzvNH598e"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Mi Problema",
-        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
-      },
-      "artists": [
-        {
-          "name": "Chiquis",
-          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
-        }
-      ],
-      "duration_ms": 183106,
-      "name": "Mi Problema",
-      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Mi Culpa",
         "url": "https://open.spotify.com/album/2IiwnQJQpBcaZnkvycvvT9"
       },
@@ -1223,6 +1207,22 @@
       "duration_ms": 268733,
       "name": "Mi Culpa",
       "url": "https://open.spotify.com/track/35NsxRSqly73eUC9jOgATW"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Mi Problema",
+        "url": "https://open.spotify.com/album/1yPw3S7ednaRYnHUZchyMb"
+      },
+      "artists": [
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "duration_ms": 183106,
+      "name": "Mi Problema",
+      "url": "https://open.spotify.com/track/4VPFDmBBwE3MfMRL42iIa4"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Mariachi Y Tequila (Deluxe)",
-        "url": "https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 187706,
-      "name": "Nos Gan\u00f3 El Amor",
-      "url": "https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Sesiones En Vivo Vol. 2",
         "url": "https://open.spotify.com/album/10F9VCKoV67HlFuBM0wgju"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 206000,
       "name": "Contigo Aprend\u00ed - En Vivo",
       "url": "https://open.spotify.com/track/1Oj84aMBeOnTcjKyQ4yHkA"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Mariachi Y Tequila (Deluxe)",
+        "url": "https://open.spotify.com/album/3CfVWjyKYQPsyUANeNipd8"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 187706,
+      "name": "Nos Gan\u00f3 El Amor",
+      "url": "https://open.spotify.com/track/3dEadsEMtM7MGeX7TsNPbj"
     },
     {
       "added_at": "2024-04-19 06:00:00",

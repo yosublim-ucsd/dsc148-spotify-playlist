@@ -1,6 +1,6 @@
 {
   "description": "Let's mix it. Cover: Imagine Dragons",
-  "num_followers": 137924,
+  "num_followers": 137976,
   "original_name": "Pop Rock",
   "owner": {
     "name": "Spotify",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "One of the Guys",
-        "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
-      },
-      "artists": [
-        {
-          "name": "JESSIA",
-          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
-        }
-      ],
-      "duration_ms": 118759,
-      "name": "One of the Guys",
-      "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "sail away",
         "url": "https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 166037,
       "name": "i'm too pretty for this",
       "url": "https://open.spotify.com/track/4shULiz3P7luscRsQobtDN"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "One of the Guys",
+        "url": "https://open.spotify.com/album/3PMqsg6TJ2AaTCA00Y7Sjb"
+      },
+      "artists": [
+        {
+          "name": "JESSIA",
+          "url": "https://open.spotify.com/artist/6DdbeAeBlrYj8bNToZv4TY"
+        }
+      ],
+      "duration_ms": 118759,
+      "name": "One of the Guys",
+      "url": "https://open.spotify.com/track/4jXEvctpjLM9moyDwG8SGp"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "WHEN THE MUSIC STOPS",
-        "url": "https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J"
-      },
-      "artists": [
-        {
-          "name": "jxdn",
-          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "WHEN THE MUSIC STOPS",
-      "url": "https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Further Joy",
         "url": "https://open.spotify.com/album/1rM5i5ofhPY3hdPA5wcozJ"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 197040,
       "name": "Barely on My Mind",
       "url": "https://open.spotify.com/track/7LigIDzs63Y4uFlZvNzCZq"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "WHEN THE MUSIC STOPS",
+        "url": "https://open.spotify.com/album/2PFcE83bDCmLKylmIRB90J"
+      },
+      "artists": [
+        {
+          "name": "jxdn",
+          "url": "https://open.spotify.com/artist/6Y64EaNqpqcZYTgs4c76gF"
+        }
+      ],
+      "duration_ms": 193250,
+      "name": "WHEN THE MUSIC STOPS",
+      "url": "https://open.spotify.com/track/49T4ZaBd8G932neUPU9AWB"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1287,18 +1287,34 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Doomed",
-        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
       },
       "artists": [
         {
-          "name": "MOTHICA",
-          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 206657,
-      "name": "Doomed",
-      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1315,6 +1331,22 @@
       "duration_ms": 173233,
       "name": "I Hate Your Friends",
       "url": "https://open.spotify.com/track/371pdH5EqWT3cyGfzv1dX1"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Doomed",
+        "url": "https://open.spotify.com/album/4l5UP0iPZqFq10zg91dOZ0"
+      },
+      "artists": [
+        {
+          "name": "MOTHICA",
+          "url": "https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA"
+        }
+      ],
+      "duration_ms": 206657,
+      "name": "Doomed",
+      "url": "https://open.spotify.com/track/4B6fmmAk918hiTBQMVl1K6"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1351,22 +1383,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 187838,
       "name": "Loud",
       "url": "https://open.spotify.com/track/3MmAHvXormpk5x55Ttb72F"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
-      },
-      "artists": [
-        {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
-        }
-      ],
-      "duration_ms": 199800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1503,6 +1503,22 @@
       "duration_ms": 223176,
       "name": "STRANGERS",
       "url": "https://open.spotify.com/track/2eeLM9CVHETMWIdDGtW39i"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Dead To Me",
+        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
+      },
+      "artists": [
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
+        }
+      ],
+      "duration_ms": 157504,
+      "name": "Dead To Me",
+      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1603,6 +1619,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "The CARR Show",
+        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149106,
+      "name": "Spiral City",
+      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "Una noche m\u00e1s (feat. Bruses)",
         "url": "https://open.spotify.com/album/4kj4tKZn3Gkee6Ik2hnkKY"
       },
@@ -1619,22 +1651,6 @@
       "duration_ms": 183353,
       "name": "Una noche m\u00e1s (feat. Bruses)",
       "url": "https://open.spotify.com/track/2kDqNf72Cicvk14rLdC9gW"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "The CARR Show",
-        "url": "https://open.spotify.com/album/1RyR1qhsIs8iMoHf61nAWZ"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149106,
-      "name": "Spiral City",
-      "url": "https://open.spotify.com/track/6LjmIxsNRNrAb8uvJktOeL"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1735,22 +1751,6 @@
       "duration_ms": 197387,
       "name": "Year 3000 2.0",
       "url": "https://open.spotify.com/track/6GQER7cmMJ3goZa1U6VgPs"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "Dead To Me",
-        "url": "https://open.spotify.com/album/1mwyZwRToR8k5V7ADCT31H"
-      },
-      "artists": [
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 157504,
-      "name": "Dead To Me",
-      "url": "https://open.spotify.com/track/1cEml7iH5h7cqd8Dn4HzdF"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1859,6 +1859,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "CRYBABY",
+        "url": "https://open.spotify.com/album/4N1kb8sxL6pVnKgpWMW3s6"
+      },
+      "artists": [
+        {
+          "name": "Alex Coles",
+          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
+        }
+      ],
+      "duration_ms": 176285,
+      "name": "CRYBABY",
+      "url": "https://open.spotify.com/track/2xNyRwIlRuYO2eN4enzRPQ"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "Never Be Yours",
         "url": "https://open.spotify.com/album/5kurSw80ftphOZwKYswRGZ"
       },
@@ -1871,6 +1887,22 @@
       "duration_ms": 187615,
       "name": "Never Be Yours",
       "url": "https://open.spotify.com/track/5lSFXnuWpDpOv9unx2gwFr"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "DO YOU LIKE ME?",
+        "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
+      },
+      "artists": [
+        {
+          "name": "Meg Smith",
+          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
+        }
+      ],
+      "duration_ms": 177808,
+      "name": "DO YOU LIKE ME?",
+      "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -1891,22 +1923,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "2 of us",
-        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 166522,
-      "name": "2 of us",
-      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Little Like Hell",
         "url": "https://open.spotify.com/album/3y2M76ZPDji9HWW9QoCvfY"
       },
@@ -1919,6 +1935,22 @@
       "duration_ms": 187804,
       "name": "Little Like Hell",
       "url": "https://open.spotify.com/track/3ws6O2EBzhEC1UPSOoxMfE"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "2 of us",
+        "url": "https://open.spotify.com/album/3bFEQnbwElcnheCSsT7uGI"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 166522,
+      "name": "2 of us",
+      "url": "https://open.spotify.com/track/7JKKIrRBNO9Og5ayp2F7hi"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2055,54 +2087,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "u & the tin man",
-        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
-      },
-      "artists": [
-        {
-          "name": "L\u00d8L\u00d8",
-          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
-        }
-      ],
-      "duration_ms": 148602,
-      "name": "u & the tin man",
-      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "DO YOU LIKE ME?",
-        "url": "https://open.spotify.com/album/0YdAuUnjZSdfJeL377Q0aS"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 177808,
-      "name": "DO YOU LIKE ME?",
-      "url": "https://open.spotify.com/track/1HG9BNyz9ZpesqRqHYausY"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "CRYBABY",
-        "url": "https://open.spotify.com/album/4N1kb8sxL6pVnKgpWMW3s6"
-      },
-      "artists": [
-        {
-          "name": "Alex Coles",
-          "url": "https://open.spotify.com/artist/7itwELrXfDuINywbgrNm6b"
-        }
-      ],
-      "duration_ms": 176285,
-      "name": "CRYBABY",
-      "url": "https://open.spotify.com/track/2xNyRwIlRuYO2eN4enzRPQ"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "everybody hates me",
         "url": "https://open.spotify.com/album/4IkWZIcTHndXokjUNG3B6q"
       },
@@ -2115,6 +2099,22 @@
       "duration_ms": 120287,
       "name": "everybody hates me",
       "url": "https://open.spotify.com/track/4vSgdsddL3qTemKDkscyjd"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "u & the tin man",
+        "url": "https://open.spotify.com/album/6v03FgC4opzoTpphB0JOIg"
+      },
+      "artists": [
+        {
+          "name": "L\u00d8L\u00d8",
+          "url": "https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0"
+        }
+      ],
+      "duration_ms": 148602,
+      "name": "u & the tin man",
+      "url": "https://open.spotify.com/track/708gCdwN3T84CSvJN5qjIp"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2187,22 +2187,18 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "fmk (with blackbear)",
-        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+        "name": "better than this",
+        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
       },
       "artists": [
         {
-          "name": "GAYLE",
-          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
-        },
-        {
-          "name": "blackbear",
-          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
         }
       ],
-      "duration_ms": 189075,
-      "name": "fmk (with blackbear)",
-      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
+      "duration_ms": 178165,
+      "name": "better than this",
+      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2239,18 +2235,38 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "better than this",
-        "url": "https://open.spotify.com/album/2VaKXOJ6RcIHwsYyWF6nlK"
+        "name": "wear your heart out",
+        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
       },
       "artists": [
         {
-          "name": "senses",
-          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+          "name": "Nightly",
+          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
         }
       ],
-      "duration_ms": 178165,
-      "name": "better than this",
-      "url": "https://open.spotify.com/track/53HsQKvda5AREIgqeCujU9"
+      "duration_ms": 191287,
+      "name": "the feeling",
+      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "fmk (with blackbear)",
+        "url": "https://open.spotify.com/album/2JATwGH1Izmuu47IcnfzSO"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        },
+        {
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "fmk (with blackbear)",
+      "url": "https://open.spotify.com/track/1hhMX7QQIhBsXjFmTK7owB"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2267,22 +2283,6 @@
       "duration_ms": 180918,
       "name": "Eye Contact",
       "url": "https://open.spotify.com/track/6uMKirWXFJYZIYDjXwLwbn"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
-        "name": "wear your heart out",
-        "url": "https://open.spotify.com/album/4KOM21G440kOOadSRiTeEu"
-      },
-      "artists": [
-        {
-          "name": "Nightly",
-          "url": "https://open.spotify.com/artist/3qDMrpZHtZEtVl5i1l7hP3"
-        }
-      ],
-      "duration_ms": 191287,
-      "name": "the feeling",
-      "url": "https://open.spotify.com/track/0FZoGTWJNMUYCzcJRXe5ny"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Bad Bones",
-        "url": "https://open.spotify.com/album/2Mp0vOi797F1mAgaXdLcDy"
-      },
-      "artists": [
-        {
-          "name": "SAINT PHNX",
-          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
-        }
-      ],
-      "duration_ms": 203578,
-      "name": "Bad Bones",
-      "url": "https://open.spotify.com/track/6hNaDPBmCwcANj9ZYwnSrl"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "ugly",
         "url": "https://open.spotify.com/album/7t6zzIar6ZEflGdgrUoAve"
       },
@@ -2467,6 +2451,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
+        "name": "Bad Bones",
+        "url": "https://open.spotify.com/album/2Mp0vOi797F1mAgaXdLcDy"
+      },
+      "artists": [
+        {
+          "name": "SAINT PHNX",
+          "url": "https://open.spotify.com/artist/1Tdg7NIdyWx9icE2GNZzxk"
+        }
+      ],
+      "duration_ms": 203578,
+      "name": "Bad Bones",
+      "url": "https://open.spotify.com/track/6hNaDPBmCwcANj9ZYwnSrl"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
         "name": "How Do You Love Me",
         "url": "https://open.spotify.com/album/2fOuSjF8vzo5dptyMi8o5s"
       },
@@ -2479,6 +2479,22 @@
       "duration_ms": 281644,
       "name": "30 Somehow",
       "url": "https://open.spotify.com/track/7kr4xACIU9qq0FXnOFVSTZ"
+    },
+    {
+      "added_at": "2024-04-19 14:19:15",
+      "album": {
+        "name": "Happy",
+        "url": "https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 162986,
+      "name": "Happy",
+      "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
     },
     {
       "added_at": "2024-04-19 14:19:15",
@@ -2503,22 +2519,6 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Happy",
-        "url": "https://open.spotify.com/album/3WlWHNK3j3vmMfR66YjNb2"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 162986,
-      "name": "Happy",
-      "url": "https://open.spotify.com/track/79rweGcDxRZTnEorOLhg4L"
-    },
-    {
-      "added_at": "2024-04-19 14:19:15",
-      "album": {
         "name": "Sorry Brody",
         "url": "https://open.spotify.com/album/0gSPIJGyXhraeebrMXYnXr"
       },
@@ -2535,18 +2535,22 @@
     {
       "added_at": "2024-04-19 14:19:15",
       "album": {
-        "name": "Inner Love Energy",
-        "url": "https://open.spotify.com/album/5oWvNTQdhL9lVri1H5RAkT"
+        "name": "What You Want",
+        "url": "https://open.spotify.com/album/1GSwthIrEhu3WUJ8I8DluY"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        },
+        {
+          "name": "Oliver Baxxter",
+          "url": "https://open.spotify.com/artist/1C3ukvfqNRUyRVi8Vvrz1b"
         }
       ],
-      "duration_ms": 186670,
-      "name": "Good Feeling About You",
-      "url": "https://open.spotify.com/track/7DswNRplVsp4Liu5lP85lj"
+      "duration_ms": 235175,
+      "name": "What You Want",
+      "url": "https://open.spotify.com/track/4yOorbmH62krVQ1dtaXdIL"
     }
   ],
   "unique_name": "Pop Rock",

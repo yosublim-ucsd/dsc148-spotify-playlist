@@ -1,12 +1,12 @@
 {
-  "description": "This Is Julieta Venegas. Los temas esenciales, todos en una lista.",
-  "num_followers": 205621,
+  "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
+  "num_followers": 205629,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDg0ZWYyNTQ1NjNjMDllMGQwN2VlZTk5NTI4ZTFiZGE5",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDU1ZmI5NjAxYmY3MGExZDkwNDlmODA0ZjM2OTZkMjNh",
   "tracks": [
     {
       "added_at": null,
@@ -335,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Papito (Deluxe)",
-        "url": "https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5"
-      },
-      "artists": [
-        {
-          "name": "Miguel Bos\u00e9",
-          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 225373,
-      "name": "Morenam\u00eda (Dueto 2007)",
-      "url": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Buenos Aires para el Mundo",
         "url": "https://open.spotify.com/album/32FV1RxcC38xWUP3gosMtJ"
       },
@@ -383,22 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Primera Fila",
-        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
+        "name": "Papito (Deluxe)",
+        "url": "https://open.spotify.com/album/7l8TCr6788hFRYFPk5QWq5"
       },
       "artists": [
         {
-          "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "name": "Miguel Bos\u00e9",
+          "url": "https://open.spotify.com/artist/7mWCSSOYqm4E9mB7V4ot6S"
         },
         {
           "name": "Julieta Venegas",
           "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
         }
       ],
-      "duration_ms": 221146,
-      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
-      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
+      "duration_ms": 225373,
+      "name": "Morenam\u00eda (Dueto 2007)",
+      "url": "https://open.spotify.com/track/3osYhl8lGmLJYASrrh9Y5f"
     },
     {
       "added_at": null,
@@ -415,6 +395,26 @@
       "duration_ms": 190360,
       "name": "Dos Soledades",
       "url": "https://open.spotify.com/track/2c6xAssXKcQ9NbcrMguJ5O"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Primera Fila",
+        "url": "https://open.spotify.com/album/3bDplLlZKkNPHJHGpwCmAm"
+      },
+      "artists": [
+        {
+          "name": "Bronco",
+          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 221146,
+      "name": "Adoro ( Primera Fila ) (feat. Julieta Venegas) - En Vivo",
+      "url": "https://open.spotify.com/track/1oBMy1HuG3PFfRGXgnuMeC"
     },
     {
       "added_at": null,

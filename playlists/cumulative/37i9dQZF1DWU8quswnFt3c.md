@@ -4,7 +4,7 @@
 
 > Listen to women at full volume from across the world\. Cover: Laufey
 
-1,838 songs - 4 day 5 hr 31 min
+1,840 songs - 4 day 5 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,7 +595,7 @@
 | [Goodbye Letter](https://open.spotify.com/track/3dyYVOZcDsqk3TiIyUJlqU) | [ise](https://open.spotify.com/artist/5jx0P9PxMMiVmeTBSIEofH) | [Goodbye Letter](https://open.spotify.com/album/4P7lsbjehz1NEWxXxZKWY5) | 3:43 | 2024-02-07 | 2024-03-07 |
 | [Gorgeous Gorgeous Girls](https://open.spotify.com/track/5Ev5bb32kDL4Bdb2deG0G6) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [Gorgeous Gorgeous Girls](https://open.spotify.com/album/6qE9k5wB9ZfoWruZeDTMLh) | 1:56 | 2022-07-06 | 2022-07-09 |
 | [Got You](https://open.spotify.com/track/26EvVb7HxLt5fVXtNRzUEw) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Amyl and The Sniffers](https://open.spotify.com/album/5d5j7Qr9OYZNFWy5fmSmLo) | 2:18 | 2023-03-01 | 2023-04-06 |
-| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-11-14 |  |
+| [greedy](https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [greedy](https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN) | 2:11 | 2023-11-14 | 2024-04-23 |
 | [GRL GVNG](https://open.spotify.com/track/5OqMZ8In8CkCa0SbknnDPl) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [GRL GVNG](https://open.spotify.com/album/0s6tMsTvOqtqmFxJogsIJS) | 3:08 | 2023-07-05 | 2023-08-03 |
 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 | 2023-01-04 | 2023-02-02 |
 | [ground zero](https://open.spotify.com/track/4BKGOLRScQzCal1o6A9XAL) | [Rahmania Astrini](https://open.spotify.com/artist/0e5blBgpur3Y18wS1bzXQC) | [space](https://open.spotify.com/album/7ygO9kMeqjmADYqdy7ZH3k) | 2:43 | 2023-04-05 | 2023-05-04 |
@@ -772,6 +772,7 @@
 | [Killin’ Me Good](https://open.spotify.com/track/4Cyf87ul1le0xTWRFBoYd7) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:05 | 2023-09-06 | 2023-11-09 |
 | [Kim Bilir](https://open.spotify.com/track/4nORqOfjk45WIT5NpKmv9o) | [Eda Baba](https://open.spotify.com/artist/0sG2HOcaA6eqnGTeLMJpRm) | [Kim Bilir](https://open.spotify.com/album/5AG2E8yMQcdFxJ0pqPLJCM) | 2:19 | 2023-08-02 | 2023-09-07 |
 | [Kimseye Etmem Şikayet](https://open.spotify.com/track/1pV8paCBscEnJWOw2kFSyb) | [Müzeyyen Senar](https://open.spotify.com/artist/7qMU11EGOWoOFrHlrHpbLd) | [Atatürk'ün Sevdiği Şarkılar](https://open.spotify.com/album/5J4QWWmohr3y08TRNwWc04) | 3:16 | 2023-10-04 | 2023-11-17 |
+| [Kingston](https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Atlanta Millionaires Club](https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4) | 3:22 | 2024-04-17 |  |
 | [Kirpiklerin](https://open.spotify.com/track/2NxBMC0gGCcQItr2iotAwZ) | [Melek Mosso](https://open.spotify.com/artist/5IAxUWLiTMsvc1oWPrczNj) | [Kirpiklerin](https://open.spotify.com/album/0SQuzuNMouc0l3NcgRYzrp) | 2:56 | 2022-01-05 | 2022-02-03 |
 | [KISS](https://open.spotify.com/track/7MONmJafc7senaIZE3ulWv) | [TRI.BE](https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a) | [LEVIOSA](https://open.spotify.com/album/6ORQnWLnQLERhWhA3ON2Z5) | 3:05 | 2022-09-07 | 2022-10-05 |
 | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/track/1QaOGWzjEOhDHVAvgig22X) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Kiss Me It's Christmas \(feat\. Ne\-Yo\)](https://open.spotify.com/album/3AsfhheJgqBEmYY5ar7lDQ) | 3:35 | 2021-12-11 | 2022-01-06 |
@@ -1016,6 +1017,7 @@
 | [mother luna](https://open.spotify.com/track/5O5XF0Ln1X1lejZcP8iS02) | [ajsa luna](https://open.spotify.com/artist/0PmmEd4m9BdqzxjMpMQwJE) | [mother luna](https://open.spotify.com/album/1xfuwVFrHx1EnQuo3MlLuy) | 2:28 | 2024-01-10 | 2024-03-07 |
 | [MOTHERS SISTERS GIRLFRIENDS](https://open.spotify.com/track/1ky8mlXv9lG3FEfAxZ5P1n) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [THE POWER IN US](https://open.spotify.com/album/7qiwCfOn9JFpVZ1Q8qD6Vc) | 3:44 | 2022-05-04 | 2022-06-01 |
 | [Motinha](https://open.spotify.com/track/6DWa4TwWpkby73mls0w6XR) | [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Meu Esquema](https://open.spotify.com/album/6osVzkibmUSPNEWw7ABsjR) | 3:14 | 2022-11-02 | 2022-12-01 |
+| [Mountains](https://open.spotify.com/track/0w0kClmKsQz5A6OecdwhVt) | [Charlotte Day Wilson](https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v) | [Mountains](https://open.spotify.com/album/251uvmlPX4D3UiH4zGtj66) | 4:08 | 2024-04-17 |  |
 | [Moves](https://open.spotify.com/track/6Qd0m5xN4ngZvHdyy1SMVy) | [Cíntia](https://open.spotify.com/artist/4WqTcvQjAIpyRqnWX6jRmU) | [Moves](https://open.spotify.com/album/53U31iP9TMufcyKtWHabAh) | 3:41 | 2022-07-06 | 2022-08-04 |
 | [Mr\. Daydream](https://open.spotify.com/track/5HYUcCS99ZzM3z3E5OKlY8) | [Mai Davika](https://open.spotify.com/artist/0XZFmjFo1arDluB0KncejC) | [Mr\. Daydream](https://open.spotify.com/album/0FpWw1iUM4JHq4eovT85z1) | 3:17 | 2023-03-01 | 2023-04-06 |
 | [Mukhtasir Baatein](https://open.spotify.com/track/0SFzTBfG9UgdFGMc2KJD8y) | [Eva B](https://open.spotify.com/artist/6uKDXHJSM9VI5H6FhONorO) | [Mukhtasir Baatein](https://open.spotify.com/album/5nOZtgjx1yZ7xZUQk69pKo) | 2:42 | 2022-10-04 | 2022-11-03 |
@@ -1532,7 +1534,7 @@
 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 | 2023-10-04 | 2023-11-17 |
 | [Tragic Love](https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo) | [H I N A N O](https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY) | [Tragic Love](https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS) | 3:23 | 2024-01-10 | 2024-02-08 |
 | [Trago](https://open.spotify.com/track/6u6H8WHjoirugriJDMZGIG) | [Rita Vian](https://open.spotify.com/artist/2F6B2QaWX7cz72kKtY8LRD) | [CAOS'A](https://open.spotify.com/album/4vd3ussiCrKb6XO92DOsys) | 3:43 | 2022-01-05 | 2022-02-03 |
-| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-03-06 |  |
+| [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-03-06 | 2024-04-23 |
 | [Trajikomedi](https://open.spotify.com/track/5KvQtUK14fbyFmZjeaBc1g) | [Melis Fis](https://open.spotify.com/artist/59P035Jvn8eSY86obDOHZ8) | [Trajikomedi](https://open.spotify.com/album/1fOUfo9SzGYY2PIi1Ndzr6) | 2:53 | 2023-02-01 | 2023-03-02 |
 | [TRASCENDER](https://open.spotify.com/track/4vqZefmXZYfnLM03gJQtPu) | [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [DAMALEONA, VOL\. 1](https://open.spotify.com/album/2oObvntvGhOHUcLr6JCQFi) | 4:15 | 2022-08-03 | 2022-09-09 |
 | [Tratado de Versalles](https://open.spotify.com/track/6m6jT6LdtTH4DIU398sq91) | [Violetta Arriaza](https://open.spotify.com/artist/2WET7xahye2vwzTTB7MH1U) | [Tratado de Versalles](https://open.spotify.com/album/2uaITMxL3Kk8jj64TyXF8I) | 2:21 | 2022-10-04 | 2022-11-03 |

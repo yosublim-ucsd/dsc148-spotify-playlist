@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 
 > Relax, heal and restore your energy
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,847 likes - 105 songs - 9 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,855 likes - 105 songs - 9 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YDqnWWzvxD.md) - [plain]
 | 53 | [Long Long Sleep](https://open.spotify.com/track/6SuaebhLmpcXZOLUfisKG0) | [Sleepy Stills](https://open.spotify.com/artist/1Ft3gRFnTagadwt0sARe1r) | [Long Long Sleep](https://open.spotify.com/album/7DfCMP9OU6vmNUIh08lIe6) | 2:17 |
 | 54 | [Endless Sleep](https://open.spotify.com/track/62ZB9B4xjhcckPa2cgnRPj) | [Savasana](https://open.spotify.com/artist/5EvA844VMdq61U5M4Ds0Fk), [Yoga Savasana](https://open.spotify.com/artist/7JzaqHa1JiixMzAQsMNgEq), [Moon Tunes](https://open.spotify.com/artist/2CrKYctaeLX0vhSesbWyTD) | [Endless Meditation](https://open.spotify.com/album/3Ac4Q4OMQYRrlYKl3j7iuK) | 2:43 |
 | 55 | [Oceans of Mindfulness](https://open.spotify.com/track/5MqRAmszGco33DuPYE6WBs) | [Steven Halpern](https://open.spotify.com/artist/2J3qGaj5UzHvu0fjlLgb8k) | [Mindful Piano: Music for Meditation](https://open.spotify.com/album/5DJm78hvC2FktiJ0BczmIm) | 5:32 |
-| 56 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/5gYdQfBZuQ4pMi1WYKLhPy) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 |
+| 56 | [The Southern Sea](https://open.spotify.com/track/13DDTT9eGK66diG2a4j5hE) | [Garth Stevenson](https://open.spotify.com/artist/0SFz7AVtevccdhXj6aeVka) | [Flying](https://open.spotify.com/album/4FViVwipetWhzoq8Topg0P) | 8:59 |
 | 57 | [Shanti \(Shavasana Dub\) Omstrumental](https://open.spotify.com/track/5zpeUjjv1L6gsZYJcnAn6g) | [MC YOGI](https://open.spotify.com/artist/4dkPtsX0xVdn8gZmdMdFuk) | [Elephant Powered Omstrumentals](https://open.spotify.com/album/2nfZhL9Yxdz3kiY5NaB4YO) | 7:08 |
 | 58 | [Attention Caller](https://open.spotify.com/track/5mgbGh47Sm1s8swwlGsSbW) | [Binary One](https://open.spotify.com/artist/71mFIlyvSib2V4MnPKERi2) | [Hyper Focus](https://open.spotify.com/album/5QwYT0LWcrJEIKwgPro8am) | 3:23 |
 | 59 | [Resonant Wave](https://open.spotify.com/track/6HwWUWAb0LofLu9TmdlPen) | [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi), [Scott Huckabay](https://open.spotify.com/artist/5NO9Da4kOYrg9E6iGhYQjg), [Phil Heaven](https://open.spotify.com/artist/2LvimbnpvtfVNDdv37EoUQ) | [Harmonic Way](https://open.spotify.com/album/61O6B4dVDTH1WutQUSd9W0) | 5:35 |

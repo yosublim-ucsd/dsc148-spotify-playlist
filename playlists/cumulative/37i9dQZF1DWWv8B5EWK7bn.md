@@ -4,7 +4,7 @@
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-397 songs - 1 day 4 hr 22 min
+398 songs - 1 day 4 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -125,6 +125,7 @@
 | [Frozen Warnings](https://open.spotify.com/track/5gRCeSo5sdTDHRm2zjpOEZ) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Marble Index](https://open.spotify.com/album/48KVIwAePhzIDqv2pURFMY) | 4:02 | 2023-01-20 | 2023-03-18 |
 | [fuck yeah no please](https://open.spotify.com/track/34fxnzTP7z45xsn8AF7vQz) | [Vanessa Weisz](https://open.spotify.com/artist/7dvGiSfugWRPvRmuptKcHA) | [fuck yeah no please](https://open.spotify.com/album/6T2VZu5eICkMEu0QUD9abc) | 2:25 | 2022-08-13 | 2022-09-12 |
 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 | 2021-10-15 |  |
+| [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y) | [David Bowie](https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi), [NATURE](https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1) | [Get Real \- Sounds Right Mix \(feat\. NATURE\)](https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm) | 4:17 | 2024-04-22 |  |
 | [Get Sun \(feat\. Arthur Verocai\)](https://open.spotify.com/track/5CBEzaNEuv3OO32kZoXgOX) | [Hiatus Kaiyote](https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y), [Arthur Verocai](https://open.spotify.com/artist/1tP3R35TdPW8BMwmTPOoVZ) | [Mood Valiant](https://open.spotify.com/album/456WeVeZk38VJuqg2sL7QG) | 5:37 | 2023-01-20 | 2023-06-06 |
 | [Girl Supreme](https://open.spotify.com/track/1lpSuS2256fbNn3yKcrdqB) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu) | [Girl Supreme](https://open.spotify.com/album/4K7d10ZpPwzWTEnsVxJJ7v) | 2:48 | 2023-08-11 | 2024-03-22 |
 | [Glass & Patron](https://open.spotify.com/track/3U6CPINSKmZJ09FtO9PgUa) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [M3LL155X](https://open.spotify.com/album/2RUX2ps4xMNTyI2iAwVyf3) | 4:18 | 2023-01-20 | 2023-03-18 |
@@ -382,7 +383,7 @@
 | [Vallahi Yok](https://open.spotify.com/track/5z9vETzqw2MYykOvfwXYWx) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Vallahi Yok / Kirik Cam](https://open.spotify.com/album/5nAQCUYTxmLIvBSdrmOjSf) | 4:37 | 2024-04-15 |  |
 | [Vexations](https://open.spotify.com/track/0eHOw5xlTyw2DbVTHu3mlH) | [Erik Satie](https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK) | [A Young Person's Guide to the Avant\-Garde](https://open.spotify.com/album/3B4NWeTR5KQ8SItD6mz6x2) | 3:09 | 2023-01-20 | 2023-02-04 |
 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 | 2022-07-15 | 2023-01-03 |
-| [Void](https://open.spotify.com/track/4FyZknHKfTxbVnsvnt8BEk) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Three Bells](https://open.spotify.com/album/3ZRn2YWUwzPX5iMuw1zGQh) | 6:43 | 2024-02-02 |  |
+| [Void](https://open.spotify.com/track/4FyZknHKfTxbVnsvnt8BEk) | [Ty Segall](https://open.spotify.com/artist/58XGUNsRNu3cVOIOYk5chx) | [Three Bells](https://open.spotify.com/album/3ZRn2YWUwzPX5iMuw1zGQh) | 6:43 | 2024-02-02 | 2024-04-23 |
 | [Voyager](https://open.spotify.com/track/7liCZGCeSyqcDRKhdlglHW) | [Slauson Malone 1](https://open.spotify.com/artist/6mWYIx4qV7et94cpRRU77N) | [Voyager](https://open.spotify.com/album/6HHaF08StaSFk1MdDOMAp4) | 3:09 | 2023-08-24 | 2024-01-04 |
 | [Wall Of Eyes](https://open.spotify.com/track/6hp729YavhhHeH62B2QH6J) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Wall Of Eyes](https://open.spotify.com/album/200fExjblMBQHdfptuDUra) | 5:05 | 2023-11-23 | 2024-01-30 |
 | [We Go Back](https://open.spotify.com/track/0rm3x9LMs2QN72gNp4qY50) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [We Go Back](https://open.spotify.com/album/5aqwNIaQEGgQZCTjSIGOPJ) | 3:23 | 2022-02-04 | 2022-06-08 |

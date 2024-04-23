@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 
 > A collection of the best Arab metal\.  Cover: <a href="spotify:artist:63U8atFXZ3sax4eeV212tq">Coat Of Arms</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,816 likes - 30 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,868 likes - 30 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqykGqi6KX8.md) - [plain]
 | 20 | [The Cost Of Everything And The Value Of Nothing](https://open.spotify.com/track/34k1SirFGrzHpYUrwiFNAk) | [Acrassicauda](https://open.spotify.com/artist/3MN7LhOUWGVnrRAwc1vtvG) | [GILGAMESH](https://open.spotify.com/album/4yfjrGtClK3NfmzXRuV20y) | 3:08 |
 | 21 | [Inferno](https://open.spotify.com/track/4ff0WAyXQHgij8hgk1HOGU) | [Coat Of Arms](https://open.spotify.com/artist/63U8atFXZ3sax4eeV212tq) | [Inferno](https://open.spotify.com/album/2zj4b2QYe8CljpJiAWzvpp) | 3:16 |
 | 22 | [Kahf Alkhulood](https://open.spotify.com/track/1zMvdRf1pe7HkKBVaBrLLZ) | [Narjahanam](https://open.spotify.com/artist/6Y5OnkthtwaEEjjTjbi5Vy) | [Wa Ma Khufiya Kana A'atham](https://open.spotify.com/album/5AVtqTyC8BWXrHzHhfbk38) | 5:11 |
-| 23 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
-| 24 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
+| 23 | [Time to Raise the Curtains](https://open.spotify.com/track/7MSH1qlIpKG1JNd0vhBhte) | [Nawather](https://open.spotify.com/artist/6Njxfc9KsYG0BxVEKEAtUI) | [Wasted Years](https://open.spotify.com/album/4m9InB8pZlZLUy1DsFBmAw) | 4:00 |
+| 24 | [Inta Omri \(You Are My Life\)](https://open.spotify.com/track/3ooVc9kPY6DNpCxM2srJtb) | [Khalas](https://open.spotify.com/artist/5ScNEqoqJISrxyWLJSDVXX) | [Ma Adesh Feeha \(We've Had It\)](https://open.spotify.com/album/6eltMmaoFofuMEFYMp4TJW) | 3:59 |
 | 25 | [I Am the Beast](https://open.spotify.com/track/3esEno7VbHhFQly6SYeBV8) | [Ambrotype](https://open.spotify.com/artist/2kgkOFR0aUzwtamaD010iD) | [The Revelations](https://open.spotify.com/album/1tKEYkjR1fmLJeUHYouPhG) | 11:06 |
 | 26 | [Forever and A Day](https://open.spotify.com/track/3Qo94B93QHjhPTIAQyMmcd) | [Myrath](https://open.spotify.com/artist/72500XOYPw5e7OgFWuW2Gl) | [Desert Call](https://open.spotify.com/album/3x5aAqCdwXsvisJZve1cwt) | 5:40 |
 | 27 | [Unfollow](https://open.spotify.com/track/3p51E8KkplEefPXyO9CuzY) | [Massive Scar Era](https://open.spotify.com/artist/00aa3iavK5V96kBDZI439D) | [Color Blind](https://open.spotify.com/album/0JoejgNNZo7mOllHNPZ7dy) | 3:42 |

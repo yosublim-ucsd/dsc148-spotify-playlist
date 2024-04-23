@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 
 > Deep beats to study to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,673 likes - 50 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,686 likes - 50 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtHcSjp0LID.md) - [plain]
 | 22 | [Zeit für Sommer](https://open.spotify.com/track/7jJUfG00mR9VtBeRdtU9H2) | [Herr Lang](https://open.spotify.com/artist/1QWAUgdcriLwIL5o0ZT0b5) | [Davon](https://open.spotify.com/album/2c0kuubSze3tSfrhDB1kbR) | 6:01 |
 | 23 | [Neverland \- Aparde Remix](https://open.spotify.com/track/6Z5NPPpYnWRxGHQyWz2bPx) | [Natascha Polké](https://open.spotify.com/artist/5FLN3H4PiuUQMmFzGmcQ96), [Aparde](https://open.spotify.com/artist/2EX6hgMIUZhPty734qcBaS) | [Stars Wrapped In Skin EP](https://open.spotify.com/album/493mL9Bv6rYSOjTj8CLFJr) | 6:27 |
 | 24 | [Kindness](https://open.spotify.com/track/3Bvxmby5zHQ2s72GAQY1ip) | [Giorgia Angiuli](https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq) | [Kindness](https://open.spotify.com/album/0qwpmqEpdq4ioxTMpQNq1t) | 4:35 |
-| 25 | [The Right Place \(feat\. Teira\)](https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:32 |
+| 25 | [Youth](https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Youth](https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2) | 4:10 |
 | 26 | [Luscious Rain](https://open.spotify.com/track/5Cq74SxpiW6llWC4JfKbe3) | [Nora En Pure](https://open.spotify.com/artist/24DO0PijjITGIEWsO8XaPs) | [Luscious Rain](https://open.spotify.com/album/5X7TUEwe3dnQKeqN3qBQZv) | 3:09 |
-| 27 | [Youth](https://open.spotify.com/track/5DvG9PknutxGzDCFNJerg0) | [Holly North](https://open.spotify.com/artist/19NPr9xQ0jUnX9PpFmtl8p) | [Youth](https://open.spotify.com/album/4uD91vlM1D0VlFlAnZESC2) | 4:10 |
+| 27 | [The Right Place \(feat\. Teira\)](https://open.spotify.com/track/3BOoEOCwmEw0c7C9UXGkwH) | [DJ Seinfeld](https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q), [Teira](https://open.spotify.com/artist/3M6tK86Oc9mTbCH2kw3RWh) | [Mirrors](https://open.spotify.com/album/7FvnTARvgjUyWnUT0flUN7) | 4:32 |
 | 28 | [Bluebird](https://open.spotify.com/track/1uBYrPtYmZ8cm3OYVBvSjk) | [Stil & Bense](https://open.spotify.com/artist/5nuJOwgBqKBIWyCr0dQgEH) | [Kopernikus EP](https://open.spotify.com/album/6AwDk7XTHtOa9jFY6CaAp8) | 7:20 |
 | 29 | [Knowing We'll Be Here](https://open.spotify.com/track/50PtCIy3QV8JTfmXISe2I7) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt) | [Drone Logic](https://open.spotify.com/album/40CBXF9jJwK21mrqlmBr92) | 5:42 |
 | 30 | [The Only Way Out Is Through](https://open.spotify.com/track/35bAjRIbS6LGuxCR9aP92T) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [The Only Way Out Is Through](https://open.spotify.com/album/7xHkCvvUUAN7vDz9CrtJb5) | 8:14 |

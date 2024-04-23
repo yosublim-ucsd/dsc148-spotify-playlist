@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 
 > Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,651 likes - 100 songs - 7 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,667 likes - 100 songs - 7 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUEbH7oMQunS.md) - [plain]
 | 48 | [You & I Again](https://open.spotify.com/track/6SEQ3D3SxAnEGvePRf1aeI) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [You & I Again](https://open.spotify.com/album/0Q5FgBERKireTEtap76rej) | 2:40 |
 | 49 | [Psalm 68](https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ) | [Poor Bishop Hooper](https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0) | [Psalm 68](https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g) | 4:12 |
 | 50 | [Celeste](https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv) | [Kye Kye](https://open.spotify.com/artist/7hB1zE5jfaEcmtLjnFpOGZ) | [Fantasize](https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3) | 3:44 |
-| 51 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
-| 52 | [kindling.mp3](https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [an ep of some songs u can read ur bible + journal to](https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra) | 4:01 |
+| 51 | [kindling.mp3](https://open.spotify.com/track/3ajOQsKvV2LeVZhqYMLnaK) | [River Valley AGES](https://open.spotify.com/artist/3Y44hdG7tljyluN4wv9j5h) | [an ep of some songs u can read ur bible + journal to](https://open.spotify.com/album/0FjqdsNhcipVrps8W4qBra) | 4:01 |
+| 52 | [How Much You Mean To Me](https://open.spotify.com/track/1NdTUsv9MaS9YHUbkIhVPG) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [How Much You Mean To Me](https://open.spotify.com/album/2vQD8zZ9aKcy4H9S6TSBk0) | 3:38 |
 | 53 | [Wilora Lake](https://open.spotify.com/track/3i1snwRlVC8Xf7SvBe72DI) | [All The Bright Lights](https://open.spotify.com/artist/1jcBaDji032lL60oRtCSKj) | [All the Bright Lights](https://open.spotify.com/album/482FZEz4s4xyx0hjk2GMB7) | 5:30 |
 | 54 | [Peace](https://open.spotify.com/track/47z8kamJgXLFIJ01RNPBVh) | [Radiant City Music](https://open.spotify.com/artist/6rL36WOY9966aJbw6AZofk), [Devin Strasser](https://open.spotify.com/artist/1VbAFYZiE9VGWfHdf6sflI) | [Peace](https://open.spotify.com/album/4f4cZ9XxXEPMlwOO5mgdep) | 5:38 |
 | 55 | [Without Shelter](https://open.spotify.com/track/0mdBzoEiRNM2CFOuCmbUsb) | [Sebastian Selke](https://open.spotify.com/artist/3mvFzNzTcfPjg0gPiN90ui), [Ceeys](https://open.spotify.com/artist/6K8BBZapSLE6XGXF4htbIT) | [The Grunewald Church Session](https://open.spotify.com/album/6oLX7bPI80ncEhjsb997KY) | 6:58 |

@@ -1,6 +1,6 @@
 {
   "description": "Qu\u00e9 bonito se siente el amor. \ud83d\udc98",
-  "num_followers": 1929006,
+  "num_followers": 1925449,
   "original_name": "Amor Amor",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,22 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "Un D\u00eda Normal",
-        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
+        "name": "Por el Resto de Tu Vida",
+        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
       },
       "artists": [
         {
-          "name": "Juanes",
-          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
         }
       ],
-      "duration_ms": 250693,
-      "name": "Es Por Ti",
-      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
+      "duration_ms": 197476,
+      "name": "Por el Resto de Tu Vida",
+      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -115,22 +119,18 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "Por el Resto de Tu Vida",
-        "url": "https://open.spotify.com/album/3S6ouKQPLDuO7Nxli1F2Lm"
+        "name": "Un D\u00eda Normal",
+        "url": "https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
-        },
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+          "name": "Juanes",
+          "url": "https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7"
         }
       ],
-      "duration_ms": 197476,
-      "name": "Por el Resto de Tu Vida",
-      "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
+      "duration_ms": 250693,
+      "name": "Es Por Ti",
+      "url": "https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -151,26 +151,6 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "En Esta Boca",
-        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        },
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 170742,
-      "name": "En Esta Boca",
-      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
         "name": "TU Y YO",
         "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
       },
@@ -187,6 +167,26 @@
       "duration_ms": 192517,
       "name": "TU Y YO",
       "url": "https://open.spotify.com/track/00THZGfbizNvMUkJsQs74K"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
+        "name": "En Esta Boca",
+        "url": "https://open.spotify.com/album/6qnMEFQU0SY891OuIaOwjF"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        },
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 170742,
+      "name": "En Esta Boca",
+      "url": "https://open.spotify.com/track/3zKMajDXwhD68TnmMOnCPM"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -239,22 +239,6 @@
       "duration_ms": 188373,
       "name": "Mi Bendici\u00f3n",
       "url": "https://open.spotify.com/track/5fF0fb0VFihGDHFshDLi2Z"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
-        "name": "Soy Yo",
-        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
-      },
-      "artists": [
-        {
-          "name": "Kany Garc\u00eda",
-          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Para Siempre",
-      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -339,6 +323,22 @@
       "duration_ms": 228253,
       "name": "Eres T\u00fa",
       "url": "https://open.spotify.com/track/75zvC8d4iozawMJvxt8T1f"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
+        "name": "Soy Yo",
+        "url": "https://open.spotify.com/album/4HqL9DDTbrqBUFb6Pswcki"
+      },
+      "artists": [
+        {
+          "name": "Kany Garc\u00eda",
+          "url": "https://open.spotify.com/artist/69UypehHabb68utzfjAVlV"
+        }
+      ],
+      "duration_ms": 201600,
+      "name": "Para Siempre",
+      "url": "https://open.spotify.com/track/3w6HBymB6v99gmhz4aiX1g"
     },
     {
       "added_at": "2024-03-28 19:15:17",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-03-28 19:15:17",
       "album": {
-        "name": "desde que estas en mi vida",
-        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
-      },
-      "artists": [
-        {
-          "name": "Gonza Silva",
-          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "desde que estas en mi vida",
-      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
-    },
-    {
-      "added_at": "2024-03-28 19:15:17",
-      "album": {
         "name": "Nunca Deja De Llover",
         "url": "https://open.spotify.com/album/6gP8Vz5EAGZ8uuBYu4Nb4I"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 258154,
       "name": "Caf\u00e9 Con Canela",
       "url": "https://open.spotify.com/track/2gO1GVggSIcK90jZorJeHE"
+    },
+    {
+      "added_at": "2024-03-28 19:15:17",
+      "album": {
+        "name": "desde que estas en mi vida",
+        "url": "https://open.spotify.com/album/0YV5IL1vIj4oxqY7EJb7hX"
+      },
+      "artists": [
+        {
+          "name": "Gonza Silva",
+          "url": "https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "desde que estas en mi vida",
+      "url": "https://open.spotify.com/track/0e43i8zcjJrAPUztNJro3X"
     },
     {
       "added_at": "2024-03-28 19:15:17",

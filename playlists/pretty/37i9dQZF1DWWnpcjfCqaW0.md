@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 
 > The decade when country and rockabilly came together\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 288,439 likes - 75 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 288,419 likes - 75 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWnpcjfCqaW0.md) - [plain]
 | 33 | [Big River](https://open.spotify.com/track/12wDCrXdu2y1FbXHMb2hJQ) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x), [The Tennessee Two](https://open.spotify.com/artist/3iGdenNgbzOak86BHrx0Nt) | [Sings the Songs that Made Him Famous](https://open.spotify.com/album/1UivGyqPLpky3vtZ2ARHOY) | 2:31 |
 | 34 | [Don't Be Cruel](https://open.spotify.com/track/01u6AEzGbGbQyYVdxajxqk) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Elvis' Golden Records](https://open.spotify.com/album/0C3t1htEDTFKcg7F2rNbek) | 2:02 |
 | 35 | [They're Hanging Me Tonight](https://open.spotify.com/track/4G9f3VGp9wjE49JUfg3XtO) | [Marty Robbins](https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo) | [Gunfighter Ballads And Trail Songs](https://open.spotify.com/album/3kQpBS26lAj0A0VGl1snRl) | 3:04 |
-| 36 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
-| 37 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
+| 36 | [A Dear John Letter](https://open.spotify.com/track/61B3JOqotF5jN104LXJlYI) | [Jean Shepard](https://open.spotify.com/artist/3lQuLlW6tYv1nm3nzyJ6Ty), [Ferlin Husky](https://open.spotify.com/artist/0szj7Sxtyluyjc2Arj0njB) | [Honky Tonk Heroine: Classic Capitol Recordings 1952\-1964](https://open.spotify.com/album/5GeQiPFDO8tJaRrbnHBKoM) | 2:37 |
+| 37 | [Honeycomb](https://open.spotify.com/track/7MqkjX5YCXhazcaAlHvPmJ) | [Jimmie Rodgers](https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp) | [The Best Of Jimmie Rodgers](https://open.spotify.com/album/45NJp1aF4AREJYjFww2PmH) | 2:17 |
 | 38 | [Making Believe \- 1955 Single Version](https://open.spotify.com/track/5wh5VHVPTrcdBAIRwJvWV6) | [Kitty Wells](https://open.spotify.com/artist/4fxdqujwhb2NIQyr7qnnPX) | [20th Century Masters: The Millennium Collection: Best of Kitty Wells](https://open.spotify.com/album/7f2LfXaJOt4tbhE564gTPW) | 2:53 |
 | 39 | [My Special Angel](https://open.spotify.com/track/6cen3TFIPFBq2VkUM4Fod8) | [Bobby Helms](https://open.spotify.com/artist/38EmEgXkgK51MT2tPY0EoC) | [Bobby Helms Sings To My Special Angel](https://open.spotify.com/album/4qycsWF8HnXIe1M1XNv3mk) | 2:59 |
 | 40 | [Young Love](https://open.spotify.com/track/7ow0KcdNRitEedvwQNTd6S) | [Sonny James](https://open.spotify.com/artist/0c08N8UlFjDaup9TNDaWxy) | [Capitol Collectors Series](https://open.spotify.com/album/0QSXhF0KcHeDOGY89JTtkr) | 2:32 |

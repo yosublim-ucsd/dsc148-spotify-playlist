@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 335509,
+  "num_followers": 335550,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -1051,46 +1051,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Click Bait",
-        "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
-      },
-      "artists": [
-        {
-          "name": "DBN Gogo",
-          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
-        },
-        {
-          "name": "Atmos Blaq",
-          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
-        },
-        {
-          "name": "Yumbs",
-          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
-        },
-        {
-          "name": "Shazmicsoul",
-          "url": "https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg"
-        },
-        {
-          "name": "Dr Thulz",
-          "url": "https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4"
-        },
-        {
-          "name": "Mashudu",
-          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
-        },
-        {
-          "name": "Leandra.Vert",
-          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
-        }
-      ],
-      "duration_ms": 331540,
-      "name": "UTHANDO",
-      "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "What Kinda Music (Bonus Tracks)",
         "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
       },
@@ -1127,6 +1087,46 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "Click Bait",
+        "url": "https://open.spotify.com/album/0dvAgkKcoVFHDYAYFViWm1"
+      },
+      "artists": [
+        {
+          "name": "DBN Gogo",
+          "url": "https://open.spotify.com/artist/3Oa0mJQWQrUOqJ8fcLuu7l"
+        },
+        {
+          "name": "Atmos Blaq",
+          "url": "https://open.spotify.com/artist/1cwvUNi7IRMN3zisgyKTzM"
+        },
+        {
+          "name": "Yumbs",
+          "url": "https://open.spotify.com/artist/2HLr9NzCqd6XRnpUSM6CvH"
+        },
+        {
+          "name": "Shazmicsoul",
+          "url": "https://open.spotify.com/artist/1J4VWFnc4Abj57kr4qI9wg"
+        },
+        {
+          "name": "Dr Thulz",
+          "url": "https://open.spotify.com/artist/7IYCnKAJvGLnnZvHuLbSf4"
+        },
+        {
+          "name": "Mashudu",
+          "url": "https://open.spotify.com/artist/0vZNKz7Pn611D2LBHsSo3R"
+        },
+        {
+          "name": "Leandra.Vert",
+          "url": "https://open.spotify.com/artist/0QyhpBoL8IOay4rryRdQ8l"
+        }
+      ],
+      "duration_ms": 331540,
+      "name": "UTHANDO",
+      "url": "https://open.spotify.com/track/0jKtJJYzgAsfBrAEb02lPh"
     },
     {
       "added_at": "2024-04-04 15:22:42",

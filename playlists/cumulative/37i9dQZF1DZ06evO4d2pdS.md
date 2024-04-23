@@ -2,7 +2,7 @@
 
 ### [This Is Lakeyah](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4d2pdS)
 
-> This is Lakeyah\. The essential tracks, all in one playlist.
+> This is Lakeyah。アーティストの代表曲をひとつのプレイリストに。
 
 44 songs - 1 hr 53 min
 

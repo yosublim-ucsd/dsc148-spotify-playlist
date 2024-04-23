@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 
 > Songs of love, hope and positivity for the world\.   Listen with Spirit!  Cover: Hannah Kerr
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,439 likes - 65 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,443 likes - 65 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 12 | [Take This](https://open.spotify.com/track/6B7rm411U4hSvIwRFSXwvq) | [Out of the Dust](https://open.spotify.com/artist/5Yp0ywd05n7U64KpZ8JSbu), [Plumb](https://open.spotify.com/artist/2tbxcCCM7A71cmkzuB8lyH) | [Now More Than Ever](https://open.spotify.com/album/6enJJMJXMoy92TQZvM8Bxf) | 4:40 |
 | 13 | [Waters](https://open.spotify.com/track/44p22nZcu3acWIW8q7Qil8) | [Junior Garr](https://open.spotify.com/artist/2wRZSDRny0AhA1Cup3sAh2) | [Waters](https://open.spotify.com/album/20gTNgwCNIZeIM08IstOmi) | 4:00 |
 | 14 | [Soul's on Fire](https://open.spotify.com/track/3Lj0mxiDfTDxr5ADKKlxJQ) | [Sam Wilson](https://open.spotify.com/artist/1xMJN0U9b27oxBXc4KYhP5) | [Soul's on Fire](https://open.spotify.com/album/6DcpeOj7clMeg7hD4ZPt33) | 3:29 |
-| 15 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
-| 16 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
+| 15 | [I Could Sing of Your Love Forever](https://open.spotify.com/track/1Qr7fNKEpGXK3DPXYawbzm) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [I Could Sing Of Your Love Forever](https://open.spotify.com/album/16fMATKYNi10ChZuJj0dMd) | 3:32 |
+| 16 | [Closer Than a Brother](https://open.spotify.com/track/6UFFHivhf0donyRMTdgYjA) | [Josh Garrels](https://open.spotify.com/artist/16QSVsPKl743hu4U5C18R8) | [Closer Than a Brother](https://open.spotify.com/album/33JLXoR3hEiNXIUP42Mwwx) | 5:09 |
 | 17 | [Dearly Loved](https://open.spotify.com/track/5ARJNdFbSj2yYpaAKPfIDo) | [Shaylee Simeone](https://open.spotify.com/artist/0gp2s7j9MdVVkcu7UIfpHQ) | [Dearly Loved](https://open.spotify.com/album/0HMkDsyQXtgF0sgMFpudvK) | 4:25 |
 | 18 | [Love Me Like You \- TYE Remix](https://open.spotify.com/track/67uQCds7ugUZn3TZUhc5dB) | [The Young Escape](https://open.spotify.com/artist/39ZuGmOP3orNn5Pf8S13VW) | [Love Me Like You \(TYE Remix\)](https://open.spotify.com/album/7t1QRFDMpYbZPFnirwkU3q) | 3:23 |
 | 19 | [Teach Me](https://open.spotify.com/track/0kIrIiZq1VvsZBzNL039j2) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Teach Me](https://open.spotify.com/album/4S3DGDkJjlJRR42yVCxOMl) | 3:33 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56Bc0iAghdi.md) - [plain]
 | 38 | [Dancing on Top of the World](https://open.spotify.com/track/2YNKo5RSCPFs0X0YQmYGme) | [The Afters](https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc) | [Fear No More](https://open.spotify.com/album/1q8TJAtMTvA3FFjhcsDhvZ) | 2:53 |
 | 39 | [Only Have One](https://open.spotify.com/track/4ar0FB87jliCm8gfaiTwds) | [The McClures](https://open.spotify.com/artist/5lI2VDVbI989t1YHEFhGyI), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz), [Hannah McClure](https://open.spotify.com/artist/13rWahXxJX1NS64MDS24Ya) | [Only Have One](https://open.spotify.com/album/4HvBGoJ0lA4O79qr7zLwQr) | 3:06 |
 | 40 | [rain don't go away](https://open.spotify.com/track/0EMWcOUSdDOhJuptb0E04i) | [Danielle Apicella](https://open.spotify.com/artist/53l3aH0gXYBLyTVM87aYw5) | [rain don't go away](https://open.spotify.com/album/6WUViwkXBGRcCQfZmTBsyX) | 3:57 |
-| 41 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
-| 42 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
+| 41 | [You Are Good](https://open.spotify.com/track/4n5opjW4KMNUr3NhOgCgwp) | [Shanny Jeann](https://open.spotify.com/artist/3QFEQDqiDb6FQhA5XA4fnI) | [You Are Good](https://open.spotify.com/album/1j9s8mN2uXbo9RGYLFrmT8) | 2:53 |
+| 42 | [Battle](https://open.spotify.com/track/6IXJtvISqPxhe3wmm9iCWN) | [Miqueas Lopez](https://open.spotify.com/artist/3CtCrWU7itUfsXGE9cPwMn) | [Battle](https://open.spotify.com/album/3iIZE417H5P3jUhpS87rFp) | 3:07 |
 | 43 | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/track/4dw5THeXY6ybMblZBzre9D) | [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL), [RUSLAN](https://open.spotify.com/artist/0Xdvr42oMLOrVWFhgM253P) | [Feel The Waters \(RUSLAN Remix\)](https://open.spotify.com/album/1sJdXcBBxSql0JxCX97bX3) | 3:08 |
 | 44 | [Lead the Way](https://open.spotify.com/track/4kOe0ZUSIlIjXsZSx4zFBz) | [Caleb Crino](https://open.spotify.com/artist/2H6txjI4kswHScMO8VYtkG) | [Caleb Crino](https://open.spotify.com/album/4uW1eDXAs4KollydvzHLJa) | 3:15 |
 | 45 | [The Great Migration](https://open.spotify.com/track/64GSNWih2teT6tLgKOv0DR) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [The Great Migration](https://open.spotify.com/album/3f2KvqW6BlbFsE4sAC4Az0) | 4:57 |

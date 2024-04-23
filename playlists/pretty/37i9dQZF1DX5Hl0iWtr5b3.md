@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain](/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX5Hl0iWtr5b3)
 
-### [Bridgerton and Queen Charlotte Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5Hl0iWtr5b3)
+### [Bridgerton Official Playlist](https://open.spotify.com/playlist/37i9dQZF1DX5Hl0iWtr5b3)
 
-> All your favorite tracks from Bridgerton and Queen Charlotte, now streaming on Netflix.
+> Even a wallflower can bloom...Listen to the music from Bridgerton, new season coming soon to Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,060,151 likes - 93 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,060,364 likes - 93 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,4 +102,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Hl0iWtr5b3.md) - [plain]
 | 92 | [The Duel](https://open.spotify.com/track/1xXMP0iVs9bpZBpK0CmlVB) | [Kris Bowers](https://open.spotify.com/artist/2wWBoQpcybsDVpouFubTqZ) | [Bridgerton \(Music from the Netflix Original Series\)](https://open.spotify.com/album/53xXNZwyOsZj68zU023oce) | 7:13 |
 | 93 | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/track/6NdaAfnKGJ5Z7KFrhHrYr2) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi), [Duomo](https://open.spotify.com/artist/5dhbc8LcvYmiI2CQhByaBR), [Kroma Strings](https://open.spotify.com/artist/46YYq1tBAbtXp6jB3B3ig3) | [You Oughta Know \(feat\. Duomo & Kroma Strings\)](https://open.spotify.com/album/4TUEOyHzjvIWimTmQWiG6V) | 4:07 |
 
-Snapshot ID: `MTcxMzUzMjM0MiwwMDAwMDAwMGI4Y2I5YzAxYTg0OTdkN2RmMTQ5ZDMyYjE5OTU4OGIx`
+Snapshot ID: `MTcxMzgxNjgyMywwMDAwMDAwMDFhNzNjNWRjNzhlMGU2ZjU3OWVmY2JmOTc5ZDYwMTA4`

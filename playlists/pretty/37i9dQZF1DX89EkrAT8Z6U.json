@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>",
-  "num_followers": 1055404,
+  "num_followers": 1056326,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Rotten",
         "url": "https://open.spotify.com/album/2jgKK8iIX83mPrCyDhvEdf"
       },
@@ -183,6 +167,22 @@
       "duration_ms": 138426,
       "name": "Unbothered",
       "url": "https://open.spotify.com/track/5hwUsRKvnO5yThjVrxHQVt"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1331,18 +1331,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "BLACKED OUT",
-        "url": "https://open.spotify.com/album/6NNH2nFEZqwaHWONf8qTvJ"
+        "name": "Nikes",
+        "url": "https://open.spotify.com/album/15mUcH1QPGllxiAjJUJQJn"
       },
       "artists": [
         {
-          "name": "777villain",
-          "url": "https://open.spotify.com/artist/1W1JrFrwTTyv081hWOQJa7"
+          "name": "Nimstarr",
+          "url": "https://open.spotify.com/artist/25hjCXq9ACmSkWbnvKMThf"
+        },
+        {
+          "name": "kid toni",
+          "url": "https://open.spotify.com/artist/3FQn8qCboTin4JhAPP8gEy"
         }
       ],
-      "duration_ms": 133392,
-      "name": "BLACKED OUT",
-      "url": "https://open.spotify.com/track/11YEKSSOXXw0rXVCZgHKi6"
+      "duration_ms": 139910,
+      "name": "Nikes",
+      "url": "https://open.spotify.com/track/65ha6jDdEeQ05hbiDeSUjT"
     }
   ],
   "unique_name": "sh\u014dnen",

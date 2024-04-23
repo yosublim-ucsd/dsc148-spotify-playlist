@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Naïka
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,766 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,757 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 58 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
 | 59 | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/track/4ZKlnErG8PPr0rLABn4x9a) | [Balalatet](https://open.spotify.com/artist/5nubIkn3OteKknszoQV2xC), [Dj Bullet](https://open.spotify.com/artist/5A1femgcMsy6WfhJWx6Hrg), [thattoo love](https://open.spotify.com/artist/7zIXHgLcAIzEh3NhQyTblh) | [Loyita \(feat\. Thattoo Love\)](https://open.spotify.com/album/6D82LC0gY5J4udEZ7C1yWy) | 3:48 |
 | 60 | [Bay Vag](https://open.spotify.com/track/2ymMatDezwtUux8iazJviZ) | [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Chante ap ret chante](https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7) | 4:13 |
-| 61 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
+| 61 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
 | 62 | [Thug Love](https://open.spotify.com/track/37PRqXgbusYfrUitGoVsKP) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Thug Love](https://open.spotify.com/album/01syB7Sv7P91d6OBnNjLm5) | 3:08 |
-| 63 | [Mennaj Moun Yo](https://open.spotify.com/track/2A8s6nWnUmtNmnMf08AW9K) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo) | [Mennaj Moun Yo](https://open.spotify.com/album/3v8j1bo9AMXzzc5LtHhUt7) | 3:08 |
+| 63 | [Bizou](https://open.spotify.com/track/4AURmzBFOWJENT7btoNopH) | [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9) | [Bizou](https://open.spotify.com/album/53Xkxid9h0b3OolZKZ0gJW) | 2:56 |
 | 64 | [Ke M Pa Sote](https://open.spotify.com/track/0MIAhJu1vwc8wvIjI9XbcS) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Vodoo Adjae](https://open.spotify.com/album/13lyhnYy2ZAFHKMRszwDAZ) | 9:34 |
 | 65 | [A.k.i.ko.](https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:51 |
 | 66 | [2 Gouden](https://open.spotify.com/track/2VcVmSWadOf4SMGBB2abov) | [T\-ANSYTO](https://open.spotify.com/artist/0hgPeJ38ypeARFm0Bg4Yqa) | [2 Gouden](https://open.spotify.com/album/2tpKEaCwrm618xsJngj0Og) | 3:49 |
 | 67 | [Sal Vle](https://open.spotify.com/track/1fGEwTxAB5Q4bgtPQL47rm) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p), [Mozart Louis](https://open.spotify.com/artist/1IgFh9pBdbDBFgaSn91oul) | [Kelly Krow](https://open.spotify.com/album/3EYeR8N7uxBO83LZxaqAXk) | 4:30 |
 | 68 | [Kote'w Te Ye](https://open.spotify.com/track/5igPALpL3Ljrg65UPrFPSw) | [Beken](https://open.spotify.com/artist/27JrHY7vnpdv1zEfe3F8FQ) | [Troubadour](https://open.spotify.com/album/13PNOP7VKrtWwQk5EIwU4z) | 3:35 |
 | 69 | [HOLLOW.](https://open.spotify.com/track/0Sr5C8SEaELPY0Z4XyEP5U) | [Bibi Bourelly](https://open.spotify.com/artist/3jDtqAKltRxJi64svLZGj7), [Maureen Boyer](https://open.spotify.com/artist/2QwZNsarQSosx1QCFE0pYr), [SamTRax](https://open.spotify.com/artist/7oGdaJSr8Hz4w6DDPCBiW2) | [Solèy](https://open.spotify.com/album/2TdhamfEwgBXBrWexl2T3r) | 4:44 |
-| 70 | [Bwa Kale](https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Babas](https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb) | [Bwa Kale](https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU) | 3:05 |
-| 71 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
+| 70 | [New York City](https://open.spotify.com/track/2cJJoWEccalRGAZO0PqQDi) | [Tabou Combo](https://open.spotify.com/artist/5zOZ2RzZBQkptkPfg9nUoh) | [Anthology, Vol\. IV](https://open.spotify.com/album/6fEktCQSKnmBhsYZdZ16Ey) | 8:46 |
+| 71 | [Bwa Kale](https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1) | [Tony Mix](https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo), [T\-Babas](https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb) | [Bwa Kale](https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU) | 3:05 |
 | 72 | [Flanm](https://open.spotify.com/track/7sJYquSlj8cSMqFtk3A8FJ) | [Emeline Michel](https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r) | [The Very Best](https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb) | 4:46 |
 | 73 | [Imamou Lele](https://open.spotify.com/track/0PLD26MkvvElalKRCMQJ0c) | [Boukman Eksperyans](https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp) | [Revolution](https://open.spotify.com/album/3FfED55YqhQ5YSQpdCs0tv) | 1:42 |
 | 74 | [Love a Plein Temps](https://open.spotify.com/track/665HvOWV9Uxm40fuXiYI1B) | [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Love a Plein Temps](https://open.spotify.com/album/4ZnxFv2iPAGRWksNm5ILr0) | 3:20 |

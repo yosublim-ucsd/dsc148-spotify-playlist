@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,194 songs - 2 day 14 hr 35 min
+1,195 songs - 2 day 14 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@
 | [Det kommer bli bra](https://open.spotify.com/track/5U5hlK1E0ozMOtd1cynRnH) | [Theoz](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Paradis](https://open.spotify.com/album/5n92UT4wznUdPlFx6sw7Ir) | 2:50 | 2022-09-15 | 2022-09-30 |
 | [Det stora röda huset](https://open.spotify.com/track/7HMjYD6vVNaHpHPQGR2W63) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Moonica Mac](https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n) | [En gång i tiden \(del 2\)](https://open.spotify.com/album/2D0NU2s1xrC8wGRkMrJUjP) | 2:58 | 2021-12-16 | 2022-03-11 |
 | [Det var då, det var det](https://open.spotify.com/track/7iR7p8Gop4fQz1bjyOIkla) | [Sveavägen](https://open.spotify.com/artist/4rvYitP1XmElnNQyQPEw9g) | [Det var då, det var det](https://open.spotify.com/album/3KNWjo9bMW6leyuOUFSWo6) | 3:09 | 2021-12-16 | 2022-01-14 |
-| [Det var ju du & jag \- Radio Edit](https://open.spotify.com/track/53tkrNm9WV1NlTaZ1OsVQk) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Det var ju du & jag \(Radio Edit\)](https://open.spotify.com/album/51Eo92qpXc2U34OzcoDNi2) | 3:25 | 2024-04-11 |  |
+| [Det var ju du & jag \- Radio Edit](https://open.spotify.com/track/53tkrNm9WV1NlTaZ1OsVQk) | [Linda Sundblad](https://open.spotify.com/artist/28WJiPB1WvNQzMLwM5Hb7G) | [Det var ju du & jag \(Radio Edit\)](https://open.spotify.com/album/51Eo92qpXc2U34OzcoDNi2) | 3:25 | 2024-04-11 | 2024-04-23 |
 | [Det är nog aldrig för sent för oss två](https://open.spotify.com/track/06oh2gh4AXIapbn0UeHXad) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7) | [Det är nog aldrig för sent för oss två](https://open.spotify.com/album/5U6Z8kuGYsb9RHNRM6Q7cp) | 3:33 | 2021-12-16 | 2022-03-11 |
 | [DEVIL](https://open.spotify.com/track/2XPnzZU93OyQlyAqEf8UPG) | [DREAMDNVR](https://open.spotify.com/artist/3ZyMt4ZzT5TWAFKvm0UxYb) | [DEVIL](https://open.spotify.com/album/6HOOTUts12Z7zQSzy9y7nD) | 2:35 | 2022-03-24 | 2022-09-16 |
 | [Diamond In Disguise](https://open.spotify.com/track/20ft4UOx6MwK7ojJullMur) | [Carl Storm](https://open.spotify.com/artist/06wZ6err8NOnJK992dWO5i) | [Diamond In Disguise](https://open.spotify.com/album/32X7oe07ien987VTjuvmf9) | 2:56 | 2022-03-10 | 2022-04-21 |
@@ -1094,6 +1094,7 @@
 | [Undantag](https://open.spotify.com/track/5TCPwtupzb4cl3id4AjQ9b) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Dina Ögon](https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF) | 3:58 | 2023-04-01 | 2023-10-20 |
 | [Under någon ny](https://open.spotify.com/track/2eOLvT5HNiHZQb4BTSiwQl) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ), [Veronica Maggio](https://open.spotify.com/artist/2OIWxN9xUhgUHkeUCWCaNs) | [Under någon ny](https://open.spotify.com/album/35VHFKVhL4H8Zd4rPRYHjA) | 4:07 | 2023-02-09 | 2023-10-06 |
 | [Ung Igen](https://open.spotify.com/track/6Ws4wzdxFnKvXs0C0zqgui) | [Klara Keller](https://open.spotify.com/artist/3Utd6WFwBcRb2Piu9boAGm) | [Ung Igen](https://open.spotify.com/album/7f0NIJG3X4gYhH3M6TkKNc) | 4:14 | 2024-04-04 |  |
+| [Ung med dig](https://open.spotify.com/track/69LIcyRjW4raKlQqEyUuG6) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Känslostorm](https://open.spotify.com/album/3YxmbBwBtoB9zJJonQdK1m) | 2:59 | 2024-04-19 |  |
 | [Unnskyld, förlåt](https://open.spotify.com/track/6ebiZ791hh3KPSw8TcCPK7) | [Thomas Stenström](https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Unnskyld, förlåt](https://open.spotify.com/album/4apzOYKZx2D4jnusHPf4C0) | 2:47 | 2024-01-04 | 2024-02-23 |
 | [Used To](https://open.spotify.com/track/70QyATpmT1mt7JMeDzrInv) | [Hogland](https://open.spotify.com/artist/5s21IKPvmxRf9WxpO8H5UB), [EEVA](https://open.spotify.com/artist/1pJgpp0DoZYerUf0SkeZuG) | [Used To](https://open.spotify.com/album/4a2Zs2yPLfNY1tg4zHZKnU) | 2:32 | 2022-03-10 | 2022-09-16 |
 | [Ut med allt](https://open.spotify.com/track/7Ek3bY3DecGbIaRKo7aQVQ) | [Björn Holmgren](https://open.spotify.com/artist/4bVT7xfHUEirpqkTXE3Z7F) | [Ut med allt](https://open.spotify.com/album/3j4hIguJ9ftVQI6J4ZUGSE) | 2:21 | 2022-04-07 | 2023-10-06 |

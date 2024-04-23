@@ -4,7 +4,7 @@
 
 > A hypnotic journey through Melodic Techno, featuring Anyma
 
-491 songs - 1 day 16 hr 17 min
+492 songs - 1 day 16 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,7 +122,7 @@
 | [Encounters](https://open.spotify.com/track/11EPlc3UVZIhKq11lpdzfL) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Growth](https://open.spotify.com/album/4Hzs5eQgd83luaFDwTeSvv) | 4:05 | 2023-11-09 | 2023-12-17 |
 | [Encounters](https://open.spotify.com/track/1o9LXeLmCgx7YVWeMNB3GZ) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB) | [Encounters](https://open.spotify.com/album/5POP54QLWkGpuydNX7sWod) | 4:05 | 2022-11-23 | 2023-08-28 |
 | [Encounters \- SOHMI Fantasy Remix](https://open.spotify.com/track/5wcA4ajXGIep3vf4p9S6Xp) | [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Booka Shade](https://open.spotify.com/artist/2CKaDZ1Yo8YnWega9IeUzB), [SOHMI](https://open.spotify.com/artist/0gUsjVKHygvZgi27L2QViK) | [Encounters \(SOHMI Fantasy Remix\)](https://open.spotify.com/album/3WDEo5D6KzsvS9uSPLS2j7) | 3:56 | 2023-08-18 | 2023-10-13 |
-| [End Of The Beginning](https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [End Of The Beginning](https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78) | 3:40 | 2023-12-15 |  |
+| [End Of The Beginning](https://open.spotify.com/track/2IJigwZlLAeBa16rlYrD1x) | [Sevenn](https://open.spotify.com/artist/7bNqXqIrIfwJnipx7oGeU4) | [End Of The Beginning](https://open.spotify.com/album/4O46V5aJRyrYiINs18RI78) | 3:40 | 2023-12-15 | 2024-04-23 |
 | [Energy Of Life](https://open.spotify.com/track/4TvWgymXM4iswW8NCwZZSh) | [LÜRUM](https://open.spotify.com/artist/1Vvf6trCvl5ip6tARuClxO) | [Energy Of Life](https://open.spotify.com/album/2Ad0p8tuq3cLBqRxKC7yoy) | 3:20 | 2023-06-02 | 2023-06-10 |
 | [Enter Machina \- widerberg Remix](https://open.spotify.com/track/3z6VgWenqNydesiIAUzt1Z) | [Mia Mendi](https://open.spotify.com/artist/7ccAq24esXIKcy6coCLiio), [widerberg](https://open.spotify.com/artist/6ob0DwL4uI6eR5i9cc5tNn) | [Enter Machina \(widerberg Remix\)](https://open.spotify.com/album/5VNwexObDwBDLd0SbJG2vk) | 3:18 | 2024-02-29 |  |
 | [Equal](https://open.spotify.com/track/06FMbmYdLCapqxnkTNp2q9) | [biskuwi](https://open.spotify.com/artist/2wdY7YDYVddKtVbbgh1fCT), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [Equal](https://open.spotify.com/album/4PzxGlfoKM04nEQwscARba) | 5:19 | 2023-03-03 | 2023-03-22 |
@@ -246,6 +246,7 @@
 | [Listen](https://open.spotify.com/track/0L8WTNC0GLcfAXkGMPIolF) | [Brigado Crew](https://open.spotify.com/artist/4Oh4pMKSHRFuE8FbZdeh4j), [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [Listen](https://open.spotify.com/album/71KIKLJFqbZqWosO3D5qgD) | 3:45 | 2023-11-24 | 2024-01-10 |
 | [Lithium](https://open.spotify.com/track/3JULDUED9hQQ94gXnuFl5p) | [Rodriguez Jr.](https://open.spotify.com/artist/6Th7POyVfZgiHJQ64ddV5Y) | [Amplify](https://open.spotify.com/album/2fnEK9AF3DqYemVCER91js) | 6:38 | 2023-04-07 | 2023-04-29 |
 | [Loneliness \- Original Mix](https://open.spotify.com/track/00IWep1lbWW2wJog8Ewgsj) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Loneliness](https://open.spotify.com/album/48wWbXN8jBw4KCDeF70Zwj) | 6:09 | 2022-12-02 | 2023-10-09 |
+| [Look At You](https://open.spotify.com/track/1OBa351gDcE1HWUsfaTCCy) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Look At You](https://open.spotify.com/album/2W5TS5U8FLi9O46FBTAzIn) | 3:23 | 2024-04-18 |  |
 | [Looking Class](https://open.spotify.com/track/0l0iDqdVu0CgllGFKQ6D5l) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tim Engelhardt](https://open.spotify.com/artist/74HdscE6G74tt01dbVZULE) | [Looking Class / Full Circle Moment](https://open.spotify.com/album/1G56ouG8pijwEgYzlbtpWN) | 4:35 | 2023-02-17 | 2023-04-09 |
 | [Loops & Tings](https://open.spotify.com/track/0ePibFLQdYeU3vsvJQT7jH) | [Ginchy](https://open.spotify.com/artist/0HOE39NQ7ewDCXEZm796MP), [Johan Gielen](https://open.spotify.com/artist/2eSSc4YqhlEw0e11E9oQhP) | [Loops & Tings](https://open.spotify.com/album/0ZPx0Z6KDyYXekcUops2Ua) | 3:56 | 2023-03-22 | 2023-03-25 |
 | [Loss Of Hope](https://open.spotify.com/track/5QRhs05R9MOXHQC2OOn5bq) | [Innellea](https://open.spotify.com/artist/71rqI5HtraA3qXBwatyG6e) | [Distorted Youth EP](https://open.spotify.com/album/65OPNarZvRrfJM2BDyHAVi) | 7:19 | 2022-11-23 | 2023-12-01 |

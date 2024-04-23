@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "The hottest songs you need to listen to right now. Cover: Sabrina Carpenter",
+  "description": "The hottest songs you need to listen to right now. Cover: Taylor Swift",
   "name": "It's a Hit!",
   "tracks": [
     {
@@ -868,7 +868,7 @@
       ],
       "date_added": "2024-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 145765,
       "name": "Been Like This",
       "url": "https://open.spotify.com/track/3t7MOVjzXyqT7vPw4eNrAV"
@@ -2157,6 +2157,28 @@
     },
     {
       "album": {
+        "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
+        "url": "https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Paris Hilton",
+          "url": "https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199688,
+      "name": "Fame Won\u2019t Love You (feat. Paris Hilton)",
+      "url": "https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4"
+    },
+    {
+      "album": {
         "name": "Fancy - Spotify Singles",
         "url": "https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq"
       },
@@ -2419,6 +2441,32 @@
     },
     {
       "album": {
+        "name": "For Life (feat. Nile Rodgers)",
+        "url": "https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "Zak Abel",
+          "url": "https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw"
+        },
+        {
+          "name": "Nile Rodgers",
+          "url": "https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175803,
+      "name": "For Life (feat. Nile Rodgers)",
+      "url": "https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP"
+    },
+    {
+      "album": {
         "name": "Forever & Again (From Barbie The Album)",
         "url": "https://open.spotify.com/album/0PHUzNM9vbkW3EMUiKOxo7"
       },
@@ -2434,6 +2482,28 @@
       "duration_ms": 139410,
       "name": "Forever & Again (From Barbie The Album)",
       "url": "https://open.spotify.com/track/6Ky8ROf2VWY5vwoGfMet7x"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
       "album": {
@@ -3091,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Hoping You'll Be Mine",
+        "url": "https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8"
+      },
+      "artists": [
+        {
+          "name": "Abeliano",
+          "url": "https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202659,
+      "name": "Hoping You'll Be Mine",
+      "url": "https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt"
+    },
+    {
+      "album": {
         "name": "Houdini",
         "url": "https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb"
       },
@@ -3388,7 +3476,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
@@ -3566,6 +3654,24 @@
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
+    },
+    {
+      "album": {
+        "name": "Imaginary",
+        "url": "https://open.spotify.com/album/5KZHjC5BKfUqunElvrZk4x"
+      },
+      "artists": [
+        {
+          "name": "HONNE",
+          "url": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200839,
+      "name": "Imaginary",
+      "url": "https://open.spotify.com/track/37XitqFfR3YiWf9x3NCGVz"
     },
     {
       "album": {
@@ -4904,7 +5010,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 273290,
       "name": "NEURON (with Gaeko & YOON MIRAE)",
       "url": "https://open.spotify.com/track/11sirgYaEutV40tkvgpHN6"
@@ -5697,6 +5803,24 @@
     },
     {
       "album": {
+        "name": "Psychic",
+        "url": "https://open.spotify.com/album/4uqK3r60uam9Qy1a1KPZ2r"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/4o7tWrzQOqarDtTMWD2HV9"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141139,
+      "name": "Psychic",
+      "url": "https://open.spotify.com/track/3W3hv87iiFb57tXdmtoF9a"
+    },
+    {
+      "album": {
         "name": "NEW DNA",
         "url": "https://open.spotify.com/album/5ltOyfF29bg84gvBJPLOgj"
       },
@@ -5850,7 +5974,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 188750,
       "name": "Run Back To You",
       "url": "https://open.spotify.com/track/0W6cB9dPUnsL5iKOpxuSAK"
@@ -6096,7 +6220,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 209074,
       "name": "second guessing",
       "url": "https://open.spotify.com/track/7wuCZVsFR7V3OO8AbaXgLe"
@@ -7814,7 +7938,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 193776,
       "name": "Who I Am",
       "url": "https://open.spotify.com/track/1NMYbsFZyxwHRNaLGzFGWh"

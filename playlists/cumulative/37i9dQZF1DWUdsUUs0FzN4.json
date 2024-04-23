@@ -7521,6 +7521,28 @@
     },
     {
       "album": {
+        "name": "\u00d1ero Session 11",
+        "url": "https://open.spotify.com/album/18UE8orLDwFNWcTo4n8UAr"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Totoy El Frio",
+          "url": "https://open.spotify.com/artist/5IYRfypwG9BDDh5ZRPI80z"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186450,
+      "name": "\u00d1ero Session 11",
+      "url": "https://open.spotify.com/track/44DM5mBfePD0JqTltQCOOp"
+    },
+    {
+      "album": {
         "name": "\u00d1ero Session 2",
         "url": "https://open.spotify.com/album/24Oz2KxC0F5F2JKWOoNZ7E"
       },
@@ -7610,7 +7632,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 183012,
       "name": "\u00d1ero Session 7",
       "url": "https://open.spotify.com/track/1tDpUBaXfL5mLqL4pHCxMu"

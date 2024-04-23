@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,485 likes - 489 songs - 1 day 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,484 likes - 489 songs - 1 day 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -133,11 +133,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 123 | [Summer In The City](https://open.spotify.com/track/5fFmZbXzn7iskrkyqsYtLA) | [Now United](https://open.spotify.com/artist/1dXQpSjXcTO288b5D5IIE6) | [Summer In The City](https://open.spotify.com/album/7mN58OcKQ0vFazWOkBrx29) | 3:43 |
 | 124 | [Meet You There](https://open.spotify.com/track/4YYmvuwndD3YNfi43M7EC5) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [Youngblood \(Deluxe\)](https://open.spotify.com/album/2D0Hi3Jj6RFnpWDcSa0Otu) | 3:10 |
 | 125 | [Mrs.](https://open.spotify.com/track/2R4O7MgIrN35QXnyLKMFVl) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Good Thing](https://open.spotify.com/album/7J9fifadXb0PPSBWXctbi8) | 4:02 |
-| 126 | [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 |
-| 127 | [Body Heat](https://open.spotify.com/track/75rnLkvIeq8RZ8xjcFIvSG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:27 |
-| 128 | [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 |
-| 129 | [Dream of You](https://open.spotify.com/track/7jJ4y8hXMLMlGBu7Zm1XZj) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:42 |
-| 130 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
+| 126 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 |
+| 127 | [Poison Poison](https://open.spotify.com/track/7e1arKsP7vPjdwssVPHgZk) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:11 |
+| 128 | [Body Heat](https://open.spotify.com/track/75rnLkvIeq8RZ8xjcFIvSG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Revival \(Deluxe\)](https://open.spotify.com/album/3Kbuu2tHsIbplFUkB7a5oE) | 3:27 |
+| 129 | [She](https://open.spotify.com/track/1z1ztKUrDr09ZSMDnN3QIG) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare \(Deluxe\)](https://open.spotify.com/album/5obQ9rPASQW2mLxYM8Ko6Z) | 2:52 |
+| 130 | [Dream of You](https://open.spotify.com/track/7jJ4y8hXMLMlGBu7Zm1XZj) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:42 |
 | 131 | [DON'T WANNA SLEEP](https://open.spotify.com/track/6ab8aFARxn63vq6KiTGnSz) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:36 |
 | 132 | [I Can Only\. \(feat\. Alessia Cara\)](https://open.spotify.com/track/6khDguAo8XXW1h0u7xofYk) | [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6), [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Mad Love\. \(Deluxe\)](https://open.spotify.com/album/03B7yRw8C4i7Vuxxjy8RJw) | 3:20 |
 | 133 | [I Choose U](https://open.spotify.com/track/75NpB97pPgk2OcVF8d7zgV) | [Timeflies](https://open.spotify.com/artist/6dC0rIJNLSFZwqckLgXJ8p) | [After Hours](https://open.spotify.com/album/4xltDDKkCArA03HKOZnuQD) | 3:47 |
@@ -498,4 +498,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 488 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 | 489 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 
-Snapshot ID: `Mjg1NjI1OTQsMDAwMDAwMDA3NDA5NjhhZGNjNDE2NDA1YWYyZmEyZGNhNjY3YmMyZA==`
+Snapshot ID: `Mjg1NjQwMzQsMDAwMDAwMDBiYjYwM2U1ODJkZDdkOWI2NTlhNDdhNjIyZDI3YjM3YQ==`

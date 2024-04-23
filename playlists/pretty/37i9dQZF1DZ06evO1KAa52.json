@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 620877,
+  "num_followers": 620845,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGViZDc0MzczNjU4NTFlMjlkNTk1N2VhNzU4ZWQ4NWVj",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGY3ZWI0ZDVkOWNjNDc0YTMzNTczZTMwZTU5ZDVjMDcw",
   "tracks": [
     {
       "added_at": null,
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "XSCAPE",
-        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        },
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "Love Never Felt So Good",
-      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/0V7TZQmJBgI81M9Z7GWxCI"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 234026,
       "name": "Give It To Me",
       "url": "https://open.spotify.com/track/0wbDgMuAoy7O7pL3a69uZx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "XSCAPE",
+        "url": "https://open.spotify.com/album/7pomP86PUhoJpY3fsC0WDQ"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "Love Never Felt So Good",
+      "url": "https://open.spotify.com/track/48td6xvpokdYwvbl3JIiXP"
     },
     {
       "added_at": null,
@@ -451,22 +451,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Colors",
-        "url": "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj"
+        "name": "Shock Value II",
+        "url": "https://open.spotify.com/album/5FK6borHO8QcztXhXCPn5H"
       },
       "artists": [
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
         },
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
         }
       ],
-      "duration_ms": 243720,
-      "name": "True Colors",
-      "url": "https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv"
+      "duration_ms": 232466,
+      "name": "Carry Out (Featuring Justin Timberlake)",
+      "url": "https://open.spotify.com/track/2DHc2e5bBn4UzY0ENVFrUl"
     },
     {
       "added_at": null,
@@ -523,6 +523,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "True Colors",
+        "url": "https://open.spotify.com/album/7M83W7iXqtZ2qjYCOXvgWj"
+      },
+      "artists": [
+        {
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 243720,
+      "name": "True Colors",
+      "url": "https://open.spotify.com/track/2ORrgw8M0ZbrFlm5cpaKCv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 262773,
+      "name": "F**kin' Up The Disco",
+      "url": "https://open.spotify.com/track/0NiRZ3eOFg8nOOI0YU4RXs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -559,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 262773,
-      "name": "F**kin' Up The Disco",
-      "url": "https://open.spotify.com/track/0NiRZ3eOFg8nOOI0YU4RXs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/6QPkyl04rXwTGlGlcYaRoW"
       },
@@ -607,6 +627,26 @@
       "duration_ms": 299746,
       "name": "Dead And Gone",
       "url": "https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 206226,
+      "name": "Liar (feat. Fireboy DML)",
+      "url": "https://open.spotify.com/track/2vQ4gwfxX5Qj0ChOU8cKgV"
     },
     {
       "added_at": null,
@@ -655,26 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
-        }
-      ],
-      "duration_ms": 206226,
-      "name": "Liar (feat. Fireboy DML)",
-      "url": "https://open.spotify.com/track/2vQ4gwfxX5Qj0ChOU8cKgV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Other Side (from Trolls World Tour)",
         "url": "https://open.spotify.com/album/50ZTMRi6Biq1i1pWbcaKaJ"
       },
@@ -695,30 +715,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
-        "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
+        "name": "FutureSex/LoveSounds",
+        "url": "https://open.spotify.com/album/2scB1uhcCI1TSf6b9TCZK3"
       },
       "artists": [
         {
-          "name": "Calvin Harris",
-          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
-        },
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 252973,
+      "name": "Summer Love",
+      "url": "https://open.spotify.com/track/1MBM7CyZbwJpVbbZJnHHRg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
         {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Halsey",
-          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
         }
       ],
-      "duration_ms": 229282,
-      "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
-      "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+      "duration_ms": 171880,
+      "name": "Play",
+      "url": "https://open.spotify.com/track/3qdtOI4KHrYS4drA8PLajG"
     },
     {
       "added_at": null,
@@ -763,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 171880,
-      "name": "Play",
-      "url": "https://open.spotify.com/track/3qdtOI4KHrYS4drA8PLajG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -799,6 +807,50 @@
       "duration_ms": 235000,
       "name": "September - from DreamWorks Animation's \"TROLLS\"",
       "url": "https://open.spotify.com/track/1QvPIlDwzql2ub5MCyYa78"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+        "url": "https://open.spotify.com/album/62SWIKrov7HPXU0Jpc6LY1"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        },
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        },
+        {
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        }
+      ],
+      "duration_ms": 229282,
+      "name": "Stay With Me (with Justin Timberlake, Halsey, & Pharrell)",
+      "url": "https://open.spotify.com/track/5lfWrciYtohtIMVDVZd0Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything I Thought It Was",
+        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
+      },
+      "artists": [
+        {
+          "name": "Justin Timberlake",
+          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
+        }
+      ],
+      "duration_ms": 437266,
+      "name": "Technicolor",
+      "url": "https://open.spotify.com/track/347FqcQK09FdgKiBDAiq0V"
     },
     {
       "added_at": null,
@@ -843,22 +895,6 @@
       "duration_ms": 322093,
       "name": "Until The End Of Time (with Beyonc\u00e9)",
       "url": "https://open.spotify.com/track/2wZTnl0pPFr3HBcyXfOaVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything I Thought It Was",
-        "url": "https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh"
-      },
-      "artists": [
-        {
-          "name": "Justin Timberlake",
-          "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        }
-      ],
-      "duration_ms": 437266,
-      "name": "Technicolor",
-      "url": "https://open.spotify.com/track/347FqcQK09FdgKiBDAiq0V"
     },
     {
       "added_at": null,

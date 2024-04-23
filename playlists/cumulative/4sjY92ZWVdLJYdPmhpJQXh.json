@@ -12119,6 +12119,28 @@
     },
     {
       "album": {
+        "name": "Wahala (feat. Olamide)",
+        "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170721,
+      "name": "Wahala (feat. Olamide)",
+      "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
+    },
+    {
+      "album": {
         "name": "Waiting",
         "url": "https://open.spotify.com/album/13az638Bzrvi5f9zw9JpTt"
       },

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo m\u00e1s fresco del hip-hop en espa\u00f1ol! ERRE TRES en portada. ",
-  "num_followers": 13705,
+  "num_followers": 13708,
   "original_name": "Rimas Frescas ",
   "owner": {
     "name": "Spotify",
@@ -823,6 +823,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "F\u00e9 De M\u00e1s",
         "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 140930,
       "name": "F\u00e9 De M\u00e1s",
       "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1395,30 +1395,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "LATIGO",
-        "url": "https://open.spotify.com/album/66IBhhIRxfB1Jj3xzdUfON"
-      },
-      "artists": [
-        {
-          "name": "Yung Sarria",
-          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
-        },
-        {
-          "name": "Nelly Nelz",
-          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
-        },
-        {
-          "name": "Elpatron970",
-          "url": "https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O"
-        }
-      ],
-      "duration_ms": 160524,
-      "name": "LATIGO",
-      "url": "https://open.spotify.com/track/34mPldvwze1AMiCGc0VAFj"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Ya Te Solt\u00e9",
         "url": "https://open.spotify.com/album/6pmMIRI9bFpkCWmjLhnM6g"
       },
@@ -1443,6 +1419,30 @@
       "duration_ms": 229395,
       "name": "Ya Te Solt\u00e9",
       "url": "https://open.spotify.com/track/40cHXCflLI04RYm5WFbvLR"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "LATIGO",
+        "url": "https://open.spotify.com/album/66IBhhIRxfB1Jj3xzdUfON"
+      },
+      "artists": [
+        {
+          "name": "Yung Sarria",
+          "url": "https://open.spotify.com/artist/3vxYNXtM9uOMdRAXTXgtmf"
+        },
+        {
+          "name": "Nelly Nelz",
+          "url": "https://open.spotify.com/artist/7gPZtpMaLi5zBkroBdl6Su"
+        },
+        {
+          "name": "Elpatron970",
+          "url": "https://open.spotify.com/artist/2rPOaAdN74S2D0Kw3ImL5O"
+        }
+      ],
+      "duration_ms": 160524,
+      "name": "LATIGO",
+      "url": "https://open.spotify.com/track/34mPldvwze1AMiCGc0VAFj"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1655,6 +1655,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "AIR",
+        "url": "https://open.spotify.com/album/6YHgqcY5yrndFe4N1zaSJr"
+      },
+      "artists": [
+        {
+          "name": "N. Hardem",
+          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "AIR",
+      "url": "https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Da Capo",
         "url": "https://open.spotify.com/album/1DY9wxWoohEiCxBw9tzhS7"
       },
@@ -1683,18 +1699,34 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "AIR",
-        "url": "https://open.spotify.com/album/6YHgqcY5yrndFe4N1zaSJr"
+        "name": "Mala",
+        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
       },
       "artists": [
         {
-          "name": "N. Hardem",
-          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
+          "name": "Unex Msc",
+          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
         }
       ],
-      "duration_ms": 179000,
-      "name": "AIR",
-      "url": "https://open.spotify.com/track/7b2KA967TDuGlZX3hL6Xs0"
+      "duration_ms": 184799,
+      "name": "Mala",
+      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Old Tom Parr",
+        "url": "https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1723,22 +1755,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Mala",
-        "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
-      },
-      "artists": [
-        {
-          "name": "Unex Msc",
-          "url": "https://open.spotify.com/artist/1xVkmToVzWDqpPAVBmf7MX"
-        }
-      ],
-      "duration_ms": 184799,
-      "name": "Mala",
-      "url": "https://open.spotify.com/track/6ddKkBixwvyJdr5OHG3vVx"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "L\u00c1SER",
         "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
       },
@@ -1751,22 +1767,6 @@
       "duration_ms": 159750,
       "name": "L\u00c1SER",
       "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Old Tom Parr",
-        "url": "https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K"
-      },
-      "artists": [
-        {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
-        }
-      ],
-      "duration_ms": 130173,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1915,26 +1915,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "1000 Colores",
-        "url": "https://open.spotify.com/album/0qttaG6CIHzpLgX15dl8qT"
-      },
-      "artists": [
-        {
-          "name": "Cuauh",
-          "url": "https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc"
-        },
-        {
-          "name": "Elsa y Elmar",
-          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
-        }
-      ],
-      "duration_ms": 215189,
-      "name": "1000 Colores",
-      "url": "https://open.spotify.com/track/59jrNHkwH8uLIvlwQldUX6"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Cuando salga en Netflix.",
         "url": "https://open.spotify.com/album/1Gz1dqtXs6MpZBMvdC71jJ"
       },
@@ -1967,6 +1947,26 @@
       "duration_ms": 295611,
       "name": "Confesi\u00f3n De Ares",
       "url": "https://open.spotify.com/track/4tSK5q7WPL60ju8voIKF5l"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "1000 Colores",
+        "url": "https://open.spotify.com/album/0qttaG6CIHzpLgX15dl8qT"
+      },
+      "artists": [
+        {
+          "name": "Cuauh",
+          "url": "https://open.spotify.com/artist/3nVY2YFUkLFklG2qTfbPVc"
+        },
+        {
+          "name": "Elsa y Elmar",
+          "url": "https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy"
+        }
+      ],
+      "duration_ms": 215189,
+      "name": "1000 Colores",
+      "url": "https://open.spotify.com/track/59jrNHkwH8uLIvlwQldUX6"
     },
     {
       "added_at": "2024-04-19 06:00:00",

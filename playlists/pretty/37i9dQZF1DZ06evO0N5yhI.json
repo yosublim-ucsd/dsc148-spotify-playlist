@@ -1,12 +1,12 @@
 {
-  "description": "This is Phoebe Bridgers. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 122859,
+  "description": "This is Phoebe Bridgers. The essential tracks, all in one playlist.",
+  "num_followers": 122911,
   "original_name": "This Is Phoebe Bridgers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDA0MzY0OWQ2YjhmMDZiOTBkYWJiYzJlMjQyNDRkMWJh",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGFmYzg2ZTBkODA0OGM2MzM1MzM0OGZiNWUzNTZjZTVm",
   "tracks": [
     {
       "added_at": null,
@@ -703,6 +703,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Better Oblivion Community Center",
+        "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
+      },
+      "artists": [
+        {
+          "name": "Better Oblivion Community Center",
+          "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
+        },
+        {
+          "name": "Conor Oberst",
+          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Dylan Thomas",
+      "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -727,30 +751,6 @@
       "duration_ms": 215689,
       "name": "Ketchum, ID",
       "url": "https://open.spotify.com/track/2HbDLvUR0SA1o9BDMAqqNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Better Oblivion Community Center",
-        "url": "https://open.spotify.com/album/0uJIxkI8D0rR4shEIKeiDs"
-      },
-      "artists": [
-        {
-          "name": "Better Oblivion Community Center",
-          "url": "https://open.spotify.com/artist/3NBmfDV6Yh3hjuQUBVvYgO"
-        },
-        {
-          "name": "Conor Oberst",
-          "url": "https://open.spotify.com/artist/2Z7gV3uEh1ckIaBzTUCE6R"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Dylan Thomas",
-      "url": "https://open.spotify.com/track/1AEiKr56njftNDp67QCnHH"
     },
     {
       "added_at": null,
@@ -791,6 +791,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "This Isn't Helping (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "boygenius",
         "url": "https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9"
       },
@@ -819,26 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "First Two Pages of Frankenstein",
-        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
-      },
-      "artists": [
-        {
-          "name": "The National",
-          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
-        },
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "This Isn't Helping (feat. Phoebe Bridgers)",
-      "url": "https://open.spotify.com/track/56QXS0Hk7mKpuLaFJQ3x8F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Killer + The Sound",
         "url": "https://open.spotify.com/album/0YkXSjRA7Zim0xIuZ26CRs"
       },
@@ -859,6 +859,26 @@
       "duration_ms": 475186,
       "name": "Killer + The Sound",
       "url": "https://open.spotify.com/track/00fRUfon3pr861IKiG03kA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "First Two Pages of Frankenstein",
+        "url": "https://open.spotify.com/album/5Mc6uebYtKnRc5I7bjlNB6"
+      },
+      "artists": [
+        {
+          "name": "The National",
+          "url": "https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB"
+        },
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "duration_ms": 264320,
+      "name": "Your Mind Is Not Your Friend (feat. Phoebe Bridgers)",
+      "url": "https://open.spotify.com/track/0hMqlU7TLbX2HaYmwHPquP"
     }
   ],
   "unique_name": "This Is Phoebe Bridgers",

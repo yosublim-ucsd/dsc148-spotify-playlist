@@ -809,6 +809,24 @@
     },
     {
       "album": {
+        "name": "By and By",
+        "url": "https://open.spotify.com/album/1wohWQ8y4RpdANgxZDa4MF"
+      },
+      "artists": [
+        {
+          "name": "Caamp",
+          "url": "https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224360,
+      "name": "Peach Fuzz",
+      "url": "https://open.spotify.com/track/4eAC7BMiGocHOAnZYxWTjc"
+    },
+    {
+      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0XKconI47eiBP6qPYHsx9f"
       },

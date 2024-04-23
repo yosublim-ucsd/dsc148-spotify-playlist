@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,855 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,715 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 33 | [Forsaken \- The Aftermath](https://open.spotify.com/track/6dzyEj20geKV3Khh0nFqbR) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [Forsaken \(The Aftermath\)](https://open.spotify.com/album/19sM9PTWBKHos2jARNfe06) | 4:58 |
 | 34 | [21ST CENTURY BITCH](https://open.spotify.com/track/2car32KMDF9AbUTbRYq5q4) | [Holy Wars](https://open.spotify.com/artist/2dTOWcCL0cYviin0Uz1lj4) | [EAT IT UP SPIT IT OUT](https://open.spotify.com/album/0dAQn8Qq1L1olB4QqQvARM) | 2:45 |
 | 35 | [Play The Greatest Hits](https://open.spotify.com/track/671gFjeiyqUEIgXfLKj956) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Blue Weekend](https://open.spotify.com/album/1zt521PK0lam6J79DNMIJi) | 2:27 |
-| 36 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
-| 37 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
+| 36 | [Like That](https://open.spotify.com/track/2SpphQibJfkN9GY5nuzlof) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Mixtape](https://open.spotify.com/album/23yFRTbLS2jvXfFedgFDFM) | 2:35 |
+| 37 | [Bang Ya Head \(feat\. Fred Durst\)](https://open.spotify.com/track/6cGoPSnvtuT3NnHH4DaDU0) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB), [Fred Durst](https://open.spotify.com/artist/6xs3t4VrfszbO3YJg2wLPa) | [Bang Ya Head](https://open.spotify.com/album/4O8mwmSl0t6AX3fObXRqB5) | 3:36 |
 | 38 | [Shadow](https://open.spotify.com/track/1iFIRC1D9NnxjTwF240jZy) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [The Reckoning](https://open.spotify.com/album/6sjhRKMnjF180XD3qli9c5) | 3:48 |
 | 39 | [My Demon](https://open.spotify.com/track/53Lw9RbJ8JoU4HddmFF9HR) | [Stitched Up Heart](https://open.spotify.com/artist/4XG961Y3fzZF5k2gfpnaNt) | [Darkness](https://open.spotify.com/album/31w55jlg4HsGp2lp9ZgnG9) | 3:09 |
 | 40 | [Maverick](https://open.spotify.com/track/1TxE8yxjFaKPEMpPy7FuLK) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve) | [Maverick](https://open.spotify.com/album/5vR3wPXSeLmGQqjcsTcJwQ) | 3:34 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 48 | [Paralyzed](https://open.spotify.com/track/2Ez8SNfzrw2bwkrZTx5B5j) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc) | [Paralyzed](https://open.spotify.com/album/0DiNp9OwAkJTfYOICCyHcZ) | 3:45 |
 | 49 | [Ghost Myself](https://open.spotify.com/track/1FFuIUSAYyuhT4Myem8tgT) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Ghost Myself](https://open.spotify.com/album/3DvF9spIyVvxXlndS0AR3F) | 3:12 |
 | 50 | [FYB](https://open.spotify.com/track/4qsinCdV0mxSrTHubbQywu) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [FYB](https://open.spotify.com/album/0elEacBFrTn1uMQTd2pBLG) | 1:46 |
-| 51 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 |
-| 52 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
+| 51 | [I am a Machine](https://open.spotify.com/track/7r6PizEykGi4mjmTPtoVnC) | [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [MY MASOCHISTIC MIND](https://open.spotify.com/album/47ZhdYUbzhzhwi8u1hdLgt) | 2:11 |
+| 52 | [Save Me](https://open.spotify.com/track/02uw1BC34CaOgdnI6hO8Op) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Save Me](https://open.spotify.com/album/2s9RyhUVacokAqGkGE3rSL) | 4:36 |
 | 53 | [Sleeping with the Enemy](https://open.spotify.com/track/4vzlN6pMehztFUIdNlei1m) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Sleeping with the Enemy](https://open.spotify.com/album/3xGmtGuHsGeKBr9mMvAseA) | 3:32 |
 | 54 | [CREEP HEAT](https://open.spotify.com/track/0fRktuIYjAFoYZ3HIORgkQ) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [CREEP HEAT](https://open.spotify.com/album/5mjmBGPfXVVuXbsadrozU5) | 3:25 |
 | 55 | [And So It Went \(feat\. Tom Morello\)](https://open.spotify.com/track/03Szk0skbXqllHkNCVZI9p) | [The Pretty Reckless](https://open.spotify.com/artist/2R57sY41L9XvGPiIgHOaYq), [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed) | [And So It Went](https://open.spotify.com/album/3i32UJ5zr5ZEuGbiovsIY3) | 4:30 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 73 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 |
 | 74 | [Antagonist](https://open.spotify.com/track/76NdeyUe2IEANeAopr4V31) | [Nova Twins](https://open.spotify.com/artist/7I95CM75shzCjHuTzrepjM) | [Antagonist](https://open.spotify.com/album/4cAKhG7S3jOL53LaGMtdNw) | 3:06 |
 | 75 | [Songs the Night Sings](https://open.spotify.com/track/7iZoDXIunEJkR7nWLxRoQu) | [The Dark Element](https://open.spotify.com/artist/4yWabEiTzKShbBiy14Xx7f) | [Songs the Night Sings](https://open.spotify.com/album/78tux8SHmvu04TZ4Hzocnr) | 5:09 |
-| 76 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
-| 77 | [Deadly Diminuendo](https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Deadly Diminuendo](https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl) | 5:00 |
+| 76 | [Deadly Diminuendo](https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Deadly Diminuendo](https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl) | 5:00 |
+| 77 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
 | 78 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 |
 | 79 | [BEAVER CAGE](https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [BEAVER CAGE](https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z) | 3:38 |
 | 80 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |

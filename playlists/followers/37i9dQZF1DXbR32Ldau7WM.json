@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 282064,
+  "2024-04-23": 282043,
   "date_first_scraped": "2022-05-11",
   "description": "The biggest rock bands/artists in Japan right now!  Cover: The Birthday",
   "name": "Big in Japan",
@@ -10994,28 +10994,6 @@
     },
     {
       "album": {
-        "name": "W\u25cfRK",
-        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
-      },
-      "artists": [
-        {
-          "name": "millennium parade",
-          "url": "https://open.spotify.com/artist/0GZ65zwBwkkwGNJ3zagtTZ"
-        },
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "date_added": "2023-04-04",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 201073,
-      "name": "W\u25cfRK",
-      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
-    },
-    {
-      "album": {
         "name": "\u3089\u3093\u3069",
         "url": "https://open.spotify.com/album/1BjIp3n5i8q6VjJT8LbC7v"
       },
@@ -18873,6 +18851,28 @@
       "duration_ms": 251666,
       "name": "\u9ec4\u6cc9\u306e\u56fd",
       "url": "https://open.spotify.com/track/5Wjr32cfS2M71FvZkBAm1m"
+    },
+    {
+      "album": {
+        "name": "\uff37\u25cf\uff32\uff2b",
+        "url": "https://open.spotify.com/album/0uKLHZitWwrvekNjznMAaB"
+      },
+      "artists": [
+        {
+          "name": "\ua248\ua027\ua492\ua492\ua044\ua348\ua348\ua027\ua4a6\ua248 \ua263\ua154\ua3a1\ua154\ua055\ua044",
+          "url": "https://open.spotify.com/artist/3PvbcfORzI3TVPlBxsTmhU"
+        },
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2023-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201073,
+      "name": "\uff37\u25cf\uff32\uff2b",
+      "url": "https://open.spotify.com/track/1L50ymp25Vmu7VnPRx5TWf"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbR32Ldau7WM"

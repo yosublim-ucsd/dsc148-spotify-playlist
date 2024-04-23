@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 
 > This is The 1975\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 771,226 likes - 40 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 771,356 likes - 40 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,16 +32,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 22 | [All I Need To Hear](https://open.spotify.com/track/1RB8jMVr0eSo6ExOOvXavV) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 3:30 |
 | 23 | [Sincerity Is Scary](https://open.spotify.com/track/6HguG9HRb1Ke1bhihfE4m8) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 3:45 |
 | 24 | [Me & You Together Song](https://open.spotify.com/track/6SrvijeageGUiFu9iCDdmM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 3:27 |
-| 25 | [Paris](https://open.spotify.com/track/6C88rHxXBlpcgtBY3HAF0E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:53 |
-| 26 | [Milk](https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Milk](https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8) | 2:12 |
+| 25 | [Milk](https://open.spotify.com/track/0fzqnqxwSh5Bmq8sY9tFb9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Milk](https://open.spotify.com/album/5aUBFfdZTbRNKGACXD4ty8) | 2:12 |
+| 26 | [Paris](https://open.spotify.com/track/6C88rHxXBlpcgtBY3HAF0E) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:53 |
 | 27 | [Heart Out](https://open.spotify.com/track/3xrwXWG4O9uhtRyAd3MCou) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:22 |
 | 28 | [Roadkill](https://open.spotify.com/track/2ymCaPd4ojF9H8hzIz2NJd) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:55 |
-| 29 | [She's American](https://open.spotify.com/track/5aV4HUW9RFOB0aXq0Ud9s0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:30 |
-| 30 | [Me](https://open.spotify.com/track/4w0joPRhKJsrzq1euxkpZ2) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:35 |
+| 29 | [Me](https://open.spotify.com/track/4w0joPRhKJsrzq1euxkpZ2) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:35 |
+| 30 | [She's American](https://open.spotify.com/track/5aV4HUW9RFOB0aXq0Ud9s0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/12zl1WmHPFCSyKYbL4vBZn) | 4:30 |
 | 31 | [Settle Down](https://open.spotify.com/track/5CgihnZO9To8wj7ALOoTPD) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h) | 3:59 |
 | 32 | [Tonight \(I Wish I Was Your Boy\)](https://open.spotify.com/track/7DmTaJoM7L020qm3egqNsM) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:07 |
-| 33 | [UGH!](https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:00 |
-| 34 | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS) | 4:45 |
+| 33 | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/track/2QKBvCMHdokPoy2b44dK2m) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Don't Play \(feat\. The 1975 & Big Sean\)](https://open.spotify.com/album/0CbBgFprmJ1LjDQDMKq6eS) | 4:45 |
+| 34 | [UGH!](https://open.spotify.com/track/5vgdeMt4uKUN2BeltZjoDh) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 3:00 |
 | 35 | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/track/56D251hqnHtPSgwSH5a0fl) | [No Rome](https://open.spotify.com/artist/6auWB5YAlcKaHyrbTH66nd), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Spinning \(with Charli XCX & The 1975\)](https://open.spotify.com/album/3iji9D5iOwGSCz1bnkuAii) | 2:52 |
 | 36 | [The Birthday Party](https://open.spotify.com/track/3wFPsw1WQJevCFoKpoLyTF) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 4:45 |
 | 37 | [Undo](https://open.spotify.com/track/1gJCEcK3erq2fKGEFc2j7B) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:04 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1X6Ic8.md) - [plain]
 | 39 | [Then Because She Goes](https://open.spotify.com/track/1VP6X2WDJuBGvIZkTKFhF5) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Notes On A Conditional Form](https://open.spotify.com/album/0o5xjCboti8vXhdoUG9LYi) | 2:07 |
 | 40 | [So Far \(It's Alright\)](https://open.spotify.com/track/0iFktIoaM3qNeguIibIEyB) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975 \(Deluxe\)](https://open.spotify.com/album/74EKsgjD5GJOJpthJ59dhQ) | 4:00 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGE4NmE1Yjc2MjM2ZGU2MTg5YzI0OTRlMDFmNTZmOTQz`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDI3MmQ5OTFlMmNmYzgyNmVmN2RjMDJmYzFkMDY0NjFm`

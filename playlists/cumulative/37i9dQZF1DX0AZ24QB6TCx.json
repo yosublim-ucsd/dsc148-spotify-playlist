@@ -1869,6 +1869,28 @@
     },
     {
       "album": {
+        "name": "Forelsket",
+        "url": "https://open.spotify.com/album/4jTwsVQan0LMDtyH4Ko0N7"
+      },
+      "artists": [
+        {
+          "name": "Buddha-Bar",
+          "url": "https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ"
+        },
+        {
+          "name": "Milo H\u00e4fliger",
+          "url": "https://open.spotify.com/artist/6dmIQsOoChrgOZc6hveoHT"
+        }
+      ],
+      "date_added": "2024-02-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 336874,
+      "name": "Forelsket",
+      "url": "https://open.spotify.com/track/4GKaQwQjOpx6TBc3M9ubDp"
+    },
+    {
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/57jWVRYI86FwpN92ZvRb9X"
       },
@@ -6074,7 +6096,7 @@
       ],
       "date_added": "2023-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 304558,
       "name": "Waves",
       "url": "https://open.spotify.com/track/1hwug6dzxpgjQ6QsA2jvFr"

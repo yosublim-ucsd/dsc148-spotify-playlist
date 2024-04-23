@@ -1,6 +1,6 @@
 {
   "description": "El cholo se hizo buch\u00f3n \ud83d\ude0e\ud83e\udd20 Tyan G en portada.",
-  "num_followers": 126751,
+  "num_followers": 126818,
   "original_name": "Trap Corridos",
   "owner": {
     "name": "Spotify",
@@ -399,6 +399,26 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
+        "name": "El Rescate",
+        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 160897,
+      "name": "El Rescate",
+      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
         "name": "NO SON KLLE",
         "url": "https://open.spotify.com/album/3manJutsZhzlnZe2xMWp7y"
       },
@@ -419,26 +439,6 @@
       "duration_ms": 223586,
       "name": "NO SON KLLE",
       "url": "https://open.spotify.com/track/4dUES55SAFKZp4ekMlLHWZ"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "El Rescate",
-        "url": "https://open.spotify.com/album/32QttkMiHZ1eXkXv6BVGcP"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 160897,
-      "name": "El Rescate",
-      "url": "https://open.spotify.com/track/4w273WCBXwM4P3jTX5HkB2"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "Viaje A Paris",
-        "url": "https://open.spotify.com/album/0yscmLL0WImGbD4wXM3KQC"
-      },
-      "artists": [
-        {
-          "name": "Nueva H",
-          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 174087,
-      "name": "Viaje A Paris",
-      "url": "https://open.spotify.com/track/2EvftGDMUNEGe25wxjXdQl"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "B\u00e9lico y Cholo",
         "url": "https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 202218,
       "name": "B\u00e9lico y Cholo",
       "url": "https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Viaje A Paris",
+        "url": "https://open.spotify.com/album/0yscmLL0WImGbD4wXM3KQC"
+      },
+      "artists": [
+        {
+          "name": "Nueva H",
+          "url": "https://open.spotify.com/artist/0AY6tq934rmw7zSFRl6e6S"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 174087,
+      "name": "Viaje A Paris",
+      "url": "https://open.spotify.com/track/2EvftGDMUNEGe25wxjXdQl"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-04-12 06:00:00",
       "album": {
-        "name": "EXCENTRICON",
-        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
-      },
-      "artists": [
-        {
-          "name": "Los Gemelos De Sinaloa",
-          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
-        }
-      ],
-      "duration_ms": 126160,
-      "name": "VIDA DE FAMOSO",
-      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
-    },
-    {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "EXCENTRICON",
+        "url": "https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH"
+      },
+      "artists": [
+        {
+          "name": "Los Gemelos De Sinaloa",
+          "url": "https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA"
+        }
+      ],
+      "duration_ms": 126160,
+      "name": "VIDA DE FAMOSO",
+      "url": "https://open.spotify.com/track/4QC6aq7FJjDnd6LVb2QqqH"
     }
   ],
   "unique_name": "Trap Corridos",

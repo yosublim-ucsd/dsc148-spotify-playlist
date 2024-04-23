@@ -1,6 +1,6 @@
 {
   "description": "Latin tunes to get your beast mode on!",
-  "num_followers": 193825,
+  "num_followers": 194060,
   "original_name": "Beast Mode Latin",
   "owner": {
     "name": "Spotify",
@@ -379,6 +379,26 @@
     {
       "added_at": "2024-04-17 13:37:07",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 201935,
+      "name": "offline",
+      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
+    },
+    {
+      "added_at": "2024-04-17 13:37:07",
+      "album": {
         "name": "EMPELOTICA",
         "url": "https://open.spotify.com/album/1Cf5ZIMxdIYC60Cz7Q4GZg"
       },
@@ -423,46 +443,6 @@
     {
       "added_at": "2024-04-17 13:37:07",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 201935,
-      "name": "offline",
-      "url": "https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL"
-    },
-    {
-      "added_at": "2024-04-17 13:37:07",
-      "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 202173,
-      "name": "LA INOCENTE",
-      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
-    },
-    {
-      "added_at": "2024-04-17 13:37:07",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2024-04-17 13:37:07",
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "duration_ms": 202173,
+      "name": "LA INOCENTE",
+      "url": "https://open.spotify.com/track/5jt25aFjW2kNoBqaEVaz5W"
     },
     {
       "added_at": "2024-04-17 13:37:07",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2024-04-17 13:37:07",
       "album": {
-        "name": "MICRODOSIS",
-        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
-      },
-      "artists": [
-        {
-          "name": "Mora",
-          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "MEMORIAS",
-      "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
-    },
-    {
-      "added_at": "2024-04-17 13:37:07",
-      "album": {
         "name": "CRUSH",
         "url": "https://open.spotify.com/album/7DMu62yuKkrM8IYUUrwkhf"
       },
@@ -1187,6 +1167,26 @@
       "duration_ms": 233333,
       "name": "CRUSH",
       "url": "https://open.spotify.com/track/1mAUVEQWn2PRxWnRhQreBo"
+    },
+    {
+      "added_at": "2024-04-17 13:37:07",
+      "album": {
+        "name": "MICRODOSIS",
+        "url": "https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC"
+      },
+      "artists": [
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "MEMORIAS",
+      "url": "https://open.spotify.com/track/2hLXUbsOU9cDb9RFva9FYr"
     },
     {
       "added_at": "2024-04-17 13:37:07",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-04-17 13:37:07",
       "album": {
+        "name": "Emociones",
+        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
+      },
+      "artists": [
+        {
+          "name": "Hades66",
+          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+        }
+      ],
+      "duration_ms": 124374,
+      "name": "Emociones",
+      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
+    },
+    {
+      "added_at": "2024-04-17 13:37:07",
+      "album": {
         "name": "MARTILLAZO",
         "url": "https://open.spotify.com/album/1FX1f4X5yS0wlnItHjvhvo"
       },
@@ -1383,18 +1399,22 @@
     {
       "added_at": "2024-04-17 13:37:07",
       "album": {
-        "name": "Emociones",
-        "url": "https://open.spotify.com/album/0j5oHHGTmEo3CzLt0wYTya"
+        "name": "LA NENA",
+        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
       },
       "artists": [
         {
-          "name": "Hades66",
-          "url": "https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE"
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         }
       ],
-      "duration_ms": 124374,
-      "name": "Emociones",
-      "url": "https://open.spotify.com/track/4M4Tc6Mx3IZhOXD8H7Iziq"
+      "duration_ms": 200040,
+      "name": "LA NENA",
+      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "added_at": "2024-04-17 13:37:07",
@@ -1411,6 +1431,26 @@
       "duration_ms": 164822,
       "name": "VVS",
       "url": "https://open.spotify.com/track/1yNa5Sd2tijUuR3hJJ8uvk"
+    },
+    {
+      "added_at": "2024-04-17 13:37:07",
+      "album": {
+        "name": "PESO COMPLETO",
+        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
+      },
+      "artists": [
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 193714,
+      "name": "PESO COMPLETO",
+      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
     },
     {
       "added_at": "2024-04-17 13:37:07",
@@ -1455,46 +1495,6 @@
       "duration_ms": 160800,
       "name": "Otro Show",
       "url": "https://open.spotify.com/track/0uBrQT9ny21InKVEsc7lm2"
-    },
-    {
-      "added_at": "2024-04-17 13:37:07",
-      "album": {
-        "name": "PESO COMPLETO",
-        "url": "https://open.spotify.com/album/0omumEPaOKxBunEn2xh0zQ"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 193714,
-      "name": "PESO COMPLETO",
-      "url": "https://open.spotify.com/track/1nCXy1RQQYMgt97DO8uCSI"
-    },
-    {
-      "added_at": "2024-04-17 13:37:07",
-      "album": {
-        "name": "LA NENA",
-        "url": "https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw"
-      },
-      "artists": [
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 200040,
-      "name": "LA NENA",
-      "url": "https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld"
     },
     {
       "added_at": "2024-04-17 13:37:07",
@@ -1719,26 +1719,6 @@
     {
       "added_at": "2024-04-17 13:37:07",
       "album": {
-        "name": "Ex-Special",
-        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
-      },
-      "artists": [
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 229626,
-      "name": "Ex-Special",
-      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
-    },
-    {
-      "added_at": "2024-04-17 13:37:07",
-      "album": {
         "name": "PACTO (Remix) [feat. Bryant Myers & Dei V]",
         "url": "https://open.spotify.com/album/6XCBKPAIVzJej4qkhHYJd6"
       },
@@ -1767,6 +1747,26 @@
       "duration_ms": 346000,
       "name": "PACTO (feat. Bryant Myers & Dei V) - Remix",
       "url": "https://open.spotify.com/track/2VOXLA9TzOAVCjDi7RY5DV"
+    },
+    {
+      "added_at": "2024-04-17 13:37:07",
+      "album": {
+        "name": "Ex-Special",
+        "url": "https://open.spotify.com/album/5dvomMEu2lIYM9p189RxIp"
+      },
+      "artists": [
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 229626,
+      "name": "Ex-Special",
+      "url": "https://open.spotify.com/track/4ix1NGkHZEiVyzoQ6cEVs3"
     },
     {
       "added_at": "2024-04-17 13:37:07",
@@ -2103,6 +2103,30 @@
     {
       "added_at": "2024-04-17 13:37:07",
       "album": {
+        "name": "Y Yo Me Le Pego",
+        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
+      },
+      "artists": [
+        {
+          "name": "Bellakath",
+          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
+        },
+        {
+          "name": "Profeta Yao Yao",
+          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
+        },
+        {
+          "name": "Smi-Lee",
+          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
+        }
+      ],
+      "duration_ms": 172806,
+      "name": "Y Yo Me Le Pego",
+      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
+    },
+    {
+      "added_at": "2024-04-17 13:37:07",
+      "album": {
         "name": "Tiki",
         "url": "https://open.spotify.com/album/1R6aVf9jEtdjtnKSlGiIOd"
       },
@@ -2127,30 +2151,6 @@
       "duration_ms": 189613,
       "name": "Tiki",
       "url": "https://open.spotify.com/track/5U8rQGmRb9ps9nxHbSsyVy"
-    },
-    {
-      "added_at": "2024-04-17 13:37:07",
-      "album": {
-        "name": "Y Yo Me Le Pego",
-        "url": "https://open.spotify.com/album/6iCJj6kFxBEoswtbzxxlBu"
-      },
-      "artists": [
-        {
-          "name": "Bellakath",
-          "url": "https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr"
-        },
-        {
-          "name": "Profeta Yao Yao",
-          "url": "https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb"
-        },
-        {
-          "name": "Smi-Lee",
-          "url": "https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA"
-        }
-      ],
-      "duration_ms": 172806,
-      "name": "Y Yo Me Le Pego",
-      "url": "https://open.spotify.com/track/4PpktF1wMyXtNgADgcdgqT"
     },
     {
       "added_at": "2024-04-17 13:37:07",

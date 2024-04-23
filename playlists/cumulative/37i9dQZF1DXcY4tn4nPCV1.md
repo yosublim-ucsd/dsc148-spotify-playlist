@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-416 songs - 17 hr 42 min
+419 songs - 17 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Boundaries](https://open.spotify.com/track/6fcBDcZTZVx1jJAED8KYv0) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Boundaries](https://open.spotify.com/album/2B6kWesA1AyfYfG6VxZN2b) | 2:50 | 2022-04-04 | 2023-10-03 |
 | [Break Of Day](https://open.spotify.com/track/0ln7Ux0MDrjJ22lu0sNCyU) | [Maria Marble](https://open.spotify.com/artist/3LmBcqcFv3Nvzs5gJMw8O4) | [Break Of Day](https://open.spotify.com/album/5bLPlyr6h30Su5VPSodDcE) | 2:10 | 2022-04-28 |  |
 | [Bølgene](https://open.spotify.com/track/2AkfsWt3ZtzqkvMN6q3g2t) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Bølgene](https://open.spotify.com/album/4gBUCW3OYJTPtpiKK9nIGa) | 2:50 | 2024-03-19 |  |
+| [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Calvaire](https://open.spotify.com/track/76IjkqtXsgh2VJMsymMD42) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Calvaire](https://open.spotify.com/album/0GpzLHZ3EayNBuX7dTlKuB) | 2:16 | 2022-04-04 | 2022-11-19 |
 | [Candice](https://open.spotify.com/track/29jQKqToqxKPsDy2IeKjan) | [Flavio Apicella](https://open.spotify.com/artist/2GnQro7OuaSjmhe1TGO14v) | [Candice](https://open.spotify.com/album/4dAIB4LbNy3LCupWfH8oxD) | 3:34 | 2022-04-04 | 2024-02-03 |
 | [Carousel](https://open.spotify.com/track/32tPWK9uvKGtG5qf0mc4lY) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Carousel](https://open.spotify.com/album/3wZmh9scki9IPeyaB0xh1K) | 3:09 | 2023-07-18 |  |
@@ -198,6 +199,7 @@
 | [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-23 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-04 | 2022-04-29 |
 | [Lydian Fairytale](https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Lydian Fairytale](https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4) | 1:45 | 2023-01-20 | 2023-07-19 |
+| [Lysithea](https://open.spotify.com/track/4XBdquxpnwZRjFiM55TRkQ) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Lysithea](https://open.spotify.com/album/0j6dhJ8LwkmtCbTOYMdTH3) | 2:14 | 2024-04-22 |  |
 | [magic](https://open.spotify.com/track/6YRQpkfn5lyXDTJIZG60sB) | [our distant worlds](https://open.spotify.com/artist/4fMFhhP8Sqi3WWiaoOm5QT) | [guardian & magic](https://open.spotify.com/album/4RiiB4I0Rd4W3oPX2rcCah) | 2:16 | 2022-07-07 |  |
 | [Magnificent](https://open.spotify.com/track/1gjZYQff9vXXru1KI6XJHd) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Magnificent](https://open.spotify.com/album/3sBAbDkxVcDKACCpFUcgCn) | 2:34 | 2022-04-04 | 2024-02-15 |
 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 | 2022-04-04 | 2024-04-04 |
@@ -399,6 +401,7 @@
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2022-04-04 | 2022-04-29 |
 | [Verdant](https://open.spotify.com/track/5vtWoxJeBYe5ZGnoR8v9TE) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Verdant](https://open.spotify.com/album/5aV8K6xI28TsFxEAmIubjq) | 2:26 | 2022-05-20 |  |
 | [Verses](https://open.spotify.com/track/6t1T3fMWfv5svT4ZTsBnBY) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Verses](https://open.spotify.com/album/0oEfniLgEookbXSSQSpIqE) | 3:15 | 2022-04-04 | 2024-04-10 |
+| [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
 | [Vitrales](https://open.spotify.com/track/2SPkUtdw39pnYWZr01opD9) | [Emilia Branco](https://open.spotify.com/artist/6TjvSnmtFpeJvto4Ihzozz) | [Vitrales](https://open.spotify.com/album/6NfvuPPYduPE9MIQviXENF) | 2:40 | 2022-04-04 | 2024-04-04 |
 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 | 2022-04-04 | 2024-04-04 |
 | [Voyage à l'Ouest](https://open.spotify.com/track/4C7ZY0HRPVn9G5bgYAertD) | [Lo Mimieux](https://open.spotify.com/artist/0M2jyp8P5yTxQcdPyCdDkM) | [Voyage à'louest](https://open.spotify.com/album/2AgVCRWI1Qpz3S7u05VHZu) | 2:55 | 2022-04-04 |  |

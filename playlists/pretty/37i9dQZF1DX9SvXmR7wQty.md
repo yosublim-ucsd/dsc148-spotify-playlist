@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vacra
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,387 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,373 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 17 | [Certifié](https://open.spotify.com/track/1nA1QtJzSomE13YuGA4K7W) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Certifié](https://open.spotify.com/album/4FPJakUjGGmXoRnD2UKSFI) | 2:30 |
 | 18 | [CORLEONE II](https://open.spotify.com/track/5srZMgun04qJ5nAi6pP8uL) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [CORLEONE II](https://open.spotify.com/album/6q4w9kOGplHm5hBCbHaa02) | 2:18 |
 | 19 | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/track/0dzcCp79Af8Zy63Jcc4KVb) | [Super Plage](https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3), [Le Couleur](https://open.spotify.com/artist/0ChUTSO3tfQSVKMOpWkCJy) | [Rue Dandurand \(feat\. Le Couleur\) \[Radio Edit\]](https://open.spotify.com/album/3dj2qkPCAea8t4lX51L0cU) | 2:35 |
-| 20 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 |
+| 20 | [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 |
 | 21 | [Fleur en polyéthylène](https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Bizou](https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj) | 3:04 |
-| 22 | [5am in Paris](https://open.spotify.com/track/5w2urkV0oCHiBCo5W2fYmR) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [5am in Paris](https://open.spotify.com/album/7y18QZL66IozHqgS6MoplG) | 2:15 |
+| 22 | [Me Da Igual](https://open.spotify.com/track/0ri4EFGPe0GqSl8Mp1yYuE) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU) | [Me Da Igual](https://open.spotify.com/album/15IMmxQWpYmDaCuZkBWLrN) | 3:29 |
 | 23 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 |
 | 24 | [Faut que tu m'aimes](https://open.spotify.com/track/6nc1bKC7wr4L8y6vMUdQKK) | [Styleto](https://open.spotify.com/artist/4vbZKiwmvbbW6onily9SJ5) | [Faut que tu m'aimes](https://open.spotify.com/album/5kdVeFvP0n9f4xepbdPCt7) | 3:12 |
 | 25 | [Terres brûlées](https://open.spotify.com/track/4CqNS90gqsUCPBI0XIz8GY) | [Myriam Gendron](https://open.spotify.com/artist/7ifBfmldlN3xnzGsbfMISU) | [Terres brûlées](https://open.spotify.com/album/6Zahhq9Qh1JB4gXam2EkkZ) | 6:13 |
@@ -44,18 +44,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 34 | [Abimé](https://open.spotify.com/track/4UA7p7ndurcpEBQxGyTAnQ) | [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Goumin](https://open.spotify.com/album/478yYBhIJvfduzaiRWDfZF) | 2:34 |
 | 35 | [Loin d'ici](https://open.spotify.com/track/0yvtWcKzMjrMfwBwQYXAi1) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:23 |
 | 36 | [ENCORE \(feat\. Rsko\)](https://open.spotify.com/track/4OW2bHRwX2xpnAqCv7eWKY) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh), [Rsko](https://open.spotify.com/artist/3L774tiJRvPmAS90pOLB44) | [AMBITION II](https://open.spotify.com/album/1j2hiCNwiP5RsCfnG9sM4f) | 2:43 |
-| 37 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 |
-| 38 | [Cramer](https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Cramer](https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT) | 3:29 |
-| 39 | [Sans toi](https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Sans toi](https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf) | 3:01 |
-| 40 | [Clique](https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Clique](https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN) | 3:01 |
-| 41 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 |
-| 42 | [RSQ3](https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [RSQ3](https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq) | 2:18 |
+| 37 | [RSQ3](https://open.spotify.com/track/79ydE7Am2KMgQwu6D8bAnf) | [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [RSQ3](https://open.spotify.com/album/33f1zkt6B0tlOSpUcdAzQq) | 2:18 |
+| 38 | [J'ai mal](https://open.spotify.com/track/7BPBSa3AIkZrK4c7lPzFEo) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [J'ai mal](https://open.spotify.com/album/49y7lXYeda9NVCfCSBhDd6) | 2:08 |
+| 39 | [Cramer](https://open.spotify.com/track/22YcAS1AAnzSUulaNMZtys) | [Jok'air](https://open.spotify.com/artist/2kIs76sEGiulKeqetZq6ua) | [Cramer](https://open.spotify.com/album/1fGUAVyGF7LAWodzoiDMVT) | 3:29 |
+| 40 | [Sans toi](https://open.spotify.com/track/1mk9y8glt1zXx5qoHzxYvx) | [Jeck](https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf) | [Sans toi](https://open.spotify.com/album/7kesRjVwWHo3ih2CkqT9Kf) | 3:01 |
+| 41 | [Clique](https://open.spotify.com/track/6cETsyHk3Mxa6dNSnbb1wS) | [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [Clique](https://open.spotify.com/album/6LJHbcWUOlb5b4R0v8qclN) | 3:01 |
+| 42 | [C24](https://open.spotify.com/track/7AYCzql1OFj2n3OlFJOruy) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [C24](https://open.spotify.com/album/1s0SSXuZNyeCPu4XgqQov3) | 4:05 |
 | 43 | [Dis\-toi que c'est la vie](https://open.spotify.com/track/0qbNi3Dw48Y1lazonm0WEL) | [Keen' V](https://open.spotify.com/artist/5iZMWWLoDJH1u6Ru2rOEsd) | [Dis\-toi que c'est la vie](https://open.spotify.com/album/01Lw2cjSOrE7omo5ttneqJ) | 2:27 |
 | 44 | [blue \(yes, i love you\)](https://open.spotify.com/track/7znfQHTZ1tut2V17waMNTl) | [YellowStraps](https://open.spotify.com/artist/772hWD0N94gYjnVhrqE7lx), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [blue \(yes, i love you\)](https://open.spotify.com/album/17xBNG2Bgr4VVGlVIXH8NV) | 1:42 |
-| 45 | [PLAGE ENNEIGEE](https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [EMC](https://open.spotify.com/album/6BF3lSyJtGjnKeUqqYMjdG) | 3:00 |
-| 46 | [ADN](https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [ADN](https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl) | 3:06 |
-| 47 | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv) | 2:51 |
-| 48 | [Danger](https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh) | [Rimkus](https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Fracturé](https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw) | 3:58 |
+| 45 | [Danger](https://open.spotify.com/track/1q5sxBrlmNh7GqkniehNLh) | [Rimkus](https://open.spotify.com/artist/4S19VrKiaA2usxsnqr5kA8), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Fracturé](https://open.spotify.com/album/1jU9sWL9lFP09SE1BbL5Pw) | 3:58 |
+| 46 | [PLAGE ENNEIGEE](https://open.spotify.com/track/5eaS2PEdjSDGK1MfvRDUe4) | [WarEnd](https://open.spotify.com/artist/0kf4yD8VtffGwtLpbienGR), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [EMC](https://open.spotify.com/album/6BF3lSyJtGjnKeUqqYMjdG) | 3:00 |
+| 47 | [ADN](https://open.spotify.com/track/2yXslghJqUpeozgmWG2xrH) | [Fresh La Douille](https://open.spotify.com/artist/1ssrFpfMmM0vRx85eO2XKL) | [ADN](https://open.spotify.com/album/688EeoY7hIVLEHM86OaMXl) | 3:06 |
+| 48 | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/track/3gktsOcb7tDf4th88k8kZd) | [Hatik](https://open.spotify.com/artist/05hirnMeVIzCrcUxbrysZU), [Zokush](https://open.spotify.com/artist/61O1t9W4rYDRcGF9DJUTJw) | [LE FOND \(feat\. Zokush\)](https://open.spotify.com/album/3R6HVhMY57HehOkLVk6mYv) | 2:51 |
 | 49 | [Le Rang des Étoiles](https://open.spotify.com/track/0UoklKqjOkt8q0lqB0ACZd) | [Biga\*Ranx](https://open.spotify.com/artist/5rgdw8NVhnxWL8Poo6HsiX) | [Le Rang des Étoiles](https://open.spotify.com/album/3iQda7g4gHv1ynJHXrHFph) | 1:51 |
 | 50 | [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 |
 

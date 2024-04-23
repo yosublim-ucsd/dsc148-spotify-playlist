@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA)",
-  "num_followers": 24474,
+  "num_followers": 24501,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -651,26 +651,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Somehow",
-        "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Pure 100%",
-          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "Somehow",
-      "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.24 : Perfume Remixes",
         "url": "https://open.spotify.com/album/3skTjLZNSAmGdEMY1qSRhc"
       },
@@ -691,6 +671,26 @@
       "duration_ms": 191813,
       "name": "Perfume - Bronze & Jason Lee Remix",
       "url": "https://open.spotify.com/track/1RfFpaNcAFFZRUOc6awgMG"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "Somehow",
+        "url": "https://open.spotify.com/album/7LCMzOqyH92BzrmhIxWldO"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Pure 100%",
+          "url": "https://open.spotify.com/artist/1j6Xsh5L64ZW29gJ7CIhsP"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/5jTBnpgBWqg6lrcJYCgqQR"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -987,6 +987,30 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
+        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
+        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
+      },
+      "artists": [
+        {
+          "name": "SHINee",
+          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+        },
+        {
+          "name": "Fox Stevenso",
+          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
+        },
+        {
+          "name": "Fox Stevenson",
+          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "Don't Call Me - Fox Stevenson Remix",
+      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
         "name": "Lift Me Up",
         "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
       },
@@ -1015,26 +1039,6 @@
       "duration_ms": 201931,
       "name": "Power - R3HAB Remix",
       "url": "https://open.spotify.com/track/6Xyq0b0CnpANv9XfsCohn4"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "Down Low",
-        "url": "https://open.spotify.com/album/2vrXkjvERniroEr8z178xX"
-      },
-      "artists": [
-        {
-          "name": "Fahjah",
-          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
-        },
-        {
-          "name": "Oing",
-          "url": "https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB"
-        }
-      ],
-      "duration_ms": 136413,
-      "name": "Down Low",
-      "url": "https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1079,26 +1083,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.7 : Don't Call Me Remixes",
-        "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
+        "name": "Down Low",
+        "url": "https://open.spotify.com/album/2vrXkjvERniroEr8z178xX"
       },
       "artists": [
         {
-          "name": "SHINee",
-          "url": "https://open.spotify.com/artist/2hRQKC0gqlZGPrmUKbcchR"
+          "name": "Fahjah",
+          "url": "https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id"
         },
         {
-          "name": "Fox Stevenso",
-          "url": "https://open.spotify.com/artist/3msitL77yg0GifOf5jvd23"
-        },
-        {
-          "name": "Fox Stevenson",
-          "url": "https://open.spotify.com/artist/2BQWHuvxG4kMYnfghdaCIy"
+          "name": "Oing",
+          "url": "https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB"
         }
       ],
-      "duration_ms": 203720,
-      "name": "Don't Call Me - Fox Stevenson Remix",
-      "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
+      "duration_ms": 136413,
+      "name": "Down Low",
+      "url": "https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1123,22 +1123,18 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.5 : Criminal Remixes",
-        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+        "name": "Summer Breeze",
+        "url": "https://open.spotify.com/album/5J26Mlv1iXr4SugLzGXEtc"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        },
-        {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+          "name": "NINA",
+          "url": "https://open.spotify.com/artist/2P9ftPzTkpvJv2ws2XWHQS"
         }
       ],
-      "duration_ms": 224433,
-      "name": "Criminal - Minit Remix",
-      "url": "https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q"
+      "duration_ms": 176008,
+      "name": "Summer Breeze",
+      "url": "https://open.spotify.com/track/4VCL2FCNn84FYaRXCVSeIa"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1163,18 +1159,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Summer Breeze",
-        "url": "https://open.spotify.com/album/5J26Mlv1iXr4SugLzGXEtc"
+        "name": "iScreaM Vol.5 : Criminal Remixes",
+        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
       },
       "artists": [
         {
-          "name": "NINA",
-          "url": "https://open.spotify.com/artist/2P9ftPzTkpvJv2ws2XWHQS"
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
         }
       ],
-      "duration_ms": 176008,
-      "name": "Summer Breeze",
-      "url": "https://open.spotify.com/track/4VCL2FCNn84FYaRXCVSeIa"
+      "duration_ms": 224433,
+      "name": "Criminal - Minit Remix",
+      "url": "https://open.spotify.com/track/2qLJiG8h6kFV6xDNGaZh1q"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Off Ways",
-        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Chill Satellite",
-          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "Off Ways",
-      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.1 : Kick It Remixes",
         "url": "https://open.spotify.com/album/19kdYfU8fFSKwXd5EZwNr5"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 190160,
       "name": "Kick It - Hitchhiker Remix",
       "url": "https://open.spotify.com/track/1byqSrJw0DWBX6QVB7zyGo"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "Off Ways",
+        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "Off Ways",
+      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1339,6 +1339,26 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
+        "name": "iScreaM Vol.5 : Criminal Remixes",
+        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        },
+        {
+          "name": "SUMIN",
+          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+        }
+      ],
+      "duration_ms": 211506,
+      "name": "Criminal - SUMIN Remix",
+      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
         "name": "iScreaM Vol.27 : Baggy Jeans Remixes",
         "url": "https://open.spotify.com/album/6oncudboyLFXr07WQrl3pv"
       },
@@ -1359,22 +1379,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.5 : Criminal Remixes",
-        "url": "https://open.spotify.com/album/3ZdefvLMcVj6L2dI08dHyq"
+        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
+        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
       },
       "artists": [
         {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
         },
         {
-          "name": "SUMIN",
-          "url": "https://open.spotify.com/artist/0K4MGKGmjtdIE0W3GkGmyU"
+          "name": "LOOZBONE",
+          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
         }
       ],
-      "duration_ms": 211506,
-      "name": "Criminal - SUMIN Remix",
-      "url": "https://open.spotify.com/track/3Rk6ywWGOhw1uonKye1qoW"
+      "duration_ms": 274761,
+      "name": "28 Reasons - LOOZBONE Remix",
+      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1399,26 +1419,6 @@
       "duration_ms": 158769,
       "name": "Bring Me On",
       "url": "https://open.spotify.com/track/5RZVt5SZKOy6xA5ZJ9Nvzc"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "iScreaM Vol.22 : 28 Reasons / Los Angeles Remixes",
-        "url": "https://open.spotify.com/album/4M4lI5rDAV2xPZrQ0u13Pb"
-      },
-      "artists": [
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        },
-        {
-          "name": "LOOZBONE",
-          "url": "https://open.spotify.com/artist/41mgVbCJxhUtr9o9EpRchx"
-        }
-      ],
-      "duration_ms": 274761,
-      "name": "28 Reasons - LOOZBONE Remix",
-      "url": "https://open.spotify.com/track/0ZvnV7cwRGF9SSSzgiS8XS"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
+        "name": "Secret Stories Heard From A Girl In An Opium Den",
+        "url": "https://open.spotify.com/album/6cMbVQAZP8gF1pW4f6iy8N"
+      },
+      "artists": [
+        {
+          "name": "Byul.org",
+          "url": "https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP"
+        }
+      ],
+      "duration_ms": 327804,
+      "name": "2",
+      "url": "https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
         "name": "Closer To The End (with Bemo Rouge)",
         "url": "https://open.spotify.com/album/1YHIIG6j2r81coRe1SS99e"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 171000,
       "name": "Closer To The End (with Bemo Rouge)",
       "url": "https://open.spotify.com/track/6Covx7dIBduWl1I8c6fWHk"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "Secret Stories Heard From A Girl In An Opium Den",
-        "url": "https://open.spotify.com/album/6cMbVQAZP8gF1pW4f6iy8N"
-      },
-      "artists": [
-        {
-          "name": "Byul.org",
-          "url": "https://open.spotify.com/artist/51mq386PWBqyWooRdxxlxP"
-        }
-      ],
-      "duration_ms": 327804,
-      "name": "2",
-      "url": "https://open.spotify.com/track/30jDj2ksJLMvpcPS3X6WLm"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1543,26 +1543,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
-        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
-      },
-      "artists": [
-        {
-          "name": "NCT U",
-          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
-        },
-        {
-          "name": "SQUAR",
-          "url": "https://open.spotify.com/artist/7waoIMNJ8yFpEKiHHWG7EY"
-        }
-      ],
-      "duration_ms": 161454,
-      "name": "90's Love - SQUAR Remix",
-      "url": "https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "Monika",
         "url": "https://open.spotify.com/album/5Mv4DGuPIBSBg2V3wLOPKA"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 182267,
       "name": "MOM (feat. So!YoON!)",
       "url": "https://open.spotify.com/track/7kjrjlPMRQCNF93rv2Lz81"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "iScreaM Vol.6 : Make A Wish / 90's Love Remix",
+        "url": "https://open.spotify.com/album/4ezneQvVRoSSNnQ6RbxwDd"
+      },
+      "artists": [
+        {
+          "name": "NCT U",
+          "url": "https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ"
+        },
+        {
+          "name": "SQUAR",
+          "url": "https://open.spotify.com/artist/7waoIMNJ8yFpEKiHHWG7EY"
+        }
+      ],
+      "duration_ms": 161454,
+      "name": "90's Love - SQUAR Remix",
+      "url": "https://open.spotify.com/track/21uB15SdGJR4NYprvjInYw"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1671,6 +1671,26 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
+        "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
+        "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
+      },
+      "artists": [
+        {
+          "name": "Girls' Generation",
+          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
+        },
+        {
+          "name": "Mar Vista",
+          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
+        }
+      ],
+      "duration_ms": 197418,
+      "name": "FOREVER 1 - Mar Vista Remix",
+      "url": "https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
         "name": "Between",
         "url": "https://open.spotify.com/album/0edYbq4vhwXXIYGu5dW8U9"
       },
@@ -1691,26 +1711,6 @@
       "duration_ms": 162000,
       "name": "Between",
       "url": "https://open.spotify.com/track/1pNxr8E0bfkzBPcefgeXXI"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "iScreaM Vol.19 : FOREVER 1 Remixes",
-        "url": "https://open.spotify.com/album/4DXE5rt8VQUZHmKIG57AYu"
-      },
-      "artists": [
-        {
-          "name": "Girls' Generation",
-          "url": "https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c"
-        },
-        {
-          "name": "Mar Vista",
-          "url": "https://open.spotify.com/artist/52jyvbzmj80qTr2NEWhczo"
-        }
-      ],
-      "duration_ms": 197418,
-      "name": "FOREVER 1 - Mar Vista Remix",
-      "url": "https://open.spotify.com/track/34Y5PQPsFdjTGspPKIFSom"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1803,6 +1803,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+      },
+      "artists": [
+        {
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+        }
+      ],
+      "duration_ms": 300000,
+      "name": "Power - Dash Berlin Remix",
+      "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
         "name": "SCREAM",
         "url": "https://open.spotify.com/album/5CPafj4qfe1TYV5M8mS2AX"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 274838,
       "name": "FOREVER 1 - Aiobahn Remix",
       "url": "https://open.spotify.com/track/3zFK1dwL2qkrdkbPJkBHWm"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
-      },
-      "artists": [
-        {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
-        }
-      ],
-      "duration_ms": 300000,
-      "name": "Power - Dash Berlin Remix",
-      "url": "https://open.spotify.com/track/2ddwXrg3E3IZcXeUImlv7F"
     },
     {
       "added_at": "2024-04-18 05:50:31",

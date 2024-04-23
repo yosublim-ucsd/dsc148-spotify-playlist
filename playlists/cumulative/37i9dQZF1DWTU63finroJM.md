@@ -4,7 +4,7 @@
 
 > Meet the future\. New artists on the horizon\. Cover: Shego.
 
-1,354 songs - 3 day 2 hr 40 min
+1,355 songs - 3 day 2 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -844,6 +844,7 @@
 | [Pehli Baarish](https://open.spotify.com/track/7pHUAAEiXQMaZOng72W6K0) | [Akanksha Bhandari](https://open.spotify.com/artist/2U5K35Kwj0LqkfG3ENnnSL) | [Pehli Baarish](https://open.spotify.com/album/0CcpdlcrxUp8fbspTcqJww) | 2:37 | 2022-09-08 | 2023-05-23 |
 | [Pelangi](https://open.spotify.com/track/0ChdsMA1hWkE2I8pd3cpmd) | [Christie](https://open.spotify.com/artist/0ua3HlZNc0psrEhsqAynnr) | [Pelangi](https://open.spotify.com/album/586n7LNVNnZlcBQjZrdOwN) | 4:16 | 2022-02-03 | 2022-04-21 |
 | [Pelejei](https://open.spotify.com/track/4mFyni5z0DnQLvXvaA8yWm) | [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [De Primeira](https://open.spotify.com/album/6bN5oG5wKJJqO0j7OhXVNt) | 3:16 | 2022-04-07 | 2022-12-15 |
+| [People 365](https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 4:36 | 2024-04-19 |  |
 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-06 | 2023-05-31 |
 | [Per sentirsi meno soli](https://open.spotify.com/track/23C3f0TckAwl0PFWXqDDKz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [FIAT131](https://open.spotify.com/artist/517LowCOyXMoAyEYVK3nuA), [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Per sentirsi meno soli](https://open.spotify.com/album/3wy8IYXn4kEco6DoCn0imf) | 2:10 | 2023-04-12 | 2023-10-21 |
 | [Pernah Salah](https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Pernah Salah](https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB) | 4:18 | 2022-02-03 | 2022-03-16 |
@@ -1159,7 +1160,7 @@
 | [What?](https://open.spotify.com/track/1evZendZnEe8a8eXjd1Bcn) | [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Pagsibol](https://open.spotify.com/album/4bieHSYaRSMRAoDF47qfSf) | 4:30 | 2022-02-03 | 2022-03-17 |
 | [When It's Over](https://open.spotify.com/track/2EcsBI9PipH9K8cikqZixI) | [evi](https://open.spotify.com/artist/4ghErCwnofIBeuzwJSCgpH) | [When It's Over](https://open.spotify.com/album/2irzSmx5N2QvP3YLJXkRHD) | 3:04 | 2024-03-22 | 2024-04-06 |
 | [When We Feel Young](https://open.spotify.com/track/5GJPqaqlCSN19ReZ3Hmue4) | [When Chai Met Toast](https://open.spotify.com/artist/04hYGGSjYtLekuuJXEGrIl) | [When We Feel Young](https://open.spotify.com/album/3rvRY86fVViOvc7ry7IZWq) | 4:26 | 2022-02-03 | 2022-03-18 |
-| [When You Call](https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [When You Call](https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz) | 3:05 | 2024-03-29 |  |
+| [When You Call](https://open.spotify.com/track/5Xhj8tYxc1LjfSSMw1jNvd) | [Diana Goldberg](https://open.spotify.com/artist/0FSc1VcYTT0NQ5u9f5Hmpk) | [When You Call](https://open.spotify.com/album/4fsTGQy7aqZI8xGM1eEYnz) | 3:05 | 2024-03-29 | 2024-04-23 |
 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-10-13 | 2024-04-19 |
 | [Who Do I Call?](https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Who Do I Call?](https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n) | 1:54 | 2022-03-24 | 2022-08-02 |
 | [Whos That B!Tch?](https://open.spotify.com/track/1zGuXTNJXJYkC8AJqiQUAK) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu) | [Whos That B!Tch?](https://open.spotify.com/album/73YJ3dUZY8a1RQy4KB2dQc) | 2:33 | 2023-09-01 | 2023-12-02 |

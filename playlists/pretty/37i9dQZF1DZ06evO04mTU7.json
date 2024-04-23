@@ -1,12 +1,12 @@
 {
   "description": "This is Ajuliacosta. The essential tracks, all in one playlist.",
-  "num_followers": 2598,
+  "num_followers": 2621,
   "original_name": "This Is Ajuliacosta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGZjNTAzYjQ2ZWNkOTVhODI4NTc1NzU2OGVkNjlkMTAx",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDY0Y2VkNTBlMjI4ZjM0NzhkNDFiYTIxOGMyYzI3YmEy",
   "tracks": [
     {
       "added_at": null,
@@ -39,30 +39,6 @@
       "duration_ms": 265234,
       "name": "Set Ajc 2",
       "url": "https://open.spotify.com/track/2QidZpzobGL0Mhmq25oKdK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "3AM (PXT4 RASA) [Remix]",
-        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
-      },
-      "artists": [
-        {
-          "name": "Sotam",
-          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Matheus Muniz",
-          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
-        }
-      ],
-      "duration_ms": 122192,
-      "name": "3AM (PXT4 RASA) - Remix",
-      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
     },
     {
       "added_at": null,
@@ -115,6 +91,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "3AM (PXT4 RASA) [Remix]",
+        "url": "https://open.spotify.com/album/1acHuLX2pd5QNZ46ZvHD8r"
+      },
+      "artists": [
+        {
+          "name": "Sotam",
+          "url": "https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Matheus Muniz",
+          "url": "https://open.spotify.com/artist/3ZfuJqd34fmfkTMpqDW2iI"
+        }
+      ],
+      "duration_ms": 122192,
+      "name": "3AM (PXT4 RASA) - Remix",
+      "url": "https://open.spotify.com/track/0niFRLaq6SNmy6PThNORj0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "AJU",
         "url": "https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO"
       },
@@ -131,6 +131,34 @@
       "duration_ms": 190722,
       "name": "Homens Como Voc\u00ea",
       "url": "https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Pe\u00e7a Final",
+        "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Ajuliacosta",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "N\u00e3o Discuto por Telefone",
+      "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
     },
     {
       "added_at": null,
@@ -175,34 +203,6 @@
       "duration_ms": 160000,
       "name": "Queen Chavosa",
       "url": "https://open.spotify.com/track/1qDfZrxU4JFbJpb6u4ojCQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Pe\u00e7a Final",
-        "url": "https://open.spotify.com/album/7wOg102RsIsFYkYSRI1STQ"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Ajuliacosta",
-          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "N\u00e3o Discuto por Telefone",
-      "url": "https://open.spotify.com/track/6YlkAranM7m3PK9msFWi1t"
     },
     {
       "added_at": null,

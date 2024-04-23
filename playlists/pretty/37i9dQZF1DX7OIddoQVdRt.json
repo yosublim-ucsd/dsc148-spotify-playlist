@@ -1,6 +1,6 @@
 {
   "description": "Experience the powerful messages and sounds of the current hits and classic Gospel songs.  Cover: <a href=\"spotify:artist:5YxebzzreNswbtYC1td4cx\">Tasha Cobbs Leonard</a>",
-  "num_followers": 623396,
+  "num_followers": 622735,
   "original_name": "Spread the Gospel",
   "owner": {
     "name": "Spotify",
@@ -147,6 +147,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Imprint (Live in Memphis)",
+        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
+      },
+      "artists": [
+        {
+          "name": "Zacardi Cortez",
+          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
+        }
+      ],
+      "duration_ms": 354161,
+      "name": "Lord Do It For Me - Live",
+      "url": "https://open.spotify.com/track/17WnVLXVM5qUT1z0YZN0Yw"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Best Days",
         "url": "https://open.spotify.com/album/16Ljgzu7nBDSjTXJkCgBaJ"
       },
@@ -163,22 +179,6 @@
       "duration_ms": 287573,
       "name": "Take Me to the King (feat. Kirk Franklin)",
       "url": "https://open.spotify.com/track/6fG46PUotZMTgcAzAtFLOk"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Imprint (Live in Memphis)",
-        "url": "https://open.spotify.com/album/1gxIWgMZNfeilz6V1iFWCb"
-      },
-      "artists": [
-        {
-          "name": "Zacardi Cortez",
-          "url": "https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp"
-        }
-      ],
-      "duration_ms": 354161,
-      "name": "Lord Do It For Me - Live",
-      "url": "https://open.spotify.com/track/17WnVLXVM5qUT1z0YZN0Yw"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "All Things",
-        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "All Things",
-      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "Live: One Last Time",
         "url": "https://open.spotify.com/album/4q02ycz7FsngzsYDtjaIMc"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 319480,
       "name": "Blessed & Highly Favored - Live",
       "url": "https://open.spotify.com/track/2BiCH1atqXX1OXOtL0PKHS"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "All Things",
+        "url": "https://open.spotify.com/album/30hJTxaNjKsXkvyhSs8rL9"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "All Things",
+      "url": "https://open.spotify.com/track/3TF6zST4pvaoaUwekLUZEx"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Avery*sunshine Album",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 282826,
+      "name": "Blessin Me",
+      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Father's Day",
         "url": "https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 374780,
       "name": "Again",
       "url": "https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Avery*sunshine Album",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 282826,
-      "name": "Blessin Me",
-      "url": "https://open.spotify.com/track/075OkOIwlKjkMJxkfB36pt"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
+      },
+      "artists": [
+        {
+          "name": "Kelontae Gavin",
+          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+        }
+      ],
+      "duration_ms": 254069,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
         "name": "Come Together (feat. Tim Bowman Jr., Joy Enriquez, Kirk Franklin, Kelontae Gavin, Fred Hammond, Heavenly Joy, Le'Andria Johnson, Lecrae, Mary Mary, Jac Ross, Marvin Sapp, Karen Clark Sheard, Kierra Sheard & Shelby 5)",
         "url": "https://open.spotify.com/album/6xV8VECyJrKC7MdlXgI74e"
       },
@@ -1223,18 +1239,18 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Live Again",
-        "url": "https://open.spotify.com/album/2fHKbSmk7aPjN7c9VKN4IH"
+        "name": "Love & Other Dreams",
+        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
       },
       "artists": [
         {
-          "name": "Kelontae Gavin",
-          "url": "https://open.spotify.com/artist/1G73Usb8ZrWsOSxOmufR3D"
+          "name": "Royce Lovett",
+          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
         }
       ],
-      "duration_ms": 254069,
-      "name": "Live Again",
-      "url": "https://open.spotify.com/track/0zOkDAntJ2JAX5B4fu6CIW"
+      "duration_ms": 290213,
+      "name": "Sunday Morning (Thinkin \u2018Bout You)",
+      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1255,22 +1271,6 @@
       "duration_ms": 313448,
       "name": "Tap Into It (The Source)",
       "url": "https://open.spotify.com/track/0dA1pR5MkV82HiFFAZAsZ2"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
-        "name": "Love & Other Dreams",
-        "url": "https://open.spotify.com/album/2xyLc5f4AmYBziV3EG8S75"
-      },
-      "artists": [
-        {
-          "name": "Royce Lovett",
-          "url": "https://open.spotify.com/artist/4BKyFlbGn3XvEAXQi3QR9N"
-        }
-      ],
-      "duration_ms": 290213,
-      "name": "Sunday Morning (Thinkin \u2018Bout You)",
-      "url": "https://open.spotify.com/track/6MSy5Ecfb8mI5lwE3h1Pwh"
     },
     {
       "added_at": "2024-02-02 06:37:59",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-02-02 06:37:59",
       "album": {
-        "name": "Back To Life",
-        "url": "https://open.spotify.com/album/0elzbB6iZvy5pY00RWGz8E"
-      },
-      "artists": [
-        {
-          "name": "Deitrick Haddon & Voices of Unity",
-          "url": "https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I"
-        }
-      ],
-      "duration_ms": 294000,
-      "name": "Back To Life",
-      "url": "https://open.spotify.com/track/3PLh6BC6aaX0E7PALvt0EE"
-    },
-    {
-      "added_at": "2024-02-02 06:37:59",
-      "album": {
         "name": "He Can Handle It (Live)",
         "url": "https://open.spotify.com/album/7GNErp8ltR2S4yb7I0fmvp"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 249022,
       "name": "He Can Handle It (Radio Edit) - Live",
       "url": "https://open.spotify.com/track/68tLwIOp5nOnrHWmVzyr5C"
+    },
+    {
+      "added_at": "2024-02-02 06:37:59",
+      "album": {
+        "name": "Back To Life",
+        "url": "https://open.spotify.com/album/0elzbB6iZvy5pY00RWGz8E"
+      },
+      "artists": [
+        {
+          "name": "Deitrick Haddon & Voices of Unity",
+          "url": "https://open.spotify.com/artist/5zZlKIiS2kimwWToti9k5I"
+        }
+      ],
+      "duration_ms": 294000,
+      "name": "Back To Life",
+      "url": "https://open.spotify.com/track/3PLh6BC6aaX0E7PALvt0EE"
     },
     {
       "added_at": "2024-02-02 06:37:59",

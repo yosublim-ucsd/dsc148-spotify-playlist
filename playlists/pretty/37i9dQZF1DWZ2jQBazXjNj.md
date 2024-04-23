@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 
 > Corridos aesthetic y rolitas pa' las buchifresas 🍓🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,030 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,128 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 23 | [No Quiero Perderte](https://open.spotify.com/track/00bc7aBgwI1wD3zEwrcH4h) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH) | [No Quiero Perderte](https://open.spotify.com/album/6N1YHlNxKfAyB2llfHDYIH) | 2:39 |
 | 24 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
 | 25 | [Mientes Tan Bien](https://open.spotify.com/track/0Wnq2QHjYWkj70SC1B3cCJ) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Consejos Gratis](https://open.spotify.com/album/10e10cYupx3U37Efv5691A) | 3:52 |
-| 26 | [Berlin](https://open.spotify.com/track/691TDibKzalozEkDXfKywX) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Berlin](https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s) | 3:44 |
-| 27 | [Todo Porque Te Amo](https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Todo Porque Te Amo](https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC) | 3:24 |
+| 26 | [Todo Porque Te Amo](https://open.spotify.com/track/6xEUelbWEG0tntBKr3qjK3) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp) | [Todo Porque Te Amo](https://open.spotify.com/album/6hpCzNbJXGyzW22aPVTQoC) | 3:24 |
+| 27 | [Berlin](https://open.spotify.com/track/691TDibKzalozEkDXfKywX) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR) | [Berlin](https://open.spotify.com/album/4apTA2hXeKNAeDIzrHEU6s) | 3:44 |
 | 28 | [Eres Mi Crush](https://open.spotify.com/track/6ICVAdLNgkyd0k30kVDkFi) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Eres Mi Crush](https://open.spotify.com/album/0sK2BZyFjskAQMP7TYBKOp) | 2:41 |
 | 29 | [Rosas](https://open.spotify.com/track/3uFzo9GFVS3Yw4KIVdsYHN) | [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Rosas](https://open.spotify.com/album/6sDgZzqJBy8r5TWPPVjL1E) | 4:33 |
 | 30 | [Quédate Conmigo](https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:13 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ2jQBazXjNj.md) - [plain]
 | 63 | [Ocean \(Versión Norteño\)](https://open.spotify.com/track/1pvk9aZ2aZvfVumOUZu4zc) | [Grupo La Reta](https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi) | [Ocean \(Versión Norteño\)](https://open.spotify.com/album/5C5lBJSmjLAF87w9yXW6px) | 3:07 |
 | 64 | [Cupido](https://open.spotify.com/track/6ed7qZf6Z4HNSEU5vuF75W) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Cupido](https://open.spotify.com/album/4jvCAFWDZlrQx8RFNMamCU) | 3:27 |
 | 65 | [Cómo Te Extraño Mi Amor \- Cover](https://open.spotify.com/track/33BVSng7vUV8EYhKetJkbe) | [Tony García](https://open.spotify.com/artist/1NxRZcV0D66HCRfWrjjLja) | [Las Más Pedidas \(Cover\)](https://open.spotify.com/album/3s0zPWQXnBr6hjCwnTw0SK) | 3:30 |
-| 66 | [La Fresa](https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4) | 2:54 |
-| 67 | [Causa Y Efecto](https://open.spotify.com/track/4Jf3GPjLyNPBeqUUIII2FT) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Causa Y Efecto](https://open.spotify.com/album/4SkZE8K2fVqkccMG2SjGWZ) | 3:33 |
+| 66 | [Causa Y Efecto](https://open.spotify.com/track/4Jf3GPjLyNPBeqUUIII2FT) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD) | [Causa Y Efecto](https://open.spotify.com/album/4SkZE8K2fVqkccMG2SjGWZ) | 3:33 |
+| 67 | [La Fresa](https://open.spotify.com/track/1PexKCGqX41T01rtTH08YN) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [La Fresa](https://open.spotify.com/album/1TW0GzpdhiBK6dZxI4yGV4) | 2:54 |
 | 68 | [Rosa Pastel](https://open.spotify.com/track/1WMK7SsidKdhRvApju1jAI) | [Karla Orellana](https://open.spotify.com/artist/3pi4RbA9ReDJ7uTCTRF3dx) | [Rosa Pastel](https://open.spotify.com/album/1Pw82F3xWXBW3iswNWW3dv) | 2:43 |
 | 69 | [Devoto \(Versión Norteño\)](https://open.spotify.com/track/1VoJ4l65xZBcMfXSP2SM40) | [Grupo La Reta](https://open.spotify.com/artist/7tLva7S0wR560BjLDuERQi) | [Devoto \(Versión Norteño\)](https://open.spotify.com/album/4NGMeKWkIrhNJ6sVJ0JDiz) | 3:44 |
 | 70 | [Hoy Ya Me Voy](https://open.spotify.com/track/3qfu5T36coRkrb6NMXJlUi) | [Juan Freer](https://open.spotify.com/artist/0a9vSkyCTnB36E2iZbRVtl) | [Hoy Ya Me Voy](https://open.spotify.com/album/5TDCkH3pVn14InTdgeAHAE) | 3:32 |

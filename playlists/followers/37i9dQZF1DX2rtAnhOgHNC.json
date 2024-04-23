@@ -1,5 +1,5 @@
 {
-  "2024-04-22": 234052,
+  "2024-04-23": 234012,
   "date_first_scraped": "2023-12-19",
   "description": "Los grandes \u00e9xitos de la d\u00e9cada pasada, en M\u00e9xico.",
   "name": "Los 2010 M\u00e9xico",
@@ -663,7 +663,7 @@
       ],
       "date_added": "2021-06-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-22",
       "duration_ms": 217653,
       "name": "No Me Acuerdo",
       "url": "https://open.spotify.com/track/1G586ld1gbaECg4Bc6w40O"
@@ -1017,6 +1017,24 @@
       "duration_ms": 278546,
       "name": "Tu Falta De Querer",
       "url": "https://open.spotify.com/track/4skuEIloXWuxxgekKupkEH"
+    },
+    {
+      "album": {
+        "name": "Imperfecto Extra\u00f1o",
+        "url": "https://open.spotify.com/album/1xWHQFcS9qDf0cXX6NXcPK"
+      },
+      "artists": [
+        {
+          "name": "Enjambre",
+          "url": "https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR"
+        }
+      ],
+      "date_added": "2021-06-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265386,
+      "name": "Vida En El Espejo",
+      "url": "https://open.spotify.com/track/2yThUakfNYwaToGaKJxKEK"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 811050,
+  "num_followers": 811373,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "That Lonesome Song",
-        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
-      },
-      "artists": [
-        {
-          "name": "Jamey Johnson",
-          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
-        }
-      ],
-      "duration_ms": 290680,
-      "name": "In Color",
-      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Lonely Grill",
         "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 240866,
       "name": "Amazed",
       "url": "https://open.spotify.com/track/6qc34bnVOyqGDPni8H5W0U"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "That Lonesome Song",
+        "url": "https://open.spotify.com/album/3mb6QMOelljOicaqCo4F6i"
+      },
+      "artists": [
+        {
+          "name": "Jamey Johnson",
+          "url": "https://open.spotify.com/artist/5yhxqYI0JBwUKfXpSEjiM8"
+        }
+      ],
+      "duration_ms": 290680,
+      "name": "In Color",
+      "url": "https://open.spotify.com/track/7CNd7rjfVt74TFlcOcnZgN"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -583,18 +583,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+        "name": "Blake Shelton",
+        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 235266,
-      "name": "Love Story",
-      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+      "duration_ms": 221266,
+      "name": "Ol' Red",
+      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Blake Shelton",
-        "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
-      },
-      "artists": [
-        {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
-        }
-      ],
-      "duration_ms": 221266,
-      "name": "Ol' Red",
-      "url": "https://open.spotify.com/track/5wane5dFpp8xgriui6y0c7"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "If You're Going Through Hell",
         "url": "https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ"
       },
@@ -647,22 +631,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
-      },
-      "artists": [
-        {
-          "name": "The Chicks",
-          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
-        }
-      ],
-      "duration_ms": 230549,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Red Dirt Road",
         "url": "https://open.spotify.com/album/3fVrL1hr7JAWTeFYW0akdf"
       },
@@ -675,6 +643,22 @@
       "duration_ms": 260360,
       "name": "Red Dirt Road",
       "url": "https://open.spotify.com/track/3EZzghqykkfOB0Z8d0kTSt"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/1zgQkZFMRqx1Lz9GVXghLt"
+      },
+      "artists": [
+        {
+          "name": "The Chicks",
+          "url": "https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57"
+        }
+      ],
+      "duration_ms": 230549,
+      "name": "Landslide",
+      "url": "https://open.spotify.com/track/5hviCr3lgg6LY6noG6DPKs"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -731,54 +715,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 231133,
-      "name": "You Belong With Me",
-      "url": "https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
-      },
-      "artists": [
-        {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "Doin' Somethin' Right",
-        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
-      },
-      "artists": [
-        {
-          "name": "Billy Currington",
-          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
-        }
-      ],
-      "duration_ms": 269586,
-      "name": "Must Be Doin' Somethin' Right",
-      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Restless",
         "url": "https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik"
       },
@@ -791,6 +727,22 @@
       "duration_ms": 227266,
       "name": "Suds in the Bucket",
       "url": "https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 231133,
+      "name": "You Belong With Me",
+      "url": "https://open.spotify.com/track/3GCL1PydwsLodcpv0Ll1ch"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -811,50 +763,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Pull My Chain",
-        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+        "name": "Doin' Somethin' Right",
+        "url": "https://open.spotify.com/album/01XmoBPJ8VwC6IyOEvGhy5"
       },
       "artists": [
         {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+          "name": "Billy Currington",
+          "url": "https://open.spotify.com/artist/1By9QBFnjZAoI83BZppHlt"
         }
       ],
-      "duration_ms": 183960,
-      "name": "I Wanna Talk About Me",
-      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
-        "name": "Carnival Ride",
-        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
-      },
-      "artists": [
-        {
-          "name": "Carrie Underwood",
-          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
-        }
-      ],
-      "duration_ms": 212173,
-      "name": "All-American Girl",
-      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
+      "duration_ms": 269586,
+      "name": "Must Be Doin' Somethin' Right",
+      "url": "https://open.spotify.com/track/6TefPQD0oc88BNALpu4U87"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -871,6 +791,70 @@
       "duration_ms": 248066,
       "name": "She Thinks My Tractor's Sexy",
       "url": "https://open.spotify.com/track/3QV7NYkrmV0Q0IHdFJw9hO"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Pull My Chain",
+        "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 183960,
+      "name": "I Wanna Talk About Me",
+      "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2dqn5yOQWdyGwOpOIi9O4x"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 235266,
+      "name": "Love Story",
+      "url": "https://open.spotify.com/track/1vrd6UOGamcKNGnSHJQlSt"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Carnival Ride",
+        "url": "https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX"
+      },
+      "artists": [
+        {
+          "name": "Carrie Underwood",
+          "url": "https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj"
+        }
+      ],
+      "duration_ms": 212173,
+      "name": "All-American Girl",
+      "url": "https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -907,6 +891,22 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
+        "name": "Time Well Wasted",
+        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
+      },
+      "artists": [
+        {
+          "name": "Brad Paisley",
+          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
+        }
+      ],
+      "duration_ms": 266920,
+      "name": "She's Everything",
+      "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
         "name": "Here For The Party",
         "url": "https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap"
       },
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Time Well Wasted",
-        "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
-      },
-      "artists": [
-        {
-          "name": "Brad Paisley",
-          "url": "https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4"
-        }
-      ],
-      "duration_ms": 266920,
-      "name": "She's Everything",
-      "url": "https://open.spotify.com/track/3dAgQFdruU8ufWc5GE05xC"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Blake Shelton",
         "url": "https://open.spotify.com/album/4BRHk20nhD24APuvO9PvC8"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 213653,
       "name": "These Are My People",
       "url": "https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1035,18 +1035,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "See If I Care",
-        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
+        "name": "Blake Shelton's Barn & Grill",
+        "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
       },
       "artists": [
         {
-          "name": "Gary Allan",
-          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
+          "name": "Blake Shelton",
+          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
         }
       ],
-      "duration_ms": 212026,
-      "name": "Nothing On But The Radio",
-      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
+      "duration_ms": 204826,
+      "name": "Some Beach",
+      "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1067,18 +1067,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Blake Shelton's Barn & Grill",
-        "url": "https://open.spotify.com/album/6Dx1pg8UVVauDZajxg62RA"
+        "name": "See If I Care",
+        "url": "https://open.spotify.com/album/4xBILuasKLadf6hitvo5mG"
       },
       "artists": [
         {
-          "name": "Blake Shelton",
-          "url": "https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw"
+          "name": "Gary Allan",
+          "url": "https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m"
         }
       ],
-      "duration_ms": 204826,
-      "name": "Some Beach",
-      "url": "https://open.spotify.com/track/7kWeSMXLxUHHOkFxsS0vhP"
+      "duration_ms": 212026,
+      "name": "Nothing On But The Radio",
+      "url": "https://open.spotify.com/track/3SRuODYNV4j2ckkJ9Samju"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Keep On Loving You",
-        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 220106,
-      "name": "Consider Me Gone",
-      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Up! (Red and Green Versions)",
         "url": "https://open.spotify.com/album/19y6fI4VdbDlLVtACuvcdm"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 283000,
       "name": "Forever And For Always",
       "url": "https://open.spotify.com/track/5eQtR62IZ8P8qZM2pSD9Ip"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Keep On Loving You",
+        "url": "https://open.spotify.com/album/6CtjCtRQZXjTCDe3Jiy25W"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 220106,
+      "name": "Consider Me Gone",
+      "url": "https://open.spotify.com/track/3aPu8Pt9F18y7O7AbzsC02"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Greatest Hits Volume III - I'm A Survivor",
-        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
-      },
-      "artists": [
-        {
-          "name": "Reba McEntire",
-          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
-        }
-      ],
-      "duration_ms": 187373,
-      "name": "I'm A Survivor",
-      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
-    },
-    {
-      "added_at": "2024-02-01 22:20:44",
-      "album": {
         "name": "Hits Alive",
         "url": "https://open.spotify.com/album/10XgYRGRtKApBh2P1K9yHS"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 239240,
       "name": "Where I Come From",
       "url": "https://open.spotify.com/track/6ej1QJ8eIYmhsyTlvgDajy"
+    },
+    {
+      "added_at": "2024-02-01 22:20:44",
+      "album": {
+        "name": "Greatest Hits Volume III - I'm A Survivor",
+        "url": "https://open.spotify.com/album/6VQsBmCjBblHpGHDG2wjFj"
+      },
+      "artists": [
+        {
+          "name": "Reba McEntire",
+          "url": "https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor"
+        }
+      ],
+      "duration_ms": 187373,
+      "name": "I'm A Survivor",
+      "url": "https://open.spotify.com/track/7DNp5wliOrg01iwvUnL3Tn"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1907,18 +1907,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
+        "name": "Brand New Girlfriend",
+        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
       },
       "artists": [
         {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
+          "name": "Steve Holy",
+          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
         }
       ],
-      "duration_ms": 171813,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
+      "duration_ms": 220186,
+      "name": "Brand New Girlfriend",
+      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
     },
     {
       "added_at": "2024-02-01 22:20:44",
@@ -1939,18 +1939,18 @@
     {
       "added_at": "2024-02-01 22:20:44",
       "album": {
-        "name": "Brand New Girlfriend",
-        "url": "https://open.spotify.com/album/3BwESVFJX9UiKmLEoPGVgo"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Steve Holy",
-          "url": "https://open.spotify.com/artist/0iYwcf0XreyCAswJOJMOII"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 220186,
-      "name": "Brand New Girlfriend",
-      "url": "https://open.spotify.com/track/4mpUaApNea2QhQshM4xyr4"
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
     },
     {
       "added_at": "2024-02-01 22:20:44",

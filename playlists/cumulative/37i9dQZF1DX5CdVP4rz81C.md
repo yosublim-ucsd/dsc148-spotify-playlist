@@ -4,7 +4,7 @@
 
 > Discover your favorite new chill pop songs\. Cover: Myles Smith
 
-1,625 songs - 3 day 13 hr 37 min
+1,626 songs - 3 day 13 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -194,6 +194,7 @@
 | [Brush Fire](https://open.spotify.com/track/4jp8ragG1fHm1eucECebYF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Brush Fire](https://open.spotify.com/album/0q9LcQHXp9DuszlWNJZoLB) | 3:10 | 2020-12-11 | 2021-03-06 |
 | [Bubble](https://open.spotify.com/track/4vb7jSp8SjP6dHVZ1m3Yhv) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Bubble](https://open.spotify.com/album/7iBpoxvtEN2wVV4bOh4yoc) | 3:45 | 2021-11-13 | 2022-01-15 |
 | [Buckle In Baby](https://open.spotify.com/track/5gUJ7Ph5HQ82KPJyFxGbrC) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv) | [Buckle In Baby](https://open.spotify.com/album/3pR6NLOJhSSsJr2Z6HCOKL) | 3:02 | 2023-01-20 | 2023-02-11 |
+| [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ), [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY) | 3:08 | 2024-04-22 |  |
 | [Burn](https://open.spotify.com/track/3gw2Mz111daFVWm7IF0Gb7) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Burn](https://open.spotify.com/album/5GHOtUAqaPIoUtfQwIQz79) | 2:59 | 2022-06-24 | 2022-11-05 |
 | [Burn Out](https://open.spotify.com/track/53dczw7m7Z87nRBojztGQo) | [Middle Child](https://open.spotify.com/artist/0d5rJSCHZBNsrQTSXPgFLy) | [Burn Out](https://open.spotify.com/album/1xEF7PbhTv2bzsLSaqRKi1) | 3:51 | 2021-05-15 | 2021-06-26 |
 | [Burning Up Slow](https://open.spotify.com/track/7FKt5TmdwOaeBGJcejChUw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Burning Up Slow](https://open.spotify.com/album/2fzajTeK3bEDzWvBjO2k73) | 2:04 | 2022-09-30 | 2022-10-18 |
@@ -1468,7 +1469,7 @@
 | [TOUCH](https://open.spotify.com/track/7mZ19pGoinaWwanIDq0JTY) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [TOUCH](https://open.spotify.com/album/58QltYKAAcCgYSoyzDsCP7) | 3:25 | 2022-02-04 | 2022-03-12 |
 | [Traffic Lights](https://open.spotify.com/track/6CRMSbYypKAf9XubEsmvkN) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Traffic Lights](https://open.spotify.com/album/374RbvDWAdosSKBLYOjh5z) | 3:24 | 2021-06-26 | 2021-12-11 |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 |  |
-| [TRAGIC](https://open.spotify.com/track/5yiOs4FYwtsuJZ6PfiziF8) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [sad songs in the summer \(mixtape\)](https://open.spotify.com/album/1xq48TLzC81TsS1Tl4DNc6) | 2:32 | 2023-10-20 |  |
+| [TRAGIC](https://open.spotify.com/track/5yiOs4FYwtsuJZ6PfiziF8) | [clide](https://open.spotify.com/artist/5BmVxdltuGK9CqZVaiUEKy) | [sad songs in the summer \(mixtape\)](https://open.spotify.com/album/1xq48TLzC81TsS1Tl4DNc6) | 2:32 | 2023-10-20 | 2024-04-23 |
 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-02-18 | 2022-03-12 |
 | [Troubled Man](https://open.spotify.com/track/0GM071OWnLj7XbblrwSlo0) | [Milky Chance](https://open.spotify.com/artist/1hzfo8twXdOegF3xireCYs) | [Troubled Man](https://open.spotify.com/album/0aMbtIWaYgBdtU77zOQN4N) | 2:35 | 2022-09-23 | 2022-11-12 |
 | [Tru Love](https://open.spotify.com/track/3HkIHa7ajjxgCB2Ag25els) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Tru Love](https://open.spotify.com/album/1mIwtmu3DzvkF0reJ90Pe8) | 3:18 | 2021-09-04 | 2021-09-18 |

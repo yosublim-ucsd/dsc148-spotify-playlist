@@ -1,6 +1,6 @@
 {
   "description": "los mejores beats producidos en tierras mexicanas \ud83c\udf35",
-  "num_followers": 29730,
+  "num_followers": 29734,
   "original_name": "lofi mexa",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Mi Tierra",
+        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
+      },
+      "artists": [
+        {
+          "name": "El Trizte",
+          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
+        }
+      ],
+      "duration_ms": 117779,
+      "name": "Mi Tierra",
+      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 93000,
       "name": "Ukelele At Night",
       "url": "https://open.spotify.com/track/6dz4MfCYeaF9JX2sHnwlX5"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Mi Tierra",
-        "url": "https://open.spotify.com/album/4H30nHj9bXx3MieRMi2bQI"
-      },
-      "artists": [
-        {
-          "name": "El Trizte",
-          "url": "https://open.spotify.com/artist/1bAXAt2A2yrjPuGPBjqQAV"
-        }
-      ],
-      "duration_ms": 117779,
-      "name": "Mi Tierra",
-      "url": "https://open.spotify.com/track/4RbrGZ6GCRAgsOnPZQwsJx"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -643,26 +643,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
-        }
-      ],
-      "duration_ms": 89044,
-      "name": "Lofi Recuerdame",
-      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Lofi En La Mamalona",
         "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 116666,
       "name": "Lofi En La Mamalona",
       "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+        },
+        {
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
+        }
+      ],
+      "duration_ms": 89044,
+      "name": "Lofi Recuerdame",
+      "url": "https://open.spotify.com/track/2xfCFNN5TfqVP5PtS2CFCz"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -759,22 +759,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Nostalgia en Ruta",
-        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
-      },
-      "artists": [
-        {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
-        }
-      ],
-      "duration_ms": 115052,
-      "name": "Nostalgia en Ruta",
-      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Dale Dale",
         "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
@@ -827,18 +811,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Sayulita Vibes",
-        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+        "name": "Nostalgia en Ruta",
+        "url": "https://open.spotify.com/album/4nFhPJ9oLs4RBZSB7RXz5P"
       },
       "artists": [
         {
-          "name": "Daniel Ord\u00f3\u00f1ez",
-          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 118588,
-      "name": "Sayulita Vibes",
-      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+      "duration_ms": 115052,
+      "name": "Nostalgia en Ruta",
+      "url": "https://open.spotify.com/track/28T16XoS5KsQSLrRPuwSH5"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -863,6 +847,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Sayulita Vibes",
+        "url": "https://open.spotify.com/album/3gRZRW5RMjggRus07nFpZz"
+      },
+      "artists": [
+        {
+          "name": "Daniel Ord\u00f3\u00f1ez",
+          "url": "https://open.spotify.com/artist/3c49ZOqgPzYj18ZW9MQhbb"
+        }
+      ],
+      "duration_ms": 118588,
+      "name": "Sayulita Vibes",
+      "url": "https://open.spotify.com/track/64aOycR5RRQyq44tlTIP5A"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "como los ni\u00f1os",
         "url": "https://open.spotify.com/album/0ssD2LaGvT4CqXgCDifQjz"
       },
@@ -875,42 +875,6 @@
       "duration_ms": 150956,
       "name": "como los ni\u00f1os",
       "url": "https://open.spotify.com/track/6iLPL7IqACjvks08AuZq6i"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Free Soul",
-        "url": "https://open.spotify.com/album/6V2Its6p93Xm6ebPjox16s"
-      },
-      "artists": [
-        {
-          "name": "MoonCreek",
-          "url": "https://open.spotify.com/artist/5vojozk9HWm8gMdBoitA8F"
-        },
-        {
-          "name": "brass.beats",
-          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "Free Soul",
-      "url": "https://open.spotify.com/track/0XCN15yrRrPnyru5fGxmDI"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -935,22 +899,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "A Safe Place",
-        "url": "https://open.spotify.com/album/3bm3Kt4x6IfhMXTTDwrlMn"
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/6V2Its6p93Xm6ebPjox16s"
       },
       "artists": [
         {
-          "name": "steezy prime",
-          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+          "name": "MoonCreek",
+          "url": "https://open.spotify.com/artist/5vojozk9HWm8gMdBoitA8F"
         },
         {
-          "name": "amlo",
-          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+          "name": "brass.beats",
+          "url": "https://open.spotify.com/artist/12j0D8vG0bxUv8sPoV61So"
         }
       ],
-      "duration_ms": 128571,
-      "name": "A Safe Place",
-      "url": "https://open.spotify.com/track/21PTw4ZyO1tYiAmNZWQm6f"
+      "duration_ms": 147000,
+      "name": "Free Soul",
+      "url": "https://open.spotify.com/track/0XCN15yrRrPnyru5fGxmDI"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -971,22 +935,54 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Bluewerks Vol 13: Midnight Melodies",
-        "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
       },
       "artists": [
         {
-          "name": "Bluewerks",
-          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
-        },
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
         }
       ],
-      "duration_ms": 153658,
-      "name": "Looking for the Stars",
-      "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "A Safe Place",
+        "url": "https://open.spotify.com/album/3bm3Kt4x6IfhMXTTDwrlMn"
+      },
+      "artists": [
+        {
+          "name": "steezy prime",
+          "url": "https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx"
+        },
+        {
+          "name": "amlo",
+          "url": "https://open.spotify.com/artist/3tnECtf0aO6jeCJOXHKMg4"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "A Safe Place",
+      "url": "https://open.spotify.com/track/21PTw4ZyO1tYiAmNZWQm6f"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "jazz y cdmx",
+        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        }
+      ],
+      "duration_ms": 121213,
+      "name": "jazz y cdmx",
+      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1003,6 +999,26 @@
       "duration_ms": 129975,
       "name": "Shiny",
       "url": "https://open.spotify.com/track/4LRD9QLwptQrwYsiJCPm5g"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Bluewerks Vol 13: Midnight Melodies",
+        "url": "https://open.spotify.com/album/0eRRiHH6MXmSycTtKocj2o"
+      },
+      "artists": [
+        {
+          "name": "Bluewerks",
+          "url": "https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn"
+        },
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        }
+      ],
+      "duration_ms": 153658,
+      "name": "Looking for the Stars",
+      "url": "https://open.spotify.com/track/3LdqQUBvbg614Z1kj9ZsT5"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1067,22 +1083,6 @@
       "duration_ms": 148965,
       "name": "Rossa Nova",
       "url": "https://open.spotify.com/track/7JJuPb0RhWRZvZK2q6m9BQ"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "jazz y cdmx",
-        "url": "https://open.spotify.com/album/17tlWeBFchVYB4AykvA21z"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        }
-      ],
-      "duration_ms": 121213,
-      "name": "jazz y cdmx",
-      "url": "https://open.spotify.com/track/4OGnyi9O4uc5zrTNyLgGrY"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1155,6 +1155,26 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
+        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "RNDN",
+          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
+        }
+      ],
+      "duration_ms": 154500,
+      "name": "Michoacansiedad",
+      "url": "https://open.spotify.com/track/0hiVmFhNCdxkF3mGF8bHpL"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1199,42 +1219,6 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "find me",
-        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
-      },
-      "artists": [
-        {
-          "name": "Shy Guy",
-          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
-        }
-      ],
-      "duration_ms": 128118,
-      "name": "find me",
-      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "S\u00e9 Pero No Quiero Saber, Entonces No S\u00e9.",
-        "url": "https://open.spotify.com/album/3fBNcy44LTMVJGhPfMTMYZ"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "RNDN",
-          "url": "https://open.spotify.com/artist/5kM0MBsDCTwWZMO3nYYMkn"
-        }
-      ],
-      "duration_ms": 154500,
-      "name": "Michoacansiedad",
-      "url": "https://open.spotify.com/track/0hiVmFhNCdxkF3mGF8bHpL"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
         "name": "Viscaria Corto",
         "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
@@ -1255,18 +1239,18 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
-        "name": "Call me",
-        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+        "name": "find me",
+        "url": "https://open.spotify.com/album/4fax9eSjZUijcXqMDfCxEd"
       },
       "artists": [
         {
-          "name": "Muerto A Puntapi\u00e9s",
-          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+          "name": "Shy Guy",
+          "url": "https://open.spotify.com/artist/6gEfZutoVigycya3K3X0HR"
         }
       ],
-      "duration_ms": 118166,
-      "name": "Call me",
-      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+      "duration_ms": 128118,
+      "name": "find me",
+      "url": "https://open.spotify.com/track/5qI8YB7bbbWkTh65Jh70vX"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1295,6 +1279,22 @@
     {
       "added_at": "2024-03-08 06:00:00",
       "album": {
+        "name": "Call me",
+        "url": "https://open.spotify.com/album/0i3ISvXZYcqhu29ofcnVJI"
+      },
+      "artists": [
+        {
+          "name": "Muerto A Puntapi\u00e9s",
+          "url": "https://open.spotify.com/artist/4d8Fcih9xLX58y7r7LAPKV"
+        }
+      ],
+      "duration_ms": 118166,
+      "name": "Call me",
+      "url": "https://open.spotify.com/track/0uphcJxEE2Slw2kg2Zo1PC"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
         "name": "Hide n Seek",
         "url": "https://open.spotify.com/album/74pTOHJtHYc0XRiCADv0q4"
       },
@@ -1307,6 +1307,22 @@
       "duration_ms": 130714,
       "name": "Hide n Seek",
       "url": "https://open.spotify.com/track/6NQ5urTIuViE6DUYB2mXCa"
+    },
+    {
+      "added_at": "2024-03-08 06:00:00",
+      "album": {
+        "name": "Canciones Para Ver Las Nubes Pasar",
+        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 164117,
+      "name": "Canci\u00f3n en Forma de Elefante",
+      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2024-03-08 06:00:00",
@@ -1331,22 +1347,6 @@
       "duration_ms": 101250,
       "name": "Timeless Era",
       "url": "https://open.spotify.com/track/29QB4Q8n1EvBEeYTTpRAjo"
-    },
-    {
-      "added_at": "2024-03-08 06:00:00",
-      "album": {
-        "name": "Canciones Para Ver Las Nubes Pasar",
-        "url": "https://open.spotify.com/album/0KBtOIMP5pyxxMhm9Yy7VJ"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 164117,
-      "name": "Canci\u00f3n en Forma de Elefante",
-      "url": "https://open.spotify.com/track/6hgUc1kIwdsuWWMxkpRFDs"
     },
     {
       "added_at": "2024-03-08 06:00:00",

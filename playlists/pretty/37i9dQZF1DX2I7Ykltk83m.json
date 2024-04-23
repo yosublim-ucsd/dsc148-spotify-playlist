@@ -1,6 +1,6 @@
 {
   "description": "killer songs from badass artists. Cover: Haley Blais",
-  "num_followers": 362623,
+  "num_followers": 362621,
   "original_name": "badass",
   "owner": {
     "name": "Spotify",
@@ -935,22 +935,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "90s American Superstar",
-        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
-      },
-      "artists": [
-        {
-          "name": "Wallice",
-          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
-        }
-      ],
-      "duration_ms": 139400,
-      "name": "90s American Superstar",
-      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Warm Chris",
         "url": "https://open.spotify.com/album/56rWsCsd2UF9l1XTpUfZ1v"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 219213,
       "name": "Tick Tock",
       "url": "https://open.spotify.com/track/0Q7tKJdvKx6yyJ8qSf6elE"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "90s American Superstar",
+        "url": "https://open.spotify.com/album/30mvWmyfRun8JbF9pTMPdc"
+      },
+      "artists": [
+        {
+          "name": "Wallice",
+          "url": "https://open.spotify.com/artist/6d6ts87Fxm1EdULf4CaLw4"
+        }
+      ],
+      "duration_ms": 139400,
+      "name": "90s American Superstar",
+      "url": "https://open.spotify.com/track/7sAgUakvHMLtLlTSZqU7i5"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -999,18 +999,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
+        "name": "An Overview on Phenomenal Nature",
+        "url": "https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9"
       },
       "artists": [
         {
-          "name": "Caroline Rose",
-          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+          "name": "Cassandra Jenkins",
+          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
         }
       ],
-      "duration_ms": 222293,
-      "name": "Freak Like Me",
-      "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
+      "duration_ms": 209837,
+      "name": "Michelangelo",
+      "url": "https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1031,18 +1031,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "An Overview on Phenomenal Nature",
-        "url": "https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9"
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG"
       },
       "artists": [
         {
-          "name": "Cassandra Jenkins",
-          "url": "https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik"
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
         }
       ],
-      "duration_ms": 209837,
-      "name": "Michelangelo",
-      "url": "https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j"
+      "duration_ms": 222293,
+      "name": "Freak Like Me",
+      "url": "https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Subtitles",
-        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "Subtitles",
-      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "PAINLESS",
         "url": "https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 202219,
       "name": "Bad Thing",
       "url": "https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Homesick Honeybee",
-        "url": "https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz"
-      },
-      "artists": [
-        {
-          "name": "Becca Mancari",
-          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
-        }
-      ],
-      "duration_ms": 178215,
-      "name": "Homesick Honeybee - Edit",
-      "url": "https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "New Truth",
         "url": "https://open.spotify.com/album/2LS3eg9v6U1KFpdvmqmuPE"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 181754,
       "name": "God Knows Why",
       "url": "https://open.spotify.com/track/1mHy45rJNN6eT0P7Kuecg8"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Homesick Honeybee",
+        "url": "https://open.spotify.com/album/79yJK67RNO0zJkhrDon9wz"
+      },
+      "artists": [
+        {
+          "name": "Becca Mancari",
+          "url": "https://open.spotify.com/artist/5n9jfCRA7AFY1JfYc5ZYK5"
+        }
+      ],
+      "duration_ms": 178215,
+      "name": "Homesick Honeybee - Edit",
+      "url": "https://open.spotify.com/track/1WigTAhMwh26nQXs4yLZqC"
     },
     {
       "added_at": "2023-10-27 04:00:00",

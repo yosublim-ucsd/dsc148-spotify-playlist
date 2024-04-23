@@ -1,12 +1,12 @@
 {
-  "description": "This is Little Simz. The essential tracks, all in one playlist.",
-  "num_followers": 41021,
+  "description": "This is Little Simz\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "num_followers": 41047,
   "original_name": "This Is Little Simz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDk1NzdmMmU4ODhjNWYzOWVhMTc2NDY1OTJkMDhhNDFj",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDQyYjk4NDY3NmNhNzRhZWQ3NTVjZWZlMmM2NTZjYmRl",
   "tracks": [
     {
       "added_at": null,
@@ -72,9 +72,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 87893,
-      "name": "Fever",
-      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
+      "duration_ms": 140733,
+      "name": "Mood Swings",
+      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
     },
     {
       "added_at": null,
@@ -140,9 +140,9 @@
           "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
         }
       ],
-      "duration_ms": 140733,
-      "name": "Mood Swings",
-      "url": "https://open.spotify.com/track/124nj3QzqpccVdLbiFHPeB"
+      "duration_ms": 87893,
+      "name": "Fever",
+      "url": "https://open.spotify.com/track/0ADr2jDuHvK77uIJWTKTvs"
     },
     {
       "added_at": null,

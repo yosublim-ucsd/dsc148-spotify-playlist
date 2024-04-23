@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Karataka Damanaka\n",
-  "num_followers": 57505,
+  "num_followers": 57486,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzUzMzgwOSwwMDAwMDAwMGQ3MmE2MTQ3YWMyNmM4YWIyZWMxMzY2N2UzYWY5MzY1",
+  "snapshot_id": "MTcxMzc4MTQxNCwwMDAwMDAwMDJkOTQ5NGMxNTI5NjI5N2E2ZjM2ZDU4NmY1MmYwMWJj",
   "tracks": [
     {
       "added_at": "2024-03-14 12:22:29",
@@ -27,6 +27,30 @@
       "duration_ms": 214617,
       "name": "Kavithe Kavithe (From \"Yuva\")",
       "url": "https://open.spotify.com/track/51JkjupL5rHz5jGDwlWCad"
+    },
+    {
+      "added_at": "2024-04-22 10:23:34",
+      "album": {
+        "name": "Bad Boys (from \"Bheema\")",
+        "url": "https://open.spotify.com/album/7l7dcwAVpFOUt7eRAsyXed"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        },
+        {
+          "name": "MC Bijju",
+          "url": "https://open.spotify.com/artist/55M046miFPYqKWWS0UaDOp"
+        },
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        }
+      ],
+      "duration_ms": 151000,
+      "name": "Bad Boys (from \"Bheema\")",
+      "url": "https://open.spotify.com/track/1fpHvSPEF5au5OTIrkroeV"
     },
     {
       "added_at": "2024-03-27 08:30:13",
@@ -111,6 +135,30 @@
       "duration_ms": 206500,
       "name": "Saaguthalide Daari (From \"Alaikyaa\")",
       "url": "https://open.spotify.com/track/4P2bfbEG39C9wHpBl8Kfuv"
+    },
+    {
+      "added_at": "2024-04-22 08:35:44",
+      "album": {
+        "name": "Ariyada Hareyada (From \"Sahara\")",
+        "url": "https://open.spotify.com/album/75V8F1lbFTJD5kdVnLhZRJ"
+      },
+      "artists": [
+        {
+          "name": "Suraj Jois",
+          "url": "https://open.spotify.com/artist/27GwuwHp0LlzXjAyZYniSp"
+        },
+        {
+          "name": "Ratheesh Jayan",
+          "url": "https://open.spotify.com/artist/5Rf07dIWHUB1Ss6YvnS72K"
+        },
+        {
+          "name": "Supriya Ram",
+          "url": "https://open.spotify.com/artist/1rCuDODEULFxCDFeH7H292"
+        }
+      ],
+      "duration_ms": 215353,
+      "name": "Ariyada Hareyada (From \"Sahara\")",
+      "url": "https://open.spotify.com/track/18WtQPyJLOF3WDH3AnB6v5"
     },
     {
       "added_at": "2024-04-17 04:58:48",

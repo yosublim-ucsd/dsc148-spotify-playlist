@@ -1084,7 +1084,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 164437,
       "name": "Cad\u00e1ver",
       "url": "https://open.spotify.com/track/5iQoTxYBxuFt2hjrScsLCo"
@@ -6560,6 +6560,24 @@
       "duration_ms": 175445,
       "name": "Vernos Crecer",
       "url": "https://open.spotify.com/track/5c6LLhzVwoLCbb0HqYlsX7"
+    },
+    {
+      "album": {
+        "name": "vidas",
+        "url": "https://open.spotify.com/album/0tqR3K0g8GtOFE1rCkIg8U"
+      },
+      "artists": [
+        {
+          "name": "Ale Fdz",
+          "url": "https://open.spotify.com/artist/1m3YfDehEub35DvsmG9gMy"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253934,
+      "name": "vidas",
+      "url": "https://open.spotify.com/track/1feOGbkJwLkkv6Y2FUO7CK"
     },
     {
       "album": {

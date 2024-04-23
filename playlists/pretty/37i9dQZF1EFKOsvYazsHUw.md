@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4uT4afwoFqf5HupqMjErXX">Chiiild</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 470 likes - 98 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 469 likes - 98 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 57 | [Antidote](https://open.spotify.com/track/7sUg1ro2GwaN2uvo0Pp1qm) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Better Luck In The Next Life](https://open.spotify.com/album/6ZBuUw48zAYn98M1YKACfH) | 2:49 |
 | 58 | [silverlight](https://open.spotify.com/track/7mnpmmtKKHxoZBV7HSqJOa) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:38 |
 | 59 | [Healer](https://open.spotify.com/track/0NzNTTdkSvXw9aIrXcXAmk) | [Moxie Raia](https://open.spotify.com/artist/1dSRKlg9rzvs63rhT8Sbpp), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [931 Reloaded](https://open.spotify.com/album/6uwfQz4ZsOX5VZ2cj8KmfX) | 3:40 |
-| 60 | [Easy On Yourself](https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
-| 61 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 |
+| 60 | [Refill](https://open.spotify.com/track/2WJS688sN8yuzC4CDMeZRZ) | [Rory](https://open.spotify.com/artist/5XJa2DE4NkXH5m4aHzM0i9), [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax), [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P) | [I Thought It'd Be Different](https://open.spotify.com/album/1YA6dnUyaevjSC6hGQ9wmX) | 3:47 |
+| 61 | [Easy On Yourself](https://open.spotify.com/track/5LVmJesDOJD1ntudqD51Ms) | [Chiiild](https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax) | [Synthetic Soul](https://open.spotify.com/album/6eMpxISabZ3Uyrc53CXQ2U) | 2:44 |
 | 62 | [No Strings](https://open.spotify.com/track/3tPvpGO4yTqpDuJIKnPRYv) | [Nicole Millar](https://open.spotify.com/artist/0lYzZ91QzokaPrRK1vq6tW) | [Excuse Me \(Deluxe\)](https://open.spotify.com/album/3CEWoLRhNHEtBcw1wmgWd8) | 3:00 |
 | 63 | [bodytalk](https://open.spotify.com/track/4rrqU96CxRTeKGt342pRsN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:27 |
 | 64 | [falling up](https://open.spotify.com/track/7mZGZjiVK1buBSwRhOEnpN) | [Lyon](https://open.spotify.com/artist/57gnEMExR8CJdZ7MYYbbrN) | [Falling Up](https://open.spotify.com/album/4bfPCG7peRJfmVAfQOvdHb) | 3:57 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 97 | [Daddy Issues](https://open.spotify.com/track/1BFk3zOw0TuMSDSE5b8X8e) | [Josephina](https://open.spotify.com/artist/4WyMWzN7gNNKIt3ZfGNU9F) | [Daddy Issues](https://open.spotify.com/album/2DUMBKY3GldHNTDMQnUBtM) | 2:14 |
 | 98 | [Like the Ocean](https://open.spotify.com/track/60QQcUiVLsyYEHqNnDyZdX) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Manhattan Records Presents "The Hits" \[Vol.2 \(mixed by DJ TAKU\)\]](https://open.spotify.com/album/00oKx39MIe4ioCBDFur4aD) | 2:12 |
 
-Snapshot ID: `Mjg1NjI1OTYsMDAwMDAwMDBiZTM3OGRhYTc0ZmY1NDBlZTRlM2E1NDRlMjAyZTJmYg==`
+Snapshot ID: `Mjg1NjQwMzYsMDAwMDAwMDBkMGQ5MTkzNmQwMjRlYWM3ZDlhZjI1MTJkZDVhMzQ2MQ==`

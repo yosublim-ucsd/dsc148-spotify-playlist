@@ -1,12 +1,12 @@
 {
-  "description": "This is Eric Clapton. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 346880,
+  "description": "This is Eric Clapton. The essential tracks, all in one playlist.",
+  "num_followers": 346890,
   "original_name": "This Is Eric Clapton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMDkxMGUwZTM3ZTE3Nzg4ZTZkNjY1ZTE5ODhjMmMzYzEx",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGU4NDg4YzQ5ZDQxZjExNWQzZTljZTdmMGY1MmYyOWE1",
   "tracks": [
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
+        "name": "Clapton",
+        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 171013,
-      "name": "After Midnight",
-      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
+      "duration_ms": 340786,
+      "name": "Autumn Leaves",
+      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
     },
     {
       "added_at": null,
@@ -435,44 +435,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Clapton",
-        "url": "https://open.spotify.com/album/5Rkrz0jdb5BvaLPSbcvZoe"
+        "name": "Riding With The King",
+        "url": "https://open.spotify.com/album/7w0uQiYScm3ApS8cWXmf4c"
       },
       "artists": [
         {
           "name": "Eric Clapton",
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 340786,
-      "name": "Autumn Leaves",
-      "url": "https://open.spotify.com/track/1as81KphEOxPNBthbuzlcx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Your Love (2015 Remaster)",
-        "url": "https://open.spotify.com/album/1NQxkuCbddVP1UgmvRhfXp"
-      },
-      "artists": [
-        {
-          "name": "The Yardbirds",
-          "url": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX"
         },
         {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
         }
       ],
-      "duration_ms": 150626,
-      "name": "For Your Love - 2015 Remaster",
-      "url": "https://open.spotify.com/track/6o21UfW2RHkzzleZGLfFpK"
+      "duration_ms": 516533,
+      "name": "Three O'Clock Blues",
+      "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
     },
     {
       "added_at": null,
       "album": {
         "name": "Eric Clapton",
-        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
+        "url": "https://open.spotify.com/album/3taJF5jtfoJZ3zDKJBu5zG"
       },
       "artists": [
         {
@@ -480,9 +464,45 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 301266,
-      "name": "Let It Rain",
-      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
+      "duration_ms": 171013,
+      "name": "After Midnight",
+      "url": "https://open.spotify.com/track/27mdmXNcO0gNpXlrWi9DPZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Money and Cigarettes (2007 Remaster)",
+        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 193386,
+      "name": "I've Got a Rock 'n' Roll Heart",
+      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
+        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
+        }
+      ],
+      "duration_ms": 139373,
+      "name": "Rock And Roll Records",
+      "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
     },
     {
       "added_at": null,
@@ -507,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Money and Cigarettes (2007 Remaster)",
-        "url": "https://open.spotify.com/album/3pGtiBNrepSNUpeV9brkmq"
+        "name": "Eric Clapton",
+        "url": "https://open.spotify.com/album/7nAtrGNUxCNwx9R1Q5PTdh"
       },
       "artists": [
         {
@@ -516,9 +536,9 @@
           "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 193386,
-      "name": "I've Got a Rock 'n' Roll Heart",
-      "url": "https://open.spotify.com/track/1dU1ciBoYfbP1fqZKgqHRG"
+      "duration_ms": 301266,
+      "name": "Let It Rain",
+      "url": "https://open.spotify.com/track/7DiaNCPgH5dJ1cJ925jTAA"
     },
     {
       "added_at": null,
@@ -535,26 +555,6 @@
       "duration_ms": 471546,
       "name": "Old Love - Acoustic Live",
       "url": "https://open.spotify.com/track/0XuDj6qH64RUAljehbd8O3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale",
-        "url": "https://open.spotify.com/album/16J9NCaxxRc2QW999f5V9H"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
-        }
-      ],
-      "duration_ms": 139373,
-      "name": "Rock And Roll Records",
-      "url": "https://open.spotify.com/track/4d4O5xw8aIgj2VAIDizE5I"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 390893,
-      "name": "Running on Faith - Acoustic Live",
-      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 332773,
       "name": "Danger",
       "url": "https://open.spotify.com/track/1tvT5VBrLMxMM2LvzBRA91"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 390893,
+      "name": "Running on Faith - Acoustic Live",
+      "url": "https://open.spotify.com/track/2QWYJC0osgjCvPA0VqcMlv"
     },
     {
       "added_at": null,
@@ -695,22 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 239053,
-      "name": "Before You Accuse Me - Acoustic Live",
-      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 249440,
       "name": "Heads in Georgia",
       "url": "https://open.spotify.com/track/4PC1KhzSfxchqRjBlAN7We"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 239053,
+      "name": "Before You Accuse Me - Acoustic Live",
+      "url": "https://open.spotify.com/track/63FLIj5L2qTI2nSArBny5p"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Unplugged (Deluxe Edition) (Live)",
-        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        }
-      ],
-      "duration_ms": 226373,
-      "name": "Hey Hey - Acoustic Live",
-      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Road to Escondido",
         "url": "https://open.spotify.com/album/2w8NxQ2lUGDAjNGEvdJ079"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 256866,
       "name": "It's Easy",
       "url": "https://open.spotify.com/track/6UVPrccDy1OQtZduNtanhP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Unplugged (Deluxe Edition) (Live)",
+        "url": "https://open.spotify.com/album/2lORE9lVX7YUCZfiFVnKWa"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "duration_ms": 226373,
+      "name": "Hey Hey - Acoustic Live",
+      "url": "https://open.spotify.com/track/0qxtcJppuSsxsKmOIGbmpN"
     },
     {
       "added_at": null,

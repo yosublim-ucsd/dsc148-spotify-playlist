@@ -1,12 +1,12 @@
 {
   "description": "This is Offset. The essential tracks, all in one playlist.",
-  "num_followers": 114214,
+  "num_followers": 114190,
   "original_name": "This Is Offset",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGEyMjU5ZDE5YWQwYmRmMDRmMWVkZWRjYmUwYzFlNzI1",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDY0MjIzNDJmMTgxYmMxOTYwZmRhYTZmZjQ3YTU4YTE5",
   "tracks": [
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where The Shooters Be",
-        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
-      },
-      "artists": [
-        {
-          "name": "SleazyWorld Go",
-          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 177731,
-      "name": "Step 1 (with Offset)",
-      "url": "https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Warning",
         "url": "https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0"
       },
@@ -567,6 +547,26 @@
       "duration_ms": 160320,
       "name": "Disrespectful",
       "url": "https://open.spotify.com/track/3oxCefEI6Tc6Z6t20J4IvH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where The Shooters Be",
+        "url": "https://open.spotify.com/album/7LvAkKsdanaAsOe79nkl8z"
+      },
+      "artists": [
+        {
+          "name": "SleazyWorld Go",
+          "url": "https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 177731,
+      "name": "Step 1 (with Offset)",
+      "url": "https://open.spotify.com/track/4GpTHfZ8vq7QDGB2fiSV7Q"
     },
     {
       "added_at": null,
@@ -859,26 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Droptopwop",
-        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
-      },
-      "artists": [
-        {
-          "name": "Gucci Mane",
-          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Met Gala (feat. Offset)",
-      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Funk Wav Bounces Vol. 2",
         "url": "https://open.spotify.com/album/49DV9eFp2xTdtO7veew5xS"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 302613,
       "name": "New To You (with Normani, Tinashe & Offset)",
       "url": "https://open.spotify.com/track/5Axapk6xMmSHK2A75EZiYo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Droptopwop",
+        "url": "https://open.spotify.com/album/0smWYh2nQsaZNonBGZpZMn"
+      },
+      "artists": [
+        {
+          "name": "Gucci Mane",
+          "url": "https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Met Gala (feat. Offset)",
+      "url": "https://open.spotify.com/track/2XaInsPPUkZRkY4uFJ3AHK"
     },
     {
       "added_at": null,
@@ -1019,26 +1019,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuffed (Jo Tha Mila) (feat. Offset)",
-        "url": "https://open.spotify.com/album/3bxssXuz1TUDAB5Z06AJHY"
-      },
-      "artists": [
-        {
-          "name": "Ananya Birla",
-          "url": "https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 166932,
-      "name": "Cuffed (Jo Tha Mila) (feat. Offset)",
-      "url": "https://open.spotify.com/track/18v9djmHXKSEofyhG9VXwh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plug Talk",
         "url": "https://open.spotify.com/album/77QaRhETtj1oS39f6bbfOa"
       },
@@ -1079,6 +1059,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuffed (Jo Tha Mila) (feat. Offset)",
+        "url": "https://open.spotify.com/album/3bxssXuz1TUDAB5Z06AJHY"
+      },
+      "artists": [
+        {
+          "name": "Ananya Birla",
+          "url": "https://open.spotify.com/artist/7snhzmuew8iLEDxMIhOU1P"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 166932,
+      "name": "Cuffed (Jo Tha Mila) (feat. Offset)",
+      "url": "https://open.spotify.com/track/18v9djmHXKSEofyhG9VXwh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "JEFFERY",
         "url": "https://open.spotify.com/album/7EpUpNUkkEGnaCvkcn1j4H"
       },
@@ -1107,26 +1107,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "SLOPES",
-        "url": "https://open.spotify.com/album/76WH6EAud79m7bFx5CfDyJ"
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/4tFcJsaPk3MFYLEkFPcpHg"
       },
       "artists": [
         {
-          "name": "1999 WRITE THE FUTURE",
-          "url": "https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak"
+          "name": "STANY",
+          "url": "https://open.spotify.com/artist/35DTcB1iUsRZKcmTn9PVPg"
+        },
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         },
         {
           "name": "Offset",
           "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        },
-        {
-          "name": "Warren Hue",
-          "url": "https://open.spotify.com/artist/4qcKNkdxUidhvUByB2eQ6g"
         }
       ],
-      "duration_ms": 162077,
-      "name": "SLOPES",
-      "url": "https://open.spotify.com/track/6d9toX1QCK6w2eIagLm8fa"
+      "duration_ms": 195213,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/1bg9gGJbrPxpaftqNgWpOz"
     }
   ],
   "unique_name": "This Is Offset",

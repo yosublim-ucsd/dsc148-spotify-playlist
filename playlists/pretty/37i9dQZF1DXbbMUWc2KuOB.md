@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 
 > Enjoy your favourite K\-drama's OST instrumentals\. \(Cover: Queen of Tears\(눈물의 여왕\)\) \(한국 OST 반주곡과 함께 여유로운 시간을 즐겨보세요.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,308 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,323 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbbMUWc2KuOB.md) - [plain]
 | 39 | [If you're with me \- Instrumental](https://open.spotify.com/track/6GBgCbLWz03xdW5RjQniLv) | [Sung Si Kyung](https://open.spotify.com/artist/7jFUYMpMUBDL4JQtMZ5ilc) | [Snowdrop \(Original Television Soundtrack, Pt\. 1\)](https://open.spotify.com/album/1mp8PisOMZvtAZWfwv9vlS) | 3:51 |
 | 40 | [Your world \(Inst.\)](https://open.spotify.com/track/1DElktBD30P1aiIQXErMLG) | [Seol Hoseung \(SURL\)](https://open.spotify.com/artist/74eigHxPC6nhip2jnAili4) | [Twenty\-Five Twenty\-One OST Part 9](https://open.spotify.com/album/3y6Nrs4DvKVlRiaMoWowh9) | 3:27 |
 | 41 | [You're Cold \- Instrumental](https://open.spotify.com/track/6D14Zg8SqVnXr5bxNoOwZ4) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [It's Okay to Not Be Okay \(Original Television Soundtrack\), Pt.1](https://open.spotify.com/album/63qfWGAvtGwa2YF4yC98Ak) | 3:54 |
-| 42 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\) \(Inst.\)](https://open.spotify.com/track/749UBIskacge8qFMxeoZOn) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
-| 43 | [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 |
+| 42 | [Borrow your night \(Romance 101 X 10CM\) \(Inst.\)](https://open.spotify.com/track/03D05cWVgnhRf0Dh5ysiDv) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Borrow your night \(Romance 101 X 10CM\)](https://open.spotify.com/album/5g7sviV8SLjz3lmdWpBPfx) | 3:07 |
+| 43 | [The Moment My Heart \(She is My Type♡ X KYUHYUN\) \(Inst.\)](https://open.spotify.com/track/749UBIskacge8qFMxeoZOn) | [KYUHYUN](https://open.spotify.com/artist/0il5ZP3xYOECtONJtZ38Ln) | [The Moment My Heart \(She is My Type♡ X KYUHYUN\)](https://open.spotify.com/album/4i1sZysnsbV5bIAyALa04J) | 3:53 |
 | 44 | [I think I like you \- Instrumental](https://open.spotify.com/track/2jG9RJE8nqUGBAociaCTT6) | [Chamsom](https://open.spotify.com/artist/5xNWQgdUZS4YN7xAYItpKi) | [A Poem a Day \(tvN DRAMA\) OST Part.10](https://open.spotify.com/album/38evbF1rf3tenVNgOi6Sb9) | 3:48 |
 | 45 | [Hold My Hand \- Instrumental](https://open.spotify.com/track/13i2U4DVw9EOxdTcYTsvi8) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Now, We Are Breaking Up \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/7yfqRYBQmoNZqoeGe4kPeM) | 3:30 |
 | 46 | [Melting \- Inst.](https://open.spotify.com/track/5zx2UcgNu7CIpczUCgYghY) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Forecasting Love and Weather \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3Rble1wgbwvGEqvpOaZ63b) | 3:06 |

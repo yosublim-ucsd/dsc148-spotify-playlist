@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 
 > The best of today's pop worship music\.  Turn the beat up! Cover: Switch
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,280 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,270 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 33 | [Freedom Wild](https://open.spotify.com/track/2lMc6v2a8QuNumaKsma5qK) | [Motion Worship](https://open.spotify.com/artist/4ghDIHGoTSl97sUXTjUQ1m) | [Motion Worship](https://open.spotify.com/album/24TfvY0tdP4kcQ5bO7IS9R) | 3:46 |
 | 34 | [Won't Let Me Go](https://open.spotify.com/track/2HKlkeWtk7JkikHmXOEcPk) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Won't Let Me Go](https://open.spotify.com/album/6q54bQbxEXeHjqJjFEtyQy) | 3:17 |
 | 35 | [Way Truth Life \- Live](https://open.spotify.com/track/2eYJSfG4XE5M1PbcecUiMd) | [Planetshakers](https://open.spotify.com/artist/5A0SFJQSdSjFHGcndiGT1s) | [Revival \(Live\)](https://open.spotify.com/album/5cLSqfaQnC3O43cIuNmL8J) | 3:20 |
-| 36 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
-| 37 | [Won't Look Back](https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [Won't Look Back](https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS) | 3:34 |
+| 36 | [Won't Look Back](https://open.spotify.com/track/5E6upbmm2f8pFJQj6kbz9P) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [Won't Look Back](https://open.spotify.com/album/05ffxlI4ReWij0Ll2rfgRS) | 3:34 |
+| 37 | [HAPPY](https://open.spotify.com/track/3ujkAJ4EMZzgMgM1RXqpCJ) | [Wande](https://open.spotify.com/artist/0GdzQJqgRL5SHp7kXOKba0) | [EXIT](https://open.spotify.com/album/23hocB8tXBHfvImk7SNPnv) | 2:04 |
 | 38 | [Eyes On You \- Live](https://open.spotify.com/track/3iMPm6w3SL8ukWAmZJuPOo) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Sarah Reeves](https://open.spotify.com/artist/2vGA5qCDLZGW6exRQgKfLL) | [Eyes On You \(Live\)](https://open.spotify.com/album/1NlQ457ktuiW1t1Zp4c1R5) | 3:53 |
 | 39 | [Lifeline](https://open.spotify.com/track/1HunEnhULBXS1RlftCK8iK) | [Switch](https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN) | [Lifeline](https://open.spotify.com/album/6XicHplGHaH6keAcsMKTkW) | 3:14 |
 | 40 | [Louder](https://open.spotify.com/track/64ev1jINEWjZPxq61hhiVb) | [7 Hills Worship](https://open.spotify.com/artist/0SLXOHoqcGPOsH9RZETtp1) | [Louder](https://open.spotify.com/album/30iuX3rXL5jwbgUJnFUaTf) | 3:02 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gF89fU9TTk.md) - [plain]
 | 58 | [White Noise](https://open.spotify.com/track/1yWVYN2rwLvOF7nusPsGh2) | [CASS](https://open.spotify.com/artist/1pcufq5QrAZE0kBRQS65DM), [Chris Howland](https://open.spotify.com/artist/2wqF6dCN8bQp7TN0eNDSsc) | [White Noise](https://open.spotify.com/album/5jcakBxFg8kZZh4iJynlsP) | 3:47 |
 | 59 | [Wind + Waves](https://open.spotify.com/track/2VhspIZudDKIFjevS5tcWk) | [GALLERY](https://open.spotify.com/artist/0eLzZeagdyYE52ny5kOMrA) | [Wind + Waves](https://open.spotify.com/album/3cbqGBcbTVqrRXiSgaNbAq) | 4:08 |
 | 60 | [Future](https://open.spotify.com/track/51AOKB8pqsRF3YCucahDQ8) | [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [FRVR](https://open.spotify.com/album/4qjKYc6fXywXLvSypwJCkS) | 3:17 |
-| 61 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
-| 62 | [Heartache](https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 3:28 |
+| 61 | [Heartache](https://open.spotify.com/track/2BTcliAvvJroPJVB8hlfV5) | [Local Sound](https://open.spotify.com/artist/2cXyPSMdJcGw3t9yNhwTN2) | [The Free World, Vol\. 1](https://open.spotify.com/album/6JARfJLhC6szyYXRwtiWQg) | 3:28 |
+| 62 | [Candid Heart](https://open.spotify.com/track/138ucy6B7MaoCFhL1wF6TD) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5) | [Candid Heart](https://open.spotify.com/album/57ogRd3akSf4eEcW7LJOyT) | 2:55 |
 | 63 | [Nothing But Good](https://open.spotify.com/track/3u1IVEDaALw9TnOBjXQzTw) | [Chris Quilala](https://open.spotify.com/artist/45HXIkMqrQerbaPuw6FgKD) | [Nothing But Good](https://open.spotify.com/album/2tc8GJQgyDDMMNwLIuRV08) | 3:45 |
 | 64 | [To Get To Me](https://open.spotify.com/track/5NacjulPX2F5e4hh6DESzW) | [Mass Anthem](https://open.spotify.com/artist/0KVR8D2dx5Td8ONhNZRLkM) | [Through People Like Me](https://open.spotify.com/album/2PGA9JQPteU2VQFGiqmADr) | 3:14 |
 | 65 | [Ordinary](https://open.spotify.com/track/2I0r5mF2mwWD26iDO9Ccb7) | [Hannah Kerr](https://open.spotify.com/artist/5FxshnB3eJ2YDn8xN8zDKq) | [Listen More](https://open.spotify.com/album/0uY6DrZnFwosKFvkLXSGQS) | 3:02 |
 | 66 | [More](https://open.spotify.com/track/0qaN2WzhuKAARHaeNjLUW0) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [More](https://open.spotify.com/album/2mGewKlkzqeAld4N3T1lfx) | 5:06 |
 | 67 | [The Blessing \- Reyer Remix](https://open.spotify.com/track/3xfDEpTPumLqOWWc26losd) | [Reyer](https://open.spotify.com/artist/54UJV3OPkBfR4V92nsYs1Z), [Skye Reedy](https://open.spotify.com/artist/5IBA7q2IF0hOuRxdPaG65R) | [Worship: The Remix Project, Vol\. 3](https://open.spotify.com/album/1C6zfthwK3pGTdutkBbPkQ) | 3:56 |
-| 68 | [Surely Now](https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Surely Now](https://open.spotify.com/album/13uEugblOLiVkplBEFgRe4) | 4:48 |
-| 69 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 |
+| 68 | [Fearless](https://open.spotify.com/track/1n55LCkjoh6y2fjIVvxpBx) | [Awaken Music](https://open.spotify.com/artist/1QcT7Zc5PsF36V3cEe7ws9) | [Lionheart](https://open.spotify.com/album/4TViMej5PRGCbWnFsi9hRD) | 4:14 |
+| 69 | [Surely Now](https://open.spotify.com/track/52K1h9IEMQniaGiM56pXNc) | [Rock City Worship](https://open.spotify.com/artist/3yAv8udgy9z6yF6rREcgfB) | [Surely Now](https://open.spotify.com/album/13uEugblOLiVkplBEFgRe4) | 4:48 |
 | 70 | [State Of Mind \- Live](https://open.spotify.com/track/4x92BLwZCXLS5JGvYO6Cbl) | [Equippers Worship](https://open.spotify.com/artist/1eswTstCzVURi1R8PeAmE1), [Equippers Revolution](https://open.spotify.com/artist/5IdnnVVMaJuOjk94FuecAY) | [All Glory \(Live\)](https://open.spotify.com/album/2X1OJLdQgfPa9ioEyFF4jR) | 3:41 |
 | 71 | [Highest Praise](https://open.spotify.com/track/0h13SlJtBTJZvuNNL9GQmM) | [C3LA Music](https://open.spotify.com/artist/2VwsmAPLES2nOaqkg8iKBA) | [Highest Praise](https://open.spotify.com/album/4qzym8XbAyFHXwJkot786Z) | 4:03 |
 | 72 | [Nobody But You \- Live](https://open.spotify.com/track/0i337cf6Iqos7LXeuiUEop) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs) | [Heaven Life \(Live\)](https://open.spotify.com/album/5JRlSur175Jn3M9X6In0HF) | 3:16 |

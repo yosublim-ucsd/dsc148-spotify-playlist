@@ -1,6 +1,6 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1058834,
+  "num_followers": 1058469,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "Tribal Seeds",
-        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
-      },
-      "artists": [
-        {
-          "name": "Tribal Seeds",
-          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
-        }
-      ],
-      "duration_ms": 256453,
-      "name": "Dawn of Time",
-      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "There I Go",
         "url": "https://open.spotify.com/album/4UU8LUYdyjM3oa1UHwKhWI"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 202172,
       "name": "There I Go",
       "url": "https://open.spotify.com/track/5maLNTxNa29qrB1qpBoh6y"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "Tribal Seeds",
+        "url": "https://open.spotify.com/album/6wmbkqwaT1z87mPMKxxhfN"
+      },
+      "artists": [
+        {
+          "name": "Tribal Seeds",
+          "url": "https://open.spotify.com/artist/7jgZFR40bWjwOrRCOZFB02"
+        }
+      ],
+      "duration_ms": 256453,
+      "name": "Dawn of Time",
+      "url": "https://open.spotify.com/track/445qQk3nyQwmjf4vzDghKd"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "If That's Ok",
-        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
-      },
-      "artists": [
-        {
-          "name": "Bo Napoleon",
-          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
-        }
-      ],
-      "duration_ms": 196197,
-      "name": "If That's Ok",
-      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "Sunday Vibe",
         "url": "https://open.spotify.com/album/1MXR7QUUBOwbMGVUqE09pc"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 186760,
       "name": "Sunday Vibe",
       "url": "https://open.spotify.com/track/4tNYuLrlxTb8DSVL3bO9F1"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "If That's Ok",
+        "url": "https://open.spotify.com/album/72axqPlcPenA4cydmu4teu"
+      },
+      "artists": [
+        {
+          "name": "Bo Napoleon",
+          "url": "https://open.spotify.com/artist/2Iso1Lq3OVNEsZNjV20inO"
+        }
+      ],
+      "duration_ms": 196197,
+      "name": "If That's Ok",
+      "url": "https://open.spotify.com/track/7wQ9DeZTB7OJ8rnrxeUHSl"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "Some Say the Ocean (Reggae Remix)",
-        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "Some Say the Ocean - Reggae Remix",
-      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "Take Me Away",
         "url": "https://open.spotify.com/album/0hOipA3CbMzKRfG1DOyiy5"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 151560,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5Cahcx215DE2oK6hemixF4"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "Some Say the Ocean (Reggae Remix)",
+        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "Some Say the Ocean - Reggae Remix",
+      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
+        "name": "Kingdom (with The Movement)",
+        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cosmic",
+          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        }
+      ],
+      "duration_ms": 282323,
+      "name": "Kingdom (with The Movement)",
+      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
         "name": "True Colour",
         "url": "https://open.spotify.com/album/1cyOlB789kiQTJtkkv1Htn"
       },
@@ -1127,26 +1147,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "Kingdom (with The Movement)",
-        "url": "https://open.spotify.com/album/5fFphh4WF4FYahVze4kDFL"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cosmic",
-          "url": "https://open.spotify.com/artist/2vtlgbA3ueA1OowfBPHyLL"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 282323,
-      "name": "Kingdom (with The Movement)",
-      "url": "https://open.spotify.com/track/5K1MRub64kaJOUyWe8marJ"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "Early Prayers",
         "url": "https://open.spotify.com/album/5hLSAVp5bafgKERpi5lWz6"
       },
@@ -1159,26 +1159,6 @@
       "duration_ms": 166400,
       "name": "Bad Seeds",
       "url": "https://open.spotify.com/track/1nAowDnk4GGdV4YsE08wd7"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
-        "name": "Mood Swing",
-        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        },
-        {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
-        }
-      ],
-      "duration_ms": 206829,
-      "name": "Blacklist (with Matisyahu)",
-      "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -1199,6 +1179,26 @@
       "duration_ms": 192492,
       "name": "Open The Door",
       "url": "https://open.spotify.com/track/4TRPafTYREs0Ic97JfcdPo"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "Mood Swing",
+        "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        },
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 206829,
+      "name": "Blacklist (with Matisyahu)",
+      "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "Sounds Of Summer (with Slightly Stoopid)",
-        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
-      },
-      "artists": [
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 221621,
-      "name": "Sounds of Summer (with Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "Too Late (with Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/66wLNcY6lSL4kuvrWr5CIn"
       },
@@ -1355,6 +1335,26 @@
       "duration_ms": 203672,
       "name": "Always Been You",
       "url": "https://open.spotify.com/track/5Yoj2Tr83tfpzTbwR643pa"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "Sounds Of Summer (with Slightly Stoopid)",
+        "url": "https://open.spotify.com/album/58T8hwK2ckoB1IwwbxzAVm"
+      },
+      "artists": [
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 221621,
+      "name": "Sounds of Summer (with Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/3Az8go9U06odZrgjboL8eV"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "Gimme Love",
-        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 231976,
-      "name": "Gimme Love",
-      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "My Wave",
         "url": "https://open.spotify.com/album/44HTufgjuhdq34g3rAu3PD"
       },
@@ -1691,6 +1675,22 @@
       "duration_ms": 205142,
       "name": "Batshit Crazy",
       "url": "https://open.spotify.com/track/1kht76yGOThdMDpp0UKFKW"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "Gimme Love",
+        "url": "https://open.spotify.com/album/1A1VUJcKkq2zEef0OAuEfm"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 231976,
+      "name": "Gimme Love",
+      "url": "https://open.spotify.com/track/0xhHR5lWJCxIYGapEskm7C"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -1787,6 +1787,26 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
+        "name": "If You Want It",
+        "url": "https://open.spotify.com/album/7xgPST4jMt9TWiRBiRRDqd"
+      },
+      "artists": [
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        },
+        {
+          "name": "Alborosie",
+          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
+        }
+      ],
+      "duration_ms": 241306,
+      "name": "If You Want It",
+      "url": "https://open.spotify.com/track/6csv4sjaic4Q3IMgNMEan8"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
         "name": "Constellations (with Moon Taxi) [J-Vibe Remix]",
         "url": "https://open.spotify.com/album/3Azk0rq4VnT5LYRpAKc2V2"
       },
@@ -1811,46 +1831,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "All Her Favorite Songs (with Little Stranger)",
-        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        },
-        {
-          "name": "Little Stranger",
-          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
-        }
-      ],
-      "duration_ms": 214753,
-      "name": "All Her Favorite Songs (with Little Stranger)",
-      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
-        "name": "If You Want It",
-        "url": "https://open.spotify.com/album/7xgPST4jMt9TWiRBiRRDqd"
-      },
-      "artists": [
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        },
-        {
-          "name": "Alborosie",
-          "url": "https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG"
-        }
-      ],
-      "duration_ms": 241306,
-      "name": "If You Want It",
-      "url": "https://open.spotify.com/track/6csv4sjaic4Q3IMgNMEan8"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "Sunburn (with Tropidelic)",
         "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
       },
@@ -1867,6 +1847,26 @@
       "duration_ms": 240435,
       "name": "Sunburn (with Tropidelic)",
       "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "Cali Sober (with Pepper)",
+        "url": "https://open.spotify.com/album/0elh7AGQFQuTi8idHt7TfV"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        },
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        }
+      ],
+      "duration_ms": 210873,
+      "name": "Cali Sober (with Pepper)",
+      "url": "https://open.spotify.com/track/3hqLfzMGBk7XfbLv19g2lF"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -1891,22 +1891,22 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "Cali Sober (with Pepper)",
-        "url": "https://open.spotify.com/album/0elh7AGQFQuTi8idHt7TfV"
+        "name": "All Her Favorite Songs (with Little Stranger)",
+        "url": "https://open.spotify.com/album/3EkYLDuVv4YVW4K3UOFHIG"
       },
       "artists": [
         {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
         },
         {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+          "name": "Little Stranger",
+          "url": "https://open.spotify.com/artist/6nheJ1XoAkaKOLIgHzMbTq"
         }
       ],
-      "duration_ms": 210873,
-      "name": "Cali Sober (with Pepper)",
-      "url": "https://open.spotify.com/track/3hqLfzMGBk7XfbLv19g2lF"
+      "duration_ms": 214753,
+      "name": "All Her Favorite Songs (with Little Stranger)",
+      "url": "https://open.spotify.com/track/26VjX0Mg1DAUTPjfPyhUlm"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -2023,6 +2023,22 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
+        "name": "Good Times (Roll On)",
+        "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
+      },
+      "artists": [
+        {
+          "name": "Fortunate Youth",
+          "url": "https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB"
+        }
+      ],
+      "duration_ms": 225371,
+      "name": "Good Times (Roll On)",
+      "url": "https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/2MibDtCJiyd4PrJLouOYdV"
       },
@@ -2039,22 +2055,6 @@
       "duration_ms": 241870,
       "name": "Nothing Lasts Forever",
       "url": "https://open.spotify.com/track/7qinjgTnynlZGAdq8PCf4p"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
-        "name": "Good Times (Roll On)",
-        "url": "https://open.spotify.com/album/3LtJPCK7WNy3e4c6pI4gQk"
-      },
-      "artists": [
-        {
-          "name": "Fortunate Youth",
-          "url": "https://open.spotify.com/artist/53eTH57OzNJCKOohjcWMoB"
-        }
-      ],
-      "duration_ms": 225371,
-      "name": "Good Times (Roll On)",
-      "url": "https://open.spotify.com/track/0ghN5Z1pNRnSHkMwSzgpck"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
         "name": "This World (with Kabaka Pyramid)",
         "url": "https://open.spotify.com/album/4w2URLpOZQovFHM9SBWtzo"
       },
@@ -2171,22 +2187,6 @@
       "duration_ms": 207106,
       "name": "This World (with Kabaka Pyramid)",
       "url": "https://open.spotify.com/track/5RPFPpOJP3OlTQk2mUPYxA"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
-      },
-      "artists": [
-        {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
-        }
-      ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
     },
     {
       "added_at": "2024-03-05 22:27:05",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2024-03-05 22:27:05",
       "album": {
-        "name": "Fear",
-        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
-      },
-      "artists": [
-        {
-          "name": "Bumpin Uglies",
-          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
-        }
-      ],
-      "duration_ms": 216900,
-      "name": "Fear",
-      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
-    },
-    {
-      "added_at": "2024-03-05 22:27:05",
-      "album": {
         "name": "Shine",
         "url": "https://open.spotify.com/album/0NDHm6f1dH5sVMBo9sYZk5"
       },
@@ -2463,6 +2447,22 @@
       "duration_ms": 186760,
       "name": "Shine",
       "url": "https://open.spotify.com/track/6MJxu3pi5nLCA87DQef9RO"
+    },
+    {
+      "added_at": "2024-03-05 22:27:05",
+      "album": {
+        "name": "Fear",
+        "url": "https://open.spotify.com/album/4mxF6EtrFVnX5PAZJVOpH7"
+      },
+      "artists": [
+        {
+          "name": "Bumpin Uglies",
+          "url": "https://open.spotify.com/artist/2q0PlZJNGryR467EUNmWn7"
+        }
+      ],
+      "duration_ms": 216900,
+      "name": "Fear",
+      "url": "https://open.spotify.com/track/6AzyB4NQxERcKEaVlMA8SJ"
     },
     {
       "added_at": "2024-03-05 22:27:05",

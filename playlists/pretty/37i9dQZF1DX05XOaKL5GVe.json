@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 820671,
+  "num_followers": 821152,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
+        "name": "Amor Amor",
+        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 269266,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -923,22 +939,6 @@
       "duration_ms": 173506,
       "name": "Nada de tu amor",
       "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "Amor Amor",
-        "url": "https://open.spotify.com/album/6ULY5Bnnyu0VbMZY1i6TyJ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 269266,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/3mPsvF84MBbrwj0YEhODQq"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Bienvenido al Club",
-        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
-      },
-      "artists": [
-        {
-          "name": "Dyango",
-          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
-        }
-      ],
-      "duration_ms": 241733,
-      "name": "Por volverte a ver",
-      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Serie 32",
         "url": "https://open.spotify.com/album/2PLljs7FAccVYVySNb0tRo"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 230400,
       "name": "Ver\u00f3nica",
       "url": "https://open.spotify.com/track/0TwbY0aX7jIgJLFXZCUcti"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Bienvenido al Club",
+        "url": "https://open.spotify.com/album/4AtWbdrwpxM0vpKc7X55Rv"
+      },
+      "artists": [
+        {
+          "name": "Dyango",
+          "url": "https://open.spotify.com/artist/0PbO1lSBsJPgyqdEypJJVb"
+        }
+      ],
+      "duration_ms": 241733,
+      "name": "Por volverte a ver",
+      "url": "https://open.spotify.com/track/2FcleEUIUJbhS5Lh6a94Gf"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/2eO8HhZRfGObuy63uxsOMm"
-      },
-      "artists": [
-        {
-          "name": "Carlos Lico",
-          "url": "https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "No",
-      "url": "https://open.spotify.com/track/4b4YBpIEiGsSZ0Y7v8F8DG"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "La Gran Colecci\u00f3n del 60 Aniversario CBS - Manoella Torres",
         "url": "https://open.spotify.com/album/7Hri6gZJ0HGvNoM7pZxPfi"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 192840,
       "name": "A la Que Vive Contigo",
       "url": "https://open.spotify.com/track/5URxTay6Nl0ZAk7jhVexsj"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/2eO8HhZRfGObuy63uxsOMm"
+      },
+      "artists": [
+        {
+          "name": "Carlos Lico",
+          "url": "https://open.spotify.com/artist/3CFnY1i5FrsN9P4B7drTba"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "No",
+      "url": "https://open.spotify.com/track/4b4YBpIEiGsSZ0Y7v8F8DG"
     },
     {
       "added_at": "2021-04-22 14:20:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 19,252 likes - 62 songs - 3 hr 16 min
+[margeaux](https://open.spotify.com/user/1220511975) - 19,258 likes - 63 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,5 +70,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 60 | [My Head Falls Softly](https://open.spotify.com/track/2vWT6FckKmNnsT0IafgQ78) | [Kitty Craft](https://open.spotify.com/artist/5mmXz0LCVnPbgHcZ7KBJlj) | [Catskills](https://open.spotify.com/album/3ZBm3ZogFDZusSwJooRf1c) | 4:23 |
 | 61 | [Evening In Paris](https://open.spotify.com/track/2zHLjLNLmQcxw7aF1FEBE9) | [Lois](https://open.spotify.com/artist/2TPN3wAFNOE6VN1OLNLBwH) | [Strumpet](https://open.spotify.com/album/55qFoYA2utC3qhqmutvSRX) | 2:37 |
 | 62 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:22 |
+| 63 | [Sidelines](https://open.spotify.com/track/4mMviz9DJKLPyfhxpQIBcW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Sandhills](https://open.spotify.com/album/1ZTd9cM6FPWW4ZP0qUwhpF) | 3:25 |
 
-Snapshot ID: `MjYzMiw0YjhkMjc3YWY3ZjFiZDQ4NmUwODUzYzU1OGY2M2MzNWEwOWUxZGQw`
+Snapshot ID: `MjYzMyxlYWVjOTA0YjIyNDY5NTE4YjZmYjAzODc2YWEzYjg5MWM0MzQ0MmM2`

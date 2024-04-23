@@ -4,7 +4,7 @@
 
 > Las favoritas de los patrones\. Régulo Caro, Noel Torres en portada.
 
-120 songs - 6 hr 23 min
+121 songs - 6 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,7 +82,7 @@
 | [Guerreros Aztecas](https://open.spotify.com/track/2BKTRdo32SFyNrDjcHgVFW) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Guerreros Aztecas](https://open.spotify.com/album/2C8J91k1UfZpeONBHE6UTi) | 3:53 | 2024-01-26 |  |
 | [Haganse A Un Lado](https://open.spotify.com/track/5qbQNw7iaPJPnhN4gyGjoX) | [Legion RG](https://open.spotify.com/artist/0V10XqRWsn8EGBwzCVAE7V), [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Haganse A Un Lado](https://open.spotify.com/album/4VdIVXUaq3lQGNJSJiyO2B) | 2:36 | 2024-01-26 |  |
 | [Ismael Pa’ Servirle](https://open.spotify.com/track/1c1R6tiqHwigD1Ga5NmxRc) | [Panter Bélico](https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS) | [De Buena Cepa](https://open.spotify.com/album/5RaWce1eYSrhoRMrfi6s7B) | 3:44 | 2024-01-26 |  |
-| [Jardines Del Humaya](https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Jardines Del Humaya](https://open.spotify.com/album/2dGIIbRg2yOR6rShg9a6v9) | 3:34 | 2024-02-23 |  |
+| [Jardines Del Humaya](https://open.spotify.com/track/6Y2YCIxmUuzuDTScVJF2WK) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD) | [Jardines Del Humaya](https://open.spotify.com/album/2dGIIbRg2yOR6rShg9a6v9) | 3:34 | 2024-02-23 | 2024-04-23 |
 | [Jefe Fresa](https://open.spotify.com/track/622wRHgPbt3AxTlFkWqJKw) | [Nicolas Garcia](https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD) | [Jefe Fresa](https://open.spotify.com/album/19v2pWaZC9EN3H4xdmAl8P) | 3:13 | 2024-02-23 |  |
 | [Jerry](https://open.spotify.com/track/1TkUSV7ycq4p1f5TFlwL0E) | [Grupo Mente Maestra](https://open.spotify.com/artist/7fReOInDdj4876IaRNzHC2) | [Chica La Bola](https://open.spotify.com/album/6pz7JlLWATx66x7CXqrHzQ) | 3:02 | 2024-01-26 |  |
 | [Kikil Caro](https://open.spotify.com/track/1hhKgDJ6LNHdUyyowg8EZX) | [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [Mi Guitarra Y Yo](https://open.spotify.com/album/5RzfxZNDUrlruKHo1kYGq1) | 3:35 | 2024-01-26 | 2024-02-07 |
@@ -96,6 +96,7 @@
 | [La Firma del Flaquito](https://open.spotify.com/track/5GfpRloodPPJPbivrI5qZa) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [La Firma del Flaquito](https://open.spotify.com/album/6nYtatxhdFZ78HqdWVr3n3) | 3:51 | 2024-01-26 |  |
 | [La Letra Muda](https://open.spotify.com/track/21SjBArMTAwBFUtWmFlpAO) | [Miguel Comando](https://open.spotify.com/artist/25RePYVNbbmWn4IuJoxxvm) | [La Letra Muda](https://open.spotify.com/album/5VM6PVwdQRTbTfxtWLMW0U) | 4:43 | 2024-02-09 | 2024-02-24 |
 | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/track/1oZqJaE23GEn4SOFQcnTPB) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [La Tierra del Corrido \- Spotify Singles](https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW) | 3:31 | 2024-01-26 |  |
+| [La Urus](https://open.spotify.com/track/7d6KZoWfcTMOtFfGIAqfgW) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [Luis Caballero](https://open.spotify.com/artist/78gQ9SOeRSFAQkX8BsB6jc) | [La Urus](https://open.spotify.com/album/0H98bXDW6LhHP9kbvy76eS) | 2:59 | 2024-04-12 |  |
 | [Los Brothers](https://open.spotify.com/track/1iB1sVaGDfCbhB3syfoZ7J) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers](https://open.spotify.com/album/0NKBG5glYWs0ephhtBH2YH) | 3:33 | 2024-01-26 |  |
 | [Los Brothers \(09/19\)](https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA) | [Beto Vega](https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak), [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [Los Brothers \(09/19\)](https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI) | 3:36 | 2024-02-09 |  |
 | [Los Dos de Guerrero](https://open.spotify.com/track/3nWOT3lpdDpzNwA9nqY01v) | [Los Alegres Del Barranco](https://open.spotify.com/artist/2TSslwx9J30KElgEr68sdv) | [Los Dos de Guerrero](https://open.spotify.com/album/334ZGuyUYVu3bNXB2h6xAS) | 3:27 | 2024-03-01 |  |

@@ -729,6 +729,24 @@
     },
     {
       "album": {
+        "name": "You Will Never Know Why",
+        "url": "https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M"
+      },
+      "artists": [
+        {
+          "name": "Sweet Trip",
+          "url": "https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 425946,
+      "name": "Acting",
+      "url": "https://open.spotify.com/track/2IwL0fwckPbO9sau1EHslH"
+    },
+    {
+      "album": {
         "name": "Stuck In My Ways",
         "url": "https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ"
       },
@@ -2322,6 +2340,24 @@
       "duration_ms": 156880,
       "name": "Child (feat. Moneybagg Yo)",
       "url": "https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6"
+    },
+    {
+      "album": {
+        "name": "TOTEP",
+        "url": "https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv"
+      },
+      "artists": [
+        {
+          "name": "Kero Kero Bonito",
+          "url": "https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126306,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231"
     },
     {
       "album": {

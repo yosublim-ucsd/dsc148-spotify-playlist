@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSAm0NxvFu7q.md) - [plain]
 
 > recent trending tracks in rock/alt/metal/punk \| Cover: Deftones
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,660 likes - 46 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,790 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

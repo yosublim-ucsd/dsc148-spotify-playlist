@@ -553,6 +553,24 @@
     },
     {
       "album": {
+        "name": "color & monochrome 2",
+        "url": "https://open.spotify.com/album/2rW7wndjnbsuzs8fniLPOW"
+      },
+      "artists": [
+        {
+          "name": "bohemianvoodoo",
+          "url": "https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS"
+        }
+      ],
+      "date_added": "2024-02-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318240,
+      "name": "Golden Forest",
+      "url": "https://open.spotify.com/track/6gjdgW06BMrSmdSmp7pvBJ"
+    },
+    {
+      "album": {
         "name": "WAVE",
         "url": "https://open.spotify.com/album/3oJNisRS39JpmBEmmL3X2B"
       },
@@ -1110,7 +1128,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 249833,
       "name": "Sakura Flutter",
       "url": "https://open.spotify.com/track/4rDkASpLUTgBKumIkJkZ6c"

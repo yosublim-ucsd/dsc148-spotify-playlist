@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M9QH5CEPdtif778LoMbQ5">Emily Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,272 likes - 156 songs - 8 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,273 likes - 156 songs - 8 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 32 | [My Type](https://open.spotify.com/track/6V9kwssTrwkKT72imgowj9) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:37 |
 | 33 | [Recess](https://open.spotify.com/track/1QtpKRXtJZSdJp3Y299zkQ) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 3:50 |
 | 34 | [Twenty One](https://open.spotify.com/track/1NgCWYuBLfqBDA3b8MgSVU) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 3:04 |
-| 35 | [Don't Say](https://open.spotify.com/track/1pJQAHpD51J7GYaFrrFO9S) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:48 |
-| 36 | [If You See Her](https://open.spotify.com/track/3coUcc0CDAHz2QwdP7Pee8) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:02 |
+| 35 | [If You See Her](https://open.spotify.com/track/3coUcc0CDAHz2QwdP7Pee8) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Malibu Nights](https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za) | 3:02 |
+| 36 | [Don't Say](https://open.spotify.com/track/1pJQAHpD51J7GYaFrrFO9S) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Memories...Do Not Open](https://open.spotify.com/album/4JPguzRps3kuWDD5GS6oXr) | 3:48 |
 | 37 | [High Five](https://open.spotify.com/track/1oIWorI4t6H6Dv2hU5fEH8) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [How To Let Go](https://open.spotify.com/album/35sqv4Shi0QN4U779xvwMY) | 2:49 |
 | 38 | [Strings](https://open.spotify.com/track/0mpoTyTHBE41RIc89l7QOM) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Handwritten \(Deluxe\)](https://open.spotify.com/album/3Qv3N62b2EXxvMLwFURoFj) | 3:10 |
 | 39 | [Alive](https://open.spotify.com/track/12VqHHz4wvVcnEdSivjLeQ) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Free Spirit](https://open.spotify.com/album/6KT8x5oqZJl9CcnM66hddo) | 2:57 |
@@ -165,4 +165,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFydlfzzV2YtL.md) - [plain]
 | 155 | [Like That](https://open.spotify.com/track/0jFF83NzwA74b6xmTkqT0U) | [Emily Warren](https://open.spotify.com/artist/1oKdM70mJD8VvDOTKeS8t1) | [Quiet Your Mind](https://open.spotify.com/album/1JF4Z5tni5oFJF6a7bEgOk) | 3:17 |
 | 156 | [Break The Silence](https://open.spotify.com/track/29HAzOVnX3947Az2RAsEfE) | [Richard Stirton](https://open.spotify.com/artist/0UW24U271lz9qy3Z19EuvB) | [Middle Ground](https://open.spotify.com/album/6Y15hurwzN1gMLTv4eAQNy) | 3:31 |
 
-Snapshot ID: `Mjg1NjI1OTQsMDAwMDAwMDBhYTY4Y2VjOWVkMGFmMzFiM2FmYjI2ZTM1M2Y4YjZiYQ==`
+Snapshot ID: `Mjg1NjQwMzQsMDAwMDAwMDBhNGZhZjM1MTVhYzljMWE3ZGU4NTNmZGMxNDczYjc2MQ==`

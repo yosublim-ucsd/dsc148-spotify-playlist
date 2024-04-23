@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 942,688 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,629 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 46 | [choque térmico \- ao vivo](https://open.spotify.com/track/159ntSAEWJ9zIMOSXmQ530) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [VIVA \(Ao Vivo\)](https://open.spotify.com/album/1n4L6uxvbs8n1hnXI2WOTR) | 3:00 |
 | 47 | [Com ou Sem Mim \- Ao Vivo](https://open.spotify.com/track/2BU6XXSG8SqiptRuj6EiLA) | [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Com ou Sem Mim \(Ao Vivo\)](https://open.spotify.com/album/17SPskG8HKXZ9kAYzMYz7r) | 3:21 |
 | 48 | [Algo Mais \(Amante\) \- Ao Vivo](https://open.spotify.com/track/4jGzR5Vri06Y5T9SxM7m5P) | [Xand Avião](https://open.spotify.com/artist/43DRDu6nLSeIedZ7T1A616), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Errejota \(ao Vivo\)](https://open.spotify.com/album/4M7Y8n5FAOrrruH2ewe04k) | 3:51 |
-| 49 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |
-| 50 | [A Gente Fez Amor \- Ao Vivo](https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:57 |
+| 49 | [A Gente Fez Amor \- Ao Vivo](https://open.spotify.com/track/3tv697PZNnaQN0Mn2zGhS5) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [O Embaixador in Cariri \(Ao Vivo\)](https://open.spotify.com/album/17jzAujoXwIF60ojew1yHU) | 3:57 |
+| 50 | [Deus Me Livre Quem Me Dera](https://open.spotify.com/track/4b08wlmxdHRHS1jLS4wcmd) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Onde a Saudade Mora](https://open.spotify.com/album/5LoGOcXly2sSKTHyiy35IN) | 2:03 |
 
 Snapshot ID: `MTcxMDQ1MDE5NCwwMDAwMDAwMDVlNTZjYjFlNGM1YzI1YTY5YjA4NWNkYWZmMzczNWQy`

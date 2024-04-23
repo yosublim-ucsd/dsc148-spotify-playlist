@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 32458,
+  "num_followers": 32480,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzU3MTIwMCwwMDAwMDAwMGM0MzUzNjAyZTdjNGNjMzJhYjU5YjEyMjQ2NDJmNGRj",
+  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDQyN2Q3NWU1ZjZkYjFkZmUyYTlmYjNjM2FlZDZkZmRk",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bambas & Biritas, Vol. 1",
+        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
+      },
+      "artists": [
+        {
+          "name": "BiD",
+          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        },
+        {
+          "name": "DJ Soul Slinger",
+          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
+        }
+      ],
+      "duration_ms": 307253,
+      "name": "Na Noite Se Resolve",
+      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rael Convida: Black Alien (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
       },
@@ -623,30 +647,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bambas & Biritas, Vol. 1",
-        "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
-      },
-      "artists": [
-        {
-          "name": "BiD",
-          "url": "https://open.spotify.com/artist/1kDJFTg4KHIPymr1A6Vylm"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        },
-        {
-          "name": "DJ Soul Slinger",
-          "url": "https://open.spotify.com/artist/4RKAJGm9w3JKTRiSTNK3N7"
-        }
-      ],
-      "duration_ms": 307253,
-      "name": "Na Noite Se Resolve",
-      "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Princi\u0301pio Era o Verbo - Babylon by Gus, Vol. II",
         "url": "https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN"
       },
@@ -659,26 +659,6 @@
       "duration_ms": 212725,
       "name": "Homem de Fam\u00edlia",
       "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 241653,
-      "name": "Terra - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T"
     },
     {
       "added_at": null,
@@ -703,6 +683,26 @@
       "duration_ms": 214187,
       "name": "Black Belt (feat. Black Alien & Bi Ribeiro)",
       "url": "https://open.spotify.com/track/2UtZyVQIghFcIvm1MxpRd6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 241653,
+      "name": "Terra - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T"
     },
     {
       "added_at": null,

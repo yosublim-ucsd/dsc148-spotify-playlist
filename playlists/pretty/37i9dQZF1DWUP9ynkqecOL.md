@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 
 > Una mixtura de bombos, charangos y beats con los pies en la tierra y la mirada en el futuro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,999 likes - 80 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,005 likes - 80 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUP9ynkqecOL.md) - [plain]
 | 18 | [Tepuy \- Original MIx](https://open.spotify.com/track/5PQkG8omxAwUbQiJ7ZXy45) | [Rodrigo Gallardo](https://open.spotify.com/artist/3fxdn6mfKvNFJ1Zx37On7W), [Intiche](https://open.spotify.com/artist/3YBTIccVS6dNVTYtMxBWli), [Timpana](https://open.spotify.com/artist/1nYg4Ok9KOudPQHXD6NmE0) | [Tepuy](https://open.spotify.com/album/35IAdhkuG1zLf8YdYElLSk) | 4:03 |
 | 19 | [La Colina de la Vida \(feat\. Chancha Vía Circuito\)](https://open.spotify.com/track/5DyGxCgbGoU5CrR2z2nPGv) | [La Charo](https://open.spotify.com/artist/4kAM3B6DtYL1GZVIHBglKK), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Legado](https://open.spotify.com/album/6lItDdeuBLNfEMECUKBmDU) | 4:11 |
 | 20 | [Susurro \- Matanza Remix](https://open.spotify.com/track/5bFlyscIrMH8dotRFFRWYj) | [Matanza](https://open.spotify.com/artist/4nZIpprPGQmOEECVZ8VDIT), [Quilapayún](https://open.spotify.com/artist/76sZcEL2ZXBTqNeFJAhlup) | [Susurro \(Matanza Remix\)](https://open.spotify.com/album/66ZuMPXE9UbE2WBnp3hwWD) | 5:02 |
-| 21 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
+| 21 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 |
 | 22 | [Antiguos Dueños de las Flechas](https://open.spotify.com/track/0z3RxsjWuo7lXrbLxE9Vmp) | [Tonolec](https://open.spotify.com/artist/5Uy8OMbe8iXQFXQ3qlaYT5) | [Tonolec](https://open.spotify.com/album/0uR0X0oiILxnxDauNaqKzc) | 4:24 |
-| 23 | [Yemanja \- Chancha Via Circuito Remix](https://open.spotify.com/track/5XnHIYpmHGYRhWP7n0ejs1) | [Paloma del Cerro](https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Yemanja \(Chancha Via Circuito Remix\)](https://open.spotify.com/album/3IsYqHiAk8RYJUAweNQ1tY) | 4:18 |
+| 23 | [Bailarin](https://open.spotify.com/track/0XXlVWCqh8fnRoaCh4N5Cz) | [La Yegros](https://open.spotify.com/artist/4TkLUhcEmk9Wod6RcEVAi7) | [Bailarin](https://open.spotify.com/album/5QFdKP0OGBl7qURpRuM3Od) | 3:37 |
 | 24 | [Arriba Quemando el Sol](https://open.spotify.com/track/2LFlxAk2x9Ig2zTn6DS2Kw) | [Nación Ekeko](https://open.spotify.com/artist/5sNieaixWfKFosseXlWOym), [Maryta de Humahuaca](https://open.spotify.com/artist/4X9hWSS0vB7GeWRCtDejYc) | [Arriba Quemando el Sol](https://open.spotify.com/album/51ukHKGp7EGzxkZx34B0Dv) | 3:28 |
 | 25 | [Nave](https://open.spotify.com/track/5wqzEPhRWWigTQJRNLUjxU) | [Cocaibica](https://open.spotify.com/artist/5yhCi2fUWjkXNOCC4U1LUY), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Nave](https://open.spotify.com/album/0ivIf2sYHxEz1grqb26QfR) | 3:09 |
 | 26 | [Noche \- Remix](https://open.spotify.com/track/11C0KSr18vSPcaRbyEHYqt) | [Bosquemar](https://open.spotify.com/artist/6GG1iBZgzl6OlPpfY7hyPY) | [Dia Y Noche](https://open.spotify.com/album/1BSgy4al4tS7Wyckk7a8Yv) | 7:05 |

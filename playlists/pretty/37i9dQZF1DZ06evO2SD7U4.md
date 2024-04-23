@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 
 > This is Botellita De Jerez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,753 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,752 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 | 12 | [De Tripas Cuajo Y Corazon](https://open.spotify.com/track/5G6yMRyuN38MnnHgeD0ayZ) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 2:48 |
 | 13 | [Caite Cadáver](https://open.spotify.com/track/0L1btFPdhszdNSH00pILro) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 2:23 |
 | 14 | [Heavy Metro](https://open.spotify.com/track/6X4AiGfwsNohgMbSrD0tXA) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 2:37 |
-| 15 | [Laberinto de la Soledad](https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:14 |
+| 15 | [Ropavejero](https://open.spotify.com/track/3mmGGzpcDHkQ3xNFGy29Qr) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 4:25 |
 | 16 | [Oh, Denny's](https://open.spotify.com/track/2e10uppA5P9X6gMWhY02A9) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 5:12 |
 | 17 | [Ton´s Que Mi Reina](https://open.spotify.com/track/1a0PheKw63o5te70iI4uD0) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 3:29 |
 | 18 | [Oh Dennis](https://open.spotify.com/track/6IuDGQx94luOJpJ5f1Z8us) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 3:19 |
-| 19 | [Ropavejero](https://open.spotify.com/track/3mmGGzpcDHkQ3xNFGy29Qr) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 4:25 |
+| 19 | [Laberinto de la Soledad](https://open.spotify.com/track/1qilssmXFoyUuQxA20dpAB) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:14 |
 | 20 | [A Qué Hora Sales al Pan? \(Ton's Qué Mi Reina\)](https://open.spotify.com/track/6IjnQgJWxRUExDqUcgHKDs) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Superespecial De Botellita de Jerez Acústico Semi \- Desenchufado en Vivo un Plug](https://open.spotify.com/album/4lIYlrkQAGs8PtFP9TNUuA) | 5:20 |
 | 21 | [Busca Amor](https://open.spotify.com/track/0zE9OCKsW0KsxSF7PXiWzJ) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Busca Amor](https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7) | 3:11 |
 | 22 | [San Jorge Y El Dragon](https://open.spotify.com/track/5aPJSGuxgdVqXjUNs2dX4n) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Botellita De Jerez](https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg) | 3:39 |
@@ -44,19 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2SD7U4.md) - [plain]
 | 34 | [Guarda Mi Corazon](https://open.spotify.com/track/2jHLJSxPeTH7sTQwIgF4Cd) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Lo Pior Del Estuche De Peluche](https://open.spotify.com/album/0kyCl9EeEJJeg1D2YFxSvS) | 4:26 |
 | 35 | [Chichis Pa la Banda](https://open.spotify.com/track/7pJfggsvXBnvvtPHyhDy8O) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 1:31 |
 | 36 | [Guaca Rocker](https://open.spotify.com/track/3lgoiNLqXfykqFZzBLHs1r) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:00 |
-| 37 | [Vete Al Averno](https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Singles](https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF) | 4:17 |
-| 38 | [Cancion Para Un Armaño](https://open.spotify.com/track/1BaFuldYAV0jxVdWFPaCIO) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 2:27 |
+| 37 | [Cancion Para Un Armaño](https://open.spotify.com/track/1BaFuldYAV0jxVdWFPaCIO) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 2:27 |
+| 38 | [Vete Al Averno](https://open.spotify.com/track/0FEtNfXErt5haCQc4KjYKC) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Singles](https://open.spotify.com/album/5q54omEW1Ko4xPvxlTO9GF) | 4:17 |
 | 39 | [Domingo, Mi Vida](https://open.spotify.com/track/7gkibpWBSlSKnsR2mo0K1v) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 4:13 |
 | 40 | [Carefoca´s Swing](https://open.spotify.com/track/2ITjRXPgv8VnhSL7vLa2r2) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 0:40 |
-| 41 | [El Chin Pun Cuaz](https://open.spotify.com/track/4huuYKuzBzWDFXWhbDdUyV) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 3:33 |
-| 42 | [¡Que Se Acaben Los Guapos!](https://open.spotify.com/track/4OMF4unx7V16o87gijklQd) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:06 |
+| 41 | [¡Que Se Acaben Los Guapos!](https://open.spotify.com/track/4OMF4unx7V16o87gijklQd) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:06 |
+| 42 | [La Valona de la Conquista](https://open.spotify.com/track/4HDDb63OphLhe87KxZ61SS) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Forjando Patria](https://open.spotify.com/album/0YSBhmwpyfCPjuAEoOyV7L) | 6:10 |
 | 43 | [Dulce Amor](https://open.spotify.com/track/1wI5VG3kxOyJ5yZwMIpUIy) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Busca Amor](https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7) | 3:00 |
 | 44 | [Todos Tienen Tortita](https://open.spotify.com/track/6Rg2QlImRoCwfVfYATRVAI) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Naco Es Chido](https://open.spotify.com/album/0ewIlyP07glFK4N55igHHl) | 3:33 |
-| 45 | [El Guacarock Del Santo \- En Vivo](https://open.spotify.com/track/7hp8sc6Pw7uhWxcYnFJOCN) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 3:37 |
-| 46 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 |
+| 45 | [La Calaca](https://open.spotify.com/track/0mEOv7YRL877hbe9Xazu3y) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 3:25 |
+| 46 | [El Guacarock Del Santo \- En Vivo](https://open.spotify.com/track/7hp8sc6Pw7uhWxcYnFJOCN) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [El Último Guacarrock \(En Vivo\)](https://open.spotify.com/album/1GlSNF3HV9bp4bWmIB1cYA) | 3:37 |
 | 47 | [Tiburón A La Vista](https://open.spotify.com/track/05YPPPyLrIkuwkjqYPf8Tm) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Busca Amor](https://open.spotify.com/album/1YEE9L8LyNt1dC13rf5HX7) | 3:05 |
 | 48 | [Negro´s Blues](https://open.spotify.com/track/1E94KQQkNKaGHXGYwoAWO8) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 5:33 |
 | 49 | [\#43](https://open.spotify.com/track/3zfKRXybTgMrnpIqzBDtYi) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [\#Nopinchesmames](https://open.spotify.com/album/0f7hbtdhG4rW5xNydzad7d) | 2:39 |
-| 50 | [La Sorpresa](https://open.spotify.com/track/4xIX8bh2MEE1QkGk1sbWxf) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [La Venganza Del Hijo Del Guacarock](https://open.spotify.com/album/5e3ueyxtyk8MbLRXWL7PCn) | 2:54 |
+| 50 | [El Muchacho Asfáltico](https://open.spotify.com/track/4zv3VW5WYh2FtJCQrDDPoB) | [Botellita De Jerez](https://open.spotify.com/artist/4Uj1AIKANgEZWS7y3cDIjC) | [Niña De Mis Ojos](https://open.spotify.com/album/6UAzrDt8X6ANfGsKfj6nHp) | 2:27 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMDJmOGU0ZTQ2MWFjNDdlYzdmNjdhYmM4ODM0N2VlZWFk`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDA0MjMxNzgwNGU3MjUzNjI5MWIxZjNkMDYxZjY2NzJi`

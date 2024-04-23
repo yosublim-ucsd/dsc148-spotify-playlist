@@ -4,7 +4,7 @@
 
 > 
 
-663 songs - 1 day 7 hr 21 min
+665 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [A&W](https://open.spotify.com/track/5nW4z3pfZgJAJ2QTCz9AIE) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 7:13 | 2024-03-04 |  |
 | [Accidental Shit Talking 2](https://open.spotify.com/track/3YhnPlbJSF44AOLAR0wKtq) | [Rio Da Yung Og](https://open.spotify.com/artist/6O1vRHWVGKJTnWuJmItnsx) | [Accidental Shit Talkin](https://open.spotify.com/album/78afHDRK6o8rRLNDpQlCk4) | 1:56 | 2023-01-16 | 2023-05-09 |
 | [Acid Rain](https://open.spotify.com/track/0yLsJKNJHmSnmSGl3ZodYn) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/2VBcztE58pBKjIDS5oEgFh) | 3:36 | 2022-12-29 | 2023-04-12 |
+| [Acting](https://open.spotify.com/track/2IwL0fwckPbO9sau1EHslH) | [Sweet Trip](https://open.spotify.com/artist/5NtMqQLCzdVvL7F8vFp3zM) | [You Will Never Know Why](https://open.spotify.com/album/78lIjVFQSSRqO47Pvw1b9M) | 7:05 | 2024-04-22 |  |
 | [Addy Geek](https://open.spotify.com/track/5YfRQ05Bn7aqQrbNI6NAO2) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 1:45 | 2023-01-27 | 2023-04-24 |
 | [AEAO](https://open.spotify.com/track/76CSfZPziwSi9hsSkIVTyw) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7) | [A Giant Step](https://open.spotify.com/album/1CM4OSWGFBFKb5FigEchJB) | 5:16 | 2023-06-24 | 2023-12-14 |
 | [Ahora Que Te Vayas](https://open.spotify.com/track/3uhLSQbKNbbBh6gm47pd2X) | [Trio Los Jaibos](https://open.spotify.com/artist/5SVbx6F5ArKll70amV3lv7) | [Trio Los Jaibos](https://open.spotify.com/album/04djFIjUp5N8BZGihJAaoM) | 2:48 | 2024-02-14 |  |
@@ -126,6 +127,7 @@
 | [Cheat Code \(No Depot\)](https://open.spotify.com/track/2lSA6cClf7t810h84yg756) | [F3GA](https://open.spotify.com/artist/1aYNbH4PFBfcbEvuvHDMkf) | [Cheat Code \(No Depot\)](https://open.spotify.com/album/67ffzSzQAXheEWJaW9tGPK) | 1:58 | 2023-04-05 | 2023-12-14 |
 | [Chess Players \(feat\. DaBoii\)](https://open.spotify.com/track/6V6fObNpllxOL1edp0i7uY) | [BabyTron](https://open.spotify.com/artist/0sKsReKseslDlhxmbN6wLk), [DaBoii](https://open.spotify.com/artist/1R4jDezcLcFxrJ9PHNrbG0) | [Megatron](https://open.spotify.com/album/02OJapNdO1Dd4sGCbKVSiX) | 2:11 | 2022-08-25 |  |
 | [Child \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/4hyETm3W2ie4D0kFH0tMQ6) | [Lil Keed](https://open.spotify.com/artist/3uJx5SnOM59Li7lCxA3b29), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Long Live Mexico](https://open.spotify.com/album/3JDiBSlLalqzv0GTEDRi8i) | 2:36 | 2023-12-27 | 2024-03-05 |
+| [Cinema](https://open.spotify.com/track/5Xjh7Ew2mqrajmvTTZN231) | [Kero Kero Bonito](https://open.spotify.com/artist/6OqhFYFJDnBBHas02HopPT) | [TOTEP](https://open.spotify.com/album/1JRe4BK6irt43VvOESllLv) | 2:06 | 2024-04-23 |  |
 | [clap](https://open.spotify.com/track/28EZNysBMBi2VXMZJhJ5by) | [Jerm](https://open.spotify.com/artist/5JSpdSi1RHQ3KgNovJBJhF), [Texako](https://open.spotify.com/artist/23tAJ7sIqmvk4AIdECYTdg), [Lawsy](https://open.spotify.com/artist/4uhLYYGnG9XAH7gW0VXj9f) | [plugg!](https://open.spotify.com/album/0vLpff8oFPiZxqBOxbGsEV) | 3:21 | 2022-12-21 | 2023-05-09 |
 | [Clear](https://open.spotify.com/track/5KMRIyeFdvQM6WbVQlT8FB) | [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b) | [I Rest My Case](https://open.spotify.com/album/3qQj92jS1nXAXBubXFooJU) | 2:30 | 2023-01-06 | 2023-03-21 |
 | [Closing The Book](https://open.spotify.com/track/6ApgXre9x2tVCzuwPPdZ0o) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [Stuck In My Ways](https://open.spotify.com/album/7k5bmAoPq33iRid9vvK4aQ) | 2:07 | 2023-01-27 | 2023-04-24 |

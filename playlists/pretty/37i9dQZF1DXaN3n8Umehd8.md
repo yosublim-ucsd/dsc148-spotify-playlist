@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > Cárgate de energia con el eclipse solar
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,959 likes - 45 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,995 likes - 45 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

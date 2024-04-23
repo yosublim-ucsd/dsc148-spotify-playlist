@@ -1,6 +1,6 @@
 {
   "description": "Pronto pra pool party? Vem com a gente!",
-  "num_followers": 337518,
+  "num_followers": 337196,
   "original_name": "Festa na Piscina",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Saudade N\u00edvel Hard",
+        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
+      },
+      "artists": [
+        {
+          "name": "Yasmin Santos",
+          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Saudade N\u00edvel Hard",
+      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "TOMA",
         "url": "https://open.spotify.com/album/2VM6JEz2ES0Yn6nLMDd5c3"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 129654,
       "name": "TOMA",
       "url": "https://open.spotify.com/track/7pDcS0EVMJR0YwjXmHcCRg"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Saudade N\u00edvel Hard",
-        "url": "https://open.spotify.com/album/3IcSLQztms4Fu55HXI7Tye"
-      },
-      "artists": [
-        {
-          "name": "Yasmin Santos",
-          "url": "https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz"
-        }
-      ],
-      "duration_ms": 181846,
-      "name": "Saudade N\u00edvel Hard",
-      "url": "https://open.spotify.com/track/2dmGj5Nf01FcR6N4HPzAbL"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -435,8 +435,8 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
+        "name": "Terremoto",
+        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
       },
       "artists": [
         {
@@ -444,13 +444,13 @@
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
         }
       ],
-      "duration_ms": 206270,
-      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
-      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
+      "duration_ms": 146276,
+      "name": "Terremoto",
+      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -563,8 +563,8 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
-        "name": "Terremoto",
-        "url": "https://open.spotify.com/album/7q0BEiH1SJeiPDW8xQ0v8i"
+        "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+        "url": "https://open.spotify.com/album/79GzhuqPAz4gohzwmFDK6b"
       },
       "artists": [
         {
@@ -572,13 +572,13 @@
           "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         },
         {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
         }
       ],
-      "duration_ms": 146276,
-      "name": "Terremoto",
-      "url": "https://open.spotify.com/track/7G2XZhDNHo7SSDWSVxC0UT"
+      "duration_ms": 206270,
+      "name": "Sim ou n\u00e3o (Participa\u00e7\u00e3o especial de Maluma)",
+      "url": "https://open.spotify.com/track/4FxumkF81ICxITeqxx4nK9"
     },
     {
       "added_at": "2023-01-17 01:33:36",
@@ -747,6 +747,22 @@
     {
       "added_at": "2023-01-17 01:33:36",
       "album": {
+        "name": "Devagarinho",
+        "url": "https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd"
+      },
+      "artists": [
+        {
+          "name": "Delano",
+          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
+        }
+      ],
+      "duration_ms": 144222,
+      "name": "Devagarinho",
+      "url": "https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg"
+    },
+    {
+      "added_at": "2023-01-17 01:33:36",
+      "album": {
         "name": "Quem Me Dera",
         "url": "https://open.spotify.com/album/4dnvHZqul9z0csYtnHcHw7"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 147990,
       "name": "Quem Me Dera",
       "url": "https://open.spotify.com/track/29dRTbLTxRaSl63DIzbjvl"
-    },
-    {
-      "added_at": "2023-01-17 01:33:36",
-      "album": {
-        "name": "Devagarinho",
-        "url": "https://open.spotify.com/album/2zwaFYibcoqD1IQpZOJttd"
-      },
-      "artists": [
-        {
-          "name": "Delano",
-          "url": "https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn"
-        }
-      ],
-      "duration_ms": 144222,
-      "name": "Devagarinho",
-      "url": "https://open.spotify.com/track/70rCH90CeRGzCrVr4fSbqg"
     },
     {
       "added_at": "2023-01-17 01:33:36",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 
 > I love my girlfriend
 
-[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 67 songs - 3 hr 43 min
+[ella <3](https://open.spotify.com/user/x_schmidt_x) - 1 like - 68 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,5 +75,6 @@ pretty - [cumulative](/playlists/cumulative/4KuhKX5BfxcftWvCAVk1Vu.md) - [plain]
 | 65 | [Sagittarius Superstar](https://open.spotify.com/track/4E3JYij2hnEDDP0Rgwikq6) | [COIN](https://open.spotify.com/artist/0ZxZlO7oWCSYMXhehpyMvE), [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Rainbow Mixtape](https://open.spotify.com/album/613bOWrR3cRPNC3fDwhXQL) | 2:53 |
 | 66 | [All Your'n](https://open.spotify.com/track/0fCwTrRNfoNk962ati8n2K) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Country Squire](https://open.spotify.com/album/2T9P5dSm786uuxA5tkI1Xb) | 3:38 |
 | 67 | [Strawberries](https://open.spotify.com/track/0ESvfrHfNuAtkZp8SMJBOY) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [Boys \(Side B\)](https://open.spotify.com/album/0FpgHDHjnDWxVk48Eff0wE) | 3:39 |
+| 68 | [Peach Fuzz](https://open.spotify.com/track/4eAC7BMiGocHOAnZYxWTjc) | [Caamp](https://open.spotify.com/artist/0wyMPXGfOuQzNR54ujR9Ix) | [By and By](https://open.spotify.com/album/1wohWQ8y4RpdANgxZDa4MF) | 3:44 |
 
-Snapshot ID: `OTUsNWE4YzI5ZDU0ZTQwMDI1OWEyNzlkM2U3NThlZDJlMjZkNGMyZmY0NA==`
+Snapshot ID: `OTYsZWE3YTU0MDQ1NDA5OTFjN2U5YmJjOTdiNTZkMzJhMDFmNGE1NjJiMw==`

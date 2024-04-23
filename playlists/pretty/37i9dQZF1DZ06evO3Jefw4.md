@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 
 > This is Katy Perry\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,151,751 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,151,363 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Jefw4.md) - [plain]
 | 38 | [Teenage Dream](https://open.spotify.com/track/6zg7B8W7Tu9nO3SLgYhqNO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream \- Remix EP](https://open.spotify.com/album/1FRRBe4H2wtYI2jEJpmBYg) | 3:54 |
 | 39 | [Small Talk](https://open.spotify.com/track/4NmE2ytXI8S2svTRSmEdpO) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Small Talk](https://open.spotify.com/album/5FOy9CM3AZs86TIK7fsJTV) | 2:41 |
 | 40 | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/track/4abn7Lc3illnEHFc9ki6x2) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Resilient \(ft\. Aitana\) \[Tiësto Remix\]](https://open.spotify.com/album/7hmFzviCSViV9Y9VJvlfYB) | 3:18 |
-| 41 | [Roulette](https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:18 |
-| 42 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
-| 43 | [Hot N Cold \- Rock Version](https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Hot N Cold](https://open.spotify.com/album/7t536KbHOO8GOEhHpk0Tyv) | 3:40 |
+| 41 | [Not the End of the World](https://open.spotify.com/track/2F20djOXWDSFEXu3tPdV71) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 2:58 |
+| 42 | [Hot N Cold \- Rock Version](https://open.spotify.com/track/6K4r3XENOKeXFTKlBlAJLC) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Hot N Cold](https://open.spotify.com/album/7t536KbHOO8GOEhHpk0Tyv) | 3:40 |
+| 43 | [Roulette](https://open.spotify.com/track/2rk4s5NBhtHhhJIfjoaWES) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:18 |
 | 44 | [Legendary Lovers](https://open.spotify.com/track/5Uc37Y6FijZcM538PqqkWd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:44 |
-| 45 | [Hey Hey Hey](https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:34 |
-| 46 | [I Kissed A Girl \- Rock Remix](https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 2:56 |
-| 47 | [Champagne Problems](https://open.spotify.com/track/5iKXqTVr88ghRPwMEeVKVM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:16 |
+| 45 | [I Kissed A Girl \- Rock Remix](https://open.spotify.com/track/1TOKDNTBEnlhcXzvLinKgd) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [One Of The Boys](https://open.spotify.com/album/3OALgjCs6Lqw41853v4wEQ) | 2:56 |
+| 46 | [Champagne Problems](https://open.spotify.com/track/5iKXqTVr88ghRPwMEeVKVM) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:16 |
+| 47 | [Hey Hey Hey](https://open.spotify.com/track/3tqwKg0W8XfYORNrP4aIhu) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 3:34 |
 | 48 | [Walking On Air](https://open.spotify.com/track/0RCsGhR44nFVAd5WiZZcGq) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [PRISM \(Deluxe\)](https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn) | 3:42 |
-| 49 | [Witness](https://open.spotify.com/track/6EzuVdWmzgOBmqHpzbbzfQ) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Witness \(Deluxe\)](https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z) | 4:10 |
-| 50 | [Never Worn White](https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Worn White](https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa) | 3:45 |
+| 49 | [Never Worn White](https://open.spotify.com/track/3ksNHUNCTP6Pan8rjFnmtw) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Never Worn White](https://open.spotify.com/album/0Gubs5k8ay34m9a0yiliRa) | 3:45 |
+| 50 | [Cry About It Later](https://open.spotify.com/track/7cLrrJ1Dk6WAQyDIj9j26A) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/47zMF6LrXQ8odi6Xv1unC0) | 3:09 |
 
-Snapshot ID: `MTcxMzU3MTIwMCwwMDAwMDAwMGI5ODQwZDlmNGM4MDU1ODEwNWYwYmE5ZjM2ZjExYWMy`
+Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGQ2NzhmM2I4NTA5Yjg5M2U2MWM3Njg1ZWVkMDM3NThm`

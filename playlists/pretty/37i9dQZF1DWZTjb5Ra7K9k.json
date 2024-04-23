@@ -1,6 +1,6 @@
 {
   "description": "Hora de aumentar o som e cair na \u00e1gua!",
-  "num_followers": 187058,
+  "num_followers": 186925,
   "original_name": "Free Surf",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2023-07-28 03:01:00",
       "album": {
+        "name": "Uprising",
+        "url": "https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        }
+      ],
+      "duration_ms": 237000,
+      "name": "Could You Be Loved",
+      "url": "https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh"
+    },
+    {
+      "added_at": "2023-07-28 03:01:00",
+      "album": {
         "name": "Long Time Ago",
         "url": "https://open.spotify.com/album/3RGxeAYXO2X5l44ZYuZOXm"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 193613,
       "name": "Interstate Love Song",
       "url": "https://open.spotify.com/track/1AfYo6cKm3yHsJHdmNoGO1"
-    },
-    {
-      "added_at": "2023-07-28 03:01:00",
-      "album": {
-        "name": "Uprising",
-        "url": "https://open.spotify.com/album/74fyfECdTUBoJYbcr7tCxo"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 237000,
-      "name": "Could You Be Loved",
-      "url": "https://open.spotify.com/track/61dXuN3VyqGOyOeMfJXIPh"
     },
     {
       "added_at": "2023-07-28 03:01:00",

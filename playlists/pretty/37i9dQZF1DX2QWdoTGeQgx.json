@@ -1,6 +1,6 @@
 {
   "description": "wo hen lei (i'm very tired) ",
-  "num_followers": 54344,
+  "num_followers": 54318,
   "original_name": "tired lei",
   "owner": {
     "name": "Spotify",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "The Outsider EP",
-        "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 166480,
-      "name": "Pager",
-      "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "Good In Me",
         "url": "https://open.spotify.com/album/7kRF85QX88b5aPkxE2jbRX"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 148027,
       "name": "Good In Me",
       "url": "https://open.spotify.com/track/1JuUVeHRjVl081qqccxySe"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "The Outsider EP",
+        "url": "https://open.spotify.com/album/0c7zKLCs5B2Q34GStRLahp"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 166480,
+      "name": "Pager",
+      "url": "https://open.spotify.com/track/5MlvAB51sadP8tIIhdXEkQ"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -971,26 +971,6 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "Feel The Same",
-        "url": "https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV"
-      },
-      "artists": [
-        {
-          "name": "Axel Brizzy",
-          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
-        },
-        {
-          "name": "ANN\u00c9",
-          "url": "https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf"
-        }
-      ],
-      "duration_ms": 172427,
-      "name": "Feel The Same",
-      "url": "https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
         "name": "the boy",
         "url": "https://open.spotify.com/album/24AGxWAjb7QYqlNaoWlsDz"
       },
@@ -1023,22 +1003,22 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "Rouge",
-        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+        "name": "Feel The Same",
+        "url": "https://open.spotify.com/album/5ccdTJgc6HTvHCGfrranhV"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Axel Brizzy",
+          "url": "https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB"
         },
         {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          "name": "ANN\u00c9",
+          "url": "https://open.spotify.com/artist/0mI2naVcev6UnXkXKmG4kf"
         }
       ],
-      "duration_ms": 269893,
-      "name": "Castaway",
-      "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
+      "duration_ms": 172427,
+      "name": "Feel The Same",
+      "url": "https://open.spotify.com/track/0b7U8X4OjpeJ3HHK7Cw6DN"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -1055,6 +1035,26 @@
       "duration_ms": 207625,
       "name": "Kaleidoscope",
       "url": "https://open.spotify.com/track/43umglJJM00CgFIOWBdxwU"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
+        "name": "Rouge",
+        "url": "https://open.spotify.com/album/5By9BZR5hxGhbkeq7sAcqZ"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 269893,
+      "name": "Castaway",
+      "url": "https://open.spotify.com/track/19zPT36WogsfBd8HIaUnt4"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
+        "name": "It's You (feat. Kaleb J)",
+        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        },
+        {
+          "name": "Kaleb J",
+          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
+        }
+      ],
+      "duration_ms": 269712,
+      "name": "It's You (feat. Kaleb J)",
+      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
+    },
+    {
+      "added_at": "2024-04-12 00:24:42",
+      "album": {
         "name": "bad together",
         "url": "https://open.spotify.com/album/4boCQFMHPbjwGqIf4hHpa5"
       },
@@ -1099,26 +1119,6 @@
       "duration_ms": 170909,
       "name": "bad together",
       "url": "https://open.spotify.com/track/6hUH9vmhbKRzTBsQhaBqjw"
-    },
-    {
-      "added_at": "2024-04-12 00:24:42",
-      "album": {
-        "name": "It's You (feat. Kaleb J)",
-        "url": "https://open.spotify.com/album/11VkZvAqWd1FBjo4NVxoMa"
-      },
-      "artists": [
-        {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
-        },
-        {
-          "name": "Kaleb J",
-          "url": "https://open.spotify.com/artist/3sMsWkApnc6yPyMUsNHQlb"
-        }
-      ],
-      "duration_ms": 269712,
-      "name": "It's You (feat. Kaleb J)",
-      "url": "https://open.spotify.com/track/22BcVWiiiXzcANH97LbwKi"
     },
     {
       "added_at": "2024-04-12 00:24:42",
@@ -1207,18 +1207,30 @@
     {
       "added_at": "2024-04-12 00:24:42",
       "album": {
-        "name": "can't you see",
-        "url": "https://open.spotify.com/album/2EuJGx0ZIlEvVtVoHqhjdf"
+        "name": "2OFU",
+        "url": "https://open.spotify.com/album/1EsJLEg0hPZiSE9BTtFw9L"
       },
       "artists": [
         {
+          "name": "2OFU",
+          "url": "https://open.spotify.com/artist/3nk2jAog2zO4LNboEhMXaa"
+        },
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        },
+        {
           "name": "Shye",
           "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        },
+        {
+          "name": "Yung Lee Records",
+          "url": "https://open.spotify.com/artist/4GozvPZO3g0cI5I2TEDovw"
         }
       ],
-      "duration_ms": 203902,
-      "name": "can't you see",
-      "url": "https://open.spotify.com/track/12fDGZPMJXkcFuqVytBT1t"
+      "duration_ms": 126040,
+      "name": "This Is How It Ends",
+      "url": "https://open.spotify.com/track/0QJkKuxJuAjTSxZLvlddKh"
     }
   ],
   "unique_name": "tired lei",

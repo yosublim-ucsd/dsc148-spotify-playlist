@@ -1,6 +1,6 @@
 {
   "description": "Os padres e nomes que movem multid\u00f5es pelo pa\u00eds. Foto: Davidson Silva, Dan\u00fabia M.J",
-  "num_followers": 321547,
+  "num_followers": 321081,
   "original_name": "M\u00fasica Cat\u00f3lica ",
   "owner": {
     "name": "Spotify",
@@ -315,26 +315,6 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "Caminho no Deserto",
-        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
-      },
-      "artists": [
-        {
-          "name": "Dyego Afonso",
-          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
-        },
-        {
-          "name": "Aline Brasil",
-          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
-        }
-      ],
-      "duration_ms": 405000,
-      "name": "Caminho no Deserto",
-      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
-    },
-    {
-      "added_at": "2024-04-19 18:30:03",
-      "album": {
         "name": "Retrovisor",
         "url": "https://open.spotify.com/album/3k0k584H1fIbsaGfdET3Yi"
       },
@@ -351,6 +331,26 @@
       "duration_ms": 218378,
       "name": "Retrovisor",
       "url": "https://open.spotify.com/track/79Vqir1xW9gpTkZQDe1bje"
+    },
+    {
+      "added_at": "2024-04-19 18:30:03",
+      "album": {
+        "name": "Gba Stage, Vol. 5",
+        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+      },
+      "artists": [
+        {
+          "name": "GBA Stage",
+          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+        },
+        {
+          "name": "Gil Monteiro",
+          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+        }
+      ],
+      "duration_ms": 173272,
+      "name": "Como \u00c9s Lindo",
+      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
     },
     {
       "added_at": "2024-04-19 18:30:03",
@@ -387,22 +387,22 @@
     {
       "added_at": "2024-04-19 18:30:03",
       "album": {
-        "name": "Gba Stage, Vol. 5",
-        "url": "https://open.spotify.com/album/1v17ZjkeyE1npyhdkdeFQd"
+        "name": "Caminho no Deserto",
+        "url": "https://open.spotify.com/album/4Rmz9cYlU6cAzs4pPLSktr"
       },
       "artists": [
         {
-          "name": "GBA Stage",
-          "url": "https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s"
+          "name": "Dyego Afonso",
+          "url": "https://open.spotify.com/artist/2cxuABu4qa3RjrtQwFYPjG"
         },
         {
-          "name": "Gil Monteiro",
-          "url": "https://open.spotify.com/artist/3GbOrRzsRCD3LNEwwFZ2vy"
+          "name": "Aline Brasil",
+          "url": "https://open.spotify.com/artist/5hf4bo5iH59sca7oXhxKpS"
         }
       ],
-      "duration_ms": 173272,
-      "name": "Como \u00c9s Lindo",
-      "url": "https://open.spotify.com/track/0Mv8lgopeNTK0aMXJhQmUh"
+      "duration_ms": 405000,
+      "name": "Caminho no Deserto",
+      "url": "https://open.spotify.com/track/27ZdowDBO295T5ubqKbABA"
     },
     {
       "added_at": "2024-04-19 18:30:03",

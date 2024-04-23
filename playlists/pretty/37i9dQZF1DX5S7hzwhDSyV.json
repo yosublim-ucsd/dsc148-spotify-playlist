@@ -1,6 +1,6 @@
 {
   "description": "The best instrumental versions of the american songbook classics. Cover: Stan Getz",
-  "num_followers": 107064,
+  "num_followers": 107162,
   "original_name": "Instrumental Jazz Standards",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "A Garland Of Red",
-        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
-      },
-      "artists": [
-        {
-          "name": "Red Garland Trio",
-          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
-        }
-      ],
-      "duration_ms": 287400,
-      "name": "A Foggy Day",
-      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Saxophone Colossus",
         "url": "https://open.spotify.com/album/0yodD8uAkAT5UmrlF2xy97"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 387480,
       "name": "You Don't Know What Love Is - Rudy Van Gelder Remaster",
       "url": "https://open.spotify.com/track/4F8h9jXJBeuSRQSlo6owwL"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "A Garland Of Red",
+        "url": "https://open.spotify.com/album/0B0bQQoqyrMqbelYvcbVEs"
+      },
+      "artists": [
+        {
+          "name": "Red Garland Trio",
+          "url": "https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5"
+        }
+      ],
+      "duration_ms": 287400,
+      "name": "A Foggy Day",
+      "url": "https://open.spotify.com/track/2bjHr0GlbW6wIpxcxpZLHV"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -863,22 +863,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Gettin' Together!",
-        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
-      },
-      "artists": [
-        {
-          "name": "Paul Gonsalves",
-          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "I Cover The Waterfront",
-      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Plays Ballads",
         "url": "https://open.spotify.com/album/2bI7k1iblL7PAIzHPA86Et"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 385219,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/4nbqUfqKObLWhuUT7PWV1N"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Gettin' Together!",
+        "url": "https://open.spotify.com/album/2R7pL2UXf9wBMYg7b37XLB"
+      },
+      "artists": [
+        {
+          "name": "Paul Gonsalves",
+          "url": "https://open.spotify.com/artist/23hRv3SqLMrj4i3b3tfUu4"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "I Cover The Waterfront",
+      "url": "https://open.spotify.com/track/1YNHdhvXBogdk54KI1yd2P"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -911,22 +911,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "We Get Requests",
-        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
-      },
-      "artists": [
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 308160,
-      "name": "My One And Only Love",
-      "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Stan Getz And The Oscar Peterson Trio",
         "url": "https://open.spotify.com/album/4RDtTAyYRJAKACSEGMgrqD"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 278253,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/6NYInW0268sHuxPDhH8pRM"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "We Get Requests",
+        "url": "https://open.spotify.com/album/4rCo3zGQW3xzkuHYwhJg40"
+      },
+      "artists": [
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 308160,
+      "name": "My One And Only Love",
+      "url": "https://open.spotify.com/track/2jNEEtT0PdPzfngmVIyNBi"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1063,18 +1063,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Ballads",
-        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
       "artists": [
         {
-          "name": "Dexter Gordon",
-          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 322960,
-      "name": "I Guess I'll Hang My Tears Out To Dry",
-      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
+      "duration_ms": 285666,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1095,22 +1099,18 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
+        "name": "Ballads",
+        "url": "https://open.spotify.com/album/5lzhBDGZKhGKFFVlMOKR0K"
       },
       "artists": [
         {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
         }
       ],
-      "duration_ms": 285666,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/1Ju8QHOsXPehuL2pCPjXA0"
+      "duration_ms": 322960,
+      "name": "I Guess I'll Hang My Tears Out To Dry",
+      "url": "https://open.spotify.com/track/57Qv0Ls4xEB3UblVSeCbUJ"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
-      },
-      "artists": [
-        {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
-        }
-      ],
-      "duration_ms": 267053,
-      "name": "Do Nothing Till You Hear From Me",
-      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Modern Art",
         "url": "https://open.spotify.com/album/49HY44cDZDZ3iytyXdajQ6"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 363026,
       "name": "What Is This Thing Called Love?",
       "url": "https://open.spotify.com/track/7uwEQccVDaRZwz3zp09e5M"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+      },
+      "artists": [
+        {
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+        }
+      ],
+      "duration_ms": 267053,
+      "name": "Do Nothing Till You Hear From Me",
+      "url": "https://open.spotify.com/track/2gC5J2BtNCK9L0qRTYYD12"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1579,38 +1579,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Hollywood Stampede",
-        "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
-      },
-      "artists": [
-        {
-          "name": "Coleman Hawkins",
-          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "Intuition",
-        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
-      },
-      "artists": [
-        {
-          "name": "Lennie Tristano Sextet",
-          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
-        }
-      ],
-      "duration_ms": 168040,
-      "name": "Yesterdays",
-      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Small Groups: 1941-1945",
         "url": "https://open.spotify.com/album/2hcioj7Ylhau26ffRy9WE4"
       },
@@ -1643,18 +1611,34 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Tenor Madness",
-        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+        "name": "Hollywood Stampede",
+        "url": "https://open.spotify.com/album/1b4uwxIF7PHkdAgkhoagPW"
       },
       "artists": [
         {
-          "name": "Sonny Rollins Quartet",
-          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+          "name": "Coleman Hawkins",
+          "url": "https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0"
         }
       ],
-      "duration_ms": 369760,
-      "name": "When Your Lover Has Gone",
-      "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
+      "duration_ms": 170333,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/7ln3tLGBE1knxxUnkt7IXE"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Intuition",
+        "url": "https://open.spotify.com/album/2N1GYQNZRsS964RxWCjWVc"
+      },
+      "artists": [
+        {
+          "name": "Lennie Tristano Sextet",
+          "url": "https://open.spotify.com/artist/7CDcCsWCJxC2t0v4p8qPtD"
+        }
+      ],
+      "duration_ms": 168040,
+      "name": "Yesterdays",
+      "url": "https://open.spotify.com/track/3jFwQs0w4E0EQHbYnUbQi7"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1671,6 +1655,22 @@
       "duration_ms": 275226,
       "name": "Bluesette",
       "url": "https://open.spotify.com/track/2yAWaE7k8dVU7f9cztK95E"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Tenor Madness",
+        "url": "https://open.spotify.com/album/7Jpvy75Z6twnPyADNBzeII"
+      },
+      "artists": [
+        {
+          "name": "Sonny Rollins Quartet",
+          "url": "https://open.spotify.com/artist/2mlKlEmxOO3vb6DqopDh4H"
+        }
+      ],
+      "duration_ms": 369760,
+      "name": "When Your Lover Has Gone",
+      "url": "https://open.spotify.com/track/3ANRxrqOgTtA8dIC9YJLYG"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 235560,
-      "name": "Stella By Starlight - Remaster/2004",
-      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Open Sesame (The Rudy Van Gelder Edition)",
         "url": "https://open.spotify.com/album/4WF3FMkvyd8Ogh2Hz76C9v"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 386773,
       "name": "But Beautiful - Remastered 2002/Rudy Van Gelder Edition",
       "url": "https://open.spotify.com/track/64nV4JZ5LAleONUC3yV7mj"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Stella By Starlight - Remaster/2004",
+      "url": "https://open.spotify.com/track/4k23sI0AfmO1SxR6NDYmuj"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
-        "name": "Boss Guitar [Original Jazz Classics Remasters] (OJC Remaster)",
-        "url": "https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y"
-      },
-      "artists": [
-        {
-          "name": "Wes Montgomery",
-          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
-        }
-      ],
-      "duration_ms": 291826,
-      "name": "Dearly Beloved",
-      "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
         "name": "Julian \"Cannonball\" Adderley",
         "url": "https://open.spotify.com/album/18JHKcwCBtOfCGmOB7hXx8"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 253133,
       "name": "The Song Is You",
       "url": "https://open.spotify.com/track/64UJdbSWjE1iS5pWhP8m1f"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
+        "name": "Boss Guitar [Original Jazz Classics Remasters] (OJC Remaster)",
+        "url": "https://open.spotify.com/album/2bpF4FOmTyBanTjzPfwv6Y"
+      },
+      "artists": [
+        {
+          "name": "Wes Montgomery",
+          "url": "https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ"
+        }
+      ],
+      "duration_ms": 291826,
+      "name": "Dearly Beloved",
+      "url": "https://open.spotify.com/track/3ZBsbQOqGJWUpApbCXiQkU"
     },
     {
       "added_at": "2024-03-20 12:33:02",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-03-20 12:33:02",
       "album": {
+        "name": "The Jazz Messengers",
+        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
+      },
+      "artists": [
+        {
+          "name": "Art Blakey & The Jazz Messengers",
+          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
+        }
+      ],
+      "duration_ms": 333493,
+      "name": "It's You or No One",
+      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
+    },
+    {
+      "added_at": "2024-03-20 12:33:02",
+      "album": {
         "name": "Cosmopolite: The Oscar Peterson Verve Sessions",
         "url": "https://open.spotify.com/album/2PcX4DkcszoOZ0ee0efDMN"
       },
@@ -1899,22 +1915,6 @@
       "duration_ms": 237333,
       "name": "You Took Advantage Of Me",
       "url": "https://open.spotify.com/track/1QpoiqlsaMLOfxfcnjIpuy"
-    },
-    {
-      "added_at": "2024-03-20 12:33:02",
-      "album": {
-        "name": "The Jazz Messengers",
-        "url": "https://open.spotify.com/album/3pz0v3v5f96GUBfwZ6pbrX"
-      },
-      "artists": [
-        {
-          "name": "Art Blakey & The Jazz Messengers",
-          "url": "https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz"
-        }
-      ],
-      "duration_ms": 333493,
-      "name": "It's You or No One",
-      "url": "https://open.spotify.com/track/5XVsNByeqX0YN2VBpw0dVW"
     },
     {
       "added_at": "2024-03-20 12:33:02",
