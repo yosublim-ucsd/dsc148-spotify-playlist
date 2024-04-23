@@ -1,4 +1,4 @@
-## Playlists \(7716\)
+## Playlists \(7717\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -1588,6 +1588,7 @@
 - [Desi Pop](/playlists/pretty/37i9dQZF1DX2nX8HgBDmgL.md)
 - [Despierta y Sonríe](/playlists/pretty/37i9dQZF1DWVhcOv4ieuap.md)
 - [Desplugado](/playlists/pretty/37i9dQZF1DX7nC9vdKqBZ5.md)
+- [Destroy The Runner Mix](/playlists/pretty/37i9dQZF1EIWfhQkRVjOnZ.md)
 - [Det är så tråkigt och trist utan dig](/playlists/pretty/7qeSmszUjRBWOwHzlxfEXt.md)
 - [Detective Conan 名探偵コナン](/playlists/pretty/37i9dQZF1DX5UhvY4JBo1i.md)
 - [Detox](/playlists/pretty/37i9dQZF1DXcBbGCLlic3p.md)
