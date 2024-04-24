@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 
 > Let these innovative tracks spark your creativity and inspiration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,129 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 373,842 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 19 | [Free In The Knowledge](https://open.spotify.com/track/0p8esvsm33EFp9iABb8wH9) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [A Light for Attracting Attention](https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi) | 4:12 |
 | 20 | [Thin](https://open.spotify.com/track/7swTZr50nSpeq9469IJ9LI) | [Aquilo](https://open.spotify.com/artist/26GHRG8x1F4AzbCKzUaIbw) | [ii](https://open.spotify.com/album/7MRes84TxvKPqlTbp3FDUN) | 2:58 |
 | 21 | [Big Wheel](https://open.spotify.com/track/6GUQaa74JUSziJ9TT29Ghg) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [The Baby](https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6) | 3:15 |
-| 22 | [Miracles](https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:44 |
+| 22 | [Miracles](https://open.spotify.com/track/5PZuWw56Wwc9W6nEi3ZcWO) | [Alex G](https://open.spotify.com/artist/2DhebjO0uMIKmc7W7q3WFJ) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 3:44 |
 | 23 | [Wild Girl](https://open.spotify.com/track/3IqwOIVNLdBs7av6n8Plrt) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Wild Girl](https://open.spotify.com/album/5gjaKIotnXLPTsb9lvp5vT) | 3:14 |
 | 24 | [something more](https://open.spotify.com/track/7rP2j96yHkABXBAKpMAFs9) | [j ember](https://open.spotify.com/artist/4UUDpbs7gikfzHz0CRvdnv) | [something more](https://open.spotify.com/album/6xqDqHbdWJMuYtKySlTgaL) | 3:16 |
 | 25 | [My Love](https://open.spotify.com/track/398CKeawsPHfonnxsimsPe) | [MVCA](https://open.spotify.com/artist/73C7eV9oN6yGgLSu8vIO4R), [Avi Snow](https://open.spotify.com/artist/5pW2lVGlbVSVWi9086Xjfu), [Cairo](https://open.spotify.com/artist/4vNlfhvPPRLOvmveTD7uQ0), [Fake ID](https://open.spotify.com/artist/3O6FybT51NR578KVOXe5b3) | [My Love](https://open.spotify.com/album/2jTldfzmnGTfwNKQqJ1Wgb) | 2:40 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX56qfiUZBncF.md) - [plain]
 | 95 | [Why](https://open.spotify.com/track/3pr6oJh5ypTefpVnxHAcsP) | [Frye](https://open.spotify.com/artist/51c7EsUuMgAXsIlcabMgKG) | [Why](https://open.spotify.com/album/4QihSvriLLNUwVd4R0gTi9) | 4:03 |
 | 96 | [In Cold Blood](https://open.spotify.com/track/6sIvAyM1AtnSGz3anRLcDo) | [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [In Cold Blood](https://open.spotify.com/album/5zlu4KRhI3Ld9zOVBgXAEX) | 3:26 |
 | 97 | [Almost There](https://open.spotify.com/track/2WlEJqRXj37vtII3CTt2Hj) | [RKCB](https://open.spotify.com/artist/4QDvXnbmw1znkqkK1119Fc) | [A Place We Know / Almost There](https://open.spotify.com/album/677phHoNKIklj64z6GuA5L) | 3:54 |
-| 98 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
-| 99 | [Better](https://open.spotify.com/track/6HUf5XZ42rs0svrOZjODj4) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG), [Daniel Loumpouridis](https://open.spotify.com/artist/4mdHhJxqXDxoVwDDcJKTL0) | [Better](https://open.spotify.com/album/7mRF5LbfCd1ggGm5Xfy9WN) | 3:27 |
+| 98 | [Better](https://open.spotify.com/track/6HUf5XZ42rs0svrOZjODj4) | [Calica](https://open.spotify.com/artist/1gi49JL4LNUMlylXm5Z0ZG), [Daniel Loumpouridis](https://open.spotify.com/artist/4mdHhJxqXDxoVwDDcJKTL0) | [Better](https://open.spotify.com/album/7mRF5LbfCd1ggGm5Xfy9WN) | 3:27 |
+| 99 | [Tailwhip](https://open.spotify.com/track/2DoO0sn4SbUrz7Uay9ACTM) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Tailwhip](https://open.spotify.com/album/7eJd4HvbzBoufq7pnKAIiy) | 3:45 |
 | 100 | [Captivated](https://open.spotify.com/track/4215JgBYhwg7jUtfL4Nzkc) | [Beau](https://open.spotify.com/artist/2Mm2NXLhda25RQLyaZyUJU) | [Captivated](https://open.spotify.com/album/6cFedsjaaJ4Lx6D8g907YE) | 4:02 |
 
 Snapshot ID: `MTcxMjA4MzMyNywwMDAwMDAwMGYyZjQwNGU4YmRjMWRiOWQ3OGUyNTc4NWVmMzY2NDMx`

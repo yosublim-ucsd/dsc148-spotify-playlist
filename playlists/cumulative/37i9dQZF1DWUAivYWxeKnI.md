@@ -4,7 +4,7 @@
 
 > \[Festival Dates: May 4\-5\] Meet the lineup of HIPHOPPLAYA FESTIVAL 2024, the largest outdoor hip\-hop festival in Korea! \(5월 4일\-5일 열리는 한국 최대 규모의 야외 힙합 페스티벌 HIPHOPPLAYA FESTIVAL 2024의 라인업을 만나보세요!\)
 
-142 songs - 7 hr 59 min
+144 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Error](https://open.spotify.com/track/59832SxHSsxtspvUwGYpYN) | [C JAMM](https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR) | [KEUNG](https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc) | 2:12 | 2023-04-04 | 2024-02-21 |
 | [Eul \(Feat\. BIG Naughty\)](https://open.spotify.com/track/3MEcq4JRbQImU04hBtyM0w) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal) | [2 Little Bites From \[Fatal Album Ⅲ\]](https://open.spotify.com/album/2m22wz5HacfJyFWM4Y5p0S) | 2:58 | 2024-02-20 |  |
 | [EVITA!](https://open.spotify.com/track/1cLWh6iYg05XcuviJTgjPq) | [DeVita](https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B) | [CRÈME](https://open.spotify.com/album/50OexC7HF7AMO8ypWaGvPd) | 3:27 | 2022-09-21 | 2023-04-05 |
+| [f](https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS) | [ROBERT](https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg) | 2:08 | 2024-04-23 |  |
 | [FIANCÉ](https://open.spotify.com/track/6Tw2x3wavaWsboio2Cy44I) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [XX](https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34) | 3:27 | 2022-09-07 | 2023-04-05 |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-09-07 |  |
 | [FREAK LIKE ME](https://open.spotify.com/track/4ZC7AurS3z0mdROZBUcAex) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [FREAK LIKE ME](https://open.spotify.com/album/3MLhDn5jwjMjv7S3qIRXnG) | 2:47 | 2024-02-20 |  |
@@ -57,6 +58,7 @@
 | [Good Night \(Feat\. BE'O\)](https://open.spotify.com/track/7uzmxEjFEAiadiCCXa0bhi) | [Coogie](https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja), [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [RE:UP](https://open.spotify.com/album/7eLDu8gX4OteyGpDLvM99h) | 3:10 | 2022-09-07 |  |
 | [Good Times \(feat\. Babylon\)](https://open.spotify.com/track/5e2GhPxMjXFvIv0lzCW7ac) | [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv), [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo) | [Cheers](https://open.spotify.com/album/097IuswfTwq1s5YUq6k5Kq) | 3:59 | 2022-09-07 | 2023-04-05 |
 | [han gang gang](https://open.spotify.com/track/3DYoqCSudlbumn6waFswIE) | [The Quiett](https://open.spotify.com/artist/2qI1pO64eYqGUiv1XTw4cy), [Byung Un](https://open.spotify.com/artist/6eJNQPPFPPuiLl0K35mptS), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [glow forever](https://open.spotify.com/album/2igar5ui3UzhSPl6DsO1O2) | 3:25 | 2022-09-07 | 2023-04-05 |
+| [harmless \(Feat\. CHANMINA\)](https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa) | [BOBBY](https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [Sir.Robert](https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE) | 3:03 | 2024-04-23 |  |
 | [HELIOT EMIL](https://open.spotify.com/track/2iSkLo11WjyzRVdxeSMkCf) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b) | [Wonderful Days](https://open.spotify.com/album/2N63pqJIn1Ro8yIbwV54Gh) | 2:18 | 2024-02-20 |  |
 | [Heu ! \- Full Version](https://open.spotify.com/track/3CHHW06gWZIZcrdYMaiNPb) | [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [Heu ! \(Full Version\)](https://open.spotify.com/album/2fIimP8zboE9U0y95Nul3c) | 2:18 | 2022-09-07 | 2023-04-05 |
 | [Hula Hoops](https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh) | [DPR LIVE](https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg), [Beenzino](https://open.spotify.com/artist/7IrDIIq3j04exsiF3Z7CPg), [HWASA](https://open.spotify.com/artist/7bmYpVgQub656uNTu6qGNQ) | [IITE COOL](https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL) | 3:23 | 2023-04-04 | 2024-02-21 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 590,
+  "2024-04-24": 590,
   "date_first_scraped": "2022-05-30",
   "description": "This is Pauline Oliveros. The essential tracks, all in one playlist.",
   "name": "This Is Pauline Oliveros",
@@ -547,7 +547,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-08",
+      "date_removed": null,
       "duration_ms": 180040,
       "name": "Body Stories",
       "url": "https://open.spotify.com/track/7uICRy0IYUKeYQjZojQ2UA"
@@ -723,7 +723,7 @@
       ],
       "date_added": "2022-11-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-01-17",
+      "date_removed": null,
       "duration_ms": 483666,
       "name": "Condensed Matter",
       "url": "https://open.spotify.com/track/4hZZT6s8rQZ71aa6KbJSMn"
@@ -1035,7 +1035,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 191186,
       "name": "Drone Wash for Melody",
       "url": "https://open.spotify.com/track/3UX7JxZTMPKJx2BgHO5AR1"
@@ -1807,7 +1807,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 193159,
       "name": "Last Night in the Holocene",
       "url": "https://open.spotify.com/track/7JWRsHoHsEcl2iD8fl0Vru"
@@ -1911,7 +1911,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 130933,
       "name": "Mass Action",
       "url": "https://open.spotify.com/track/4NEL3xHrHuN5ctwyg2ovvb"
@@ -2093,7 +2093,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 856346,
       "name": "Monument",
       "url": "https://open.spotify.com/track/6WWfPwQFOKNrdt5XDz6ViJ"
@@ -2119,7 +2119,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 243840,
       "name": "Morphotropic",
       "url": "https://open.spotify.com/track/6lOzGJLSRY374dHqBpIEWU"
@@ -2681,7 +2681,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-10",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Quartetto Telematico #5",
       "url": "https://open.spotify.com/track/7ys0YWoEWq7fddPr4pz7Eh"
@@ -2741,7 +2741,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 470506,
       "name": "Quartettto Telematico #4",
       "url": "https://open.spotify.com/track/7lkUdOD99R4wMF1BU5oVtS"
@@ -2777,7 +2777,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 223960,
       "name": "Reverberations",
       "url": "https://open.spotify.com/track/6QhWeoGPAlrNOhnyhmQyLF"
@@ -3387,7 +3387,7 @@
       ],
       "date_added": "2022-10-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 174893,
       "name": "Supercritical",
       "url": "https://open.spotify.com/track/3XWlm1PuZhTGy3gedOKKmf"
@@ -4395,7 +4395,7 @@
       ],
       "date_added": "2022-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 201280,
       "name": "Vaporization",
       "url": "https://open.spotify.com/track/3Vh3q9m1HRvQdLfcE6ysAc"

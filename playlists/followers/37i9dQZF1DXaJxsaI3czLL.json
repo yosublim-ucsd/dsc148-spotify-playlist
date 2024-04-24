@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 130000,
+  "2024-04-24": 129969,
   "date_first_scraped": "2022-10-24",
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
   "name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
@@ -5707,7 +5707,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 128216,
       "name": "\u30aa\u30fc\u30c9\u30d6\u30eb",
       "url": "https://open.spotify.com/track/0pr2F8Oj6xp4CXtUPeo09a"
@@ -7131,6 +7131,24 @@
       "duration_ms": 302803,
       "name": "\u661f\u306e\u751f\u307e\u308c\u308b\u65e5",
       "url": "https://open.spotify.com/track/6StKzYvWvt5A3ikyfs8dd2"
+    },
+    {
+      "album": {
+        "name": "\u305f\u3060\u3044\u307e",
+        "url": "https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB"
+      },
+      "artists": [
+        {
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
+        }
+      ],
+      "date_added": "2024-03-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329666,
+      "name": "\u661f\u660e\u304b\u308a\u306e\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 
 > Left of center indie/alternative LGBTQIA+ artists\. Cover: The Japanese House
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,658 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,795 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMR78LDoAZC.md) - [plain]
 | 71 | [Warm Blanket](https://open.spotify.com/track/1PZz5Xx3A98S7vQH9HDWpD) | [Worriers](https://open.spotify.com/artist/55Z2PiiE80rBOkkL1wyNPD) | [Warm Blanket](https://open.spotify.com/album/0sIS7juiZ3tedOqliEmxvM) | 3:19 |
 | 72 | [Rockstar](https://open.spotify.com/track/5MErJ4WyrDRZvu7HloRNKr) | [Maple St.](https://open.spotify.com/artist/4gGRM0ctqeTWqer59nW0S9) | [Rockstar](https://open.spotify.com/album/5ro6fuWkVRLbMSEAdQBNy9) | 3:32 |
 | 73 | [Ruby Off The Rails](https://open.spotify.com/track/0TaViAtX3IcIJ3Osa5Mofc) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Ruby Off The Rails](https://open.spotify.com/album/2S8Nzw6qzyQXwPFLJW4WSL) | 3:23 |
-| 74 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 |
-| 75 | [Man in Your Eyes](https://open.spotify.com/track/2YkfUvBYoCQXYJN5hE2Oi8) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Multi Adolescence](https://open.spotify.com/album/5Q7BRGEFzlIlEjiBzqWxNz) | 2:28 |
+| 74 | [Man in Your Eyes](https://open.spotify.com/track/2YkfUvBYoCQXYJN5hE2Oi8) | [Blue Mena](https://open.spotify.com/artist/0OVCaaj4RxjhMe7vHsPPCa) | [Multi Adolescence](https://open.spotify.com/album/5Q7BRGEFzlIlEjiBzqWxNz) | 2:28 |
+| 75 | [I Know Your Present](https://open.spotify.com/track/3ii9uGCjFToAW2KnjxV34P) | [Sans Soucis](https://open.spotify.com/artist/4vXFvvWirlvTwcl184KfDc) | [I Know Your Present](https://open.spotify.com/album/709nDzklqvM2wkTRF7Gqkt) | 3:49 |
 
 Snapshot ID: `MTY4ODA5NzYwMCwwMDAwMDAwMDU0MDBmMzZlNDg1ZjlhNzA0ZmNmZTgxY2FhYjcwOGNj`

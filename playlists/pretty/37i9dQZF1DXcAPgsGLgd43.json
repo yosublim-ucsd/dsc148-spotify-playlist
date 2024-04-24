@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb",
-  "num_followers": 6524,
+  "num_followers": 6643,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Ay",
+        "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
+      },
+      "artists": [
+        {
+          "name": "PAUZA",
+          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
+        }
+      ],
+      "duration_ms": 246027,
+      "name": "Ay",
+      "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "T\u00f3cate",
         "url": "https://open.spotify.com/album/45ErjEPHCNkHQrBaaUuvdX"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 190393,
       "name": "T\u00f3cate",
       "url": "https://open.spotify.com/track/2ibLngG6Pl2imDQhw5B5Nq"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Ay",
-        "url": "https://open.spotify.com/album/6SOiPpClZDtfZcNwVw4wa7"
-      },
-      "artists": [
-        {
-          "name": "PAUZA",
-          "url": "https://open.spotify.com/artist/2GZ0VsYD0N5Gb3EOIELa1N"
-        }
-      ],
-      "duration_ms": 246027,
-      "name": "Ay",
-      "url": "https://open.spotify.com/track/2oCIOChh58bZlnEvK6zW6v"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1651,26 +1651,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Bandolera (feat. Buza)",
-        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
-      },
-      "artists": [
-        {
-          "name": "Los Padres",
-          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
-        },
-        {
-          "name": "Buza",
-          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
-        }
-      ],
-      "duration_ms": 175040,
-      "name": "Bandolera (feat. Buza)",
-      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "La Fiesta",
         "url": "https://open.spotify.com/album/5cb83Ji1ELlkefe567WoSx"
       },
@@ -1707,18 +1687,38 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Tuku Tu",
-        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
+        "name": "Bandolera (feat. Buza)",
+        "url": "https://open.spotify.com/album/01zwo9drYSofBMYqHHiLXh"
       },
       "artists": [
         {
-          "name": "BOLO THE DJ",
-          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+          "name": "Los Padres",
+          "url": "https://open.spotify.com/artist/4gpf8uG8pZZ5KNcE3OStsU"
+        },
+        {
+          "name": "Buza",
+          "url": "https://open.spotify.com/artist/3PQjCufnBvS9y5d7a37fHB"
         }
       ],
-      "duration_ms": 140787,
-      "name": "Tuku Tu",
-      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
+      "duration_ms": 175040,
+      "name": "Bandolera (feat. Buza)",
+      "url": "https://open.spotify.com/track/7CMqU8tjod2thSmYHTg53h"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mujer",
+        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
+      },
+      "artists": [
+        {
+          "name": "Sinego",
+          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+        }
+      ],
+      "duration_ms": 263680,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1735,6 +1735,22 @@
       "duration_ms": 215699,
       "name": "Esta Vaina",
       "url": "https://open.spotify.com/track/63CgLY7pJtFU1Oic20tL07"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Tuku Tu",
+        "url": "https://open.spotify.com/album/06S2P8ii5L32tyu5JCTcx1"
+      },
+      "artists": [
+        {
+          "name": "BOLO THE DJ",
+          "url": "https://open.spotify.com/artist/4qaAcBXIagTIWYkJRlxYZ7"
+        }
+      ],
+      "duration_ms": 140787,
+      "name": "Tuku Tu",
+      "url": "https://open.spotify.com/track/1ICNLsyIPgrIjN36Txxx7B"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1847,22 +1863,6 @@
       "duration_ms": 236129,
       "name": "Cuarto Oscuro (feat. Pacho Carnaval)",
       "url": "https://open.spotify.com/track/2KHh21KhHHNk9odrdFwXdB"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Mujer",
-        "url": "https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs"
-      },
-      "artists": [
-        {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
-        }
-      ],
-      "duration_ms": 263680,
-      "name": "Mujer",
-      "url": "https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF"
     },
     {
       "added_at": "2024-04-19 04:00:00",

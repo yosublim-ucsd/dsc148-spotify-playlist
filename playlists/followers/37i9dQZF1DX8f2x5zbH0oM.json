@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 80970,
+  "2024-04-24": 80962,
   "date_first_scraped": "2023-12-19",
-  "description": "La playlist au-del\u00e0 des genres. Photo : Saint Levant",
+  "description": "La playlist au-del\u00e0 des genres. Photo : BadBadNotGood",
   "name": "La Cr\u00e8me",
   "tracks": [
     {
@@ -79,6 +79,24 @@
       "duration_ms": 185346,
       "name": "alone",
       "url": "https://open.spotify.com/track/0610vGi3JMAOPgldBBq9XF"
+    },
+    {
+      "album": {
+        "name": "Titanic Rising",
+        "url": "https://open.spotify.com/album/0Cuqhgy8vm96JEkBY3polk"
+      },
+      "artists": [
+        {
+          "name": "Weyes Blood",
+          "url": "https://open.spotify.com/artist/3Uqu1mEdkUJxPe7s31n1M9"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280186,
+      "name": "Andromeda",
+      "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
     },
     {
       "album": {
@@ -792,6 +810,28 @@
     },
     {
       "album": {
+        "name": "High Notes",
+        "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
+      },
+      "artists": [
+        {
+          "name": "NEIL FRANCES",
+          "url": "https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb"
+        },
+        {
+          "name": "PawPaw Rod",
+          "url": "https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152750,
+      "name": "High Notes",
+      "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
+    },
+    {
+      "album": {
         "name": "Holier (JD. REID Remix feat. Shygirl)",
         "url": "https://open.spotify.com/album/42At6bfdhnCcDuX2d3zhxh"
       },
@@ -1202,6 +1242,28 @@
     },
     {
       "album": {
+        "name": "Moments Die",
+        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
+      },
+      "artists": [
+        {
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246886,
+      "name": "Moments Die",
+      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
+    },
+    {
+      "album": {
         "name": "Drop 7",
         "url": "https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP"
       },
@@ -1325,7 +1387,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 153110,
       "name": "Open My Door",
       "url": "https://open.spotify.com/track/1A8QcZJKhUmJwdqzoAahvR"
@@ -1481,7 +1543,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 160000,
       "name": "Run Your Mouth",
       "url": "https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC"
@@ -1557,7 +1619,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 152540,
       "name": "Show (feat. Rochelle Jordan)",
       "url": "https://open.spotify.com/track/6datuEqdjvYeS3cMaWCxKM"

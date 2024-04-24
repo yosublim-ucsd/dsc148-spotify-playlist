@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 
 > 국내를 강타 했던 R&B곡들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,529 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,533 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe4qmDjDW0Ug.md) - [plain]
 | 36 | [비오는 압구정](https://open.spotify.com/track/1WKoaRdUQGSoo8qfiWc1dT) | [Brown Eyes](https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ) | [Reason 4 breathing?](https://open.spotify.com/album/7yl1TSdq0B20VPe75Y8XAa) | 3:36 |
 | 37 | [Good Bye Sadness, Hello Happiness](https://open.spotify.com/track/5SZAcEsbb9HrVTsu5kwWMT) | [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [t 3 YOONMIRAE](https://open.spotify.com/album/1IpgVEDfoO0y50l2DyHu0L) | 4:38 |
 | 38 | [I Love It](https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA) | [DEAN](https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE) | [130 Mood : TRBL](https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU) | 3:36 |
-| 39 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
-| 40 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
-| 41 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
+| 39 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
+| 40 | [Sorry](https://open.spotify.com/track/1JMByXHGoGaBVSaMGyNN9w) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Parallax](https://open.spotify.com/album/3SkW52Wt3omQQexWElTNeR) | 3:41 |
+| 41 | [Bye Bye Bye](https://open.spotify.com/track/07jUEjiknVlPtbRPtcKxGN) | [Park Hwayobi](https://open.spotify.com/artist/5oihNt5Zntgh1XIsDqOGq5) | [Hwayobi](https://open.spotify.com/album/3OfJmTAwCFltxeNO9lC6rS) | 3:04 |
 | 42 | [Come Back to Me](https://open.spotify.com/track/6ieC9SkXMQQPEJSpq69z4K) | [SE7EN](https://open.spotify.com/artist/14yLuCwlBqteUdBqx9soJV) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:07 |
 | 43 | [그대 떠난 뒤 \(with 브라운 아이드 소울\)](https://open.spotify.com/track/6HkeCtEHZSDReE5EEvjv2J) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Back To The Soul Flight](https://open.spotify.com/album/26nzz1WN0qn4C3B6zcm93u) | 5:37 |
 | 44 | [With Me](https://open.spotify.com/track/0Ss0kgHzdnZvLRaJD3UPJM) | [Realslow](https://open.spotify.com/artist/7luxe2wCwtDtkKSP8ZhPLn) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:31 |
 | 45 | [Break Away](https://open.spotify.com/track/4qzqqJaELifylL0VJU55mb) | [BIG MAMA](https://open.spotify.com/artist/34SKCchNLFzBWclGa6l6tQ) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 4:20 |
 | 46 | [Memory Loss](https://open.spotify.com/track/2EKF9fFb5X7117shgzvsJT) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [YG 10th Anniversary](https://open.spotify.com/album/7wU8funBokmL3hL1eP9yR5) | 3:54 |
-| 47 | [Eat](https://open.spotify.com/track/0q3xk0VI0w7omVXYA09sVw) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4hGfV5Acxf3DoNBD2C7PhX) | 2:41 |
-| 48 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 |
-| 49 | [My Story](https://open.spotify.com/track/79zakrunWiO9JLOJNfcDuJ) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [The Wind, The Sea, The Rain](https://open.spotify.com/album/51NQxu89Z3tkaiLN4GX3lL) | 4:38 |
-| 50 | [Maybe It’s Not Our Fault](https://open.spotify.com/track/2xxAW1kGFSVCDdRVoryX8R) | [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Our love is great](https://open.spotify.com/album/6o7uJmwJP40A8lllMXk8MW) | 3:53 |
+| 47 | [I hope It would be that way now](https://open.spotify.com/track/7JwuKDRmTGtiNoUo0HhSyr) | [Lena Park](https://open.spotify.com/artist/7MNyflLAWpaH0EPw1fdORD) | [Gift](https://open.spotify.com/album/12UzJwaPZVN6JMSirhn6NB) | 4:57 |
+| 48 | [Eat](https://open.spotify.com/track/0q3xk0VI0w7omVXYA09sVw) | [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Eat](https://open.spotify.com/album/4hGfV5Acxf3DoNBD2C7PhX) | 2:41 |
+| 49 | [My Everything](https://open.spotify.com/track/2zuNdzBq4CPTlKySi2UHth) | [BROWN EYED SOUL](https://open.spotify.com/artist/7AVa6rcpTQWVqgy91llPP5) | [Soul Free](https://open.spotify.com/album/7zM9ILBsO6580uSLZzV8hC) | 4:53 |
+| 50 | [Let's start our love again](https://open.spotify.com/track/4F0MBoi8SP3HhzJ8aDQX7L) | [Johan Kim](https://open.spotify.com/artist/7kqUt0kZIfski1GVmbwjG3) | [Let's start our love again](https://open.spotify.com/album/1wizL9Nmk6BRuQyH8LhfKL) | 4:27 |
 
 Snapshot ID: `MTcxMjI2MTM2MCwwMDAwMDAwMDRhZTY5NGRkNzViOGRhM2M5YjIwYzFjY2UzM2Q4NTcz`

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-274 songs - 15 hr 14 min
+275 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -74,6 +74,7 @@
 | [Dámelo To’ \(feat\. Myke Towers\)](https://open.spotify.com/track/36CiGk9oRdwTnBDMgKEfjl) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [Revelación \- EP](https://open.spotify.com/album/2jGa3OwXatFYQAIS7OV7k9) | 3:04 | 2023-12-30 |  |
 | [Easy Lover \(feat\. Big Sean\)](https://open.spotify.com/track/3zG8GtVDcRLUPNDeIvzY7i) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Higher Than Heaven \(Deluxe\)](https://open.spotify.com/album/6FL3GfTcb8cf4xwMJlcynq) | 3:35 | 2023-12-30 |  |
 | [Easy Lover \- Workout Remix 140 Bpm](https://open.spotify.com/track/3r36au0ztmAKCiPLKr6nIJ) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [Kick Boxing Fall 2022 Workout Session \(60 Minutes Non\-Stop Mixed Compilation for Fitness & Workout \- 140 Bpm / 32 Count\)](https://open.spotify.com/album/2wpWGNSbdTSjjOJiwYuiSt) | 3:53 | 2023-12-30 |  |
+| [Ego Talking](https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [In Search Of The Antidote](https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q) | 2:23 | 2024-04-23 |  |
 | [Either Way](https://open.spotify.com/track/4f49NZW0PuKOGo1Sz6v6gz) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Either Way \(Official Video\)](https://open.spotify.com/album/6OBdlaBLFdclnF4n9aBZLv) | 3:05 | 2024-01-01 | 2024-02-01 |
 | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/track/3nodtPfXcok53E8Uze8gvD) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Either Way \(feat\. Joey Bada$$\)](https://open.spotify.com/album/2BGe2R4RsBOGdzZF7bGglE) | 3:07 | 2023-12-30 |  |
 | [Electric Touch](https://open.spotify.com/track/0AS090YJNo3vh75GrFxwbX) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [GALLERY](https://open.spotify.com/album/2FNk380jCQyICbwtkOdEHE) | 3:18 | 2023-12-30 |  |

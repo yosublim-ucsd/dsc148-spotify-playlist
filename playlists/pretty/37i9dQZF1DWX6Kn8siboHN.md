@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 
 > ¡Viejitas pero bonitas! Qué suene el acordeón y el bajo sexto\. Ramón Ayala en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 694,690 likes - 150 songs - 7 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,373 likes - 150 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 51 | [Tus Verdades](https://open.spotify.com/track/2dFhOP19RFP0GDg0gCBVST) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:35 |
 | 52 | [Cuando Nadie Te Quiera](https://open.spotify.com/track/4cqK9ZrhqmpTuL1HcMRIhJ) | [Los Baron De Apodaca](https://open.spotify.com/artist/0FQUUcABeNbZZtWq8IRE3w) | [Cariño Santo](https://open.spotify.com/album/5tM5pcfCxtVoX9mquV1Ruo) | 3:20 |
 | 53 | [Sabiendo Quien Era Yo](https://open.spotify.com/track/5zqqZn6KxTKYCONNQh7OWJ) | [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Exitos De Oro](https://open.spotify.com/album/0EHfx6GQgNM2KLrJuHZ4QP) | 3:32 |
-| 54 | [Casas de Madera](https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 4:23 |
-| 55 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
+| 54 | [La Hielera](https://open.spotify.com/track/5SfMvDB6IWwJaUdqB0Aagg) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Con Experiencia Y Juventud](https://open.spotify.com/album/5kkoAGv1jXUSf7qTUsUbbe) | 2:41 |
+| 55 | [Casas de Madera](https://open.spotify.com/track/6aBQBHd6G9tX287t88CcL0) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [La Gran Colección del 60 Aniversario CBS \- Ramón Ayala y Sus Bravos del Norte](https://open.spotify.com/album/7uLhxdfPeAkZ9BmfRHJTiN) | 4:23 |
 | 56 | [Era Cabrón El Viejo](https://open.spotify.com/track/39mFPN0z66M4azlAljnFHc) | [Luis y Julian](https://open.spotify.com/artist/5lcjVQ4c220HJHr0AuZXdl) | [Era Cabron El Viejo](https://open.spotify.com/album/4qkWGXtdS7AQDlqIpgjyP6) | 3:21 |
 | 57 | [Aviéntame](https://open.spotify.com/track/3owpZ2lx2iMQ3FkeI5VKmA) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Camino Equivocado](https://open.spotify.com/album/05vVVrRFertqgAd35Bfpw2) | 3:12 |
 | 58 | [Basta Ya](https://open.spotify.com/track/6uXR7oitl7kvlavDicsK46) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [El Amor Que Nunca Fue](https://open.spotify.com/album/0sEHB7vdwHwtKG8ofCmDOT) | 3:24 |
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX6Kn8siboHN.md) - [plain]
 | 118 | [El Primer Tonto](https://open.spotify.com/track/6y5GaZRI2cy2RKz9B3drTe) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Compraron Una Cantina](https://open.spotify.com/album/1eL97CF6V1JQWs8PcDNKdk) | 2:50 |
 | 119 | [Si Yo Fuera Él](https://open.spotify.com/track/2mhV4BmW4uZWBS82bzqyFN) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Si Yo Fuera El](https://open.spotify.com/album/1AT0D64SmSe6CBCYtRKsBd) | 2:48 |
 | 120 | [Amor Añejo](https://open.spotify.com/track/5wQPzPYb5vE6OLWFFats8U) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Se Quitan El Sombrero](https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz) | 3:14 |
-| 121 | [Belleza De Cantina](https://open.spotify.com/track/28V858H8DAUHqxh6KsNx5l) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:00 |
-| 122 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 |
+| 121 | [Mundo De Amor](https://open.spotify.com/track/6WjokN1zbNGTNsBkzBd9gd) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Mundo De Amor](https://open.spotify.com/album/4j3lGLBvF4xIcIvRtavqUt) | 2:49 |
+| 122 | [Belleza De Cantina](https://open.spotify.com/track/28V858H8DAUHqxh6KsNx5l) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [Lo Mas Ranchero De...](https://open.spotify.com/album/68h0xn8Z16efzIQpyKxDc3) | 3:00 |
 | 123 | [Apenas Te Fuistes Ayer](https://open.spotify.com/track/6V79WQFVLdiCLrlsYpdQTV) | [Los Tigres Del Norte](https://open.spotify.com/artist/3hYtANQYrE6pd2PbtEyTIy) | [Mi Buena Suerte](https://open.spotify.com/album/3Ucu7Yp0cBJvikdVn5qsUA) | 2:43 |
 | 124 | [Actos De Un Tonto](https://open.spotify.com/track/6X3uMhKVvCXhVxuUql4Vlh) | [Conjunto Primavera](https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb) | [35 Aniversario](https://open.spotify.com/album/08euInxZ3T8O2ovqi4nenh) | 3:47 |
 | 125 | [Qué No Daría](https://open.spotify.com/track/6zWWMgNPLMHokpH2gRzyeS) | [Cardenales De Nuevo León](https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV) | [30 Aniversario](https://open.spotify.com/album/6f5IiICnKkxyY1hugd4ouh) | 2:49 |

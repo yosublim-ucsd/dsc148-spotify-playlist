@@ -2908,7 +2908,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -4464,6 +4464,24 @@
       "duration_ms": 164457,
       "name": "Butter (Megan Thee Stallion Remix)",
       "url": "https://open.spotify.com/track/3JR0ducCexKbeK47g6AHm5"
+    },
+    {
+      "album": {
+        "name": "ASTROWORLD",
+        "url": "https://open.spotify.com/album/5qeikHFUgeO8f8HXm8k4cA"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190557,
+      "name": "BUTTERFLY EFFECT",
+      "url": "https://open.spotify.com/track/6xcJyGpfZbuuiequtnlKt4"
     },
     {
       "album": {
@@ -8002,7 +8020,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
@@ -8678,7 +8696,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -8964,7 +8982,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -9213,6 +9231,24 @@
     },
     {
       "album": {
+        "name": "Fall Back / Selfish Game",
+        "url": "https://open.spotify.com/album/2GHbc54y99znaPCsyzvLjR"
+      },
+      "artists": [
+        {
+          "name": "Lithe",
+          "url": "https://open.spotify.com/artist/7LVC96BEVGugTAp38AajV6"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129522,
+      "name": "Fall Back",
+      "url": "https://open.spotify.com/track/1aHy1ipWQRNauI0ee9uYfi"
+    },
+    {
+      "album": {
         "name": "Honestly, Nevermind",
         "url": "https://open.spotify.com/album/2hicq6IKmDsPxZV7fJablX"
       },
@@ -9444,6 +9480,24 @@
       "duration_ms": 208264,
       "name": "FATO",
       "url": "https://open.spotify.com/track/49WqTD3jHFFNE50FjX6S8k"
+    },
+    {
+      "album": {
+        "name": "favorite",
+        "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133608,
+      "name": "favorite",
+      "url": "https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be"
     },
     {
       "album": {
@@ -11370,7 +11424,7 @@
       ],
       "date_added": "2021-03-27",
       "date_added_asterisk": true,
-      "date_removed": "2021-05-10",
+      "date_removed": null,
       "duration_ms": 243836,
       "name": "goosebumps",
       "url": "https://open.spotify.com/track/6gBFPUFcJLzWGx4lenP6h2"
@@ -11974,7 +12028,7 @@
       ],
       "date_added": "2022-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 165882,
       "name": "Havana",
       "url": "https://open.spotify.com/track/4i9Ul89UPf5YPppdOspCH6"
@@ -12726,7 +12780,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -12964,7 +13018,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-10",
+      "date_removed": null,
       "duration_ms": 211582,
       "name": "I KNOW ?",
       "url": "https://open.spotify.com/track/6wsqVwoiVH2kde4k4KKAFU"
@@ -13272,7 +13326,7 @@
       ],
       "date_added": "2023-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-01",
+      "date_removed": null,
       "duration_ms": 168000,
       "name": "Ia-ma Du-ma",
       "url": "https://open.spotify.com/track/7dpjndI7KXtTVAERTplKMw"
@@ -15094,7 +15148,7 @@
       ],
       "date_added": "2022-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 135145,
       "name": "Lalele mentolate - From \"Romina VTM\" The Movie",
       "url": "https://open.spotify.com/track/7jOlpikiyyYEpPGeJQdcnM"
@@ -16500,7 +16554,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 173419,
       "name": "Lunetist",
       "url": "https://open.spotify.com/track/0dN62YT06ktx5Ysk359xAp"
@@ -16662,7 +16716,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 155395,
       "name": "Macar o Data",
       "url": "https://open.spotify.com/track/7LznyeDoXi55LnP0fxmQrH"
@@ -18344,7 +18398,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -18362,7 +18416,7 @@
       ],
       "date_added": "2023-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-11",
+      "date_removed": null,
       "duration_ms": 251249,
       "name": "MY EYES",
       "url": "https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M"
@@ -19114,7 +19168,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-03",
+      "date_removed": null,
       "duration_ms": 321560,
       "name": "Nightcrawler (feat. Swae Lee & Chief Keef)",
       "url": "https://open.spotify.com/track/3xby7fOyqmeON8jsnom0AT"
@@ -22458,7 +22512,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
@@ -23006,6 +23060,24 @@
       "duration_ms": 81014,
       "name": "Regii NFT",
       "url": "https://open.spotify.com/track/2JqiJCN3C9QPcD3baxZYyN"
+    },
+    {
+      "album": {
+        "name": "REGINA",
+        "url": "https://open.spotify.com/album/5v1ISrc4VsxiFhoxJj1Qk8"
+      },
+      "artists": [
+        {
+          "name": "NOUA UNSPE",
+          "url": "https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138666,
+      "name": "REGINA",
+      "url": "https://open.spotify.com/track/5yGAxh5wM6di5gmlD79jDY"
     },
     {
       "album": {
@@ -25802,7 +25874,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
@@ -27642,7 +27714,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 128181,
       "name": "Tati, vreau",
       "url": "https://open.spotify.com/track/7hoILhEoePHXh6qTw5H0Fe"
@@ -28786,10 +28858,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {

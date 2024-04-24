@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 
 > New takes on old classics!
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,118 likes - 360 songs - 15 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,216 likes - 360 songs - 15 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -239,7 +239,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OxnjWYRVU0.md) - [plain]
 | 229 | [Build A Bitch](https://open.spotify.com/track/28FXrcqbCmfzG5xvXXRKEm) | [Jenil](https://open.spotify.com/artist/2bStSSSAYNLCBApc6Qrirf), [Protocleus](https://open.spotify.com/artist/7MAfG3KhTpjTZ3iHhIWBsy) | [Build A Bitch](https://open.spotify.com/album/6ePthL4bwPXwTyp7Lh79ZI) | 2:07 |
 | 230 | [Astronaut In The Ocean](https://open.spotify.com/track/1xOgDZRSKEHZXAdVkT0GJE) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Felix Schorn](https://open.spotify.com/artist/5Y3LAQBJps65m6FDjYimC4), [NOTSOBAD](https://open.spotify.com/artist/2aLLYZ0sdqweMEPFUyYIXJ), [Citycreed](https://open.spotify.com/artist/1t6HSm0c9XHmo2uM37JPCc) | [Astronaut In The Ocean](https://open.spotify.com/album/6AR7qwFFcW7UIAvunTIgMg) | 2:13 |
 | 231 | [123 \(Dolly Song\) feat\. Karma Child](https://open.spotify.com/track/3GTyqpv12KmARyhilpvKHA) | [Rompasso](https://open.spotify.com/artist/7dJzxVffEZI5MuHOJiQB5A), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj), [Karma Child](https://open.spotify.com/artist/4BThBqcTzRGFRvbddMykk7) | [123 \(Dolly Song\) \(feat\. Karma Child\)](https://open.spotify.com/album/7nKQ40N96dRpJxIm9bEMEp) | 2:21 |
-| 232 | [California Dreaming](https://open.spotify.com/track/1DZvsj6dfrD8aNkYEgFZ5R) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Lunis](https://open.spotify.com/artist/1YjaVTeHBlVRRxbk7H30HN), [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd) | [California Dreaming](https://open.spotify.com/album/6BhCiPdND2Xf80HnksrJOR) | 2:13 |
+| 232 | [California Dreaming](https://open.spotify.com/track/1DZvsj6dfrD8aNkYEgFZ5R) | [Besomorph](https://open.spotify.com/artist/619CzMJPPWrCeZwx5qw6ko), [Besomage](https://open.spotify.com/artist/4ivfOZMa6lNjfcfpubOg6q), [Nito\-Onna](https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY), [BRAN](https://open.spotify.com/artist/44CMqAkutKvmCaE2OxyCbd) | [California Dreaming](https://open.spotify.com/album/6BhCiPdND2Xf80HnksrJOR) | 2:13 |
 | 233 | [Just Dance](https://open.spotify.com/track/4Uh2Y3yea56QOalksoUuet) | [Wasback](https://open.spotify.com/artist/3rmYE7edorDWoKVPGk9iLZ), [Jada](https://open.spotify.com/artist/2pobDPwk9fuzujz5YKKAVB) | [Just Dance](https://open.spotify.com/album/7ChGyr4NettXR90eBrjgwV) | 1:54 |
 | 234 | [Friday Night \(It's Not Right\)](https://open.spotify.com/track/4xuoZzmW07K2zCl8bGzOen) | [Bruno Be](https://open.spotify.com/artist/37UXlMGND0Tr7Su43RxHQ0), [Kiko Franco](https://open.spotify.com/artist/3SNKZ8uTQoSyMsUNqNBOD2) | [Friday Night \(It's Not Right\)](https://open.spotify.com/album/3YaYGppuypevDu41rrfttH) | 2:49 |
 | 235 | [I'm Outta Love](https://open.spotify.com/track/7sUsPuCjzjyoNrCtWeIVFB) | [Twelve](https://open.spotify.com/artist/5WwVhFK3J7CWQn30hZ8GPb) | [I'm Outta Love](https://open.spotify.com/album/2mYCZ5X8h5eOOA77qhkh0u) | 2:41 |

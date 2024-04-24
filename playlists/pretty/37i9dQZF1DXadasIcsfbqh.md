@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 
 > Pop country hits of today and tomorrow\. Cover: Miranda Lambert and Enrique Iglesias
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,697 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,778 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,12 +85,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXadasIcsfbqh.md) - [plain]
 | 75 | [Easy To Miss](https://open.spotify.com/track/22CreGLxXnyqg2ktUVZShT) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Nobody’s Born With A Broken Heart \(the first few\)](https://open.spotify.com/album/10ttWGowlB9os9gWQzSwkT) | 2:49 |
 | 76 | [Save Me The Trouble](https://open.spotify.com/track/1mbGClliIFnN06tuMdnkZn) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Bigger Houses](https://open.spotify.com/album/2kJbSNF5JDzEOwYuqNc5PQ) | 3:20 |
 | 77 | [Giving You Up](https://open.spotify.com/track/3f3VeiJIaWOZcmkJpTqxyj) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [Giving You Up](https://open.spotify.com/album/5kb55Z7no2v4AJjBGL2h6p) | 3:50 |
-| 78 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
-| 79 | [last one to love me](https://open.spotify.com/track/3yD9M6hIAudzN8HVfBmfln) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [last one to love me](https://open.spotify.com/album/33V8IILExjWEcG090y219U) | 2:26 |
+| 78 | [last one to love me](https://open.spotify.com/track/3yD9M6hIAudzN8HVfBmfln) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [last one to love me](https://open.spotify.com/album/33V8IILExjWEcG090y219U) | 2:26 |
+| 79 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
 | 80 | [Anything She Says](https://open.spotify.com/track/6LQxv30jh0lCISHsPYwqoy) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Anything She Says](https://open.spotify.com/album/0xuuAAiiNHuLd3QUstmwMQ) | 2:49 |
-| 81 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
+| 81 | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC) | 3:07 |
 | 82 | [Steal My Love](https://open.spotify.com/track/0vzSAyinyA619ZbrOaAi04) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Good Things](https://open.spotify.com/album/7L8IHgiomfEpxOm61vgPTm) | 2:42 |
-| 83 | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/track/0VNb0HzD2oxJ9zyRbv7xFH) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [More Than Yesterday \(feat\. Russell Dickerson\)](https://open.spotify.com/album/4Guul13nGTNGzV05VTMwqC) | 3:07 |
+| 83 | [Giddy Up!](https://open.spotify.com/track/4NdJlsPyvXz15LySCNoL2W) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Giddy Up!](https://open.spotify.com/album/55ur1fpimHIf1A63SP2Xwy) | 2:42 |
 | 84 | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/track/2GgqnsIe9oNOfXN4YCI2eo) | [Walker Hayes](https://open.spotify.com/artist/7sKxqpSqbIzphAKAhrqvlf), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [Fancy Like \(feat\. Kesha\)](https://open.spotify.com/album/2Z6lVnDJpJPmFro7dOziHA) | 2:41 |
 | 85 | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/track/3bf3XBOxWYhspKjUNsmD8Q) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz), [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE) | [Nothing Compares To You \(Feat\. Kane Brown\)](https://open.spotify.com/album/0BYlX788W98lKLXQ4RqKKG) | 3:27 |
 | 86 | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/track/4rainsOvZId6i9i9Ssl6Hb) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec), [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Date Night \(feat\. Morgan Evans\)](https://open.spotify.com/album/3bAFWQJ9npu4hqjxkpDRYN) | 2:51 |

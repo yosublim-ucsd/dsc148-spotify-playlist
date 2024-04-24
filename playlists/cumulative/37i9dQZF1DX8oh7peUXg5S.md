@@ -2,7 +2,7 @@
 
 ### [Cantautores](https://open.spotify.com/playlist/37i9dQZF1DX8oh7peUXg5S)
 
-> El don de cantar y componer, una playlist llena de talento\. Foto: Depedro.
+> El don de cantar y componer, una playlist llena de talento\. Foto: Silvio Rodríguez.
 
 281 songs - 17 hr 53 min
 
@@ -113,7 +113,7 @@
 | [Guapa](https://open.spotify.com/track/3KQDPSO8QYeqjQNphIf8ef) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Guapa](https://open.spotify.com/album/4RkNRTFEPawbKupoxCz3US) | 4:45 | 2022-06-09 | 2022-07-21 |
 | [Guapa](https://open.spotify.com/track/6FCrZ2Eh3T0Wk45EsB3auG) | [Edgar Oceransky](https://open.spotify.com/artist/6genEcweKnEZ92TZvdeLFl), [Diego Ojeda](https://open.spotify.com/artist/0eDQlGtmwyq67ApA0Yhyfl) | [Maldita Vocación](https://open.spotify.com/album/3CuB8tyC9WnmtwA1Fee3ku) | 4:45 | 2022-06-30 | 2024-04-19 |
 | [Habaneras de Cádiz](https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW) | [Carlos Cano](https://open.spotify.com/artist/3DmpE6oHcvPFhtMTSlLMFB) | [De Lo Perdido Y Otras Coplas](https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC) | 5:46 | 2022-06-09 | 2022-07-26 |
-| [Habilidad](https://open.spotify.com/track/7IkVtjroq1agMpZsiihqZ1) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Un lugar perfecto](https://open.spotify.com/album/4xlJYN385bxZiw4QpF14P9) | 3:53 | 2024-04-04 |  |
+| [Habilidad](https://open.spotify.com/track/7IkVtjroq1agMpZsiihqZ1) | [Depedro](https://open.spotify.com/artist/3wpNKcE7grYUIRKCMpmBOb) | [Un lugar perfecto](https://open.spotify.com/album/4xlJYN385bxZiw4QpF14P9) | 3:53 | 2024-04-04 | 2024-04-24 |
 | [Hablame del Mar, Marinero](https://open.spotify.com/track/4V5WoW97fMrwGqI8B7XM7R) | [Marisol](https://open.spotify.com/artist/0sJaoFM0uFCOBE5Qcrhv7n) | [De Marisol A Pepa Flores](https://open.spotify.com/album/73Wl1DZw4FCGwGNdATSCIO) | 3:45 | 2022-06-30 | 2022-07-24 |
 | [Honrar la Vida](https://open.spotify.com/track/5qAYAoahHsmbH8l1BhIoQ6) | [Sole Gimenez](https://open.spotify.com/artist/56FObtReljLqgs2bgQ0kZS), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Honrar la Vida](https://open.spotify.com/album/4cLGB4NfJG9nll9zTPPSb4) | 3:49 | 2022-06-09 | 2022-07-29 |
 | [Hoy Ten Miedo De Mi](https://open.spotify.com/track/4gXv9Rw5aLPkgzdhKFBCir) | [Fernando Delgadillo](https://open.spotify.com/artist/3dzMXO1RxEyQnFemhMIvnc) | [Con Cierto Aire a Ti](https://open.spotify.com/album/3sE2cw64lJ7L5jqbBkDcBA) | 2:58 | 2022-08-11 |  |
@@ -244,7 +244,7 @@
 | [Solo le Pido a Dios](https://open.spotify.com/track/5zXJVUTFMZlwZ3BKC9FBSC) | [Mercedes Sosa](https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7), [León Gieco](https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq) | [La Negra \- The Definitive Collection](https://open.spotify.com/album/0a46V30Rb49IYla0NQQaqe) | 4:39 | 2022-06-09 |  |
 | [Solo Otra Vez \- Alone Again](https://open.spotify.com/track/2Oeu9Qz2fRSgtKohOvGgEP) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Último Acto](https://open.spotify.com/album/3ZwIwLuB8YNlhwV2xuGWbt) | 3:26 | 2022-06-09 |  |
 | [Solo para Ti](https://open.spotify.com/track/6el7pMTZwQEWfpFNg5leuh) | [La Otra](https://open.spotify.com/artist/5mHe4QndQw0Jc5dFYn1Qe7), [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Eva Sierra](https://open.spotify.com/artist/2wOD9A7TLRFCSxyFyv9A7V) | [Solo para Ti](https://open.spotify.com/album/5jan6YmFUSlMdOg0mgz9yq) | 3:35 | 2022-06-09 |  |
-| [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 | 2022-09-22 | 2024-04-20 |
+| [Solo Pienso en Ti](https://open.spotify.com/track/6NAGNKLKSY8FOHIpMMFZjW) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazon Tendido Al Sol Y Otros Grandes Exitos](https://open.spotify.com/album/0HGv49ONlzwgnzxbWZofPl) | 4:11 | 2022-09-22 |  |
 | [Soy un Corazón Tendido al Sol](https://open.spotify.com/track/3hsmqJJFkQfpRBlxMsaKf5) | [Víctor Manuel](https://open.spotify.com/artist/6cFqY5mkBqKqaIYunDg1k8) | [Soy Un Corazón Tendido Al Sol](https://open.spotify.com/album/7FRX45DynbKTm8cvlONpbB) | 4:24 | 2023-07-10 |  |
 | [Soñar Contigo](https://open.spotify.com/track/5PyDjh950FnFbibipV2RoS) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i) | [Los Mares De China](https://open.spotify.com/album/6BrFNm0d7rZZCnKYHxm4LA) | 3:06 | 2022-06-09 |  |
 | [Soñar Contigo](https://open.spotify.com/track/5WKzka1jZPxUDW6gIjKOSQ) | [Zenet](https://open.spotify.com/artist/2s7td67DdtSXTx2TGzs01i), [Sílvia Pérez Cruz](https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw) | [Soñar Contigo](https://open.spotify.com/album/4ViiFnAxrjJsARuAKD756H) | 4:35 | 2022-06-09 | 2022-07-29 |

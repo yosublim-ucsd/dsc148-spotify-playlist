@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 
 > This is Nicky Romero\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,320 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,293 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 9 | [Sensation](https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Sensation](https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs) | 2:54 |
 | 10 | [Tomorrow Comes](https://open.spotify.com/track/3grXANppXUHlF4KCHxPcST) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Deniz Koyu](https://open.spotify.com/artist/39PhMWg1aAuuZcph0OXGu6), [Jaimes](https://open.spotify.com/artist/6EdfpkgBzauysFts2D0LSO) | [Tomorrow Comes](https://open.spotify.com/album/1qpYpWLFMQb2PKMrXjMull) | 3:31 |
 | 11 | [I Need You To Know](https://open.spotify.com/track/3KFei4ncqdevg1vZaAZgIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Ifimay](https://open.spotify.com/artist/475ysTPd5Bci0mElQUcYak) | [I Need You To Know](https://open.spotify.com/album/0GszUkmBG6eFyU7sYSmjpt) | 3:00 |
-| 12 | [Turn Off The Lights \- VIP Mix](https://open.spotify.com/track/5zeJeJkxOFYe2Vx2YRTeEx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Turn Off The Lights \(VIP Mix\)](https://open.spotify.com/album/6na0pPLeZHzJ2HJpITcq9b) | 2:28 |
-| 13 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 |
+| 12 | [Toulouse \- Bobby Anthony Vocal Mix](https://open.spotify.com/track/2bsyecmZCgdlsCZ3sWVZ99) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Toulouse \(Bobby Anthony Vocal Mix\)](https://open.spotify.com/album/4DyQjNtnI0PQMCWOdcO5V2) | 2:58 |
+| 13 | [Turn Off The Lights \- VIP Mix](https://open.spotify.com/track/5zeJeJkxOFYe2Vx2YRTeEx) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Turn Off The Lights \(VIP Mix\)](https://open.spotify.com/album/6na0pPLeZHzJ2HJpITcq9b) | 2:28 |
 | 14 | [Out Of Control](https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [EDX](https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6) | [Out Of Control](https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk) | 2:48 |
 | 15 | [For The People](https://open.spotify.com/track/4MvA2osUdPQpDKNwuDjlM8) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V) | [For The People](https://open.spotify.com/album/5QcP3EZoMWUi0ETWkh0NAj) | 3:39 |
 | 16 | [Time Keeper](https://open.spotify.com/track/7aQ5uJmlptmX4ezpvhSPrU) | [Monocule](https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR), [Dallerium](https://open.spotify.com/artist/4fxRhGF08oSVvvjHoK6QNO), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg) | [Time Keeper](https://open.spotify.com/album/0cY7IaQHde6rUN32qiSBgx) | 3:10 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3j5vfW.md) - [plain]
 | 50 | [Midnight Sun](https://open.spotify.com/track/6qTP59Amjny78Qd8zayuNW) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Florian Picasso](https://open.spotify.com/artist/4GWqzTTt2uA9Ms6HfUhWUn) | [Midnight Sun](https://open.spotify.com/album/2ygLSy0t0RxPNo6CSybOVZ) | 2:25 |
 | 51 | [Back To Where We Started](https://open.spotify.com/track/3Xkf0dPNJbLMzi2BuGmbDo) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz) | [Back To Where We Started](https://open.spotify.com/album/4Oe7H10BsC7n7hiAFruhQa) | 3:29 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGNlNTNlNDc0ZDMwYzYxNDdkYWJhNjQ3NmFjZWE1OWZl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDEwMzAwNTA3Mzc0NDRkODRkNmQ4OTcyOTQyNjE1ODk0`

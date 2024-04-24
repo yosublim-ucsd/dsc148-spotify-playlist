@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42rTd7wQPNO.md) - [plain]
 
 > The soundtrack to your weekend in the desert, curated by our favorite Coastal Cowgirl Daisy Kent
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,580 likes - 131 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,426 likes - 131 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

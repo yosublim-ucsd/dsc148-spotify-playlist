@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 
 > This is Kierra Sheard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,288 likes - 50 songs - 4 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,294 likes - 50 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EDOAw.md) - [plain]
 | 43 | [Hear This](https://open.spotify.com/track/1NABT15PuixOq4qohUy3Uo) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [This Is Me](https://open.spotify.com/album/4PCQU5pErsJUnQXdFmsErB) | 4:49 |
 | 44 | [All I Am](https://open.spotify.com/track/1FZFAtqLVRrB9pWZWoNd3z) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [I Owe You](https://open.spotify.com/album/2xmUC6JDf6PS06lb1ZJffL) | 2:52 |
 | 45 | [Intro \(I Am Free\) \- Live](https://open.spotify.com/track/21e3oY4Oyz7x9E1pV4QpDY) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 1:15 |
-| 46 | [So Glad](https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reset](https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS) | 4:42 |
-| 47 | [How Great Thou Art](https://open.spotify.com/track/5FnP7QoLkJJqMTMkDF7SBc) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 7:33 |
-| 48 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 |
-| 49 | [You Must Break \- Live](https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 9:07 |
+| 46 | [Something To Believe In](https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD) | [Dante Bowe](https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [The Apartment](https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP) | [Something To Believe In](https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk) | 2:57 |
+| 47 | [So Glad](https://open.spotify.com/track/51BH2ibqUvomGPYProjKtR) | [Isaac Carree](https://open.spotify.com/artist/2bTfKyEM0bSDqmDcZybqzH), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW) | [Reset](https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS) | 4:42 |
+| 48 | [You Must Break \- Live](https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Royalty: Live At The Ryman](https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw) | 9:07 |
+| 49 | [How Great Thou Art](https://open.spotify.com/track/5FnP7QoLkJJqMTMkDF7SBc) | [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Church](https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn) | 7:33 |
 | 50 | [Interlude \- Live](https://open.spotify.com/track/47jRpbPfKz8W5owlb5wrWI) | [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Free](https://open.spotify.com/album/3Wqg1YZuXCLZtsxn26cXee) | 0:55 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDUzNzM4ZGFkNjIwNmUxNGFjMmM0YjI1NGVjMzgzMjVk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGJiMjg0YzViYTJjZDQzMDA3OGJhYjNhOTA1MTE4N2Vk`

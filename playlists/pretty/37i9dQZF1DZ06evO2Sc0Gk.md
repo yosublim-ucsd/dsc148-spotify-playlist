@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 ### [This Is Mr Eazi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Sc0Gk)
 
-> This Is Mr Eazi\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Mr Eazi\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,953 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,955 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 4 | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\)](https://open.spotify.com/track/3D1rlKmZdpYUeMtRRLNawc) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Let Me Live \(feat\. Anne\-Marie & Mr Eazi\)](https://open.spotify.com/album/4lbrKowAEUP76TRU57FAJI) | 3:25 |
 | 5 | [Arcoíris](https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Colores](https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis) | 3:06 |
 | 6 | [Saudi Arabia](https://open.spotify.com/track/5PRU9ErsMVSRNzDeczXanb) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Something Else](https://open.spotify.com/album/45GIEj8DhZu8zUPTWokULu) | 1:59 |
-| 7 | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ) | 3:24 |
-| 8 | [Skin Tight](https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Skin Tight](https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo) | 4:08 |
+| 7 | [Skin Tight](https://open.spotify.com/track/43C8ga8Z7MkOc1TmEzXcJ3) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Efya](https://open.spotify.com/artist/1dlInrJwE0KSP9hZ0ALsI6) | [Skin Tight](https://open.spotify.com/album/0xkIlDRadF78PKqsAS2DSo) | 4:08 |
+| 8 | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/track/6prqX1SW2MMH8hAOIzKQ3Z) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Dance For Me \(Eugy X Mr Eazi\)](https://open.spotify.com/album/0SwJftCsa4HhuNWT11cIlJ) | 3:24 |
 | 9 | [Panadol](https://open.spotify.com/track/2VkxvwW5Vb3hWrB9so0cQ4) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [The Evil Genius](https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG) | 2:29 |
 | 10 | [Nobody](https://open.spotify.com/track/7MtpW10epOD3sUtURL5ZDu) | [DJ Neptune](https://open.spotify.com/artist/3L4ZO0ZaSe1qeucpQK8tBR), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Nobody](https://open.spotify.com/album/0ZLCpl3DOiOgsbSssovdgt) | 2:25 |
 | 11 | [Decline](https://open.spotify.com/track/4qCc2AVDeJYIpAHi9AX1N0) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Decline](https://open.spotify.com/album/17Fwkmg4UJ9ORmuOfqb1ud) | 3:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [Body](https://open.spotify.com/track/44xkTNfuxSrc7VKAegVI1O) | [Eugy Official](https://open.spotify.com/artist/6BhoGzrwRr9eELLBJ55ldo), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW) | [Body](https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv) | 3:36 |
 | 50 | [Business](https://open.spotify.com/track/6Px2Esj5oY27ZvkbkLSA5d) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Mugeez](https://open.spotify.com/artist/2xU6IU13MYie8RcM54Ovt0) | [Life is Eazi, Vol\. 1 \- Accra To Lagos](https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU) | 4:02 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGYzNzE4NmJhYjM0MGNlZTlkY2Q1ZWE3NWNiNzI4OWU2`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDYwN2E2NjQxYTI1MmU5MTFiYWJhMmU1OGU4ZjBmNTA2`

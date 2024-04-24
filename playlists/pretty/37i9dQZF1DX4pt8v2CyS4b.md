@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pt8v2CyS4b.md) - [plain]
 
 > Listen to music from and inspired by Queens, now streaming now on Disney+ and Hulu\. Photo Credit: Oscar Dewhurst.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,007 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,205 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

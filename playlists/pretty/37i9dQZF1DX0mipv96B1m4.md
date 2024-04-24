@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 
 > Top flight Caribbean influenced bangers made in Uganda
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,100 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 27 | [Pull Up On Mi Bumpa](https://open.spotify.com/track/6yephdkcHXCve6irrcrQMp) | [Cindy Sanyu](https://open.spotify.com/artist/7eFAN4BO0YmRqbaEZ1oRsv), [Mungo's Hi Fi](https://open.spotify.com/artist/0Ism1B2cF9NxpXAwdUCkxK) | [Pull Up On Mi Bumpa](https://open.spotify.com/album/7rD99RB3gdmvDFzRVs2cWc) | 3:47 |
 | 28 | [Gyal A Bubble](https://open.spotify.com/track/1gi6SX3ZHw1IMEtPCL6iwj) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Karole Kasita](https://open.spotify.com/artist/1RDiu2gDimIlyTwYha6OM0) | [Feel Me](https://open.spotify.com/album/5UclCEq9PPTybmhQt1aX2R) | 3:16 |
 | 29 | [Be humble](https://open.spotify.com/track/1DeRLkQZCioGKOYXlzOgZV) | [Ratigan Era](https://open.spotify.com/artist/6XmSsmTptfw1G2FtpQfXe0) | [Be humble](https://open.spotify.com/album/653kI0gglML45glmvgeBhh) | 2:34 |
-| 30 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
-| 31 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
+| 30 | [Offline](https://open.spotify.com/track/1RG1d70HrUzbGljyF2wjlI) | [Riff](https://open.spotify.com/artist/2T29CQjXjyp2RAEXUVz6Qh) | [Offline](https://open.spotify.com/album/4BtgtXxG8BujT1B8qVZNRL) | 2:43 |
+| 31 | [Born To Love You \- 2020 Remix](https://open.spotify.com/track/5qJo1Tflqbi1XHj76W3rJZ) | [DJ Shiru](https://open.spotify.com/artist/5HqHB9sOaP0RaBmZozwEho), [Keicy](https://open.spotify.com/artist/5Xg53515cZvxy46kVXf1vW), [BEN](https://open.spotify.com/artist/4FR3mobLORBTuXIxGJTkFW), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD) | [We Can](https://open.spotify.com/album/1woz3iK06NUsrX18WrhgpC) | 3:40 |
 | 32 | [Hot Like Dat](https://open.spotify.com/track/2qCBZ49bw8llG3J3I1OPx0) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE), [Rosa Ree](https://open.spotify.com/artist/1Rk6TiYYU9Rq5M5Kaqz2Vc) | [Hot Like Dat](https://open.spotify.com/album/7p3qOfzFYyntTw0gEeDyBj) | 2:46 |
 | 33 | [Tebali Ready](https://open.spotify.com/track/11GS4DjFxj9GHPnlOhKe5K) | [A Pass](https://open.spotify.com/artist/70FdrG5oIuFyE1eA8HC8XX) | [Tebali Ready](https://open.spotify.com/album/4yafC0oNDkExVSN21Nie1P) | 2:39 |
 | 34 | [Doctor](https://open.spotify.com/track/4YGJ0F3oFdf1U0bdgvibVT) | [Spice Diana](https://open.spotify.com/artist/0l4viSdndwVHufMRZposyM) | [Doctor](https://open.spotify.com/album/1I0QbEiprX6Z7xVKTSd8B4) | 3:13 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0mipv96B1m4.md) - [plain]
 | 45 | [Bwonjagala](https://open.spotify.com/track/0lEioGELKR2846vLXkzvUM) | [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Fille](https://open.spotify.com/artist/5SqLkoaEA3HOgPkesCQkKx) | [Bwonjagala](https://open.spotify.com/album/6YZJxiQl1xFwi8Wgu0Dg3Q) | 2:58 |
 | 46 | [Randomly](https://open.spotify.com/track/1Fv38gwrECsHY2LyNwsnl1) | [Beenie Gunter](https://open.spotify.com/artist/6DxTQayPPAyuz433BQmLtE) | [Randomly](https://open.spotify.com/album/3riIOAhXg6Zo3GNze6M08e) | 2:43 |
 | 47 | [Misege](https://open.spotify.com/track/6gi8P6lydT1Q4QuByWpbaf) | [Dax Vibez](https://open.spotify.com/artist/3CX4qYIxJf5ezSHTYsGaMT), [ZEX BILANGILANGI](https://open.spotify.com/artist/2DOFhYsDkJP2H8bdvLcS9c) | [Misege](https://open.spotify.com/album/4lXTMOCiwMZ7cNiuO629Br) | 3:08 |
-| 48 | [Kyekyo](https://open.spotify.com/track/6GRgSWl7y19yQHyUXjoYG7) | [Sylvia Wase](https://open.spotify.com/artist/7I4Q6C7wLEbm81464NoATE), [Zex Bilangilangi](https://open.spotify.com/artist/19k30kNL4RyLA6A182zubI) | [Kyekyo](https://open.spotify.com/album/2UtGfOn0PJSuRVVrren0bO) | 3:06 |
-| 49 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 |
+| 48 | [Enjoy Life](https://open.spotify.com/track/1mFsMghybfR05jYyfLn6Bo) | [Liam Peaty](https://open.spotify.com/artist/69TPgkTotm19AwHFyqiK7L) | [Enjoy Life](https://open.spotify.com/album/45h7kl0iBa3zMI2kyr6Rk0) | 3:36 |
+| 49 | [Kyekyo](https://open.spotify.com/track/6GRgSWl7y19yQHyUXjoYG7) | [Sylvia Wase](https://open.spotify.com/artist/7I4Q6C7wLEbm81464NoATE), [Zex Bilangilangi](https://open.spotify.com/artist/19k30kNL4RyLA6A182zubI) | [Kyekyo](https://open.spotify.com/album/2UtGfOn0PJSuRVVrren0bO) | 3:06 |
 | 50 | [Nkwatewa](https://open.spotify.com/track/4fvpUiaak8u4jjcW9WQCJg) | [selecta jef](https://open.spotify.com/artist/2t5Ttmw4e2ELZmxD2vfsTv), [Daddy Andre](https://open.spotify.com/artist/4lKjCuPd5ch3mlJOs6Yowo), [Bebe Cool](https://open.spotify.com/artist/6x4C5hivCmfL4SIluxGV81) | [Nkwatewa](https://open.spotify.com/album/6kgT8uvBzofMYLxeqx6rBe) | 3:01 |
 
 Snapshot ID: `MTcwOTI5NjA4NCwwMDAwMDAwMDhkZTUwZGQ4NWYxNzVjMjIwYzcxYTc4NWJhZThiOTBi`

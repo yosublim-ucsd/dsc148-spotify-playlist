@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 
 > This is Mac Júlia\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,265 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,267 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0fXqHm.md) - [plain]
 | 49 | [Tira a Roupa sua Louca Vs Ele Carrega Minha Bolsa](https://open.spotify.com/track/4cTMZxROSq5xchtTNrz7W6) | [Mc Jajau](https://open.spotify.com/artist/3xJ3stRn1VTzH0EgGmF4hm), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Markim WF](https://open.spotify.com/artist/4q3N2WZiTq26rLMdpIGRgP) | [Tira a Roupa sua Louca Vs Ele Carrega Minha Bolsa](https://open.spotify.com/album/7CtLXWiHSbTmb5elDBX7ug) | 1:10 |
 | 50 | [Tropa das Gostosa](https://open.spotify.com/track/5pco3pgx71DTd6uIY8Pwnr) | [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS), [Mac Júlia](https://open.spotify.com/artist/0xXEI1dXDaCOmkIPNYtPWF), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Tropa das Gostosa](https://open.spotify.com/album/1bZxwEW9LiZvun86XQiFVF) | 2:01 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDllODdlNWVhZGVhY2FlYzU5ZWRmNTQwZTBjMmFiMDIx`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGUxOTY3MGYyNDA0OGNkY2VhNDMyZTBlNmEwYzFkODM5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: Haley Bridge
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,216 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,240 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

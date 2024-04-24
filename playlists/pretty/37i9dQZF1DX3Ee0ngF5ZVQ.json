@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Josh Abbott Band",
-  "num_followers": 412798,
+  "num_followers": 412559,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -911,18 +911,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Saddest Town in Texas",
-        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
+        "name": "Happy Hour",
+        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
       },
       "artists": [
         {
-          "name": "Rusty Gear",
-          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
+          "name": "Hayes Carll",
+          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
         }
       ],
-      "duration_ms": 212731,
-      "name": "Saddest Town in Texas",
-      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
+      "duration_ms": 191777,
+      "name": "Happy Hour",
+      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Happy Hour",
-        "url": "https://open.spotify.com/album/5CZAEHWXrGtkUDQjsLyjM2"
+        "name": "Saddest Town in Texas",
+        "url": "https://open.spotify.com/album/6YVJ3LQTCbhOrjc6xujrEC"
       },
       "artists": [
         {
-          "name": "Hayes Carll",
-          "url": "https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV"
+          "name": "Rusty Gear",
+          "url": "https://open.spotify.com/artist/1e9q9D5SODSTajOBo1VQqh"
         }
       ],
-      "duration_ms": 191777,
-      "name": "Happy Hour",
-      "url": "https://open.spotify.com/track/1NrpMKByuTCn9Bck5mdqOm"
+      "duration_ms": 212731,
+      "name": "Saddest Town in Texas",
+      "url": "https://open.spotify.com/track/3WeWNp3vXMssbXzeGSczGz"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Here's To You. Here's To Me.",
-        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
+        "name": "Who I Am",
+        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
       },
       "artists": [
         {
-          "name": "William Beckmann",
-          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
+          "name": "Tanner Usrey",
+          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
         }
       ],
-      "duration_ms": 182318,
-      "name": "Tennessee Drinkin'",
-      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
+      "duration_ms": 257146,
+      "name": "Who I Am",
+      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Easy as Hello",
-        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+        "name": "Here's To You. Here's To Me.",
+        "url": "https://open.spotify.com/album/0RajpG21iVawsEygzQlxxl"
       },
       "artists": [
         {
-          "name": "Sunny Sweeney",
-          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+          "name": "William Beckmann",
+          "url": "https://open.spotify.com/artist/3AJURVT7BuD01gl1nQS5tb"
         }
       ],
-      "duration_ms": 279796,
-      "name": "Easy as Hello",
-      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+      "duration_ms": 182318,
+      "name": "Tennessee Drinkin'",
+      "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1431,6 +1431,38 @@
       "duration_ms": 234592,
       "name": "In Case You Didn\u2019t Know",
       "url": "https://open.spotify.com/track/21u5BXmVmipPoLlBFN11FD"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Easy as Hello",
+        "url": "https://open.spotify.com/album/0mkGw6UuI4b9Co1SUewxFm"
+      },
+      "artists": [
+        {
+          "name": "Sunny Sweeney",
+          "url": "https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL"
+        }
+      ],
+      "duration_ms": 279796,
+      "name": "Easy as Hello",
+      "url": "https://open.spotify.com/track/5hVBphaDDDa8AOnBPy5z4w"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Don\u2019t Mess With Exes",
+        "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Don\u2019t Mess With Exes",
+      "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1459,18 +1491,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Don\u2019t Mess With Exes",
-        "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
+        "name": "I Ain't Drinkin' anymore",
+        "url": "https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy"
       },
       "artists": [
         {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
+          "name": "Sister C",
+          "url": "https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6"
         }
       ],
-      "duration_ms": 207893,
-      "name": "Don\u2019t Mess With Exes",
-      "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
+      "duration_ms": 197276,
+      "name": "I Ain't Drinkin' anymore",
+      "url": "https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1487,22 +1519,6 @@
       "duration_ms": 206016,
       "name": "Till You",
       "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "I Ain't Drinkin' anymore",
-        "url": "https://open.spotify.com/album/5upiiDN439Eryn5bmTLhwy"
-      },
-      "artists": [
-        {
-          "name": "Sister C",
-          "url": "https://open.spotify.com/artist/1qhDoPY1tOHZzwXOnj2cE6"
-        }
-      ],
-      "duration_ms": 197276,
-      "name": "I Ain't Drinkin' anymore",
-      "url": "https://open.spotify.com/track/6A1ohNxfXzVD2r2KzMVkUo"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1527,22 +1543,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Who I Am",
-        "url": "https://open.spotify.com/album/4dVQwZMN2B0tfKjPWs3ayY"
-      },
-      "artists": [
-        {
-          "name": "Tanner Usrey",
-          "url": "https://open.spotify.com/artist/1ZGVS1OWpdvELiQyx3vkO7"
-        }
-      ],
-      "duration_ms": 257146,
-      "name": "Who I Am",
-      "url": "https://open.spotify.com/track/41kIX5NAx8HXFpZx8XJghd"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Start over Somewhere",
         "url": "https://open.spotify.com/album/06ZzHXrAtmH0Jhfptoz1Zc"
       },
@@ -1555,6 +1555,38 @@
       "duration_ms": 246769,
       "name": "Start over Somewhere",
       "url": "https://open.spotify.com/track/7kdic1HVv2OjJH8dYpNdRP"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Elvis in Memphis",
+        "url": "https://open.spotify.com/album/5q6UqjPhGik8QxHEacJkSR"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 264661,
+      "name": "Elvis in Memphis",
+      "url": "https://open.spotify.com/track/7mmgTs73kElMvcbHpEwnVW"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Hope It Don\u2019t Take Forever",
+        "url": "https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP"
+      },
+      "artists": [
+        {
+          "name": "Corey Hunt and the Wise",
+          "url": "https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC"
+        }
+      ],
+      "duration_ms": 224613,
+      "name": "Hope It Don\u2019t Take Forever",
+      "url": "https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1579,22 +1611,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Hope It Don\u2019t Take Forever",
-        "url": "https://open.spotify.com/album/2dIxym2A5eIYxh0BXzcbdP"
-      },
-      "artists": [
-        {
-          "name": "Corey Hunt and the Wise",
-          "url": "https://open.spotify.com/artist/2lTo3yyRGnDLTyrY7JyZDC"
-        }
-      ],
-      "duration_ms": 224613,
-      "name": "Hope It Don\u2019t Take Forever",
-      "url": "https://open.spotify.com/track/1SZSaW23PgfqMLrFCjQXH1"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Barely A Two Lane Road",
         "url": "https://open.spotify.com/album/1uQFI2ysX9M76YuC8tJZTD"
       },
@@ -1607,58 +1623,6 @@
       "duration_ms": 228777,
       "name": "Barely A Two Lane Road",
       "url": "https://open.spotify.com/track/21JxM9SvVVZnmEkc9GSbLJ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Your Bar Now",
-        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
-      },
-      "artists": [
-        {
-          "name": "Tyler Halverson",
-          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
-        },
-        {
-          "name": "Kylie Frey",
-          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
-        }
-      ],
-      "duration_ms": 214253,
-      "name": "Your Bar Now",
-      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Turn It Down",
-        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
-      },
-      "artists": [
-        {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
-        }
-      ],
-      "duration_ms": 192643,
-      "name": "Turn It Down",
-      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Too Many Honky Tonks",
-        "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
-      },
-      "artists": [
-        {
-          "name": "David Adam Byrnes",
-          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
-        }
-      ],
-      "duration_ms": 193050,
-      "name": "Too Many Honky Tonks",
-      "url": "https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1683,6 +1647,42 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Too Many Honky Tonks",
+        "url": "https://open.spotify.com/album/5OxoWGOhNG6g8qOTMFfCl8"
+      },
+      "artists": [
+        {
+          "name": "David Adam Byrnes",
+          "url": "https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU"
+        }
+      ],
+      "duration_ms": 193050,
+      "name": "Too Many Honky Tonks",
+      "url": "https://open.spotify.com/track/2GCLQ7aeFcAWM0Mc8x8a2U"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Your Bar Now",
+        "url": "https://open.spotify.com/album/3N6z7QHV628Lbz0ocbzOhR"
+      },
+      "artists": [
+        {
+          "name": "Tyler Halverson",
+          "url": "https://open.spotify.com/artist/3oFu5CCLk4p4zLBNo3wrai"
+        },
+        {
+          "name": "Kylie Frey",
+          "url": "https://open.spotify.com/artist/5PyN1qBgkGm76qn5WdcKT4"
+        }
+      ],
+      "duration_ms": 214253,
+      "name": "Your Bar Now",
+      "url": "https://open.spotify.com/track/4ZZK3Nud5Ax5ZExoFZYhGq"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Pancho and Lefty",
         "url": "https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX"
       },
@@ -1703,22 +1703,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Cheating On A Memory, Chapter 3",
-        "url": "https://open.spotify.com/album/36DYqh63Xt8VWishLELknB"
+        "name": "Turn It Down",
+        "url": "https://open.spotify.com/album/6FXJXeq139TwVDAYqdmvq4"
       },
       "artists": [
         {
-          "name": "The Lowdown Drifters",
-          "url": "https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG"
-        },
-        {
-          "name": "Taylor Hunnicutt",
-          "url": "https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp"
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
         }
       ],
-      "duration_ms": 235365,
-      "name": "Bring You Down",
-      "url": "https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET"
+      "duration_ms": 192643,
+      "name": "Turn It Down",
+      "url": "https://open.spotify.com/track/7ixoZAZsAUidFZ1Z0xlyfF"
     },
     {
       "added_at": "2024-04-19 04:00:00",

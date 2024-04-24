@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,034 likes - 49 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,10 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 42 | [Blue Moon](https://open.spotify.com/track/687QMQDiIcU2pFKgtEu4T9) | [WONK](https://open.spotify.com/artist/15B9FrdU78YP1NVHRekesE) | [EYES](https://open.spotify.com/album/6Oou13FOvc7UOCaQng10sG) | 3:42 |
 | 43 | [McDonald Romance](https://open.spotify.com/track/75Yz67wlMsVyXTP3SlS2D9) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [Tokyo Rendez\-Vous](https://open.spotify.com/album/52Y1UmTf763sUUpVMLPYLO) | 2:45 |
 | 44 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 |
-| 45 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
-| 46 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
-| 47 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
-| 48 | [Native Dancer](https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx) | 5:58 |
-| 49 | [Talk:Comic artist&Film director これから映画を観る方へ](https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:43 |
+| 45 | [永遠のブルー](https://open.spotify.com/track/3zSgE6oQiPLO28dZkvKGbX) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 3:51 |
+| 46 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
+| 47 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
+| 48 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
+| 49 | [Native Dancer](https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx) | 5:58 |
+| 50 | [Talk:Comic artist&Film director これから映画を観る方へ](https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:43 |
 
-Snapshot ID: `MTcxMzc5ODAwMCwwMDAwMDAwMDgxMDBiYTkyZGQ1YjRjMjU4YTE0MmY2MzNmY2U0Y2Zl`
+Snapshot ID: `MTcxMzg4OTMxNywwMDAwMDAwMGMyMjU1YTgxNWY2ZDFkZWU3MWViNjMyNmM4MTdiNmYz`

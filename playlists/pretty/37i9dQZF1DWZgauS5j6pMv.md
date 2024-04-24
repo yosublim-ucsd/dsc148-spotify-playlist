@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZgauS5j6pMv.md) - [plain]
 
 > The best of today's funk\. Cover: Nikka Costa
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,722 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,756 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

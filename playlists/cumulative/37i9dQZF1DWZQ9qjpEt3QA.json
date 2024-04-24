@@ -2785,24 +2785,6 @@
     },
     {
       "album": {
-        "name": "\u90fd\u5e02\u722c\u884c",
-        "url": "https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS"
-      },
-      "artists": [
-        {
-          "name": "\u529b\u81fb",
-          "url": "https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k"
-        }
-      ],
-      "date_added": "2022-05-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 244154,
-      "name": "\u90fd\u5e02\u722c\u884c",
-      "url": "https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13"
-    },
-    {
-      "album": {
         "name": "Legend 1980",
         "url": "https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn"
       },
@@ -2836,6 +2818,24 @@
       "duration_ms": 244154,
       "name": "\u90fd\u5e02\u722c\u884c",
       "url": "https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG"
+    },
+    {
+      "album": {
+        "name": "\u90fd\u5e02\u722c\u884c",
+        "url": "https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS"
+      },
+      "artists": [
+        {
+          "name": "\u529b\u81fb Lagchun",
+          "url": "https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k"
+        }
+      ],
+      "date_added": "2022-05-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244154,
+      "name": "\u90fd\u5e02\u722c\u884c",
+      "url": "https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWZQ9qjpEt3QA"

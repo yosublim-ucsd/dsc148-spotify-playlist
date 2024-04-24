@@ -1,6 +1,6 @@
 {
   "description": "A taste of the very best bluegrass instrumentals, classic and new.",
-  "num_followers": 48743,
+  "num_followers": 48781,
   "original_name": "Instrumental Bluegrass",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Lone Soldier",
-        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
-      },
-      "artists": [
-        {
-          "name": "David Grier",
-          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
-        }
-      ],
-      "duration_ms": 198733,
-      "name": "Smith Chapel",
-      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Sun and Water (Here Comes the Sun/Waters of March)",
         "url": "https://open.spotify.com/album/7DLOyhTDSOM0hkocckdZjh"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 214546,
       "name": "Sun and Water (Here Comes the Sun/Waters of March)",
       "url": "https://open.spotify.com/track/1B2SiSOvDp0GYQQyLCl7LI"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Lone Soldier",
+        "url": "https://open.spotify.com/album/5KWtnSlnMX7XtJcITbMo6m"
+      },
+      "artists": [
+        {
+          "name": "David Grier",
+          "url": "https://open.spotify.com/artist/7hWVElplEhp3zOKg7KuLr2"
+        }
+      ],
+      "duration_ms": 198733,
+      "name": "Smith Chapel",
+      "url": "https://open.spotify.com/track/1czulejL9FW5JUbHXMufpG"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Banjo Haiku",
-        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
-      },
-      "artists": [
-        {
-          "name": "Cathy Fink",
-          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
-        }
-      ],
-      "duration_ms": 110693,
-      "name": "Julie Ann Johnson",
-      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Instrumentals",
         "url": "https://open.spotify.com/album/3hDfOwKyc2KheagYTvcgUQ"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 265360,
       "name": "Missing Vassar",
       "url": "https://open.spotify.com/track/6r6UR9e4AL8gmwUDjSt9fu"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Banjo Haiku",
+        "url": "https://open.spotify.com/album/3YsYZKwQeR1BpFjNL9OFZ2"
+      },
+      "artists": [
+        {
+          "name": "Cathy Fink",
+          "url": "https://open.spotify.com/artist/6C0lsIh3QzXKHdFxFy3DAw"
+        }
+      ],
+      "duration_ms": 110693,
+      "name": "Julie Ann Johnson",
+      "url": "https://open.spotify.com/track/6aY2O9hJq3ty10tBZNqCUs"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Gravity's Our Enemy",
-        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
-      },
-      "artists": [
-        {
-          "name": "Cadillac Sky",
-          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
-        }
-      ],
-      "duration_ms": 251360,
-      "name": "The Majestic Swan - Instrumental",
-      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Chemical Plant Zone",
         "url": "https://open.spotify.com/album/6Ct3ce7bGWB9mnsx9LXjbr"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 200768,
       "name": "Chemical Plant Zone",
       "url": "https://open.spotify.com/track/3pIgBGEeDs9wVlHJVqiv33"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Gravity's Our Enemy",
+        "url": "https://open.spotify.com/album/5uemKi2EGI2PsfOOFBt684"
+      },
+      "artists": [
+        {
+          "name": "Cadillac Sky",
+          "url": "https://open.spotify.com/artist/1jilau5qTNCuJlWaA7t4x8"
+        }
+      ],
+      "duration_ms": 251360,
+      "name": "The Majestic Swan - Instrumental",
+      "url": "https://open.spotify.com/track/3XVafHaawB2LXB7rpepHI6"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Best Of The Vanguard Years",
-        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
-      },
-      "artists": [
-        {
-          "name": "Alison Brown",
-          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
-        }
-      ],
-      "duration_ms": 174093,
-      "name": "Wolf Moon",
-      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Lonesome Whistle",
         "url": "https://open.spotify.com/album/70j39BrYZ8wglzYVvpPflz"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 166720,
       "name": "City Of New Orleans - Instrumental",
       "url": "https://open.spotify.com/track/2rrPQlivP17rTDAaRopUsE"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Best Of The Vanguard Years",
+        "url": "https://open.spotify.com/album/0WEd2PpiPxuD8RX576wiWK"
+      },
+      "artists": [
+        {
+          "name": "Alison Brown",
+          "url": "https://open.spotify.com/artist/01ts5a7R3WkeE2oKIouXEK"
+        }
+      ],
+      "duration_ms": 174093,
+      "name": "Wolf Moon",
+      "url": "https://open.spotify.com/track/2tKVTShHSxk9Tlhusx9rzf"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Jolly Green",
+        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
+      },
+      "artists": [
+        {
+          "name": "Malingo",
+          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
+        }
+      ],
+      "duration_ms": 142652,
+      "name": "Jolly Green",
+      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Chasin' Skies",
         "url": "https://open.spotify.com/album/3Lc73BBwDQcStgrlf7Bt1N"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 158693,
       "name": "Chasin' Skies",
       "url": "https://open.spotify.com/track/69GpWKHqVyweUMVmaVCkfR"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Jolly Green",
-        "url": "https://open.spotify.com/album/5lcQTfd8rTpKxQSMR6HozY"
-      },
-      "artists": [
-        {
-          "name": "Malingo",
-          "url": "https://open.spotify.com/artist/3GPiR3rPEC514i5QxcfwFk"
-        }
-      ],
-      "duration_ms": 142652,
-      "name": "Jolly Green",
-      "url": "https://open.spotify.com/track/7Mq5PMcUCC6SeEv6CP0jk8"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Eight String Swing",
-        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
-      },
-      "artists": [
-        {
-          "name": "Mike Auldridge",
-          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
-        }
-      ],
-      "duration_ms": 212533,
-      "name": "Bluegrass Boogie",
-      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Taxland (feat. Sierra Hull)",
         "url": "https://open.spotify.com/album/2iLeCeTTnWphyWDZfXnOrn"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 205586,
       "name": "Taxland (feat. Sierra Hull)",
       "url": "https://open.spotify.com/track/7rYO8GdgPhBot0vfZQNizW"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Eight String Swing",
+        "url": "https://open.spotify.com/album/3fPI8UL5aLLva5uvdK8OB6"
+      },
+      "artists": [
+        {
+          "name": "Mike Auldridge",
+          "url": "https://open.spotify.com/artist/2zsStamnZC4eP7rHxSN4Kh"
+        }
+      ],
+      "duration_ms": 212533,
+      "name": "Bluegrass Boogie",
+      "url": "https://open.spotify.com/track/6kuhS6WiS7Qd2RaUyEJnw5"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1408,9 +1408,9 @@
           "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 325013,
-      "name": "Birdland",
-      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
+      "duration_ms": 392200,
+      "name": "We Hide And Seek",
+      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Bozeman (Clawhammer Version)",
-        "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
-      },
-      "artists": [
-        {
-          "name": "Nick Dumas",
-          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
-        }
-      ],
-      "duration_ms": 256293,
-      "name": "Bozeman - Clawhammer Version",
-      "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "The American Fiddler",
         "url": "https://open.spotify.com/album/3VbD9iUP0p5WmVXsp9crms"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 250500,
       "name": "The American Fiddler",
       "url": "https://open.spotify.com/track/1FiewdnqC7YSLNSmIP6Z8g"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Bozeman (Clawhammer Version)",
+        "url": "https://open.spotify.com/album/4qBsC1P0Wsc3nTKWDj3gf2"
+      },
+      "artists": [
+        {
+          "name": "Nick Dumas",
+          "url": "https://open.spotify.com/artist/58w8rt4sUw7FQDNEucD4ab"
+        }
+      ],
+      "duration_ms": 256293,
+      "name": "Bozeman - Clawhammer Version",
+      "url": "https://open.spotify.com/track/2OKPFjbjURGrx8fSzKk8uM"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1504,9 +1504,9 @@
           "url": "https://open.spotify.com/artist/4YgACLaoEjPl4kVZ5WmBN9"
         }
       ],
-      "duration_ms": 392200,
-      "name": "We Hide And Seek",
-      "url": "https://open.spotify.com/track/1rj1VUjOnh0FTaniw3LXzp"
+      "duration_ms": 325013,
+      "name": "Birdland",
+      "url": "https://open.spotify.com/track/535hPHiTIMoBvnlQq4Smwp"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1591,46 +1591,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Now They Are Four",
-        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
-      },
-      "artists": [
-        {
-          "name": "Dan Crary",
-          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
-        },
-        {
-          "name": "Byron Berline",
-          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
-        },
-        {
-          "name": "John Hickman",
-          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Santa Ana",
-      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Looking Glass",
-        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
-      },
-      "artists": [
-        {
-          "name": "Chris Pandolfi",
-          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
-        }
-      ],
-      "duration_ms": 273586,
-      "name": "Winnipeg",
-      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Ferris Wheel",
         "url": "https://open.spotify.com/album/3SqYsi0HttqFNoIai2LomV"
       },
@@ -1655,6 +1615,46 @@
       "duration_ms": 224986,
       "name": "Ferris Wheel",
       "url": "https://open.spotify.com/track/1AjZqb7Tq31ImmqQBvCJot"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Looking Glass",
+        "url": "https://open.spotify.com/album/0nd3gtvbvmPtuvxrdZRTvV"
+      },
+      "artists": [
+        {
+          "name": "Chris Pandolfi",
+          "url": "https://open.spotify.com/artist/4E2ihSyxntkEapwROYzDfI"
+        }
+      ],
+      "duration_ms": 273586,
+      "name": "Winnipeg",
+      "url": "https://open.spotify.com/track/2AFe9bgmBAyaWnl7ji20wJ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Now They Are Four",
+        "url": "https://open.spotify.com/album/30YVehEEp82UN9otkEdZhj"
+      },
+      "artists": [
+        {
+          "name": "Dan Crary",
+          "url": "https://open.spotify.com/artist/7MNoJalBLtqKoDbjvjPqt5"
+        },
+        {
+          "name": "Byron Berline",
+          "url": "https://open.spotify.com/artist/6NZD4FCwmNsEIS1CL1Y3io"
+        },
+        {
+          "name": "John Hickman",
+          "url": "https://open.spotify.com/artist/32wFBGZOIY1FRH7ioqKGJD"
+        }
+      ],
+      "duration_ms": 177493,
+      "name": "Santa Ana",
+      "url": "https://open.spotify.com/track/3TSAh9y768l565Dm9Awod2"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1743,6 +1743,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "My Place in the Sun",
+        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
+      },
+      "artists": [
+        {
+          "name": "Missy Raines",
+          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
+        }
+      ],
+      "duration_ms": 226306,
+      "name": "Whiskerhead Goes to Leningrad",
+      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Mashbluegrass D-28",
         "url": "https://open.spotify.com/album/58YWl56eUa43jptyZg79nO"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 495278,
       "name": "Mashbluegrass D-28",
       "url": "https://open.spotify.com/track/1ZrZLbNlJRdb8s1CBBKAA2"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "My Place in the Sun",
-        "url": "https://open.spotify.com/album/16YMR1IB6wzIxiMznLimbH"
-      },
-      "artists": [
-        {
-          "name": "Missy Raines",
-          "url": "https://open.spotify.com/artist/5puV4r3ntz4XyzN6QnBKep"
-        }
-      ],
-      "duration_ms": 226306,
-      "name": "Whiskerhead Goes to Leningrad",
-      "url": "https://open.spotify.com/track/0mQ3GSdcv5KvXm47RNlf9p"
     },
     {
       "added_at": "2024-04-12 04:00:00",

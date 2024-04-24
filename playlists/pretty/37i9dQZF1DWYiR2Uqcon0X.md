@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 
 > The Country Coffeehouse is open! Grab a cup and lean back to some low\-key country.
 
-[Spotify](https://open.spotify.com/user/spotify) - 722,494 likes - 75 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 722,280 likes - 75 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 41 | [Wild Honey \(Acoustic\)](https://open.spotify.com/track/5yP0mhRJkEEzGlCQLyC9Mn) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey \(Acoustic\)](https://open.spotify.com/album/5tINqKaSnJLJfQZhMWmkO9) | 4:07 |
 | 42 | [Bulleit Blues](https://open.spotify.com/track/6tEVS3afsZXcv4Q99aEfN7) | [Sam Williams](https://open.spotify.com/artist/4cwkbiVtJw6GUOka2ZFZqz) | [Glasshouse Children](https://open.spotify.com/album/7GfFUxRWaHA2Adj0M8N1kl) | 1:31 |
 | 43 | [The Ocean \- Acoustic Live In Studio \(feat\. Charlie Worsham\)](https://open.spotify.com/track/5ACeiMLF9lMtYU3hadeKXR) | [Jillian Jacqueline](https://open.spotify.com/artist/5GDZ6xhBwk7Yja97CFLmV7), [Charlie Worsham](https://open.spotify.com/artist/1nYvElumwIjMkOczb985bq) | [Honestly \(Deluxe\)](https://open.spotify.com/album/2hwH6mFRvUnXEAF5rAMZgY) | 3:32 |
-| 44 | [Supernova](https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 2:36 |
+| 44 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
 | 45 | [Think About It](https://open.spotify.com/track/3ypWiuw7W7XUj5qDZrRFFI) | [Meg McRee](https://open.spotify.com/artist/2XXRe7XAVLJZUUOjlEdssy) | [Think About It](https://open.spotify.com/album/3i8tWI30TAqLDO7FLpqRTq) | 2:53 |
-| 46 | [Miles Away](https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG) | [Krysta Nick](https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol) | [Miles Away](https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv) | 3:40 |
+| 46 | [Supernova](https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao) | [Caitlyn Smith](https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R) | [Supernova](https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb) | 2:36 |
 | 47 | [Wild Honey](https://open.spotify.com/track/2ekYJOliaYZ2zUb3XlLs5V) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Wild Honey](https://open.spotify.com/album/26BCtlHD1X80TZqJ5O2Mrc) | 3:33 |
 | 48 | [Cowgirl](https://open.spotify.com/track/2KeIYazn8x4IobcS1aXram) | [Nelly Joy](https://open.spotify.com/artist/5LpodItaIbBuZQUyR65lGZ) | [Cowgirl](https://open.spotify.com/album/7nv5BlYzkMnp9VEo8OX0Dg) | 3:39 |
 | 49 | [20/10 TN](https://open.spotify.com/track/3lF6cdiWGp8xjoHmL1ChxV) | [Tucker Beathard](https://open.spotify.com/artist/1FQXio7XougvCvKLIu0CCk) | [KING](https://open.spotify.com/album/6sVIjO1dxKTa9Qet3y92Sj) | 3:25 |
@@ -68,9 +68,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 58 | [Waves \(Live\)](https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf) | [Sarah Darling](https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX) | [Live from Layman](https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL) | 4:20 |
 | 59 | [Brighter Shade of Blue](https://open.spotify.com/track/1yyXmUb99vQ1BI1ee9gkFh) | [Jordan DePaul](https://open.spotify.com/artist/5uUIZ5FnQjqfOamzj0yK3h) | [Forces \- EP](https://open.spotify.com/album/3Q7yRMDkHa2DM3G7jx3p7I) | 3:48 |
 | 60 | [Crystal Eyes](https://open.spotify.com/track/2dW9kl7WScv2wIY9JxjNN3) | [Thomas Csorba](https://open.spotify.com/artist/21BSy0UVoDXEiRdA9v9uUH) | [Crystal Eyes](https://open.spotify.com/album/1jQ2IrQ8tqYquBkQz0LJ4Y) | 3:42 |
-| 61 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
+| 61 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
 | 62 | [Because Of Yours](https://open.spotify.com/track/71gcKI3CKHIrkJPkk20USG) | [Jeffrey East](https://open.spotify.com/artist/3f8yNgA4o9YVIq87Kv0O0S) | [Because Of Yours](https://open.spotify.com/album/1brc4oeT2JHZmmVXXTrrrS) | 4:00 |
-| 63 | [End of the Rain](https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep) | [Jason Blaine](https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ) | [End of the Rain](https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb) | 3:15 |
+| 63 | [Better Than That](https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Better Than That](https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi) | 3:13 |
 | 64 | [Back to You](https://open.spotify.com/track/5tXygo2KgUWVhpvYW7r0I5) | [Jedd Hughes](https://open.spotify.com/artist/6aZmqT6ycUdRsm7fF7ndwH) | [Back to You](https://open.spotify.com/album/6oKON9XPW9sB4CBnrQL3rs) | 3:44 |
 | 65 | [Long Haul \- Piano / Vocal](https://open.spotify.com/track/0f3MumMMD2KeAEsDxL3cIb) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn) | [Western Wedding](https://open.spotify.com/album/5TfqeQdQPn6ewXxaSOUIGb) | 3:51 |
 | 66 | [Yesterday \- live](https://open.spotify.com/track/2PQAFvFbgTRdKSIiT4cWH4) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Back My Way](https://open.spotify.com/album/1AS6HHmdIc6FXHp0ENRjsv) | 3:44 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYiR2Uqcon0X.md) - [plain]
 | 71 | [Sleeping Alone](https://open.spotify.com/track/7Jv0DExnLwItv5yVTBWelP) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Homeland Insecurity](https://open.spotify.com/album/3zroVeqEo7fIQ55qf3A422) | 3:50 |
 | 72 | [I Forget Myself](https://open.spotify.com/track/1Exrzr80BmEOw2rMcRnjwh) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC), [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [I Forget Myself \(feat\. Darlingside\)](https://open.spotify.com/album/7zEq9IRpk2AjPdQt4t816M) | 3:32 |
 | 73 | [People Change](https://open.spotify.com/track/1iepnn71MidOJZ7Y3vfgE4) | [Mipso](https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A) | [Edges Run](https://open.spotify.com/album/2lkaT5goLtwJKxW4EM7Ou4) | 3:32 |
-| 74 | [The Captain's Daughter \(Johnny Cash: Forever Words\)](https://open.spotify.com/track/5ZZtNu0ZMABs6Jwomk8isG) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Johnny Cash: Forever Words](https://open.spotify.com/album/12dKVQFRucbEnvC5ZNmlCH) | 4:57 |
-| 75 | [Roadtripsong](https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR) | [Abby Cates](https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n) | [Roadtripsong](https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB) | 3:41 |
+| 74 | [Autumn Town Leaves](https://open.spotify.com/track/4xI1VwZa8u3ymeS8hsHKed) | [Iron & Wine](https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V) | [Weed Garden](https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel) | 3:15 |
+| 75 | [The Captain's Daughter \(Johnny Cash: Forever Words\)](https://open.spotify.com/track/5ZZtNu0ZMABs6Jwomk8isG) | [Alison Krauss & Union Station](https://open.spotify.com/artist/0OTnx2X2FDXeewcm72lavT) | [Johnny Cash: Forever Words](https://open.spotify.com/album/12dKVQFRucbEnvC5ZNmlCH) | 4:57 |
 
 Snapshot ID: `MTcwMTQwNjgwMCwwMDAwMDAwMGFiMzdjM2EyYzkyMmFmNGY5MzU4MzRlYmU3MTkxYjBj`

@@ -1,6 +1,6 @@
 {
   "description": "Classic hits from the 50s and 60s.",
-  "num_followers": 1155415,
+  "num_followers": 1155999,
   "original_name": "Classic Oldies",
   "owner": {
     "name": "Spotify",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Ain't That Good News",
-        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 191160,
-      "name": "A Change Is Gonna Come",
-      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Highway 61 Revisited",
         "url": "https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD"
       },
@@ -659,18 +643,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Where Did Our Love Go",
-        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+        "name": "Ain't That Good News",
+        "url": "https://open.spotify.com/album/2NFd4ApYFitFtJhGTSfDdP"
       },
       "artists": [
         {
-          "name": "The Supremes",
-          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
         }
       ],
-      "duration_ms": 158040,
-      "name": "Baby Love",
-      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
+      "duration_ms": 191160,
+      "name": "A Change Is Gonna Come",
+      "url": "https://open.spotify.com/track/0KOE1hat4SIer491XKk4Pa"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -687,6 +671,22 @@
       "duration_ms": 172480,
       "name": "Beyond the Sea",
       "url": "https://open.spotify.com/track/3KzgdYUlqV6TOG7JCmx2Wg"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Where Did Our Love Go",
+        "url": "https://open.spotify.com/album/05pI1Rx1HQ4KA0a0e3PJlV"
+      },
+      "artists": [
+        {
+          "name": "The Supremes",
+          "url": "https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV"
+        }
+      ],
+      "duration_ms": 158040,
+      "name": "Baby Love",
+      "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -755,22 +755,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Do You Love Me (Now That I Can Dance)",
-        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
-      },
-      "artists": [
-        {
-          "name": "The Contours",
-          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Do You Love Me - Mono Single",
-      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 179613,
       "name": "Daydream Believer",
       "url": "https://open.spotify.com/track/7uEcCGtM1FBBGIhPozhJjv"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Do You Love Me (Now That I Can Dance)",
+        "url": "https://open.spotify.com/album/0lsPVVIQ2e9CzDZCTtQB89"
+      },
+      "artists": [
+        {
+          "name": "The Contours",
+          "url": "https://open.spotify.com/artist/2ugPdplEWBmyU6EcIzlcY1"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Do You Love Me - Mono Single",
+      "url": "https://open.spotify.com/track/0Omt3rVppHIlYFXNL1VWgL"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
-        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 201733,
-      "name": "Try a Little Tenderness",
-      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Nothing But The Best (2008 Remastered)",
         "url": "https://open.spotify.com/album/3i67sGIVw8EBlgfSRv3Lj2"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 147520,
       "name": "Fly Me To The Moon - 2008 Remastered",
       "url": "https://open.spotify.com/track/7FXj7Qg3YorUxdrzvrcY25"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
+        "url": "https://open.spotify.com/album/25uNcuL4dAoV62eKmr8Q0Y"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 201733,
+      "name": "Try a Little Tenderness",
+      "url": "https://open.spotify.com/track/36AlMHDBFwSsD3FQOy1R81"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Runaway with Del Shannon",
-        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
-      },
-      "artists": [
-        {
-          "name": "Del Shannon",
-          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
-        }
-      ],
-      "duration_ms": 137306,
-      "name": "Runaway",
-      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Turn! Turn! Turn!",
         "url": "https://open.spotify.com/album/3v0i9qyogPoQEQj2bG6Fmn"
       },
@@ -1259,18 +1243,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "In the Midnight Hour",
-        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+        "name": "Runaway with Del Shannon",
+        "url": "https://open.spotify.com/album/6dWi04y7CwB5M0XvzAewKT"
       },
       "artists": [
         {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+          "name": "Del Shannon",
+          "url": "https://open.spotify.com/artist/3c8WoNjBfyLJhFObE6RHgs"
         }
       ],
-      "duration_ms": 157160,
-      "name": "In the Midnight Hour",
-      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
+      "duration_ms": 137306,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/45Szkclj1lt4ubm7RFK68t"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1287,6 +1271,22 @@
       "duration_ms": 165381,
       "name": "Louie Louie",
       "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "In the Midnight Hour",
+        "url": "https://open.spotify.com/album/1L6fHKTQAogglo3coyo8yU"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 157160,
+      "name": "In the Midnight Hour",
+      "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Pet Sounds (Original Mono & Stereo Mix)",
-        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "God Only Knows - Mono",
-      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "The Platters Golden Hits",
         "url": "https://open.spotify.com/album/7l3vhUqMYbu62TIKSocf4B"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 156560,
       "name": "Only You (And You Alone)",
       "url": "https://open.spotify.com/track/0S8ibKBl3tjRmYbZhGHNhG"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Pet Sounds (Original Mono & Stereo Mix)",
+        "url": "https://open.spotify.com/album/6GphKx2QAPRoVGWE9D7ou8"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "God Only Knows - Mono",
+      "url": "https://open.spotify.com/track/6iGU74CwXuT4XVepjc9Emf"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1579,18 +1579,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "The Nat King Cole Story",
-        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
+        "name": "That's All",
+        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
       },
       "artists": [
         {
-          "name": "Nat King Cole",
-          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 173266,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
+      "duration_ms": 184333,
+      "name": "Mack the Knife",
+      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "That's All",
-        "url": "https://open.spotify.com/album/5MsJK0kqiYIJDmd3cjkGMn"
+        "name": "The Nat King Cole Story",
+        "url": "https://open.spotify.com/album/3NoP1ifIejWkGSDsO9T2xH"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Nat King Cole",
+          "url": "https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7"
         }
       ],
-      "duration_ms": 184333,
-      "name": "Mack the Knife",
-      "url": "https://open.spotify.com/track/3E5ndyOfO6vFDEIE42HA8o"
+      "duration_ms": 173266,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1oDCK7PW72XEZ1pE5rh87A"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1775,18 +1775,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
-        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
-          "name": "The Righteous Brothers",
-          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 225426,
-      "name": "You've Lost That Lovin' Feelin'",
-      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
+      "duration_ms": 160226,
+      "name": "Mess Around",
+      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1807,18 +1807,18 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
+        "name": "The Very Best Of The Righteous Brothers - Unchained Melody",
+        "url": "https://open.spotify.com/album/5CFmNamq1ceXn8RFJ9i7p6"
       },
       "artists": [
         {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+          "name": "The Righteous Brothers",
+          "url": "https://open.spotify.com/artist/4b0WsB47XCa9F83BmwQ7WX"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Mess Around",
-      "url": "https://open.spotify.com/track/7DJsL4jyXA39GDiHFQYQ0t"
+      "duration_ms": 225426,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/5GMw6X6BbCDGO9gApQYRSa"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
-      },
-      "artists": [
-        {
-          "name": "The Trashmen",
-          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Surfin' Bird",
-      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Rockin' Robin",
         "url": "https://open.spotify.com/album/4T6nhb9QQpGzLiWkC6bG7y"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 160080,
       "name": "Rockin' Robin",
       "url": "https://open.spotify.com/track/4FlYcJnfkeBpowEHJ72Bmt"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+      },
+      "artists": [
+        {
+          "name": "The Trashmen",
+          "url": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+        }
+      ],
+      "duration_ms": 137133,
+      "name": "Surfin' Bird",
+      "url": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -1983,22 +1983,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Animal Tracks",
-        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 194600,
-      "name": "We Gotta Get Out Of This Place - UK Single Version",
-      "url": "https://open.spotify.com/track/5geF5xzPGHxpmk9BDBHphZ"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "Gold",
         "url": "https://open.spotify.com/album/5LzeNR0ssOIfaUpNQbthH9"
       },
@@ -2011,6 +1995,22 @@
       "duration_ms": 133746,
       "name": "Stupid Cupid",
       "url": "https://open.spotify.com/track/3nUrhP3KuK4R1qdxRk2Kgo"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Animal Tracks",
+        "url": "https://open.spotify.com/album/3GoBNqjGtsJ8jnwp1PfKby"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 194600,
+      "name": "We Gotta Get Out Of This Place - UK Single Version",
+      "url": "https://open.spotify.com/track/5geF5xzPGHxpmk9BDBHphZ"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -2031,22 +2031,6 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
-        "name": "Sings Top Ten",
-        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Ruffin",
-          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
-        }
-      ],
-      "duration_ms": 178440,
-      "name": "What Becomes Of The Brokenhearted",
-      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
         "name": "The Best Of Bobby Vinton",
         "url": "https://open.spotify.com/album/4qK4QZUSp8QdoMEm9mrzyA"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 168093,
       "name": "Blue Velvet",
       "url": "https://open.spotify.com/track/4QelFzhVgLomeQhvKrwM1S"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
+        "name": "Sings Top Ten",
+        "url": "https://open.spotify.com/album/5zRvMt37YxCPddq09ivuPV"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Ruffin",
+          "url": "https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy"
+        }
+      ],
+      "duration_ms": 178440,
+      "name": "What Becomes Of The Brokenhearted",
+      "url": "https://open.spotify.com/track/0wBaPbJ2qsbGqgnGbqBDgP"
     },
     {
       "added_at": "2024-01-22 22:00:55",
@@ -2391,6 +2391,22 @@
     {
       "added_at": "2024-01-22 22:00:55",
       "album": {
+        "name": "Who Wrote The Book Of Love? [Digital Version]",
+        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
+      },
+      "artists": [
+        {
+          "name": "The Monotones",
+          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
+        }
+      ],
+      "duration_ms": 138440,
+      "name": "The Book of Love",
+      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
+    },
+    {
+      "added_at": "2024-01-22 22:00:55",
+      "album": {
         "name": "50 Big Ones: Greatest Hits",
         "url": "https://open.spotify.com/album/6cSZPNsr3tMEHo5QrMjk1F"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 153946,
       "name": "Everlasting Love",
       "url": "https://open.spotify.com/track/5i7rT8lbGzjj1n7TTXR5U8"
-    },
-    {
-      "added_at": "2024-01-22 22:00:55",
-      "album": {
-        "name": "Who Wrote The Book Of Love? [Digital Version]",
-        "url": "https://open.spotify.com/album/2Bpr0LzFjdDjBHKsT9JxOV"
-      },
-      "artists": [
-        {
-          "name": "The Monotones",
-          "url": "https://open.spotify.com/artist/39aV9if9R4QuPZxrJsxc9a"
-        }
-      ],
-      "duration_ms": 138440,
-      "name": "The Book of Love",
-      "url": "https://open.spotify.com/track/1N131UBLlYAUJNVpHOfEc1"
     }
   ],
   "unique_name": "Classic Oldies",

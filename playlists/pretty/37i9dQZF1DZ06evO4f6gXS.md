@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 
 > This is The Jones Girls\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,896 likes - 49 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,899 likes - 50 songs - 3 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,5 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4f6gXS.md) - [plain]
 | 47 | [Come Back](https://open.spotify.com/track/4iVah9x9HIl1Zpo54O4uec) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [Music Merchant A\-Sides \(The Holland Dozier Holland 45s\)](https://open.spotify.com/album/2Slz3mn2T1Bm7eKbSXY3aC) | 2:35 |
 | 48 | [Lovers for Life](https://open.spotify.com/track/70TgN1YwZOaqBmPLKOfbus) | [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 4:57 |
 | 49 | [Is It True?](https://open.spotify.com/track/2P3rUI2tEIlBo5YXcGrOuf) | [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw), [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 5:01 |
+| 50 | [Could You Be Mine?](https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y) | [Chris Ballin](https://open.spotify.com/artist/3vvndZpMaAWWxXcY3fxK0W), [Emmanuel](https://open.spotify.com/artist/5YBzrGR5OgC9pU4Dl5eU8o), [Dean Edwards](https://open.spotify.com/artist/6r4TeQ52Om1xWryPSGW4tI), [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh), [Anthony Drakes](https://open.spotify.com/artist/7scqOO2KeUpRRATOM9Fiza), [Julianne](https://open.spotify.com/artist/0ZEOoQA1tnEAnEbObq8YIR), [The Sound Principle](https://open.spotify.com/artist/6vBm0kFy8xndqPZRY8zpYw), [Richard Anthony Davis](https://open.spotify.com/artist/57GGn7SfCgpiKA9mabkPsL) | [Soul Central, Vol\. 1](https://open.spotify.com/album/4oXW0hCOrPBqaKPFAViRya) | 5:09 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGNmMDlkNGI5Y2E1NjQ3NzM2ZTZkNmY3NGY0ZTk5NGNl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDAyN2IxZDM0YzQ2MmRmZDgwOTBlNTMyYWRkYjAxMWRk`

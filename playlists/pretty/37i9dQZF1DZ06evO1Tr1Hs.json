@@ -1,12 +1,12 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 17567,
+  "num_followers": 17842,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFmMGU0OWIxZGM5ZWRhYWZkZGQ1NzBiYzE5NjY1Y2Ji",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDE0MTc2NDM1N2JkYjQ4YmMzMmMzMTYwODAxN2IxZDA2",
   "tracks": [
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "X",
-        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 84324,
-      "name": "Fuk 12",
-      "url": "https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teen X : Relapsed",
         "url": "https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 104544,
       "name": "Teenager Rager",
       "url": "https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "X",
+        "url": "https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 84324,
+      "name": "Fuk 12",
+      "url": "https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj"
     },
     {
       "added_at": null,

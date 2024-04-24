@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 20 years of Usher's \"Confessions\". Cover: Usher",
-  "num_followers": 4650076,
+  "num_followers": 4649107,
   "original_name": "I Love My '00s R&B",
   "owner": {
     "name": "Spotify",
@@ -381,22 +381,6 @@
       "url": "https://open.spotify.com/track/0KQx6HOpJueiSkztcS0r7D"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "The Emancipation of Mimi",
-        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
-      },
-      "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        }
-      ],
-      "duration_ms": 201400,
-      "name": "We Belong Together",
-      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
-    },
-    {
       "added_at": "2022-08-21 11:22:08",
       "album": {
         "name": "Lovers Rock",
@@ -411,6 +395,22 @@
       "duration_ms": 274933,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/7H3ojI1BsVy0dEJENqMt1k"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "The Emancipation of Mimi",
+        "url": "https://open.spotify.com/album/43iBTEWECK7hSnE0p6GgNo"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "We Belong Together",
+      "url": "https://open.spotify.com/track/3LmvfNUQtglbTrydsdIqFU"
     },
     {
       "added_at": "2023-09-14 14:32:45",
@@ -663,22 +663,6 @@
     {
       "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "The Evolution of Robin Thicke",
-        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
-      },
-      "artists": [
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 254146,
-      "name": "Lost Without U",
-      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
-    },
-    {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
         "name": "Exclusive (Expanded Edition)",
         "url": "https://open.spotify.com/album/6p5pW2WwgVECsOhrXPAyhI"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 245933,
       "name": "Take You Down",
       "url": "https://open.spotify.com/track/1vwUsp52io0AGQ5yv470IC"
+    },
+    {
+      "added_at": "2022-02-11 05:00:00",
+      "album": {
+        "name": "The Evolution of Robin Thicke",
+        "url": "https://open.spotify.com/album/55ErdDg54WTAEySb0r7yzb"
+      },
+      "artists": [
+        {
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
+        }
+      ],
+      "duration_ms": 254146,
+      "name": "Lost Without U",
+      "url": "https://open.spotify.com/track/4V2F0DZrAXOWq9hkwMMG3x"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Juslisen",
-        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
       },
       "artists": [
         {
-          "name": "Musiq Soulchild",
-          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
         }
       ],
-      "duration_ms": 254493,
-      "name": "Halfcrazy",
-      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
+        "name": "Juslisen",
+        "url": "https://open.spotify.com/album/070dWVyJIxcKQmxPRov0Y5"
+      },
+      "artists": [
+        {
+          "name": "Musiq Soulchild",
+          "url": "https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8"
+        }
+      ],
+      "duration_ms": 254493,
+      "name": "Halfcrazy",
+      "url": "https://open.spotify.com/track/3oXNIpoUMdk8qGkwCeXqGv"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/0NxA1D1taWpPdIc6uIlAi9"
       },
@@ -1375,22 +1391,6 @@
       "duration_ms": 253106,
       "name": "Lovers Rock",
       "url": "https://open.spotify.com/track/77lKjGkhvWuimTzQxA4STK"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2022-08-21 11:22:08",
       "album": {
-        "name": "Mama's Gun",
-        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 348893,
-      "name": "Bag Lady",
-      "url": "https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1"
-    },
-    {
-      "added_at": "2022-08-21 11:22:08",
-      "album": {
         "name": "Aijuswanaseing",
         "url": "https://open.spotify.com/album/2RmMKj20xouC3Mqq1CyZ3c"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 251426,
       "name": "Just Friends (Sunny)",
       "url": "https://open.spotify.com/track/5jgEJXjECdlhzNgfITSTVm"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "Mama's Gun",
+        "url": "https://open.spotify.com/album/3cADvHRdKniF9ELCn1zbGH"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 348893,
+      "name": "Bag Lady",
+      "url": "https://open.spotify.com/track/7BgUcOjSOlKJXASLgJ6bx1"
     },
     {
       "added_at": "2022-08-21 11:22:08",
@@ -1593,22 +1593,6 @@
       "url": "https://open.spotify.com/track/6cZPfzVtkicrA3CyjqYKhu"
     },
     {
-      "added_at": "2022-02-11 05:00:00",
-      "album": {
-        "name": "Jennifer Hudson",
-        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Hudson",
-          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
-        }
-      ],
-      "duration_ms": 250106,
-      "name": "Spotlight",
-      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
-    },
-    {
       "added_at": "2023-09-14 14:32:45",
       "album": {
         "name": "Aijuswanaseing",
@@ -1625,20 +1609,20 @@
       "url": "https://open.spotify.com/track/6uSa5iCMwPr10Ftpz8w09b"
     },
     {
-      "added_at": "2022-08-21 11:22:08",
+      "added_at": "2022-02-11 05:00:00",
       "album": {
-        "name": "All I Have",
-        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+        "name": "Jennifer Hudson",
+        "url": "https://open.spotify.com/album/6RCEPR3vf58GQTK2sT1cQP"
       },
       "artists": [
         {
-          "name": "Amerie",
-          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+          "name": "Jennifer Hudson",
+          "url": "https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5"
         }
       ],
-      "duration_ms": 159293,
-      "name": "Why Don't We Fall in Love",
-      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
+      "duration_ms": 250106,
+      "name": "Spotlight",
+      "url": "https://open.spotify.com/track/02QQXgeAghpU4smdM7l7We"
     },
     {
       "added_at": "2022-02-11 05:00:00",
@@ -1655,6 +1639,22 @@
       "duration_ms": 264933,
       "name": "It's Over Now",
       "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
+    },
+    {
+      "added_at": "2022-08-21 11:22:08",
+      "album": {
+        "name": "All I Have",
+        "url": "https://open.spotify.com/album/3KUaoEXmzVovDKWionaofI"
+      },
+      "artists": [
+        {
+          "name": "Amerie",
+          "url": "https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s"
+        }
+      ],
+      "duration_ms": 159293,
+      "name": "Why Don't We Fall in Love",
+      "url": "https://open.spotify.com/track/4bnjq8zqtCnxTGxll5ezOO"
     },
     {
       "added_at": "2022-08-21 11:22:08",

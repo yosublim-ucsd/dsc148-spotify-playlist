@@ -2,7 +2,7 @@
 
 ### [Jazz en México](https://open.spotify.com/playlist/37i9dQZF1DWTQYQoFqAGok)
 
-> Descubre la escena del jazz en México en la curaduría de los expertos Mariana Pérez,  Juan Carlos Reyes, Erik Montenegro y José Enrique Fernández.
+> Descubre la escena del jazz en México 🎷🎹🎶🇲🇽
 
 97 songs - 7 hr 38 min
 
@@ -68,7 +68,7 @@
 | [Mambo en Sax](https://open.spotify.com/track/5MYJ8pD7AIWdhzGPdoCcyj) | [Los Músicos De José](https://open.spotify.com/artist/4TmuqEtY8PysZouSgBKizd) | [Dilo! Homenaje a Pérez Prado](https://open.spotify.com/album/5LVqYbgeGwuLsYu40x2QEY) | 3:15 | 2021-07-28 |  |
 | [Momentos](https://open.spotify.com/track/1IUjtAcCFIo05a9JaGplyG) | [Paulina Fuentes](https://open.spotify.com/artist/5n692lJsTkWqbYvFkSQTeN) | [Invierno](https://open.spotify.com/album/6n5ikOqqyYiJnAmiexXbmx) | 4:56 | 2021-07-28 | 2024-01-04 |
 | [Monk Around](https://open.spotify.com/track/0elx5KQKvHmMkkFPYhBbc3) | [Daniel Wong](https://open.spotify.com/artist/1TekEtDI0YjvmOSnZJkY5J) | [Daniel Wong Trio](https://open.spotify.com/album/0cUyChxSDtRGlcl0gbaF2B) | 3:50 | 2021-07-28 | 2023-11-18 |
-| [Mosquita muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 | 2023-11-23 |  |
+| [Mosquita Muerta \- Versión Mariachi](https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841) | [Troker](https://open.spotify.com/artist/4R8SN8dnDbzGwi5LvMjK8G) | [Mosquita Muerta \(Versión Mariachi\)](https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv) | 5:23 | 2023-11-23 |  |
 | [Más Allá](https://open.spotify.com/track/6PvNfcKE6gzNR7UfJoWXfp) | [Donna Pierrot](https://open.spotify.com/artist/557yY63lk0c4El1sfFiroj) | [Retazos](https://open.spotify.com/album/671dTPcf4XRmzfCWTMgGAb) | 4:29 | 2021-07-28 |  |
 | [Nada Es Para Siempre](https://open.spotify.com/track/33yU3BFOzegLinbxSAXLt8) | [Lalo Galván](https://open.spotify.com/artist/1Kt8hm3gbr57ixVzYXpzdc) | [KonFussion](https://open.spotify.com/album/0gnwRiISWgdgtwVASejiHu) | 5:04 | 2021-07-28 |  |
 | [Naila](https://open.spotify.com/track/28V7R9TGxz2Nn6mhZXwHGh) | [Na'rimbo](https://open.spotify.com/artist/3WM7lsbcWyFWHFYmwTQKLt) | [...un poco mas.](https://open.spotify.com/album/5lAACEe8qGeTZhrzlCr8wM) | 5:03 | 2021-07-28 |  |

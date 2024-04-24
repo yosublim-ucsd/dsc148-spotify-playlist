@@ -1,12 +1,12 @@
 {
   "description": "we declared charlie puth should be a bigger artist!!!!",
-  "num_followers": 2169093,
+  "num_followers": 2168873,
   "original_name": "teen beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzUwNjQwMCwwMDAwMDAwMDA0MWM2ZjUxMTZhY2MxOTkzMWNkMWQ3NzlkOWQxNTli",
+  "snapshot_id": "MTcxMzk1ODU4OSwwMDAwMDAwMDUxYzhmOTEwMjM1YjExNTM3NmJkNGY5Y2VhM2RhYjY2",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -41,22 +41,6 @@
       "url": "https://open.spotify.com/track/5cF0dROlMOK5uNZtivgu50"
     },
     {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 263817,
-      "name": "thanK you aIMee",
-      "url": "https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD"
-    },
-    {
       "added_at": "2024-04-13 03:40:59",
       "album": {
         "name": "Espresso",
@@ -73,6 +57,74 @@
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
+      "added_at": "2024-04-24 00:02:17",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/2fPvQfGQEZOKtJ9qXeL4x8"
+    },
+    {
+      "added_at": "2024-04-13 03:40:59",
+      "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "duration_ms": 186359,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "added_at": "2024-04-13 03:40:59",
+      "album": {
+        "name": "Hell N Back (feat. Summer Walker)",
+        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
+      },
+      "artists": [
+        {
+          "name": "Bakar",
+          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
+        },
+        {
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        }
+      ],
+      "duration_ms": 195147,
+      "name": "Hell N Back (feat. Summer Walker)",
+      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+    },
+    {
+      "added_at": "2024-04-24 00:02:17",
+      "album": {
+        "name": "this is what slow dancing feels like",
+        "url": "https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5"
+      },
+      "artists": [
+        {
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        }
+      ],
+      "duration_ms": 145735,
+      "name": "this is what slow dancing feels like",
+      "url": "https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6"
+    },
+    {
       "added_at": "2024-04-19 04:00:00",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
@@ -87,6 +139,42 @@
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/0mWVScJbxO3tbXuiZOxYZE"
+    },
+    {
+      "added_at": "2024-04-13 03:40:59",
+      "album": {
+        "name": "Again (feat. XXXTENTACION)",
+        "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
+      },
+      "artists": [
+        {
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        },
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 193961,
+      "name": "Again (feat. XXXTENTACION)",
+      "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
+    },
+    {
+      "added_at": "2024-04-13 03:40:59",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 228639,
+      "name": "we can't be friends (wait for your love)",
+      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
     },
     {
       "added_at": "2024-04-13 03:40:59",
@@ -121,20 +209,68 @@
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
     },
     {
-      "added_at": "2024-04-13 03:40:59",
+      "added_at": "2024-04-24 00:15:03",
       "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+        "name": "Duolingo on Ice (Original Broadway Recording)",
+        "url": "https://open.spotify.com/album/2igT4o8J4ldF4CLLauFmmF"
       },
       "artists": [
         {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+          "name": "Duolingo",
+          "url": "https://open.spotify.com/artist/5H7yCVEeAz3fdNJ16QO3Iq"
         }
       ],
-      "duration_ms": 186359,
-      "name": "Cry",
-      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+      "duration_ms": 60147,
+      "name": "Spanish or Vanish",
+      "url": "https://open.spotify.com/track/0ijwa9A6H3WFoEFzBNzrxo"
+    },
+    {
+      "added_at": "2024-04-13 03:40:59",
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "duration_ms": 187711,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
+    },
+    {
+      "added_at": "2024-04-13 03:40:59",
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
+    },
+    {
+      "added_at": "2024-04-24 11:36:29",
+      "album": {
+        "name": "Pretty Little Devil",
+        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "duration_ms": 167690,
+      "name": "Pretty Little Devil",
+      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -171,18 +307,18 @@
     {
       "added_at": "2024-04-13 03:40:59",
       "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/71PfP4E9roOXAudea1aPGw"
+        "name": "Found Heaven",
+        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
       },
       "artists": [
         {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
         }
       ],
-      "duration_ms": 228639,
-      "name": "we can't be friends (wait for your love)",
-      "url": "https://open.spotify.com/track/46kspZSY3aKmwQe7O77fCC"
+      "duration_ms": 151738,
+      "name": "Bourgeoisieses",
+      "url": "https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -233,40 +369,20 @@
       "url": "https://open.spotify.com/track/30QYxvXOJZhGBF6DvpNb8w"
     },
     {
-      "added_at": "2024-04-13 03:40:59",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Karma",
-        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
+        "name": "savior",
+        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
       },
       "artists": [
         {
-          "name": "JoJo Siwa",
-          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+          "name": "sombr",
+          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
         }
       ],
-      "duration_ms": 187711,
-      "name": "Karma",
-      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
-    },
-    {
-      "added_at": "2024-04-13 03:40:59",
-      "album": {
-        "name": "Hell N Back (feat. Summer Walker)",
-        "url": "https://open.spotify.com/album/4LVNTAzkG26XlODcRP0v4b"
-      },
-      "artists": [
-        {
-          "name": "Bakar",
-          "url": "https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H"
-        },
-        {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        }
-      ],
-      "duration_ms": 195147,
-      "name": "Hell N Back (feat. Summer Walker)",
-      "url": "https://open.spotify.com/track/0ZDwhNFZnPx9EIPCcwGUHC"
+      "duration_ms": 180626,
+      "name": "savior",
+      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -327,38 +443,6 @@
     {
       "added_at": "2024-04-13 03:40:59",
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
-    },
-    {
-      "added_at": "2024-04-13 03:40:59",
-      "album": {
-        "name": "Found Heaven",
-        "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
-      },
-      "artists": [
-        {
-          "name": "Conan Gray",
-          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-        }
-      ],
-      "duration_ms": 151738,
-      "name": "Bourgeoisieses",
-      "url": "https://open.spotify.com/track/056bKm6W5j9QodOftRznUV"
-    },
-    {
-      "added_at": "2024-04-13 03:40:59",
-      "album": {
         "name": "favorite",
         "url": "https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7"
       },
@@ -387,6 +471,22 @@
       "duration_ms": 221709,
       "name": "Make You Mine",
       "url": "https://open.spotify.com/track/48vIfHaK7by6x0T6ucpODL"
+    },
+    {
+      "added_at": "2024-04-13 03:40:59",
+      "album": {
+        "name": "99 boys",
+        "url": "https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX"
+      },
+      "artists": [
+        {
+          "name": "EMELINE",
+          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
+        }
+      ],
+      "duration_ms": 146317,
+      "name": "99 boys",
+      "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
     },
     {
       "added_at": "2024-04-13 16:36:54",
@@ -469,22 +569,6 @@
       "url": "https://open.spotify.com/track/3xbZU7KENdHZrX99VDNGwx"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "savior",
-        "url": "https://open.spotify.com/album/79VhbqI5lGEoOPosTHHghp"
-      },
-      "artists": [
-        {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
-        }
-      ],
-      "duration_ms": 180626,
-      "name": "savior",
-      "url": "https://open.spotify.com/track/2cPgl2d9IPeNB8794NftZT"
-    },
-    {
       "added_at": "2024-04-13 03:40:59",
       "album": {
         "name": "DECIDE",
@@ -535,22 +619,6 @@
     {
       "added_at": "2024-04-13 03:40:59",
       "album": {
-        "name": "99 boys",
-        "url": "https://open.spotify.com/album/4t0VPQ3TYb3kMuCvp30nGX"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 146317,
-      "name": "99 boys",
-      "url": "https://open.spotify.com/track/0GqWXMhLivLWNWdCl1nbDo"
-    },
-    {
-      "added_at": "2024-04-13 03:40:59",
-      "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
       },
@@ -597,22 +665,6 @@
       "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
     },
     {
-      "added_at": "2024-04-14 07:21:00",
-      "album": {
-        "name": "Drain Me!",
-        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
-      },
-      "artists": [
-        {
-          "name": "Towa Bird",
-          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
-        }
-      ],
-      "duration_ms": 121533,
-      "name": "Drain Me!",
-      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
-    },
-    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
@@ -629,40 +681,20 @@
       "url": "https://open.spotify.com/track/0g4fMVo4JjwnIpTfFfLdxS"
     },
     {
-      "added_at": "2024-04-19 04:00:00",
+      "added_at": "2024-04-24 00:22:00",
       "album": {
-        "name": "Change Your Mind",
-        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+        "name": "lucy~",
+        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
       },
       "artists": [
         {
-          "name": "Knox",
-          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
         }
       ],
-      "duration_ms": 199800,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
-    },
-    {
-      "added_at": "2024-04-13 03:40:59",
-      "album": {
-        "name": "Again (feat. XXXTENTACION)",
-        "url": "https://open.spotify.com/album/5UD36hu4fYZ6R8b8crkKL7"
-      },
-      "artists": [
-        {
-          "name": "Noah Cyrus",
-          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
-        },
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 193961,
-      "name": "Again (feat. XXXTENTACION)",
-      "url": "https://open.spotify.com/track/2S2od3hT7ceytw7d1pTRuE"
+      "duration_ms": 118000,
+      "name": "lucy~",
+      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
     },
     {
       "added_at": "2024-04-13 03:40:59",
@@ -679,6 +711,22 @@
       "duration_ms": 204035,
       "name": "There She Goes",
       "url": "https://open.spotify.com/track/4jWCFYhDAqOLClw5dFvk8O"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Change Your Mind",
+        "url": "https://open.spotify.com/album/4CnceuWVsiNQmneTfgc3nc"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "duration_ms": 199800,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/7rOk84mV0kJ0H9wsBDDDUY"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -727,6 +775,22 @@
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
+    },
+    {
+      "added_at": "2024-04-14 07:21:00",
+      "album": {
+        "name": "Drain Me!",
+        "url": "https://open.spotify.com/album/7z8DgBZJe1rvHMA5H2EUbW"
+      },
+      "artists": [
+        {
+          "name": "Towa Bird",
+          "url": "https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt"
+        }
+      ],
+      "duration_ms": 121533,
+      "name": "Drain Me!",
+      "url": "https://open.spotify.com/track/7MMbF73FtqDVyk2fU8FStL"
     },
     {
       "added_at": "2024-04-13 17:09:58",

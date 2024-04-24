@@ -4,7 +4,7 @@
 
 > Découvrez les artistes à l'affiche du Festival International de Jazz de Montréal / Discover this year's Montreal Jazz Fest lineup
 
-157 songs - 11 hr 6 min
+158 songs - 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,10 +109,11 @@
 | [New Mornings](https://open.spotify.com/track/3QDM1qBd5dp8iJlbfeJvuD) | [Lakecia Benjamin](https://open.spotify.com/artist/6hvjxbUASJd6bHds2Teaul) | [Phoenix](https://open.spotify.com/album/3BDHDrylqDrv6qz11DRrR7) | 5:00 | 2024-04-16 |  |
 | [Ninety Three 'Til Infinity And Beyoncé](https://open.spotify.com/track/0LVCuBsPmGaYvGV3IOMXFy) | [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [New Blue Sun](https://open.spotify.com/album/33Ek6daAL3oXyQIV1uoItD) | 3:49 | 2024-04-16 |  |
 | [No Reason](https://open.spotify.com/track/1P1nt3zpz3ryHC7Uafckdg) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8) | [Anarchist Gospel](https://open.spotify.com/album/1clekgjwj7TdXgYjQjm1BJ) | 2:39 | 2024-04-16 |  |
-| [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 | 2024-04-16 |  |
+| [Nothing Left \(Lonely Song\)](https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Nothing Left \(Lonely Song\)](https://open.spotify.com/album/43LrTSzFvVUX4fcZT4IeDP) | 3:27 | 2024-04-16 | 2024-04-24 |
 | [Omission](https://open.spotify.com/track/4BNDJ8JLYVc5nkoaIeogna) | [Julian Lage](https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT) | [Speak To Me](https://open.spotify.com/album/3hgjPy2aH5DGegCfdebMeM) | 3:26 | 2024-04-16 |  |
 | [On Living](https://open.spotify.com/track/4OdBllSXPo0MwPxMv94W5T) | [Keith LaMar](https://open.spotify.com/artist/6Oarfezg0RsQVzvEE8XmMy), [Albert Marquès](https://open.spotify.com/artist/5tXmoyBqADc5z5k9U4rcqN), [Erin Corine](https://open.spotify.com/artist/0yxsyE6xoFOUzaaYRVg6dX), [Milena Casado](https://open.spotify.com/artist/6i3BwCBGwY56yDLDoNlbyD), [Manel Fortia](https://open.spotify.com/artist/1FS2OIXODWm5j6eTdfu6Nf), [Marc Ayza](https://open.spotify.com/artist/7w2mWN2V8dLyjlFW1KKeYJ) | [FREEDOM FIRST](https://open.spotify.com/album/47GbM3pAl1FCG2m8N5Cdkm) | 8:18 | 2024-04-16 |  |
 | [P+R](https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ) | [L'éclair](https://open.spotify.com/artist/7iKleRyjLc8sVDN551vyiX) | [Confusions](https://open.spotify.com/album/1mvFlZEaRXJog90dn0gUpS) | 4:32 | 2024-04-16 |  |
+| [Pain](https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Pain](https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y) | 4:02 | 2024-04-24 |  |
 | [Paris s'enflamme](https://open.spotify.com/track/6GC9FilEe08p7LgwtXgO24) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Hermetism \(Commentary Version\)](https://open.spotify.com/album/4H1Ch0zFiUQcxcwu9ARMzX) | 5:54 | 2024-04-16 |  |
 | [Pet Rock](https://open.spotify.com/track/6WEsHmNIZIza01qGJNvjc3) | [L'Rain](https://open.spotify.com/artist/68BVYIej5jGdIh8au5qELn) | [I Killed Your Dog](https://open.spotify.com/album/2O01P3dwp47dyImCnTdfyo) | 2:45 | 2024-04-16 |  |
 | [Pomawsuwinuwok Wonakiyawolotuwok](https://open.spotify.com/track/54RrPwnNwGk3XCIhPswkqo) | [Jeremy Dutcher](https://open.spotify.com/artist/0QisUuu0cbcoOod1lBVf0f) | [Motewolonuwok](https://open.spotify.com/album/5evC3RTGfXXhUekGgGSWuD) | 3:42 | 2024-04-16 |  |

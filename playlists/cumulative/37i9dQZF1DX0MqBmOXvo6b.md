@@ -4,7 +4,7 @@
 
 > Concéntrate al máximo, sin distracciones.
 
-638 songs - 1 day 3 hr 6 min
+639 songs - 1 day 3 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [For Kate](https://open.spotify.com/track/4uNQlDhz4fIKvjvdSESKou) | [Ed Chinaski](https://open.spotify.com/artist/1uiURs2L2yxv1vr5vGwbSt) | [For Kate](https://open.spotify.com/album/1eGuJ5nZme9vfMMyb5B07S) | 2:17 | 2022-06-07 |  |
 | [Forevermore](https://open.spotify.com/track/3xZBHTUT1gLAmDbPz77ETo) | [Ambrosiae](https://open.spotify.com/artist/0WtC6Sw0FEuccTgMXoYQPm) | [Forevermore](https://open.spotify.com/album/1uaB2cXT94Sl6V3eN2UFsW) | 2:34 | 2023-06-20 |  |
 | [Forsaken Land](https://open.spotify.com/track/3pWlQdfMNp4NabYbPAQcje) | [Lorenzo Balzotti](https://open.spotify.com/artist/3hHeHet790nZ3x8ulsu6tC) | [Forsaken Land](https://open.spotify.com/album/2GrqPpnPembHDXm1cWE4oY) | 3:02 | 2022-07-19 |  |
+| [Fortune Teller](https://open.spotify.com/track/3V5W0NKk7JkGzBMoMOrOHb) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Fortune Teller](https://open.spotify.com/album/4tai0Aw4yNU9YuS37uqJoM) | 2:24 | 2024-04-22 |  |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2022-06-07 | 2023-12-16 |
 | [franconia](https://open.spotify.com/track/398uIq8oIiP5cdb6zR2bst) | [Klaus Weissmuller](https://open.spotify.com/artist/5KKMMIwKIfrn4Q3x6PGYxf) | [franconia](https://open.spotify.com/album/7wXqijcw1roLeqDgbqSMuK) | 2:11 | 2022-06-07 | 2022-09-24 |
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2022-06-07 | 2023-09-25 |
@@ -409,7 +410,7 @@
 | [Rana Tranquiliana](https://open.spotify.com/track/5ZSy4yLpajuh1eOjM2Rsdf) | [Gioia Pisano](https://open.spotify.com/artist/5WMvjE5qJNLR5FMPdQfic8) | [Rana Tranquiliana](https://open.spotify.com/album/4FU3mPjMgdpaNVMwofKqow) | 2:59 | 2022-06-07 | 2022-12-24 |
 | [Ravi](https://open.spotify.com/track/6Im3KsvOIR6E3ZhfAlDJvr) | [Esmiralda Rose](https://open.spotify.com/artist/6FkagsRLc16z6rwYW6Tteh) | [Teesta](https://open.spotify.com/album/0qufLQ0kHyKenooeC8KK3T) | 2:24 | 2022-06-07 | 2024-03-10 |
 | [rays of sunshine](https://open.spotify.com/track/5hS865BOtarOiLTDbz2CXK) | [Thomas Clerk](https://open.spotify.com/artist/2qC87wmvYsl4lFNH0XChf5) | [clarity](https://open.spotify.com/album/6fEp2ks0q4fg6IPe2Sa8bV) | 3:07 | 2022-06-07 | 2022-09-24 |
-| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-06-07 |  |
+| [Red Sky](https://open.spotify.com/track/17ATrlvNNZdpPOeKB3YJHT) | [Leon Fisher](https://open.spotify.com/artist/5Bdoqe7eyvKZV0FluhBtSO) | [Red Sky](https://open.spotify.com/album/6aTev9H6NeG5l03DgD3rJc) | 2:19 | 2022-06-07 | 2024-04-24 |
 | [Regarde les flammes danser](https://open.spotify.com/track/3FiarvAUxKc8N5uMT8yFKi) | [Leo Nocta](https://open.spotify.com/artist/1BOoMqm6EGpw6D36gt76PI) | [Regarde les flammes danser](https://open.spotify.com/album/1aFkM7ohLd3j6LmvMqgNQV) | 2:11 | 2024-02-05 |  |
 | [Reisida](https://open.spotify.com/track/39ObnHa9VOJIwR1nULLXJI) | [Jan Thiel](https://open.spotify.com/artist/2WrpycwxpswRBTsSnNMWCb) | [Seeme](https://open.spotify.com/album/5kvsE2Ojo0YkXeOa0A35bI) | 2:55 | 2022-06-07 | 2022-07-20 |
 | [Reiu](https://open.spotify.com/track/6tHX5oWkiY54sB0olbYkcF) | [Daigo Hanada](https://open.spotify.com/artist/7kxdoQTibsQW5pOim1p2i3) | [Reiu](https://open.spotify.com/album/6B1jZ2AcMmNEL2uEAe7Lyu) | 2:04 | 2023-08-07 |  |

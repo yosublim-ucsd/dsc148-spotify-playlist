@@ -2,7 +2,7 @@
 
 ### [This Is Chiquis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rsWDS)
 
-> This Is Chiquis\. Los temas esenciales, todos en una lista.
+> This is Chiquis\. Todos os maiores hits em uma só playlist.
 
 62 songs - 3 hr 7 min
 

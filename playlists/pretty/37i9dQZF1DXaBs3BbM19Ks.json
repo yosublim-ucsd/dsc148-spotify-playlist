@@ -1,6 +1,6 @@
 {
   "description": "Bonitas, orgullosas y empoderadas, as\u00ed somos las se\u00f1oras.",
-  "num_followers": 292841,
+  "num_followers": 292962,
   "original_name": "Modo Se\u00f1ora",
   "owner": {
     "name": "Spotify",
@@ -297,22 +297,6 @@
       "url": "https://open.spotify.com/track/5QSYWruQQ7kBCHScI4xJ9g"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
@@ -327,6 +311,22 @@
       "duration_ms": 288893,
       "name": "\u00a1Corre!",
       "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Me Siento Tan Sola",
+        "url": "https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 210360,
+      "name": "Con los Ojos Cerrados",
+      "url": "https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -425,22 +425,6 @@
       "url": "https://open.spotify.com/track/0GZ8UVlhn2tjHPpngzoLJk"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Me Siento Tan Sola",
-        "url": "https://open.spotify.com/album/5WiTkNoR4lcdx3senhGDHR"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 210360,
-      "name": "Con los Ojos Cerrados",
-      "url": "https://open.spotify.com/track/6DIt34Pm9LXZUfs4ap67fJ"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Donde Hay M\u00fasica (Spanish Version)",
@@ -455,6 +439,22 @@
       "duration_ms": 265626,
       "name": "La Cosa Mas Bella",
       "url": "https://open.spotify.com/track/1EZypwk0xcj64ZLAglhLs2"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -505,54 +505,6 @@
       "url": "https://open.spotify.com/track/1OB7cLxxCWA8gbbfjFNNej"
     },
     {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Luz Y Sombra",
-        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
-      },
-      "artists": [
-        {
-          "name": "Flans",
-          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
-        }
-      ],
-      "duration_ms": 280040,
-      "name": "Las Mil Y Una Noches",
-      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
-    },
-    {
-      "added_at": "2021-05-21 05:04:59",
-      "album": {
-        "name": "Myriam Hernandez",
-        "url": "https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A"
-      },
-      "artists": [
-        {
-          "name": "Myriam Hernandez",
-          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
-        }
-      ],
-      "duration_ms": 216093,
-      "name": "El Hombre Que Yo Amo",
-      "url": "https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
-        "name": "20 A\u00f1os",
-        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 272826,
-      "name": "Tengo Todo Excepto a Ti",
-      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
-    },
-    {
       "added_at": "2022-05-10 02:03:57",
       "album": {
         "name": "Aire (Versi\u00f3n D\u00eda)",
@@ -575,18 +527,34 @@
     {
       "added_at": "2021-05-21 05:04:59",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+        "name": "Luz Y Sombra",
+        "url": "https://open.spotify.com/album/57M2J9XUqv52BtTCJ5FifM"
       },
       "artists": [
         {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+          "name": "Flans",
+          "url": "https://open.spotify.com/artist/4zbqGb99bANxJBsvwRr2zT"
         }
       ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
+      "duration_ms": 280040,
+      "name": "Las Mil Y Una Noches",
+      "url": "https://open.spotify.com/track/0b53GyMOfBCt5L6bh0CH3f"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "20 A\u00f1os",
+        "url": "https://open.spotify.com/album/3D9NENGfg4DFmYJrEaxRHd"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 272826,
+      "name": "Tengo Todo Excepto a Ti",
+      "url": "https://open.spotify.com/track/27XboT5Wb8VOn7A0heo3Ei"
     },
     {
       "added_at": "2021-05-21 05:04:59",
@@ -603,6 +571,38 @@
       "duration_ms": 285066,
       "name": "Y T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Myriam Hernandez",
+        "url": "https://open.spotify.com/album/2ev6My86W8Ri5qXygB645A"
+      },
+      "artists": [
+        {
+          "name": "Myriam Hernandez",
+          "url": "https://open.spotify.com/artist/6NHTDaYSUeMaroI5U0jytT"
+        }
+      ],
+      "duration_ms": 216093,
+      "name": "El Hombre Que Yo Amo",
+      "url": "https://open.spotify.com/track/2yIUUOe7UVhvxQmaLVqRKr"
+    },
+    {
+      "added_at": "2021-05-21 05:04:59",
+      "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2022-05-10 02:03:57",
@@ -1139,22 +1139,6 @@
     {
       "added_at": "2022-05-10 02:03:57",
       "album": {
-        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
-        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
-      },
-      "artists": [
-        {
-          "name": "Laura Pausini",
-          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
-        }
-      ],
-      "duration_ms": 257440,
-      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
-      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
-    },
-    {
-      "added_at": "2022-05-10 02:03:57",
-      "album": {
         "name": "No Es Pecado -Remasters",
         "url": "https://open.spotify.com/album/4WVr9fj0yFPIUbyb9tjOQh"
       },
@@ -1183,6 +1167,22 @@
       "duration_ms": 217400,
       "name": "Por Besarte",
       "url": "https://open.spotify.com/track/4q88IbAn47f7GCQIFhbYkL"
+    },
+    {
+      "added_at": "2022-05-10 02:03:57",
+      "album": {
+        "name": "Lo mejor de Laura Pausini - Volver\u00e9 junto a ti",
+        "url": "https://open.spotify.com/album/0myaHlqK31HgqSV2k6Caqj"
+      },
+      "artists": [
+        {
+          "name": "Laura Pausini",
+          "url": "https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH"
+        }
+      ],
+      "duration_ms": 257440,
+      "name": "Amores extra\u00f1os - Versi\u00f3n 2001",
+      "url": "https://open.spotify.com/track/2FeYK41Grs7KdR9Nqoy1MK"
     },
     {
       "added_at": "2021-05-21 05:04:59",

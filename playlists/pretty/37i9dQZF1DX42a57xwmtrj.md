@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 
 > ¡Lo naco es chido, y que viva el rocanroool! Botellita de Jerez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,844 likes - 75 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,869 likes - 75 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,15 +29,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 19 | [La Carencia](https://open.spotify.com/track/2UalqFij5ANcOwrPm9CtPb) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5) | [Un Panteon Muy Vivo](https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP) | 7:03 |
 | 20 | [Me Dijiste](https://open.spotify.com/track/630TIL2bWuseStelIhFT6L) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:30 |
 | 21 | [Al Final Lloré](https://open.spotify.com/track/1U8O8ZjjM4b7ROyOPQonDj) | [Karatula](https://open.spotify.com/artist/7Cua15H5PkQUNlea7KAfkH) | [15 Éxitos](https://open.spotify.com/album/44zewT40ZvoTw2uqBDB9xb) | 4:27 |
-| 22 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
+| 22 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
 | 23 | [María](https://open.spotify.com/track/0GMNzFmH1JTNBbA09az4Vw) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:24 |
 | 24 | [El No Lo Mato](https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ) | [El Haragán y Compañía](https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV) | [Delincuentes Con Placa](https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn) | 4:13 |
-| 25 | [Anda Borracho Pancho](https://open.spotify.com/track/7w4yt7qtiS6hAFWr4drUdw) | [Sam Sam](https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb) | [Anda Borracho Pancho](https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw) | 5:02 |
+| 25 | [Un Minuto de Amor, Pt\. 1](https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Un Minuto de Amor](https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL) | 3:33 |
 | 26 | [Te Vas a Acordar de Mí](https://open.spotify.com/track/1kaLpH5uG4l7RbLKYU7bF5) | [Tex Tex](https://open.spotify.com/artist/22UoNzSexUEdL4mnuA8eD4) | [Rock En Español \- Lo Mejor De Tex Tex](https://open.spotify.com/album/3Sx5ggdxFDZxsn3Y6IjmhG) | 3:22 |
 | 27 | [Cuando tú no estás](https://open.spotify.com/track/5OERhflGNuzivVN3vEEU6n) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [Cuando tú no estás](https://open.spotify.com/album/34ZIg4OKI4iEGPw6OQrQMQ) | 4:26 |
 | 28 | [Barco Azul \- Remastered](https://open.spotify.com/track/3g30HfhfhNzSem6XEaljXy) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 6:58 |
-| 29 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
-| 30 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
+| 29 | [Yo Quiero Ser](https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE) | [Perro Callejero](https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX) | [15 Rolitas de Amor, Vol\. 7](https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt) | 4:45 |
+| 30 | [No Me Arrepiento](https://open.spotify.com/track/7CnRKqapOa3fCKWCI6XizL) | [Tres Vallejo](https://open.spotify.com/artist/0qV25r4EHYSKLyMelm5U5s) | [Llorando a Solas](https://open.spotify.com/album/424vA5gXeRyA8Gd1UbVx9x) | 3:57 |
 | 31 | [Tu Mamá No Me Quiere \- Remastered](https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v) | [Vago](https://open.spotify.com/artist/0jwtqRTkBlt2gzRwK3IrD7) | [Suicida \(Remastered\)](https://open.spotify.com/album/3IT3HKS1d8nRgQyMmwH9dX) | 4:03 |
 | 32 | [El Perdedor](https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 3:34 |
 | 33 | [En Dos](https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf) | [Sur 16](https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq) | [15 Éxitos](https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO) | 3:32 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42a57xwmtrj.md) - [plain]
 | 42 | [Historia de un Minuto](https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [Rock Sin Visa, Vol\. 2](https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL) | 3:07 |
 | 43 | [Cristo Viejo](https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2) | [Fantasma De Canterville](https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx) | [Cristo Viejo](https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy) | 5:23 |
 | 44 | [Barata y Descontó](https://open.spotify.com/track/0TaVjqxCBLG7p2dnwTYfti) | [Trolebús](https://open.spotify.com/artist/4vQGniIPKVpBklxzuUX1M3) | [En Sentido Contrario](https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx) | 2:37 |
-| 45 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
-| 46 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 |
+| 45 | [No Todo Es Oro](https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0) | [Blues Boys](https://open.spotify.com/artist/2fsmmyD3SsJL2suRoZwI6z) | [La Ciudad](https://open.spotify.com/album/1cFOUdbvsmvi5WtQTJErEa) | 2:49 |
+| 46 | [Que Nos Paso](https://open.spotify.com/track/2qPOZWbIrwUAFRNvit6Py2) | [Leyenda Urbana](https://open.spotify.com/artist/4GKqFZiamcM57FMUVRhyCU) | [La Nueva Sangre del Rock, Vol\. 2](https://open.spotify.com/album/50sLvy8teAwjF2HyVMHKQk) | 6:08 |
 | 47 | [Viajero](https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 4:14 |
 | 48 | [Quien Te Cantara](https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu) | [Interpuesto](https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB) | [15 Rolitas de Amor](https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21) | 3:20 |
 | 49 | [Asalto Chido](https://open.spotify.com/track/7ArHgkupud8056QGPwrLhz) | [Heavy Nopal](https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul) | [Lo Más Prendido de Rockdrigo González](https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ) | 3:23 |

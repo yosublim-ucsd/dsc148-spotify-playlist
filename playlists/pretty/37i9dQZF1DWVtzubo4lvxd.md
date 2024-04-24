@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 
 > Chill lo\-fi beats to enjoy a great afternoon.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,192 likes - 75 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,191 likes - 75 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 15 | [My Promise](https://open.spotify.com/track/2tLMEIVC98DSoq8jjypvg6) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [My Promise](https://open.spotify.com/album/5rL8vcVAck9ba3BC8X0WFg) | 4:01 |
 | 16 | [Surp](https://open.spotify.com/track/2pO441R3SvR2O1G1Q4pGe0) | [Wavy Naps](https://open.spotify.com/artist/0kFUFC571jik6K7viLxtPX) | [Surp](https://open.spotify.com/album/4tdzH69lzNwW84ZArVHH83) | 2:34 |
 | 17 | [Zen Way](https://open.spotify.com/track/1E7FBgfsrBbS2hSaoecQp1) | [Soul Dojo](https://open.spotify.com/artist/7J3T2ACd6zWe4mHrASzVlI) | [Zen Way](https://open.spotify.com/album/38MgwKlLibLqCp341q38XE) | 2:18 |
-| 18 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
-| 19 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
+| 18 | [Starfew Alley](https://open.spotify.com/track/4j647icCpXJcRES7szthoM) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [Starfew Alley](https://open.spotify.com/album/4RkCoTiyllnHXvaSNds85V) | 2:09 |
+| 19 | [poppy](https://open.spotify.com/track/2n4AwQls3F6atW1Av1sLIM) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [poppy](https://open.spotify.com/album/2KhU3J9GYoqTjmAnBQcMwg) | 2:33 |
 | 20 | [Autumn Briefs](https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL) | [Dasunny](https://open.spotify.com/artist/0GRMQfjpndi6Maj7lvYOza) | [Autumn Briefs](https://open.spotify.com/album/7HCchLIXZ4SiCw9xriIAdW) | 2:25 |
 | 21 | [Feeling Free](https://open.spotify.com/track/5eGZV3CqygFwrRoYeoZmbL) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Feeling Free](https://open.spotify.com/album/2RodOh8h0h5JORsgPu7zmc) | 2:00 |
 | 22 | [Rocking Chair](https://open.spotify.com/track/4PrHSXjTmED07FiLQnpnXK) | [Aisake](https://open.spotify.com/artist/6TFQJV5WynYysXq0LJraYe) | [Rocking Chair](https://open.spotify.com/album/1AMq0iQTk9wIwTrbfEne7e) | 2:20 |
@@ -48,19 +48,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 38 | [End Of Day Bop](https://open.spotify.com/track/2vVKIEmcqzNt3ZqBPP5EGV) | [Noah Park](https://open.spotify.com/artist/6dgSiYNST9AWofoxzLI9q0) | [End Of Day Bop](https://open.spotify.com/album/4qP5YOgZ9UMfjhoow8a9s2) | 2:40 |
 | 39 | [space jazz](https://open.spotify.com/track/5JngOFWX3RuNDAhxbofBht) | [fresh from the moon](https://open.spotify.com/artist/3i0x5wTZo4kRfN75ESlhqJ) | [space jazz](https://open.spotify.com/album/0BGU49UTwEGwvzxjJK1gUo) | 2:18 |
 | 40 | [Dawn on the Side](https://open.spotify.com/track/764QZXmgb5fDwh1NU8pYcd) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ) | [Spiritual State](https://open.spotify.com/album/724juUMeWRW82bDoyH91Vd) | 5:15 |
-| 41 | [Toyohashi](https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Toyohashi](https://open.spotify.com/album/2rgsNRuba87QugaU6gFtmD) | 1:32 |
-| 42 | [Solitude](https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Solitude](https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W) | 2:41 |
+| 41 | [Solitude](https://open.spotify.com/track/3B1CEpzdKIny47WADN2DGc) | [Danæ](https://open.spotify.com/artist/0bZJlYfMkcOIjtBCbSvsys), [Sátyr](https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf), [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [Solitude](https://open.spotify.com/album/5q9NOWJIvib6TFdgHgkt1W) | 2:41 |
+| 42 | [Toyohashi](https://open.spotify.com/track/1yxb0vmipa1UHagaqH2pAP) | [Koi Botaru](https://open.spotify.com/artist/4hWFDULtLWRacgMQYvOA5w) | [Toyohashi](https://open.spotify.com/album/2rgsNRuba87QugaU6gFtmD) | 1:32 |
 | 43 | [Cloudy](https://open.spotify.com/track/6QvqzWJY96PZXEOdDpGdP7) | [Kimmø](https://open.spotify.com/artist/0T2cWe3Y09qz2tp19oDLUz) | [Cloudy](https://open.spotify.com/album/4fabio6xe0XUscomxRu8rl) | 2:32 |
 | 44 | [Ichika](https://open.spotify.com/track/5lx01JAoQWZf0bXrBamIba) | [Neko Kedi](https://open.spotify.com/artist/785Hs8MoBt2oTIRtfEtsuw) | [Ichika](https://open.spotify.com/album/7h6dYxYvsbI3trb1iNuqSp) | 2:02 |
 | 45 | [Pick Ur Love](https://open.spotify.com/track/0ioSIb7KgickIu5YlAIQfo) | [Ramsey Road](https://open.spotify.com/artist/6GdTXXdGQ99ZVTnTPkSwLm) | [Pick Ur Love](https://open.spotify.com/album/3OKWzFoMxvdcPtqzrxVwOA) | 2:40 |
 | 46 | [Mother Earth](https://open.spotify.com/track/1fFQhH7c9kI5JhQanfmfhJ) | [MF Eistee](https://open.spotify.com/artist/0hA8JnKhTRBeTfCFoZiem1) | [Mother Earth](https://open.spotify.com/album/1b38YWEUjM281wupVyqX2i) | 1:44 |
-| 47 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |
-| 48 | [Green](https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Green](https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j) | 2:02 |
+| 47 | [Green](https://open.spotify.com/track/4yp5yBCcbZDJcU3omA2G1w) | [Lueco](https://open.spotify.com/artist/64Bk1rVxI2ZZYAuQZ7Ufo8) | [Green](https://open.spotify.com/album/6hdbd6cq7PRKTJ1roJfe3j) | 2:02 |
+| 48 | [New Studio](https://open.spotify.com/track/0xlJzSM4LJ7xuQG5myA14s) | [Grmmr.126](https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK) | [New Studio](https://open.spotify.com/album/1MQXpdGNWjyh4UFastaFo1) | 1:29 |
 | 49 | [some guitar thoughts](https://open.spotify.com/track/0EREZUfhKF4lZuLHa1IaaL) | [Home Cook](https://open.spotify.com/artist/5ywJbIqM6CaNHrhfRLKe8O), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [some guitar thoughts](https://open.spotify.com/album/7tBcuAvUiPEHtoCDfzuM9a) | 2:14 |
 | 50 | [Senescence](https://open.spotify.com/track/45GPbu3j0omH3ApKauF26L) | [Czapter](https://open.spotify.com/artist/26uxSNbgGIV8gFNvPNhZge) | [The Secret Life Of Octopodes](https://open.spotify.com/album/14PqfZoMyhJBYLTLRGlfZ5) | 2:36 |
 | 51 | [Clockers](https://open.spotify.com/track/0Sd3s9p1TQUYuitVOpXlh4) | [Kid Tarô](https://open.spotify.com/artist/5XD1vyL8naPVq2dvjetpiT) | [Colorwave Seasons](https://open.spotify.com/album/1pGm9P5nsLlDBe4E6RvDtD) | 1:57 |
-| 52 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 |
-| 53 | [Move to safety](https://open.spotify.com/track/5QQHsWjHiEtkBQU2mQWiC2) | [PLIZ DO](https://open.spotify.com/artist/4RsIWJ8P0WvfDQHYpq3idB) | [Move to safety](https://open.spotify.com/album/4lFydtNuS4YFMEvQfPaoP2) | 2:15 |
+| 52 | [Move to safety](https://open.spotify.com/track/5QQHsWjHiEtkBQU2mQWiC2) | [PLIZ DO](https://open.spotify.com/artist/4RsIWJ8P0WvfDQHYpq3idB) | [Move to safety](https://open.spotify.com/album/4lFydtNuS4YFMEvQfPaoP2) | 2:15 |
+| 53 | [Stay and Wander](https://open.spotify.com/track/0Hm8vke3rwzGKm5sBpY762) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i), [Cap Kendricks](https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj) | [Field Notes](https://open.spotify.com/album/2JPUrDwBhVpbskpK0pPQX1) | 1:52 |
 | 54 | [Shanghai Nights](https://open.spotify.com/track/1es71gP1Ljrf6KVvqR1T75) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk) | [Around the World](https://open.spotify.com/album/3UgC3J0xdyEaLXHqRnt7Wy) | 4:24 |
 | 55 | [I Don't Love You Anymore](https://open.spotify.com/track/6QOVWoZUD3IEszbfO46mYW) | [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [I Don't Love You Anymore](https://open.spotify.com/album/0n64xoWxg6GJpUzA1zOWnl) | 1:17 |
 | 56 | [スモーク](https://open.spotify.com/track/2g6WTGWNYGnRCBaWEzFE00) | [SwuM](https://open.spotify.com/artist/2Fc1UZXKRmPpWWx1sxcb9m) | [スモーク](https://open.spotify.com/album/5W8Y8PmcfrlkuYHdtV3OtP) | 2:31 |
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtzubo4lvxd.md) - [plain]
 | 69 | [Da Vibe](https://open.spotify.com/track/2DAeyy5xuWaFGY41ci8gxW) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Da Vibe](https://open.spotify.com/album/6n8R1py8bnhgMz2hhssmDb) | 2:15 |
 | 70 | [hammock](https://open.spotify.com/track/1PdJvxvhuImI0dpuWoPwWe) | [mommy](https://open.spotify.com/artist/0DJoMHFNyxWdoGqi8XMdfk) | [hometown](https://open.spotify.com/album/1algiZiHrfsA4siGIdUZRq) | 1:56 |
 | 71 | [Air](https://open.spotify.com/track/3gQSWGaCoaxONqXitmn7GX) | [Blvk](https://open.spotify.com/artist/12MvJYPfRXWwhUFJ7EtKHb) | [Beat Batch \#2](https://open.spotify.com/album/1zEv31yXhwbYowqsabXRJB) | 1:17 |
-| 72 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
-| 73 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
+| 72 | [Far Away](https://open.spotify.com/track/1bW8IKNqSmC4RHihpGaYoc) | [Leavv](https://open.spotify.com/artist/7sNw4pNLLJNGrU62O80WGE), [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [Far Away](https://open.spotify.com/album/1SUebSHdAuvfEHSPu9BScz) | 3:28 |
+| 73 | [Hills and Horizons](https://open.spotify.com/track/1MfeZZwkOZP5gpCfZCzKiJ) | [Fujitsu](https://open.spotify.com/artist/2a42gzUH51UAvwcfy0N6JT) | [Hills and Horizons](https://open.spotify.com/album/7uVXp056ciEBVnddjf7lt5) | 2:05 |
 | 74 | [4:20](https://open.spotify.com/track/7Bb0O4hmvyRKcj7Yl3MnmW) | [RAS](https://open.spotify.com/artist/5quzk8QzHrBaPWz4JH15cj) | [RAS](https://open.spotify.com/album/0jQ3zArVV1wo3Fjobq1pG5) | 11:31 |
-| 75 | [Water](https://open.spotify.com/track/5Z393NbAlwjAl0vYzUZh9D) | [omarr](https://open.spotify.com/artist/6VlR5v7VgUjpqIrIgrZ7wb) | [Desire](https://open.spotify.com/album/0yC7LKmarREa0WIHiZNbnL) | 2:42 |
+| 75 | [See You Tomorrow Sunshine](https://open.spotify.com/track/0FCj9e5G6bwfOhRP0pCi2d) | [Yestalgia](https://open.spotify.com/artist/68Re4wugc13HVak1p8Zawl) | [See You Tomorrow Sunshine](https://open.spotify.com/album/7hVaLzmrmoyAEPU9WqSXZ6) | 2:07 |
 
 Snapshot ID: `MTcxMDI1Mzk4OCwwMDAwMDAwMDE0NmNmOGNiOTNhYTJiZTJmNTQxYTNkODFjNjEwMWYw`

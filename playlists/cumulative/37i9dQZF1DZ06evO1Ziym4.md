@@ -2,7 +2,7 @@
 
 ### [This Is Guns N' Roses](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Ziym4)
 
-> This is Guns N' Roses\. The essential tracks, all in one playlist.
+> This is Guns N' Roses\. Todos os maiores hits em uma só playlist.
 
 62 songs - 5 hr 4 min
 

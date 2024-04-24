@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa DAVI.
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,786 likes - 60 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,770 likes - 60 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Skippaa \(feat\. VJ\)](https://open.spotify.com/track/7HRHFQ71ADVFYCu9RyWxR8) | [DAVI](https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV), [VJ](https://open.spotify.com/artist/4JdNUmnUaGFg9kX947oHg2) | [PERSONA THE ALBUM](https://open.spotify.com/album/3CxLaFKGjIYU3Ys72DN4Yr) | 2:00 |
-| 2 | [Hulluus saa mut huutamaan](https://open.spotify.com/track/60C39X0cMU3CGamo0ifQhK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Hulluus saa mut huutamaan](https://open.spotify.com/album/4IggzRJts3hnEupAx1jibG) | 3:22 |
-| 3 | [“Leipä”](https://open.spotify.com/track/2gxiSlbY5NrLlnp9xVU7Mx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [“Leipä”](https://open.spotify.com/album/6xUWu3p1I1XMoJcoTvDH73) | 1:46 |
-| 4 | [Lähetään menee](https://open.spotify.com/track/0TsvuYK3jVFHwZC5GYbmY6) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Lähetään menee](https://open.spotify.com/album/4FW8o20MyT22NDY9t7oaDc) | 3:09 |
+| 2 | [Lähetään menee](https://open.spotify.com/track/0TsvuYK3jVFHwZC5GYbmY6) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Lähetään menee](https://open.spotify.com/album/4FW8o20MyT22NDY9t7oaDc) | 3:09 |
+| 3 | [Hulluus saa mut huutamaan](https://open.spotify.com/track/60C39X0cMU3CGamo0ifQhK) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Hulluus saa mut huutamaan](https://open.spotify.com/album/4IggzRJts3hnEupAx1jibG) | 3:22 |
+| 4 | [Autiotalo](https://open.spotify.com/track/5dXWjpD4NPjB8csvnshuWu) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Autiotalo](https://open.spotify.com/album/63MCMtSJoQrHnyfZoKJdVg) | 2:41 |
 | 5 | [Platinaa](https://open.spotify.com/track/36Ps5MbGPuyuGCm0fcN7Xj) | [Kube](https://open.spotify.com/artist/56fNXc6wRoO6rkxs0mNtL4), [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs) | [Platinaa](https://open.spotify.com/album/1ocYLGurBOaDNnl4uYT7Ih) | 2:15 |
-| 6 | [Autiotalo](https://open.spotify.com/track/5dXWjpD4NPjB8csvnshuWu) | [Jami Faltin](https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf), [HUGO](https://open.spotify.com/artist/3nKO9WbvsGZEwcCSQgwtxZ) | [Autiotalo](https://open.spotify.com/album/63MCMtSJoQrHnyfZoKJdVg) | 2:41 |
-| 7 | [Ilman sua \(feat\. Joe L\)](https://open.spotify.com/track/3cKmc9eibwJsDrjsPKvVKo) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Ilman sua \(feat\. Joe L\)](https://open.spotify.com/album/1lCydBGHjjazSZeN95VTWl) | 2:33 |
-| 8 | [MITÄ MÄ TEEN](https://open.spotify.com/track/3yKekLDwFHSX7tHmrjJQ3L) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4), [LAVV](https://open.spotify.com/artist/3IniEdNsQX7ygA9ueGVfqW) | [MITÄ MÄ TEEN](https://open.spotify.com/album/09t3xwOITtlq43PBjkaOGL) | 4:00 |
+| 6 | [MITÄ MÄ TEEN](https://open.spotify.com/track/3yKekLDwFHSX7tHmrjJQ3L) | [Nebi](https://open.spotify.com/artist/0GFEJvcMqGLuhOUUZJavP4), [LAVV](https://open.spotify.com/artist/3IniEdNsQX7ygA9ueGVfqW) | [MITÄ MÄ TEEN](https://open.spotify.com/album/09t3xwOITtlq43PBjkaOGL) | 4:00 |
+| 7 | [“Leipä”](https://open.spotify.com/track/2gxiSlbY5NrLlnp9xVU7Mx) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe) | [“Leipä”](https://open.spotify.com/album/6xUWu3p1I1XMoJcoTvDH73) | 1:46 |
+| 8 | [Ilman sua \(feat\. Joe L\)](https://open.spotify.com/track/3cKmc9eibwJsDrjsPKvVKo) | [Pyrythekid](https://open.spotify.com/artist/2HvnW7Cp9P0d3lX5HIKNXW), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Ilman sua \(feat\. Joe L\)](https://open.spotify.com/album/1lCydBGHjjazSZeN95VTWl) | 2:33 |
 | 9 | [Paperihaavoja \(feat\. Gettomasa\)](https://open.spotify.com/track/7LwtWrfbtZhha6PoQMT4z0) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Paperihaavoja \(feat\. Gettomasa\)](https://open.spotify.com/album/1P4okT66IVLjtuLAuQM3pv) | 3:11 |
 | 10 | [Ruletti](https://open.spotify.com/track/7Le71LLofcN4HLoOxcUuRB) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Ruletti](https://open.spotify.com/album/0rFKRp8esZHf4nYFKmdnax) | 3:03 |
 | 11 | [Viikonloppufaijoi](https://open.spotify.com/track/7o9spcmp8OSa3PErVyx7St) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Viikonloppufaijoi](https://open.spotify.com/album/7yWjjKvcVMXMthjNgCfGrL) | 2:40 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 59 | [Kysyinksmä? \(feat\. Turisti\)](https://open.spotify.com/track/4Ml7ORJpmgcpRD8kuh5czt) | [Cledos](https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Kysyinksmä? \(feat\. Turisti\)](https://open.spotify.com/album/5Bw3Ahu1G2Gdkm49zYaZ15) | 2:34 |
 | 60 | [Jumala on muija](https://open.spotify.com/track/73oMNbt5BkihL2uAs0qpWA) | [BÄMÄ](https://open.spotify.com/artist/1nDMB5M5uBTt0SQWFgZtc1), [Marja\-Sisko Aalto](https://open.spotify.com/artist/5mgV0qvKeC2iSdHMQhjMtL) | [Jumala on muija](https://open.spotify.com/album/44LdOELOcVN9OcDoEo2EeC) | 2:37 |
 
-Snapshot ID: `MTcxMzQ3NDA2MCwwMDAwMDAwMGRjMGNjNmIxYjAxYjRiNTViZWY2YzE3ZDJhMmM5OWQ5`
+Snapshot ID: `MTcxMzg5OTQwNCwwMDAwMDAwMDdjZmY2NTlhYjg3NDBlNWFkMjU0YWVhOWFjYTZhZmFh`

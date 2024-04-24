@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 
 > Les plus belles chansons d'amour de la variété française.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,557 likes - 75 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,303 likes - 75 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 30 | [Rétine](https://open.spotify.com/track/5B6ES5IUbed17EgLnKhPjI) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:30 |
 | 31 | [Comme d'habitude](https://open.spotify.com/track/11FBMKhiuYT4doKhC4p3i6) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Hommages](https://open.spotify.com/album/41pzfqzZKn8WaI9XCPlMEo) | 4:09 |
 | 32 | [Mais je t'aime](https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [Camille Lellouche](https://open.spotify.com/artist/6os4KQUfJoyJwjZ7y7Ec6Q) | [Mais je t'aime](https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI) | 4:28 |
-| 33 | [Mon amour, mon ami](https://open.spotify.com/track/3c9zBIo62hAanrLLlMLEfB) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [1966\-1968](https://open.spotify.com/album/7DhSbnt6OJo7jr4QGtSELF) | 2:18 |
-| 34 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
+| 33 | [Le lac](https://open.spotify.com/track/0fQIB0rVuLNDNlq3B0hij9) | [Julien Doré](https://open.spotify.com/artist/6jStlKLflTMUN6BajxrNlj) | [&](https://open.spotify.com/album/2JIk3csX6RdYMCmpyStgVj) | 3:55 |
+| 34 | [Mon amour, mon ami](https://open.spotify.com/track/3c9zBIo62hAanrLLlMLEfB) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [1966\-1968](https://open.spotify.com/album/7DhSbnt6OJo7jr4QGtSELF) | 2:18 |
 | 35 | [Morgane de toi](https://open.spotify.com/track/3v6ClatJ2nG0TIpfL3HwY1) | [Renaud](https://open.spotify.com/artist/15uNxh8omvRvH71kcdIe2r) | [Morgane De Toi \(Remastered\)](https://open.spotify.com/album/0kXYiKUznqm9ZyFxhuOvBE) | 6:12 |
 | 36 | [La javanaise](https://open.spotify.com/track/7cUKT1Wiwve4E5iRFOLVmz) | [Serge Gainsbourg](https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo) | [N°4](https://open.spotify.com/album/2LzvU0eKruEkYzsVNa3PtO) | 2:29 |
 | 37 | [10 ans de nous](https://open.spotify.com/track/6IiHR8CKiV1GLs49dQBCq2) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [La femme idéale](https://open.spotify.com/album/1YCcGk8gFgNo6xuOyaidne) | 3:27 |
@@ -64,9 +64,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 54 | [Belle \(with Patrick Fiori & Garou\)](https://open.spotify.com/track/0a8sR4JpMM4mcFNItKOjRg) | [Daniel Lavoie](https://open.spotify.com/artist/6S4WAihWktrOYeJdslsjcM), [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq), [Garou](https://open.spotify.com/artist/1oXtLNYfNMQLxWsatCTCCn) | [Notre Dame de Paris \- Studio](https://open.spotify.com/album/07jQJEWYAPlISmakXFSmzs) | 4:37 |
 | 55 | [La chanson des vieux amants](https://open.spotify.com/track/2nn7R5ESQhN5MhWcrHFjLi) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [15 Ans D'Amour](https://open.spotify.com/album/6Us9T05UuNDMP2NtVrSVyG) | 4:27 |
 | 56 | [Aimer est plus fort que d'être aimé](https://open.spotify.com/track/112mJNSudZnvXE3x4mPb6C) | [Daniel Balavoine](https://open.spotify.com/artist/28IqYhzq3UU46bbY0mRgn7) | [Sauver l'amour \(Remastered\)](https://open.spotify.com/album/7MeWkif2iSlOTHh3H7uzyh) | 4:05 |
-| 57 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 |
-| 58 | [Laisse moi t'aimer](https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:23 |
-| 59 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
+| 57 | [Laisse moi t'aimer](https://open.spotify.com/track/3xPNasHy69FFGxyxYApJPS) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:23 |
+| 58 | [Je dis aime](https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO) | [\-M\-](https://open.spotify.com/artist/6soPpJHlCtN6SY8pWlfbC6) | [Je Dis Aime](https://open.spotify.com/album/0kTDINWpwSWZP2ohupAGav) | 3:56 |
+| 59 | [Il venait d'avoir 18 ans](https://open.spotify.com/track/4ci1FpTYDsWGEww9cHm9sN) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 2:59 |
 | 60 | [L'amour à la machine](https://open.spotify.com/track/2qHYEIBD2g14bOT2YkZ2Ye) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [C'est déjà ça](https://open.spotify.com/album/2aZRmXEvD458ZCk1C0Wdu5) | 3:46 |
 | 61 | [Capri c'est fini](https://open.spotify.com/track/0PIAMCcvkLZ6P2YwWZ1e5H) | [Hervé Vilard](https://open.spotify.com/artist/1HkC0LOaynhYSGcNklyIcd) | [Capri C'Est Fini](https://open.spotify.com/album/6ZsIMeATSXlD60nK0kADB7) | 3:37 |
 | 62 | [Hymne à l'amour](https://open.spotify.com/track/7vBb8Ls4yNkNah0Lbo5jTY) | [Édith Piaf](https://open.spotify.com/artist/1WPcVNert9hn7mHsPKDn7j) | [Triple Best Of](https://open.spotify.com/album/2cgWvXNypu7gi27yC7pB18) | 3:26 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1i77RjafrZv.md) - [plain]
 | 71 | [Elle préfère l'amour en mer](https://open.spotify.com/track/5ZhLMUNyZWRjVWwHKDNF6H) | [Philippe Lavil](https://open.spotify.com/artist/7doURsj1UtIUUeW2kwNwWw) | [Nonchalances](https://open.spotify.com/album/1pXcmUDdmlRibJHaAMcbNr) | 2:59 |
 | 72 | [Aimer \- Roméo & Juliette, Les enfants de Vérone](https://open.spotify.com/track/12x3erRdPdMLrCY4vPMLq1) | [Damien Sargue](https://open.spotify.com/artist/4C0r0nZOGwHmybNFmhMtvO), [Joy Esther](https://open.spotify.com/artist/5yIbkMHQyrQ5eNWaFtlXpX) | [Roméo Et Juliette, Les enfants de Vérone](https://open.spotify.com/album/7AGiDF2Rd1iX80GSauaL46) | 2:51 |
 | 73 | [Femmes..\. Je vous aime](https://open.spotify.com/track/1Cis3BiUs6rLpT3BnRy1TR) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Femmes, indiscrétion, blasphème](https://open.spotify.com/album/6F7PDFzEi076fEcgMTt34f) | 4:23 |
-| 74 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
-| 75 | [Un point c'est toi](https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Zen](https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa) | 3:30 |
+| 74 | [Un point c'est toi](https://open.spotify.com/track/4F0VQWS8GDhJywfeQpca2v) | [Zazie](https://open.spotify.com/artist/3FLS6y4AR3126l4D06V0ZD) | [Zen](https://open.spotify.com/album/34GPTRygg7wzqFmRWjiKoa) | 3:30 |
+| 75 | [Les yeux ouverts](https://open.spotify.com/track/6BJltRcIxqomZ5X77zfwCe) | [Enzo Enzo](https://open.spotify.com/artist/4nWMNl9Y8X0eRGNoYlsAwD) | [Enzo Enzo](https://open.spotify.com/album/288K0Z8iUFaAWOXtec5Nx3) | 3:28 |
 
 Snapshot ID: `MTY5NzAxNDA5OSwwMDAwMDAwMDZmMTc5ZTRlMWM3NzE2NTNlNzFiODYyNDI4NmRiNGM4`

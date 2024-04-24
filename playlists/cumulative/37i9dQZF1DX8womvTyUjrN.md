@@ -4,7 +4,7 @@
 
 > Fresh Latin pop on the rise\. Cover: iñigo quintero
 
-634 songs - 1 day 7 hr 51 min
+635 songs - 1 day 7 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -627,6 +627,7 @@
 | [XQ Sigues Pasando :\(](https://open.spotify.com/track/60WnyQpJMxndoCwfo3TbuE) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [XQ Sigues Pasando :\(](https://open.spotify.com/album/5yupynAvNgH8LwQomVJEzz) | 3:34 | 2023-09-08 | 2024-01-13 |
 | [YA NO](https://open.spotify.com/track/2ubOm8LStEhv4CEiIOk01F) | [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Diablo](https://open.spotify.com/artist/38cfgJjmUEknY8JKyFBipW) | [YA NO](https://open.spotify.com/album/2sHKdDqfzkwXyVZoHVA4PZ) | 3:46 | 2022-09-06 | 2022-10-29 |
 | [Ya No Se Mueve](https://open.spotify.com/track/1ySJxsLuBOwc3BOvNGeIdZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Ya No Se Mueve](https://open.spotify.com/album/2DXjnfXuEeacuThcytHodq) | 2:35 | 2023-06-30 | 2023-10-30 |
+| [Ya Te Superé](https://open.spotify.com/track/498xY5uDt2X4DPxMXGE2qO) | [Sofia Castro](https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw) | [Ya Te Superé](https://open.spotify.com/album/7csypJTOawXrAhuxK7sbdv) | 3:16 | 2024-04-23 |  |
 | [Yo Primero](https://open.spotify.com/track/3I4rvoB4ih3URCTdIpWmFt) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [Yo Primero](https://open.spotify.com/album/1QLxtuYX7Ojojm8I5zmLmI) | 2:45 | 2023-03-17 | 2023-03-25 |
 | [Yo Te Diré](https://open.spotify.com/track/2K6QTldAHBRFk3c6BHWYr5) | [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8) | [Yo Te Diré](https://open.spotify.com/album/3SkgP7RqJZs5PdQQPcDK7J) | 3:27 | 2023-01-20 | 2023-04-29 |
 | [Yo\-yo](https://open.spotify.com/track/4p9q8knpkk8vx7RTilNiyr) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Yo\-yo](https://open.spotify.com/album/5Bydy5fT7Q1mNDzgb6aDzs) | 3:17 | 2022-10-07 | 2023-01-14 |

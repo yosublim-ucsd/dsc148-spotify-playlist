@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 
 > Are you afraid of the dark?
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,732 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,827 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 46 | [Way Past Three](https://open.spotify.com/track/3lWEr9ARqZA5K9v9BS26J2) | [Nightbus](https://open.spotify.com/artist/1fbC8ATYVPUeFy2h5NOK8x) | [Way Past Three](https://open.spotify.com/album/3rmol1Nr87zSljaRpQ2X1z) | 2:42 |
 | 47 | [L'Inconnue](https://open.spotify.com/track/1bs7Igp2djzz9aWDbEkfYA) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/1zN85Ep8w2JORfCe0RHLDP) | 4:24 |
 | 48 | [Smalltown Boy](https://open.spotify.com/track/4eau8qa4koyrqBysxTBCpp) | [Kele](https://open.spotify.com/artist/0LsO2x5E0KNdMxkWh0EmE0) | [The Waves Pt\. 1](https://open.spotify.com/album/6CTDHmkq504AdTYiPokwSW) | 4:22 |
-| 49 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
-| 50 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
+| 49 | [My Evil](https://open.spotify.com/track/25acuSS8Mfoo0XVHdPlHTJ) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:24 |
+| 50 | [Meet you at the Graveyard](https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L) | [Cleffy](https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7) | [Clean Sheets, Dirty Walls](https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM) | 2:52 |
 | 51 | [It Was Gone](https://open.spotify.com/track/5XUpxZO6tIHpupxE97LJ7I) | [Orchid Mantis](https://open.spotify.com/artist/6Yt4jPVBqhLFQcNM0dSZtq) | [It Was Gone](https://open.spotify.com/album/2zz9Kq8rQRdV7y9fvpG6eg) | 5:07 |
 | 52 | [Religion for One](https://open.spotify.com/track/54Zik7AdvtDDZksQm015Z7) | [Fat White Family](https://open.spotify.com/artist/5ztBFCBEL7OtjdAt98RnD4) | [Religion for One](https://open.spotify.com/album/3Sz2ldxbLynqngGDSrj8Dl) | 3:19 |
 | 53 | [Dancing with Ghosts](https://open.spotify.com/track/2vXq4DzEwtxMyc5WLOg6EY) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD), [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Dancing with Ghosts](https://open.spotify.com/album/1yLAAVq1QqUKEhKJKkHjdl) | 4:59 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hol82XuK24.md) - [plain]
 | 78 | [Spinning Wheel](https://open.spotify.com/track/35AFp3kz5PoMNU0TQGFwEz) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Spinning Wheel](https://open.spotify.com/album/6vef9mkcfhLjq8tUnujtrA) | 3:25 |
 | 79 | [Sombre Two](https://open.spotify.com/track/5nWz8hDOfQ9p4VagLZ4wxS) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Swampy & Sombre Two](https://open.spotify.com/album/5GDEoqKD2xARNtyX5EiTh5) | 2:16 |
 | 80 | [Dreamer](https://open.spotify.com/track/4VwxfY2vOzrf0LXb4HFEvk) | [Nabihah Iqbal](https://open.spotify.com/artist/7pPOvwCq4bb2iObs8twDir) | [Dreamer](https://open.spotify.com/album/1U0eun2BDlw7RyLomRJv0V) | 3:53 |
-| 81 | [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 |
-| 82 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 |
+| 81 | [Used To It](https://open.spotify.com/track/7EeCwTGR2ct1WTo0OvkWag) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Used To It](https://open.spotify.com/album/1wKmS7A41gfVYHnFUnD2HR) | 3:02 |
+| 82 | [Almighty](https://open.spotify.com/track/6RpiN5H6IpDWNTaVEZUhrH) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [Almighty](https://open.spotify.com/album/4D2yVILnAA47VroVLFcB8B) | 4:05 |
 | 83 | [Little Vampire](https://open.spotify.com/track/2DNynwcArXc2rYXgJxuBZ2) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Head of the Love Club](https://open.spotify.com/album/2cwCSDQhVHVtHzv2N8paST) | 2:55 |
 | 84 | [Beautiful, but Bleak](https://open.spotify.com/track/4COhacNez6tWj4GTGNKJvB) | [Wilted Flower](https://open.spotify.com/artist/0lPEl2oXjSBkmzAvzhb587) | [Here Lies Our Love](https://open.spotify.com/album/5oZRa4gKveXsvvu6tlWgOV) | 3:37 |
 | 85 | [ahhh](https://open.spotify.com/track/4viqaCQX1jMEDmTPKT1Bry) | [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [ahhh](https://open.spotify.com/album/29RF0bLY5JiHMZsOcMvfF2) | 3:04 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This is Flo Milli。アーティストの代表曲をひとつのプレイリストに。
+> This is Flo Milli\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,052 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,066 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO00Q0Yo.md) - [plain]
 | 49 | [Sexy \(Remix\) \- feat\. Flo Milli](https://open.spotify.com/track/2UchverhvMczB8NoXrNWwU) | [JoeVille](https://open.spotify.com/artist/6Rf6w9LrInrRvLTh0sEzVW), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Sexy \(Remix\) \[feat\. Flo Milli\]](https://open.spotify.com/album/4S1It1aTTWaMPblmRNy3DX) | 3:48 |
 | 50 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDA5YWY3OGZjODY3ZmVmMjljN2MxOTA1MTI1MDhiODMz`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDU4YjAxZDliMmZjNGE4M2YzNDA3OGQ1NGQ4OWMyMDgy`

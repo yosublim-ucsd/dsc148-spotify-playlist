@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 
 > Unique versions of hit songs by other artists\. Cover: HARDY's HIXTAPE
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,123 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,217 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 50 | [Because Of You](https://open.spotify.com/track/5LGEfWqwgYL16tyXkrRC8J) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [Reba Duets](https://open.spotify.com/album/39Os87XP3yC2XBSpAur4BL) | 3:43 |
 | 51 | [Something In The Orange \- Live From Spotify Studios](https://open.spotify.com/track/4HR0snb2H47kBNo39IxrNR) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show: The Encore](https://open.spotify.com/album/4bNl4naMwsYI9OeG3WPZ5E) | 4:02 |
 | 52 | [Margaritaville \(with Jimmy Buffett\)](https://open.spotify.com/track/2CEWW0uqHj7sJrXdfHwozn) | [Alan Jackson](https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0) | [Under The Influence](https://open.spotify.com/album/3wRDT9A3HLNUym3fCS6q48) | 4:15 |
-| 53 | [Paradise](https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Paradise](https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK) | 3:18 |
-| 54 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
+| 53 | [Whoever's in New England](https://open.spotify.com/track/04kCQmATnYeMObIw8Efnor) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Whoever's In New England](https://open.spotify.com/album/4bRzY03Ik2xuETyr1NDED4) | 3:46 |
+| 54 | [Paradise](https://open.spotify.com/track/4zWjHKeCkNcNUrSBPNIGkc) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Paradise](https://open.spotify.com/album/5suOEzLE9dyan78iILj4aK) | 3:18 |
 | 55 | [Tonight I Wanna Cry](https://open.spotify.com/track/6rYiM8hZeP9g6xykAGGi4y) | [CHASE WRIGHT](https://open.spotify.com/artist/4P70LmF7PJwBGS9BV5dk2c) | [Tonight I Wanna Cry](https://open.spotify.com/album/39SIwsPue8bKiLkQYrgyug) | 3:32 |
 | 56 | [Eastside](https://open.spotify.com/track/3sfJXqWV7sr2aQiSaahbZc) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Eastside](https://open.spotify.com/album/4xM6xa81ZVLpjjaFbFqx8k) | 2:47 |
 | 57 | [American Girl](https://open.spotify.com/track/3PRTKWFigJCi47YAEsBpiP) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [American Girl](https://open.spotify.com/album/5LUbA5E8vsyAbFgmS2CZin) | 3:03 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KHLbhJkg7B.md) - [plain]
 | 97 | [Someone You Loved](https://open.spotify.com/track/2Gd3xovLjWKqPIfQNs3LP0) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Someone You Loved](https://open.spotify.com/album/1z9rgqCPr9UaOxipFCHZN5) | 2:51 |
 | 98 | [Seminole Wind](https://open.spotify.com/track/2g9d41j4oPSQNd9nOU6X79) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Something Borrowed, Something New: A Tribute to John Anderson](https://open.spotify.com/album/4RdF0JISljVUu2v34lXI83) | 4:38 |
 | 99 | [Palace \- Cover](https://open.spotify.com/track/3gkqjWvOpWpFQYX5AzqrY3) | [Cam](https://open.spotify.com/artist/5WRElKaZsn1tGnrgmJVAeO) | [Palace \(Cover\) / Diane](https://open.spotify.com/album/3xEQ2CukZ34BtuhITSjMNS) | 3:49 |
-| 100 | [Listen To The Radio](https://open.spotify.com/track/6n9PvbAoQtDe3AEMbS8v70) | [Billy Strings](https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf), [Molly Tuttle](https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE) | [Listen To The Radio](https://open.spotify.com/album/6RdQfXUPxhbauUanaotuJg) | 4:00 |
+| 100 | [He Got the Best of Me](https://open.spotify.com/track/5brBLjXJuQ1leaH5VAGBGq) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [He Got the Best of Me](https://open.spotify.com/album/2nIckz63cXWEYkWd9SWPAO) | 2:38 |
 
 Snapshot ID: `MTcxMjI4OTYwMCwwMDAwMDAwMGM4NWZiM2ZkOWJiYTU2OGFmODNmNDc2ZDRmZTRiNmFh`

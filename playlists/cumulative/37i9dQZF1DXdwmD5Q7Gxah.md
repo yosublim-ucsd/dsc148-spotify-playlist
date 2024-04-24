@@ -4,7 +4,7 @@
 
 > maybe it does all come back around\. LAUNDRY DAY is back 😎
 
-2,731 songs - 6 day 3 hr 8 min
+2,732 songs - 6 day 3 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,7 +647,7 @@
 | [Dog Eat](https://open.spotify.com/track/6kyNaZJgV2ngQA6c0mvt5y) | [Jack Larsen](https://open.spotify.com/artist/1UGH6A3IionoSVLLmqtl4o) | [Dog Eat](https://open.spotify.com/album/4tp2NihDQ78g1BHJMxN3zW) | 2:47 | 2020-05-28 | 2020-08-20 |
 | [dog eat dog](https://open.spotify.com/track/00UDY0dZ0ZBjZzAL7J7RP8) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [greenhouse](https://open.spotify.com/album/3w3uOLOz8fvnHGLBrDLwFj) | 2:51 | 2021-07-17 | 2021-11-13 |
 | [Doin' Time](https://open.spotify.com/track/0cLS7FslBJgsuWwJNRnPWB) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Doin' Time](https://open.spotify.com/album/7FsoMmWTbDXgdwvO1uCQ7d) | 3:21 | 2019-07-30\* | 2019-09-27 |
-| [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2024-04-13 |  |
+| [Doin' Time](https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Norman Fucking Rockwell!](https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A) | 3:22 | 2024-04-13 | 2024-04-24 |
 | [DOING IT AGAIN BABY](https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [DOING IT AGAIN BABY](https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz) | 2:25 | 2024-03-08 |  |
 | [Dominic’s Interlude](https://open.spotify.com/track/2sOOXgEGB7nhKO8mmc1GhI) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Manic](https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr) | 1:16 | 2020-01-17 | 2020-02-20 |
 | [Don't Be A Fool](https://open.spotify.com/track/5blpjo0tFAlmc7CmnCWa4T) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Don't Be A Fool](https://open.spotify.com/album/1IVQNLAsFmahMc8r10feQB) | 3:26 | 2020-12-04 | 2021-04-02 |
@@ -1816,7 +1816,7 @@
 | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/track/0RW1UL8w8rjQkaIaljaFc5) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d), [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Photo ID \(with Dominic Fike\)](https://open.spotify.com/album/3zFq7EuaSEF96fFaMCUE8w) | 3:27 | 2021-03-06 | 2021-08-28 |
 | [Pick At Your Face](https://open.spotify.com/track/78cVkU7TCYhe9exs5KgxsT) | [yungatita](https://open.spotify.com/artist/2fswC3Le1wbUHa9AYEhRyi) | [Shoelace & A Knot](https://open.spotify.com/album/6Fe0luiVJPaPapmsVSeoOJ) | 4:29 | 2024-01-03 |  |
 | [picnic](https://open.spotify.com/track/1Ry0wBREk2niZzLB9OfbdG) | [DAISY WORLD](https://open.spotify.com/artist/53rBi3LpNcMJUTSANS6uYT) | [picnic](https://open.spotify.com/album/4J0nenGo3AyImS1oeMOVA7) | 3:59 | 2021-12-10 | 2022-03-05 |
-| [Picture](https://open.spotify.com/track/2fqqw29nKkLUd4qACp0WOV) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:04 | 2024-04-13 |  |
+| [Picture](https://open.spotify.com/track/2fqqw29nKkLUd4qACp0WOV) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [Hayday](https://open.spotify.com/album/4MNA5xtDPHsMALfJnChUVt) | 2:04 | 2024-04-13 | 2024-04-24 |
 | [Picture Book](https://open.spotify.com/track/3goYNmDLv0HXUXyJ1XQX99) | [Postcard Boy](https://open.spotify.com/artist/0PlXYPmSA81NdpOCHwkQB7) | [Picture Book](https://open.spotify.com/album/1uNWkGs5yvLStN7PzCjPB1) | 2:52 | 2020-10-20 | 2020-11-14 |
 | [Picture in my mind](https://open.spotify.com/track/0z3YYobsavHguLTgqg5GC1) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t), [Sam Gellaitry](https://open.spotify.com/artist/07UJz804RJxqNvxFXC3h9H) | [Picture in my mind](https://open.spotify.com/album/744TnMqUCSGWPa17iii3LU) | 2:56 | 2022-08-12 | 2022-10-29 |
 | [Picture Of You](https://open.spotify.com/track/4jr4dG2kr1A5iQHX6s9C0q) | [Estrada](https://open.spotify.com/artist/2GneXHHf3TSS7swhr1uzzE) | [Picture Of You](https://open.spotify.com/album/7oqxbjrUn7rnoAnozLLC6w) | 4:18 | 2022-08-12 | 2023-01-28 |
@@ -2366,6 +2366,7 @@
 | [Teenage Dirtbag](https://open.spotify.com/track/3LI4MmibTkXH5cGpCGZgyw) | [Wheatus](https://open.spotify.com/artist/4mYFgEjpQT4IKOrjOUKyXu) | [Songs From Dawson's Creek, Vol\. II](https://open.spotify.com/album/187HV0h26fG3mkRsySp5Lj) | 4:01 | 2022-08-09 | 2022-08-19 |
 | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/track/5goZCkRmpk5tWTX3Af6XRL) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [Teenage Dirtbag \(feat\. chloe moriondo\)](https://open.spotify.com/album/0MKG6I8hXwzKlW2ww5OclV) | 3:19 | 2021-10-26 | 2022-01-22 |
 | [Teenagers](https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0) | [My Chemical Romance](https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb) | [The Black Parade](https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK) | 2:41 | 2021-05-15 | 2021-05-22 |
+| [Tejano Blue](https://open.spotify.com/track/6sQ833YbGp8SbtGcLCBwHw) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Tejano Blue](https://open.spotify.com/album/5sZaDwkcg7KFjCEHlvvKt8) | 3:54 | 2024-04-23 |  |
 | [Tek It](https://open.spotify.com/track/63HHF9ZpCIisujKFk2rixR) | [Cafuné](https://open.spotify.com/artist/581C5Qwl87TskfBEzuoisu) | [Running](https://open.spotify.com/album/4n42G2OKF6kxGugj2MMn5c) | 3:11 | 2022-04-08 | 2022-06-16 |
 | [telepatía](https://open.spotify.com/track/6tDDoYIxWvMLTdKpjFkc1B) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 2:40 | 2021-02-09 | 2021-04-02 |
 | [Telescope](https://open.spotify.com/track/129j5W9RW7EvQqzUWnQkp1) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Telescope](https://open.spotify.com/album/7dt1Q1pu5BNOHJgCnlpzuS) | 2:50 | 2019-09-14 | 2019-10-10 |

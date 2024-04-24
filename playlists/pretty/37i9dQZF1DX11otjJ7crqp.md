@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 
 > Essential new pop tracks\. Cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,636 likes - 100 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,705 likes - 98 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 34 | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/track/6tqSQ7LWVgmVyf41tFAqHV) | [Grace Gachot](https://open.spotify.com/artist/1viwLnZpOs9iGIe3PP3aoJ), [Alex Sampson](https://open.spotify.com/artist/70LuGDrcHRTN0dQJoLN7rf) | [Built To Be Bad \(with Alex Sampson\)](https://open.spotify.com/album/3PYiHvRl0dwJJIVHm0FpeY) | 3:08 |
 | 35 | [Caught in Your Love](https://open.spotify.com/track/2xpbZxV34gnvg3QwUvG370) | [Boys World](https://open.spotify.com/artist/0YgZTREOQz8oOGVABXEoXi) | [Caught in Your Love](https://open.spotify.com/album/4fNIHOD3cYbbTT09tGt8xH) | 2:18 |
 | 36 | [The Last Time](https://open.spotify.com/track/3bwyDktNV0Y9WJp3HiJq3c) | [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [The Last Time](https://open.spotify.com/album/6iJ4cxaqYj7IOVjEKWZMWD) | 2:26 |
-| 37 | [sky walking](https://open.spotify.com/track/5ACbMgNSCDOYivSFPqUIHk) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY) | [sky walking](https://open.spotify.com/album/4ils94t20fdmbOM3NpV6ZY) | 2:03 |
+| 37 | [sky walking](https://open.spotify.com/track/5ACbMgNSCDOYivSFPqUIHk) | [YAS](https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY) | [sky walking](https://open.spotify.com/album/4ils94t20fdmbOM3NpV6ZY) | 2:02 |
 | 38 | [We’re A Pair Of Diamonds](https://open.spotify.com/track/5ebpoFoJubLhKfvUpVQtAv) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn), [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [We’re A Pair Of Diamonds](https://open.spotify.com/album/1KGeeV81YzwOM6kXGFHb53) | 3:48 |
 | 39 | [crowd pleaser](https://open.spotify.com/track/3g7L6qhsAhZfAAFHfYvnAo) | [TEHYA](https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw) | [crowd pleaser](https://open.spotify.com/album/7s1MWuMTwRKcOLGwAQ9Ezl) | 2:34 |
 | 40 | [Questions, Chaos & Faith](https://open.spotify.com/track/7dwszn3bUo9ozTx5SjRzZa) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Questions, Chaos & Faith](https://open.spotify.com/album/1fztGf3wviZe3XgCpBmpH3) | 3:57 |
@@ -91,22 +91,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11otjJ7crqp.md) - [plain]
 | 81 | [One Less Question](https://open.spotify.com/track/1lPOg6A053ay6AAUOh3mij) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [One Less Question](https://open.spotify.com/album/03IgjqBqPp0aTNiOxtpIiz) | 3:10 |
 | 82 | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/track/6rJmvaxHxJofkrGn1azjrd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Jimmy Fallon](https://open.spotify.com/artist/7mAcgRMD6EfCKHO6cIkDOP) | [Sweet Morning Heat \(from the Netflix Film "Unfrosted"\)](https://open.spotify.com/album/45NbXQTQehu3aWZXQdI1vN) | 3:13 |
 | 83 | [Nasty](https://open.spotify.com/track/6NjWCIYu1W8xa3HIvcIhd4) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Nasty](https://open.spotify.com/album/1vMVDUsMWaD5eB4oahCboP) | 2:56 |
-| 84 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
-| 85 | [Stuck](https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Stuck](https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE) | 2:04 |
-| 86 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 |
-| 87 | [Come Around](https://open.spotify.com/track/7ccy7n5wsG50bvQim0kxQz) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Come Around](https://open.spotify.com/album/6ffVRkoHqbVgOXIIVNkoSn) | 2:54 |
-| 88 | [We're All A Little Bit Broken](https://open.spotify.com/track/2v3NK488YZc1lsnI92bkRZ) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [We're All A Little Bit Broken](https://open.spotify.com/album/3Z7VAPZqUy1B5zXzA4BJu3) | 3:36 |
-| 89 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
-| 90 | [DIRTY LITTLE FANTASY](https://open.spotify.com/track/6n9e5YQaVZVwjGVwkeiVP0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRTY LITTLE FANTASY](https://open.spotify.com/album/6QMuvYDuJ6LJbFsdAjKhBb) | 2:04 |
-| 91 | [Bikini](https://open.spotify.com/track/0JtmRJ2flxK5bI7Qhg85zW) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Bikini](https://open.spotify.com/album/0cIEx7SCOMdsSitPnBWtdH) | 2:23 |
-| 92 | [Velvet](https://open.spotify.com/track/3OX6xIgyxLDaNe1nYNep9d) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [Velvet](https://open.spotify.com/album/6JchOj6Ku6j7AEg3RvELnS) | 2:59 |
-| 93 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 |
-| 94 | [PIECES](https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ) | [Galli J](https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW) | [PIECES](https://open.spotify.com/album/4FAg2FITtsq4hf0lUHFxd5) | 2:58 |
-| 95 | [Callin' U \(Tamally Maak\)](https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 1:56 |
-| 96 | [back to him](https://open.spotify.com/track/4l4q4SvYblrOQecJdKojJp) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [he's just not that into you!](https://open.spotify.com/album/3LQxhuq5ZS9eQQrocLGwdO) | 2:44 |
-| 97 | [Verse](https://open.spotify.com/track/4X4qJ8mObTUQ7nVAzfemNY) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [Verse](https://open.spotify.com/album/3cRDwQfth1RGe4jrOppD8M) | 2:09 |
-| 98 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 |
-| 99 | [Don't Give Up On Love](https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Don't Give Up On Love](https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl) | 3:29 |
-| 100 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 |
+| 84 | [Stuck](https://open.spotify.com/track/3yyJWBJ3MOrLlhtla7Cq7P) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [6arelyhuman](https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN) | [Stuck](https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE) | 2:04 |
+| 85 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 |
+| 86 | [Come Around](https://open.spotify.com/track/7ccy7n5wsG50bvQim0kxQz) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [Come Around](https://open.spotify.com/album/6ffVRkoHqbVgOXIIVNkoSn) | 2:54 |
+| 87 | [We're All A Little Bit Broken](https://open.spotify.com/track/2v3NK488YZc1lsnI92bkRZ) | [AJ Smith](https://open.spotify.com/artist/7FzUl96rK3TB1HVeVNw973) | [We're All A Little Bit Broken](https://open.spotify.com/album/3Z7VAPZqUy1B5zXzA4BJu3) | 3:36 |
+| 88 | [Always](https://open.spotify.com/track/31HK5kxZbGVVX6EhtU5FWK) | [Armaan Malik](https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs), [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Always](https://open.spotify.com/album/2gIWzyA5azGmtUtuNOuCeG) | 3:01 |
+| 89 | [DIRTY LITTLE FANTASY](https://open.spotify.com/track/6n9e5YQaVZVwjGVwkeiVP0) | [Lilyisthatyou](https://open.spotify.com/artist/4ExEi8SBEd3QRgwbGw2nHC) | [DIRTY LITTLE FANTASY](https://open.spotify.com/album/6QMuvYDuJ6LJbFsdAjKhBb) | 2:04 |
+| 90 | [Bikini](https://open.spotify.com/track/0JtmRJ2flxK5bI7Qhg85zW) | [Joalin](https://open.spotify.com/artist/1zbrr8GKUOCfIXCntXDCiX) | [Bikini](https://open.spotify.com/album/0cIEx7SCOMdsSitPnBWtdH) | 2:23 |
+| 91 | [Velvet](https://open.spotify.com/track/3OX6xIgyxLDaNe1nYNep9d) | [MaKenzie](https://open.spotify.com/artist/23w7neRfZOyJl8BbAYkBJ0) | [Velvet](https://open.spotify.com/album/6JchOj6Ku6j7AEg3RvELnS) | 2:59 |
+| 92 | [Hot](https://open.spotify.com/track/1PYzbO75HFtcX9xa210DFF) | [Zeina](https://open.spotify.com/artist/2saNOYtb2v8aXMmezcwAiI) | [Eastend Confessions](https://open.spotify.com/album/0JgRxOdiWpJKfP1uiVzKvJ) | 2:42 |
+| 93 | [PIECES](https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ) | [Galli J](https://open.spotify.com/artist/6nIJkiCwmXxSvzrlJ0qLcW) | [PIECES](https://open.spotify.com/album/4FAg2FITtsq4hf0lUHFxd5) | 2:58 |
+| 94 | [back to him](https://open.spotify.com/track/4l4q4SvYblrOQecJdKojJp) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo) | [he's just not that into you!](https://open.spotify.com/album/3LQxhuq5ZS9eQQrocLGwdO) | 2:44 |
+| 95 | [Verse](https://open.spotify.com/track/4X4qJ8mObTUQ7nVAzfemNY) | [Chrissy Chlapecka](https://open.spotify.com/artist/7L5no8Dp7Y2Gk0L1JIWj9S) | [Verse](https://open.spotify.com/album/3cRDwQfth1RGe4jrOppD8M) | 2:09 |
+| 96 | [Karma](https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln) | [JoJo Siwa](https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP) | [Karma](https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak) | 3:07 |
+| 97 | [Don't Give Up On Love](https://open.spotify.com/track/6PKIbeiAWkXCW6zokx4WUR) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Don't Give Up On Love](https://open.spotify.com/album/1GIfzALsAVoILlh1AkX6Pl) | 3:29 |
+| 98 | [Eulogy](https://open.spotify.com/track/0OWyJzSLWlM3WZhl7IfYc6) | [Ayesha Madon](https://open.spotify.com/artist/4VnDOpK4rdMBMihlIt6Uxr) | [Eulogy](https://open.spotify.com/album/00jDeAf7t2dmbMKtxEniMA) | 3:32 |
 
-Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMGM2ZDA3NzhkM2ZiNGViYTg3MTQ2ZjE3MmU5ODg2NjNl`
+Snapshot ID: `MTcxMzkxMDM3NCwwMDAwMDAwMGFiOTU5NWYyMzViNTQ0NmE3MzBhNTIyOWNjOGRiNDkz`

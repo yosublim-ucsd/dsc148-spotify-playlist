@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 
 > Be cool with refreshing Tropical K\-Pop dance music! \(시원청량한 국내 댄스곡을 즐겨보세요!\) \(Cover: NAYEON\(나연\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,271 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,419 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 36 | [Roller Coaster](https://open.spotify.com/track/6DIW7GJbuGZdHolRcPWprP) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Offset](https://open.spotify.com/album/04TsF8IFb70DdBYDT8egvw) | 3:32 |
 | 37 | [DOWN \(Juicy Juicy\)](https://open.spotify.com/track/086PZ9r1W6iNjZyL8qOqTS) | [JO YURI](https://open.spotify.com/artist/3LFFf4EpKn2krneZ9vozyz) | [See You in My 19th Life, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/0BM8vW7jepWGUcEd2mh2EY) | 3:26 |
 | 38 | [4 Walls](https://open.spotify.com/track/2YkjXEab4USTV9uuAgC90E) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [4 Walls \- The 4th Album](https://open.spotify.com/album/6yJdchE7ARS996BxRgplFH) | 3:27 |
-| 39 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
-| 40 | [We Lost The Summer](https://open.spotify.com/track/1WrScpykT891CZhFThXJtj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:30 |
+| 39 | [We Lost The Summer](https://open.spotify.com/track/1WrScpykT891CZhFThXJtj) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode1 : Blue Hour](https://open.spotify.com/album/2DDNDdePEx9R0bBwRqahdr) | 3:30 |
+| 40 | [DUMDi DUMDi](https://open.spotify.com/track/2fJ70dRX7J4jiVxKUQQp7C) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [DUMDi DUMDi](https://open.spotify.com/album/0NC6QFvAc9H9r5iov9QwjK) | 3:30 |
 | 41 | [Underwater](https://open.spotify.com/track/5bdmWBCaiaHk2HbqKOXLyJ) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm) | [Lethality](https://open.spotify.com/album/47TnhxiVVp5ZvvotLbFmKf) | 2:50 |
 | 42 | [10 Months](https://open.spotify.com/track/3LcFQsZw01tRvjCNLgSmTv) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [BORDER : DAY ONE](https://open.spotify.com/album/3YxF7jTnpdNepWbO42f8lH) | 3:14 |
 | 43 | [Ring The Alarm](https://open.spotify.com/track/6jUq2EfNMW7SizzNVVGvhm) | [KARD](https://open.spotify.com/artist/2JhAlkmukNvarUpGhTFXUQ) | [KARD 5th Mini Album 'Re:'](https://open.spotify.com/album/7pXpC584OFCNWOFmmufGjl) | 3:05 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lU51fgoMhF.md) - [plain]
 | 92 | [When You Call My Name](https://open.spotify.com/track/1e6OozrLhrFOit0DsCPTv2) | [ASTRO](https://open.spotify.com/artist/4pz4uzOMpJQyV8UTsDy4H8) | [GATEWAY](https://open.spotify.com/album/5mSkyxRRofx2WkVaij09sW) | 3:29 |
 | 93 | [Wind And Wish](https://open.spotify.com/track/1oIhaSskG6qqjtQUOru4hi) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [WIND AND WISH](https://open.spotify.com/album/0V5Bcd4D8qMugSOh3GRJQ4) | 3:41 |
 | 94 | [Popping](https://open.spotify.com/track/4QZKSPPgyfNLR9UkMx0158) | [ONF](https://open.spotify.com/artist/0eEhOgZ2x6kv8kLz77WO7b) | [SUMMER POPUP ALBUM \[POPPING\]](https://open.spotify.com/album/0JRycz0jI4Rh02dRl6aGF6) | 3:24 |
-| 95 | [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 |
-| 96 | [Rollin' \(New Version\)](https://open.spotify.com/track/7DkqdEiDja7Gn9zvrfy7Vw) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin' \(New Version\)](https://open.spotify.com/album/4xmh2xJI6SENhp5cvXiynw) | 3:21 |
+| 95 | [Rollin' \(New Version\)](https://open.spotify.com/track/7DkqdEiDja7Gn9zvrfy7Vw) | [Brave Girls](https://open.spotify.com/artist/7t5H3uQv0Zw6cQUnSTF5BB) | [Rollin' \(New Version\)](https://open.spotify.com/album/4xmh2xJI6SENhp5cvXiynw) | 3:21 |
+| 96 | [Summertime \(feat\. Ashley Alisha\)](https://open.spotify.com/track/7Iik4joMVkfqrMMCDwFe3W) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Ashley Alisha](https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk) | [Summertime](https://open.spotify.com/album/0r9E2hgF8kZ4k9zDk72CbK) | 3:01 |
 | 97 | [SCREAM](https://open.spotify.com/track/0FaeA2jhqji5fwSdIavSyU) | [SF9](https://open.spotify.com/artist/7LOmc7gyMVMOWF8qwEdn2X) | [THE WAVE OF9](https://open.spotify.com/album/4bE85rfnrEXYRvqrEhEJAn) | 3:08 |
 | 98 | [Beautiful Night](https://open.spotify.com/track/5TAVtxiijuCtUAvubAy7bY) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc) | [Beautiful Night](https://open.spotify.com/album/3d3Qrwsh70152U0DkClVem) | 2:49 |
-| 99 | [WAVE](https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Album 'OK' Prologue : Be OK](https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR) | 3:19 |
-| 100 | [Crème Brûlée](https://open.spotify.com/track/6LTIjhj6OoJMF0Nrn6Xg1y) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:17 |
+| 99 | [Crème Brûlée](https://open.spotify.com/track/6LTIjhj6OoJMF0Nrn6Xg1y) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Song of the Sirens](https://open.spotify.com/album/7nv3pBVVG6Zoc6DmaQ9fVG) | 3:17 |
+| 100 | [WAVE](https://open.spotify.com/track/2vr4CIT7L5syUxNxFXs47f) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [CIX 1st Album 'OK' Prologue : Be OK](https://open.spotify.com/album/3pDsgSLUn5213aS3II19WR) | 3:19 |
 
 Snapshot ID: `MTY5NDY4NzI3OSwwMDAwMDAwMGIyYzFkNWUzODBkMmMyNTU0OGZlM2Y5MWQ0ZWQxMGNh`

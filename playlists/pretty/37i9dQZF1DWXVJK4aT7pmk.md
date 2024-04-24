@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 
 > Catch the hottest Punjabi tracks with Shubh for his track "Bandana"
 
-[Spotify](https://open.spotify.com/user/spotify) - 962,004 likes - 75 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 963,355 likes - 75 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXVJK4aT7pmk.md) - [plain]
 | 30 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 |
 | 31 | [Note](https://open.spotify.com/track/6HEKcj2LfAd5oiceKWKjqU) | [Dilpreet Dhillon](https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Let's Go](https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu) | 3:07 |
 | 32 | [Tareefan](https://open.spotify.com/track/4hYKmQvLi2yaFAd7Kx07Vp) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Tareefan](https://open.spotify.com/album/36Bplz54txKmm4xAJoUGcg) | 3:12 |
-| 33 | [Aam Jahe Munde](https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq) | [Aam Jahe Munde](https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX) | 3:27 |
+| 33 | [Aam Jahe Munde](https://open.spotify.com/track/32VAw8DL9ixX5XSW2VLcZ4) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [PARDHAAN](https://open.spotify.com/artist/06sVoZgq2NIPNoWgggu8Vq), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Aam Jahe Munde](https://open.spotify.com/album/0VtFj2jJ3PosFrLHbE7TJX) | 3:27 |
 | 34 | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/track/6NJ8Z5GDoHe47R6gGX6sLq) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel), [Preston Pablo](https://open.spotify.com/artist/5TvdGhdmRObqOkU6eGfXb5) | [Admirin' You \(feat\. Preston Pablo\)](https://open.spotify.com/album/2rSFhbKldPsvtXI5IuseAF) | 3:34 |
 | 35 | [White Brown Black](https://open.spotify.com/track/3nKQrVVlwbAQSnFbgZWdN0) | [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT) | [White Brown Black](https://open.spotify.com/album/3rOSq53b9Cv7ygKe5NwKNJ) | 2:55 |
 | 36 | [Dior](https://open.spotify.com/track/53QrRlALFJfZgdcGLKwy5s) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Still Rollin](https://open.spotify.com/album/5AivaZj0CiQJoDWqVH2pbh) | 2:19 |

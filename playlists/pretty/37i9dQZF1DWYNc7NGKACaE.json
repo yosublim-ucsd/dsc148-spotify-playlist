@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 79708,
+  "num_followers": 79767,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -663,8 +663,8 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 202666,
-      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
-      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -859,8 +859,8 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+        "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+        "url": "https://open.spotify.com/album/55NOFy7Em1EvBc8ZY5vIuX"
       },
       "artists": [
         {
@@ -868,9 +868,9 @@
           "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
         }
       ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+      "duration_ms": 202666,
+      "name": "7 Meiota, Minha Preta da de Dez a Zero, Nessas Paty de Olho Azul",
+      "url": "https://open.spotify.com/track/05UzengsM8WqaRbwgLcn6f"
     },
     {
       "added_at": "2023-12-27 14:18:14",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2023-12-27 14:18:14",
       "album": {
-        "name": "Como Era Antes",
-        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
-      },
-      "artists": [
-        {
-          "name": "rs9",
-          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
-        }
-      ],
-      "duration_ms": 64480,
-      "name": "Como Era Antes... (Speed Up)",
-      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
-    },
-    {
-      "added_at": "2023-12-27 14:18:14",
-      "album": {
         "name": "BOMBEI AQUELA MSC DO INVEJOSO",
         "url": "https://open.spotify.com/album/6kaffiAaI4xC57IQRemunE"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 176040,
       "name": "Florxs Speed Up",
       "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
+    },
+    {
+      "added_at": "2023-12-27 14:18:14",
+      "album": {
+        "name": "Como Era Antes",
+        "url": "https://open.spotify.com/album/6ftwzFoSNWFnJLcZ2seY98"
+      },
+      "artists": [
+        {
+          "name": "rs9",
+          "url": "https://open.spotify.com/artist/3pg4wlhwWAUDvmONc1O0i9"
+        }
+      ],
+      "duration_ms": 64480,
+      "name": "Como Era Antes... (Speed Up)",
+      "url": "https://open.spotify.com/track/1ehN4TuEBlGb3ievwvTIhQ"
     },
     {
       "added_at": "2023-12-27 14:18:14",

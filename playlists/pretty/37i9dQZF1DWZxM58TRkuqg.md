@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Tiara Andini
 
-[Spotify](https://open.spotify.com/user/spotify) - 753,881 likes - 55 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 753,700 likes - 55 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 5 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 |
 | 6 | [Hoping You'll Be Mine](https://open.spotify.com/track/5pVwYwxsuBoc8gNlWR0igt) | [Abeliano](https://open.spotify.com/artist/5MVMpQxOa7Ax5ps1J6E2uE) | [Hoping You'll Be Mine](https://open.spotify.com/album/5dNWRgYdXBdg0GEMmbhsu8) | 3:22 |
 | 7 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 |
-| 8 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:18 |
+| 8 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:20 |
 | 9 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 10 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 |
 | 11 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |

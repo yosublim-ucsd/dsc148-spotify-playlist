@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 
 > The cinnamon\-infused, crisp\-air\-breathing, crunchy\-leaves\-walking, chunky\-knit\-wearing, seasonal\-latte\-drinking playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 423,893 likes - 111 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 423,958 likes - 111 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6cFbK8tUIPC.md) - [plain]
 | 55 | [Arcadia](https://open.spotify.com/track/1vLmc6JVzSGVnUT3BMfKXZ) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Arcadia](https://open.spotify.com/album/6KpJMQZAI4thJHoBzawHnZ) | 3:30 |
 | 56 | [Necklace](https://open.spotify.com/track/2uW2mr7xyFXwxG0cHNq87B) | [Maya Delilah](https://open.spotify.com/artist/6TWEX2qTj9b0bBsXSVCMKM) | [Necklace](https://open.spotify.com/album/1YaEANXHSIKzuHEcClw2eY) | 3:31 |
 | 57 | [Rivers and Roads](https://open.spotify.com/track/3nzXs8ynjIwQvmxjogvCYx) | [The Head And The Heart](https://open.spotify.com/artist/0n94vC3S9c3mb2HyNAOcjg) | [The Head And The Heart](https://open.spotify.com/album/0HOYbncHll4TcojWXrfYfV) | 4:44 |
-| 58 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
+| 58 | [Ain't It Easy](https://open.spotify.com/track/3YdkukHIzvVxSvY92JAVw3) | [Alex G](https://open.spotify.com/artist/2DhebjO0uMIKmc7W7q3WFJ) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:54 |
 | 59 | [Death with Dignity](https://open.spotify.com/track/73uJybGAhwGRD9MZYrOmTY) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 3:59 |
 | 60 | [Feathers](https://open.spotify.com/track/4r6Njn1o84F1BuIG67wZVb) | [Belle Mt.](https://open.spotify.com/artist/6DewGkgNz0j4pO3T2ZMUHS) | [Feathers](https://open.spotify.com/album/0YjVz2eN5Bawz8c8Dx1b99) | 4:31 |
 | 61 | [All I Want](https://open.spotify.com/track/2jTidefcsTu6VQhpIImJrt) | [Kodaline](https://open.spotify.com/artist/4BxCuXFJrSWGi1KHcVqaU4) | [In A Perfect World \(Deluxe\)](https://open.spotify.com/album/3YHf7ooFmrTOsp4jPM3aFj) | 5:05 |

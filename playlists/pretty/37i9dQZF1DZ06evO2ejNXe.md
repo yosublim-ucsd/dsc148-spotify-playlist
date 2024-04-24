@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 
 > This is Banda Zarape\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,387 likes - 46 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,388 likes - 46 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ejNXe.md) - [plain]
 | 45 | [Subete A Mi Moto](https://open.spotify.com/track/7nkvn87viPCecOuKkWI23d) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 2:52 |
 | 46 | [Los Mosquitos](https://open.spotify.com/track/5VP16qRl87kY6HF8poIDeH) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Es La Primera Vez](https://open.spotify.com/album/1oDrAVB7a7vPeNTGiJlFHI) | 4:08 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDdjNGY4YjFhMTc5ZTFiNzdjYTJkMDliYmM0NWZkNGRj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDJiYWRmMmQ1MTExOTBmNDUxODg2NGM5ZTMxMGEzYzk5`

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The songs and collaborations pushing the Mexican sound to a global level. Cover: Peso Pluma & Becky G",
-  "name": "Internacional Mexicano",
+  "description": "Get ready for <a href=\"spotify:genre:0JQ5DAqbMKFEJHdEnquSi1\">BelicoFest</a> with the setlist of Gerardo Ortiz.",
+  "name": "BelicoFest Setlist: Gerardo Ortiz",
   "tracks": [
     {
       "album": {
@@ -20,7 +20,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 168896,
       "name": "(Entre Par\u00e9ntesis)",
       "url": "https://open.spotify.com/track/68viiGZoRbLCjsy5xD4VrU"
@@ -46,7 +46,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 215092,
       "name": "100 A\u00f1os - Con Calibre 50",
       "url": "https://open.spotify.com/track/5CxyOGC6zPaZ190hXuH5FO"
@@ -64,7 +64,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 198080,
       "name": "200 COPAS",
       "url": "https://open.spotify.com/track/5IiyU0TCHJXuD8GDOfh5ST"
@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182465,
       "name": "3 de la Ma\u00f1ana",
       "url": "https://open.spotify.com/track/24cS53gOoCh9grgAj8Cfig"
@@ -108,10 +108,50 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 215745,
       "name": "77",
       "url": "https://open.spotify.com/track/7y2KhPccpkgRSMa3GDXjQq"
+    },
+    {
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126120,
+      "name": "A La Moda",
+      "url": "https://open.spotify.com/track/4qap3khBojdW5RkU9FouIV"
+    },
+    {
+      "album": {
+        "name": "The Green Trip",
+        "url": "https://open.spotify.com/album/1KrCvwoIRQ18824qcMFb4F"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174275,
+      "name": "Aerol\u00ednea Carrillo",
+      "url": "https://open.spotify.com/track/0xYTyyfV767E2Vn3hz56kL"
     },
     {
       "album": {
@@ -130,7 +170,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 241106,
       "name": "Alaska",
       "url": "https://open.spotify.com/track/607ZGkxOxHJUVDEU3MZl86"
@@ -156,7 +196,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 168533,
       "name": "Alguien Me Gusta",
       "url": "https://open.spotify.com/track/4iFTIshL0xDCw8JJUl5AJ3"
@@ -178,7 +218,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
@@ -204,10 +244,46 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
+    },
+    {
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+    },
+    {
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198026,
+      "name": "Aquiles Afirmo",
+      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
     },
     {
       "album": {
@@ -226,7 +302,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 205681,
       "name": "Bandido",
       "url": "https://open.spotify.com/track/6v7oDF8Q6MdjwpxxebMYDC"
@@ -252,7 +328,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 172149,
       "name": "Bandolero",
       "url": "https://open.spotify.com/track/2AsqZbYfD9007Dw9aW6N7u"
@@ -274,7 +350,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
@@ -296,7 +372,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 208361,
       "name": "Billetes de 100",
       "url": "https://open.spotify.com/track/7wUFaxBGcFTME9OJKJqvLu"
@@ -322,7 +398,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 163057,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/3ZsaMkZP7MPxIUcepUW9mS"
@@ -344,7 +420,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 197333,
       "name": "Botella Tras Botella",
       "url": "https://open.spotify.com/track/2MnLkFqY9Rpg9s3Zv6ZJdK"
@@ -366,7 +442,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182080,
       "name": "Brindo - Remix",
       "url": "https://open.spotify.com/track/5oqySFPNtOq6jYlQf5ItWE"
@@ -388,7 +464,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 197781,
       "name": "Cada Quien",
       "url": "https://open.spotify.com/track/5BE9B2FiFWBbBdoIQ1m1UP"
@@ -414,7 +490,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 188093,
       "name": "CAMBIA!",
       "url": "https://open.spotify.com/track/5cNJO43VKHxD0XGbkhboZu"
@@ -432,10 +508,28 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174817,
       "name": "Cambiaste",
       "url": "https://open.spotify.com/track/2ShMj3rcOHAMKuhI7iaJo8"
+    },
+    {
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282266,
+      "name": "Cara A La Muerte (En Vivo)",
+      "url": "https://open.spotify.com/track/2BwQ9RVjAjLpTM8D7SPlsZ"
     },
     {
       "album": {
@@ -454,7 +548,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 201993,
       "name": "CHANEL",
       "url": "https://open.spotify.com/track/1DBXfbLYNqIlPwxjUxDxaR"
@@ -476,7 +570,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 198938,
       "name": "Como el Viento",
       "url": "https://open.spotify.com/track/5LyqFuRn4AaYlkpMFi1W0s"
@@ -498,7 +592,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 177062,
       "name": "Como Lo Hice Yo",
       "url": "https://open.spotify.com/track/64JzNzcoSZOh3RWeoghVfk"
@@ -516,7 +610,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 140312,
       "name": "Conozco La Calle",
       "url": "https://open.spotify.com/track/5ImiC67NzaBXSUXZjN1CSX"
@@ -534,7 +628,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 193568,
       "name": "Coraz\u00f3n de Piedra",
       "url": "https://open.spotify.com/track/0dEAiKNbHt4mrjjoiL0loc"
@@ -560,7 +654,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 222831,
       "name": "Corrido Espacial",
       "url": "https://open.spotify.com/track/2kArNwB6naa7LrKBlEe65P"
@@ -586,7 +680,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 212500,
       "name": "Corrido Tumbero",
       "url": "https://open.spotify.com/track/56Mx6yWQj6UWk37LHMHqI4"
@@ -612,7 +706,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 202090,
       "name": "Cr\u00f3nicas de un Gallo",
       "url": "https://open.spotify.com/track/6YPczk6I8RRCjIcJ9I7p8y"
@@ -638,7 +732,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 185701,
       "name": "C\u00f3mo Duele el Silencio (feat. Luis Coronel) - Banda Version",
       "url": "https://open.spotify.com/track/1qclsFzzplrtjZMXFrDaDM"
@@ -660,7 +754,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 222732,
       "name": "De A De Veras",
       "url": "https://open.spotify.com/track/21aZ4e4lJiFmqRzNiPXqhP"
@@ -682,7 +776,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 188411,
       "name": "DE LUNES A LUNES",
       "url": "https://open.spotify.com/track/7yci6r0cjX0Np5AshDZOsR"
@@ -704,7 +798,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 217458,
       "name": "DEL Barrio a la Ciudad",
       "url": "https://open.spotify.com/track/3kk2ouD96VMdv8WUz57OLm"
@@ -722,7 +816,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 249040,
       "name": "Donde Est\u00e1s",
       "url": "https://open.spotify.com/track/69qvqJ61NqTtr1eO29tapa"
@@ -740,10 +834,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 187417,
       "name": "Dos Uno Nueve (219)",
       "url": "https://open.spotify.com/track/4h4Yy4DUZw0NkivxwBHM32"
+    },
+    {
+      "album": {
+        "name": "El Primer Ministro",
+        "url": "https://open.spotify.com/album/1fLCJYEq0kv87PSPdCB0dC"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159026,
+      "name": "D\u00e1maso",
+      "url": "https://open.spotify.com/track/7yAwyQ2np0KRjeXsGwirez"
     },
     {
       "album": {
@@ -762,7 +874,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 180186,
       "name": "El Cambio (Feat. Grupo Firme) - Mariachi",
       "url": "https://open.spotify.com/track/7tFOqICxTsVzC1mNpFb2PE"
@@ -806,10 +918,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 275400,
       "name": "El Chivo (feat. T3r Elemento)",
       "url": "https://open.spotify.com/track/1t0P9nBKpnrh5MntGd3qw6"
+    },
+    {
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133226,
+      "name": "El Cholo",
+      "url": "https://open.spotify.com/track/6z4awm3ZfXQjXGF5loOUAi"
     },
     {
       "album": {
@@ -828,7 +958,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 167988,
       "name": "EL HECHIZO",
       "url": "https://open.spotify.com/track/1mF6RkY7x1KsDBZS6cV5f1"
@@ -850,10 +980,46 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 170297,
       "name": "El Jefe",
       "url": "https://open.spotify.com/track/5wjsJIUf6pdrwauPDae43o"
+    },
+    {
+      "album": {
+        "name": "El Perro",
+        "url": "https://open.spotify.com/album/6bilXwSkLU99SXKrYzs6Yp"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124170,
+      "name": "El Perro",
+      "url": "https://open.spotify.com/track/0JjGu0Y6J2hd8TiiUPDnGP"
+    },
+    {
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154946,
+      "name": "El Trokero Lokochon",
+      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
     },
     {
       "album": {
@@ -872,7 +1038,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 165671,
       "name": "Ella Baila Sola",
       "url": "https://open.spotify.com/track/3dnP0JxCgygwQH9Gm7q7nb"
@@ -898,10 +1064,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194769,
       "name": "ELOVRGA",
       "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
+    },
+    {
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187280,
+      "name": "En Preparacion",
+      "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
     },
     {
       "album": {
@@ -924,7 +1108,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 234611,
       "name": "Enfermo de Riqueza",
       "url": "https://open.spotify.com/track/0sS3OIqLs2RcccCyR71h6s"
@@ -950,10 +1134,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 239480,
       "name": "Eres la Persona Correcta en el Momento Equivocado (feat. Luis Coronel & Espinoza Paz)",
       "url": "https://open.spotify.com/track/0MKRo7E8MaLketrDrtIqnE"
+    },
+    {
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170720,
+      "name": "Eres Una Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
       "album": {
@@ -972,7 +1174,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 157040,
       "name": "Esta Noche",
       "url": "https://open.spotify.com/track/6RruB10Yvw1uCHHSIku5qW"
@@ -994,7 +1196,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182698,
       "name": "Estamos Aqu\u00ed",
       "url": "https://open.spotify.com/track/74Ubz79KvXRUZWoJIIZl7f"
@@ -1016,7 +1218,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 239840,
       "name": "Est\u00e1 Da\u00f1ada - Remix",
       "url": "https://open.spotify.com/track/2HFrlVZI1PHNwfNiIC8mkb"
@@ -1042,7 +1244,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 142802,
       "name": "EXCESO",
       "url": "https://open.spotify.com/track/6icPJycbKyxzR3RAbXxjj1"
@@ -1064,7 +1266,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 193552,
       "name": "Fino Licor - Feat. Piso 21",
       "url": "https://open.spotify.com/track/64fVcCq6n2uN8HOq88uEph"
@@ -1090,7 +1292,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210600,
       "name": "Flow Dragon",
       "url": "https://open.spotify.com/track/0sraRgvPfsDbFaPH5IyAdF"
@@ -1112,7 +1314,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 282565,
       "name": "Fuego de Noche, Nieve de D\u00eda",
       "url": "https://open.spotify.com/track/4zdKE0VFQ0su2GpZMBCwUM"
@@ -1138,7 +1340,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 226473,
       "name": "Glopeta y Dios",
       "url": "https://open.spotify.com/track/3ipLtuOWd0xHEWZKju7foh"
@@ -1156,7 +1358,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 186453,
       "name": "GUCCI LOS PA\u00d1OS",
       "url": "https://open.spotify.com/track/3CNbrXrUrEARw8zeKNCdYo"
@@ -1178,7 +1380,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 143327,
       "name": "HARLEY QUINN",
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
@@ -1200,7 +1402,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 171724,
       "name": "Inseparables",
       "url": "https://open.spotify.com/track/57GWBz1UtT6iei1jrbkovI"
@@ -1222,7 +1424,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 275194,
       "name": "Jugaste y Sufr\u00ed",
       "url": "https://open.spotify.com/track/3NqBxTOMCJ3zW9CIP51td4"
@@ -1244,7 +1446,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 236267,
       "name": "Kilos de Amor",
       "url": "https://open.spotify.com/track/6sChylyoQyLrKKQ9S3sYjD"
@@ -1266,7 +1468,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 160320,
       "name": "Kim Kardashian",
       "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
@@ -1284,10 +1486,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
+    },
+    {
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151586,
+      "name": "La Leona y el Mandil\u00f3n",
+      "url": "https://open.spotify.com/track/72YKqem3dQrjdoMEH28AVH"
     },
     {
       "album": {
@@ -1306,7 +1526,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 177791,
       "name": "La Mitad",
       "url": "https://open.spotify.com/track/63Zaf8Rci6eOUPqDQ4fUFx"
@@ -1328,7 +1548,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 164552,
       "name": "LA NENA",
       "url": "https://open.spotify.com/track/3G1MmrIyPcSJnP6w2xyeXf"
@@ -1350,7 +1570,7 @@
       ],
       "date_added": "2022-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 202176,
       "name": "La Siguiente",
       "url": "https://open.spotify.com/track/4joPCNKibsoabhpuHPofqG"
@@ -1372,7 +1592,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 141105,
       "name": "La Verdad",
       "url": "https://open.spotify.com/track/5XrRfnVqGtEhGjMqr9JtrQ"
@@ -1394,7 +1614,7 @@
       ],
       "date_added": "2023-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 155550,
       "name": "Las Morras",
       "url": "https://open.spotify.com/track/7Lkxvfl2rkNYWS4kBDCQtN"
@@ -1438,7 +1658,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 183337,
       "name": "Las Ni\u00f1as Malas (with Edwin Luna y La Trakalosa de Monterrey)",
       "url": "https://open.spotify.com/track/3o9y6YJzOuWn6yB26AhiFW"
@@ -1467,6 +1687,24 @@
     },
     {
       "album": {
+        "name": "En Vivo Las Tundras",
+        "url": "https://open.spotify.com/album/1TNmT9J2l9vVh0AV72AaQj"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212146,
+      "name": "Las Tundras",
+      "url": "https://open.spotify.com/track/6teNC0i3wI14HR14ogtAfe"
+    },
+    {
+      "album": {
         "name": "Llorar y Llorar (con Carin Leon)",
         "url": "https://open.spotify.com/album/3FytBDr6KeYhwstN8yanrn"
       },
@@ -1482,7 +1720,7 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 169705,
       "name": "Llorar y Llorar - con Carin Leon",
       "url": "https://open.spotify.com/track/4YF13O2n16dcTyGgVmiGvN"
@@ -1504,10 +1742,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 179693,
       "name": "Malas Decisiones",
       "url": "https://open.spotify.com/track/7uNwhb9YKbT8poWlUN1L46"
+    },
+    {
+      "album": {
+        "name": "El Primer Ministro (Version Deluxe)",
+        "url": "https://open.spotify.com/album/3g9m0eblVHbLZWGPl58GvX"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145560,
+      "name": "Ma\u00f1ana Voy A Conquistarla",
+      "url": "https://open.spotify.com/track/7wJlEfqBaKiHFU9FFODAne"
     },
     {
       "album": {
@@ -1526,7 +1782,7 @@
       ],
       "date_added": "2022-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 191880,
       "name": "Me Extra\u00f1o",
       "url": "https://open.spotify.com/track/3qx4POjFiODHPwCBjq8IEW"
@@ -1548,7 +1804,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174174,
       "name": "Me Met\u00ed en el Ruedo - Remix",
       "url": "https://open.spotify.com/track/0Ssb1Wk9WDFapIL2SnNkA7"
@@ -1570,10 +1826,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 205538,
       "name": "Me Ven Manejando",
       "url": "https://open.spotify.com/track/2T52ALl72hzvYhYahoqBIK"
+    },
+    {
+      "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181826,
+      "name": "Me Voy",
+      "url": "https://open.spotify.com/track/5Cx2essf5FdkVjP0aJFywN"
     },
     {
       "album": {
@@ -1588,7 +1862,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/7mLPSkAJraASgNk6ywyTkp"
@@ -1614,10 +1888,46 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 197786,
       "name": "Mientras no Vuelves",
       "url": "https://open.spotify.com/track/7zUL3ljTTok6a3ZLfxWAvw"
+    },
+    {
+      "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185546,
+      "name": "Morir Y Existir",
+      "url": "https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q"
+    },
+    {
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173866,
+      "name": "Mujer De Piedra",
+      "url": "https://open.spotify.com/track/4US4uNDUynAor7UMaQHaxv"
     },
     {
       "album": {
@@ -1636,10 +1946,28 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 175880,
       "name": "Municiones",
       "url": "https://open.spotify.com/track/2nVOSrxGjCqblT9CKqEMHi"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s Caro, que ayer",
+        "url": "https://open.spotify.com/album/1lvumJJFlnydYEOXwdNrnk"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147221,
+      "name": "M\u00e1s Caro, que ayer",
+      "url": "https://open.spotify.com/track/62hyMZrYL0AjHgndb9ebZO"
     },
     {
       "album": {
@@ -1680,7 +2008,7 @@
       ],
       "date_added": "2023-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 169895,
       "name": "Ni Me Debes Ni Te Debo",
       "url": "https://open.spotify.com/track/3Zin1vaMx7PjFWIOBTE4FM"
@@ -1702,7 +2030,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 183840,
       "name": "No Hay Pedo",
       "url": "https://open.spotify.com/track/7FMa8CKN1im2uXR9bArJvX"
@@ -1720,7 +2048,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182280,
       "name": "No Lo Vi Venir",
       "url": "https://open.spotify.com/track/0jHaTmAiY9trB4AjVECmR9"
@@ -1742,7 +2070,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 165750,
       "name": "No Sab\u00eda Cu\u00e1nto",
       "url": "https://open.spotify.com/track/4gBxREFDhxi8Hw4qeiYt7B"
@@ -1760,7 +2088,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194019,
       "name": "No Se Va",
       "url": "https://open.spotify.com/track/5TXLMRrIet3CQxkyBZc3yE"
@@ -1836,7 +2164,7 @@
       ],
       "date_added": "2023-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 257657,
       "name": "Nos Matamos",
       "url": "https://open.spotify.com/track/7mo1AfuiwZaPxoD6UX7P3A"
@@ -1858,7 +2186,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 232099,
       "name": "Ojal\u00e1 Te Duela",
       "url": "https://open.spotify.com/track/5Pndhvqkucz0wGpP6G4MfH"
@@ -1884,7 +2212,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 207804,
       "name": "ONTAS BB",
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"
@@ -1906,7 +2234,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 226186,
       "name": "Otra Botella",
       "url": "https://open.spotify.com/track/1eF1uRpuxr351DXcsZ8t34"
@@ -1928,7 +2256,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 227233,
       "name": "Pa' Olvidarme De Ella",
       "url": "https://open.spotify.com/track/3lR4O0vtkhCAvVEUEWUL0S"
@@ -1950,10 +2278,46 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 170925,
       "name": "Pacas Verdes",
       "url": "https://open.spotify.com/track/2yFQXRSMJgaixzpP6gn8jr"
+    },
+    {
+      "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180693,
+      "name": "Palma Salazar",
+      "url": "https://open.spotify.com/track/4UhPBzZ2yHMsedsRxfH40T"
+    },
+    {
+      "album": {
+        "name": "Comer\u00e9 Callado, Vol. 1",
+        "url": "https://open.spotify.com/album/4IeW4TAoqfbRYzQNAKxk91"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175028,
+      "name": "Para Qu\u00e9 Lastimarme",
+      "url": "https://open.spotify.com/track/4pA15wGSXsWRPnRc9u4Dh5"
     },
     {
       "album": {
@@ -1972,7 +2336,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 193672,
       "name": "Para Todos Mis Paisanos",
       "url": "https://open.spotify.com/track/2R1GwRkfF4lYvc1IbnxsQX"
@@ -1994,7 +2358,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 184603,
       "name": "Pariente",
       "url": "https://open.spotify.com/track/6iqJbVamMn0NbwuZksgd87"
@@ -2016,10 +2380,28 @@
       ],
       "date_added": "2022-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 242553,
       "name": "Pensar en Ti (Remix)",
       "url": "https://open.spotify.com/track/2K0bFO9bEzx8t5UFEHAcyM"
+    },
+    {
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200386,
+      "name": "Perd\u00f3name",
+      "url": "https://open.spotify.com/track/69JACep1HLAHGitjoHhXkR"
     },
     {
       "album": {
@@ -2038,7 +2420,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 225705,
       "name": "Poco",
       "url": "https://open.spotify.com/track/6VZMIyzOupI4vA68RaUgXb"
@@ -2060,7 +2442,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 314000,
       "name": "Por Dentro",
       "url": "https://open.spotify.com/track/59Z1qb7vX4nMksBQ9vIkRr"
@@ -2082,7 +2464,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 197476,
       "name": "Por el Resto de Tu Vida",
       "url": "https://open.spotify.com/track/40vzZFWG1h60TdZPuxuX3Y"
@@ -2104,7 +2486,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 222551,
       "name": "Por las Noches - Remix",
       "url": "https://open.spotify.com/track/5HiA7W5wYDWi06UZFUluRu"
@@ -2126,7 +2508,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 199013,
       "name": "PRADAX",
       "url": "https://open.spotify.com/track/2qrZpvfxSgXu7JXxYCj3Ka"
@@ -2148,7 +2530,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 184066,
       "name": "PRC",
       "url": "https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl"
@@ -2184,7 +2566,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
@@ -2206,7 +2588,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 233533,
       "name": "Probablemente",
       "url": "https://open.spotify.com/track/3uc5bBXNRtCQGzRDqTPGNK"
@@ -2228,7 +2610,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 154226,
       "name": "P\u00f3nganse Bien",
       "url": "https://open.spotify.com/track/0P9slGsNlltV4yDPpv9sos"
@@ -2254,7 +2636,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 191466,
       "name": "Que Onda",
       "url": "https://open.spotify.com/track/6uIIdjYTxxpWOyWuVXrKQO"
@@ -2276,7 +2658,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 226339,
       "name": "Que Triste",
       "url": "https://open.spotify.com/track/0smvBTED0Px0rqPf3tobpt"
@@ -2298,10 +2680,28 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 169418,
       "name": "Que Vuelvas",
       "url": "https://open.spotify.com/track/6Um358vY92UBv5DloTRX9L"
+    },
+    {
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 97240,
+      "name": "Qui\u00e9n Se Anima",
+      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
     },
     {
       "album": {
@@ -2342,7 +2742,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 203360,
       "name": "Qu\u00e9 Maldici\u00f3n",
       "url": "https://open.spotify.com/track/2RxC2peY3FtrurYmbbmanr"
@@ -2368,7 +2768,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 224395,
       "name": "Qu\u00e9 Maldici\u00f3n - Remix",
       "url": "https://open.spotify.com/track/0SWfXjPmLSUydYzwK9ct9F"
@@ -2401,6 +2801,32 @@
     },
     {
       "album": {
+        "name": "Bendec\u00eddo",
+        "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Jes\u00fas Chairez",
+          "url": "https://open.spotify.com/artist/49xb55bacoIXahj7bLmfUp"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208117,
+      "name": "Recordando a Manuel",
+      "url": "https://open.spotify.com/track/3JuPa0jxEAacGtz4mAKVZA"
+    },
+    {
+      "album": {
         "name": "Desde El Infierno",
         "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
       },
@@ -2416,7 +2842,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 147101,
       "name": "Saco La Paca",
       "url": "https://open.spotify.com/track/1OWYOkf5VApIjWnOynKFJH"
@@ -2438,7 +2864,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 252013,
       "name": "Se Me Va A Quemar El Coraz\u00f3n",
       "url": "https://open.spotify.com/track/2VedKSBZCY9ucVSlXNnxGc"
@@ -2460,7 +2886,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 142334,
       "name": "Seg\u00fan Qui\u00e9n",
       "url": "https://open.spotify.com/track/6fNCrsrdIcgVd2aZZ0nnz4"
@@ -2482,7 +2908,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 227814,
       "name": "SI SUPIERAS",
       "url": "https://open.spotify.com/track/7KDYKPhxFFRDBSbgcfLxUT"
@@ -2512,7 +2938,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 291773,
       "name": "Sigo In\u00e9dito - Remix",
       "url": "https://open.spotify.com/track/2bTxNLc9yBOxsIxyq5XvSA"
@@ -2534,10 +2960,32 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 193621,
       "name": "Soy El Diablo - Remix",
       "url": "https://open.spotify.com/track/7pNAvsuTCFaXzSSUmfBPxz"
+    },
+    {
+      "album": {
+        "name": "Tal Como Eres",
+        "url": "https://open.spotify.com/album/2wU20CR1rYUTHYbzIy8bBT"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        },
+        {
+          "name": "Kevin Ortiz",
+          "url": "https://open.spotify.com/artist/5Pb066owdc1LPXDf6Xs8Rm"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230802,
+      "name": "Tal Como Eres",
+      "url": "https://open.spotify.com/track/217m0uJ8ntyl2Zm1JSABzB"
     },
     {
       "album": {
@@ -2552,7 +3000,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 198000,
       "name": "Tatuajes - Deluxe",
       "url": "https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu"
@@ -2596,7 +3044,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 153153,
       "name": "TE FUI A SEGUIR",
       "url": "https://open.spotify.com/track/2vRmz7wDDxRY4zPSzwEmIT"
@@ -2618,7 +3066,7 @@
       ],
       "date_added": "2023-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 190334,
       "name": "Te Quiero Besar",
       "url": "https://open.spotify.com/track/3iwKWIaEZ5jafPYZZSCDLz"
@@ -2662,7 +3110,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 176800,
       "name": "The One (Pero No Como Yo)",
       "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
@@ -2684,10 +3132,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 236945,
       "name": "Tomando Tequila",
       "url": "https://open.spotify.com/track/3yFKnvGcp6DqmXgYR7QW2I"
+    },
+    {
+      "album": {
+        "name": "D\u00e9cimo Aniversario",
+        "url": "https://open.spotify.com/album/0rDFeKay5JBgF7fFIUWYca"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164360,
+      "name": "Tranquilito",
+      "url": "https://open.spotify.com/track/2LJRoFOtMGLnSxJqlJuhge"
     },
     {
       "album": {
@@ -2706,7 +3172,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 220090,
       "name": "Tranquilito - Remix",
       "url": "https://open.spotify.com/track/1nUj6NRv9nq9pEIdl6ZOoc"
@@ -2728,7 +3194,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 200945,
       "name": "Tuyo y M\u00edo",
       "url": "https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n"
@@ -2750,7 +3216,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 206956,
       "name": "T\u00fa Me Gustas",
       "url": "https://open.spotify.com/track/30TZy1etY3FAGBDGS58hRj"
@@ -2772,7 +3238,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 202328,
       "name": "UN SHOT",
       "url": "https://open.spotify.com/track/45jgvHSwcq3vx0CxN0iBUx"
@@ -2794,7 +3260,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194563,
       "name": "un x100to",
       "url": "https://open.spotify.com/track/6pD0ufEQq0xdHSsRbg9LBK"
@@ -2816,7 +3282,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 183890,
       "name": "UNA BALA",
       "url": "https://open.spotify.com/track/6K7gGdiXiKHTaA5M98uT1F"
@@ -2860,7 +3326,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 279275,
       "name": "UNA CERVEZA",
       "url": "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"
@@ -2882,7 +3348,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 177654,
       "name": "Vas a Destrozarme - Versi\u00f3n Eden Mu\u00f1oz",
       "url": "https://open.spotify.com/track/7IwfGFVmoBYKODOqGqKN3r"
@@ -2904,7 +3370,7 @@
       ],
       "date_added": "2023-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 247080,
       "name": "Vida Loca",
       "url": "https://open.spotify.com/track/7fHq0gNmcwpuqL18pO2W7K"
@@ -2926,10 +3392,28 @@
       ],
       "date_added": "2023-04-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 161660,
       "name": "Y Ahora",
       "url": "https://open.spotify.com/track/6BS4DNTZF4vnuZwBHCNtUQ"
+    },
+    {
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161293,
+      "name": "Y Me Besa",
+      "url": "https://open.spotify.com/track/4z5vBmCnm4NxaOGOwT72dk"
     },
     {
       "album": {
@@ -2948,7 +3432,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 176458,
       "name": "Ya acab\u00f3 - Con Becky G",
       "url": "https://open.spotify.com/track/0OPiOIAyw2FUjKm8PXBGhq"
@@ -2970,10 +3454,28 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 180000,
       "name": "\u00bfCu\u00e1les Fronteras?",
       "url": "https://open.spotify.com/track/4qgHbVa7Zo8S3bIQvvD99s"
+    },
+    {
+      "album": {
+        "name": "Hoy M\u00e1s Fuerte",
+        "url": "https://open.spotify.com/album/2OAr7CKU64w3VzHkSsdC46"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181680,
+      "name": "\u00bfPor Qu\u00e9 Terminamos?",
+      "url": "https://open.spotify.com/track/1nK0XDR5ZdBfBMfkS5SXRF"
     },
     {
       "album": {
@@ -2992,7 +3494,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 185493,
       "name": "\u00bfQui\u00e9n Te Crees?",
       "url": "https://open.spotify.com/track/2LXOSAYiSrTfIf8smheLaz"

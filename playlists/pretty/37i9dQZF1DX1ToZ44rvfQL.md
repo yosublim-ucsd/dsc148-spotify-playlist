@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 
 > Porque el asado se prende con música.
 
-[Spotify](https://open.spotify.com/user/spotify) - 480,348 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 480,457 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 39 | [Zafar](https://open.spotify.com/track/1wIUWGdTdhVk5gIPd0ULxX) | [La Vela Puerca](https://open.spotify.com/artist/6nVcjUJemqpJjc1WevwTvL) | [A Contraluz](https://open.spotify.com/album/7LMidzEe6utRLx7hPiq2AL) | 4:22 |
 | 40 | [Una Nueva Noche Fría](https://open.spotify.com/track/39KmBOGkD1ztCbVeo2uspA) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:37 |
 | 41 | [Esta Saliendo El Sol](https://open.spotify.com/track/2pmHBQiIjVfTyn3p1rRbSB) | [Intoxicados](https://open.spotify.com/artist/4VgvR7eu3k2T20mo6mXhXF) | [No Es Solo Rock And Roll](https://open.spotify.com/album/1KYkaepx3oUWJRDR8ypzxH) | 4:08 |
-| 42 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
-| 43 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 42 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
+| 43 | [Madrugada](https://open.spotify.com/track/4SGCn3ZVXa7bepHuAdQvC9) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:41 |
 | 44 | [Personalmente](https://open.spotify.com/track/7q7XFO9av9VpNJSXKJwJxD) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Despierta](https://open.spotify.com/album/0289kJfdXVBPSDJfQ1fPJz) | 4:10 |
 | 45 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 |
-| 46 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
-| 47 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
+| 46 | [Arde la Ciudad](https://open.spotify.com/track/3SyKG06yOK3omo29EwZ8dP) | [Mancha De Rolando](https://open.spotify.com/artist/4DuhYdfd2jHMdaqYVYZp04) | [Viaje](https://open.spotify.com/album/795wm7ucRpHjqdyIPUAd0i) | 4:12 |
+| 47 | [QUEMARÁS](https://open.spotify.com/track/43WrAH7AnSucEvN7HGW0BF) | [WOS](https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK), [Indio Solari](https://open.spotify.com/artist/0nUGkxUncFeXt0Dr0hhrc4) | [QUEMARÁS](https://open.spotify.com/album/2nLlI9VteZMztr78YS9DHo) | 4:23 |
 | 48 | [Todo se transforma](https://open.spotify.com/track/4YEU9N2XAE0DfUwxWI5ijA) | [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Eco](https://open.spotify.com/album/5iy3qKctiZAsvb2ORx8vR7) | 3:37 |
 | 49 | [Amor \(Ft\. Mon Laferte\) \- Mtv Unplugged](https://open.spotify.com/track/2fscHtYDKLd7xYRCTe3prP) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Amor \(Ft\. Mon Laferte\) \(Mtv Unplugged\)](https://open.spotify.com/album/6CNdw6WvNlH86Y0h3rVQtw) | 5:12 |
 | 50 | [De Nada Sirve](https://open.spotify.com/track/2CFDPiNUxcSOqfQtUHYNxF) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [Otras Canciones](https://open.spotify.com/album/72SqrtijWJKq6ukitktd1D) | 3:57 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ToZ44rvfQL.md) - [plain]
 | 68 | [Verte Reír](https://open.spotify.com/track/6StWP4Tvs8Ci6QOCIDefYk) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [Aunque Cueste Ver El Sol](https://open.spotify.com/album/0hIeX3j63GPq4UvoGcA67J) | 4:26 |
 | 69 | [La Razón Que Te Demora](https://open.spotify.com/track/0ljyHIWERJQp8O5LKgKm1l) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Detonador de Sueños](https://open.spotify.com/album/7hHY77bNkcPikVZpC91hvZ) | 4:24 |
 | 70 | [Mujer Amante \- Vivo](https://open.spotify.com/track/5O5PY5HJNPxD7KyqU0SEhH) | [Rata Blanca](https://open.spotify.com/artist/632M26jlmnCrL8CqD5i7Kd) | [XX Aniversario En Vivo \- Magos, Espadas Y Rosas](https://open.spotify.com/album/7dbk5SnWgnt485vlCizXBE) | 6:17 |
-| 71 | [Imposible](https://open.spotify.com/track/5Vrw8Br1PSD8OcjblU5BEV) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:07 |
-| 72 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
+| 71 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
+| 72 | [Imposible](https://open.spotify.com/track/5Vrw8Br1PSD8OcjblU5BEV) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Presión](https://open.spotify.com/album/3Pr88tREtqKF9srgl21jGT) | 4:07 |
 | 73 | [Todos Locos](https://open.spotify.com/track/20j3mg8wGS2d3HbTrYWLsk) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:22 |
 | 74 | [Oncemil](https://open.spotify.com/track/3y5ahYM9zwyOCt3mieZ0PZ) | [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [11](https://open.spotify.com/album/5dpzYigmd97HcZOxWMpv9h) | 3:41 |
 | 75 | [Traicionero](https://open.spotify.com/track/0sOpGWXWkxNDev51Dst3fQ) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Historias](https://open.spotify.com/album/7J8jOyFxNFXYMP5xBue3og) | 4:59 |

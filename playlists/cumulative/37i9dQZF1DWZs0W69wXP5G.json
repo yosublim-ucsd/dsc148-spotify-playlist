@@ -750,7 +750,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 273693,
       "name": "Cabaret - From \"Cabaret\"",
       "url": "https://open.spotify.com/track/7xCLMphhWKJhCUB8sPcXoO"
@@ -3138,6 +3138,24 @@
       "duration_ms": 202533,
       "name": "Song About You",
       "url": "https://open.spotify.com/track/01Dmc9x1ogPGsk80kWK4nY"
+    },
+    {
+      "album": {
+        "name": "Duolingo on Ice (Original Broadway Recording)",
+        "url": "https://open.spotify.com/album/2igT4o8J4ldF4CLLauFmmF"
+      },
+      "artists": [
+        {
+          "name": "Duolingo",
+          "url": "https://open.spotify.com/artist/5H7yCVEeAz3fdNJ16QO3Iq"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60147,
+      "name": "Spanish or Vanish",
+      "url": "https://open.spotify.com/track/0ijwa9A6H3WFoEFzBNzrxo"
     },
     {
       "album": {

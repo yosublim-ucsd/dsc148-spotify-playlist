@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 
 ### [This Is The Rolling Stones](https://open.spotify.com/playlist/37i9dQZF1DZ06evO19s0CZ)
 
-> This is The Rolling Stones\. The essential tracks, all in one playlist.
+> This Is The Rolling Stones\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,017,355 likes - 50 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,017,347 likes - 50 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,8 +13,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 3 | [Beast Of Burden \- Remastered 1994](https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:25 |
 | 4 | [\(I Can't Get No\) Satisfaction \- Mono Version](https://open.spotify.com/track/2PzU4IB8Dr6mxV3lHuaG34) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Out Of Our Heads](https://open.spotify.com/album/2Q5MwpTmtjscaS34mJFXQQ) | 3:42 |
 | 5 | [Gimme Shelter](https://open.spotify.com/track/6H3kDe7CGoWYBabAeVWGiD) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Let It Bleed](https://open.spotify.com/album/4l4u9e9jSbotSXNjYfOugy) | 4:30 |
-| 6 | [Honky Tonk Women](https://open.spotify.com/track/7HIG9Utsra6sL79nA1Tn0y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 3:01 |
-| 7 | [Angie \- Remastered 2009](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 |
+| 6 | [Angie \- Remastered 2009](https://open.spotify.com/track/1GcVa4jFySlun4jLSuMhiq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Goats Head Soup \(Remastered 2009\)](https://open.spotify.com/album/6iVOz2hudE6dv5Yrcsw2c9) | 4:32 |
+| 7 | [Honky Tonk Women](https://open.spotify.com/track/7HIG9Utsra6sL79nA1Tn0y) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Forty Licks](https://open.spotify.com/album/2WvMWgLvHvBHT2IknyXiMi) | 3:01 |
 | 8 | [Miss You \- Remastered](https://open.spotify.com/track/3hJLKtTpgct9Y9wKww0BiR) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Some Girls](https://open.spotify.com/album/1Jv2AqzhgsduUik2p4k3cS) | 4:48 |
 | 9 | [Sympathy For The Devil \- 50th Anniversary Edition](https://open.spotify.com/track/1Ud6moTC0KyXMq1Oxfien0) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Beggars Banquet \(50th Anniversary Edition\)](https://open.spotify.com/album/6OHri5qNxwCdVSdyCslspd) | 6:18 |
 | 10 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO19s0CZ.md) - [plain]
 | 49 | [Rip This Joint](https://open.spotify.com/track/0SojSZcka4j8l8Sl0W9jUZ) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Exile On Main Street \(2010 Re\-Mastered\)](https://open.spotify.com/album/5U4dnRZsfW8NmwBBkELFPh) | 2:23 |
 | 50 | [Dreamy Skies](https://open.spotify.com/track/6ZPz7V1JLOcqPjMnJnwyJT) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:38 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDgwYTNlZWMxYWMxYmMwNGY3M2Y1ZWU3NzFhZjZmZTg3`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDY0ZTE3NGI1NjE4ZjcyY2I3MjMzN2IxM2I3MmFmMjBk`

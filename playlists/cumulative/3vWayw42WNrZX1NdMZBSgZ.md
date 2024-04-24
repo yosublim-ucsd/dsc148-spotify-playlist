@@ -2,7 +2,7 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot; Pedro Capó &amp; Carin León  &quot;Existo&quot; Cover: Sky Rompiendo X Rauw Alejandro
+> The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias, Yotuel &amp; Yng Lvcas &quot;Fria Remix&quot; Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Enrique Iglesias
 
 745 songs - 1 day 15 hr 56 min
 

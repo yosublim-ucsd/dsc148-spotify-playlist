@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6537,
+  "num_followers": 6542,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM"
-      },
-      "artists": [
-        {
-          "name": "LAS",
-          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
-        }
-      ],
-      "duration_ms": 150250,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "A Perfect Ending",
         "url": "https://open.spotify.com/album/1PLIADtea77VEx1FJEMMLm"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 214000,
       "name": "A Perfect Ending",
       "url": "https://open.spotify.com/track/15itaSEmDZt9PVygMrIpTN"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/2qeoNeByTFBqLT4meBSDBM"
+      },
+      "artists": [
+        {
+          "name": "LAS",
+          "url": "https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4"
+        }
+      ],
+      "duration_ms": 150250,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/47UgaY4CRz8PyzJ6KtBm82"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -859,22 +859,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Rewind",
-        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
-      },
-      "artists": [
-        {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
-        }
-      ],
-      "duration_ms": 214906,
-      "name": "You and I in this hard day",
-      "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Beloved",
         "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 277653,
       "name": "Be with me",
       "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Rewind",
+        "url": "https://open.spotify.com/album/1JyUU9Ikh2GztSvChAYYdJ"
+      },
+      "artists": [
+        {
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+        }
+      ],
+      "duration_ms": 214906,
+      "name": "You and I in this hard day",
+      "url": "https://open.spotify.com/track/6V8sFpmQd1NiK7mGxZiWW7"
     },
     {
       "added_at": "2024-03-27 05:51:44",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-03-27 05:51:44",
       "album": {
-        "name": "Beautiful Day",
-        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
-      },
-      "artists": [
-        {
-          "name": "NavyQuokka",
-          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
-        }
-      ],
-      "duration_ms": 209133,
-      "name": "Beautiful Day",
-      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
-    },
-    {
-      "added_at": "2024-03-27 05:51:44",
-      "album": {
         "name": "Good Night",
         "url": "https://open.spotify.com/album/0ka0zzPgwRPNZmI68vqf5k"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 258053,
       "name": "Good Night",
       "url": "https://open.spotify.com/track/4nuQczEO0ZmPW1cfKFS0Ap"
+    },
+    {
+      "added_at": "2024-03-27 05:51:44",
+      "album": {
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/4nuZ991ZDYu4dP5dguWHHq"
+      },
+      "artists": [
+        {
+          "name": "NavyQuokka",
+          "url": "https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW"
+        }
+      ],
+      "duration_ms": 209133,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/1E9fF3CfKjBsCGnWWysk3w"
     }
   ],
   "unique_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",

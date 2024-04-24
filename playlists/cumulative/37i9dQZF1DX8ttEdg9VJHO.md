@@ -4,7 +4,7 @@
 
 > Für ein bisschen mehr Leichtigkeit.
 
-103 songs - 5 hr 21 min
+105 songs - 5 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/track/7fHeyjwJRzbIlGm4DAvLJ1) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad For Me \(feat\. Teddy Swims\)](https://open.spotify.com/album/3cz4txvWNPFpw3xiPYVceu) | 3:33 | 2023-07-14 |  |
 | [Be Good](https://open.spotify.com/track/2qqruNZo50n4si5ngAw3iR) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Be Good](https://open.spotify.com/album/33XINeEL6MDmAypOxIuy3A) | 3:00 | 2023-07-14 | 2023-09-09 |
 | [beautiful day](https://open.spotify.com/track/0Bp4SOUzsTyk5PNEeu4GWJ) | [Henri Purnell](https://open.spotify.com/artist/7cyJzgiJTXR3hf62l5zLOr) | [beautiful day](https://open.spotify.com/album/01D0gXm8jCoJnVxxuayFCq) | 3:03 | 2024-03-27 |  |
+| [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-04-24 |  |
 | [Best Night Ever](https://open.spotify.com/track/3WPLO5uBmbT050ogKdxT5C) | [Laurell](https://open.spotify.com/artist/69Pm1OWlxk1tbYphlkcKHR) | [Best Night Ever](https://open.spotify.com/album/1fPkLLMbiHl9v9L2JyBVoJ) | 2:13 | 2023-07-14 |  |
 | [Best You Ever Had](https://open.spotify.com/track/2NwttTTC9PXdnIOXggpzEk) | [Kita Alexander](https://open.spotify.com/artist/3CGuwWgoCYSO5Z72H5G2Ec) | [Best You Ever Had](https://open.spotify.com/album/0vL34mO5klplb791wYYGbK) | 2:47 | 2023-11-08 | 2024-02-25 |
 | [Better Days](https://open.spotify.com/track/48USW4aYqrylYWJmFPbC8A) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [Better Days](https://open.spotify.com/album/7jQ8LzeqwAKCXnHEIbp9VR) | 3:18 | 2023-07-14 |  |
@@ -30,7 +31,7 @@
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/3yphjkz7V5xFXdfBEXVKL6) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning](https://open.spotify.com/album/4lmebGP87hUt2h4nwsfd73) | 2:53 | 2024-03-27 | 2024-04-19 |
 | [Cupid \- Twin Ver.](https://open.spotify.com/track/7FbrGaHYVDmfr7KoLIZnQ7) | [FIFTY FIFTY](https://open.spotify.com/artist/4GJ6xDCF5jaUqD6avOuQT6) | [The Beginning: Cupid](https://open.spotify.com/album/5letLUZIFsQikJYShfGNs4) | 2:54 | 2023-07-14 |  |
 | [Der letzte Tanz](https://open.spotify.com/track/3JtIS5WNPJokeMeEVnWWEM) | [Bosse](https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR) | [Der letzte Tanz](https://open.spotify.com/album/57V0HkA8vDHxpACqWNqQcO) | 3:20 | 2023-07-14 |  |
-| [Driver](https://open.spotify.com/track/49k2jh99QkPqPIZgOzaW9g) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Driver](https://open.spotify.com/album/4TxQ4d9et83FNlbcyEO9s5) | 3:10 | 2024-03-27 |  |
+| [Driver](https://open.spotify.com/track/49k2jh99QkPqPIZgOzaW9g) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Driver](https://open.spotify.com/album/4TxQ4d9et83FNlbcyEO9s5) | 3:10 | 2024-03-27 | 2024-04-24 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2023-07-14 | 2023-07-29 |
 | [Eyes On You](https://open.spotify.com/track/6xpAcenBpNYOyljTMLvzVi) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Good Times Go](https://open.spotify.com/album/1Y7AsjpYThuzMClDdu4FrV) | 2:57 | 2023-07-14 | 2024-04-19 |
 | [Faded Love](https://open.spotify.com/track/0HzHUF33G1dPmd2eNULyfa) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Faded Love](https://open.spotify.com/album/4bX8UQWtlQQPrJunO3K345) | 2:28 | 2024-03-27 |  |
@@ -73,8 +74,9 @@
 | [Mirror](https://open.spotify.com/track/4NjTrZ2IQeWnIbzyY2SOfz) | [Sigrid](https://open.spotify.com/artist/4TrraAsitQKl821DQY42cZ) | [Mirror](https://open.spotify.com/album/70xpiL7Pl2AlH9J64acWpD) | 2:36 | 2023-07-14 |  |
 | [miss me \(when you're gone\)](https://open.spotify.com/track/33eSunUHnta6mPW3EoTuRw) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) remixes](https://open.spotify.com/album/1pEipsUVstkQ8cbB1hSr8I) | 3:04 | 2023-11-08 | 2024-04-19 |
 | [miss me \(when you're gone\)](https://open.spotify.com/track/4FEPb06xIBFoqAvpRjliqY) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [miss me \(when you're gone\) \[remixes\]](https://open.spotify.com/album/3424gEK5H7r3IWM5Jdn39t) | 3:04 | 2023-07-14 | 2023-11-05 |
+| [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 | 2024-04-24 |  |
 | [My Universe](https://open.spotify.com/track/3FeVmId7tL5YN8B7R3imoM) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2023-07-14 |  |
-| [Nangilima](https://open.spotify.com/track/75eWcdirphZClDeEinSvnp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:46 | 2024-03-27 |  |
+| [Nangilima](https://open.spotify.com/track/75eWcdirphZClDeEinSvnp) | [Smith & Thell](https://open.spotify.com/artist/1ZrBGJWLL8NiAjgNifCy90) | [Pixie's Parasol](https://open.spotify.com/album/6esgSdtyo3SIs0AGlaxSuA) | 3:46 | 2024-03-27 | 2024-04-24 |
 | [Nights Like This](https://open.spotify.com/track/583Fc6qU9thMdXu64j1Wus) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [Nights Like This](https://open.spotify.com/album/3zk9C1O8NXlF4wzc9hqzJi) | 3:10 | 2023-07-14 |  |
 | [NO](https://open.spotify.com/track/0l0CvurVUrr2w3Jj1hOVFc) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Thank You \(Deluxe Version\)](https://open.spotify.com/album/08eweM0IZoZPCCxODbrMoL) | 3:33 | 2023-07-14 |  |
 | [Not Ready](https://open.spotify.com/track/2O9VKLv8pPmGM3PHTzQrKA) | [Myle](https://open.spotify.com/artist/1EhPRkK8hf1SzrDhzPlaMw) | [Not Ready](https://open.spotify.com/album/3ehwkHOVfqCDgizH3vGXLa) | 3:00 | 2023-07-14 |  |

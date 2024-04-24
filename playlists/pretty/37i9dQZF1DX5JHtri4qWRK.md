@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 
 > R&B jams for the brokenhearted.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,357 likes - 100 songs - 6 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,354 likes - 100 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 56 | [What You Did \(feat\. Ella Mai\)](https://open.spotify.com/track/2B7UWqNqKgPVGQQ6FXn2PP) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [LOVE AND COMPROMISE](https://open.spotify.com/album/6tbaSZ6Q72kofaJtscUwFA) | 3:26 |
 | 57 | [Breathe Again](https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:29 |
 | 58 | [Charlene](https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc) | [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Comin' From Where I'm From](https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em) | 4:06 |
-| 59 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 |
-| 60 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 59 | [Heard It All Before](https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co) | [Sunshine Anderson](https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK) | [Your Woman](https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp) | 4:55 |
+| 60 | [Throw It Away](https://open.spotify.com/track/21DN44aYlSoyfOQcboC0IP) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 2:31 |
 | 61 | [6, 8, 12](https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:07 |
 | 62 | [Soon as I Get Home](https://open.spotify.com/track/6SkGfPa77E4giShVbk9N6R) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Faith](https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev) | 5:24 |
 | 63 | [Let It Go](https://open.spotify.com/track/538hPQNtP190KcS3ZnWY5M) | [Keyshia Cole](https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX) | [Just Like You](https://open.spotify.com/album/3rTikJLDugcmBvhAnsy1WD) | 3:58 |
@@ -91,9 +91,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JHtri4qWRK.md) - [plain]
 | 81 | [We Need A Resolution \(feat\. Timbaland\)](https://open.spotify.com/track/2c7huQpWR29bcXrrvLcG2j) | [Aaliyah](https://open.spotify.com/artist/0urTpYCsixqZwgNTkPJOJ4), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Aaliyah](https://open.spotify.com/album/0cNaDPtbHC1PMJMRTY2GFc) | 4:02 |
 | 82 | [Officially Missing You](https://open.spotify.com/track/6CUTYJQKcDwcQ63EulINUo) | [Tamia](https://open.spotify.com/artist/0le01dl1WllSHhjEXRl4in) | [More](https://open.spotify.com/album/43QuYbSfbTjcsghwJyUnyP) | 4:02 |
 | 83 | [Need U Bad](https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Fearless](https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU) | 4:17 |
-| 84 | [Sober](https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Sober](https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0) | 4:26 |
-| 85 | [Girl](https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 3:44 |
-| 86 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
+| 84 | [Girl](https://open.spotify.com/track/4XyAMTjMfqwZ2uJemqKRdH) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Destiny Fulfilled](https://open.spotify.com/album/3xjdyJjSMNsSRkj3GTmBLi) | 3:44 |
+| 85 | [Addicted](https://open.spotify.com/track/778x5bolqJeICcrtSBNrko) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Be Right Back](https://open.spotify.com/album/7MbcxleVqx5qeZgXdw5FAi) | 3:24 |
+| 86 | [Sober](https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI) | [Sober](https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0) | 4:26 |
 | 87 | [If I Was Your Man](https://open.spotify.com/track/5PH2eU6P5LdnwDezBu8334) | [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Ain't Nothin' Like Me](https://open.spotify.com/album/0dd14CK6sAyTBse2l54qBi) | 3:52 |
 | 88 | [Un\-Break My Heart \- Classic Radio Mix](https://open.spotify.com/track/5lxWBU8FM7pqidZcDsgvb3) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe), [Frankie Knuckles](https://open.spotify.com/artist/63yl9nDNrHpiAYGlNJxxjc) | [Secrets \(Remix Package\)](https://open.spotify.com/album/0Uy6GD6CqvEkWAdzxy7S1x) | 4:27 |
 | 89 | [LOST YOU](https://open.spotify.com/track/26aJMMLBSOQmiC4JenVjjl) | [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [TEMPORARY HIGHS IN THE VIOLET SKIES](https://open.spotify.com/album/57ttk3xzHMWLr6CGrEa8F3) | 2:57 |

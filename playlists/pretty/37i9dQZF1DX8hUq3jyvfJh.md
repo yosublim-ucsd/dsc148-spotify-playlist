@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 
 > Escute Manu e mais mulheres no volume máximo! Co\-curadoria com Manu
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,993 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,068 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hUq3jyvfJh.md) - [plain]
 | 16 | [Agora Estou Sofrendo](https://open.spotify.com/track/6MXWnt6UnVkmg6NCPTkOAR) | [Raquel dos Teclados](https://open.spotify.com/artist/6AZMMl0OWhhybvX6q8FXhq) | [VOL 1](https://open.spotify.com/album/0yfXQFjXzsWM8bqgwaDqvL) | 3:07 |
 | 17 | [Quase Não Namoro](https://open.spotify.com/track/6eWx9pOK1JkIhUjeVmGYJr) | [Juliette](https://open.spotify.com/artist/5coW9ioCpvEYGx4v1nvWec), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [Quase Não Namoro](https://open.spotify.com/album/2yg5pbW47YD4HVQ34cgfkC) | 2:15 |
 | 18 | [Apaixonada](https://open.spotify.com/track/6PPtpSPkzvXUpmXbfnNupr) | [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX), [Manu](https://open.spotify.com/artist/0CdnnCbbKD4oIzBmxi2o7r) | [Apaixonada](https://open.spotify.com/album/0cRcvbevYUF3owFrbywXIN) | 3:08 |
-| 19 | [Bêbado e Apaixonado](https://open.spotify.com/track/3gBTaR5wzBuDfcCEDT0C56) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Bêbado e Apaixonado](https://open.spotify.com/album/7r5oNea325sqeTZD5mHlEd) | 2:55 |
+| 19 | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/track/0WJUDo8zBPX0uAwh2OwDw6) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/album/0wcl7GG5vw172Nm6sVGAXm) | 2:33 |
 | 20 | [Amnésia Do Beijo \- Ao Vivo](https://open.spotify.com/track/6YJzvSZzfrd1UDaLFIRHQY) | [Simone Mendes](https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3) | [Cintilante \(Ao Vivo\)](https://open.spotify.com/album/3XDhhtRxHceSxoCJwVPwWK) | 3:00 |
-| 21 | [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 |
-| 22 | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/track/0WJUDo8zBPX0uAwh2OwDw6) | [Calcinha Preta](https://open.spotify.com/artist/6Kps94g1Npexh3LrinIOvC), [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Relógio de Saudade \(Atemporal\)](https://open.spotify.com/album/0wcl7GG5vw172Nm6sVGAXm) | 2:33 |
+| 21 | [Bêbado e Apaixonado](https://open.spotify.com/track/3gBTaR5wzBuDfcCEDT0C56) | [Mariana Pimenta](https://open.spotify.com/artist/2s15DSwmxDsXglZOEoIHSn) | [Bêbado e Apaixonado](https://open.spotify.com/album/7r5oNea325sqeTZD5mHlEd) | 2:55 |
+| 22 | [Xuxu](https://open.spotify.com/track/45Qqs9BW6k67PuSViT2rLv) | [Filhos De Jorge](https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE), [Rachel Reis](https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR) | [Xuxu](https://open.spotify.com/album/28NVGuWHSlUaFrsMbx037O) | 2:52 |
 | 23 | [Deixa Eu Viver \- Ao Vivo](https://open.spotify.com/track/1vHWl4CiItYFf8X9Mrpcxy) | [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Deixa Eu Viver \(Ao Vivo\)](https://open.spotify.com/album/2CeQU70wcB0vYGaKI2GB4B) | 3:21 |
 | 24 | [Disse Adeus](https://open.spotify.com/track/4QDD34IiZHZvImtqnZEBER) | [Raphaela Santos](https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH) | [Disse Adeus](https://open.spotify.com/album/211y2GMUoTn5QvzAlZiQuk) | 4:03 |
 | 25 | [Quando a Chuva Passar](https://open.spotify.com/track/28w7IiopxwhZ6wHQ1NQkvV) | [Taty Girl](https://open.spotify.com/artist/3vvHdmRO7G0C3sWP5mHxDE), [Mara Pavanelly](https://open.spotify.com/artist/62JzMDXMXiiCrfTFbzT0BX) | [Memórias da Taty \- Parte 1](https://open.spotify.com/album/4Nh6lim45VRtMIIY4d8VCg) | 3:10 |

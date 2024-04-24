@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 
 > 당신의 하루\. 오늘도 잘하고 있어요\. \(Listen to K\-Pop comforting songs\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,891 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,895 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,16 +23,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3NfV1mHBR08.md) - [plain]
 | 13 | [Take You Home](https://open.spotify.com/track/54Nx0KMNIIA0tAPewmd69X) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Take You Home \- SM STATION](https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK) | 3:54 |
 | 14 | [Kim Cheolsu Story](https://open.spotify.com/track/48mBeNB9eRSxbPn9bDIcyn) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Kim Cheolsu Story](https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2) | 4:08 |
 | 15 | [I′ll be by your side](https://open.spotify.com/track/1CjOylFGEsCzOlgd2xiEw2) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [I'll be by your side](https://open.spotify.com/album/1pdxVaLPFmbKCtWKP3sfTS) | 3:54 |
-| 16 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
-| 17 | [Night Drive](https://open.spotify.com/track/7azmn7M9mRnHzyqxzjMsNe) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:27 |
+| 16 | [Night Drive](https://open.spotify.com/track/7azmn7M9mRnHzyqxzjMsNe) | [GFRIEND](https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft) | [回:Walpurgis Night](https://open.spotify.com/album/6keRNtq7CnhNrD2EIKOA6h) | 3:27 |
+| 17 | [HUG \(Feat\. Zion.T, Wonstein\) \(Prod\. by Slom\)](https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc) | [Lee Young Ji](https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby), [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk) | [SHOW ME THE MONEY 11 Final](https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0) | 3:56 |
 | 18 | [수고했어, 오늘도 Cheer Up](https://open.spotify.com/track/74S870utHcrils7QiOw0Jh) | [OKDAL](https://open.spotify.com/artist/43qbEc59aqLydrvuWsrNoE) | [28](https://open.spotify.com/album/4zNdM3E1IkGKMHObzUCull) | 2:59 |
 | 19 | [Palette \(feat\. G\-DRAGON\)](https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 3:37 |
 | 20 | [Deeper](https://open.spotify.com/track/6T2XxCNGgkbFvyyuJNN3fQ) | [H1\-KEY](https://open.spotify.com/artist/5GwQwY63I9hrUUFlQB8FYU) | [H1\-KEYnote \#2 \[Deeper\]](https://open.spotify.com/album/1v8S64LHiST7uozBRziaIN) | 3:36 |
 | 21 | [Still the Same](https://open.spotify.com/track/6haDjNEwTRlmBlIQ5wxeML) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [Still the Same](https://open.spotify.com/album/5nWOkQmzmE5erjdAY6S2Gu) | 2:28 |
 | 22 | [Graduation](https://open.spotify.com/track/1GohKAgwMWvS9ieKi6DdKb) | [DALDAM](https://open.spotify.com/artist/1mLwJb76TWRhraxaE85Sik) | [Graduation](https://open.spotify.com/album/5ER5iKqYrPjHsjlZfwHUV1) | 3:43 |
 | 23 | [Human](https://open.spotify.com/track/58DqPqnPOrXEIU7Lj0s5PW) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [THINKING Part.1](https://open.spotify.com/album/0yRTfpYIoHqPmmijU9GZGd) | 3:57 |
-| 24 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
-| 25 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 24 | [be](https://open.spotify.com/track/2ixTL8BqsPxaH9qPgEhFV1) | [EUNHYUK](https://open.spotify.com/artist/4QRqp8zf5JtqaMk2OOU3NX) | [be](https://open.spotify.com/album/33UNyWkPMOczcDOk4kxWd2) | 3:49 |
+| 25 | [goodnight](https://open.spotify.com/track/4pqmFRZiyZSWbTGiF3CSvb) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj), [Juju B\. Goode](https://open.spotify.com/artist/5PLxgBMZxMf8px0EfhgOiY) | [how i remember](https://open.spotify.com/album/01NnWmqdwaZPdIzU5elnOS) | 2:56 |
 | 26 | [Through the Night](https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Palette](https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp) | 4:13 |
 | 27 | [Take My Hand](https://open.spotify.com/track/6YBfa6iDpybEPDcQsPi9D2) | [Kassy](https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU) | [Webtoon YEONNOM OST Part.1](https://open.spotify.com/album/0hfgDbKZz3shzq7fwgRYBv) | 3:40 |
 | 28 | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/track/5arR24jdVitzSURvv5hwIq) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [ASH ISLAND](https://open.spotify.com/artist/7IEhlwWQA7pCkEvzwwHehE) | [Workaholic \(feat\. ASH ISLAND\)](https://open.spotify.com/album/5Rxn1cnJLLf8qgYJzB4KLu) | 3:13 |

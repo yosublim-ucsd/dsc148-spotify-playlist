@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 136271,
+  "num_followers": 136281,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -791,30 +791,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "World Hold On (FISHER Rework)",
-        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
-      },
-      "artists": [
-        {
-          "name": "Bob Sinclar",
-          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
-        },
-        {
-          "name": "FISHER",
-          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
-        },
-        {
-          "name": "Steve Edwards",
-          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
-        }
-      ],
-      "duration_ms": 178304,
-      "name": "World Hold On - FISHER Rework",
-      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Chase the Sun (Odd Mob Remix)",
         "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
       },
@@ -851,6 +827,30 @@
       "duration_ms": 243599,
       "name": "Get To Know (feat. Winston Surfshirt)",
       "url": "https://open.spotify.com/track/1LvASuCm9gPr9684FFNKdt"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
+        "name": "World Hold On (FISHER Rework)",
+        "url": "https://open.spotify.com/album/4Z6joMam5q6D8khEfuaCWD"
+      },
+      "artists": [
+        {
+          "name": "Bob Sinclar",
+          "url": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN"
+        },
+        {
+          "name": "FISHER",
+          "url": "https://open.spotify.com/artist/1VJ0briNOlXRtJUAzoUJdt"
+        },
+        {
+          "name": "Steve Edwards",
+          "url": "https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC"
+        }
+      ],
+      "duration_ms": 178304,
+      "name": "World Hold On - FISHER Rework",
+      "url": "https://open.spotify.com/track/2YDOjCfkGciEXxSutB6LJR"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -951,26 +951,6 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Midnight Highlight",
-        "url": "https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm"
-      },
-      "artists": [
-        {
-          "name": "Boo Seeka",
-          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
-        },
-        {
-          "name": "upsidedownhead",
-          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
-        }
-      ],
-      "duration_ms": 194509,
-      "name": "Somebody (feat. upsidedownhead)",
-      "url": "https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz"
-    },
-    {
-      "added_at": "2024-02-01 13:01:25",
-      "album": {
         "name": "Sirena Deep",
         "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
       },
@@ -991,6 +971,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
+        "name": "Brain Freeze",
+        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+      },
+      "artists": [
+        {
+          "name": "Northeast Party House",
+          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+        }
+      ],
+      "duration_ms": 122094,
+      "name": "Brain Freeze",
+      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+    },
+    {
+      "added_at": "2024-02-01 13:01:25",
+      "album": {
         "name": "Can't Do Without (My Baby)",
         "url": "https://open.spotify.com/album/2Y2bKgwqnGKYeN7Zun222X"
       },
@@ -1007,18 +1003,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Brain Freeze",
-        "url": "https://open.spotify.com/album/2HkKs4sSh2Ns8zpi2gUWK3"
+        "name": "Midnight Highlight",
+        "url": "https://open.spotify.com/album/2EUAQLvuP3jnHfpuyUeKbm"
       },
       "artists": [
         {
-          "name": "Northeast Party House",
-          "url": "https://open.spotify.com/artist/500YRyClzP6Z7HtWd1BIje"
+          "name": "Boo Seeka",
+          "url": "https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO"
+        },
+        {
+          "name": "upsidedownhead",
+          "url": "https://open.spotify.com/artist/40ZjHfdes7hiAS1RXSP9EB"
         }
       ],
-      "duration_ms": 122094,
-      "name": "Brain Freeze",
-      "url": "https://open.spotify.com/track/15uSXKESoX4Zq3uo2IJww1"
+      "duration_ms": 194509,
+      "name": "Somebody (feat. upsidedownhead)",
+      "url": "https://open.spotify.com/track/4aZPM2DIO0k5eTQiX0VTkz"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1071,18 +1071,22 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "A.M",
-        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
+        "name": "Frauds (Mall Grab Remix)",
+        "url": "https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1"
       },
       "artists": [
         {
-          "name": "Abroad",
-          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
         }
       ],
-      "duration_ms": 209849,
-      "name": "The World",
-      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
+      "duration_ms": 216838,
+      "name": "Frauds (Mall Grab Remix)",
+      "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
     },
     {
       "added_at": "2024-02-01 13:01:25",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2024-02-01 13:01:25",
       "album": {
-        "name": "Frauds (Mall Grab Remix)",
-        "url": "https://open.spotify.com/album/1JsPxT71G12JueIEVP0UR1"
+        "name": "A.M",
+        "url": "https://open.spotify.com/album/6nRDtBGnumQybKr6X1BMEK"
       },
       "artists": [
         {
-          "name": "Vv Pete",
-          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+          "name": "Abroad",
+          "url": "https://open.spotify.com/artist/52bjb93yzh8uzbJkO94zft"
         }
       ],
-      "duration_ms": 216838,
-      "name": "Frauds (Mall Grab Remix)",
-      "url": "https://open.spotify.com/track/6scCpOSEfY7FfDRjkHnUwL"
+      "duration_ms": 209849,
+      "name": "The World",
+      "url": "https://open.spotify.com/track/6RVN9H6vorFr6wFrLEQai7"
     },
     {
       "added_at": "2024-02-01 13:01:25",

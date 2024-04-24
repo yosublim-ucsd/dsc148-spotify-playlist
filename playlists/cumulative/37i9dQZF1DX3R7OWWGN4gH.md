@@ -4,7 +4,7 @@
 
 > Who’s afraid of little old me?
 
-292 songs - 16 hr 2 min
+294 songs - 16 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Circus](https://open.spotify.com/track/7jk7gqyEonmVVYahZN5zhW) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Circus \(Deluxe Version\)](https://open.spotify.com/album/2tve5DGwub1TtbX1khPX5j) | 3:12 | 2023-07-13 |  |
 | [Class Fight](https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X) | [Melanie Martinez](https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8) | [K\-12](https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c) | 2:41 | 2022-01-27 |  |
 | [Come Back Home](https://open.spotify.com/track/7mo91mH70LRf4NMUs717c3) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ) | [Come Back Home](https://open.spotify.com/album/4y8kfoVNYrOUZ2GZr6sl7P) | 2:42 | 2024-03-13 | 2024-03-28 |
-| [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 | 2024-02-09 |  |
+| [Comfortable](https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j) | [Victor Ray](https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ) | [Comfortable](https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s) | 3:48 | 2024-02-09 | 2024-04-24 |
 | [Control](https://open.spotify.com/track/3SKzTIl9mW0DadTys9SFo3) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS \(Deluxe\)](https://open.spotify.com/album/5OZJflQcQCdZLQjtUudCin) | 3:34 | 2022-01-27 |  |
 | [COPYCAT](https://open.spotify.com/track/5w7wuzMzsDer96KqxafeRK) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:14 | 2022-01-27 |  |
 | [Cowboys And Angels](https://open.spotify.com/track/6HhZDGrpQuj2iLiN1JCpyl) | [Jessie Murph](https://open.spotify.com/artist/2yLzlEFtIS0Q9UkyBZdQA7) | [Cowboys And Angels](https://open.spotify.com/album/1grujqAxFAN0zMCdu9Nr6H) | 2:13 | 2023-06-16 | 2023-11-01 |
@@ -167,6 +167,7 @@
 | [Knife Under My Pillow](https://open.spotify.com/track/18IzbU4Iy1ktWsOZOJDiD1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:02 | 2022-01-27 | 2022-07-29 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-03-29 |  |
 | [Last Laugh \- From "Promising Young Woman" Soundtrack](https://open.spotify.com/track/3DfTZtNNSDBV10YMu9JFWF) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Promising Young Woman \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/58gdv0EuhcZ2auHfEBm4mL) | 2:42 | 2022-01-27 | 2022-07-19 |
+| [LET THE WORLD BURN](https://open.spotify.com/track/1De425SCFJULIHbcmeebUw) | [Chris Grey](https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG) | [LET THE WORLD BURN](https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5) | 2:43 | 2024-04-24 |  |
 | [Let's Kill Tonight](https://open.spotify.com/track/14uvyd51Ha7FihKHlOtUig) | [Panic! At The Disco](https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK) | [Vices & Virtues](https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL) | 3:33 | 2022-01-27 | 2022-07-29 |
 | [Lithium](https://open.spotify.com/track/26D1PRJjD9Jj1JGRk88KVc) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Deluxe Edition\)](https://open.spotify.com/album/2uEf3r9i2bnxwJQsxQ0xQ7) | 4:17 | 2022-01-27 | 2022-04-18 |
 | [Lithium](https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 4:17 | 2022-01-27 | 2024-04-19 |
@@ -211,6 +212,7 @@
 | [Poor Unfortunate Souls](https://open.spotify.com/track/7zsw78LtXUD7JfEwH64HK2) | [Pat Carroll](https://open.spotify.com/artist/0Yy9u86cq66Se2pB9fYaiW), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [The Little Mermaid Special Edition](https://open.spotify.com/album/4aAwvCRNJIqiUGVEjieWv6) | 4:51 | 2022-01-27 | 2022-04-21 |
 | [Potential Breakup Song](https://open.spotify.com/track/11dxtPJKR4E0wlSr0A0t47) | [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Insomniatic](https://open.spotify.com/album/4TOOGDpJ9KQ8EM84TC4qj6) | 3:39 | 2022-01-27 | 2023-03-20 |
 | [Pretty Enough](https://open.spotify.com/track/6SIoCr3GhnJaZovyfaCYcN) | [Maiah Manser](https://open.spotify.com/artist/2SjlJe4MbPmGLwdEBuMrBV) | [Pretty Enough](https://open.spotify.com/album/5XvgXtDZVXu0ELRxUXLQcj) | 3:34 | 2024-03-29 | 2024-04-06 |
+| [Pretty Little Devil](https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf) | [Shaya Zamora](https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q) | [Pretty Little Devil](https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw) | 2:47 | 2024-04-19 |  |
 | [Pretty Pills for Broken Hearts](https://open.spotify.com/track/3yOn32qFv4qlVjhCEvjHrv) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Pretty Pills for Broken Hearts](https://open.spotify.com/album/3nCNqsMDqxkcXpNuEamhUA) | 2:55 | 2022-03-28 | 2022-07-29 |
 | [Psycho Killer \- 2005 Remaster](https://open.spotify.com/track/1i6N76fftMZhijOzFQ5ZtL) | [Talking Heads](https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC) | [Talking Heads '77 \(Deluxe Version\)](https://open.spotify.com/album/5eqcF7pWzHgWpGdEmHgeSN) | 4:21 | 2022-01-27 |  |
 | [Purge The Poison](https://open.spotify.com/track/1sy0mqUBREJx0A89UsIkIl) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Purge The Poison](https://open.spotify.com/album/4l15cBxcsMtKozzTLPsXnc) | 3:16 | 2022-04-14 | 2022-07-29 |
@@ -244,7 +246,7 @@
 | [Something In The Way](https://open.spotify.com/track/1nFtiJxYdhtFfFtfXBv06s) | [Nirvana](https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh) | [Nevermind \(Remastered\)](https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ) | 3:52 | 2022-03-28 |  |
 | [Sour Switchblade](https://open.spotify.com/track/4wFeMmJDlgkAxlQ07PbdGZ) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Sour Switchblade](https://open.spotify.com/album/0165PYHqH1iILn2HtbT3R4) | 2:28 | 2022-11-27 | 2023-01-22 |
 | [Sour Switchblade](https://open.spotify.com/track/5qL1mKqNF8KhOnPuzSMfj9) | [Elita](https://open.spotify.com/artist/7ApzfFN0BmeeVJPsQBReRv) | [Anxiety Angel](https://open.spotify.com/album/5ipcsit6PRtDh8Pdkt1wuv) | 2:28 | 2022-01-27 | 2022-06-02 |
-| [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 | 2022-09-26 |  |
+| [STRUT](https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq) | [EMELINE](https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV) | [STRUT](https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y) | 1:57 | 2022-09-26 | 2024-04-24 |
 | [STUPID \(feat\. Yung Baby Tate\)](https://open.spotify.com/track/6qNB2ChCVPepl5ZjVJJTUW) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Hi, It's Me](https://open.spotify.com/album/5eKuModdAdZRmc51241r4D) | 2:47 | 2022-01-27 | 2023-08-04 |
 | [Succession \- Main Title Theme](https://open.spotify.com/track/3jI7Yeg7a2d7BMc8CxABVM) | [Nicholas Britell](https://open.spotify.com/artist/18oYqNtcLUHrqO7LfX7qni) | [Succession, Season 1 \(HBO Original Series Soundtrack\)](https://open.spotify.com/album/2JsH6mfSAfojZhQJ5CuLMK) | 1:42 | 2022-02-01 | 2022-04-21 |
 | [Sugar Mama](https://open.spotify.com/track/4dyAQ8PjbyInJYgTnTsIeX) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Nūr](https://open.spotify.com/album/46ZW6xsjuHxCDAjeeV0zT8) | 2:17 | 2022-01-27 | 2022-03-01 |

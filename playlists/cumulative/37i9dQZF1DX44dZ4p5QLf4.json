@@ -7637,6 +7637,24 @@
     },
     {
       "album": {
+        "name": "TIRED",
+        "url": "https://open.spotify.com/album/4dQLC2L4bzoTUafGssjJEX"
+      },
+      "artists": [
+        {
+          "name": "Rya",
+          "url": "https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130750,
+      "name": "TIRED",
+      "url": "https://open.spotify.com/track/6N8VWaHtkUzJ4uF1gj5wIU"
+    },
+    {
+      "album": {
         "name": "IRONEYE",
         "url": "https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C"
       },

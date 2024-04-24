@@ -2,25 +2,25 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son\. Playlist réalisée avec Paola \(du titre \#1 au \#15\)\. Cover : Zaho de Sagazan
+> Les femmes montent le son\. Playlist réalisée avec Paola \(du titre \#1 au \#15\)\. Cover : Emma Peters
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,615 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,504 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Les dormantes](https://open.spotify.com/track/7gTVDmm25tOQwwkLmErWr0) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:17 |
-| 2 | [Comme Sophia](https://open.spotify.com/track/5TbphMHTDODixjp2AwB0Jp) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:36 |
-| 3 | [Laisse moi prendre des vacances](https://open.spotify.com/track/4f9H84VOEZPvNjCQo67nDl) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [Laisse moi prendre des vacances](https://open.spotify.com/album/3MJ9UXWvsanKWDV4X0q0Q6) | 3:10 |
-| 4 | [Homme](https://open.spotify.com/track/72Prsl73iUNCr1FDp0op5h) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:29 |
-| 5 | [Ose](https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Oser](https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC) | 3:22 |
-| 6 | [J'aime toucher vous](https://open.spotify.com/track/4qxFIjVynkg4QXQIOjC893) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'aime toucher vous](https://open.spotify.com/album/26upCMcg7xngO75VLOtois) | 2:39 |
-| 7 | [20 ans](https://open.spotify.com/track/0Is74gPZMkACW16Q9zJElx) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 3:27 |
-| 8 | [Q](https://open.spotify.com/track/5hGUYAw9wrOpRBank5mIV9) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 2:36 |
+| 1 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 |
+| 2 | [Les dormantes](https://open.spotify.com/track/7gTVDmm25tOQwwkLmErWr0) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq) | [La symphonie des éclairs](https://open.spotify.com/album/5GoDO8a03bxSSxMCeYKfaW) | 3:17 |
+| 3 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 |
+| 4 | [20 ans](https://open.spotify.com/track/0Is74gPZMkACW16Q9zJElx) | [Marie\-Flore](https://open.spotify.com/artist/3bM1MZ42q6lUJqHDaDwcKr) | [Je sais pas si ça va](https://open.spotify.com/album/1r5psC4qWm8sJvqDYCbY9X) | 3:27 |
+| 5 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 |
+| 6 | [Bébé](https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Bébé](https://open.spotify.com/album/7adtShWeqe2YtwzB4bVKpg) | 3:00 |
+| 7 | [Ose](https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx) | [Ysé](https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw) | [Oser](https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC) | 3:22 |
+| 8 | [Laisse moi prendre des vacances](https://open.spotify.com/track/4f9H84VOEZPvNjCQo67nDl) | [Nina Battisti](https://open.spotify.com/artist/5SJPjoJxAVXuShFFmsiKSP) | [Laisse moi prendre des vacances](https://open.spotify.com/album/3MJ9UXWvsanKWDV4X0q0Q6) | 3:10 |
 | 9 | [Si tu m'aimes demain](https://open.spotify.com/track/6Dt6avd8V0rBotNLj9yMy3) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Tête brûlée](https://open.spotify.com/album/6bdnYaYOkqDq9aXNgXNx3f) | 2:56 |
-| 10 | [Crash](https://open.spotify.com/track/0QAkn0BvBwGqVLlDAHeCFG) | [Solann](https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv) | [Monstrueuse](https://open.spotify.com/album/3ncHignlQNL2JTMxYMYz5X) | 3:28 |
-| 11 | [Bébé](https://open.spotify.com/track/4lQvyWrV2vamH8sQRxwwRz) | [Charlie Motto](https://open.spotify.com/artist/6zdCsWv5dvlyaJhk0nMmfb) | [Bébé](https://open.spotify.com/album/7adtShWeqe2YtwzB4bVKpg) | 3:00 |
-| 12 | [Puppy](https://open.spotify.com/track/01sURX8cx2KhgUgNFKKLAg) | [Charlotte Cardin](https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK) | [99 Nights](https://open.spotify.com/album/5RHDcbKUJ0isLtDr97nP9P) | 3:55 |
-| 13 | [Multicolore](https://open.spotify.com/track/5KazYhmGYKT7Iq5kHCcXiq) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Multicolore](https://open.spotify.com/album/5pshEhto6fETHUMWA42en8) | 3:00 |
+| 10 | [J'aime toucher vous](https://open.spotify.com/track/4qxFIjVynkg4QXQIOjC893) | [Hélène Sio](https://open.spotify.com/artist/4xY8i64uyLVZJcxobplgOO) | [J'aime toucher vous](https://open.spotify.com/album/26upCMcg7xngO75VLOtois) | 2:39 |
+| 11 | [Homme](https://open.spotify.com/track/72Prsl73iUNCr1FDp0op5h) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Ce qu'il restera de nous](https://open.spotify.com/album/5O9PH4OPR3rxtpjXhMjElr) | 3:29 |
+| 12 | [Comme Sophia](https://open.spotify.com/track/5TbphMHTDODixjp2AwB0Jp) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pause](https://open.spotify.com/album/4LydZSdKsiddSZKUSAII46) | 2:36 |
+| 13 | [Q](https://open.spotify.com/track/5hGUYAw9wrOpRBank5mIV9) | [Adé](https://open.spotify.com/artist/3NIFl4tsySuu3eu8Yt8c0s) | [Et alors ?](https://open.spotify.com/album/2UKWuWCmesuNXNsFbdbEVw) | 2:36 |
 | 14 | [Baby Vampire](https://open.spotify.com/track/2pJYi79IaKj0nZOXzMj5ea) | [KALIKA](https://open.spotify.com/artist/0UgxFqJmwkpojz4mHBsRpD) | [Baby Vampire](https://open.spotify.com/album/2nwrrojgCW3PwdOLdoRGCP) | 2:51 |
 | 15 | [Photographies](https://open.spotify.com/track/3I8xEG6UhH2MLrGjt002SF) | [Alice et Moi](https://open.spotify.com/artist/1NcCVE1FRpBSlN3LcAfhn3) | [Photographie](https://open.spotify.com/album/3OUdDelS2copkJpYt7LEP2) | 2:56 |
 | 16 | [Belle](https://open.spotify.com/track/7kmslsDZxmi87QwTsXEuaH) | [Paola](https://open.spotify.com/artist/7izxlZDhSich8F2ukPd3pc) | [Belle](https://open.spotify.com/album/1poQ0HjBQiJARpbeMcgGqu) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4kZR8vL5oVX.md) - [plain]
 | 49 | [Baltimore](https://open.spotify.com/track/0nmxB5hmIGopuFjBATeufO) | [Stéfi Celma](https://open.spotify.com/artist/0fMSqSfAS3Bv91cw1QBkXZ) | [Baltimore](https://open.spotify.com/album/1qkrANE94Hj9VIUT7qzWZr) | 3:02 |
 | 50 | [SEULE \(AGAIN\)](https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 2:58 |
 
-Snapshot ID: `MTcxMzMwNDgwMCwwMDAwMDAwMDg1NWU0NTYyODFkYmU3OTAyNWUzMmI3NzExZTZhNDhl`
+Snapshot ID: `MTcxMzkwOTYwMCwwMDAwMDAwMDZjZjk4ZDJkNzhhMzY0YzViNTIwODJhZDFjYmMwNWZl`

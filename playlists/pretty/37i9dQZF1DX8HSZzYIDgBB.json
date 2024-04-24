@@ -1,6 +1,6 @@
 {
   "description": "Ritmos c\u00e1lidos y alternativos para relajarte y tirarse bajo el sol #IndieTropical \ud83c\udf3a\u2600\ufe0f\ud83c\udf34\ud83c\udfb6 Chicano Batman en portada.",
-  "num_followers": 36904,
+  "num_followers": 36924,
   "original_name": "tropic.alt",
   "owner": {
     "name": "Spotify",
@@ -923,38 +923,6 @@
     {
       "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Noest\u00e1saqu\u00ed",
-        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
-      },
-      "artists": [
-        {
-          "name": "Caramelo Haze",
-          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
-        }
-      ],
-      "duration_ms": 202066,
-      "name": "Window Seat",
-      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "La N\u00famero Uno",
-        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
-      },
-      "artists": [
-        {
-          "name": "El Drag\u00f3n Criollo",
-          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
-        }
-      ],
-      "duration_ms": 244403,
-      "name": "La N\u00famero Uno",
-      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
-    },
-    {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
         "name": "\u00daltimamente me acuerdo mucho de tu casa",
         "url": "https://open.spotify.com/album/5KwvQO1gEvFXclsDYCegXf"
       },
@@ -989,20 +957,36 @@
       "url": "https://open.spotify.com/track/3FuzX5N7VSnhSj1x3hQYje"
     },
     {
-      "added_at": "2023-10-12 02:18:45",
+      "added_at": "2023-05-05 23:46:53",
       "album": {
-        "name": "Switched-On",
-        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
+        "name": "Noest\u00e1saqu\u00ed",
+        "url": "https://open.spotify.com/album/4VzKvONEXBcKfAKZ4xXuiY"
       },
       "artists": [
         {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+          "name": "Caramelo Haze",
+          "url": "https://open.spotify.com/artist/63btBAdiJLk3iSRmKeR6Qi"
         }
       ],
-      "duration_ms": 213541,
-      "name": "Sale el Sol",
-      "url": "https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8"
+      "duration_ms": 202066,
+      "name": "Window Seat",
+      "url": "https://open.spotify.com/track/5rpxuwiJIMouwlIodvNhJr"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "La N\u00famero Uno",
+        "url": "https://open.spotify.com/album/2qMKOE7IQlLOlFgXqoqwzW"
+      },
+      "artists": [
+        {
+          "name": "El Drag\u00f3n Criollo",
+          "url": "https://open.spotify.com/artist/2e5EPaxeuRZ8sMxElaiP2G"
+        }
+      ],
+      "duration_ms": 244403,
+      "name": "La N\u00famero Uno",
+      "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1045,6 +1029,42 @@
       "url": "https://open.spotify.com/track/6OiuCieqfbEMBHQPZo0j3Q"
     },
     {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "Almadura",
+        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
+      },
+      "artists": [
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
+        },
+        {
+          "name": "Eddie Palmieri",
+          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
+        }
+      ],
+      "duration_ms": 323916,
+      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
+      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
+    },
+    {
+      "added_at": "2023-10-12 02:18:45",
+      "album": {
+        "name": "Switched-On",
+        "url": "https://open.spotify.com/album/4whyS98b0oVjwQCmWarOAi"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 213541,
+      "name": "Sale el Sol",
+      "url": "https://open.spotify.com/track/1QT0nxW1aDj2NBeJ1h69v8"
+    },
+    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Sorpresa",
@@ -1075,26 +1095,6 @@
       "duration_ms": 242215,
       "name": "So\u00f1ando",
       "url": "https://open.spotify.com/track/3UUkMsnp1NDwN0g1Rg48Y4"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "Almadura",
-        "url": "https://open.spotify.com/album/5ggXegN9GWgNOSS83gZHGT"
-      },
-      "artists": [
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        },
-        {
-          "name": "Eddie Palmieri",
-          "url": "https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C"
-        }
-      ],
-      "duration_ms": 323916,
-      "name": "D\u00e9jame Decirte (feat. Eddie Palmieri)",
-      "url": "https://open.spotify.com/track/5SozdAWTO5qVG2evZxYoe5"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1169,22 +1169,6 @@
       "url": "https://open.spotify.com/track/631PEGUWU0kD8sNCh6AmOK"
     },
     {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
-        "name": "El Pozo",
-        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
-      },
-      "artists": [
-        {
-          "name": "Mima",
-          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Oigo voces",
-      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
-    },
-    {
       "added_at": "2023-05-05 23:46:53",
       "album": {
         "name": "Flores",
@@ -1199,6 +1183,22 @@
       "duration_ms": 198048,
       "name": "Flores",
       "url": "https://open.spotify.com/track/1XB0OXfVYNloMACdpwKckR"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "El Pozo",
+        "url": "https://open.spotify.com/album/3WoizaIojH3IGI2XSy70k3"
+      },
+      "artists": [
+        {
+          "name": "Mima",
+          "url": "https://open.spotify.com/artist/2LdXSnBos8LTWMKoHF0oAw"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Oigo voces",
+      "url": "https://open.spotify.com/track/4zeO0rbpEW8OA7OujZsCY6"
     },
     {
       "added_at": "2023-12-07 01:08:32",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2023-12-07 01:08:32",
       "album": {
-        "name": "At 333 House",
-        "url": "https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh"
-      },
-      "artists": [
-        {
-          "name": "Pachyman",
-          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
-        }
-      ],
-      "duration_ms": 186800,
-      "name": "Babylon Will Fall",
-      "url": "https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI"
-    },
-    {
-      "added_at": "2023-12-07 01:08:32",
-      "album": {
         "name": "Miss Universos",
         "url": "https://open.spotify.com/album/1Ss9TprLiCLzubn8S549gl"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 185920,
       "name": "Desastre Comunal",
       "url": "https://open.spotify.com/track/4zT2HDqXcnXDfHZpNWgq1T"
+    },
+    {
+      "added_at": "2023-12-07 01:08:32",
+      "album": {
+        "name": "At 333 House",
+        "url": "https://open.spotify.com/album/1ZoJQSxfZempYe5j2auBLh"
+      },
+      "artists": [
+        {
+          "name": "Pachyman",
+          "url": "https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l"
+        }
+      ],
+      "duration_ms": 186800,
+      "name": "Babylon Will Fall",
+      "url": "https://open.spotify.com/track/2t8F5RetPO9gKWAUKoQjcI"
     },
     {
       "added_at": "2023-05-05 23:46:53",
@@ -1341,22 +1341,6 @@
       "url": "https://open.spotify.com/track/4cC3UZROu1UdjLyHzNjvdk"
     },
     {
-      "added_at": "2023-05-05 23:46:53",
-      "album": {
-        "name": "Contra La Corriente",
-        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
-      },
-      "artists": [
-        {
-          "name": "Jaguar",
-          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
-        }
-      ],
-      "duration_ms": 263096,
-      "name": "Contra La Corriente",
-      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
-    },
-    {
       "added_at": "2023-12-07 01:08:32",
       "album": {
         "name": "El arca de Mima",
@@ -1371,6 +1355,22 @@
       "duration_ms": 262318,
       "name": "El arca de Mima",
       "url": "https://open.spotify.com/track/7qqnbotfPRaxIcAvB6UrXu"
+    },
+    {
+      "added_at": "2023-05-05 23:46:53",
+      "album": {
+        "name": "Contra La Corriente",
+        "url": "https://open.spotify.com/album/5Mj8KBKsx8RwpC1AV2s93c"
+      },
+      "artists": [
+        {
+          "name": "Jaguar",
+          "url": "https://open.spotify.com/artist/2q2aMOy0lcMiR0KXffDXEC"
+        }
+      ],
+      "duration_ms": 263096,
+      "name": "Contra La Corriente",
+      "url": "https://open.spotify.com/track/3AT2aCbmbu8OapUxwei1SO"
     }
   ],
   "unique_name": "tropic.alt",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 
 > Get your body right with this workout twerkout
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,723,680 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722,312 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0HRj9P7NxeE.md) - [plain]
 | 47 | [Booty Drop](https://open.spotify.com/track/1iOdhNBdePXR632DhYZVO2) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Booty Drop](https://open.spotify.com/album/096NZMg4ARLx7TQamIDE30) | 2:39 |
 | 48 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 |
 | 49 | [Bend It Ova \(feat\. A Boogie Wit da Hoodie & Big Freedia\)](https://open.spotify.com/track/0gBcxOCHJtY6w4LWerwt7y) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [Bend It Ova \(feat\. A Boogie Wit Da Hoodie & Big Freedia\)](https://open.spotify.com/album/4M8sgmvLoYPeyh107EeO2r) | 3:18 |
-| 50 | [IT GIRL](https://open.spotify.com/track/4wQmwPWCUn6gi11Gep2qsP) | [Aliyah's Interlude](https://open.spotify.com/artist/7maQENQfaF8xDdEJp4i545) | [IT GIRL](https://open.spotify.com/album/6Dbkq4a0KggLhGxxt8p1lH) | 2:41 |
+| 50 | [Work For It](https://open.spotify.com/track/7gwEKj4xXm9iRqxGhHxSI4) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [RAW](https://open.spotify.com/album/25wBD0erftkJDAsnDp8mzu) | 1:46 |
 
 Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMDFiMjQ4YWU0NmQ1YmNjMjFkYWNlYjQ0M2E2ZmY2OTk0`

@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 178497,
+  "2024-04-24": 178628,
   "date_first_scraped": "2023-08-09",
   "description": "21st Century nomadic expressions interwoven into a very unexpected patchwork.",
   "name": "Folk Fabrique",
@@ -2046,6 +2046,28 @@
     },
     {
       "album": {
+        "name": "OH WAH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205485,
+      "name": "OH WAH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
+    },
+    {
+      "album": {
         "name": "On te l'avait dit",
         "url": "https://open.spotify.com/album/769hXvYI0EBGEC2ldfRgnp"
       },
@@ -2409,7 +2431,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 305866,
       "name": "Sierra Madre (Remix)",
       "url": "https://open.spotify.com/track/3b37ePy3JV5VsnoGoAfqS6"

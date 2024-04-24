@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 
 > 빗방울대신 감성을 맞는 시간\. \(Listen to K\-Pop rainy day songs.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,535 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,538 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 13 | [On Rainy Days \(2021\)](https://open.spotify.com/track/4a0OYMqeBOGuzCPLg5SfWU) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [On Rainy Days \(2021\)](https://open.spotify.com/album/6KpcAZYdX5RrdXme2a12d8) | 3:50 |
 | 14 | [Rain Song \(Feat\. Colde\)](https://open.spotify.com/track/2qrDQX9IvOhetvjUcwPtmb) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:05 |
 | 15 | [Empty Cup](https://open.spotify.com/track/4YnVz2QRU6OnoJ8lt23QHM) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [IU 5th Album 'LILAC'](https://open.spotify.com/album/01dPJcwyht77brL4JQiR8R) | 2:19 |
-| 16 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
+| 16 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
 | 17 | [Sun Shower](https://open.spotify.com/track/4dGJC7qU8dGOE00P5SgJWL) | [MOVNING](https://open.spotify.com/artist/6tuZdsQHRegQDPlRdcMjbn) | [Sun Shower \(A Business Proposal OST Part.3\)](https://open.spotify.com/album/27s8y4T4C2XIP9y4Rv5AO2) | 4:16 |
 | 18 | [AM PM \(feat\. Whee In\) \- Prod\. Gray](https://open.spotify.com/track/1J1hPnwTw80wpVWRv8yuxj) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT), [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [SOMO: FUME](https://open.spotify.com/album/2T8iLSKPraJotM2uXFKW4F) | 3:37 |
 | 19 | [Seed](https://open.spotify.com/track/5PinFdI9r167ql5cVNYtFR) | [TAEYANG](https://open.spotify.com/artist/6udveWUgX4vu75FF0DTrXV) | [Down to Earth](https://open.spotify.com/album/6q2v2FAOpb3Rk2avT7mxQS) | 4:15 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 21 | [On A Rainy Day](https://open.spotify.com/track/3KhDf9MJlPpodahS4OwrMF) | [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [STABLE MINDSET](https://open.spotify.com/album/4ZCXsCHvaZ9r5skMrC4B9h) | 3:32 |
 | 22 | [Gray So Gray \(Feat\. Younha\)](https://open.spotify.com/track/6A4iYPzPVM4OSjIMgxMYnY) | [Epik High](https://open.spotify.com/artist/5snNHNlYT2UrtZo5HCJkiw), [Younha](https://open.spotify.com/artist/6GwM5CHqhWXzG3l5kzRSAS) | [Epik High Is Here 下 \(Part 2\)](https://open.spotify.com/album/1a7B3Nn52Uvi9nhqnHacfh) | 4:12 |
 | 23 | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/track/797XRv2RhIp9qHeKG42HzD) | [Car, the garden](https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ) | [All Night Long \(She is My Type♡ X Car, the garden\)](https://open.spotify.com/album/5P3m24aXWEmpq8LoYVzofm) | 3:19 |
-| 24 | [overdose](https://open.spotify.com/track/3B4Rxj4UItYuHyppE8S0gU) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [overdose](https://open.spotify.com/album/7gWO40G0L1xaZ0wEmiLmr8) | 4:15 |
+| 24 | [Syndrome](https://open.spotify.com/track/1hZ2dSvv2O6HQo6p3gDtVO) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [Syndrome](https://open.spotify.com/album/4YDtoADrhBQr4Epq57JRKX) | 3:41 |
 | 25 | [Hug me tight](https://open.spotify.com/track/72hSGQmtB2M7VGouyZ9Yr4) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Hug me tight](https://open.spotify.com/album/4yitFAHe08JSAvqk7zFWUF) | 3:47 |
 | 26 | [ddu ddu ddu](https://open.spotify.com/track/6WfW2xPw3X5FiJPQWkaXoN) | [Moon Byul](https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL) | [6equence](https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1) | 3:32 |
 | 27 | [Childhood](https://open.spotify.com/track/0YD0nPpSx4DSHoL1EGJ5Lj) | [SUNMI](https://open.spotify.com/artist/6MoXcK2GyGg7FIyxPU5yW6) | [Heart Burn](https://open.spotify.com/album/0ahb3lp7jXxKUx3beS7AVu) | 3:15 |
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbpaEv4bXhFx.md) - [plain]
 | 33 | [Oh Rosy](https://open.spotify.com/track/33SWg6lcMQxcg0mD4f6cG9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 3:44 |
 | 34 | [Kiss The Rain](https://open.spotify.com/track/00ZvMUjMundVCBeCGqhSf7) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Tale of the Nine Tailed 1938, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/5PYf2CJFr5WIatS4GQ2kmd) | 2:32 |
 | 35 | [Magnolia](https://open.spotify.com/track/5XrRVO7bjxl1HUZ5Ffri4g) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv) | [Magnolia](https://open.spotify.com/album/1xvErKDx1NMXm0nYNgMuW7) | 2:51 |
-| 36 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 |
-| 37 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 |
+| 36 | [Deep in the night, you and me](https://open.spotify.com/track/0ytGKS7VQwOeviYgqjwgUY) | [109](https://open.spotify.com/artist/1M2Yug6EvJTlraF6ewM9Oh) | [Deep in the night, you and me](https://open.spotify.com/album/2HmxJAWEQLr6g2IIZ8DnXQ) | 2:47 |
+| 37 | [Happy Tears](https://open.spotify.com/track/453YZHIyNa6KzWF3ouoiVF) | [4BOUT](https://open.spotify.com/artist/1gHzFOHKBOOz6HAdLX8QeM) | [Happy Tears](https://open.spotify.com/album/4gXSXykZmeNY8c6k5QNAGk) | 2:53 |
 | 38 | [From the Rain \(Feat\. Ahn Ye Eun\)](https://open.spotify.com/track/1rJjHutRgSOQ3kjiA5e8Wt) | [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo), [Ahn Ye Eun](https://open.spotify.com/artist/0qQQYIK5Sxnzt72fGyTcvs) | [HAPPEN](https://open.spotify.com/album/4xOOB79WcZuOoVwK06No1s) | 2:44 |
-| 39 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
-| 40 | [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 |
+| 39 | [Rainy Season](https://open.spotify.com/track/1oKLldMLuG7cl7K6IqrbGH) | [MAMAMOO](https://open.spotify.com/artist/0XATRDCYuuGhk0oE7C0o5G) | [Rainy Season](https://open.spotify.com/album/1WGfdNasOiGf5kG3JvFXtf) | 3:42 |
+| 40 | [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 |
 | 41 | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/track/1EsJBtBizwxkRdnf8w6lZc) | [APRO](https://open.spotify.com/artist/779Q9oJXqbVHN4DbtTYa6O), [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg), [WAVY](https://open.spotify.com/artist/1OFmtxGqmk075mMtlKWVRV) | [To us \(feat\. wave to earth & WAVY\)](https://open.spotify.com/album/6XG56vDIbGbimJg3OiZJq3) | 4:14 |
 | 42 | [Shadow Love](https://open.spotify.com/track/0FggVfsqHP8ceT91xdJOxB) | [LAS](https://open.spotify.com/artist/4tObzkvo2Bc9EoWszG8gY4) | [The Interest of Love \(Original Television Soundtrack, Pt\. 9\)](https://open.spotify.com/album/1mmMupQqqCjLU8ZprpVD9M) | 3:55 |
 | 43 | [My Ceiling Disappeared](https://open.spotify.com/track/5EcCFzo4PyxTYQsrHGL9xU) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [STELLA I](https://open.spotify.com/album/1TCX395u7CaSsCLtiwsMAN) | 3:35 |

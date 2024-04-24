@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 
 > éxitos de regreso
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,691 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,836 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 28 | [Die For You](https://open.spotify.com/track/2Ch7LmS7r2Gy2kc64wv3Bz) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Starboy](https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe) | 4:20 |
 | 29 | [death bed \(coffee for your head\)](https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [death bed \(coffee for your head\)](https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc) | 2:53 |
 | 30 | [Gimme! Gimme! Gimme! \(A Man After Midnight\)](https://open.spotify.com/track/3vkQ5DAB1qQMYO4Mr9zJN6) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:52 |
-| 31 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
-| 32 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
+| 31 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 |
+| 32 | [Somebody That I Used To Know](https://open.spotify.com/track/1qDrWA6lyx8cLECdZE7TV7) | [Gotye](https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG), [Kimbra](https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti) | [Making Mirrors](https://open.spotify.com/album/4G2rJNhsKOE6iHgtUqZ0Ye) | 4:04 |
 | 33 | [Pepas](https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Pepas](https://open.spotify.com/album/2A5ksnhz7YWbRLvFMjX1j1) | 4:47 |
 | 34 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 |
 | 35 | [Diles](https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Diles](https://open.spotify.com/album/6kTizLfVRIbzMzT1tb7dex) | 4:46 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcuJfJUfXtde.md) - [plain]
 | 76 | [Un Sueño](https://open.spotify.com/track/6iPDBwtiOZGlfQt9HD0jAG) | [Los Angeles De Charly](https://open.spotify.com/artist/0fdpJLsenUo15X3dPPWJSR) | [Un Sueño](https://open.spotify.com/album/0YYee1wCAn79KN9TVD70Tp) | 3:45 |
 | 77 | [Love Tonight \(Edit\)](https://open.spotify.com/track/6OufwUcCqo81guU2jAlDVP) | [Shouse](https://open.spotify.com/artist/2TcGJdSOiOvITBzhvfX8XB) | [Love Tonight](https://open.spotify.com/album/5KXv2MHeoLSqZ96jRuFF9H) | 4:01 |
 | 78 | [We Belong Together](https://open.spotify.com/track/7caj6X6NMX3tlhWnu1du6V) | [Ritchie Valens](https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P) | [Ritchie Valens](https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W) | 1:56 |
-| 79 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 |
-| 80 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
+| 79 | [Therefore I Am](https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Therefore I Am](https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM) | 2:54 |
+| 80 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 |
 | 81 | [You Are Enough](https://open.spotify.com/track/1Wdj4wRDYS7aT4CoPS0mAH) | [Sleeping At Last](https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g) | [Atlas: I](https://open.spotify.com/album/1E9iqjfSf5I5hPNfI1DRIh) | 3:00 |
 | 82 | [Build a Bitch](https://open.spotify.com/track/7BoobGhD4x5K96Me0hqC8Q) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Build a Bitch](https://open.spotify.com/album/5YKqfiQdPYWJ0kZ5pttY5o) | 2:02 |
 | 83 | [Quiero Bailar](https://open.spotify.com/track/7mY1dIaY9vY6Jrlrjg3dRn) | [Ivy Queen](https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH) | [DIVA\- Platinum Edition](https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb) | 3:06 |

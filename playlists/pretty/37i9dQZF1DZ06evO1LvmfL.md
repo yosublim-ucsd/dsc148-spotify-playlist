@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 
 > This is Teddy Swims\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,946 likes - 45 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,849 likes - 45 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1LvmfL.md) - [plain]
 | 44 | [New Religion \(feat\. Teddy Swims\)](https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tell Me I'm Alive](https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh) | 3:04 |
 | 45 | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/track/66c9N3zuJe0mpC1JrJc1u1) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Elephant in the Room \(feat\. Teddy Swims\)](https://open.spotify.com/album/26WmAEmGUvMtHOd1emDVgG) | 2:43 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGQ1ZGVjYmIxNjkxZTdmODkxMmZjNWE3YWZlYmY4NGI3`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDkxZmZhZDA3MmYzMzAwYmEwM2MxMTczOTYyNWE3NzQ3`

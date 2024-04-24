@@ -2,7 +2,7 @@
 
 ### [Seda](https://open.spotify.com/playlist/37i9dQZF1DXcLnINu2mUk0)
 
-> Chill rap e R&B: É um mood suave e envolvente\. Foto: Salah, Timor YSF, MC Zaquin
+> Chill rap e R&B: É um mood suave e envolvente\. Foto: João Maia Ferreira e Alex D'Alva.
 
 597 songs - 1 day 7 hr 51 min
 

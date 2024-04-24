@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-57 songs - 3 hr 42 min
+58 songs - 3 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [夜間飛行](https://open.spotify.com/track/1wcu44bluvl1QEefHxKhsf) | [多次元制御機構よだか](https://open.spotify.com/artist/2GJMiGBEYG8xiK6XAojxCd) | [夜間飛行](https://open.spotify.com/album/2aeHBBhhrrdV9OUdrFgufv) | 4:00 | 2024-04-18 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-04-18 |  |
 | [水星 \(feat\. オノマトペ大臣\)](https://open.spotify.com/track/6XA6rD06U0Y7L8q9EISVGX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [オノマトペ大臣](https://open.spotify.com/artist/575g2KDApbVOueuZbqtJPU) | [水星](https://open.spotify.com/album/0HN0p05E303NlGcdmwEVld) | 4:33 | 2024-04-03 |  |
+| [永遠のブルー](https://open.spotify.com/track/3zSgE6oQiPLO28dZkvKGbX) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 3:51 | 2024-04-23 |  |
 | [薄闇の花](https://open.spotify.com/track/0XuiVaUWS7SN3Z12pkOtCn) | [cero](https://open.spotify.com/artist/1V1HDPQwGOyUIr9KB6Oq7Q) | [POLY LIFE MULTI SOUL](https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM) | 4:02 | 2024-04-12 |  |
 | [踊り子](https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 3:49 | 2024-04-04 | 2024-04-19 |
 | [踊り子](https://open.spotify.com/track/7loLSr7JUn78pLHitHr89Z) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/1wlfcNPu9zr18HTA5h7JO7) | 3:50 | 2024-04-18 |  |

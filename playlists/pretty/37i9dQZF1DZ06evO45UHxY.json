@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2204,
+  "num_followers": 2205,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGM2MmQ3ZmUxYmViNzFkZGEyNmFmMzExMGJkMmNmNmU3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDFmMTFiZmRkNGMxN2EzMzk5MDZjMmMzN2Y1ODk3ZmFj",
   "tracks": [
     {
       "added_at": null,
@@ -635,22 +635,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dame Chamoy",
-        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
       },
       "artists": [
-        {
-          "name": "Marea Musical",
-          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
-        },
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 146538,
-      "name": "Dame Chamoy",
-      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
+      "duration_ms": 197738,
+      "name": "Hasta El Fondo Del Abismo",
+      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
     },
     {
       "added_at": null,
@@ -671,18 +667,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sorprendente",
-        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
+        "name": "Dame Chamoy",
+        "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
       "artists": [
+        {
+          "name": "Marea Musical",
+          "url": "https://open.spotify.com/artist/3artnpQ7f3G0xY70vl23TL"
+        },
         {
           "name": "Banda Zeta",
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 179374,
-      "name": "Un Enga\u00f1o M\u00e1s",
-      "url": "https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI"
+      "duration_ms": 146538,
+      "name": "Dame Chamoy",
+      "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+        "name": "Sorprendente",
+        "url": "https://open.spotify.com/album/6BeCNDHtOYtfx414xhy3my"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 197738,
-      "name": "Hasta El Fondo Del Abismo",
-      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
+      "duration_ms": 179374,
+      "name": "Un Enga\u00f1o M\u00e1s",
+      "url": "https://open.spotify.com/track/6GLVpQEhEFzyRQsPUqQtJI"
     },
     {
       "added_at": null,

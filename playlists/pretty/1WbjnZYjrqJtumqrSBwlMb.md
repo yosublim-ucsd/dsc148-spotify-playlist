@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 
 > Objectively good music
 
-[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 875 songs - 2 day 5 hr 50 min
+[BennyE456](https://open.spotify.com/user/bennyellison4) - 14 likes - 876 songs - 2 day 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -883,5 +883,6 @@ pretty - [cumulative](/playlists/cumulative/1WbjnZYjrqJtumqrSBwlMb.md) - [plain]
 | 873 | [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 |
 | 874 | [Again](https://open.spotify.com/track/7e0LOBvgnz3Rnu20gUKOeh) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Again](https://open.spotify.com/album/6s144Vjf21zEdbZpySRE82) | 2:53 |
 | 875 | [Romantic Homicide](https://open.spotify.com/track/1xK59OXxi2TAAAbmZK0kBL) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Romantic Homicide](https://open.spotify.com/album/4B3FsNFguOEJ4TWEsct83B) | 2:12 |
+| 876 | [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 |
 
-Snapshot ID: `MjA2Miw3MmEyYzZmYWRiOWFjNjMyOGRjNTdmOWY3ZDFlZGNlOWNkMTcxYTM2`
+Snapshot ID: `MjA2MyxlZDg4MjM4MTk2MjkwNTZiMzQ1ZTA1YzNhOTUyMDI4MGE2MzZmMmE0`

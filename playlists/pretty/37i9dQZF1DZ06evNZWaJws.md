@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 
 > This is Los Tucanes De Tijuana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,470 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,614 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZWaJws.md) - [plain]
 | 50 | [Se Desgranó La Mazorca](https://open.spotify.com/track/0sjpjZQYvnssMQ34lUpfpY) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Tucanes De Plata ..\. Tucanazos Censurados](https://open.spotify.com/album/2weY5cDV6Cynr1LqZE1ouf) | 3:27 |
 | 51 | [Se Fue Mi Amor](https://open.spotify.com/track/12DD2WZnlpq72BlsNdv4LK) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Romance Norteño](https://open.spotify.com/album/6OolFCMNSTNv1faRoAdEfG) | 3:28 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDU1MTAzYzg4YzJjYWE0N2Q5ZTI5Y2ViMGVhYmNiMTRh`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGY3Yzg3NGQ5Y2ZmODAyMzljYTE5YjZmMjQ4MDJkNjVi`

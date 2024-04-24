@@ -1,12 +1,12 @@
 {
   "description": "This is Madison Cunningham. The essential tracks, all in one playlist.",
-  "num_followers": 3052,
+  "num_followers": 3055,
   "original_name": "This Is Madison Cunningham",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFiY2VkMjI4MDZmYTkxMjk1YWRmOTBmOWQ4Mjk0MzUz",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGJlZGUxNzIyNGI3ZDQ4NjliNDUzOWQ0MTNhZGEwYTg0",
   "tracks": [
     {
       "added_at": null,
@@ -483,38 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 237493,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revealer",
-        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 262727,
-      "name": "Sunshine Over The Counter",
-      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Work Songs: The Porter's Gate Worship Project Vol 1",
         "url": "https://open.spotify.com/album/0fGjqZbsoSCGJEfjdaCyCI"
       },
@@ -535,8 +503,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subtitles",
-        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+        "name": "Revealer",
+        "url": "https://open.spotify.com/album/3flejyQLaN7EolO3Vmg31D"
       },
       "artists": [
         {
@@ -544,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 245172,
-      "name": "Subtitles",
-      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
+      "duration_ms": 262727,
+      "name": "Sunshine Over The Counter",
+      "url": "https://open.spotify.com/track/6OQEgClxANfwxaRCc8zrHg"
     },
     {
       "added_at": null,
@@ -560,9 +528,25 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 228013,
-      "name": "L.A. (Looking Alive)",
-      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+      "duration_ms": 237493,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/79NCNvyJMKSCVSGQZjSLf4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Subtitles",
+        "url": "https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Subtitles",
+      "url": "https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq"
     },
     {
       "added_at": null,
@@ -603,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 228013,
+      "name": "L.A. (Looking Alive)",
+      "url": "https://open.spotify.com/track/7zPotVoWNGt5TxFLg24cbT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Surprises",
         "url": "https://open.spotify.com/album/4h8UfmHaGPZDivrHVOjAQi"
       },
@@ -615,22 +615,6 @@
       "duration_ms": 215200,
       "name": "No Surprises",
       "url": "https://open.spotify.com/track/4eXOqmr69p5v8mztsEeO1R"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Who Are You Now",
-        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 266733,
-      "name": "Common Language",
-      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
     },
     {
       "added_at": null,
@@ -671,6 +655,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Who Are You Now",
+        "url": "https://open.spotify.com/album/2CE5eeFL2vKtLvVpjgpfQy"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "Common Language",
+      "url": "https://open.spotify.com/track/3rEwolA0qEDonOpKkws7V7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No One Else To Blame",
         "url": "https://open.spotify.com/album/4RrYiD9kEUbyPYaWBmgVy8"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "To Another Land",
-      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Sake Of The Rhyme",
         "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 183973,
       "name": "So Long, Frank Lloyd Wright",
       "url": "https://open.spotify.com/track/6xB36Rdbu32JzbQGrPcRb7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "To Another Land",
+      "url": "https://open.spotify.com/track/3uWPZMVDc4uJ7kS6y4PNEr"
     },
     {
       "added_at": null,
@@ -767,22 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 239120,
-      "name": "I Close My Eyes",
-      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For The Sake Of The Rhyme",
         "url": "https://open.spotify.com/album/4BaN7uc9vzyOberlO92BRR"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 263066,
       "name": "All At Once",
       "url": "https://open.spotify.com/track/59x97Muk1DvBUhyX8xcxJo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 239120,
+      "name": "I Close My Eyes",
+      "url": "https://open.spotify.com/track/4MzNLzhD7I4xXcdGCKCAty"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love, Lose, Remember",
-        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 270746,
-      "name": "When Love Loves Alone",
-      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Glory Song",
         "url": "https://open.spotify.com/album/1NxngYgTVoZp0kDOe8EdDo"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 286880,
       "name": "Redemption Ground",
       "url": "https://open.spotify.com/track/3Hb9XXnDjtXcd7lXy8N8Rf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love, Lose, Remember",
+        "url": "https://open.spotify.com/album/33cGQwuhKjfvlGziUdKMWL"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 270746,
+      "name": "When Love Loves Alone",
+      "url": "https://open.spotify.com/track/0123Q9pS0KtXal4ejQd0ju"
     },
     {
       "added_at": null,

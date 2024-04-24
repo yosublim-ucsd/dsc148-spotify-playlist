@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 
 > Float away on heady orchestrations and haunting harmonies...
 
-[Spotify](https://open.spotify.com/user/spotify) - 828,700 likes - 100 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 827,860 likes - 100 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 34 | [Poison to You](https://open.spotify.com/track/2gespzBmNAR9mpbenZdPlH) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u) | [Grapefruit Season](https://open.spotify.com/album/0j0UBOGFgNrspMKG1CdG3Z) | 3:53 |
 | 35 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 |
 | 36 | [Saving Us a Riot](https://open.spotify.com/track/2n1mukIntnIGBzhf8Ifkr2) | [Phoria](https://open.spotify.com/artist/0HDxlFsXwyrpufs4YgTNMm) | [Saving Us a Riot](https://open.spotify.com/album/1iT3Cml6HMAth8Cn9ZRCAz) | 4:16 |
-| 37 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
-| 38 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
+| 37 | [Arc \- Stripped](https://open.spotify.com/track/7zdLzxX3JvF8qqW2o6UyMN) | [Yoste](https://open.spotify.com/artist/2wwZDwSBHaVaOI6cE2hfhf) | [Arc \- Stripped](https://open.spotify.com/album/6TetCtVwrmq85YsuG7h9vZ) | 3:26 |
+| 38 | [Haven Lea](https://open.spotify.com/track/1npKCqB7DQ8bAM1DlWp5a9) | [Lists](https://open.spotify.com/artist/5bXcRydEFiSkcqjYlbW7uO) | [Haven Lea](https://open.spotify.com/album/206TdjkA3eP2MVvI3VPe3z) | 3:07 |
 | 39 | [Carrie](https://open.spotify.com/track/6RsQrfzyexFtl37NOVjT0S) | [Safia Nolin](https://open.spotify.com/artist/6A2d6U7npV8B6suj2A5bVJ) | [Carrie](https://open.spotify.com/album/2SoOXRCpYdmeB07e9Ln6Ub) | 4:02 |
 | 40 | [Overlook](https://open.spotify.com/track/6gsZ2naKRWRnadouOtpcNt) | [Jack Bradley Vaught](https://open.spotify.com/artist/5wblMUnLVqEef2mIpuiDED) | [Overlook](https://open.spotify.com/album/3UAI3FHdoMIdFDK0Pwb4Cd) | 2:41 |
 | 41 | [Rolling Thunder](https://open.spotify.com/track/4h6unbwOKDPWeSizNav2nd) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq), [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Rolling Thunder](https://open.spotify.com/album/1OfUQjs3de9iU5C2bYbmYc) | 4:01 |
@@ -65,10 +65,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 55 | [hallow's eve](https://open.spotify.com/track/257WCspICXPffkvdEvVaIP) | [Casey Dubie](https://open.spotify.com/artist/1sYE9vIZsQ6cxgdr7ysq2F), [Timothy Edward Carpenter](https://open.spotify.com/artist/5Ey3CuclF1I1yTc1i0YDgc) | [hallow's eve](https://open.spotify.com/album/6LdgrA1mQmS4BfHVlqAPOU) | 2:13 |
 | 56 | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/track/2OBjNngWUWi2aTqZbCrYmb) | [Joshua Burnside](https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV) | [Late Afternoon in the Meadow \(1887\)](https://open.spotify.com/album/6rHxUjTtjlF3r3jTfkJWCi) | 4:34 |
 | 57 | [EBB](https://open.spotify.com/track/2nxQPAZV2pe9TOFL52nTMu) | [Ed Tullett](https://open.spotify.com/artist/5VGsR5wapeJIuRPX26IeGn) | [Trawl](https://open.spotify.com/album/0njLp1RAZLe6DOCOP1oj8c) | 4:23 |
-| 58 | [Way Back Home](https://open.spotify.com/track/3bXX20tACLqSRGxzk54xr4) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Way Back Home](https://open.spotify.com/album/1685LdXIdNn3WCNocUVBIN) | 4:14 |
-| 59 | [A Light on in the Dark](https://open.spotify.com/track/3twsDwOH7Z0gbkO2PXaomc) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Green + Evergreen](https://open.spotify.com/album/1KF5khhNMhvHinCySJZumy) | 3:51 |
-| 60 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 |
-| 61 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
+| 58 | [I Was Not There](https://open.spotify.com/track/7p8vCxlfh9Eio1iJYUjkTk) | [The Antlers](https://open.spotify.com/artist/5o8Wylae9k23IEJMIiwd8s) | [I Was Not There](https://open.spotify.com/album/3fC3Y1IQML3yormrrbpi9O) | 5:47 |
+| 59 | [Way Back Home](https://open.spotify.com/track/3bXX20tACLqSRGxzk54xr4) | [The Dawdler](https://open.spotify.com/artist/1RjoSjk4wI962W4HFGBdwx) | [Way Back Home](https://open.spotify.com/album/1685LdXIdNn3WCNocUVBIN) | 4:14 |
+| 60 | [A Light on in the Dark](https://open.spotify.com/track/3twsDwOH7Z0gbkO2PXaomc) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Green + Evergreen](https://open.spotify.com/album/1KF5khhNMhvHinCySJZumy) | 3:51 |
+| 61 | [Andalucia](https://open.spotify.com/track/4SYmfDbNnwdrtqkvqV0tzb) | [Andrew Bird](https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9) | [Andalucia](https://open.spotify.com/album/5zXISZR58hyQgTxGA8tnVK) | 3:32 |
 | 62 | [Hanging](https://open.spotify.com/track/6khrKsm3I0OJb4WB5Ogs2j) | [Marika Hackman](https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O) | [Hanging](https://open.spotify.com/album/5eUMYmDc1TKLZW7NSEafUz) | 3:53 |
 | 63 | [On the Edge](https://open.spotify.com/track/6j2Gbnz6tHBvMzLmCUhGYJ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [On the Edge](https://open.spotify.com/album/3smCkXrTbYAkWl3Vekw8xj) | 4:07 |
 | 64 | [Sandy Cove](https://open.spotify.com/track/7sYmOR1QIkJfphSlu2Kg2K) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Sandy Cove](https://open.spotify.com/album/7J2tE4b1tYFEiwnaLoUpqF) | 5:35 |
@@ -88,12 +88,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX79Y9Kr2M2tM.md) - [plain]
 | 78 | [Wait for You](https://open.spotify.com/track/3Rev8ukx9v7fBDtq71QeCT) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Wait for You](https://open.spotify.com/album/53ppopomnHhYNNftYvyImu) | 3:13 |
 | 79 | [The Way Back Home](https://open.spotify.com/track/52Xwn8r3KLcwgHO0wyDNbC) | [Aisha Badru](https://open.spotify.com/artist/3vsVCHUe68gqUMIZwaVUIK) | [The Way Back Home](https://open.spotify.com/album/0Hx4AIsLgkYCDZgsdb4pdi) | 3:34 |
 | 80 | [The Light Upon Us](https://open.spotify.com/track/69O18s28CWdA7ixXHBAKkh) | [Talos](https://open.spotify.com/artist/5pdzKTGQAcRcxDOfN4mXSc) | [Far Out Dust](https://open.spotify.com/album/1rgoWhCjpJu9xKqGkg8PGv) | 3:49 |
-| 81 | [Sense of Home](https://open.spotify.com/track/68wibJU4yMiqNX79IaLAsN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/4uJY9pRMcABooRV50bf9Wu) | 4:25 |
-| 82 | [July Bones](https://open.spotify.com/track/0MDBxpluHSND1xFepfOzD3) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [July Bones](https://open.spotify.com/album/7gfk1chqNM7wLFUgZt4ATQ) | 3:58 |
-| 83 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 |
-| 84 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 |
-| 85 | [Our Remains](https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Our Remains](https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A) | 4:04 |
-| 86 | [Howl](https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA) | 3:38 |
+| 81 | [Howl](https://open.spotify.com/track/7d7uefLUTOhy9nEfWoBd1G) | [Jake Houlsby](https://open.spotify.com/artist/7opQBzUd3mv4GsxSIveDB3) | [Howl](https://open.spotify.com/album/6bBo3e7f3RhA74BliaCEeA) | 3:38 |
+| 82 | [Sense of Home](https://open.spotify.com/track/68wibJU4yMiqNX79IaLAsN) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/4uJY9pRMcABooRV50bf9Wu) | 4:25 |
+| 83 | [July Bones](https://open.spotify.com/track/0MDBxpluHSND1xFepfOzD3) | [Richard Walters](https://open.spotify.com/artist/3rUqgY188kWz0hKkqnpk9F) | [July Bones](https://open.spotify.com/album/7gfk1chqNM7wLFUgZt4ATQ) | 3:58 |
+| 84 | [Minimum](https://open.spotify.com/track/4FwaJmXeZxr1096KItcUQq) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [Minimum](https://open.spotify.com/album/5oHD0TW5vl8qXVZJg0IKx3) | 3:14 |
+| 85 | [Forest Fires](https://open.spotify.com/track/6AQ3guMjWgetjRpQASwrE5) | [Axel Flóvent](https://open.spotify.com/artist/6jn7W8NuX94FWZyeGlyCaJ) | [Forest Fires](https://open.spotify.com/album/7b6DOCQLb3ZK2Z8hnC2e3j) | 3:30 |
+| 86 | [Our Remains](https://open.spotify.com/track/6pBxnT5MpmA4apvkJkKVii) | [Beta Radio](https://open.spotify.com/artist/0syIRg9MPSpJIC0QCPUaHB) | [Our Remains](https://open.spotify.com/album/54LIHpnnLXTEc3C5ueVD3A) | 4:04 |
 | 87 | [Love Brought Weight](https://open.spotify.com/track/1H56ffyFrFcvMEWUg3WFbM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Old Sea Brigade](https://open.spotify.com/album/4sRSCsGsXFMeOTmQ2G6sPV) | 3:05 |
 | 88 | [Old Now](https://open.spotify.com/track/6mVndIOMk620iAtXeMi4kW) | [Rosemary & Garlic](https://open.spotify.com/artist/7MZvYitgCWAOaKjxdm2S17) | [The Kingfisher](https://open.spotify.com/album/0wYOnQ14Bzo8RqXmZxjz7y) | 4:49 |
 | 89 | [Super 8 Eyes](https://open.spotify.com/track/4bvtfm8XL26qmM2vliZfMP) | [Benjamin Francis Leftwich](https://open.spotify.com/artist/7D5oTJSXSHf51auG0106CQ) | [Super 8 Eyes](https://open.spotify.com/album/6xK35x9w4Z8PfxtZjwc8Pu) | 4:35 |

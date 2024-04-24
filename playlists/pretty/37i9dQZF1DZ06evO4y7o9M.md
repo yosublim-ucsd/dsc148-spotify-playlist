@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 
 ### [This Is Junior H](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4y7o9M)
 
-> This Is Junior H\. Los temas esenciales, todos en una lista.
+> This is Junior H\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 693,679 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 694,771 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 37 | [Como Jordan](https://open.spotify.com/track/2q7DY7bBua9e9Aygmz8XmB) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Mi Vida En Un Cigarro 2](https://open.spotify.com/album/3ind4Ir3JMazCITxWQajDb) | 3:45 |
 | 38 | [Disfruto Lo Malo](https://open.spotify.com/track/7LH2UUuyMHt7035PLZQ8wx) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Corridos Tumbados](https://open.spotify.com/album/0Pr7tJefVMQCh8hy1n8OLr) | 3:07 |
 | 39 | [El F](https://open.spotify.com/track/04QX4SHRnYuMj5PffvG0dA) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [A Mis 20](https://open.spotify.com/album/4TATXEH2tnZVTqlyURoWUR) | 4:09 |
-| 40 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |
-| 41 | [No Me Pesa](https://open.spotify.com/track/4YU704KDCv4tyE6qQxliY3) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:41 |
+| 40 | [No Me Pesa](https://open.spotify.com/track/4YU704KDCv4tyE6qQxliY3) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Cruisin' with Junior H](https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM) | 3:41 |
+| 41 | [PICARDÍA](https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [PLAYA SATURNO](https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB) | 3:35 |
 | 42 | [VETE YA](https://open.spotify.com/track/1yN7ljnKqrWTW3g9tdN2it) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE) | [CONTINGENTE](https://open.spotify.com/album/6J0q4a7WkkI6OvlZC4rLpi) | 3:50 |
 | 43 | [Tronando Ligas](https://open.spotify.com/track/6Xfu24Hd3ufGrpGyZFy07M) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Tronando Ligas](https://open.spotify.com/album/7idHMYzKwME3BmhHiusrJ3) | 2:35 |
 | 44 | [Atrapado en un Sueño](https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Atrapado en un Sueño](https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF) | 3:30 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4y7o9M.md) - [plain]
 | 49 | [Aquellos Botones](https://open.spotify.com/track/7pK2omxNCdDHqWqjRPJPoN) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Corridos Bélicos, Vol\. IV](https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb) | 3:04 |
 | 50 | [Whiskey Con Agua](https://open.spotify.com/track/4KYdqX7VWv3gBuFNI0n4mJ) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Pa Que Hablen](https://open.spotify.com/album/7idxAlo8GuUKWV7RhOlptp) | 2:06 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDNlMDkyMmIwZmRiYjEzMDFkMGUwNmE3NTc2ZjAzMWFi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDkxYmM3NjlkN2Y0OGEyNjkwMzZlMjA4MTI0MzIyOTk5`

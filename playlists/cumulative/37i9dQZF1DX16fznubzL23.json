@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174590,
       "name": "How To Kill A Man",
       "url": "https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb"
@@ -3262,6 +3262,24 @@
       "duration_ms": 207200,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/4RYvU6CIPQu4toCLlLByG9"
+    },
+    {
+      "album": {
+        "name": "Toxic Love",
+        "url": "https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK"
+      },
+      "artists": [
+        {
+          "name": "$hyli",
+          "url": "https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139166,
+      "name": "Toxic Love",
+      "url": "https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU"
     },
     {
       "album": {

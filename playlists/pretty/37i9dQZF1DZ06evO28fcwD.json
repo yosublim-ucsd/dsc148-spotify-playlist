@@ -1,12 +1,12 @@
 {
   "description": "This is Ladysmith Black Mambazo. The essential tracks, all in one playlist.",
-  "num_followers": 27709,
+  "num_followers": 27704,
   "original_name": "This Is Ladysmith Black Mambazo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDRhYzlmMTY1MWI0MDBjMDkxMDAxOTQ1NzEzOTJiMjRl",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDc4ZTgzYzhiOTY2NDgzZjIyYmFmOTNjNzE2NzY2MjQ0",
   "tracks": [
     {
       "added_at": null,
@@ -31,30 +31,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King 2: Simba's Pride",
-        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
-      },
-      "artists": [
-        {
-          "name": "Cam Clarke",
-          "url": "https://open.spotify.com/artist/3zsO3rIX3eZkJUtHcMcWVS"
-        },
-        {
-          "name": "Charity Sanoy",
-          "url": "https://open.spotify.com/artist/0XdnLYUACJL47W0Zbs7Dyp"
-        },
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 225026,
-      "name": "We Are One - From \"Simba's Pride\"",
-      "url": "https://open.spotify.com/track/0Qz6rnFScHPUAUfvNAVS5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Awu Wemadoda",
         "url": "https://open.spotify.com/album/5DWZDoLZrKRPwrImMehQu5"
       },
@@ -75,6 +51,30 @@
       "duration_ms": 235179,
       "name": "Awu Wemadoda - Club Mix",
       "url": "https://open.spotify.com/track/2GlEeBVT9pTy2Kqoeq48dP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Lion King 2: Simba's Pride",
+        "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
+      },
+      "artists": [
+        {
+          "name": "Cam Clarke",
+          "url": "https://open.spotify.com/artist/3zsO3rIX3eZkJUtHcMcWVS"
+        },
+        {
+          "name": "Charity Sanoy",
+          "url": "https://open.spotify.com/artist/0XdnLYUACJL47W0Zbs7Dyp"
+        },
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 225026,
+      "name": "We Are One - From \"Simba's Pride\"",
+      "url": "https://open.spotify.com/track/0Qz6rnFScHPUAUfvNAVS5Y"
     },
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "African Lullaby",
+        "url": "https://open.spotify.com/album/11xQkBWU2NXP17OyIIAf4L"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 183426,
+      "name": "Thula Mtwana",
+      "url": "https://open.spotify.com/track/3Ljbrj0nexrBh9Rte2LVaX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Lion King 2: Simba's Pride",
         "url": "https://open.spotify.com/album/1Qi1XRfG99dwoh7bX1cyQy"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 174333,
       "name": "Upendi - From \"The Lion King II: Simba's Pride\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/6RJayUS0XvdWGt0d2HTKTH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "African Lullaby",
-        "url": "https://open.spotify.com/album/11xQkBWU2NXP17OyIIAf4L"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 183426,
-      "name": "Thula Mtwana",
-      "url": "https://open.spotify.com/track/3Ljbrj0nexrBh9Rte2LVaX"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Spirit Of South Africa",
+        "url": "https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy"
+      },
+      "artists": [
+        {
+          "name": "Ladysmith Black Mambazo",
+          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
+        }
+      ],
+      "duration_ms": 212950,
+      "name": "Nomathemba",
+      "url": "https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kryptos",
         "url": "https://open.spotify.com/album/2fuUjzLESnRRBubXfSiV4o"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 113313,
       "name": "African Alphabet",
       "url": "https://open.spotify.com/track/3O5q4MvQzxYYzjRLchIOYi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spirit Of South Africa",
-        "url": "https://open.spotify.com/album/3lSXtIZ7BtoMW3e17WxFCy"
-      },
-      "artists": [
-        {
-          "name": "Ladysmith Black Mambazo",
-          "url": "https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d"
-        }
-      ],
-      "duration_ms": 212950,
-      "name": "Nomathemba",
-      "url": "https://open.spotify.com/track/3gptqhvLYt8xyL1fwuObYv"
     },
     {
       "added_at": null,

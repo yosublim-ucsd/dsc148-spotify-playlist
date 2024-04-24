@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 
 ### [This Is Damares](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0IHBBm)
 
-> This is Damares\. The essential tracks, all in one playlist.
+> This is Damares\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,302 likes - 46 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,293 likes - 46 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0IHBBm.md) - [plain]
 | 45 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 |
 | 46 | [És Maior](https://open.spotify.com/track/0cPy3Yr05gh3G8dTpzMGDR) | [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Terceiro Céu](https://open.spotify.com/album/1JigGg92iRz3mBFXe3Weyb) | 4:27 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDI2YWM0N2M1ZDIwMWMxZGYxMzRhZmJmNTU5ZjllYzUz`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDJiNjRjZDQ2NGM5MjE0ODdlMDMzMWNiNGQ0ODdkNjBm`

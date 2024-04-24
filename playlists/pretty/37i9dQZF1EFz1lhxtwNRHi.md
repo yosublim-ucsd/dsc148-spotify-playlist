@@ -101,8 +101,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 91 | [Real Thing](https://open.spotify.com/track/4RJ3V0Y4Y18VuAWsnAcgS4) | [LunchMoney Lewis](https://open.spotify.com/artist/2iUbk5KhZYZt4CRvWbwb7S) | [Bills \- EP](https://open.spotify.com/album/22gQ3287u7f9iH5xaL8egl) | 3:41 |
 | 92 | [Capital Letters](https://open.spotify.com/track/405B9VswP3UM73ImKdPson) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [Capital Letters](https://open.spotify.com/album/4Kgoa65A1pu14huyVVUiux) | 3:35 |
 | 93 | [Get Me High](https://open.spotify.com/track/433OZmpLoajgLt6qCILeSg) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 3:16 |
-| 94 | [Sharkbait](https://open.spotify.com/track/7x2TvlkZVff8NNmKt69qF9) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/51usdyS2IkMuLteds1Inta) | 3:38 |
-| 95 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 94 | [Celebrity \- Blood Bunny Version](https://open.spotify.com/track/7rzwyFEyQDq80MK2cFotay) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [SPLIT DECISION](https://open.spotify.com/album/6slBagdkNJfpNuazFFQ7YM) | 2:33 |
+| 95 | [Sharkbait](https://open.spotify.com/track/7x2TvlkZVff8NNmKt69qF9) | [Teddy Geiger](https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC), [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [Sharkbait](https://open.spotify.com/album/51usdyS2IkMuLteds1Inta) | 3:38 |
 | 96 | [LillyAnna](https://open.spotify.com/track/1xwiP34a8zmCORXOixxnlO) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 3:49 |
 | 97 | [I Was in a Cult](https://open.spotify.com/track/0kiz2lDdvTXuB5pWn083d6) | [teddy<3](https://open.spotify.com/artist/62FaS5AarFCrus8LxSVKKW) | [LillyAnna](https://open.spotify.com/album/4MZfZGEPUXgCkxEI6fUedT) | 3:03 |
 | 98 | [Leona](https://open.spotify.com/track/5oFCGSZuMgUbJZX3ldciUY) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 4:06 |
@@ -168,4 +168,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz1lhxtwNRHi.md) - [plain]
 | 158 | [Ya Zi Me](https://open.spotify.com/track/7rMntdl7eVtbF3S0GU8izm) | [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [One By One](https://open.spotify.com/album/22FhDa9P2HzbTXutBpmrHl) | 3:34 |
 | 159 | [Leona Interlude](https://open.spotify.com/track/7kkADY5XzhAFMfOnfc7Z4K) | [ASL](https://open.spotify.com/artist/2XxgHIPXNgHGbvtBBGZrKm) | [EL GANZO](https://open.spotify.com/album/7hzqHYRogt233UE0QCcNeJ) | 0:27 |
 
-Snapshot ID: `Mjg1NjQwMzcsMDAwMDAwMDBjNTI3YjFhNGMxZmNmNzI4MTk1NjVmODdmMmE1YjE1MA==`
+Snapshot ID: `Mjg1NjYzNzcsMDAwMDAwMDAwODgwMjlhYzU5OWM1MDg1ZTk4OGUzNzUxOGIyYWRiZg==`

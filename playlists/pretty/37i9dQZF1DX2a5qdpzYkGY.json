@@ -1,12 +1,12 @@
 {
   "description": "a journey through ephemeral moments",
-  "num_followers": 12114,
+  "num_followers": 12116,
   "original_name": "transience",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgzMjI5MSwwMDAwMDAwMDY1NmU0ZDVlZWNjNWZlNTgyODNmMDAzMzlmMTU4ODYy",
+  "snapshot_id": "MTcxMzg0MTg4NywwMDAwMDAwMGJkNzRiMzE2M2NkN2ViNjUwZWJlN2M4Y2NhZGQ1NjJj",
   "tracks": [
     {
       "added_at": "2022-11-17 23:02:33",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/2gG3ivmsfylVXLyIJvLXyN"
     },
     {
+      "added_at": "2024-04-23 03:11:27",
+      "album": {
+        "name": "Atl\u00e2ntico",
+        "url": "https://open.spotify.com/album/6QkPq5Kq4T5g5OGBgI7ImR"
+      },
+      "artists": [
+        {
+          "name": "Misha Panfilov",
+          "url": "https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p"
+        }
+      ],
+      "duration_ms": 473517,
+      "name": "\u0421aleidosc\u00f3pio",
+      "url": "https://open.spotify.com/track/2UgfkEkswqRd5utZHJQImI"
+    },
+    {
       "added_at": "2021-10-06 04:38:12",
       "album": {
         "name": "Sunset Mission",
@@ -59,22 +75,6 @@
       "duration_ms": 304386,
       "name": "Prowler",
       "url": "https://open.spotify.com/track/3aBIGzDlzBpYj9dPPBn9yj"
-    },
-    {
-      "added_at": "2022-01-13 01:08:52",
-      "album": {
-        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
-        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
-      },
-      "artists": [
-        {
-          "name": "Niklas Paschburg",
-          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
-        }
-      ],
-      "duration_ms": 150681,
-      "name": "Wing Rowing (K08)",
-      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
     },
     {
       "added_at": "2024-04-23 00:31:13",
@@ -95,6 +95,22 @@
       "duration_ms": 571168,
       "name": "Hell To The Liars (feat. NATURE)",
       "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
+    },
+    {
+      "added_at": "2022-01-13 01:08:52",
+      "album": {
+        "name": "Nictitating Membrane (GC164) / Wing Rowing (K08)",
+        "url": "https://open.spotify.com/album/4Kkw0udedWQQjDK12GZEBz"
+      },
+      "artists": [
+        {
+          "name": "Niklas Paschburg",
+          "url": "https://open.spotify.com/artist/4dTw5svKFBPnfijbi3H9eI"
+        }
+      ],
+      "duration_ms": 150681,
+      "name": "Wing Rowing (K08)",
+      "url": "https://open.spotify.com/track/5yhu9EH05oY5M3wxmqDwwa"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -135,22 +151,6 @@
       "duration_ms": 284666,
       "name": "Ten-Day Interval",
       "url": "https://open.spotify.com/track/5A2vl9MadJ87kas3R3GoTm"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Archipelago",
-        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
-      },
-      "artists": [
-        {
-          "name": "Hidden Orchestra",
-          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
-        }
-      ],
-      "duration_ms": 344640,
-      "name": "Spoken",
-      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
       "added_at": "2024-04-12 00:45:23",
@@ -201,20 +201,20 @@
       "url": "https://open.spotify.com/track/1BuhApIz9YlT3vEcQfLxnI"
     },
     {
-      "added_at": "2024-01-05 03:52:17",
+      "added_at": "2021-10-06 04:38:12",
       "album": {
-        "name": "Ultramarine",
-        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/05EKAh2enH4uuFwDmVcbKG"
       },
       "artists": [
         {
-          "name": "Sven Wunder",
-          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
+          "name": "Hidden Orchestra",
+          "url": "https://open.spotify.com/artist/4Rj2COYs5hQsw8rYIxSviz"
         }
       ],
-      "duration_ms": 189067,
-      "name": "Ultramarine",
-      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
+      "duration_ms": 344640,
+      "name": "Spoken",
+      "url": "https://open.spotify.com/track/5EuanBT58m17JqKxCeqbQI"
     },
     {
       "added_at": "2024-04-15 14:39:19",
@@ -233,20 +233,20 @@
       "url": "https://open.spotify.com/track/4vy5Bom7Fax0HZjQvSshuQ"
     },
     {
-      "added_at": "2022-05-18 00:18:47",
+      "added_at": "2024-01-05 03:52:17",
       "album": {
-        "name": "Machinarium Soundtrack",
-        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
+        "name": "Ultramarine",
+        "url": "https://open.spotify.com/album/5TUaxpnaqWvHfvzvskmlac"
       },
       "artists": [
         {
-          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
+          "name": "Sven Wunder",
+          "url": "https://open.spotify.com/artist/2fQf2M7SkTwCv2MOEIP2Ly"
         }
       ],
-      "duration_ms": 304186,
-      "name": "By the Wall",
-      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
+      "duration_ms": 189067,
+      "name": "Ultramarine",
+      "url": "https://open.spotify.com/track/2XOFvNnjST9vifi4KPWHVH"
     },
     {
       "added_at": "2024-04-12 00:43:48",
@@ -265,20 +265,20 @@
       "url": "https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
+      "added_at": "2022-05-18 00:18:47",
       "album": {
-        "name": "Hex",
-        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+        "name": "Machinarium Soundtrack",
+        "url": "https://open.spotify.com/album/52PLNrXUMtPUZwcueV75J1"
       },
       "artists": [
         {
-          "name": "Bark Psychosis",
-          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+          "name": "Tom\u00e1\u0161 Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/4COaejzYuUUYQT6sOHLMPX"
         }
       ],
-      "duration_ms": 593866,
-      "name": "Pendulum Man",
-      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+      "duration_ms": 304186,
+      "name": "By the Wall",
+      "url": "https://open.spotify.com/track/2zbt8cQf1EFoKlkbkKRz5V"
     },
     {
       "added_at": "2024-04-18 20:16:24",
@@ -299,6 +299,22 @@
     {
       "added_at": "2021-10-06 04:38:12",
       "album": {
+        "name": "Hex",
+        "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
+      },
+      "artists": [
+        {
+          "name": "Bark Psychosis",
+          "url": "https://open.spotify.com/artist/0QwH5InvCwfL4UbYkjP9pi"
+        }
+      ],
+      "duration_ms": 593866,
+      "name": "Pendulum Man",
+      "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
         "name": "Don't Shy Away",
         "url": "https://open.spotify.com/album/7noRk0kA8noaDwLS8xy5U4"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 290053,
       "name": "Ocotillo",
       "url": "https://open.spotify.com/track/6YAHre8n87f7WZUkZOMJPK"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Portico Quartet",
-        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
-      },
-      "artists": [
-        {
-          "name": "Portico Quartet",
-          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
-        }
-      ],
-      "duration_ms": 334040,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
     },
     {
       "added_at": "2024-04-12 00:43:48",
@@ -359,6 +359,22 @@
       "duration_ms": 351120,
       "name": "Black City Skyline",
       "url": "https://open.spotify.com/track/51NvtuWxkDXHqtfWhQRjnH"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Portico Quartet",
+        "url": "https://open.spotify.com/album/6JmTEwuDRW986lE6RM6G7j"
+      },
+      "artists": [
+        {
+          "name": "Portico Quartet",
+          "url": "https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx"
+        }
+      ],
+      "duration_ms": 334040,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/41SnX1GhhrekILw4cS8zhc"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -461,22 +477,6 @@
       "url": "https://open.spotify.com/track/7BGPolTJ1ptq3zxGIf64yR"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Pillow Sisters",
-        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
-      },
-      "artists": [
-        {
-          "name": "Singleton",
-          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
-        }
-      ],
-      "duration_ms": 159158,
-      "name": "The Pillow Sisters",
-      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
-    },
-    {
       "added_at": "2022-09-03 03:50:05",
       "album": {
         "name": "Black Earth",
@@ -491,6 +491,22 @@
       "duration_ms": 458693,
       "name": "Maximum Black",
       "url": "https://open.spotify.com/track/6RHJvMCoUgQ5CSBFUEL9RI"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "The Pillow Sisters",
+        "url": "https://open.spotify.com/album/5Xa5zHnzplguzrNoCzUdSM"
+      },
+      "artists": [
+        {
+          "name": "Singleton",
+          "url": "https://open.spotify.com/artist/21JuplSnwK51Cp5olrc7q8"
+        }
+      ],
+      "duration_ms": 159158,
+      "name": "The Pillow Sisters",
+      "url": "https://open.spotify.com/track/05gq1Z7LjHYlgt9FRBAMWb"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -941,6 +957,22 @@
       "url": "https://open.spotify.com/track/6r7PBDvtEQQZwsSvKLLgRJ"
     },
     {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "AM Prosperita\u0308t",
+        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
+      },
+      "artists": [
+        {
+          "name": "Lujo Asi\u00e1tico",
+          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
+        }
+      ],
+      "duration_ms": 288068,
+      "name": "AM Prosperita\u0308t",
+      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
+    },
+    {
       "added_at": "2022-03-03 00:47:36",
       "album": {
         "name": "El Momento",
@@ -959,22 +991,6 @@
       "duration_ms": 199305,
       "name": "El Momento",
       "url": "https://open.spotify.com/track/5RlcIRD2XWzFMP0qeGqFlK"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "AM Prosperita\u0308t",
-        "url": "https://open.spotify.com/album/2MwapfUImgaU8Fn1lyvHSN"
-      },
-      "artists": [
-        {
-          "name": "Lujo Asi\u00e1tico",
-          "url": "https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI"
-        }
-      ],
-      "duration_ms": 288068,
-      "name": "AM Prosperita\u0308t",
-      "url": "https://open.spotify.com/track/3mrQlwy85WbZvFtYTyepRf"
     },
     {
       "added_at": "2021-10-06 04:38:12",
@@ -1041,22 +1057,6 @@
       "url": "https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW"
     },
     {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "Logue",
-        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
-      },
-      "artists": [
-        {
-          "name": "KMRU",
-          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
-        }
-      ],
-      "duration_ms": 234292,
-      "name": "Jinja Encounters",
-      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
-    },
-    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Mira",
@@ -1071,6 +1071,22 @@
       "duration_ms": 1088375,
       "name": "Mira",
       "url": "https://open.spotify.com/track/2fnOqI8zN1VYYlup3H1zJS"
+    },
+    {
+      "added_at": "2021-10-06 04:38:12",
+      "album": {
+        "name": "Logue",
+        "url": "https://open.spotify.com/album/1KWzByUugnZkV1gFQwn2ik"
+      },
+      "artists": [
+        {
+          "name": "KMRU",
+          "url": "https://open.spotify.com/artist/5blZUSGq0z7HhuSldSXV3a"
+        }
+      ],
+      "duration_ms": 234292,
+      "name": "Jinja Encounters",
+      "url": "https://open.spotify.com/track/1WhSh6bCQsJxgR7KmjSa8J"
     },
     {
       "added_at": "2022-02-18 05:44:49",
@@ -1225,22 +1241,6 @@
       "url": "https://open.spotify.com/track/53t36WpigyJBFRFy3jrygw"
     },
     {
-      "added_at": "2022-01-11 01:31:39",
-      "album": {
-        "name": "BITTER.ROOT",
-        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
-      },
-      "artists": [
-        {
-          "name": "EN.KI.DU",
-          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
-        }
-      ],
-      "duration_ms": 276172,
-      "name": "Inspiral",
-      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
-    },
-    {
       "added_at": "2022-02-18 05:44:49",
       "album": {
         "name": "Docutrax, Vol. 2: Serious Incidents",
@@ -1263,6 +1263,22 @@
       "duration_ms": 152321,
       "name": "Earth's Orbit",
       "url": "https://open.spotify.com/track/6XVZhsWHSbQcPmHN6MCdza"
+    },
+    {
+      "added_at": "2022-01-11 01:31:39",
+      "album": {
+        "name": "BITTER.ROOT",
+        "url": "https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4"
+      },
+      "artists": [
+        {
+          "name": "EN.KI.DU",
+          "url": "https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE"
+        }
+      ],
+      "duration_ms": 276172,
+      "name": "Inspiral",
+      "url": "https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8"
     },
     {
       "added_at": "2023-05-12 02:51:50",
@@ -1311,22 +1327,6 @@
       "duration_ms": 313600,
       "name": "Francis K.",
       "url": "https://open.spotify.com/track/7EIlPzBmqzRRUdriseY4XP"
-    },
-    {
-      "added_at": "2021-10-06 04:38:12",
-      "album": {
-        "name": "The Empty Bridge",
-        "url": "https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6"
-      },
-      "artists": [
-        {
-          "name": "Marc Barreca",
-          "url": "https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh"
-        }
-      ],
-      "duration_ms": 403980,
-      "name": "City Of Red Sand",
-      "url": "https://open.spotify.com/track/5pQI4osudR5207IiprBP7J"
     }
   ],
   "unique_name": "transience",

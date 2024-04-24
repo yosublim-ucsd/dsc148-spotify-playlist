@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 
 > Home to the Desi Pop Bops\. Cover \- Babar Mangi, Noman Ali Rajper, Marvi Sahibaan\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,332 likes - 52 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,472 likes - 52 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nX8HgBDmgL.md) - [plain]
 | 51 | [Beqadra](https://open.spotify.com/track/4LIQacKPUjto8rVlVuY09O) | [Nehaal Naseem](https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re) | [Beqadra](https://open.spotify.com/album/5SGHD9oHkRZ2zkYDcfGqq5) | 3:03 |
 | 52 | [O’Sajna](https://open.spotify.com/track/3YVbYgFSd2Whua4QUiIjUc) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Nikhita Gandhi](https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 3:28 |
 
-Snapshot ID: `MTcxMzE3MjI5NCwwMDAwMDAwMDhhYjAyNzI2ZDJhYTI2OTA0NmZiNjFjM2NhZDRlYjJj`
+Snapshot ID: `MTcxMzkzNTEzMCwwMDAwMDAwMDdhYjg2MjRmMGMxNTkwYzVlNDlkMjg5ZWY0MDYzYzEy`

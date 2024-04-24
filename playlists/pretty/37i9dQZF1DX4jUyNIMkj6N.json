@@ -1,6 +1,6 @@
 {
   "description": "The very best in Scandifolk - from Icelandic blues rock to Norwegicana.",
-  "num_followers": 201199,
+  "num_followers": 201216,
   "original_name": "Nordic Folk",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Slowly",
+        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+      },
+      "artists": [
+        {
+          "name": "Red Langur",
+          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+        }
+      ],
+      "duration_ms": 172007,
+      "name": "Slowly",
+      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Never Gonna Last",
         "url": "https://open.spotify.com/album/09kV21v80qDfWgNBSp92yL"
       },
@@ -655,18 +671,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Slowly",
-        "url": "https://open.spotify.com/album/2c5m7Lvf6eFxwSQAnkYfZa"
+        "name": "The Sun of the Island",
+        "url": "https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl"
       },
       "artists": [
         {
-          "name": "Red Langur",
-          "url": "https://open.spotify.com/artist/2tyuQl7P7wm2nGM7THUjB9"
+          "name": "Peter von Poehl",
+          "url": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
+        },
+        {
+          "name": "Marie Modiano",
+          "url": "https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R"
         }
       ],
-      "duration_ms": 172007,
-      "name": "Slowly",
-      "url": "https://open.spotify.com/track/0hDJJXO8NM86PlPZcZh2ID"
+      "duration_ms": 258517,
+      "name": "The Sun of the Island",
+      "url": "https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -691,22 +711,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Echoes",
-        "url": "https://open.spotify.com/album/638VM8l8718I1qj9MlXILl"
-      },
-      "artists": [
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        }
-      ],
-      "duration_ms": 227453,
-      "name": "Echoes",
-      "url": "https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Departure",
         "url": "https://open.spotify.com/album/2VKGfsdRfoQ9o8ci3TXzhx"
       },
@@ -727,22 +731,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "The Sun of the Island",
-        "url": "https://open.spotify.com/album/7m7G39PZmDAeTAUPXffCdl"
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/638VM8l8718I1qj9MlXILl"
       },
       "artists": [
         {
-          "name": "Peter von Poehl",
-          "url": "https://open.spotify.com/artist/5KhvKrmpVAYSZBbskHd00W"
-        },
-        {
-          "name": "Marie Modiano",
-          "url": "https://open.spotify.com/artist/2znK4wNHFUwPKYyTJFOj2R"
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
         }
       ],
-      "duration_ms": 258517,
-      "name": "The Sun of the Island",
-      "url": "https://open.spotify.com/track/2FniJxOBwfJdOiTRaW9icP"
+      "duration_ms": 227453,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/5YMEMDmLVnDqvLUirzLRqu"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Postcards",
-        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
+        "name": "All for You",
+        "url": "https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb"
       },
       "artists": [
         {
-          "name": "Days of August",
-          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+          "name": "Crimson Peak",
+          "url": "https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB"
         }
       ],
-      "duration_ms": 174553,
-      "name": "Van Gogh",
-      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
+      "duration_ms": 237281,
+      "name": "All for You",
+      "url": "https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -811,6 +811,22 @@
       "duration_ms": 170181,
       "name": "Early Summer Rain",
       "url": "https://open.spotify.com/track/44Weew9zeqTPmGujEIFXnh"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Postcards",
+        "url": "https://open.spotify.com/album/13xRET2oKDFqxm2wGgThzH"
+      },
+      "artists": [
+        {
+          "name": "Days of August",
+          "url": "https://open.spotify.com/artist/0yWSMZXHERES9DFEqgwYGf"
+        }
+      ],
+      "duration_ms": 174553,
+      "name": "Van Gogh",
+      "url": "https://open.spotify.com/track/0skX0EhN0OlCbBFWH81Id0"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -835,18 +851,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "All for You",
-        "url": "https://open.spotify.com/album/7D3j4WXZ5PqbG7fov9oyNb"
+        "name": "bl\u00f3mi",
+        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
       },
       "artists": [
         {
-          "name": "Crimson Peak",
-          "url": "https://open.spotify.com/artist/7GJg4UXlhiqLUNXVQjNOoB"
+          "name": "Susanne Sundf\u00f8r",
+          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
         }
       ],
-      "duration_ms": 237281,
-      "name": "All for You",
-      "url": "https://open.spotify.com/track/2AvJ8tgkykPP8gwd80ZA8P"
+      "duration_ms": 299840,
+      "name": "bl\u00f3mi",
+      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -867,18 +883,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "bl\u00f3mi",
-        "url": "https://open.spotify.com/album/0Cq0t6HFg2UeAEqwED7ezE"
+        "name": "Br\u00e5tebrann",
+        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
       },
       "artists": [
         {
-          "name": "Susanne Sundf\u00f8r",
-          "url": "https://open.spotify.com/artist/54KCNI7URCrG6yjQK3Ukow"
+          "name": "Moddi",
+          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
         }
       ],
-      "duration_ms": 299840,
-      "name": "bl\u00f3mi",
-      "url": "https://open.spotify.com/track/6V4rQnyEzcBefZdUqrNV80"
+      "duration_ms": 146573,
+      "name": "Ei ny tid",
+      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -903,18 +919,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Br\u00e5tebrann",
-        "url": "https://open.spotify.com/album/2KZF4X0awI3SD4xY8tWVzP"
+        "name": "Never Gonna Walk Away",
+        "url": "https://open.spotify.com/album/4K0icHEX4XQf9PAeP5fiXI"
       },
       "artists": [
         {
-          "name": "Moddi",
-          "url": "https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM"
+          "name": "Alberta Cross",
+          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
         }
       ],
-      "duration_ms": 146573,
-      "name": "Ei ny tid",
-      "url": "https://open.spotify.com/track/2tK1DxbYpBl4x5sp7wJJFi"
+      "duration_ms": 258010,
+      "name": "Never Gonna Walk Away",
+      "url": "https://open.spotify.com/track/2rhiLjBezGsTb5eZHlhVYM"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -951,22 +967,6 @@
       "duration_ms": 204306,
       "name": "Hindsight",
       "url": "https://open.spotify.com/track/1oNhUK7wYAITgmDiAFoKYZ"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Never Gonna Walk Away",
-        "url": "https://open.spotify.com/album/4K0icHEX4XQf9PAeP5fiXI"
-      },
-      "artists": [
-        {
-          "name": "Alberta Cross",
-          "url": "https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq"
-        }
-      ],
-      "duration_ms": 258010,
-      "name": "Never Gonna Walk Away",
-      "url": "https://open.spotify.com/track/2rhiLjBezGsTb5eZHlhVYM"
     },
     {
       "added_at": "2024-04-18 22:00:00",

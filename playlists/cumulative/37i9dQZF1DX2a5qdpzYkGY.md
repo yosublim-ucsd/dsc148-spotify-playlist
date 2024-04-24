@@ -4,7 +4,7 @@
 
 > a journey through ephemeral moments
 
-264 songs - 21 hr 32 min
+265 songs - 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [CHEERUP](https://open.spotify.com/track/0IGagxrKmGDa7xRV0YjQiQ) | [Daniel Blumberg](https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj) | [CHEERUP](https://open.spotify.com/album/1m2KojkhTNWKcmXKPXuVQA) | 6:40 | 2023-04-12 | 2023-05-13 |
 | [Chiller](https://open.spotify.com/track/5mxRn2DiaRSIXBfNzS8PXV) | [Joardy Film](https://open.spotify.com/artist/7Aewol67hxDlXPDWKxKOs7), [Jesper Ankarfeldt](https://open.spotify.com/artist/6nIiixQiQwmApBIxLxpngw) | [HARCO](https://open.spotify.com/album/50B1RdfFTwwUs7HyAO3SeO) | 0:50 | 2022-01-12 | 2022-07-29 |
 | [City And Stars](https://open.spotify.com/track/3izlb8FfD98UxYM7TnzLdF) | [Zeitgeist Freedom Energy Exchange](https://open.spotify.com/artist/2qDY4ib71XUC2Lo87r6HdM) | [Sci\-Fi Jazz Directions](https://open.spotify.com/album/0HD8XFL6F0sWMA73qPf78M) | 6:00 | 2022-09-12 | 2022-11-18 |
-| [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 | 2021-10-06 |  |
+| [City Of Red Sand](https://open.spotify.com/track/5pQI4osudR5207IiprBP7J) | [Marc Barreca](https://open.spotify.com/artist/6jpmlBMb9q7F75J0yFxOnh) | [The Empty Bridge](https://open.spotify.com/album/2ZTO0VErlT8DV5HLPdTVS6) | 6:43 | 2021-10-06 | 2024-04-24 |
 | [Club silencio](https://open.spotify.com/track/4xQRMOuDBQUfD0rs07gkeb) | [A.V.E.](https://open.spotify.com/artist/5kzFsN1SWxs4DQ0VnBo6VM) | [Entre buitres](https://open.spotify.com/album/5cU7paVZzS13Ndn1QNBOM4) | 4:35 | 2022-02-18 | 2022-07-28 |
 | [Coney Island](https://open.spotify.com/track/1CtOu0i3Qvzi2HeIW1PHiT) | [Raf21](https://open.spotify.com/artist/5fzZ93Y7teAEqppKqLAlR8), [opeNWave](https://open.spotify.com/artist/7pV6agydHiqJBhvSXuvS7O) | [In Tenebris](https://open.spotify.com/album/5og8EEI2vJIayYOtqLCKPg) | 3:14 | 2022-02-18 | 2022-07-29 |
 | [Confessions Pt\. II](https://open.spotify.com/track/0leupRPZ98IZxDRLFbfH3W) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Colin Stetson](https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8) | [IV](https://open.spotify.com/album/5wAGlQICfKYQfaBppnUbmP) | 6:24 | 2021-10-06 | 2024-04-19 |
@@ -272,5 +272,6 @@
 | [YOGA IN KARACHI](https://open.spotify.com/track/1zyTxC7CrrT39YSg6bCZET) | [C.A.R.](https://open.spotify.com/artist/4twUXuOT8MWkh7u53TX0si) | [Befunde ab 1999](https://open.spotify.com/album/7a4Kf2VYhvrby4IcTzJMnq) | 8:47 | 2021-10-06 | 2024-02-02 |
 | [You Want Dark Tunes?](https://open.spotify.com/track/5sIYyLglAXMRVkhi5IxAwP) | [Ave Air](https://open.spotify.com/artist/2P6DMnuFgtU6UWuxTcF5nU) | [Twin Solar Sunrise](https://open.spotify.com/album/2bwyKZAU4AjrsS3YF5gFhE) | 4:57 | 2021-10-06 | 2022-08-04 |
 | [Áss hinn hvíti \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/track/2ob0iTK6vtyRpc66pnQgzW) | [Sigur Rós](https://open.spotify.com/artist/6UUrUCIZtQeOf8tC0WuzRy), [Hilmar Örn Hilmarsson](https://open.spotify.com/artist/3p5cqyRrl8N8aYx2yMKBB1), [Maria Huld Markan Sigfúsdóttir](https://open.spotify.com/artist/5av1vXlTFqanXU3g9k4tlQ), [Steindór Andersen](https://open.spotify.com/artist/1q1JhA8NmMYJhIPHKtlFwg) | [Odin's Raven Magic \(with Steindór Andersen, Hilmar Örn Hilmarsson and María Huld Markan Sigfúsdóttir\)](https://open.spotify.com/album/1Eaq9sameAA3etJDxMEJJ6) | 5:09 | 2021-10-06 |  |
+| [Сaleidoscópio](https://open.spotify.com/track/2UgfkEkswqRd5utZHJQImI) | [Misha Panfilov](https://open.spotify.com/artist/2mLgv6MF6Te16Qv6VOqx5p) | [Atlântico](https://open.spotify.com/album/6QkPq5Kq4T5g5OGBgI7ImR) | 7:53 | 2024-04-23 |  |
 
 \*This playlist was first scraped on 2022-05-26. Prior content cannot be recovered.

@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 197623,
+  "num_followers": 197685,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDBmOGE5ODJmMDE4NGMxMDQzYTRiMWY2MGU4YWVkOTcy",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDVmOTc5ODhmODAyOGYyOTA4NjAwODEyZWRjMGVkNjg1",
   "tracks": [
     {
       "added_at": null,
@@ -915,6 +915,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Archivo Privado",
+        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 147506,
+      "name": "Estrategias De Escape",
+      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "No Soy De Modas",
         "url": "https://open.spotify.com/album/2SdmqBcmimSz8LYusIYWzR"
       },
@@ -931,22 +947,6 @@
       "duration_ms": 191087,
       "name": "No Soy De Modas",
       "url": "https://open.spotify.com/track/6zIuZ3d2omLHovvVAzoCKb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 147506,
-      "name": "Estrategias De Escape",
-      "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
     }
   ],
   "unique_name": "This Is El Komander",

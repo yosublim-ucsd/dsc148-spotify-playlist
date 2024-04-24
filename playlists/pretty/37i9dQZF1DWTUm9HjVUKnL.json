@@ -1,13 +1,45 @@
 {
   "description": "The full collection of Spotify Singles recordings. Cover: Sabrina Carpenter",
-  "num_followers": 219221,
+  "num_followers": 219171,
   "original_name": "Spotify Singles: Complete Collection",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzUzNjkzMywwMDAwMDAwMDBjOGYyYzZjZDU0ZWNkZWYzY2E1OWMzMWRlYjU4Mjgx",
+  "snapshot_id": "MTcxMzk3MjA5OSwwMDAwMDAwMDlmYjk1MWM3MDk5OGEzOGZjMzQxODQzMmFjNGUzZWI0",
   "tracks": [
+    {
+      "added_at": "2024-04-24 15:21:39",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 177770,
+      "name": "See My Man - Spotify Singles",
+      "url": "https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB"
+    },
+    {
+      "added_at": "2024-04-24 15:21:39",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm"
+      },
+      "artists": [
+        {
+          "name": "Trixie Mattel",
+          "url": "https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc"
+        }
+      ],
+      "duration_ms": 206000,
+      "name": "Shadow - Spotify Singles",
+      "url": "https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr"
+    },
     {
       "added_at": "2024-04-19 14:28:53",
       "album": {
@@ -10557,7 +10589,7 @@
         }
       ],
       "duration_ms": 278611,
-      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
+      "name": "Hannah Hunt",
       "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {

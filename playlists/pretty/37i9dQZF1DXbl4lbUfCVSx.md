@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 
 > Sa k'ap fèt! Enjoy Haiti’s national music, a smooth modern méringue sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,446 likes - 40 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,456 likes - 40 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbl4lbUfCVSx.md) - [plain]
 | 30 | [Is It Real?](https://open.spotify.com/track/2i4lLBucZUbHunIH7maIst) | [Arly Lariviere](https://open.spotify.com/artist/4JWyqE3lyeBUiyMATTBw4o) | [Encyclopedie](https://open.spotify.com/album/1RI9JdAdq2TMcJh7LiMle9) | 6:42 |
 | 31 | [Di'm Kibò'w Vle'l \#Quickie](https://open.spotify.com/track/6CEJsCNgCBr47PmEGD01cp) | [X\-tassy](https://open.spotify.com/artist/4ZnUHVxaahHmKCdy6U9u3D) | [Motivation](https://open.spotify.com/album/2Ybmb9XATCj15djpbLGkNr) | 4:24 |
 | 32 | [Kilot](https://open.spotify.com/track/33uWg45QHtMCgnTJLxQlJ5) | [5Lan](https://open.spotify.com/artist/5soBVwhSyJeROoyNhL5MXi), [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Alan Cavé](https://open.spotify.com/artist/1tNzo7FgikOLSyk1xf3cR2) | [Kilot](https://open.spotify.com/album/4YJhcOZ1ASsZiPpd5d3vcl) | 5:09 |
-| 33 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |
-| 34 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 |
+| 33 | [Cheri Benyen M'](https://open.spotify.com/track/2wg48LXBy2TNxgx72sxGEj) | [Harmonik](https://open.spotify.com/artist/0KomIqZPBLFTG5z91hF4oH) | [Degaje](https://open.spotify.com/album/3q3vXVwU55ObsDXQwI1jaF) | 4:31 |
+| 34 | [Ou pati](https://open.spotify.com/track/6XgdKZf82J33tAP0YS9P0H) | [Michael Benjamin](https://open.spotify.com/artist/52VwD4wxGVLUXz3PUqkasQ) | [Haïtian Troubadours, Vol\. 1](https://open.spotify.com/album/0gMbuFQPGCZSvreF1RDW5Y) | 4:28 |
 | 35 | [Habitude](https://open.spotify.com/track/15JpAtwpoGJ91RsCKDXUWo) | [Djakout \#1](https://open.spotify.com/artist/0XW6Y1dbl3dJgPvISUw53P) | [Nou Pap Dòmi Deyò: Ou Pa Kontan,Vi’n Bat Mwen](https://open.spotify.com/album/2KC8MqpWgZXqCXKax361Np) | 5:32 |
 | 36 | [Fè Sa W Vle Avè M'](https://open.spotify.com/track/4NqjBifd47mrbbieZ0KNkz) | [K\-Zino](https://open.spotify.com/artist/0ByJbRK16DdCPnCztvgtuW) | [Transition](https://open.spotify.com/album/2wsl13HiIsHw6wgACS87Tp) | 4:07 |
 | 37 | [Wet the hell map vini \- Zouk](https://open.spotify.com/track/3jTIX1lylzAwOIdBjZC3t2) | [Zo Konpa](https://open.spotify.com/artist/5ZAbRapf7rFYPjxPYuQlG5) | [Mete'm alez](https://open.spotify.com/album/0EbHjaICJ8Zzrj7wwjl2ep) | 4:53 |

@@ -2,7 +2,7 @@
 
 ### [This Is Kaliii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO17rZzq)
 
-> This is Kaliii。アーティストの代表曲をひとつのプレイリストに。
+> This is Kaliii\. The essential tracks, all in one playlist.
 
 72 songs - 4 hr 28 min
 

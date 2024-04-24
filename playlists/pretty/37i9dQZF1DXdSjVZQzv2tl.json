@@ -1,12 +1,12 @@
 {
   "description": "O melhor do sertanejo em uma s\u00f3 playlist! Foto: Hugo & Guilherme, Maiara & Mara\u00edsa",
-  "num_followers": 7642492,
+  "num_followers": 7636577,
   "original_name": "Esquenta Sertanejo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5NTc4MCwwMDAwMDAwMGU2M2MxNGM5MTcyZTcyNjlhZWVkMDZhMTM2MDE2NDMx",
+  "snapshot_id": "MTcxMzk3NjAxMCwwMDAwMDAwMDU1ODI2Y2QyNDViZDFlYjM3YWQ1NTRkNjg2MDgzZWVl",
   "tracks": [
     {
       "added_at": "2024-04-19 03:03:00",
@@ -27,6 +27,22 @@
       "duration_ms": 166804,
       "name": "Morena De Goi\u00e2nia - Ao Vivo",
       "url": "https://open.spotify.com/track/1WHDOr19zyyqu6XXIvdgfX"
+    },
+    {
+      "added_at": "2024-04-19 03:03:00",
+      "album": {
+        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
+      },
+      "artists": [
+        {
+          "name": "Felipe e Rodrigo",
+          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
+        }
+      ],
+      "duration_ms": 171335,
+      "name": "Gosta De Rua - Ao Vivo",
+      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
     },
     {
       "added_at": "2024-04-19 03:03:00",
@@ -103,50 +119,18 @@
     {
       "added_at": "2024-04-19 03:03:00",
       "album": {
-        "name": "Digitando",
-        "url": "https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM"
+        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
       },
       "artists": [
         {
-          "name": "Gustavo Moura & Rafael",
-          "url": "https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T"
+          "name": "Simone Mendes",
+          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
         }
       ],
-      "duration_ms": 195748,
-      "name": "Digitando",
-      "url": "https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI"
-    },
-    {
-      "added_at": "2024-04-19 03:03:00",
-      "album": {
-        "name": "Quest\u00e3o de Tempo (Ao Vivo / Vol.2)",
-        "url": "https://open.spotify.com/album/2TGnkCFVDWQ444lFDVxyT9"
-      },
-      "artists": [
-        {
-          "name": "Felipe e Rodrigo",
-          "url": "https://open.spotify.com/artist/7gZu6kPnY9enEi5FvgTO4F"
-        }
-      ],
-      "duration_ms": 171335,
-      "name": "Gosta De Rua - Ao Vivo",
-      "url": "https://open.spotify.com/track/1cIS13bqNfZcTs8LSK8r0a"
-    },
-    {
-      "added_at": "2024-04-19 03:03:00",
-      "album": {
-        "name": "Escolhas, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Neto & Cristiano",
-          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
-        }
-      ],
-      "duration_ms": 133546,
-      "name": "Barulho Do Foguete - Ao Vivo",
-      "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
+      "duration_ms": 189440,
+      "name": "Dois Tristes - Ao Vivo",
+      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
     },
     {
       "added_at": "2024-04-19 03:03:00",
@@ -179,6 +163,38 @@
       "duration_ms": 164240,
       "name": "Vazou Na Braquiara - Ao Vivo",
       "url": "https://open.spotify.com/track/1ZtgnRr4uKMOoCzP4vnQDl"
+    },
+    {
+      "added_at": "2024-04-19 03:03:00",
+      "album": {
+        "name": "Deu Moral (Ao Vivo)",
+        "url": "https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "duration_ms": 122169,
+      "name": "Deu Moral - Ao Vivo",
+      "url": "https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp"
+    },
+    {
+      "added_at": "2024-04-19 03:03:00",
+      "album": {
+        "name": "Digitando",
+        "url": "https://open.spotify.com/album/1aPgUsmZYO2HRb6QkaZvpM"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Moura & Rafael",
+          "url": "https://open.spotify.com/artist/2KZFvVVk9lxD85USaOv76T"
+        }
+      ],
+      "duration_ms": 195748,
+      "name": "Digitando",
+      "url": "https://open.spotify.com/track/3QpDKVHmf9RDQkJbAUNWzI"
     },
     {
       "added_at": "2024-04-19 03:03:00",
@@ -231,22 +247,6 @@
       "duration_ms": 192156,
       "name": "Calafrio (feat. Henrique & Juliano) - Ao Vivo | B\u00f4nus Track",
       "url": "https://open.spotify.com/track/2pRjaIcGc9LOmu7x9XMswA"
-    },
-    {
-      "added_at": "2024-04-19 03:03:00",
-      "album": {
-        "name": "Cantando Sua Hist\u00f3ria (Ao Vivo / Vol.1)",
-        "url": "https://open.spotify.com/album/14BMySBTWlLEkqQcUEpdtk"
-      },
-      "artists": [
-        {
-          "name": "Simone Mendes",
-          "url": "https://open.spotify.com/artist/2eK9gcJQ6uqVvJL63dnOM3"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Dois Tristes - Ao Vivo",
-      "url": "https://open.spotify.com/track/4kQbzdZLAeqlrw3y7o4k3i"
     },
     {
       "added_at": "2024-04-19 03:03:00",
@@ -371,8 +371,8 @@
     {
       "added_at": "2024-04-19 03:03:00",
       "album": {
-        "name": "Deu Moral (Ao Vivo)",
-        "url": "https://open.spotify.com/album/15pXNSKEOHeM0sN1NMtPzy"
+        "name": "Escolhas, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3a6T0jJ6mF4KpBYvKH5o7Z"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
         }
       ],
-      "duration_ms": 122169,
-      "name": "Deu Moral - Ao Vivo",
-      "url": "https://open.spotify.com/track/0WiJIa3V9GdcJfcy1FhLjp"
+      "duration_ms": 133546,
+      "name": "Barulho Do Foguete - Ao Vivo",
+      "url": "https://open.spotify.com/track/42JNab8NPeCADJ9D3Cl5wS"
     },
     {
       "added_at": "2024-04-19 03:03:00",

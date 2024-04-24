@@ -1,12 +1,12 @@
 {
-  "description": "This is Mc Dricka\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 34522,
+  "description": "This is Mc Dricka. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 34515,
   "original_name": "This Is Mc Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGMyNjQzNGRkMmI2ODRlMTYwZDdlNDhmMDdhZmFiN2Ex",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGQ0NzFiMmUyZmE5Y2FmYWJiZmVmZjVmMmZhM2RjYWEz",
   "tracks": [
     {
       "added_at": null,
@@ -891,30 +891,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Guias e Ondas (Deluxe) [Ao Vivo]",
-        "url": "https://open.spotify.com/album/6WYmfXGrDk2qWsJwTXkq84"
-      },
-      "artists": [
-        {
-          "name": "Gaab",
-          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
-        },
-        {
-          "name": "MC G15",
-          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 242762,
-      "name": "4K - Ao Vivo",
-      "url": "https://open.spotify.com/track/5A2y5UOgdzXLRtJBW25vRi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Porque Elas Te Preferem",
         "url": "https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr"
       },
@@ -935,6 +911,30 @@
       "duration_ms": 160000,
       "name": "Porque Elas Te Preferem",
       "url": "https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Guias e Ondas (Deluxe) [Ao Vivo]",
+        "url": "https://open.spotify.com/album/6WYmfXGrDk2qWsJwTXkq84"
+      },
+      "artists": [
+        {
+          "name": "Gaab",
+          "url": "https://open.spotify.com/artist/2iK1rsbYstkSVn57M4s8ut"
+        },
+        {
+          "name": "MC G15",
+          "url": "https://open.spotify.com/artist/3Nipsl6GVwwGyeAk0J29C6"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 242762,
+      "name": "4K - Ao Vivo",
+      "url": "https://open.spotify.com/track/5A2y5UOgdzXLRtJBW25vRi"
     },
     {
       "added_at": null,
@@ -1203,26 +1203,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quarentena do Trator",
-        "url": "https://open.spotify.com/album/5JIKChGTkrJIMvDHqSDXa2"
-      },
-      "artists": [
-        {
-          "name": "Dod\u00f4 Press\u00e3o",
-          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 153596,
-      "name": "Empurra Empurra",
-      "url": "https://open.spotify.com/track/5mnH5NY1gMOPIPylBdNkR6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De 38 Carregado Arrochadeira",
         "url": "https://open.spotify.com/album/32ITaOUF5DKA4yOqy1WUXL"
       },
@@ -1239,6 +1219,26 @@
       "duration_ms": 108387,
       "name": "De 38 Carregado Arrochadeira (feat. Mc Dricka)",
       "url": "https://open.spotify.com/track/4OkTHc1uouLNe0XUSEE0Lf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quarentena do Trator",
+        "url": "https://open.spotify.com/album/5JIKChGTkrJIMvDHqSDXa2"
+      },
+      "artists": [
+        {
+          "name": "Dod\u00f4 Press\u00e3o",
+          "url": "https://open.spotify.com/artist/239tGNfFtP07aQ07ZrbTGz"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 153596,
+      "name": "Empurra Empurra",
+      "url": "https://open.spotify.com/track/5mnH5NY1gMOPIPylBdNkR6"
     },
     {
       "added_at": null,
@@ -1331,38 +1331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bh no Topo 2",
-        "url": "https://open.spotify.com/album/6xn79ltvd8322T69fIS6OA"
-      },
-      "artists": [
-        {
-          "name": "MC Saci",
-          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
-        },
-        {
-          "name": "Mc Vitera",
-          "url": "https://open.spotify.com/artist/5mr05eYTzL2oMCHdrezu5d"
-        },
-        {
-          "name": "MC Braian",
-          "url": "https://open.spotify.com/artist/1eQZtSbuI8HDvaA2dtPzF1"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        }
-      ],
-      "duration_ms": 189152,
-      "name": "Bh no Topo 2",
-      "url": "https://open.spotify.com/track/5I81jhsQaycXS0qS8bvLHc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CORO COM CO\u00c7A",
         "url": "https://open.spotify.com/album/1mJUlfDXB7F62HqNsvJ9f8"
       },
@@ -1395,6 +1363,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bh no Topo 2",
+        "url": "https://open.spotify.com/album/6xn79ltvd8322T69fIS6OA"
+      },
+      "artists": [
+        {
+          "name": "MC Saci",
+          "url": "https://open.spotify.com/artist/0kj68SnX4WCXwveyBbRX8p"
+        },
+        {
+          "name": "Mc Vitera",
+          "url": "https://open.spotify.com/artist/5mr05eYTzL2oMCHdrezu5d"
+        },
+        {
+          "name": "MC Braian",
+          "url": "https://open.spotify.com/artist/1eQZtSbuI8HDvaA2dtPzF1"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        }
+      ],
+      "duration_ms": 189152,
+      "name": "Bh no Topo 2",
+      "url": "https://open.spotify.com/track/5I81jhsQaycXS0qS8bvLHc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Me Olha e Me Respeita",
         "url": "https://open.spotify.com/album/5FLaB2xyi6hTbChqTCwhz4"
       },
@@ -1407,26 +1407,6 @@
       "duration_ms": 163636,
       "name": "Me Olha e Me Respeita",
       "url": "https://open.spotify.com/track/54lVq8a1jLw9SQAM8ilIv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Colocadinha",
-        "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
-      },
-      "artists": [
-        {
-          "name": "Argentino No Beat",
-          "url": "https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv"
-        },
-        {
-          "name": "Mc Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 143085,
-      "name": "Colocadinha",
-      "url": "https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB"
     },
     {
       "added_at": null,
@@ -1463,6 +1443,26 @@
       "duration_ms": 136615,
       "name": "Vida do Crime",
       "url": "https://open.spotify.com/track/4XzzsqCYlcm1wGJM8oI01h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colocadinha",
+        "url": "https://open.spotify.com/album/1BzI9XaLvtBy1BdklTSQd1"
+      },
+      "artists": [
+        {
+          "name": "Argentino No Beat",
+          "url": "https://open.spotify.com/artist/34M7UdepuokkiSNHjB4opv"
+        },
+        {
+          "name": "Mc Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 143085,
+      "name": "Colocadinha",
+      "url": "https://open.spotify.com/track/6GWe9a8eVDNecYYMvWy0XB"
     }
   ],
   "unique_name": "This Is Mc Dricka",

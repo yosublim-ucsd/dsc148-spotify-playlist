@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 
 > This is Lourena\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,254 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,250 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1VkTcy.md) - [plain]
 | 43 | [Nosso Relacionamento](https://open.spotify.com/track/7jV67Bz9qRkk57FMedir8S) | [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Nosso Relacionamento](https://open.spotify.com/album/62gdsfaMG7QcgI2f9mG6xF) | 3:20 |
 | 44 | [Chore Não](https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Chore Não](https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn) | 2:56 |
 | 45 | [Tudo Vai Mudar](https://open.spotify.com/track/2OXY2pkzwIBWxE8vPMB829) | [Rap Box](https://open.spotify.com/artist/5FEcNzwbLj2pvhgZFojYAp), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Tudo Vai Mudar](https://open.spotify.com/album/1Zk0KKqRWihfdboFzblnwt) | 2:53 |
-| 46 | [Fogo](https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Fogo](https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2) | 3:01 |
-| 47 | [Até o Mundo Acabar](https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Até o Mundo Acabar](https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm) | 3:24 |
+| 46 | [Até o Mundo Acabar](https://open.spotify.com/track/258gDjrmgUzuWkNXqdIAQP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Léo Casa 1](https://open.spotify.com/artist/5CLH6SMhWas8Ed7W9YZjJD) | [Até o Mundo Acabar](https://open.spotify.com/album/3wse1sgsXwXB74OhpxCKgm) | 3:24 |
+| 47 | [Fogo](https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Caio Passos](https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di), [Gustah](https://open.spotify.com/artist/0nzfP49X2nrzmmkwZf180L) | [Fogo](https://open.spotify.com/album/0Dq73RiJuh4EF4GRIYgLO2) | 3:01 |
 | 48 | [Fake](https://open.spotify.com/track/6EQlEImXmyV3vtbUXjBlr6) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Fake](https://open.spotify.com/album/1D9ujYdSlTdYgvndgCn8gx) | 2:36 |
 | 49 | [1910](https://open.spotify.com/track/7HKydihmOppbDnnLlSJAbF) | [Azzy](https://open.spotify.com/artist/1uf8uSErmKc3JVtmjVBZ83), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [NaBrisa](https://open.spotify.com/artist/6hsjrcWvWqeIJaEUa9Fh3c), [Nobru Black](https://open.spotify.com/artist/5t7bPHYwPWyUo2J0RBUiy7), [Thai Flow](https://open.spotify.com/artist/5Ag6yKoGGYp66o9vtpH89s), [Gabz](https://open.spotify.com/artist/0CZUWwdL2ORR99b91hqjdq) | [1910](https://open.spotify.com/album/2OpL0wEz7H75Yb62PLNF9g) | 8:37 |
 | 50 | [Flutua](https://open.spotify.com/track/3gsrsMy7PHTaEy0y6vzEVP) | [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Haga](https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o) | [Flutua](https://open.spotify.com/album/5EYFf8QgpN3KTGGTlxkuku) | 3:23 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGMwYjM5YWE0NjlkNGFmZDkzMzNjOWQzNGM0MWQ1NzYy`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGIwOGQzMDBkZTI3YjE2YjdhOGRlNzhjZWRiZDhiMWRl`

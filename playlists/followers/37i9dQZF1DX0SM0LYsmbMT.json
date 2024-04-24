@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 2201276,
+  "2024-04-24": 2201214,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -10981,6 +10981,28 @@
       "duration_ms": 151357,
       "name": "Caps",
       "url": "https://open.spotify.com/track/1VvJrVBlqNrBxXdy1akslD"
+    },
+    {
+      "album": {
+        "name": "Capybara Spa",
+        "url": "https://open.spotify.com/album/4N28xaQ7I9q115v9znKzmk"
+      },
+      "artists": [
+        {
+          "name": "Snooze Operator",
+          "url": "https://open.spotify.com/artist/5qtHCB1wotOjSqqexujcbk"
+        },
+        {
+          "name": "Grmmr.126",
+          "url": "https://open.spotify.com/artist/5I9DfXCEBU6PwpWqnySRYK"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118518,
+      "name": "Capybara Spa",
+      "url": "https://open.spotify.com/track/5kSpG7KnpcN3aSvpJ82ydo"
     },
     {
       "album": {
@@ -35983,7 +36005,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 72752,
       "name": "Keep Moving",
       "url": "https://open.spotify.com/track/2W2d4IiC8wVvd9uzNaI4h4"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Ryan Castro.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,963 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,968 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 20 | [Tokyo](https://open.spotify.com/track/3uCspcbDztT97O4NOSLzLW) | [Dani J](https://open.spotify.com/artist/3TEhIeweC59okLmqFu6LWv) | [Tokyo](https://open.spotify.com/album/2yTVsta2Kf8ITZAgHF0zC4) | 3:09 |
 | 21 | [El Arbolito](https://open.spotify.com/track/7fZVIkFqAf28rGEvgaCy5Q) | [Don Medardo y sus Players Mauricio Luzuriaga](https://open.spotify.com/artist/3FrdNjfGP8dYVSidGYRFDP), [Deyvis Orosco](https://open.spotify.com/artist/4Ys2BviobiudpEXEgVtdlV), [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [El Arbolito](https://open.spotify.com/album/1kBEFQc1lZuNRTmW74Q66I) | 3:24 |
 | 22 | [Mismo Error](https://open.spotify.com/track/0R2wIS2XiKpiSz9RubneBP) | [Mr\. Don](https://open.spotify.com/artist/12YP3RGVLp3c36Zi6lFRtR), [DerekVinci](https://open.spotify.com/artist/7du7SizqDeaP96ds19p1yu) | [Mismo Error](https://open.spotify.com/album/0PwT45LwSSgOk93unwJGxz) | 3:19 |
-| 23 | [POR LO CONTRARIO \- MIL PREGUNTAS \- En vivo](https://open.spotify.com/track/4p3x3vKr0dsT9Hnnrzr0pN) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [POR LO CONTRARIO \- MIL PREGUNTAS \(En vivo\)](https://open.spotify.com/album/5nBjHgR1cTrvw0Qc15DiB7) | 2:49 |
+| 23 | [POR EL CONTRARIO / MIL PREGUNTAS \- En Vivo](https://open.spotify.com/track/4p3x3vKr0dsT9Hnnrzr0pN) | [Omega](https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK) | [POR EL CONTRARIO / MIL PREGUNTAS \(En Vivo\)](https://open.spotify.com/album/5nBjHgR1cTrvw0Qc15DiB7) | 2:49 |
 | 24 | [¿Quién de Ustedes?](https://open.spotify.com/track/0uZDAWitKcqqtq5nUcXn1w) | [Ralphy Dreamz](https://open.spotify.com/artist/5elxYg57OGXnqXm6wZDmvm) | [No Me Importa](https://open.spotify.com/album/4BsrrIsCrOVGmIzGYHTWEd) | 3:06 |
 | 25 | [Sol Negro](https://open.spotify.com/track/0xV04jMTXZmX6k7TXzgk2J) | [Chacho Ramos](https://open.spotify.com/artist/7Bl9s8h4F1jcX1aJYHBpfm) | [Sol Negro](https://open.spotify.com/album/2hro2XPX4iGmQ8NJUakyAq) | 4:25 |
 | 26 | [Quítame La Ropa](https://open.spotify.com/track/5KB0YKVlQdQKJi7aHInwTr) | [Mia Mont](https://open.spotify.com/artist/49WIvZvQmpwkFDggpQGRV4), [Ed The Producer](https://open.spotify.com/artist/10mRYEnnSQpO5MLUd7A038) | [Quítame La Ropa](https://open.spotify.com/album/2IUs6pHgrak12euOP7lY4z) | 2:47 |

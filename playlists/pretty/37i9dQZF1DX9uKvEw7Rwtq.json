@@ -1,6 +1,6 @@
 {
   "description": "Soaring soundscapes from the most epic Post-Rock artists.",
-  "num_followers": 94852,
+  "num_followers": 94930,
   "original_name": "Ambient Post-Rock",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Signals",
-        "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
-      },
-      "artists": [
-        {
-          "name": "Marconi Union",
-          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
-        }
-      ],
-      "duration_ms": 361760,
-      "name": "A Citizen's Dream",
-      "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Hex",
         "url": "https://open.spotify.com/album/7j98uMKCZuBQU1SPcrQAxP"
       },
@@ -271,6 +255,22 @@
       "duration_ms": 593866,
       "name": "Pendulum Man",
       "url": "https://open.spotify.com/track/31rWHoaORhEfXqqr6y48Hm"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Signals",
+        "url": "https://open.spotify.com/album/1z6YgGKHAEJ9FIV93LP4SI"
+      },
+      "artists": [
+        {
+          "name": "Marconi Union",
+          "url": "https://open.spotify.com/artist/3nZ3ed6p4CKc1McTLypr6H"
+        }
+      ],
+      "duration_ms": 361760,
+      "name": "A Citizen's Dream",
+      "url": "https://open.spotify.com/track/2ehLNjSUtNeq82kVqDqC2F"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -343,18 +343,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Reanimation",
-        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
+        "name": "Love Is...",
+        "url": "https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn"
       },
       "artists": [
         {
-          "name": "Lights & Motion",
-          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
+          "name": "The Best Pessimist",
+          "url": "https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ"
         }
       ],
-      "duration_ms": 132472,
-      "name": "Requiem",
-      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
+      "duration_ms": 526120,
+      "name": "Above the Fog (Pt.2)",
+      "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -375,18 +375,18 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Love Is...",
-        "url": "https://open.spotify.com/album/5RQJ2Gk1ep33nVpWZCNivn"
+        "name": "Reanimation",
+        "url": "https://open.spotify.com/album/6L0fhAi5G9zXbmFelO96Zy"
       },
       "artists": [
         {
-          "name": "The Best Pessimist",
-          "url": "https://open.spotify.com/artist/6W4aup6f745SyZe2vShUnZ"
+          "name": "Lights & Motion",
+          "url": "https://open.spotify.com/artist/3ff1CmU6qfTqRAmdrq8EEG"
         }
       ],
-      "duration_ms": 526120,
-      "name": "Above the Fog (Pt.2)",
-      "url": "https://open.spotify.com/track/4cjRiT6COzETZ3mWQXydnr"
+      "duration_ms": 132472,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/6M8tLLip6IdSyr8unJMFxP"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -439,6 +439,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "These Small Spaces",
+        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
+      },
+      "artists": [
+        {
+          "name": "This Patch of Sky",
+          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
+        }
+      ],
+      "duration_ms": 419333,
+      "name": "Her Beating Wings",
+      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "Healing Is A Miracle",
         "url": "https://open.spotify.com/album/4GaLdSDDbRK0CoJKSnihbo"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 366290,
       "name": "In Light",
       "url": "https://open.spotify.com/track/3de74WrhYh5VKf6t86acCb"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "These Small Spaces",
-        "url": "https://open.spotify.com/album/7ACcoSiFkGjT3TlntaogzB"
-      },
-      "artists": [
-        {
-          "name": "This Patch of Sky",
-          "url": "https://open.spotify.com/artist/5SizWbJ5S7KxIR8e07jvqf"
-        }
-      ],
-      "duration_ms": 419333,
-      "name": "Her Beating Wings",
-      "url": "https://open.spotify.com/track/2FGsWazGl3pdFX1kNk2NY1"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -559,22 +559,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Into The Mountains",
-        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
-      },
-      "artists": [
-        {
-          "name": "Dan Caine",
-          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
-        }
-      ],
-      "duration_ms": 203012,
-      "name": "The Sun In The Trees",
-      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Timewave Zero",
         "url": "https://open.spotify.com/album/6MGQlAscBNKcBRX3VqkrvZ"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 441386,
       "name": "Ea: First Movement",
       "url": "https://open.spotify.com/track/2tbGBZ6TpqSVnk0TTOMsTP"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Into The Mountains",
+        "url": "https://open.spotify.com/album/1o5rlkGEnurky28y0aNk15"
+      },
+      "artists": [
+        {
+          "name": "Dan Caine",
+          "url": "https://open.spotify.com/artist/0r5LxNZiRy5s6to6o2Uy5A"
+        }
+      ],
+      "duration_ms": 203012,
+      "name": "The Sun In The Trees",
+      "url": "https://open.spotify.com/track/6lowTdwj7REPPWwq7xExRS"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Mockingbird Love",
-        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
-      },
-      "artists": [
-        {
-          "name": "Robin Guthrie",
-          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
-        }
-      ],
-      "duration_ms": 173853,
-      "name": "My Courtesan",
-      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Dreamer",
         "url": "https://open.spotify.com/album/1faB36WLHliVa6xqjzTtcu"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 332293,
       "name": "Sleeper",
       "url": "https://open.spotify.com/track/6BaIyArPOHgL2tvLFJ2mws"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Mockingbird Love",
+        "url": "https://open.spotify.com/album/78iqh8E1w21f5RxVUNXPuq"
+      },
+      "artists": [
+        {
+          "name": "Robin Guthrie",
+          "url": "https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC"
+        }
+      ],
+      "duration_ms": 173853,
+      "name": "My Courtesan",
+      "url": "https://open.spotify.com/track/3Mpwsnfe7Q6AspY7aM7qvF"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -839,22 +839,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Dragoon",
-        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
-      },
-      "artists": [
-        {
-          "name": "Amparo",
-          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
-        }
-      ],
-      "duration_ms": 183050,
-      "name": "Dragoon",
-      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "The American Dollar",
         "url": "https://open.spotify.com/album/3t9U8bBmsP58lh36ujoweF"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 199813,
       "name": "Peterson",
       "url": "https://open.spotify.com/track/7gfMja30N1mYv2P0RWRXyE"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Dragoon",
+        "url": "https://open.spotify.com/album/4zZR5AnYdvyChSGy0aEGEp"
+      },
+      "artists": [
+        {
+          "name": "Amparo",
+          "url": "https://open.spotify.com/artist/55FRGLGEoc58o9fNM6gEdf"
+        }
+      ],
+      "duration_ms": 183050,
+      "name": "Dragoon",
+      "url": "https://open.spotify.com/track/6LGFTYASAcu8YMCcAwRG2g"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1143,6 +1143,22 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
+        "name": "Screen Time",
+        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
+      },
+      "artists": [
+        {
+          "name": "Thurston Moore",
+          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
+        }
+      ],
+      "duration_ms": 164453,
+      "name": "The Station",
+      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
         "name": "Horizon",
         "url": "https://open.spotify.com/album/2FnyPVqxMi3DhDL9Ms53we"
       },
@@ -1159,22 +1175,6 @@
       "duration_ms": 256026,
       "name": "Open Hill",
       "url": "https://open.spotify.com/track/5z8WzfZK6sapGFHOUYxbHW"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
-        "name": "Screen Time",
-        "url": "https://open.spotify.com/album/5JjJ2cviD6DcyIWRqXX4x3"
-      },
-      "artists": [
-        {
-          "name": "Thurston Moore",
-          "url": "https://open.spotify.com/artist/1J4ACYB6yMqd79q3rjskqs"
-        }
-      ],
-      "duration_ms": 164453,
-      "name": "The Station",
-      "url": "https://open.spotify.com/track/2jmpCznCIvcbgMsfG58Y7k"
     },
     {
       "added_at": "2023-11-16 12:00:22",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-11-16 12:00:22",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
-      },
-      "artists": [
-        {
-          "name": "From Overseas",
-          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
-        }
-      ],
-      "duration_ms": 284000,
-      "name": "Deliveries",
-      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
-    },
-    {
-      "added_at": "2023-11-16 12:00:22",
-      "album": {
         "name": "Samadhi",
         "url": "https://open.spotify.com/album/0pdogBpTf4tVZv3AxKIThW"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 265000,
       "name": "Samadhi",
       "url": "https://open.spotify.com/track/1RDmSWTi4ga2alUBcojyXz"
+    },
+    {
+      "added_at": "2023-11-16 12:00:22",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/1oeoW3Ucs6A2zSMMgMS0UW"
+      },
+      "artists": [
+        {
+          "name": "From Overseas",
+          "url": "https://open.spotify.com/artist/31PP2XORcCMGHAa8vzJEUV"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Deliveries",
+      "url": "https://open.spotify.com/track/2fwzxX1uakYBKc5cT0kFN3"
     },
     {
       "added_at": "2023-11-16 12:00:22",

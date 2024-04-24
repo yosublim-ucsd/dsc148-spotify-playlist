@@ -1,12 +1,12 @@
 {
-  "description": "This is Hundred Reasons. Track-track unggulan, semuanya dalam satu playlist.",
+  "description": "This is Hundred Reasons. The essential tracks, all in one playlist.",
   "num_followers": 626,
   "original_name": "This Is Hundred Reasons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGZjMmM2NGNlMDQ4YWY1MmEyNjE4MTliOWM4ZGJmOWYz",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDk2OWRjN2I4N2I1ZDBkNjJhMmZlYjI3MDJmYzliMDdh",
   "tracks": [
     {
       "added_at": null,
@@ -471,22 +471,6 @@
       "duration_ms": 238573,
       "name": "Boy",
       "url": "https://open.spotify.com/track/0XvuRaxgYMSWbFng8vHvDv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hundred Reasons - Live At Hammersmith",
-        "url": "https://open.spotify.com/album/5dUBD9UVNHzfPeDlDNHg1H"
-      },
-      "artists": [
-        {
-          "name": "Hundred Reasons",
-          "url": "https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Remmus - Live At Hammersmith",
-      "url": "https://open.spotify.com/track/2zljVahQTKfZqc3oRT6Gxq"
     },
     {
       "added_at": null,

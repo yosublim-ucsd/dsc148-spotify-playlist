@@ -1,6 +1,6 @@
 {
   "description": "The official playlist for the 64th GRAMMY Awards.",
-  "num_followers": 134038,
+  "num_followers": 133934,
   "original_name": "The GRAMMYs Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -323,22 +323,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Something To Give Each Other",
-        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 156391,
-      "name": "Rush",
-      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Her Loss",
         "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
@@ -355,6 +339,22 @@
       "duration_ms": 239359,
       "name": "Rich Flex",
       "url": "https://open.spotify.com/track/1bDbXMyjaUIooNwFE9wn0N"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Something To Give Each Other",
+        "url": "https://open.spotify.com/album/5UcGyEltve5psjxSRsHx8E"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 156391,
+      "name": "Rush",
+      "url": "https://open.spotify.com/track/4ZnkygoWLzcGbQYCm3lkae"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "I Told Them...",
-        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
+        "name": "Just Wanna Rock",
+        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
       },
       "artists": [
         {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 153346,
-      "name": "City Boys",
-      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
+      "duration_ms": 123890,
+      "name": "Just Wanna Rock",
+      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -479,18 +479,18 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Just Wanna Rock",
-        "url": "https://open.spotify.com/album/2FD6g8bXEn2uQMYbeqqoCg"
+        "name": "I Told Them...",
+        "url": "https://open.spotify.com/album/1JzjwUKkPsdHg1SQ7qa5hc"
       },
       "artists": [
         {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
         }
       ],
-      "duration_ms": 123890,
-      "name": "Just Wanna Rock",
-      "url": "https://open.spotify.com/track/4FyesJzVpA39hbYvcseO2d"
+      "duration_ms": 153346,
+      "name": "City Boys",
+      "url": "https://open.spotify.com/track/4RoKNqyZ9622tcAeNPNv5k"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -567,22 +567,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Princess Diana (with Nicki Minaj)",
-        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
       },
       "artists": [
         {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
         },
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         }
       ],
-      "duration_ms": 172125,
-      "name": "Princess Diana (with Nicki Minaj)",
-      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
+      "duration_ms": 160529,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -603,22 +603,22 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
+        "name": "Princess Diana (with Nicki Minaj)",
+        "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
       "artists": [
         {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
         }
       ],
-      "duration_ms": 160529,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
+      "duration_ms": 172125,
+      "name": "Princess Diana (with Nicki Minaj)",
+      "url": "https://open.spotify.com/track/0ZxhtATQ0a6EvQNZ0z6NKV"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -883,26 +883,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Midnights (The Til Dawn Edition)",
-        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 201493,
-      "name": "Karma (feat. Ice Spice)",
-      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "Work Of Art",
         "url": "https://open.spotify.com/album/2O9VJaLSnwjZ2HPpMaVoPU"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 165000,
       "name": "Amapiano",
       "url": "https://open.spotify.com/track/1YgIvHDTvi1vosins1jyAC"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Midnights (The Til Dawn Edition)",
+        "url": "https://open.spotify.com/album/1fnJ7k0bllNfL1kVdNVW1A"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 201493,
+      "name": "Karma (feat. Ice Spice)",
+      "url": "https://open.spotify.com/track/4i6cwNY6oIUU2XZxPIw82Y"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Since I Have A Lover",
-        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
-      },
-      "artists": [
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 282000,
-      "name": "Since I Have A Lover",
-      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "But Here We Are",
         "url": "https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 258648,
       "name": "Rescued",
       "url": "https://open.spotify.com/track/3nDstVXtr6xbCZKs5Ka2rZ"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Since I Have A Lover",
+        "url": "https://open.spotify.com/album/39JZhYotu5zFYJ8jw1D8bF"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 282000,
+      "name": "Since I Have A Lover",
+      "url": "https://open.spotify.com/track/5D1QJgn1rP8docnVY6MRJ9"
     },
     {
       "added_at": "2024-02-05 23:56:53",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-02-05 23:56:53",
       "album": {
-        "name": "Brothers Osborne",
-        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
-      },
-      "artists": [
-        {
-          "name": "Brothers Osborne",
-          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
-        }
-      ],
-      "duration_ms": 189066,
-      "name": "Nobody's Nobody",
-      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
-    },
-    {
-      "added_at": "2024-02-05 23:56:53",
-      "album": {
         "name": "The End, So Far",
         "url": "https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz"
       },
@@ -1499,6 +1483,22 @@
       "duration_ms": 315906,
       "name": "Hive Mind",
       "url": "https://open.spotify.com/track/60knpe02nSLudHQYX2FZBI"
+    },
+    {
+      "added_at": "2024-02-05 23:56:53",
+      "album": {
+        "name": "Brothers Osborne",
+        "url": "https://open.spotify.com/album/3OOe4GNNhV4ezmUyHAGyoH"
+      },
+      "artists": [
+        {
+          "name": "Brothers Osborne",
+          "url": "https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp"
+        }
+      ],
+      "duration_ms": 189066,
+      "name": "Nobody's Nobody",
+      "url": "https://open.spotify.com/track/0WT1ILuFrh8reQUmPwmhMo"
     },
     {
       "added_at": "2024-02-05 23:56:53",

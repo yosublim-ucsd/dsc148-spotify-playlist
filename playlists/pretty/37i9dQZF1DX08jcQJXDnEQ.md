@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 
 > The best metal songs of the 90s\. Cover: KoRn
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,030,520 likes - 100 songs - 7 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,031,343 likes - 100 songs - 7 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 33 | [Spit It Out](https://open.spotify.com/track/2W2eaLVKv9NObcLXlYRZZo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [Slipknot \(10th Anniversary Edition\)](https://open.spotify.com/album/2dL9Q5AtIv4Rw1L6lKcIUc) | 2:39 |
 | 34 | [Painkiller](https://open.spotify.com/track/0L7zm6afBEtrNKo6C6Gj08) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 6:05 |
 | 35 | [A.D.I.D.A.S.](https://open.spotify.com/track/0xgsyoVvRFSYvV5cdtYhX1) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Life Is Peachy](https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH) | 2:33 |
-| 36 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
+| 36 | [Bombtrack](https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 4:03 |
 | 37 | [Forty Six & 2](https://open.spotify.com/track/6AioOohg4bQZFA4jIYQQ2r) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 6:03 |
 | 38 | [Symphony Of Destruction](https://open.spotify.com/track/51TG9W3y9qyO8BY5RXKgnZ) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Countdown To Extinction \(Expanded Edition \- Remastered\)](https://open.spotify.com/album/1w9opfGdFtR3ulNHxnnO1e) | 4:06 |
-| 39 | [Bombtrack](https://open.spotify.com/track/2rBHnIxbhkMGLpqmsNX91M) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 4:03 |
+| 39 | [Thunder Kiss '65](https://open.spotify.com/track/4tvBoSWeIW0bjhKNre5mod) | [White Zombie](https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8) | [La Sexorcisto: Devil Music Volume 1](https://open.spotify.com/album/6Cvv0qNSdZNf9o0j8EohoD) | 3:54 |
 | 40 | [Sad But True \(Remastered\)](https://open.spotify.com/track/5UaDi8KzCGJqFfVAOBfXhi) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Metallica \(Remastered\)](https://open.spotify.com/album/55fq75UfkYbGMq4CncCtOH) | 5:24 |
 | 41 | [We Die Young](https://open.spotify.com/track/5Ds35L9KpUDKgSxZ6whuoQ) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Facelift](https://open.spotify.com/album/5LbHbwejgZXRZAgzVAjkhj) | 2:32 |
 | 42 | [I'm Broken](https://open.spotify.com/track/2M5WTwqnkyz7bW6P1CiD6q) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:24 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 48 | [Engel](https://open.spotify.com/track/0xrkyEMkG4dVa5OMLQZOX8) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 4:24 |
 | 49 | [Wasting Love \- 2015 Remaster](https://open.spotify.com/track/2KKLuHN6zDxVnWtFKO8vo4) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Fear of the Dark \(2015 Remaster\)](https://open.spotify.com/album/16Su3EUFLPqWVyrwN1q5wO) | 5:51 |
 | 50 | [Ænema](https://open.spotify.com/track/0nLOl4fSiBZKGFla5pLUtf) | [TOOL](https://open.spotify.com/artist/2yEwvVSSSUkcLeSTNyHKh8) | [Ænima](https://open.spotify.com/album/6yWMN087PgSimbcVmHLEwG) | 6:39 |
-| 51 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 |
-| 52 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
+| 51 | [Love You to Death](https://open.spotify.com/track/58RDwkonFMOkoytBtIQetc) | [Type O Negative](https://open.spotify.com/artist/0blJzvevdXrp21YeI2vbco) | [October Rust \(Special Edition\)](https://open.spotify.com/album/6BkeUWI72Lssc077AxqQek) | 7:08 |
+| 52 | [Pull Me Under](https://open.spotify.com/track/5CPXR6lDTvngxtmMZxnWmC) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 8:13 |
 | 53 | [Last Man Standing](https://open.spotify.com/track/18S33odAheWBHbVAefiRLM) | [HammerFall](https://open.spotify.com/artist/2o18h28enlHxj887tATc58) | [Any Means Necessary](https://open.spotify.com/album/19B8sBoHytS1ntvmy2QVju) | 4:30 |
 | 54 | [Territory](https://open.spotify.com/track/0QRxtcxL31dRAeiUUuENPu) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 4:47 |
 | 55 | [Seasons In The Abyss](https://open.spotify.com/track/3Ky8IzV8IVSwijtaTWB2SK) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 6:37 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX08jcQJXDnEQ.md) - [plain]
 | 63 | [Bück dich](https://open.spotify.com/track/0HSVba6oa1QdUkco67C3e3) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Sehnsucht](https://open.spotify.com/album/2w6Vy8qZLU4niyQAHyu0Ag) | 3:21 |
 | 64 | [Refuse / Resist](https://open.spotify.com/track/2OoS1aZFAFscH1cUiKlazH) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Chaos A.D.](https://open.spotify.com/album/5r4qa5AIQUVypFRXQzjaiu) | 3:19 |
 | 65 | [Dead Skin Mask](https://open.spotify.com/track/0t1lDXmMWBzF6mfnQ6KwqZ) | [Slayer](https://open.spotify.com/artist/1IQ2e1buppatiN1bxUVkrk) | [Seasons In The Abyss](https://open.spotify.com/album/49QJ9TAWNqZGbFUvadXPgT) | 5:20 |
-| 66 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
-| 67 | [Clean My Wounds](https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 3:32 |
+| 66 | [Clean My Wounds](https://open.spotify.com/track/6g48vpikqU2atsrDXdGzKo) | [Corrosion Of Conformity](https://open.spotify.com/artist/1BBIIH0h76KN8gYeXFcPjR) | [Deliverance](https://open.spotify.com/album/6zdNTQ1uS2ZzFZkExMqcAh) | 3:32 |
+| 67 | [Green Machine](https://open.spotify.com/track/6nxHMqTNKWlQnx5AFxz1iX) | [Kyuss](https://open.spotify.com/artist/3HCpwNmFp2rvjkdjTs4uxs) | [Blues for the Red Sun](https://open.spotify.com/album/7wXj8GxTkGAUU99DXR7n2f) | 3:37 |
 | 68 | [Jesus Built My Hotrod](https://open.spotify.com/track/0BX3ysoHJvxmLEhPMAfb2z) | [Ministry](https://open.spotify.com/artist/1DXylZlWbVvlckNqwvjTEt) | [KE\*A\*H\*\* \(Psalm 69\)](https://open.spotify.com/album/2wz3P1w89gQd3iXdmF1IA5) | 4:52 |
 | 69 | [Hellraiser](https://open.spotify.com/track/65JrmVnWM5KzM1WrXIY0tI) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [March Or Die](https://open.spotify.com/album/3pbbbyxPPgBTAMbAcVzjex) | 4:35 |
 | 70 | [Stone the Crow](https://open.spotify.com/track/7DuRbuweGD2cpGN74cpPAF) | [DOWN](https://open.spotify.com/artist/1m0B9ak05G0jqDY4ACLhQu) | [Nola](https://open.spotify.com/album/04BvRPJwuDeuJ3DhbAw9Wg) | 4:42 |

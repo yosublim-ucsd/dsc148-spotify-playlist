@@ -1467,6 +1467,28 @@
     },
     {
       "album": {
+        "name": "Loose Ends",
+        "url": "https://open.spotify.com/album/0YoJT2pQtuoTmgzj6TUon6"
+      },
+      "artists": [
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Syn Cole",
+          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144197,
+      "name": "Loose Ends",
+      "url": "https://open.spotify.com/track/1IAGVO9a3LDO5VttJ96DtA"
+    },
+    {
+      "album": {
         "name": "Alive",
         "url": "https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v"
       },

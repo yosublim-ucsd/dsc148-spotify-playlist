@@ -1,12 +1,12 @@
 {
-  "description": "This Is Willie Col\u00f3n. Los temas esenciales, todos en una lista.",
-  "num_followers": 66959,
+  "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
+  "num_followers": 67011,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDYyMzU5MzM3Njc2ZjYyOGNlNjFiNGNiYjFjYWI0Zjlm",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGM0ZDBiMzNlZjJkYjM3NmM3ZTA0NWNjZWQ0YmFkYmVl",
   "tracks": [
     {
       "added_at": null,
@@ -699,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mis Favoritas",
+        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        }
+      ],
+      "duration_ms": 318520,
+      "name": "Cueste Lo Que Cueste",
+      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siembra (Special Edition)",
         "url": "https://open.spotify.com/album/0eEepSVOpeDUxu5TKcaZHJ"
       },
@@ -715,22 +731,6 @@
       "duration_ms": 421200,
       "name": "Dime",
       "url": "https://open.spotify.com/track/1qrJSmYy08r64JG7h5NG0r"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mis Favoritas",
-        "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        }
-      ],
-      "duration_ms": 318520,
-      "name": "Cueste Lo Que Cueste",
-      "url": "https://open.spotify.com/track/4BNDskrn6uPYQAbenwJSDD"
     },
     {
       "added_at": null,

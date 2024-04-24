@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > Belleza y distorsión imaginada por bandas iberoamericanas\. Estrella del Sol en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,436 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,456 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 6 | [De Viaje](https://open.spotify.com/track/5Alh9ZUF8clLNm1UmFLcSv) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 4:14 |
 | 7 | [te odio](https://open.spotify.com/track/4UBuT5jRH2VG7BmrfWWpX7) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [te odio](https://open.spotify.com/album/3RkgXX6vMLvfQVJ9cocFVt) | 2:50 |
 | 8 | [Hazy Youth](https://open.spotify.com/track/1HXLeO8G18z1LLxk3FbqWD) | [Trementina](https://open.spotify.com/artist/0DM3M5xGKVaO7MNFBH3K0X) | [Almost Reach the Sun](https://open.spotify.com/album/58kWM6VvTn5gc3iiAVqKNS) | 3:02 |
-| 9 | [Nubes](https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 3:14 |
-| 10 | [Viajar en Metro](https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Los Movimientos](https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja) | 5:02 |
+| 9 | [Viajar en Metro](https://open.spotify.com/track/7FDjq6dp6gUjsqsSWchDZ1) | [Patio Solar](https://open.spotify.com/artist/5vA7SVYlKJGW6NGkKaSEax) | [Los Movimientos](https://open.spotify.com/album/5y42cHtbjVLQhuLWbcEwja) | 5:02 |
+| 10 | [Nubes](https://open.spotify.com/track/03DwGjU8lK4wiDdgSett0i) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [Nubes](https://open.spotify.com/album/7t0vBigNHXs9SuwH1AaJXd) | 3:14 |
 | 11 | [Figura de Cristal](https://open.spotify.com/track/4aZIaHfXGIcDFMCrGaEoFS) | [Estrella del Sol](https://open.spotify.com/artist/5oQPWni89oK2A4pM3TLFh0) | [Figura de Cristal](https://open.spotify.com/album/7Fj3Ex7rvD1rjHJMYPPoVH) | 3:00 |
 | 12 | [Lo Bonito de la Muerte](https://open.spotify.com/track/2nAIfmQAygqNH6SV01bNsD) | [Austin TV](https://open.spotify.com/artist/5x0koyeJkLR4odx4gCD5lR) | [Rizoma](https://open.spotify.com/album/51ABCq7no09mPcnuPY7kP2) | 6:22 |
 | 13 | [tdbn](https://open.spotify.com/track/5PKQelL3yzmUpKTDj0j72t) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [tdbn](https://open.spotify.com/album/4IYxAA0c0p5TBWlBdLdx5T) | 3:14 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 15 | [Santos Que Yo Te Pinte](https://open.spotify.com/track/1L4irrN3TGmOHS65WM1g4W) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Unidad De Desplazamiento](https://open.spotify.com/album/3CALAHUrBmAtGjVj82x5tz) | 4:39 |
 | 16 | [Lejos de Mí](https://open.spotify.com/track/3xu8MJIRspNhJilbRnI5mI) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Lejos de Mí](https://open.spotify.com/album/4TKcF68kvvylJaqNwaeFwk) | 3:16 |
 | 17 | [Todo Va a Estar Bien](https://open.spotify.com/track/64jBAvPvYBRU1m4chLxbtT) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT) | [Todo Va a Estar Bien](https://open.spotify.com/album/0GoEGXpVjqIcPJOZIqlhtw) | 3:15 |
-| 18 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
-| 19 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 |
+| 18 | [vampiro](https://open.spotify.com/track/50swtPDEWetyPIuK4Pug08) | [Kiddie Gang](https://open.spotify.com/artist/1BIPunmLho7BYxe9gD4bFg) | [vampiro](https://open.spotify.com/album/0Mic1a4JCZSEf1dAujC8x4) | 2:58 |
+| 19 | [Mil Espejos](https://open.spotify.com/track/5W7CsTIjb4LNKujDtqutGc) | [Nudozurdo](https://open.spotify.com/artist/2Gw5aCeNK9o0PmsNuSirW0) | [Sintetica](https://open.spotify.com/album/6D2b3pORKyOOwZwJ4InjXe) | 4:33 |
 | 20 | [Gemelos Cóctel](https://open.spotify.com/track/4Y3INBmiizfTIIBrOQvvFO) | [No Somos Marineros](https://open.spotify.com/artist/17Vo2RbhsVWNYkLjeQRfcP) | [D'arcy](https://open.spotify.com/album/0MlfbX8SY5emphjwETJSRu) | 3:51 |
 | 21 | [Hasta Que el Tiempo No Nos Separe](https://open.spotify.com/track/2mJdsxOhueWeg3vtiOyQkD) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Cielos Desconocidos](https://open.spotify.com/album/0seWnTPky0KP5OxP7Qh5tt) | 5:28 |
 | 22 | [La Caja Del Diablo](https://open.spotify.com/track/3WTgg65LmPNVXN3eyVdX8P) | [Los Planetas](https://open.spotify.com/artist/0N1TIXCk9Q9JbEPXQDclEL) | [Super 8](https://open.spotify.com/album/6b4l8rVWImW1hkCshXichu) | 9:10 |
@@ -45,18 +45,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 35 | [reina de primavera](https://open.spotify.com/track/5HI6WZzt6WEz8I4ybF5lt6) | [te vi en un planetario](https://open.spotify.com/artist/1tLZIDlRNgWyQlu5qrqLvm) | [reina de primavera](https://open.spotify.com/album/5qnpPym42PCcSxP70H8U1Y) | 4:05 |
 | 36 | [Como Rei Ayanami](https://open.spotify.com/track/0tYNvkWztbz331kXOHXf8n) | [Dan Dan Dero](https://open.spotify.com/artist/2auDyHZC2XT2E5kV6dyBPR) | [Como Rei Ayanami](https://open.spotify.com/album/30LJvOyd3yd4Otb6LLuQCW) | 2:57 |
 | 37 | [La Carretera](https://open.spotify.com/track/4eSXJnfSowWSP9kefNFiww) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [La Carretera](https://open.spotify.com/album/6pCTij28fog7AIWLFsdtko) | 4:11 |
-| 38 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
-| 39 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
-| 40 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
-| 41 | [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 |
+| 38 | [Portal](https://open.spotify.com/track/1ufpOeDERnDjc27jLRFDp7) | [Juan Son](https://open.spotify.com/artist/0KMvNa9hacj7I16cmapuGG), [Simone Pace](https://open.spotify.com/artist/6uO0MwL8aRtn5r4rEyOCeo) | [Portal](https://open.spotify.com/album/36rdTGwMgq7jOhVYegLaKO) | 3:32 |
+| 39 | [The Sound of all Things](https://open.spotify.com/track/6vdl0qUhK7vWczvw0NcPBM) | [Lorelle Meets The Obsolete](https://open.spotify.com/artist/79ckv9yY9WAKcH8KfrvmiP) | [Balance](https://open.spotify.com/album/0yqqIG6a0xG6qFiaOu6Vcp) | 6:21 |
+| 40 | [Poco a Poco](https://open.spotify.com/track/6PkkpizxjK7tcPU2uiZmiX) | [Entre Desiertos](https://open.spotify.com/artist/6EfZlD0Lw7RsNhDMlHH4YL) | [Entre Desiertos EP](https://open.spotify.com/album/3Qx9fOPVUCHp3CT42Jbvlw) | 5:02 |
+| 41 | [El Tiempo](https://open.spotify.com/track/2uKO2bIP3AtFxCZrUDmGlC) | [Flores](https://open.spotify.com/artist/25Wl3sHyhxXW8BsgcbpYSt) | [El Tiempo](https://open.spotify.com/album/0tchM8Ti4qw4TU7VjQC5Su) | 4:37 |
 | 42 | [Boni Naitó](https://open.spotify.com/track/3GVI5TbNvYLj70ws5ZPFcW) | [Myuné](https://open.spotify.com/artist/3LnFaKCLO8uhqBf2VITWGT) | [Fuera de Lugar](https://open.spotify.com/album/1m5YP0jEENVLbhbNJuZCWO) | 4:43 |
-| 43 | [Arrecifes](https://open.spotify.com/track/0wfjFrIkU2HsVBs1J11vZq) | [Salvana](https://open.spotify.com/artist/7t30OuyAfbI9kVdWBtoQFu) | [Arrecifes](https://open.spotify.com/album/6Zqq3zDBPi1NdYp2yYE7lr) | 2:54 |
+| 43 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
 | 44 | [Shallow](https://open.spotify.com/track/7mrG4CWCjYiWWfSiYLdoxg) | [Nenagenix](https://open.spotify.com/artist/72uTXCtp7vhZkvYdnoYu6I) | [Flash Memory](https://open.spotify.com/album/1z264tIT1BVy9CgA9hJkv1) | 2:15 |
-| 45 | [más tiempo](https://open.spotify.com/track/0Z0CnfVm3VSHD9jtiemuRe) | [Policias y Ladrones](https://open.spotify.com/artist/6Y9quCNVfxgIE308HSMpEd) | [más tiempo](https://open.spotify.com/album/5ZLljWH8uDb0oJBYpXJKfX) | 3:27 |
+| 45 | [Arrecifes](https://open.spotify.com/track/0wfjFrIkU2HsVBs1J11vZq) | [Salvana](https://open.spotify.com/artist/7t30OuyAfbI9kVdWBtoQFu) | [Arrecifes](https://open.spotify.com/album/6Zqq3zDBPi1NdYp2yYE7lr) | 2:54 |
 | 46 | [Cielo Negro](https://open.spotify.com/track/6bfIZ0JqHp8Co0ZWXfCj3h) | [Mauro Samaniego](https://open.spotify.com/artist/1mV80wU5C7aFDPn7GYRw9L) | [Simona](https://open.spotify.com/album/3R1eGvEJH9v8UKF4fKPLRq) | 3:48 |
 | 47 | [Bang](https://open.spotify.com/track/6vp9GwKIXt60WV3QxsemRN) | [Melenas](https://open.spotify.com/artist/3vLz3LvH5DRDZOy6SU9w2f) | [Bang](https://open.spotify.com/album/3aF0MSTARYcK5kPlE6KXvY) | 5:10 |
 | 48 | [Morning Sun](https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ) | [Karen y Los Remedios](https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv), [Z.A.M.P.A](https://open.spotify.com/artist/2Om6U6DwLuSX7WTVC9Nce2) | [Morning Sun](https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh) | 4:27 |
-| 49 | [Dolor](https://open.spotify.com/track/22FpzpT8WmbasbUsw0FNiI) | [Aura Blum](https://open.spotify.com/artist/4eToagOiA1nEzs7s8PMjgq) | [Dolor](https://open.spotify.com/album/2hZiihQIxQYOEuQPKOnhbd) | 3:16 |
-| 50 | [Ojalá te mueras](https://open.spotify.com/track/2CWW9NiH9URcRnpRbS28nf) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Ojalá te mueras](https://open.spotify.com/album/3ZKgeMOkbDDGRi29v9JFzO) | 4:07 |
+| 49 | [Ojalá te mueras](https://open.spotify.com/track/2CWW9NiH9URcRnpRbS28nf) | [Menta](https://open.spotify.com/artist/6LlGOJmoJ97bhGx3UX2URn) | [Ojalá te mueras](https://open.spotify.com/album/3ZKgeMOkbDDGRi29v9JFzO) | 4:07 |
+| 50 | [Dolor](https://open.spotify.com/track/22FpzpT8WmbasbUsw0FNiI) | [Aura Blum](https://open.spotify.com/artist/4eToagOiA1nEzs7s8PMjgq) | [Dolor](https://open.spotify.com/album/2hZiihQIxQYOEuQPKOnhbd) | 3:16 |
 
 Snapshot ID: `MTcxMzUwNjQwMCwwMDAwMDAwMDYxMDNlYzk2ZWQ3M2NjODhkMTIzMTdmYmNiMzE0NTgy`

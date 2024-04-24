@@ -1,6 +1,6 @@
 {
   "description": "Go ahead, lounge a little longer with a fun mix of your favorite covers...",
-  "num_followers": 17335,
+  "num_followers": 17338,
   "original_name": "Under the Covers",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "The Bluebird of Happiness",
+        "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
         "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
@@ -547,22 +563,6 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "The Bluebird of Happiness",
-        "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -599,22 +599,6 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "Heroes & Heretics",
-        "url": "https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe"
-      },
-      "artists": [
-        {
-          "name": "Town Mountain",
-          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
-        }
-      ],
-      "duration_ms": 213826,
-      "name": "I'm On Fire",
-      "url": "https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
         "name": "Ordinary World",
         "url": "https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 314343,
       "name": "Ordinary World",
       "url": "https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
+        "name": "Heroes & Heretics",
+        "url": "https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe"
+      },
+      "artists": [
+        {
+          "name": "Town Mountain",
+          "url": "https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs"
+        }
+      ],
+      "duration_ms": 213826,
+      "name": "I'm On Fire",
+      "url": "https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -663,6 +663,22 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
+        "name": "The Tip Jar Volume One",
+        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
+      },
+      "artists": [
+        {
+          "name": "Obadiah Parker",
+          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
+        }
+      ],
+      "duration_ms": 298800,
+      "name": "Hey Ya - solo version",
+      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
+    },
+    {
+      "added_at": "2019-02-22 20:19:46",
+      "album": {
         "name": "Heroes",
         "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 242280,
       "name": "Just Breathe (feat. Lukas Nelson)",
       "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
-    },
-    {
-      "added_at": "2019-02-22 20:19:46",
-      "album": {
-        "name": "The Tip Jar Volume One",
-        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
-      },
-      "artists": [
-        {
-          "name": "Obadiah Parker",
-          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
-        }
-      ],
-      "duration_ms": 298800,
-      "name": "Hey Ya - solo version",
-      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
     },
     {
       "added_at": "2019-02-22 20:19:46",
@@ -835,18 +835,18 @@
     {
       "added_at": "2019-02-22 20:19:46",
       "album": {
-        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+        "name": "City of Stars",
+        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
       },
       "artists": [
         {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
+      "duration_ms": 154858,
+      "name": "City of Stars",
+      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
     }
   ],
   "unique_name": "Under the Covers",

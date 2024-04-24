@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 
 > Britpop, trip\-hop, grunge and more from the other side of the 90s\. Cover: Cocteau Twins
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,269,559 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,269,864 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 64 | [Overcome](https://open.spotify.com/track/0tYEsmdrsv5Fi3UOn58bou) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 4:30 |
 | 65 | [Say Yes](https://open.spotify.com/track/7zVfEu1dEvRw4EkWoqrBkx) | [Elliott Smith](https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG) | [Either/Or](https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L) | 2:20 |
 | 66 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
-| 67 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
+| 67 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
 | 68 | [Mulder and Scully](https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 4:11 |
-| 69 | [Rid Of Me](https://open.spotify.com/track/3m2Zd230K68bC4Qe961d9p) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [Rid Of Me](https://open.spotify.com/album/2fDJpBJhtloxzUENHlU9JB) | 4:28 |
+| 69 | [Alright](https://open.spotify.com/track/1SqY3rqLazvQlDz24GJ1TO) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:37 |
 | 70 | [Erase / Rewind](https://open.spotify.com/track/2oHmRO0X4gW4VlCJRcZzez) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [Gran Turismo](https://open.spotify.com/album/4gNjfAA5axfUEBbHJoAKBO) | 3:35 |
 | 71 | [On & On](https://open.spotify.com/track/2AVRiqNBp1cMVL7PQNzLc4) | [Longpigs](https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg) | [The Sun Is Often Out](https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6) | 4:10 |
 | 72 | [The Wild Ones \(Remastered\)](https://open.spotify.com/track/10hLkl5k0NjO7QAJvoVzIy) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Dog Man Star \(Remastered\)](https://open.spotify.com/album/1LgpJjBJIRQhkJ01oZR3Cn) | 4:50 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLI8a395lse.md) - [plain]
 | 75 | [Sandstorm](https://open.spotify.com/track/3knlIGVH97AywBzVtF1Rpy) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 2:41 |
 | 76 | [Big Time Sensuality](https://open.spotify.com/track/0X0LTI0MQG9S3FLSUvjrj5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Debut](https://open.spotify.com/album/3icT9XGrBfhlV8BKK4WEGX) | 3:56 |
 | 77 | [Beautiful Ones \(Remastered\)](https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \(Remastered\)](https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv) | 3:50 |
-| 78 | [History \- Remastered 2016](https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:26 |
-| 79 | [A.M\. 180](https://open.spotify.com/track/1tMHDdJEz8MFrkPFgwFACG) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under The Western Freeway](https://open.spotify.com/album/57FtCFNPyiqlltBLhFGDYi) | 3:20 |
+| 78 | [A.M\. 180](https://open.spotify.com/track/1tMHDdJEz8MFrkPFgwFACG) | [Grandaddy](https://open.spotify.com/artist/3W4xM5XYtUp4ifYYPVKVdk) | [Under The Western Freeway](https://open.spotify.com/album/57FtCFNPyiqlltBLhFGDYi) | 3:20 |
+| 79 | [History \- Remastered 2016](https://open.spotify.com/track/52p8lRbIrKYjzwDMXgBVFO) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [A Northern Soul \(2016 Remastered / Deluxe\)](https://open.spotify.com/album/4V8NUW8yUln846aiOZ8ANR) | 5:26 |
 | 80 | [Fine Time](https://open.spotify.com/track/5z6kCwTvyJb7MlgMPjXFy9) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:06 |
 
 Snapshot ID: `MTcxMDgwMDk5MywwMDAwMDAwMGJlZTljZTI0OTc0NjI3NzJiNmVmMWJmYzQ0YmM3MzMy`

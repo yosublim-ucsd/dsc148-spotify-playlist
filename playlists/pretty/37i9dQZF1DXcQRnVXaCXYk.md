@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 
 > Neem plaats in je eigen Pop Lounge, thuis, onderweg of op het werk.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,074 likes - 70 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,056 likes - 70 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 35 | [Paint My Bedroom Black](https://open.spotify.com/track/3gA9Y5RsXBUKkr1IP6v4g3) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Paint My Bedroom Black](https://open.spotify.com/album/7xpV6gsna8TzskCRjmSxLE) | 3:49 |
 | 36 | [Sometimes… \(with Daya & Earthgang\)](https://open.spotify.com/track/09MduMD14OZjmAxd6u1Qfi) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [never worry](https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r) | 3:42 |
 | 37 | [half a world away](https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5), [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [half a world away](https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7) | 3:27 |
-| 38 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 |
-| 39 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
+| 38 | [Wait for You](https://open.spotify.com/track/1prpauWvVGDE0xJAvaDRQt) | [Tom Walker](https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh) | [Wait for You](https://open.spotify.com/album/4IuaPrc3u8NLguZv7CfmJ2) | 2:52 |
+| 39 | [We Could Start a Thing](https://open.spotify.com/track/0EK4qiXLTDv0dq1tIJhUHh) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [We Could Start a Thing](https://open.spotify.com/album/55oBheqmFGiAYmFFY0Byyg) | 2:24 |
 | 40 | [Holding on to Letting Go](https://open.spotify.com/track/0qoPfcnLNRE8uBMwS7X30f) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1) | [Holding on to Letting Go](https://open.spotify.com/album/3lKYH8zdP5KCzfkXULvnls) | 2:45 |
 | 41 | [Spend The Night](https://open.spotify.com/track/1wqKQu5RECFt8Q3MMCqWdn) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Spend The Night](https://open.spotify.com/album/5wnhSl8Q7LMbtwYkFIYaEJ) | 3:13 |
 | 42 | [In The Middle](https://open.spotify.com/track/7n2tqj3L3fflT1ApcOWWgw) | [Mad3 for M3](https://open.spotify.com/artist/6gkVmcX3QAvhKaS481fpzV), [Cris Cab](https://open.spotify.com/artist/7vWBZm3sQ8yQvfV4nXxHXK) | [In The Middle](https://open.spotify.com/album/3jJe1v9GSpDnow0L8Tw4ZW) | 3:41 |
@@ -74,9 +74,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQRnVXaCXYk.md) - [plain]
 | 64 | [When You Say You Love Me](https://open.spotify.com/track/0A0pgeiFNdANI5po65sUrp) | [More Ease](https://open.spotify.com/artist/6MqGLWFP5nuu5q0Bv0sSsk) | [When You Say You Love Me](https://open.spotify.com/album/63TIdz31D1QJZn3zGzoAaX) | 2:18 |
 | 65 | [Feel](https://open.spotify.com/track/0Knojdlv1xF0JfLcTZqf3U) | [Emelie Hollow](https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7) | [Feel](https://open.spotify.com/album/3fV8b8CyxiVWutQQe4anVP) | 3:35 |
 | 66 | [The Door](https://open.spotify.com/track/3Rmh9ouHBlrbEDgFmncVOl) | [Laura Jansen](https://open.spotify.com/artist/1Ecagb1V0oVlO0pFKnhYWM) | [We Saw A Light](https://open.spotify.com/album/5yb7lfdng45j6WKTy3VpGJ) | 3:54 |
-| 67 | [Bad Dreams \(feat\. 7Chariot\)](https://open.spotify.com/track/0ewuvkHXRQNa3xgQAKhy32) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [7Chariot](https://open.spotify.com/artist/4V3hylv1eMCEVAHtWjsQ8S) | [The Ringmaster](https://open.spotify.com/album/6wjunYcH9bglwVY2KbKysf) | 2:50 |
-| 68 | [Complexion](https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Complexion](https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6) | 3:09 |
-| 69 | [Shining Again](https://open.spotify.com/track/5Ys9c8wko5UFNclF8Vq3ar) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Shining Again](https://open.spotify.com/album/1YXkMjhs1NWt4FuFWQJRCi) | 3:21 |
+| 67 | [Shining Again](https://open.spotify.com/track/5Ys9c8wko5UFNclF8Vq3ar) | [Rindue](https://open.spotify.com/artist/4oojbn40EbfJ8IDkzKUWAw) | [Shining Again](https://open.spotify.com/album/1YXkMjhs1NWt4FuFWQJRCi) | 3:21 |
+| 68 | [Bad Dreams \(feat\. 7Chariot\)](https://open.spotify.com/track/0ewuvkHXRQNa3xgQAKhy32) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [7Chariot](https://open.spotify.com/artist/4V3hylv1eMCEVAHtWjsQ8S) | [The Ringmaster](https://open.spotify.com/album/6wjunYcH9bglwVY2KbKysf) | 2:50 |
+| 69 | [Complexion](https://open.spotify.com/track/2nQtfIkK3eE4SQiaUfAgd5) | [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Complexion](https://open.spotify.com/album/6mLbfA9FOK4gnbcdXD0Mr6) | 3:09 |
 | 70 | [You Make Me Mad](https://open.spotify.com/track/33P9FJyae9pHmQjMf3226J) | [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [You Make Me Mad](https://open.spotify.com/album/5NBLxv2jTPDNN8NVFAc3io) | 3:08 |
 
 Snapshot ID: `MTcxMTAzNzIyMiwwMDAwMDAwMGNlM2E3NjVmNTk1OTgyZmRmYTJhYmUyZDIxZWE5ZDk0`

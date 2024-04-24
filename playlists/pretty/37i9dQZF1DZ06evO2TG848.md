@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 
 > This is Gustavo Santaolalla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,245 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,248 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2TG848.md) - [plain]
 | 49 | [Algun Dia \(Unplugged\) \(En Vivo\) \(with Gustavo Santaolalla\)](https://open.spotify.com/track/3Hasr4XNwh4CaUwqGsIror) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Julieta Venegas \- MTV Unplugged](https://open.spotify.com/album/4oR1OWQqwZmNWzpTIBYe97) | 4:00 |
 | 50 | [Dream Of Higher Altitudes](https://open.spotify.com/track/0s26mtu36zpnnNRVZd7keR) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Nanga Parbat \(Original Soundtrack\)](https://open.spotify.com/album/2YKag72MOjVzBuGtZUUsEa) | 1:15 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDdjMGNmZjM4OTYxYjk0NzIyNTI3NTdhZDAyMDI5Zjkz`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDliNjRlNzhiMjQ5ZjU4NTY4MGMzYjVkNWM4NGJmM2Y3`

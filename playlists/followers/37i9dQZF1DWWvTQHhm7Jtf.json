@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 18693,
+  "2024-04-24": 18879,
   "date_first_scraped": "2022-03-22",
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
   "name": "Planetary Soul",
@@ -1254,6 +1254,28 @@
     },
     {
       "album": {
+        "name": "Hell To The Liars (feat. NATURE)",
+        "url": "https://open.spotify.com/album/40a83SZsulnzS0WiDkHqZc"
+      },
+      "artists": [
+        {
+          "name": "London Grammar",
+          "url": "https://open.spotify.com/artist/3Bd1cgCjtCI32PYvDC3ynO"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 571168,
+      "name": "Hell To The Liars (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0zla5mx2a2pKGHzAmo3rxC"
+    },
+    {
+      "album": {
         "name": "Islands, Pt. 3",
         "url": "https://open.spotify.com/album/6XFN9uEpCDmHwoRpYVzzTZ"
       },
@@ -1663,7 +1685,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 410986,
       "name": "Melancholia II",
       "url": "https://open.spotify.com/track/2UZXQrEi0A8ySbDuyeuMt3"

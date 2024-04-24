@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 
 > New song and hits from your favorite Alternative artists\. Cover: Jack White
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,527 likes - 75 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,585 likes - 75 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,9 +23,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 13 | [Feel It Still](https://open.spotify.com/track/6QgjcU0zLnzq5OrUoSZ3OK) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Woodstock](https://open.spotify.com/album/4VzzEviJGYUtAeSsJlI9QB) | 2:43 |
 | 14 | [Use Somebody](https://open.spotify.com/track/5VGlqQANWDKJFl0MBG3sg2) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Only By The Night](https://open.spotify.com/album/5CZR6ljD0x9fTiS4mh9wMp) | 3:50 |
 | 15 | [Karma Police](https://open.spotify.com/track/63OQupATfueTdZMWTxW03A) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:24 |
-| 16 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
+| 16 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
 | 17 | [No Roots](https://open.spotify.com/track/6gqW48WKOxrBEG2KfShI8W) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Mint](https://open.spotify.com/album/18KUlnsMtCS3W67CLyk0Fp) | 3:55 |
-| 18 | [Best of You](https://open.spotify.com/track/5FZxsHWIvUsmSK1IAvm2pp) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [In Your Honor](https://open.spotify.com/album/2eprpJCYbCbPZRKVGIEJxZ) | 4:15 |
+| 18 | [Hell N Back](https://open.spotify.com/track/3NRql0A1Ef4RCvT473iqgD) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Hell N Back](https://open.spotify.com/album/3aEdbaJGWXbBxn79DgjamF) | 3:33 |
 | 19 | [Tear in My Heart](https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Blurryface](https://open.spotify.com/album/3cQO7jp5S9qLBoIVtbkSM1) | 3:08 |
 | 20 | [Kilby Girl](https://open.spotify.com/track/1170VohRSx6GwE6QDCHPPH) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [When We Were Friends](https://open.spotify.com/album/3TSMSh5dai7WEnEGOoMXBZ) | 4:42 |
 | 21 | [River](https://open.spotify.com/track/3mRLHiSHYtC8Hk7bzZdUs1) | [Bishop Briggs](https://open.spotify.com/artist/0yb46jwm7gqbZXVXZQ8Z1e) | [Church Of Scars](https://open.spotify.com/album/1TTxcgs3zEngN0EB56yXzY) | 3:36 |
@@ -46,10 +46,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 36 | [Walk On Water](https://open.spotify.com/track/6FT9FZccFD6nE8dMNslz2n) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [AMERICA](https://open.spotify.com/album/0XcHdI2ZyNADjfvo5Ubs39) | 3:05 |
 | 37 | [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:46 |
 | 38 | [Bad Decisions](https://open.spotify.com/track/55N8cxpE1QDoeaaNqUnoZ2) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [The New Abnormal](https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN) | 4:53 |
-| 39 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
-| 40 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
-| 41 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
-| 42 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
+| 39 | [Banquet](https://open.spotify.com/track/2YxXuCdbUpil3P7tRjhW1t) | [Bloc Party](https://open.spotify.com/artist/3MM8mtgFzaEJsqbjZBSsHJ) | [Silent Alarm](https://open.spotify.com/album/0urhQCsjpczjC8zbTMtd8t) | 3:16 |
+| 40 | [High And Low](https://open.spotify.com/track/2Q7PDjPz7h559wBF97lO07) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines](https://open.spotify.com/album/60pRr5JvZkU9XhHg2pBkRy) | 3:44 |
+| 41 | [Genghis Khan](https://open.spotify.com/track/6MDijuuArPJv1vbp7K1x3f) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [iii](https://open.spotify.com/album/3pWJFrSX6apPzt4inM4zXt) | 3:32 |
+| 42 | [Miracle Mile](https://open.spotify.com/track/4RvmQ5qbP5PxgJD0BN4EZK) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Dear Miss Lonelyhearts](https://open.spotify.com/album/3InEURs5PQ2CMrnvzSVaPy) | 3:00 |
 | 43 | [Desire](https://open.spotify.com/track/3kG6GPkDkV2RQTm9QdYN9Z) | [MEG MYERS](https://open.spotify.com/artist/0W8xe7IqAPlnBRMUpWOUuJ) | [Sorry](https://open.spotify.com/album/14Q6NvjUSthc0Xgb5EgtQd) | 4:44 |
 | 44 | [Salt And The Sea](https://open.spotify.com/track/5EKqsMU2tn1iAYNQF8h0ll) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [III](https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s) | 4:30 |
 | 45 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2G2VrXHSPQG.md) - [plain]
 | 67 | [If You Ever Leave, I'm Coming With You](https://open.spotify.com/track/6h6chJ3TzYA811yH4ewNeX) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Fix Yourself, Not The World](https://open.spotify.com/album/50hkPbORARa25Wv8h0E1i7) | 2:49 |
 | 68 | [High Low](https://open.spotify.com/track/3ATD9XGdgIRLAhviHOIh8q) | [The Unlikely Candidates](https://open.spotify.com/artist/4hwJwkgsufeilLXS1ZfJqq) | [High Low](https://open.spotify.com/album/6iS4AhPXyR0Q7c2iKoftTD) | 3:04 |
 | 69 | [Inside Out](https://open.spotify.com/track/4BNs4huwF1Vmdin9lEPOOS) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Healer](https://open.spotify.com/album/1FsCJHnJORi2z5ibQs9aQI) | 3:28 |
-| 70 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
-| 71 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 |
+| 70 | [On Our Own](https://open.spotify.com/track/6tnedmxMVEHzPJfWucWzHo) | [Lime Cordiale](https://open.spotify.com/artist/6yrtCy4XJHXM6tczo4RlTs) | [On Our Own](https://open.spotify.com/album/3CG3ulskl4VyzruXVaAYH0) | 3:36 |
+| 71 | [Nearer My God](https://open.spotify.com/track/1tSVf4MEdh8kVwKCmZw6uc) | [Foxing](https://open.spotify.com/artist/2dfxY7YDuYCUtWFzWTS6IR) | [Nearer My God](https://open.spotify.com/album/6l3mTuQHtjeqoyYWkTxld8) | 3:35 |
 | 72 | [Real Long Time](https://open.spotify.com/track/3XJWtFxgZdEn1pyFlirO1l) | [White Reaper](https://open.spotify.com/artist/75klPfIVnyYcyEGaicRUSF) | [You Deserve Love](https://open.spotify.com/album/2hzRKcoWZUPY5M1qMrgtmR) | 3:17 |
 | 73 | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/track/6wxdyMsMqUHOeMffm1Gsch) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4), [Middle Part](https://open.spotify.com/artist/73QtCj6d6vlI7qkLDDJJx8) | [It's Depression \(feat\. Middle Part\)](https://open.spotify.com/album/71tpQtJhXuTp5sYYWasvwW) | 3:13 |
 | 74 | [Oh My My](https://open.spotify.com/track/3OR8O5EjN3IZEFT7iowYKa) | [Blue October](https://open.spotify.com/artist/1TJbmc7jTpw78GKCiMpvDh) | [Oh My My](https://open.spotify.com/album/6MoMht0lEZoUP0tgeFhQ2I) | 3:11 |

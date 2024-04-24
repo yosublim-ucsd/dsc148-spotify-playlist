@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU6aakG7fctq.md) - [plain]
 
 > Fresh Latin Indie you should know\. Cover: VALÉ
 
-[Spotify](https://open.spotify.com/user/spotify) - 485,787 likes - 55 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 484,916 likes - 55 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

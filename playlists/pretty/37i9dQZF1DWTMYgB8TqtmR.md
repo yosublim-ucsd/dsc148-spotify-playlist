@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > It's Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 877,926 likes - 51 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 877,577 likes - 51 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 
 > Music to get your heart started.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,104 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,132 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7DBYY9PSkix.md) - [plain]
 | 46 | [All To Myself](https://open.spotify.com/track/08tq1XcHwVt5PHXUo87i0D) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 2:49 |
 | 47 | [Cowboy Killer](https://open.spotify.com/track/6a2DSH1UNOj3wRAFTD2Ljd) | [Ian Munsick](https://open.spotify.com/artist/7HjGPPtdNuHcK8crc7iNkn), [Ryan Charles](https://open.spotify.com/artist/2BQredfxFMAX642ezVqQOS) | [Cowboy Killer](https://open.spotify.com/album/6wEudMIzDIZpv3iomxAIYf) | 2:12 |
 | 48 | [Good Vibes](https://open.spotify.com/track/1XVqh0dC0PIl72f2mQhsVt) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 2:45 |
-| 49 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
-| 50 | [No Shoes, No Shirt, No Problems](https://open.spotify.com/track/208bYsadJ56km31IENM2qS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [No Shoes, No Shirt, No Problems](https://open.spotify.com/album/28fqmcfV4mpPsqhdNKUeTc) | 3:29 |
+| 49 | [No Shoes, No Shirt, No Problems](https://open.spotify.com/track/208bYsadJ56km31IENM2qS) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [No Shoes, No Shirt, No Problems](https://open.spotify.com/album/28fqmcfV4mpPsqhdNKUeTc) | 3:29 |
+| 50 | [Kerosene](https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Kerosene](https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1) | 3:05 |
 | 51 | [Hard To Forget](https://open.spotify.com/track/10xuH52YSXHWFwCaF1fsDd) | [Sam Hunt](https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38) | [SOUTHSIDE](https://open.spotify.com/album/1xRcR4iSouBrfVhuqFkPAJ) | 3:24 |
 | 52 | [Ain't Worth the Whiskey](https://open.spotify.com/track/3OZVqx1YsqDDkxQ6TnmHtn) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Cole Swindell](https://open.spotify.com/album/2mlPEYhK1KwDD45CCCWxaH) | 3:11 |
 | 53 | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/track/0pnKcAh5binHOP9HexWwnZ) | [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [Dancin' In The Moonlight \(feat\. Lauren Alaina\)](https://open.spotify.com/album/0UsGyt84mXODfb3IteNHdr) | 3:19 |

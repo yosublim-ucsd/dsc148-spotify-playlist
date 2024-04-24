@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 16,
+  "2024-04-24": 16,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -3684,24 +3684,6 @@
     },
     {
       "album": {
-        "name": "Can You Make It Harder?",
-        "url": "https://open.spotify.com/album/2nfFxigPlhMyUFIoPi8IwG"
-      },
-      "artists": [
-        {
-          "name": "Ixper",
-          "url": "https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN"
-        }
-      ],
-      "date_added": "2023-10-09",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 156206,
-      "name": "Can You Make It Harder?",
-      "url": "https://open.spotify.com/track/1X7WYFxcE7SW0JPyAt2jYC"
-    },
-    {
-      "album": {
         "name": "Can't Get You Outta My Head",
         "url": "https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ"
       },
@@ -7255,6 +7237,24 @@
       "duration_ms": 260923,
       "name": "Execute - INVADE Remix",
       "url": "https://open.spotify.com/track/4L2fzotymdHZ2QadB8bge4"
+    },
+    {
+      "album": {
+        "name": "EY YO IXPER, CAN YOU MAKE IT HARDER?",
+        "url": "https://open.spotify.com/album/2nfFxigPlhMyUFIoPi8IwG"
+      },
+      "artists": [
+        {
+          "name": "Ixper",
+          "url": "https://open.spotify.com/artist/4rP4FtB36MD5u3FgV3xlVN"
+        }
+      ],
+      "date_added": "2023-10-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156206,
+      "name": "EY YO IXPER, CAN YOU MAKE IT HARDER?",
+      "url": "https://open.spotify.com/track/1X7WYFxcE7SW0JPyAt2jYC"
     },
     {
       "album": {
@@ -21372,6 +21372,28 @@
     },
     {
       "album": {
+        "name": "Subs",
+        "url": "https://open.spotify.com/album/5PDX0IEqL4DYKNSKW6RBMO"
+      },
+      "artists": [
+        {
+          "name": "Tryptid",
+          "url": "https://open.spotify.com/artist/6nSI6ZooFQFwXPlUnpqXPs"
+        },
+        {
+          "name": "Darkside Unleashed",
+          "url": "https://open.spotify.com/artist/0L6VAL1gjaX0qWC3MD8OVl"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190857,
+      "name": "Subs",
+      "url": "https://open.spotify.com/track/1NSnohQTrSZpCKCuHsTX2r"
+    },
+    {
+      "album": {
         "name": "Sugar Daddy",
         "url": "https://open.spotify.com/album/233cyjdSMcF37MNJ038Sv5"
       },
@@ -22555,6 +22577,24 @@
       "duration_ms": 230915,
       "name": "The Fist And The Hammer",
       "url": "https://open.spotify.com/track/1r4sVxB9x95LE028g9exm1"
+    },
+    {
+      "album": {
+        "name": "The Flow",
+        "url": "https://open.spotify.com/album/5E3eo95AbTEUW5DdiBNOJr"
+      },
+      "artists": [
+        {
+          "name": "Remzcore",
+          "url": "https://open.spotify.com/artist/0mv06HWAJhV6nK7zd2eZwp"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179027,
+      "name": "The Flow",
+      "url": "https://open.spotify.com/track/1RSuXbzWO7b34EDGTTRgCg"
     },
     {
       "album": {

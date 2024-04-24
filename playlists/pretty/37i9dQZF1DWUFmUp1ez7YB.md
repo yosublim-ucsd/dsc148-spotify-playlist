@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 
 > Los éxitos de la salsa de ayer y hoy en un sólo lugar\. Foto: Marc Anthony
 
-[Spotify](https://open.spotify.com/user/spotify) - 711,027 likes - 90 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 712,014 likes - 90 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 40 | [En Barranquilla Me Quedo](https://open.spotify.com/track/3WXfQDsASfXrSojk9WB3aR) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [32 Cañonazos](https://open.spotify.com/album/6ubTK1qVLWQSblspjFxtZn) | 5:12 |
 | 41 | [Amor y Control](https://open.spotify.com/track/303cDwi274kSEH0NSR73AX) | [Rubén Blades](https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj) | [Amor Y Control](https://open.spotify.com/album/1kPq7UKuMaC8bELSvLgofj) | 5:52 |
 | 42 | [No Me Acostumbro](https://open.spotify.com/track/4SjBGbtJz77ximBiOZcIn6) | [Rey Ruiz](https://open.spotify.com/artist/1S0uvW1rgvtkNGma9su3fJ) | [Oro Salsero](https://open.spotify.com/album/5X1QYXR9eQO3cYZrqeoIYE) | 4:49 |
-| 43 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
-| 44 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
+| 43 | [Lluvia](https://open.spotify.com/track/5Ba4YFq13YdsTosd7mwqzi) | [Eddie Santiago](https://open.spotify.com/artist/5Wg6XnPTp0xXxFCjywwR9I) | [De Verdad](https://open.spotify.com/album/1MNS4bn9b4b1E5J4w9ogP7) | 4:56 |
+| 44 | [Aquél Viejo Motel](https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv) | [David Pabon](https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE) | [Oro Salsero](https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo) | 5:08 |
 | 45 | [Pa' Bravo Yo](https://open.spotify.com/track/5kzoRHOhLIGVQGsxi8fWpy) | [Justo Betancourt](https://open.spotify.com/artist/1Mq5Rgvn4D37tQdwuFL689) | [Pa' Bravo Yo](https://open.spotify.com/album/0Ggehw0oAdAUNoipqO2Sqh) | 3:44 |
 | 46 | [Apiádate de Mi](https://open.spotify.com/track/4ZVgDysve5dcNK6TX84t8e) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:04 |
 | 47 | [Oye Cómo Va](https://open.spotify.com/track/73uEbChpBB29ttwVnwuNVE) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [El Rey Bravo](https://open.spotify.com/album/7J3VF3HcxYEYr2tRFoaqNq) | 4:34 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmUp1ez7YB.md) - [plain]
 | 61 | [Probablemente](https://open.spotify.com/track/2eM20Ku7jc2DVpV1EHNpra) | [Daniela Darcourt](https://open.spotify.com/artist/4exGY59juoSimpcH1NiuaR) | [Probablemente](https://open.spotify.com/album/32AgR7Sj131DnYVqwzAELP) | 5:00 |
 | 62 | [Dile A Ella](https://open.spotify.com/track/45nyOQWvhjn9bfAoTIKCuJ) | [Víctor Manuelle](https://open.spotify.com/artist/4N5fp4zhTsVITZTVfsXpc2) | [Exitos de Victor Manuelle](https://open.spotify.com/album/00t11Er6J0FAKiGP1B8r0P) | 5:05 |
 | 63 | [La Noche](https://open.spotify.com/track/2uyCcoHiRGttV0uXaNXGB1) | [Joe Arroyo](https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg), [La Verdad](https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM) | [Milenario, Vol\. 3](https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2) | 4:25 |
-| 64 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
-| 65 | [Desesperado](https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 3:50 |
+| 64 | [Desesperado](https://open.spotify.com/track/3NYWeHXkfrcYa4iXegFUR5) | [Luis Enrique](https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI) | [Colección De Oro](https://open.spotify.com/album/10ylTveyo286PAtFn5gXVo) | 3:50 |
+| 65 | [Desnúdate Mujer](https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL) | [Frankie Ruiz](https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV) | [Voy Pa'Encima](https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML) | 4:47 |
 | 66 | [Usted Abusó](https://open.spotify.com/track/3FNjqlfbQ153UsLKhDIxHo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Willie Colón](https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW) | [The 'Brillante' Best](https://open.spotify.com/album/1YTyamO7TMTaKM9vtfKk25) | 4:19 |
 | 67 | [Conciencia](https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj) | [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1) | [Mis Favoritas](https://open.spotify.com/album/2olA7NVTMFYdWOp14n8YLK) | 5:31 |
 | 68 | [La Cartera](https://open.spotify.com/track/1mpKcP8f2gQrInkh2FLb1N) | [Orquesta Harlow](https://open.spotify.com/artist/7tR38XlRHmElbNAWRiHb9W), [Larry Harlow](https://open.spotify.com/artist/2PGJmP6AvSCQ7pKBOjrg8J), [Junior Gonzalez](https://open.spotify.com/artist/7cRTfuZ5VJhWfVjuN3XGyY) | [Salsa](https://open.spotify.com/album/5Q5kjxNsrkZ2ImkRUi7w3c) | 6:26 |

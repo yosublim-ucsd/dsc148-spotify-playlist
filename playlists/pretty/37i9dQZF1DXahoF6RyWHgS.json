@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A preparar la comida con la saz\u00f3n de m\u00fasica tradicional y deliciosa! \ud83c\udf45\ud83c\udf36\ufe0f\ud83c\udf72\ud83c\udfb5\ud83d\udc69\u200d\ud83c\udf73",
-  "num_followers": 43244,
+  "num_followers": 43242,
   "original_name": "Cocina Tradicional",
   "owner": {
     "name": "Spotify",
@@ -397,22 +397,6 @@
       "url": "https://open.spotify.com/track/4lwhl74qt01u3U9ZOiQh3s"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Nuevo Son Jarocho",
-        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Jardin",
-          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
-        }
-      ],
-      "duration_ms": 262133,
-      "name": "La Bruja",
-      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "The Soul Of The Drums",
@@ -429,20 +413,20 @@
       "url": "https://open.spotify.com/track/7zpbyRkpMvD0Enc1b9muHq"
     },
     {
-      "added_at": "2020-05-28 20:45:13",
+      "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Moliendo caf\u00e9 aux Portales (Le son de Veracruz)",
-        "url": "https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn"
+        "name": "Nuevo Son Jarocho",
+        "url": "https://open.spotify.com/album/5N6LeE3fGxhD6D0MEgZkNr"
       },
       "artists": [
         {
-          "name": "La Negra Graciana",
-          "url": "https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X"
+          "name": "Conjunto Jardin",
+          "url": "https://open.spotify.com/artist/0Kh15Of3lmMoXKsR8s5tA0"
         }
       ],
-      "duration_ms": 216280,
-      "name": "Moliendo caf\u00e9",
-      "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
+      "duration_ms": 262133,
+      "name": "La Bruja",
+      "url": "https://open.spotify.com/track/4VWPPn68WVGZK2xwDzS9KE"
     },
     {
       "added_at": "2022-02-04 19:55:03",
@@ -459,6 +443,22 @@
       "duration_ms": 238586,
       "name": "Caf\u00e9 Caf\u00e9",
       "url": "https://open.spotify.com/track/7pOrjaSlEgPsWZhrIar1zf"
+    },
+    {
+      "added_at": "2020-05-28 20:45:13",
+      "album": {
+        "name": "Moliendo caf\u00e9 aux Portales (Le son de Veracruz)",
+        "url": "https://open.spotify.com/album/2pVE1SNgI9pR2nA446bTYn"
+      },
+      "artists": [
+        {
+          "name": "La Negra Graciana",
+          "url": "https://open.spotify.com/artist/446So3wX1wSbd6iPkVGR3X"
+        }
+      ],
+      "duration_ms": 216280,
+      "name": "Moliendo caf\u00e9",
+      "url": "https://open.spotify.com/track/4f9QsKNCb667ijEC9wJ8hs"
     },
     {
       "added_at": "2022-01-11 03:10:29",
@@ -773,22 +773,6 @@
       "url": "https://open.spotify.com/track/1Y7JDqUVbaHRPsLJtSY8ie"
     },
     {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
-        "name": "Live At The First Annual San Francisco Son Jarocho Festival",
-        "url": "https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN"
-      },
-      "artists": [
-        {
-          "name": "Los Cojolites",
-          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
-        }
-      ],
-      "duration_ms": 545467,
-      "name": "Luna Negra - Live",
-      "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
-    },
-    {
       "added_at": "2020-05-28 20:45:13",
       "album": {
         "name": "Latin Soul Syndicate",
@@ -803,6 +787,22 @@
       "duration_ms": 239760,
       "name": "Frida Kahlo aka Mamasita",
       "url": "https://open.spotify.com/track/0kVOs0kuxFduJQSGA3YA3x"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Live At The First Annual San Francisco Son Jarocho Festival",
+        "url": "https://open.spotify.com/album/5OFT3JolZgTwmIRLTEXtDN"
+      },
+      "artists": [
+        {
+          "name": "Los Cojolites",
+          "url": "https://open.spotify.com/artist/6SFpEAywC3u4kjE00wHMoO"
+        }
+      ],
+      "duration_ms": 545467,
+      "name": "Luna Negra - Live",
+      "url": "https://open.spotify.com/track/2tVkvdgt2Gnf4kTp6bbn7Y"
     },
     {
       "added_at": "2020-05-28 20:45:13",
@@ -971,22 +971,6 @@
     {
       "added_at": "2022-01-11 03:10:29",
       "album": {
-        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
-        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
-      },
-      "artists": [
-        {
-          "name": "Los Panchos",
-          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
-        }
-      ],
-      "duration_ms": 186107,
-      "name": "Jacarandosa - Remastered",
-      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
-    },
-    {
-      "added_at": "2022-01-11 03:10:29",
-      "album": {
         "name": "Mar\u00eda Cristina (Remastered)",
         "url": "https://open.spotify.com/album/0DoO50j6mZVJ3W7vf1YRW3"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 158467,
       "name": "Maria Cristina - Remastered",
       "url": "https://open.spotify.com/track/5sdcFoCzltb0otINxAFwdl"
+    },
+    {
+      "added_at": "2022-01-11 03:10:29",
+      "album": {
+        "name": "Por siempre Los Panchos, Vol. 1 - Noche de ronda y otros \u00e9xitos (Remastered)",
+        "url": "https://open.spotify.com/album/5Z5H3W0jLUyhzY8Fr1CDe8"
+      },
+      "artists": [
+        {
+          "name": "Los Panchos",
+          "url": "https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "Jacarandosa - Remastered",
+      "url": "https://open.spotify.com/track/43gIa4GPVqRnI7xEon9P6j"
     },
     {
       "added_at": "2020-05-28 20:45:13",

@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0X3Z1S) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0X3Z1S)
 
-### [This Is ジョナス・ブルー](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S)
+### [This Is Jonas Blue](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0X3Z1S)
 
-> This is ジョナス・ブルー。アーティストの代表曲をひとつのプレイリストに。
+> This Is Jonas Blue\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,037 likes - 47 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,023 likes - 47 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0X3Z1S.md) - [plain]
 | 46 | [Fade \- Jonas Blue Vocal Mix](https://open.spotify.com/track/6Q1v4ZvXui7kMfBLzr9Vca) | [Solu Music](https://open.spotify.com/artist/0lpwsK5bX64iD7GjEda5De), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [KimBlee](https://open.spotify.com/artist/4OKxdPfybjZIWXLj8rml2s) | [Fade](https://open.spotify.com/album/5o15ApBZwwn2zkLHqSiPNK) | 3:39 |
 | 47 | [Siento](https://open.spotify.com/track/65d4aua5FrYn9CyKfmABR4) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf) | [Siento](https://open.spotify.com/album/2gXRx1iRPgKVSltTi7eBNa) | 3:37 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGU0ZWJiY2NjNzBlZWU4OGY1NmU1OWQ2MTEyYWM2MmVk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDJjODgzOGQxMmQzNmYxOTJkODY3YTIwMDUzYjg4OTlh`

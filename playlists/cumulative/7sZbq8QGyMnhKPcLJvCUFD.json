@@ -10271,6 +10271,24 @@
     },
     {
       "album": {
+        "name": "Vibe",
+        "url": "https://open.spotify.com/album/14lPbRLedj0B2d2zNRPEUq"
+      },
+      "artists": [
+        {
+          "name": "Spicyverse",
+          "url": "https://open.spotify.com/artist/1z7TqqEGp09sWiGRpsVfyD"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179580,
+      "name": "Vibe",
+      "url": "https://open.spotify.com/track/25Pk28XXDZL3MFwQ4NhkXy"
+    },
+    {
+      "album": {
         "name": "Vienna",
         "url": "https://open.spotify.com/album/1mP6fGKWD1xGXHA3kUR43N"
       },

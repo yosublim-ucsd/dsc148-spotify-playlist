@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 
 > Todo o calor latino está aqui! 🔥  foto: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,178 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,223 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7dXtI26GOnj.md) - [plain]
 | 70 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 |
 | 71 | [La Triple T](https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La Triple T](https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv) | 2:47 |
 | 72 | [GTA.mp3](https://open.spotify.com/track/3bRWGhpeNUkJfFydelSwBk) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [GTA.mp3](https://open.spotify.com/album/7AVLk5G6gJXtgqaUJDKyF2) | 2:31 |
-| 73 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 |
-| 74 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 |
+| 73 | [Bandoleros](https://open.spotify.com/track/4MLSjN1xAevuHXoSs8etwl) | [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z), [Tego Calderón](https://open.spotify.com/artist/3SUT1jjM5hzZj9TLfLZGIP) | [Los Bandoleros](https://open.spotify.com/album/4g9Ot68iaFXL0z4Zadz7Pw) | 5:05 |
+| 74 | [69](https://open.spotify.com/track/13Z5Q40pa1Ly7aQk1oW8Ce) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [69](https://open.spotify.com/album/6Zj7qmBZ7MRZ276b67CLi2) | 3:41 |
 | 75 | [qué le pasa conmigo?](https://open.spotify.com/track/4TrYGTVgWOe2s3ZPn5qFTa) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [qué le pasa conmigo?](https://open.spotify.com/album/2U3fK2dphVapz4xU77aflc) | 2:47 |
 | 76 | [Santorini](https://open.spotify.com/track/2FVSQR0FXAIBkPtkkIMigS) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Santorini](https://open.spotify.com/album/43pq1lauxP6T2c4ySugI0Z) | 2:40 |
 | 77 | [La Fórmula](https://open.spotify.com/track/5Fh9fyHRnSwKLo4asG6fEX) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [La Fórmula](https://open.spotify.com/album/5BMotNmzFRoGABaWM6YFI2) | 4:27 |

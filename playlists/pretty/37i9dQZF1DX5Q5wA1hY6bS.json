@@ -1,6 +1,6 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1443856,
+  "num_followers": 1441987,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
         "name": "Sermon on the Rocks",
         "url": "https://open.spotify.com/album/5OF3OR07FFYm89YJqk7jEH"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 196195,
       "name": "Getting Ready to Get Down",
       "url": "https://open.spotify.com/track/5gTvQeSZbSFJdh7dxF71e0"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "Time in the Sun",
-        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
-      },
-      "artists": [
-        {
-          "name": "Susto",
-          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
-        }
-      ],
-      "duration_ms": 201892,
-      "name": "Good Right Now",
-      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 252301,
       "name": "People Need A Melody",
       "url": "https://open.spotify.com/track/7vVtCG0LmChEV6NaIwALOh"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
+        "name": "Time in the Sun",
+        "url": "https://open.spotify.com/album/4zDxvE6VjZfELyXA13kLmn"
+      },
+      "artists": [
+        {
+          "name": "Susto",
+          "url": "https://open.spotify.com/artist/7foyQbi7GKriLiv1GPVEwt"
+        }
+      ],
+      "duration_ms": 201892,
+      "name": "Good Right Now",
+      "url": "https://open.spotify.com/track/7k6Ia6hsrweMKk1LiObkC9"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
+        "name": "Just This",
+        "url": "https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc"
+      },
+      "artists": [
+        {
+          "name": "Birdtalker",
+          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+        }
+      ],
+      "duration_ms": 264150,
+      "name": "Heavy",
+      "url": "https://open.spotify.com/track/1jzo5QmpKa8eLSF3NOJzPe"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
         "name": "Saturn Return",
         "url": "https://open.spotify.com/album/3grv66GSazERZLzTlS8LrA"
       },
@@ -1047,18 +1063,18 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "Just This",
-        "url": "https://open.spotify.com/album/3ghdDK7VnSwx6XvUeE4HJc"
+        "name": "O' Be Joyful",
+        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
       },
       "artists": [
         {
-          "name": "Birdtalker",
-          "url": "https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt"
+          "name": "Shovels & Rope",
+          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
         }
       ],
-      "duration_ms": 264150,
-      "name": "Heavy",
-      "url": "https://open.spotify.com/track/1jzo5QmpKa8eLSF3NOJzPe"
+      "duration_ms": 148680,
+      "name": "O' Be Joyful",
+      "url": "https://open.spotify.com/track/2BH76TIFmTWXKnQxGlwfrG"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1075,22 +1091,6 @@
       "duration_ms": 194026,
       "name": "Borderline",
       "url": "https://open.spotify.com/track/3n1O2V1FyxebYNlsl0Zbi6"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
-        "name": "O' Be Joyful",
-        "url": "https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk"
-      },
-      "artists": [
-        {
-          "name": "Shovels & Rope",
-          "url": "https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "O' Be Joyful",
-      "url": "https://open.spotify.com/track/2BH76TIFmTWXKnQxGlwfrG"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1375,6 +1375,22 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
+      },
+      "artists": [
+        {
+          "name": "Trudy and the Romance",
+          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
+        }
+      ],
+      "duration_ms": 242844,
+      "name": "Angel",
+      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 216038,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
-      },
-      "artists": [
-        {
-          "name": "Trudy and the Romance",
-          "url": "https://open.spotify.com/artist/2eg89iLHG4JMEUZQmFaxou"
-        }
-      ],
-      "duration_ms": 242844,
-      "name": "Angel",
-      "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
     },
     {
       "added_at": "2024-04-22 22:29:15",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-04-22 22:29:15",
       "album": {
-        "name": "Canyons of my Mind",
-        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
-      },
-      "artists": [
-        {
-          "name": "Andrew Combs",
-          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
-        }
-      ],
-      "duration_ms": 255986,
-      "name": "Better Way",
-      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
-    },
-    {
-      "added_at": "2024-04-22 22:29:15",
-      "album": {
         "name": "Backpush",
         "url": "https://open.spotify.com/album/0vKhuvHMBrPryyetnK4mWj"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 182152,
       "name": "Backpush",
       "url": "https://open.spotify.com/track/7hvKZ3NHYhcM4wiNccX4EF"
+    },
+    {
+      "added_at": "2024-04-22 22:29:15",
+      "album": {
+        "name": "Canyons of my Mind",
+        "url": "https://open.spotify.com/album/6pV57sA6D7z21yEZPZ7U9g"
+      },
+      "artists": [
+        {
+          "name": "Andrew Combs",
+          "url": "https://open.spotify.com/artist/4ONwFcI8RGvYMG1vEIdS11"
+        }
+      ],
+      "duration_ms": 255986,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/3VThpW3UX13QbXHDNQqxvo"
     },
     {
       "added_at": "2024-04-22 22:29:15",

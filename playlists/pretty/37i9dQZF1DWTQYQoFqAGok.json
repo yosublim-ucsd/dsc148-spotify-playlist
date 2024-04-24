@@ -1,29 +1,13 @@
 {
-  "description": "Descubre la escena del jazz en M\u00e9xico en la curadur\u00eda de los expertos Mariana P\u00e9rez,  Juan Carlos Reyes, Erik Montenegro y Jos\u00e9 Enrique Fern\u00e1ndez.",
-  "num_followers": 59684,
+  "description": "Descubre la escena del jazz en M\u00e9xico \ud83c\udfb7\ud83c\udfb9\ud83c\udfb6\ud83c\uddf2\ud83c\uddfd",
+  "num_followers": 59696,
   "original_name": "Jazz en M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcwMDcwOTI0NiwwMDAwMDAwMDM0ZWY4MWQ4NDkwYTE1MTk3ZTRhOTFkZGRmNWE4OWZm",
+  "snapshot_id": "MTcxMzgzOTIwMCwwMDAwMDAwMDhjNmZkNzgwMzgyYzI1OTIyZWU2ODU5YTRkNDU5YTU5",
   "tracks": [
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "Deseo del Tiempo",
-        "url": "https://open.spotify.com/album/4XJBrYgnGUpkpIaj2HOLph"
-      },
-      "artists": [
-        {
-          "name": "Andrea B\u00e1sef",
-          "url": "https://open.spotify.com/artist/7Ekf6XS5tD24ZZf6slGP1A"
-        }
-      ],
-      "duration_ms": 244682,
-      "name": "Entrega Total",
-      "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
-    },
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
@@ -39,6 +23,22 @@
       "duration_ms": 156960,
       "name": "Excusez-Moi",
       "url": "https://open.spotify.com/track/2O13YCjbszhxzkVxEMn1Ht"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Deseo del Tiempo",
+        "url": "https://open.spotify.com/album/4XJBrYgnGUpkpIaj2HOLph"
+      },
+      "artists": [
+        {
+          "name": "Andrea B\u00e1sef",
+          "url": "https://open.spotify.com/artist/7Ekf6XS5tD24ZZf6slGP1A"
+        }
+      ],
+      "duration_ms": 244682,
+      "name": "Entrega Total",
+      "url": "https://open.spotify.com/track/1zQ6VQQqjSree6Nvp9QWbC"
     },
     {
       "added_at": "2023-04-12 01:24:34",
@@ -507,7 +507,7 @@
     {
       "added_at": "2023-11-23 03:14:06",
       "album": {
-        "name": "Mosquita muerta (Versi\u00f3n Mariachi)",
+        "name": "Mosquita Muerta (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/34K3eLF3P1vN72v6Ly6EKv"
       },
       "artists": [
@@ -517,7 +517,7 @@
         }
       ],
       "duration_ms": 323800,
-      "name": "Mosquita muerta - Versi\u00f3n Mariachi",
+      "name": "Mosquita Muerta - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/1OJEvEfw2Fr3oPYKt93841"
     },
     {
@@ -695,6 +695,22 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
+        "name": "Hilando Lunas",
+        "url": "https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J"
+      },
+      "artists": [
+        {
+          "name": "Dulce Resillas & Fabiola Franyutti",
+          "url": "https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2"
+        }
+      ],
+      "duration_ms": 364520,
+      "name": "Cenit",
+      "url": "https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
         "name": "Orquesta Moderna",
         "url": "https://open.spotify.com/album/60KHICOjM4zeffZYe3hk3i"
       },
@@ -723,38 +739,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Hilando Lunas",
-        "url": "https://open.spotify.com/album/6C13qGox9uh2MgZh95Qf7J"
-      },
-      "artists": [
-        {
-          "name": "Dulce Resillas & Fabiola Franyutti",
-          "url": "https://open.spotify.com/artist/781URXrzn60PTYO1zNStV2"
-        }
-      ],
-      "duration_ms": 364520,
-      "name": "Cenit",
-      "url": "https://open.spotify.com/track/3MUqgBDIhaytohPYg5a5P0"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
-        "name": "So\u00f1e - Jazz Mexicano",
-        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Batiz",
-          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "La Cocola",
-      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Andamos Huyendo",
         "url": "https://open.spotify.com/album/6FJPUB4pLZxCKGUJDgDHQQ"
       },
@@ -771,18 +755,18 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Jazz",
-        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+        "name": "So\u00f1e - Jazz Mexicano",
+        "url": "https://open.spotify.com/album/1d4BQoieyMuga0PEjsdcB6"
       },
       "artists": [
         {
-          "name": "Chucho Zarzosa Y Su Conjunto",
-          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+          "name": "Gerardo Batiz",
+          "url": "https://open.spotify.com/artist/6xBEVM1pgWPp5v93sBVcm3"
         }
       ],
-      "duration_ms": 157586,
-      "name": "Tipitipit\u00edn",
-      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+      "duration_ms": 266866,
+      "name": "La Cocola",
+      "url": "https://open.spotify.com/track/2XxyE2LiLidlNXuoYpczZA"
     },
     {
       "added_at": "2021-07-28 16:44:28",
@@ -811,22 +795,6 @@
     {
       "added_at": "2021-07-28 16:44:28",
       "album": {
-        "name": "Mi Sentimiento Guerrerense",
-        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
-      },
-      "artists": [
-        {
-          "name": "Guerrero Jazz",
-          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
-        }
-      ],
-      "duration_ms": 339280,
-      "name": "Por los Caminos del Sur",
-      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
-    },
-    {
-      "added_at": "2021-07-28 16:44:28",
-      "album": {
         "name": "Mezcal",
         "url": "https://open.spotify.com/album/0siHdOQxgRjJBawzzQqksX"
       },
@@ -839,6 +807,38 @@
       "duration_ms": 393786,
       "name": "La Cigarra",
       "url": "https://open.spotify.com/track/5VoLcv7J5mAwcRANKImy4R"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Jazz",
+        "url": "https://open.spotify.com/album/5UlTOip0x8FRlBjf3hSNtv"
+      },
+      "artists": [
+        {
+          "name": "Chucho Zarzosa Y Su Conjunto",
+          "url": "https://open.spotify.com/artist/5rX3FXPe4kE1fJNCQhlJ3E"
+        }
+      ],
+      "duration_ms": 157586,
+      "name": "Tipitipit\u00edn",
+      "url": "https://open.spotify.com/track/17QiAjaQ2uGVY7aLEfPmoj"
+    },
+    {
+      "added_at": "2021-07-28 16:44:28",
+      "album": {
+        "name": "Mi Sentimiento Guerrerense",
+        "url": "https://open.spotify.com/album/6035edQMGEkEvpgomvasDC"
+      },
+      "artists": [
+        {
+          "name": "Guerrero Jazz",
+          "url": "https://open.spotify.com/artist/1e7vAz7CGvceTRGJ4E1Sl6"
+        }
+      ],
+      "duration_ms": 339280,
+      "name": "Por los Caminos del Sur",
+      "url": "https://open.spotify.com/track/5P4gJvoE9ynAgJdAxp8mlt"
     },
     {
       "added_at": "2021-07-28 16:44:28",

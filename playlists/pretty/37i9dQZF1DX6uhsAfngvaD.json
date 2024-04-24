@@ -1,6 +1,6 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 305069,
+  "num_followers": 305118,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
@@ -261,22 +261,6 @@
       "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
     },
     {
-      "added_at": "2024-01-26 00:52:30",
-      "album": {
-        "name": "The Dream",
-        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
-      },
-      "artists": [
-        {
-          "name": "Still Corners",
-          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
-        }
-      ],
-      "duration_ms": 289800,
-      "name": "The Dream",
-      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
-    },
-    {
       "added_at": "2024-02-09 00:00:00",
       "album": {
         "name": "2016",
@@ -291,6 +275,22 @@
       "duration_ms": 180033,
       "name": "2016",
       "url": "https://open.spotify.com/track/5U2fE6X1VI0BVQo3447if0"
+    },
+    {
+      "added_at": "2024-01-26 00:52:30",
+      "album": {
+        "name": "The Dream",
+        "url": "https://open.spotify.com/album/62uhsuwFgWwv9us2Bbyrst"
+      },
+      "artists": [
+        {
+          "name": "Still Corners",
+          "url": "https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp"
+        }
+      ],
+      "duration_ms": 289800,
+      "name": "The Dream",
+      "url": "https://open.spotify.com/track/15s06QEvaFBz2WkAXNFHSL"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/4mdZWoL6PJATO5gn1YGVdV"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
-      },
-      "artists": [
-        {
-          "name": "Night Tapes",
-          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
-        }
-      ],
-      "duration_ms": 294640,
-      "name": "Selene",
-      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
-    },
-    {
       "added_at": "2024-01-26 00:52:30",
       "album": {
         "name": "Coping Habits",
@@ -355,6 +339,22 @@
       "duration_ms": 159863,
       "name": "Up Late",
       "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/5vM130oQKE5jQ22EgX7Cy7"
+      },
+      "artists": [
+        {
+          "name": "Night Tapes",
+          "url": "https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU"
+        }
+      ],
+      "duration_ms": 294640,
+      "name": "Selene",
+      "url": "https://open.spotify.com/track/4npKDsY9jICNTZ9k1OCJWv"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -775,22 +775,6 @@
     {
       "added_at": "2023-09-29 10:51:04",
       "album": {
-        "name": "I Feel It",
-        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
-      },
-      "artists": [
-        {
-          "name": "Jaguar Sun",
-          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
-        }
-      ],
-      "duration_ms": 185182,
-      "name": "I Feel It",
-      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
-    },
-    {
-      "added_at": "2023-09-29 10:51:04",
-      "album": {
         "name": "Lost In A Rush Of Emptiness",
         "url": "https://open.spotify.com/album/3EvUVXwaGNkeqinGICcGQU"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 198767,
       "name": "Nothing Left To Lose",
       "url": "https://open.spotify.com/track/00udfYIC2Z9rLaghIxRh3x"
+    },
+    {
+      "added_at": "2023-09-29 10:51:04",
+      "album": {
+        "name": "I Feel It",
+        "url": "https://open.spotify.com/album/379yDlK37waTY9OTYkixcR"
+      },
+      "artists": [
+        {
+          "name": "Jaguar Sun",
+          "url": "https://open.spotify.com/artist/4WQwU51LUtrVrw0K8BMpAC"
+        }
+      ],
+      "duration_ms": 185182,
+      "name": "I Feel It",
+      "url": "https://open.spotify.com/track/2iaFl4QUYV75nGVb2Eic8o"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -923,22 +923,6 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Detox",
-        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
-      },
-      "artists": [
-        {
-          "name": "Bored at My Grandmas House",
-          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
-        }
-      ],
-      "duration_ms": 273455,
-      "name": "Detox",
-      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/7McuqEFa5qOZZpGesSnRvg"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 202026,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/28xKoto01psP4QaoISW5HY"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Detox",
+        "url": "https://open.spotify.com/album/35GawsI3gsZ0VzMxGzUaFI"
+      },
+      "artists": [
+        {
+          "name": "Bored at My Grandmas House",
+          "url": "https://open.spotify.com/artist/0hQ6Js0CTBu337vggHinhk"
+        }
+      ],
+      "duration_ms": 273455,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/3noiIjMMoDd5mrjMrdcFUu"
     },
     {
       "added_at": "2024-01-26 00:52:30",
@@ -987,6 +987,22 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
+        "name": "Hyper-normal",
+        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
+      },
+      "artists": [
+        {
+          "name": "GRAZER",
+          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
+        }
+      ],
+      "duration_ms": 195691,
+      "name": "Hyper-normal",
+      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
         "name": "Make Me Wanna",
         "url": "https://open.spotify.com/album/5NjTqkwOPJByuwuZB9oxjs"
       },
@@ -1003,22 +1019,6 @@
       "duration_ms": 202761,
       "name": "Make Me Wanna",
       "url": "https://open.spotify.com/track/4bDTwDYjVdTWMRvfoPGAla"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Hyper-normal",
-        "url": "https://open.spotify.com/album/3mQjXEpNYf3kXHXhRQt9YG"
-      },
-      "artists": [
-        {
-          "name": "GRAZER",
-          "url": "https://open.spotify.com/artist/66npZ0iLHcWmV2DAC8oYRF"
-        }
-      ],
-      "duration_ms": 195691,
-      "name": "Hyper-normal",
-      "url": "https://open.spotify.com/track/137bcY3t0tco8OqzumsF4z"
     },
     {
       "added_at": "2024-02-09 00:00:00",
@@ -1197,22 +1197,6 @@
       "url": "https://open.spotify.com/track/4Qr2AKqQO1s3YQ6gCV72Gd"
     },
     {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "Zero Division Error",
-        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
-      },
-      "artists": [
-        {
-          "name": "Parks, Squares and Alleys",
-          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Alliance",
-      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
-    },
-    {
       "added_at": "2023-09-29 10:51:04",
       "album": {
         "name": "Gemini (Edit)",
@@ -1231,34 +1215,18 @@
     {
       "added_at": "2023-07-21 10:37:28",
       "album": {
-        "name": "Sandrail Silhouette",
-        "url": "https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw"
+        "name": "Zero Division Error",
+        "url": "https://open.spotify.com/album/47UZcR4qvPMLF6mXkEFcPk"
       },
       "artists": [
         {
-          "name": "Avalon Emerson",
-          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+          "name": "Parks, Squares and Alleys",
+          "url": "https://open.spotify.com/artist/0botW5W7KGHTm8BkLemEH8"
         }
       ],
-      "duration_ms": 269446,
-      "name": "Sandrail Silhouette",
-      "url": "https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ"
-    },
-    {
-      "added_at": "2023-07-21 10:37:28",
-      "album": {
-        "name": "The Dark",
-        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
-      },
-      "artists": [
-        {
-          "name": "VHS Collection",
-          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
-        }
-      ],
-      "duration_ms": 235653,
-      "name": "The Dark",
-      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
+      "duration_ms": 189333,
+      "name": "Alliance",
+      "url": "https://open.spotify.com/track/20SJytWf5uMDM5IR8SyIpv"
     },
     {
       "added_at": "2023-07-21 10:37:28",
@@ -1279,6 +1247,38 @@
       "duration_ms": 179508,
       "name": "How Can I Love? - When I Can't Get Away from You",
       "url": "https://open.spotify.com/track/521d9sMAWCvOwsxKUtdZg3"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "The Dark",
+        "url": "https://open.spotify.com/album/1SUID15f2h7shEdz1eSRkv"
+      },
+      "artists": [
+        {
+          "name": "VHS Collection",
+          "url": "https://open.spotify.com/artist/2Nvaq4y2ygxIqfwXyz0HeH"
+        }
+      ],
+      "duration_ms": 235653,
+      "name": "The Dark",
+      "url": "https://open.spotify.com/track/707Ftz4B7hIPpnSkGdaDmt"
+    },
+    {
+      "added_at": "2023-07-21 10:37:28",
+      "album": {
+        "name": "Sandrail Silhouette",
+        "url": "https://open.spotify.com/album/2vBvUI6HDD4bClYmKl16yw"
+      },
+      "artists": [
+        {
+          "name": "Avalon Emerson",
+          "url": "https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz"
+        }
+      ],
+      "duration_ms": 269446,
+      "name": "Sandrail Silhouette",
+      "url": "https://open.spotify.com/track/1wanXEOnOjtVk93VFv0xIQ"
     },
     {
       "added_at": "2023-07-21 10:37:28",

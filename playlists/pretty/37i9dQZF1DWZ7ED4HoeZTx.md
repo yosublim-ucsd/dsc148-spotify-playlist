@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 
 > Your chill anime soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,505 likes - 50 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,581 likes - 50 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,14 +16,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ7ED4HoeZTx.md) - [plain]
 | 6 | [すずめ](https://open.spotify.com/track/3HCGX2gmPLu6ttkbYvPGTR) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7), [Toaka](https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR) | [すずめの戸締まり](https://open.spotify.com/album/1zw13BheGzuWgbm5CY4dJp) | 3:58 |
 | 7 | [Obsessed](https://open.spotify.com/track/2QYnONicU24TXbkhtaemOM) | [Ayumu Imazu](https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM) | [Obsessed](https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF) | 3:16 |
 | 8 | [Peaches](https://open.spotify.com/track/4w9soAM7IrmYDhSXLp14p6) | [Jack Black](https://open.spotify.com/artist/0qpMYTgbXRi1ZcX6vend3T) | [The Super Mario Bros\. Movie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3QITNyRzvTqn0t9tLmS1Vd) | 1:35 |
-| 9 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
+| 9 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
 | 10 | [again 〜YUI Acoustic Version〜](https://open.spotify.com/track/1jSmpQoTDhYJnPcvTnYml1) | [YUI](https://open.spotify.com/artist/5WBO8UyOuJ1l7ZBqqBimpO) | [It's all too much / Never say die](https://open.spotify.com/album/5s5VpPSwFyMBo3kd3bPvS2) | 4:20 |
 | 11 | [Octopus Daughter](https://open.spotify.com/track/5e0hPk2kJAqpVFeX9olJ9V) | [Serani Poji](https://open.spotify.com/artist/6JzJhoOtjzVLZpMi3Ppz3T) | [manamoon \(まなもぉん\)](https://open.spotify.com/album/49oWwsiDEYNBot7wKN92HG) | 6:04 |
 | 12 | [Mayonaka no Door / Stay With Me](https://open.spotify.com/track/2BHj31ufdEqVK5CkYDp9mA) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [Miki Matsubara Best Collection](https://open.spotify.com/album/1ANaxJNBcbOvvycNL4MCL5) | 5:12 |
 | 13 | [踊り子](https://open.spotify.com/track/4xk70Qur2QeRmWIzWPC63V) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [踊り子](https://open.spotify.com/album/4p30PkTJXqj3Sa58xkDpPM) | 3:50 |
 | 14 | [Lemon](https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:15 |
 | 15 | [Sparkle \- movie ver.](https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [Your Name.](https://open.spotify.com/album/4qApTp9557qYZzRLEih4uP) | 8:57 |
-| 16 | [ブルーバード](https://open.spotify.com/track/2XpV9sHBexcNrz0Gyf3l18) | [Ikimonogakari](https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ) | [Chou Ikimonobakari Tennen Kinen Members Best Selection](https://open.spotify.com/album/6CM8A3Uhws8mAcNOxpBRNq) | 3:35 |
+| 16 | [なんでもないよ、](https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [ハッピーエンドへの期待は](https://open.spotify.com/album/2pJn8hcJhOliBQipPHKsaz) | 3:39 |
 | 17 | [ゆめうつつ](https://open.spotify.com/track/1GTC0DN9LGOdP0NdvoHyX7) | [Lamp](https://open.spotify.com/artist/0rFHElzeddB9ymDjgpBENX) | [ランプ幻想](https://open.spotify.com/album/7b55VfUk2Vpuqnac9NDREc) | 5:15 |
 | 18 | [One Last Kiss](https://open.spotify.com/track/5RhWszHMSKzb7KiXk4Ae0M) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [One Last Kiss](https://open.spotify.com/album/3YXibprimHgDGwv8iPPT6S) | 4:12 |
 | 19 | [斜陽](https://open.spotify.com/track/2U6mFmBDjaAu6oCCDRpRet) | [ヨルシカ](https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik) | [斜陽](https://open.spotify.com/album/4FGNOtaosV0RFQZohUbGHj) | 3:20 |

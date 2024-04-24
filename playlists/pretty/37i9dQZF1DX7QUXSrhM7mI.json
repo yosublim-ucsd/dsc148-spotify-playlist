@@ -1,6 +1,6 @@
 {
   "description": "The soundtrack to lazing around.",
-  "num_followers": 77818,
+  "num_followers": 77941,
   "original_name": "Lazy Afternoon",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,6 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
-        "name": "Cold Little Heart (Radio Edit)",
-        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 210299,
-      "name": "Cold Little Heart - Radio Edit",
-      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
         "name": "Harry's House",
         "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 202183,
       "name": "Little Freak",
       "url": "https://open.spotify.com/track/3i058E8uxTsYqJ5NWZzqSj"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
+        "name": "Cold Little Heart (Radio Edit)",
+        "url": "https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 210299,
+      "name": "Cold Little Heart - Radio Edit",
+      "url": "https://open.spotify.com/track/7KX65PC1UZuImsUInThbav"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
-        "name": "Harry Styles",
-        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 224866,
-      "name": "Sweet Creature",
-      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
         "name": "Sweet Baby James (2019 Remaster)",
         "url": "https://open.spotify.com/album/1HiG0ukRmFPN13EVcf98Jx"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 242317,
       "name": "Some Things I'll Never Know",
       "url": "https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
+        "name": "Harry Styles",
+        "url": "https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "Sweet Creature",
+      "url": "https://open.spotify.com/track/5kRPPEWFJIMox5qIkQkiz5"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
+        "name": "Don't Forget Me",
+        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 251600,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/4zHb7PAazMdVXw2sOCNJ1V"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
-        "name": "Don't Forget Me",
-        "url": "https://open.spotify.com/album/3q149oaxOiW9EoHXqM5nvO"
+        "name": "You Promised A Lifetime",
+        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
       },
       "artists": [
         {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 251600,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/06qDEAG26TspT2yK2NLgEZ"
+      "duration_ms": 149605,
+      "name": "Sweet Love",
+      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -587,22 +603,6 @@
       "duration_ms": 216026,
       "name": "Holy Roller (feat. Sierra Ferrell)",
       "url": "https://open.spotify.com/track/3itgPtXSu4I9mr2QD6yrzP"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
-        "name": "You Promised A Lifetime",
-        "url": "https://open.spotify.com/album/6FoEvts0zjsATXcW0J1COW"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 149605,
-      "name": "Sweet Love",
-      "url": "https://open.spotify.com/track/4ilUlZEEDIoQEHNQCyufL0"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -731,26 +731,6 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
-        "name": "I Was / I Am",
-        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        },
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 186552,
-      "name": "Someone Like You (feat. Joy Oladokun)",
-      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
         "name": "Overtime (feat. Kacey Musgraves)",
         "url": "https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 173610,
       "name": "Overtime (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
+        "name": "I Was / I Am",
+        "url": "https://open.spotify.com/album/0b693AisoJYg4Ilj10LkYG"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        },
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 186552,
+      "name": "Someone Like You (feat. Joy Oladokun)",
+      "url": "https://open.spotify.com/track/0hiHNxqKGf3GZgVTIOAiiK"
     },
     {
       "added_at": "2024-04-12 04:46:08",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2024-04-12 04:46:08",
       "album": {
-        "name": "Too Good to be True",
-        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 160053,
-      "name": "Too Good to be True",
-      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
-    },
-    {
-      "added_at": "2024-04-12 04:46:08",
-      "album": {
         "name": "Lovers",
         "url": "https://open.spotify.com/album/5kopWecrOCWIxpgpukVfct"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 215773,
       "name": "Lovers",
       "url": "https://open.spotify.com/track/6q8onrzcka32nGVrnWYGBQ"
+    },
+    {
+      "added_at": "2024-04-12 04:46:08",
+      "album": {
+        "name": "Too Good to be True",
+        "url": "https://open.spotify.com/album/57y7NpfTINlnrNitu8vwft"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 160053,
+      "name": "Too Good to be True",
+      "url": "https://open.spotify.com/track/4vIiVs5JoNfqqRi5o7jAIb"
     },
     {
       "added_at": "2024-04-12 04:46:08",

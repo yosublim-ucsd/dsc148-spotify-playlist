@@ -1,6 +1,6 @@
 {
   "description": "The playlist version of a warm hug",
-  "num_followers": 82617,
+  "num_followers": 82600,
   "original_name": "Sweater Weather",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "The Recordings of the Middle East",
+        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
+      },
+      "artists": [
+        {
+          "name": "The Middle East",
+          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
+        }
+      ],
+      "duration_ms": 326920,
+      "name": "Blood",
+      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 196465,
       "name": "Drive",
       "url": "https://open.spotify.com/track/2kJqNHHGOzLNahukdvlDWN"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "The Recordings of the Middle East",
-        "url": "https://open.spotify.com/album/144r7yfO4RiEqyMcPmTXeJ"
-      },
-      "artists": [
-        {
-          "name": "The Middle East",
-          "url": "https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2"
-        }
-      ],
-      "duration_ms": 326920,
-      "name": "Blood",
-      "url": "https://open.spotify.com/track/13yuX1iqobZtQtq5lr8UoC"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -891,6 +891,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Nothing's Gonna Happen (Demo)",
+        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Nothing's Gonna Happen (Demo)",
+      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Now That The Light Is Fading",
         "url": "https://open.spotify.com/album/16wZsyXQ463IYlrXyJnRfY"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 200755,
       "name": "Autumn Leaves - Deluxe Edition",
       "url": "https://open.spotify.com/track/7iBSkXB0pTvZasOLf0Qxk9"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Nothing's Gonna Happen (Demo)",
-        "url": "https://open.spotify.com/album/77IaIITv6d4uIskRJnIu5U"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Nothing's Gonna Happen (Demo)",
-      "url": "https://open.spotify.com/track/4UZOq2XyfLk3Yl5ip4fwm7"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        }
-      ],
-      "duration_ms": 250836,
-      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "the author",
         "url": "https://open.spotify.com/album/0Uee3lkF3m9B8KIVFr4y9p"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 217213,
       "name": "the author",
       "url": "https://open.spotify.com/track/0uqFo6F9DppKZtwm3zhG3s"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        }
+      ],
+      "duration_ms": 250836,
+      "name": "Tim McGraw - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "The Old Parade",
-        "url": "https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq"
-      },
-      "artists": [
-        {
-          "name": "Tomo",
-          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
-        }
-      ],
-      "duration_ms": 200833,
-      "name": "The Old Parade",
-      "url": "https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Vanilla (Stairwell Version)",
         "url": "https://open.spotify.com/album/30AiPggrojM01hleb8j12f"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 246070,
       "name": "Vanilla (Stairwell Version)",
       "url": "https://open.spotify.com/track/7yuecadXy2rAgc6Id2D6Qw"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "The Old Parade",
+        "url": "https://open.spotify.com/album/1hgxMPc8eLOaXCYsQ9vRvq"
+      },
+      "artists": [
+        {
+          "name": "Tomo",
+          "url": "https://open.spotify.com/artist/7eMEpq0mpOCPTnLZaMZqAM"
+        }
+      ],
+      "duration_ms": 200833,
+      "name": "The Old Parade",
+      "url": "https://open.spotify.com/track/43oqobywDZTvS53P9VNFl3"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1395,6 +1395,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Fake Plastic Trees",
+        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
+      },
+      "artists": [
+        {
+          "name": "Holly Humberstone",
+          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Fake Plastic Trees",
+      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Folding",
         "url": "https://open.spotify.com/album/6sTaSyG6FDGDFW9uFXHYrL"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 289074,
       "name": "Follaton Wood",
       "url": "https://open.spotify.com/track/1bVlFkO4UyfNYWurqCghT7"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
-        "name": "Fake Plastic Trees",
-        "url": "https://open.spotify.com/album/6HeM8ZTANrAREphp6jQ5Ym"
-      },
-      "artists": [
-        {
-          "name": "Holly Humberstone",
-          "url": "https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx"
-        }
-      ],
-      "duration_ms": 260000,
-      "name": "Fake Plastic Trees",
-      "url": "https://open.spotify.com/track/2wVoRTUczkumuqcgNlRnLa"
     },
     {
       "added_at": "2023-12-01 16:37:09",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
+        "name": "Moonflowers (Binaural Acoustic Version)",
+        "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 183734,
+      "name": "Moonflowers (Binaural Acoustic Version)",
+      "url": "https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
         "name": "Snowfall",
         "url": "https://open.spotify.com/album/1NWnNK50HLjM19nqkISue4"
       },
@@ -1583,22 +1599,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Moonflowers (Binaural Acoustic Version)",
-        "url": "https://open.spotify.com/album/30l7reiNe2bU3AMLNx5J8I"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 183734,
-      "name": "Moonflowers (Binaural Acoustic Version)",
-      "url": "https://open.spotify.com/track/0ryEcI7PMq0Iwhn3jZHIQZ"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Love You Twice",
         "url": "https://open.spotify.com/album/6cCcFoDt2Zncbda2vn0Ji5"
       },
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2023-12-01 16:37:09",
       "album": {
-        "name": "Collections From The Whiteout",
-        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
-      },
-      "artists": [
-        {
-          "name": "Ben Howard",
-          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
-        }
-      ],
-      "duration_ms": 151240,
-      "name": "Rookery",
-      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
-    },
-    {
-      "added_at": "2023-12-01 16:37:09",
-      "album": {
         "name": "Midnight Sun (Acoustic Version)",
         "url": "https://open.spotify.com/album/3fj2hkIP9fJ0VO1zNfmlQS"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 193905,
       "name": "Midnight Sun - Acoustic Version",
       "url": "https://open.spotify.com/track/5EDuUGbmpvQKGZX1XPxje0"
+    },
+    {
+      "added_at": "2023-12-01 16:37:09",
+      "album": {
+        "name": "Collections From The Whiteout",
+        "url": "https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK"
+      },
+      "artists": [
+        {
+          "name": "Ben Howard",
+          "url": "https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc"
+        }
+      ],
+      "duration_ms": 151240,
+      "name": "Rookery",
+      "url": "https://open.spotify.com/track/3a2PR9xITzp6NU7tBJfi2T"
     },
     {
       "added_at": "2023-12-01 16:37:09",

@@ -1,6 +1,6 @@
 {
   "description": "Come for the stew stay for the craic.",
-  "num_followers": 80932,
+  "num_followers": 81001,
   "original_name": "Irish Tavern",
   "owner": {
     "name": "Spotify",
@@ -667,22 +667,6 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
-        "url": "https://open.spotify.com/album/5oRUiHRrDV7Yy9V58skjCX"
-      },
-      "artists": [
-        {
-          "name": "Paddy O'Gorman",
-          "url": "https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Spancil Hill",
-      "url": "https://open.spotify.com/track/0Qjhb26mRs3U5mL6TFCGJE"
-    },
-    {
-      "added_at": "2021-04-26 15:38:07",
-      "album": {
         "name": "Pied Pipers: Music from Ireland and Scotland",
         "url": "https://open.spotify.com/album/30V1PtypinSVRC7SGApmOI"
       },
@@ -695,6 +679,26 @@
       "duration_ms": 261333,
       "name": "Parcel of Rogues",
       "url": "https://open.spotify.com/track/6SLXdhf7ClX5riCvhwSPpY"
+    },
+    {
+      "added_at": "2021-04-26 15:38:07",
+      "album": {
+        "name": "Man for Galway: The Best of Sean Tyrrell",
+        "url": "https://open.spotify.com/album/2bkdEowg2zHFuA5nYKsZTS"
+      },
+      "artists": [
+        {
+          "name": "Brendan Mulligan",
+          "url": "https://open.spotify.com/artist/0E9QheQjmEKItjqvs0ZHiG"
+        },
+        {
+          "name": "Sean Tyrrell",
+          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+        }
+      ],
+      "duration_ms": 247440,
+      "name": "Sweet Ballyvaughan",
+      "url": "https://open.spotify.com/track/6KF1jB4xoaqKKVOaEZGwQH"
     },
     {
       "added_at": "2021-04-26 15:38:07",
@@ -731,22 +735,18 @@
     {
       "added_at": "2021-04-26 15:38:07",
       "album": {
-        "name": "Man for Galway: The Best of Sean Tyrrell",
-        "url": "https://open.spotify.com/album/2bkdEowg2zHFuA5nYKsZTS"
+        "name": "St. Patrick's Day: Ultimate Irish Pub Songs",
+        "url": "https://open.spotify.com/album/5oRUiHRrDV7Yy9V58skjCX"
       },
       "artists": [
         {
-          "name": "Brendan Mulligan",
-          "url": "https://open.spotify.com/artist/0E9QheQjmEKItjqvs0ZHiG"
-        },
-        {
-          "name": "Sean Tyrrell",
-          "url": "https://open.spotify.com/artist/1aW2EHfu09S8SuoikLfF7o"
+          "name": "Paddy O'Gorman",
+          "url": "https://open.spotify.com/artist/0KTaPPzzokXm78lUl6Bu1b"
         }
       ],
-      "duration_ms": 247440,
-      "name": "Sweet Ballyvaughan",
-      "url": "https://open.spotify.com/track/6KF1jB4xoaqKKVOaEZGwQH"
+      "duration_ms": 182600,
+      "name": "Spancil Hill",
+      "url": "https://open.spotify.com/track/0Qjhb26mRs3U5mL6TFCGJE"
     },
     {
       "added_at": "2021-04-26 15:38:07",

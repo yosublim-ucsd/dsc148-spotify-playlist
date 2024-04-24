@@ -706,7 +706,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 171960,
       "name": "Give Me Strength",
       "url": "https://open.spotify.com/track/4pkuaNauckc35kkEBxCsLg"
@@ -1982,6 +1982,24 @@
     {
       "album": {
         "name": "Journeyman",
+        "url": "https://open.spotify.com/album/6wgayK52wIkMa1XacI8R3B"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283280,
+      "name": "Pretending",
+      "url": "https://open.spotify.com/track/2Ua9IR5sciWQfoWCfB9iks"
+    },
+    {
+      "album": {
+        "name": "Journeyman",
         "url": "https://open.spotify.com/album/1tJctCfk9OYvRbBKu3bI5L"
       },
       "artists": [
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2022-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 397200,
       "name": "Rock Me Baby",
       "url": "https://open.spotify.com/track/1bursm5ZnNHQS55a23h7kR"
@@ -2558,7 +2576,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 280453,
       "name": "Ten Long Years",
       "url": "https://open.spotify.com/track/2bykT1h4Tb2Scaw0QcqYBA"
@@ -2704,7 +2722,7 @@
       ],
       "date_added": "2023-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 516533,
       "name": "Three O'Clock Blues",
       "url": "https://open.spotify.com/track/6lWxIJH0CyUtmFaIAeVmTQ"
@@ -2862,7 +2880,7 @@
       ],
       "date_added": "2023-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 265546,
       "name": "Worried Life Blues",
       "url": "https://open.spotify.com/track/2fdhU7kBO3WVYkWJnYAlO3"

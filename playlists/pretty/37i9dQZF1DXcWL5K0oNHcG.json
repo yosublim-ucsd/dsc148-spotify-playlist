@@ -1,13 +1,49 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: CHERISE. Artwork: Joy Yamusangie.",
-  "num_followers": 214896,
+  "num_followers": 215123,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjcyMTYwMCwwMDAwMDAwMDNkYzYzNGFhMGYzYjllNGIxMmZhOWU5ZTI3MTkyMDE5",
+  "snapshot_id": "MTcxMzkzMTIwMCwwMDAwMDAwMDhlNjcyYjFmMWYwNzM4YmQ1NTMzZDJiNGZjNDI2OTk1",
   "tracks": [
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "South African Jam",
+        "url": "https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "duration_ms": 364024,
+      "name": "South African Jam",
+      "url": "https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Sans Titres",
+        "url": "https://open.spotify.com/album/5IVUlnhsixA5TMLP0EBBhU"
+      },
+      "artists": [
+        {
+          "name": "Nikitch",
+          "url": "https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv"
+        },
+        {
+          "name": "Alexis Moutzouris",
+          "url": "https://open.spotify.com/artist/0ylPzaDugTCUlmpHHmOKai"
+        }
+      ],
+      "duration_ms": 186943,
+      "name": "Sans Titres",
+      "url": "https://open.spotify.com/track/6cyoqa6hcmBDaHeqSXYieB"
+    },
     {
       "added_at": "2024-03-27 13:18:36",
       "album": {
@@ -27,6 +63,142 @@
       "duration_ms": 208978,
       "name": "Fly",
       "url": "https://open.spotify.com/track/6bsCkIuP5zdST3CrvBJDnm"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Caterpillar Dance",
+        "url": "https://open.spotify.com/album/5W5UVtuiSkEWwgbCGKjfaZ"
+      },
+      "artists": [
+        {
+          "name": "Dolphin Hyperspace",
+          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Logan Kane",
+          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
+        }
+      ],
+      "duration_ms": 219962,
+      "name": "Caterpillar Dance",
+      "url": "https://open.spotify.com/track/4HUfkOgHB7gt9FVe87B1mg"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Touch\u00e9 Hombre",
+        "url": "https://open.spotify.com/album/4nlelsIWODJltsJbErXmfD"
+      },
+      "artists": [
+        {
+          "name": "Nick Marks",
+          "url": "https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL"
+        },
+        {
+          "name": "Andrew Gould",
+          "url": "https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0"
+        },
+        {
+          "name": "Dave Levy",
+          "url": "https://open.spotify.com/artist/7gBlwt8sGulq5GXOmgCY0x"
+        },
+        {
+          "name": "Bob Lanzetti",
+          "url": "https://open.spotify.com/artist/2mGngESqZt9pUPlyLGpDPY"
+        },
+        {
+          "name": "Doron Lev",
+          "url": "https://open.spotify.com/artist/5uLyADgoaWkfY0YYhnH9uU"
+        }
+      ],
+      "duration_ms": 295506,
+      "name": "Touch\u00e9 Hombre",
+      "url": "https://open.spotify.com/track/3n1nN2sx8b4fyrloyKHJVl"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Vir Elsa",
+        "url": "https://open.spotify.com/album/1G72a9d4DK2Jbf5bkyCwGR"
+      },
+      "artists": [
+        {
+          "name": "Melorie Jane",
+          "url": "https://open.spotify.com/artist/5NE7Re2uiABrj44sckzUAy"
+        }
+      ],
+      "duration_ms": 475441,
+      "name": "Vir Elsa",
+      "url": "https://open.spotify.com/track/6CZEVA2YFWwn3P41Nxtyio"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Bai\u00e3o de Gude",
+        "url": "https://open.spotify.com/album/23HxDFTNv1g6NhKlFe1Lbk"
+      },
+      "artists": [
+        {
+          "name": "Adam Woch & Robert Guzik",
+          "url": "https://open.spotify.com/artist/2i8El5Gurr2X4FSsLWzcg2"
+        },
+        {
+          "name": "Adam Woch",
+          "url": "https://open.spotify.com/artist/4DN9HS2pGFOhpi2Yhj6c1E"
+        },
+        {
+          "name": "Robert Guzik",
+          "url": "https://open.spotify.com/artist/0q9yxRT67aeqQlZe8ce1mT"
+        },
+        {
+          "name": "Marek Napi\u00f3rkowski",
+          "url": "https://open.spotify.com/artist/0AYJ3eg4zKi9ilGrhVaINs"
+        },
+        {
+          "name": "Bodek Janke",
+          "url": "https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE"
+        }
+      ],
+      "duration_ms": 353216,
+      "name": "Bai\u00e3o de Gude",
+      "url": "https://open.spotify.com/track/79DPA13wwNZJ8DOCupG6DK"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Nymphea",
+        "url": "https://open.spotify.com/album/4QPC8VgOOEh6pBGmlPbSF0"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "duration_ms": 286298,
+      "name": "Nymphea",
+      "url": "https://open.spotify.com/track/1HxY3Z3vFws3fTsiOW1utQ"
     },
     {
       "added_at": "2024-04-10 04:00:00",
@@ -595,7 +767,7 @@
     {
       "added_at": "2024-03-13 04:00:00",
       "album": {
-        "name": "El Novio - Versi\u00f3n Mariachi",
+        "name": "El Novio (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/2Ja4lHFaO65yTQ9zMNZ4C2"
       },
       "artists": [

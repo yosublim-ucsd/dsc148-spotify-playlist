@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > ny dansk rap og andet i den vibe 🚨 <a href="spotify:artist:5IpqfN8Pqjy89nj1IfuOXC">Baloosh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,779 likes - 65 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,790 likes - 65 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

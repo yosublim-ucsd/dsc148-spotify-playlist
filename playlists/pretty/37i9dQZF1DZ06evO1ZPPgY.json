@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 215671,
+  "num_followers": 215700,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDA1MmZhMzY0YTBmYmJmNzgxZDk5YTc1YTQwYWNiZmZh",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDljNzcyMjdhYzJiYjY1OTk5NjM4MmQ5NDE2MTIzOWYw",
   "tracks": [
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "All-Time Greatest Hits",
-        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 192160,
-      "name": "I'm Qualified To Satisfy You - Edit",
-      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
+      "duration_ms": 194173,
+      "name": "Honey Please, Can't Ya See",
+      "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "All-Time Greatest Hits",
+        "url": "https://open.spotify.com/album/5cxxcKC0cjR3sZqiJATB6j"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "I'm Qualified To Satisfy You - Edit",
+      "url": "https://open.spotify.com/track/2zG5Yo3FFSjdsDuLzejIZe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Icon Is Love",
         "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
       },
@@ -459,6 +475,38 @@
       "duration_ms": 349506,
       "name": "Come On",
       "url": "https://open.spotify.com/track/6aX6HU06LTnZIGjFznUchm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 220493,
+      "name": "I've Found Someone",
+      "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Barry White Sings For Someone You Love",
+        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 433226,
+      "name": "Playing Your Game, Baby",
+      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
     },
     {
       "added_at": null,
@@ -503,22 +551,6 @@
       "duration_ms": 345333,
       "name": "Volare",
       "url": "https://open.spotify.com/track/1LqKlCrgljbKSrjwIfF6cy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Barry White Sings For Someone You Love",
-        "url": "https://open.spotify.com/album/65orbyfwR353KTYqz3seIu"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 433226,
-      "name": "Playing Your Game, Baby",
-      "url": "https://open.spotify.com/track/6dwMebV6lVtwFiecdb8aSD"
     },
     {
       "added_at": null,
@@ -599,22 +631,6 @@
       "duration_ms": 344600,
       "name": "Anything You Want Me To",
       "url": "https://open.spotify.com/track/7wBvzcLC4iXR5UxKVvPPPm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "Lady, Sweet Lady",
-      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
     },
     {
       "added_at": null,
@@ -831,8 +847,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Somewhere in the Past",
-        "url": "https://open.spotify.com/album/3hTyaZiqU3H38E4h0wZ7hw"
+        "name": "Barry White's Greatest Hits",
+        "url": "https://open.spotify.com/album/7jvp7VBawevCyY4Rfwknu0"
       },
       "artists": [
         {
@@ -840,9 +856,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 181950,
-      "name": "I've Got the World to Hold Me Up",
-      "url": "https://open.spotify.com/track/3DVBE9gdehucz81D8G0yQN"
+      "duration_ms": 425826,
+      "name": "Love Serenade",
+      "url": "https://open.spotify.com/track/37ioNakPkoUoI5FcjUDdWB"
     },
     {
       "added_at": null,
@@ -859,22 +875,6 @@
       "duration_ms": 262733,
       "name": "Rio De Janeiro",
       "url": "https://open.spotify.com/track/1UvpQB8F2riBElL5bxlD6Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Icon Is Love",
-        "url": "https://open.spotify.com/album/6DLabZuKLRrCt6erq8SAGJ"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 639600,
-      "name": "Whatever We Had, We Had",
-      "url": "https://open.spotify.com/track/6Lu3H89JgTh2QzGRnZqYku"
     }
   ],
   "unique_name": "This Is Barry White",

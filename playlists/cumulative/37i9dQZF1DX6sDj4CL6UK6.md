@@ -4,7 +4,7 @@
 
 > Top English songs from Asia\. Cover: Frizzell D'souza
 
-291 songs - 16 hr 48 min
+292 songs - 16 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Ceilings](https://open.spotify.com/track/43AB5ow80MeDUdBL3W3sRT) | [Bashaar](https://open.spotify.com/artist/2f2lXwMWMwJn2mUy988Agu), [Emme](https://open.spotify.com/artist/4XENqirLgZx71YVNWYuEUG) | [Ceilings](https://open.spotify.com/album/3s9AOhgVdXfteJ8z9HU9bp) | 4:24 | 2023-12-15 |  |
 | [Chills](https://open.spotify.com/track/0u5RyQsiu3ImN5uUAatTuz) | [Shalmali Kholgade](https://open.spotify.com/artist/6uskWv5K2FA0YOAYr7JOUz) | [Chills](https://open.spotify.com/album/1oTz9EXkj804GhKZNhmzhk) | 3:08 | 2022-10-17 | 2023-01-18 |
 | [Christmas Without You](https://open.spotify.com/track/688W2i53mwx90PvfsCxW29) | [Jeanne Merchant](https://open.spotify.com/artist/3JSGvZjELvoBZalvFCM6Zp), [Anshuman Sharma](https://open.spotify.com/artist/3rNr8T39bUi3dYfiqffp8w) | [Christmas Without You](https://open.spotify.com/album/5ufq3FV3Uxrl800LPG3ba8) | 3:36 | 2022-12-21 | 2023-01-11 |
-| [Close To You](https://open.spotify.com/track/5jOWVLjOa9vWUaTU8aVJuN) | [Shivangi Bhayana](https://open.spotify.com/artist/4ALbmf4uIjKAfNdTi1kdNh) | [Close To You](https://open.spotify.com/album/6uW1DKamGdsrCpQz3MC238) | 2:55 | 2024-03-28 |  |
+| [Close To You](https://open.spotify.com/track/5jOWVLjOa9vWUaTU8aVJuN) | [Shivangi Bhayana](https://open.spotify.com/artist/4ALbmf4uIjKAfNdTi1kdNh) | [Close To You](https://open.spotify.com/album/6uW1DKamGdsrCpQz3MC238) | 2:55 | 2024-03-28 | 2024-04-24 |
 | [Co2](https://open.spotify.com/track/3hB9lDLyAClYVZivMMl20N) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [The Way That Lovers Do](https://open.spotify.com/album/4WLh56ZjwINYBNhaxLvEhA) | 2:43 | 2023-10-18 |  |
 | [Cold Cold Night](https://open.spotify.com/track/4pR2qfbLapOQ5fNeVWfGnH) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/76YdfYn53GNmFJRcyO036X) | 3:21 | 2022-09-26 | 2023-08-26 |
 | [Cold Cold Night](https://open.spotify.com/track/6EQG98YQXZwX9nJSABjvDw) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Cold Cold Night](https://open.spotify.com/album/2y8RTJ5EawVOSl7h5KxKmy) | 3:21 | 2023-11-24 | 2024-04-19 |
@@ -188,6 +188,7 @@
 | [Never](https://open.spotify.com/track/1gfzJ5dFmiciUmt1DXt4ty) | [Sukruth Mallesh](https://open.spotify.com/artist/51tevckKFOo3yISAc0JDh1) | [Never](https://open.spotify.com/album/5Dok14CF9Vg7F9J6NNpohN) | 3:08 | 2022-07-08 | 2023-01-13 |
 | [New \- Acoustic Version](https://open.spotify.com/track/5vEDeWEBfFNwrDH098Q74K) | [Frizzell D'souza](https://open.spotify.com/artist/17j8WfojaUlIDrnDG7IfIQ) | [New \(Acoustic Version\)](https://open.spotify.com/album/59toSyJnnH2jlKafDkMQbA) | 4:51 | 2023-08-11 | 2023-08-26 |
 | [No Ordinary](https://open.spotify.com/track/3ACxPaQSNKz4WG2V79hOjT) | [Peekay](https://open.spotify.com/artist/2QRt3WqRMTnQXu6mgGnqKl) | [Starlight](https://open.spotify.com/album/07N9VGEwgaTgx7jlxLO4VJ) | 3:39 | 2023-11-24 | 2023-12-14 |
+| [No Vices](https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Kadambari Zokarkar](https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF), [Pradyumna Singh Manot](https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC), [Charles Parker Mertens](https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0), [Anchit Sengupta](https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i), [Arjun Chakraborty](https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX) | [No Vices](https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq) | 4:24 | 2024-04-24 |  |
 | [Nobody Else But You](https://open.spotify.com/track/17BN6uaGdmPuc9HhCRTNlB) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else But You](https://open.spotify.com/album/1sgoRiWtrycgeZ0iN7rRFa) | 3:19 | 2023-12-15 | 2024-04-19 |
 | [Nobody Else but You](https://open.spotify.com/track/1O4HQF2NVTbxnthGUooSiT) | [Laica](https://open.spotify.com/artist/2DqImimq9vdEbnQBxGgihQ) | [Nobody Else but You](https://open.spotify.com/album/7xFNdbh7URD0ertecR7WjY) | 3:19 | 2023-05-24 | 2024-01-10 |
 | [Ocean Calls My Name](https://open.spotify.com/track/0E6j1oe4eGdjtb039vhXq8) | [Anupam Roy](https://open.spotify.com/artist/5LZ894xYE9MG1sal0gjt5L) | [Ocean Calls My Name](https://open.spotify.com/album/554nCrw78BshclRnREAjUV) | 4:23 | 2022-03-25 | 2023-07-22 |

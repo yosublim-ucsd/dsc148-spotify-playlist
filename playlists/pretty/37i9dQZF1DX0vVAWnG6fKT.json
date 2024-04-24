@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's.  Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 144282,
+  "num_followers": 144284,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -87,22 +87,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Can The Circle Be Unbroken: Country Music's First Family",
-        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
-      },
-      "artists": [
-        {
-          "name": "The Carter Family",
-          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
-        }
-      ],
-      "duration_ms": 195040,
-      "name": "Wildwood Flower",
-      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "The Merle Travis Story",
         "url": "https://open.spotify.com/album/04OriPpEtgl8y4wjO1qzX0"
       },
@@ -115,6 +99,22 @@
       "duration_ms": 177626,
       "name": "Sixteen Tons",
       "url": "https://open.spotify.com/track/6Jvw3KvzhMnp67v3wLbc6m"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "Can The Circle Be Unbroken: Country Music's First Family",
+        "url": "https://open.spotify.com/album/3ZA3cI7M6Z5rsy7kIFGeMd"
+      },
+      "artists": [
+        {
+          "name": "The Carter Family",
+          "url": "https://open.spotify.com/artist/0FRIWJYklnmsll5M6h4gUL"
+        }
+      ],
+      "duration_ms": 195040,
+      "name": "Wildwood Flower",
+      "url": "https://open.spotify.com/track/6LXh42hEpcVLKtUgVkiKZi"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
+        "name": "Folk Songs Of The Hills",
+        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
+      },
+      "artists": [
+        {
+          "name": "Merle Travis",
+          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
+        }
+      ],
+      "duration_ms": 167600,
+      "name": "Dark As A Dungeon",
+      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
         "name": "The Essential Gene Autry",
         "url": "https://open.spotify.com/album/3P6M5MLTnlE2sngM0iMvV8"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 173933,
       "name": "If You've Got the Money I've Got the Time",
       "url": "https://open.spotify.com/track/3N0jGYbGjlfxAPPOQ3m1x5"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
-        "name": "Folk Songs Of The Hills",
-        "url": "https://open.spotify.com/album/2eldyZjuzvTbr59RSMH2sk"
-      },
-      "artists": [
-        {
-          "name": "Merle Travis",
-          "url": "https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q"
-        }
-      ],
-      "duration_ms": 167600,
-      "name": "Dark As A Dungeon",
-      "url": "https://open.spotify.com/track/4U6LZij0Gv4qV4t8PphSVu"
     },
     {
       "added_at": "2024-03-15 21:17:26",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-03-15 21:17:26",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 148733,
-      "name": "Roly-Poly",
-      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
-    },
-    {
-      "added_at": "2024-03-15 21:17:26",
-      "album": {
         "name": "Cool Water (With Bonus Tracks)",
         "url": "https://open.spotify.com/album/43W6LvGekoOd3Yk5ym8Bj7"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 129133,
       "name": "Cool Water",
       "url": "https://open.spotify.com/track/6SxMOJLemuF6cCuvjhUmPN"
+    },
+    {
+      "added_at": "2024-03-15 21:17:26",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 148733,
+      "name": "Roly-Poly",
+      "url": "https://open.spotify.com/track/1eqfEgDjxtCu8RBnEdg3bT"
     },
     {
       "added_at": "2024-03-15 21:17:26",

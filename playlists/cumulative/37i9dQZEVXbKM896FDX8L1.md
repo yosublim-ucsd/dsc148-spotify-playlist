@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ireland.
 
-1,539 songs - 3 day 18 hr 37 min
+1,541 songs - 3 day 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -924,6 +924,7 @@
 | [n.h.i.e.](https://open.spotify.com/track/6x9pCndnXEoea0CMcfjs9W) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [american dream](https://open.spotify.com/album/2RRYaYHY7fIIdvFlvgb5vq) | 2:23 | 2024-01-13 | 2024-01-15 |
 | [N17](https://open.spotify.com/track/6AiLTwftiFAjGsnVDXBPnB) | [The Saw Doctors](https://open.spotify.com/artist/7jzktaiZ0YO4RquEFi4oKp) | [If This Is Rock and Roll, I Want My Old Job Back](https://open.spotify.com/album/13nSBmeumXh3Jo4IgGEfLR) | 4:36 | 2023-03-18 | 2024-03-20 |
 | [N95](https://open.spotify.com/track/2FeBslNBMdR9V58uv6hd2t) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Mr\. Morale & The Big Steppers](https://open.spotify.com/album/1atjqOZTCdrjxjMyCPZc2g) | 3:15 | 2022-05-14 | 2022-06-03 |
+| [nah nah nah](https://open.spotify.com/track/2992e9BcyYkh8ZVYhkHj22) | [Robin Novaku](https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc) | [nah nah nah](https://open.spotify.com/album/1nYJkEsSJEcG9YmFyalU9b) | 2:48 | 2024-04-24 |  |
 | [Nail Tech](https://open.spotify.com/track/62Yo3FDddWY8ydu6PW2wyz) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Nail Tech](https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP) | 3:26 | 2022-02-22 | 2022-04-11 |
 | [NDA](https://open.spotify.com/track/38GBNKZUhfBkk3oNlWzRYd) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:15 | 2021-08-01 | 2021-08-12 |
 | [NDA](https://open.spotify.com/track/6uqyE384HDSsuwpoF4mjrL) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [NDA](https://open.spotify.com/album/6pFgyYC8zPwVPPS4cbJO29) | 3:15 | 2021-07-11 | 2021-07-25 |
@@ -1308,7 +1309,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2022-05-31 |
 | [The 30th](https://open.spotify.com/track/5SHpuW2qjkQtFRpE6P9Nks) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 3:36 | 2022-07-23 | 2022-07-31 |
 | [The A Team](https://open.spotify.com/track/1VdZ0vKfR5jneCmWIUAMxK) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [+](https://open.spotify.com/album/0W5GGnapMz0VwemQvJDqa7) | 4:18 | 2022-04-24 | 2022-05-05 |
-| [The Albatross](https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:03 | 2024-04-20 |  |
+| [The Albatross](https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:03 | 2024-04-20 | 2024-04-24 |
 | [The Alchemy](https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:16 | 2024-04-20 |  |
 | [The Best](https://open.spotify.com/track/6pPWRBubXOBAHnjl5ZIujB) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [Foreign Affair](https://open.spotify.com/album/3hgAoHSmany3EiKL0Aqh3G) | 5:29 | 2023-05-26 | 2023-05-31 |
 | [The Black Dog](https://open.spotify.com/track/62E2nR0od0M5HYxuYLaDz7) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY](https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb) | 3:58 | 2024-04-20 |  |
@@ -1382,8 +1383,9 @@
 | [Titanium](https://open.spotify.com/track/2qzW5AK8ldKUOWUETwAkZY) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Titanium & Mercury](https://open.spotify.com/album/1A0K9zewunqFt9drGNk2W5) | 2:07 | 2021-04-13 | 2021-05-16 |
 | [To Be Loved](https://open.spotify.com/track/10ImcQk9tihY1EKMDIbvXJ) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [30](https://open.spotify.com/album/21jF5jlMtzo94wbxmJ18aa) | 6:43 | 2021-11-21 | 2021-11-28 |
 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 | 2023-10-21 | 2023-10-23 |
-| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-30 |  |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-03-30 | 2024-04-24 |
 | [Too Sweet](https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/1KZC0cX0qq6hodR9YVgh9F) | 4:11 | 2024-03-23 | 2024-03-30 |
+| [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-04-24 |  |
 | [TOPIA TWINS](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-29 | 2023-08-01 |
 | [Toxic](https://open.spotify.com/track/6I9VzXrHxO9rA9A5euc8Ak) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [In The Zone](https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI) | 3:18 | 2022-11-01 | 2022-11-03 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-24 | 2023-06-26 |

@@ -1,12 +1,12 @@
 {
-  "description": "This is Bivolt. The essential tracks, all in one playlist.",
-  "num_followers": 333,
+  "description": "This is Bivolt. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 336,
   "original_name": "This Is Bivolt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGFlZGQwMDkzMmYyYmM4NzZmN2YxZmNiYzMyMTI1NTdj",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGEwYzQwY2M3MmJhMWIzNjI3ODhhOWU4ZjJkZTNkNGUz",
   "tracks": [
     {
       "added_at": null,
@@ -923,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00fasica Vai Transmitir",
-        "url": "https://open.spotify.com/album/5oWUfKXlevDcAfmHADplCA"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Bivolt",
-          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "M\u00fasica Vai Transmitir",
-      "url": "https://open.spotify.com/track/5WNR6tGxA59UanPZ7Yc2ZD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gl\u00f3ria",
         "url": "https://open.spotify.com/album/5CzkyEDf1muZQdpv3Lvc5q"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 194413,
       "name": "Dose Dupla",
       "url": "https://open.spotify.com/track/6Fc0wumF5xRJ3OZDavWk1d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00fasica Vai Transmitir",
+        "url": "https://open.spotify.com/album/5oWUfKXlevDcAfmHADplCA"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Bivolt",
+          "url": "https://open.spotify.com/artist/0mQoWD18BxzhN8kr1cNwgQ"
+        }
+      ],
+      "duration_ms": 153600,
+      "name": "M\u00fasica Vai Transmitir",
+      "url": "https://open.spotify.com/track/5WNR6tGxA59UanPZ7Yc2ZD"
     }
   ],
   "unique_name": "This Is Bivolt",

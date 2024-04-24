@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Japan.
 
-422 songs - 1 day 2 hr 28 min
+423 songs - 1 day 2 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,7 +70,7 @@
 | [grace](https://open.spotify.com/track/7tnYsRepXLaNhqj4xtcWP2) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [grace](https://open.spotify.com/album/0i6jJH5oVQh0KL8INSSPpu) | 4:49 | 2022-10-11 | 2023-02-05 |
 | [Habit](https://open.spotify.com/track/2uMNMcjjUz8oNIxjIu20qE) | [SEKAI NO OWARI](https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK) | [Habit](https://open.spotify.com/album/690rpRAbQW5LNPrbP27M9U) | 4:13 | 2022-05-12 | 2023-05-28 |
 | [Hana](https://open.spotify.com/track/02tNuntKQsoou5T4O8meyh) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [Hana](https://open.spotify.com/album/0v6vQ9tMopUTccn0wUvzQD) | 4:06 | 2023-10-14 | 2024-04-19 |
-| [HAPPY BIRTHDAY](https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:18 | 2024-04-18 |  |
+| [HAPPY BIRTHDAY](https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [MAGIC](https://open.spotify.com/album/4dERKKPWhbvX7zxFTzNzNn) | 4:18 | 2024-04-18 | 2024-04-24 |
 | [HAPPY BIRTHDAY](https://open.spotify.com/track/1lyDrDkuV5HsD1vfmAxbPI) | [back number](https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g) | [TOKYO \- FIRST LOVE \-](https://open.spotify.com/album/3i5O36GlDT5RNarOZKuwdS) | 4:18 | 2023-12-01 | 2024-04-19 |
 | [Happy Xmas \(War Is Over\) \- Remastered 2010](https://open.spotify.com/track/27RYrbL6S02LNVhDWVl38b) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H), [Yoko Ono](https://open.spotify.com/artist/2s4tjL6W3qrblOe0raIzwJ) | [Signature Box](https://open.spotify.com/album/555NIhJIQ4XoS5N7VglF0v) | 3:34 | 2022-12-25 | 2022-12-28 |
 | [HEARTRIS](https://open.spotify.com/track/4TBpE4HSPeB6OTqbqqwSon) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Press Play](https://open.spotify.com/album/3KXI6SPSLOch1o5biv5uy6) | 3:00 | 2023-11-08 | 2023-12-15 |
@@ -114,6 +114,7 @@
 | [Make you happy](https://open.spotify.com/track/1LnJVIG1BaHTRznuOgR0yc) | [NiziU](https://open.spotify.com/artist/3z8diLlUCkN1j9N9ZdnfBJ) | [Make you happy](https://open.spotify.com/album/1wIIu2i7A56TlMD99CVNQD) | 3:04 | 2021-03-27\* | 2021-08-04 |
 | [Marigold](https://open.spotify.com/track/5NqGfELjcdvRIUuhgZJ34W) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [Momentary Sixth Sense](https://open.spotify.com/album/2JzVi6d4gLdVFemJKJSPJf) | 5:06 | 2024-01-17 | 2024-02-05 |
 | [MASCARA](https://open.spotify.com/track/4OelNEcxPGoCOU29fchcsv) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA) | [MASCARA](https://open.spotify.com/album/6kg4TcS486fnIuS4Dml8uG) | 3:11 | 2022-07-13 | 2022-09-19 |
+| [Masterplan](https://open.spotify.com/track/4GbVhNlk8i8r1ZFSe9R7Tc) | [BE:FIRST](https://open.spotify.com/artist/4wCW8kZ8LL7QIdcE8EOKPP) | [Masterplan](https://open.spotify.com/album/1CVmr6wzxlufWGFI6YpwOz) | 3:32 | 2024-04-24 |  |
 | [Mela!](https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [Mela!](https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG) | 4:02 | 2021-12-27 | 2023-04-14 |
 | [Melody](https://open.spotify.com/track/621pzEeNauLzgQrmVvCMEA) | [8LOOM](https://open.spotify.com/artist/0EmfXhT2Bhc53cyK3hrZM5) | [8LOOM](https://open.spotify.com/album/3gh0vrpPVPrs4SZvdldgIC) | 3:14 | 2022-12-23 | 2023-03-08 |
 | [Merry Christmas](https://open.spotify.com/track/0aoUM0zcu0kCX7Cv7O939I) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [= \(Christmas Edition\)](https://open.spotify.com/album/5ocpnIrbBOWWpHqk2uI1pa) | 3:28 | 2022-12-25 | 2022-12-27 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 1424619,
+  "2024-04-24": 1424953,
   "date_first_scraped": "2022-05-27",
   "description": "qria tanto uma casca pra minha bala",
   "name": "Hits da Internet",
@@ -1709,7 +1709,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 176358,
       "name": "Caranguejo do Trap",
       "url": "https://open.spotify.com/track/3ZWBnOnNIhZnvBD2slFm1V"
@@ -4250,6 +4250,28 @@
     },
     {
       "album": {
+        "name": "LAST NIGHT VERS\u00c3O BH",
+        "url": "https://open.spotify.com/album/5o5M4Hk6KFea2jddrE8EFR"
+      },
+      "artists": [
+        {
+          "name": "DJ BIEL PRADO",
+          "url": "https://open.spotify.com/artist/3ynR38jCIVmxY6RVrL35SN"
+        },
+        {
+          "name": "Mc KF",
+          "url": "https://open.spotify.com/artist/2zaQ4hz4xLgGGtABoUS8kf"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169384,
+      "name": "LAST NIGHT VERS\u00c3O BH",
+      "url": "https://open.spotify.com/track/3fYzMA9OWy0lgOUv79alde"
+    },
+    {
+      "album": {
         "name": "Latchika",
         "url": "https://open.spotify.com/album/7cPMAuFm7PJ0due5HHS1M3"
       },
@@ -5703,6 +5725,32 @@
       "duration_ms": 111968,
       "name": "Na Rebolada",
       "url": "https://open.spotify.com/track/7v3BTjWrmUYjaGiVHVVhCK"
+    },
+    {
+      "album": {
+        "name": "Nao Precisa Negar (Versao Bh)",
+        "url": "https://open.spotify.com/album/3hSgTBraHNphRUibWxxoPr"
+      },
+      "artists": [
+        {
+          "name": "Vitu \u00danico",
+          "url": "https://open.spotify.com/artist/0OvvlHjgAiZk3GRGkkK0u6"
+        },
+        {
+          "name": "Josu\u00e9 Bom de Faixa",
+          "url": "https://open.spotify.com/artist/6yEKZXXjkBPBcAQAFdvSlz"
+        },
+        {
+          "name": "VORTEX",
+          "url": "https://open.spotify.com/artist/3Chj7A59w4vWBa4fdSN27E"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125538,
+      "name": "Nao Precisa Negar (Versao Bh)",
+      "url": "https://open.spotify.com/track/608yE6rUD9cKsb7oqfRgGi"
     },
     {
       "album": {
@@ -7226,6 +7274,24 @@
     },
     {
       "album": {
+        "name": "Primavera",
+        "url": "https://open.spotify.com/album/2O7rIlp9fuZArCEEgUvF9D"
+      },
+      "artists": [
+        {
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248360,
+      "name": "Reinventar",
+      "url": "https://open.spotify.com/track/0NMVRsqVoYEa7g6VZWcJg7"
+    },
+    {
+      "album": {
         "name": "Replay",
         "url": "https://open.spotify.com/album/4Kex8YQqmWOb5HhCCcLmJt"
       },
@@ -8211,7 +8277,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 133333,
       "name": "Tropa Do Pisa",
       "url": "https://open.spotify.com/track/1mH3uSZus9IiMagMCJa4vB"
@@ -8551,7 +8617,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 123820,
       "name": "Vai Novinha Ah Ah Ah",
       "url": "https://open.spotify.com/track/3Nvzs0cJbLwhXPPlI8xzpC"

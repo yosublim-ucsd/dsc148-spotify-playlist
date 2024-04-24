@@ -1,6 +1,6 @@
 {
   "description": "a high-quality alternative blend ft. Marcus King",
-  "num_followers": 104068,
+  "num_followers": 104105,
   "original_name": "Grade A",
   "owner": {
     "name": "Spotify",
@@ -871,22 +871,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Good Together",
-        "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
-      },
-      "artists": [
-        {
-          "name": "Lake Street Dive",
-          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
-        }
-      ],
-      "duration_ms": 201045,
-      "name": "Good Together",
-      "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "dopamine",
         "url": "https://open.spotify.com/album/38DO8HcSkiWtDXPmSLk6gx"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 158568,
       "name": "dopamine",
       "url": "https://open.spotify.com/track/2A7fgpVBSDrXKkJxt0MvYv"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Good Together",
+        "url": "https://open.spotify.com/album/0h5oGdKMLQchyJljb7Q0Qk"
+      },
+      "artists": [
+        {
+          "name": "Lake Street Dive",
+          "url": "https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd"
+        }
+      ],
+      "duration_ms": 201045,
+      "name": "Good Together",
+      "url": "https://open.spotify.com/track/1WhKc5DGuabpiPgZ9c375T"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Letting Go",
+        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
+      },
+      "artists": [
+        {
+          "name": "Angie McMahon",
+          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
+        }
+      ],
+      "duration_ms": 210381,
+      "name": "Letting Go",
+      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "We\u2019re All Gonna Die",
         "url": "https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4"
       },
@@ -1091,22 +1107,6 @@
       "duration_ms": 234891,
       "name": "The Way",
       "url": "https://open.spotify.com/track/2wlZIwHXloe802coeEhJ3T"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Letting Go",
-        "url": "https://open.spotify.com/album/17bBeC2mAYnF4K9KL5ZvrI"
-      },
-      "artists": [
-        {
-          "name": "Angie McMahon",
-          "url": "https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf"
-        }
-      ],
-      "duration_ms": 210381,
-      "name": "Letting Go",
-      "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Mother Nature",
         "url": "https://open.spotify.com/album/0wnCqHJiAp8c2XWK0yuFA1"
       },
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "Rearview",
+        "url": "https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV"
+      },
+      "artists": [
+        {
+          "name": "Brenn!",
+          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
+        }
+      ],
+      "duration_ms": 231724,
+      "name": "Rearview",
+      "url": "https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Don\u2019t Wanna Love U",
         "url": "https://open.spotify.com/album/0NDLPEvBHe9CpI0muIzGyU"
       },
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Cutting Thru The Country",
-        "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 204276,
-      "name": "Cutting Thru The Country",
-      "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "CAVES",
         "url": "https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 236586,
       "name": "How Wonderful We Are",
       "url": "https://open.spotify.com/track/1A2mbkIm1zzPq1kvIQC3J7"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Cutting Thru The Country",
+        "url": "https://open.spotify.com/album/4OWv5Arr45FudqMP7zSUZf"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 204276,
+      "name": "Cutting Thru The Country",
+      "url": "https://open.spotify.com/track/09eN4wtRH0cAAHQHAbOjvQ"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1595,22 +1595,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Keep Going",
-        "url": "https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C"
-      },
-      "artists": [
-        {
-          "name": "Guster",
-          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "Keep Going",
-      "url": "https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "An Arrow In The Wall",
         "url": "https://open.spotify.com/album/3lpSUYsMgtrhNEjsPfCfsz"
       },
@@ -1623,6 +1607,22 @@
       "duration_ms": 289786,
       "name": "An Arrow In The Wall",
       "url": "https://open.spotify.com/track/4UZIlXnN3AXAqwd9PpFtiU"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Keep Going",
+        "url": "https://open.spotify.com/album/4ViHnXxYrzgR3peo6bWc3C"
+      },
+      "artists": [
+        {
+          "name": "Guster",
+          "url": "https://open.spotify.com/artist/34XlPCFfB4vT7P1ekWq9Jc"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "Keep Going",
+      "url": "https://open.spotify.com/track/4ho40yA2hY1lnMPMrUSlhg"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Love You Anyway",
-        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
-      },
-      "artists": [
-        {
-          "name": "Devon Gilfillian",
-          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
-        }
-      ],
-      "duration_ms": 227493,
-      "name": "Love You Anyway",
-      "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Reflector",
         "url": "https://open.spotify.com/album/2ZSufO9lQ6fZpTSc7FM0Br"
       },
@@ -1815,6 +1799,22 @@
       "duration_ms": 180046,
       "name": "Someday, Someday",
       "url": "https://open.spotify.com/track/7zbiEEPPkZjyLQpwJnes5h"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Love You Anyway",
+        "url": "https://open.spotify.com/album/3yDRYiQJHgrzUxztqO5hrG"
+      },
+      "artists": [
+        {
+          "name": "Devon Gilfillian",
+          "url": "https://open.spotify.com/artist/5cbak2U6nZWXDYiG72E3lH"
+        }
+      ],
+      "duration_ms": 227493,
+      "name": "Love You Anyway",
+      "url": "https://open.spotify.com/track/31QplXgQf5ZZzk6mbx5KHr"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1883,6 +1883,22 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
+        "name": "BOOTCUT",
+        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
+      },
+      "artists": [
+        {
+          "name": "Bahamas",
+          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
+        }
+      ],
+      "duration_ms": 329437,
+      "name": "I'm Still",
+      "url": "https://open.spotify.com/track/33sIw5cjj9j64VaDE2hFQD"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
         "name": "Tiny Garden",
         "url": "https://open.spotify.com/album/6auEC4yc0x3xoYv580Dbke"
       },
@@ -1903,22 +1919,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "BOOTCUT",
-        "url": "https://open.spotify.com/album/5vnnhrkeLqHWuM7cuqgHCK"
-      },
-      "artists": [
-        {
-          "name": "Bahamas",
-          "url": "https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt"
-        }
-      ],
-      "duration_ms": 329437,
-      "name": "I'm Still",
-      "url": "https://open.spotify.com/track/33sIw5cjj9j64VaDE2hFQD"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Impressively Average",
         "url": "https://open.spotify.com/album/0I60bBbjgow9th1gEfPKxv"
       },
@@ -1935,22 +1935,6 @@
     {
       "added_at": "2024-04-05 04:00:00",
       "album": {
-        "name": "Water / Connecticut",
-        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
-      },
-      "artists": [
-        {
-          "name": "Lo Moon",
-          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
-        }
-      ],
-      "duration_ms": 182454,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
         "name": "Pull the Rope",
         "url": "https://open.spotify.com/album/3Xc6YhaNwQ8CxdSGrpw80l"
       },
@@ -1963,6 +1947,22 @@
       "duration_ms": 209360,
       "name": "Pull the Rope",
       "url": "https://open.spotify.com/track/7CfIoH458ApkgA24pHNsED"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Water / Connecticut",
+        "url": "https://open.spotify.com/album/7F3RyQmyBUigiC2J5l1VYD"
+      },
+      "artists": [
+        {
+          "name": "Lo Moon",
+          "url": "https://open.spotify.com/artist/2XcWfmG3wclCLfTJb7mFeg"
+        }
+      ],
+      "duration_ms": 182454,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4LsuLatQ1SJinsHn7292wH"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1995,22 +1995,6 @@
       "duration_ms": 298921,
       "name": "Cuero Dudes",
       "url": "https://open.spotify.com/track/4z3zFBYGC4x4esUbnjqsva"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "Alibi",
-        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
-      },
-      "artists": [
-        {
-          "name": "Hurray For The Riff Raff",
-          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
-        }
-      ],
-      "duration_ms": 168705,
-      "name": "Alibi",
-      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -2063,6 +2047,22 @@
       "duration_ms": 253411,
       "name": "Roll The Credits",
       "url": "https://open.spotify.com/track/6St9uiBUG4L7LvVNuUcm8a"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "Alibi",
+        "url": "https://open.spotify.com/album/78PATBFddEnFXyVUDFjnXN"
+      },
+      "artists": [
+        {
+          "name": "Hurray For The Riff Raff",
+          "url": "https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt"
+        }
+      ],
+      "duration_ms": 168705,
+      "name": "Alibi",
+      "url": "https://open.spotify.com/track/67LSydi0LL1jlubbA7F5st"
     },
     {
       "added_at": "2024-04-05 04:00:00",

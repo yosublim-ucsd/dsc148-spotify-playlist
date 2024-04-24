@@ -1,6 +1,6 @@
 {
   "description": "Dance tracks for your power moves",
-  "num_followers": 98345,
+  "num_followers": 98347,
   "original_name": "Power Up!",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Sweat",
+        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        }
+      ],
+      "duration_ms": 159047,
+      "name": "Sweat",
+      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "AEIOU",
         "url": "https://open.spotify.com/album/2F00Hw4CHbhTPMeUllX8Oc"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 195446,
       "name": "AEIOU",
       "url": "https://open.spotify.com/track/5I8YyKG5iIdOiuTFnX9YVC"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Sweat",
-        "url": "https://open.spotify.com/album/4dRC0egvzhZSS1eJpVEBH7"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        }
-      ],
-      "duration_ms": 159047,
-      "name": "Sweat",
-      "url": "https://open.spotify.com/track/5hbJxniiD9BWis6Nsf7HA8"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -683,6 +683,62 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
+        "name": "Something Like This",
+        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
+      },
+      "artists": [
+        {
+          "name": "JLV",
+          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
+        }
+      ],
+      "duration_ms": 148124,
+      "name": "Something Like This",
+      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Careful What You Wish For (feat. Alida)",
+        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Alida",
+          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
+        }
+      ],
+      "duration_ms": 176264,
+      "name": "Careful What You Wish For (feat. Alida)",
+      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "When You're Lonely",
+        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
+      },
+      "artists": [
+        {
+          "name": "VIZE",
+          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 159016,
+      "name": "When You're Lonely",
+      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
         "name": "Make It Happen",
         "url": "https://open.spotify.com/album/4Y8K7bajbQbmBKLgzjAcG9"
       },
@@ -715,62 +771,6 @@
       "duration_ms": 166874,
       "name": "Got That",
       "url": "https://open.spotify.com/track/4RHeXreYnosasCxxjBsEVN"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "When You're Lonely",
-        "url": "https://open.spotify.com/album/1kfbRsla1nsTki4JVunQFW"
-      },
-      "artists": [
-        {
-          "name": "VIZE",
-          "url": "https://open.spotify.com/artist/09agIJMxCD2k87ys9Al0f0"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 159016,
-      "name": "When You're Lonely",
-      "url": "https://open.spotify.com/track/0kknXqNaOqZt0DqPkpE3fc"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Careful What You Wish For (feat. Alida)",
-        "url": "https://open.spotify.com/album/5AyE7tjRTu5Qgzupx5UYMb"
-      },
-      "artists": [
-        {
-          "name": "Lucas & Steve",
-          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
-        },
-        {
-          "name": "Alida",
-          "url": "https://open.spotify.com/artist/1kiq2kUV0cbLUhJsr7cpW0"
-        }
-      ],
-      "duration_ms": 176264,
-      "name": "Careful What You Wish For (feat. Alida)",
-      "url": "https://open.spotify.com/track/6F5CRnO0SbW5FxAyRB6Vp0"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
-        "name": "Something Like This",
-        "url": "https://open.spotify.com/album/6pyaAfwfFHYwi7fX7TWlY1"
-      },
-      "artists": [
-        {
-          "name": "JLV",
-          "url": "https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L"
-        }
-      ],
-      "duration_ms": 148124,
-      "name": "Something Like This",
-      "url": "https://open.spotify.com/track/3qBzuSVtK2LGTuWaB2WTHs"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Back In '99",
-        "url": "https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs"
-      },
-      "artists": [
-        {
-          "name": "MOTi",
-          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
-        }
-      ],
-      "duration_ms": 167678,
-      "name": "Back In '99",
-      "url": "https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Let Me Go",
         "url": "https://open.spotify.com/album/4W6JgfyZpadxcjoPEXCyee"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 160629,
       "name": "Elektro",
       "url": "https://open.spotify.com/track/1SOUkhtnUfSD5S8a4w13xO"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Back In '99",
+        "url": "https://open.spotify.com/album/4QKHJEN7HIzyMDP7QCfhzs"
+      },
+      "artists": [
+        {
+          "name": "MOTi",
+          "url": "https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W"
+        }
+      ],
+      "duration_ms": 167678,
+      "name": "Back In '99",
+      "url": "https://open.spotify.com/track/2go9hE9lNmxdPdUSd2X2uh"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1631,22 +1631,6 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Save Me",
-        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
-      },
-      "artists": [
-        {
-          "name": "LV",
-          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Save Me",
-      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
-    },
-    {
-      "added_at": "2024-04-18 11:31:03",
-      "album": {
         "name": "Fantasy",
         "url": "https://open.spotify.com/album/54Dzt1WneTLVnfwWCKxoik"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 162222,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/7gTz5MRjppI1Pdid7VX6Xy"
+    },
+    {
+      "added_at": "2024-04-18 11:31:03",
+      "album": {
+        "name": "Save Me",
+        "url": "https://open.spotify.com/album/6P2CZNhzDnpIdi3KOm7QkS"
+      },
+      "artists": [
+        {
+          "name": "LV",
+          "url": "https://open.spotify.com/artist/3aCyI9bM14mcQajmM5641q"
+        }
+      ],
+      "duration_ms": 139000,
+      "name": "Save Me",
+      "url": "https://open.spotify.com/track/6azYMWnHlQwbkpDNxSIluY"
     },
     {
       "added_at": "2024-04-18 11:31:03",
@@ -1967,30 +1967,22 @@
     {
       "added_at": "2024-04-18 11:31:03",
       "album": {
-        "name": "Only You and I",
-        "url": "https://open.spotify.com/album/47cpXq5eoAPVwTojjZwYP3"
+        "name": "Pouring Rain",
+        "url": "https://open.spotify.com/album/76uBRY8kdybYRBhBeRfK88"
       },
       "artists": [
         {
-          "name": "Get Far",
-          "url": "https://open.spotify.com/artist/0woPP4aoXH17kAKggWIYzA"
+          "name": "Guz",
+          "url": "https://open.spotify.com/artist/2T86EVnDCP64EaVKRXIcRx"
         },
         {
-          "name": "Miner V",
-          "url": "https://open.spotify.com/artist/4rkduvnKTAP1gOAoa9lLAS"
-        },
-        {
-          "name": "LennyMendy",
-          "url": "https://open.spotify.com/artist/5AH8sDoAuqf0vp9hSex10V"
-        },
-        {
-          "name": "Brave Culture",
-          "url": "https://open.spotify.com/artist/2ae35zW7NgAB7k7XlWYOcd"
+          "name": "Camden Cox",
+          "url": "https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C"
         }
       ],
-      "duration_ms": 175300,
-      "name": "Only You and I",
-      "url": "https://open.spotify.com/track/79KGZzqNgevzXDN18Gmdqm"
+      "duration_ms": 191612,
+      "name": "Pouring Rain",
+      "url": "https://open.spotify.com/track/5Dr69idwPV2vBivHWuK0bO"
     }
   ],
   "unique_name": "Power Up!",

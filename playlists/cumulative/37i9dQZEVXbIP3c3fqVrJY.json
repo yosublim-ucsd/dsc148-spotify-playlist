@@ -1560,7 +1560,7 @@
       ],
       "date_added": "2022-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-06",
+      "date_removed": null,
       "duration_ms": 208695,
       "name": "A\u017e na m\u011bs\u00edc",
       "url": "https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW"
@@ -4474,7 +4474,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-04",
+      "date_removed": null,
       "duration_ms": 168923,
       "name": "Cik\u00e1dy",
       "url": "https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv"
@@ -6340,7 +6340,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
@@ -7073,6 +7073,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "Album, co mi zm\u011bnilo \u017eivot",
         "url": "https://open.spotify.com/album/4NybXmmponlJSA5JnjXaae"
       },
@@ -7552,7 +7570,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
@@ -13344,7 +13362,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -14428,7 +14446,7 @@
       ],
       "date_added": "2024-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 199053,
       "name": "Malovan\u00ed",
       "url": "https://open.spotify.com/track/5RM8cNb1Sk9XkkwnJ3MvgZ"
@@ -14482,7 +14500,7 @@
       ],
       "date_added": "2023-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 203567,
       "name": "Mal\u00e1 d\u00e1ma",
       "url": "https://open.spotify.com/track/6Le5KOUhQgU4PQNkcX6sP4"
@@ -15860,7 +15878,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -18856,7 +18874,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 239493,
       "name": "PARANOIA",
       "url": "https://open.spotify.com/track/7odkDJx84eAIPmDHSTjPUU"
@@ -21484,7 +21502,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-22",
+      "date_removed": null,
       "duration_ms": 153402,
       "name": "Samota (with Sofian Medjmedj)",
       "url": "https://open.spotify.com/track/76LbBQHtxDetE9fCVEZqK0"
@@ -22818,7 +22836,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
@@ -24150,7 +24168,7 @@
       ],
       "date_added": "2021-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174666,
       "name": "S\u00edla Starejch V\u00edn",
       "url": "https://open.spotify.com/track/6qgMr9LacgnihY9IdYriMP"
@@ -24441,6 +24459,24 @@
     },
     {
       "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "album": {
         "name": "Tentokr\u00e1t",
         "url": "https://open.spotify.com/album/4uBQpJqiwbPFxeiPaIPOIs"
       },
@@ -24580,7 +24616,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Thank You (Not So Bad)",
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
@@ -24844,7 +24880,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 293048,
       "name": "The Tortured Poets Department",
       "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
@@ -25212,10 +25248,28 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {
@@ -26820,7 +26874,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
@@ -27818,7 +27872,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 334084,
       "name": "Who\u2019s Afraid of Little Old Me?",
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"

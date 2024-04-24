@@ -1,12 +1,12 @@
 {
   "description": "This is Larkin Poe. The essential tracks, all in one playlist.",
-  "num_followers": 27430,
+  "num_followers": 27444,
   "original_name": "This Is Larkin Poe",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGMyOGIzZWM2NmJjZDM2MjNmOTdmNjYyN2E3YWJiNzQx",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDA2NjdjZDY5YWVkZmEwMjBlMTdjNzAzMjdiNTg4OTQy",
   "tracks": [
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 172282,
-      "name": "Sometimes",
-      "url": "https://open.spotify.com/track/3n5CGOLFC49Mki34ooYM8K"
+      "duration_ms": 193389,
+      "name": "Keep Diggin'",
+      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
     },
     {
       "added_at": null,
@@ -403,8 +403,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
         }
       ],
-      "duration_ms": 193389,
-      "name": "Keep Diggin'",
-      "url": "https://open.spotify.com/track/25unV5ocnBz4kZyhd554PT"
+      "duration_ms": 172282,
+      "name": "Sometimes",
+      "url": "https://open.spotify.com/track/3n5CGOLFC49Mki34ooYM8K"
     },
     {
       "added_at": null,
@@ -435,18 +435,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Venom & Faith",
-        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
+        "name": "Self Made Man",
+        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        },
+        {
+          "name": "Tyler Bryant",
+          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
         }
       ],
-      "duration_ms": 171256,
-      "name": "Blue Ridge Mountains",
-      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
+      "duration_ms": 234866,
+      "name": "Back Down South (feat. Tyler Bryant)",
+      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
     },
     {
       "added_at": null,
@@ -467,22 +471,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Self Made Man",
-        "url": "https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf"
+        "name": "Venom & Faith",
+        "url": "https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF"
       },
       "artists": [
         {
           "name": "Larkin Poe",
           "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        },
-        {
-          "name": "Tyler Bryant",
-          "url": "https://open.spotify.com/artist/2v92dBj0AnGGPVyuxesKZi"
         }
       ],
-      "duration_ms": 234866,
-      "name": "Back Down South (feat. Tyler Bryant)",
-      "url": "https://open.spotify.com/track/5C2mhGbVEmeqFQvenp7z04"
+      "duration_ms": 171256,
+      "name": "Blue Ridge Mountains",
+      "url": "https://open.spotify.com/track/2xRzrAkhWvJJqPKoEJFzSa"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Rainy Day Sessions EP",
-        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
-      },
-      "artists": [
-        {
-          "name": "A Rocket To The Moon",
-          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
-        },
-        {
-          "name": "Larkin Poe",
-          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
-        }
-      ],
-      "duration_ms": 233066,
-      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
-      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Telluride",
         "url": "https://open.spotify.com/album/5kd8qvJn1qxuw6cUAuWa9Z"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 198040,
       "name": "Travelin' Light - Live",
       "url": "https://open.spotify.com/track/5TXhMT91DxzUbOvPQXJOex"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Rainy Day Sessions EP",
+        "url": "https://open.spotify.com/album/3cNNJvewda8N8nWKThsCRr"
+      },
+      "artists": [
+        {
+          "name": "A Rocket To The Moon",
+          "url": "https://open.spotify.com/artist/1NU9Em6e8dDo36Js6nEo3t"
+        },
+        {
+          "name": "Larkin Poe",
+          "url": "https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm"
+        }
+      ],
+      "duration_ms": 233066,
+      "name": "Baby Blue Eyes (feat. Larkin Poe) - Rainy Day Sessions",
+      "url": "https://open.spotify.com/track/3eB4bheM9cIu5v8lcQ558s"
     },
     {
       "added_at": null,

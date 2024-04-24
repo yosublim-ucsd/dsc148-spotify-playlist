@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 
 > Throw your lighters in the air and wave them like you don't care\. Cover: Guns N' Roses
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,348,532 likes - 100 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,348,648 likes - 100 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 5 | [More Than Words](https://open.spotify.com/track/1gVgkQFOKa8Wc1HYsJtPdH) | [Extreme](https://open.spotify.com/artist/6w7j5wQ5AI5OQYlcM15s2L) | [Extreme II \- Pornograffitti](https://open.spotify.com/album/7DKHQxJTI32UyCdDdGwvRC) | 5:34 |
 | 6 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 |
 | 7 | [Through Glass](https://open.spotify.com/track/5NeIONQWJ25uPylJBJiO4c) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Come What\(ever\) May \[10th Anniversary Edition\]](https://open.spotify.com/album/0dZB8UHYsM7jKmm7ByzAVq) | 4:42 |
-| 8 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
-| 9 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
+| 8 | [A Little Bit Off](https://open.spotify.com/track/6GqqGv8frU7kqzXkm2rewI) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [F8](https://open.spotify.com/album/7vAcymF4feKxvqcUDzLQD2) | 3:10 |
+| 9 | [Carrie](https://open.spotify.com/track/29wJiSQcze8HEmxkUQykyp) | [Europe](https://open.spotify.com/artist/7Js6Lde8thlIHXggv2SCBz) | [The Final Countdown \(Expanded Edition\)](https://open.spotify.com/album/5Jkd47JEaCU1g4DcGBnHm3) | 4:32 |
 | 10 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
 | 11 | [Aerials](https://open.spotify.com/track/4e9eGQYsOiBcftrWXwsVco) | [System Of A Down](https://open.spotify.com/artist/5eAWCfyUhZtHHtBdNk56l1) | [Toxicity](https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh) | 3:55 |
 | 12 | [Knockin' On Heaven's Door](https://open.spotify.com/track/4JiEyzf0Md7KEFFGWDDdCr) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion II](https://open.spotify.com/album/00eiw4KOJZ7eC3NBEpmH4C) | 5:36 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 34 | [Voice of the Soul](https://open.spotify.com/track/69Yia3qCLw6N9U80WhLwLn) | [Death](https://open.spotify.com/artist/4f5V3PQ66nIrBCqugJtaGn) | [The Sound of Perseverance \- Reissue](https://open.spotify.com/album/0p6DxsQOhQ5qiBnUu9G1PB) | 3:43 |
 | 35 | [The Price](https://open.spotify.com/track/5iF683hJagzos663BxLns9) | [Twisted Sister](https://open.spotify.com/artist/7b85ve82Sh36a3UAx74wut) | [Stay Hungry](https://open.spotify.com/album/0dzqapIToiOhULGvzDKpXm) | 3:49 |
 | 36 | [Enjoy the Silence \- cover version](https://open.spotify.com/track/71KtwiEpzcn9WxwlaS7ZJY) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Karmacode](https://open.spotify.com/album/7rMen6gw9hrmDuZNH1iUfT) | 4:05 |
-| 37 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
+| 37 | [Blackbird](https://open.spotify.com/track/2o4AknH1hXnleCRW2rH45w) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/0Fk4lWAADmFMmuW6jp6xyE) | 7:58 |
 | 38 | [You're All I Need](https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3) | [White Lion](https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG) | [Mane Attraction](https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb) | 4:25 |
-| 39 | [Blackbird](https://open.spotify.com/track/2o4AknH1hXnleCRW2rH45w) | [Alter Bridge](https://open.spotify.com/artist/4DWX7u8BV0vZIQSpJQQDWU) | [Blackbird](https://open.spotify.com/album/0Fk4lWAADmFMmuW6jp6xyE) | 7:58 |
+| 39 | [Another Day](https://open.spotify.com/track/69kZsoRrSf7GBTSdJ4BjqA) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Images and Words](https://open.spotify.com/album/2QgGoL5VSQhPHudTObS7zK) | 4:23 |
 | 40 | [Gone Away](https://open.spotify.com/track/73P5wYuZ1bsz0ZjsZiaSw2) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [And Justice for None \(Deluxe\)](https://open.spotify.com/album/2IA9d7atwNgtiS6Tpv9WKt) | 4:35 |
 | 41 | [Hold on to Memories](https://open.spotify.com/track/7tDwiOA86rkQWR1E1TPpgD) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Evolution](https://open.spotify.com/album/0V73oq7XX0jQL8hd1EZWe4) | 5:03 |
 | 42 | [Planet Caravan](https://open.spotify.com/track/78YknDXAOrz0E9ves11vnK) | [Pantera](https://open.spotify.com/artist/14pVkFUHDL207LzLHtSA18) | [Far Beyond Driven](https://open.spotify.com/album/70GAqt2avSiKBJ2IEymou1) | 4:03 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kydukZhLms.md) - [plain]
 | 84 | [Anybody Listening? \- Remastered 2003](https://open.spotify.com/track/6ObS155m8kMHPAnrAjlO2U) | [Queensrÿche](https://open.spotify.com/artist/2OgUPVlWYgGBGMefZgGvCO) | [Empire \- 20th Anniversary Edition](https://open.spotify.com/album/6jmesEKzKTLAa3oI96jWow) | 7:58 |
 | 85 | [When the Crowds Are Gone](https://open.spotify.com/track/6uQ15UwuRKIgUJQakgkYtZ) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Gutter Ballet \(2011 Edition\)](https://open.spotify.com/album/6zMeDffPrKyYSBf9AuyTIF) | 5:46 |
 | 86 | [Phoenix Rising](https://open.spotify.com/track/6vSY2O8TWgHP0oLPn5WhbH) | [Annihilator](https://open.spotify.com/artist/0L8QRAAuWjqvTM8FpQ1gYO) | [Set The World On Fire](https://open.spotify.com/album/0Iow4yw9iONKHFLeNF1MEt) | 3:48 |
-| 87 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
-| 88 | [The Magic of the Wizard's Dream \(English Version\)](https://open.spotify.com/track/1DH9pHPoBQ1YJRbzuFfnhV) | [Rhapsody](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [The Magic of the Wizard's Dream \- EP \(feat\. Christopher Lee\)](https://open.spotify.com/album/6OfEfUiqbR84z7QwzRHVMO) | 3:42 |
+| 87 | [The Magic of the Wizard's Dream \(English Version\)](https://open.spotify.com/track/1DH9pHPoBQ1YJRbzuFfnhV) | [Rhapsody](https://open.spotify.com/artist/0zQfrabOFYf36Ikb6PXcCY) | [The Magic of the Wizard's Dream \- EP \(feat\. Christopher Lee\)](https://open.spotify.com/album/6OfEfUiqbR84z7QwzRHVMO) | 3:42 |
+| 88 | [Only My Heart Talkin'](https://open.spotify.com/track/2xEAfWiQEpZFjogKaHwr4y) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:46 |
 | 89 | [Please Don't Leave Me](https://open.spotify.com/track/77ZIkT6DwOXP3RCU2nqNJq) | [Pretty Maids](https://open.spotify.com/artist/4OGo8f0tdKloP3IZwvnLqt) | [Sin\-Decade](https://open.spotify.com/album/6F6n2HxXHoKgEvZQltIiB2) | 5:15 |
 | 90 | [4000 Rainy Nights \- Remastered 2016](https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ) | [Stratovarius](https://open.spotify.com/artist/1O8CSXsPwEqxcoBE360PPO) | [Destiny \(Reissue 2016\)](https://open.spotify.com/album/1ucRSsC7KP0oJlTIVQlYU7) | 5:59 |
 | 91 | [The Silent Man](https://open.spotify.com/track/2vzfV6LgfAWtv7JeSoEPFO) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Awake](https://open.spotify.com/album/4jP59Kwqvy3n09eUe1Cge7) | 3:47 |

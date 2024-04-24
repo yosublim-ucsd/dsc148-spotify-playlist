@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 
 > D vitaminin.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,958 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,950 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVN3NeXpA0vD.md) - [plain]
 | 60 | [go with u](https://open.spotify.com/track/4PdLup4OaCGktZG8cvbkBz) | [BAYNK](https://open.spotify.com/artist/28yVvEvA2lT3K5RNIhV1Dj) | [Someone's EP II](https://open.spotify.com/album/5hb9aZmt8McCp8ktZh2dJZ) | 3:51 |
 | 61 | [Right Now](https://open.spotify.com/track/43wzy7JxMEfvCh8ZFeZKYk) | [Nick Jonas](https://open.spotify.com/artist/4Rxn7Im3LGfyRkY2FlHhWi), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Right Now](https://open.spotify.com/album/4UsjjAKbtKzmgEz2pGbv6P) | 3:21 |
 | 62 | [Swing \- Mahmut Orhan Remix](https://open.spotify.com/track/1ixFMrUVX7HMSctONowS3G) | [Sofi Tukker](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q), [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE) | [Swing \(Mahmut Orhan Remix\)](https://open.spotify.com/album/06yKFgvSkOVfq6CIc2icWL) | 4:29 |
-| 63 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
-| 64 | [Let You Love Me](https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Let You Love Me](https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm) | 3:10 |
+| 63 | [Let You Love Me](https://open.spotify.com/track/6xtcFXSo8H9BZN637BMVKS) | [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Let You Love Me](https://open.spotify.com/album/4INRJMYMJrSPsf5mbW26Fm) | 3:10 |
+| 64 | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/track/7aQeWViSfRWSEwtJD86Eq0) | [Mark Ronson](https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp), [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Late Night Feelings \(feat\. Lykke Li\)](https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5) | 4:11 |
 | 65 | [Freedom](https://open.spotify.com/track/5Gj1wG8b12VQdEd3hUuSwo) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw) | [Freedom](https://open.spotify.com/album/34JUh6M6Bvy2Dvo13bWfu4) | 3:18 |
 | 66 | [Free Woman](https://open.spotify.com/track/4L6ihclQPu1hqP9r3WNJjQ) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [Chromatica](https://open.spotify.com/album/05c49JgPmL4Uz2ZeqRx5SP) | 3:11 |
 | 67 | [Let It Be Me \(feat\. Ava Max\)](https://open.spotify.com/track/2F83FxNVkK6PPMHuYnwyVc) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Ava Max](https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F) | [7](https://open.spotify.com/album/5rbJtzuXtpIP0Ykk7ewIit) | 2:52 |

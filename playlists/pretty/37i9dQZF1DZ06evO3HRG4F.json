@@ -1,12 +1,12 @@
 {
-  "description": "This Is Charlie Monttana. Los temas esenciales, todos en una lista.",
-  "num_followers": 4456,
+  "description": "This is Charlie Monttana. The essential tracks, all in one playlist.",
+  "num_followers": 4461,
   "original_name": "This Is Charlie Monttana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDM1ZTk1OWFmNTdlZDQ5MmJhZjFhNjRhYzRmNzJmMmM4",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDA3ODlkMTA2YWE0MmY3MTUwMGZmMTZmM2NjZmEyMTg4",
   "tracks": [
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
-        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 320306,
-      "name": "Todas Esas Lagrimas - En Vivo",
-      "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo en el Teatro Isabela Corona, Vol. 2",
         "url": "https://open.spotify.com/album/3MfHiMLrd79xV6kgSc9kB3"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 190026,
       "name": "Blues para Trabajar - En Vivo",
       "url": "https://open.spotify.com/track/2wC7KdGIuo7VlUnXwtvuB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo, Vol. 1 (En el Teatro Isabela Corona)",
+        "url": "https://open.spotify.com/album/6ZJuqwaZLTTerjzyN0V3ue"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 320306,
+      "name": "Todas Esas Lagrimas - En Vivo",
+      "url": "https://open.spotify.com/track/5gPuo1U0FGKTnjNFgGMbqu"
     },
     {
       "added_at": null,
@@ -703,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 206239,
+      "name": "Las Encueradas",
+      "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pares y Duetos: Disco 2",
         "url": "https://open.spotify.com/album/70wnL7EEHIVjWuAttocxmY"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 192333,
       "name": "Estoy Tan Solo",
       "url": "https://open.spotify.com/track/4qvkfmC8UVHxECR9y61z3s"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
-      },
-      "artists": [
-        {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
-        }
-      ],
-      "duration_ms": 206239,
-      "name": "Las Encueradas",
-      "url": "https://open.spotify.com/track/5gDCTbJPowVyZUn3LTDADg"
     },
     {
       "added_at": null,

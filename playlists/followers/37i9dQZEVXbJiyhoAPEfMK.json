@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 120646,
+  "2024-04-24": 120576,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Switzerland.",
   "name": "Top 50 - Switzerland",
@@ -14219,7 +14219,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
@@ -30549,7 +30549,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 208135,
       "name": "Mwaki",
       "url": "https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt"
@@ -38977,7 +38977,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 188488,
       "name": "SEYA",
       "url": "https://open.spotify.com/track/0Fyqe4e5VjCaFjNSNYWa25"
@@ -42631,6 +42631,24 @@
       "duration_ms": 215000,
       "name": "Tell The Vision (feat. Kanye West & Pusha T)",
       "url": "https://open.spotify.com/track/2UwALqx6yOsXTFt7zRxnts"
+    },
+    {
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "album": {

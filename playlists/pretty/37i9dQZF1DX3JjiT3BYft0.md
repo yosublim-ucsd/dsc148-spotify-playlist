@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 
 > Music from “BanG Dream! “ series! 次世代ガールズバンドプロジェクト『BanG Dream!（バンドリ！）』公式プレイリスト。
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,142 likes - 75 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,185 likes - 75 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3JjiT3BYft0.md) - [plain]
 | 37 | [DISCOTHEQUE](https://open.spotify.com/track/5FFBLmADzoKasxORMErCd4) | [Pastel\*Palettes](https://open.spotify.com/artist/4n97ifZWNPLSPKC6KzfGxg) | [Pastel à la mode](https://open.spotify.com/album/7zsVBTexvPsxwIum91zdsu) | 4:03 |
 | 38 | [CORUSCATE \-DNA\-](https://open.spotify.com/track/6bT17LxgJvBKniLcfokwti) | [RAISE A SUILEN](https://open.spotify.com/artist/6zPsF3A9PvZ4s0NG6z76up) | [CORUSCATE \-DNA\-](https://open.spotify.com/album/71lKytpdWRtMFdbPXZeHNB) | 4:46 |
 | 39 | [GO! GO! MANIAC](https://open.spotify.com/track/789UN0IFmblfGjNPaiJoqb) | [ハロー、ハッピーワールド!](https://open.spotify.com/artist/4QiUX3o5DGs9Bc8N3LXae5) | [バンドリ! ガールズバンドパーティ! カバコレ Special Selection](https://open.spotify.com/album/0JowuUZyfttpDW76rq0rze) | 4:07 |
-| 40 | [大好き！](https://open.spotify.com/track/1Xm7guybMM8AneKkie4HcP) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:07 |
+| 40 | [RiNG A BELL](https://open.spotify.com/track/2xNrU2Ne7SZzjml72BSTtM) | [Poppin'Party](https://open.spotify.com/artist/2XzrQN7hxZibYdVEbl0nO6) | [青春 To Be Continued](https://open.spotify.com/album/5WnJBXSLn9YsyCnUDrmrbd) | 4:21 |
 | 41 | [クインティプル☆すまいる](https://open.spotify.com/track/5gXD2mjqtBkc7PKLdl2KXV) | [香澄](https://open.spotify.com/artist/2sgl0Q7BtpEJyBTvfZfgaV), [蘭](https://open.spotify.com/artist/7Is8KdfbbtdKXXaSz61Jeu), [彩](https://open.spotify.com/artist/7zCumr2sucYrZFf5vpKY69), [友希那](https://open.spotify.com/artist/0FSUZ6pfjMsJRtrCNOOJkw), [こころ](https://open.spotify.com/artist/71qaQP4Hq29ERluMIIUdyM) | [ピコっと!パピっと!!ガルパ☆ピコ!!!](https://open.spotify.com/album/6ySP0mPO2c9WiCBDUkoREy) | 4:04 |
 | 42 | [す、好きなんかじゃない!](https://open.spotify.com/track/2E6CWvJDz4Jz1y0R9HoRTR) | [市ヶ谷有咲\(CV.伊藤彩沙\)](https://open.spotify.com/artist/42iK1LthFSToAk8siJWOry) | [TVアニメ「BanG Dream!」キャラクターソング 市ヶ谷有咲「す、好きなんかじゃない!」](https://open.spotify.com/album/3GEnkEjWkej8C19LpOhKwG) | 3:55 |
 | 43 | [独創収差](https://open.spotify.com/track/5qs2hDCiRA3fZcCnEwDf3Y) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [STAY GLOW](https://open.spotify.com/album/6tCAYnz6faHeUC2mvqUDwV) | 4:36 |

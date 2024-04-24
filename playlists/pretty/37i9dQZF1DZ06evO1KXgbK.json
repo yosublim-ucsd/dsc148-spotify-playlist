@@ -1,12 +1,12 @@
 {
   "description": "This is Dolly Parton. The essential tracks, all in one playlist.",
-  "num_followers": 244666,
+  "num_followers": 244695,
   "original_name": "This Is Dolly Parton",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDc0OTM5ZTg4NDhkMzQ4YTEwM2U4MTlkZmUwNDE5NDZk",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDljYzE2OWNkYTVmYWEyYzZiZTZiNTJiZGNlZWY0Mjdk",
   "tracks": [
     {
       "added_at": null,
@@ -43,22 +43,6 @@
       "duration_ms": 250725,
       "name": "TYRANT",
       "url": "https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "9 To 5 And Odd Jobs",
-        "url": "https://open.spotify.com/album/64Ky1tqKPfwxhJs6msphWd"
-      },
-      "artists": [
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 162466,
-      "name": "9 to 5",
-      "url": "https://open.spotify.com/track/4w3tQBXhn5345eUXDGBWZG"
     },
     {
       "added_at": null,
@@ -207,26 +191,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 22623,
-      "name": "DOLLY P",
-      "url": "https://open.spotify.com/track/1fp4DIjhHyptQWK00CZgFQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Time Well Wasted",
         "url": "https://open.spotify.com/album/32LSfRBN2QI84fkkVX0edr"
       },
@@ -243,6 +207,26 @@
       "duration_ms": 247053,
       "name": "When I Get Where I'm Going (feat. Dolly Parton)",
       "url": "https://open.spotify.com/track/3VLCtStwYsAL4LKZgeUvy3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 22623,
+      "name": "DOLLY P",
+      "url": "https://open.spotify.com/track/1fp4DIjhHyptQWK00CZgFQ"
     },
     {
       "added_at": null,
@@ -287,26 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "You Can't Make Old Friends",
-        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
-      },
-      "artists": [
-        {
-          "name": "Kenny Rogers",
-          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 242680,
-      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
-      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Porter Wagoner & Dolly Parton",
         "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
       },
@@ -323,6 +287,26 @@
       "duration_ms": 156160,
       "name": "The Last Thing On My Mind",
       "url": "https://open.spotify.com/track/0sJchoPZwC2MV8WzZRoZUk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "You Can't Make Old Friends",
+        "url": "https://open.spotify.com/album/1cAujZxQJDEhqXK0EBBNtr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Rogers",
+          "url": "https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 242680,
+      "name": "You Can't Make Old Friends - Duet with Dolly Parton",
+      "url": "https://open.spotify.com/track/48Xp0fGOluD1NJmHOeYFg5"
     },
     {
       "added_at": null,
@@ -839,6 +823,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Glen Campbell Duets: Ghost On The Canvas Sessions",
+        "url": "https://open.spotify.com/album/5YFkGhaiIJVkOqfmq3IvAw"
+      },
+      "artists": [
+        {
+          "name": "Glen Campbell",
+          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 113761,
+      "name": "A Better Place (with Dolly Parton)",
+      "url": "https://open.spotify.com/track/0YCzc9CQkXubeYtLLLAJYK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Essential Dolly Parton",
         "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
       },
@@ -899,26 +903,6 @@
       "duration_ms": 261269,
       "name": "World On Fire",
       "url": "https://open.spotify.com/track/680abMjLEy7wOLgR7zaQv4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Glen Campbell Duets: Ghost On The Canvas Sessions",
-        "url": "https://open.spotify.com/album/5YFkGhaiIJVkOqfmq3IvAw"
-      },
-      "artists": [
-        {
-          "name": "Glen Campbell",
-          "url": "https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 113761,
-      "name": "A Better Place (with Dolly Parton)",
-      "url": "https://open.spotify.com/track/0YCzc9CQkXubeYtLLLAJYK"
     },
     {
       "added_at": null,
@@ -1023,6 +1007,22 @@
       "duration_ms": 153920,
       "name": "The Pain of Loving You - 2015 Remaster",
       "url": "https://open.spotify.com/track/3zQzQUYoDGIZOUM0BL84mM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Dolly Parton",
+        "url": "https://open.spotify.com/album/57T5WXyeDI1wJzvoGva1GS"
+      },
+      "artists": [
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "Mule Skinner Blues (Blue Yodel No. 8)",
+      "url": "https://open.spotify.com/track/1XChvxIUbR911TOb0HhNJi"
     }
   ],
   "unique_name": "This Is Dolly Parton",

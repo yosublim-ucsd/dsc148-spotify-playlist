@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6438,
+  "num_followers": 6441,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDIyMTE5OWI2ZjcxY2ZjM2E0OTBmNGZlMDc2MGYwMjFl",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGUwOGRiOWYxN2ZhNDU3ZGNiNjQxOWI5NThlMmYzZjM2",
   "tracks": [
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 158320,
+      "name": "Buru",
+      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tsunami",
         "url": "https://open.spotify.com/album/2QZtpJhtNTNbCq22BoLrIx"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 280841,
       "name": "Tsunami",
       "url": "https://open.spotify.com/track/6zMqOooNZpUf4397XCgWfF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 158320,
-      "name": "Buru",
-      "url": "https://open.spotify.com/track/5UMeJsvUGhBPKaRQehLWd5"
     },
     {
       "added_at": null,
@@ -411,6 +411,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Iberibe",
+      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joko (feat. Shaggy)",
         "url": "https://open.spotify.com/album/0MG5NOSUH4Zj3r2zxeU8py"
       },
@@ -427,22 +443,6 @@
       "duration_ms": 185294,
       "name": "Joko (feat. Shaggy)",
       "url": "https://open.spotify.com/track/5737I1FaRZMhBbLs4evJ5p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Iberibe",
-      "url": "https://open.spotify.com/track/4QycO3sEwoF0VjIqVggc1R"
     },
     {
       "added_at": null,
@@ -491,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gratitude",
+        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 203000,
+      "name": "Gra Gra",
+      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Than Them",
         "url": "https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 213921,
       "name": "Better Than Them",
       "url": "https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gratitude",
-        "url": "https://open.spotify.com/album/0vwe1g87WzbjWTNBPFZiNj"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 203000,
-      "name": "Gra Gra",
-      "url": "https://open.spotify.com/track/6qt5fWKsqz96eJt6OV4NTK"
     },
     {
       "added_at": null,
@@ -711,22 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 249312,
-      "name": "Dem Mama",
-      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Concur",
         "url": "https://open.spotify.com/album/1J5Y60QXsJxW7qRyoHlPUg"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 245960,
       "name": "I Concur",
       "url": "https://open.spotify.com/track/2rPRTmhTRoYBCataK79gfM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 249312,
+      "name": "Dem Mama",
+      "url": "https://open.spotify.com/track/5dFakr97SUs0pcVMYY6a3c"
     },
     {
       "added_at": null,
@@ -787,22 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Story",
-        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 265404,
-      "name": "True Story",
-      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Pressure",
         "url": "https://open.spotify.com/album/6DB4harKpwZ2IYfwsV6Qs8"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 177439,
       "name": "No Pressure",
       "url": "https://open.spotify.com/track/2ZfwMwiJnti8JUZAHzvBnG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Story",
+        "url": "https://open.spotify.com/album/2Vh7JwV6BJFBONAIGll2nB"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 265404,
+      "name": "True Story",
+      "url": "https://open.spotify.com/track/154wqt2t7LYUHFEjjjgfhI"
     },
     {
       "added_at": null,

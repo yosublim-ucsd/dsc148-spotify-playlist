@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 55892,
+  "num_followers": 55976,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -160,8 +160,8 @@
       },
       "artists": [
         {
-          "name": "Banda Los Coste\u00f1os de Zirandaro, Gro.",
-          "url": "https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E"
+          "name": "Banda los Coste\u00f1os",
+          "url": "https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ"
         }
       ],
       "duration_ms": 207925,
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Corazon Michoacano",
-        "url": "https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS"
+        "name": "Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
       },
       "artists": [
         {
-          "name": "La Nobleza De Aguililla",
-          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
         }
       ],
-      "duration_ms": 183413,
-      "name": "Con Mentiras No",
-      "url": "https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL"
+      "duration_ms": 193882,
+      "name": "Jefe Fresa",
+      "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -531,18 +531,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Estoy Aqu\u00ed",
-        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
+        "name": "Corazon Michoacano",
+        "url": "https://open.spotify.com/album/56dGWZj0MsID0YPwuXkdhS"
       },
       "artists": [
         {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+          "name": "La Nobleza De Aguililla",
+          "url": "https://open.spotify.com/artist/5cNCUu9R7rlzsDPHQFKCdg"
         }
       ],
-      "duration_ms": 193882,
-      "name": "Jefe Fresa",
-      "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
+      "duration_ms": 183413,
+      "name": "Con Mentiras No",
+      "url": "https://open.spotify.com/track/0iGA2tFV2f5yjiHRijk9cL"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -595,22 +595,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Guachita Hermosa (En Vivo)",
-        "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
+        "name": "Soy Cukin",
+        "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
       },
       "artists": [
         {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
-        },
-        {
-          "name": "Los Player's de Tuzantla",
-          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
         }
       ],
-      "duration_ms": 209126,
-      "name": "Guachita Hermosa - En Vivo",
-      "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
+      "duration_ms": 225692,
+      "name": "Soy Cukin",
+      "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -631,6 +627,26 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
+        "name": "Guachita Hermosa (En Vivo)",
+        "url": "https://open.spotify.com/album/3OtYQGkengSgGkXaFVhvl8"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        },
+        {
+          "name": "Los Player's de Tuzantla",
+          "url": "https://open.spotify.com/artist/77UR8eXyohRSAMyLhYfdxW"
+        }
+      ],
+      "duration_ms": 209126,
+      "name": "Guachita Hermosa - En Vivo",
+      "url": "https://open.spotify.com/track/5tZCmrLpUk6qYp8YQawXsB"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
         "name": "Gracias a la Vida",
         "url": "https://open.spotify.com/album/0lxZLO5fvS50fl8m08K6PW"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 144682,
       "name": "Lo Que Empieza Acaba",
       "url": "https://open.spotify.com/track/2ZrZG9dmYJsDgSLvlMHnCh"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Soy Cukin",
-        "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Soy Cukin",
-      "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 207666,
-      "name": "Hermosa Tierra Caliente",
-      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Solo para Ti",
         "url": "https://open.spotify.com/album/7FXd0tPldGUf192hdcHf0X"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Cuesti\u00f3n De Tiempo",
-        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
       },
       "artists": [
         {
-          "name": "Banda Roja",
-          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
         }
       ],
-      "duration_ms": 163640,
-      "name": "Cuanto Te Quiero",
-      "url": "https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD"
+      "duration_ms": 207666,
+      "name": "Hermosa Tierra Caliente",
+      "url": "https://open.spotify.com/track/6EDF54JATyoMUNbBJIETAe"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -743,18 +727,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Por Qu\u00e9 Me Gustas",
-        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
+        "name": "Cuesti\u00f3n De Tiempo",
+        "url": "https://open.spotify.com/album/47D8bgL135qYk3Jp8fmlrA"
       },
       "artists": [
         {
-          "name": "Arkangel Musical de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+          "name": "Banda Roja",
+          "url": "https://open.spotify.com/artist/0KeZP2rReaRxjxpLXak1Q2"
         }
       ],
-      "duration_ms": 221354,
-      "name": "5 Minutos",
-      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
+      "duration_ms": 163640,
+      "name": "Cuanto Te Quiero",
+      "url": "https://open.spotify.com/track/7AluH6DilKrQvTIOyFdcLD"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -775,6 +759,38 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
+        "name": "Por Qu\u00e9 Me Gustas",
+        "url": "https://open.spotify.com/album/2yKTWWEt3PCKTAbqCxTxAP"
+      },
+      "artists": [
+        {
+          "name": "Arkangel Musical de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2iIOVaa7w74YFsntwrKk1k"
+        }
+      ],
+      "duration_ms": 221354,
+      "name": "5 Minutos",
+      "url": "https://open.spotify.com/track/6t97cNUEjx4TafoovNr8tb"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Eres Mi \u00c1ngel",
+        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
+      },
+      "artists": [
+        {
+          "name": "Los Pajaritos De Tacupa",
+          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
+        }
+      ],
+      "duration_ms": 181813,
+      "name": "Todo Por Servir Se Acaba",
+      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
         "name": "Quisiera Ser Una L\u00e1grima",
         "url": "https://open.spotify.com/album/1RqBeee5es5MmTvDbqwwfu"
       },
@@ -787,6 +803,54 @@
       "duration_ms": 199053,
       "name": "Quisiera Ser Una L\u00e1grima",
       "url": "https://open.spotify.com/track/5NTuZKFaiYlyYZdj0fvbWn"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "La Reyna de Tierra Caliente",
+        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
+      },
+      "artists": [
+        {
+          "name": "La Dinastia De Tuzantla, Mich.",
+          "url": "https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ"
+        }
+      ],
+      "duration_ms": 165225,
+      "name": "En C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Aceptalo Ya !",
+        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
+      },
+      "artists": [
+        {
+          "name": "Los Canarios De Michoacan",
+          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
+        }
+      ],
+      "duration_ms": 181360,
+      "name": "No Se Vivir",
+      "url": "https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 206729,
+      "name": "Que Viva Tierra Caliente",
+      "url": "https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -823,70 +887,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "La Reyna de Tierra Caliente",
-        "url": "https://open.spotify.com/album/3l8s4sN6TQGhin5azC0DEi"
-      },
-      "artists": [
-        {
-          "name": "La Dinastia De Tuzantla, Mich.",
-          "url": "https://open.spotify.com/artist/3JCcDAQEUv3HT8OHGdmZnQ"
-        }
-      ],
-      "duration_ms": 165225,
-      "name": "En C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/7zwpqUQKWIYQetrh8E3T5g"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Eres Mi \u00c1ngel",
-        "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
-      },
-      "artists": [
-        {
-          "name": "Los Pajaritos De Tacupa",
-          "url": "https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT"
-        }
-      ],
-      "duration_ms": 181813,
-      "name": "Todo Por Servir Se Acaba",
-      "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Estoy Aqu\u00ed",
-        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 206729,
-      "name": "Que Viva Tierra Caliente",
-      "url": "https://open.spotify.com/track/3Xjwh0XMIg4u8V2RjjZEVP"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Aceptalo Ya !",
-        "url": "https://open.spotify.com/album/5NrYXAeq8EqovAyrb9JWNf"
-      },
-      "artists": [
-        {
-          "name": "Los Canarios De Michoacan",
-          "url": "https://open.spotify.com/artist/4j6JwUsiURpHgIWYzzdElp"
-        }
-      ],
-      "duration_ms": 181360,
-      "name": "No Se Vivir",
-      "url": "https://open.spotify.com/track/2juNjmS81xsJUOFJFop3QX"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "El Potosino y El Cocho",
         "url": "https://open.spotify.com/album/6Fmej7TWDGwwtQG3fFHYg5"
       },
@@ -915,22 +915,6 @@
       "duration_ms": 163285,
       "name": "El Baile de la Iguana (En Vivo)",
       "url": "https://open.spotify.com/track/4Pgecg5ZeQ0qdjb8O3YRiM"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
-        "name": "Para Que Vuelves",
-        "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
-      },
-      "artists": [
-        {
-          "name": "Grupo Alfa 7",
-          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
-        }
-      ],
-      "duration_ms": 132930,
-      "name": "30 Cartas",
-      "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -979,6 +963,22 @@
       "duration_ms": 169466,
       "name": "Me Gustas Mucho",
       "url": "https://open.spotify.com/track/11vaLp8ocblznMKhpEMBbu"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Para Que Vuelves",
+        "url": "https://open.spotify.com/album/5eYDEDlyShOWTNqIPZ2AIY"
+      },
+      "artists": [
+        {
+          "name": "Grupo Alfa 7",
+          "url": "https://open.spotify.com/artist/03TBR2ffZqsm38E9bXhSuZ"
+        }
+      ],
+      "duration_ms": 132930,
+      "name": "30 Cartas",
+      "url": "https://open.spotify.com/track/71xcrHytfm93vH4ZsoWUUj"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "De California Te Escribo",
-        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
-      },
-      "artists": [
-        {
-          "name": "Raul Garcia Y Su Grupo Kabildo",
-          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
-        }
-      ],
-      "duration_ms": 212040,
-      "name": "El Rey Pobre",
-      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "El Amor de Tu Vida",
         "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
       },
@@ -1067,18 +1051,18 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Rolonononas Pa la Raza",
-        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
+        "name": "De California Te Escribo",
+        "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
       },
       "artists": [
         {
-          "name": "Raza Obrera",
-          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
+          "name": "Raul Garcia Y Su Grupo Kabildo",
+          "url": "https://open.spotify.com/artist/5eMD6UOZ2u2dGDTPUCCQmU"
         }
       ],
-      "duration_ms": 177866,
-      "name": "El Albanil",
-      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
+      "duration_ms": 212040,
+      "name": "El Rey Pobre",
+      "url": "https://open.spotify.com/track/2b8N1NQbfGd0SykCgFEvCt"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1095,6 +1079,22 @@
       "duration_ms": 276853,
       "name": "Coyuca De Catalan (Zapateado)",
       "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Rolonononas Pa la Raza",
+        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
+      },
+      "artists": [
+        {
+          "name": "Raza Obrera",
+          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "El Albanil",
+      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
     },
     {
       "added_at": "2024-02-23 17:22:55",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2024-02-23 17:22:55",
       "album": {
-        "name": "Huaraches de Ara\u00f1a",
-        "url": "https://open.spotify.com/album/67BXYWWXGlywtjEZC9wlNK"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 189860,
-      "name": "Huaraches de Ara\u00f1a",
-      "url": "https://open.spotify.com/track/5OoVjESwJPNK4FNCcecBIH"
-    },
-    {
-      "added_at": "2024-02-23 17:22:55",
-      "album": {
         "name": "Homenaje al Rey Pobre",
         "url": "https://open.spotify.com/album/17YAHxM19DfTGzJHJzfcST"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 172714,
       "name": "Carta de Luto",
       "url": "https://open.spotify.com/track/6fIWxlRswxsuhBtEE8SpI8"
+    },
+    {
+      "added_at": "2024-02-23 17:22:55",
+      "album": {
+        "name": "Huaraches de Ara\u00f1a",
+        "url": "https://open.spotify.com/album/67BXYWWXGlywtjEZC9wlNK"
+      },
+      "artists": [
+        {
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
+        }
+      ],
+      "duration_ms": 189860,
+      "name": "Huaraches de Ara\u00f1a",
+      "url": "https://open.spotify.com/track/5OoVjESwJPNK4FNCcecBIH"
     },
     {
       "added_at": "2024-02-23 17:22:55",

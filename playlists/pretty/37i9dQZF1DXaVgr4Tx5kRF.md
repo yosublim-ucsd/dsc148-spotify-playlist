@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 
 > The songs that defined a golden era of British indie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 641,928 likes - 65 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 641,838 likes - 65 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,14 +14,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 4 | [Lucky Man](https://open.spotify.com/track/5tBnCBnTlDQQRdlqHe9qXq) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns](https://open.spotify.com/album/2okCg9scHue9GNELoB8U9g) | 4:53 |
 | 5 | [Linger](https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK) | [The Cranberries](https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9) | [Everybody Else Is Doing It, So Why Can't We?](https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI) | 4:34 |
 | 6 | [There She Goes](https://open.spotify.com/track/4c6vZqYHFur11FbWATIJ9P) | [The La's](https://open.spotify.com/artist/47Z8LEl3LnQkcpva0xSthT) | [The La's](https://open.spotify.com/album/1djwiQ802xeU8Q45jv1b0x) | 2:42 |
-| 7 | [I Wanna Be Adored \- Remastered](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
+| 7 | [I Wanna Be Adored \- Remastered 2009](https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:52 |
 | 8 | [Parklife \- 2012 Remaster](https://open.spotify.com/track/7FSzJQV6thyoQptFCUTV9c) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [Parklife \(Special Edition\)](https://open.spotify.com/album/0DBkFC6739trhCoVreZyds) | 3:05 |
 | 9 | [Connection](https://open.spotify.com/track/53LZqMzQEnjBkFXPqOq0cD) | [Elastica](https://open.spotify.com/artist/3l14gV4hIMAjmo7KUvEWTx) | [Elastica](https://open.spotify.com/album/00MAXeszCotk3g9q8KYJlZ) | 2:20 |
 | 10 | [Handbags And Gladrags](https://open.spotify.com/track/3U8UHbqKeR0jlkg8Qlwunr) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [Just Enough Education To Perform](https://open.spotify.com/album/51I2N3YcrmqOJfzywty3l4) | 4:37 |
 | 11 | [You & Me Song](https://open.spotify.com/track/5KiKFJdmU6m0QWxpW9xjOB) | [The Wannadies](https://open.spotify.com/artist/7GBLSeDdlx3gl2cxHvYuOh) | [Be A Girl](https://open.spotify.com/album/7bx60z6sWg9fz9Ve2AruOI) | 2:50 |
 | 12 | [Walkaway](https://open.spotify.com/track/3drQLSnECw7QSHMysFqFx7) | [Cast](https://open.spotify.com/artist/0vBDEQ1aLZpe4zgn2fPH6Z) | [All Change](https://open.spotify.com/album/4QpYfKscCgJ7cciYCEysg5) | 3:51 |
 | 13 | [Road Rage](https://open.spotify.com/track/1A7pz58VR2Lpc19c58QdSo) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 5:08 |
-| 14 | [She Bangs the Drums \- Remastered](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
+| 14 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
 | 15 | [Crystal](https://open.spotify.com/track/7JvTheiFwSaMFXFEbHnStK) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Get Ready](https://open.spotify.com/album/4HFohweHxrMPrLjW2wkBdn) | 6:50 |
 | 16 | [You Stole the Sun from My Heart](https://open.spotify.com/track/75Ii3Myt6vRsbjzaTbwDQt) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [This Is My Truth Tell Me Yours](https://open.spotify.com/album/3gUL89r4nMGlkjRdfiZfZW) | 4:20 |
 | 17 | [Lucky You](https://open.spotify.com/track/4RG9Ulx2XrTg2achBTPaoo) | [The Lightning Seeds](https://open.spotify.com/artist/67YNiSqhrx1P8oPvIIvbP5) | [Jollification](https://open.spotify.com/album/2aPTNYJ6MjDj7UvIHnJs26) | 4:19 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaVgr4Tx5kRF.md) - [plain]
 | 21 | [Mulder and Scully](https://open.spotify.com/track/2jlJVAqrN7bHsw7EwPOIIi) | [Catatonia](https://open.spotify.com/artist/4Bgfzia8wyaGaTn42egzTv) | [International Velvet](https://open.spotify.com/album/5oORHAxHQggskA01yI3l6a) | 4:11 |
 | 22 | [Ready to Go](https://open.spotify.com/track/2bEbTqj36jmuwMhvvCRC2y) | [Republica](https://open.spotify.com/artist/06YQ6XwCdPUn8rAXV70gge) | [Ready To Go](https://open.spotify.com/album/2lxv4za6tEk3J8vN73NWHp) | 5:01 |
 | 23 | [Beautiful Ones \(Remastered\)](https://open.spotify.com/track/0RxWeRjUUQqGUxOYn5gniE) | [Suede](https://open.spotify.com/artist/6PHIK3kjWggLtVygsOtpqS) | [Coming Up \(Remastered\)](https://open.spotify.com/album/3XCVHuvuKhqPY5sOFEw0Qv) | 3:50 |
-| 24 | [I Am the Resurrection \- Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
+| 24 | [I Am the Resurrection \- Remastered 2009](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 8:12 |
 | 25 | [Come Back To What You Know](https://open.spotify.com/track/2BjvbCwtueWDGi0QKgT3yy) | [Embrace](https://open.spotify.com/artist/74K7bX12L8GBAWvPuyIgJ7) | [The Good Will Out](https://open.spotify.com/album/3eNC1W7Y3mkEVA10eTojFK) | 4:10 |
 | 26 | [Shine On](https://open.spotify.com/track/0jPprFhDpOfkK3AmgYUCKg) | [The House of Love](https://open.spotify.com/artist/4tfyTbsNNN5xfxKDwG4VfP) | [House Of Love](https://open.spotify.com/album/6dIFn9PVo8zstNxsOCSovJ) | 4:00 |
 | 27 | [She Said](https://open.spotify.com/track/5J7l2wE9wxqod7xIP0jyAB) | [Longpigs](https://open.spotify.com/artist/1o7zIbVAgDDHKijLVuLASg) | [The Sun Is Often Out](https://open.spotify.com/album/1QQKv2Y9uONbj8Dw6GUMB6) | 4:24 |

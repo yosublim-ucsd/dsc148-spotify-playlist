@@ -1848,7 +1848,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 303820,
       "name": "Feel Alive",
       "url": "https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX"
@@ -5320,6 +5320,32 @@
       "duration_ms": 287323,
       "name": "The Flute",
       "url": "https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf"
+    },
+    {
+      "album": {
+        "name": "The Hook",
+        "url": "https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q"
+      },
+      "artists": [
+        {
+          "name": "Reality Test",
+          "url": "https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8"
+        },
+        {
+          "name": "Gproject",
+          "url": "https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P"
+        },
+        {
+          "name": "HYBIT",
+          "url": "https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2"
+        }
+      ],
+      "date_added": "2023-11-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285217,
+      "name": "The Hook",
+      "url": "https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr"
     },
     {
       "album": {

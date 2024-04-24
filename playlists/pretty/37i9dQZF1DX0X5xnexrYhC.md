@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 
 > pop woke up and chose chaos\. cover: EMELINE
 
-[Spotify](https://open.spotify.com/user/spotify) - 84,416 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 84,378 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 28 | [Bois Lie \(feat\. Machine Gun Kelly\)](https://open.spotify.com/track/2lHktSigIAZqf7BkA7NRS7) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j), [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Love Sux](https://open.spotify.com/album/7hH7rqTATIJ9DaYwWEdNLb) | 2:43 |
 | 29 | [fleabag](https://open.spotify.com/track/3TFtD8GZNw9v6vVWr3hnWy) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [fleabag](https://open.spotify.com/album/12jpOfe3jj1UdY1oMi3b79) | 2:56 |
 | 30 | [Halloweenie IV: Innards](https://open.spotify.com/track/2hwUHHqLSEue41V952MtD2) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Halloweenie IV: Innards](https://open.spotify.com/album/2AWdSvqkBNvj9eeM48KQTJ) | 2:50 |
-| 31 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
-| 32 | [F U Anthem](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 |
+| 31 | [F U Anthem](https://open.spotify.com/track/5VahNEYKPpQ65vXYipahyJ) | [Leah Kate](https://open.spotify.com/artist/6oWOHAOyBUn6aJlKIPJK9r) | [What Just Happened?](https://open.spotify.com/album/257QBCiFw8K0YFITOhKv2J) | 2:35 |
+| 32 | [YES MOM](https://open.spotify.com/track/3imd2WJDPDoIOyqDmw3plc) | [Tessa Violet](https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ) | [YES MOM](https://open.spotify.com/album/3vE82WGpKX2oHOC8qbCjOS) | 2:42 |
 | 33 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
 | 34 | [HUSHH](https://open.spotify.com/track/0K4pg20qcHoN8A1eWbwiOj) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [VOLUME I](https://open.spotify.com/album/7rFNFIghf6GymYHovyyrCO) | 3:00 |
 | 35 | [I am not a woman, I'm a god](https://open.spotify.com/track/3XKjZcgNYtvCmBpE1nX7Wn) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [If I Can’t Have Love, I Want Power](https://open.spotify.com/album/2smUD3MgTAgWjLjRe8wVnC) | 2:56 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0X5xnexrYhC.md) - [plain]
 | 65 | [Time of my Life](https://open.spotify.com/track/1K0lYhdaq84V90aOneQjIW) | [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Time of my Life](https://open.spotify.com/album/5ohnsSxGEfREu3adgPHIGd) | 2:16 |
 | 66 | [Target Practice](https://open.spotify.com/track/6I2kg7KS6otbKx6uKYs2OE) | [carolesdaughter](https://open.spotify.com/artist/2hiq2iBnUik3mrOfEgRSpB) | [Target Practice](https://open.spotify.com/album/16J5UoAKGvk7w6gOqNzubI) | 2:30 |
 | 67 | [u look stupid](https://open.spotify.com/track/3DVlE3PXyYSTZg99ZwaV3A) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [u look stupid](https://open.spotify.com/album/2gptxCWmLmrNseTobHQLBI) | 2:28 |
-| 68 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 |
-| 69 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 |
+| 68 | [Why'd You Only Call Me When You're High?](https://open.spotify.com/track/7GzmBQVPlJ9blD0Qb7Dbq8) | [merci, mercy](https://open.spotify.com/artist/524oC8NzSWvqPbwiRkYSLH) | [Why'd You Only Call Me When You're High?](https://open.spotify.com/album/2IclBimd3mgbt2bs23k6Lv) | 2:32 |
+| 69 | [IDC](https://open.spotify.com/track/5OwLlkNv9SisPU2ERTks0t) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [IDC](https://open.spotify.com/album/5rcX9JwTd8qF39LpCWpQrs) | 2:37 |
 | 70 | [Cry](https://open.spotify.com/track/2au4DyNFX59VLV5elmhagj) | [Cat & Calmell](https://open.spotify.com/artist/0SaaipFXHYbYDLDB6atAoR) | [Cry](https://open.spotify.com/album/0hble8eLgWuU9xMZVwn7EU) | 3:09 |
 | 71 | [The Idea Of You](https://open.spotify.com/track/4CBJcZklxDHIaXBoS58sq4) | [Evie Irie](https://open.spotify.com/artist/2ReivzVeWl6GawKNyVTLmK) | [The Idea Of You](https://open.spotify.com/album/1fkTVFIHUNw9uMtGFRCxzd) | 2:58 |
 | 72 | [Heartbreak](https://open.spotify.com/track/1ERMgnNgM2oWcmG2ZVuLx5) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Heartbreak](https://open.spotify.com/album/1I6INBRN8GU7VecaGJeaLk) | 3:06 |

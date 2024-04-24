@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 139213,
+  "2024-04-24": 139454,
   "date_first_scraped": "2023-10-23",
   "description": "Adormecer ao som relaxante da chuva.",
   "name": "Chuva para Dormir",
@@ -5082,6 +5082,24 @@
     },
     {
       "album": {
+        "name": "Rainfall Symphony",
+        "url": "https://open.spotify.com/album/21xYLPgL1tcmjJekVbq6UH"
+      },
+      "artists": [
+        {
+          "name": "Pax Natura",
+          "url": "https://open.spotify.com/artist/2HJzq0KBIm0RuSd42IVCjZ"
+        }
+      ],
+      "date_added": "2024-03-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Rainfall Symphony",
+      "url": "https://open.spotify.com/track/45lICfV5vHF9zeVTsXoREP"
+    },
+    {
+      "album": {
         "name": "Heavy Rain",
         "url": "https://open.spotify.com/album/5yz3wrR41kYNUrYoQeIzzs"
       },
@@ -6479,7 +6497,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 216000,
       "name": "Storm In Manchester",
       "url": "https://open.spotify.com/track/6OoxcsTg73NQ7gGc163hsz"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 
 ### [This Is EGOIST](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07DtzR)
 
-> This is EGOIST。アーティストの代表曲をひとつのプレイリストに。
+> This is EGOIST\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,554 likes - 49 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,552 likes - 49 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07DtzR.md) - [plain]
 | 48 | [Departures 〜あなたにおくるアイの歌〜 \-Instrumental\-](https://open.spotify.com/track/1O82mMEeNCTQZoiefCZLwn) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 4:14 |
 | 49 | [Departures 〜あなたにおくるアイの歌〜 \-BOOM BOOM SATELLITES Remix\-](https://open.spotify.com/track/4shRfuRkwt9ydnL1gTr0dA) | [EGOIST](https://open.spotify.com/artist/0k7JZhYS35IewiKNHW7KMj) | [Departures \- Anata Ni Okuru Ai No Uta](https://open.spotify.com/album/5WlYfrfJKDX3JbZDfQbJgy) | 7:11 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDMyNzE5NDFiMmI5N2YyM2U5ZDZmYzg0ZDM3NDIyMmZl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGZhMDJlNDI3NmJkZDg0YzVkYjZhZDdkOGUzZjhmZjM0`

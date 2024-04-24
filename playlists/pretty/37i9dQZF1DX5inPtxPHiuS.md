@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 
 > ¡Disfruta con los grandes del rock colombiano! Foto: Diamante Eléctrico
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,665 likes - 60 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,610 likes - 60 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,20 +39,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5inPtxPHiuS.md) - [plain]
 | 29 | [Lejos De Aqui](https://open.spotify.com/track/6nifdAaB5BMc69bzSbLYtV) | [Don Tetto](https://open.spotify.com/artist/73yxxTCHbUjnQUifLtfbDL) | [Grandes Exitos](https://open.spotify.com/album/7y8YhSMVq5hKIfbb3LdaaW) | 2:59 |
 | 30 | [Te Valgo](https://open.spotify.com/track/6ZaupuaHRssvSlkz9NrD4p) | [Piel Camaleón](https://open.spotify.com/artist/1cfJThcgMhg9IU5kYVhUbq) | [Te Valgo](https://open.spotify.com/album/3kmz323e83bfjWbXuRVcAk) | 3:18 |
 | 31 | [Niños Perdidos](https://open.spotify.com/track/3fANb47ayeswMFaT5fI1Or) | [TELEBIT](https://open.spotify.com/artist/1IppeXcGxXcEec0znuY7bI), [Armenia](https://open.spotify.com/artist/4FmrAtWfKHAIysakSpmatx) | [Niños Perdidos](https://open.spotify.com/album/55OtSjhhECr6c8we4xyX6y) | 2:39 |
-| 32 | [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 |
-| 33 | [Más Allá del Tiempo](https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Más Allá del Tiempo](https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m) | 3:37 |
+| 32 | [Más Allá del Tiempo](https://open.spotify.com/track/4YgKvNZkRFu7jcB36DsIO5) | [Los Rolling Ruanas](https://open.spotify.com/artist/1XPFAsXCMflKBKZuNIkru3) | [Más Allá del Tiempo](https://open.spotify.com/album/2R2RPZT6Tor9gDv5hOFw8m) | 3:37 |
+| 33 | [Guadalupe \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/track/5gTdC8wTm0P9JwjCoOY04o) | [The Mills](https://open.spotify.com/artist/7fcGiQtR6dTLwpQzrWsiJn) | [The Mills 10 Años \(En Vivo\) \[Desde el Teatro Colón\]](https://open.spotify.com/album/2lVJ4bLhN3L3ytRkbr4dzm) | 5:06 |
 | 34 | [Ningún Lugar](https://open.spotify.com/track/17GFhJg9l7Rm2qLbVuSYhr) | [Los Maricas](https://open.spotify.com/artist/0CkSeKpb3BlFQJJcA1kIjy) | [IV](https://open.spotify.com/album/5klM9vIOYtJdi3N8GUTprP) | 2:27 |
 | 35 | [Las Calles del Mundo](https://open.spotify.com/track/5n51OYaZgE3QS8PPO0p1zH) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Ciudad Faro](https://open.spotify.com/album/58sctZs8nWBBUJ8qY956Vk) | 3:35 |
 | 36 | [Rock the Casbah](https://open.spotify.com/track/2qEd8UUUa8tgqBLKh2ojHh) | [Doctor Krápula](https://open.spotify.com/artist/6qr2W4OfZLCIC7gItc7j0r) | [Rock the Casbah](https://open.spotify.com/album/6QdgKWKyU4Ut7MdPynViir) | 3:30 |
 | 37 | [Neumáticos](https://open.spotify.com/track/72cKV8a25RSFlIcr0KlpLM) | [Revólver Plateado](https://open.spotify.com/artist/73GjkmYVJJkhT0S4FweayO) | [Neumáticos](https://open.spotify.com/album/16NgzTFHxyzHmOWenuPzWx) | 3:45 |
-| 38 | [Huracán](https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [Huracán](https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c) | 3:09 |
-| 39 | [Túnel](https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH) | [Babelgam](https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM) | [Mar de Hiladas](https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku) | 3:32 |
+| 38 | [Túnel](https://open.spotify.com/track/5geCse4zvXqjXBoobaLuRH) | [Babelgam](https://open.spotify.com/artist/7ETpd7f5DgstJtQIuPqlQM) | [Mar de Hiladas](https://open.spotify.com/album/2UPr9Ibhpn9ac91BwqQbku) | 3:32 |
+| 39 | [Huracán](https://open.spotify.com/track/2ReRXRVKnIFprwQgHZC92D) | [Alfonso Espriella](https://open.spotify.com/artist/2uiokPi0ax9KTHCDFdAbHV) | [Huracán](https://open.spotify.com/album/6AvkDCqQCJqiLVrGsnkn6c) | 3:09 |
 | 40 | [Sirenas](https://open.spotify.com/track/1PkGzHg95qINSbYbsQWr3u) | [Oh'laville](https://open.spotify.com/artist/5uDxyttOUh6KJic2MFbwQ7) | [Soles Negros](https://open.spotify.com/album/3ofTHUW3ZUlEMBx10gidAG) | 4:00 |
 | 41 | [Texas](https://open.spotify.com/track/3si9cjEp9d37zE4IqpFbZK) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB) | [Texas](https://open.spotify.com/album/6opu23ikoXvGYXI9BIrATP) | 4:18 |
 | 42 | [Cherokee](https://open.spotify.com/track/3qY0oKFlzTYfPoXS9cnn8z) | [La Ramona](https://open.spotify.com/artist/6iWNuXAKgG1vQee6aWmTEW) | [Cherokee](https://open.spotify.com/album/6ryizw0fatTEithgl6xCCx) | 3:51 |
-| 43 | [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 |
-| 44 | [¿Qué se yo?](https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M) | [No Hay Tiempo Que Perder](https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy) | 2:57 |
-| 45 | [El Beat de Mi Corazón](https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt) | [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [En Paz](https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw) | 3:22 |
+| 43 | [¿Qué se yo?](https://open.spotify.com/track/3falJgxOYstt60PDeoaLsQ) | [Tr3sdeCoraZón](https://open.spotify.com/artist/1KSBih5CRHtXP3yb8GSn0M) | [No Hay Tiempo Que Perder](https://open.spotify.com/album/4Kf9e886i3tTAB4LtmV7dy) | 2:57 |
+| 44 | [El Beat de Mi Corazón](https://open.spotify.com/track/7A8bgi4lY0aPXCgLemYFjt) | [Ciegossordomudos](https://open.spotify.com/artist/0170WwUMxFl0cK6F5E0hYk) | [En Paz](https://open.spotify.com/album/376OJF2s2NSQi4m2pPmbtw) | 3:22 |
+| 45 | [La Clase Que Trabaja](https://open.spotify.com/track/0CpRKuFzJuh8hj55UXZ3Hs) | [APOLO 7](https://open.spotify.com/artist/322BLVw40Mq2hWHxGLykr6) | [La Clase Que Trabaja](https://open.spotify.com/album/1chXS9QVcQa8LMDLXOkybe) | 3:07 |
 | 46 | [Lockdownska](https://open.spotify.com/track/3wa8cbyJbGoAoFqaJdzlwA) | [Burning Caravan](https://open.spotify.com/artist/6EWzrar8NxPYxH9mLdgkat) | [Lockdownska](https://open.spotify.com/album/63drV0XsviR9CVU6eRvs0P) | 3:39 |
 | 47 | [Campesino](https://open.spotify.com/track/16NjxeQhuY5wQ8xl3gTZXt) | [La Doble A](https://open.spotify.com/artist/3Dhh3KGwP2XmiRdMqDLVhQ) | [Campesino](https://open.spotify.com/album/1dr8WuOYOeGk27RgnXImXQ) | 4:38 |
 | 48 | [Antes de Que Sea Muy Tarde](https://open.spotify.com/track/5bIuihsCdiDMA6MmlGFgre) | [Sismo](https://open.spotify.com/artist/3KMQT3nOebFOgoE3p35zVq) | [Antes de Que Sea Muy Tarde](https://open.spotify.com/album/6FFIXNpWmBGwZijE6A9lNe) | 3:12 |

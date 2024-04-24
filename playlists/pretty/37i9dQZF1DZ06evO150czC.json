@@ -1,12 +1,12 @@
 {
-  "description": "This is Midian Lima. \uaf2d \ub4e4\uc5b4\uc57c \ud558\ub294 \ud2b8\ub799\uc744 \ud558\ub098\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc5d0 \ubaa8\uc558\uc2b5\ub2c8\ub2e4.",
-  "num_followers": 19374,
+  "description": "This is Midian Lima. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 19382,
   "original_name": "This Is Midian Lima",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDRlOTVhMThkOWMwODMyN2FmOTJkOWY4ZjNlM2E4YzI5",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDE1Y2FhNzY1OWFkNmRhMTk4YTJhNjk5MTA2MmE0NzJj",
   "tracks": [
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Deus dos Pequeninos",
+        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
+      },
+      "artists": [
+        {
+          "name": "Midian Lima",
+          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "O Deus dos Pequeninos",
+      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Atos 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/2e1gED5YRJBQ3Pguz5jEAu"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 319000,
       "name": "Atos 2 (Ao Vivo)",
       "url": "https://open.spotify.com/track/46gZR9rY1vrujQsOm6Iflo"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Deus dos Pequeninos",
-        "url": "https://open.spotify.com/album/0xRgeruz1NjwaL67PxOo4h"
-      },
-      "artists": [
-        {
-          "name": "Midian Lima",
-          "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "O Deus dos Pequeninos",
-      "url": "https://open.spotify.com/track/4kwrcCpp5QjKWrh6gkMncq"
     },
     {
       "added_at": null,
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 302927,
-      "name": "Vida aos Sepulcros (Ao Vivo)",
-      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
+      "duration_ms": 274274,
+      "name": "Lugar Seguro (Ao Vivo)",
+      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
     },
     {
       "added_at": null,
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1UNm54Ts7vBGKcWjbjEmMw"
         }
       ],
-      "duration_ms": 274274,
-      "name": "Lugar Seguro (Ao Vivo)",
-      "url": "https://open.spotify.com/track/1MHDN44exyaakBnwjGuXMh"
+      "duration_ms": 302927,
+      "name": "Vida aos Sepulcros (Ao Vivo)",
+      "url": "https://open.spotify.com/track/5xHEBgTq1fKc0LYfl3rEHD"
     },
     {
       "added_at": null,

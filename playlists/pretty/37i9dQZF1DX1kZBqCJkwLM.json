@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: YOASOBI",
-  "num_followers": 85354,
+  "num_followers": 85362,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Loved By U",
-        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "morgxn",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        }
-      ],
-      "duration_ms": 207813,
-      "name": "Loved By U",
-      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "MADAME",
         "url": "https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 169796,
       "name": "Look At Me Now",
       "url": "https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Loved By U",
+        "url": "https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "morgxn",
+          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Loved By U",
+      "url": "https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl"
     }
   ],
   "unique_name": "Dope AF",

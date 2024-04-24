@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 27952,
+  "num_followers": 27946,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -183,22 +183,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "FOR THOSE WHO BELIEVED",
-        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "SOVA",
-      "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Sp\u00e5r av BLod",
         "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 138085,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/3vFlpYjJgaTHe0B5LGNaBy"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "FOR THOSE WHO BELIEVED",
+        "url": "https://open.spotify.com/album/2AkCxCyJMIoMe07c3dUnkv"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "SOVA",
+      "url": "https://open.spotify.com/track/3p0WsdmgVU2ZNIufdYFBDt"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -323,54 +323,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Go",
-        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
-      },
-      "artists": [
-        {
-          "name": "Ant Wan",
-          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
-        }
-      ],
-      "duration_ms": 154043,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "H\u00c5LL K\u00c4FTEN",
-        "url": "https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe"
-      },
-      "artists": [
-        {
-          "name": "Greekazo",
-          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
-        }
-      ],
-      "duration_ms": 127482,
-      "name": "H\u00c5LL K\u00c4FTEN",
-      "url": "https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Egoland",
-        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
-      },
-      "artists": [
-        {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
-        }
-      ],
-      "duration_ms": 135346,
-      "name": "Lenge Leve",
-      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Sjunka",
         "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
@@ -399,6 +351,54 @@
       "duration_ms": 161240,
       "name": "Blind",
       "url": "https://open.spotify.com/track/5udk76BjdsWuTAw1i6CjGG"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Egoland",
+        "url": "https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 135346,
+      "name": "Lenge Leve",
+      "url": "https://open.spotify.com/track/0eoNXHlt2V32uXCy60jCCa"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Go",
+        "url": "https://open.spotify.com/album/7jGNK2EUM6FoyfiQq0uVHA"
+      },
+      "artists": [
+        {
+          "name": "Ant Wan",
+          "url": "https://open.spotify.com/artist/51TXQniEQkYh89tfLjiuSy"
+        }
+      ],
+      "duration_ms": 154043,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/3ZxF05QdKqtssIdQR7amUW"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "H\u00c5LL K\u00c4FTEN",
+        "url": "https://open.spotify.com/album/1rwCQvCnCIzEkCVSECmJPe"
+      },
+      "artists": [
+        {
+          "name": "Greekazo",
+          "url": "https://open.spotify.com/artist/0I0zS0aiq9JeGMBT45x6d8"
+        }
+      ],
+      "duration_ms": 127482,
+      "name": "H\u00c5LL K\u00c4FTEN",
+      "url": "https://open.spotify.com/track/748Ay0C89PjJfa3iEelLmH"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "PRAPAPA",
-        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
-      },
-      "artists": [
-        {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
-        }
-      ],
-      "duration_ms": 124812,
-      "name": "PRAPAPA",
-      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "En till dans",
         "url": "https://open.spotify.com/album/3ikbwi5mxo5peZyvGaAugP"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 200412,
       "name": "En till dans",
       "url": "https://open.spotify.com/track/2dSAFb1xzoJffGzfxU4BaE"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "PRAPAPA",
+        "url": "https://open.spotify.com/album/0p1IClwALj4EC4mNRH6nW9"
+      },
+      "artists": [
+        {
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+        }
+      ],
+      "duration_ms": 124812,
+      "name": "PRAPAPA",
+      "url": "https://open.spotify.com/track/0YvWZpHDLG4YeibR10xXPq"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Whina",
+        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 156453,
+      "name": "Whina",
+      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 142291,
       "name": "Dyra notor",
       "url": "https://open.spotify.com/track/70JfjKT0DGEmmlZ0Hrfun1"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Whina",
-        "url": "https://open.spotify.com/album/6q9s0LplqLvb0cPCBFoILP"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 156453,
-      "name": "Whina",
-      "url": "https://open.spotify.com/track/06fihyXcPX2ztSWtHR2JmB"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
+        "name": "Frossa",
+        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        }
+      ],
+      "duration_ms": 154985,
+      "name": "Frossa",
+      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
         "name": "In Memory Of Some Stand Up Guys (Private Collection)",
         "url": "https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH"
       },
@@ -1167,22 +1183,6 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Det Regner Penger (Allez Allez)",
-        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
-      },
-      "artists": [
-        {
-          "name": "AVGVSTVS",
-          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
-        }
-      ],
-      "duration_ms": 93830,
-      "name": "Det Regner Penger (Allez Allez)",
-      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/7IELyzUSjtZ8BRFXXsvvPO"
       },
@@ -1199,34 +1199,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Thug Lover",
-        "url": "https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s"
+        "name": "Det Regner Penger (Allez Allez)",
+        "url": "https://open.spotify.com/album/0BDINejKpj8cD0DX3D0L8k"
       },
       "artists": [
         {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "AVGVSTVS",
+          "url": "https://open.spotify.com/artist/1DegXvs6WLntmyIMrPhaFr"
         }
       ],
-      "duration_ms": 162478,
-      "name": "Thug Lover",
-      "url": "https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Frossa",
-        "url": "https://open.spotify.com/album/0HIQvy6LtEhW4phvG12OEO"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        }
-      ],
-      "duration_ms": 154985,
-      "name": "Frossa",
-      "url": "https://open.spotify.com/track/660EPoIBj3FnUhHlcKgN5H"
+      "duration_ms": 93830,
+      "name": "Det Regner Penger (Allez Allez)",
+      "url": "https://open.spotify.com/track/1CfikWPsR1ao5NFuHnp567"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1247,6 +1231,22 @@
       "duration_ms": 190346,
       "name": "(\u00c5h) T\u00e5my, T\u00e5my - Rifla x Sheriff",
       "url": "https://open.spotify.com/track/6BTqkUxJRluSfyWXICpuVF"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Thug Lover",
+        "url": "https://open.spotify.com/album/1ojrLW3hbC1iU8oGJuMa1s"
+      },
+      "artists": [
+        {
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+        }
+      ],
+      "duration_ms": 162478,
+      "name": "Thug Lover",
+      "url": "https://open.spotify.com/track/3zpENN5MvOOv0pYj5YQWS7"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1339,18 +1339,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "\u00d6verallt",
-        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
+        "name": "Leve",
+        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
       },
       "artists": [
         {
-          "name": "Dizzy",
-          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
+          "name": "Amara",
+          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
         }
       ],
-      "duration_ms": 125092,
-      "name": "\u00d6verallt",
-      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
+      "duration_ms": 164812,
+      "name": "Leve",
+      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
-        "name": "Leve",
-        "url": "https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER"
+        "name": "\u00d6verallt",
+        "url": "https://open.spotify.com/album/0Ma4pU6qyMUlk4wl24ncjM"
       },
       "artists": [
         {
-          "name": "Amara",
-          "url": "https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j"
+          "name": "Dizzy",
+          "url": "https://open.spotify.com/artist/7lKk7yXNockkDjhb1GCeOy"
         }
       ],
-      "duration_ms": 164812,
-      "name": "Leve",
-      "url": "https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9"
+      "duration_ms": 125092,
+      "name": "\u00d6verallt",
+      "url": "https://open.spotify.com/track/2O5WGi5MYNRSNiT47J5QbH"
     },
     {
       "added_at": "2024-04-18 22:00:00",

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Pancho Barraza. Los temas esenciales, todos en una lista.",
-  "num_followers": 142887,
+  "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
+  "num_followers": 142910,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGE2YjI4MzI3ODg2ZTk5ODI1ODA5MzM2OTdkMTc1NjRk",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDFmMGNmNTg0MjkxZjVmM2YwMjgxM2E3YzQ4MDQzNzI0",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor De Mi Repertorio",
-        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 208399,
-      "name": "Los Amantes",
-      "url": "https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Perfecta",
         "url": "https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 168166,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor De Mi Repertorio",
+        "url": "https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 208399,
+      "name": "Los Amantes",
+      "url": "https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Poco de Amor",
-        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 171236,
-      "name": "Un Poco de Amor",
-      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te Deseo Lo Mejor (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 158200,
       "name": "Te Deseo Lo Mejor - Versi\u00f3n Mariachi",
       "url": "https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Poco de Amor",
+        "url": "https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 171236,
+      "name": "Un Poco de Amor",
+      "url": "https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4"
     },
     {
       "added_at": null,

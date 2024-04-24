@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 825264,
+  "2024-04-24": 825623,
   "date_first_scraped": "2022-01-09",
-  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Feid, Yandel",
+  "description": "Si est\u00e1 pegao, est\u00e1 aqu\u00ed. Feat. Rauw Alejandro",
   "name": "PEGAO",
   "tracks": [
     {
@@ -1166,6 +1166,44 @@
     },
     {
       "album": {
+        "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) [Remix]",
+        "url": "https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq"
+      },
+      "artists": [
+        {
+          "name": "Bhavi",
+          "url": "https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR"
+        },
+        {
+          "name": "Seven Kayne",
+          "url": "https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz"
+        },
+        {
+          "name": "Milo j",
+          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
+        },
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        },
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Neo Pistea",
+          "url": "https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284308,
+      "name": "BESAME (feat. Tiago PZK, Khea & Neo Pistea) - Remix",
+      "url": "https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq"
+    },
+    {
+      "album": {
         "name": "Besos Moja2",
         "url": "https://open.spotify.com/album/2KUHWofjBWPyEsoAx8izNn"
       },
@@ -1273,6 +1311,28 @@
       "duration_ms": 182660,
       "name": "BIEN :(",
       "url": "https://open.spotify.com/track/7tuYsmPjYHqsIJg42w2XGQ"
+    },
+    {
+      "album": {
+        "name": "Bien Loco",
+        "url": "https://open.spotify.com/album/1qgOSPbkZvvTSqaAwa8T0m"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Mora",
+          "url": "https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212975,
+      "name": "Bien Loco",
+      "url": "https://open.spotify.com/track/0Ps4UneYQVkuPb9zXkqFVI"
     },
     {
       "album": {
@@ -2067,7 +2127,7 @@
       ],
       "date_added": "2024-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 162666,
       "name": "Colal\u00e9",
       "url": "https://open.spotify.com/track/3Kd881GBz3fqGSlEXDJPML"
@@ -4075,7 +4135,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 116666,
       "name": "Extasisssssss",
       "url": "https://open.spotify.com/track/7enPATEvctXpgSCydNDgeq"
@@ -4119,7 +4179,7 @@
       ],
       "date_added": "2024-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 183335,
       "name": "FARDOS",
       "url": "https://open.spotify.com/track/33VIvWmmCUgix6Htm1WdOJ"
@@ -4349,6 +4409,24 @@
       "duration_ms": 144986,
       "name": "FRIKI",
       "url": "https://open.spotify.com/track/3No3zHVwKadKDR00kZdmAB"
+    },
+    {
+      "album": {
+        "name": "FRIKI",
+        "url": "https://open.spotify.com/album/6hw3nNhfG3gIeNrgon7BFL"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189066,
+      "name": "FRIKI",
+      "url": "https://open.spotify.com/track/2TWX6XUqmPx44FDOmgtb0I"
     },
     {
       "album": {
@@ -5191,6 +5269,28 @@
       "duration_ms": 175760,
       "name": "KIKI",
       "url": "https://open.spotify.com/track/30fCM2GlTrfuUmbykt5kKV"
+    },
+    {
+      "album": {
+        "name": "Kilerito",
+        "url": "https://open.spotify.com/album/7aqQhBZNAFuzSclpQ5wRFm"
+      },
+      "artists": [
+        {
+          "name": "Brytiago",
+          "url": "https://open.spotify.com/artist/00XhexlJEXQstHimpZN910"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225270,
+      "name": "Kilerito",
+      "url": "https://open.spotify.com/track/3kGMgEDHQoWykByLL6Jut3"
     },
     {
       "album": {
@@ -6407,7 +6507,7 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -8041,7 +8141,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 212783,
       "name": "Otro M\u00e1s",
       "url": "https://open.spotify.com/track/6XfnLcnjayW60GVwrjMGkk"
@@ -8063,7 +8163,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 147662,
       "name": "Oye BB",
       "url": "https://open.spotify.com/track/2QftZPguVY5lKNwyXPDywB"
@@ -8567,7 +8667,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -9867,7 +9967,7 @@
       ],
       "date_added": "2023-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 190476,
       "name": "SEDA",
       "url": "https://open.spotify.com/track/1YnChEM51BVZ5dRhbVFEMl"
@@ -10685,7 +10785,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 183428,
       "name": "Thal\u00eda",
       "url": "https://open.spotify.com/track/03O0bVezEElAy8AWXGTAOo"

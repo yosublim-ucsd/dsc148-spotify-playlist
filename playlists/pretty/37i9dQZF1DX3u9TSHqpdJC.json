@@ -1,28 +1,76 @@
 {
-  "description": "The best new pop music by independent artists and labels. Cover: Brooke Daya. Artwork by Paola Saliby",
-  "num_followers": 209109,
+  "description": "The best new pop music by independent artists and labels. Cover: Mercer Henderson. Artwork by Paola Saliby",
+  "num_followers": 209190,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMyNjQwMCwwMDAwMDAwMDhlNjIwM2RhM2NhMTE5YzdlNDE3YjcwNThkZjMyZDU4",
+  "snapshot_id": "MTcxMzk1NzcwMiwwMDAwMDAwMGM1NzY0NmRkMzkwMTYyMjQ1NDdkNDJiNjdkZDhhNTU2",
   "tracks": [
     {
-      "added_at": "2024-04-17 04:00:00",
+      "added_at": "2024-04-24 04:00:00",
       "album": {
-        "name": "Live Or Die",
-        "url": "https://open.spotify.com/album/6O5lkLmqRerbbdZ0GCzvBx"
+        "name": "What You Wanted",
+        "url": "https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe"
       },
       "artists": [
         {
-          "name": "Brooke Daye",
-          "url": "https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib"
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
         }
       ],
-      "duration_ms": 151314,
-      "name": "Live Or Die",
-      "url": "https://open.spotify.com/track/78gfrqVsMKemZp6alMCuRt"
+      "duration_ms": 177803,
+      "name": "What You Wanted",
+      "url": "https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B"
+    },
+    {
+      "added_at": "2024-04-24 11:21:42",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/65B2RvJC85fF6pNCymLMDF"
+      },
+      "artists": [
+        {
+          "name": "Elyse Jewel",
+          "url": "https://open.spotify.com/artist/56k4POEm6y9BnlWP5yQ8Py"
+        }
+      ],
+      "duration_ms": 139898,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/5gM6XHLOdzgWq17yd0bE2o"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/4QGuaJoRjdOw326Ex7xzwp"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "duration_ms": 212800,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/3CdMzFEOICekztAAcJw3ct"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -41,6 +89,54 @@
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
     },
     {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "GIBBERISH",
+        "url": "https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Cassette",
+          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
+        }
+      ],
+      "duration_ms": 135000,
+      "name": "GIBBERISH",
+      "url": "https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Live Or Die",
+        "url": "https://open.spotify.com/album/6O5lkLmqRerbbdZ0GCzvBx"
+      },
+      "artists": [
+        {
+          "name": "Brooke Daye",
+          "url": "https://open.spotify.com/artist/1rcjWfyRCF09kNQ8cEGdib"
+        }
+      ],
+      "duration_ms": 151314,
+      "name": "Live Or Die",
+      "url": "https://open.spotify.com/track/78gfrqVsMKemZp6alMCuRt"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "1000 Fucks Ago",
+        "url": "https://open.spotify.com/album/1VHuC9E78kQDik3UAvpLgT"
+      },
+      "artists": [
+        {
+          "name": "Aria Lisslo",
+          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
+        }
+      ],
+      "duration_ms": 184041,
+      "name": "1000 Fucks Ago",
+      "url": "https://open.spotify.com/track/00zT4M0FbjHzCOSezbypmP"
+    },
+    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "He's Dancing So Well (I'm Better)",
@@ -55,6 +151,22 @@
       "duration_ms": 180394,
       "name": "He's Dancing So Well (I'm Better)",
       "url": "https://open.spotify.com/track/0JnV1e4sPig5UFzrO8S6iG"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "MOTHER ATE",
+        "url": "https://open.spotify.com/album/17SKda70MgNi3mViFcweHp"
+      },
+      "artists": [
+        {
+          "name": "Jane Bell",
+          "url": "https://open.spotify.com/artist/77bNmKoq4fuzSlRB8KDCKk"
+        }
+      ],
+      "duration_ms": 201904,
+      "name": "MOTHER ATE",
+      "url": "https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -87,22 +199,6 @@
       "duration_ms": 189579,
       "name": "Red Sleeves",
       "url": "https://open.spotify.com/track/1Qqdue32M5hZRxrqXtPCbu"
-    },
-    {
-      "added_at": "2024-04-10 04:00:00",
-      "album": {
-        "name": "MOTHER ATE",
-        "url": "https://open.spotify.com/album/17SKda70MgNi3mViFcweHp"
-      },
-      "artists": [
-        {
-          "name": "Jane Bell",
-          "url": "https://open.spotify.com/artist/77bNmKoq4fuzSlRB8KDCKk"
-        }
-      ],
-      "duration_ms": 201904,
-      "name": "MOTHER ATE",
-      "url": "https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -475,22 +571,6 @@
     {
       "added_at": "2024-03-27 04:00:00",
       "album": {
-        "name": "are you there tonight?",
-        "url": "https://open.spotify.com/album/3aF38Kh2VROKvQDfyx98s7"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 186883,
-      "name": "are you there tonight?",
-      "url": "https://open.spotify.com/track/2UHmiHEZ0Gwx2tqqMdpFUQ"
-    },
-    {
-      "added_at": "2024-03-27 04:00:00",
-      "album": {
         "name": "Bababababy",
         "url": "https://open.spotify.com/album/6UYYhPbEjlwTtz0tPerDkg"
       },
@@ -603,22 +683,6 @@
     {
       "added_at": "2024-03-20 04:00:00",
       "album": {
-        "name": "Bad Timing",
-        "url": "https://open.spotify.com/album/10u7XxgMwxIFnmg6qyfgbo"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 208978,
-      "name": "Bad Timing",
-      "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
-    },
-    {
-      "added_at": "2024-03-20 04:00:00",
-      "album": {
         "name": "Calling It Love",
         "url": "https://open.spotify.com/album/3T7G34XE5ZLgiVrvDyEHV8"
       },
@@ -631,38 +695,6 @@
       "duration_ms": 190653,
       "name": "Calling It Love",
       "url": "https://open.spotify.com/track/5NMM8ktt0UHz3dvWYnlO7R"
-    },
-    {
-      "added_at": "2024-03-13 05:00:00",
-      "album": {
-        "name": "That Energy",
-        "url": "https://open.spotify.com/album/0Ecmcz27yUk82z7MJSILBX"
-      },
-      "artists": [
-        {
-          "name": "Emerson Azarian",
-          "url": "https://open.spotify.com/artist/1jyynbj6tIl5gwyqIjAp1j"
-        }
-      ],
-      "duration_ms": 174851,
-      "name": "That Energy",
-      "url": "https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt"
-    },
-    {
-      "added_at": "2024-03-20 04:00:00",
-      "album": {
-        "name": "Headed North",
-        "url": "https://open.spotify.com/album/2kT2utESRVu0otqiiDOGyf"
-      },
-      "artists": [
-        {
-          "name": "NOEL",
-          "url": "https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Hurt Somebody",
-      "url": "https://open.spotify.com/track/4c3O9CbWKhXM1UMCNRvEA5"
     },
     {
       "added_at": "2024-03-13 05:00:00",
@@ -1003,22 +1035,6 @@
       "duration_ms": 132903,
       "name": "THE ARSONIST & THE SUPERMODEL",
       "url": "https://open.spotify.com/track/5mh4ZIGlt8MVTimIOs5pjt"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "All Time Low",
-        "url": "https://open.spotify.com/album/7HRuKjnuAyJOtGB9fELdVc"
-      },
-      "artists": [
-        {
-          "name": "Aria Lisslo",
-          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
-        }
-      ],
-      "duration_ms": 148500,
-      "name": "All Time Low",
-      "url": "https://open.spotify.com/track/3w03xQK7wqiNBWu0T6h800"
     },
     {
       "added_at": "2024-02-28 05:00:00",
@@ -1539,22 +1555,6 @@
       "duration_ms": 151829,
       "name": "Call Me Yours",
       "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
-    },
-    {
-      "added_at": "2024-01-31 05:00:00",
-      "album": {
-        "name": "eat me alive",
-        "url": "https://open.spotify.com/album/5hbB0FUNpayoGS3vRaMdnF"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 159946,
-      "name": "eat me alive",
-      "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
     },
     {
       "added_at": "2024-01-25 05:07:27",

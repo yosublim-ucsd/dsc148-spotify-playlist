@@ -232,7 +232,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 179213,
       "name": "Creature",
       "url": "https://open.spotify.com/track/2kH4Tyy2DUT9aa55SWgjkI"
@@ -322,7 +322,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 229786,
       "name": "Live in Love",
       "url": "https://open.spotify.com/track/7GKj55k2hMsQ983yH5LnxB"
@@ -689,6 +689,24 @@
     },
     {
       "album": {
+        "name": "Of Mice & Men",
+        "url": "https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173186,
+      "name": "Seven Thousand Miles for What",
+      "url": "https://open.spotify.com/track/6TdCP5Q69EP3zO9bDzlAMO"
+    },
+    {
+      "album": {
         "name": "Saints",
         "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
       },
@@ -722,6 +740,24 @@
       "duration_ms": 238693,
       "name": "The Aleph",
       "url": "https://open.spotify.com/track/6nQ8t60dFrrtLSLCxLuiv0"
+    },
+    {
+      "album": {
+        "name": "The Flood (Deluxe Reissue)",
+        "url": "https://open.spotify.com/album/6DpR2DTKQ9hH4xEGqYQmLV"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190506,
+      "name": "The Flood",
+      "url": "https://open.spotify.com/track/4JootIUZqWEfvhIuvljZTu"
     },
     {
       "album": {
@@ -794,6 +830,24 @@
       "duration_ms": 236893,
       "name": "Tithemi",
       "url": "https://open.spotify.com/track/6SM2fTajm84ZaXJk7ZQSJj"
+    },
+    {
+      "album": {
+        "name": "Beyond the Gates",
+        "url": "https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP"
+      },
+      "artists": [
+        {
+          "name": "For All Eternity",
+          "url": "https://open.spotify.com/artist/5dAJhja3GDIAnA3YUbI27c"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212506,
+      "name": "Vacant Room",
+      "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
     },
     {
       "album": {

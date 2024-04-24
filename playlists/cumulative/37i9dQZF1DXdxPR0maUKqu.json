@@ -448,7 +448,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 199178,
       "name": "Decadance",
       "url": "https://open.spotify.com/track/3Ro6g11o5qorkxJHHagHoT"
@@ -1679,6 +1679,24 @@
     },
     {
       "album": {
+        "name": "Record Dogs",
+        "url": "https://open.spotify.com/album/5bwnn9spG9n2BR9Y6xpOyZ"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Record Dogs",
+      "url": "https://open.spotify.com/track/22BJYbV3ldjwzgKnnHu3l2"
+    },
+    {
+      "album": {
         "name": "kidnapping / rendez-vous",
         "url": "https://open.spotify.com/album/0TxOw3GSb01frvQeBbP8MP"
       },
@@ -2688,7 +2706,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 86280,
       "name": "\u3059\u3054\u3044\u901f\u3055",
       "url": "https://open.spotify.com/track/4zteBMm0wG20fdn4UkhVI5"
@@ -3048,7 +3066,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 220211,
       "name": "\u30ad\u30e3\u30f3\u30c9\u30eb\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/7ojsb0V4rZhcYuKD1grOPI"
@@ -3606,7 +3624,7 @@
       ],
       "date_added": "2023-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 222813,
       "name": "\u30d2\u30c3\u30c1\u30b3\u30c3\u30af",
       "url": "https://open.spotify.com/track/153lRbNmhQZVi69kbhmjY8"
@@ -3726,6 +3744,24 @@
       "duration_ms": 238860,
       "name": "\u30d6\u30fc\u30b1",
       "url": "https://open.spotify.com/track/7H2QpQ7AWXuFT8cHv4u0ap"
+    },
+    {
+      "album": {
+        "name": "\u30d7\u30ec\u30a4\u30dc\u30fc\u30a4\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+        "url": "https://open.spotify.com/album/2BYppt5lacuJPaYS4eehEA"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112800,
+      "name": "\u30d7\u30ec\u30a4\u30dc\u30fc\u30a4\u30b7\u30f3\u30c9\u30ed\u30fc\u30e0",
+      "url": "https://open.spotify.com/track/29qzwiWGpdUMozxviMNNXz"
     },
     {
       "album": {
@@ -4986,7 +5022,7 @@
       ],
       "date_added": "2023-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 285396,
       "name": "\u6c34\u5e73\u7dda",
       "url": "https://open.spotify.com/track/5m1i6hq7dmRlp3c1utE48L"
@@ -5296,6 +5332,24 @@
       "duration_ms": 217657,
       "name": "\u91d1\u661f",
       "url": "https://open.spotify.com/track/7x2HAt5GncMkvYI4dVrwpQ"
+    },
+    {
+      "album": {
+        "name": "\u9583\u5149\u914d\u4fe1",
+        "url": "https://open.spotify.com/album/1a39oxRKgYRZ4A3iE78OqL"
+      },
+      "artists": [
+        {
+          "name": "Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+          "url": "https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "\u9583\u5149\u914d\u4fe1",
+      "url": "https://open.spotify.com/track/3agn9FdMlV6Ecl2MOsTl5U"
     },
     {
       "album": {

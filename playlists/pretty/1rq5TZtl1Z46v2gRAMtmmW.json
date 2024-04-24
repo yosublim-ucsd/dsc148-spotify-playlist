@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 29535,
+  "num_followers": 29536,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "MzY5NyxmMzFiNzkyY2UwODc5MzQzOWI2NDA4ZmNhMTk4OGQwMTcyNDk2MWQx",
+  "snapshot_id": "MzcwMixlOGFmYTZjM2Y3Njg2MDJhYTczOTJhMzQ4NTI1MzdlMzc1NjU0ZWVj",
   "tracks": [
     {
       "added_at": "2024-02-20 17:59:46",
@@ -23,6 +23,30 @@
       "duration_ms": 201339,
       "name": "Mahal",
       "url": "https://open.spotify.com/track/0iiB9CYptXO5Fz728LHHsQ"
+    },
+    {
+      "added_at": "2024-04-23 17:21:42",
+      "album": {
+        "name": "With Balance",
+        "url": "https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop"
+      },
+      "artists": [
+        {
+          "name": "Metronomy",
+          "url": "https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX"
+        },
+        {
+          "name": "Naima Bock",
+          "url": "https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok"
+        },
+        {
+          "name": "Joshua Idehen",
+          "url": "https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc"
+        }
+      ],
+      "duration_ms": 178380,
+      "name": "With Balance",
+      "url": "https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9"
     },
     {
       "added_at": "2024-04-17 08:58:16",
@@ -687,22 +711,6 @@
       "duration_ms": 188550,
       "name": "chasing the bus",
       "url": "https://open.spotify.com/track/2nvb9TWAONy5kzsqEUyT2z"
-    },
-    {
-      "added_at": "2024-03-01 13:04:25",
-      "album": {
-        "name": "Madres",
-        "url": "https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 204067,
-      "name": "Habla Con Ella",
-      "url": "https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk"
     },
     {
       "added_at": "2023-10-26 16:46:10",

@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Philippines.",
-  "num_followers": 1324070,
+  "num_followers": 1323057,
   "original_name": "Top 50 - Philippines",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY3MTUwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Pantropiko",
         "url": "https://open.spotify.com/album/3NYOeU6Uwj2FP1Zz1rWVz8"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/6Csrqur3IfnVp0EtHskjMw"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Babaero",
         "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
@@ -45,7 +45,23 @@
       "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Talaarawan",
+        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 230218,
+      "name": "Salamin, Salamin",
+      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -65,39 +81,7 @@
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Talaarawan",
-        "url": "https://open.spotify.com/album/2eT1XApzS0GmkJLMlCBdVv"
-      },
-      "artists": [
-        {
-          "name": "BINI",
-          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
-        }
-      ],
-      "duration_ms": 230218,
-      "name": "Salamin, Salamin",
-      "url": "https://open.spotify.com/track/1iIJtD9hkzw4ZHfR7ND9yb"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Kung Alam Mo Lang",
-        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Walang Alam",
-      "url": "https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -113,7 +97,7 @@
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
@@ -124,12 +108,28 @@
           "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
         }
       ],
-      "duration_ms": 223500,
-      "name": "Alam Mo Ba Girl",
-      "url": "https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB"
+      "duration_ms": 185000,
+      "name": "Walang Alam",
+      "url": "https://open.spotify.com/track/4wZTvLi0khNRqqz4i5XhdV"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Makasarili Malambing (feat. Hev Abi)",
         "url": "https://open.spotify.com/album/5nRawGHyy4wk6BEudZx0h4"
@@ -149,55 +149,7 @@
       "url": "https://open.spotify.com/track/24lbO7qor0IB4u9uu8pDw8"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261228,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "eternal sunshine",
-        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 92400,
-      "name": "intro (end of the world)",
-      "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Saturn",
         "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
@@ -213,7 +165,55 @@
       "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Kung Alam Mo Lang",
+        "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 223500,
+      "name": "Alam Mo Ba Girl",
+      "url": "https://open.spotify.com/track/57Z7lSnhwx82laEb6rdZPB"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "eternal sunshine",
+        "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 92400,
+      "name": "intro (end of the world)",
+      "url": "https://open.spotify.com/track/2o1pb13quMReXZqE7jWsgq"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261228,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
@@ -237,23 +237,7 @@
       "url": "https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Lil Kasalanan Shortie",
-        "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 163964,
-      "name": "Lil Kasalanan Shortie",
-      "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "TAKE ALL THE LOVE",
         "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
@@ -269,91 +253,7 @@
       "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 293048,
-      "name": "The Tortured Poets Department",
-      "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Faded (Raw)",
-        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Faded (Raw)",
-      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Get Low",
-        "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
-      },
-      "artists": [
-        {
-          "name": "O SIDE MAFIA",
-          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
-        },
-        {
-          "name": "BRGR",
-          "url": "https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 262974,
-      "name": "So Long, London",
-      "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Palagi",
-        "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
-      },
-      "artists": [
-        {
-          "name": "TJ Monterde",
-          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
-        }
-      ],
-      "duration_ms": 218051,
-      "name": "Palagi",
-      "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Burgis",
         "url": "https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa"
@@ -373,7 +273,23 @@
       "url": "https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Lil Kasalanan Shortie",
+        "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 163964,
+      "name": "Lil Kasalanan Shortie",
+      "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "SUPER REAL ME",
         "url": "https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS"
@@ -389,7 +305,107 @@
       "url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Palagi",
+        "url": "https://open.spotify.com/album/4IO4IBKrCHtJVckqsdH6XH"
+      },
+      "artists": [
+        {
+          "name": "TJ Monterde",
+          "url": "https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0"
+        }
+      ],
+      "duration_ms": 218051,
+      "name": "Palagi",
+      "url": "https://open.spotify.com/track/0sqnYgWOw9DMc6jRgkcB2m"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Get Low",
+        "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
+      },
+      "artists": [
+        {
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
+        },
+        {
+          "name": "BRGR",
+          "url": "https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv"
+        }
+      ],
+      "duration_ms": 153886,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Faded (Raw)",
+        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Faded (Raw)",
+      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Capacities",
+        "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
+      },
+      "artists": [
+        {
+          "name": "Up Dharma Down",
+          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+        }
+      ],
+      "duration_ms": 222446,
+      "name": "Tadhana",
+      "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293048,
+      "name": "The Tortured Poets Department",
+      "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Marikit Sa Dilim",
         "url": "https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l"
@@ -413,7 +429,23 @@
       "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "711",
+        "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
+      },
+      "artists": [
+        {
+          "name": "TONEEJAY",
+          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
+        }
+      ],
+      "duration_ms": 222000,
+      "name": "711",
+      "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -429,23 +461,7 @@
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "My Boy Only Breaks His Favorite Toys",
-      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Tingin",
         "url": "https://open.spotify.com/album/5Z3PE5HciL6majXbtu3EU3"
@@ -465,23 +481,7 @@
       "url": "https://open.spotify.com/track/7b89Ffklm3xh4GI37vlZDZ"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "711",
-        "url": "https://open.spotify.com/album/3rr7vncuxv64AzY98YwPIL"
-      },
-      "artists": [
-        {
-          "name": "TONEEJAY",
-          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
-        }
-      ],
-      "duration_ms": 222000,
-      "name": "711",
-      "url": "https://open.spotify.com/track/2ONW0ksoUixoxT7gfI9hWX"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -492,12 +492,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 340428,
-      "name": "But Daddy I Love Him",
-      "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
+      "duration_ms": 262974,
+      "name": "So Long, London",
+      "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Pakundangan (feat. Hev Abi)",
         "url": "https://open.spotify.com/album/2usPnYPIwKOjeNl15BSXsW"
@@ -517,71 +517,7 @@
       "url": "https://open.spotify.com/track/2ESL2ZcFU32llFIyXLFy5P"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 254365,
-      "name": "Guilty as Sin?",
-      "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "The Land Is Inhospitable and So Are We",
-        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 137773,
-      "name": "My Love Mine All Mine",
-      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Capacities",
-        "url": "https://open.spotify.com/album/1QpFitywD6FWjFWvTmLOw9"
-      },
-      "artists": [
-        {
-          "name": "Up Dharma Down",
-          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
-        }
-      ],
-      "duration_ms": 222446,
-      "name": "Tadhana",
-      "url": "https://open.spotify.com/track/6FIEuf1JIzmCtach0gXpeG"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Strike Whilst the Iron Is Hot",
-        "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
-      },
-      "artists": [
-        {
-          "name": "Orange & Lemons",
-          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
-        }
-      ],
-      "duration_ms": 241146,
-      "name": "Heaven Knows - This Angel Has Flown",
-      "url": "https://open.spotify.com/track/0Qra8Ps4tJAZPqRXyehCjc"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "homebdy (feat. Madman Stan)",
         "url": "https://open.spotify.com/album/1eNpFnIEHvsFYcIaSnf3bJ"
@@ -605,23 +541,55 @@
       "url": "https://open.spotify.com/track/01iNOMVE89uKaurFTDZX2Y"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
-        "name": "RomCom",
-        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
+        "name": "Strike Whilst the Iron Is Hot",
+        "url": "https://open.spotify.com/album/1Pjond44g3GY0emy3LfcCl"
       },
       "artists": [
         {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+          "name": "Orange & Lemons",
+          "url": "https://open.spotify.com/artist/1EUmQM6xgUQLUkJVcvSdey"
         }
       ],
-      "duration_ms": 237485,
-      "name": "RomCom",
-      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
+      "duration_ms": 241146,
+      "name": "Heaven Knows - This Angel Has Flown",
+      "url": "https://open.spotify.com/track/0Qra8Ps4tJAZPqRXyehCjc"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 254365,
+      "name": "Guilty as Sin?",
+      "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "YK",
+        "url": "https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS"
+      },
+      "artists": [
+        {
+          "name": "Cean Jr.",
+          "url": "https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m"
+        }
+      ],
+      "duration_ms": 170263,
+      "name": "YK",
+      "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Senaryo",
         "url": "https://open.spotify.com/album/5UNDk7qptf3EtMNoIh3w0k"
@@ -641,7 +609,7 @@
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -652,144 +620,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 277156,
-      "name": "loml",
-      "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 334084,
-      "name": "Who\u2019s Afraid of Little Old Me?",
-      "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Miss Miss",
-        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
-      },
-      "artists": [
-        {
-          "name": "Rob Deniel",
-          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
-        }
-      ],
-      "duration_ms": 265677,
-      "name": "Miss Miss",
-      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Sa Susunod na Habang Buhay",
-        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 288189,
-      "name": "Sa Susunod na Habang Buhay",
-      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 215463,
-      "name": "Florida!!! (feat. Florence + The Machine)",
-      "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "YK",
-        "url": "https://open.spotify.com/album/0vJ2H4ZG19Enzadvy7xHIS"
-      },
-      "artists": [
-        {
-          "name": "Cean Jr.",
-          "url": "https://open.spotify.com/artist/4LT250S0fAe4cYqPbRk56m"
-        }
-      ],
-      "duration_ms": 170263,
-      "name": "YK",
-      "url": "https://open.spotify.com/track/3kdDccXEVz0snh6mcL4eFj"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "Para Sa Streets",
-        "url": "https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 194475,
-      "name": "Para Sa Streets",
-      "url": "https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "Fresh Out The Slammer",
-      "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
-    },
-    {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -813,23 +649,123 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
-        "name": "Ikaw Lang",
-        "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
+        "name": "The Land Is Inhospitable and So Are We",
+        "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },
       "artists": [
         {
-          "name": "NOBITA",
-          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
         }
       ],
-      "duration_ms": 263500,
-      "name": "Ikaw Lang",
-      "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
+      "duration_ms": 137773,
+      "name": "My Love Mine All Mine",
+      "url": "https://open.spotify.com/track/3vkCueOmm7xQDoJ17W1Pm3"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "RomCom",
+        "url": "https://open.spotify.com/album/0LZ5mVQNqWZg5a6UmRxVIX"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 237485,
+      "name": "RomCom",
+      "url": "https://open.spotify.com/track/67DEADzgSxkFWI3jVlQUL3"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Sa Susunod na Habang Buhay",
+        "url": "https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 288189,
+      "name": "Sa Susunod na Habang Buhay",
+      "url": "https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Miss Miss",
+        "url": "https://open.spotify.com/album/7vX4hut0GPXmfbqbSvz49o"
+      },
+      "artists": [
+        {
+          "name": "Rob Deniel",
+          "url": "https://open.spotify.com/artist/7dFzqx2qyelGPiBKmdSEOT"
+        }
+      ],
+      "duration_ms": 265677,
+      "name": "Miss Miss",
+      "url": "https://open.spotify.com/track/5mi8Oe95frx6LhvFioXE7t"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 340428,
+      "name": "But Daddy I Love Him",
+      "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Para Sa Streets",
+        "url": "https://open.spotify.com/album/62G53UzsyGd1updwIfyXLq"
+      },
+      "artists": [
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 194475,
+      "name": "Para Sa Streets",
+      "url": "https://open.spotify.com/track/0szRYVD2MwFzQMs58PT1Ec"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Tequila Rose",
+        "url": "https://open.spotify.com/album/02tMWeYI98izui099O7QDb"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Tequila Rose",
+      "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Isa lang",
         "url": "https://open.spotify.com/album/09S77IK5S0vxVF0DfwSohF"
@@ -845,23 +781,23 @@
       "url": "https://open.spotify.com/track/0HAG6nIiEKd75yGpovuSJQ"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "name": "Ikaw Lang",
+        "url": "https://open.spotify.com/album/1nft8RTZE2QYeDPPNEnCBx"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "NOBITA",
+          "url": "https://open.spotify.com/artist/5GVk1KCKa1tdHRev4bMw7V"
         }
       ],
-      "duration_ms": 196900,
-      "name": "The Alchemy",
-      "url": "https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn"
+      "duration_ms": 263500,
+      "name": "Ikaw Lang",
+      "url": "https://open.spotify.com/track/16iRlyUMJVPqz62DlomMre"
     },
     {
-      "added_at": "2024-04-22 11:06:48",
+      "added_at": "2024-04-24 11:02:44",
       "album": {
         "name": "Karera",
         "url": "https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R"
@@ -875,6 +811,70 @@
       "duration_ms": 268474,
       "name": "Karera",
       "url": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Unti-Unti",
+        "url": "https://open.spotify.com/album/22DhzsGO72BgYKAAXFGsyb"
+      },
+      "artists": [
+        {
+          "name": "Up Dharma Down",
+          "url": "https://open.spotify.com/artist/3wbCeEPAW6po7J46netxMT"
+        }
+      ],
+      "duration_ms": 283825,
+      "name": "Unti-Unti",
+      "url": "https://open.spotify.com/track/0DdC92EziGIEN6j7kTCKQX"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 334084,
+      "name": "Who\u2019s Afraid of Little Old Me?",
+      "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-04-24 11:02:44",
+      "album": {
+        "name": "Feel Good",
+        "url": "https://open.spotify.com/album/7H64wogfyQUcRqFZFbMV9S"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "duration_ms": 256410,
+      "name": "Lagi",
+      "url": "https://open.spotify.com/track/5YV9UyeC3dMV4kuRiTMGJs"
     }
   ],
   "unique_name": "Top 50 - Philippines",

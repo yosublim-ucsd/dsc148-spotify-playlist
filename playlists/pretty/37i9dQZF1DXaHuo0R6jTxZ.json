@@ -1,6 +1,6 @@
 {
   "description": "Ya Wailee! Get ready for some serious 90s nostalgia. Cover : Amr Diab",
-  "num_followers": 102715,
+  "num_followers": 102681,
   "original_name": "90s Arabic Hits",
   "owner": {
     "name": "Spotify",
@@ -599,22 +599,6 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "High Quality Vol 1",
-        "url": "https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN"
-      },
-      "artists": [
-        {
-          "name": "Fares",
-          "url": "https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k"
-        }
-      ],
-      "duration_ms": 225466,
-      "name": "Yabo Khad",
-      "url": "https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y"
-    },
-    {
-      "added_at": "2023-09-15 13:43:10",
-      "album": {
         "name": "\u062a\u064a\u0643\u064a \u062a\u0627",
         "url": "https://open.spotify.com/album/06ViZXDfKo0NcHRtncjwjI"
       },
@@ -631,18 +615,18 @@
     {
       "added_at": "2023-09-15 13:43:10",
       "album": {
-        "name": "Ahla Hekaya",
-        "url": "https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv"
+        "name": "High Quality Vol 1",
+        "url": "https://open.spotify.com/album/1vQWKCqtIJjJYaJlKtFWxN"
       },
       "artists": [
         {
-          "name": "Amr Tantawy",
-          "url": "https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3"
+          "name": "Fares",
+          "url": "https://open.spotify.com/artist/501dBaY3hLn5aEWoOZha1k"
         }
       ],
-      "duration_ms": 242369,
-      "name": "Asheq",
-      "url": "https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM"
+      "duration_ms": 225466,
+      "name": "Yabo Khad",
+      "url": "https://open.spotify.com/track/6RxNHl2RBomzslMDUCej8y"
     },
     {
       "added_at": "2023-09-15 13:43:10",
@@ -659,6 +643,22 @@
       "duration_ms": 237815,
       "name": "Ya Alby",
       "url": "https://open.spotify.com/track/6mFeZYWPxxcncrVdgsm7gK"
+    },
+    {
+      "added_at": "2023-09-15 13:43:10",
+      "album": {
+        "name": "Ahla Hekaya",
+        "url": "https://open.spotify.com/album/0UEaqW4PgIau35th1V7Ahv"
+      },
+      "artists": [
+        {
+          "name": "Amr Tantawy",
+          "url": "https://open.spotify.com/artist/3CGtuA8TxzMGjJ3BSyPII3"
+        }
+      ],
+      "duration_ms": 242369,
+      "name": "Asheq",
+      "url": "https://open.spotify.com/track/2oru5RAnipKp3ABLrZodNM"
     }
   ],
   "unique_name": "90s Arabic Hits",

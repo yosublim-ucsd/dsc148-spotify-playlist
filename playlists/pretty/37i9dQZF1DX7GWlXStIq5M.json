@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: LUDMILLA, Ryan Castro",
-  "num_followers": 360217,
+  "num_followers": 360227,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,26 @@
     {
       "added_at": "2024-04-19 18:20:22",
       "album": {
+        "name": "Deixa",
+        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
+      },
+      "artists": [
+        {
+          "name": "Pk",
+          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
+        },
+        {
+          "name": "Carol Biazin",
+          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+        }
+      ],
+      "duration_ms": 180021,
+      "name": "Deixa",
+      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
+    },
+    {
+      "added_at": "2024-04-19 18:20:22",
+      "album": {
         "name": "Para De Dizer Que N\u00e3o Me Ama (Ao Vivo)",
         "url": "https://open.spotify.com/album/0dn2jZVWmrGtYfNOQPSvyC"
       },
@@ -815,22 +835,18 @@
     {
       "added_at": "2024-04-19 18:20:22",
       "album": {
-        "name": "Deixa",
-        "url": "https://open.spotify.com/album/3ojDsD2W4VEB3XKXIDAxIc"
+        "name": "MAR\u00c9",
+        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
       },
       "artists": [
         {
-          "name": "Pk",
-          "url": "https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm"
-        },
-        {
-          "name": "Carol Biazin",
-          "url": "https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN"
+          "name": "DAY LIMNS",
+          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
         }
       ],
-      "duration_ms": 180021,
-      "name": "Deixa",
-      "url": "https://open.spotify.com/track/2TJdH3Uz7RAJqqQKwiTxDV"
+      "duration_ms": 168650,
+      "name": "MAR\u00c9",
+      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
     },
     {
       "added_at": "2024-04-19 18:20:22",
@@ -875,18 +891,22 @@
     {
       "added_at": "2024-04-19 18:20:22",
       "album": {
-        "name": "MAR\u00c9",
-        "url": "https://open.spotify.com/album/7cWpMAvhOPMlWwaz83sglJ"
+        "name": "Deixa Acender",
+        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
       },
       "artists": [
         {
-          "name": "DAY LIMNS",
-          "url": "https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc"
+          "name": "Barro",
+          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
+        },
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
         }
       ],
-      "duration_ms": 168650,
-      "name": "MAR\u00c9",
-      "url": "https://open.spotify.com/track/4ybdpn1k7RUHy3J3LGUsdb"
+      "duration_ms": 155600,
+      "name": "Deixa Acender",
+      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2024-04-19 18:20:22",
@@ -919,26 +939,6 @@
       "duration_ms": 181670,
       "name": "24 Horas",
       "url": "https://open.spotify.com/track/3Q0LWpLuhEcCCWjpfBRnzH"
-    },
-    {
-      "added_at": "2024-04-19 18:20:22",
-      "album": {
-        "name": "Deixa Acender",
-        "url": "https://open.spotify.com/album/2Zzg1exvNmLqNCgZKHtAW8"
-      },
-      "artists": [
-        {
-          "name": "Barro",
-          "url": "https://open.spotify.com/artist/49Ymz7hkosffibefJioODe"
-        },
-        {
-          "name": "Rachel Reis",
-          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
-        }
-      ],
-      "duration_ms": 155600,
-      "name": "Deixa Acender",
-      "url": "https://open.spotify.com/track/3D1d9aNhYHsgKSOHEVWsHn"
     },
     {
       "added_at": "2024-04-19 18:20:22",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-04-19 18:20:22",
       "album": {
-        "name": "Te Procurei",
-        "url": "https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN"
-      },
-      "artists": [
-        {
-          "name": "Elana Dara",
-          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
-        }
-      ],
-      "duration_ms": 161903,
-      "name": "Te Procurei",
-      "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
-    },
-    {
-      "added_at": "2024-04-19 18:20:22",
-      "album": {
         "name": "Um Pouco de Mim",
         "url": "https://open.spotify.com/album/2xhrb0Bg1uXDUoB6zDJgKv"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 198260,
       "name": "Cupido Querido",
       "url": "https://open.spotify.com/track/0hGMJl9fF67jCgMYBr8MDa"
+    },
+    {
+      "added_at": "2024-04-19 18:20:22",
+      "album": {
+        "name": "Te Procurei",
+        "url": "https://open.spotify.com/album/4OOoEFmG410X2Ww1YyX9IN"
+      },
+      "artists": [
+        {
+          "name": "Elana Dara",
+          "url": "https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB"
+        }
+      ],
+      "duration_ms": 161903,
+      "name": "Te Procurei",
+      "url": "https://open.spotify.com/track/2RZzQJKn6byIPL1ldj8nca"
     },
     {
       "added_at": "2024-04-19 18:20:22",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2024-04-19 18:20:22",
       "album": {
+        "name": "Serena",
+        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 165957,
+      "name": "Serena",
+      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
+    },
+    {
+      "added_at": "2024-04-19 18:20:22",
+      "album": {
         "name": "Veste a Camisa",
         "url": "https://open.spotify.com/album/1C9WFYgLHljkxsNd58byks"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 151389,
       "name": "Veste a Camisa",
       "url": "https://open.spotify.com/track/5L5VOPrSvmYbjuOkYo7SoI"
-    },
-    {
-      "added_at": "2024-04-19 18:20:22",
-      "album": {
-        "name": "Serena",
-        "url": "https://open.spotify.com/album/5DnZ6DVAjopjlIZLGGkof1"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 165957,
-      "name": "Serena",
-      "url": "https://open.spotify.com/track/6JUytWFYcYR7KSA4kiIJoI"
     },
     {
       "added_at": "2024-04-19 18:20:22",

@@ -1,6 +1,6 @@
 {
   "description": "A playlist to get you through your whole workday.",
-  "num_followers": 303554,
+  "num_followers": 303586,
   "original_name": "Music for a Workday",
   "owner": {
     "name": "Spotify",
@@ -523,6 +523,22 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Picture Book (Expanded Version)",
+        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
+      },
+      "artists": [
+        {
+          "name": "Simply Red",
+          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
+        }
+      ],
+      "duration_ms": 269840,
+      "name": "Holding Back the Years - 2008 Remaster",
+      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Red Pill Blues (Deluxe)",
         "url": "https://open.spotify.com/album/1Li4rADxSxjT2g4xqUcMYh"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 256825,
       "name": "When You Say Nothing At All",
       "url": "https://open.spotify.com/track/0gcjc7Vt5xtcfmJgf6g2IO"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Picture Book (Expanded Version)",
-        "url": "https://open.spotify.com/album/4pk3tltFMVlT06MLJfmWTT"
-      },
-      "artists": [
-        {
-          "name": "Simply Red",
-          "url": "https://open.spotify.com/artist/1fa0cOhromAZdq2xRA4vv8"
-        }
-      ],
-      "duration_ms": 269840,
-      "name": "Holding Back the Years - 2008 Remaster",
-      "url": "https://open.spotify.com/track/1yg7fwwYmx9DQ2TdXUmfpJ"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -627,22 +627,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Good Riddance (Deluxe)",
-        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 245629,
-      "name": "I know it won't work",
-      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "All Your Fault: Pt. 2",
         "url": "https://open.spotify.com/album/6t5D6LEgHxqUVOxJItkzfb"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 163870,
       "name": "Meant to Be (feat. Florida Georgia Line)",
       "url": "https://open.spotify.com/track/7iDa6hUg2VgEL1o1HjmfBn"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Good Riddance (Deluxe)",
+        "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 245629,
+      "name": "I know it won't work",
+      "url": "https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Austin",
-        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "It's My Life",
         "url": "https://open.spotify.com/album/152Hw6E0tNz3EQNq9c1CDf"
       },
@@ -867,26 +851,6 @@
       "duration_ms": 232400,
       "name": "It's My Life - 1997 Remaster",
       "url": "https://open.spotify.com/track/4jhsuQCUCJKA5f0bXb6XdJ"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
-        "name": "Songs For You, Truths For Me (International Exclusive Bundle)",
-        "url": "https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7"
-      },
-      "artists": [
-        {
-          "name": "James Morrison",
-          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
-        },
-        {
-          "name": "Nelly Furtado",
-          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
-        }
-      ],
-      "duration_ms": 250453,
-      "name": "Broken Strings",
-      "url": "https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -911,6 +875,42 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
+        "name": "Songs For You, Truths For Me (International Exclusive Bundle)",
+        "url": "https://open.spotify.com/album/4gbQkXljzPRUvYtqQscMO7"
+      },
+      "artists": [
+        {
+          "name": "James Morrison",
+          "url": "https://open.spotify.com/artist/3LpLGlgRS1IKPPwElnpW35"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        }
+      ],
+      "duration_ms": 250453,
+      "name": "Broken Strings",
+      "url": "https://open.spotify.com/track/6jBUP2KCe821yqf1hiBqPR"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Austin",
+        "url": "https://open.spotify.com/album/4JtlZzYJEa7bejLF0ASnk0"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/4NJqhmkGN042BrvHoMKUrJ"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
         "name": "Perfect Duet (Ed Sheeran & Beyonc\u00e9)",
         "url": "https://open.spotify.com/album/52kvZcbEDm0v2kWZQXjuuA"
       },
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Kite",
-        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 166806,
-      "name": "Kite",
-      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "She's So Unusual: A 30th Anniversary Celebration (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4pox3k0CGuwwAknR9GtcoX"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 243066,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/1Jj6MF0xDOMA3Ut2Z368Bx"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Kite",
+        "url": "https://open.spotify.com/album/3g4q3F07QmUyPBzWlMXhq4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 166806,
+      "name": "Kite",
+      "url": "https://open.spotify.com/track/0irVirJrUjHFk3ywECVsGT"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "True - The Digital E.P.",
-        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
-      },
-      "artists": [
-        {
-          "name": "Spandau Ballet",
-          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
-        }
-      ],
-      "duration_ms": 329146,
-      "name": "True - Single Edit",
-      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Spite",
         "url": "https://open.spotify.com/album/7GMGBHL3OQDu8aeUa0ms51"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Boys And Girls",
-        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+        "name": "True - The Digital E.P.",
+        "url": "https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn"
       },
       "artists": [
         {
-          "name": "Bryan Ferry",
-          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+          "name": "Spandau Ballet",
+          "url": "https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv"
         }
       ],
-      "duration_ms": 266333,
-      "name": "Slave To Love",
-      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
+      "duration_ms": 329146,
+      "name": "True - Single Edit",
+      "url": "https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1039,6 +1023,22 @@
       "duration_ms": 165333,
       "name": "(You Make Me Feel Like) A Natural Woman",
       "url": "https://open.spotify.com/track/5K09WxKdlkroDyEVyOSySy"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Boys And Girls",
+        "url": "https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2"
+      },
+      "artists": [
+        {
+          "name": "Bryan Ferry",
+          "url": "https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC"
+        }
+      ],
+      "duration_ms": 266333,
+      "name": "Slave To Love",
+      "url": "https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "I AM...SASHA FIERCE - Platinum Edition",
-        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 249866,
-      "name": "If I Were a Boy",
-      "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/64OLfOz30pmwGnjngRodRT"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 218385,
       "name": "Better Days",
       "url": "https://open.spotify.com/track/7E1kK0D0goo85p02ZAoa8Y"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "I AM...SASHA FIERCE - Platinum Edition",
+        "url": "https://open.spotify.com/album/3ROfBX6lJLnCmaw1NrP5K9"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 249866,
+      "name": "If I Were a Boy",
+      "url": "https://open.spotify.com/track/1oQZk2bKBLgP1cbuFKvjkq"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Dusty In Memphis [Deluxe Edition]",
-        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
-      },
-      "artists": [
-        {
-          "name": "Dusty Springfield",
-          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
-        }
-      ],
-      "duration_ms": 149160,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "hate u love u",
         "url": "https://open.spotify.com/album/0rajxwGsaQ1sqoegXK6gvw"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 175466,
       "name": "hate u love u",
       "url": "https://open.spotify.com/track/6ATgDc6e4sPn84hvJsAmPt"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "Dusty In Memphis [Deluxe Edition]",
+        "url": "https://open.spotify.com/album/6SNMenG3NjZyqgI5p4Hcmg"
+      },
+      "artists": [
+        {
+          "name": "Dusty Springfield",
+          "url": "https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l"
+        }
+      ],
+      "duration_ms": 149160,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/7odHgoLFi3GQ90E9PeraI3"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "VENUS",
-        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
-      },
-      "artists": [
-        {
-          "name": "Zara Larsson",
-          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
-        }
-      ],
-      "duration_ms": 222489,
-      "name": "Ammunition",
-      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "The Man Who Invented Soul",
         "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 162533,
       "name": "Bring It On Home to Me",
       "url": "https://open.spotify.com/track/0WVTQp3SOCuMr08jh1jweV"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "VENUS",
+        "url": "https://open.spotify.com/album/0qqZ6HD72So93exL9rH7zi"
+      },
+      "artists": [
+        {
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "duration_ms": 222489,
+      "name": "Ammunition",
+      "url": "https://open.spotify.com/track/16gu3zjAEer6t6c8qxaltf"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "G.R.L.",
-        "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
-      },
-      "artists": [
-        {
-          "name": "G.R.L.",
-          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Ugly Heart",
-      "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Dear April (Side A - Acoustic)",
         "url": "https://open.spotify.com/album/4XPUXLAWXqM3uWMTucItjd"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 231040,
       "name": "Dear April (Side A - Acoustic)",
       "url": "https://open.spotify.com/track/62ljuuXo0zrcrtJnnOhfxT"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "G.R.L.",
+        "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
+      },
+      "artists": [
+        {
+          "name": "G.R.L.",
+          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Ugly Heart",
+      "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2075,18 +2075,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Feargal Sharkey",
-        "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
+        "name": "Up All Night",
+        "url": "https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2"
       },
       "artists": [
         {
-          "name": "Feargal Sharkey",
-          "url": "https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         }
       ],
-      "duration_ms": 281800,
-      "name": "A Good Heart",
-      "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
+      "duration_ms": 157220,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2107,18 +2107,18 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "Up All Night",
-        "url": "https://open.spotify.com/album/2pSH41L4EXqhGHyTjM2dA2"
+        "name": "Feargal Sharkey",
+        "url": "https://open.spotify.com/album/1fnuPLerUrbVfzcHyY6H5N"
       },
       "artists": [
         {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          "name": "Feargal Sharkey",
+          "url": "https://open.spotify.com/artist/3zk5lgbVEre0rKRBqiKt0T"
         }
       ],
-      "duration_ms": 157220,
-      "name": "Up All Night",
-      "url": "https://open.spotify.com/track/1mpD5Q8IM32I4bF6eCpU74"
+      "duration_ms": 281800,
+      "name": "A Good Heart",
+      "url": "https://open.spotify.com/track/4umQbcdBF3YVsNBvvnFLiX"
     },
     {
       "added_at": "2024-04-05 00:00:00",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-04-05 00:00:00",
       "album": {
-        "name": "This Girl's in Love with You",
-        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
-      },
-      "artists": [
-        {
-          "name": "Aretha Franklin",
-          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
-        }
-      ],
-      "duration_ms": 199266,
-      "name": "Son of a Preacher Man",
-      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
-    },
-    {
-      "added_at": "2024-04-05 00:00:00",
-      "album": {
         "name": "Eleven",
         "url": "https://open.spotify.com/album/66o9dDjDduf6jpvZKzAXm4"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 206360,
       "name": "Eleven",
       "url": "https://open.spotify.com/track/1ToprX3cpBiXoAe5eNSk74"
+    },
+    {
+      "added_at": "2024-04-05 00:00:00",
+      "album": {
+        "name": "This Girl's in Love with You",
+        "url": "https://open.spotify.com/album/5TGmpcEuZsVIoxDWnJIan5"
+      },
+      "artists": [
+        {
+          "name": "Aretha Franklin",
+          "url": "https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok"
+        }
+      ],
+      "duration_ms": 199266,
+      "name": "Son of a Preacher Man",
+      "url": "https://open.spotify.com/track/4uCbetXW9LStYPUjCpBVp9"
     },
     {
       "added_at": "2024-04-05 00:00:00",

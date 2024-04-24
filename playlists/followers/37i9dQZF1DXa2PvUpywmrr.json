@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 4205872,
+  "2024-04-24": 4199604,
   "date_first_scraped": "2021-12-21",
   "description": "A mix of the biggest pop, dance, and hip hop party songs. Cover: Doja Cat",
   "name": "Party Hits",
@@ -4686,6 +4686,32 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147071,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/6XpEm7VJ7TZxZTawH8BCSW"
+    },
+    {
+      "album": {
         "name": "Jungle",
         "url": "https://open.spotify.com/album/3iDLGLmecmdkmdxYmuol5d"
       },
@@ -7265,7 +7291,7 @@
       ],
       "date_added": "2021-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 287120,
       "name": "Pepas",
       "url": "https://open.spotify.com/track/5fwSHlTEWpluwOM0Sxnh5k"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new hip-hop music by independent artists and labels. Cover: Paris Texas performing at Fresh Finds Chicago March 2024\n",
+  "description": "The best new hip-hop music by independent artists and labels. Cover: Chow Lee\n",
   "name": "Fresh Finds Hip-Hop",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 93455,
       "name": "11:11",
       "url": "https://open.spotify.com/track/05pNbOo1JceQ07WWGXcyPg"
@@ -2042,7 +2042,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 112746,
       "name": "BAD WEATHER",
       "url": "https://open.spotify.com/track/354wJDm1E0pRjsHNIVOgvk"
@@ -3357,6 +3357,24 @@
     },
     {
       "album": {
+        "name": "Boogieman",
+        "url": "https://open.spotify.com/album/75XYL9gBsRC8wWbmbtzQHh"
+      },
+      "artists": [
+        {
+          "name": "EBK Jaaybo",
+          "url": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131291,
+      "name": "Boogieman",
+      "url": "https://open.spotify.com/track/7Mg5CBO37Rifk2RyDJ8fzd"
+    },
+    {
+      "album": {
         "name": "Boondocks",
         "url": "https://open.spotify.com/album/4VUhVSDn8ZjHWbDdL6qjsw"
       },
@@ -3689,6 +3707,24 @@
     },
     {
       "album": {
+        "name": "Bully",
+        "url": "https://open.spotify.com/album/2DIamLCLdxHz1NVlTYpmZ0"
+      },
+      "artists": [
+        {
+          "name": "408 Darwin",
+          "url": "https://open.spotify.com/artist/7GmjP8u0uwwAwBt3e3tmdS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116405,
+      "name": "Bully",
+      "url": "https://open.spotify.com/track/1mmhQcuoaD8e4UUjxeN7C7"
+    },
+    {
+      "album": {
         "name": "Bum Chick",
         "url": "https://open.spotify.com/album/6BkxAlUwMowAj56vfYdeIx"
       },
@@ -3940,7 +3976,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 177084,
       "name": "cake",
       "url": "https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4"
@@ -7053,6 +7089,32 @@
     },
     {
       "album": {
+        "name": "Few Times (feat. Joe Blow)",
+        "url": "https://open.spotify.com/album/0q63Z0lOgERCDzZY0jLhEt"
+      },
+      "artists": [
+        {
+          "name": "Cameron Airborne",
+          "url": "https://open.spotify.com/artist/4ibAtIwT8cXLwxkzEgAZh2"
+        },
+        {
+          "name": "Dirty1000",
+          "url": "https://open.spotify.com/artist/3OlXZSkLQe6yrdgu7BpcsY"
+        },
+        {
+          "name": "Joe Blow",
+          "url": "https://open.spotify.com/artist/3J44LjCSFOFm2Ft11coMId"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181472,
+      "name": "Few Times (feat. Joe Blow)",
+      "url": "https://open.spotify.com/track/3phMnKb77Hu2SrGiHXJIxF"
+    },
+    {
+      "album": {
         "name": "FIESTA",
         "url": "https://open.spotify.com/album/6m4f5lFKJfbl5sAo2t3b6V"
       },
@@ -8312,7 +8374,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 257560,
       "name": "Goodbye (feat. Terrell Morris)",
       "url": "https://open.spotify.com/track/79em1FiIHiL1liFu7FeeOa"
@@ -9122,7 +9184,7 @@
       ],
       "date_added": "2023-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 149523,
       "name": "Hot Friend",
       "url": "https://open.spotify.com/track/7apkSpHwMzhpSCi3rRa352"
@@ -11878,7 +11940,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194875,
       "name": "LUV IS WAR",
       "url": "https://open.spotify.com/track/3YuAjdW3b72r4Bfu6jYeM1"
@@ -13671,6 +13733,36 @@
     },
     {
       "album": {
+        "name": "NEEDS",
+        "url": "https://open.spotify.com/album/24R9x05f8SheNptDqlOPsO"
+      },
+      "artists": [
+        {
+          "name": "Phoelix",
+          "url": "https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0"
+        },
+        {
+          "name": "Mad Keys",
+          "url": "https://open.spotify.com/artist/542FKpIX73UoqWHne4D2E2"
+        },
+        {
+          "name": "HUE SOUND",
+          "url": "https://open.spotify.com/artist/3BsGKNayMq7tYR01UU13z6"
+        },
+        {
+          "name": "Paris Price",
+          "url": "https://open.spotify.com/artist/6rt9RysQUXJjzYXaIXdXu7"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124049,
+      "name": "NEEDS",
+      "url": "https://open.spotify.com/track/5810YFDs9REo6ATDIGZuxF"
+    },
+    {
+      "album": {
         "name": "Neighborhood",
         "url": "https://open.spotify.com/album/6OYqRcMMr0B5XVUhzcgJZf"
       },
@@ -14292,7 +14384,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194430,
       "name": "No Pun Intended",
       "url": "https://open.spotify.com/track/260SAzinvufrYooPB7z5ZI"
@@ -14350,7 +14442,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 151023,
       "name": "Nobody Knows",
       "url": "https://open.spotify.com/track/3JQRKjoGx1On1mS9kliZ5a"
@@ -14826,6 +14918,24 @@
       "duration_ms": 216246,
       "name": "Out The Mud (Bar Wars Cypher #5) [feat. Bla$ta, D' Barbie, WayMoBandzz, & JLR Delly]",
       "url": "https://open.spotify.com/track/58S4l6CPdvCa1tyXG9REob"
+    },
+    {
+      "album": {
+        "name": "601 DEGREEZ",
+        "url": "https://open.spotify.com/album/7tVFEAcU6vIaSYrLWXYLbP"
+      },
+      "artists": [
+        {
+          "name": "Dear Silas",
+          "url": "https://open.spotify.com/artist/4C6vnglzmsWszcdp5WaX6O"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145034,
+      "name": "Out The Way",
+      "url": "https://open.spotify.com/track/2amwhV87lPg4RXhS1eXkpz"
     },
     {
       "album": {
@@ -16005,6 +16115,24 @@
     },
     {
       "album": {
+        "name": "Still Klockin",
+        "url": "https://open.spotify.com/album/0GM2trrbp2rQltlScdQYvk"
+      },
+      "artists": [
+        {
+          "name": "DB.Boutabag",
+          "url": "https://open.spotify.com/artist/3xGQQ8pYMw09C0YDkVS4mr"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230112,
+      "name": "Put The Bag First",
+      "url": "https://open.spotify.com/track/34iKaFipIoGQ0XFePP7x2J"
+    },
+    {
+      "album": {
         "name": "17",
         "url": "https://open.spotify.com/album/4joJtfM9QKxT7Q1zVuaPFo"
       },
@@ -16744,7 +16872,7 @@
       ],
       "date_added": "2023-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 132413,
       "name": "Rockin' & Rollin",
       "url": "https://open.spotify.com/track/574mgAzKmBsHjHcQ0Unwjk"
@@ -18448,7 +18576,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 168510,
       "name": "Stacy's Chips",
       "url": "https://open.spotify.com/track/3vKvc3L1fq3mtAcJV8zdCd"
@@ -19004,6 +19132,32 @@
       "duration_ms": 154285,
       "name": "SWAT TEAM",
       "url": "https://open.spotify.com/track/3CBFJiykg9hogGPTyBYylr"
+    },
+    {
+      "album": {
+        "name": "Object Permanence",
+        "url": "https://open.spotify.com/album/7niWr5wf0qJa0Io2gOHSSc"
+      },
+      "artists": [
+        {
+          "name": "Gabe 'Nandez",
+          "url": "https://open.spotify.com/artist/7dD9zcdQrFX9LypKkK5LVW"
+        },
+        {
+          "name": "Wino Willy",
+          "url": "https://open.spotify.com/artist/5ZAazx2uLTDCHQjsg3dw96"
+        },
+        {
+          "name": "Chubs",
+          "url": "https://open.spotify.com/artist/6KPZ0y2JwUCYU6i7YZATQI"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "Sweep",
+      "url": "https://open.spotify.com/track/3c5VE1DjoEzN9J0l8O6tqm"
     },
     {
       "album": {
@@ -19606,6 +19760,24 @@
       "duration_ms": 177391,
       "name": "The Plot",
       "url": "https://open.spotify.com/track/0BbzHOeVYGpj3PTJWTaG8q"
+    },
+    {
+      "album": {
+        "name": "The Rules Pt. 2",
+        "url": "https://open.spotify.com/album/7FdtjWOoQCVn12Eim4JMmO"
+      },
+      "artists": [
+        {
+          "name": "ReUp Reedy",
+          "url": "https://open.spotify.com/artist/3pNZLl18qy2KqKBra9JW4l"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151896,
+      "name": "The Rules Pt. 2",
+      "url": "https://open.spotify.com/track/4wy48jOtMCKeSlPT9UhFx6"
     },
     {
       "album": {
@@ -20823,6 +20995,24 @@
     },
     {
       "album": {
+        "name": "UP, LIT. FREESTYLE",
+        "url": "https://open.spotify.com/album/0yfQ1iNGmgIaQqJlqcO1HZ"
+      },
+      "artists": [
+        {
+          "name": "Anycia",
+          "url": "https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116191,
+      "name": "UP, LIT. FREESTYLE",
+      "url": "https://open.spotify.com/track/5otwYoHr4ML9vOLfpoDPaU"
+    },
+    {
+      "album": {
         "name": "Used To This",
         "url": "https://open.spotify.com/album/1ClebLumn5M7VKWTZJaUVU"
       },
@@ -21740,6 +21930,24 @@
       "duration_ms": 149565,
       "name": "who?",
       "url": "https://open.spotify.com/track/6GO4Wjcz1yiZHtPBE4DzAJ"
+    },
+    {
+      "album": {
+        "name": "Why",
+        "url": "https://open.spotify.com/album/7j6J2opsUSXqzC4UYbbbMl"
+      },
+      "artists": [
+        {
+          "name": "Money Mu",
+          "url": "https://open.spotify.com/artist/0Rw1qXuXVii6ZllsXCWKi7"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230960,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/5kpnHcXBVgGRFRfHERO9oK"
     },
     {
       "album": {

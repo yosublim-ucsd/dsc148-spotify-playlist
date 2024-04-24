@@ -4,7 +4,7 @@
 
 > Jazz piano to accompany your reading.
 
-533 songs - 1 day 3 hr 33 min
+537 songs - 1 day 3 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [All The Sunsets](https://open.spotify.com/track/6jz0jqLMKheiA6I3FXwaic) | [Louis Guerrier](https://open.spotify.com/artist/5ZyNh4VzkyY6S95OOg9LEj) | [All The Sunsets](https://open.spotify.com/album/6pLz4lVMYdKOeE6otpFeZg) | 3:06 | 2024-04-02 |  |
 | [Almost Like Being In Love](https://open.spotify.com/track/4JceM4LWSSUzGpy4SAUvY5) | [Maxence Capoue](https://open.spotify.com/artist/67haUq5f5DHveaHN9u4vmy) | [Almost Like Being In Love](https://open.spotify.com/album/67oPqr2P9tzmMLNsa6Y4wb) | 2:38 | 2022-09-06 | 2023-05-12 |
 | [Alone together](https://open.spotify.com/track/5qZaX4WSpgvUHJo7XiuNEY) | [Henriette Martin](https://open.spotify.com/artist/2BFYg3poUj1QT1EE8Z8NVS) | [Alone together](https://open.spotify.com/album/4coO5Gtnmh4FY37Duw2A9m) | 2:16 | 2023-06-15 |  |
-| [Am I Blue](https://open.spotify.com/track/1OYfanPIsbVYCvJYTDCjzz) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Am I Blue](https://open.spotify.com/album/7D6viYCA4iHApd0aQN2ALB) | 3:34 | 2023-08-10 |  |
+| [Am I Blue](https://open.spotify.com/track/1OYfanPIsbVYCvJYTDCjzz) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Am I Blue](https://open.spotify.com/album/7D6viYCA4iHApd0aQN2ALB) | 3:34 | 2023-08-10 | 2024-04-24 |
 | [Am I Blue?](https://open.spotify.com/track/1OfgmNmV2MLEJkAWLvAXdr) | [Ray Love](https://open.spotify.com/artist/3obhUFv6yw5E2dFE8d8LXy) | [Am I Blue?](https://open.spotify.com/album/6aRhuHC2bvD8eKbtYRWwqx) | 2:16 | 2024-03-22 |  |
 | [Am I the Only One](https://open.spotify.com/track/3pQ9yM5g3ad2tXEsiT5X0u) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Am I the Only One?](https://open.spotify.com/album/7KMKbpIle3r1zVJJ1lliO9) | 2:41 | 2023-03-16 |  |
 | [An unexpected guest](https://open.spotify.com/track/5DWJOyeZPXPJlIog4SLMlo) | [Stefan Scholz](https://open.spotify.com/artist/4VmbEmPe7idiK1hjtCODVy) | [An unexpected guest](https://open.spotify.com/album/5RyEiIubY9MsKtIEU8H10z) | 3:05 | 2024-03-08 |  |
@@ -138,7 +138,7 @@
 | [Everything Happens To Me](https://open.spotify.com/track/3vIwdAaJmIrETc7k98gaTg) | [Marty Spotnic](https://open.spotify.com/artist/1X0ofBtlKCTBDLTG1h240W) | [Everything Happens To Me](https://open.spotify.com/album/5LsRZN3gpSx7bRk09Ds8MZ) | 3:50 | 2024-03-08 |  |
 | [Everything Happens To Me](https://open.spotify.com/track/6nDBKDiLUbrRFe2Wyghmrb) | [Maurice Font](https://open.spotify.com/artist/6yQ1L2SHtnSTXctzGsKsPC) | [Everything Happens To Me](https://open.spotify.com/album/7tr6GwglHf1iIz81pe1j8p) | 3:46 | 2022-04-12 | 2022-11-25 |
 | [Everything I Love](https://open.spotify.com/track/2AzamFQR3qc6SK12Dt97WD) | [Lyle Walters](https://open.spotify.com/artist/6oUSakuz42Xx4Qyu4qD4qM) | [Everything I Love](https://open.spotify.com/album/20C4KS94fNfd8H1w0OWNek) | 2:28 | 2022-06-22 |  |
-| [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-13 |  |
+| [Exactly Like You](https://open.spotify.com/track/3vBEW0nRntYnJwHxWLQRaV) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Exactly Like You](https://open.spotify.com/album/7r71Jc9D1EFnVeQgxVWXoM) | 2:14 | 2023-04-13 | 2024-04-24 |
 | [Faithful In Paradise](https://open.spotify.com/track/3qFofnQCLubRsgBlugtPdg) | [Oliver Smith](https://open.spotify.com/artist/50mD2f9PAcpylaGDNNkBk2) | [Faithful In Paradise](https://open.spotify.com/album/5dAEvV7iXei0kLOO1a14UY) | 2:17 | 2024-04-02 |  |
 | [Fall Season](https://open.spotify.com/track/2lHTRwS933i16QlQqOcKHs) | [Jonathán Bridges](https://open.spotify.com/artist/2dQCJiivYdK2HuhoUKcerS) | [Fall Season](https://open.spotify.com/album/6xITORsdl8I0P0mLVVYpHz) | 2:37 | 2023-10-27 |  |
 | [Falling In Love With Love](https://open.spotify.com/track/0ydPwnqqLcnUkJpZ7tfYiu) | [Ray Horne](https://open.spotify.com/artist/0ZHEC4FJWEfjvOsRwETzkS) | [Falling In Love With Love](https://open.spotify.com/album/3OxWfxfTgrO0oiOmmFY9qL) | 2:58 | 2023-03-02 |  |
@@ -260,6 +260,7 @@
 | [Let's Get Away](https://open.spotify.com/track/3sE2c9m6eByRjMBDvWMs2c) | [Ron Bladworth](https://open.spotify.com/artist/0BqBNOQfrBTClJMq6n03Mf) | [Let's Get Away](https://open.spotify.com/album/6KJJn6jCQLDGh2TMJk0Kgf) | 2:49 | 2024-02-23 |  |
 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 | 2023-08-10 |  |
 | [Let's Stay In](https://open.spotify.com/track/2ztch9UdIaDbUjnBkSLQMs) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Let's Stay In](https://open.spotify.com/album/0cXnR7GcDwsAiPLohfXlhL) | 2:29 | 2024-01-19 |  |
+| [Lets Get Married](https://open.spotify.com/track/3E2srpzDuulZsmX7Xz73Rp) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Lets Get Married](https://open.spotify.com/album/1ztQ1DjbQjO2WT1nOzBKl1) | 2:49 | 2024-04-23 |  |
 | [Like Never Before](https://open.spotify.com/track/5Z7B6tRwYQj1h7dpk0LLw1) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Like Never Before](https://open.spotify.com/album/0zsSxEUcSIkspa42rF7jxB) | 2:54 | 2023-12-15 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2022-04-12 |  |
 | [Little Bossy](https://open.spotify.com/track/0Rz7PvOkwkVnTlEFsmSt3n) | [Nineve Wilson](https://open.spotify.com/artist/4ab8hugVrmFzuV4AEGXHgr) | [Little Bossy](https://open.spotify.com/album/5IsaWRF8HEtro5Ajt2DYUV) | 3:08 | 2023-08-10 |  |
@@ -345,6 +346,7 @@
 | [One of your little friends](https://open.spotify.com/track/24mDMSSd3K07ilwCA83WzW) | [Jasmine Patterson](https://open.spotify.com/artist/2MvVPVskst6WSd1JWA5311) | [One of your little friends](https://open.spotify.com/album/4Y5JiG4M9HjYWqsgK3vv5n) | 2:43 | 2022-04-12 |  |
 | [Only Trust Your Heart](https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Only Trust Your Heart](https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta) | 2:22 | 2024-02-23 |  |
 | [Our Love Story](https://open.spotify.com/track/3Hpmthzr1uqOQ73Dq7TnKc) | [Rikard Wennberg](https://open.spotify.com/artist/2XsRlqARpi5hjfg88I1LZ5) | [Our Love Story](https://open.spotify.com/album/2ermChlWnghPao0McnBoNw) | 2:06 | 2023-05-25 | 2023-08-25 |
+| [Our Time](https://open.spotify.com/track/41AJ4gZHoL7JOpgUPXl4vr) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Our Time](https://open.spotify.com/album/4uX4neguBj1gfq3xum5kSs) | 2:16 | 2024-04-23 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2022-11-17 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2022-04-12 |  |
 | [Over the River](https://open.spotify.com/track/0kYkCUA8GvXZMPeU1SgFuu) | [Claire Martinelle](https://open.spotify.com/artist/4cregPQpQ72XMMVzvvyiEl) | [Over the River](https://open.spotify.com/album/3k9rqh1vl7NHAKuOirBBIv) | 2:57 | 2024-01-19 |  |
@@ -370,6 +372,7 @@
 | [Relief On A Shitty Day](https://open.spotify.com/track/4LDZC11b3Xe5s6jgz1RQJ3) | [Tyler Marshall](https://open.spotify.com/artist/0fGoqU6EcyjcEEas59ee3k) | [Relief On A Shitty Day](https://open.spotify.com/album/413eCTjZ1lJAjgtH5srUFp) | 3:08 | 2023-01-05 |  |
 | [Rendezvous in Paris](https://open.spotify.com/track/6OIPUVNyFrn1kZ7GLVNweJ) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Rendezvous in Paris](https://open.spotify.com/album/5dcRy1998FNdT6ZVvk6G2D) | 2:40 | 2023-12-15 |  |
 | [Reserved Judgement](https://open.spotify.com/track/3PgyUOs2llfKGv2GCYqpKi) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Reserved Judgement](https://open.spotify.com/album/6NP0tJZoYLoHIgWdZ4FyrV) | 2:56 | 2024-02-02 |  |
+| [Rightfully So](https://open.spotify.com/track/66cheTCbWkDCrnvP9mq7Tm) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Rightfully So](https://open.spotify.com/album/7jNDelhR3clbMmscYliUZw) | 3:08 | 2024-04-23 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-10 | 2024-04-19 |
 | [Round Midnight](https://open.spotify.com/track/7ioE8qdziQjlYWlIuhflyg) | [Angel Gregoire](https://open.spotify.com/artist/68NEUYAM0BKrdgENaJ8wlF) | [Round Midnight](https://open.spotify.com/album/63zAUuCZEx8JSOkNTVALFC) | 3:52 | 2022-04-12 |  |
 | [Ruby](https://open.spotify.com/track/5x2hTynUs8yDiSpVgGpr7l) | [Quinn Harrington](https://open.spotify.com/artist/5D5E3KJhdrPoOEKfLJ8qk4) | [Ruby](https://open.spotify.com/album/13zd5VDn9IMCQllBEg0xKK) | 2:56 | 2023-09-22 |  |
@@ -468,9 +471,10 @@
 | [The Songbird](https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [The Songbird](https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ) | 2:42 | 2023-12-08 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2022-04-12 | 2022-08-11 |
 | [The Summer Rain](https://open.spotify.com/track/0fqd2ptOum8EPm581Mfc3g) | [Green Trio](https://open.spotify.com/artist/6byy6cSUHfjBs0vgjgC5St) | [Woodland](https://open.spotify.com/album/3tm3nZ5qKZvrlvyXdzWJCG) | 3:01 | 2022-04-12 | 2022-05-18 |
+| [The Time Is Now](https://open.spotify.com/track/4M3bao5cXJ0dlMX42gWt1m) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [The Time Is Now](https://open.spotify.com/album/3IhrTBiy2hu1lxLvJXyqAr) | 3:11 | 2024-04-23 |  |
 | [The Way It's Supposed To Be](https://open.spotify.com/track/0f1olNUWqtcYBuUv141TBG) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [The Way It's Supposed To Be](https://open.spotify.com/album/0U5RLGTDGtSgj3Pn3p5eAk) | 3:20 | 2023-11-17 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2022-04-12 | 2023-04-28 |
-| [The Winter City](https://open.spotify.com/track/05pEDiNPeDxhChuko5PuWV) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [The Winter City](https://open.spotify.com/album/3tVToW00W9gNHBtS93dvXs) | 3:21 | 2024-03-08 |  |
+| [The Winter City](https://open.spotify.com/track/05pEDiNPeDxhChuko5PuWV) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [The Winter City](https://open.spotify.com/album/3tVToW00W9gNHBtS93dvXs) | 3:21 | 2024-03-08 | 2024-04-24 |
 | [There Is No Greater Love](https://open.spotify.com/track/6r9dGlLthkSRTatH3WRkcZ) | [A Whisper](https://open.spotify.com/artist/0Bkqn0CjFIb96nVfStI6dy) | [There Is No Greater Love](https://open.spotify.com/album/2lz4pmX60KMhW4WLwrDsDD) | 2:34 | 2023-04-13 |  |
 | [There Will Never Be Another You](https://open.spotify.com/track/5mJK27i7xPE9Whf5WdXGOx) | [Gerald McCarthy](https://open.spotify.com/artist/3cw2WUJF88MB3xRS3VHU9a) | [There Will Never Be Another You](https://open.spotify.com/album/3qF2MbH2rh7QCMheIJXWk0) | 3:00 | 2022-04-12 | 2023-04-28 |
 | [There´s no you](https://open.spotify.com/track/1CwW9u0HgDPMT0h6E5HN72) | [Elton Willis](https://open.spotify.com/artist/5I7l6XScYYCML9N2WETKE1) | [There´s no you](https://open.spotify.com/album/1apFtaoZpliaFiEswZgZrb) | 4:41 | 2022-04-12 |  |

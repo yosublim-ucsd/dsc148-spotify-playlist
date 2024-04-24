@@ -2,7 +2,7 @@
 
 ### [The Hawaiian Party](https://open.spotify.com/playlist/37i9dQZF1DWZZA4G4jVRXy)
 
-> Pour yourself a mai tai and festoon youself with lei, welcome to the Hawaiian party!
+> Pour yourself a mai tai 🍹 and festoon yourself with lei 🌺, welcome to the Hawaiian party! 🌴🥭🎉
 
 105 songs - 5 hr 6 min
 

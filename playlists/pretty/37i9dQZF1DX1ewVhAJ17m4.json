@@ -1,6 +1,6 @@
 {
   "description": "All the best new songs from the pop punk scene. Cover: Hot Mulligan",
-  "num_followers": 569189,
+  "num_followers": 569160,
   "original_name": "Pop Punk's Not Dead",
   "owner": {
     "name": "Spotify",
@@ -339,26 +339,18 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Lessons That We Swear to Keep",
-        "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
+        "name": "KILL[H]ER",
+        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
       },
       "artists": [
         {
-          "name": "Free Throw",
-          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
-        },
-        {
-          "name": "Hot Mulligan",
-          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
-        },
-        {
-          "name": "Tades Sanville",
-          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
+          "name": "Stand Atlantic",
+          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
         }
       ],
-      "duration_ms": 171160,
-      "name": "A Part Is Better Than Zero",
-      "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
+      "duration_ms": 145735,
+      "name": "KILL[H]ER",
+      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -379,18 +371,26 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "KILL[H]ER",
-        "url": "https://open.spotify.com/album/1ZnEhpzUWCozy5jmoaLdKL"
+        "name": "Lessons That We Swear to Keep",
+        "url": "https://open.spotify.com/album/6xlDMMUoYLehP6ctcYnApt"
       },
       "artists": [
         {
-          "name": "Stand Atlantic",
-          "url": "https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh"
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        },
+        {
+          "name": "Tades Sanville",
+          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
         }
       ],
-      "duration_ms": 145735,
-      "name": "KILL[H]ER",
-      "url": "https://open.spotify.com/track/2vcgd86VuJbv5jbzn4zau4"
+      "duration_ms": 171160,
+      "name": "A Part Is Better Than Zero",
+      "url": "https://open.spotify.com/track/543wagQkIF3rRZQh12hoQH"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -495,6 +495,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "Certified Depressant",
+        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 200981,
+      "name": "Everything Sucks",
+      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "Alameda County Fair",
         "url": "https://open.spotify.com/album/5w40aVPbA9bt9gQ4uYGh0P"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 161000,
       "name": "shut up & kiss me",
       "url": "https://open.spotify.com/track/6l1OfxVR2o8Hed0qV1xdE3"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "Certified Depressant",
-        "url": "https://open.spotify.com/album/0S7dblAkKQyMbyLqCfKGZH"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 200981,
-      "name": "Everything Sucks",
-      "url": "https://open.spotify.com/track/3RXfneA2vKnj88iyttMqqy"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -623,6 +623,22 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
+        "name": "I Think I'm in Love",
+        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
+      },
+      "artists": [
+        {
+          "name": "Taylor Acorn",
+          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "I Think I'm in Love",
+      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
         "name": "Swing and Sway",
         "url": "https://open.spotify.com/album/4C5OhWOC4gGSqVYilg8udW"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 138133,
       "name": "cherry cigarettes",
       "url": "https://open.spotify.com/track/6Fsz5G1vKPZjQ3OIeFm50v"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
-        "name": "I Think I'm in Love",
-        "url": "https://open.spotify.com/album/2NFt8Yxk6p3U9dV3SXBBus"
-      },
-      "artists": [
-        {
-          "name": "Taylor Acorn",
-          "url": "https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "I Think I'm in Love",
-      "url": "https://open.spotify.com/track/1sNqqWaIURY27KYmVZxkW7"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "Arm's Length",
-        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
-      },
-      "artists": [
-        {
-          "name": "Arm's Length",
-          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "Arm's Length",
-      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Thanks but No Thanks",
         "url": "https://open.spotify.com/album/4aeSdDsUKqxdotFMUnq2xV"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 177890,
       "name": "must be nice (metaphorically speaking)",
       "url": "https://open.spotify.com/track/0z2RWMYZyjvxT9ZGoUTPEf"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/2QnjmgW00UvoUemLxN6LeA"
+      },
+      "artists": [
+        {
+          "name": "Arm's Length",
+          "url": "https://open.spotify.com/artist/1KXSj6uiC8Wtl2wCckVmAD"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/6fWAXy4IHbjUWhpgkN2dD3"
     },
     {
       "added_at": "2024-03-22 19:30:48",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-03-22 19:30:48",
       "album": {
-        "name": "3 Days Sober",
-        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
-      },
-      "artists": [
-        {
-          "name": "WSTR",
-          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
-        }
-      ],
-      "duration_ms": 177209,
-      "name": "3 Days Sober",
-      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
-    },
-    {
-      "added_at": "2024-03-22 19:30:48",
-      "album": {
         "name": "Space to Heal",
         "url": "https://open.spotify.com/album/0ho4YbLdytrRcaUDKoft1Y"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 197973,
       "name": "Who You Used to Be",
       "url": "https://open.spotify.com/track/7L2E7qweIBVY1bjrXjeCwx"
+    },
+    {
+      "added_at": "2024-03-22 19:30:48",
+      "album": {
+        "name": "3 Days Sober",
+        "url": "https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop"
+      },
+      "artists": [
+        {
+          "name": "WSTR",
+          "url": "https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7"
+        }
+      ],
+      "duration_ms": 177209,
+      "name": "3 Days Sober",
+      "url": "https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA"
     },
     {
       "added_at": "2024-03-22 19:30:48",

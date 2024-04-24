@@ -1,6 +1,6 @@
 {
   "description": "Son j\u00f3venes, guerreras y cool. Foto: Kirnbauer, Joaquina Mertz, Mar\u00eda Centeno & Noa Sainz.",
-  "num_followers": 142775,
+  "num_followers": 142585,
   "original_name": "Mujeres del Indie",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "With Or Without You",
-        "url": "https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn"
-      },
-      "artists": [
-        {
-          "name": "Pacifica",
-          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
-        }
-      ],
-      "duration_ms": 154337,
-      "name": "With Or Without You",
-      "url": "https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "me da miedo que escuches esto",
         "url": "https://open.spotify.com/album/5XZbo2O8JeSq3ue2PLB9Zw"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 138509,
       "name": "A TI",
       "url": "https://open.spotify.com/track/2vTR8PFCIyxM4kQHQdJVUB"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "With Or Without You",
+        "url": "https://open.spotify.com/album/2IisAcqsM5zADqUzH2TDAn"
+      },
+      "artists": [
+        {
+          "name": "Pacifica",
+          "url": "https://open.spotify.com/artist/4YcQuAswXPWdO2WAxTRXse"
+        }
+      ],
+      "duration_ms": 154337,
+      "name": "With Or Without You",
+      "url": "https://open.spotify.com/track/1Hl2Pkqh8ErHoYNWcnLXEB"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -691,6 +691,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "COLAPSO",
+        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
+      },
+      "artists": [
+        {
+          "name": "Lola Parda",
+          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
+        }
+      ],
+      "duration_ms": 209247,
+      "name": "COLAPSO",
+      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "Pensamientos",
         "url": "https://open.spotify.com/album/6MnIQVOhKjOkbid83IEFz6"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 156771,
       "name": "Cero",
       "url": "https://open.spotify.com/track/0SNwjDrUgkRTeKSJGw6e4C"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "COLAPSO",
-        "url": "https://open.spotify.com/album/4UrcOU4UD09yWAFH6JPZDo"
-      },
-      "artists": [
-        {
-          "name": "Lola Parda",
-          "url": "https://open.spotify.com/artist/6dkEK1Jqj8d7OKuw0ub7JD"
-        }
-      ],
-      "duration_ms": 209247,
-      "name": "COLAPSO",
-      "url": "https://open.spotify.com/track/2VFNjKk6juganL1sdIAmIr"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "El Valle Encantado",
-        "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
-      },
-      "artists": [
-        {
-          "name": "Feli Colina",
-          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
-        }
-      ],
-      "duration_ms": 203483,
-      "name": "Aguatera",
-      "url": "https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Lo Que Siento",
         "url": "https://open.spotify.com/album/7g3d9jGbhx6AAulszHztyM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 199672,
       "name": "El After",
       "url": "https://open.spotify.com/track/1m2KS0EUn9XVzOg5i7gSa8"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "El Valle Encantado",
+        "url": "https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S"
+      },
+      "artists": [
+        {
+          "name": "Feli Colina",
+          "url": "https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs"
+        }
+      ],
+      "duration_ms": 203483,
+      "name": "Aguatera",
+      "url": "https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -911,6 +911,22 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
+        "name": "Dwele",
+        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
+      },
+      "artists": [
+        {
+          "name": "Chita",
+          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "Dwele",
+      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
         "name": "te vas a lamentar :'(",
         "url": "https://open.spotify.com/album/42ovzNFlHOgv66WaCJplt8"
       },
@@ -927,22 +943,6 @@
       "duration_ms": 189600,
       "name": "te vas a lamentar :'(",
       "url": "https://open.spotify.com/track/2cFad267BkRkULXr7XHFFh"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
-        "name": "Dwele",
-        "url": "https://open.spotify.com/album/5XtFAf521DXYZSUguHTYWz"
-      },
-      "artists": [
-        {
-          "name": "Chita",
-          "url": "https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "Dwele",
-      "url": "https://open.spotify.com/track/1veHLwdelVB4dYpJBurnhG"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Running Up That Hill - Spotify Singles",
-        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
-      },
-      "artists": [
-        {
-          "name": "Neoma",
-          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
-        }
-      ],
-      "duration_ms": 220005,
-      "name": "Running Up That Hill - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "Ninja",
         "url": "https://open.spotify.com/album/5Q0pxcgF1MirneMBhcfRff"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 176193,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/7lS3pVH9RCXIkUqV81IXMl"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Running Up That Hill - Spotify Singles",
+        "url": "https://open.spotify.com/album/5yoGGNfGcVw8Eqlbg13a9v"
+      },
+      "artists": [
+        {
+          "name": "Neoma",
+          "url": "https://open.spotify.com/artist/1rS9ZvNEWqnKY19g6uiqip"
+        }
+      ],
+      "duration_ms": 220005,
+      "name": "Running Up That Hill - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mn8Noyehq8qn2aOIz4HNR"
     },
     {
       "added_at": "2024-03-22 14:07:24",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-03-22 14:07:24",
       "album": {
-        "name": "Nuestros Besos",
-        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
-      },
-      "artists": [
-        {
-          "name": "LUPE",
-          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Nuestros Besos",
-      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
-    },
-    {
-      "added_at": "2024-03-22 14:07:24",
-      "album": {
         "name": "AMOR MINIMAL",
         "url": "https://open.spotify.com/album/5tydxQ3vJc63ORNQQsH8Fq"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 207436,
       "name": "AMOR MINIMAL",
       "url": "https://open.spotify.com/track/2xmhERSMywisE5yfTqYvd5"
+    },
+    {
+      "added_at": "2024-03-22 14:07:24",
+      "album": {
+        "name": "Nuestros Besos",
+        "url": "https://open.spotify.com/album/5Q6CiHiPk9tms75YtFLu9J"
+      },
+      "artists": [
+        {
+          "name": "LUPE",
+          "url": "https://open.spotify.com/artist/4PRzyAvNqlYKSMhsKl2e0j"
+        }
+      ],
+      "duration_ms": 247500,
+      "name": "Nuestros Besos",
+      "url": "https://open.spotify.com/track/6AvYedRDCjtQz8IYYRWYiZ"
     },
     {
       "added_at": "2024-03-22 14:07:24",

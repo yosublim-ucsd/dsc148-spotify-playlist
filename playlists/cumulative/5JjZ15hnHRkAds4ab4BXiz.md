@@ -4,7 +4,7 @@
 
 > 
 
-227 songs - 14 hr 17 min
+228 songs - 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Revolution 9 \- Remastered 2009](https://open.spotify.com/track/5dZ8PeKKZJLIQAWNTdp8WX) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [The Beatles \(Remastered\)](https://open.spotify.com/album/1klALx0u4AavZNEvC4LrTL) | 8:22 | 2024-01-20 | 2024-01-22 |
 | [Rhinestone Eyes](https://open.spotify.com/track/1foMv2HQwfQ2vntFf9HFeG) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Plastic Beach](https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8) | 3:20 | 2024-02-16 | 2024-02-18 |
 | [Rubber Ring \- 2017 Master](https://open.spotify.com/track/7xuyW6Ly5oaVRmTVeZDKJU) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead \(Deluxe Edition\)](https://open.spotify.com/album/0vlgxCvO6LQXTR06b8r2rj) | 3:54 | 2024-04-21 |  |
+| [Ruler of Everything](https://open.spotify.com/track/3vFZheR74pxUkzxqhXTZ2X) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 3:42 | 2024-04-24 |  |
 | [Runaway](https://open.spotify.com/track/23rdcrD0Eky4vYn2TZidxJ) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me as a Friend \(Deluxe\)](https://open.spotify.com/album/6f20spSQ9DLynFAXEKmqHf) | 4:08 | 2023-11-12 |  |
 | [Runaway](https://open.spotify.com/track/3DK6m7It6Pw857FcQftMds) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Pusha T](https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 9:07 | 2023-11-14 |  |
 | [Runway Houses City Clouds](https://open.spotify.com/track/3iohh4bLsUKefmjHw5jhbq) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 7:15 | 2024-04-08 |  |
@@ -206,7 +207,7 @@
 | [There Is a Light That Never Goes Out \- 2011 Remaster](https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Queen Is Dead](https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7) | 4:04 | 2024-02-10 |  |
 | [Think for a Minute](https://open.spotify.com/track/7iqIo5yNcD40xc88objGeW) | [The Housemartins](https://open.spotify.com/artist/77D38RDgCtlYNLpayStftL) | [London 0 Hull 4](https://open.spotify.com/album/4BNELxLJPRYIEOiYGPAET9) | 3:30 | 2024-04-07 |  |
 | [This Charming Man \- 2011 Remaster](https://open.spotify.com/track/1FvDJ9KGxcqwv1utyPL3JZ) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 2:42 | 2024-04-09 |  |
-| [Three Peaches](https://open.spotify.com/track/2rThKWZ73cHsfPZH8CCKef) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 4:01 | 2024-04-19 |  |
+| [Three Peaches](https://open.spotify.com/track/2rThKWZ73cHsfPZH8CCKef) | [Neutral Milk Hotel](https://open.spotify.com/artist/2ooIqOf4X2uz4mMptXCtie) | [On Avery Island](https://open.spotify.com/album/3QTmNqASavj7H8DPhFss1r) | 4:01 | 2024-04-19 | 2024-04-24 |
 | [Tokyo Fantasy](https://open.spotify.com/track/6O7csPXBln7CihjbnwvZyy) | [Alessandra M](https://open.spotify.com/artist/4D5ZbKoTI0Rk3uyYOfQNeH) | [Tokyo Fantasy](https://open.spotify.com/album/7jScWOFB6V3LNzJneV3Qoc) | 3:32 | 2023-11-16 |  |
 | [Touch The Sky](https://open.spotify.com/track/2dxjKgT0li4qBI3QwuN9Ih) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf) | [Late Registration](https://open.spotify.com/album/5ll74bqtkcXlKE7wwkMq4g) | 3:56 | 2024-03-27 |  |
 | [Trap Queen](https://open.spotify.com/track/2d8JP84HNLKhmd6IYOoupQ) | [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [Fetty Wap \(Deluxe\)](https://open.spotify.com/album/2gKQvajkEEaDtkqJ8FJ4uw) | 3:42 | 2024-03-23 | 2024-03-25 |

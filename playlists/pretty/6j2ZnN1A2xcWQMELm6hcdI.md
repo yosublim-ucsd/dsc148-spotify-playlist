@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 
 > The baddest and most influential women in music \[Ex\. <a href="https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m">Beyoncé</a>\] Cover: Lola Brooke
 
-[Filtr US](https://open.spotify.com/user/myplay.com) - 335,100 likes - 268 songs - 13 hr 27 min
+[Filtr US](https://open.spotify.com/user/myplay.com) - 334,798 likes - 268 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,9 +12,9 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 2 | [Boy Bye](https://open.spotify.com/track/4vZqE8iZ1wYFqlmeOB72nh) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Boy Bye](https://open.spotify.com/album/5Z3LNuIi0IWLJCnIn4OkdG) | 3:25 |
 | 3 | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/track/0pkiYzXyU58nKV74xsAuwW) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Oscar Maydon](https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5) | [MERCEDES \(feat\. Oscar Maydon\)](https://open.spotify.com/album/4lHX02NbEG7B7f7LHfcAUg) | 2:48 |
 | 4 | [TEXAS HOLD 'EM](https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 3:53 |
-| 5 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
-| 6 | [Something To Listen To](https://open.spotify.com/track/5oHMni51hzOywNQFh7jmXn) | [Rubina](https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M) | [Something To Listen To](https://open.spotify.com/album/19pZSaoSylW9hTSrcwxHYq) | 2:13 |
-| 7 | [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 |
+| 5 | [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 |
+| 6 | [ART](https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA](https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE) | 2:28 |
+| 7 | [Something To Listen To](https://open.spotify.com/track/5oHMni51hzOywNQFh7jmXn) | [Rubina](https://open.spotify.com/artist/0LiwgXVesl4813KSchUH1M) | [Something To Listen To](https://open.spotify.com/album/19pZSaoSylW9hTSrcwxHYq) | 2:13 |
 | 8 | [chill like that](https://open.spotify.com/track/5PThZUzaBqA9l4J4CDW0Cm) | [VALÉ](https://open.spotify.com/artist/3iyja6ErhSJ4NplEsdlzyE) | [chill like that](https://open.spotify.com/album/4LSq1Mp7qhNPOj65tS2IEF) | 2:34 |
 | 9 | [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 |
 | 10 | [Never Lose Me \(feat\. SZA & Cardi B\)](https://open.spotify.com/track/0i1bokCJ95evU1gb5HcXFy) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 2:45 |
@@ -277,4 +277,4 @@ pretty - [cumulative](/playlists/cumulative/6j2ZnN1A2xcWQMELm6hcdI.md) - [plain]
 | 267 | [Crying On Your Birthday](https://open.spotify.com/track/5wNhm1LOZHZRdTcTk3rpZh) | [Monaleo](https://open.spotify.com/artist/2sflbTtCirog5VxD6jPAfb) | [Crying On Your Birthday](https://open.spotify.com/album/7H0ZaJMQRQTquLuFN2jXqn) | 3:48 |
 | 268 | [2NDO CHANCE](https://open.spotify.com/track/4JyfG2WBcDjlc8TODyBIbx) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [ESQUINAS](https://open.spotify.com/album/34Kj1LPZ7xhlskIb9qD6D6) | 3:52 |
 
-Snapshot ID: `MzY4MSwxMDRjOWU3YTYxZTU0ZGRkNmU4NjU0MGZmZTBkYzAwNmE3MmQ3MjBh`
+Snapshot ID: `MzY4MixlYWJhMDA1MDdkNGVmMzI5NTIyNTg2YTBhMDMxMzYxZjdiODdjZTNi`

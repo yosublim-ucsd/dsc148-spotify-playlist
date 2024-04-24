@@ -499,6 +499,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Amor de \u00d1eros",
+        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
+      },
+      "artists": [
+        {
+          "name": "Solitario Soldado",
+          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
+        }
+      ],
+      "duration_ms": 131725,
+      "name": "Amor de \u00d1eros",
+      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "No la Cuajan",
         "url": "https://open.spotify.com/album/0ZocA4gh4Md892U4yfffV5"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 192222,
       "name": "No la Cuajan",
       "url": "https://open.spotify.com/track/6el7zTw2nFZn7TxW0IRZGQ"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Amor de \u00d1eros",
-        "url": "https://open.spotify.com/album/1yLQGi8faWEaBa5uKMVSvU"
-      },
-      "artists": [
-        {
-          "name": "Solitario Soldado",
-          "url": "https://open.spotify.com/artist/1iXMM6jVHyxeES7W3xxBUG"
-        }
-      ],
-      "duration_ms": 131725,
-      "name": "Amor de \u00d1eros",
-      "url": "https://open.spotify.com/track/6l2meq89gz3CPj3fRWlLv6"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -583,6 +583,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "El Humito",
+        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
+      },
+      "artists": [
+        {
+          "name": "Zxmyr",
+          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
+        }
+      ],
+      "duration_ms": 160941,
+      "name": "El Humito",
+      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "The Pure",
         "url": "https://open.spotify.com/album/3BiY0c1t8TMJaWJ1OCa07o"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 221123,
       "name": "The Pure",
       "url": "https://open.spotify.com/track/6ZkH2U1dkFSLaQFBgTEfrn"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "El Humito",
-        "url": "https://open.spotify.com/album/5c5k6nnUtp4W0ZkJm755yA"
-      },
-      "artists": [
-        {
-          "name": "Zxmyr",
-          "url": "https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8"
-        }
-      ],
-      "duration_ms": 160941,
-      "name": "El Humito",
-      "url": "https://open.spotify.com/track/4fixXL6hrrB4yRzaPtOasF"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -803,6 +803,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "DUCATI",
+        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
+      },
+      "artists": [
+        {
+          "name": "Sipo One",
+          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
+        }
+      ],
+      "duration_ms": 156683,
+      "name": "DUCATI",
+      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Callejones",
         "url": "https://open.spotify.com/album/1UQnR3wf43BbdyT2QiG3N2"
       },
@@ -823,22 +839,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "DUCATI",
-        "url": "https://open.spotify.com/album/4jpRKdLZe85C7kL2wJZaf3"
-      },
-      "artists": [
-        {
-          "name": "Sipo One",
-          "url": "https://open.spotify.com/artist/76V5aARZFI750zk1BglDV2"
-        }
-      ],
-      "duration_ms": 156683,
-      "name": "DUCATI",
-      "url": "https://open.spotify.com/track/1u0OLzzryuk3A80sQVhevv"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "F\u00e9 De M\u00e1s",
         "url": "https://open.spotify.com/album/4HkoruhVfuBqZB7k0w7dgx"
       },
@@ -855,6 +855,22 @@
       "duration_ms": 140930,
       "name": "F\u00e9 De M\u00e1s",
       "url": "https://open.spotify.com/track/23fBJOOeJXnc1URyRjDLju"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
+      },
+      "artists": [
+        {
+          "name": "Toser One",
+          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
+        }
+      ],
+      "duration_ms": 283909,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -891,22 +907,6 @@
       "duration_ms": 201372,
       "name": "BOURDAIN",
       "url": "https://open.spotify.com/track/6t7woVzUeTVRpXHP4Xxa4N"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/4gajuf08d8JcGjWuroGCTb"
-      },
-      "artists": [
-        {
-          "name": "Toser One",
-          "url": "https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1"
-        }
-      ],
-      "duration_ms": 283909,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/3gwBWDL8qR3Vz4rUbj7RAK"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -979,30 +979,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "La Pelicula",
-        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
-      },
-      "artists": [
-        {
-          "name": "Anthony Sanchez",
-          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
-        },
-        {
-          "name": "Turek Hem",
-          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
-        },
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        }
-      ],
-      "duration_ms": 169875,
-      "name": "La Pelicula",
-      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Bendecida Y Afortunada",
         "url": "https://open.spotify.com/album/0dY4wGJFYDPrqDE7Yq3oID"
       },
@@ -1035,6 +1011,30 @@
       "duration_ms": 312703,
       "name": "La Gangsta",
       "url": "https://open.spotify.com/track/60ptar7MA911kEF6s5AEha"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "La Pelicula",
+        "url": "https://open.spotify.com/album/1s8hOQjbODn7oVYR9z34eK"
+      },
+      "artists": [
+        {
+          "name": "Anthony Sanchez",
+          "url": "https://open.spotify.com/artist/3k5rImFtCiBe7sgbdQr12B"
+        },
+        {
+          "name": "Turek Hem",
+          "url": "https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx"
+        },
+        {
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
+        }
+      ],
+      "duration_ms": 169875,
+      "name": "La Pelicula",
+      "url": "https://open.spotify.com/track/79LlVFfy8g6x5dzL2jayvT"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Arrogancia",
-        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
-      },
-      "artists": [
-        {
-          "name": "Under Side 821",
-          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
-        }
-      ],
-      "duration_ms": 333403,
-      "name": "Arrogancia",
-      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Hip Hop Sh*t",
         "url": "https://open.spotify.com/album/71D1qHdaXdfmGyvjX3Cr0Y"
       },
@@ -1203,6 +1187,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Arrogancia",
+        "url": "https://open.spotify.com/album/1pHzCc4E40jbyAjdqWcphR"
+      },
+      "artists": [
+        {
+          "name": "Under Side 821",
+          "url": "https://open.spotify.com/artist/2NtN73hhhgFt2NmbBOlFz1"
+        }
+      ],
+      "duration_ms": 333403,
+      "name": "Arrogancia",
+      "url": "https://open.spotify.com/track/0vyOD96BnDNa3MMpVmVI5k"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "3 RAP",
         "url": "https://open.spotify.com/album/7aEo9W4GQzMs5xNXVDBnFD"
       },
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "\u00c1rtico",
-        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
-      },
-      "artists": [
-        {
-          "name": "Dante",
-          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
-        }
-      ],
-      "duration_ms": 202162,
-      "name": "Cuando te miro",
-      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Cuervos",
         "url": "https://open.spotify.com/album/0XSlJq1I6jb5EpZt7WZJS2"
       },
@@ -1279,18 +1263,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "La Vecindad del Vago",
-        "url": "https://open.spotify.com/album/6pLUrQbiNsFi1E0dyiQt3y"
+        "name": "\u00c1rtico",
+        "url": "https://open.spotify.com/album/1hnmPNhozqh1HUAlGwqgqz"
       },
       "artists": [
         {
-          "name": "Chikano Jcr",
-          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+          "name": "Dante",
+          "url": "https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX"
         }
       ],
-      "duration_ms": 256459,
-      "name": "La Vecindad del Vago",
-      "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
+      "duration_ms": 202162,
+      "name": "Cuando te miro",
+      "url": "https://open.spotify.com/track/4uzd952ca0XsLnYb5r5jMy"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 191977,
       "name": "Linda como siempre",
       "url": "https://open.spotify.com/track/2LhSnFBianHUfisgAgUMh7"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "La Vecindad del Vago",
+        "url": "https://open.spotify.com/album/6pLUrQbiNsFi1E0dyiQt3y"
+      },
+      "artists": [
+        {
+          "name": "Chikano Jcr",
+          "url": "https://open.spotify.com/artist/0t9TjrJV1Yo3ru7XHs2mOC"
+        }
+      ],
+      "duration_ms": 256459,
+      "name": "La Vecindad del Vago",
+      "url": "https://open.spotify.com/track/3YCLPJO5N84aDccTRv73Lm"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1467,30 +1467,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "DE POR VIDA",
-        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
-      },
-      "artists": [
-        {
-          "name": "Doble Porcion",
-          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
-        },
-        {
-          "name": "Ma\u00f1as Ru-Fino",
-          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
-        },
-        {
-          "name": "M\u00e9tricas Fr\u00edas",
-          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
-        }
-      ],
-      "duration_ms": 184665,
-      "name": "De Por Vida",
-      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Vuelve a escucharnos",
         "url": "https://open.spotify.com/album/6bWHowZE8owW30MesPGhTD"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 208166,
       "name": "Vuelve a escucharnos",
       "url": "https://open.spotify.com/track/0E7WuWV8NTPH2VtDgl2Bcd"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "DE POR VIDA",
+        "url": "https://open.spotify.com/album/0wSQj9XhYYFhaVIVi1UewS"
+      },
+      "artists": [
+        {
+          "name": "Doble Porcion",
+          "url": "https://open.spotify.com/artist/4PLGokgPkAapRsKDwXq408"
+        },
+        {
+          "name": "Ma\u00f1as Ru-Fino",
+          "url": "https://open.spotify.com/artist/78rkeQAvjl85yNyLAqEMVe"
+        },
+        {
+          "name": "M\u00e9tricas Fr\u00edas",
+          "url": "https://open.spotify.com/artist/10MeG72hSqEKGbUdBowf9k"
+        }
+      ],
+      "duration_ms": 184665,
+      "name": "De Por Vida",
+      "url": "https://open.spotify.com/track/0cwKWN0s1HWpDCKT9GQN77"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1571,6 +1571,26 @@
       "duration_ms": 202142,
       "name": "Flow Con Chile",
       "url": "https://open.spotify.com/track/33loMBQRY4NoftPVpi5tXP"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "EL POINT",
+        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
+      },
+      "artists": [
+        {
+          "name": "Deyco",
+          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
+        },
+        {
+          "name": "B Noize",
+          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "EL POINT",
+      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1635,26 +1655,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "EL POINT",
-        "url": "https://open.spotify.com/album/7gcS8OYnRu1Wanx11hsu6t"
-      },
-      "artists": [
-        {
-          "name": "Deyco",
-          "url": "https://open.spotify.com/artist/7bp6cKqrM7NIxhGxDKY0Lp"
-        },
-        {
-          "name": "B Noize",
-          "url": "https://open.spotify.com/artist/7yNB8pdsclWM7BwvP7Fbmf"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "EL POINT",
-      "url": "https://open.spotify.com/track/1wpTe5DR763yUG00YExCUS"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "AIR",
         "url": "https://open.spotify.com/album/6YHgqcY5yrndFe4N1zaSJr"
       },
@@ -1699,6 +1699,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Old Tom Parr",
+        "url": "https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K"
+      },
+      "artists": [
+        {
+          "name": "Thomas Parr",
+          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+        }
+      ],
+      "duration_ms": 130173,
+      "name": "Lejos",
+      "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Mala",
         "url": "https://open.spotify.com/album/4TMJRMIHvS2Gx1cLi7ZUR9"
       },
@@ -1715,18 +1731,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Old Tom Parr",
-        "url": "https://open.spotify.com/album/52PbTWa5YvD8XZp3ulGB5K"
+        "name": "L\u00c1SER",
+        "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
       },
       "artists": [
         {
-          "name": "Thomas Parr",
-          "url": "https://open.spotify.com/artist/4RdDhaLXcAbihjh7haTXbB"
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
         }
       ],
-      "duration_ms": 130173,
-      "name": "Lejos",
-      "url": "https://open.spotify.com/track/3NzRG8I0nAEW6L9m7fccSX"
+      "duration_ms": 159750,
+      "name": "L\u00c1SER",
+      "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1751,22 +1767,6 @@
       "duration_ms": 135076,
       "name": "3033",
       "url": "https://open.spotify.com/track/5NeP1ZwPoSNSGdL9db540W"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "L\u00c1SER",
-        "url": "https://open.spotify.com/album/2KMJnYhKlI5c5sOrt8voRC"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 159750,
-      "name": "L\u00c1SER",
-      "url": "https://open.spotify.com/track/0qyxjdZPV2wnt4XfCfANhC"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Cuando salga en Netflix.",
-        "url": "https://open.spotify.com/album/1Gz1dqtXs6MpZBMvdC71jJ"
-      },
-      "artists": [
-        {
-          "name": "Mit\u00f3mano mc",
-          "url": "https://open.spotify.com/artist/61ksKmKVip5vy2TXFAO7az"
-        }
-      ],
-      "duration_ms": 177332,
-      "name": "Cuando salga en Netflix.",
-      "url": "https://open.spotify.com/track/4x39I8c3ekzMKLTfuFcZdO"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Confesi\u00f3n De Ares",
         "url": "https://open.spotify.com/album/4oOMnE6deOaL9jEzQC6He7"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 295611,
       "name": "Confesi\u00f3n De Ares",
       "url": "https://open.spotify.com/track/4tSK5q7WPL60ju8voIKF5l"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Cuando salga en Netflix.",
+        "url": "https://open.spotify.com/album/1Gz1dqtXs6MpZBMvdC71jJ"
+      },
+      "artists": [
+        {
+          "name": "Mit\u00f3mano mc",
+          "url": "https://open.spotify.com/artist/61ksKmKVip5vy2TXFAO7az"
+        }
+      ],
+      "duration_ms": 177332,
+      "name": "Cuando salga en Netflix.",
+      "url": "https://open.spotify.com/track/4x39I8c3ekzMKLTfuFcZdO"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -2047,30 +2047,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Sastre a la Medida",
-        "url": "https://open.spotify.com/album/5xe3WbcQu8XPHIk77ww0tp"
+        "name": "1/2",
+        "url": "https://open.spotify.com/album/1AhWCjgTIAW1hRFDrTdHtg"
       },
       "artists": [
         {
-          "name": "Aar\u00f3n Homobono",
-          "url": "https://open.spotify.com/artist/0LBk4kvDBUQsVTXRTKggEr"
-        },
-        {
-          "name": "Coy Sifuentes",
-          "url": "https://open.spotify.com/artist/3xFeX3DSIXjXi4BU9syHLb"
-        },
-        {
-          "name": "Arsenal de Rimas",
-          "url": "https://open.spotify.com/artist/0s3Y8xkWIDr2B4qDsgKJUL"
-        },
-        {
-          "name": "Tocadiscos Trez",
-          "url": "https://open.spotify.com/artist/3DM2vfPkMCsjFPvHXZgdSv"
+          "name": "Giru Mad Fleiva",
+          "url": "https://open.spotify.com/artist/54nlY8whZk1ZWDsXG2Oqw5"
         }
       ],
-      "duration_ms": 219000,
-      "name": "Sastre a la Medida",
-      "url": "https://open.spotify.com/track/7xWneAamMR4l3BpBFU7Dev"
+      "duration_ms": 172584,
+      "name": "1/2",
+      "url": "https://open.spotify.com/track/1x5WEARAe6hryUBkb6TxRw"
     }
   ],
   "unique_name": "Rimas Frescas ",

@@ -1,6 +1,6 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Julliany Souza",
-  "num_followers": 1040187,
+  "num_followers": 1039483,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "Jeov\u00e1 Jireh",
-        "url": "https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 390953,
-      "name": "Jeov\u00e1 Jireh",
-      "url": "https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4"
-    },
-    {
-      "added_at": "2024-04-19 18:25:10",
-      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 350274,
       "name": "A Boa Parte - Ao Vivo",
       "url": "https://open.spotify.com/track/137KTFlEw4ynSLGhJ1JStl"
+    },
+    {
+      "added_at": "2024-04-19 18:25:10",
+      "album": {
+        "name": "Jeov\u00e1 Jireh",
+        "url": "https://open.spotify.com/album/2wfiFaBmVcK8aJ4BHYQHse"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 390953,
+      "name": "Jeov\u00e1 Jireh",
+      "url": "https://open.spotify.com/track/0cEUrAqLYJafXksIpIBov4"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -395,22 +395,18 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "O Encontro",
-        "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
+        "name": "Meu Filho, Descansa",
+        "url": "https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ"
       },
       "artists": [
         {
-          "name": "Davi Sacer",
-          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
-        },
-        {
-          "name": "Trazendo a Arca",
-          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
+          "name": "Maria Mar\u00e7al",
+          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
         }
       ],
-      "duration_ms": 552564,
-      "name": "Sobre As \u00c1guas",
-      "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
+      "duration_ms": 243244,
+      "name": "Meu Filho, Descansa",
+      "url": "https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -435,18 +431,22 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "Meu Filho, Descansa",
-        "url": "https://open.spotify.com/album/025sVZFpzszdBpyDespCnZ"
+        "name": "O Encontro",
+        "url": "https://open.spotify.com/album/0lCGxilNnKFzm2zytbwx6q"
       },
       "artists": [
         {
-          "name": "Maria Mar\u00e7al",
-          "url": "https://open.spotify.com/artist/1pZ1kGj7yoPvG1sSN74imk"
+          "name": "Davi Sacer",
+          "url": "https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx"
+        },
+        {
+          "name": "Trazendo a Arca",
+          "url": "https://open.spotify.com/artist/1KJkhqZNLx1JY9vXkBhGV5"
         }
       ],
-      "duration_ms": 243244,
-      "name": "Meu Filho, Descansa",
-      "url": "https://open.spotify.com/track/7Gsc3mp3uZqjCWK6N0EvJv"
+      "duration_ms": 552564,
+      "name": "Sobre As \u00c1guas",
+      "url": "https://open.spotify.com/track/0IHZgDHnehLfWTzMcR3szE"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -463,6 +463,26 @@
       "duration_ms": 409000,
       "name": "Caminho no Deserto",
       "url": "https://open.spotify.com/track/2sKdvtNeQ3D2Lt6ZCHNNSa"
+    },
+    {
+      "added_at": "2024-04-19 18:25:10",
+      "album": {
+        "name": "\u00danico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
+      },
+      "artists": [
+        {
+          "name": "fhop music",
+          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
+        },
+        {
+          "name": "Marco Telles",
+          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
+        }
+      ],
+      "duration_ms": 456676,
+      "name": "\u00danico - Ao Vivo",
+      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -499,26 +519,6 @@
       "duration_ms": 307220,
       "name": "Quarto Secreto",
       "url": "https://open.spotify.com/track/6wrNrFlUJEPUXWxIJQOluR"
-    },
-    {
-      "added_at": "2024-04-19 18:25:10",
-      "album": {
-        "name": "\u00danico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
-      },
-      "artists": [
-        {
-          "name": "fhop music",
-          "url": "https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn"
-        },
-        {
-          "name": "Marco Telles",
-          "url": "https://open.spotify.com/artist/1i2hM139lmyTdukYTJKHsJ"
-        }
-      ],
-      "duration_ms": 456676,
-      "name": "\u00danico - Ao Vivo",
-      "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -699,22 +699,18 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
+        "name": "N\u00e3o Acabou (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
       },
       "artists": [
         {
-          "name": "Felipe Rodrigues",
-          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
-        },
-        {
-          "name": "Marcelo Markes",
-          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
+          "name": "Bruna Karla",
+          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
         }
       ],
-      "duration_ms": 266086,
-      "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
+      "duration_ms": 315556,
+      "name": "N\u00e3o Acabou (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -735,18 +731,22 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "N\u00e3o Acabou (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1kjH03D7N4V9AOJDjiTIpW"
+        "name": "Al\u00e9m do Imposs\u00edvel (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3DKovkIoXI4UXbJnp8i3pu"
       },
       "artists": [
         {
-          "name": "Bruna Karla",
-          "url": "https://open.spotify.com/artist/0YdeGzSneJdP1NEKY3EFlR"
+          "name": "Felipe Rodrigues",
+          "url": "https://open.spotify.com/artist/2Fg24GlhFBtqn2c9FxzFrS"
+        },
+        {
+          "name": "Marcelo Markes",
+          "url": "https://open.spotify.com/artist/6SuvEQMnKI1I4rfErcOdi2"
         }
       ],
-      "duration_ms": 315556,
-      "name": "N\u00e3o Acabou (Ao Vivo)",
-      "url": "https://open.spotify.com/track/3nrfrwKRt2O3thUugCbdEP"
+      "duration_ms": 266086,
+      "name": "Al\u00e9m do Imposs\u00edvel - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nuW79gsHvrnt281HVKQBO"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "Era Deus",
-        "url": "https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        },
-        {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
-        }
-      ],
-      "duration_ms": 285049,
-      "name": "Era Deus",
-      "url": "https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj"
-    },
-    {
-      "added_at": "2024-04-19 18:25:10",
-      "album": {
         "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) [Ao Vivo]",
         "url": "https://open.spotify.com/album/0mCox5GE2UX2tVdXwxBoYw"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 590911,
       "name": "Pode Morar Aqui (feat. Alessandro Vilas Boas) - Ao Vivo",
       "url": "https://open.spotify.com/track/7qEactOYoRIZZAbHB0iza9"
+    },
+    {
+      "added_at": "2024-04-19 18:25:10",
+      "album": {
+        "name": "Era Deus",
+        "url": "https://open.spotify.com/album/5qUCNqOs1lbiZmiizjYBwp"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        },
+        {
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+        }
+      ],
+      "duration_ms": 285049,
+      "name": "Era Deus",
+      "url": "https://open.spotify.com/track/7FCZXSFH10ZcwgaGKXaDYj"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "Deus de Milagres (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
-      },
-      "artists": [
-        {
-          "name": "Mari Borges",
-          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
-        }
-      ],
-      "duration_ms": 348773,
-      "name": "Deus de Milagres - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
-    },
-    {
-      "added_at": "2024-04-19 18:25:10",
-      "album": {
         "name": "Quero Voltar Pra Casa (Ao Vivo)",
         "url": "https://open.spotify.com/album/6FIiRvqyMBVUwM5M0H5Bh4"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 365080,
       "name": "Quero Voltar Pra Casa - Ao Vivo",
       "url": "https://open.spotify.com/track/1Tox82hir9fKOLRl70XeD3"
+    },
+    {
+      "added_at": "2024-04-19 18:25:10",
+      "album": {
+        "name": "Deus de Milagres (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5rIIyLwfSFv7ZaxjZyCbI9"
+      },
+      "artists": [
+        {
+          "name": "Mari Borges",
+          "url": "https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6"
+        }
+      ],
+      "duration_ms": 348773,
+      "name": "Deus de Milagres - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pniWHcFFrhNfR5SlUB5Ba"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
-        "name": "Tudo por Causa de um Grande Amor",
-        "url": "https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4"
-      },
-      "artists": [
-        {
-          "name": "Colo de Deus",
-          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
-        }
-      ],
-      "duration_ms": 171394,
-      "name": "Isaias 53",
-      "url": "https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4"
-    },
-    {
-      "added_at": "2024-04-19 18:25:10",
-      "album": {
         "name": "Gratid\u00e3o (Gratitude) [Ao Vivo]",
         "url": "https://open.spotify.com/album/5UKejerSpuxuvnUdHoAdwm"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 420477,
       "name": "Gratid\u00e3o (Gratitude) - Ao Vivo",
       "url": "https://open.spotify.com/track/1q54VNXn2SWxmxyH5HNuea"
+    },
+    {
+      "added_at": "2024-04-19 18:25:10",
+      "album": {
+        "name": "Tudo por Causa de um Grande Amor",
+        "url": "https://open.spotify.com/album/7Cf3DMZZ741h4SqMvQSoN4"
+      },
+      "artists": [
+        {
+          "name": "Colo de Deus",
+          "url": "https://open.spotify.com/artist/1AY6YtpuVujP4Pa3ibD1M1"
+        }
+      ],
+      "duration_ms": 171394,
+      "name": "Isaias 53",
+      "url": "https://open.spotify.com/track/1Ar5adUxUwxmwkW7LgNOd4"
     },
     {
       "added_at": "2024-04-19 18:25:10",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2024-04-19 18:25:10",
       "album": {
+        "name": "Azeite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
+      },
+      "artists": [
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 272786,
+      "name": "Azeite - Ao Vivo",
+      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
+    },
+    {
+      "added_at": "2024-04-19 18:25:10",
+      "album": {
         "name": "Ton Canta, Vol. 2",
         "url": "https://open.spotify.com/album/6CuBKE2wSnkXV8FVyRql8X"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 320186,
       "name": "Tua Presen\u00e7a - Ao Vivo",
       "url": "https://open.spotify.com/track/4xT7AI0TuUJXCBmFWknLqf"
-    },
-    {
-      "added_at": "2024-04-19 18:25:10",
-      "album": {
-        "name": "Azeite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
-      },
-      "artists": [
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 272786,
-      "name": "Azeite - Ao Vivo",
-      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
     },
     {
       "added_at": "2024-04-19 18:25:10",

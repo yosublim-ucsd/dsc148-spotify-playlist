@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,414 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,421 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 32 | [Flor](https://open.spotify.com/track/6rJv6Yb3XR9JLSjaCIFxbK) | [DROKI](https://open.spotify.com/artist/3XQEA55qckI5NVM65Dq2Op) | [Flor](https://open.spotify.com/album/5uNnbYqGQfKjc4dYlOrQ5N) | 2:34 |
 | 33 | [Candeia](https://open.spotify.com/track/7v1TZLX1Xvwv3TtkiQBQ7v) | [Mericia](https://open.spotify.com/artist/2rbsGwF4WD9SlCqjo0Q2LS) | [Candeia](https://open.spotify.com/album/3gqDDktxBdBRdZVEPTHqq9) | 3:19 |
 | 34 | [Sinto a Sua Falta](https://open.spotify.com/track/2dZqnl4olWllAOzQRmdO4n) | [Kain](https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN) | [Sinto a Sua Falta](https://open.spotify.com/album/0RLUPsZSe4d88a1LZUShQL) | 3:21 |
-| 35 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
-| 36 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 |
+| 35 | [n é vc, sou eu](https://open.spotify.com/track/2Q4G9vjRYdgy4zxgHMGc23) | [Amxedx](https://open.spotify.com/artist/0rP1RgNU08Y99fjfdwH3h0), [Nader](https://open.spotify.com/artist/5hJTj1DEcSkY1t64AOPVKV), [Lil Glass](https://open.spotify.com/artist/3YE9TNf4ehxAyZtDvPPNkq) | [n é vc, sou eu](https://open.spotify.com/album/2JPzzYmLqEEcOF3nHBpSJ3) | 2:40 |
+| 36 | [Segredos](https://open.spotify.com/track/2i14luvcN0QonXe22WYQUA) | [Latrel](https://open.spotify.com/artist/5eNaeqDTUzL2q3zO8lXMvZ), [Gustavvo](https://open.spotify.com/artist/1g7ecQxDIGyHBz8lGGexH8) | [Segredos](https://open.spotify.com/album/1JDkiInlk98A1ctUOxyjvk) | 2:51 |
 | 37 | [That's Why I Love You](https://open.spotify.com/track/48cZ0Fo1zfYjBUPw5m8xjv) | [idontcare](https://open.spotify.com/artist/3sXDqkz0u2n7NXAPb3H7jV), [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [That's Why I Love You](https://open.spotify.com/album/0ClBTyGt24uEfusn603KEV) | 3:38 |
 | 38 | [Dava Praia](https://open.spotify.com/track/1yBnU3fCQXflHioJWsdiDm) | [Guinu](https://open.spotify.com/artist/5ofL9KZec6IUhmMT7uSmXl), [Juliane Gamboa](https://open.spotify.com/artist/34Ew3QfjXTBeGWxylACsnA) | [Dava Praia](https://open.spotify.com/album/4s5wiro9Rxv3PNRw7LJMkT) | 2:43 |
 | 39 | [Quando acordar](https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ) | [THAMI](https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL) | [Quando acordar](https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG) | 3:20 |

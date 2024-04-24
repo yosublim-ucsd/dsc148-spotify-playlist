@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 
 > The 100 greatest FIFA tracks of all time
 
-[Spotify](https://open.spotify.com/user/spotify) - 299,702 likes - 100 songs - 6 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 299,743 likes - 100 songs - 6 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,11 +36,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 26 | [Walk](https://open.spotify.com/track/5T8t1yJwAf6Dr6fIFGPjro) | [Kwabs](https://open.spotify.com/artist/0r0KdmVS1Er3kaFnl1KPog) | [Love + War](https://open.spotify.com/album/5W5oxg0Z2aFfbudPakSHqH) | 3:34 |
 | 27 | [Soy Yo](https://open.spotify.com/track/4Egb5xP6cniUx0kgZd5zLB) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Amanecer](https://open.spotify.com/album/7GQzUp6R1CtA9CmsVZg090) | 2:39 |
 | 28 | [Dreaming](https://open.spotify.com/track/6cMswWRv4lAU3mh5lclgCc) | [Smallpools](https://open.spotify.com/artist/4iiQabGKtS2RtTKpVkrVTw) | [LOVETAP!](https://open.spotify.com/album/59xqFRG2IgFTsZtQ73yIp6) | 3:36 |
-| 29 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
-| 30 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
-| 31 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
+| 29 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
+| 30 | [Punching In A Dream](https://open.spotify.com/track/5PtEpuVX03k9bOUwilL5EO) | [The Naked And Famous](https://open.spotify.com/artist/0oeUpvxWsC8bWS6SnpU8b9) | [Passive Me, Aggressive You](https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia) | 3:58 |
+| 31 | [Mercy](https://open.spotify.com/track/78twQ5XCFJMTE37ZSU0gsj) | [Duffy](https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO) | [Rockferry](https://open.spotify.com/album/6freV6eqxuFjSr3E93Oqtz) | 3:39 |
 | 32 | [High And Low](https://open.spotify.com/track/34WI9hCaE3AzbOYT9wFXLP) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Two Vines \(Deluxe\)](https://open.spotify.com/album/4ARTgZcw7MLmjQkZ4zPptP) | 3:44 |
-| 33 | [Fools Gold \- Remastered](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
+| 33 | [Fools Gold \- Remastered 2009](https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 9:54 |
 | 34 | [Black & Gold](https://open.spotify.com/track/3V45D1XTTyVZFN3liYuik6) | [Sam Sparro](https://open.spotify.com/artist/0H0rBbf7vHXO3qh50Wap7y) | [Black & Gold](https://open.spotify.com/album/7gBzSSKb7j7ilqVNfGrmY7) | 4:34 |
 | 35 | [Play God](https://open.spotify.com/track/6R1y3I91AIktu7qoKIugtH) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:45 |
 | 36 | [Busy Earnin'](https://open.spotify.com/track/5TloYFwzd09yWy8xkRLVUu) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/5dYCfDcz1KB5E9i2kgWXXr) | 3:01 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 45 | [Malemolencia](https://open.spotify.com/track/3voQ4FSnDNKEKuBNeJjAR5) | [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [Céu](https://open.spotify.com/album/17jh7tYL1hiAltz0DJlvLN) | 2:54 |
 | 46 | [Tearing Me Up](https://open.spotify.com/track/6NDt5z8GKIHub37hBQ4x18) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Days Gone By](https://open.spotify.com/album/0u3Rl4KquP15smujFrgGz4) | 7:50 |
 | 47 | [Red Morning Light](https://open.spotify.com/track/3Fc5OiXuy3pgmLLdoDQqjX) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Youth And Young Manhood](https://open.spotify.com/album/2137zeBGNgOWP4D96q6qxd) | 2:59 |
-| 48 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 |
-| 49 | [19\-2000 \- Soulchild Remix](https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:29 |
+| 48 | [19\-2000 \- Soulchild Remix](https://open.spotify.com/track/1PpfeNl5uYRBhfFcig2Uz6) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [Gorillaz](https://open.spotify.com/album/4tUxQkrduOE8sfgwJ5BI2F) | 3:29 |
+| 49 | [Take Your Mama](https://open.spotify.com/track/6hy7ONYlFybtQ1bX6eoXlt) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Scissor Sisters](https://open.spotify.com/album/58RP9ZGsr39HptJZLaVvm4) | 4:31 |
 | 50 | [Welcome To Jamrock](https://open.spotify.com/track/3jtd9Jslk6phPPYzBqfomg) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Welcome to Jamrock](https://open.spotify.com/album/6tqa7pPWXrtdGVFqZx3b1j) | 3:33 |
 | 51 | [Goodbye Mr A](https://open.spotify.com/track/4spfRBAAdrMKR35lZWrgYF) | [The Hoosiers](https://open.spotify.com/artist/4LlDtNr8qFwhrT8eL2wzH4) | [The Trick To Life](https://open.spotify.com/album/5sScGdiKDLwMPQMO688baH) | 4:26 |
 | 52 | [Wreckin' Bar \(Ra Ra Ra\)](https://open.spotify.com/track/1K5vb3Yu4F8yMaHggtdpDY) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [What Did You Expect from The Vaccines?](https://open.spotify.com/album/2T0iwqVWzr4Y63x4kKO5DW) | 1:21 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMWIpgAlsRJ.md) - [plain]
 | 72 | [Bodyrock](https://open.spotify.com/track/6P0d6HGaGTbW26ngcMpdko) | [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [Play & Play: B Sides](https://open.spotify.com/album/724hO8VLcKOz9b0y18wA8c) | 3:36 |
 | 73 | [Rain Of Gold](https://open.spotify.com/track/1ieTJuI2QzEGLBBHUIWbs2) | [Young Empires](https://open.spotify.com/artist/2NaTjGw60CSAEKY0tQTCYv) | [Wake All My Youth](https://open.spotify.com/album/6KzfQtWTlx1hPe0ToMg5Qc) | 3:16 |
 | 74 | [Colours \- Captain Cuts Remix](https://open.spotify.com/track/7DSUsf7q9WFoNQZNkoAFAE) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [Captain Cuts](https://open.spotify.com/artist/0rlKkLkpsCnJbZethGBfAk) | [Colours](https://open.spotify.com/album/4J73QQUDkVDbyyvB6PgpLS) | 4:32 |
-| 75 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 |
-| 76 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
+| 75 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |
+| 76 | [Pogo](https://open.spotify.com/track/67y8hDBlt0p74eeRwKz1KJ) | [Digitalism](https://open.spotify.com/artist/2fBURuq7FrlH6z5F92mpOl) | [Idealism](https://open.spotify.com/album/50MnC37ZrDB6U94K6M1do8) | 3:46 |
 | 77 | [F For You](https://open.spotify.com/track/7blVeauN6UPeewCORqVdCD) | [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Settle \(Deluxe\)](https://open.spotify.com/album/1lM5IfaqcIsXd6UCV3aDSs) | 6:15 |
 | 78 | [Heart Attack \(feat\. De La Soul\)](https://open.spotify.com/track/6FBndOcWyw1OqagEIUJbn8) | [Oliver](https://open.spotify.com/artist/0NDElNqwGRCmsYIQFapp6K), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Full Circle](https://open.spotify.com/album/68Napy7W8wRervbgGRkKP7) | 3:50 |
 | 79 | [Frens](https://open.spotify.com/track/15FfKpV7MURQncDusPvqwM) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Frens](https://open.spotify.com/album/6ptrrZitJ1n2a6qraQGmLz) | 3:18 |

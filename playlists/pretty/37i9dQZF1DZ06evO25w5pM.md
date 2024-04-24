@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 
 > This is Deuter\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,565 likes - 50 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,580 likes - 50 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO25w5pM.md) - [plain]
 | 49 | [The Source](https://open.spotify.com/track/7z1DKo3h5CH80LmmSMjZHC) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB) | [Earth Blue](https://open.spotify.com/album/1v1v5JNGwKKcVkj9TAP4i5) | 6:21 |
 | 50 | [Seashell](https://open.spotify.com/track/5n4eXU7Rh2mOZIRTUCND1A) | [Deuter](https://open.spotify.com/artist/3AGvwnXbUo9LoAU2P5qYHB), [Annette Cantor](https://open.spotify.com/artist/0fOvSSksaEdKDYatJdvV3t) | [Garden of the Gods](https://open.spotify.com/album/1wc26fYznDqctLKiRFZyDR) | 10:25 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGNkMzI4N2ZjNDlmODBhYTQ5ZjQ2NDg5MWY4ODcwNWFj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDY0ZjE2OGM2YzNlNGJmNWY4YjgxNDlmZmVhMmZhZjg0`

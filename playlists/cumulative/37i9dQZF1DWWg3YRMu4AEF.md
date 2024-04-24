@@ -4,10 +4,11 @@
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-145 songs - 9 hr 23 min
+146 songs - 9 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 | 2022-06-08 |  |
 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 | 2022-06-08 |  |
 | [April Sun in Cuba](https://open.spotify.com/track/0NKv1n25UpKKhZbp5UVV6P) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Running Free](https://open.spotify.com/album/05frF9sl7GngNlYJp7V6fe) | 3:27 | 2020-09-04 | 2022-07-29 |
 | [Are You Old Enough](https://open.spotify.com/track/659uoDxjIVHj61UmPyNG0y) | [Dragon](https://open.spotify.com/artist/622HMYOaiqowUmcd5t3b7t) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/1BlK4gJhBT89u7e5GPeBug) | 4:06 | 2020-09-04 | 2022-07-29 |
@@ -22,7 +23,7 @@
 | [Born to Run](https://open.spotify.com/track/6hTcuIQa0sxrrByu9wTD7s) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [Born To Run](https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu) | 4:29 | 2020-09-04 |  |
 | [Brass in Pocket \- 2006 Remaster](https://open.spotify.com/track/2hvOsGJc6qll4WzW8Ljqc3) | [Pretenders](https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9) | [Pretenders \(Expanded & Remastered\)](https://open.spotify.com/album/4oDYsMBe7KtOu12VNMO75k) | 3:05 | 2020-09-04 | 2022-07-29 |
 | [Bright Side of the Road](https://open.spotify.com/track/4w4Shi3xjbZBDGuhLw5LsQ) | [Van Morrison](https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A) | [Into the Music](https://open.spotify.com/album/11q2kAICayamyzbVlZvE90) | 3:46 | 2020-09-04 | 2022-07-29 |
-| [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 | 2020-09-04 |  |
+| [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 | 2020-09-04 | 2024-04-24 |
 | [Chuck E's in Love \- 45 Version](https://open.spotify.com/track/3F1MiFu5a1Y3Z9dQZhLTAo) | [Rickie Lee Jones](https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq) | [Chuck E's In Love / On Saturday Afternoons In 1963 \[Digital 45\]](https://open.spotify.com/album/3eeJPgqbLWERXFQyDh4SUC) | 3:29 | 2020-09-04 | 2022-07-29 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/35ItUJlMtjOQW3SSiTCrrw) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(Deluxe Remastered Version\)](https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa) | 2:43 | 2022-06-08 | 2024-04-19 |
 | [Crazy Little Thing Called Love \- Remastered 2011](https://open.spotify.com/track/6xdLJrVj4vIXwhuG8TMopk) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [The Game \(2011 Remaster\)](https://open.spotify.com/album/58alCatewkjNm9IM1Ucj67) | 2:43 | 2020-09-04 |  |

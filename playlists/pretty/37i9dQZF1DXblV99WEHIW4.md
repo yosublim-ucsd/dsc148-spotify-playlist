@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 
 > Heavy music for heavy feelings.
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,608 likes - 80 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,836 likes - 80 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,13 +23,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 13 | [Still Loving You](https://open.spotify.com/track/0RdUX4WE0fO30VnlUbDVL6) | [Scorpions](https://open.spotify.com/artist/27T030eWyCQRmDyuvr1kxY) | [Comeblack](https://open.spotify.com/album/4vQ96yyyYbaeTQujH3iTtd) | 6:43 |
 | 14 | [Adam's Song](https://open.spotify.com/track/6xpDh0dXrkVp0Po1qrHUd8) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Enema Of The State](https://open.spotify.com/album/652N05EcNH1a4bIlUixQE2) | 4:09 |
 | 15 | [Drown](https://open.spotify.com/track/6o39Ln9118FKTMbM4BvcEy) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 3:42 |
-| 16 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
-| 17 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
+| 16 | [A Symptom Of Being Human](https://open.spotify.com/track/7xOB82ELg70RoIM3mMTkt4) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Planet Zero](https://open.spotify.com/album/7tWcsQLHpvXnUPN1jsSaGw) | 4:08 |
+| 17 | [Call Me When You're Sober](https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [The Open Door](https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC) | 3:34 |
 | 18 | [Snuff](https://open.spotify.com/track/3RptaQ5Xb8WvtpItZ2f9Hi) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:36 |
 | 19 | [Pain](https://open.spotify.com/track/5PZ2cqh9Yem2g6cTSOLllz) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X](https://open.spotify.com/album/4ZDwEvXIKxWdwhAQK8ndBU) | 3:22 |
 | 20 | [All I Wanted](https://open.spotify.com/track/4BbXg5wQqVNPbVEGpjsVnv) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/3CaQTJU2Cpx7GXTgenmb2r) | 3:45 |
-| 21 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
-| 22 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
+| 21 | [Tears Don't Fall](https://open.spotify.com/track/5pKCDm2fw4k6D6C5Rk646C) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison](https://open.spotify.com/album/58TQcPpRD9XcXhUDWF5P27) | 5:48 |
+| 22 | [Shadow of the Day](https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Minutes to Midnight](https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6) | 4:49 |
 | 23 | [Scars](https://open.spotify.com/track/3TAtUJc4Sj913Cs5gBUeu0) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Getting Away With Murder](https://open.spotify.com/album/1OO7kdJ4OzWbjcroJEpfTH) | 3:28 |
 | 24 | [Teardrops](https://open.spotify.com/track/3WATWS2Ywo5HeHtG0bE2iZ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: SURVIVAL HORROR](https://open.spotify.com/album/0e1WaSNDZnoPixaxDNdWo4) | 3:35 |
 | 25 | [Failure](https://open.spotify.com/track/4wh0E9OwMCxcaIKTg0Mts9) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dark Before Dawn](https://open.spotify.com/album/09asAAZJ7rXedp9J8wqvBR) | 3:34 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXblV99WEHIW4.md) - [plain]
 | 42 | [Without You](https://open.spotify.com/track/5r95yxmemjPfVSjCoSeAP4) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 4:16 |
 | 43 | [Pain](https://open.spotify.com/track/0dj1yT3MNh2xpdBCsSkmFa) | [Bilmuri](https://open.spotify.com/artist/5Rc75vGFBWZPgL7EXb4k89) | [Letters](https://open.spotify.com/album/4zMAfDf1c1yTAnm3bKDVSv) | 2:59 |
 | 44 | [Roses for the Dead](https://open.spotify.com/track/6MVhQjz1SNN8IDTBlZwvwG) | [Funeral For A Friend](https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik) | [Hours](https://open.spotify.com/album/6ehpQ6J2cx9nlge4GlJcJ7) | 4:07 |
-| 45 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 |
-| 46 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
+| 45 | [Eiley](https://open.spotify.com/track/03bb6AxzMre5LjZzTiLb1r) | [Too Close To Touch](https://open.spotify.com/artist/2XziUthG3Ug3eiWuE5KRsp) | [Haven't Been Myself](https://open.spotify.com/album/2nGyrk4CKknFVjrEZQud7l) | 4:37 |
+| 46 | [Goodbye](https://open.spotify.com/track/0GXmTWQBqvNZwpcfNeijlt) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [.5: The Gray Chapter \(Special Edition\)](https://open.spotify.com/album/0ApKaazNHf0gzjAYZauexq) | 4:35 |
 | 47 | [February Stars](https://open.spotify.com/track/2ceA7CWWx6yIHdzppN8nLF) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:49 |
 | 48 | [Broken](https://open.spotify.com/track/32yaRngoDZcF56ApmNaBNz) | [Palaye Royale](https://open.spotify.com/artist/0hAd6zwEgt9ILuMDY1prcI) | [Fever Dream](https://open.spotify.com/album/4UChZRTVQgPn9AZSak3X4h) | 3:10 |
 | 49 | [Doomed](https://open.spotify.com/track/2X7QHaXlpec4VHTucG65N3) | [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [TRUE POWER](https://open.spotify.com/album/6SjY4WK6VMFYEINGVOHzGa) | 3:47 |

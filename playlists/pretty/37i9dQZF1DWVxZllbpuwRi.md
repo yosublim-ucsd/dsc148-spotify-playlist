@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,124 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,119 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 54 | [Angelito](https://open.spotify.com/track/5zm5Ra1DVCmujK882R7QSP) | [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Bad Milk](https://open.spotify.com/artist/5rMUEBZwYHovrlnuzggrVR) | [Angelito](https://open.spotify.com/album/51XfF3Vuzhj33GNL4GFUWw) | 3:47 |
 | 55 | [Socadona](https://open.spotify.com/track/5jYEiTNR3FQXFouTX7Ju0N) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mariah Angeliq](https://open.spotify.com/artist/0KKUc4amZyvswV2YL6WTar), [Topo La Maskara](https://open.spotify.com/artist/3kgQWNZNpp8d8JQZhuKbPP), [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Socadona \(feat\. Mr\. Vegas\)](https://open.spotify.com/album/7DtOy4YHoRoFQDbCNi9rDi) | 3:06 |
 | 56 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 |
-| 57 | [Calma \- Alicia Remix](https://open.spotify.com/track/2dXZsbiWJUmr0jnGzuyk5L) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Alicia Remix\)](https://open.spotify.com/album/6VbLR1kOlmC5pIqnFbNZ0T) | 3:44 |
-| 58 | [Que Mal Te Fue](https://open.spotify.com/track/2btKz4s1XrMn5VHe7xZJpi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Que Mal Te Fue](https://open.spotify.com/album/5Ev8nSvbM9cYv1YkdSv1XF) | 3:32 |
+| 57 | [Que Mal Te Fue](https://open.spotify.com/track/2btKz4s1XrMn5VHe7xZJpi) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7) | [Que Mal Te Fue](https://open.spotify.com/album/5Ev8nSvbM9cYv1YkdSv1XF) | 3:32 |
+| 58 | [Calma \- Alicia Remix](https://open.spotify.com/track/2dXZsbiWJUmr0jnGzuyk5L) | [Pedro Capó](https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy), [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Calma \(Alicia Remix\)](https://open.spotify.com/album/6VbLR1kOlmC5pIqnFbNZ0T) | 3:44 |
 | 59 | [Amor Pasajero](https://open.spotify.com/track/2AQrDkF3XiC3xCkAM4OkJx) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Amor Pasajero](https://open.spotify.com/album/3ZufYhU3vzNGPNMq5pO7ls) | 2:32 |
 | 60 | [Rueda \- Remix](https://open.spotify.com/track/3EWxpqOSP0KWgUmRiklqGy) | [Chimbala](https://open.spotify.com/artist/4VVEpEhC8NcR7AqNEds42U), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Omar Montes](https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF), [PV Aparataje](https://open.spotify.com/artist/1PrPa8zf5xW14VSJRgrCE4) | [Rueda \(Remix\)](https://open.spotify.com/album/30hCIU4mQfd14LVCLCOdmA) | 3:32 |
 | 61 | [Muito Calor](https://open.spotify.com/track/5uVgsAzjO6eJR06VPrqUga) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Muito Calor](https://open.spotify.com/album/0f3bt9OrN9BzSMRcpCg9y0) | 3:05 |

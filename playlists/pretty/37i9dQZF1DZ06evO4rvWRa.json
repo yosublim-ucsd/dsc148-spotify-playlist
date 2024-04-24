@@ -1,12 +1,12 @@
 {
-  "description": "This is Alan Walker. Track-track unggulan, semuanya dalam satu playlist.",
-  "num_followers": 1634891,
+  "description": "This is Alan Walker. The essential tracks, all in one playlist.",
+  "num_followers": 1633640,
   "original_name": "This Is Alan Walker",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFkYTg5ZTk4YmE0ODgxN2RjMDEwOGE2MTRmMzkxNzU5",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDUzZGFjMzJiZGMyMjZlMjI1N2IyZTVlM2JkNDc2YTYx",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 212106,
       "name": "Faded",
       "url": "https://open.spotify.com/track/698ItKASDavgwZ3WjaWjtz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "World Of Walker",
+        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Emma Steinbakken",
+          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
+        }
+      ],
+      "duration_ms": 153718,
+      "name": "Not You",
+      "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
     },
     {
       "added_at": null,
@@ -51,26 +71,6 @@
       "duration_ms": 123624,
       "name": "Fire! (feat. YUQI ((G)I-DLE), JVKE)",
       "url": "https://open.spotify.com/track/5B8VpcIC3EAI3wke3XQoRy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "World Of Walker",
-        "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Emma Steinbakken",
-          "url": "https://open.spotify.com/artist/3GIadM69XShFZNB3gP67Td"
-        }
-      ],
-      "duration_ms": 153718,
-      "name": "Not You",
-      "url": "https://open.spotify.com/track/5BKJAuVMDyrFvUTo4dIaiK"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        }
-      ],
-      "duration_ms": 160426,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "World Of Walker",
         "url": "https://open.spotify.com/album/3KrkQ77DF9OUB0aOzKFYOF"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 179052,
       "name": "Alone, Pt. II",
       "url": "https://open.spotify.com/track/28VbwtsYnj85UEODGpQRem"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 160426,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/3LlmKSHR3Rs0Y3KHQLAYDk"
     },
     {
       "added_at": null,
@@ -195,30 +195,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Different World",
-        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
-          "name": "Emelie Hollow",
-          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
-        }
-      ],
-      "duration_ms": 195840,
-      "name": "Lily",
-      "url": "https://open.spotify.com/track/0lks2Kt9veMOFEAPN0fsqN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Play",
         "url": "https://open.spotify.com/album/4uIhRJj1Au4TiyHhCOZys5"
       },
@@ -247,6 +223,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Different World",
+        "url": "https://open.spotify.com/album/3nzuGtN3nXARvvecier4K0"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        },
+        {
+          "name": "Emelie Hollow",
+          "url": "https://open.spotify.com/artist/61pvU6ZLOF3bl0IOtbmME7"
+        }
+      ],
+      "duration_ms": 195840,
+      "name": "Lily",
+      "url": "https://open.spotify.com/track/0lks2Kt9veMOFEAPN0fsqN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On My Way",
         "url": "https://open.spotify.com/album/1bcvtuHyO79DNAOOhHEkEm"
       },
@@ -271,22 +271,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero",
-        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
+        "name": "Headlights (feat. KIDDO)",
+        "url": "https://open.spotify.com/album/61SLEqJbw0XtTOmXUXAoEW"
       },
       "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
         {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
         },
         {
-          "name": "Sasha Alex Sloan",
-          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
+          "name": "KIDDO",
+          "url": "https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i"
         }
       ],
-      "duration_ms": 175271,
-      "name": "Hero",
-      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
+      "duration_ms": 158400,
+      "name": "Headlights (feat. KIDDO)",
+      "url": "https://open.spotify.com/track/7BhmwvCdQZNwuQXSHw5TzP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "(MORE) Unsponsored Content",
+        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
+      },
+      "artists": [
+        {
+          "name": "salem ilese",
+          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
+        },
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        },
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        }
+      ],
+      "duration_ms": 152214,
+      "name": "PS5",
+      "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
     },
     {
       "added_at": null,
@@ -315,26 +343,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "(MORE) Unsponsored Content",
-        "url": "https://open.spotify.com/album/6hEPrm5WGWe8GK029l31Ye"
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/5jbvicaA8IhNJxOyr4iXtt"
       },
       "artists": [
         {
-          "name": "salem ilese",
-          "url": "https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT"
-        },
-        {
-          "name": "TOMORROW X TOGETHER",
-          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
-        },
-        {
           "name": "Alan Walker",
           "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Sasha Alex Sloan",
+          "url": "https://open.spotify.com/artist/4xnihxcoXWK3UqryOSnbw5"
         }
       ],
-      "duration_ms": 152214,
-      "name": "PS5",
-      "url": "https://open.spotify.com/track/3YQkC6dE9YE9sH1751qqEr"
+      "duration_ms": 175271,
+      "name": "Hero",
+      "url": "https://open.spotify.com/track/1rBTBbtkJlSDk78gg8Dw9F"
     },
     {
       "added_at": null,

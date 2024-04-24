@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 
 ### [This Is Bastille](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xeFWM)
 
-> This is Bastille\. The essential tracks, all in one playlist.
+> This Is Bastille\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 212,312 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 212,324 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 8 | [Things We Lost In The Fire](https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 4:00 |
 | 9 | [Joy](https://open.spotify.com/track/6Tt1P5CLUrl59oSOTVxON0) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 3:12 |
 | 10 | [Oblivion](https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:16 |
-| 11 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
-| 12 | [Thelma + Louise](https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:17 |
+| 11 | [Thelma + Louise](https://open.spotify.com/track/2BzVkisodhQOPOPVJ9UKEI) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 2:17 |
+| 12 | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/track/3CGAtMSboRN65Jo4wb3eOH) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Liar Liar \(Feat\. Bastille\)](https://open.spotify.com/album/1Z63CEuNOQf5UIZ1LoI9fP) | 2:54 |
 | 13 | [Doom Days](https://open.spotify.com/track/1TkXApzsz0a6YRArjbqprt) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Doom Days](https://open.spotify.com/album/2QzbL1DICo4xZnWr8Sw4fF) | 2:18 |
 | 14 | [Of The Night](https://open.spotify.com/track/7BNDyzwDboNRR2wmd7GSew) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [All This Bad Blood](https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L) | 3:34 |
 | 15 | [Send Them Off!](https://open.spotify.com/track/4Wg7VfvO7NVG57R8cSPDQG) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Wild World \(Complete Edition\)](https://open.spotify.com/album/1qKjUIVG8KmtYceDBWjfqE) | 3:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4xeFWM.md) - [plain]
 | 50 | [Revolution](https://open.spotify.com/track/69c48S8phNtQZuM8ksaObz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Revolution](https://open.spotify.com/album/58mZEgMHwabU4Z5S2ggjCx) | 3:03 |
 | 51 | [Planet Earth III Suite \- From "Planet Earth III"](https://open.spotify.com/track/3ZjR1n11TRs4sk55D1CxXo) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Jacob Shea](https://open.spotify.com/artist/0ZjUUrNDmi4N4Ey5UTMebc), [Sara Barone](https://open.spotify.com/artist/1OHACW7s48L2ZIn7PUpt8y), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Planet Earth III \(Original Television Soundtrack\)](https://open.spotify.com/album/5j4IVHFClswFFiN11QQNjl) | 5:09 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDE1NGJhNGQ4MmVjZTg1MWVlZDY0NTAwN2Y4NDI0ZjVm`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDZkOWY1NjgxZjQ4MDQ2YTk4NmJhNjdiMmFiMjg2MmU4`

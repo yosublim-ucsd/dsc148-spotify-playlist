@@ -955,6 +955,24 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Bonita",
         "url": "https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8"
       },

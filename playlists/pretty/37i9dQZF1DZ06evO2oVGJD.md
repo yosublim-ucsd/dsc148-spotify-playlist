@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 
 > This is Banda Pequeños Musical\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,092 likes - 51 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,171 likes - 51 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,10 +39,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 29 | [Desnudos](https://open.spotify.com/track/3yFUto83tuhUqsNsmGS6s3) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Reencuentro](https://open.spotify.com/album/7AAMxkRhwiPTDzApQYJdns) | 3:17 |
 | 30 | [Luna llena](https://open.spotify.com/track/1SHsgQdBllRc2q46WwpHQh) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 1\) \[USA\]](https://open.spotify.com/album/7g3IdcuzbSoWHVKWfKIY2x) | 3:00 |
 | 31 | [Tu Castigo](https://open.spotify.com/track/32csFAG5BL1HtQBm6Dypk1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hasta el Final](https://open.spotify.com/album/1du9JIb2Q5slXbYG4KbFPT) | 2:52 |
-| 32 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
-| 33 | [Te extraño](https://open.spotify.com/track/7wv6p1I2GWuZ1eQ1Iok3u1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 2:57 |
-| 34 | [Cobarde](https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 2:47 |
-| 35 | [Tenemos Historia](https://open.spotify.com/track/1MoYJUddzS4XVS67Wf5ae9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:10 |
+| 32 | [Te extraño](https://open.spotify.com/track/7wv6p1I2GWuZ1eQ1Iok3u1) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 2:57 |
+| 33 | [Eso no, no, no](https://open.spotify.com/track/2qoGdSISEegf5cdtapA8om) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Banda Pequeños Musical](https://open.spotify.com/album/7M8M3UTkpnW9EZ6Lq4fdpY) | 2:55 |
+| 34 | [Tenemos Historia](https://open.spotify.com/track/1MoYJUddzS4XVS67Wf5ae9) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:10 |
+| 35 | [Cobarde](https://open.spotify.com/track/6IWmc0xEesUHiuOvKGNEYX) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [25 Bandazos de Pequeños Musical \(Vol\. 2\) \[USA\]](https://open.spotify.com/album/1jFG7df4bI6ip2SsdyjPaz) | 2:47 |
 | 36 | [Me tocó perder](https://open.spotify.com/track/1VSCn6pepqpFo3ZReTkpWQ) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 2:54 |
 | 37 | [Quién](https://open.spotify.com/track/0RD4ucWis1jf1HmmvLSCv5) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Recuerdos y algo más](https://open.spotify.com/album/5fh8Fm5Xja28dihBZj0Sxg) | 2:54 |
 | 38 | [Demente](https://open.spotify.com/track/4evZIOmeHWmUfDcFcESr0u) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 2:20 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2oVGJD.md) - [plain]
 | 50 | [Con Pensar En Ti](https://open.spotify.com/track/6VrmX4vLI0iQLcogIfMZIn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [15 Éxitos 2004\-2005](https://open.spotify.com/album/3xKyBeB8ovduhZwPtgPZBo) | 2:53 |
 | 51 | [El negrito](https://open.spotify.com/track/3ELx3O1UQAXAMzfobMRhyn) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Hoy y Siempre](https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL) | 3:06 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGIwNDQxYjYyZjM0NTg0MjI1YmVjMDk2ZDk1ZmRlZTQ2`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGFmODg3OTcyODIwNDhjZmU2OTBhZDdkOTJhYzRkOWY3`

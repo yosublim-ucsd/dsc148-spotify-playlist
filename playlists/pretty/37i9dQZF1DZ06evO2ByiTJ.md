@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 
 ### [This Is Elaine Martins](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ByiTJ)
 
-> This is Elaine Martins\. The essential tracks, all in one playlist.
+> This is Elaine Martins\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,423 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,431 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,12 +23,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 13 | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/track/2nHSRcZHW6L75pAWfPNOHn) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8), [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Há um Deus no Céu \(Ao Vivo\)](https://open.spotify.com/album/0RXhj4IrrkcMs9Puae55n8) | 3:55 |
 | 14 | [Humilde Rei](https://open.spotify.com/track/3ZhGcpxMziwd6ZLY7o3Xp9) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Humilde Rei](https://open.spotify.com/album/2eieGUaivlYodxrstfbLI6) | 5:31 |
 | 15 | [Deus te Viu \(Ao Vivo\)](https://open.spotify.com/track/0Zr8LQ1A1vuHSQBm3H3Qnu) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus te Viu \(Ao Vivo\)](https://open.spotify.com/album/5N1lgeek97qwDze56UGdbT) | 3:50 |
-| 16 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
-| 17 | [O Preço da Chamada](https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:50 |
+| 16 | [O Preço da Chamada](https://open.spotify.com/track/5rqa3b6OWWHAxLgU8Cw5Lv) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 3:50 |
+| 17 | [Ora Um Pouco Mais](https://open.spotify.com/track/69p1w6SHQ33BTqmFjXwXvY) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Ora Um Pouco Mais](https://open.spotify.com/album/2IVh2xYb2ZAS4dl8825702) | 4:38 |
 | 18 | [Volte a Sonhar Remix](https://open.spotify.com/track/7ewX0gfQPo3wkAP9SrRQfb) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Templo Fit Remix](https://open.spotify.com/album/3McxUX7L5Ve3j4dr9t2nYb) | 3:56 |
 | 19 | [Vasos Quebrados](https://open.spotify.com/track/67ua1zPHM7wODRaKWocGon) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Teu Querer](https://open.spotify.com/album/1CwbTPGS230GvaawqIMnuy) | 4:57 |
-| 20 | [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 |
-| 21 | [Últimos Dias](https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 5:03 |
+| 20 | [Últimos Dias](https://open.spotify.com/track/5wQ1hSpinOx5CpozYmFFtV) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Santificação](https://open.spotify.com/album/2JkGjKimc5PRRA4CLCw0Mj) | 5:03 |
+| 21 | [Coração de Amor](https://open.spotify.com/track/5mUJM4nc9shy1fvGp8NagS) | [Kleber Lucas](https://open.spotify.com/artist/1giin6byO7ehdqZBBmbI1N), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Coração de Amor](https://open.spotify.com/album/0UhkVBk40nVYUtAt7ELzuB) | 3:57 |
 | 22 | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/track/1m6qnO7l4JtqbQILMqRONj) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Cumpra o Seu Chamado \(Ao Vivo\)](https://open.spotify.com/album/0qTJpbVoBxVpAEFOMDRBDS) | 4:26 |
 | 23 | [Muda o Meu Coração](https://open.spotify.com/track/1FmGDsstyk3NoSFqaKcGmm) | [Cristina Mel](https://open.spotify.com/artist/0vKtp60PHfEnBSLJU9uHgP), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Muda o Meu Coração](https://open.spotify.com/album/1fSSeZnKZveh02704Yz5S3) | 5:09 |
 | 24 | [Sobrevivi \(Ao Vivo\)](https://open.spotify.com/track/0MRdJOx3IRuclfyzlDfscT) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Elaine Martins \(Ao Vivo\)](https://open.spotify.com/album/5S7CFFCOS5RKNB6gpDmD3U) | 4:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2ByiTJ.md) - [plain]
 | 49 | [Deus Te Consola Outra Vez](https://open.spotify.com/track/1WNY1BB98CAgej6yQZtPfL) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Deus Te Consola Outra Vez](https://open.spotify.com/album/55BQlFbH9mNmlH2lIQSEUc) | 4:34 |
 | 50 | [O Melhor da Festa](https://open.spotify.com/track/5bZW7V5pIqdc6fO0mZNEA4) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Rompendo](https://open.spotify.com/album/0L9ZMTBc8ZuSL8ExboD92L) | 4:07 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDVjZjY4NDQzNDk0N2I4OWExMmU5Nzk0YzEwMzU4Y2Zi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDVmN2MzYTg0ZDRmZDBlNmYyYjViOWM2MTJlM2I5NTk3`

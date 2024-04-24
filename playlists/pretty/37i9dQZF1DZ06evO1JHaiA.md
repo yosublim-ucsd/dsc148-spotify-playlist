@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 
 ### [This Is The Intruders](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JHaiA)
 
-> This is The Intruders\. The essential tracks, all in one playlist.
+> This Is The Intruders\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,681 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,685 likes - 49 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1JHaiA.md) - [plain]
 | 46 | [I've Got Love for You](https://open.spotify.com/track/48QNeYqSNjTmQxni4PkNyc) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Ben\-Lee Recordings 1963\-65](https://open.spotify.com/album/2qZAQvx07N2D7AzKY3kAec) | 2:16 |
 | 47 | [Best Days of My Life](https://open.spotify.com/track/0ICwP1Ql94VflS9VMD8kwQ) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:49 |
 | 48 | [Rockamaroll](https://open.spotify.com/track/5hWwB1t4DZHyyoFJ7O7oyl) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Let's Go Instro](https://open.spotify.com/album/2TRMwS7hcYepMtwbU1QOd1) | 2:15 |
-| 49 | [Jefferies Rock](https://open.spotify.com/track/5PdTiYmRNpH75Qk66GHv8V) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [The Great Guitar Instrumentals: '50s & '60s](https://open.spotify.com/album/3u540OPocP9GCkWh0XPtWi) | 2:31 |
-| 50 | [Wonder What Kind of Bag She's In](https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:36 |
+| 49 | [Wonder What Kind of Bag She's In](https://open.spotify.com/track/5WBPxOgZd0PPx3DVylUCQE) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [When We Get Married](https://open.spotify.com/album/06vixMex6zvkS4EB8RYFt7) | 2:36 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDQ5ZWU0ODhiMmFkMjdmZDNjNzM5MGUxNjhlYjk0ODBl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGE0ZWZjZDJlN2E3MGQ3ODYwYTA5NTBiZWU3YzM1NjA5`

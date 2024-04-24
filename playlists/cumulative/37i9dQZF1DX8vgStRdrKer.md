@@ -4,7 +4,7 @@
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:   <a href="https://open.spotify.com/artist/2y3CnYqAr0NYNrHD9ltAp4?si=Ehfcig4qQSOPvtSWy8E2uw">EJ Newton</a>
 
-152 songs - 12 hr 36 min
+153 songs - 12 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Elohim](https://open.spotify.com/track/5Q4JduIFVtirezPnU9RggG) | [Sondae](https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp) | [By The Water](https://open.spotify.com/album/5uPncwBKPjbBEwNfBfS0vn) | 2:50 | 2023-09-15 | 2024-03-16 |
 | [Emmanuel](https://open.spotify.com/track/6c5UMnCmZBski9aytlYIra) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Emmanuel](https://open.spotify.com/album/1BITuUt6zjCQP1cTcy8cgc) | 5:25 | 2024-01-05 | 2024-03-19 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 |  |
+| [En Toi](https://open.spotify.com/track/4ibKrcsCo0UPAjrvffTuUB) | [Morijah](https://open.spotify.com/artist/2YnxuM9f6ABfYjj5juoEuh) | [En Toi](https://open.spotify.com/album/7HLBaJFJPFrOcqEcNVoJMh) | 3:13 | 2024-04-12 |  |
 | [Ephphatha](https://open.spotify.com/track/7ny949XutTsiuf3nHSQ30g) | [Joepraize](https://open.spotify.com/artist/36zaJBikfrPslhG3cYnv8s) | [Ephphatha](https://open.spotify.com/album/7conlllzLwMtLnBndRiF29) | 3:52 | 2024-01-26 | 2024-02-16 |
 | [Eyinju](https://open.spotify.com/track/7lVOXZclqjOTPTJOmK0F9F) | [Nifemi David](https://open.spotify.com/artist/4kSsJuDGIaI1LoxMlN6Skt) | [Eyinju](https://open.spotify.com/album/4QuKgFawZ5YOuVNQIqu3R4) | 4:17 | 2024-02-16 | 2024-04-03 |
 | [Faithful](https://open.spotify.com/track/0bWrdctV8cOeq7pZdcw3JC) | [Tomi Favored](https://open.spotify.com/artist/3ioczYyxauJe6sFCd300bZ), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Faithful](https://open.spotify.com/album/0lHS9xhfCMCZ9fSgvPMrol) | 6:15 | 2024-03-22 |  |
@@ -123,7 +124,7 @@
 | [Put it On God](https://open.spotify.com/track/1QcTDyopg7fNm7ZAu0mKoV) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Annatoria](https://open.spotify.com/artist/6008gjU9UTUCfLZoSun5SH) | [Put It On God](https://open.spotify.com/album/1hGHJnNyDmxPXwxvKH6yr9) | 2:37 | 2023-09-15 | 2024-03-16 |
 | [Rescue](https://open.spotify.com/track/7r9kOxiNDnkAg5QKqtyjVk) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Look Up Child](https://open.spotify.com/album/6pmoTLfsPpn0wisT3YFJSN) | 3:35 | 2023-09-15 | 2024-03-16 |
 | [Sacrifices](https://open.spotify.com/track/3ydFeDJhwMSWRFJFA3jsfG) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT), [Naffymar](https://open.spotify.com/artist/31XHZpkBidKYdb27RBePrr) | [Sacrifices](https://open.spotify.com/album/05jjR9mGXTvLf2x8QYoiOq) | 3:28 | 2023-09-29 | 2023-10-20 |
-| [Say](https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Say](https://open.spotify.com/album/2yiQBODM4hCjAlUp4yIJiq) | 2:19 | 2024-04-05 |  |
+| [Say](https://open.spotify.com/track/5HXD6yjXXItBmHxXx1cCpc) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Theresa Phondo](https://open.spotify.com/artist/6mCpEfb5IMFQ2Iqtl1h8iX) | [Say](https://open.spotify.com/album/2yiQBODM4hCjAlUp4yIJiq) | 2:19 | 2024-04-05 | 2024-04-24 |
 | [Sing Hallelujah \(with Natalie Grant\) \- Live](https://open.spotify.com/track/0LPrib5LGVzGhnrM6J8kl9) | [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Cover The Earth \(Live In New York\)](https://open.spotify.com/album/0n1rSUSza9mlKU1g6xD9l9) | 8:24 | 2023-09-15 | 2024-02-05 |
 | [Spirit Chant](https://open.spotify.com/track/6SmLWZs2HkAX17zcvFGcln) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso) | [Spirit Chant](https://open.spotify.com/album/7FzNCkKKqToJjJGXFhWkrf) | 10:10 | 2023-09-15 | 2024-03-16 |
 | [Surrender](https://open.spotify.com/track/5SCH6LHRQH3hfmqAlnU1yo) | [Jvson](https://open.spotify.com/artist/0CbUlmC1cMua8bl6aQvP6F) | [Surrender](https://open.spotify.com/album/1MXMfvad0zlEQscHvBZU9h) | 2:52 | 2024-02-09 |  |

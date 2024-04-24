@@ -1,6 +1,6 @@
 {
   "description": "Amp up your commute with rock hits, new and old. Cover: Green Day",
-  "num_followers": 487033,
+  "num_followers": 487039,
   "original_name": "Rock Drive",
   "owner": {
     "name": "Spotify",
@@ -995,38 +995,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
-      },
-      "artists": [
-        {
-          "name": "The Smashing Pumpkins",
-          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
-        }
-      ],
-      "duration_ms": 258466,
-      "name": "Bullet With Butterfly Wings - Remastered 2012",
-      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Come Clean",
-        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
-      },
-      "artists": [
-        {
-          "name": "Puddle Of Mudd",
-          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
-        }
-      ],
-      "duration_ms": 216760,
-      "name": "She Hates Me",
-      "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Crossfade",
         "url": "https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy"
       },
@@ -1055,6 +1023,38 @@
       "duration_ms": 238400,
       "name": "The Red",
       "url": "https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Mellon Collie And The Infinite Sadness (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/55RhFRyQFihIyGf61MgcfV"
+      },
+      "artists": [
+        {
+          "name": "The Smashing Pumpkins",
+          "url": "https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i"
+        }
+      ],
+      "duration_ms": 258466,
+      "name": "Bullet With Butterfly Wings - Remastered 2012",
+      "url": "https://open.spotify.com/track/6GtX0jaNL8IjVQfrDBx81z"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Come Clean",
+        "url": "https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5"
+      },
+      "artists": [
+        {
+          "name": "Puddle Of Mudd",
+          "url": "https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5"
+        }
+      ],
+      "duration_ms": 216760,
+      "name": "She Hates Me",
+      "url": "https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1203,22 +1203,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Disclaimer II",
-        "url": "https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi"
+        "name": "Dirt (2022 Remaster)",
+        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
       },
       "artists": [
         {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        },
-        {
-          "name": "Amy Lee",
-          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
+          "name": "Alice In Chains",
+          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
         }
       ],
-      "duration_ms": 258333,
-      "name": "Broken",
-      "url": "https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"
+      "duration_ms": 374333,
+      "name": "Rooster (2022 Remaster)",
+      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1239,18 +1235,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dirt (2022 Remaster)",
-        "url": "https://open.spotify.com/album/58NXIEYqmq5dQHg9nV9duM"
+        "name": "Disclaimer II",
+        "url": "https://open.spotify.com/album/1mMgrxFYBUMKANGbapmXxi"
       },
       "artists": [
         {
-          "name": "Alice In Chains",
-          "url": "https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
+        },
+        {
+          "name": "Amy Lee",
+          "url": "https://open.spotify.com/artist/0fGVuq5ed21pM7iWwTcMyk"
         }
       ],
-      "duration_ms": 374333,
-      "name": "Rooster (2022 Remaster)",
-      "url": "https://open.spotify.com/track/0wvIGFIgbyz4JNwQhZgTv2"
+      "duration_ms": 258333,
+      "name": "Broken",
+      "url": "https://open.spotify.com/track/507bYMYfbm6sUS9iEAaeSd"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Karma and Effect",
-        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
-      },
-      "artists": [
-        {
-          "name": "Seether",
-          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
-        }
-      ],
-      "duration_ms": 207213,
-      "name": "Remedy",
-      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Battle Of Los Angeles",
         "url": "https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX"
       },
@@ -1335,18 +1319,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Open Door",
-        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+        "name": "Karma and Effect",
+        "url": "https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3"
       },
       "artists": [
         {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+          "name": "Seether",
+          "url": "https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW"
         }
       ],
-      "duration_ms": 214706,
-      "name": "Call Me When You're Sober",
-      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
+      "duration_ms": 207213,
+      "name": "Remedy",
+      "url": "https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1367,6 +1351,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "The Open Door",
+        "url": "https://open.spotify.com/album/3lFQ9ihSNR5YD0yi0yTzdC"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 214706,
+      "name": "Call Me When You're Sober",
+      "url": "https://open.spotify.com/track/663Karu2rvKLdnY0eo1n3M"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "The Sound of Madness",
         "url": "https://open.spotify.com/album/4PeRcYNYVB1mD4wemj5zld"
       },
@@ -1379,22 +1379,6 @@
       "duration_ms": 233986,
       "name": "Sound of Madness",
       "url": "https://open.spotify.com/track/0W9Xvd4Qx1aZPxEi94vgRY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Let It Be (Remastered)",
-        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 189386,
-      "name": "Get Back - Remastered 2009",
-      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1415,6 +1399,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Let It Be (Remastered)",
+        "url": "https://open.spotify.com/album/0jTGHV5xqHPvEcwL8f6YU5"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 189386,
+      "name": "Get Back - Remastered 2009",
+      "url": "https://open.spotify.com/track/4MLBqAEzNN89o2M9h92Z26"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Satellite (U.S. Version)",
         "url": "https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk"
       },
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Audioslave",
-        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
-      },
-      "artists": [
-        {
-          "name": "Audioslave",
-          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
-        }
-      ],
-      "duration_ms": 277840,
-      "name": "Show Me How to Live",
-      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Sublime",
         "url": "https://open.spotify.com/album/14eK347GdWO4mBBx78tsut"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 136146,
       "name": "Wrong Way",
       "url": "https://open.spotify.com/track/2PdIo7ewQPuAsP99LVg9uy"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Audioslave",
+        "url": "https://open.spotify.com/album/78guAsers0klWl6RwzgDLd"
+      },
+      "artists": [
+        {
+          "name": "Audioslave",
+          "url": "https://open.spotify.com/artist/2ziB7fzrXBoh1HUPS6sVFn"
+        }
+      ],
+      "duration_ms": 277840,
+      "name": "Show Me How to Live",
+      "url": "https://open.spotify.com/track/1Qdnvn4XlmZANCVy3XjrQo"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
-      },
-      "artists": [
-        {
-          "name": "Godsmack",
-          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
-        }
-      ],
-      "duration_ms": 304373,
-      "name": "Awake",
-      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Superunknown (Deluxe Edition)",
         "url": "https://open.spotify.com/album/29sTacnS0qA9xri6YS8xLA"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 283026,
       "name": "Fell On Black Days",
       "url": "https://open.spotify.com/track/1wlKw9NAWVWpx7OIAyg9EA"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/4uNwpYU5QyX2u0kkkEFLR4"
+      },
+      "artists": [
+        {
+          "name": "Godsmack",
+          "url": "https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF"
+        }
+      ],
+      "duration_ms": 304373,
+      "name": "Awake",
+      "url": "https://open.spotify.com/track/6xXlurslWqFuyqTCBlErzX"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "The Autumn Effect",
-        "url": "https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp"
-      },
-      "artists": [
-        {
-          "name": "10 Years",
-          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
-        }
-      ],
-      "duration_ms": 229866,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Core (Super Deluxe Edition)",
         "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
       },
@@ -1895,6 +1879,22 @@
       "duration_ms": 313946,
       "name": "Plush - 2017 Remaster",
       "url": "https://open.spotify.com/track/0CkspLl535ZxdwCRs8AdZ4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "The Autumn Effect",
+        "url": "https://open.spotify.com/album/1VlMcoG1aI4E4kBIVoH5cp"
+      },
+      "artists": [
+        {
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
+        }
+      ],
+      "duration_ms": 229866,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/3pO37BXsjMC2wApALxGbuB"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2011,18 +2011,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Frogstomp (Deluxe Edition) [Remastered]",
-        "url": "https://open.spotify.com/album/4kp8sfeCDUMm4JKRdrD3aC"
+        "name": "Purple (2019 Remaster)",
+        "url": "https://open.spotify.com/album/57lcTrUlYgfMIPvBUsVU6h"
       },
       "artists": [
         {
-          "name": "Silverchair",
-          "url": "https://open.spotify.com/artist/4iudEcmuPlYNdbP3e1bdn1"
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
         }
       ],
-      "duration_ms": 266280,
-      "name": "Tomorrow",
-      "url": "https://open.spotify.com/track/24tO365YW6lcZr1hN4Ukzj"
+      "duration_ms": 176546,
+      "name": "Vasoline - 2019 Remaster",
+      "url": "https://open.spotify.com/track/4fjsOdrWMaKf70x21h5XbX"
     }
   ],
   "unique_name": "Rock Drive",

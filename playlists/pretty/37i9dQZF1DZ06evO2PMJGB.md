@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 
 > This is Luísa Sonza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,626 likes - 38 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,775 likes - 38 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PMJGB.md) - [plain]
 | 37 | [Friend De Semana](https://open.spotify.com/track/3VxQC3iXh0rDVy5jhv8j71) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:28 |
 | 38 | [Século 21](https://open.spotify.com/track/7jiGFTWeO3MmMN9dpHRjUZ) | [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Século 21](https://open.spotify.com/album/5k9YDvQ6t8iHsfWGyJVox7) | 2:47 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGJmNzk1Yjc1MjE1MmJiYzEwODZlNjQwZTBlNTRiYTVj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDkzMDU0MTZkNmZjZjJmMDBjZTI3NDM3Mjk2YmMyYWY0`

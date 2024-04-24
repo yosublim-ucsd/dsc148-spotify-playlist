@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 
 > 2018 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,772 likes - 100 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,812 likes - 100 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 21 | [Happy Man](https://open.spotify.com/track/1oSDiyNMslJoTCfUZBHNP2) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 3:11 |
 | 22 | [MALAMENTE \- Cap.1: Augurio](https://open.spotify.com/track/1B0BQaSRHxhI0AUlItY3LK) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 2:30 |
 | 23 | [Underwater](https://open.spotify.com/track/5ZvHcR4OSwvEV5IhigbTOT) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [SOLACE](https://open.spotify.com/album/5Jazpq8mEgSgQs06mdwkQd) | 5:49 |
-| 24 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
-| 25 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 |
+| 24 | [Needs](https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4) | [Verzache](https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T) | [Needs](https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE) | 2:57 |
+| 25 | [Lookalike](https://open.spotify.com/track/4K3gM7kzX4POAfrs71HomN) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:40 |
 | 26 | [Tranz](https://open.spotify.com/track/7jYUaoOfdcYgUvkK8NnFfx) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ) | [The Now Now](https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL) | 2:42 |
 | 27 | [I'm with You](https://open.spotify.com/track/6Qwuw0eOeszVlewLpu24gR) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Nation of Two](https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV) | 3:59 |
 | 28 | [When You Die](https://open.spotify.com/track/3td69vL9Py7Ai9wfXYnvji) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:23 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 77 | [Swim](https://open.spotify.com/track/20PISOo4VbLz4yFH78Zv5R) | [Fickle Friends](https://open.spotify.com/artist/1nhSLEYdoBHG6cJ8NDwoF1) | [You Are Someone Else](https://open.spotify.com/album/7LdUzhm4SloDil5y0sRen0) | 3:17 |
 | 78 | [Swimming Pool Summer](https://open.spotify.com/track/477PCJRTtOZHVmP5ygdldS) | [Capital Cities](https://open.spotify.com/artist/4gwpcMTbLWtBUlOijbVpuu) | [Solarize](https://open.spotify.com/album/0i38zdK4NoZLJmKPkzf1WB) | 3:33 |
 | 79 | [Girlfriend](https://open.spotify.com/track/3dWRcazAn4jN75zh3VKyI6) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Chris](https://open.spotify.com/album/08LcAgUEeFV4tM3WPPpbYh) | 3:19 |
-| 80 | [Bambi](https://open.spotify.com/track/45ewhNby8MgyWw6HmT7HKJ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bambi](https://open.spotify.com/album/0lApyge0bHQGdyIcnrVFDw) | 3:14 |
-| 81 | [Drunk in L.A.](https://open.spotify.com/track/579f7KQP5rpiiugsVuSuoQ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW) | 3:59 |
+| 80 | [Drunk in L.A.](https://open.spotify.com/track/579f7KQP5rpiiugsVuSuoQ) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [7](https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW) | 3:59 |
+| 81 | [Bambi](https://open.spotify.com/track/45ewhNby8MgyWw6HmT7HKJ) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Bambi](https://open.spotify.com/album/0lApyge0bHQGdyIcnrVFDw) | 3:14 |
 | 82 | [Miracle](https://open.spotify.com/track/1G79vIY7FPXPjBj9cpweZD) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Love Is Dead](https://open.spotify.com/album/3lQdoVP35ulzlmHEvxcWKF) | 3:08 |
 | 83 | [There’s A Honey](https://open.spotify.com/track/7aZsTdQGRdbOhxBWA7ZMHv) | [Pale Waves](https://open.spotify.com/artist/0wOej91SVqB1zcYkW6xUtA) | [My Mind Makes Noises](https://open.spotify.com/album/6EuYfecmZrodq8sKWW00tZ) | 3:50 |
 | 84 | [When I'm With Him](https://open.spotify.com/track/4vBlxgG7iM8WwjLMHKpNkm) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU) | [Us](https://open.spotify.com/album/30bFyVsboSI6Nb7roQCgq8) | 3:13 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7UuaejrQg4.md) - [plain]
 | 91 | [It Runs Through Me](https://open.spotify.com/track/02CygBCQOIyEuhNZqHHcNx) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [De La Soul](https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 4:21 |
 | 92 | [i wanna be your girlfriend](https://open.spotify.com/track/3h3pOvw6hjOvZxRUseB7h9) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [i wanna be your girlfriend](https://open.spotify.com/album/3NqbgoETR7lDnlxvTum2vr) | 3:24 |
 | 93 | [Hot Rod](https://open.spotify.com/track/0zePbRMJ9sd7wsZRlbPQua) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Fuzzybrain](https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3) | 3:24 |
-| 94 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 |
-| 95 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 |
-| 96 | [Cheetah Tongue](https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:39 |
+| 94 | [Cheetah Tongue](https://open.spotify.com/track/4w9TBRGhvbhiLQB8jVCusl) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Beautiful People Will Ruin Your Life](https://open.spotify.com/album/4kUbTSoTsbKP5MRdYMDBx1) | 3:39 |
+| 95 | [Dontmakemefallinlove](https://open.spotify.com/track/6zHyWsqTzT6Fympdy9KQDQ) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Chiquito](https://open.spotify.com/album/6Bq9FHHUxCUZalaQ6YwGjy) | 3:27 |
+| 96 | [Washing Machine Heart](https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD) | 2:08 |
 | 97 | [Lost in Paris](https://open.spotify.com/track/4A7DUET5H4f7dJkUhjfVFB) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ) | [Geography](https://open.spotify.com/album/28enuddLPEA914scE6Drvk) | 3:14 |
 | 98 | [Awake](https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0) | [Freedom Fry](https://open.spotify.com/artist/195hFqaTDENqLCcG8uGtM7) | [Classic](https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU) | 3:14 |
 | 99 | [Arms](https://open.spotify.com/track/48HT7Zzd3We4ZjG82lsbdK) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/52nbX1xWBxOQrFSCqepCUz) | 3:23 |

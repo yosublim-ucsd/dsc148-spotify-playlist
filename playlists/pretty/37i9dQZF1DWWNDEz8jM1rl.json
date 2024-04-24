@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 123035,
+  "num_followers": 123010,
   "original_name": "Baila Con Dios",
   "owner": {
     "name": "Spotify",
@@ -387,6 +387,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "Alegria Latina",
+        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
+      },
+      "artists": [
+        {
+          "name": "Yan Rymond",
+          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "Sana Nuestra Tierra",
+      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Alegr\u00eda y Gozo 2020",
         "url": "https://open.spotify.com/album/7eaEia0ipy3eub1E8Gf4Jx"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 229272,
       "name": "Una Se\u00f1al",
       "url": "https://open.spotify.com/track/5l5MmlrPtEGxkhDttuAI8C"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
-        "name": "Alegria Latina",
-        "url": "https://open.spotify.com/album/72A2TVtTvR3QsqSzgUs0nR"
-      },
-      "artists": [
-        {
-          "name": "Yan Rymond",
-          "url": "https://open.spotify.com/artist/0Sopxx9Oh7GroU4m6aVa4j"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "Sana Nuestra Tierra",
-      "url": "https://open.spotify.com/track/6ybmVFm0raojnGUrcHA6P7"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -527,22 +527,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Dios Est\u00e1 en Control",
-        "url": "https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y"
-      },
-      "artists": [
-        {
-          "name": "La Banda Gorda",
-          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
-        }
-      ],
-      "duration_ms": 258500,
-      "name": "Dios Est\u00e1 en Control",
-      "url": "https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "30 Bachatas Cristianas Pegaditas",
         "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 232360,
       "name": "Le Llaman Jesus",
       "url": "https://open.spotify.com/track/2u9xtvoN8XxuIhY2Fgb4vk"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
+        "name": "Dios Est\u00e1 en Control",
+        "url": "https://open.spotify.com/album/1mOugK66Bd9AXwzsTuZI1y"
+      },
+      "artists": [
+        {
+          "name": "La Banda Gorda",
+          "url": "https://open.spotify.com/artist/6biY6yyLVZzisjmFLx0AP1"
+        }
+      ],
+      "duration_ms": 258500,
+      "name": "Dios Est\u00e1 en Control",
+      "url": "https://open.spotify.com/track/65X1pjaVF89MNtR59GRMWW"
     },
     {
       "added_at": "2020-09-18 05:02:00",
@@ -627,6 +627,22 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
+        "name": "30 Bachatas Cristianas Pegaditas",
+        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+      },
+      "artists": [
+        {
+          "name": "Jhonny Rafael",
+          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+        }
+      ],
+      "duration_ms": 274200,
+      "name": "La Biblia",
+      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
+    },
+    {
+      "added_at": "2020-09-18 05:02:00",
+      "album": {
         "name": "Alex D'castro, a Mis Amigos ...Lo Mejor",
         "url": "https://open.spotify.com/album/4XwBmjJCCVYcarPMx2iYa0"
       },
@@ -659,22 +675,6 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "Armon\u00eda",
-        "url": "https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u"
-      },
-      "artists": [
-        {
-          "name": "GaVriel",
-          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
-        }
-      ],
-      "duration_ms": 175456,
-      "name": "Armon\u00eda",
-      "url": "https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD"
-    },
-    {
-      "added_at": "2020-09-18 05:02:00",
-      "album": {
         "name": "Los \u00c9xitos De Marcos Witt En Bachata",
         "url": "https://open.spotify.com/album/4LbSSVP1c7BU0O8KXOi6WW"
       },
@@ -691,18 +691,18 @@
     {
       "added_at": "2020-09-18 05:02:00",
       "album": {
-        "name": "30 Bachatas Cristianas Pegaditas",
-        "url": "https://open.spotify.com/album/7kK9agRpkwjNHsiCVE4hKt"
+        "name": "Armon\u00eda",
+        "url": "https://open.spotify.com/album/60vy0EV9wPovDXlZUVCr4u"
       },
       "artists": [
         {
-          "name": "Jhonny Rafael",
-          "url": "https://open.spotify.com/artist/5ignJ7cAgLFhc8Rp1sNhJW"
+          "name": "GaVriel",
+          "url": "https://open.spotify.com/artist/1yzYNUGhfMTntAsh9hjuP2"
         }
       ],
-      "duration_ms": 274200,
-      "name": "La Biblia",
-      "url": "https://open.spotify.com/track/6Xno9DkR19S7hsPqBn4zlO"
+      "duration_ms": 175456,
+      "name": "Armon\u00eda",
+      "url": "https://open.spotify.com/track/0h81kXmPh8rG5vp8dkYbVD"
     },
     {
       "added_at": "2020-09-18 05:02:00",

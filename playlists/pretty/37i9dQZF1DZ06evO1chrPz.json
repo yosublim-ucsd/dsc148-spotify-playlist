@@ -1,12 +1,12 @@
 {
-  "description": "This is Bethel Music. \uaf2d \ub4e4\uc5b4\uc57c \ud558\ub294 \ud2b8\ub799\uc744 \ud558\ub098\uc758 \ud50c\ub808\uc774\ub9ac\uc2a4\ud2b8\uc5d0 \ubaa8\uc558\uc2b5\ub2c8\ub2e4.",
-  "num_followers": 196803,
+  "description": "This is Bethel Music. The essential tracks, all in one playlist.",
+  "num_followers": 196807,
   "original_name": "This Is Bethel Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFiNmU2NTdlMzQ0MmY3YTExMzljZGUyMDRlZjE1MDA3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGViYWFjYTM5NmJlODIyMzBmNTYxMDcxMThiM2UyYTBh",
   "tracks": [
     {
       "added_at": null,
@@ -679,6 +679,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Too Good To Not Believe (Live)",
+        "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "duration_ms": 633462,
+      "name": "Too Good To Not Believe - Live",
+      "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 600035,
       "name": "Stand In Awe (Spontaneous) [Live]",
       "url": "https://open.spotify.com/track/6gUcDVCEvlXo4QuIFpvBEW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Too Good To Not Believe (Live)",
-        "url": "https://open.spotify.com/album/2KgvpDpy6tpCQoqy3ZzwIZ"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Brandon Lake",
-          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
-        }
-      ],
-      "duration_ms": 633462,
-      "name": "Too Good To Not Believe - Live",
-      "url": "https://open.spotify.com/track/2ZUEopklc3lUm4OXUPB6WS"
     },
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Come Up Here",
+        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Zahriya Zachary",
+          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
+        }
+      ],
+      "duration_ms": 294280,
+      "name": "Surrounded By Holy",
+      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -783,26 +803,6 @@
       "duration_ms": 442158,
       "name": "When You Walk Into The Room (Spontaneous) [Live]",
       "url": "https://open.spotify.com/track/0ICuhxx8bdbS1cYRdk5T7t"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Come Up Here",
-        "url": "https://open.spotify.com/album/77rY1J7GGhv82lWkmVrb03"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Zahriya Zachary",
-          "url": "https://open.spotify.com/artist/4yKfjUNdXjRX2fHUEgoL5L"
-        }
-      ],
-      "duration_ms": 294280,
-      "name": "Surrounded By Holy",
-      "url": "https://open.spotify.com/track/3Gx2IFzYlAhaGpBMASAA0U"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "John Wilds",
-          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
-        }
-      ],
-      "duration_ms": 451297,
-      "name": "Show Me Your Face (Spontaneous) [Live]",
-      "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "For the Sake of the World",
         "url": "https://open.spotify.com/album/4cYPV8aF3JL4AKdbJeFZ86"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 452013,
       "name": "This Is Amazing Grace",
       "url": "https://open.spotify.com/track/3ExKJt4K8duUfEG49QWzPi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Moments: Wait (Live)",
+        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "John Wilds",
+          "url": "https://open.spotify.com/artist/7EtFuC5bUGDUyl6QLyYCvg"
+        }
+      ],
+      "duration_ms": 451297,
+      "name": "Show Me Your Face (Spontaneous) [Live]",
+      "url": "https://open.spotify.com/track/3Q9K0fPrqJFWTCWbSp4k9V"
     },
     {
       "added_at": null,
@@ -939,6 +939,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Be Lifted High",
+        "url": "https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC"
+      },
+      "artists": [
+        {
+          "name": "Bethel Music",
+          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
+        },
+        {
+          "name": "Jenn Johnson",
+          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
+        }
+      ],
+      "duration_ms": 452520,
+      "name": "God I Look to You",
+      "url": "https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Moments: Wait (Live)",
         "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
       },
@@ -979,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Be Lifted High",
-        "url": "https://open.spotify.com/album/4AfsCUxKAgdmrQGsL88rzC"
-      },
-      "artists": [
-        {
-          "name": "Bethel Music",
-          "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Jenn Johnson",
-          "url": "https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO"
-        }
-      ],
-      "duration_ms": 452520,
-      "name": "God I Look to You",
-      "url": "https://open.spotify.com/track/5VMPBdWTXlBkTOinoxfhHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Without Words: Synesthesia",
         "url": "https://open.spotify.com/album/4D7S7xyJToJ28MVcSH3YFo"
       },
@@ -1015,26 +1015,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Moments: Wait (Live)",
-        "url": "https://open.spotify.com/album/7rNKbK8wratEtlqtVeGvVL"
+        "name": "After All These Years (Instrumental)",
+        "url": "https://open.spotify.com/album/6LCOx7X7XM1FEwxhDFXXMk"
       },
       "artists": [
         {
           "name": "Bethel Music",
           "url": "https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO"
-        },
-        {
-          "name": "Peter Mattis",
-          "url": "https://open.spotify.com/artist/0msEBjWEqERNOm1Vi3QFsC"
-        },
-        {
-          "name": "Sarah Sperber",
-          "url": "https://open.spotify.com/artist/0sA77vgBi4A9x9TJBPhdEn"
         }
       ],
-      "duration_ms": 354526,
-      "name": "Alpha And Omega (Live)",
-      "url": "https://open.spotify.com/track/3ftk8bFLnW9czTMYV47TP6"
+      "duration_ms": 314306,
+      "name": "Gravity - Instrumental",
+      "url": "https://open.spotify.com/track/15LGKUgpAFUjQznIhE6Y2I"
     }
   ],
   "unique_name": "This Is Bethel Music",

@@ -1,12 +1,12 @@
 {
-  "description": "This is: Nana Mizuki. Alle wichtigen Tracks in einer Playlist.",
-  "num_followers": 27034,
-  "original_name": "This Is Nana Mizuki",
+  "description": "This is \u6c34\u6a39\u5948\u3005. The essential tracks, all in one playlist.",
+  "num_followers": 27032,
+  "original_name": "This Is \u6c34\u6a39\u5948\u3005",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDY3OTFmOGYwYjdjNGZmOWIxM2NjMDU4Njg3YmQyMDIy",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDVmMTVjZjE1YzhlM2IzMzY3M2E5MjMxZDViNGJiYTM1",
   "tracks": [
     {
       "added_at": null,
@@ -163,8 +163,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE MUSEUM",
-        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
+        "name": "WILD EYES",
+        "url": "https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv"
       },
       "artists": [
         {
@@ -172,9 +172,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 250333,
-      "name": "WILD EYES",
-      "url": "https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH"
+      "duration_ms": 299413,
+      "name": "\u30d2\u30e1\u30e0\u30e9\u30b5\u30ad",
+      "url": "https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV"
     },
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "WILD EYES",
-        "url": "https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv"
+        "name": "THE MUSEUM",
+        "url": "https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 299413,
-      "name": "\u30d2\u30e1\u30e0\u30e9\u30b5\u30ad",
-      "url": "https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV"
+      "duration_ms": 250333,
+      "name": "WILD EYES",
+      "url": "https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 250266,
-      "name": "SCARLET KNIGHT",
-      "url": "https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd"
+      "duration_ms": 268506,
+      "name": "Pray",
+      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
     },
     {
       "added_at": null,
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
         }
       ],
-      "duration_ms": 268506,
-      "name": "Pray",
-      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
+      "duration_ms": 250266,
+      "name": "SCARLET KNIGHT",
+      "url": "https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd"
     },
     {
       "added_at": null,
@@ -821,6 +821,6 @@
       "url": "https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt"
     }
   ],
-  "unique_name": "This Is Nana Mizuki",
+  "unique_name": "This Is \u6c34\u6a39\u5948\u3005",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk"
 }

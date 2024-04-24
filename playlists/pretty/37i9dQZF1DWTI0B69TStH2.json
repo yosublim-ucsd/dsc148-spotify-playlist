@@ -1,31 +1,155 @@
 {
-  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:0jt2f5aZJ4HskYRg6mYMPz\">adi</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
-  "num_followers": 24035,
+  "description": "Najciekawsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover:  <a href=\"spotify:artist:4F3X9OYQhZkUfaniE6u3NI\">Kosma Kr\u00f3l</a> | Playlista od\u015bwie\u017cana w ka\u017cd\u0105 \u015brod\u0119.",
+  "num_followers": 24051,
   "original_name": "Fresh Finds Polska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMwNDgwMCwwMDAwMDAwMDk0ODFjZGExMTYyMTg0MjBiYzU5NzRjNzYwYjQzNjc2",
+  "snapshot_id": "MTcxMzkwOTYwMCwwMDAwMDAwMDMzNWVmZDlkMzk5NWM5ZTlhZGY4MDg2MGMwZmQ3YTI3",
   "tracks": [
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "it's ok",
-        "url": "https://open.spotify.com/album/2RlLrTRK6ONenqL9LqhQBu"
+        "name": "tom i jerry",
+        "url": "https://open.spotify.com/album/1SQRa44JeT5v10c618lmaa"
       },
       "artists": [
         {
-          "name": "adi",
-          "url": "https://open.spotify.com/artist/0jt2f5aZJ4HskYRg6mYMPz"
+          "name": "Kosma Kr\u00f3l",
+          "url": "https://open.spotify.com/artist/4F3X9OYQhZkUfaniE6u3NI"
+        },
+        {
+          "name": "Kepler",
+          "url": "https://open.spotify.com/artist/7ycDermclPImSqRTxzpHn2"
+        },
+        {
+          "name": "Kania",
+          "url": "https://open.spotify.com/artist/3MetjMHjReEw9IZKH3m7zq"
         }
       ],
-      "duration_ms": 166653,
-      "name": "it's ok",
-      "url": "https://open.spotify.com/track/6WMxcpFzgfSWXnlkUu4CCJ"
+      "duration_ms": 156000,
+      "name": "tom i jerry",
+      "url": "https://open.spotify.com/track/2TMmCGZilPueW1AsnczOMY"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "nie po drodze",
+        "url": "https://open.spotify.com/album/0n8VrfnILovWPozkljTSYr"
+      },
+      "artists": [
+        {
+          "name": "Julia Mre\u0144ca",
+          "url": "https://open.spotify.com/artist/0o67bNa457im54EQIpinH2"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "nie po drodze",
+      "url": "https://open.spotify.com/track/0vB2QLU5pzIPTKKnMtvdiy"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "nie to nie",
+        "url": "https://open.spotify.com/album/2U3oSNuw423vJZF1lIGO8R"
+      },
+      "artists": [
+        {
+          "name": "bartek zjawa",
+          "url": "https://open.spotify.com/artist/2SchDvYiIlgkWpTOy7wTkg"
+        }
+      ],
+      "duration_ms": 251489,
+      "name": "nie to nie",
+      "url": "https://open.spotify.com/track/2EYFUjtJj1WeLpK85Ahl7b"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Spadam",
+        "url": "https://open.spotify.com/album/1wyDPdzvteYFIpEL9pCnuC"
+      },
+      "artists": [
+        {
+          "name": "Santabarbara",
+          "url": "https://open.spotify.com/artist/6iw2xSzE0b0aV6YTiBkj3R"
+        }
+      ],
+      "duration_ms": 321186,
+      "name": "Spadam",
+      "url": "https://open.spotify.com/track/2qjjMAF4lKYFqVgITrUD7I"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Pierwsze rozdanie",
+        "url": "https://open.spotify.com/album/1qjCaayvSYm3Y9elNuj44x"
+      },
+      "artists": [
+        {
+          "name": "BIOS",
+          "url": "https://open.spotify.com/artist/5EXA0E3Ccw9iT7yJn9kG0x"
+        }
+      ],
+      "duration_ms": 221346,
+      "name": "Pierwsze rozdanie",
+      "url": "https://open.spotify.com/track/6Csmn6MwFQJDVR8AJmj9ku"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Puk Puk Puk",
+        "url": "https://open.spotify.com/album/10OgpSOq4owHvG0JbmpXK5"
+      },
+      "artists": [
+        {
+          "name": "Greg Strangler",
+          "url": "https://open.spotify.com/artist/4GNfmsk4UMneqeoOldw3vN"
+        },
+        {
+          "name": "Czes\u0142aw Mozil",
+          "url": "https://open.spotify.com/artist/7gD7vK5I74g7nikQQg7VMJ"
+        }
+      ],
+      "duration_ms": 203750,
+      "name": "Puk Puk Puk",
+      "url": "https://open.spotify.com/track/37cfM86Qj0tCQRGoGW9Dkd"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Nic nie trwa wietrznie",
+        "url": "https://open.spotify.com/album/6E8amyQPGhI4sO0Da26WRx"
+      },
+      "artists": [
+        {
+          "name": "Madame Affair",
+          "url": "https://open.spotify.com/artist/6TwD8d0Irny7eLLqt33rpD"
+        }
+      ],
+      "duration_ms": 196266,
+      "name": "Nic nie trwa wietrznie",
+      "url": "https://open.spotify.com/track/2bV0yBOoEcxyXxbxVCnSrN"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "kierunek zwrot",
+        "url": "https://open.spotify.com/album/5c4EimsnVo84kZtIjiWO1k"
+      },
+      "artists": [
+        {
+          "name": "partycja",
+          "url": "https://open.spotify.com/artist/20xPpz8a1y2wfq8UjKYatx"
+        }
+      ],
+      "duration_ms": 133492,
+      "name": "kierunek zwrot",
+      "url": "https://open.spotify.com/track/4pDEZhclBY7qRpmYxMyE8G"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Ambiwalencje",
         "url": "https://open.spotify.com/album/1sFwhCJPNkPu572N4u6ANw"
@@ -41,63 +165,71 @@
       "url": "https://open.spotify.com/track/6jiBhMEv34yXWzqG1tEbCL"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "You End Up In My Agenda",
-        "url": "https://open.spotify.com/album/2GmmC51nHnjxLqsM7ILVBn"
+        "name": "Droga",
+        "url": "https://open.spotify.com/album/4rt9qqVz8U7EpUpFbAinkF"
       },
       "artists": [
         {
-          "name": "Jea Mira",
-          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+          "name": "Anna Hnatowicz",
+          "url": "https://open.spotify.com/artist/5ALlUjvCOAnnJvSgiTDg6C"
         }
       ],
-      "duration_ms": 131133,
-      "name": "You End Up In My Agenda",
-      "url": "https://open.spotify.com/track/0ndAv1KPI3xRQEiklr9IGf"
+      "duration_ms": 219174,
+      "name": "Droga",
+      "url": "https://open.spotify.com/track/5J9FfLpAh0vz46O2bW3l9F"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "Ja Ciebie Te\u017c",
-        "url": "https://open.spotify.com/album/5AfHyGT8TLcpaU6VBgXLP7"
+        "name": "Park Ciemnego Nieba",
+        "url": "https://open.spotify.com/album/64u1Nj6eH1Hmqut2UvjfJB"
       },
       "artists": [
         {
-          "name": "afekty",
-          "url": "https://open.spotify.com/artist/3SpESiiNwNfFPpEmsTiXoH"
-        },
-        {
-          "name": "Helena Py\u0142ka",
-          "url": "https://open.spotify.com/artist/1jimlac7RknSbFMRoxUw9e"
-        },
-        {
-          "name": "Basia Siciarek",
-          "url": "https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh"
+          "name": "Martini Police",
+          "url": "https://open.spotify.com/artist/0JK30CTlvxZpyE4GqsIJeN"
         }
       ],
-      "duration_ms": 158802,
-      "name": "Ja Ciebie Te\u017c",
-      "url": "https://open.spotify.com/track/7BKm9anPgJu8I1iRu2vTmU"
+      "duration_ms": 219624,
+      "name": "Park Ciemnego Nieba",
+      "url": "https://open.spotify.com/track/6zz3ctxOy8QvUi6gbzeZJs"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "BLUE GARDEN",
-        "url": "https://open.spotify.com/album/1sA10T82r0sJg9SACuouKJ"
+        "name": "RZECZYWISTO\u015aCI R\u00d3WNOLEG\u0141E",
+        "url": "https://open.spotify.com/album/4IBsu56Qv4yTPUL9efliVP"
       },
       "artists": [
         {
-          "name": "Mav",
-          "url": "https://open.spotify.com/artist/1hIHKduhZOyrGVBbbN2qX0"
+          "name": "Jakub Zaron",
+          "url": "https://open.spotify.com/artist/0a2IhoVzXyoQp6LPI9o2yw"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Blue Garden",
-      "url": "https://open.spotify.com/track/19uYPv8WFtulhslFoNYFvk"
+      "duration_ms": 202666,
+      "name": "to przej\u015bciowe",
+      "url": "https://open.spotify.com/track/1T41NLeMuqJGKZiRiJ3wOO"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "4Fun",
+        "url": "https://open.spotify.com/album/3fRqOZnlJ5grG9Ac6fr6t4"
+      },
+      "artists": [
+        {
+          "name": "NatiFlora",
+          "url": "https://open.spotify.com/artist/6by3AJadEjmjCl4MDHip2H"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "4Fun",
+      "url": "https://open.spotify.com/track/4hoQU7wjCKf9fQ9sIVCn7M"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "\u017b\u00d3\u0141TA CZAPKA",
         "url": "https://open.spotify.com/album/4dUKXwlDA9EG8uta2odsYH"
@@ -121,23 +253,143 @@
       "url": "https://open.spotify.com/track/7Mbwkrtni29Th2zhRk1zZv"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
-        "name": "RZECZYWISTO\u015aCI R\u00d3WNOLEG\u0141E",
-        "url": "https://open.spotify.com/album/4IBsu56Qv4yTPUL9efliVP"
+        "name": "Nic tu po mnie",
+        "url": "https://open.spotify.com/album/2nzkje3b4bC5ZDzKL1Piru"
       },
       "artists": [
         {
-          "name": "Jakub Zaron",
-          "url": "https://open.spotify.com/artist/0a2IhoVzXyoQp6LPI9o2yw"
+          "name": "Ajzeja",
+          "url": "https://open.spotify.com/artist/2BIjch36SUB18OSL65fIYS"
         }
       ],
-      "duration_ms": 202666,
-      "name": "to przej\u015bciowe",
-      "url": "https://open.spotify.com/track/1T41NLeMuqJGKZiRiJ3wOO"
+      "duration_ms": 109459,
+      "name": "Nic tu po mnie",
+      "url": "https://open.spotify.com/track/7ARgURafRhlNWfzHlYbBTs"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Wszystko co kocham",
+        "url": "https://open.spotify.com/album/7f2fJmlSKgAZBdLNxewYDi"
+      },
+      "artists": [
+        {
+          "name": "cafetrauma",
+          "url": "https://open.spotify.com/artist/49BvAtfEqPHiCWmq6dTwR2"
+        }
+      ],
+      "duration_ms": 161439,
+      "name": "Wszystko co kocham",
+      "url": "https://open.spotify.com/track/7IEaG22Q1pgUqqgXZ2f8cw"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Merecemos M\u00e1s",
+        "url": "https://open.spotify.com/album/7rVW1hsqELL5b8Mcq5s2YE"
+      },
+      "artists": [
+        {
+          "name": "Liana",
+          "url": "https://open.spotify.com/artist/1iZI5nyH0s9H0e0KO4hDFx"
+        }
+      ],
+      "duration_ms": 173314,
+      "name": "Merecemos M\u00e1s",
+      "url": "https://open.spotify.com/track/3x9Nz5L2LFxYTeE1i8BJKV"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "You End Up In My Agenda",
+        "url": "https://open.spotify.com/album/2GmmC51nHnjxLqsM7ILVBn"
+      },
+      "artists": [
+        {
+          "name": "Jea Mira",
+          "url": "https://open.spotify.com/artist/251W9nU4osxaBuBkU9HXT3"
+        }
+      ],
+      "duration_ms": 131133,
+      "name": "You End Up In My Agenda",
+      "url": "https://open.spotify.com/track/0ndAv1KPI3xRQEiklr9IGf"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "ch\u0142opiec",
+        "url": "https://open.spotify.com/album/77eROIimANKfFV692ANgeS"
+      },
+      "artists": [
+        {
+          "name": "welur",
+          "url": "https://open.spotify.com/artist/7FnzLxBdFk0MF94mfQSg1V"
+        }
+      ],
+      "duration_ms": 218048,
+      "name": "ch\u0142opiec",
+      "url": "https://open.spotify.com/track/5xWMTb9iR0BVHlPQOni8HN"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "it's ok",
+        "url": "https://open.spotify.com/album/2RlLrTRK6ONenqL9LqhQBu"
+      },
+      "artists": [
+        {
+          "name": "adi",
+          "url": "https://open.spotify.com/artist/0jt2f5aZJ4HskYRg6mYMPz"
+        }
+      ],
+      "duration_ms": 166653,
+      "name": "it's ok",
+      "url": "https://open.spotify.com/track/6WMxcpFzgfSWXnlkUu4CCJ"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Ja Ciebie Te\u017c",
+        "url": "https://open.spotify.com/album/5AfHyGT8TLcpaU6VBgXLP7"
+      },
+      "artists": [
+        {
+          "name": "afekty",
+          "url": "https://open.spotify.com/artist/3SpESiiNwNfFPpEmsTiXoH"
+        },
+        {
+          "name": "Helena Py\u0142ka",
+          "url": "https://open.spotify.com/artist/1jimlac7RknSbFMRoxUw9e"
+        },
+        {
+          "name": "Basia Siciarek",
+          "url": "https://open.spotify.com/artist/6WcYkSf44ojtwFJ4jENIOh"
+        }
+      ],
+      "duration_ms": 158802,
+      "name": "Ja Ciebie Te\u017c",
+      "url": "https://open.spotify.com/track/7BKm9anPgJu8I1iRu2vTmU"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "BLUE GARDEN",
+        "url": "https://open.spotify.com/album/1sA10T82r0sJg9SACuouKJ"
+      },
+      "artists": [
+        {
+          "name": "Mav",
+          "url": "https://open.spotify.com/artist/1hIHKduhZOyrGVBbbN2qX0"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Blue Garden",
+      "url": "https://open.spotify.com/track/19uYPv8WFtulhslFoNYFvk"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Komputer EP",
         "url": "https://open.spotify.com/album/6Q3ylIe7lpmbcv0f8bfliL"
@@ -157,7 +409,7 @@
       "url": "https://open.spotify.com/track/7CETUmv4LA97eQUD0FkjhK"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Keepsake",
         "url": "https://open.spotify.com/album/43lJyMdlDCs4SUTwcoGfnP"
@@ -173,7 +425,7 @@
       "url": "https://open.spotify.com/track/3urIzLLFTF62PhyfkAcvcX"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "My\u015bl\u0119 o Tobie",
         "url": "https://open.spotify.com/album/3UQharLST7DUfu5OrCqV6V"
@@ -189,7 +441,7 @@
       "url": "https://open.spotify.com/track/6HJY1rdmPjK2Gg384WfSWv"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "FAJNY STYL",
         "url": "https://open.spotify.com/album/1varkZT4CBoUDiKaWI1TUX"
@@ -217,7 +469,7 @@
       "url": "https://open.spotify.com/track/6hlIxfgACfVf5KGTS35wnk"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Nie mam szans",
         "url": "https://open.spotify.com/album/4Ko9x4dj97QftILxqqpaLG"
@@ -233,7 +485,7 @@
       "url": "https://open.spotify.com/track/0WpoB8xmZ52DeCWvTI8dd6"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Echo",
         "url": "https://open.spotify.com/album/42qocei8flyZYuOS2ZPKJW"
@@ -249,7 +501,7 @@
       "url": "https://open.spotify.com/track/1E5OsnNT6NujuPn71PhIOh"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "NADCHODZ\u0118",
         "url": "https://open.spotify.com/album/3wA712yigyRYMTKT3HJWD8"
@@ -265,7 +517,23 @@
       "url": "https://open.spotify.com/track/13ZnaBMUlMWrVmYnFzj5uO"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
+      "album": {
+        "name": "Bajki",
+        "url": "https://open.spotify.com/album/191CwX8dThGvBFRXFlY6ZX"
+      },
+      "artists": [
+        {
+          "name": "Zale\u015b",
+          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
+        }
+      ],
+      "duration_ms": 150545,
+      "name": "Bajki",
+      "url": "https://open.spotify.com/track/56rVZTJCTb9XikeQBvD3qb"
+    },
+    {
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Sacred Writing",
         "url": "https://open.spotify.com/album/659jKy205TMyl622me60ii"
@@ -281,7 +549,7 @@
       "url": "https://open.spotify.com/track/6FwrRJZt7SeD0uuYG0id7f"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "X",
         "url": "https://open.spotify.com/album/0g80dP8LAGu88HJY9tArGt"
@@ -301,7 +569,7 @@
       "url": "https://open.spotify.com/track/2lzmqBpRPoCbneYQ8LFm78"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "P\u0142y\u0144",
         "url": "https://open.spotify.com/album/6qJdqChyh8yODrO1NoIAQH"
@@ -321,7 +589,7 @@
       "url": "https://open.spotify.com/track/5diH4M6n6fVkU8oni633nq"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Na Chwile",
         "url": "https://open.spotify.com/album/79hY4VpWJgV8NpXeLGDhUn"
@@ -337,7 +605,7 @@
       "url": "https://open.spotify.com/track/4ytA5NDLwceQSmvJ6ZdBcB"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Chwy\u0107 mnie",
         "url": "https://open.spotify.com/album/6Cm5e30Zozf14twZZfZKzo"
@@ -353,7 +621,7 @@
       "url": "https://open.spotify.com/track/5rtfxq7v8ijgMCk4Z39XPH"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "NASA",
         "url": "https://open.spotify.com/album/3O5CHUWe7vW9TREZmIUSr7"
@@ -369,7 +637,7 @@
       "url": "https://open.spotify.com/track/6oFgj5pGUlVvTLj4j5DsQD"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "amor fati",
         "url": "https://open.spotify.com/album/45DGEylF5tM1AngIZMfuKB"
@@ -385,7 +653,7 @@
       "url": "https://open.spotify.com/track/27HQDRDNUNsz98fiCguIgD"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/3eRZR0OJMksyisDfWCHozU"
@@ -401,7 +669,7 @@
       "url": "https://open.spotify.com/track/7bdsdf3k9SQ5TiCbNoWVb3"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Fale",
         "url": "https://open.spotify.com/album/2m3YVn1BbN70f3lETUqaIj"
@@ -417,27 +685,7 @@
       "url": "https://open.spotify.com/track/1zPnzsJFmGjoaW3nzfRqL8"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Puk Puk Puk",
-        "url": "https://open.spotify.com/album/10OgpSOq4owHvG0JbmpXK5"
-      },
-      "artists": [
-        {
-          "name": "Greg Strangler",
-          "url": "https://open.spotify.com/artist/4GNfmsk4UMneqeoOldw3vN"
-        },
-        {
-          "name": "Czes\u0142aw Mozil",
-          "url": "https://open.spotify.com/artist/7gD7vK5I74g7nikQQg7VMJ"
-        }
-      ],
-      "duration_ms": 203750,
-      "name": "Puk Puk Puk",
-      "url": "https://open.spotify.com/track/37cfM86Qj0tCQRGoGW9Dkd"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Longing",
         "url": "https://open.spotify.com/album/2xBewq4XaYFqdOaneF81SQ"
@@ -453,7 +701,7 @@
       "url": "https://open.spotify.com/track/2cnIkggW4jOOmv0ACjQITg"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Szum",
         "url": "https://open.spotify.com/album/3iu939TfOMxWMqdh8kvPPN"
@@ -469,7 +717,7 @@
       "url": "https://open.spotify.com/track/4B627phrJTjROeaErneLIX"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "D\u00c9J\u00c0 VU",
         "url": "https://open.spotify.com/album/51Lv1yaioaaFJDGxtnCqUX"
@@ -497,7 +745,7 @@
       "url": "https://open.spotify.com/track/3FG22WHLoDNd8YGp9KFtdW"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Zabierz mnie",
         "url": "https://open.spotify.com/album/19bPzqMWFSK7hxCFKS0M3L"
@@ -513,7 +761,7 @@
       "url": "https://open.spotify.com/track/16k1g0MqV6bXtVNQsYlx6Y"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "SZLVG",
         "url": "https://open.spotify.com/album/6U1pBBwxNJ8q3fwp95vWnf"
@@ -529,7 +777,7 @@
       "url": "https://open.spotify.com/track/4a4nOhZIw7iTQCnOaRUtgV"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Pierwszy deszcz",
         "url": "https://open.spotify.com/album/4rVzbK7qZ0fZIDNc5ojKv3"
@@ -545,7 +793,7 @@
       "url": "https://open.spotify.com/track/7tLtH1Owq23cQK9aC5sAf8"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "kocia \u0142apka",
         "url": "https://open.spotify.com/album/5xCY5VqHrV5YWjqak1XbxH"
@@ -561,7 +809,7 @@
       "url": "https://open.spotify.com/track/4IBAolSlydVsReklU8uueo"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "NIE GRAMY POP",
         "url": "https://open.spotify.com/album/0ct5kxHUUXAharj6cRcd2K"
@@ -581,7 +829,7 @@
       "url": "https://open.spotify.com/track/3Ry07x5gKYgGbIBlWeHa3V"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "gubi\u0119 si\u0119 we mgle",
         "url": "https://open.spotify.com/album/2L0mb22tKaGJJtNJ1JwWq1"
@@ -597,7 +845,7 @@
       "url": "https://open.spotify.com/track/33znk8m4V1Rp0xkwGUq6LK"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Trigger",
         "url": "https://open.spotify.com/album/5lg9fFEBnUdRUDDDQrTyZV"
@@ -617,7 +865,7 @@
       "url": "https://open.spotify.com/track/0tynMSb7yQBYv9UzVssOpG"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "NA ZAWSZE",
         "url": "https://open.spotify.com/album/7iou9tXfIFuLWpeXY2HRjH"
@@ -641,7 +889,7 @@
       "url": "https://open.spotify.com/track/590Vti6N6j9IwZmZ3PVYSQ"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Upadek w tramwaju",
         "url": "https://open.spotify.com/album/05jbfR5sWeOF7pd3ukrXmL"
@@ -657,7 +905,7 @@
       "url": "https://open.spotify.com/track/4XXW0DT0rtE52T2Sa8iA8M"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "DO SZUFLADY",
         "url": "https://open.spotify.com/album/44qN8PxZD5Y58p1oH3a7i9"
@@ -681,7 +929,7 @@
       "url": "https://open.spotify.com/track/1Tpu6LNZ9tor7grIDsLFhN"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Wszystkie",
         "url": "https://open.spotify.com/album/0wtgUcwtLQDsv5kb3zCqvr"
@@ -697,7 +945,7 @@
       "url": "https://open.spotify.com/track/2UGdMCirQ9hItY0CKuyuz1"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "KWASY I ZASADY",
         "url": "https://open.spotify.com/album/6ughVI7Y22aTXe64Cs9Mt7"
@@ -737,7 +985,7 @@
       "url": "https://open.spotify.com/track/7fE4hkkFKZtg0V9KQeKxHm"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Plakaty",
         "url": "https://open.spotify.com/album/76YIbMBFaOqGlAdtgY59Jl"
@@ -753,7 +1001,7 @@
       "url": "https://open.spotify.com/track/3kf3p7Fv0VzKbrx0Jv2OUI"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "nie pow\u00f3d do p\u0142aczu",
         "url": "https://open.spotify.com/album/3JOXWqsgFd02CfFsb1yStE"
@@ -769,7 +1017,7 @@
       "url": "https://open.spotify.com/track/5G1CbgMRdTHi3rQTKMkGJS"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "20:02",
         "url": "https://open.spotify.com/album/4B2QccsQulP5Xv6H8wqPL3"
@@ -785,7 +1033,7 @@
       "url": "https://open.spotify.com/track/6rFGeVDhUAsCYFVxsnWc0p"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Blister Sn\u00f3w",
         "url": "https://open.spotify.com/album/4yaZDcZDTLESfmud1SIvPK"
@@ -801,27 +1049,7 @@
       "url": "https://open.spotify.com/track/07AiBcxsJ4v8o3DyooAMx2"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Komputer",
-        "url": "https://open.spotify.com/album/1NijWZSQUSe6YDBMGwAVze"
-      },
-      "artists": [
-        {
-          "name": "Franek Warzywa",
-          "url": "https://open.spotify.com/artist/4gh7DVwvptUXnKdHUpTsZ9"
-        },
-        {
-          "name": "M\u0142ody Budda",
-          "url": "https://open.spotify.com/artist/1ceZGV3Fa3QfceeyiSQA4c"
-        }
-      ],
-      "duration_ms": 184918,
-      "name": "Komputer",
-      "url": "https://open.spotify.com/track/27t5JZouhNcUqmr3xjGUCH"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Dom",
         "url": "https://open.spotify.com/album/4K9pcd77gqpI9r1JfdjXA2"
@@ -845,7 +1073,7 @@
       "url": "https://open.spotify.com/track/4LxO7DArnMYMl5LQn588aC"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "mistress",
         "url": "https://open.spotify.com/album/0X35doBbYXlVq1UoD95Uq3"
@@ -861,23 +1089,7 @@
       "url": "https://open.spotify.com/track/6UvoWjrZe6qMGnZCgefjpx"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Krucha",
-        "url": "https://open.spotify.com/album/19t6Tg7A3unmnxlfszI4JK"
-      },
-      "artists": [
-        {
-          "name": "Muska",
-          "url": "https://open.spotify.com/artist/6se1RcLDbidQVxQzrJcRHa"
-        }
-      ],
-      "duration_ms": 226937,
-      "name": "Krucha",
-      "url": "https://open.spotify.com/track/2NWNVXGfwTyehoJGsMxhCZ"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Zabra\u0107 st\u0105d",
         "url": "https://open.spotify.com/album/7HoX1LYj2RCH9azsdpn6k5"
@@ -893,7 +1105,7 @@
       "url": "https://open.spotify.com/track/5XYKCTi7dr7eGzIreWWWMw"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "blokowiska",
         "url": "https://open.spotify.com/album/2nOIjjbgDjziQ5fzYsxAEy"
@@ -909,7 +1121,7 @@
       "url": "https://open.spotify.com/track/03Mok6f5NvRhv6cmPsytT8"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Yeah",
         "url": "https://open.spotify.com/album/2RhSGQtZ9R6rgeFJC9h5ng"
@@ -925,7 +1137,7 @@
       "url": "https://open.spotify.com/track/6HVVG86uzOUqYvGLfuublh"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Na wietrze",
         "url": "https://open.spotify.com/album/692KCxppjugwBMSGYF4mt7"
@@ -941,7 +1153,7 @@
       "url": "https://open.spotify.com/track/6d42fXWiQntxazmr5ib3An"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Znikn\u0119 za Moment",
         "url": "https://open.spotify.com/album/21EvJAaXHYFpHstOQ7DzCc"
@@ -957,7 +1169,7 @@
       "url": "https://open.spotify.com/track/41JoZCviFpOAaqdsfMDzmy"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Anemoia",
         "url": "https://open.spotify.com/album/2jKbHnP9WtPCgCzUZWuXH4"
@@ -977,23 +1189,7 @@
       "url": "https://open.spotify.com/track/4KJBnt43L6Z043yVHrKOt4"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Odejd\u017a",
-        "url": "https://open.spotify.com/album/3EndGKIx0hWIopc81sgoAW"
-      },
-      "artists": [
-        {
-          "name": "Szara Godzina",
-          "url": "https://open.spotify.com/artist/1TcX5otaPv4ZOuXNzZedBy"
-        }
-      ],
-      "duration_ms": 242812,
-      "name": "Odejd\u017a",
-      "url": "https://open.spotify.com/track/1Zm1kxbS6EIGWZLAYfn5fM"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Ciep\u0142o",
         "url": "https://open.spotify.com/album/6sBxn5wMaF2EOdARKEUsBu"
@@ -1009,7 +1205,7 @@
       "url": "https://open.spotify.com/track/47o90rAXNQCFVZYTTQeXOn"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Ha\u0142as",
         "url": "https://open.spotify.com/album/1P6MmfL3ZPiTGdi3Gdl4Pw"
@@ -1025,7 +1221,7 @@
       "url": "https://open.spotify.com/track/233SVV7ZuLrSrmRZJkG2ku"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Kr\u00f3tko o Przyja\u017ani",
         "url": "https://open.spotify.com/album/0VnC2HRvNpVzQpiFPSGRsX"
@@ -1041,7 +1237,7 @@
       "url": "https://open.spotify.com/track/1IF4v2VqSs0ePArxydp9NN"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "TRAF",
         "url": "https://open.spotify.com/album/7gHDeIztXB6CO7nZfiqroH"
@@ -1061,7 +1257,7 @@
       "url": "https://open.spotify.com/track/2051wPU1XHF1raPwaPXjHb"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Spirala",
         "url": "https://open.spotify.com/album/0PZW8vZcb0xX1J0Pl4ZHkX"
@@ -1077,7 +1273,7 @@
       "url": "https://open.spotify.com/track/1fJe9HapTi5K1wDpBBP2Jd"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Taterki",
         "url": "https://open.spotify.com/album/7aZZZdj8B2gTlu1XhjJxfR"
@@ -1093,7 +1289,7 @@
       "url": "https://open.spotify.com/track/69WKCGnVxHdWpJv2nq6vVf"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Mantra",
         "url": "https://open.spotify.com/album/3gVC7OTcJxCMCGOjPcZ37A"
@@ -1113,7 +1309,7 @@
       "url": "https://open.spotify.com/track/37Pdhc0ezoIgHIuYijaa62"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "NIE NAPRAWIAJ",
         "url": "https://open.spotify.com/album/1B9U8rfDVb3TrdurL0aiM1"
@@ -1129,27 +1325,7 @@
       "url": "https://open.spotify.com/track/7kwDVk9gBPOKeAQ2edECJq"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "MAINSTREAM",
-        "url": "https://open.spotify.com/album/4NV4J2EvoacPJmK2lKYt8B"
-      },
-      "artists": [
-        {
-          "name": "natan",
-          "url": "https://open.spotify.com/artist/30GHHvNrPb2HB7IeBq5gOB"
-        },
-        {
-          "name": "D\u0142ugi",
-          "url": "https://open.spotify.com/artist/4cPTT5u4N5zXBfdqTg2QaT"
-        }
-      ],
-      "duration_ms": 175127,
-      "name": "MAINSTREAM",
-      "url": "https://open.spotify.com/track/1Ocj61aaPjFuLt2n0G5cMF"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "KILOMETRY?",
         "url": "https://open.spotify.com/album/5yztRUOWlBOtDlB6XesUUi"
@@ -1165,7 +1341,7 @@
       "url": "https://open.spotify.com/track/7iizM49ZZ5yw2DtOCZv5UG"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Nigdy / Pier\u015bcie\u0144",
         "url": "https://open.spotify.com/album/3UHHXus06z4u0cH3WlDFT9"
@@ -1181,7 +1357,7 @@
       "url": "https://open.spotify.com/track/0dcLGpw8wvFW0IzzqAwFqs"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "S\u0142odkie Nadzieje",
         "url": "https://open.spotify.com/album/3HuUHSk17zav34XYcTXKOT"
@@ -1197,27 +1373,7 @@
       "url": "https://open.spotify.com/track/7LpIsy2WeauGoTLPggf41I"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Przyb\u0142\u0119da",
-        "url": "https://open.spotify.com/album/551LMM6lVknEpUJIfmFgpd"
-      },
-      "artists": [
-        {
-          "name": "Piki",
-          "url": "https://open.spotify.com/artist/3CukXc3pLt09tA6ZIgM4KT"
-        },
-        {
-          "name": "Bizzlie",
-          "url": "https://open.spotify.com/artist/36sQjpAh008yAAIYf7ViL2"
-        }
-      ],
-      "duration_ms": 158896,
-      "name": "Przyb\u0142\u0119da",
-      "url": "https://open.spotify.com/track/5M8gPPUm8ovNnnk6oJCCvi"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "French Lullaby",
         "url": "https://open.spotify.com/album/3fjn6ukKT1uIlubqcbdjER"
@@ -1233,39 +1389,7 @@
       "url": "https://open.spotify.com/track/2lxNfy8qXfAqXpMta3N30C"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Bajki",
-        "url": "https://open.spotify.com/album/191CwX8dThGvBFRXFlY6ZX"
-      },
-      "artists": [
-        {
-          "name": "Zale\u015b",
-          "url": "https://open.spotify.com/artist/3IQIVYEmRr7wZnEqpSjfV5"
-        }
-      ],
-      "duration_ms": 150545,
-      "name": "Bajki",
-      "url": "https://open.spotify.com/track/56rVZTJCTb9XikeQBvD3qb"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Zawsze",
-        "url": "https://open.spotify.com/album/62HyUzf6TZMeoIw9gvUujk"
-      },
-      "artists": [
-        {
-          "name": "Jeszcze",
-          "url": "https://open.spotify.com/artist/549OGFxLtnM7L2tu5QYAeb"
-        }
-      ],
-      "duration_ms": 216940,
-      "name": "Zawsze",
-      "url": "https://open.spotify.com/track/6aJdytQp9L1WbBA2u1dgfU"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Offline",
         "url": "https://open.spotify.com/album/1bFcyGTOZuBXEfFx8GIIXJ"
@@ -1281,23 +1405,7 @@
       "url": "https://open.spotify.com/track/5D7xXXaE8k2AwVB0PjJLXZ"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Puls",
-        "url": "https://open.spotify.com/album/0oG2oJx3bBjuSTDK34Ft7C"
-      },
-      "artists": [
-        {
-          "name": "Vincent",
-          "url": "https://open.spotify.com/artist/43dVSEV7mQfhBINR9Lx6f0"
-        }
-      ],
-      "duration_ms": 234264,
-      "name": "Puls",
-      "url": "https://open.spotify.com/track/3vqv92Napy34NlYqst3Nr5"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "To nie to",
         "url": "https://open.spotify.com/album/2n1JveGP79QfByhC390lVo"
@@ -1313,7 +1421,7 @@
       "url": "https://open.spotify.com/track/0RSXAKiui7yPlpBPvx1Y03"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "2057",
         "url": "https://open.spotify.com/album/4j10IH6428AuYPjgT6Fh2L"
@@ -1337,7 +1445,7 @@
       "url": "https://open.spotify.com/track/3zRBo4xjkdeIaEGjv0OUOL"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Deszcz",
         "url": "https://open.spotify.com/album/3jN4WffLE6fCHpYX8A9V2Y"
@@ -1357,27 +1465,7 @@
       "url": "https://open.spotify.com/track/2aOnG9OTQ8nrcF7coCfLiz"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "W pe\u0142ni",
-        "url": "https://open.spotify.com/album/0czOvIURqjjsuM1uLCYQkx"
-      },
-      "artists": [
-        {
-          "name": "RANNE PTASZKI",
-          "url": "https://open.spotify.com/artist/7kaPd6OZrQsv5n4ExxgAGR"
-        },
-        {
-          "name": "Anna Bratek",
-          "url": "https://open.spotify.com/artist/6JXl6ckxr1oBSfLTehJlM7"
-        }
-      ],
-      "duration_ms": 193901,
-      "name": "O\u015a\u0106",
-      "url": "https://open.spotify.com/track/40l3qYUnOt0BUzUN4LLkog"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Sam",
         "url": "https://open.spotify.com/album/6m928vE3A4rfsNSBgFpFKt"
@@ -1393,7 +1481,7 @@
       "url": "https://open.spotify.com/track/2RV7LSjq6wWMIBQZCE5BDj"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "P\u0142uca",
         "url": "https://open.spotify.com/album/5gdh3gkdSKfReSsjQAf1q2"
@@ -1409,7 +1497,7 @@
       "url": "https://open.spotify.com/track/4qviBaRClviz0Z4xaC5pcD"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Jakby co",
         "url": "https://open.spotify.com/album/5quIA757p71LD0Yh4klJhk"
@@ -1425,7 +1513,7 @@
       "url": "https://open.spotify.com/track/7AbqA3bPbI9FgsSXdY4US8"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "LoveSick",
         "url": "https://open.spotify.com/album/5kctCppRGiHDpg18hHSEiB"
@@ -1441,7 +1529,7 @@
       "url": "https://open.spotify.com/track/36owo8OeiTQP4iAleIln2O"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Days like shadows",
         "url": "https://open.spotify.com/album/74XIIET7469zk6RfhZSkj0"
@@ -1457,7 +1545,7 @@
       "url": "https://open.spotify.com/track/3inp8BDl4TdEdO9UtgIPIh"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Razem Osobno",
         "url": "https://open.spotify.com/album/5p3R189FMjc4djvFHF2ftK"
@@ -1473,7 +1561,7 @@
       "url": "https://open.spotify.com/track/3Im3zRyBhtHnaVnFTOOE7E"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "pisane wierszem",
         "url": "https://open.spotify.com/album/6ER8ix9tlmb0GKNXJXp0O2"
@@ -1489,7 +1577,7 @@
       "url": "https://open.spotify.com/track/5lfMSErFNbYZVW1GDMnVd8"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Rezonans",
         "url": "https://open.spotify.com/album/2hYPfjdJbEYFuORTRKNUGE"
@@ -1505,27 +1593,7 @@
       "url": "https://open.spotify.com/track/5jqKHppA6wEaXnH2V7Wa7Q"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "WULG",
-        "url": "https://open.spotify.com/album/14oRhvYEX5jDsIhd3GNvnJ"
-      },
-      "artists": [
-        {
-          "name": "$andro",
-          "url": "https://open.spotify.com/artist/3qgIvOMz1aQ5LoWDTKxfbA"
-        },
-        {
-          "name": "tundra",
-          "url": "https://open.spotify.com/artist/7nNm8FTTEUxgyROq42SshD"
-        }
-      ],
-      "duration_ms": 164571,
-      "name": "COMPTON",
-      "url": "https://open.spotify.com/track/2kFwYrkGVX3sVsQmceIws1"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Stany L\u0119kowe",
         "url": "https://open.spotify.com/album/6N6PSuELclPu7jw4FrZcOf"
@@ -1541,23 +1609,7 @@
       "url": "https://open.spotify.com/track/5rdC017B16cX70nJYqTnQq"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "g\u0142o\u015bniej, g\u0142o\u015bniej",
-        "url": "https://open.spotify.com/album/1im3ysBO8jWWQlA7yRiLmW"
-      },
-      "artists": [
-        {
-          "name": "saemonkun",
-          "url": "https://open.spotify.com/artist/12xwmdYaS8K9Ue6AWKSvGW"
-        }
-      ],
-      "duration_ms": 146341,
-      "name": "g\u0142o\u015bniej, g\u0142o\u015bniej",
-      "url": "https://open.spotify.com/track/3kU64HbVePmO7OJrMz76iV"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Dzie\u0144 si\u0119 nie sko\u0144czy\u0142",
         "url": "https://open.spotify.com/album/0npAcjnK3C25TSI4H5tbOJ"
@@ -1573,7 +1625,7 @@
       "url": "https://open.spotify.com/track/7v2vBvjFl7DEbnlY4BneOI"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Ba\u0142em si\u0119 ciebie straci\u0107",
         "url": "https://open.spotify.com/album/1n7VgMc0nu5gQ8Dw0qcm0P"
@@ -1589,7 +1641,7 @@
       "url": "https://open.spotify.com/track/2LjmUY9bfDpOmkmJ36dbVz"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "ch\u0142opcy",
         "url": "https://open.spotify.com/album/0HyxlVOaa4Cf7KTSdDGzWN"
@@ -1605,7 +1657,7 @@
       "url": "https://open.spotify.com/track/4BupR2P5QwoQNudwGNz2f4"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Sawanna",
         "url": "https://open.spotify.com/album/5FEmoOobz8GebQDiU7Mqnc"
@@ -1621,7 +1673,7 @@
       "url": "https://open.spotify.com/track/6BcckZGngpzaBqDjtM5sQB"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "z oddali",
         "url": "https://open.spotify.com/album/37OhCoGiNsWIN7T1ZUG3c0"
@@ -1637,23 +1689,7 @@
       "url": "https://open.spotify.com/track/7nPokr41vihAePQQivHMsK"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Fala Mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/2HJhCVqaVzzN5GAtBKA8XW"
-      },
-      "artists": [
-        {
-          "name": "Anna Hnatowicz",
-          "url": "https://open.spotify.com/artist/5ALlUjvCOAnnJvSgiTDg6C"
-        }
-      ],
-      "duration_ms": 212750,
-      "name": "Fala Mi\u0142o\u015bci",
-      "url": "https://open.spotify.com/track/6iOUsAeqP6muX6lXJOFRmk"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Ptaki",
         "url": "https://open.spotify.com/album/0JhbEki76W53CPf4zpYE0z"
@@ -1669,55 +1705,7 @@
       "url": "https://open.spotify.com/track/0GcNfEeEy8CvIyjhqkOSPW"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Od Zera",
-        "url": "https://open.spotify.com/album/1mBjZNgDFBsHsfLd9w3uUo"
-      },
-      "artists": [
-        {
-          "name": "Karbid",
-          "url": "https://open.spotify.com/artist/69Tmta3dLLced5SbYhTg4l"
-        }
-      ],
-      "duration_ms": 148750,
-      "name": "Od Zera",
-      "url": "https://open.spotify.com/track/07oMhJSfmhNcBPdKJbQnZP"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "zabieram wszystko",
-        "url": "https://open.spotify.com/album/19lboLxs8l3F6iAZNEAxAK"
-      },
-      "artists": [
-        {
-          "name": "kuba i kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
-        }
-      ],
-      "duration_ms": 175048,
-      "name": "zabieram wszystko",
-      "url": "https://open.spotify.com/track/3bR4TVtzEadSDSvZ6Oqe3s"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
-      "album": {
-        "name": "Huragan",
-        "url": "https://open.spotify.com/album/6RKbjoNCfTH3hnooFrvEQj"
-      },
-      "artists": [
-        {
-          "name": "Adam Milaro",
-          "url": "https://open.spotify.com/artist/4dFCYNAIZxmlemYQy3APqt"
-        }
-      ],
-      "duration_ms": 170526,
-      "name": "Huragan",
-      "url": "https://open.spotify.com/track/46goxKyLA66qZwLdOIlUJy"
-    },
-    {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Paul's Eyes",
         "url": "https://open.spotify.com/album/6kMxCando5Ks6NYhQPWbJa"
@@ -1733,7 +1721,7 @@
       "url": "https://open.spotify.com/track/23rzRSBmdHGcVc86rHEzXG"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Nowy dzie\u0144",
         "url": "https://open.spotify.com/album/0N0IiVnQxHSBWwpluSCzYw"
@@ -1749,7 +1737,7 @@
       "url": "https://open.spotify.com/track/15JA3NLrjrvgtvEdM4940L"
     },
     {
-      "added_at": "2024-04-16 22:00:00",
+      "added_at": "2024-04-23 22:00:00",
       "album": {
         "name": "Serce",
         "url": "https://open.spotify.com/album/6G4thKvWshuKbTAyDMDjfn"

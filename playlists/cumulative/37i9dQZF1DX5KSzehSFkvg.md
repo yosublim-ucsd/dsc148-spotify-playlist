@@ -4,14 +4,14 @@
 
 > Les meilleurs hits Pop du Maghreb sont ici\. Cover: Kawtar
 
-111 songs - 6 hr 3 min
+112 songs - 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [00:00](https://open.spotify.com/track/6Cz19JJwGyVgvYS04kMdSi) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [00:00](https://open.spotify.com/album/6q25wvCcBnP7cpPxuZfyGD) | 3:58 | 2023-07-07 | 2024-01-05 |
 | [3lah 3lah](https://open.spotify.com/track/6mjWcrUhGtvPwAaRMN00e5) | [Mido Belahbib](https://open.spotify.com/artist/7jI8NXewNhX2JQjP6ycFGm) | [3lah 3lah](https://open.spotify.com/album/3lznrciIl9B3q553B3CiVw) | 3:02 | 2023-07-07 | 2024-04-08 |
 | [9AD BIA](https://open.spotify.com/track/5qV1jHWF80Pe3jQHHFzIol) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [9AD BIA](https://open.spotify.com/album/5OW9hrQBgVAB4oDBuDEJp1) | 2:46 | 2023-11-07 |  |
-| [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-07-07 |  |
+| [9SARA D LIL](https://open.spotify.com/track/6oYWJ2jG1gaRJcbaFUyDtb) | [MA3IZ](https://open.spotify.com/artist/6T4HJ0ayzxLWDbktdiBe3l) | [9SARA D LIL](https://open.spotify.com/album/2sHdewHBibMmkRCD1z30g9) | 3:09 | 2023-07-07 | 2024-04-24 |
 | [Abala Ya Bali](https://open.spotify.com/track/2a1dUbvOaZw7vrHNanpi3r) | [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ) | [Abala Ya Bali](https://open.spotify.com/album/50QN0SwbM2iAa5DylaLYN1) | 3:48 | 2023-07-07 |  |
 | [Ajini](https://open.spotify.com/track/2u2ZXCZLrm5lJcD8mi9GlG) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/5cKUuxhE06AI8Mc5NfjCKf) | 2:48 | 2023-07-07 | 2024-04-19 |
 | [Ajini](https://open.spotify.com/track/5YwpA9KqbnVq05XcP2m2I6) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Ajini](https://open.spotify.com/album/2FhuJD75gtB0BbSlrlvcvj) | 2:48 | 2024-04-17 |  |
@@ -69,6 +69,7 @@
 | [Lberra7](https://open.spotify.com/track/1d96Lyf6HTHDXTifQSYkqN) | [Mehdi Mozayine](https://open.spotify.com/artist/6oq0gQN2p7AYmdP1Rc1lDk) | [Lberra7](https://open.spotify.com/album/3RYCCI7kZ8UxGmul4sockq) | 3:16 | 2023-07-07 | 2023-08-06 |
 | [LEHMAM \- الحمام](https://open.spotify.com/track/2t3xxs1AIrW9qKDte5JAVk) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [LEHMAM](https://open.spotify.com/album/1504ohugyt7GcqH1yz9dOn) | 2:41 | 2023-12-04 |  |
 | [Li Galou](https://open.spotify.com/track/5cT4iZk4zHjHWQV6isNQay) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Li Galou](https://open.spotify.com/album/03vy9llHAUx6NnE0P8TCOm) | 2:45 | 2023-12-21 |  |
+| [Lila](https://open.spotify.com/track/1m3cDD6KP3lBtAmuo8Vwk3) | [Asmae](https://open.spotify.com/artist/22axSYd0A2j0jpnlf6tkyg) | [Lila](https://open.spotify.com/album/4gpShOpLauvRTgYVGUXI3b) | 2:52 | 2024-04-24 |  |
 | [Lili Nhari](https://open.spotify.com/track/3ukdQfWkGzNZN3gxB2us7O) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Lili Nhari](https://open.spotify.com/album/51VovH7Hj6uBGJiR4WG4cz) | 3:08 | 2023-07-07 | 2024-03-10 |
 | [MA DENBI](https://open.spotify.com/track/447567rKGG5x3ZGHcIp2Cm) | [L7or](https://open.spotify.com/artist/5NIanI5i7BSxYhc7DKpGZr) | [MA DENBI](https://open.spotify.com/album/5JrL5ugsY0fkGmjeMlFnfh) | 3:11 | 2023-08-08 |  |
 | [Ma Houwa Jari](https://open.spotify.com/track/5Veho0QUWxN6rKnTK4DuxQ) | [Salma Rachid](https://open.spotify.com/artist/4pHZS56EczdBUlgPuUypUa) | [Ma Houwa Jari](https://open.spotify.com/album/6hY9L40UJ5E7hfY4f0nUlA) | 2:14 | 2023-07-07 | 2023-08-03 |

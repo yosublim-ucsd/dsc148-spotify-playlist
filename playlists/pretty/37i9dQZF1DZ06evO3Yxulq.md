@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 
 > This is Christine D'Clario\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,438 likes - 50 songs - 4 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,441 likes - 50 songs - 4 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 31 | [Dios De Maravillas](https://open.spotify.com/track/6JP6aiZrbthavbl8pd9oI7) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 8:33 |
 | 32 | [Magnifico](https://open.spotify.com/track/4TttGy09a1Cd8eeA8w57fQ) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:08 |
 | 33 | [Por la Eternidad](https://open.spotify.com/track/7vi7vdA2mYGC0vkD0bB14J) | [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Pura Sal](https://open.spotify.com/album/4VTKlmH5109WzN8ZRJSzdV) | 4:26 |
-| 34 | [En El Trono Está](https://open.spotify.com/track/1N4f82oSvIKZa0hlwpO7Qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:59 |
-| 35 | [Incontrolable Amor](https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:39 |
-| 36 | [Solo Tu](https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu..\. Lo Unico Que Quiero](https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP) | 3:39 |
+| 34 | [Solo Tu](https://open.spotify.com/track/2FpjyN25ntw5wRI0HHPTHs) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Solo Tu..\. Lo Unico Que Quiero](https://open.spotify.com/album/6B0oYyezYLKGtmhKhHOEwP) | 3:39 |
+| 35 | [En El Trono Está](https://open.spotify.com/track/1N4f82oSvIKZa0hlwpO7Qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:59 |
+| 36 | [Incontrolable Amor](https://open.spotify.com/track/3RmjJnvvUxSFor3G5x5yca) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:39 |
 | 37 | [El Shaddai \- Live](https://open.spotify.com/track/7nHFsC0S9EgcxneuxNxdpB) | [Gateway Worship Español](https://open.spotify.com/artist/6CyrlDkin8EyehBeKUxcSV), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Grande y Fiel \(Live\)](https://open.spotify.com/album/0TCN0IwS8kJ1qwgMu0tElH) | 5:35 |
 | 38 | [Tu Poder \(Creo en Ti\)](https://open.spotify.com/track/3sb13o5UC6YzcvNzOm5aaA) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Famous For \(I Believe\) \- Collection](https://open.spotify.com/album/1qIjL3BCQeXyXmy6fI8iQu) | 4:02 |
-| 39 | [Mi Padre Me Ama \[Adoración Espontánea\]](https://open.spotify.com/track/2olhLOVopC1RFSBJv96oTM) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 7:38 |
-| 40 | [Yahweh](https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:26 |
+| 39 | [Yahweh](https://open.spotify.com/track/3Z6y2MqkZQCcG6avCJ43qi) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Eterno \(Live\)](https://open.spotify.com/album/5qB9zWGB4uaihU7R7MGk4c) | 5:26 |
+| 40 | [Mi Padre Me Ama \[Adoración Espontánea\]](https://open.spotify.com/track/2olhLOVopC1RFSBJv96oTM) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Julio Melgar](https://open.spotify.com/artist/5O46r5EwzdUL8RR1aM6yU2) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 7:38 |
 | 41 | [Cristo Es Necesario](https://open.spotify.com/track/3Fms9XnObl83AVbVuxbgYm) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Jesus People](https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5) | 4:05 |
 | 42 | [El Gran Nombre del Señor](https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Hasta Poder Ver](https://open.spotify.com/album/38LDYEEGCyqAGzdrw8oqBz) | 4:29 |
 | 43 | [Seguirte](https://open.spotify.com/track/6X2bymkSxVkhegf4Ozhz0k) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Más Profundo](https://open.spotify.com/album/3obV9f1scCPMYqfOd64WIo) | 5:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Yxulq.md) - [plain]
 | 49 | [Me Rindo \(feat\. Karen Espinosa & Christine D'Clario\)](https://open.spotify.com/track/2qs43wB0Gts37Kg53TZAot) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Karen Espinosa](https://open.spotify.com/artist/6XNVOebbeiowkj9FJwvc7m), [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9) | [Venga Tu Reino](https://open.spotify.com/album/7HfjVzPW3EPDhbXA8jKPp4) | 7:33 |
 | 50 | [Por Amor](https://open.spotify.com/track/4y4yAraDdzVc1Wdk37xlsR) | [Christine D'Clario](https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv) | [Emanuel](https://open.spotify.com/album/6mNXg7SEzc56gbSEwmoK0Q) | 5:37 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGI1MzFlNTc2MmE4NzZhNDVmYzZmNGQwOWEzZWMyNzhl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDJmZjhjZTM0NTU4ZjRlYTIxMDEzNTY3MjhiMTNjY2E4`

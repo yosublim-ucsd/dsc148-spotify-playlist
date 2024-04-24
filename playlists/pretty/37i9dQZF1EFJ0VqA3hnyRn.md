@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293 likes - 250 songs - 14 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 295 likes - 250 songs - 14 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -190,8 +190,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 180 | [Misses Glass](https://open.spotify.com/track/5rbbfmGWjHI3XoG3Y9wiSA) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:41 |
 | 181 | [So Blue](https://open.spotify.com/track/1zvPwMSHBbqqrbUhRySxJH) | [Fantasia](https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1) | [The Definition Of...](https://open.spotify.com/album/3NnAB6jt5B0jjkZAuNddVo) | 4:23 |
 | 182 | [Broadway](https://open.spotify.com/track/1dUDMgtBlvKZODeSIqOjIA) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:57 |
-| 183 | [Pledge Of Allegiance \(feat\. Wiz Khalifa, Planet VI & B.O.B.\)](https://open.spotify.com/track/4bLK4Em3uqrVCG8eU3EzpM) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 4:30 |
-| 184 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
+| 183 | [On The Side](https://open.spotify.com/track/0vlKJXqCvW05Hb2efMix80) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [COMING HOME](https://open.spotify.com/album/7Ic1aiLXMmyyi0cVkk04aS) | 3:03 |
+| 184 | [Pledge Of Allegiance \(feat\. Wiz Khalifa, Planet VI & B.O.B.\)](https://open.spotify.com/track/4bLK4Em3uqrVCG8eU3EzpM) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Planet Vi](https://open.spotify.com/artist/4agw08n3c2hO48lNfaxJrt), [B.o.B](https://open.spotify.com/artist/5ndkK3dpZLKtBklKjxNQwT), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) | [Quality Street Music](https://open.spotify.com/album/7jjLwWQEYdRVChaNXX4EXm) | 4:30 |
 | 185 | [Over](https://open.spotify.com/track/78FHi3kc3BbaCXIjyti0vX) | [Jimmy Eat World](https://open.spotify.com/artist/3Ayl7mCk0nScecqOzvNp6s) | [Stay On My Side Tonight](https://open.spotify.com/album/09fHkrgGyzKYau7SuWsZbj) | 3:46 |
 | 186 | [Like This](https://open.spotify.com/track/1MfU6mWCehJGaTI0dvW5Kx) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 2:50 |
 | 187 | [Again](https://open.spotify.com/track/2Lz435VjV3fHJXcw2J3qzR) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:54 |
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 249 | [Badonthebeat](https://open.spotify.com/track/6CjgPFN7Y2Sly314epQUSi) | [Malibu Babie](https://open.spotify.com/artist/30BzssruVp26rt8bIe6LcZ) | [Malibu Babie SZN: Vol I](https://open.spotify.com/album/0baOUkjYE0kLhwWaGwdu78) | 2:24 |
 | 250 | [Closer](https://open.spotify.com/track/4Lar2nRAUCSGFNbw7995gi) | [Jah Patriot](https://open.spotify.com/artist/4W5RKsjBgeGJk5JgikxmZn) | [Blind Justice](https://open.spotify.com/album/5v24HOnEY07CArXQReEC84) | 3:56 |
 
-Snapshot ID: `Mjg1NjM5ODAsMDAwMDAwMDBmMzIzZDNmMzNmMWE5NjYwMTBiZjIyMTJmZWM4YjkzMw==`
+Snapshot ID: `Mjg1NjYzODAsMDAwMDAwMDA4ODEzNTFjZWI3ODg3YjJlZDY1YmMwZjIzY2VkZDA1MA==`

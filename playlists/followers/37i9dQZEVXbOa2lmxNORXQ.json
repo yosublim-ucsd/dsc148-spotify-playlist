@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 820428,
+  "2024-04-24": 819570,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Colombia.",
   "name": "Top 50 - Colombia",
@@ -4523,7 +4523,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 214120,
       "name": "Dile a Tu Amiga",
       "url": "https://open.spotify.com/track/3u2jlo9kygiIAq7SPVuw6S"
@@ -5013,7 +5013,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-19",
+      "date_removed": null,
       "duration_ms": 165848,
       "name": "EL AMOR DE SU VIDA",
       "url": "https://open.spotify.com/track/0O3U5iwTbiXCREMkvotJuN"
@@ -15767,7 +15767,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 234103,
       "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
       "url": "https://open.spotify.com/track/41XmmKJHx1ZAH0Iykgjxfx"
@@ -16031,6 +16031,32 @@
       "duration_ms": 141031,
       "name": "Rewind",
       "url": "https://open.spotify.com/track/7nFIZVAJEYbwbB5nbzkoka"
+    },
+    {
+      "album": {
+        "name": "Ride Or Die, Pt. 2",
+        "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158728,
+      "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
+      "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
     },
     {
       "album": {

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 ### [This Is Fernanda Brum](https://open.spotify.com/playlist/37i9dQZF1DZ06evO04d0Xi)
 
-> This is Fernanda Brum\. The essential tracks, all in one playlist.
+> This is Fernanda Brum\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,897 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,849 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 11 | [Quebrantado Coração](https://open.spotify.com/track/0DUJZXdp0XGbRafeTKA3TJ) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Quebrantado Coração](https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU) | 3:22 |
 | 12 | [Cura\-me](https://open.spotify.com/track/7BS9guU5q1fzQX1ZQUTYto) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 5:10 |
 | 13 | [Yeshua \(Ao Vivo\)](https://open.spotify.com/track/6v81JSXJisSLcxoRNJiW6n) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 6:06 |
-| 14 | [Em tua Presença](https://open.spotify.com/track/4CLyiUczxtE9eHVwpZPIIR) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 6:41 |
-| 15 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
-| 16 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
+| 14 | [O Amor Que Cura \- Ao Vivo](https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [O Amor Que Cura \(Ao Vivo\)](https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB) | 4:21 |
+| 15 | [Em tua Presença](https://open.spotify.com/track/4CLyiUczxtE9eHVwpZPIIR) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Apenas um Toque](https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel) | 6:41 |
+| 16 | [Aos Teus Pés](https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Profetizando às Nações](https://open.spotify.com/album/7KI7DRHKZjdoWvHhP39j3T) | 3:32 |
 | 17 | [Coração que Sangra](https://open.spotify.com/track/41AZy4CW6HyXc3eBG3S16J) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Cura\-me](https://open.spotify.com/album/63of1PwXSdXGg8V5JZkJt3) | 4:23 |
 | 18 | [Suas Digitais](https://open.spotify.com/track/0IRSfwWSF4uQiYe6cxQWsV) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Da Eternidade](https://open.spotify.com/album/0Djnza7Nqw27F8YqJL0R64) | 4:50 |
 | 19 | [Toca\-me \(Ao Vivo\)](https://open.spotify.com/track/2QGt42CpPjWz3YBgArrhXD) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t) | [Onde o Fogo Não Apaga \(Ao Vivo\)](https://open.spotify.com/album/7kBqgrErxLl6crYHNwauFY) | 3:51 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 50 | [Orai Por Todas As Crianças \- Ao Vivo](https://open.spotify.com/track/1rnfBA2xLScmsTYruJWLEI) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Orai Por Todas As Crianças \(Ao Vivo\)](https://open.spotify.com/album/6lQNpiPsw8SbRGdU3odT2F) | 4:53 |
 | 51 | [És Real pra Mim](https://open.spotify.com/track/2hsERnD409nL9T06rhZC01) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [És Real Pra Mim](https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A) | 5:34 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDFmZDY3M2RiNWE0NGE4Y2FiZGE5YmU4OThiYWE1Yzhk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDIxMDViYzQ2YmY0ZmQwN2RkNjBkZjk5ZTkzY2Q0Zjlj`

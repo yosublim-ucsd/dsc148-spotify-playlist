@@ -4,7 +4,7 @@
 
 > This is Lefty Sm\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 51 min
+60 songs - 3 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Por Mi México \(Remix\)](https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Por Mi México \(Remix\)](https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko) | 6:45 | 2023-09-15 |  |
 | [Por última vez](https://open.spotify.com/track/6VhuzwPcmQ6p4BOJLb7HNC) | [AMBKOR](https://open.spotify.com/artist/5iQNy7hQGe1suvNOQz19Jz), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Danny Killah](https://open.spotify.com/artist/5e2Q3YFRDbCgsnYb3oTtjv) | [Por última vez](https://open.spotify.com/album/1kzGbJRrPiymRzNuMCrLox) | 3:51 | 2023-12-26 | 2024-02-11 |
 | [Quien Te Viera](https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Avion de Papel](https://open.spotify.com/album/0evS315cwdXX3oCPw5lRD9) | 3:14 | 2023-09-15 |  |
+| [Qué Agusticidad](https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Agusticidad](https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs) | 4:20 | 2024-04-24 |  |
 | [Qué Bonita](https://open.spotify.com/track/6sKHf7XZWBHQlShNLNm73F) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf) | [Qué Bonita](https://open.spotify.com/album/3YwzuRRgvGIUKxNbbB2xP8) | 3:50 | 2023-09-15 |  |
 | [Se Fue](https://open.spotify.com/track/73MIYL9Qh0aRzCIc1uWM9g) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Necesidad](https://open.spotify.com/album/7iSPRgLrTrRr7Ed5W2tws6) | 3:09 | 2023-09-15 |  |
 | [Sientelo](https://open.spotify.com/track/5Ob6YvBxWniRR0VpA6YGVs) | [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [McKlopedia](https://open.spotify.com/artist/1PNgAcUW6UgN59okEaTpvG), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Sientelo](https://open.spotify.com/album/4Kt1eEq16A5mDqK68DkeKc) | 3:08 | 2023-09-15 |  |

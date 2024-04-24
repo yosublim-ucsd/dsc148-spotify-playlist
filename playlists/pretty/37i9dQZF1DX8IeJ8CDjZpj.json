@@ -1,6 +1,6 @@
 {
   "description": "bien inventadas \ud83d\udc85\ud83c\udffc\u2728",
-  "num_followers": 13969,
+  "num_followers": 13967,
   "original_name": "manicure",
   "owner": {
     "name": "Spotify",
@@ -435,26 +435,22 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "An Evening With Silk Sonic",
-        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
+        "name": "Pa' Luego Es Tarde",
+        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
       },
       "artists": [
         {
-          "name": "Bruno Mars",
-          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+          "name": "Yuridia",
+          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
         },
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Silk Sonic",
-          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 242096,
-      "name": "Leave The Door Open",
-      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
+      "duration_ms": 152923,
+      "name": "Qu\u00e9 Agon\u00eda",
+      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -479,22 +475,26 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "Pa' Luego Es Tarde",
-        "url": "https://open.spotify.com/album/4l8OrF24fhXsCFF6wvP5fE"
+        "name": "An Evening With Silk Sonic",
+        "url": "https://open.spotify.com/album/1YgekJJTEueWDaMr7BYqPk"
       },
       "artists": [
         {
-          "name": "Yuridia",
-          "url": "https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2"
+          "name": "Bruno Mars",
+          "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
         },
         {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Silk Sonic",
+          "url": "https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr"
         }
       ],
-      "duration_ms": 152923,
-      "name": "Qu\u00e9 Agon\u00eda",
-      "url": "https://open.spotify.com/track/4H6o1bxKRGzmsE0vzo968m"
+      "duration_ms": 242096,
+      "name": "Leave The Door Open",
+      "url": "https://open.spotify.com/track/02VBYrHfVwfEWXk5DXyf0T"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1039,6 +1039,22 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
+        "name": "Envolver",
+        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
         "name": "Calidad",
         "url": "https://open.spotify.com/album/2ZaaYylAxHJ6sPJe9mHwHb"
       },
@@ -1055,22 +1071,6 @@
       "duration_ms": 170053,
       "name": "Calidad",
       "url": "https://open.spotify.com/track/0uBcoM4zxRXk7kmsmxoiFS"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
-        "name": "Envolver",
-        "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
-      },
-      "artists": [
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 193805,
-      "name": "Envolver",
-      "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
     },
     {
       "added_at": "2023-01-25 22:18:25",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2023-01-25 22:18:25",
       "album": {
-        "name": "La Triple T",
-        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
-      },
-      "artists": [
-        {
-          "name": "TINI",
-          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
-        }
-      ],
-      "duration_ms": 167674,
-      "name": "La Triple T",
-      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
-    },
-    {
-      "added_at": "2023-01-25 22:18:25",
-      "album": {
         "name": "Buen Pez",
         "url": "https://open.spotify.com/album/4M70tDygFtUlnlvmn5qLLV"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 193426,
       "name": "Somos Instantes",
       "url": "https://open.spotify.com/track/4eWC4PIRnCAiSo028OWh62"
+    },
+    {
+      "added_at": "2023-01-25 22:18:25",
+      "album": {
+        "name": "La Triple T",
+        "url": "https://open.spotify.com/album/3qawASs1sOKod3clkhZTvv"
+      },
+      "artists": [
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "duration_ms": 167674,
+      "name": "La Triple T",
+      "url": "https://open.spotify.com/track/7kYbxvrGXv8cmKjkqgqhrw"
     },
     {
       "added_at": "2023-01-25 22:18:25",

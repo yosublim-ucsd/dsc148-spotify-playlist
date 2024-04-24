@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 
 > Timeless Pakistani hits, all in one place\. Cover \- Junoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,915 likes - 70 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,951 likes - 70 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,10 +27,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 17 | [Sukoon](https://open.spotify.com/track/4mPZipDmUysKaLxZTDEVsx) | [Hassan & Roshaan](https://open.spotify.com/artist/5hjVqhHwLYWW9ZIxuILJF7), [Shae Gill](https://open.spotify.com/artist/3bWIy9AUrQdiNeS62Bp3OP) | [Sukoon](https://open.spotify.com/album/5T7svmheaHZxJEHTLP6BAB) | 4:15 |
 | 18 | [Woh Lamhe Woh Baatein](https://open.spotify.com/track/3pE3QvVrRLyno5TwEBDRFo) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Zeher \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5PsWxlYQv7GXgaoIJOFL13) | 5:20 |
 | 19 | [Ye Hai Meri Kahani](https://open.spotify.com/track/2pnsv8SitlsxKV02Y6t0ku) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Zinda](https://open.spotify.com/album/33C6QX82rrqLQxG3e4934M) | 5:16 |
-| 20 | [Khamaj](https://open.spotify.com/track/33yJbICPApS1o2lJi2w4Rq) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 6:55 |
-| 21 | [Na Kaho](https://open.spotify.com/track/70LGFBNHjfkL6Lo1ZIBjsI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:13 |
-| 22 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 |
-| 23 | [Chal Dil Merey](https://open.spotify.com/track/0szjMfMU0PYyM4LskP1nKj) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:19 |
+| 20 | [Na Kaho](https://open.spotify.com/track/70LGFBNHjfkL6Lo1ZIBjsI) | [Aaroh](https://open.spotify.com/artist/0FkdHz5RBdvLUTBf97WRSo) | [Sawaal](https://open.spotify.com/album/0fVgvrRb2zst9O7HiCYJOU) | 5:13 |
+| 21 | [Khamaj](https://open.spotify.com/track/33yJbICPApS1o2lJi2w4Rq) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 6:55 |
+| 22 | [Chal Dil Merey](https://open.spotify.com/track/0szjMfMU0PYyM4LskP1nKj) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:19 |
+| 23 | [Aicha](https://open.spotify.com/track/1cRuI7DN1z2FO3boRPmagR) | [Outlandish](https://open.spotify.com/artist/5tqMW5dSAlvh0GvgD3XfDy) | [Bread & Barrels Of Water](https://open.spotify.com/album/3cowfTrvTm7ZBJhBO0ZYPU) | 4:35 |
 | 24 | [Khwaab](https://open.spotify.com/track/2gVuB5FLzYU46N3CPmBRyN) | [Kashmir](https://open.spotify.com/artist/3BaXohQuxIv7oZGuHEBuLt) | [Khwaab](https://open.spotify.com/album/653VDLcUT6H1wGtxdEd8Bl) | 5:27 |
 | 25 | [Jal Pari](https://open.spotify.com/track/3O3txttHVdh3sNEDt2yANj) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:04 |
 | 26 | [Lamhay](https://open.spotify.com/track/2jU0vqjU22JCRXYLTcSrKs) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Aadat](https://open.spotify.com/album/5ANML1o1NBFwCzGaaeXdy5) | 5:24 |
@@ -38,15 +38,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ubeHYX0X34.md) - [plain]
 | 28 | [Bin Tere Kya Hai Jeena](https://open.spotify.com/track/5H37ud3obrc1uqRbpxIwJX) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Bol Tujhe Kya Chahiye](https://open.spotify.com/album/4pF6gcm1SuGxeu3Ds9JU8Q) | 4:41 |
 | 29 | [Sar Kiye Yeh Pahar](https://open.spotify.com/track/56TNm1b4adFgXLQrfSWv0L) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 5:43 |
 | 30 | [Udeekan](https://open.spotify.com/track/3CUS0yCQhElBR8YUZ0iPdv) | [Jawad Kahlown](https://open.spotify.com/artist/35Xt2FGKZR43L12BPHOm3M) | [Udeekan](https://open.spotify.com/album/5ffUfUw3ZecHmEYmzYaghP) | 4:39 |
-| 31 | [Bounce Billo](https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bounce Billo](https://open.spotify.com/album/1UduPCVI5EKnZhT4iKw5TS) | 4:07 |
-| 32 | [Kaho Ek Din](https://open.spotify.com/track/7usBgSnLH0yLUeSZAgSueF) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 4:30 |
+| 31 | [Kaho Ek Din](https://open.spotify.com/track/7usBgSnLH0yLUeSZAgSueF) | [Ahmed Jehanzeb](https://open.spotify.com/artist/5Vn3nku07sgnvFCS5Lw4wX) | [Parastish](https://open.spotify.com/album/0caOlEfxhjBHnOyuxf55AT) | 4:30 |
+| 32 | [Ankhon Ke Saagar](https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 5:43 |
 | 33 | [Saari Raat](https://open.spotify.com/track/3mYsmSJruBRGkaw0VGRqhJ) | [Noori](https://open.spotify.com/artist/2KRtcParcfvUYXcCAueULl), [Rohail Hyatt](https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl) | [Coke Studio Sessions: Season 2](https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu) | 7:24 |
 | 34 | [Parinda](https://open.spotify.com/track/4XtdI2a4MiB6Yk6MPwlSR4) | [Jal \-The Band](https://open.spotify.com/artist/3RVDaDaYaZH1Gem9iqOVs8) | [Parinda](https://open.spotify.com/album/5eWLyDcaKeUYnpcmsCM1Oq) | 4:21 |
-| 35 | [Ankhon Ke Saagar](https://open.spotify.com/track/3DnaAKpexBd35Jwdk63Go6) | [Fuzon](https://open.spotify.com/artist/2yE29no7fHNeyPRIIiwaJ4), [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Fuzon](https://open.spotify.com/album/2Rywbx5yGiaZfvwDilTSZS) | 5:43 |
+| 35 | [Bounce Billo](https://open.spotify.com/track/69hOb7pwui3mDVfe2OQPXi) | [Imran Khan](https://open.spotify.com/artist/24BYRlsS8uIO4jA71mJ4Js) | [Bounce Billo](https://open.spotify.com/album/1UduPCVI5EKnZhT4iKw5TS) | 4:07 |
 | 36 | [Najane Kyun](https://open.spotify.com/track/54i9EEnoUyvgTaKLeqYCU6) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Dhaani](https://open.spotify.com/album/1JV7W8JrdR7j6LRkAAk5cw) | 5:05 |
 | 37 | [Khaireyan De Naal](https://open.spotify.com/track/0WxdqHRbdQ1R83ZvZ0qerN) | [Shafqat Amanat Ali](https://open.spotify.com/artist/5SuRAj1A9FEHj5NxS86YAm) | [Tabeer](https://open.spotify.com/album/6zvlSsksjFjshGKJm3lJWD) | 4:36 |
-| 38 | [Dil Galti Kar Baitha Hai](https://open.spotify.com/track/1iIPI8CWallsW53fL9hwQh) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Dil Galti Kar Baitha Hai](https://open.spotify.com/album/7zFjoK3HLuXgS6eIQYhtcp) | 8:32 |
-| 39 | [Channo](https://open.spotify.com/track/7sVZyeg9O5aMaqikhAH0DM) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
+| 38 | [Channo](https://open.spotify.com/track/7sVZyeg9O5aMaqikhAH0DM) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Huqa Pani](https://open.spotify.com/album/4ccLUwsTaAt2fvVC75Copb) | 4:43 |
+| 39 | [Dil Galti Kar Baitha Hai](https://open.spotify.com/track/1iIPI8CWallsW53fL9hwQh) | [Nusrat Fateh Ali Khan](https://open.spotify.com/artist/5HcunTidTUrOaf8V0iJcvl) | [Dil Galti Kar Baitha Hai](https://open.spotify.com/album/7zFjoK3HLuXgS6eIQYhtcp) | 8:32 |
 | 40 | [Na Ra Na Re](https://open.spotify.com/track/38vz3gwpnZE3oB9uCiPuid) | [Ali Azmat](https://open.spotify.com/artist/38lgkItatcpCc0I9hV4nEr) | [Social Circus](https://open.spotify.com/album/4Nj2wbrQ8k2pzh4XQktP3K) | 5:41 |
 | 41 | [Mehndi](https://open.spotify.com/track/0hZezjFqU0H81Fq4UCYMv0) | [Jawad Ahmad](https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp) | [Jind Jan Sohniyie](https://open.spotify.com/album/4ZaLIwVcrgO7Cshf1rBkjh) | 5:35 |
 | 42 | [Anjane](https://open.spotify.com/track/57Dbp1AR7YQQUO2yuH9Chs) | [Strings](https://open.spotify.com/artist/2fizRsm6KDWZvysU00yZrX) | [Duur](https://open.spotify.com/album/5MDx3qMlEeLqvYeR1fNzg4) | 4:49 |

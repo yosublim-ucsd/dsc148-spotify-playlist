@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 295890,
+  "2024-04-24": 295934,
   "date_first_scraped": "2021-12-30",
   "description": "lowkey crying. ",
   "name": "sad instrumentals",
@@ -5499,6 +5499,24 @@
       "duration_ms": 189500,
       "name": "Sol 42",
       "url": "https://open.spotify.com/track/1JlqsLiK8l29lI1nvITHpz"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN"
+      },
+      "artists": [
+        {
+          "name": "Jerome Louis",
+          "url": "https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149883,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k"
     },
     {
       "album": {

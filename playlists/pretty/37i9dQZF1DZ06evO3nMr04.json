@@ -1,12 +1,12 @@
 {
   "description": "This is Kanye West. The essential tracks, all in one playlist.",
-  "num_followers": 1269957,
+  "num_followers": 1270511,
   "original_name": "This Is Kanye West",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDQxZGJmZGUwYzliMWRhYzNiOWM0ZWIwNWQyYzU3OTQ2",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGU5NzY0ZDlhMDQ2NWE1NzBkNTAwYzY5NzgyZWE1Yzk5",
   "tracks": [
     {
       "added_at": null,
@@ -759,30 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        },
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 178213,
-      "name": "Otis",
-      "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AT.LONG.LAST.A$AP",
         "url": "https://open.spotify.com/album/3arNdjotCvtiiLFfjKngMc"
       },
@@ -803,6 +779,30 @@
       "duration_ms": 323960,
       "name": "Jukebox Joints (feat. Joe Fox & Kanye West)",
       "url": "https://open.spotify.com/track/2gAGWaK4wvt2xrFUlR4mK8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        },
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 178213,
+      "name": "Otis",
+      "url": "https://open.spotify.com/track/14I61w6cyYUHiV2n28IYdP"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Man On The Moon II: The Legend Of Mr. Rager",
+        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
+      },
+      "artists": [
+        {
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 192253,
+      "name": "Erase Me - Main",
+      "url": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Watch The Throne",
         "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
       },
@@ -875,42 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Man On The Moon II: The Legend Of Mr. Rager",
-        "url": "https://open.spotify.com/album/08eM9GRdr5BCCHNqS3Wwud"
-      },
-      "artists": [
-        {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 192253,
-      "name": "Erase Me - Main",
-      "url": "https://open.spotify.com/track/6XkuklKiHYVTlVvWlTgQYP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 374413,
-      "name": "No More Parties In LA",
-      "url": "https://open.spotify.com/track/0zLClc0emc6qUeV1p5nc99"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/185Tm1g5U7eMOrm3m9SQUh"
       },
@@ -927,26 +911,6 @@
       "duration_ms": 127946,
       "name": "I Love It (& Lil Pump)",
       "url": "https://open.spotify.com/track/4S8d14HvHb70ImctNgVzQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Watch The Throne",
-        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
-      },
-      "artists": [
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        },
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 140746,
-      "name": "Gotta Have It",
-      "url": "https://open.spotify.com/track/2aqe2NgAwmMlPgtf1MnGoy"
     },
     {
       "added_at": null,
@@ -975,22 +939,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Life Of Pablo",
-        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
-      },
-      "artists": [
-        {
-          "name": "Kanye West",
-          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
-        }
-      ],
-      "duration_ms": 181573,
-      "name": "Waves",
-      "url": "https://open.spotify.com/track/3nAq2hCr1oWsIU54tS98pL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "JESUS IS KING",
         "url": "https://open.spotify.com/album/0FgZKfoU2Br5sHOfvZKTI9"
       },
@@ -1003,6 +951,42 @@
       "duration_ms": 203141,
       "name": "God Is",
       "url": "https://open.spotify.com/track/6xRWoYwfwIKnT8bQGzKbxR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Watch The Throne",
+        "url": "https://open.spotify.com/album/0OcMap99vLEeGkBCfCwRwS"
+      },
+      "artists": [
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 140746,
+      "name": "Gotta Have It",
+      "url": "https://open.spotify.com/track/2aqe2NgAwmMlPgtf1MnGoy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Life Of Pablo",
+        "url": "https://open.spotify.com/album/7gsWAHLeT0w7es6FofOXk1"
+      },
+      "artists": [
+        {
+          "name": "Kanye West",
+          "url": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
+        }
+      ],
+      "duration_ms": 372113,
+      "name": "Saint Pablo",
+      "url": "https://open.spotify.com/track/1o0kWPueYo94LIjPYOE5Nf"
     }
   ],
   "unique_name": "This Is Kanye West",

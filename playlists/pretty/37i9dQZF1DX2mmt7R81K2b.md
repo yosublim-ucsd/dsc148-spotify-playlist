@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 289,795 likes - 54 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 289,717 likes - 54 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 5 | [Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/track/2rgufOrTopmbEea9g0UJmR) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Félicien Brut](https://open.spotify.com/artist/0eDrryGufj7n7Jou377AGU), [Edgar Moreau](https://open.spotify.com/artist/4u14mki7TR1Ea0OmCkCZL0), [Edouard Macarez](https://open.spotify.com/artist/7uvOmP5c9TEmFoHmmpQ5BH) | [The Paris Album: Le Père Lachaise \- 24 Preludes, Op\. 28: No\. 4 in E Minor](https://open.spotify.com/album/4rPrVoTfSehLZmKYm9NLu8) | 4:36 |
 | 6 | [Passepied nouveau](https://open.spotify.com/track/0Ojn5HBy1lcILqz4m0Nj2h) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Monsieur Claude \(A Travel with Claude Debussy\)](https://open.spotify.com/album/1Eh0JcWtm36zjJaR276Rph) | 4:50 |
 | 7 | [Gymnopedie](https://open.spotify.com/track/6sw7RatlLS3neerVArXPKu) | [Adam Baldych](https://open.spotify.com/artist/6oiyvsyWed0CUGZvOKRXJE), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Passacaglia](https://open.spotify.com/album/0oclKCCHh2pgR5M5bolNST) | 3:42 |
-| 8 | [Lascia ch’io pianga](https://open.spotify.com/track/1mb90qwNLNgOTtGBwkTVi1) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Henrik Hallberg](https://open.spotify.com/artist/3pu695ZYqRFY0Gy1aZXdPE), [Vilhelm Bromander](https://open.spotify.com/artist/7Ji05Hs29f7TP7DctMkm1d), [Wille Alin](https://open.spotify.com/artist/1t4ttLG6j0jzMppEYnCGzg) | [Lascia ch’io pianga](https://open.spotify.com/album/1kDOPnnHOo6jKtRRMdvsd4) | 4:12 |
+| 8 | [Lascia ch’io pianga](https://open.spotify.com/track/1mb90qwNLNgOTtGBwkTVi1) | [Filip Jers](https://open.spotify.com/artist/6W86U8ofm64IaGxSTBvMtl), [Henrik Hallberg](https://open.spotify.com/artist/3pu695ZYqRFY0Gy1aZXdPE), [Wille Alin](https://open.spotify.com/artist/1t4ttLG6j0jzMppEYnCGzg) | [Lascia ch’io pianga](https://open.spotify.com/album/1kDOPnnHOo6jKtRRMdvsd4) | 4:12 |
 | 9 | [Prelude in E Minor](https://open.spotify.com/track/44ZIZqZyUSJciKQzKlGvZf) | [Shahin Novrasli](https://open.spotify.com/artist/1JeMulk2aODVLXA7qtiUS2) | [BAYATI](https://open.spotify.com/album/1IaXNjdDAOVD1Y1eXLP92c) | 6:42 |
 | 10 | [Arietta \- Based on Grieg's Lyrical Pieces, Op\. 12](https://open.spotify.com/track/5X9RBOhzBCfbNWTqevvuhp) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Morphing Chamber Orchestra](https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W) | [Arietta \(Based on Grieg's Lyrical Pieces, Op\. 12\)](https://open.spotify.com/album/40SKSPh1RyASTnFrK3KBQ5) | 3:43 |
 | 11 | [Pavane](https://open.spotify.com/track/1pASaPpC5gkDDQlcZi1QKi) | [Regina Carter](https://open.spotify.com/artist/3lWP7nrnwtWJFOANMDz0GJ) | [Paganini: After A Dream](https://open.spotify.com/album/5iW2cWp53rs2JDCW7lbXc2) | 5:24 |

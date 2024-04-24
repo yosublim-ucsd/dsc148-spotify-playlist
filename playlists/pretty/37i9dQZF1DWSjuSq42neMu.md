@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 
 > todo un mood.
 
-[Spotify](https://open.spotify.com/user/spotify) - 695,622 likes - 100 songs - 5 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 695,542 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSjuSq42neMu.md) - [plain]
 | 46 | [El Malo](https://open.spotify.com/track/144k7KOL7ZPopw7rTTzzXN) | [Eladio Carrion](https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [Sol María](https://open.spotify.com/album/2zE9RJSh5sMV0NJ8Oc8k5s) | 3:29 |
 | 47 | [Velitas](https://open.spotify.com/track/7q3NthaBqFI6s0WnAlnIvq) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Brytiago](https://open.spotify.com/artist/00XhexlJEXQstHimpZN910) | [Velitas](https://open.spotify.com/album/12jwb6dkXYHWYg2YXvNCuA) | 3:45 |
 | 48 | [7 Lágrimas \- Remix](https://open.spotify.com/track/3wlX0yg6NRMDPwOvdPmuLn) | [Soge Culebra](https://open.spotify.com/artist/2SNfNJDsahTSVFwgxposF5), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [GARABATTO](https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO) | [7 Lágrimas \(Remix\)](https://open.spotify.com/album/3SPDYewQ7iwqYuLVoDOTQl) | 3:22 |
-| 49 | [Hey Mor](https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hey Mor](https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l) | 3:16 |
-| 50 | [No Fue \- Remix](https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [No Fue \(feat\. Brray, Feid\) \[Remix\]](https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt) | 5:17 |
+| 49 | [No Fue \- Remix](https://open.spotify.com/track/3b2STpVG1wHiZJ7u6hvmoR) | [Leebrian](https://open.spotify.com/artist/40lro6xpFS9TxV2uC7yvs4), [Cauty](https://open.spotify.com/artist/2QUvtLq6oQaX0LNsYY2fas), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [No Fue \(feat\. Brray, Feid\) \[Remix\]](https://open.spotify.com/album/41KfceWx13z7stHEFrgPxt) | 5:17 |
+| 50 | [Hey Mor](https://open.spotify.com/track/6Rpbzk2LC8xWZI93RyodAq) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Hey Mor](https://open.spotify.com/album/53SdsnZVfcyFPRSwmFSg4l) | 3:16 |
 | 51 | [SIN MIRAR LAS SEÑALES](https://open.spotify.com/track/7fM24rKaYCTGf85Lj8U2pk) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Happy Birthday Flakko](https://open.spotify.com/album/5aQdVDQFVq43QFPPdSmUO4) | 3:00 |
 | 52 | [Algo Mágico](https://open.spotify.com/track/0zlnHTHiBQ68ZCAmTw5ozm) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Algo Mágico](https://open.spotify.com/album/3wsTXNRun4T7fhNoSAG0dP) | 4:21 |
 | 53 | [Dream Girl \- Remix](https://open.spotify.com/track/099tjv6oy2opbpCOA3nBwX) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Dream Girl \(Remix\)](https://open.spotify.com/album/0BeosbWOaMfZ5itwYQfw86) | 3:12 |

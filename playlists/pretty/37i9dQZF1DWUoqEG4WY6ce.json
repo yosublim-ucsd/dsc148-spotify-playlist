@@ -1,6 +1,6 @@
 {
   "description": "Hop in.",
-  "num_followers": 1071460,
+  "num_followers": 1071495,
   "original_name": "Indie Rock Road Trip",
   "owner": {
     "name": "Spotify",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 191800,
-      "name": "Howlin' for You",
-      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "An Awesome Wave",
         "url": "https://open.spotify.com/album/6k3vC8nep1BfqAIJ81L6OL"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 227080,
       "name": "Breezeblocks",
       "url": "https://open.spotify.com/track/3n69hLUdIsSa1WlRmjMZlW"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
+      },
+      "artists": [
+        {
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
+        }
+      ],
+      "duration_ms": 191800,
+      "name": "Howlin' for You",
+      "url": "https://open.spotify.com/track/0grFc6klR3hxoHLcgCYsF4"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "This Is All Yours",
+        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+      },
+      "artists": [
+        {
+          "name": "alt-J",
+          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+        }
+      ],
+      "duration_ms": 173630,
+      "name": "Left Hand Free",
+      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Fever To Tell (Deluxe Remastered)",
         "url": "https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 219986,
       "name": "Maps",
       "url": "https://open.spotify.com/track/0hDQV9X1Da5JrwhK8gu86p"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Is This It",
-        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
-      },
-      "artists": [
-        {
-          "name": "The Strokes",
-          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-        }
-      ],
-      "duration_ms": 183440,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "This Is All Yours",
-        "url": "https://open.spotify.com/album/4oktVvRuO1In9B7Hz0xm0a"
+        "name": "Is This It",
+        "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
       "artists": [
         {
-          "name": "alt-J",
-          "url": "https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5"
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 173630,
-      "name": "Left Hand Free",
-      "url": "https://open.spotify.com/track/4iEOVEULZRvmzYSZY2ViKN"
+      "duration_ms": 183440,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Sure Sure",
-        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 219260,
-      "name": "This Must Be The Place",
-      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "California",
         "url": "https://open.spotify.com/album/4rX32NbzVfD94VvckCyNjc"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 261773,
       "name": "California",
       "url": "https://open.spotify.com/track/35QAUfIbfIXT3p3cWhaKxZ"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Sure Sure",
+        "url": "https://open.spotify.com/album/7EfgATnOllXJ96s4sSdzei"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 219260,
+      "name": "This Must Be The Place",
+      "url": "https://open.spotify.com/track/6PuoZT4kgw5DrUEdnQ6e01"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "The Sunlandic Twins",
-        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
-      },
-      "artists": [
-        {
-          "name": "of Montreal",
-          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
-        }
-      ],
-      "duration_ms": 255613,
-      "name": "Wraith Pinned to the Mist and Other Games",
-      "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Vampire Weekend",
         "url": "https://open.spotify.com/album/5fedTyx7AnXeyxLL0giq6x"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 195733,
       "name": "Oxford Comma",
       "url": "https://open.spotify.com/track/1CZw0Lymzi2Lvy1XZ6rXh5"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "The Sunlandic Twins",
+        "url": "https://open.spotify.com/album/2h79iBNx5cNPafy42aI1NE"
+      },
+      "artists": [
+        {
+          "name": "of Montreal",
+          "url": "https://open.spotify.com/artist/5xeBMeW0YzWIXSVzAxhM8O"
+        }
+      ],
+      "duration_ms": 255613,
+      "name": "Wraith Pinned to the Mist and Other Games",
+      "url": "https://open.spotify.com/track/0Ensfv1iBDcsOF6xNok14N"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Funky Galileo",
-        "url": "https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU"
-      },
-      "artists": [
-        {
-          "name": "Sure Sure",
-          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
-        }
-      ],
-      "duration_ms": 246200,
-      "name": "Funky Galileo",
-      "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "It Still Moves",
         "url": "https://open.spotify.com/album/5vCqxfNSqatehjPustNq4s"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 279240,
       "name": "Golden",
       "url": "https://open.spotify.com/track/3kQDykkw9HVowlm3HxTcuR"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Funky Galileo",
+        "url": "https://open.spotify.com/album/4FpWPCgvF7mSQpDZGZgwSU"
+      },
+      "artists": [
+        {
+          "name": "Sure Sure",
+          "url": "https://open.spotify.com/artist/1anAI9P9iSzc9qzLv6AtHZ"
+        }
+      ],
+      "duration_ms": 246200,
+      "name": "Funky Galileo",
+      "url": "https://open.spotify.com/track/0TAHhMjG17P5pzlSm1sgSl"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "The Party",
+        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
+      },
+      "artists": [
+        {
+          "name": "Andy Shauf",
+          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
+        }
+      ],
+      "duration_ms": 231838,
+      "name": "The Magician",
+      "url": "https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Lucifer On The Sofa",
         "url": "https://open.spotify.com/album/1szMY4QqnQZgNuyLBC4jUQ"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 258053,
       "name": "Psycho Killer - Acoustic",
       "url": "https://open.spotify.com/track/5cE2nMYDgYj9gqG4KLafKy"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "The Party",
-        "url": "https://open.spotify.com/album/35FWLG8Ysjj1BF3sx4F6zM"
-      },
-      "artists": [
-        {
-          "name": "Andy Shauf",
-          "url": "https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx"
-        }
-      ],
-      "duration_ms": 231838,
-      "name": "The Magician",
-      "url": "https://open.spotify.com/track/3dsd09qrt34YuS6NPbQtYq"
     },
     {
       "added_at": "2024-03-08 05:00:00",

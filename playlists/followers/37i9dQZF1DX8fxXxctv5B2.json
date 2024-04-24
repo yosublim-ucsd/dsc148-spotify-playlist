@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 172507,
+  "2024-04-24": 172628,
   "date_first_scraped": "2024-01-04",
   "description": "Windows down, volume up. The soundtrack to your road trip.",
   "name": "Coastal Drive",
@@ -339,6 +339,24 @@
       "duration_ms": 229424,
       "name": "Both Of Us - Edit",
       "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
+    },
+    {
+      "album": {
+        "name": "Bull Breed",
+        "url": "https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "date_added": "2024-03-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172592,
+      "name": "Bull Breed",
+      "url": "https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz"
     },
     {
       "album": {
@@ -1037,7 +1055,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 210381,
       "name": "Letting Go",
       "url": "https://open.spotify.com/track/2XHznZZIWLkh7xO3WQAjpp"

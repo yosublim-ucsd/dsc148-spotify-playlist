@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 68912,
+  "2024-04-24": 68912,
   "date_first_scraped": "2022-05-26",
   "description": "Kick back and relax after a hard day.",
   "name": "Home at Last",
@@ -143,7 +143,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 213289,
       "name": "All I Want Is You",
       "url": "https://open.spotify.com/track/58MlT9VHTNGYtjNPR0vIWV"
@@ -1043,7 +1043,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 138531,
       "name": "Don't Slam That Door",
       "url": "https://open.spotify.com/track/0ofjPkzbOx37MmdpQUOS91"

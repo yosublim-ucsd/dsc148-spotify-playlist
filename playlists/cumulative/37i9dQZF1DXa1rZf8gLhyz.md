@@ -4,7 +4,7 @@
 
 > Let these calm Jazz tracks lull you to sleep.
 
-519 songs - 1 day 2 hr 45 min
+523 songs - 1 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Let's Fall in Love](https://open.spotify.com/track/61Wv9rlpZz27NHul5O6XN7) | [Christopher Colman](https://open.spotify.com/artist/1UxRQ4Luzf0P1b6zFjXk7N) | [Jazz Piano Before Midnight](https://open.spotify.com/album/6tC4AiQ7S9tz8bCrOmzfKo) | 2:03 | 2022-05-24 |  |
 | [Let's Get Lost](https://open.spotify.com/track/1pVoN50UlPa3dCPqs7iy5K) | [R\. Embers](https://open.spotify.com/artist/54QslGVRhkItg40ZHxYuXF) | [Let's Get Lost](https://open.spotify.com/album/7ggibGb8ifmCqBz6TcxSix) | 2:52 | 2023-08-10 |  |
 | [Let's Stay In](https://open.spotify.com/track/2ztch9UdIaDbUjnBkSLQMs) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [Let's Stay In](https://open.spotify.com/album/0cXnR7GcDwsAiPLohfXlhL) | 2:29 | 2024-01-19 |  |
+| [Lets Get Married](https://open.spotify.com/track/3E2srpzDuulZsmX7Xz73Rp) | [Trey Patton](https://open.spotify.com/artist/16YBPq22nB5oyX5exXWfSn) | [Lets Get Married](https://open.spotify.com/album/1ztQ1DjbQjO2WT1nOzBKl1) | 2:49 | 2024-04-23 |  |
 | [Lets Take a Walk](https://open.spotify.com/track/7GTo4vrT73miSdC7h2R4ED) | [Natalie Meir](https://open.spotify.com/artist/3olbeTBaHv78vZXeoDPq4B) | [Lets Take a Walk](https://open.spotify.com/album/2Rcfm9IDMmtvgJXFygfRR5) | 3:58 | 2024-03-08 | 2024-04-19 |
 | [Like Never Before](https://open.spotify.com/track/5Z7B6tRwYQj1h7dpk0LLw1) | [A Little Time](https://open.spotify.com/artist/3GjKdKhPY5KYrtJaWe6xfR) | [Like Never Before](https://open.spotify.com/album/0zsSxEUcSIkspa42rF7jxB) | 2:54 | 2023-12-15 |  |
 | [Like Someone in Love](https://open.spotify.com/track/7HfS1TFqIaAO044jhCmNAl) | [Louie Martin](https://open.spotify.com/artist/6V322191Co4lw7MgeQdcHu) | [Like Someone in Love](https://open.spotify.com/album/55LGBLAN5hoiDD4hGF0l0r) | 3:32 | 2021-12-07 |  |
@@ -340,6 +341,7 @@
 | [On The Street Where You Live](https://open.spotify.com/track/1dgYQO1Hui0E6lGe3F1hDw) | [Ben Hubert](https://open.spotify.com/artist/7mO22cSGmVX8WKUcfj1Evz) | [On The Street Where You Live](https://open.spotify.com/album/5UvGpwpS3tYpZHbiQlonNp) | 3:51 | 2022-05-17 |  |
 | [Once In A Serenade](https://open.spotify.com/track/6Ia3eru04MZCaWHSjXuf42) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Once In A Serenade](https://open.spotify.com/album/21tgArGIfB91eKUkndpfJG) | 2:57 | 2023-10-27 |  |
 | [Only Trust Your Heart](https://open.spotify.com/track/2hmtAFBGrjZLCYBWQd3IB8) | [Valentine Summers](https://open.spotify.com/artist/20rl2utHmZk0IPSLeyB7Fs) | [Only Trust Your Heart](https://open.spotify.com/album/5cd46VvhE6ChnEOOZZ1qta) | 2:22 | 2024-02-23 |  |
+| [Our Time](https://open.spotify.com/track/41AJ4gZHoL7JOpgUPXl4vr) | [Timothy Reisen](https://open.spotify.com/artist/4rJYlfkVsUwDk0iDUUBU01) | [Our Time](https://open.spotify.com/album/4uX4neguBj1gfq3xum5kSs) | 2:16 | 2024-04-23 |  |
 | [Out Of Nowhere](https://open.spotify.com/track/6CPmUmMMXvGombRcl8p5Iw) | [Rudy Winston](https://open.spotify.com/artist/0eg5Y6qtyXmuDqBqEHbJ6L) | [Out Of Nowhere](https://open.spotify.com/album/0cu8JtZHQDqNPT0zmnDh2w) | 2:39 | 2022-11-17 |  |
 | [Out of place](https://open.spotify.com/track/5GSCUe3Tygcx9JHJ6e7Qo3) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [All Alone](https://open.spotify.com/album/3mDYL1r2ixKn7U5r0EA2JJ) | 3:31 | 2021-12-07 |  |
 | [Over The Rainbow](https://open.spotify.com/track/3MQQzKoVtnpxGITOEP3Ri2) | [Dave Brubeck](https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E) | [Over The Rainbow](https://open.spotify.com/album/5ihwkvOEQsbRzF1gmUdPVe) | 3:00 | 2021-12-07 | 2022-06-22 |
@@ -368,6 +370,7 @@
 | [Rendezvous in Paris](https://open.spotify.com/track/6OIPUVNyFrn1kZ7GLVNweJ) | [Algot Aelster](https://open.spotify.com/artist/1CVWtR01ydG4BxbRKaAFEP) | [Rendezvous in Paris](https://open.spotify.com/album/5dcRy1998FNdT6ZVvk6G2D) | 2:40 | 2023-12-15 |  |
 | [Reserved Judgement](https://open.spotify.com/track/3PgyUOs2llfKGv2GCYqpKi) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [Reserved Judgement](https://open.spotify.com/album/6NP0tJZoYLoHIgWdZ4FyrV) | 2:56 | 2024-02-02 |  |
 | [Rest Well, My Good Friend](https://open.spotify.com/track/4qsQlYS060DvsApA2fSfS3) | [Angus Grove](https://open.spotify.com/artist/0E2uBetGBqdjRyv6I7PVVL) | [Rest Well, My Good Friend](https://open.spotify.com/album/2bdW0kSzUyL4ZV9AMOvWzi) | 2:41 | 2021-12-07 |  |
+| [Rightfully So](https://open.spotify.com/track/66cheTCbWkDCrnvP9mq7Tm) | [Lyn Ardbeg](https://open.spotify.com/artist/6cUNyotmONFDiZvl8LafA6) | [Rightfully So](https://open.spotify.com/album/7jNDelhR3clbMmscYliUZw) | 3:08 | 2024-04-23 |  |
 | [Ripples of a Stream](https://open.spotify.com/track/3EcrZOYXed9rQb9Y9SN8fX) | [Jacob Vidal](https://open.spotify.com/artist/5Y4PsWZn9dgQgZkVAT02sZ) | [Ripples of a Stream](https://open.spotify.com/album/05KhWBwxnPe8RuqjvEOFxy) | 2:01 | 2022-11-10 |  |
 | [Rosetta](https://open.spotify.com/track/3v9ZFIFthJgy27ypoPUaij) | [Carl Dwight](https://open.spotify.com/artist/3Vhd8Gg0oT6hpsl8bnxZ2Y) | [Rosetta](https://open.spotify.com/album/2Fhw8PxgpBbSEe8GNTzI3K) | 2:37 | 2023-08-10 |  |
 | [Round Midnight](https://open.spotify.com/track/48K9qO5shnoV2kjZi5n4aj) | [Stan Stead](https://open.spotify.com/artist/7AqhE9vlxr6U5KpdDP1PzD) | [Round Midnight](https://open.spotify.com/album/1U9wFo9e4BQz7JuYmjXkTo) | 3:50 | 2021-12-07 |  |
@@ -462,6 +465,7 @@
 | [The Snows Of Yesteryear](https://open.spotify.com/track/0LFIfcnLZ6WssHKueAMamD) | [Mannie Goldings](https://open.spotify.com/artist/4h6ReOsJCzpNJl0e2u7OTY) | [The Snows Of Yesteryear](https://open.spotify.com/album/02TPXPa9gHSSeKmDFAAjFu) | 3:03 | 2022-11-24 |  |
 | [The Songbird](https://open.spotify.com/track/6r0SpNHMhuuUcndaJZ9Zxy) | [Ferragno](https://open.spotify.com/artist/6V5Qb50Rc4RxLMVRgLyD2W) | [The Songbird](https://open.spotify.com/album/0ifVCB5Y3UiwEHjbUnM0xJ) | 2:42 | 2023-12-08 |  |
 | [The Stars Are Bright](https://open.spotify.com/track/1h6f4tjOYIGKZ3dVs1DBcs) | [Alfredo Evans](https://open.spotify.com/artist/6E0oDTO8ChQDFTsHLuUlNL) | [The Stars Are Bright](https://open.spotify.com/album/141eACqjInBXxRwguRT1bS) | 4:01 | 2021-12-07 | 2022-10-14 |
+| [The Time Is Now](https://open.spotify.com/track/4M3bao5cXJ0dlMX42gWt1m) | [Portiere Woodtar](https://open.spotify.com/artist/3MNxyFDnHn81hQcpwsJlAb) | [The Time Is Now](https://open.spotify.com/album/3IhrTBiy2hu1lxLvJXyqAr) | 3:11 | 2024-04-23 |  |
 | [The Very Thought Of You](https://open.spotify.com/track/6WftZxUaexfjtZROMHVA3A) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Very Thought Of You](https://open.spotify.com/album/6U1S5nCoyqBTuHgdHpK71C) | 4:39 | 2022-11-10 |  |
 | [The Way It's Supposed To Be](https://open.spotify.com/track/0f1olNUWqtcYBuUv141TBG) | [Hamilton Jones](https://open.spotify.com/artist/77WfIGS6cIrZqtz5kUdOLo) | [The Way It's Supposed To Be](https://open.spotify.com/album/0U5RLGTDGtSgj3Pn3p5eAk) | 3:20 | 2023-11-17 |  |
 | [The Way You Look Tonight](https://open.spotify.com/track/3j2pCB15qVRN5O78T2kTmV) | [Elvine Harley](https://open.spotify.com/artist/3pbfHgFHAngmFcmZeeIDPY) | [The Way You Look Tonight](https://open.spotify.com/album/4ICm9ovrQ3ytWtCDq6oU8L) | 3:46 | 2021-12-07 |  |

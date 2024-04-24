@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 
 ### [This Is Tassia Reis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07FLl7)
 
-> This is Tassia Reis\. The essential tracks, all in one playlist.
+> This is Tassia Reis\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,843 likes - 49 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,845 likes - 49 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 15 | [Bem Longe do Fim](https://open.spotify.com/track/2j3dKkYkaknKhACoUxlPMs) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Bem Longe do Fim](https://open.spotify.com/album/1Q8a40uNxsPxfKOizRyTcH) | 3:33 |
 | 16 | [Dentro Ali \- Remix](https://open.spotify.com/track/3MrkTaAmIoSmdFN7OXGWY1) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Mundo \(Remix\)](https://open.spotify.com/album/2b01sgh392nbjoeQSgKydA) | 5:40 |
 | 17 | [Girl from Bahia](https://open.spotify.com/track/5iLPuAregh2acj2I2rrWOF) | [Jevon](https://open.spotify.com/artist/1cwNKCIuq12wLqAAsC1Zyi), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Girl from Bahia](https://open.spotify.com/album/3NRwcRgNBM5gtT6LM9BAON) | 3:22 |
-| 18 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 |
-| 19 | [Diz Que Sim](https://open.spotify.com/track/2kp4Va2kwMESfeZmokDfBK) | [Sorry Drummer](https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL), [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Silvera](https://open.spotify.com/artist/1ou3OL7zp8g8TYm2zZA7OB) | [Sorry Drummer & Friends, Vol\. 2](https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0) | 3:11 |
+| 18 | [Diz Que Sim](https://open.spotify.com/track/2kp4Va2kwMESfeZmokDfBK) | [Sorry Drummer](https://open.spotify.com/artist/4wkKjUT8XmCYW5cnN4LIuL), [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Silvera](https://open.spotify.com/artist/1ou3OL7zp8g8TYm2zZA7OB) | [Sorry Drummer & Friends, Vol\. 2](https://open.spotify.com/album/5hZ7f9dv3Ra5xVtBQcJRS0) | 3:11 |
+| 19 | [Ostentação da Cultura](https://open.spotify.com/track/048xJoXrJeWu1dtVy3clRZ) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY) | [Ostentação da Cultura](https://open.spotify.com/album/5DpUob8vu7Fy8SgoBDfaeg) | 2:45 |
 | 20 | [Yin & Yang](https://open.spotify.com/track/7c8UHEObyzDsqOC4LiW7cE) | [Slim Rimografia](https://open.spotify.com/artist/4nvBf0lV2z3i1dDtuZjOxp), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Yin & Yang \(feat\. Tássia Reis\)](https://open.spotify.com/album/71D52WT6ukguEWW3MRJNiS) | 3:22 |
 | 21 | [Ansiejazz](https://open.spotify.com/track/0tZVFCC60EASRBcdv9OTjY) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera](https://open.spotify.com/album/3bgrfyRjo8FI7smYgASHwK) | 2:59 |
 | 22 | [Shonda D+](https://open.spotify.com/track/7c7Q6JPViG0X4VDpUx50gL) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Urias](https://open.spotify.com/artist/6BXiBj4eAZsiynbcmSRHUs), [Preta Ary](https://open.spotify.com/artist/3ybz6l89ingwOWKDAZEoRh), [EVEHIVE](https://open.spotify.com/artist/3FuxqwSNXMltSpqe8Dpe8h) | [Shonda D+](https://open.spotify.com/album/0suGmBaRPl2eUAt37mh8z8) | 4:08 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07FLl7.md) - [plain]
 | 48 | [Manifesto / Pule, Garota](https://open.spotify.com/track/1VIBGa37qbipRVncehwjf7) | [Rimas e Melodias](https://open.spotify.com/artist/3mkeZhsYgHmDg1l80UBOSJ), [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl), [Drik Barbosa](https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR), [Tatiana](https://open.spotify.com/artist/56P8ziLByTusn3PHCzyYH8), [Karol de Souza](https://open.spotify.com/artist/6hop0oGyhItA6dB4TcbmV8), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Alt Niss](https://open.spotify.com/artist/4UKDR0VnScWEJFCmtdEjC6), [Mayra Maldjian](https://open.spotify.com/artist/2HwGMsVf8kqckNXfE06IIk), [Djamila Ribeiro](https://open.spotify.com/artist/5tQuAu98DIum7c9AgtX1BF) | [Rimas & Melodias](https://open.spotify.com/album/55K5ih7JhMrNR6YecU84Vb) | 8:39 |
 | 49 | [Próspera D+](https://open.spotify.com/track/587Wwyisn5zHduewGcBWt1) | [Tassia Reis](https://open.spotify.com/artist/0kc1BjcLHaXhZVzCp0HeAl) | [Próspera D+](https://open.spotify.com/album/2pwEcYczMERg84xdmJQzhj) | 2:21 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGMyOGRhNWRmZjBhNjY0ZGI4ZjMxZmRjYzkzODY1MmJm`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGJmMjExNzI1Nzg2ZDA4MGZkNWZlNmUyYjBmY2M0NWZm`

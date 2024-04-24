@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 
 > A sizzling hot soundtrack for your sunshine social.
 
-[Spotify](https://open.spotify.com/user/spotify) - 632,330 likes - 75 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 632,297 likes - 75 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAArCxuIRGQ.md) - [plain]
 | 18 | [Sunny](https://open.spotify.com/track/4vju55Ag7apDL2CfotuE7Q) | [Bobby Hebb](https://open.spotify.com/artist/2uNpV18izVIP7DNusoWbT5) | [Sunny](https://open.spotify.com/album/6pJkF95sYsVg3FJtTvTuEG) | 2:45 |
 | 19 | [Green Onions](https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP) | [Booker T\. & the M.G.'s](https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5) | [Green Onions](https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU) | 2:56 |
 | 20 | [Roses](https://open.spotify.com/track/6bUNEbXT7HovLW6BgPCBsb) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [Speakerboxxx/The Love Below](https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r) | 6:09 |
-| 21 | [\(I Can't Help\) Falling In Love With You](https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Promises And Lies](https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d) | 3:27 |
-| 22 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
+| 21 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
+| 22 | [\(I Can't Help\) Falling In Love With You](https://open.spotify.com/track/7ojJ4XvqBhBcteM0zjMebT) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5) | [Promises And Lies](https://open.spotify.com/album/0B0RuH2PSWoEkIvi75xY5d) | 3:27 |
 | 23 | [Coming Home](https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Coming Home \(Deluxe\)](https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv) | 3:26 |
 | 24 | [Me and Julio Down by the Schoolyard](https://open.spotify.com/track/6vxHp3CDNo0afgKGp2yi1E) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Paul Simon](https://open.spotify.com/album/7npBPiCHjPj8PVIGPuHXep) | 2:44 |
 | 25 | [Gettin' Jiggy Wit It](https://open.spotify.com/track/0weAUscowxeqDtpCgtbpgp) | [Will Smith](https://open.spotify.com/artist/41qil2VaGbD194gaEcmmyx) | [Big Willie Style](https://open.spotify.com/album/2esWeP8Ln1sXA0jbDmi3Zq) | 3:47 |

@@ -2,9 +2,9 @@
 
 ### [This Is Travis Scott](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vGf4I)
 
-> This is Travis Scott\. The essential tracks, all in one playlist.
+> This Is Travis Scott\. Les titres incontournables, réunis dans une seule et même playlist.
 
-63 songs - 3 hr 48 min
+64 songs - 3 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [ESCAPE PLAN](https://open.spotify.com/track/4R67rQNSbbsR4TdUVOIdez) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ESCAPE PLAN / MAFIA](https://open.spotify.com/album/5FB5E1fwFeVqpz2CCzRSve) | 2:29 | 2023-11-10 |  |
 | [Fair Trade \(with Travis Scott\)](https://open.spotify.com/track/40iJIUlhi6renaREYGeIDS) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Certified Lover Boy](https://open.spotify.com/album/3SpBlxme9WbeQdI9kx7KAV) | 4:51 | 2023-11-10 |  |
 | [FE!N \(feat\. Playboi Carti\)](https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:11 | 2023-11-10 |  |
-| [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2023-11-10 |  |
+| [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [FRANCHISE \(feat\. Young Thug & M.I.A.\)](https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ) | 3:22 | 2023-11-10 | 2024-04-24 |
+| [FTCU \(feat\. Travis Scott, Chris Brown & Sexyy Red\) \- SLEEZEMIX](https://open.spotify.com/track/2oTFuT1tKLHlTJsnBSJJiN) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [FTCU \(SLEEZEMIX\)](https://open.spotify.com/album/71bR0ikZ38YGg6RDwhYiU2) | 3:59 | 2024-04-24 |  |
 | [GATTI](https://open.spotify.com/track/40mjsnRjCpycdUw3xhS20g) | [JACKBOYS](https://open.spotify.com/artist/7A8S43ryYdbWpJKeHRZRcq), [Pop Smoke](https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS](https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx) | 3:01 | 2023-11-10 |  |
 | [GET OFF ME \(with Travis Scott\)](https://open.spotify.com/track/2Adxpr1j5lSihOCsmIfflJ) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:35 | 2024-01-14 |  |
 | [Ghostface Killers \(feat\. Travis Scott\)](https://open.spotify.com/track/5u6vkDnOyaf8LsteDAj2ub) | [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft), [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [Without Warning](https://open.spotify.com/album/0MV1yCXcNNQBfwApqAVkH0) | 4:28 | 2023-11-10 | 2024-03-03 |

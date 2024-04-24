@@ -2,7 +2,7 @@
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This is Lila Downs。アーティストの代表曲をひとつのプレイリストに。
+> This Is Lila Downs\. Los temas esenciales, todos en una lista.
 
 58 songs - 3 hr 35 min
 

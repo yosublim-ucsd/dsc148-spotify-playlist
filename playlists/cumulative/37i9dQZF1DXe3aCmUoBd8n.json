@@ -124,7 +124,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 394253,
       "name": "Ahebany Kama Ana",
       "url": "https://open.spotify.com/track/2ASQ29GUeL8DpRXPcZLJsK"
@@ -921,6 +921,42 @@
     },
     {
       "album": {
+        "name": "El Waet Hdiye",
+        "url": "https://open.spotify.com/album/2K9R8YE2IyUuwTqQJJzxHi"
+      },
+      "artists": [
+        {
+          "name": "Wael Kfoury",
+          "url": "https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196235,
+      "name": "El Waet Hdiye",
+      "url": "https://open.spotify.com/track/6lsZjyA5UAA8BYR88rAKNk"
+    },
+    {
+      "album": {
+        "name": "Elfy",
+        "url": "https://open.spotify.com/album/0g2z5NIQEcTHsZsX1fkFU7"
+      },
+      "artists": [
+        {
+          "name": "siilawy",
+          "url": "https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150073,
+      "name": "Elfy",
+      "url": "https://open.spotify.com/track/0UTyWMUuePx1D6KPPgWWtW"
+    },
+    {
+      "album": {
         "name": "Elli Baana",
         "url": "https://open.spotify.com/album/23Khcpq38kMe3FsIiV8Mbu"
       },
@@ -1524,6 +1560,28 @@
       "duration_ms": 216666,
       "name": "Ma Byetkarar",
       "url": "https://open.spotify.com/track/4BZl8mgWXlv6v6RsQNaABx"
+    },
+    {
+      "album": {
+        "name": "Ma Fi Leil",
+        "url": "https://open.spotify.com/album/1Rp9bFeceWXdz8bifip2cM"
+      },
+      "artists": [
+        {
+          "name": "Nassif Zeytoun",
+          "url": "https://open.spotify.com/artist/2ieBl5s08uHBwM8sUPvg65"
+        },
+        {
+          "name": "Rahma Riad",
+          "url": "https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237452,
+      "name": "Ma Fi Leil",
+      "url": "https://open.spotify.com/track/7eBCrBVZGlfgbutr8CbqiG"
     },
     {
       "album": {
@@ -2170,7 +2228,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 328937,
       "name": "Ya Qalb",
       "url": "https://open.spotify.com/track/145q7U7wSI5NbufneEFurm"
@@ -2390,7 +2448,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 204914,
       "name": "\u0627\u0646\u062a \u0648\u062d\u062f\u064a",
       "url": "https://open.spotify.com/track/1ZNjO544sLEqARY6mGVp85"

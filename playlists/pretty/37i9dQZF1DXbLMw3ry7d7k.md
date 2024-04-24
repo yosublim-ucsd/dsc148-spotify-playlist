@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLMw3ry7d7k.md) - [plain]
 
 > These hits were made to stay! Revive los éxitos de los últimos meses aquí.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,552 likes - 99 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,688 likes - 99 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

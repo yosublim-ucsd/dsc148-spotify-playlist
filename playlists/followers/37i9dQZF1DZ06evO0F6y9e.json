@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 953053,
+  "2024-04-24": 953277,
   "date_first_scraped": "2023-08-09",
-  "description": "This Is Grupo Firme. Los temas esenciales, todos en una lista.",
+  "description": "This is Grupo Firme. The essential tracks, all in one playlist.",
   "name": "This Is Grupo Firme",
   "tracks": [
     {
@@ -149,7 +149,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-12",
+      "date_removed": null,
       "duration_ms": 199464,
       "name": "Aqu\u00ed No Se Termina (En Vivo)",
       "url": "https://open.spotify.com/track/3bH0ANEXwCVw5bOwEavAA2"
@@ -1009,7 +1009,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 207804,
       "name": "ONTAS BB",
       "url": "https://open.spotify.com/track/3IHSOgqSplOCtN2NiGlp0q"

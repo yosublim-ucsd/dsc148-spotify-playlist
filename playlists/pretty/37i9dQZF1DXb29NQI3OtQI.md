@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 
 > The best easy rock from the 2000s\. Cover: Switchfoot
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,219 likes - 80 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,327 likes - 80 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb29NQI3OtQI.md) - [plain]
 | 61 | [All Of This](https://open.spotify.com/track/5kYhmkcnDalqUMxQxBcZkB) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP), [Robert Smith ](https://open.spotify.com/artist/0SHJWEBfbcjkE8bGiSTykk) | [blink\-182](https://open.spotify.com/album/4hBTxv4QRPePXCFcEI7Vjp) | 4:40 |
 | 62 | [Original Of The Species](https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb](https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB) | 4:34 |
 | 63 | [So Long Goodbye](https://open.spotify.com/track/3Burs1JDgHMNXZ7wAMwe8u) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Underclass Hero](https://open.spotify.com/album/4fc73QNw5EjIorFfZ6n6YG) | 3:01 |
-| 64 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
-| 65 | [Learning To Breathe](https://open.spotify.com/track/3rQvHJ2K1g9tnIcL51eEWE) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Learning To Breathe](https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs) | 4:35 |
+| 64 | [Learning To Breathe](https://open.spotify.com/track/3rQvHJ2K1g9tnIcL51eEWE) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu) | [Learning To Breathe](https://open.spotify.com/album/4rpXUpnO39yG7ETyugzzIs) | 4:35 |
+| 65 | [The Reason](https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz) | [Hoobastank](https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO) | [The Reason \(15th Anniversary Deluxe\)](https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth) | 3:52 |
 | 66 | [The First Cut Is The Deepest](https://open.spotify.com/track/7gN24J8E0pR3G2nsbhkcjw) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [The Very Best Of](https://open.spotify.com/album/7Kw98O8x1Urwo139vaO0fJ) | 3:47 |
 | 67 | [Breathing](https://open.spotify.com/track/3oOO9PWp1izU4AxZ4SWqzH) | [Lifehouse](https://open.spotify.com/artist/5PokPZn11xzZXyXSfnvIM3) | [No Name Face](https://open.spotify.com/album/18ttJAJKeQvaAg8cpnn9uM) | 4:25 |
 | 68 | [100 Suns](https://open.spotify.com/track/1diSFxNvwkKMOI2vcadxy5) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [This Is War](https://open.spotify.com/album/6OlCoydaNFUU7v1Xo5ZJPx) | 1:58 |

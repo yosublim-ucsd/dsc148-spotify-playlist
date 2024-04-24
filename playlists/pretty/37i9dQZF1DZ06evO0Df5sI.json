@@ -1,12 +1,12 @@
 {
   "description": "This is Alkaline Trio. The essential tracks, all in one playlist.",
-  "num_followers": 19733,
+  "num_followers": 19739,
   "original_name": "This Is Alkaline Trio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDExMWM4OGYyYTIzY2JjY2NiZjZjOTE5ZGNjOTk0ZGI1",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGNkNDlmMDJiYTIwZDFjNzYzMzM1MzM4M2ExYTNlYzZi",
   "tracks": [
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe I'll Catch Fire",
-        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
+        "name": "I Found a Way",
+        "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 289706,
-      "name": "Fuck You Aurora",
-      "url": "https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz"
+      "duration_ms": 225533,
+      "name": "I Found a Way",
+      "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Found a Way",
-        "url": "https://open.spotify.com/album/5Dv4BNIrxowlDyal7reMwy"
+        "name": "Maybe I'll Catch Fire",
+        "url": "https://open.spotify.com/album/1geOrMhJFz0gonGQ8A5e8m"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
         }
       ],
-      "duration_ms": 225533,
-      "name": "I Found a Way",
-      "url": "https://open.spotify.com/track/3SW1iJWxeVKTn32gL76srO"
+      "duration_ms": 289706,
+      "name": "Fuck You Aurora",
+      "url": "https://open.spotify.com/track/5a9yyZE83UskiAlIsQR7Lz"
     },
     {
       "added_at": null,

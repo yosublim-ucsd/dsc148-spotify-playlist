@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,262 likes - 85 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,265 likes - 85 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 46 | [Mystik](https://open.spotify.com/track/0NnVzBW6TJLaEzcyXjqRDH) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Mystik](https://open.spotify.com/album/00yAwDfu7JLRlhvHSchMzu) | 4:09 |
 | 47 | [Be About You](https://open.spotify.com/track/29HSkfe5ITejb0MXhroHtG) | [Winston Surfshirt](https://open.spotify.com/artist/61HS7DjYDQIkKSeGvpqmJh) | [Sponge Cake](https://open.spotify.com/album/4kN92M0macg1SPS4aeq62i) | 4:08 |
 | 48 | [Hold Me](https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 3:07 |
-| 49 | [Catch My Disease](https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:14 |
+| 49 | [London Still](https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:46 |
 | 50 | [Lady Blue](https://open.spotify.com/track/1Tqhq3ZF1FCoUiS10Cgxzt) | [Emily Wurramara](https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF) | [Milyakburra](https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp) | 2:51 |
-| 51 | [London Still](https://open.spotify.com/track/2uoxXaadBpSWEmIXSaVMYi) | [The Waifs](https://open.spotify.com/artist/5uKeKhwXi2w5cXdtoSaqjz) | [Up All Night](https://open.spotify.com/album/0ekOI8LYqNwEBWlzTwXp9n) | 3:46 |
+| 51 | [Catch My Disease](https://open.spotify.com/track/4vqHz44pzFSfDNIE20QRBu) | [Ben Lee](https://open.spotify.com/artist/06y1hH4hu3rcTUXHJevPCf) | [Awake Is the New Sleep](https://open.spotify.com/album/4LiDSTPH86zTRUFnu7tYam) | 4:14 |
 | 52 | [Grizzly Bear](https://open.spotify.com/track/2BPI9yfqVnlCUYnRYnBkdL) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Angus & Julia Stone \(Deluxe\)](https://open.spotify.com/album/6w97X470r5gNmmfBkwPm04) | 4:08 |
 | 53 | [Talk It Out](https://open.spotify.com/track/3I6CQSc5hMvU4nh2DcTDBz) | [Matt Corby](https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG), [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Talk It Out](https://open.spotify.com/album/1hK8ETmd5Dq4FOA5kWkGG6) | 3:10 |
 | 54 | [Blue Eyes](https://open.spotify.com/track/0JIGBObzd2N4gv8xDeJIQz) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [Blue Eyes](https://open.spotify.com/album/5P5fEwWvPO5aAFggmkaCvG) | 3:57 |
-| 55 | [Roll Up Your Sleeves](https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb) | 3:04 |
-| 56 | [Palo Alto](https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Palo Alto](https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp) | 3:19 |
+| 55 | [Palo Alto](https://open.spotify.com/track/0zSPHyEar2FuCSKP2BD3FF) | [Jack River](https://open.spotify.com/artist/4xrDCETyApzUQ6xzcc6QtS) | [Palo Alto](https://open.spotify.com/album/5z0zjbNK6hYM2FC3tWXwlp) | 3:19 |
+| 56 | [Roll Up Your Sleeves](https://open.spotify.com/track/7nrPyQ37J2BO24uoleVp35) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [Roll Up Your Sleeves](https://open.spotify.com/album/68GTGs9r1hrO1SG9yG5uwb) | 3:04 |
 | 57 | [Keepsake](https://open.spotify.com/track/4OAcOb2uobXd9Zu1X9BnEE) | [The Dreggs](https://open.spotify.com/artist/4wL43zal5A0AOJwhlYsJZ1) | [Keepsake](https://open.spotify.com/album/4NnnY09KEF7Gnw2rXIb0lU) | 3:46 |
 | 58 | [The Breach](https://open.spotify.com/track/1rSrMVQbnYWihopHxGXhOD) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [The Breach EP](https://open.spotify.com/album/6qjhxh5olXQ1y7T4PV2qSw) | 4:13 |
 | 59 | [Steer](https://open.spotify.com/track/6NpO2qjMkMhmncI6hdhTH2) | [Missy Higgins](https://open.spotify.com/artist/6aP8ry8w3bSNyfyqhE8rGf) | [On A Clear Night \(Deluxe\)](https://open.spotify.com/album/5a0yup4Q20b2TxoW5dWKI3) | 3:51 |
@@ -76,10 +76,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 66 | [Carry You](https://open.spotify.com/track/1X14uciXmjCEzFH0rfnBso) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/198wtjU6U69oPdrU8UEyrT) | 4:32 |
 | 67 | [Opportunity](https://open.spotify.com/track/64c45et47VnSv04LvzLt4C) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:37 |
 | 68 | [California](https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2) | [Nick Cunningham](https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt) | [California](https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB) | 3:48 |
-| 69 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
-| 70 | [Blood](https://open.spotify.com/track/5eeMft4YZx0Xdf9yJPNZJY) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [Recordings Of The Middle East](https://open.spotify.com/album/0s8tM3NW7sgDmP6B3Cn6I6) | 5:26 |
-| 71 | [Drift Away](https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Vantage Point](https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4) | 2:59 |
-| 72 | [Lonely](https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Lonely](https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu) | 3:31 |
+| 69 | [Blood](https://open.spotify.com/track/5eeMft4YZx0Xdf9yJPNZJY) | [The Middle East](https://open.spotify.com/artist/6imbHAlhHrFwtsOgqpeBK2) | [Recordings Of The Middle East](https://open.spotify.com/album/0s8tM3NW7sgDmP6B3Cn6I6) | 5:26 |
+| 70 | [Leave That](https://open.spotify.com/track/3YuAWFpVawNf23ZN7OlfD8) | [Old Mervs](https://open.spotify.com/artist/3N8YzKqrEQonvd5RLQ4iYg) | [Give It Up](https://open.spotify.com/album/1A3A8WdrkktsDANff6H9mt) | 3:20 |
+| 71 | [Lonely](https://open.spotify.com/track/75fAK9KhLkSB9FAqQdhN7N) | [Dear Sunday](https://open.spotify.com/artist/05GArk2WAfXphqEqjwVAN1) | [Lonely](https://open.spotify.com/album/6wTILmJx9wwnM0ppScFLxu) | 3:31 |
+| 72 | [Drift Away](https://open.spotify.com/track/2bx4jOMWpCbemnnRWfsMbx) | [Sons of Zion](https://open.spotify.com/artist/0PK0Dx3s9et0Uf4XbdFpiW) | [Vantage Point](https://open.spotify.com/album/3cVWxjvHrPozeQaiUfU9R4) | 2:59 |
 | 73 | [Maybe You Know](https://open.spotify.com/track/6R36WcAtweEhKGCJQtD5GY) | [Holy Holy](https://open.spotify.com/artist/5KeQyt1QJBjcutJ2AuLNO2) | [My Own Pool of Light](https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf) | 3:57 |
 | 74 | [These Days](https://open.spotify.com/track/4AJFUuMaJFsRlz1C4GzAWk) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [These Days](https://open.spotify.com/album/1WzqNwKJqMtMZA8rnWY1XS) | 3:23 |
 | 75 | [Better Days](https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:43 |

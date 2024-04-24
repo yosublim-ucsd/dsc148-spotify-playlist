@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 
 > Essential tunes for time with the family.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,960 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,987 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 29 | [P.Y.T\. \(Pretty Young Thing\)](https://open.spotify.com/track/1CgmY8fVN7kstVDZmsdM5k) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 3:59 |
 | 30 | [I'll Take You There](https://open.spotify.com/track/5YLnfy7R2kueN0BRPkjiEG) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [The Very Best Of The Staple Singers](https://open.spotify.com/album/7tUOJxXojOWdWU2T2ZSge7) | 3:16 |
 | 31 | [Back To Life](https://open.spotify.com/track/7vvRkLPIvfjjmCIqNxBuEZ) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf), [Caron Wheeler](https://open.spotify.com/artist/2RhMHmV21ZDcSGZ872U4ZY) | [Keep On Movin'](https://open.spotify.com/album/1y3jN9LkTstdnogs1Xywni) | 3:48 |
-| 32 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 |
-| 33 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
+| 32 | [This Is How We Do It](https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD) | [Montell Jordan](https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT), [Wino](https://open.spotify.com/artist/2UEm3mXEPGyxeWQJYc8WSx) | [This Is How We Do It](https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL) | 3:58 |
+| 33 | [Brick House](https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P) | [Commodores](https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm) | [Commodores](https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl) | 3:28 |
 | 34 | [Oh Honey](https://open.spotify.com/track/3TiCuJiisBOB9HzKAM6FDG) | [Delegation](https://open.spotify.com/artist/1zKp43H1kLHOTkJAeyTIkf) | [Oh Honey](https://open.spotify.com/album/2Hu144ydKhUydmnhfEEqfi) | 5:56 |
 | 35 | [Hey Mr\. D.J.](https://open.spotify.com/track/6eB35pgMXdfhz5Z0WjwF1O) | [Zhané](https://open.spotify.com/artist/6cjSmkVvMvyE6tCAo1M9Is) | [Pronounced Jah\-Nay](https://open.spotify.com/album/4Rj3sxQFk2chQQqfad4siz) | 4:12 |
 | 36 | [Can We Talk](https://open.spotify.com/track/3eRE1KwnUma75nu1HhoNY4) | [Tevin Campbell](https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE) | [I'm Ready](https://open.spotify.com/album/4oMHSoFd6DKPVMVb8uiZYv) | 4:44 |
@@ -58,13 +58,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXab8DipvnuNU.md) - [plain]
 | 48 | [Summertime](https://open.spotify.com/track/20XdEFyaUR9C7aDIdq2OAd) | [DJ Jazzy Jeff & The Fresh Prince](https://open.spotify.com/artist/1mG23iQeR29Ojhq89D5gbh) | [Homebase](https://open.spotify.com/album/2ELLswCKdQXUWbWxhaAklh) | 4:30 |
 | 49 | [Cruisin'](https://open.spotify.com/track/2gliw3L0oa4w8LqaHploje) | [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Where There's Smoke...](https://open.spotify.com/album/6dePMhqoFfN5mm73ChBgOU) | 5:52 |
 | 50 | [Just Fine](https://open.spotify.com/track/33vzOPcd9FRirYGlCu32x4) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Growing Pains](https://open.spotify.com/album/5PlA7xVCN59vR0YAnRVisM) | 4:02 |
-| 51 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
-| 52 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
+| 51 | [As](https://open.spotify.com/track/13toFl1UwJPsRxDiD9jgtn) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Songs In The Key Of Life](https://open.spotify.com/album/6YUCc2RiXcEKS9ibuZxjt0) | 7:08 |
+| 52 | [Outstanding](https://open.spotify.com/track/2yd0XI7g0BhAgY9GkpPClU) | [The Gap Band](https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp) | [The Gap Band IV](https://open.spotify.com/album/3pJ0uie1bu662cOCCu5cfG) | 3:18 |
 | 53 | [Lady](https://open.spotify.com/track/7AjfklMN4WpQYz5FkT4E66) | [D'Angelo](https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd) | [Brown Sugar](https://open.spotify.com/album/4HTVABUq8amDUxBv3zJbX4) | 5:46 |
 | 54 | [Candy](https://open.spotify.com/track/0Aj8EagrPfDoOe5OlUdrLC) | [Cameo](https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2) | [Word Up](https://open.spotify.com/album/1W8kHQQC7DXg1inR7ZWqhA) | 5:39 |
 | 55 | [Between the Sheets](https://open.spotify.com/track/3ApIYu95WxjzpQCnsLBbrv) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Between the Sheets](https://open.spotify.com/album/35EP5dBkQWS0Lta6GE2VOu) | 5:40 |
-| 56 | [Still Not a Player \(feat\. Joe\)](https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 3:56 |
-| 57 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 |
+| 56 | [Summer Madness](https://open.spotify.com/track/2uMqG8w8oi09fB2YA2QLOm) | [Kool & The Gang](https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI) | [Light Of Worlds](https://open.spotify.com/album/46kA6zL7Cga656urk1nJNo) | 4:17 |
+| 57 | [Still Not a Player \(feat\. Joe\)](https://open.spotify.com/track/5PG3h38oiQLEJlOuOvIs80) | [Big Pun](https://open.spotify.com/artist/2Xu7q46Hf02xOoEIm4E1Qs), [Joe](https://open.spotify.com/artist/3zTOe1BtyTkwNvYZOxXktX) | [Greatest Hits](https://open.spotify.com/album/2hwM2z7y5OWRkCZ9cPaOLq) | 3:56 |
 | 58 | [I Feel for You](https://open.spotify.com/track/5yR9u8QiOt8hJaddv32oo7) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 5:43 |
 | 59 | [Party \(feat\. André 3000\)](https://open.spotify.com/track/42qh86p7TLXyumxSHn65kc) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [4](https://open.spotify.com/album/1gIC63gC3B7o7FfpPACZQJ) | 4:05 |
 | 60 | [Workin' Day and Night](https://open.spotify.com/track/6BdiFsPMPkSEEO4fFXFVWX) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 5:13 |

@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 14 | [Electric Feeling](https://open.spotify.com/track/6iaFDadGS6EqeyQb0c3QGZ) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [Electric Feeling](https://open.spotify.com/album/4Nu0kuBzS4A8AGQFXRBPN9) | 3:06 |
 | 15 | [LVLY](https://open.spotify.com/track/4245mprsIXRpaSg9U89ow1) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [LOVESTRUCK!](https://open.spotify.com/album/7LmVnv26vUmzSfnTjeF3AD) | 3:19 |
 | 16 | [Let it Lie](https://open.spotify.com/track/7gT2JSjZWWw1EvZfnuFie4) | [Sunnery James & Ryan Marciano](https://open.spotify.com/artist/7kABWMhjA5GIl9PBEasBPt) | [Let it Lie](https://open.spotify.com/album/5KYxtISj2XF8yd14w2r25S) | 2:32 |
-| 17 | [Faccio un casino](https://open.spotify.com/track/1knOlvwv1A6AVadKwM2UR8) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/1r3kQVZ87tRU00QVzvN0oO) | 2:53 |
-| 18 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
+| 17 | [Blow](https://open.spotify.com/track/6d6WNysquy9upPZPxKRTQF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Blow](https://open.spotify.com/album/1eUzA2dsKSplnHNOrUVg3M) | 3:03 |
+| 18 | [Faccio un casino](https://open.spotify.com/track/1knOlvwv1A6AVadKwM2UR8) | [Tecla](https://open.spotify.com/artist/6o1a4hlrT0oFsPL28h3c69), [Alfa](https://open.spotify.com/artist/7GacyaFUp0qkEJglERX9N7) | [Faccio un casino](https://open.spotify.com/album/1r3kQVZ87tRU00QVzvN0oO) | 2:53 |
 | 19 | [Matty Healy](https://open.spotify.com/track/20Do7D6tZkclXfNBa9z45X) | [Georgia Twinn](https://open.spotify.com/artist/2O0h682EGdSff234pcv201) | [Matty Healy](https://open.spotify.com/album/6dBjAT41RnXZcYvdU4NpGI) | 2:30 |
 | 20 | [Gemini](https://open.spotify.com/track/5pmafQfCSF9y6jVUhiaR7I) | [Brynn Cartelli](https://open.spotify.com/artist/4NIPR04MgEH0K5uv8Gn7ek) | [OUT OF THE BLUE](https://open.spotify.com/album/5xTn1vKGNusolMoZ7NMwok) | 3:11 |
 | 21 | [Straitjacket](https://open.spotify.com/track/5kqQcwZieOTZKDAg3jSUTf) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Straitjacket](https://open.spotify.com/album/4q8jKuEJMH182MNDuNyNN3) | 2:39 |
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKF47cYSezkT.md) - [plain]
 | 44 | [Friends Don’t Kiss](https://open.spotify.com/track/7oMIOHGORbE4rwDraclfaS) | [PHIA](https://open.spotify.com/artist/6O6aPDrL58wZRzQ6Rqq9or) | [Friends Don’t Kiss](https://open.spotify.com/album/5sZV7YFrB2x3f1M31U6UlU) | 2:38 |
 | 45 | [More](https://open.spotify.com/track/7dtcXUHSLNkqrcsTXkCQd7) | [Maestro](https://open.spotify.com/artist/1ZDZlp15T1lNk9o4nSgch4) | [More](https://open.spotify.com/album/6tb8KW4O9XH4IkkDUWnEHk) | 3:09 |
 
-Snapshot ID: `Mjg1NjQwMjAsMDAwMDAwMDBjOWVhZmEzN2ZhZWRkODU1YjRmNTIxNzdjMWZmZWZmZQ==`
+Snapshot ID: `Mjg1NjYzNjAsMDAwMDAwMDA4ZWUwNjM2NTFhOTY5NDVlMTZmYjAwYTQ5MWQ5M2RiMQ==`

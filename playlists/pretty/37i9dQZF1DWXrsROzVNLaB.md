@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 
 > Prepare for Easter week by reflecting on songs of Jesus' life, death, and resurrection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,656 likes - 75 songs - 6 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,655 likes - 75 songs - 6 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,10 +62,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXrsROzVNLaB.md) - [plain]
 | 52 | [You Were On The Cross](https://open.spotify.com/track/29eOjlzVVvxmpDD8VYeJpp) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Alive Again](https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX) | 5:15 |
 | 53 | [Upon Him](https://open.spotify.com/track/6hgbfjVLnlzIHiR8OJpeZS) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [Upon Him](https://open.spotify.com/album/0LzvNRqh0zYGMyAuky8W05) | 4:01 |
 | 54 | [Light to You](https://open.spotify.com/track/6AngIXIe1fI2Z4m5fREfY4) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Surrounded](https://open.spotify.com/album/0RpjkgJDTV3IiltZf1Udkl) | 6:04 |
-| 55 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
-| 56 | [Beauty For Ashes \- Live](https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 4:54 |
-| 57 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
-| 58 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
+| 55 | [Beauty For Ashes \- Live](https://open.spotify.com/track/4JIRYXf8WiXbHTW5xc7oiF) | [Chris McClarney](https://open.spotify.com/artist/2Zbb4oqupGY4mmskwlygCp) | [Everything And Nothing Less \(Live\)](https://open.spotify.com/album/66663xiz1SATmBnF78aEpA) | 4:54 |
+| 56 | [At The Cross](https://open.spotify.com/track/6SpcdxmlDg5MQ1zGw8GEGo) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [You Amaze Us](https://open.spotify.com/album/0NKzXf20zGV0vsR60DZjF4) | 4:02 |
+| 57 | [Beautiful Scandalous Night](https://open.spotify.com/track/6MeRMWAV6GDoZ0nY2vN8fg) | [Robbie Seay Band](https://open.spotify.com/artist/4xPxYiZyp9SWFG3MIFkee5) | [Raise Up The Crown](https://open.spotify.com/album/1ebHV0sV9fbjhQ9jw2bFsu) | 3:20 |
+| 58 | [Long Live The King \- Live At The Grove](https://open.spotify.com/track/59JtpavXIKPmHi4Z8PAbj3) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Matt Gilman](https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P) | [Long Live The King \(Live At The Grove\)](https://open.spotify.com/album/0agzLXWxrapOwNXsGXx9nn) | 7:01 |
 | 59 | [It Was Finished](https://open.spotify.com/track/0oGI2EFKcoW9ZSu9JNoZvj) | [Bryan & Katie Torwalt](https://open.spotify.com/artist/7bvAtcPT3evvSeHDyu2zBC) | [Kingdom Come](https://open.spotify.com/album/6lfwLgVBxltkAIvkpK4axR) | 4:45 |
 | 60 | [Easter Song](https://open.spotify.com/track/4Uv19eDb9Os5UQODqb0edh) | [Keith Green](https://open.spotify.com/artist/0sA93wBoY7nJUE8dSrOZay) | [The Greatest Hits](https://open.spotify.com/album/72W8NheOUCQH4neNpQdkTm) | 3:57 |
 | 61 | [Faithfulness \(feat\. Steffany Gretzinger\)](https://open.spotify.com/track/78ANuoRf4FZNRcUDtSaFiL) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW), [Steffany Gretzinger](https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:31 |

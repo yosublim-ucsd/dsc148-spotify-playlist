@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 
 > Hora de aumentar o som e cair na água!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,925 likes - 75 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,800 likes - 75 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTjb5Ra7K9k.md) - [plain]
 | 22 | [Queen of California](https://open.spotify.com/track/0CETmgFGt8Ne8vLnaLcduU) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Born and Raised](https://open.spotify.com/album/6S0BIiWtnqU0PtumXMpin0) | 4:10 |
 | 23 | [Forever](https://open.spotify.com/track/7x8OcAzBWvSgw4TBqBeAHM) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Welcome To The Cruel World](https://open.spotify.com/album/4funkfmn2DKDsr3pRxMJTP) | 3:24 |
 | 24 | [Santeria](https://open.spotify.com/track/2Z2vOukzwOgqR4dkymRSWd) | [Sublime](https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J) | [Sublime](https://open.spotify.com/album/4R3tXoorBpHji6Jdms8a4Q) | 3:03 |
-| 25 | [No One Knows](https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Runtastic \- Power Workout \(Vol\. 1\)](https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey) | 4:13 |
-| 26 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
+| 25 | [Ghost Ship](https://open.spotify.com/track/61JDaStnXY3vbaEjliB5WA) | [Blur](https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS) | [The Magic Whip](https://open.spotify.com/album/0nSzBICzQHea8grwfqa5Gb) | 4:59 |
+| 26 | [No One Knows](https://open.spotify.com/track/6qS04no9s93xryizOrZ4ru) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Runtastic \- Power Workout \(Vol\. 1\)](https://open.spotify.com/album/7kcbYCvOoFZs9FRPDWVrey) | 4:13 |
 | 27 | [Flake](https://open.spotify.com/track/0yo8lQMdjioEBW7eux4X0L) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Brushfire Fairytales \(Remastered\)](https://open.spotify.com/album/2K9N8V0ORKpkpTOxhcFnud) | 4:43 |
 | 28 | [Toes Across The Floor](https://open.spotify.com/track/3NfLSMOVWDKfYDE0WAm7uf) | [Blind Melon](https://open.spotify.com/artist/5sD1ZLf2dGQ9gQ3YJl1eAd) | [Soup](https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO) | 3:07 |
 | 29 | [Beach in Hawaii](https://open.spotify.com/track/7K1QvbTr4KqK8Np5SpFC6S) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Love Is My Religion](https://open.spotify.com/album/2gT72CpRI4izR1IUohkU7w) | 3:40 |

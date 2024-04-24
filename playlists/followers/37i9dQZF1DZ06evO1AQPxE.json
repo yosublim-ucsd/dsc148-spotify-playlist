@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 181596,
+  "2024-04-24": 181622,
   "date_first_scraped": "2024-01-13",
   "description": "This is Jack Harlow. The essential tracks, all in one playlist.",
   "name": "This Is Jack Harlow",
@@ -544,6 +544,28 @@
     },
     {
       "album": {
+        "name": "Leaf Wraps",
+        "url": "https://open.spotify.com/album/5VfR15U7wjAA20ChsFd3Rg"
+      },
+      "artists": [
+        {
+          "name": "The Homies",
+          "url": "https://open.spotify.com/artist/66V7EUpZplR1MuUbYHZATV"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "Leaf Wraps",
+      "url": "https://open.spotify.com/track/4f0IS8GKd6RHx0UlvSyJLK"
+    },
+    {
+      "album": {
         "name": "Come Home The Kids Miss You",
         "url": "https://open.spotify.com/album/2eE8BVirX9VF8Di9hD90iw"
       },
@@ -719,7 +741,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 220760,
       "name": "Psychic",
       "url": "https://open.spotify.com/track/64pUytZWfCpeeMBN0XAadF"

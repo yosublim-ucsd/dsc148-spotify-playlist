@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 
 > Aquí no hay nostalgia, ¡se vino la pachanga!, y el <a href="spotify:user:spotify:playlist:37i9dQZF1DWT0pl0yubzJM">Rock Sónico</a> también!
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,520 likes - 80 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,418 likes - 80 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,9 +26,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 16 | [Entre Caníbales \- Remasterizado 2007](https://open.spotify.com/track/0ePI3CMwhjRV3ZWas3gTU9) | [Soda Stereo](https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp) | [Canción Animal \(Remastered\)](https://open.spotify.com/album/3GoSlKTNcVOp1ZxE5OOXeN) | 4:06 |
 | 17 | [Para no olvidar](https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 3:54 |
 | 18 | [Balada Del Diablo y La Muerte](https://open.spotify.com/track/4ObkiTmpsSU31gqGhTb8SH) | [La Renga](https://open.spotify.com/artist/30fEdZPXgWfC4sNttcyB3C) | [Despedazado Por Mil Partes](https://open.spotify.com/album/0eH6ICTcUbNqjplgRISQEg) | 5:36 |
-| 19 | [Waitin'](https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:48 |
+| 19 | [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 |
 | 20 | [Loco](https://open.spotify.com/track/0jePqZlutXGa8xz6NNyKAy) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU) | [Alta Suciedad](https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6) | 3:37 |
-| 21 | [Mojada](https://open.spotify.com/track/5N5sbaoN8UvXw8ngNR9iUk) | [Vilma Palma e Vampiros](https://open.spotify.com/artist/5VQCk9RiLwri99OgOT34kq) | [3980](https://open.spotify.com/album/4tBbxwaTRObiwZL09V3A3W) | 6:07 |
+| 21 | [Waitin'](https://open.spotify.com/track/6EjUn5quLcTVFBUGLGwGwA) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 2:48 |
 | 22 | [Tratar de Estar Mejor](https://open.spotify.com/track/0ylZTq7l4Oij4dHhu9at7n) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Tratar De Estar Mejor](https://open.spotify.com/album/4iq0kaBaXcV6YzgbuulMgj) | 3:35 |
 | 23 | [Mi enfermedad](https://open.spotify.com/track/46bGEqzd7anKKovVOZ9bTF) | [Fabiana Cantilo](https://open.spotify.com/artist/5R6YR0pasdxlynyq0Abq7x) | [Algo mejor](https://open.spotify.com/album/2KaHfFLmbhkHQtMAEixycQ) | 3:21 |
 | 24 | [Al lado del camino](https://open.spotify.com/track/4Ft15s9T7pcG7O85VbdxVl) | [Fito Paez](https://open.spotify.com/artist/1bZNv4q3OxYq7mmnLha7Tu) | [Abre](https://open.spotify.com/album/4uOEHOabkf5hmv0ra14XJb) | 5:26 |
@@ -75,17 +75,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KUmmjlkOod.md) - [plain]
 | 65 | [Jennifer Del Estero](https://open.spotify.com/track/3aJBJ4DAfTknfkzbd0G9Um) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Leche](https://open.spotify.com/album/0gf7X9QITtZlFBN8noE1DU) | 4:55 |
 | 66 | [Sin documentos](https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Donde estabas tu..\. en el 93?](https://open.spotify.com/album/1RRiaLNLuvtlCLVM4x5JeI) | 4:45 |
 | 67 | [El Arriero](https://open.spotify.com/track/0iFZlkyFokkZq569S7NADx) | [Divididos](https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx) | [La Era De La Boludez](https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx) | 6:38 |
-| 68 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 |
-| 69 | [La Yapa](https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:02 |
+| 68 | [La Yapa](https://open.spotify.com/track/6S7YzdhqrDEbZNGvvJQOqJ) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:02 |
+| 69 | [Pensé Que Se Trataba De Cieguitos](https://open.spotify.com/track/4vTjD2aIaRySj7tVo70w4D) | [Los Twist](https://open.spotify.com/artist/5m0J5lv69wHuzD3Fvb50tn) | [La Dicha En Movimiento](https://open.spotify.com/album/0JHPihaWP6y9O28ILSY8Jo) | 2:20 |
 | 70 | [1\-2 Ultraviolento](https://open.spotify.com/track/3ZFfwUQxXspg5hhJXyFR8J) | [Los Violadores](https://open.spotify.com/artist/4EkrhlCS2DbFxvC3Uhq6p2) | [Lo Mejor De Los Violadores](https://open.spotify.com/album/5mabtHYSp09PBdcIvTut7i) | 4:18 |
 | 71 | [Aquí no podemos hacerlo](https://open.spotify.com/track/69ag2gM05lwYtR9qlJmTBC) | [Los Rodriguez](https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K) | [Palabras más, palabras menos](https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t) | 4:36 |
 | 72 | [Jugo](https://open.spotify.com/track/6lNwrdMlAT0TsOzgRtAvpF) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Versus](https://open.spotify.com/album/2DYgWkKDJHW6U3wXtULQ0g) | 4:19 |
 | 73 | [Estamos Juntos](https://open.spotify.com/track/4cqTzKCPsDSWnfL1NqABVu) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Diego Torres](https://open.spotify.com/album/1iORUN5udfrSa98iKDzgqR) | 3:42 |
-| 74 | [Cosa Peligrosa](https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:23 |
-| 75 | [Corazón \- Remasterized 2001](https://open.spotify.com/track/6SyQSl0pIpARrRDSvet4sN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:44 |
-| 76 | [Capitán América](https://open.spotify.com/track/1NhLJcFWLjrBax77kFft28) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Máscaras de Sal](https://open.spotify.com/album/4m2rRkMOGAowNa674LYU3y) | 3:08 |
-| 77 | [Te Quiero Tanto, No Me Preguntes Más](https://open.spotify.com/track/0sKaMeuhSx79DcDYClZl4s) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:29 |
-| 78 | [Mi Resistencia](https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:29 |
+| 74 | [Corazón \- Remasterized 2001](https://open.spotify.com/track/6SyQSl0pIpARrRDSvet4sN) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Los Reyes de la Canción](https://open.spotify.com/album/1ttVc5nDYMHWcLq2u0bKNj) | 4:44 |
+| 75 | [Capitán América](https://open.spotify.com/track/1NhLJcFWLjrBax77kFft28) | [Las Pelotas](https://open.spotify.com/artist/1Qv4E1VgZOGnOYd99Kp5Bs) | [Máscaras de Sal](https://open.spotify.com/album/4m2rRkMOGAowNa674LYU3y) | 3:08 |
+| 76 | [Te Quiero Tanto, No Me Preguntes Más](https://open.spotify.com/track/0sKaMeuhSx79DcDYClZl4s) | [Sergio Denis](https://open.spotify.com/artist/6J19N5JZkGRjuONpiizCIe) | [La Vida Vale La Pena](https://open.spotify.com/album/0tLOZucmNz4SGg42jjnA2B) | 3:29 |
+| 77 | [Mi Resistencia](https://open.spotify.com/track/0txbNwVOPJcpGupF4TNDLl) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Big Yuyo](https://open.spotify.com/album/2zABqsniagHwdKt0x6qgSi) | 3:29 |
+| 78 | [Cosa Peligrosa](https://open.spotify.com/track/4HE5NQxOYHA5kqMiS2xFSi) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO) | [Signos](https://open.spotify.com/album/5WZizOyx12sTkACa66HQ4q) | 3:23 |
 | 79 | [Si Tu Supieras](https://open.spotify.com/track/60oXNuRBSmeOMERo4jWbme) | [Rodrigo](https://open.spotify.com/artist/235Vf4hkmwvxjVEMuCbRxm) | [Cuarteteando](https://open.spotify.com/album/5yJ7OyeVVRyCd5jtsLsooN) | 4:46 |
 | 80 | [Sabado A La Noche](https://open.spotify.com/track/3Aa4WYAaWgoZLrvwsTgKD8) | [Juana La Loca](https://open.spotify.com/artist/1B77gQZWI3khQYI19R9YUE) | [Belleza](https://open.spotify.com/album/5fo4yhqxaQ9fYwbuT8xxtB) | 2:45 |
 

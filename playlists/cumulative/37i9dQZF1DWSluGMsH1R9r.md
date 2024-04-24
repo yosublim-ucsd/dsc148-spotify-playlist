@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-661 songs - 1 day 4 hr 22 min
+663 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,9 +34,9 @@
 | [Affection](https://open.spotify.com/track/3C9XQnp8aNwSoyPhf1by3z) | [Robert Gafforelli](https://open.spotify.com/artist/16yfPw6Pf0UdDBX05HqCa7) | [Affection](https://open.spotify.com/album/13FzOtSVQw5IaMhGabmVhR) | 3:27 | 2023-12-12 |  |
 | [After Dawn](https://open.spotify.com/track/1N62tCrFso6PZ8OfwsbH53) | [Herbert Campas](https://open.spotify.com/artist/4xviN6HgtlSmFSSoetwtMy) | [After Dawn](https://open.spotify.com/album/4ySd5ged3rmDZ2398Odkc6) | 2:00 | 2021-12-07 | 2023-08-06 |
 | [After The Rain](https://open.spotify.com/track/78FM8RL21qznI4xA2Yqtix) | [Dario Crisman](https://open.spotify.com/artist/3z9wB1A84KYedTTWy1ciHF) | [After The Rain](https://open.spotify.com/album/6UoUV4OYZsmo7CUPD7OW1k) | 2:29 | 2021-12-07 |  |
-| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 |  |
+| [Again](https://open.spotify.com/track/5d2oRIkm7wSJAVrwUmrM2B) | [Lucie Jean](https://open.spotify.com/artist/5jEOVhrMJqGw6notBTGuKn) | [Again](https://open.spotify.com/album/49C1JBmiZ27ltjFJU3WbcD) | 3:11 | 2022-04-07 | 2024-04-24 |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2021-12-07 | 2023-01-27 |
-| [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 |  |
+| [Al Fin](https://open.spotify.com/track/0ERBIAjdSC3hfkG9FvHEiN) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [Al Fin](https://open.spotify.com/album/782vjRICRTGgUGa7uNRVIl) | 3:34 | 2022-09-14 | 2024-04-24 |
 | [Alignment](https://open.spotify.com/track/3JRA65bOIayOI3nag2qqhI) | [Max Walltine](https://open.spotify.com/artist/1fjExu7rpJivThwzQp5fq5) | [Alignment](https://open.spotify.com/album/2ak75QxRASpMwY9OLj2gSn) | 1:53 | 2022-01-04 | 2023-07-25 |
 | [All The Way](https://open.spotify.com/track/70wQ4GEaLnFb1N3x6w9DD8) | [Thane Oliverson](https://open.spotify.com/artist/0AsFKDsc3IkADjvtPBEI5k) | [All The Way](https://open.spotify.com/album/0X7ZASZKFRhy6ANYCXl3RI) | 2:41 | 2021-12-07 |  |
 | [Always and Never](https://open.spotify.com/track/68VIEpxFC0LiJbHRb0LcE2) | [Rita Alezae](https://open.spotify.com/artist/2I8tbYezTkXcisNasm212v) | [Always and Never](https://open.spotify.com/album/7kSPSNQWISyJ9z0v9Kc2mD) | 2:28 | 2021-12-07 | 2022-07-16 |
@@ -97,6 +97,7 @@
 | [Caliesa](https://open.spotify.com/track/4Lj9Ap737rbqtH2Zd6skxa) | [Max Sauer](https://open.spotify.com/artist/6CoTGSKTkd6yzRDg8TKdPy) | [Caliesa](https://open.spotify.com/album/1b1nYVqpwxtu5GpoOeEW7k) | 2:52 | 2022-02-01 | 2022-07-16 |
 | [Calm after the Storm](https://open.spotify.com/track/3FTGaPHBo9p6fce4rYOfxT) | [Nicolai Bertoli](https://open.spotify.com/artist/1A6h4GZEr6PJvIuqcWYFBI) | [Calm after the Storm](https://open.spotify.com/album/3y7x47zbzfA3pd6C0zjnoE) | 2:09 | 2021-12-07 | 2022-07-16 |
 | [Calm and Free](https://open.spotify.com/track/6CpfrXki7I0NzaMIoE740P) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [Calm and Free](https://open.spotify.com/album/6lsQoXThAFoOrdSPGvenzI) | 2:27 | 2024-01-09 |  |
+| [Calolziocorte](https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6) | [Grazia Bellini](https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS) | [Calolziocorte](https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi) | 2:20 | 2024-04-22 |  |
 | [Campania](https://open.spotify.com/track/2Nf6J9vOtyzP4gX6xBvLv9) | [Gilded Reverie](https://open.spotify.com/artist/293KvG5a4tl3xjpUsnXjym) | [Campania](https://open.spotify.com/album/10Ol0BRzxel4NoqxFSJgC8) | 2:21 | 2024-04-17 |  |
 | [campfire](https://open.spotify.com/track/0hzKA9jzEj7vFgkLyF4LQu) | [Edvard Kravchuk](https://open.spotify.com/artist/0LK67TfgE1O9GrBXJ9KLUe) | [campfire](https://open.spotify.com/album/53amoiSBErIDMWnX1yBUj9) | 3:06 | 2023-07-24 |  |
 | [Carousel](https://open.spotify.com/track/3hVSL4kM3pVj8YRmBiDcIn) | [Rich Mortimer](https://open.spotify.com/artist/0WMQidVblrSXVtlhpMcQTI) | [Carousel](https://open.spotify.com/album/6qN46VNn1NLcmaWJYk5hKK) | 2:03 | 2021-12-07 |  |
@@ -625,6 +626,7 @@
 | [Vibrio](https://open.spotify.com/track/41hbWopsUNj8lqbtOMDspW) | [Luna Bauer](https://open.spotify.com/artist/22YRwLt9mmQWkX8wst7Md1) | [Vibrio](https://open.spotify.com/album/7lUH5gqGaUT5P0jmaaPDD4) | 2:44 | 2021-12-07 | 2022-12-24 |
 | [Vierzylinder](https://open.spotify.com/track/3QI14HQnAH2BB5CffziKaF) | [Agnes Klein](https://open.spotify.com/artist/5ZxksGDvjeNLxyy7t4NSpV) | [Vierzylinder](https://open.spotify.com/album/5qYXPblYOuRH9V3d7MoJBg) | 2:49 | 2021-12-07 | 2022-07-16 |
 | [View from the Train](https://open.spotify.com/track/5vA4phoFUnQ5hqpKbDmDVt) | [Riley Houser](https://open.spotify.com/artist/2PxJ8BAthpoiOo3XgIJnS2) | [View from the Train](https://open.spotify.com/album/1OgG1AP0mLif0vjZ6CEf2D) | 2:54 | 2021-12-07 | 2023-10-18 |
+| [Villa Cortese](https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu) | [Livia Marcella](https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq) | [Villa Cortese](https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn) | 2:39 | 2024-04-22 |  |
 | [Vitality](https://open.spotify.com/track/10tC4GQIfS6saBeCfXda1h) | [Jamie Troy](https://open.spotify.com/artist/6NJWSp0xcJQQPzR375b8B3) | [Vitality](https://open.spotify.com/album/5FciHHdDCIuNUnI1jt24nr) | 2:06 | 2021-12-07 | 2022-04-21 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2022-01-18 |  |
 | [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2021-12-07 | 2023-10-05 |

@@ -1,6 +1,6 @@
 {
   "description": "Illuminating Asian artists everywhere. Cover: thuy.",
-  "num_followers": 284697,
+  "num_followers": 284643,
   "original_name": "Jasmine",
   "owner": {
     "name": "Spotify",
@@ -959,6 +959,38 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "E-SIDE 3",
+        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
+      },
+      "artists": [
+        {
+          "name": "YOASOBI",
+          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+        }
+      ],
+      "duration_ms": 199082,
+      "name": "Seventeen",
+      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Astronaut",
+        "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
+      },
+      "artists": [
+        {
+          "name": "Griff",
+          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+        }
+      ],
+      "duration_ms": 215082,
+      "name": "Astronaut",
+      "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "STUPID IN LOVE (feat. HUH YUNJIN of LE SSERAFIM) [Dabin Remix]",
         "url": "https://open.spotify.com/album/01dB7W8wlec9wswyT2jRsw"
       },
@@ -983,50 +1015,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Astronaut",
-        "url": "https://open.spotify.com/album/3kEiyT5GXTX6jFK92h6qL9"
+        "name": "the space between us",
+        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
       },
       "artists": [
         {
-          "name": "Griff",
-          "url": "https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff"
+          "name": "siopaolo",
+          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
         }
       ],
-      "duration_ms": 215082,
-      "name": "Astronaut",
-      "url": "https://open.spotify.com/track/7nku4ywsysUidKcPiS4hIQ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "E-SIDE 3",
-        "url": "https://open.spotify.com/album/2HBkR5qNDKoo1EDrCaSy0U"
-      },
-      "artists": [
-        {
-          "name": "YOASOBI",
-          "url": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-        }
-      ],
-      "duration_ms": 199082,
-      "name": "Seventeen",
-      "url": "https://open.spotify.com/track/2yAB3u40MOFRNuUzdl0but"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Care",
-        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
-      },
-      "artists": [
-        {
-          "name": "Hana Vu",
-          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
-        }
-      ],
-      "duration_ms": 277815,
-      "name": "Care",
-      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
+      "duration_ms": 253325,
+      "name": "the space between us",
+      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1047,18 +1047,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "the space between us",
-        "url": "https://open.spotify.com/album/3MW0W3uEDPpMQyzdVJ9xAx"
+        "name": "Care",
+        "url": "https://open.spotify.com/album/1X3yeKsuB1sSPXQZ9VChgg"
       },
       "artists": [
         {
-          "name": "siopaolo",
-          "url": "https://open.spotify.com/artist/4dXBBVDuriULFiOyu5E8Kf"
+          "name": "Hana Vu",
+          "url": "https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO"
         }
       ],
-      "duration_ms": 253325,
-      "name": "the space between us",
-      "url": "https://open.spotify.com/track/4s0m05iPPuTeFlJxAQivGy"
+      "duration_ms": 277815,
+      "name": "Care",
+      "url": "https://open.spotify.com/track/6egdXtpyZGrZwsaESnpHAi"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "east side",
-        "url": "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj"
-      },
-      "artists": [
-        {
-          "name": "Lyn Lapid",
-          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
-        }
-      ],
-      "duration_ms": 165578,
-      "name": "east side",
-      "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "White Pills - Single",
         "url": "https://open.spotify.com/album/25nhf0pEOOkEiLTslF0IHu"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 211411,
       "name": "White Pills",
       "url": "https://open.spotify.com/track/5EGu3xrcrhJL2XuzS82OaX"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "east side",
+        "url": "https://open.spotify.com/album/0TqA7jHzMVftg6xeMa9ZZj"
+      },
+      "artists": [
+        {
+          "name": "Lyn Lapid",
+          "url": "https://open.spotify.com/artist/4pfy05cNNTacuOQ6SiSu4v"
+        }
+      ],
+      "duration_ms": 165578,
+      "name": "east side",
+      "url": "https://open.spotify.com/track/2AqZLF7yk7Jf17Be1i6jcO"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
-      },
-      "artists": [
-        {
-          "name": "Alex Porat",
-          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
-        }
-      ],
-      "duration_ms": 190624,
-      "name": "Hopelessly Devoted To You - Spotify Single",
-      "url": "https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "all of you",
         "url": "https://open.spotify.com/album/7qlUQ05TJEwQ0B98RIdHdZ"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 158485,
       "name": "all of you",
       "url": "https://open.spotify.com/track/6Py0YyWzj4Hb0MO64jAJQr"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0C1QF5MYNtmIJno4gzufLi"
+      },
+      "artists": [
+        {
+          "name": "Alex Porat",
+          "url": "https://open.spotify.com/artist/3aROeSNBd69DWHpcyyMOcI"
+        }
+      ],
+      "duration_ms": 190624,
+      "name": "Hopelessly Devoted To You - Spotify Single",
+      "url": "https://open.spotify.com/track/3ab4v5DEX5BTlfKp5PA6yu"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "What (I Wish) He Said",
-        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
-      },
-      "artists": [
-        {
-          "name": "mindfreakkk",
-          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
-        }
-      ],
-      "duration_ms": 161400,
-      "name": "What (I Wish) He Said",
-      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "If I Say I Love You",
         "url": "https://open.spotify.com/album/2ESwq9YYETbOxHBxrKd1CP"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 230704,
       "name": "If I Say I Love You",
       "url": "https://open.spotify.com/track/4p56kERNtaMrhgA4KUnHnT"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "What (I Wish) He Said",
+        "url": "https://open.spotify.com/album/3EXsqaNPtQNCdBoXczLKpl"
+      },
+      "artists": [
+        {
+          "name": "mindfreakkk",
+          "url": "https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a"
+        }
+      ],
+      "duration_ms": 161400,
+      "name": "What (I Wish) He Said",
+      "url": "https://open.spotify.com/track/4guvT3MyI2ydXSxpW5dxNM"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1575,22 +1575,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "maybe",
-        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
-      },
-      "artists": [
-        {
-          "name": "Michael Kaneko",
-          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
-        }
-      ],
-      "duration_ms": 221490,
-      "name": "maybe",
-      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Gone",
         "url": "https://open.spotify.com/album/4q2bsMhNwwPFu57oEg3MZ6"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 161000,
       "name": "Gone",
       "url": "https://open.spotify.com/track/4OUJAdeUmoqDh0iBWlvaoy"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/0crSGw57b2pARwMMz3qnBF"
+      },
+      "artists": [
+        {
+          "name": "Michael Kaneko",
+          "url": "https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb"
+        }
+      ],
+      "duration_ms": 221490,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/40MvEAg63reIXptL6U0ksZ"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "So Familiar",
+        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
+      },
+      "artists": [
+        {
+          "name": "Sylo",
+          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
+        }
+      ],
+      "duration_ms": 238055,
+      "name": "So Familiar",
+      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "TRAVELIN'",
         "url": "https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y"
       },
@@ -1903,22 +1919,6 @@
       "duration_ms": 197500,
       "name": "SEEING PINK",
       "url": "https://open.spotify.com/track/1F0Lmgb46zDkAefUhkJXB0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "So Familiar",
-        "url": "https://open.spotify.com/album/5uhr4pmLpjl3iFgjerrnEb"
-      },
-      "artists": [
-        {
-          "name": "Sylo",
-          "url": "https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl"
-        }
-      ],
-      "duration_ms": 238055,
-      "name": "So Familiar",
-      "url": "https://open.spotify.com/track/2RjDCbFsTDqdVe3wbWVFx7"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2291,22 +2291,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Tragic Love",
-        "url": "https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS"
-      },
-      "artists": [
-        {
-          "name": "H I N A N O",
-          "url": "https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY"
-        }
-      ],
-      "duration_ms": 203333,
-      "name": "Tragic Love",
-      "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Clouds",
         "url": "https://open.spotify.com/album/2vPJBsueA0vfXM6RehIOty"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 201506,
       "name": "Clouds",
       "url": "https://open.spotify.com/track/37MGryCBQtujYtMNflLZM5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Tragic Love",
+        "url": "https://open.spotify.com/album/4YxfdqBl4tSYgERe54AWPS"
+      },
+      "artists": [
+        {
+          "name": "H I N A N O",
+          "url": "https://open.spotify.com/artist/6tO81LUACIiheJWoVBJ5PY"
+        }
+      ],
+      "duration_ms": 203333,
+      "name": "Tragic Love",
+      "url": "https://open.spotify.com/track/1UBwp5S204qFsVS0enwAEo"
     },
     {
       "added_at": "2024-04-19 04:00:00",

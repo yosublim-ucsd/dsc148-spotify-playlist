@@ -946,7 +946,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 161214,
       "name": "Cu\u00e9ntale",
       "url": "https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL"
@@ -1362,6 +1362,28 @@
       "duration_ms": 212253,
       "name": "El humo de mi fasito",
       "url": "https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0"
+    },
+    {
+      "album": {
+        "name": "El List\u00f3n de Tu Pelo",
+        "url": "https://open.spotify.com/album/4oei4M2FnGxR99GP7Fctsz"
+      },
+      "artists": [
+        {
+          "name": "Carlos Montalvo",
+          "url": "https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M"
+        },
+        {
+          "name": "Daniel Agostini",
+          "url": "https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246987,
+      "name": "El Liston de Tu Pelo",
+      "url": "https://open.spotify.com/track/0URKAkRgFg97sZj6lOG2Zr"
     },
     {
       "album": {

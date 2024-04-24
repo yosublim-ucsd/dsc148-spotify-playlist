@@ -4,7 +4,7 @@
 
 > Everyday\. Every time\.  These are the songs you can count on\. Always.
 
-205 songs - 15 hr 34 min
+206 songs - 15 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -186,10 +186,11 @@
 | [Voice of Truth](https://open.spotify.com/track/4G29gmjS7Z2nEFeM7FA6wx) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r) | [Casting Crowns](https://open.spotify.com/album/0OET3Pft2RKmDxzpP3FcGc) | 5:23 | 2020-08-26 |  |
 | [Waking Up](https://open.spotify.com/track/5jwakA3WYHMeucmgu0tjbD) | [We The Kingdom](https://open.spotify.com/artist/5Ye2QWN2Wl9zTn947eaest) | [Holy Water](https://open.spotify.com/album/0lGxlaY1aWzp6RWFDwNHAf) | 5:16 | 2020-08-26 |  |
 | [WALKING ON WATER](https://open.spotify.com/track/0WWUC8RjWvuBTkiiFDxyQf) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [HARD CUTS: Songs from the H A R D L O V E Sessions](https://open.spotify.com/album/4sZaQapzbeoaQalmxymSrd) | 4:06 | 2023-02-18 | 2023-08-21 |
-| [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 | 2020-08-26 |  |
+| [Wanted](https://open.spotify.com/track/3IKsAac2qCd3WRTYUbivqI) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:55 | 2020-08-26 | 2024-04-24 |
 | [Way Maker \- Live](https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk) | [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Better Word](https://open.spotify.com/album/5PobE1kR95I2qvrKI1rDak) | 8:23 | 2020-08-26 |  |
 | [Waymaker \- Radio Version](https://open.spotify.com/track/4tkmm0pdXEZvHscuHWnkqy) | [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Waymaker \(Radio Version\)](https://open.spotify.com/album/33Litf1HszYwgNVwbgdWpk) | 4:02 | 2020-08-26 |  |
 | [What A Beautiful Name \- Live](https://open.spotify.com/track/1yYUIjT3bZ9RB9vejqYy9f) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [Let There Be Light \(Deluxe\)](https://open.spotify.com/album/5SuiUBJmzzlOZqj3rogcja) | 5:41 | 2020-08-26 |  |
+| [What a Friend](https://open.spotify.com/track/7ozWDT47HkfCmbNGgMorU8) | [Matt Maher](https://open.spotify.com/artist/1dPl8axUL09mso0myZqPZW) | [Echoes \(Deluxe Edition\)](https://open.spotify.com/album/7HKEDHznm7Zngpw3oHkorA) | 3:17 | 2023-02-18 |  |
 | [What Love Looks Like](https://open.spotify.com/track/30BXyLQSxgWMWyiedfFSMA) | [Elle Limebear](https://open.spotify.com/artist/7MCV4p3QmcYDMTfiE0ZWMD) | [What Love Looks Like](https://open.spotify.com/album/4EYsHegPLTSHYTlN0pAoJZ) | 3:25 | 2020-08-26 | 2022-07-29 |
 | [When I Say Amen](https://open.spotify.com/track/72dkOjbNYK7xOstSxUiguh) | [Rachel Wammack](https://open.spotify.com/artist/5QpNKnsD0biAkM2sHA7OXR) | [When I Say Amen](https://open.spotify.com/album/1OnvG3dApeM5v61vNW3yUZ) | 3:28 | 2020-08-26 | 2022-07-29 |
 | [Where I Belong](https://open.spotify.com/track/1N2fNKIlJJ6PQgcVD1GrBP) | [Building 429](https://open.spotify.com/artist/6Le23Aqwqi28fQUzfv4dHY) | [Listen To The Sound](https://open.spotify.com/album/3ly4JA0oAHyQWl0YmTB8LD) | 3:20 | 2020-08-26 |  |

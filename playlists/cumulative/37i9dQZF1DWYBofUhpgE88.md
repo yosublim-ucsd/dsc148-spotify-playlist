@@ -4,7 +4,7 @@
 
 > Rap per non smettere mai di crederci 💪🏋️🏃‍♀
 
-198 songs - 11 hr 0 min
+199 songs - 11 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Paradiso Artificiale \(feat\. Baby Gang & Kid Yugi\)](https://open.spotify.com/track/5omIW7YOPhA6CULhkdz6jE) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [La Divina Commedia](https://open.spotify.com/album/4ir7AIjfrMVHTxZhnfzhWl) | 2:42 | 2023-09-20 |  |
 | [Party HH \- feat\. Lazza](https://open.spotify.com/track/61koTDrwN9kZQmDhtH7NpM) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Chris Nolan](https://open.spotify.com/artist/1xsYReh7zhty26wD4tprKh) | [Vita Vera Mixtape](https://open.spotify.com/album/3TjYHhJBeXCyoG0mmsTZd9) | 3:31 | 2022-05-03 | 2022-07-29 |
 | [Party Up](https://open.spotify.com/track/0LWkaEyQRkF0XAms8Bg1fC) | [DMX](https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG) | [...And Then There Was X](https://open.spotify.com/album/62l3f8u6j9eyDhuxsZA2iH) | 4:28 | 2022-07-04 |  |
-| [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 | 2023-03-20 |  |
+| [Pelé](https://open.spotify.com/track/3UYr4TdhtCthMH9ujhx0BA) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Madfingerz](https://open.spotify.com/artist/4VmOlyJsnQB93ZIGMO2XWo) | [Pelé](https://open.spotify.com/album/329aNexZnIOYq7GaNHCxSC) | 2:13 | 2023-03-20 | 2024-04-24 |
 | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/track/2CHUSuvnHXjLTGdX6Bz6fv) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u) | [Petit Fou Fou \(feat\. ANNA\)](https://open.spotify.com/album/5GNS5KbQRhO2uvyM7HKCZ6) | 1:53 | 2023-12-14 |  |
 | [PIOVE \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/6BUueuMQR4k7CuoMEsnGou) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:35 | 2022-05-03 |  |
 | [Plaquette](https://open.spotify.com/track/2r3tMClmk1Cw974ByW20ny) | [Nabi](https://open.spotify.com/artist/5CqlDzj8DSqsklkXuTYfSd) | [Plaquette](https://open.spotify.com/album/2VGAKLqF0nTWezZINNzccY) | 2:38 | 2022-09-08 | 2023-03-26 |
@@ -146,6 +146,7 @@
 | [POWER](https://open.spotify.com/track/2gZUPNdnz5Y45eiGxpHGSc) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [My Beautiful Dark Twisted Fantasy](https://open.spotify.com/album/20r762YmB5HeofjMCiPMLv) | 4:52 | 2022-07-04 |  |
 | [Praise The Lord \(Da Shine\) \(feat\. Skepta\)](https://open.spotify.com/track/7ycWLEP1GsNjVvcjawXz3z) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [TESTING](https://open.spotify.com/album/3MATDdrpHmQCmuOcozZjDa) | 3:25 | 2022-07-04 |  |
 | [Pure Water \(with Migos\)](https://open.spotify.com/track/3j84U36KvLeXNDPv4t5pI8) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:12 | 2022-07-04 | 2024-04-19 |
+| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-23 |  |
 | [Que Lo Ke](https://open.spotify.com/track/7wj8OXiqdAfNsnWm2zRV9e) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0), [Bobo](https://open.spotify.com/artist/4W6DLx1j8rZzzcbMuUd42J) | [INNOCENTE](https://open.spotify.com/album/7CIpLH395MhKKJ7WyUzm58) | 3:03 | 2023-10-04 |  |
 | [Ragazzo Della Piazza](https://open.spotify.com/track/1ZapPOEUzycM2UgmizCdYY) | [Club Dogo](https://open.spotify.com/artist/4dyfAiJCbl7jS1GHOCdiJv), [Ensi](https://open.spotify.com/artist/6dKdNHGdsBvEeNDxXV8AMP) | [Noi Siamo Il Club \(Reloaded Edition\)](https://open.spotify.com/album/7zl59AtJCTMwOhbDs5vTw8) | 4:56 | 2024-01-02 | 2024-01-04 |
 | [Remember the Name \(feat\. Styles of Beyond\)](https://open.spotify.com/track/6ndmKwWqMozN2tcZqzCX4K) | [Fort Minor](https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk), [Styles Of Beyond](https://open.spotify.com/artist/5bf6yYgHODBW5EreBZshpX) | [The Rising Tied](https://open.spotify.com/album/5v4Vx9loqMQCS3J7OmP9pa) | 3:50 | 2022-07-04 |  |

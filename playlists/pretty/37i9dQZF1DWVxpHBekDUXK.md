@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 
 > When someone you love becomes a memory..\. find solace in these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,722 likes - 50 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,594 likes - 50 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxpHBekDUXK.md) - [plain]
 | 10 | [Breathe \(2 AM\)](https://open.spotify.com/track/5auMzVHFr5Zfw6IbKarZ56) | [Anna Nalick](https://open.spotify.com/artist/4LoM3lMauQ540MW9QiyIcR) | [Wreck of the Day](https://open.spotify.com/album/30y0ZT845hhBoFNRKcZjT9) | 4:39 |
 | 11 | [If You Could See Me Now](https://open.spotify.com/track/6EzSy7WxNCazx3csu7lxdV) | [The Script](https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V) | [\#3 Deluxe Version](https://open.spotify.com/album/7JOCOjZTcLysDMkZGWlcIj) | 3:39 |
 | 12 | [Little Wonders](https://open.spotify.com/track/6j6bTAiW0oEfLlAjmRNcbb) | [Rob Thomas](https://open.spotify.com/artist/3aBkeBhwadnWMWoVJ2CxJC) | [Little Wonders](https://open.spotify.com/album/2P6X6guB0AiQGzRQaekJbN) | 3:44 |
-| 13 | [To Where You Are](https://open.spotify.com/track/7go4n83IV0OO5Ztd1DlDh2) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Josh Groban](https://open.spotify.com/album/6jjEZ02MB9emxTmzSUJx1E) | 3:53 |
-| 14 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 |
+| 13 | [Go On](https://open.spotify.com/track/6RD1Xy5c5xEhFeqat974kK) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [Sleep Through The Static](https://open.spotify.com/album/3fa8r86AofGDNs1S2d3xgz) | 4:34 |
+| 14 | [To Where You Are](https://open.spotify.com/track/7go4n83IV0OO5Ztd1DlDh2) | [Josh Groban](https://open.spotify.com/artist/6cXMpsP9x0SH4kFfMyVezF) | [Josh Groban](https://open.spotify.com/album/6jjEZ02MB9emxTmzSUJx1E) | 3:53 |
 | 15 | [White Shadows](https://open.spotify.com/track/0WWz2AaqxLoO0fa9ou6Fqc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [X&Y](https://open.spotify.com/album/4E7bV0pzG0LciBSWTszra6) | 5:28 |
 | 16 | [There You'll Be \- 2007 Remaster](https://open.spotify.com/track/1s2khOWzC99udpUaPICLJI) | [Faith Hill](https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa) | [The Hits](https://open.spotify.com/album/7fvl3dOnDrv9rq5IBmLbAa) | 3:40 |
 | 17 | [Somewhere Out There \- From "An American Tail" Soundtrack](https://open.spotify.com/track/6Zd6gSMyyjSybIw4lK9Ecy) | [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [An American Tail](https://open.spotify.com/album/3LcVWwdCl71oSq9MPEAjh9) | 3:58 |

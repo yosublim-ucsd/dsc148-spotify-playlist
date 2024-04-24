@@ -1,6 +1,6 @@
 {
   "description": "Kick back with the perfect mix of covers.",
-  "num_followers": 1177799,
+  "num_followers": 1176825,
   "original_name": "Ultimate Covers",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
-      },
-      "artists": [
-        {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
-        }
-      ],
-      "duration_ms": 261120,
-      "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
-      "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "With The Beatles (Remastered)",
         "url": "https://open.spotify.com/album/1aYdiJk6XKeHWGO3FzHHTr"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 133506,
       "name": "Till There Was You - Remastered 2009",
       "url": "https://open.spotify.com/track/0ESIjVxnDnCDaTPo6sStHm"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+      },
+      "artists": [
+        {
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+        }
+      ],
+      "duration_ms": 261120,
+      "name": "If I Ain\u2019t Got You - James Bay Spotify Session 2015 \"Alicia Keys Cover\"",
+      "url": "https://open.spotify.com/track/1zJpJ3HPRtAYYNLWm5BJEf"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -923,22 +923,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC"
-      },
-      "artists": [
-        {
-          "name": "Lindsey Stirling",
-          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
-        }
-      ],
-      "duration_ms": 147427,
-      "name": "7 Years (Acoustic) - Recorded at Spotify Studios Nyc",
-      "url": "https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Payphone",
         "url": "https://open.spotify.com/album/50MkaMTSbHu9O2f4puTIiv"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 184000,
       "name": "Payphone",
       "url": "https://open.spotify.com/track/5h3Wapr8ZukuHRZ5XMMejV"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1XXSHevNKbENDXqH5iRSEC"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Stirling",
+          "url": "https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM"
+        }
+      ],
+      "duration_ms": 147427,
+      "name": "7 Years (Acoustic) - Recorded at Spotify Studios Nyc",
+      "url": "https://open.spotify.com/track/1VK5JYdgrJZENDl1taa2cS"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1007,6 +1007,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "The Bluebird of Happiness",
+        "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
+      },
+      "artists": [
+        {
+          "name": "Lotte Kestner",
+          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
+        }
+      ],
+      "duration_ms": 269920,
+      "name": "Halo",
+      "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
         "url": "https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 231013,
       "name": "Summertime Sadness (Acoustic Cover) feat. Keelan Donovan",
       "url": "https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "The Bluebird of Happiness",
-        "url": "https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX"
-      },
-      "artists": [
-        {
-          "name": "Lotte Kestner",
-          "url": "https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI"
-        }
-      ],
-      "duration_ms": 269920,
-      "name": "Halo",
-      "url": "https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1155,22 +1155,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Heroes",
-        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
+        "name": "The Tip Jar Volume One",
+        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        },
-        {
-          "name": "Lukas Nelson",
-          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
+          "name": "Obadiah Parker",
+          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
         }
       ],
-      "duration_ms": 242280,
-      "name": "Just Breathe (feat. Lukas Nelson)",
-      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
+      "duration_ms": 298800,
+      "name": "Hey Ya - solo version",
+      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1191,18 +1187,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "The Tip Jar Volume One",
-        "url": "https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx"
+        "name": "Heroes",
+        "url": "https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT"
       },
       "artists": [
         {
-          "name": "Obadiah Parker",
-          "url": "https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        },
+        {
+          "name": "Lukas Nelson",
+          "url": "https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9"
         }
       ],
-      "duration_ms": 298800,
-      "name": "Hey Ya - solo version",
-      "url": "https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi"
+      "duration_ms": 242280,
+      "name": "Just Breathe (feat. Lukas Nelson)",
+      "url": "https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
-        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
-      },
-      "artists": [
-        {
-          "name": "Joanna Wang",
-          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
-        }
-      ],
-      "duration_ms": 225053,
-      "name": "Wild World - Acoustic Version",
-      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "City of Stars",
         "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 154858,
       "name": "City of Stars",
       "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "\u4e3a\u7231\u505a\u7684\u4e00\u5207",
+        "url": "https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K"
+      },
+      "artists": [
+        {
+          "name": "Joanna Wang",
+          "url": "https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C"
+        }
+      ],
+      "duration_ms": 225053,
+      "name": "Wild World - Acoustic Version",
+      "url": "https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "To Love Somebody (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "I Shall Be Released",
+      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Chasing Cars",
         "url": "https://open.spotify.com/album/09dM9UZeA5l3Hyd5cGe6Td"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "To Love Somebody (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6T4nAC6CRLciyg4tQbgovi"
+        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
+        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
       },
       "artists": [
         {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+          "name": "Richie Havens",
+          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
         }
       ],
-      "duration_ms": 233000,
-      "name": "I Shall Be Released",
-      "url": "https://open.spotify.com/track/32BTFbqhSvYKftE0e8a8d4"
+      "duration_ms": 254000,
+      "name": "Here Comes The Sun",
+      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1535,22 +1551,6 @@
       "duration_ms": 219374,
       "name": "Funeral Singers",
       "url": "https://open.spotify.com/track/5Y42u37PlyQXegnuI1Hpo1"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Live At The Cellar Door and at the Santa Monica Civic Auditorium",
-        "url": "https://open.spotify.com/album/5W2hT3ooeITFHAGaLap3v2"
-      },
-      "artists": [
-        {
-          "name": "Richie Havens",
-          "url": "https://open.spotify.com/artist/4Qk0lWGeXydDvfrDufDQ9p"
-        }
-      ],
-      "duration_ms": 254000,
-      "name": "Here Comes The Sun",
-      "url": "https://open.spotify.com/track/0hhzJEusz6r7f0eL1Uc8kw"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "The Band",
-        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Brown",
-          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "I Wanna Dance with Somebody",
-      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Chandelier",
         "url": "https://open.spotify.com/album/0s4GSmsYgH9zXIAXnjDivH"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 212300,
       "name": "Chandelier",
       "url": "https://open.spotify.com/track/7AKebOEDMEZWMqBl4bKoYu"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "The Band",
+        "url": "https://open.spotify.com/album/7utn5Qzh3LrvtCmt3FjKq0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Brown",
+          "url": "https://open.spotify.com/artist/5Dj1Ruham8HvIYJHDPTnhE"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "I Wanna Dance with Somebody",
+      "url": "https://open.spotify.com/track/550Wn0mCBgXSnTNouQA2fY"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2099,6 +2099,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Songs 2003-2013",
+        "url": "https://open.spotify.com/album/5mflqsVyBvwwDdQkSqGOUL"
+      },
+      "artists": [
+        {
+          "name": "Ane Brun",
+          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
+        }
+      ],
+      "duration_ms": 185013,
+      "name": "Feeling Good",
+      "url": "https://open.spotify.com/track/12fGy97GwTTd8IxTJl7eUw"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Nick Of Time",
         "url": "https://open.spotify.com/album/4SArFlFDyqFOzmlNFS5fDX"
       },
@@ -2131,22 +2147,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Songs 2003-2013",
-        "url": "https://open.spotify.com/album/5mflqsVyBvwwDdQkSqGOUL"
-      },
-      "artists": [
-        {
-          "name": "Ane Brun",
-          "url": "https://open.spotify.com/artist/2L3kwZFd16zjHz9a5kEPAm"
-        }
-      ],
-      "duration_ms": 185013,
-      "name": "Feeling Good",
-      "url": "https://open.spotify.com/track/12fGy97GwTTd8IxTJl7eUw"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/4kAAzBoHtNQaOYTTQGQ5YH"
       },
@@ -2159,22 +2159,6 @@
       "duration_ms": 178666,
       "name": "Closer",
       "url": "https://open.spotify.com/track/5H6Bc7oEWYuKrwb1pUZWhh"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "And I Love Him",
-        "url": "https://open.spotify.com/album/4NscNwWLaJ6cVqJFICjR8y"
-      },
-      "artists": [
-        {
-          "name": "Esther Phillips",
-          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
-        }
-      ],
-      "duration_ms": 158733,
-      "name": "And I Love Him",
-      "url": "https://open.spotify.com/track/1dPUQhlNGEaDm9Qi1vcL7I"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2199,18 +2183,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Wish You Were Here",
-        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+        "name": "And I Love Him",
+        "url": "https://open.spotify.com/album/4NscNwWLaJ6cVqJFICjR8y"
       },
       "artists": [
         {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+          "name": "Esther Phillips",
+          "url": "https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7"
         }
       ],
-      "duration_ms": 285719,
-      "name": "Wish You Were Here",
-      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
+      "duration_ms": 158733,
+      "name": "And I Love Him",
+      "url": "https://open.spotify.com/track/1dPUQhlNGEaDm9Qi1vcL7I"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2227,6 +2211,22 @@
       "duration_ms": 282173,
       "name": "Boots Of Spanish Leather",
       "url": "https://open.spotify.com/track/0r7rLeNXTRTRsyDjYp9tIq"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Wish You Were Here",
+        "url": "https://open.spotify.com/album/6dGngnY6ND7aoag5IGkx9C"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 285719,
+      "name": "Wish You Were Here",
+      "url": "https://open.spotify.com/track/6Hm8qbvIicqaQmAWyevlda"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2299,6 +2299,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Hello (Adele Cover)",
+        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
+      },
+      "artists": [
+        {
+          "name": "Erato",
+          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
+        }
+      ],
+      "duration_ms": 230225,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "The Georgia EP",
         "url": "https://open.spotify.com/album/3stEKyV4hKU1G5yXtmDOaN"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 143966,
       "name": "Dancing in the Moonlight (It's Caught Me in Its Spotlight) - Live from Spotify Studios, New York City, NY",
       "url": "https://open.spotify.com/track/2fpfApt0LZiOWybYfRVXTB"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Hello (Adele Cover)",
-        "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
-      },
-      "artists": [
-        {
-          "name": "Erato",
-          "url": "https://open.spotify.com/artist/72T7KgrFiMTgXRWxfuDn5o"
-        }
-      ],
-      "duration_ms": 230225,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2595,22 +2595,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge",
-        "url": "https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 209066,
-      "name": "Life On Mars?",
-      "url": "https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Total Eclipse of the Heart",
         "url": "https://open.spotify.com/album/0IgI0e8Fucm66AbSZtdNYN"
       },
@@ -2623,6 +2607,22 @@
       "duration_ms": 322909,
       "name": "Total Eclipse of the Heart",
       "url": "https://open.spotify.com/track/6ZpTBpbC4PIUjWEHS59Wmu"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "The Life Aquatic Exclusive Studio Sessions Featuring Seu Jorge",
+        "url": "https://open.spotify.com/album/2tAFOhqz3DxxVI2s5YNsrD"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 209066,
+      "name": "Life On Mars?",
+      "url": "https://open.spotify.com/track/0KpA8R3NM3N0JB4NAGbAxO"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2679,6 +2679,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "V (Deluxe)",
+        "url": "https://open.spotify.com/album/7cVkMpmcdlEo67aMmffyoU"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 264720,
+      "name": "Sex And Candy",
+      "url": "https://open.spotify.com/track/0beCjUwOTRNatg7CYf4GS8"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/2fEYL3YBVILeEuiKJL7S2n"
       },
@@ -2695,18 +2711,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "V (Deluxe)",
-        "url": "https://open.spotify.com/album/7cVkMpmcdlEo67aMmffyoU"
+        "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "AWOLNATION",
+          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
         }
       ],
-      "duration_ms": 264720,
-      "name": "Sex And Candy",
-      "url": "https://open.spotify.com/track/0beCjUwOTRNatg7CYf4GS8"
+      "duration_ms": 154360,
+      "name": "I'm On Fire - From \"Fifty Shades Of Grey\" Soundtrack",
+      "url": "https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2727,22 +2743,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Whatever You Like [Digital 45]",
-        "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
-      },
-      "artists": [
-        {
-          "name": "Anya Marina",
-          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
-        }
-      ],
-      "duration_ms": 228907,
-      "name": "Whatever You Like - Single Version",
-      "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Live in London",
         "url": "https://open.spotify.com/album/55BQeeBdoCapsI5SZFA3IN"
       },
@@ -2755,6 +2755,22 @@
       "duration_ms": 332133,
       "name": "The a Team - Live at the Tabernacle",
       "url": "https://open.spotify.com/track/0qSSbcZ2bvjJuB3Wy5lzK5"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Whatever You Like [Digital 45]",
+        "url": "https://open.spotify.com/album/16AnLWE6Js4hmXqumUFJjv"
+      },
+      "artists": [
+        {
+          "name": "Anya Marina",
+          "url": "https://open.spotify.com/artist/6xYBLeSMu1AqPsnUzEvx5n"
+        }
+      ],
+      "duration_ms": 228907,
+      "name": "Whatever You Like - Single Version",
+      "url": "https://open.spotify.com/track/5qX2ZJoLEyFCTAdaCqUo7s"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2803,22 +2819,6 @@
       "duration_ms": 192053,
       "name": "This Woman's Work",
       "url": "https://open.spotify.com/track/0J9e43QjshiuFc6whszKZS"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Fifty Shades Of Grey (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7cY6OtWTUsLxuSnl8balDe"
-      },
-      "artists": [
-        {
-          "name": "AWOLNATION",
-          "url": "https://open.spotify.com/artist/4njdEjTnLfcGImKZu1iSrz"
-        }
-      ],
-      "duration_ms": 154360,
-      "name": "I'm On Fire - From \"Fifty Shades Of Grey\" Soundtrack",
-      "url": "https://open.spotify.com/track/5mOmBubZnYIy9EgMZFlDlZ"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2919,38 +2919,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Spotify Singles: Paul McCartney Box Set",
-        "url": "https://open.spotify.com/album/7piDt78gLATzAQv5JtQ4I7"
-      },
-      "artists": [
-        {
-          "name": "Paul McCartney",
-          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
-        }
-      ],
-      "duration_ms": 154091,
-      "name": "Love Me Do - Recorded At Abbey Road Studios, London",
-      "url": "https://open.spotify.com/track/3aFEzoDaYRNiH4SoHRhBJU"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Covers",
-        "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
-      },
-      "artists": [
-        {
-          "name": "Jillian Edwards",
-          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
-        }
-      ],
-      "duration_ms": 248013,
-      "name": "When a Man Loves a Woman",
-      "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Girls Just Want To Have Fun",
         "url": "https://open.spotify.com/album/3bY988ruaDyECoDPBjJ3g6"
       },
@@ -2963,6 +2931,22 @@
       "duration_ms": 156923,
       "name": "Girls Just Want To Have Fun",
       "url": "https://open.spotify.com/track/3Qy9NQhUhXKQFXWEBjm4UI"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Spotify Singles: Paul McCartney Box Set",
+        "url": "https://open.spotify.com/album/7piDt78gLATzAQv5JtQ4I7"
+      },
+      "artists": [
+        {
+          "name": "Paul McCartney",
+          "url": "https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB"
+        }
+      ],
+      "duration_ms": 154091,
+      "name": "Love Me Do - Recorded At Abbey Road Studios, London",
+      "url": "https://open.spotify.com/track/3aFEzoDaYRNiH4SoHRhBJU"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -2983,6 +2967,22 @@
       "duration_ms": 299613,
       "name": "I Know (feat. Fiona Apple) - RISE Recording",
       "url": "https://open.spotify.com/track/3SO5iPrvbgXz2XUwjOExDs"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Covers",
+        "url": "https://open.spotify.com/album/6ScyNuk1CrlwG4P3yf5rjo"
+      },
+      "artists": [
+        {
+          "name": "Jillian Edwards",
+          "url": "https://open.spotify.com/artist/6ctgu4FFlnNhMgrKiIzCxp"
+        }
+      ],
+      "duration_ms": 248013,
+      "name": "When a Man Loves a Woman",
+      "url": "https://open.spotify.com/track/2kPyPBMVkoAdT5yxgn0u6V"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3247,6 +3247,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
+      },
+      "artists": [
+        {
+          "name": "I'm With Her",
+          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
+        }
+      ],
+      "duration_ms": 278611,
+      "name": "Hannah Hunt",
+      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "All Access: Volume One",
         "url": "https://open.spotify.com/album/7zMe3emFwC6oO2TltnJIqF"
       },
@@ -3259,22 +3275,6 @@
       "duration_ms": 251973,
       "name": "A Day In The Life",
       "url": "https://open.spotify.com/track/6WL49U4oUQVdKNn2F7IZDp"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a"
-      },
-      "artists": [
-        {
-          "name": "I'm With Her",
-          "url": "https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr"
-        }
-      ],
-      "duration_ms": 278611,
-      "name": "Hannah Hunt - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3295,6 +3295,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Don't Wanna Know (Acoustic Version)",
+        "url": "https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 183472,
+      "name": "Don't Wanna Know - Acoustic Version",
+      "url": "https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Pompeii",
         "url": "https://open.spotify.com/album/3kJ5JBWRaoOgfz2alG0r5u"
       },
@@ -3311,22 +3327,6 @@
       "duration_ms": 173149,
       "name": "Pompeii",
       "url": "https://open.spotify.com/track/7M288uc13UNSvwOSPfuEAL"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Don't Wanna Know (Acoustic Version)",
-        "url": "https://open.spotify.com/album/2pmiZkAmr1b35Aaf5cNCjY"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 183472,
-      "name": "Don't Wanna Know - Acoustic Version",
-      "url": "https://open.spotify.com/track/5l7gQEyycQWk10yVfXspVK"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3443,6 +3443,22 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
+        "name": "Fast Car b/w Fire",
+        "url": "https://open.spotify.com/album/6Z8Chm39KtMZQBwg7aEUfq"
+      },
+      "artists": [
+        {
+          "name": "Black Pumas",
+          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+        }
+      ],
+      "duration_ms": 342815,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/1WdCH2OGhDH4iaKL6782xG"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
         "name": "Busted Jukebox, Volume 1",
         "url": "https://open.spotify.com/album/3UHGDyigOGGTj4DyTanLxV"
       },
@@ -3475,18 +3491,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Fast Car b/w Fire",
-        "url": "https://open.spotify.com/album/6Z8Chm39KtMZQBwg7aEUfq"
+        "name": "Covers, Vol. 1",
+        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
       },
       "artists": [
         {
-          "name": "Black Pumas",
-          "url": "https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6"
+          "name": "Sleeping At Last",
+          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
         }
       ],
-      "duration_ms": 342815,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/1WdCH2OGhDH4iaKL6782xG"
+      "duration_ms": 206426,
+      "name": "Private Eyes",
+      "url": "https://open.spotify.com/track/1xhM41HO1R4okfIi4iKp8o"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3507,18 +3523,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Covers, Vol. 1",
-        "url": "https://open.spotify.com/album/3y3pxFKLvqdAyL9RA4Hd3o"
+        "name": "Live From BBC Radio 2",
+        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
       },
       "artists": [
         {
-          "name": "Sleeping At Last",
-          "url": "https://open.spotify.com/artist/0MeLMJJcouYXCymQSHPn8g"
+          "name": "First Aid Kit",
+          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
         }
       ],
-      "duration_ms": 206426,
-      "name": "Private Eyes",
-      "url": "https://open.spotify.com/track/1xhM41HO1R4okfIi4iKp8o"
+      "duration_ms": 218760,
+      "name": "Perfect Places - Live From BBC Radio 2",
+      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3535,22 +3551,6 @@
       "duration_ms": 156477,
       "name": "Happy (Acoustic)",
       "url": "https://open.spotify.com/track/1x1gLI1YkA90lPp9QZ9PQQ"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
-        "name": "Live From BBC Radio 2",
-        "url": "https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE"
-      },
-      "artists": [
-        {
-          "name": "First Aid Kit",
-          "url": "https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1"
-        }
-      ],
-      "duration_ms": 218760,
-      "name": "Perfect Places - Live From BBC Radio 2",
-      "url": "https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3627,22 +3627,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "The Living Room Sessions Vol. 1",
-        "url": "https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj"
-      },
-      "artists": [
-        {
-          "name": "Kina Grannis",
-          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
-        }
-      ],
-      "duration_ms": 204038,
-      "name": "Use Somebody",
-      "url": "https://open.spotify.com/track/4LBhBtcGb6aOn2pbgOdyN5"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Cherry Wine",
         "url": "https://open.spotify.com/album/6imYiXp740TloANkvozGA5"
       },
@@ -3655,6 +3639,22 @@
       "duration_ms": 227091,
       "name": "Cherry Wine",
       "url": "https://open.spotify.com/track/6oK27xUYzHIfWWh23AXP6J"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "The Living Room Sessions Vol. 1",
+        "url": "https://open.spotify.com/album/1eF6bx49eA7EsTvdZZ4KNj"
+      },
+      "artists": [
+        {
+          "name": "Kina Grannis",
+          "url": "https://open.spotify.com/artist/7h4j9YTJJuAHzLCc3KCvYu"
+        }
+      ],
+      "duration_ms": 204038,
+      "name": "Use Somebody",
+      "url": "https://open.spotify.com/track/4LBhBtcGb6aOn2pbgOdyN5"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3691,18 +3691,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "American II: Unchained",
-        "url": "https://open.spotify.com/album/59RjxVKpH3c80E4a86yP7b"
+        "name": "Sorry (Live)",
+        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
       },
       "artists": [
         {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Rusty Cage",
-      "url": "https://open.spotify.com/track/4VNvzf9nHWAZBHAJxfzVcy"
+      "duration_ms": 204052,
+      "name": "Sorry - Live",
+      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3723,18 +3723,18 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Sorry (Live)",
-        "url": "https://open.spotify.com/album/5wg6xwIm3iM5Fy1Et1KJH4"
+        "name": "American II: Unchained",
+        "url": "https://open.spotify.com/album/59RjxVKpH3c80E4a86yP7b"
       },
       "artists": [
         {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
         }
       ],
-      "duration_ms": 204052,
-      "name": "Sorry - Live",
-      "url": "https://open.spotify.com/track/2i4sEJNbfcEKtqU0dcY9O1"
+      "duration_ms": 168400,
+      "name": "Rusty Cage",
+      "url": "https://open.spotify.com/track/4VNvzf9nHWAZBHAJxfzVcy"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3903,22 +3903,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Ben Folds Live",
-        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
-      },
-      "artists": [
-        {
-          "name": "Ben Folds",
-          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
-        }
-      ],
-      "duration_ms": 323600,
-      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
-      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Varsity EP",
         "url": "https://open.spotify.com/album/0eV5T8tGorjEDamtIHgJCK"
       },
@@ -3931,6 +3915,22 @@
       "duration_ms": 190582,
       "name": "Hold On We're Going Home",
       "url": "https://open.spotify.com/track/2SAhbZ5QqI5Tof5DeBjGyF"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Ben Folds Live",
+        "url": "https://open.spotify.com/album/2DgQmqmJ5PH34rErXoUhK8"
+      },
+      "artists": [
+        {
+          "name": "Ben Folds",
+          "url": "https://open.spotify.com/artist/55tif8708yyDQlSjh3Trdu"
+        }
+      ],
+      "duration_ms": 323600,
+      "name": "Tiny Dancer - Live at Newport Music Festival, Newport, RI - July 2002",
+      "url": "https://open.spotify.com/track/6QMujKWzo7QpC39f7M9tzV"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -3983,22 +3983,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Julia van der Toorn",
-        "url": "https://open.spotify.com/album/0uycC9fzXSBFMTz0fWxVIZ"
-      },
-      "artists": [
-        {
-          "name": "Julia Zahra",
-          "url": "https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI"
-        }
-      ],
-      "duration_ms": 175146,
-      "name": "Oops!... I Did It Again",
-      "url": "https://open.spotify.com/track/1KEUxTw1O2z0QKBBz8w0ZU"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "What a Feeling (Flashdance)",
         "url": "https://open.spotify.com/album/1s7mjfWDJYGB9tBIzKGv8r"
       },
@@ -4011,6 +3995,22 @@
       "duration_ms": 186000,
       "name": "What a Feeling (Flashdance)",
       "url": "https://open.spotify.com/track/11OAeshF0YfaeckhW3iKpk"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Julia van der Toorn",
+        "url": "https://open.spotify.com/album/0uycC9fzXSBFMTz0fWxVIZ"
+      },
+      "artists": [
+        {
+          "name": "Julia Zahra",
+          "url": "https://open.spotify.com/artist/57QuHq7IzyUgZsgl0g5fMI"
+        }
+      ],
+      "duration_ms": 175146,
+      "name": "Oops!... I Did It Again",
+      "url": "https://open.spotify.com/track/1KEUxTw1O2z0QKBBz8w0ZU"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -4067,22 +4067,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "Bad Religion / A Pair Of Brown Eyes",
-        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
-      },
-      "artists": [
-        {
-          "name": "Cat Power",
-          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
-        }
-      ],
-      "duration_ms": 260760,
-      "name": "Bad Religion",
-      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/3ln7gtD4aGjJWllmL1Uqij"
       },
@@ -4095,6 +4079,22 @@
       "duration_ms": 215146,
       "name": "What's Going On - Recorded at Spotify Studios NYC",
       "url": "https://open.spotify.com/track/2hdXm61Sl3ZUEmVdTSWRuU"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "Bad Religion / A Pair Of Brown Eyes",
+        "url": "https://open.spotify.com/album/2yjZoxPqfpRQyGwuOXo5Rp"
+      },
+      "artists": [
+        {
+          "name": "Cat Power",
+          "url": "https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC"
+        }
+      ],
+      "duration_ms": 260760,
+      "name": "Bad Religion",
+      "url": "https://open.spotify.com/track/7Kx832x6sRNGRy8o40u7Mr"
     },
     {
       "added_at": "2024-04-16 21:38:33",
@@ -4115,22 +4115,6 @@
     {
       "added_at": "2024-04-16 21:38:33",
       "album": {
-        "name": "This Side",
-        "url": "https://open.spotify.com/album/22nQdZSid64plYdy5zRHew"
-      },
-      "artists": [
-        {
-          "name": "Nickel Creek",
-          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
-        }
-      ],
-      "duration_ms": 267573,
-      "name": "I Should've Known Better",
-      "url": "https://open.spotify.com/track/1ZwuOZGxT9D1s1xUtsKAd9"
-    },
-    {
-      "added_at": "2024-04-16 21:38:33",
-      "album": {
         "name": "For Better, Or Worse",
         "url": "https://open.spotify.com/album/1bf1EYVB9GkgDkbGTrSiyT"
       },
@@ -4147,6 +4131,22 @@
       "duration_ms": 175334,
       "name": "My Happiness (feat. Fiona Prine)",
       "url": "https://open.spotify.com/track/0IxA2nFzbC3yvUKcDTcyqM"
+    },
+    {
+      "added_at": "2024-04-16 21:38:33",
+      "album": {
+        "name": "This Side",
+        "url": "https://open.spotify.com/album/22nQdZSid64plYdy5zRHew"
+      },
+      "artists": [
+        {
+          "name": "Nickel Creek",
+          "url": "https://open.spotify.com/artist/3bcLBxvaI7GsBzGp3WHnwQ"
+        }
+      ],
+      "duration_ms": 267573,
+      "name": "I Should've Known Better",
+      "url": "https://open.spotify.com/track/1ZwuOZGxT9D1s1xUtsKAd9"
     },
     {
       "added_at": "2024-04-16 21:38:33",

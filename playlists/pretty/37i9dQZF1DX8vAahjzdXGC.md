@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,473 likes - 110 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,231 likes - 110 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 2 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 |
 | 3 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 |
-| 4 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:18 |
+| 4 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:20 |
 | 5 | [friends](https://open.spotify.com/track/2NSlmYzHauT4ZgMXGI3NKH) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [friends](https://open.spotify.com/album/69HC2sZvAPbn9M92eh5d7F) | 4:15 |
 | 6 | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/track/7h2FujO8auY7s0hD4SCtZ4) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Paris Hilton](https://open.spotify.com/artist/1vkJFCwstOoJO7yQ4lTtLK) | [Fame Won’t Love You \(feat\. Paris Hilton\)](https://open.spotify.com/album/7iRrjlIP9COrhuNaX65WZb) | 3:19 |
 | 7 | [Impossible](https://open.spotify.com/track/3gPI0DkzvSHc5s21lIU5yv) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/3oELknq4SW9vcfxyQh5sYb) | 3:02 |

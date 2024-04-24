@@ -2,7 +2,7 @@
 
 ### [This Is A Boogie Wit da Hoodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBxkc)
 
-> This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
+> This Is A Boogie Wit da Hoodie\. Los temas esenciales, todos en una lista.
 
 83 songs - 4 hr 25 min
 

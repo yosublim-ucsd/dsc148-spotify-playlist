@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > For all the new African Gospel Releases this week\. Cover:   <a href=https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q?si=zqB8bOlZSlaIf\_ZO3HVl1A>Yadah</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,316 likes - 92 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,338 likes - 92 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

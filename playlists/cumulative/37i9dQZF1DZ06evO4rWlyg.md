@@ -2,14 +2,14 @@
 
 ### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This is Björk\. The essential tracks, all in one playlist.
+> This Is Björk\. Los temas esenciales, todos en una lista.
 
 133 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [5 Years](https://open.spotify.com/track/3mmB2OL6YP2FwMR6eQ5mp5) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0h19Ty9F2Ma8pKkRdx17UT) | 4:29 | 2024-03-19 |  |
-| [Afterwards](https://open.spotify.com/track/0XZTpSctNFE0WVQQL7qWMB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 4:02 | 2024-03-05 |  |
+| [Afterwards](https://open.spotify.com/track/0XZTpSctNFE0WVQQL7qWMB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 4:02 | 2024-03-05 | 2024-04-24 |
 | [Alarm Call](https://open.spotify.com/track/0FXA3CxQmpjgP1VS5STnJC) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Homogenic](https://open.spotify.com/album/0HMsmYvoT1h2x1C4di5faf) | 4:19 | 2024-03-17 | 2024-03-19 |
 | [All Is Full Of Love](https://open.spotify.com/track/5nVoXq0Q239GpJIRG8n4rZ) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Family Tree](https://open.spotify.com/album/253wFaoFAAvxaDuv3dMpXV) | 4:46 | 2024-02-13 |  |
 | [All Is Full Of Love](https://open.spotify.com/track/6igs0Bpazd8H8VM8tJZaHB) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Greatest Hits](https://open.spotify.com/album/12xYo4U9LASuSrxTjFYpBW) | 4:46 | 2023-11-10 | 2024-02-14 |

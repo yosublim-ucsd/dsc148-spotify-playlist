@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Drahla
 
-[Spotify](https://open.spotify.com/user/spotify) - 448,537 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 448,411 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,15 +36,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 26 | [Drop](https://open.spotify.com/track/2OxH7BbCRiY9fldXLX4VhI) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Drop](https://open.spotify.com/album/6sMn0pz6YR7V09IL0icryl) | 2:15 |
 | 27 | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/track/4br7MnQcFs0b22YBvDAVZC) | [Ezekiel](https://open.spotify.com/artist/4qUoZ6ErhTYFhAI0W1iI9q), [Izzy Spears](https://open.spotify.com/artist/1CtOGEEFiGo6e2s6ySsY9P) | [feel something \(feat\. Izzy Spears\)](https://open.spotify.com/album/44bpmgQrpyXxTCR8ZWtRcH) | 2:13 |
 | 28 | [All The Problems](https://open.spotify.com/track/0yMBgZk0AkUKBqx4noEW19) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [All The Problems](https://open.spotify.com/album/5tApkeDzogxfZB7DOoukd2) | 2:56 |
-| 29 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
-| 30 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
+| 29 | [Resolution/Revolution](https://open.spotify.com/track/4Eu55UEC15GIYXr2CvISI5) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Resolution/Revolution](https://open.spotify.com/album/0vevdASAFEvU6TwqXFdZ9m) | 3:22 |
+| 30 | [New York Transit Queen](https://open.spotify.com/track/6CjJtGi2x7xiBghJ4E8YIN) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [New York Transit Queen](https://open.spotify.com/album/3iP85a7yaqMQxtSs4bBvZm) | 1:49 |
 | 31 | [Lads Lads Lads](https://open.spotify.com/track/3QL6ySMAq85DunV286RBVS) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Lads Lads Lads](https://open.spotify.com/album/5OM5zbbebLrPQpr3JC1b7o) | 3:11 |
 | 32 | [3 Days Sober](https://open.spotify.com/track/2TAugpQe6ZDChiYNEUzQcA) | [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [3 Days Sober](https://open.spotify.com/album/1TkrPcGZLCyzMcjIpiCUop) | 2:57 |
 | 33 | [Lost My Shadow](https://open.spotify.com/track/54wWzjb8JrOl99lr1gtDEI) | [IST IST](https://open.spotify.com/artist/5YiRgqaj5yVjVtUp4G6iUq) | [Lost My Shadow](https://open.spotify.com/album/7999iknBu9Bi1JwrKVTBFN) | 3:07 |
 | 34 | [Antidote](https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR) | [Greywind](https://open.spotify.com/artist/3QFfYJq7jdx8GnVrePpZm4) | [Antidote](https://open.spotify.com/album/5BtsIlGeClmz7o8B4aq6MK) | 2:45 |
-| 35 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 |
+| 35 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 |
 | 36 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
-| 37 | [DBSAC](https://open.spotify.com/track/7GqLhyaR3Cn4w61QOP2kRX) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [DBSAC](https://open.spotify.com/album/6JVhdb3XjSmppHRDNagN1y) | 2:27 |
+| 37 | [Dream Big](https://open.spotify.com/track/0xvXVHHSdl0EjXFobmL6Ip) | [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Dream Big](https://open.spotify.com/album/2weh9z7FGE4gchkThSgK8c) | 3:05 |
 | 38 | [Hall & Oates](https://open.spotify.com/track/0OXXyvXpIVATItV6mbduyE) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [TANGK](https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU) | 2:23 |
 | 39 | [Des Goblin](https://open.spotify.com/track/1k9Z2Jqlac9H71IBW67Xeg) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Des Goblin](https://open.spotify.com/album/1ln1r9VxOpYkRve5YWt2iB) | 4:16 |
 | 40 | [I Gotta Feeling](https://open.spotify.com/track/0LUVOk5bZG7WO7TorwVWCn) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Gotta Feeling](https://open.spotify.com/album/4Nw0zcHzHZRyWhWZDy6OlZ) | 3:17 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 58 | [Erasure](https://open.spotify.com/track/5pfc8Q86sfgziVm8jSIdar) | [Corinne Bailey Rae](https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn) | [Black Rainbows](https://open.spotify.com/album/741jF1Njwj0i1dQAPdvKZ1) | 2:46 |
 | 59 | [Pressure Pad](https://open.spotify.com/track/4a2nM6mi7gmpUyWanu6LSK) | [Folly Group](https://open.spotify.com/artist/39RnqcMpFSK4e7tbODSsaP) | [Down There!](https://open.spotify.com/album/5UAA0mOBTyW1VzFMgZeVDi) | 3:28 |
 | 60 | [High Tea](https://open.spotify.com/track/2jpkUfj8a8G32DzsIYXxHM) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Invite me, kindly](https://open.spotify.com/album/77D1XYQxm5bRFsiWUNTXal) | 2:56 |
-| 61 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 |
-| 62 | [Unlike Me](https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Unlike Me](https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT) | 3:08 |
+| 61 | [Unlike Me](https://open.spotify.com/track/20u6KgvQdfV3gnQDJ8ilMw) | [Calling All Captains](https://open.spotify.com/artist/38vVrIl7XQVwKEg9lvuygG) | [Unlike Me](https://open.spotify.com/album/1LALYYvk8uXVpWZiDMz1kT) | 3:08 |
+| 62 | [Cuts Like A Knife](https://open.spotify.com/track/3pUqK7qA2p51M1of9KiIrp) | [The Chisel](https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx) | [What A Fucking Nightmare](https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55) | 3:36 |
 | 63 | [THIS HERE AIN'T WATER](https://open.spotify.com/track/2mLtSf43onReDRzOPM0yKd) | [BIG SPECIAL](https://open.spotify.com/artist/3hmNB1OCsGQVf8ttZy01e2) | [THIS HERE AIN'T WATER](https://open.spotify.com/album/0aHgUd54LqdSOfXuGG7y3Q) | 3:21 |
 | 64 | [Bye Bye Big Bear](https://open.spotify.com/track/6nSd7gG3KWFqG7Za17Jna2) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [Bye Bye Big Bear](https://open.spotify.com/album/79PfNXhYhRSo8mLST2gSti) | 2:56 |
 | 65 | [Tom in 03](https://open.spotify.com/track/46opDwzGtHFKuUCM17UmRs) | [Misplaced](https://open.spotify.com/artist/4LD3UeboJl9wKM6WyaaRMu), [WSTR](https://open.spotify.com/artist/0ofhRkasSdhp6LUs7tFcF7) | [Tom in 03](https://open.spotify.com/album/57m0xQP3c6f0lQn1sDkD3w) | 2:21 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 76 | [Sink Or Swim](https://open.spotify.com/track/00FSOP3RZcF20UK4t6wKQt) | [SNAYX](https://open.spotify.com/artist/4kQgsrHUSc9IjuwWP30gf0) | [Sink Or Swim](https://open.spotify.com/album/3aTuERruHynGl1FD2f5psx) | 3:12 |
 | 77 | [The Heart](https://open.spotify.com/track/6lP16B6cMgkRmqXDzZNh0N) | [Lip Critic](https://open.spotify.com/artist/4ABuKdLlVyzLztIFR8ETX9) | [The Heart](https://open.spotify.com/album/3tEiKAfyGmPod4qyZc9IDi) | 2:35 |
 | 78 | [Fast Pace](https://open.spotify.com/track/1qXR66ok1P7wsTKsLwdf9b) | [Grade 2](https://open.spotify.com/artist/61NdtTZaI4ZaMVNySovN0b) | [Grade 2](https://open.spotify.com/album/7bIwVxRl5o01qAIFZbYyJe) | 3:02 |
-| 79 | [Got Sold](https://open.spotify.com/track/4wv3g8OBf23VKjKlO0OWsb) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Effigy](https://open.spotify.com/album/3ITJHZF40YUacjdJS01ppt) | 2:28 |
-| 80 | [Off The Rails](https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Off The Rails](https://open.spotify.com/album/3HV7no3piIbAJsyfpSpb3l) | 2:41 |
+| 79 | [Off The Rails](https://open.spotify.com/track/5kmBAp1D2G0vNZUdbXu0vM) | [Shelf Lives](https://open.spotify.com/artist/2RgHe4GuLjWoJmgdAOVubr) | [Off The Rails](https://open.spotify.com/album/3HV7no3piIbAJsyfpSpb3l) | 2:41 |
+| 80 | [Got Sold](https://open.spotify.com/track/4wv3g8OBf23VKjKlO0OWsb) | [Talk Show](https://open.spotify.com/artist/6maphvdwLWb9tIeiFAAaE3) | [Effigy](https://open.spotify.com/album/3ITJHZF40YUacjdJS01ppt) | 2:28 |
 
 Snapshot ID: `MTcxMDUwNDAwMCwwMDAwMDAwMGFhYzA4NDVmNmY1NmEzMWViZWE0MTVlMDIwOGU0ZjEw`

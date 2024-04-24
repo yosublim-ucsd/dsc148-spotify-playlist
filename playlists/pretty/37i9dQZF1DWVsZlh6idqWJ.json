@@ -1,6 +1,6 @@
 {
   "description": "Holiday bangers + pop bangers = a perfect holiday party!",
-  "num_followers": 23749,
+  "num_followers": 23740,
   "original_name": "Holiday Party",
   "owner": {
     "name": "Spotify",
@@ -459,26 +459,6 @@
     {
       "added_at": "2023-12-22 23:13:51",
       "album": {
-        "name": "Dangerously In Love",
-        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        },
-        {
-          "name": "JAY-Z",
-          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
-        }
-      ],
-      "duration_ms": 236133,
-      "name": "Crazy In Love (feat. Jay-Z)",
-      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2023-12-22 23:13:51",
-      "album": {
         "name": "Love?",
         "url": "https://open.spotify.com/album/3sysiYphqNRQw7VKLCg1yE"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 284866,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN"
+    },
+    {
+      "added_at": "2023-12-22 23:13:51",
+      "album": {
+        "name": "Dangerously In Love",
+        "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        },
+        {
+          "name": "JAY-Z",
+          "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        }
+      ],
+      "duration_ms": 236133,
+      "name": "Crazy In Love (feat. Jay-Z)",
+      "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
     },
     {
       "added_at": "2023-12-22 23:13:51",

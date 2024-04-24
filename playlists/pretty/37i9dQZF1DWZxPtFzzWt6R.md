@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 
 > A palavra de Jesus embalada pelo ritmo sertanejo\. Foto: Canção & Louvor
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,329 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,365 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 24 | [Tempo de Vitória](https://open.spotify.com/track/3iGe1rRUw6Y1XX2xRBYpD4) | [Nani Azevedo](https://open.spotify.com/artist/4cQ6a3aHARZkZb8ZwqwInF) | [Tempo de Vitória](https://open.spotify.com/album/37FO02peMZLf3Vh7Ie5Lu9) | 3:49 |
 | 25 | [Esperança](https://open.spotify.com/track/5w3b6u02ilzwgo64maHQVQ) | [Canção & Louvor](https://open.spotify.com/artist/5Oj5puFnNDLbUqyWtq5jJu) | [Esperança](https://open.spotify.com/album/0Se4oMXuwwOP7rTaygLBIg) | 4:32 |
 | 26 | [Eu Quero Ir pro Céu](https://open.spotify.com/track/5kfEfvMet4tHzqYtrDY9He) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Eu Quero Ir pro Céu](https://open.spotify.com/album/4AHy5MgRbegK1jelN5TFwQ) | 4:33 |
-| 27 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
-| 28 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
+| 27 | [Deus Proverá](https://open.spotify.com/track/217cgpXoXtpJTPa2YgfLAX) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Deus Proverá](https://open.spotify.com/album/01dSM55NXgqYhG6SP9rXxN) | 4:33 |
+| 28 | [Ovelha Rebelde](https://open.spotify.com/track/7piiMIaFGghRoZOmRagG9W) | [Gerson Rufino](https://open.spotify.com/artist/0y9kZHlHvgvMQDcFAQJziR) | [O Meu Clamor, Vol\. 2](https://open.spotify.com/album/4iHzsyoNQH9rNDUlitUa7e) | 3:14 |
 | 29 | [Valor de uma Alma](https://open.spotify.com/track/5PNYvfnUi604xMYaFLw8pK) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P), [Mara Lima](https://open.spotify.com/artist/3r3fXHLRkaNVAuP7ckBJOV) | [Valor de uma Alma](https://open.spotify.com/album/0hECyVX0jpTJ1IWj3RgAMs) | 4:26 |
 | 30 | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/track/4w6hJmtwg800XyGi7SJvwf) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DD Junior](https://open.spotify.com/artist/27Q8Sho6z3yHCCqwHJull0) | [Jesus É o Amor \(Piseiro Gospel\)](https://open.spotify.com/album/1gb6JsVjlb64kMbGjMP6JS) | 3:07 |
 | 31 | [O Crente e a Palmeira](https://open.spotify.com/track/72X7Rf5j7tQijxriFQedRJ) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Viola e Adoração](https://open.spotify.com/album/4NMlbn7ybVM2VJMyCjj76l) | 2:38 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxPtFzzWt6R.md) - [plain]
 | 36 | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/track/4IovvVvBGHKHKOZnYeof5t) | [Fabiana Sinfrônio](https://open.spotify.com/artist/1VS1qGtdEZNgEfyVhTVYBy), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Nascer de Novo \(Ao Vivo\)](https://open.spotify.com/album/17WGCs2QHBkFYwRa5t6ThC) | 3:59 |
 | 37 | [Chuva de Poder](https://open.spotify.com/track/3MEgEIhFanSXp7dxmb7fmb) | [Gabriela Rodrigues](https://open.spotify.com/artist/3dCQ53bhVYWtm6VDtEMRqb) | [Chuva de Poder](https://open.spotify.com/album/0RpR497V9U9U6sPsEhITGr) | 3:16 |
 | 38 | [Minha Ilha](https://open.spotify.com/track/0DKrKNKy0Mi7alxkaebj5x) | [Marcos e Matteus](https://open.spotify.com/artist/0SPTYP6l3GrISOfDc8tmX4) | [Minha Ilha](https://open.spotify.com/album/02Tuv2t5HpJcHCu9bjyrCb) | 4:44 |
-| 39 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
+| 39 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
 | 40 | [Volta pra Casa](https://open.spotify.com/track/0bfNDO7ArF4kdVL3M8QRUd) | [Lucas Roque e Gabriel](https://open.spotify.com/artist/6TNQ4E64w9DeBKWPhKdH4O) | [Volta pra Casa](https://open.spotify.com/album/5tnNq4VX6QSaQVC9haxdjC) | 4:49 |
-| 41 | [De Volta à Inocência](https://open.spotify.com/track/39NU2dGXS0Jjb3CufYOtXv) | [Alvaro & Daniel](https://open.spotify.com/artist/72DDtEqR9o0XW2lla6tiW2) | [De Volta à Inocência](https://open.spotify.com/album/7dWg5ZEhECD7rehmm0adzf) | 4:48 |
+| 41 | [A Terra e o Lavrador](https://open.spotify.com/track/4qSeN5WmrJhzvkDeCkE3b4) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Terra e o Lavrador](https://open.spotify.com/album/0FSciLKBlPlkID0m0fioHb) | 3:20 |
 | 42 | [A Reforma](https://open.spotify.com/track/6kNQNhGAovsClhTxgQS1Rm) | [Jayana Moreira](https://open.spotify.com/artist/0UqskVGZu74OjVGF2KmvBH) | [A Reforma](https://open.spotify.com/album/1sP2MouMuWffJbewWHBUv2) | 4:47 |
 | 43 | [Situações](https://open.spotify.com/track/0NxxwJsa9DO5oCRpiPet5G) | [Stefhany](https://open.spotify.com/artist/1YNJikhBGe3LNnlunXwpj9) | [Situações](https://open.spotify.com/album/1EcK5zQWGrS0Kcrp7RMFUq) | 4:21 |
 | 44 | [Assim Como Deus Quer](https://open.spotify.com/track/2xvZtpiHJL0iXsrIU3cGBX) | [Claudio Louvor](https://open.spotify.com/artist/4g5J5IEGJ5DzEyCqJbHEJA) | [Assim Como Deus Quer](https://open.spotify.com/album/6a81t6Y2AyENXQubLiVnBD) | 2:43 |

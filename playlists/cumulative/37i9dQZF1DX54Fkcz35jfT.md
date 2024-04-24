@@ -2,9 +2,9 @@
 
 ### [Loud Rock Japan](https://open.spotify.com/playlist/37i9dQZF1DX54Fkcz35jfT)
 
-> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: F.HERO x BODYSLAM x BABYMETAL
+> 国内外の様々なシーンと共鳴する日本のラウド・ロックを特集。Cover: Crossfaith
 
-295 songs - 17 hr 0 min
+298 songs - 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [6or9](https://open.spotify.com/track/5b2AjbOnzdOEQvbap9ZQdF) | [HYDE](https://open.spotify.com/artist/0ZXSQd2JNOfwJcLNbX0jpN) | [6or9](https://open.spotify.com/album/37YSueAOHDxEEDW2SKmmBW) | 3:35 | 2023-09-05 |  |
 | [a humble border](https://open.spotify.com/track/0Y7JvSq8M8oedxot1Njfrg) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [a humble border](https://open.spotify.com/album/0Igc1reJ3VXW0PExraM40T) | 3:34 | 2023-12-12 | 2023-12-20 |
 | [A Little Bit Of Your Love](https://open.spotify.com/track/45i63OHmiclVbkmM3piK3B) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:15 | 2024-02-27 |  |
-| [Ain't That So Awesome](https://open.spotify.com/track/2AttQgWAUvUHABf6van7PO) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/05eS7MkETxSTk4UcyieA4s) | 3:39 | 2024-04-18 |  |
+| [Ain't That So Awesome](https://open.spotify.com/track/2AttQgWAUvUHABf6van7PO) | [Fear, and Loathing in Las Vegas](https://open.spotify.com/artist/5iZSZ19Lnt6iQTDITRF7Mn) | [Cocoon for the Golden Future](https://open.spotify.com/album/05eS7MkETxSTk4UcyieA4s) | 3:39 | 2024-04-18 | 2024-04-24 |
 | [All We Need Is Summer Day](https://open.spotify.com/track/18lXaewmQrOOCMZDAv0QYM) | [9mm Parabellum Bullet](https://open.spotify.com/artist/3v0nHmnUcf9GAhjQOTctQu) | [TIGHTROPE](https://open.spotify.com/album/4KpSEm7faORT0XUFZRTAJc) | 2:42 | 2023-07-20 | 2024-04-19 |
 | [ALVA](https://open.spotify.com/track/1WsN1q1NTWYEJbw81KWsws) | [a crowd of rebellion](https://open.spotify.com/artist/3gy7nxZ3l2Q0Xz9sXAXrVX) | [ALVA](https://open.spotify.com/album/14gl92ZGLwr2pEJvhsMenp) | 4:00 | 2023-07-20 | 2023-10-04 |
 | [ANGRY ANGRY](https://open.spotify.com/track/63yTYB5K8F740zeamXxfqR) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT), [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [ANGRY ANGRY](https://open.spotify.com/album/0FhARxlWLGbY3vVXczowGe) | 2:16 | 2023-07-20 | 2024-01-30 |
@@ -25,7 +25,8 @@
 | [basement](https://open.spotify.com/track/3MIc6RMb83SodnfE7T5XNU) | [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI) | [ANORAK! / DIMWORK](https://open.spotify.com/album/104w26GFWkYQErMzsQ8ISZ) | 1:48 | 2023-08-08 | 2023-08-25 |
 | [BBB](https://open.spotify.com/track/6nmOIy04qnDqRFXePEjnPs) | [Paledusk](https://open.spotify.com/artist/2GWuBfYdmPB91krBNQavHa), [Such](https://open.spotify.com/artist/0m7tILDYjOZCFFVVGmI3io) | [BBB](https://open.spotify.com/album/3Mkz92SxIR2f4ZsQMUVxcD) | 3:20 | 2023-07-20 | 2024-03-20 |
 | [Be The One](https://open.spotify.com/track/2qsCq95jjiHvlpAT7fsMQm) | [HEY\-SMITH](https://open.spotify.com/artist/180SgP7FcRAhmrgwuNTvhL) | [Be The One](https://open.spotify.com/album/5242skyRrpMPFR9dYgFZpq) | 3:06 | 2023-07-20 |  |
-| [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2024-04-18 |  |
+| [Beast Mode](https://open.spotify.com/track/1tA3FxKi8oA0pmSNEB4ush) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [Beast Mode](https://open.spotify.com/album/1UMECQ51RJkCPjU7jXlPGt) | 4:10 | 2024-04-23 |  |
+| [Before I Go](https://open.spotify.com/track/5tqZBgS6Db32QHXquR1QvM) | [coldrain](https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM) | [Before I Go](https://open.spotify.com/album/7tbqzoPJNMs8oEk2OnYTjo) | 4:06 | 2024-04-18 | 2024-04-24 |
 | [Bestie](https://open.spotify.com/track/4tyZPsmQnmb3A7R1EJpYD3) | [BAND\-MAID](https://open.spotify.com/artist/5Wh3G01Xfxn2zzEZNpuYHH) | [Bestie](https://open.spotify.com/album/244u3mXBG8CnwawYKawCsw) | 3:35 | 2024-04-18 |  |
 | [BET ON ME](https://open.spotify.com/track/38WZNUb790bT6zuXWoGgkO) | [Limited Express \(has Gone?\)](https://open.spotify.com/artist/3yp3XG3JRa5Y4xJ2I1DSzs) | [Tell Your Story](https://open.spotify.com/album/6rlqdeK0VEjg5RbVWGrdR1) | 2:08 | 2023-08-22 | 2023-09-06 |
 | [Better Left Unsaid](https://open.spotify.com/track/1q8Gyk65YWMormJV6SuSJZ) | [Ken Yokoyama](https://open.spotify.com/artist/4pPZ7nNH108ax8A1sjxfpX) | [Indian Burn](https://open.spotify.com/album/0IChffToKdKcuJTlz5H7AI) | 3:24 | 2024-03-19 | 2024-04-19 |
@@ -111,7 +112,8 @@
 | [KiLLiNG ME](https://open.spotify.com/track/1yDYJ7npSt07XLLOKGVkd6) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [SEEDS OF HOPE](https://open.spotify.com/album/47kmsCirEp0h93kZyTu4T5) | 2:55 | 2023-07-20 |  |
 | [KiSS OF DEATH](https://open.spotify.com/track/3vv2Mr8J2jGPjFOPiaTwic) | [SiM](https://open.spotify.com/artist/2BM933ADIluGGrPBOhPgIt) | [KiSS OF DEATH](https://open.spotify.com/album/0B5D8P1aZ82QMKjDr361Vg) | 3:52 | 2023-09-10 | 2023-09-27 |
 | [Kodou](https://open.spotify.com/track/19A7WBwlU8wK0419zlQSFn) | [Petit Brabancon](https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad) | [Automata](https://open.spotify.com/album/5fGTM9Mns9IckCXUMZPcfW) | 3:19 | 2023-07-20 | 2023-08-25 |
-| [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/track/4Y0bWul4BEzGVFVftvG0zi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/album/3a1i5zU4viYmWgMKwaZmqO) | 2:44 | 2024-04-18 |  |
+| [L.A.M.N](https://open.spotify.com/track/4JB5JFEUeVv4Z7FGZ1fm2k) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N](https://open.spotify.com/album/3pNIxjpfSByM75kDQJCT9O) | 2:42 | 2024-04-23 |  |
+| [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/track/4Y0bWul4BEzGVFVftvG0zi) | [Crossfaith](https://open.spotify.com/artist/3gfA40vRbx6YX8oCDXDCDh), [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [L.A.M.N \(feat\. Bobby Wolfgang\)](https://open.spotify.com/album/3a1i5zU4viYmWgMKwaZmqO) | 2:44 | 2024-04-18 | 2024-04-24 |
 | [LAST FOREVER](https://open.spotify.com/track/3LGrZHuqKCts17QUjaOPm8) | [NOISEMAKER](https://open.spotify.com/artist/02usiGXga5g4aQteRySLXQ) | [LAST FOREVER](https://open.spotify.com/album/73tNOaqid3GTZjHaQx7lQ4) | 4:16 | 2023-07-20 | 2023-07-26 |
 | [Lazy](https://open.spotify.com/track/4ukEJalqEgdaG5DYXKZjf8) | [Arakezuri](https://open.spotify.com/artist/7cDKCrkofq9gWuG13ra0Rd) | [QUINTET](https://open.spotify.com/album/2OWmklw5BzlgZp4qoe03nT) | 3:43 | 2023-07-20 | 2023-07-26 |
 | [LEAVE IT ALL BEHIND](https://open.spotify.com/track/5JsOvR4aI03a0ReVVCosGb) | [F.HERO](https://open.spotify.com/artist/2MnMuRYL9qsGvWPsZGeDGQ), [Bodyslam](https://open.spotify.com/artist/76VTagPgPgPlFE7hfjT0Zt), [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [LEAVE IT ALL BEHIND](https://open.spotify.com/album/0nBFE2T0w9ioMdSjGMOYAR) | 4:07 | 2024-04-18 |  |
@@ -257,6 +259,7 @@
 | [アイデンティティー](https://open.spotify.com/track/1oe5T289Oiv3s6a2QAxAyr) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アイデンティティー](https://open.spotify.com/album/5pF9bdQUrBXSafswwiTUfP) | 4:01 | 2024-03-26 |  |
 | [アンセム](https://open.spotify.com/track/5ZMS3dRr2INkP6r2TZnU6m) | [LINK](https://open.spotify.com/artist/6RqbKKub3TQaChfwAqYooJ) | [太陽と月のビートニクス](https://open.spotify.com/album/06dTtsuu4ZddnDTW7mIUpa) | 2:48 | 2023-12-05 | 2023-12-20 |
 | [アンビシャス](https://open.spotify.com/track/7svD5Sa5WNmvEpflWbUkhR) | [MY FIRST STORY](https://open.spotify.com/artist/6cutt8thPFUICMfxaYerWd) | [アンビシャス](https://open.spotify.com/album/7IUZ67rVQ6jOffOzVjrMTr) | 3:06 | 2023-07-20 | 2024-03-27 |
+| [オクターヴ](https://open.spotify.com/track/6p1LdEDX0i73EPhdeCGk67) | [ASH DA HERO](https://open.spotify.com/artist/2XKXvzE0lpnqHcqu5l2lyT) | [オクターヴ](https://open.spotify.com/album/3d4hbenvB6hAPgPXE91poL) | 3:07 | 2024-04-23 |  |
 | [オリジナルスクープ](https://open.spotify.com/track/4XFDyEOJLCDYstSNPDqLnS) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/0Hh76GBDwAZUUiaNHTPUKZ) | 3:43 | 2023-10-10 | 2023-10-18 |
 | [オリジナルスクープ](https://open.spotify.com/track/6coXH7cxTNneEHPbXvCmNA) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [オリジナルスクープ](https://open.spotify.com/album/1v2jwsiT9SYoMBRY7QnXHH) | 3:43 | 2023-10-10 | 2023-10-12 |
 | [オルゴール](https://open.spotify.com/track/6kB4btTmWACdBpdA73J1jE) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [遺伝子レベルのNO!!!](https://open.spotify.com/album/5I6CzPDYR0shw9mccGC8BH) | 4:11 | 2023-07-20 | 2023-09-27 |

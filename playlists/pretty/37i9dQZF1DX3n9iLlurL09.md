@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 
 > 2012 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 87,735 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 87,801 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 17 | [Take a Walk](https://open.spotify.com/track/4Sfa7hdVkqlM8UW5LsSY3F) | [Passion Pit](https://open.spotify.com/artist/7gjAu1qr5C2grXeQFFOGeh) | [Gossamer](https://open.spotify.com/album/14JU5SskmcyckE5I8PY6lv) | 4:24 |
 | 18 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
 | 19 | [Kerosene](https://open.spotify.com/track/6E1YebXpPPtujMUljDNlOo) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO) | [\(III\)](https://open.spotify.com/album/1NIfkZIYVAO6vnfmFOilHc) | 3:12 |
-| 20 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 |
-| 21 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
+| 20 | [Harvest Moon](https://open.spotify.com/track/35U4PXL3W3XIkAjEUdhr36) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c) | [Pacific Standard Time](https://open.spotify.com/album/0H8umic35SHzLg26lL1ld9) | 6:08 |
+| 21 | [The Fall](https://open.spotify.com/track/35yZkNFNVosiHE6Uj0COVM) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:44 |
 | 22 | [Pink Matter](https://open.spotify.com/track/1fOkmYW3ZFkkjIdOZSf596) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 4:28 |
 | 23 | [Lightning Bolt](https://open.spotify.com/track/79DO6dBi8936P6EShLB209) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [Jake Bugg](https://open.spotify.com/album/6b2BArDCfSvW3VFenLJatj) | 2:24 |
 | 24 | [This Head I Hold](https://open.spotify.com/track/0LVaveDmmoMEKhBGhVhfoI) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [Mondo](https://open.spotify.com/album/2RmYavmwTVl0MOhfyySBJz) | 2:55 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3n9iLlurL09.md) - [plain]
 | 49 | [Full Circle](https://open.spotify.com/track/0gr60jINHbKdcGlQ83rmaH) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Dark Eyes](https://open.spotify.com/album/1h0JzrOSEyEldBJOBMj9Ge) | 3:01 |
 | 50 | [Holdin On](https://open.spotify.com/track/4s5652m7A8iuDQsZ0UWNcO) | [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [Flume](https://open.spotify.com/album/1Ya2L1SaukipRj53e0dIYc) | 2:34 |
 | 51 | [fineshrine](https://open.spotify.com/track/5aJmSzmuhLI6fr1Rm0EnkS) | [Purity Ring](https://open.spotify.com/artist/1TtJ8j22Roc24e2Jx3OcU4) | [shrines](https://open.spotify.com/album/7nuxFL8lYQTIlpEEPEMpN8) | 3:29 |
-| 52 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
-| 53 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |
-| 54 | [Sleep Alone](https://open.spotify.com/track/4BsQ6HzywRiSHf45WXRft8) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/1I1ZFdY9LI6kxPANmduRcN) | 3:56 |
-| 55 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
+| 52 | [We Come Running](https://open.spotify.com/track/0eehHRQY2nlimtLjCI9xRf) | [Youngblood Hawke](https://open.spotify.com/artist/6VXZCpbkwm0W0aPjQR1t4K) | [Wake Up](https://open.spotify.com/album/3duSeqLwUC8DpWhEs11zTW) | 4:07 |
+| 53 | [San Francisco](https://open.spotify.com/track/2eQOMQkStoRUQyq6HGh1iG) | [The Mowgli's](https://open.spotify.com/artist/6AGUQK1EWK6nvN4pLIDQDQ) | [Waiting For The Dawn](https://open.spotify.com/album/4pmOIOmY4QXH1rMSqHMOGH) | 2:53 |
+| 54 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
+| 55 | [Sleep Alone](https://open.spotify.com/track/4BsQ6HzywRiSHf45WXRft8) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Beacon](https://open.spotify.com/album/1I1ZFdY9LI6kxPANmduRcN) | 3:56 |
 | 56 | [Sunset](https://open.spotify.com/track/76G5L5EC20PrZkH1vvT0s2) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Coexist](https://open.spotify.com/album/4SXTQ305LjMh2DBHA3CXIW) | 3:38 |
 | 57 | [Love Is Blindness](https://open.spotify.com/track/1kBM7AURqQTIXFePNVpEwP) | [Jack White](https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf) | [Sixteen Saltines](https://open.spotify.com/album/0lPeJhxMC3gIYOv9lmdV6V) | 3:18 |
 | 58 | [The Way We Move](https://open.spotify.com/track/40rjypnguxfhPy4Bbv5SWc) | [Langhorne Slim](https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy), [The Law](https://open.spotify.com/artist/6DK3E5dh7jJrKyAHfucWBB) | [The Way We Move](https://open.spotify.com/album/6BIZ0siUtYwDqrGSTIdxU7) | 2:48 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 
 > Chill afro music to study with.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,887 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,928 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 15 | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/track/3qH7uGwlgr7tmoL4ksRhPi) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Babyboy AV](https://open.spotify.com/artist/5p1CMGIDFgalZneW5P1EwX) | [Jaga Jaga \(with Babyboy AV\)](https://open.spotify.com/album/0Fk776T5l13Djn3clViXxp) | 3:46 |
 | 16 | [Damages](https://open.spotify.com/track/3Xfwu3xtPqmJ4nM4jpBm8O) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [For Broken Ears](https://open.spotify.com/album/2sU8ByeYc5BOBFNDr58CGV) | 2:49 |
 | 17 | [Nervous Juice](https://open.spotify.com/track/3or1d92xtrUPp8ULHhI01R) | [nezsa](https://open.spotify.com/artist/5yIW4jgRpDB1ytNFHSq8XM) | [Nervous Juice](https://open.spotify.com/album/0enhsGqan85AL3HuXOt7IM) | 3:13 |
-| 18 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
-| 19 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
+| 18 | [Hide & Seek](https://open.spotify.com/track/7cFPWLFiE60sdgzPsyydUJ) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Hide & Seek](https://open.spotify.com/album/1PTZnwfkh9YQUJLSdBOvFe) | 3:28 |
+| 19 | [Toxic Love Story](https://open.spotify.com/track/2y4FCaPrKtYXF7akDEXYRQ) | [Jontae](https://open.spotify.com/artist/3oa7E2NEUzTPobUVRuitV8) | [Toxic Love Story](https://open.spotify.com/album/0dvQXAB64oTEAXWjQRBwaY) | 2:20 |
 | 20 | [Take It All](https://open.spotify.com/track/7ey6Vss70TPSciPGjTals1) | [Raytheboffin](https://open.spotify.com/artist/0Z7d6NoIt6baFGelxJyy1r) | [Purple Lens](https://open.spotify.com/album/1Ycr1L7hKGVBLVygx1mG8l) | 1:48 |
 | 21 | [Beautifully](https://open.spotify.com/track/7mFrwc86C3vZKobwpK0jdH) | [Fave](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Beautifully](https://open.spotify.com/album/2jE8QxForZdlDrQjazefhx) | 2:49 |
 | 22 | [Rising](https://open.spotify.com/track/0RjIsyAX2Cjrhs22Dpfxyn) | [David Docade](https://open.spotify.com/artist/0lFRX34C3tyfJ1XtR1p6MF) | [Rising](https://open.spotify.com/album/7ilXy7MALlKATu0LlvrKQq) | 3:15 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4eQiqG0uCMB.md) - [plain]
 | 40 | [DKT](https://open.spotify.com/track/48DoYs5rIX1PbsbCBYpYfB) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [DKT](https://open.spotify.com/album/3zu38j0czgA5doZyGPnfMd) | 2:18 |
 | 41 | [WITH YOU](https://open.spotify.com/track/3Q78lDuzWs50Gry1eQA7NX) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [WITH YOU](https://open.spotify.com/album/2ujmNlnvMQfnWJBBv3TE5u) | 3:12 |
 | 42 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
-| 43 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
-| 44 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
+| 43 | [Airplane Mode](https://open.spotify.com/track/3wrlAsyyrqVoC9fuDWyziG) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY) | [APOLLO](https://open.spotify.com/album/6HdrMYu33mRMYPEDB8MbPq) | 2:57 |
+| 44 | [Trumpet](https://open.spotify.com/track/3BwAHuQhZyL4tOkf36DuQv) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr), [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Trumpet](https://open.spotify.com/album/3qNYHdPzFdsGWZqV52859m) | 3:08 |
 | 45 | [Felony](https://open.spotify.com/track/0Jq7lotJVDHAvNfef6ehcJ) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Boyfriend](https://open.spotify.com/album/3emQmkPrhepRzfm4eR7D8D) | 2:25 |
 | 46 | [MOTO](https://open.spotify.com/track/1b83195i03SMUa1VWto8Z5) | [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [MOTO](https://open.spotify.com/album/3MXt0hRNSIulLZy7x1XpAg) | 2:58 |
 | 47 | [Know You](https://open.spotify.com/track/2ruXXt5eDmdm35hTCnGy0s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Simi](https://open.spotify.com/artist/4Ns55iOSe1Im2WU2e1Eym0) | [Know You](https://open.spotify.com/album/7Lx1a9NN4ns7NIEvVCzzWu) | 3:50 |

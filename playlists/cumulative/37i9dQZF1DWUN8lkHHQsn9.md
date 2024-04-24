@@ -4,7 +4,7 @@
 
 > Bądź sobą ✨ Posłuchaj głosu polskich artystów LGBTQIA+\. Cover: <a href="spotify:artist:5nGEwOuyd7RFe64eB0kWd8">Iwona Skv</a>
 
-198 songs - 11 hr 8 min
+199 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Bum Bum \- Radio Edit](https://open.spotify.com/track/3sEYWrXeFqJF8L9sJUpLXo) | [Mona Lizak](https://open.spotify.com/artist/1SBoVo80gkiAYGFMQPOKOb), [Madox](https://open.spotify.com/artist/6AypwNfEAiPfY2S4sYHeqN) | [Bum Bum \(Remixes version\)](https://open.spotify.com/album/0aqZ88RIcL6sYBYau27HiA) | 3:33 | 2023-06-19 | 2023-07-14 |
 | [Can't Stand feat\. ZensoFly](https://open.spotify.com/track/7t5E6WC2HIeAAAKWUymNzs) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh), [ZenSoFly](https://open.spotify.com/artist/4tDTF2Ho65ijdmMHbtgJ1h) | [Can't Stand](https://open.spotify.com/album/4Xfcjaz36C9tkHq3COjWml) | 5:26 | 2023-08-07 |  |
 | [Chucky73 \- Bzrp 43](https://open.spotify.com/track/4jmE3QZLQv9pIA791PGZ05) | [Catz 'n Dogz](https://open.spotify.com/artist/5tYqFEuFELxnJZgGmmsfSh) | [Chucky73 \- Bzrp 43](https://open.spotify.com/album/1EjGYxuGr01m4NgsoRs3OI) | 3:14 | 2023-01-24 | 2023-08-08 |
+| [Chwila](https://open.spotify.com/track/2Vz2OhuJWd1Pgn817daXWr) | [Iwona Skv](https://open.spotify.com/artist/5nGEwOuyd7RFe64eB0kWd8) | [Chwila](https://open.spotify.com/album/6eZDRKtNj3UI3TOkWI7LTt) | 6:04 | 2024-04-23 |  |
 | [Chłopaki z BMW](https://open.spotify.com/track/6Jg1PUaCjb51scgO15pFBw) | [Aljas](https://open.spotify.com/artist/6Vkhs9MXgzLQ88k1rMay1a) | [Chłopaki z BMW](https://open.spotify.com/album/3ARUpHzL4WHh3WnxUUKUIi) | 2:50 | 2023-04-10 | 2023-08-08 |
 | [Ciała Niebieskie](https://open.spotify.com/track/1vX60GfNMXm4ghISGo7QBe) | [Caville](https://open.spotify.com/artist/3K6TVqpz0sfuRtKVo6tYBZ) | [Ciała Niebieskie](https://open.spotify.com/album/6QHFF4bgTFpmy6aNMo6PLE) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [Cicho](https://open.spotify.com/track/2TOrUREtKTgIs3GO6ufiB0) | [Agata Radziszewska](https://open.spotify.com/artist/4mUA3fiuOqVdoejnwftkkA) | [Młodzi](https://open.spotify.com/album/3qB3nhievjivYCPPizraEG) | 4:07 | 2022-06-01 | 2023-06-07 |
@@ -172,7 +173,7 @@
 | [Suka jak Ja](https://open.spotify.com/track/4VYuEsq0d7fjYBQyyCqP8d) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/7F65SLLOJ5pCc7liw3dQHJ) | 3:10 | 2022-07-22 | 2023-01-19 |
 | [Suka jak Ja](https://open.spotify.com/track/4ycrPLMf7MzGM2x1N2LIfG) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Suka jak Ja](https://open.spotify.com/album/3IddZSA2Lrgfs1ruhbzSFD) | 3:10 | 2022-06-01 | 2023-01-20 |
 | [Suka jak Ja](https://open.spotify.com/track/7j8UcJ1pQBWHiGadelcYH5) | [Sylvia Baudelaire](https://open.spotify.com/artist/2aAx96PFuLYY2cpRXE5buF) | [Dziewczynka Tatusia](https://open.spotify.com/album/0rHwKAVgJQJxBIzH3dSL7B) | 3:10 | 2022-07-22 | 2023-09-12 |
-| [Super](https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB) | [Vipera](https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48) | [Remedium](https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS) | 3:20 | 2023-11-13 |  |
+| [Super](https://open.spotify.com/track/3TZlCnbC6q8JGH3TCCjBKB) | [Vipera](https://open.spotify.com/artist/4vCaa5Di1yZpfsdowt4l48) | [Remedium](https://open.spotify.com/album/72fMYKTiaytD7nrFykKlDS) | 3:20 | 2023-11-13 | 2024-04-24 |
 | [Suwenir](https://open.spotify.com/track/4q2gmv1VIaI0a8i4AVjewe) | [sedguy](https://open.spotify.com/artist/0dKVhjeQK0F1tqd32emoPf) | [Suwenir](https://open.spotify.com/album/3WobIG2LjPmQcE2hbGJXRy) | 3:49 | 2022-06-01 | 2022-07-02 |
 | [sweet](https://open.spotify.com/track/5qhjxWM1KUzliZapFw3JQM) | [god.wifi](https://open.spotify.com/artist/6iz52ADwFl483ghAI7NuS1) | [sweet](https://open.spotify.com/album/0qa3J0y5uJA60fMpsusIFB) | 2:11 | 2024-03-11 |  |
 | [Taką Polskę lubię nawet](https://open.spotify.com/track/6sQG5iHLckuLzX1unBIRD1) | [Cudowne Lata](https://open.spotify.com/artist/0e3JhHef9mrLSetLvdbJxf) | [Taką Polskę lubię nawet](https://open.spotify.com/album/72jTsjvMjNn2xH1Ye9T3ER) | 4:08 | 2022-06-13 |  |

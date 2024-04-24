@@ -6093,6 +6093,24 @@
     },
     {
       "album": {
+        "name": "YUQ1",
+        "url": "https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
+    },
+    {
+      "album": {
         "name": "Grown Ass Kid",
         "url": "https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ"
       },

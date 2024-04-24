@@ -1,12 +1,12 @@
 {
-  "description": "This Is Nanpa B\u00e1sico. Los temas esenciales, todos en una lista.",
-  "num_followers": 210244,
+  "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
+  "num_followers": 210417,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDkxODVlMDQxN2JiOTBkNTE1OTM2NzAwZmM2YjZhNzFi",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDU3YjE4YjdlYjUwZGZhYWY2NzhiM2E2YjAzMDUwM2Zh",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nunca Quise Escribirte una Balada",
-        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
+        "name": "No Es M\u00eda",
+        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 153242,
-      "name": "Nunca Quise Escribirte una Balada",
-      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
+      "duration_ms": 188992,
+      "name": "No Es M\u00eda",
+      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
     },
     {
       "added_at": null,
@@ -411,18 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es M\u00eda",
-        "url": "https://open.spotify.com/album/3uvJeaWB2Sj33rSFS01j8O"
+        "name": "Nunca Quise Escribirte una Balada",
+        "url": "https://open.spotify.com/album/4wFlI78FEuTROwAzUeRDBf"
       },
       "artists": [
         {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
         }
       ],
-      "duration_ms": 188992,
-      "name": "No Es M\u00eda",
-      "url": "https://open.spotify.com/track/78mmAWXm1vjrLoNlP1KdtV"
+      "duration_ms": 153242,
+      "name": "Nunca Quise Escribirte una Balada",
+      "url": "https://open.spotify.com/track/6NABVmTFslZbB8JEPx2DBl"
     },
     {
       "added_at": null,

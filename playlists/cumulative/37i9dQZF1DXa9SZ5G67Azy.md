@@ -2,7 +2,7 @@
 
 ### [Techengue ](https://open.spotify.com/playlist/37i9dQZF1DXa9SZ5G67Azy)
 
-> 🥂🍾🧼🫧🛁
+> Un poco de esto, un poco de lo otro.
 
 96 songs - 5 hr 39 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 
 > This Is Carolina Ross\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,052 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,043 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 20 | [Buena Señal](https://open.spotify.com/track/4kpAZKCOW56xfDvVBiIJU2) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Buena Señal](https://open.spotify.com/album/3J0I5i73vmM6YwBoFltt3e) | 3:06 |
 | 21 | [Cicatrices](https://open.spotify.com/track/3GWHLz1rRWONm8DIsaLOlE) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 2](https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR) | 2:55 |
 | 22 | [La Mejor Versión de Mí](https://open.spotify.com/track/7pA5y7FE8t6T34ig8TCwsY) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 6](https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8) | 2:28 |
-| 23 | [Por Siempre Mi Amor](https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:07 |
-| 24 | [Cómo le Hago](https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cómo le Hago](https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG) | 2:59 |
+| 23 | [Cómo le Hago](https://open.spotify.com/track/1xsqv1DSAyaT3LO8FUf85p) | [Paulina B](https://open.spotify.com/artist/2RyrPKQVFJuMkFQiLyKK6Z), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cómo le Hago](https://open.spotify.com/album/0PALoWuU2iFGm3s4BnzozG) | 2:59 |
+| 24 | [Por Siempre Mi Amor](https://open.spotify.com/track/6zLXcNShtPIECN9uNjETh6) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 5](https://open.spotify.com/album/269CUSn61yMvZIcJqkxGgH) | 3:07 |
 | 25 | [Seremos](https://open.spotify.com/track/5AT5SkDR5LZEkNKCxJ4FAX) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 4](https://open.spotify.com/album/1oRruxE4tO17YAgbjrzwl7) | 3:16 |
 | 26 | [Netflix](https://open.spotify.com/track/1OFFyKAkVabL9STnv8bg2f) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Netflix](https://open.spotify.com/album/70oBLKCu7qEnxym8FsabML) | 3:15 |
 | 27 | [Adios Amor](https://open.spotify.com/track/5sF3HxdhvRIIDOd9XwE3rc) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers](https://open.spotify.com/album/5vGaNv6zQIAixUzSo0o9qY) | 3:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3fD9Xc.md) - [plain]
 | 49 | [Te Lo Pido por Favor](https://open.spotify.com/track/1Uv0WKqaR9JDqEUJvflJB9) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Mis Covers, Vol\. 3](https://open.spotify.com/album/3Z5c9YxXkoRBfbPfgMgXsy) | 2:44 |
 | 50 | [Uno Y Uno](https://open.spotify.com/track/0icE6mNTDgKULNLMZuLebj) | [Carolina Ross](https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV) | [Cuestión De Tiempo](https://open.spotify.com/album/6WtWj2Hdjw61IsBgx2xc7W) | 3:53 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGQ5MTJiOWExNzMzYmUwOTVlODgzZjFlMDQzZGZlYTQ1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGE1NWEwZGUzNjg3N2U4MzA3MzQ5MzM4YmNlNTQ3M2Jk`

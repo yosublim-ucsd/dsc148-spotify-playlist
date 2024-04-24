@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 
 > The best Grunge heirs' songs\. Cover: Creed
 
-[Spotify](https://open.spotify.com/user/spotify) - 618,010 likes - 70 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 617,751 likes - 70 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,9 +31,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwr24yj95lH.md) - [plain]
 | 21 | [Daisy](https://open.spotify.com/track/6142Em0cjiYUz2GjnG1Epw) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Life's a Blur](https://open.spotify.com/album/7t00JaebsFO1LI5mPNMXm8) | 3:09 |
 | 22 | [Lips Of An Angel](https://open.spotify.com/track/40LQiUUUKXVGyNs09lHVjW) | [Hinder](https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY) | [Extreme Behavior](https://open.spotify.com/album/2SmDuZSWtjukp9gkG2mcBQ) | 4:21 |
 | 23 | [Let It Sink](https://open.spotify.com/track/6JiZWNx3vkY1FXEbxJpudk) | [LATE 90s](https://open.spotify.com/artist/6nm6POBqf0Jt9TDorqIrAJ) | [Everything Is Closer Than It Seems](https://open.spotify.com/album/6AKctSjeMPlLSFjcDe7dF1) | 3:02 |
-| 24 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
-| 25 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
-| 26 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
+| 24 | [Cold](https://open.spotify.com/track/6ZxrUCaynLgKSUudACOTwj) | [Crossfade](https://open.spotify.com/artist/4IR8ZkpbyyKrqsIzchF3NB) | [Crossfade](https://open.spotify.com/album/1namjaJZ23ozXXB7X2d4hy) | 3:14 |
+| 25 | [The Red](https://open.spotify.com/track/1gyee1JuFFiP476LQpRMYU) | [Chevelle](https://open.spotify.com/artist/56dO9zeHKuU5Gvfc2kxHNw) | [Wonder What's Next \(Expanded Edition\)](https://open.spotify.com/album/481JiVXZYUlTtqlv9ewJXV) | 3:58 |
+| 26 | [She Hates Me](https://open.spotify.com/track/16DhvbuyvJob4Q9GHNYu2n) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:36 |
 | 27 | [I Hate Everything About You](https://open.spotify.com/track/6rUp7v3l8yC4TKxAAR5Bmx) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Three Days Grace \(Expanded Edition\)](https://open.spotify.com/album/38pfSOHvxHqDWwDnjZ25U5) | 3:51 |
 | 28 | [Addicted](https://open.spotify.com/track/3pxCXv0NACYfYnLjFcQW5D) | [Saving Abel](https://open.spotify.com/artist/2AVVj8ezW2mJ0v8u7XydiF) | [Saving Abel](https://open.spotify.com/album/6Nft5QnHcxYvLwAQc3mo8O) | 3:42 |
 | 29 | [Remedy](https://open.spotify.com/track/5ynxx6zC4dgzsMHLYQ04Dc) | [Seether](https://open.spotify.com/artist/6B5c4sch27tWHAGdarpPaW) | [Karma and Effect](https://open.spotify.com/album/1C5xrwfzgDM0hz7Kb035V3) | 3:27 |

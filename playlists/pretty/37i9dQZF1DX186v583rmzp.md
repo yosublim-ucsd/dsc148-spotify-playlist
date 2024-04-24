@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,492,813 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,494,034 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 82 | [Chief Rocka](https://open.spotify.com/track/34MRi5GRWHFUa731JBxFEl) | [Lords Of The Underground](https://open.spotify.com/artist/17Q9sCBpIyS6yM2YyaI6R4) | [Here Come The Lords](https://open.spotify.com/album/15nPVESpZNf0QBRwu2sMbI) | 4:07 |
 | 83 | [Gz and Hustlas](https://open.spotify.com/track/3gTPlYouwH2OoVbMQBB4UC) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 4:35 |
 | 84 | [The Rain \(Supa Dupa Fly\)](https://open.spotify.com/track/2WRzpLD8qDRrxMXc63E5WJ) | [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Supa Dupa Fly](https://open.spotify.com/album/6UkdyvPElK6JDkyeRClbI2) | 4:11 |
-| 85 | [The Choice Is Yours \(Revisited\)](https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 4:03 |
-| 86 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
+| 85 | [MC's Act Like They Don't Know](https://open.spotify.com/track/0snDRsjNRMJhm7SVja8l6J) | [KRS\-One](https://open.spotify.com/artist/2gINJ8xw86xawPyGvx1bla) | [KRS\-One](https://open.spotify.com/album/17C90B1H8gxYa664SSVM9x) | 4:55 |
+| 86 | [The Choice Is Yours \(Revisited\)](https://open.spotify.com/track/4k9EkhkFZY8Bk41Qi0Ob7P) | [Black Sheep](https://open.spotify.com/artist/0NnCgUxhtWt1yBtpDyvFQf) | [A Wolf In Sheep's Clothing](https://open.spotify.com/album/4tIQR0m3PPwybQ32P256IO) | 4:03 |
 | 87 | [Elevators \(Me & You\)](https://open.spotify.com/track/2oLwDI8tZUOh6SmTMRRfKs) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 4:25 |
 | 88 | [Been Around the World \(feat\. The Notorious B.I.G\. & Mase\)](https://open.spotify.com/track/1siDRjAa8MdxNoCHTiiQ7B) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb), [Mase](https://open.spotify.com/artist/1wiBLzTI7z9RUwEpNPdFT6) | [No Way Out](https://open.spotify.com/album/4OGaOZUHLhSeiicZB909aL) | 5:25 |
 | 89 | [Money Ain't a Thang \(feat\. Jay\-Z\)](https://open.spotify.com/track/12LjNmRrdzhTn1vMcxN81m) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:14 |

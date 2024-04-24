@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 
 > make the whole place shimmer ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,179 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 220,244 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa90jZU6E5GN.md) - [plain]
 | 35 | [Here You Come Again](https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [Here You Come Again](https://open.spotify.com/album/64yIGFoYJVg66fRXIxIYJr) | 2:59 |
 | 36 | [Pontoon](https://open.spotify.com/track/2Gy3XMLbBxACZ4tXdFRGr7) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Tornado](https://open.spotify.com/album/5IIYlM5tjDtW3fIgOIA5TB) | 3:32 |
 | 37 | [Bartender](https://open.spotify.com/track/6olKv2HP3XgBpvVxAswowe) | [Lady A](https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA) | [747](https://open.spotify.com/album/1JHNRou038CfCC0RZztDz8) | 3:18 |
-| 38 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 |
-| 39 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
+| 38 | [Redneck Woman](https://open.spotify.com/track/26bL4gSULWDgdIMX0pRFrG) | [Gretchen Wilson](https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF) | [Here For The Party](https://open.spotify.com/album/5OYkhSnpSoztkCKind5tap) | 3:41 |
+| 39 | [Goodbye Earl](https://open.spotify.com/track/7rqaqQurHzR5xHAhdm1gmM) | [The Chicks](https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57) | [Fly](https://open.spotify.com/album/3y6G5El2I6QrJA9BdfAbqA) | 4:18 |
 | 40 | [That Don't Impress Me Much](https://open.spotify.com/track/4FUfoWMypAyWbOavmYyeNu) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Come On Over](https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9) | 3:38 |
 | 41 | [Woman \(feat\. The Dap\-Kings Horns\)](https://open.spotify.com/track/1kJtfldK9F7XmsSiSNlbth) | [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX), [The Dap\-Kings Horns](https://open.spotify.com/artist/4LFgxG38Y0l4Fo1gdQelay) | [Rainbow](https://open.spotify.com/album/1IYVB8NfiRqhdZlTxjspNh) | 3:16 |
 | 42 | [The Best of Both Worlds \- From "Hannah Montana"/Soundtrack Version](https://open.spotify.com/track/6Z0F3Mqj7tq1CBZo5qMlUg) | [Hannah Montana](https://open.spotify.com/artist/7nU4hB040gTmHm45YYMvqc) | [Hannah Montana](https://open.spotify.com/album/0TyDqWrWHzuyFjjnKqDClu) | 2:54 |

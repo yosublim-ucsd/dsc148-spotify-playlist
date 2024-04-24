@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,709 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,649 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 37 | [Alguien Como Tú](https://open.spotify.com/track/4RsRVpG6hmp5tlj2piiPrC) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/7ikXM5hxBvLHdPcmAZr7c8) | 3:21 |
 | 38 | [El Güero Colorado](https://open.spotify.com/track/0QBOB9Cf0XZ9mzvq2ZdDJa) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Nació Pa' Leyenda](https://open.spotify.com/album/2ctNHopUQHri09MYsc33q1) | 3:39 |
 | 39 | [50 Mentadas](https://open.spotify.com/track/7CXDjMhOzM2PX3DHHPMxIX) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:39 |
-| 40 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
-| 41 | [Amor Pasajero](https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL) | 3:30 |
+| 40 | [Amor Pasajero](https://open.spotify.com/track/5NqpxYYauBYU1XfAeakJwu) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/3pNF1xhZWMeNv69ggMPARL) | 3:30 |
+| 41 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
 | 42 | [Enseñame A Olvidar \- En Vivo](https://open.spotify.com/track/1r1x8P6SA7FQNZzKurlSHz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [En Vivo con Banda Sinaloense La Tuyia de Culiacan, Sinaloa Vol\. 2](https://open.spotify.com/album/77YuTsjt3HShK7vQZrf2VR) | 3:07 |
 | 43 | [El Mencho \- En Vivo](https://open.spotify.com/track/5Vw0NBy4t0Q6AHpF3sXB9e) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [EN VIVO con Banda Sinaloense La Tuyia de Culiacán, Sinaloa \(En Vivo\)](https://open.spotify.com/album/6oFayPQwUEha5VnlkwANz3) | 2:49 |
 | 44 | [Bola de Cristal](https://open.spotify.com/track/5lKY5UvsHitVG5Ne9YNmIo) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Serenata Digital](https://open.spotify.com/album/4HBtSCO4TUKg2gGxnMkpSP) | 3:10 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 49 | [El Cholo Iván \- En Vivo](https://open.spotify.com/track/6luTTNib9LsQc0trSP4121) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [El Cholo Iván \(En Vivo\)](https://open.spotify.com/album/5fFIZpur4giaSJLfT69ZuU) | 3:28 |
 | 50 | [Tres Besitos](https://open.spotify.com/track/2UADsvbZjZWQpzFfch78FI) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:34 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDY3OGRkMTFmZGExYjU3MzNjZWFkMjYzMmZhZjQ5OWVl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDZjYjJiZWUxYTQ4NDBjMmVmZjU4ZTBmOGQyYjdjNDMy`

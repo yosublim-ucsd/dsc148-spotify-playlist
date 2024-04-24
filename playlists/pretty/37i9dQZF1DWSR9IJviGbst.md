@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 
 > Get into the flow of the forest, with relaxing natural water sounds of small creeks and calming streams.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,685 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,797 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSR9IJviGbst.md) - [plain]
 | 19 | [Pond Of Sleep](https://open.spotify.com/track/6sURZokRcztKu6xYfsatXm) | [Ambrook Glacier](https://open.spotify.com/artist/2nzv7rfJgsWoS068opqZDy) | [Pond Of Sleep](https://open.spotify.com/album/5ldXqn6VEKsa2TBnONcyV4) | 2:07 |
 | 20 | [Värnen](https://open.spotify.com/track/16Im0hhhrBii9rTBajBbFK) | [FJORD](https://open.spotify.com/artist/4dQHSSmUOllGIjiXbadM2U) | [Scandinavian waters](https://open.spotify.com/album/1VAmNHwY3DFBbs8uEjJVge) | 3:16 |
 | 21 | [Trickeling Flow](https://open.spotify.com/track/1qUwc1VTQW2671NrsL9NXd) | [Aurise](https://open.spotify.com/artist/2hxzpIVNlctBSHKs4aUZkP) | [Trickeling Flow](https://open.spotify.com/album/69Q8MYFjXqt3ETH3JpYTin) | 2:37 |
-| 22 | [Deep River Rapid Flow](https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:02 |
-| 23 | [Gentle River](https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:18 |
+| 22 | [Gentle River](https://open.spotify.com/track/1LN1hqYm2UNvSo3x4yjdFE) | [Four Winds](https://open.spotify.com/artist/3MNXmvXsz12M9aeI4w6qqE) | [River Relaxation](https://open.spotify.com/album/3aoBFnSGb7lXY9qFK7vWmj) | 3:18 |
+| 23 | [Deep River Rapid Flow](https://open.spotify.com/track/1ixae5u6IU5ngF2j1vWWQk) | [Weather and Nature Recordings](https://open.spotify.com/artist/7zkEyvgDJYnVeTTsFaReKe) | [River & Waterfall Flow](https://open.spotify.com/album/170V5jgd4OGqMCCIPulFiR) | 3:02 |
 | 24 | [Zenful Water](https://open.spotify.com/track/3Umi1MexD0B01HXRjo0k48) | [Japanese Garden](https://open.spotify.com/artist/3oIpb7nuzcXKzS9hgh4LAQ) | [Stream Of Life](https://open.spotify.com/album/1RaCPUrWLHhG5D2q8uHCJN) | 2:22 |
 | 25 | [Rippling Water](https://open.spotify.com/track/0oAaI5xIkUhztpphsElfh5) | [Monterio](https://open.spotify.com/artist/2FPcGoYsX7uC8f9EZae0of) | [River Creek](https://open.spotify.com/album/30VELFnoOR9DXklDdBQQWj) | 3:12 |
 | 26 | [Waterfall Creek](https://open.spotify.com/track/1fXu9OU5gVwTwjeScrRwMK) | [Natural Waters](https://open.spotify.com/artist/0nIJ15ViXXRyCe6mRqPOaD) | [At the Waterfall](https://open.spotify.com/album/30bgRxzTaRDFcNnm8wdpaP) | 2:42 |

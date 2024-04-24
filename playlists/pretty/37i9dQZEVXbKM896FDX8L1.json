@@ -1,18 +1,18 @@
 {
   "description": "Your daily update of the most played tracks right now - Ireland.",
-  "num_followers": 242816,
+  "num_followers": 242698,
   "original_name": "Top 50 - Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "NzY3MTUwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
+  "snapshot_id": "NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=",
   "tracks": [
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Unreal Unearth: Unheard",
-        "url": "https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN"
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
       },
       "artists": [
         {
@@ -22,10 +22,26 @@
       ],
       "duration_ms": 251424,
       "name": "Too Sweet",
-      "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -45,23 +61,7 @@
       "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
@@ -77,39 +77,7 @@
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Stick Season",
-        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 182346,
-      "name": "Stick Season",
-      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Fireworks & Rollerblades",
-        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
-      },
-      "artists": [
-        {
-          "name": "Benson Boone",
-          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
-        }
-      ],
-      "duration_ms": 180304,
-      "name": "Beautiful Things",
-      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -125,87 +93,23 @@
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
         }
       ],
-      "duration_ms": 293048,
-      "name": "The Tortured Poets Department",
-      "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
+      "duration_ms": 180304,
+      "name": "Beautiful Things",
+      "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 262974,
-      "name": "So Long, London",
-      "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 261228,
-      "name": "Down Bad",
-      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Scared To Start",
-        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 159636,
-      "name": "Scared To Start",
-      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "My Boy Only Breaks His Favorite Toys",
-      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Belong Together",
         "url": "https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o"
@@ -221,7 +125,119 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "What Happens Now?",
+        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
+      },
+      "artists": [
+        {
+          "name": "Dasha",
+          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
+        }
+      ],
+      "duration_ms": 171782,
+      "name": "Austin",
+      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 261228,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 262974,
+      "name": "So Long, London",
+      "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Scared To Start",
+        "url": "https://open.spotify.com/album/3NpeIWhWsxU7d3XL5KEh39"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 159636,
+      "name": "Scared To Start",
+      "url": "https://open.spotify.com/track/3Pbp7cUCx4d3OAkZSCoNvn"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 293048,
+      "name": "The Tortured Poets Department",
+      "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -237,7 +253,39 @@
       "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "DECIDE",
+        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 159245,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -253,7 +301,7 @@
       "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -273,39 +321,7 @@
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "What Happens Now?",
-        "url": "https://open.spotify.com/album/40HsqPqeSR9Xe3IyAJWr6e"
-      },
-      "artists": [
-        {
-          "name": "Dasha",
-          "url": "https://open.spotify.com/artist/7Ez6lTtSMjMf2YSYpukP1I"
-        }
-      ],
-      "duration_ms": 171782,
-      "name": "Austin",
-      "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "DECIDE",
-        "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
-      },
-      "artists": [
-        {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
-        }
-      ],
-      "duration_ms": 159245,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "I've Tried Everything But Therapy (Part 1)",
         "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
@@ -321,7 +337,7 @@
       "url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
@@ -337,7 +353,7 @@
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -353,23 +369,7 @@
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "COWBOY CARTER",
-        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 233456,
-      "name": "TEXAS HOLD 'EM",
-      "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT",
         "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
@@ -385,39 +385,7 @@
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 277156,
-      "name": "loml",
-      "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 210789,
-      "name": "Fresh Out The Slammer",
-      "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Tell Ur Girlfriend",
         "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
@@ -433,7 +401,23 @@
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "COWBOY CARTER",
+        "url": "https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 233456,
+      "name": "TEXAS HOLD 'EM",
+      "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -457,171 +441,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "greedy",
-        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
-      },
-      "artists": [
-        {
-          "name": "Tate McRae",
-          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-        }
-      ],
-      "duration_ms": 131872,
-      "name": "greedy",
-      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 156297,
-      "name": "I Can Fix Him (No Really I Can)",
-      "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 196900,
-      "name": "The Alchemy",
-      "url": "https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Simmer Down",
-        "url": "https://open.spotify.com/album/6D9NTpouTbSPeKnjwnEEjw"
-      },
-      "artists": [
-        {
-          "name": "Casper Walsh",
-          "url": "https://open.spotify.com/artist/4PW6TRoX9GI8eZt18LQ1aW"
-        }
-      ],
-      "duration_ms": 183101,
-      "name": "Simmer Down",
-      "url": "https://open.spotify.com/track/4pcEACnm3ZfZNNepcxCT0c"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "A Bar Song (Tipsy)",
-        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 171291,
-      "name": "A Bar Song (Tipsy)",
-      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 178426,
-      "name": "Cruel Summer",
-      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT",
-        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 216662,
-      "name": "Clara Bow",
-      "url": "https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Zach Bryan",
-        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        },
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 227195,
-      "name": "I Remember Everything (feat. Kacey Musgraves)",
-      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 263817,
-      "name": "thanK you aIMee",
-      "url": "https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Unwritten",
-        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
-      },
-      "artists": [
-        {
-          "name": "Natasha Bedingfield",
-          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
-        }
-      ],
-      "duration_ms": 259333,
-      "name": "Unwritten",
-      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Good Luck, Babe!",
         "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
@@ -637,7 +457,71 @@
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "greedy",
+        "url": "https://open.spotify.com/album/3UOV8XvCwMKaATRNXrYCjN"
+      },
+      "artists": [
+        {
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "duration_ms": 131872,
+      "name": "greedy",
+      "url": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 277156,
+      "name": "loml",
+      "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Simmer Down",
+        "url": "https://open.spotify.com/album/6D9NTpouTbSPeKnjwnEEjw"
+      },
+      "artists": [
+        {
+          "name": "Casper Walsh",
+          "url": "https://open.spotify.com/artist/4PW6TRoX9GI8eZt18LQ1aW"
+        }
+      ],
+      "duration_ms": 183101,
+      "name": "Simmer Down",
+      "url": "https://open.spotify.com/track/4pcEACnm3ZfZNNepcxCT0c"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 210789,
+      "name": "Fresh Out The Slammer",
+      "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "These Words",
         "url": "https://open.spotify.com/album/3boWgDZHAI5tHYwdLuMuwq"
@@ -657,39 +541,7 @@
       "url": "https://open.spotify.com/track/7leW1Dmvs9A4oDh9i5Qwpz"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Push Ups",
-        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 232774,
-      "name": "Push Ups",
-      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 238857,
-      "name": "The Black Dog",
-      "url": "https://open.spotify.com/track/62E2nR0od0M5HYxuYLaDz7"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Fireworks & Rollerblades",
         "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
@@ -705,10 +557,10 @@
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
       "artists": [
         {
@@ -716,15 +568,15 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 222072,
-      "name": "imgonnagetyouback",
-      "url": "https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP"
+      "duration_ms": 196900,
+      "name": "The Alchemy",
+      "url": "https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
       "artists": [
         {
@@ -732,15 +584,15 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 228800,
-      "name": "So High School",
-      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+      "duration_ms": 156297,
+      "name": "I Can Fix Him (No Really I Can)",
+      "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
-        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
-        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
       },
       "artists": [
         {
@@ -748,12 +600,12 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 249807,
-      "name": "The Prophecy",
-      "url": "https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e"
+      "duration_ms": 216662,
+      "name": "Clara Bow",
+      "url": "https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Illusion",
         "url": "https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt"
@@ -769,7 +621,43 @@
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Zach Bryan",
+        "url": "https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        },
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        }
+      ],
+      "duration_ms": 227195,
+      "name": "I Remember Everything (feat. Kacey Musgraves)",
+      "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Unwritten",
+        "url": "https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL"
+      },
+      "artists": [
+        {
+          "name": "Natasha Bedingfield",
+          "url": "https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a"
+        }
+      ],
+      "duration_ms": 259333,
+      "name": "Unwritten",
+      "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
@@ -780,12 +668,60 @@
           "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 183878,
-      "name": "The Albatross",
-      "url": "https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX"
+      "duration_ms": 238857,
+      "name": "The Black Dog",
+      "url": "https://open.spotify.com/track/62E2nR0od0M5HYxuYLaDz7"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 228800,
+      "name": "So High School",
+      "url": "https://open.spotify.com/track/7Mts0OfPorF4iwOomvfqn1"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 263817,
+      "name": "thanK you aIMee",
+      "url": "https://open.spotify.com/track/7ogK4lJDVDMU6A6vYR5rvD"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 222072,
+      "name": "imgonnagetyouback",
+      "url": "https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "Training Season",
         "url": "https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784"
@@ -801,23 +737,7 @@
       "url": "https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap"
     },
     {
-      "added_at": "2024-04-22 11:06:51",
-      "album": {
-        "name": "Saturn",
-        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 186191,
-      "name": "Saturn",
-      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
-    },
-    {
-      "added_at": "2024-04-22 11:06:51",
+      "added_at": "2024-04-24 11:02:42",
       "album": {
         "name": "RMCM",
         "url": "https://open.spotify.com/album/2weOG4ZiOjfxiuFMsHm9JQ"
@@ -831,6 +751,86 @@
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "nah nah nah",
+        "url": "https://open.spotify.com/album/1nYJkEsSJEcG9YmFyalU9b"
+      },
+      "artists": [
+        {
+          "name": "Robin Novaku",
+          "url": "https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc"
+        }
+      ],
+      "duration_ms": 168626,
+      "name": "nah nah nah",
+      "url": "https://open.spotify.com/track/2992e9BcyYkh8ZVYhkHj22"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 178426,
+      "name": "Cruel Summer",
+      "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
+        "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 249807,
+      "name": "The Prophecy",
+      "url": "https://open.spotify.com/track/18WFFUIsewmA8g31KAeo3e"
+    },
+    {
+      "added_at": "2024-04-24 11:02:42",
+      "album": {
+        "name": "Saturn",
+        "url": "https://open.spotify.com/album/1fmBMCSSkSlvxyoy1vut2k"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 186191,
+      "name": "Saturn",
+      "url": "https://open.spotify.com/track/1bjeWoagtHmUKputLVyDxQ"
     }
   ],
   "unique_name": "Top 50 - Ireland",

@@ -4,7 +4,7 @@
 
 > Future K\-Pop hits! Cover: KIM WOOJIN
 
-1,039 songs - 2 day 8 hr 57 min
+1,040 songs - 2 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [For You \(Holiday Remix\) \- Spotify Singles Holiday](https://open.spotify.com/track/7I4DnQPWhzZvK79px5UhT5) | [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Spotify Singles \- Holiday](https://open.spotify.com/album/5AVL4k3pesuk0jRkTeCOSm) | 3:31 | 2021-11-19 | 2022-01-04 |
 | [Forbidden Island](https://open.spotify.com/track/5YFIlLHse7UplUd36BYGSm) | [HA SUNG WOON](https://open.spotify.com/artist/3OBkZ9NG8F0Fn4oNpg0yuU) | [Mirage](https://open.spotify.com/album/3IluPLhGQ9kKlIQp4C11P3) | 3:19 | 2020-11-12 | 2021-04-22 |
 | [Forever \(약속\)](https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Forever \(약속\)](https://open.spotify.com/album/3CExk4WgPxe0lOwoOhuMWj) | 4:58 | 2021-02-10 | 2021-05-05 |
+| [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-04-23 |  |
 | [Freak](https://open.spotify.com/track/53NYRM8s4mm4yeCsmsvTik) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [Grown Ass Kid](https://open.spotify.com/album/5gHJyHBTHBZlgFsODXj7HZ) | 2:49 | 2022-07-29 | 2022-10-15 |
 | [Freakin' Bad](https://open.spotify.com/track/1gZxcX80pR6xThd2waYjuq) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/3jkLKeTkRsRehIUkPFHubG) | 3:03 | 2023-07-03 | 2023-08-12 |
 | [Freakin' Bad](https://open.spotify.com/track/3wntBaOJD8AZrJ8ix97Lwg) | [Xdinary Heroes](https://open.spotify.com/artist/1khChLj7REGqjM043PlYyn) | [Deadlock](https://open.spotify.com/album/6nePUewVYxSkvIbG9nkB0M) | 3:03 | 2023-04-26 | 2023-07-05 |

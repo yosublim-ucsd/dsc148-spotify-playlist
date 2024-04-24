@@ -1,6 +1,6 @@
 {
   "description": "Tesoros musicales del ayer.",
-  "num_followers": 821152,
+  "num_followers": 821874,
   "original_name": "Viejitas pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -347,22 +347,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Matamoros Querido",
-        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
-      },
-      "artists": [
-        {
-          "name": "Rigo Tovar",
-          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
-        }
-      ],
-      "duration_ms": 195506,
-      "name": "Lamento De Amor",
-      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Mujer De Todos Mujer De Nadie",
         "url": "https://open.spotify.com/album/6BC7q1B5ss7OiX121KKoJK"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 210440,
       "name": "De Mi Enam\u00f3rate",
       "url": "https://open.spotify.com/track/2YpdOz01cVBMRfhdAELdLi"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Matamoros Querido",
+        "url": "https://open.spotify.com/album/3JhqydiRWszqD9YZ7xf4PR"
+      },
+      "artists": [
+        {
+          "name": "Rigo Tovar",
+          "url": "https://open.spotify.com/artist/5fKc00Wh60ggl0QptZ2aBx"
+        }
+      ],
+      "duration_ms": 195506,
+      "name": "Lamento De Amor",
+      "url": "https://open.spotify.com/track/6pYz8bkZvf84S49VWLRHah"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -717,6 +717,22 @@
       "url": "https://open.spotify.com/track/6AgSJsbx0DRnH0jIwDVOGF"
     },
     {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Y... sigo mi camino",
+        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 279160,
+      "name": "Como yo te amo",
+      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
+    },
+    {
       "added_at": "2022-05-25 13:53:56",
       "album": {
         "name": "El Fen\u00f3meno",
@@ -735,18 +751,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Y... sigo mi camino",
-        "url": "https://open.spotify.com/album/1IWaci4FAbXR9OXmwQFMz3"
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
       "artists": [
         {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
         }
       ],
-      "duration_ms": 279160,
-      "name": "Como yo te amo",
-      "url": "https://open.spotify.com/track/2N1u2w7dbHt058hi7pIFjW"
+      "duration_ms": 130066,
+      "name": "Amor de Estudiante",
+      "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -763,22 +779,6 @@
       "duration_ms": 267000,
       "name": "No Hace Falta",
       "url": "https://open.spotify.com/track/5DiHLU0npIbhSTZm8EGeuT"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 130066,
-      "name": "Amor de Estudiante",
-      "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -911,22 +911,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Cl\u00e1sicos Latinos",
-        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
-      },
-      "artists": [
-        {
-          "name": "Los Angeles Negros",
-          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
-        }
-      ],
-      "duration_ms": 169720,
-      "name": "C\u00f3mo Quisiera Decirte",
-      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Antolog\u00eda. . . Los Solitarios",
         "url": "https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 173506,
       "name": "Nada de tu amor",
       "url": "https://open.spotify.com/track/3N7oZZG0sPkdBITPI7LwYf"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "Cl\u00e1sicos Latinos",
+        "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
+      },
+      "artists": [
+        {
+          "name": "Los Angeles Negros",
+          "url": "https://open.spotify.com/artist/1NiC1V6xc8OR1ERiIoCvtx"
+        }
+      ],
+      "duration_ms": 169720,
+      "name": "C\u00f3mo Quisiera Decirte",
+      "url": "https://open.spotify.com/track/7lmK8HJzXjD7JW88tQGVUT"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "16 \u00c9xitos: Baladas",
-        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
-      },
-      "artists": [
-        {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
-        }
-      ],
-      "duration_ms": 200045,
-      "name": "El Pecador",
-      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
-    },
-    {
-      "added_at": "2021-04-22 14:20:49",
-      "album": {
         "name": "Sus Mas Grandes Exit",
         "url": "https://open.spotify.com/album/4rfDjjDvuUriv6MxLbSQX8"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 151133,
       "name": "Tu Cabeza en Mi Hombro",
       "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
+    },
+    {
+      "added_at": "2021-04-22 14:20:49",
+      "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
     },
     {
       "added_at": "2021-04-22 14:20:49",
@@ -1611,18 +1611,18 @@
     {
       "added_at": "2021-04-22 14:20:49",
       "album": {
-        "name": "Lo Mejor De Lo Mejor",
-        "url": "https://open.spotify.com/album/3IqPx1fXB2GeEPcvT9RKn7"
+        "name": "Mis Mas Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/28E8gaViYOVOVNz1OQUHD8"
       },
       "artists": [
         {
-          "name": "To\u00f1a La Negra",
-          "url": "https://open.spotify.com/artist/2NRvtXR7xPvvJGoWov1YJ3"
+          "name": "Mijares",
+          "url": "https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p"
         }
       ],
-      "duration_ms": 192400,
-      "name": "Cenizas",
-      "url": "https://open.spotify.com/track/3Zv4Z2YsgVoLoKKMahdDAN"
+      "duration_ms": 208480,
+      "name": "Para Amarnos M\u00e1s",
+      "url": "https://open.spotify.com/track/2pkTdGQJPsHZdqWW4o4jEz"
     }
   ],
   "unique_name": "Viejitas pero Bonitas",

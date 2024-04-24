@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 
 > The biggest pop hits to come from the land down under.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,273 likes - 70 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,281 likes - 70 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,12 +53,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZTlcGPMirK8.md) - [plain]
 | 43 | [Absolutely Everybody](https://open.spotify.com/track/283898Lgbl6LidapOraXiN) | [Vanessa Amorosi](https://open.spotify.com/artist/5M0fvL9GMc2zTuIIQwresj) | [The Power \(15 Year Anniversary Re\-Issue\)](https://open.spotify.com/album/2PYf4m3Bgu4ljRACdnfMCZ) | 3:44 |
 | 44 | [I Said Hi](https://open.spotify.com/track/4gvPqK7RifS2F45o9Obo5B) | [Amy Shark](https://open.spotify.com/artist/2DORQjKJVYZMx9uu82UGtT) | [Love Monster](https://open.spotify.com/album/7M7CdUhAKyLmCFLY8z4b0P) | 2:50 |
 | 45 | [Calypso](https://open.spotify.com/track/6qWG7dpOSs5dfgJ7d35am5) | [Spiderbait](https://open.spotify.com/artist/6P7kkhED6EPrfoZuxz20Fo) | [Ivy & The Big Apples](https://open.spotify.com/album/39vgclyyab7l2WMMUTmdmC) | 1:51 |
-| 46 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
-| 47 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
-| 48 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
-| 49 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
-| 50 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
-| 51 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
+| 46 | [Kiss Kiss](https://open.spotify.com/track/5TWL2K9Q9QuUTW15I6ZLpP) | [Holly Valance](https://open.spotify.com/artist/7gRmesSjINzb4xXApfMV5E) | [Footprints](https://open.spotify.com/album/0canrrqYujUeehzkS9sUZV) | 3:24 |
+| 47 | [Two Strong Hearts](https://open.spotify.com/track/3LQde40NABYOH14hWse0Yi) | [John Farnham](https://open.spotify.com/artist/1QxaPWG1POM8Ul6WwsHq4y) | [Age Of Reason](https://open.spotify.com/album/4JHZh7UHLQxcdH0qQB757v) | 3:33 |
+| 48 | [In the Summertime \- Single Version](https://open.spotify.com/track/5r7XHPnTPeLKcBeDMLzkse) | [Thirsty Merc](https://open.spotify.com/artist/0tTLmQvo0tn8vYlpJpA2no) | [In The Summertime](https://open.spotify.com/album/1x4C6S1FIkcRBFwYDWFEen) | 3:48 |
+| 49 | [Down Under](https://open.spotify.com/track/5FNiYCRQB1U3aLnsVCkkXA) | [Men At Work](https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux) | [Super Hits](https://open.spotify.com/album/1JixUfJzfLORwef37ydzuB) | 3:43 |
+| 50 | [Better in Blak](https://open.spotify.com/track/1c5iUY7Zg1SxtROg1yr5ad) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:12 |
+| 51 | [Lost Without You](https://open.spotify.com/track/1w0JL6vJdl82xqyRW30HrK) | [Delta Goodrem](https://open.spotify.com/artist/2g6fa86fL6oLcoDqanBbuR) | [Innocent Eyes](https://open.spotify.com/album/26h1O5W89WLiEzxTztbGfu) | 4:08 |
 | 52 | [Moments](https://open.spotify.com/track/3ZSR0xQ7strDNRzKCwNL9L) | [Bliss n Eso](https://open.spotify.com/artist/1xSSjJrKTO2ZNPU81uLtmI), [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [Off The Grid](https://open.spotify.com/album/7Mle8fqfjxEnkubFjg3mAe) | 3:57 |
 | 53 | [Is This How You Feel?](https://open.spotify.com/track/3OIKgKNUt87GHz8OmmHZop) | [The Preatures](https://open.spotify.com/artist/5gcDZA9xXCOspWgQilUYIu) | [Blue Planet Eyes](https://open.spotify.com/album/3JxzIkZt1ttKx2Xr0J0w7l) | 3:34 |
 | 54 | [Fire](https://open.spotify.com/track/3BZkEOJwKUYRlkLWZB1izC) | [Peking Duk](https://open.spotify.com/artist/0UZ1nu3kcdNlCoiKRjmSSY) | [Reprisal](https://open.spotify.com/album/1BJ0H6MrMADSdqHm3aadbM) | 3:46 |

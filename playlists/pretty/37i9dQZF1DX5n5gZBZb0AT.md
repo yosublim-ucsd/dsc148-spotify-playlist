@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 
 > all gains
 
-[Spotify](https://open.spotify.com/user/spotify) - 827,515 likes - 40 songs - 1 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 828,384 likes - 40 songs - 1 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5n5gZBZb0AT.md) - [plain]
 | 30 | [Disaster](https://open.spotify.com/track/29e4KOBzZDOX6qnpYbjwoW) | [KSLV Noh](https://open.spotify.com/artist/2ElMqlv5py0QFIVXUff627) | [Disaster](https://open.spotify.com/album/7jeIigTciBnw9zadRsYqIC) | 1:24 |
 | 31 | [WINTER ARC FUNK](https://open.spotify.com/track/0ayzWNOWQGMHYr137ALsKW) | [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe) | [WINTER ARC FUNK](https://open.spotify.com/album/2qz8nLX6bOLaOrumopQoRT) | 1:31 |
 | 32 | [REI DO BRASIL](https://open.spotify.com/track/6Seth37t5I69wFbuGFrsiG) | [Seek](https://open.spotify.com/artist/3qycxIGAHj1KyoAQ6PGCO6) | [REI DO BRASIL](https://open.spotify.com/album/5rDznSixlUXNxJySfWQNb7) | 1:37 |
-| 33 | [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 |
+| 33 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 |
 | 34 | [Scopin](https://open.spotify.com/track/7KmbiagSkUbepU88x7NWjb) | [Kordhell](https://open.spotify.com/artist/2W6WP4pHQTFlbr2z9S4n54) | [Scopin](https://open.spotify.com/album/6mjnYcgnUPMXZpadY3ctr1) | 1:41 |
-| 35 | [YUM YUM \- Slowed](https://open.spotify.com/track/7eLiel6UxoNWPGJoSfrq46) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [YUM YUM](https://open.spotify.com/album/7Bc7xEWvkW01bvq5jAhCQS) | 2:34 |
-| 36 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
+| 35 | [EMPTY DREAMS](https://open.spotify.com/track/2HhzV3FY4eZGueF0KpXZUo) | [CYPARISS](https://open.spotify.com/artist/1GzMtNyLiP1oM7yW0DyRhP) | [EMPTY DREAMS](https://open.spotify.com/album/6F2YyORz7NH8jzGutSh4q2) | 2:15 |
+| 36 | [Brazilian Phonk Mano](https://open.spotify.com/track/6fazW2YcCSwJRdkoWls1FB) | [Slowboy](https://open.spotify.com/artist/65FHTCI8EmW94W0TdWb8ja), [lucaf.](https://open.spotify.com/artist/6D9zCyDfKoioQD2vYKxOdI), [Crazy Mano](https://open.spotify.com/artist/6QwlKB1hO357wh5oNuuInl) | [Brazilian Phonk Mano](https://open.spotify.com/album/21IZMCIicxvkvHtuh0GTxj) | 1:24 |
 | 37 | [AVOID ME](https://open.spotify.com/track/5FX30idriKlEIRYTxpNf65) | [KUTE](https://open.spotify.com/artist/0S1mAPM0pgJZil5FCqhQTX) | [AVOID ME](https://open.spotify.com/album/1LwLabogNr1KwEHU1EnSRZ) | 1:45 |
 | 38 | [POOR](https://open.spotify.com/track/0LDUzTvKVEla4L7GusNck2) | [gqtis](https://open.spotify.com/artist/5b62Fx0yQzdpnX9xkUjMnB) | [POOR](https://open.spotify.com/album/2LGwRNb8cYUJ02huVGfhxY) | 2:40 |
 | 39 | [MTG \- PISTA TOMA](https://open.spotify.com/track/1r08AN9HcG09RsM5Ubf34W) | [RXDXVIL](https://open.spotify.com/artist/54HaZmktN1cmdL8Ygdrmzz), [DJ FKU](https://open.spotify.com/artist/3QMpCp3GHiHXgnX1LldXWe), [John Bis.T](https://open.spotify.com/artist/5LNzQAUKfB4tYoR1VcKkCx) | [MTG \- PISTA TOMA](https://open.spotify.com/album/0XfbMn9N6vzDybKtXBIKx0) | 2:16 |

@@ -2,7 +2,7 @@
 
 ### [This Is Midian Lima](https://open.spotify.com/playlist/37i9dQZF1DZ06evO150czC)
 
-> This is Midian Lima\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
+> This is Midian Lima\. Todos os maiores hits em uma só playlist.
 
 56 songs - 4 hr 37 min
 

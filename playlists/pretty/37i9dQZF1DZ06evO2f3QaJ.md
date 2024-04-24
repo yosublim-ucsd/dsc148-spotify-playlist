@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 
 > This is Zudizilla\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 767 likes - 44 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 768 likes - 43 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,6 +51,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2f3QaJ.md) - [plain]
 | 41 | [Prefácio](https://open.spotify.com/track/6P96YNjXwQKdQ5pCHE1uuE) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Prefácio](https://open.spotify.com/album/6APMRJ4a03YhLae6ZfkUwz) | 5:13 |
 | 42 | [TELA EM BRANCO](https://open.spotify.com/track/15OoDsfsNOCIjkrft0LEHQ) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Monique Brito](https://open.spotify.com/artist/0DNEpu1ko6mD4s2UqjNQMO) | [Zulu: de César a Cristo \(Vol.2\)](https://open.spotify.com/album/341d3bwPyQcub8YwTnvZOH) | 5:19 |
 | 43 | [Sem Distração](https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd) | [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6), [Manoela Fortuna](https://open.spotify.com/artist/41StJ0vWA6ZVDNlnCDaIdb) | [Zulu, Vol .1: De Onde Eu Possa Alcançar o Céu Sem Deixar o Chão](https://open.spotify.com/album/5bg7LHTHF6NaSUcVDizRsz) | 4:23 |
-| 44 | [Raio De Sol](https://open.spotify.com/track/1A60gepW790C5S9JKATGQB) | [Leo Gandelman](https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW), [Machine Series](https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG), [Stefanie](https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe), [Zudizilla](https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6) | [Hip Hop Machine Temporada 2](https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI) | 5:48 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDcyYmM4ZWU0YjY5ZjIyOTBhYmEzYjBkNDk4ZWIzMDVi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGM0ZDNiYTc3NTljOTdhMWYwMzQzYzkzNTc1YTg3OTYz`

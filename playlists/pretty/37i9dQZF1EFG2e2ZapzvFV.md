@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/48Q13iE86Fuum0tHaLrfoq">Joel Little</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,595 likes - 170 songs - 9 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,596 likes - 170 songs - 9 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 31 | [Clarity](https://open.spotify.com/track/21DuXS5wpeO1z0dp445bop) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [In Our Own Sweet Time](https://open.spotify.com/album/2290QOqExnVHp302b4zYaF) | 3:47 |
 | 32 | [Symphony](https://open.spotify.com/track/2ThaHV10xrAcL2WfqXyLnp) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 2:55 |
 | 33 | [Bravado](https://open.spotify.com/track/1QUQ5fhDSoto8xXPIc9h84) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 3:41 |
-| 34 | [Still Sane](https://open.spotify.com/track/1Lc4lAA1veVkXuh8O8LQif) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 3:08 |
-| 35 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
+| 34 | [Meltdown](https://open.spotify.com/track/0hIDcUm3mJEn4gNo2ocLM5) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [The Show](https://open.spotify.com/album/7CwQcswdSnPsSwQtskEmT4) | 2:33 |
+| 35 | [Still Sane](https://open.spotify.com/track/1Lc4lAA1veVkXuh8O8LQif) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/2nPokmAvYy5qYO4rFU7ZDm) | 3:08 |
 | 36 | [Million Dollar Bills](https://open.spotify.com/track/2rRyDXEaZwUkr4DHZpAdRS) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [The Love Club EP](https://open.spotify.com/album/0zUEZI3Z9kZuPoyoWakf75) | 2:18 |
 | 37 | [Safe](https://open.spotify.com/track/12wAQ0HNbJWVrVJA3woXDb) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [Safe](https://open.spotify.com/album/0qrB9JjkcCjQQK7S1eFrcX) | 3:20 |
 | 38 | [Cynic](https://open.spotify.com/track/6IW6mD0OrfYXXkTgdLBQ83) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:28 |
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 73 | [Easy](https://open.spotify.com/track/27xk5s3fAAwfvptEshbM3J) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 3:36 |
 | 74 | [Superstar](https://open.spotify.com/track/5IDxNMBR3cEXEx8vEidBV6) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 3:46 |
 | 75 | [Evergreen](https://open.spotify.com/track/172rZlTV0yE2La5N19clgq) | [BROODS](https://open.spotify.com/artist/5r5Va4lVQ1zjEfbJSrmCsS) | [Evergreen](https://open.spotify.com/album/0HrAEwPOV0brDG0wvTWXUB) | 4:27 |
-| 76 | [No](https://open.spotify.com/track/4HrI0DIPyvRF1cxUUAGQJc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 4:00 |
-| 77 | [Life Is Strange](https://open.spotify.com/track/4ZTX8P6yC1dv6CY7b0Ql3g) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:16 |
+| 76 | [Life Is Strange](https://open.spotify.com/track/4ZTX8P6yC1dv6CY7b0Ql3g) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A) | [Love + Fear](https://open.spotify.com/album/0CUxS3KfHNuDpUUjbAewV3) | 3:16 |
+| 77 | [No](https://open.spotify.com/track/4HrI0DIPyvRF1cxUUAGQJc) | [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW) | [Awake](https://open.spotify.com/album/6Jwpxghteb64iHg6ftMnNo) | 4:00 |
 | 78 | [No Better](https://open.spotify.com/track/1cSO94kRdktvh9zbndRhFX) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [No Better](https://open.spotify.com/album/22YruYAHSJb8TxSmk1PBKn) | 2:50 |
 | 79 | [intimate moments](https://open.spotify.com/track/5nWjUNo9bEAyXUgu9GbQLP) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [evil twin](https://open.spotify.com/album/0veq4sEuFjopH21yI3u7QH) | 3:30 |
 | 80 | [The Greatest](https://open.spotify.com/track/2nyO4biHF67KoEqUJYDWxn) | [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Delirium \(Deluxe\)](https://open.spotify.com/album/20Ol6zZ0nLlc5EGTH1zA0j) | 3:31 |
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG2e2ZapzvFV.md) - [plain]
 | 169 | [Suffocating Slow](https://open.spotify.com/track/6Kqyu4rJpZTSbSk9hxU8ec) | [Goodnight Nurse](https://open.spotify.com/artist/35Vqv44XfOmDRvHCNIb30o) | [Always And Never \(Australian Version\)](https://open.spotify.com/album/0q0yIvuQStgbwJBA9ml9Ik) | 3:08 |
 | 170 | [The Way I Are \(Dance With Somebody\)](https://open.spotify.com/track/7MNy41gAOCWaWuY2OA7vl9) | [Laura Lawson](https://open.spotify.com/artist/0tHvF8kSTxJYfAq8PlwaUA), [Morgan Fox](https://open.spotify.com/artist/6lavva7uEgQhcMSQvOXrDs) | [Pop Hits Anthems](https://open.spotify.com/album/6NmPeYy79lVRBn7tzJ9mC2) | 3:11 |
 
-Snapshot ID: `Mjg1NjQwMjYsMDAwMDAwMDBhMGFhYmVlZjAxZDE1NzFiMjM1NjFhNzc4ODcxM2VjZA==`
+Snapshot ID: `Mjg1NjYzNjYsMDAwMDAwMDBjMjIxOGFhMWFmNTM0ODZlNmVlZmVkMTA5YjkyOTJmMQ==`

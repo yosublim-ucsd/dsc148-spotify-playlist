@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the brilliant sounds of Latin composers.",
-  "num_followers": 28289,
+  "num_followers": 28288,
   "original_name": "Top Latin Classical",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,30 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "Live from the Lugano Festival 2005",
+        "url": "https://open.spotify.com/album/2nFMfIwVsFarlL3aXoHSTB"
+      },
+      "artists": [
+        {
+          "name": "Carlos Guastavino",
+          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        },
+        {
+          "name": "Mauricio Vallina",
+          "url": "https://open.spotify.com/artist/3Og0FarfCWouaKbcEbZaiv"
+        }
+      ],
+      "duration_ms": 316480,
+      "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
+      "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Daniela Liebman",
         "url": "https://open.spotify.com/album/2eIQ6eOiV3gdXHLiyXIjMl"
       },
@@ -775,30 +799,6 @@
       "duration_ms": 370773,
       "name": "Dan-Son",
       "url": "https://open.spotify.com/track/7IqSzzollrdq3DeKmx9FE2"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Live from the Lugano Festival 2005",
-        "url": "https://open.spotify.com/album/2nFMfIwVsFarlL3aXoHSTB"
-      },
-      "artists": [
-        {
-          "name": "Carlos Guastavino",
-          "url": "https://open.spotify.com/artist/5tsUYkQxnLGOzfj31dWmvL"
-        },
-        {
-          "name": "Martha Argerich",
-          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
-        },
-        {
-          "name": "Mauricio Vallina",
-          "url": "https://open.spotify.com/artist/3Og0FarfCWouaKbcEbZaiv"
-        }
-      ],
-      "duration_ms": 316480,
-      "name": "Guastavino: 3 Romances Argentinos: I. Las ni\u00f1as de Santa Fe (Live)",
-      "url": "https://open.spotify.com/track/6YNE1CO3l2jGkPPm21vTF4"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "M\u00e9xico Entre 2 Siglos",
+        "url": "https://open.spotify.com/album/45qN2aXLpGlopIQc0pLMfS"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Castro",
+          "url": "https://open.spotify.com/artist/2y1bWFBk6n6Jue3kIEpGLq"
+        },
+        {
+          "name": "Edison Quintana",
+          "url": "https://open.spotify.com/artist/61A6vG5zAQYC4QdLjAiwnK"
+        }
+      ],
+      "duration_ms": 420786,
+      "name": "Vals Capricho, Op. 1",
+      "url": "https://open.spotify.com/track/37YQGJU1QX0wuCpmWaZB2J"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "Can\u00e7ons i Danses Catalanes",
         "url": "https://open.spotify.com/album/0XogdNJSzYejzvVE21WuZn"
       },
@@ -1067,22 +1087,46 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "M\u00e9xico Entre 2 Siglos",
-        "url": "https://open.spotify.com/album/45qN2aXLpGlopIQc0pLMfS"
+        "name": "Encores",
+        "url": "https://open.spotify.com/album/2f4phsz1Hanfw9OaKS9L9S"
       },
       "artists": [
         {
-          "name": "Ricardo Castro",
-          "url": "https://open.spotify.com/artist/2y1bWFBk6n6Jue3kIEpGLq"
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
         },
         {
-          "name": "Edison Quintana",
-          "url": "https://open.spotify.com/artist/61A6vG5zAQYC4QdLjAiwnK"
+          "name": "Pablo Casals",
+          "url": "https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ"
+        },
+        {
+          "name": "Prades Festival Orchestra",
+          "url": "https://open.spotify.com/artist/2DEZSSHiw1lhTPkOc5Vdsh"
         }
       ],
-      "duration_ms": 420786,
-      "name": "Vals Capricho, Op. 1",
-      "url": "https://open.spotify.com/track/37YQGJU1QX0wuCpmWaZB2J"
+      "duration_ms": 188906,
+      "name": "El Cant Dels Ocells",
+      "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Obrigado Brazil (Remastered)",
+        "url": "https://open.spotify.com/album/1jRhf7CNFyquOJtJYiUSEy"
+      },
+      "artists": [
+        {
+          "name": "Egberto Gismonti",
+          "url": "https://open.spotify.com/artist/6L31zhaK3DUZEze55P3lYJ"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        }
+      ],
+      "duration_ms": 293626,
+      "name": "Salvador",
+      "url": "https://open.spotify.com/track/0tOXHPyhru9y71Mn1E1lZg"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1123,50 +1167,6 @@
       "duration_ms": 438767,
       "name": "Barroso: Brazil",
       "url": "https://open.spotify.com/track/1tNjOJh2aWr3yW8IIWJqox"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Obrigado Brazil (Remastered)",
-        "url": "https://open.spotify.com/album/1jRhf7CNFyquOJtJYiUSEy"
-      },
-      "artists": [
-        {
-          "name": "Egberto Gismonti",
-          "url": "https://open.spotify.com/artist/6L31zhaK3DUZEze55P3lYJ"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        }
-      ],
-      "duration_ms": 293626,
-      "name": "Salvador",
-      "url": "https://open.spotify.com/track/0tOXHPyhru9y71Mn1E1lZg"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
-        "name": "Encores",
-        "url": "https://open.spotify.com/album/2f4phsz1Hanfw9OaKS9L9S"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Pablo Casals",
-          "url": "https://open.spotify.com/artist/42ZCvzken6DllCB1xghinZ"
-        },
-        {
-          "name": "Prades Festival Orchestra",
-          "url": "https://open.spotify.com/artist/2DEZSSHiw1lhTPkOc5Vdsh"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "El Cant Dels Ocells",
-      "url": "https://open.spotify.com/track/0Rrydi62Dcx5XxdEotzJUI"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Granados, E.: Piano Music, Vol. 2 - Goyescas",
-        "url": "https://open.spotify.com/album/5O1ZGbNIdO2pK8soHc9DED"
-      },
-      "artists": [
-        {
-          "name": "Enrique Granados",
-          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
-        },
-        {
-          "name": "Douglas Riva",
-          "url": "https://open.spotify.com/artist/6FkKF2YH3tLi6dCfNF4qsU"
-        }
-      ],
-      "duration_ms": 299373,
-      "name": "El pelele (The Straw Man)",
-      "url": "https://open.spotify.com/track/3t5jpyh08F4jMy6ZK18CBx"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Homages: A Musical Dedication",
         "url": "https://open.spotify.com/album/4PXdLya8fAeFafa4XtIWsm"
       },
@@ -1283,18 +1263,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Piazzolla, A.: Suite Punta Del Este / Bragato, J.: Graciela Y Buenos Aires / Arizaga, R.: Passacaglia",
-        "url": "https://open.spotify.com/album/2SYFKY89B2ORnmQXK6VuUf"
+        "name": "Granados, E.: Piano Music, Vol. 2 - Goyescas",
+        "url": "https://open.spotify.com/album/5O1ZGbNIdO2pK8soHc9DED"
       },
       "artists": [
         {
-          "name": "Camerata Bariloche",
-          "url": "https://open.spotify.com/artist/3vWOBUq3oL2UyI0FlKYDic"
+          "name": "Enrique Granados",
+          "url": "https://open.spotify.com/artist/2xmzOWZeQCDksIQcLcnRrT"
+        },
+        {
+          "name": "Douglas Riva",
+          "url": "https://open.spotify.com/artist/6FkKF2YH3tLi6dCfNF4qsU"
         }
       ],
-      "duration_ms": 491360,
-      "name": "Graciela y Buenos Aires",
-      "url": "https://open.spotify.com/track/5ZaNOCU2RnxSDAQxKq0EcM"
+      "duration_ms": 299373,
+      "name": "El pelele (The Straw Man)",
+      "url": "https://open.spotify.com/track/3t5jpyh08F4jMy6ZK18CBx"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1319,6 +1303,22 @@
       "duration_ms": 223613,
       "name": "Estancia / Danzas del Ballet: II. Danza del trigo - Live At Centro de Acci\u00f3n Social por la M\u00fasica, Sala Sim\u00f3n Bolivar, Caracas / 2008",
       "url": "https://open.spotify.com/track/1kjle7ZNexMYUXzGbJI4zI"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Piazzolla, A.: Suite Punta Del Este / Bragato, J.: Graciela Y Buenos Aires / Arizaga, R.: Passacaglia",
+        "url": "https://open.spotify.com/album/2SYFKY89B2ORnmQXK6VuUf"
+      },
+      "artists": [
+        {
+          "name": "Camerata Bariloche",
+          "url": "https://open.spotify.com/artist/3vWOBUq3oL2UyI0FlKYDic"
+        }
+      ],
+      "duration_ms": 491360,
+      "name": "Graciela y Buenos Aires",
+      "url": "https://open.spotify.com/track/5ZaNOCU2RnxSDAQxKq0EcM"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "20 Danzones del Sal\u00f3n M\u00e9xico",
-        "url": "https://open.spotify.com/album/2lNeoA5Uk8GWh5Oc2vCUZO"
-      },
-      "artists": [
-        {
-          "name": "Orquesta Sal\u00f3n M\u00e9xico",
-          "url": "https://open.spotify.com/artist/5uRCiJeYBU6OIouW20Ma4l"
-        }
-      ],
-      "duration_ms": 173920,
-      "name": "Nereidas",
-      "url": "https://open.spotify.com/track/5rVBkB9S6PL6LKkLFhLby6"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Fiesta",
         "url": "https://open.spotify.com/album/16fJ94vjUFbTrtIZ4WgtMP"
       },
@@ -1587,6 +1571,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
+        "name": "20 Danzones del Sal\u00f3n M\u00e9xico",
+        "url": "https://open.spotify.com/album/2lNeoA5Uk8GWh5Oc2vCUZO"
+      },
+      "artists": [
+        {
+          "name": "Orquesta Sal\u00f3n M\u00e9xico",
+          "url": "https://open.spotify.com/artist/5uRCiJeYBU6OIouW20Ma4l"
+        }
+      ],
+      "duration_ms": 173920,
+      "name": "Nereidas",
+      "url": "https://open.spotify.com/track/5rVBkB9S6PL6LKkLFhLby6"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
         "name": "On Wings of Songs & Zarzuela Arias",
         "url": "https://open.spotify.com/album/0I7Ladi7QgT1pMWy32kmlW"
       },
@@ -1619,26 +1619,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Nuevo",
-        "url": "https://open.spotify.com/album/5T1rjmHd72fA8nS3ZjxKWD"
-      },
-      "artists": [
-        {
-          "name": "Agust\u00edn Lara",
-          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
-        },
-        {
-          "name": "Kronos Quartet",
-          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
-        }
-      ],
-      "duration_ms": 290693,
-      "name": "Se Me Hizo Facil (It Was Easy for Me)",
-      "url": "https://open.spotify.com/track/674RbMSRGedOWl1J3172NI"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Danza de las Brujas",
         "url": "https://open.spotify.com/album/5LzrkcrlHj8cvG7Fpz8oFL"
       },
@@ -1655,6 +1635,26 @@
       "duration_ms": 377443,
       "name": "Metro Chabacano",
       "url": "https://open.spotify.com/track/3ueWArpEPFXPQDx5r9fjmH"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Nuevo",
+        "url": "https://open.spotify.com/album/5T1rjmHd72fA8nS3ZjxKWD"
+      },
+      "artists": [
+        {
+          "name": "Agust\u00edn Lara",
+          "url": "https://open.spotify.com/artist/3ihXVyWYDuTBVpEDrr1Lop"
+        },
+        {
+          "name": "Kronos Quartet",
+          "url": "https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3"
+        }
+      ],
+      "duration_ms": 290693,
+      "name": "Se Me Hizo Facil (It Was Easy for Me)",
+      "url": "https://open.spotify.com/track/674RbMSRGedOWl1J3172NI"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -1815,30 +1815,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "M\u00fasica Sacra do Brasil",
-        "url": "https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Maur\u00edcio Nunes Garcia",
-          "url": "https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8"
-        },
-        {
-          "name": "Vox Brasiliensis",
-          "url": "https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB"
-        },
-        {
-          "name": "Ricardo Kanji",
-          "url": "https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk"
-        }
-      ],
-      "duration_ms": 272413,
-      "name": "Abertura em R\u00e9",
-      "url": "https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "The Art Of Pl\u00e1cido Domingo",
         "url": "https://open.spotify.com/album/5x6DKHIruVVSs1x6C6Pn6l"
       },
@@ -1867,6 +1843,30 @@
       "duration_ms": 165826,
       "name": "La tabernera del puerto / Act 2: \"No puede ser\" - Live",
       "url": "https://open.spotify.com/track/098WJ6vf5yeUyy97F062bU"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "M\u00fasica Sacra do Brasil",
+        "url": "https://open.spotify.com/album/4qLounK5Id31Qwk6PFkCUr"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Maur\u00edcio Nunes Garcia",
+          "url": "https://open.spotify.com/artist/1cXDibzdR0jcIjv5Vuqqt8"
+        },
+        {
+          "name": "Vox Brasiliensis",
+          "url": "https://open.spotify.com/artist/3A7W6Vmh2ufEM3adhnglrB"
+        },
+        {
+          "name": "Ricardo Kanji",
+          "url": "https://open.spotify.com/artist/31Ifo0Eh3EOzqR7Tjtfmdk"
+        }
+      ],
+      "duration_ms": 272413,
+      "name": "Abertura em R\u00e9",
+      "url": "https://open.spotify.com/track/3adOPOSZ1UDZm0KE0iv6gX"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -2007,26 +2007,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Breton, T.: Piano Trio in E Major / 4 Spanish Pieces (Lom Piano Trio)",
-        "url": "https://open.spotify.com/album/0k8d8KBGAHfcfZ6etQKmH8"
-      },
-      "artists": [
-        {
-          "name": "Tom\u00e1s Bret\u00f3n",
-          "url": "https://open.spotify.com/artist/4waZFwB6hqGZseIxkrcHB1"
-        },
-        {
-          "name": "LOM Piano Trio",
-          "url": "https://open.spotify.com/artist/12Mty079kEwFkfayZEC0DW"
-        }
-      ],
-      "duration_ms": 257079,
-      "name": "4 Spanish Pieces: No. 1. Danza Oriental",
-      "url": "https://open.spotify.com/track/4ewe8rMQTs7fmnkYqSdd5W"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Grandes Maestros Mexicanos: Candelario Huizar",
         "url": "https://open.spotify.com/album/3AD77RljuYXN29ZPTRRSDH"
       },
@@ -2043,6 +2023,26 @@
       "duration_ms": 962146,
       "name": "Im\u00e1genes",
       "url": "https://open.spotify.com/track/5GDGwSQ7f0rYxAvAI0PjN7"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Breton, T.: Piano Trio in E Major / 4 Spanish Pieces (Lom Piano Trio)",
+        "url": "https://open.spotify.com/album/0k8d8KBGAHfcfZ6etQKmH8"
+      },
+      "artists": [
+        {
+          "name": "Tom\u00e1s Bret\u00f3n",
+          "url": "https://open.spotify.com/artist/4waZFwB6hqGZseIxkrcHB1"
+        },
+        {
+          "name": "LOM Piano Trio",
+          "url": "https://open.spotify.com/artist/12Mty079kEwFkfayZEC0DW"
+        }
+      ],
+      "duration_ms": 257079,
+      "name": "4 Spanish Pieces: No. 1. Danza Oriental",
+      "url": "https://open.spotify.com/track/4ewe8rMQTs7fmnkYqSdd5W"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -2091,26 +2091,6 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Barroco Espa\u00f1ol Vol. 1",
-        "url": "https://open.spotify.com/album/5Qv4Q3GI4lyX7LphaG0Lyy"
-      },
-      "artists": [
-        {
-          "name": "Anonymous",
-          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
-        },
-        {
-          "name": "Eduardo L\u00f3pez Banzo",
-          "url": "https://open.spotify.com/artist/4uv1y9qfR8UoCt13RXuyX3"
-        }
-      ],
-      "duration_ms": 173933,
-      "name": "Canci\u00f3n a dos tiples",
-      "url": "https://open.spotify.com/track/6Rm8DWp4Ud46Km1Xoyr3Jk"
-    },
-    {
-      "added_at": "2023-02-24 01:01:17",
-      "album": {
         "name": "Martha Argerich and Friends Live from the Lugano Festival 2015",
         "url": "https://open.spotify.com/album/5VN6FapA9qZGXVGoApUrKf"
       },
@@ -2127,6 +2107,26 @@
       "duration_ms": 369146,
       "name": "Turina: Piano Trio No. 2 in B Minor, Op. 76: I. Lento - Allegro molto moderato",
       "url": "https://open.spotify.com/track/5mW3YQOgzXWUsanW6GU3q3"
+    },
+    {
+      "added_at": "2023-02-24 01:01:17",
+      "album": {
+        "name": "Barroco Espa\u00f1ol Vol. 1",
+        "url": "https://open.spotify.com/album/5Qv4Q3GI4lyX7LphaG0Lyy"
+      },
+      "artists": [
+        {
+          "name": "Anonymous",
+          "url": "https://open.spotify.com/artist/4kCZ5nyurc9eIqLJfUcW0Y"
+        },
+        {
+          "name": "Eduardo L\u00f3pez Banzo",
+          "url": "https://open.spotify.com/artist/4uv1y9qfR8UoCt13RXuyX3"
+        }
+      ],
+      "duration_ms": 173933,
+      "name": "Canci\u00f3n a dos tiples",
+      "url": "https://open.spotify.com/track/6Rm8DWp4Ud46Km1Xoyr3Jk"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -2151,26 +2151,22 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
-        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
+        "name": "Pujol, M.: Suite Del Plata, No. 1 / Elegia Por La Muerte De Un Tanguero / Piazzolla: 5 Piezas (Excerpts) / Luna, A.: 3 Estudios (Excerpts)",
+        "url": "https://open.spotify.com/album/60jyzOLwHnkZeSx22eJUN8"
       },
       "artists": [
         {
-          "name": "Pablo Mainetti",
-          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
+          "name": "Juli\u00e1n Aguirre",
+          "url": "https://open.spotify.com/artist/3X6vHZOesj37sEvr6BpIQl"
         },
         {
-          "name": "Orquestra De Cambra Teatre Lliure",
-          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
-        },
-        {
-          "name": "Josep Pons",
-          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
+          "name": "Michael Anthony Nigro",
+          "url": "https://open.spotify.com/artist/01UM7SQ1TQp85zn3Cvk6uA"
         }
       ],
-      "duration_ms": 408933,
-      "name": "Concierto para bandone\u00f3n: I. Allegro marcato",
-      "url": "https://open.spotify.com/track/3fDXVWLRYb5LeVTJYYGzJu"
+      "duration_ms": 162346,
+      "name": "Triste No. 4",
+      "url": "https://open.spotify.com/track/7yIjo6VNjB4JOyxe8pRPg6"
     },
     {
       "added_at": "2023-02-24 01:01:17",
@@ -2199,22 +2195,26 @@
     {
       "added_at": "2023-02-24 01:01:17",
       "album": {
-        "name": "Pujol, M.: Suite Del Plata, No. 1 / Elegia Por La Muerte De Un Tanguero / Piazzolla: 5 Piezas (Excerpts) / Luna, A.: 3 Estudios (Excerpts)",
-        "url": "https://open.spotify.com/album/60jyzOLwHnkZeSx22eJUN8"
+        "name": "Piazzolla: Bandon\u00e9on Concerto; Tangos",
+        "url": "https://open.spotify.com/album/5vnrz99hncA1GHJ9sAt4AN"
       },
       "artists": [
         {
-          "name": "Juli\u00e1n Aguirre",
-          "url": "https://open.spotify.com/artist/3X6vHZOesj37sEvr6BpIQl"
+          "name": "Pablo Mainetti",
+          "url": "https://open.spotify.com/artist/15lQ51CRGD5wu2f8Pmw9sZ"
         },
         {
-          "name": "Michael Anthony Nigro",
-          "url": "https://open.spotify.com/artist/01UM7SQ1TQp85zn3Cvk6uA"
+          "name": "Orquestra De Cambra Teatre Lliure",
+          "url": "https://open.spotify.com/artist/6Fn7bZEbHf7dwH8sEn54Tr"
+        },
+        {
+          "name": "Josep Pons",
+          "url": "https://open.spotify.com/artist/1TlFTSPL1hXKUTjHIqqFvV"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Triste No. 4",
-      "url": "https://open.spotify.com/track/7yIjo6VNjB4JOyxe8pRPg6"
+      "duration_ms": 408933,
+      "name": "Concierto para bandone\u00f3n: I. Allegro marcato",
+      "url": "https://open.spotify.com/track/3fDXVWLRYb5LeVTJYYGzJu"
     },
     {
       "added_at": "2023-02-24 01:01:17",

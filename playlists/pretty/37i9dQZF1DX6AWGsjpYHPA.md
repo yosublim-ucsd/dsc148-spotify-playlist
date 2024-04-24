@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 
 > Hand\-curated cuts from the vault, no record player required.
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,294 likes - 75 songs - 5 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,410 likes - 75 songs - 5 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 32 | [Summon The Fire](https://open.spotify.com/track/5c44MldQ2CvroamP73V1lp) | [The Comet Is Coming](https://open.spotify.com/artist/0Z5FMozvx15nUSUA6a9kkU) | [Trust In The Lifeforce Of The Deep Mystery](https://open.spotify.com/album/2mvz0NPBCPTbSEgRViuDLK) | 3:55 |
 | 33 | [Sister](https://open.spotify.com/track/2StEq5J2bCq5JiwCKbansz) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Sister](https://open.spotify.com/album/4INuwtV1B2dNCUbFkUXtFL) | 4:28 |
 | 34 | [Action Line](https://open.spotify.com/track/1TZQO0HgZq6jj6P9GgD2xS) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:41 |
-| 35 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 |
-| 36 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
+| 35 | [Do What You Gotta Do](https://open.spotify.com/track/1WP7Snm91AFyvhWb3s8UB8) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [The Very Best Of Nina Simone 1967\-1972 \- Sugar In My Bowl](https://open.spotify.com/album/5Dh4qVmcMpDv5qhgdaqGtj) | 3:34 |
+| 36 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 |
 | 37 | [My Queen Is Albertina Sisulu](https://open.spotify.com/track/28uZjhU60BosFYSMJLJoQ3) | [Sons Of Kemet](https://open.spotify.com/artist/3pvRbmrqOyFxB2Eext4Dki) | [Your Queen Is A Reptile](https://open.spotify.com/album/4pxnDGBdoGu88h8ZInX5f5) | 5:14 |
 | 38 | [Love Is Everywhere](https://open.spotify.com/track/4IIxBK0L8uj7viwxhmuSc4) | [Pharoah Sanders](https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud) | [Wisdom Through Music](https://open.spotify.com/album/2qR5kf6jPhN84zcrAHrlme) | 5:18 |
 | 39 | [Wind Parade](https://open.spotify.com/track/0g941Kqd2InTMBbJO4eFlf) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Wind Parade](https://open.spotify.com/album/48Pb2lWPpTZM3oTCpN1JlV) | 4:48 |
@@ -67,13 +67,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AWGsjpYHPA.md) - [plain]
 | 57 | [The Limit](https://open.spotify.com/track/4Jwt4weWHww02btnBOGoGc) | [DARKSIDE](https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB) | [Spiral](https://open.spotify.com/album/09JglS9OxbpOkj5LXBsxYN) | 5:21 |
 | 58 | [Bedside](https://open.spotify.com/track/5d9OZu7Px4mitpFamQiV7l) | [Honeydripper](https://open.spotify.com/artist/0NSnMsVaDmZlhgEb9jIGu7) | [Bedside](https://open.spotify.com/album/3c3gdH1fP9xnJKTYIff6U1) | 7:30 |
 | 59 | [In the Hills](https://open.spotify.com/track/70AV7nK5LI90QO27CUEHEf) | [Mr\. Mitch](https://open.spotify.com/artist/2XiGESIh2E2ockoVUG4NGv) | [Lazy](https://open.spotify.com/album/0zhSE1Ph8iR7K2O0ne8NDh) | 4:25 |
-| 60 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
-| 61 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
-| 62 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
-| 63 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 |
+| 60 | [Every Day the Sun Comes Up](https://open.spotify.com/track/6IgxlOpJ1o16NqJtNQwAUo) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Every Day the Sun Comes Up](https://open.spotify.com/album/3PAkSU2BpOnzNIxeVPARzt) | 5:16 |
+| 61 | [Too Soon You're Old](https://open.spotify.com/track/5DT1dW3RlOhAgdJFCAFjqS) | [Penny Goodwin](https://open.spotify.com/artist/3U2DfAQbDTbPbbgFoqqxeX) | [Too Soon You're Old](https://open.spotify.com/album/0raY20Cy0vd6NEpgFOOanJ) | 4:47 |
+| 62 | [I Tcho Tchass](https://open.spotify.com/track/6SwZUDlpJkTAor01wUbbx1) | [Akofa Akoussah](https://open.spotify.com/artist/074ZfBySwX9MfQAOlL0hJh) | [Akofa Akoussah](https://open.spotify.com/album/76MYmID5q42L381YAFUaEq) | 3:53 |
+| 63 | [Jimtastic Blues](https://open.spotify.com/track/4z9kiFW5MYJTmtsz1oBGMp) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [MAN MADE](https://open.spotify.com/album/55UAEClz8M595uaN2PeHpX) | 3:33 |
 | 64 | [I Love You](https://open.spotify.com/track/4R3QtFO6c0bnDpmOcfI7yY) | [Karriem](https://open.spotify.com/artist/0NadnuC5kb7WZgpZcqqM2d) | [I Love You](https://open.spotify.com/album/5M7Ud3DDi9t5krP1OJczTN) | 6:55 |
-| 65 | [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 |
-| 66 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
+| 65 | [pinky ring](https://open.spotify.com/track/6ujwcSNqTkQBwR8sJUABaZ) | [Joy Orbison](https://open.spotify.com/artist/0aIpJqqTLf683ojWREc5lg) | [pinky ring / red velve7](https://open.spotify.com/album/1vlLqZ0bH500wKz2TRKNIQ) | 4:39 |
+| 66 | [Koko](https://open.spotify.com/track/1Bfpf7s6E7doiTpVasSmgI) | [E.VAX](https://open.spotify.com/artist/12m4a5ljGoe6yyYPpVi7Hr) | [E.VAX](https://open.spotify.com/album/1VBiQl2RvoMZObKGMypUWF) | 2:35 |
 | 67 | [Perfidia \(feat\. Igino\) \(Severino Panzetta & Ray Mang Remix\) \- Mixed](https://open.spotify.com/track/6K4PH1SZDRVWJCPoXt6qdq) | [Alien Alien](https://open.spotify.com/artist/2wmXd1MnJoH55Hatt4h7lf), [Igino](https://open.spotify.com/artist/7ww3zaYvvVXV4a3VTOG8YR), [Ray Mang](https://open.spotify.com/artist/5QfdDWfSLE8qbMDIJgCTy2), [Severino Panzetta](https://open.spotify.com/artist/1MKYBAmdsxu9NKgBPRx66m) | [Back to Mine: Horse Meat Disco \(DJ Mix\)](https://open.spotify.com/album/5qKpC14xG5Kb6ful0FOuon) | 3:47 |
 | 68 | [Love Me](https://open.spotify.com/track/6fgfoT5DB6f4IOgzPRJm0n) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Niniola](https://open.spotify.com/artist/5MEHQvTW53C0ccsuxdZobQ) | [Love Me](https://open.spotify.com/album/1PdFlqzfgz8oqbHwGFdrBC) | 2:54 |
 | 69 | [Tokisan](https://open.spotify.com/track/3Jao9qWPTZsU73GnM3VlGR) | [New Cool Collective](https://open.spotify.com/artist/6d6i5VzXGwecR7EtMasWsZ) | [YUNIKōN](https://open.spotify.com/album/0q2jVFh5OMjHzNnqh9tuzR) | 3:25 |

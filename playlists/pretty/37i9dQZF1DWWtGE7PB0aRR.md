@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 
 > Blues with a British flavor\. Cover: Jeff Beck
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,992 likes - 65 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 138,070 likes - 65 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWtGE7PB0aRR.md) - [plain]
 | 48 | [Looking for Somebody](https://open.spotify.com/track/0tQtiW3o7aeWeHquYdxEZf) | [Fleetwood Mac](https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X) | [Peter Green's Fleetwood Mac \(Deluxe\)](https://open.spotify.com/album/4QtzKoXiBdSUTJbukiEiPr) | 2:51 |
 | 49 | [If You See Him](https://open.spotify.com/track/1nPXV1tU2TwxWCcGEI2NR3) | [Kyla Brox](https://open.spotify.com/artist/2PhZS7xGMEpgT6xdNgrm42) | [Throw Away Your Blues](https://open.spotify.com/album/6o0oOQJLcdw8v65RwBohCe) | 4:58 |
 | 50 | [What's It Gonna Be](https://open.spotify.com/track/0VG3aWRkTce1pcPLkjoFRd) | [Laurence Jones](https://open.spotify.com/artist/2vX8hKHgReZ15YguZe3Zxj) | [What's It Gonna Be](https://open.spotify.com/album/3Kli0Sl1FQROgD5ZRV3eFv) | 4:16 |
-| 51 | [Cry Me A River](https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5) | [The Steampacket](https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4) | [The First Super Group](https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6) | 2:46 |
-| 52 | [Too Far Gone](https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Means of Escape](https://open.spotify.com/album/5ggSAkCilktDjDmUx2OmVu) | 6:06 |
+| 51 | [Too Far Gone](https://open.spotify.com/track/6gq6I59uWHNtSwE1g0YUdR) | [Danny Bryant](https://open.spotify.com/artist/0y5sFo3j8Mo01UVEfqeuqn) | [Means of Escape](https://open.spotify.com/album/5ggSAkCilktDjDmUx2OmVu) | 6:06 |
+| 52 | [Cry Me A River](https://open.spotify.com/track/1LbYEPf6Qvjxx3adcMUtW5) | [The Steampacket](https://open.spotify.com/artist/5sPaD3cDvvV5gzjWmZCOr4) | [The First Super Group](https://open.spotify.com/album/7CtD9yd4joJ2EZOwYp4aE6) | 2:46 |
 | 53 | [Blues Deluxe](https://open.spotify.com/track/5HB3pcue65MRxXbIDSXpTA) | [Jeff Beck](https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl) | [Truth](https://open.spotify.com/album/0Tt2yDuJ0jiy0JwZzUZdlE) | 7:30 |
 | 54 | [Married Woman](https://open.spotify.com/track/0iJSqwStwV5uOkrYUZHi0O) | [The Cinelli Brothers](https://open.spotify.com/artist/25Sjy5qO63Dpa7nqHjTTNF) | [Married Woman](https://open.spotify.com/album/7tU7AphXFviq23ayMy9aSd) | 3:55 |
 | 55 | [Rain Is Such a Lonesome Sound \- Remastered](https://open.spotify.com/track/6J68zJQnXT7G1W2SJ48NcU) | [Alexis Korner's Blues Incorporated](https://open.spotify.com/artist/1aR0ilCZULHGE0uacBbjgN) | [Rain Is Such a Lonesome Sound \(Remastered 2015\)](https://open.spotify.com/album/6x4Z38de0YVnsm5ONlftH2) | 2:49 |

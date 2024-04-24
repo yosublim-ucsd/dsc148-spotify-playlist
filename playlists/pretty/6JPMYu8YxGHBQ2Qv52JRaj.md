@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/6JPMYu8YxGHBQ2Qv52JRaj.md) - [plain]
 
 > Updated at least once a month..\. cover image \- https:&\#x2F;&\#x2F;bit.ly&\#x2F;3uiJD6B
 
-[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 32 min 20 sec
+[Maciej Pędzich](https://open.spotify.com/user/jkmn666pyyh1kpn5367vt27l2) - 0 like - 10 songs - 32 min 18 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Mind Eraser](https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5) | [AGLF](https://open.spotify.com/artist/6xGwO3Ev8tb2hk8J5N9OdG) | [Mind Mirage](https://open.spotify.com/album/5PCyrmD7emJAQ30g6lJilm) | 3:00 |
-| 2 | [To The Beat](https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR), [Dances](https://open.spotify.com/artist/1XwL3qdo0jPmliKRgxY5TL) | [To The Beat](https://open.spotify.com/album/66mAWexL2lQqCsb2G3YqM4) | 3:56 |
-| 3 | [Full Set](https://open.spotify.com/track/6dLkpuLzve2oLxlJ4RtRoM) | [Honey & Badger](https://open.spotify.com/artist/5R5qNSYFn04J9jF8UnmYbK), [Mike Epsse](https://open.spotify.com/artist/7sLCily4K5uTgTA8iOTHPd) | [Full Set](https://open.spotify.com/album/05lVfK0S1UIIropNwaWux5) | 3:13 |
-| 4 | [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf) | [Matroda](https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz), [Madam Parker](https://open.spotify.com/artist/29rTk5W3QE63AAQVsk9o8K) | [Boombox \(feat\. Madam Parker\)](https://open.spotify.com/album/2yTX8OjdtAq2LFkqhi4284) | 2:45 |
-| 5 | [Naughty](https://open.spotify.com/track/78mKxouHttqRkAl7IeyRiU) | [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Naughty](https://open.spotify.com/album/3mf7MC0yHgoEM4f4dfHZuL) | 2:36 |
-| 6 | [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 |
-| 7 | [WTFYF \(feat\. Hawaiian Hue Hefner\)](https://open.spotify.com/track/3FMyAIbq7tiZfjF15rawsx) | [HONÜ](https://open.spotify.com/artist/5U96ytItXSJmQBUOOhMxKq), [PR!CE](https://open.spotify.com/artist/3DbWBIwP02mSq2mk70VmIR), [Hawaiian Hue Hefner](https://open.spotify.com/artist/4cUgSrtYd95eouPDqVSVAG) | [WTFYF \(feat\. Hawaiian Hue Hefner\)](https://open.spotify.com/album/4dhDzB8Wrq9O7UcAkQOKtO) | 2:47 |
-| 8 | [911](https://open.spotify.com/track/7wkjbEz5ZKO2BD2UQ9xng5) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [911](https://open.spotify.com/album/0sPhVYEG3PMR9pQliDALZp) | 2:55 |
-| 9 | [White Tiger](https://open.spotify.com/track/5sK6BGBWbB8HxgSgAWoBjq) | [Kage](https://open.spotify.com/artist/6ehv7BnQkNEh7Hqd8rRcot) | [White Tiger](https://open.spotify.com/album/6JcUvozxPKui9B7W7rPpgN) | 5:05 |
-| 10 | [Old Picta](https://open.spotify.com/track/0YVRDuGFxIzzrSCxu1z5nh) | [SLVR](https://open.spotify.com/artist/4nKvbonPefiFmshjpHENVU) | [Old Picta](https://open.spotify.com/album/4KUrOOBibwaQazRVoCahRa) | 2:51 |
+| 1 | [MARAVILLOSA](https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA) | [ero808](https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw), [NXSTY](https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU) | [MARAVILLOSA](https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb) | 2:32 |
+| 2 | [Automatic](https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B) | [NuBass](https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO) | [Automatic](https://open.spotify.com/album/15xLRQ3xbSbUKcVSjQCMSO) | 2:46 |
+| 3 | [Frikitona \- Odd Mob Remix](https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Odd Mob](https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9) | [Frikitona \(Odd Mob Remix\)](https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk) | 3:11 |
+| 4 | [Bring It](https://open.spotify.com/track/4gUg5vmjYicLAn029z1E1G) | [OOTORO](https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI), [ZDX](https://open.spotify.com/artist/47nioEb6pIp7utNqQ9UqzA) | [Bring It](https://open.spotify.com/album/73urxOIceB1W6TUudf9xZ8) | 3:08 |
+| 5 | [Put Em' High](https://open.spotify.com/track/6PbEpqfl9An6JeNKdmFADk) | [CASHEW](https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw) | [Put Em' High](https://open.spotify.com/album/68ZSSaNKoyjZJcnFHTqGyM) | 4:03 |
+| 6 | [Need My Love](https://open.spotify.com/track/3T4wzWbX6MirfuYdJek7AR) | [Birthdayy Partyy](https://open.spotify.com/artist/2oOuwFJjxe5enJAkDgPkHp) | [Need My Love](https://open.spotify.com/album/4Doqei3f3QFbYetrrQIN4X) | 2:54 |
+| 7 | [CASH](https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk) | [Habstrakt](https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn) | [CASH](https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj) | 3:15 |
+| 8 | [OVERN!GHT](https://open.spotify.com/track/7FMKInxdXSjAAFRnVDXybH) | [dhuss](https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd) | [OVERN!GHT](https://open.spotify.com/album/0VjQZjB5Y9rBDwYXPs5p2N) | 4:53 |
+| 9 | [DNA \- Radio Edit](https://open.spotify.com/track/29Aui4Zhp6GQKfIJULRfHT) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [DNA \(Radio Edit\)](https://open.spotify.com/album/1hzPSg9JPNLCSsIzBDbKss) | 2:58 |
+| 10 | [Like This](https://open.spotify.com/track/4A2vWdaWh7cF3SBguQm9l3) | [Jack Beats](https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW), [Qlank](https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y) | [Like This](https://open.spotify.com/album/70Y499sKPQoo4qVMdT7RwD) | 2:33 |
 
-Snapshot ID: `NzM4LDAxYTgwYzhhMjRhMDQwZGYwMDZlNDA1NDM0OWY2ODBmZjg5Y2YxYzA=`
+Snapshot ID: `NzU3LDVkNjFmYjM0OTFlMWUxNTMyMjMzMTA5ZjM2YWQ1MWEyZTk0YTIwY2U=`

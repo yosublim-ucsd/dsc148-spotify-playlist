@@ -1,6 +1,6 @@
 {
   "description": "\uac10\uc131 \uac00\ub4dd\ud55c \ub178\ub798\uc640 \ud568\uaed8 \ubd80\ub4dc\ub7fd\uac8c \ud578\ub4e4\uc744 \ub3cc\ub824\ubcf4\uc138\uc694.",
-  "num_followers": 9703,
+  "num_followers": 9729,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \uac10\uc131+ (K-Pop Emotional Driving)",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Dear Insanity...",
-        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
-      },
-      "artists": [
-        {
-          "name": "DPR IAN",
-          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
-        }
-      ],
-      "duration_ms": 204880,
-      "name": "Don't Go Insane",
-      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Queen of Tears (Original Television Soundtrack), Pt.3",
         "url": "https://open.spotify.com/album/2pnbrVkxwo8uEBMg1J1GqE"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 232026,
       "name": "Hold Me Back",
       "url": "https://open.spotify.com/track/69Bx1c9Hzv7IZGkLyFCeMw"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Dear Insanity...",
+        "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
+      },
+      "artists": [
+        {
+          "name": "DPR IAN",
+          "url": "https://open.spotify.com/artist/2o8gT0fQmFxGNbowbdgeZe"
+        }
+      ],
+      "duration_ms": 204880,
+      "name": "Don't Go Insane",
+      "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
+        "name": "Yesterday",
+        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 191220,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
         "name": "ZONE",
         "url": "https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 222600,
       "name": "Don\u2019t Wanna Go Back (Duet with Heize)",
       "url": "https://open.spotify.com/track/2cxtmZSUIdiIahNTPjhggE"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "Yesterday",
-        "url": "https://open.spotify.com/album/2SrVGg8uLdBqztuflHxiiT"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 191220,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/4mPOgPXaXFBQ9dCg6OGEFv"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -547,30 +547,6 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        },
-        {
-          "name": "KATIE",
-          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
-        },
-        {
-          "name": "WOOGIE",
-          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
-        }
-      ],
-      "duration_ms": 228226,
-      "name": "Rock With You - Spotify Singles",
-      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
         "name": "Alchemy of Souls: Light and Shadow, Pt. 3 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/5GeLZHhhxLRaDeL2o6aaTg"
       },
@@ -599,6 +575,30 @@
       "duration_ms": 215466,
       "name": "Nightmare",
       "url": "https://open.spotify.com/track/0g6LJdn1CGodzl5zDB2IHi"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4GZRmEX6O0phLnNuH6xBR5"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        },
+        {
+          "name": "KATIE",
+          "url": "https://open.spotify.com/artist/2nDC4PH8XE1gHeeAxVLXRO"
+        },
+        {
+          "name": "WOOGIE",
+          "url": "https://open.spotify.com/artist/7C0lSOS41UnTbnF7bMSEWN"
+        }
+      ],
+      "duration_ms": 228226,
+      "name": "Rock With You - Spotify Singles",
+      "url": "https://open.spotify.com/track/1hncbzqfhChm8PS0UeoVY6"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1119,18 +1119,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "LOVE.",
-        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
+        "name": "Only you",
+        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
       },
       "artists": [
         {
-          "name": "Def.",
-          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
+          "name": "Tophyun",
+          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
         }
       ],
-      "duration_ms": 172674,
-      "name": "I JUST WANNA KNOW",
-      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
+      "duration_ms": 190640,
+      "name": "Only you",
+      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1155,34 +1155,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Only you",
-        "url": "https://open.spotify.com/album/6sk67Q2zl9EQezx5Edm8hx"
+        "name": "LOVE.",
+        "url": "https://open.spotify.com/album/4gpG6Fw9MP4Le9phEdtdYU"
       },
       "artists": [
         {
-          "name": "Tophyun",
-          "url": "https://open.spotify.com/artist/4g7R2X5sUsylJwYxnfwCJR"
+          "name": "Def.",
+          "url": "https://open.spotify.com/artist/7fgL4SG4e92nmJ3GuTpz58"
         }
       ],
-      "duration_ms": 190640,
-      "name": "Only you",
-      "url": "https://open.spotify.com/track/6GukZESVRKPnnz4vZGUNxC"
-    },
-    {
-      "added_at": "2024-03-20 03:55:56",
-      "album": {
-        "name": "her",
-        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
-      },
-      "artists": [
-        {
-          "name": "Junggigo",
-          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
-        }
-      ],
-      "duration_ms": 155546,
-      "name": "her",
-      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
+      "duration_ms": 172674,
+      "name": "I JUST WANNA KNOW",
+      "url": "https://open.spotify.com/track/6ZnKQpqaYx6BResKaVBfmc"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2024-03-20 03:55:56",
       "album": {
-        "name": "Naul <Ballad Pop City>",
-        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+        "name": "her",
+        "url": "https://open.spotify.com/album/1ZRRlAZ0xpQFkifINNzHT1"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "Junggigo",
+          "url": "https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb"
         }
       ],
-      "duration_ms": 260668,
-      "name": "Nights Into Days (Prod. by Naul)",
-      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
+      "duration_ms": 155546,
+      "name": "her",
+      "url": "https://open.spotify.com/track/3IrVcKEjHyqcqBUPz9ppjy"
     },
     {
       "added_at": "2024-03-20 03:55:56",
@@ -1235,6 +1219,22 @@
       "duration_ms": 209400,
       "name": "Fxxxnds (Feat. Kim Min Seok of MeloMance)",
       "url": "https://open.spotify.com/track/0S2GNnqAHC96zqB8ZIcxg4"
+    },
+    {
+      "added_at": "2024-03-20 03:55:56",
+      "album": {
+        "name": "Naul <Ballad Pop City>",
+        "url": "https://open.spotify.com/album/5KN5V04kjs7YeTVyQcpqqZ"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 260668,
+      "name": "Nights Into Days (Prod. by Naul)",
+      "url": "https://open.spotify.com/track/7yMSnQEier8Kp4iQuIvt0t"
     },
     {
       "added_at": "2024-03-20 03:55:56",

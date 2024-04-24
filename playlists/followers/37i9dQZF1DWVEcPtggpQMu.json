@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 78376,
+  "2024-04-24": 78540,
   "date_first_scraped": "2021-12-29",
   "description": "Only the hottest South African rap from the streets. \nCover:  <a href=\"https://open.spotify.com/artist/67KPAwywwB3tMXvmNJXPeL?si=3ukoZ-_qTRKJGhVfoYqfSA\">Ney</a>",
   "name": "Mzansi Raps",
@@ -6819,7 +6819,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 168088,
       "name": "Khaltsha (feat. YoungstaCPT)",
       "url": "https://open.spotify.com/track/1KpE5cwxbBAnYig1pqygDV"
@@ -15403,6 +15403,28 @@
       "duration_ms": 210923,
       "name": "With Us",
       "url": "https://open.spotify.com/track/15ihtDGnwhxFykG4BJ5lwS"
+    },
+    {
+      "album": {
+        "name": "worth it + stoners",
+        "url": "https://open.spotify.com/album/3rTmgPoF2CqroawhmSIZDR"
+      },
+      "artists": [
+        {
+          "name": "Michael Tuohy",
+          "url": "https://open.spotify.com/artist/5FeEPMjFuqvtxQzU2hl6Y5"
+        },
+        {
+          "name": "A-Reece",
+          "url": "https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154107,
+      "name": "worth it",
+      "url": "https://open.spotify.com/track/0YehiB9Jg7a4J2GH7BEtRy"
     },
     {
       "album": {

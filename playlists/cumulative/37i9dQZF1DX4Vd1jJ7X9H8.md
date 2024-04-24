@@ -4,7 +4,7 @@
 
 > Groovy, dancy, funky stuff\. When in doubt, turn this on at the party.
 
-479 songs - 1 day 4 hr 25 min
+480 songs - 1 day 4 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -391,6 +391,7 @@
 | [Slide \(feat\. Frank Ocean & Migos\)](https://open.spotify.com/track/7tr2za8SQg2CI8EDgrdtNl) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [Migos](https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG), [Funk Wav](https://open.spotify.com/artist/4A0TivfinfALCAMJqqjZIk) | [Funk Wav Bounces Vol.1](https://open.spotify.com/album/2HaqChIDc5go3qxVunBDK0) | 3:50 | 2021-11-12 | 2022-08-12 |
 | [Slow D's](https://open.spotify.com/track/7pZsJo9EVCNQgoIAZDuBNM) | [Lully](https://open.spotify.com/artist/1NvmP6svMv6qjhaCM35vRQ) | [Slow D's](https://open.spotify.com/album/5c4w6MzJSWLnFjocjp9QAj) | 3:33 | 2021-11-12 | 2022-04-17 |
 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 | 2022-05-31 |  |
+| [Some Nights](https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv) | [Class Fools](https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt) | [Some Nights](https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r) | 2:48 | 2024-02-16 |  |
 | [Someday](https://open.spotify.com/track/7hm4HTk9encxT0LYC0J6oI) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Is This It](https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE) | 3:03 | 2021-10-19 | 2022-08-12 |
 | [Something About You](https://open.spotify.com/track/5n9DJWUiwuKuPE9sCVbQ0n) | [Hayden James](https://open.spotify.com/artist/4csQIMQm6vI2A2SCVDuM2z) | [Something About You](https://open.spotify.com/album/5gOU7SYwgPAmw6tDUdsT9Q) | 3:45 | 2022-07-22 |  |
 | [Something Like That \(feat\. KIRBY\)](https://open.spotify.com/track/6p9Uv5E5azd1tRfl70rb4R) | [Ni'jah](https://open.spotify.com/artist/0RkeQU983gcehOYs7632vR), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Swarm](https://open.spotify.com/album/7AXxq1n3X7JZbbEnGCfLAX) | 3:36 | 2023-03-21 | 2023-04-14 |
@@ -440,7 +441,7 @@
 | [Tribe \(feat\. Jesse Boykins III\)](https://open.spotify.com/track/7lqxswcz77jqGydtRIhR9H) | [Theophilus London](https://open.spotify.com/artist/4EMtGVFvfCSrEmWaGV0roE), [Jesse Boykins III](https://open.spotify.com/artist/7N3L5HZxQqxWSfhrrTNI29) | [Vibes](https://open.spotify.com/album/6IhFRqfxOviJed0wbxT1Yr) | 2:30 | 2020-12-31 | 2022-04-20 |
 | [turn it all the way up](https://open.spotify.com/track/40FhKFG0SIUpxE7doxifpZ) | [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [turn it all the way up](https://open.spotify.com/album/5TGDbBxkgpfVtjZF6FTyUX) | 2:36 | 2023-05-04 | 2023-06-02 |
 | [Turn Up The Sunshine \- From 'Minions: The Rise of Gru' Soundtrack](https://open.spotify.com/track/5FH5U5zlicxKUXK6DruWKM) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Turn Up The Sunshine \(From 'Minions: The Rise of Gru' Soundtrack\)](https://open.spotify.com/album/2q70l752ZOyY6kr7PZjAex) | 3:49 | 2022-05-31 | 2023-08-19 |
-| [Uglyfisherman](https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [D\-SIDES](https://open.spotify.com/album/1UxVfG3L2BJhRcn6E1EwrN) | 2:14 | 2024-02-16 |  |
+| [Uglyfisherman](https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [D\-SIDES](https://open.spotify.com/album/1UxVfG3L2BJhRcn6E1EwrN) | 2:14 | 2024-02-16 | 2024-04-24 |
 | [Under The Light \- Remix](https://open.spotify.com/track/7DFYfdzWJAQK59YrQ4CftD) | [San Cisco](https://open.spotify.com/artist/0Ou0138wEd8XWebhc4j7O0), [Cut Copy](https://open.spotify.com/artist/4EENT7N7rCBwrddM3s0vFS) | [Under The Light \(Remix\)](https://open.spotify.com/album/7djxJDYoeQfrH6haKtws8c) | 4:28 | 2023-12-27 | 2024-03-23 |
 | [Ungodly Hour](https://open.spotify.com/track/4SJRgLsuBKTEBEl9n6JsNu) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Ungodly Hour](https://open.spotify.com/album/1ReoUTt497nUg3u1ERgYwS) | 4:15 | 2021-11-12 |  |
 | [Uno Dos](https://open.spotify.com/track/2YeKQ7zSBbalFl5K0EpEgH) | [¿Téo?](https://open.spotify.com/artist/0jsnWH4QCKcAMpR7vEhh9u), [Jaden Smith](https://open.spotify.com/artist/4vDSXzhxGtPJVnMvnzSZW4) | [¿Téo?](https://open.spotify.com/album/5NhRAV4V8xcH0Wzj047C1g) | 2:50 | 2022-08-11 | 2024-04-19 |

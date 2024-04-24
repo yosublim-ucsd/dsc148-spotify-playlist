@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 
 > Música para enamorarse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,977,250 likes - 100 songs - 6 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,970,524 likes - 100 songs - 6 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,14 +51,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 41 | [Vamos a Darnos Tiempo](https://open.spotify.com/track/4hsISengUD6beOi6kUIcXl) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Gracias](https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D) | 4:08 |
 | 42 | [Sabes](https://open.spotify.com/track/37miw1ff4zH0LDuFrBvZ4i) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Secuencia](https://open.spotify.com/album/4kMpYWQfF4f4iXLhopgk3w) | 3:41 |
 | 43 | [¿Quieres Ser Mi Amante?](https://open.spotify.com/track/1Y7q2zwCBjt9zgIHZ0Ku7J) | [Camilo Sesto](https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y) | [Camilo](https://open.spotify.com/album/4AxRFDkSlRWzCpyaO107UJ) | 4:09 |
-| 44 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
-| 45 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
-| 46 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
-| 47 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
-| 48 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
+| 44 | [Y Tú Te Vas](https://open.spotify.com/track/34hM4PLlhyBysgL50IWdHf) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Chayanne](https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN) | 4:45 |
+| 45 | [Cómo Te Va Mi Amor](https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Locas Por La Música](https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5) | 3:42 |
+| 46 | [Tú](https://open.spotify.com/track/6ZEVQ2whiJvhjCNAOJ0DC3) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:34 |
+| 47 | [Te Quiero Tanto, Tanto](https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx) | [Onda Vaselina](https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw) | [Entrega Total](https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht) | 3:07 |
+| 48 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
 | 49 | [En cambio no](https://open.spotify.com/track/6ea3gVkbrhghwfoio3NFpi) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Primavera anticipada](https://open.spotify.com/album/6zAy8yhXyey4JitXpszFh7) | 3:57 |
 | 50 | [Gavilán o Paloma](https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Reencuentro](https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt) | 4:10 |
-| 51 | [Si la Ves \(feat\. Sin Bandera\)](https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu), [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Stop](https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX) | 4:08 |
+| 51 | [mimos](https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [mimos](https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6) | 3:06 |
 | 52 | [Manos de Tijera](https://open.spotify.com/track/2f8sB9lQ6Uh1lKKWJNR9rW) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 4:27 |
 | 53 | [Coleccionista de Canciones](https://open.spotify.com/track/28Ct4qwkQXY2W5yyNCLuVI) | [Camila](https://open.spotify.com/artist/2gRP1Ezbtj3qrERnd0XasU) | [Todo Cambio](https://open.spotify.com/album/7dTSfhp5okEjaYXp38LwVf) | 5:06 |
 | 54 | [La Correcta](https://open.spotify.com/track/1ISamB2lPDAeKb4Js2hLgq) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [La Correcta](https://open.spotify.com/album/0lVFRNJhdAgvHzkGkdX2CD) | 3:39 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX09mi3a4Zmox.md) - [plain]
 | 69 | [Te Amo](https://open.spotify.com/track/4WtO0pdIHTuVwQAVFmfIHQ) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Franco De Vita En Primera Fila](https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX) | 3:38 |
 | 70 | [Moscas en la Casa](https://open.spotify.com/track/1j5NOlhczuiPnZdT6aovgY) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Donde Estan Los Ladrones](https://open.spotify.com/album/5hcKSTqKOLuzJgYIQileAe) | 3:31 |
 | 71 | [Enamórate De Alguien Más](https://open.spotify.com/track/1fXKStjVOTmBEwjAnFSNkc) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Enamórate De Alguien Más](https://open.spotify.com/album/7EpdDp3FoDcnS95f0wgSYb) | 3:49 |
-| 72 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 |
-| 73 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
+| 72 | [Te Extraño, Te Olvido, Te Amo](https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ) | [A Medio Vivir](https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM) | 4:39 |
+| 73 | [Todavía No](https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Todavía No](https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L) | 3:18 |
 | 74 | [Pero Me Acuerdo de Tí](https://open.spotify.com/track/4B1sb2YVO03sBmyR8bvzEB) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Mi Reflejo](https://open.spotify.com/album/3TdbZH4OnoGoMgil9f1YzK) | 4:25 |
 | 75 | [Titanic](https://open.spotify.com/track/7F1oLjSguGBvqsJLal7Rad) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:58 |
 | 76 | [Llegaste tú](https://open.spotify.com/track/77jdTLPg3EXHJ8cbU7SBni) | [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Esta Es Mi Vida](https://open.spotify.com/album/1DqezzIzunjysnTKPtxB98) | 4:06 |

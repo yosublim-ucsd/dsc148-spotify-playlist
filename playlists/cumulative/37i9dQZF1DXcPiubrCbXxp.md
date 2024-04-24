@@ -4,14 +4,14 @@
 
 > that 50s kinda feeling, cover: Laufey
 
-76 songs - 4 hr 14 min
+77 songs - 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Here's to the\) Prom Queen](https://open.spotify.com/track/6xqs1Mp7AXLSVcdA1pxGQN) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [\(Here's to the\) Prom Queen](https://open.spotify.com/album/60aRrB8FvfkZDuADVGhKkZ) | 3:49 | 2023-08-04 |  |
 | [60’s Baby.](https://open.spotify.com/track/20nGJqajPlRtPX31ddRxR1) | [Kidsnot$aints.](https://open.spotify.com/artist/3vcmFdngDnToTjWO61hMTK) | [60’s Baby.](https://open.spotify.com/album/513yH6wNINqUE0fZ3UY0DM) | 2:23 | 2023-09-22 |  |
 | [Almost Like Being In Love \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/track/7BEclFtN96d7SnYQQ3V9TO) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Almost Like Being In Love \(The New Look: Season 1 \(Apple TV+ Original Series Soundtrack\)\)](https://open.spotify.com/album/7nGHMDrBdd5H2FZeqmNxAj) | 2:55 | 2024-04-05 |  |
-| [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2023-08-04 |  |
+| [Apocalypse](https://open.spotify.com/track/3AVrVz5rK8Hrqo9YGiVGN5) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5bP82ZIls6rzhpf5Qu6AzC) | 4:50 | 2023-08-04 | 2024-04-24 |
 | [Apocalypse](https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA) | 4:50 | 2023-09-15 | 2024-04-19 |
 | [As the World Caves In](https://open.spotify.com/track/4JE6agBLHGA5TaF6FlqfBD) | [Matt Maltese](https://open.spotify.com/artist/12j6dJrPXanCBwY599pZxf) | [As the World Caves In](https://open.spotify.com/album/6bKosNVvMaaosmJTV101y0) | 3:38 | 2023-08-04 |  |
 | [Astronomy](https://open.spotify.com/track/2JN3ugW1cEahbYw0I5mw5U) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Superache](https://open.spotify.com/album/5hIOd0FvjlgG4uLjXHkFWI) | 4:03 | 2023-08-04 |  |
@@ -74,6 +74,7 @@
 | [The Most Beautiful Thing](https://open.spotify.com/track/07koEqsKHZTlGVMC9eoEjO) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/4NWvFq8Cst2Y5iHOouXtMz) | 3:55 | 2023-08-04 | 2024-04-19 |
 | [The Most Beautiful Thing](https://open.spotify.com/track/5unXHHcSQLGO19RuVqZB6d) | [Bruno Major](https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8) | [To Let A Good Thing Die](https://open.spotify.com/album/5ON0EY1YuVEJPwj17yYtwO) | 3:55 | 2024-04-09 |  |
 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 | 2023-08-04 |  |
+| [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 | 2024-04-24 |  |
 | [Too Precious](https://open.spotify.com/track/7FUDnQ7zR7MltFMakoJwnG) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Too Precious](https://open.spotify.com/album/2X743cg72FvViLoa1Zagdk) | 2:49 | 2023-08-04 | 2024-03-23 |
 | [Until I Found You \(with Em Beihold\) \- Em Beihold Version](https://open.spotify.com/track/1Y3LN4zO1Edc2EluIoSPJN) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT), [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Until I Found You \(Em Beihold Version\)](https://open.spotify.com/album/7ARtQpvnPN2ucbmVHngLOs) | 2:56 | 2023-08-04 |  |
 | [Valentine](https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Everything I Know About Love](https://open.spotify.com/album/0Ydm84ftyiWRGOIFkdl30L) | 2:48 | 2023-08-04 | 2023-09-23 |

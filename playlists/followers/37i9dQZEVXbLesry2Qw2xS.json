@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 18092,
+  "2024-04-24": 18097,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Estonia.",
   "name": "Top 50 - Estonia",
@@ -2461,7 +2461,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -5673,6 +5673,24 @@
       "duration_ms": 169840,
       "name": "Cinderella",
       "url": "https://open.spotify.com/track/0hKtu53OlIFXVuYkZwcn3o"
+    },
+    {
+      "album": {
+        "name": "Winter Special Digital Single Album \u2032Cinderella\u2032",
+        "url": "https://open.spotify.com/album/1qozj4ZBLq6zBeNyyWKle1"
+      },
+      "artists": [
+        {
+          "name": "Seori",
+          "url": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150100,
+      "name": "Cinderella - Sped Up Version",
+      "url": "https://open.spotify.com/track/4WbPSzQO6RRV2XoxiZhHQb"
     },
     {
       "album": {
@@ -9267,6 +9285,24 @@
       "duration_ms": 257630,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/4wGSg2Qqpt2sGCWuAZj6EN"
+    },
+    {
+      "album": {
+        "name": "Versions of Me",
+        "url": "https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D"
+      },
+      "artists": [
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193805,
+      "name": "Envolver",
+      "url": "https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp"
     },
     {
       "album": {
@@ -14033,7 +14069,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
@@ -14595,7 +14631,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 222072,
       "name": "imgonnagetyouback",
       "url": "https://open.spotify.com/track/1kcwpPDQnqEqmezzXdJTCP"
@@ -31003,7 +31039,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 158205,
       "name": "Sundress",
       "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
@@ -31517,6 +31553,24 @@
       "duration_ms": 196135,
       "name": "Tahman\u00e4gu",
       "url": "https://open.spotify.com/track/1AWlHjLlyhES65AFbPr1cl"
+    },
+    {
+      "album": {
+        "name": "Take Me Away",
+        "url": "https://open.spotify.com/album/4DJRQFrGHdURe335dYuE2H"
+      },
+      "artists": [
+        {
+          "name": "Claniel",
+          "url": "https://open.spotify.com/artist/75AFF5lplBMGaGWD8W8c3E"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 69909,
+      "name": "Take Me Away - (Speed Up)",
+      "url": "https://open.spotify.com/track/5Quy4skeiHmFuaTomCozlH"
     },
     {
       "album": {
@@ -34879,7 +34933,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 178156,
       "name": "Vois sur ton chemin - Techno Mix",
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"

@@ -4,7 +4,7 @@
 
 > 
 
-1,290 songs - 2 day 23 hr 17 min
+1,291 songs - 2 day 23 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,6 +962,7 @@
 | [Rock The Rhythm](https://open.spotify.com/track/5FE4dxhn7BlMGCDLUm3KqO) | [Kenai](https://open.spotify.com/artist/4ieHqqeITt9Fmhxk20Ueqf) | [Rock The Rhythm](https://open.spotify.com/album/5BDu7ALEj2hIBHnvE814g0) | 2:33 | 2023-01-26 |  |
 | [Role Play](https://open.spotify.com/track/4fOEpT48A7V1Z3O4zFulQs) | [The Braindrillerz](https://open.spotify.com/artist/6j9yYMSUzcSI8KGbhgmSKG) | [Role Play](https://open.spotify.com/album/1VhP9sS095BbaeHYh8iZOK) | 4:38 | 2022-11-29 |  |
 | [Roll Up](https://open.spotify.com/track/0a7aRMRFOc3a9jPMfD4aJp) | [Unproven](https://open.spotify.com/artist/5WPHwuzXyFyIheuZKM42lI), [Barber](https://open.spotify.com/artist/55yd56lRrN815OEFUOrC1W), [Manifest Destiny](https://open.spotify.com/artist/1XTpiNqD37eVQdS0xFqX3j) | [Thunderdome 2021](https://open.spotify.com/album/4W1vCGZ6arGZGQVMwMGWL5) | 3:39 | 2022-09-06 |  |
+| [ROLLIN' LOUD](https://open.spotify.com/track/4ke0LXdbM4c6CoL1yv4lI4) | [Anderex](https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW), [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN) | [I SEE THE FUTURE EP](https://open.spotify.com/album/2i2p1CfDwLdjkmemstHiWt) | 2:00 | 2024-04-24 |  |
 | [ROXBOX](https://open.spotify.com/track/3SYKZZRN9r1Id3Fb54DODK) | [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [minority room](https://open.spotify.com/album/6GwFoOMMZhVXtgkhO6fAKa) | 3:37 | 2022-02-22 |  |
 | [RUDE METHODS](https://open.spotify.com/track/25jlmlUJiDquYv8NIyPBTV) | [Andy the Core](https://open.spotify.com/artist/3GEDzLFDpKR3tsq72ZRTP7) | [RUDE METHODS](https://open.spotify.com/album/2dSW6exybjXs8rXYQ3utSd) | 3:08 | 2023-03-06 |  |
 | [Run Away](https://open.spotify.com/track/77IxOiVpFXzl9F1w9zz4Ra) | [Jiyagi](https://open.spotify.com/artist/1W62M2K9f0mwHdXhtywK4l) | [Run Away](https://open.spotify.com/album/05NaULJBc3q005BEtApZd3) | 2:28 | 2023-05-20 |  |

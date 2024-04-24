@@ -4,7 +4,7 @@
 
 > Hot noise for those summer days.
 
-222 songs - 12 hr 8 min
+223 songs - 12 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [concert for aliens](https://open.spotify.com/track/7os53rdrgA0OU6xC5xJruX) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:40 | 2022-04-01 |  |
 | [cotton candy](https://open.spotify.com/track/5lVZiDONIcGowIOetTZ4ps) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [weird!](https://open.spotify.com/album/1KsMhtT6PWdFuMCiNLvWmP) | 2:47 | 2022-04-01 |  |
 | [Crash and Burn](https://open.spotify.com/track/2EmyZ5vHUkWZ8wV6GVhTXP) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/6af3Z9vEogmAowqE0JOIFj) | 2:39 | 2023-05-25 | 2024-04-19 |
-| [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2022-04-01 |  |
+| [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 | 2022-04-01 | 2024-04-24 |
 | [Crushed Velvet](https://open.spotify.com/track/0OZu6gbkQRc6fNgtvpAB7q) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/6eWOqykBzznyzi3NrMWy7y) | 3:17 | 2022-04-01 | 2023-03-18 |
 | [Crushed Velvet](https://open.spotify.com/track/1I0i3wWt1sCZ4PT0TfnyZm) | [Yves Tumor](https://open.spotify.com/artist/0qu422H5MOoQxGjd4IzHbS) | [The Asymptotical World EP](https://open.spotify.com/album/2julo3Z5rNzSod7DoEuTz7) | 3:17 | 2022-04-01 | 2023-02-02 |
 | [C’est Comme Ça](https://open.spotify.com/track/1Nx7KvCw6D3O0W2HwYg9tq) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 2:29 | 2023-03-17 | 2023-06-03 |
@@ -98,6 +98,7 @@
 | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/track/2ymOJYGe3noIiQF83yAysV) | [Lauran Hibberd](https://open.spotify.com/artist/33ReZaGVb63WaJE68WgWuU), [The Regrettes](https://open.spotify.com/artist/67WNUxmM7y4WzHPAVzBu3E), [Lydia Night](https://open.spotify.com/artist/0J5n8cS1rKCAZ7eJek1uYK) | [How Am I Still Alive? \(with Lydia Night\)](https://open.spotify.com/album/6JMXuj7c10IpXdwHWp7ZHd) | 3:12 | 2022-04-01 | 2022-07-29 |
 | [Hurricane](https://open.spotify.com/track/23unqAilZgKoYIcmqCLlUL) | [Dead Nature](https://open.spotify.com/artist/1H5QzIYx4Bl7urDoSCMtcp) | [Hurricane](https://open.spotify.com/album/0Gss2qAjvsC3zXjL2GusEI) | 3:13 | 2022-04-01 | 2022-07-29 |
 | [Hypersonic Missiles](https://open.spotify.com/track/6CltzquypraYIlWFp48m1O) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 3:57 | 2023-05-25 |  |
+| [I EXIST](https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [I EXIST](https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5) | 4:29 | 2023-05-25 |  |
 | [I Miss Having Sex But At Least I Don't Wanna Die Anymore](https://open.spotify.com/track/2Rmw7J0krEU75ffhkaK93D) | [Waterparks](https://open.spotify.com/artist/3QaxveoTiMetZCMp1sftiu) | [FANDOM](https://open.spotify.com/album/6W5NAcsq5dV2vMcxPFWXTb) | 2:13 | 2022-04-01 |  |
 | [I Need Some of That](https://open.spotify.com/track/2bVC92dVDTRzlQGcz4RtOp) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [I Need Some of That](https://open.spotify.com/album/758At0nYWEPPSkWiGOlEwj) | 3:19 | 2022-04-01 | 2022-07-29 |
 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 | 2023-07-28 |  |

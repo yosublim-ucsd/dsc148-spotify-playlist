@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 
 > The very best acoustic songs from singer\-songwriters making waves\. Cover: Aoife O’Donovan
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,377 likes - 90 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,334 likes - 90 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 6 | [Graceland Too](https://open.spotify.com/track/44spdItKKM7rOtKswbBG0U) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/2xECuqnvvmVktV7UO8Dd3s) | 3:56 |
 | 7 | [Older](https://open.spotify.com/track/2EBtLxQSV8EHpk4gHoMnl3) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Older](https://open.spotify.com/album/5Tz4JnX2qcVxDDLpG8d2LY) | 3:21 |
 | 8 | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/track/7LNm1oWd6PniO9wRYpNY5o) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [j's lullaby \(darlin' i'd wait for you\)](https://open.spotify.com/album/5AgFxBgabzR7iCsuzeibrT) | 4:50 |
-| 9 | [Rockland](https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:37 |
-| 10 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 9 | [So My Darling \- Acoustic](https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [So My Darling \(Acoustic\)](https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L) | 3:48 |
+| 10 | [Rockland](https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:37 |
 | 11 | [In Dreams \- Alternative Version](https://open.spotify.com/track/0xJDTRuEuSlP95wHnrLnLx) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [In Dreams \(Alternative Version\)](https://open.spotify.com/album/0CvZulEryG0ohlt1QFVHhM) | 2:43 |
 | 12 | [Sorry Now](https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf) | [Jill Andrews](https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc) | [Thirties](https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ) | 3:12 |
 | 13 | [New Song](https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe), [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Notes from the Archive: Recordings 2011\-2016](https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb) | 6:22 |
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 44 | [Let Me Hurt \(Acoustic\)](https://open.spotify.com/track/5lCYavZeZIbkVMyiukdTJx) | [Emily Rowed](https://open.spotify.com/artist/0f1BcubFYDkGOTA0bJ0u1w) | [Crying in Cars](https://open.spotify.com/album/4uJrophYlBcAfwQXI6uDlf) | 3:42 |
 | 45 | [Navy Blue Sheet Blues](https://open.spotify.com/track/4pPpcOXCS9xCX950BZhb9z) | [Anna Bates](https://open.spotify.com/artist/4JLqUtfyFvInfcLILCOIJx) | [Navy Blue Sheet Blues](https://open.spotify.com/album/2m2T96Sgp64fTm9ajo6VCH) | 1:26 |
 | 46 | [Hometown](https://open.spotify.com/track/4Ffh52csT3bI7hVoih1vo1) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [World On The Ground](https://open.spotify.com/album/7vI29Msu8k0wpFUittUvAH) | 3:00 |
-| 47 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |
-| 48 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
-| 49 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
-| 50 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
+| 47 | [Queen of Silver Linings](https://open.spotify.com/track/2v705YlYolKiu6P2FbqOat) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [Queen of Silver Linings](https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS) | 3:32 |
+| 48 | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [With You \- A Sweet Little Love Song Demo](https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ) | 2:34 |
+| 49 | [Feel Alive Again](https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2) | [Molly Parden](https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5) | [Rosemary](https://open.spotify.com/album/4FH3kwVRrLQHwp88j1i22h) | 4:14 |
+| 50 | [Better Now \- Acoustic](https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga) | [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Better Now \(Acoustic\)](https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu) | 3:54 |
 | 51 | [Cool Girl](https://open.spotify.com/track/0FSOenCj42lbikl1vd5ah9) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Cool Girl](https://open.spotify.com/album/0TCc51KQYlnJ6WuFOgN6hI) | 3:19 |
 | 52 | [Remember That Night? \- Acoustic](https://open.spotify.com/track/49HbzUD2vcpoTAepAW2sjI) | [Sara Kays](https://open.spotify.com/artist/7Lk9V7E1u5gqSHmtcKlOqH) | [Remember That Night? \(Acoustic\)](https://open.spotify.com/album/5yCBbhqxEr4KYJb7e3qwgd) | 3:42 |
 | 53 | [I Know A Place \- Acoustic](https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [About U: One Year On](https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX) | 4:51 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XF2hFaHoss.md) - [plain]
 | 84 | [charades](https://open.spotify.com/track/0CfyUqkj68lJXnWBsziP6V) | [Misty Boyce](https://open.spotify.com/artist/3QxHPvnw4NfrfEaqWlBjqN) | [genesis](https://open.spotify.com/album/2CxTdEDSHr7GUqfWqaryXg) | 3:31 |
 | 85 | [Merry Go Round](https://open.spotify.com/track/4sMYfHAXlPOUzdHcjG5aRh) | [Jenny Owen Youngs](https://open.spotify.com/artist/52mkFCABBeP3KjkWFA4M2H) | [Merry Go Round](https://open.spotify.com/album/2JDg4HHyjXlRBiXbLDh3dh) | 2:28 |
 | 86 | [Unsteady Ground](https://open.spotify.com/track/5aU5EVIbdKn6Xg4ujLTrll) | [Angel Snow](https://open.spotify.com/artist/4awtkia1cywuwJ2OrxNw6j) | [Low](https://open.spotify.com/album/1wMYbFE4Xxeb6qxe2nkeIX) | 3:51 |
-| 87 | [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 |
-| 88 | [Yellow Bed](https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8) | [Elise Davis](https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1) | [Empty Rooms](https://open.spotify.com/album/4qNykGqmrHXbZj2pBtQxVb) | 4:17 |
+| 87 | [Yellow Bed](https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8) | [Elise Davis](https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1) | [Empty Rooms](https://open.spotify.com/album/4qNykGqmrHXbZj2pBtQxVb) | 4:17 |
+| 88 | [Higher \(feat\. David Rawlings\)](https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [David Rawlings](https://open.spotify.com/artist/01XgbvLicKQELx7NqHgi5G) | [Higher](https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8) | 3:23 |
 | 89 | [I'd Have to Think About It](https://open.spotify.com/track/50lUr1G0TYol01m2RlqPzZ) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [I'd Have to Think About It](https://open.spotify.com/album/0wfdQFjAZI2tJ506KTGnbY) | 2:30 |
 | 90 | [Little Sparrow](https://open.spotify.com/track/6n2H3jy9SDo5k22pIyMCU0) | [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y) | [A Day for the Hunter, A Day for the Prey](https://open.spotify.com/album/4whjlDovn35OzIY4TnbARA) | 3:16 |
 

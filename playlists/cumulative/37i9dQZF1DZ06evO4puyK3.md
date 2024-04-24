@@ -2,9 +2,9 @@
 
 ### [This Is Gloria Groove](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4puyK3)
 
-> This is Gloria Groove\. The essential tracks, all in one playlist.
+> This Is Gloria Groove\. Todas as faixas essenciais numa única playlist.
 
-62 songs - 3 hr 25 min
+64 songs - 3 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,12 +18,14 @@
 | [Apaga a Luz](https://open.spotify.com/track/0s15t3wXkM1drTDD1xAlXz) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Apaga a Luz](https://open.spotify.com/album/6OeSSqhTglCc1ks3BBMMA6) | 3:48 | 2023-11-10 |  |
 | [APENAS UM NENÉM](https://open.spotify.com/track/67FXDuLWJNuafe1mVdWsim) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 3:10 | 2023-11-10 |  |
 | [Arrasta](https://open.spotify.com/track/4adh5CmoekBTxh75IVrDlU) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Leo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Arrasta](https://open.spotify.com/album/2Wr06hgVAVL20s9gVjpw78) | 2:32 | 2023-11-10 |  |
-| [BARULHADA](https://open.spotify.com/track/4wQBMjqW9zSS3Pwf1ApjhY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:36 | 2023-12-13 |  |
+| [BARULHADA](https://open.spotify.com/track/4wQBMjqW9zSS3Pwf1ApjhY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:36 | 2023-12-13 | 2024-04-24 |
 | [BEAT MEGATRÔNICO](https://open.spotify.com/track/0yxvMwHvv36ismJzBKc2oD) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 1:59 | 2023-12-13 |  |
 | [BONEKINHA](https://open.spotify.com/track/5y4Wpk9ts2RzDwYNIAtJ9J) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [LADY LESTE](https://open.spotify.com/album/4Qq4x0tJGWEFZt6jnvOKrQ) | 2:48 | 2023-11-10 |  |
-| [BRUXARIA 3000](https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [BRUXARIA 3000](https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa) | 2:57 | 2023-11-10 |  |
+| [BRUXARIA 3000](https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [BRUXARIA 3000](https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa) | 2:57 | 2023-11-10 | 2024-04-24 |
+| [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Alleff](https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 | 2024-04-24 |  |
 | [Bumbum de Ouro](https://open.spotify.com/track/1DgHVOq15mmso5RY0YQy6l) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Bumbum de Ouro](https://open.spotify.com/album/1qzzcAss8mqBG005C6qMDl) | 2:47 | 2023-11-10 |  |
 | [Capricórnio](https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK) | [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Bagua Records](https://open.spotify.com/artist/2450WxbFxHjnttFAv31zGk), [Neo Beats](https://open.spotify.com/artist/6PERJZF7wohA034PAxDK0b), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Zodíaco](https://open.spotify.com/album/0drpSoLid5OVerEWbDyrMR) | 3:18 | 2023-11-10 |  |
+| [Catuaba](https://open.spotify.com/track/7DN5QOaEBUQcBRwGkzEwVC) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Catuaba](https://open.spotify.com/album/43u7ry5SAOMz2BB4pKK3ui) | 3:12 | 2024-04-24 |  |
 | [Coisa Boa](https://open.spotify.com/track/2aGWQVK6ed2GtnZTBosCyg) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Coisa Boa](https://open.spotify.com/album/1O3AQx2qZccjwFlSenp0ru) | 2:45 | 2023-11-10 |  |
 | [DA BRABA](https://open.spotify.com/track/0AcRSusRpiSyk7amRsbcdY) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:45 | 2023-12-13 |  |
 | [Deve ser horrível dormir sem mim](https://open.spotify.com/track/6Q9NH5cNBY58nJkp5Jbs9j) | [Manu Gavassi](https://open.spotify.com/artist/6xF3XdxG7VHRmQmTJxRqX8), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Deve ser horrível dormir sem mim](https://open.spotify.com/album/3FJKxI2TAjifuaiNNQXzvU) | 2:35 | 2023-11-10 |  |

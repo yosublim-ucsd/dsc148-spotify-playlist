@@ -4,7 +4,7 @@
 
 > Some bops to take the pain of homework away.
 
-671 songs - 1 day 12 hr 23 min
+672 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -594,6 +594,7 @@
 | [Thinking 'Bout You](https://open.spotify.com/track/0gtSPYz0OHoF7k09Auq1uC) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dua Lipa \(Deluxe\)](https://open.spotify.com/album/01sfgrNbnnPUEyz6GZYlt9) | 2:51 | 2022-04-14 | 2022-04-21 |
 | [This City](https://open.spotify.com/track/3H3r2nKWa3Yk5gt8xgmsEt) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [This City](https://open.spotify.com/album/5waiE6DS2ntWF3Q0yekJUm) | 3:14 | 2022-04-14 |  |
 | [this is how you fall in love](https://open.spotify.com/track/1aEsTgCsv8nOjEgyEoRCpS) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent ii](https://open.spotify.com/album/0A9eIFTz09ciHqCHJNYyf2) | 2:54 | 2022-04-14 | 2023-12-30 |
+| [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 | 2024-04-24 |  |
 | [This Town](https://open.spotify.com/track/5nA67Y0XX9JipZwYxX7Gl7) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [This Town](https://open.spotify.com/album/143gTr5lD4xuFizXLs64P2) | 3:52 | 2022-04-29 | 2022-07-27 |
 | [This Town](https://open.spotify.com/track/0qvzXomUDJVaUboy2wMfiS) | [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Flicker \(Deluxe\)](https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p) | 3:52 | 2022-07-08 |  |
 | [Those Eyes](https://open.spotify.com/track/2GThBgzZoZfz0lx1JjBwfe) | [New West](https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn) | [Those Eyes](https://open.spotify.com/album/4iRLB4gc24HFvjwRc8hDdg) | 3:40 | 2022-11-19 | 2023-01-29 |
@@ -606,7 +607,7 @@
 | [traitor](https://open.spotify.com/track/5CZ40GBx1sQ9agT82CLQCT) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [SOUR](https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j) | 3:49 | 2022-04-14 | 2023-12-30 |
 | [Trouble \- from ‘Three Months’](https://open.spotify.com/track/4lM46UnoFn4FP074aYWGxS) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP), [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Trouble \(from ‘Three Months’\)](https://open.spotify.com/album/4CVZnoqlaAEqSX6c1QQUI8) | 3:23 | 2022-04-14 | 2022-07-29 |
 | [Under The Influence](https://open.spotify.com/track/5IgjP7X4th6nMNDh4akUHb) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Indigo \(Extended\)](https://open.spotify.com/album/3okhA6w5uau6ZNhnVpwVww) | 3:04 | 2022-08-08 | 2023-07-01 |
-| [Unfinished Business](https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Unfinished Business](https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR) | 3:29 | 2024-04-16 |  |
+| [Unfinished Business](https://open.spotify.com/track/5CYUCj24HvoKfjraBQal0O) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Unfinished Business](https://open.spotify.com/album/4LCOSVdjQV8t1PZGia7CTR) | 3:29 | 2024-04-16 | 2024-04-24 |
 | [Unstable \(feat\. The Kid LAROI\)](https://open.spotify.com/track/137mSruegm1u6x9NvwiagR) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Justice](https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2) | 2:38 | 2022-04-14 | 2022-07-28 |
 | [Until I End Up Dead](https://open.spotify.com/track/5bVTkc2s7TQbTbVZZn2fXn) | [Dream](https://open.spotify.com/artist/6LArUyIoMiHmDvvOAsE2cd) | [Until I End Up Dead](https://open.spotify.com/album/7FqeGIj2CoHAbWTyqeOpGu) | 2:15 | 2023-07-28 | 2023-09-16 |
 | [Until I Found You](https://open.spotify.com/track/0T5iIrXA4p5GsubkhuBIKV) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Until I Found You](https://open.spotify.com/album/18CtLoAMTr7F8ngtuM6D8i) | 2:57 | 2022-12-09 |  |

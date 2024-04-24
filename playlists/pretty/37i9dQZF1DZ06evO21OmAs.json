@@ -1,12 +1,12 @@
 {
   "description": "This is girl in red. The essential tracks, all in one playlist.",
-  "num_followers": 249258,
+  "num_followers": 249318,
   "original_name": "This Is girl in red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGY1Y2VkMDcxNDdiY2I4NjUwYzM0Zjc1YjQ0MzgxMzgy",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDUyNzYxZTg5MWZjMmUyMzg3MDRhMDk2NzMwMGI2OWJj",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "i wanna be your girlfriend",
+        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 204990,
+      "name": "i wanna be your girlfriend",
+      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Need Me Now? (feat. Sabrina Carpenter)",
         "url": "https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 186377,
       "name": "You Need Me Now? (feat. Sabrina Carpenter)",
       "url": "https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "i wanna be your girlfriend",
-        "url": "https://open.spotify.com/album/14cEutEbb3i2vDp3ZopdJf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 204990,
-      "name": "i wanna be your girlfriend",
-      "url": "https://open.spotify.com/track/5PjdC2gMATetx5xdnwGUu7"
     },
     {
       "added_at": null,
@@ -143,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "DOING IT AGAIN BABY",
-        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 145272,
-      "name": "DOING IT AGAIN BABY",
-      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 170107,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/0OAye4UT21h2iC72vGVuqC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "DOING IT AGAIN BABY",
+        "url": "https://open.spotify.com/album/1ER3PB0CgzxRprzl67AAhz"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 145272,
+      "name": "DOING IT AGAIN BABY",
+      "url": "https://open.spotify.com/track/2DBRVoyZs0Q2kj0ePAVEEZ"
     },
     {
       "added_at": null,
@@ -207,22 +207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4am",
-        "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 110861,
-      "name": "4am",
-      "url": "https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 171745,
       "name": "Phantom Pain",
       "url": "https://open.spotify.com/track/2X05EASOuBv6aRQRJoGI1i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4am",
+        "url": "https://open.spotify.com/album/5MBdFr25fkVqYMDCGWyvTT"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 110861,
+      "name": "4am",
+      "url": "https://open.spotify.com/track/75enpZYDT6k0PNKu6SJ4W5"
     },
     {
       "added_at": null,
@@ -271,22 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "watch you sleep.",
-        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 180225,
-      "name": "watch you sleep.",
-      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 174847,
       "name": "Ugly Side",
       "url": "https://open.spotify.com/track/43bVi48NVZVDClxsXksTtC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "watch you sleep.",
+        "url": "https://open.spotify.com/album/788Q6tUcihFxDsOGGeyuFE"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 180225,
+      "name": "watch you sleep.",
+      "url": "https://open.spotify.com/track/6tMwheKgpMHBcHtr8aYMn8"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "i need to be alone.",
-        "url": "https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 176500,
-      "name": "i need to be alone.",
-      "url": "https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 172007,
       "name": "New Love",
       "url": "https://open.spotify.com/track/1WFNU6zWFu5BpSiQOAVTAO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "i need to be alone.",
+        "url": "https://open.spotify.com/album/3UN8IYnBeUlkCjdb7B34EY"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 176500,
+      "name": "i need to be alone.",
+      "url": "https://open.spotify.com/track/2wHmH8OGgU6qi8NrLl0VRY"
     },
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "say anything",
-        "url": "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 142700,
-      "name": "say anything",
-      "url": "https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I'M DOING IT AGAIN BABY!",
         "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 182913,
       "name": "Pick Me",
       "url": "https://open.spotify.com/track/5ZNxEg7CJo2zSdOXLrv1kW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "say anything",
+        "url": "https://open.spotify.com/album/6uwwBscD3q3ZGNTezjvvEL"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 142700,
+      "name": "say anything",
+      "url": "https://open.spotify.com/track/14x3OHwwyfDz0S9u1IxGRf"
     },
     {
       "added_at": null,
@@ -463,6 +463,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'M DOING IT AGAIN BABY!",
+        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
+      },
+      "artists": [
+        {
+          "name": "girl in red",
+          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
+        }
+      ],
+      "duration_ms": 179791,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kate's Not Here (Day Wave & Lawrence Rothman Remix)",
         "url": "https://open.spotify.com/album/6IfpI7WFbi1LR0EyWMFo9x"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 187364,
       "name": "Kate's Not Here - Day Wave & Lawrence Rothman Remix",
       "url": "https://open.spotify.com/track/5gEni4dmBqme8fyPcyWYiK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I'M DOING IT AGAIN BABY!",
-        "url": "https://open.spotify.com/album/5QaKu3YoUJNglyaKixaegf"
-      },
-      "artists": [
-        {
-          "name": "girl in red",
-          "url": "https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9"
-        }
-      ],
-      "duration_ms": 179791,
-      "name": "I'm Back",
-      "url": "https://open.spotify.com/track/0tduSYti0mY7p8j5AIO4Pg"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 
 > Recordando a los ídolos de la música de banda\. Julio Preciado en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,313 likes - 150 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,745 likes - 150 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 12 | [Anda Borracho El Buey](https://open.spotify.com/track/4fCBHIPstTkPivVYoPMZ5d) | [Banda Guadalajara Express](https://open.spotify.com/artist/3OVWawJdrDHvvuFuOfwOcN) | [California Adiós](https://open.spotify.com/album/3UePWSFrp52fyNLW0jVVfl) | 2:46 |
 | 13 | [El Indio Enamorado](https://open.spotify.com/track/77Yhcsal6ceWoLqYbDCeaZ) | [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Indio Enamorado](https://open.spotify.com/album/4JwwVngWxV6EDq7lC3wUBt) | 3:08 |
 | 14 | [La Noche Que Murio Chicago](https://open.spotify.com/track/4nrNEbfKx82rBT4c3tBTJd) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [La Noche Que Murio Chicago](https://open.spotify.com/album/2rD97DTS4zzJCplMzvsYtC) | 2:41 |
-| 15 | [Busca Otro Amor](https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:15 |
+| 15 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
 | 16 | [Huele A Peligro](https://open.spotify.com/track/1DwQgyvgKArDb8abfodH1f) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 3:52 |
 | 17 | [Un loco solitario](https://open.spotify.com/track/0QQROQYcXIlFobzckwOdBx) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Tenis Mágicos](https://open.spotify.com/album/3TIOaRXflNZnZWgYjcCK1D) | 3:12 |
 | 18 | [Seis Pies Abajo](https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [De Mexico para el Mundo](https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ) | 2:56 |
-| 19 | [Una Aventura](https://open.spotify.com/track/3EpoG9wonOCsp9ImNkz8cw) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:35 |
+| 19 | [Busca Otro Amor](https://open.spotify.com/track/0d70DBNHHVgJC0GQ90BIrY) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:15 |
 | 20 | [Mi luna, mi estrella](https://open.spotify.com/track/5FFtF4qfE1fHDDp5EMe7Et) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [Los machos también lloran](https://open.spotify.com/album/4bJgYukI8yFOsia5HXeS30) | 3:27 |
 | 21 | [Media Naranja](https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4) | [La Arrolladora Banda El Limón De Rene Camacho](https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz) | [Huele A Peligro](https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG) | 2:31 |
 | 22 | [Dos Hojas Sin Rumbo](https://open.spotify.com/track/16240HVz8WRk5I0ddFDLFS) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [Tu Ya Lo Conoces](https://open.spotify.com/album/7l8sxsHe2YQVuleL1nQN18) | 3:03 |
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSl0SWyyyUFG.md) - [plain]
 | 46 | [Caliente Caliente](https://open.spotify.com/track/3wERA0j49lmCJkguFtHWUJ) | [Banda Zarape](https://open.spotify.com/artist/3PjBnAFgtvoFwYuQvR2dAl) | [Caliente, Caliente](https://open.spotify.com/album/6tTgXH5EBY6FFV37ATLoUR) | 3:14 |
 | 47 | [Romántico incurable](https://open.spotify.com/track/0jxbA98tGD0s18YVfpOEco) | [Banda Pequeños Musical](https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE) | [Romantico incurable](https://open.spotify.com/album/3HsHoBwT4L04KIfkYAfWjO) | 3:43 |
 | 48 | [Mi Ranchito](https://open.spotify.com/track/6R5oDL4do0PYVP3Pn4fAvy) | [Antonio Aguilar](https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm) | [Antonio Aguilar Con Tambora](https://open.spotify.com/album/32INMqlpUFKi3ve7m9H7nM) | 3:04 |
-| 49 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
+| 49 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
 | 50 | [Un indio quiere llorar](https://open.spotify.com/track/4cnm9F3YGOW6ydiyo3LdrW) | [Banda Machos](https://open.spotify.com/artist/7MyUjj79oHy7I8RocrtzZ2) | [16 Reales hits](https://open.spotify.com/album/5ZnGp62Dx8qN5TascIvItr) | 2:49 |
 | 51 | [Qué Puedo Hacer por Ti](https://open.spotify.com/track/0QqFvqQ9Lujnc7QaYBEw09) | [Julio Preciado Y Su Banda Perla Del Pacifico](https://open.spotify.com/artist/1skKkfQtM2dprTwRld9p3p) | [16 Bandazos de Oro](https://open.spotify.com/album/3vvyIFJn2hM6I2L5A2WdWg) | 3:27 |
 | 52 | [Arreando La Mula](https://open.spotify.com/track/7qX0Ca5ShfAMDjSogZ2Bxu) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 3:03 |
 | 53 | [El Guapo](https://open.spotify.com/track/3AhaXfZ5yQIlFWrsE0Roz0) | [Banda Fresa Roja](https://open.spotify.com/artist/5k6geKS4IAc3ay7YuDM7Y0) | [Gold Collection, Vol.1](https://open.spotify.com/album/7bMQ7sSTPUqNPMZhX0kG9O) | 3:06 |
 | 54 | [Al Mismo Nivel](https://open.spotify.com/track/1evKB90fOuaj6oMSBESdhK) | [Banda La Costeña](https://open.spotify.com/artist/1r8tUG15NMJEj1j5NynES7) | [Una Aventura](https://open.spotify.com/album/6XTRRRYyMfJZHqOcy3Hanu) | 3:05 |
 | 55 | [MI Vida Sin Ti](https://open.spotify.com/track/7r7tEGlRGeeGsprdBIfBru) | [Banda Pelillos](https://open.spotify.com/artist/4BLePIKRIxR45iGnam62DE) | [Evolution](https://open.spotify.com/album/0bSO97EWemxZI9dyzq5IS3) | 4:12 |
-| 56 | [Debajo De Los Laureles](https://open.spotify.com/track/45TkoeSmoScX2TYzLWnSSK) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Debajo De Los Laureles](https://open.spotify.com/album/3B80b6IGp3cnt5r190PwvZ) | 2:31 |
+| 56 | [Vuelve Por Favor](https://open.spotify.com/track/4JOjEDadsxI1wZo60GX9pH) | [Banda Sinaloense Los Recoditos](https://open.spotify.com/artist/7IUkPNJ8qmoD5i3TcRYpXF) | [Banda Sinaloense los Recoditos](https://open.spotify.com/album/5HXSJxEDbdOBjaRcHZm4wy) | 3:29 |
 | 57 | [Aventurero Y Loco](https://open.spotify.com/track/5lF5XniaT9e3EJMnDmSUsA) | [Banda La Pirinola](https://open.spotify.com/artist/5PTt3pmQAnQwYOBVEAFU0Y) | [Banda La Pirinola](https://open.spotify.com/album/2B1eN4sLg3mjruRkO0X5G5) | 3:27 |
 | 58 | [El Bigote](https://open.spotify.com/track/3ujVqENYM0ujQY5jgKLQb9) | [Banda R\-15](https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR) | [15 Grandes Exitos](https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC) | 2:51 |
 | 59 | [Batelo Morena](https://open.spotify.com/track/0AI7onDE7WBxDRjuFLX6iQ) | [Cuisillos De Arturo Macias](https://open.spotify.com/artist/32lXHXuhXtdA2j3IDXNND4) | [Banda Cuisillos](https://open.spotify.com/album/38q7dgG8vDm5FGaC1HC6Ww) | 3:02 |

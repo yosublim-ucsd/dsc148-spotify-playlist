@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 
 > Behagelig musik.
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,586 likes - 114 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,567 likes - 114 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 60 | [Be Real](https://open.spotify.com/track/4PEbNdnFtpko90iC0W9I2u) | [Rasmus Faber](https://open.spotify.com/artist/6cdmYp8fPQYDIU1l1Sqt8X), [Metaxas](https://open.spotify.com/artist/1zmqovKSBNOtEdrDuXDmR9) | [Be Real](https://open.spotify.com/album/2iLNcOmOJUG69SlGv5PSZz) | 3:46 |
 | 61 | [Weak \- Acoustic](https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV) | [Halloran & Kate](https://open.spotify.com/artist/26GKAYYuyr424SdSkr8xlQ), [May Raya](https://open.spotify.com/artist/30I99Rrr7vPR38I9Wx8oQ9) | [Weak](https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7) | 3:21 |
 | 62 | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/track/0f8xPdFJ6SdlHJwkxpdw2Q) | [shy martin](https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM), [Boy In Space](https://open.spotify.com/artist/0xu4jAQQv7ZAqvFGdc9HgP) | [Still the Same \(feat\. Boy In Space\)](https://open.spotify.com/album/15a2L2owp0WoKIMfcwncLc) | 2:58 |
-| 63 | [What Happened To Perfect](https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\)](https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24) | 3:56 |
-| 64 | [Make Me \(Cry\) \- Acoustic](https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X) | [Boreal](https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI) | [Make Me \(Cry\) \[Acoustic\]](https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0) | 3:01 |
+| 63 | [Make Me \(Cry\) \- Acoustic](https://open.spotify.com/track/4J87Y0ggs18DNP7XMn3f0X) | [Boreal](https://open.spotify.com/artist/0fov7ClSP5KDEJUbE0D0VI) | [Make Me \(Cry\) \[Acoustic\]](https://open.spotify.com/album/1cOw8MxemGm0BsJfHAKAo0) | 3:01 |
+| 64 | [What Happened To Perfect](https://open.spotify.com/track/6MbtUcXRSDlJ4Zu3CYWMEG) | [Lukas Graham](https://open.spotify.com/artist/25u4wHJWxCA9vO0CzxAbK7) | [Lukas Graham \(Blue Album\)](https://open.spotify.com/album/6NQ2RNksdSKdtnlFOLJo24) | 3:56 |
 | 65 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 66 | [Until The Morning Light](https://open.spotify.com/track/1kbp6nfmdzdY9cEdEzuK4Q) | [David Benjamin](https://open.spotify.com/artist/5eTeHyszhixBkqm4L9xrjW) | [Until The Morning Light](https://open.spotify.com/album/4cVEjngO8IoVReFVgCd9DG) | 3:08 |
 | 67 | [Love Is In The Picture](https://open.spotify.com/track/7MUSG8BL1SVMv4fyfMPRB3) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Love Is In The Picture](https://open.spotify.com/album/2D8NA9YspchD0IdlnmNjkw) | 3:38 |
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IdqACeHRY7.md) - [plain]
 | 104 | [The First To Know](https://open.spotify.com/track/58YU87leZyFMLbqdhQyQva) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [The First To Know](https://open.spotify.com/album/63X0OJQvVHVKWfR52CEndw) | 3:03 |
 | 105 | [Helpless](https://open.spotify.com/track/7hyFz1ms1XEHbE2KqUbUQ8) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Helpless](https://open.spotify.com/album/1tnaGg9YXodD8TW4aSF39y) | 3:41 |
 | 106 | [You You You](https://open.spotify.com/track/4h7MSTsZsbdHrWHVNXczkW) | [Sille Nilsson](https://open.spotify.com/artist/3jLUQS2fcGFh7G9fbf8ScC) | [Fall Away Into Place](https://open.spotify.com/album/7jHdi1IgUCGYlwofvhuB7S) | 3:42 |
-| 107 | [They Told Me](https://open.spotify.com/track/1uHfCC9qFChGhiSarUWq1B) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392), [Sophia Ayana](https://open.spotify.com/artist/0Tags4oElQqYRXkUyzGPzg) | [They Told Me](https://open.spotify.com/album/0s8cuApDirOCHXdb5Atv2F) | 3:01 |
-| 108 | [Cali](https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Cali](https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm) | 3:56 |
+| 107 | [Cali](https://open.spotify.com/track/6LUdon4Z5YxNQDab66qepz) | [Matthew And The Atlas](https://open.spotify.com/artist/0lSENl3bteP8p2NbiSP7RM) | [Cali](https://open.spotify.com/album/3PisCW9fbXoASB0f2uAaYm) | 3:56 |
+| 108 | [They Told Me](https://open.spotify.com/track/1uHfCC9qFChGhiSarUWq1B) | [Palm Trees](https://open.spotify.com/artist/3IYNUniWKkMmHKUHssC392), [Sophia Ayana](https://open.spotify.com/artist/0Tags4oElQqYRXkUyzGPzg) | [They Told Me](https://open.spotify.com/album/0s8cuApDirOCHXdb5Atv2F) | 3:01 |
 | 109 | [I'm Not Her \- Acoustic](https://open.spotify.com/track/4yr1dDskFzkDY8q6gBUNXw) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [I'm Not Her \(Acoustic\)](https://open.spotify.com/album/4LLOsUgnaD6Gsp6pEKI3GC) | 3:17 |
 | 110 | [Daydreaming](https://open.spotify.com/track/3shOp9UrL0PMRdZir2mK91) | [Yehra](https://open.spotify.com/artist/3PLqRcOQ0mbGN3mPELPAZI) | [Daydreaming](https://open.spotify.com/album/30KoavVtPo5iGMn2SGlS1Q) | 2:58 |
 | 111 | [Lying To Myself](https://open.spotify.com/track/3GPD0sa8NqrEmlGzkhKrAN) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Lying To Myself](https://open.spotify.com/album/4vnyXmkgSgbduvuZOCbtLO) | 3:30 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 
 > This is Salif Keita\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,314 likes - 51 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,318 likes - 51 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 30 | [San Ka Na](https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [La Différence](https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B) | 5:28 |
 | 31 | [Tono](https://open.spotify.com/track/6i3SKf6JxZoByA6anVcIhC) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 5:30 |
 | 32 | [Nyanyama](https://open.spotify.com/track/358m8bL9LwONarIDQxHWUA) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Folon](https://open.spotify.com/album/29kRIxD16ZaWot5NKCtS9O) | 6:18 |
-| 33 | [Iniagige](https://open.spotify.com/track/285LCwb8xwnPfNlidUuJGI) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 4:33 |
-| 34 | [Yambo](https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 6:13 |
+| 33 | [Yambo](https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [M'Bemba](https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO) | 6:13 |
+| 34 | [Iniagige](https://open.spotify.com/track/285LCwb8xwnPfNlidUuJGI) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou \(20th Anniversary Edition\)](https://open.spotify.com/album/08WWdjuCR4ZMhV3ZeUAEI7) | 4:33 |
 | 35 | [Lony](https://open.spotify.com/track/1jDI4xBByWxisEYzKXwJAn) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 7:55 |
 | 36 | [Katolon](https://open.spotify.com/track/4L5rI5vn2xtBXvEtb3EfdU) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Moffou](https://open.spotify.com/album/2gaL1CaBNmkk4c6jUhKcGX) | 6:58 |
 | 37 | [Sina \(Soumbouya\)](https://open.spotify.com/track/1IStLKRx3MsSSzngw6SwkE) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Soro](https://open.spotify.com/album/62DPGNE8CtgV8OKT8BUzZG) | 4:49 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0unpD0.md) - [plain]
 | 50 | [Africa, One Of A Kind](https://open.spotify.com/track/4N7jh6GDB3b8ZBTt336g44) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 3:08 |
 | 51 | [Waraya](https://open.spotify.com/track/6PUJcLbzL08u4anhZGarRu) | [Salif Keita](https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx) | [Amen](https://open.spotify.com/album/6zTnJ8z3GdmTSqOoPEqSr9) | 6:05 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDMzNDRjMmEwZDZiZGQ3YmRiMjk3ODViYmY0M2U3ZjBk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDNmZjYwOWJlOWE1MDEyYWYxZThmMzg3OTQyZmU4YzI5`

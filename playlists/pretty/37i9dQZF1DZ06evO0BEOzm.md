@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0BEOzm) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0BEOzm)
 
-### [This Is ミーガン・ザ・スタリオン](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
+### [This Is Megan Thee Stallion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0BEOzm)
 
-> This is ミーガン・ザ・スタリオン。アーティストの代表曲をひとつのプレイリストに。
+> This is Megan Thee Stallion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,251 likes - 53 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,354 likes - 53 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0BEOzm.md) - [plain]
 | 52 | [Circles](https://open.spotify.com/track/08TILUAN56HJoS1d9mNRty) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Good News](https://open.spotify.com/album/0KjckH1EE6HRRurMIXSc0r) | 2:50 |
 | 53 | [Ride Or Die \- From "Queen & Slim: The Soundtrack"](https://open.spotify.com/track/6CYyxobulcKumfeV6e2I9g) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [VickeeLo](https://open.spotify.com/artist/4mPrHfhtQUBoHgTxkBieLY) | [Ride Or Die \(From "Queen & Slim: The Soundtrack"\)](https://open.spotify.com/album/7Dfk55fGetXAV3iAYJqkrO) | 2:03 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDMwNTQ0Y2NkYjEwMWI4MmIwYzA2NzUxOWY4OTQ4YWZj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDc4OTJhODkyMjYzNDliNzJhZjYwNzQ1NGE4MTgzMzJm`

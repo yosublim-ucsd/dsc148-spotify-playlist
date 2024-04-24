@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 
 > This is Slim Dusty\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,582 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,589 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 31 | [By A Fire Of Gidgee Coal \- 1996 Digital Remaster](https://open.spotify.com/track/0aKuCV7yqNjojxyvXQ9wlE) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Slim Dusty Sings Stan Coster](https://open.spotify.com/album/6epVcXWfT9yGCoOW0bJdLp) | 2:58 |
 | 32 | [Matilda No More](https://open.spotify.com/track/6sLEltqDa8gGjGwbljmxPM) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 3:41 |
 | 33 | [Plains Of Peppimenarti \- 1998 Remaster](https://open.spotify.com/track/5SQXeOpWzAmgzTUiH6nkMq) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Very Best Of Slim Dusty \(Remastered\)](https://open.spotify.com/album/6i1P55WBQ3YWUtLYOQcq02) | 3:13 |
-| 34 | [Boomaroo Flyer](https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:32 |
+| 34 | [Haulin' For The Double 'T'](https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:42 |
 | 35 | [Star Trucker](https://open.spotify.com/track/5COZ5BrN5waKTpOw6wXQEB) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:13 |
 | 36 | [Paddy William](https://open.spotify.com/track/0sQYfdkld1cuFNZyczDB2u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Looking Forward Looking Back](https://open.spotify.com/album/2cBqkvAu8keKTv0RqAkwa2) | 4:32 |
 | 37 | [Trumby \- 1994 Remaster](https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Old Time Drover's Lament](https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480) | 3:29 |
-| 38 | [Haulin' For The Double 'T'](https://open.spotify.com/track/2VHfWJ34HWsSGQ7pLKlJEu) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:42 |
+| 38 | [Boomaroo Flyer](https://open.spotify.com/track/0qtXmZ3YZe8zHlGnjmbISe) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 3:32 |
 | 39 | [Traveller's Prayer \- 1996 Remaster](https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Singer From Down Under](https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB) | 3:15 |
 | 40 | [The Man From Iron Bark](https://open.spotify.com/track/1AkIXW4jrrD7LXf6dAyc5Y) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Slim Dusty Heritage Album](https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC) | 4:09 |
 | 41 | [Something In The Pilliga](https://open.spotify.com/track/42fl1eHeTq8xsSvNZKoJ9u) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 4:00 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0orKRi.md) - [plain]
 | 44 | [The Road To Gundagai \- 2004 Remaster](https://open.spotify.com/track/7vKyWcioaiGKFVGQ4ymOSI) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Classic Albums \- 1960's](https://open.spotify.com/album/6YJQPvhGypKpc9gEKwQBPS) | 1:54 |
 | 45 | [No Good Truckin' Man](https://open.spotify.com/track/03IVyqOYqy4EaBCb1wd56j) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 2:30 |
 | 46 | [Highway Fever \- 2009 Digital Remaster](https://open.spotify.com/track/4rvvKIQ47CesB4m5ke6DYW) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Sittin' On 80 \(Remastered\)](https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T) | 2:48 |
-| 47 | [Wobbly Boot](https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Rolf Harris](https://open.spotify.com/artist/50KLYZQtZLrR2gGa5oHJEF) | [Pubs, Trucks & Plains](https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi) | 2:58 |
-| 48 | [Sittin' On The Old Front Verandah](https://open.spotify.com/track/0RHonCLjFf9Xsu8dD0Ew4k) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Son of Noisy Dan](https://open.spotify.com/album/0bADhBUI8wtRyyftPcEw9h) | 2:56 |
+| 47 | [Bent\-Axle Bob \- Remastered 1992](https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 2:45 |
+| 48 | [Wobbly Boot](https://open.spotify.com/track/2WLqQbjvpMrUNnJaMVKOT5) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [Rolf Harris](https://open.spotify.com/artist/50KLYZQtZLrR2gGa5oHJEF) | [Pubs, Trucks & Plains](https://open.spotify.com/album/7CS7R9ZsE8QlrCOphaYpyi) | 2:58 |
 | 49 | [Gotta Keep Moving](https://open.spotify.com/track/3SAeAgYnbVqtNQZH9S6j6i) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [Truck Songs](https://open.spotify.com/album/2tnFvsouoPXa3zILj5YRNd) | 3:11 |
-| 50 | [Bent\-Axle Bob \- Remastered 1992](https://open.spotify.com/track/42t66blDEyqv6M6EDt9FWb) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5), [The Travelling Country Band](https://open.spotify.com/artist/34wyMtIMapUICxpdi5hkjf) | [Lights On The Hill \(Remastered\)](https://open.spotify.com/album/7x201Ntvhwic5InkKSNRZa) | 2:45 |
+| 50 | [Sittin' On The Old Front Verandah](https://open.spotify.com/track/0RHonCLjFf9Xsu8dD0Ew4k) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [The Son of Noisy Dan](https://open.spotify.com/album/0bADhBUI8wtRyyftPcEw9h) | 2:56 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDIxM2U1ZWRkZWRhZDQ0ODk4NjExNTA4ZTViNmU5MTEz`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGQyNzRkZTMxNDhkZTI1Y2U1NTE5OWQzMjkxZGJjYmVh`

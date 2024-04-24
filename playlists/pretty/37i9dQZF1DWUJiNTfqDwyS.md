@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 
 > A collection of the best Metal covers out there\. Cover: Ghost
 
-[Spotify](https://open.spotify.com/user/spotify) - 368,993 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 369,072 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUJiNTfqDwyS.md) - [plain]
 | 36 | [Cars \- Remix](https://open.spotify.com/track/5gp7nuCjOwI79WfO65di78) | [Fear Factory](https://open.spotify.com/artist/74Hj7BmnUXyx2udrIEIKwX) | [Obsolete \(Special Edition\)](https://open.spotify.com/album/5fg6x19bbTtNv2eOhTUcoN) | 3:38 |
 | 37 | [King Of Pain](https://open.spotify.com/track/1ZaxUokPjgc4Po18K7t7LW) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [By The People, For The People](https://open.spotify.com/album/717xD2ZI5ebHBk0OQNSUfz) | 4:36 |
 | 38 | [Let It Go](https://open.spotify.com/track/4Cf7HDam6eNq1Rg2Gv8Ag7) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Phantom](https://open.spotify.com/album/2QZhGE2USg7NCL98E7DkpS) | 4:22 |
-| 39 | [Come Together](https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live And Inspired](https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF) | 3:46 |
-| 40 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
+| 39 | [Johnny B\. Goode](https://open.spotify.com/track/307B0j257d72HTyAiohF8N) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Ram It Down](https://open.spotify.com/album/1t2M4YmH8x9Tplcxq08H5l) | 4:39 |
+| 40 | [Come Together](https://open.spotify.com/track/5rhcVBkHb1G6dVPkP1FupN) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Live And Inspired](https://open.spotify.com/album/4KvZhLes9MpE8IUZKhxiRF) | 3:46 |
 | 41 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 |
 | 42 | [Lose Yourself](https://open.spotify.com/track/7wKLhqM1eZHAB3W8GBFV6W) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [Lose Yourself](https://open.spotify.com/album/36LDkbYemz8vhelZvh3b9F) | 3:27 |
 | 43 | [You Give Love A Bad Name](https://open.spotify.com/track/7lHINmM0WM8infPvyokWIe) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [The Curse \(Deluxe Edition\)](https://open.spotify.com/album/52kEF3wvknVbIAk28VStyL) | 3:26 |

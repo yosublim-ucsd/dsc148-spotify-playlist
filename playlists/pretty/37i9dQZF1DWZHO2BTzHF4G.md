@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 
 > Rock that was on repeat during the summers of the 2000s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,820 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,823 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZHO2BTzHF4G.md) - [plain]
 | 48 | [Brianstorm](https://open.spotify.com/track/7f9I5WdyXm5q1XqnSYgQZb) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Favourite Worst Nightmare](https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm) | 2:52 |
 | 49 | [In the Shadows](https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Dead Letters](https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7) | 4:17 |
 | 50 | [When You're Gone](https://open.spotify.com/track/54JKnDB3CzVu8wNAOM27BI) | [Avril Lavigne](https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j) | [The Best Damn Thing \(Expanded Edition\)](https://open.spotify.com/album/6lqE05fiHWJVYYdMVJNj38) | 4:00 |
-| 51 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
+| 51 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 |
 | 52 | [Photograph](https://open.spotify.com/track/3hb2ScEVkGchcAQqrPLP0R) | [Nickelback](https://open.spotify.com/artist/6deZN1bslXzeGvOLaLMOIF) | [All the Right Reasons](https://open.spotify.com/album/3eZd2XbhLyPcgbgcsLTZh3) | 4:18 |
-| 53 | [Unwell](https://open.spotify.com/track/6Bm6qUCSatPAqkQllFL7oA) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [More Than You Think You Are](https://open.spotify.com/album/7fv4OVYUiixcwCGDRwvcH8) | 3:48 |
+| 53 | [My Life Would Suck Without You](https://open.spotify.com/track/4Dm32oO01YpIubCHaAtKkN) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [All I Ever Wanted](https://open.spotify.com/album/4h8seeFAi6iYhslcWIxTSG) | 3:31 |
 | 54 | [Maybe Tomorrow](https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0) | [Stereophonics](https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8) | [You Gotta Go There To Come Back](https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8) | 4:32 |
 | 55 | [Gives You Hell](https://open.spotify.com/track/5gb9UJkh8TfrNMRYOJNbew) | [The All\-American Rejects](https://open.spotify.com/artist/3vAaWhdBR38Q02ohXqaNHT) | [When The World Comes Down](https://open.spotify.com/album/5doKZJ05r4UbAp9rmpDRDD) | 3:33 |
 | 56 | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo) | [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin), [Josey Scott](https://open.spotify.com/artist/5mNloTgSaf5qCyk48t9NSP) | [Hero \(feat\. Josey Scott\)](https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa) | 3:20 |

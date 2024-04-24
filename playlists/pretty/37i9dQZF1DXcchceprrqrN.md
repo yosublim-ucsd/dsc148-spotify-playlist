@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 
 > self\-reinvention never sounded so good.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,923 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,975 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcchceprrqrN.md) - [plain]
 | 40 | [Baby Shea](https://open.spotify.com/track/25X6dvLEb2EiZY3U5jciy5) | [Ovlov](https://open.spotify.com/artist/2Iy7tZpp5qQudlg5cbcgH8) | [Buds](https://open.spotify.com/album/2A7lRd0UYJ9k6sOWhXElSS) | 1:37 |
 | 41 | [I Wish I Was Stephen Malkmus](https://open.spotify.com/track/0MXwuLvZU9cauIEXlMZcdC) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [I Wish I Was Stephen Malkmus](https://open.spotify.com/album/75TCL3IpDAOclMk0PveSNM) | 3:51 |
 | 42 | [catalogue](https://open.spotify.com/track/2fjqgNiQI8SbUrfN5yn2GS) | [julie](https://open.spotify.com/artist/3VNzWLePg9jTvQ2ximYOzW) | [catalogue](https://open.spotify.com/album/4Hd9WBZhWgxKGXsH9OWYOc) | 3:14 |
-| 43 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
-| 44 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
+| 43 | [HAMMS IN A GLASS](https://open.spotify.com/track/3249EJWdvR7xuLbXoxvLcJ) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [HAMMS IN A GLASS](https://open.spotify.com/album/2vaTsjE2QylWhDHZs6nTuM) | 2:24 |
+| 44 | [The Same](https://open.spotify.com/track/6feuIpYR8HYHvryrczwxT7) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [Race](https://open.spotify.com/album/3hY0WIR79EKnQcwUsyRy5m) | 2:31 |
 | 45 | [Eye On The Bat](https://open.spotify.com/track/7HRBGUCJQSjsPoYeB96OlM) | [Palehound](https://open.spotify.com/artist/4AgusFXPk24LCGMMplX34M) | [Eye On The Bat](https://open.spotify.com/album/4KQvtMMS3bajTXhra6pSPR) | 2:56 |
 | 46 | [Light On](https://open.spotify.com/track/0QzcgQmOWVT1qqVAsqGFh1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Light On](https://open.spotify.com/album/7J3RuK5FVXZry7VhVU4GaU) | 3:53 |
 | 47 | [Crawling After You](https://open.spotify.com/track/7lHGsPvsdeSD1tRm0faS1o) | [Bass Drum of Death](https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY) | [Bass Drum of Death](https://open.spotify.com/album/5CZ0hRrtBQifqQ1GhHuNgH) | 3:49 |

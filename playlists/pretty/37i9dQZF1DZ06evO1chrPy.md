@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 
 > This is Cage The Elephant\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 164,226 likes - 42 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,256 likes - 42 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 | 13 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 |
 | 14 | [Black Madonna](https://open.spotify.com/track/4Y6GIje3GErVRIq1Ff5BJq) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 3:46 |
 | 15 | [Shake Me Down](https://open.spotify.com/track/1Hb1IJ9bBCa6wo3fRtexnJ) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:31 |
-| 16 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
-| 17 | [Spiderhead](https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:42 |
+| 16 | [Spiderhead](https://open.spotify.com/track/5r5Lj2MkgwQJz6TaBdL865) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Melophobia](https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz) | 3:42 |
+| 17 | [Out Loud](https://open.spotify.com/track/6Yx5Cw2mVmx6LiVP2VXWEO) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Out Loud](https://open.spotify.com/album/2Yoh27G61AmIKH2ubk2RSb) | 3:20 |
 | 18 | [Broken Boy](https://open.spotify.com/track/0RbcDELsGTciLeMGsSdJAc) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 2:43 |
 | 19 | [Sweetie Little Jean](https://open.spotify.com/track/4dpEYOPcmHNfvERbiajp3G) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 3:44 |
 | 20 | [In One Ear](https://open.spotify.com/track/2VRJIIzbhhOGaxAhwCMfZX) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 4:01 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPy.md) - [plain]
 | 41 | [2024](https://open.spotify.com/track/07UdfUFR3Ku3saas0hOJHL) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Thank You Happy Birthday](https://open.spotify.com/album/0WizSRN8LuMWhliou9PFlg) | 3:10 |
 | 42 | [Lotus](https://open.spotify.com/track/3cPLWRuXjNsqqNuZRosZaD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Cage The Elephant \(Expanded Edition\)](https://open.spotify.com/album/7H814Cg8HV0qpoMheYbhNn) | 3:16 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDIzNTIyZWJjY2UzZjI3NzQ1MjhmZDg5NmQwM2VmMWY0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDA2NTAwMjk3NDBhMDVmZGZkMTliMDM2NTViYTYxZTZk`

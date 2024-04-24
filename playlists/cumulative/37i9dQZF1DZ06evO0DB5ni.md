@@ -2,9 +2,9 @@
 
 ### [This Is Julión Álvarez y su Norteño Banda](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0DB5ni)
 
-> This is Julión Álvarez y su Norteño Banda\. The essential tracks, all in one playlist.
+> This Is Julión Álvarez y su Norteño Banda\. Los temas esenciales, todos en una lista.
 
-54 songs - 2 hr 41 min
+55 songs - 2 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [El Aferrado](https://open.spotify.com/track/5H60a1evkC6f1VJ3TCkoIQ) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:43 | 2023-08-08 |  |
 | [El Amor De Su Vida](https://open.spotify.com/track/5zMgWyXawwhTbCh74tiMxD) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 3:39 | 2023-08-08 |  |
 | [El Caminante \- Ranchera](https://open.spotify.com/track/39w2ktw9yLsbloF83yHr2i) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:53 | 2023-08-08 | 2023-12-14 |
+| [El Toro Viejo \- Huapango](https://open.spotify.com/track/62zRGMj7CUz3aN1g3gSev8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 2:52 | 2024-04-24 |  |
 | [Eres Todo Todo \- Bolero](https://open.spotify.com/track/5dY20YYRIPCUd3YUDNGQz8) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Con Banda](https://open.spotify.com/album/2525QjTlcuO1zaYoBCl1Z9) | 3:30 | 2023-08-08 |  |
 | [Eso Si Me Dolió](https://open.spotify.com/track/3rfDkHCYGAwngKxArHz08k) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [El Aferrado](https://open.spotify.com/album/50JOxUvIxX7M3glXWM2Ubi) | 2:14 | 2023-08-08 |  |
 | [Esta Noche Se Me Olvida](https://open.spotify.com/track/6746mUlyXUbMeWzBqMTYEi) | [Julión Álvarez y su Norteño Banda](https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC) | [Ni Diablo Ni Santo](https://open.spotify.com/album/3tBjyyso23umCFWLJPH4o6) | 3:22 | 2023-08-08 |  |

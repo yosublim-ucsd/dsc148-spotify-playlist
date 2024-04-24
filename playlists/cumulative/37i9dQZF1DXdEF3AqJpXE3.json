@@ -34,7 +34,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174293,
       "name": "3 new words",
       "url": "https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr"
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 265360,
       "name": "Agora Hills",
       "url": "https://open.spotify.com/track/7dJYggqjKo71KI9sLzqCs8"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 167000,
       "name": "Alamak Raya Lagi!",
       "url": "https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4"
@@ -711,6 +711,24 @@
     },
     {
       "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
         "name": "Good Side",
         "url": "https://open.spotify.com/album/68gHvyYLpz3rQvl5GJe8ii"
       },
@@ -834,7 +852,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174880,
       "name": "I LUV IT (feat. Playboi Carti)",
       "url": "https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk"
@@ -874,7 +892,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 163598,
       "name": "i wonder... (with Jung Kook of BTS)",
       "url": "https://open.spotify.com/track/3ajU531gR5fW71wqsw4tFX"
@@ -936,6 +954,24 @@
       "duration_ms": 191132,
       "name": "Just Like Dat feat. JP THE WAVY",
       "url": "https://open.spotify.com/track/44jt5m1pRE0rI4VixZbWF6"
+    },
+    {
+      "album": {
+        "name": "Leave You On Read",
+        "url": "https://open.spotify.com/album/2ScVUbSUucYJLD67TNaAnK"
+      },
+      "artists": [
+        {
+          "name": "Iman Fandi",
+          "url": "https://open.spotify.com/artist/2yv1QEWNbHyf6ErJzCNmlg"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189120,
+      "name": "Leave You On Read",
+      "url": "https://open.spotify.com/track/4M3hHNW0KHHtePSk305uLt"
     },
     {
       "album": {
@@ -1074,6 +1110,24 @@
       "duration_ms": 211733,
       "name": "Love U Like That",
       "url": "https://open.spotify.com/track/3rmqiQbzPDx7A8p88IRFKg"
+    },
+    {
+      "album": {
+        "name": "Queen of Tears (Original Television Soundtrack), Pt.4",
+        "url": "https://open.spotify.com/album/0B0JmGO8lQYuqxn02gcFvx"
+      },
+      "artists": [
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244186,
+      "name": "Love You With All My Heart",
+      "url": "https://open.spotify.com/track/0UaaFmF3xUwMjnuAHBq7qL"
     },
     {
       "album": {
@@ -1754,7 +1808,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 154666,
       "name": "Super Shy",
       "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd"
@@ -2312,7 +2366,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 195483,
       "name": "\u6211\u4f1a\u7b49",
       "url": "https://open.spotify.com/track/5Rzpn60KTM11EBETHaF9Kt"

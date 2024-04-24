@@ -4,7 +4,7 @@
 
 > Musiquita, calorcito y pura buena vibra <3
 
-357 songs - 18 hr 57 min
+358 songs - 18 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Cure For Me](https://open.spotify.com/track/33WTgxRdPBQQpVCMXpNxhO) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [The Gods We Can Touch](https://open.spotify.com/album/5z1xjvymitc0DJETtvVmaX) | 3:21 | 2022-10-04 | 2022-11-25 |
 | [cómo dormiste?](https://open.spotify.com/track/3fjN3y5x4hN53rykAN2LHQ) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [cómo dormiste?](https://open.spotify.com/album/2jt6z03JV7Ax8ZdlOrs9BK) | 1:52 | 2022-08-08 |  |
 | [Dance The Night \- From Barbie The Album](https://open.spotify.com/track/1vYXt7VSjH9JIM5oRRo7vA) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Dance The Night \(From Barbie The Album\)](https://open.spotify.com/album/5cH7FqB7JD5q1tJXJ7FHYu) | 2:56 | 2023-06-08 |  |
-| [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-03-02 |  |
+| [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/track/4RAR8g8fZNB106ezUurnE0) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [DNCE](https://open.spotify.com/artist/6T5tfhQCknKG4UnH90qGnz) | [Dancing Feet \(feat\. DNCE\)](https://open.spotify.com/album/2ox5UMCeda9P21urAcoXdt) | 3:35 | 2022-03-02 | 2024-04-24 |
 | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/track/7dRqVQfyBS7D16N6rlfC48) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1) | [Darte Un Beso \- Spotify Singles](https://open.spotify.com/album/7FVJGxdlTGDzeqqbK0W7ML) | 3:15 | 2022-10-03 | 2022-11-25 |
 | [De Nada](https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp) | [Dije Que No Me Iba a Enamorar](https://open.spotify.com/album/4xbpODmwG0GGAVbTA8PH8Y) | 2:16 | 2023-02-21 | 2023-09-23 |
 | [De Party En Party](https://open.spotify.com/track/32sySaZNYdIotrpj9bO4ti) | [Lele Pons](https://open.spotify.com/artist/6i3DxIlAqnDkwELLw4aVrx), [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq) | [Capitulaciones](https://open.spotify.com/album/3S4DjtnPJlQVD2ChDjF3xx) | 2:28 | 2023-06-23 | 2023-07-15 |
@@ -262,6 +262,7 @@
 | [Plan A](https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Plan A](https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg) | 2:58 | 2022-03-25 | 2022-11-09 |
 | [Planes](https://open.spotify.com/track/6r2Ad8YSXzCcUDx4UX0YTI) | [Alex Hoyer](https://open.spotify.com/artist/45ztMs8dTg6GRQ41yY4xtr), [Mario Bautista](https://open.spotify.com/artist/0AspLZGQkP38yddNoD0pLn) | [Planes](https://open.spotify.com/album/4RwD6nFhLc0TqP0w7P0RdM) | 3:21 | 2023-09-23 | 2024-01-27 |
 | [PLAYA DEL INGLÉS](https://open.spotify.com/track/2t6IxTASaSFkZEt61tQ6W6) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [PLAYA DEL INGLÉS](https://open.spotify.com/album/1MgW79L1nRyxWHOCu4nxR9) | 3:57 | 2023-01-13 | 2024-04-06 |
+| [playaplaya](https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [playaplaya](https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ) | 2:45 | 2024-04-23 |  |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-07-23 | 2023-04-20 |
 | [Podemos Intentar](https://open.spotify.com/track/3Mi8RoaiZ6jmPIFkuNkYAg) | [Jesse Baez](https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Amor En Español](https://open.spotify.com/album/1e8k4kAKtcC5GIjfP4JDdR) | 4:11 | 2022-05-06 | 2022-05-20 |
 | [Por Dentro](https://open.spotify.com/track/671fHUAB2n0MocazS1bMB8) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Por Dentro](https://open.spotify.com/album/0eurPgSTFcfvsgGSqIciS4) | 2:45 | 2023-11-30 |  |

@@ -4,7 +4,7 @@
 
 > 今日1日を、元気に迎えるためのプレイリスト！
 
-567 songs - 1 day 7 hr 27 min
+568 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,11 +219,12 @@
 | [Kura Kura](https://open.spotify.com/track/61Go3FTDYWfYCIOocJebUm) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Kura Kura](https://open.spotify.com/album/3OvV8YeT8557GIGzDtEoen) | 3:11 | 2023-10-05 | 2023-10-11 |
 | [L7 Blues](https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR) | [LANA](https://open.spotify.com/artist/4dEHIhldHT2U8CMQ6nNgDT) | [L7 Blues](https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg) | 2:21 | 2023-03-21 | 2023-06-07 |
 | [LA FALDA](https://open.spotify.com/track/7iUtQNMRB8ZkKC4AmEuCJC) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 2:54 | 2023-12-03 | 2023-12-08 |
+| [LA NENA](https://open.spotify.com/track/1XV28AhakcpzWGBmU2j2Ld) | [Lyanno](https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [LA NENA](https://open.spotify.com/album/3BJnF163GYLK8FUDw7Bzuw) | 3:20 | 2024-04-12 |  |
 | [La\_Original.mp3](https://open.spotify.com/track/6VjagyaPDsRal64aHXNIUY) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [La\_Original.mp3](https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN) | 2:20 | 2023-11-09 | 2023-12-01 |
 | [LADY](https://open.spotify.com/track/7w6NWogvAAFdEhD9MA2uvv) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LADY](https://open.spotify.com/album/3VuokauXicAVtmjIhMCXeW) | 3:27 | 2023-03-23 | 2023-08-02 |
 | [Late Night Talking](https://open.spotify.com/track/1qEmFfgcLObUfQm0j1W2CK) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 2:57 | 2023-01-31 |  |
 | [Leave Before You Love Me \(with Jonas Brothers\)](https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Leave Before You Love Me](https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk) | 2:34 | 2023-01-31 |  |
-| [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2023-01-31 |  |
+| [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/track/0mBP9X2gPCuapvpZ7TGDk3) | [Charlie Puth](https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Left and Right \(Feat\. Jung Kook of BTS\)](https://open.spotify.com/album/4LyiYe4wZ6XwzUne79hidF) | 2:34 | 2023-01-31 | 2024-04-24 |
 | [LEFT RIGHT REMIXX \- FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS](https://open.spotify.com/track/4Fd2BjzdKHzrc2uY7zmMar) | [XG](https://open.spotify.com/artist/0LOK81e9H5lr61HlGGHqwA), [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [JAKOPS](https://open.spotify.com/artist/5Rgh1bKqT34PM9G5kYmlgE) | [LEFT RIGHT REMIXX \(FEAT\. CIARA & JACKSON WANG // PROD BY JAKOPS\)](https://open.spotify.com/album/6BYq4jicnLns37lj7By6NX) | 4:31 | 2023-05-09 | 2023-06-30 |
 | [Letters, Lights, Travels On The Streets](https://open.spotify.com/track/4zMi0q2myV2N3OU0xuqR0p) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Letters, Lights, Travels On The Streets](https://open.spotify.com/album/4rSbKbY15PsCF4GtDgrRqR) | 3:05 | 2023-12-19 | 2024-03-06 |
 | [Life](https://open.spotify.com/track/37a5ZqRLzP1msTWdV2fc9q) | [Gen Hoshino](https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs) | [Life](https://open.spotify.com/album/7zPWO2JKcttuUQe2flGSjA) | 3:11 | 2023-08-15 | 2023-09-07 |

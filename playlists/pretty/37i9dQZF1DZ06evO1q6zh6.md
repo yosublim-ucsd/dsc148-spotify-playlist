@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 
 > This is Judas Priest\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 163,985 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 164,013 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 12 | [Lightning Strike](https://open.spotify.com/track/6qopop1Rc9r1RjEIBQhc8d) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:29 |
 | 13 | [Heading Out to the Highway](https://open.spotify.com/track/7sicPw7V9SYJl3Zjme9i4p) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Point Of Entry](https://open.spotify.com/album/02mDd1vg3xHPOxpNYkZIGP) | 3:45 |
 | 14 | [Night Crawler](https://open.spotify.com/track/0MU1TyyAbuoXLGiQBgW9CI) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 5:44 |
-| 15 | [Devil in Disguise](https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 4:46 |
+| 15 | [The Serpent and the King](https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 4:19 |
 | 16 | [Firepower](https://open.spotify.com/track/3uDNzcGyRINKSFedKCvEwB) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Firepower](https://open.spotify.com/album/7p3G0OCxtlWyJcPE1FxnyB) | 3:27 |
 | 17 | [The Sentinel](https://open.spotify.com/track/6noDJ06v7z8bCsBitjxFG2) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 5:02 |
 | 18 | [Hell Patrol](https://open.spotify.com/track/6QKplS12OIhLVzbfCOLesv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) | 3:36 |
-| 19 | [The Serpent and the King](https://open.spotify.com/track/1qX3Aw57OCHcrEoB35nDfr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 4:19 |
+| 19 | [Devil in Disguise](https://open.spotify.com/track/4dRPv5zarv9iZ3exYT739x) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Invincible Shield \(Deluxe Edition\)](https://open.spotify.com/album/0SgF4c7VeFBoATEdpTvgG8) | 4:46 |
 | 20 | [Hell Bent for Leather](https://open.spotify.com/track/0SEd8AUWG3j4YFsFEVmGjW) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Killing Machine](https://open.spotify.com/album/5Ud4v6Y2UC3uNeTdVssXj0) | 2:40 |
 | 21 | [Angel](https://open.spotify.com/track/0HSqXHUdHUbDjWxYIClohv) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Angel Of Retribution](https://open.spotify.com/album/12rTdEhRhwPpV0XJvZW9u1) | 4:24 |
 | 22 | [Metal Gods](https://open.spotify.com/track/0VFfZVCFNe1I2IIChVBR5m) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [British Steel](https://open.spotify.com/album/5bqtZRbUZUxUps8mrO9tGY) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1q6zh6.md) - [plain]
 | 49 | [Rock Hard Ride Free](https://open.spotify.com/track/5KQY3KDpQ3tO29W7iJNfFq) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Defenders Of The Faith](https://open.spotify.com/album/3o0mPpetAFCOIFkUaw1egl) | 5:33 |
 | 50 | [\(Take These\) Chains](https://open.spotify.com/track/3fV1eQ8KNKGF18SYY6UYIr) | [Judas Priest](https://open.spotify.com/artist/2tRsMl4eGxwoNabM08Dm4I) | [Screaming For Vengeance \(Expanded Edition\)](https://open.spotify.com/album/55MZQrenomrTq0aQneC7Pi) | 3:05 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDhhZmRmMWY4MWIzYjk3NjU4NGQzMTFiNmEwMzIyZWQ0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDFkMmVmZjExZTdmZGQyYWY1NWQ0YWRhYzliYWFhODZj`

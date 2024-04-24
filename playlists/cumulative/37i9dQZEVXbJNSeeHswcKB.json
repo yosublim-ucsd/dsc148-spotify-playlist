@@ -3078,7 +3078,7 @@
       ],
       "date_added": "2024-03-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 176178,
       "name": "Before You Leave Me",
       "url": "https://open.spotify.com/track/7qoxdajngC0j9VXrcnephA"
@@ -9358,7 +9358,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210789,
       "name": "Fresh Out The Slammer",
       "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
@@ -11468,7 +11468,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 156297,
       "name": "I Can Fix Him (No Really I Can)",
       "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
@@ -11508,7 +11508,7 @@
       ],
       "date_added": "2024-04-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -12048,7 +12048,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 188143,
       "name": "Illusion",
       "url": "https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX"
@@ -14736,7 +14736,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 277156,
       "name": "loml",
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
@@ -19756,7 +19756,7 @@
       ],
       "date_added": "2023-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 139300,
       "name": "Push Up - Main Edit",
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
@@ -22386,7 +22386,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -24258,7 +24258,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 196900,
       "name": "The Alchemy",
       "url": "https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn"
@@ -24942,10 +24942,28 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {
@@ -25198,6 +25216,24 @@
       "duration_ms": 180098,
       "name": "Treacherous Twins",
       "url": "https://open.spotify.com/track/4Flfb4fGscN9kXPOduQLrv"
+    },
+    {
+      "album": {
+        "name": "Triste",
+        "url": "https://open.spotify.com/album/3suMPYzLzP6gycSb2DOAw8"
+      },
+      "artists": [
+        {
+          "name": "Criss Kayji",
+          "url": "https://open.spotify.com/artist/6W4ekl7JFQvIHUx0OvCtRj"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129473,
+      "name": "Triste",
+      "url": "https://open.spotify.com/track/3TzSNCmaWxle543wvuyQVh"
     },
     {
       "album": {

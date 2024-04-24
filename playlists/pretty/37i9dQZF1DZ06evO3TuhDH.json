@@ -1,12 +1,12 @@
 {
-  "description": "This is Coi Leray\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 15941,
+  "description": "This is Coi Leray. The essential tracks, all in one playlist.",
+  "num_followers": 15946,
   "original_name": "This Is Coi Leray",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDNjYmY3MjRlZjc2ZDRmMGRkYTg0MTZjOWFmMzViYjM0",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDBlMzk0YTE1OTc3NzQ1ZTkyYmEzZmVkYzdlMGFhN2Vl",
   "tracks": [
     {
       "added_at": null,
@@ -247,26 +247,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Now or Never",
-        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
-      },
-      "artists": [
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 208822,
-      "name": "Slide (with Gunna)",
-      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Upnow (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 162386,
       "name": "Upnow (feat. Coi Leray)",
       "url": "https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Now or Never",
+        "url": "https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 208822,
+      "name": "Slide (with Gunna)",
+      "url": "https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI"
     },
     {
       "added_at": null,

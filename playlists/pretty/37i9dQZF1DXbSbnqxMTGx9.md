@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 
 > The ultimate reggae playlist\. Cover: Bob Marley
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,950,798 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,950,387 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 61 | [Graveyard Rock](https://open.spotify.com/track/11nF2K1iXn9Ettln1Nc29b) | [Garland Jeffreys](https://open.spotify.com/artist/6BLhUZMqXO8eXjhToNRteA) | [Reggae Classics](https://open.spotify.com/album/1vVZU5EoAOgo1YUCWcofAP) | 4:35 |
 | 62 | [Fisher Man Dub](https://open.spotify.com/track/50QPOvKYebMWt8EBckwSyl) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Essential Dub Masters](https://open.spotify.com/album/2RzXympOFAsvIXDrqOxhyN) | 3:38 |
 | 63 | [Engine 54](https://open.spotify.com/track/74jDDWXiT7pPEjL7mBYrs3) | [The Ethiopians](https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:37 |
-| 64 | [Winey Winey](https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:52 |
-| 65 | [Illya Kuryakin](https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl) | [Ike Bennett & The Crystalites](https://open.spotify.com/artist/1TA2u2QNYt7wxULMk9uPnZ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
+| 64 | [Illya Kuryakin](https://open.spotify.com/track/55f5wRhUlYivT5RoFulIbl) | [Ike Bennett & The Crystalites](https://open.spotify.com/artist/1TA2u2QNYt7wxULMk9uPnZ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 3:21 |
+| 65 | [Winey Winey](https://open.spotify.com/track/2UOdR8zPhwqpyMmMKMPzzN) | [The Kingstonians](https://open.spotify.com/artist/2NzuDDwo53DigKbHuCZo7C) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:52 |
 | 66 | [Hold Them](https://open.spotify.com/track/2JHyRO7aEJH0UXOjZQ7m0r) | [Roy Shirley](https://open.spotify.com/artist/20SfytGDGLIt4yklvZ38wk) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:47 |
 | 67 | [On The Beach](https://open.spotify.com/track/3b2x5F6wXua5A2zXq4RuAA) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:33 |
 | 68 | [Intensified](https://open.spotify.com/track/34mK7IhVyT10qBzRv5IYSY) | [Desmond Dekker & The Aces](https://open.spotify.com/artist/4fmVPsGxjwP5ruiTEvIcOt) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:43 |
@@ -98,15 +98,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSbnqxMTGx9.md) - [plain]
 | 88 | [54\-46 Was My Number](https://open.spotify.com/track/36aH0Y3Zy5jCRpVLvbXBL7) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Ska & Reggae Classics](https://open.spotify.com/album/3Sy5T1Te55s9B8K4jeOFKK) | 3:10 |
 | 89 | [Sister Big Stuff](https://open.spotify.com/track/028ARUhVE9NpsVPX8V1WWy) | [John Holt](https://open.spotify.com/artist/312pFk2xpEwYWLGPehc4Nu), [The Tommy McCook All Stars](https://open.spotify.com/artist/70X0T8ZeXYHO8wzffEKji3) | [The Treasure Isle Story](https://open.spotify.com/album/2XfmRJBQBboBV0A7Fox7OI) | 2:28 |
 | 90 | [Having A Party](https://open.spotify.com/track/1YAXrOLk7EGfv1tlSnGOqi) | [Lee "Scratch" Perry](https://open.spotify.com/artist/1TsG4AumsMt1Tcq2nHpov9) | [Scratch Came, Scratch Saw, Scratch Conquered](https://open.spotify.com/album/6VPuKF7YpjukpMHEDvvUaA) | 4:40 |
-| 91 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
-| 92 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 91 | [Don't Give Up](https://open.spotify.com/track/2C7V873vI6fomP10lVwcfm) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:18 |
+| 92 | [Let Me Down Easy](https://open.spotify.com/track/41Z1gnggllzvu7qOWTaSTE) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:55 |
 | 93 | [The Tide Is High \- Stereo Version](https://open.spotify.com/track/7056gVvC7P3PpltHgippd2) | [The Paragons](https://open.spotify.com/artist/5sCZ2Gc3nZaE3Cav8WG7WG) | [On the Beach: The Anthology](https://open.spotify.com/album/5OegFjiVvk3WecDO5Bofbw) | 2:41 |
 | 94 | [Wish You Were Here](https://open.spotify.com/track/0oxnbj3KvvMl5khReTSn59) | [Alpha Blondy](https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG) | [Jah Victory](https://open.spotify.com/album/4sE0upD1pABIbeTg4ZXT1Q) | 4:24 |
 | 95 | [Travelling Man \- Version 1](https://open.spotify.com/track/5uhpcQw9HfN4TMmYaAgxmh) | [Techniques](https://open.spotify.com/artist/6pLkHPCOudEqG1cVJXTckJ) | [Let's Do Rocksteady: The Story Of Rocksteady 1966\-68](https://open.spotify.com/album/0XIRzFFCtal4kTZAyqRtyD) | 2:32 |
 | 96 | [Monkey Man](https://open.spotify.com/track/3QMinjF1B7KCqYaSoaagSR) | [The Maytals](https://open.spotify.com/artist/6eHPmq8aR8X4TZIMvrD9Bo) | [Monkey Man](https://open.spotify.com/album/7bttXg6FHq7nVRWbFnkiIP) | 3:44 |
-| 97 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 |
-| 98 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
-| 99 | [Lips of Wine](https://open.spotify.com/track/2Wv7ETWvaAmsQT2hk0Hk76) | [Dennis Brown](https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F) | [Super Reggae & Soul Hits](https://open.spotify.com/album/0IJUDErou9bNaYz6gXkwAP) | 2:43 |
+| 97 | [Sensimilea](https://open.spotify.com/track/21BiCaMzG9Lfs0Pj5ItwX0) | [Barrington Levy](https://open.spotify.com/artist/5mMuiFhh7faS7qxnTLRA6u) | [Poor Man Style](https://open.spotify.com/album/4aWOyq1s7lwbdLjCL7rG2H) | 3:20 |
+| 98 | [Working On a Groovy Thing](https://open.spotify.com/track/2ndv4sCWLXakWkpagG2CqH) | [Alton Ellis](https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi) | [Be True to Yourself: The Godfather of Lover's Rock \(Anthology 1965\-1973\)](https://open.spotify.com/album/2MocD24NCoqCSmf1EaaaQ0) | 4:12 |
+| 99 | [Beat Down Babylon](https://open.spotify.com/track/0mBz5oETbkKgPTHKTt8RHG) | [Junior Byles](https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC) | [Beat Down Babylon](https://open.spotify.com/album/1dqJPOw19SfCBJhnDUYGM9) | 2:35 |
 | 100 | [You Are My Angel](https://open.spotify.com/track/6Gy2y9F3duNtDPZu4vFMfI) | [Horace Andy](https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC) | [The Best of Horace Andy](https://open.spotify.com/album/1BM0bccI4dyYdjhsrndxiv) | 2:52 |
 
 Snapshot ID: `MTcxMjA3MDU5OSwwMDAwMDAwMDMwNjdhYjQyY2I2YWJhYjRlMDU1YjFlZDZjMzczZDIw`

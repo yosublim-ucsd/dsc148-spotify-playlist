@@ -1,6 +1,6 @@
 {
   "description": "killer rock & alternative covers. Cover: Paramore",
-  "num_followers": 675595,
+  "num_followers": 675691,
   "original_name": "Rock Covers",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Garage Inc.",
-        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366466,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Wicked Game",
         "url": "https://open.spotify.com/album/2O2H1tIxeEf4wFCBj7NWtO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 109900,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/7lWkrcZmi7HiKsKjth2T0L"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 366466,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Greatest Hits '93 - '03",
-        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
-      },
-      "artists": [
-        {
-          "name": "311",
-          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
-        }
-      ],
-      "duration_ms": 211693,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/3mtukCAgd0mE260QcBfXAX"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Yellow - Spotify Singles",
         "url": "https://open.spotify.com/album/6lzLiRiEqZHySJVfbv86i0"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 269967,
       "name": "Yellow - Spotify Singles",
       "url": "https://open.spotify.com/track/6VDuCryADxIMCNLCfyovtO"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Greatest Hits '93 - '03",
+        "url": "https://open.spotify.com/album/0OsjlbBaSZFbZnXGAUysMG"
+      },
+      "artists": [
+        {
+          "name": "311",
+          "url": "https://open.spotify.com/artist/41Q0HrwWBtuUkJc7C1Rp6K"
+        }
+      ],
+      "duration_ms": 211693,
+      "name": "Love Song",
+      "url": "https://open.spotify.com/track/3mtukCAgd0mE260QcBfXAX"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
-      },
-      "artists": [
-        {
-          "name": "Sam Fender",
-          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "Waiting For Love - Recorded At RAK Studios, London",
-      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "Iris",
         "url": "https://open.spotify.com/album/1BLQgpr4ttkVWGVQcWaBl7"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 224859,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6yfGW1uvUa3riTuZbf3zed"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/77f0EwaAvS5nremTuOHqZL"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "Waiting For Love - Recorded At RAK Studios, London",
+      "url": "https://open.spotify.com/track/09QyGlxA0Ja6D1dGIjl55c"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 236450,
+      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
         "name": "The Girl With the Dragon Tattoo",
         "url": "https://open.spotify.com/album/0mAK8JyX2On5kLC3VMMgm7"
       },
@@ -1683,22 +1699,6 @@
       "duration_ms": 167508,
       "name": "Immigrant Song",
       "url": "https://open.spotify.com/track/3g5kQgKEllNBUklsmARGg8"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/31LKYg7MAykCp1E7DSRox6"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 236450,
-      "name": "Personal Jesus - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/0KXYrQAqpAREiCi4pB5fO9"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Fortunate Son",
-        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
-      },
-      "artists": [
-        {
-          "name": "The Dead Daisies",
-          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
-        }
-      ],
-      "duration_ms": 203520,
-      "name": "Fortunate Son",
-      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "My Echo, My Shadow, My Covers & Me",
         "url": "https://open.spotify.com/album/7AERvdOdM3KBn5XaCs42dW"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 246695,
       "name": "Beds Are Burning (feat. Tim Mcllrath of Rise Against)",
       "url": "https://open.spotify.com/track/0yTSj2rIX1OeYQJcunbi5N"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Fortunate Son",
+        "url": "https://open.spotify.com/album/0dwQ45RN04LVda7PGdbnbg"
+      },
+      "artists": [
+        {
+          "name": "The Dead Daisies",
+          "url": "https://open.spotify.com/artist/6VDAPUov4yNDHyQlPqrpNH"
+        }
+      ],
+      "duration_ms": 203520,
+      "name": "Fortunate Son",
+      "url": "https://open.spotify.com/track/5DkwgbwtvFzj7ITGkaSGxS"
     },
     {
       "added_at": "2024-04-19 19:49:27",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-04-19 19:49:27",
       "album": {
-        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
-        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
-      },
-      "artists": [
-        {
-          "name": "Eagles Of Death Metal",
-          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
-        }
-      ],
-      "duration_ms": 276013,
-      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
-    },
-    {
-      "added_at": "2024-04-19 19:49:27",
-      "album": {
         "name": "White Room (feat. Jacoby Shaddix)",
         "url": "https://open.spotify.com/album/06y3HY4YTWEQxMPgCK6oEy"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 245757,
       "name": "White Room (feat. Jacoby Shaddix)",
       "url": "https://open.spotify.com/track/1rsQ4JPGrMDAW9OZb4ChL6"
+    },
+    {
+      "added_at": "2024-04-19 19:49:27",
+      "album": {
+        "name": "Blinded By The Light (From \"Super Troopers 2\" Soundtrack)",
+        "url": "https://open.spotify.com/album/35CSAGjxuiLJhGEQ1KoRY9"
+      },
+      "artists": [
+        {
+          "name": "Eagles Of Death Metal",
+          "url": "https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o"
+        }
+      ],
+      "duration_ms": 276013,
+      "name": "Blinded By The Light - From \"Super Troopers 2\" Soundtrack",
+      "url": "https://open.spotify.com/track/3kgtj0csPcN5uqPyEObXu9"
     },
     {
       "added_at": "2024-04-19 19:49:27",

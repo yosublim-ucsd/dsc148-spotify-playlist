@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 seu estilo ser original voc\u00eas j\u00e1 sabem. Foto: Senndy",
-  "num_followers": 137272,
+  "num_followers": 137301,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -979,34 +979,6 @@
     {
       "added_at": "2024-04-19 03:01:00",
       "album": {
-        "name": "Frenesi",
-        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
-      },
-      "artists": [
-        {
-          "name": "Azevedo",
-          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "prodbyiniesta",
-          "url": "https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB"
-        },
-        {
-          "name": "jess beats",
-          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
-        }
-      ],
-      "duration_ms": 221102,
-      "name": "Frenesi",
-      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
-    },
-    {
-      "added_at": "2024-04-19 03:01:00",
-      "album": {
         "name": "Noites",
         "url": "https://open.spotify.com/album/5dmZKe6KkBSPw1xVj0zClb"
       },
@@ -1031,6 +1003,34 @@
       "duration_ms": 211347,
       "name": "Noites",
       "url": "https://open.spotify.com/track/6zaMz0UBbMpa5mi7gdPtgI"
+    },
+    {
+      "added_at": "2024-04-19 03:01:00",
+      "album": {
+        "name": "Frenesi",
+        "url": "https://open.spotify.com/album/6O1uVR0awNrBIW53rEDGMA"
+      },
+      "artists": [
+        {
+          "name": "Azevedo",
+          "url": "https://open.spotify.com/artist/0wopeyG3WHLoKcmrFD2jrY"
+        },
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "prodbyiniesta",
+          "url": "https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB"
+        },
+        {
+          "name": "jess beats",
+          "url": "https://open.spotify.com/artist/7uskxjQtkzfiqHCNIIv3gD"
+        }
+      ],
+      "duration_ms": 221102,
+      "name": "Frenesi",
+      "url": "https://open.spotify.com/track/2zwnREcg5hVy6rGDs5pf02"
     },
     {
       "added_at": "2024-04-19 03:01:00",

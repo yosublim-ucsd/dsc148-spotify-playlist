@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,201 likes - 122 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,204 likes - 122 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 71 | [Hit Me Up \- From "Jem And The Holograms" Soundtrack](https://open.spotify.com/track/4u6drCuARg5ZwD5rl6sFrM) | [Jem and the Holograms](https://open.spotify.com/artist/7HY5Pq3S3lk3y5YfpKTIAL), [Stefanie Scott](https://open.spotify.com/artist/2FYOI01brbNN7gtT58DElr) | [Jem And The Holograms \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7tTLJCkq4iv578yMmHiosv) | 3:36 |
 | 72 | [Light Me Up](https://open.spotify.com/track/7q6HP7HcSGtKjitPKYbKoR) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Light Me Up](https://open.spotify.com/album/7IrJIKRzxLEJDIqg9I4l5z) | 3:37 |
 | 73 | [Sleepwalker](https://open.spotify.com/track/0XjudwHx3iUrMlw52Lty59) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Sleepwalker](https://open.spotify.com/album/6lXSuoJYZwMaEdhATRzdw6) | 4:01 |
-| 74 | [Powered Up](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Powered Up](https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N) | 3:03 |
-| 75 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 74 | [Secret](https://open.spotify.com/track/3XoFbOADtmLAaxivSvV6lU) | [Peach PRC](https://open.spotify.com/artist/006j2rer9tZJCYniu7SaWS) | [Secret](https://open.spotify.com/album/0XwW61D7u1f8Qqi43NBH8m) | 3:08 |
+| 75 | [Powered Up](https://open.spotify.com/track/35YuZV3Fyffqu9fOO2wXtm) | [Cobra Man](https://open.spotify.com/artist/1hOZLmKpSs0uaKbGeiWSf9) | [Powered Up](https://open.spotify.com/album/0vwA08n7McS173xbrwYS1N) | 3:03 |
 | 76 | [Kick Us Out](https://open.spotify.com/track/3h8cs808NAb6YZHtqZW7IR) | [Hyper Crush](https://open.spotify.com/artist/2OHNfsJ6k7pJI3eRxv2dSF) | [Kick Us Out](https://open.spotify.com/album/18n4EfWfNiwhJeQInmEN38) | 3:29 |
 | 77 | [There Will Be Tears](https://open.spotify.com/track/6QbRxKNUQyDyPTwlihggXR) | [Miranda Cosgrove](https://open.spotify.com/artist/3SYGWAHCe31oykdeUPpoJp) | [Sparks Fly Japan Edition](https://open.spotify.com/album/2Tk5k6EEQRf1tZBtLR2H8W) | 3:13 |
 | 78 | [Easy](https://open.spotify.com/track/0HueVzDTD7sTvE7w4S4DZ1) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Bombastic](https://open.spotify.com/album/5dCc6pEo27JNfXbnDcwwf8) | 3:51 |
@@ -131,4 +131,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 121 | [Bad Witches](https://open.spotify.com/track/5v1PfygiFLtzkzzDxRUgm0) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 2:49 |
 | 122 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 
-Snapshot ID: `Mjg1NjQwMzAsMDAwMDAwMDBmMTU2NDU2ZTg0OWZmZjkwNTFlN2YxNTllOTY2MzViOQ==`
+Snapshot ID: `Mjg1NjYzODAsMDAwMDAwMDBmZTUxOTljYjQzZjg0NjU5MDYzY2RlN2U3YWRkODNiMQ==`

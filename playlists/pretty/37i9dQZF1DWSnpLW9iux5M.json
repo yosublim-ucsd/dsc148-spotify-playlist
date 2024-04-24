@@ -1,6 +1,6 @@
 {
   "description": "Celebrate Christmas with these soulful and classic songs sung by some of your favorite Gospel artists.",
-  "num_followers": 61085,
+  "num_followers": 61063,
   "original_name": "Gospel Christmas",
   "owner": {
     "name": "Spotify",
@@ -487,22 +487,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Christmas",
-        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin & The Family",
-          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
-        }
-      ],
-      "duration_ms": 318400,
-      "name": "O Come All Ye Faithful",
-      "url": "https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "One Place Live (Deluxe Edition)",
         "url": "https://open.spotify.com/album/6cfOOffNGtjSR7Ew3TRuZ8"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 137000,
       "name": "Christmas Praise - Live",
       "url": "https://open.spotify.com/track/5rOvqA7zdL4jliyUNHjgNN"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Christmas",
+        "url": "https://open.spotify.com/album/2LEbJTBi1Wi88sb3SWRxg4"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin & The Family",
+          "url": "https://open.spotify.com/artist/7r5eFBPPJjFPy2E1K0VQmd"
+        }
+      ],
+      "duration_ms": 318400,
+      "name": "O Come All Ye Faithful",
+      "url": "https://open.spotify.com/track/4Ck4Qah5oq4a8hyVROESHj"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -559,6 +559,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "Tell God Thank You",
+        "url": "https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ"
+      },
+      "artists": [
+        {
+          "name": "Chicago Mass Choir",
+          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
+        }
+      ],
+      "duration_ms": 218934,
+      "name": "Tell God Thank You",
+      "url": "https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Motown Christmas",
         "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 267666,
       "name": "Angels We Have Heard On High",
       "url": "https://open.spotify.com/track/16WDbS7dNvKGCMoS8tlZLx"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "Tell God Thank You",
-        "url": "https://open.spotify.com/album/3h17JxbTHEzTq55RXgA3DZ"
-      },
-      "artists": [
-        {
-          "name": "Chicago Mass Choir",
-          "url": "https://open.spotify.com/artist/4M506nGvYT0WhG0kbkGrla"
-        }
-      ],
-      "duration_ms": 218934,
-      "name": "Tell God Thank You",
-      "url": "https://open.spotify.com/track/0fEHRLNtuI86lLu02JAXY5"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -875,18 +875,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Christmas with Yolanda Adams",
-        "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
+        "name": "I'll Be Thinking of You",
+        "url": "https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5"
       },
       "artists": [
         {
-          "name": "Yolanda Adams",
-          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
+          "name": "Ted & Sheri",
+          "url": "https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN"
         }
       ],
-      "duration_ms": 247160,
-      "name": "It Came Upon a Midnight Clear",
-      "url": "https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER"
+      "duration_ms": 285069,
+      "name": "I'll Be Thinking of You",
+      "url": "https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -935,18 +935,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "I'll Be Thinking of You",
-        "url": "https://open.spotify.com/album/1aabBowSBelQ7nPqOSbCe5"
+        "name": "Christmas with Yolanda Adams",
+        "url": "https://open.spotify.com/album/2kIjr53nRxMlB1TRqjBQq5"
       },
       "artists": [
         {
-          "name": "Ted & Sheri",
-          "url": "https://open.spotify.com/artist/1SMjYoloIpz6BwCJKgqjEN"
+          "name": "Yolanda Adams",
+          "url": "https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11"
         }
       ],
-      "duration_ms": 285069,
-      "name": "I'll Be Thinking of You",
-      "url": "https://open.spotify.com/track/0qRAekAEOE5cW0EdXKfOYz"
+      "duration_ms": 247160,
+      "name": "It Came Upon a Midnight Clear",
+      "url": "https://open.spotify.com/track/5vSRDbe5QYVeGrug8hFEER"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Infinite Christmas",
-        "url": "https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h"
-      },
-      "artists": [
-        {
-          "name": "Infinity Song",
-          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
-        }
-      ],
-      "duration_ms": 265475,
-      "name": "Beautiful Christmas",
-      "url": "https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Merry Christmas",
         "url": "https://open.spotify.com/album/4nqXQtHR0LvUKpqlqdFiZu"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 198400,
       "name": "MERRY CHRISTMAS",
       "url": "https://open.spotify.com/track/6uNbbgZQjCSetcstGKFGbp"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Infinite Christmas",
+        "url": "https://open.spotify.com/album/3FEZGStis8kVGpnh54NF8h"
+      },
+      "artists": [
+        {
+          "name": "Infinity Song",
+          "url": "https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM"
+        }
+      ],
+      "duration_ms": 265475,
+      "name": "Beautiful Christmas",
+      "url": "https://open.spotify.com/track/4HGqkFupdoozBF91E1MRS0"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
+        "name": "A Soulful Holiday",
+        "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
+      },
+      "artists": [
+        {
+          "name": "Liz Vice",
+          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
+        }
+      ],
+      "duration_ms": 248093,
+      "name": "Deck The Halls",
+      "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
         "name": "Motown Christmas",
         "url": "https://open.spotify.com/album/7J5fdT8gIfcxJ4CV7wH73w"
       },
@@ -1403,22 +1419,6 @@
       "duration_ms": 275373,
       "name": "Song For The Hopeful (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/12cTeug1pE6zXTxZY5tJHj"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "A Soulful Holiday",
-        "url": "https://open.spotify.com/album/79IL2APoL7tNBZqrT9dZpT"
-      },
-      "artists": [
-        {
-          "name": "Liz Vice",
-          "url": "https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx"
-        }
-      ],
-      "duration_ms": 248093,
-      "name": "Deck The Halls",
-      "url": "https://open.spotify.com/track/5UqCQJC8SM1DJXoGyIXfKk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Family Christmas",
-        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
-      },
-      "artists": [
-        {
-          "name": "The Clark Sisters",
-          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
-        }
-      ],
-      "duration_ms": 183973,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "Holiday Love Sounds of Christmas",
         "url": "https://open.spotify.com/album/2ovxcV44GZ2oFfMnaWMoqs"
       },
@@ -1587,18 +1571,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Holiday Love (Radio Edit)",
-        "url": "https://open.spotify.com/album/74W9K9aGmaTKAlwhwYqE0C"
+        "name": "Family Christmas",
+        "url": "https://open.spotify.com/album/3y6kzpy1GnrxR7H1KkGBuh"
       },
       "artists": [
         {
-          "name": "Ted Winn",
-          "url": "https://open.spotify.com/artist/0c86qGuVZWOdEl7Wdr6g4f"
+          "name": "The Clark Sisters",
+          "url": "https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE"
         }
       ],
-      "duration_ms": 170707,
-      "name": "Holiday Love - Radio Edit",
-      "url": "https://open.spotify.com/track/4zo7m7O0dB9oGaqp3Oixqh"
+      "duration_ms": 183973,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/21vPbghHpjCwafsiFEdJuN"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1619,18 +1603,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "A Motown Gospel Christmas",
-        "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
+        "name": "Holiday Love (Radio Edit)",
+        "url": "https://open.spotify.com/album/74W9K9aGmaTKAlwhwYqE0C"
       },
       "artists": [
         {
-          "name": "Gene Moore",
-          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
+          "name": "Ted Winn",
+          "url": "https://open.spotify.com/artist/0c86qGuVZWOdEl7Wdr6g4f"
         }
       ],
-      "duration_ms": 280533,
-      "name": "I'll Be Home For Christmas",
-      "url": "https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR"
+      "duration_ms": 170707,
+      "name": "Holiday Love - Radio Edit",
+      "url": "https://open.spotify.com/track/4zo7m7O0dB9oGaqp3Oixqh"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1651,34 +1635,18 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Christmas at Home with Juanita Bynum",
-        "url": "https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN"
+        "name": "A Motown Gospel Christmas",
+        "url": "https://open.spotify.com/album/5XL7zTVKGrkLNsoux4FSrr"
       },
       "artists": [
         {
-          "name": "Juanita Bynum",
-          "url": "https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV"
+          "name": "Gene Moore",
+          "url": "https://open.spotify.com/artist/5Jx60tG2VWnk1g3aDHDGs6"
         }
       ],
-      "duration_ms": 303853,
-      "name": "It's Christmas Time",
-      "url": "https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/2Av22aITO2k7nSWL0QeRvY"
-      },
-      "artists": [
-        {
-          "name": "Patti LaBelle",
-          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
-        }
-      ],
-      "duration_ms": 305093,
-      "name": "Reason For The Season",
-      "url": "https://open.spotify.com/track/7kAiSopIZQPmJIr2uxhlyP"
+      "duration_ms": 280533,
+      "name": "I'll Be Home For Christmas",
+      "url": "https://open.spotify.com/track/3oKfngho6ZWUTlWN3p5nIR"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1699,6 +1667,38 @@
       "duration_ms": 340666,
       "name": "O What A Night (with Vision)",
       "url": "https://open.spotify.com/track/3r1lK0GxyBJaGORF17XMpL"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/2Av22aITO2k7nSWL0QeRvY"
+      },
+      "artists": [
+        {
+          "name": "Patti LaBelle",
+          "url": "https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn"
+        }
+      ],
+      "duration_ms": 305093,
+      "name": "Reason For The Season",
+      "url": "https://open.spotify.com/track/7kAiSopIZQPmJIr2uxhlyP"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Christmas at Home with Juanita Bynum",
+        "url": "https://open.spotify.com/album/08EkN3rQ57rdy1IoKCR8HN"
+      },
+      "artists": [
+        {
+          "name": "Juanita Bynum",
+          "url": "https://open.spotify.com/artist/7s6c1gQXQCakbFxmgKAQDV"
+        }
+      ],
+      "duration_ms": 303853,
+      "name": "It's Christmas Time",
+      "url": "https://open.spotify.com/track/5uDhl3gqNb5HcqlgUIJTFk"
     },
     {
       "added_at": "2023-12-15 05:00:00",
@@ -1803,26 +1803,6 @@
     {
       "added_at": "2023-12-15 05:00:00",
       "album": {
-        "name": "Joy To The World (feat. Eryka Edmund)",
-        "url": "https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY"
-      },
-      "artists": [
-        {
-          "name": "Charles Butler & Trinity",
-          "url": "https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU"
-        },
-        {
-          "name": "Eryka Edmund",
-          "url": "https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9"
-        }
-      ],
-      "duration_ms": 326297,
-      "name": "Joy To The World (feat. Eryka Edmund)",
-      "url": "https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx"
-    },
-    {
-      "added_at": "2023-12-15 05:00:00",
-      "album": {
         "name": "I'm So Glad It's Christmas",
         "url": "https://open.spotify.com/album/1mDAVcoJ8sJGTWKgVY8GB3"
       },
@@ -1851,6 +1831,26 @@
       "duration_ms": 317933,
       "name": "Hark! The Herald Angels Sing",
       "url": "https://open.spotify.com/track/0KAERzL7Izhd5Knm9EDsnM"
+    },
+    {
+      "added_at": "2023-12-15 05:00:00",
+      "album": {
+        "name": "Joy To The World (feat. Eryka Edmund)",
+        "url": "https://open.spotify.com/album/7nBbkSBamXj4ki3mlr53eY"
+      },
+      "artists": [
+        {
+          "name": "Charles Butler & Trinity",
+          "url": "https://open.spotify.com/artist/5U7TaBluxhgDPNGx2NadSU"
+        },
+        {
+          "name": "Eryka Edmund",
+          "url": "https://open.spotify.com/artist/1VitpzYVY9vaDnqSl0wir9"
+        }
+      ],
+      "duration_ms": 326297,
+      "name": "Joy To The World (feat. Eryka Edmund)",
+      "url": "https://open.spotify.com/track/0AsURWUc8JqeILrFhCRSzx"
     },
     {
       "added_at": "2023-12-15 05:00:00",

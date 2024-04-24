@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: Michelle Maciel & BM.
 
-401 songs - 23 hr 8 min
+402 songs - 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Eterno Amor](https://open.spotify.com/track/3V8XAc2EHbt2M763XhDqQz) | [La Nueva Luna](https://open.spotify.com/artist/6pVmT18pd1QaofDegZUEKX), [El Chino](https://open.spotify.com/artist/2v2KCvSVCWyNTAILymcOAW) | [Eterno Amor](https://open.spotify.com/album/1OBPp3h2p2ZTgoeMWH4rSx) | 4:16 | 2022-01-14 | 2023-10-30 |
 | [Extraño](https://open.spotify.com/track/2Ydtfox8U5t2rob7alFqS0) | [CantoParaBailar](https://open.spotify.com/artist/288dJOiQmxw6pTZ6fqpbiQ) | [Extraño](https://open.spotify.com/album/7vuYSvs3KzgnvIN2xo78Xk) | 2:07 | 2022-03-11 | 2022-04-19 |
 | [Fabricando Fantasías](https://open.spotify.com/track/1R6ug43KqWcVVOnKqKqcRN) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [Fabricando Fantasías](https://open.spotify.com/album/0BbSuC3q9Vy6HM3mpOA1yO) | 3:16 | 2022-01-21 | 2023-08-05 |
-| [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 |  |
+| [Fin de Semana Sin Ti](https://open.spotify.com/track/5hfajhl7a1MNhGMMPDDToN) | [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Fin de Semana Sin Ti](https://open.spotify.com/album/6dK4IkKmd6CSyK69a8pXyE) | 2:23 | 2022-09-23 | 2024-04-24 |
 | [Flor Pálida](https://open.spotify.com/track/0RHhxvjJSe09Ect9Bm6x0Y) | [Coty Hernández](https://open.spotify.com/artist/6yX2GzaudljEEBKfMZpOXE), [Chimy G](https://open.spotify.com/artist/71Lqsw5qYArKXp8jzXFXwf) | [Flor Pálida](https://open.spotify.com/album/3dn6VkMJ77TPV9fscdss79) | 3:26 | 2024-03-15 | 2024-04-13 |
 | [Formula de Amor / Todo Esta en Vos](https://open.spotify.com/track/2TWtjWp7zaw9siAhd2MUVp) | [Sentimiento Urbano](https://open.spotify.com/artist/4fb7ulRyWNBolty2fvgaBx), [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Formula de Amor / Todo Esta en Vos](https://open.spotify.com/album/1A7rfMPCgZk7Ck8HhfdJZQ) | 5:53 | 2022-01-21 | 2022-05-28 |
 | [Frente a Frente](https://open.spotify.com/track/7Ahh52LyZKZbzF7htzn5Ta) | [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [Frente a Frente](https://open.spotify.com/album/6o1KCLmRxWAsBPag7PmJsj) | 3:28 | 2024-04-05 | 2024-04-13 |
@@ -315,6 +315,7 @@
 | [Sigo Enamorado de Ti](https://open.spotify.com/track/58GV7Ukem6jhvnTv5u9YIQ) | [La Liga](https://open.spotify.com/artist/0WG7v7wcDK5ZsUHjnZo9E6), [A Su Manera](https://open.spotify.com/artist/0ZWg0OhnFL02qbG9fIVLbZ) | [Sigo Enamorado de Ti](https://open.spotify.com/album/6marjqP7dKhR7yrkTLECOr) | 2:51 | 2022-02-04 | 2022-07-28 |
 | [Sigues En Mi Vida](https://open.spotify.com/track/68HfjBvYwUAFu3rRAGS1U7) | [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [G Sony](https://open.spotify.com/artist/326diDmb5N6dRV8FUCROuT) | [Sigues En Mi Vida](https://open.spotify.com/album/6g9RsKEGLj7Yz6SSaXDko7) | 2:57 | 2023-09-08 | 2023-09-12 |
 | [Siguiendo La Luna](https://open.spotify.com/track/6P36zQKLdaW8WBUqmmqmpH) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Messirve Mix 7](https://open.spotify.com/album/4eHuMe6gkLf1XkXN3Hu3nS) | 2:44 | 2023-09-08 |  |
+| [Sin Ti No Sé Vivir](https://open.spotify.com/track/2tkeEsJUjKLM1zKeWJ3RqU) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW) | [Una Lluvia De Rosas](https://open.spotify.com/album/3cwMyqMeTxBd26z6AjKGdv) | 3:44 | 2024-04-24 |  |
 | [Sin Valentín](https://open.spotify.com/track/4qjw6B9bJWb3jd0RInF1RY) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Roze Oficial](https://open.spotify.com/artist/2Hxu0Wmd7FUm0euCVInVrN), [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU) | [Sin Valentín](https://open.spotify.com/album/1ZPwG0m0QpSpsPKcmqAJdj) | 2:41 | 2024-02-16 |  |
 | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/track/2xbH0CuDbid800YW5nMPzR) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Karina](https://open.spotify.com/artist/1QZuAtDYNrk2QMogJulsyq), [j mena](https://open.spotify.com/artist/6iYRN5eaz8LSxvwkhmwkRj), [Angela Torres](https://open.spotify.com/artist/6LZA6PhNCwUfHzqfpN1nYL) | [SINVERGÜENZA \- con Angela Torres](https://open.spotify.com/album/2j4yf0X00zieL424k90UVn) | 3:37 | 2023-12-09 |  |
 | [Solo](https://open.spotify.com/track/4BLvE7hQoyWPvvp3Y5YEbz) | [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6) | [Solo](https://open.spotify.com/album/36oATZA0DYBVYdzkpO1V45) | 3:13 | 2023-12-08 | 2024-01-27 |

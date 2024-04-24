@@ -1,12 +1,12 @@
 {
-  "description": "This is Rashid. The essential tracks, all in one playlist.",
-  "num_followers": 46369,
+  "description": "This is Rashid. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 46356,
   "original_name": "This Is Rashid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGI1ZWVkNTIzOTYwYzE0ZDBmZDNiMGE5Zjk3ZjJiMWI1",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGZiNjViZTNhMTQyN2E3ZjE0MjQxNjFmMDRkYWNmMjMx",
   "tracks": [
     {
       "added_at": null,
@@ -719,6 +719,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "Criolo",
+          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
+        }
+      ],
+      "duration_ms": 197633,
+      "name": "Homem do Mundo (feat. Criolo)",
+      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Di\u00e1rio de Bordo 6",
         "url": "https://open.spotify.com/album/3NbugjuhlSg3UudBeYxnu5"
       },
@@ -739,26 +759,6 @@
       "duration_ms": 265763,
       "name": "Di\u00e1rio de Bordo 6",
       "url": "https://open.spotify.com/track/1NhKsK3kPy49YfFyrXaks2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "Criolo",
-          "url": "https://open.spotify.com/artist/37ZflmHTdxkSLQuT8w9NBs"
-        }
-      ],
-      "duration_ms": 197633,
-      "name": "Homem do Mundo (feat. Criolo)",
-      "url": "https://open.spotify.com/track/5MsCM2wH563bsuSkqp5Upb"
     },
     {
       "added_at": null,
@@ -799,6 +799,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hora de Acordar",
+        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 162066,
+      "name": "Linhas Inimigas",
+      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Idas e Vindas",
         "url": "https://open.spotify.com/album/3qEeYYqHLCt9zzu2qil1bZ"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 216100,
       "name": "Idas e Vindas",
       "url": "https://open.spotify.com/track/4Y6MdVgOnurwvWIDNjlNKh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hora de Acordar",
-        "url": "https://open.spotify.com/album/4RvBZPPj3WDzsqjgltbCqS"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 162066,
-      "name": "Linhas Inimigas",
-      "url": "https://open.spotify.com/track/3O3gCy30cJFdbyN9VN6gtB"
     },
     {
       "added_at": null,
@@ -1071,6 +1071,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Coragem da Luz",
+        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
+      },
+      "artists": [
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        }
+      ],
+      "duration_ms": 116660,
+      "name": "C\u00ea J\u00e1 Teve um Sonho?",
+      "url": "https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinais Sessions - Morro Da Urca (Ao Vivo)",
         "url": "https://open.spotify.com/album/0E7yszyv3sZjZkMcw6VLzo"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 192361,
       "name": "Outra Dose 2 - Ao Vivo",
       "url": "https://open.spotify.com/track/6MejtXqCnEjoZKqGvHFAIE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Coragem da Luz",
-        "url": "https://open.spotify.com/album/29zjQC9qL5BEBd9gecQeHl"
-      },
-      "artists": [
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        }
-      ],
-      "duration_ms": 116660,
-      "name": "C\u00ea J\u00e1 Teve um Sonho?",
-      "url": "https://open.spotify.com/track/5JjMSODzrHuLDGjhQf5JNm"
     },
     {
       "added_at": null,

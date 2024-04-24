@@ -2,9 +2,9 @@
 
 ### [This Is Whitney Houston](https://open.spotify.com/playlist/37i9dQZF1DZ06evO476tMI)
 
-> This is Whitney Houston\. The essential tracks, all in one playlist.
+> This Is Whitney Houston\. Los temas esenciales, todos en una lista.
 
-58 songs - 4 hr 14 min
+59 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [For the Love of You](https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 5:31 | 2023-07-28 |  |
 | [Greatest Love of All](https://open.spotify.com/track/6yJxCltgtmGxIgKOS6ndnu) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:51 | 2023-07-28 |  |
 | [Heartbreak Hotel \(feat\. Faith Evans & Kelly Price\)](https://open.spotify.com/track/4J9u7UsXH7F6sFI32KnYuP) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn), [Kelly Price](https://open.spotify.com/artist/49FeZO3eSrJs7oH7lYLU1r) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:41 | 2023-07-28 |  |
+| [Higher Love](https://open.spotify.com/track/1kKYjjfNYxE0YYgLa7vgVY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Golden Hour](https://open.spotify.com/album/7tcs1X9pzFvcLOPuhCstQJ) | 3:48 | 2024-04-24 |  |
 | [Higher Love](https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Higher Love](https://open.spotify.com/album/4wquJImu8RtyEuDtIAsfcE) | 3:48 | 2023-07-28 | 2024-04-14 |
 | [Hold Me \(with Teddy Pendergrass\)](https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 6:00 | 2023-07-28 |  |
 | [How Will I Know](https://open.spotify.com/track/5tdKaKLnC4SgtDZ6RlWeal) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:35 | 2023-07-28 |  |
@@ -62,7 +63,7 @@
 | [When You Believe \- from The Prince of Egypt](https://open.spotify.com/track/0JN7vUgUolHGHFrOR8xk7S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP), [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:32 | 2023-07-28 |  |
 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 | 2023-07-28 |  |
 | [Why Does It Hurt So Bad \- from "Waiting to Exhale" \- Original Soundtrack](https://open.spotify.com/track/6rDQtMkwq8UEIWnhNY2JYx) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [I Wanna Dance With Somebody \(The Movie: Whitney New, Classic and Reimagined\)](https://open.spotify.com/album/00EjgohJGEYfe4vP35LVOv) | 4:37 | 2024-02-01 |  |
-| [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:37 | 2023-07-28 |  |
+| [You Give Good Love](https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 4:37 | 2023-07-28 | 2024-04-24 |
 | [You Light Up My Life](https://open.spotify.com/track/5vXEPFOkx6eugLNxg4YauT) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Just Whitney](https://open.spotify.com/album/1PaUocxapG5ROK0UVvZwNX) | 3:41 | 2023-07-28 |  |
 | [You'll Never Stand Alone](https://open.spotify.com/track/3KFbjIFQxMbOKdZ4S3lv4S) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [My Love Is Your Love](https://open.spotify.com/album/00NABajpGsPCObfcl4LJsM) | 4:20 | 2024-03-06 | 2024-04-21 |
 | [You're Still My Man](https://open.spotify.com/track/2csRQWI7A2FjLYBQBiAIoi) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:16 | 2023-08-19 | 2024-04-13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 
 > La playlist idéale pour vos fêtes cette année!
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,844 likes - 100 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,837 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTEyr4JYwSa7.md) - [plain]
 | 89 | [Noël blanc](https://open.spotify.com/track/0Ic4nb89C5IH81E6KecKpW) | [Brigitte](https://open.spotify.com/artist/3pwoLiEbkKB4c4Vj9Mzypk) | [Encore \(Bonus Album\)](https://open.spotify.com/album/5c5JnPyf5XJtCiyQeHJKGj) | 2:26 |
 | 90 | [On attendait Noël](https://open.spotify.com/track/6G8UzGYZbWTFfThhOmRudY) | [Isabelle Boulay](https://open.spotify.com/artist/5gx3I0a3G8F4hui6GZLfQF) | [On attendait Noël](https://open.spotify.com/album/4WusiC2tPI65QpMbqUQ6GN) | 3:46 |
 | 91 | [Bonjour, Noël!](https://open.spotify.com/track/4LkwLFS4dwvFxU06IUFMbY) | [Patrick Norman](https://open.spotify.com/artist/3eGAOzOuxjhxwi9MeQ7knd) | [Noël sans faim](https://open.spotify.com/album/3aoqwVv7tuZpUlrvo1oZ5b) | 3:26 |
-| 92 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
-| 93 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 |
+| 92 | [Noël au camp](https://open.spotify.com/track/4zyf5yczO1tfFoURy1ztMe) | [Tex Lecor](https://open.spotify.com/artist/0NQFAOqyEmJJi6wFoBJcek) | [Québec love : La collection](https://open.spotify.com/album/25ZA9qudDjAWVjCZw45Ci8) | 3:02 |
+| 93 | [L'oiseau rare](https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU) | [Pierre Lapointe](https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP) | [Chansons hivernales](https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ) | 4:19 |
 | 94 | [Noël sous les tropiques](https://open.spotify.com/track/6UdpNo7Zig2ybaiyOii3aB) | [Cœur De Pirate](https://open.spotify.com/artist/2eRNMtoi82UZUuaL6naDjA) | [Chansons tristes pour Noël](https://open.spotify.com/album/0s238yyfkC4Jr1F7FBeeUI) | 3:16 |
 | 95 | [Nuit de décembre](https://open.spotify.com/track/38XrA6htadkifCubZHAgQ9) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [Mario Pelchat](https://open.spotify.com/artist/3zj5I53p6FGaoNqD9blYuz) | [Nuit de décembre](https://open.spotify.com/album/2vgC6VqFmg9BfXW03vDzL5) | 3:25 |
 | 96 | [Christmas Kisses](https://open.spotify.com/track/2lcchJGDfGrzWAOlbxzulz) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Christmas Kisses](https://open.spotify.com/album/16QyojtQvepl4lllVn5r6Z) | 3:27 |

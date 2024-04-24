@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0bUGQdz5BJG.md) - [plain]
 
 > Music City must\-hears\. Cover: Tucker Wetmore
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,912 likes - 215 songs - 11 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,048 likes - 215 songs - 11 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

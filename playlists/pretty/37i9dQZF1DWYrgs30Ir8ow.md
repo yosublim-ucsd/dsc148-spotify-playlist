@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrgs30Ir8ow.md) - [plain]
 
 > Altijd fris in Fresh Hits\. Cover: Antoon
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,922 likes - 40 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,962 likes - 40 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gezichten](https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:10 |
+| 1 | [Gezichten](https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Gezichten EP](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:10 |
 | 2 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 |
 | 3 | [Naakt Zien](https://open.spotify.com/track/7E7Qhgkd8iGXj4o8l87SGN) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Life After Daddy](https://open.spotify.com/album/4FabIeNicgzy4CJhVzIMzC) | 3:12 |
 | 4 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |

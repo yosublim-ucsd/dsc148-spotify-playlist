@@ -4,7 +4,7 @@
 
 > The full collection of Spotify Singles recordings\. Cover: Sabrina Carpenter
 
-1,177 songs - 2 day 23 hr 38 min
+1,179 songs - 2 day 23 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-05-24 |  |
 | [HandClap \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3VRlXNkZXwodUYo6DU8puS) | [Fitz and The Tantrums](https://open.spotify.com/artist/4AcHt3JxKy59IX7JNNlZn4) | [Spotify Singles](https://open.spotify.com/album/0IHfimWKQ6PMXKEekqHp36) | 3:14 | 2022-01-19 |  |
 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 | 2023-04-28 |  |
-| [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2022-01-19 |  |
+| [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2022-01-19 |  |
 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 | 2022-01-19 |  |
 | [Hardlight \- Spotify Single](https://open.spotify.com/track/45plMyqpekCBl0M8vDxrL6) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/2CrS7PVRbhHm0DPqIDm8fY) | 3:33 | 2022-10-12 | 2024-04-19 |
 | [Hardlight \- Spotify Single](https://open.spotify.com/track/4M1iZuqOD006zoIxyOk5VK) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Spotify Singles](https://open.spotify.com/album/6hhM8QkMhaaplAsFZhY4l0) | 3:33 | 2022-08-17 |  |
@@ -883,6 +883,7 @@
 | [Scott Street \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4qbtwmlqiYAI91GXnrMoFI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Spotify Singles](https://open.spotify.com/album/3k3IHMRB7BZEf9VEh4HZsm) | 5:32 | 2022-07-05 | 2024-04-19 |
 | [Screaming Infidelities \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/21BXnWZKWkbuMBulyq6nIk) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/17z7tsbs0gZi7ASeae9saS) | 4:47 | 2022-10-12 | 2024-04-19 |
 | [Screaming Infidelities \- Recorded at Electric Lady Studios NYC, 2020](https://open.spotify.com/track/2oQzXAcwkpB5BmVqQVldAi) | [Dashboard Confessional](https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY) | [Spotify Singles](https://open.spotify.com/album/31XFdluptfjbWjlvqGbegP) | 4:47 | 2022-01-19 |  |
+| [See My Man \- Spotify Singles](https://open.spotify.com/track/5XjQzyzAbhVGeE4fQCFTaB) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 2:57 | 2024-04-24 |  |
 | [See\-Line Woman \- Spotify Singles](https://open.spotify.com/track/5QTZD7iE8OARObb9egyphr) | [Manizha](https://open.spotify.com/artist/1Y53ZUhXBydAzILo4Qa0s1) | [Spotify Singles](https://open.spotify.com/album/221ORmKMPS8LdMDs3xcSFk) | 3:06 | 2022-01-31 |  |
 | [Sending My Love \- Spotify Singles](https://open.spotify.com/track/1KFHD2MK0wQADYddeed7Qf) | [Chloe x Halle](https://open.spotify.com/artist/0AsThoR4KZSVktALiNcQwW) | [Spotify Singles](https://open.spotify.com/album/7KKRDqdnhfBV61qQ1EVxY2) | 2:53 | 2022-01-19 |  |
 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 | 2022-01-19 |  |
@@ -892,6 +893,7 @@
 | [Sexual \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 3:09 | 2022-01-19 |  |
 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5Js2KuiUtuv5o9eu5hy5s1) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/1iCPl6KTM3OyL2rHgWorNH) | 2:55 | 2022-07-05 | 2024-04-19 |
 | [Shades of Blue \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6eqaU4suKIW8M2P6uDnZSd) | [Yo La Tengo](https://open.spotify.com/artist/5hAhrnb0Ch4ODwWu4tsbpi) | [Spotify Singles](https://open.spotify.com/album/5dJeEVpkKTZ8s9Xr4inHTT) | 2:55 | 2022-01-19 |  |
+| [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 | 2024-04-24 |  |
 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 | 2022-01-19 |  |
 | [Shchedrivka \- Spotify Singles Holiday](https://open.spotify.com/track/5wSKOl9e4iCyCsDoOgBnrz) | [Kalush Orchestra](https://open.spotify.com/artist/6fNkvAT7XRYuIynD5RTSLf) | [Spotify Singles](https://open.spotify.com/album/57257NCkLxYmBi21oDt3zJ) | 2:17 | 2023-07-13 |  |
 | [Shine \- Jim Eno Sessions](https://open.spotify.com/track/0TposDOdKP9MUfn9zxkYUK) | [Mondo Cozmo](https://open.spotify.com/artist/7ybnRZKtRbWQzJfKyYSyh6) | [Spotify Singles](https://open.spotify.com/album/0JSV7pb2t7Krg2ohhZpx5a) | 4:46 | 2022-01-19 |  |

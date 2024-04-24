@@ -6132,7 +6132,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 172264,
       "name": "La Diabla",
       "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
@@ -9556,7 +9556,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 143789,
       "name": "OKI DOKI",
       "url": "https://open.spotify.com/track/4gJfPoMIcSDGY0tMGxm6Fu"
@@ -11411,6 +11411,32 @@
     },
     {
       "album": {
+        "name": "Ride Or Die, Pt. 2",
+        "url": "https://open.spotify.com/album/0KSwPzRWwU14SH8QUCwfM0"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        },
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158728,
+      "name": "Ride Or Die, Pt. 2 (with Villano Antillano & Tokischa)",
+      "url": "https://open.spotify.com/track/5oYVxFt2k4SkVp6wzVsFWN"
+    },
+    {
+      "album": {
         "name": "Merry Christmas From Brenda Lee",
         "url": "https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG"
       },
@@ -12072,7 +12098,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 121339,
       "name": "Serpiente",
       "url": "https://open.spotify.com/track/2OXYYCVlDZfiVtktj00ul5"
@@ -13472,10 +13498,28 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 280253,
       "name": "Tomar para Olvidar",
       "url": "https://open.spotify.com/track/4AzPX0gIFPHYi3nqdmgr7J"
+    },
+    {
+      "album": {
+        "name": "La Primer\u00edsima",
+        "url": "https://open.spotify.com/album/6BYXt8yQaaEmS0w5DPyfyg"
+      },
+      "artists": [
+        {
+          "name": "Armonia 10",
+          "url": "https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 280920,
+      "name": "Tomar para Olvidar",
+      "url": "https://open.spotify.com/track/0Z77XDcHEViKV4ygTdfjrA"
     },
     {
       "album": {

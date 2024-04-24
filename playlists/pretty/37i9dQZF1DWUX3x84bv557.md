@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > De nieuwste Nederlandse pop! Cover: Tino Martin & Anouk
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,901 likes - 65 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,881 likes - 65 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 |
-| 2 | [Fata Morgana](https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:36 |
+| 2 | [Fata Morgana](https://open.spotify.com/track/0ChKnEMUsi8rZts7tGzUi8) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG) | [Gezichten EP](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:36 |
 | 3 | [Un Chance](https://open.spotify.com/track/2r1MMDskd8NazaS6EgIhy8) | [Rolf Sanchez](https://open.spotify.com/artist/3R6VoMjUANEP9wb7fRNXws) | [Un Chance](https://open.spotify.com/album/7D6eElKu2eb6Tf73bnYESd) | 2:52 |
 | 4 | [Juice Voor Je Ziel](https://open.spotify.com/track/7vLUqQuhAyNsXgwYRZsBLy) | [Tabitha](https://open.spotify.com/artist/7iBY1RLWDV5zX9NDNQxurm) | [Juice Voor Je Ziel](https://open.spotify.com/album/58om4xOUZjb2DfY04YTjuc) | 3:38 |
 | 5 | [waarom met haar](https://open.spotify.com/track/2qodcGSBmMVTUhEnbyZ8my) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [in vertrouwen](https://open.spotify.com/album/3ro70qeSO0Liu4kZ3Vldsy) | 3:23 |

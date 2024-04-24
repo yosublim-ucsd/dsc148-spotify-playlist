@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 
 > アイドリッシュセブンの煌びやかな物語を彩る楽曲たちを1つのプレイリストに。Enjoy Music from the game & anime series of “IDOLiSH 7”!  ©アイドリッシュセブン
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,358 likes - 70 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,366 likes - 70 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 22 | [星屑マジック](https://open.spotify.com/track/71wKxVrk9r6LHmfHjPFagJ) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [Re:al Axis](https://open.spotify.com/album/1GL2a2l2jLE3jPcFMn0zQT) | 3:33 |
 | 23 | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/track/69JI7KoDdAFl59LCsg0n84) | [二階堂大和 \(CV.白井悠介\)](https://open.spotify.com/artist/2bs7gIAXdwGgIr7UNVLfrw), [和泉三月 \(CV.代永 翼\)](https://open.spotify.com/artist/7oPep8A9azbYvgnADjeh0c), [六弥ナギ \(CV.江口拓也\)](https://open.spotify.com/artist/3iY2wSNXnl4HozD3jUxo4a), [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [男子タルモノ!〜MATSURI〜](https://open.spotify.com/album/3JAiGYbiI1NoTUZ4lr8sKr) | 3:50 |
 | 24 | [IMPERIAL CHAIN](https://open.spotify.com/track/2aeYYVYK2upJ0gmQ7GosK1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [IMPERIAL CHAIN](https://open.spotify.com/album/5LEMeHQkS5yakdGYSQsbn7) | 4:12 |
-| 25 | [Hidden Region](https://open.spotify.com/track/2sVguUQGlEUWy57DbGuCU1) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Hidden Region](https://open.spotify.com/album/55494sdvbgwzbrFHXTDaDz) | 3:46 |
+| 25 | [BEAUTIFUL PRAYER](https://open.spotify.com/track/76oD3MdvDxa0ohFlYs6OT8) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:25 |
 | 26 | [Labyrinth](https://open.spotify.com/track/34cAYEvx6n7fJ0QYgGGLB1) | [亥清 悠 \(CV.広瀬裕也\)](https://open.spotify.com/artist/2EBlCmAj6xDYiW7o9SPU25) | [Labyrinth](https://open.spotify.com/album/43Nlf7d3oGfdhbfRydrBPt) | 4:35 |
 | 27 | [解決ミステリー](https://open.spotify.com/track/5dT0vSOiMXkDvyXuPTfsEz) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [解決ミステリー](https://open.spotify.com/album/6jCancCmIkHmfKUPKIYsRq) | 3:32 |
 | 28 | [雨](https://open.spotify.com/track/3yd1OZYpQcEAtEILgrInUy) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [雨](https://open.spotify.com/album/23HIRJz1FmBJ7e9rYOrB5k) | 5:23 |
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 32 | [Maybe](https://open.spotify.com/track/141GMEVaptYDUivcj29Cyc) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [Maybe](https://open.spotify.com/album/5urTTSiCw2zt8tjMSyNFkM) | 4:18 |
 | 33 | [BLACK TIGER](https://open.spotify.com/track/2Y5FNhvuFKCrlFRQM2frA1) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [Źenit \- EP](https://open.spotify.com/album/3Z6dyfv6AVK8Zrml0pyHBS) | 3:48 |
 | 34 | [フレフレ!青春賛歌](https://open.spotify.com/track/2HUtzutGkRfBBY3MB59pWY) | [和泉一織 \(CV.増田俊樹\)](https://open.spotify.com/artist/7bVbZHNFI8TkukUSoMcbGj), [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H), [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [フレフレ!青春賛歌](https://open.spotify.com/album/4rjnUjqBUNA7jSKMvjrLal) | 4:29 |
-| 35 | [BEAUTIFUL PRAYER](https://open.spotify.com/track/76oD3MdvDxa0ohFlYs6OT8) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [劇場版アイドリッシュセブン LIVE 4bit Compilation Album "BEYOND THE PERiOD" \(DAY 1\)](https://open.spotify.com/album/5aU6grliqthktT3TlJNm1b) | 4:25 |
+| 35 | [Hidden Region](https://open.spotify.com/track/2sVguUQGlEUWy57DbGuCU1) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [Hidden Region](https://open.spotify.com/album/55494sdvbgwzbrFHXTDaDz) | 3:46 |
 | 36 | [ミライノーツを奏でて](https://open.spotify.com/track/7M63j53cfKSCU6sU8f5rs8) | [Re:vale](https://open.spotify.com/artist/6HZWwafY9e39VNy6gFFgrU) | [ミライノーツを奏でて](https://open.spotify.com/album/0IXeoD6RAPKrCKjPVspPEj) | 4:43 |
 | 37 | [幸せでいて](https://open.spotify.com/track/7pkramzih51h6N9g8Cp3kw) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [REGALITY](https://open.spotify.com/album/1lYrz8KfQ6O2sb31UMtTrU) | 5:00 |
 | 38 | [キズナ](https://open.spotify.com/track/71d2oy4XuSogO3Sp8oyX4K) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [キズナ](https://open.spotify.com/album/2T1yRJR4WYq1ZLQI5Em94B) | 4:06 |
@@ -55,9 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7fmFWnsK8n.md) - [plain]
 | 45 | [4\-ROAR](https://open.spotify.com/track/4yAb7ilxkakHlpVv6Orxxd) | [ŹOOĻ](https://open.spotify.com/artist/2ZJxvizuWt2geMy6D2p3ol) | [einsatZ](https://open.spotify.com/album/596RLm71012YWZ7BYB8Lph) | 3:57 |
 | 46 | [アソシエイト](https://open.spotify.com/track/6qQg1PDO8MyH31zN1EiWio) | [八乙女 楽 \(CV.羽多野 渉\)](https://open.spotify.com/artist/1Zh7pStFEOzflunx2dOgJX) | [アソシエイト](https://open.spotify.com/album/2hC6iFPJQqHplLv89AyRzK) | 4:27 |
 | 47 | [Up to the nines](https://open.spotify.com/track/5WCAE4qLOIDCWd25ySLeCJ) | [九条 天 \(CV.斉藤壮馬\)](https://open.spotify.com/artist/0nD072zUYls8MmYPvUdmBm) | [Up to the nines](https://open.spotify.com/album/1LxWjUZtuezPIfpCjcy9UI) | 3:51 |
-| 48 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
+| 48 | [Monologue Note](https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 4:23 |
 | 49 | [BE AUTHENTIC](https://open.spotify.com/track/7cLY5UFqedwVfzffwZtuJ3) | [TRIGGER](https://open.spotify.com/artist/11h1iiNftmZ7WB33TYOwXH) | [BLACK or WHITE 2022](https://open.spotify.com/album/6AtNchfRNFLy0XSf9yz8RB) | 4:36 |
-| 50 | [Monologue Note](https://open.spotify.com/track/5kDbEBcNHqoVBGuuzi7Tmr) | [逢坂壮五 \(CV.阿部 敦\)](https://open.spotify.com/artist/11hwEQoa3qnxrDkyiurRL5) | [アイドリッシュセブン Collection Album \(vol.2\)](https://open.spotify.com/album/1nYJRCCv6TEbY7KDEFraiN) | 4:23 |
+| 50 | [Four Leaf Ring](https://open.spotify.com/track/1key9yEhxWAu7Xk9LDg9pV) | [四葉 環 \(CV.KENN\)](https://open.spotify.com/artist/0um981dMXp1sPEgdSxzolD) | [Four Leaf Ring](https://open.spotify.com/album/1M4Ieq11pD2nPSSjvtwGIR) | 4:27 |
 | 51 | [Polished](https://open.spotify.com/track/4G3AX1HYUypLWwTMTaWLYZ) | [Iori Izumi \(CV: Toshiki Masuda\)](https://open.spotify.com/artist/4NlsMMsd35fdP2UCzhG1PU), [Mitsuki Izumi \(CV: Tsubasa Yonaga\)](https://open.spotify.com/artist/2plh4dVIRnxmFGnNkHfu6C), [Riku Nanase \(CV: Kensho Ono\)](https://open.spotify.com/artist/0Bq1mg6MFqIr0KpIzE84ZC) | [Polished](https://open.spotify.com/album/0AsMiHzhdfZ5oGQ7cCNNGA) | 4:29 |
 | 52 | [SEPTET for...](https://open.spotify.com/track/3tAYaiZSKIK0DjtFlR1bAb) | [七瀬 陸 \(CV.小野賢章\)](https://open.spotify.com/artist/63rbHQicCyyjZ5yTOuVu6H) | [SEPTET for...](https://open.spotify.com/album/4yyA9hnwHdRGllZt0ULtMZ) | 4:20 |
 | 53 | [miss you...](https://open.spotify.com/track/7GdsInz5oCHoQagRIczvE9) | [MEZZO”](https://open.spotify.com/artist/2ya2zQtAJSzAiQEXLllxv0) | [恋のかけら](https://open.spotify.com/album/2jBadSUvZhUnY53uaeeTK0) | 4:48 |

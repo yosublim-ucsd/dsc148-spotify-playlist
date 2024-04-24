@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1YH0NMJEWHxG6AoyYZivZX">Amy Allen</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,892 likes - 118 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,893 likes - 118 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 36 | [The First One](https://open.spotify.com/track/0eQJy4VAW7AkhKIHzXx3jG) | [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [The First One](https://open.spotify.com/album/6BxGxt7LU2viJ6U2eba5Ix) | 3:08 |
 | 37 | [Need To Know](https://open.spotify.com/track/5VBKZ21vgMcUt9D25Qmh2M) | [Calum Scott](https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX) | [Only Human \(Special Edition\)](https://open.spotify.com/album/2Qm3jtYKIsCVWgpvFiIDX4) | 2:47 |
 | 38 | [Jello](https://open.spotify.com/track/2jaaONYdaOUk8hhhIRIp4A) | [PRETTYMUCH](https://open.spotify.com/artist/5Y8eJDj37KhaEeqbVO7Ag1) | [Jello](https://open.spotify.com/album/4WMrgBWI8uWqp7ilLTfPXx) | 2:57 |
-| 39 | [Name \(feat\. Tori Kelly\)](https://open.spotify.com/track/6EKDPhgCDL2cwRvloAEwSP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 2:39 |
-| 40 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 |
+| 39 | [cut my hair](https://open.spotify.com/track/3YUHxgPuHedoZGt9KfGlqB) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/5YxG0ULdAixTrnzfo60HX4) | 2:55 |
+| 40 | [Name \(feat\. Tori Kelly\)](https://open.spotify.com/track/6EKDPhgCDL2cwRvloAEwSP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Justice \(Triple Chucks Deluxe\)](https://open.spotify.com/album/6mzpIm84OXCBxw6Tuhp1OA) | 2:39 |
 | 41 | [Feel It Twice](https://open.spotify.com/track/39jcp8zJH7nHWbB7Hr3sFJ) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Romance](https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m) | 3:08 |
 | 42 | [Dance \(‘Til You Love Someone Else\)](https://open.spotify.com/track/7ngTmzqa1PylqWUtMWfCgl) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Love Goes](https://open.spotify.com/album/5XCBX16KNYsAe7V5hQV9mC) | 3:45 |
 | 43 | [Hallucinations](https://open.spotify.com/track/6OJogoHnrl8bdsgt2Wv8xi) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:43 |
@@ -100,8 +100,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 90 | [Tension](https://open.spotify.com/track/3CAgSnSpMCLcK20JodIKfE) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Dangerous Levels of Introspection](https://open.spotify.com/album/538BxdI7oOQykSkEtyjhUD) | 4:09 |
 | 91 | [Imagination](https://open.spotify.com/track/3hKp94BXUs5r7xBF3lEkhP) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/44e3xckIbDMtFm8jeZLLZ7) | 3:16 |
 | 92 | [Good to See You Again!](https://open.spotify.com/track/4Db7K5tN93veftHAi7yCeS) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 3:14 |
-| 93 | [Proud](https://open.spotify.com/track/23VjNeSfCkgaN3ED7a5gD0) | [Aaron Carpenter](https://open.spotify.com/artist/2Wp9FcGlXcs7kG67oAxYZA) | [Proud](https://open.spotify.com/album/3JDZegIfe6YrhX9M81Ruqh) | 3:22 |
-| 94 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
+| 93 | [Conditions](https://open.spotify.com/track/7BQdqre9lvLM3HmZ7QPgjU) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Everything I Thought It Was](https://open.spotify.com/album/716B2iWcwoKolCXrqwLGQh) | 4:36 |
+| 94 | [Proud](https://open.spotify.com/track/23VjNeSfCkgaN3ED7a5gD0) | [Aaron Carpenter](https://open.spotify.com/artist/2Wp9FcGlXcs7kG67oAxYZA) | [Proud](https://open.spotify.com/album/3JDZegIfe6YrhX9M81Ruqh) | 3:22 |
 | 95 | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/track/1PZ7VJ7abOVWjzWl19KKnd) | [Peyton List](https://open.spotify.com/artist/3nL1vFhHR6iRgKxadxCQjh) | [Dance Till We Die \(From the Movie ANTHEM of a Teenage Prophet\)](https://open.spotify.com/album/0ewiIwbteCs1p0EjwX2Q7U) | 3:26 |
 | 96 | [Amanda](https://open.spotify.com/track/2jRbNChiY4mcKExiBiAR9j) | [Johnnyswim](https://open.spotify.com/artist/4igDSX1kgfWbVTDCywcBGm) | [Moonlight](https://open.spotify.com/album/5p0GFMS6qjdeC9ZCa95TVP) | 2:56 |
 | 97 | [One](https://open.spotify.com/track/21Xv9HhXnTjsyvwAcCyWhI) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [One](https://open.spotify.com/album/4WQDeihU1K0tdoOqRoYsvW) | 4:11 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFAW2Wx2Q7Fjt.md) - [plain]
 | 117 | [Unsatisfied](https://open.spotify.com/track/51lD9CXjQZlG3GwRRw1MLl) | [Amy Allen](https://open.spotify.com/artist/4Ebm2DC4Spo173X85D1n5x) | [AWW!](https://open.spotify.com/album/12I0nO2QVc1NMLvKqZp3W8) | 3:39 |
 | 118 | [All The Time](https://open.spotify.com/track/3t4RGPHFVjFv24e81KEZ9r) | [Semisonic](https://open.spotify.com/artist/1TqQi97nqeiuOJrIFv5Sw0) | [Little Bit of Sun](https://open.spotify.com/album/2IIZUA4Ey5voQpvhhrOw71) | 4:10 |
 
-Snapshot ID: `Mjg1NjQwMzAsMDAwMDAwMDA5ZjY4MjQwMGNmOGI3YTU3YzJjZmY0YTVlNjU5ZjgxYg==`
+Snapshot ID: `Mjg1NjYzNzksMDAwMDAwMDBhMzAyODg3Y2FiOWY4ZDEwMjMzZjA5MDRlYzZhNzBhYw==`

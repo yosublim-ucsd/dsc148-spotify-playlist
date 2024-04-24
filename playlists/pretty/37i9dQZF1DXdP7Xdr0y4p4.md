@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 
 > An essential list of recent hits of SoGo\.  Cover:  <a href="https://open.spotify.com/artist/2KqWwLQj9ShX6taqgheFxb?si=t4i4AV79QiSGjnj0F5J2cA">The Browns</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,668 likes - 80 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,676 likes - 80 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdP7Xdr0y4p4.md) - [plain]
 | 41 | [Pass Me Not Oh Gentle Saviour](https://open.spotify.com/track/6vgQpJaxOKsgLgZLzMI3kq) | [Eddie Bond](https://open.spotify.com/artist/4p6a47VbiLjsFqZJy92wUE) | [Sings Greatest Country Gospel Hits](https://open.spotify.com/album/5fEKQptqnEDc4dj9pHH8Db) | 2:37 |
 | 42 | [Grace Ain't Fair \- Acoustic Version](https://open.spotify.com/track/2CEBwToSll6HnKr0op8WQH) | [The Nelons](https://open.spotify.com/artist/6qL6hgjCwgoC8VG7MuY7wn) | [Grace Ain't Fair \(Acoustic Version\)](https://open.spotify.com/album/45ijAsVgyLl4kDnTAUeh17) | 3:34 |
 | 43 | [Cast My Care](https://open.spotify.com/track/5DFuyhTAYErvppuImjKHvo) | [The Guardians](https://open.spotify.com/artist/1BQ4qhmBKCLXppZm7LXtYo) | [Come On In](https://open.spotify.com/album/6fomyXP5lxMAmm1yKXmIHV) | 3:51 |
-| 44 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
-| 45 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
+| 44 | [God is Still Good](https://open.spotify.com/track/7M5ZQSYwPKpzlreNgzcyF7) | [McKamey Legacy](https://open.spotify.com/artist/4Zq7rp8K2P5ubqBF0mQZPI) | [McKamey Legacy](https://open.spotify.com/album/6N5d9pij1C406vQ91GptiS) | 2:37 |
+| 45 | [The Lighthouse \- 50 Year Celebration](https://open.spotify.com/track/2ZGDPgfa0rOiRezBCY56qk) | [Ronny Hinson](https://open.spotify.com/artist/6b5TbMekdEbb75ItLBOoRs) | [The Lighthouse \(50 Year Celebration\)](https://open.spotify.com/album/7DTKYFvwOP0q9jBz6OtclE) | 4:22 |
 | 46 | [These Are The Days](https://open.spotify.com/track/5R8RKqIh4EKQKY5U5Q8K8y) | [Kingsmen](https://open.spotify.com/artist/1KqnnHm6UY5FW6UENrzSVX) | [These Are The Days](https://open.spotify.com/album/4NLFC87jCshYTUAz3hbhP6) | 3:18 |
 | 47 | [Give Me Jesus](https://open.spotify.com/track/41fDllXABcR51KZivo6uTx) | [The Talleys](https://open.spotify.com/artist/0xAHllnAJZX2DlM8z2A0hC) | [Give Me Jesus](https://open.spotify.com/album/4FAKPSnfJM5NuV5MzfyLpB) | 3:40 |
 | 48 | [Let the Rain Wash Your Troubles Away](https://open.spotify.com/track/3RWZ0NduK2C8Mn8EpyE8YR) | [The Old Paths](https://open.spotify.com/artist/59FfqLqvVuyo9AIdEnR0HG), [Anthem Edition](https://open.spotify.com/artist/3TwyBg0LHDJKKo3lRkftQ5) | [Music To Your Ears](https://open.spotify.com/album/562jKxonJvoxeSRUj8AQfh) | 4:07 |

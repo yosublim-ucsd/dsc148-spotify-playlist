@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 
 > Chill out and relax to the breeziest hits from the Philippines.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,725,096 likes - 40 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,722,061 likes - 40 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 16 | [Mahika](https://open.spotify.com/track/47sq83n5WN22ZzYnGn8aTy) | [Adie](https://open.spotify.com/artist/1DlYnIiliftt6R21Y5NOW2), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mahika](https://open.spotify.com/album/3WaVt2pLL12vKhAwQgKld4) | 3:21 |
 | 17 | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/track/617TML0prwU24bJPd7uESm) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj), [Alisson Shore](https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ) | [Hoodie \(feat\. Alisson Shore\)](https://open.spotify.com/album/1NwGufXGKSYH6fbENHi7HK) | 2:50 |
 | 18 | [Kailan?](https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Tanong](https://open.spotify.com/album/4SGdL7JyP2wLYp7YpNc1hI) | 3:54 |
-| 19 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 |
-| 20 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
+| 19 | [Imahe](https://open.spotify.com/track/65sEZZaxTjLMD8vNgPoMz5) | [Magnus Haven](https://open.spotify.com/artist/28B54RKpJrEmDoGSTjsfY6) | [Imahe](https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h) | 5:21 |
+| 20 | [Para Sa Sarili](https://open.spotify.com/track/1YTJW80Jn9Yo1QKKBqEu0e) | [Jrldm](https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB) | [Mood Swing](https://open.spotify.com/album/6QAw4b5KeyFCCLOaATGkGU) | 4:22 |
 | 21 | [Pano](https://open.spotify.com/track/08MFgEQeVLF37EyZ7jcwLc) | [Zack Tabudlo](https://open.spotify.com/artist/67IN4cLJ7798gUapyZlmac) | [Pano](https://open.spotify.com/album/1HJ34zQqSqNvZeO2W6dE01) | 4:14 |
 | 22 | [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 |
 | 23 | [surreal](https://open.spotify.com/track/5TT4xi1HEPTkVTO59jY3tz) | [justin](https://open.spotify.com/artist/20XuMlpFudMP9rDHMTkyar) | [surreal](https://open.spotify.com/album/0J9uJlJ6Rc7st5XEYHnESY) | 4:00 |
@@ -47,6 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Jerj8LqApV.md) - [plain]
 | 37 | [Ex](https://open.spotify.com/track/0GHwNr0lqf8jpc9wesmnHo) | [Callalily](https://open.spotify.com/artist/4HOEnLufwAqJ2qoJPVnL01) | [Ex](https://open.spotify.com/album/0qny2u4DXtiOu7ENsopaaA) | 4:39 |
 | 38 | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/track/2pbkyyrJVpo1aiMJOcvlWI) | [Lola Amour](https://open.spotify.com/artist/29zSTMejPhY0m7kwNQ9SPI) | [Huwag Na Huwag Mong Sasabihin](https://open.spotify.com/album/7GZBDFbz4L9aGnegmi8ZtF) | 3:18 |
 | 39 | [Moving Closer](https://open.spotify.com/track/59PCn7ObERln3cPl84CGx6) | [Felip](https://open.spotify.com/artist/2tEFDBihLXytoPl4xdResl) | [Moving Closer](https://open.spotify.com/album/4MVrOj7WGuYoq3CA8c5A9T) | 2:53 |
-| 40 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
+| 40 | [Autumn](https://open.spotify.com/track/6opdgT1roU2ztb2WmXQG1U) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb), [Belle Mariano](https://open.spotify.com/artist/404RA7nuwzYA8WskpMgUp1) | [Autumn](https://open.spotify.com/album/0jgiAyKTHYE4bHbwCSbtV2) | 4:04 |
 
 Snapshot ID: `MTcxMzMzNjY4OSwwMDAwMDAwMGYxOTBlMTVlNWQ5MjU3M2YzMTVmMTM0Y2E2ZDE0Zjhm`

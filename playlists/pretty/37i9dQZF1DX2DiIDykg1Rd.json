@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/jujubballin/\">Juju Watkins</a>",
-  "num_followers": 660,
+  "num_followers": 659,
   "original_name": "JuJu Watkins Taste",
   "owner": {
     "name": "Spotify",
@@ -163,18 +163,22 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "K.T.S.E.",
-        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
+        "name": "Her Loss",
+        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
       },
       "artists": [
         {
-          "name": "Teyana Taylor",
-          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
         }
       ],
-      "duration_ms": 166997,
-      "name": "Gonna Love Me",
-      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
+      "duration_ms": 160821,
+      "name": "Privileged Rappers",
+      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
     },
     {
       "added_at": "2023-01-01 05:00:00",
@@ -195,22 +199,18 @@
     {
       "added_at": "2023-01-01 05:00:00",
       "album": {
-        "name": "Her Loss",
-        "url": "https://open.spotify.com/album/5MS3MvWHJ3lOZPLiMxzOU6"
+        "name": "K.T.S.E.",
+        "url": "https://open.spotify.com/album/0mwf6u9KVhZDCNVyIi6JuU"
       },
       "artists": [
         {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "21 Savage",
-          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          "name": "Teyana Taylor",
+          "url": "https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a"
         }
       ],
-      "duration_ms": 160821,
-      "name": "Privileged Rappers",
-      "url": "https://open.spotify.com/track/7l2nxyx7IkBX5orhkALg0V"
+      "duration_ms": 166997,
+      "name": "Gonna Love Me",
+      "url": "https://open.spotify.com/track/3nXrCAE44KlevAkQB2XWcN"
     },
     {
       "added_at": "2023-01-01 05:00:00",

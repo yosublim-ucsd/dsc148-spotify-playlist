@@ -4,7 +4,7 @@
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-288 songs - 1 day 1 hr 17 min
+289 songs - 1 day 1 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,7 +92,7 @@
 | [Falling Into The Darkness](https://open.spotify.com/track/4jZnHTXCNzmu1fklBFveJe) | [Pribe](https://open.spotify.com/artist/5J41o0l7Wy6ZBc14nts5T4), [Jodie Poye](https://open.spotify.com/artist/6CclapVC4PKNda06Rjrprv) | [Falling Into The Darkness](https://open.spotify.com/album/4Y3ZBubnX08Oz6eVTYEFeX) | 5:57 | 2023-05-26 | 2023-09-15 |
 | [Famous](https://open.spotify.com/track/08rE1xda98LCbl4wpO0bY0) | [Haldolium](https://open.spotify.com/artist/04jffjb4XIfiZ0inFfdX07) | [Famous](https://open.spotify.com/album/3ro1Am5Vrj5ML2zlgOlvIJ) | 6:59 | 2022-04-15 | 2022-07-29 |
 | [Far Away](https://open.spotify.com/track/7kBSg3CM7jQnhBD6D88uJk) | [Jilax](https://open.spotify.com/artist/4JivOD3AVVevayZVBLUk1B), [Crazy Box](https://open.spotify.com/artist/1dRcKuOPCEqKUxF42QSnLP) | [Far Away](https://open.spotify.com/album/4GHpKxv7nMxU4OJ3Yc0Bal) | 4:50 | 2023-10-27 | 2024-03-24 |
-| [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 | 2023-11-25 |  |
+| [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 | 2023-11-25 | 2024-04-24 |
 | [Feel Home](https://open.spotify.com/track/1gsatgs4xQi1FsCzaL50Ma) | [Liquexx](https://open.spotify.com/artist/5v5HDK4ZozQQZJ7NVL8phC), [WoZa](https://open.spotify.com/artist/7AI3OS9LJ0ZD8DfTk0uDej) | [Feel Home](https://open.spotify.com/album/28EWTMUSAatw0LPVz2mCdc) | 4:23 | 2022-04-15 | 2022-05-21 |
 | [Feel It](https://open.spotify.com/track/4teEXJBirbxAB9v5zC1Ix5) | [DNA](https://open.spotify.com/artist/7zN3mEW5QNqsOrDSvONgXs), [Weaver](https://open.spotify.com/artist/5VjIurP1GxiyS5A0yRHiyW) | [Feel It](https://open.spotify.com/album/2VOqFMtSaJVbxhRlegRD7g) | 3:31 | 2022-04-15 |  |
 | [Flame](https://open.spotify.com/track/5y8drYVT8SGRPxEQEEjSts) | [Sighter](https://open.spotify.com/artist/3CfrCyWR2mGwc2ADmr30RM), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Flame](https://open.spotify.com/album/5BRloFEHPzJozlMlwV6HhB) | 5:49 | 2023-11-10 |  |
@@ -251,6 +251,7 @@
 | [The Call](https://open.spotify.com/track/5OxmiELPa75lgDBN5Kuj09) | [Mr\. Nobody](https://open.spotify.com/artist/4J6qnj4HFAbciwpszkh8mm) | [The Call](https://open.spotify.com/album/3LHeVMaE1w7GtJFh4bQWm8) | 5:05 | 2023-03-15 | 2023-07-29 |
 | [The Dream](https://open.spotify.com/track/1QaKngKWfN3844s6ZcFFd9) | [Synthatic](https://open.spotify.com/artist/4ORN5JUsN1ToKCPQk9yc9P), [Basscannon](https://open.spotify.com/artist/2cPWCaC4QYh4t2lc0CDMx8) | [The Dream](https://open.spotify.com/album/3ZRU4hhQRHRqiZekakNMbf) | 5:46 | 2022-06-16 | 2022-06-21 |
 | [The Flute](https://open.spotify.com/track/3CxCYDCB8JCAhqoYGlq8Kf) | [Zanon](https://open.spotify.com/artist/73KIZxbu5TjVzNpslSfqmg) | [The Flute](https://open.spotify.com/album/2Mrn48wJyywIA05mKXbsPl) | 4:47 | 2023-11-10 | 2023-11-26 |
+| [The Hook](https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr) | [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [The Hook](https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q) | 4:45 | 2023-11-25 |  |
 | [The Love](https://open.spotify.com/track/2zcvYKGbJb4wsUfWKId1Iw) | [Reverence](https://open.spotify.com/artist/5iXp3W5x3XiBU55AGhfEYl) | [The Love](https://open.spotify.com/album/48apPEhE41dmuhU9F2zgW9) | 4:56 | 2022-07-15 | 2022-07-19 |
 | [The Oasis \(Zyrus 7 Remix\) \- Original Mix](https://open.spotify.com/track/4b7linw8vhDRiIvxML8k8W) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Zyrus 7](https://open.spotify.com/artist/7EMbA1QfJKIfeDOErntNqu) | [The Oasis \(Zyrus 7 Remix\)](https://open.spotify.com/album/7qIv7wlUoG6JKjD60hYK0U) | 3:29 | 2022-04-15 |  |
 | [The Road I'm On](https://open.spotify.com/track/4mA8VXKSpyfTZ66uuyQnw7) | [Ranji](https://open.spotify.com/artist/6Tu0luJL7EoFv1RsHZP30p), [Bingo Bango](https://open.spotify.com/artist/44luJjfcUtxqDXGs3d9emu) | [The Road I'm On](https://open.spotify.com/album/2LoZ43O8cJ277FZLoGn8UU) | 4:20 | 2022-06-30 |  |

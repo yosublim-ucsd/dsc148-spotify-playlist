@@ -4946,7 +4946,7 @@
       ],
       "date_added": "2021-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 229226,
       "name": "Show Me Love - Radio Version",
       "url": "https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff"
@@ -5838,6 +5838,36 @@
       "duration_ms": 133400,
       "name": "Tom's Diner",
       "url": "https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq"
+    },
+    {
+      "album": {
+        "name": "The Best Of Suzanne Vega - Tried And True",
+        "url": "https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO"
+      },
+      "artists": [
+        {
+          "name": "DNA",
+          "url": "https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL"
+        },
+        {
+          "name": "Suzanne Vega",
+          "url": "https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw"
+        },
+        {
+          "name": "Neal Slateford",
+          "url": "https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2"
+        },
+        {
+          "name": "Nick Batt",
+          "url": "https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl"
+        }
+      ],
+      "date_added": "2024-03-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227866,
+      "name": "Tom's Diner - 7\" Version",
+      "url": "https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC"
     },
     {
       "album": {

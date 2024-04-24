@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 
 > Get into the Eid spirit with this uplifting Eid songs collection.
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,812 likes - 32 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,808 likes - 32 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd7DmVuEZl0w.md) - [plain]
 | 20 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 |
 | 21 | [بابا جه](https://open.spotify.com/track/4eFl2NwlXKqP117RFSGmqI) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi), [Ahmed Wahid](https://open.spotify.com/artist/6dmeENLe1uYPwlRncez1qJ), [Lavinia Nader](https://open.spotify.com/artist/45yMxZ7PMLp4lCcq2rl6CH) | [بابا جه](https://open.spotify.com/album/0GufQQdl0rb9MoWUV8aGsn) | 2:18 |
 | 22 | [Nadl Wa Ayouta](https://open.spotify.com/track/3bAXyTXlTRVQb6phnvqoLe) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [Nadl Wa Ayouta](https://open.spotify.com/album/5m9EAV3iDupQ90jeGYRQRM) | 2:36 |
-| 23 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 |
-| 24 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
+| 23 | [Ya Leilet El Eid](https://open.spotify.com/track/4jFZQhbP8ZDm5eZMdYCPdp) | [Umm Kulthum](https://open.spotify.com/artist/52lsD82iOqGtyfEMqWgk4f) | [Umm Kulthum 21 \- Aghany Film Dananer](https://open.spotify.com/album/2Dci4y4GeSEKWSC9bv1dPi) | 4:55 |
+| 24 | [El Aid Farha](https://open.spotify.com/track/5yxyWoggDlBpifR2DfypC5) | [Safaa Abu El Saod](https://open.spotify.com/artist/1GFCDy4U5mu7Uv39llPL0U) | [El Aid Farha](https://open.spotify.com/album/2eRXLokn0P5UvA9ilaruSD) | 3:35 |
 | 25 | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/track/5hztYzxeTKZgmq5krcKGFx) | [عطار](https://open.spotify.com/artist/0qYgCdqD3rVSoguhaDGGWZ) | [قلبت عك \- تتر مسلسل خالد نور وولده نور خالد](https://open.spotify.com/album/2ntWWRrrjnhW43sw74bnTP) | 2:30 |
 | 26 | [Yalla](https://open.spotify.com/track/6rhd40DNmApnDOGsd4SPQG) | [Ragheb Alama](https://open.spotify.com/artist/6uOgBVYHvqTGAQ5iVHDVT7) | [Yalla](https://open.spotify.com/album/0L9JuitPjP5cGRcyiQ17fx) | 3:02 |
 | 27 | [Eid Bala Qyoud](https://open.spotify.com/track/4wpTGJzGX2NMSo5xiojbmY) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U), [Hamad Alkhazina](https://open.spotify.com/artist/3p0nJ84LCAtFxqIg2zdAcE) | [Eid Bala Qyoud](https://open.spotify.com/album/2XucnWpj84VDUWf1hEGrK8) | 2:39 |

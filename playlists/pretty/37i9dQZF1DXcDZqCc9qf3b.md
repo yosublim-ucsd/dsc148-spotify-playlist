@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Hot Wheels: Let's Race
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,082 likes - 90 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,184 likes - 90 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

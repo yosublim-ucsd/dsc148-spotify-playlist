@@ -602,7 +602,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 256372,
       "name": "A bientot",
       "url": "https://open.spotify.com/track/4Cr43xPo7bwyCcL1g3yVCu"
@@ -5198,7 +5198,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 178426,
       "name": "Cruel Summer",
       "url": "https://open.spotify.com/track/1BxfuPKGuaTgP7aM0Bbdwr"
@@ -13837,6 +13837,24 @@
     },
     {
       "album": {
+        "name": "YOUTH - The 1st Album",
+        "url": "https://open.spotify.com/album/06VXjmfFLNhkSLEe94ROXj"
+      },
+      "artists": [
+        {
+          "name": "DOYOUNG",
+          "url": "https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224866,
+      "name": "Little Light",
+      "url": "https://open.spotify.com/track/1Y5D7m2QtyBdvwvY3gAVNQ"
+    },
+    {
+      "album": {
         "name": "The Chaos Chapter: FIGHT OR ESCAPE",
         "url": "https://open.spotify.com/album/2CjIfWoFITACUOlWGB7os5"
       },
@@ -17762,7 +17780,7 @@
       ],
       "date_added": "2022-07-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 207386,
       "name": "Our Blues, Our Life",
       "url": "https://open.spotify.com/track/2jidjmWNeRmKgLjXhW52Gz"
@@ -18874,7 +18892,7 @@
       ],
       "date_added": "2024-04-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
@@ -23934,7 +23952,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 293048,
       "name": "The Tortured Poets Department",
       "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"

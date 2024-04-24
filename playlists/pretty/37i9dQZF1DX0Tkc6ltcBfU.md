@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Tkc6ltcBfU.md) - [plain]
 
 > The hottest out the south\. Cover: Future & Metro Boomin
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,203,517 likes - 99 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,203,152 likes - 99 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

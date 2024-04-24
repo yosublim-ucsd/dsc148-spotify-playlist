@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 
 > Diese Beats machen garantiert gute Laune!
 
-[Spotify](https://open.spotify.com/user/spotify) - 976,653 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 976,201 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4uPi2roRUwU.md) - [plain]
 | 18 | [Deep In Your Love](https://open.spotify.com/track/0sftzYE0YgPHXrvJyUyGjB) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Deep In Your Love](https://open.spotify.com/album/3QkffLjHLnGMUgMAvrOgrs) | 2:24 |
 | 19 | [Head Down](https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Head Down](https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2) | 2:53 |
 | 20 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |
-| 21 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
-| 22 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 |
+| 21 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 |
+| 22 | [Disconnect](https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Disconnect](https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA) | 2:44 |
 | 23 | [Never Be Lonely](https://open.spotify.com/track/4beKzTMCCMDizozv4Y3Shj) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Never Be Lonely](https://open.spotify.com/album/1DCiXnF1Z9XX4zxYCFytSX) | 2:14 |
 | 24 | [Makeba \- Ian Asher Remix](https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L) | [Jain](https://open.spotify.com/artist/2HHmvvSQ44ePDH7IKVzgK0), [Ian Asher](https://open.spotify.com/artist/5IrxhrMyvZxzgPYrC9j2km) | [Makeba \(Ian Asher Remix\)](https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj) | 2:05 |
 | 25 | [Weekends](https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Weekends](https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh) | 2:07 |

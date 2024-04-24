@@ -1,6 +1,6 @@
 {
   "description": "Let your favorite pop guide you through your daily commute! Cover: Dua Lipa",
-  "num_followers": 420213,
+  "num_followers": 420309,
   "original_name": "Happy Drive",
   "owner": {
     "name": "Spotify",
@@ -151,22 +151,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "\u00f7 (Deluxe)",
         "url": "https://open.spotify.com/album/3T4tUhGYeRNVUGevb0wThu"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 233712,
       "name": "Shape of You",
       "url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Illuminate (Deluxe)",
+        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 199440,
+      "name": "There's Nothing Holdin' Me Back",
+      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -289,22 +289,6 @@
       "url": "https://open.spotify.com/track/2bJvI42r8EF3wxjOuDav4r"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Illuminate",
-        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 187973,
-      "name": "Treat You Better",
-      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Fine Line",
@@ -339,18 +323,34 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
+        "name": "Don't Kill the Magic",
+        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
       },
       "artists": [
         {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          "name": "MAGIC!",
+          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
         }
       ],
-      "duration_ms": 190360,
-      "name": "The Man",
-      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
+      "duration_ms": 224840,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Illuminate",
+        "url": "https://open.spotify.com/album/1ne2D0NxoGyZd31gAM4HNd"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 187973,
+      "name": "Treat You Better",
+      "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -391,18 +391,18 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Don't Kill the Magic",
-        "url": "https://open.spotify.com/album/0RZ4Ct4vegYBmL9g88TBNi"
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/1NAmidJlEaVgA3MpcPFYGq"
       },
       "artists": [
         {
-          "name": "MAGIC!",
-          "url": "https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/6RtPijgfPKROxEzTHNRiDp"
+      "duration_ms": 190360,
+      "name": "The Man",
+      "url": "https://open.spotify.com/track/3RauEVgRgj1IuWdJ9fDs70"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -803,22 +803,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -917,22 +917,6 @@
       "url": "https://open.spotify.com/track/3dhjNA0jGA8vHBQ1VdD6vV"
     },
     {
-      "added_at": "2022-04-13 19:43:54",
-      "album": {
-        "name": "Red (Big Machine Radio Release Special)",
-        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219720,
-      "name": "I Knew You Were Trouble.",
-      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "7/27 (Deluxe)",
@@ -951,6 +935,22 @@
       "duration_ms": 214480,
       "name": "Work from Home (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/4tCtwWceOPWzenK2HAIJSb"
+    },
+    {
+      "added_at": "2022-04-13 19:43:54",
+      "album": {
+        "name": "Red (Big Machine Radio Release Special)",
+        "url": "https://open.spotify.com/album/4jTYApZPMapg56gRycOn0D"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219720,
+      "name": "I Knew You Were Trouble.",
+      "url": "https://open.spotify.com/track/6FB3v4YcR57y4tXFcdxI1E"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "Flicker (Deluxe)",
-        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
-      },
-      "artists": [
-        {
-          "name": "Niall Horan",
-          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-        }
-      ],
-      "duration_ms": 188174,
-      "name": "Slow Hands",
-      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "Se\u00f1orita",
         "url": "https://open.spotify.com/album/2ZaX1FdZCwchXl1QZiD4O4"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 190960,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/0TK2YIli7K1leLovkQiNik"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "Flicker (Deluxe)",
+        "url": "https://open.spotify.com/album/7ahctQBwcSxDdP0fRAPo2p"
+      },
+      "artists": [
+        {
+          "name": "Niall Horan",
+          "url": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+        }
+      ],
+      "duration_ms": 188174,
+      "name": "Slow Hands",
+      "url": "https://open.spotify.com/track/2cOUlop2ZakjOKe4WinesN"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -1209,26 +1209,6 @@
       "url": "https://open.spotify.com/track/5jsw9uXEGuKyJzs0boZ1bT"
     },
     {
-      "added_at": "2021-10-15 04:01:00",
-      "album": {
-        "name": "MONTERO",
-        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212352,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
-    },
-    {
       "added_at": "2021-08-25 20:28:57",
       "album": {
         "name": "Tusa",
@@ -1247,6 +1227,26 @@
       "duration_ms": 200960,
       "name": "Tusa",
       "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "added_at": "2021-10-15 04:01:00",
+      "album": {
+        "name": "MONTERO",
+        "url": "https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212352,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/5Z9KJZvQzH6PFmb8SNkxuk"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "PRISM (Deluxe)",
         "url": "https://open.spotify.com/album/5MQBzs5YlZlE28mD9yUItn"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 223546,
       "name": "Roar",
       "url": "https://open.spotify.com/track/6F5c58TMEs1byxUstkzVeM"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
     },
     {
       "added_at": "2022-04-13 19:43:54",
@@ -3131,22 +3131,6 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
-        "name": "New Light",
-        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 216014,
-      "name": "New Light",
-      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
       },
@@ -3159,6 +3143,22 @@
       "duration_ms": 228093,
       "name": "Rolling in the Deep",
       "url": "https://open.spotify.com/track/1eq1wUnLVLg4pdEfx9kajC"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
+        "name": "New Light",
+        "url": "https://open.spotify.com/album/5fEgDYFPUcvQy21TYoLEZ0"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 216014,
+      "name": "New Light",
+      "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV"
     },
     {
       "added_at": "2021-08-25 20:28:57",
@@ -3247,6 +3247,30 @@
     {
       "added_at": "2021-08-25 20:28:57",
       "album": {
+        "name": "Silver and Gold",
+        "url": "https://open.spotify.com/album/5RG5m64csMJpvGF0wZkQrS"
+      },
+      "artists": [
+        {
+          "name": "Yung Bae",
+          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
+        },
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Pink Sweat$",
+          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
+        }
+      ],
+      "duration_ms": 177538,
+      "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
+      "url": "https://open.spotify.com/track/0xHeGspdxuVIm49iNXDO2u"
+    },
+    {
+      "added_at": "2021-08-25 20:28:57",
+      "album": {
         "name": "Better Days",
         "url": "https://open.spotify.com/album/41pm4Q8TIe9zixjdIuvgBZ"
       },
@@ -3279,30 +3303,6 @@
       "duration_ms": 167232,
       "name": "Never A Good Time",
       "url": "https://open.spotify.com/track/1ZxxfkeHKl0YKcPjKzeS4c"
-    },
-    {
-      "added_at": "2021-08-25 20:28:57",
-      "album": {
-        "name": "Silver and Gold",
-        "url": "https://open.spotify.com/album/5RG5m64csMJpvGF0wZkQrS"
-      },
-      "artists": [
-        {
-          "name": "Yung Bae",
-          "url": "https://open.spotify.com/artist/30FDJPN3RtwJZ20g5YGCRX"
-        },
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Pink Sweat$",
-          "url": "https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t"
-        }
-      ],
-      "duration_ms": 177538,
-      "name": "Silver and Gold (feat. Sam Fischer & Pink Sweat$)",
-      "url": "https://open.spotify.com/track/0xHeGspdxuVIm49iNXDO2u"
     },
     {
       "added_at": "2021-10-01 04:01:00",

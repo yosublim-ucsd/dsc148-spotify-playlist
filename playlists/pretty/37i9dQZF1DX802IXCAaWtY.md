@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 
 > Who doesn't love the 90s?
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,198,158 likes - 70 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,199,246 likes - 70 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 29 | [Missing \- Todd Terry Club Mix / US Radio Edit](https://open.spotify.com/track/5HvLxMeai31mM560lrIITQ) | [Everything But The Girl](https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy), [Todd Terry](https://open.spotify.com/artist/3dE92yGWcrboP1kC5SWyqu) | [Amplified Heart](https://open.spotify.com/album/0WQmpiDN4YZhPRVR3JRjRR) | 4:09 |
 | 30 | [Cotton Eye Joe](https://open.spotify.com/track/0Jg602cHeMCnPez9baacIe) | [Rednex](https://open.spotify.com/artist/22Zqu1yyebVnbve8FxbJ2g) | [Sex & Violins](https://open.spotify.com/album/3MLXp4rTGt1USufyODvXuz) | 3:13 |
 | 31 | [L'amour Toujours \(Small Mix\)](https://open.spotify.com/track/0FkLMOUTkSTPSAYkIXQ579) | [Gigi D'Agostino](https://open.spotify.com/artist/1OAjDaKgg00KCUYqDe68un) | [L'Amour Toujour](https://open.spotify.com/album/3dvjLo2u1kao2ikKIJa6KP) | 4:02 |
-| 32 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 |
-| 33 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
+| 32 | [Baby Baby](https://open.spotify.com/track/4lDKORchTM8Rd0PFQFXTLX) | [Corona](https://open.spotify.com/artist/26T6b8maqEVltcmE4kSDUl) | [The Rhythm of the Night](https://open.spotify.com/album/6rrPmmb2lQd5pNRL6HKBZx) | 3:48 |
+| 33 | [Blue \(Da Ba Dee\) \- Gabry Ponte Ice Pop Radio](https://open.spotify.com/track/2yAVzRiEQooPEJ9SYx11L3) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Europop](https://open.spotify.com/album/54vbD17F1t5q3yHkj1cX37) | 4:43 |
 | 34 | [Everybody Everybody](https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC) | [Black Box](https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW) | [Dreamland](https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl) | 4:07 |
 | 35 | [Hardcore Vibes](https://open.spotify.com/track/0yx5eBLk3AGOH5EruCqLDx) | [Dune](https://open.spotify.com/artist/4u78tFtzvcrrs8kzkXsW4r) | [Dune](https://open.spotify.com/album/5hAcH6CTDKGj43pMhp4iwR) | 3:33 |
 | 36 | [It's a Rainy Day](https://open.spotify.com/track/2pjj239FG6qY3tj6hhjxeC) | [Ice Mc](https://open.spotify.com/artist/5wlyJXaam6QmyDn8qBLZx8) | [Ice 'n' Green](https://open.spotify.com/album/3fSQDORWIQuhjPWZOptkML) | 4:15 |
@@ -62,9 +62,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 52 | [This Is The Way \- Radio Edit](https://open.spotify.com/track/1BBIW3lDfwK9PXOFOedZmo) | [E\-Type](https://open.spotify.com/artist/53I4RAzuXWvaO1vzrCBJbD) | [Made In Sweden](https://open.spotify.com/album/6HaxLemmf6z0xt74wnX8bA) | 3:55 |
 | 53 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd), [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 |
 | 54 | [Bellissima \- Radio Edit](https://open.spotify.com/track/2jBsr5rb8anJ7z4jjbh0bC) | [DJ Quicksilver](https://open.spotify.com/artist/1RSKoT6hnzaLjvL0LCF0ew) | [Ten Top10 90s Hits](https://open.spotify.com/album/4z1UYdtnWVUB2w4TdlzrBz) | 3:14 |
-| 55 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Remixes\)](https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf) | 4:30 |
-| 56 | [Superhero](https://open.spotify.com/track/5w24xZUicD68LjnZvtougC) | [Daze](https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV) | [Super Heroes](https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp) | 3:24 |
-| 57 | [Captain Jack \- Short Mix](https://open.spotify.com/track/09uma8kvpf699ailOSlzds) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [Captain Jack](https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww) | 4:08 |
+| 55 | [Superhero](https://open.spotify.com/track/5w24xZUicD68LjnZvtougC) | [Daze](https://open.spotify.com/artist/0EyQK4yQkyCubak3DZydiV) | [Super Heroes](https://open.spotify.com/album/37Zd5cmnjUQBxfkSe05OTp) | 3:24 |
+| 56 | [Captain Jack \- Short Mix](https://open.spotify.com/track/09uma8kvpf699ailOSlzds) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [Captain Jack](https://open.spotify.com/album/0hpZzIHtMqYBt6RDYnLLww) | 4:08 |
+| 57 | [What Is Love \- 7" Mix](https://open.spotify.com/track/2ahnofp2LbBWDXcJbMaSTu) | [Haddaway](https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma) | [What Is Love \(Remixes\)](https://open.spotify.com/album/0qTVjeVP70YvQG4GctetOf) | 4:30 |
 | 58 | [No More \(I Can't Stand It\)](https://open.spotify.com/track/6JXghpembwocSY1Ky0TxTt) | [Maxx](https://open.spotify.com/artist/6zkbUEItDv8gNXeO5WkkNX) | [To The Maxximum](https://open.spotify.com/album/0DtX7zwNKLUtDWpDFHRVsG) | 4:41 |
 | 59 | [Show me colours](https://open.spotify.com/track/6xRRr4W5VQiQZOVhXzqtIr) | [Masterboy](https://open.spotify.com/artist/76JYFj8E2jcib0XIrnWR6E) | [Colours](https://open.spotify.com/album/5dmEmXqf6kIJPhTcmhItRd) | 4:29 |
 | 60 | [Rhythm Of Love \- Original Radio Edit](https://open.spotify.com/track/7jGrEtwlejqbmRB5La3Abp) | [DJ Sequenza](https://open.spotify.com/artist/5aS5b54NtRuGHbNol5aSCX) | [Rhythm Of Love](https://open.spotify.com/album/4qGFv8BijBeeg1RVyv3LXC) | 3:01 |
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX802IXCAaWtY.md) - [plain]
 | 64 | [Close to You](https://open.spotify.com/track/70DbNpe8D1QnGi92Mo2MK1) | [Fun Factory](https://open.spotify.com/artist/22p5npx84cXYat7kgGocRZ) | [Back to the Factory](https://open.spotify.com/album/6jEa6t77CNNbH9z2Pax5wn) | 3:38 |
 | 65 | [Plastic Dreams \- Radio Edit](https://open.spotify.com/track/7t020iFDoAjNgc4mjUMBAS) | [Jaydee](https://open.spotify.com/artist/2xVsrAmTyLeCvOvPqTo767) | [Plastic Dreams](https://open.spotify.com/album/2vFYX4AbJVY2ZDkNKbABUq) | 3:25 |
 | 66 | [Drill Instructor \- Short Mix](https://open.spotify.com/track/4ypMF4LbWGUbnamCqJc5RO) | [Captain Jack](https://open.spotify.com/artist/1b81zU0IfjHE8krv2IZ0Hf) | [The Mission](https://open.spotify.com/album/6Szz8TwnGxRpFwu1s4v5OB) | 4:14 |
-| 67 | [Max Don't Have Sex with Your Ex](https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7) | [E\-Rotic](https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu) | [The Best Of](https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc) | 3:31 |
-| 68 | [In The Middle Of The Night](https://open.spotify.com/track/0EYSAcArOvu8Pfqo347B2Y) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 6:22 |
+| 67 | [In The Middle Of The Night](https://open.spotify.com/track/0EYSAcArOvu8Pfqo347B2Y) | [Magic Affair](https://open.spotify.com/artist/57wcrAkVrpq3DyUqt6S8Sg) | [Omen \- The Story Continues](https://open.spotify.com/album/6XlL7z7CWAcyVa3RpSRsMb) | 6:22 |
+| 68 | [Max Don't Have Sex with Your Ex](https://open.spotify.com/track/0QLTWps1wXP822ZviasXt7) | [E\-Rotic](https://open.spotify.com/artist/59jv1JLa4XNxXg7uxd04Nu) | [The Best Of](https://open.spotify.com/album/5ydOB7CpJQJmFLKGhtHUCc) | 3:31 |
 | 69 | [The Promise Man](https://open.spotify.com/track/4EM8dAJ8WAU1nHrLfSyekW) | [Basic Element](https://open.spotify.com/artist/30LHVVkGfgsyMZB8vjUwpZ) | [Basic Injection](https://open.spotify.com/album/0RQRqgcfRD9OwHm43UqBfj) | 4:05 |
 | 70 | [I'm Gonna Get You \- Original Flavour Mix](https://open.spotify.com/track/4EzZPB8OujNAeND6C2SduJ) | [Bizarre Inc](https://open.spotify.com/artist/07lbidCU8ZwtNCUrmaO0QU) | [Energique](https://open.spotify.com/album/00kOiUJakqkClL8Zthwa5W) | 5:19 |
 

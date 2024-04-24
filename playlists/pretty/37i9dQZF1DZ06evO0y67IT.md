@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 
 > This is Hawthorne Heights\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,551 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,560 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0y67IT.md) - [plain]
 | 49 | [There Was a Kid, Pt\. 3](https://open.spotify.com/track/5OcOTmTB6Z62Cut8W2bkFs) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Hurt](https://open.spotify.com/album/6Idjpy39IxgsmMOKJsD8EV) | 1:37 |
 | 50 | [Hollywood & Vine](https://open.spotify.com/track/0jK7tJvPWzdG73hnSnQweF) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Skeletons](https://open.spotify.com/album/0j0tF6vPTYbn7gBOTzRYlW) | 2:46 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGY1NjAxNzU3ODk3ZGQ1MzAxYjkwNGQzYzcyOGY4ZTY3`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGU0ODJjZjMxNDQzMDNkODg1ODg4MzRiNTcxYTNkOWY2`

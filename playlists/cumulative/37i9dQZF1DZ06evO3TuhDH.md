@@ -2,7 +2,7 @@
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This is Coi Leray。アーティストの代表曲をひとつのプレイリストに。
+> This is Coi Leray\. The essential tracks, all in one playlist.
 
 92 songs - 4 hr 11 min
 

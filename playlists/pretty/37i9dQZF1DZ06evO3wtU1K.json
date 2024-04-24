@@ -1,12 +1,12 @@
 {
   "description": "This is Tasha Cobbs Leonard. The essential tracks, all in one playlist.",
-  "num_followers": 32961,
+  "num_followers": 32970,
   "original_name": "This Is Tasha Cobbs Leonard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDRkMTBlYjUxMWY2M2ZlZjI5NGE4Yjc2YjYzMTlhNDM3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGY5MjE3ZGY4ZDNiMzgyMmU1NzZmOTk4YTJiMjFlMGYx",
   "tracks": [
     {
       "added_at": null,
@@ -743,8 +743,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Intercession (Live)",
-        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
+        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
+        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
       },
       "artists": [
         {
@@ -752,9 +752,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 164480,
-      "name": "Hallelujah (You Get The Glory) - Live",
-      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
+      "duration_ms": 453173,
+      "name": "No Longer Slaves - Live",
+      "url": "https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heart. Passion. Pursuit.: Live At Passion City Church",
-        "url": "https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN"
+        "name": "Intercession (Live)",
+        "url": "https://open.spotify.com/album/6mDxhi9QChFywX2p0QxL62"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
         }
       ],
-      "duration_ms": 453173,
-      "name": "No Longer Slaves - Live",
-      "url": "https://open.spotify.com/track/3KCr3pq7p5ATgEOc6EypAo"
+      "duration_ms": 164480,
+      "name": "Hallelujah (You Get The Glory) - Live",
+      "url": "https://open.spotify.com/track/0D38RVWdBxZF0JW20kGcX0"
     },
     {
       "added_at": null,
@@ -907,6 +907,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe (Live)",
+        "url": "https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Purpose Worship",
+          "url": "https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH"
+        }
+      ],
+      "duration_ms": 428181,
+      "name": "I've Been Waiting - Live",
+      "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hymns (Live)",
         "url": "https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u"
       },
@@ -927,26 +947,6 @@
       "duration_ms": 426733,
       "name": "It Is Well - Live",
       "url": "https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe (Live)",
-        "url": "https://open.spotify.com/album/2BdsKcBcGGjDzw80RCBaW4"
-      },
-      "artists": [
-        {
-          "name": "Tasha Cobbs Leonard",
-          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
-        },
-        {
-          "name": "Purpose Worship",
-          "url": "https://open.spotify.com/artist/6H7rRqK9JkWBGHB2W8WTCH"
-        }
-      ],
-      "duration_ms": 428181,
-      "name": "I've Been Waiting - Live",
-      "url": "https://open.spotify.com/track/6L8LgoAhA06PgeQbEIvJIv"
     },
     {
       "added_at": null,

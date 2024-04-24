@@ -2535,6 +2535,32 @@
     },
     {
       "album": {
+        "name": "Malare",
+        "url": "https://open.spotify.com/album/3jT3LOUaPkSzj3s3h5p7nF"
+      },
+      "artists": [
+        {
+          "name": "Ramesh Ramamoorthy",
+          "url": "https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz"
+        },
+        {
+          "name": "Sikkil Gurucharan",
+          "url": "https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt"
+        },
+        {
+          "name": "Sanjeev Venkataramanan",
+          "url": "https://open.spotify.com/artist/4oXQTJFc30wSqRRJD1A3zV"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140306,
+      "name": "Malare",
+      "url": "https://open.spotify.com/track/1Yhy3yuMn358yD7LMOU5wW"
+    },
+    {
+      "album": {
         "name": "Malarum Vazhvey",
         "url": "https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn"
       },
@@ -4250,7 +4276,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 214500,
       "name": "Shoe Theriyudha",
       "url": "https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm"

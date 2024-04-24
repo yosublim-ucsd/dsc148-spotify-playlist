@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 
 > Timeless easy listening from the sixties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 355,529 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 355,523 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [For What It's Worth](https://open.spotify.com/track/1qRA5BS78u3gME0loMl9AA) | [Buffalo Springfield](https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr) | [Buffalo Springfield](https://open.spotify.com/album/3PkdGRruLnJ9zCtANiDrpB) | 2:33 |
 | 2 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
-| 3 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
-| 4 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
+| 3 | [Mrs\. Robinson \- From "The Graduate" Soundtrack](https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC) | [Simon & Garfunkel](https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE) | [Bookends](https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2) | 4:04 |
+| 4 | [Son Of A Preacher Man](https://open.spotify.com/track/6ek9SiEj5a65WIs2EV7qiM) | [Dusty Springfield](https://open.spotify.com/artist/5zaXYwewAXedKNCff45U5l) | [Dusty In Memphis](https://open.spotify.com/album/5FRB5oQaHxlDNe6gMGuzu2) | 2:28 |
 | 5 | [Happy Together](https://open.spotify.com/track/1JO1xLtVc8mWhIoE3YaCL0) | [The Turtles](https://open.spotify.com/artist/2VIoWte1HPDbZ2WqHd2La7) | [Happy Together](https://open.spotify.com/album/2pMxs38Y5A0mmHrcu3twvB) | 2:56 |
 | 6 | [Can't Take My Eyes off You](https://open.spotify.com/track/6ft9PAgNOjmZ2kFVP7LGqb) | [Frankie Valli](https://open.spotify.com/artist/3CDKmzJu6uwEGnPLLZffpD) | [The Very Best of Frankie Valli & The 4 Seasons](https://open.spotify.com/album/0NUEQILaBzavnzcMEs4buZ) | 3:23 |
 | 7 | [Be My Baby](https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5) | [The Ronettes](https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo) | [Be My Baby: The Very Best of The Ronettes](https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV) | 2:40 |
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZWYUuTGjjhE.md) - [plain]
 | 23 | [Rhythm of the Rain](https://open.spotify.com/track/7GHf8dQ2wA71wYOuRsQCZP) | [The Cascades](https://open.spotify.com/artist/6qF0CJP412Gd50Rn1sFg2o) | [Rhythm Of The Rain](https://open.spotify.com/album/0JdsCjqgkPenYahT4NoE17) | 2:26 |
 | 24 | [Then He Kissed Me](https://open.spotify.com/track/7jeOETwLUP84mPQzxlD5nh) | [The Crystals](https://open.spotify.com/artist/7rewR1TVjhisjI6gauUamf) | [Da Doo Ron Ron: The Very Best of The Crystals](https://open.spotify.com/album/11ho9FxQbJjMbQn1P1yWpm) | 2:38 |
 | 25 | [Going Up The Country](https://open.spotify.com/track/57460SJgSpCXaRJ9YIYHxy) | [Canned Heat](https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU) | [The Best Of Canned Heat](https://open.spotify.com/album/0TBmLh3U5sk1F8eF0twjwi) | 2:51 |
-| 26 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
-| 27 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
+| 26 | [\(Sittin' On\) the Dock of the Bay](https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc) | [Otis Redding](https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm) | [The Dock of the Bay](https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr) | 2:46 |
+| 27 | [Knock on Wood](https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c) | [Eddie Floyd](https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF) | [Knock On Wood](https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF) | 3:09 |
 | 28 | [I Can't Help Myself \(Sugar Pie, Honey Bunch\)](https://open.spotify.com/track/3aSWQJcWnnqgwYbAgidvlV) | [Four Tops](https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4) | [The Definitive Collection](https://open.spotify.com/album/348K6QH725oW2W78lvSy1Y) | 2:43 |
 | 29 | [Crying](https://open.spotify.com/track/6eLL7QTdMWdhhG4i3jHDR9) | [Roy Orbison](https://open.spotify.com/artist/0JDkhL4rjiPNEp92jAgJnS) | [Crying](https://open.spotify.com/album/21REQ6X34DCAcoxtj654TI) | 2:46 |
 | 30 | [Different Drum](https://open.spotify.com/track/3k63RLvRgkgPGx0keOH3P6) | [Stone Poneys](https://open.spotify.com/artist/2X9nnux4eS3CFBDSjcnoBQ), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc) | [Evergreen, Vol.2](https://open.spotify.com/album/2FrEXjdS2mZO6sx6pA5MbY) | 2:39 |

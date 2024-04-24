@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 
 > Grind day motivation
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,238 likes - 80 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,340 likes - 80 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ67NucVVTxV.md) - [plain]
 | 68 | [Psalm 23](https://open.spotify.com/track/2EkJ4Qr99JOGQYCKbpyxdh) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [Psalm 23](https://open.spotify.com/album/48bDFlqazdDSVr7k4pbT1w) | 2:31 |
 | 69 | [If They Are Real](https://open.spotify.com/track/4nlA1i2haXMOxCHBRAVx2j) | [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [If They Are Real](https://open.spotify.com/album/3mlV93Na9JR8MeusKzDwEF) | 3:42 |
 | 70 | [Sober \(Soo Bad\)](https://open.spotify.com/track/1oXiXYq3yaWcMZueIwglk8) | [Fameye](https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L), [Patoranking](https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq) | [Sober \(Soo Bad\)](https://open.spotify.com/album/2OGRwWN158HOar0I9g2lzU) | 3:40 |
-| 71 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
+| 71 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
 | 72 | [Photocopy Reimagined](https://open.spotify.com/track/4JkLzZ2LUIYEZGyihLPUMM) | [Id Cabasa](https://open.spotify.com/artist/3UEwKs997VRicCpjEYTprR), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1), [9ice](https://open.spotify.com/artist/0AJdNiFdUdmiU2TNg5fSzH) | [Photocopy Reimagined](https://open.spotify.com/album/6SVFAaB0lYnMKMwsmmqZc1) | 2:18 |
 | 73 | [Stir It Up](https://open.spotify.com/track/5b6FLRw2gZCibFy6cwuV8h) | [Kojo Trilla](https://open.spotify.com/artist/7mmtBuQzPDjAzgiyYFJO55), [Essumann](https://open.spotify.com/artist/5bIgrR7520MmcNA4gMGPc1) | [Stir It Up](https://open.spotify.com/album/7AnoShLl9Bco7Rv8HPPnuP) | 2:51 |
 | 74 | [Money](https://open.spotify.com/track/4Keazb2IMSuk05NiI2D2qE) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Money](https://open.spotify.com/album/5IIpueCw1R42hUMXesOxXS) | 2:45 |

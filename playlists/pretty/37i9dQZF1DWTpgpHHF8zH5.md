@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 
 > Musica per sorridere, darti la carica e affrontare la giornata!
 
-[Spotify](https://open.spotify.com/user/spotify) - 332,084 likes - 95 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 331,945 likes - 95 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTpgpHHF8zH5.md) - [plain]
 | 53 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 |
 | 54 | [Almost \(Sweet Music\)](https://open.spotify.com/track/7uttm8Iurm5uK67Vr9G2Sp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Wasteland, Baby!](https://open.spotify.com/album/5j1ZsFyNCsnt62prbs85eE) | 3:37 |
 | 55 | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/track/7fjPGuy2gOewuexxESLnZI) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [This Hell \(feat\. CHANMINA \- Gyarupi Remix \- Spotify Singles\)](https://open.spotify.com/album/2xhHdH0oewG14bccr9WKq6) | 3:56 |
-| 56 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
-| 57 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
+| 56 | [Work With My Love](https://open.spotify.com/track/6PX5CRJFn24G3cypjNO6yw) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Work With My Love](https://open.spotify.com/album/4RYjQmimUQhS5R1wgPUUcJ) | 2:30 |
+| 57 | [I GOT YOU](https://open.spotify.com/track/35dhwUoJNlxrPyEIJkfDnx) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [I GOT YOU](https://open.spotify.com/album/6RZHj6L3NqrvcKeiBHQbjL) | 2:53 |
 | 58 | [The Feeling](https://open.spotify.com/track/6W9qtw3ddhkYznaOxB50p8) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [The Feeling](https://open.spotify.com/album/4Ec0qA1sxuX6vrViAwkxxG) | 2:33 |
 | 59 | [Take You Dancing](https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Take You Dancing](https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly) | 3:10 |
 | 60 | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6) | [Happier \(feat\. Clementine Douglas\)](https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o) | 2:50 |

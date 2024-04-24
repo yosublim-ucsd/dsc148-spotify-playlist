@@ -1,6 +1,6 @@
 {
   "description": "Otherworldly voices in the realms of ambient. Cover: Grouper",
-  "num_followers": 53866,
+  "num_followers": 53919,
   "original_name": "ethereal voices",
   "owner": {
     "name": "Spotify",
@@ -179,6 +179,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "a mother's daughter",
+        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
+      },
+      "artists": [
+        {
+          "name": "Mieke",
+          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
+        }
+      ],
+      "duration_ms": 168250,
+      "name": "a mother's daughter",
+      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Alter",
         "url": "https://open.spotify.com/album/4XO3DdBAjIIe6YI2a7iLza"
       },
@@ -195,22 +211,6 @@
       "duration_ms": 566208,
       "name": "Entwined",
       "url": "https://open.spotify.com/track/72ZO0CYg5BlPog6MszQcpC"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "a mother's daughter",
-        "url": "https://open.spotify.com/album/4fpCCi45NumQGmKMBSIWsS"
-      },
-      "artists": [
-        {
-          "name": "Mieke",
-          "url": "https://open.spotify.com/artist/4fkw2l0onbOteLSmeSTcW4"
-        }
-      ],
-      "duration_ms": 168250,
-      "name": "a mother's daughter",
-      "url": "https://open.spotify.com/track/5J0vNzIHn2ruZ8wPEAfdPN"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -519,22 +519,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Closer Now",
-        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
-      },
-      "artists": [
-        {
-          "name": "Earth Trax",
-          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
-        }
-      ],
-      "duration_ms": 282920,
-      "name": "Closer Now",
-      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Afraid",
         "url": "https://open.spotify.com/album/41CXQpu3hZG8s5t6UQO1Eg"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 226640,
       "name": "Afraid",
       "url": "https://open.spotify.com/track/0xp3MdGRrVVtBzJ7hgNzC2"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Closer Now",
+        "url": "https://open.spotify.com/album/3H2NuBvHJqFz0CsWLXpezC"
+      },
+      "artists": [
+        {
+          "name": "Earth Trax",
+          "url": "https://open.spotify.com/artist/2aIG9sDL3yGi38BST8RNmQ"
+        }
+      ],
+      "duration_ms": 282920,
+      "name": "Closer Now",
+      "url": "https://open.spotify.com/track/7Gjdqr0xvbe8IR2Dc28wTr"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Cliodynamics",
-        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
-      },
-      "artists": [
-        {
-          "name": "Astrid Sonne",
-          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
-        }
-      ],
-      "duration_ms": 238145,
-      "name": "Strong, Calm, Slow",
-      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Ithaca",
         "url": "https://open.spotify.com/album/0UOV2tQMqRHkO4NZLiBEfS"
       },
@@ -971,18 +955,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Waving",
-        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
+        "name": "Cliodynamics",
+        "url": "https://open.spotify.com/album/6K2aexjzxXsEHHl7e6Yeg6"
       },
       "artists": [
         {
-          "name": "Nebno",
-          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
+          "name": "Astrid Sonne",
+          "url": "https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689"
         }
       ],
-      "duration_ms": 245636,
-      "name": "Waving",
-      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
+      "duration_ms": 238145,
+      "name": "Strong, Calm, Slow",
+      "url": "https://open.spotify.com/track/32AKEpYYeBd6C21XlviUKn"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1007,18 +991,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Ode to the blue",
-        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+        "name": "Waving",
+        "url": "https://open.spotify.com/album/6F5Qae0yAmB2nO8QRPVhOK"
       },
       "artists": [
         {
-          "name": "Grouper",
-          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+          "name": "Nebno",
+          "url": "https://open.spotify.com/artist/3sb9YxHMKqnzyLM89FzoWf"
         }
       ],
-      "duration_ms": 173625,
-      "name": "Ode to the blue",
-      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
+      "duration_ms": 245636,
+      "name": "Waving",
+      "url": "https://open.spotify.com/track/2IwTXSns7feJ8H5hQL4LUk"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1039,6 +1023,22 @@
       "duration_ms": 444000,
       "name": "Bright Girl",
       "url": "https://open.spotify.com/track/6ULNDapgfYtl8IW4KzhmCd"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Ode to the blue",
+        "url": "https://open.spotify.com/album/5YdPZEQQuytQU25R7UikhO"
+      },
+      "artists": [
+        {
+          "name": "Grouper",
+          "url": "https://open.spotify.com/artist/31uyAcnY0kjjKKIQZMKX4i"
+        }
+      ],
+      "duration_ms": 173625,
+      "name": "Ode to the blue",
+      "url": "https://open.spotify.com/track/4zJuP4wQuTFOazKrYTL7Vh"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1279,18 +1279,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Forward / Wreck Dive",
-        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
+        "name": "Languoria",
+        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
       "artists": [
         {
-          "name": "Niia",
-          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
+          "name": "Sofie Birch",
+          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
+        },
+        {
+          "name": "Antonina Nowacka",
+          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
         }
       ],
-      "duration_ms": 196129,
-      "name": "Forward",
-      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
+      "duration_ms": 256682,
+      "name": "Morning Room I",
+      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1315,22 +1319,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Languoria",
-        "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
+        "name": "Forward / Wreck Dive",
+        "url": "https://open.spotify.com/album/0bEsbKQeZyI4W473lga8CN"
       },
       "artists": [
         {
-          "name": "Sofie Birch",
-          "url": "https://open.spotify.com/artist/6kEyGr2dFnzcKGxpHmnJnn"
-        },
-        {
-          "name": "Antonina Nowacka",
-          "url": "https://open.spotify.com/artist/2xV4z30ITk9LqUk1GKYlrR"
+          "name": "Niia",
+          "url": "https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx"
         }
       ],
-      "duration_ms": 256682,
-      "name": "Morning Room I",
-      "url": "https://open.spotify.com/track/4ilKTNUX2tnJFrFNHJcOHm"
+      "duration_ms": 196129,
+      "name": "Forward",
+      "url": "https://open.spotify.com/track/59J12WhFRuPxJLGt3qIm0x"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "a journey\u2026",
+        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
+      },
+      "artists": [
+        {
+          "name": "Hinako Omori",
+          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
+        }
+      ],
+      "duration_ms": 268440,
+      "name": "Ocean",
+      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Kasper Bj\u00f8rke Quartet: Abiogenesis",
         "url": "https://open.spotify.com/album/3QcNobksry2yytTgmxFq36"
       },
@@ -1395,38 +1411,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "a journey\u2026",
-        "url": "https://open.spotify.com/album/7iejPgP3BdBOHjAgC1BueW"
-      },
-      "artists": [
-        {
-          "name": "Hinako Omori",
-          "url": "https://open.spotify.com/artist/31vAiCz7AsxXsljIGKg4UB"
-        }
-      ],
-      "duration_ms": 268440,
-      "name": "Ocean",
-      "url": "https://open.spotify.com/track/1XcYFFWPhEcE47eEx2X5Rq"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Stretch Your Eyes (Ambient Acapella)",
-        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 367253,
-      "name": "Stretch Your Eyes - Ambient Acapella",
-      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "emerged, vol. II",
         "url": "https://open.spotify.com/album/0QQdfdlFytl4zZjmBInUEb"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 143157,
       "name": "abundance",
       "url": "https://open.spotify.com/track/68PdypBDiAkvrARPOnT03A"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Stretch Your Eyes (Ambient Acapella)",
+        "url": "https://open.spotify.com/album/09WtH5RWOGs0YbzpamTJWp"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 367253,
+      "name": "Stretch Your Eyes - Ambient Acapella",
+      "url": "https://open.spotify.com/track/6mLm1FpmlEDWWLjCmNeggQ"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Rare Backwards",
-        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
-      },
-      "artists": [
-        {
-          "name": "Spivak",
-          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
-        }
-      ],
-      "duration_ms": 219196,
-      "name": "18:00",
-      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Languoria",
         "url": "https://open.spotify.com/album/7LXp7ppvXmmLvcn7ysGDgf"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 295789,
       "name": "The Journey",
       "url": "https://open.spotify.com/track/7ncpJdSRl6DYSA6vw4vhbg"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Rare Backwards",
+        "url": "https://open.spotify.com/album/0BXYF81nqahoaexb8nbJl8"
+      },
+      "artists": [
+        {
+          "name": "Spivak",
+          "url": "https://open.spotify.com/artist/4V7mPDwAcAguZIa2PGeEcx"
+        }
+      ],
+      "duration_ms": 219196,
+      "name": "18:00",
+      "url": "https://open.spotify.com/track/43HQpVkQcHzvAKfSHMcH7X"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1647,6 +1647,22 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
+        "name": "A Map With No Memory",
+        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
+      },
+      "artists": [
+        {
+          "name": "Jay Chakravorty",
+          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
+        }
+      ],
+      "duration_ms": 193644,
+      "name": "Hannah",
+      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
         "name": "Bardo Landscape (Reimagined)",
         "url": "https://open.spotify.com/album/1OUWaoaOPmcnCYvKtHiZZP"
       },
@@ -1663,18 +1679,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "A Map With No Memory",
-        "url": "https://open.spotify.com/album/6gYYmtdUSKj7TqCl8JEy0U"
+        "name": "Penelope Three",
+        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
       },
       "artists": [
         {
-          "name": "Jay Chakravorty",
-          "url": "https://open.spotify.com/artist/6kb07wB68FKTJDfJDcb5lY"
+          "name": "Penelope Trappes",
+          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
         }
       ],
-      "duration_ms": 193644,
-      "name": "Hannah",
-      "url": "https://open.spotify.com/track/4ONTj3UWN0JMGbDlWUaPNW"
+      "duration_ms": 184973,
+      "name": "Fur & Feather",
+      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Penelope Three",
-        "url": "https://open.spotify.com/album/00RN1CEgseX21ceJs4bmMi"
-      },
-      "artists": [
-        {
-          "name": "Penelope Trappes",
-          "url": "https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT"
-        }
-      ],
-      "duration_ms": 184973,
-      "name": "Fur & Feather",
-      "url": "https://open.spotify.com/track/71PeXWhYcEGEDOgJCgoZMO"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "Find Sound",
         "url": "https://open.spotify.com/album/04Kd4PBkBMEGJBf6JLn35c"
       },
@@ -1743,6 +1743,22 @@
       "duration_ms": 217090,
       "name": "Thoughts",
       "url": "https://open.spotify.com/track/4kJ9oMXeWR0IxDHsly7SGQ"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Grand Views",
+        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
+      },
+      "artists": [
+        {
+          "name": "Hanna Lindgren",
+          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
+        }
+      ],
+      "duration_ms": 306908,
+      "name": "Epic Mirage",
+      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1771,38 +1787,6 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "And You Know I Care",
-        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
-      },
-      "artists": [
-        {
-          "name": "Fiona Brice",
-          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
-        }
-      ],
-      "duration_ms": 289293,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
-        "name": "Grand Views",
-        "url": "https://open.spotify.com/album/4oO7UiaBkjDeXtzOVnkYW1"
-      },
-      "artists": [
-        {
-          "name": "Hanna Lindgren",
-          "url": "https://open.spotify.com/artist/34GCwt10cx3SKWmWbTgUC2"
-        }
-      ],
-      "duration_ms": 306908,
-      "name": "Epic Mirage",
-      "url": "https://open.spotify.com/track/54M2YOXv7W5EDKTqbxRk4D"
-    },
-    {
-      "added_at": "2023-10-12 18:05:50",
-      "album": {
         "name": "chamomile",
         "url": "https://open.spotify.com/album/2uZARWfUPoP4zhY5NhoKxj"
       },
@@ -1819,18 +1803,18 @@
     {
       "added_at": "2023-10-12 18:05:50",
       "album": {
-        "name": "Frost",
-        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
+        "name": "And You Know I Care",
+        "url": "https://open.spotify.com/album/5Mzv0javtPtGctQWoIBFYZ"
       },
       "artists": [
         {
-          "name": "Drum & Lace",
-          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+          "name": "Fiona Brice",
+          "url": "https://open.spotify.com/artist/40qCY0kvzs74ToaYNJ58iT"
         }
       ],
-      "duration_ms": 650794,
-      "name": "Sospiro",
-      "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
+      "duration_ms": 289293,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/7cjpshKIVqRHSvFFgf69DN"
     },
     {
       "added_at": "2023-10-12 18:05:50",
@@ -1851,6 +1835,22 @@
       "duration_ms": 410000,
       "name": "The 90s Was A Feeling",
       "url": "https://open.spotify.com/track/3mMeMV86wXN1sMSmXXUaoY"
+    },
+    {
+      "added_at": "2023-10-12 18:05:50",
+      "album": {
+        "name": "Frost",
+        "url": "https://open.spotify.com/album/0AS6gymk1bJPNaxgcZXPes"
+      },
+      "artists": [
+        {
+          "name": "Drum & Lace",
+          "url": "https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7"
+        }
+      ],
+      "duration_ms": 650794,
+      "name": "Sospiro",
+      "url": "https://open.spotify.com/track/1TJuEpWvqUgqCsHmuq8I6A"
     }
   ],
   "unique_name": "ethereal voices",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1NvoC46GArJupRi8LtGB8Y">Ariana Grande</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-117 songs - 6 hr 22 min
+118 songs - 6 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [someone like u \- interlude](https://open.spotify.com/track/3Os1431WclqyKxWqMzRESE) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 1:16 | 2024-03-28 |  |
 | [successful](https://open.spotify.com/track/5YeHLHDdQ4nKHk81XFWhCU) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:47 | 2024-03-28 |  |
 | [supernatural](https://open.spotify.com/track/142PiXzA84lmEw2RstFHFa) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine](https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK) | 2:43 | 2024-03-28 |  |
+| [supernatural \(with Troye Sivan\)](https://open.spotify.com/track/3iJOkxYP59kFJ5OLgHo4Tp) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2) | 2:43 | 2024-04-23 |  |
 | [sweetener](https://open.spotify.com/track/70khXICDeTTxgYtw3EysKH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Sweetener](https://open.spotify.com/album/3tx8gQqWbGwqIGZHqDNrGe) | 3:28 | 2024-03-28 |  |
 | [Tattooed Heart](https://open.spotify.com/track/7JmIjOsRish3vYBSLTytEC) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Yours Truly](https://open.spotify.com/album/6czdbbMtGbAkZ6ud2OMTcg) | 3:14 | 2024-03-28 |  |
 | [test drive](https://open.spotify.com/track/3eZYOQO4UzKrUDYDghtnFw) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Positions \(Deluxe\)](https://open.spotify.com/album/74vajFwEwXJ61OW1DKSPEa) | 2:02 | 2024-03-28 |  |

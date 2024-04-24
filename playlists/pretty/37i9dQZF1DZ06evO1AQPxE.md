@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 
 > This is Jack Harlow\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,596 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,622 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1AQPxE.md) - [plain]
 | 49 | [Eastern Parkway](https://open.spotify.com/track/2KY4EupuUu4jk2yWNA8DZc) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Gazebo](https://open.spotify.com/album/0txbd4bmIM8Hq94jBrS0lc) | 3:06 |
 | 50 | [Mockingbird Valley \- Sped Up](https://open.spotify.com/track/0Cec2e3qm7pvF7j7awp2Va) | [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I'M REALLY LIKE THAT \(Sped Up\)](https://open.spotify.com/album/1tuRoAZVFzBfDf0Ng7CYrx) | 2:11 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGM3MWZiOThhOGUxODQ5ZDM3M2I4MjU2MjFmZjA5MTI0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDFkZDI1ZWNmZTY4Yzc5OTJmZDg4OTAyOGZiODU5ZDMz`

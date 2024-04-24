@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- France.
 
-1,793 songs - 3 day 22 hr 55 min
+1,795 songs - 3 day 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Envolver](https://open.spotify.com/track/3FkeNbs9Zeiqkr3WkbOiGp) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:13 | 2022-06-05 | 2022-07-19 |
 | [Escorte](https://open.spotify.com/track/41owO9tpVFmNAZ4IEpM2iK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Carré](https://open.spotify.com/album/2oTwdgQB5duCr067NgoEOP) | 3:14 | 2023-03-11 | 2023-05-27 |
 | [Espace](https://open.spotify.com/track/6mVltF2RFB3n7t14Pk7pfC) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Akimbo](https://open.spotify.com/album/6V9TAy7JYau3aChQfx4hCq) | 3:12 | 2021-11-14 | 2021-11-21 |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-04-24 |  |
 | [Essaie encore](https://open.spotify.com/track/7xFEyavPtivXc8yFqEZJpJ) | [Imen Es](https://open.spotify.com/artist/7CW7QdOgRStOg7JktRuZ3E) | [Essaie encore](https://open.spotify.com/album/5Kqj10UZpCAEmO41U9g28X) | 3:39 | 2021-05-30 | 2021-06-18 |
 | [Essayez](https://open.spotify.com/track/5buwti8KR41CbKSv3nnqzu) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [Spleen](https://open.spotify.com/album/3guPLYZHkQEz8lJdhnWoTD) | 2:57 | 2021-03-27 | 2021-04-02 |
 | [Etna](https://open.spotify.com/track/775qtHu1rNoq1N2aKFa4nD) | [Lomepal](https://open.spotify.com/artist/1Yfe3ONJlioHys7jwHdfVm) | [Mauvais Ordre](https://open.spotify.com/album/6R8nBTTPwlP7iur0wV3oLq) | 4:22 | 2022-09-17 | 2022-10-02 |
@@ -1150,7 +1151,7 @@
 | [Music For a Sushi Restaurant](https://open.spotify.com/track/5LYMamLv12UPbemOaTPyeV) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry's House](https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h) | 3:13 | 2022-05-21 | 2022-05-23 |
 | [MW2](https://open.spotify.com/track/2sMxeHjS9rQh9gB92rcRF9) | [Freeze corleone](https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im) | [ADC](https://open.spotify.com/album/4EsdvWk2Agy9jmUEWAzZWM) | 4:47 | 2023-09-12 | 2023-10-07 |
 | [Mwaki](https://open.spotify.com/track/4HDC7Mo6uLTujRvHymiXDf) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/4L43UqvSZKiiKwc1wa89Gz) | 3:28 | 2024-04-07 | 2024-04-19 |
-| [Mwaki](https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/6fdKAh0QOzR2EENZSkEEXV) | 3:28 | 2024-04-18 |  |
+| [Mwaki](https://open.spotify.com/track/5MpZphaE8ML2JJrtdPy6Pt) | [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Mwaki](https://open.spotify.com/album/6fdKAh0QOzR2EENZSkEEXV) | 3:28 | 2024-04-18 | 2024-04-24 |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/05msZuGKP3OCUGQnvLBOf4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 3:23 | 2024-04-20 | 2024-04-22 |
 | [MY EYES](https://open.spotify.com/track/4kjI1gwQZRKNDkw1nI475M) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 4:11 | 2023-07-29 | 2023-08-04 |
 | [My love \(feat\. Tayc\)](https://open.spotify.com/track/1QtUnWsxvPKHmNgoaksOBv) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [My love \(feat\. Tayc\)](https://open.spotify.com/album/3Ybyy1K1V1rmjvqCKC4BED) | 3:16 | 2021-06-23 | 2021-06-26 |
@@ -1629,7 +1630,8 @@
 | [Toko dombi](https://open.spotify.com/track/4Hj36H5c7liPVqpDrGxTgJ) | [THEODORT](https://open.spotify.com/artist/6q87j1F6EtUxjlvkJNknFp) | [Toko dombi](https://open.spotify.com/album/75HvvhWytuljxPOc6Asj2i) | 2:40 | 2024-03-20 | 2024-04-14 |
 | [Toko Toko](https://open.spotify.com/track/2cHQh4eyfAasH8AzkiFtJO) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [Cullinan](https://open.spotify.com/album/1veIu7aYgSIg5PXEEUdh8U) | 2:54 | 2022-05-15 | 2022-09-18 |
 | [Tomb Raider](https://open.spotify.com/track/7F7mrivCzAPYZ650y1eoeJ) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Chrome](https://open.spotify.com/album/0FZwklnVBdxhcCQLhIgPU2) | 2:14 | 2023-02-25 | 2023-03-02 |
-| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-04-16 |  |
+| [Too Sweet](https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/1vL2mgGTukkrUxXt0loeTN) | 4:11 | 2024-04-16 | 2024-04-24 |
+| [Too Sweet](https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth: Unheard](https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk) | 4:11 | 2024-04-24 |  |
 | [TOPIA TWINS](https://open.spotify.com/track/0lodMO0qK83vfPiiD7FMEt) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [UTOPIA](https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ) | 3:43 | 2023-07-29 | 2023-07-31 |
 | [Toujours +](https://open.spotify.com/track/5jceHfkyTOUMFmcZaxfV8t) | [Mig](https://open.spotify.com/artist/3mKyKC4BjNrNJSSBSrNy0a) | [Toujours +](https://open.spotify.com/album/0w833vhJRuuCwd5gsHQNIs) | 2:21 | 2022-10-01 | 2022-10-03 |
 | [Toujours la même](https://open.spotify.com/track/6fu1FCLI1Rz39PCezBa6Zi) | [Djadja & Dinaz](https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v) | [ALPHA](https://open.spotify.com/album/6mHX3onyNT2xYveguxhrDm) | 2:56 | 2023-03-04 | 2023-03-06 |

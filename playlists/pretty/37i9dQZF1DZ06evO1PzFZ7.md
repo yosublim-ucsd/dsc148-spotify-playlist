@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 
 ### [This Is Ángela Aguilar](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1PzFZ7)
 
-> This Is Ángela Aguilar\. Los temas esenciales, todos en una lista.
+> This is Ángela Aguilar\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,952 likes - 53 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,947 likes - 53 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 11 | [Vete Yendo](https://open.spotify.com/track/0l2mXLYFLJiz329rxNlOUn) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Colmillo De Leche](https://open.spotify.com/album/52PtAAvfi8ZGTRK5c700y4) | 2:57 |
 | 12 | [Ella Qué Te Dio](https://open.spotify.com/track/24wYpTB7F9gqHfmAJxj6Mb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Jesse & Joy](https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR) | [Mexicana Enamorada](https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7) | 3:48 |
 | 13 | [Qué Agonía \- Remix](https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A), [Yuridia](https://open.spotify.com/artist/5B8ApeENp4bE4EE3LI8jK2), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Qué Agonía \(Remix\)](https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK) | 3:08 |
-| 14 | [Troca](https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Troca](https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5) | 2:27 |
-| 15 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
+| 14 | [Invítame A Un Café](https://open.spotify.com/track/5gv6rmOzIQkC6CHbelz60d) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Invítame A Un Café](https://open.spotify.com/album/6c8d7PNLIYu4Mfyf6J9SK5) | 3:07 |
+| 15 | [Troca](https://open.spotify.com/track/7mAkuCp7tAULIyC1TdQSWs) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Troca](https://open.spotify.com/album/5fJhe0z8544xd3neB2GiS5) | 2:27 |
 | 16 | [Lo Busqué](https://open.spotify.com/track/6bOn4szszQ4fXVM22yBO0s) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq), [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Lo Busqué](https://open.spotify.com/album/6x45qIc9tGFbyKeyIYQ41j) | 4:10 |
 | 17 | [La Llorona](https://open.spotify.com/track/3pSjS1IJJMQ6MhVIPiE0Om) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [PRIMERO SOY MEXICANA](https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB) | 8:10 |
 | 18 | [Somos Novios](https://open.spotify.com/track/1XayYLI1oOaWNHDt3Zs78k) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH), [Trio Los Panchos](https://open.spotify.com/artist/75iTjtkoZp3DoULrMMGOsF) | [Bolero](https://open.spotify.com/album/2XltOEB0eKfJ8hxoa9tJoy) | 3:00 |
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1PzFZ7.md) - [plain]
 | 52 | [Amor Prohibido](https://open.spotify.com/track/28t4WNpkljCOcCSADHqJ3q) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Baila Esta Cumbia](https://open.spotify.com/album/3rQXLwbVHUmOYbkIJoTNrP) | 3:02 |
 | 53 | [Rayando el Sol](https://open.spotify.com/track/5fQaUabTHuTq8EIrpudwnb) | [Ángela Aguilar](https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH) | [Que No Se Apague La Música](https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK) | 3:27 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDY5NmJiYWE2YWZjOTI1OTBjMGQwZGQ0MTZmNDUxMGY2`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDU3ZjY1NjVkNTQ1MjJmOTljMzBkYjlmYzNkODVlNzkw`

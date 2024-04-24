@@ -1,15 +1,15 @@
 {
   "description": "Feiern mit den gr\u00f6\u00dften aktuellen Partyhits.",
-  "num_followers": 1283915,
+  "num_followers": 1283553,
   "original_name": "Partyhymnen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMDg2MjMzMCwwMDAwMDAwMDg5YjM0YWEwNjkxNWYyMzhjNmRiMmE5ZGQ3ODJjN2Qy",
+  "snapshot_id": "MTcxMzk0MDM4NiwwMDAwMDAwMGMzY2E3MGQxNjIyMjM3ZTljMTlmYTZlNjA2NTAxZTFj",
   "tracks": [
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Prada",
         "url": "https://open.spotify.com/album/5MU0RmBSpoSxOPYBfcobDc"
@@ -33,7 +33,7 @@
       "url": "https://open.spotify.com/track/59NraMJsLaMCVtwXTSia8i"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Read My Lips",
         "url": "https://open.spotify.com/album/68ishLKwqH5oH79kUteEHG"
@@ -49,7 +49,7 @@
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Stumblin' In",
         "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
@@ -65,7 +65,7 @@
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Thank You (Not So Bad)",
         "url": "https://open.spotify.com/album/1J7XItLnNLegigdh4AjGKN"
@@ -101,7 +101,23 @@
       "url": "https://open.spotify.com/track/09CnYHiZ5jGT1wr1TXJ9Zt"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
+    },
+    {
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Overdrive (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg"
@@ -121,7 +137,7 @@
       "url": "https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Vois sur ton chemin (Techno Mix)",
         "url": "https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB"
@@ -137,7 +153,31 @@
       "url": "https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
+      "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Give It To Me (Full Vocal Mix)",
         "url": "https://open.spotify.com/album/1jbRY71konakrKvDUiW7Rp"
@@ -153,7 +193,7 @@
       "url": "https://open.spotify.com/track/5ZduaRci3iNUiDfJbBfAaf"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Baby Don't Hurt Me",
         "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
@@ -177,7 +217,7 @@
       "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Shock Value",
         "url": "https://open.spotify.com/album/4BxB8U8QgpR4UCvJ0moj8Z"
@@ -201,7 +241,7 @@
       "url": "https://open.spotify.com/track/2bLqfJjuC5syrsgDsZfGmn"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "LET'S GET FKD UP (feat. Tribbs)",
         "url": "https://open.spotify.com/album/1zz2cxnkEpgyLdSmoPBEjK"
@@ -229,7 +269,7 @@
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Push Up (Main Edit)",
         "url": "https://open.spotify.com/album/3v5BP6gPT1nNU9rjs57fF0"
@@ -245,7 +285,7 @@
       "url": "https://open.spotify.com/track/3AjSfp5FDvwtMU9XBsbS8j"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Alibi (feat. Rudimental)",
         "url": "https://open.spotify.com/album/3Ku8LDPYg53Kh59amfFWjL"
@@ -265,7 +305,7 @@
       "url": "https://open.spotify.com/track/5Jpz4nv8nA6FIYO5gEyQa2"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
@@ -285,47 +325,7 @@
       "url": "https://open.spotify.com/track/086THPnabbu1zfDjRsxpoN"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
-      "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
-    },
-    {
-      "added_at": "2024-03-19 15:32:10",
-      "album": {
-        "name": "Ferrari",
-        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
-      },
-      "artists": [
-        {
-          "name": "James Hype",
-          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
-        },
-        {
-          "name": "Miggy Dela Rosa",
-          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
-        }
-      ],
-      "duration_ms": 186661,
-      "name": "Ferrari",
-      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
-    },
-    {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "When We Were Young (The Logical Song)",
         "url": "https://open.spotify.com/album/3vT1YpvKNkGVN3XE1f3kQY"
@@ -345,7 +345,47 @@
       "url": "https://open.spotify.com/track/1CcLA0eaauck34YEIrvAAq"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
+      "album": {
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
+      },
+      "artists": [
+        {
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
+    },
+    {
+      "added_at": "2024-04-24 06:33:06",
+      "album": {
+        "name": "Ferrari",
+        "url": "https://open.spotify.com/album/6moZ4sNThthUAwCklyuPY8"
+      },
+      "artists": [
+        {
+          "name": "James Hype",
+          "url": "https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v"
+        },
+        {
+          "name": "Miggy Dela Rosa",
+          "url": "https://open.spotify.com/artist/45ruzGUmIr8WLjLOPJ9mGU"
+        }
+      ],
+      "duration_ms": 186661,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/4zN21mbAuaD0WqtmaTZZeP"
+    },
+    {
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Boyz In Paris (with VINAI)",
         "url": "https://open.spotify.com/album/3FrWieInAhMTL33yALP6H0"
@@ -369,7 +409,27 @@
       "url": "https://open.spotify.com/track/17NHXI2CJp7KgdcwcDnRx4"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
+      "album": {
+        "name": "Call It Love",
+        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
+      },
+      "artists": [
+        {
+          "name": "Felix Jaehn",
+          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
+        },
+        {
+          "name": "Ray Dalton",
+          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "Call It Love",
+      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
+    },
+    {
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Deep Down (feat. Never Dull)",
         "url": "https://open.spotify.com/album/3KpxpdySrMR2S7noneu1bI"
@@ -397,27 +457,7 @@
       "url": "https://open.spotify.com/track/7MIhUdNJtaOnDmC5nBC1fb"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
-      "album": {
-        "name": "Call It Love",
-        "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
-      },
-      "artists": [
-        {
-          "name": "Felix Jaehn",
-          "url": "https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG"
-        },
-        {
-          "name": "Ray Dalton",
-          "url": "https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "Call It Love",
-      "url": "https://open.spotify.com/track/5YdnOm5990Kfq1Jodws98B"
-    },
-    {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Derni\u00e8re danse (Techno Mix)",
         "url": "https://open.spotify.com/album/3MhGOga5TlR7JfKxDSxv9Q"
@@ -437,7 +477,7 @@
       "url": "https://open.spotify.com/track/5fIZ683j2xPeLAXfHeWKEG"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Substitution (feat. Julian Perretta)",
         "url": "https://open.spotify.com/album/4yZMAPI2NazKbPbystE6D7"
@@ -461,7 +501,7 @@
       "url": "https://open.spotify.com/track/2F2p7b5Xq20mRyEeWYaeUF"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Be My Lover (feat. La Bouche) [2023 Mix]",
         "url": "https://open.spotify.com/album/6mJvtzhMas59tyCFS3kSHX"
@@ -485,7 +525,7 @@
       "url": "https://open.spotify.com/track/2aQpISWUBToaF84DDiTeRV"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Rock My Body (with INNA & Sash!)",
         "url": "https://open.spotify.com/album/1ItxfUvQVlH7sAybyJ1SpB"
@@ -509,7 +549,7 @@
       "url": "https://open.spotify.com/track/6pb5DtlAeG95dNQLHiArRU"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "This Is The Life",
         "url": "https://open.spotify.com/album/5hFY0oK1Ow8h9xIAtliOvp"
@@ -529,7 +569,7 @@
       "url": "https://open.spotify.com/track/3Me5bYXeDXqjBVgug53Ula"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Lay Low",
         "url": "https://open.spotify.com/album/0EYKSXXTsON8ZA95BuCoXn"
@@ -545,7 +585,7 @@
       "url": "https://open.spotify.com/track/0zKbDrEXKpnExhGQRe9dxt"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Would You (go to bed with me?)",
         "url": "https://open.spotify.com/album/41f0FqPlL8qM5Dx5LS57j1"
@@ -565,7 +605,7 @@
       "url": "https://open.spotify.com/track/2N8gR2yftrHbZR53U5kYnX"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "21 Reasons (feat. Ella Henderson)",
         "url": "https://open.spotify.com/album/118PKNjhP4NWcrW5OjMwzc"
@@ -585,7 +625,7 @@
       "url": "https://open.spotify.com/track/1RF02Cf80mTaeNXG2P2boR"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Where Did You Go (feat. MNEK)",
         "url": "https://open.spotify.com/album/5vSLX6JljaSXuRY2Wqi6xL"
@@ -605,7 +645,7 @@
       "url": "https://open.spotify.com/track/3sa06xVNmLLYIxdNNmVQN8"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Not Fair",
         "url": "https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW"
@@ -629,7 +669,7 @@
       "url": "https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Bad Memories (feat. Elley Duh\u00e9 & FAST BOY)",
         "url": "https://open.spotify.com/album/44aG7QLYLGotCTlu5Fc2J7"
@@ -657,7 +697,7 @@
       "url": "https://open.spotify.com/track/3rb0tMq42WfggucPm0HHkA"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Drums (Feat. Kim Petras)",
         "url": "https://open.spotify.com/album/5Xs1g4UOOm6NBk4cSxyl2M"
@@ -677,7 +717,7 @@
       "url": "https://open.spotify.com/track/4AFlChQQJbB1MOCgOiiyYc"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "One in a Million",
         "url": "https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1"
@@ -697,7 +737,7 @@
       "url": "https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Makeba (Ian Asher Remix)",
         "url": "https://open.spotify.com/album/69aS8KFiYm1TvWVjem6aLj"
@@ -717,7 +757,7 @@
       "url": "https://open.spotify.com/track/67eYAnkdTu8BMcIx29z26L"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Barbie The Album",
         "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
@@ -733,7 +773,7 @@
       "url": "https://open.spotify.com/track/11C4y2Yz1XbHmaQwO06s9f"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
@@ -753,7 +793,7 @@
       "url": "https://open.spotify.com/track/1p0jBDjxORjYNJyAphBRpE"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "M\u00e4dchen auf dem Pferd",
         "url": "https://open.spotify.com/album/1nqgi8V3Ii96w1iofIcfcz"
@@ -785,27 +825,7 @@
       "url": "https://open.spotify.com/track/7AOJcugo17Kr1WUheSI6Oq"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
-      "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
-    },
-    {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
@@ -825,7 +845,27 @@
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
+      "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
+    },
+    {
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "We Are The People (southstar Remix)",
         "url": "https://open.spotify.com/album/6NB6yrLJKj7nlP1vUWcVPA"
@@ -845,7 +885,7 @@
       "url": "https://open.spotify.com/track/4atLPkcljMp14JBaigYFKC"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "9 bis 9",
         "url": "https://open.spotify.com/album/00MoqsGjkjG0PS4GtYkSdb"
@@ -869,7 +909,7 @@
       "url": "https://open.spotify.com/track/5YWu6dt50Nieq8qi572RF8"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "I Am Armando - Armando Reloaded",
         "url": "https://open.spotify.com/album/0kv3Rm7PODqJBQaVJiezuB"
@@ -885,7 +925,7 @@
       "url": "https://open.spotify.com/track/7CijDWxEEbKq76O5rpyCEN"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "BOTH",
         "url": "https://open.spotify.com/album/4WithBxkUVDf6Xe0KbTOkL"
@@ -909,7 +949,23 @@
       "url": "https://open.spotify.com/track/7mobUfp1aL8A6CdugCMWft"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
+      "album": {
+        "name": "Tomahawk Technique",
+        "url": "https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd"
+      },
+      "artists": [
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "She Doesn't Mind",
+      "url": "https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8"
+    },
+    {
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "HERZ MACHT BAMM",
         "url": "https://open.spotify.com/album/43hhHQjezxykYy1yf5CG11"
@@ -929,23 +985,7 @@
       "url": "https://open.spotify.com/track/5uiokPQwUgidgRBPEQPImc"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
-      "album": {
-        "name": "Tomahawk Technique",
-        "url": "https://open.spotify.com/album/25o3xNsjPJahI22xQENaPd"
-      },
-      "artists": [
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "She Doesn't Mind",
-      "url": "https://open.spotify.com/track/4odiyU3myG29Ld0wurMfE8"
-    },
-    {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Big City Life",
         "url": "https://open.spotify.com/album/5Z9UyG6AYfNphE7UJGXifC"
@@ -965,7 +1005,7 @@
       "url": "https://open.spotify.com/track/1LIvdWNdKmHvU0FJvw2diN"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Kernkraft 400 (A Better Day)",
         "url": "https://open.spotify.com/album/2NIChqkijGw4r4Dqfmg0A3"
@@ -985,7 +1025,7 @@
       "url": "https://open.spotify.com/track/3kcKlOkQQEPVwxwljbGJ5p"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "Praise The Lord (Da Shine) (feat. Skepta) [Durdenhauer Edit]",
         "url": "https://open.spotify.com/album/6uVc1jXybFsyaLi48p8zYu"
@@ -1009,7 +1049,7 @@
       "url": "https://open.spotify.com/track/7jQkiAaa4XYYsPH3rcfcWo"
     },
     {
-      "added_at": "2024-03-19 15:32:10",
+      "added_at": "2024-04-24 06:33:06",
       "album": {
         "name": "life gets hard",
         "url": "https://open.spotify.com/album/5u6aeRDXBKNwJxKSUcykEj"
@@ -1023,50 +1063,6 @@
       "duration_ms": 125994,
       "name": "life gets hard",
       "url": "https://open.spotify.com/track/3acsNhkPp9gHSsamIsw0xO"
-    },
-    {
-      "added_at": "2024-03-19 15:32:10",
-      "album": {
-        "name": "Blonde Chaya (Sped Up)",
-        "url": "https://open.spotify.com/album/6XFhvAghhMETC42WFMhRjc"
-      },
-      "artists": [
-        {
-          "name": "Amaru",
-          "url": "https://open.spotify.com/artist/6NO12PstTjSbyBgbn2GSKz"
-        },
-        {
-          "name": "Gringo Bamba",
-          "url": "https://open.spotify.com/artist/26rewgSEfGzNpapjPw5VZh"
-        }
-      ],
-      "duration_ms": 181052,
-      "name": "Blonde Chaya - Sped Up",
-      "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
-    },
-    {
-      "added_at": "2024-03-19 15:32:10",
-      "album": {
-        "name": "EWIGKEIT (REMIX)",
-        "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
-      },
-      "artists": [
-        {
-          "name": "erob\u00e9",
-          "url": "https://open.spotify.com/artist/2Reg4IlIHtEGZHnSD4pphn"
-        },
-        {
-          "name": "KXXMA",
-          "url": "https://open.spotify.com/artist/6AFA7y2tNohNcpaLwDRyxx"
-        },
-        {
-          "name": "Lyfrix",
-          "url": "https://open.spotify.com/artist/4TSAnyHn47PpS8S9ofOjYU"
-        }
-      ],
-      "duration_ms": 137647,
-      "name": "EWIGKEIT - REMIX",
-      "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
     }
   ],
   "unique_name": "Partyhymnen",

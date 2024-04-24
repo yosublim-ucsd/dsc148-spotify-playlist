@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 
 > This is Mon Laferte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 658,336 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 658,506 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rButW.md) - [plain]
 | 40 | [Te juro que volveré](https://open.spotify.com/track/4bmPfEteHUchMec3gCPmNT) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Autopoiética](https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI) | 3:30 |
 | 41 | [Vuelve por Favor](https://open.spotify.com/track/5j35m0VodPLiRxfG3fmTSP) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Tornasol](https://open.spotify.com/album/7tFRCDcq1MhhKXZJ2VZP6H) | 4:16 |
 | 42 | [Quédate Esta Noche](https://open.spotify.com/track/14kf1Cdj0sdtKtMY02IBcB) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Norma](https://open.spotify.com/album/5vwSqLLGqeCTyRVObYjkDq) | 3:50 |
-| 43 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 |
-| 44 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
+| 43 | [Se Me Va A Quemar El Corazón](https://open.spotify.com/track/3bazgu5pF9cKUSLv1QukL7) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:58 |
+| 44 | [Canción Sin Miedo](https://open.spotify.com/track/5w3AsUEGoaCuBhDp14umuy) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Canción Sin Miedo](https://open.spotify.com/album/2wr1HIJ0Pzv7OzhdFH8nBQ) | 3:33 |
 | 45 | [Pensamos](https://open.spotify.com/track/1Y5G2UvRplEzSs7ngBKUgb) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Pensamos](https://open.spotify.com/album/3mhYvnYd8l0MGQVJsrPEK1) | 2:53 |
 | 46 | [Algo Es Mejor](https://open.spotify.com/track/2KuqOQdLea52Us5XWcmMdp) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Algo Es Mejor](https://open.spotify.com/album/2xTZ7tJWFmREAiumKaKM6r) | 4:01 |
 | 47 | [Placer Hollywood](https://open.spotify.com/track/6A4bRnkCUD8DzcV3z2aHtn) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [1940 Carmen](https://open.spotify.com/album/7hWWrisl7wIunR9dKiyjEL) | 3:39 |
-| 48 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/6vKyXTggZFyTYQG8uoQt0q) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:16 |
-| 49 | [Amigos Simplemente](https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 |
+| 48 | [Amigos Simplemente](https://open.spotify.com/track/1koHbG9KKSn7p8jyJueSp4) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [SEIS](https://open.spotify.com/album/3EOGXDmeHGGlAFAIlagcDF) | 3:02 |
+| 49 | [Que Nadie Sepa Mi Sufrir](https://open.spotify.com/track/6vKyXTggZFyTYQG8uoQt0q) | [La Sonora Dinamita](https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Cumbias Para Bailar](https://open.spotify.com/album/6iDK4vCNdRCpClfTPLk4ne) | 4:16 |
 | 50 | [El Canto de Todos \- Bonus Track](https://open.spotify.com/track/2UTskfGvRLtIMTnqu9iuPr) | [Inti\-Illimani](https://open.spotify.com/artist/4cCVNFShP38zaKGuo8QSMN), [Silvio Rodríguez](https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO), [Joan Manuel Serrat](https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7), [Pablo Milanés](https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5), [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr), [Isabel Parra](https://open.spotify.com/artist/2aRPBh4HSVPmevvlsCySOt), [Tita Parra](https://open.spotify.com/artist/4thdsnYghHc8bTB3GQ6zru), [Francesca Gagnon](https://open.spotify.com/artist/75VPGcVJ0CLIYJr6fDZ5IV), [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY), [Roberto Marquez](https://open.spotify.com/artist/0bGEitoGJUQPfiBhvzuScw), [Pancho Sazo](https://open.spotify.com/artist/4cWDj4v7WAydE1CEl45G8w), [Raly Barrionuevo](https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf), [Mapocho Orquesta](https://open.spotify.com/artist/5zoXAWbqiovx7MFrNvuteu) | [El Canto de Todos](https://open.spotify.com/album/5Y5gm7ty6In0hBDm7R39eO) | 0:41 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDM2NTRhMGIyYTAxMzM4MTE5MTc3NzMwM2U4MmRiZDZh`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGUwYmI2NGU0N2ZmZjFkNjcxYjc3ZGUzZGQ0ZTY1NTlj`

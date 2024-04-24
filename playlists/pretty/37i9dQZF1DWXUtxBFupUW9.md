@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 
 > Exercise together with uplifting soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,724 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,835 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXUtxBFupUW9.md) - [plain]
 | 40 | [I Heard It Through The Grapevine](https://open.spotify.com/track/1aRrJewQmqU3wMUf86VVc6) | [Gladys Knight & The Pips](https://open.spotify.com/artist/0TF2NxkJZPQoX1H53rEFM1) | [Everybody Needs Love](https://open.spotify.com/album/5l5h2w976gvp8y2IGv2Tp4) | 2:45 |
 | 41 | [Uptight \(Everything's Alright\)](https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN) | [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [Up\-Tight Everything's Alright](https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP) | 2:55 |
 | 42 | [Living in America](https://open.spotify.com/track/0T1OrvV6bOQVL2vSQiDn6W) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Living In America](https://open.spotify.com/album/0kY1Tg931A8dkaLmJve8ec) | 4:08 |
-| 43 | [This Old Heart Of Mine \(Is Weak For You\) \- Single Version / Mono](https://open.spotify.com/track/0CPwNXw5qD9588d86nropo) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [20th Century Masters: The Millennium Collection: Best of The Isley Brothers\-The Motown Years](https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS) | 2:55 |
-| 44 | [Tighten Up, Pt\. 1](https://open.spotify.com/track/6IIcvtmuGpWIasqOpyGlyY) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Tighten Up](https://open.spotify.com/album/5zsOpnZyZidaZo5KXL0xzr) | 3:16 |
+| 43 | [Tighten Up, Pt\. 1](https://open.spotify.com/track/6IIcvtmuGpWIasqOpyGlyY) | [Archie Bell & The Drells](https://open.spotify.com/artist/1kupwLFpHALpmhp5qol8xH) | [Tighten Up](https://open.spotify.com/album/5zsOpnZyZidaZo5KXL0xzr) | 3:16 |
+| 44 | [This Old Heart Of Mine \(Is Weak For You\) \- Single Version / Mono](https://open.spotify.com/track/0CPwNXw5qD9588d86nropo) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [20th Century Masters: The Millennium Collection: Best of The Isley Brothers\-The Motown Years](https://open.spotify.com/album/57CNwGt0hsLPUlMMNuxtRS) | 2:55 |
 | 45 | [Lost in Music \- 1995 Remaster](https://open.spotify.com/track/7zpm7lTY2EZn7AfFm3mGg2) | [Sister Sledge](https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays) | [The Best of Sister Sledge \(1973\-1985\)](https://open.spotify.com/album/4L1Astvd0LwOkF49jQ2Uyt) | 4:47 |
 | 46 | [I've Got My Mind Set On You](https://open.spotify.com/track/0qPeLt28yVM4wScp8qt8xY) | [James Ray](https://open.spotify.com/artist/5DG3ZUxWmaQySIbGHdq03J) | [Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 \- 1963](https://open.spotify.com/album/0cM9qP6HmXg0JaAuAFdGeo) | 3:26 |
 | 47 | [Soul Connection](https://open.spotify.com/track/0ZZbKNLGRNHs93FhNebPFH) | [Diplomats of Solid Sound](https://open.spotify.com/artist/2BNkflUlJ7uUr06ltR93mU), [The Diplomettes](https://open.spotify.com/artist/33sEjzZ7kpL9bnsrRy4D78) | [S/t](https://open.spotify.com/album/6N05syPvpoGsL5ZOnqQwQs) | 2:29 |

@@ -2,9 +2,9 @@
 
 ### [Top Hits Kids](https://open.spotify.com/playlist/37i9dQZF1DX2jdUWwSgTho)
 
-> Les hits préférés des enfants.
+> Les hits préférés des enfants \(et surtout de leurs parents\).
 
-82 songs - 4 hr 39 min
+83 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/track/0WtM2NBVQNNJLh6scP13H8) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Calm Down \(with Selena Gomez\)](https://open.spotify.com/album/2b2GHWESCWEuHiCZ2Skedp) | 3:59 | 2023-07-27 |  |
 | [CAN'T STOP THE FEELING! \(from DreamWorks Animation's "TROLLS"\)](https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI) | [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [TROLLS \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7) | 3:57 | 2023-07-27 | 2024-03-19 |
 | [Ce soir](https://open.spotify.com/track/3wU34gBKjzcDMxpHlTmihG) | [Amir](https://open.spotify.com/artist/6rl53MP8HSoiugpqzA50Zh) | [Ressources \(Nouvelle Edition\)](https://open.spotify.com/album/0ul481A8HRd92W4m3hVo4O) | 3:33 | 2023-07-27 | 2023-12-18 |
+| [Ceux qu'on était](https://open.spotify.com/track/5Pzh42xn3oAXHh4U7tVHMr) | [Pierre Garnier](https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr) | [Ceux qu'on était](https://open.spotify.com/album/0s4v36LmZVmcutSEXwt3uD) | 2:54 | 2024-04-23 |  |
 | [Chandelier](https://open.spotify.com/track/2s1sdSqGcKxpPr5lCl7jAV) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear \(Deluxe Version\)](https://open.spotify.com/album/6FdNvoO5sF4EKwCX9je1MH) | 3:36 | 2024-03-04 | 2024-04-19 |
 | [Chandelier](https://open.spotify.com/track/4VrWlk8IQxevMvERoX08iC) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 3:36 | 2024-04-03 |  |
 | [Clap Your Hands](https://open.spotify.com/track/7g7OshelYRRnOSEMmisJVI) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d) | [Clap Your Hands](https://open.spotify.com/album/2Uxn2xBab5Sjo3gnfuir7q) | 3:09 | 2023-07-27 |  |
@@ -40,7 +41,7 @@
 | [Flowers](https://open.spotify.com/track/7DSAEUvxU8FajXtRloy8M0) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Endless Summer Vacation](https://open.spotify.com/album/5DvJgsMLbaR1HmAI6VhfcQ) | 3:20 | 2024-03-04 |  |
 | [Freed From Desire \- prod\. Molella, Phil Jay](https://open.spotify.com/track/3u5N55tHf7hXATSQrjBh2q) | [Gala](https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ), [Molella](https://open.spotify.com/artist/6PozOimyS8a9OxMddMSBCf), [Phil Jay](https://open.spotify.com/artist/2yUcByiqLsQiJgGKIn1xeb) | [Come Into My Life \(The Album\)](https://open.spotify.com/album/3vcwGUl0WiJVssOR1dXEbe) | 3:33 | 2023-07-27 |  |
 | [Happy \- From "Despicable Me 2"](https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH) | [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [G I R L](https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W) | 3:52 | 2023-07-27 |  |
-| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-03-18 |  |
+| [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 | 2024-03-18 | 2024-04-24 |
 | [I'm Good \(Blue\)](https://open.spotify.com/track/4uUG5RXrOk84mYEfFvj3cK) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [I'm Good \(Blue\)](https://open.spotify.com/album/7M842DMhYVALrXsw3ty7B3) | 2:55 | 2023-07-27 |  |
 | [Iko Iko \(My Bestie\)](https://open.spotify.com/track/7MC4XR9M9amdmKQr2iDF7i) | [Justin Wellington](https://open.spotify.com/artist/5lTjv8Ag00qHSGhvK4JbeF), [Small Jam](https://open.spotify.com/artist/6c8akjSeJQw2NYemV6qVT8) | [Iko Iko \(My Bestie\)](https://open.spotify.com/album/0IVeq4oFSUAAXmdQqXFTrU) | 3:02 | 2023-07-27 |  |
 | [Jerusalema](https://open.spotify.com/track/5F6tLUQGd7GtiWID9ZEzev) | [Master KG](https://open.spotify.com/artist/523y9KSneKh6APd1hKxLuF), [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [Jerusalema](https://open.spotify.com/album/6Wa3TTEUxvOwUOoJsVkCF4) | 5:42 | 2023-07-27 | 2023-10-14 |

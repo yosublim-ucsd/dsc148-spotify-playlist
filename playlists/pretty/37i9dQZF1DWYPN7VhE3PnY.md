@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 
 > remember when we were dark and brooding\. Cover: CHVRCHES
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,552 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,573 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPN7VhE3PnY.md) - [plain]
 | 42 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 43 | [Girls Your Age](https://open.spotify.com/track/3wchQBokK9IDtoYrw14gpK) | [Transviolet](https://open.spotify.com/artist/7ixzNQXQ64I2ayrtyhlF7i) | [Transviolet](https://open.spotify.com/album/6nlhWBxBwgtwH80zCK8djC) | 3:28 |
 | 44 | [Indestructible](https://open.spotify.com/track/4CZ8nFoCsNNXuaX0qBm8LX) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/0Rzg7fqyWE39G6wKipxrns) | 3:40 |
-| 45 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 |
-| 46 | [Swingin' Party](https://open.spotify.com/track/30CHepNhUAml9rw1Z0qPRf) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU) | [World, You Need a Change of Mind](https://open.spotify.com/album/3Z10TDlk4DiFPeNvOj1VXz) | 3:57 |
+| 45 | [Swingin' Party](https://open.spotify.com/track/30CHepNhUAml9rw1Z0qPRf) | [Kindness](https://open.spotify.com/artist/6SYIsHAQ1sPokVxmzpaDBU) | [World, You Need a Change of Mind](https://open.spotify.com/album/3Z10TDlk4DiFPeNvOj1VXz) | 3:57 |
+| 46 | [Antichrist](https://open.spotify.com/track/2mvNAfnzB2gKVmLmNusrHR) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Antichrist / Room Service](https://open.spotify.com/album/4jqlP0cYR2KLC3FDppEKC5) | 3:20 |
 | 47 | [i thought i was waiting](https://open.spotify.com/track/7jyfcztRYdl9rjrzVQoUQ2) | [VÉRITÉ](https://open.spotify.com/artist/1Fr6agZ6iSM5Ynn2k4C8sc) | [love you forever](https://open.spotify.com/album/5QPDTfgHE0ElC8calQBjtb) | 3:03 |
 | 48 | [Superglue](https://open.spotify.com/track/2PT6irzoP482s4ziCla3XS) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [SUPERGLUE](https://open.spotify.com/album/67NJuyd4ElTpVyEZYoh9UX) | 3:34 |
 | 49 | [Penthouse in The Sky](https://open.spotify.com/track/5UC5kPr4qlY0PDrGwE31zA) | [Goldie Boutilier](https://open.spotify.com/artist/392WuM1Yb4QRI0GG4epyn5) | [Emerald Year](https://open.spotify.com/album/7kCRt2MTG9a9qPwm05orZR) | 4:35 |

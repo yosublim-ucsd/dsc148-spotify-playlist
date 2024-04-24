@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 
 ### [This Is El Tri](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29tDB6)
 
-> This is El Tri\. The essential tracks, all in one playlist.
+> This Is El Tri\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,165 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,167 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29tDB6.md) - [plain]
 | 49 | [Niño sin amor \- Live](https://open.spotify.com/track/0BiGmkT2G6B1L35BTnnDQc) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [MTV Unplugged](https://open.spotify.com/album/1fK1XSbmTDH2UDBTXqj5bE) | 5:36 |
 | 50 | [Solamente Dios](https://open.spotify.com/track/79tDHSRvEZi9KnrSRE8krg) | [El Tri](https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne) | [No te olvides de la banda](https://open.spotify.com/album/6OYHy1eZOBvS3KnWHwEyIs) | 5:06 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDQ5Njc0ZmY2NzJmNDE2YzQwODE3ZDQzMzg4NWEyOGY4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDM1NmU2ODlmYzFkZTc1MzZjNjU4ZjQ0NGFiOGM4ZjRm`

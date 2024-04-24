@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sRMIzOmlb4.md) - [plain]
 
 > The biggest songs in Latin America in 2015\. Cover: Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,852 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,948 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

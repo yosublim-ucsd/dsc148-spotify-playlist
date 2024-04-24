@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowych kawałki w tej chwili\. Cover: White 2115
 
-[Spotify](https://open.spotify.com/user/spotify) - 511,601 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 511,885 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

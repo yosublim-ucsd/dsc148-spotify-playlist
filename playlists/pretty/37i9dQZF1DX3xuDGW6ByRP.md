@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,151 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,145 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 40 | [Muito Além](https://open.spotify.com/track/5Sj1roiO5NxZKpkTnGnlkL) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Muito Além](https://open.spotify.com/album/1FYjcxWp3R3dmBhjtjV3vo) | 2:48 |
 | 41 | [TÁ TODO MUNDO MAL](https://open.spotify.com/track/6RupKWYHDUq0dOdWLQUKcb) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5) | [TÁ TODO MUNDO MAL](https://open.spotify.com/album/5Rp68W7guN0S424dX70oRR) | 3:21 |
 | 42 | [Teu Pescoço](https://open.spotify.com/track/4NZJGR8aUHBcUn9dOKGVJC) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 2:55 |
-| 43 | [INTENSAMENTE](https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [INTENSAMENTE](https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte) | 2:58 |
+| 43 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
 | 44 | [LSD](https://open.spotify.com/track/6dKhbncIKTndk6SDT7vCeh) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH), [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD) | [Reviravolta](https://open.spotify.com/album/3PQvknz7UceslwzMNI8QWo) | 3:25 |
 | 45 | [Obscuro](https://open.spotify.com/track/2Rh1qXTvyZ6u00yVS1kzhS) | [Scalene](https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z) | [Obscuro](https://open.spotify.com/album/5Aj7XX2oSqwb5ZrxrntSb6) | 3:38 |
 | 46 | [Último Clichê](https://open.spotify.com/track/3n3aZ903Y3TjQseFJTOFin) | [Cine](https://open.spotify.com/artist/4MZmexF6g7Kk5nWAP8f5Zr) | [Último Clichê](https://open.spotify.com/album/6OhFYkE3KeUM6zRlhCE8vE) | 2:49 |
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 48 | [QUEM NUNCA??](https://open.spotify.com/track/3LhSiMorC6IntBm252H00W) | [Ciça Moreira](https://open.spotify.com/artist/6d4FihzI3byHpea2O2SCJt), [Egypcio](https://open.spotify.com/artist/6RvFkY3SiqssdttuI7bpH6) | [QUEM NUNCA??](https://open.spotify.com/album/5jOmOMFV9BbNxKHvmrddtV) | 3:36 |
 | 49 | [NUNCA VOU TE PERDOAR](https://open.spotify.com/track/375FOAahZKZhCvBAGnEb7t) | [TINN](https://open.spotify.com/artist/36I80iG1HUNzgtpM34yJlq) | [NUNCA VOU TE PERDOAR](https://open.spotify.com/album/0HFNiOy2tabQwDMTqRxmOD) | 2:36 |
 | 50 | [Castelo De Areia](https://open.spotify.com/track/3KqYVVEQL5g5bhIV1rr8vV) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc), [Bullet Bane](https://open.spotify.com/artist/78B9QufospnmmneH4UbHK0) | [Castelo De Areia](https://open.spotify.com/album/4cH0cWRb9RsTZWO7v7gu1S) | 2:56 |
-| 51 | [CORPO FECHADO](https://open.spotify.com/track/6PUMfBnFioVDJzC2vGCC98) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [:\( UMA BAD UMA FARRA :\) \[Deluxe\]](https://open.spotify.com/album/7zuGWCPxpmfgRolrURYfom) | 3:27 |
+| 51 | [INTENSAMENTE](https://open.spotify.com/track/5XNHFSi9krUa5Ikw1fJK4K) | [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [INTENSAMENTE](https://open.spotify.com/album/1S03QGdOVgnsPM2JmoJkte) | 2:58 |
 | 52 | [ponto de vista](https://open.spotify.com/track/0NfqR1Kf2opCwXPaNVouRY) | [Ananda](https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5), [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [ponto de vista](https://open.spotify.com/album/0nD3dR5hkxS3g1DyCATB9U) | 3:26 |
 | 53 | [Emocionado](https://open.spotify.com/track/0cSQ6uPHR8IHL3QfYe7n8j) | [Ana Laura Lopes](https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2) | [Emocionado](https://open.spotify.com/album/4EsncwoboDBXFxpFKG8Khj) | 2:47 |
 | 54 | [Conto de Falhas](https://open.spotify.com/track/4zCTi9gNDEDkgpknH0cfCy) | [lalalaura](https://open.spotify.com/artist/0xzFVGq4LIQxHwcTkUZACD) | [Conto de Falhas](https://open.spotify.com/album/4MaY416cpeCv9hmnGBfVzl) | 2:36 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 65 | [melhor ou pior](https://open.spotify.com/track/5yKVs2FmMzrhr1zoK1tljt) | [THAIS](https://open.spotify.com/artist/6HiZPv12Ycvmmg4AZQXz29), [Jambu](https://open.spotify.com/artist/5cKYzOJ8HSM7eKSP3FkvVX) | [melhor ou pior](https://open.spotify.com/album/6tHajjp3p45awmBCk4NbK9) | 2:44 |
 | 66 | [MINHA RELIGIÃO](https://open.spotify.com/track/4sYeYCVsVIphRn8F1C27s4) | [DAY LIMNS](https://open.spotify.com/artist/1x1qM3ZqHhJOn11m42svnc) | [MINHA RELIGIÃO](https://open.spotify.com/album/2pIHcNnoZyzf0eLWIlT3u9) | 2:33 |
 | 67 | [Coração Solto](https://open.spotify.com/track/6CFnUyz3OcgGRUMRzr3jvY) | [Cacá Magalhães](https://open.spotify.com/artist/0kV11iUwok3iJ3p32ollyk) | [Só Sinto](https://open.spotify.com/album/1B69BwQ41WdWl3d0etscfA) | 2:21 |
-| 68 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
-| 69 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
-| 70 | [Deixa Estar](https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Foi Tudo Aqui](https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd) | 3:09 |
+| 68 | [Maria](https://open.spotify.com/track/7yEOFcyCeH9HYxC9EmJsIA) | [CHADY](https://open.spotify.com/artist/61cC0qxfveBuryvFL2y1l8) | [Maria](https://open.spotify.com/album/5w9jRpGEp94tsWJdmolcVF) | 2:41 |
+| 69 | [Deixa Estar](https://open.spotify.com/track/0WNU9VndgDHwaUylsff1yZ) | [Fuze](https://open.spotify.com/artist/07XCF6HHgQfcYd2Gapo3Jq) | [Foi Tudo Aqui](https://open.spotify.com/album/5W5yMEZNYdK1QUru6RhIkd) | 3:09 |
+| 70 | [what would you do?](https://open.spotify.com/track/3I1Smy5zhzNEc9grpjwY1s) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [what would you do?](https://open.spotify.com/album/4sXo7bmCebWfskbUktuQbs) | 2:46 |
 | 71 | [ANTISSOCIAL](https://open.spotify.com/track/5vkLsYCrNiD56XifYnIBo9) | [Carol & Vitoria](https://open.spotify.com/artist/5zA07XrRPmMYEAdwtfRtSD) | [ANTISSOCIAL](https://open.spotify.com/album/3VQBBPFAWLwpMtiEurj5sW) | 2:26 |
 | 72 | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/track/58SoniG3NQ8ZyyTr4jkU4P) | [Hotelo](https://open.spotify.com/artist/11LYUBREaqNaJcruqe26lH) | [Tonto, Mole, Trouxa \(e meio devagar\)](https://open.spotify.com/album/4n8PxOVREWt1CjeCKnJmYB) | 2:11 |
 | 73 | [Lugar no Espaço](https://open.spotify.com/track/4bcfbp78ITZhEt0hkQzmXM) | [Isa Salles](https://open.spotify.com/artist/6Oaq2FReJLZazdZPcX7QgH), [Murilo Lourenço](https://open.spotify.com/artist/6hPnVxYK7L67gex8jpzack) | [Lugar no Espaço](https://open.spotify.com/album/6h7anhprQcHLRifVe8fmQd) | 3:44 |

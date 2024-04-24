@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 195664,
+  "2024-04-24": 195629,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -3813,7 +3813,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 205624,
       "name": "Det var ju du & jag - Radio Edit",
       "url": "https://open.spotify.com/track/53tkrNm9WV1NlTaZ1OsVQk"
@@ -20327,6 +20327,24 @@
       "duration_ms": 254150,
       "name": "Ung Igen",
       "url": "https://open.spotify.com/track/6Ws4wzdxFnKvXs0C0zqgui"
+    },
+    {
+      "album": {
+        "name": "K\u00e4nslostorm",
+        "url": "https://open.spotify.com/album/3YxmbBwBtoB9zJJonQdK1m"
+      },
+      "artists": [
+        {
+          "name": "Jobe",
+          "url": "https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179688,
+      "name": "Ung med dig",
+      "url": "https://open.spotify.com/track/69LIcyRjW4raKlQqEyUuG6"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 
 > These shoes are not made for running, they just look nice for the playlist cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 614,485 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 614,499 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,23 +40,23 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXx3Txis2L4x.md) - [plain]
 | 30 | [Hitchin' a Ride](https://open.spotify.com/track/6WlmA3HPHuNIR2mxI8LkZF) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Nimrod](https://open.spotify.com/album/3x2uer6Xh0d5rF8toWpRDA) | 2:51 |
 | 31 | [Rusted From the Rain](https://open.spotify.com/track/1VbsSYNXKBpjPvqddk8zjs) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 4:13 |
 | 32 | [BLACKOUT](https://open.spotify.com/track/0bGImSqDB2ebdeoCidUC8o) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [GLOW ON](https://open.spotify.com/album/2NrYPcMmQBlbBxopc2XlzS) | 2:53 |
-| 33 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
-| 34 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
-| 35 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
-| 36 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
+| 33 | [Out of the Black](https://open.spotify.com/track/1INksmStBpxdNlBzwGUvsg) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Royal Blood](https://open.spotify.com/album/0BFzNaeaNv4mahOzwZFGHK) | 4:00 |
+| 34 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 |
+| 35 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |
+| 36 | [We Didn’t Start The Fire \(Bonus Track\)](https://open.spotify.com/track/22H7neCMj03ifZXlix1B6h) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust](https://open.spotify.com/album/5rHd8n9uWIpq9w0PP5ZcI3) | 3:35 |
 | 37 | [The River](https://open.spotify.com/track/1eylM8qwVdD1AXDy3vjSgT) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Morning Revival](https://open.spotify.com/album/542tacdtTzqDY7BsZ9k11p) | 3:15 |
 | 38 | [Under You](https://open.spotify.com/track/6vWu5uWlox5TVDPl3LvoG3) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [But Here We Are](https://open.spotify.com/album/4wp4aWWpoYfNcspimVAnel) | 3:39 |
 | 39 | [Miss Alissa](https://open.spotify.com/track/1YIxmHt4EKS0gMs3L0mxQV) | [Eagles Of Death Metal](https://open.spotify.com/artist/02uYdhMhCgdB49hZlYRm9o) | [Peace Love Death Metal](https://open.spotify.com/album/5GclxkE6zvtpg6yKiZfnG7) | 2:38 |
 | 40 | [The Artist In The Ambulance](https://open.spotify.com/track/0arNrzPygksLY2pEbRgBjw) | [Thrice](https://open.spotify.com/artist/3NChzMpu9exTlNPiqUQ2DE) | [The Artist In The Ambulance](https://open.spotify.com/album/7yu7B1B8O07jAFAZEFSRXA) | 3:39 |
 | 41 | [The Borders](https://open.spotify.com/track/4hui0bX1Bv89yg1BTsz4NU) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Hypersonic Missiles](https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m) | 5:32 |
-| 42 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |
-| 43 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
-| 44 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
+| 42 | [What You Make It](https://open.spotify.com/track/2eXSPTZmhkXRGob1hsFdVd) | [With Confidence](https://open.spotify.com/artist/2PWXHVDEtObSmUrNhfPRav) | [With Confidence](https://open.spotify.com/album/0nVyJYOVvS1Trsphx7KPxp) | 2:57 |
+| 43 | [Underdog](https://open.spotify.com/track/4GMCZUi6cVQJ5wPWwJ36rW) | [You Me At Six](https://open.spotify.com/artist/1kNQXvepPjaPgUfeDAF2h6) | [Hold Me Down](https://open.spotify.com/album/5FakgYrhpMRNbQ9OaAP9YU) | 2:23 |
+| 44 | [Find Me](https://open.spotify.com/track/2mwnYvlLVP465u9V9wjUGj) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [WALLS](https://open.spotify.com/album/08ibdX8K0GETv20UEku3sm) | 4:05 |
 | 45 | [Body Talks](https://open.spotify.com/track/6spaGIZEfeDYlgAupMI34k) | [The Struts](https://open.spotify.com/artist/3lDpdwM8KILepMHqBWUhIA) | [YOUNG&DANGEROUS](https://open.spotify.com/album/1mFRTnYk72zZfVk7l25G3g) | 2:58 |
 | 46 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |
 | 47 | [only wanna dance](https://open.spotify.com/track/5unvfecPlWyn1NkFpf5YvA) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [only wanna dance](https://open.spotify.com/album/0TKIG4zSRc1lLU7CJ5ythm) | 2:24 |
-| 48 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
-| 49 | [When Your Heart Stops Beating](https://open.spotify.com/track/6yT4ww7r7wDBlwMDUazx0U) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/1u59jNVLIMqS6h3YUsMNPc) | 3:12 |
+| 48 | [When Your Heart Stops Beating](https://open.spotify.com/track/6yT4ww7r7wDBlwMDUazx0U) | [+44](https://open.spotify.com/artist/7gkRNHOOt7QfhhXf0rEnmj) | [When Your Heart Stops Beating](https://open.spotify.com/album/1u59jNVLIMqS6h3YUsMNPc) | 3:12 |
+| 49 | [One Eyed Bastard](https://open.spotify.com/track/1uCkz8Cg3ZlJ871iuFL8Ok) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [One Eyed Bastard](https://open.spotify.com/album/3u8itVPtqaNeve1Ufw5dvd) | 2:52 |
 | 50 | [Cry](https://open.spotify.com/track/7jKziCSFvitg68mOsTd7RL) | [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [Imaginary Enemy](https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT) | 3:30 |
 | 51 | [Two\-Timing Touch and Broken Bones](https://open.spotify.com/track/5F7AoCwgftgUdGUgd57RVE) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [Tyrannosaurus Hives](https://open.spotify.com/album/2Qo8MVIOIyrBrqgoCsHCXV) | 2:00 |
 | 52 | [Genocide](https://open.spotify.com/track/2NlRF63jgKhHY1RNhoXQRX) | [The Offspring](https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ) | [Smash](https://open.spotify.com/album/7IDywTRaCI8qzS3X8tNU3x) | 3:33 |

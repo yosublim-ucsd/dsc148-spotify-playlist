@@ -2,7 +2,7 @@
 
 ### [This Is Gunna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iznkj)
 
-> This is Gunna。アーティストの代表曲をひとつのプレイリストに。
+> This is Gunna\. The essential tracks, all in one playlist.
 
 58 songs - 2 hr 53 min
 

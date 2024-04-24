@@ -2,7 +2,7 @@
 
 ### [This Is Doechii](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2IQ4xi)
 
-> This is Doechii。アーティストの代表曲をひとつのプレイリストに。
+> This is Doechii\. The essential tracks, all in one playlist.
 
 40 songs - 1 hr 55 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 
 > The extraordinary women making great country music today\. Cover: Morgan Wade
 
-[Spotify](https://open.spotify.com/user/spotify) - 487,559 likes - 100 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 487,758 likes - 100 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,9 +39,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 29 | [Suds in the Bucket](https://open.spotify.com/track/6NhpIdjYoufuNNlBsgOztc) | [Sara Evans](https://open.spotify.com/artist/7qvsLYsYP0MHD7jkdv6DAG) | [Restless](https://open.spotify.com/album/4Wx0gVzxrbRgxcaJ0M02Ik) | 3:47 |
 | 30 | [What If I Don't](https://open.spotify.com/track/6JsDkVknNaXZ6fIl33D30R) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [What If I Don't](https://open.spotify.com/album/72zFuGuB7g5gghEsKC36CC) | 3:21 |
 | 31 | [Somethin' Bad \(with Carrie Underwood\) \- Duet with Carrie Underwood \[Album\]](https://open.spotify.com/track/6s9m5J92By7jii22Q2XtY2) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Platinum](https://open.spotify.com/album/4ZnIw6llQFlXcFgjMNtrTw) | 2:49 |
-| 32 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
+| 32 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
 | 33 | [Bigger Than The Song](https://open.spotify.com/track/5v3r5BBXflOj5vedGJb1v8) | [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Bigger Than The Song](https://open.spotify.com/album/7i0OwcTKu2NSs6CNnuP653) | 3:09 |
-| 34 | [Wilder Days](https://open.spotify.com/track/2vubFQgAJO5SeuVa7ytIHc) | [Morgan Wade](https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP) | [Reckless](https://open.spotify.com/album/1PuZ5juin9Mpt3Tyiygzio) | 4:11 |
+| 34 | [I Hope You Dance](https://open.spotify.com/track/65B1tEOv5W294uCKbmEcFV) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [I Hope You Dance](https://open.spotify.com/album/5NwzdF5qHEtXT6SepzhWJv) | 4:54 |
 | 35 | [Damn You](https://open.spotify.com/track/2ChfZlDoaI34ZoAVzzTQQE) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Damn You](https://open.spotify.com/album/6C5pn8Iv7yow2MZFhycH0s) | 3:03 |
 | 36 | [Heart They Didn't Break](https://open.spotify.com/track/4QzoBae05AxedOwsC8cqlh) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Heart They Didn't Break](https://open.spotify.com/album/0UEl0ztfoALMXiCqjl8tvN) | 3:10 |
 | 37 | [XXX's And OOO's \(An American Girl\)](https://open.spotify.com/track/08c3wmdjKSjxTJY9cHSts7) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Thinkin' About You](https://open.spotify.com/album/5JqF92VDewHtYXqueUHuyx) | 2:47 |
@@ -93,8 +93,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 83 | [Bridesmaids](https://open.spotify.com/track/6qrJ2kxNvGey8ZEWii5teB) | [Kylie Morgan](https://open.spotify.com/artist/3g2yaL04Uapb5fxmwsUZgV) | [Bridesmaids](https://open.spotify.com/album/0VdFcNM19RTRUlX59heg5A) | 2:50 |
 | 84 | [Circles Around This Town](https://open.spotify.com/track/13G5xv1wUKvJYbK0wYmioN) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Circles Around This Town](https://open.spotify.com/album/2MeNs8IOs7udC2CuiFKmlZ) | 3:15 |
 | 85 | [Ghost Story](https://open.spotify.com/track/2FGOg7uYBfnspkPOISXTFY) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Ghost Story](https://open.spotify.com/album/7jiRQ5lBRvqoqSsPldfHjc) | 3:01 |
-| 86 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 |
-| 87 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
+| 86 | [Worth It](https://open.spotify.com/track/1squCbXxHkHAO0VYRjTl2S) | [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [Worth It](https://open.spotify.com/album/3cA8ijJVzxkCtV9CePO8If) | 3:03 |
+| 87 | [Too Much And Not Enough](https://open.spotify.com/track/6UL8AQO0xpwUKx4Tt4Onx8) | [Hannah Ellis](https://open.spotify.com/artist/6jHWWttC33OQdEDnUXtYrq) | [Too Much And Not Enough](https://open.spotify.com/album/7digMEty8FrKfhF1O4364r) | 3:00 |
 | 88 | [Woman You Got](https://open.spotify.com/track/2NNioXX1t4whQsBF8FfExl) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Woman You Got](https://open.spotify.com/album/19GuJrC5nV45shkMHbBEXm) | 2:57 |
 | 89 | [Love Go By](https://open.spotify.com/track/2kIVaHR9iEO8Ai2m4fFiB6) | [Elle King](https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx) | [Come Get Your Wife](https://open.spotify.com/album/5vpynwbpUceBDNOkh9TMR5) | 3:42 |
 | 90 | [The Girl I Was](https://open.spotify.com/track/1vDIn9JZ1fxRL5zkmyTFvy) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [The Girl I Was](https://open.spotify.com/album/3rKxMNBmnC7PhoRvUZNyvY) | 3:38 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX49poIUZYXp7.md) - [plain]
 | 94 | [Waking Up Dreaming](https://open.spotify.com/track/5cc1GqkadgfMlLszRXqdhM) | [Shania Twain](https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL) | [Waking Up Dreaming](https://open.spotify.com/album/7GFyc7OOv95UntmgAPtPwn) | 3:18 |
 | 95 | [Worth It](https://open.spotify.com/track/5APWbHdwUCA08ZLl0meDCh) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [I Don't Believe We've Met](https://open.spotify.com/album/1JmemBgPDsNQd1gbqKDUzM) | 3:26 |
 | 96 | [Strangers](https://open.spotify.com/track/3u6YTdxBfx3dzIC5qJ9Afu) | [Maddie & Tae](https://open.spotify.com/artist/34bhyY8jfKez7uKakMfy4y) | [Strangers](https://open.spotify.com/album/07xNmQBSa65Wxv8qPsFaLY) | 3:32 |
-| 97 | [heels over head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [heels over head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
-| 98 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 |
+| 97 | [Fillin' My Cup \(feat\. Little Big Town\)](https://open.spotify.com/track/1zj8nUbc4cSs9Fc733MFDy) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 3:11 |
+| 98 | [heels over head](https://open.spotify.com/track/4QShZHQERrTVI2IDzWmbzJ) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [heels over head](https://open.spotify.com/album/79CHHS2PirPGS6zHSgHogt) | 3:14 |
 | 99 | [Found It In You](https://open.spotify.com/track/35zkYE4siFuNCJgcbI1nlt) | [Tiera Kennedy](https://open.spotify.com/artist/26VEPCGAYB9OClQodb0OR1) | [Found It In You](https://open.spotify.com/album/2VFCN1WQ0qPZydQY2E2YnI) | 3:03 |
 | 100 | [Somethin' Bout You](https://open.spotify.com/track/2hsarLx1u2OgOmkcJ8ejBm) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Somethin' Bout You](https://open.spotify.com/album/4ejJyrAvRvhVRadKmVPByS) | 2:36 |
 

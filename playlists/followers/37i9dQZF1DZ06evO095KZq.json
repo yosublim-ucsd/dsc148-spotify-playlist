@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 427919,
+  "2024-04-24": 427742,
   "date_first_scraped": "2023-08-09",
-  "description": "This Is El Fantasma. Los temas esenciales, todos en una lista.",
+  "description": "This is El Fantasma. The essential tracks, all in one playlist.",
   "name": "This Is El Fantasma",
   "tracks": [
     {
@@ -915,7 +915,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 152704,
       "name": "Los Inicios",
       "url": "https://open.spotify.com/track/05ySOTPwLvGKE6e1fz6EaY"
@@ -1201,7 +1201,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2023-09-19",
+      "date_removed": null,
       "duration_ms": 141409,
       "name": "Soy de Durango",
       "url": "https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX"

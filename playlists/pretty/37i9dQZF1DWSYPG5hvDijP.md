@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYPG5hvDijP.md) - [plain]
 
 > New Hip Hop from India.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,867 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,931 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/0TwBzGQy3qqWxK9Yqg8nGG) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 |
+| 1 | [Dil Lena Khel](https://open.spotify.com/track/0rikQXyHCK7fpkrCjO0FDz) | [Dino James](https://open.spotify.com/artist/45PG2L6Fh2XvYL4ONzpdoW), [R\. D\. Burman](https://open.spotify.com/artist/2JSYASbWU5Y0fVpts3Eq7g), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [Dil Lena Khel](https://open.spotify.com/album/0pA1hZCAfTz1TrV6oXpD1M) | 2:26 |
 | 2 | [G\-Yaan](https://open.spotify.com/track/3wGz2eHyWekq06k6LdqYiG) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Ek Tha Raja](https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU) | 2:22 |
 | 3 | [Fuck The Feelings](https://open.spotify.com/track/0dGdfiC8QJXiuCx3Sf3oQv) | [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu), [Sammohit](https://open.spotify.com/artist/0cWoBv3cKhNM18FbRFy2x2), [J Trix](https://open.spotify.com/artist/3mOWS2HCVfTNCiPiRuDqdf) | [Fuck The Feelings](https://open.spotify.com/album/1tGrBa6noqhUyASTNQEubp) | 3:49 |
 | 4 | [Ladki Scheme Hai](https://open.spotify.com/track/4PQ77n0G4SR8FPFf5uCI2p) | [Mirage 2.0](https://open.spotify.com/artist/6qkBTYjV48Mt8NSW4t54V2), [Nonchi](https://open.spotify.com/artist/57hC7DGsnOtvGTHMAce1i4), [Young Seaz](https://open.spotify.com/artist/4FZyOlMqa2WA0twWT7yOkK) | [Ladki Scheme Hai](https://open.spotify.com/album/1xSXJzntDOVykzNm9Jtzw4) | 2:18 |

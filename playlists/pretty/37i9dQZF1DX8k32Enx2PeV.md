@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 
 > ¡Trópico y vanguardia! Deja que la brisa impulse tu espíritu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,164 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,176 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 27 | [Quiromancia \(feat\. Vic Mirallas\)](https://open.spotify.com/track/1FjvS0Xoqcvo6DG3Dn8E8a) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG), [Vic Mirallas](https://open.spotify.com/artist/08VkVB0giqumfUMl4Ea922) | [Quiromancia](https://open.spotify.com/album/1KBZbjexyRuJi8ke07XmyY) | 4:16 |
 | 28 | [Besos Ricos](https://open.spotify.com/track/1AeVenKA9w42gepptaabsD) | [Rawayana](https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2), [Goyo](https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX) | [Besos Ricos](https://open.spotify.com/album/53ykeMtGt4deG7mnkMEgeU) | 3:07 |
 | 29 | [Aquí Me Tienes](https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [Aquí Me Tienes](https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN) | 2:37 |
-| 30 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
-| 31 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 |
+| 30 | [Perdiendo el Control](https://open.spotify.com/track/11tJumHPQFoXnw9LYgcklj) | [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Perdiendo el Control](https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10) | 3:22 |
+| 31 | [Que Te Vaya Mal](https://open.spotify.com/track/55Q02TFgJewHvTLKtrCRJj) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Motherflowers](https://open.spotify.com/artist/3TZegGsaMoOr8lrv2z9Mky) | [ALL\-YOU\-CAN\-EAT VOL.1](https://open.spotify.com/album/3MmERnIFWoyKMAlRnXeJGX) | 3:39 |
 | 32 | [Cuando Canto Grito](https://open.spotify.com/track/1t4gqrKnZ8TYjUAuyskN4Q) | [Cerrero](https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6), [Lucía Pulido](https://open.spotify.com/artist/3Nc4dbxJUlEmftLhLuXn3O) | [Cuando Canto Grito](https://open.spotify.com/album/4ZvHs6XyOHCVwWd1x0NGFP) | 5:41 |
 | 33 | [Caribeña](https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W), [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Caribeña](https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM) | 3:11 |
 | 34 | [Esto Es Real \(8100mg\)](https://open.spotify.com/track/5FWW3dZqsqN3ryZqBpsmFS) | [Combo Chimbita](https://open.spotify.com/artist/5sgpZfCPK6zd3MEB1Nrhey) | [Ahomale](https://open.spotify.com/album/5T8HiC9DBepOkVyHur3AHe) | 4:58 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8k32Enx2PeV.md) - [plain]
 | 49 | [Sun a Shine](https://open.spotify.com/track/5pj9GnIvHNfoTevSH8z8Uv) | [Elkin Robinson](https://open.spotify.com/artist/1MS4MMgPaQ0WyM0u0Uj3EO) | [Sun a Shine](https://open.spotify.com/album/1ZAfskHXkdsJUDS2qYG0X3) | 2:52 |
 | 50 | [XODÓ](https://open.spotify.com/track/3lBGGakiCKy5ZHNObSlQnD) | [JBot & Tuti](https://open.spotify.com/artist/5jxVsaFreexOv9fypQsdEX) | [XODÓ](https://open.spotify.com/album/3bZ0Fd7JVJDVYyjV4YJmpo) | 2:37 |
 | 51 | [All Inclusive](https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm) | [Marissa Mur](https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT) | [All Inclusive](https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI) | 2:35 |
-| 52 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
-| 53 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
+| 52 | [ni una foto](https://open.spotify.com/track/5Fc6a806jgiEU3ka1Rqpyq) | [GAMBOA](https://open.spotify.com/artist/6vNjkmZB4B8C9isC2GgjD9) | [ni una foto](https://open.spotify.com/album/6xKGfOhCxShui9ia3zCxwJ) | 3:12 |
+| 53 | [Ese Dinero](https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F) | [Nia Vanie](https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD) | [Ese Dinero](https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT) | 3:58 |
 | 54 | [Ciénaga](https://open.spotify.com/track/6Mvxbj2eJphVbSFfa4RE5U) | [Los Yoryis](https://open.spotify.com/artist/2PG2Bb0BU0Aojy7Vkdl9ya) | [Ciénaga](https://open.spotify.com/album/6rZTSfPwLlZQz80lF4vKVn) | 2:56 |
 | 55 | [Un Poco Menos Idiota](https://open.spotify.com/track/7hvtbGqnRyMKTY1jaSGUsp) | [Adrian Bello](https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8) | [Un Poco Menos Idiota](https://open.spotify.com/album/4SxeVZBPipJvVadnhgtkkI) | 3:45 |
 | 56 | [Calzón](https://open.spotify.com/track/5nWQMUhXnjl4yAyYG1ZMLs) | [Lorena Blume](https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W) | [Calzón](https://open.spotify.com/album/3yQqrMWyx1WNXtc6aLmYS7) | 3:51 |

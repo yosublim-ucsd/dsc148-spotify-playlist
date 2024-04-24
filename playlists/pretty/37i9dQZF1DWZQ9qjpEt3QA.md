@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 
 > Cruising through a shimmering night with the current City Pop wave from Asia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,330 likes - 93 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,283 likes - 93 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQ9qjpEt3QA.md) - [plain]
 | 70 | [discohaze](https://open.spotify.com/track/7x7CRaBCFtmKFAbc9N3iwx) | [lost spaces](https://open.spotify.com/artist/387YZVajWRq3ZPiCxiX07b), [JAIE](https://open.spotify.com/artist/74Zk4BaTpscIf6k04UoCds) | [no\-vacancy](https://open.spotify.com/album/5DrKVvCMN1ail6mAmnobXq) | 3:18 |
 | 71 | [Manila](https://open.spotify.com/track/32OLhhBNdDypGemTbxDavN) | [ONE CLICK STRAIGHT](https://open.spotify.com/artist/457BGAQIRpxlvY5gcbDjUQ) | [Manila](https://open.spotify.com/album/0W2sFOFR8ZRKjJ520qFyR6) | 3:35 |
 | 72 | [Groovin](https://open.spotify.com/track/2ayXROMw6bYBUgL4zVpbma) | [JINex](https://open.spotify.com/artist/7qs32wJqw6AQ1fELwvJdOT), [Jue](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [Groovin](https://open.spotify.com/album/0lIIrN2fJnQS2gwxVmN5GV) | 3:22 |
-| 73 | [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 |
+| 73 | [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 |
 | 74 | [Dan Bila \- 80'S Version](https://open.spotify.com/track/5lev02UnV726JTgVEfgudy) | [Mondo Gascaro](https://open.spotify.com/artist/6x92tfaXHuPBctPxrfTeMY), [Pablo Cikaso](https://open.spotify.com/artist/6TbuyXmFnfO8OvW0KrhIKS) | [Dan Bila \(80'S Version\)](https://open.spotify.com/album/6A48UOi3IqLK6R3S8TcQc2) | 8:36 |
 | 75 | [Give Me The Light](https://open.spotify.com/track/63K56gwJ3ALMJsIwiOq4CF) | [uju](https://open.spotify.com/artist/6g2HsIivvQ7UGirVhksd92) | [Sunday Seoul Ep.1](https://open.spotify.com/album/6ZW5WYi1P6odIEMJDH4xBC) | 3:10 |
 | 76 | [Have You Ever](https://open.spotify.com/track/6lMcbUMHMDkGCiuj8Dm5BL) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Have You Ever](https://open.spotify.com/album/5Zc4mgLhFNdsjzqeIdPvIv) | 3:52 |

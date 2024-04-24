@@ -1,6 +1,6 @@
 {
   "description": "The perfect mixtape for an anime fight scene. Also check out <a href='spotify:playlist:37i9dQZF1EId8uVIwoG4N5'>Anime Rap Mix</a>",
-  "num_followers": 1056326,
+  "num_followers": 1058238,
   "original_name": "sh\u014dnen",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "paranoia",
-        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
-      },
-      "artists": [
-        {
-          "name": "KENTENSHI",
-          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
-        }
-      ],
-      "duration_ms": 117408,
-      "name": "paranoia",
-      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Let U Go",
         "url": "https://open.spotify.com/album/0TC7kk9aS65YztJnAcEeYR"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 124711,
       "name": "WET DREAMS (w/ Nimstarr)",
       "url": "https://open.spotify.com/track/4as0bvI0a6VSgjWObsvwhi"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "paranoia",
+        "url": "https://open.spotify.com/album/6jS7gC4DBGC5GLA99RFwEx"
+      },
+      "artists": [
+        {
+          "name": "KENTENSHI",
+          "url": "https://open.spotify.com/artist/7Ad37JjLQE0Gjd9YuGHj3j"
+        }
+      ],
+      "duration_ms": 117408,
+      "name": "paranoia",
+      "url": "https://open.spotify.com/track/7w4t6sPVdboBZpa5prmUuj"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -655,6 +655,22 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
+        "name": "Benbow Crescent",
+        "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
+      },
+      "artists": [
+        {
+          "name": "Cochise",
+          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
+        }
+      ],
+      "duration_ms": 149145,
+      "name": "Hatchback",
+      "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
         "name": "Death Lotto",
         "url": "https://open.spotify.com/album/64YJodXZbiqUpwg9lkaYoE"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 133896,
       "name": "Death Lotto",
       "url": "https://open.spotify.com/track/1fd3XY9w5SzDPT40K92Bch"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "Benbow Crescent",
-        "url": "https://open.spotify.com/album/3QXYqRVyBQfNK3MDn82hVF"
-      },
-      "artists": [
-        {
-          "name": "Cochise",
-          "url": "https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx"
-        }
-      ],
-      "duration_ms": 149145,
-      "name": "Hatchback",
-      "url": "https://open.spotify.com/track/18lkWhwmY0fVVv40eCxohv"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1025,22 +1025,6 @@
       "url": "https://open.spotify.com/track/353nsW8dzFIYX3hZfn2fUL"
     },
     {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
-        "name": "Dalai Lama",
-        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
-      },
-      "artists": [
-        {
-          "name": "Shotgun Willy",
-          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
-        }
-      ],
-      "duration_ms": 135433,
-      "name": "Dalai Lama",
-      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
-    },
-    {
       "added_at": "2024-02-09 15:53:38",
       "album": {
         "name": "5 by 5",
@@ -1055,6 +1039,22 @@
       "duration_ms": 71611,
       "name": "5 by 5",
       "url": "https://open.spotify.com/track/0n3xqX2q2ioobUvPHcMpcH"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Dalai Lama",
+        "url": "https://open.spotify.com/album/78gNxj2hj39is15hwP82IC"
+      },
+      "artists": [
+        {
+          "name": "Shotgun Willy",
+          "url": "https://open.spotify.com/artist/7Gz6VlTVwlNtBNMYV4OI3w"
+        }
+      ],
+      "duration_ms": 135433,
+      "name": "Dalai Lama",
+      "url": "https://open.spotify.com/track/3OXPEU3MLoJTWQmozs4IVc"
     },
     {
       "added_at": "2024-01-12 18:00:00",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-01-12 18:00:00",
       "album": {
-        "name": "Break Shit",
-        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
-      },
-      "artists": [
-        {
-          "name": "Jasiah",
-          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
-        }
-      ],
-      "duration_ms": 95483,
-      "name": "Break Shit",
-      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
-    },
-    {
-      "added_at": "2024-01-12 18:00:00",
-      "album": {
         "name": "Cyberfreak",
         "url": "https://open.spotify.com/album/5WcR1r442UgXGInqGAbqxT"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 118093,
       "name": "Cyberfreak",
       "url": "https://open.spotify.com/track/5xjBjhBgqR9lJguneF01jQ"
+    },
+    {
+      "added_at": "2024-01-12 18:00:00",
+      "album": {
+        "name": "Break Shit",
+        "url": "https://open.spotify.com/album/589UEOGJTF0Jk8sXA4GLKA"
+      },
+      "artists": [
+        {
+          "name": "Jasiah",
+          "url": "https://open.spotify.com/artist/7502fDxg339jvGV08Jd4R0"
+        }
+      ],
+      "duration_ms": 95483,
+      "name": "Break Shit",
+      "url": "https://open.spotify.com/track/0Sd0kdgU6HrIclxYjuV99j"
     },
     {
       "added_at": "2024-02-01 20:59:02",

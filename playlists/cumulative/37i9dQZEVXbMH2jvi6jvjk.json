@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
@@ -1196,7 +1196,7 @@
       ],
       "date_added": "2022-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 274026,
       "name": "All for You",
       "url": "https://open.spotify.com/track/3JyEmaZmPsuIvFivnwN22k"
@@ -4322,7 +4322,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -9208,7 +9208,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
@@ -10416,6 +10416,24 @@
       "duration_ms": 272373,
       "name": "Escapism.",
       "url": "https://open.spotify.com/track/5mHdCZtVyb4DcJw8799hZp"
+    },
+    {
+      "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
     },
     {
       "album": {
@@ -13444,7 +13462,7 @@
       ],
       "date_added": "2024-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 382334,
       "name": "Hade Boss",
       "url": "https://open.spotify.com/track/2ee1Pa7Gs7lIGRXrl217IG"
@@ -14954,7 +14972,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 218004,
       "name": "I Can Do It With a Broken Heart",
       "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
@@ -16734,7 +16752,7 @@
       ],
       "date_added": "2023-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 410847,
       "name": "iPlan",
       "url": "https://open.spotify.com/track/5yyYL1FpimADTIftYQU0cg"
@@ -17656,7 +17674,7 @@
       ],
       "date_added": "2023-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 390873,
       "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
       "url": "https://open.spotify.com/track/6OGNF7mro80pMi5q1HhylS"
@@ -28866,7 +28884,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 215178,
       "name": "Residuals",
       "url": "https://open.spotify.com/track/6txAWGckgEGJIhLjhNdtE9"
@@ -31806,7 +31824,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 161831,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr"
@@ -34578,7 +34596,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 475664,
       "name": "Thath'Indawo (Live)",
       "url": "https://open.spotify.com/track/7wcjeveluiW5djtxLCxNSx"
@@ -35926,10 +35944,28 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {
@@ -36608,7 +36644,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 504703,
       "name": "Turn Off The Lights",
       "url": "https://open.spotify.com/track/2fofdfhRxFVP1bRdjA1FEc"
@@ -39276,7 +39312,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 201400,
       "name": "We Belong Together",
       "url": "https://open.spotify.com/track/4EI8VuxUuIHKfafU72emqz"
@@ -40000,7 +40036,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 161342,
       "name": "Whatever She Wants",
       "url": "https://open.spotify.com/track/57wp7VFnV8X0pSVnYArGeJ"
@@ -40058,7 +40094,7 @@
       ],
       "date_added": "2022-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 217346,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/4iuNZTcvT9diFySSzVsnVS"

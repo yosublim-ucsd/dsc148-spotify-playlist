@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 
 > Rock songs that get down and dirty\. Cover: Dirty Honey
 
-[Spotify](https://open.spotify.com/user/spotify) - 491,921 likes - 100 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 491,843 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY6vTWIdZ54A.md) - [plain]
 | 78 | [Graveyard](https://open.spotify.com/track/5WwPOiBVI4Y2nrMubCneOy) | [No Money Kids](https://open.spotify.com/artist/7FhOFt7mORRpbrgHdSeCfF) | [Graveyard](https://open.spotify.com/album/53hoTqaWfuRUwTDtZI72Rx) | 3:05 |
 | 79 | [Flesh and Bone](https://open.spotify.com/track/4l7F39cJ9mejxpuDp8rUX0) | [Blackberry Smoke](https://open.spotify.com/artist/5P1oS9DUTPEqcrmXDmX4p8) | [Flesh and Bone](https://open.spotify.com/album/3XNx3O1SSNkAwMUVQFJxBR) | 4:32 |
 | 80 | [My Name Is Human](https://open.spotify.com/track/3VYgUNGdcQwfjDukoYkFWf) | [Highly Suspect](https://open.spotify.com/artist/2pqd3HsfsvcBGtHvPOg6eg) | [My Name Is Human](https://open.spotify.com/album/0UkO5kKwHPWG9K3Q4MJrCQ) | 4:18 |
-| 81 | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/track/126giU8BEn5WzeJGkFhD0d) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/album/5XVZRM83dfA9YGj2hsaOSs) | 4:20 |
-| 82 | [Bad Spell](https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq) | 3:15 |
+| 81 | [Bad Spell](https://open.spotify.com/track/5cHukuRapWJdAY6EitrL2C) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bad Spell](https://open.spotify.com/album/2h7ZuJxpRNLE2B2FQwSIuq) | 3:15 |
+| 82 | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/track/126giU8BEn5WzeJGkFhD0d) | [Robert Plant](https://open.spotify.com/artist/1OwarW4LEHnoep20ixRA0y) | [Charlie Patton Highway \(Turn it Up, Pt\. 1\)](https://open.spotify.com/album/5XVZRM83dfA9YGj2hsaOSs) | 4:20 |
 | 83 | [On My Mind](https://open.spotify.com/track/4vmgP10TH0YYqJkzr8yLW0) | [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO) | [On My Mind](https://open.spotify.com/album/58m6x0iCKILGzU5jNlN2C0) | 3:33 |
 | 84 | [Hit the Ground](https://open.spotify.com/track/55mdS8S3yfaFlQkFmfTEYU) | [No Fit State](https://open.spotify.com/artist/51dJqJNH1kWA81xA9UbXnX) | [Hit the Ground](https://open.spotify.com/album/4nytNWaRb3frxwuHFk6lj4) | 3:16 |
 | 85 | [The Middle](https://open.spotify.com/track/0ldybyyoztnIBPsqZWjPNF) | [Taipei Houston](https://open.spotify.com/artist/1jnyf6lf0zcETB79xWnHF4) | [The Middle](https://open.spotify.com/album/35GXWiN1dp2ZkXjQraRwUi) | 3:34 |

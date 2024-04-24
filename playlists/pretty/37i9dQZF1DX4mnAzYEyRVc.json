@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Mad Caddies",
-  "num_followers": 48936,
+  "num_followers": 48992,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Radio Ghetto",
-        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "Despideme",
-      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Los Rabanes",
         "url": "https://open.spotify.com/album/388hQ9HODVgaonBXDEznFh"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 184533,
       "name": "My Commanding Wife",
       "url": "https://open.spotify.com/track/1Yioe436ryeIRmiEzsrzVv"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Radio Ghetto",
+        "url": "https://open.spotify.com/album/6ck4DwNRJf4589Lw8RM7pZ"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "Despideme",
+      "url": "https://open.spotify.com/track/1TzaV3yEKswqIBrvi7VLKv"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "En la Kalle",
-        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
-      },
-      "artists": [
-        {
-          "name": "Skalariak",
-          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
-        }
-      ],
-      "duration_ms": 217826,
-      "name": "Skalari Rude Klub (SRK)",
-      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Contra-Revolucion Avenue",
         "url": "https://open.spotify.com/album/72O6QDXsk2ZkNgZYY2PPF2"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 182400,
       "name": "Spanish Bombs",
       "url": "https://open.spotify.com/track/5hRXh6FJLgjzERxIWbvm2M"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "En la Kalle",
+        "url": "https://open.spotify.com/album/5nWxwi3avzKgXiMyQN2E7P"
+      },
+      "artists": [
+        {
+          "name": "Skalariak",
+          "url": "https://open.spotify.com/artist/0hSw6yMPrZuFEVjDX5CoHQ"
+        }
+      ],
+      "duration_ms": 217826,
+      "name": "Skalari Rude Klub (SRK)",
+      "url": "https://open.spotify.com/track/2nAtFjIG82aevSNwGUZUqJ"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1219,22 +1219,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Brass Emo, Vol. 2",
-        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
-      },
-      "artists": [
-        {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
-        }
-      ],
-      "duration_ms": 193500,
-      "name": "Ocean Avenue",
-      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Si Oh !",
         "url": "https://open.spotify.com/album/2H6VK5tsOqYwURh7BsLsiB"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 151013,
       "name": "Guapa",
       "url": "https://open.spotify.com/track/6ZnlFcQA6Ghn8NYEgTu4Dl"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Brass Emo, Vol. 2",
+        "url": "https://open.spotify.com/album/79iZ4ozQkY3FyBj5fWDg0a"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 193500,
+      "name": "Ocean Avenue",
+      "url": "https://open.spotify.com/track/6OeFGjI6HJK5OC3k8KFoWz"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "The Last Ninja",
+        "url": "https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "duration_ms": 216933,
+      "name": "The Last Ninja",
+      "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Behin Eta Berriz",
         "url": "https://open.spotify.com/album/68fXEXnGqM6UL0Z2QXGZK1"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 157253,
       "name": "Como un Rayo",
       "url": "https://open.spotify.com/track/0h19BHLtwLka1kBoJSITle"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "The Last Ninja",
-        "url": "https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF"
-      },
-      "artists": [
-        {
-          "name": "Tokyo Ska Paradise Orchestra",
-          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
-        }
-      ],
-      "duration_ms": 216933,
-      "name": "The Last Ninja",
-      "url": "https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1547,22 +1547,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Gotta Keep It Going",
-        "url": "https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX"
+        "name": "Return Of The Ugly",
+        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
       },
       "artists": [
         {
-          "name": "The Gramophone Allstars",
-          "url": "https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN"
-        },
-        {
-          "name": "Rodrigo Lavi\u00f1a",
-          "url": "https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5"
+          "name": "Bad Manners",
+          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
         }
       ],
-      "duration_ms": 225397,
-      "name": "Gotta Keep It Going",
-      "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
+      "duration_ms": 182600,
+      "name": "Sally Brown",
+      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1583,34 +1579,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Return Of The Ugly",
-        "url": "https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD"
+        "name": "Gotta Keep It Going",
+        "url": "https://open.spotify.com/album/37mFb0lfYnSslaJxUYabIX"
       },
       "artists": [
         {
-          "name": "Bad Manners",
-          "url": "https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx"
-        }
-      ],
-      "duration_ms": 182600,
-      "name": "Sally Brown",
-      "url": "https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Palm Trees and Pines",
-        "url": "https://open.spotify.com/album/1TfmRHcX2VSoLyQu5qDNoS"
-      },
-      "artists": [
+          "name": "The Gramophone Allstars",
+          "url": "https://open.spotify.com/artist/329b1AgXMb6retylGLzMjN"
+        },
         {
-          "name": "Mad Caddies",
-          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+          "name": "Rodrigo Lavi\u00f1a",
+          "url": "https://open.spotify.com/artist/2GY6Es5fP09QBZW8KDbbv5"
         }
       ],
-      "duration_ms": 220645,
-      "name": "Palm Trees and Pines",
-      "url": "https://open.spotify.com/track/4FzgB1N6xjQnTLWEQgS2VS"
+      "duration_ms": 225397,
+      "name": "Gotta Keep It Going",
+      "url": "https://open.spotify.com/track/1pBrnr4hWlpQl2a2TXyd8j"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1631,6 +1615,22 @@
       "duration_ms": 243615,
       "name": "Yes It's True",
       "url": "https://open.spotify.com/track/7otmuOjM6VPcBbagbJznIw"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Palm Trees and Pines",
+        "url": "https://open.spotify.com/album/1TfmRHcX2VSoLyQu5qDNoS"
+      },
+      "artists": [
+        {
+          "name": "Mad Caddies",
+          "url": "https://open.spotify.com/artist/0cmBbO2sr4w0rRGt3rKvs6"
+        }
+      ],
+      "duration_ms": 220645,
+      "name": "Palm Trees and Pines",
+      "url": "https://open.spotify.com/track/4FzgB1N6xjQnTLWEQgS2VS"
     },
     {
       "added_at": "2024-04-19 06:00:00",

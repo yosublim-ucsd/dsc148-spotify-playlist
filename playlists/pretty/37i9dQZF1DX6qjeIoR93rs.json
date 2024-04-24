@@ -1,6 +1,6 @@
 {
   "description": "The sweet sounds of Palestine.",
-  "num_followers": 63482,
+  "num_followers": 63567,
   "original_name": "Palestine Sounds",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
-        "name": "Ll Abad",
-        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
-      },
-      "artists": [
-        {
-          "name": "Lina Makoul",
-          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
-        }
-      ],
-      "duration_ms": 212476,
-      "name": "Ll Abad",
-      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
         "name": "Shamstep",
         "url": "https://open.spotify.com/album/1pttNsXr5b1D3K6qUd9mXM"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 285533,
       "name": "Nijmet El-Subeh",
       "url": "https://open.spotify.com/track/5ngzNl6skIrN3XZHrF5TXr"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
+        "name": "Ll Abad",
+        "url": "https://open.spotify.com/album/1a9uW1qEYbl2RWu9Pezxbr"
+      },
+      "artists": [
+        {
+          "name": "Lina Makoul",
+          "url": "https://open.spotify.com/artist/5jWJzXicyDE4CwlOR3omk7"
+        }
+      ],
+      "duration_ms": 212476,
+      "name": "Ll Abad",
+      "url": "https://open.spotify.com/track/062PjBRVYxZAinFwcS8Lyq"
     },
     {
       "added_at": "2024-03-14 09:57:19",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-03-14 09:57:19",
       "album": {
-        "name": "Fattah Al Ward",
-        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
-      },
-      "artists": [
-        {
-          "name": "Amal Murkus",
-          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
-        }
-      ],
-      "duration_ms": 226866,
-      "name": "Che Guevara",
-      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
-    },
-    {
-      "added_at": "2024-03-14 09:57:19",
-      "album": {
         "name": "Tareeq",
         "url": "https://open.spotify.com/album/1AuKyJjzvg2HAVBY1XgZg7"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 283724,
       "name": "Tareeq",
       "url": "https://open.spotify.com/track/0JTnnttCaS5UbGNTgpARrd"
+    },
+    {
+      "added_at": "2024-03-14 09:57:19",
+      "album": {
+        "name": "Fattah Al Ward",
+        "url": "https://open.spotify.com/album/140bykvPQFbs8nc48OHN7g"
+      },
+      "artists": [
+        {
+          "name": "Amal Murkus",
+          "url": "https://open.spotify.com/artist/35Or8bOOKNt9UJKHcySKdP"
+        }
+      ],
+      "duration_ms": 226866,
+      "name": "Che Guevara",
+      "url": "https://open.spotify.com/track/7itWreJjHK6oDM66FaG7Vb"
     },
     {
       "added_at": "2024-03-14 09:57:19",

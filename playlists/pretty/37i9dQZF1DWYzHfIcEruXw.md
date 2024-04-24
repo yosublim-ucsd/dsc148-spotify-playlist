@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 
 > The hottest Anime hits of the 10s\. 2010年代のアニメシーンを特集！Illustration by <a href="https://www.instagram.com/hideyasu\_moto/"> Hideyasu Moto</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 199,720 likes - 66 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 199,930 likes - 66 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYzHfIcEruXw.md) - [plain]
 | 21 | [ユキトキ](https://open.spotify.com/track/2m2HiaiQeTVrLjC4g2KzOz) | [yanaginagi](https://open.spotify.com/artist/15MlyDyZofFYpLb5MrLKVo) | [ユキトキ](https://open.spotify.com/album/1WgQyGoQ6VXI1oSEtYJcik) | 4:29 |
 | 22 | [Sincerely](https://open.spotify.com/track/4thBZp9kEDqeSwLtwcAZgk) | [TRUE](https://open.spotify.com/artist/0UwVT0iMLLAa9SUNENg4te) | [Lonely Queen's Liberation Party](https://open.spotify.com/album/4QP8jwitKgzWaNONjLof5h) | 4:35 |
 | 23 | [青い栞](https://open.spotify.com/track/5rzic9907jzA8NW07jXJMP) | [Galileo Galilei](https://open.spotify.com/artist/7p2S6p9yYGhJTtbTQFnsYZ) | [サークルゲーム](https://open.spotify.com/album/5vZYeW6n8QluAHNGwP0Qmv) | 5:38 |
-| 24 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [Vicke Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
+| 24 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [ VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
 | 25 | [迷子犬と雨のビート](https://open.spotify.com/track/2cj2VQeVzpuJ4SFHGdsuTz) | [ASIAN KUNG\-FU GENERATION](https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt) | [迷子犬と雨のビート](https://open.spotify.com/album/4eFM1e6Ikzic3y188a7jjB) | 4:58 |
 | 26 | [裏切りの夕焼け](https://open.spotify.com/track/4Vby7RWFEZFlZHd4Ah2ylb) | [THEATRE BROOK](https://open.spotify.com/artist/45mcHOr3FnakkF8oXLyhkr) | [裏切りの夕焼け](https://open.spotify.com/album/2ED0r4tStAPcXlP8bpQ6CM) | 3:28 |
 | 27 | [ドラマチックマーケットライド](https://open.spotify.com/track/70U4fc7x0dbMUVx8HblAO4) | [北白川たまこ\(cv:洲崎 綾\)](https://open.spotify.com/artist/44c0FMGDShNOz38GGoSGS4) | [TVアニメ「たまこまーけっと」&映画「たまこラブストーリー」ベストアルバム「Everybody Loves Somebody \~ うさぎ山から愛をこめて」](https://open.spotify.com/album/6H66xMy5tvVqdXkNeKxaER) | 4:19 |

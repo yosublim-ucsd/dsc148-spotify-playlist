@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 
 > This is Rancid\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,890 likes - 51 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,894 likes - 51 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3RKLw4.md) - [plain]
 | 50 | [Ghost of a Chance](https://open.spotify.com/track/37aAKOsaDmLmJBGqnO1tfr) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 1:36 |
 | 51 | [Arrested in Shanghai](https://open.spotify.com/track/3eMpWrJhO6XsiOanQTDpax) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Indestructible](https://open.spotify.com/album/7eP4TXdwO68vnivfDxs6fg) | 4:11 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGJiM2NjNTBlNmIxM2EwNGFiZjU2MDdjOTBkNzljMDY5`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGFlNzU3YmRjOTIxMDg4NzU1MTY2NDAwODc3MDgxYzYw`

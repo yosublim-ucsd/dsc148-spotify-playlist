@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 
 > This is Eros Ramazzotti\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,514 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,547 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 27 | [Più che puoi \(feat\. Cher\)](https://open.spotify.com/track/1PNEeTt2kEIWAzbkW2PeBW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Stilelibero](https://open.spotify.com/album/1T2L4oDjpkXixxar9oNwWm) | 4:11 |
 | 28 | [Si Bastasen un Par de Canciones](https://open.spotify.com/track/1NmCx7JXWzUYPQd1W9AJNn) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Eros Romántico](https://open.spotify.com/album/77LCz7UUmoX7ACsWezHqke) | 5:04 |
 | 29 | [Se Bastasse Una Canzone](https://open.spotify.com/track/1Mc6y8Q3MYppvrCylqDkwO) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Pierangelo Cassano](https://open.spotify.com/artist/6CqL00R5aLssfYFfxef5b5), [Luciano Pavarotti](https://open.spotify.com/artist/0Y8KmFkKOgJybpVobn1onU), [Steve Gadd](https://open.spotify.com/artist/42zoEf7IcpDSvdQjcrSpHl), [Pino Palladino](https://open.spotify.com/artist/5vjTuHApbJQOo9L3Ro2KM8), [Rob Mathes](https://open.spotify.com/artist/0h4fam4nEXq1bnQa4HDdrC), [Robbie Kondor](https://open.spotify.com/artist/2hfCYgRwaKOMYfqgYhK0SY), [Orchestra filarmonica di Torino](https://open.spotify.com/artist/2zv4J7wb7xNRbLAPimyxvU), [Marco Boemi](https://open.spotify.com/artist/2tYvY5iGtDhQ0eUwEaHnCx) | [The World Of Pavarotti](https://open.spotify.com/album/4sZtLMwl4ga9aV73G1Nn8D) | 4:35 |
-| 30 | [Por Las Calles Las Canciones \(feat\. Luis Fonsi\)](https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hay Vida](https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC) | 3:30 |
-| 31 | [En Mi Corazón Vivirás](https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:54 |
-| 32 | [Fábula \- Remastered 2021](https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(Remastered 192 khz\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 4:37 |
+| 30 | [En Mi Corazón Vivirás](https://open.spotify.com/track/3aFyXyc3riSZRJq55zzuLJ) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [We Love Disney \(Latino\)](https://open.spotify.com/album/2Aoj9UQGgww7hWnziqtFLo) | 3:54 |
+| 31 | [Fábula \- Remastered 2021](https://open.spotify.com/track/6E0YAI0iBKV5Dzl3jvnrdW) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Todo Historias \(Remastered 192 khz\)](https://open.spotify.com/album/0Y9FGQVfzuP0uZSA9tEBvf) | 4:37 |
+| 32 | [Por Las Calles Las Canciones \(feat\. Luis Fonsi\)](https://open.spotify.com/track/2XKbaUWZANGlB5ZmMTn8I9) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX), [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Hay Vida](https://open.spotify.com/album/5r6YUCWo4wKXzD2TDOaWFC) | 3:30 |
 | 33 | [Vita Ce N'è](https://open.spotify.com/track/2I5W8kZfEqNhKspk7Ot6Gb) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Vita Ce N'è](https://open.spotify.com/album/0ssE93P2MU1vTP6Iyz21lB) | 3:11 |
 | 34 | [Ama](https://open.spotify.com/track/04AIGHEqfrN4oL74aHdvjE) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Battito Infinito](https://open.spotify.com/album/3ndzRNxUxwpUoNAfs3UgCG) | 3:23 |
 | 35 | [Una Historia Importante \- Remastered 2021](https://open.spotify.com/track/6uulJvNvvJep8eNtOLOOIX) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Heroes De hoy \[35th Anniversary Edition \(Remastered 192 khz\)\]](https://open.spotify.com/album/0NVRrBt4sMmBSXuFp0Z7Gc) | 4:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3yoK5i.md) - [plain]
 | 49 | [Un angelo non é](https://open.spotify.com/track/5ehfzL2FRUk5GVHS9neJWS) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Stilelibero](https://open.spotify.com/album/110QUEiOQGYeEZYPjtOOl5) | 4:38 |
 | 50 | [Un Angelo Disteso Al Sole](https://open.spotify.com/track/7F4laaMW44ARgK3MioHv4n) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Noi](https://open.spotify.com/album/7gAJbyGOdx4SPXjhFfvSTH) | 3:23 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGU3YWU0NjhiNDZlYTY4MWNjNzg1ZjFiN2QzOGIzMWU4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDZjNWZkNjk2ZDE2MTlhNTc3ZjUzMDBlZDA4NTYwYjQ4`

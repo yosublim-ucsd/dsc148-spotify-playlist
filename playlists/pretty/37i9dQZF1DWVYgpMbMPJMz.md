@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > No need to wait!  Experience today's best Worship music right here, right now, on Spotify\.  Cover:  <a href="spotify:artist:5d1JhBfyb58upMXCZOdbQu">Phil Wickham</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 979,597 likes - 100 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 978,835 likes - 100 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 | 65 | [Who Else \- Live at Gateway Conference](https://open.spotify.com/track/1mBH77kFrD96YMow8bm5cb) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Abbie Gamboa](https://open.spotify.com/artist/4TJVQinD20ZEoJXSuV6IU5) | [Who Else \(Live\)](https://open.spotify.com/album/4PB1BxZTtyxqkihYYYK3pd) | 5:31 |
 | 66 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 |
 | 67 | [In Christ Alone](https://open.spotify.com/track/6oS15LyQtAwYsRL7usnT2M) | [Natalie Grant](https://open.spotify.com/artist/6KVnMm856M8CHHBCw53Ihh) | [Seasons](https://open.spotify.com/album/0N7E7ssTnuxjKorNihxEXe) | 4:08 |
-| 68 | [Stacking Stones \(Reimagined\)](https://open.spotify.com/track/2DAFg061bHts2RlDcTDUEb) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK) | [Stacking Stones \(Reimagined\)](https://open.spotify.com/album/6jQyS9Yk5FruVLnUDrZj0j) | 5:57 |
+| 68 | [Stacking Stones \(Reimagined\)](https://open.spotify.com/track/2DAFg061bHts2RlDcTDUEb) | [Bridge Worship](https://open.spotify.com/artist/3VJPZ0Lo0RreJboEogQsnK), [Mitch Wong](https://open.spotify.com/artist/0NmuD3IXcEGYAEX5hZxu39) | [Stacking Stones \(Reimagined\)](https://open.spotify.com/album/6jQyS9Yk5FruVLnUDrZj0j) | 5:57 |
 | 69 | [Manasseh \- Live](https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Church \(Live\)](https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc) | 6:02 |
 | 70 | [Don't Fight Alone](https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M) | [Jon Reddick](https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2) | [Don't Fight Alone](https://open.spotify.com/album/5ssaO7LgEOgKuuKRpm548L) | 4:00 |
 | 71 | [Acts 2](https://open.spotify.com/track/2SMCSikXj3CYsghcaUVscv) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Michael W\. Smith](https://open.spotify.com/artist/5aBxFPaaGk9204ssHUvXWN) | [Acts 2](https://open.spotify.com/album/1dMORalDL5wqJ4xEIN61U1) | 6:15 |

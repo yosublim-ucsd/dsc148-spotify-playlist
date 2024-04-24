@@ -150,8 +150,8 @@
 | [別急著說妳愛我到天長地久](https://open.spotify.com/track/3qVS40B9udu90K4Bo0Jlnl) | [Sticky Rice](https://open.spotify.com/artist/3WKrI3XoAOlmHlR9cl6M11) | [別急著說愛我到天長地久](https://open.spotify.com/album/6dyPWNvtoRDOvWF6XnqrGF) | 4:05 | 2022-05-26 |  |
 | [容易厭倦的時刻 \- Tsudio Studio Remix](https://open.spotify.com/track/308LFXPTq5qZgqZpKzBr33) | [Sweet John](https://open.spotify.com/artist/78UcIEW1VFh2WOgNk0E7mm) | [容易厭倦的時刻 \(Tsudio Studio Remix\)](https://open.spotify.com/album/3LxPlbXVlRges9ZoZbkwv5) | 4:04 | 2023-02-02 |  |
 | [真夜中のドア / STAY WITH ME](https://open.spotify.com/track/7pFNLw96R1V5Yxwu0Pw3ie) | [Rainych](https://open.spotify.com/artist/3dTzeO0QCd86cXSgQ04Y3r) | [真夜中のドア / STAY WITH ME](https://open.spotify.com/album/410VVfLKnd8YjwPRCZi4hI) | 5:11 | 2022-05-26 |  |
-| [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 | 2022-05-26 |  |
 | [都市爬行](https://open.spotify.com/track/6QF0AjR4gtQjpeZhf9s81v) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [Legend 1980](https://open.spotify.com/album/7GvxIxq9KFEQvDTs50rufn) | 4:04 | 2023-10-19 | 2024-04-19 |
 | [都市爬行](https://open.spotify.com/track/6qram8pcVilZUa5P2Zx0oG) | [力臻](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/0Xd99sbVdjE8Ep1VpnGx3S) | 4:04 | 2023-07-06 | 2023-10-23 |
+| [都市爬行](https://open.spotify.com/track/1HOSSdZd96ZdBrLGsngL13) | [力臻 Lagchun](https://open.spotify.com/artist/41OlgB0qOZFB786hN2CP1k) | [都市爬行](https://open.spotify.com/album/6OXwU2yLe6IAKTlK4qMgmS) | 4:04 | 2022-05-26 |  |
 
 \*This playlist was first scraped on 2022-06-09. Prior content cannot be recovered.

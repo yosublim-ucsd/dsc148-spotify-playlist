@@ -2,15 +2,15 @@
 
 ### [Top of the Rock](https://open.spotify.com/playlist/37i9dQZF1DWWSuZL7uNdVA)
 
-> Linkin Park au top des meilleurs morceaux rock du moment.
+> Pearl Jam au top des meilleurs morceaux rock du moment.
 
-170 songs - 9 hr 38 min
+173 songs - 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [999](https://open.spotify.com/track/3X6kv6zO5IP2rSTYuUOFJi) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [999](https://open.spotify.com/album/0JcxakFKSDNIlNcqjEbPVj) | 3:21 | 2024-01-11 | 2024-01-19 |
 | [A Little Bit Happy](https://open.spotify.com/track/0QligzLNiKkIKW1Ea2MFHt) | [TALK](https://open.spotify.com/artist/6mx5dgNlLjrDDMyFsgrW87) | [A Little Bit Happy](https://open.spotify.com/album/1sijQqTWjxFFCYg71WR0oh) | 3:15 | 2023-09-28 |  |
-| [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-04-03 |  |
+| [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-04-03 | 2024-04-24 |
 | [Allo docteur](https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn) | [MDNS](https://open.spotify.com/artist/0IQF3RvCO0IkvmGj0RvOcA) | [Allo docteur](https://open.spotify.com/album/3vGD4O0bt9YgtLZQ1R6JBk) | 2:44 | 2023-11-09 | 2023-12-08 |
 | [Already Over](https://open.spotify.com/track/4Akq61SpQYUE8IuE7hHNH8) | [Mike Shinoda](https://open.spotify.com/artist/6xBZgSMsnKVmaAxzWEwMSD) | [Already Over](https://open.spotify.com/album/3c2fbU1EH35iSMWlTRqLih) | 2:40 | 2023-10-19 | 2024-02-16 |
 | [Amanita](https://open.spotify.com/track/0dmLa3BjcwVeTRnw3UH6Ei) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [You're in both dreams \(and you're scared\)](https://open.spotify.com/album/642yaHJxAHfVyzu7IBlglo) | 3:01 | 2024-01-25 | 2024-03-08 |
@@ -19,7 +19,7 @@
 | [Arizona](https://open.spotify.com/track/1QQ3b5ff5hp6HvFqNpkpCE) | [JJ Wilde](https://open.spotify.com/artist/1pLZeUSXJwVVJSPhmBSwf6) | [Arizona](https://open.spotify.com/album/1LqbxcZbUZ55tKRS97fWSp) | 3:04 | 2024-02-29 | 2024-03-27 |
 | [Asleep](https://open.spotify.com/track/5Wx4OTeGLWb3mMws1VjAms) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Asleep](https://open.spotify.com/album/2Vflu6dPQKpU7KHo3wAicp) | 3:13 | 2023-12-21 | 2024-03-15 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-09-28 |  |
-| [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 |  |
+| [B/W Rainbow](https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd) | [Stuck in the Sound](https://open.spotify.com/artist/5sTzirFL1wjNa3GuSiUHsy) | [B/W Rainbow](https://open.spotify.com/album/2UrIwY8TCUCBe5VXVCStoO) | 2:42 | 2023-11-23 | 2024-04-24 |
 | [BABY SAID](https://open.spotify.com/track/2KReCz1L5XkGIBhDncQ5VZ) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [RUSH!](https://open.spotify.com/album/2KUaR4K36tSliwAoUA1gcs) | 2:44 | 2023-09-28 | 2023-10-20 |
 | [Beautiful People \(Stay High\)](https://open.spotify.com/track/2lRBYUc9UNOMoeFaKxa6lh) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Beautiful People \(Stay High\)](https://open.spotify.com/album/0oqLTgRfBNuf246takjtXd) | 2:47 | 2024-01-25 |  |
 | [Beguiled](https://open.spotify.com/track/5irjzz4WhkbJUKk0YFbIQW) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [ATUM](https://open.spotify.com/album/4Sd50ORhLkyoddNHyLnr49) | 3:58 | 2024-01-11 |  |
@@ -61,6 +61,7 @@
 | [Further](https://open.spotify.com/track/44lz3Mt3IzPWWebPm2Glym) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [Further / Burn It Down](https://open.spotify.com/album/5oTp8Rnk6Ou56WoSTLo9dW) | 3:03 | 2024-04-15 |  |
 | [Gelled Water](https://open.spotify.com/track/1pdkMHkkctz1IlomRCzErR) | [Droïd Fantôm](https://open.spotify.com/artist/7HrozFN6zYmxYBLejkkZuz) | [Gelled Water](https://open.spotify.com/album/7cBhtxtvMTN8hwuS2qlATW) | 3:46 | 2023-11-09 | 2023-11-24 |
 | [Get Down](https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB) | [Kid Kapichi](https://open.spotify.com/artist/2iwVdN0Geaw5Sn2Abeh9fB) | [Get Down](https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc) | 3:39 | 2024-02-08 |  |
+| [Get Out](https://open.spotify.com/track/5ERyOjxbrhVZfwAPpX2O6G) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [Get Out](https://open.spotify.com/album/4ckU05Gz1l6kf4buoNG4Ay) | 2:58 | 2024-04-23 |  |
 | [Giant's Despair](https://open.spotify.com/track/2cklyNPEa1SQ03OsC7bk9e) | [One Step Closer](https://open.spotify.com/artist/4yGs9CrVnCHJ96553ySxFb) | [Giant's Despair](https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz) | 3:40 | 2024-03-28 |  |
 | [Good Days Again](https://open.spotify.com/track/5jnXjIfc9DFqzfaqq9uz2O) | [DYE CRAP](https://open.spotify.com/artist/5dACJsbbSkmY4tC7kPpd5x) | [Good Days Again](https://open.spotify.com/album/5DuSCuARht6T3a6X1TtaJB) | 2:43 | 2023-09-28 | 2023-12-01 |
 | [Goodnight Adeline](https://open.spotify.com/track/5oi7EJnwhDhqs4FJ2ewry7) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Saviors](https://open.spotify.com/album/4AIeqAMDyIT884A9uA2A0i) | 2:56 | 2024-03-26 |  |
@@ -75,6 +76,7 @@
 | [hurt myself](https://open.spotify.com/track/0hA21a7LBM161F57QDR2IH) | [RØRY](https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI) | [hurt myself](https://open.spotify.com/album/5ki5byNlXNu1UtphMyQeym) | 2:26 | 2023-09-28 | 2023-10-20 |
 | [I Got Heaven](https://open.spotify.com/track/4C6EPbxGiGSX95nJY3z9ZG) | [Mannequin Pussy](https://open.spotify.com/artist/33yje3hgpNfdXpqdJQcrt9) | [I Got Heaven](https://open.spotify.com/album/5ROzqM7rbMYoKbQIw4i7fp) | 2:58 | 2024-03-14 | 2024-03-27 |
 | [I Hope You Choke!](https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 3:19 | 2023-09-28 | 2023-10-27 |
+| [I Love It When It Rains](https://open.spotify.com/track/2iRpC6staR7gkZgitFa6rQ) | [Loveless](https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ) | [I Love It When It Rains](https://open.spotify.com/album/2D8aGAzCrpTESFd4r1cJpm) | 3:18 | 2024-04-23 |  |
 | [I Want You To Know Me](https://open.spotify.com/track/2lIl1LDlcnAoYnDOE6Xngi) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [I Want You To Know Me](https://open.spotify.com/album/4ybZv7O8powGQPEhTK9cD0) | 3:37 | 2024-01-18 | 2024-04-16 |
 | [I Was Alive](https://open.spotify.com/track/7Csk3CTefKI9mEZvwNCjNX) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [The Surface](https://open.spotify.com/album/5WmbnLQhy8ndx8S7puEolG) | 3:18 | 2023-10-19 | 2024-02-09 |
 | [I'm Picky \- Unplugged](https://open.spotify.com/track/6TTvowVIZ8YyMd8DZcdmw8) | [Shaka Ponk](https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q) | [I'm Picky \(Unplugged\)](https://open.spotify.com/album/4qB8iUqNumEkKAa1LFst5f) | 3:25 | 2024-04-03 |  |
@@ -136,6 +138,7 @@
 | [So Much \(For\) Stardust \- Edit](https://open.spotify.com/track/6jdAeEV54SoWW9eqejGQlC) | [Fall Out Boy](https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX) | [So Much \(For\) Stardust \[Edit\]](https://open.spotify.com/album/2iUM65V96tt0d1J5IfRQzH) | 3:52 | 2024-02-01 |  |
 | [Soldiers of Love](https://open.spotify.com/track/25XuZoz66XakTi4jQyrrAY) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [The Knock / Soldiers Of Love](https://open.spotify.com/album/3NFcWx0CCnq7D177zszg8F) | 4:11 | 2023-12-08 | 2024-02-16 |
 | [Something Good](https://open.spotify.com/track/6je4IvHO0cl2ZoUglX7L6r) | [Teenage Wrist](https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx) | [Still Love](https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d) | 4:12 | 2024-03-26 |  |
+| [SPINE](https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22) | [WesGhost](https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ) | [SPINE](https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2) | 3:00 | 2024-04-23 |  |
 | [Spiral City](https://open.spotify.com/track/5KFyMWdNeEi5zGdrdXqofa) | [CARR](https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ) | [Spiral City](https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5) | 2:29 | 2023-09-28 | 2023-10-13 |
 | [Spiralling Out](https://open.spotify.com/track/48wvfkGuiM5x1S7ZPSOIGd) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Spiralling Out](https://open.spotify.com/album/6W4WFSvi7g6Sa9VkDIROle) | 3:44 | 2024-03-28 |  |
 | [Starchild](https://open.spotify.com/track/1RSxsFkC9ddBBxuJMmrrdH) | [Sweet Pill](https://open.spotify.com/artist/0fNyhBvhR5Xw6s0EYQewUa) | [Starchild](https://open.spotify.com/album/3MDSPOt8IJtwANZXyRpxqY) | 3:49 | 2023-12-21 | 2024-03-27 |
@@ -172,7 +175,7 @@
 | [We Need More Bricks](https://open.spotify.com/track/5F3HNBitIp7FkxhBl8SNgW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [We Need More Bricks](https://open.spotify.com/album/4f5JujhyhXEY2XByzlfrvK) | 3:48 | 2024-01-04 | 2024-03-08 |
 | [Welcome to the DCC](https://open.spotify.com/track/0ZImVxesVZIydOnwTMSWOK) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Welcome to the DCC](https://open.spotify.com/album/5Os5j39zKEfpvKL11TtfYE) | 3:18 | 2023-09-28 | 2023-10-20 |
 | [When The Pain Comes](https://open.spotify.com/track/5gchQWwST4zwgxCIG3raYB) | [Black Stone Cherry](https://open.spotify.com/artist/6WMo39FU3nrpSz3qMgRKug) | [Screamin' At The Sky](https://open.spotify.com/album/0sxSm3jkiCTFpud91cIkYN) | 3:24 | 2023-10-12 | 2024-01-05 |
-| [World Class Entertainment](https://open.spotify.com/track/5lpL6jOF11mnl4lNP6jJLu) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [World Class Entertainment](https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR) | 3:02 | 2024-03-14 |  |
+| [World Class Entertainment](https://open.spotify.com/track/5lpL6jOF11mnl4lNP6jJLu) | [Twin Atlantic](https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9) | [World Class Entertainment](https://open.spotify.com/album/6DjaWyS3BXCSTPjlzGdGgR) | 3:02 | 2024-03-14 | 2024-04-24 |
 | [Would you be my therapy?](https://open.spotify.com/track/4SvmosYwOAV0ILTxT0XvcP) | [TSS](https://open.spotify.com/artist/0hTsRy6iJPc0fgkxhEHzmT) | [Would you be my therapy?](https://open.spotify.com/album/5rmJQ8ww5fXWP9pEtmB8kk) | 2:39 | 2024-01-18 | 2024-03-01 |
 | [Would You Even](https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl) | [Plain White T's](https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o) | [Would You Even](https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG) | 2:52 | 2023-09-28 | 2023-11-10 |
 | [Wreckage](https://open.spotify.com/track/4WnQyfhJn0O0LY3SPlxReB) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Wreckage](https://open.spotify.com/album/6dsMavDobkP4axjNiv6HAN) | 5:00 | 2024-04-18 |  |

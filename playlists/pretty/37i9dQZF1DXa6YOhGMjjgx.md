@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 
 > The very best of the alternative rock scene\. New and recent favorites\. Cover: The Mysterines
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,971 likes - 100 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 470,810 likes - 100 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 25 | [What're We Doing Here](https://open.spotify.com/track/23r4WNoHCVaLypbxeHMu8p) | [ALEXSUCKS](https://open.spotify.com/artist/0zmxCsd8aIJHfNC95gdT2i) | [What're We Doing Here](https://open.spotify.com/album/0di1rlD8Afel1VLF06lRxK) | 3:04 |
 | 26 | [These Are The Days](https://open.spotify.com/track/6fyCVdU5lJT9ErO9QicFWC) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [These Are The Days](https://open.spotify.com/album/2cP0n7ZCTCH4MDgirIWZmz) | 3:42 |
 | 27 | [Shortest Fuse](https://open.spotify.com/track/10fl9iLpPKi4WVJh59hZ8c) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Shortest Fuse](https://open.spotify.com/album/1SeIVW1aJeueGTY1LKXOC6) | 3:40 |
-| 28 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 |
-| 29 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 28 | [Bang Bang](https://open.spotify.com/track/1FE3y5rW4l9I7prqRLnLi4) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Bang Bang](https://open.spotify.com/album/0NTpahhBmUXJjGRD1kuaV6) | 2:52 |
+| 29 | [Kiss Me](https://open.spotify.com/track/1RMYwkxY1v6RryYIbfDHjY) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:34 |
 | 30 | [Leader of the Pack](https://open.spotify.com/track/5ZrE7guVgMc6Vjvri6aZYg) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Leader of the Pack](https://open.spotify.com/album/00n83NrrZI1uq7BzXInyNS) | 3:03 |
 | 31 | [Myopic](https://open.spotify.com/track/02PbIkn24emrkP1LDBymUp) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [Myopic](https://open.spotify.com/album/3eOLdLhghHk4EUNxrTzt8i) | 2:58 |
 | 32 | [Millionaires](https://open.spotify.com/track/6ZKOPiVB7POP9XZBya1Gm5) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Millionaires](https://open.spotify.com/album/68XR6FyZCuE20QBkQUvVFL) | 3:00 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 44 | [Sunday](https://open.spotify.com/track/3Xf7P2K1gXivN5KzULbNdU) | [Narrow Head](https://open.spotify.com/artist/4g6ODwOQYRZLsP89kEoBIu) | [Moments of Clarity](https://open.spotify.com/album/2tT3FSTvD9zx1c6QyZcYis) | 3:18 |
 | 45 | [Better Off This Way](https://open.spotify.com/track/4J0J5yU0fmbsOwF1Rophkp) | [Spiritual Cramp](https://open.spotify.com/artist/6cpzd2aRLmkE06P4lFFMlj) | [Spiritual Cramp](https://open.spotify.com/album/3IkNZiLRC15x84CCPL4pIN) | 2:11 |
 | 46 | [Gaslight](https://open.spotify.com/track/6hc42LuTezXyDwquiPH2uf) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Gaslight](https://open.spotify.com/album/47aUK3fEcaVMuZsEdEWuLt) | 2:53 |
-| 47 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
-| 48 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 47 | [Play My Favourite Song](https://open.spotify.com/track/4uBs8miGwBykRYjrbAO5kV) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [Play My Favourite Song](https://open.spotify.com/album/48kUWLzmZrvwHqYrpOkBat) | 2:35 |
+| 48 | [Real Love](https://open.spotify.com/track/0Xc8rirjqbXSumFOEYesOD) | [Mirrortalk](https://open.spotify.com/artist/3giejwZFf64HWlCCk8jH9D) | [Real Love](https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ) | 3:07 |
 | 49 | [Too Many Things](https://open.spotify.com/track/2SU3rA2M4wgHMzHSHNiXkx) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Too Many Things](https://open.spotify.com/album/1WJrfUrpJYdN009MkXgTWx) | 2:35 |
 | 50 | [What's The Point In Life](https://open.spotify.com/track/0OdMPeOlUMgtCSc5mrqn9T) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [KILLJOY](https://open.spotify.com/album/5Zdlzx59oEEXQk8Kyh6lmN) | 2:18 |
 | 51 | [STATUES \(v2\)](https://open.spotify.com/track/1BVW94mJBunuCOgqqmKDqk) | [George Barnett](https://open.spotify.com/artist/40OV4nFVZqdXDjPumwcywN) | [STATUES \(v2\)](https://open.spotify.com/album/2PFd9ISLL104rl7oFJtCsH) | 4:53 |
@@ -91,8 +91,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa6YOhGMjjgx.md) - [plain]
 | 81 | [Head First](https://open.spotify.com/track/24Wc1dCou67Mgn0vi5LK5z) | [Superbloom](https://open.spotify.com/artist/3xdggitmc1vFAChxAwhIIL) | [Head First](https://open.spotify.com/album/5Au7ooskCj2MPG0VTnDfV7) | 3:32 |
 | 82 | [Torpedo](https://open.spotify.com/track/5y7IIUePVxDXk0dkPv9Sf5) | [Feeder](https://open.spotify.com/artist/0ZZr6Y49NZWRJc0uCwqpMR) | [Torpedo](https://open.spotify.com/album/45FNVeKY799LKTNL4SmaGx) | 3:44 |
 | 83 | [So So Soon](https://open.spotify.com/track/0pbRMdTybJA51v0tUjQv9G) | [Hundred Reasons](https://open.spotify.com/artist/5jcIIICg01zIq8InYieJ5w) | [So So Soon](https://open.spotify.com/album/5b47ZAEieOQUTSNk2M1ZkP) | 3:48 |
-| 84 | [Change the Waters](https://open.spotify.com/track/7DFOK8SDu7hSaqDGxpZRY6) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters](https://open.spotify.com/album/4Xp8qrp6IPU1obR7a8E6m0) | 3:48 |
-| 85 | [Need You No More](https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Need You No More](https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm) | 3:18 |
+| 84 | [Need You No More](https://open.spotify.com/track/52wTxB7XWwR0Ix6zT57PM0) | [Chappaqua Wrestling](https://open.spotify.com/artist/5S4qUw22ZF7gTPUEx61SyC) | [Need You No More](https://open.spotify.com/album/6R32sE46xgopHel6O69Hhm) | 3:18 |
+| 85 | [Change the Waters](https://open.spotify.com/track/7DFOK8SDu7hSaqDGxpZRY6) | [Lonely Spring](https://open.spotify.com/artist/3noGPmqOwQzkj3lMzblV3f) | [Change the Waters](https://open.spotify.com/album/4Xp8qrp6IPU1obR7a8E6m0) | 3:48 |
 | 86 | [Magical Touch](https://open.spotify.com/track/6H8z76IGQAki6BBvK2xZtQ) | [The Wans](https://open.spotify.com/artist/4uH9k7FTheXWBKwuML8kjn) | [Magical Touch](https://open.spotify.com/album/7mjpdXg6otVZ4MRLniB1YU) | 3:08 |
 | 87 | [Siphon](https://open.spotify.com/track/3GkzwxTB7kP5sH9oGX5Jlr) | [Truth Club](https://open.spotify.com/artist/3GdOXWzNWcFrrUD9VentQC) | [Siphon](https://open.spotify.com/album/6l75QaQSO9TwwSKJS7E8VQ) | 2:18 |
 | 88 | [Birds and the Bees](https://open.spotify.com/track/7KTxKRD9d3qlAlsj5vzyah) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [Birds and the Bees](https://open.spotify.com/album/5UDPZLT00JbbJfJ8JhTdwn) | 4:14 |

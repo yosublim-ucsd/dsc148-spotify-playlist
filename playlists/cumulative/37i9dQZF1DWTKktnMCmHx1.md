@@ -4,7 +4,7 @@
 
 > Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming 🎮
 
-228 songs - 11 hr 40 min
+229 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,7 +135,7 @@
 | [Mentalité](https://open.spotify.com/track/6bgI3JZPDLm6gDE75utatQ) | [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [EP2](https://open.spotify.com/album/06BFpQi8sfXz6yQXlITPky) | 3:37 | 2023-03-20 |  |
 | [Mi Piace \(feat\. Sfera Ebbasta\)](https://open.spotify.com/track/5gCAQkBpp9HNKLB8unHgMj) | [Tony Effe](https://open.spotify.com/artist/6CKch2otN4SPznHf9ms5JF), [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Untouchable](https://open.spotify.com/album/6bIGovgsemnS7Y7DzvT61N) | 2:38 | 2022-05-03 | 2022-07-29 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-18 |  |
-| [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2022-06-09 |  |
+| [Money In The Grave \(Drake ft\. Rick Ross\)](https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a) | [The Best In The World Pack](https://open.spotify.com/album/00HZxSA1sOS9T3nA950sg4) | 3:25 | 2022-06-09 | 2024-04-24 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/1SC5rEoYDGUK4NfG82494W) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:17 | 2022-06-09 | 2024-04-19 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/3BZEcbdtXQSo7OrvKRJ6mb) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/5iZytG7j5DDp9RlsmkGI97) | 2:17 | 2022-05-03 | 2022-07-19 |
 | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/track/67BtfxlNbhBmCDR2L2l8qd) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO \(Call Me By Your Name\)](https://open.spotify.com/album/2Hjcfw8zHN4dJDZJGOzLd6) | 2:17 | 2022-05-03 |  |
@@ -175,6 +175,7 @@
 | [Praise God](https://open.spotify.com/track/0WSEq9Ko4kFPt8yo3ICd6T) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:46 | 2022-06-09 | 2024-04-19 |
 | [Praise God](https://open.spotify.com/track/0Zm7NKJgoKY6ZWwtoEUILK) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/340MjPcVdiQRnMigrPybZA) | 3:46 | 2022-05-03 | 2022-07-25 |
 | [Puro Sinaloa \(feat\. Tedua, Rkomi & Lazza\)](https://open.spotify.com/track/5E75l3Zb0vzdiDNJczr29z) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7), [Rkomi](https://open.spotify.com/artist/056KMTw6IztdQjBmFfVyO3), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Gemelli](https://open.spotify.com/album/3LXvt5r3boBy4sQQpxmsi9) | 3:47 | 2022-06-09 | 2022-07-16 |
+| [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 | 2024-04-23 |  |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3LnpBazWpD31QMTn6LgVGv) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW) | 2:16 | 2022-06-09 | 2022-07-28 |
 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 | 2022-06-09 | 2024-04-19 |
 | [Ransom](https://open.spotify.com/track/1lOe9qE0vR9zwWQAOk6CoO) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 2:11 | 2022-06-09 |  |

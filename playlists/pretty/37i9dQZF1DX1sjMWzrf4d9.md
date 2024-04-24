@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://open.spotify.com/artist/4MPEpqfNghhc9u2QZhveib?si=TNRwnRDwQCScvT6x3LhYzQ">Ziwe Fumudoh</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,570 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,572 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 19 | [ELEMENT.](https://open.spotify.com/track/1EaKU4dMbesXXd3BrLCtYG) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [DAMN.](https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY) | 3:28 |
 | 20 | [Consideration](https://open.spotify.com/track/6t90Z9XkdsHD8xMxro6KRP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [ANTI \(Deluxe\)](https://open.spotify.com/album/4UlGauD7ROb3YbVOFMgW5u) | 2:41 |
 | 21 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
-| 22 | [No Type](https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:20 |
-| 23 | [Solo](https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:17 |
+| 22 | [Solo](https://open.spotify.com/track/35xSkNIXi504fcEwz9USRB) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Blonde](https://open.spotify.com/album/3mH6qwIy9crq0I9YQbOuDf) | 4:17 |
+| 23 | [No Type](https://open.spotify.com/track/4scpF6J5uMBvoh6sFB7EL1) | [Rae Sremmurd](https://open.spotify.com/artist/7iZtZyCzp3LItcw1wtPI3D) | [SremmLife](https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7) | 3:20 |
 | 24 | [1 Thing](https://open.spotify.com/track/1mnqraQ8oV8MX92rdOFLWW) | [Amerie](https://open.spotify.com/artist/08rMCq2ek1YjdDBsCPVH2s) | [Touch](https://open.spotify.com/album/2PFK4dMZkqUQfxfSrK8WMf) | 3:58 |
 | 25 | [Love Like This](https://open.spotify.com/track/7MQywXGHEev7JmwwIzMcao) | [Faith Evans](https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn) | [Keep the Faith](https://open.spotify.com/album/2jQdDSxc2T21OFC72lAMYL) | 4:35 |
 | 26 | [Toxic](https://open.spotify.com/track/5nexAvWNhwg51EavnDgViy) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:48 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1sjMWzrf4d9.md) - [plain]
 | 35 | [Can I](https://open.spotify.com/track/0uDdI4fAXCuNhQbmxENdsO) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 2:47 |
 | 36 | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \- Remix](https://open.spotify.com/track/67G6iaOw8DZqp1z8STR89R) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [WHOLE LOTTA MONEY \(feat\. Nicki Minaj\) \[Remix\]](https://open.spotify.com/album/7swo0lVREzeFmLpCTKAkzs) | 3:49 |
 | 37 | [Last Time \(feat\. Snoh Aalegra\)](https://open.spotify.com/track/0RJD0uJykyJH6vFzz6ufaE) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP), [Snoh Aalegra](https://open.spotify.com/artist/1A9o3Ljt67pFZ89YtPPL5X) | [When It's All Said And Done..\. Take Time](https://open.spotify.com/album/1otOJAtgvO5VCBL4Gykrrd) | 3:13 |
-| 38 | [No Limit \(feat\. Young Thug\)](https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:48 |
-| 39 | [Freudian](https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 10:02 |
+| 38 | [Freudian](https://open.spotify.com/track/4nESnAOALHmxg8UFCCtXhO) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Freudian](https://open.spotify.com/album/3xybjP7r2VsWzwvDQipdM0) | 10:02 |
+| 39 | [No Limit \(feat\. Young Thug\)](https://open.spotify.com/track/1CDBn2Lm7E63XKQDsdCq6O) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 3:48 |
 | 40 | [Diamonds Dancing](https://open.spotify.com/track/2AGottAzfC8bHzF7kEJ3Wa) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [What A Time To Be Alive](https://open.spotify.com/album/1ozpmkWcCHwsQ4QTnxOOdT) | 5:14 |
 | 41 | [Milkshake](https://open.spotify.com/track/4LmzPJDil70LpiApWfOI6O) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [The Hits](https://open.spotify.com/album/2pPNC9cSF3mhMZcT7t3iw7) | 3:02 |
 | 42 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 
 > New releases for the kids\. Cover: Laurie Berkner
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,866 likes - 152 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,990 likes - 152 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6r25lY14UGk.md) - [plain]
 | 5 | [Walk With Me](https://open.spotify.com/track/7eK8wQ7vX6EtN16ktyBS7n) | [Emily Arrow](https://open.spotify.com/artist/0kUpZhl1fznhuvszZ4g0C9), [Ari Tibi](https://open.spotify.com/artist/6Mdz8DUdZmeARUm2WKvqKa) | [Nature Sings](https://open.spotify.com/album/7vXEXhvVDVX3LIcPY9dI9s) | 3:14 |
 | 6 | [Rainbow Song](https://open.spotify.com/track/5f2HdGMA0gsZ4T8VXSE9oO) | [Cooltime](https://open.spotify.com/artist/5Cx0MO39eG4ElGaD1juoZQ) | [Rainbow Song](https://open.spotify.com/album/0UG2zlHAuNjqrF3hAjtytA) | 2:12 |
 | 7 | [Hot Potato \- The Wiggles Sound System Remix](https://open.spotify.com/track/3Az7KofEhlRCdlWm3H7BKk) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf), [Lenny Pearce](https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8) | [The Wiggles Sound System: Rave of Innocence](https://open.spotify.com/album/1ZZnrkjq3sKWHwEkvtHLdp) | 1:21 |
-| 8 | [Incy Wincy Spider](https://open.spotify.com/track/7umkugWkWsKeQq2ZdV0WM8) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2), [Kevin Kerrigan](https://open.spotify.com/artist/1sCw0KOoQS1ttp5YixvQ1r) | [Springtime Nursery Rhymes](https://open.spotify.com/album/359jq0vYkJFQDt624OEsPG) | 2:30 |
+| 8 | [Incy Wincy Spider](https://open.spotify.com/track/7umkugWkWsKeQq2ZdV0WM8) | [The Rainbow Collections](https://open.spotify.com/artist/4vaHsX1BmXqxYBvqSuxKh2) | [Springtime Nursery Rhymes](https://open.spotify.com/album/359jq0vYkJFQDt624OEsPG) | 2:30 |
 | 9 | [Feather](https://open.spotify.com/track/0xjD3CLCEyeZKucRLNMsPm) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [Feather](https://open.spotify.com/album/3YehBwXG43soeqs5u8VDZ6) | 3:04 |
 | 10 | [Freight Train](https://open.spotify.com/track/60gLhveA4SJJ4eAKGkdTea) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Freight Train](https://open.spotify.com/album/7fgaICBd9oIGrTon0bbLrd) | 2:19 |
 | 11 | [My little Seed](https://open.spotify.com/track/7GmXtSUGI9agLXdA5tKVGY) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [My little Seed](https://open.spotify.com/album/3ETaR1virkpryeroi9FNqm) | 2:50 |

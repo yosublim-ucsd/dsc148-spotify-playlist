@@ -4,7 +4,7 @@
 
 > The best of the 1990s classics, from TLC, Backstreet Boys, Destiny's Child, \*NSYNC, Mariah Carey, Christina Aguilera, Britney Spears, Jennifer Lopez + more.
 
-230 songs - 15 hr 59 min
+233 songs - 16 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,6 +60,7 @@
 | [Doo Wop \(That Thing\) \- Edit](https://open.spotify.com/track/0YfNXMKlh46m6aAhHOrmls) | [Ms\. Lauryn Hill](https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl) | [R&B \- 100 Hits \- The Greatest R n B album \- 100 R & B Classics featuring Usher, Pitbull and Justin Timberlake](https://open.spotify.com/album/0QhwxYDUougJiVDtyN4Lhm) | 4:00 | 2022-06-03 | 2023-01-20 |
 | [Drive](https://open.spotify.com/track/7nnWIPM5hwE3DaUBkvOIpy) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:52 | 2023-01-19 |  |
 | [Drive](https://open.spotify.com/track/7ofK94kTTBZZ5rdZiO1Isu) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [The Essential Incubus](https://open.spotify.com/album/7GiQea3fTxqZ3tdxkR4deE) | 3:52 | 2022-06-03 | 2023-01-20 |
+| [Enjoy the Silence](https://open.spotify.com/track/1JekRMGQ8iN4G1AAdh0SBa) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 6:12 | 2024-04-23 |  |
 | [Even Flow](https://open.spotify.com/track/6QewNVIDKdSl8Y3ycuHIei) | [Pearl Jam](https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56) | [Ten](https://open.spotify.com/album/5B4PYA7wNN4WdEXdIJu58a) | 4:52 | 2022-06-03 |  |
 | [Everlong](https://open.spotify.com/track/5UWwZ5lm5PKu6eKsHAGxOk) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [The Colour And The Shape](https://open.spotify.com/album/30ly6F6Xl0TKmyBCU50Khv) | 4:10 | 2022-06-03 |  |
 | [Everybody \(Backstreet's Back\) \- Extended Version](https://open.spotify.com/track/5WTxbyWTpoqhdxEN2szOnl) | [Backstreet Boys](https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7) | [Backstreet Boys](https://open.spotify.com/album/0wvQovgaVU99eqw8n3g22S) | 4:47 | 2022-06-03 | 2023-02-22 |
@@ -154,6 +155,8 @@
 | [November Rain](https://open.spotify.com/track/3YRCqOhFifThpSRFJ1VWFM) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Use Your Illusion I](https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz) | 8:56 | 2023-05-08 |  |
 | [Oops!...I Did It Again](https://open.spotify.com/track/6naxalmIoLFWR0siv8dnQQ) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [Oops!..\. I Did It Again](https://open.spotify.com/album/5PmgtkodFl2Om3hMXONDll) | 3:31 | 2022-06-03 |  |
 | [Pardon Me](https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [Make Yourself](https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR) | 3:43 | 2022-06-03 | 2023-01-20 |
+| [Personal Jesus](https://open.spotify.com/track/2Vx5GB4ALbzdEn4diBCxUk) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator](https://open.spotify.com/album/45YmvYK4hB4CgQgTMuNRm8) | 4:54 | 2024-04-23 |  |
+| [Policy of Truth](https://open.spotify.com/track/0Mb20VmqR2lvtgbEermW2v) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Violator \(Deluxe\)](https://open.spotify.com/album/0Tg76MY2wNK4j37iCb6qyH) | 4:53 | 2024-04-23 |  |
 | [Pony](https://open.spotify.com/track/6mz1fBdKATx6qP4oP1I65G) | [Ginuwine](https://open.spotify.com/artist/7r8RF1tN2A4CiGEplkp1oP) | [R&B: From Doo\-Wop To Hip\-Hop](https://open.spotify.com/album/4he7R24eqd1EbF9kegiAK8) | 4:11 | 2022-06-03 |  |
 | [Push](https://open.spotify.com/track/2KVwlelhxKUy8LVV6JypH3) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Yourself or Someone Like You](https://open.spotify.com/album/4vUXTcKz7tXxrNl84meN6i) | 3:58 | 2022-06-03 | 2023-01-20 |
 | [Rap Promoter](https://open.spotify.com/track/6CCIqr8xROr3jTnXf4GI3B) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [The Low End Theory](https://open.spotify.com/album/1p12OAWwudgMqfMzjMvl2a) | 2:13 | 2022-06-03 |  |

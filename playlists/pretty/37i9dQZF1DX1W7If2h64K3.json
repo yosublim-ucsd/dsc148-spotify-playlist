@@ -1,6 +1,6 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 47782,
+  "num_followers": 47797,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
@@ -439,30 +439,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 887000,
-      "name": "Overture Manfred, Op. 115",
-      "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Violin Concerto; Piano Trio No. 3",
         "url": "https://open.spotify.com/album/77OdIMqqtoXO8bTBdlcA8q"
       },
@@ -487,6 +463,30 @@
       "duration_ms": 911400,
       "name": "Violin Concerto in D minor, WoO 23: I. In kr\u00e4ftigem, nicht zu schnellem Tempo",
       "url": "https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 887000,
+      "name": "Overture Manfred, Op. 115",
+      "url": "https://open.spotify.com/track/2K74tioKZA5giZ3xtHQ6bE"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1007,26 +1007,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
-        "url": "https://open.spotify.com/album/62L7PgeT8my5HEifsNReiv"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "D\u00e9nes V\u00e1rjon",
-          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Albumbl\u00e4tter, Op. 124: No. 16, Schlummerlied",
-      "url": "https://open.spotify.com/track/17FwKTEUj0kSWjCjdhU4sE"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "Schumann: Manfred: Overture - Piano Concerto - Overture, Scherzo and Finale",
         "url": "https://open.spotify.com/album/51yfGhj90dXz64rXefaed5"
       },
@@ -1067,6 +1047,26 @@
       "duration_ms": 105000,
       "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo",
       "url": "https://open.spotify.com/track/5W5tY94PSsrQYe2tU4R9xA"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann, R.: Intermezzi, Op. 4 / Impromptus, Op. 5 / 3 Romances, Op. 28",
+        "url": "https://open.spotify.com/album/62L7PgeT8my5HEifsNReiv"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "D\u00e9nes V\u00e1rjon",
+          "url": "https://open.spotify.com/artist/1uf45Fc4NypKo06YLc5J6q"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Albumbl\u00e4tter, Op. 124: No. 16, Schlummerlied",
+      "url": "https://open.spotify.com/track/17FwKTEUj0kSWjCjdhU4sE"
     },
     {
       "added_at": "2022-11-04 13:17:00",
@@ -1203,30 +1203,6 @@
     {
       "added_at": "2022-11-04 13:17:00",
       "album": {
-        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
-        "url": "https://open.spotify.com/album/6AfZmSbe2iFVPpycWDfVLk"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Sibylla Rubens",
-          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
-        },
-        {
-          "name": "Uta Hielscher",
-          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
-        }
-      ],
-      "duration_ms": 108253,
-      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
-      "url": "https://open.spotify.com/track/1Sf7Ea5G6VqX4WTk2q3hUo"
-    },
-    {
-      "added_at": "2022-11-04 13:17:00",
-      "album": {
         "name": "SCHUMANN, R.: Fantasie Op. 17 / Bunte Blatter Op. 99",
         "url": "https://open.spotify.com/album/5HCsWjDHkaMVofJVERjE9P"
       },
@@ -1271,6 +1247,30 @@
       "duration_ms": 245773,
       "name": "12 Gedichte aus \"Liebesfr\u00fchling\", Op. 37: No. 9: Rose, Meer und Sonne",
       "url": "https://open.spotify.com/track/1N3ERZsZVlSwUzMS4hHyc4"
+    },
+    {
+      "added_at": "2022-11-04 13:17:00",
+      "album": {
+        "name": "Schumann.: Lied Edition, Vol. 5: Frauenliebe Und -Leben, Op. 42 - Gedichte Der Konigin Maria Stuart, Op. 135 - 7 Lieder, Op. 104",
+        "url": "https://open.spotify.com/album/6AfZmSbe2iFVPpycWDfVLk"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Sibylla Rubens",
+          "url": "https://open.spotify.com/artist/7DimmxPVE900gITx8gLiu8"
+        },
+        {
+          "name": "Uta Hielscher",
+          "url": "https://open.spotify.com/artist/6C2UExBt8lQo1un3DBzZkq"
+        }
+      ],
+      "duration_ms": 108253,
+      "name": "7 Lieder, Op. 104: No. 6, Die letzten Blumen starben",
+      "url": "https://open.spotify.com/track/1Sf7Ea5G6VqX4WTk2q3hUo"
     },
     {
       "added_at": "2022-11-04 13:17:00",

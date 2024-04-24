@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 
 > Country hits that will have you singing every word\. Cover: Dean Brody
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,769 likes - 99 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,740 likes - 99 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX13ZzXoot6Jc.md) - [plain]
 | 57 | [If You Were Mine](https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [If You Were Mine](https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ) | 3:39 |
 | 58 | [Telluride](https://open.spotify.com/track/5ADo2azXSsHQu0mC2RxgXq) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Do It Anyway](https://open.spotify.com/album/4TTTx17C8jwiQqxDbrxW8Y) | 3:04 |
 | 59 | [How It Oughta Be](https://open.spotify.com/track/5bA63p1XSVdatb4plUB9fN) | [Shane Profitt](https://open.spotify.com/artist/4EZVvQwjbt64lridujx2Da) | [Maury County Line](https://open.spotify.com/album/3CJFXeleQ6qvVpYz57KcKy) | 3:08 |
-| 60 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
-| 61 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 |
+| 60 | [Corralling the Blues](https://open.spotify.com/track/2DsHa2ozp5MveeKjylgKWF) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Corralling the Blues](https://open.spotify.com/album/1GWoPqXhA9YAUTb95Y4V8t) | 2:27 |
+| 61 | [Sometimes She Stays](https://open.spotify.com/track/0YyhcqBtNVFppSW6LOXJXU) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Damn Love](https://open.spotify.com/album/7mmVEoq1bAhpr3H5maA0T1) | 3:59 |
 | 62 | [I'm Not Pretty](https://open.spotify.com/track/7Fh8xCGwV1QHuhBPKu1i4m) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [I'm Not Pretty](https://open.spotify.com/album/5MeMW5FhAjGpX9uoe3XAFW) | 3:01 |
 | 63 | [The Thing That Wrecks You](https://open.spotify.com/track/4ZT5geWeKg8Ar3IR2Gj22I) | [Tenille Townes](https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z), [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [The Thing That Wrecks You](https://open.spotify.com/album/0WV6Fl639FaUQIJHTTjuOp) | 3:40 |
 | 64 | [Southern and Slow](https://open.spotify.com/track/5tAoi3TfoWB4esWc5hlLJ8) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Southern and Slow](https://open.spotify.com/album/4GECpyeTQzYCPShc1Xs3cT) | 3:07 |

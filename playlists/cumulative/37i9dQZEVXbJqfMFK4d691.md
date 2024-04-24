@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-691 songs - 1 day 14 hr 17 min
+692 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -629,7 +629,7 @@
 | [Tu Gato Bellaco \- Remix](https://open.spotify.com/track/6eB74UiUNkI7JJBhhr3Y6C) | [Milo Mae](https://open.spotify.com/artist/2iaaJzRhuEY8wPn8P6iNiP), [Kevin Roldan](https://open.spotify.com/artist/1RBzGO6Nm3uyhUSxP7EDWO) | [Tu Gato Bellaco \(Remix\)](https://open.spotify.com/album/6JNQ7Gic3xnJI40wG6keLy) | 3:02 | 2023-01-21 | 2023-02-01 |
 | [Tu Turrito](https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [Tu Turrito](https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02) | 2:44 | 2022-10-02 | 2023-06-29 |
 | [Tu Veneno](https://open.spotify.com/track/5KFHrrBMyGj5MhVbZMM3ts) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Tu Veneno](https://open.spotify.com/album/49Et8wid3L8iKof9lu78SS) | 2:37 | 2021-03-27\* | 2021-04-21 |
-| [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-01 |  |
+| [TULUM](https://open.spotify.com/track/7bPp2NmpmyhLJ7zWazAXMu) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [GÉNESIS](https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH) | 3:29 | 2023-07-01 | 2024-04-24 |
 | [TURUTUTU](https://open.spotify.com/track/44NbaMYWDwxaAXbPYXVSIv) | [Sanchz](https://open.spotify.com/artist/0G35WrrhXWCv2Un6ImamhF), [Moffa](https://open.spotify.com/artist/2lcWprkQW6ehqKep82rWnC) | [TURUTUTU](https://open.spotify.com/album/5pWhstnKLBpI1zQXHKJ3TO) | 3:20 | 2022-12-20 | 2022-12-28 |
 | [TUS GAFITAS](https://open.spotify.com/track/3gOI5aQD4mOMLsP3aWrkon) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:47 | 2023-02-28 | 2023-03-03 |
 | [TUS LÁGRIMAS](https://open.spotify.com/track/30W8VKHrAZmHzObnwAoc1u) | [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S), [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [MICRODOSIS](https://open.spotify.com/album/0QLDQG7Jx78rEUDW03IhHC) | 2:54 | 2022-04-19 | 2022-06-10 |
@@ -682,6 +682,7 @@
 | [X SI VOLVEMOS](https://open.spotify.com/track/4NoOME4Dhf4xgxbHDT7VGe) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:20 | 2023-02-25 | 2023-05-23 |
 | [X SI VOLVEMOS](https://open.spotify.com/track/3Zyk5Vd9WNPNVWxvb0EZTk) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Romeo Santos](https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP) | [X SI VOLVEMOS](https://open.spotify.com/album/1skkjCQGfaGg0wpVw6cq5w) | 3:23 | 2023-02-04 | 2023-02-26 |
 | [X ÚLTIMA VEZ](https://open.spotify.com/track/48AJSd42lXpicsGqcgopof) | [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [LEGENDADDY](https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt) | 3:12 | 2022-03-26 | 2022-11-02 |
+| [Ya me enteré](https://open.spotify.com/track/6xUTpgnxMzxM5JhWeLCKMB) | [Sin Límite](https://open.spotify.com/artist/5xv1gqyqgeXRA7vkaUvX4P) | [Ya me enteré](https://open.spotify.com/album/7DruCOLjHMOKoFC0RPl8Fq) | 2:41 | 2024-04-24 |  |
 | [Ya No Somos Ni Seremos](https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Ya No Somos Ni Seremos](https://open.spotify.com/album/6uU8vskychc3SuYYI9Hjbo) | 3:05 | 2022-02-19 | 2022-10-26 |
 | [Ya No Vives en Mí](https://open.spotify.com/track/4Qa3hu2tsXgkxJoUrrVmDN) | [Grupo Histeria](https://open.spotify.com/artist/0hZLgg3T8U4y3QTLA3NS7C) | [Ya No Vives en Mí](https://open.spotify.com/album/5YzuTfyjMxqwfZ7e5zxjGI) | 3:48 | 2022-01-02 | 2022-01-04 |
 | [Ya No Vuelvas \(Versión Cuarteto\)](https://open.spotify.com/track/0u6JsFiEEXb6kaF0oqyeFi) | [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM) | [QUE NOS FALTE TODO](https://open.spotify.com/album/3X0T1blaMiY2aev0wrbK1G) | 3:24 | 2024-02-03 |  |

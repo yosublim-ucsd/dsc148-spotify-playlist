@@ -4,7 +4,7 @@
 
 > The biggest party hits of the 1990s\. Cover: B\*Witched
 
-358 songs - 1 day 0 hr 25 min
+359 songs - 1 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,7 +269,7 @@
 | [Shoop](https://open.spotify.com/track/0Pu71wxadDlB8fJXfjIjeJ) | [Salt\-N\-Pepa](https://open.spotify.com/artist/7wqtxqI3eo7Gn1P7SpP6cQ) | [Very Necessary](https://open.spotify.com/album/2W2EmEpud13QHlhCFS9P8g) | 4:08 | 2021-09-08 |  |
 | [Short Dick Man \- Club Mix](https://open.spotify.com/track/6ZZr5ew0DvA6xda9T5owOU) | [20 Fingers](https://open.spotify.com/artist/0OarfYzJPCi3lAVZ4nhTTd), [Gillette](https://open.spotify.com/artist/20ldWECcOHmOWwKwAwvn4y) | [Short Dick Man](https://open.spotify.com/album/3BQ6ifqB1pglyvEJQrcauT) | 4:50 | 2021-09-08 | 2022-09-12 |
 | [Show Me Love](https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF) | [Robin S](https://open.spotify.com/artist/2WvLeseDGPX1slhmxI59G3) | [Show Me Love](https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8) | 4:12 | 2021-03-22 |  |
-| [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 | 2021-09-08 |  |
+| [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 | 2021-09-08 | 2024-04-24 |
 | [Shy Guy](https://open.spotify.com/track/3ldG6XCLDXxWg1N6XhrSKo) | [Diana King](https://open.spotify.com/artist/221iMiF62DFPnVuCLJakP1) | [Tougher Than Love](https://open.spotify.com/album/5lwkQjfbO515jO9jwfzs6b) | 4:18 | 2021-03-22 |  |
 | [Sing Hallelujah!](https://open.spotify.com/track/01kVVoJQuWVqaOvRgRztJD) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/2f0OIKkTy3gT89i2N7BaHJ) | 4:00 | 2021-03-22 | 2023-11-11 |
 | [Sing Hallelujah!](https://open.spotify.com/track/2qjDNbgLzfBpCvDwfw11Qg) | [Dr\. Alban](https://open.spotify.com/artist/6BkcAbUkfIBM4XudxieMq8) | [One Love](https://open.spotify.com/album/3hJI8ryjrsmUULkOXtV1IU) | 4:00 | 2022-10-11 | 2024-04-19 |
@@ -318,6 +318,7 @@
 | [Together Again](https://open.spotify.com/track/1GrikfH0jDejDvrxo84n4P) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/6ZANEjETQ9L9pjBuvOAhCQ) | 5:01 | 2021-09-08 | 2022-10-09 |
 | [Together Again](https://open.spotify.com/track/1aJnGme5ZRltYTp8FJ52eZ) | [Janet Jackson](https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W) | [The Velvet Rope](https://open.spotify.com/album/1uFp52Q9EXLNA6DTRYnpTj) | 5:01 | 2022-10-11 | 2024-04-19 |
 | [Tom's Diner](https://open.spotify.com/track/0LpF3BJplNYWei6BmgZJwq) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [Tom's Diner](https://open.spotify.com/album/3iaUAs1zHrPBaYIpLmskEV) | 2:13 | 2022-10-11 | 2024-04-19 |
+| [Tom's Diner \- 7" Version](https://open.spotify.com/track/4sutLmjkVKRN6pOAMo2joC) | [DNA](https://open.spotify.com/artist/2rGm8R7YDTbqDCVlNssQyL), [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw), [Neal Slateford](https://open.spotify.com/artist/4a09epliVikRqsBczNwZb2), [Nick Batt](https://open.spotify.com/artist/1VOvPysGbgHhsfKA6NaKnl) | [The Best Of Suzanne Vega \- Tried And True](https://open.spotify.com/album/7dC869HdAWI9T2jmNy7zqO) | 3:47 | 2024-03-15 |  |
 | [Too Blind to See It](https://open.spotify.com/track/4SmiFk4zGbPVf0vvoSDvuG) | [Kym Sims](https://open.spotify.com/artist/40PLSl99xXqAQsCQQPmfyM) | [Too Blind To See It](https://open.spotify.com/album/0smpJHEIRat9aBllmrRqO3) | 3:31 | 2021-09-08 | 2022-05-04 |
 | [Too Funky \- Single Edit](https://open.spotify.com/track/4KjPPpRbthW8dSNdisR2Wi) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 3:44 | 2021-03-22 | 2022-07-29 |
 | [Total Eclipse of the Heart \- Alternative 7 Inch](https://open.spotify.com/track/4TeGZLhI6hIKCwiRCvEkwK) | [Nicki French](https://open.spotify.com/artist/1RfiRshRC2YlSG4Y1zNkAE) | [Total Eclipse of the Heart](https://open.spotify.com/album/5mra2vTBQLmEfPZwtV2alH) | 3:49 | 2021-09-08 | 2022-07-29 |

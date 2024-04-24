@@ -2,9 +2,9 @@
 
 ### [Girl Krush](https://open.spotify.com/playlist/37i9dQZF1DXbSWYCNwaARB)
 
-> All your girl crushes\(걸크러쉬\) in one place\. \(Cover: Loossemble \(루셈블\)\)
+> All your girl crushes\(걸크러쉬\) in one place\. Cover: YUQI \(우기\)
 
-442 songs - 23 hr 22 min
+443 songs - 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -141,10 +141,11 @@
 | [FIREWORK](https://open.spotify.com/track/5NhDDt5Zy8yGOECN3PLRdE) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/5KsduuDNWzt65TaHzmtciv) | 3:13 | 2020-10-13\* | 2022-06-14 |
 | [FIRST](https://open.spotify.com/track/021L6LlBBtr34BmFRHd9Ic) | [EVERGLOW](https://open.spotify.com/artist/3ZZzT0naD25RhY2uZvIKkJ) | [Last Melody](https://open.spotify.com/album/4ZDUTnUO9CDFmwdCUCQ6dG) | 3:32 | 2021-07-02 | 2022-05-13 |
 | [Flip That](https://open.spotify.com/track/7cHXwaBnIBFUPuP376z07E) | [LOONA](https://open.spotify.com/artist/52zMTJCKluDlFwMQWmccY7) | [Summer Special \[Flip That\]](https://open.spotify.com/album/7odJeHxR62PWP4Cms4GpwB) | 2:57 | 2022-06-20 | 2022-08-17 |
-| [Flower Rhythm](https://open.spotify.com/track/11CxVWRPzkIJfL55lgPn0Q) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 2 : Flower Rhythm>](https://open.spotify.com/album/69i02S3KILQ083ExlYjZqg) | 2:39 | 2024-04-11 |  |
+| [Flower Rhythm](https://open.spotify.com/track/11CxVWRPzkIJfL55lgPn0Q) | [ARTMS](https://open.spotify.com/artist/213zHiFZwtDVEqyxeCbk07) | [<Pre 2 : Flower Rhythm>](https://open.spotify.com/album/69i02S3KILQ083ExlYjZqg) | 2:39 | 2024-04-11 | 2024-04-24 |
 | [FLOWER SHOWER](https://open.spotify.com/track/3wljaQ1KBCAMnPxCPDEUsC) | [HyunA](https://open.spotify.com/artist/3UwlejyX2b458azZ7eCnHb) | [FLOWER SHOWER](https://open.spotify.com/album/2SUtN48rlxa2SfTtffOnlR) | 3:08 | 2021-02-26 | 2022-07-27 |
 | [FOREVER 1](https://open.spotify.com/track/1oen3GpTcA486fTHaT7neg) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [FOREVER 1 \- The 7th Album](https://open.spotify.com/album/3CcgnUkTrUaPTt4Ms1MkoP) | 3:22 | 2022-08-08 | 2023-02-12 |
 | [Forgive Me](https://open.spotify.com/track/4TXo3KpvdwHSdrPJlWDfgn) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Forgive Me \- The 3rd Mini Album](https://open.spotify.com/album/0vufEpmNpfB9NUPLkbIBN7) | 2:48 | 2022-11-23 | 2023-01-10 |
+| [FREAK](https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv) | [YUQI](https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6) | [YUQ1](https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc) | 2:51 | 2024-04-23 |  |
 | [Freesm](https://open.spotify.com/track/2Z7Uz9xmEeHKdWpeR05wfk) | [Hashtag](https://open.spotify.com/artist/1SABBqkbfguBXhZQJK5t3e) | [haShtag 2nd mini album \#Aeji \#paSsion](https://open.spotify.com/album/18b7QE4L7khNdLI1JjfNfE) | 3:03 | 2021-02-26 | 2022-04-19 |
 | [FUTURE 퓨처](https://open.spotify.com/track/6EvUmJtq5UMBWkcID2J85l) | [GIRLKIND](https://open.spotify.com/artist/2TqCaaZ0Yh9MtRVYnoZg8K) | [FUTURE 퓨처](https://open.spotify.com/album/7F6gEdRkVo6XNTWTzkiFAu) | 3:40 | 2020-10-13\* | 2022-04-17 |
 | [Galileo](https://open.spotify.com/track/2nehY8ewjt4clnD40SclwM) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Magic Hour](https://open.spotify.com/album/4otUxxCM0HA9Deq2vBMJBk) | 3:08 | 2023-09-26 | 2023-11-11 |

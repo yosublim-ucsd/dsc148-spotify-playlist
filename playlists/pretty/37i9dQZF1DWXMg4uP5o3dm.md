@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 
 > alternative meets electronic Cover: Artemas
 
-[Spotify](https://open.spotify.com/user/spotify) - 478,547 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 478,566 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 57 | [IDFLU](https://open.spotify.com/track/4btPFFVz1aZ7RtrIIwe23t) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [IDFLU](https://open.spotify.com/album/139FdSB8EJfPzBhZiU6QSf) | 2:52 |
 | 58 | [Sing To Me](https://open.spotify.com/track/17KGTOb8fkxlyTnB5eFnsh) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS), [Death Stranding: Timefall](https://open.spotify.com/artist/4rojTfP5nRkmYpdSbWQgV4) | [DEATH STRANDING: Timefall \(Original Music from the World of Death Stranding\)](https://open.spotify.com/album/67hVRXYD2WmD4fgPOWNex3) | 3:09 |
 | 59 | [Nightmare](https://open.spotify.com/track/64A7qQZGMqYBOVKloPox8i) | [BAYBE](https://open.spotify.com/artist/22pi3Gv6sRxirhwCARETnS) | [Nightmare](https://open.spotify.com/album/0JnLJpn7HyNTPMAbQDAB3E) | 2:26 |
-| 60 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
-| 61 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
+| 60 | [BELIEVE](https://open.spotify.com/track/2VpyqzXj9ZGTSy2JVkVD2z) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6) | [BELIEVE](https://open.spotify.com/album/0BvaFK2hTZ13TeTFkPEdHK) | 2:36 |
+| 61 | [Palm Reader](https://open.spotify.com/track/729lI4P82NDXNQljBDmkmU) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [UPSAHL](https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9) | [Palm Reader](https://open.spotify.com/album/1QQRNBDVBOA4uomdDG2MxZ) | 3:00 |
 | 62 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 |
 | 63 | [Lightning Over Mexico](https://open.spotify.com/track/3IxeUGg5HDUz6jhfr66m4A) | [Tom Morello](https://open.spotify.com/artist/74NBPbyyftqJ4SpDZ4c1Ed), [The Bloody Beetroots](https://open.spotify.com/artist/0QJKELJZZuLAjqLOOixJm5), [Ana Tijoux](https://open.spotify.com/artist/40JMTpVRUw90SrN4pFA6Mz) | [The Catastrophists EP](https://open.spotify.com/album/6Kl5tzEtLjRKTPBtjw8NQr) | 4:11 |
 | 64 | [Easy](https://open.spotify.com/track/4jxrwfVK43RE2bzsP2S1ZM) | [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS) | [Easy](https://open.spotify.com/album/0mX4pQN4mYVHZsvjqNekLp) | 3:26 |
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 82 | [Have My Back](https://open.spotify.com/track/70wg0l1GCp9TL6bTXBZuXR) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M), [Vanic](https://open.spotify.com/artist/2LY0E3xg8svCVYXVNTze5T) | [Have My Back](https://open.spotify.com/album/4QQPP4xRp3wyW7QwZdsW5u) | 3:47 |
 | 83 | [Again](https://open.spotify.com/track/14gw6qQSrs9pEf8ADJuHo1) | [Casper The Ghost](https://open.spotify.com/artist/2FympPk5bcBe37Sp4VIs4L) | [Again](https://open.spotify.com/album/0dCsvVuNZ9yudIkRsHfSmV) | 2:38 |
 | 84 | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/track/3dKd0adfI8l6tKfoLsuaJ1) | [Whethan](https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP), [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [COMPLICATED \(feat\. aldn & 8485\)](https://open.spotify.com/album/6vS1mEUxsWDsbY0VdgbcBx) | 3:00 |
-| 85 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
-| 86 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 |
+| 85 | [Same](https://open.spotify.com/track/5B1xsEG0hVZZETedxzTXrY) | [Kyd the Band](https://open.spotify.com/artist/0NHArXVgYnHIxtWGIS7xWS) | [Same](https://open.spotify.com/album/5xnwqBkujlYam87TmsD6qe) | 3:15 |
+| 86 | [Bipolar Rhapsody](https://open.spotify.com/track/7ELka9OSxvZo4AkpIhd9CF) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Bipolar Rhapsody](https://open.spotify.com/album/0O1ipfhDdMueuyRl2RfWLG) | 4:48 |
 | 87 | [S.O.A.G.](https://open.spotify.com/track/7yBkmyHcSTEkauXdQotxMz) | [Layto](https://open.spotify.com/artist/0MqXw0plXKIaJtM342hIag) | [S.O.A.G.](https://open.spotify.com/album/5gKanMQhuEqZVJUmvQjEhZ) | 3:10 |
 | 88 | [god damn!](https://open.spotify.com/track/40e2TPl5w4fmHJkIgwAM3U) | [viisi](https://open.spotify.com/artist/50zXB0O7zGiSb4ZcF1GP7Z) | [god damn!](https://open.spotify.com/album/1Txk1kbTVJZqvdU2ZsJwpv) | 1:56 |
 | 89 | [SLEEP PARALYSIS DEMON](https://open.spotify.com/track/5daagdqvfB0hNAx6diXxYc) | [Ethan Bortnick](https://open.spotify.com/artist/0LyP0Zn0mXLb65AgGOS6EY) | [jumpscare in your garden](https://open.spotify.com/album/5PjAbxcY5tbb5eNJCLnKaH) | 2:34 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXMg4uP5o3dm.md) - [plain]
 | 92 | [Dead](https://open.spotify.com/track/6H3NSyefUL4tm6yvWuQ8FR) | [PEAKS!](https://open.spotify.com/artist/6OmQ3QpipDrfFdHjtYNMp1) | [Dead](https://open.spotify.com/album/6yhPN6jzku1HlV8rZF6oZb) | 3:30 |
 | 93 | [Body Bag \- ROMES Remix](https://open.spotify.com/track/0xX6RLKMriNDru30G8RsQU) | [DEVORA](https://open.spotify.com/artist/2rV7OHV7pnQxQPkLbY7LoY), [ROMES](https://open.spotify.com/artist/4b3MzzOReTrle64Pxc1r9g) | [Body Bag \(ROMES Remix\)](https://open.spotify.com/album/43559YWMyLG88SyxIfvHtM) | 3:15 |
 | 94 | [DESIRE](https://open.spotify.com/track/3uX2pHEVOthQ63a1IaNwBr) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [DESIRE](https://open.spotify.com/album/4QUh3Ycq5uOvzMLqlQsafb) | 3:15 |
-| 95 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
-| 96 | [Tramp](https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Volume II](https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma) | 3:44 |
-| 97 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
-| 98 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 |
-| 99 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 |
+| 95 | [Tramp](https://open.spotify.com/track/33nj1ZTE6D7or3w3FobgxG) | [Sad Night Dynamite](https://open.spotify.com/artist/6ydvoGN30eRfE78bjTANF7) | [Volume II](https://open.spotify.com/album/67yqXDQTVNgwD0MUeQ2uma) | 3:44 |
+| 96 | [MY DEMONS](https://open.spotify.com/track/3LUcU1uaK0gp9lBNFlCNII) | [GLU](https://open.spotify.com/artist/2z6598dYz4eQbCJ1t0kT1N), [Phantogram](https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH) | [MY DEMONS](https://open.spotify.com/album/5s5mG6bz04LEXbwO1Fufyp) | 3:29 |
+| 97 | [I Feel Like I'm Falling](https://open.spotify.com/track/6zIMwJ0kW99r8QXWy3zYqK) | [HOKO](https://open.spotify.com/artist/7DBibsUWd2RMKmXbple4xZ) | [I Feel Like I'm Falling](https://open.spotify.com/album/1cLcnwiYrf51Oi6ePEEspe) | 2:24 |
+| 98 | [Hate Me Too](https://open.spotify.com/track/0AKwswdgnA36IYqhGaSdK2) | [lozeak](https://open.spotify.com/artist/0neQuv6AF4kuA82CZcPoAc) | [Hate Me Too](https://open.spotify.com/album/2IGTjTYk3uc9fwlIinRvCr) | 3:06 |
+| 99 | [Going Ghost](https://open.spotify.com/track/7KDT0me83hS1RnHJ6EeYKS) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq) | [Going Ghost](https://open.spotify.com/album/3YoYaUvzxAtji6MG8ZzghO) | 2:49 |
 | 100 | [Level Up](https://open.spotify.com/track/24u7GTKYh1iE1x66ufDBYN) | [8 Graves](https://open.spotify.com/artist/1YznSk5tLLp9BnzuNgghrZ) | [Level Up](https://open.spotify.com/album/6NM4j24KhPa61wuqWxCZXk) | 3:28 |
 
 Snapshot ID: `MTcxMTU2NzEwNiwwMDAwMDAwMDM2M2IyZjIzZThkNjRkNjJlMTk4MjU1NGYxYTA1N2Iz`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 
 > Get on down the road with these classic country tunes\. Cover: Johnny Cash
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,825 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,895 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQIRdXaBqdE.md) - [plain]
 | 58 | [Wildflowers \- 2015 Remaster](https://open.spotify.com/track/27876bQcDNkZhWqvF0zfFN) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Linda Ronstadt](https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc), [Emmylou Harris](https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP) | [Trio \(2016 Remaster\)](https://open.spotify.com/album/4sQEu1QnbFvtYItC4mQSO4) | 3:36 |
 | 59 | [Behind Closed Doors](https://open.spotify.com/track/6d7Jz2np6jtNaZv1DiWfJs) | [Charlie Rich](https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz) | [Love Songs](https://open.spotify.com/album/08pcOepE6bfonEfT07TUmL) | 2:54 |
 | 60 | [Mammas, Don't Let Your Babies Grow Up to Be Cowboys](https://open.spotify.com/track/1gKSpFpX3poa17WIAyFVsp) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Nashville Rebel](https://open.spotify.com/album/3DDUesugWE5mJjTF5HFsRg) | 2:33 |
-| 61 | [Hello Walls](https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:26 |
-| 62 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
+| 61 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 |
+| 62 | [Hello Walls](https://open.spotify.com/track/4dim8F8t01qimHOmr6S3Gd) | [Faron Young](https://open.spotify.com/artist/6uvq6FeVsmhOWfJHxVNeBL) | [The Complete Capitol Hits Of Faron Young](https://open.spotify.com/album/26KWAh3Wvw9LjeyxjTEZqa) | 2:26 |
 | 63 | [You Never Even Called Me By My Name](https://open.spotify.com/track/29TI0GvP5gMQMPTJjdMe0H) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe \- 16 Biggest Hits](https://open.spotify.com/album/7oSNiyE3ZinACkLFKikw7l) | 5:14 |
 | 64 | [Grandpa \(Tell Me 'Bout The Good Old Days\)](https://open.spotify.com/track/1KNNTdw7SzJ90p6RXq4kGE) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [I Will Stand By You \- The Essential Collection](https://open.spotify.com/album/3bKF0hgQ4aETX7Bb0bFQeM) | 4:14 |
 | 65 | [Take This Job and Shove It](https://open.spotify.com/track/4XbxeoBeQnwpsyJyZEMoWc) | [Johnny Paycheck](https://open.spotify.com/artist/0DchahWJGQqrqr8PMM5zQD) | [Super Hits](https://open.spotify.com/album/3iu3dv8VOgYZFV9nypUmb3) | 2:36 |

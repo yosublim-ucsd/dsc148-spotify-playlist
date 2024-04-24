@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 
 > groovy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 161,650 likes - 60 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 161,675 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 19 | [More Of The Same](https://open.spotify.com/track/1e2LGT07diSwc7UYnK7txi) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [LONER](https://open.spotify.com/album/2ztVsnlMAsHqVe1BjoICnr) | 4:08 |
 | 20 | [Staring At The Sun](https://open.spotify.com/track/0Ku9zP02uHYS4HH6jNLxV0) | [Wooden Shjips](https://open.spotify.com/artist/35rFgnhlSSYflP4HpC3JM0) | [V.](https://open.spotify.com/album/5KjpFRvPpExlRIuDQqwhNk) | 7:27 |
 | 21 | [Tell Me](https://open.spotify.com/track/581KISzBIATjlONj5MbPQe) | [BROS](https://open.spotify.com/artist/4b2FejUQCLbLbalnwPyLQc) | [Vol\. 1](https://open.spotify.com/album/1q8IVSmI5N41iEuhMyX3Bf) | 3:51 |
-| 22 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
-| 23 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 |
+| 22 | [Dream Within a Dream](https://open.spotify.com/track/7wuHX0sgGELdVbZMSfKTgw) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Dream Within a Dream](https://open.spotify.com/album/5NnQzQNyUQMwiHTzNrrGdx) | 2:48 |
+| 23 | [Hanging On](https://open.spotify.com/track/6lE1oMX2NaW5sqjXMyIUSk) | [Brainstory](https://open.spotify.com/artist/0EqBE2VOwsHgSOrjsQCs5j) | [Hanging On](https://open.spotify.com/album/7IsQk2aEbE3eFV73Icd7ba) | 3:11 |
 | 24 | [Infinite Surprise](https://open.spotify.com/track/6MQz3po51uvoQTXCUV6SKd) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Cousin](https://open.spotify.com/album/1KZy1Oll0Cnnakyy6X92Wn) | 5:43 |
 | 25 | [Century City](https://open.spotify.com/track/2vuH8laWDuNYmckYXkC2zs) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [Movie Of The Week](https://open.spotify.com/album/73LowHfDrVcX165ZnPcRzU) | 4:33 |
 | 26 | [Opposite House](https://open.spotify.com/track/2XpsvLcddOSFanKBCZCEBR) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Mangy Love](https://open.spotify.com/album/2gBR8Ql9GjUrNIsX97sFld) | 4:14 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 30 | [Baby Bluebird](https://open.spotify.com/track/5MS4QMgwaZJna9wev1S6yh) | [Fruit Bats](https://open.spotify.com/artist/6Qm9stX6XO1a4c7BXQDDgc) | [Absolute Loser](https://open.spotify.com/album/1vRxjcJpuE6MxaDwvDcldB) | 3:49 |
 | 31 | [Where Do You Go When You Dream](https://open.spotify.com/track/2bdDETZsaSuA00ctnPEnLX) | [Woods](https://open.spotify.com/artist/2sBPVEeMBXKNsZtYaJixnJ) | [Strange to Explain](https://open.spotify.com/album/6W3ljBUTGb9FhuOVZBPbQI) | 5:51 |
 | 32 | [Automechanic](https://open.spotify.com/track/2olbQTZqVPYON832yjCQuF) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [Automechanic](https://open.spotify.com/album/1pfjL9bWfGdlnWUvkxwePA) | 3:48 |
-| 33 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
-| 34 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 33 | [Glass Jar](https://open.spotify.com/track/33xaD95lsvcImZpV4POK1N) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Sneaker Waves](https://open.spotify.com/album/3sjI5fIAlCwCkWR0IJdQx2) | 4:05 |
+| 34 | [It Came to Me](https://open.spotify.com/track/1wSTaoEcGPZy9osC25kn0m) | [The Barr Brothers](https://open.spotify.com/artist/4OyRutd80DZC22C4pl63l7) | [It Came to Me](https://open.spotify.com/album/6RaF1MxbjvBteIflXzSvt4) | 4:21 |
 | 35 | [Juniper Arms](https://open.spotify.com/track/7gEjjZeZIpN6noZyo0vN5U) | [Adam Torres](https://open.spotify.com/artist/4wIdxySSxqlIirsqE0JKx8) | [Pearls to Swine](https://open.spotify.com/album/5vzBUbGigJfjW23Deldzca) | 6:00 |
 | 36 | [Nervous](https://open.spotify.com/track/0qvyXZivJalmoO6iJpPg56) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 2:46 |
 | 37 | [Went for a Ride](https://open.spotify.com/track/4SmAxBuCEOJDx1mbPSq1Kg) | [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl) | [Went for a Ride](https://open.spotify.com/album/1qih4iADyuiyL7HzN38v1h) | 4:49 |
@@ -59,14 +59,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2FJ4E5eMYdk.md) - [plain]
 | 49 | [About a Stranger](https://open.spotify.com/track/1Y6jgCIu6QVk2ZlvsunRI1) | [Chris Robinson Brotherhood](https://open.spotify.com/artist/7Jgf8XBIsOlXS1XOTOwz4A) | [Phosphorescent Harvest](https://open.spotify.com/album/1ZDQsr1Vgc48eLezq4xvBL) | 5:07 |
 | 50 | [Confidence Man](https://open.spotify.com/track/6GLha5Z5Xj0TLdSzLjrDVC) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Confidence Man](https://open.spotify.com/album/1OqEjshsbgop2XCGBLOioB) | 4:42 |
 | 51 | [Wild Heart](https://open.spotify.com/track/2jhCa4f4eQmynH1IKJ5k5a) | [Kashena Sampson](https://open.spotify.com/artist/4tFBS73AOrz19igc1nTjUt) | [Wild Heart](https://open.spotify.com/album/0qnnjt02keWTODhegEvQ09) | 3:42 |
-| 52 | [Pain](https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Pain](https://open.spotify.com/album/1hTVL3pZnKaEUCKHWmZGoP) | 3:39 |
-| 53 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
+| 52 | [Game Show](https://open.spotify.com/track/6qyiAHaQPi1xwT4nVeGR99) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Game Show](https://open.spotify.com/album/51w6jyrf1eUiUVyJJQnKcm) | 2:42 |
+| 53 | [Pain](https://open.spotify.com/track/1wUZc8QuwhWt92XcOFExDi) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Pain](https://open.spotify.com/album/1hTVL3pZnKaEUCKHWmZGoP) | 3:39 |
 | 54 | [Heart Slows Down](https://open.spotify.com/track/7Js8VMfRprNih6qsOTmaqH) | [Aaron Lee Tasjan](https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo) | [Karma For Cheap](https://open.spotify.com/album/68dLi9hK6bq6R7jUmmkBFD) | 4:03 |
 | 55 | [Attention](https://open.spotify.com/track/0q3jG8hRgWj9AR2OOJUOYe) | [Major Murphy](https://open.spotify.com/artist/5ly0mPdto6iDfI6X2Q4K6B) | [Access](https://open.spotify.com/album/5N8N92LZ5MwYBAxlaXFHnA) | 2:57 |
 | 56 | [Turn It On](https://open.spotify.com/track/1iqncvWXXg6jfrv6s9txe5) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Turn It On](https://open.spotify.com/album/2xvck6DiEtg3LqzDGJEn19) | 4:30 |
 | 57 | [The Last Dance](https://open.spotify.com/track/1l3SsMSAuxSv97ScbDfxF4) | [St\. Paul & The Broken Bones](https://open.spotify.com/artist/4fXkvh05wFhuH77MfD4m9o) | [Last Dance b/w 3000 AD Mass](https://open.spotify.com/album/2q4NYHzOGqQhbGuFh8ZE71) | 3:24 |
-| 58 | [Althea](https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Althea](https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ) | 4:12 |
-| 59 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 |
-| 60 | [Ain't Nothin' New](https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Ain't Nothin' New](https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F) | 4:58 |
+| 58 | [Hey Man](https://open.spotify.com/track/2MN4zTUQgzsbHpD8XGpuVF) | [Liz Cooper](https://open.spotify.com/artist/58irgKwXTjCCuYQB58aXeH), [The Stampede](https://open.spotify.com/artist/6naWDjIIvxOhHfu99ubAC7) | [Window Flowers](https://open.spotify.com/album/0UTQ8hNHAhO8gsu7LT3OEY) | 3:56 |
+| 59 | [Ain't Nothin' New](https://open.spotify.com/track/6qvbWKdhfVHfkR0GaWHTKF) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Ain't Nothin' New](https://open.spotify.com/album/7vTOqwGGe6RUUlte30qi5F) | 4:58 |
+| 60 | [Althea](https://open.spotify.com/track/7zf6cdLb3qUrba0K5Zc6DI) | [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Althea](https://open.spotify.com/album/3mtIlJKedR6XTPhKWqeWaQ) | 4:12 |
 
 Snapshot ID: `MTcxMzE4OTQ4OSwwMDAwMDAwMGIzMmQxODFhZDM5Mzc4NDk3ZTllZWM4ZGVlOGFkMWIw`

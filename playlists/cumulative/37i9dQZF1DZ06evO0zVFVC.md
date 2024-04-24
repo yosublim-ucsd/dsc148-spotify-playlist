@@ -2,7 +2,7 @@
 
 ### [This Is Parkway Drive](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zVFVC)
 
-> This is Parkway Drive\. The essential tracks, all in one playlist.
+> This is Parkway Drive\. Todos os maiores hits em uma só playlist.
 
 67 songs - 4 hr 34 min
 

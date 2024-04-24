@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 68520,
+  "2024-04-24": 68497,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Australia.",
   "name": "Viral 50 - Australia",
@@ -2267,7 +2267,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 208521,
       "name": "II MOST WANTED",
       "url": "https://open.spotify.com/track/6zuPQl2RVqQ4y5nAH61CFC"
@@ -2889,7 +2889,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 168023,
       "name": "lil' freak",
       "url": "https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN"
@@ -4401,7 +4401,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 146230,
       "name": "Sippin' Yak",
       "url": "https://open.spotify.com/track/1LldihpfcYdxAnCigKijW2"
@@ -5549,6 +5549,24 @@
       "duration_ms": 181690,
       "name": "Vegas - A COLORS SHOW",
       "url": "https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID"
+    },
+    {
+      "album": {
+        "name": "Vent",
+        "url": "https://open.spotify.com/album/5wr0mILtj1RIw3ig141YpU"
+      },
+      "artists": [
+        {
+          "name": "NOIT",
+          "url": "https://open.spotify.com/artist/7tP7gxk3jhX8DWrl3thctC"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176898,
+      "name": "Vent",
+      "url": "https://open.spotify.com/track/4yMXKeuRDOIzrh3fBiJYds"
     },
     {
       "album": {

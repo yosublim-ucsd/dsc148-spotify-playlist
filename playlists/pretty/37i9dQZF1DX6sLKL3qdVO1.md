@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sLKL3qdVO1.md) - [plain]
 
 > Shawty lo que necesitas es darle flow\. Feid y Yandel en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 697,150 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 696,979 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

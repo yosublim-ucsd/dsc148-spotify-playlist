@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 22969,
+  "2024-04-24": 22961,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Belgium.",
   "name": "Viral 50 - Belgium",
@@ -515,7 +515,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 127496,
       "name": "Bande organis\u00e9e",
       "url": "https://open.spotify.com/track/1vZ9zAIQ9cB386y0E6jcxg"
@@ -537,6 +537,28 @@
       "duration_ms": 127498,
       "name": "Bande organis\u00e9e",
       "url": "https://open.spotify.com/track/5lOvw1rwphudYBZssRXJPO"
+    },
+    {
+      "album": {
+        "name": "Zungenbrecher 4.0 - Staffel 4",
+        "url": "https://open.spotify.com/album/2AKVV2Rx3cmIZuUkND2NkC"
+      },
+      "artists": [
+        {
+          "name": "Bodo Wartke",
+          "url": "https://open.spotify.com/artist/62YvTZOwIJTFumiiXIiIwn"
+        },
+        {
+          "name": "Marti Fischer",
+          "url": "https://open.spotify.com/artist/5kcg3AWB22uwFWJWhpVfBV"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 85560,
+      "name": "Barbaras Rhabarberbar",
+      "url": "https://open.spotify.com/track/7ki0Q2nYTBhVxZvqLLDp5W"
     },
     {
       "album": {
@@ -1163,6 +1185,24 @@
       "duration_ms": 126389,
       "name": "Carnival x Fein",
       "url": "https://open.spotify.com/track/3E1YgNCLJn3GQ5tySGphHi"
+    },
+    {
+      "album": {
+        "name": "The Rise and Fall of a Midwest Princess",
+        "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232796,
+      "name": "Casual",
+      "url": "https://open.spotify.com/track/3WSOUb3U7tqURbBSgZTrZX"
     },
     {
       "album": {
@@ -2317,7 +2357,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 195147,
       "name": "Hell N Back (feat. Summer Walker)",
       "url": "https://open.spotify.com/track/0jcw8cJf3TNMZN0BXlueML"
@@ -2847,6 +2887,24 @@
       "duration_ms": 235885,
       "name": "I\u2019d Rather Overdose",
       "url": "https://open.spotify.com/track/17UNijHcIMuz5ik2UKeCjK"
+    },
+    {
+      "album": {
+        "name": "minisode 3: TOMORROW",
+        "url": "https://open.spotify.com/album/0mDwrOXZHN1lgCNeBvkBbj"
+      },
+      "artists": [
+        {
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196694,
+      "name": "I\u2019ll See You There Tomorrow",
+      "url": "https://open.spotify.com/track/0bMWoFtQIrnW5YyNMc4aKQ"
     },
     {
       "album": {
@@ -5791,7 +5849,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 174125,
       "name": "Tokyo",
       "url": "https://open.spotify.com/track/3oEkAQ5toT682srK2zTusi"

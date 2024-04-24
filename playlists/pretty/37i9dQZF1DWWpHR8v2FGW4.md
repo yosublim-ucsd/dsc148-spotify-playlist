@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 
 > Always come in 1st place.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,236 likes - 50 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,214 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWpHR8v2FGW4.md) - [plain]
 | 31 | [Voices](https://open.spotify.com/track/3vYK1bhhuFglF2ucREX4jO) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [Philip Strand](https://open.spotify.com/artist/1hII0FUxBvpT7bnuS7TQ6q) | [Voices](https://open.spotify.com/album/1zktHQjfwzgp9x4krbKtJt) | 4:09 |
 | 32 | [Close To Hell](https://open.spotify.com/track/6tSa72Ivd9ltEV9qJsQTfw) | [KUURO](https://open.spotify.com/artist/5mVWu2Ofpm2mlEpuMm3b4Q), [Goja](https://open.spotify.com/artist/2Gy4HwdmVmRPWDBQO3lw3d) | [Close To Hell](https://open.spotify.com/album/5L0lzeDFIl1qMSO4T0sZBC) | 3:18 |
 | 33 | [Real](https://open.spotify.com/track/10ln7FMO9lBbSBR5P2btE7) | [Ark Patrol](https://open.spotify.com/artist/3zaxUd86U92CdZkNa6NUo9) | [Real](https://open.spotify.com/album/6TMNSDP3qAOI8Vz9SgPK9p) | 4:46 |
-| 34 | [Can't Get Enough](https://open.spotify.com/track/1B2qo30ncWnpQ1i0Ze097V) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Ella Monnery](https://open.spotify.com/artist/1FD0AA37DenDFODrf9zovI) | [Exit](https://open.spotify.com/album/0a7MXviIpVxVePjVl5Rf6J) | 4:30 |
-| 35 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
+| 34 | [where r u](https://open.spotify.com/track/6OiOs0sxOk3vxuEjFBwAhn) | [Kill Paris](https://open.spotify.com/artist/6BNaPZdAIZAJnbgJRiZz2w) | [where r u](https://open.spotify.com/album/2F2609uOxkhgnd6OysbbU4) | 3:14 |
+| 35 | [Can't Get Enough](https://open.spotify.com/track/1B2qo30ncWnpQ1i0Ze097V) | [Lee Mvtthews](https://open.spotify.com/artist/2rf0ufpy1NIUGmEHqq27GC), [Ella Monnery](https://open.spotify.com/artist/1FD0AA37DenDFODrf9zovI) | [Exit](https://open.spotify.com/album/0a7MXviIpVxVePjVl5Rf6J) | 4:30 |
 | 36 | [Overdrive](https://open.spotify.com/track/3zSiHJI0ZCidNR8ygDXQGh) | [Protostar](https://open.spotify.com/artist/0n8nGcgKnLHVv106g3AfnH), [Emma McGann](https://open.spotify.com/artist/7i99rgVJyrVbho0pfVUtzF) | [Overdrive](https://open.spotify.com/album/09r2n9j4tHxMPuCXYdzXBG) | 3:51 |
 | 37 | [Not Enough](https://open.spotify.com/track/1dEud4LT7T7Yd7KMpo8Qz2) | [Near x Far](https://open.spotify.com/artist/3jHNFPilH4sebvSIGwdSmG) | [Not Enough](https://open.spotify.com/album/7Gy36oXepehl2yyRmhBsSb) | 3:40 |
 | 38 | [Lions \- VIP](https://open.spotify.com/track/5nDxkmW3YrWh6KfSMXcIKQ) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Lions \(VIP\)](https://open.spotify.com/album/11yUbbKozNofq5fixsJnPh) | 4:39 |

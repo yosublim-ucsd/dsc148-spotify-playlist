@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 
 > The tracks you can put on repeat all day\. Cover: Tyla
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,178 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,292 likes - 100 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FY5ma9162x.md) - [plain]
 | 65 | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Found \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/6nuNgD841boUffjDiI8et4) | 3:29 |
 | 66 | [Love Me](https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Love Me](https://open.spotify.com/album/7hgekZLPc8OHgk8kAaPkel) | 3:27 |
 | 67 | [After Last Night \(with Thundercat & Bootsy Collins\)](https://open.spotify.com/track/6jGAh1bFnXt1Muj9zeHveZ) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Silk Sonic](https://open.spotify.com/artist/6PvvGcCY2XtUcSRld1Wilr), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Bootsy Collins](https://open.spotify.com/artist/5K0rbdBrs2tNXe5LeWMATT) | [An Evening With Silk Sonic](https://open.spotify.com/album/4VZ7jhV0wHpoNPCB7Vmiml) | 4:09 |
-| 68 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
-| 69 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
+| 68 | [Dead Man Walking](https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Dead Man Walking](https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc) | 4:07 |
+| 69 | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/track/5HM5trJxTouv3eUVcbW8sh) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Sensational \(feat\. Davido & Lojay\)](https://open.spotify.com/album/68nJVTjmRbl5se1eYTglBA) | 3:51 |
 | 70 | [Have Mercy](https://open.spotify.com/track/5SixeLvPsYpk7qq9lo5xYg) | [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Have Mercy](https://open.spotify.com/album/4N8qhDeqx8AHoEhMnYEC2Y) | 2:28 |
 | 71 | [PLASTIC OFF THE SOFA](https://open.spotify.com/track/6ufcuVInt0ocHrUimDjGlb) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [RENAISSANCE](https://open.spotify.com/album/6FJxoadUE4JNVwWHghBwnb) | 4:14 |
 | 72 | [This Is](https://open.spotify.com/track/2zuDMKJ2rSgCMtJknUJBZ9) | [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Heart On My Sleeve \(Deluxe Edition\)](https://open.spotify.com/album/5PSR9tquibfWRiWVSkn6qD) | 3:26 |

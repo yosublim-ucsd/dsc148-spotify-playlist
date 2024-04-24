@@ -12195,6 +12195,24 @@
     },
     {
       "album": {
+        "name": "Ya Te Super\u00e9",
+        "url": "https://open.spotify.com/album/7csypJTOawXrAhuxK7sbdv"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196013,
+      "name": "Ya Te Super\u00e9",
+      "url": "https://open.spotify.com/track/498xY5uDt2X4DPxMXGE2qO"
+    },
+    {
+      "album": {
         "name": "Yo Primero",
         "url": "https://open.spotify.com/album/1QLxtuYX7Ojojm8I5zmLmI"
       },

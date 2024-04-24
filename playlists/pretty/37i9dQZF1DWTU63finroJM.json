@@ -1,6 +1,6 @@
 {
   "description": "Meet the future. New artists on the horizon. Cover: Shego.",
-  "num_followers": 60466,
+  "num_followers": 60523,
   "original_name": "RADAR Global ",
   "owner": {
     "name": "Spotify",
@@ -201,22 +201,6 @@
       "url": "https://open.spotify.com/track/69xt31HhLvo0foFpM6iaaJ"
     },
     {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Musika",
-        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
-      },
-      "artists": [
-        {
-          "name": "Dionela",
-          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
-        }
-      ],
-      "duration_ms": 246666,
-      "name": "Musika",
-      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
-    },
-    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
         "name": "fake face dance music",
@@ -231,6 +215,22 @@
       "duration_ms": 151015,
       "name": "fake face dance music",
       "url": "https://open.spotify.com/track/4ayU74yaWEgHHpaf1WJ313"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Musika",
+        "url": "https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv"
+      },
+      "artists": [
+        {
+          "name": "Dionela",
+          "url": "https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj"
+        }
+      ],
+      "duration_ms": 246666,
+      "name": "Musika",
+      "url": "https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Kisah Tanpa Dirimu",
+        "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
+      },
+      "artists": [
+        {
+          "name": "Anggis Devaki",
+          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
+        }
+      ],
+      "duration_ms": 257531,
+      "name": "Kisah Tanpa Dirimu",
+      "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "\u0e01\u0e25\u0e34\u0e48\u0e19\u0e14\u0e2d\u0e01\u0e44\u0e21\u0e49",
         "url": "https://open.spotify.com/album/1ipMHOoVycUlbnkNMBuWvl"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 142500,
       "name": "\u559c\u6b61\u4f60",
       "url": "https://open.spotify.com/track/3492WnE9Bt9Ek20mpe60o2"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Kisah Tanpa Dirimu",
-        "url": "https://open.spotify.com/album/3n3wxffHONB1v1idVCoMcK"
-      },
-      "artists": [
-        {
-          "name": "Anggis Devaki",
-          "url": "https://open.spotify.com/artist/7lXTU6VtJQWfiN2vuZyzqf"
-        }
-      ],
-      "duration_ms": 257531,
-      "name": "Kisah Tanpa Dirimu",
-      "url": "https://open.spotify.com/track/3ptRODxVj328j6TnW33Zj3"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -789,22 +789,6 @@
       "url": "https://open.spotify.com/track/5MQLDkiEagOTLKpfa59a06"
     },
     {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "HIGHLY SPIRITUAL",
-        "url": "https://open.spotify.com/album/1CwzOslLfNRXhVX84btF7B"
-      },
-      "artists": [
-        {
-          "name": "Jeune Lion",
-          "url": "https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb"
-        }
-      ],
-      "duration_ms": 164971,
-      "name": "SOUL",
-      "url": "https://open.spotify.com/track/6AzLKOoOuDELNmLFW9LUQi"
-    },
-    {
       "added_at": "2024-04-05 06:00:00",
       "album": {
         "name": "Love Lost",
@@ -819,6 +803,22 @@
       "duration_ms": 179889,
       "name": "Love Lost",
       "url": "https://open.spotify.com/track/6AP8Ttpx7tCVd8EqflkkR0"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "HIGHLY SPIRITUAL",
+        "url": "https://open.spotify.com/album/1CwzOslLfNRXhVX84btF7B"
+      },
+      "artists": [
+        {
+          "name": "Jeune Lion",
+          "url": "https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb"
+        }
+      ],
+      "duration_ms": 164971,
+      "name": "SOUL",
+      "url": "https://open.spotify.com/track/6AzLKOoOuDELNmLFW9LUQi"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -841,22 +841,6 @@
       "url": "https://open.spotify.com/track/6ViOU67LFhEIGGeB8JdJ9b"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Itu Aku - Spotify Singles",
-        "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
-      },
-      "artists": [
-        {
-          "name": "Aziz Hedra",
-          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
-        }
-      ],
-      "duration_ms": 254337,
-      "name": "Itu Aku - Spotify Singles",
-      "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
-    },
-    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "Cerita Tiba Tiba",
@@ -871,6 +855,22 @@
       "duration_ms": 225573,
       "name": "Cerita Tiba Tiba",
       "url": "https://open.spotify.com/track/6iNfcXYuTkHWarYUaKGnZX"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Itu Aku - Spotify Singles",
+        "url": "https://open.spotify.com/album/3GH0U5r0qeSrQeTzgDE89j"
+      },
+      "artists": [
+        {
+          "name": "Aziz Hedra",
+          "url": "https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD"
+        }
+      ],
+      "duration_ms": 254337,
+      "name": "Itu Aku - Spotify Singles",
+      "url": "https://open.spotify.com/track/2SDiWI3cL2SzvXrYOgQFd7"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 (Summer)",
-        "url": "https://open.spotify.com/album/3g02HRFFaV4AE3uYiCMopb"
-      },
-      "artists": [
-        {
-          "name": "CORNBOI",
-          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
-        }
-      ],
-      "duration_ms": 281611,
-      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 (Summer)",
-      "url": "https://open.spotify.com/track/00hpozFur43iV7X6nJXWmO"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "Vivienne Westwood",
         "url": "https://open.spotify.com/album/6yRUPMoKD3euuXHpnyJsRY"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 157333,
       "name": "Vivienne Westwood",
       "url": "https://open.spotify.com/track/6gf3gCFZloUNpXnrZZd15z"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 (Summer)",
+        "url": "https://open.spotify.com/album/3g02HRFFaV4AE3uYiCMopb"
+      },
+      "artists": [
+        {
+          "name": "CORNBOI",
+          "url": "https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi"
+        }
+      ],
+      "duration_ms": 281611,
+      "name": "\u0e2b\u0e19\u0e49\u0e32\u0e23\u0e49\u0e2d\u0e19 (Summer)",
+      "url": "https://open.spotify.com/track/00hpozFur43iV7X6nJXWmO"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -953,22 +953,6 @@
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Wil Je Dat Ik Blijf",
-        "url": "https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        }
-      ],
-      "duration_ms": 178695,
-      "name": "Wil Je Dat Ik Blijf",
-      "url": "https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY"
-    },
-    {
       "added_at": "2024-04-05 06:00:00",
       "album": {
         "name": "Cartwheels",
@@ -983,6 +967,22 @@
       "duration_ms": 124013,
       "name": "Cartwheels",
       "url": "https://open.spotify.com/track/3tHyJBRSh4B8zwxmDNPVbf"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Wil Je Dat Ik Blijf",
+        "url": "https://open.spotify.com/album/7l16ZGPtMRoVMwAJPxFI1o"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        }
+      ],
+      "duration_ms": 178695,
+      "name": "Wil Je Dat Ik Blijf",
+      "url": "https://open.spotify.com/track/1OHmMT2JfYPqKJs6NAq8PY"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1049,22 +1049,6 @@
       "url": "https://open.spotify.com/track/7obibJSl1Dlcr2vHpO99Z5"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Rave Angel",
-        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
-      },
-      "artists": [
-        {
-          "name": "Blusher",
-          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
-        }
-      ],
-      "duration_ms": 199906,
-      "name": "Rave Angel",
-      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
-    },
-    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "\u0e09\u0e31\u0e19\u0e04\u0e37\u0e2d\u0e14\u0e27\u0e07\u0e08\u0e31\u0e19\u0e17\u0e23\u0e4c - Single",
@@ -1083,6 +1067,22 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
+        "name": "Rave Angel",
+        "url": "https://open.spotify.com/album/5OY2SQqa6n38bRos5Osqq3"
+      },
+      "artists": [
+        {
+          "name": "Blusher",
+          "url": "https://open.spotify.com/artist/7AZm56bjPk0tYl6LTyJu9N"
+        }
+      ],
+      "duration_ms": 199906,
+      "name": "Rave Angel",
+      "url": "https://open.spotify.com/track/6WdNXplJISMHIT9C7IbCL4"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
         "name": "L'AFRO OU LES TRESSES",
         "url": "https://open.spotify.com/album/5GaFutbilpzWUYP0kkoVPP"
       },
@@ -1095,22 +1095,6 @@
       "duration_ms": 191637,
       "name": "GARE DU NORD",
       "url": "https://open.spotify.com/track/2KjPE7Km3e8ILfin60DEFF"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "KHEDMA 3",
-        "url": "https://open.spotify.com/album/5OJfDiJq9OpukfvumILeS9"
-      },
-      "artists": [
-        {
-          "name": "Danyl",
-          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Bledi mon amour",
-      "url": "https://open.spotify.com/track/7nQJM5q5MPxWmo4jYnnAGH"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1129,20 +1113,20 @@
       "url": "https://open.spotify.com/track/2eJr1Z9l9kJtTHs7WotWiM"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
+      "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "How Many Nights",
-        "url": "https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9"
+        "name": "KHEDMA 3",
+        "url": "https://open.spotify.com/album/5OJfDiJq9OpukfvumILeS9"
       },
       "artists": [
         {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+          "name": "Danyl",
+          "url": "https://open.spotify.com/artist/5Hq9W3lm1N9KRCf35RBMab"
         }
       ],
-      "duration_ms": 200640,
-      "name": "How Many Nights",
-      "url": "https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom"
+      "duration_ms": 180146,
+      "name": "Bledi mon amour",
+      "url": "https://open.spotify.com/track/7nQJM5q5MPxWmo4jYnnAGH"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1159,6 +1143,22 @@
       "duration_ms": 141818,
       "name": "10x Better",
       "url": "https://open.spotify.com/track/7FjRthQOOmRWrjiX8WrzES"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "How Many Nights",
+        "url": "https://open.spotify.com/album/1f3LbA9R9kNKlj4EOE6kl9"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 200640,
+      "name": "How Many Nights",
+      "url": "https://open.spotify.com/track/0Nj0v1zGvDLgvhjLLzMzom"
     },
     {
       "added_at": "2024-03-29 06:00:00",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Normalde",
-        "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
-      },
-      "artists": [
-        {
-          "name": "Ege Can Sal",
-          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
-        }
-      ],
-      "duration_ms": 141000,
-      "name": "Normalde",
-      "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "8h sonne",
         "url": "https://open.spotify.com/album/1stMA3FqXlXYH4G0AyxzRU"
       },
@@ -1291,34 +1275,18 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "RECHERCHE&DESTRUCTION",
-        "url": "https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4"
+        "name": "Normalde",
+        "url": "https://open.spotify.com/album/2IXnb0005FkTtvxvpZNiYs"
       },
       "artists": [
         {
-          "name": "Jolagreen23",
-          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
+          "name": "Ege Can Sal",
+          "url": "https://open.spotify.com/artist/20mkFP4AY47MtOJ39fP0bX"
         }
       ],
-      "duration_ms": 227920,
-      "name": "12HEURES MINUIT",
-      "url": "https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "La loi du papillon",
-        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
-      },
-      "artists": [
-        {
-          "name": "Nuit Incolore",
-          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
-        }
-      ],
-      "duration_ms": 177266,
-      "name": "La loi du papillon",
-      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
+      "duration_ms": 141000,
+      "name": "Normalde",
+      "url": "https://open.spotify.com/track/6wLrvbWwQI3o5gpWEnJTFw"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1337,52 +1305,20 @@
       "url": "https://open.spotify.com/track/0m6ph12BbDXzfgNPwA83ne"
     },
     {
-      "added_at": "2024-04-12 06:00:00",
-      "album": {
-        "name": "Attitude(s)",
-        "url": "https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58"
-      },
-      "artists": [
-        {
-          "name": "Johnny Jane",
-          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "Bbye",
-      "url": "https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Pedih",
-        "url": "https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb"
-      },
-      "artists": [
-        {
-          "name": "Sarah Suhairi",
-          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
-        }
-      ],
-      "duration_ms": 239086,
-      "name": "Pedih",
-      "url": "https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz"
-    },
-    {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "Discord-disco",
-        "url": "https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk"
+        "name": "RECHERCHE&DESTRUCTION",
+        "url": "https://open.spotify.com/album/7KbUIt8qVNwQK8WFze3nS4"
       },
       "artists": [
         {
-          "name": "Toaka",
-          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+          "name": "Jolagreen23",
+          "url": "https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz"
         }
       ],
-      "duration_ms": 197712,
-      "name": "Discord-disco",
-      "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
+      "duration_ms": 227920,
+      "name": "12HEURES MINUIT",
+      "url": "https://open.spotify.com/track/3xSi7D0gRrcPMV89JbxkBp"
     },
     {
       "added_at": "2024-04-12 06:00:00",
@@ -1405,6 +1341,70 @@
       "url": "https://open.spotify.com/track/373Dpde9za64jysTww7guV"
     },
     {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "La loi du papillon",
+        "url": "https://open.spotify.com/album/4bes8iyhIgbzo98sS5KVy3"
+      },
+      "artists": [
+        {
+          "name": "Nuit Incolore",
+          "url": "https://open.spotify.com/artist/2oOAiE62UgqjCEWTHPdn0F"
+        }
+      ],
+      "duration_ms": 177266,
+      "name": "La loi du papillon",
+      "url": "https://open.spotify.com/track/15LphkSUL2KESp066yz9T1"
+    },
+    {
+      "added_at": "2024-04-12 06:00:00",
+      "album": {
+        "name": "Attitude(s)",
+        "url": "https://open.spotify.com/album/5dK5JOfILFFyqqPUzBuS58"
+      },
+      "artists": [
+        {
+          "name": "Johnny Jane",
+          "url": "https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "Bbye",
+      "url": "https://open.spotify.com/track/0huj0MRkufIVv1b3naAjav"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Discord-disco",
+        "url": "https://open.spotify.com/album/6GdulvAtvSJiXDJjtHenzk"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "duration_ms": 197712,
+      "name": "Discord-disco",
+      "url": "https://open.spotify.com/track/5O1gmDEnjVid2kElRz1Hy2"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Pedih",
+        "url": "https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb"
+      },
+      "artists": [
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        }
+      ],
+      "duration_ms": 239086,
+      "name": "Pedih",
+      "url": "https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz"
+    },
+    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "\u0e19\u0e35\u0e48\u0e19\u0e30\u0e04\u0e30 (I'm Here!)",
@@ -1423,22 +1423,6 @@
     {
       "added_at": "2024-03-17 21:01:15",
       "album": {
-        "name": "CAN YOU UNDERSTAND ME?",
-        "url": "https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh"
-      },
-      "artists": [
-        {
-          "name": "Selin",
-          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
-        }
-      ],
-      "duration_ms": 208907,
-      "name": "CAN YOU UNDERSTAND ME?",
-      "url": "https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
         "name": "Unpredictable",
         "url": "https://open.spotify.com/album/5BbQtA7DV23ZFeCwZheBRa"
       },
@@ -1451,6 +1435,22 @@
       "duration_ms": 197036,
       "name": "Unpredictable",
       "url": "https://open.spotify.com/track/5Oxwp87yBCGkatMmubetW3"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "CAN YOU UNDERSTAND ME?",
+        "url": "https://open.spotify.com/album/74kgWhIusLVeT7pCNmFNxh"
+      },
+      "artists": [
+        {
+          "name": "Selin",
+          "url": "https://open.spotify.com/artist/5xkqotsRPu6KQ4PiWjSGQf"
+        }
+      ],
+      "duration_ms": 208907,
+      "name": "CAN YOU UNDERSTAND ME?",
+      "url": "https://open.spotify.com/track/05L8jDAOFRNcnRRAQLctLw"
     },
     {
       "added_at": "2024-03-17 21:01:15",
@@ -1485,22 +1485,6 @@
       "url": "https://open.spotify.com/track/3FZqWp03yzNcYqXICOiT2c"
     },
     {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "Born To Lose",
-        "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
-      },
-      "artists": [
-        {
-          "name": "Elle Coves",
-          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
-        }
-      ],
-      "duration_ms": 180812,
-      "name": "Born To Lose",
-      "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
-    },
-    {
       "added_at": "2024-04-19 06:00:00",
       "album": {
         "name": "CATENE",
@@ -1515,6 +1499,38 @@
       "duration_ms": 203478,
       "name": "CATENE",
       "url": "https://open.spotify.com/track/1Ro7tQgsq9qcoDdr1npPwA"
+    },
+    {
+      "added_at": "2024-04-05 06:00:00",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn"
+      },
+      "artists": [
+        {
+          "name": "Porij",
+          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
+        }
+      ],
+      "duration_ms": 195001,
+      "name": "Ghost",
+      "url": "https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "Born To Lose",
+        "url": "https://open.spotify.com/album/679rxVMirZMcrWgELFMwyW"
+      },
+      "artists": [
+        {
+          "name": "Elle Coves",
+          "url": "https://open.spotify.com/artist/3Hey7RF0bxnjPP8IEXmPRa"
+        }
+      ],
+      "duration_ms": 180812,
+      "name": "Born To Lose",
+      "url": "https://open.spotify.com/track/0ukkgNJHrRYAFHfRSuxe6X"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1535,6 +1551,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "POP OUT! \u2161",
+        "url": "https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d"
+      },
+      "artists": [
+        {
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+        }
+      ],
+      "duration_ms": 276292,
+      "name": "People 365",
+      "url": "https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "notte vodka",
         "url": "https://open.spotify.com/album/13jKhdRkvOzf7yzfRkuReL"
       },
@@ -1547,38 +1579,6 @@
       "duration_ms": 145348,
       "name": "notte vodka",
       "url": "https://open.spotify.com/track/7w6K5uvRrZHdHNgQt5lSXN"
-    },
-    {
-      "added_at": "2024-03-17 21:01:15",
-      "album": {
-        "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
-        "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
-      },
-      "artists": [
-        {
-          "name": "Zior Park",
-          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
-        }
-      ],
-      "duration_ms": 221040,
-      "name": "CHRISTIAN",
-      "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
-    },
-    {
-      "added_at": "2024-04-05 06:00:00",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/20B86iJjjECtzJ77XlfHsn"
-      },
-      "artists": [
-        {
-          "name": "Porij",
-          "url": "https://open.spotify.com/artist/5Ph4BCHTBnS7CJctvtUDkp"
-        }
-      ],
-      "duration_ms": 195001,
-      "name": "Ghost",
-      "url": "https://open.spotify.com/track/2x11PsxYwanGMVjfXtmoQa"
     },
     {
       "added_at": "2024-04-05 06:00:00",
@@ -1595,6 +1595,22 @@
       "duration_ms": 182428,
       "name": "Happy",
       "url": "https://open.spotify.com/track/18YxsuoZE1aPf5xs5WIwtY"
+    },
+    {
+      "added_at": "2024-03-17 21:01:15",
+      "album": {
+        "name": "WHERE DOES SASQUATCH LIVE? Pt. 1",
+        "url": "https://open.spotify.com/album/2TUaUffgOaezf2b52HTTWE"
+      },
+      "artists": [
+        {
+          "name": "Zior Park",
+          "url": "https://open.spotify.com/artist/4gkSpcyfxtm5OFoZCYWTeD"
+        }
+      ],
+      "duration_ms": 221040,
+      "name": "CHRISTIAN",
+      "url": "https://open.spotify.com/track/1FBdX6uTlbunrv0bu3tFnF"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1619,22 +1635,6 @@
       "duration_ms": 161363,
       "name": "Mortal pra tr\u00e1s!",
       "url": "https://open.spotify.com/track/3Hk0otwsBfoQ3kIZcOJCfW"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "POP OUT! \u2161",
-        "url": "https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 276292,
-      "name": "People 365",
-      "url": "https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk"
     }
   ],
   "unique_name": "RADAR Global ",

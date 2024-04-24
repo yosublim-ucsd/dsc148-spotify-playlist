@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 718558,
+  "2024-04-24": 719019,
   "date_first_scraped": "2021-12-28",
   "description": "Groovy sounds from around the world.",
   "name": "Global Groove",
@@ -545,6 +545,32 @@
       "duration_ms": 258235,
       "name": "Alegr\u00eda - Yuksek Remix",
       "url": "https://open.spotify.com/track/5Ly9lKxeE9YMVwQj52dpfo"
+    },
+    {
+      "album": {
+        "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/4RunvFZUr0PFdzg3VWINMD"
+      },
+      "artists": [
+        {
+          "name": "Bomba Est\u00e9reo",
+          "url": "https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2"
+        },
+        {
+          "name": "Monte",
+          "url": "https://open.spotify.com/artist/7KbOjYkvz8Jxhy7qJfN5YT"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292544,
+      "name": "Algo Est\u00e1 Cambiando - Earth Remix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/6onn77nAEdFVIbI0gIlXjH"
     },
     {
       "album": {
@@ -6439,7 +6465,7 @@
       ],
       "date_added": "2021-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 272221,
       "name": "L'origine du Monde - iZem Remix",
       "url": "https://open.spotify.com/track/1gfWtL0rEJwEJwyfaInfgu"
@@ -8783,6 +8809,28 @@
       "duration_ms": 291145,
       "name": "Nuda Sorgente",
       "url": "https://open.spotify.com/track/23pDTmgAmsHoLfYDHDAowF"
+    },
+    {
+      "album": {
+        "name": "OH WAH (feat. NATURE)",
+        "url": "https://open.spotify.com/album/7C4qLhAxl253pi66yzQQW1"
+      },
+      "artists": [
+        {
+          "name": "Blinky Bill",
+          "url": "https://open.spotify.com/artist/3knnBcRO5nzDS1GOFhU1ba"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205485,
+      "name": "OH WAH (feat. NATURE)",
+      "url": "https://open.spotify.com/track/19u8EywWlAPVj1cvoWHX4I"
     },
     {
       "album": {
@@ -11251,7 +11299,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 461120,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"

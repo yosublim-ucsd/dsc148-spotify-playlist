@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 2896,
+  "2024-04-24": 2899,
   "date_first_scraped": "2022-05-26",
-  "description": "This Is The Jones Girls. Los temas esenciales, todos en una lista.",
+  "description": "This is The Jones Girls. The essential tracks, all in one playlist.",
   "name": "This Is The Jones Girls",
   "tracks": [
     {
@@ -279,7 +279,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 309000,
       "name": "Could You Be Mine?",
       "url": "https://open.spotify.com/track/592L5UVwLVl6kmxB8E2z7Y"

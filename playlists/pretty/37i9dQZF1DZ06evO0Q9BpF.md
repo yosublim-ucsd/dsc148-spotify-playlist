@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 
 ### [This Is Generación 12](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Q9BpF)
 
-> This is Generación 12\. De viktigste sporene samlet i én spilleliste.
+> This is Generación 12\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,083 likes - 47 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,129 likes - 47 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,11 +43,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 33 | [Lo Perdí Todo](https://open.spotify.com/track/4OXbMqnvvDGC7skHJUgONt) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lorena Castellanos](https://open.spotify.com/artist/3pWyUBWZFiiTfuLHl0LzqJ) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 3:34 |
 | 34 | [Permaneceré En Tí](https://open.spotify.com/track/1JSo33oU2B2DdC0eFv6TBo) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 4:18 |
 | 35 | [Eres Santo](https://open.spotify.com/track/3y4FxHuewno26pHuJvFrkx) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Somos Uno](https://open.spotify.com/album/5M755OeM0Ad61FrB1ZixHS) | 6:51 |
-| 36 | [Despierta Mi Corazón](https://open.spotify.com/track/3exjY1UuuSPVgdFMFNrxAb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 7:44 |
-| 37 | [Dios Incomparable 1.2 \(feat\. Marco Barrientos\)](https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Remix 1.2](https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3) | 3:41 |
+| 36 | [Dios Incomparable 1.2 \(feat\. Marco Barrientos\)](https://open.spotify.com/track/2obGra074oqYXQTg9eEtJE) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Marco Barrientos](https://open.spotify.com/artist/4VYSLPSI9yb8qkUpKyVQSJ) | [Remix 1.2](https://open.spotify.com/album/5wWH3xxakgFaCjK3oa8dr3) | 3:41 |
+| 37 | [Despierta Mi Corazón](https://open.spotify.com/track/3exjY1UuuSPVgdFMFNrxAb) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Despierta Mi Corazón](https://open.spotify.com/album/1wMM1rm4hFDy7LopjY4610) | 7:44 |
 | 38 | [Cristo Te Amo](https://open.spotify.com/track/6odYcGVZArmAQpd994oS2U) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Todo Lo Haces Nuevo](https://open.spotify.com/album/7050tzQ5BRBlsMowdSDBwy) | 5:59 |
-| 39 | [Venga Tu Reino](https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 8:25 |
-| 40 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
+| 39 | [Encuentro Glorioso](https://open.spotify.com/track/5QWVPkQkHwYYSJJiFaUt6V) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Mientras Viva \(En Vivo Desde Sudamérica\)](https://open.spotify.com/album/43bUwgrcpN0i8nfqxAYwXM) | 5:49 |
+| 40 | [Venga Tu Reino](https://open.spotify.com/track/5xnAIoSXn2pyECcEcxc5rz) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Edward Rivera](https://open.spotify.com/artist/3N438PUTMEgLrL1n32VTxv), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Tu Reino Está Aquí](https://open.spotify.com/album/2AbsDFYbb2NYeJcwmypX5m) | 8:25 |
 | 41 | [Milagros](https://open.spotify.com/track/2kiERVFwmFf2XblqWAaBPG) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Seamos Luz](https://open.spotify.com/album/5pvHvfyAdZyeunmyYLtfHS) | 6:28 |
 | 42 | [Jesús, Eres el Centro](https://open.spotify.com/track/7qPRGq5Nts33SYjeHi83gJ) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7), [Pedro Pablo Quintero](https://open.spotify.com/artist/7k0e42G3EXTuMtNbMQkw0l) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 8:07 |
 | 43 | [Nada Más](https://open.spotify.com/track/0m8kH2fAxNRxFlnzURAZEf) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C) | [Esto Es un Avivamiento](https://open.spotify.com/album/6ZlOnNItorE8uCHOLgCa7T) | 5:45 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q9BpF.md) - [plain]
 | 46 | [Sonido de Amor \- \(Espontáneo\)](https://open.spotify.com/track/5Hy5SnsgoJiSseiNZL3TjR) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Anthony Catacoli](https://open.spotify.com/artist/56t1x0Jm7IiTEqpKvtY6Q7), [Antonio & Allison](https://open.spotify.com/artist/25zvOZBB4XlEB4R4xwqjD9) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 2:31 |
 | 47 | [Cantar de Tu Amor](https://open.spotify.com/track/2nFGPjnTmncOxR78FEb0YV) | [Generación 12](https://open.spotify.com/artist/1w76rpst0I6hGUgCR2B33C), [Lead](https://open.spotify.com/artist/5pyTY6jmdDNfKmmlo92Vfd), [Sofía Mancipe](https://open.spotify.com/artist/13JxTQpXz8TBhXjOjYDioQ), [Daniela Quintero](https://open.spotify.com/artist/3Oiu7Wp2lqFqkoRkcZCcWi), [Johan Manjarrés](https://open.spotify.com/artist/1jsU0SifGEeNfwJyIS4qc7) | [Obra de Tu Amor](https://open.spotify.com/album/7iwgHqgKqP2D5MhtnmGBeV) | 4:36 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDU0MTliZTJkYWQ2ZWMyNzhhNGYzNGRkODQ0Mjg2Zjhj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDhlNGVhNjY5YjUyNTI3ZjFkZTBkYzI3MzVlMjg5ZTg2`

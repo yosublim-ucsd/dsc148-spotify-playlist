@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 
 > This is Germaine Franco\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 564 likes - 36 songs - 59 min 50 sec
+[Spotify](https://open.spotify.com/user/spotify) - 566 likes - 37 songs - 1 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,14 +35,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3q4SkN.md) - [plain]
 | 25 | [No Me Dejes Atrás \(feat\. Gabriela Martinez\)](https://open.spotify.com/track/146AOJ6INXeSHQEWjYHqsr) | [Federico Ramos](https://open.spotify.com/artist/21KfnWJ8r1OSD9sNEKrLfm), [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe), [Gabriela Martinez](https://open.spotify.com/artist/6DxYmXAvO5MWIOvnwltlLk) | [Margarita \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5tzRfvXjV1LLsTNbI5jPWp) | 2:24 |
 | 26 | [Arriving to Ginny's Farm](https://open.spotify.com/track/638Nk6e23crFjluIBPWIk1) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:24 |
 | 27 | [Who's Your Birth Mother?](https://open.spotify.com/track/3FaAsdxaiJZVQy72trr8ka) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:08 |
-| 28 | [Golf Cart Down](https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:31 |
-| 29 | [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 |
+| 28 | [The Box](https://open.spotify.com/track/4hPVjDcGbuc3neTgsAdzXn) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Shovel Buddies \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3O7wscUi3JM0rSzKlBWAJR) | 4:04 |
+| 29 | [Golf Cart Down](https://open.spotify.com/track/7kHxcxJiWkeBSsmDKvOjSl) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:31 |
 | 30 | [Campfire Stars](https://open.spotify.com/track/0cnlGHnpuI0xxGSInKKYLQ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 0:52 |
 | 31 | [Skittles](https://open.spotify.com/track/1pOAAbPKHLaKNBnCOj7vi6) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 1:29 |
 | 32 | [Winter Passes Into Spring](https://open.spotify.com/track/7E0rakzFoaTjGlVGqmfPBQ) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:04 |
 | 33 | [Jordan's Glasses](https://open.spotify.com/track/22vHybImOkTEYMVo1BJOp2) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Little \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7DzyJnkcECDKAqOdveHY0U) | 1:11 |
 | 34 | [Cowboys Don't Quit](https://open.spotify.com/track/4jKqRwLiOCpxQqRpp7uwf0) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Curious George: Go West Go Wild \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4snKihviTiBrKpMdv39si2) | 1:19 |
 | 35 | [Fire and Ice](https://open.spotify.com/track/6ORJOggTLQzfF8I5dsR5av) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [The Mother \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0H4XDKaXrkNGgNfHd2WnYp) | 2:47 |
-| 36 | [Spring Passes Into Summer](https://open.spotify.com/track/3Q2dB7nmnKkaEjU9gtTPw4) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:04 |
+| 36 | [Three Days Left in May](https://open.spotify.com/track/3ILlJIKgB87Un6dsKciJla) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Tag \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3C7wBD6rACNfc21SL9Y1US) | 1:13 |
+| 37 | [Spring Passes Into Summer](https://open.spotify.com/track/3Q2dB7nmnKkaEjU9gtTPw4) | [Germaine Franco](https://open.spotify.com/artist/5NTEjLv3GEX1Vx0ITx9Pxe) | [Kung Fu Panda: Land Of Awesomeness \(Music From Universal Beijing Resort's\)](https://open.spotify.com/album/6KRNi77BaFQLngZOuBkWqo) | 2:04 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDdhNTI5NDgwM2I0NWFlYTEyMTBiZmVkYWU2OTI1OTdj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGFmMzU1OGU1OWRjYjgyZDhkOTE2Y2VmNDQ2YmFlYjg0`

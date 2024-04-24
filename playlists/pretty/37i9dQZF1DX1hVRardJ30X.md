@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > All\-new releases by Latin artists! Cover: Trueno & Nicky Jam
 
-[Spotify](https://open.spotify.com/user/spotify) - 584,224 likes - 51 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 583,988 likes - 51 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 42 | [Cenicienta](https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Cenicienta](https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4) | 3:14 |
 | 43 | [Mujer](https://open.spotify.com/track/2Jrr4gRBbOiOrZu2jo1gSF) | [Sinego](https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb) | [Mujer](https://open.spotify.com/album/4DoNVtnUb1oTfrJQcxFsbs) | 4:23 |
 | 44 | [moto](https://open.spotify.com/track/4qdnvjHEvN8F1oPqvM8K1U) | [Paty B](https://open.spotify.com/artist/6Uj2QB9FBerTdckLZfCzPs) | [moto](https://open.spotify.com/album/6daDnEVfb8lYmVrqyXENHC) | 3:05 |
-| 45 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Dime Platino](https://open.spotify.com/artist/2LC4ljtDWdhDMGPprXWyZN) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
+| 45 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
 | 46 | [Lento](https://open.spotify.com/track/5rVLnr4TNrOPJqdqoX6L7g) | [SNENiE](https://open.spotify.com/artist/3iIgIzm5nwy5y2uuudWKTb) | [Lento](https://open.spotify.com/album/3BQv2rmS1m8uEbl85M1ywI) | 2:54 |
 | 47 | [Maracay/Bogotá](https://open.spotify.com/track/4sE0WR1wOuP6n8GpHAImr1) | [Velaviee](https://open.spotify.com/artist/6yBqeacW7mGI4DkiNsYmaq) | [Maracay/Bogotá](https://open.spotify.com/album/3hI8Ltm9DTWLGLs2G8Q8RS) | 2:38 |
 | 48 | [Aqui?](https://open.spotify.com/track/3hIMhBDpIB6XbKoT843Ije) | [deadsoulsociety](https://open.spotify.com/artist/5jK1BdSQerlxAhyHMKpXe6) | [Aqui?](https://open.spotify.com/album/16s7UnxEudfSK1rcSgZ0VV) | 4:02 |

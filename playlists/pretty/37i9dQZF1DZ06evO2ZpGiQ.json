@@ -1,12 +1,12 @@
 {
-  "description": "This is \u30ea\u30eb\u30fb\u30a6\u30a7\u30a4\u30f3\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 420666,
-  "original_name": "This Is \u30ea\u30eb\u30fb\u30a6\u30a7\u30a4\u30f3",
+  "description": "This is Lil Wayne. The essential tracks, all in one playlist.",
+  "num_followers": 420689,
+  "original_name": "This Is Lil Wayne",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDI2NDNmYjY1ZjBjY2YwZGZlZWFjYTBmNDJhZmQ2MzE5",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGQwMTM1Y2MxOGU1NTY2NmZkMTI1NTBlMjhhMzM5ZDk3",
   "tracks": [
     {
       "added_at": null,
@@ -623,6 +623,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "11:11 (Deluxe)",
+        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Joyner Lucas",
+          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "duration_ms": 247445,
+      "name": "Freak (feat. Lil Wayne, Joyner Lucas & Tee Grizzley)",
+      "url": "https://open.spotify.com/track/4FXL19CnaMVS1HzRFl1BzS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "We The Best Forever",
         "url": "https://open.spotify.com/album/7FyxsUO4kVqRfo2ne1aUOg"
       },
@@ -651,26 +679,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believer (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 219705,
-      "name": "Believer (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tha Carter III",
         "url": "https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP"
       },
@@ -691,30 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "11:11 (Deluxe)",
-        "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
+        "name": "Believer (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6Q0aPCxLqK5EDSJdlPkNeT"
       },
       "artists": [
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
         },
         {
           "name": "Lil Wayne",
           "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Joyner Lucas",
-          "url": "https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa"
-        },
-        {
-          "name": "Tee Grizzley",
-          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
         }
       ],
-      "duration_ms": 247445,
-      "name": "Freak (feat. Lil Wayne, Joyner Lucas & Tee Grizzley)",
-      "url": "https://open.spotify.com/track/4FXL19CnaMVS1HzRFl1BzS"
+      "duration_ms": 219705,
+      "name": "Believer (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/2sU9EjevkrU9OkPZudvFNN"
     },
     {
       "added_at": null,
@@ -943,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AIN'T GONNA ANSWER",
-        "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
-      },
-      "artists": [
-        {
-          "name": "NLE Choppa",
-          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        }
-      ],
-      "duration_ms": 187453,
-      "name": "AIN'T GONNA ANSWER",
-      "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cherry Bomb",
         "url": "https://open.spotify.com/album/621OhgnZJ7Pz8iUazct1In"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 334363,
       "name": "SMUCKERS (feat. Lil Wayne & Kanye West)",
       "url": "https://open.spotify.com/track/078C2jXg7XsMgW78Gfx1JA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AIN'T GONNA ANSWER",
+        "url": "https://open.spotify.com/album/55HRw5hcRFhf3uSljPqZqA"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 187453,
+      "name": "AIN'T GONNA ANSWER",
+      "url": "https://open.spotify.com/track/2NV0mpU5YbyJXydzYPgw5O"
     },
     {
       "added_at": null,
@@ -1129,6 +1129,6 @@
       "url": "https://open.spotify.com/track/5aooThgj87ID0vgiyvcjPM"
     }
   ],
-  "unique_name": "This Is \u30ea\u30eb\u30fb\u30a6\u30a7\u30a4\u30f3",
+  "unique_name": "This Is Lil Wayne",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZpGiQ"
 }

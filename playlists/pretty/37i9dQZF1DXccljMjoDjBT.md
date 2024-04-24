@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 
 > The best soft rock from the 1980s\. Cover: Peter Cetera
 
-[Spotify](https://open.spotify.com/user/spotify) - 280,677 likes - 75 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 281,030 likes - 75 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,8 +27,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 17 | [I Can't Go for That \(No Can Do\)](https://open.spotify.com/track/41dDygR3r7e926oGUXfrLt) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 5:07 |
 | 18 | [Biggest Part of Me](https://open.spotify.com/track/6JHXiRD1QjMK1N6AQEnL04) | [Ambrosia](https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw) | [One Eighty](https://open.spotify.com/album/4WsQBaO2DLvDZ5VRmsXbUH) | 5:24 |
 | 19 | [Lonely Is the Night](https://open.spotify.com/track/6gAhuDvn8Ef6P710UMze9W) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [Hearts In Motion](https://open.spotify.com/album/5aH4HCsNua1doApLj5cb8J) | 4:09 |
-| 20 | [The End Of The Innocence](https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:15 |
-| 21 | [Every Time You Go Away](https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [The Secret Of Association](https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho) | 5:24 |
+| 20 | [Every Time You Go Away](https://open.spotify.com/track/3ZI3sK9ZJB3LOiZtCs9l3p) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [The Secret Of Association](https://open.spotify.com/album/34PyD90DDeHfhFEymKgjho) | 5:24 |
+| 21 | [The End Of The Innocence](https://open.spotify.com/track/3NWcFiL6oCEagrFiTdDr1m) | [Don Henley](https://open.spotify.com/artist/5dbuFbrHa1SJlQhQX9OUJ2) | [The End Of The Innocence](https://open.spotify.com/album/12lDqJuZIqMk6DNe1fInFl) | 5:15 |
 | 22 | [Sara](https://open.spotify.com/track/0HzjKCZmFhwcO2vnnHpj9q) | [Starship](https://open.spotify.com/artist/0kObWap02DEg9EAJ3PBxzf) | [Knee Deep In The Hoopla](https://open.spotify.com/album/0YCraVqAWvJHiBYP2AXgV6) | 4:52 |
 | 23 | [The Next Time I Fall \(with Amy Grant\)](https://open.spotify.com/track/7zSDDsIlks515d0tZGM64x) | [Peter Cetera](https://open.spotify.com/artist/5xWPOujQqd4wXyB08slZ9Z), [Amy Grant](https://open.spotify.com/artist/72Nhcx7prNk2ZCxhx0Y5es) | [Solitude / Solitaire](https://open.spotify.com/album/1O2sEdKLsSHROEyYgUQmnb) | 3:46 |
 | 24 | [I Don't Want to Live Without You](https://open.spotify.com/track/19aYH2zhbnTNx4plfenrIk) | [Foreigner](https://open.spotify.com/artist/6IRouO5mvvfcyxtPDKMYFN) | [Inside Information](https://open.spotify.com/album/7w6HSgAb9MseMM4DDx3Ls2) | 3:57 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccljMjoDjBT.md) - [plain]
 | 47 | [More Than I Can Say \- Remastered](https://open.spotify.com/track/3RJ81z1sPLeWEFuCfGaCLC) | [Leo Sayer](https://open.spotify.com/artist/04LIHk1SobiQwt2tlupoAV) | [Living In A Fantasy](https://open.spotify.com/album/7fjKXnW6bvlKkVzt6x2sZW) | 3:40 |
 | 48 | [Boys of Autumn](https://open.spotify.com/track/0pDCVNozy0RLEfQpJ6bPYJ) | [David Roberts](https://open.spotify.com/artist/6opjDqwktGxPYPdOAs6T83) | [All Dressed Up](https://open.spotify.com/album/6CoCuashl0StGSgw5XKEJz) | 4:14 |
 | 49 | [Once In a Lifetime](https://open.spotify.com/track/5mfSMt0ns1tUbqvgrPTweE) | [Michael Ruff](https://open.spotify.com/artist/5skgtnwVGfdVqnPnTBF6ZI) | [Once In a Lifetime](https://open.spotify.com/album/43jipQPPOtUEs0v6LlxmAf) | 4:24 |
-| 50 | [True Love](https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Soul Searchin'](https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ) | 4:39 |
-| 51 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
+| 50 | [MARGARITA](https://open.spotify.com/track/6FTkyVYA8sQv43TK28zJON) | [Marc Jordan](https://open.spotify.com/artist/2clUjxvyf90rQi8Rz7absT) | [A HOLE IN THE WALL](https://open.spotify.com/album/7piu0CaJxClSyIvPQO9aNz) | 4:10 |
+| 51 | [True Love](https://open.spotify.com/track/0fMlhe66IZtHbCSe5EGBlX) | [Glenn Frey](https://open.spotify.com/artist/3vMWY1bUrmYoSoEWLiQWOZ) | [Soul Searchin'](https://open.spotify.com/album/4b6WnqBqu76diL48izgBZJ) | 4:39 |
 | 52 | [Real Love](https://open.spotify.com/track/1NI2i1BjKiVrEYCC0WTug4) | [The Doobie Brothers](https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz) | [One Step Closer](https://open.spotify.com/album/5BVnu0gNiU6VJhRA4AdqUi) | 4:19 |
 | 53 | [Live Every Moment](https://open.spotify.com/track/1IMz8NXt3d1ApV6WJUFmg2) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Wheels Are Turnin'](https://open.spotify.com/album/35KafpmKh0nDLzBLV75MpR) | 4:59 |
 | 54 | [You're the Inspiration \- 2009 Remaster](https://open.spotify.com/track/6d7PQZtTbHbcYqaygOW7vs) | [Chicago](https://open.spotify.com/artist/3iDD7bnsjL9J4fO298r0L0) | [Chicago 17 \(Expanded Edition\)](https://open.spotify.com/album/3kkAB63Am6POYuMTisinaa) | 3:49 |

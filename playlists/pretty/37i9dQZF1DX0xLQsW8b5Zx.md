@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 
 > Live fast, die awesome! A great mix of the best rockabilly tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 531,044 likes - 60 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 530,938 likes - 60 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 7 | [Rockabilly Rebel](https://open.spotify.com/track/47fBL9Hqjq2kFIrg8c1wQi) | [Matchbox](https://open.spotify.com/artist/1TZLeOYelnAiEkOJnofWrj) | [The Platinum Collection](https://open.spotify.com/album/2UG7OjoH8G3MILkrOYXyCN) | 2:47 |
 | 8 | [Let's Have A Party](https://open.spotify.com/track/4BdwYhbBITL4fytlFSwv9o) | [Wanda Jackson](https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB) | [The Ultimate Collection](https://open.spotify.com/album/3v3FXV9RhFK08541hD2DJI) | 2:07 |
 | 9 | [59 Ford](https://open.spotify.com/track/08m7pwirwY6h90JE8dZ3D3) | [The Firebirds](https://open.spotify.com/artist/0nhl9XQYR0RLk6PWCvGd75) | [Too Hot to Handle](https://open.spotify.com/album/0LUOLIMXEqzJ8Bt3ulTd6H) | 2:06 |
-| 10 | [Rock Billy Boogie](https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2) | [Robert Gordon](https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF) | [Rock Billy Boogie](https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt) | 2:33 |
+| 10 | [Stray Cat Strut](https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:15 |
 | 11 | [Hillbilly Rock'n'Roll](https://open.spotify.com/track/6bzf1xi9QFsdMkFLLZCUCO) | [Voodoo Swing](https://open.spotify.com/artist/4cq3Pl3yrAtFgDE0RUhUaA) | [Keep On Rollin'](https://open.spotify.com/album/1Drg0VNBBK7IEsDXyMMpKE) | 2:30 |
 | 12 | [Right Now](https://open.spotify.com/track/10dIfQHkyn2SuJ6rtD7qrh) | [Fatboy](https://open.spotify.com/artist/5vK6yZH3E1wOYY93NHZwJT) | [Right Now](https://open.spotify.com/album/4aLW5xX8O4tuPi5E7T4494) | 2:20 |
-| 13 | [Stray Cat Strut](https://open.spotify.com/track/6prmiVokCCQB1VAYhq5TGJ) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:15 |
+| 13 | [Rock Billy Boogie](https://open.spotify.com/track/6kJ86Zi4x1LY9KEdjQA5S2) | [Robert Gordon](https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF) | [Rock Billy Boogie](https://open.spotify.com/album/10xfK1QoJAKJTatrJTp4Wt) | 2:33 |
 | 14 | [Baby Did A Bad Bad Thing \- Remastered](https://open.spotify.com/track/7ohJuvtlKjKKaimEcvWfh1) | [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Best Of Chris Isaak](https://open.spotify.com/album/4aS233D1sBxySxC1dKVtup) | 2:56 |
 | 15 | [Teddy Boy Flick Knife Rock'n'Roll](https://open.spotify.com/track/0OYiNLG8jAVJdHzxzsmxL4) | [Esa Pulliainen](https://open.spotify.com/artist/7dZrUotZctNzR1NFr5uKra), [Mr\. Breathless](https://open.spotify.com/artist/0mVqMVcS4fE4Rc2zJ6vrBo) | [Happy Rokkenrol! Vol\. 2](https://open.spotify.com/album/1I51JBGJpNGGEqCEPNGjnr) | 2:21 |
 | 16 | [C’Mon Everybody](https://open.spotify.com/track/7Lfp7FsKI4buEJYbMlt7QU) | [Eddie Cochran](https://open.spotify.com/artist/1p0t3JtUTayV2wb1RGN9mO) | [The Best Of Eddie Cochran](https://open.spotify.com/album/1MOHwO7WJIg61Ksp4FfYz5) | 1:56 |
@@ -52,9 +52,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0xLQsW8b5Zx.md) - [plain]
 | 42 | [Jungle Rock](https://open.spotify.com/track/6dA1oRPKhfAm1hHO6sKrGy) | [Hank Mizell](https://open.spotify.com/artist/3RGF93b8Qtz77GLJBgdBH6) | [Windy City Bop \- Chicago Rockabilly 1945\-1958](https://open.spotify.com/album/1cqS5uzgVFJLhGuP7G089N) | 2:46 |
 | 43 | [Black Slacks](https://open.spotify.com/track/0nRR6eQMDYkIFmn8c9Rwga) | [Joe Bennett & The Sparkletones](https://open.spotify.com/artist/7jXrEnMAd3ExygGvV3ZGhP) | [1957\-1959](https://open.spotify.com/album/5jRYbndM2M3Z5tzDJDLzNp) | 2:09 |
 | 44 | [Wild Saxophone](https://open.spotify.com/track/31K9keedgi9MaFaLRkvJJU) | [Stray Cats](https://open.spotify.com/artist/2ibPkysx2PXqWLmxFD7jSg) | [Stray Cats](https://open.spotify.com/album/1EKPvDwIw66YEBF2TjOQn8) | 3:01 |
-| 45 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
-| 46 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
-| 47 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
+| 45 | [I Need a Man](https://open.spotify.com/track/55TGQizDZ60NgydRBPUws3) | [Barbara Pittman](https://open.spotify.com/artist/6YxcziBo2zwsKgwdgdkve2) | [I Need a Man / No Matter Who's to Blame](https://open.spotify.com/album/0FNgqfF6DWJYYikq77x9MD) | 2:52 |
+| 46 | [Oh Baby](https://open.spotify.com/track/3IwbsIPJ9e7cv9FbNaCvGq) | [Top Cats](https://open.spotify.com/artist/6HUvBmbZkhq6uGfpRKZ1Zy) | [In the Middle of the Night](https://open.spotify.com/album/0mzGxSTlxqczktknG4hSVd) | 2:40 |
+| 47 | [Rockabilly Blues \(Texas 1955\)](https://open.spotify.com/track/5rjJzse6JQDei4q2mOxrum) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Rockabilly Blues](https://open.spotify.com/album/37bIqXYLpE11IpMIBLPLD1) | 3:20 |
 | 48 | [Forever](https://open.spotify.com/track/7yCG9FU5CGdghkdX5xPYIw) | [John Lindberg Trio](https://open.spotify.com/artist/1WycSxPCDVrFmadezeD8sO) | [Straight from the Heart](https://open.spotify.com/album/2krRyJn2KAXcknNdDV6ask) | 2:41 |
 | 49 | [Debt With the Devil](https://open.spotify.com/track/1HJx9hfIu9Ud26NBpDmy9Q) | [Hillbilly Casino](https://open.spotify.com/artist/5j0P209RtE4MZDmD6QdZpO) | [Tennessee Stomp](https://open.spotify.com/album/0A0uohuhu45hTyqwlgg0Ni) | 2:13 |
 | 50 | [American Music](https://open.spotify.com/track/0NsEEXFLXDNjpgBwRZ143g) | [The Blasters](https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5) | [The Blasters](https://open.spotify.com/album/4RifE9ClJmHaP0j0Qtux3B) | 2:07 |

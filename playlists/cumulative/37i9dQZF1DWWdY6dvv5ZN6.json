@@ -1982,7 +1982,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 207428,
       "name": "Nothing Left (Lonely Song)",
       "url": "https://open.spotify.com/track/3Fs8IAImTJ1Igtr8YDTeUO"
@@ -2060,6 +2060,24 @@
       "duration_ms": 272453,
       "name": "P+R",
       "url": "https://open.spotify.com/track/5fAcEJGYIPLFK6X5hOshXQ"
+    },
+    {
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
     },
     {
       "album": {

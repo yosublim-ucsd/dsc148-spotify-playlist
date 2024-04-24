@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels. Cover: CLYPSO  Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels. Cover: Rum Jungle  Artwork: Isu Kim",
   "name": "Fresh Finds AU & NZ",
   "tracks": [
     {
@@ -1147,6 +1147,24 @@
     },
     {
       "album": {
+        "name": "Accelerate",
+        "url": "https://open.spotify.com/album/5mVK8b9AOEAvEloVvDrH6K"
+      },
+      "artists": [
+        {
+          "name": "Molly Payton",
+          "url": "https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Accelerate",
+      "url": "https://open.spotify.com/track/7JQ7Mik3DXoi6P5Oov4jSd"
+    },
+    {
+      "album": {
         "name": "Sappho",
         "url": "https://open.spotify.com/album/4uyYdYM0bNWmLVEIVGz161"
       },
@@ -2208,6 +2226,24 @@
       "duration_ms": 267897,
       "name": "ALMOST FAMOUS",
       "url": "https://open.spotify.com/track/4ItlB0XClTmdul9yS1F4y0"
+    },
+    {
+      "album": {
+        "name": "Aloe Vera",
+        "url": "https://open.spotify.com/album/7e6jYsPYg9DjuPO0CbaulO"
+      },
+      "artists": [
+        {
+          "name": "Darcy Lane",
+          "url": "https://open.spotify.com/artist/2Jp7AC0nIPSgOFOeX6N4Uh"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169767,
+      "name": "Aloe Vera",
+      "url": "https://open.spotify.com/track/6ikMB573qZCK2xe40etsev"
     },
     {
       "album": {
@@ -5160,7 +5196,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 191862,
       "name": "Better",
       "url": "https://open.spotify.com/track/51imhLkXIPKe1w22SHi6u8"
@@ -6724,7 +6760,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 181259,
       "name": "Born in the Wrong Time",
       "url": "https://open.spotify.com/track/3uu51dWu9KBUSUcCxYJmnp"
@@ -6894,6 +6930,24 @@
       "duration_ms": 96000,
       "name": "BRAIN ROT",
       "url": "https://open.spotify.com/track/6CRV2IA5lsUzz317XCNOcr"
+    },
+    {
+      "album": {
+        "name": "Brainwashing",
+        "url": "https://open.spotify.com/album/1qrzjwSNA5yLu6JPOLRS8Z"
+      },
+      "artists": [
+        {
+          "name": "Hugh B",
+          "url": "https://open.spotify.com/artist/0ccbE6uaLu9K9U1QTNvjzn"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218180,
+      "name": "Brainwashing",
+      "url": "https://open.spotify.com/track/5myr7uD2rOczWD64Fl283G"
     },
     {
       "album": {
@@ -9360,7 +9414,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 214723,
       "name": "CHAMPIONSH*T",
       "url": "https://open.spotify.com/track/66Po89QR7n52bkS1l5y0qc"
@@ -13165,6 +13219,28 @@
     },
     {
       "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/4JNw2dH73MKIVHm4uZThAR"
+      },
+      "artists": [
+        {
+          "name": "Barley Passable",
+          "url": "https://open.spotify.com/artist/0k2101hTwxewxXtAOuqToM"
+        },
+        {
+          "name": "Abby Bella May",
+          "url": "https://open.spotify.com/artist/7wMih0kHtN3mLG2I93WXH8"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263877,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/5yCi90efaaCSu9LeNcbA9h"
+    },
+    {
+      "album": {
         "name": "Diamond In The Rough",
         "url": "https://open.spotify.com/album/5SVuHV5Vm9XZYo9DYdtZZl"
       },
@@ -13238,6 +13314,24 @@
       "duration_ms": 297126,
       "name": "Did I Stutter",
       "url": "https://open.spotify.com/track/3ehNN1PIg2ozR6RV7qdQ2d"
+    },
+    {
+      "album": {
+        "name": "Did The Morning Let You Down",
+        "url": "https://open.spotify.com/album/5ecB0Rb8x6sJpXCLojfWqW"
+      },
+      "artists": [
+        {
+          "name": "Rum Jungle",
+          "url": "https://open.spotify.com/artist/2xQ0QRK08xh3WWBf2RKpsm"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198047,
+      "name": "Did The Morning Let You Down",
+      "url": "https://open.spotify.com/track/0YwjkPwrOgtMvDqAJn8qDE"
     },
     {
       "album": {
@@ -15068,6 +15162,24 @@
       "duration_ms": 182624,
       "name": "Drifting",
       "url": "https://open.spotify.com/track/5f2YXvn1yCgnYYY5FXuabQ"
+    },
+    {
+      "album": {
+        "name": "Driftwood",
+        "url": "https://open.spotify.com/album/3AelMW87ekVldc79T6ItmX"
+      },
+      "artists": [
+        {
+          "name": "Casual Healing",
+          "url": "https://open.spotify.com/artist/1NcvyN544YZpDO2ig9N0vi"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268123,
+      "name": "Driftwood",
+      "url": "https://open.spotify.com/track/6wRGndiL768o93yms0HdL8"
     },
     {
       "album": {
@@ -27897,6 +28009,32 @@
     },
     {
       "album": {
+        "name": "Is This What I Have Missed?",
+        "url": "https://open.spotify.com/album/1Zhpr53VUfT6jq7CQqUSfi"
+      },
+      "artists": [
+        {
+          "name": "Jerome Blaz\u00e9",
+          "url": "https://open.spotify.com/artist/4Xugx9BOIAE45eFzvzEN6e"
+        },
+        {
+          "name": "Sarah Levins",
+          "url": "https://open.spotify.com/artist/41vUggffwqhoHiEowUYDV0"
+        },
+        {
+          "name": "James Tarbotton",
+          "url": "https://open.spotify.com/artist/3dVUI8pDbGY5DhtVyNvZJg"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254857,
+      "name": "Is This What I Have Missed?",
+      "url": "https://open.spotify.com/track/5KC38Vcyg9ENH5vFXp6Emr"
+    },
+    {
+      "album": {
         "name": "Is This What It Feels Like?",
         "url": "https://open.spotify.com/album/6u9YeT8ot9G5dhfaNM5YGg"
       },
@@ -29087,6 +29225,24 @@
     },
     {
       "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/2NcB7uHc22rVgwmBGkJ21K"
+      },
+      "artists": [
+        {
+          "name": "Sunscreen",
+          "url": "https://open.spotify.com/artist/2NLF91sIHrRaNdoGQFmh2F"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206389,
+      "name": "Kick",
+      "url": "https://open.spotify.com/track/5OlUYDXMCTZ52DlTvCFPHg"
+    },
+    {
+      "album": {
         "name": "Kicking Down the Doors",
         "url": "https://open.spotify.com/album/1OTYIh2b2yzioKuywf5Lxq"
       },
@@ -29304,6 +29460,28 @@
       "duration_ms": 165024,
       "name": "Kiss Like This",
       "url": "https://open.spotify.com/track/0wIuGauvUIymOTfPTfqGef"
+    },
+    {
+      "album": {
+        "name": "Kiss Me (Kill Me)",
+        "url": "https://open.spotify.com/album/1fkQYMN4tOgeokPpEYp8p8"
+      },
+      "artists": [
+        {
+          "name": "RINSE",
+          "url": "https://open.spotify.com/artist/2hNslbfAAcYQ8TyejfmIz0"
+        },
+        {
+          "name": "Hatchie",
+          "url": "https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271500,
+      "name": "Kiss Me (Kill Me)",
+      "url": "https://open.spotify.com/track/2CHTt81Ly6DlMb48BXgmcW"
     },
     {
       "album": {
@@ -30401,6 +30579,24 @@
     },
     {
       "album": {
+        "name": "Level",
+        "url": "https://open.spotify.com/album/3Ndwp4RL9Bau1lBJQ9DkqV"
+      },
+      "artists": [
+        {
+          "name": "Fool Nelson",
+          "url": "https://open.spotify.com/artist/4OEJiCES7gvbikChFok2Wp"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209414,
+      "name": "Level",
+      "url": "https://open.spotify.com/track/2YWOrav3BwXayiej6xQw1O"
+    },
+    {
+      "album": {
         "name": "Level Up",
         "url": "https://open.spotify.com/album/4uFX62iwHQgQfqRfOBRyYx"
       },
@@ -31366,6 +31562,24 @@
       "duration_ms": 172394,
       "name": "LLTK",
       "url": "https://open.spotify.com/track/6XNrW7oM3S7VsokV65VcVp"
+    },
+    {
+      "album": {
+        "name": "Lo Siento",
+        "url": "https://open.spotify.com/album/6wXMg8fNDm6LYr6K3pK8Vk"
+      },
+      "artists": [
+        {
+          "name": "benison",
+          "url": "https://open.spotify.com/artist/6aKBKqmDZu6UHkCmEQ9BTO"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148427,
+      "name": "Lo Siento",
+      "url": "https://open.spotify.com/track/3Xa9v5iDy4tLPgGeQs7hmp"
     },
     {
       "album": {
@@ -35986,6 +36200,24 @@
       "duration_ms": 185465,
       "name": "Never Alone",
       "url": "https://open.spotify.com/track/5jKO0yPpJYacIhAR7jO5qL"
+    },
+    {
+      "album": {
+        "name": "Never Be The One",
+        "url": "https://open.spotify.com/album/5usjvYAKRUItrLW6VxD0HC"
+      },
+      "artists": [
+        {
+          "name": "Love Drunk Hearts",
+          "url": "https://open.spotify.com/artist/0KUKdIYZklFYeYWd59xq5Y"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197261,
+      "name": "Never Be The One",
+      "url": "https://open.spotify.com/track/6foGu2jbO6UBSdN8lp53l7"
     },
     {
       "album": {
@@ -46598,7 +46830,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 200816,
       "name": "Sin",
       "url": "https://open.spotify.com/track/7eIuWMQQPeb2lTr5abymA9"
@@ -47910,7 +48142,7 @@
       ],
       "date_added": "2024-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 157375,
       "name": "SO SLOW",
       "url": "https://open.spotify.com/track/1IhgawkcSS7ZxhgeVyPVSF"
@@ -52914,7 +53146,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 202860,
       "name": "The Sparkle",
       "url": "https://open.spotify.com/track/7zGOwnbILu2wDICNCKdbES"
@@ -53520,10 +53752,28 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 162252,
       "name": "this wasn't meant to be a sad song",
       "url": "https://open.spotify.com/track/77oU5ehFVuvbkxmLlKtkTK"
+    },
+    {
+      "album": {
+        "name": "This Won't Hurt A Bit",
+        "url": "https://open.spotify.com/album/1zXukfaWtrGVWEoenO2Ky4"
+      },
+      "artists": [
+        {
+          "name": "Big Orange",
+          "url": "https://open.spotify.com/artist/06dE3zZujjtXjLRhXEVYsx"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228351,
+      "name": "This Won't Hurt A Bit",
+      "url": "https://open.spotify.com/track/492DWIkIwl2sFPLGzbXGTh"
     },
     {
       "album": {
@@ -55960,7 +56210,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 123076,
       "name": "Up",
       "url": "https://open.spotify.com/track/3BFhDy5T7xB6F68pRlO971"
@@ -59411,6 +59661,24 @@
     },
     {
       "album": {
+        "name": "With Small We Start",
+        "url": "https://open.spotify.com/album/1e3PPw7d76uh9dJq86FRUl"
+      },
+      "artists": [
+        {
+          "name": "Emily Barker",
+          "url": "https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243546,
+      "name": "With Small We Start",
+      "url": "https://open.spotify.com/track/4iQGuE9dpdo69dij5Qy6DA"
+    },
+    {
+      "album": {
         "name": "With U",
         "url": "https://open.spotify.com/album/2efHZKxHn5CVuLltB5g1PU"
       },
@@ -59858,7 +60126,7 @@
       ],
       "date_added": "2024-02-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 165032,
       "name": "Wow",
       "url": "https://open.spotify.com/track/42QoHJ9qe4WYhXmh50BPdS"

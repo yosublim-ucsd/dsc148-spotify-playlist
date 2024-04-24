@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2i24iHGhL24.md) - [plain]
 
 > Reimagined pop covers of your favorite songs\.  Cover: Ed Sheeran
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,869 likes - 85 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,153 likes - 85 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

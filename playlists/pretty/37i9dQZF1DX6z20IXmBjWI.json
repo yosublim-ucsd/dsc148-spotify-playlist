@@ -1,6 +1,6 @@
 {
   "description": "Acoustic and roots music gems. Cover: Trousdale",
-  "num_followers": 2028089,
+  "num_followers": 2025064,
   "original_name": "Infinite Acoustic",
   "owner": {
     "name": "Spotify",
@@ -283,6 +283,22 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
+        "name": "Wasteland, Baby!",
+        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 298880,
+      "name": "Shrike",
+      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
         "name": "evermore",
         "url": "https://open.spotify.com/album/2Xoteh7uEpea4TohMxjtaq"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 275320,
       "name": "coney island (feat. The National)",
       "url": "https://open.spotify.com/track/3k7ne7VmH43ZPWxPdvPUgR"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Wasteland, Baby!",
-        "url": "https://open.spotify.com/album/2c7gFThUYyo2t6ogAgIYNw"
-      },
-      "artists": [
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "duration_ms": 298880,
-      "name": "Shrike",
-      "url": "https://open.spotify.com/track/083PU4XnYAOMAGVruma3vb"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Neptune",
-        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 244960,
-      "name": "Horse to Water",
-      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "You And I (Moon And Stars / Acoustic)",
         "url": "https://open.spotify.com/album/2U3hbvwpQPFlRexqPBNV1C"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 200000,
       "name": "You And I - Moon And Stars / Acoustic",
       "url": "https://open.spotify.com/track/5E87q3c0yZ5n5m2Fuq2RMZ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Neptune",
+        "url": "https://open.spotify.com/album/2PaNkZV2WVwOMoRWR7V9cS"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 244960,
+      "name": "Horse to Water",
+      "url": "https://open.spotify.com/track/0szmjOw9XbtbQYWz0GvXSp"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -824,22 +824,6 @@
       "added_at": "2024-03-15 04:00:00",
       "album": {
         "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 280827,
-      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
       },
       "artists": [
@@ -867,6 +851,22 @@
       "duration_ms": 222293,
       "name": "Spirit Cold",
       "url": "https://open.spotify.com/track/1vG6jMgSoqT3zG9tuDrL2E"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 280827,
+      "name": "When Doves Cry - Recorded At Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4LLTqpc4ywNrx89seBQi3w"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Build Me Up From Bones",
-        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
-      },
-      "artists": [
-        {
-          "name": "Sarah Jarosz",
-          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
-        }
-      ],
-      "duration_ms": 216173,
-      "name": "Build Me Up From Bones",
-      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "The Meetings of the Waters",
         "url": "https://open.spotify.com/album/4cx595VqVPFHf5PwJjQ7lJ"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 216746,
       "name": "Nothing\u2019s Gonna Happen",
       "url": "https://open.spotify.com/track/4WM5HfHQZ0N4o8HDNwRmRk"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Build Me Up From Bones",
+        "url": "https://open.spotify.com/album/3WgIxB4vFl8i5ZHCypubIK"
+      },
+      "artists": [
+        {
+          "name": "Sarah Jarosz",
+          "url": "https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ"
+        }
+      ],
+      "duration_ms": 216173,
+      "name": "Build Me Up From Bones",
+      "url": "https://open.spotify.com/track/1I9dSqB5XSdwOfn9M8zpRg"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Don't Let Me Disappear",
-        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
-      },
-      "artists": [
-        {
-          "name": "Ben Harper",
-          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
-        }
-      ],
-      "duration_ms": 264522,
-      "name": "Don't Let Me Disappear",
-      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "EPHRATA",
         "url": "https://open.spotify.com/album/4xRjqEFRi1CZyrCbmy7Sn1"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 218146,
       "name": "Holllllogram",
       "url": "https://open.spotify.com/track/5imyK8dza7bwb6TNDFxCmQ"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Don't Let Me Disappear",
+        "url": "https://open.spotify.com/album/3Oliq76kwRgabXMJOtuUz7"
+      },
+      "artists": [
+        {
+          "name": "Ben Harper",
+          "url": "https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN"
+        }
+      ],
+      "duration_ms": 264522,
+      "name": "Don't Let Me Disappear",
+      "url": "https://open.spotify.com/track/1StMd0fcQFpwrkYTJuHj8z"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "Wear Bluebells in Your Hat If You're Goin' That Way",
-        "url": "https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2"
-      },
-      "artists": [
-        {
-          "name": "Joshua Burnside",
-          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
-        }
-      ],
-      "duration_ms": 188000,
-      "name": "Desert Wine (Acoustic)",
-      "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "Hung the Moon",
         "url": "https://open.spotify.com/album/2R8yAIlt0pNYLsMqyoo2gI"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 190613,
       "name": "Hung the Moon",
       "url": "https://open.spotify.com/track/7Hgn6MVuZTVHL17KlBsoSa"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Wear Bluebells in Your Hat If You're Goin' That Way",
+        "url": "https://open.spotify.com/album/7K9v9aLQChb5PGEbloNrh2"
+      },
+      "artists": [
+        {
+          "name": "Joshua Burnside",
+          "url": "https://open.spotify.com/artist/244AFgFclA9c1IcjWOAqoV"
+        }
+      ],
+      "duration_ms": 188000,
+      "name": "Desert Wine (Acoustic)",
+      "url": "https://open.spotify.com/track/0q15u75SrhGbo1w4BgyAuK"
     },
     {
       "added_at": "2024-03-15 04:00:00",
@@ -1919,22 +1919,6 @@
     {
       "added_at": "2024-03-15 04:00:00",
       "album": {
-        "name": "I'll Be Gone",
-        "url": "https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv"
-      },
-      "artists": [
-        {
-          "name": "The Milk Carton Kids",
-          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
-        }
-      ],
-      "duration_ms": 144946,
-      "name": "I'll Be Gone",
-      "url": "https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN"
-    },
-    {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
         "name": "A Very Lonely Solstice",
         "url": "https://open.spotify.com/album/28aerKYZtxvFfNflCyE29h"
       },
@@ -1947,6 +1931,22 @@
       "duration_ms": 227760,
       "name": "Featherweight - Solstice Version",
       "url": "https://open.spotify.com/track/3N7ECZdXi8Z7RjOA7yuFno"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "I'll Be Gone",
+        "url": "https://open.spotify.com/album/206wJfi6TA85sHEFRy7UNv"
+      },
+      "artists": [
+        {
+          "name": "The Milk Carton Kids",
+          "url": "https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg"
+        }
+      ],
+      "duration_ms": 144946,
+      "name": "I'll Be Gone",
+      "url": "https://open.spotify.com/track/7ejUNmLIkfpdVe3gySTdPN"
     },
     {
       "added_at": "2024-03-15 04:00:00",

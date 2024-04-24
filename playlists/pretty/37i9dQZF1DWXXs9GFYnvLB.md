@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXs9GFYnvLB.md) - [plain]
 
 > The hottest tracks with the freshest hits! Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,407,659 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,407,328 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUoU0bd0p84.md) - [plain]
 
 > The songs from the 2000s that will make you dance all summer long!
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,183 likes - 100 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,649 likes - 100 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUoU0bd0p84.md) - [plain]
 | 31 | [Before He Cheats](https://open.spotify.com/track/0ZUo4YjG4saFnEJhdWp9Bt) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 3:19 |
 | 32 | [Family Affair](https://open.spotify.com/track/3aw9iWUQ3VrPQltgwvN9Xu) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [No More Drama](https://open.spotify.com/album/5QJmKwPveBV4IwLlo4OcG4) | 4:25 |
 | 33 | [Disturbia](https://open.spotify.com/track/2VOomzT6VavJOGBeySqaMc) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:58 |
-| 34 | [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 |
-| 35 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 34 | [Whenever, Wherever](https://open.spotify.com/track/2lnzGkdtDj5mtlcOW2yRtG) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [Laundry Service](https://open.spotify.com/album/4DyMK9x2gnmRkRa16zHaEV) | 3:16 |
+| 35 | [Crazy](https://open.spotify.com/track/1vxw6aYJls2oq3gW0DujAo) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH) | [St\. Elsewhere](https://open.spotify.com/album/5I0Wf7lRLZArM1K2uQ1AEA) | 2:57 |
 | 36 | [Dani California](https://open.spotify.com/track/10Nmj3JCNoMeBQ87uw5j8k) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Stadium Arcadium](https://open.spotify.com/album/7xl50xr9NDkd3i2kBbzsNZ) | 4:42 |
-| 37 | [Just A Lil Bit](https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:57 |
-| 38 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 37 | [Wherever You Will Go](https://open.spotify.com/track/5QpaGzWp0hwB5faV8dkbAz) | [The Calling](https://open.spotify.com/artist/5aMmmNxw4vgpc5XC6hK0zp) | [Camino Palmero](https://open.spotify.com/album/2Ir1mtE8K61cCNY5WQyKGV) | 3:28 |
+| 38 | [Just A Lil Bit](https://open.spotify.com/track/4nva9EpKntUTs6CRSGBCn9) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Massacre](https://open.spotify.com/album/2pidzXTaHV4WaIJYRxKDCH) | 3:57 |
 | 39 | [Party In The U.S.A.](https://open.spotify.com/track/5Q0Nhxo0l2bP3pNjpGJwV1) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [The Time Of Our Lives](https://open.spotify.com/album/64aKkqxc3Ur2LYIKeS5osS) | 3:22 |
 | 40 | [Paparazzi](https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [The Fame](https://open.spotify.com/album/1qwlxZTNLe1jq3b0iidlue) | 3:28 |
 | 41 | [Pocketful of Sunshine](https://open.spotify.com/track/1uigwk5hNV84zRd5YQQRTk) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Pocketful Of Sunshine](https://open.spotify.com/album/6D1YpObdaha620Tm54WbIw) | 3:22 |
@@ -78,9 +78,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUoU0bd0p84.md) - [plain]
 | 68 | [Beautiful Liar](https://open.spotify.com/track/2HWWNoWEEEECwZhAiLg7ib) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [B'Day Deluxe Edition](https://open.spotify.com/album/0Zd10MKN5j9KwUST0TdBBB) | 3:19 |
 | 69 | [Glamorous](https://open.spotify.com/track/4KTtYhxFtFL7mBwnjkKfLm) | [Fergie](https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [The Dutchess](https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA) | 4:06 |
 | 70 | [Breathless](https://open.spotify.com/track/5OQGeJ1ceykovrykZsGhqL) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [In Blue](https://open.spotify.com/album/3F8v4omWXxDHrqntA83WJY) | 3:27 |
-| 71 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
+| 71 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
 | 72 | [Boom Boom Pow](https://open.spotify.com/track/3oDFtOhcN08qeDPAK6MEQG) | [Black Eyed Peas](https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS) | [THE E.N.D\. \(THE ENERGY NEVER DIES\) \[Deluxe Version\]](https://open.spotify.com/album/1dgbFU08pXJXZhGPlybdMX) | 4:11 |
-| 73 | [Move Your Feet](https://open.spotify.com/track/4DX82Vc8qAH4jJPvKxvwg6) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [D\-D\-Don't Don't Stop the Beat](https://open.spotify.com/album/1NwNUaRL9JFy6Ha2uWaKu7) | 3:01 |
+| 73 | [Right Thurr](https://open.spotify.com/track/0l3GEbH3CviUytD6iX4wzg) | [Chingy](https://open.spotify.com/artist/3s2wTjWxK8NOX09dmsvVOh) | [Jackpot](https://open.spotify.com/album/0Hv5X7RRaM7F3hfAq0YmzB) | 4:10 |
 | 74 | [Lollipop](https://open.spotify.com/track/4P7VFiaZb3xrXoqGwZXC3J) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Static Major](https://open.spotify.com/artist/3pbi8H08p95NUZ7m6ybxUV) | [Tha Carter III](https://open.spotify.com/album/5BGzOpea6At0Nd7tYtYZOP) | 4:59 |
 | 75 | [Closer](https://open.spotify.com/track/0GX5oOKtU0nnx5OkhenW2i) | [Ne\-Yo](https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj) | [Year Of The Gentleman](https://open.spotify.com/album/6dC6J5qkPcJ1iGshEN5MpX) | 3:54 |
 | 76 | [P.I.M.P.](https://open.spotify.com/track/2D1hlMwWWXpkc3CZJ5U351) | [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [Get Rich Or Die Tryin'](https://open.spotify.com/album/4ycNE7y1rp5215g1kkqk1P) | 4:09 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUoU0bd0p84.md) - [plain]
 | 94 | [Lady Marmalade \- From "Moulin Rouge" Soundtrack](https://open.spotify.com/track/7GbqE3MlkKosIaCvf50JRK) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Lil' Kim](https://open.spotify.com/artist/5tth2a3v0sWwV1C7bApBdX), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR) | [Moulin Rouge](https://open.spotify.com/album/5cbAqQZSEgRiiNjuEHWTXc) | 4:24 |
 | 95 | [Slow Motion](https://open.spotify.com/track/6ihObRBTB8xdSH2mlERtOX) | [JUVENILE](https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI), [Soulja Slim](https://open.spotify.com/artist/6tBnRI3ubWYclKSbGvGtKd) | [Juve The Great](https://open.spotify.com/album/1JfdhweOku5xDD78eiid4A) | 4:08 |
 | 96 | [The Tide Is High \- Radio Mix](https://open.spotify.com/track/1QhSB9L9M5eZQhW4RNOhXK) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Feels So Good](https://open.spotify.com/album/10ZcEPnqq7VPUfGytiVTuw) | 3:26 |
-| 97 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
-| 98 | [Leavin'](https://open.spotify.com/track/20ORwCJusz4KS2PbTPVNKo) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:36 |
+| 97 | [Leavin'](https://open.spotify.com/track/20ORwCJusz4KS2PbTPVNKo) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp) | [Departure \- Recharged](https://open.spotify.com/album/2tDCfKFy2YW9N0IwNSRdOJ) | 3:36 |
+| 98 | [Never Leave You \(Uh Oooh, Uh Oooh\)](https://open.spotify.com/track/1AjQE5MtP5jHQMyDepbvLI) | [Lumidee](https://open.spotify.com/artist/1IO0GVa1xjkFMXsg66FiE9) | [Almost Famous](https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv) | 3:04 |
 | 99 | [Peaches & Cream](https://open.spotify.com/track/2SLZ2rX5773RS16mcqBxG7) | [112](https://open.spotify.com/artist/7urq0VfqxEYEEiZUkebXT4) | [Part III](https://open.spotify.com/album/6QlbqTqKJt1UnuH3PLz9mb) | 3:13 |
 | 100 | [Soak Up The Sun](https://open.spotify.com/track/215JYyyUnrJ98NK3KEwu6d) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD) | [C'Mon, C'Mon](https://open.spotify.com/album/5NYcTXrRZHxNyRKVOd0vs1) | 4:52 |
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 
 > Get cozy and relax to these laid\-back festive sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,388 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,359 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Ib6QBg3iKI.md) - [plain]
 | 19 | [It's Beginning to Look a Lot like Christmas](https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Christmas \(Deluxe Special Edition\)](https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K) | 3:27 |
 | 20 | [Please Come Home for Christmas \- 2013 Remaster](https://open.spotify.com/track/3QIoEi8Enr9uHffwInGIsC) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Please Come Home for Christmas / Funky New Year \(2013 Remaster\)](https://open.spotify.com/album/4QxtDUU3U7gCCyT9Lm3bg5) | 2:57 |
 | 21 | [Silver Bells](https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [The Dean Martin Christmas Album](https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H) | 2:22 |
-| 22 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Worldmusic for Christmas](https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh) | 4:01 |
-| 23 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 22 | [All You're Dreaming Of](https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH) | [Liam Gallagher](https://open.spotify.com/artist/6sN51vEARnAAdBw1IKZ8Q9) | [All You're Dreaming Of](https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG) | 4:01 |
+| 23 | [Mary's Boy Child / Oh My Lord](https://open.spotify.com/track/2qqZ5fOGuNvYVzgPFDLQ4l) | [Boney M.](https://open.spotify.com/artist/54R6Y0I7jGUCveDTtI21nb) | [Worldmusic for Christmas](https://open.spotify.com/album/71j9nbHz1Ucdncs7Gtp7lh) | 4:01 |
 | 24 | [Mistletoe and Wine](https://open.spotify.com/track/3AgiRs3oxc2dFh0CPUHXJs) | [Cliff Richard](https://open.spotify.com/artist/2nvKpWcP8etYTq4JrRiUiy) | [Together With Cliff Richard](https://open.spotify.com/album/5yaUrYOylXyPC7jEV0o2YZ) | 4:05 |
 | 25 | [The Christmas Song \(Chestnuts Roasting On An Open Fire\)](https://open.spotify.com/track/3eYnKe0LhQA1B5HEkQaRTP) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Under The Mistletoe \(Deluxe Edition\)](https://open.spotify.com/album/63MKT9hwmiMFFdFp5SdB1p) | 3:35 |
 | 26 | [Love Is A Compass \- Disney supporting Make\-A\-Wish](https://open.spotify.com/track/6lx41mPrde3vkcb8qUQOOi) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Love Is A Compass \(Disney supporting Make\-A\-Wish\)](https://open.spotify.com/album/24JJvusSGIAOn9GiHLvWz9) | 3:01 |

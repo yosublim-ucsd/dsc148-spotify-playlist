@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 177008,
+  "2024-04-24": 177037,
   "date_first_scraped": "2021-12-28",
   "description": "Stay focused with a little help from Mozart.",
   "name": "Mozart for Study",
@@ -682,6 +682,106 @@
     },
     {
       "album": {
+        "name": "The Mozart Sonatas for Violin and Piano",
+        "url": "https://open.spotify.com/album/0B9iMcSHBu0Z2MBtIm7Q4L"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Pinchas Zukerman",
+          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
+        },
+        {
+          "name": "Marc Neikrug",
+          "url": "https://open.spotify.com/artist/0oMjsPIoJJtqNKYRPDexGk"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496546,
+      "name": "I. Allegro con spirito",
+      "url": "https://open.spotify.com/track/3FmOa4r030ZTCXLjIM5bnA"
+    },
+    {
+      "album": {
+        "name": "Nikolaus Harnoncourt Conducts Mozart Early Symphonies",
+        "url": "https://open.spotify.com/album/7o81z0HXF7G3YwiTdKWHQg"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Nikolaus Harnoncourt",
+          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132546,
+      "name": "II. Andante grazioso",
+      "url": "https://open.spotify.com/track/18CkD6cVDEFOzu7cIaCv7n"
+    },
+    {
+      "album": {
+        "name": "Nikolaus Harnoncourt Conducts Mozart Early Symphonies",
+        "url": "https://open.spotify.com/album/7o81z0HXF7G3YwiTdKWHQg"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Nikolaus Harnoncourt",
+          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208893,
+      "name": "II. Andantino grazioso",
+      "url": "https://open.spotify.com/track/4GT22FrT5ZxDc8oYgh2uxK"
+    },
+    {
+      "album": {
+        "name": "The Mozart Album",
+        "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Lang Lang",
+          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
+        },
+        {
+          "name": "Nikolaus Harnoncourt",
+          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        }
+      ],
+      "date_added": "2021-03-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 467266,
+      "name": "II. Larghetto",
+      "url": "https://open.spotify.com/track/6qMqnbzY0wsnwa7KUFm1g0"
+    },
+    {
+      "album": {
         "name": "Mozart: Orchestral Works",
         "url": "https://open.spotify.com/album/06Q52iVPpHaP1IviqmLqOr"
       },
@@ -1121,36 +1221,6 @@
       "duration_ms": 431146,
       "name": "Piano Concerto No. 23 in A Major, K. 488: 2. Adagio - Live",
       "url": "https://open.spotify.com/track/5qtqQ05H33mXm83qgc444E"
-    },
-    {
-      "album": {
-        "name": "The Mozart Album",
-        "url": "https://open.spotify.com/album/0frnbBKctMDOscUIz5dAt4"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Lang Lang",
-          "url": "https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4"
-        },
-        {
-          "name": "Nikolaus Harnoncourt",
-          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        }
-      ],
-      "date_added": "2021-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 467266,
-      "name": "Piano Concerto No. 24 in C Minor, K. 491: II. Larghetto",
-      "url": "https://open.spotify.com/track/6qMqnbzY0wsnwa7KUFm1g0"
     },
     {
       "album": {
@@ -2274,32 +2344,6 @@
     },
     {
       "album": {
-        "name": "The Mozart Sonatas for Violin and Piano",
-        "url": "https://open.spotify.com/album/0B9iMcSHBu0Z2MBtIm7Q4L"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Pinchas Zukerman",
-          "url": "https://open.spotify.com/artist/57J4DccKLul7z7kqfRPiER"
-        },
-        {
-          "name": "Marc Neikrug",
-          "url": "https://open.spotify.com/artist/0oMjsPIoJJtqNKYRPDexGk"
-        }
-      ],
-      "date_added": "2021-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 496546,
-      "name": "Sonata in G Major, K. 301: I. Allegro con spirito",
-      "url": "https://open.spotify.com/track/3FmOa4r030ZTCXLjIM5bnA"
-    },
-    {
-      "album": {
         "name": "Mozart: String Quartets, K. 80, K. 155, K. 157 and K. 387",
         "url": "https://open.spotify.com/album/7HB00z49D9tg4hWeojwMdt"
       },
@@ -2437,50 +2481,6 @@
       "duration_ms": 546400,
       "name": "String Quintet No. 3 in C Major, K. 515: Ii. Andante",
       "url": "https://open.spotify.com/track/3XOtF18dwl8xZ2vTHwjgiU"
-    },
-    {
-      "album": {
-        "name": "Nikolaus Harnoncourt Conducts Mozart Early Symphonies",
-        "url": "https://open.spotify.com/album/7o81z0HXF7G3YwiTdKWHQg"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Nikolaus Harnoncourt",
-          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
-        }
-      ],
-      "date_added": "2021-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 132546,
-      "name": "Symphony in D Major (Overture from \"La finta giardiniera\", K. 196 & K. 127 (207a)): II. Andante grazioso",
-      "url": "https://open.spotify.com/track/18CkD6cVDEFOzu7cIaCv7n"
-    },
-    {
-      "album": {
-        "name": "Nikolaus Harnoncourt Conducts Mozart Early Symphonies",
-        "url": "https://open.spotify.com/album/7o81z0HXF7G3YwiTdKWHQg"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Nikolaus Harnoncourt",
-          "url": "https://open.spotify.com/artist/0AeOzXbHJu8q2xqILEOLEO"
-        }
-      ],
-      "date_added": "2021-03-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208893,
-      "name": "Symphony No. 24 in B-Flat Major, K. 182 (173dA): II. Andantino grazioso",
-      "url": "https://open.spotify.com/track/4GT22FrT5ZxDc8oYgh2uxK"
     },
     {
       "album": {

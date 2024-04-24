@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 
 > This is El Fantasma\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,919 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,742 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,10 +18,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 8 | [Vengo a Aclarar](https://open.spotify.com/track/4bPE4HBnxSDST0bwf1V1pn) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Vengo a Aclarar](https://open.spotify.com/album/7sRRTaXHXFn3h9gJK82rwR) | 2:30 |
 | 9 | [Guárdame Esta Noche](https://open.spotify.com/track/6a3Y5DF19Zcw1rpW5NXxks) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Guárdame Esta Noche](https://open.spotify.com/album/5MDG494q2Bffl5JmEVlaIQ) | 2:56 |
 | 10 | [Mi 45](https://open.spotify.com/track/4Q2xPu7B9e3PDnIUMXHw29) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Equipo Armado](https://open.spotify.com/album/1xTOE6MCUeSYrI62QrbJpt) | 2:31 |
-| 11 | [GDL](https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:44 |
-| 12 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 |
-| 13 | [Agarra Tu Camino](https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Agarra Tu Camino](https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B) | 3:54 |
-| 14 | [Seré un Borracho](https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 1:44 |
+| 11 | [El Nano \- Versión Estudio](https://open.spotify.com/track/5yhExZfb6gk2drPnJKBluu) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [En El Camino](https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M) | 3:18 |
+| 12 | [GDL](https://open.spotify.com/track/6MYMoJJFzRb1R7hRR2iYL1) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa las Baby's Y Belikeada](https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8) | 2:44 |
+| 13 | [Seré un Borracho](https://open.spotify.com/track/05N3MEYth8csmsuRVwj18k) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Pa' los Recuerdos, Vol\. 2](https://open.spotify.com/album/4xPy9yUhxwQcb7NVU2MNlH) | 1:44 |
+| 14 | [Agarra Tu Camino](https://open.spotify.com/track/4HXIyu3N5yVTd4qHMbU7cK) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Agarra Tu Camino](https://open.spotify.com/album/7d5gCEbYhn607U8FQuTQ3B) | 3:54 |
 | 15 | [Fuera de Servicio \- En Vivo](https://open.spotify.com/track/03XQEYWR7q7aQUGp43Pwah) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Fuera de Servicio \(En Vivo\)](https://open.spotify.com/album/0FTqYpjo7FxglsdqWNoO0q) | 3:26 |
 | 16 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
 | 17 | [El Gato](https://open.spotify.com/track/3SX4OVFSimNlFYu6xsbeCx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Grupo Laberinto](https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2) | [El Gato](https://open.spotify.com/album/2jUYD0B0zfMgZNNiTDpYd9) | 3:19 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO095KZq.md) - [plain]
 | 49 | [El Viejo del Monte](https://open.spotify.com/track/3yL05KM2udEL7lEKVw8pkm) | [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Como en los Viejos Tiempos](https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI) | 3:09 |
 | 50 | [Soy de Durango](https://open.spotify.com/track/5TSazyzXK958PlTdFc1CIX) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Dolor y Amor](https://open.spotify.com/album/2E58qHF04PzKGW43soO0RT) | 2:21 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDM5OGJjZjgxYTQ4ODBkOGE5YzUwZmI0YjA2OTU3ZjI1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGMzNjMyYjAzNzBlOGY5MDNjNjAyM2IzNzBiNzUyMmEy`

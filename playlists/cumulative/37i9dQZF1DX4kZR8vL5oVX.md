@@ -2,7 +2,7 @@
 
 ### [EQUAL France](https://open.spotify.com/playlist/37i9dQZF1DX4kZR8vL5oVX)
 
-> Les femmes montent le son\. Playlist réalisée avec Paola \(du titre \#1 au \#15\)\. Cover : Zaho de Sagazan
+> Les femmes montent le son\. Playlist réalisée avec Paola \(du titre \#1 au \#15\)\. Cover : Emma Peters
 
 1,203 songs - 2 day 14 hr 22 min
 

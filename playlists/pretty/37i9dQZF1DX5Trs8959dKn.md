@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 
 > Knees go down and the prayers go up
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,080 likes - 50 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,151 likes - 50 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5Trs8959dKn.md) - [plain]
 | 34 | [Prophetic Worship \- Live at The Liberty Church Global, London](https://open.spotify.com/track/3gtjbYJLficOBVt7K0jdwN) | [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Prophetic Worship \(Live at The Liberty Church Global, London\)](https://open.spotify.com/album/5HnqGoWF4SAV3tpiilHyie) | 28:16 |
 | 35 | [Yes You Are the Lord](https://open.spotify.com/track/0ZNI3OqSxNAi3YGVd0ny2w) | [Denzel Prempeh](https://open.spotify.com/artist/1WwOwiV8aUE5RABgYamU0p), [Danny Nettey](https://open.spotify.com/artist/6GQaGd9hwNtiQG9pmFCnBK), [Emmit Jim Konadu](https://open.spotify.com/artist/5sWCmeUgaxTxG9DWEVWRnx), [Negar Wujanji](https://open.spotify.com/artist/0MJL3N9JJNFKx8s6G3Rsxi) | [A Sound from Heaven](https://open.spotify.com/album/5nskXzeE3eYkoi48SEpeVo) | 6:42 |
 | 36 | [Incredible God](https://open.spotify.com/track/1thApqD2u4cSfLsulqV9OF) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [The Cross: My Gaze](https://open.spotify.com/album/5d34SgN4PekfZSICW3Fytt) | 6:45 |
-| 37 | [More Than Gold](https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:55 |
-| 38 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
+| 37 | [Eyes of The Spirit Chant \(Prayer Chant\)](https://open.spotify.com/track/1ChG8HUNhUKa0Qyl4CvT5B) | [Praiz Singz](https://open.spotify.com/artist/7ECc1Emxj8iDTjoegcyt9h) | [Journey To The Deep \(Prayer Chants\)](https://open.spotify.com/album/4DV8nKdwqWlUXaVynHWJag) | 2:11 |
+| 38 | [More Than Gold](https://open.spotify.com/track/7aYSK256AQktjtOs3MnIii) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6m1ZBEKGANGy4Tfgwhtk08) | 4:55 |
 | 39 | [Yahweh](https://open.spotify.com/track/1F0CrOa4vEtp7r5KfzqDhJ) | [David G](https://open.spotify.com/artist/3UxYGkc2hubOZsZuLAR7Ri) | [Yahweh](https://open.spotify.com/album/0Ai0IfdEIuJCMgkHUDEZAy) | 5:24 |
 | 40 | [EYES ON JESUS](https://open.spotify.com/track/4jVxnz2MZ2Cpbj6XzW1OPu) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [EYES ON JESUS](https://open.spotify.com/album/6oUEpWrV8phxswXk4Tc1EP) | 12:06 |
 | 41 | [Ruach Hakodesh](https://open.spotify.com/track/31ZLMtDzOg7pyMYhlVAesz) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1) | [Ruach Hakodesh](https://open.spotify.com/album/7lAGemOFalu3XI1Cy8DDMm) | 9:12 |

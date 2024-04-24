@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "12 hugs (like butterflies)",
+        "url": "https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC"
+      },
+      "artists": [
+        {
+          "name": "Hitsujibungaku",
+          "url": "https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231213,
+      "name": "\u6c38\u9060\u306e\u30d6\u30eb\u30fc",
+      "url": "https://open.spotify.com/track/3zSgE6oQiPLO28dZkvKGbX"
+    },
+    {
+      "album": {
         "name": "POLY LIFE MULTI SOUL",
         "url": "https://open.spotify.com/album/4ExqwHRD689BjDf0tUKGBM"
       },

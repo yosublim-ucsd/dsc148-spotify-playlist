@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 
 ### [This Is N.I.N.A](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1L7I2Y)
 
-> This Is N.I.N.A\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is N.I.N.A\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,612 likes - 34 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,619 likes - 34 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,4 +43,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1L7I2Y.md) - [plain]
 | 33 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 |
 | 34 | [Anna](https://open.spotify.com/track/45lXdJeVnr8OJQW31Ixwoh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Terra](https://open.spotify.com/artist/0wTyCMz1sLbxVNN0OP18oW), [Kash](https://open.spotify.com/artist/4QQfMoY4iQmKwz7Ni1QVpt) | [PELE](https://open.spotify.com/album/57LANvZ85BtVlj31EAY7EK) | 1:29 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGJhMzNjMmViZTU4ZjEzYTdkZjhhMGFhNDY0ZWVmYTYy`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDE5ZjY0MjAzZWNjNWQ5MjM5ODI2MmNlYmUyZmViMjQy`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 
 > Bien al tiro con Junior H, Peso Pluma and the hottest corridos in the U.S.!
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,995 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,099 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,9 +79,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdDoYRQ4LfQJ.md) - [plain]
 | 69 | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/track/2MeEuwplwbbjZ7hxRI6viw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [El Güero \(Feat\. Marca MP\)](https://open.spotify.com/album/6JB7kAukHIaovbGdgkvCfI) | 3:33 |
 | 70 | [El De Las Mieles](https://open.spotify.com/track/1ON9tDhxK7Omz2vHVWkLCi) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [El De Las Mieles](https://open.spotify.com/album/4MJcGaPyYoGrZeovhjaixp) | 3:25 |
 | 71 | [Dijeron Que No La Iba Lograr](https://open.spotify.com/track/7dR09k1an5JEq7ch0Y5hvV) | [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Dijeron Que No La Iba Lograr](https://open.spotify.com/album/3pyALc28lhIbH4gPXVNb9g) | 1:53 |
-| 72 | [ALFOMBRA ROJA](https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:45 |
-| 73 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
-| 74 | [Hay Niveles](https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hay Niveles](https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL) | 2:02 |
+| 72 | [Hay Niveles](https://open.spotify.com/track/1k0q2JsDxlakLdeHPNqfWn) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Hay Niveles](https://open.spotify.com/album/0mTGTVLkzI5Rkz7buS0erL) | 2:02 |
+| 73 | [ALFOMBRA ROJA](https://open.spotify.com/track/3wS0JIapaGqM2zqsRi3p86) | [Daniel Garcia](https://open.spotify.com/artist/5i2Jd6V3K4WdpXAqvQtCrE) | [Sin Rumbo](https://open.spotify.com/album/6A9AcyUAEfykm4rB37PBOi) | 3:45 |
+| 74 | [Gente Corriente \- En Vivo](https://open.spotify.com/track/3dy01NchIH3wWN2EJP3HTa) | [Cuatro De Oro](https://open.spotify.com/artist/5jY3TOEPLD2fIt4hipYCU9) | [Seguimos Dejando Marca \(En Vivo\)](https://open.spotify.com/album/2Jcr40zW9fKWCsMgB7Ov2k) | 2:27 |
 | 75 | [Hoy Todo Cambio](https://open.spotify.com/track/5K8lmNY7fv7VcSuHHXP1Qa) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Hoy Todo Cambio](https://open.spotify.com/album/7k7FKWeJZIapQksOYD8Pgy) | 3:23 |
 | 76 | [El Fat Tony](https://open.spotify.com/track/3viZLBs5sOsNFL9JMfuqZN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [La Clase](https://open.spotify.com/album/2diC6yg6Uf2W5eodLX8sMY) | 2:54 |
 | 77 | [Backpack](https://open.spotify.com/track/4Yrl7HbCo4xgkalAG985RF) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [Quédate Conmigo](https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE) | 3:29 |

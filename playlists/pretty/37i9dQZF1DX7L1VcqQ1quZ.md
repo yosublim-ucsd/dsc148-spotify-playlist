@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 
 > All 90s, all ballads\. Cover: Mariah Carey
 
-[Spotify](https://open.spotify.com/user/spotify) - 353,133 likes - 50 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 353,291 likes - 50 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 | 15 | [Truly Madly Deeply](https://open.spotify.com/track/013AWvizllIUEC2FOBzOnh) | [Savage Garden](https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek) | [Savage Garden](https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4) | 4:37 |
 | 16 | [The Power of Love](https://open.spotify.com/track/5kK1Iru9ogP3Iy1zsANU1n) | [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [The Colour Of My Love](https://open.spotify.com/album/6Po5zdKMIH5Xk99vjXyQpC) | 5:42 |
 | 17 | [I Swear](https://open.spotify.com/track/4WUnM4KNZ0kjp0CUeoyOnS) | [All\-4\-One](https://open.spotify.com/artist/1B8ySGDAiXTCvnJNH4HSCG) | [All\-4\-One](https://open.spotify.com/album/4L5ZA0GukWNWjsk9b7HHDy) | 4:19 |
-| 18 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 |
-| 19 | [Have You Ever Really Loved A Woman? \- From "Don Juan DeMarco" Soundtrack](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 |
+| 18 | [Have You Ever Really Loved A Woman? \- From "Don Juan DeMarco" Soundtrack](https://open.spotify.com/track/32Gf5A7Hr8RdgggXG0Fdks) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [18 Til I Die](https://open.spotify.com/album/29t8lxRlQIyG4K5Xaydt46) | 4:51 |
+| 19 | [Back At One](https://open.spotify.com/track/6mwA6YiKDjAUG8kWvRRUPh) | [Brian McKnight](https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9) | [Back At One](https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo) | 4:23 |
 | 20 | [Un\-Break My Heart](https://open.spotify.com/track/5Ihd9HrPvOADyVoonH9ZjB) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Secrets](https://open.spotify.com/album/6rxtWZH5ua9eANwWdwwf9o) | 4:30 |
 | 21 | [One Sweet Day](https://open.spotify.com/track/7ySbfLwdCwl1EM0zNCJZ38) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Boyz II Men](https://open.spotify.com/artist/6O74knDqdv3XaWtkII7Xjp) | [Daydream](https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J) | 4:41 |
 | 22 | [Weak](https://open.spotify.com/track/71EHOyEOhNx1SzTebRRyng) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [It's About Time](https://open.spotify.com/album/2BBrAtWY0c6dPio5b2JYFK) | 4:51 |
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7L1VcqQ1quZ.md) - [plain]
 | 42 | [Breathe Again](https://open.spotify.com/track/1xFliXOpcu7E89AsDAZ7JV) | [Toni Braxton](https://open.spotify.com/artist/3X458ddYA2YcVWuVIGGOYe) | [Toni Braxton](https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz) | 4:29 |
 | 43 | [I Turn to You](https://open.spotify.com/track/4Do68W4FWO2hRAJCzG1lus) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Christina Aguilera \(Expanded Edition\)](https://open.spotify.com/album/6fpPZS13ImRVpr7Tqs6yP9) | 4:33 |
 | 44 | [Can You Feel the Love Tonight \- End Title](https://open.spotify.com/track/32RxZnEk5KyWUTZR4azxbD) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Lion King: Special Edition Original Soundtrack \(Swedish Version\)](https://open.spotify.com/album/1Dn2s7K0vTc55MtRTBN9sx) | 4:01 |
-| 45 | [Stay \(I Missed You\)](https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Tails](https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7) | 3:03 |
-| 46 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 |
+| 45 | [Thank You](https://open.spotify.com/track/751gBcu62kORDelX7FV0mM) | [Dido](https://open.spotify.com/artist/2mpeljBig2IXLXRAFO9AAs) | [No Angel](https://open.spotify.com/album/5HC0K52InwrhTEd5zDPzRk) | 3:37 |
+| 46 | [Stay \(I Missed You\)](https://open.spotify.com/track/7Lwo27zrXusqUlAaTgnytp) | [Lisa Loeb & Nine Stories](https://open.spotify.com/artist/4a7CDXcRCXi4kp5z7SEXtg) | [Tails](https://open.spotify.com/album/6T9F35NdrGIdrMrVAwBEb7) | 3:03 |
 | 47 | [Hold on My Heart \- 2007 Remaster](https://open.spotify.com/track/0qbhFj4bVrguIZViOJOs36) | [Genesis](https://open.spotify.com/artist/3CkvROUTQ6nRi9yQOcsB50) | [We Can't Dance \(2007 Remaster\)](https://open.spotify.com/album/1lCuwXVtx72gZN0iT20TmO) | 4:37 |
 | 48 | [Tell Him \(Duet with Barbra Streisand\)](https://open.spotify.com/track/6HKChbfE5klrUMHo3NrqzX) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6), [Céline Dion](https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK) | [Let's Talk About Love](https://open.spotify.com/album/1tfS7Fo1UtAxQSf256fnYs) | 4:51 |
 | 49 | [Amazed](https://open.spotify.com/track/6iNcyWk5iUEY7P9zeTc5hm) | [Lonestar](https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK) | [Playlist: The Very Best Of Lonestar](https://open.spotify.com/album/6FoiXUlfC8amjO8yqmYZM5) | 3:59 |

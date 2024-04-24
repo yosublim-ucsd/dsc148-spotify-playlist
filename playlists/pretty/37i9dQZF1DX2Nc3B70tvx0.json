@@ -1,12 +1,12 @@
 {
   "description": "The best in modern indie. Cover: Suki Waterhouse",
-  "num_followers": 2086402,
+  "num_followers": 2082386,
   "original_name": "Front Page Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzgyNDgzOSwwMDAwMDAwMGIzMWFhZWRiNGI4ZDEwMTIwMmJlMzVkYmMxODcwZGYy",
+  "snapshot_id": "MTcxMzkwMTI4NSwwMDAwMDAwMDQwNjQwY2RjZWVkNzhjNzIwYzU3YjYyNTVhNjE4MWQ0",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -163,6 +163,22 @@
       "duration_ms": 167271,
       "name": "Shudder",
       "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
+    },
+    {
+      "added_at": "2024-04-23 19:41:25",
+      "album": {
+        "name": "Dark Vacay",
+        "url": "https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 213413,
+      "name": "Dark Vacay",
+      "url": "https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1895,22 +1911,6 @@
       "duration_ms": 199133,
       "name": "Obsessive Thoughts",
       "url": "https://open.spotify.com/track/0lavlWToofi8DpSeC2DplP"
-    },
-    {
-      "added_at": "2024-02-22 16:00:45",
-      "album": {
-        "name": "Birdseye",
-        "url": "https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7"
     },
     {
       "added_at": "2024-02-14 19:25:40",

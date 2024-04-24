@@ -1,6 +1,6 @@
 {
   "description": "Let's make this a day and night to remember. ",
-  "num_followers": 39329,
+  "num_followers": 39341,
   "original_name": "Bachelorette Party",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-03-18 18:25:18",
       "album": {
+        "name": "Warrior (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
+      },
+      "artists": [
+        {
+          "name": "Kesha",
+          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
+        }
+      ],
+      "duration_ms": 211920,
+      "name": "Die Young",
+      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
+    },
+    {
+      "added_at": "2024-03-18 18:25:18",
+      "album": {
         "name": "Dangerously In Love",
         "url": "https://open.spotify.com/album/6oxVabMIqCMJRYN1GqR3Vf"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 236133,
       "name": "Crazy In Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/5IVuqXILoxVWvWEPm82Jxr"
-    },
-    {
-      "added_at": "2024-03-18 18:25:18",
-      "album": {
-        "name": "Warrior (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5ZQB1ZQ2Yx9YT3nZlR2Pgu"
-      },
-      "artists": [
-        {
-          "name": "Kesha",
-          "url": "https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX"
-        }
-      ],
-      "duration_ms": 211920,
-      "name": "Die Young",
-      "url": "https://open.spotify.com/track/7EQGXaVSyEDsCWKmUcfpLk"
     },
     {
       "added_at": "2024-03-18 18:25:18",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-18 18:25:18",
       "album": {
-        "name": "Heaven & Hell",
-        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
-      },
-      "artists": [
-        {
-          "name": "Ava Max",
-          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
-        }
-      ],
-      "duration_ms": 162398,
-      "name": "Kings & Queens",
-      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
-    },
-    {
-      "added_at": "2024-03-18 18:25:18",
-      "album": {
         "name": "Raise Your Glass",
         "url": "https://open.spotify.com/album/3uQMzfrf4kUNGsCtmTtjPh"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 202960,
       "name": "Raise Your Glass",
       "url": "https://open.spotify.com/track/1gv4xPanImH17bKZ9rOveR"
+    },
+    {
+      "added_at": "2024-03-18 18:25:18",
+      "album": {
+        "name": "Heaven & Hell",
+        "url": "https://open.spotify.com/album/26c7MmQ4w8EAvVLb4jilaM"
+      },
+      "artists": [
+        {
+          "name": "Ava Max",
+          "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F"
+        }
+      ],
+      "duration_ms": 162398,
+      "name": "Kings & Queens",
+      "url": "https://open.spotify.com/track/7a53HqqArd4b9NF4XAmlbI"
     },
     {
       "added_at": "2024-03-18 18:25:18",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-03-18 18:25:18",
       "album": {
-        "name": "1989",
-        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 219200,
-      "name": "Shake It Off",
-      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
-    },
-    {
-      "added_at": "2024-03-18 18:25:18",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -1419,18 +1403,34 @@
     {
       "added_at": "2024-03-18 18:25:18",
       "album": {
-        "name": "Come On Over",
-        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
+        "name": "1989",
+        "url": "https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j"
       },
       "artists": [
         {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 234493,
-      "name": "Man! I Feel Like A Woman!",
-      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
+      "duration_ms": 219200,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/5xTtaWoae3wi06K5WfVUUH"
+    },
+    {
+      "added_at": "2024-03-18 18:25:18",
+      "album": {
+        "name": "Super Freaky Girl",
+        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 170977,
+      "name": "Super Freaky Girl",
+      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
     },
     {
       "added_at": "2024-03-18 18:25:18",
@@ -1451,18 +1451,18 @@
     {
       "added_at": "2024-03-18 18:25:18",
       "album": {
-        "name": "Super Freaky Girl",
-        "url": "https://open.spotify.com/album/0h5MuD9O9o1VoN07mQmwMQ"
+        "name": "Come On Over",
+        "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
       "artists": [
         {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 170977,
-      "name": "Super Freaky Girl",
-      "url": "https://open.spotify.com/track/4C6Uex2ILwJi9sZXRdmqXp"
+      "duration_ms": 234493,
+      "name": "Man! I Feel Like A Woman!",
+      "url": "https://open.spotify.com/track/6sxptembJVty4sNtcPMAVz"
     },
     {
       "added_at": "2024-03-18 18:25:18",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-03-18 18:25:18",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Fergalicious",
-      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
-    },
-    {
-      "added_at": "2024-03-18 18:25:18",
-      "album": {
         "name": "La 167",
         "url": "https://open.spotify.com/album/0T6QxdJZwYrXPHd829SnqK"
       },
@@ -1747,6 +1727,26 @@
       "duration_ms": 187360,
       "name": "Honey, Honey - From 'Mamma Mia!' Original Motion Picture Soundtrack",
       "url": "https://open.spotify.com/track/6P4XyViJkq9QGEHtzfMIrH"
+    },
+    {
+      "added_at": "2024-03-18 18:25:18",
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Fergalicious",
+      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
     },
     {
       "added_at": "2024-03-18 18:25:18",

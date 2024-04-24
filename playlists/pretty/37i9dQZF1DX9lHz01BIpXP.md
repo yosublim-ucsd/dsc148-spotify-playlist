@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lHz01BIpXP.md) - [plain]
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/7ELH5Jb3sZLznADDHFmOWC?si=0xn0w0l4Ry25AXy2NFJmFQ">Benjamen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,497 likes - 53 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,501 likes - 53 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

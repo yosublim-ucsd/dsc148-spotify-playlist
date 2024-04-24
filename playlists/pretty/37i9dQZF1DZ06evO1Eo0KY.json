@@ -1,12 +1,12 @@
 {
   "description": "This is Nicholas Craven. The essential tracks, all in one playlist.",
-  "num_followers": 401,
+  "num_followers": 404,
   "original_name": "This Is Nicholas Craven",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDU0OTgxMTBmZmQ0ZWU3ZjcyYjFmYTIwM2Y1Y2ZjN2I5",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDRkZmRhNGU3NzY4MzlmMmU1ZTYxZDVkOGIxMTc4YTM1",
   "tracks": [
     {
       "added_at": null,
@@ -408,13 +408,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+          "name": "Navy Blue",
+          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
         }
       ],
-      "duration_ms": 162909,
-      "name": "Yzerman",
-      "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
+      "duration_ms": 161250,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa"
     },
     {
       "added_at": null,
@@ -500,13 +500,13 @@
           "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
         },
         {
-          "name": "Navy Blue",
-          "url": "https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV"
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
         }
       ],
-      "duration_ms": 161250,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/6Zxwx0alt2Afe2N2h67xMa"
+      "duration_ms": 162909,
+      "name": "Yzerman",
+      "url": "https://open.spotify.com/track/1OJk0PW55ZEAmmmxn370ka"
     },
     {
       "added_at": null,
@@ -595,26 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Craven N 3",
-        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
-      },
-      "artists": [
-        {
-          "name": "Nicholas Craven",
-          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
-        },
-        {
-          "name": "Evidence",
-          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Breaking Atoms",
-      "url": "https://open.spotify.com/track/4BBkdH0uEsuxN3BkcAsazz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Latin Quarter, Pt. 1",
         "url": "https://open.spotify.com/album/664jQP42bq5pirZyL7ED02"
       },
@@ -639,6 +619,26 @@
       "duration_ms": 199751,
       "name": "Jeff Panacloc",
       "url": "https://open.spotify.com/track/5YKtEDhceft3Mt48fBTMIV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Craven N 3",
+        "url": "https://open.spotify.com/album/5wAlUyWNsX3qZo5Q58soad"
+      },
+      "artists": [
+        {
+          "name": "Nicholas Craven",
+          "url": "https://open.spotify.com/artist/2RBojylM3CJMcaQzNoXOzB"
+        },
+        {
+          "name": "Evidence",
+          "url": "https://open.spotify.com/artist/6VfeYClQyVUCPJdXb9jl3O"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Breaking Atoms",
+      "url": "https://open.spotify.com/track/4BBkdH0uEsuxN3BkcAsazz"
     },
     {
       "added_at": null,

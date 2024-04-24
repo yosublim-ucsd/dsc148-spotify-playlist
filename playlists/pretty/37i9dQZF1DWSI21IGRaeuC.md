@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > Dive into the deep end of the tech house spectrum.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,268 likes - 100 songs - 7 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,318 likes - 100 songs - 7 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 60 | [You Can Forever Be](https://open.spotify.com/track/6JAQXmvq7Ry0DhMYfRIJze) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Deniz Bul](https://open.spotify.com/artist/4H267HByup3kdzVdYLhp21), [Moritz Hofbauer](https://open.spotify.com/artist/6PIxyj355iDhl3wQSsHXPE), [Kevin Kaczynski](https://open.spotify.com/artist/6S6wD5x2k3Bv9yUvNceNYr), [Denise](https://open.spotify.com/artist/49JtItc1s87Swptbgy5eS2) | [You Can Forever Be](https://open.spotify.com/album/6rbZRt3dlMT8wAHIoxz7DV) | 6:16 |
 | 61 | [Running from the Noise \- Edit](https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb) | [Makèz](https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE), [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO) | [Running from the Noise \(Edit\)](https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1) | 3:10 |
 | 62 | [Take](https://open.spotify.com/track/5dSroDlwbzzCUxKDqEZkMx) | [Lucas Bahr](https://open.spotify.com/artist/59m7b8FHdw1hWXmFeTNx1v) | [Take](https://open.spotify.com/album/0v8VQooN6egDZnTMjGSGU5) | 2:28 |
-| 63 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 |
-| 64 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 |
+| 63 | [Space Bump](https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R) | [Bruno Furlan](https://open.spotify.com/artist/6gssIbF04dCX3COZvyr0JF), [Deeft](https://open.spotify.com/artist/21pCbE79vQK4sEuuwW4XJ6) | [Space Bump](https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji) | 2:47 |
+| 64 | [Dusty Showbiz](https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO) | [Sosa UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5) | [Dusty Showbiz](https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb) | 2:58 |
 | 65 | [Unfair](https://open.spotify.com/track/3YvkoTPtxXvcEfs3vcZQVl) | [Beltran](https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP) | [Unfair](https://open.spotify.com/album/0wGiod0Vq6XPiade8rEpbZ) | 4:07 |
 | 66 | [Fakez](https://open.spotify.com/track/1aZTq2c3CKbz6ROk61MPDF) | [Endor](https://open.spotify.com/artist/6F3vLfyutkUhpM50G84eMt) | [Fakez](https://open.spotify.com/album/2yyb5QmNvT0t90FlmVtb7X) | 4:31 |
 | 67 | [Supermodel Thick](https://open.spotify.com/track/4czwcLS8x96vBcCDAFBeKv) | [Jho Roscioli](https://open.spotify.com/artist/1YyeTuJ8IrPSpPiZMq0rhH) | [Supermodel Thick](https://open.spotify.com/album/1WBrocFNoWaAwV1n7y4UTo) | 5:26 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 91 | [N NIGHT](https://open.spotify.com/track/72YERGjA9X5F6NuE4GLLmC) | [Wheats](https://open.spotify.com/artist/68O83ss9GHwRVDaJhpCQHF) | [N NIGHT](https://open.spotify.com/album/59dqu4xpSWOarQt4nh9sdg) | 7:34 |
 | 92 | [It's Alright](https://open.spotify.com/track/05p0F0sC8Ym7BZKG79hTKK) | [Tal Fussman](https://open.spotify.com/artist/6kZ2X9nu0o6eFilCWtufPb) | [Focus \- EP](https://open.spotify.com/album/42xO3MNl7t5rdhSBoqiC79) | 5:47 |
 | 93 | [Single Kiss](https://open.spotify.com/track/1mSQFLT4CEEdJdtby96FUL) | [Salomé Le Chat](https://open.spotify.com/artist/1ClOAC5th0n8BGUD22KpIV) | [Single Kiss](https://open.spotify.com/album/4la24fDXi6Mvc0HMmHijhf) | 3:52 |
-| 94 | [GUNZ.OUT](https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb) | [GUNZ.OUT](https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ) | 3:06 |
+| 94 | [Fuego](https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i) | [Blackchild \(ITA\)](https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb), [Moonage](https://open.spotify.com/artist/3IA8v0laMEfTiVfDPekUDX) | [Fuego](https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym) | 2:18 |
 | 95 | [Azabache](https://open.spotify.com/track/36LpQ2oHZV2OHusDxCMUfC) | [Crusy](https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft) | [Azabache](https://open.spotify.com/album/4peWNj8D8DduNm5rdktO9Y) | 3:37 |
-| 96 | [Scrap](https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [JS04](https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL) | 5:46 |
+| 96 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
 | 97 | [What We Got](https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ) | [Franky Rizardo](https://open.spotify.com/artist/2UgphhGSlC9QWgaZWUOCkl) | [What We Got](https://open.spotify.com/album/2gydMIjZO5J7bqjNaYC8xy) | 5:20 |
-| 98 | [YAP](https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt) | [Kollektiv Turmstrasse](https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N) | [YAP EP](https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf) | 4:06 |
-| 99 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 |
+| 98 | [Targa \- Logic1000 Remix](https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s) | [Niia](https://open.spotify.com/artist/1KlUwB6uFECMC3zzvFvykx), [Ian Isiah](https://open.spotify.com/artist/0ldPEI4BOt8w3oBG9zhEPI), [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I) | [Targa \(Logic1000 Remix\)](https://open.spotify.com/album/6kpoHaj6R6DbN8Y2nSxZlo) | 3:35 |
+| 99 | [Scrap](https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4) | [Jump Source](https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc), [Patrick Holland](https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [JS04](https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL) | 5:46 |
 | 100 | [Okay Alright](https://open.spotify.com/track/4yqFS96Lf0ktp4oauOuWAN) | [Alan Nieves](https://open.spotify.com/artist/0gwCVstfKWPEMibFf3MnyG) | [Okay Alright](https://open.spotify.com/album/653heyRt50TTV4QNhIYLEv) | 6:08 |
 
 Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMDBiZjRhNzdhNmZlYWQxNTE3NGM4MTAyOTAxMzgwNDM1`

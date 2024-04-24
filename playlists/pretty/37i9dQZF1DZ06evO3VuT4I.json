@@ -1,12 +1,12 @@
 {
   "description": "This is Suzanne Ciani. The essential tracks, all in one playlist.",
-  "num_followers": 3289,
+  "num_followers": 3292,
   "original_name": "This Is Suzanne Ciani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFmMDUzMTBjNDg2ZjBlYjhiN2MzNjMyNzE5Y2Q5Nzk3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDNiNTFhOTE4N2RmZTNhZTllZDEwNzI2ZWMzYzNlZTNk",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pianissimo II",
+        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 174000,
+      "name": "Hotel Luna",
+      "url": "https://open.spotify.com/track/225CpNDvmJKuJZdCIlaSjh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Silver Ship",
         "url": "https://open.spotify.com/album/4XQHj9HwykiM9CHCdLYuXK"
       },
@@ -355,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "@0 EP1",
-        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 300747,
-      "name": "Morning Spring",
-      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
       },
@@ -387,6 +387,22 @@
       "duration_ms": 199053,
       "name": "Sonar",
       "url": "https://open.spotify.com/track/0UDz8oHRqQEWrdN9nNeLAJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "@0 EP1",
+        "url": "https://open.spotify.com/album/1eEFnKUqaKC6pgzRKzS29k"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 300747,
+      "name": "Morning Spring",
+      "url": "https://open.spotify.com/track/0MBiVK0AHaR70AuD061Np7"
     },
     {
       "added_at": null,
@@ -423,22 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
-        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 174162,
-      "name": "A Sonic Womb Pt. 5",
-      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Golden Apples of the Sun",
         "url": "https://open.spotify.com/album/7uyjAWuLd40b8qvYJe2t1K"
       },
@@ -455,6 +455,22 @@
       "duration_ms": 478986,
       "name": "Oceanium",
       "url": "https://open.spotify.com/track/0sEjFNddVHkq8Wf7fWsMSh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Sonic Womb: Live Buchla Performance at Lapsus",
+        "url": "https://open.spotify.com/album/0gsVKXimgT760p9OzIbT2K"
+      },
+      "artists": [
+        {
+          "name": "Suzanne Ciani",
+          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
+        }
+      ],
+      "duration_ms": 174162,
+      "name": "A Sonic Womb Pt. 5",
+      "url": "https://open.spotify.com/track/775eFKdL4tIK5x53RJd1u4"
     },
     {
       "added_at": null,
@@ -667,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pianissimo III",
-        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
+        "name": "The Private Music Of Suzanne Ciani",
+        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
       },
       "artists": [
         {
@@ -676,9 +692,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 225000,
-      "name": "Pretend",
-      "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
+      "duration_ms": 232333,
+      "name": "Ondine (From Hotel Luna)",
+      "url": "https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe"
     },
     {
       "added_at": null,
@@ -731,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Private Music Of Suzanne Ciani",
-        "url": "https://open.spotify.com/album/2nmaIXpBrniXN49g4morGy"
+        "name": "Pianissimo III",
+        "url": "https://open.spotify.com/album/43dwsWH3LmpqW3BE0K8ckW"
       },
       "artists": [
         {
@@ -740,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 232333,
-      "name": "Ondine (From Hotel Luna)",
-      "url": "https://open.spotify.com/track/3miJRnWeoyvaQTwo5UTGWe"
+      "duration_ms": 225000,
+      "name": "Pretend",
+      "url": "https://open.spotify.com/track/7rXifdGnx7Lfe40VE5TTwT"
     },
     {
       "added_at": null,
@@ -763,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pianissimo II",
-        "url": "https://open.spotify.com/album/2Rw6DPIFaaTHuLcpjzCT9h"
+        "name": "Music For Denali",
+        "url": "https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6"
       },
       "artists": [
         {
@@ -772,9 +788,9 @@
           "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
         }
       ],
-      "duration_ms": 229466,
-      "name": "Love Song",
-      "url": "https://open.spotify.com/track/59bx2QqW0p8P3g4OsEwssd"
+      "duration_ms": 90810,
+      "name": "Yukon",
+      "url": "https://open.spotify.com/track/1T46n4XDKotdz8UVvmiyF6"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 191866,
       "name": "Dentecane",
       "url": "https://open.spotify.com/track/0XJWHhigCRsq1JPmULi1ws"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Music For Denali",
-        "url": "https://open.spotify.com/album/0Wgn0tTS8eDt477v2taZV6"
-      },
-      "artists": [
-        {
-          "name": "Suzanne Ciani",
-          "url": "https://open.spotify.com/artist/6E7hjfR2Qy6392SnUqCnzr"
-        }
-      ],
-      "duration_ms": 90810,
-      "name": "Yukon",
-      "url": "https://open.spotify.com/track/1T46n4XDKotdz8UVvmiyF6"
     },
     {
       "added_at": null,

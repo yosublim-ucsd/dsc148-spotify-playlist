@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Pyra\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 438,895 likes - 101 songs - 5 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 438,771 likes - 101 songs - 5 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcA6dRp8rwj6.md) - [plain]
 | 14 | [OKLOSER](https://open.spotify.com/track/3EM5ZPDSe1JjSztumpsc5n) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [OKLOSER](https://open.spotify.com/album/6Dp4fwNoZD6Sum7PEheLrJ) | 2:49 |
 | 15 | [Type Shit](https://open.spotify.com/track/28drn6tQo95MRvO0jQEo5C) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:48 |
 | 16 | [Crocodile Tearz](https://open.spotify.com/track/1yfKakY4rvI17lk20ekuRA) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Might Delete Later](https://open.spotify.com/album/57wh3BpvUF2tmvwoGSjUe3) | 3:49 |
-| 17 | [What it feel like?](https://open.spotify.com/track/3mOpQK7vZIvhLxpVpv03pn) | [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz), [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P), [Max He](https://open.spotify.com/artist/7eVdceTmA6EaGW3O5ZoYME), [Mirelle the Gemini](https://open.spotify.com/artist/1Zdc0LEwSP9vAxfjur6Nx6) | [What it feel like?](https://open.spotify.com/album/6WZkVTtjq9F5n1glK7p17C) | 2:59 |
+| 17 | [What it feel like?](https://open.spotify.com/track/3mOpQK7vZIvhLxpVpv03pn) | [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz), [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [What it feel like?](https://open.spotify.com/album/6WZkVTtjq9F5n1glK7p17C) | 2:59 |
 | 18 | [No Tomorrow \- Spotify Singles](https://open.spotify.com/track/5eC84hN3UbRhSfnJLdUNLv) | [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [lobonabeat!](https://open.spotify.com/artist/3gg70JN79TXhAqklizHOva), [Shyboiitobii](https://open.spotify.com/artist/1dWnMziLbosnKyEUDuzzoJ), [Dok2](https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE), [SMUGGLERS](https://open.spotify.com/artist/0brXIqiS2RuhcFnwLqMx9p) | [Spotify Singles](https://open.spotify.com/album/37FotBNUfhWIHHX0BVCYw7) | 5:08 |
 | 19 | [Neighborhood Hero](https://open.spotify.com/track/4l7iSP0OBLK2qfxpJ4SzLZ) | [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB) | [Dennis Daughter \(Deluxe Version\)](https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1) | 2:56 |
 | 20 | [Cloud Surfing](https://open.spotify.com/track/2q0NohCeNd3PIh3ibC6dLT) | [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Oh No](https://open.spotify.com/artist/5PA6iCCOkq14PpMWWlhJ5T), [Gangrene](https://open.spotify.com/artist/56GO5ViKH7Sg7ihAmFfvwv) | [Heads I Win, Tails You Lose](https://open.spotify.com/album/6I4MP7YoLlBWfiQCqjJc4d) | 2:15 |

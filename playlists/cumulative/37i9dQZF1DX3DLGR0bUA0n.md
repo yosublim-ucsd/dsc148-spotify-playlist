@@ -163,6 +163,6 @@
 | [Veinte Mujeres de Negro](https://open.spotify.com/track/0UP5BDqgYBhsSK8ZndGMM6) | [Los Pajaritos De Tacupa](https://open.spotify.com/artist/7KrWKbEhGHojuod8j3CDNT) | [18 Kilates](https://open.spotify.com/album/42JRfQBP8DhodYhlN1396h) | 3:10 | 2023-10-12 |  |
 | [Vida de Rancho \(Zapateado\)](https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm) | [Principez De Tuzantla](https://open.spotify.com/artist/0cdmqorBDwWYyqh2oIRq8r) | [Como Diablos Te Olvido](https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy) | 2:54 | 2023-10-12 |  |
 | [Yo Soy de la Sierra](https://open.spotify.com/track/39atHdsK4HUVLjQzg8Zwvn) | [GERARDO DIAZ Y SU GERARQUIA](https://open.spotify.com/artist/2gLxI7MomgJVmIADX9RZUp), [El Tigrillo Palma](https://open.spotify.com/artist/2usAJ9Mtrw570XlQ5MHJek) | [Yo Soy de la Sierra](https://open.spotify.com/album/70MQXaxxkRlWUKcuYXgA9j) | 3:19 | 2023-10-12 |  |
-| [¿Como Le Hiciste?](https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er) | [Banda Los Costeños de Zirandaro, Gro.](https://open.spotify.com/artist/6RZ6RbJO8Lit2j9oM5621E) | [¿Como Le Hiciste?](https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6) | 3:27 | 2024-02-23 |  |
+| [¿Como Le Hiciste?](https://open.spotify.com/track/294gOGmqpmv4u0L9myG9Er) | [Banda los Costeños](https://open.spotify.com/artist/17nJOojWOUwmOEvPe1gELJ) | [¿Como Le Hiciste?](https://open.spotify.com/album/37WUMQlxFObygrsZAjwvg6) | 3:27 | 2024-02-23 |  |
 
 \*This playlist was first scraped on 2023-12-19. Prior content cannot be recovered.

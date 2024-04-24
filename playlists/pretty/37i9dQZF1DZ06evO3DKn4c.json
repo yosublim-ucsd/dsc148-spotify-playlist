@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 32480,
+  "num_followers": 32528,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDQyN2Q3NWU1ZjZkYjFkZmUyYTlmYjNjM2FlZDZkZmRk",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDhjZGQ4NGE5MGY0MWYxYzI4MTExYzYwYjNkYzhmNWRi",
   "tracks": [
     {
       "added_at": null,
@@ -579,6 +579,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
+      },
+      "artists": [
+        {
+          "name": "Rael",
+          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
+        },
+        {
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
+        }
+      ],
+      "duration_ms": 177746,
+      "name": "Sangue de Free - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bambas & Biritas, Vol. 1",
         "url": "https://open.spotify.com/album/6VXrWuih63rlLPkWHI0Lqa"
       },
@@ -599,26 +619,6 @@
       "duration_ms": 307253,
       "name": "Na Noite Se Resolve",
       "url": "https://open.spotify.com/track/0LudrxIEUQT7P2f8DkBfDU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rael Convida: Black Alien (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl"
-      },
-      "artists": [
-        {
-          "name": "Rael",
-          "url": "https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd"
-        },
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 177746,
-      "name": "Sangue de Free - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/26iz49YLrEiZhBRfMpuX0e"
     },
     {
       "added_at": null,

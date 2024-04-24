@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 
 > Afrobeats' hottest singles\. Cover: Joeboy & Qing Madi
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,969 likes - 80 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,138 likes - 80 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 61 | [NYEM EGO \(feat\. Jeriq\)](https://open.spotify.com/track/2GG6ETOQ8jiXcKYrwhNi0M) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 2:35 |
 | 62 | [Bandana](https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [Bandana](https://open.spotify.com/album/18ykMJdXdkUldVNESaXDke) | 2:58 |
 | 63 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 |
-| 64 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
-| 65 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 |
+| 64 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 |
+| 65 | [KATIGORI](https://open.spotify.com/track/7iHv6PzRxx4x8KYb6XRFfm) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [KATIGORI/PIANO](https://open.spotify.com/album/0ns15ZLBSXJXFHTbcRTjM3) | 2:58 |
 | 66 | [NO SLEEP $$$ \(feat\. Young Jonn\)](https://open.spotify.com/track/7ydy7ryXw7XM5QtE3bNYaW) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Emeka Must Shine](https://open.spotify.com/album/0PhhdE2E1kmaCWIvomj6Fj) | 3:07 |
 | 67 | [10 Bottles](https://open.spotify.com/track/2OES8BEd3LwImek13bYb1p) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [10 Bottles](https://open.spotify.com/album/0SBN2MPLg7VTsvs865mKAh) | 2:58 |
 | 68 | [Ebelebe \(feat\. Wizkid\)](https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg) | [Wande Coal](https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Legend Or No Legend](https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ) | 3:29 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUf3j9Rl2IUG.md) - [plain]
 | 77 | [Dog Eat Dog](https://open.spotify.com/track/4XYpWMW1ec7GJW2Eq8UA9k) | [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Dog Eat Dog](https://open.spotify.com/album/00Q28Y8WQym1RRqM6iYmTH) | 2:29 |
 | 78 | [Lowkey!](https://open.spotify.com/track/5GEJ9JlbSlPleQU3yb2P5y) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Lowkey!](https://open.spotify.com/album/55IMTrO086EYoxCqFksLIA) | 3:33 |
 | 79 | [Dey Your Dey](https://open.spotify.com/track/4X1Ae3Y9MEURgckWfrsrI9) | [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Dey Your Dey](https://open.spotify.com/album/2wo9Bti2902VdGyKANzIhq) | 2:35 |
-| 80 | [In My Mind](https://open.spotify.com/track/1IiNgs5RGEYyGQFLXJvte5) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Bad Since '97](https://open.spotify.com/album/0Uf8CLgcWoLrYwmBcp0pio) | 2:18 |
+| 80 | [Cry \(shayo\) \(feat\. Lojay\)](https://open.spotify.com/track/7IK3W4llnnZsSxA9Dm8uhr) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk), [Lojay](https://open.spotify.com/artist/3ONGmday8YN8AkbsRk01iL) | [Cheers To Life.](https://open.spotify.com/album/2fZCPTAas21v7AF9pVytgj) | 2:48 |
 
 Snapshot ID: `MTcxMzQ4NDg2MCwwMDAwMDAwMGQxNjA1YWNjZTMxZjA2ZTE1MmI0NjAyN2JhZWUwODI4`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 
 ### [This Is Bear McCreary](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1j7cqB)
 
-> This Is Bear McCreary\. Los temas esenciales, todos en una lista.
+> This is Bear McCreary\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,333 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,342 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1j7cqB.md) - [plain]
 | 50 | [Infirmary](https://open.spotify.com/track/0kjI3u4eyLULtEiJE07DEc) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [The Lord of the Rings: The Rings of Power \(Season One, Episode Seven: The Eye \- Amazon Original Series Soundtrack\)](https://open.spotify.com/album/1uVZhJYHy8dcumbR7ZEkVv) | 6:32 |
 | 51 | [Foundation Main Title](https://open.spotify.com/track/61oU2dZYvjGXhQtMXlgTau) | [Bear McCreary](https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG) | [Foundation: Season 1 \(Apple TV+ Original Series Soundtrack\)](https://open.spotify.com/album/3xRBZlhm5VSV255M3JfTFG) | 1:26 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDQyMjJkMDZiYjU0NGU4ZTUyZTIwZmYyNmQ1ZTA3Mjc5`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGI2YWExNzkxN2RjZTU4MjQ3NTFmZGY2NzM0ZjQ3NDY3`

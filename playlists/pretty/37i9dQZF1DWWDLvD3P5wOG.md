@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 
 > Throwbacks you can catch a wine to.
 
-[Spotify](https://open.spotify.com/user/spotify) - 625,231 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 625,574 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 13 | [Who Am I](https://open.spotify.com/track/4PaV16f3DUo9QxbQMUzMKH) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA) | [Many Moods Of Moses](https://open.spotify.com/album/5BppAD3eDsFuDPolMdcqt2) | 3:16 |
 | 14 | [Cant Satisfy Her](https://open.spotify.com/track/3u25dhBZ80h0TFewO29Wqb) | [I Wayne](https://open.spotify.com/artist/3HQIkVkhoARQMb0XlvyUKL) | [Lava Ground](https://open.spotify.com/album/7uReTXgsiJdTHdn42KO2Qp) | 3:41 |
 | 15 | [So Mi Like It](https://open.spotify.com/track/6IFDy0imCdhDpHj98GczEX) | [Spice](https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL) | [So Mi Like It](https://open.spotify.com/album/3VsPJKD7uZPIYB4SNGeLRt) | 2:33 |
-| 16 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
-| 17 | [I Love My Life](https://open.spotify.com/track/6S0nwCOEAftiihy73YVDnl) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [I Love My Life \- Single](https://open.spotify.com/album/48o7c4uGPRJybVClvbTBde) | 3:30 |
+| 16 | [I Love My Life](https://open.spotify.com/track/6S0nwCOEAftiihy73YVDnl) | [Demarco](https://open.spotify.com/artist/0af5VM6xubf8EXKvoG35x6) | [I Love My Life \- Single](https://open.spotify.com/album/48o7c4uGPRJybVClvbTBde) | 3:30 |
+| 17 | [Bam Bam](https://open.spotify.com/track/7HuLDGGqjSPSigt8BiZ2ln) | [Chaka Demus & Pliers](https://open.spotify.com/artist/6RQkaOWddQmiLLJqSgnTbm) | [Tease Me](https://open.spotify.com/album/6GTzBIyPe32G2mXBaYSqYY) | 4:04 |
 | 18 | [Cheaters Prayer](https://open.spotify.com/track/0antMnmr4befD0U81xPyG7) | [Christopher Martin](https://open.spotify.com/artist/3dXC1YPbnQPsfHPVkm1ipj) | [Big Deal](https://open.spotify.com/album/6asuHZdgBoSxKEdVZ9xQj4) | 3:22 |
 | 19 | [Give It All To Me](https://open.spotify.com/track/6vwmviVBIBMGGIEmz88auB) | [Mavado](https://open.spotify.com/artist/0eezS9KmhdjGN436RdTIXu), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Give It All To Me](https://open.spotify.com/album/4sHrUYhZdfAdGM0s628Isq) | 3:34 |
 | 20 | [Girls Dem Sugar](https://open.spotify.com/track/3j8EEMm9kbPLqByuaHmUmQ) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [Art And Life](https://open.spotify.com/album/1KtvMb8plzeWby752rMPBF) | 4:17 |
@@ -68,17 +68,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWDLvD3P5wOG.md) - [plain]
 | 58 | [Text Message](https://open.spotify.com/track/4u63rBIcBRmEXArgnwMoaa) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Text Message \- single](https://open.spotify.com/album/6KS4EHKeEUyuxG8G1DOWbd) | 2:57 |
 | 59 | [Wine Pon It \- Spicy Reggae Mix](https://open.spotify.com/track/7MM3i6PPuS0nmgZFOsUIZf) | [Munga](https://open.spotify.com/artist/42W0y8idHqQrlEcyP7wABv) | [Reggae Deluxe](https://open.spotify.com/album/0OE7UembHj2EcMvAHtB929) | 2:40 |
 | 60 | [Heads High](https://open.spotify.com/track/2t42wAZWVmtzX22lK6crPU) | [Mr\. Vegas](https://open.spotify.com/artist/1pmixngtBJleMrGUG5o8DE) | [Heads High](https://open.spotify.com/album/5gHtG5mxSNjyNKIHK4aGv7) | 3:31 |
-| 61 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
+| 61 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
 | 62 | [Ganja Farmer](https://open.spotify.com/track/2zAJvh4y1DBXo7KIqQjumc) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y) | [Unconditional Love](https://open.spotify.com/album/4FcuMuFa8cnScLyb5n9DyX) | 3:56 |
 | 63 | [Salty Tic Toc](https://open.spotify.com/track/3pYhnleytseeXteG94ywqR) | [Yerry Solis](https://open.spotify.com/artist/0o27gCzpkI7eC8Zrg1zsxI) | [Salty Tic Toc](https://open.spotify.com/album/64R2rPPNSGSVm7ymfkBHNj) | 3:27 |
-| 64 | [I'm Drinking / Rum & Red Bull](https://open.spotify.com/track/7dthTAm8nsB2Xy6H7YkUb5) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Fambo](https://open.spotify.com/artist/5XO0TgTMjWV9GFbpTSHrV0) | [Beenie Man EP\- I'm Drinking / Rum & Red Bull](https://open.spotify.com/album/6c6xqUry5ey8zGlf8vrheg) | 3:21 |
-| 65 | [Frenzy](https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Stays On My Mind](https://open.spotify.com/album/4SpMwzXhjDtumADkYXJvSd) | 3:37 |
+| 64 | [Frenzy](https://open.spotify.com/track/0uihaAV3Pq9jqb5EtCLHnO) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [Stays On My Mind](https://open.spotify.com/album/4SpMwzXhjDtumADkYXJvSd) | 3:37 |
+| 65 | [I'm Drinking / Rum & Red Bull](https://open.spotify.com/track/7dthTAm8nsB2Xy6H7YkUb5) | [Beenie Man](https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA), [Fambo](https://open.spotify.com/artist/5XO0TgTMjWV9GFbpTSHrV0) | [Beenie Man EP\- I'm Drinking / Rum & Red Bull](https://open.spotify.com/album/6c6xqUry5ey8zGlf8vrheg) | 3:21 |
 | 66 | [Dye Dye \(Raw\)](https://open.spotify.com/track/0xWrs2bY4UyaQ3uRm71goW) | [Macka Diamond](https://open.spotify.com/artist/6ETpDuVbzktDEfNza1CN8i) | [Dye Dye \- Single](https://open.spotify.com/album/0lUWYHS9g6DDGtwg7fXsTR) | 3:06 |
 | 67 | [Dutty Wine](https://open.spotify.com/track/1P62HRhImwoMT0QG3skOCE) | [Tony Matterhorn](https://open.spotify.com/artist/6taesTUSevB9eK8bm5Y7b9) | [Dutty Wine](https://open.spotify.com/album/7n4bzCw5PPdLJsxhtbrSnv) | 3:03 |
 | 68 | [Party Shot](https://open.spotify.com/track/4NYzZeQsY0wA2Z1Q0gKCj7) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Phantom 2](https://open.spotify.com/album/6Wi7jtuBGit2o5D1SpZWNI) | 3:50 |
 | 69 | [Worthless Bwoy](https://open.spotify.com/track/2m1vofswv8bhNwFpO5DD1j) | [Bounty Killer](https://open.spotify.com/artist/6UuT0BJZ9vF8Y1sxXnJl2s) | [Nah No Mercy \- The Warlord Scrolls](https://open.spotify.com/album/61skmM7sbrVaMEfyAYqVMG) | 2:42 |
 | 70 | [Bend Ova](https://open.spotify.com/track/7LC5sCPdYJPgKiUXdnIlYe) | [RDX](https://open.spotify.com/artist/4GpVRyxDYccJrbQkO3KWws) | [Kotch EP](https://open.spotify.com/album/4IGhZkAU6HHyOMgtfc9Atq) | 3:09 |
-| 71 | [Gimme the Light](https://open.spotify.com/track/3SCVtAJq8li6HlKfM4M08u) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:48 |
+| 71 | [Like Glue](https://open.spotify.com/track/6pbCkvCENw0suVGr4Ckkae) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Dutty Rock](https://open.spotify.com/album/3nAwSh2fcp3M8voQKZS2as) | 3:52 |
 | 72 | [Clarks \(feat\. Popcaan and Gaza Slim\)](https://open.spotify.com/track/40B9DVzZFNXPqyiEkpWrk2) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Gaza Slim](https://open.spotify.com/artist/7mPRzTE0BI6QMFmWhevSog) | [Dancehall Hero Raw \(Deluxe\)](https://open.spotify.com/album/5xZMSKReqDhHH90BU4mDWH) | 3:02 |
 | 73 | [Bedroom Bully](https://open.spotify.com/track/3KiVsbXehlQmO8ob18EL6B) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [IT \(Incomparable Talent\)](https://open.spotify.com/album/0L0sXJEat24OuHrAFRyBqd) | 2:45 |
 | 74 | [Likes](https://open.spotify.com/track/0u8OSg2ooosvr7wW6jgYYk) | [Chronixx](https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP) | [Chronology](https://open.spotify.com/album/0ZRlLe0jPtxYObYIgKZz9R) | 4:18 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 
 > Windows down, volume up\. The soundtrack to your road trip.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,507 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,628 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 40 | [Musta Been a Ghost](https://open.spotify.com/track/0AZTpwagcDe4nH0mPcnYhS) | [Próxima Parada](https://open.spotify.com/artist/43cM1JWUzdfkZCi7rjkPnz) | [Kind Reminder](https://open.spotify.com/album/2wdKzhxmZ97uz1YA0m9Ogc) | 3:40 |
 | 41 | [Touching Yourself](https://open.spotify.com/track/1HfsmNlg8xxhOr9N2i4Q0n) | [The Japanese House](https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u) | [In the End It Always Does](https://open.spotify.com/album/1pflleeGIJGEAillSnSetf) | 3:01 |
 | 42 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 43 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
-| 44 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
+| 43 | [No More Lies](https://open.spotify.com/track/62tGzw9OJOwDcjPBnMPCuj) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [No More Lies](https://open.spotify.com/album/2M0NVS1dhyis57BJp7REZt) | 5:27 |
+| 44 | [Islands](https://open.spotify.com/track/0Rqwa6i410IwhTiugt6vXi) | [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [xx](https://open.spotify.com/album/2av2ZSHlvD7rvLSsMvtYCG) | 2:40 |
 | 45 | [Heaven or Las Vegas](https://open.spotify.com/track/0AxZUYeQ9bZwSdt1LmZuok) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 4:58 |
 | 46 | [Both Of Us \- Edit](https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx) | [Both Of Us](https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA) | 3:49 |
 | 47 | [Mrs\. Hollywood](https://open.spotify.com/track/1K1KcmJgKaeqnsisQnhyE1) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Mrs\. Hollywood](https://open.spotify.com/album/4R94EEvhdvAE3PWhPcLo59) | 2:23 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 59 | [Caroline](https://open.spotify.com/track/6xTp4nC8NBRSYMxGqIikSh) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:36 |
 | 60 | [Ritual Union](https://open.spotify.com/track/5uTjNzGKCQ50synrf9dWmT) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Ritual Union](https://open.spotify.com/album/1BQVdofe7ROnSoaiC9418p) | 3:30 |
 | 61 | [Sometimes](https://open.spotify.com/track/7oJmIBxEAYjfkS7lhZ7M1S) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Sometimes](https://open.spotify.com/album/7LPsBxxixuOPJl7grf3PX3) | 4:22 |
-| 62 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 |
-| 63 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
-| 64 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
+| 62 | [Pretty Lady](https://open.spotify.com/track/6XDIGKP7TQ1GLedtCtfshM) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Pretty Lady](https://open.spotify.com/album/0gDhR2KuD73QQcnPh50lM4) | 4:37 |
+| 63 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
+| 64 | [Designer](https://open.spotify.com/track/41aABK6UlttIeeGplvwW5t) | [Balu Brigada](https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2) | [Designer](https://open.spotify.com/album/1yqFXiexBb1qKUsmI8X64l) | 3:10 |
 | 65 | [Pool](https://open.spotify.com/track/1ZP4Qxb7USL3EezbxfpOVF) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y), [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Pool](https://open.spotify.com/album/3rDZy3Mdl38XtftACWXL5c) | 3:43 |
 | 66 | [Chaise Longue](https://open.spotify.com/track/7iqAuZe5yS0suLQcFfVK39) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Chaise Longue](https://open.spotify.com/album/2X6hKiTx3P5LGBEvc8oJq6) | 3:16 |
 | 67 | [Where You Belong](https://open.spotify.com/track/0WPOxxoEVoglAvhqroDpQA) | [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [New Me, Same Us](https://open.spotify.com/album/3PuofR78j1BFBGBrNCCYUF) | 3:27 |
@@ -81,9 +81,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8fxXxctv5B2.md) - [plain]
 | 71 | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/track/0B4U9FT1WaFwUiiCPOAak7) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [Mac DeMarco](https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM) | [The Dark Prince \(feat\. Mac DeMarco\)](https://open.spotify.com/album/2atjjBxU7IWXpHbFU8DWNd) | 3:34 |
 | 72 | [Softly](https://open.spotify.com/track/3fpfQC77x3uwESSJ6VmUKM) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Softly](https://open.spotify.com/album/7qlt7zR5715v6Ey0lQsjcN) | 3:08 |
 | 73 | [Plans](https://open.spotify.com/track/1TZGMJxT3gPDkwZyfcc9ED) | [Birds Of Tokyo](https://open.spotify.com/artist/25ou7Y6W7L1fcMoCZMbf86) | [Birds Of Tokyo](https://open.spotify.com/album/5SJkYrOgbOHRPTtvVm23FI) | 3:38 |
-| 74 | [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 |
-| 75 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
-| 76 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
+| 74 | [Baby](https://open.spotify.com/track/1e4kwCOOIv8OHBHSd3avgQ) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN), [DāM\-FunK](https://open.spotify.com/artist/1AEcpjnSCmm53IBZQo3g9z) | [Mature Themes](https://open.spotify.com/album/08RdKFNm8Cu86FSzlhoAoh) | 4:47 |
+| 75 | [Forever Young](https://open.spotify.com/track/0rdEIRgDyH03nwzk7cbbh2) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI) | 3:58 |
+| 76 | [All We Ever Do Is Talk](https://open.spotify.com/track/11sca0kohiR73mPDy9qhZv) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [All We Ever Do Is Talk](https://open.spotify.com/album/2gqI3J8EXaClU1fZmxO2Mw) | 3:46 |
 | 77 | [Free](https://open.spotify.com/track/4iaaEAAyCWrQdYT5tRnyDb) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Rise\)](https://open.spotify.com/album/0K8jX7CLwxJaML5iXdxveF) | 5:05 |
 | 78 | [THREAT](https://open.spotify.com/track/3mWUqIz228lrdC5ZSkpjUG) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [THREAT](https://open.spotify.com/album/3fK4ZsyiwR1SICiufV1woO) | 2:50 |
 | 79 | [Bull Breed](https://open.spotify.com/track/0AJzVMzlFT03insWEIlrDz) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [Bull Breed](https://open.spotify.com/album/6tFOkJFFT4d6SOmA1qRNxb) | 2:52 |

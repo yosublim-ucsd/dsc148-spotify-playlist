@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,766 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,772 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 9 | [Bom](https://open.spotify.com/track/1Vd8qFWC07LB8UvNHyIlzg) | [BOL4](https://open.spotify.com/artist/4k5fFEYgkWYrYvtOK3zVBl) | [Puberty BookⅠ Bom](https://open.spotify.com/album/0JkeId5EsudMnCK3UHe7cg) | 3:37 |
 | 10 | [Introduce me a good person](https://open.spotify.com/track/2OAEKEb0778gsDaCef7MLI) | [JOY](https://open.spotify.com/artist/0sYpJ0nCC8AlDrZFeAA7ub) | [HOSPITAL PLAYLIST \(Original Television Soundtrack\), Pt\. 2](https://open.spotify.com/album/2ulXYvZjbc3y12LiwWKXP4) | 3:03 |
 | 11 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 |
-| 12 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
-| 13 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
+| 12 | [Magnetic \(R&B Remix\)](https://open.spotify.com/track/2KYwtEX70O5wD2xEn4a42J) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Magnetic \(Remixes\)](https://open.spotify.com/album/3N7bSRtr9USCEbSYOfSlEJ) | 2:51 |
+| 13 | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/track/1xWVYPdaLm909DbFmuPGOR) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [Slightly Tipsy \(She is My Type♡ X SANDEUL\)](https://open.spotify.com/album/2bal48tjyi26OAxY2KxwFL) | 3:47 |
 | 14 | [Your Shampoo Scent In The Flowers](https://open.spotify.com/track/49jhaFKylisSzgaReEP2Jt) | [Jang Beom June](https://open.spotify.com/artist/529ZdRwFoSKtQ0LPwKxGiu) | [Be Melodramatic \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/5ceWbG2nV9xM9z9ZYdD3Mg) | 2:48 |
 | 15 | [Ordinary Love](https://open.spotify.com/track/1enx9LPZrXxaVVBxas5rRm) | [Park Kyung](https://open.spotify.com/artist/0hT0UrjmzkLJouAT52ck6j), [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Ordinary Love](https://open.spotify.com/album/6nI5vvp4jsLHC9M55PTqDE) | 3:52 |
 | 16 | [I Like You](https://open.spotify.com/track/0yZ9MblP49OXpd9fwhgWi6) | [CHO JUNG SEOK](https://open.spotify.com/artist/0MU0Hxwaz1daT4FVqx3Smz) | [HOSPITAL PLAYLIST Season2, Pt\. 5 \(Original Television Soundtrack\)](https://open.spotify.com/album/59BkLxDBXXGhuM3v6cvths) | 3:35 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSwNzYQXHuHY.md) - [plain]
 | 47 | [YESMAN \(feat\. Roh Yun Ha\)](https://open.spotify.com/track/31Mq4iNnukk3wngb6ePLgD) | [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz), [Roh Yun Ha](https://open.spotify.com/artist/4F0KZ0SXe4z5xrgX6TXAPy) | [HESITATING](https://open.spotify.com/album/5pk3OUqtuSdIJw6fANGCMz) | 3:09 |
 | 48 | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/track/0b7XMDOGw3BM4SJqtEbE88) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Love Diary \(Back to You X Lee MinHyuk\)](https://open.spotify.com/album/47GhA9AqjcUnOjoRNOdFQq) | 3:50 |
 | 49 | [First Love Story](https://open.spotify.com/track/7yaFG7IYstppb3WrI7nMWY) | [Baek A Yeon](https://open.spotify.com/artist/5UKoKVlU7EDN4UgDuVRAbX) | [First Love Story \(Original Soundtrack from the Webtoon Fight For My Way\)](https://open.spotify.com/album/1e5e5KZ97uAAUufTpjd5OJ) | 3:27 |
-| 50 | [I pray](https://open.spotify.com/track/0LBG7GmTBRPRfDPXaG3VzS) | [Motte](https://open.spotify.com/artist/4bh77HBBwCekmEPcbXAljy) | [Romance is a Bonus Book OST Part.4](https://open.spotify.com/album/0aoTj4YT25IFtiEiyIqrNU) | 3:47 |
+| 50 | [On You \(feat\. 1ho & Mabinc\)](https://open.spotify.com/track/79a57VIcpyQGDeiMJ2QUVc) | [Airman](https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E), [1ho](https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g), [Mabinc](https://open.spotify.com/artist/7gOu3iix5zisrsJCPvWu8Z) | [Attitude \#4](https://open.spotify.com/album/5y0wDDGEiUlgEj0LX4sc1B) | 3:32 |
 
 Snapshot ID: `MTcxMzUwNzU5NSwwMDAwMDAwMDc0MjE1ZGYxODk3Mjk0OTBmNWZiMTVmZTRkY2VmYWFi`

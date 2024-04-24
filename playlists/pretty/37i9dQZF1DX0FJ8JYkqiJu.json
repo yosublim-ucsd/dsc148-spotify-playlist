@@ -1,6 +1,6 @@
 {
   "description": "Tune in, bliss out",
-  "num_followers": 387990,
+  "num_followers": 387934,
   "original_name": "Just Chill",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Tidal Waves",
+        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
+      },
+      "artists": [
+        {
+          "name": "Isaak Young",
+          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
+        }
+      ],
+      "duration_ms": 190820,
+      "name": "Tidal Waves",
+      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "What a Wonderful World (Krister Remix)",
         "url": "https://open.spotify.com/album/7K9B42KWbEt2pR4CFHt2DW"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 95023,
       "name": "What a Wonderful World - Krister Remix",
       "url": "https://open.spotify.com/track/7bHGlhtwAMSuaMyXn2GqII"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Tidal Waves",
-        "url": "https://open.spotify.com/album/5JUNGkyetUR1RC0svtR772"
-      },
-      "artists": [
-        {
-          "name": "Isaak Young",
-          "url": "https://open.spotify.com/artist/7qmOAgRUFZhLfwtyCGPKdo"
-        }
-      ],
-      "duration_ms": 190820,
-      "name": "Tidal Waves",
-      "url": "https://open.spotify.com/track/3YTZyDywwVOWOXw2d970Dx"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -645,26 +645,6 @@
       "url": "https://open.spotify.com/track/1zs6RPYV3KmtTv1bj6dI1z"
     },
     {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Howl (Chill Mix)",
-        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 197619,
-      "name": "Howl - Chill Mix",
-      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
-    },
-    {
       "added_at": "2024-04-11 14:00:00",
       "album": {
         "name": "Heartburn",
@@ -683,6 +663,26 @@
       "duration_ms": 221707,
       "name": "Heartburn",
       "url": "https://open.spotify.com/track/6V9azBbi4eDK5mPQc7KVaI"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "Howl (Chill Mix)",
+        "url": "https://open.spotify.com/album/11CPp4HNosSENEXP3Cli3x"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 197619,
+      "name": "Howl - Chill Mix",
+      "url": "https://open.spotify.com/track/6AbwJJnX5omy6pgaIos7PF"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -799,6 +799,22 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "Hope For Sale",
+        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
+      },
+      "artists": [
+        {
+          "name": "Chiiild",
+          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Promises",
         "url": "https://open.spotify.com/album/1ccKMe1V4ixAhUZSQmWwqF"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 208375,
       "name": "Promises",
       "url": "https://open.spotify.com/track/6J1J0mAEKODPz10Tthdhwv"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "Hope For Sale",
-        "url": "https://open.spotify.com/album/2opiJIrYClkW7qD2vM6vSi"
-      },
-      "artists": [
-        {
-          "name": "Chiiild",
-          "url": "https://open.spotify.com/artist/2YqJwmohaNjg9lg51flSax"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Weightless",
-      "url": "https://open.spotify.com/track/39ctmPVTtAMKeVJhMq5dS5"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1131,6 +1131,26 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
+        "name": "La Perla (Tourist Remix)",
+        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        },
+        {
+          "name": "Tourist",
+          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
+        }
+      ],
+      "duration_ms": 317003,
+      "name": "La Perla - Tourist Remix",
+      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
         "name": "Healing",
         "url": "https://open.spotify.com/album/0A8OvnT0h2rXSqZjdSdwQF"
       },
@@ -1163,26 +1183,6 @@
       "duration_ms": 140826,
       "name": "Ask",
       "url": "https://open.spotify.com/track/1QDfa76GouFESAc6e9xI7l"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
-        "name": "La Perla (Tourist Remix)",
-        "url": "https://open.spotify.com/album/2CEQtjRACjOqhLnDsiKzor"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        },
-        {
-          "name": "Tourist",
-          "url": "https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6"
-        }
-      ],
-      "duration_ms": 317003,
-      "name": "La Perla - Tourist Remix",
-      "url": "https://open.spotify.com/track/1V2Z18nOByb7DqCECFh2Yt"
     },
     {
       "added_at": "2024-03-14 13:00:00",
@@ -1243,26 +1243,6 @@
     {
       "added_at": "2024-03-14 13:00:00",
       "album": {
-        "name": "To Be Yours",
-        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Claud",
-          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
-        }
-      ],
-      "duration_ms": 211782,
-      "name": "To Be Yours",
-      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
-    },
-    {
-      "added_at": "2024-03-14 13:00:00",
-      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/0ZcsTyc5wSv7VsQGJSjXAa"
       },
@@ -1279,6 +1259,26 @@
       "duration_ms": 128100,
       "name": "Sunny Day",
       "url": "https://open.spotify.com/track/15OCXMVSaf6sT6PVsBtgHT"
+    },
+    {
+      "added_at": "2024-03-14 13:00:00",
+      "album": {
+        "name": "To Be Yours",
+        "url": "https://open.spotify.com/album/2WWkAkh5eMxUELEyHKPFGf"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Claud",
+          "url": "https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1"
+        }
+      ],
+      "duration_ms": 211782,
+      "name": "To Be Yours",
+      "url": "https://open.spotify.com/track/3lNBpsW30g2xSngVw2l1U7"
     },
     {
       "added_at": "2024-03-14 13:00:00",

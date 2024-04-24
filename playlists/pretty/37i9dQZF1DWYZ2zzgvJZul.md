@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ2zzgvJZul.md) - [plain]
 
 > Éxitos del momento y lo último de artistas nuevos y consagrados\. En portada: Hinds
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,753 likes - 80 songs - 4 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,757 likes - 80 songs - 4 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Coffee](https://open.spotify.com/track/1kGqlaGvaha8qOMIVO1VIX) | [Hinds](https://open.spotify.com/artist/4piFCokRN13muTud5Y2lhz) | [Coffee](https://open.spotify.com/album/2XAhGSAp42H2jDQDENR1km) | 2:29 |
 | 2 | [Pagando de Más](https://open.spotify.com/track/4BMyL8QxN9W5jE4ia12l2G) | [Isla Mujeres](https://open.spotify.com/artist/2VLQDfdzVswx2x3BNYwfcS) | [Barato Ideal](https://open.spotify.com/album/3vHJZa6kVgGjot5mgsjOUg) | 2:51 |
-| 3 | [Recuérdame </3](https://open.spotify.com/track/5Vigksef6pzPLb0AHLDjsQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Recuérdame </3](https://open.spotify.com/album/6YpTQ7sEr94Xcr1EbmPToT) | 2:37 |
+| 3 | [Recuérdame </3](https://open.spotify.com/track/5Vigksef6pzPLb0AHLDjsQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [La Cueva](https://open.spotify.com/artist/34MlrrxcmBFemk8LmpFeI9) | [Recuérdame </3](https://open.spotify.com/album/6YpTQ7sEr94Xcr1EbmPToT) | 2:37 |
 | 4 | [Noviembre](https://open.spotify.com/track/4tmRbBGXBf7UZTjcRHOMdY) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Noviembre](https://open.spotify.com/album/0dlauudMf58IRyIAxj5knN) | 3:51 |
 | 5 | [Lo Mejor](https://open.spotify.com/track/5VEcvQd59L5xKySsXAbJ6h) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Lo Mejor](https://open.spotify.com/album/1eUGnfmBWoPfsNXUHQsMEL) | 4:10 |
 | 6 | [Algo Me Dice](https://open.spotify.com/track/78q1JXZIlanqIhzvBotVfM) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Algo Me Dice](https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v) | 4:17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,881 likes - 75 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,843 likes - 75 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 53 | [Não Sou Merecedor \- Remix](https://open.spotify.com/track/1LAUZbs9Tjou8sb5nXPz1h) | [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Avipa](https://open.spotify.com/artist/61IkIw7upLhDJOQl528uyq) | [Não Sou Merecedor \(Remix\)](https://open.spotify.com/album/6Nup7hhcwHVEfVT9dC9yG8) | 2:55 |
 | 54 | [Marcas \- Remix](https://open.spotify.com/track/5WEpKESNpBwo0170C0aj0k) | [Dj Lucas Ninja](https://open.spotify.com/artist/6RRBLrk8E6TfoOvqD1OODq), [Rosa de Saron](https://open.spotify.com/artist/7EBn9lIBKysikqbU2XDnoX) | [Marcas \(Remix\)](https://open.spotify.com/album/44sgO3D4YBpiRHwu2305fo) | 3:15 |
 | 55 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
-| 56 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
-| 57 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
+| 56 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
+| 57 | [A Sertaneja de Jesus](https://open.spotify.com/track/2REa2fqSPwSsqLnlHCWH55) | [Carina Garay](https://open.spotify.com/artist/78zO2D4XK929yoNIQUszAz) | [A Sertaneja de Jesus](https://open.spotify.com/album/4N0iYUZGRme50QiJrrKYZg) | 2:38 |
 | 58 | [Dono da Minha Vida \- Remix](https://open.spotify.com/track/58HYGCF00P5MGm7ZtYQlcP) | [Dj Del Mag](https://open.spotify.com/artist/2xUpGkJ8TAdUcbULBEP2S4), [Filipe Souza](https://open.spotify.com/artist/7iVidqBbem4kPayKzk4h9z) | [Dono da Minha Vida \(Remix\)](https://open.spotify.com/album/48ZsZjU6GUlRuhv3n7u6cJ) | 3:25 |
 | 59 | [Ele Voltará](https://open.spotify.com/track/4cqi3syiCRmBwMlKB41mJl) | [Irmã Ana Paula, CMES](https://open.spotify.com/artist/1aEvJUVR7x8krnCk1wtrFv), [Missionário Shalom](https://open.spotify.com/artist/6TZ4wdzVOsMsc8YfeoI9LO) | [Ele Voltará](https://open.spotify.com/album/1SBo8s8MA1PocxxEDFd7yZ) | 4:29 |
 | 60 | [Sorrindo à Toa \- Remix](https://open.spotify.com/track/1F6Ficmbmpk4TnfZ1gKOFU) | [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleytinho de Macaé](https://open.spotify.com/artist/55fFdghzGlZ3Md2LRaUnXG) | [Sorrindo à Toa \(Remix\)](https://open.spotify.com/album/2MYEAhLdLtIo04Yp939fwg) | 2:35 |

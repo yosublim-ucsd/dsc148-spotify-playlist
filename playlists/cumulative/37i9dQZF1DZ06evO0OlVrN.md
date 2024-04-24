@@ -2,7 +2,7 @@
 
 ### [This Is Los Relampagos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0OlVrN)
 
-> This is Los Relampagos Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Relampagos Del Norte\. Los temas esenciales, todos en una lista.
 
 79 songs - 4 hr 2 min
 
@@ -50,7 +50,7 @@
 | [Me Moriria](https://open.spotify.com/track/1WPO1NLdInUUPChlLUkOu0) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Exitos](https://open.spotify.com/album/3R2YtOfQnRScWMilGDVz0H) | 3:20 | 2022-06-01 |  |
 | [Mi Charchina](https://open.spotify.com/track/6vK2viIk4tabUUztnxQcTb) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Puras Cantineras, Vol\. 1](https://open.spotify.com/album/0qqZVWDEGQLr1lhwp3jqUX) | 3:06 | 2022-06-01 | 2023-02-07 |
 | [Mi Talisman](https://open.spotify.com/track/1zcPAPgfVZXo24wgIO0rDr) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [30 Exitos Inmortales](https://open.spotify.com/album/0sqq8ENeeBECpaM7cne8GA) | 1:55 | 2022-06-01 | 2023-11-11 |
-| [Mi Tesoro](https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:57 | 2022-06-01 | 2024-04-23 |
+| [Mi Tesoro](https://open.spotify.com/track/57rH2ju0NCA5K1m4GxmIfU) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 2:57 | 2022-06-01 |  |
 | [Mi Tesoro](https://open.spotify.com/track/5Afeci0I2L79n5NGFJ4YkQ) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [15 Exitos de los Relampagos del Norte](https://open.spotify.com/album/3NlXAw72kFd04LBcUgyrDa) | 3:01 | 2023-05-19 | 2024-01-27 |
 | [Mira y Comprende](https://open.spotify.com/track/2iHN9gmEZ5wpY1sDGIBh3Q) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx), [Ramón Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Cornelio Reyna Con Ramón Ayala y los Relámpagos del Norte](https://open.spotify.com/album/3QqP4X0qTnexiRDaDSe5dS) | 2:41 | 2022-06-01 |  |
 | [Mis 20 Novias](https://open.spotify.com/track/2n8kDwTy72xop89bdx6ZUf) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [De Qué Es Tu Corazón](https://open.spotify.com/album/4CetYEaGlo2tI9kqySSQuj) | 2:17 | 2024-01-24 |  |
@@ -60,7 +60,7 @@
 | [Pancha La Contrabandista](https://open.spotify.com/track/3S9CMtCRtiSuvgOPRDoIiM) | [Country Roland Band](https://open.spotify.com/artist/4lHtr3k2oeLN4wqDAU5LSs), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Country Roland Vs\. Los Relampagos](https://open.spotify.com/album/5reWQ2xXXaOn3Z9cyFwXn1) | 3:17 | 2023-10-01 |  |
 | [Podiosero De Amor \- Live](https://open.spotify.com/track/4k6hwuu0agWO2RaMCJ94wM) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 4:03 | 2022-06-01 |  |
 | [Popurri de Rancheras](https://open.spotify.com/track/0xWYWhcCCMSvHnjFDsIEDJ) | [Ramon Ayala](https://open.spotify.com/artist/0fIdQWpwzU2oEtsoyArDOL), [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw), [Los Cachorros de Juan Villarreal](https://open.spotify.com/artist/0GOXTf63jIMlOB5Y587SJp) | [Grandes Popurrís Con...](https://open.spotify.com/album/2d2JHyDLUovey7KamW8ta9) | 13:49 | 2022-12-17 | 2023-05-13 |
-| [Por El Amor A Mi Madre](https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:04 | 2022-06-01 |  |
+| [Por El Amor A Mi Madre](https://open.spotify.com/track/2tNH25WlzOdld1e1060LQO) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [20 Súper Éxitos](https://open.spotify.com/album/2oi7Q0C7IgX9vOOWFOSUlk) | 3:04 | 2022-06-01 | 2024-04-24 |
 | [Por una Mujer Casada](https://open.spotify.com/track/2FQX8f8S3VAT7gVjeHPP14) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Mi Talismán](https://open.spotify.com/album/4PjX1edXB9jBsfv74nvuSR) | 3:16 | 2022-06-01 |  |
 | [Prieta Mojina \- Live](https://open.spotify.com/track/1wpFLL3ZJBxUs47HxSIPZX) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [Los Relampagos Del Norte En Vivo \(Live\)](https://open.spotify.com/album/3kpuqV5noBtcsTFui98VEj) | 2:38 | 2022-06-01 |  |
 | [Que Bonita Chaparrita](https://open.spotify.com/track/1k3Mlwz2vcp8kIZnLnQQ2s) | [Los Relampagos Del Norte](https://open.spotify.com/artist/1t7EOTt2tHw9qgJOmhByDw) | [21 Hits, Vol\. 2](https://open.spotify.com/album/3AEdlliIqVcw2bLioQxHDI) | 2:44 | 2022-06-01 |  |

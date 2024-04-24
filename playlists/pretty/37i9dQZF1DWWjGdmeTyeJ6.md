@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels, featuring the performing artists of Fresh Finds Live in Chicago\. Artwork by Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,189,848 likes - 113 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,189,744 likes - 113 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

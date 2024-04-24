@@ -4,7 +4,7 @@
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Karataka Damanaka
 
-1,150 songs - 2 day 22 hr 6 min
+1,150 songs - 2 day 22 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -303,7 +303,7 @@
 | [Ek Dum Ek Dum \(From "Tiger Nageswara Rao"\) \(Kannada\)](https://open.spotify.com/track/50kGO4gx9bwXjf6RvnQYsj) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa) | [Ek Dum Ek Dum \(From "Tiger Nageswara Rao"\) \(Kannada\)](https://open.spotify.com/album/3Cy6ofL6hg37L8zfQba7KN) | 4:20 | 2023-09-05 | 2023-09-21 |
 | [Ele Alsin Thole \(From "Sreemanta"\)](https://open.spotify.com/track/1dMCQqiVNdkIQFC6MJhNEF) | [Hamsalakha](https://open.spotify.com/artist/6FmGW6HrBvqOEpMDQsk3xG), [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39), [Naveen Sajju](https://open.spotify.com/artist/2PxwriIRRPcrUf2YHU7Wzx) | [Ele Alsin Thole \(From "Sreemanta"\)](https://open.spotify.com/album/3h5oFts7UpQkiDdEVqU4o9) | 5:10 | 2023-04-26 | 2023-05-18 |
 | [Eli Sanje Kadala Teera \- From "Vaamana"](https://open.spotify.com/track/1PzFXLgGwgjiaAe2bsC9gR) | [C.R.Bobby](https://open.spotify.com/artist/1WMMdHnsy7rwTnKmsu85z1), [Ajaneesh B Loknath](https://open.spotify.com/artist/6yE8BTRG7WxOu3xNhfNEwS), [Punith Arya](https://open.spotify.com/artist/0mGt3IkzLWeqSelwUx9vDb) | [Eli Sanje Kadala Teera \(From "Vaamana"\)](https://open.spotify.com/album/7DfhV5q5E87C89hc7oRcWX) | 3:56 | 2023-09-06 | 2023-11-21 |
-| [Ella Neenene \- From "KTM"](https://open.spotify.com/track/7tsSE42pB6dV3dqRfz1dx7) | [Chetan Rao](https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Dhananjay Niranjan](https://open.spotify.com/artist/0tcRv4Y4Iqg2yAEm6yzK4K) | [Ella Neenene \(From "KTM"\)](https://open.spotify.com/album/5BDRWJY2bd9Woi4DFjETVZ) | 4:17 | 2024-02-05 |  |
+| [Ella Neenene \- From "KTM"](https://open.spotify.com/track/7tsSE42pB6dV3dqRfz1dx7) | [Chetan Rao](https://open.spotify.com/artist/1BqAWpvIAKLMISzajmSS6P), [Sanjith Hegde](https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v), [Dhananjay Niranjan](https://open.spotify.com/artist/0tcRv4Y4Iqg2yAEm6yzK4K) | [Ella Neenene \(From "KTM"\)](https://open.spotify.com/album/5BDRWJY2bd9Woi4DFjETVZ) | 3:51 | 2024-02-05 |  |
 | [Ellaa Maatannu \(from "Ondu Sarala Prema Kathe"\)](https://open.spotify.com/track/2cbEhOVcx6eGNU1KX9cflQ) | [Shivani Swami](https://open.spotify.com/artist/64VSAmd4CFfkJ4JQljYjsr), [Veer Samarth](https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb) | [Ellaa Maatannu \(from "Ondu Sarala Prema Kathe"\)](https://open.spotify.com/album/1rQPkxAVUVyuGd9vk5WMui) | 4:18 | 2024-02-02 |  |
 | [Elli Hodane Sakhi \- From "Jalapaatha"](https://open.spotify.com/track/5cFEvdj5DlKm9EcebYi8SX) | [Sadwini Koppa](https://open.spotify.com/artist/2U4OMgHh4QWreQsizx9Jdn), [Shreenidhi G Shastry](https://open.spotify.com/artist/5mdpFPrdc0PK8dnTZLFUMv) | [Elli Hodane Sakhi \(From "Jalapaatha"\)](https://open.spotify.com/album/3bzkNEzB6pie0YUZPbVhhA) | 2:59 | 2023-09-12 | 2023-11-28 |
 | [Em Chesavo Maya](https://open.spotify.com/track/1PmWfIKMbBubumgSJhTnN8) | [Bheems Ceciroleo](https://open.spotify.com/artist/0L5f9aJIaxQXTipZ7uQYiC), [Shrideep](https://open.spotify.com/artist/0oxDjlOm0W98k0HSHfyYcv) | [Ram Asur](https://open.spotify.com/album/7MRTgTwiHw3Y0Y9IvLlDQo) | 3:58 | 2022-03-15 | 2022-04-20 |

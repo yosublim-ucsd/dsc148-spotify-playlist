@@ -1,12 +1,12 @@
 {
   "description": "Who\u2019s afraid of little old me?",
-  "num_followers": 1278478,
+  "num_followers": 1279051,
   "original_name": "Villain Mode",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMGNlNTUxNWYxZmJhODY1YWVkMTFmODNmMjhmODhiNDdi",
+  "snapshot_id": "MTcxMzkxNzI3NSwwMDAwMDAwMDkzNDgyMWRiNGYyZGY3NzIwNjljODc2MmQ2ZDUwNmE4",
   "tracks": [
     {
       "added_at": "2024-02-22 03:52:54",
@@ -351,22 +351,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "SOUR",
-        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "jealousy, jealousy",
-      "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "older",
         "url": "https://open.spotify.com/album/1CRkQ0NwUlzM4052uaZbtn"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 137778,
       "name": "older",
       "url": "https://open.spotify.com/track/75c2zaSdDBSX0A8Jyvm4fO"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "SOUR",
+        "url": "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2j"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "jealousy, jealousy",
+      "url": "https://open.spotify.com/track/0MMyJUC3WNnFS1lit5pTjk"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -499,6 +499,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "GUTS",
+        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
+      },
+      "artists": [
+        {
+          "name": "Olivia Rodrigo",
+          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+        }
+      ],
+      "duration_ms": 165833,
+      "name": "all-american bitch",
+      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Hazbin Hotel (Original Soundtrack)",
         "url": "https://open.spotify.com/album/2EOqRNsJiNb7IFLktJBZpq"
       },
@@ -531,22 +547,6 @@
       "duration_ms": 133717,
       "name": "Hell\u2019s Greatest Dad",
       "url": "https://open.spotify.com/track/2h4MTQZP8quVwuwrtIPErD"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "GUTS",
-        "url": "https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp"
-      },
-      "artists": [
-        {
-          "name": "Olivia Rodrigo",
-          "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-        }
-      ],
-      "duration_ms": 165833,
-      "name": "all-american bitch",
-      "url": "https://open.spotify.com/track/34sOdxWu9FljH84UXdRwu1"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "Little Queen",
+        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
+      },
+      "artists": [
+        {
+          "name": "Heart",
+          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
+        }
+      ],
+      "duration_ms": 261933,
+      "name": "Barracuda",
+      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Enemy (with JID) [from the series Arcane League of Legends]",
         "url": "https://open.spotify.com/album/1bTgKomQYSkKYPD9UI9W4b"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 173381,
       "name": "Enemy (with JID) - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/1r9xUipOqoNwggBpENDsvJ"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "Little Queen",
-        "url": "https://open.spotify.com/album/1LaeNhiUpL3X6N0LcFvuDF"
-      },
-      "artists": [
-        {
-          "name": "Heart",
-          "url": "https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv"
-        }
-      ],
-      "duration_ms": 261933,
-      "name": "Barracuda",
-      "url": "https://open.spotify.com/track/4KfSdst7rW39C0sfhArdrz"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "BABYDOLL",
-        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
-      },
-      "artists": [
-        {
-          "name": "Ari Abdul",
-          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
-        }
-      ],
-      "duration_ms": 196235,
-      "name": "BABYDOLL",
-      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Suicide Squad: The Album",
         "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 177028,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "BABYDOLL",
+        "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
+      },
+      "artists": [
+        {
+          "name": "Ari Abdul",
+          "url": "https://open.spotify.com/artist/25jJ6vyXwTRa0e6XCcdR6U"
+        }
+      ],
+      "duration_ms": 196235,
+      "name": "BABYDOLL",
+      "url": "https://open.spotify.com/track/5rPNVwYjVEgkq6YNPki4Zc"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "The Animals",
-        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
-      },
-      "artists": [
-        {
-          "name": "The Animals",
-          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
-        }
-      ],
-      "duration_ms": 271280,
-      "name": "House Of The Rising Sun",
-      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Sharks",
         "url": "https://open.spotify.com/album/587Ykd8NOCdzRmaW4nlT4e"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 190883,
       "name": "Sharks",
       "url": "https://open.spotify.com/track/0TyUOnU4H4GLqOcrH0auc8"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "The Animals",
+        "url": "https://open.spotify.com/album/0Xwkx2TLFwRcoK0OWQ0Msa"
+      },
+      "artists": [
+        {
+          "name": "The Animals",
+          "url": "https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP"
+        }
+      ],
+      "duration_ms": 271280,
+      "name": "House Of The Rising Sun",
+      "url": "https://open.spotify.com/track/7BY005dacJkbO6EPiOh2wb"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1103,22 +1103,6 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
-        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
-        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
-      },
-      "artists": [
-        {
-          "name": "Lesley Gore",
-          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "You Don't Own Me",
-      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
         "name": "Every Where Is Some Where",
         "url": "https://open.spotify.com/album/4QwcXvqLh5Yj35wBt2DnTr"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 231600,
       "name": "High Enough",
       "url": "https://open.spotify.com/track/1qwno7xb5mJe71xtMS6jl2"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Lesley Gore Sings Of Mixed-Up Hearts",
+        "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
+      },
+      "artists": [
+        {
+          "name": "Lesley Gore",
+          "url": "https://open.spotify.com/artist/08b2PA6eFyugsWAk41eQKZ"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "You Don't Own Me",
+      "url": "https://open.spotify.com/track/7ngRS53kqxLcEt9Pythc5d"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1217,20 +1217,20 @@
       "url": "https://open.spotify.com/track/1uNePI826aqh9uC9pgbeHU"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
+      "added_at": "2024-04-24 00:07:55",
       "album": {
-        "name": "Narrated For You",
-        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
       },
       "artists": [
         {
-          "name": "Alec Benjamin",
-          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
         }
       ],
-      "duration_ms": 185122,
-      "name": "If I Killed Someone For You",
-      "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1259,6 +1259,22 @@
       "duration_ms": 199125,
       "name": "VILLAIN",
       "url": "https://open.spotify.com/track/3QSjVPObHxuAJc3E5nrjRn"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
+        "name": "Narrated For You",
+        "url": "https://open.spotify.com/album/6jKZplJpy21R5lHaYHHjmZ"
+      },
+      "artists": [
+        {
+          "name": "Alec Benjamin",
+          "url": "https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov"
+        }
+      ],
+      "duration_ms": 185122,
+      "name": "If I Killed Someone For You",
+      "url": "https://open.spotify.com/track/0WHi11uzahqpEtPGYCW6oQ"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1427,6 +1443,22 @@
     {
       "added_at": "2024-02-22 03:52:54",
       "album": {
+        "name": "K-12",
+        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
+      },
+      "artists": [
+        {
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "duration_ms": 161064,
+      "name": "Class Fight",
+      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
+    },
+    {
+      "added_at": "2024-02-22 03:52:54",
+      "album": {
         "name": "Animal (Expanded Edition)",
         "url": "https://open.spotify.com/album/6fpLLJsDSSAlToEDW2jv4F"
       },
@@ -1455,22 +1487,6 @@
       "duration_ms": 195717,
       "name": "Choke",
       "url": "https://open.spotify.com/track/37mfTcSlX60JtAvAETytGs"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "K-12",
-        "url": "https://open.spotify.com/album/1KerGJUScYGffP3Mjmjz8c"
-      },
-      "artists": [
-        {
-          "name": "Melanie Martinez",
-          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
-        }
-      ],
-      "duration_ms": 161064,
-      "name": "Class Fight",
-      "url": "https://open.spotify.com/track/37pf8jSeCGlzgQPIfVHO6X"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1633,20 +1649,20 @@
       "url": "https://open.spotify.com/track/1zyGFId8xHOcRmCmehrwlc"
     },
     {
-      "added_at": "2024-02-22 03:52:54",
+      "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Comfortable",
-        "url": "https://open.spotify.com/album/6k8uoIKgs0Qu2CuhNPMN6s"
+        "name": "Pretty Little Devil",
+        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
       },
       "artists": [
         {
-          "name": "Victor Ray",
-          "url": "https://open.spotify.com/artist/3vABvmPywI2fV90bnpkpsJ"
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
         }
       ],
-      "duration_ms": 228961,
-      "name": "Comfortable",
-      "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
+      "duration_ms": 167690,
+      "name": "Pretty Little Devil",
+      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
     },
     {
       "added_at": "2024-02-22 03:52:54",
@@ -1679,22 +1695,6 @@
       "duration_ms": 142765,
       "name": "People I Don't Like",
       "url": "https://open.spotify.com/track/5srKMwXoeyrRnyTnNbpgIW"
-    },
-    {
-      "added_at": "2024-02-22 03:52:54",
-      "album": {
-        "name": "STRUT",
-        "url": "https://open.spotify.com/album/2lkTWzi2FinjN6JIwP5u0y"
-      },
-      "artists": [
-        {
-          "name": "EMELINE",
-          "url": "https://open.spotify.com/artist/4S38gbKfKkEbty2YAIDIlV"
-        }
-      ],
-      "duration_ms": 117727,
-      "name": "STRUT",
-      "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"
     }
   ],
   "unique_name": "Villain Mode",

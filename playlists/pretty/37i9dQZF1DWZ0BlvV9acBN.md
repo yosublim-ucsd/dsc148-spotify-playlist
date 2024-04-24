@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 
 > Grandes sucessos e novidades do rock Cristão\. Foto: Thalles Roberto
 
-[Spotify](https://open.spotify.com/user/spotify) - 136,191 likes - 70 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 136,068 likes - 70 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ0BlvV9acBN.md) - [plain]
 | 41 | [Louco \(feat\. PG\)](https://open.spotify.com/track/6BFJMuXwEzGLWkjB0pOxDV) | [Fred Arrais](https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q), [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Louco \(feat\. PG\)](https://open.spotify.com/album/4yc5e16AJYtTFxCv4J0VTg) | 5:09 |
 | 42 | [É Tempo de Abrir o Coração \- Ao Vivo](https://open.spotify.com/track/5UtV3TOSr21gcvSxKA0mhf) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [É Tempo de Abrir o Coração / Santo \(Ao Vivo\)](https://open.spotify.com/album/42NjnTNuaIEGBsX3XACxGX) | 4:34 |
 | 43 | [Vestido Azul](https://open.spotify.com/track/5hLjEIr4NmAsGarqTwm0mA) | [Catarina Von Bora](https://open.spotify.com/artist/3DxQewmz2PoRvVVpWEv5iH), [Coletivo Candiero](https://open.spotify.com/artist/2WoLRZ8lSMvx4BWJGNblqV), [Daniel Alves](https://open.spotify.com/artist/3eW6cEr5fLxtSXZDBTJNSK) | [Columbário](https://open.spotify.com/album/4o6BATvOsC4vbHJySc5avV) | 3:35 |
-| 44 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
-| 45 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
+| 44 | [Recomeço](https://open.spotify.com/track/3TKsDD8fBxFjUmGVBu8pCp) | [ID2](https://open.spotify.com/artist/6gmPdxck5HrtNl6ahkoC12) | [Recomeço](https://open.spotify.com/album/3jbcS03ePcUE8WpIwexDEZ) | 3:45 |
+| 45 | [Cantem os Anjos](https://open.spotify.com/track/6inrfYpzde4Izw9ZVzVcqs) | [Ministério M3](https://open.spotify.com/artist/7AsSQROc0YPjmh4cVPP8S6) | [Cantem os Anjos](https://open.spotify.com/album/3M0uJ7cTPCDAyaz6DXxviB) | 3:14 |
 | 46 | [Peregrino](https://open.spotify.com/track/0FvYGlP6nmNr1SJAABbhEQ) | [PG](https://open.spotify.com/artist/5K2gAsDWIVqU9rlCyxp4jM) | [Peregrino](https://open.spotify.com/album/4dR7tsqUtupAePL6ySYmJG) | 4:18 |
 | 47 | [DESMANCHOU](https://open.spotify.com/track/2YJapsTIWBZiIq1ng3jc66) | [verboemcarne](https://open.spotify.com/artist/1VroOoldHXjh6NJxDE4rSY) | [DESMANCHOU](https://open.spotify.com/album/0QKuEx3bsOLADuRXcG5GuR) | 4:12 |
 | 48 | [Falhas \- Ao Vivo](https://open.spotify.com/track/2QXChqCLWRKdkrxXYtBJYn) | [Daniel Juan](https://open.spotify.com/artist/6mZEPnx8xlrehOpkivylLH) | [Falhas \(Ao Vivo\)](https://open.spotify.com/album/02Qphftpp5JOVPTaEdg714) | 6:19 |

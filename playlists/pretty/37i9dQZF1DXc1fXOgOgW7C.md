@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 
 > Las canciones que marcaron una época.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,159 likes - 70 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,201 likes - 70 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,8 +14,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc1fXOgOgW7C.md) - [plain]
 | 4 | [Accidente](https://open.spotify.com/track/55xFPGknQ0zQluwBmf2nVm) | [Las Ligas Menores](https://open.spotify.com/artist/3MNvKeLzGSvOPtXJAjCOzf) | [Las Ligas Menores](https://open.spotify.com/album/3uo5La74eGmsUeXJdRRO3g) | 2:25 |
 | 5 | [No Te Apartes de Mí](https://open.spotify.com/track/74KqkyHbpneHF6JT8EwUOO) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico 5](https://open.spotify.com/album/1XKqjErvJYimD94yD3v6ky) | 3:18 |
 | 6 | [Razón](https://open.spotify.com/track/2dSz2px33HmyFwL5rDlh2e) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Bailarín Apocalíptico](https://open.spotify.com/album/1wLDlwN9FfneiyC5ZuJIeQ) | 3:15 |
-| 7 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 |
-| 8 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
+| 7 | [Cae el Sol](https://open.spotify.com/track/2nBOPYRoAYOwv6go12SQDs) | [Airbag](https://open.spotify.com/artist/1wKDGglKV4FsFS85r2Dmpr) | [Voragine](https://open.spotify.com/album/7IlDM4DB3KkquIIQh0KDOb) | 4:41 |
+| 8 | [Tu Geografía](https://open.spotify.com/track/12uCHNPDQSDLMLVtz0zfEw) | [Indios](https://open.spotify.com/artist/49ynGmq4dpplOn1Rsiejfp) | [Indios](https://open.spotify.com/album/0ZAv3N3wsMLcP1X8NWYRAW) | 2:38 |
 | 9 | [Casi q' me pierdo](https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR) | [Los Cafres](https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI) | [El Paso Gigante](https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i) | 4:25 |
 | 10 | [A las Nueve](https://open.spotify.com/track/0CgpCtEPvyDizcg2p47VrU) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j) | [El Calor Del Pleno Invierno](https://open.spotify.com/album/1rfWo44UYWqM3a99Vknlc3) | 3:27 |
 | 11 | [Por Eso Vine](https://open.spotify.com/track/5qN1G8fSHq4Sv5FRoOkNGu) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Homerun](https://open.spotify.com/album/0qJkFmVwwNXP6fvSemDZqn) | 2:58 |

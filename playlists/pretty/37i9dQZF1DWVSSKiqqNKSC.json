@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 242680,
+  "num_followers": 242759,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2024-03-19 14:46:33",
       "album": {
+        "name": "Yo Voy Pa Encima - Single",
+        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 206992,
+      "name": "Yo Voy Pa Encima",
+      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
+    },
+    {
+      "added_at": "2024-03-19 14:46:33",
+      "album": {
         "name": "Latin Trumpets - Bolero",
         "url": "https://open.spotify.com/album/3E15XVDoZD3HO4rmbxN27K"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 168866,
       "name": "Historia de un Amor",
       "url": "https://open.spotify.com/track/5YkbsYoT60QOccHeKbDnUY"
-    },
-    {
-      "added_at": "2024-03-19 14:46:33",
-      "album": {
-        "name": "Yo Voy Pa Encima - Single",
-        "url": "https://open.spotify.com/album/3X8Xfid9BomsVbXUB7isFJ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 206992,
-      "name": "Yo Voy Pa Encima",
-      "url": "https://open.spotify.com/track/6CyqA8KDBXprJxkbwBVuIz"
     },
     {
       "added_at": "2024-03-19 14:46:33",

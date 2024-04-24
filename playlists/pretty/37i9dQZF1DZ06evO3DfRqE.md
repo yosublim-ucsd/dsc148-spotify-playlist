@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 
 > This is Jake Shimabukuro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,732 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,744 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DfRqE.md) - [plain]
 | 45 | [アイス・クリーム](https://open.spotify.com/track/3gGxkaGQL44CQbqRqUe1cH) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [マイ・ライフ](https://open.spotify.com/album/5nk8bF12EGkjJ9R5XLbhXN) | 4:06 |
 | 46 | [Train Ride](https://open.spotify.com/track/1CUOxT1JD7DKCS0t9GvHnS) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Travels](https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS) | 3:44 |
 | 47 | [Go for Broke](https://open.spotify.com/track/3F1gafJUKx3jpHgYgu96CE) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Peace Love Ukulele](https://open.spotify.com/album/0H2oBQ01a7vEEefSTWaHEy) | 4:07 |
-| 48 | [Campfire](https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0) | [Wendy Wang](https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Doogie Kamealoha, M.D\. \(Original Soundtrack\)](https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p) | 2:28 |
-| 49 | [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 |
+| 48 | [NADA SOUSOU\(LIVE\)](https://open.spotify.com/track/6LMieDT7PSjRmfkyMB1Wys) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Live in Japan](https://open.spotify.com/album/34uGiTXYMA0V38Knfi6ldL) | 3:52 |
+| 49 | [Campfire](https://open.spotify.com/track/3vas0K5wl8kr7IiphLlWR0) | [Wendy Wang](https://open.spotify.com/artist/5os3sWMaH1ims6VwOogLcB), [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [Doogie Kamealoha, M.D\. \(Original Soundtrack\)](https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p) | 2:28 |
 | 50 | [ブリーズ \- Solo](https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0) | [Jake Shimabukuro](https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3) | [ジェントリー・ウィープス](https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re) | 3:41 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDc5MjViYWI3YmRhOGVjZmRlYzdjNjQwZTM3NGZhMWZh`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDZiN2RjZTk1MjFiOWIwNDI2N2ZlZmFlZGI5NTBjY2Zi`

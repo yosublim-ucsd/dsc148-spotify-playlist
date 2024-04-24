@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 
 ### [This Is Perdidos De Sinaloa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO407nKU)
 
-> This Is Perdidos De Sinaloa\. Los temas esenciales, todos en una lista.
+> This is Perdidos De Sinaloa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,325 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,331 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,12 +47,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 37 | [Daría Todo Por Ti](https://open.spotify.com/track/1LRLWF1pMWCboN4u4xIBOv) | [La Adixión](https://open.spotify.com/artist/6PWUhjINVJmwMsKGDokBH9), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Daría Todo Por Ti](https://open.spotify.com/album/3mvFCw4U3GRlGEfljcgZWw) | 2:54 |
 | 38 | [La Pura Verdad](https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Soy Lo Que Soy](https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK) | 3:56 |
 | 39 | [Tu Naturaleza](https://open.spotify.com/track/59qkoYLBlVCbnhhpg8Z78H) | [Simón León](https://open.spotify.com/artist/4mTHBSlYMRCM1c22vaQjh0), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tu Naturaleza](https://open.spotify.com/album/0wAR5FCLUdFszqMKic434x) | 3:04 |
-| 40 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 |
-| 41 | [Dariel El Sabroso](https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Dariel El Sabroso](https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T) | 3:22 |
+| 40 | [Dariel El Sabroso](https://open.spotify.com/track/3sZeAyxQOsVADzKDRnuvDb) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Dariel El Sabroso](https://open.spotify.com/album/198hT0bzo8KylJ1j20RS2T) | 3:22 |
+| 41 | [Carta Abierta \- En Vivo](https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 2:28 |
 | 42 | [Me Muero](https://open.spotify.com/track/2mLkhK3qmTTY4rqPNSL1MM) | [grupo Supremo](https://open.spotify.com/artist/28PAmAcVXy6KjhpJSyfx5C), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Me Muero](https://open.spotify.com/album/0jZKTI03q6GVOKLUtWluW3) | 3:14 |
 | 43 | [Cuidala \(En Vivo\)](https://open.spotify.com/track/1im5XPyQaApqcc37320tvU) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [La Decima Banda](https://open.spotify.com/artist/1C2CCqiE3rxq2H4ErMzz9U), [Erik Alexander](https://open.spotify.com/artist/1wcGLR6zJivtVU0LHUu4o9) | [Cuidala \(En Vivo\)](https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF) | 3:18 |
-| 44 | [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 |
-| 45 | [Siempre Trabajando](https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:11 |
+| 44 | [Siempre Trabajando](https://open.spotify.com/track/7nK9RJn7XNg5RaRE6v2eQm) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Tres Botes](https://open.spotify.com/album/1F1owTNPqlxFw4GxQL5PKK) | 2:11 |
+| 45 | [Juro Por Dios \- En Vivo](https://open.spotify.com/track/3RT87P7CZdHibJViDNbQ66) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo](https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m) | 3:22 |
 | 46 | [Popurri Cumbias \- En Vivo](https://open.spotify.com/track/1zVlsK2V1YCRJt1JPTnDTX) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [En Vivo Desde Los Mochis](https://open.spotify.com/album/5xYYZzaRo7UfM28KoIYz7W) | 5:03 |
 | 47 | [Rosas](https://open.spotify.com/track/6eWEXLzMHL4frTepZXwziY) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Rosas](https://open.spotify.com/album/3hZlM7TdcIkHMyBiUB2dbh) | 4:47 |
 | 48 | [Me Gusta Tal Cual](https://open.spotify.com/track/6Bicjkygoy4ZQ8nAeFF9we) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Vuelvo A Emborracharme](https://open.spotify.com/album/0NclQA7R8qZWp2ARikl4iQ) | 3:12 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO407nKU.md) - [plain]
 | 50 | [Tonieladas](https://open.spotify.com/track/7aIlm2O6MRpMgfHkhVVyN0) | [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9), [Kanales](https://open.spotify.com/artist/6tV9ApzzUMjXsFNHpgZmvA) | [Tonieladas \(feat\. Kanales\)](https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX) | 3:20 |
 | 51 | [Una Pregunta Obvia](https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi) | [Dariel Ramirez Y Sus Perdidos](https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU), [Perdidos De Sinaloa](https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9) | [Sesión Acústica](https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak) | 4:14 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDQzYTk3ZGFkY2Y2NjVhNWMxYzAzYjUyN2VmOWI2MDNk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDc3YzVmMTJmNzA3OWMxOTM1NWRiZWU3MDIyMWMyMWU3`

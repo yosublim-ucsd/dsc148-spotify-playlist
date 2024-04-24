@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 
 ### [This Is Björk](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4rWlyg)
 
-> This is Björk\. The essential tracks, all in one playlist.
+> This Is Björk\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,744 likes - 44 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,789 likes - 43 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,6 +51,5 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4rWlyg.md) - [plain]
 | 41 | [Sharing Orb](https://open.spotify.com/track/1M4euFTqRYW2xTLhqYGC0C) | [Dirty Projectors](https://open.spotify.com/artist/5VF0YkVLeVD4ytyiyVSIiF), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Mount Wittenberg Orca \(Expanded Edition\)](https://open.spotify.com/album/14xINYt1omt6jlxv8AFbly) | 2:48 |
 | 42 | [Batabid](https://open.spotify.com/track/4mMqCZWbXNqY3xkJfjta0g) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Pagan Poetry](https://open.spotify.com/album/4t4iAqOiWQpjxiKDHb56eZ) | 2:26 |
 | 43 | [Declare Independence](https://open.spotify.com/track/2ggYtCBapu8Oo6UyECsvsG) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Volta](https://open.spotify.com/album/7GPUv9pYrpvNMtupwuNh9x) | 4:13 |
-| 44 | [Afterwards](https://open.spotify.com/track/0XZTpSctNFE0WVQQL7qWMB) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [KiCk i](https://open.spotify.com/album/6fumIfDEAppI5NCGHQEBSr) | 4:02 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGFkOTZiNGNkNjY4MTRmNzgxNDRkMzMzYTQxODE4MDBm`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDVkZDJiZmE1NjMzMTBmNzVkMjY4ZjZhMTFmNTk4YjI0`

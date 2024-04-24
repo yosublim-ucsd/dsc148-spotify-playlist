@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 
 > Uma seleção sertaneja para você curtir a sua paixão sem limites.
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,629 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 940,812 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 11 | [Eu, Você, O Mar e Ela](https://open.spotify.com/track/000xYdQfIZ4pDmBGzQalKU) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [1977](https://open.spotify.com/album/4QianJs5Ls4mxwcT7gDBww) | 3:07 |
 | 12 | [Pra Sempre Com Você \- Ao Vivo](https://open.spotify.com/track/2KGv51jgAz8OTjNPyRryfq) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Como\. Sempre Feito\. Nunca \(ao Vivo\)](https://open.spotify.com/album/4TcZpyEt3wrOtMdK0gknMz) | 3:27 |
 | 13 | [Quarta Cadeira \- Ao Vivo](https://open.spotify.com/track/5q0NlM6Pm8Pp3orq7zGiRn) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 3:44 |
-| 14 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
-| 15 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 14 | [S de Saudade](https://open.spotify.com/track/3J5Pu25BODMex4Jpy4l6FL) | [Luíza & Maurílio](https://open.spotify.com/artist/0UbJJayomun8CvZKCPH9j3), [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [S de Saudade](https://open.spotify.com/album/07Dh4IqK31xeV1jetfPWvL) | 2:54 |
+| 15 | [Lençol Dobrado](https://open.spotify.com/track/72xB2J9ZeBl0Rzxq2XmzdY) | [João Gustavo e Murilo](https://open.spotify.com/artist/6xerOqBLmelL3xZNZkVbGl), [Analaga](https://open.spotify.com/artist/4LTPxLxjiT5pzYd5WZAR3v) | [Lençol Dobrado](https://open.spotify.com/album/39vanCalSWRrvIEOWdyxPY) | 2:59 |
 | 16 | [De Quem É a Culpa? \- Ao Vivo](https://open.spotify.com/track/4YhPcVIxIAJrLhFVPGbJkE) | [Marília Mendonça](https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8) | [Realidade \- Ao Vivo Em Manaus](https://open.spotify.com/album/5EOY7EuE83D9oSeT9eR9ry) | 3:22 |
 | 17 | [O Que É Que Tem](https://open.spotify.com/track/1p6dBmCdP7xh3OMTYJDZPK) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Live In London \- At The Royal Albert Hall](https://open.spotify.com/album/6nE1C92IIZQBnlYLxObRHW) | 3:35 |
 | 18 | [Medo Bobo \- Ao Vivo](https://open.spotify.com/track/2CW04trIoYMbroZWDzPAjs) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [Ao Vivo Em Goiânia](https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha) | 2:54 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaWRgGXjiM40.md) - [plain]
 | 28 | [Mágica \- Live](https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx) | [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr), [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Tem Moda Pra Tudo \(Ao Vivo\)](https://open.spotify.com/album/43Z8iIpoxaCrr27KILZJzs) | 2:41 |
 | 29 | [Ficha Limpa](https://open.spotify.com/track/5SwyN9hzmWjBsINlif8li8) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Falando de Amor, Vol\. 1](https://open.spotify.com/album/1XNqME96E9GBNYCv8wFbn2) | 3:12 |
 | 30 | [Infarto](https://open.spotify.com/track/0XEJ7eph2IWFYZc73Jm3n2) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF) | [Querosene e o Violão](https://open.spotify.com/album/6gbvsAZViRa9rIq0GjfQbp) | 2:41 |
-| 31 | [Tijolão \- Ao Vivo](https://open.spotify.com/track/6QwFUcPc5nhsqZuhXUYtV7) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [Tijolão \(ao Vivo\)](https://open.spotify.com/album/5DE5SfB2vmYatVH6tpAb49) | 2:55 |
+| 31 | [Pergunta Boba \- Ao Vivo](https://open.spotify.com/track/36OBPVuz58hAsKxgLCKer6) | [Jorge & Mateus](https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM) | [10 Anos \(Ao Vivo\) \- Deluxe](https://open.spotify.com/album/0wiTSo8xXBIvvkhZNJFWCm) | 3:48 |
 | 32 | [Vingança \- Ao Vivo](https://open.spotify.com/track/7KdcbYcVF8LkQeQcTYOixJ) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r), [MC Kekel](https://open.spotify.com/artist/2ZXnTEyYopSLCDiz5Z0XIf) | [Live\-Móvel \(Ao Vivo\)](https://open.spotify.com/album/4ypgnFdLUnA00qg9a6Z1k2) | 3:01 |
 | 33 | [Regime Fechado \- Ao Vivo](https://open.spotify.com/track/3laDGpbCmdrGOhjrcYIBYB) | [Simone & Simaria](https://open.spotify.com/artist/0MInKJqZscEeNc5K3K0mkE) | [Simone & Simaria \(Ao Vivo\)](https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM) | 3:52 |
 | 34 | [Amigo Taxista](https://open.spotify.com/track/6LEFk0KHRfahO5pOMJlbdV) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Um Novo Sonho \- Deluxe](https://open.spotify.com/album/2uWVAReCZBKft4bKCDSEMy) | 3:17 |

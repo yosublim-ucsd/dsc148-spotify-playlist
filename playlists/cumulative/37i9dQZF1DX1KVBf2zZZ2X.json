@@ -437,6 +437,24 @@
     },
     {
       "album": {
+        "name": "Boundless",
+        "url": "https://open.spotify.com/album/1HjsGOiExaQWXmw4SMTGrh"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2024-04-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187250,
+      "name": "Boundless",
+      "url": "https://open.spotify.com/track/6dSrhf4rQ75pgEGRtPcmRq"
+    },
+    {
+      "album": {
         "name": "In The Forest",
         "url": "https://open.spotify.com/album/7d049Mog0TmiEPv4GHMJ88"
       },
@@ -1078,7 +1096,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 128000,
       "name": "Heart of Hearts",
       "url": "https://open.spotify.com/track/2h7YEqosJcXhHFLVV1JmNI"
@@ -1870,7 +1888,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 162000,
       "name": "Passing",
       "url": "https://open.spotify.com/track/2tVrAzePSMl6GtO0dZENG8"
@@ -2536,7 +2554,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 192000,
       "name": "The Sparrow",
       "url": "https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1"

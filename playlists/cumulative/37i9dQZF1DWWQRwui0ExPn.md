@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-6,719 songs - 10 day 14 hr 39 min
+6,720 songs - 10 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1788,7 +1788,7 @@
 | [Ensnared](https://open.spotify.com/track/1p5jbuZMzTZUXOlmI8VRIl) | [Melodiesinfonie](https://open.spotify.com/artist/3YndyZk8nVLJKspIBo0nLd) | [Ensnared](https://open.spotify.com/album/7dlCWTmnJoJbeK1rr4kRLJ) | 3:31 | 2019-12-22 | 2021-07-29 |
 | [Enthalpy](https://open.spotify.com/track/4DLFDmqoAEPAhxjagmRfJq) | [Transparent Man](https://open.spotify.com/artist/5BzOhiTZdq869mBfPYOKST), [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN) | [Enthalpy](https://open.spotify.com/album/5g95vyYNbRJebBo4O1ACyP) | 2:32 | 2022-04-08 | 2022-09-02 |
 | [entheogen](https://open.spotify.com/track/0BjvqQdUUB2WzUncxxvIRh) | [Nohidea](https://open.spotify.com/artist/5b0XQwyoJBFd3MwL2YxEPO) | [Departures](https://open.spotify.com/album/1wHWgiK24ERtcIGFN0eBK3) | 1:48 | 2019-05-29 | 2020-04-08 |
-| [Envision](https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ) | [Rumun III](https://open.spotify.com/artist/1Wq0AZnbeWGdPTTC1Hi9Ug) | [Envision](https://open.spotify.com/album/3wrRu4qhyAbkqqKSiuNaR0) | 2:43 | 2024-03-22 | 2024-04-20 |
+| [Envision](https://open.spotify.com/track/1uXF503ovswvRMxJ3sMdBJ) | [Rumun III](https://open.spotify.com/artist/1Wq0AZnbeWGdPTTC1Hi9Ug) | [Envision](https://open.spotify.com/album/3wrRu4qhyAbkqqKSiuNaR0) | 2:43 | 2024-03-22 |  |
 | [Envy \- Spotify Singles](https://open.spotify.com/track/0DDRxSTiIvr9BU5Udn622y) | [Bluewerks](https://open.spotify.com/artist/4ELcaEK7UaF0mUoodoVBfn), [Somni](https://open.spotify.com/artist/7qFssj4KoOxd1IOPfv9iT7) | [Bluewerks: Spotify Singles](https://open.spotify.com/album/1PgcGR5YoK6f0BT00xD9LP) | 2:38 | 2022-05-04 | 2022-08-27 |
 | [eons away](https://open.spotify.com/track/3CMzipkTzyGP4g0YaEeuNd) | [santpoort](https://open.spotify.com/artist/7KtVS0f2RQoEhjxDcSGBtJ), [Tennyson](https://open.spotify.com/artist/3Nb8N20WChM0swo5qWTvm8) | [ocean tales](https://open.spotify.com/album/0ENr07q7h0vsydKinh36FM) | 2:32 | 2021-09-04 | 2022-04-08 |
 | [Episodes](https://open.spotify.com/track/0GNjeGXFr9gUTKG8Jj4lhU) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Episodes](https://open.spotify.com/album/5fCFu3RSeiNkKpPmWr3uWG) | 1:37 | 2023-05-03 | 2024-03-15 |
@@ -2364,6 +2364,7 @@
 | [Got It](https://open.spotify.com/track/2Wia7MyT2RQqBAIUFrdwFw) | [isaintjames](https://open.spotify.com/artist/1sffkt3gFwxW30fS8QJS9l) | [Got It](https://open.spotify.com/album/4sF0Uw97hxjT9zI75kYtkh) | 1:31 | 2022-12-09 | 2023-09-16 |
 | [Got It All Wrong](https://open.spotify.com/track/5OL0DuBzjEuqv4vuwRUfAs) | [Dualizm](https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz), [Schmiddunsk](https://open.spotify.com/artist/0AQS8pEM0Xn19i8l0expPg) | [Got It All Wrong](https://open.spotify.com/album/2fGIcmqIM2GMhTHrd8SVPB) | 2:27 | 2022-08-19 | 2022-11-25 |
 | [Gotcha](https://open.spotify.com/track/61w8yqOFjg2qleXIQzMQMR) | [Popcorn Trees](https://open.spotify.com/artist/3dENObUHDNLm5lxRoPn2p1) | [Flares](https://open.spotify.com/album/7yPxtnomTUrw0BknWQs2tl) | 1:51 | 2022-01-07 | 2022-08-27 |
+| [Gotham Nights](https://open.spotify.com/track/0s7JYB7jr7WlJORARlSVH5) | [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW) | [Gotham Nights](https://open.spotify.com/album/1xApPJZk9TM7cdwVn2KQ5g) | 2:42 | 2024-04-19 |  |
 | [Gotta](https://open.spotify.com/track/3TWkub4WpjCT7ygEbm2B19) | [Smartface](https://open.spotify.com/artist/77X9A9UiAgiPubyPr7bWym) | [Riotous Enemy](https://open.spotify.com/album/1iRNANF4ND7zxn33eja89R) | 2:18 | 2023-01-06 | 2023-05-04 |
 | [grace](https://open.spotify.com/track/5qslhLjrw6sPEFamwdsWtu) | [LASYA](https://open.spotify.com/artist/0b5h0PUkdiBs0mzhyaB1pQ), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt) | [grace](https://open.spotify.com/album/2qltmvhQV1oCOmgDGLB8Up) | 2:30 | 2022-03-19 | 2022-07-29 |
 | [gradient](https://open.spotify.com/track/7wUTyuyNTzkUlucrA7fSEF) | [flowtide](https://open.spotify.com/artist/1krCmhhTo8H7k8YxKoKpbv) | [gradient](https://open.spotify.com/album/449jYhiXW9VxrRF4VgG4AU) | 1:38 | 2022-02-14 | 2022-09-09 |
@@ -2884,7 +2885,7 @@
 | [it's a secret](https://open.spotify.com/track/3281g5st2TN0ej5ni22ihl) | [Okwizi](https://open.spotify.com/artist/5zCDl5mZHabc7slQVmOJSD) | [thorns for flowers](https://open.spotify.com/album/30i0hVDZUaWPQnMkClOsjg) | 2:51 | 2023-03-08 | 2023-04-06 |
 | [It's All Good](https://open.spotify.com/track/6I96KSEuwVp6yTjMdXBotU) | [KaspaHauser](https://open.spotify.com/artist/2zIhBOpUm3gKL6MOcuc657) | [It's All Good](https://open.spotify.com/album/2ZErPPfRX7IMkcrj3hB6mN) | 2:20 | 2021-11-05 | 2022-06-03 |
 | [It's All Subjective](https://open.spotify.com/track/4ZEu6K8xFemBWjKXxthzt6) | [Fallen Roses](https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv) | [It's All Subjective](https://open.spotify.com/album/0QNx282qfBlTUAVhVmc5Ib) | 1:58 | 2020-08-30 | 2021-10-02 |
-| [it's been hard](https://open.spotify.com/track/6vW0MOQKhtSYjcQSaVWeJX) | [sadcake](https://open.spotify.com/artist/3sAildqE9A05H1oPYTbXw9) | [it's been hard](https://open.spotify.com/album/059ykWyDoz6guc4nXvsmwd) | 2:38 | 2023-01-06 |  |
+| [it's been hard](https://open.spotify.com/track/6vW0MOQKhtSYjcQSaVWeJX) | [sadcake](https://open.spotify.com/artist/3sAildqE9A05H1oPYTbXw9) | [it's been hard](https://open.spotify.com/album/059ykWyDoz6guc4nXvsmwd) | 2:38 | 2023-01-06 | 2024-04-24 |
 | [It's Beginning to look a lot like Christmas](https://open.spotify.com/track/4zZ0lH4eRt8cvD2t3h9tcs) | [Iván Rosa](https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF) | [Otra Navidad Lo\-Fi en México](https://open.spotify.com/album/15ZmZRWGFgikieNcj2l0Nu) | 2:48 | 2021-12-17 | 2021-12-27 |
 | [It's Good Now](https://open.spotify.com/track/0wjAnt1huXSY6GTKTnTv1n) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [It's Good Now](https://open.spotify.com/album/0WCDH2mTAK3Wr7DHXBH6lo) | 1:30 | 2024-03-08 |  |
 | [It's Ok](https://open.spotify.com/track/19K24V0kGvNLFYCR8jMs88) | [Pandrezz](https://open.spotify.com/artist/65ZGdYSRT3Rmv6P7DN4XCC), [j'san](https://open.spotify.com/artist/5iMUho98faEp2w6j5p44PH) | [It's Ok](https://open.spotify.com/album/0sDMveXrOxXh8eYtdREMek) | 2:48 | 2019-05-26\* | 2020-10-21 |
@@ -3855,7 +3856,7 @@
 | [Mouse](https://open.spotify.com/track/0fRDFVXOLTHEehUPzpp88s) | [Sloppy Jo](https://open.spotify.com/artist/2vllrQgjSlv6SFDmhio5un) | [Still Sloppy](https://open.spotify.com/album/0hAwuOO6cx2uTvd5Egx7UA) | 1:30 | 2022-06-10 | 2022-10-21 |
 | [Move On](https://open.spotify.com/track/4vNCa2JRXWM1ahSdjJOXla) | [jawima](https://open.spotify.com/artist/7vmLyoAdXR7ExRFFAookbz) | [Move On](https://open.spotify.com/album/2xaGRnhsE7358Q1p7nNJiE) | 2:42 | 2022-03-11 | 2022-08-05 |
 | [Move On](https://open.spotify.com/track/33nWaAOT7ET0xb945U2rVQ) | [MIXK](https://open.spotify.com/artist/3LwhcSCbJCQTJpk0Ad9dpg), [Marco Apicella](https://open.spotify.com/artist/5Nww6Nim8NzaAH97sRJxms) | [Move On](https://open.spotify.com/album/2691NLSbrMZAGRPk10ytG8) | 2:12 | 2022-03-11 | 2022-08-05 |
-| [Move to safety](https://open.spotify.com/track/5QQHsWjHiEtkBQU2mQWiC2) | [PLIZ DO](https://open.spotify.com/artist/4RsIWJ8P0WvfDQHYpq3idB) | [Move to safety](https://open.spotify.com/album/4lFydtNuS4YFMEvQfPaoP2) | 2:15 | 2023-10-06 |  |
+| [Move to safety](https://open.spotify.com/track/5QQHsWjHiEtkBQU2mQWiC2) | [PLIZ DO](https://open.spotify.com/artist/4RsIWJ8P0WvfDQHYpq3idB) | [Move to safety](https://open.spotify.com/album/4lFydtNuS4YFMEvQfPaoP2) | 2:15 | 2023-10-06 | 2024-04-24 |
 | [Movements](https://open.spotify.com/track/4n4QVWUaTVYChDRTT4oSBz) | [Dontcry](https://open.spotify.com/artist/3vzJueN7TkCtYpz1myVmDU), [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI) | [Movements](https://open.spotify.com/album/61kVaEHgpVMrpOoz8bD8wi) | 1:52 | 2022-12-02 | 2023-09-16 |
 | [Movements](https://open.spotify.com/track/1KEegJbLrWpM0kD0X2ss9Q) | [Mayaewk](https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ) | [Movements](https://open.spotify.com/album/2JDNSiip30qLiw5GPzs7kw) | 1:49 | 2022-12-09 | 2023-04-28 |
 | [Movin'](https://open.spotify.com/track/6BvKcyaVEdcuTTU9iSBK3w) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Movin'](https://open.spotify.com/album/4eXLC1BL8LbXx4mFUIuPju) | 2:31 | 2024-02-16 |  |

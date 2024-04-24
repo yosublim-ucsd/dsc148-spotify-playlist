@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is r&b in Canada, elevate your aura with RealestK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,730 likes - 100 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,811 likes - 100 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

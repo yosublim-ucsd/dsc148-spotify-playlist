@@ -1632,7 +1632,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
+      "name": "Fools Gold - Remastered 2009",
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
@@ -2231,24 +2231,6 @@
     },
     {
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
-      },
-      "artists": [
-        {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-        }
-      ],
-      "date_added": "2022-05-30",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 292800,
-      "name": "I Wanna Be Adored - Remastered",
-      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
-    },
-    {
-      "album": {
         "name": "Pure... Alternative 80s",
         "url": "https://open.spotify.com/album/2c4fU9gAt1pV4ASJECJoYX"
       },
@@ -2264,6 +2246,24 @@
       "duration_ms": 293840,
       "name": "I Wanna Be Adored - Remastered",
       "url": "https://open.spotify.com/track/5YB9pnmgrL03yMDXzIFnni"
+    },
+    {
+      "album": {
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+      },
+      "artists": [
+        {
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "date_added": "2022-05-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292800,
+      "name": "I Wanna Be Adored - Remastered 2009",
+      "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
     },
     {
       "album": {
@@ -4676,7 +4676,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 278826,
-      "name": "Waterfall - Remastered",
+      "name": "Waterfall - Remastered 2009",
       "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
     },
     {

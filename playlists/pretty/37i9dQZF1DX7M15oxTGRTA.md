@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 
 > Soul Music daqui e de fora, um toque de sensibilidade\. Foto: Cassiano
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,574 likes - 100 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,693 likes - 100 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 27 | [I Want to Be Your Man \- Remastered Version](https://open.spotify.com/track/7lJgjvQRJEXcdu19n3Zn5T) | [Roger](https://open.spotify.com/artist/3GMoVpWJy4smKuxFuFTwXC) | [Unlimited!](https://open.spotify.com/album/65aE9zdkm5FkDhrXozvAux) | 4:11 |
 | 28 | [You Are My Lady](https://open.spotify.com/track/5MPxgVGxq79wcoNKtlRaTf) | [Freddie Jackson](https://open.spotify.com/artist/2yaixhgm3yXxjhJAH8SZy3) | [Rock Me Tonight](https://open.spotify.com/album/4S3z4G29Gm2xxkADtVX5IV) | 4:44 |
 | 29 | [When Somebody Loves You Back](https://open.spotify.com/track/7wJeXISGGTLVv2kBPtCJHw) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Life Is A Song Worth Singing \(Expanded Edition\)](https://open.spotify.com/album/0uhJOt9UNPeI9BhegNXMkw) | 4:56 |
-| 30 | [Never Can Say Goodbye](https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/1RhSU65eltYthavUXScSzB) | 2:57 |
+| 30 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 |
 | 31 | [I Can't Help It](https://open.spotify.com/track/1HibhNhwk2tljwC4BGGLXV) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Off the Wall](https://open.spotify.com/album/2ZytN2cY4Zjrr9ukb2rqTP) | 4:29 |
 | 32 | [We're in This Love Together](https://open.spotify.com/track/1Let4BYaYSum46nAGO1i6v) | [Al Jarreau](https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe) | [Breakin' Away](https://open.spotify.com/album/5rMktOHgYGeV65qjHk6W2X) | 3:46 |
-| 33 | [Love, Love, Love](https://open.spotify.com/track/3mc4nFeBX4hvuYbPsoS4GK) | [Donny Hathaway](https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S) | [Extension of a Man](https://open.spotify.com/album/5PSewqr3UuWgOsULPNcgj7) | 3:22 |
+| 33 | [Never Can Say Goodbye](https://open.spotify.com/track/59Rn3cbfrBjhHzXTG9BcUT) | [The Jackson 5](https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW) | [Maybe Tomorrow](https://open.spotify.com/album/1RhSU65eltYthavUXScSzB) | 2:57 |
 | 34 | [Stop, Look, Listen \(To Your Heart\)](https://open.spotify.com/track/0kKpGcvoXroKo1iNO5cDhi) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl), [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Diana & Marvin \(Expanded Edition\)](https://open.spotify.com/album/1jbl32APgmqzDulRIqLQwC) | 2:57 |
 | 35 | [Never Knew Love Like This Before](https://open.spotify.com/track/4EUlszQIxlPwiHJ6e6j6Gy) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [The Best Of Stephanie Mills](https://open.spotify.com/album/39zaDShYbKOKXiOLArBrhO) | 5:25 |
 | 36 | [One Hundred Ways](https://open.spotify.com/track/0Yp603BgzIKDDcSUBrYYba) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK), [James Ingram](https://open.spotify.com/artist/5bTTx0CRvZj1kRJwUsWWYo) | [The Dude](https://open.spotify.com/album/2GD9TjWG3Tu4JygAZniBY0) | 4:19 |
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7M15oxTGRTA.md) - [plain]
 | 41 | [Come Live With Me Angel](https://open.spotify.com/track/7gs18umrgrIpRlDQIzKhpH) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [I Want You \(Deluxe Edition\)](https://open.spotify.com/album/28nUWsyczStUhYKXTY1IoW) | 6:28 |
 | 42 | [Summer In The City](https://open.spotify.com/track/39eFFeKv7QaTBIukk7TYVu) | [Quincy Jones](https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK) | [You've Got It Bad Girl](https://open.spotify.com/album/4fbKwL6dBzBF07dOkc2yRB) | 4:04 |
 | 43 | [One Step Ahead](https://open.spotify.com/track/0dSRoWYf0GOzX9L44g53sZ) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [A Bit Of Soul](https://open.spotify.com/album/2RmmiMocgFh0MxSeUy6D0S) | 2:33 |
-| 44 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
+| 44 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
 | 45 | [Summer Breeze, Pts\. 1 & 2](https://open.spotify.com/track/7wcP2Aa2SliFhwi4SyfvfV) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [3+3](https://open.spotify.com/album/27eI33obJuyKebMTxAJJam) | 6:11 |
-| 46 | [Who Can I Run To](https://open.spotify.com/track/3sFoSCg2KoaCUrOeKYMqvI) | [The Jones Girls](https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh) | [The Jones Girls](https://open.spotify.com/album/4ZhVgoPq9B9emWRsMcT6cD) | 3:24 |
+| 46 | [Ready Or Not](https://open.spotify.com/track/6AgDFWLbbAt2migXMbrhXT) | [After 7](https://open.spotify.com/artist/4UPcJIhr5K5fPsm4itqT7E) | [After 7](https://open.spotify.com/album/3glZbvQfT7BX4Ih3X3y63W) | 4:35 |
 | 47 | [Ebony Eyes](https://open.spotify.com/track/71JkyCi11ETSz58jhgg2YE) | [Rick James](https://open.spotify.com/artist/0FrpdcVlJQqibaz5HfBUrL), [Smokey Robinson](https://open.spotify.com/artist/0h9smro0z3HqUbD94jotU8) | [Cold Blooded \(Expanded Edition\)](https://open.spotify.com/album/0OvSems3CIWCs2Tty0oO9B) | 5:07 |
 | 48 | [Please Don't Go Girl](https://open.spotify.com/track/2unWjXOcFWT2vlleStTEJy) | [New Kids On The Block](https://open.spotify.com/artist/55qiaow2sDYtjqu1mwRua6) | [Hangin' Tough](https://open.spotify.com/album/0W7mquARagPr9V1N0nHYgK) | 4:23 |
 | 49 | [Sweet Thing](https://open.spotify.com/track/69eoS6bEWWfMac4TL36UiM) | [Rufus & Chaka Khan](https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm), [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [The Very Best Of](https://open.spotify.com/album/7LzHNQgKpTd9tkiKNcWyLK) | 3:20 |

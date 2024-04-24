@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 863170,
+  "num_followers": 863570,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDJlYmE2OWFkOTI4MDU3ZjE3NjRkY2U2OGQzMTM5NTM4",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDdhZGQxM2Y4NWMyZmYwZmE3YzllZmRmODg1ZTNlY2Nl",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "That's Life (feat. Mac Miller & Sia)",
-        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
+        "name": "Blue Slide Park",
+        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
       },
       "artists": [
         {
-          "name": "88-Keys",
-          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
-        },
-        {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        },
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 202390,
-      "name": "That's Life (feat. Mac Miller & Sia)",
-      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
+      "duration_ms": 35723,
+      "name": "Hole In My Pocket",
+      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
     },
     {
       "added_at": null,
@@ -719,18 +711,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Slide Park",
-        "url": "https://open.spotify.com/album/17mAoDs7T8EA9zzlj6QPBv"
+        "name": "That's Life (feat. Mac Miller & Sia)",
+        "url": "https://open.spotify.com/album/1a7behQFUiQ9iHjSJxiZXE"
       },
       "artists": [
         {
+          "name": "88-Keys",
+          "url": "https://open.spotify.com/artist/6RedK3o51NbUJuJxXlT4kj"
+        },
+        {
           "name": "Mac Miller",
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
         }
       ],
-      "duration_ms": 35723,
-      "name": "Hole In My Pocket",
-      "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
+      "duration_ms": 202390,
+      "name": "That's Life (feat. Mac Miller & Sia)",
+      "url": "https://open.spotify.com/track/5h0Jgt873QtgL6nJRBGfT6"
     },
     {
       "added_at": null,

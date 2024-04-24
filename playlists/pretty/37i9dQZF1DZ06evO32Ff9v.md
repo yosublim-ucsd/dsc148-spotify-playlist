@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 
 > This is Los Farmerz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,949 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,019 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hublot](https://open.spotify.com/track/5qKsIal7JJZ2bqXHPKdyVb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Nuevos Escoltas](https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm) | [Hublot](https://open.spotify.com/album/2VPiPeLG36iLMPIQOk1NgG) | 3:45 |
 | 2 | [La Chapiza](https://open.spotify.com/track/4cbrG70rLLAnWy0Q86FRgL) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [La Chapiza](https://open.spotify.com/album/7ieAksoGopSGThjXsE6Djr) | 2:32 |
-| 3 | [Gallo Fino](https://open.spotify.com/track/2If3KMEM7GBifXEFuIJhjW) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Gallo Fino](https://open.spotify.com/album/6wMh4EtNMU85BGmGWrYfiq) | 3:09 |
-| 4 | [La Changa](https://open.spotify.com/track/1E6dXHr5Z00c5eCEuWTCOg) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:22 |
+| 3 | [La Changa](https://open.spotify.com/track/1E6dXHr5Z00c5eCEuWTCOg) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 3:22 |
+| 4 | [Gallo Fino](https://open.spotify.com/track/2If3KMEM7GBifXEFuIJhjW) | [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Gallo Fino](https://open.spotify.com/album/6wMh4EtNMU85BGmGWrYfiq) | 3:09 |
 | 5 | [Sin Parar](https://open.spotify.com/track/1j9MDOCurWVaMqe0WGocEz) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Jesus Ojeda](https://open.spotify.com/artist/34wCbs9ngJ1JODEESTindr) | [Sin Parar](https://open.spotify.com/album/6RCOTMBvh5h0bcrpbyk1WS) | 2:32 |
 | 6 | [El Don Nadie](https://open.spotify.com/track/1fLNqVgfDCngGJIuLu4fAA) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Los Dos Carnales](https://open.spotify.com/artist/4fixWRS3vXXzNu75pfOfHN) | [Slapperz](https://open.spotify.com/album/7vHKFMrKnIcBsrjtg1vuzS) | 3:24 |
 | 7 | [El Tony](https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Ni Modo Que Sea Mentira](https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh) | 1:58 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32Ff9v.md) - [plain]
 | 44 | [El Caminante](https://open.spotify.com/track/1Qji9zxko5AlpXamrMrNCu) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:07 |
 | 45 | [El Charlie](https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Puros de Encargo, Vol\. 1](https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr) | 2:37 |
 | 46 | [El Pata](https://open.spotify.com/track/0vZ7HkpXPwnFbyMj5CD478) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Pata](https://open.spotify.com/album/2qRxzGDSGQhV5ukZaykWvr) | 2:23 |
-| 47 | [NOS TORCIERON](https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 3:22 |
+| 47 | [La Pluma De Wax](https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Tite Chavez](https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q) | [La Pluma De Wax](https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g) | 2:39 |
 | 48 | [Gilberto Garcia](https://open.spotify.com/track/5PGBjrA0BQ5vytGGe1pDRS) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [Pistiando y Cantando](https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371) | 3:35 |
-| 49 | [La Pluma De Wax](https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a), [Tite Chavez](https://open.spotify.com/artist/4NR2FtlNRz6XpiXIeMPw0Q) | [La Pluma De Wax](https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g) | 2:39 |
+| 49 | [NOS TORCIERON](https://open.spotify.com/track/6zfSZmIlUIYTQQaygXQ3Dm) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA), [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [EXCENTRICON](https://open.spotify.com/album/0e4tkubc3hq9zfOOJzBkIH) | 3:22 |
 | 50 | [El Jago](https://open.spotify.com/track/5XLmZg7aVmOEJIri2paR4q) | [Los Farmerz](https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a) | [El Jago](https://open.spotify.com/album/4Xl5BDRedpiODp0x11hPB7) | 2:56 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDZlZDQ4YWJkMjdjYThmODM4NmE3ODc5NmE4MWFlMDM1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGRmYWVjZDhlOGQ4MDRjYWE4YjQ0ZTcwNzA4NDAwOTQ5`

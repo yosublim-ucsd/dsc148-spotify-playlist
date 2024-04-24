@@ -1,6 +1,6 @@
 {
   "description": "A deep electronic and organic sound, inspired by the folk music of Africa, Latin America and the Middle East.",
-  "num_followers": 762831,
+  "num_followers": 763096,
   "original_name": "Org\u00e1nica",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Before the Storm",
+        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
+      },
+      "artists": [
+        {
+          "name": "Santi & Tu\u011f\u00e7e",
+          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
+        }
+      ],
+      "duration_ms": 445210,
+      "name": "Before the Storm",
+      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Agua e pipa",
         "url": "https://open.spotify.com/album/74SPKWn69S4RQ0Hg1Pz83b"
       },
@@ -195,22 +211,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Before the Storm",
-        "url": "https://open.spotify.com/album/1anaTK4HBkYkwEp5q3jM3j"
-      },
-      "artists": [
-        {
-          "name": "Santi & Tu\u011f\u00e7e",
-          "url": "https://open.spotify.com/artist/437O1jQdyOOhIS1M41xQaC"
-        }
-      ],
-      "duration_ms": 445210,
-      "name": "Before the Storm",
-      "url": "https://open.spotify.com/track/4HFO4JUkrkqNIKh4kwgQpR"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Luv Machine",
         "url": "https://open.spotify.com/album/5cWSMyNz7Klrqatz2j5Ln3"
       },
@@ -223,26 +223,6 @@
       "duration_ms": 371814,
       "name": "Luv Machine",
       "url": "https://open.spotify.com/track/3dZkhrOzJGbRRl3dBfJNkp"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "REKERE",
-        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
-      },
-      "artists": [
-        {
-          "name": "Kabza De Small",
-          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
-        },
-        {
-          "name": "Stakev",
-          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
-        }
-      ],
-      "duration_ms": 465502,
-      "name": "Kwenzenjani",
-      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -267,6 +247,26 @@
       "duration_ms": 538000,
       "name": "Aruna Chandra",
       "url": "https://open.spotify.com/track/20qCEmcOcBQC7DS2T70Pz4"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "REKERE",
+        "url": "https://open.spotify.com/album/6cbDUb20GP7IRA0JkOuYpD"
+      },
+      "artists": [
+        {
+          "name": "Kabza De Small",
+          "url": "https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR"
+        },
+        {
+          "name": "Stakev",
+          "url": "https://open.spotify.com/artist/4jLJYvyzKcFdJORv6coLiw"
+        }
+      ],
+      "duration_ms": 465502,
+      "name": "Kwenzenjani",
+      "url": "https://open.spotify.com/track/2EqGCX02606uk3f7HfzOGu"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -723,6 +723,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Sand",
+        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
+      },
+      "artists": [
+        {
+          "name": "Lstn",
+          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
+        },
+        {
+          "name": "Arya Noble",
+          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
+        }
+      ],
+      "duration_ms": 187118,
+      "name": "Sand",
+      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "Serbet",
         "url": "https://open.spotify.com/album/52AK58uvvnMfWlmpDN6L17"
       },
@@ -743,26 +763,6 @@
       "duration_ms": 312000,
       "name": "Serbet",
       "url": "https://open.spotify.com/track/5sv8aOslVoZR3PGxBLVnlw"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Sand",
-        "url": "https://open.spotify.com/album/0G103u32ZjOZUXx7X5a1fl"
-      },
-      "artists": [
-        {
-          "name": "Lstn",
-          "url": "https://open.spotify.com/artist/0OO1zgX3CUfJQwoOEBSKSp"
-        },
-        {
-          "name": "Arya Noble",
-          "url": "https://open.spotify.com/artist/3SCa2slydXpeYFpHDzIv50"
-        }
-      ],
-      "duration_ms": 187118,
-      "name": "Sand",
-      "url": "https://open.spotify.com/track/7IUtGRb3rAqJjfimCMs4FQ"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -815,6 +815,26 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
+        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
+        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
+      },
+      "artists": [
+        {
+          "name": "Laboratorium Pie\u015bni",
+          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
+        },
+        {
+          "name": "Sariel Orenda",
+          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
+        }
+      ],
+      "duration_ms": 408000,
+      "name": "Dilmano Dilbero - Sariel Orenda Remix",
+      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
         "name": "La Isla",
         "url": "https://open.spotify.com/album/7bKPkGw5CJeqCegPqzuTG0"
       },
@@ -835,22 +855,18 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Dilmano Dilbero (Sariel Orenda Remix)",
-        "url": "https://open.spotify.com/album/2yAiAoLioPcBmocBGQGOGe"
+        "name": "Osam",
+        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
       },
       "artists": [
         {
-          "name": "Laboratorium Pie\u015bni",
-          "url": "https://open.spotify.com/artist/0dJ5KNObzuV2aK76ucVV1l"
-        },
-        {
-          "name": "Sariel Orenda",
-          "url": "https://open.spotify.com/artist/3P3aqbPrzfldFEn2OrsnYp"
+          "name": "Tosca",
+          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
         }
       ],
-      "duration_ms": 408000,
-      "name": "Dilmano Dilbero - Sariel Orenda Remix",
-      "url": "https://open.spotify.com/track/7bx1ucv7nua47Eaf3024Mt"
+      "duration_ms": 482715,
+      "name": "Entrecote",
+      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Osam",
-        "url": "https://open.spotify.com/album/48YFswdVKWAErJjA6IArbb"
-      },
-      "artists": [
-        {
-          "name": "Tosca",
-          "url": "https://open.spotify.com/artist/0TYvluyvV1Es8lTHiBfnAn"
-        }
-      ],
-      "duration_ms": 482715,
-      "name": "Entrecote",
-      "url": "https://open.spotify.com/track/2MBPUcMpWL4EJ709876js0"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Limbo EP",
         "url": "https://open.spotify.com/album/3INuxTPDwTsRrSJVKcP22m"
       },
@@ -915,26 +915,6 @@
       "duration_ms": 401815,
       "name": "Wawanko",
       "url": "https://open.spotify.com/track/5f8vHp9Q4Uh0nhwqUEbRoW"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
-        "name": "Chaghaf",
-        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
-      },
-      "artists": [
-        {
-          "name": "Jad Halal",
-          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
-        },
-        {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        }
-      ],
-      "duration_ms": 427000,
-      "name": "Chaghaf",
-      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -955,6 +935,26 @@
       "duration_ms": 198545,
       "name": "Persian Nights",
       "url": "https://open.spotify.com/track/5pRfsRKRDsAAkYvQ7262YH"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Chaghaf",
+        "url": "https://open.spotify.com/album/0nNXlfoPUjAvvlqvbi3qDB"
+      },
+      "artists": [
+        {
+          "name": "Jad Halal",
+          "url": "https://open.spotify.com/artist/1aIWC7EGIcWotOZ8LNHH9j"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        }
+      ],
+      "duration_ms": 427000,
+      "name": "Chaghaf",
+      "url": "https://open.spotify.com/track/4fa6c1O01U9UEodp1Bj22A"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Visions 2 (Departure)",
-        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
-      },
-      "artists": [
-        {
-          "name": "Harold van Lennep",
-          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
-        }
-      ],
-      "duration_ms": 509502,
-      "name": "Jungle Paradise",
-      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Bem a Tempo (Yemanjo Remix)",
         "url": "https://open.spotify.com/album/4hAhIqwRzsd1KLMcHYOlN2"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 337714,
       "name": "Bem a Tempo - Yemanjo Remix",
       "url": "https://open.spotify.com/track/5HSSXa50YSC7TUC32IjwVD"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Visions 2 (Departure)",
+        "url": "https://open.spotify.com/album/62Ntxmo8Oykqbk6rVkCw8E"
+      },
+      "artists": [
+        {
+          "name": "Harold van Lennep",
+          "url": "https://open.spotify.com/artist/3EDo5M4D2IAhisy3TDpkWg"
+        }
+      ],
+      "duration_ms": 509502,
+      "name": "Jungle Paradise",
+      "url": "https://open.spotify.com/track/7JiCJIx41x2A8Bvoq8w3Ek"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Caminata",
-        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
-      },
-      "artists": [
-        {
-          "name": "Montezuma",
-          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
-        }
-      ],
-      "duration_ms": 416267,
-      "name": "Caminata",
-      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "White Desert",
         "url": "https://open.spotify.com/album/1eVk4pasppk1suCyJNpgC3"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 400696,
       "name": "White Desert",
       "url": "https://open.spotify.com/track/5jOdQjFMSfCaBiqzVnl6gl"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Caminata",
+        "url": "https://open.spotify.com/album/7Iy8qNYQd5MfCWHEb0mSSl"
+      },
+      "artists": [
+        {
+          "name": "Montezuma",
+          "url": "https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU"
+        }
+      ],
+      "duration_ms": 416267,
+      "name": "Caminata",
+      "url": "https://open.spotify.com/track/5yNkX0lW8C2ccVN3Q1xRm9"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1159,26 +1159,6 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Raga",
-        "url": "https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf"
-      },
-      "artists": [
-        {
-          "name": "Amine K",
-          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
-        },
-        {
-          "name": "Yahya",
-          "url": "https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX"
-        }
-      ],
-      "duration_ms": 201818,
-      "name": "Raga",
-      "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
-    },
-    {
-      "added_at": "2024-02-23 00:01:00",
-      "album": {
         "name": "Plut\u00f3n",
         "url": "https://open.spotify.com/album/3lA2Wy5OpKlsRMlogDznKW"
       },
@@ -1195,6 +1175,26 @@
       "duration_ms": 382066,
       "name": "Earth",
       "url": "https://open.spotify.com/track/18Vds2ehiWC09W390vcptq"
+    },
+    {
+      "added_at": "2024-02-23 00:01:00",
+      "album": {
+        "name": "Raga",
+        "url": "https://open.spotify.com/album/6B3R0opCJ5a87ZiC1FVckf"
+      },
+      "artists": [
+        {
+          "name": "Amine K",
+          "url": "https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf"
+        },
+        {
+          "name": "Yahya",
+          "url": "https://open.spotify.com/artist/5ZFlQjYVg2YdyeXIVJKSiX"
+        }
+      ],
+      "duration_ms": 201818,
+      "name": "Raga",
+      "url": "https://open.spotify.com/track/3uyd4cW7ukADr3iSjFIy5G"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1259,18 +1259,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Quem Sou Eu",
-        "url": "https://open.spotify.com/album/29cY1BkBQwyZEh3QlotmtL"
+        "name": "Na Lagoa (Remixes)",
+        "url": "https://open.spotify.com/album/3yumAJDkK8phPkQYGXJFDm"
       },
       "artists": [
         {
           "name": "Xique-Xique",
           "url": "https://open.spotify.com/artist/5LuhrBhGclMzHlYK4mDLLp"
+        },
+        {
+          "name": "Dengue Dengue Dengue",
+          "url": "https://open.spotify.com/artist/4dNjJV9AjGqHzkZualfhnG"
         }
       ],
-      "duration_ms": 328912,
-      "name": "Quem Sou Eu",
-      "url": "https://open.spotify.com/track/303M6GvGo8DGx1niNv1pVS"
+      "duration_ms": 264317,
+      "name": "Senhor Carangeju - Dengue Dengue Dengue Remix",
+      "url": "https://open.spotify.com/track/76WbdLgFwXC1ZwMzWDTNxt"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1343,18 +1347,22 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Behind The Wall",
-        "url": "https://open.spotify.com/album/1wAoIli83YBVmOvg87amiI"
+        "name": "Cafune",
+        "url": "https://open.spotify.com/album/0td3Appnt0WXWgtUDSIgee"
       },
       "artists": [
         {
-          "name": "Monvol",
-          "url": "https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl"
+          "name": "Double Touch",
+          "url": "https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF"
+        },
+        {
+          "name": "Budajevo",
+          "url": "https://open.spotify.com/artist/6Ep2vI7FwSPggbjZQTsEnR"
         }
       ],
-      "duration_ms": 400148,
-      "name": "Behind The Wall",
-      "url": "https://open.spotify.com/track/7p2HefMjnCywc3YuDaToJH"
+      "duration_ms": 465000,
+      "name": "Cafune",
+      "url": "https://open.spotify.com/track/2O3V17L93GZyCDX6vhEKz5"
     },
     {
       "added_at": "2024-02-23 00:01:00",
@@ -1379,42 +1387,42 @@
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Cafune",
-        "url": "https://open.spotify.com/album/0td3Appnt0WXWgtUDSIgee"
+        "name": "Behind The Wall",
+        "url": "https://open.spotify.com/album/1wAoIli83YBVmOvg87amiI"
       },
       "artists": [
         {
-          "name": "Double Touch",
-          "url": "https://open.spotify.com/artist/2gs35pd58Hjh9gOlH95QtF"
-        },
-        {
-          "name": "Budajevo",
-          "url": "https://open.spotify.com/artist/6Ep2vI7FwSPggbjZQTsEnR"
+          "name": "Monvol",
+          "url": "https://open.spotify.com/artist/3AbpwdjSWkaLmsXyZhmIFl"
         }
       ],
-      "duration_ms": 465000,
-      "name": "Cafune",
-      "url": "https://open.spotify.com/track/2O3V17L93GZyCDX6vhEKz5"
+      "duration_ms": 400148,
+      "name": "Behind The Wall",
+      "url": "https://open.spotify.com/track/7p2HefMjnCywc3YuDaToJH"
     },
     {
       "added_at": "2024-02-23 00:01:00",
       "album": {
-        "name": "Leave the Bones",
-        "url": "https://open.spotify.com/album/30OeYX8aVRKtwzyUS9D1kZ"
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/5Lkjqkn8LFTfpo2o9kbqJP"
       },
       "artists": [
         {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+          "name": "Billy Esteban",
+          "url": "https://open.spotify.com/artist/0nyKVqkATGrYXA98ieTJr0"
         },
         {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
+          "name": "Aitor Gonz\u00e1lez",
+          "url": "https://open.spotify.com/artist/2n5l3m6thhRJvYEpn99r3a"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
         }
       ],
-      "duration_ms": 354043,
-      "name": "Kite Zo A",
-      "url": "https://open.spotify.com/track/4oxWMQjQLpDZ3UOS0km3JB"
+      "duration_ms": 449454,
+      "name": "Soul",
+      "url": "https://open.spotify.com/track/5qFCeotddc68VUOEQ8jaur"
     }
   ],
   "unique_name": "Org\u00e1nica",

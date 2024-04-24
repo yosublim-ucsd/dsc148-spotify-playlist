@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 
 > 2010 highlights from the home of indie music\. Cover: Gorillaz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 244,158 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 244,500 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWULq23fLWDsl.md) - [plain]
 | 49 | [Alter Ego](https://open.spotify.com/track/6SmV1Oo24nCZBPzIYkL4HZ) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [InnerSpeaker](https://open.spotify.com/album/1DNSmmRLfv97Yjq7MTFWng) | 4:47 |
 | 50 | [Laredo](https://open.spotify.com/track/61beXNR1qPPxjyM8x3pdRk) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [Infinite Arms](https://open.spotify.com/album/08fkw9uDP2KET6cPIl74Xo) | 3:12 |
 | 51 | [Call Your Girlfriend](https://open.spotify.com/track/0BfySEp4LJTvZfxxlfaaOU) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk](https://open.spotify.com/album/18yDzTr0dsuw268dHopO43) | 3:47 |
-| 52 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 |
-| 53 | [Cigarettes in the Theatre](https://open.spotify.com/track/7iGAkO3j525uGPyrd93VX0) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:33 |
+| 52 | [Cigarettes in the Theatre](https://open.spotify.com/track/7iGAkO3j525uGPyrd93VX0) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Tourist History](https://open.spotify.com/album/6n8oS6u5qw6xWGT754V1M6) | 3:33 |
+| 53 | [Ivy & Gold](https://open.spotify.com/track/0ej0gx9JY7fNJv9thW5UEe) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Flaws](https://open.spotify.com/album/6LZpRofbNxPgc8eXvw0j1S) | 2:56 |
 | 54 | [She's Long Gone](https://open.spotify.com/track/4AaPXm5NKGEwGdOJzuPnrL) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers \(Deluxe Remastered Anniversary Edition\)](https://open.spotify.com/album/7lhJVTvqL3QbwGN12QLiVj) | 3:06 |
 | 55 | [We Used to Wait](https://open.spotify.com/track/37EmPMVwdBaKs7UhJOkHUU) | [Arcade Fire](https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB) | [The Suburbs](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) | 5:01 |
 | 56 | [White Sky](https://open.spotify.com/track/6K5waU14PdvY4fatne8kyq) | [Vampire Weekend](https://open.spotify.com/artist/5BvJzeQpmsdsFp4HGUYUEx) | [Contra](https://open.spotify.com/album/2zcMgU6PAlLUDQMqZcxxUU) | 2:58 |

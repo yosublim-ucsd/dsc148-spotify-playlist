@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 
 > Glimmering, warm, and bright memories: Broadcast on the cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,220 likes - 50 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,476 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNf6sH1qnKU.md) - [plain]
 | 11 | [I Follow You](https://open.spotify.com/track/6rv4gfOtrlYFrcu03gZkUW) | [Melody's Echo Chamber](https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X) | [Melody's Echo Chamber](https://open.spotify.com/album/2FKVlcqyS9nzKEHrOzbuwb) | 3:34 |
 | 12 | [Misery Is a Butterfly](https://open.spotify.com/track/0tm9m5pv01Toj3nt3LESdZ) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Misery Is a Butterfly](https://open.spotify.com/album/2IOkphZwsrRk1nWRkikEgK) | 5:07 |
 | 13 | [Off Your Face](https://open.spotify.com/track/7hrQx8C3rT5R447bmNnq5Y) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [Glider](https://open.spotify.com/album/3oSLMALBuos75AqBHPdLrJ) | 4:15 |
-| 14 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
-| 15 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
+| 14 | [Jewel](https://open.spotify.com/track/3Mp4lDIGyCBVWDSF6ALaEd) | [Cranes](https://open.spotify.com/artist/5q2ehaRqAFmM6tLl4vaVwP) | [Forever \(Expanded Edition\)](https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV) | 3:05 |
+| 15 | [Time Baby III](https://open.spotify.com/track/5tujK4iuRbqaDQv94ZRH98) | [Medicine](https://open.spotify.com/artist/61uYVpJPgBq9dNrfUy6kTp), [Robin Guthrie](https://open.spotify.com/artist/3ZqRIzadY4WYQEg4Hj2vGC) | [The Crow Original Motion Picture Soundtrack](https://open.spotify.com/album/3y7Mwv7UqhABQqsGlzSL6n) | 3:51 |
 | 16 | [She Hangs Brightly](https://open.spotify.com/track/0PwKkV9wQCpbCxJmYEkcsd) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [She Hangs Brightly](https://open.spotify.com/album/2ZAcLWdHBHrdybwws1PVuA) | 6:24 |
 | 17 | [Holy Forest](https://open.spotify.com/track/5740WNrWQZEiXK6yoPp2q4) | [Pinkshinyultrablast](https://open.spotify.com/artist/3pJuDuFyP5uxCHDpXPczf4) | [Everything Else Matters](https://open.spotify.com/album/5i4chaWK0h50pbc3WJNXhL) | 4:08 |
 | 18 | [Crazy for You](https://open.spotify.com/track/3gcIqknhltPEuekVMrP25o) | [Slowdive](https://open.spotify.com/artist/72X6FHxaShda0XeQw3vbeF) | [Pygmalion](https://open.spotify.com/album/7n7VUw9XFam4zMT7zn99tq) | 6:01 |

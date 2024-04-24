@@ -2,7 +2,7 @@
 
 ### [This Is Flo Milli](https://open.spotify.com/playlist/37i9dQZF1DZ06evO00Q0Yo)
 
-> This is Flo Milli。アーティストの代表曲をひとつのプレイリストに。
+> This is Flo Milli\. The essential tracks, all in one playlist.
 
 74 songs - 3 hr 25 min
 

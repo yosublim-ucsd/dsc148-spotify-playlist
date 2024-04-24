@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 
 > Sounds that inspired the designers of <a href="https://lagosfashionweek.ng/">Lagos Fashion Week 2023.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,012 likes - 47 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,018 likes - 47 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGEj20FfCp.md) - [plain]
 | 14 | [S.B.B.](https://open.spotify.com/track/6syIn7MzUofK6NxPM1PVnY) | [BLNDE](https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU) | [S.B.B.](https://open.spotify.com/album/2zMDE5G97s6zppbVcS7Dhb) | 2:16 |
 | 15 | [Jazz Up](https://open.spotify.com/track/4VI7qfsJoxYEbQ5shnP46N) | [Lady Donli](https://open.spotify.com/artist/5joHzVrVQzu41KFBlZQDvG) | [Pan African Rockstar](https://open.spotify.com/album/2kA7NTDqESZM0B7COf3cfh) | 1:43 |
 | 16 | [Quiver A Little](https://open.spotify.com/track/4AgKFbWBSSk4maqbhlBhZz) | [Benjamin Clementine](https://open.spotify.com/artist/7zHIrsSBL7A0gEJfzv1m7z) | [At Least For Now \(Deluxe\)](https://open.spotify.com/album/0kmS5PSTDOgA1riwnqbueC) | 4:38 |
-| 17 | [Disappeared](https://open.spotify.com/track/3tb96w4MYn2aabSxDRoslp) | [Swing Slow](https://open.spotify.com/artist/143PqSeGuE4117P3YDV1lQ) | [Swing Slow](https://open.spotify.com/album/5WefP9I6dq2QQftNs5TFdp) | 6:38 |
+| 17 | [Disappeared](https://open.spotify.com/track/3tb96w4MYn2aabSxDRoslp) | [Swing Slow](https://open.spotify.com/artist/143PqSeGuE4117P3YDV1lQ) | [swing slow](https://open.spotify.com/album/5WefP9I6dq2QQftNs5TFdp) | 6:38 |
 | 18 | [Yellow Sisi](https://open.spotify.com/track/0dpylTAwBDBXQ7opMhroqr) | [Cardinal Rex Jim Lawson](https://open.spotify.com/artist/61HFskCqHEghNfZ1XYb8RI) | [The Classics Vol.2](https://open.spotify.com/album/286uibMTKaGNOcJoIkZWvT) | 3:11 |
 | 19 | [Onantefo](https://open.spotify.com/track/6dO5o6dujckN14N0N4wtFp) | [Yamoah](https://open.spotify.com/artist/2Slp8zb5nxoByIA8R4fA8V) | [Saman Me: Highlife Collection Vol 3](https://open.spotify.com/album/4hBrgnYInR1a6LWvNwXEpP) | 6:33 |
 | 20 | [Woigaye, Don’t Cry Anymore](https://open.spotify.com/track/3cl5vfXdLYWvlyCrWGxmcz) | [Emahoy Tsege Mariam Gebru](https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9) | [Jerusalem](https://open.spotify.com/album/6xjZ9o1yOZBUUs26HyA9oY) | 5:44 |

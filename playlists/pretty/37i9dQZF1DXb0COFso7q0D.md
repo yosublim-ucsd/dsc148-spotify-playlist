@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 
 ### [Los Que Mandan \- Música Mexicana](https://open.spotify.com/playlist/37i9dQZF1DXb0COFso7q0D)
 
-> The playlist sin fronteras, powering <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a> Cover: Oscar Maydon, Junior H, Luis R Conriquez & Gerardo Ortiz
+> The playlist sin fronteras, powering <a href="spotify:genre:0JQ5DAqbMKFEJHdEnquSi1">BelicoFest</a>🔥Click on the links to enjoy the setlists of <a href="spotify:playlist:37i9dQZF1DWVHIYChxh9sq">Oscar Maydon</a>,<a href="spotify:playlist:37i9dQZF1DWZ2jQBazXjNj">Luis R Conriquez</a> & <a href="spotify:playlist:37i9dQZF1DXbApqiewDQsL">Gerardo Ortiz </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,083,501 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,085,604 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb0COFso7q0D.md) - [plain]
 | 64 | [Apaga El Cel](https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF) | [Calle 24](https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR), [Chino Pacas](https://open.spotify.com/artist/2rmkQLzj0k4nZdQehOUByO) | [Apaga El Cel](https://open.spotify.com/album/5Isy5T3w9NjggarK5RxrQZ) | 2:50 |
 | 65 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 |
 
-Snapshot ID: `MTcxMzU1OTc5MCwwMDAwMDAwMGRkYTVlNjM0MjJjOWQwNWI1ZDBiODA2ZTI3NGNkZmM5`
+Snapshot ID: `MTcxMzkyNTYwNywwMDAwMDAwMDQwMjVkZWQyNDMxOGEyZjZjNGUyZmFkZjAyMmQyOWM1`

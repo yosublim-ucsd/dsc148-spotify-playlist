@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 
 > 2017 highlights from the home of indie music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,830 likes - 100 songs - 6 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,899 likes - 100 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcR9zJKQUPAH.md) - [plain]
 | 71 | [Wow](https://open.spotify.com/track/1rEkUEBFYEtqDLYaTuElsx) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Colors](https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l) | 3:42 |
 | 72 | [Can We Hang On ?](https://open.spotify.com/track/33DLdGdo8h58yo0oucWsHT) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [LA DIVINE](https://open.spotify.com/album/7ivgZAxvcUXk33Jk4Hi7On) | 3:43 |
 | 73 | [Chateau](https://open.spotify.com/track/0JH1gKAAJHdV5dukJVyFPY) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [SNOW](https://open.spotify.com/album/3k3EvBHWTu3VkyAh5Pevv9) | 4:33 |
-| 74 | [Mourning Sound](https://open.spotify.com/track/0szSOfZVM3G5mWI1ogQjr7) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Painted Ruins](https://open.spotify.com/album/3QOXA8bqsml8CslUdgHXrW) | 4:22 |
-| 75 | [Foreign Hands \(George's Version\)](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands \(George's Version\)](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 |
+| 74 | [Foreign Hands \(George's Version\)](https://open.spotify.com/track/78e02OxzIocXs21FqQ4UGK) | [George Ogilvie](https://open.spotify.com/artist/56NSAhpJRoeaGi5uyUdYlI) | [Foreign Hands \(George's Version\)](https://open.spotify.com/album/11OoifQTfRnad4m4ocQdZs) | 4:18 |
+| 75 | [Mourning Sound](https://open.spotify.com/track/0szSOfZVM3G5mWI1ogQjr7) | [Grizzly Bear](https://open.spotify.com/artist/2Jv5eshHtLycR6R8KQCdc4) | [Painted Ruins](https://open.spotify.com/album/3QOXA8bqsml8CslUdgHXrW) | 4:22 |
 | 76 | [Dum Surfer](https://open.spotify.com/track/6ze4DiPZGgAbluSM9DzfPa) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [The OOZ](https://open.spotify.com/album/7D0onfXwlFnOvm1gF3nEdw) | 4:23 |
 | 77 | [Buttercup](https://open.spotify.com/track/7GUPYx7ywjcqBIUXssYjaW) | [Hippo Campus](https://open.spotify.com/artist/1btWGBz4Uu1HozTwb2Lm8A) | [Landmark](https://open.spotify.com/album/3l5MTodEP0uBhcAwyxfVmX) | 3:46 |
 | 78 | [Hot Thoughts](https://open.spotify.com/track/48yvsxGXnJBxy8nXgGbs4S) | [Spoon](https://open.spotify.com/artist/0K1q0nXQ8is36PzOKAMbNe) | [Hot Thoughts](https://open.spotify.com/album/1OPdyA7ZW7zIZEmSqThRGy) | 3:48 |

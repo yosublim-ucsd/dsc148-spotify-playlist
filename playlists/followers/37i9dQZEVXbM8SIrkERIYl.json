@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 211228,
+  "2024-04-24": 211104,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - New Zealand.",
   "name": "Top 50 - New Zealand",
@@ -471,7 +471,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
@@ -12371,7 +12371,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 222784,
       "name": "leavemealone",
       "url": "https://open.spotify.com/track/1nzOUWyHoZLzf9EX0pnFPn"
@@ -13487,7 +13487,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 138411,
       "name": "Lovin On Me",
       "url": "https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU"
@@ -15719,7 +15719,7 @@
       ],
       "date_added": "2022-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 180853,
       "name": "Nobody Gets Me",
       "url": "https://open.spotify.com/track/5Y35SjAfXjjG0sFQ3KOxmm"
@@ -21849,7 +21849,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 238241,
       "name": "The Bolter",
       "url": "https://open.spotify.com/track/2913xXOVAIDAqxzV2g4VcU"
@@ -22207,7 +22207,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 224743,
       "name": "The Manuscript",
       "url": "https://open.spotify.com/track/1DTRUYVd8rYpla9hhVVwjo"

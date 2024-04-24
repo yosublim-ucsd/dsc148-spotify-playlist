@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. Grupo Firme y El Coyote en portada.",
-  "num_followers": 664194,
+  "num_followers": 664558,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -563,6 +563,26 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2024-04-19 06:46:52",
+      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2024-04-19 06:46:52",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-04-19 06:46:52",
@@ -979,22 +979,6 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
-        "name": "Tu Perfume",
-        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Tu Perfume",
-      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
-    },
-    {
-      "added_at": "2024-04-19 06:46:52",
-      "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
-        "name": "Empat\u00eda",
-        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
+        "name": "Tu Perfume",
+        "url": "https://open.spotify.com/album/6sGxYlsiF11hUl37ZynUhM"
       },
       "artists": [
         {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 244219,
-      "name": "Empat\u00eda",
-      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
+      "duration_ms": 174000,
+      "name": "Tu Perfume",
+      "url": "https://open.spotify.com/track/4GEaPFR8FZklS0PMiXDG1Q"
     },
     {
       "added_at": "2024-04-19 06:46:52",
@@ -1043,18 +1027,18 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
-        "name": "Como En Los Viejos Tiempos",
-        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+        "name": "Empat\u00eda",
+        "url": "https://open.spotify.com/album/68JuS3O6mzT6T60cZbs0dV"
       },
       "artists": [
         {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         }
       ],
-      "duration_ms": 245250,
-      "name": "Como En Los Viejos Tiempos",
-      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
+      "duration_ms": 244219,
+      "name": "Empat\u00eda",
+      "url": "https://open.spotify.com/track/4UxGESDEvN34xvqYSbQZQh"
     },
     {
       "added_at": "2024-04-19 06:46:52",
@@ -1071,6 +1055,22 @@
       "duration_ms": 154632,
       "name": "GPI",
       "url": "https://open.spotify.com/track/2paeYYXnOdupO6YytD4MRl"
+    },
+    {
+      "added_at": "2024-04-19 06:46:52",
+      "album": {
+        "name": "Como En Los Viejos Tiempos",
+        "url": "https://open.spotify.com/album/0L42ly7nUhlU7B70Dsuv2P"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 245250,
+      "name": "Como En Los Viejos Tiempos",
+      "url": "https://open.spotify.com/track/4GBRHjkc0OBRtzZBdO1BVq"
     },
     {
       "added_at": "2024-04-19 06:46:52",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
-        "name": "Asignatura Pendiente",
-        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 245093,
-      "name": "Asignatura Pendiente",
-      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
-    },
-    {
-      "added_at": "2024-04-19 06:46:52",
-      "album": {
         "name": "Fresas de la Capital (Remix)",
         "url": "https://open.spotify.com/album/0KbEkXdXyUEscWEtJulK3M"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 194240,
       "name": "Fresas de la Capital - Remix",
       "url": "https://open.spotify.com/track/0YL4V7R077SARGTtJkBFLj"
+    },
+    {
+      "added_at": "2024-04-19 06:46:52",
+      "album": {
+        "name": "Asignatura Pendiente",
+        "url": "https://open.spotify.com/album/3kMQSQJN1D9ABXcSsgJ2vK"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 245093,
+      "name": "Asignatura Pendiente",
+      "url": "https://open.spotify.com/track/1uvfOengybr6fzRxecMsuJ"
     },
     {
       "added_at": "2024-04-19 06:46:52",
@@ -1283,22 +1283,22 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
-        "name": "BELICONTENTO",
-        "url": "https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7"
+        "name": "Me Quiero Casar",
+        "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
       },
       "artists": [
         {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         },
         {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
         }
       ],
-      "duration_ms": 151680,
-      "name": "BELICONTENTO",
-      "url": "https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2"
+      "duration_ms": 156252,
+      "name": "Me Quiero Casar",
+      "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
     },
     {
       "added_at": "2024-04-19 06:46:52",
@@ -1331,22 +1331,22 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
-        "name": "Me Quiero Casar",
-        "url": "https://open.spotify.com/album/11q4dGHmq3Jm1XcABg4HkX"
+        "name": "BELICONTENTO",
+        "url": "https://open.spotify.com/album/1Oo4iemjn5zgW9ah4p1gp7"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
         },
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
         }
       ],
-      "duration_ms": 156252,
-      "name": "Me Quiero Casar",
-      "url": "https://open.spotify.com/track/1NKieJNxZiQpXYA7Wmx2Hd"
+      "duration_ms": 151680,
+      "name": "BELICONTENTO",
+      "url": "https://open.spotify.com/track/5WoQIn0VwI7h4D5QWMDBx2"
     },
     {
       "added_at": "2024-04-19 06:46:52",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-04-19 06:46:52",
       "album": {
+        "name": "Luis Miguel",
+        "url": "https://open.spotify.com/album/22AGeMVdDQdfAPSNJEJIqt"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "duration_ms": 212849,
+      "name": "Luis Miguel",
+      "url": "https://open.spotify.com/track/1DGI8N7EJRegRvFN6V7u8j"
+    },
+    {
+      "added_at": "2024-04-19 06:46:52",
+      "album": {
         "name": "NEPTUNO",
         "url": "https://open.spotify.com/album/6vQLZiZwK4XctII0RdWhqg"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 161985,
       "name": "NEPTUNO",
       "url": "https://open.spotify.com/track/6oo5gvZqYmTxivDGELT8s6"
-    },
-    {
-      "added_at": "2024-04-19 06:46:52",
-      "album": {
-        "name": "Luis Miguel",
-        "url": "https://open.spotify.com/album/22AGeMVdDQdfAPSNJEJIqt"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        }
-      ],
-      "duration_ms": 212849,
-      "name": "Luis Miguel",
-      "url": "https://open.spotify.com/track/1DGI8N7EJRegRvFN6V7u8j"
     }
   ],
   "unique_name": "Top M\u00e9xico",

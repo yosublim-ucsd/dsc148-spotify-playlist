@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 
 > Classic songs from the Blues songbook\. Cover: Muddy Waters.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,704 likes - 58 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,855 likes - 58 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcu3QLJudo4X.md) - [plain]
 | 14 | [Dust My Broom](https://open.spotify.com/track/0fM0mFxHP1R4KPX1PB8tWU) | [Elmore James](https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS) | [Shake Your Money Maker: The Best Of The Fire Sessions](https://open.spotify.com/album/5f4i4c03PdC3yHI63Ccauu) | 2:55 |
 | 15 | [Spoonful \- Single Version](https://open.spotify.com/track/1swNbKiUEwgTM6jnkx5rkm) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb), [Harvey Fuqua](https://open.spotify.com/artist/0F577kU2Hk9gr4mAzK60tZ) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:47 |
 | 16 | [Trouble Blues](https://open.spotify.com/track/7a6dNBkRHict66PWnCqbqT) | [Sam Cooke](https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC) | [Night Beat](https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk) | 3:20 |
-| 17 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
-| 18 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 |
+| 17 | [Stormy Monday](https://open.spotify.com/track/1lK8K3i4ooFEcCoCNHAmvl) | [Freddie King](https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s) | [My Feeling For the Blues](https://open.spotify.com/album/1Usun6ssY8Yq6GqRKWsSFz) | 4:24 |
+| 18 | [That's All Right \- 1950 Single Version](https://open.spotify.com/track/5Mpt8MfB3OUJIERUnjOGum) | [Jimmy Rogers](https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0) | [Chicago Bound](https://open.spotify.com/album/2FDltONvqb5rhPjNSWMupo) | 2:50 |
 | 19 | [Key To The Highway](https://open.spotify.com/track/4E3Q2DOynwgP3VwBFf59kL) | [Little Walter](https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS) | [Hate To See You Go](https://open.spotify.com/album/7KZt4TYZm8A4tN1hqQpLRI) | 2:43 |
 | 20 | [It Hurts Me Too](https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe), [Nicky Hopkins](https://open.spotify.com/artist/4oFSDUi4VgAWAn7t5RNaan), [Ry Cooder](https://open.spotify.com/artist/1CPwHx5lgVxv0rfcp7UXLx) | [Jamming With Edward](https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO) | 5:14 |
 | 21 | [Baby, What You Want Me To Do \- Live At The New Era Club,1963](https://open.spotify.com/track/6SoZkdugPfXghVpEEqSHCn) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [Rocks The House](https://open.spotify.com/album/4XmKdBEndE6UnnbrSUN5Dk) | 4:14 |

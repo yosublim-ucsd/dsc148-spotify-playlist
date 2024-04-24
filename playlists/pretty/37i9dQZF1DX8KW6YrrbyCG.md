@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KW6YrrbyCG.md) - [plain]
 
 > Editorial picks of the best songs from 2022.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,887 likes - 75 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,933 likes - 75 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8KW6YrrbyCG.md) - [plain]
 | 5 | [Selfish Soul](https://open.spotify.com/track/3ceTUPvI4JAuSwFWfeB7Ym) | [Sudan Archives](https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u) | [Selfish Soul](https://open.spotify.com/album/1zSjDYhE9QpJLaptBmBM8N) | 2:22 |
 | 6 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 |
 | 7 | [Angelica](https://open.spotify.com/track/1QmWlI3uylUl7Je1uTtj42) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM) | 3:52 |
-| 8 | [Runner](https://open.spotify.com/track/5DRnssBoVo8e7uAQZkNT8O) | [Alex G](https://open.spotify.com/artist/6lcwlkAjBPSKnFBZjjZFJs) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:36 |
+| 8 | [Runner](https://open.spotify.com/track/5DRnssBoVo8e7uAQZkNT8O) | [Alex G](https://open.spotify.com/artist/2DhebjO0uMIKmc7W7q3WFJ) | [God Save The Animals](https://open.spotify.com/album/6TzgWk5HZItbFmMT7hH4bU) | 2:36 |
 | 9 | [Die For You](https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [SMITHEREENS](https://open.spotify.com/album/2hEnymoejldpuxSdTnkard) | 3:31 |
 | 10 | [On The Ground](https://open.spotify.com/track/4FHJqPdhIHhHn1JfcdwQOL) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Janky Star](https://open.spotify.com/album/0sZHIgeXLGWrYZasMrNKTl) | 3:25 |
 | 11 | [Como me encanta](https://open.spotify.com/track/5QLw2hi44Hhc9okMOF4VLT) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [Paris Texas](https://open.spotify.com/album/2H7Ptwzuy83loDyZzHiPw8) | 5:21 |

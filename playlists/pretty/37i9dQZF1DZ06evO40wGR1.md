@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 
 ### [This Is Liran' Roll](https://open.spotify.com/playlist/37i9dQZF1DZ06evO40wGR1)
 
-> This is Liran' Roll\. The essential tracks, all in one playlist.
+> This is Liran' Roll\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,230 likes - 50 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,247 likes - 50 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,10 +26,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 16 | [Se Acabo \- Remastered](https://open.spotify.com/track/4f1HgE54tbid4JMaEYvqkS) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 5:11 |
 | 17 | [La Flaca](https://open.spotify.com/track/5PXTMJYqWNRdSD3pYWTzol) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 3:44 |
 | 18 | [Estoy Perdiendo La Razón](https://open.spotify.com/track/6l63zk5RAYROPD5ykqmPcR) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS), [Alex Lora](https://open.spotify.com/artist/65jeNkVjlDdEUkPGSFyyNh) | [Estoy Perdiendo La Razón](https://open.spotify.com/album/6D5BTc38W49lEnrcJXm8ZK) | 3:22 |
-| 19 | [Una Oportunidad](https://open.spotify.com/track/6RmwaYf0muJ2WnDwc9rc3G) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:01 |
+| 19 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
 | 20 | [La Vida Es Corta \- Remastered](https://open.spotify.com/track/6GP0NwjA95OGQiwIbmen36) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 3:33 |
 | 21 | [Diez Cuarenta y Siete](https://open.spotify.com/track/3imJOXUD815t4kSwrY8HwA) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:03 |
-| 22 | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/track/1UTpT97Dn2exMo7tk8GJZg) | [Foco De Atelier](https://open.spotify.com/artist/5GZzO9MK60ZEQ5iiErfs2A), [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [No Tengo Tiempo \(De Cambiar Mi Vida\)](https://open.spotify.com/album/2U3tJnajShO4HccXpReW5M) | 4:32 |
+| 22 | [Una Oportunidad](https://open.spotify.com/track/6RmwaYf0muJ2WnDwc9rc3G) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:01 |
 | 23 | [Déjame](https://open.spotify.com/track/4st4LrNbI9DKOFwBEZ1W3R) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 4:26 |
 | 24 | [Así Es Mi Vida \(En Vivo\)](https://open.spotify.com/track/5N5r3huZlmt9wBgBN5YUMR) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [25 Años De Resistencia \(En Vivo\)](https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj) | 3:39 |
 | 25 | [Abrázame](https://open.spotify.com/track/2Npx6hoMEEBiJDPXrZ3KOm) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 2:12 |
@@ -37,12 +37,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 27 | [Un Adiós](https://open.spotify.com/track/452k6YfwmgEowaTVupBo9s) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:03 |
 | 28 | [Quisiera](https://open.spotify.com/track/7nIqRvlHXEIZHvkP5PLXxh) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [15 Rolitas de Amor, Vol\. 8](https://open.spotify.com/album/0i8811SgM9nYes9hu8ORfi) | 4:18 |
 | 29 | [Josefina](https://open.spotify.com/track/3hI44ZnraKYADDH5tKo71q) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Momentos](https://open.spotify.com/album/0Mot1VW7pPX7lBl02XjoCN) | 4:02 |
-| 30 | [Niños de la Calle](https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:54 |
-| 31 | [Sin Tu Latido](https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:14 |
+| 30 | [Sin Tu Latido](https://open.spotify.com/track/3xTzTsTFx3MGWk9Bg6Yr4g) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:14 |
+| 31 | [Niños de la Calle](https://open.spotify.com/track/5BqUNhd6Ok2SxZsgCzaCsT) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:54 |
 | 32 | [Chamán](https://open.spotify.com/track/4RWdBsWdQ2VBEOMz58EXa8) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 4:45 |
 | 33 | [Mandar una Flor \- Remastered](https://open.spotify.com/track/768gdK0kUekavH5CCqie9o) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Quiero Cambiar \(Remastered\)](https://open.spotify.com/album/4Bl52OEsKDB2zcYIrakJVy) | 4:12 |
-| 34 | [Piensa en Mi](https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:39 |
-| 35 | [Fúgate Conmigo](https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:18 |
+| 34 | [Fúgate Conmigo](https://open.spotify.com/track/2E1pXeUQPkEu6ocMjFpSu6) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Siguiendo La Línea](https://open.spotify.com/album/2F9AobKP2HSigLELWeu9Jg) | 4:18 |
+| 35 | [Piensa en Mi](https://open.spotify.com/track/2982dNBIFDZkjdjLhnYcOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [D.F.](https://open.spotify.com/album/6bsZtXHmanZNWEa0YdgMTh) | 4:39 |
 | 36 | [El Tren](https://open.spotify.com/track/7FEVzk8oZ43d1s09X6zrdd) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [El Diablo](https://open.spotify.com/album/3bLB1fxupRpzlj3heJkAzP) | 3:55 |
 | 37 | [Mi Vida](https://open.spotify.com/track/5feROmYN9sejKGAXKOv2Uf) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 3:51 |
 | 38 | [Otra Vez](https://open.spotify.com/track/2iSj3AfJodVCat05Pp7a7r) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Va por Ti](https://open.spotify.com/album/4OKgsBiB0jwuBzo4J6Z5QT) | 3:15 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40wGR1.md) - [plain]
 | 43 | [Porque Te Amo](https://open.spotify.com/track/6Knh4ir11etn5Agk73HkOH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 4:25 |
 | 44 | [El Último Viaje \(En Vivo\)](https://open.spotify.com/track/3JWoomq9M2TL413JyaFojn) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [25 Años De Resistencia \(En Vivo\)](https://open.spotify.com/album/1wZ2uSG8rTvOLedTZcQisj) | 5:44 |
 | 45 | [California](https://open.spotify.com/track/5ElUJL40Y3LI4KQHbEjQLv) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Disco de Aniversario](https://open.spotify.com/album/2B06d9gCFyAoSQdjtqVbwc) | 3:20 |
-| 46 | [La Falsa](https://open.spotify.com/track/6eWXNEADmfH0yCXZEZ2yHH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/6NwUNxmwxnNDiYoxNU2q2u) | 3:37 |
+| 46 | [Chucho el Roto \- En Vivo](https://open.spotify.com/track/1lveoKohEpXmhc73uVrmkg) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/5qU2H5w2q5zcvJC8K2YXZD) | 1:19 |
 | 47 | [Mario](https://open.spotify.com/track/7ucQ19pWXGcH8ypZFQNMLL) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [María \(Remastered\)](https://open.spotify.com/album/0hIFRE4KyYl4RZHASuJYgF) | 2:21 |
-| 48 | [Chucho el Roto \- En Vivo](https://open.spotify.com/track/1lveoKohEpXmhc73uVrmkg) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/5qU2H5w2q5zcvJC8K2YXZD) | 1:19 |
+| 48 | [La Falsa](https://open.spotify.com/track/6eWXNEADmfH0yCXZEZ2yHH) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/6NwUNxmwxnNDiYoxNU2q2u) | 3:37 |
 | 49 | [Tiempo Atrás](https://open.spotify.com/track/50rKIJTytRZaR1Ndyc9qj3) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Recuerdos](https://open.spotify.com/album/3s289NXXERpHfvkRYNbYQs) | 5:44 |
-| 50 | [Talismán](https://open.spotify.com/track/7mgfKK2OHidJuuhqh2gw5P) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [Chamán](https://open.spotify.com/album/0NQkOlwA4imtZD3SkOMErU) | 4:28 |
+| 50 | [Un Cuarto para los Dos \- En Vivo](https://open.spotify.com/track/0AUoGpSgS7q5uX4tQEaChz) | [Liran' Roll](https://open.spotify.com/artist/6Mto9KouiQx7nE2ioqkNjS) | [En Vivo, Vol\. 1](https://open.spotify.com/album/5qU2H5w2q5zcvJC8K2YXZD) | 4:14 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGZlYjZiOGNhODBkZDg2YTRkMmRjZTg4M2E4YjU1YjQ4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDBlMzMwZjJmZDBmNWVkMDU0MmJlN2I3YzRmY2Q0ZTVk`

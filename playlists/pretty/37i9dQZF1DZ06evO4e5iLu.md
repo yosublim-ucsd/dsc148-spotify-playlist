@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 
 > This is KAROL G\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,133,802 likes - 45 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,134,575 likes - 45 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4e5iLu.md) - [plain]
 | 44 | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/track/35HgzqAoEZ28Ovq7kb9nDz) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [La Vida Es Una \(From Puss in Boots: The Last Wish\)](https://open.spotify.com/album/4IhIx79me6iItoaJzR0Xqb) | 3:09 |
 | 45 | [Follow](https://open.spotify.com/track/2w1rq80FIrbxeJy9WYURxw) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [Follow](https://open.spotify.com/album/4c7J8cbXIdLAiTX7PFYdDi) | 3:23 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDNkNWVkODE5ZWVhNjEyMzhkYjFiODlhYjM3YTc4MGVi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDBkZDQ1NGFlOWZlNjcyMGVmZDRmM2FjNzcyMzIzN2E4`

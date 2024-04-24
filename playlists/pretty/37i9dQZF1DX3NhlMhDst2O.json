@@ -1,6 +1,6 @@
 {
   "description": "Porque el romance nunca pasar\u00e1 de moda. ",
-  "num_followers": 77281,
+  "num_followers": 77527,
   "original_name": "Sonidos del Ayer",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "La Rondalla Etc.",
-        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
-      },
-      "artists": [
-        {
-          "name": "La Rondalla De Saltillo",
-          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
-        }
-      ],
-      "duration_ms": 146800,
-      "name": "Wendolyne",
-      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/5bGjmZEW8yxGggKMDulFPN"
       },
@@ -783,18 +767,34 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "16 \u00c9xitos: Baladas",
-        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+        "name": "La Rondalla Etc.",
+        "url": "https://open.spotify.com/album/21iFLZ2JMHMhPU2zKkzFAp"
       },
       "artists": [
         {
-          "name": "Alberto Vazquez",
-          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+          "name": "La Rondalla De Saltillo",
+          "url": "https://open.spotify.com/artist/65wmIidwFZCCoT1BUewp5P"
         }
       ],
-      "duration_ms": 200045,
-      "name": "El Pecador",
-      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+      "duration_ms": 146800,
+      "name": "Wendolyne",
+      "url": "https://open.spotify.com/track/5UzphHLxBUS69n6J30BZea"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
+        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
+      },
+      "artists": [
+        {
+          "name": "Enrique Guzman",
+          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
+        }
+      ],
+      "duration_ms": 151133,
+      "name": "Tu Cabeza en Mi Hombro",
+      "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -815,6 +815,22 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
+        "name": "16 \u00c9xitos: Baladas",
+        "url": "https://open.spotify.com/album/16koZGZZYztvCEShPLndCv"
+      },
+      "artists": [
+        {
+          "name": "Alberto Vazquez",
+          "url": "https://open.spotify.com/artist/3vYC7LFneIpmJRSgrYy6dc"
+        }
+      ],
+      "duration_ms": 200045,
+      "name": "El Pecador",
+      "url": "https://open.spotify.com/track/1lDx45n8dnAU1v9yct5bxU"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
         "name": "Antologia 40 Cl\u00e1sicos Remasterizados",
         "url": "https://open.spotify.com/album/3oRJSfyF6qD5CDB0OPTbWt"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 180426,
       "name": "Olvidarte Nunca - 2003 Digital Remaster",
       "url": "https://open.spotify.com/track/3mhVXE8fcgV330qYXNWok8"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "Serie De Coleccion 15 Autenticos Exitos - Enrique Guzman",
-        "url": "https://open.spotify.com/album/6Jf07sJkEkGp8f4kFRESFT"
-      },
-      "artists": [
-        {
-          "name": "Enrique Guzman",
-          "url": "https://open.spotify.com/artist/4FeDV8T2wgjzYKBamSp7MG"
-        }
-      ],
-      "duration_ms": 151133,
-      "name": "Tu Cabeza en Mi Hombro",
-      "url": "https://open.spotify.com/track/2AtlLNH6BCDhA5DX8FSpVL"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1487,6 +1487,38 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
+        "name": "Palito Ortega y Sus \u00c9xitos",
+        "url": "https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3"
+      },
+      "artists": [
+        {
+          "name": "Palito Ortega",
+          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
+        }
+      ],
+      "duration_ms": 200711,
+      "name": "Por Muchas Razones Te Quiero",
+      "url": "https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
+        "name": "Atras de la Raya",
+        "url": "https://open.spotify.com/album/5YIaqX4l18vFQ0fcYSq0kU"
+      },
+      "artists": [
+        {
+          "name": "Los Apson Boys",
+          "url": "https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ"
+        }
+      ],
+      "duration_ms": 183373,
+      "name": "Fue en un Cafe",
+      "url": "https://open.spotify.com/track/0kPv89kbdck3kuZnsJ4t32"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
         "name": "Idolos de Argentina",
         "url": "https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB"
       },
@@ -1519,22 +1551,6 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
-        "name": "Palito Ortega y Sus \u00c9xitos",
-        "url": "https://open.spotify.com/album/6vWqqBI2PSTDoROOU6IdE3"
-      },
-      "artists": [
-        {
-          "name": "Palito Ortega",
-          "url": "https://open.spotify.com/artist/4jCduxx9HzFKS0RrRAtVXD"
-        }
-      ],
-      "duration_ms": 200711,
-      "name": "Por Muchas Razones Te Quiero",
-      "url": "https://open.spotify.com/track/7uSEht8p9wuXz7sQfUBU47"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
         "name": "El Sonido Vol I",
         "url": "https://open.spotify.com/album/1NKOp3Ct4RzmSGIApAKkS6"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 172000,
       "name": "Asi No Te Amara Jamas",
       "url": "https://open.spotify.com/track/0E5UI7Dvzl54vtkXX1KeaE"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "20 \u00c9xitos",
-        "url": "https://open.spotify.com/album/4DO7gB8PT4h2em5Q3IRxNE"
-      },
-      "artists": [
-        {
-          "name": "Los Pasteles de Per\u00fa",
-          "url": "https://open.spotify.com/artist/2UJTlvNR01oVbsigr5sCQs"
-        }
-      ],
-      "duration_ms": 257573,
-      "name": "Hipocres\u00eda",
-      "url": "https://open.spotify.com/track/06eRk3yaU1C6gOraResEeF"
     },
     {
       "added_at": "2023-11-06 20:37:56",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2023-11-06 20:37:56",
       "album": {
+        "name": "20 \u00c9xitos",
+        "url": "https://open.spotify.com/album/4DO7gB8PT4h2em5Q3IRxNE"
+      },
+      "artists": [
+        {
+          "name": "Los Pasteles de Per\u00fa",
+          "url": "https://open.spotify.com/artist/2UJTlvNR01oVbsigr5sCQs"
+        }
+      ],
+      "duration_ms": 257573,
+      "name": "Hipocres\u00eda",
+      "url": "https://open.spotify.com/track/06eRk3yaU1C6gOraResEeF"
+    },
+    {
+      "added_at": "2023-11-06 20:37:56",
+      "album": {
         "name": "Lorenzo Antonio",
         "url": "https://open.spotify.com/album/5HUORF7vOFU8MHg9mjWi13"
       },
@@ -1595,22 +1611,6 @@
       "duration_ms": 229668,
       "name": "Doce Rosas",
       "url": "https://open.spotify.com/track/4EPJIgQaRIuDZRm1qe9RrA"
-    },
-    {
-      "added_at": "2023-11-06 20:37:56",
-      "album": {
-        "name": "15 Grandes Exitos, Vol. 2",
-        "url": "https://open.spotify.com/album/21JpnaOhZSnwCmsPc2brqv"
-      },
-      "artists": [
-        {
-          "name": "La Migra",
-          "url": "https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76"
-        }
-      ],
-      "duration_ms": 255111,
-      "name": "Celos De Ti",
-      "url": "https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF"
     }
   ],
   "unique_name": "Sonidos del Ayer",

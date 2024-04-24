@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 
 > let's get it on
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,464 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,489 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDkmaK3cAib.md) - [plain]
 | 63 | [La Ducha](https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [La Ducha](https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp) | 3:29 |
 | 64 | [Aire](https://open.spotify.com/track/6KD13DHZyT3hRvcVg1sZfZ) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux), [Nsqk](https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu) | [Aire](https://open.spotify.com/album/3JUzKnPSx25f6XGmFlmOQM) | 2:54 |
 | 65 | [DameLove \(feat\. Cuco\)](https://open.spotify.com/track/2ALEhWrcpAdOC7YYJBQIre) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:46 |
-| 66 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
-| 67 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
+| 66 | [No Fue](https://open.spotify.com/track/5KgGV5yykkThL3rk5mQWfr) | [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX), [CA7RIEL](https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf) | [No Fue](https://open.spotify.com/album/01hu8HlyUnBnITx30aDTbD) | 3:15 |
+| 67 | [Miel](https://open.spotify.com/track/6QUXKT69EsdxOKVzz3z8E9) | [Los Aptos](https://open.spotify.com/artist/4tenlYn9MG8Fda3OyDtPRO), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Miel](https://open.spotify.com/album/62w772P9uxu5l8OmVWpj6Q) | 3:37 |
 | 68 | [COLTRANE](https://open.spotify.com/track/4hM63GBOU82xdvxDa0RxJm) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Carlota Urdiales](https://open.spotify.com/artist/25OjIyCWup505eb4tS2AUl) | [Cardellino](https://open.spotify.com/album/43ngUKpEMUdgNv3cHaWGKC) | 2:43 |
 | 69 | [CAMA KING \(feat\. Chita\)](https://open.spotify.com/track/1EOyHhh5uOwNrDhiUNnH2u) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W), [Chita](https://open.spotify.com/artist/7ejyCwT1b7MIwHVCVO8HjX) | [LA VIDA ES UNA](https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8) | 2:43 |
 | 70 | [Religiosa](https://open.spotify.com/track/33IHBjSXpamVSajAQ3wSER) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Sueños de Dalí](https://open.spotify.com/album/4jfOmy33i7nM0gW5zPslJK) | 2:40 |

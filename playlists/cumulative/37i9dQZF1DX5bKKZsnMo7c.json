@@ -472,7 +472,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 143133,
       "name": "Backseat Girl",
       "url": "https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI"
@@ -1110,7 +1110,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-25",
+      "date_removed": null,
       "duration_ms": 262675,
       "name": "Cabinet Man",
       "url": "https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2022-05-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-17",
+      "date_removed": null,
       "duration_ms": 172826,
       "name": "Candy Store",
       "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
@@ -2330,7 +2330,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 217894,
       "name": "Gladiators",
       "url": "https://open.spotify.com/track/6gW8KYLy55ZnszeO2TUIpu"
@@ -3723,6 +3723,24 @@
     },
     {
       "album": {
+        "name": "lucy~",
+        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118000,
+      "name": "lucy~",
+      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
+    },
+    {
+      "album": {
         "name": "Mad Hoes",
         "url": "https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT"
       },
@@ -3752,7 +3770,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194545,
       "name": "mad's world",
       "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"

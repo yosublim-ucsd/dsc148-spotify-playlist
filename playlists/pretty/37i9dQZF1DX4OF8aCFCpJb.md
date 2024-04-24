@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 
 > Det bästa från den svenska reggaescenen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,870 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,866 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,10 +43,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 33 | [Back on track](https://open.spotify.com/track/1yCqXDVbXDyF75VliHTJyv) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [MIVAS](https://open.spotify.com/artist/21xJtgcxDrr0ahUS5GIjFG), [Partillo](https://open.spotify.com/artist/1JaDm3lcNujg75Mq1mtE0u) | [Back on track](https://open.spotify.com/album/79ja6VUuZvbr0g7POJ1Xb1) | 3:34 |
 | 34 | [Min Zina](https://open.spotify.com/track/0JpkJkAD2li7buwV9dL9gu) | [Alibrorsh](https://open.spotify.com/artist/2jVINorjiDk0mkd5WZA6Tw) | [Min Zina](https://open.spotify.com/album/3drmlPE7bYAfLkxSnO2otb) | 3:16 |
 | 35 | [Bulleribock](https://open.spotify.com/track/5IKbSU96n46JOVu75evnPs) | [Kalle Baah](https://open.spotify.com/artist/2X5ppZ3lSNIvkvdn3UFgBI) | [Bråda dagar](https://open.spotify.com/album/2fYUrWZt0JQ3Ny0YdM53WR) | 4:14 |
-| 36 | [Wayback](https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3) | [O\-Hund](https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Wayback](https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B) | 3:28 |
+| 36 | [Leva](https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds) | [Issify](https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM) | [Leva](https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh) | 2:56 |
 | 37 | [Teaterapan](https://open.spotify.com/track/6uZEw8eryA76WSAST3yIiv) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Teaterapan](https://open.spotify.com/album/1GCkDBZQ9hOKUcRBfNgLTr) | 3:02 |
 | 38 | [Vår Dans](https://open.spotify.com/track/0akrglttILrVEe2ncifHsH) | [Antonio D](https://open.spotify.com/artist/4nhVPRChv24WG40x4H0eaG), [Admiral P](https://open.spotify.com/artist/2P87oRX5tCFl1PYQRbPCPD) | [Vår Dans](https://open.spotify.com/album/2BVFkcAdtAu3vAQZ3jLUS6) | 3:01 |
-| 39 | [Leva](https://open.spotify.com/track/1sAPHDjzEslM7YL6tFgRds) | [Issify](https://open.spotify.com/artist/46roUvrV8tmvJKelIEPCeM) | [Leva](https://open.spotify.com/album/2gJ3K86IBOXtF8nBeOGEKh) | 2:56 |
+| 39 | [Wayback](https://open.spotify.com/track/6YGTcacu4KeINy9uoWklT3) | [O\-Hund](https://open.spotify.com/artist/6w5waykNLa0CSprI42WPLo), [Wha Gwaan Band](https://open.spotify.com/artist/519ozfPMom8eTzU0xjRPbG) | [Wayback](https://open.spotify.com/album/0IaSh4U31HQWFr41OHdc2B) | 3:28 |
 | 40 | [Vända Trend](https://open.spotify.com/track/76ojAV1jvCHGr4kjERxAvD) | [Kiihjano](https://open.spotify.com/artist/028hbxJ2me0XInwSpPsFsT) | [Vända Trend](https://open.spotify.com/album/2gjkIVufFubK1AFtxuE3Pg) | 2:59 |
 | 41 | [Vassaste kniven i lådan](https://open.spotify.com/track/52LxPEtzRRHr2OwDvv8ZNK) | [Moncho](https://open.spotify.com/artist/6L1yXwZajCFJsGZcCIRuTc), [Lance\-a\-Lot](https://open.spotify.com/artist/2FdlSFwGHTJ6k8rcJpET0L) | [RONGO](https://open.spotify.com/album/5i0g968zy2kYVry7u9Vt8I) | 3:34 |
 | 42 | [Kommunikation](https://open.spotify.com/track/1hvDqEicCytaKVoxyuw8XH) | [WillMan](https://open.spotify.com/artist/6lBmkgJlLqV4FXbb2JFMXu) | [Kommunikation](https://open.spotify.com/album/6BQRiqwjB5mCHw9KRPi8hV) | 2:41 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OF8aCFCpJb.md) - [plain]
 | 45 | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/track/14MW91DLP58duFYEGP8q7b) | [Promoe](https://open.spotify.com/artist/6tbXwhqy3WAFqanusCLvEU) | [Sverigefiende \(Fest mot våldsgrupp\)](https://open.spotify.com/album/1jFdSfYFWx0qE3OsZ4iPjG) | 3:26 |
 | 46 | [Kär Och Galen](https://open.spotify.com/track/07F0ahK3fL9OMp6rDFAU6q) | [Jezper](https://open.spotify.com/artist/1nUDrql1pSmVp7akXTpvtF) | [Kär Och Galen](https://open.spotify.com/album/6yzMLFDLgqVkH488i7X2UN) | 3:21 |
 | 47 | [ÖPPNA DÖRREN NU](https://open.spotify.com/track/6QiJCelGcYup3VbxK0tYc1) | [Governor Andy](https://open.spotify.com/artist/6jMfbm9y64CESMB5wFtgZx) | [ÖPPNA DÖRREN NU](https://open.spotify.com/album/5HRiXThDZ9KwAxUqexOM5n) | 3:20 |
-| 48 | [Come By](https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v) | [Atso](https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN) | [Come By](https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG) | 3:19 |
-| 49 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
+| 48 | [Orginalo](https://open.spotify.com/track/5EsssUXKQWbRPSZ7M1i9kN) | [Kaliffa](https://open.spotify.com/artist/0rJEJ9T9JwC6ajdnMeqREY) | [Orginalo](https://open.spotify.com/album/0a1g53YRYvik2nmVEKqBZq) | 3:06 |
+| 49 | [Come By](https://open.spotify.com/track/6eIfJp81gBOZml7f0Z3H6v) | [Atso](https://open.spotify.com/artist/0bAwfxwkc4LppKT8SwLgbN) | [Come By](https://open.spotify.com/album/7ANw8XxxAtWEton5SsAnuG) | 3:19 |
 | 50 | [Brandman](https://open.spotify.com/track/1CFhm4s7I9zgEEAGuHHDme) | [Angelica Mava](https://open.spotify.com/artist/3DI6xghRL08MvjfQ5M73Zk) | [Brandman](https://open.spotify.com/album/5hiLVs9YzZJEukAAgq9p3f) | 3:56 |
 
 Snapshot ID: `MTcwOTg1MjQwMCwwMDAwMDAwMGFlZGRlZDA2ODQ4OTUwNTg5ODg3NGY3ZDNjNTE1ZDAx`

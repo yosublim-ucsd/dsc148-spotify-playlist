@@ -1,6 +1,6 @@
 {
   "description": "This week's handpicked new <a href=\"spotify:genre:edm_dance\">dance and electronic music</a>, featuring new music from DJ Snake and Peso Pluma",
-  "num_followers": 472190,
+  "num_followers": 472240,
   "original_name": "New Music Friday Dance",
   "owner": {
     "name": "Spotify",
@@ -571,62 +571,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Forgive Me (Live) / A Moment Apart (Live)",
-        "url": "https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV"
-      },
-      "artists": [
-        {
-          "name": "ODESZA",
-          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
-        },
-        {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
-        }
-      ],
-      "duration_ms": 243413,
-      "name": "Forgive Me (Live) (ODESZA VIP Remix)",
-      "url": "https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "SUPER FREQ",
-        "url": "https://open.spotify.com/album/4fpeEq1qtV52td9M7WcKrp"
-      },
-      "artists": [
-        {
-          "name": "Machine Girl",
-          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
-        }
-      ],
-      "duration_ms": 131500,
-      "name": "Black Glass",
-      "url": "https://open.spotify.com/track/2HWFwY4LiEqHrZ4lYdyAHG"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Stereo",
-        "url": "https://open.spotify.com/album/4l42dJOfRz9Hdh4dmvJbdY"
-      },
-      "artists": [
-        {
-          "name": "twocolors",
-          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
-        },
-        {
-          "name": "Roe Byrne",
-          "url": "https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg"
-        }
-      ],
-      "duration_ms": 166930,
-      "name": "Stereo",
-      "url": "https://open.spotify.com/track/31PeeweG94mVQsqNOLcq4B"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Don't Look Down",
         "url": "https://open.spotify.com/album/1Kp2JeEVHM9KmeQJHY5s6m"
       },
@@ -651,6 +595,46 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Stereo",
+        "url": "https://open.spotify.com/album/4l42dJOfRz9Hdh4dmvJbdY"
+      },
+      "artists": [
+        {
+          "name": "twocolors",
+          "url": "https://open.spotify.com/artist/7ACEUD7UsmmXrnj4OLt8f9"
+        },
+        {
+          "name": "Roe Byrne",
+          "url": "https://open.spotify.com/artist/6LjXRw1jZBtm5zCuorBJGg"
+        }
+      ],
+      "duration_ms": 166930,
+      "name": "Stereo",
+      "url": "https://open.spotify.com/track/31PeeweG94mVQsqNOLcq4B"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Forgive Me (Live) / A Moment Apart (Live)",
+        "url": "https://open.spotify.com/album/744Rr1mgCe7qcSiKk3eJPV"
+      },
+      "artists": [
+        {
+          "name": "ODESZA",
+          "url": "https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw"
+        },
+        {
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+        }
+      ],
+      "duration_ms": 243413,
+      "name": "Forgive Me (Live) (ODESZA VIP Remix)",
+      "url": "https://open.spotify.com/track/1knm1uDD2L258Ia1z10k2N"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Black Ice (feat. Phantogram)",
         "url": "https://open.spotify.com/album/2gnr6cs8MEKscvCwZGpRJG"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 260001,
       "name": "Black Ice (feat. Phantogram)",
       "url": "https://open.spotify.com/track/0i3NZpE5KwC70tf0GSKekx"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "SUPER FREQ",
+        "url": "https://open.spotify.com/album/4fpeEq1qtV52td9M7WcKrp"
+      },
+      "artists": [
+        {
+          "name": "Machine Girl",
+          "url": "https://open.spotify.com/artist/17Vw9uuOYB7XYjPt0LNFN0"
+        }
+      ],
+      "duration_ms": 131500,
+      "name": "Black Glass",
+      "url": "https://open.spotify.com/track/2HWFwY4LiEqHrZ4lYdyAHG"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -787,6 +787,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/0pOcSfMATUwO2BiHgy6PXq"
+      },
+      "artists": [
+        {
+          "name": "Neoni",
+          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/78zY2Ra8cPRZvZqQ02A3zH"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "MKK (feat. CowBoii, djygubzin.live & Ranger)",
         "url": "https://open.spotify.com/album/54oleTyVcaBHpknjiXFpVe"
       },
@@ -815,18 +831,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Utopia",
-        "url": "https://open.spotify.com/album/0pOcSfMATUwO2BiHgy6PXq"
+        "name": "Moments Die",
+        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
       },
       "artists": [
         {
-          "name": "Neoni",
-          "url": "https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5"
+          "name": "Joe Goddard",
+          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
+        },
+        {
+          "name": "Barrie",
+          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
         }
       ],
-      "duration_ms": 155000,
-      "name": "Utopia",
-      "url": "https://open.spotify.com/track/78zY2Ra8cPRZvZqQ02A3zH"
+      "duration_ms": 246886,
+      "name": "Moments Die",
+      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -851,26 +871,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Moments Die",
-        "url": "https://open.spotify.com/album/4g3THqLL3e4LQjglICSQl1"
-      },
-      "artists": [
-        {
-          "name": "Joe Goddard",
-          "url": "https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5"
-        },
-        {
-          "name": "Barrie",
-          "url": "https://open.spotify.com/artist/1pHO6SCEw9tuRx0IVMFL0g"
-        }
-      ],
-      "duration_ms": 246886,
-      "name": "Moments Die",
-      "url": "https://open.spotify.com/track/19DhgwtEahVgIKQmZNVs9Y"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "ACID",
         "url": "https://open.spotify.com/album/3hObmnjaub2zwiSM73tQu9"
       },
@@ -887,26 +887,6 @@
       "duration_ms": 178285,
       "name": "ACID",
       "url": "https://open.spotify.com/track/24KFdeWtel3jLwZ399zwq2"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Danger (REAPER Remix)",
-        "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
-      },
-      "artists": [
-        {
-          "name": "T & Sugah",
-          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
-        },
-        {
-          "name": "REAPER",
-          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
-        }
-      ],
-      "duration_ms": 187586,
-      "name": "Danger - REAPER Remix",
-      "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -931,6 +911,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "The Ketchup Song (Aserej\u00e9)",
+        "url": "https://open.spotify.com/album/7BPL3AJW7zXLDYXRuJaiUA"
+      },
+      "artists": [
+        {
+          "name": "Sonny Wern",
+          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
+        }
+      ],
+      "duration_ms": 145945,
+      "name": "The Ketchup Song (Aserej\u00e9)",
+      "url": "https://open.spotify.com/track/7ylQ8ujoKyIN4P7agsVBM5"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Before You Leave Me (TELYKAST Remix)",
         "url": "https://open.spotify.com/album/220lHt2TZTUYnR0HWLzK6J"
       },
@@ -951,6 +947,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Danger (REAPER Remix)",
+        "url": "https://open.spotify.com/album/55LOzhhZ8mPqiMAPW1L8W2"
+      },
+      "artists": [
+        {
+          "name": "T & Sugah",
+          "url": "https://open.spotify.com/artist/6jsS2mOTAxVrlSUWiPLXpH"
+        },
+        {
+          "name": "REAPER",
+          "url": "https://open.spotify.com/artist/24kY0bUku58QhWv5WFFXaf"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Danger - REAPER Remix",
+      "url": "https://open.spotify.com/track/2LJdaNdvgNmxnNQ7zWTgDw"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Forever",
         "url": "https://open.spotify.com/album/7dYVRv3TJsTUMxaBAUbYkC"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 159346,
       "name": "Forever",
       "url": "https://open.spotify.com/track/4XAKajSzJmpbj5yZL4PJOw"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "The Ketchup Song (Aserej\u00e9)",
-        "url": "https://open.spotify.com/album/7BPL3AJW7zXLDYXRuJaiUA"
-      },
-      "artists": [
-        {
-          "name": "Sonny Wern",
-          "url": "https://open.spotify.com/artist/2m8ROV7jEwm66LBxUNhUMt"
-        }
-      ],
-      "duration_ms": 145945,
-      "name": "The Ketchup Song (Aserej\u00e9)",
-      "url": "https://open.spotify.com/track/7ylQ8ujoKyIN4P7agsVBM5"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1059,26 +1059,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "RISE",
-        "url": "https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse"
-      },
-      "artists": [
-        {
-          "name": "Machinedrum",
-          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
-        },
-        {
-          "name": "ROZET",
-          "url": "https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY"
-        }
-      ],
-      "duration_ms": 160986,
-      "name": "RISE",
-      "url": "https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "In The Streets",
         "url": "https://open.spotify.com/album/0Q0T5P5e3FuIdSbrdkdCfE"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 107855,
       "name": "Easy Does It",
       "url": "https://open.spotify.com/track/1ftJwEtMSy2G9BOsLdCPJt"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "RISE",
+        "url": "https://open.spotify.com/album/440CPOWZ1teOzAirb7Jyse"
+      },
+      "artists": [
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "ROZET",
+          "url": "https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY"
+        }
+      ],
+      "duration_ms": 160986,
+      "name": "RISE",
+      "url": "https://open.spotify.com/track/5nUSKSLZT47iB6j48dX8mb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Close The Distance / A Matter Of Chance",
+        "url": "https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo"
+      },
+      "artists": [
+        {
+          "name": "MYRNE",
+          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
+        }
+      ],
+      "duration_ms": 355480,
+      "name": "Close The Distance",
+      "url": "https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "b Alright!",
         "url": "https://open.spotify.com/album/5RAMn1B01OH0qLutdrqgeA"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 178714,
       "name": "b Alright!",
       "url": "https://open.spotify.com/track/28ConIMlxSxD2rYtVpQM6z"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Close The Distance / A Matter Of Chance",
-        "url": "https://open.spotify.com/album/3YRlJNIUwdjOfcZlH0GpNo"
-      },
-      "artists": [
-        {
-          "name": "MYRNE",
-          "url": "https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg"
-        }
-      ],
-      "duration_ms": 355480,
-      "name": "Close The Distance",
-      "url": "https://open.spotify.com/track/4IDMl69TvBwp6uZtshUTU7"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1371,18 +1371,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "mistake ____",
-        "url": "https://open.spotify.com/album/5205kRCY7K6MWVSKWSXFU4"
+        "name": "Anymore",
+        "url": "https://open.spotify.com/album/3VEYs6GaTdS80e7fLDN39h"
       },
       "artists": [
         {
-          "name": "Mietze Conte",
-          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
+          "name": "LittGloss",
+          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
+        },
+        {
+          "name": "someone",
+          "url": "https://open.spotify.com/artist/4Npx8NwLhcrqkDYlYFCsb8"
         }
       ],
-      "duration_ms": 75266,
-      "name": "mistake ____",
-      "url": "https://open.spotify.com/track/2puZXa7tfloeoMMq86RKvY"
+      "duration_ms": 144000,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/0tHuMkP769DmAHmdxdtsu6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1403,18 +1407,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "NOPE",
-        "url": "https://open.spotify.com/album/6njyxhqm4g489876fqE1lF"
+        "name": "Goodbye",
+        "url": "https://open.spotify.com/album/4fknvi4roE6EO7E78FgoAG"
       },
       "artists": [
         {
-          "name": "Cyclops",
-          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+          "name": "XiJaro & Pitch",
+          "url": "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
+        },
+        {
+          "name": "Adara",
+          "url": "https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY"
         }
       ],
-      "duration_ms": 146571,
-      "name": "NOPE",
-      "url": "https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u"
+      "duration_ms": 188571,
+      "name": "Goodbye",
+      "url": "https://open.spotify.com/track/0dxG3l2rku53SIQjTk8ms6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1443,42 +1451,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Goodbye",
-        "url": "https://open.spotify.com/album/4fknvi4roE6EO7E78FgoAG"
+        "name": "mistake ____",
+        "url": "https://open.spotify.com/album/5205kRCY7K6MWVSKWSXFU4"
       },
       "artists": [
         {
-          "name": "XiJaro & Pitch",
-          "url": "https://open.spotify.com/artist/0CcmU1Eun8Nwb3VlOAeJUK"
-        },
-        {
-          "name": "Adara",
-          "url": "https://open.spotify.com/artist/3ZejoaXlP3oqmmTseylLDY"
+          "name": "Mietze Conte",
+          "url": "https://open.spotify.com/artist/3ETvRzzQK7ppB28GcAE8rN"
         }
       ],
-      "duration_ms": 188571,
-      "name": "Goodbye",
-      "url": "https://open.spotify.com/track/0dxG3l2rku53SIQjTk8ms6"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Anymore",
-        "url": "https://open.spotify.com/album/3VEYs6GaTdS80e7fLDN39h"
-      },
-      "artists": [
-        {
-          "name": "LittGloss",
-          "url": "https://open.spotify.com/artist/4pGKT0bADpfN9VOZvGlSz0"
-        },
-        {
-          "name": "someone",
-          "url": "https://open.spotify.com/artist/4Npx8NwLhcrqkDYlYFCsb8"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/0tHuMkP769DmAHmdxdtsu6"
+      "duration_ms": 75266,
+      "name": "mistake ____",
+      "url": "https://open.spotify.com/track/2puZXa7tfloeoMMq86RKvY"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1519,22 +1503,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Juicy Fruit",
-        "url": "https://open.spotify.com/album/46duKzhzUsB4X1wD6sUGcT"
+        "name": "NOPE",
+        "url": "https://open.spotify.com/album/6njyxhqm4g489876fqE1lF"
       },
       "artists": [
         {
-          "name": "Raredub",
-          "url": "https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4"
-        },
-        {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
         }
       ],
-      "duration_ms": 195892,
-      "name": "Juicy Fruit",
-      "url": "https://open.spotify.com/track/5628YOScWv916EzCNNDqDm"
+      "duration_ms": 146571,
+      "name": "NOPE",
+      "url": "https://open.spotify.com/track/04JSDVJbI0wlCjI5JLnI9u"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1559,6 +1539,26 @@
       "duration_ms": 331152,
       "name": "SO SICK",
       "url": "https://open.spotify.com/track/0t60TBvsTJI2TAJxpfg1iy"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Juicy Fruit",
+        "url": "https://open.spotify.com/album/46duKzhzUsB4X1wD6sUGcT"
+      },
+      "artists": [
+        {
+          "name": "Raredub",
+          "url": "https://open.spotify.com/artist/17BZfnnf7hRvdjYYwPu4x4"
+        },
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        }
+      ],
+      "duration_ms": 195892,
+      "name": "Juicy Fruit",
+      "url": "https://open.spotify.com/track/5628YOScWv916EzCNNDqDm"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "High (Musumeci Remix)",
-        "url": "https://open.spotify.com/album/6ELZzYj46Gn3831z5BNwrg"
-      },
-      "artists": [
-        {
-          "name": "Julie Pavon",
-          "url": "https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs"
-        },
-        {
-          "name": "Musumeci",
-          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
-        }
-      ],
-      "duration_ms": 316207,
-      "name": "High - Musumeci Remix",
-      "url": "https://open.spotify.com/track/1d8mYBLwqTvfSveNal4iz6"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "In My Heart",
         "url": "https://open.spotify.com/album/0I7PD1w1GFfMrk4T6wbMnC"
       },
@@ -1823,22 +1803,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Attitude",
-        "url": "https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi"
-      },
-      "artists": [
-        {
-          "name": "JSTJR",
-          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
-        }
-      ],
-      "duration_ms": 121959,
-      "name": "Attitude",
-      "url": "https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Underground",
         "url": "https://open.spotify.com/album/527W5Y119gWLehXWUhpKWo"
       },
@@ -1855,6 +1819,42 @@
       "duration_ms": 124724,
       "name": "The Underground",
       "url": "https://open.spotify.com/track/0jOwACbG0qQ7RsTf6LMic4"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Attitude",
+        "url": "https://open.spotify.com/album/68gVwHzbEyQnI7SXjBo3Pi"
+      },
+      "artists": [
+        {
+          "name": "JSTJR",
+          "url": "https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP"
+        }
+      ],
+      "duration_ms": 121959,
+      "name": "Attitude",
+      "url": "https://open.spotify.com/track/5mRiACxRm1Mc0fZlg8ZJO9"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "High (Musumeci Remix)",
+        "url": "https://open.spotify.com/album/6ELZzYj46Gn3831z5BNwrg"
+      },
+      "artists": [
+        {
+          "name": "Julie Pavon",
+          "url": "https://open.spotify.com/artist/3hFqGO0iOFkOfVWR0ydcHs"
+        },
+        {
+          "name": "Musumeci",
+          "url": "https://open.spotify.com/artist/5AezOTggHnFTiQ5AiowFBf"
+        }
+      ],
+      "duration_ms": 316207,
+      "name": "High - Musumeci Remix",
+      "url": "https://open.spotify.com/track/1d8mYBLwqTvfSveNal4iz6"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1951,22 +1951,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "TAYSIDETAPES01",
-        "url": "https://open.spotify.com/album/3zy2QxWJNZj8iAfAwlUZHI"
-      },
-      "artists": [
-        {
-          "name": "FINNfm",
-          "url": "https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE"
-        }
-      ],
-      "duration_ms": 233599,
-      "name": "Ringthebuzzer",
-      "url": "https://open.spotify.com/track/72NffWoCkgeFBfIijHSKe0"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Square One",
         "url": "https://open.spotify.com/album/0zFwc0v2F88aL7UFKYpyQf"
       },
@@ -1983,6 +1967,22 @@
       "duration_ms": 166962,
       "name": "Square One",
       "url": "https://open.spotify.com/track/15eELLYbO4xEQWWPij2uaU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "TAYSIDETAPES01",
+        "url": "https://open.spotify.com/album/3zy2QxWJNZj8iAfAwlUZHI"
+      },
+      "artists": [
+        {
+          "name": "FINNfm",
+          "url": "https://open.spotify.com/artist/0WRoMuHi5PCTTgFoW2BonE"
+        }
+      ],
+      "duration_ms": 233599,
+      "name": "Ringthebuzzer",
+      "url": "https://open.spotify.com/track/72NffWoCkgeFBfIijHSKe0"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2043,22 +2043,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Aquecimento EP",
-        "url": "https://open.spotify.com/album/3zEaqkAIfPUHxo5qGAN5hU"
-      },
-      "artists": [
-        {
-          "name": "CESRV",
-          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
-        }
-      ],
-      "duration_ms": 207428,
-      "name": "Aquecimento",
-      "url": "https://open.spotify.com/track/3irsa5RuhvXsYUvkXEbfuu"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Calma",
         "url": "https://open.spotify.com/album/5LUx7GaP2fJ3O8ylDML1Kx"
       },
@@ -2079,6 +2063,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Aquecimento EP",
+        "url": "https://open.spotify.com/album/3zEaqkAIfPUHxo5qGAN5hU"
+      },
+      "artists": [
+        {
+          "name": "CESRV",
+          "url": "https://open.spotify.com/artist/1qJG1PpAGl1FnzYyCDU7x1"
+        }
+      ],
+      "duration_ms": 207428,
+      "name": "Aquecimento",
+      "url": "https://open.spotify.com/track/3irsa5RuhvXsYUvkXEbfuu"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "I Thought It Would Never End",
         "url": "https://open.spotify.com/album/78aVBtjGo7hdkDnVbVWhES"
       },
@@ -2091,6 +2091,22 @@
       "duration_ms": 397150,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/29jpjbsZz3nsNxUlqisJaP"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "For U",
+        "url": "https://open.spotify.com/album/6aHwcfyEOFqSs0UHoETcGt"
+      },
+      "artists": [
+        {
+          "name": "Baby Weight",
+          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
+        }
+      ],
+      "duration_ms": 245454,
+      "name": "For U",
+      "url": "https://open.spotify.com/track/75pO5G1mbEPPxcLne7ag3h"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -2111,22 +2127,6 @@
       "duration_ms": 218322,
       "name": "Bassline Bounce",
       "url": "https://open.spotify.com/track/0LJxJigmlDPH5WvzuqYdoB"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "For U",
-        "url": "https://open.spotify.com/album/6aHwcfyEOFqSs0UHoETcGt"
-      },
-      "artists": [
-        {
-          "name": "Baby Weight",
-          "url": "https://open.spotify.com/artist/48OPpTnWriqiSMnOsqII4T"
-        }
-      ],
-      "duration_ms": 245454,
-      "name": "For U",
-      "url": "https://open.spotify.com/track/75pO5G1mbEPPxcLne7ag3h"
     }
   ],
   "unique_name": "New Music Friday Dance",

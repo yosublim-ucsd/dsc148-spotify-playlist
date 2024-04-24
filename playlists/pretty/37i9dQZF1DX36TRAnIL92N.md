@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 
 > High energy Techno to boost your workout.
 
-[Spotify](https://open.spotify.com/user/spotify) - 311,821 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 312,464 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,15 +33,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 23 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 |
 | 24 | [Traffic](https://open.spotify.com/track/1W9V27FifuPo99HvgYc0jz) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Traffic](https://open.spotify.com/album/04xMU08QUyeBA5Etl4kjQM) | 2:21 |
 | 25 | [Robot](https://open.spotify.com/track/1ozpkbaIyJ4lL2pUHbzTRW) | [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Robot](https://open.spotify.com/album/1qqb2o1QPUWO4mK2y5WV8A) | 3:25 |
-| 26 | [Ravarp](https://open.spotify.com/track/0abnHEEma5xkWazffnRpni) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Ravarp](https://open.spotify.com/album/6VYrX3so9Z3gquODJ6SVp8) | 3:47 |
-| 27 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
+| 26 | [You're Toxic](https://open.spotify.com/track/5Ig2RPAPLrkAkFpyr8uAPj) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [You're Toxic](https://open.spotify.com/album/5xMufmAVskrZV4Llusco8r) | 6:11 |
+| 27 | [Ravarp](https://open.spotify.com/track/0abnHEEma5xkWazffnRpni) | [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Ravarp](https://open.spotify.com/album/6VYrX3so9Z3gquODJ6SVp8) | 3:47 |
 | 28 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 |
 | 29 | [Universal Nation \- Charlotte de Witte Rework](https://open.spotify.com/track/4OrY514bfwTTtykP7s049a) | [Push](https://open.spotify.com/artist/2Xy6YLSsHR6TdBUFm5bnLR), [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso) | [Universal Nation \(Charlotte de Witte Rework\)](https://open.spotify.com/album/0xlI8P19mLSH5gPqO2UzPq) | 7:32 |
 | 30 | [Your Mind](https://open.spotify.com/track/5NZdurYcFYOg3s2YyzeVgE) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Bart Skils](https://open.spotify.com/artist/6iWBjg4b4ll4jLiParnWXT) | [Your Mind](https://open.spotify.com/album/1r6UqJJNidWeu594zRPySp) | 8:22 |
 | 31 | [You Can't Stop Us](https://open.spotify.com/track/39stAgopu3xQH0ZpEiNNw3) | [Denise Schneider](https://open.spotify.com/artist/4SEeGhPJv9I6WQl2loHMmI) | [You Can't Stop Us](https://open.spotify.com/album/2ysLpJ6RrQzrZQU3ZpO5rM) | 2:22 |
-| 32 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
+| 32 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
 | 33 | [Love Is Free](https://open.spotify.com/track/1wGXpLDlQg5ClZ2epImCEc) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU) | [Love Is Free](https://open.spotify.com/album/3veEW05WfqSbHSZWvy6Ftm) | 2:52 |
-| 34 | [Minimal](https://open.spotify.com/track/333mKnEIccxUgOwQCCTPD8) | [Deborah de Luca](https://open.spotify.com/artist/144HzhpLjcR9k37w5Ico9B) | [MNML](https://open.spotify.com/album/6p6LLo0tfRX8DqozS9n6E8) | 6:30 |
+| 34 | [Elysium](https://open.spotify.com/track/0VmJzhgE3LmfzJa1FdYHkl) | [Clap Codex](https://open.spotify.com/artist/56e9JiuPAOzwsOa8TDe3xj), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [Elysium](https://open.spotify.com/album/524kHwv2rSFladLRO8ipCw) | 4:13 |
 | 35 | [Seduction](https://open.spotify.com/track/47JBICKenLcZ2mukYVxDXx) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [The Seduction EP](https://open.spotify.com/album/0o4acAEnhuhzFfOKfNk6vh) | 3:11 |
 | 36 | [Dark Room](https://open.spotify.com/track/3JcUf6mSuB4FMUvjyhCMRP) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Dark Room](https://open.spotify.com/album/6fDBWo1qT0GlL9myaWu9fi) | 4:03 |
 | 37 | [Tiki Tiki](https://open.spotify.com/track/5ia36JG3xLvEFIJ1z4w93o) | [ANSBRO](https://open.spotify.com/artist/1zSOxtMarFja6UNU9ZZWFu) | [Tiki Tiki](https://open.spotify.com/album/6v260UdseJka96hzE3oy1d) | 6:23 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX36TRAnIL92N.md) - [plain]
 | 45 | [Affection \- Radio Edit](https://open.spotify.com/track/7dQWBRCRBhgbaRATAI6OqD) | [Felix Kröcher](https://open.spotify.com/artist/6lDsCwKwjMQAmR2ueIGUGJ) | [Affection](https://open.spotify.com/album/0Q62ehvfJy5DN51XOIVvfP) | 4:31 |
 | 46 | [Black Unicorn](https://open.spotify.com/track/1WSF0LJGwJkYejuMtyJVuA) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy) | [Club Vibes Part 05](https://open.spotify.com/album/5ad6LcmH6riZRxu4VzI7Vf) | 8:05 |
 | 47 | [About My Dreams](https://open.spotify.com/track/0esqnRo6slUc3hjqppnVAn) | [Stephan Jolk](https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM) | [About My Dreams](https://open.spotify.com/album/5IQWTaU7T5EQk6zzQZZfod) | 5:20 |
-| 48 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 |
-| 49 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
+| 48 | [We All Unite](https://open.spotify.com/track/3RuegyAnJON9JSi916xbQY) | [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB), [Celic](https://open.spotify.com/artist/0BhjRlNZHbZskFsNNpdNOf), [Sylvie Miles](https://open.spotify.com/artist/4uPM7QLSNGVm5MncolABqE) | [We All Unite](https://open.spotify.com/album/00QtrIgqvR574TbpsEjhax) | 4:04 |
+| 49 | [Inside My Head](https://open.spotify.com/track/3YR7XdHKPA21815NjqWZeB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Inside My Head](https://open.spotify.com/album/4hviWBBIv5SqDae4nljvEc) | 6:59 |
 | 50 | [Addiction \- Original Mix](https://open.spotify.com/track/5WVYs7RVxu9RyFfOMBFsxI) | [Nusha](https://open.spotify.com/artist/5jsGnMw1mnU4FfhhcXUR6Q), [Belocca](https://open.spotify.com/artist/3jcvzSheHd14vjraXHLGPN) | [Addiction](https://open.spotify.com/album/3eVU8slwm0M3yv43Xvjk4F) | 6:30 |
 
 Snapshot ID: `MTcxMjg5NDQwMCwwMDAwMDAwMDA1NTA5ZTVhNTA5ZDMyMGI3OWFlNGRiOGIxZGQ5ZmRk`

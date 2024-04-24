@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3977250,
+  "num_followers": 3970524,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2024-04-19 19:21:07",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
-    },
-    {
-      "added_at": "2024-04-19 19:21:07",
-      "album": {
         "name": "Chayanne",
         "url": "https://open.spotify.com/album/51dg2LdYMIVQqCuUBlfQsN"
       },
@@ -767,18 +751,18 @@
     {
       "added_at": "2024-04-19 19:21:07",
       "album": {
-        "name": "Entrega Total",
-        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
       },
       "artists": [
         {
-          "name": "Onda Vaselina",
-          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
         }
       ],
-      "duration_ms": 187666,
-      "name": "Te Quiero Tanto, Tanto",
-      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2024-04-19 19:21:07",
@@ -799,22 +783,38 @@
     {
       "added_at": "2024-04-19 19:21:07",
       "album": {
-        "name": "mimos",
-        "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
+        "name": "Entrega Total",
+        "url": "https://open.spotify.com/album/7fgHGpxFOYzXjITOZ2e2Ht"
       },
       "artists": [
         {
-          "name": "Nicole Zignago",
-          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
-        },
-        {
-          "name": "Camilo",
-          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+          "name": "Onda Vaselina",
+          "url": "https://open.spotify.com/artist/1T9LdtwSTDoXrbkvHtKpGw"
         }
       ],
-      "duration_ms": 186373,
-      "name": "mimos",
-      "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
+      "duration_ms": 187666,
+      "name": "Te Quiero Tanto, Tanto",
+      "url": "https://open.spotify.com/track/2S0XH9R1BVZhbcy7j9yQbx"
+    },
+    {
+      "added_at": "2024-04-19 19:21:07",
+      "album": {
+        "name": "Stop",
+        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+      },
+      "artists": [
+        {
+          "name": "Franco De Vita",
+          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+        },
+        {
+          "name": "Sin Bandera",
+          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Si la Ves (feat. Sin Bandera)",
+      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
     },
     {
       "added_at": "2024-04-19 19:21:07",
@@ -851,22 +851,22 @@
     {
       "added_at": "2024-04-19 19:21:07",
       "album": {
-        "name": "Stop",
-        "url": "https://open.spotify.com/album/4BI3oXrWF0YvtWpfYWUxeX"
+        "name": "mimos",
+        "url": "https://open.spotify.com/album/5xWjmYo1XmJWHgzxvwTbO6"
       },
       "artists": [
         {
-          "name": "Franco De Vita",
-          "url": "https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu"
+          "name": "Nicole Zignago",
+          "url": "https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP"
         },
         {
-          "name": "Sin Bandera",
-          "url": "https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87"
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
         }
       ],
-      "duration_ms": 248000,
-      "name": "Si la Ves (feat. Sin Bandera)",
-      "url": "https://open.spotify.com/track/7xVEvr9wPXLPU286pCfYM3"
+      "duration_ms": 186373,
+      "name": "mimos",
+      "url": "https://open.spotify.com/track/38KlXktvy7bu2cQULM3Thf"
     },
     {
       "added_at": "2024-04-19 19:21:07",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2024-04-19 19:21:07",
       "album": {
+        "name": "A Medio Vivir",
+        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
+      },
+      "artists": [
+        {
+          "name": "Ricky Martin",
+          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
+        }
+      ],
+      "duration_ms": 279000,
+      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
+      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
+    },
+    {
+      "added_at": "2024-04-19 19:21:07",
+      "album": {
         "name": "Todav\u00eda No",
         "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
       },
@@ -1251,22 +1267,6 @@
       "duration_ms": 198280,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
-    },
-    {
-      "added_at": "2024-04-19 19:21:07",
-      "album": {
-        "name": "A Medio Vivir",
-        "url": "https://open.spotify.com/album/4URjPTEl3KRpkzWFTvYmiM"
-      },
-      "artists": [
-        {
-          "name": "Ricky Martin",
-          "url": "https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ"
-        }
-      ],
-      "duration_ms": 279000,
-      "name": "Te Extra\u00f1o, Te Olvido, Te Amo",
-      "url": "https://open.spotify.com/track/4S1bYWrLOC8smuy8kJzxKQ"
     },
     {
       "added_at": "2024-04-19 19:21:07",

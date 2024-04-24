@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 
 > unwind with these alternative favorites and new discoveries.
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,109 likes - 125 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,057 likes - 125 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,14 +43,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 33 | [April](https://open.spotify.com/track/2tOgEHKrbZ2KekBQGIcFZZ) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [April](https://open.spotify.com/album/6EMyXFkqDM0jzADSvIIe5V) | 2:59 |
 | 34 | [Liar](https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 4:21 |
 | 35 | [Will Do](https://open.spotify.com/track/5iHK8VI9XkJJdXQHCBXeM4) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Nine Types of Light](https://open.spotify.com/album/0FvrvaVsWQ7kTdGzipW6HV) | 3:44 |
-| 36 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
-| 37 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 36 | [Purple](https://open.spotify.com/track/01WnKRbZWhZaiF5YfOVJoz) | [Wunderhorse](https://open.spotify.com/artist/41pd7r1XBRsvdxY3vHEgib) | [Cub](https://open.spotify.com/album/1QNeya5YNW3oiuUi7B54y7) | 3:22 |
+| 37 | [No Strings](https://open.spotify.com/track/2EVPJwUDXYldA6gAv00Tj6) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [No Strings](https://open.spotify.com/album/4LDOFx1Km6O5vYbN5Z3iFb) | 3:33 |
 | 38 | [Crying Over U](https://open.spotify.com/track/4f7tq7M9gHrh9fykTSDU6J) | [Medium Build](https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn) | [Crying Over U](https://open.spotify.com/album/5YCO5fV52dmvfcfYVzLjcj) | 3:54 |
 | 39 | [Heartbeat Highway](https://open.spotify.com/track/2YbJ0qJ5uqOPfLGvqMLkaK) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Heartbeat Highway](https://open.spotify.com/album/1mBlpKV5enWAZdQxBqZ96r) | 3:41 |
 | 40 | [After The Earthquake](https://open.spotify.com/track/0O5q2h0kfQD6PixL7rCHuL) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Blue Rev](https://open.spotify.com/album/1dShPPoxXfzbjFO1jIHJZz) | 3:05 |
 | 41 | [It Won't Always Be Like This](https://open.spotify.com/track/61YcJKRn2y1si5jGc7LUIN) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [It Won't Always Be Like This](https://open.spotify.com/album/5TCW5XPhG21i4XXfcYJVDg) | 4:04 |
-| 42 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
-| 43 | [Sick of Being Young](https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:59 |
+| 42 | [Sick of Being Young](https://open.spotify.com/track/0slTKYvwZHbjpzMANF4QwT) | [Krooked Kings](https://open.spotify.com/artist/6PbMwLmbus5mZl93tX1lXE) | [All Out of Good Days](https://open.spotify.com/album/5p1jramEN1hRiQeCFpok1S) | 2:59 |
+| 43 | [Rescue Me](https://open.spotify.com/track/7j4xf3LLFtAupXBAxgIde2) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Rescue Me](https://open.spotify.com/album/6WcG7TieHbllhLcjHNHRh8) | 2:52 |
 | 44 | [What Now](https://open.spotify.com/track/1WAjkljaKkFILaxlsGlSfh) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [What Now](https://open.spotify.com/album/79MPzNLyjgol1RfGZDZLH2) | 3:46 |
 | 45 | [F\*ck My Life Up Again](https://open.spotify.com/track/4L9VTwdne2g1k8aBsgT9Zv) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [F\*ck My Life Up Again](https://open.spotify.com/album/5NRQZLhu0vIxZqSI5pUh1g) | 4:18 |
 | 46 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 61 | [Lazy Eye](https://open.spotify.com/track/7eZyj92v6bZsoQ85MxWZsO) | [Silversun Pickups](https://open.spotify.com/artist/6qyi8X6MdP1lu6B1K6yh3h) | [The Singles Collection](https://open.spotify.com/album/2m0063PKiyLZ0NQNEOhzHv) | 5:54 |
 | 62 | [Oregon](https://open.spotify.com/track/0Z250T6pdgYBawnGvmAY13) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Oregon / Harvard](https://open.spotify.com/album/1JLuplmuYwh4sgCitKhB8I) | 3:18 |
 | 63 | [Psychos](https://open.spotify.com/track/4CaM2lWgvmWLIBDOkJCD7p) | [Jenny Lewis](https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED) | [Psychos](https://open.spotify.com/album/0siRBdRYz6ECU6EZArzbx1) | 3:05 |
-| 64 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
-| 65 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 |
+| 64 | [The World Ender](https://open.spotify.com/track/3NNimGud58iHka1LHkda6D) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Strange Trails](https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS) | 4:30 |
+| 65 | [Pepper](https://open.spotify.com/track/5p0bEz7DNsULez2X9yrNGa) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [Asphalt Meadows](https://open.spotify.com/album/2PIWPTOIxbaVSjTnc30vXS) | 2:48 |
 | 66 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 67 | [Impossible](https://open.spotify.com/track/547VvUJcGmn26XJwHNueOa) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Impossible](https://open.spotify.com/album/1iErEjieuf47K2k7KymkQq) | 4:08 |
 | 68 | [Run To The Moon](https://open.spotify.com/track/03tXFHO65orOSnHlEDf0JK) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Run To The Moon](https://open.spotify.com/album/5OUIMs7DlmNEY1ia8IVQfs) | 3:45 |
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9xHlDa5fc6.md) - [plain]
 | 113 | [See You When The End's Near](https://open.spotify.com/track/59Bpb4X8kW3W6AesikWFoi) | [Day Wave](https://open.spotify.com/artist/4ptJIIR10UVlGjN0VntFaK), [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [Pastlife](https://open.spotify.com/album/2uEcfaomYrfuwGz4ikMU8a) | 3:52 |
 | 114 | [Nervous System](https://open.spotify.com/track/1F4bLAgSwZkU5VEVSGyhzB) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Nervous System](https://open.spotify.com/album/2tqcwbNuovDs9h1wuQ5vTr) | 2:37 |
 | 115 | [Honey](https://open.spotify.com/track/52h6tJhAz9MDyS8MSIDeIP) | [Magic Man](https://open.spotify.com/artist/6ejhZKxWJr9apHAzj74DHv) | [Before the Waves](https://open.spotify.com/album/1UBdVrk0aaya4VX1r0r3Un) | 3:43 |
-| 116 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
-| 117 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 |
+| 116 | [Minimum Wage](https://open.spotify.com/track/1Cgin6oAvA4hvqmRvnRR1v) | [Blondes](https://open.spotify.com/artist/7GRJzNqBhBrhB9axaHsLlP) | [Minimum Wage](https://open.spotify.com/album/4uKDcWQqRuf4W7wrdtgzwp) | 3:16 |
+| 117 | [Fruit](https://open.spotify.com/track/5n3NzdPWuSsRbYEObAdXqr) | [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm) | [Fruit](https://open.spotify.com/album/7sgoUuA9bA0lJYSw1PgbkT) | 3:24 |
 | 118 | [Aeroplane](https://open.spotify.com/track/254t0ZC71gtdAGTinIGTwV) | [Leon of Athens](https://open.spotify.com/artist/5yiBeJaPO9FPgplB6HpGg0) | [Xenos](https://open.spotify.com/album/1hCLthnc6Q0zrfJxknU93h) | 3:16 |
 | 119 | [Mr\. 29](https://open.spotify.com/track/168fmRRPvlRujqdnO6LgZl) | [Wingtip](https://open.spotify.com/artist/1Eie0tY91rpi7Y0jtIOXzI) | [Mr\. 29](https://open.spotify.com/album/3pPQuXK5HoZrQphE7RLAMR) | 3:18 |
 | 120 | [Killer Queen \(What I Need\)](https://open.spotify.com/track/02RJ5dskUzptI7vFRMKw3J) | [Goldpark](https://open.spotify.com/artist/410AZAjsHSKP8VDsYcU47z), [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Killer Queen \(What I Need\)](https://open.spotify.com/album/1tHCJdeRE4oRYKd93t1XCy) | 3:18 |

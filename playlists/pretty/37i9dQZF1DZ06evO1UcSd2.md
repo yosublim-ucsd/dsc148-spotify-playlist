@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 
 > This is Lenin Ramírez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,571 likes - 51 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,568 likes - 51 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 23 | [Estrenando Amante](https://open.spotify.com/track/39hRwctyqnnEsXttaJGKyQ) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Estrenando Amante](https://open.spotify.com/album/6OTgNYYTX9V9VwlK1swNVw) | 2:48 |
 | 24 | [Hierba de Receta](https://open.spotify.com/track/3ohXKHyHxxuXo8UsRL3h17) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv), [Oscar Cortez](https://open.spotify.com/artist/6sCLeqbuK4nOWjcMRb10Gp) | [Hierba de Receta](https://open.spotify.com/album/7glBSqst3BW6aFpUgwlr9g) | 3:13 |
 | 25 | [Aquiles el de Tijuana \(En Vivo\)](https://open.spotify.com/track/2Cv7yRcIgMP53Hv7AuDLt4) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Banda Renovacion](https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk) | [En Vivo](https://open.spotify.com/album/3OoDAWDsVyaDZYgvfv9ebT) | 3:08 |
-| 26 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
-| 27 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
+| 26 | [Eso Es La Riqueza](https://open.spotify.com/track/1Z4rfBr27XeDxzXgxQgug2) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Eso Es La Riqueza](https://open.spotify.com/album/33mlZqWzDXoOS26N9XMnT3) | 2:54 |
+| 27 | [Un Frisian Llamado El Centenario \- En Vivo](https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [En Vivo Desde Mi Ranchito](https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs) | 4:30 |
 | 28 | [Cuento Chino](https://open.spotify.com/track/6OWvsepTLKpWUr0TBnoxUe) | [Revolver Cannabis](https://open.spotify.com/artist/7a3g8JUF8iipgP1BCEsm4I), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Joyas Sierreñas Con Revolver Cannabis](https://open.spotify.com/album/7nsTTrGdNVETgpwztBfpF6) | 4:00 |
 | 29 | [Cómo Los Vaqueros](https://open.spotify.com/track/6WyjQBsZayrE7ZK1HwORI0) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Bendecído](https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu) | 3:18 |
 | 30 | [Mi 45 \- En Vivo](https://open.spotify.com/track/3WDIjzI7arvMScPaPc5sSw) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Jesus Payan](https://open.spotify.com/artist/0vZ2W0xkBCHRGNkb8seYtQ) | [Mi 45 \(En Vivo\)](https://open.spotify.com/album/3eFOp5MvOEWuVGEoyoKSkz) | 2:36 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1UcSd2.md) - [plain]
 | 50 | [Los Panteras Del 08](https://open.spotify.com/track/1EAfSKTIVlFOLHpbXIq5pt) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Chicho Castro y Sus Alia2](https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC) | [Bien Positivo](https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv) | 2:51 |
 | 51 | [Las Hazañas de Mi Vida](https://open.spotify.com/track/7gUcVowWzzVpgemedRbJLI) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Golpe De Guerra](https://open.spotify.com/artist/0QPszxtOMuPoAcAU4yyt2V) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 2:47 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGZjMjJkYjgzN2FmYTRlODc2YTE5MTI5OWJlNWU0MTFh`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGQ3YTlkYTczZDQyYzRjM2U2OTYyYmM2MDM1MDhkMzZi`

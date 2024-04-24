@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 149067,
+  "2024-04-24": 149134,
   "date_first_scraped": "2022-08-06",
-  "description": "This is Stevie Ray Vaughan. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
   "name": "This Is Stevie Ray Vaughan",
   "tracks": [
     {
@@ -39,6 +39,28 @@
       "duration_ms": 427066,
       "name": "Albert's Shuffle - Live",
       "url": "https://open.spotify.com/track/6aqeVjcTX2ivUtPjr0xocT"
+    },
+    {
+      "album": {
+        "name": "In Session",
+        "url": "https://open.spotify.com/album/0NVSx5grH054ZMpiOYieyb"
+      },
+      "artists": [
+        {
+          "name": "Albert King",
+          "url": "https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o"
+        },
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302640,
+      "name": "Ask Me No Questions",
+      "url": "https://open.spotify.com/track/2lLsxW07QzVfneL7Ov2bIT"
     },
     {
       "album": {

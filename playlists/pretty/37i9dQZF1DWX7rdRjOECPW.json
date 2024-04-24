@@ -1,6 +1,6 @@
 {
   "description": "Sommer, Sonne, Lieblingshits  \u2600\ufe0f",
-  "num_followers": 1505552,
+  "num_followers": 1505340,
   "original_name": "Sommerhits 2024",
   "owner": {
     "name": "Spotify",
@@ -279,8 +279,8 @@
     {
       "added_at": "2024-04-09 16:01:25",
       "album": {
-        "name": "Baby Don't Hurt Me",
-        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
+        "name": "I Don't Wanna Wait",
+        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
       },
       "artists": [
         {
@@ -288,17 +288,13 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Anne-Marie",
-          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
-        },
-        {
-          "name": "Coi Leray",
-          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
         }
       ],
-      "duration_ms": 140017,
-      "name": "Baby Don't Hurt Me",
-      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
+      "duration_ms": 149667,
+      "name": "I Don't Wanna Wait",
+      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
     },
     {
       "added_at": "2024-04-09 16:01:25",
@@ -415,8 +411,8 @@
     {
       "added_at": "2024-04-09 16:01:25",
       "album": {
-        "name": "I Don't Wanna Wait",
-        "url": "https://open.spotify.com/album/0wCLHkBRKcndhMQQpeo8Ji"
+        "name": "Baby Don't Hurt Me",
+        "url": "https://open.spotify.com/album/327tc3Eruk1HP1w62iqROy"
       },
       "artists": [
         {
@@ -424,13 +420,17 @@
           "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "OneRepublic",
-          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        },
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
         }
       ],
-      "duration_ms": 149667,
-      "name": "I Don't Wanna Wait",
-      "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
+      "duration_ms": 140017,
+      "name": "Baby Don't Hurt Me",
+      "url": "https://open.spotify.com/track/3BKD1PwArikchz2Zrlp1qi"
     },
     {
       "added_at": "2024-04-09 16:01:25",
@@ -551,26 +551,6 @@
     {
       "added_at": "2024-04-09 16:01:25",
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Musa Keys",
-          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
-        }
-      ],
-      "duration_ms": 169911,
-      "name": "UNAVAILABLE (feat. Musa Keys)",
-      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
-    },
-    {
-      "added_at": "2024-04-09 16:01:25",
-      "album": {
         "name": "Happier (feat. Clementine Douglas)",
         "url": "https://open.spotify.com/album/5Tuzxg7Wwhx4ydYsxFsd7o"
       },
@@ -587,6 +567,26 @@
       "duration_ms": 170358,
       "name": "Happier (feat. Clementine Douglas)",
       "url": "https://open.spotify.com/track/1TcF5F10EN17vraisG1gQv"
+    },
+    {
+      "added_at": "2024-04-09 16:01:25",
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Musa Keys",
+          "url": "https://open.spotify.com/artist/414pDI8Y502owCbg7U6Skf"
+        }
+      ],
+      "duration_ms": 169911,
+      "name": "UNAVAILABLE (feat. Musa Keys)",
+      "url": "https://open.spotify.com/track/2kaH2Z8ezDUKf6fNw250rZ"
     },
     {
       "added_at": "2024-04-09 16:01:25",
@@ -687,26 +687,6 @@
     {
       "added_at": "2024-04-09 16:01:25",
       "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
-      },
-      "artists": [
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        }
-      ],
-      "duration_ms": 147986,
-      "name": "Forget You",
-      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
-    },
-    {
-      "added_at": "2024-04-09 16:01:25",
-      "album": {
         "name": "Weekends",
         "url": "https://open.spotify.com/album/68Ph2nuIeP3e0vzRxrUmkh"
       },
@@ -723,6 +703,26 @@
       "duration_ms": 127003,
       "name": "Weekends",
       "url": "https://open.spotify.com/track/3JlHRjPt2TNB9h7VFf0im2"
+    },
+    {
+      "added_at": "2024-04-09 16:01:25",
+      "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6"
+      },
+      "artists": [
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        }
+      ],
+      "duration_ms": 147986,
+      "name": "Forget You",
+      "url": "https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow"
     },
     {
       "added_at": "2024-04-09 16:01:25",

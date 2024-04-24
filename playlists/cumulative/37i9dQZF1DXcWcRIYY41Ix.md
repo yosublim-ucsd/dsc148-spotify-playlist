@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del Siglo XXI\. En portada: Sebastián Romero.
 
-575 songs - 1 day 10 hr 31 min
+576 songs - 1 day 10 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [Hasta la Raíz](https://open.spotify.com/track/3lGMtkONrZdJ8kTCg6KIFf) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 3:41 | 2021-12-24 | 2024-01-13 |
 | [Hasta La Raíz](https://open.spotify.com/track/5OYKJlZTMQvAX8kEJ1R60y) | [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0) | [Maestra Vida](https://open.spotify.com/album/08wJCaKI1iUCFObnucLK25) | 6:20 | 2023-01-06 | 2023-02-18 |
 | [Hay un Camino](https://open.spotify.com/track/6t0sjM2OIAdGs50EmFGu9X) | [Nando Agüeros](https://open.spotify.com/artist/6ABav84uUmY0ykSMNJ1bQ5), [Sofia Ellar](https://open.spotify.com/artist/0zuqz96cs1dQcxc2FpLPcR) | [Hay un Camino](https://open.spotify.com/album/4W0tG8gS7GrpI34322mw1t) | 3:36 | 2021-12-24 | 2022-03-02 |
-| [Herba de Namorar](https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Herba de Namorar](https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB) | 2:59 | 2021-12-24 |  |
+| [Herba de Namorar](https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6) | [Antía Muíño](https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1) | [Herba de Namorar](https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB) | 2:59 | 2021-12-24 | 2024-04-24 |
 | [Heridas \- Acoustic Version](https://open.spotify.com/track/2hqgGbTxWK7fToF9QELlgD) | [Cata Raybaud](https://open.spotify.com/artist/4CSP9JAlJTUjWGkTrlX03I), [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Heridas \(Acoustic Version\)](https://open.spotify.com/album/7FKndOez6kYh87LWvgdB4p) | 3:16 | 2023-09-29 | 2023-12-14 |
 | [Hierbas](https://open.spotify.com/track/5sero0jyQpKivJPdul9dl9) | [Amapola](https://open.spotify.com/artist/6KbbMdTNtlT7RRM81IvLr5) | [Hierbas Para la Tristeza](https://open.spotify.com/album/5ImwTLryEGcXAZ5XTKu7kK) | 2:46 | 2022-11-25 | 2022-12-20 |
 | [Hoy no tengo nada que hacer](https://open.spotify.com/track/4ZhM1JjdSSJs0QVv7EDcBu) | [Ombligo](https://open.spotify.com/artist/0xNRgIAgqBPH7ALZjiRA4y), [La Pena](https://open.spotify.com/artist/2N5vNzy9TV52uCwVpvs2eM) | [Hoy no tengo nada que hacer](https://open.spotify.com/album/7beLtij36C7qfuqwwdoqhQ) | 4:11 | 2024-03-01 |  |
@@ -580,6 +580,7 @@
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2022-03-04 |  |
 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 | 2021-12-24 |  |
 | [Ámbar y el Mar](https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9) | [Íñigo Merino](https://open.spotify.com/artist/4RcxB8P0t3Pz6gaOHTFgWm), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Lo de Dentro](https://open.spotify.com/album/02brbroQgEfCvcefeXoFBe) | 3:52 | 2022-02-04 | 2022-05-26 |
+| [Ángeles](https://open.spotify.com/track/1rLKzfFAUwUXlWK5ocaD7m) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Ángeles](https://open.spotify.com/album/7FeTKiOKGu7URr1mxjLMzs) | 3:44 | 2024-04-19 |  |
 | [Ícaro \- Versión Acústica](https://open.spotify.com/track/4M0NSb0yhgjdLnUIBnMlhE) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Ícaro \(Versión Acústica\)](https://open.spotify.com/album/75vWmeMVI6mIJZSMAGxKSs) | 3:33 | 2023-09-29 | 2023-11-11 |
 | [Íñigo](https://open.spotify.com/track/0Pscsul02roXTyhTEbQO6K) | [Andrea Buenavista](https://open.spotify.com/artist/2V9QbUdBxfYCfkjvDePoRU) | [Íñigo](https://open.spotify.com/album/1j3vaKt2UO7QLAHDJGCK6K) | 1:02 | 2023-06-30 | 2023-07-29 |
 | [Último Aliento](https://open.spotify.com/track/3osCap9ViWOWhYk8FOWZdZ) | [Mateo Kingman](https://open.spotify.com/artist/223se9o877Y4jHzwlDcGNx), [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt) | [Último Aliento](https://open.spotify.com/album/7KrLy9OeOkkP4dEnsRjh7t) | 4:10 | 2021-12-24 | 2022-05-08 |

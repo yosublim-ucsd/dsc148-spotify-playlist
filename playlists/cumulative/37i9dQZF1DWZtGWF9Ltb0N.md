@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes to dive into.
 
-581 songs - 1 day 17 hr 17 min
+582 songs - 1 day 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Gassed Up \- IMANU Remix](https://open.spotify.com/track/4ewD29TNuL4ph7gCp2xdKP) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Subtronics](https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4), [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1) | [ANTIFRACTALS](https://open.spotify.com/album/0XDUYwgZnjw3SdlxsVXl5S) | 2:58 | 2023-01-20 |  |
 | [Generation Sound](https://open.spotify.com/track/6ZBHdFUvqhX2px4mcmxUjP) | [Jack Sparrow](https://open.spotify.com/artist/6iI4RUhF2HROnohuxUKfzR) | [My Religion EP](https://open.spotify.com/album/3IynPUiKNPQ6SeEJ3Uze8x) | 5:08 | 2022-12-16 |  |
 | [Get Loose](https://open.spotify.com/track/6fFnLNiQpvoihWr9EyujET) | [Chad Dubz](https://open.spotify.com/artist/3lyLUYni8vVP6VyzENRhdd) | [Mount Weed LP](https://open.spotify.com/album/2hbpxyM2kIstkLqEPXFYpI) | 3:40 | 2022-02-17 | 2022-07-29 |
+| [gettin' paid](https://open.spotify.com/track/7qUwecBo7pGbsY7PaD8iB3) | [sfam](https://open.spotify.com/artist/571ojpVCIGwAp4c1LV8yxI), [Super Future](https://open.spotify.com/artist/6Xri2X6xp5SDLr08hva6Bb) | [not playin' EP](https://open.spotify.com/album/3tbdNXEVNYwx4fnWHeSNPA) | 2:10 | 2024-04-19 |  |
 | [Ghettotech](https://open.spotify.com/track/62LoTbvmEMzJ8DowiHyb94) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Ghettotech/ Trouble Pending](https://open.spotify.com/album/4PSDk9zEbNh3Uak89RHgJE) | 5:11 | 2022-07-08 | 2022-07-30 |
 | [Ghettotech](https://open.spotify.com/track/748N1AaB3nuN42bC9bHWQT) | [Saule](https://open.spotify.com/artist/7oCas0sTR8sRH5lrOed0E8) | [Ghettotech/ Trouble Pending](https://open.spotify.com/album/5LRHbiimE2G34z0rd2qvIn) | 5:11 | 2022-02-17 | 2022-07-29 |
 | [Ghost Castle](https://open.spotify.com/track/0dJMeuSxovXw4jnrN3BC98) | [Reso](https://open.spotify.com/artist/4tgLpC6rPhMSBH6hKgUVrj) | [Hatched 27](https://open.spotify.com/album/76HHvV4JYCLD4h5GOcix6g) | 4:00 | 2022-07-08 | 2024-03-16 |
@@ -419,7 +420,7 @@
 | [Ripper](https://open.spotify.com/track/1PsWZXdjF9Wprodd5u4F6n) | [Mr\. Carmack](https://open.spotify.com/artist/4OHaWpWPKDcZgOOUn9elFn), [Shanghai Doom](https://open.spotify.com/artist/0663ucUX5KdVY18dEYe0KC) | [Ripper](https://open.spotify.com/album/5D5kHZyrBy45ryggx31az3) | 3:30 | 2022-08-19 |  |
 | [Roots Dub](https://open.spotify.com/track/0yrcb1cwkgheJ7jEcTMwsh) | [The Widdler](https://open.spotify.com/artist/3SCAEdZEfpatrvdFeDLD2p) | [Roots \- EP](https://open.spotify.com/album/1wLirC220sMgkHxPrwN3M2) | 4:20 | 2022-02-17 |  |
 | [Roots Music](https://open.spotify.com/track/47Q2U9ao1PdM1VAYz0eVUl) | [Dubbacle](https://open.spotify.com/artist/6XXAt80nWrZ5Dct2rRGwbu) | [Reflection](https://open.spotify.com/album/4NJkW6VbUmNqGTnSEATqJl) | 4:37 | 2022-02-17 | 2023-09-18 |
-| [Rude Gyal](https://open.spotify.com/track/1oBhvIDddwBZ9LfaySy7Zl) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Rude Gyal](https://open.spotify.com/album/3umlnsUaYmv4moxipAq3LX) | 3:10 | 2023-05-12 |  |
+| [Rude Gyal](https://open.spotify.com/track/1oBhvIDddwBZ9LfaySy7Zl) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [Watson](https://open.spotify.com/artist/25qmeRJcYUyBT19rjsNTyv) | [Rude Gyal](https://open.spotify.com/album/3umlnsUaYmv4moxipAq3LX) | 3:10 | 2023-05-12 | 2024-04-24 |
 | [Rumble](https://open.spotify.com/track/1GfBLbAhZUWdseuDqhocmn) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Rumble](https://open.spotify.com/album/6YVJQPJNzHbqgBblpMSPUi) | 2:26 | 2023-01-06 |  |
 | [Run Dat](https://open.spotify.com/track/1xHsySi8kU04XdtDXsEzzS) | [Bleeder](https://open.spotify.com/artist/1xc1weRFEPsBERQLS2l3Db), [Ghostek](https://open.spotify.com/artist/4T9kncPJWtzxAgq6ewWrRc), [iBenji](https://open.spotify.com/artist/1pd8yskXJ1sLlE3GANBzOX) | [Run Dat](https://open.spotify.com/album/4RnmseCEn1BuhsH2WpL0Fp) | 3:00 | 2022-11-18 | 2023-07-03 |
 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 | 2024-04-12 |  |

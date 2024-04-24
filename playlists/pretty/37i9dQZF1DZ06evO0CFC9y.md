@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 
 > This is AFI\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,783 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,792 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0CFC9y.md) - [plain]
 | 42 | [Too Shy To Scream](https://open.spotify.com/track/730q5VwyabgCKDONwUX7Lt) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:56 |
 | 43 | [Still A Stranger](https://open.spotify.com/track/1HaO9YHxYtAtvNcyBidxqE) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [AFI \(The Blood Album\)](https://open.spotify.com/album/48SrarUhE6csdPsGbTAgEl) | 2:49 |
 | 44 | [The Last Kiss](https://open.spotify.com/track/6oDscaJdXFtRKk1G7cCcjf) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 3:02 |
-| 45 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
-| 46 | [Trash Bat](https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Trash Bat](https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp) | 2:07 |
+| 45 | [Trash Bat](https://open.spotify.com/track/5UCqBBx9IGx47H6ajPf1Dz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Trash Bat](https://open.spotify.com/album/0K3uis69NoWrhvqurTc8mp) | 2:07 |
+| 46 | [Perfect Fit](https://open.spotify.com/track/4HZOxAJRr86gp0HmyiAUSB) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Very Proud of Ya](https://open.spotify.com/album/4dYattOOIsbTMixAt7eZ0a) | 1:58 |
 | 47 | [Far Too Near](https://open.spotify.com/track/6AW7A6Z0HPhR5aO6k0zvtz) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Bodies](https://open.spotify.com/album/4TzAos9wqaw4j3cnE0yhr3) | 2:48 |
 | 48 | [Strength Through Wounding](https://open.spotify.com/track/6I3ICkKo3D5oOPitKYZS65) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Black Sails In The Sunset](https://open.spotify.com/album/05vHKNdCinN1q1emA34zNY) | 1:33 |
 | 49 | [Keeping Out Of Direct Sunlight \(An Introduction\)](https://open.spotify.com/track/3BCOkZIixxoz478EDfVr1Z) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Shut Your Mouth And Open Your Eyes](https://open.spotify.com/album/29vCfkN4H8HTljOKC2aKgB) | 0:58 |
 | 50 | [Veronica Sawyer Smokes](https://open.spotify.com/track/6SN4qm8A1aQNvZm52dLAvu) | [AFI](https://open.spotify.com/artist/19I4tYiChJoxEO5EuviXpz) | [Crash Love \(Deluxe\)](https://open.spotify.com/album/3bvsBOFhdRGsvEwIdRoWZz) | 2:44 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGMzMDA1MzQ1ZDE2ZGI1NTU4ZTdlN2U0OWJkNjA3MjE1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGU1MTg4NjZjYWJlODc1OTI0NjlhNTk4MjQ2ZWU1YTI2`

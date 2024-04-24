@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 
 > 100% ska en español\. Tomo Como Rey en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,839 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,770 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 33 | [Es Por Ti](https://open.spotify.com/track/3UYYwbchCP47jl2Q9tAhMc) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Inspector](https://open.spotify.com/album/3q5bV5Fq3XEzbW5a0mAfcB) | 3:35 |
 | 34 | [Total](https://open.spotify.com/track/2y0ee1wuzrrZmBTZw2ztaa) | [La Tremenda Korte](https://open.spotify.com/artist/0052sLPmKyG6ou86BEhYjt) | [Frecuencia Rebelde](https://open.spotify.com/album/7AWov5AzYW9qMUaX6VKrcj) | 3:16 |
 | 35 | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz) | [Despistaos](https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [Estoy aquí \(feat\. La Pegatina\)](https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL) | 2:56 |
-| 36 | [Vete Por Donde Viniste](https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Vete Por Donde Viniste](https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n) | 3:07 |
-| 37 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
+| 36 | [El Último Ska](https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK) | [Panteon Rococo](https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5), [Dub Inc](https://open.spotify.com/artist/0fSuChlRe8ZYtVFYDoG87U) | [El Último Ska](https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0) | 4:34 |
+| 37 | [Vete Por Donde Viniste](https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Vete Por Donde Viniste](https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n) | 3:07 |
 | 38 | [Que Corran](https://open.spotify.com/track/54XgbXUqrmXVG7D4QfpQy1) | [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Circología](https://open.spotify.com/album/59wgQxKgwb9vnpurJ7DSb7) | 2:59 |
 | 39 | [Calaveras y Diablitos](https://open.spotify.com/track/67VY2M8IZedcXJcy8LG5EH) | [Los Fabulosos Cadillacs](https://open.spotify.com/artist/2FS22haX3FYbyOsUAkuYqZ) | [Fabulosos Exitos](https://open.spotify.com/album/2V9za0PRp46NAZvSEs3hxU) | 4:24 |
 | 40 | [Fantasma de la Rana](https://open.spotify.com/track/4k8A9pwl4R562JnNnRSjnL) | [Sekta Core](https://open.spotify.com/artist/5LC0MKU3oZiBjYJST5L7tc) | [Morbo's Club](https://open.spotify.com/album/2dxTHV18q8BIwlvZpuCK2v) | 3:57 |
@@ -85,9 +85,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdNw9eeM3mpo.md) - [plain]
 | 75 | [Rebeldía](https://open.spotify.com/track/2vEX0C5ShNHFvb2eR7FQrh) | [The Locos](https://open.spotify.com/artist/1Z4sHcpzg0xnN8X3WYzvgx) | [Rebeldía](https://open.spotify.com/album/0L2eVylvt7VTyArK33f3Ze) | 3:52 |
 | 76 | [A partir de ahí](https://open.spotify.com/track/1FMsxyf8w9PnhcA6POZ0vV) | [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK) | [A medio camino](https://open.spotify.com/album/3LIlsKOlDzWYosREO60Cgs) | 2:52 |
 | 77 | [Recuerdos](https://open.spotify.com/track/6QHnH11jTlVTOdj9qCHdca) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Mugre](https://open.spotify.com/album/7m1xaFKbxSZ4WqloFc4835) | 3:42 |
-| 78 | [El Diablo](https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [El Diablo](https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW) | 2:22 |
-| 79 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
-| 80 | [Corrupción Ska](https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Revolusound Contra Sistema](https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH) | 3:04 |
+| 78 | [La Caída y la Gloria](https://open.spotify.com/track/5A1tWza8ztAzZSgvhZzdXe) | [Los Victorios](https://open.spotify.com/artist/0lUm3jq72pD9UrZJN0h0aj) | [5 Años Con Sabor a 20](https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY) | 2:17 |
+| 79 | [Corrupción Ska](https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX) | [El Gran Silencio](https://open.spotify.com/artist/6pWTPhk1AtVfNmkaeXXVpD) | [Revolusound Contra Sistema](https://open.spotify.com/album/6ttamnxtAQ0pSALD625bUH) | 3:04 |
+| 80 | [El Diablo](https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b) | [Out Of Control Army](https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy), [Kotardo](https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P) | [El Diablo](https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW) | 2:22 |
 | 81 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
 | 82 | [Que Se Joda el Amor](https://open.spotify.com/track/1V8NAzFN4MsVo1mOcHOOYO) | [Los De Abajo](https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW) | [Que Se Joda el Amor](https://open.spotify.com/album/0zOcy4urH5uwcHuvpGhDSt) | 2:31 |
 | 83 | [Caras y Caretas](https://open.spotify.com/track/47kBOKD9VqU9FbXQsAid2O) | [Los Calzones](https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc) | [Chamuyo](https://open.spotify.com/album/4P2ErEkuOfYcbNX8SJu3Wr) | 3:10 |

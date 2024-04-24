@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Josh Abbott Band
 
-612 songs - 1 day 12 hr 27 min
+613 songs - 1 day 12 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,7 +87,7 @@
 | [Breaking News](https://open.spotify.com/track/66cdCIrACw7lCLjeUQKx6v) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Breaking News](https://open.spotify.com/album/5cMBd65MGVa8H7sEt9Y8Li) | 3:40 | 2022-04-15 | 2023-11-05 |
 | [Breaking News](https://open.spotify.com/track/7d9gF9B10bhRGsYOSlWhXX) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Boy From Anderson County To The Moon](https://open.spotify.com/album/1mnpdIkHiYcpvvCFQBaUrr) | 3:40 | 2023-11-03 | 2024-04-19 |
 | [Bridges to Burn](https://open.spotify.com/track/0wC4KXkDpSPnwmGjp1Wopt) | [Nick Hickman](https://open.spotify.com/artist/54dy3kYqGy3V4obgZZP08h) | [Bridges To Burn](https://open.spotify.com/album/1WG4fgaNMXbxbsbjJR1X6G) | 3:10 | 2023-09-22 | 2023-11-10 |
-| [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 | 2022-10-01 |  |
+| [Bring You Down](https://open.spotify.com/track/0aI0CjHskW0LhHVSIoNXET) | [The Lowdown Drifters](https://open.spotify.com/artist/49tymMExHfzPYTfTRA3FaG), [Taylor Hunnicutt](https://open.spotify.com/artist/6lcCm7ycq5rTBls6WNxDZp) | [Cheating On A Memory, Chapter 3](https://open.spotify.com/album/36DYqh63Xt8VWishLELknB) | 3:55 | 2022-10-01 | 2024-04-24 |
 | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/track/4AMELibNEGPOQOFNfkdvZj) | [Jack Ingram](https://open.spotify.com/artist/7HNEfHmDlFofG6YnMt8G7N) | [Bruised Orange \(Chain of Sorrow\)](https://open.spotify.com/album/5pBKLo2o48EUjRjWiFUmhE) | 3:50 | 2021-12-17 | 2022-01-22 |
 | [Buckle of the Bible Belt](https://open.spotify.com/track/03zP9TiVkMyNul9NArPx6R) | [Grace Tyler](https://open.spotify.com/artist/7rJg0c4D0Xu1TtLmkaEMDH) | [Buckle of the Bible Belt](https://open.spotify.com/album/1dkJmdPnl2W9WoQgrkXFlD) | 3:00 | 2022-08-12 | 2023-03-25 |
 | [Build You a Bar](https://open.spotify.com/track/5ipv5YkZIyYCW6h7zjfjKs) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Build You a Bar](https://open.spotify.com/album/3cJepIdRwtbAUJYzTykBQK) | 3:48 | 2022-04-08 | 2022-08-10 |
@@ -174,6 +174,7 @@
 | [Easy on the Eyes](https://open.spotify.com/track/0xMz97Xa2QhmY6mAZqGTf5) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/3BRywwUQdsv5iFBZ9LajTg) | 3:35 | 2022-05-27 | 2023-01-20 |
 | [Easy on the Eyes](https://open.spotify.com/track/5dE2CsXCL0Nvg8qG7NUKg1) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Heaven Down Here](https://open.spotify.com/album/7sabls2pdbgDGN05k9yAIq) | 3:35 | 2023-01-20 | 2024-04-19 |
 | [El Paso](https://open.spotify.com/track/20UUqgUjpiEZWKW0wujOVP) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [El Paso](https://open.spotify.com/album/5MKHbKywea52kWXdbB78PD) | 3:21 | 2022-05-06 | 2022-07-29 |
+| [Elvis in Memphis](https://open.spotify.com/track/7mmgTs73kElMvcbHpEwnVW) | [Pat Green](https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX) | [Elvis in Memphis](https://open.spotify.com/album/5q6UqjPhGik8QxHEacJkSR) | 4:24 | 2024-04-19 |  |
 | [Empty Rooms](https://open.spotify.com/track/0QNV9mVU06bMQKiD38Nc1I) | [Justin Clyde Williams](https://open.spotify.com/artist/2os6M8Uk9phzs6NOxQrNnc) | [Empty Rooms](https://open.spotify.com/album/4OPidLkgqBWApKYlr0LV0w) | 4:08 | 2021-12-17 | 2022-03-19 |
 | [Even If My Wheels Fall Off](https://open.spotify.com/track/6346eATna5w8XOQy6dJSfJ) | [Ray Wylie Hubbard](https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0), [Wade Bowen](https://open.spotify.com/artist/3OftZbLfcqulxWNZMX8zLI), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk), [Cody Canada](https://open.spotify.com/artist/1vNm2xtFGI4KsxnDgAl4iO) | [Co\-Starring Too](https://open.spotify.com/album/2qdRjOgx6MnLayfn9QZiJE) | 3:36 | 2022-03-18 | 2022-07-21 |
 | [Even The River](https://open.spotify.com/track/3QpZzgamq59V4Z3buWWYGj) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [Even The River](https://open.spotify.com/album/0cF94TWd8oSo6LWzP4zpUN) | 3:17 | 2023-09-22 | 2023-09-27 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 
 ### [This Is Kenia OS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBgha)
 
-> This Is Kenia OS\. Los temas esenciales, todos en una lista.
+> This is Kenia OS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,919 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,986 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBgha.md) - [plain]
 | 49 | [Dinero](https://open.spotify.com/track/3Hndu68hdTMaL6HNpYdMrr) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Dinero](https://open.spotify.com/album/1FttuzibZVhfGTkK4ecYq6) | 2:38 |
 | 50 | [Te Odio](https://open.spotify.com/track/7gCy3fhww624eEocyMYtSa) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Canciones Pa Mi Ex Vol.1](https://open.spotify.com/album/7iBIAxWWW0WhKnFnhHBfNh) | 2:24 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGIwOWQ5ZTI2ZTQ0YWRjZGQ2N2Q5N2RhYjNmMTgxYTk0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDQxZGU1Zjc1OGRhMTJkOGQwY2EyMmVmM2E2OTc5Njhk`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ponte cursi con las canciones m\u00e1s rom\u00e1nticas! Banda MS en portada.",
-  "num_followers": 941434,
+  "num_followers": 940943,
   "original_name": "Banda Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
-        "name": "Primera Cita",
-        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 186455,
-      "name": "Primera Cita",
-      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
         "name": "Le Hace Falta Un Beso",
         "url": "https://open.spotify.com/album/2XlX0h0yr51DxxAuGA5Nld"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 167897,
       "name": "Le Hace Falta Un Beso",
       "url": "https://open.spotify.com/track/1SwY9YgXVgRbZM6uzxS4vU"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
+        "name": "Primera Cita",
+        "url": "https://open.spotify.com/album/4BeF1IA1ufJtzgOgqx3a9Z"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 186455,
+      "name": "Primera Cita",
+      "url": "https://open.spotify.com/track/4mGrWfDISjNjgeQnH1B8IE"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -231,22 +231,6 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
-        "name": "Calidad Y Cantidad",
-        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Entre Beso Y Beso",
-      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
         "name": "Sue\u00f1o Guajiro",
         "url": "https://open.spotify.com/album/7ep8byHyAYeAYiumLDQrhr"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 183800,
       "name": "Sue\u00f1o Guajiro",
       "url": "https://open.spotify.com/track/2V9pPYbtIaxI4canNxsDrJ"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
+        "name": "Calidad Y Cantidad",
+        "url": "https://open.spotify.com/album/3zKCBYWA9k9cfeRzLf2ZMl"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Entre Beso Y Beso",
+      "url": "https://open.spotify.com/track/7uL1ZsdxI8l4sgEsgCmTlG"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
-        "name": "Vencedor",
-        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 171026,
-      "name": "Te Quiero As\u00ed",
-      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
         "name": "Fendi",
         "url": "https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 180653,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
+        "name": "Vencedor",
+        "url": "https://open.spotify.com/album/0k0b9mpJt6tJMT26aIzpoe"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 171026,
+      "name": "Te Quiero As\u00ed",
+      "url": "https://open.spotify.com/track/7cfpUwXVmVNwi0e0lKkII3"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 189826,
-      "name": "Y Que Quede Claro",
-      "url": "https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
         "name": "La Barda Me Vol\u00e9",
         "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 215400,
       "name": "Nadie Como Tu\u0301",
       "url": "https://open.spotify.com/track/0cyP9Zil4WvqycKDRynmcP"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 189826,
+      "name": "Y Que Quede Claro",
+      "url": "https://open.spotify.com/track/4ClMZDRwBmwGJKN6qQLVPY"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -615,22 +615,6 @@
       "duration_ms": 237640,
       "name": "Terrenal",
       "url": "https://open.spotify.com/track/1Uy7p71RYE0uRvA6Kirr3O"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 194360,
-      "name": "De Ti Exclusivo",
-      "url": "https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -687,6 +671,22 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 194360,
+      "name": "De Ti Exclusivo",
+      "url": "https://open.spotify.com/track/2GQuP8ZrDoi38bwAbsyAtZ"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
         "name": "Pensando En Ti",
         "url": "https://open.spotify.com/album/7qvniQLYMWkFmFqO5LqDxm"
       },
@@ -699,22 +699,6 @@
       "duration_ms": 149812,
       "name": "Pensando En Ti",
       "url": "https://open.spotify.com/track/3Uv7mHKnkvdop08vJ34KjI"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
-        "name": "Y Que Quede Claro",
-        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 248240,
-      "name": "Sobre Mis Pies",
-      "url": "https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -767,6 +751,22 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
+        "name": "Simbolo Sexual",
+        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 180208,
+      "name": "S\u00edmbolo Sexual",
+      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
         "name": "El Mundo a Tus Pies",
         "url": "https://open.spotify.com/album/1l46GFEU94JAnUZfFIcifM"
       },
@@ -783,18 +783,18 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
-        "name": "Simbolo Sexual",
-        "url": "https://open.spotify.com/album/2WJhXkMXbuXnwkWVb2u0PJ"
+        "name": "Y Que Quede Claro",
+        "url": "https://open.spotify.com/album/284VuwH1jFbRK08Nnz41uk"
       },
       "artists": [
         {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
         }
       ],
-      "duration_ms": 180208,
-      "name": "S\u00edmbolo Sexual",
-      "url": "https://open.spotify.com/track/7nDgUvJLsinxKYyQhv3tAK"
+      "duration_ms": 248240,
+      "name": "Sobre Mis Pies",
+      "url": "https://open.spotify.com/track/0bCpwmdqIJhcCkf6P1zNSa"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -835,38 +835,6 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
-        "name": "Qu\u00e9date Conmigo",
-        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
-      },
-      "artists": [
-        {
-          "name": "Edicion Especial",
-          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
-        }
-      ],
-      "duration_ms": 193666,
-      "name": "Qu\u00e9date Conmigo",
-      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
-        "name": "Huele A Peligro",
-        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 151333,
-      "name": "Media Naranja",
-      "url": "https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4"
-    },
-    {
-      "added_at": "2024-01-16 23:36:42",
-      "album": {
         "name": "Aqu\u00ed Casual",
         "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
       },
@@ -883,18 +851,18 @@
     {
       "added_at": "2024-01-16 23:36:42",
       "album": {
-        "name": "El Amor So\u00f1ado",
-        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
+        "name": "Qu\u00e9date Conmigo",
+        "url": "https://open.spotify.com/album/2ecO4JampVxMRviNZzCAPE"
       },
       "artists": [
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Edicion Especial",
+          "url": "https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi"
         }
       ],
-      "duration_ms": 182680,
-      "name": "El Amor So\u00f1ado",
-      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
+      "duration_ms": 193666,
+      "name": "Qu\u00e9date Conmigo",
+      "url": "https://open.spotify.com/track/1BjQB4vJPolq7ctCnUC59Z"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -911,6 +879,22 @@
       "duration_ms": 185296,
       "name": "No Paras de Hacerme Feliz",
       "url": "https://open.spotify.com/track/5bP1RCdGcUxkwASwKAbPHa"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
+        "name": "El Amor So\u00f1ado",
+        "url": "https://open.spotify.com/album/0CJMtndiL2Wx2xVs3Q0rDO"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 182680,
+      "name": "El Amor So\u00f1ado",
+      "url": "https://open.spotify.com/track/6Yd0OVYMrixawNof73Q3pC"
     },
     {
       "added_at": "2024-01-16 23:36:42",
@@ -947,6 +931,22 @@
       "duration_ms": 178700,
       "name": "Acurrucar",
       "url": "https://open.spotify.com/track/0vTmuKsIgqtez9Ups70mQU"
+    },
+    {
+      "added_at": "2024-01-16 23:36:42",
+      "album": {
+        "name": "Huele A Peligro",
+        "url": "https://open.spotify.com/album/2oKDUOugaCej29UmlmhoyG"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 151333,
+      "name": "Media Naranja",
+      "url": "https://open.spotify.com/track/3wL3XYJ5sAQ7LgFsF5uCV4"
     },
     {
       "added_at": "2024-01-16 23:36:42",

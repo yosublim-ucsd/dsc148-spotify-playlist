@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1fWwsbVMoI6.md) - [plain]
 
 > A ponerse a tono con los mejores cumbiones\. Foto: Corazon Serrano, Axel
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,126 likes - 50 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,135 likes - 50 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Motor Y Motivo](https://open.spotify.com/track/2yjHvbMtfyoXXJYpsR3rYP) | [Grupo 5](https://open.spotify.com/artist/0l8RtvcBMjeOqfgRSVo2d6) | [Motor Y Motivo](https://open.spotify.com/album/69585tYHxNAZVvA9X1VwhK) | 3:16 |
 | 2 | [Dios mio hasta que me enamoré](https://open.spotify.com/track/2oW4NFj701D1MlL3ik9znN) | [Armonia 10](https://open.spotify.com/artist/2MLibj8EtYKluK594J3D9Y) | [30 Años Armonía 10](https://open.spotify.com/album/7qxgBuVfkj7rID3OgwbV1J) | 3:09 |
-| 3 | [Necesito un Amor](https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Necesito un Amor](https://open.spotify.com/album/1m6uAFrX3jnWkDvlIi7CcR) | 3:31 |
+| 3 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
 | 4 | [Te Voy A Amar \- En Vivo](https://open.spotify.com/track/7CSXqdh1zUCjhZ98bZYczd) | [Corazon Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Axel](https://open.spotify.com/artist/32x1uogH2zajP85pzZAtuE) | [Te Voy A Amar \(En Vivo\)](https://open.spotify.com/album/1bKGtvGaoJzZnKjz1PcycU) | 3:17 |
-| 5 | [Asesina de Amor](https://open.spotify.com/track/1j2zkh4VrL8txcXjsUgd0m) | [La Única Tropical](https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd) | [Sentimiento y Estilo](https://open.spotify.com/album/3UfWPefNwVufwfuJvP8Jxs) | 3:16 |
+| 5 | [Necesito un Amor](https://open.spotify.com/track/2lo3RrKfwqrIQfD6JBJyfX) | [Hnos Yaipen](https://open.spotify.com/artist/1MD1SEYZh3dbCa2M7YVjPg) | [Necesito un Amor](https://open.spotify.com/album/1m6uAFrX3jnWkDvlIi7CcR) | 3:31 |
 | 6 | [Si Supieras](https://open.spotify.com/track/2cRSwtruzYvuCwg8rzbLIL) | [Hnos Silva](https://open.spotify.com/artist/4ijIJHRHj2vF4HkvB2gyL8) | [No Te Confundas...sigue la Moda](https://open.spotify.com/album/6QW5tBaFCDcWnjCgaiKiSr) | 4:05 |
 | 7 | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/track/5LynHpyyaUj5xh8lFg1I0s) | [Los Villacorta Orquesta](https://open.spotify.com/artist/6SBThOgbJFtWxxm3jHH2HI) | [Homenaje a Mallanep: Donde Está el Amor / Una Aventura Más / Me Rio de Ti](https://open.spotify.com/album/1II3iDAzoQDYy5v1aBPVoJ) | 5:44 |
 | 8 | [Por Qué Te Fuiste](https://open.spotify.com/track/3xsy9cyy4k6glloiOWhQb0) | [Maricarmen Marin](https://open.spotify.com/artist/30RnihWZIvAL4xTLSj0Caz) | [Por Qué Te Fuiste](https://open.spotify.com/album/3KaNBGh5xcSMP9uZVd0zJd) | 3:05 |

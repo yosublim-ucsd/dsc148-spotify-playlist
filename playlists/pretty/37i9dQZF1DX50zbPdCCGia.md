@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 
 > The best soft rock from the 1970s\. Cover: Jimmy Buffett
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,287 likes - 75 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,365 likes - 75 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX50zbPdCCGia.md) - [plain]
 | 44 | [Year of the Cat](https://open.spotify.com/track/7MTX3vevnm41xuEoPxWT3j) | [Al Stewart](https://open.spotify.com/artist/0DW7boyjvbaSP3OJ72sXgC) | [Year of the Cat](https://open.spotify.com/album/2JxEUrs4GzHQdkV6qQayz5) | 6:40 |
 | 45 | [Sentimental Lady](https://open.spotify.com/track/478thMMvYGris8eJPcDRoq) | [Bob Welch](https://open.spotify.com/artist/0reZZVbAPxgX1Rqj6XbWj3) | [French Kiss](https://open.spotify.com/album/5YQsoNZvxTZKqsJ2Y7fQjJ) | 2:58 |
 | 46 | [We'll Never Have to Say Goodbye Again \- Single Version](https://open.spotify.com/track/7gfF9nA0mUeaRCPE5ezZLj) | [England Dan & John Ford Coley](https://open.spotify.com/artist/01W8kYNqFHyKicPfR0pLwO) | [Some Things Don't Come Easy](https://open.spotify.com/album/3e01nCW3aisPnPOkePoUGW) | 2:52 |
-| 47 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
-| 48 | [Never Be the Same](https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:09 |
+| 47 | [Never Be the Same](https://open.spotify.com/track/4Z2015s3noJJ7IRydu7ozr) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Christopher Cross](https://open.spotify.com/album/43L4t2oVmuJsudEls5C6Gh) | 4:09 |
+| 48 | [Dreamboat Annie](https://open.spotify.com/track/7IyuwRPPNq6gYI1vzqKsrU) | [Heart](https://open.spotify.com/artist/34jw2BbxjoYalTp8cJFCPv) | [Dreamboat Annie](https://open.spotify.com/album/2N0AgtWbCmVoNUl2GN1opH) | 2:01 |
 | 49 | [Just a Song Before I Go](https://open.spotify.com/track/4dAN7KcWCWx5jV6dpwtfvN) | [Crosby, Stills & Nash](https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou) | [CSN](https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx) | 2:13 |
 | 50 | [Loves Me Like a Rock](https://open.spotify.com/track/5F4ksIKmuXEtgBf6SfEQRr) | [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [There Goes Rhymin' Simon](https://open.spotify.com/album/50pzpI17hwQj7LKcOiLMFD) | 3:33 |
 | 51 | [Crazy Love](https://open.spotify.com/track/4l6uTQ4A2eWZrOzjgm1bey) | [Poco](https://open.spotify.com/artist/0fyqyjD7pbaVzbu94ylWQR) | [Legend](https://open.spotify.com/album/5pC3jEw11eiVY5Vi9z1ooi) | 2:56 |

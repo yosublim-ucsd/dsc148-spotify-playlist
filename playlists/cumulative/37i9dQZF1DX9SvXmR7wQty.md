@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Vacra
 
-2,460 songs - 5 day 11 hr 29 min
+2,461 songs - 5 day 11 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1103,6 +1103,7 @@
 | [Kongolais mauvais \(feat\. Ninho\)](https://open.spotify.com/track/5HdOXndzIyhcLTMhAJQkUs) | [DA Uzi](https://open.spotify.com/artist/3xEJ7cDz5rdg6VM8E6Mqhf), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH) | [Le chemin des braves](https://open.spotify.com/album/6oGOmTaJ6dKUPK1TvdcAzo) | 3:49 | 2022-04-01 | 2022-04-16 |
 | [Koo Koo Fun \(feat\. Tiwa Savage, DJ Maphorisa & Bianca Costa\) \(Julio Masidi Remix\)](https://open.spotify.com/track/0HH4liqntlo3KQmKiRKJsv) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT), [Julio Masidi](https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73) | [Koo Koo Fun \(Remixes\)](https://open.spotify.com/album/2FHaIfUZWS9PSRqQUU0u48) | 3:05 | 2023-02-03 | 2023-02-18 |
 | [Koupe Tèt Boule Kay](https://open.spotify.com/track/0wiRr10aUhgNnmCtaz1heb) | [Greezy](https://open.spotify.com/artist/1zZ9nySaVJp9srjS4Cd1hr), [Dreysoul](https://open.spotify.com/artist/1HhkoWNKswbm3wvU5d3eaL) | [Koupe Tèt Boule Kay](https://open.spotify.com/album/1y1DnAQnF4mnRkKw61CE1e) | 2:23 | 2022-02-11 | 2022-02-26 |
+| [Kulule](https://open.spotify.com/track/1d3F05VyTdt0TGpGqtyHDV) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Kulule](https://open.spotify.com/album/1hNahkV9RrWMBSyirYvnFa) | 2:37 | 2024-04-19 |  |
 | [Kyrié\-Kyrié Kwé\-Kwé](https://open.spotify.com/track/3uXDBjCoFD0X7p8EPIttFX) | [Chloé Sainte\-Marie](https://open.spotify.com/artist/26wMB2qns9npIqvR3AzlG9) | [Maudit Silence](https://open.spotify.com/album/6T1jSRvx3J60x7NFLGSZyr) | 4:56 | 2022-10-07 | 2022-10-15 |
 | [KÈM](https://open.spotify.com/track/6BiiDyQPxtij96XHBCyloG) | [Kelly Krow](https://open.spotify.com/artist/1RG2FZvpca9J9VjnCtmD4p) | [KÈM](https://open.spotify.com/album/1wdzr58LSQYTt4aXtfaAd3) | 2:45 | 2022-08-12 | 2022-08-27 |
 | [L'ADRESSE](https://open.spotify.com/track/6XxaNqgzbgwkw0LaeE2Z63) | [Roméo Elvis](https://open.spotify.com/artist/2pHk4wAmL7ofTAuvCIUWtv) | [TOUT PEUT ARRIVER](https://open.spotify.com/album/2RqrnnWKbNHNbv6GNmZkh1) | 3:07 | 2022-05-27 | 2022-06-11 |
@@ -1465,7 +1466,7 @@
 | [Match](https://open.spotify.com/track/5atXcF9P7BvCIfCwpALYXB) | [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs), [Kerchak](https://open.spotify.com/artist/1nRbtbdYK51y71nVOxu332) | [Match](https://open.spotify.com/album/1DyKKChdiu0IdEZvz4yt4U) | 2:23 | 2023-01-27 | 2023-02-11 |
 | [Matcha Queen](https://open.spotify.com/track/6WRhbMJiQJo4SZv6ub8ptn) | [Yoa](https://open.spotify.com/artist/7d1ctWXfrUvAe804Zld3Gy) | [Matcha Queen](https://open.spotify.com/album/5bZX5IFxfYNKdJUMPtIMS5) | 3:10 | 2024-03-22 | 2024-03-30 |
 | [Mathilde](https://open.spotify.com/track/0HAnT8aym7IKQ0Swayvoh3) | [Tire Le Coyote](https://open.spotify.com/artist/0IC1NWkemYHVzpF7gISLku) | [Mathilde](https://open.spotify.com/album/7wdehrpP1NKvE4F2Mi8o4o) | 4:15 | 2021-12-31 | 2022-01-22 |
-| [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 | 2024-03-01 |  |
+| [MAUVAIS PAYEUR](https://open.spotify.com/track/6O305YQaWEWfaU1S0nTcx6) | [Fresh](https://open.spotify.com/artist/3W9AQyaIGdR8htZXVGwl1X), [Kaaris](https://open.spotify.com/artist/1ntQKIMIgESKpKoNXVBvQg) | [P.M.R.](https://open.spotify.com/album/7lRwTBtOa4iiN9jOXfwKxR) | 3:41 | 2024-03-01 | 2024-04-24 |
 | [Mauvais rêve](https://open.spotify.com/track/0MGgP4BHyxoW0eJw5piCX5) | [Fredz](https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT) | [Mauvais rêve](https://open.spotify.com/album/5SPoEMJ0aODZHCVMos4tzv) | 2:50 | 2023-09-29 | 2023-10-23 |
 | [Mauvais rêve](https://open.spotify.com/track/6IZWTHVNit0ajtXwAWDGO9) | [Hoshi](https://open.spotify.com/artist/7mPT6wrOjVC4visft9qpYQ) | [Mauvais rêve](https://open.spotify.com/album/5blMLwINO84ZJntrW0CTNh) | 3:59 | 2023-04-14 | 2023-05-20 |
 | [Mauvais sang](https://open.spotify.com/track/3OnjR76S8jearRtcX56I9B) | [Alexandre Poulin](https://open.spotify.com/artist/5ILOB9Q4xiPUxzo2tYwxQy) | [Mauvais sang](https://open.spotify.com/album/20fsMVnh2nEDkblGvBFTdA) | 4:11 | 2023-11-24 | 2023-12-02 |

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sai Abhyankar",
-  "num_followers": 10050,
+  "num_followers": 10132,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ3NzU2NCwwMDAwMDAwMDhjMTM1NTEyMjUzMTczYTk5MWJmMTc3ODEyZTFjZmNj",
+  "snapshot_id": "MTcxMzkzNDMzOCwwMDAwMDAwMGQ0NjI1Mzg4ZTVlMDk1OGFhMDEyMDA0ODE5NjViZWUz",
   "tracks": [
     {
       "added_at": "2024-02-01 05:32:00",
@@ -39,22 +39,6 @@
       "duration_ms": 265151,
       "name": "Thoovum Mazhai",
       "url": "https://open.spotify.com/track/7cyFE1Eg8QmktBjmLt8hAy"
-    },
-    {
-      "added_at": "2024-02-01 05:32:00",
-      "album": {
-        "name": "Shoe Theriyudha",
-        "url": "https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk"
-      },
-      "artists": [
-        {
-          "name": "Sumesh Kumar",
-          "url": "https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Shoe Theriyudha",
-      "url": "https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm"
     },
     {
       "added_at": "2024-04-17 11:11:36",
@@ -187,6 +171,30 @@
       "duration_ms": 168549,
       "name": "Unnodu Mattum",
       "url": "https://open.spotify.com/track/1mXQEOOevGsu0xg7J2PiDT"
+    },
+    {
+      "added_at": "2024-04-24 04:52:18",
+      "album": {
+        "name": "Malare",
+        "url": "https://open.spotify.com/album/3jT3LOUaPkSzj3s3h5p7nF"
+      },
+      "artists": [
+        {
+          "name": "Ramesh Ramamoorthy",
+          "url": "https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz"
+        },
+        {
+          "name": "Sikkil Gurucharan",
+          "url": "https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt"
+        },
+        {
+          "name": "Sanjeev Venkataramanan",
+          "url": "https://open.spotify.com/artist/4oXQTJFc30wSqRRJD1A3zV"
+        }
+      ],
+      "duration_ms": 140306,
+      "name": "Malare",
+      "url": "https://open.spotify.com/track/1Yhy3yuMn358yD7LMOU5wW"
     },
     {
       "added_at": "2024-04-04 11:48:44",

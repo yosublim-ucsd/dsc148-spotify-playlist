@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los reyes del jaripeo!",
-  "num_followers": 183766,
+  "num_followers": 184029,
   "original_name": "Jaripeo",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-03-19 20:01:44",
       "album": {
+        "name": "Nos Pertenecemos",
+        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
+      },
+      "artists": [
+        {
+          "name": "Banda Torera Del Valle",
+          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
+        }
+      ],
+      "duration_ms": 276540,
+      "name": "A Gozar",
+      "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
+    },
+    {
+      "added_at": "2024-03-19 20:01:44",
+      "album": {
         "name": "El Rezado (En Vivo)",
         "url": "https://open.spotify.com/album/2InTHqP7dbNYWVy6RaGXES"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 261897,
       "name": "El Rezado - En Vivo",
       "url": "https://open.spotify.com/track/4oMcfG82bPjArsCUu7gLfW"
-    },
-    {
-      "added_at": "2024-03-19 20:01:44",
-      "album": {
-        "name": "Nos Pertenecemos",
-        "url": "https://open.spotify.com/album/2yOe1iSolv9Fe9ZhlvJsF4"
-      },
-      "artists": [
-        {
-          "name": "Banda Torera Del Valle",
-          "url": "https://open.spotify.com/artist/7hiqN2yRNPbpMIZ2giCZX5"
-        }
-      ],
-      "duration_ms": 276540,
-      "name": "A Gozar",
-      "url": "https://open.spotify.com/track/6PVeZNxyYK1ta2qmbJJRaT"
     },
     {
       "added_at": "2024-03-19 20:01:44",

@@ -4,7 +4,7 @@
 
 > 
 
-256 songs - 17 hr 22 min
+257 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Good Will Hunting](https://open.spotify.com/track/0Ppd0oDauQpaQgNvpHzq24) | [Black Country, New Road](https://open.spotify.com/artist/3PP6ghmOlDl2jaKaH0avUN) | [Ants From Up There](https://open.spotify.com/album/21xp7NdU1ajmO1CX0w2Egd) | 4:57 | 2022-02-04 | 2022-09-17 |
 | [Grammar](https://open.spotify.com/track/4wgE9XKaHBl9E42jK7AgVu) | [Floating Points](https://open.spotify.com/artist/2AR42Ur9PcchQDtEdwkv4L) | [Grammar](https://open.spotify.com/album/5UNPHRM6OIx2ePeHbP3MOi) | 7:41 | 2022-04-05 | 2023-04-20 |
 | [GUNZ](https://open.spotify.com/track/3bAW73ap6fM7DnDDRo8Xe2) | [GAIKA](https://open.spotify.com/artist/543QE1sqcqcNAL8JSK4Jzd) | [GUNZ](https://open.spotify.com/album/4JKQF6JHokN1F4Kj5PkxdS) | 3:15 | 2023-08-17 | 2023-09-06 |
-| [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 |  |
+| [Habla Con Ella](https://open.spotify.com/track/6HMTox9UW3BxOUi8BlMVgk) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Madres](https://open.spotify.com/album/6zt8N56kz8b58cnHnBhx9f) | 3:24 | 2024-03-01 | 2024-04-24 |
 | [Heather Park](https://open.spotify.com/track/3i41yQZllyhZZJXsr3ADhd) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Heather Park](https://open.spotify.com/album/1VKmlsq627xxebmf53jHME) | 6:01 | 2022-07-08 | 2023-02-04 |
 | [Heavier](https://open.spotify.com/track/5KPYMz7DUZc6ZdcxNgfL18) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Yellow House](https://open.spotify.com/artist/2jAzx88tHo3KNYauXANisl) | [Heavier](https://open.spotify.com/album/2f7U1Mz1SxgAr88KdCRT1a) | 4:17 | 2023-06-27 |  |
 | [Hero Man](https://open.spotify.com/track/0ygg5byZlOrR5LAl6kn1eI) | [PVA](https://open.spotify.com/artist/2d2ElnqC2cMPp7zcSyv3yG) | [Hero Man](https://open.spotify.com/album/1xEX0FrmsaAEJJsQBtr35G) | 3:53 | 2022-07-19 | 2022-10-15 |
@@ -259,6 +259,7 @@
 | [When She Dance \- David Ariza Club Edit](https://open.spotify.com/track/3xqU7Qvop66DaYfXKaJmXw) | [Jayda G](https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx), [David Ariza](https://open.spotify.com/artist/3l3BG1aNUKmVsV555tR0BI) | [When She Dance \(David Ariza Club Edit\)](https://open.spotify.com/album/2Y6yUZjNh8jtuQWqFWunvy) | 5:36 | 2023-08-17 | 2023-09-06 |
 | [Where Did I Go](https://open.spotify.com/track/4KXIbATud2X2ev4n6LPOmv) | [박혜진 Park Hye Jin](https://open.spotify.com/artist/6niigcazB2JPcpasZfZvq1) | [Before I Die](https://open.spotify.com/album/17A5C4E71HzHookLBWzjMJ) | 2:08 | 2021-09-10 | 2022-06-22 |
 | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s) | [ODESZA](https://open.spotify.com/artist/21mKp7DqtSNHhCAU2ugvUw), [Charlie Houston](https://open.spotify.com/artist/6BkSTbIWZrLZZK0sa2GehR) | [Wide Awake \(feat\. Charlie Houston\)](https://open.spotify.com/album/4x2RP82FqTREo8eBp0LgI6) | 3:35 | 2022-06-08 | 2022-07-23 |
+| [With Balance](https://open.spotify.com/track/3581zkJzluGgdfLkELdXk9) | [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX), [Naima Bock](https://open.spotify.com/artist/3UvBjnS0xNdifivRctkxok), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [With Balance](https://open.spotify.com/album/5MXYmobtF9QlxlKLCLYOop) | 2:58 | 2024-04-23 |  |
 | [Woman](https://open.spotify.com/track/53Mar0XxfUNHeHlGymw52n) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Woman](https://open.spotify.com/album/32cgWHAadfJEeQVFWhTipy) | 3:52 | 2023-05-31 | 2024-03-23 |
 | [You Knew](https://open.spotify.com/track/3tYTLCvnS63hpobSK3tRsR) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/4n3meu86cgj7FIwe0xvYKc) | 7:16 | 2023-07-18 | 2024-02-16 |
 | [You Need Me](https://open.spotify.com/track/1qJhgjy1XcepOKrM3w7xuB) | [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo), [Frazer Ray](https://open.spotify.com/artist/7Ic9xxxoKy4EZFqLEXI2hK) | [You Need Me](https://open.spotify.com/album/4oCf7fcuXDJr649Y7rcuzH) | 6:04 | 2022-08-16 | 2022-10-22 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: dosii(\ub3c4\uc2dc)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
+  "description": "Let's fall into the K-\uc778\ub514 tracks from Korea's thriving indie scene. (Cover: PARKJIWOO(\ubc15\uc9c0\uc6b0)) (\ucd5c\uc2e0\uace1\uc744 \ud3ec\ud568\ud55c \uad6d\ub0b4 \uc778\ub514\uace1\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!)",
   "name": "Indie Korea (\uc778\ub514 \ucf54\ub9ac\uc544)",
   "tracks": [
     {
@@ -3409,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Fourth Crack",
+        "url": "https://open.spotify.com/album/20pw3sGEheWBU2wNpDb2DN"
+      },
+      "artists": [
+        {
+          "name": "PARKJIWOO",
+          "url": "https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "Fourth Crack",
+      "url": "https://open.spotify.com/track/01u4yoR2vEjSin4b4e1zTd"
+    },
+    {
+      "album": {
         "name": "BETWEEN US",
         "url": "https://open.spotify.com/album/4ifUv7P3yDnid3OL9hYy89"
       },
@@ -5066,7 +5084,7 @@
       ],
       "date_added": "2021-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 181697,
       "name": "Islet",
       "url": "https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR"
@@ -7512,6 +7530,24 @@
       "duration_ms": 244813,
       "name": "Parents (Feat. Kid Milli)",
       "url": "https://open.spotify.com/track/5Os2F2MbUv9eJcb7jxHmFD"
+    },
+    {
+      "album": {
+        "name": "Pasadena",
+        "url": "https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG"
+      },
+      "artists": [
+        {
+          "name": "92914",
+          "url": "https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163726,
+      "name": "Pasadena",
+      "url": "https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2"
     },
     {
       "album": {
@@ -10106,7 +10142,7 @@
       ],
       "date_added": "2023-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210857,
       "name": "tokki",
       "url": "https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN"

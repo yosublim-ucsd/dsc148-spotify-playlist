@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 
 > This is Bonnie Raitt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,702 likes - 51 songs - 3 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,725 likes - 51 songs - 3 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,10 +54,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2MOc1x.md) - [plain]
 | 44 | [Guilty \- 2008 Remaster](https://open.spotify.com/track/2QUpntd3v7cZQByy7Kyh4L) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Takin' My Time](https://open.spotify.com/album/6wnsIGl42ActiWfYwkxbra) | 3:00 |
 | 45 | [Cry On My Shoulder](https://open.spotify.com/track/6YQ2RgaJVn2aeFFsNHB4Yb) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Nick Of Time](https://open.spotify.com/album/6wxpS5o0ty5CLqyH5fIRln) | 3:44 |
 | 46 | [Need You Tonight](https://open.spotify.com/track/0GNQAGdA4i46QxT8qZx0mG) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Dig In Deep](https://open.spotify.com/album/5vN4mU8RJ1rllLYGlIuOKR) | 3:19 |
-| 47 | [Love Letters](https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:00 |
-| 48 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
+| 47 | [Give It Up or Let Me Go \- 2008 Remaster](https://open.spotify.com/track/4GyoNlQeLSHFZX2txg7cOr) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Give It Up \(2008 Remaster\)](https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh) | 4:29 |
+| 48 | [Love Letters](https://open.spotify.com/track/6pqNafE84udPaoFLGffd7E) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Duets](https://open.spotify.com/album/7ptAfRrbwr8pzM1oeUsRea) | 4:00 |
 | 49 | [Your Sweet and Shiny Eyes \- 2008 Remaster](https://open.spotify.com/track/34FN0vnOsqW7okjKNJ2uUE) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Home Plate \(2008 Remaster\)](https://open.spotify.com/album/5yBKOUYfEPb2CgFLpgeFLX) | 2:47 |
-| 50 | [Can't Find My Way Home](https://open.spotify.com/track/2tguJA2ZWhkhhNf4QS0csZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Gerald's Evil Game The Complete Fantasy Playlist](https://open.spotify.com/album/4jSy7M83rJx0oGAqy9oLSe) | 3:07 |
-| 51 | [Live Wire](https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 5:09 |
+| 50 | [Live Wire](https://open.spotify.com/track/39YLkuJY39HjEtw1dgdptd) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY), [Mavis Staples](https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0) | [Threads](https://open.spotify.com/album/4b65ZJhMr04pEScAjHYpg7) | 5:09 |
+| 51 | [Can't Find My Way Home](https://open.spotify.com/track/2tguJA2ZWhkhhNf4QS0csZ) | [Bonnie Raitt](https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY) | [Gerald's Evil Game The Complete Fantasy Playlist](https://open.spotify.com/album/4jSy7M83rJx0oGAqy9oLSe) | 3:07 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDdmNTI1ZTNjNjQxYTQ2NDIxZTU5MjJjOWQ2MmU4Mjc1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGE2YzFiNzFjMzVhNWQ1YWVjOTY5NmEzN2Q1Mjg4MWMz`

@@ -4,7 +4,7 @@
 
 > Funk\-inspired beats by latinos.
 
-117 songs - 7 hr 21 min
+118 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 | 2023-09-01 | 2024-04-19 |
 | [Cariño](https://open.spotify.com/track/55DyBUkjebkcYhDGfEXitR) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Cariño](https://open.spotify.com/album/2VFNH1CUpSOnRKBBjjEDe6) | 4:18 | 2022-11-22 | 2023-09-16 |
 | [Cliché](https://open.spotify.com/track/1IeIu8G0uzcrDKl2l6eg99) | [Marte](https://open.spotify.com/artist/3O2mT8DFtMzB6ptxFXdpHm) | [Cliché](https://open.spotify.com/album/7dcFO10Q12E0n1AAtv6c4E) | 3:16 | 2023-03-03 | 2023-05-17 |
-| [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 | 2023-04-13 |  |
+| [Comida](https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa) | [No Te Va Gustar](https://open.spotify.com/artist/4ZDoy7AWNgQVmX7T0u0B1j), [Johnny Hooker](https://open.spotify.com/artist/7qmf5YAQYjfjBF9C7kkjzs) | [Comida](https://open.spotify.com/album/5rLbX2cgrwy8c7ZpDnTBIJ) | 3:39 | 2023-04-13 | 2024-04-24 |
 | [comoestasmiamor <3](https://open.spotify.com/track/2EpxeTXgxi1kiwnMqf2foK) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/0RTj2p5AzPsWgBz6tnpkOF) | 2:59 | 2024-01-26 | 2024-04-19 |
 | [comoestasmiamor <3](https://open.spotify.com/track/3Pd7klN2VLVpHXnN7TdGZW) | [Martox](https://open.spotify.com/artist/2kt9iXyIMY6yv45SapEw5r) | [comoestasmiamor <3](https://open.spotify.com/album/20n5DASE7bldIUAxHlBCR1) | 2:59 | 2023-09-01 | 2023-10-27 |
 | [Cortes Modernos](https://open.spotify.com/track/1haYL3OvJA7OCHnzMx5JlX) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [Cortes Modernos](https://open.spotify.com/album/0gyrTCJOamPi13piB2i0KJ) | 3:43 | 2023-03-24 |  |
@@ -30,6 +30,7 @@
 | [Cuando Regreses a Mí](https://open.spotify.com/track/1OCzLsi1LaulQs5hSiwzjZ) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7), [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Cuando Regreses a Mí](https://open.spotify.com/album/1pXcDXRqCokOFcBWXesloE) | 3:12 | 2022-11-22 | 2024-03-01 |
 | [Da Funk](https://open.spotify.com/track/3y5hMwMAne5VD8635DBpj0) | [Caliope Family](https://open.spotify.com/artist/3yF4Lj2Sl3QkKQNQwtYya6) | [Da Funk](https://open.spotify.com/album/1RkDdrEwwERzb4bvTAYalH) | 2:33 | 2023-01-06 | 2023-07-06 |
 | [Dame una señal](https://open.spotify.com/track/2N1TDOZLjpLLGwPiRoeuwT) | [Lika Nova](https://open.spotify.com/artist/7MXtSubvSLMgfnnVkJrKoy) | [Dame una señal](https://open.spotify.com/album/6q2Qh4xPwCHNNjAb0Jcj0r) | 3:53 | 2023-07-14 | 2023-07-28 |
+| [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 | 2024-04-23 |  |
 | [DASOUL](https://open.spotify.com/track/6Pu0gcxT23ZEwTmkXIKZdO) | [Galo Barker](https://open.spotify.com/artist/0K7CHaWKAmKYaPFBnAW9q9), [Soenia](https://open.spotify.com/artist/0vuduaT81euHWyccGAYbaq) | [DASOUL](https://open.spotify.com/album/5WKQYhE3HKhycVuYZIqW3L) | 2:38 | 2024-03-29 |  |
 | [Debut](https://open.spotify.com/track/34xR0p88Tn0osfkWtLC6zi) | [Dstance](https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2) | [Debut](https://open.spotify.com/album/5pSvRHQJbnH4keSrZ3PuZe) | 2:29 | 2023-07-28 |  |
 | [Dejarte Ir](https://open.spotify.com/track/2gU83Bo7wPreMf48YWXEiu) | [Rubytates](https://open.spotify.com/artist/2Mk7yrY8Dt93tvVhyxh8Zj) | [Dejarte Ir](https://open.spotify.com/album/2nsGHpWphvhNQudVYAc1Qc) | 3:12 | 2022-11-22 |  |

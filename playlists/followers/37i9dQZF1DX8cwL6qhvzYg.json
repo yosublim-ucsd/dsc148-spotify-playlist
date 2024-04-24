@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 403918,
+  "2024-04-24": 403837,
   "date_first_scraped": "2023-08-09",
   "description": "Porque el barrio es el barrio y eso nadie lo va a cambiar \ud83d\ude0e\ud83d\udc83\ud83c\udffe\ud83d\udd7a\ud83c\udffe",
   "name": "Fiesta de Barrio",
@@ -1575,7 +1575,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 172813,
       "name": "Fiesta",
       "url": "https://open.spotify.com/track/2d2na9fb1qaC5Aj5CtKqsS"
@@ -2767,6 +2767,24 @@
       "duration_ms": 173626,
       "name": "Notas de Sociedad",
       "url": "https://open.spotify.com/track/1SZCsIFSRXG2m6J6GFqv4g"
+    },
+    {
+      "album": {
+        "name": "Tesoros De Coleccion - Hermanos Mier",
+        "url": "https://open.spotify.com/album/2ulHbkYQr51FQmdZPNDbz4"
+      },
+      "artists": [
+        {
+          "name": "Los Mier",
+          "url": "https://open.spotify.com/artist/2B8mbONjmLnXk4wpqF5UPQ"
+        }
+      ],
+      "date_added": "2024-03-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174733,
+      "name": "Notas de Sociedad",
+      "url": "https://open.spotify.com/track/0qhgZsoLxI1FHo2W0i8WTw"
     },
     {
       "album": {

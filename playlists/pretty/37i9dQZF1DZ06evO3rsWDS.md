@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 
 ### [This Is Chiquis](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3rsWDS)
 
-> This Is Chiquis\. Los temas esenciales, todos en una lista.
+> This is Chiquis\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,652 likes - 52 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,657 likes - 52 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 30 | [Ovarios \(feat\. Chiquis Rivera\)](https://open.spotify.com/track/044OsAv6c6UqIlIZzw687O) | [Natalia Jiménez](https://open.spotify.com/artist/0j8QSBQZ9MNSGjHr1Vll1R), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Homenaje a la Gran Señora](https://open.spotify.com/album/1c0G1Sx9WCmjEc2a49tFEr) | 3:23 |
 | 31 | [Ticket De Salida](https://open.spotify.com/track/4wUuoBPPWrFvQsaNlrUvIq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Amandititita](https://open.spotify.com/artist/1zvDryyqbfBiK0SojGrndv) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:02 |
 | 32 | [Quisieran Tener Mi Lugar](https://open.spotify.com/track/7gDlXoVYwaafRbz5EHA4FB) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Jenni Rivera](https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:57 |
-| 33 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 |
-| 34 | [Anímate Y Verás](https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Anímate Y Verás](https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI) | 2:24 |
+| 33 | [Anímate Y Verás](https://open.spotify.com/track/5chmay3zgXCR68BrLO7Z7V) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Anímate Y Verás](https://open.spotify.com/album/1LLh2T8rOVxQzcI7LEgYRI) | 2:24 |
+| 34 | [Quiero Amanecer Con Alguien](https://open.spotify.com/track/06WhFVYHzyibQCeq6veoCN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Quiero Amanecer Con Alguien](https://open.spotify.com/album/27yiHnaJeHPnLpxNhL9qHd) | 3:16 |
 | 35 | [No Llega El Olvido \- En Vivo](https://open.spotify.com/track/6oCIgSpUS9CmHMeiPIXuDu) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 3:08 |
 | 36 | [Los Chismes](https://open.spotify.com/track/35Yl1bQCfcWPoTR8BlKgwP) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac) | [Entre Botellas](https://open.spotify.com/album/4zUCCBkGr4pRXAlFYtObH2) | 2:46 |
 | 37 | [Con La Misma Bala](https://open.spotify.com/track/39bH2GZGYpB4j6wxtkwLy0) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:38 |
@@ -49,11 +49,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 39 | [No Regresarás](https://open.spotify.com/track/0VAAJceCGgRX2qRilcAXxe) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [No Regresarás](https://open.spotify.com/album/2G0rUhLzTVlJrq07AlF2fB) | 2:50 |
 | 40 | [Amandote \- Mariachi](https://open.spotify.com/track/4KgVncUSsThkvPBfMsXyXE) | [Lorenzo Mendez](https://open.spotify.com/artist/4ZfUIdc5Zm3N4E05eRSGac), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Amandote \(Mariachi\)](https://open.spotify.com/album/59GDYVDwAI6UNTxEjEQrm6) | 3:01 |
 | 41 | [Gracias Por Tu Participación](https://open.spotify.com/track/2ZDEjEMO7xaxc7VQau0BOl) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 2:44 |
-| 42 | [A Lo Menso / Quisieran Tener Mi Lugar \- En Vivo](https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:00 |
+| 42 | [Chuper Amigos \- En Vivo](https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:26 |
 | 43 | [La Malquerida](https://open.spotify.com/track/7uKph8L0mRiqGJLN4Xhx4J) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Ahora](https://open.spotify.com/album/2BqNXoveCYfp7c6DJLSUEO) | 3:35 |
 | 44 | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/track/7Ez88DLp50CyywDPZeEN4j) | [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Got It From My Mama \(Lo Tengo De Mi Mama\)](https://open.spotify.com/album/6QXVVqTWjbGQA3RZsYoUDc) | 3:18 |
 | 45 | [Jolene](https://open.spotify.com/track/1DrCBBXN9gEiMU8ME7Vhpt) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Playlist](https://open.spotify.com/album/6JI5RmK9DttfMZTWwVGV4x) | 3:23 |
-| 46 | [Chuper Amigos \- En Vivo](https://open.spotify.com/track/4wpFgoIgSmJ5i3BMT87fXq) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 1:26 |
+| 46 | [A Lo Menso / Quisieran Tener Mi Lugar \- En Vivo](https://open.spotify.com/track/3lkGJxjrylQc5NjKzCW1kN) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:00 |
 | 47 | [La Necia](https://open.spotify.com/track/1b371yl17pbI6dkgShQWsA) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [La Necia](https://open.spotify.com/album/5hh9mAtPfxBXZxTZLb5Zup) | 2:22 |
 | 48 | [Sólo Quédate En Silencio](https://open.spotify.com/track/6XiRxoDAnqmrhCMzx6CNhr) | [Aaron Y Su Grupo Ilusion](https://open.spotify.com/artist/1zVxAFV8uL5V816dzdHvYQ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Sólo Quédate En Silencio](https://open.spotify.com/album/7iJ7TqUIeccOaDNT4eW5cE) | 3:51 |
 | 49 | [Pelo Suelto](https://open.spotify.com/track/6YR5NgX4Ecz3H0vvJIfFWV) | [Gloria Trevi](https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Pelo Suelto](https://open.spotify.com/album/2UHgThFWpfWlZwAZaEzwE8) | 3:19 |
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rsWDS.md) - [plain]
 | 51 | [Ovarios \- En Vivo](https://open.spotify.com/track/0HWGGvNTBFFljHmwUlW48V) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Chiquis En Vivo Desde Lunario Ciudad De México \(Long Play\)](https://open.spotify.com/album/5Ftz4UjvqorULRKoDh8QNf) | 2:26 |
 | 52 | [PA' TI](https://open.spotify.com/track/6lNB1znrjo8OtapJeUH1tS) | [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [CHIQUIS \- BEE SIDE](https://open.spotify.com/album/4HFQEBKPajKOqug9XxW4P4) | 3:10 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDA3Mjg1ZDE4YzZjNGE2Y2FhM2Y2YjBmNzg0NDhiODkw`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDA3ZTMyYzNhODYzODNkNzY1Nzg5NTM0MWYwZTBjNDll`

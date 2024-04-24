@@ -4,7 +4,7 @@
 
 > ¡Muévete al ritmo de las Cumbias! De todas, Norteñas, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny
 
-293 songs - 18 hr 6 min
+294 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [La Chica Sexy](https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Jugo A La Vida](https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK) | 3:44 | 2023-05-01 |  |
 | [La Chona](https://open.spotify.com/track/6pq7EtEDWgD5Sh02RJaXK7) | [Los Tucanes De Tijuana](https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK) | [Me Robaste El Corazon](https://open.spotify.com/album/127PyrgkTjtB5HTFNlIG2Y) | 3:18 | 2023-05-01 |  |
 | [La Cobra](https://open.spotify.com/track/3aSYVIS5nC3hrFK368flZt) | [Fito Olivares y Su Grupo](https://open.spotify.com/artist/3zzeZVLuOeetfimOd4k8rE) | [Veinte Años De Sabrosura](https://open.spotify.com/album/0GrxrRK6JBw0hyEVG7EJWo) | 3:09 | 2022-01-14 | 2023-05-02 |
+| [La Colegiala](https://open.spotify.com/track/6Ds2mSfCcXskyuUcKnh5kK) | [Calo](https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L), [Andres Castillo](https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2), [Margarita La Diosa de La Cumbia](https://open.spotify.com/artist/6aElsiQxMQyf8Wo0yhxTqL) | [Leyenda](https://open.spotify.com/album/4adY26jTGV09nyL11n5bil) | 4:08 | 2023-05-01 |  |
 | [La Cumbia de la Cerveza](https://open.spotify.com/track/12CjTBrIidxLSgam2iOw2o) | [Grupo Sonador](https://open.spotify.com/artist/2EliUhznUrwHp1yJvhlHQF) | [Grandes Exitos Originales](https://open.spotify.com/album/0AhjOKoGXJiGqt9MJ3PAUP) | 2:47 | 2022-01-14 | 2023-05-02 |
 | [La Cumbia de los Monjes](https://open.spotify.com/track/03ITeFvMvTRpTC92WsQWw5) | [Ritmo Y Sabor](https://open.spotify.com/artist/1FSn3FN1HTxrK4qgoslPJh) | [Latino](https://open.spotify.com/album/3a4EAp0gT2IoAvNtToqrCD) | 3:22 | 2022-01-14 | 2023-05-02 |
 | [La Cumbia Sampuesana](https://open.spotify.com/track/0HwlxSs5mE9BQisZHxEzZD) | [Aniceto Molina Y La Luz Roja De San Marcos](https://open.spotify.com/artist/2w1Cbkm6vXYqdfHkFpe4XO) | [20 Anos de Exitos](https://open.spotify.com/album/6rqBG2zNOkfcfrn6O6Z9Rc) | 3:53 | 2022-01-14 | 2022-07-29 |
@@ -170,7 +171,7 @@
 | [Mary Lee](https://open.spotify.com/track/7FGMeXrwpKVFcoCHnslE4J) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Palabras Tristes](https://open.spotify.com/album/5AZuEf75Kcau9PQOR88PLo) | 3:10 | 2023-05-01 |  |
 | [Mas Que Amigos \- En Vivo](https://open.spotify.com/track/5x3RvunGAJ3Ws7r5yhFKeB) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [En Vivo, Vol.1](https://open.spotify.com/album/6IowhUMQKAxWr2V7qyPbcM) | 3:07 | 2023-05-01 | 2024-04-19 |
 | [Mayonesa](https://open.spotify.com/track/5Qjx4obghhfhsh6DiUwpNM) | [Chocolate](https://open.spotify.com/artist/4e3lv5qRgFpdILdEOHchbn) | [2000 Grandes Exitos](https://open.spotify.com/album/4dqiQqmKsYhgmrocMXhogw) | 3:51 | 2022-01-14 | 2023-05-02 |
-| [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 | 2023-05-01 |  |
+| [Me Aceptaste \- En Vivo](https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [JJ Araujo](https://open.spotify.com/artist/0DupYCzJV3DYvyPKpDzNAU) | [Cura Local \(En Vivo\)](https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b) | 2:08 | 2023-05-01 | 2024-04-24 |
 | [Mentirosa \(Eres Mentirosa\)](https://open.spotify.com/track/61CjystzXpC3TXueoe9Jss) | [Chicos de Barrio](https://open.spotify.com/artist/0pTxCwjrb9mfMx8fVgOT8X) | [Puros Vatos...Choca Y Rebota](https://open.spotify.com/album/6mIczU0lXJ1Mkyu0v1tdAe) | 4:33 | 2022-01-14 | 2023-05-02 |
 | [Mi Corazon Enamorado](https://open.spotify.com/track/4RWbOGWFhcnQbzafhHUSGB) | [Alberto Pedraza Con Su Ritmo Y Sabor](https://open.spotify.com/artist/4UIqtgggXTOuv5y97QQCrl) | [A Mis Amigos](https://open.spotify.com/album/4TtMhqvX6RwhKMLed7HMHg) | 4:39 | 2022-01-14 | 2023-05-02 |
 | [Mi Corazon Es un Vagabundo](https://open.spotify.com/track/3nbRJnQ98EG9zndfLZGorm) | [Chucho Ponce Los Daddys de Chinantla](https://open.spotify.com/artist/5Jvzp2OQHVKVVRNwrIJ9im) | [Solo Exitos](https://open.spotify.com/album/5gGkPK9scAgvwiCwC1c0Bg) | 3:56 | 2022-01-14 | 2023-05-02 |

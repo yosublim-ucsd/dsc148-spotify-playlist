@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 
 > Filthy bass bangers to soundtrack your sesh
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,451 likes - 75 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,523 likes - 75 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4cMP5VV3uz1.md) - [plain]
 | 68 | [Take You Higher \- VIP](https://open.spotify.com/track/23j0RW9sGbxoU6VOhERe0t) | [Tsuki](https://open.spotify.com/artist/2yJbiseBZFvrCK5GueLnk7) | [Take You Higher \(VIP\)](https://open.spotify.com/album/1lrE7AKDDM0Co1GPObbp26) | 3:35 |
 | 69 | [When It Rains, It Pours \(feat\. Coco, Mr Traumatik & Songer\) \- Shapes Remix](https://open.spotify.com/track/5XDS88WPZRekqrBBfawjI5) | [Bad Boy Chiller Crew](https://open.spotify.com/artist/5SRr4ZJMoygWecytkIwlaV), [Coco](https://open.spotify.com/artist/7q33wxvdJ95u6w3fY2q5ai), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Mr Traumatik](https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw) | [When It Rains, It Pours \(Shapes Remix\) \(feat\. Coco, Mr Traumatik & Songer\)](https://open.spotify.com/album/3lxi18DxYCsn3fMv2F4Y9L) | 4:14 |
 | 70 | [Bittersweet Goodbye \- Lens Remix](https://open.spotify.com/track/3wkuynG4GwBd8LLNDeKTE5) | [Issey Cross](https://open.spotify.com/artist/5QrV5Vr4KdsyKtifvD6X1U), [Lens](https://open.spotify.com/artist/6XKxTAwaVZS4dhFj8IxFFz) | [Bittersweet Goodbye \(Lens Remix\)](https://open.spotify.com/album/6tp5KT9JEffGYt5iXzqOnY) | 3:21 |
-| 71 | [Party President](https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Party President](https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8) | 3:07 |
-| 72 | [Armed & Dangerous](https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Armed & Dangerous](https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM) | 3:54 |
+| 71 | [Armed & Dangerous](https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Armed & Dangerous](https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM) | 3:54 |
+| 72 | [Party President](https://open.spotify.com/track/0rEUglmFNvBAtg0w3mo3CS) | [Silky](https://open.spotify.com/artist/3dlippLcdVGBPKVFhnWXaF) | [Party President](https://open.spotify.com/album/0VLlG23D8mtxGHuctstrO8) | 3:07 |
 | 73 | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/track/4LNJEZ4PEOZH6jyJuKEaUP) | [Double Lz](https://open.spotify.com/artist/4Al9wqYpl2Yi1XfUrDrZmS), [Jaykae](https://open.spotify.com/artist/1sLYZv95ZXwVfyGHan5w45), [Blair Muir](https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT) | [Lively \(feat\. Jaykae & Blair Muir\)](https://open.spotify.com/album/0Z8jfqzvBnUHiSfVBXXniD) | 2:32 |
 | 74 | [Sirens](https://open.spotify.com/track/3HeOOjms1LHV4U91lKcbwd) | [EV](https://open.spotify.com/artist/1qOueWotu6CIb1GMoib2GX) | [Sirens](https://open.spotify.com/album/3L4Meb0nRGrUulc4Xp9esu) | 2:50 |
 | 75 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 
 > onde quer conhecer? fala no ouvido do PH
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,374,969 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,375,118 likes - 60 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7f8PyAQL3rz.md) - [plain]
 | 27 | [Carta Aberta](https://open.spotify.com/track/4VI4yOAb7fWrFCnuGBIaeG) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Carta Aberta](https://open.spotify.com/album/7yGXpufcJyZEZ5fcyv2NGq) | 4:22 |
 | 28 | [Para de Mentir](https://open.spotify.com/track/1bjvTcHiftBtqeK6Y2Mh8H) | [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd) | [Para de Mentir](https://open.spotify.com/album/0nMw6EngQqlOJXLxt53jpQ) | 4:14 |
 | 29 | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/track/3ktTWpYdXrYApH54cBo4Ap) | [Matuê](https://open.spotify.com/artist/5nP8x4uEFjAAmDzwOEc9b8), [Rich The Kid](https://open.spotify.com/artist/1pPmIToKXyGdsCF6LmqLmI) | [Conexões de Máfia \(feat\. Rich The Kid\)](https://open.spotify.com/album/54nMZ1uU3fJFROh7jEymzB) | 3:41 |
-| 30 | [Nois é Nois](https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Nois é Nois](https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X) | 2:00 |
-| 31 | [Problemas de um Milionário](https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Problemas de um Milionário](https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu) | 2:24 |
+| 30 | [Problemas de um Milionário](https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR) | [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [Problemas de um Milionário](https://open.spotify.com/album/37xAMiTNitGXNdcm6v7ZJu) | 2:24 |
+| 31 | [Nois é Nois](https://open.spotify.com/track/1k1egPmIPWQ0J44PWgMDwA) | [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [Nois é Nois](https://open.spotify.com/album/42I7nPQNGF5TxZiP8Esk2X) | 2:00 |
 | 32 | [Preferida](https://open.spotify.com/track/5TtTijiNYtFc6ktQARjY30) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Contradições](https://open.spotify.com/album/1vR5pzEPXx1i7h8zwosa7D) | 2:10 |
 | 33 | [zumzumzum](https://open.spotify.com/track/6cRyy0XvzIdbSNzjYAOoFf) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [zumzumzum](https://open.spotify.com/album/11NxigNYgrmmNMBXcqjJyx) | 2:30 |
 | 34 | [Foto da Unha](https://open.spotify.com/track/6CQWmtVuHcGGdWLfcpOpbp) | [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [Foto da Unha](https://open.spotify.com/album/2ch0bK9veGHOPlDQCYLAln) | 3:19 |

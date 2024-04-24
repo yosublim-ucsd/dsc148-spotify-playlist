@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 
 ### [This Is Danna Paola](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3grxzg)
 
-> This is Danna Paola\. Tutti i brani in un'unica playlist.
+> This is Danna Paola\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,516 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,581 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 27 | [Cuándo empezaré a vivir](https://open.spotify.com/track/6IBEOcSiUZUhVlQeQgcUJC) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Enredados](https://open.spotify.com/album/22WkSpR8xE9VIwYutklC6Q) | 2:28 |
 | 28 | [Dos Extraños](https://open.spotify.com/track/776D0NXlV6o3QpntAxFmwt) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:33 |
 | 29 | [Kaprichosa](https://open.spotify.com/track/11iYGnLvPxB2O9k0xGmPvq) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Kaprichosa](https://open.spotify.com/album/398f6bMojV8IIh3FXd3q0o) | 3:20 |
-| 30 | [MÍA](https://open.spotify.com/track/2HWXhViZhTPJa10NgyrRRS) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [MÍA](https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz) | 3:10 |
-| 31 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
+| 30 | [Santería](https://open.spotify.com/track/3VArTR8VPyOEiITj8SJMLv) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Santería](https://open.spotify.com/album/2m9hbe3YP1PXygWHN1gUAy) | 3:04 |
+| 31 | [MÍA](https://open.spotify.com/track/2HWXhViZhTPJa10NgyrRRS) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [MÍA](https://open.spotify.com/album/7w4L4dKgKRlErEaYooPvoz) | 3:10 |
 | 32 | [No Es Cierto](https://open.spotify.com/track/6QujFeVy4XXrf9NcEJYOuV) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Noel Schajris](https://open.spotify.com/artist/2uEjXyVi0SA1HPpj3zquXh) | [Danna Paola \(Edición Deluxe\)](https://open.spotify.com/album/3sqRn2w4AGBDxzJe7PjGYd) | 3:45 |
 | 33 | [T.A.C.O.](https://open.spotify.com/track/3BtvZuzvNbN7OIaUsWIM5M) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 3:00 |
 | 34 | [Final Feliz](https://open.spotify.com/track/3e9V8vS2oviXYWtj09DkJP) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [SIE7E +](https://open.spotify.com/album/5LIIJcPOYm4G4mFw9ydeBE) | 3:04 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3grxzg.md) - [plain]
 | 49 | [Pintando El Amor](https://open.spotify.com/track/7hipALmB4PgPnjG1wr8ls4) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB), [Mateo](https://open.spotify.com/artist/3ZSqOgN2W2NrJ0kDoMj2g0) | [Atrévete A Soñar 2](https://open.spotify.com/album/12ZHvtCWmZqtud4TndhrSS) | 3:19 |
 | 50 | [TQ Y YA](https://open.spotify.com/track/5DRHPNxyFaeYKLOD0i0q8z) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [K.O.](https://open.spotify.com/album/5y5Qud31YIPnxbVjzojvmK) | 2:52 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGY5ZWU0MmZmNGYyYmEyNmUzNjBjZjNlOTIzMGMzZWMx`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDFiMjI1M2I4ODYzZDgyNTg3NGI4YjgwOTQ0ZWIxZmQz`

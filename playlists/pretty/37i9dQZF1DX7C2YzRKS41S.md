@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 
 > Um pouco de folk, jazz e MPB para acordar com o pé na estrada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,650 likes - 60 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,724 likes - 60 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 15 | [Trevo \(Tu\)](https://open.spotify.com/track/2vRBYKWOyHtFMtiK60qRz7) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [TIAGO IORC](https://open.spotify.com/artist/4iWkwAVzssjb8XgxdoOL6M) | [ANAVITÓRIA](https://open.spotify.com/album/2UkBU2McOTulQ1Ki7OwDIw) | 3:25 |
 | 16 | [me va a costar](https://open.spotify.com/track/0Y7NqQ9RNoHZHDTeDS4UnO) | [Kevin Kaarl](https://open.spotify.com/artist/6OBGbSaBUvQtk9wpQfDbOE) | [me va a costar](https://open.spotify.com/album/7MgPJ608fJvGMf7xCJlPq9) | 3:48 |
 | 17 | [Fever To The Form](https://open.spotify.com/track/1QJnDJuYOGj05iSc4eWGr5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [First Mind](https://open.spotify.com/album/0ntJpgznXrZ6Qc8wTxtcXh) | 4:12 |
-| 18 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
-| 19 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
+| 18 | [Índigo](https://open.spotify.com/track/4knc1Fp3kbuq8bH2byOvLu) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Índigo](https://open.spotify.com/album/1QtYnYj7SFX1EIqF6ALjaX) | 3:34 |
+| 19 | [Carolina \- From The Motion Picture “Where The Crawdads Sing”](https://open.spotify.com/track/4axSuOg3BqsowKjRpj59RU) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Carolina \(From The Motion Picture “Where The Crawdads Sing”\)](https://open.spotify.com/album/5Bwg2XxrjTlrNy6BC7KQZf) | 4:24 |
 | 20 | [Pontos de Exclamação](https://open.spotify.com/track/2mlsK27VNUj8y08BvtIbXu) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Pontos de Exclamação](https://open.spotify.com/album/6OMICpWuK1nwndfvZJuGyb) | 3:01 |
 | 21 | [Green Eyes](https://open.spotify.com/track/3ou9rSNUQnE7XYmJkUUIOc) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [A Rush of Blood to the Head](https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ) | 3:43 |
 | 22 | [Partilhar](https://open.spotify.com/track/1PQRwFvNM7xV65bIkHmDtx) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW), [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [Partilhar](https://open.spotify.com/album/1pbjhsgtyc5hOVNaaz6tpN) | 4:22 |
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7C2YzRKS41S.md) - [plain]
 | 48 | [Sim](https://open.spotify.com/track/1CDItzs1Ud0u9PDKdJgrio) | [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy), [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [Sim](https://open.spotify.com/album/04t4WLCMz8nzevU7Frcn1g) | 3:49 |
 | 49 | [Homecoming](https://open.spotify.com/track/6Q1VMEsgtuOXZxdduuj4lG) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Homecoming](https://open.spotify.com/album/3WHRzQYzTFmIVnYiqGWBra) | 2:52 |
 | 50 | [Miragem](https://open.spotify.com/track/23hHJyj6LwcJtzvu9vVhZT) | [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax), [Natiruts](https://open.spotify.com/artist/4PhdYoQGH8s1xee81dqQOO) | [Miragem](https://open.spotify.com/album/7heza5YlpANyzWtj0PZWhq) | 3:33 |
-| 51 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
-| 52 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
-| 53 | [Simples e Romântico](https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC) | [Nicolas Germano](https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy) | [Simples e Romântico](https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH) | 3:27 |
+| 51 | [Rock It](https://open.spotify.com/track/0is4ka3uSbBT04pC2WFsp3) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Rock It](https://open.spotify.com/album/5fyS9Y9LRLC4TYdEZn9AtY) | 3:27 |
+| 52 | [Simples e Romântico](https://open.spotify.com/track/7dAbpCdKHAPNONpwGTmGzC) | [Nicolas Germano](https://open.spotify.com/artist/7rT9dkimFVzgMF0IyIfiYy) | [Simples e Romântico](https://open.spotify.com/album/4Dm6py1rtwMJqh75XVMfnH) | 3:27 |
+| 53 | [The Worst Of You](https://open.spotify.com/track/06rX4GEEjsVTSbRBWycs2U) | [PJ Harding](https://open.spotify.com/artist/1RryIbDjpwt00AKkSpCGvP), [Noah Cyrus](https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW) | [People Don't Change](https://open.spotify.com/album/3MCI7K9Qj3lAMADbHP4EaQ) | 3:29 |
 | 54 | [Ai de Mim](https://open.spotify.com/track/5df99H7yd4phkyAR9feLdf) | [OUTROEU](https://open.spotify.com/artist/3gZAVWMzKOt1tVO4tHoGwo), [Sandy](https://open.spotify.com/artist/4ZfTpxwHwtot9Ps59bXAF8) | [OutroEu](https://open.spotify.com/album/0TkXnCE4W4ePll9mXmjhP4) | 4:18 |
 | 55 | [Give Me The Reason](https://open.spotify.com/track/5viz8trU1uh1pngW0hWr3l) | [James Bay](https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD) | [Give Me The Reason](https://open.spotify.com/album/2IKvoLYI5mb0eyKWiB2G2z) | 3:54 |
 | 56 | [HUES](https://open.spotify.com/track/1CbjLm3Q4jFALQGFc3TVgC) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [HUES](https://open.spotify.com/album/4AD173y27znvHf5FYTlEWS) | 2:44 |
-| 57 | [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 |
-| 58 | [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 |
-| 59 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 |
+| 57 | [Riptide](https://open.spotify.com/track/1KqlVt63Q4bl1VdSlymr5C) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Riptide](https://open.spotify.com/album/2rn4ILhjtOrEnyYlHTUDVz) | 3:24 |
+| 58 | [Roll it on Home](https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:22 |
+| 59 | [Unconditional](https://open.spotify.com/track/6s4zenGcbyP5D9v9YATbmX) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj) | [Wake Up Now](https://open.spotify.com/album/19YrX17syzkT6UZKLPpok4) | 3:44 |
 | 60 | [Não Te Largo, Não Te Troco \- Acústico](https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ) | [Ana Gabriela](https://open.spotify.com/artist/6a9WLQ5NsIV7U2qB16uFWD), [Melim](https://open.spotify.com/artist/6uYrXgVHctAJtIdSODcyLJ) | [Não Te Largo, Não Te Troco \(Acústico\)](https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX) | 3:50 |
 
 Snapshot ID: `MTcxMTM2MDM1NywwMDAwMDAwMDQzMzIyZTIyNDQ0NmFmN2MyOTNmNGI1ZjIyNTk1OTJh`

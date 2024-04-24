@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 715756,
+  "num_followers": 715826,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "The Information",
-        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Think I'm In Love",
-      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Wings At The Speed Of Sound (Archive Collection)",
         "url": "https://open.spotify.com/album/3eN0kcFvDvdpjAvv1qZa4D"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 311880,
       "name": "Let 'Em In - 2014 Remaster",
       "url": "https://open.spotify.com/track/37RqEET1SYQaAcHDxDQLZY"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "The Information",
+        "url": "https://open.spotify.com/album/4vvGnnUgid9IbTS3sUVYCF"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Think I'm In Love",
+      "url": "https://open.spotify.com/track/5r9WJVe1yhJx9ZUg30XEHQ"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -539,22 +539,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Take What's Given",
-        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
-      },
-      "artists": [
-        {
-          "name": "BADBADNOTGOOD",
-          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
-        }
-      ],
-      "duration_ms": 174257,
-      "name": "Take What's Given",
-      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Jaime",
         "url": "https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR"
       },
@@ -571,18 +555,18 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Juno",
-        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+        "name": "Take What's Given",
+        "url": "https://open.spotify.com/album/5SApZEPFs4QKsM2jJNas7F"
       },
       "artists": [
         {
-          "name": "Remi Wolf",
-          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+          "name": "BADBADNOTGOOD",
+          "url": "https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ"
         }
       ],
-      "duration_ms": 171897,
-      "name": "Anthony Kiedis",
-      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
+      "duration_ms": 174257,
+      "name": "Take What's Given",
+      "url": "https://open.spotify.com/track/1QHAegssMExNfItsAaUJiY"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -599,6 +583,22 @@
       "duration_ms": 159093,
       "name": "Charley's Girl",
       "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Juno",
+        "url": "https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR"
+      },
+      "artists": [
+        {
+          "name": "Remi Wolf",
+          "url": "https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d"
+        }
+      ],
+      "duration_ms": 171897,
+      "name": "Anthony Kiedis",
+      "url": "https://open.spotify.com/track/3xJu5hrOU9OvFQSGLQiwQS"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -635,6 +635,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 207346,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Eddie",
         "url": "https://open.spotify.com/album/5FTrv0ut24vm76hx1WuWSN"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 290893,
       "name": "Out Of Love",
       "url": "https://open.spotify.com/track/3hNywmR93yvj68y2zl8mRt"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "Ivory",
-        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
-      },
-      "artists": [
-        {
-          "name": "Omar Apollo",
-          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
-        }
-      ],
-      "duration_ms": 207346,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1JNv9ICYbayNgqm8fKPLqP"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
         "url": "https://open.spotify.com/album/07wcvmb8zpMv1g1pV3rDw3"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 251546,
       "name": "Time Machine (feat. Thundercat & James Fauntleroy)",
       "url": "https://open.spotify.com/track/5dnEmsv2Uc24hMnLv9k0Xo"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "One and Only",
-        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
-      },
-      "artists": [
-        {
-          "name": "Gabriels",
-          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
-        }
-      ],
-      "duration_ms": 191037,
-      "name": "One and Only",
-      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Pulse (Expanded Edition)",
         "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 326613,
       "name": "Lazy Nina",
       "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "One and Only",
+        "url": "https://open.spotify.com/album/7CXmRX6T71T7xgTqZtHNsM"
+      },
+      "artists": [
+        {
+          "name": "Gabriels",
+          "url": "https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz"
+        }
+      ],
+      "duration_ms": 191037,
+      "name": "One and Only",
+      "url": "https://open.spotify.com/track/3nQcCZarfJoDbebUXa9hxa"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
+        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
+        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
+      },
+      "artists": [
+        {
+          "name": "William Onyeabor",
+          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
+        }
+      ],
+      "duration_ms": 386160,
+      "name": "Fantastic Man",
+      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
         "name": "Dos Uvas",
         "url": "https://open.spotify.com/album/2MvZ4FTsUUSAv7VhtXwFRf"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 213328,
       "name": "Hospital",
       "url": "https://open.spotify.com/track/2bt1cEwiLzcClL5bTs0ezd"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
-        "name": "World Psychedelic Classics 5: Who Is William Onyeabor?",
-        "url": "https://open.spotify.com/album/5TTFe3hLqkfQf0xRUponX0"
-      },
-      "artists": [
-        {
-          "name": "William Onyeabor",
-          "url": "https://open.spotify.com/artist/755pQSGUy6rtPrUCbnJTvi"
-        }
-      ],
-      "duration_ms": 386160,
-      "name": "Fantastic Man",
-      "url": "https://open.spotify.com/track/1ETZhP9orTkDclKEyt0xqm"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Tenemos Todo (Taggy Matcher Remix)",
-        "url": "https://open.spotify.com/album/4epOrZkmpUY2W85SOfxcKv"
-      },
-      "artists": [
-        {
-          "name": "Mathieu Des Longchamps",
-          "url": "https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V"
-        },
-        {
-          "name": "Taggy Matcher",
-          "url": "https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF"
-        }
-      ],
-      "duration_ms": 191039,
-      "name": "Tenemos Todo - Taggy Matcher Remix",
-      "url": "https://open.spotify.com/track/3Om6DDM2h8d5iqV37UnM5v"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Hey u x",
         "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF"
       },
@@ -1687,18 +1667,22 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Introducing...",
-        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+        "name": "Tenemos Todo (Taggy Matcher Remix)",
+        "url": "https://open.spotify.com/album/4epOrZkmpUY2W85SOfxcKv"
       },
       "artists": [
         {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+          "name": "Mathieu Des Longchamps",
+          "url": "https://open.spotify.com/artist/48wxYtSTJqSdqxsV1z473V"
+        },
+        {
+          "name": "Taggy Matcher",
+          "url": "https://open.spotify.com/artist/2u7HXyOB94OUobf3fQtMtF"
         }
       ],
-      "duration_ms": 232760,
-      "name": "Ride with Me",
-      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
+      "duration_ms": 191039,
+      "name": "Tenemos Todo - Taggy Matcher Remix",
+      "url": "https://open.spotify.com/track/3Om6DDM2h8d5iqV37UnM5v"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1715,6 +1699,22 @@
       "duration_ms": 214893,
       "name": "Just Another Honky",
       "url": "https://open.spotify.com/track/0VBNUr0tXN3GaxOjBoB0Es"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Introducing...",
+        "url": "https://open.spotify.com/album/5c1E5jFxDYivYtb6pr08qJ"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "Ride with Me",
+      "url": "https://open.spotify.com/track/2ARIyufUagbk2YXbqJXYOH"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Lucha",
-        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
-      },
-      "artists": [
-        {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
-        }
-      ],
-      "duration_ms": 262184,
-      "name": "Nunca",
-      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "Southern Nights",
         "url": "https://open.spotify.com/album/4x1gp0YZRosiMcM0f1WGls"
       },
@@ -1799,6 +1783,22 @@
       "duration_ms": 181773,
       "name": "Last Train - Remastered Version",
       "url": "https://open.spotify.com/track/1zFkWtm4zmjB4O3qAokRBX"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Lucha",
+        "url": "https://open.spotify.com/album/1EHQiP8a52kT5jcAcrAIib"
+      },
+      "artists": [
+        {
+          "name": "Y La Bamba",
+          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+        }
+      ],
+      "duration_ms": 262184,
+      "name": "Nunca",
+      "url": "https://open.spotify.com/track/5pU82TRphKp8dTyIICg9zv"
     },
     {
       "added_at": "2024-04-10 19:17:24",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "The Switch",
-        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
-      },
-      "artists": [
-        {
-          "name": "Emily King",
-          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
-        }
-      ],
-      "duration_ms": 189536,
-      "name": "Believer",
-      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
-    },
-    {
-      "added_at": "2024-04-10 19:17:24",
-      "album": {
         "name": "RISE",
         "url": "https://open.spotify.com/album/3TWblAw43j83gbtK5IutiZ"
       },
@@ -1943,18 +1927,34 @@
     {
       "added_at": "2024-04-10 19:17:24",
       "album": {
-        "name": "Dina \u00d6gon",
-        "url": "https://open.spotify.com/album/1fO48uPVulHutVi6MeDTxF"
+        "name": "The Switch",
+        "url": "https://open.spotify.com/album/04VtAp2SJPVsutli1F3KjY"
       },
       "artists": [
         {
-          "name": "Dina \u00d6gon",
-          "url": "https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI"
+          "name": "Emily King",
+          "url": "https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/3c3VaKO06oPEFlantuWWTz"
+      "duration_ms": 189536,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/5CnNs7UMthQNuXgFMsQCDX"
+    },
+    {
+      "added_at": "2024-04-10 19:17:24",
+      "album": {
+        "name": "Longwave",
+        "url": "https://open.spotify.com/album/7uo0oJVjhuw0fIGltmSPcs"
+      },
+      "artists": [
+        {
+          "name": "Bonny Doon",
+          "url": "https://open.spotify.com/artist/0AL8XXRh7fUrHAMLoDv9rn"
+        }
+      ],
+      "duration_ms": 323263,
+      "name": "Long Wave",
+      "url": "https://open.spotify.com/track/5UnoxzcNj2Ym6ZOnIGdwGE"
     }
   ],
   "unique_name": "Feel Good Dinner",

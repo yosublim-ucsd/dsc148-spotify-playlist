@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2A29LI7xHn1.md) - [plain]
 
 > Crossing over like Allen I\. Cover: Doja Cat
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,052,789 likes - 100 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,051,466 likes - 100 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

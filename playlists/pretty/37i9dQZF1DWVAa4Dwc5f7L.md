@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 
 > ¡Hasta las 15! Monster merengue hits! Cover: Olga Tañón
 
-[Spotify](https://open.spotify.com/user/spotify) - 380,401 likes - 100 songs - 6 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 379,938 likes - 100 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 54 | [La Vida Da Vuelta](https://open.spotify.com/track/2sJkbRybtcw6nq9sN4fpad) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [La Vida Da Vuelta](https://open.spotify.com/album/1U5Ulw5MM2Qv5BafWrF4h1) | 2:42 |
 | 55 | [El Virao](https://open.spotify.com/track/2GnGoXexzccSQtPEERPgGh) | [Los Cantantes](https://open.spotify.com/artist/1OK49IC8PfUPbAtQRv2ryh) | [El Virao](https://open.spotify.com/album/5Le90IA8Ywp9Td8Ad2sw9P) | 4:12 |
 | 56 | [Soltemos al Mundo](https://open.spotify.com/track/66irfMtLkQh7H2F5zLclp8) | [Daniel Santacruz](https://open.spotify.com/artist/4tLUnrSgMM7tT0zVs3wX61), [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Soltemos al Mundo](https://open.spotify.com/album/70dAQDFwSbXPOWWYyEjagm) | 3:33 |
-| 57 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
-| 58 | [JotaBé](https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [JotaBé](https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS) | 2:47 |
+| 57 | [JotaBé](https://open.spotify.com/track/3CrTrdgbJQl6NWUBTsLyYd) | [Daviles de Novelda](https://open.spotify.com/artist/6E94QKXZv8BbO6QQJxcxLI), [Rafa Pabön](https://open.spotify.com/artist/11YLRSsZA3YVuQQtHXKTlz) | [JotaBé](https://open.spotify.com/album/037Atxwv4mxxFRXM4564RS) | 2:47 |
+| 58 | [La Mujer](https://open.spotify.com/track/2GQ4ey8Dzq8ZkvW15yrl48) | [Didi Hernandez](https://open.spotify.com/artist/4BcT4O9HRp3BUIKTsNtwZH) | [La Mujer](https://open.spotify.com/album/40deup3Khxr7OdrwTtdog6) | 4:05 |
 | 59 | [Sin Rumbo](https://open.spotify.com/track/7BJz4hamLaRwAcI1KtLHeI) | [Eddy Herrera](https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC) | [Imparable](https://open.spotify.com/album/700tpyzeI5UxIIW8j2ds7K) | 3:31 |
 | 60 | [El Bote](https://open.spotify.com/track/6wNchNOFCqymfejC9So4d1) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD) | [El Pichón](https://open.spotify.com/album/0lI9BJdfQK8wq9AlQEuUZi) | 2:51 |
 | 61 | [El Moreno Esta](https://open.spotify.com/track/3uMcf1QPK2jOBStnZAdMch) | [Jossie Esteban & La Patrulla 15](https://open.spotify.com/artist/0VpcWRPcfKxjqNIs82pPpb) | [O.K\. All Right](https://open.spotify.com/album/0APbv2lshYuYSoP7t4ypTv) | 4:32 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVAa4Dwc5f7L.md) - [plain]
 | 71 | [Lluvia y Samba](https://open.spotify.com/track/1AV9KQLsAUWlUhCxbExYxz) | [Elvis Crespo](https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df), [Gilberto Santa Rosa](https://open.spotify.com/artist/27vNK840zYq6IfDijHPsv1), [Alex Bueno](https://open.spotify.com/artist/7esCoLcCoCK7FPa9casAH4) | [Lluvia y Samba](https://open.spotify.com/album/3FyrRtHlDXhkmwT8d5KScA) | 3:47 |
 | 72 | [Ganas \- Versión Merengue](https://open.spotify.com/track/1TLZarOJe4WbDOMHoXBMfE) | [Olga Tañón](https://open.spotify.com/artist/4pv1Jo4PbYI8LMADJoTWjE) | [Ganas \(Versión Merengue\)](https://open.spotify.com/album/1CkzDWjykuEmDfBLtE0JMf) | 3:35 |
 | 73 | [Another Night](https://open.spotify.com/track/6ZOZW00i9w8wwfwZtpreZI) | [Gabriel Pagan](https://open.spotify.com/artist/3InfS9TeNQro4bp9EWtuyP), [Proyecto Uno](https://open.spotify.com/artist/6w1XCiB8efbfnusJ2jzmvu) | [Morisoñando, Vol\. 1](https://open.spotify.com/album/3VnsfmLE5l8HDbniGw707B) | 3:50 |
-| 74 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 |
-| 75 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
+| 74 | [Jilila Kimbolo](https://open.spotify.com/track/6gdy8MNpH37iLFTRdNXfAm) | [Mala Fe](https://open.spotify.com/artist/4oVcPiYDvfGxamTzwvnKtp) | [Back In Town](https://open.spotify.com/album/4Bpgw9UfwmY3GAKGMyI1Ep) | 4:18 |
+| 75 | [Alo](https://open.spotify.com/track/1iq1xrOXICFCR5MtmpkwMz) | [Los Hermanos Rosario](https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl) | [Aura](https://open.spotify.com/album/4nR8BybNNejawuuQzRYwap) | 4:38 |
 | 76 | [Volveré](https://open.spotify.com/track/0HFBBgkhwJMvPiEDIkEsyt) | [Wilfrido Vargas](https://open.spotify.com/artist/5LCDv4TvYRQD5ehflOBEh4) | [Serie 2000](https://open.spotify.com/album/7DZr03Gh34452PtpkVRc5m) | 4:25 |
 | 77 | [Vivo De Tus Recuerdos](https://open.spotify.com/track/1mQj1kmMUjBtEfDLAbZLDw) | [Nelson Arrieta](https://open.spotify.com/artist/7jS9nzysQ66L1yfPA0HATF) | [Vivo De Tus Recuerdos](https://open.spotify.com/album/6QmdBhFtXkLymk4qwW13kf) | 3:18 |
 | 78 | [Que No Se Acabe](https://open.spotify.com/track/7l7RWEAfoiRPswJa4skO5i) | [Manny Cruz](https://open.spotify.com/artist/3C6PJhao839YVg9YyV16lA), [Urbanda](https://open.spotify.com/artist/0gEbDhqRDCeCdZM9N970ov) | [Que No Se Acabe](https://open.spotify.com/album/4wkI7N7F94lQKrFBowpxGn) | 3:18 |

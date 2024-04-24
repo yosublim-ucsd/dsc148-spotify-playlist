@@ -1,6 +1,6 @@
 {
   "description": "Tus canciones favoritas de M\u00fasica Mexicana, all in one place! Cover: Christian Nodal & Peso Pluma",
-  "num_followers": 296644,
+  "num_followers": 296821,
   "original_name": "Las Favoritas",
   "owner": {
     "name": "Spotify",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Ya Sup\u00e9rame (En Vivo)",
-        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        }
-      ],
-      "duration_ms": 189050,
-      "name": "Ya Sup\u00e9rame (En Vivo)",
-      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "10\u00ba Aniversario",
         "url": "https://open.spotify.com/album/2i6q4YYCAdOgdODbbhyKdk"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 153493,
       "name": "Hermosa Experiencia",
       "url": "https://open.spotify.com/track/6GTX6TGcHEWHoxHXPSVbJ2"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Ya Sup\u00e9rame (En Vivo)",
+        "url": "https://open.spotify.com/album/1Aiov6IELpNAdCHMzbz6Ml"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 189050,
+      "name": "Ya Sup\u00e9rame (En Vivo)",
+      "url": "https://open.spotify.com/track/6HIIuuUIEzH1meVdGbMXyf"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -775,22 +775,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "El Free",
-        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Recoditos",
-          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
-        }
-      ],
-      "duration_ms": 163560,
-      "name": "Mi \u00daltimo Deseo",
-      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "El Circo",
         "url": "https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq"
       },
@@ -807,18 +791,18 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Ahora",
-        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+        "name": "El Free",
+        "url": "https://open.spotify.com/album/6BmzjJPjWBVfTwbKMFdTUs"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Banda Los Recoditos",
+          "url": "https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak"
         }
       ],
-      "duration_ms": 156520,
-      "name": "No Te Contaron Mal",
-      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
+      "duration_ms": 163560,
+      "name": "Mi \u00daltimo Deseo",
+      "url": "https://open.spotify.com/track/01ksPzu3Bw8Lsf9o6xIk8C"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -835,6 +819,22 @@
       "duration_ms": 204453,
       "name": "La Buena y la Mala",
       "url": "https://open.spotify.com/track/4y0n8xKuEKE0J2sThzswhg"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Ahora",
+        "url": "https://open.spotify.com/album/6zgCsYTyMyvBLqcv51KLXS"
+      },
+      "artists": [
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+        }
+      ],
+      "duration_ms": 156520,
+      "name": "No Te Contaron Mal",
+      "url": "https://open.spotify.com/track/7hbk4BaF66O09R1gq0bKwj"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -887,22 +887,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "No Me Pidas Perd\u00f3n",
-        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 223453,
-      "name": "No Me Pidas Perdo\u0301n",
-      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "Me Volvi A Acordar De Ti",
         "url": "https://open.spotify.com/album/5UDp9amJcdxcM86mM0Hwiy"
       },
@@ -915,22 +899,6 @@
       "duration_ms": 212226,
       "name": "Tu C\u00e1rcel",
       "url": "https://open.spotify.com/track/0LNn2O06dvsZqvWaS870xJ"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
-        "name": "Fuera De Servicio",
-        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
-      },
-      "artists": [
-        {
-          "name": "El Fantasma",
-          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
-        }
-      ],
-      "duration_ms": 154868,
-      "name": "Fuera De Servicio",
-      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -951,6 +919,38 @@
       "duration_ms": 198529,
       "name": "La Sinverg\u00fcenza",
       "url": "https://open.spotify.com/track/1xO7tp4J5Wj0NeKrzIpd1V"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "No Me Pidas Perd\u00f3n",
+        "url": "https://open.spotify.com/album/1Iq9u0VsxfFDoLmX5bLTVL"
+      },
+      "artists": [
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 223453,
+      "name": "No Me Pidas Perdo\u0301n",
+      "url": "https://open.spotify.com/track/5GF1ljm1AWf6RQs9bQkZPR"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Fuera De Servicio",
+        "url": "https://open.spotify.com/album/2zPcd5LBH4VamS81YFR0nG"
+      },
+      "artists": [
+        {
+          "name": "El Fantasma",
+          "url": "https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv"
+        }
+      ],
+      "duration_ms": 154868,
+      "name": "Fuera De Servicio",
+      "url": "https://open.spotify.com/track/6wTqVQ6RRkqAyT5XDGcRq4"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Hablemos",
-        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
-      },
-      "artists": [
-        {
-          "name": "Ariel Camacho y Los Plebes Del Rancho",
-          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
-        }
-      ],
-      "duration_ms": 188560,
-      "name": "Hablemos",
-      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "Todos Hablan, Nada Saben",
         "url": "https://open.spotify.com/album/1hAHT5gZfRLDYh0sZaTnDK"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 163893,
       "name": "Todos Hablan, Nada Saben",
       "url": "https://open.spotify.com/track/0SIooo95Kba3UwPBRUOcmd"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Hablemos",
+        "url": "https://open.spotify.com/album/6WyQHTgezEoaJjhpkmmjnD"
+      },
+      "artists": [
+        {
+          "name": "Ariel Camacho y Los Plebes Del Rancho",
+          "url": "https://open.spotify.com/artist/2Lxa3SFNEW0alfRvtdXOul"
+        }
+      ],
+      "duration_ms": 188560,
+      "name": "Hablemos",
+      "url": "https://open.spotify.com/track/71aT33Muvsuim800OqZ0st"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Al Derecho Y Al Reverso",
-        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
-      },
-      "artists": [
-        {
-          "name": "La Maquinaria Norte\u00f1a",
-          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
-        }
-      ],
-      "duration_ms": 173586,
-      "name": "Eres Ese Algo",
-      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "En El Camino",
         "url": "https://open.spotify.com/album/5B5zQLsqiI6PoIRQC8jn6M"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 168425,
       "name": "En El Camino",
       "url": "https://open.spotify.com/track/76QRh2Ikhr0i6dNjRvS3GS"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Al Derecho Y Al Reverso",
+        "url": "https://open.spotify.com/album/6JfzdeEyiw6njloEcMZwnN"
+      },
+      "artists": [
+        {
+          "name": "La Maquinaria Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL"
+        }
+      ],
+      "duration_ms": 173586,
+      "name": "Eres Ese Algo",
+      "url": "https://open.spotify.com/track/6rOy9SIawgruuIWLP5divC"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 97240,
-      "name": "Qui\u00e9n Se Anima",
-      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "Mi Mexico Querido",
         "url": "https://open.spotify.com/album/74CA8KMf2pVVGl7FBxexQ1"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 212776,
       "name": "Ramito De Violetas",
       "url": "https://open.spotify.com/track/6sRaqq9SYsSTPvrWkL1sRy"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 97240,
+      "name": "Qui\u00e9n Se Anima",
+      "url": "https://open.spotify.com/track/1Kxap8UbrmlXcgKBuCysNg"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -1367,46 +1367,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "The One (Pero No Como Yo)",
-        "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 176800,
-      "name": "The One (Pero No Como Yo)",
-      "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
-        "name": "Se Fue La Pantera (En Vivo)",
-        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
-      },
-      "artists": [
-        {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-        },
-        {
-          "name": "Grupo Recluta",
-          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
-        }
-      ],
-      "duration_ms": 202021,
-      "name": "Se Fue La Pantera (En Vivo)",
-      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "La Tierra del Corrido - Spotify Singles",
         "url": "https://open.spotify.com/album/0ZbkzVai25cBAjmy7uoUkW"
       },
@@ -1431,6 +1391,26 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
+        "name": "Se Fue La Pantera (En Vivo)",
+        "url": "https://open.spotify.com/album/7mJxDGu1Ch9awEssKwiqg3"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        },
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "duration_ms": 202021,
+      "name": "Se Fue La Pantera (En Vivo)",
+      "url": "https://open.spotify.com/track/6Yard5LK4aXEn0kBKtHSob"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
         "name": "Corleone",
         "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 203829,
       "name": "Hoy Todo Cambio",
       "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "The One (Pero No Como Yo)",
+        "url": "https://open.spotify.com/album/1XHEmP9tUeP0oWRjntPfyX"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 176800,
+      "name": "The One (Pero No Como Yo)",
+      "url": "https://open.spotify.com/track/4sP0UhSgdEExt7KpcgWHFq"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -1575,6 +1575,26 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
+        "name": "Loco Enamorado",
+        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Loco Enamorado",
+      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
         "name": "Di Que Si",
         "url": "https://open.spotify.com/album/5YFKVLWDPKkm94RWatZu9e"
       },
@@ -1611,26 +1631,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Loco Enamorado",
-        "url": "https://open.spotify.com/album/506DULSIp4Bs7qDdUWpq0N"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Loco Enamorado",
-      "url": "https://open.spotify.com/track/0V6NB0qBW7Vvm7RuSoHszG"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "Levantando Polvadera (Versi\u00f3n Deluxe)",
         "url": "https://open.spotify.com/album/69YTjXSiMwojeJytLOHhW6"
       },
@@ -1663,22 +1663,22 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Cura Local (En Vivo)",
-        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
       },
       "artists": [
         {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         },
         {
-          "name": "Grupo Yndio",
-          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+          "name": "Grupo Frontera",
+          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
         }
       ],
-      "duration_ms": 239310,
-      "name": "Dame un Beso y Dime Adios - En Vivo",
-      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+      "duration_ms": 180946,
+      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
+      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-        "url": "https://open.spotify.com/album/4Qh99SRar1QNgx0aPMp2kg"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Grupo Frontera",
-          "url": "https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW"
-        }
-      ],
-      "duration_ms": 180946,
-      "name": "Dame Un Chance (La Cumbia B\u00e9lica)",
-      "url": "https://open.spotify.com/track/3JFoEDgwyiiCr5C9wRhIg4"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "M.L.P",
         "url": "https://open.spotify.com/album/2Y6PFvErT2EPBIVo7RMXK1"
       },
@@ -1743,6 +1723,26 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
+        "name": "Cura Local (En Vivo)",
+        "url": "https://open.spotify.com/album/4hHoE1NN7R25OMAiqpMI4b"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Grupo Yndio",
+          "url": "https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD"
+        }
+      ],
+      "duration_ms": 239310,
+      "name": "Dame un Beso y Dime Adios - En Vivo",
+      "url": "https://open.spotify.com/track/4KDgQ8Qd0UWK3KkYZPwNtP"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
         "name": "Mi Vida Loca",
         "url": "https://open.spotify.com/album/6T7KG6x0FdyEhDLaCJ1xmM"
       },
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Por las Noches",
-        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
-      },
-      "artists": [
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 239845,
-      "name": "Por las Noches",
-      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
         "url": "https://open.spotify.com/album/1NsJ6u8jcjsyZi9igmkbqw"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 172018,
       "name": "Nadie Va A Pensar En Ti Mejor Que Yo",
       "url": "https://open.spotify.com/track/30eHHpkjMNqb2F0V8nXjbJ"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "En Vivo Desde El Nokia",
+        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 187834,
+      "name": "El Papel Cambio (Bonus Track)",
+      "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -1827,18 +1827,18 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "En Vivo Desde El Nokia",
-        "url": "https://open.spotify.com/album/06bvQzfkwqSceCaZxDFWpK"
+        "name": "Por las Noches",
+        "url": "https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe"
       },
       "artists": [
         {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 187834,
-      "name": "El Papel Cambio (Bonus Track)",
-      "url": "https://open.spotify.com/track/7LMbe2WJ3jgk7Mn7DzXb4Z"
+      "duration_ms": 239845,
+      "name": "Por las Noches",
+      "url": "https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -2163,22 +2163,22 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+        "name": "Ciudad Peligrosa",
+        "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
       },
       "artists": [
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         },
         {
-          "name": "Grupo Firme",
-          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 258355,
-      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
-      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
+      "duration_ms": 226000,
+      "name": "Ciudad Peligrosa",
+      "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -2199,26 +2199,6 @@
       "duration_ms": 215984,
       "name": "Solita (En Vivo)",
       "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
-        "name": "Ciudad Peligrosa",
-        "url": "https://open.spotify.com/album/2FAmIkxoyJ4VMjrY2M6nV3"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 226000,
-      "name": "Ciudad Peligrosa",
-      "url": "https://open.spotify.com/track/3AzpG3c25sZQNaQi8qTTDQ"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -2255,6 +2235,26 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+        "url": "https://open.spotify.com/album/1un5ATKBBkOD7L9d2e7sUD"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        },
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "duration_ms": 258355,
+      "name": "Hasta la Miel Amarga (feat. Grupo Firme)",
+      "url": "https://open.spotify.com/track/3D3W7rDsuJIAtjInwh6Moc"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
+        "name": "Archivos de Mi Vida",
+        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 170720,
+      "name": "Eres Una Ni\u00f1a",
+      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
         "name": "Te Encontr\u00e9",
         "url": "https://open.spotify.com/album/7nI6sntFE1dXyo5UPGRevX"
       },
@@ -2419,22 +2435,6 @@
       "duration_ms": 197107,
       "name": "Te Encontr\u00e9",
       "url": "https://open.spotify.com/track/7l75lYs5TM7BsGS17ojWQe"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
-        "name": "Archivos de Mi Vida",
-        "url": "https://open.spotify.com/album/3XPV75rmAKWAeVJtXuERzz"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 170720,
-      "name": "Eres Una Ni\u00f1a",
-      "url": "https://open.spotify.com/track/0G9e3gdGPeer3BC1jh1qGN"
     },
     {
       "added_at": "2024-04-12 05:53:06",
@@ -2603,22 +2603,6 @@
     {
       "added_at": "2024-04-12 05:53:06",
       "album": {
-        "name": "Enloquecido",
-        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
-      },
-      "artists": [
-        {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        }
-      ],
-      "duration_ms": 212915,
-      "name": "Enloquecido",
-      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
-    },
-    {
-      "added_at": "2024-04-12 05:53:06",
-      "album": {
         "name": "24/7",
         "url": "https://open.spotify.com/album/352LrVMlDficyblK9e7Olr"
       },
@@ -2631,6 +2615,22 @@
       "duration_ms": 210932,
       "name": "24/7",
       "url": "https://open.spotify.com/track/02hdaX3rWzdjZL6uqBZNhG"
+    },
+    {
+      "added_at": "2024-04-12 05:53:06",
+      "album": {
+        "name": "Enloquecido",
+        "url": "https://open.spotify.com/album/7pm3bU5WKxGhRI5uyfOKuI"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        }
+      ],
+      "duration_ms": 212915,
+      "name": "Enloquecido",
+      "url": "https://open.spotify.com/track/3T5F6ulZvDzBQwq3wS31xZ"
     },
     {
       "added_at": "2024-04-12 05:53:06",

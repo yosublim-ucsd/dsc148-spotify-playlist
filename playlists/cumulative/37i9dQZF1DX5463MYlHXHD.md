@@ -4,7 +4,7 @@
 
 > Cumbia pa' volar la chapa con Los Pibes Chorros.
 
-254 songs - 13 hr 54 min
+255 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,7 +71,7 @@
 | [El Aguardiente](https://open.spotify.com/track/6KSRhpNFsToQMGvFxN7Oam) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [El Aguardiente](https://open.spotify.com/album/0c9jqeMgjQYucsRyVanPvF) | 3:15 | 2023-08-11 | 2023-11-21 |
 | [El Amor Se Fue](https://open.spotify.com/track/4foclxTsJ6LvApqtcP1Tc3) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sencillo](https://open.spotify.com/album/5iFfv4w4GLj8dA1OEyT5tX) | 3:50 | 2024-03-05 |  |
 | [El Arca De Noe](https://open.spotify.com/track/1h5B7nh5MMi8vj9ZP3wryA) | [Mc Caco](https://open.spotify.com/artist/3JjXQTP555FgptpoAcUCsD) | [CD3](https://open.spotify.com/album/5W6qlIMhU69X31xJUO7s86) | 2:29 | 2023-05-26 | 2024-03-06 |
-| [El avion](https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 2:36 | 2024-04-19 |  |
+| [El avion](https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 2:36 | 2024-04-19 | 2024-04-24 |
 | [El Barrio](https://open.spotify.com/track/56HxJH9N2DcRj0taX9mjb5) | [Perro Primo](https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA), [El Mas Berrako](https://open.spotify.com/artist/4QCMJeV5aPlZCswgzTyX2X), [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [El Barrio](https://open.spotify.com/album/74nNhOfUeGDK98WrqaOlGd) | 2:35 | 2023-05-26 | 2024-03-06 |
 | [El Fogón](https://open.spotify.com/track/3y8Pe96NSEaReDgrRYPSaO) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [Podran Imitarnos, Jamás Igualarnos](https://open.spotify.com/album/6219k00SRfp4PcsgTv2BCX) | 2:50 | 2023-05-26 | 2024-03-06 |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2023-05-26 | 2024-04-19 |
@@ -152,6 +152,7 @@
 | [Mari y Juana](https://open.spotify.com/track/78x7mqnjsge3bQozhX6RcT) | [De La Calle](https://open.spotify.com/artist/5YrBL6QmqRYTvr52b0IOT3) | [Más Negro Que la Noche](https://open.spotify.com/album/0BKMSvhWTL8DOoiW0MEpt4) | 2:30 | 2023-05-26 | 2023-07-15 |
 | [Mata](https://open.spotify.com/track/6h8rrNrOCdBbz37IhcvApT) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Mata](https://open.spotify.com/album/3CGpmpfvOQT271L1avoGI3) | 2:37 | 2023-05-26 |  |
 | [Mata \- Remix](https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV) | [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf), [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Pushi](https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn) | [Mata \(Remix\)](https://open.spotify.com/album/7BRAC71eOhKm2fWcpYMIhX) | 3:47 | 2024-01-12 |  |
+| [Mañana Qué Haremos](https://open.spotify.com/track/3cimZHGwkt26PPWTj5Hvi7) | [Papacho Mc Caco](https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM) | [Mañana Qué Haremos](https://open.spotify.com/album/2q1KckNS0egklcUgQDOa0C) | 3:22 | 2024-04-19 |  |
 | [Me Enamore](https://open.spotify.com/track/6A9DihD83oqsUF6dC9PuAi) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:03 | 2024-03-05 |  |
 | [Me Escapé](https://open.spotify.com/track/0iVcmJx7r74F7mTf7M6s0v) | [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Me Escapé](https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU) | 2:56 | 2023-10-12 |  |
 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 | 2023-05-26 |  |

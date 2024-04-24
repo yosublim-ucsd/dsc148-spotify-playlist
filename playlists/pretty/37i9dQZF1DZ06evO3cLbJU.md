@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 
 ### [This Is El Mató a un Policía Motorizado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3cLbJU)
 
-> This is El Mató a un Policía Motorizado\. The essential tracks, all in one playlist.
+> This Is El Mató a un Policía Motorizado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,558 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,623 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3cLbJU.md) - [plain]
 | 48 | [El Último Sereno](https://open.spotify.com/track/4zKSmgRp3lKV8jVmWJNNUH) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [Día de los Muertos](https://open.spotify.com/album/5xPRYNMTOZ4f65iYm4MNHM) | 4:25 |
 | 49 | [Sobredosis de Droga](https://open.spotify.com/track/5TjLFMFoiiIwSLDL1ObOWO) | [El Mató a un Policía Motorizado](https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB) | [El Nuevo Magnetismo \(2003 \- 2011\)](https://open.spotify.com/album/21n1dmvxnphIAvf2AlktH9) | 2:19 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDhjMjBlOTM5NWE3ZjkwMmQ1YzljMzI0Y2FkZDFkNGQ1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDMyNWMyZDk3YjhjMDVmNmJkMDgzZTExMDQ0OTRmODg1`

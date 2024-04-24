@@ -1,6 +1,6 @@
 {
   "description": "An introduction to the thoroughly dramatic world of Richard Wagner, brimming with ancient legends and timeless love stories.",
-  "num_followers": 98460,
+  "num_followers": 98497,
   "original_name": "This Is Wagner",
   "owner": {
     "name": "Spotify",
@@ -267,34 +267,6 @@
     {
       "added_at": "2022-06-28 08:58:25",
       "album": {
-        "name": "Wagner, R.: Opera Choruses",
-        "url": "https://open.spotify.com/album/1wVF8Dk5edlkztLyNs39Oh"
-      },
-      "artists": [
-        {
-          "name": "Goran Eliasson",
-          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
-        },
-        {
-          "name": "Royal Swedish Opera Chorus",
-          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
-        },
-        {
-          "name": "Royal Swedish Orchestra",
-          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
-        },
-        {
-          "name": "Leif Segerstam",
-          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
-        }
-      ],
-      "duration_ms": 1022960,
-      "name": "Die Meistersinger von N\u00fcrnberg (the Mastersingers of Nuremberg), the Mastersingers of Nuremberg, Act III: Finale [excerpts]",
-      "url": "https://open.spotify.com/track/0QDND4ABikAWZFfiepCYrP"
-    },
-    {
-      "added_at": "2022-06-28 08:58:25",
-      "album": {
         "name": "Wagner, R.: Scenes From Lohengrin and Siegfried",
         "url": "https://open.spotify.com/album/2htClWD3UiaNgEtDUx9Cj4"
       },
@@ -323,6 +295,34 @@
       "duration_ms": 321120,
       "name": "Lohengrin: Treulich gefuhrt ziehet dahin",
       "url": "https://open.spotify.com/track/77Vw9pWmr1T9V9cs1RuU6l"
+    },
+    {
+      "added_at": "2022-06-28 08:58:25",
+      "album": {
+        "name": "Wagner, R.: Opera Choruses",
+        "url": "https://open.spotify.com/album/1wVF8Dk5edlkztLyNs39Oh"
+      },
+      "artists": [
+        {
+          "name": "Goran Eliasson",
+          "url": "https://open.spotify.com/artist/6zsgabJFQrLtY2jEWy2fC4"
+        },
+        {
+          "name": "Royal Swedish Opera Chorus",
+          "url": "https://open.spotify.com/artist/3bqjTvyPZcMSuXkdzBghDU"
+        },
+        {
+          "name": "Royal Swedish Orchestra",
+          "url": "https://open.spotify.com/artist/7ksb5dj1dy1o8DuZiNB9ZI"
+        },
+        {
+          "name": "Leif Segerstam",
+          "url": "https://open.spotify.com/artist/1AZTVGOm7t5zkOcweZBivz"
+        }
+      ],
+      "duration_ms": 1022960,
+      "name": "Die Meistersinger von N\u00fcrnberg (the Mastersingers of Nuremberg), the Mastersingers of Nuremberg, Act III: Finale [excerpts]",
+      "url": "https://open.spotify.com/track/0QDND4ABikAWZFfiepCYrP"
     },
     {
       "added_at": "2022-06-28 08:58:25",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 
 > Top English songs from Asia\. Cover: Frizzell D'souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,943 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,966 likes - 75 songs - 4 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 7 | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/track/06sNozukABz39ZsUtJuCj5) | [Clifr](https://open.spotify.com/artist/1o9ja4Dha8IqKI3e5DpH14), [RANJ](https://open.spotify.com/artist/1vR6C8xoVTgy9yVRsCsr7H), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [S.O.T.I\. \(Strangers On The Internet\)](https://open.spotify.com/album/6TMdWV3qpSH8irxIpDhKUk) | 2:46 |
 | 8 | [Decent People](https://open.spotify.com/track/6VjQrUeEsmje2FqWFr5atT) | [Meera](https://open.spotify.com/artist/1a74S7m7Ce1IRYAC61gXfv), [Raag Sethi](https://open.spotify.com/artist/6peFV7z1UeYlD4aUxDhAv7) | [Smile\-ability](https://open.spotify.com/album/4lp3HLLFeCIg36292oOkmt) | 3:12 |
 | 9 | [all over again](https://open.spotify.com/track/55Mzg7JvuRJsn9FoGuU0Kn) | [Tsumyoki](https://open.spotify.com/artist/19jx3wc1iRshvEKMvzZc1X), [Falze](https://open.spotify.com/artist/0S6ds2b08hBdYvGDO0LQ9T) | [all over again](https://open.spotify.com/album/5TwKDLEVzSf3FReatuvlu1) | 2:43 |
-| 10 | [Close To You](https://open.spotify.com/track/5jOWVLjOa9vWUaTU8aVJuN) | [Shivangi Bhayana](https://open.spotify.com/artist/4ALbmf4uIjKAfNdTi1kdNh) | [Close To You](https://open.spotify.com/album/6uW1DKamGdsrCpQz3MC238) | 2:55 |
+| 10 | [No Vices](https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw) | [Jaimin](https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv), [Kadambari Zokarkar](https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF), [Pradyumna Singh Manot](https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC), [Charles Parker Mertens](https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0), [Anchit Sengupta](https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i), [Arjun Chakraborty](https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX) | [No Vices](https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq) | 4:24 |
 | 11 | [Everybody Dances to Techno](https://open.spotify.com/track/15QjfJ0VnKMtTBQxbH2Eqg) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Practice Rooms](https://open.spotify.com/album/0tAfAgg0qwIO5UDGdCDvtw) | 2:33 |
 | 12 | [Until You See](https://open.spotify.com/track/76ia9MkfsFl8ZEdAph4O36) | [Donn Bhat](https://open.spotify.com/artist/2ckYmy0ueLXjmwWcPs1spQ), [Toymob](https://open.spotify.com/artist/2vT6u1co9tQidx18xISF2k), [Blackstratblues](https://open.spotify.com/artist/688Lauh0j7oRekX6qHHIp1) | [Until You See](https://open.spotify.com/album/4PgsGuOKhE9SPSnkaaDZqX) | 3:39 |
 | 13 | [Everything](https://open.spotify.com/track/7H0JskFt7G1or98bxDiCYt) | [Jai Matt](https://open.spotify.com/artist/2sC8JDQrhhEjnpeHrTYzjf) | [Everything](https://open.spotify.com/album/0892HQRUyH88y7TQnbnGwU) | 3:03 |
@@ -58,9 +58,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 48 | [I'll Get By](https://open.spotify.com/track/1ZHOSFoGjqE7k0Mpr1ofKx) | [Megumi Acorda](https://open.spotify.com/artist/2lZ43U1GZxkqqyoLg5YDu4) | [Unexpectedly](https://open.spotify.com/album/5L6mPVF4I314n4XrcVNyNq) | 4:19 |
 | 49 | [afterglow](https://open.spotify.com/track/0yIshWSqN6TmJNywjZ7zGh) | [Numcha](https://open.spotify.com/artist/6bguntfj9ZnX1lFvSYl72d) | [hewantscoffeebutiamtea](https://open.spotify.com/album/1ZJiogegMu9wEbMxI7uy7U) | 3:24 |
 | 50 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 |
-| 51 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 |
-| 52 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
-| 53 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 |
+| 51 | [Love Is Not A Fucking Game](https://open.spotify.com/track/0cj465OG5QJUhPJfF9Oxjg) | [Kamakshi Khanna](https://open.spotify.com/artist/1HMOlfBc4CK1WXcIeNnLPq) | [Love Is Not A Fucking Game](https://open.spotify.com/album/1aa2y3XAePhsxfvaiPl83v) | 3:30 |
+| 52 | [TATTOO](https://open.spotify.com/track/1LAUJwiUaYOQnwx1u8Q8fQ) | [Mandark](https://open.spotify.com/artist/7znAteIK9wAnN6URYwFsks), [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [We Were So Young](https://open.spotify.com/album/6GYty2L58da7ERYD04QGLc) | 3:01 |
+| 53 | [Am I Overthinking This?](https://open.spotify.com/track/0nHm0hPOwDYwwCbZUs0XKv) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN) | [Am I Overthinking This?](https://open.spotify.com/album/54UsiUkSKRfIkSc7qPAhn1) | 2:47 |
 | 54 | [water comes out of my eyes](https://open.spotify.com/track/4hQB5oBSXXncJnZACjgeVg) | [moon tang](https://open.spotify.com/artist/51ZhiTtynrHq7tD4xfGZV7), [cehryl](https://open.spotify.com/artist/0bBrsS9ufPAmeFQgDNG54O) | [WATER COMES OUT OF MY EYES](https://open.spotify.com/album/1kePAOBgujzOYJrE0GtpFk) | 3:22 |
 | 55 | [Hopelessly](https://open.spotify.com/track/6HtxhZWccYHCxJrItfrglg) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7) | [Hopelessly](https://open.spotify.com/album/7aceEsnN7sznnw0R39Lvfe) | 3:00 |
 | 56 | [I'm Just Like That](https://open.spotify.com/track/5UGjhJC4d0xSkrQlnqmpR4) | [YONLAPA](https://open.spotify.com/artist/65IzDDRlZuKIBe0QCG68Cu) | [Lingering Gloaming](https://open.spotify.com/album/6KgLif7JIfrESE5l1nkLiS) | 3:28 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6sDj4CL6UK6.md) - [plain]
 | 74 | [Hope this song finds you](https://open.spotify.com/track/6dNDbNSwF4gF3Cp8hDCnpQ) | [Arham Fulfagar](https://open.spotify.com/artist/4ul4X6GIdmYLXjWpsYRU4E) | [Hope this song finds you](https://open.spotify.com/album/14chazI21bYizAAr0t2Mlr) | 2:18 |
 | 75 | [Indigo](https://open.spotify.com/track/7mlGKWXA5ZV6HZibmRruqD) | [Dot.](https://open.spotify.com/artist/1Z0J1QCG3GekVONuHuhCu4) | [Indigo](https://open.spotify.com/album/1eGowsUsY6D99t8NsxpRK7) | 3:20 |
 
-Snapshot ID: `MTcxMjkyOTQ5MSwwMDAwMDAwMDg3ZTZmZjk4MTYzMzIzOTdlYjk0N2Q0NjhmNDEzM2U3`
+Snapshot ID: `MTcxMzk1NzY2NSwwMDAwMDAwMGViMjJjNDAyMjEwZTFmMTYzNjg1NjZhZmE4YWE1MGRk`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaxwvKaY7HLh.md) - [plain]
 
 > Las <a href="https://open.spotify.com/show/0ob7mZuMUpwT0tMHMLXfoc?si=1dc32fa814924323"> Damitas Histeria</a> prepararon una selección perfecta para que le llores al eneje o a la histeriquilla que te rompió el corazón 💔
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,857 likes - 43 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,004 likes - 43 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

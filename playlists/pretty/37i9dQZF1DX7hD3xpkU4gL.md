@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 
 > Para cantar muy bajito..\. o a voz en grito.
 
-[Spotify](https://open.spotify.com/user/spotify) - 455,622 likes - 100 songs - 6 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 455,628 likes - 100 songs - 6 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 24 | [With Or Without You](https://open.spotify.com/track/6ADSaE87h8Y3lccZlBJdXH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [The Joshua Tree \(Super Deluxe\)](https://open.spotify.com/album/5y6wlw1LnqFnQFruMeiwGU) | 4:55 |
 | 25 | [Cuando Nadie Ve](https://open.spotify.com/track/71iAechwVKGu26pahzFL0k) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:39 |
 | 26 | [La Incondicional](https://open.spotify.com/track/6F9yAYUaNbUhdlQyt5uZ3b) | [Luis Miguel](https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW) | [Busca Una Mujer](https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo) | 4:17 |
-| 27 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
-| 28 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
+| 27 | [I Will Always Love You](https://open.spotify.com/track/4eHbdreAnSOrDDsFfc4Fpm) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [The Bodyguard \- Original Soundtrack Album](https://open.spotify.com/album/7JVJlkNNobS0GSoy4tCS96) | 4:31 |
+| 28 | [Stand By Me](https://open.spotify.com/track/3SdTKo2uVsxFblQjpScoHy) | [Ben E\. King](https://open.spotify.com/artist/3plJVWt88EqjvtuB4ZDRV3) | [Don't Play That Song \(Mono\)](https://open.spotify.com/album/18Fj7coTfyMi7mEPXIweN7) | 3:00 |
 | 29 | [Heaven](https://open.spotify.com/track/7Ewz6bJ97vUqk5HdkvguFQ) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 4:03 |
 | 30 | [Es Por Ti](https://open.spotify.com/track/3b1IQflSLrgzYQPGFzI9cl) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Un Día Normal](https://open.spotify.com/album/2UJCnSqpR3AIuTvWYZLCp1) | 4:10 |
 | 31 | [Imagine \- Remastered 2010](https://open.spotify.com/track/7pKfPomDEeI4TPT6EOYjn9) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Imagine](https://open.spotify.com/album/0xzaemKucrJpYhyl7TltAk) | 3:07 |
@@ -76,15 +76,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 66 | [ADMV](https://open.spotify.com/track/3eJMSq78dDaFb7VvhNFnq6) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [ADMV](https://open.spotify.com/album/6wUJI0qgwrwiYJhFr53Gaa) | 3:13 |
 | 67 | [Bendita Tu Luz](https://open.spotify.com/track/2JBs412fpVUuzIaIp3CyIs) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar Es Combatir](https://open.spotify.com/album/6XrpkEuQyfilUHMduKDeuB) | 4:24 |
 | 68 | [La Salvación](https://open.spotify.com/track/0txzIz1WcoAn6m07xypcD5) | [Arde Bogotá](https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH) | [COWBOYS DE LA A3](https://open.spotify.com/album/0VgV2hz9fHoJBLKbqtj9cn) | 4:23 |
-| 69 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
-| 70 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
+| 69 | [Algo Contigo](https://open.spotify.com/track/4zsDA31stWMtLveU61hejd) | [Vicentico](https://open.spotify.com/artist/25THA9HUHoxpCT4LBp7UsZ) | [Vicentico](https://open.spotify.com/album/6Qt9Yiol5QcAEeKPyIQafo) | 3:38 |
+| 70 | [Me Enamoré de Ti](https://open.spotify.com/track/1sJFu2pvYJhtEOo9oVe1TZ) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [No Hay Imposibles](https://open.spotify.com/album/2Z1OKCVyqJ1lMHTU612E07) | 4:23 |
 | 71 | [tequiero](https://open.spotify.com/track/5K7cuVLC8T88DYb9kCLROK) | [Vicco](https://open.spotify.com/artist/2z1MpPojFcvxYcEAx0lT6w), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR) | [tequiero](https://open.spotify.com/album/02zhFLX1EJtzhZMIEwKipN) | 3:05 |
 | 72 | [Vas A Quedarte](https://open.spotify.com/track/0fwIHsKXNEcb57u2um7z9I) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Spoiler](https://open.spotify.com/album/0UMkp3B0Dqf3t0HkLmoX0j) | 3:46 |
 | 73 | [Un Año](https://open.spotify.com/track/5BDP2tky8oMQJPS33frKVp) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Un Año](https://open.spotify.com/album/4Vtx3PxyOfBUBuEYAIocsP) | 2:44 |
 | 74 | [Qué Bonito Es Querer](https://open.spotify.com/track/6uzGmmQ4CuG9HvZktEy0LF) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [La Cruz Del Mapa](https://open.spotify.com/album/1FwsOQLBtsdLjy2OGsCZZa) | 4:30 |
 | 75 | [La fuerza del corazón](https://open.spotify.com/track/5c1w6xM8pFvXhMXQVUY42Q) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF) | [Alejandro Sanz 3](https://open.spotify.com/album/6iQUPW8yGLQdbf3JXmNA8N) | 5:07 |
-| 76 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
-| 77 | [Lo siento](https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:50 |
+| 76 | [Lo siento](https://open.spotify.com/track/5o2M4yHxo9kyNLdgihFeV1) | [Beret](https://open.spotify.com/artist/0ZHPrnImGh4re3TbSNkoZl) | [Prisma](https://open.spotify.com/album/3p9YnUYZyns6PGxTbKeLFq) | 3:50 |
+| 77 | [Para Ti](https://open.spotify.com/track/3gqeGUaXzYsmG6VzfQfagw) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Para Ti](https://open.spotify.com/album/6RS6DlDaxFzbOSdBpNBOPk) | 3:16 |
 | 78 | [Take My Breath Away](https://open.spotify.com/track/1hZJcuz9iMoz6tLkFlIaUy) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Take My Breath Away](https://open.spotify.com/album/1gwQ8OK1YHKpzIxLKuc1MQ) | 4:24 |
 | 79 | [Entra en Mi Vida](https://open.spotify.com/track/7DUh5iszvXQDhhE0ZEtmUe) | [Sin Bandera](https://open.spotify.com/artist/7xeM7V59cA1X8GKyKKQV87) | [Hasta Ahora](https://open.spotify.com/album/1YETjeIkkvMlKq427v6LWH) | 4:09 |
 | 80 | [Hoy tengo ganas de ti](https://open.spotify.com/track/17oji5hYaIqOFWFnPPWCeJ) | [Miguel Gallardo](https://open.spotify.com/artist/5imd6MnP4WpDohSwFnO38T) | [2 \(Remasterizado 2017\)](https://open.spotify.com/album/5g5J0Xr0ERqUJXGhEGneOr) | 4:05 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hD3xpkU4gL.md) - [plain]
 | 95 | [Mi Persona Favorita](https://open.spotify.com/track/3eB9M6owEHwk4nNrZRNUwd) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mi Persona Favorita](https://open.spotify.com/album/784Afuukiutm70xPgCQR0w) | 3:59 |
 | 96 | [It Must Have Been Love \- From the Film "Pretty Woman"](https://open.spotify.com/track/1JZZkORheU1RpGqJdZ77WL) | [Roxette](https://open.spotify.com/artist/2SHhfs4BiDxGQ3oxqf0UHY) | [A Collection of Roxette Hits! Their 20 Greatest Songs!](https://open.spotify.com/album/1nQK4dpultSS3YeHfYrgEW) | 4:18 |
 | 97 | [Time After Time](https://open.spotify.com/track/6G41H0Zd0kQ1WXWDoEotoJ) | [Cyndi Lauper](https://open.spotify.com/artist/2BTZIqw0ntH9MvilQ3ewNY) | [The Essential Cyndi Lauper](https://open.spotify.com/album/5BXCm3N0Uv0IU2uIUAshr2) | 4:01 |
-| 98 | [No me importa nada](https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Luz V](https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o) | 4:07 |
-| 99 | [Always](https://open.spotify.com/track/0Z2CgMqTyPxSMJVcZZ2rGX) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road \(Sound & Vision\) \[2CD/DVD Sound & Vision\]](https://open.spotify.com/album/5uduy563XjmdkLryIna87r) | 5:53 |
+| 98 | [Always](https://open.spotify.com/track/0Z2CgMqTyPxSMJVcZZ2rGX) | [Bon Jovi](https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp) | [Cross Road \(Sound & Vision\) \[2CD/DVD Sound & Vision\]](https://open.spotify.com/album/5uduy563XjmdkLryIna87r) | 5:53 |
+| 99 | [No me importa nada](https://open.spotify.com/track/77eDrs7w2utSdbBdpbefol) | [Luz Casal](https://open.spotify.com/artist/1HUbv0v2f9HNE6qIbB35El) | [Luz V](https://open.spotify.com/album/495PNGzppo3wT27Em5Yy8o) | 4:07 |
 | 100 | [Bailar Pegados](https://open.spotify.com/track/4QkQmdvFjEVvjc1ONi6t6N) | [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Sintiendonos La Piel](https://open.spotify.com/album/4Zq9UhyMTcrEhvQx0Gm2TX) | 4:36 |
 
 Snapshot ID: `MTcxMDQzMTUwOSwwMDAwMDAwMDdmOGNmZjQ5ZDFkMDAwOGQ5YzViODc0OTUwMzU4ZWQ0`

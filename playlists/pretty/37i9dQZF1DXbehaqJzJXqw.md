@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 
 > You are sipping on your coffee in a café in Paris while a Jazz band plays somewhere in the background.
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,481 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,081 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 35 | [Chanson triste](https://open.spotify.com/track/3jFcVisem3whWKJcf52ATc) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un M'a Dit](https://open.spotify.com/album/3X2k1DIwkHiSw4KotUfG5x) | 3:28 |
 | 36 | [Samba Saravah](https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Bossa Nova](https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf) | 2:50 |
 | 37 | [Menilmontant](https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy) | [Zazou](https://open.spotify.com/artist/4ThhH5H8jQ1yUDRMynALCA) | [Merle Noir](https://open.spotify.com/album/6kb00WTbKIXhUqK8VAFXod) | 4:49 |
-| 38 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
+| 38 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
 | 39 | [Les mots d'amour](https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4) | [Mayra Andrade](https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE) | [Lovely Difficult](https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB) | 3:47 |
-| 40 | [À quoi ça sert l'amour](https://open.spotify.com/track/5oMQIQXbz5dnxU6BTUewlY) | [Márcio Faraco](https://open.spotify.com/artist/6n3BBw9YDpMMuQOftR9TzJ) | [Um Rio](https://open.spotify.com/album/3v0DVLM52t8VDrkirQHfuf) | 4:14 |
+| 40 | [Le Temps Qui Passe](https://open.spotify.com/track/3FwNKZkn50tXoEaXKtvKXw) | [Laura Fygi](https://open.spotify.com/artist/5ETqbIZYRoPMQbly4iVfuB) | [Rendez Vous](https://open.spotify.com/album/5u7sQwDpqDmhOj72qdLi3Y) | 3:37 |
 | 41 | [Mon fantôme](https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW) | [Baptiste Trotignon](https://open.spotify.com/artist/13hKwJWXAVm2hYLiJbM69R), [Melody Gardot](https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J), [Miossec](https://open.spotify.com/artist/0wf6vuNqTvdRGrmpsPu2kW) | [Song, Song, Song](https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd) | 4:21 |
-| 42 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
-| 43 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 |
+| 42 | [M'envoyer des fleurs](https://open.spotify.com/track/5SBePmCKYQUyfq71djPNF8) | [Sandrine Kiberlain](https://open.spotify.com/artist/4uLmJeWlUtfcMwAZo1ZS2l) | [Manquait Plus Qu'Ca](https://open.spotify.com/album/6BC71aPYFPdAhUshOVkRjf) | 2:35 |
+| 43 | [De Temps en Temps](https://open.spotify.com/track/76jd74pjVZT9MlEozWQM5u) | [Joséphine Baker](https://open.spotify.com/artist/2RXsHRCnva6BsZ12SSAzcz) | [J'ai Deux Amours](https://open.spotify.com/album/7JQL8HvC9UkGhzA96uDO4A) | 3:21 |
 | 44 | [Liberté](https://open.spotify.com/track/4yqfZnLlKlNI4xOazFq0Jo) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Little French Songs \(Deluxe Version Without Videos\)](https://open.spotify.com/album/0VeKwTXHqVb5fHj2SaNXwx) | 3:36 |
 | 45 | [Vous Qui Passez Sans Me Voir](https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D) | [Chantal Chamberland](https://open.spotify.com/artist/1Bkw1ZbvkudC1lY4jTQSpU) | [Soirée](https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy) | 3:09 |
 | 46 | [Le chien d'avant garde](https://open.spotify.com/track/3xNsHKqsBYt4aV90Bp4l5Y) | [Keren Ann](https://open.spotify.com/artist/4v1YZL83eLyemlt32wWAoA) | [La disparition](https://open.spotify.com/album/6B2pSu86xUIrXCCkRODVFd) | 3:58 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbehaqJzJXqw.md) - [plain]
 | 59 | [Chez Moi](https://open.spotify.com/track/16UdsCC8mjirUrtjA9HaG5) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [My Gentleman Friend](https://open.spotify.com/album/5D5eQmgvrCleIhNPOixTqh) | 3:06 |
 | 60 | [En septembre sous la pluie](https://open.spotify.com/track/3xHPbpEevIm8kcHAisEkk7) | [Léo Marjane](https://open.spotify.com/artist/17biBe7LOJ6V6OH4aAHbXc) | [La Chapelle Au Clair De Lune](https://open.spotify.com/album/6l6NB0K3Vq6ENDaMujgvPj) | 3:07 |
 | 61 | [Où veux\-tu aller ?](https://open.spotify.com/track/3MrZpuWijCWDsCPl6bqDqc) | [Fredrika Stahl](https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5) | [A Fraction Of You](https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS) | 3:31 |
-| 62 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
+| 62 | [Si tu vas à Paris \- Remasterisé en 2017](https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Chansons sans époques: 1964 \- 1968 \(Remasterisé en 2017\)](https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3) | 3:13 |
 | 63 | [La javanaise](https://open.spotify.com/track/4RiomsjTG30IR5V72paigO) | [Livia Blanc](https://open.spotify.com/artist/4EycIoNxxou5zl2FLMbVuu) | [La javanaise](https://open.spotify.com/album/0WsvKWdVWcjwVRI0KhhqjO) | 2:01 |
-| 64 | [Si tu vas à Paris \- Remasterisé en 2017](https://open.spotify.com/track/0WYNxfmeHtYss2iUaiEDCJ) | [Charles Trenet](https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ) | [Chansons sans époques: 1964 \- 1968 \(Remasterisé en 2017\)](https://open.spotify.com/album/0lFb6bBBCGagIFrblxhjE3) | 3:13 |
+| 64 | [J'ai 18 Ans](https://open.spotify.com/track/4iQcMQVb6a92Uh5zF57irM) | [Rose](https://open.spotify.com/artist/3VI6nyKdPVIBxorjS5rYNd) | [Les Souvenirs Sous Ma Frange](https://open.spotify.com/album/0poOfeN7tsjbpLzUjpYBau) | 3:05 |
 | 65 | [Plus je t'embrasse](https://open.spotify.com/track/1GWoi9bX3xFSrbZutph4En) | [Carol Welsman](https://open.spotify.com/artist/5nw4wMgfImhoebM0e2MzSR) | [Fourteen](https://open.spotify.com/album/62VsGN7VqFAOxSkFyy6v8X) | 3:17 |
 | 66 | [Dans mon île](https://open.spotify.com/track/5VrG6UV06VZryXqtY6a2Jo) | [Henri Salvador](https://open.spotify.com/artist/0TQUgpZqEnfluYEfKQBYB6) | [Ses plus grandes chansons](https://open.spotify.com/album/7rIogJY52Q5DXs77gOZYaq) | 3:20 |
 | 67 | [Saint\-tropez blues](https://open.spotify.com/track/1AHRCyqA0oTITwSx5k6006) | [Marie Laforêt](https://open.spotify.com/artist/37ZQmqZrhmCCZebZF3Cvwx) | [Balade à Saint\-Germain, vol 6\. Rue Saint Benoit: Nouvelle Vague](https://open.spotify.com/album/1bPLkervGXS2QbjvSbEvoS) | 2:19 |

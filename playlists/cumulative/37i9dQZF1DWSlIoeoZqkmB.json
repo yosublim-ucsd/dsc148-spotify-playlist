@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "ADRENALIZED",
+        "url": "https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T"
+      },
+      "artists": [
+        {
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221153,
+      "name": "ADRENALIZED",
+      "url": "https://open.spotify.com/track/1RFwwyKSGsQEuR776Ywe6a"
+    },
+    {
+      "album": {
         "name": "Close to heart",
         "url": "https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt"
       },

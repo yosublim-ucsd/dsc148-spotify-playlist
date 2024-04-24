@@ -2,7 +2,7 @@
 
 ### [This Is Arsenal Efectivo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Bus3e)
 
-> This is Arsenal Efectivo\. The essential tracks, all in one playlist.
+> This is Arsenal Efectivo\. Todos os maiores hits em uma só playlist.
 
 22 songs - 1 hr 3 min
 

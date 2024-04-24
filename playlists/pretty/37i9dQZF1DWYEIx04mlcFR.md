@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 
 > la nueva ola de artistas con Leon Leiden en portada\. 🌊✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,617 likes - 75 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,621 likes - 75 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,12 +60,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 50 | [de mi cabeza no te vas](https://open.spotify.com/track/1NTp6BrV2SDx6fuL5v67L0) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [de mi cabeza no te vas](https://open.spotify.com/album/3Bd7h0ZmlnZvnWH0KFId8e) | 2:31 |
 | 51 | [Eutanasia](https://open.spotify.com/track/1FHMIhcJlNY3ecpKjd7FIj) | [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y) | [Cuando Ella me Besó Probé a Dios](https://open.spotify.com/album/5J0TN8kwiPmJBAQKIYkx8V) | 2:34 |
 | 52 | [Escuchado](https://open.spotify.com/track/5znWQU6MXpNBnZo7uvIHLf) | [Jacinto](https://open.spotify.com/artist/1JYd1ixkJMTMLZ64Byk2uj) | [Escuchado](https://open.spotify.com/album/042ZS5gBLUiURj0qKf02g9) | 3:02 |
-| 53 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 |
-| 54 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
+| 53 | [rangerover](https://open.spotify.com/track/0g54HHEgF2z7kwnAa2S4wp) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [rangerover](https://open.spotify.com/album/1B2RoTLHZnRWBGMidiBCU0) | 3:06 |
+| 54 | [la calle](https://open.spotify.com/track/4N79H59o04RsI9h6bA9Pyc) | [Nicole Horts](https://open.spotify.com/artist/1PdyY069YiAkmKdnx6odux) | [la calle](https://open.spotify.com/album/22RusztdLcbxk5gtijfJfq) | 4:03 |
 | 55 | [Próximo Diciembre](https://open.spotify.com/track/0UYS2UvtAXi0oygPGA0Wmq) | [Robot95](https://open.spotify.com/artist/30CTTIqrcr82nS6B40j975), [Bruses](https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y), [Javier Blake](https://open.spotify.com/artist/7rWuyGabaLQSmsHpZJkMzx) | [Próximo Diciembre](https://open.spotify.com/album/009pkQIFctOi2Js6ipx6T1) | 3:44 |
-| 56 | [¿Qué Me Dices?](https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De L..\. N..\. \(67%\)](https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo) | 2:33 |
-| 57 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
-| 58 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 |
+| 56 | [AHORA O NUNCA](https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1), [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [AHORA O NUNCA](https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn) | 2:36 |
+| 57 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 |
+| 58 | [¿Qué Me Dices?](https://open.spotify.com/track/62xluQXvbzXCypORfjTU3X) | [Jósean Log](https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF) | [Más Normal De L..\. N..\. \(67%\)](https://open.spotify.com/album/6FUgY90LThOhYSrPTZHyqo) | 2:33 |
 | 59 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 |
 | 60 | [Radio](https://open.spotify.com/track/1o5Ba27NcfTUJU60aBwkjQ) | [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [Radio](https://open.spotify.com/album/7ijwAMN2xZzIk8k7Arl4VR) | 3:08 |
 | 61 | [hoy no me encuentro para nadie](https://open.spotify.com/track/0TN8m2EibHpzRTTGXvw69R) | [Caztro](https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW) | [hoy no me encuentro para nadie](https://open.spotify.com/album/7xyX3t55ZvkJMCOa8fofhw) | 2:44 |
@@ -82,6 +82,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYEIx04mlcFR.md) - [plain]
 | 72 | [Algo Que Escuché / Algo Que Vi](https://open.spotify.com/track/7GrNmmMydQfmhBN9YfCeRc) | [Noa Sainz](https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr) | [ISABEL LP](https://open.spotify.com/album/2wKUbvW4GLcdbvCYVoLnEX) | 2:24 |
 | 73 | [Agua Caliente](https://open.spotify.com/track/1iUIeyrLRtHXc1K1Xjzxvf) | [Méne](https://open.spotify.com/artist/5r3DSRaJz8ckIw4XPH9Whd) | [Agua Caliente](https://open.spotify.com/album/2weNbDp2J841mrVkjJF0YL) | 3:20 |
 | 74 | [todo pasa](https://open.spotify.com/track/2z8zcvzuYWU5aFtUEwq2W4) | [Arroba Nat](https://open.spotify.com/artist/4Srl3qf5e1RfnXi5wBlIL4) | [todo pasa](https://open.spotify.com/album/6i2mon8JnyWaNIFXzg4AjE) | 3:34 |
-| 75 | [Mala Suerte](https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Mala Suerte](https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte) | 3:00 |
+| 75 | [Obra de arte](https://open.spotify.com/track/7r8Hm0HknnPEcZVdwME1Fq) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Obra de arte](https://open.spotify.com/album/11L1nxjSwv6Xp5bEuafW7F) | 3:02 |
 
 Snapshot ID: `MTcxMjkwMTYwMCwwMDAwMDAwMDcxOTUwYTkyY2Y4ZTBhMjMzZGZiNGI3MWFkZDMxNjIw`

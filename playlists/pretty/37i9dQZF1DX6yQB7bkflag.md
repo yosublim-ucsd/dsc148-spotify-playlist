@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6yQB7bkflag.md) - [plain]
 
 > Lagu\-lagu teranyar yang akan menjadi favoritmu selanjutnya\. Cover: Kahitna
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,514 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 115,318 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sejauh Dua Benua](https://open.spotify.com/track/4k91MisM6AJZHLS4lSceOY) | [Kahitna](https://open.spotify.com/artist/2WhoMc7XqIzVXWbQqSoqe7) | [Sejauh Dua Benua](https://open.spotify.com/album/54ItApQYalhDEjpXE0iumY) | 3:45 |
 | 2 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
 | 3 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 |
-| 4 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:18 |
+| 4 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:20 |
 | 5 | [Sepenuh Hati](https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sepenuh Hati](https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a) | 4:07 |
 | 6 | [friends](https://open.spotify.com/track/2NSlmYzHauT4ZgMXGI3NKH) | [Arash Buana](https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM) | [friends](https://open.spotify.com/album/69HC2sZvAPbn9M92eh5d7F) | 4:15 |
 | 7 | [Dark Vacay](https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Dark Vacay](https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb) | 3:33 |

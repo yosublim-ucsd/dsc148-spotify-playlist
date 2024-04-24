@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 
 > Take it easy with these laid back tracks from the eighties...
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,464,877 likes - 80 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,464,786 likes - 80 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 39 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
 | 40 | [The Way It Is](https://open.spotify.com/track/6V50MyHPGhEmwYu0Wdyf0t) | [Bruce Hornsby](https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo), [The Range](https://open.spotify.com/artist/4374DY0rBAi0pCV6F9i00Y) | [The Way It Is](https://open.spotify.com/album/243jhZJtyIZtEkrD6vhRLn) | 4:57 |
 | 41 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
-| 42 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
-| 43 | [Army Dreamers](https://open.spotify.com/track/6OmdWLjlx4BIDGEO8BZlqH) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 2:58 |
+| 42 | [Army Dreamers](https://open.spotify.com/track/6OmdWLjlx4BIDGEO8BZlqH) | [Kate Bush](https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL) | [Never for Ever](https://open.spotify.com/album/4MYtX4Kta7FL4NVUE0FYws) | 2:58 |
+| 43 | [Human Nature](https://open.spotify.com/track/4cgjA7B4fJBHyB9Ya2bu0t) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm) | [Thriller](https://open.spotify.com/album/2ANVost0y2y52ema1E9xAZ) | 4:06 |
 | 44 | [Eternal Flame](https://open.spotify.com/track/5MoDQWMDMaAGDEiWsJfeCi) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:58 |
 | 45 | [Do You Really Want To Hurt Me](https://open.spotify.com/track/1I6q6nwNjNgik1Qe8Oi0Y7) | [Culture Club](https://open.spotify.com/artist/6kz53iCdBSqhQCZ21CoLcc) | [Kissing To Be Clever](https://open.spotify.com/album/4y1hBzoffx9DaGXbObeC2w) | 4:22 |
 | 46 | [Easy Lover](https://open.spotify.com/track/7INi4pMPG4IE0Smx5y4KVf) | [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u), [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Chinese Wall](https://open.spotify.com/album/1F6HoOK69lMDIb3ujvwlTX) | 5:04 |
@@ -59,11 +59,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6l1fwN15uV5.md) - [plain]
 | 49 | [Drive](https://open.spotify.com/track/3wfujdbamR3Z46F4xav7LM) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City](https://open.spotify.com/album/5ycnwHGkzOlTuMOI3Zh4iO) | 3:54 |
 | 50 | [Wonderful Life](https://open.spotify.com/track/0IWtEFQBwRHaMXZQtGEVcM) | [Black](https://open.spotify.com/artist/0eu0y7eJ5NMo07NEQEIq1V) | [Wonderful Life](https://open.spotify.com/album/6xdiJ1Fexr0r7A9Wb1FHdJ) | 4:47 |
 | 51 | [I Keep Forgettin' \(Every Time You're Near\)](https://open.spotify.com/track/5GvWrvLIqoHroq7YvO260M) | [Michael McDonald](https://open.spotify.com/artist/24hJWbo98sH84tb0nkeaqy) | [If That's What It Takes](https://open.spotify.com/album/43P5lpZxSh8r0uNz7x6Sx1) | 3:42 |
-| 52 | [Avalon](https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:16 |
-| 53 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 |
-| 54 | [Caribbean Blue \- 2009 Remaster](https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Shepherd Moons](https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm) | 3:59 |
-| 55 | [I Got You Babe](https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [Chrissie Hynde](https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi) | [Baggariddim](https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8) | 3:09 |
-| 56 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
+| 52 | [Where Do Broken Hearts Go](https://open.spotify.com/track/7tLtIZclwLWk54PFAyDv5T) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney](https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t) | 4:37 |
+| 53 | [Caribbean Blue \- 2009 Remaster](https://open.spotify.com/track/5KZ4DC772dYcRBAizx0yYk) | [Enya](https://open.spotify.com/artist/6uothxMWeLWIhsGeF7cyo4) | [Shepherd Moons](https://open.spotify.com/album/6ZuPbMe6CvQKl1nvAy0nZm) | 3:59 |
+| 54 | [Avalon](https://open.spotify.com/track/7iWIdiJlKvJ4PjFYVrWLUU) | [Roxy Music](https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo) | [Avalon](https://open.spotify.com/album/3JXODSjT9mUz2lIb4YIErw) | 4:16 |
+| 55 | [Raspberry Beret](https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Around the World in a Day](https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu) | 3:35 |
+| 56 | [I Got You Babe](https://open.spotify.com/track/07itbZUgkAmBi4CEH5NniJ) | [UB40](https://open.spotify.com/artist/69MEO1AADKg1IZrq2XLzo5), [Chrissie Hynde](https://open.spotify.com/artist/2ozLlEZTdSV3pjHgWwZMsi) | [Baggariddim](https://open.spotify.com/album/6UjYrQhvKY0dq6nos8TVc8) | 3:09 |
 | 57 | [The River](https://open.spotify.com/track/7HrzErXq3TsKOY1gmdIShB) | [Bruce Springsteen](https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT) | [The River](https://open.spotify.com/album/6YNIEeDWqC09YIWzhoSVLg) | 5:01 |
 | 58 | [Shattered Dreams \- Remastered 2008](https://open.spotify.com/track/5KXKhCfPNS4342ly8tTf6w) | [Johnny Hates Jazz](https://open.spotify.com/artist/6zpPKMhpOoG646kJgZ7RKf) | [Turn Back The Clock](https://open.spotify.com/album/2x3S4pCzJSpvObdkK8PY4u) | 3:27 |
 | 59 | [Through the Fire](https://open.spotify.com/track/7gh2v4IHnxdiwSgA6xluhe) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [I Feel for You](https://open.spotify.com/album/08yanJqA75TPyDowCXvvPU) | 4:48 |

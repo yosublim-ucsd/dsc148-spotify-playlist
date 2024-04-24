@@ -2,7 +2,7 @@
 
 ### [This Is Lizzo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2ZTWSp)
 
-> This is Lizzo\. The essential tracks, all in one playlist.
+> This is Lizzo\. Todos os maiores hits em uma só playlist.
 
 54 songs - 2 hr 54 min
 
@@ -30,8 +30,8 @@
 | [Exactly How I Feel \(feat\. Gucci Mane\)](https://open.spotify.com/track/7BZtzkbV48eu0sGKhHP7R9) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Gucci Mane](https://open.spotify.com/artist/13y7CgLHjMVRMDqxdx0Xdo) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:23 | 2023-10-10 |  |
 | [Fitness](https://open.spotify.com/track/0FhBANnxcQBgD3tQ75WFAn) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Fitness](https://open.spotify.com/album/3JtDo6OmIf78RSc94KdWMR) | 2:36 | 2023-10-10 |  |
 | [Good as Hell](https://open.spotify.com/track/6KgBpzTuTRPebChN0VTyzV) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2023-10-10 |  |
-| [Good as Hell \(feat\. Ariana Grande\)](https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2024-01-13 | 2024-03-17 |
-| [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 | 2023-12-23 |  |
+| [Good as Hell \(feat\. Ariana Grande\)](https://open.spotify.com/track/2rjjNUYONZqC7wSd1i6OFq) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Cuz I Love You \(Super Deluxe\)](https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312) | 2:39 | 2024-01-13 |  |
+| [Good as Hell \(feat\. Ariana Grande\) \- Remix](https://open.spotify.com/track/07Oz5StQ7GRoygNLaXs2pd) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Good as Hell \(feat\. Ariana Grande\) \[Remix\]](https://open.spotify.com/album/1k1HuvFs562Z3CCiSYhtc1) | 2:39 | 2023-12-23 | 2024-04-24 |
 | [Grrrls](https://open.spotify.com/track/1iV2uSjP8BfHTXVLblBOxI) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:01 | 2023-10-10 |  |
 | [Humanize](https://open.spotify.com/track/3FFB2XvhOfxTI6bamvyU8C) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Big GRRRL Small World](https://open.spotify.com/album/40T5m4a19xUgVyWQaYrVRb) | 3:30 | 2023-10-10 |  |
 | [I Love You Bitch](https://open.spotify.com/track/3WjCwQWPM8ggvyEwUPFBZ5) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Special](https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr) | 2:28 | 2023-10-10 |  |

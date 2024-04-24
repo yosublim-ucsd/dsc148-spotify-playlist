@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 
 > 人気ボカロ曲をプレイリストで。命を持たないVOCALOIDの魅力を特集。Biggest hits & fresh tracks of VOCALOID.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,586 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,622 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OQqDGyEiDU.md) - [plain]
 | 38 | [脳漿炸裂ガール 2015ver.](https://open.spotify.com/track/0ASw64KfzSUtChQDfzC906) | [rerulili](https://open.spotify.com/artist/0pe4oh93288gTffEVZWZ1H) | [厨病激発ボーイ](https://open.spotify.com/album/11wsf9YJHLcnpAxUtldSZs) | 3:12 |
 | 39 | [ボルテッカー](https://open.spotify.com/track/4gxNIT5mQRjZ1jzePsF3Ud) | [DECO\*27](https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP) | [ボルテッカー](https://open.spotify.com/album/4TURBwPQTJsJA4LVQiiHT7) | 2:32 |
 | 40 | [夜明けと蛍](https://open.spotify.com/track/7zzMTPHYh2ntj2PLQyvrng) | [n\-buna](https://open.spotify.com/artist/5DvySD4yjxyj8NvBWNfImP) | [花と水飴、最終電車](https://open.spotify.com/album/5fgdRwwC6kohkB1WMT8QMR) | 5:08 |
-| 41 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
-| 42 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
+| 41 | [ドーナツホール](https://open.spotify.com/track/6kwLcF9pDovUbmGOtHo4Ml) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [ドーナツホール](https://open.spotify.com/album/4jNxD5LWmUuwF72qG8Ekfx) | 3:25 |
+| 42 | [Who?](https://open.spotify.com/track/6K13hIU8J8NSSKMfLWu8sn) | [Azari](https://open.spotify.com/artist/0cevUP0ssLSLm7ict9X2E9) | [Who?](https://open.spotify.com/album/1Q8OHx0Czg42H94rajby9S) | 1:56 |
 | 43 | [エンヴィーベイビー](https://open.spotify.com/track/02vOyaNCKGX8uhjggOIH83) | [Kanaria](https://open.spotify.com/artist/1k5LyiTCRzPjORzcgHqJxF) | [エンヴィーベイビー](https://open.spotify.com/album/6NG4Ztq0KcNdsKYRu2RNOA) | 2:15 |
 | 44 | [ド屑](https://open.spotify.com/track/3DxfcE53Wf89XSftbAffFx) | [NAKISO](https://open.spotify.com/artist/0DzlKiHRe0HVfOiVlv23Rj) | [ド屑](https://open.spotify.com/album/70Qo9q6AieJMYxxAkTmBD3) | 2:00 |
 | 45 | [アスノヨゾラ哨戒班](https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl) | [Orangestar](https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS) | [未完成エイトビーツ](https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL) | 2:57 |

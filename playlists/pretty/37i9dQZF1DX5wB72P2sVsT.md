@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > DJ Snake x Peso Pluma au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 409,589 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 409,391 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

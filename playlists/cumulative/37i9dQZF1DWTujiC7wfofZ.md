@@ -4,7 +4,7 @@
 
 > All the indie disco platters that matter.
 
-420 songs - 1 day 2 hr 54 min
+421 songs - 1 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,11 +240,12 @@
 | [Love Me Like You](https://open.spotify.com/track/2ijit5crURH5jhIc4YoKgA) | [The Magic Numbers](https://open.spotify.com/artist/0P2q6xyNc2hVFkG3ThjYcJ) | [The Magic Numbers](https://open.spotify.com/album/22V78Zizbqody4GGdF4gLL) | 4:17 | 2023-07-21 |  |
 | [Love My Way](https://open.spotify.com/track/4dk40nfaQav6b4ZsJ9OYUo) | [The Psychedelic Furs](https://open.spotify.com/artist/0O0lrN34wrcuBenkqlEDZe) | [Forever Now](https://open.spotify.com/album/3dJ67tWrv9EaTD5PBkNBVV) | 3:33 | 2022-11-27 | 2024-04-19 |
 | [Lovefool](https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD) | [The Cardigans](https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw) | [First Band On The Moon \(Remastered\)](https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ) | 3:13 | 2022-11-27 | 2024-04-19 |
-| [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 | 2022-11-27 |  |
+| [LUCID](https://open.spotify.com/track/7BoVAJ0HuKcBBRmUGlzX6o) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [SAWAYAMA \(Deluxe Edition\)](https://open.spotify.com/album/0pWu9s2gPdVgqHpMR2LDEx) | 3:38 | 2022-11-27 | 2024-04-24 |
 | [Luna](https://open.spotify.com/track/11EOvxJRG665bwRU0z6YVa) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [So Long, See You Tomorrow](https://open.spotify.com/album/5oKWoolIuoWMG6AORvA9hL) | 3:10 | 2022-11-27 |  |
 | [Marea \(we’ve lost dancing\)](https://open.spotify.com/track/5Z8Dj3LtbyCMiwE86rhg2f) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw) | [Actual Life \(April 14 \- December 17 2020\)](https://open.spotify.com/album/6o86bV7TAt5x4exc2qLDqC) | 4:45 | 2022-11-27 |  |
 | [Meet Me At Our Spot](https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG) | [THE ANXIETY](https://open.spotify.com/artist/64H8UqGLbJFHwKtGxiV8OP), [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Tyler Cole](https://open.spotify.com/artist/1xoxekeb8jUVHKJB7m6bfg) | [THE ANXIETY](https://open.spotify.com/album/2kZyqn4Cmr78D74K9TcO4K) | 2:42 | 2022-11-27 |  |
 | [Mess Around](https://open.spotify.com/track/0X0Lz7LwpiIWcdGqVWaxXD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Tell Me I'm Pretty](https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ) | 2:53 | 2022-11-27 |  |
+| [Miles Apart](https://open.spotify.com/track/5SDvFc4nuxzL3ddh9m1Z24) | [Liss](https://open.spotify.com/artist/49relnvZqce65Sj3QiQAaI) | [First](https://open.spotify.com/album/3DGuXHhSdlH1xWst2ALLhw) | 3:37 | 2023-07-21 |  |
 | [Misanthropulsar](https://open.spotify.com/track/1doeB8uJMZVf2A5ePRVKh0) | [Dumbo Gets Mad](https://open.spotify.com/artist/530iy3GzOTqWe9LEeiZuDO) | [Misanthropulsar](https://open.spotify.com/album/3VBsDNs0P2Qo1seyo2V0IP) | 3:27 | 2023-07-21 |  |
 | [moment](https://open.spotify.com/track/5K9tfeoiztw94dyWzF39jq) | [Vierre Cloud](https://open.spotify.com/artist/31ijgiurmIPTNojkYQXdnl) | [moment](https://open.spotify.com/album/4FehFP4tVEFyT75LCTHl7m) | 2:09 | 2022-11-27 | 2024-04-19 |
 | [Money](https://open.spotify.com/track/3VIJBrMpvimHEw5wtPh2wB) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu) | [Portamento](https://open.spotify.com/album/4I7uuSfSkHKJjrr1vpu4mi) | 3:53 | 2022-11-27 | 2024-04-19 |
@@ -392,7 +393,7 @@
 | [Walk Like an Egyptian](https://open.spotify.com/track/1Jwc3ODLQxtbnS8M9TflSP) | [The Bangles](https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC) | [The Essential Bangles](https://open.spotify.com/album/4yaX6Gmlvo42PnGgBdhzGf) | 3:24 | 2022-11-27 |  |
 | [Walking On A Dream](https://open.spotify.com/track/5r5cp9IpziiIsR6b93vcnQ) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 3:18 | 2022-11-27 |  |
 | [Washing Machine Heart](https://open.spotify.com/track/3jjsRKEsF42ccXf8kWR3nu) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [Be the Cowboy](https://open.spotify.com/album/42cH7mrkfljkqkxA2Ip9Xq) | 2:08 | 2022-11-27 | 2024-04-19 |
-| [Waterfall \- Remastered](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:38 | 2022-11-27 |  |
+| [Waterfall \- Remastered 2009](https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 4:38 | 2022-11-27 |  |
 | [We Are The People](https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Walking On A Dream \(10th Anniversary Edition\)](https://open.spotify.com/album/5B6XfyHHYawyLkEvNvhSPh) | 4:27 | 2022-11-27 |  |
 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 | 2022-11-27 | 2023-01-28 |
 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/5f5RzlEgheGXEsYAvmYil8) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/6ZvHsKjcXTEF3YcY2VejIk) | 4:22 | 2022-11-27 | 2024-04-19 |

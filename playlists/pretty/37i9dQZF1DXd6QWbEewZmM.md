@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 
 > \#SadCuhHour gems 🥀🥹
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,068 likes - 100 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,152 likes - 100 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 35 | [Regresa Mami](https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal, Vol\. 2](https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg) | 3:34 |
 | 36 | [Recuerda](https://open.spotify.com/track/2BaBwcllqDMkoD9184xOxP) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Flores](https://open.spotify.com/album/1JWDyNqyEL0FQBaM1jc6KO) | 2:30 |
 | 37 | [Adueñarme](https://open.spotify.com/track/4zneNpRMfRSdhsFTZbYZLN) | [Nivel](https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK) | [Adueñarme](https://open.spotify.com/album/1gaP3AXTMB6E5svNhFP7tF) | 3:03 |
-| 38 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 |
+| 38 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
 | 39 | [Te Perdonaría](https://open.spotify.com/track/0fOcoVDRswPO5bIviynzvJ) | [El Frizian](https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp), [Eden Muñoz](https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV) | [Te Perdonaría](https://open.spotify.com/album/6L8a3pdMbTjgHWluN2TLdz) | 2:36 |
-| 40 | [Piel de Seda](https://open.spotify.com/track/5BGVjoFtSSYov2pMpmo1La) | [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Tragos y Cigarros](https://open.spotify.com/album/7yeopeDDLOvHmgtgyTYG9S) | 2:46 |
+| 40 | [Por las Noches](https://open.spotify.com/track/2VzCjpKvPB1l1tqLndtAQa) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Por las Noches](https://open.spotify.com/album/6USJaTtVIy0YH5hhzOWVHe) | 3:59 |
 | 41 | [Te Extraño](https://open.spotify.com/track/4woupD6nz235hkCKdIkQJT) | [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Buen Viaje](https://open.spotify.com/album/5VeCe0dQWJgeQ2zQG1K58m) | 3:25 |
 | 42 | [Tatuajes \- Deluxe](https://open.spotify.com/track/2b4YJ0j60w3YPIFot0oodu) | [Ivan Cornejo](https://open.spotify.com/artist/6PH3FLQAxtqYy46Zv08bpV) | [Dañado \(Deluxe\)](https://open.spotify.com/album/7dFnP4kqkS8va6P0UiVKaW) | 3:18 |
 | 43 | [¿Por Que Me Enamoré?](https://open.spotify.com/track/18J1Ke20aBiyK0nv9gnjez) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:25 |
@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 68 | [Mi Nena](https://open.spotify.com/track/4X9r5jOEmvl5Qr3ozFwTww) | [Nueva Conducta](https://open.spotify.com/artist/2y2QGr28RmKBEzhBOzlNz5) | [Mi Nena](https://open.spotify.com/album/7tTDJOKYxMElrI7Sk8TNUF) | 2:29 |
 | 69 | [Enamorado](https://open.spotify.com/track/1JZ9TyZKqNZlCuDiySq9Ra) | [Giovanni Y Su Equipo Escoltado](https://open.spotify.com/artist/10skaFqBCaTCTmxh3kjFRe) | [Malandro Enamorado](https://open.spotify.com/album/5IJUKPReC7LRXf75P9kGvA) | 3:36 |
 | 70 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
-| 71 | [Ya Te Superé \- En Vivo](https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Ya Te Superé \(En Vivo\)](https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt) | 3:05 |
-| 72 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 |
+| 71 | [Disculpe Usted](https://open.spotify.com/track/0EoGITCf80uJ52Yk5BxUsV) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Las Romanticas Favoritas de Fuerza Regida](https://open.spotify.com/album/0ffWcvGsLQbPnA4aLJLdFj) | 3:26 |
+| 72 | [Ya Te Superé \- En Vivo](https://open.spotify.com/track/1vKOJXwfM5oJ8JmyuSmhKk) | [Los Parras](https://open.spotify.com/artist/1mXD3HVrObKWyjMvRjfsXp) | [Ya Te Superé \(En Vivo\)](https://open.spotify.com/album/1y7zuiizOUv2VND95gmnvt) | 3:05 |
 | 73 | [Como Tu Quieras](https://open.spotify.com/track/5Ld9JqO3qbpRXzaJPU2Nzj) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Perdido En Ti](https://open.spotify.com/album/6DXKFFQcoS3ovfQVzj26fg) | 2:55 |
 | 74 | [Déjame Ser](https://open.spotify.com/track/281MU4q1qidG9gUNj2FZsf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Déjame Ser](https://open.spotify.com/album/3WPHKzqx1q136JTnQ9Q7xz) | 3:08 |
 | 75 | [Dime \(with Conexión Divina\)](https://open.spotify.com/track/0RUEaNVgRbaj8Mm1qPaHri) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP), [Conexión Divina](https://open.spotify.com/artist/4VNRWgZyB5AiSw4jlGDVLy) | [Dime \(with Conexión Divina\)](https://open.spotify.com/album/62LsTv9SDFBUihRPwVUsLr) | 3:52 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6QWbEewZmM.md) - [plain]
 | 92 | [La Única](https://open.spotify.com/track/2VlYtG8JEpe0KcfTK5xuOg) | [Angel Perez](https://open.spotify.com/artist/39dTY1F07rdtbJ1zgjDQOe), [Gabino Montalvo](https://open.spotify.com/artist/0ZoDVZuncNiNIsyPkxmvZ6) | [Siéntelo a Tu Modo](https://open.spotify.com/album/4tYo4NG8vIT2Ja1wDc2CUD) | 3:44 |
 | 93 | [Que Paso](https://open.spotify.com/track/4fYQuUPuF4qICpqX7YJ8tR) | [Officialalex425](https://open.spotify.com/artist/2cmqbSrv0RSUeYRuWkqSiQ) | [Que Paso](https://open.spotify.com/album/6TFLFRhMey07eYoJ3l3psS) | 3:51 |
 | 94 | [2 De La](https://open.spotify.com/track/2ImJtl2zKUto4nB34YJHBO) | [LDNE](https://open.spotify.com/artist/5hkcGbdTv8nC62vVT7RJmZ) | [2 De La](https://open.spotify.com/album/5mffXgdpyrt2qyOejlBK7u) | 3:10 |
-| 95 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 |
+| 95 | [komo llego el final](https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [komo llego el final](https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF) | 3:05 |
 | 96 | [Trato de Olvidarte](https://open.spotify.com/track/1oWchNhYm1gbwt2sjh5yAP) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [B.A.S](https://open.spotify.com/album/52LCfcij1vNamKkTXFAn7y) | 4:08 |
 | 97 | [Neverita](https://open.spotify.com/track/7pvE2D1hd45hdS6t7ug4a1) | [Diego Coss](https://open.spotify.com/artist/6LRTS7gHSbzSlzD4M7BJ7O) | [Neverita](https://open.spotify.com/album/3BdTrhWdNzQUqFqi7x3HpF) | 3:11 |
 | 98 | [772 Love \- Remix](https://open.spotify.com/track/2LfiTqcOuH5o4TfIOCuGX3) | [Los de FL](https://open.spotify.com/artist/1K4SdfLNucKNc8rCrqBFTc), [Vanesita](https://open.spotify.com/artist/35VZmpEAaX3Z8UP8Mps5sm) | [772 Love \(Remix\)](https://open.spotify.com/album/3JtQYgtu4EWsuFk3tCbQOY) | 3:12 |
 | 99 | [Solamente Tu](https://open.spotify.com/track/0aQTUc1SqjQCpee1R944Ff) | [Ezra Martinez](https://open.spotify.com/artist/7c1uRwRCw8mS6WWGiCZbA7) | [Solamente Tu](https://open.spotify.com/album/3dlhOSGV3DSlkfhM15uj1V) | 2:40 |
-| 100 | [komo llego el final](https://open.spotify.com/track/37wrK3Whdi4ZNbPZUiA5hf) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3) | [komo llego el final](https://open.spotify.com/album/41KwENklF7OXxcEGsBkbGF) | 3:05 |
+| 100 | [Esperame](https://open.spotify.com/track/4JZ6TlJAHOAVhhvUypHbAp) | [ERRE](https://open.spotify.com/artist/5OugQZ3PqgRofo9mtzVYN3), [Alejandroo](https://open.spotify.com/artist/4wHL1OX8yZPTXoRrIycyYQ) | [Esperame](https://open.spotify.com/album/32HFOEzM0W03ARo1WJglEg) | 3:00 |
 
 Snapshot ID: `MTcxMjkwMjY4NCwwMDAwMDAwMGZkNTEzNjI3NmY4Mjc0MTYzZTZhMTlkYzgxMzg1MzUy`

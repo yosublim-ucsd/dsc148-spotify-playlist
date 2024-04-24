@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 
 > For the pain, tears and heartbreak.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,334 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,448 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,9 +35,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 25 | [Certified Loner \(No Competition\)](https://open.spotify.com/track/6NKuW3yaNXtloGw1RB8WUi) | [Mayorkun](https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd) | [Certified Loner \(No Competition\)](https://open.spotify.com/album/09GvRfHYMZQKWza03GYJxz) | 2:45 |
 | 26 | [understand](https://open.spotify.com/track/6teW0qt23aGnWhC0rSvtoz) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [understand](https://open.spotify.com/album/3gPckvEZDTVrXGXYMIh9VK) | 2:54 |
 | 27 | [For Days](https://open.spotify.com/track/7sSpKoxxtecQry1wxVmpIz) | [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [For Days](https://open.spotify.com/album/0B2ciZrwX6zv2ADSniu4i2) | 2:44 |
-| 28 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 |
+| 28 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
 | 29 | [You Need To](https://open.spotify.com/track/5yC1nqnRKZMrP8TsZd25zB) | [Plug Music](https://open.spotify.com/artist/5sVHv1gaAjQw2X2gyYpKq6), [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Celine Vol\. I](https://open.spotify.com/album/7DdmKGWMOIMKpbYjpBTelV) | 3:00 |
-| 30 | [E PAIN ME](https://open.spotify.com/track/3JziUAJNdpilVeO0yf7ksf) | [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Timeless](https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS) | 3:03 |
+| 30 | [Feel Different](https://open.spotify.com/track/0nTgtjFQzLhvU3VLciMPlN) | [Reekado Banks](https://open.spotify.com/artist/3bxZkzk0PLHcetO9o4oxXn), [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [Feel Different](https://open.spotify.com/album/3WkYJGUSNOTvGoe4YkIVjM) | 2:59 |
 | 31 | [A1 \(Feeling Disorder\)](https://open.spotify.com/track/5lsnlGFJTOytJFgJH5tuMu) | [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [A1 \(Feeling Disorder\)](https://open.spotify.com/album/310NyAQdWMgHJNjq7AKLvo) | 2:05 |
 | 32 | [Bad Influence](https://open.spotify.com/track/6DFM9BKkKDGHoGoavIPV3c) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Get Layd](https://open.spotify.com/album/1WtsIAJMX3vtk7Gjpftyyu) | 2:18 |
 | 33 | [Relationship](https://open.spotify.com/track/6CypiZh1I7VSPE9tyzvEK4) | [Boy Spyce](https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT) | [Relationship](https://open.spotify.com/album/6O0aLo7VWNZPkkBC4TfQ8F) | 2:52 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16fznubzL23.md) - [plain]
 | 46 | [Omoge Mi](https://open.spotify.com/track/6xKWafFBzv9KGbWODuwQ0V) | [P\-Square](https://open.spotify.com/artist/42IUN9kTPdUdI1kre6L7Wk) | [Get Squared](https://open.spotify.com/album/0u5OspKCUbshNaZGc53hgs) | 4:35 |
 | 47 | [Selling Dreams](https://open.spotify.com/track/50BvQjbcdQlYBivMUjK2QR) | [Nana Fofie](https://open.spotify.com/artist/4VUZyzya1v8H9StAeuKYXW) | [Selling Dreams](https://open.spotify.com/album/40jDnDL4AczO7ZgIIauyOL) | 2:28 |
 | 48 | [Medusa \(feat\. Khaid\)](https://open.spotify.com/track/0iPj4DkNgyDLExLdgQrq9V) | [Layzee Ella](https://open.spotify.com/artist/5pvPu7OzfK3aKQaqKaEP4u), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Medusa \(feat\. Khaid\)](https://open.spotify.com/album/6KE6wjvSKD5EFoVI0jlff5) | 3:04 |
-| 49 | [you cheated, i cheated too](https://open.spotify.com/track/59WglUODah5Gaby1bqGCft) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:15 |
-| 50 | [How To Kill A Man](https://open.spotify.com/track/4SIOfdukGpJsd6hShkXyHb) | [Bloody Civilian](https://open.spotify.com/artist/59gzAeE63TMTxOdjU3Ew0K) | [How To Kill A Man](https://open.spotify.com/album/4tD2HpiRHHdgTJ3aPfebDo) | 2:54 |
+| 49 | [Toxic Love](https://open.spotify.com/track/0WL1rJuCiGYR4Jp5MlA4uU) | [$hyli](https://open.spotify.com/artist/1x2yCv1GTPRRYymqPuZGPZ) | [Toxic Love](https://open.spotify.com/album/2FArfl0H4GtG1R8wztA2HK) | 2:19 |
+| 50 | [you cheated, i cheated too](https://open.spotify.com/track/59WglUODah5Gaby1bqGCft) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [Sad Romance](https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY) | 2:15 |
 
 Snapshot ID: `MTcxMzQ4NDg2MCwwMDAwMDAwMGUxMTI2MDEzOTg0NjYzNDE1YzYwZjY1M2FiNTI1MWNl`

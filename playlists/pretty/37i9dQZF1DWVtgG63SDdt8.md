@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all genres of Christian, Gospel, Worship & Inspirational music\.  Cover: <a href="spotify:artist:0wczmL4iUleqcy10Ek5Eyh">JWLKRS Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 329,390 likes - 100 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 329,464 likes - 100 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 23 | [Image of Christ](https://open.spotify.com/track/3Or9gORXSlLHYuqjKceFOS) | [Jimmy Clifton](https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t) | [Image of Christ](https://open.spotify.com/album/0ZndeQO40uYlCYLmllc3Bu) | 2:17 |
 | 24 | [Hosanna \(Blessed Be The Rock\) \- Live](https://open.spotify.com/track/6XtWJyxmugTdmrjGp7Rzof) | [Randy Weston](https://open.spotify.com/artist/6Cx6WhEWHJWPeiFspDCwDR), [Judah Band](https://open.spotify.com/artist/03gMZAPd2rlsXGVZDusedV) | [Testimony Service \(Live\)](https://open.spotify.com/album/3buwWGl7lXHzTBypWohXx0) | 4:09 |
 | 25 | [Christ In All Things](https://open.spotify.com/track/5QQjE92fPdGQi5pJmphdpe) | [Vineyard Worship](https://open.spotify.com/artist/7cvnCTBvMm6OvTutfCpxjL), [Susanne Courtney](https://open.spotify.com/artist/0gPkREteMCcZdQkaLpaLxj) | [Christ In All Things](https://open.spotify.com/album/6f8MgTd6bamHACijGtiyZe) | 3:52 |
-| 26 | [Shiloh \- 2024 Edition](https://open.spotify.com/track/0Cv2W2bRq7HYLiyS4Rw2XD) | [Night Beds](https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd) | [Shiloh \(2024 Edition\)](https://open.spotify.com/album/2q8cvywoMKGeJSKlyZnLtn) | 3:26 |
+| 26 | [Shiloh \- James River Version](https://open.spotify.com/track/0Cv2W2bRq7HYLiyS4Rw2XD) | [Night Beds](https://open.spotify.com/artist/533wKOfkJylNSi6ntO1wXd) | [Shiloh \(James River Version\)](https://open.spotify.com/album/2q8cvywoMKGeJSKlyZnLtn) | 3:26 |
 | 27 | [The More I Seek You \- Chapel Sessions](https://open.spotify.com/track/18ZKq7KnkUwjoAP85So7Cc) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Jessie Harris](https://open.spotify.com/artist/1d5o5nKTHxv0gr9avqdTmA) | [The More I Seek You \(Chapel Sessions\)](https://open.spotify.com/album/4RReojgP5cterlt1Pu5VMj) | 4:50 |
 | 28 | [Clarity](https://open.spotify.com/track/6yEyHIub0f8ZnScctBQB8c) | [JWOODZ](https://open.spotify.com/artist/1euV2O9oyOrwbwOoakx45f), [VerbPro 12:4](https://open.spotify.com/artist/7nqMJhiBlqeeAP6iC1VvjE), [Dani J.](https://open.spotify.com/artist/57fw1aaUlrhESrrqumZYHv) | [Clarity](https://open.spotify.com/album/39E0r0YNZwVdndknPS42aH) | 2:48 |
 | 29 | [Help Me \- Live](https://open.spotify.com/track/2m7eTXWOfC19aMwK1dqUZP) | [Kendrick Evans & Renew’d](https://open.spotify.com/artist/0ztWgllgVHTaStstSvoosF), [Jamal Roberts](https://open.spotify.com/artist/6R8EfqK9LdyvvWAjbjnkdg), [Tyler Little](https://open.spotify.com/artist/2eu7LaS3mC5CHE8hGbCJOX) | [Help Me \(Live\)](https://open.spotify.com/album/4Y9GK9A0dCcwYNnQekeSos) | 7:09 |

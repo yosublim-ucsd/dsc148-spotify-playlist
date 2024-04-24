@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iwIl2oN1P1.md) - [plain]
 
 > Get your Sunday sound right with this collection of current Gospel essentials.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,012 likes - 60 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,040 likes - 60 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

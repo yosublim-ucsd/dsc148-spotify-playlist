@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 
 > killer songs from badass artists\. Cover: Haley Blais
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,621 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,688 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 36 | [Quarry](https://open.spotify.com/track/2rQw8ZLhgYDGMS8ijHk6Tr) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Rat Saw God](https://open.spotify.com/album/1oTR3aC0jYmwUlr9duBi05) | 4:07 |
 | 37 | [Bunny Is A Rider](https://open.spotify.com/track/1rYABrDmfqVmJMwaNJBUUb) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Bunny Is A Rider](https://open.spotify.com/album/2cwOa6RStGRanie22to0NO) | 3:13 |
 | 38 | [New Person, Old Place](https://open.spotify.com/track/00xsWxrnp7wT3kI5AZqQIU) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [New Person, Old Place](https://open.spotify.com/album/6zEqrImo4scaX31UcjsTjC) | 4:06 |
-| 39 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
-| 40 | [Company](https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Company](https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z) | 3:20 |
+| 39 | [Company](https://open.spotify.com/track/0xMsn2VuXcfdf2Ksw4qz7G) | [Sir Chloe](https://open.spotify.com/artist/6rniTPs9zN26kYnkPdFl1U) | [Company](https://open.spotify.com/album/3olsroxbHthxOQWoGOHH7z) | 3:20 |
+| 40 | [Shadows](https://open.spotify.com/track/7gF4K3K2EqWHkLHh1gE3vO) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Shadows](https://open.spotify.com/album/1zByU7wtJp0Z1dev808ePd) | 2:37 |
 | 41 | [You're Not Special, Babe](https://open.spotify.com/track/0GaVSVifeBSwnNTNordPGC) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Woman on the Internet](https://open.spotify.com/album/3TEaY5Lqzymo0AVv2HkQep) | 3:23 |
 | 42 | [Immune](https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF) | [Jensen McRae](https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj) | [Immune](https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn) | 3:30 |
 | 43 | [Water Me Down](https://open.spotify.com/track/1CON7om9HhIyr8cuZ6WmzC) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Vagabon](https://open.spotify.com/album/2AijQUrTqAETyjMaKxu4Xh) | 4:32 |
@@ -70,16 +70,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 60 | [Superbike](https://open.spotify.com/track/0vKV3DiHbzFYzPynsi7eFO) | [Jay Som](https://open.spotify.com/artist/1wmiQ6ytATiGnJs6uFluKO) | [Anak Ko](https://open.spotify.com/album/4bENinkpmJmwKz0CL1ZZQ8) | 3:53 |
 | 61 | [Michelangelo](https://open.spotify.com/track/0o3UjwD27Z2QVDWC5Ql70j) | [Cassandra Jenkins](https://open.spotify.com/artist/1WVGbBnzZ5WLZ2PfesIHik) | [An Overview on Phenomenal Nature](https://open.spotify.com/album/0QURjDbfsPsDa5R4sgkjV9) | 3:29 |
 | 62 | [Honey](https://open.spotify.com/track/5GL1bMkfFdclBzQOMjfIT9) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Breathing Song / Honey](https://open.spotify.com/album/4eUxvQuguleFjUp01I6N36) | 3:23 |
-| 63 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
-| 64 | [Champion](https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Champion](https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX) | 4:39 |
+| 63 | [Champion](https://open.spotify.com/track/35qqONLfWcE34sjgEM8UhG) | [Warpaint](https://open.spotify.com/artist/3AmgGrYHXqgbmZ2yKoIVzO) | [Champion](https://open.spotify.com/album/0oHPGTS0X4TVmgtKQoarfX) | 4:39 |
+| 64 | [Freak Like Me](https://open.spotify.com/track/1JSFJDPv6vCGETnNzDHGJr) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Superstar](https://open.spotify.com/album/0t3bYFMzeZg2iO5yVCUpIG) | 3:42 |
 | 65 | [Angelica](https://open.spotify.com/track/1QmWlI3uylUl7Je1uTtj42) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Angelica](https://open.spotify.com/album/6yYQhebqDuWF3DmLDO7OeM) | 3:52 |
 | 66 | [Sweet Tooth](https://open.spotify.com/track/2Mjp4aXF79Ciex4hA5K4MA) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Sweet Tooth](https://open.spotify.com/album/7I21Hdeh0BruN6K9DKZBKh) | 3:41 |
 | 67 | [Donuts Mind If I Do](https://open.spotify.com/track/1zT7GD8H6aZmkkbk395cbq) | [CHAI](https://open.spotify.com/artist/0NZsNnETGPWLKJj2Y0vpBx) | [WINK](https://open.spotify.com/album/105329tEvmR4S5ofi0EZig) | 3:48 |
 | 68 | [Self Fulfilling Prophecy](https://open.spotify.com/track/5EKyAgoER5Y9iIghmr7Ivm) | [Pretty Sick](https://open.spotify.com/artist/5JUGL6ec4eULQ5eVEbOC7e) | [Makes Me Sick Makes Me Smile](https://open.spotify.com/album/44qJ7WYmUyZo4J93o4oDsx) | 3:49 |
 | 69 | [SYT](https://open.spotify.com/track/4YeLHxEmSn2hMYiaWKRExi) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [SYT](https://open.spotify.com/album/3RyVPhaH7sR5PA7bZxoehS) | 3:23 |
 | 70 | [stabilise](https://open.spotify.com/track/3JlNvjlxIlaQ4iQsnxPGct) | [Nilüfer Yanya](https://open.spotify.com/artist/09kXLeOXRyfNQMXRaDO4qA) | [PAINLESS](https://open.spotify.com/album/2IVL0vnFIe9uHWW1TAocC7) | 3:32 |
-| 71 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
-| 72 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 |
+| 71 | [Subtitles](https://open.spotify.com/track/5eC8NnYiXta8Tv8dgbcLjq) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Subtitles](https://open.spotify.com/album/21azpaO61GZG0Xq0fNXXj0) | 4:05 |
+| 72 | [Bad Thing](https://open.spotify.com/track/4jqxfm3BEhHPJ4awPsQ3Sl) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [Bad Thing](https://open.spotify.com/album/6F6vM7ahopH2JAXsai22BI) | 3:22 |
 | 73 | [Maps](https://open.spotify.com/track/4g5OxMb78e7GdHUdjxIplK) | [Samia](https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR) | [Maps / Country](https://open.spotify.com/album/0M8c1kEUcKhN5pPz4Vv0Rw) | 3:27 |
 | 74 | [I Guess This is Life](https://open.spotify.com/track/4ydabrob4581SkaRuuN9YT) | [Jordana](https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw) | [I Guess This is Life](https://open.spotify.com/album/3WWi8o7lr71zCU0iU7VEPb) | 3:31 |
 | 75 | [Guts](https://open.spotify.com/track/2Q9bMFbQTmdEtRwucuvoLq) | [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Guts](https://open.spotify.com/album/0PQmgJOVE5gyJc4JimlSX6) | 5:04 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2I7Ykltk83m.md) - [plain]
 | 79 | [Not The Time](https://open.spotify.com/track/0Vmd1bjR3CAhT86mHs3Mp1) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [SASAMI](https://open.spotify.com/album/5dJhE07Jbhdg8wj3ysnT7H) | 2:50 |
 | 80 | [Anti\-glory](https://open.spotify.com/track/7fDPgekQGJKkyyqjuhtNSG) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Anti\-glory](https://open.spotify.com/album/64rQzBshwp5tyR7ExhJaAk) | 3:30 |
 | 81 | [Body](https://open.spotify.com/track/57FnTgzDMx3ZH4qudrJpLy) | [Haley Blais](https://open.spotify.com/artist/0i4M8k5IcQpiEH6nBMdfPT) | [Wisecrack](https://open.spotify.com/album/1LFVWxdvryjSp6s5EkxojT) | 5:18 |
-| 82 | [Keeping Time](https://open.spotify.com/track/5Nuf5uErDlIRWUYHiXKpXN) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:31 |
-| 83 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
+| 82 | [Favor](https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Favor](https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9) | 4:38 |
+| 83 | [Keeping Time](https://open.spotify.com/track/5Nuf5uErDlIRWUYHiXKpXN) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:31 |
 | 84 | [Salmon Stinta](https://open.spotify.com/track/36JUphIlcyAeFG4Qx9VzcP) | [Black Belt Eagle Scout](https://open.spotify.com/artist/1CUUXdvZE6UzwQyBUm5YVD) | [The Land, The Water, The Sky](https://open.spotify.com/album/3TBUsH85t2wRWS6DfMHcga) | 3:57 |
 | 85 | [Solid Heart](https://open.spotify.com/track/7lT9thtYRU1l8eW9pTZPPa) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [Solid Heart](https://open.spotify.com/album/3Hc7MbrPHYONVqCjzZYxmA) | 3:38 |
 | 86 | [Running with the Hurricane](https://open.spotify.com/track/5DDwu8IxQk6jrRMhI1RwSS) | [Camp Cope](https://open.spotify.com/artist/6OtUfATGYDnx5O23FP6C2s) | [Running with the Hurricane](https://open.spotify.com/album/2KsWFxB2Dqn6SAEAoHHs98) | 4:15 |

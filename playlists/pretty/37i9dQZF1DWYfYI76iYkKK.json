@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 124036,
+  "num_followers": 123934,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,26 @@
     {
       "added_at": "2024-04-18 16:00:00",
       "album": {
+        "name": "\u4f60\u6709\u591a\u50bb (\u5c0d\u5531\u7248, \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2)",
+        "url": "https://open.spotify.com/album/7zhiiC4gGyzozY0B28Izgn"
+      },
+      "artists": [
+        {
+          "name": "\u90b1\u5b87\u8fb0",
+          "url": "https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss"
+        },
+        {
+          "name": "\u9ec3\u5b8f\u8ed2",
+          "url": "https://open.spotify.com/artist/69Q87aRfFaYH8FzVbBmsur"
+        }
+      ],
+      "duration_ms": 223783,
+      "name": "\u4f60\u6709\u591a\u50bb - \u5c0d\u5531\u7248, \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2",
+      "url": "https://open.spotify.com/track/4eghGqwHw5ne1slrWniKP4"
+    },
+    {
+      "added_at": "2024-04-18 16:00:00",
+      "album": {
         "name": "!!!!",
         "url": "https://open.spotify.com/album/58CASB7bpccJHW3Xdx0OaY"
       },
@@ -467,26 +487,6 @@
       "duration_ms": 235743,
       "name": "\u4f60\u8981\u7684\u611b - \u5fc3\u52d5\u7248",
       "url": "https://open.spotify.com/track/1TyCWL2O5xJqiiFT7UN7SZ"
-    },
-    {
-      "added_at": "2024-04-18 16:00:00",
-      "album": {
-        "name": "\u4f60\u6709\u591a\u50bb (\u5c0d\u5531\u7248, \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2)",
-        "url": "https://open.spotify.com/album/7zhiiC4gGyzozY0B28Izgn"
-      },
-      "artists": [
-        {
-          "name": "\u90b1\u5b87\u8fb0",
-          "url": "https://open.spotify.com/artist/4XcapU77i1q4MBWJeFz4Ss"
-        },
-        {
-          "name": "\u9ec3\u5b8f\u8ed2",
-          "url": "https://open.spotify.com/artist/69Q87aRfFaYH8FzVbBmsur"
-        }
-      ],
-      "duration_ms": 223783,
-      "name": "\u4f60\u6709\u591a\u50bb - \u5c0d\u5531\u7248, \u6232\u5287\u300a\u95dc\u65bc\u672a\u77e5\u7684\u6211\u5011\u300b\u63d2\u66f2",
-      "url": "https://open.spotify.com/track/4eghGqwHw5ne1slrWniKP4"
     },
     {
       "added_at": "2024-04-18 16:00:00",

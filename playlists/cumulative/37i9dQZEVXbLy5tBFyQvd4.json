@@ -1280,7 +1280,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 170832,
       "name": "Apaga El Cel",
       "url": "https://open.spotify.com/track/1sXr6moCwVxwKEgSPxhVvF"
@@ -11216,7 +11216,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 141079,
       "name": "Piel",
       "url": "https://open.spotify.com/track/4wS0TnQzVkY9ML1BPKpOk1"
@@ -11658,7 +11658,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -15137,6 +15137,28 @@
     },
     {
       "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
+    },
+    {
+      "album": {
         "name": "LEGENDADDY",
         "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
       },
@@ -15166,7 +15188,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 175013,
       "name": "Ven Porque Te Necesito",
       "url": "https://open.spotify.com/track/4MNfkZ8dtva3cjJ2biqnDS"
@@ -15736,7 +15758,7 @@
       ],
       "date_added": "2022-02-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 185722,
       "name": "Ya No Somos Ni Seremos",
       "url": "https://open.spotify.com/track/0UXlu64mDLvfzR8IXMz06J"

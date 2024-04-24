@@ -1,6 +1,6 @@
 {
   "description": "Las canciones m\u00e1s escuchadas por la comunidad gamer en Latinoam\u00e9rica.",
-  "num_followers": 26437,
+  "num_followers": 26486,
   "original_name": "Gaming Time!",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-04-22 22:23:36",
       "album": {
-        "name": "El Azul",
-        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 187225,
-      "name": "El Azul",
-      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2024-04-22 22:23:36",
-      "album": {
         "name": "Platonicos",
         "url": "https://open.spotify.com/album/5sEpXan86hEcM8eZSAoWhw"
       },
@@ -183,6 +163,26 @@
       "duration_ms": 219048,
       "name": "La Curiosidad",
       "url": "https://open.spotify.com/track/4HYDUMY0xSpeBr0AMY9cUz"
+    },
+    {
+      "added_at": "2024-04-22 22:23:36",
+      "album": {
+        "name": "El Azul",
+        "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 187225,
+      "name": "El Azul",
+      "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
     },
     {
       "added_at": "2024-04-22 22:23:36",
@@ -527,6 +527,26 @@
     {
       "added_at": "2024-04-22 22:23:36",
       "album": {
+        "name": "INDUSTRY BABY (feat. Jack Harlow)",
+        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        },
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "INDUSTRY BABY (feat. Jack Harlow)",
+      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
+    },
+    {
+      "added_at": "2024-04-22 22:23:36",
+      "album": {
         "name": "AMG",
         "url": "https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O"
       },
@@ -547,26 +567,6 @@
       "duration_ms": 174942,
       "name": "AMG",
       "url": "https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO"
-    },
-    {
-      "added_at": "2024-04-22 22:23:36",
-      "album": {
-        "name": "INDUSTRY BABY (feat. Jack Harlow)",
-        "url": "https://open.spotify.com/album/622NFw5Yk0OReMJ2XWcXUh"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        },
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "INDUSTRY BABY (feat. Jack Harlow)",
-      "url": "https://open.spotify.com/track/27NovPIUIRrOZoCHxABJwK"
     },
     {
       "added_at": "2024-04-22 22:23:36",
@@ -1047,6 +1047,22 @@
     {
       "added_at": "2024-04-22 22:23:36",
       "album": {
+        "name": "att.",
+        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
+      },
+      "artists": [
+        {
+          "name": "Young Miko",
+          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
+        }
+      ],
+      "duration_ms": 166406,
+      "name": "princess peach",
+      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
+    },
+    {
+      "added_at": "2024-04-22 22:23:36",
+      "album": {
         "name": "Enemy (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/2Y9Kal9IDz6JphsCfY6GzG"
       },
@@ -1087,22 +1103,6 @@
     {
       "added_at": "2024-04-22 22:23:36",
       "album": {
-        "name": "att.",
-        "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
-      },
-      "artists": [
-        {
-          "name": "Young Miko",
-          "url": "https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB"
-        }
-      ],
-      "duration_ms": 166406,
-      "name": "princess peach",
-      "url": "https://open.spotify.com/track/1OPvJd8Zss7gvfpANQ1LE0"
-    },
-    {
-      "added_at": "2024-04-22 22:23:36",
-      "album": {
         "name": "Envolver",
         "url": "https://open.spotify.com/album/6UsualeqgzPnb8cfaQ5nL7"
       },
@@ -1115,26 +1115,6 @@
       "duration_ms": 193805,
       "name": "Envolver",
       "url": "https://open.spotify.com/track/3IAfUEeaXRX9s9UdKOJrFI"
-    },
-    {
-      "added_at": "2024-04-22 22:23:36",
-      "album": {
-        "name": "LEGENDADDY",
-        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        },
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 192477,
-      "name": "X \u00daLTIMA VEZ",
-      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
       "added_at": "2024-04-22 22:23:36",
@@ -1155,6 +1135,26 @@
       "duration_ms": 218045,
       "name": "Te Ire A Buscar",
       "url": "https://open.spotify.com/track/3elpkpwYlmUbuvmVps08lJ"
+    },
+    {
+      "added_at": "2024-04-22 22:23:36",
+      "album": {
+        "name": "LEGENDADDY",
+        "url": "https://open.spotify.com/album/3rlJCPz7s7bTifG57wjFpt"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 192477,
+      "name": "X \u00daLTIMA VEZ",
+      "url": "https://open.spotify.com/track/48AJSd42lXpicsGqcgopof"
     },
     {
       "added_at": "2024-04-22 22:23:36",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-22 22:23:36",
       "album": {
-        "name": "J CHRIST",
-        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
-      },
-      "artists": [
-        {
-          "name": "Lil Nas X",
-          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
-        }
-      ],
-      "duration_ms": 153766,
-      "name": "J CHRIST",
-      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
-    },
-    {
-      "added_at": "2024-04-22 22:23:36",
-      "album": {
         "name": "AM Remix",
         "url": "https://open.spotify.com/album/1jTRS4KS666BesH1GUHyEV"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 261334,
       "name": "AM Remix",
       "url": "https://open.spotify.com/track/05bfbizlM5AX6Mf1RRyMho"
+    },
+    {
+      "added_at": "2024-04-22 22:23:36",
+      "album": {
+        "name": "J CHRIST",
+        "url": "https://open.spotify.com/album/7d4MwwVvFzXP5E40oaw94J"
+      },
+      "artists": [
+        {
+          "name": "Lil Nas X",
+          "url": "https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq"
+        }
+      ],
+      "duration_ms": 153766,
+      "name": "J CHRIST",
+      "url": "https://open.spotify.com/track/17CWWoszMuoGecCJzmOubE"
     },
     {
       "added_at": "2024-04-22 22:23:36",
@@ -1415,6 +1415,22 @@
     {
       "added_at": "2024-04-22 22:23:36",
       "album": {
+        "name": "Plan A",
+        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
+      },
+      "artists": [
+        {
+          "name": "Paulo Londra",
+          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
+        }
+      ],
+      "duration_ms": 178202,
+      "name": "Plan A",
+      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
+    },
+    {
+      "added_at": "2024-04-22 22:23:36",
+      "album": {
         "name": "Loco",
         "url": "https://open.spotify.com/album/0Aq33KpcbXrHkuyfMhEORI"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 231603,
       "name": "Loco",
       "url": "https://open.spotify.com/track/6PDlkWmrq2ZKiUuFt2aQsH"
-    },
-    {
-      "added_at": "2024-04-22 22:23:36",
-      "album": {
-        "name": "Plan A",
-        "url": "https://open.spotify.com/album/2ZcdUwSYlt9fX8OPWX9Scg"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        }
-      ],
-      "duration_ms": 178202,
-      "name": "Plan A",
-      "url": "https://open.spotify.com/track/2gpQi3hbcUAcEG8m2dlgfB"
     },
     {
       "added_at": "2024-04-22 22:23:36",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2024-04-22 22:23:36",
       "album": {
+        "name": "Mi Gata",
+        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
+      },
+      "artists": [
+        {
+          "name": "Standly",
+          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
+        },
+        {
+          "name": "El Barto",
+          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
+        }
+      ],
+      "duration_ms": 202478,
+      "name": "Mi Gata",
+      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
+    },
+    {
+      "added_at": "2024-04-22 22:23:36",
+      "album": {
         "name": "Se Le Ve",
         "url": "https://open.spotify.com/album/5Jx8mw0p0lG63WqxHqim0s"
       },
@@ -1663,26 +1683,6 @@
       "duration_ms": 277693,
       "name": "Se Le Ve",
       "url": "https://open.spotify.com/track/5W1qmxHrMlQGGAiFA3ZQqP"
-    },
-    {
-      "added_at": "2024-04-22 22:23:36",
-      "album": {
-        "name": "Mi Gata",
-        "url": "https://open.spotify.com/album/3q8hLBzvjSHKczrS3ScvSO"
-      },
-      "artists": [
-        {
-          "name": "Standly",
-          "url": "https://open.spotify.com/artist/0rjms710nwQTdrQheXHJfz"
-        },
-        {
-          "name": "El Barto",
-          "url": "https://open.spotify.com/artist/5RnwLXlnWPF57yzdmUnnvP"
-        }
-      ],
-      "duration_ms": 202478,
-      "name": "Mi Gata",
-      "url": "https://open.spotify.com/track/6J8lLpZoRCmB5pTrnB5jpV"
     },
     {
       "added_at": "2024-04-22 22:23:36",

@@ -2,7 +2,7 @@
 
 ### [This Is Lizzy McAlpine](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0WjMOs)
 
-> This is Lizzy McAlpine\. The essential tracks, all in one playlist.
+> This is: Lizzy McAlpine\. Alle wichtigen Tracks in einer Playlist.
 
 73 songs - 4 hr 5 min
 

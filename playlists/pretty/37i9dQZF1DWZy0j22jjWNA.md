@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 
 > Great songs from great people\.  Enjoy music from artists you can believe in!
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,936 likes - 65 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,956 likes - 65 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 10 | [Nirvana](https://open.spotify.com/track/11VPN6SfBRRmF2fESXlNep) | [ELLIANA](https://open.spotify.com/artist/5t0KCCFs6BIelOxE4XGDRT) | [Nirvana](https://open.spotify.com/album/6HcXFfZ41boaTaIwGa3oPh) | 4:26 |
 | 11 | [Citizens](https://open.spotify.com/track/216VrH1pVtArk8lilJJQih) | [Jon Guerra](https://open.spotify.com/artist/0T5EH22oyMja9UmN0Rz95o) | [Keeper of Days](https://open.spotify.com/album/0flP7iXzaUHPPyOeizocTn) | 4:22 |
 | 12 | [Backwards](https://open.spotify.com/track/07ii8FiGFeAf6ZoW8TbggA) | [Kings Kaleidoscope](https://open.spotify.com/artist/6P9fFbQ875B2bnmdiYwN9A) | [Zeal](https://open.spotify.com/album/1p9qFUWDth0hWAQYiKUB37) | 3:48 |
-| 13 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
-| 14 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
+| 13 | [Like Myself](https://open.spotify.com/track/05JvxrmX4XHchNxipO9Ssj) | [Elizabeth Grace](https://open.spotify.com/artist/2t0oDEgacnqOQRFJqiTH8s) | [Like Myself](https://open.spotify.com/album/3lP01xLRL4vQG0ZdeHAFuv) | 2:28 |
+| 14 | [When Creation Was Young](https://open.spotify.com/track/4ZkZeQaJjmKuUPr7SOIjhU) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Front Porch](https://open.spotify.com/album/0vK1POb7cjZdlZkShnqEDu) | 3:29 |
 | 15 | [The Mountain \(Live from 25in24\)](https://open.spotify.com/track/7ie0VFLajcWxysGPWgDQeB) | [Jon Foreman](https://open.spotify.com/artist/5D3h9ZoobhetjXw3dKhcaq) | [The Mountain \(Live from 25in24\)](https://open.spotify.com/album/3Kns6f8OJy1LkPvHNuppVs) | 3:51 |
 | 16 | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/track/6iIgdvJREEhUmLz9wJnMlw) | [Switchfoot](https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [JOY INVINCIBLE \[Feat\. Jenn Johnson\]](https://open.spotify.com/album/6dKqzlIA9TDzx6SlfoZgI2) | 3:42 |
 | 17 | [Juggernaut](https://open.spotify.com/track/5IPkJqYSdbCJJHZA840z3I) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [Peopled with Dreams](https://open.spotify.com/album/3jjIZaP21vWBSrmQlsXrtv) | 3:54 |
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 33 | [Starts With You And Me](https://open.spotify.com/track/3sPI6DJ6QA9DNVxmioE3ma) | [Nathan Sheridan](https://open.spotify.com/artist/0Vpz3awV4yntr1jCRY7QTm) | [Broken With You](https://open.spotify.com/album/1WxFCGoi2aue2M1OQNKDk7) | 2:58 |
 | 34 | [Good As Gone](https://open.spotify.com/track/5sKTOx9wcRrW84darhOBc5) | [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [Good As Gone](https://open.spotify.com/album/32y5C6o9zbNZYypf951kAZ) | 3:59 |
 | 35 | [Wake Up Sleeper](https://open.spotify.com/track/3a1tbocbSXksbYWkGOPMLs) | [Wildwood Kin](https://open.spotify.com/artist/2KOxHm9lGE9lFZDQdebD6B) | [Wildwood Kin](https://open.spotify.com/album/0gdQ8PGuLpDQnOKWMfOfBH) | 4:06 |
-| 36 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 |
-| 37 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 |
+| 36 | [Reciprocate](https://open.spotify.com/track/6CpRE5o5sXPajgPP6O1tjS) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN) | [Songs from the Valley](https://open.spotify.com/album/1kv20nppb2CdJLMMQ8D7AN) | 3:17 |
+| 37 | [Losing the Lonely](https://open.spotify.com/track/1C5AsyCp4hxF7qII4kOtbS) | [Elenowen](https://open.spotify.com/artist/0YupLF0tszgj7vyKCQlRoC) | [Versions](https://open.spotify.com/album/5THuXFOq0TAqmfjpnMxdEa) | 3:51 |
 | 38 | [The One Where I Talk To God](https://open.spotify.com/track/0AYWhKWWhO4TtbQwvHSCXA) | [Marty](https://open.spotify.com/artist/5BfKKSmpGmj2moMNlaWeJK), [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw), [Tree Giants](https://open.spotify.com/artist/4Cp7yuORQTCa9GUfvb2gss) | [The One Where I Talk To God](https://open.spotify.com/album/1npPoXS35aTSLnPW8JAeAz) | 3:25 |
 | 39 | [Autumn Love](https://open.spotify.com/track/2zzM0GO6lGiy4mXDZ7eEca) | [Tyson Motsenbocker](https://open.spotify.com/artist/5zhKRxsS4pRPhkO6vbE07u) | [Autumn Love](https://open.spotify.com/album/677rERahjwbsZZQNrg1tN4) | 4:55 |
 | 40 | [Dawned On Me](https://open.spotify.com/track/4rTJ1zQvTsXNAs365RWGYj) | [Brewer](https://open.spotify.com/artist/1WNwNKCMaAZKRhB1PAquF2) | [Dawned On Me](https://open.spotify.com/album/1t9g1ZwBOn2EvDFc1copoe) | 2:57 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZy0j22jjWNA.md) - [plain]
 | 44 | [Steady](https://open.spotify.com/track/6Yhuev1iuchCqHY9q27I4N) | [Daniella Mason](https://open.spotify.com/artist/2VJxb44nmZ4ECXBZFV1HBi) | [Steady](https://open.spotify.com/album/6dvtEGmtpQTlzekzXHMm08) | 3:31 |
 | 45 | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/track/0vb6mwKc6QLvC0jOnrmQEy) | [Birdtalker](https://open.spotify.com/artist/2sNHl4oXsU0DVTy9u1otGt) | [Free Like a Broken Heart \(Acoustic\)](https://open.spotify.com/album/6ehpRVe1W04hujIxUj4EDD) | 3:33 |
 | 46 | [This Is No Burial](https://open.spotify.com/track/68yKw3WXrzKu8AwuLZ3Kt2) | [Andie Elise](https://open.spotify.com/artist/6MFwrVbS7GP9wVtvNtfGy2) | [This Is No Burial](https://open.spotify.com/album/0elstO4HWsES7meWd8Y019) | 3:54 |
-| 47 | [Creature Comforts](https://open.spotify.com/track/3b8l8g7UMJRTCKUEnZiRCF) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Everything at Once](https://open.spotify.com/album/3SnLtbvtKm4791Js84csqh) | 4:04 |
-| 48 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
+| 47 | [God Who Sees Me](https://open.spotify.com/track/25NALshm4GZZkXd0gFmCLL) | [The Hedgerow Folk](https://open.spotify.com/artist/3LBXtcf7iF5hyveaDJolc6) | [God Who Sees Me](https://open.spotify.com/album/0kaaq4b14mpk8kl4H0OUFE) | 4:00 |
+| 48 | [Creature Comforts](https://open.spotify.com/track/3b8l8g7UMJRTCKUEnZiRCF) | [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [Everything at Once](https://open.spotify.com/album/3SnLtbvtKm4791Js84csqh) | 4:04 |
 | 49 | [The Road, The Rocks, and The Weeds](https://open.spotify.com/track/59oEEdqRLNKYBM7nbbaCD7) | [John Mark McMillan](https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek) | [The Road, The Rocks, and The Weeds](https://open.spotify.com/album/4Q7EFIDyCAMqsr0fGD3kle) | 3:35 |
 | 50 | [I Am One](https://open.spotify.com/track/6cuwOV2JrWQSY2wKBCawzJ) | [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [I Am One](https://open.spotify.com/album/0UBI5alyeqYSys0BUPAnEF) | 4:10 |
 | 51 | [Heartbreak Magic](https://open.spotify.com/track/2xDF7yuo284KTe5yZEsuE9) | [Riah](https://open.spotify.com/artist/5MGoZUcMHAwTKzcXKKofQ9) | [Heartbreak Magic](https://open.spotify.com/album/3EHwhZfwyVZqCgtthoYbfE) | 3:22 |

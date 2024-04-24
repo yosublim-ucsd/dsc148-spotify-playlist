@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 
 > Need to get your energy level up?
 
-[Spotify](https://open.spotify.com/user/spotify) - 596,423 likes - 100 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,035 likes - 100 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,13 +46,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTUHzPOW6Jl7.md) - [plain]
 | 36 | [Pour It Up](https://open.spotify.com/track/5r67bGhYXZNqk2m2Wupfmu) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 2:41 |
 | 37 | [Go Crazy](https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [Slime & B](https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG) | 2:56 |
 | 38 | [Formation](https://open.spotify.com/track/6g0Orsxv6glTJCt4cHsRsQ) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [Lemonade](https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF) | 3:26 |
-| 39 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
+| 39 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
 | 40 | [Goodies \(feat\. Petey Pablo\)](https://open.spotify.com/track/3dFwpxh2yH7C7p9BGEKLVB) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX), [Petey Pablo](https://open.spotify.com/artist/4Js9eYwAf9rypNtV8pNSw9) | [Goodies](https://open.spotify.com/album/71gUhKYZIWmmjqAHlY4Br3) | 3:43 |
 | 41 | [Hit 'Em Up Style \(Oops!\)](https://open.spotify.com/track/4zYTZvtcww7OWKie7fxA9E) | [Blu Cantrell](https://open.spotify.com/artist/6vytZ677lz4LzCrUDcDokM) | [So Blu](https://open.spotify.com/album/3EIwRVOXjqWAxVLt7raduU) | 4:10 |
 | 42 | [Run It! \(feat\. Juelz Santana\)](https://open.spotify.com/track/7xYnUQigPoIDAMPVK79NEq) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb) | [Chris Brown \(Expanded Edition\)](https://open.spotify.com/album/49gaz5rhWWgqCw61M9700v) | 3:49 |
 | 43 | [You Make Me Wanna...](https://open.spotify.com/track/47TqCCnEliDp8NRDyIQoQq) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [My Way](https://open.spotify.com/album/0fQdoem8dnrl80YcZzQ8f0) | 3:39 |
 | 44 | [Walk Like This](https://open.spotify.com/track/0IGjUHYbwnK6Bo8u79d2E3) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Walk Like This](https://open.spotify.com/album/6Hrl23TC9yxPxXhu4jFPqF) | 3:17 |
-| 45 | [Bills, Bills, Bills](https://open.spotify.com/track/1Oi2zpmL81Q0yScF1zxaC0) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 4:16 |
+| 45 | [Jumpin', Jumpin'](https://open.spotify.com/track/4pmc2AxSEq6g7hPVlJCPyP) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [The Writing's On The Wall](https://open.spotify.com/album/283NWqNsCA9GwVHrJk59CG) | 3:50 |
 | 46 | [Come Thru \(with Usher\)](https://open.spotify.com/track/3TTMUI5dFcbeNSDTTDY9M8) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Over It](https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK) | 3:01 |
 | 47 | [Show Me \(feat\. Chris Brown\)](https://open.spotify.com/track/4q6dqyGM25sKFU8nYAGRe4) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [My Own Lane \(Expanded Edition\)](https://open.spotify.com/album/6qBNm8dkdowRUUrN7uwR11) | 3:37 |
 | 48 | [Partition](https://open.spotify.com/track/5hgnY0mVcVetszbb85qeDg) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m) | [BEYONCÉ \[Platinum Edition\]](https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu) | 5:19 |

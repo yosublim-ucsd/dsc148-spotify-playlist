@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 
 > Indie jams that sound like lounging under the sun with friends.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,284 likes - 100 songs - 5 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,368 likes - 100 songs - 5 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 41 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 |
 | 42 | [waves \- Tame Impala Remix](https://open.spotify.com/track/3lB0GMiI5KxDbTOG8V3bOx) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Rogue Waves](https://open.spotify.com/album/4sJXyIfwduIWFISb4iCq2f) | 4:13 |
 | 43 | [Marcel](https://open.spotify.com/track/5u9cuDcYdOpSRB7fAYXXdp) | [Her's](https://open.spotify.com/artist/77mJc3M7ZT5oOVM7gNdXim) | [Songs of Her's](https://open.spotify.com/album/03gwRG5IvkStFnjPmgjElw) | 3:07 |
-| 44 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
-| 45 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 |
-| 46 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
+| 44 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 |
+| 45 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
+| 46 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 |
 | 47 | [Don't Take The Money](https://open.spotify.com/track/3ySU5vwQB33iGulwcUL9qQ) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Gone Now](https://open.spotify.com/album/10HKbC9lKDHGQvndGck6XJ) | 3:35 |
 | 48 | [Rawnald Gregory Erickson the Second](https://open.spotify.com/track/4j4pPKE3xAblPIbhxScC1j) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Starfucker](https://open.spotify.com/album/4mBSeOEiQ4WgDaCnydb0tZ) | 2:53 |
 | 49 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
@@ -65,16 +65,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 55 | [Warm](https://open.spotify.com/track/4rxD9Ar3OlsgGOnblWUKqr) | [Dre'es](https://open.spotify.com/artist/4pc5r183mYvIzGyFv2S0hO) | [Warm](https://open.spotify.com/album/6VCVsHg0OzSEKRnFLtOQcg) | 4:15 |
 | 56 | [Better Give U Up](https://open.spotify.com/track/4c60yLpE5lXvICT0pyEaZ5) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z) | [French Kiwi Juice](https://open.spotify.com/album/0jJ7mMkCkTe7p9EJgSRxgi) | 4:16 |
 | 57 | [Disco Yes](https://open.spotify.com/track/2fvdQ1Uq04qE4RLN5zKBXS) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye), [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [Geography](https://open.spotify.com/album/0hDnsNkxpMDZrpBlGjldtW) | 4:40 |
-| 58 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
-| 59 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 |
+| 58 | [1st Time](https://open.spotify.com/track/4udjo5nLK61pKajakfrndc) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [1st Time](https://open.spotify.com/album/1ecGfFfdYXsJnRRLuENEtG) | 3:01 |
+| 59 | [Too Good](https://open.spotify.com/track/1HHIv96gVeVkoOBzQeH9d8) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Collapsed In Sunbeams](https://open.spotify.com/album/42joEEymK7EIHODfNB4yug) | 3:41 |
 | 60 | [Beat 54 \(All Good Now\)](https://open.spotify.com/track/7CFbh9XfJ40XaYWgCbYX3H) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [For Ever](https://open.spotify.com/album/5gYCZgmXzzWXxOCb9fMfBm) | 4:06 |
 | 61 | [Ways to Go](https://open.spotify.com/track/57nNNkgk768QVXq3uHxu5e) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spreading Rumours](https://open.spotify.com/album/1VNBZDM7OxEQPFbEtVqUuf) | 3:35 |
 | 62 | [Happy Music](https://open.spotify.com/track/0LbZxI8FZU1E48EqF9XgC0) | [Supershy](https://open.spotify.com/artist/2hk94pAZS1iYSqoICeTyh1) | [Happy Music](https://open.spotify.com/album/1MbCQbojPuCgMNyUEwjSJ0) | 3:52 |
 | 63 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 64 | [El Layali](https://open.spotify.com/track/51qw9DAEYn0RS23LtwZU84) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Amor Fati](https://open.spotify.com/album/67gwUv9SBJYgjhTnysFPU6) | 3:09 |
 | 65 | [Missing Out](https://open.spotify.com/track/2kAYu8GaEILjHWtqYg83TD) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Missing Out](https://open.spotify.com/album/0QKpvLKm47m5FNPmGUwzMH) | 3:37 |
-| 66 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |
-| 67 | [But Not Kiss](https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:42 |
+| 66 | [But Not Kiss](https://open.spotify.com/track/78nMVqRwap5hysPgnziW4u) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [Underdressed at the Symphony](https://open.spotify.com/album/0FDkRPm9cIRJ8qBkxj2Qny) | 3:42 |
+| 67 | [Just Say](https://open.spotify.com/track/1dHiSGzb9WFtDKnBFJs4KO) | [Coco & Breezy](https://open.spotify.com/artist/0Adbm5kzcPUxFybf9fhjgG), [Tara Carosielli](https://open.spotify.com/artist/5d6YpWfrSRRZBTgfLt0xcz) | [Just Say](https://open.spotify.com/album/0ivFb0VQTBvbDyfEDsoLCG) | 2:46 |
 | 68 | [The Wire](https://open.spotify.com/track/6golelYKuy85o3u0cxIxFK) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/729Vh0HApsm7hGDVjbmtrf) | 4:05 |
 | 69 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 |
 | 70 | [Iceblink Luck](https://open.spotify.com/track/0Coai3QxvjCXWMhVN1hpgE) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Heaven or Las Vegas](https://open.spotify.com/album/5lEphbceIgaK1XxWeSrC9E) | 3:18 |
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSP55jZj2ES3.md) - [plain]
 | 93 | [Enjoy Your Life](https://open.spotify.com/track/2wwXXUy6P0TCqDNsU0ygm5) | [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb) | [Mid Air](https://open.spotify.com/album/7vQRJ5q9b0c4gKrsh9yIhE) | 4:00 |
 | 94 | [Stay](https://open.spotify.com/track/2raaAIwNBB924qU7Cp3NLx) | [Galdive](https://open.spotify.com/artist/0aMrhUHnOzfiPcMc2PGiaT) | [Stay](https://open.spotify.com/album/2pjKfsWv052j1F5qQ1BJvq) | 3:38 |
 | 95 | [Trouble On Central](https://open.spotify.com/track/3tsFWhe45D6CGFSMA77T3B) | [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Harlan & Alondra](https://open.spotify.com/album/5djciKtjqkY9ZQ1OhKICXN) | 3:07 |
-| 96 | [Something For Your M.I.N.D.](https://open.spotify.com/track/47wq2z7KMHDRnoSMdZODUA) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Something For Your M.I.N.D.](https://open.spotify.com/album/2FlD0ta44kkFbIvwa4uDeP) | 2:45 |
-| 97 | [I'm Just Snacking](https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm Just Snacking](https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2) | 3:18 |
-| 98 | [honey thighs](https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [honey thighs](https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC) | 4:44 |
-| 99 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
-| 100 | [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 |
+| 96 | [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 |
+| 97 | [Something For Your M.I.N.D.](https://open.spotify.com/track/47wq2z7KMHDRnoSMdZODUA) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Something For Your M.I.N.D.](https://open.spotify.com/album/2FlD0ta44kkFbIvwa4uDeP) | 2:45 |
+| 98 | [I'm Just Snacking](https://open.spotify.com/track/12jmugLskEWmYRLKYfMNSk) | [Gus Dapperton](https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4) | [I'm Just Snacking](https://open.spotify.com/album/1OxhOd3oy8xQJ818M3mQS2) | 3:18 |
+| 99 | [honey thighs](https://open.spotify.com/track/00Ym9pLCeLnEzwy95bnzn1) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [honey thighs](https://open.spotify.com/album/09i8SzOLmbEg1ej69rL6aC) | 4:44 |
+| 100 | [Ferris Wheel](https://open.spotify.com/track/0yiJNNm39cp1T7RnXOMVLX) | [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Free Love](https://open.spotify.com/album/2KAPJ40On8JY1Yt64JJgTk) | 2:57 |
 
 Snapshot ID: `MTcxMzc4OTk5NiwwMDAwMDAwMGM4NWYyNzg1OGU1ZTNmM2UxNDM0MjFhYzk1YzdiNjEz`

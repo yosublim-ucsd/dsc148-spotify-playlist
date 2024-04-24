@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 
 > This is HARDY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,681 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,780 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Gin & Juice](https://open.spotify.com/track/1j5MqLb1HiFDAsb3kVqPW9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice](https://open.spotify.com/album/4x8utmtZhvU2k51k6QqKpm) | 4:00 |
+| 1 | [Gin & Juice \- HARDY’s Version](https://open.spotify.com/track/1j5MqLb1HiFDAsb3kVqPW9) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice \(HARDY’s Version\)](https://open.spotify.com/album/4x8utmtZhvU2k51k6QqKpm) | 4:00 |
 | 2 | [TRUCK BED](https://open.spotify.com/track/103u49mLoJUge83B1CnLxI) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [the mockingbird & THE CROW](https://open.spotify.com/album/6Oynwy3OABCiAqN9w9UqBN) | 2:47 |
 | 3 | [Beers On Me](https://open.spotify.com/track/19ZzEzb4BVK1wVO4brrmZz) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS), [BRELAND](https://open.spotify.com/artist/0C86lmpnwiyLDUiyo4d0P1), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Beers On Me](https://open.spotify.com/album/5MCXOrCsU3R1xQ3kLI4oXM) | 2:54 |
 | 4 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5Y05LYM8LhnQN78GqfjSeK) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [A ROCK](https://open.spotify.com/album/6j6uNK4vsfLXqVwWXwvqYQ) | 2:53 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3rPchT.md) - [plain]
 | 48 | [Life Had Plans For Me \(feat\. Parker Diffie\)](https://open.spotify.com/track/0W6dvgBvQA9L3Tl0WNRx7K) | [HIXTAPE](https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV), [Joe Diffie](https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Parker Diffie](https://open.spotify.com/artist/1z95cM4b7vRkIkk778TMS1) | [HIXTAPE: Vol\. 3: DIFFTAPE](https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O) | 3:45 |
 | 49 | [Down to the Bar \(feat\. HARDY\)](https://open.spotify.com/track/2G6I4a9iOgDNoU60F3Bb1z) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW), [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Stereotype](https://open.spotify.com/album/5UgaQfAOaOdfLxFClw8EWa) | 3:15 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDE3ZGE1ZjI0MTllNmU1ZDRkNjk4ODI0OTliYzA4OGJm`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDMyNDVhM2VmYjEyMjc1OWI2ODIwM2NmZDk0ZWE3NjQ4`

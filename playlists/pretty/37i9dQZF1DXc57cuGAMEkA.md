@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。 Taylor Swift, Sia, Hozier, YUKI, RIIZE and more! cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,283 likes - 85 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,323 likes - 85 songs - 4 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,6 +92,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 82 | [すないぱー。](https://open.spotify.com/track/0taluMnYokviw9ujgOslXV) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [すないぱー。](https://open.spotify.com/album/5Z4Hfh1uEzNUrNqqciAvhp) | 3:25 |
 | 83 | [Sugar Blood Kiss](https://open.spotify.com/track/14vIy9ZQnigIz5bU1k7G59) | [FANTASTICS from EXILE TRIBE](https://open.spotify.com/artist/162Ols90jU4CctXQz15NxS) | [Sugar Blood Kiss](https://open.spotify.com/album/1Yom3QQprg3A5Ui2sT6kmB) | 3:32 |
 | 84 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
-| 85 | [Viola Saga: Movement 2 \(Pt\. 1\)](https://open.spotify.com/track/3as75756VNBEvwJPSVfvBR) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [ウィーン交響楽団](https://open.spotify.com/artist/45P7v25izf78nRf3bgfYI8), [Antoine Tamestit](https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr) | [Joe Hisaishi: Viola Saga: Movement 2 \(Pt\. 1\)](https://open.spotify.com/album/09i2t03rwbtM3LbxjQNxZl) | 5:04 |
+| 85 | [Viola Saga: Movement 2 \(Pt\. 1\)](https://open.spotify.com/track/3as75756VNBEvwJPSVfvBR) | [Joe Hisaishi](https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB), [Wiener Symphoniker](https://open.spotify.com/artist/6XZxFuZaBnZBngpxbut80O), [Antoine Tamestit](https://open.spotify.com/artist/31U8AuKww3USO1uWfUBnlr) | [Joe Hisaishi: Viola Saga: Movement 2 \(Pt\. 1\)](https://open.spotify.com/album/09i2t03rwbtM3LbxjQNxZl) | 5:04 |
 
 Snapshot ID: `MTcxMzU3NDYzOCwwMDAwMDAwMDZiYzg2OGVjMzBkN2QzMDg4ODZjYjFjMWU1NGRiNzlk`

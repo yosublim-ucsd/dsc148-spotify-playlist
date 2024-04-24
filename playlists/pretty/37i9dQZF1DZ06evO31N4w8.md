@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 
 ### [This Is Los Rieleros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO31N4w8)
 
-> This is Los Rieleros Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Rieleros Del Norte\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,584 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,613 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO31N4w8.md) - [plain]
 | 49 | [Como Piedra En Pozo](https://open.spotify.com/track/1AIN8gEZXRwTJ30YYZsGjo) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Aventura Pasada](https://open.spotify.com/album/6LIy3aEzPYRSbnqWMUeUtx) | 2:39 |
 | 50 | [Gabino Barrera](https://open.spotify.com/track/1PL4HE40pSXt8SWkBND1la) | [Los Rieleros Del Norte](https://open.spotify.com/artist/59xlizZFIFUvLC0I8iV2Jv) | [Éxitos Recientes y Clásicos](https://open.spotify.com/album/2ePeZ2R1SVuS0HzmJguVm1) | 3:01 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDU2ZjQ4ZTE4YzVlYzE1MzNjOWM5ZmFlZTkwZDAzMzYx`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDUzZGY0ZTc2NTQzZjk1YjdhYjk5NmMxNzY3NWRmYmU0`

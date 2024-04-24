@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 21021,
+  "2024-04-24": 21008,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Slovakia.",
   "name": "Top 50 - Slovakia",
@@ -8706,6 +8706,24 @@
     },
     {
       "album": {
+        "name": "Espresso",
+        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175459,
+      "name": "Espresso",
+      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
+    },
+    {
+      "album": {
         "name": "Porn Music for Porn Movies 2",
         "url": "https://open.spotify.com/album/4Vf1u3aT04jgh8Pdnw1HnB"
       },
@@ -9393,7 +9411,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 215463,
       "name": "Florida!!! (feat. Florence + The Machine)",
       "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
@@ -16401,7 +16419,7 @@
       ],
       "date_added": "2024-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -20749,7 +20767,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 194400,
       "name": "Netancuj",
       "url": "https://open.spotify.com/track/6dsXarPGibMpzgH5OfvC5P"
@@ -22911,7 +22929,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 212530,
       "name": "Panel\u00e1ky maj\u00fa o\u010di",
       "url": "https://open.spotify.com/track/0MKlxqcCZSiYC92xNiGcAB"
@@ -24844,6 +24862,24 @@
     },
     {
       "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
+    },
+    {
+      "album": {
         "name": "DS4EVER",
         "url": "https://open.spotify.com/album/4oxmme6i4mypSt2DDzPTsW"
       },
@@ -26445,7 +26481,7 @@
       ],
       "date_added": "2023-02-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 149589,
       "name": "Saf\u00edr",
       "url": "https://open.spotify.com/track/1tpWtFdAuY9chjl5YhzsTP"
@@ -35961,7 +35997,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 168000,
       "name": "\u0160ed\u00e1 Hus",
       "url": "https://open.spotify.com/track/6WQ5JDm2NMlixD2C82Hk4g"

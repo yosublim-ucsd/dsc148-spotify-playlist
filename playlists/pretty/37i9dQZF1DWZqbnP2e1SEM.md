@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 
 > From Ayia Napa to Ibiza, the biggest anthems from your favourite holiday hotspots.
 
-[Spotify](https://open.spotify.com/user/spotify) - 320,551 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 320,512 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,8 +72,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqbnP2e1SEM.md) - [plain]
 | 62 | [beachin](https://open.spotify.com/track/1LjMPAZCsTIdMuwlM9PcPF) | [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s), [Tommy Villiers](https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN), [piri & tommy](https://open.spotify.com/artist/2U6J9Q89i1TNhesKreFD65) | [beachin](https://open.spotify.com/album/0ceD9hGoyjc5kplHQNP4Mn) | 3:14 |
 | 63 | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/track/7KzTDWGFQerYzkSqRXLwUp) | [jamesjamesjames](https://open.spotify.com/artist/0DqR5aQYPz1s2M3YbycLMJ) | [My Purple iPod Nano \(2nd Gen\)](https://open.spotify.com/album/1R1i1cNz94QG5tT4aByFgU) | 2:44 |
 | 64 | [Salvation](https://open.spotify.com/track/67RXcunSfFbRKLxo3JjlPs) | [Maur](https://open.spotify.com/artist/2LhJEX3HxU9pJFLa8RkvUC), [Goodboys](https://open.spotify.com/artist/2nm38smINjms1LtczR0Cei) | [Salvation](https://open.spotify.com/album/6fe0sr7yIir3zRL8ZRAc2R) | 3:07 |
-| 65 | [Ladybug](https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj) | [Düzer](https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ) | [Ladybug](https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R) | 2:06 |
-| 66 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
+| 65 | [Garden](https://open.spotify.com/track/77uXlUY5qtAxiN1UCtAcyF) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Garden](https://open.spotify.com/album/1ojXM8eKlN2poo2wbKpwCm) | 3:35 |
+| 66 | [Ladybug](https://open.spotify.com/track/2VWs3tTCpvPIPwwgpG68Gj) | [Düzer](https://open.spotify.com/artist/6CCZHHwdSXxweCgJmcf3DJ) | [Ladybug](https://open.spotify.com/album/1VZQh9Bo7jrxRrXTkxJN2R) | 2:06 |
 | 67 | [Lift Me Up](https://open.spotify.com/track/5eV4sUsCLKTkrjtNc3eWWV) | [WEISS](https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB), [Sharlene Hector](https://open.spotify.com/artist/5n8KJvIFfPlC0HiDWVxBnX) | [Lift Me Up](https://open.spotify.com/album/5b6TihYV69YXs0p5CKnGYs) | 2:52 |
 | 68 | [Asking \(feat\. Clementine Douglas\) \- Joshwa Remix](https://open.spotify.com/track/3ouJdNXRk1JFjXGu11Q5BR) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9), [Clementine Douglas](https://open.spotify.com/artist/4DWuml4Jf6K81b5rAPwMb6), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5) | [Asking \(feat\. Clementine Douglas\) \[Joshwa Remix\]](https://open.spotify.com/album/1RotBVyL3ROSBdHQ5soI2L) | 3:01 |
 | 69 | [All for You](https://open.spotify.com/track/64aNdC3hF7DMptxVnf3LD7) | [Welshy](https://open.spotify.com/artist/2eDmtsJH4pQksx4CNhlSQ6) | [All for You](https://open.spotify.com/album/2AJFUqo6aQDlWOocvMoS6i) | 3:13 |

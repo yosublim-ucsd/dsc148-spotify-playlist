@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 
 > 恋してるあなたに寄り添う、素敵なラブソングを集めました。Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,868 likes - 70 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,930 likes - 70 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 44 | [君はロックを聴かない](https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [青春のエキサイトメント](https://open.spotify.com/album/0ct8ESCAYEpDGYJOndCfft) | 4:06 |
 | 45 | [さらまっぽ](https://open.spotify.com/track/6f9Fl22sy1UhH788M7BkH3) | [離婚伝説](https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2) | [さらまっぽ \- Single](https://open.spotify.com/album/0eWUONdRJ4WYpwcoh3D3hA) | 3:19 |
 | 46 | [恋人ごっこ](https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 3:20 |
-| 47 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
-| 48 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
-| 49 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
+| 47 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 |
+| 48 | [CITRUS](https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR) | [Da\-iCE](https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH) | [SiX](https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku) | 4:08 |
+| 49 | [ツキミソウ](https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct) | [Novelbright](https://open.spotify.com/artist/0jWCX6zp4RjWrmZRxJ2uri) | [開幕宣言](https://open.spotify.com/album/2l0vCKtHcqHyticG9vDDCg) | 5:12 |
 | 50 | [Stand by me, Stand by you.](https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh) | [HIRAIDAI](https://open.spotify.com/artist/7JthQ6zwNzfxRfIEjp6wUs) | [Life Goes On](https://open.spotify.com/album/6CK4JBvVs10dL8xn2nNZwe) | 3:13 |
 | 51 | [ブルーベリー・ナイツ](https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm) | [Macaroni Empitsu](https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ) | [hope](https://open.spotify.com/album/5kArccOTc9R98l8GF1D0bF) | 4:04 |
 | 52 | [魔法の絨毯](https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL) | [川崎鷹也](https://open.spotify.com/artist/3BjFX1nExMNHvSaoLd1I1k) | [I believe in you](https://open.spotify.com/album/57MaahzIW7aiwZMCiveDsL) | 3:28 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX328xs24cFGI.md) - [plain]
 | 67 | [結](https://open.spotify.com/track/5Anr2wqdL182BsI02iCbcd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [テイクミー](https://open.spotify.com/album/2qCqF1AZxEyriDxXfmLieh) | 4:24 |
 | 68 | [夢灯籠](https://open.spotify.com/track/7swTJOnvm3zEg7QdmJs52T) | [RADWIMPS](https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7) | [君の名は。](https://open.spotify.com/album/4KtMINeVjpDPdf7CsJSFZl) | 2:09 |
 | 69 | [恋泥棒。](https://open.spotify.com/track/0JnOpiUieuk9SdRv7Fkw2P) | [『ユイカ』](https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj) | [恋泥棒。](https://open.spotify.com/album/02oXm4Mjn4lWcc9xubCAW0) | 3:39 |
-| 70 | [常緑](https://open.spotify.com/track/6qn31XzTa6YKXs5FZpAPgP) | [Chippoke Ohashi](https://open.spotify.com/artist/3QWnDVzCzffmWoYCAGNajE) | [you](https://open.spotify.com/album/1zYNXMwnOzrM188c5DRQLw) | 2:51 |
+| 70 | [アイタリナイ](https://open.spotify.com/track/67seLhibwW3OAyZcEw5Ijh) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [yama](https://open.spotify.com/artist/7kOrrFIBIBc8uCu2zbxbLv), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [アイタリナイ](https://open.spotify.com/album/1C5VITN2qaLE4PChtSmSrj) | 2:42 |
 
 Snapshot ID: `MTcxMzI4OTM1MSwwMDAwMDAwMDE2Nzk2YWFhZDI2YzUyMTE2OTJkNzkzOTcyYmI5NmUz`

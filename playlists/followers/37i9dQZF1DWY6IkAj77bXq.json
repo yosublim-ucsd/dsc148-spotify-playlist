@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 70414,
+  "2024-04-24": 70484,
   "date_first_scraped": "2022-07-19",
   "description": "Resonancias luminiscentes para llenar de paz tu alma.",
   "name": "Sanaci\u00f3n Profunda",
@@ -507,6 +507,24 @@
       "duration_ms": 223994,
       "name": "Catch the Breeze",
       "url": "https://open.spotify.com/track/3xzFMO2rbHK4lrt9e1j8wM"
+    },
+    {
+      "album": {
+        "name": "Catch the Breeze",
+        "url": "https://open.spotify.com/album/5W1mWHI2pGdchMs77OPKM6"
+      },
+      "artists": [
+        {
+          "name": "The Future Sound of XYZ",
+          "url": "https://open.spotify.com/artist/3gqmTTI15kx2XMhxdfxwyY"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223994,
+      "name": "Catch the Breeze",
+      "url": "https://open.spotify.com/track/6NBmxK1yoYz7lRKM3Ecc52"
     },
     {
       "album": {
@@ -3013,7 +3031,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 155853,
       "name": "The State of Mudita",
       "url": "https://open.spotify.com/track/0PThYRj8Rj9v2DF1n1mGaP"

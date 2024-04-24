@@ -4,7 +4,7 @@
 
 > 陰キャでもいい。集団になじめなくてもいい。ひとりで過ごす時間にも、音楽はそっと寄り添ってくれる。 Illustration by <a href="https://twitter.com/hoshieri7">北村英理</a>\(Eri Kitamura\)
 
-110 songs - 7 hr 18 min
+111 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Boys & Girls](https://open.spotify.com/track/71oLJyo4iHE3KunYElSFsG) | [映秀。](https://open.spotify.com/artist/5eqjGrtUd6Hed0ARBv4m0k) | [一寸先の貴方へ](https://open.spotify.com/album/4eoXncy1NfRSRfhKyq8p8E) | 3:21 | 2024-01-09 | 2024-01-24 |
 | [comethru](https://open.spotify.com/track/18uwL0vNUanqZH0ro2QcOP) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3) | [summer,](https://open.spotify.com/album/6Whp0T7d1SAt4gDUNkWWD1) | 3:01 | 2023-11-21 |  |
 | [Curse of Love](https://open.spotify.com/track/7ALNs2wG7YBMIqou85P22G) | [SG](https://open.spotify.com/artist/216arN9tLMMn2ltwEAxmF5) | [Curse of Love](https://open.spotify.com/album/2gLxAX6QIAsanB9HUcEh2z) | 3:34 | 2024-02-06 | 2024-03-06 |
+| [Curtain Call](https://open.spotify.com/track/3JzAKk0CpUlgzS1mPqzBwk) | [Shota Shimizu](https://open.spotify.com/artist/2ZjWbNQAjL74Pf4aqikIz2), [Taka](https://open.spotify.com/artist/3xYFPpQA4Hp8BTusV6um2e) | [HOPE](https://open.spotify.com/album/7KDcEG3mcB0g6XWwFNZ6KR) | 4:27 | 2024-03-05 |  |
 | [Daikokai](https://open.spotify.com/track/2621hKGk5mYi4hcxGZvygV) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Miseisenjo](https://open.spotify.com/album/4UMbQQ1A6zjnWzu4Kzr7tl) | 4:32 | 2024-01-23 | 2024-04-19 |
 | [Daikokai](https://open.spotify.com/track/68e2E631zUpElV1kN3AWEX) | [Higuchi Ai](https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav) | [Daikokai](https://open.spotify.com/album/10f7dQkIPEEJoWa93PRqO1) | 4:32 | 2024-01-10 | 2024-01-27 |
 | [Demo,](https://open.spotify.com/track/7J1qFnDjU5SNRDxpnLlpbD) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [Love°C](https://open.spotify.com/album/1mWPLHs2ERurOEB25DLBxk) | 2:59 | 2023-12-12 | 2024-04-19 |
@@ -65,7 +66,7 @@
 | [ちゅ、多様性。](https://open.spotify.com/track/5KLL3cZEyuSJRvyS84o4Df) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [ちゅ、多様性。](https://open.spotify.com/album/07zxoeMpl7X8SguWcOiN5x) | 3:05 | 2023-11-21 |  |
 | [でも、](https://open.spotify.com/track/1eiflYv62PGfglEC0Dc9rH) | [TakaseToya](https://open.spotify.com/artist/013zmpwJVA8E15pb1hM68O), [れん](https://open.spotify.com/artist/2Hf3gzOBTpBaL0SqyPjX8m) | [愛℃](https://open.spotify.com/album/5d9Z5IN5TO2Z8PI5i6VfGS) | 2:59 | 2023-12-12 |  |
 | [なないろ](https://open.spotify.com/track/1k1zTwX433BlwP6FLOPBpD) | [BUMP OF CHICKEN](https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy) | [なないろ](https://open.spotify.com/album/2sUrTKjCG9KpLfORi8v87S) | 4:19 | 2023-11-21 | 2023-12-13 |
-| [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 | 2023-11-21 |  |
+| [なにやってもうまくいかない](https://open.spotify.com/track/2ILz4eU7UCTv0Wup7F5lVt) | [meiyo](https://open.spotify.com/artist/6ggtLFRSvZsS61lbxLujd9) | [なにやってもうまくいかない](https://open.spotify.com/album/0L3CTv09dL9iJL35WNzGXv) | 2:26 | 2023-11-21 | 2024-04-24 |
 | [ひかりのあと](https://open.spotify.com/track/1O4fQNBqrJobEphruJJyjk) | [Mone Kamishiraishi](https://open.spotify.com/artist/68TWc4rraWK3C522KFdt0b) | [ひかりのあと / skip](https://open.spotify.com/album/0fWCvzwQ1YZD1qaxCEN54n) | 4:41 | 2023-11-21 | 2024-01-17 |
 | [もう一度](https://open.spotify.com/track/1RChlirFdgtS1ZPH45dJX0) | [Tani Yuuki](https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX) | [もう一度](https://open.spotify.com/album/1DceuvwdLYSdS4V50pg2ey) | 4:10 | 2024-03-05 |  |
 | [わたし、蝶々。](https://open.spotify.com/track/1jX9A3M5N38g38REQwwglU) | [illiomote](https://open.spotify.com/artist/3WT4BJFKhoWN3Mc8TDcH7v) | [わたし、蝶々。](https://open.spotify.com/album/4GPiPfhjaCQWNbo8EgtEQp) | 4:24 | 2024-03-05 |  |

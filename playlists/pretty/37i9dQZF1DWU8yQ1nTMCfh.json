@@ -1,6 +1,6 @@
 {
   "description": "Las nuevas vibras del rock en espa\u00f1ol. Cover: Viniloversus",
-  "num_followers": 278475,
+  "num_followers": 278225,
   "original_name": "Rock Total",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Cama Vac\u00eda",
-        "url": "https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW"
-      },
-      "artists": [
-        {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
-        }
-      ],
-      "duration_ms": 239974,
-      "name": "Cama Vac\u00eda",
-      "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Algo Me Dice",
         "url": "https://open.spotify.com/album/4jQdqasrV1LvDcTs2Nln6v"
       },
@@ -415,6 +395,26 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Cama Vac\u00eda",
+        "url": "https://open.spotify.com/album/5KX799gIKfPUtvGJP9t3DW"
+      },
+      "artists": [
+        {
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        }
+      ],
+      "duration_ms": 239974,
+      "name": "Cama Vac\u00eda",
+      "url": "https://open.spotify.com/track/5K8Exvm7PPo426jozW4m2q"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Despertar",
         "url": "https://open.spotify.com/album/6HeMGetB5gKBMVuYsmOn3g"
       },
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "S\u00faper Terror",
-        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
-      },
-      "artists": [
-        {
-          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
-          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
-        }
-      ],
-      "duration_ms": 205719,
-      "name": "Moderato",
-      "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Lo Que Hay Dentro de M\u00ed",
         "url": "https://open.spotify.com/album/316NI8b87YKjLzhbThMcjX"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 190875,
       "name": "Lo Que Hay Dentro de M\u00ed",
       "url": "https://open.spotify.com/track/7A06ah5X99giuAenkTYEmB"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "S\u00faper Terror",
+        "url": "https://open.spotify.com/album/7GkZmrWiSAdDZvYwnF6SqV"
+      },
+      "artists": [
+        {
+          "name": "El Mat\u00f3 a un Polic\u00eda Motorizado",
+          "url": "https://open.spotify.com/artist/5rLsN2LxYaEPLa1N7I2mPB"
+        }
+      ],
+      "duration_ms": 205719,
+      "name": "Moderato",
+      "url": "https://open.spotify.com/track/4TuogJEoG4SONLuWfh58Xu"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -915,22 +915,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Una sensaci\u00f3n",
-        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
       },
       "artists": [
         {
-          "name": "Pignoise",
-          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
-        },
-        {
-          "name": "Pole.",
-          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 197169,
-      "name": "Una sensaci\u00f3n",
-      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
+      "duration_ms": 179872,
+      "name": "TRAS",
+      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -951,18 +947,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+        "name": "Una sensaci\u00f3n",
+        "url": "https://open.spotify.com/album/0znxwDMFXNgcBtqBABfryR"
       },
       "artists": [
         {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+          "name": "Pignoise",
+          "url": "https://open.spotify.com/artist/21ttsUKZ3y2Hm6nduyvbAw"
+        },
+        {
+          "name": "Pole.",
+          "url": "https://open.spotify.com/artist/7D62OQfwvslnxJn9DkZm2F"
         }
       ],
-      "duration_ms": 179872,
-      "name": "TRAS",
-      "url": "https://open.spotify.com/track/7AnsmqpKKsxrLSp4GiXDu7"
+      "duration_ms": 197169,
+      "name": "Una sensaci\u00f3n",
+      "url": "https://open.spotify.com/track/1QzFFFzey3qgQlMxXyrOxj"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "No Me Odio Tanto",
-        "url": "https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB"
-      },
-      "artists": [
-        {
-          "name": "Hens",
-          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
-        }
-      ],
-      "duration_ms": 178251,
-      "name": "Me da igual",
-      "url": "https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Diamante Roto",
         "url": "https://open.spotify.com/album/4Mejkj4cxwFc7h7pC9gqd3"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 181766,
       "name": "Diamante Roto",
       "url": "https://open.spotify.com/track/6mbN4jhQvgyDYL2bK6tQKx"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "No Me Odio Tanto",
+        "url": "https://open.spotify.com/album/59HyW3yFk1tQsRJYK85BuB"
+      },
+      "artists": [
+        {
+          "name": "Hens",
+          "url": "https://open.spotify.com/artist/3iY9PS7LxPnCVcCP7BjJOK"
+        }
+      ],
+      "duration_ms": 178251,
+      "name": "Me da igual",
+      "url": "https://open.spotify.com/track/1MB8FjCsHDfLn3EjPO3ehp"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Tratar\u00e9",
+        "url": "https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI"
+      },
+      "artists": [
+        {
+          "name": "La Texana",
+          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
+        }
+      ],
+      "duration_ms": 247871,
+      "name": "Tratar\u00e9",
+      "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Cansado de estar triste",
         "url": "https://open.spotify.com/album/65JzMj5NQD539KQ0FzGBU2"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 175867,
       "name": "Cansado de estar triste",
       "url": "https://open.spotify.com/track/0KhvJklV4bqAuXwFLEEX3x"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Tratar\u00e9",
-        "url": "https://open.spotify.com/album/2Wmq4uZPKAUNFgi25xofCI"
-      },
-      "artists": [
-        {
-          "name": "La Texana",
-          "url": "https://open.spotify.com/artist/7KXPjNDl2wveAmMIEZHQhB"
-        }
-      ],
-      "duration_ms": 247871,
-      "name": "Tratar\u00e9",
-      "url": "https://open.spotify.com/track/6WJoIAAWCFam54pzy7tmSZ"
     },
     {
       "added_at": "2024-04-12 04:00:00",

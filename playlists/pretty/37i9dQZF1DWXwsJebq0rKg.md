@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 
 > La favorita de dios, and she knows 🌼
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,804 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,835 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwsJebq0rKg.md) - [plain]
 | 34 | [Compartir](https://open.spotify.com/track/50Jd7tX7dMu79Oknn7sXSW) | [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [Mientras Tú Dormías](https://open.spotify.com/album/6O6vqLgrTwWZqTCCoJVjWm) | 4:17 |
 | 35 | [Someone To Spend Time With](https://open.spotify.com/track/6SE4JAo7T8C7XkFka5bbga) | [Los Retros](https://open.spotify.com/artist/0qraFJK6boYSp4ZMMX4PzG) | [Someone To Spend Time With](https://open.spotify.com/album/0DyyOMpwfB5KS6OFNiUV1m) | 2:53 |
 | 36 | [Cariño](https://open.spotify.com/track/16gJmoOqRt2lKmlXtDpWgH) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Superclean, Vol\. II](https://open.spotify.com/album/1Iu5sceGmML4CeQ2f5Q6aO) | 4:18 |
-| 37 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
-| 38 | [Here](https://open.spotify.com/track/5zUQZjVB6bfewBXWqsP9PY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:19 |
+| 37 | [Here](https://open.spotify.com/track/5zUQZjVB6bfewBXWqsP9PY) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [Know\-It\-All](https://open.spotify.com/album/7HnbhIDKXIBhMR4EPGuMgu) | 3:19 |
+| 38 | [Sure Thing \- Sped Up](https://open.spotify.com/track/559SdaPI7mqy9IQiscuaMj) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK) | [Sure Thing \(Sped Up\)](https://open.spotify.com/album/0IrjdFRneYtHj0CwmAphDT) | 2:30 |
 | 39 | [Ojos Noche](https://open.spotify.com/track/6ltxt8idwnKPqZ5wmTEkpV) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [Eres Diamante](https://open.spotify.com/album/6phS5YYVMKIpCKeymOdL7v) | 4:00 |
 | 40 | [Sex, Drugs, Etc\. \- Sped Up Version](https://open.spotify.com/track/6SWVr6T3yQS6gZ9gQHrr2b) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Sex, Drugs, Etc\. \(Sped Up Version\)](https://open.spotify.com/album/4NyrvOITu55ZfyN2MzQ2mb) | 2:56 |
 | 41 | [Video Games](https://open.spotify.com/track/24jvD83UgLmrdGjhWTFslY) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die \- The Paradise Edition](https://open.spotify.com/album/5PW8nAtvf2HV8RYZFd4IrX) | 4:41 |

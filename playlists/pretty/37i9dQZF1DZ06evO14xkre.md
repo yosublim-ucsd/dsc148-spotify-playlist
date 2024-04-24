@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 
 > This is Kali Uchis\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 220,984 likes - 49 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 221,186 likes - 49 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 29 | [Me Pongo Loca](https://open.spotify.com/track/5mVkTPlTPxlQOn7kEvuM3j) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [ORQUÍDEAS](https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo) | 2:57 |
 | 30 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 |
 | 31 | [quiero sentirme bien](https://open.spotify.com/track/1xP2jdihnPfoqPNVHHhKnm) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 3:42 |
-| 32 | [angel](https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:23 |
-| 33 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
+| 32 | [ME TENGO QUE IR](https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [MAÑANA SERÁ BONITO \(BICHOTA SEASON\)](https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u) | 4:36 |
+| 33 | [angel](https://open.spotify.com/track/5exEU6LbxN4T4sY1nV5NfV) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:23 |
 | 34 | [Tyrant \(feat\. Jorja Smith\)](https://open.spotify.com/track/4FZOSDwALdWxcGcRbwXWJ8) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:24 |
 | 35 | [la luna enamorada](https://open.spotify.com/track/2nDLZMuPMvHzNtUY2e7nV3) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Sin Miedo \(del Amor y Otros Demonios\) ∞](https://open.spotify.com/album/00wSTrFxoSzA7eeS1UxHgd) | 1:50 |
 | 36 | [NO HAY LEY](https://open.spotify.com/track/5enNYN3hDG4Dsey9WsF6TJ) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [NO HAY LEY](https://open.spotify.com/album/58bXMbR7x7k6ubKP7CyZpQ) | 2:37 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO14xkre.md) - [plain]
 | 48 | [Speed](https://open.spotify.com/track/0JmO3EBtl9qhnLkzr4FiP0) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Por Vida](https://open.spotify.com/album/6f5gAJpM85TE6aQ81h46T5) | 4:15 |
 | 49 | [i want war \(BUT I NEED PEACE\)](https://open.spotify.com/track/5Dx8iEsMuNrf7aF9TMV0Xe) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [TO FEEL ALIVE EP](https://open.spotify.com/album/2qn5Z50z9x2qAIyWV5lt9E) | 2:39 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDgxODIzOTQwMjZiZmU2ZmE0Y2Y4M2I1M2Q1MWEzNWY5`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGRkMDBkZjMxOWM0ZTcxOGFhNjlmNjkyODZhYjlhZmJi`

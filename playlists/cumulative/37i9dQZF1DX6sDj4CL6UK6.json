@@ -808,7 +808,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 175444,
       "name": "Close To You",
       "url": "https://open.spotify.com/track/5jOWVLjOa9vWUaTU8aVJuN"
@@ -3450,6 +3450,44 @@
       "duration_ms": 219142,
       "name": "No Ordinary",
       "url": "https://open.spotify.com/track/3ACxPaQSNKz4WG2V79hOjT"
+    },
+    {
+      "album": {
+        "name": "No Vices",
+        "url": "https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq"
+      },
+      "artists": [
+        {
+          "name": "Jaimin",
+          "url": "https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv"
+        },
+        {
+          "name": "Kadambari Zokarkar",
+          "url": "https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF"
+        },
+        {
+          "name": "Pradyumna Singh Manot",
+          "url": "https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC"
+        },
+        {
+          "name": "Charles Parker Mertens",
+          "url": "https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0"
+        },
+        {
+          "name": "Anchit Sengupta",
+          "url": "https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i"
+        },
+        {
+          "name": "Arjun Chakraborty",
+          "url": "https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264191,
+      "name": "No Vices",
+      "url": "https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw"
     },
     {
       "album": {

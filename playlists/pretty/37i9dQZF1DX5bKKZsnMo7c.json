@@ -1,12 +1,12 @@
 {
   "description": "Feeling dramatic? All eyes on you. Cover: Issac Dunbar",
-  "num_followers": 392193,
+  "num_followers": 392618,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMjI4OTY2MCwwMDAwMDAwMDg5YmQyMzVmYzE2MzhhMzI5OTZmNWU1ZTFhM2FhOGRh",
+  "snapshot_id": "MTcxMzkxODM1NSwwMDAwMDAwMGEwYmIyNzM2ODFiZDYxN2NiMGEzYjc3ZjIyZmZiNWJj",
   "tracks": [
     {
       "added_at": "2024-03-29 04:01:00",
@@ -137,6 +137,62 @@
       "url": "https://open.spotify.com/track/124MUbhjtneYWTOaVvkLJx"
     },
     {
+      "added_at": "2024-04-24 00:23:07",
+      "album": {
+        "name": "Spirit Phone",
+        "url": "https://open.spotify.com/album/4ocal2JegUDVQdP6KN1roI"
+      },
+      "artists": [
+        {
+          "name": "Lemon Demon",
+          "url": "https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW"
+        }
+      ],
+      "duration_ms": 262675,
+      "name": "Cabinet Man",
+      "url": "https://open.spotify.com/track/0lrtYwuy37bJzsO2LHz2kj"
+    },
+    {
+      "added_at": "2024-04-24 00:25:55",
+      "album": {
+        "name": "Heathers: The Musical (World Premiere Cast Recording)",
+        "url": "https://open.spotify.com/album/6EIxlDI9fMtooJ1H3toRFO"
+      },
+      "artists": [
+        {
+          "name": "Jessica Keenan Wynn",
+          "url": "https://open.spotify.com/artist/5U2zidY0OdTB6P5axinwOZ"
+        },
+        {
+          "name": "Alice Lee",
+          "url": "https://open.spotify.com/artist/5pESuWfJEKxJdEEhZKFDC5"
+        },
+        {
+          "name": "Elle McLemore",
+          "url": "https://open.spotify.com/artist/6Mbytr4DD854L4vp4J1LEj"
+        }
+      ],
+      "duration_ms": 172826,
+      "name": "Candy Store",
+      "url": "https://open.spotify.com/track/13Soih2NRLeDx8Unbr22mx"
+    },
+    {
+      "added_at": "2024-03-22 04:00:00",
+      "album": {
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
+      },
+      "artists": [
+        {
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+        }
+      ],
+      "duration_ms": 179160,
+      "name": "Army Dreamers - 2018 Remaster",
+      "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
+    },
+    {
       "added_at": "2024-03-22 04:00:00",
       "album": {
         "name": "Be the Cowboy",
@@ -167,6 +223,22 @@
       "duration_ms": 193384,
       "name": "Careful What You Wish For (the doctor said to)",
       "url": "https://open.spotify.com/track/1Tob6YkutQ6jjWKzLO4gkr"
+    },
+    {
+      "added_at": "2024-04-24 00:23:07",
+      "album": {
+        "name": "lucy~",
+        "url": "https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq"
+      },
+      "artists": [
+        {
+          "name": "Corbon Amodio",
+          "url": "https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ"
+        }
+      ],
+      "duration_ms": 118000,
+      "name": "lucy~",
+      "url": "https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -231,22 +303,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/7uNjeNs5AmDqZHzIbyPkZH"
-      },
-      "artists": [
-        {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
-        }
-      ],
-      "duration_ms": 179160,
-      "name": "Army Dreamers - 2018 Remaster",
-      "url": "https://open.spotify.com/track/5QYUNHT2dQwoNHorXznygN"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Better People To Leave On Read",
         "url": "https://open.spotify.com/album/5jHDAAIvcOrvVKaq8CsU9A"
       },
@@ -263,22 +319,6 @@
     {
       "added_at": "2024-03-22 04:00:00",
       "album": {
-        "name": "Backseat Girl",
-        "url": "https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9"
-      },
-      "artists": [
-        {
-          "name": "Isaac Dunbar",
-          "url": "https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816"
-        }
-      ],
-      "duration_ms": 143133,
-      "name": "Backseat Girl",
-      "url": "https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
         "name": "Dear Insanity...",
         "url": "https://open.spotify.com/album/0tOtw8pNMRmDa57nZ6GZ9Q"
       },
@@ -291,22 +331,6 @@
       "duration_ms": 204880,
       "name": "Don't Go Insane",
       "url": "https://open.spotify.com/track/5LWWAw887ODAUvR2LR1kDg"
-    },
-    {
-      "added_at": "2024-04-05 04:01:00",
-      "album": {
-        "name": "Gladiators",
-        "url": "https://open.spotify.com/album/5AahV6122wJai6DmlVxHaM"
-      },
-      "artists": [
-        {
-          "name": "J. Maya",
-          "url": "https://open.spotify.com/artist/6uFYqDeLIwfURuF1yxVqJU"
-        }
-      ],
-      "duration_ms": 217894,
-      "name": "Gladiators",
-      "url": "https://open.spotify.com/track/6gW8KYLy55ZnszeO2TUIpu"
     },
     {
       "added_at": "2024-03-22 04:00:00",
@@ -683,22 +707,6 @@
       "duration_ms": 135693,
       "name": "Christmas Kids",
       "url": "https://open.spotify.com/track/40gk32E7YaTFoQwDIWv2SY"
-    },
-    {
-      "added_at": "2024-03-22 04:00:00",
-      "album": {
-        "name": "mad's world",
-        "url": "https://open.spotify.com/album/0tR2hMv1kGNWZpqbk7a3D5"
-      },
-      "artists": [
-        {
-          "name": "Mad Tsai",
-          "url": "https://open.spotify.com/artist/5C2iFRY2UldL2hv9THw4aB"
-        }
-      ],
-      "duration_ms": 194545,
-      "name": "mad's world",
-      "url": "https://open.spotify.com/track/1MZHbJsMBbq5P3Mq4xgu8G"
     },
     {
       "added_at": "2024-03-22 04:00:00",

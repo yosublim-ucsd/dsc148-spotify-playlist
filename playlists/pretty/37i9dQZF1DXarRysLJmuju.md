@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXarRysLJmuju.md) - [plain]
 
 > The latest pop hits in one playlist\. Cover: Chappell Roan
 
-[Spotify](https://open.spotify.com/user/spotify) - 500,403 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 500,148 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

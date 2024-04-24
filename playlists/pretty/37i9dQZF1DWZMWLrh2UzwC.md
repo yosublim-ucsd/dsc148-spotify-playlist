@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > The best newly released songs of the week\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,044 likes - 88 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,962 likes - 88 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 | 10 | [From The Jump \(Duet Version\)](https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM), [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [From The Jump \(Duet Version\)](https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl) | 3:51 |
 | 11 | [butterfly](https://open.spotify.com/track/2MA293TkgkhpCXjF9B5b2h) | [yedira](https://open.spotify.com/artist/2NqUNNVaealnNxAUcSX9Xq), [Shoi](https://open.spotify.com/artist/4K30q4KklfsA9oHxwkXa4x) | [butterfly](https://open.spotify.com/album/1amQciKTNw1gSAEWzBlkbJ) | 2:31 |
 | 12 | [同類](https://open.spotify.com/track/43O8WiO1z0kYnOQ4Oj2RR1) | [Uriah See](https://open.spotify.com/artist/5G22Efave7oHLo9NG4uofT) | [同類](https://open.spotify.com/album/61p5pG0sWJBvj6q8q02OLi) | 4:53 |
-| 13 | [What it feel like?](https://open.spotify.com/track/3mOpQK7vZIvhLxpVpv03pn) | [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz), [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P), [Max He](https://open.spotify.com/artist/7eVdceTmA6EaGW3O5ZoYME), [Mirelle the Gemini](https://open.spotify.com/artist/1Zdc0LEwSP9vAxfjur6Nx6) | [What it feel like?](https://open.spotify.com/album/6WZkVTtjq9F5n1glK7p17C) | 2:59 |
+| 13 | [What it feel like?](https://open.spotify.com/track/3mOpQK7vZIvhLxpVpv03pn) | [Sol ChYld](https://open.spotify.com/artist/43NRWiAqxHBNVOUqmPFHMz), [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [What it feel like?](https://open.spotify.com/album/6WZkVTtjq9F5n1glK7p17C) | 2:59 |
 | 14 | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/track/4QfikoJtCEiOj7G5R9m3sP) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Zak Abel](https://open.spotify.com/artist/6Gk5hoM7eW8NSCYhICMDHw), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [For Life \(feat\. Nile Rodgers\)](https://open.spotify.com/album/2Cqf3izEp75CqTKgul5Mi1) | 2:55 |
 | 15 | [Animal](https://open.spotify.com/track/2ivDc5gzHTuDJKQaTgfsXo) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Animal \(with Jason Derulo\)](https://open.spotify.com/album/5FOUiGyszC4bwhccbSOXhU) | 2:20 |
 | 16 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 1693,
+  "2024-04-24": 1695,
   "date_first_scraped": "2022-05-26",
   "description": "This is Rev. Gary Davis. The essential tracks, all in one playlist.",
   "name": "This Is Rev. Gary Davis",
@@ -503,7 +503,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 137626,
       "name": "Coco Blues",
       "url": "https://open.spotify.com/track/0lBwR0hV88ZIw4iCzagqJX"
@@ -575,7 +575,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 182047,
       "name": "Cross And Evil Woman Blues",
       "url": "https://open.spotify.com/track/2LSQbjttPH8GfMqm6IniQ7"
@@ -1025,7 +1025,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 175760,
       "name": "Goin' To Sit Down On The Banks Of The River",
       "url": "https://open.spotify.com/track/081r6Uze95Mx8JkvH8c4m5"
@@ -1061,7 +1061,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 243440,
       "name": "Great Change Since I Been Born",
       "url": "https://open.spotify.com/track/418r3jQNCW6WcdtgdUiDM7"
@@ -1320,6 +1320,24 @@
     },
     {
       "album": {
+        "name": "Demons & Angels: The Ultimate Collection, Pt. 2",
+        "url": "https://open.spotify.com/album/6HcG8ChpDekMWRldIsJQm3"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193840,
+      "name": "Honey Get Your Towel Wet",
+      "url": "https://open.spotify.com/track/6lWV8MYNrQDRF93I3j28pd"
+    },
+    {
+      "album": {
         "name": "Demons & Angels - the Music of Rev. Gary Davis",
         "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
       },
@@ -1457,7 +1475,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 215066,
       "name": "I Am The Light Of This World",
       "url": "https://open.spotify.com/track/2nIHJvqg8mQzUviTZfFcoQ"
@@ -2357,7 +2375,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 189906,
       "name": "Let Us Get Together Right Down Here",
       "url": "https://open.spotify.com/track/5cicntULcN9AtVoCu1fT4n"
@@ -2537,7 +2555,7 @@
       ],
       "date_added": "2022-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2022-11-15",
+      "date_removed": null,
       "duration_ms": 190786,
       "name": "Lord Lord",
       "url": "https://open.spotify.com/track/34WKCQr7SUqUBKPG5ltpbl"
@@ -2591,7 +2609,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 210466,
       "name": "Lord, I Feel Just Like Goin' On",
       "url": "https://open.spotify.com/track/3eaZpjNLBMyX8mcT0vpK3D"
@@ -2663,7 +2681,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 189653,
       "name": "Lord, Stand By Me",
       "url": "https://open.spotify.com/track/43YFUTTItto66K15U3PdIi"
@@ -3383,7 +3401,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 177533,
       "name": "Pure Religion",
       "url": "https://open.spotify.com/track/6xTWLIflbQGvTrYEDG4bMs"
@@ -4553,7 +4571,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 227066,
       "name": "Tryin' To Get Home",
       "url": "https://open.spotify.com/track/0wBrXIcKnvLfRuiWWNyDH2"
@@ -4643,7 +4661,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 171293,
       "name": "Two Step Candyman",
       "url": "https://open.spotify.com/track/2TdngC43Kzf0Z2toVu3adP"
@@ -5007,6 +5025,24 @@
       "duration_ms": 287280,
       "name": "Working on the Building",
       "url": "https://open.spotify.com/track/7GxQg4Kf8R9YDKDimk6kVE"
+    },
+    {
+      "album": {
+        "name": "Live at Gerde's Folk City",
+        "url": "https://open.spotify.com/album/77yewiXMWhT8uzrV0LiQKC"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316373,
+      "name": "Wouldn't Say Quit",
+      "url": "https://open.spotify.com/track/5yMBRKy5hpMVh2JycKIMdi"
     },
     {
       "album": {

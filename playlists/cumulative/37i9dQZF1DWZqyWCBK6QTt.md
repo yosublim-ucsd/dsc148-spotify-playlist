@@ -4,7 +4,7 @@
 
 > The songs you love, in ways you’ve never heard before\. Cover: jxdn
 
-423 songs - 1 day 2 hr 8 min
+424 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,7 +101,7 @@
 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 | 2021-09-24 |  |
 | [Don't Let It Bring You Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6eLUwUJbXC9E94RuP5Qg4Y) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [Spotify Singles](https://open.spotify.com/album/1MYx7vFrwhV4aTwFFmJFeQ) | 2:50 | 2021-09-24 |  |
 | [Don't Let Me Down \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1RMwLHYjOOlf2EqiCwl6gI) | [Dirty Heads](https://open.spotify.com/artist/6GkJh85o22LfD2vgL9DP6f) | [Spotify Singles](https://open.spotify.com/album/2nj1jLhRLutogV9qdEZpx4) | 2:54 | 2022-03-24 | 2022-04-21 |
-| [Don't Look Back in Anger \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 5:04 | 2021-09-24 |  |
+| [Don't Look Back in Anger \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7HtrKGoFZybzudx2hPOwct) | [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Spotify Singles](https://open.spotify.com/album/7iDdb2gzMIVZEV0ZSlXu83) | 5:04 | 2021-09-24 | 2024-04-24 |
 | [Don't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/3yyWyHmynAWWCPASifJ7Ev) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/44fT03f2YZitnBCuUluCVj) | 3:09 | 2022-10-03 | 2024-04-19 |
 | [Don't Matter \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/4a00SVbdG6saNqRJlC4XKQ) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Spotify Singles](https://open.spotify.com/album/2Ivz1Ch7qB9yR3uLr8T1pj) | 3:09 | 2021-09-24 | 2022-10-13 |
 | [Don't Speak \- Recorded at Electric Lady Studios NYC](https://open.spotify.com/track/0gzMEfErGPaCFbQJdb2HQb) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Spotify Singles](https://open.spotify.com/album/0tUnCfqBLeZlivAkbxvbib) | 4:21 | 2021-09-24 |  |
@@ -156,7 +156,7 @@
 | [Hallelujah \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/33ZIaxsct3MDc0oSPxgY76) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [Spotify Singles](https://open.spotify.com/album/1Q7HOVDbx5pHCROjFc2NDK) | 5:46 | 2021-09-24 |  |
 | [Halo \- Spotify Singles](https://open.spotify.com/track/42RzrKAGLgCzRmUtYeQuRQ) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4) | [Spotify Singles](https://open.spotify.com/album/0Innco4HcewIE6ClCLB9kS) | 3:56 | 2023-03-08 | 2023-05-17 |
 | [Hands On The Wheel \(Feat\. Particle Kid\) \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/1c0PPeV09JNqhLsM4mC7Mx) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl), [Particle Kid](https://open.spotify.com/artist/5dwBB4lz6Gmuo8v7cgaFli) | [Spotify Singles](https://open.spotify.com/album/1WTJCdZuGWrQcLJdv2jeVu) | 4:17 | 2023-05-03 | 2023-06-09 |
-| [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-09-24 |  |
+| [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 | 2021-09-24 |  |
 | [Happier \- Recorded At Sound Stage Studios Nashville](https://open.spotify.com/track/57DVaIfWIKSx3zW9mcVFhc) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Spotify Singles](https://open.spotify.com/album/10hkWR17NEvncSn3w1sYPz) | 3:45 | 2021-09-24 |  |
 | [Harvest Moon \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/6gdCb962lq0Xdg7ypVLuLt) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Spotify Singles](https://open.spotify.com/album/3oTpxylhyTiGLaZ8IRjJQB) | 5:46 | 2021-09-24 |  |
 | [Havana \- Recorded at RAK Studios, London](https://open.spotify.com/track/6kG9AQkHgCaFUh4ckB0g2j) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Spotify Singles](https://open.spotify.com/album/2jVlmo3NT5VZaOCd353TFv) | 2:48 | 2022-03-24 | 2022-04-21 |
@@ -313,6 +313,7 @@
 | [September \- Recorded at The Tracking Room Nashville](https://open.spotify.com/track/5eGX87IiKsGuzS3iw4CfCX) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Spotify Singles](https://open.spotify.com/album/74utZeTCeaXy01BjOddyv8) | 3:07 | 2021-09-24 |  |
 | [Seven Spanish Angels \(Recorded at Luck Reunion\) \- Spotify Singles](https://open.spotify.com/track/4LRYmJbb3dzHi8Hp48i3KR) | [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Spotify Singles](https://open.spotify.com/album/4IwuJ8IsQbZhLBZdRsUO2D) | 4:10 | 2023-05-03 |  |
 | [Sexual \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/7zqLBFKCBkk5IfbgKgH4VZ) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Spotify Singles](https://open.spotify.com/album/3RH0hpUJfWcCNEjuypAtGC) | 3:09 | 2021-09-24 |  |
+| [Shadow \- Spotify Singles](https://open.spotify.com/track/6gGUDB4bS7FhhtGVmjADGr) | [Trixie Mattel](https://open.spotify.com/artist/33hAj1SghVYxDAxZxNDcyc) | [Spotify Singles](https://open.spotify.com/album/1wbnnz5PKjCVkUZBBDHetm) | 3:26 | 2024-04-24 |  |
 | [Shape of You \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/5RMmI12HWgdBYtJHE1wEgY) | [Yo\-Yo Ma](https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk) | [Spotify Singles](https://open.spotify.com/album/4QJIFDBNjpQ8ozKMym1nBT) | 4:07 | 2021-09-24 |  |
 | [Shot For Me \- Spotify Singles](https://open.spotify.com/track/4rVpFdm9XDYC27qxJvjLRS) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [Spotify Singles](https://open.spotify.com/album/5NAZBw4kl4CLl8N14lGxQy) | 1:57 | 2021-09-24 |  |
 | [Sign Of The Times \- Spotify Studios NYC](https://open.spotify.com/track/0830WmzxBqOp9C93j8m9sN) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Spotify Singles](https://open.spotify.com/album/10Z7dmb3iAiwk16I2FibDT) | 5:19 | 2021-09-24 |  |

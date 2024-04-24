@@ -1,6 +1,6 @@
 {
   "description": "Flow sudamericano con YSY A & CLUB HATS.",
-  "num_followers": 332670,
+  "num_followers": 332483,
   "original_name": "Flow al Sur",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
+        "name": "Que Hay Amor",
+        "url": "https://open.spotify.com/album/0X2LGV7tO8XoIca038V56u"
+      },
+      "artists": [
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "duration_ms": 169011,
+      "name": "Que Hay Amor",
+      "url": "https://open.spotify.com/track/3YkpOplxxP5U32K6Eq4irv"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
         "name": "PRIMER AVISO",
         "url": "https://open.spotify.com/album/5sB0kl214YdtiZau62Aepo"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 182891,
       "name": "PRIMER AVISO",
       "url": "https://open.spotify.com/track/6EWPFLaVPVmuhmA7J3ASP8"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
-        "name": "Que Hay Amor",
-        "url": "https://open.spotify.com/album/0X2LGV7tO8XoIca038V56u"
-      },
-      "artists": [
-        {
-          "name": "Cris Mj",
-          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
-        }
-      ],
-      "duration_ms": 169011,
-      "name": "Que Hay Amor",
-      "url": "https://open.spotify.com/track/3YkpOplxxP5U32K6Eq4irv"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -311,50 +311,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "El De La Nueva Baby",
-        "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Mateo on the Beatz",
-          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "\u00bfCu\u00e1l Es Su Nombre?",
-      "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
-        "name": "X ESO BB",
-        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
-      },
-      "artists": [
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 193835,
-      "name": "X ESO BB",
-      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "Enrolar (Fantastic Four Remix)",
         "url": "https://open.spotify.com/album/0BDsr0tgX3IivsPIW69kTO"
       },
@@ -419,6 +375,50 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
+        "name": "El De La Nueva Baby",
+        "url": "https://open.spotify.com/album/3bI6icwZp7moS4MgaKRkuj"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Mateo on the Beatz",
+          "url": "https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg"
+        }
+      ],
+      "duration_ms": 183400,
+      "name": "\u00bfCu\u00e1l Es Su Nombre?",
+      "url": "https://open.spotify.com/track/5S8zFPQ3KIlF2y9Kt8mRhg"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "X ESO BB",
+        "url": "https://open.spotify.com/album/6ZHA8suZlg8RaZSRpdirfu"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 193835,
+      "name": "X ESO BB",
+      "url": "https://open.spotify.com/track/3nr6dW6yGOd6UX3KOpkbMZ"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
         "name": "TU Y YO",
         "url": "https://open.spotify.com/album/6fP9gXEDhdBaWz6E08kqRr"
       },
@@ -463,26 +463,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "Le Gustan lo' Flaites",
-        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
-      },
-      "artists": [
-        {
-          "name": "El Joan",
-          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
-        },
-        {
-          "name": "Celso El Potente",
-          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
-        }
-      ],
-      "duration_ms": 183328,
-      "name": "Le Gustan lo' Flaites",
-      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "MA DIAMANTE",
         "url": "https://open.spotify.com/album/0OTV5gYngPkIeYAcFs9Ytw"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 148602,
       "name": "MA DIAMANTE",
       "url": "https://open.spotify.com/track/3seBr5Cm5NSEO8CKKR8sYw"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "Le Gustan lo' Flaites",
+        "url": "https://open.spotify.com/album/7F0QdDugWW1NkQBtQXhFkx"
+      },
+      "artists": [
+        {
+          "name": "El Joan",
+          "url": "https://open.spotify.com/artist/4d7tFHxzWvzfsgCqPAEOSQ"
+        },
+        {
+          "name": "Celso El Potente",
+          "url": "https://open.spotify.com/artist/7psSmcUfVtqIeuWKKd8Md2"
+        }
+      ],
+      "duration_ms": 183328,
+      "name": "Le Gustan lo' Flaites",
+      "url": "https://open.spotify.com/track/1smRP4zRit7A6ZDQXkFJWC"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -579,30 +579,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "EL AFTER DEL AFTER",
-        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        },
-        {
-          "name": "ONIRIA",
-          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
-        }
-      ],
-      "duration_ms": 137559,
-      "name": "24/7 6.5",
-      "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "ULTRA SOLO REMIX",
         "url": "https://open.spotify.com/album/7JsxzI8o2TI71jHBOIsgqm"
       },
@@ -631,6 +607,30 @@
       "duration_ms": 322347,
       "name": "ULTRA SOLO REMIX",
       "url": "https://open.spotify.com/track/6wtZPYBIXUvCpXwVjMCJBf"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "EL AFTER DEL AFTER",
+        "url": "https://open.spotify.com/album/4XDH5D7YsE7B8xuhIBDyht"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "ONIRIA",
+          "url": "https://open.spotify.com/artist/6mkRgafSHF30Dr2wEch4YU"
+        }
+      ],
+      "duration_ms": 137559,
+      "name": "24/7 6.5",
+      "url": "https://open.spotify.com/track/2wjzgkfw4MqYOtPAnREHoL"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -891,26 +891,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "ME GUSTA",
-        "url": "https://open.spotify.com/album/3HNqyB10NeGik7ZP4QSj4G"
-      },
-      "artists": [
-        {
-          "name": "FloyyMenor",
-          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
-        },
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        }
-      ],
-      "duration_ms": 135352,
-      "name": "ME GUSTA",
-      "url": "https://open.spotify.com/track/60sKzWUNVvZ0QeX5tcgnlp"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "TU DUO FAVORITO",
         "url": "https://open.spotify.com/album/4n6BNKtpmZOYUyfecMzzpZ"
       },
@@ -931,6 +911,26 @@
       "duration_ms": 204003,
       "name": "TUUUYO",
       "url": "https://open.spotify.com/track/57WroSoheS9bWCtALlXA1t"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "ME GUSTA",
+        "url": "https://open.spotify.com/album/3HNqyB10NeGik7ZP4QSj4G"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        }
+      ],
+      "duration_ms": 135352,
+      "name": "ME GUSTA",
+      "url": "https://open.spotify.com/track/60sKzWUNVvZ0QeX5tcgnlp"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -991,6 +991,30 @@
       "duration_ms": 221303,
       "name": "Duki: Bzrp Music Sessions, Vol. 50",
       "url": "https://open.spotify.com/track/7MkylDYvKTSuWgrsBhHlsG"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "YSYSMO",
+        "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
+      },
+      "artists": [
+        {
+          "name": "YSY A",
+          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
+        },
+        {
+          "name": "SPONSOR DIOS",
+          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
+        },
+        {
+          "name": "Evlay",
+          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
+        }
+      ],
+      "duration_ms": 134581,
+      "name": "C\u00d3MO CHILLA ELLA",
+      "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -1079,30 +1103,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "YSYSMO",
-        "url": "https://open.spotify.com/album/2Vo0I6ocNBz16QklB1zVc3"
-      },
-      "artists": [
-        {
-          "name": "YSY A",
-          "url": "https://open.spotify.com/artist/2qWK8K2Jfh67UqtwY8tCW6"
-        },
-        {
-          "name": "SPONSOR DIOS",
-          "url": "https://open.spotify.com/artist/5PYNYuJvINkkQZV6ncScjf"
-        },
-        {
-          "name": "Evlay",
-          "url": "https://open.spotify.com/artist/2JsDK87cAxuUlz4L4izU7A"
-        }
-      ],
-      "duration_ms": 134581,
-      "name": "C\u00d3MO CHILLA ELLA",
-      "url": "https://open.spotify.com/track/0W3TCDzYM7xFrZSaXnQvs4"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "AUTOM\u00c1TICO",
         "url": "https://open.spotify.com/album/5i8WdrKnzvMbujuJhkcFQn"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "CALL ME MAYBE",
-        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        }
-      ],
-      "duration_ms": 222401,
-      "name": "CALL ME MAYBE",
-      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "Portales",
         "url": "https://open.spotify.com/album/5KKcchRuyjfuLkecyRJcWx"
       },
@@ -1263,22 +1247,18 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "Tu Turrito",
-        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+        "name": "CALL ME MAYBE",
+        "url": "https://open.spotify.com/album/2bduhp7nOejAqYseC3VZLi"
       },
       "artists": [
         {
-          "name": "Rei",
-          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
-        },
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
         }
       ],
-      "duration_ms": 164701,
-      "name": "Tu Turrito",
-      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+      "duration_ms": 222401,
+      "name": "CALL ME MAYBE",
+      "url": "https://open.spotify.com/track/7sQkCW2vO8Tbx57oQwAIKk"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -1303,6 +1283,26 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
+        "name": "Tu Turrito",
+        "url": "https://open.spotify.com/album/6FKqbKsNvN2hT8vXdT0N02"
+      },
+      "artists": [
+        {
+          "name": "Rei",
+          "url": "https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K"
+        },
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        }
+      ],
+      "duration_ms": 164701,
+      "name": "Tu Turrito",
+      "url": "https://open.spotify.com/track/45dlaEXrXW47TVbrQ4gK7E"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
         "name": "SHERATON",
         "url": "https://open.spotify.com/album/0kfpaS0fOMNNohtRbY7ZxI"
       },
@@ -1315,50 +1315,6 @@
       "duration_ms": 142040,
       "name": "SHERATON",
       "url": "https://open.spotify.com/track/6sOSd3PYqy3UnSXF5r0MvN"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
-        "name": "Fashion Girl (Remix)",
-        "url": "https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq"
-      },
-      "artists": [
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        },
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 191020,
-      "name": "Fashion Girl - Remix",
-      "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
-        "name": "Si Quieren Frontear",
-        "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
-      },
-      "artists": [
-        {
-          "name": "Duki",
-          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
-        },
-        {
-          "name": "De La Ghetto",
-          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 200337,
-      "name": "Si Quieren Frontear",
-      "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -1391,6 +1347,30 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
+        "name": "Si Quieren Frontear",
+        "url": "https://open.spotify.com/album/4YyrXtsGoYbaoiQg0FZaHy"
+      },
+      "artists": [
+        {
+          "name": "Duki",
+          "url": "https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg"
+        },
+        {
+          "name": "De La Ghetto",
+          "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 200337,
+      "name": "Si Quieren Frontear",
+      "url": "https://open.spotify.com/track/6bQ5823aHmFVKLZW8E7rRo"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
         "name": "OJAL\u00c1",
         "url": "https://open.spotify.com/album/6LmddIPzdpQYYc13kGzrvS"
       },
@@ -1403,6 +1383,26 @@
       "duration_ms": 160482,
       "name": "OJAL\u00c1",
       "url": "https://open.spotify.com/track/1uGdRSOpObu3lp0jvrVREl"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "Fashion Girl (Remix)",
+        "url": "https://open.spotify.com/album/21sLFYA7VmVpCadRw7Z1sq"
+      },
+      "artists": [
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        },
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 191020,
+      "name": "Fashion Girl - Remix",
+      "url": "https://open.spotify.com/track/6ECqgyhDZcf6fqlJhSTRhP"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -1459,26 +1459,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "Toda Guapa",
-        "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
-      },
-      "artists": [
-        {
-          "name": "Lucky Brown",
-          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
-        },
-        {
-          "name": "Fran C",
-          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
-        }
-      ],
-      "duration_ms": 155275,
-      "name": "Toda Guapa",
-      "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "mi \u00faltimo peso",
         "url": "https://open.spotify.com/album/3lOt9QdR7bz1P0MLBtPTgT"
       },
@@ -1503,6 +1483,26 @@
       "duration_ms": 140767,
       "name": "mi \u00faltimo peso",
       "url": "https://open.spotify.com/track/41ulq0dim3Y5atEeTrCruU"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "Toda Guapa",
+        "url": "https://open.spotify.com/album/5jBPkUmcXBzPyff2y1Wzc2"
+      },
+      "artists": [
+        {
+          "name": "Lucky Brown",
+          "url": "https://open.spotify.com/artist/11HepfI1lj6KJHj651rZhM"
+        },
+        {
+          "name": "Fran C",
+          "url": "https://open.spotify.com/artist/5NenY2Jl9wwLRxf86go4Y8"
+        }
+      ],
+      "duration_ms": 155275,
+      "name": "Toda Guapa",
+      "url": "https://open.spotify.com/track/6XLOKUNpCZRkWAKfEDeArF"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -1683,26 +1683,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "arreglo floral",
-        "url": "https://open.spotify.com/album/0PHKtBh4te1tCWuTUPd6EZ"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        },
-        {
-          "name": "Kidd Voodoo",
-          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
-        }
-      ],
-      "duration_ms": 147168,
-      "name": "arreglo floral",
-      "url": "https://open.spotify.com/track/4Qm4cTIPYTPKL0VHcKy0tm"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "OCASO",
         "url": "https://open.spotify.com/album/4aGeeKBhCMXmnGerGbGGcI"
       },
@@ -1727,6 +1707,26 @@
       "duration_ms": 233273,
       "name": "OCASO",
       "url": "https://open.spotify.com/track/2KibbfI1tM4ofl4f3ojVBF"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "arreglo floral",
+        "url": "https://open.spotify.com/album/0PHKtBh4te1tCWuTUPd6EZ"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        },
+        {
+          "name": "Kidd Voodoo",
+          "url": "https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4"
+        }
+      ],
+      "duration_ms": 147168,
+      "name": "arreglo floral",
+      "url": "https://open.spotify.com/track/4Qm4cTIPYTPKL0VHcKy0tm"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -1863,6 +1863,22 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
+        "name": "Cheto Mal",
+        "url": "https://open.spotify.com/album/2oJxZbquPWkGZOlsRIIl2k"
+      },
+      "artists": [
+        {
+          "name": "Mesita",
+          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+        }
+      ],
+      "duration_ms": 122307,
+      "name": "Cheto Mal",
+      "url": "https://open.spotify.com/track/32299N6IyNvtw1O3eTmWbv"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
         "name": "PLANES DE MEDIANOCHE",
         "url": "https://open.spotify.com/album/5RWEssac5Dun4RvxolSjlX"
       },
@@ -1883,18 +1899,22 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "Cheto Mal",
-        "url": "https://open.spotify.com/album/2oJxZbquPWkGZOlsRIIl2k"
+        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
       },
       "artists": [
         {
-          "name": "Mesita",
-          "url": "https://open.spotify.com/artist/2IKdK6PbitvCiXt1t2bPU6"
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
         }
       ],
-      "duration_ms": 122307,
-      "name": "Cheto Mal",
-      "url": "https://open.spotify.com/track/32299N6IyNvtw1O3eTmWbv"
+      "duration_ms": 201507,
+      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
+      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -1947,26 +1967,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-        "url": "https://open.spotify.com/album/7fO4j6lmWPZAbAgi7ukz8c"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 201507,
-      "name": "Anuel AA: Bzrp Music Sessions, Vol. 46",
-      "url": "https://open.spotify.com/track/1mrGEef8GuaEnDdw8J5BQp"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "KE LA CASTIGUEN",
         "url": "https://open.spotify.com/album/2ECnJhv0Aq8MDClUNcLDsM"
       },
@@ -1983,26 +1983,6 @@
       "duration_ms": 153786,
       "name": "KE LA CASTIGUEN",
       "url": "https://open.spotify.com/track/2LgfnpXkudkVnv0k8NHCqa"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
-        "name": "Mu\u00f1eca",
-        "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
-      },
-      "artists": [
-        {
-          "name": "Marcianeke",
-          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
-        },
-        {
-          "name": "Jere Klein",
-          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
-        }
-      ],
-      "duration_ms": 182603,
-      "name": "Mu\u00f1eca",
-      "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -2051,6 +2031,26 @@
       "duration_ms": 483683,
       "name": "Te Extra\u00f1o a Lo Vio (feat. Balbi El Chamako, Bayron Fire, Bayriton, Tommy Boysen, Gringuitos Records, El Rey) - Remix",
       "url": "https://open.spotify.com/track/6YNzvCsLwAJ4xZjdK9qk3r"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "Mu\u00f1eca",
+        "url": "https://open.spotify.com/album/3cBboEvTyis7wuw6viGmaH"
+      },
+      "artists": [
+        {
+          "name": "Marcianeke",
+          "url": "https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy"
+        },
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        }
+      ],
+      "duration_ms": 182603,
+      "name": "Mu\u00f1eca",
+      "url": "https://open.spotify.com/track/5MxnvIBS4UMUpbZUKQsuNA"
     },
     {
       "added_at": "2024-04-19 03:00:00",
@@ -2115,30 +2115,6 @@
     {
       "added_at": "2024-04-19 03:00:00",
       "album": {
-        "name": "Trapicheo: EL DON",
-        "url": "https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        },
-        {
-          "name": "Aqua VS",
-          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
-        },
-        {
-          "name": "Luisa",
-          "url": "https://open.spotify.com/artist/3iOiMcmKYGm8kOxlBjTo0w"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "TUTALOKO",
-      "url": "https://open.spotify.com/track/7nV1he2SmrIFKMg5FMP82X"
-    },
-    {
-      "added_at": "2024-04-19 03:00:00",
-      "album": {
         "name": "Diamante en Bruto",
         "url": "https://open.spotify.com/album/15qXNgOYFYITRFMAcKY9Ib"
       },
@@ -2159,6 +2135,30 @@
       "duration_ms": 175265,
       "name": "Diamante en Bruto",
       "url": "https://open.spotify.com/track/74Qx3wwFjYvEYvfSsOnLWy"
+    },
+    {
+      "added_at": "2024-04-19 03:00:00",
+      "album": {
+        "name": "Trapicheo: EL DON",
+        "url": "https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        },
+        {
+          "name": "Aqua VS",
+          "url": "https://open.spotify.com/artist/0bcZsLQV8MCeU0ylWbw23p"
+        },
+        {
+          "name": "Luisa",
+          "url": "https://open.spotify.com/artist/3iOiMcmKYGm8kOxlBjTo0w"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "TUTALOKO",
+      "url": "https://open.spotify.com/track/7nV1he2SmrIFKMg5FMP82X"
     },
     {
       "added_at": "2024-04-19 03:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 
 > Listen to women at full volume from across the world\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,720 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 922,326 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 11 | [Gimme Love](https://open.spotify.com/track/5o4XJKRxUK6nXhFLAIS33A) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Gimme Love](https://open.spotify.com/album/4jLwuz6VaUKuIiS799cU2z) | 2:57 |
 | 12 | [Promise](https://open.spotify.com/track/08PdFBcXzpkn1cWNgmKqhn) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched](https://open.spotify.com/album/1rpCHilZQkw84A3Y9czvMO) | 3:54 |
 | 13 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 |
-| 14 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
-| 15 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 |
+| 14 | [Halley's Comet](https://open.spotify.com/track/5XsAal7ZcWg1I5T4NcRjkv) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Happier Than Ever](https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp) | 3:54 |
+| 15 | [Worth It.](https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [My 21st Century Blues](https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH) | 4:06 |
 | 16 | [Cool About It](https://open.spotify.com/track/5PJH1U5Iie893v48Fl9yaC) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [the record](https://open.spotify.com/album/0e9GjrztzBw8oMC6n2CDeI) | 3:00 |
 | 17 | [ZARI](https://open.spotify.com/track/4sDLQ5atDUHhbikD1UQ2mW) | [Marina Satti](https://open.spotify.com/artist/2W4apaxME2OLw8qqhZK7aJ) | [ZARI](https://open.spotify.com/album/1sQlfXEIFzHXutnKTGlWbz) | 3:00 |
 | 18 | [Moon Song](https://open.spotify.com/track/46RNrAkGsqWTDrv2ZPOAbx) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Punisher](https://open.spotify.com/album/6Pp6qGEywDdofgFC1oFbSH) | 4:37 |
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU8quswnFt3c.md) - [plain]
 | 22 | [AÚN TE QUIERO](https://open.spotify.com/track/1NI6GSGPQn0EYeW27V2n2n) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [AÚN TE QUIERO](https://open.spotify.com/album/6ElZodBAzNw2Tsh7eFrK9u) | 3:25 |
 | 23 | [Alamak Raya Lagi!](https://open.spotify.com/track/2VTLUKd4CbW14uKI973vl4) | [De Fam](https://open.spotify.com/artist/4m8URcWW3beNdxt4DnihgK) | [Alamak Raya Lagi!](https://open.spotify.com/album/2Rggi2m4YvzePLbKMJg74o) | 2:47 |
 | 24 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
-| 25 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
-| 26 | [SexeSexy](https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 3:52 |
+| 25 | [SexeSexy](https://open.spotify.com/track/2uuMValcORiLp44OIOIoL5) | [Mushkaa](https://open.spotify.com/artist/3jU5LKRsimuyZjA0lSkdPp), [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Bexnil](https://open.spotify.com/artist/1TYjm48WP4AXoXMModkcNg) | [SexySensible](https://open.spotify.com/album/1auK7xgZpNq9AinaGM3VW0) | 3:52 |
+| 26 | [don't matter](https://open.spotify.com/track/3DAEXv0dhydvWcT7wkXDfG) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD), [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR) | [don't matter](https://open.spotify.com/album/0pTBJMDMTj9Mu8JIXz1dnD) | 3:22 |
 | 27 | [The King](https://open.spotify.com/track/3qs1ozCx271UQqmzC7oNuj) | [Sarah Kinsley](https://open.spotify.com/artist/34A8vV1MCxGpA14KspqQuC) | [The King](https://open.spotify.com/album/27UVPGKePLLUlHX7xDQb7m) | 3:26 |
 | 28 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
 | 29 | [Sen ve Ben](https://open.spotify.com/track/6IAnOz8SQlG3uLdh2Ksr8I) | [Burcu Güneş](https://open.spotify.com/artist/7EJB9F3fv0x2ezht730D7F) | [Sen ve Ben](https://open.spotify.com/album/79Kjw10x70iB0lwaeFXMNl) | 2:36 |

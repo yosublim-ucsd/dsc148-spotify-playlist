@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 
 > The biggest hits from country artists around the globe\. Cover: Owen Riegling
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,116 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,372 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,10 +66,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7hnECllVaUq.md) - [plain]
 | 56 | [Rodeo Queen](https://open.spotify.com/track/7zLmOXHzhuYlDpez5bAWmm) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Rodeo Queen](https://open.spotify.com/album/16s1YAqpcHWpPurb7T2Wli) | 3:02 |
 | 57 | [Feathered Indians](https://open.spotify.com/track/2tgQaL85WoRfgEa4hFQgrE) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:44 |
 | 58 | [Sunny](https://open.spotify.com/track/0nVi3Xh7D2Qi0Z7vVIYvOe) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Sunny](https://open.spotify.com/album/4CgsIX4xvceiT9COkrXEt0) | 4:02 |
-| 59 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
+| 59 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 |
 | 60 | [Acres](https://open.spotify.com/track/3C4L7c5JSB0ONiYli4Hplb) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Beer and Fishin'](https://open.spotify.com/album/1EpFGwrI0vUVf7YPhUgZCe) | 3:52 |
 | 61 | [Rodeo](https://open.spotify.com/track/3VbgbyGNRSidv6WgO5QDsT) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67) | [Rodeo](https://open.spotify.com/album/4JqJTBJIO4q3jfvxZywHWI) | 3:12 |
-| 62 | [Tennessee Orange](https://open.spotify.com/track/6DLbBlGIOjjEj0dNN25zhZ) | [Megan Moroney](https://open.spotify.com/artist/5Ppie0uPnbnvGBYRwYmlt0) | [Lucky](https://open.spotify.com/album/5DFed53ADZwnPOYuqoZJHK) | 3:43 |
+| 62 | [Holy Smokes](https://open.spotify.com/track/1kMWJ16W3Yk3hyNmaM7jfQ) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Holy Smokes](https://open.spotify.com/album/389w7hzxpiOmpGEWFCNEoP) | 3:15 |
 | 63 | [Play It Again](https://open.spotify.com/track/03fT3OHB9KyMtGMt2zwqCT) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Crash My Party](https://open.spotify.com/album/5M8gr5RV2eR6UkztC69ogB) | 3:46 |
 | 64 | [In Case You Didn't Know](https://open.spotify.com/track/10M2Ex445zw585Ducldzkw) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Brett Young](https://open.spotify.com/album/6MTPPsqX8KnmDWmnQmbxJ5) | 3:44 |
 | 65 | [Religiously](https://open.spotify.com/track/0bILU0UiNDmA5Ff6whhb2R) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:58 |

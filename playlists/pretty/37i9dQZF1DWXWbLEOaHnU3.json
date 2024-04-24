@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 541413,
+  "num_followers": 541558,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Behind",
-        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
-      },
-      "artists": [
-        {
-          "name": "Durs",
-          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
-        },
-        {
-          "name": "Deep Kontakt",
-          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
-        }
-      ],
-      "duration_ms": 273375,
-      "name": "Behind",
-      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
-    },
-    {
-      "added_at": "2023-11-25 18:30:00",
-      "album": {
         "name": "Lose My Cool",
         "url": "https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv"
       },
@@ -1427,6 +1407,26 @@
       "duration_ms": 236978,
       "name": "Lose My Cool",
       "url": "https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz"
+    },
+    {
+      "added_at": "2023-11-25 18:30:00",
+      "album": {
+        "name": "Behind",
+        "url": "https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt"
+      },
+      "artists": [
+        {
+          "name": "Durs",
+          "url": "https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs"
+        },
+        {
+          "name": "Deep Kontakt",
+          "url": "https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna"
+        }
+      ],
+      "duration_ms": 273375,
+      "name": "Behind",
+      "url": "https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ"
     },
     {
       "added_at": "2023-11-25 18:30:00",
@@ -1551,18 +1551,26 @@
     {
       "added_at": "2023-11-25 18:30:00",
       "album": {
-        "name": "Feel Alive",
-        "url": "https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma"
+        "name": "The Hook",
+        "url": "https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q"
       },
       "artists": [
         {
-          "name": "Phazed",
-          "url": "https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb"
+          "name": "Reality Test",
+          "url": "https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8"
+        },
+        {
+          "name": "Gproject",
+          "url": "https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P"
+        },
+        {
+          "name": "HYBIT",
+          "url": "https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2"
         }
       ],
-      "duration_ms": 303820,
-      "name": "Feel Alive",
-      "url": "https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX"
+      "duration_ms": 285217,
+      "name": "The Hook",
+      "url": "https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr"
     }
   ],
   "unique_name": "Psytrance Supernova",

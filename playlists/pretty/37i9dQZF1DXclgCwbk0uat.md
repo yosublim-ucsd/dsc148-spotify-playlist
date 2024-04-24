@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 
 > ¡Escucha los éxitos de hoy! <br/>Foto: Cris Mj.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,963,017 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,961,092 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXclgCwbk0uat.md) - [plain]
 | 10 | [Gitana \(feat\. Bryartz\)](https://open.spotify.com/track/4mnpgUTLYMs3XFpqTWxVyA) | [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D), [Bryartz](https://open.spotify.com/artist/7kvnG7JhX0ycVMVb8SP8EL) | [Los Gangsters Tambien Lloran](https://open.spotify.com/album/1CCiPkCw8kCVIwXsNVQgJR) | 3:41 |
 | 11 | [Escarlata \- Remix](https://open.spotify.com/track/3A6idnsMX8VwWWzD7GTnBr) | [eleven1.1](https://open.spotify.com/artist/1yh29osKJYH6l9JlPFgpLY), [DrefQuila](https://open.spotify.com/artist/5pughe5rcsOq3GF0utMOs5), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Harry Nach](https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH), [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Escarlata \(Remix\)](https://open.spotify.com/album/47HEW3fj6xOEa3fuox0zS0) | 4:43 |
 | 12 | [M.A.I](https://open.spotify.com/track/35ttE4t8lQZA2vuCYDg4G7) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [111](https://open.spotify.com/album/338cbfABt3duRORfvNeqLT) | 3:04 |
-| 13 | [Recuérdame </3](https://open.spotify.com/track/5Vigksef6pzPLb0AHLDjsQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4) | [Recuérdame </3](https://open.spotify.com/album/6YpTQ7sEr94Xcr1EbmPToT) | 2:37 |
+| 13 | [Recuérdame </3](https://open.spotify.com/track/5Vigksef6pzPLb0AHLDjsQ) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [La Cueva](https://open.spotify.com/artist/34MlrrxcmBFemk8LmpFeI9) | [Recuérdame </3](https://open.spotify.com/album/6YpTQ7sEr94Xcr1EbmPToT) | 2:37 |
 | 14 | [BBY BOO \- REMIX](https://open.spotify.com/track/43PiEypaceH339CSNiggyj) | [iZaak](https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK), [Jhayco](https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66) | [BBY BOO \(REMIX\)](https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9) | 4:35 |
 | 15 | [Partyson](https://open.spotify.com/track/3mtBiHVBuhOEDTZPSJ5XaG) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Partyson](https://open.spotify.com/album/6yGNJyte0qDL1uuLfaiuL5) | 3:18 |
 | 16 | [Diabólica](https://open.spotify.com/track/4IJWhehNLXru5WfS71EWSx) | [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Partyson](https://open.spotify.com/album/5v3JncpvWjEDrGDeHJw9TL) | 3:12 |

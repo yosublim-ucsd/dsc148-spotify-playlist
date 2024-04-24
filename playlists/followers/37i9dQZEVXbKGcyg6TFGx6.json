@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 7989,
+  "2024-04-24": 7984,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Luxembourg.",
   "name": "Top 50 - Luxembourg",
@@ -6293,7 +6293,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 264324,
       "name": "CARNIVAL",
       "url": "https://open.spotify.com/track/3w0w2T288dec0mgeZZqoNN"
@@ -6391,7 +6391,7 @@
       ],
       "date_added": "2023-07-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 189090,
       "name": "Casanova",
       "url": "https://open.spotify.com/track/30D9x5LFgL2o9xidjX2wtE"
@@ -15383,7 +15383,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -20243,7 +20243,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 233240,
       "name": "MAMI WATA",
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
@@ -22095,6 +22095,24 @@
       "duration_ms": 198620,
       "name": "Movimento",
       "url": "https://open.spotify.com/track/08PxSFCTjMjLWiKkS22CAD"
+    },
+    {
+      "album": {
+        "name": "Mr Right Now",
+        "url": "https://open.spotify.com/album/7u9SJEZkcVsi2hUhygGaGQ"
+      },
+      "artists": [
+        {
+          "name": "Raquel Aurilia",
+          "url": "https://open.spotify.com/artist/0Zromf5rQEKfp5ocySlmvY"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202702,
+      "name": "Mr Right Now",
+      "url": "https://open.spotify.com/track/2mbuwtYuSJlllaw8rZIUZG"
     },
     {
       "album": {
@@ -31947,7 +31965,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 124444,
       "name": "Tell Ur Girlfriend",
       "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"

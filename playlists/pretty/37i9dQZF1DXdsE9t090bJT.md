@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 
 > Súbete a la troca ❤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,624 likes - 80 songs - 4 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,669 likes - 80 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,9 +51,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 41 | [Amor](https://open.spotify.com/track/35CpkPPqi9RXlETJZw5BYS) | [Alta Elegancia](https://open.spotify.com/artist/7EOpIcFOVG2PedJgVbCHJ2), [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [856 para el Mundo](https://open.spotify.com/album/2CPwUEgvViKF6S7LAchZAZ) | 4:41 |
 | 42 | [Música Romántica](https://open.spotify.com/track/1A0qhR8nxWIM4EekyTZFRO) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS) | [Mis 30 Aniversario, Vol\. 2](https://open.spotify.com/album/2RGfkZxD9S8VExEzWHymTA) | 3:52 |
 | 43 | [cómo dormiste?](https://open.spotify.com/track/4gcVqUyT7lj281442LiBYV) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [cómo dormiste?](https://open.spotify.com/album/02HbzA9lAQTVWuLvaYuSj8) | 3:03 |
-| 44 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
+| 44 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
 | 45 | [Te Regalo](https://open.spotify.com/track/7c36pInnsI3DzAGDQcTW99) | [Ulices Chaidez](https://open.spotify.com/artist/5npvUMe1CGnIhTX7OaLGVV) | [Andamos En El Ruedo](https://open.spotify.com/album/6bpWzCTfuvRJ0ZHyTmRS3R) | 3:14 |
-| 46 | [Pideme la Luna](https://open.spotify.com/track/3m2S4eEc19o5krIEplPq2c) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Corridos 602](https://open.spotify.com/album/0e6v7RAfsLk2UHr5gvDitO) | 2:47 |
+| 46 | [Y Sigues Siendo Tú](https://open.spotify.com/track/4AGPU9325LRTIBsBSJ5v75) | [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Haciendo Magia](https://open.spotify.com/album/4rwLalJchv9A2bdClzPncy) | 2:35 |
 | 47 | [Me Estoy Enamorando \- en Vivo](https://open.spotify.com/track/43UQAAZQB9eVlZhdz5pnt1) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Desde El Cantón \(en Vivo\)](https://open.spotify.com/album/2c3E1sKcWvcIt1lxYbiqgv) | 2:53 |
 | 48 | [Tal Vez](https://open.spotify.com/track/7Aiq4g8tSExAM2qUNkiHbZ) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:30 |
 | 49 | [La Fiesta](https://open.spotify.com/track/0JazIfsytYrcSkoK8EhLaR) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 2:41 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdsE9t090bJT.md) - [plain]
 | 72 | [Lo Tienes Todo](https://open.spotify.com/track/3XlgnHlzPia0v8szVKgSQI) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Lo Raro de Mi Libreta](https://open.spotify.com/album/5AKCPbBW4kSmJVfyQ5LjCN) | 2:57 |
 | 73 | [Antes y Después De Ti](https://open.spotify.com/track/3oAhb4op9UtDEgVc53DLit) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Good Vibes Buenas Vibras](https://open.spotify.com/album/4UOVrkH12lEwRqrEKwtKee) | 3:14 |
 | 74 | [Junto A Ti](https://open.spotify.com/track/6Vjznt4fAGn3rFTuP4EJIC) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK) | [Junto A Ti](https://open.spotify.com/album/7mBK2LPlyhQTi3WLM00j7r) | 3:13 |
-| 75 | [Mil Maneras De Morir](https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Mil Maneras De Morir](https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5) | 3:09 |
-| 76 | [Es Amor](https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Es Amor](https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ) | 2:44 |
+| 75 | [Es Amor](https://open.spotify.com/track/4ktsS76uu22xyxnWOQcNLv) | [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Es Amor](https://open.spotify.com/album/3b9zRa6yyjSTA6Z24UgbYZ) | 2:44 |
+| 76 | [Mil Maneras De Morir](https://open.spotify.com/track/1iQMF9XEicKaETg4whnTY5) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Kakalo](https://open.spotify.com/artist/4cR0sNwjMo1dqRs0Z5lMHs) | [Mil Maneras De Morir](https://open.spotify.com/album/3Dkya3iIixR12RhWy8KnY5) | 3:09 |
 | 77 | [Cómo No Adorarla](https://open.spotify.com/track/2VOltazP4iORb1wbbYKPY3) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Como No Queriendo](https://open.spotify.com/album/7cnz2aleCG5WgYYUzf4fqZ) | 3:41 |
 | 78 | [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 |
 | 79 | [Quiero Darte](https://open.spotify.com/track/6EKOb6cc9RXNAMDsF0IMcF) | [Designó](https://open.spotify.com/artist/0U8mxS5KYSDoQTrziRHfL4) | [Sin Sentimientos](https://open.spotify.com/album/3Ap9df5ktY7WttZSz0bTyP) | 2:58 |

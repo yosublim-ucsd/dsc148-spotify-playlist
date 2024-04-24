@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Han Yo Han\(한요한\)\) \(핫한 국내 록 음악을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,975 likes - 77 songs - 4 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,889 likes - 77 songs - 4 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2SFBzpAPi7n.md) - [plain]
 | 13 | [Star](https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR) | [N.Flying](https://open.spotify.com/artist/2ZmXexIJAD7PgABrj0qQRb) | [Lovely Runner, Pt\. 2 \(Original Soundtrack\)](https://open.spotify.com/album/0QE675R5b1xhC2Lwn4vXsP) | 3:38 |
 | 14 | [Ryudejakeiru](https://open.spotify.com/track/11Ndi6W2TSe8f4jNRb0ZgO) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [POWER ANDRE 99](https://open.spotify.com/album/6Knnr9SwfB0kyFoMa4rNQ1) | 4:09 |
 | 15 | [When you alone](https://open.spotify.com/track/3p6aAa50gOAzb6QAOuYNb2) | [Woody](https://open.spotify.com/artist/37ZY7eIcTT28id2jfq8WYw) | [When You Alone](https://open.spotify.com/album/5a5j76wF3KPnRnhcazQSfG) | 3:00 |
-| 16 | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF) | [Biyun](https://open.spotify.com/artist/1AwnvAdxdytU1fwZ0uKqsZ), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2) | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ) | 3:17 |
+| 16 | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF) | [Biyun](https://open.spotify.com/artist/4KOCZCiuT66e6lEpYEkNBk), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2) | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ) | 3:17 |
 | 17 | [Fading Person, Fading Love](https://open.spotify.com/track/64yMSkIEN5JJWUOhtSd3hl) | [IT’S](https://open.spotify.com/artist/6lESE9VeLV05vQBw8TB4YA) | [Fading Person, Fading Love](https://open.spotify.com/album/7zm4iYoy893pHeRYQKLGVr) | 3:52 |
 | 18 | [Blackwater](https://open.spotify.com/track/1LQFglRWL2Sg6zJUwgKxKE) | [MGFF](https://open.spotify.com/artist/0gnodTptHI3U140iAE7HDl) | [BLUEBLACK](https://open.spotify.com/album/1zWhW6CnUIcnq7ViV6Uwnn) | 3:31 |
 | 19 | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/track/1HZ5QwyJDROxUUpypZJvgg) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Crazy Weather \(Our Pie X LUCY\)](https://open.spotify.com/album/5YgVYVi56JNU6XrIcnHWFW) | 3:43 |

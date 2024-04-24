@@ -4,7 +4,7 @@
 
 > Stay relaxed with these low\-key beats and instrumentals.
 
-528 songs - 21 hr 44 min
+529 songs - 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -282,6 +282,7 @@
 | [Love Vibe and Learn](https://open.spotify.com/track/13ErCwuebmVrM0kEyiTmoG) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Love Vibe and Learn](https://open.spotify.com/album/7esU7PfctSuckvtAz97Gdx) | 2:12 | 2023-11-23 |  |
 | [Love Vibe and Learn](https://open.spotify.com/track/5TdBSyit6udNnTqJhbgiFT) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt) | [Noflik \- Love Vibe and Learn](https://open.spotify.com/album/2ZJ7gLKBBlKmL0kgTWmPj3) | 2:12 | 2023-11-23 | 2024-04-19 |
 | [Loveofmine](https://open.spotify.com/track/17axGpHVTMbKHKh0z0JCXt) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Synchronicty](https://open.spotify.com/album/4QN6IgCdZjGE8SQK63ef7R) | 3:07 | 2021-08-04 | 2021-10-29 |
+| [LUSTER](https://open.spotify.com/track/1aelR3nsm2YnBKkZJ7YAHj) | [SAIRU](https://open.spotify.com/artist/5I3ccYMk8oCQ6ZCfCgWhMw) | [LUSTER](https://open.spotify.com/album/6kR1YcLGdRlB3BFMFfZYhR) | 4:37 | 2024-04-12 |  |
 | [Mad Skillz](https://open.spotify.com/track/6TjxqtYXNC0TIhq03rDJ9n) | [Remulak](https://open.spotify.com/artist/5epeii4aAE7NXFsBkqoJxB), [Type.Raw](https://open.spotify.com/artist/5esWbbDTsZQ6mM3OHd4fSg) | [Mad Skillz](https://open.spotify.com/album/73XpuHdsSUhYWIfmqugGVj) | 2:31 | 2020-08-30 | 2022-07-28 |
 | [Magic Hoodie](https://open.spotify.com/track/3Q5uu90ueSV1hk1bIKYBKu) | [Jazzinuf](https://open.spotify.com/artist/6rJ1GwtHin2BJbKLuNn9pi) | [Dazzle](https://open.spotify.com/album/3lJ3wJoBUclrt7c1QNHAwv) | 1:58 | 2019-05-26\* | 2020-01-14 |
 | [Malibu](https://open.spotify.com/track/4NXIuzWmpfa9LzH6I2LMR9) | [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul), [SYNC.EXE](https://open.spotify.com/artist/2SvBRTr0oEXAaTzqw7p4rx) | [Malibu](https://open.spotify.com/album/0JWDRkkv8o6WYYHFCQJcn1) | 2:22 | 2020-08-30 |  |
@@ -313,7 +314,7 @@
 | [Napping](https://open.spotify.com/track/1E7VlV1Stul9E9UCasIPD7) | [KO\-ney](https://open.spotify.com/artist/19MYvIFOGSUHW7nvZtrsc0), [Shiloh Dynasty](https://open.spotify.com/artist/1wxPItEzr7U7rGSMPqZ25r) | [Napping](https://open.spotify.com/album/7jH1JHG94gRMNicnluBVT1) | 1:55 | 2023-06-22 | 2024-04-19 |
 | [Nature & Me](https://open.spotify.com/track/2FJxTKMytSzaKDyblxbqJN) | [7&Nine](https://open.spotify.com/artist/3KrbWefSRojrufNTqBI1wy), [Chill Select](https://open.spotify.com/artist/5orR9ec1E60lLb1U76m3ul) | [Vinyl And Me](https://open.spotify.com/album/6zqjZBp8aFKhHJF3QmhCPp) | 2:05 | 2021-10-13 |  |
 | [NEIGHBORHOOD](https://open.spotify.com/track/7pF5IwjIYwsxTmXnGq1Orn) | [Michael Kaneko](https://open.spotify.com/artist/36a3BbcVBJMiBGeHzpAxHb) | [The Neighborhood](https://open.spotify.com/album/0G3mBgdPScjga7vIe6t5Nv) | 1:40 | 2022-06-30 |  |
-| [Newjerseydrive](https://open.spotify.com/track/5mEJPvoDcNZrSoDeZ9u7uk) | [Tha Audio Unit](https://open.spotify.com/artist/0P9LfoJYQAd3TqAo972gl5), [Txger Vppercvt](https://open.spotify.com/artist/2nmFfuymWuu6Lv9IPH31tQ) | [I C E C R E A M C A K E \(Beat Tape\)](https://open.spotify.com/album/7uPs6mhDQTM9Nd7ATuBYSN) | 2:16 | 2019-05-26\* |  |
+| [Newjerseydrive](https://open.spotify.com/track/5mEJPvoDcNZrSoDeZ9u7uk) | [Tha Audio Unit](https://open.spotify.com/artist/0P9LfoJYQAd3TqAo972gl5), [Txger Vppercvt](https://open.spotify.com/artist/2nmFfuymWuu6Lv9IPH31tQ) | [I C E C R E A M C A K E \(Beat Tape\)](https://open.spotify.com/album/7uPs6mhDQTM9Nd7ATuBYSN) | 2:16 | 2019-05-26\* | 2024-04-24 |
 | [Next Time](https://open.spotify.com/track/1MrsZXZubcAkbHem6o3acl) | [Plusma](https://open.spotify.com/artist/1BrPtX4urPftXEDWrVTdRH), [High John](https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80), [En Rie](https://open.spotify.com/artist/3P18mn1T53JU82867PDYbM) | [High+](https://open.spotify.com/album/4gpM7hnHHz87otlCWaMgx6) | 1:38 | 2019-05-26\* | 2021-12-21 |
 | [Next to Nothing \- Instrumental](https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T) | [SoulChef](https://open.spotify.com/artist/7rdiGVXL2fFyONexHzfKFS) | [Next to Nothing \(Instrumental\)](https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2) | 1:50 | 2019-07-26 |  |
 | [Night Lights 2020](https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe) | [Shingo Suzuki](https://open.spotify.com/artist/2hiVnoopm3zYugUEwZBuTf) | [Night Lights 2020](https://open.spotify.com/album/5rqqrponuFtxKYusVGzSl2) | 4:01 | 2020-03-27 | 2020-07-18 |

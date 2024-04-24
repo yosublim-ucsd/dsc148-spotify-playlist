@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 
 > Folk tan dulce como la miel\. Walter Esaú en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,357 likes - 80 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,354 likes - 80 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 63 | [Vuelvo Pronto](https://open.spotify.com/track/2HECQdPQtR1K9DfEdCBAoa) | [Karina Galicia](https://open.spotify.com/artist/0syMDHmkYbx5dG8bOnZ60z) | [Canciones Secretas](https://open.spotify.com/album/6CrUSUaGNBRz8MNYTkvNm1) | 2:32 |
 | 64 | [Déjame de Matar](https://open.spotify.com/track/2fAGXnJeAgNXRzdHbEArIS) | [Valeria Jasso](https://open.spotify.com/artist/4JTbF9feswVonYL7fHSVCh) | [Déjame de Matar](https://open.spotify.com/album/7q70Mz0YbW2oxJZVqSUEXK) | 3:10 |
 | 65 | [Bolero Surrealista](https://open.spotify.com/track/0axqkZNASfnYOI3abp06dT) | [Dali Mata](https://open.spotify.com/artist/5UeFBoZ5aFWt6MtINvwwxL) | [Bolero Surrealista](https://open.spotify.com/album/6kZcXw3tT2Kbj9rqZsh83a) | 3:54 |
-| 66 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
-| 67 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
+| 66 | [Juntos](https://open.spotify.com/track/6DnmHa24M6jVBisjhyHcIs) | [Erich](https://open.spotify.com/artist/3l9fWRfml0xOFriezXXwhU) | [HSN](https://open.spotify.com/album/6mZZOWFnjModwsij9EDDam) | 2:40 |
+| 67 | [Pasado y Olvido](https://open.spotify.com/track/6Ri2uwJoxSyRTjRipledb7) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk) | [Pasado y Olvido](https://open.spotify.com/album/3oEUqfDFc1M0ODEUmb1nhs) | 4:15 |
 | 68 | [Dejar Ir](https://open.spotify.com/track/2a7gTBqzipCCuSQzgOSHl6) | [Carope](https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs) | [Dejar Ir](https://open.spotify.com/album/7joqDQGlL3HEbX4uuaR8tA) | 4:49 |
 | 69 | [Tu Despedida](https://open.spotify.com/track/27lGrJOO7EwUuInWZGqCMz) | [Felipe Botello y El Sonoro Rugir](https://open.spotify.com/artist/1IcvjLbT3CPDoGPwpycAvr) | [Tu Despedida](https://open.spotify.com/album/3SANjRAaEFJ9WEXxRc8yGX) | 3:54 |
 | 70 | [A Simple Vista](https://open.spotify.com/track/59WBdqea9FTzB09z4vhhl1) | [Tyna Ros](https://open.spotify.com/artist/0UISs14imd71l4ruoL2XPT), [Espumas y Terciopelo](https://open.spotify.com/artist/7cKg7NNt62h4Dq9twH3JOd) | [A Simple Vista](https://open.spotify.com/album/4MmPT0gnE81KHZepPsQUIP) | 3:27 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xKqsL1SVWb.md) - [plain]
 | 79 | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/track/66upbgKkgfSxMmIWMCvL8p) | [Sad Saturno](https://open.spotify.com/artist/4skcssepAWMUywr7Nmng2d) | [La Triste Historia de un Cazafantasmas Retirado](https://open.spotify.com/album/7EoVqsPnTl7mEj3p1wMZus) | 3:34 |
 | 80 | [Hoy Es Hoy](https://open.spotify.com/track/3H4XQcBxCptMYEou4tsjVd) | [Greta Ela](https://open.spotify.com/artist/5c8L3nGznkMGwbmyMKVIl8) | [Hoy Es Hoy](https://open.spotify.com/album/3iU8y5kOdMIPMdaRaHyhmF) | 2:54 |
 
-Snapshot ID: `MTcxMjMzNzMyNCwwMDAwMDAwMDYyNDljNWE3ZWYyYjI0OTMyYzcwNzg2Y2IyM2Q5NmIy`
+Snapshot ID: `MTcxMzk3NzI1NiwwMDAwMDAwMDc5MjA2OWIyY2Q1N2M4NzExZGFiY2I5YTNiNjhiMzA1`

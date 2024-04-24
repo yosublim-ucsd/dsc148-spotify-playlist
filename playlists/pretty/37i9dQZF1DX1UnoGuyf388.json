@@ -1,12 +1,12 @@
 {
   "description": "Pop music driving the current, every week.  Cover: Myles Smith",
-  "num_followers": 32403,
+  "num_followers": 32413,
   "original_name": "Pop Frequency",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzI5MjUwNSwwMDAwMDAwMDU3MmJlYWQ0MDJhOTAwZTY2MjNlM2FiMDM5ZjZmMmM3",
+  "snapshot_id": "MTcxMzkxNTc0NSwwMDAwMDAwMDA0Y2FlZjg2ZTIxMjk5ZjQ4OTk0Yjk2OTM1ZmRkZjUy",
   "tracks": [
     {
       "added_at": "2024-04-12 04:56:30",
@@ -335,22 +335,6 @@
       "duration_ms": 172966,
       "name": "alone",
       "url": "https://open.spotify.com/track/6wpOHVSrinXhKqF4EBbpuS"
-    },
-    {
-      "added_at": "2024-04-12 04:56:30",
-      "album": {
-        "name": "let go of me slowly",
-        "url": "https://open.spotify.com/album/4lbmpXfOb9FxBMxap9AQ0T"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 207348,
-      "name": "let go of me slowly",
-      "url": "https://open.spotify.com/track/5X0QI12MERu54ghfLYF76f"
     },
     {
       "added_at": "2024-04-12 04:56:30",
@@ -795,22 +779,6 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
-    },
-    {
-      "added_at": "2024-04-12 04:56:30",
-      "album": {
-        "name": "Crying",
-        "url": "https://open.spotify.com/album/5wvfwEFmnrUsbmVi9mRT9N"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 173686,
-      "name": "Crying",
-      "url": "https://open.spotify.com/track/3lpLpwUF7KTJVj9yoySNwM"
     },
     {
       "added_at": "2024-04-12 04:56:30",

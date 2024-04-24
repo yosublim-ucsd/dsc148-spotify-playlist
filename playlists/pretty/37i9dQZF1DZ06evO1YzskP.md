@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 
 > This is La Receta\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,180 likes - 52 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,216 likes - 52 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1YzskP.md) - [plain]
 | 51 | [Bien Firme el Sombrero](https://open.spotify.com/track/4NBiLab7UlhDLfQyrWZsYN) | [Fraccion EME](https://open.spotify.com/artist/3HKojEpLsM2TgtDHRfAyKD), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Bien Firme el Sombrero](https://open.spotify.com/album/4ZAh45TO8yZIBolO8sEyZ4) | 2:20 |
 | 52 | [Maclovio](https://open.spotify.com/track/4kEZP0nu8l78eoZhlkirfw) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Maclovio](https://open.spotify.com/album/2T6TgGuW2eYBaaaz1Zhgwa) | 3:37 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDY3NjliNTg4NGE1YWZmNTAyNTBlNGZiMGRlNzYyZTc0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGJiM2Y4YjExNzU1NmQ5YTdjYWI2Mjg4Y2NkYThhNWE5`

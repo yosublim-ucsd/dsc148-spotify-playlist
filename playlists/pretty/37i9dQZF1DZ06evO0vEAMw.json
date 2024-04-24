@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 74195,
+  "num_followers": 74258,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGE0OGNmYWI2NWQ0YjBlNDIwMzgzNTdmMDQyMDcwOWNh",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDU0N2NjZWQxYTQ5NGUyODIxYmI2MGQyY2RkYTI5YTQy",
   "tracks": [
     {
       "added_at": null,
@@ -539,26 +539,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blow My Mind",
-        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        }
-      ],
-      "duration_ms": 199173,
-      "name": "Blow My Mind",
-      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Romance (Deluxe)",
         "url": "https://open.spotify.com/album/1gC4BgOWemcVLQBM8pnIsZ"
       },
@@ -583,6 +563,26 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/5Ju2kTyHQmPHQbg0qD8pm1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blow My Mind",
+        "url": "https://open.spotify.com/album/31Z5vOXMKPSZjpERQHtaSp"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        }
+      ],
+      "duration_ms": 199173,
+      "name": "Blow My Mind",
+      "url": "https://open.spotify.com/track/1xJTW86sJ1OoloXeOret6t"
     },
     {
       "added_at": null,
@@ -647,22 +647,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Stand Strong (feat. Sunday Service Choir)",
-        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
+        "name": "Breezy (Deluxe)",
+        "url": "https://open.spotify.com/album/79WcTJuCulopfqul1awYJk"
       },
       "artists": [
         {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
         },
         {
-          "name": "Sunday Service Choir",
-          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
         }
       ],
-      "duration_ms": 182791,
-      "name": "Stand Strong (feat. Sunday Service Choir)",
-      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
+      "duration_ms": 179080,
+      "name": "Nobody Has To Know (feat. Davido)",
+      "url": "https://open.spotify.com/track/4U94pbUhXrzFNVcyrFeMso"
     },
     {
       "added_at": null,
@@ -683,6 +683,26 @@
       "duration_ms": 171724,
       "name": "The Best (feat. Mayorkun)",
       "url": "https://open.spotify.com/track/0b4OhI29MieZpxusw0HGEJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stand Strong (feat. Sunday Service Choir)",
+        "url": "https://open.spotify.com/album/3MhLmyxJueeWrXsRWlfw0e"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Sunday Service Choir",
+          "url": "https://open.spotify.com/artist/2c9O21YLFy4tFI9zCVhbFg"
+        }
+      ],
+      "duration_ms": 182791,
+      "name": "Stand Strong (feat. Sunday Service Choir)",
+      "url": "https://open.spotify.com/track/1XUf5lpeTQbrohZWdx6Sbz"
     },
     {
       "added_at": null,
@@ -987,30 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Girl (Global Remix)",
-        "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
-      },
-      "artists": [
-        {
-          "name": "Ir Sais",
-          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
-        },
-        {
-          "name": "Sean Paul",
-          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 212405,
-      "name": "Dream Girl - Global Remix",
-      "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ke Star (feat. Virgo Deep) [Remix]",
         "url": "https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3"
       },
@@ -1035,26 +1031,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/0ZkoBYU0ykvOrHMz2uxfkn"
+        "name": "Dream Girl (Global Remix)",
+        "url": "https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD"
       },
       "artists": [
         {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+          "name": "Ir Sais",
+          "url": "https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88"
+        },
+        {
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
         },
         {
           "name": "Davido",
           "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/6jwOZjlgsVnE0PvEmusjqZ"
+      "duration_ms": 212405,
+      "name": "Dream Girl - Global Remix",
+      "url": "https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI"
     }
   ],
   "unique_name": "This Is Davido",

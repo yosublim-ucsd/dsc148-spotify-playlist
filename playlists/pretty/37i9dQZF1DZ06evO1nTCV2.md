@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 
 > This is Ryan Adams\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,859 likes - 50 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,867 likes - 50 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 30 | [Do You Still Love Me?](https://open.spotify.com/track/0iHR4R5G3eMY595B4IvXfA) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Prisoner](https://open.spotify.com/album/4jldY4eFDSoZua0KBCp6KH) | 3:59 |
 | 31 | [I'm Sorry And I Love You](https://open.spotify.com/track/4T3C7lqynxYIXDYaLcVE1M) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Wednesdays](https://open.spotify.com/album/2gK2hMSg8rNam7mHpmy3Ek) | 3:34 |
 | 32 | [Manhattan in the Rain](https://open.spotify.com/track/5lpgGcXkWbjqBkWaazSk4N) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 4:55 |
-| 33 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
-| 34 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
+| 33 | [Amy](https://open.spotify.com/track/7qzqcfLHBAUherRXgW4Ul7) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Heartbreaker](https://open.spotify.com/album/7hmZCaBzp6mVrelxW6Ckrn) | 3:46 |
+| 34 | [Firecracker](https://open.spotify.com/track/27FB2JgWXsWWwU5FKHaS4m) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 2:51 |
 | 35 | [I See Monsters](https://open.spotify.com/track/7yo0FaDvZ7hx6F8UK324hH) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Love Is Hell](https://open.spotify.com/album/7hUvCVVeWk0mXkqcl0Hhs2) | 3:54 |
 | 36 | [Never Run](https://open.spotify.com/track/5yBCZUGiLBa1juMts6aLPW) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Sword & Stone](https://open.spotify.com/album/2wg4Zk8xRMeL5dlAe3wFOQ) | 2:52 |
 | 37 | [Pearls On A String](https://open.spotify.com/track/7cKps79ZK38xhAMFtsDtbm) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Easy Tiger](https://open.spotify.com/album/3ZlWIevUkfKkrjpYw5VdjE) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1nTCV2.md) - [plain]
 | 49 | [The Rescue Blues](https://open.spotify.com/track/3FiVlyfywz3RDC3BHT3eco) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Gold](https://open.spotify.com/album/1tYlx93ShW1M8TiAVDJSKc) | 3:38 |
 | 50 | [So Lost](https://open.spotify.com/track/3onoAfOvc9c2FrmvWb9shy) | [Ryan Adams](https://open.spotify.com/artist/2qc41rNTtdLK0tV3mJn2Pm) | [Star Sign](https://open.spotify.com/album/2x8DeimfQt0UaXeBRDxpAS) | 3:41 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDNiMGQxOWI3YTJkZGEyOGIzZTY0ZmQ4ZmIzMmM1NGMy`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDc0Njk4MGUxZDMxNDRiZTgyNzlhZDE5ZWM3NTg2ODFi`

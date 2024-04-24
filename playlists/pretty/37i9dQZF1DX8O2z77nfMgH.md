@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lanzamientos de la semana\. Lo nuevo de toda Iberoamérica\. Ryan Castro en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 886,919 likes - 65 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 885,081 likes - 65 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 48 | [Más Que Reales](https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ) | [Kei Linch](https://open.spotify.com/artist/343DJXR8dV27YepfAS5uGf), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Más Que Reales](https://open.spotify.com/album/0KzQpzNACgLCK99YTBHqvQ) | 3:24 |
 | 49 | [Losken Roland](https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Losken Roland](https://open.spotify.com/album/5l3NRWcHqyP72oYv6Xe3j6) | 2:20 |
 | 50 | [Cenicienta](https://open.spotify.com/track/49FOV8pFqmjbG4rbqTrKN1) | [J Noa](https://open.spotify.com/artist/4gknAwZk7sfjge8Bho6xre) | [Cenicienta](https://open.spotify.com/album/6njDaWFjwoe5ZjFqdWREW4) | 3:14 |
-| 51 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Dime Platino](https://open.spotify.com/artist/2LC4ljtDWdhDMGPprXWyZN) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
+| 51 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
 | 52 | [Respeto X Respeto](https://open.spotify.com/track/5z3dtTkyyKCs0yu0aQp8zI) | [ElReghosg](https://open.spotify.com/artist/5fT0BvMTWquu2lNbnRnDP3), [Someone Sm1](https://open.spotify.com/artist/3WyJImKjA4PH3EXWIWBokJ) | [Respeto X Respeto](https://open.spotify.com/album/3nkcWU0Q7y5VFURLrxNScr) | 3:21 |
 | 53 | [MI PROPÓSITO](https://open.spotify.com/track/1rXAnGCgbEYwCKxbVQfaEc) | [Soui Uno](https://open.spotify.com/artist/1vzVsiVbWQoAchoMxVpCdu), [Zica](https://open.spotify.com/artist/46tb2ZXhiEO0R42JLK1Qzr) | [NOS CRUZAS EN EL POGO](https://open.spotify.com/album/1AIrHoe9khhRwfmePrYTld) | 2:40 |
 | 54 | [NI MEDIA LLAMADA \- En Vivo](https://open.spotify.com/track/6ThdjRkgOc6n7nzDIrc0de) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [´TA BUENO SILVESTRE DANGOND EN VIVO DESDE VALLEDUPAR: PARTE UNO](https://open.spotify.com/album/1XdlUnT06DX6W8V32Vefg9) | 5:42 |

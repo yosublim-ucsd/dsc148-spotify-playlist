@@ -2,7 +2,7 @@
 
 ### [This Is Joan Sebastian](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4xC36w)
 
-> This is Joan Sebastian\. The essential tracks, all in one playlist.
+> This Is Joan Sebastian\. Los temas esenciales, todos en una lista.
 
 58 songs - 2 hr 58 min
 
@@ -46,11 +46,11 @@
 | [Muchachita De Ojos Claros](https://open.spotify.com/track/6KHHFJARqCRhevKe3ozHct) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Tambora, Vol\. 2](https://open.spotify.com/album/2p2eoxekXVfwJQM1wfqlcQ) | 2:13 | 2023-08-08 |  |
 | [Más Allá Del Sol](https://open.spotify.com/track/3rusXt8aQcGDtYImYtL5tm) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Más Allá Del Sol](https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM) | 2:43 | 2023-08-08 |  |
 | [No Le Tengas Compasión](https://open.spotify.com/track/1ssEOaBxBWj3SQKzlTzCF1) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 2:58 | 2023-08-08 |  |
-| [No Me Beses](https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Me Beses](https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic) | 2:54 | 2023-08-08 |  |
+| [No Me Beses](https://open.spotify.com/track/09XxwOPCRnN7A75z6Z0OqR) | [La Adictiva](https://open.spotify.com/artist/49EE6lVLgU8sp7dFgPshgM), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [No Me Beses](https://open.spotify.com/album/5MjWs7elYagIL0FvQA21ic) | 2:54 | 2023-08-08 | 2024-04-24 |
 | [Oiga](https://open.spotify.com/track/2kPmtoTWr2vusy8qw1iFiB) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Prisma](https://open.spotify.com/artist/1TyHjg9GOQ8b2oFSRAQhf3) | [Grandes Duetos](https://open.spotify.com/album/33DVEiEzNDnc0Ojj2knqtS) | 3:29 | 2023-08-08 |  |
 | [Oiga Primo](https://open.spotify.com/track/0rhqoE4lso2Q4NvzlEL76W) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian con Tambora](https://open.spotify.com/album/4c5Q81KOben9aOKTxA4uwi) | 2:16 | 2023-08-08 |  |
 | [Ojitos De Golondrina](https://open.spotify.com/track/5m5g55OSy0kQnaxKU4lZ11) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Joan Sebastian Con Tambora](https://open.spotify.com/album/3gue1ilvSw4e4wyPANg8vJ) | 2:19 | 2023-08-08 |  |
-| [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2023-08-08 | 2024-04-23 |
+| [Que Sea](https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [Que Sea](https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR) | 2:50 | 2023-08-08 |  |
 | [Qué No Te Asombre](https://open.spotify.com/track/0efW8EeMZJJePa39Xt8g23) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Marisela](https://open.spotify.com/artist/73c2MjCAFNyKYIs7nBlqG2) | [Joan Sebastian Con Mariachi](https://open.spotify.com/album/7Ml2mSF97d0zz3mDCKdx9M) | 3:41 | 2023-08-08 |  |
 | [Rumores](https://open.spotify.com/track/1DVZafFlOB53zfGDVs8w1s) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1), [Lisa Lopez](https://open.spotify.com/artist/3gLar4IFE6bFk1GMU12pts) | [Rumores](https://open.spotify.com/album/0DkdxMCzRT1ixYZxD20AlV) | 3:42 | 2023-08-08 |  |
 | [Sangoloteadito](https://open.spotify.com/track/2s678Tz6mme5OV9DfTUUoD) | [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [Colección De Oro, Vol\. 3: Con Tambora](https://open.spotify.com/album/2PN8SbTA3VEBpfmQaZdak2) | 3:00 | 2023-12-13 |  |

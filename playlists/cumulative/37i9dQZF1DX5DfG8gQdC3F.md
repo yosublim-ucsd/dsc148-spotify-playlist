@@ -4,7 +4,7 @@
 
 > New music from Taylor Swift, Drake, DJ Snake & Peso Pluma, RealestK, Jamie xx and more.
 
-11,754 songs - 26 day 1 hr 19 min
+11,754 songs - 26 day 1 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|

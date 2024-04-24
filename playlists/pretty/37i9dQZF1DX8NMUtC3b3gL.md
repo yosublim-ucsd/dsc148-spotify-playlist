@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 
 > beautiful beats for beautiful moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,232 likes - 207 songs - 8 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,244 likes - 207 songs - 8 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,7 +178,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8NMUtC3b3gL.md) - [plain]
 | 168 | [Snooze](https://open.spotify.com/track/7rD6NHq0wj0fMTMN1azd7g) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3) | [Snooze](https://open.spotify.com/album/0ajNRtHRD6dHzXf3Dky8JY) | 1:30 |
 | 169 | [A Night In Rio](https://open.spotify.com/track/4fnuzfQmjDLLOBYdXdmXum) | [Jussi Halme](https://open.spotify.com/artist/57nv9UWhYTBijBLYigIH2K), [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [A Night In Rio](https://open.spotify.com/album/6ymp9C7Cq6id82Dz5RJM91) | 2:25 |
 | 170 | [Palmeiras](https://open.spotify.com/track/4f5CyiauVztsfF9JI8HIUC) | [Konteks](https://open.spotify.com/artist/38lJ5B9ZBk3zsRKEf3oG2R) | [Palmeiras](https://open.spotify.com/album/2x3oSfL2a0VYXSVXGXfaY7) | 1:40 |
-| 171 | [washed ashore](https://open.spotify.com/track/12NFF6F8Z4hFtxDaBUbU5x) | [S\-Ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [Milan Beats](https://open.spotify.com/artist/6vlBN0oKCy0H1Ji0isYxO8) | [washed ashore](https://open.spotify.com/album/67sdwUY7a6jWBQAepGZU01) | 2:11 |
+| 171 | [washed ashore](https://open.spotify.com/track/12NFF6F8Z4hFtxDaBUbU5x) | [S\-ilo](https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG), [Milan Beats](https://open.spotify.com/artist/6vlBN0oKCy0H1Ji0isYxO8) | [washed ashore](https://open.spotify.com/album/67sdwUY7a6jWBQAepGZU01) | 2:11 |
 | 172 | [Marbles](https://open.spotify.com/track/7McgbJW6Bo2WHx9tXmzoUA) | [Cloudsurfin'](https://open.spotify.com/artist/5Dsg7x6lNQTgWSgnYlIpif), [Lightflower](https://open.spotify.com/artist/7LRPMbVSu0U3Dakca6s0t0) | [Marbles](https://open.spotify.com/album/4JCNxCKuttWTPDJDchg8cB) | 2:20 |
 | 173 | [Pacific Ocean](https://open.spotify.com/track/718vrbQpydNkvFfk7wYm8F) | [Geezmo](https://open.spotify.com/artist/4WeV818vJ6dSmgg6c8VA49), [AuraBeats](https://open.spotify.com/artist/5BI0OndVBDq3oohfelsWnO) | [Pacific Ocean](https://open.spotify.com/album/1uABNs966qJx5bC2Op5CHU) | 2:50 |
 | 174 | [No Pressure](https://open.spotify.com/track/5RCXulZHahDWbtUr7tAgtH) | [Donkeychote](https://open.spotify.com/artist/3qPSdWkG9474zgjbxYwncU), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [No Pressure](https://open.spotify.com/album/6aQt3aOKn3bbVg3vHcqqjz) | 2:01 |

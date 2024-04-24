@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > ✨giovane✨pop✨z✨ Cover: Will
 
-[Spotify](https://open.spotify.com/user/spotify) - 383,381 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 383,194 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 20 | [FRAGILI](https://open.spotify.com/track/6mhZd9yNJpyT2Qynx9FuhI) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [FRAGILI](https://open.spotify.com/album/3hNEfoTFpxiA1Car8tVdy5) | 3:09 |
 | 21 | [NUVOLA](https://open.spotify.com/track/305DlkOzRc0TYoKQr00Kud) | [Holden](https://open.spotify.com/artist/3XTUciJcdix4GkO9YoBdtP) | [NUVOLA](https://open.spotify.com/album/1ONjw8s42tymCBK8FGmiAk) | 2:49 |
 | 22 | [Guagliò](https://open.spotify.com/track/3XUBw8wZ3lyokCTYjVa6pH) | [Petit](https://open.spotify.com/artist/2miA8jrhyRoCHvWdsrPQde) | [Guagliò](https://open.spotify.com/album/3dAu3bFbyABqhGonrsIJcS) | 2:42 |
-| 23 | [JAKARTA \(feat\. Pepe\)](https://open.spotify.com/track/6i1GnFUtvsb2yRX8PtrDqs) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE) | [JAKARTA \(feat\. Pepe\)](https://open.spotify.com/album/6o66691lBA17fu0kiLhK8F) | 3:18 |
+| 23 | [JAKARTA](https://open.spotify.com/track/6i1GnFUtvsb2yRX8PtrDqs) | [OCCHI](https://open.spotify.com/artist/1gxSzslBaKRwyT69Q8PJKU), [Pepe](https://open.spotify.com/artist/4KVkkOO0DSrpPzla5vEnsE) | [JAKARTA](https://open.spotify.com/album/6o66691lBA17fu0kiLhK8F) | 3:18 |
 | 24 | [MI ODIERAI](https://open.spotify.com/track/6eumBM7ThMaSPPGRlWZfWM) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [MI ODIERAI](https://open.spotify.com/album/7rUUGvVIkru8hoJYd21OlT) | 3:27 |
 | 25 | [Tutto con te](https://open.spotify.com/track/7CPbIZIGKE8tPLUuLMVujK) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [JVLI](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Tutto con te](https://open.spotify.com/album/1kcuGFGOcoGsWi2GUTdwFJ) | 2:38 |
 | 26 | [CAMILLA](https://open.spotify.com/track/44QM4Y4EC2EuDjNrCFdvCh) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0) | [CAMILLA](https://open.spotify.com/album/4WpCQAr30YolcLGQN6zHqA) | 2:29 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 28 | [NERO MASCARA](https://open.spotify.com/track/34XpVQyYbTZb5hmldVrlvl) | [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [NERO MASCARA](https://open.spotify.com/album/4lv6ZOsKGlVGxEcSIJFhR0) | 3:29 |
 | 29 | [ORO ORO ORO](https://open.spotify.com/track/4Re4W6U6JgSGPGPoyiZFyr) | [Nahaze](https://open.spotify.com/artist/4lH0PRAS3yV8O05E5lTqwk) | [ORO ORO ORO](https://open.spotify.com/album/4oY3Jk21YVZAoeRTI7vLun) | 2:30 |
 | 30 | [VELENO](https://open.spotify.com/track/2K7bv4Q0FNNKPt4PPPCjOi) | [Tananai](https://open.spotify.com/artist/35V1WomiedCJeGfupcPm7s) | [VELENO](https://open.spotify.com/album/5yyaogWQcARbLR0FGz1wel) | 3:18 |
-| 31 | [PARTE DI ME](https://open.spotify.com/track/5Q6Et6BStxlPl2Vv1bhJGD) | [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [Donis & Dazzo](https://open.spotify.com/artist/1n4rkQyy6PoU70egXjAQYG) | [PARTE DI ME](https://open.spotify.com/album/2j1M7CmnPiKsvf4JpnFEmd) | 3:07 |
+| 31 | [PARTE DI ME](https://open.spotify.com/track/5Q6Et6BStxlPl2Vv1bhJGD) | [Lortex](https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45), [Astol](https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy), [Donis & Dazzo](https://open.spotify.com/artist/1n4rkQyy6PoU70egXjAQYG) | [PARTE DI ME](https://open.spotify.com/album/2j1M7CmnPiKsvf4JpnFEmd) | 3:07 |
 | 32 | [Fila indiana](https://open.spotify.com/track/2WTgfEZW6gYWhHCMkn4lMc) | [Angelina Mango](https://open.spotify.com/artist/1A6HBLulvBFzNtlMb7b08f) | [Fila indiana](https://open.spotify.com/album/2Dy8cBZkLwkAQJGUls25Hb) | 3:13 |
 | 33 | [9000 KM](https://open.spotify.com/track/3K0W8Y4UWjDPTRkNbfmsbe) | [Uale](https://open.spotify.com/artist/65DfdXpvkdrTY49gfs3LAC) | [9000 KM](https://open.spotify.com/album/1aB8x8m7r9h2kETprJQJWL) | 2:27 |
 | 34 | [Innamorato](https://open.spotify.com/track/1k3CKhRz8iK3GNfTQu32eH) | [BLANCO](https://open.spotify.com/artist/1MRiIeZbc0cRuxOafDUCtH) | [Innamorato](https://open.spotify.com/album/44iFvVtFduw0s4bPAk5skP) | 2:36 |

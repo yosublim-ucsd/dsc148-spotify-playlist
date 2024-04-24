@@ -6,8 +6,104 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "NzQxLDViY2U2MjI3NmY2ZTFhNzdjYTFjNDk3NGQ2MmM2YWUyZjNkMTkyNTM=",
+  "snapshot_id": "NzQ4LGM1OGQ4Y2MzZDA1NTM3Mjg4N2RmMDAxMzE3NzA3OTBkN2U3OThjOWU=",
   "tracks": [
+    {
+      "added_at": "2024-04-23 05:27:27",
+      "album": {
+        "name": "\u30b9\u30ab\u30fc\u30c6\u30a3\u30b7\u30e5\u30fc",
+        "url": "https://open.spotify.com/album/73sz99K0hymaOln5qAuGwG"
+      },
+      "artists": [
+        {
+          "name": "Toa",
+          "url": "https://open.spotify.com/artist/0GpuT5uCfbeG4IwyPLvJ7b"
+        },
+        {
+          "name": "MEIKO",
+          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
+        }
+      ],
+      "duration_ms": 186486,
+      "name": "\u30b9\u30ab\u30fc\u30c6\u30a3\u30b7\u30e5\u30fc (feat. MEIKO)",
+      "url": "https://open.spotify.com/track/2Fvjx8UvSw4dVfvUyqHtmV"
+    },
+    {
+      "added_at": "2024-04-23 05:27:43",
+      "album": {
+        "name": "\u9082\u9005\u3001\u305d\u3057\u3066\u9752",
+        "url": "https://open.spotify.com/album/11zbwM86Q6N8xpZzCkn9Wz"
+      },
+      "artists": [
+        {
+          "name": "kijima",
+          "url": "https://open.spotify.com/artist/1SgONA50hAdrYYYtBnxC4n"
+        },
+        {
+          "name": "KAITO",
+          "url": "https://open.spotify.com/artist/7CWdEBRTF2C44GfX1GmSc2"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "\u5922\u3067\u9022\u3048\u305f\u3089 (feat. KAITO)",
+      "url": "https://open.spotify.com/track/5NWj7fGZCDQWWqKkk1Cz3w"
+    },
+    {
+      "added_at": "2024-04-23 05:28:18",
+      "album": {
+        "name": "\u305d\u3093\u306a\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088",
+        "url": "https://open.spotify.com/album/3FP3el0ln0CtFRklyZRz3Y"
+      },
+      "artists": [
+        {
+          "name": "EO",
+          "url": "https://open.spotify.com/artist/4jcGNX43ioTG1HGfJSDISU"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        }
+      ],
+      "duration_ms": 222727,
+      "name": "\u305d\u3093\u306a\u3053\u3068\u8a00\u308f\u306a\u3044\u3067\u3088 (feat. \u93e1\u97f3\u30ea\u30f3)",
+      "url": "https://open.spotify.com/track/71UxNdsNguzTYAM7dhodgP"
+    },
+    {
+      "added_at": "2024-04-23 05:28:37",
+      "album": {
+        "name": "\u4e94\u6708\u96e8",
+        "url": "https://open.spotify.com/album/1dcEPkb7YVaysbrjj4cC4Y"
+      },
+      "artists": [
+        {
+          "name": "Mwk",
+          "url": "https://open.spotify.com/artist/5VOCdksdWE53nxsxTEynVB"
+        },
+        {
+          "name": "\u82b1\u9688\u5343\u51ac",
+          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
+        }
+      ],
+      "duration_ms": 224347,
+      "name": "\u4e94\u6708\u96e8 (feat. \u82b1\u9688\u5343\u51ac)",
+      "url": "https://open.spotify.com/track/1rfKUaBY93Y5U2wVYPMYtO"
+    },
+    {
+      "added_at": "2024-04-23 05:29:54",
+      "album": {
+        "name": "\u30e9\u30e9\u306e\u56f3\u66f8\u9928",
+        "url": "https://open.spotify.com/album/6rFA8PTuBJ1xXvbHgYp7DM"
+      },
+      "artists": [
+        {
+          "name": "Yono",
+          "url": "https://open.spotify.com/artist/7qaz7YlUZ0IzlYba5S0ZtF"
+        }
+      ],
+      "duration_ms": 317648,
+      "name": "piano (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2mcCtXijdSmKPJanbsq3y3"
+    },
     {
       "added_at": "2024-04-16 05:25:33",
       "album": {
@@ -647,102 +743,6 @@
       "duration_ms": 258500,
       "name": "\u3053\u306e\u307e\u307e",
       "url": "https://open.spotify.com/track/55SZYGNQCwlaIFWf5NRUYx"
-    },
-    {
-      "added_at": "2024-01-16 07:17:28",
-      "album": {
-        "name": "\u30d4\u30a2\u30ce\u306e\u8a69",
-        "url": "https://open.spotify.com/album/4VgZGcZwVV1UJSgHQAhQfS"
-      },
-      "artists": [
-        {
-          "name": "\u305f\u304b\u3074\u3043",
-          "url": "https://open.spotify.com/artist/10JYeaYHS7K34njKOD8Baa"
-        },
-        {
-          "name": "\u82b1\u9688\u5343\u51ac",
-          "url": "https://open.spotify.com/artist/143V7M81Iw7Ry7ohrlAS38"
-        }
-      ],
-      "duration_ms": 221430,
-      "name": "\u30d4\u30a2\u30ce\u306e\u8a69 (feat. \u82b1\u9688\u5343\u51ac)",
-      "url": "https://open.spotify.com/track/5xb81QLvP5JQPWatNOaYU9"
-    },
-    {
-      "added_at": "2024-01-16 07:17:46",
-      "album": {
-        "name": "\u5883\u754c",
-        "url": "https://open.spotify.com/album/283RDmW4zHtiEnfYkaGcTh"
-      },
-      "artists": [
-        {
-          "name": "Adomiori",
-          "url": "https://open.spotify.com/artist/4GCCMFsEYjm4th48sLCGrZ"
-        },
-        {
-          "name": "\u97f3\u8857\u30a6\u30ca",
-          "url": "https://open.spotify.com/artist/3vx4KtiD9ciUsGOamm2ZcA"
-        }
-      ],
-      "duration_ms": 301868,
-      "name": "\u3088\u308f\u3080\u3057\u3068\u304b\u3052\u306e\u30d5\u30ec\u30fc\u30ec (feat. \u97f3\u8857\u30a6\u30ca)",
-      "url": "https://open.spotify.com/track/28dOFnXc4oLSOA6g5KsHe7"
-    },
-    {
-      "added_at": "2024-01-16 07:18:19",
-      "album": {
-        "name": "\u8679\u306e\u5f7c\u65b9",
-        "url": "https://open.spotify.com/album/3039O8YC6PDmuLg9oswEfg"
-      },
-      "artists": [
-        {
-          "name": "\u3066\u3043\u3042\u3089",
-          "url": "https://open.spotify.com/artist/0zw6SLCclosButXipEFrRr"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 257083,
-      "name": "\u8679\u306e\u5f7c\u65b9 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/6e4D9spzwr9rA55fyKU0jR"
-    },
-    {
-      "added_at": "2024-01-16 07:18:39",
-      "album": {
-        "name": "Purification",
-        "url": "https://open.spotify.com/album/2mX44ObvH2lm03vn0nlTXG"
-      },
-      "artists": [
-        {
-          "name": "okameP",
-          "url": "https://open.spotify.com/artist/1KC8BTeLDKxPr4Z19HJ6mp"
-        }
-      ],
-      "duration_ms": 426666,
-      "name": "Kyrie eleison - remind",
-      "url": "https://open.spotify.com/track/5wECKiOZyhKpgtUAPvqe7s"
-    },
-    {
-      "added_at": "2024-01-16 07:19:01",
-      "album": {
-        "name": "A Brief History of Us",
-        "url": "https://open.spotify.com/album/1jL0XxHhRsf0LJafJ6ZerH"
-      },
-      "artists": [
-        {
-          "name": "ryuryu",
-          "url": "https://open.spotify.com/artist/7dfblDi88zLmvIt9f5sRXc"
-        },
-        {
-          "name": "Hatsune Miku",
-          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
-        }
-      ],
-      "duration_ms": 366164,
-      "name": "\u30af\u30a9\u30fc\u30c4\u30a1\u30b9 (feat. \u521d\u97f3\u30df\u30af)",
-      "url": "https://open.spotify.com/track/42BYRpjzOnxnlbqjdMZ9fo"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

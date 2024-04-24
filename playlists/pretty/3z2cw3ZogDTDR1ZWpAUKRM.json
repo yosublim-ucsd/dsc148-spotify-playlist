@@ -6,7 +6,7 @@
     "name": "ssamt",
     "url": "https://open.spotify.com/user/ssamt"
   },
-  "snapshot_id": "MjUsNjIyMGYwMTNmYjBkNzQ1YjdiNzY2MGNkMjM5NGI1MGY2NWY4NWFiYQ==",
+  "snapshot_id": "MjksZGY0M2FkNDE5MDRmNTViNmQ1YWZlYzNlNTI4Y2M0YzY4NDAwYzFlZA==",
   "tracks": [
     {
       "added_at": "2024-04-08 14:48:28",
@@ -89,22 +89,6 @@
       "url": "https://open.spotify.com/track/3dNOUOwnIKlPnlDrQLX5Ut"
     },
     {
-      "added_at": "2024-04-08 14:46:46",
-      "album": {
-        "name": "Deeper Well",
-        "url": "https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        }
-      ],
-      "duration_ms": 177733,
-      "name": "Dinner with Friends",
-      "url": "https://open.spotify.com/track/1wLN48gT4YmUWs4WMgnw2n"
-    },
-    {
       "added_at": "2024-04-08 14:49:04",
       "album": {
         "name": "The Stranger (Legacy Edition)",
@@ -119,6 +103,22 @@
       "duration_ms": 214240,
       "name": "Vienna",
       "url": "https://open.spotify.com/track/4U45aEWtQhrm8A5mxPaFZ7"
+    },
+    {
+      "added_at": "2024-04-23 14:58:53",
+      "album": {
+        "name": "Eurus",
+        "url": "https://open.spotify.com/album/5Dc0RmwwqNs7203eShdJ09"
+      },
+      "artists": [
+        {
+          "name": "The Oh Hellos",
+          "url": "https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR"
+        }
+      ],
+      "duration_ms": 223157,
+      "name": "Passerine",
+      "url": "https://open.spotify.com/track/4pIpjNNk21oQfOtkcMUul1"
     },
     {
       "added_at": "2024-04-15 16:56:05",

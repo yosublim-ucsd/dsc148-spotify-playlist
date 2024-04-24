@@ -4,7 +4,7 @@
 
 > This is Krewella\. The essential tracks, all in one playlist.
 
-61 songs - 3 hr 34 min
+62 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,6 +56,7 @@
 | [Play Hard](https://open.spotify.com/track/1fXmeYsGbs8Mtp6ozgzB8r) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Play Hard EP](https://open.spotify.com/album/5EQQiOF2nQibGXo7a9vZ7m) | 4:26 | 2024-02-28 | 2024-03-06 |
 | [Rewind](https://open.spotify.com/track/0lzwqIfqmTXRl5mpM6zSiY) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr), [Yellow Claw](https://open.spotify.com/artist/47z7ZrgFoBvVpCnElCE3Zh) | [Rewind](https://open.spotify.com/album/7BWKPZiH5qqYX6nZxKBnu9) | 2:59 | 2023-05-02 |  |
 | [Ring of Fire](https://open.spotify.com/track/6RrVbO6ecgyM51DMDklCPL) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:23 | 2023-06-06 |  |
+| [Rise & Fall](https://open.spotify.com/track/5yQmKyKEdjtxFDPIK9mFLn) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Rise & Fall](https://open.spotify.com/album/5xkfX4DNx7hZYrGy8H1YUJ) | 6:01 | 2024-04-24 |  |
 | [Runaway](https://open.spotify.com/track/46L9j7CjtctvVNSZTmEJrx) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Runaway](https://open.spotify.com/album/3HtUie8gwm5iINhBRFmLc4) | 3:39 | 2023-05-02 |  |
 | [Say Goodbye](https://open.spotify.com/track/2Hlfm48wmDNFHTZM7qqEWV) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Say Goodbye](https://open.spotify.com/album/5qKmiYTrzLRMw2DgqxdcGZ) | 3:53 | 2023-05-02 |  |
 | [Set Yourself Free](https://open.spotify.com/track/1wjnBlO0JevbBAUlOBlwxg) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [A Town Called Paradise](https://open.spotify.com/album/4SHlBT6B3kL8bdj6X2xHRp) | 4:39 | 2023-05-02 |  |
@@ -68,6 +69,6 @@
 | [War Forever](https://open.spotify.com/track/6zlI38isRH6Ix7LoPSrHiJ) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [The Body Never Lies](https://open.spotify.com/album/2xNgUtEGxaLSq5d9VGhhWy) | 4:37 | 2023-05-02 |  |
 | [We Are One](https://open.spotify.com/track/4IU1k52gr8iAF3j3OiVCYz) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 4:36 | 2024-04-08 | 2024-04-09 |
 | [We Go Down](https://open.spotify.com/track/5QxkroIQPiY8UKgSFFuYQd) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [Get Wet](https://open.spotify.com/album/1Y7A8ZaZ9QyeeOa3uWQJqc) | 3:05 | 2023-05-02 |  |
-| [zer0](https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:47 | 2023-05-02 |  |
+| [zer0](https://open.spotify.com/track/7nMBN3eKuRfcQGEnzDeNKP) | [Krewella](https://open.spotify.com/artist/0Cd6nHYwecCNM1sVEXKlYr) | [zer0](https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb) | 3:47 | 2023-05-02 | 2024-04-24 |
 
 \*This playlist was first scraped on 2023-05-03. Prior content cannot be recovered.

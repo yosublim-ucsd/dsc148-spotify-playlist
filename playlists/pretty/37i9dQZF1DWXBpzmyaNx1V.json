@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Nos vemos del 6 al 10 de Marzo! Cinco d\u00edas de m\u00fasica en recintos ic\u00f3nicos de la CDMX. Compra tus boletos <a href=\"https://lnk.bio/pitchforkcdmx\"> aqu\u00ed</a>. ",
-  "num_followers": 39386,
+  "num_followers": 39374,
   "original_name": "Pitchfork Music Festival CDMX",
   "owner": {
     "name": "Spotify",
@@ -547,6 +547,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "After Destruction",
+        "url": "https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX"
+      },
+      "artists": [
+        {
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
+        }
+      ],
+      "duration_ms": 224263,
+      "name": "After Destruction",
+      "url": "https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Vidrio",
         "url": "https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 277308,
       "name": "An\u00f3nima",
       "url": "https://open.spotify.com/track/08dAkGmUKmkmj4BJ3hCpfB"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "After Destruction",
-        "url": "https://open.spotify.com/album/7jhSHFst3jCbRlxwvWa7AX"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 224263,
-      "name": "After Destruction",
-      "url": "https://open.spotify.com/track/3b0murHEJnNk0NiNOuoORG"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -635,18 +635,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Sol",
-        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+        "name": "Paper Dolls",
+        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
       },
       "artists": [
         {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+          "name": "Descartes A Kant",
+          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
         }
       ],
-      "duration_ms": 188500,
-      "name": "Sol",
-      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+      "duration_ms": 120600,
+      "name": "Hello Tarantino",
+      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
+        "name": "Sol",
+        "url": "https://open.spotify.com/album/5shelU7wuKNdL7PUvNbqiF"
+      },
+      "artists": [
+        {
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Sol",
+      "url": "https://open.spotify.com/track/2ep4KuxvHiQUXUZpmMzczS"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
         "name": "Interiors",
         "url": "https://open.spotify.com/album/5XIkLswshaViwFERckpk0j"
       },
@@ -695,6 +711,38 @@
       "duration_ms": 297093,
       "name": "Shape",
       "url": "https://open.spotify.com/track/1Tkm7LMbaqk4xDIEZT3oZj"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Relatives In Descent",
+        "url": "https://open.spotify.com/album/5w1LR7cbTKEoCfgB98rkgR"
+      },
+      "artists": [
+        {
+          "name": "Protomartyr",
+          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+        }
+      ],
+      "duration_ms": 163597,
+      "name": "Corpses In Regalia",
+      "url": "https://open.spotify.com/track/6vyxUUHQQkguxWp3bH1JZZ"
+    },
+    {
+      "added_at": "2024-02-16 18:40:38",
+      "album": {
+        "name": "Junior",
+        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
+      },
+      "artists": [
+        {
+          "name": "Corridor",
+          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
+        }
+      ],
+      "duration_ms": 277539,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -723,54 +771,6 @@
       "duration_ms": 180772,
       "name": "The Gods Must Be Crazy",
       "url": "https://open.spotify.com/track/4pzB7F1F79CpuACW6hO6D3"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Paper Dolls",
-        "url": "https://open.spotify.com/album/6x5YIfaNRKfwaVhHjAWE4D"
-      },
-      "artists": [
-        {
-          "name": "Descartes A Kant",
-          "url": "https://open.spotify.com/artist/3f5vjwUNkT5TxEnFxwJh8j"
-        }
-      ],
-      "duration_ms": 120600,
-      "name": "Hello Tarantino",
-      "url": "https://open.spotify.com/track/2mVvltB6qGGx51fyvywVkD"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "Junior",
-        "url": "https://open.spotify.com/album/25IaAzyPkNm8CR2ZVugP9N"
-      },
-      "artists": [
-        {
-          "name": "Corridor",
-          "url": "https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4"
-        }
-      ],
-      "duration_ms": 277539,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/5C9gmvBVdhEAHAqlpFGHqk"
-    },
-    {
-      "added_at": "2024-02-16 18:40:38",
-      "album": {
-        "name": "FYT",
-        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
-      },
-      "artists": [
-        {
-          "name": "Noa Sainz",
-          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
-        }
-      ],
-      "duration_ms": 147173,
-      "name": "FYT",
-      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
     },
     {
       "added_at": "2024-02-16 18:40:38",
@@ -823,18 +823,18 @@
     {
       "added_at": "2024-02-16 18:40:38",
       "album": {
-        "name": "Relatives In Descent",
-        "url": "https://open.spotify.com/album/5w1LR7cbTKEoCfgB98rkgR"
+        "name": "FYT",
+        "url": "https://open.spotify.com/album/7GnxsWoQIn4gjwASblM82j"
       },
       "artists": [
         {
-          "name": "Protomartyr",
-          "url": "https://open.spotify.com/artist/2YFBqMMiIIL4XyiEwqySUQ"
+          "name": "Noa Sainz",
+          "url": "https://open.spotify.com/artist/3kN2uYBnEM2IqRxa69sxkr"
         }
       ],
-      "duration_ms": 163597,
-      "name": "Corpses In Regalia",
-      "url": "https://open.spotify.com/track/6vyxUUHQQkguxWp3bH1JZZ"
+      "duration_ms": 147173,
+      "name": "FYT",
+      "url": "https://open.spotify.com/track/2yzQ3QoQKTTWdeweOCvZ2H"
     },
     {
       "added_at": "2024-02-16 18:40:38",

@@ -4,7 +4,7 @@
 
 > Pearl Jam along with the hottest alternative songs right now.
 
-574 songs - 1 day 8 hr 16 min
+575 songs - 1 day 8 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -429,6 +429,7 @@
 | [SPIT IN MY FACE!](https://open.spotify.com/track/7yBEKiv1LmO7GM4rOejhcW) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [SPIT IN MY FACE!](https://open.spotify.com/album/6UkTDMdhFiG9T1P7HCdc7o) | 2:27 | 2022-12-09 | 2022-12-25 |
 | [Spitting Off the Edge of the World](https://open.spotify.com/track/3kBBjItT7JnKi28k68dGkr) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2), [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [Spitting Off the Edge of the World](https://open.spotify.com/album/1Jkvi8YFy8FpDK23tTlrhG) | 4:17 | 2022-06-01 | 2022-09-17 |
 | [Spotless \(feat\. The Lumineers\)](https://open.spotify.com/track/0HEytGQM3bG1vKxER7IgVK) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 2:49 | 2023-09-22 |  |
+| [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-23 |  |
 | [Stars](https://open.spotify.com/track/2lGIQz1KaDIFSoAtsYZWxI) | [Andrew McMahon in the Wilderness](https://open.spotify.com/artist/716ZwtZBmwROBXcFmCzfdM) | [Stars](https://open.spotify.com/album/2T1BQNqAnEB9VC2dNrvpRR) | 4:30 | 2022-11-11 | 2022-12-10 |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2023-05-19 | 2024-03-09 |
 | [sTraNgeRs](https://open.spotify.com/track/5fpq1wF8xa5tSSlcKHdmGQ) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [sTraNgeRs](https://open.spotify.com/album/55LIhZNcBHzrjNZ89I0IRc) | 3:15 | 2022-07-08 | 2022-08-20 |

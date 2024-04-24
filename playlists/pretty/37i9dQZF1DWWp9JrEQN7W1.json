@@ -1,6 +1,6 @@
 {
   "description": "Something cute for baddies doing their hair and make-up. ",
-  "num_followers": 215396,
+  "num_followers": 216350,
   "original_name": "Getting Ready \ud83d\udc8b",
   "owner": {
     "name": "Spotify",
@@ -299,6 +299,22 @@
     {
       "added_at": "2024-04-15 20:07:02",
       "album": {
+        "name": "Planet Her",
+        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
+      },
+      "artists": [
+        {
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "duration_ms": 172626,
+      "name": "Woman",
+      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
+    },
+    {
+      "added_at": "2024-04-15 20:07:02",
+      "album": {
         "name": "Sprinter",
         "url": "https://open.spotify.com/album/5l0QlaI3wdZpE7ggoO5Rwg"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 229133,
       "name": "Sprinter",
       "url": "https://open.spotify.com/track/2FDTHlrBguDzQkp7PVj16Q"
-    },
-    {
-      "added_at": "2024-04-15 20:07:02",
-      "album": {
-        "name": "Planet Her",
-        "url": "https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW"
-      },
-      "artists": [
-        {
-          "name": "Doja Cat",
-          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
-        }
-      ],
-      "duration_ms": 172626,
-      "name": "Woman",
-      "url": "https://open.spotify.com/track/6Uj1ctrBOjOas8xZXGqKk4"
     },
     {
       "added_at": "2024-04-15 20:07:02",
@@ -631,26 +631,6 @@
     {
       "added_at": "2024-04-15 20:07:02",
       "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
-        }
-      ],
-      "duration_ms": 172797,
-      "name": "QLONA",
-      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
-    },
-    {
-      "added_at": "2024-04-15 20:07:02",
-      "album": {
         "name": "At What Cost",
         "url": "https://open.spotify.com/album/18JrBX1QkpnUSJF3oxX6RX"
       },
@@ -671,6 +651,26 @@
       "duration_ms": 176702,
       "name": "Crew (feat. Brent Faiyaz & Shy Glizzy)",
       "url": "https://open.spotify.com/track/15EPc80XuFrb2LmOzGjuRg"
+    },
+    {
+      "added_at": "2024-04-15 20:07:02",
+      "album": {
+        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
+        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 172797,
+      "name": "QLONA",
+      "url": "https://open.spotify.com/track/3XB5uhhlYSnkxpSihkNQwh"
     },
     {
       "added_at": "2024-04-15 20:07:02",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-04-15 20:07:02",
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "added_at": "2024-04-15 20:07:02",
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 143226,
       "name": "Playing Games (with Bryson Tiller) - Extended Version",
       "url": "https://open.spotify.com/track/2xyx0o4xNOLLjBSbOOdcbA"
+    },
+    {
+      "added_at": "2024-04-15 20:07:02",
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "added_at": "2024-04-15 20:07:02",
@@ -931,22 +931,6 @@
     {
       "added_at": "2024-04-15 20:07:02",
       "album": {
-        "name": "thank u, next",
-        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 190440,
-      "name": "break up with your girlfriend, i'm bored",
-      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
-    },
-    {
-      "added_at": "2024-04-15 20:07:02",
-      "album": {
         "name": "Area Codes",
         "url": "https://open.spotify.com/album/6uk3hBYbrMsSzufADPjv9K"
       },
@@ -959,6 +943,22 @@
       "duration_ms": 139325,
       "name": "Area Codes",
       "url": "https://open.spotify.com/track/7sliFe6W30tPBPh6dvZsIH"
+    },
+    {
+      "added_at": "2024-04-15 20:07:02",
+      "album": {
+        "name": "thank u, next",
+        "url": "https://open.spotify.com/album/2fYhqwDWXjbpjaIJPEfKFw"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 190440,
+      "name": "break up with your girlfriend, i'm bored",
+      "url": "https://open.spotify.com/track/4kV4N9D1iKVxx1KLvtTpjS"
     },
     {
       "added_at": "2024-04-15 20:07:02",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-15 20:07:02",
       "album": {
-        "name": "Ivy To Roses (Mixtape)",
-        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
-      },
-      "artists": [
-        {
-          "name": "Mabel",
-          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
-        }
-      ],
-      "duration_ms": 178480,
-      "name": "Don't Call Me Up",
-      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
-    },
-    {
-      "added_at": "2024-04-15 20:07:02",
-      "album": {
         "name": "Mr. Morale & The Big Steppers",
         "url": "https://open.spotify.com/album/79ONNoS4M9tfIA1mYLBYVX"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 239026,
       "name": "Die Hard",
       "url": "https://open.spotify.com/track/2g6tReTlM2Akp41g0HaeXN"
+    },
+    {
+      "added_at": "2024-04-15 20:07:02",
+      "album": {
+        "name": "Ivy To Roses (Mixtape)",
+        "url": "https://open.spotify.com/album/0syM7OUAhV7S6XmOa4nLUZ"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        }
+      ],
+      "duration_ms": 178480,
+      "name": "Don't Call Me Up",
+      "url": "https://open.spotify.com/track/5WHTFyqSii0lmT9R21abT8"
     },
     {
       "added_at": "2024-04-15 20:07:02",
@@ -1155,26 +1155,6 @@
     {
       "added_at": "2024-04-15 20:07:02",
       "album": {
-        "name": "Bongos (feat. Megan Thee Stallion)",
-        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
-      },
-      "artists": [
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        },
-        {
-          "name": "Megan Thee Stallion",
-          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
-        }
-      ],
-      "duration_ms": 175099,
-      "name": "Bongos (feat. Megan Thee Stallion)",
-      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
-    },
-    {
-      "added_at": "2024-04-15 20:07:02",
-      "album": {
         "name": "BEYONC\u00c9 [Platinum Edition]",
         "url": "https://open.spotify.com/album/2UJwKSBUz6rtW4QLK74kQu"
       },
@@ -1191,6 +1171,26 @@
       "duration_ms": 323480,
       "name": "Drunk in Love (feat. Jay-Z)",
       "url": "https://open.spotify.com/track/6jG2YzhxptolDzLHTGLt7S"
+    },
+    {
+      "added_at": "2024-04-15 20:07:02",
+      "album": {
+        "name": "Bongos (feat. Megan Thee Stallion)",
+        "url": "https://open.spotify.com/album/3XYWRia8E82cJI6WrDLTTQ"
+      },
+      "artists": [
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "duration_ms": 175099,
+      "name": "Bongos (feat. Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/4YQImHflXSiIMXntcwPkx8"
     },
     {
       "added_at": "2024-04-15 20:07:02",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-04-15 20:07:02",
       "album": {
-        "name": "eternal sunshine (slightly deluxe)",
-        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
-      },
-      "artists": [
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 163278,
-      "name": "true story",
-      "url": "https://open.spotify.com/track/72bYIhu9vxqA14xM3j7Max"
-    },
-    {
-      "added_at": "2024-04-15 20:07:02",
-      "album": {
         "name": "In Ha Mood",
         "url": "https://open.spotify.com/album/0CQzO0dUktGpymhtvrIXqW"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 129360,
       "name": "In Ha Mood",
       "url": "https://open.spotify.com/track/0yUaLqhsVsguBpoOPL4cO7"
+    },
+    {
+      "added_at": "2024-04-15 20:07:02",
+      "album": {
+        "name": "eternal sunshine (slightly deluxe)",
+        "url": "https://open.spotify.com/album/5Csjy4XeA7KnizkhIvI7y2"
+      },
+      "artists": [
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 163278,
+      "name": "true story",
+      "url": "https://open.spotify.com/track/72bYIhu9vxqA14xM3j7Max"
     },
     {
       "added_at": "2024-04-15 20:07:02",

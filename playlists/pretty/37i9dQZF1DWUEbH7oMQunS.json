@@ -1,6 +1,6 @@
 {
   "description": "Enjoy this deep and meditative list  alone or with a friend and a good cup of coffee.",
-  "num_followers": 60667,
+  "num_followers": 60677,
   "original_name": "The Good Cup",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "I Will Remember",
-        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
-      },
-      "artists": [
-        {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
-        }
-      ],
-      "duration_ms": 351646,
-      "name": "I Will Remember",
-      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Jesus Is___. Music Project",
         "url": "https://open.spotify.com/album/05hvkkM29nIor7aT515II2"
       },
@@ -531,18 +515,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Mother's Love",
-        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+        "name": "I Will Remember",
+        "url": "https://open.spotify.com/album/3neTfbJMwVQm7KfjUSR1iB"
       },
       "artists": [
         {
-          "name": "Antonious",
-          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
         }
       ],
-      "duration_ms": 60944,
-      "name": "Mother's Love",
-      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
+      "duration_ms": 351646,
+      "name": "I Will Remember",
+      "url": "https://open.spotify.com/track/6wJjEoovGpsy4wBpkEgNj8"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -559,6 +543,22 @@
       "duration_ms": 273960,
       "name": "Great Is Our God",
       "url": "https://open.spotify.com/track/5TO4KuGzOBKG6CqxHm4wRD"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Mother's Love",
+        "url": "https://open.spotify.com/album/1meXXuh2oMMPXaxwidgVh0"
+      },
+      "artists": [
+        {
+          "name": "Antonious",
+          "url": "https://open.spotify.com/artist/4bILf77uMe0hzVlzHI5NYJ"
+        }
+      ],
+      "duration_ms": 60944,
+      "name": "Mother's Love",
+      "url": "https://open.spotify.com/track/4okDfRfgksPHIfcQg0EO7f"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -595,26 +595,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "You Are Good",
-        "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
-      },
-      "artists": [
-        {
-          "name": "SEU Worship",
-          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
-        },
-        {
-          "name": "Chelsea Plank",
-          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
-        }
-      ],
-      "duration_ms": 358373,
-      "name": "You Are Good",
-      "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "At the Table",
         "url": "https://open.spotify.com/album/7F9wiwGCJH21VLoTIYlAKB"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 217088,
       "name": "Just Come",
       "url": "https://open.spotify.com/track/2guJoFUfq57i2jhjOcQI5k"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "You Are Good",
+        "url": "https://open.spotify.com/album/1xwUCBzv3EXSNJJwx8XUgX"
+      },
+      "artists": [
+        {
+          "name": "SEU Worship",
+          "url": "https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs"
+        },
+        {
+          "name": "Chelsea Plank",
+          "url": "https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y"
+        }
+      ],
+      "duration_ms": 358373,
+      "name": "You Are Good",
+      "url": "https://open.spotify.com/track/0bZue6mTaRWAXVyINIcTTS"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -667,6 +667,22 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
+        "name": "Hope Where There Was None",
+        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
+      },
+      "artists": [
+        {
+          "name": "Loud Harp",
+          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
+        }
+      ],
+      "duration_ms": 196040,
+      "name": "Weeping Mary",
+      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
         "name": "What You Paid For",
         "url": "https://open.spotify.com/album/35LPGmmn5mSgLjTVC3mkgw"
       },
@@ -683,22 +699,6 @@
       "duration_ms": 249608,
       "name": "What You Paid For",
       "url": "https://open.spotify.com/track/3HT2NQ1t7PdZTNodCVC5Dv"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
-        "name": "Hope Where There Was None",
-        "url": "https://open.spotify.com/album/0r8wBWtCnNlJP5YE0vPLO5"
-      },
-      "artists": [
-        {
-          "name": "Loud Harp",
-          "url": "https://open.spotify.com/artist/1Tzbi2wUUDgttZfg5u6Gqu"
-        }
-      ],
-      "duration_ms": 196040,
-      "name": "Weeping Mary",
-      "url": "https://open.spotify.com/track/3S96UVk0yav8F1MagcPYas"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -815,22 +815,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Psalm 68",
-        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
-      },
-      "artists": [
-        {
-          "name": "Poor Bishop Hooper",
-          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Psalm 68",
-      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Fantasize",
         "url": "https://open.spotify.com/album/41Ifm24Z3c8pAIFxMWUJp3"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 224173,
       "name": "Celeste",
       "url": "https://open.spotify.com/track/32vbfNxA95SEawzrQSqcgv"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Psalm 68",
+        "url": "https://open.spotify.com/album/6dWGYR2VwkucY8CJgPFA3g"
+      },
+      "artists": [
+        {
+          "name": "Poor Bishop Hooper",
+          "url": "https://open.spotify.com/artist/7AgYdpiGbObyY3WVJXxhi0"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Psalm 68",
+      "url": "https://open.spotify.com/track/6j0QBcktzAGf7n5lGEVhPJ"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
-      },
-      "artists": [
-        {
-          "name": "In Cathedrals",
-          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
-        }
-      ],
-      "duration_ms": 252631,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
-    },
-    {
-      "added_at": "2023-07-28 04:02:00",
-      "album": {
         "name": "Undress My Heart",
         "url": "https://open.spotify.com/album/0itCxwUR1vUV06qJhjf6Jo"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 225961,
       "name": "Undress My Heart",
       "url": "https://open.spotify.com/track/0xxMI6zUsRDCGz0D5mcmcI"
+    },
+    {
+      "added_at": "2023-07-28 04:02:00",
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/0dtL3GrsD3XfJA9YMBDhN1"
+      },
+      "artists": [
+        {
+          "name": "In Cathedrals",
+          "url": "https://open.spotify.com/artist/2a3Z1GLgmyfTgeK4r5Zu3n"
+        }
+      ],
+      "duration_ms": 252631,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/1ap1u1rzIpmJu9bRwyxYLa"
     },
     {
       "added_at": "2023-07-28 04:02:00",
@@ -1411,22 +1411,18 @@
     {
       "added_at": "2023-07-28 04:02:00",
       "album": {
-        "name": "One Thing",
-        "url": "https://open.spotify.com/album/6X3dptuKSAda4W5zhUJutg"
+        "name": "There is a King (Live Rehearsal Demo)",
+        "url": "https://open.spotify.com/album/6BkBnHTTD4tkG7L1hAVtKY"
       },
       "artists": [
         {
           "name": "The War Within",
           "url": "https://open.spotify.com/artist/0OYG29hioeFTMAf8rYSJPh"
-        },
-        {
-          "name": "Taylor Goertzen",
-          "url": "https://open.spotify.com/artist/3qsSL0u4vEMCMgKKHNRmt9"
         }
       ],
-      "duration_ms": 188586,
-      "name": "One Thing",
-      "url": "https://open.spotify.com/track/37DdH0CAgdoNPYAKExmgfc"
+      "duration_ms": 222421,
+      "name": "There is a King - Live Rehearsal Demo",
+      "url": "https://open.spotify.com/track/01cHeisuuPMp8eV3D2I1dN"
     },
     {
       "added_at": "2023-07-28 04:02:00",

@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Alok, Yawanawa Saiti Kaya
 
-294 songs - 16 hr 2 min
+294 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,7 +249,7 @@
 | [Sina Vaishu](https://open.spotify.com/track/3uKyFQLFROMWoaNAVQ7Mw4) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Yawanawa Saiti Kaya](https://open.spotify.com/artist/6LGmos5f8NjKasqSazopGg) | [THE FUTURE IS ANCESTRAL](https://open.spotify.com/album/6pmFJ5VC7URN6Q7xI0SYt3) | 3:29 | 2024-04-19 |  |
 | [Sirene](https://open.spotify.com/track/3LakWxXfyJkveLGXV0n4yT) | [Kohen](https://open.spotify.com/artist/3Dkul6nShja7zaggvl66rB), [RUSHÖ](https://open.spotify.com/artist/55Ucoc9siWcgzIZLoe8m1N) | [Sirene](https://open.spotify.com/album/0h4aiXFDpKfbU7UBrs8OoW) | 4:07 | 2023-07-21 | 2023-11-11 |
 | [So Far So Good](https://open.spotify.com/track/24T4v5Rzgo6I7YSymSIU8n) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [So Far So Good](https://open.spotify.com/album/5xgM97vD71r0gHCCcRZj11) | 2:42 | 2024-03-08 | 2024-03-23 |
-| [Sophisticated](https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Reduto EP](https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd) | 5:40 | 2024-04-19 |  |
+| [Sophisticated](https://open.spotify.com/track/0Wz8Q9U1m2UkZxCdYa47eH) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [Coppola](https://open.spotify.com/artist/3ZWMer3TwUiMxSFYqgfurT), [2STRANGE](https://open.spotify.com/artist/7mnsTGmApJRfHFs1ymmBIi) | [Reduto EP](https://open.spotify.com/album/6Enq0QVFspJuwf1hS6Qrdd) | 3:27 | 2024-04-19 |  |
 | [Speak Up \- Slow Motion, Duarte Remix](https://open.spotify.com/track/2zgaqDf1CttaQa7BRPgJpI) | [Malive](https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm), [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G), [Slow Motion](https://open.spotify.com/artist/6jmHuLfbWlq34KedQ7mA5I), [Duarte](https://open.spotify.com/artist/11ofEe58zrex8X5NBbWhsk) | [Speak Up \(Slow Motion, Duarte Remix\)](https://open.spotify.com/album/5mS4lf4iTrTdwxiCIgdI3Q) | 4:18 | 2023-10-27 | 2024-03-23 |
 | [Spinnin' Circles](https://open.spotify.com/track/4AtbLOzVyOaFbzEzkQz15Q) | [Rooftime](https://open.spotify.com/artist/4QZjx3AfLqJhGYkmWAEUm7) | [Spinnin' Circles](https://open.spotify.com/album/7JMeqjNj2dDmm9hoDtgpio) | 3:46 | 2023-11-03 | 2024-03-23 |
 | [Spirit](https://open.spotify.com/track/0oN2LfOJQfHiG2SkSJSW6o) | [Mary Mesk](https://open.spotify.com/artist/7Fc6qlNa6F4ONSLfJjlfjJ) | [Spirit](https://open.spotify.com/album/3Hj0YMITtJKGtG6ZwXEE4K) | 3:45 | 2023-07-21 | 2023-11-11 |

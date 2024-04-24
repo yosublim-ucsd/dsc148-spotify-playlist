@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 
 > A alegria do Senhor é a vossa força! Entre no groove com o melhor do Soul, Funk e Disco Cristão\. Foto: Eli Soares
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,528 likes - 80 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,526 likes - 80 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 30 | [Frequência \- Ao Vivo](https://open.spotify.com/track/1ZU5h0Sl5LDzoTort3JgC9) | [Felipe Vilela](https://open.spotify.com/artist/7oDJQjouTE3FiFv2TXUxPp), [Gabriela Gomes](https://open.spotify.com/artist/2e84TbIwlMbSgm1CO6chyE) | [Frequência \(Ao Vivo\)](https://open.spotify.com/album/4KQBubvpjfihdzAkgAq6ma) | 4:15 |
 | 31 | [Pela Fé \- Ao Vivo](https://open.spotify.com/track/5WY6sqvKb3MnrrhrHDR5VQ) | [Adhemar De Campos](https://open.spotify.com/artist/03TpTPLRclj2iknzWXAXjP) | [Pela Fé \(Ao Vivo\)](https://open.spotify.com/album/09V3bEnCxW34i5XkCRl4o4) | 4:12 |
 | 32 | [O Céu É o Limite](https://open.spotify.com/track/7d3BPwhS1MLufNHPWhM7rD) | [FLG](https://open.spotify.com/artist/7xf7H8QcLCbhkCTBngAhFX), [Binhu](https://open.spotify.com/artist/2nHUTqOWnonUf8hmQBmAgE) | [O Céu É o Limite](https://open.spotify.com/album/4QX2r7tjScwYK7SGdEf1dn) | 4:43 |
-| 33 | [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 |
+| 33 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
 | 34 | [Ele Me Amou](https://open.spotify.com/track/7G7I1JdYyqt4tmRqyl9Y9l) | [Wellington Caetano](https://open.spotify.com/artist/2sjxlztngIj8gPo1NDFp1V), [Pedras Vivas](https://open.spotify.com/artist/2vk7Xg1PFNhLuqJlXTRy8F), [Rodney Graciano](https://open.spotify.com/artist/3eAqzvv41VPIqYgiYSqZDh) | [Ele Me Amou](https://open.spotify.com/album/1mXxOYsw5Zg4CebKviYRRA) | 4:29 |
 | 35 | [Crente Que Ora \- Ao Vivo](https://open.spotify.com/track/1uFnuyGdxbKvPYhKGv8qd8) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Luz Do Mundo \(Ao Vivo\)](https://open.spotify.com/album/6pBdbdK7BgiEvdBXLyXBvj) | 4:40 |
-| 36 | [O Que Há Por Dentro](https://open.spotify.com/track/7rJEuCj9iX6BYnhfI2eJWi) | [Rafa Blauth](https://open.spotify.com/artist/2nnZzrOxN6dN3zOae5MeHU) | [Sobre Deixar](https://open.spotify.com/album/3WPXMHvq0OIQBABBukqimt) | 3:40 |
+| 36 | [Bem Perto](https://open.spotify.com/track/2QWC0k9TjXqyLrF1W8c8IJ) | [Discopraise](https://open.spotify.com/artist/3YX2DRQWYA1DpZC6R50JMe) | [Bem Perto](https://open.spotify.com/album/5rRpDFmpjetBCTQDTDRIZV) | 3:50 |
 | 37 | [Brighter Day \- Kirk's Mix](https://open.spotify.com/track/1LM3tWoGx2tRMDKMnEwBjC) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [A Season Of Remixes](https://open.spotify.com/album/7jI7E2aLZZucXkAQQlJMEV) | 4:11 |
 | 38 | [A Noiva \- Ao Vivo](https://open.spotify.com/track/2GLzW6hGMiPmYL15dPhbu5) | [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [A Noiva \(Ao Vivo\)](https://open.spotify.com/album/5el6PFntbrTfCu6dVZID5o) | 5:43 |
 | 39 | [Aleluia](https://open.spotify.com/track/14EMbN1HUrgQsXQInLmn94) | [Leidy Murilho](https://open.spotify.com/artist/4tld50GNxSiqbzRGRi5nwv) | [Aleluia](https://open.spotify.com/album/1nT9F98Aluuo222Nbh3ClI) | 2:51 |
@@ -79,8 +79,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZ7fMlF5ORU.md) - [plain]
 | 69 | [Instrumento Teu](https://open.spotify.com/track/1VakySJFPUTEd5UFp5omL5) | [Música Legionária](https://open.spotify.com/artist/1K8m2SYdmpAHFe54dt5nZB), [Aléxia França](https://open.spotify.com/artist/4Mf8eq3vKfsKTNANngaZIT), [Carlos Eduardo](https://open.spotify.com/artist/7KuXPiV6eFvXjyseedTPxp) | [Espetáculo Música Legionária: Os Mortos Não Morrem!](https://open.spotify.com/album/1LzN90fTqsivC9jEZlXPde) | 4:38 |
 | 70 | [Glória, Honra e Poder](https://open.spotify.com/track/4UcIesX6rkAqrSikVU12tr) | [Robson Nascimento](https://open.spotify.com/artist/3rd7BCaAWyKxJFKiSjlxdd) | [Falando Dele](https://open.spotify.com/album/38jXLFKb9lamBZS4v8JzjU) | 5:09 |
 | 71 | [Eu Não Desisto](https://open.spotify.com/track/2Th1VRNsvfX9aYqbmXvZmg) | [Israel Salazar](https://open.spotify.com/artist/5EkloP4VRw1NBP9NypZpDC) | [Avante](https://open.spotify.com/album/6Kx7Fuhm4oWY8AuDqUfQPI) | 5:49 |
-| 72 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
-| 73 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
+| 72 | [Pela Fé](https://open.spotify.com/track/1ifIvrgG2yMsS1scACHuLu) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Laboratório Do Groove](https://open.spotify.com/album/1h9kmu7im7RoAwJ5NwiFem) | 4:11 |
+| 73 | [Agindo Deus](https://open.spotify.com/track/0Tdr4unuCWQ6DtEOGAQims) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [360 Graus](https://open.spotify.com/album/6i9ALb6S9vy8OAjcbBjDwq) | 3:54 |
 | 74 | [Porque Ele Vive](https://open.spotify.com/track/2k4JHKYcUN0CvNTZgrSTI3) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Eli Soares](https://open.spotify.com/album/24rZ2VHWqUT9qd6wsKjnOT) | 3:51 |
 | 75 | [Tudo Passa](https://open.spotify.com/track/4K1VIN5uX9IqfseTbGzsFJ) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Tudo Passa](https://open.spotify.com/album/72dx9PBvtQPfSH876B3Cpc) | 3:56 |
 | 76 | [Dele, Com Ele](https://open.spotify.com/track/6cytlMsScIOGrHiqWSeaPX) | [Eli Soares](https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V) | [Dele, Com Ele](https://open.spotify.com/album/0gV7RyIBPe0RIMo5qjdqHQ) | 2:53 |

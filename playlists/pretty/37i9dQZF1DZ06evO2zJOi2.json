@@ -1,12 +1,12 @@
 {
-  "description": "This Is Morgan Wallen. Sus mejores \u00e9xitos, todos en una playlist.",
-  "num_followers": 592981,
+  "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
+  "num_followers": 593334,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGYxOGI3ODg5OTU3MjE3NGMzNjE0ODQwYWY3ZTg1YTY3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDkzMzNkY2MxNmMzYjA3ZWQxZTBjMzE2N2Y2NzQ3Mjg0",
   "tracks": [
     {
       "added_at": null,
@@ -363,6 +363,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 157693,
+      "name": "If I Know Me",
+      "url": "https://open.spotify.com/track/03d8S7FBY2kIzhP0E7l4rn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mamaw's House",
         "url": "https://open.spotify.com/album/33U85sBjvKsbCsYo5DeEUa"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 187269,
       "name": "Mamaw's House",
       "url": "https://open.spotify.com/track/3eNOyXmzuA46bUvi8FkIoW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 157693,
-      "name": "If I Know Me",
-      "url": "https://open.spotify.com/track/03d8S7FBY2kIzhP0E7l4rn"
     },
     {
       "added_at": null,
@@ -467,6 +467,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 206146,
+      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dangerous: The Double Album (Bonus)",
         "url": "https://open.spotify.com/album/6LBPsXUjVuNe9ywLY4xgvX"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 154960,
       "name": "Turn You Down (HARDY feat. Morgan Wallen, Zakk Wylde)",
       "url": "https://open.spotify.com/track/3X0773BLlMv6RMq0wkZZAk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/2NwE6uGGwiaT5gyBbAszd5"
-      },
-      "artists": [
-        {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
-        },
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 206146,
-      "name": "Hangin\u2019 On (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/6KQTiNgEbTRMREYeVCZMXU"
     },
     {
       "added_at": null,

@@ -1006,7 +1006,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 211265,
       "name": "Believe Me",
       "url": "https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG"
@@ -6046,6 +6046,28 @@
       "duration_ms": 120439,
       "name": "PARIWO",
       "url": "https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9"
+    },
+    {
+      "album": {
+        "name": "RnB",
+        "url": "https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu"
+      },
+      "artists": [
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "Bnxn",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175777,
+      "name": "Party Monster",
+      "url": "https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG"
     },
     {
       "album": {

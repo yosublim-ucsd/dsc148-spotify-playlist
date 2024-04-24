@@ -795,6 +795,42 @@
     },
     {
       "album": {
+        "name": "Der Sommer ist vorbei (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3x9knypYf8RHLk3baTPRxq"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189373,
+      "name": "Delfine",
+      "url": "https://open.spotify.com/track/0tOocgAVu0c4L8TKnhsI63"
+    },
+    {
+      "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173186,
+      "name": "Der Letzte Tag",
+      "url": "https://open.spotify.com/track/5R8IzUnU6YAB409rYK3Of5"
+    },
+    {
+      "album": {
         "name": "Es war alles am besten",
         "url": "https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22"
       },

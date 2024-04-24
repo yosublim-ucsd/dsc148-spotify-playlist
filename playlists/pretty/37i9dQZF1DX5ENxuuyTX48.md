@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 
 > wru? OTW! Cover: Eclat Story, Luqman Podolski
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,055 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,078 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 15 | [Tentang Rindu](https://open.spotify.com/track/3mHZmKLu4qSv8OpJBUlHmg) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Live At SRN: The Greatest Composer](https://open.spotify.com/album/3QPyHmxHOFI3GvwucjBWO9) | 4:29 |
 | 16 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 |
 | 17 | [Melompat Lebih Tinggi \(Jakarta Movin's Version\)](https://open.spotify.com/track/2asBhuXNAiDU50SWx3PlJI) | [Jakarta Movin](https://open.spotify.com/artist/6iBBrO0lIKlUjco8HXY0hB) | [Melompat Lebih Tinggi \(Jakarta Movin's Version\)](https://open.spotify.com/album/5uYAFkuLvDTv6xyxzQzHMg) | 3:25 |
-| 18 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
+| 18 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 19 | [Perjalanan](https://open.spotify.com/track/7oU8qxMMlMPVMjJU9Fhyfa) | [Virzha](https://open.spotify.com/artist/5iHfwaDNZ11Y0yAyQVYDmy) | [Perjalanan](https://open.spotify.com/album/6sJqvmNlN6cXCt6XEoHylp) | 3:03 |
-| 20 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
+| 20 | [Bunga Hati](https://open.spotify.com/track/4AfhlJghKIWkXa8sfFEXVd) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Bunga Hati](https://open.spotify.com/album/4F4XK6lkrHveOTKSGMeGF4) | 2:53 |
 | 21 | [Kenanglah \(2024 Remake\)](https://open.spotify.com/track/5uaLmFz2SZ1hTRnjhoywZc) | [Zigaz](https://open.spotify.com/artist/5PQrhZxL9I7l0kvMBUc5fp) | [Kenanglah \(2024 Remake\)](https://open.spotify.com/album/5kWV87iUZxvEqSWwAnk2Oy) | 3:33 |
 | 22 | [Reverie](https://open.spotify.com/track/3tEHmpoGjvi6FAcu0YGUNi) | [Aruna Dawn](https://open.spotify.com/artist/0IR68oTOmMzCDoidJ7FICS) | [Reverie](https://open.spotify.com/album/5cMhH6CED8TexREEwEKHQi) | 2:53 |
 | 23 | [Mati\-Matian](https://open.spotify.com/track/6XKEElbr3cWmnUw6a5HRBV) | [Mahalini](https://open.spotify.com/artist/3wOsYKZM0zcKNasi3I7fP4) | [Mati\-Matian](https://open.spotify.com/album/22rc3bBMyJemUaLBe7chVV) | 4:04 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5ENxuuyTX48.md) - [plain]
 | 46 | [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 |
 | 47 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |
 | 48 | [Usik](https://open.spotify.com/track/5GgRntbjr23OK9MMST02di) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW) | [Riuh](https://open.spotify.com/album/0t4RNN2t8lhd9yI9YxFHk5) | 5:11 |
-| 49 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
-| 50 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
+| 49 | [Senja Teduh Pelita](https://open.spotify.com/track/4jlhUj1aT0IxzaodNEV7xs) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Senja Teduh Pelita](https://open.spotify.com/album/7MOtj3C2YQZYXJDL7nInP0) | 4:30 |
+| 50 | [Asing](https://open.spotify.com/track/1QLZjY2AUftrVR7I3E0c4J) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [Asing](https://open.spotify.com/album/08pl2TGC3mp8XJ9CUfzID7) | 3:13 |
 
 Snapshot ID: `MTcxMzUwNTQzNiwwMDAwMDAwMDlkYjk4NDc3MTk2ZThiNGE0NjEwNjhlNTgxNmQ2YmE2`

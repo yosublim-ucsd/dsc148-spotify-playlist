@@ -2,7 +2,7 @@
 
 ### [This Is ROSALÍA](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4lAAFJ)
 
-> This is ROSALÍA\. The essential tracks, all in one playlist.
+> This is ROSALÍA\. Todos os maiores hits em uma só playlist.
 
 54 songs - 2 hr 32 min
 
@@ -52,9 +52,9 @@
 | [Oral](https://open.spotify.com/track/3re91K41XNVsViNbCPumTw) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Oral](https://open.spotify.com/album/4JQVXceKAkVXlkCxh1CY0f) | 3:42 | 2023-12-13 | 2024-04-19 |
 | [Oral \- Olof Dreijer Remix](https://open.spotify.com/track/1RJL72qQlZxHUIxKEuQWDg) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Olof Dreijer](https://open.spotify.com/artist/1Wxx3yxd6gZsNiAF1OwLk0) | [Oral \(Olof Dreijer Remix\)](https://open.spotify.com/album/0AjgSMwJRTlAo4NTz24mrw) | 5:21 | 2024-04-19 |  |
 | [PIENSO EN TU MIRÁ \- Cap.3: Celos](https://open.spotify.com/track/5r8mGKhCDIVWb3AG4hm0l0) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 3:13 | 2023-11-10 |  |
-| [PRESO \- Cap.6: Clausura](https://open.spotify.com/track/1Yaw3jxKlBUXkfIo2FHG2M) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 0:40 | 2024-03-13 |  |
+| [PRESO \- Cap.6: Clausura](https://open.spotify.com/track/1Yaw3jxKlBUXkfIo2FHG2M) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 0:40 | 2024-03-13 | 2024-04-24 |
 | [PROMESA](https://open.spotify.com/track/75rqqKvzJCGv2oq9C4yFDt) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [RR](https://open.spotify.com/album/50uChhk7AKkzDKytDixjYW) | 3:16 | 2023-11-10 |  |
-| [QUE NO SALGA LA LUNA \- Cap.2: Boda](https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 4:29 | 2023-11-10 | 2024-04-23 |
+| [QUE NO SALGA LA LUNA \- Cap.2: Boda](https://open.spotify.com/track/6HpgdL4zUpuyXCzvAhgR5a) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [El Mal Querer](https://open.spotify.com/album/355bjCHzRJztCzaG5Za4gq) | 4:29 | 2023-11-10 |  |
 | [Que Se Muere Que Se Muere](https://open.spotify.com/track/4qEG0SIXAnjnd8KFH4T9Eg) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [Los Ángeles](https://open.spotify.com/album/7mGsUwMuhsKiOKx9X9k7tj) | 1:28 | 2023-11-10 |  |
 | [Relación \- Remix](https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht), [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [Relación \(Remix\)](https://open.spotify.com/album/2O985DZAb4i6M6iu4HWqSX) | 4:07 | 2023-11-10 |  |
 | [SAOKO](https://open.spotify.com/track/2FYGZDfsAnNsrm1gVbyKnG) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [MOTOMAMI](https://open.spotify.com/album/6jbtHi5R0jMXoliU2OS0lo) | 2:17 | 2023-11-10 |  |

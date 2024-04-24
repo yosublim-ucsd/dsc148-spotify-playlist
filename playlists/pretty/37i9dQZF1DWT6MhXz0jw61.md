@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT6MhXz0jw61.md) - [plain]
 
 > Chillout hip\-hop vibes\. Cover: Buddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,314,575 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,314,445 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

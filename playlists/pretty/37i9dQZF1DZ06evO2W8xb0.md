@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 
 ### [This Is Chief Commander Ebenezer Obey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2W8xb0)
 
-> This is Chief Commander Ebenezer Obey\. The essential tracks, all in one playlist.
+> This is Chief Commander Ebenezer Obey\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,995 likes - 50 songs - 9 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,999 likes - 50 songs - 9 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,16 +29,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 | 19 | [Ero Mi Ko Lonso](https://open.spotify.com/track/3SKSIGoNyptVvZlXIt3GIZ) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 |
 | 20 | [Aiye Wa a Toro](https://open.spotify.com/track/59vUl7VOXeKlNouCXruXFw) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: London La Wa Yi](https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8) | 20:18 |
 | 21 | [Edumare Soro Mi Dayo](https://open.spotify.com/track/4pEkHTDnQCL8ZueyeUytzL) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Board Members](https://open.spotify.com/album/1AjpzZFOINVgNGQT9FmEG5) | 18:51 |
-| 22 | [Ijesha \(Juju Yoruba\)](https://open.spotify.com/track/61L0RfTitMi3HTIGUnIecI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:18 |
+| 22 | [Fimi Lokan Bale](https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 20:02 |
 | 23 | [Ope Fun Oluwa](https://open.spotify.com/track/1yLSuh0RjDNBqGZHvBwQ1D) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:57 |
-| 24 | [Fimi Lokan Bale](https://open.spotify.com/track/6u0xCm7QgTIgcxlZnG8GAm) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 20:02 |
-| 25 | [Oro Seniwo](https://open.spotify.com/track/2a3ZAjafHuWFHdb8bYqR35) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: London La Wa Yi](https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8) | 3:08 |
-| 26 | [Lanre Badmus](https://open.spotify.com/track/0Gk4m1yedgsAMrFFGe9nIV) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:01 |
-| 27 | [Iba F'Oluwa/Ajokodabi Ile \(Highlife Juju Yoruba\)](https://open.spotify.com/track/6kkJJ1jkn03m7TVR8DyXFA) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 7:37 |
-| 28 | [Yungba Yungba](https://open.spotify.com/track/0RzBygA0zi6GkV3Qu9U8tv) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 19:22 |
+| 24 | [Ijesha \(Juju Yoruba\)](https://open.spotify.com/track/61L0RfTitMi3HTIGUnIecI) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 3:18 |
+| 25 | [Lanre Badmus](https://open.spotify.com/track/0Gk4m1yedgsAMrFFGe9nIV) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 1](https://open.spotify.com/album/5I9eSZlRxLwoNN1SwrxLlS) | 6:01 |
+| 26 | [Oro Seniwo](https://open.spotify.com/track/2a3ZAjafHuWFHdb8bYqR35) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: London La Wa Yi](https://open.spotify.com/album/3PDJfa0W0KlykYFdYeYJx8) | 3:08 |
+| 27 | [Yungba Yungba](https://open.spotify.com/track/0RzBygA0zi6GkV3Qu9U8tv) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Origina 16](https://open.spotify.com/album/38qjohUvg4QXexd8Xji2F6) | 19:22 |
+| 28 | [Iba F'Oluwa/Ajokodabi Ile \(Highlife Juju Yoruba\)](https://open.spotify.com/track/6kkJJ1jkn03m7TVR8DyXFA) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Ebenezer Obey in London](https://open.spotify.com/album/02N1jGGr6BjwUFO2KlCN9t) | 7:37 |
 | 29 | [Vanity](https://open.spotify.com/track/59K3OX1LDIHUPWyNs0GfZo) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [Mood and Ecstasy](https://open.spotify.com/album/2UHF1nV4IqK6mkMr04NB6f) | 3:39 |
-| 30 | [Edumare Dari Jiwon Medley, Pt\. 2](https://open.spotify.com/track/4nqYmetLP1PHenzQiIlLud) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Edumare Dari Jiwon](https://open.spotify.com/album/5IAW3IhjPWA6sYIVjsDunu) | 19:38 |
-| 31 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 |
+| 30 | [Igba Owuro Lawa Medley \(Part 1\)](https://open.spotify.com/track/5NaWBdhpH5JjXJ69jmidI3) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Igba Owuro Lawa](https://open.spotify.com/album/3yiN0cydUFVEIT5fdnY78U) | 20:11 |
+| 31 | [Edumare Dari Jiwon Medley, Pt\. 2](https://open.spotify.com/track/4nqYmetLP1PHenzQiIlLud) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents Edumare Dari Jiwon](https://open.spotify.com/album/5IAW3IhjPWA6sYIVjsDunu) | 19:38 |
 | 32 | [Edumare Lon Pese](https://open.spotify.com/track/1CXTFyrMaGRK6MboiNuQIp) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Obey In the 60's \(Vol 1\)](https://open.spotify.com/album/5d7oZqNlwwvJCSExmupLH9) | 2:58 |
 | 33 | [Mukulu Muke Maa Jo Medley, Part\. 2](https://open.spotify.com/track/28jPzP1GfuAmxXXHqEaRul) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv), [Inter Reformers Band](https://open.spotify.com/artist/19fFyidF8bB0CkXRXVEf4S) | [51 Lex Presents Mukulu Muke Maa Jo](https://open.spotify.com/album/0xX3HKPxKe7AvHgDwS3MYS) | 19:21 |
 | 34 | [Mo Tun Gbede](https://open.spotify.com/track/6O3jggcZey498goeEfHCjA) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [Evergreen Songs Original 3](https://open.spotify.com/album/5xH2leDDB8KDsMdzaTSKsR) | 19:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2W8xb0.md) - [plain]
 | 49 | [Ajo Ni Mowa](https://open.spotify.com/track/2qXfBppgA4buq508Kdo7ZG) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Osika Gbagbe Ola](https://open.spotify.com/album/1FCXNNPwm8sdoodtHhDeH3) | 2:43 |
 | 50 | [Baba Fona Han Wa](https://open.spotify.com/track/2u2K81Cdw0SueqpsS3Euyo) | [Chief Commander Ebenezer Obey](https://open.spotify.com/artist/508KmjoFyijrHprjyRkrtv) | [51 Lex Presents: Ajo Yio](https://open.spotify.com/album/7fUmMhVQ7z8KUZVfcKpBIR) | 18:48 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGFhYjYxMmJjYzY4NGU4ZDNhMzQ3NzY3NDFhNmM2OGRj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGNlNzM1NjRmMWMwNDVkYTExOTBhNzM4ZmYwNWU3ODli`

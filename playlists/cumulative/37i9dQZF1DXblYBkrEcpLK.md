@@ -2,9 +2,9 @@
 
 ### [EQUAL Anime](https://open.spotify.com/playlist/37i9dQZF1DXblYBkrEcpLK)
 
-> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: 花澤香菜
+> アニメシーンを彩る女性アーティスト達を特集！ Celebrate the great female artists from anime culture\. Cover: LiSA
 
-649 songs - 1 day 19 hr 24 min
+651 songs - 1 day 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -338,7 +338,7 @@
 | [Verbal Justice](https://open.spotify.com/track/6H3uKz8oNZcNbzbZmfS0av) | [ヒプノシスマイク \-D.R.B\- \(中王区 言の葉党\)](https://open.spotify.com/artist/50a4H3hGs6sNLYCsLUsKgV) | [Verbal Justice](https://open.spotify.com/album/7wTviqCrJbdg7lxKClUJtf) | 3:04 | 2023-04-11 | 2023-09-27 |
 | [Viewtiful Days!](https://open.spotify.com/track/5A6Kb2VW9EHfYUFleCxQLf) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [Viewtiful Days!](https://open.spotify.com/album/2XdpeZdn9mdD7UNMmdiUNV) | 4:04 | 2022-06-12 | 2022-07-28 |
 | [VIVID VIVID](https://open.spotify.com/track/3XfxTyBhVF1AbWAnSmKk1p) | [Yurika Kubo](https://open.spotify.com/artist/1nip84eOO3g9fTxkaXf8rS) | [VIVID VIVID](https://open.spotify.com/album/1CbeNHhGnnTd1Z5UEhPFUz) | 3:49 | 2022-06-24 | 2022-07-07 |
-| [VIVID WORLD](https://open.spotify.com/track/13gw5jBlx5lupIiuKFfAtm) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 4:10 | 2024-04-16 |  |
+| [VIVID WORLD](https://open.spotify.com/track/13gw5jBlx5lupIiuKFfAtm) | [ASCA](https://open.spotify.com/artist/5pjjlQXYjoMFWdjdKOre9s) | [VIVID](https://open.spotify.com/album/0ej3wD67mgjmuKAixMHW9n) | 4:10 | 2024-04-16 | 2024-04-24 |
 | [VOLTAGE](https://open.spotify.com/track/1ochPJNz2afOUWuFKm18zm) | [Anly](https://open.spotify.com/artist/5yJK9kmUG5wPAPDfaaandz) | [VOLTAGE](https://open.spotify.com/album/3z5JK4QaE9LvXveYO5q695) | 3:49 | 2022-06-09 | 2022-07-25 |
 | [WANNA BE BRIGHT](https://open.spotify.com/track/6goE7SDnVT1NRujeZsy9Jn) | [ギルドロップス](https://open.spotify.com/artist/5us2QyJXHZ8bV0QtJmgvCI) | [WANNA BE BRIGHT](https://open.spotify.com/album/0jF1IDaIZba0NqHuIceebs) | 4:27 | 2022-06-24 | 2022-07-04 |
 | [wavy flow](https://open.spotify.com/track/5qfFXRzbfiPrxRmYUdv9Of) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [wavy flow](https://open.spotify.com/album/6Q6nv2x3HSl4WZ5s0I7lzo) | 3:25 | 2022-06-09 | 2022-07-29 |
@@ -547,7 +547,7 @@
 | [夢を信じて / with 塩谷哲](https://open.spotify.com/track/4OH6Ykq4Lp2Bvpa4BVW1V7) | [Hiroko Moriguchi](https://open.spotify.com/artist/1F26f2fTqYBhCtp6sXAsQV), [塩谷哲](https://open.spotify.com/artist/1Q2teQhFRl3cL5a590DvKB) | [夢を信じて / with 塩谷哲](https://open.spotify.com/album/3VpNvVmCSeMiR0CBNsO349) | 4:17 | 2023-05-16 | 2023-06-09 |
 | [大大大大大好きな君へ♡](https://open.spotify.com/track/0aCtWsyjzuSKjHZR4qKer3) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/3VA9TKeduA0dbJ59JVU1Bz) | 3:47 | 2023-12-28 | 2024-01-19 |
 | [大大大大大好きな君へ♡](https://open.spotify.com/track/4tWEjnu8wb58t8Do4iWVzj) | [花園羽香里 \(CV.本渡 楓\)](https://open.spotify.com/artist/6LC1Dixor7j0DWDgSZuaVE), [院田唐音 \(CV.富田美憂\)](https://open.spotify.com/artist/70U4wJcvdtMbccoOmf4GEj), [好本 静 \(CV.長縄まりあ\)](https://open.spotify.com/artist/2egAPuobW6RL6chbd4AAHR), [栄逢凪乃 \(CV.瀬戸麻沙美\)](https://open.spotify.com/artist/691qiYah3huMaLkzpaDdw5), [薬膳楠莉 \(CV.朝井彩加\)](https://open.spotify.com/artist/0Uf1KlE33EErxG1zGHY0o1) | [大大大大大好きな君へ♡](https://open.spotify.com/album/3tsN6ioIH52vw6ObxJJRPs) | 3:47 | 2023-10-17 | 2023-12-30 |
-| [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 | 2023-04-11 |  |
+| [奇縁ロマンス](https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH) | [NANAOAKARI](https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn) | [奇縁ロマンス](https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT) | 3:41 | 2023-04-11 | 2024-04-24 |
 | [好きになってはいけない理由](https://open.spotify.com/track/2wjIQfeVIJs2NKqtPE79nq) | [藤川千愛](https://open.spotify.com/artist/4KtWUs76w4g6Ck12wskjeg) | [好きになってはいけない理由](https://open.spotify.com/album/0HusXRFOf7XeaD7kPxr8ry) | 4:40 | 2023-10-03 | 2023-10-05 |
 | [学級日誌](https://open.spotify.com/track/7ea6ouVJBX1qNlF4Bsbr14) | [紫 今](https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY) | [学級日誌](https://open.spotify.com/album/7JeY33oaNNWi7PJJHQtUfq) | 3:57 | 2024-02-13 | 2024-04-17 |
 | [小喋日和](https://open.spotify.com/track/4AElkruOc9gECdltSuV3JN) | [FantasticYouth](https://open.spotify.com/artist/5XnMEOCzuW5XCsqgqEek16) | [小喋日和](https://open.spotify.com/album/1WbStO1rUhNEhQHpIB1pYz) | 3:47 | 2022-06-09 | 2024-02-14 |
@@ -571,6 +571,7 @@
 | [愛・おぼえていますか\(40th Anniversary DeCulture Edition\)](https://open.spotify.com/track/7lIWhGanbPOQrO8eYSMZ2T) | [シェリル・ノーム starring May'n](https://open.spotify.com/artist/5fruBgRiTeuJwkU5qvrdTq), [ランカ・リー=中島愛](https://open.spotify.com/artist/7m6hnAZTo9LXCvJFgP1vpS), [ワルキューレ](https://open.spotify.com/artist/5JDlDUXsBqvwhSEZf3suXh) | [マクロス40周年記念超時空コラボアルバム「デカルチャー!!ミクスチャー!!!!!」](https://open.spotify.com/album/1rNpAX20ZbZqsPQmjZmwCu) | 6:45 | 2022-06-14 | 2022-07-28 |
 | [愛故](https://open.spotify.com/track/5tVHc3sHss7o3gwBiMo24D) | [むﾄ](https://open.spotify.com/artist/38gt1AsY6ZhEtrOP7e94ui) | [愛故](https://open.spotify.com/album/3kZzmKM5IwUyYStjHFTGoG) | 3:44 | 2024-01-30 | 2024-02-14 |
 | [打上花火](https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ) | [Daoko](https://open.spotify.com/artist/5Qeyh2XKoITt1mlEVtzazC), [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [打上花火](https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS) | 4:49 | 2022-07-28 | 2024-02-14 |
+| [拝啓、わたしへ](https://open.spotify.com/track/5b34ld3EjSkD6b0gCc8yxC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [拝啓、わたしへ](https://open.spotify.com/album/6qHp8By4YBR4N64lffM54n) | 4:31 | 2024-04-23 |  |
 | [指先ハート](https://open.spotify.com/track/3vwoUh3UV9y5IqDSb5D6Us) | [大西亜玖璃](https://open.spotify.com/artist/6aUFQSt39umq1GsNbYu4u3) | [夢で逢えなくても／指先ハート](https://open.spotify.com/album/5MPA4vZpUId6YaKiMNt9vB) | 4:02 | 2023-10-24 | 2023-11-18 |
 | [数センチメンタル](https://open.spotify.com/track/3qujwlukYDnnW8YMhDuUMf) | [こはならむ](https://open.spotify.com/artist/1I24D95GZP1Nr9hVsiOLmw) | [数センチメンタル](https://open.spotify.com/album/6DrKTI77wgOlpMPcCKPAqY) | 3:06 | 2023-04-11 |  |
 | [新時代 \- from CrosSing](https://open.spotify.com/track/0gUM9KMr5NbOWBW13ia2iq) | [夏吉ゆうこ](https://open.spotify.com/artist/3gEhlBxOMT0wSTJ2noou7B), [松岡美里](https://open.spotify.com/artist/27esoqFTkcU7B0wpLyrocy) | [新時代 \- from CrosSing](https://open.spotify.com/album/17N3YZzGjy4LWrM9NhPmut) | 3:47 | 2023-06-13 | 2023-06-15 |
@@ -644,6 +645,7 @@
 | [銀河鉄道999](https://open.spotify.com/track/3qmvc2hqftGyTUL7dt67Ia) | [Photon Maiden](https://open.spotify.com/artist/0CsTVU9j8C5nXwgIWyCjMm) | [D4DJ Groovy Mix カバートラックス \(vol.3\)](https://open.spotify.com/album/2uDO32dU8RciIsX8j8JlEB) | 3:47 | 2022-06-12 | 2022-07-16 |
 | [閃光 \- from CrosSing](https://open.spotify.com/track/728QeC4NdjDKTThzVxxEHu) | [相羽あいな](https://open.spotify.com/artist/1O4MFhLFDziEtfA6S6MhWu) | [閃光 \- from CrosSing](https://open.spotify.com/album/5m4kVfU62qsNN3tiGyGIAT) | 4:23 | 2023-05-16 | 2023-05-18 |
 | [陽はまた昇るから](https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7) | [Ryokuoushoku Shakai](https://open.spotify.com/artist/4SJ7qRgJYNXB9Yttzs4aSa) | [陽はまた昇るから](https://open.spotify.com/album/7AIde6PYcdVe8iPF5Jp08h) | 4:26 | 2022-07-28 | 2023-03-10 |
+| [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 | 2024-04-23 |  |
 | [雷櫻](https://open.spotify.com/track/321Act4cJD2NncZYONJlZ6) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [9Lana](https://open.spotify.com/artist/6ZmaNdAeG1XOHj6SKoeNNZ), [SAKURAmoti](https://open.spotify.com/artist/2raQe3AjMykp6K4Y890owO) | [雷櫻](https://open.spotify.com/album/4PMYkY5UkCQuLSPWnyNIdP) | 3:38 | 2024-02-13 |  |
 | [青100色](https://open.spotify.com/track/6tP2bYIUMcDFn9Zfs9ZAE4) | [伊藤美来](https://open.spotify.com/artist/4IcWgtz5hpMVQ8ZFEXUSAD) | [青100色 \(TVアニメ「古見さんは、コミュ症です。」オープニング・テーマ\)](https://open.spotify.com/album/3SpGjj6yNjbv5OvObTrPNy) | 3:56 | 2022-06-24 | 2022-08-04 |
 | [青い栞](https://open.spotify.com/track/6brI7miXQ375is9V8lOxLv) | [YuNi](https://open.spotify.com/artist/6BzlN4V17m7ogeItP4CNN5), [ChumuNote](https://open.spotify.com/artist/5maYs0hbUpR8mBmWgxsT0s) | [gnosinA](https://open.spotify.com/album/0GZq4fzVeXwZC07iGhZM8J) | 5:34 | 2023-10-24 | 2023-11-18 |

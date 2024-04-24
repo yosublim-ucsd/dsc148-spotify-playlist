@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 
 ### [This Is Ramin Djawadi](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0HqFDa)
 
-> This Is Ramin Djawadi\. Los temas esenciales, todos en una lista.
+> This is Ramin Djawadi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,191 likes - 51 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,202 likes - 51 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0HqFDa.md) - [plain]
 | 50 | [Shall We Begin?](https://open.spotify.com/track/6Rlybp1JsE3GUjYp5rC0mo) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game Of Thrones: Season 7 \(Music from the HBO Series\)](https://open.spotify.com/album/3GFHA63Ur7kFMqa0NcyJw6) | 1:24 |
 | 51 | [Two Swords](https://open.spotify.com/track/4195MldSyGNuWsI6zb2qrv) | [Ramin Djawadi](https://open.spotify.com/artist/1hCkSJcXREhrodeIHQdav8) | [Game of Thrones: Season 4 \(Music from the HBO Series\)](https://open.spotify.com/album/7Dp7U0XeSimsNTkvVTcKJl) | 1:49 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGY0YTgzZDQwYjhlZTI0N2ZmMzljNjlkZDA1MTJjMWU3`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGYxZGNkMjE5YjIwMTY5MDljNDE4ODg4NTBiODcyNWFi`

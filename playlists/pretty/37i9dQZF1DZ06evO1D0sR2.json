@@ -1,12 +1,12 @@
 {
-  "description": "This is JJ Hairston. De viktigste sporene samlet i \u00e9n spilleliste.",
-  "num_followers": 2553,
+  "description": "This is JJ Hairston. The essential tracks, all in one playlist.",
+  "num_followers": 2562,
   "original_name": "This Is JJ Hairston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDRmYzIyNmRhMWIxY2RhNGRmZmJiMGY5ZjdiNTMyMGUw",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGM1ZWQ4YTQyOGU0YThjZTFlMmQ3MDUzYzA1NDMxMGI2",
   "tracks": [
     {
       "added_at": null,
@@ -719,30 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe Again",
-        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Tamela Hairston",
-          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
-        },
-        {
-          "name": "Mav City Gospel Choir",
-          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
-        }
-      ],
-      "duration_ms": 420083,
-      "name": "You Won't Change (Yahweh the Same) [feat. Tamela Hairston & Mav City Gospel Choir]",
-      "url": "https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Believe Again, Vol. II",
         "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
@@ -771,6 +747,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Believe Again",
+        "url": "https://open.spotify.com/album/7DDxwCayMIDdPj1eFeqVNa"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tamela Hairston",
+          "url": "https://open.spotify.com/artist/6W3CeiSrBA9A0xGjzPCdUX"
+        },
+        {
+          "name": "Mav City Gospel Choir",
+          "url": "https://open.spotify.com/artist/4h77nHXzQBpUySMOwo5UgD"
+        }
+      ],
+      "duration_ms": 420083,
+      "name": "You Won't Change (Yahweh the Same) [feat. Tamela Hairston & Mav City Gospel Choir]",
+      "url": "https://open.spotify.com/track/6EDEtIW0M7sN5MtBmblyaa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "You Deserve It (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4sWY7eErz5O8p1Dc0PJnP1"
       },
@@ -783,26 +783,6 @@
       "duration_ms": 330558,
       "name": "Lord You're Mighty",
       "url": "https://open.spotify.com/track/0qUVi7rU50GHhj4uXeR8A3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After This",
-        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "LaShun Pace",
-          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
-        }
-      ],
-      "duration_ms": 372013,
-      "name": "The Blood",
-      "url": "https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "LaShun Pace",
+          "url": "https://open.spotify.com/artist/3ntfwOld7emkBpsoXmE0ln"
+        }
+      ],
+      "duration_ms": 372013,
+      "name": "The Blood",
+      "url": "https://open.spotify.com/track/3qVlrzKzT5q3V8eQrxuSee"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Exalted...Live In Baltimore (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4RNPc3sQN0YMAWz0IWedDR"
       },
@@ -847,26 +847,6 @@
       "duration_ms": 413533,
       "name": "Everything Is Changed - Live",
       "url": "https://open.spotify.com/track/0IlKCT84rEbw0PSaoGgDx9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Believe Again, Vol. II",
-        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Cristabel Clack",
-          "url": "https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y"
-        }
-      ],
-      "duration_ms": 421772,
-      "name": "All You've Done (feat. Cristabel Clack)",
-      "url": "https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96"
     },
     {
       "added_at": null,
@@ -895,6 +875,26 @@
       "duration_ms": 395652,
       "name": "It's My Season",
       "url": "https://open.spotify.com/track/4FHDNt3b9Mmcn5IPp6GYTu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe Again, Vol. II",
+        "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Cristabel Clack",
+          "url": "https://open.spotify.com/artist/56Yt4ZJKPJohGDQmn32w4Y"
+        }
+      ],
+      "duration_ms": 421772,
+      "name": "All You've Done (feat. Cristabel Clack)",
+      "url": "https://open.spotify.com/track/12oM3bJN1uFHVLO509Qo96"
     },
     {
       "added_at": null,
@@ -943,6 +943,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "After This",
+        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
+      },
+      "artists": [
+        {
+          "name": "JJ Hairston",
+          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
+        },
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        }
+      ],
+      "duration_ms": 460413,
+      "name": "Love Lifted Me",
+      "url": "https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Believe Again, Vol. II",
         "url": "https://open.spotify.com/album/4dWRh2fMDMGj4aM1tjf0ZL"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 318667,
       "name": "Psalms 100 (feat. Greg Kirkland, Jr. & Adrienne Lewis-Freeman)",
       "url": "https://open.spotify.com/track/54XPkGglHnDcW12yQoKSa3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After This",
-        "url": "https://open.spotify.com/album/6YBye6EBEoIN9DNX0BTL4g"
-      },
-      "artists": [
-        {
-          "name": "JJ Hairston",
-          "url": "https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD"
-        },
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        }
-      ],
-      "duration_ms": 460413,
-      "name": "Love Lifted Me",
-      "url": "https://open.spotify.com/track/7HTM2vcGxRMqAXU5IbiZBO"
     },
     {
       "added_at": null,

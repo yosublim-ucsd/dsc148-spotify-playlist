@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 
 > 👹 8️⃣ Foto: YUNGBLUD
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,934 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,941 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0PYkdiz2e8k.md) - [plain]
 | 22 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 |
 | 23 | [ex.ploda](https://open.spotify.com/track/7p1RZjnWapwed6oS2eRp6j) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP) | [ex.ploda](https://open.spotify.com/album/2g8718FH49HgDoKeBQ3SyX) | 2:15 |
 | 24 | [ur just horny](https://open.spotify.com/track/02gGfhPHk5NuN0mgbKpU4Y) | [GAYLE](https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9) | [ur just horny](https://open.spotify.com/album/2LhBsI65bqTpO8pVlZhK0A) | 2:58 |
-| 25 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
-| 26 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
+| 25 | [Three Minutes More](https://open.spotify.com/track/08CL08RywVhA1HQteJHuT3) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Three Minutes More](https://open.spotify.com/album/4Ht4iaL8A3DwlmiduQLWNX) | 3:23 |
+| 26 | [Kiss Ur Face Forever](https://open.spotify.com/track/7lf5XQQCIQkzO15CqYDjo7) | [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Kiss Ur Face Forever](https://open.spotify.com/album/5Ok9hJcXLgtUlJw7UUBQ2s) | 2:46 |
 | 27 | [Punisher](https://open.spotify.com/track/5bCYvbaEVCEWrGZZONYitY) | [K.Flay](https://open.spotify.com/artist/0pCNk4D3E2xtszsm6hMsWr) | [MONO](https://open.spotify.com/album/3FlWIVe5XsMGNqjAqI70ZM) | 3:14 |
 | 28 | [Take Me With You](https://open.spotify.com/track/3GpoRL1PBnTerVSaVG5tGW) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Take Me With You](https://open.spotify.com/album/5nlMjtTBb8QwtiWs7TY8L4) | 3:17 |
 | 29 | [SUPERMODEL](https://open.spotify.com/track/63WuQOXohQIxOxIFA2K7bR) | [Måneskin](https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr) | [SUPERMODEL](https://open.spotify.com/album/5jhbLeXH1a3SRSOg84GSUn) | 2:28 |

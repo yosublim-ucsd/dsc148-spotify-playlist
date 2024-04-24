@@ -1,6 +1,6 @@
 {
   "description": "The irresistible rhythms of Latin jazz. Cover: Tito Puente",
-  "num_followers": 514701,
+  "num_followers": 514429,
   "original_name": "Latin Jazz",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Ascendentes",
-        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
+        "name": "Flor De Piel",
+        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
       },
       "artists": [
         {
-          "name": "Orestes Gomez",
-          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
+          "name": "Martirio",
+          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
+        },
+        {
+          "name": "Ra\u00fal Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
+        },
+        {
+          "name": "Chano Dominguez",
+          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
         }
       ],
-      "duration_ms": 214300,
-      "name": "Piscis",
-      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
+      "duration_ms": 311920,
+      "name": "En Esta Tarde Gris",
+      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -723,26 +731,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Flor De Piel",
-        "url": "https://open.spotify.com/album/3thQXVuy3QaPfGgh3wwli6"
+        "name": "Ascendentes",
+        "url": "https://open.spotify.com/album/4wDsQfo6S0LjKnGlI9E0Jm"
       },
       "artists": [
         {
-          "name": "Martirio",
-          "url": "https://open.spotify.com/artist/7r4rviBG63cmxn51zRuMav"
-        },
-        {
-          "name": "Ra\u00fal Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/7D4g7SmfRdE4JB7hLqpH6A"
-        },
-        {
-          "name": "Chano Dominguez",
-          "url": "https://open.spotify.com/artist/63Znb1LZJ0KljCmhuxcRMI"
+          "name": "Orestes Gomez",
+          "url": "https://open.spotify.com/artist/6XToOxid134FKnslBTQZW1"
         }
       ],
-      "duration_ms": 311920,
-      "name": "En Esta Tarde Gris",
-      "url": "https://open.spotify.com/track/6QLMwPzna66p3kuJbWQMJ4"
+      "duration_ms": 214300,
+      "name": "Piscis",
+      "url": "https://open.spotify.com/track/7MYFwzSj7n5NkDKoKlQL94"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -799,42 +799,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Nocturne",
-        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
-      },
-      "artists": [
-        {
-          "name": "Charlie Haden",
-          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
-        }
-      ],
-      "duration_ms": 412133,
-      "name": "Nocturnal",
-      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Que Ser\u00e1",
-        "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Rodriguez",
-          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
-        },
-        {
-          "name": "Munir Hossn",
-          "url": "https://open.spotify.com/artist/2kVJGn28aUoTlI1Oq2SGKt"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Que Ser\u00e1",
-      "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Que Bonita Bandera",
         "url": "https://open.spotify.com/album/49hdJ2sefH3emVv9UHltI9"
       },
@@ -875,6 +839,26 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Que Ser\u00e1",
+        "url": "https://open.spotify.com/album/4fx7ZSz7u8CQYVvJMdphUd"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Rodriguez",
+          "url": "https://open.spotify.com/artist/1dp5YyefJVa9mkiqa3s50O"
+        },
+        {
+          "name": "Munir Hossn",
+          "url": "https://open.spotify.com/artist/2kVJGn28aUoTlI1Oq2SGKt"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Que Ser\u00e1",
+      "url": "https://open.spotify.com/track/0qkWBfjH6DtB55RcQnM43Q"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "G\u00e9minis",
         "url": "https://open.spotify.com/album/0MOf0uXJiEpUOwumCF1IRm"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 197588,
       "name": "G\u00e9minis",
       "url": "https://open.spotify.com/track/0KmkXAU8cIqe4mwquGbImZ"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/1CwbHBZZktmDFhK2TDU8Bo"
+      },
+      "artists": [
+        {
+          "name": "Charlie Haden",
+          "url": "https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin"
+        }
+      ],
+      "duration_ms": 412133,
+      "name": "Nocturnal",
+      "url": "https://open.spotify.com/track/6RoOWROlTUfJ4jgz8ZuycE"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "South American All Stars (Guapachando)",
+        "url": "https://open.spotify.com/album/2e1EwQ14pZF7ompCZuaEMI"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gilberto",
+          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+        }
+      ],
+      "duration_ms": 117539,
+      "name": "Desafinado",
+      "url": "https://open.spotify.com/track/4RAeL4OABP3aI9cu8iCXrF"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Meetings",
         "url": "https://open.spotify.com/album/7nC6eOInxBoOPru39yFmjS"
       },
@@ -1039,22 +1055,6 @@
       "duration_ms": 369797,
       "name": "Suave",
       "url": "https://open.spotify.com/track/2qJYJ8Q1O10RBwbEqqVw9z"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "South American All Stars (Guapachando)",
-        "url": "https://open.spotify.com/album/2e1EwQ14pZF7ompCZuaEMI"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gilberto",
-          "url": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
-        }
-      ],
-      "duration_ms": 117539,
-      "name": "Desafinado",
-      "url": "https://open.spotify.com/track/4RAeL4OABP3aI9cu8iCXrF"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1351,26 +1351,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Antidote",
-        "url": "https://open.spotify.com/album/2fM4QCvifFnt0h9aYsNETv"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea",
-          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
-        },
-        {
-          "name": "The Spanish Heart Band",
-          "url": "https://open.spotify.com/artist/4h3ydh5Bvy2DKRGLE078oq"
-        }
-      ],
-      "duration_ms": 480026,
-      "name": "Armando\u2019s Rhumba",
-      "url": "https://open.spotify.com/track/6NTknQKoiFKfDe7VsnY8kq"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "Time Is Right",
         "url": "https://open.spotify.com/album/3euNmYDyAEAShiGMo65pRd"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 736160,
       "name": "From Moment To Moment",
       "url": "https://open.spotify.com/track/08x2tZWOiR81Ht7emwGEsm"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Antidote",
+        "url": "https://open.spotify.com/album/2fM4QCvifFnt0h9aYsNETv"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "The Spanish Heart Band",
+          "url": "https://open.spotify.com/artist/4h3ydh5Bvy2DKRGLE078oq"
+        }
+      ],
+      "duration_ms": 480026,
+      "name": "Armando\u2019s Rhumba",
+      "url": "https://open.spotify.com/track/6NTknQKoiFKfDe7VsnY8kq"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Jazz Bat\u00e1 2",
-        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
-      },
-      "artists": [
-        {
-          "name": "Chucho Vald\u00e9s",
-          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
-        }
-      ],
-      "duration_ms": 293020,
-      "name": "Luces",
-      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
         "name": "A Arte de Viver",
         "url": "https://open.spotify.com/album/5EUo3iiVNR2uCHIgeyHeay"
       },
@@ -1543,18 +1527,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
+        "name": "Jazz Bat\u00e1 2",
+        "url": "https://open.spotify.com/album/2qNItLdcFnSId2094fNe3A"
       },
       "artists": [
         {
-          "name": "Matthieu Saglio",
-          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
+          "name": "Chucho Vald\u00e9s",
+          "url": "https://open.spotify.com/artist/27mRThsZ9K1BYmz0rioxwp"
         }
       ],
-      "duration_ms": 355668,
-      "name": "Madiba",
-      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
+      "duration_ms": 293020,
+      "name": "Luces",
+      "url": "https://open.spotify.com/track/4fVzIqfRv3VC1doIk9JLnt"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1579,22 +1563,18 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
-        "name": "Te Lo Dije",
-        "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6RPJzLm4kZVlYwzVnHWCTp"
       },
       "artists": [
         {
-          "name": "Harold L\u00f3pez-Nussa",
-          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
-        },
-        {
-          "name": "Randy Malcom",
-          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+          "name": "Matthieu Saglio",
+          "url": "https://open.spotify.com/artist/3YkXWDe8COS52gvfccIScx"
         }
       ],
-      "duration_ms": 198783,
-      "name": "JazzT\u00f3n",
-      "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
+      "duration_ms": 355668,
+      "name": "Madiba",
+      "url": "https://open.spotify.com/track/2Kxxsy3CMbIPf0ABK6s8Pi"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1611,6 +1591,26 @@
       "duration_ms": 242666,
       "name": "They Can't Take That Away from Me",
       "url": "https://open.spotify.com/track/0MRFCYhfI8n1DrLKv0lSKC"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Te Lo Dije",
+        "url": "https://open.spotify.com/album/31Dxd8oDK8PSnedXHUaPMB"
+      },
+      "artists": [
+        {
+          "name": "Harold L\u00f3pez-Nussa",
+          "url": "https://open.spotify.com/artist/0Idg159PTZKon9ZGAeCLjR"
+        },
+        {
+          "name": "Randy Malcom",
+          "url": "https://open.spotify.com/artist/3yjUmIEZOYU9i9cU9uJGIZ"
+        }
+      ],
+      "duration_ms": 198783,
+      "name": "JazzT\u00f3n",
+      "url": "https://open.spotify.com/track/1Ujt7mRLAZHqvPImbsPsPO"
     },
     {
       "added_at": "2024-02-09 05:00:00",
@@ -1811,6 +1811,22 @@
     {
       "added_at": "2024-02-09 05:00:00",
       "album": {
+        "name": "Big Band Urban Folktales",
+        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
+      },
+      "artists": [
+        {
+          "name": "Bobby Sanabria",
+          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
+        }
+      ],
+      "duration_ms": 440600,
+      "name": "El Lider",
+      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
+    },
+    {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
         "name": "Tu, la Tierra",
         "url": "https://open.spotify.com/album/2llPRKkcoepMb9JpCZOiQJ"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 237186,
       "name": "Tu, la Tierra",
       "url": "https://open.spotify.com/track/43K0InQ2V1Uvh1CZeHGS1u"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Big Band Urban Folktales",
-        "url": "https://open.spotify.com/album/7Bj8SyKhqNdNqm8tPPu4Zr"
-      },
-      "artists": [
-        {
-          "name": "Bobby Sanabria",
-          "url": "https://open.spotify.com/artist/6U28NQEcAzzjAaXyNUCpVF"
-        }
-      ],
-      "duration_ms": 440600,
-      "name": "El Lider",
-      "url": "https://open.spotify.com/track/1Q3cBlznAETrtKJrS6TSzr"
     }
   ],
   "unique_name": "Latin Jazz",

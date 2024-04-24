@@ -1077,6 +1077,24 @@
     },
     {
       "album": {
+        "name": "High Pines",
+        "url": "https://open.spotify.com/album/6bmeCbUhX9z5ep5GitTDB2"
+      },
+      "artists": [
+        {
+          "name": "LYXOc",
+          "url": "https://open.spotify.com/artist/3VLfve633bKsqmdN7bYujc"
+        }
+      ],
+      "date_added": "2024-04-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187951,
+      "name": "High Pines",
+      "url": "https://open.spotify.com/track/6GZpEePdoYCWUEkJbGjSvI"
+    },
+    {
+      "album": {
         "name": "Send One Your Love",
         "url": "https://open.spotify.com/album/7g5WWkH9quZp6S3lxDBCV6"
       },
@@ -2762,7 +2780,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 176000,
       "name": "The Dubble",
       "url": "https://open.spotify.com/track/3ngMgAjrvFnJ4rozyKphL7"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 
 > 2014 highlights from the home of indie music\. Cover: Lorde
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,789 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,965 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 36 | [Someone New](https://open.spotify.com/track/22sS7JkzeVeq4vOPCB6Fbj) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:42 |
 | 37 | [My Type](https://open.spotify.com/track/2Iq6HhIquO7JKr0KfTNLzU) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:24 |
 | 38 | [Busy Earnin'](https://open.spotify.com/track/7f7CxGj0kzfwT1SjciL3ft) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071) | [Jungle](https://open.spotify.com/album/2B1PHvqJTX9ELdUlENOJeQ) | 3:01 |
-| 39 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
+| 39 | [Colors](https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS](https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO) | 4:09 |
 | 40 | [Once Upon a Dream \- From "Maleficent" / Pop Version](https://open.spotify.com/track/3liiZRlJxa8GeLUgWMoIeu) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Once Upon a Dream \(from "Maleficent"\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/293ydefC5qpqZ65JYZTbUi) | 3:23 |
-| 41 | [Colors](https://open.spotify.com/track/1TnUURhehaoMWKAqQtirm6) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [BADLANDS](https://open.spotify.com/album/5U5rt98q8Jqx4lP3RdqYfO) | 4:09 |
+| 41 | [Kathleen](https://open.spotify.com/track/1MHYAqWWdDRePmnqORynrq) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:40 |
 | 42 | [Like Real People Do](https://open.spotify.com/track/4LGJ2pLDvTRnul3EcZoYkX) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier](https://open.spotify.com/album/0Uv83rRhY5QvHKkQoULRKk) | 3:18 |
 | 43 | [Tighten Up](https://open.spotify.com/track/2MVwrvjmcdt4MsYYLCYMt8) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Brothers](https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v) | 3:31 |
 | 44 | [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | 3:18 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 48 | [Fever](https://open.spotify.com/track/3Hx7RXqCS7Kzjy2ot2q1Gk) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 4:06 |
 | 49 | [Cocoon](https://open.spotify.com/track/1B241LRKmK6qDDTZfUajmm) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 3:56 |
 | 50 | [Fire and the Flood](https://open.spotify.com/track/6liNJDyWJjyHAgDnAX95bw) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away \(Special Edition\)](https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH) | 4:09 |
-| 51 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
-| 52 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
+| 51 | [Cold Cold Man](https://open.spotify.com/track/6RKGBcDtgzXx21zUjpeu6F) | [Saint Motel](https://open.spotify.com/artist/1dWEYMPtNmvSVaDNLgB6NV) | [My Type EP](https://open.spotify.com/album/2r69WsAMyjbgLf8c4woaUr) | 3:50 |
+| 52 | [Nancy From Now On](https://open.spotify.com/track/77RNVzAVwqWiZrZuWqMV2i) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/2CXVonfqGwTQu8dgr2qkNS) | 3:54 |
 | 53 | [I Wanna Get Better](https://open.spotify.com/track/1BwhFXqoIsePt21WyWIttb) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Strange Desire](https://open.spotify.com/album/0cnNCK2xpudXjB8pzsrYy9) | 3:24 |
 | 54 | [Chocolate](https://open.spotify.com/track/44Ljlpy44mHvLJxcYUvTK0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [The 1975](https://open.spotify.com/album/33ZqJmmqFE8Z7Ak1Lxbnfb) | 3:44 |
 | 55 | [Dearly Departed \(feat\. Esmé Patterson\)](https://open.spotify.com/track/0ewrI06EIDMGXvgJxuyF3U) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH) | [And The War Came](https://open.spotify.com/album/1Sq6MrxVCTezf62YzsbzED) | 3:32 |
@@ -68,19 +68,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3asLxmR3A9e.md) - [plain]
 | 58 | [Happy Idiot](https://open.spotify.com/track/63mnZ0zF5fBwJzYg2pDo9e) | [TV On The Radio](https://open.spotify.com/artist/3HJIB8sYPyxrFGuwvKXSLR) | [Seeds](https://open.spotify.com/album/2pJdnCpeXm3KVUlyuNSeRX) | 3:03 |
 | 59 | [Homesick](https://open.spotify.com/track/7lnXzMcgaK7CnzaQ7wj6k0) | [Catfish and the Bottlemen](https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD) | [The Balcony](https://open.spotify.com/album/0C0OFASoQC57yC12vQhCwN) | 2:28 |
 | 60 | [Mess Is Mine](https://open.spotify.com/track/7BVwi9cIzSc6tpyxsp47vJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:43 |
-| 61 | [Black Mambo](https://open.spotify.com/track/63OC8cNa4ZnFB3bbvbWCOc) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:08 |
-| 62 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
+| 61 | [Wait](https://open.spotify.com/track/3rTnGUeDrnZV22DvRuUuXr) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Hurry Up, We're Dreaming](https://open.spotify.com/album/6R0ynY7RF20ofs9GJR5TXR) | 5:43 |
+| 62 | [Black Mambo](https://open.spotify.com/track/63OC8cNa4ZnFB3bbvbWCOc) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:08 |
 | 63 | [My Silver Lining](https://open.spotify.com/track/6tCLQ3LO1V9l6qdrrwdV6q) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Stay Gold](https://open.spotify.com/album/3fVthsmWSbJpGp7gjxf5xI) | 3:35 |
 | 64 | [Talk Is Cheap](https://open.spotify.com/track/655HjEK4nNzceomQVpNzgN) | [Chet Faker](https://open.spotify.com/artist/6UcJxoeHWWWyT5HZP064om) | [Built on Glass](https://open.spotify.com/album/2lKbr47iZyXo44V4CEEUaK) | 3:38 |
-| 65 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
-| 66 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
+| 65 | [Warned You](https://open.spotify.com/track/3GahMRXI3rL2JVeSLZBRnF) | [Good Morning](https://open.spotify.com/artist/2kMzxA8edU05hvMFU493zJ) | [Shawcross](https://open.spotify.com/album/3KpFXHl7zzp0Cjvww3AUFs) | 2:16 |
+| 66 | [Bad Habit](https://open.spotify.com/track/3huV7eiNpaQlCB3LbZi9bB) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Listen](https://open.spotify.com/album/6kqOHnshP4RMTUWKrhm6Sy) | 3:41 |
 | 67 | [Weight of Love](https://open.spotify.com/track/3xMQOd1C3TXsjQ3pmzOmkC) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Turn Blue](https://open.spotify.com/album/6TvxpBzf9c8H1fsrAaQ8t3) | 6:50 |
 | 68 | [All The Time](https://open.spotify.com/track/0qI1W6chJgvrSAzAkX9JBa) | [Bahamas](https://open.spotify.com/artist/4C50EbCS11M0VbGyH3OfLt) | [Bahamas Is Afie](https://open.spotify.com/album/2UqlVTULRPG2qm8Bico9CK) | 3:54 |
 | 69 | [Georgia](https://open.spotify.com/track/6Fha6tXHkL3r9m9nNqQG8p) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Dream Your Life Away](https://open.spotify.com/album/6rIbiUMmZJfqJRnXhVxFvg) | 3:50 |
 | 70 | [Toes](https://open.spotify.com/track/754wVXWrtf1X3ZHQOFFsnR) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:14 |
 | 71 | [Animal](https://open.spotify.com/track/6vSq5q5DCs1IvwKIq53hj2) | [Miike Snow](https://open.spotify.com/artist/4l1cKWYW591xnwEGxpUg3J) | [Miike Snow](https://open.spotify.com/album/3EqIz9KGQakhATc71OGQQi) | 4:23 |
-| 72 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
-| 73 | [Yellow Flicker Beat](https://open.spotify.com/track/0Nf53RDPZEjFrQE4B5n6Vf) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Yellow Flicker Beat \(From The Hunger Games: Mockingjay Part 1\)](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) | 3:52 |
+| 72 | [Yellow Flicker Beat](https://open.spotify.com/track/0Nf53RDPZEjFrQE4B5n6Vf) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Yellow Flicker Beat \(From The Hunger Games: Mockingjay Part 1\)](https://open.spotify.com/album/7sg5iqMiDrM2aJqLAmv83V) | 3:52 |
+| 73 | [Green Mountain State](https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI) | [Trevor Hall](https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8) | [Chapter Of The Forest](https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP) | 4:34 |
 | 74 | [Tiger Striped Sky](https://open.spotify.com/track/4C2aiAVTTVyZbCQZst5Xu1) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC) | [Little Giant](https://open.spotify.com/album/3ZTS2uxdWAkBnIXzsCY8PZ) | 4:01 |
 | 75 | [Work This Body](https://open.spotify.com/track/76EeScTnI2sCjDY0SfEoSb) | [WALK THE MOON](https://open.spotify.com/artist/6DIS6PRrLS3wbnZsf7vYic) | [TALKING IS HARD](https://open.spotify.com/album/3mNoFlD1wsoXfkljfFzExT) | 2:55 |
 | 76 | [In Dreams](https://open.spotify.com/track/6yPuQr6vjZ7tJ4oq1PEXle) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 3:33 |

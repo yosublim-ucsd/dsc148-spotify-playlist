@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 258978,
+  "2024-04-24": 259218,
   "date_first_scraped": "2022-07-19",
   "description": "Una bella banda sonora que acompa\u00f1ar\u00e1 tu tiempo de lectura.",
   "name": "M\u00fasica para Leer",
@@ -4709,6 +4709,24 @@
       "duration_ms": 126285,
       "name": "I Still Miss You",
       "url": "https://open.spotify.com/track/1mB4krpjjVkqfMcgHvivJZ"
+    },
+    {
+      "album": {
+        "name": "I Watched a Blackbird",
+        "url": "https://open.spotify.com/album/3SX8ZSQ8ay74MuHUvWeQHP"
+      },
+      "artists": [
+        {
+          "name": "George Agate",
+          "url": "https://open.spotify.com/artist/6ttrQpo8aOzfGeIBUAwEAO"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139589,
+      "name": "I Watched a Blackbird",
+      "url": "https://open.spotify.com/track/6qlBW3iQTQ0Cehh3KMi44M"
     },
     {
       "album": {
@@ -10319,6 +10337,24 @@
       "duration_ms": 138624,
       "name": "Solemn Resolve",
       "url": "https://open.spotify.com/track/1wDBNwgv9WWqJIdZ6bIv8Z"
+    },
+    {
+      "album": {
+        "name": "Solitude",
+        "url": "https://open.spotify.com/album/3f5HapuwApFeaFvATqJGfN"
+      },
+      "artists": [
+        {
+          "name": "Jerome Louis",
+          "url": "https://open.spotify.com/artist/0PZxdzq1JhF2EQDjtvO5uJ"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149883,
+      "name": "Solitude",
+      "url": "https://open.spotify.com/track/6KwukSNprvd825Fk56LQ4k"
     },
     {
       "album": {

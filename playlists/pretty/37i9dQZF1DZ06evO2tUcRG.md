@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 
 ### [This Is Gabriela Rocha](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2tUcRG)
 
-> This is Gabriela Rocha\. The essential tracks, all in one playlist.
+> This is Gabriela Rocha\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,854 likes - 50 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 259,789 likes - 50 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,12 +35,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 25 | [Canção do Céu \- Ao vivo](https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Jéssica Augusto](https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH) | [Canção do Céu \(Ao Vivo\)](https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS) | 8:19 |
 | 26 | [Águas Purificadoras](https://open.spotify.com/track/3E3tCczShTfm7bbuyAbH1M) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Águas Purificadoras](https://open.spotify.com/album/2LXgzRBHXBx8K1SiUOtczX) | 5:42 |
 | 27 | [Altar \(Altar\) \- Ao Vivo](https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h) | [Juliano Son](https://open.spotify.com/artist/1eKT4nyBWQbYdHm19DrV2P), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Altar \(Altar\) \[Ao Vivo\]](https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L) | 6:48 |
-| 28 | [Tu Presencia me Llamó \- Me Atraiu \- Versão Espanhol](https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu Presencia me Llamó \(Me Atraiu \- Versão Espanhol\)](https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX) | 8:20 |
-| 29 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 |
-| 30 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 |
+| 28 | [Nenhuma Condenação Há](https://open.spotify.com/track/0ykHRYx1naTjHMDOajzjcA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 5:14 |
+| 29 | [Meu Coração É Teu / Pra Te Adorar](https://open.spotify.com/track/54aZqu6XN252pYIeef1hIA) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Céu](https://open.spotify.com/album/5MNtZvAvFWwc6eFbrFLbg9) | 5:44 |
+| 30 | [Tu Presencia me Llamó \- Me Atraiu \- Versão Espanhol](https://open.spotify.com/track/5jD4LYK6ptxiGVHGdxQ7o6) | [Miel San Marcos](https://open.spotify.com/artist/7zpvy5B9gb5KprNUzNCOEE), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Tu Presencia me Llamó \(Me Atraiu \- Versão Espanhol\)](https://open.spotify.com/album/6tPW1pXFSz7p9mMAvPxDvX) | 8:20 |
 | 31 | [Meu Respirar / Meu Prazer \- Ao Vivo](https://open.spotify.com/track/2ApWMoHANGl9rkLawKbQOp) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Meu Respirar / Meu Prazer \(Ao Vivo\)](https://open.spotify.com/album/4SOmwABMek8yuZv4mvq09I) | 5:23 |
-| 32 | [Me Leva \- Ao Vivo](https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Fernandinho Em Casa \(ao Vivo\)](https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8) | 6:07 |
-| 33 | [Outro Na Fornalha](https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:26 |
+| 32 | [Outro Na Fornalha](https://open.spotify.com/track/7ncFnwbpGAfD2dZdNWUI1E) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Ecoar](https://open.spotify.com/album/7l4U3R2gcIAEIWDuiqEg06) | 4:26 |
+| 33 | [Me Leva \- Ao Vivo](https://open.spotify.com/track/5A3YNSpdZdPjPjVYFZjOyl) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Fernandinho Em Casa \(ao Vivo\)](https://open.spotify.com/album/06UxOw6wy2Mq3EgdpZZ6r8) | 6:07 |
 | 34 | [Abraça\-me \- Live 2020](https://open.spotify.com/track/4o5WmT5T3jZl6EA3L4W8Wf) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Juntos Em Adoração \(Live 2020\)](https://open.spotify.com/album/1yYj9smqcSBfxXuYBQ1XbS) | 3:42 |
 | 35 | [Essência da Adoração](https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73) | [Essência da Adoração](https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u) | 7:53 |
 | 36 | [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/4DGIx4poXzDrzh0U1qguyT) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Som da Liberdade 2.0](https://open.spotify.com/album/2bRpKofUSDkDG6Dlwem8Nr) | 4:24 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tUcRG.md) - [plain]
 | 49 | [Até te Encontrar \- Ao Vivo](https://open.spotify.com/track/1HucuOdAhqUgPNgZJoFB3K) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Até te Encontrar \(Ao Vivo\)](https://open.spotify.com/album/0TULB48BC0rCKXtFFVOX5s) | 9:36 |
 | 50 | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/track/5b75WAmLLdqIiVWyMTMctF) | [Cassiane](https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Minha Bênção \(Ao Vivo\)](https://open.spotify.com/album/6WKir025Bp9KQGjKAodPSi) | 5:12 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGY2MmY4YzU2YWM3NzQ5MTBlMTU5NTY3YzcyODZkNmFh`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGI4ZWQ1N2U2MjU3ZjY1YTIxYmZhMjEwOWViZDJhM2Q1`

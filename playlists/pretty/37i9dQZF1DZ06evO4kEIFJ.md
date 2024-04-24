@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 
 ### [This Is Lil Nas X](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4kEIFJ)
 
-> This Is Lil Nas X\. Los temas esenciales, todos en una lista.
+> This is Lil Nas X\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,833 likes - 20 songs - 51 min 37 sec
+[Spotify](https://open.spotify.com/user/spotify) - 154,866 likes - 20 songs - 51 min 37 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4kEIFJ.md) - [plain]
 | 19 | [AM I DREAMING \(feat\. Miley Cyrus\)](https://open.spotify.com/track/6isTQfKXhNO3EyJd9mSxx8) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 3:03 |
 | 20 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7 EP](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGFkMzg3NDg5OTgyNjVhOTM0MmI1YjNjYTlmOTMxNDJk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDg0M2EzYzBmNGVhY2M1ODM5ZDcyZjQ1ZjZiZjYyYzZi`

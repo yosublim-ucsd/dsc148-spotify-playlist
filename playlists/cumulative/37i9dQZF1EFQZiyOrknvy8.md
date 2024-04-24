@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS">Kalli</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-142 songs - 7 hr 17 min
+144 songs - 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,8 @@
 | [dear L](https://open.spotify.com/track/0jjYq6uxZLCrQzo89Ym0Ea) | [Lena](https://open.spotify.com/artist/5slpk6nu2IwwKx0EHe3GcL) | [Only Love, L \(More Love Edition\)](https://open.spotify.com/album/0wNhZkLrI9nBQMyT9sjiBK) | 3:19 | 2024-01-29 |  |
 | [Dein Shirt](https://open.spotify.com/track/0JGWoliqXaxHzPdbYocc7V) | [Franzi Harmsen](https://open.spotify.com/artist/37ctEiNvHyyUL9KDjRUV0W) | [Dein Shirt](https://open.spotify.com/album/12LQ0U03tUdlIJtUzdcSsE) | 2:45 | 2024-01-29 |  |
 | [Deine Nummer](https://open.spotify.com/track/26TNQnJywu36ynLrOtkgFo) | [LEA](https://open.spotify.com/artist/5Yo5iU2nf4H41waPl4ZnS1) | [Treppenhaus](https://open.spotify.com/album/1L2yFZquYx9fjAPYWGWwZQ) | 3:12 | 2024-01-29 |  |
+| [Delfine](https://open.spotify.com/track/0tOocgAVu0c4L8TKnhsI63) | [Juli](https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol) | [Der Sommer ist vorbei \(Deluxe Edition\)](https://open.spotify.com/album/3x9knypYf8RHLk3baTPRxq) | 3:09 | 2024-04-23 |  |
+| [Der Letzte Tag](https://open.spotify.com/track/5R8IzUnU6YAB409rYK3Of5) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Die Hoffnung klaut mir Niemand](https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI) | 2:53 | 2024-04-23 |  |
 | [Der schwerste Tag war gestern](https://open.spotify.com/track/5bvRtQ64PasCKylUsb3Qju) | [Jürgen Drews](https://open.spotify.com/artist/4rvJA6PKInIg35XkH4HESw) | [Es war alles am besten](https://open.spotify.com/album/3g7khKxTVVmQO0qDuJbu22) | 3:45 | 2024-01-29 |  |
 | [Diamanten](https://open.spotify.com/track/1xujyYqyEUc8VyCFXgqkHH) | [Kontra K](https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK) | [Gute Nacht](https://open.spotify.com/album/6HXofmpALQ71a6Ri5WKegT) | 3:27 | 2024-01-29 |  |
 | [Do Not Disturb](https://open.spotify.com/track/4UCTlHt2pZxZ2l500bOQKn) | [Be Charlotte](https://open.spotify.com/artist/2rTZSJ6JzWaKJaHGbEkRjl) | [Do Not Disturb](https://open.spotify.com/album/6pP96QZ9sIST5vC8OoijqV) | 2:47 | 2024-01-29 |  |

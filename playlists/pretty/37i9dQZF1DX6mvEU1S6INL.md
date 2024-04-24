@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 
 > It's just us—and this awesome alt soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,130,419 likes - 100 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,130,265 likes - 100 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 23 | [Missing Piece](https://open.spotify.com/track/5YqdiryRmdAzYFlxo43hAJ) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Missing Piece](https://open.spotify.com/album/6zQCdokfVne8dFU5Z5BpS3) | 3:37 |
 | 24 | [I Belong in Your Arms](https://open.spotify.com/track/0aqRkWPAL9BGCvvdSiXaE9) | [Chairlift](https://open.spotify.com/artist/7hAolICGSgXJuM6DUpK5rp) | [Something](https://open.spotify.com/album/4nYzn3xOXQsltWZ5AIQns7) | 3:27 |
 | 25 | [Wildflower](https://open.spotify.com/track/24bzJwjGBWtGCs7xKIKQsB) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Depression Cherry](https://open.spotify.com/album/194CqC2Zi0kUFEPWedb3qr) | 3:39 |
-| 26 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
-| 27 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
+| 26 | [twin flame](https://open.spotify.com/track/4pR5ZEROnKQpJttWNn5er6) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 3:59 |
+| 27 | [Tiny Moves](https://open.spotify.com/track/6pP7muebYMLT46IOZOLvyN) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Tiny Moves](https://open.spotify.com/album/1d8D5z3nU0BEsv7azmcVE6) | 3:48 |
 | 28 | [Simple Song](https://open.spotify.com/track/48bo7uexDvAThcRDvEB2W7) | [The Shins](https://open.spotify.com/artist/4LG4Bs1Gadht7TCrMytQUO) | [Port Of Morrow](https://open.spotify.com/album/4ZTcGoOrNro2aCAStXEjZi) | 4:15 |
 | 29 | [Don't Delete The Kisses](https://open.spotify.com/track/3K94Fd5ZQkPCW8wV6oyk22) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:35 |
 | 30 | [Liar](https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 4:21 |
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mvEU1S6INL.md) - [plain]
 | 56 | [Cherry](https://open.spotify.com/track/2HQY0sXTrBJCuxqJxbeMWB) | [Moose Blood](https://open.spotify.com/artist/5fEKZRCUa0JApec5Xy095q) | [I'll Keep You In Mind, From Time to Time](https://open.spotify.com/album/7aMvv0lYIhPyudfM1TmItV) | 2:39 |
 | 57 | [The Wilhelm Scream](https://open.spotify.com/track/688DZF6e1MH5Uf409dwaHm) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:33 |
 | 58 | [Love Song](https://open.spotify.com/track/3rQaxZaozQfrUEQx1PzT14) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [Love Song](https://open.spotify.com/album/3CzGMHubMJyVA7Cp2UeYqH) | 2:51 |
-| 59 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
-| 60 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
+| 59 | [She's Casual](https://open.spotify.com/track/3WLwkFXJpZ1VpDxAh0DXzz) | [The Hunna](https://open.spotify.com/artist/7jZycSvTyx0W9poD4PjEIG) | [100](https://open.spotify.com/album/4JqtQJR0R6xSJqlmGH31X3) | 3:03 |
+| 60 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 |
 | 61 | [Love's The Only Way](https://open.spotify.com/track/7eIODQbTgKeNawQtowZJEM) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Social Cues](https://open.spotify.com/album/2VuZJsJBPLwg9BeQFQle8G) | 4:00 |
 | 62 | [Litost](https://open.spotify.com/track/7HyvbdOddwXEGzKoLNxhKG) | [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Love Songs Drug Songs](https://open.spotify.com/album/2gb0qB8risulVnHeXCqqhK) | 5:21 |
 | 63 | [Loveless](https://open.spotify.com/track/3XujDGA7LqWSHNQ0PaE7X0) | [PVRIS](https://open.spotify.com/artist/6oFs3qk4VepIVFdoD4jmsy) | [Use Me](https://open.spotify.com/album/40J4xZREcFpeJVnXDXntvk) | 3:49 |

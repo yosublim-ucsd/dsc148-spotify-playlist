@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 
 > Listen to the soundtracks of the drama Doctor Cha\. \(드라마 닥터 차정숙의 사운드 트랙들을 즐겨보세요!\) You can also listen to songs  selected by the cast\. \(배우들이  직접 선정한 곡들도 들어보실 수 있습니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,338 likes - 53 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,343 likes - 53 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWGiOQ5f5blv.md) - [plain]
 | 11 | [Feeling](https://open.spotify.com/track/20nc5Bn27P2EsUFnpHrRSQ) | [Kim Wan\-sun](https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF) | [Feeling](https://open.spotify.com/album/525nsPRabUCLac7QGjBiiz) | 3:07 |
 | 12 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
 | 13 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 |
-| 14 | [Second \(feat\. BIBI\)](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Second](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) | 3:38 |
+| 14 | [Second](https://open.spotify.com/track/4ghTyKLeMMTZQ85LwRbej0) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl), [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Second](https://open.spotify.com/album/0Nck83Sjn5RfHsITpO8GuZ) | 3:38 |
 | 15 | [No.1](https://open.spotify.com/track/4RtHEggWfFWknuAsRdkyku) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [No.1 \- The 2nd Album](https://open.spotify.com/album/4Se5tmG7Dc1WKJYr4o5gXz) | 3:13 |
 | 16 | [FEARLESS](https://open.spotify.com/track/296nXCOv97WJNRWzIBQnoj) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [FEARLESS](https://open.spotify.com/album/4Mc7WwYH41hgUWeKX25Sot) | 2:48 |
 | 17 | [Curated by Kim Byung Chul](https://open.spotify.com/track/1f6G6j66YK9yGiDmelwi9b) | [Kim Byung Chul](https://open.spotify.com/artist/0dMGnNOXRsX492vEOFwDFo) | [Doctor Cha](https://open.spotify.com/album/5vbOaVjLKkx2Zf2Pws2AZR) | 0:32 |

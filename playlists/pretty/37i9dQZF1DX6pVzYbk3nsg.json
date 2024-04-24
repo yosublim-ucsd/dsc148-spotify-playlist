@@ -1,6 +1,6 @@
 {
   "description": "Los sonidos tradicionales de la Isla del Encanto.",
-  "num_followers": 5786,
+  "num_followers": 5806,
   "original_name": "Bomba y Plena",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
+        "name": "Candela!",
+        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
+      },
+      "artists": [
+        {
+          "name": "F\u00e9lix Aldu\u00e9n",
+          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
+        }
+      ],
+      "duration_ms": 260946,
+      "name": "Ola de la Mar",
+      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
+    },
+    {
+      "added_at": "2023-06-13 22:15:19",
+      "album": {
         "name": "Tamb\u00f3",
         "url": "https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda"
       },
@@ -295,22 +311,6 @@
       "duration_ms": 194760,
       "name": "Palo'e bandera",
       "url": "https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh"
-    },
-    {
-      "added_at": "2023-06-13 22:15:19",
-      "album": {
-        "name": "Candela!",
-        "url": "https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1"
-      },
-      "artists": [
-        {
-          "name": "F\u00e9lix Aldu\u00e9n",
-          "url": "https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9"
-        }
-      ],
-      "duration_ms": 260946,
-      "name": "Ola de la Mar",
-      "url": "https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -363,18 +363,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Viento de Agua Unplugged: Materia Prima",
-        "url": "https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u"
+        "name": "Buya (Live)",
+        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
       },
       "artists": [
         {
-          "name": "Viento De Agua",
-          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
+          "name": "Buya",
+          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
         }
       ],
-      "duration_ms": 325666,
-      "name": "Pa\u2019 un Plenero (plena)",
-      "url": "https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid"
+      "duration_ms": 261386,
+      "name": "Preparate Reparada (Guembe) [Live]",
+      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
     },
     {
       "added_at": "2023-06-13 22:15:19",
@@ -395,18 +395,18 @@
     {
       "added_at": "2023-06-13 22:15:19",
       "album": {
-        "name": "Buya (Live)",
-        "url": "https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq"
+        "name": "Viento de Agua Unplugged: Materia Prima",
+        "url": "https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u"
       },
       "artists": [
         {
-          "name": "Buya",
-          "url": "https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna"
+          "name": "Viento De Agua",
+          "url": "https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE"
         }
       ],
-      "duration_ms": 261386,
-      "name": "Preparate Reparada (Guembe) [Live]",
-      "url": "https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5"
+      "duration_ms": 325666,
+      "name": "Pa\u2019 un Plenero (plena)",
+      "url": "https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid"
     },
     {
       "added_at": "2023-06-13 22:15:19",

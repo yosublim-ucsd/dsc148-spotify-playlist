@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > Fresh new Korean independent & rising talents are here\. \(Cover: Milena\(밀레나\)\)\(프레쉬한 한국의 새로운 재능들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,603 likes - 101 songs - 5 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,630 likes - 101 songs - 5 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [No Jam](https://open.spotify.com/track/0DY6EuQNgZItf5nWrmUsH9) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Foggy](https://open.spotify.com/album/6hEj5ZCKdaWUXDq73wGcaN) | 2:47 |
 | 2 | [Spring confession](https://open.spotify.com/track/3Q81IdqSlc1HyMCuBrjiBv) | [Shin Hyun Woo](https://open.spotify.com/artist/3HDvjWBZO7L6wQ0ExZ7muK) | [Spring confession](https://open.spotify.com/album/3lqHryPgRRq7bWbRAbAylg) | 2:53 |
 | 3 | [Like a Star](https://open.spotify.com/track/5BJOvIsJSIBjA7F3k1gzoX) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7), [Richboy Hardy](https://open.spotify.com/artist/213y7dSJCI5M9S4cOA6vju) | [Like a Star](https://open.spotify.com/album/3OAhXlOsjPDLvOMNwJQa9F) | 3:28 |
-| 4 | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF) | [Biyun](https://open.spotify.com/artist/1AwnvAdxdytU1fwZ0uKqsZ), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2) | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ) | 3:17 |
+| 4 | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/track/14RITV3hrIexqMrp1jVMpF) | [Biyun](https://open.spotify.com/artist/4KOCZCiuT66e6lEpYEkNBk), [Chu Seo Jun](https://open.spotify.com/artist/1rVGJZbfXkVcGv0qpOprl2) | [아름다웠던 너에게 \(Feat\. 추서준\)](https://open.spotify.com/album/42NNKD5OS2Dm6OM0FDKAjZ) | 3:17 |
 | 5 | [Really Like You \- Spring Version](https://open.spotify.com/track/2DFudW1pZSLY739UrsPDTV) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You \(Spring Version\)](https://open.spotify.com/album/6FY4ksL8ycUIQYeaGO0HHM) | 3:13 |
 | 6 | [Cocktail love](https://open.spotify.com/track/4eqVxp7h7cTGJaKzefDRhJ) | [Sae Ra](https://open.spotify.com/artist/6YE2PO4gLc8ybNdD5qf0hP) | [A Profitable Cage OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/6pdJ94PYofmKEksXlbTSEC) | 3:34 |
 | 7 | [Bing\-Bing \(feat\. h3hyeon\)](https://open.spotify.com/track/0MwNk4V37dY6bV9b7b7yIu) | [Yumewanaii](https://open.spotify.com/artist/4oLq9qTt8P6pawQN1w9zL8), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [Bing\-Bing](https://open.spotify.com/album/0dbwbEXJh7T77t4U9oUgN7) | 2:40 |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 
 ### [This Is Los Alegres De Teran](https://open.spotify.com/playlist/37i9dQZF1DZ06evO29E6gJ)
 
-> This is Los Alegres De Teran\. أغانٍ رائعة في قائمة أغانٍ واحدة.
+> This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,206 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,205 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 19 | [Señorita Cantinera](https://open.spotify.com/track/7DWY2WaAOc6x7KztLZH6CS) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Señorita Cantinera \(Serie 2000\)](https://open.spotify.com/album/0WZxY0v3nKJNBJHCXqlryw) | 2:42 |
 | 20 | [Tu Recuerdo](https://open.spotify.com/track/1TbxwY95RPMI3dQskajdWC) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:30 |
 | 21 | [Desilusión](https://open.spotify.com/track/4NEZkAs4jxwUSdyXfn6Q8w) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [15 Exitos de Los Alegres de Terán, vol\. 1](https://open.spotify.com/album/4jz9JeBYSYRORoyN3kuv8s) | 1:56 |
-| 22 | [carta jugada](https://open.spotify.com/track/50rr7toY0hwRzLCHEmt1BB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [ANORANZA NORTENA](https://open.spotify.com/album/6626gtmDfSGPNkce5p8kfF) | 2:45 |
-| 23 | [Quiero Que Sepas](https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:19 |
+| 22 | [Quiero Que Sepas](https://open.spotify.com/track/642HoTm4RHCmqhvsTAF1HD) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Siguen En La Honda Nortena](https://open.spotify.com/album/2XV7z1eeqMkdGk6Ve8hOlr) | 2:19 |
+| 23 | [carta jugada](https://open.spotify.com/track/50rr7toY0hwRzLCHEmt1BB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [ANORANZA NORTENA](https://open.spotify.com/album/6626gtmDfSGPNkce5p8kfF) | 2:45 |
 | 24 | [Aun Se Acuerda De Mi](https://open.spotify.com/track/1xHzz42RHgu6cj7kbZr5G3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:56 |
 | 25 | [Flor del Río](https://open.spotify.com/track/2AXZr6AeT25FpjUxx1FOlO) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Tesoros de Colección \- Los Mejores Duetos Rancheros de la Historia](https://open.spotify.com/album/5fpkWn4ktePmZVnD4ajpNQ) | 2:31 |
 | 26 | [Hay Mujeres Ingratas en la Vida \[Ranchera\]](https://open.spotify.com/track/2Bkt0E2LT4oewCAsDuFsRJ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [FOGATA NORTENA](https://open.spotify.com/album/6obN0Ujy1MqdJbeR7D7zcy) | 2:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO29E6gJ.md) - [plain]
 | 49 | [Nocturno a Rosario](https://open.spotify.com/track/5P9KFF9UpaPmA49QJO7huL) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:57 |
 | 50 | [Jacinto Treviño](https://open.spotify.com/track/25DxDNf0o4Uw1HhEAEFJ8p) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:06 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGMyOWI2MWE1ZThmODI0NmEzMWQyMzNkY2U0MzhmNjA1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGZlZjJkNTVjOTdiMjFiNmIxZDUwMzU3MDlkMGNjMDhk`

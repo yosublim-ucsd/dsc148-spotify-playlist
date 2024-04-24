@@ -96,8 +96,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 86 | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/track/4toChdeQFhnq2hngxaOKvm) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM) | [Trust Myself \(feat\. Gallant\)](https://open.spotify.com/album/1GVE8WmZmTLYLmawzSmeWv) | 3:37 |
 | 87 | [Over & Out](https://open.spotify.com/track/36ZNcCYaeDPevPPruIZ6xS) | [Newton Faulkner](https://open.spotify.com/artist/0pf1lcBxh6HiiHQAIzhTI5) | [Rebuilt By Humans](https://open.spotify.com/album/6A8INtDOXLCgJCyCePFfSm) | 3:19 |
 | 88 | [Ghosted \- Zac Samuel Remix](https://open.spotify.com/track/1DCSbC1KGolxOh2jBKhBUC) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv), [Zac Samuel](https://open.spotify.com/artist/3imlibJrwqYv8gqII7u4r0) | [Ghosted \(Remixes\)](https://open.spotify.com/album/2s0Zp40uEuirxptvvuKtLQ) | 3:27 |
-| 89 | [World Still Turns](https://open.spotify.com/track/0eqt82y3bYXdkXpMeYOKyK) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [bud, sweat & beers](https://open.spotify.com/album/4s90kMJuWDQNx2X6mHjm9Z) | 3:00 |
-| 90 | [F.L.Y.](https://open.spotify.com/track/1vyHi5pAy6VXLCz6BmbDOo) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [F.L.Y.](https://open.spotify.com/album/18lu36GvagA0XOeaXScogj) | 2:24 |
+| 89 | [F.L.Y.](https://open.spotify.com/track/1vyHi5pAy6VXLCz6BmbDOo) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [F.L.Y.](https://open.spotify.com/album/18lu36GvagA0XOeaXScogj) | 2:24 |
+| 90 | [World Still Turns](https://open.spotify.com/track/0eqt82y3bYXdkXpMeYOKyK) | [Devlin](https://open.spotify.com/artist/7Ks3elJhSP20mD04lgiA68) | [bud, sweat & beers](https://open.spotify.com/album/4s90kMJuWDQNx2X6mHjm9Z) | 3:00 |
 | 91 | [Searching](https://open.spotify.com/track/18NWFWxhITcw2s6SNfbRlJ) | [Lost + Found](https://open.spotify.com/artist/5mRE8kKA1XzOkZpPSiF5yv) | [Searching](https://open.spotify.com/album/26tGOB7aNjpOYPBvYZwCe8) | 2:48 |
 | 92 | [did you know](https://open.spotify.com/track/1RoXbREMm18VRMIlhepcmv) | [Kelly Clarkson](https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX) | [chemistry \(Deluxe\)](https://open.spotify.com/album/3THFV3WrofiRQoBWNyZ54F) | 3:09 |
 | 93 | [Four Letters](https://open.spotify.com/track/1SujOS52KWiUrFbhGSSv0T) | [Lawson](https://open.spotify.com/artist/2Ah7S4oLgEBYRbz2V0cZzU) | [Hell Yeah](https://open.spotify.com/album/4uX8OvNcCFkOr1WRVgLKO6) | 3:18 |
@@ -130,4 +130,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 120 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 121 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `Mjg1NjQwMzUsMDAwMDAwMDAzYzM5NDgwNjVlMzIyZmVkMDg4NjdmYTMxYmM1YmRkMg==`
+Snapshot ID: `Mjg1NjYzNzUsMDAwMDAwMDA5OWEyMzlkNjE3M2E2YTEzZWJlNmM2OWFjMDY0YTMyYg==`

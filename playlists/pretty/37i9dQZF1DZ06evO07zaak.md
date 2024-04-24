@@ -2,35 +2,35 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 
 ### [This Is Pink Floyd](https://open.spotify.com/playlist/37i9dQZF1DZ06evO07zaak)
 
-> This is Pink Floyd\. The essential tracks, all in one playlist.
+> This Is Pink Floyd\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,438,620 likes - 35 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,438,686 likes - 35 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/track/05d0sXGApO7BPFY9tMwCXm) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9), [Andriy Khlyvnyuk](https://open.spotify.com/artist/2VfXr8g4E0qImkefKT3Nby) | [Hey Hey Rise Up \(feat\. Andriy Khlyvnyuk of Boombox\)](https://open.spotify.com/album/3lBCDflEyxa7JucrV4Npwj) | 3:26 |
-| 2 | [Breathe \(In the Air\)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:49 |
-| 3 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 2 | [Another Brick in the Wall, Pt\. 2](https://open.spotify.com/track/4gMgiXfqyzZLMhsksGmbQV) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:58 |
+| 3 | [Breathe \(In the Air\)](https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 2:49 |
 | 4 | [Wish You Were Here](https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:34 |
 | 5 | [Learning to Fly](https://open.spotify.com/track/3ieDOGcOqVxScs2VZBzidt) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 4:52 |
-| 6 | [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:22 |
-| 7 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 |
+| 6 | [Comfortably Numb](https://open.spotify.com/track/5HNCy40Ni5BZJFw1TKzRsC) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 6:22 |
+| 7 | [Money](https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:22 |
 | 8 | [Have a Cigar](https://open.spotify.com/track/3CmHvyZQQAGkKkTjTBFWN6) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 5:07 |
 | 9 | [Pigs on the Wing 1](https://open.spotify.com/track/19tHmIQsRnebkyK09m2UXE) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 1:24 |
-| 10 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:53 |
-| 11 | [Hey You](https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 4:38 |
+| 10 | [Hey You](https://open.spotify.com/track/7F02x6EKYIQV3VcTaTm7oN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 4:38 |
+| 11 | [Time](https://open.spotify.com/track/3TO7bbrUKrOSPGRTB5MeCz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 6:53 |
 | 12 | [Shine On You Crazy Diamond \(Pts\. 1\-5\)](https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 13:31 |
 | 13 | [What Do You Want from Me](https://open.spotify.com/track/3Tsh9pjiJ5cvmuiZALdgVz) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 4:21 |
-| 14 | [Brain Damage](https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 3:46 |
-| 15 | [Young Lust](https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:29 |
+| 14 | [Young Lust](https://open.spotify.com/track/3xGJuHvSxFJxxYlHj5BIoT) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:29 |
+| 15 | [Brain Damage](https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 3:46 |
 | 16 | [Welcome to the Machine](https://open.spotify.com/track/5VWC7v2dC2K0SIIjT9WTLN) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Wish You Were Here](https://open.spotify.com/album/0bCAjiUamIFqKJsekOYuRw) | 7:31 |
 | 17 | [Coming Back to Life](https://open.spotify.com/track/1bQ4zbP8Fo0qAePTSOfYji) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 6:19 |
-| 18 | [The Great Gig in the Sky](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 4:43 |
-| 19 | [The Happiest Days of Our Lives](https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 1:50 |
+| 18 | [The Happiest Days of Our Lives](https://open.spotify.com/track/2O3l4X1yTua8oMMCtazkyo) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 1:50 |
+| 19 | [The Great Gig in the Sky](https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 4:43 |
 | 20 | [On the Turning Away](https://open.spotify.com/track/7KA6U0WOHdGxWWLGPYN2Sb) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [A Momentary Lapse of Reason](https://open.spotify.com/album/4xODvcpjOOgu4oKWL0sCte) | 5:41 |
 | 21 | [Marooned](https://open.spotify.com/track/6bIPHR8AJG5HAcn9oF21Ma) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:30 |
-| 22 | [Us and Them](https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 7:49 |
-| 23 | [Stop](https://open.spotify.com/track/21L1dVOTGhvAKvBXXnTIHj) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 0:30 |
+| 22 | [Stop](https://open.spotify.com/track/21L1dVOTGhvAKvBXXnTIHj) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 0:30 |
+| 23 | [Us and Them](https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Dark Side of the Moon](https://open.spotify.com/album/4LH4d3cOWNNsVw41Gqt2kv) | 7:49 |
 | 24 | [San Tropez](https://open.spotify.com/track/3kbUFmLV5SHVQonfOpNgkd) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 3:43 |
 | 25 | [Lost for Words](https://open.spotify.com/track/4Ev1LZ4uzjnSvDHpgdyBZK) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Division Bell](https://open.spotify.com/album/5F0IQXuHfTV7SBvZVnXERl) | 5:14 |
 | 26 | [Pigs \(Three Different Ones\)](https://open.spotify.com/track/0gEaeqVRHPzRc7HMXtOKc7) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 11:25 |
@@ -44,4 +44,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO07zaak.md) - [plain]
 | 34 | [Sheep](https://open.spotify.com/track/55e99bv2wlgTYtNEYHWtN1) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Animals](https://open.spotify.com/album/3b4E89rxzZQ9zkhgKpj8N4) | 10:19 |
 | 35 | [A Pillow of Winds](https://open.spotify.com/track/7krbQbYq63hcwVMNW1R0tD) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [Meddle](https://open.spotify.com/album/468ZwCchVtzEbt9BHmXopb) | 5:12 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDEzNzdkMjQzZDc4YjM1NTIwMmY1ZjM4YmFmZjhiYjYw`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGQzNGFjMmFlMWY2Y2FjODU5OWE1Y2IwODgwOTk2M2Y3`

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 
 ### [This Is Bad Religion](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1t2kBq)
 
-> This is: Bad Religion\. Alle wichtigen Tracks in einer Playlist.
+> This is Bad Religion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,692 likes - 50 songs - 1 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,702 likes - 50 songs - 1 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1t2kBq.md) - [plain]
 | 49 | [Fuck Armageddon...This Is Hell](https://open.spotify.com/track/2WUJDRIoViFs5RYclM6gT0) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [How Could Hell Be Any Worse? \(2005 Remaster\)](https://open.spotify.com/album/7G9tRlpSNYGMzAjcjpgIJP) | 2:48 |
 | 50 | [Wrong Way Kids](https://open.spotify.com/track/1L78NTjysRuvjRwLZIGdua) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [The Dissent Of Man \(Bonus Track Version\)](https://open.spotify.com/album/1wMkiD60ZCqlZQZ3m7kXSc) | 2:46 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDU0ZTEzYWE5YjBkOGYwZDljZjU5ZGJhNGZmNTJlMmZi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDQ4NWNjNTkxNWRlNTk1YzAwYzMzOWVlY2UzN2JmZTUz`

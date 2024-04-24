@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 
 > For all of us dancing on our own.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,970 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,977 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 36 | [Numb Little Bug](https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Numb Little Bug](https://open.spotify.com/album/20zaiRxxUfDqdCKsdSo7HM) | 2:49 |
 | 37 | [Red \(Taylor's Version\)](https://open.spotify.com/track/4OAuvHryIVv4kMDNSLuPt6) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Red \(Taylor's Version\)](https://open.spotify.com/album/6kZ42qRrzov54LcAk4onW9) | 3:43 |
 | 38 | [Angeleyes](https://open.spotify.com/track/7rWgGyRK7RAqAAXy4bLft9) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Voulez\-Vous](https://open.spotify.com/album/7iLuHJkrb9KHPkMgddYigh) | 4:20 |
-| 39 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
-| 40 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
+| 39 | [Miss Me Too](https://open.spotify.com/track/1sfg5AQ5NFecKm6GO7dkdo) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Miss Me Too](https://open.spotify.com/album/3rS947KA8g4uIG5zd5JH7N) | 3:02 |
+| 40 | [Too Much](https://open.spotify.com/track/36FZL9SzRh5BhtG1cUyGWr) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [Too Much](https://open.spotify.com/album/1hb46dctiqHMNrp3QGXwKr) | 3:03 |
 | 41 | [American Teenager](https://open.spotify.com/track/4ltqfN12ohaVZdM6C45gMg) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Preacher’s Daughter](https://open.spotify.com/album/3WmujGwOS0ANHkJRnMH6n8) | 4:18 |
 | 42 | [everything sucks](https://open.spotify.com/track/3z06k8YF9CqX0CGFrlekOK) | [vaultboy](https://open.spotify.com/artist/0K87f3owemzI8NUCoEIXOB) | [everything sucks](https://open.spotify.com/album/0VtWoMZIJp2kyJcbzBJxLO) | 1:55 |
 | 43 | [girls like me don't cry](https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 3:33 |
@@ -59,29 +59,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUAeYvs88zc.md) - [plain]
 | 49 | [feel something](https://open.spotify.com/track/7JDWhC422Gtk1Bq0mL3OTC) | [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [feel something](https://open.spotify.com/album/6qLQLAHnS54MLHY8wxXDX5) | 3:00 |
 | 50 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 |
 | 51 | [So Good](https://open.spotify.com/track/6kxaaIeowajN7w21PfMLbu) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [So Good](https://open.spotify.com/album/2GCDQipR2hfrNzLC9FCwaf) | 2:56 |
-| 52 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 |
-| 53 | [What If I Love You](https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s) | 2:38 |
+| 52 | [What If I Love You](https://open.spotify.com/track/4i4WsUvJEgB4V6AyONAJe8) | [Gatlin](https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9) | [What If I Love You](https://open.spotify.com/album/71cvc2lqbA7DL44y45Cf9s) | 2:38 |
+| 53 | [Killing Me](https://open.spotify.com/track/2Lss5tezmIkgZA3GFfptI2) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Killing Me](https://open.spotify.com/album/7l01qix76t2pcJNPTEMA9E) | 3:24 |
 | 54 | [Neon Moon \- with Kacey Musgraves](https://open.spotify.com/track/3lVPtkNFoIyPPGVdNri4VH) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Reboot](https://open.spotify.com/album/0U3nI78LUpAwprraUf7vAS) | 4:38 |
 | 55 | [Different Lives](https://open.spotify.com/track/7e7JVMegy4WBMnzuZE9Srq) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ), [Rachel Grae](https://open.spotify.com/artist/0ekCwZGQUkAISV1h48jlHn) | [Different Lives](https://open.spotify.com/album/2jnVMgIk877jRCQqJMuNfS) | 3:17 |
 | 56 | [It's not fair](https://open.spotify.com/track/3FJ992ud0OqK9ZS6fgMuDc) | [Kenya Grace](https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2) | [It's not fair](https://open.spotify.com/album/3qdOVGEaqhJHJBbd2qz6NP) | 2:42 |
 | 57 | [The Bottom](https://open.spotify.com/track/4Sk74gcXTe9dnE1HU5Pn1y) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 3:00 |
 | 58 | [Can't Do Better](https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Can't Do Better](https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc) | 3:08 |
-| 59 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
-| 60 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
+| 59 | [Telepath](https://open.spotify.com/track/3Z39gbqdaGL3WJXBG0gcuE) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Telepath](https://open.spotify.com/album/6npBFQje5ZenFSLErcNflE) | 3:14 |
+| 60 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
 | 61 | [the older you get, the less you cry](https://open.spotify.com/track/280MV4FuB5uusjx8wj1dpt) | [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [gg bb xx \(deluxe\)](https://open.spotify.com/album/77Df1klImSWFeDQh96h626) | 3:22 |
 | 62 | [Happy & Sad](https://open.spotify.com/track/04MoJkJzCoU9ukeewv5Vzu) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 4:03 |
 | 63 | [Looks Like Me](https://open.spotify.com/track/6o8tRLnKNSVoBHCTfiFdBA) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [Looks Like Me](https://open.spotify.com/album/5ct7MONBCzaJQVIWWOOi9M) | 3:10 |
 | 64 | [You Let Me Down](https://open.spotify.com/track/5vItiIbaaoTxihU8uAlRbq) | [Alessia Cara](https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR) | [In The Meantime](https://open.spotify.com/album/5reEg9or7xqpXy6XLVIoTE) | 3:13 |
 | 65 | [How Long \- From"Euphoria" An HBO Original Series](https://open.spotify.com/track/05eZlxyjbkHMPCnunUasCS) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [How Long \(From "Euphoria" An HBO Original Series\)](https://open.spotify.com/album/7IneQ0ViJjz9UR0lisWJzJ) | 3:19 |
-| 66 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
-| 67 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
-| 68 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 |
+| 66 | [Becky's So Hot](https://open.spotify.com/track/2vVLSYsOUNCfN66jTyJsMY) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Girl Of My Dreams](https://open.spotify.com/album/38aH4OObJSjtO48q2eNoA4) | 2:42 |
+| 67 | [Dancing On My Own](https://open.spotify.com/track/3Rc2ajBMInxeNGVkMPC92Y) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Body Talk Pt\. 1](https://open.spotify.com/album/4ektWErsV6EIxW0jBWq1Jn) | 4:45 |
+| 68 | [Stupid Feelings](https://open.spotify.com/track/7iUB3byx9Rcks8zW10JVkP) | [220 KID](https://open.spotify.com/artist/4Euia7UzdRshy1DJOSMTcs), [LANY](https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF) | [Stupid Feelings](https://open.spotify.com/album/4VKGR1IZuTV7lJRh9oDJJa) | 2:46 |
 | 69 | [Black Hole](https://open.spotify.com/track/6xw8ld1ztoCKifwTN6uGDq) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Black Hole](https://open.spotify.com/album/0ogiikOppOfG6kkhtC5BDz) | 3:20 |
 | 70 | [24](https://open.spotify.com/track/5nsMKSAJwcr1pA9I6PW429) | [sundial](https://open.spotify.com/artist/1SOubzv0uhrziEXbNLMUw9) | [24](https://open.spotify.com/album/3X4pg5g6RIl0Le8RSgiwfJ) | 2:13 |
 | 71 | [All You Had To Do Was Stay](https://open.spotify.com/track/0dAb8TY433dl3ZfXYCLE19) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [1989](https://open.spotify.com/album/2QJmrSgbdM35R67eoGQo4j) | 3:13 |
 | 72 | [Not Sad Anymore](https://open.spotify.com/track/1AHa2iLVTyjMisXwg0oMh1) | [Clara Mae](https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu) | [Not Sad Anymore](https://open.spotify.com/album/7Ils0W77mr7zmvy9MKZRcN) | 3:15 |
 | 73 | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/track/2vaxUyVWNoA2L272YHEy70) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Lay All Your Love On Me \- Spotify Singles](https://open.spotify.com/album/4aCXO1evmETJ2Cy32sZ2Zj) | 2:41 |
-| 74 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 |
-| 75 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
+| 74 | [Vicious](https://open.spotify.com/track/77Gyctcku69jSlSSYhZEkh) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Vicious](https://open.spotify.com/album/7p3M1cRTouWTpmBDhlEAKS) | 2:29 |
+| 75 | [Psycho](https://open.spotify.com/track/2Gs2mHNQF2Lt7a9iIarcji) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:04 |
 
 Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMGFkZjYxMzdkMDZlMTYwMzAzODk3NTBjNjQwN2EzN2Yx`

@@ -1,12 +1,12 @@
 {
   "description": "This is Ziggy Marley. The essential tracks, all in one playlist.",
-  "num_followers": 32363,
+  "num_followers": 32370,
   "original_name": "This Is Ziggy Marley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDUzMzg2YTExMTI3MTM3ZGJjY2Y1MmU3OTZmNDYyYzNi",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGY2Njc1ZDI1Yjk0MDdkZThmMjc3OGI3YjhhNjlhZDBh",
   "tracks": [
     {
       "added_at": null,
@@ -36,9 +36,9 @@
           "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 228506,
-      "name": "Love Is My Religion",
-      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
+      "duration_ms": 224413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/4jKapTvg2oCpikdt0oFqf6"
     },
     {
       "added_at": null,
@@ -91,6 +91,22 @@
       "duration_ms": 254426,
       "name": "Dragonfly",
       "url": "https://open.spotify.com/track/6nawvymysrG1PgLtNpUwVL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/6gbz6snf68aII9mDozVdkp"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 228506,
+      "name": "Love Is My Religion",
+      "url": "https://open.spotify.com/track/1HH9AYnSKZaPKgZUGuiDRf"
     },
     {
       "added_at": null,
@@ -239,22 +255,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dragonfly",
-        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 257799,
-      "name": "Good Ol' Days (featuring Cedella Marley)",
-      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Surfers Paradise (Expanded)",
         "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
       },
@@ -271,6 +271,22 @@
       "duration_ms": 190586,
       "name": "Love",
       "url": "https://open.spotify.com/track/5mo9cqdFYQDHDBaYT3rYZe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dragonfly",
+        "url": "https://open.spotify.com/album/62Ot058LfUzRFxbramAggQ"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 257799,
+      "name": "Good Ol' Days (featuring Cedella Marley)",
+      "url": "https://open.spotify.com/track/28Q2F391hseaFE88B3jki4"
     },
     {
       "added_at": null,
@@ -727,22 +743,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 238253,
-      "name": "See Dem Fake Leaders",
-      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Family Time",
         "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
       },
@@ -759,6 +759,22 @@
       "duration_ms": 198066,
       "name": "Take Me To Jamaica (feat. Toots Hibbert)",
       "url": "https://open.spotify.com/track/2vcKT2C8W276xnrWz6ypuz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 238253,
+      "name": "See Dem Fake Leaders",
+      "url": "https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8"
     },
     {
       "added_at": null,
@@ -807,46 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rebellion Rises",
-        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 184992,
-      "name": "High On Life",
-      "url": "https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Family Time",
-        "url": "https://open.spotify.com/album/3wsu2mRApfZ2eV3lYtg2l3"
-      },
-      "artists": [
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        },
-        {
-          "name": "Rita Marley",
-          "url": "https://open.spotify.com/artist/13Kn0OI9oXhBDXClb1hGy3"
-        },
-        {
-          "name": "Cedella Marley",
-          "url": "https://open.spotify.com/artist/6KL6RLoRlfIYXGx4UAYT6O"
-        }
-      ],
-      "duration_ms": 213480,
-      "name": "I Love You Too (feat. Rita Marley; Cedella Marley)",
-      "url": "https://open.spotify.com/track/7hLLbfEkx1UeXkD91oII0I"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Personal Revolution (Live)",
         "url": "https://open.spotify.com/album/4uzWNogETDR04paJciOp1E"
       },
@@ -859,6 +835,22 @@
       "duration_ms": 327657,
       "name": "Personal Revolution - Live",
       "url": "https://open.spotify.com/track/78MJxpgW1vyCpcjkc714KB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rebellion Rises",
+        "url": "https://open.spotify.com/album/21neJIeMqBu6WFZvS6ZIwj"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 184992,
+      "name": "High On Life",
+      "url": "https://open.spotify.com/track/43fy3v7rNHzhR0XypcpCQc"
     },
     {
       "added_at": null,

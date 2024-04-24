@@ -1,6 +1,6 @@
 {
   "description": "pop punk, emo, post-hardcore, alt, & more. Cover: The Story So Far",
-  "num_followers": 453147,
+  "num_followers": 452868,
   "original_name": "The Scene",
   "owner": {
     "name": "Spotify",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "PIN-EYE",
-        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
-      },
-      "artists": [
-        {
-          "name": "Jhariah",
-          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
-        }
-      ],
-      "duration_ms": 272668,
-      "name": "PIN-EYE",
-      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Tear Me to Pieces",
         "url": "https://open.spotify.com/album/17SwYUB37YlHat6m7qCTge"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "PIN-EYE",
+        "url": "https://open.spotify.com/album/0L83uKz3F4cZO6D8Y85qzp"
+      },
+      "artists": [
+        {
+          "name": "Jhariah",
+          "url": "https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP"
+        }
+      ],
+      "duration_ms": 272668,
+      "name": "PIN-EYE",
+      "url": "https://open.spotify.com/track/1E3GhjaQttI7MXMT9oSgZU"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Gray",
         "url": "https://open.spotify.com/album/20fGJw0rld7cThO7quNyyR"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 149400,
       "name": "Gray",
       "url": "https://open.spotify.com/track/4iDjqte9c2cUhaZKJT38vl"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Dark Magic",
-        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
-      },
-      "artists": [
-        {
-          "name": "nothing,nowhere.",
-          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Pity Party",
-      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -771,6 +755,22 @@
       "duration_ms": 182117,
       "name": "One Last Time",
       "url": "https://open.spotify.com/track/19bqVQCJzBLiAb0ljuAVMC"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Dark Magic",
+        "url": "https://open.spotify.com/album/4febs9NRsULttX3cSN4Oev"
+      },
+      "artists": [
+        {
+          "name": "nothing,nowhere.",
+          "url": "https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Pity Party",
+      "url": "https://open.spotify.com/track/0Latl06o13TA9mQV7SBUpx"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Brag",
-        "url": "https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T"
-      },
-      "artists": [
-        {
-          "name": "The Home Team",
-          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
-        }
-      ],
-      "duration_ms": 193250,
-      "name": "Brag",
-      "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "WARZ0NE",
         "url": "https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn"
       },
@@ -1015,18 +999,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Under the Influence(r)",
-        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+        "name": "Brag",
+        "url": "https://open.spotify.com/album/6ykdAvIPfe7f1jjVNjBC2T"
       },
       "artists": [
         {
-          "name": "The Summer Set",
-          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+          "name": "The Home Team",
+          "url": "https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x"
         }
       ],
-      "duration_ms": 195012,
-      "name": "Under the Influence(r)",
-      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
+      "duration_ms": 193250,
+      "name": "Brag",
+      "url": "https://open.spotify.com/track/0HfLboGEuY82423ar9Bo5c"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1043,6 +1027,22 @@
       "duration_ms": 224888,
       "name": "Day By Day",
       "url": "https://open.spotify.com/track/6qMrFgWAV9zpSyhdTM0tBl"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Under the Influence(r)",
+        "url": "https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK"
+      },
+      "artists": [
+        {
+          "name": "The Summer Set",
+          "url": "https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w"
+        }
+      ],
+      "duration_ms": 195012,
+      "name": "Under the Influence(r)",
+      "url": "https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1163,18 +1163,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Dark Paradise",
-        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
+        "name": "Figure 8",
+        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
       },
       "artists": [
         {
-          "name": "Belmont",
-          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+          "name": "John Harvie",
+          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
         }
       ],
-      "duration_ms": 146360,
-      "name": "Dark Paradise",
-      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
+      "duration_ms": 212727,
+      "name": "Figure 8",
+      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Figure 8",
-        "url": "https://open.spotify.com/album/6sdo6MlzIARRUlAqo8UMri"
-      },
-      "artists": [
-        {
-          "name": "John Harvie",
-          "url": "https://open.spotify.com/artist/6kTaghFWmvBbtenJUJks6h"
-        }
-      ],
-      "duration_ms": 212727,
-      "name": "Figure 8",
-      "url": "https://open.spotify.com/track/5RZ1CPAYA2q3gxHBkZuJ84"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Re-Entry (feat. Mark Hoppus)",
         "url": "https://open.spotify.com/album/1HVOuAKPRBI8oBT76slmdv"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 172928,
       "name": "Re-Entry (feat. Mark Hoppus)",
       "url": "https://open.spotify.com/track/2f2WCKwB1r2SH7AvJc0P8W"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Dark Paradise",
+        "url": "https://open.spotify.com/album/7gEgvr73TN2aBKB3jJ2rdk"
+      },
+      "artists": [
+        {
+          "name": "Belmont",
+          "url": "https://open.spotify.com/artist/6hxiY0CFXTibGUtp8TdCxp"
+        }
+      ],
+      "duration_ms": 146360,
+      "name": "Dark Paradise",
+      "url": "https://open.spotify.com/track/55T0Z7PSxKnPnsSJBaj4Zm"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1283,26 +1283,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "nosebleeder",
-        "url": "https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3"
-      },
-      "artists": [
-        {
-          "name": "LiL Lotus",
-          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
-        },
-        {
-          "name": "MOD SUN",
-          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
-        }
-      ],
-      "duration_ms": 133256,
-      "name": "blame me for everything",
-      "url": "https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "I'M IN THE MARKET TO PLEASE NO ONE",
         "url": "https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP"
       },
@@ -1331,6 +1311,26 @@
       "duration_ms": 173600,
       "name": "Ultraviolet",
       "url": "https://open.spotify.com/track/3dCcOPAudQPazNNsHXA4kt"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "nosebleeder",
+        "url": "https://open.spotify.com/album/6QTMfsAhVVDhxEZ5hA8nO3"
+      },
+      "artists": [
+        {
+          "name": "LiL Lotus",
+          "url": "https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry"
+        },
+        {
+          "name": "MOD SUN",
+          "url": "https://open.spotify.com/artist/3u2R8st1bb6zfBqNWceRXG"
+        }
+      ],
+      "duration_ms": 133256,
+      "name": "blame me for everything",
+      "url": "https://open.spotify.com/track/3gdFfyVjx5g5uqqpPH00vg"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Head in The Clouds",
+        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
+      },
+      "artists": [
+        {
+          "name": "Arrows in Action",
+          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
+        }
+      ],
+      "duration_ms": 175937,
+      "name": "Head in the Clouds",
+      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Red Wine And Discontent",
         "url": "https://open.spotify.com/album/3ywk7LvbM9ZZEHBb2pD5mz"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Head in The Clouds",
-        "url": "https://open.spotify.com/album/7w0jejpTAtTzkl4IDUcqPH"
-      },
-      "artists": [
-        {
-          "name": "Arrows in Action",
-          "url": "https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ"
-        }
-      ],
-      "duration_ms": 175937,
-      "name": "Head in the Clouds",
-      "url": "https://open.spotify.com/track/3HgDqQCtrw0k5MZR86r7Uq"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "SCUMBAG",
-        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 186910,
-      "name": "SCUMBAG",
-      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Cigarettes",
         "url": "https://open.spotify.com/album/6wpL9zVLAjk8G8mlR6mq4H"
       },
@@ -1503,22 +1487,18 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Hey Ben",
-        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+        "name": "SCUMBAG",
+        "url": "https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C"
       },
       "artists": [
         {
-          "name": "Hoodie Allen",
-          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
-        },
-        {
-          "name": "Games We Play",
-          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
         }
       ],
-      "duration_ms": 200165,
-      "name": "Hey Ben",
-      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
+      "duration_ms": 186910,
+      "name": "SCUMBAG",
+      "url": "https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1535,6 +1515,26 @@
       "duration_ms": 199412,
       "name": "Breaking Up With",
       "url": "https://open.spotify.com/track/5hJwhnnKiTgP3VySgUx5Xq"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Hey Ben",
+        "url": "https://open.spotify.com/album/6rnlieOtH8DDSZnBqe1L3M"
+      },
+      "artists": [
+        {
+          "name": "Hoodie Allen",
+          "url": "https://open.spotify.com/artist/382aq8Pij5V2nE2JMHMoxl"
+        },
+        {
+          "name": "Games We Play",
+          "url": "https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40"
+        }
+      ],
+      "duration_ms": 200165,
+      "name": "Hey Ben",
+      "url": "https://open.spotify.com/track/4E3BK77SynwO7hMHp2KvAa"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -1939,6 +1939,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "My Life In Subtitles",
+        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
+      },
+      "artists": [
+        {
+          "name": "Carpool",
+          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
+        }
+      ],
+      "duration_ms": 172893,
+      "name": "Can We Just Get High?",
+      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Origami",
         "url": "https://open.spotify.com/album/6T90kyULWSiT5DgbnGOaaE"
       },
@@ -1955,22 +1971,6 @@
       "duration_ms": 157721,
       "name": "Safe Side",
       "url": "https://open.spotify.com/track/5JaWRJrewWzIaK3TJfjDBN"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "My Life In Subtitles",
-        "url": "https://open.spotify.com/album/7sWgC3VwEkJ1NDghlHxGNc"
-      },
-      "artists": [
-        {
-          "name": "Carpool",
-          "url": "https://open.spotify.com/artist/1GfHrs9bbnqkN3ektKmGit"
-        }
-      ],
-      "duration_ms": 172893,
-      "name": "Can We Just Get High?",
-      "url": "https://open.spotify.com/track/2TOgSScrpcnSZeihmZRn93"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2087,54 +2087,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "What We Earn",
-        "url": "https://open.spotify.com/album/0LZujz7eGxoqvga2NfSTJT"
-      },
-      "artists": [
-        {
-          "name": "The Early November",
-          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
-        }
-      ],
-      "duration_ms": 209327,
-      "name": "What We Earn",
-      "url": "https://open.spotify.com/track/1coEpnh4Sibjy1dUHNwDOc"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "In Loving Memory",
-        "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
-      },
-      "artists": [
-        {
-          "name": "Ben Quad",
-          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
-        }
-      ],
-      "duration_ms": 218979,
-      "name": "In Loving Memory",
-      "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "Cardinals",
-        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
-      },
-      "artists": [
-        {
-          "name": "Telltale",
-          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
-        }
-      ],
-      "duration_ms": 191080,
-      "name": "Cardinals",
-      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "When We Were Young (feat. Jaret Reddick of Bowling For Soup)",
         "url": "https://open.spotify.com/album/40R60muWYyAVfngs2hVZfj"
       },
@@ -2155,18 +2107,50 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Slow Dance",
-        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
+        "name": "In Loving Memory",
+        "url": "https://open.spotify.com/album/1GgdhdPOZRfHJkuPxC6xNb"
       },
       "artists": [
         {
-          "name": "Life After Youth",
-          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
+          "name": "Ben Quad",
+          "url": "https://open.spotify.com/artist/2FdTMoKlQiI4m0158FbrQE"
         }
       ],
-      "duration_ms": 212034,
-      "name": "Slow Dance",
-      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
+      "duration_ms": 218979,
+      "name": "In Loving Memory",
+      "url": "https://open.spotify.com/track/45jdfAmN8eVIvcGJJQTQql"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "What We Earn",
+        "url": "https://open.spotify.com/album/0LZujz7eGxoqvga2NfSTJT"
+      },
+      "artists": [
+        {
+          "name": "The Early November",
+          "url": "https://open.spotify.com/artist/2rxtSTPBJawYhQAXIpgEAi"
+        }
+      ],
+      "duration_ms": 209327,
+      "name": "What We Earn",
+      "url": "https://open.spotify.com/track/1coEpnh4Sibjy1dUHNwDOc"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Cardinals",
+        "url": "https://open.spotify.com/album/29DOiEpGC4CZSnl6tRDrKW"
+      },
+      "artists": [
+        {
+          "name": "Telltale",
+          "url": "https://open.spotify.com/artist/6bmGjHSXH8rPaZ2iQhgNQ0"
+        }
+      ],
+      "duration_ms": 191080,
+      "name": "Cardinals",
+      "url": "https://open.spotify.com/track/723vVxxNycnmucEWfpvarT"
     },
     {
       "added_at": "2024-04-12 04:00:00",
@@ -2187,6 +2171,22 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
+        "name": "Slow Dance",
+        "url": "https://open.spotify.com/album/5Je0CQRcq8YiYPVZoencJc"
+      },
+      "artists": [
+        {
+          "name": "Life After Youth",
+          "url": "https://open.spotify.com/artist/4UY5RyNZP0mGHyzYZL9ud2"
+        }
+      ],
+      "duration_ms": 212034,
+      "name": "Slow Dance",
+      "url": "https://open.spotify.com/track/1cIXPzl0Bg3hGcsuoKcLPV"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
         "name": "Thank You, New Jersey",
         "url": "https://open.spotify.com/album/197wjUARH2gam9EIaPnyfC"
       },
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "Would You Even",
-        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
-      },
-      "artists": [
-        {
-          "name": "Plain White T's",
-          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
-        }
-      ],
-      "duration_ms": 172014,
-      "name": "Would You Even",
-      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/0pMPESagsPgcSkGrFtIIvI"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 174350,
       "name": "Numb",
       "url": "https://open.spotify.com/track/3P937TrYRrGCbjgOIYzhnm"
+    },
+    {
+      "added_at": "2024-04-12 04:00:00",
+      "album": {
+        "name": "Would You Even",
+        "url": "https://open.spotify.com/album/5DS53LqzZQUOvzJp4EefsG"
+      },
+      "artists": [
+        {
+          "name": "Plain White T's",
+          "url": "https://open.spotify.com/artist/1g1yxsNVPhMUl9GrMjEb2o"
+        }
+      ],
+      "duration_ms": 172014,
+      "name": "Would You Even",
+      "url": "https://open.spotify.com/track/0CBgkobKcR6zKVLIb7AULl"
     },
     {
       "added_at": "2024-04-12 04:00:00",

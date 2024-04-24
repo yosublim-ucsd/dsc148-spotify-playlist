@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 
 ### [This Is KURT](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2wTXPn)
 
-> This is KURT\. The essential tracks, all in one playlist.
+> This Is KURT\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,254 likes - 48 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,260 likes - 48 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2wTXPn.md) - [plain]
 | 47 | [Escapémonos](https://open.spotify.com/track/6tdoaUH3gbANwwcIwa8Pkc) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido \(Deluxe\)](https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB) | 3:33 |
 | 48 | [Sin Ti \- En Vivo](https://open.spotify.com/track/3iau72rt7xItihgiYZfwrv) | [KURT](https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI) | [En Medio De Este Ruido En Vivo](https://open.spotify.com/album/3Gx2vWuJTFw3u2sz4GC44K) | 5:07 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDU3NGVlMTk4NDM2ZmFhYTQyM2Y0MjMyZWI3NTkxMTk5`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDZhOWFlZTIxMjRkZmY5Y2IzZjM2NjVhOWI0YjMzOGVm`

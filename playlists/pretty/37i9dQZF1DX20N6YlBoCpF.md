@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=yzGpx7cTTLGpUjazPCavOQ">Gerhard Steyn</a>  en <a href="https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4?si=cbR\_IONdQH\-4ZEKtvgU2ZA">Liezel Pieters</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,442 likes - 60 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,491 likes - 60 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 8 | [Vuur Wat Brand](https://open.spotify.com/track/1c9QUvWJm52Qi0p7i5CKrB) | [Werner Van Der Hoven](https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2) | [Hart se Taal](https://open.spotify.com/album/6enxtnG3uRmtW2gyCoONB1) | 3:24 |
 | 9 | [Vir Altyd](https://open.spotify.com/track/1ogTBxoqu4dQOPKWJKVncv) | [Talitha van Zyl](https://open.spotify.com/artist/5WSKmTWCvq8XjM1yEBb2ZI) | [Vir Altyd](https://open.spotify.com/album/23nvFywUQRDNPK8eR5jOKf) | 3:43 |
 | 10 | [Stoom](https://open.spotify.com/track/1mCw2uig3k3B1qGBJ1Hpn2) | [Riaan Benadé](https://open.spotify.com/artist/7aijVRJ1wOqmLs6NucdtB7) | [Stoom](https://open.spotify.com/album/1CSsLrp52azvnNC5mMiuFe) | 2:58 |
-| 11 | [Somer \- Remix](https://open.spotify.com/track/5a6q77lhw2umRhxNDC8ELq) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY) | [Somer \(Remix\)](https://open.spotify.com/album/0cyVQyja5O5lzUtYza28oQ) | 2:43 |
+| 11 | [Somer \- Remix](https://open.spotify.com/track/5a6q77lhw2umRhxNDC8ELq) | [William Wolf](https://open.spotify.com/artist/3QwFyw3JPeW3U1TJrtadaY), [Afrikaans Wil Dans](https://open.spotify.com/artist/0izyicZrCh95ouk1VWn59M) | [Somer \(Remix\)](https://open.spotify.com/album/0cyVQyja5O5lzUtYza28oQ) | 2:43 |
 | 12 | [Saai](https://open.spotify.com/track/5lA0n6EpT7sDCS9pbXjpFf) | [Adam Tas](https://open.spotify.com/artist/011KRXCsnsSuCGsY0Enq5r) | [Saai](https://open.spotify.com/album/7I6JJnUcDWs136wxjYJl1C) | 4:03 |
 | 13 | [Dagdroom Kind](https://open.spotify.com/track/6UC7GvI9TLZ2ZbpGYrk5Gd) | [John Conrad](https://open.spotify.com/artist/5V1MTbOqYzsPMDdP5biM01) | [Dagdroom Kind](https://open.spotify.com/album/6pgJpA40Nl9Xv48cm17HwU) | 3:27 |
 | 14 | [Afrikaner Boervrou](https://open.spotify.com/track/7H2N2qTxuCItj3CSfCOYl6) | [Logan Pietersen](https://open.spotify.com/artist/0Y2DVvg0bwD4dBrjNZTxqd) | [Afrikaner Boervrou](https://open.spotify.com/album/4DoDYXYuZOBIa5cbEzwFtj) | 4:26 |

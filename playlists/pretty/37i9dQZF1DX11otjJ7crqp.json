@@ -1,12 +1,12 @@
 {
   "description": "Essential new pop tracks. Cover: EMELINE",
-  "num_followers": 76636,
+  "num_followers": 76705,
   "original_name": "New Pop Picks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ5OTIwMCwwMDAwMDAwMGM2ZDA3NzhkM2ZiNGViYTg3MTQ2ZjE3MmU5ODg2NjNl",
+  "snapshot_id": "MTcxMzkxMDM3NCwwMDAwMDAwMGFiOTU5NWYyMzViNTQ0NmE3MzBhNTIyOWNjOGRiNDkz",
   "tracks": [
     {
       "added_at": "2024-04-19 04:00:00",
@@ -624,7 +624,7 @@
           "url": "https://open.spotify.com/artist/7gPc9VjYGK7UT9MfOJybeY"
         }
       ],
-      "duration_ms": 123391,
+      "duration_ms": 122624,
       "name": "sky walking",
       "url": "https://open.spotify.com/track/5ACbMgNSCDOYivSFPqUIHk"
     },
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-04-12 04:00:00",
       "album": {
-        "name": "WOLEDTO",
-        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 177119,
-      "name": "Ganeni",
-      "url": "https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
         "name": "Stuck",
         "url": "https://open.spotify.com/album/6Y1Wf6l68FYPbUd4WC3DnE"
       },
@@ -1591,22 +1575,6 @@
       "duration_ms": 178048,
       "name": "PIECES",
       "url": "https://open.spotify.com/track/7qU6AyK1fDMYOXNHlUlJmJ"
-    },
-    {
-      "added_at": "2024-04-12 04:00:00",
-      "album": {
-        "name": "WOLEDTO",
-        "url": "https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ"
-      },
-      "artists": [
-        {
-          "name": "Elyanna",
-          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
-        }
-      ],
-      "duration_ms": 116492,
-      "name": "Callin' U (Tamally Maak)",
-      "url": "https://open.spotify.com/track/7uH88hqUq0zh1Khx4xXMxq"
     },
     {
       "added_at": "2024-04-05 04:00:00",

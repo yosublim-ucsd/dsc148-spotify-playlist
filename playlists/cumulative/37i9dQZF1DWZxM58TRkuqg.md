@@ -4,7 +4,7 @@
 
 > Deretan musik Indonesia terpopuler saat ini\. <br/>Cover: Tiara Andini
 
-114 songs - 7 hr 42 min
+114 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [Ku Tak Mampu Lagi](https://open.spotify.com/track/5LymVUEKH7rGgZUZD0XrqU) | [Stevan Pasaribu](https://open.spotify.com/artist/4sbcrENSiVe3Yn9ftToC4b) | [Harapan](https://open.spotify.com/album/7qKEG7EhkXFNfwGdxgPp77) | 4:14 | 2024-01-26 | 2024-03-15 |
 | [Kupu \- Kupu](https://open.spotify.com/track/1PuhA9UXgH4wRnXzYk5S2Z) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Kupu \- Kupu](https://open.spotify.com/album/4nchsck2JTRbfcaNuD1fzr) | 4:02 | 2024-04-18 |  |
 | [Lagu Pernikahan Kita](https://open.spotify.com/track/3diRmt2Z6xSEaT0mqBr681) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm), [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT) | [Lagu Pernikahan Kita](https://open.spotify.com/album/5eY3dzN1EvreoSLr1vWVMu) | 4:21 | 2024-02-01 |  |
-| [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:18 | 2024-04-18 |  |
+| [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:20 | 2024-04-18 |  |
 | [Lampu Merah](https://open.spotify.com/track/6E7DsxwI4eOcMHLYRUDCaw) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2Ykep6jay9dIiAB9eJq7vo) | 4:58 | 2024-02-19 | 2024-04-12 |
 | [Lampu Merah](https://open.spotify.com/track/7uwo3VQxUlRtKudAjluuTr) | [The Lantis](https://open.spotify.com/artist/1REvGGP2H7cFLGZgK2sStO) | [Pilot](https://open.spotify.com/album/2fm5dfglCcyJ4yVxjIP0qU) | 4:58 | 2024-01-26 | 2024-02-22 |
 | [Lewat Doa](https://open.spotify.com/track/1IhVdSpDJV4ASULOTALD3P) | [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Lewat Doa](https://open.spotify.com/album/1yTMN5y852AZFeViX6rrKz) | 4:18 | 2024-03-28 |  |

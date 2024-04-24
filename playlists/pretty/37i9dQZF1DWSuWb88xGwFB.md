@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 
 > Releases from the legendary label.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,039 likes - 75 songs - 9 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,053 likes - 75 songs - 9 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuWb88xGwFB.md) - [plain]
 | 5 | [Higher State of Consciousness \- Tweekin Acid Funk](https://open.spotify.com/track/3j8MepYimsCw55JuRz7ZuD) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [Higher State Of Consciousness](https://open.spotify.com/album/4htflXo3O3hAac1OzNiz0S) | 6:17 |
 | 6 | [House Of Love \- Love Mix](https://open.spotify.com/track/4bvxaVUSKV2fJXQUDwaLCX) | [Smooth Touch](https://open.spotify.com/artist/5h2vIb1P2w4idUI6kCFLT7) | [House Of Love](https://open.spotify.com/album/0UnVmFFjZJDh2o1OktIy60) | 4:51 |
 | 7 | [Beautiful People \- Underground Network Mix](https://open.spotify.com/track/6WnWvRVzXJWEHxkhDKmt8u) | [Barbara Tucker](https://open.spotify.com/artist/6txh5tFMJyxSwT0iE7wX2w) | [Beautiful People \(Remixes\)](https://open.spotify.com/album/4FjqVqy1KwVl5VinivSgKN) | 9:06 |
-| 8 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
-| 9 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
+| 8 | [Blues For You \- Hard Dub](https://open.spotify.com/track/1ooV7Bm7ahkeWzKNwiLItL) | [Logic](https://open.spotify.com/artist/1BF6z9EIGGoPViPON57eGC) | [Blues for You \(Remixes\)](https://open.spotify.com/album/2qjAvLXaa3S0u1jqvxXtYU) | 4:29 |
+| 9 | [What You Need \(feat\. Duane Harden\) \- Full Intention Radio Edit](https://open.spotify.com/track/7inuLUpKsCnlh4gxrsOe3i) | [Powerhouse](https://open.spotify.com/artist/2FbCA5ewgyGeuNV90qpZUS), [Duane Harden](https://open.spotify.com/artist/6t8VAB5OTHKxi4p1I5aqn0) | [What You Need \(feat\. Duane Harden\)](https://open.spotify.com/album/0PHSjWhb9VxzPTvGVE80PR) | 3:22 |
 | 10 | [Waterfalls \- 3 A.M\. Mix](https://open.spotify.com/track/3Lv3bT31Sali9Zk7sFgy5r) | [After Hours](https://open.spotify.com/artist/1y27W02EFVbp6nPfM1LFh7) | [Feel It / Waterfalls](https://open.spotify.com/album/1wVS8Gdyzyzb233I6pdmIl) | 5:58 |
 | 11 | [\(Who?\) Keeps Changing Your Mind? \- The Night Mix](https://open.spotify.com/track/5XrnMnFLf7sQ6R9nRXIAGS) | [South Street Player](https://open.spotify.com/artist/2KnAxJh4OfnNG3Db0Ueway) | [\(Who?\) Keeps Changing Your Mind](https://open.spotify.com/album/1dHGk4t778mMsQ02eHNFR1) | 7:40 |
 | 12 | [Zulu \- Change Mix](https://open.spotify.com/track/3bnX6J2heDwJcMW01WYupB) | [Circle Children](https://open.spotify.com/artist/6HC1x1EziZeSZubcuNLMOP) | [Zulu](https://open.spotify.com/album/4af9t45AsFlQR6CgWTsYqn) | 7:54 |

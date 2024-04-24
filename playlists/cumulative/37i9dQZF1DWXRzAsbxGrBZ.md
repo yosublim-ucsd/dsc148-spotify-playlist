@@ -4,7 +4,7 @@
 
 > Deep House speaks to the soul\. Get revived with some of the best Deep House South Africa has to offer.
 
-122 songs - 13 hr 53 min
+123 songs - 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,7 +77,7 @@
 | [My Heartbeat For You](https://open.spotify.com/track/4L8xFcF5arDJURNdwfOULs) | [RoneeDeep](https://open.spotify.com/artist/2bcM94EIlBz4YUVfCTEkeO), [Zawadi](https://open.spotify.com/artist/0qdTYFtnAgZVgZqKMX3jnQ) | [My Heartbeat For You](https://open.spotify.com/album/34WV5aBk0og7jEVj5k5jF6) | 5:32 | 2022-09-14 |  |
 | [Myself & The Dark](https://open.spotify.com/track/5HXW3kNPv7l8KBE5duEVol) | [Supreme Rhythm](https://open.spotify.com/artist/5pGU7dm8MANpUSPptk8N8i) | [Sentimental Affair](https://open.spotify.com/album/5GlFRj4lCo1NJq370frGN1) | 7:11 | 2022-09-14 | 2024-02-14 |
 | [Ndoyiswe](https://open.spotify.com/track/3qiZQ5AIGiG2KOo3OV9b4w) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Bamtho Imbongi](https://open.spotify.com/artist/4LqkwXbr8GaGIinEcUhVUX) | [Ndoyiswe](https://open.spotify.com/album/5Rs7spRNUPw6Ao6XpyQGcq) | 5:25 | 2022-09-14 | 2022-12-14 |
-| [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 | 2022-09-29 |  |
+| [Nelisiwe](https://open.spotify.com/track/3U6BBph9aD1YhekBl1dUZT) | [Craving Souls](https://open.spotify.com/artist/0wgFftBYgiVdPimTq4ZyEe), [Da Tee SA](https://open.spotify.com/artist/1bX7c5pw3qs3brjXzpJZu2), [Ice Beats Slide](https://open.spotify.com/artist/6ynMrlCLJfmijr0XFdtvH5) | [Joyful Music, Vol\. 1 \(Compiled\)](https://open.spotify.com/album/4SfwaD4bORjDeWzgSsLZEV) | 6:53 | 2022-09-29 | 2024-04-24 |
 | [Never Break Me \(feat\. Kuthathu\)](https://open.spotify.com/track/2xR7tEDcjcQEcLSEtPC7zF) | [C\-Blak](https://open.spotify.com/artist/4ipkannhwnGj4uU4q5UUS5), [Kuthathu](https://open.spotify.com/artist/29kaBvTouBKn6KenUUM3fh) | [From Blak With Love](https://open.spotify.com/album/7kZYbWhSIz8L47LpjRE57X) | 6:43 | 2024-02-15 |  |
 | [Never Give Up](https://open.spotify.com/track/1bAAE1GJoBr2Ah4UbvaDNP) | [Zico SA](https://open.spotify.com/artist/67QYtLgWSPzbwkW25F0GEc) | [I Rise Again](https://open.spotify.com/album/1FM7SKxzPjCNjiirtfBYVg) | 9:16 | 2022-09-14 |  |
 | [Never Thought](https://open.spotify.com/track/6PXJMRvCxiO2JGaSApdCxN) | [Devine Maestro](https://open.spotify.com/artist/2IAkss2FMBjXDA0hdno7bg), [Thap Soul](https://open.spotify.com/artist/1CgzjfRs4cZjM58OJO1jPy), [NexVocals](https://open.spotify.com/artist/5vZfRSP0feCD65uUeThc4X), [Massive R](https://open.spotify.com/artist/1CnxaxpA4ZAt9NKClbv7Tc) | [Never Thought](https://open.spotify.com/album/0q4QBX9InqxRyTaen8e4oj) | 4:44 | 2022-09-29 |  |
@@ -99,6 +99,7 @@
 | [See the Light](https://open.spotify.com/track/55kVPlB6novs0Iqr4EGUKu) | [Bless\_SA](https://open.spotify.com/artist/3RMfjBJXOjT0YkyCOgxIFP), [Kyika DeSoul](https://open.spotify.com/artist/0DHLdEGkjuhY0DPiOa3w5I) | [See the Light](https://open.spotify.com/album/4tK8aWdruyxD2H472JnryA) | 6:45 | 2023-03-17 |  |
 | [Seeking](https://open.spotify.com/track/0ibD79s6Gtj41QbEMJ5uS4) | [Buder Prince](https://open.spotify.com/artist/6dCu16GhubjQSLVwwlZ94a), [Ruthes Ma](https://open.spotify.com/artist/3wxlWCszzxtXKVCU0UKZ7c) | [Seeking](https://open.spotify.com/album/3nin6g7csJgQ2KlFFz3yGe) | 6:37 | 2022-09-14 | 2024-03-27 |
 | [She's On Fire](https://open.spotify.com/track/6OczyjpZ3SGnmWS6pSSlrn) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS), [Fako](https://open.spotify.com/artist/31UA0KGX6iDmabcov805e1) | [She's On Fire](https://open.spotify.com/album/0OInUG46VSTNd7EolDMGNS) | 6:42 | 2022-09-14 | 2023-05-13 |
+| [Signs](https://open.spotify.com/track/0WLa7Q0oy1MftXRRfDVnMK) | [Abyss \(Giuseppe Morabito\)](https://open.spotify.com/artist/0tIjbzsH79MTlMHrimk9SB), [Lazarusman](https://open.spotify.com/artist/4Sh3sUk5Pq69gqPHT89aCc) | [Signs](https://open.spotify.com/album/5GuOUlz4kPJxWmKFcCz3B9) | 3:18 | 2024-04-12 |  |
 | [Solidarity](https://open.spotify.com/track/4G7KOUK2WuiGNRArzcFeDU) | [Senzo C](https://open.spotify.com/artist/00rQpaR5oh9jwZlyGMB0yA) | [Solidarity](https://open.spotify.com/album/0kkXWIhomnQLgmgbCgVu9s) | 7:36 | 2023-05-12 | 2023-07-24 |
 | [Something For Closure](https://open.spotify.com/track/5AcxLIJg935Ak4NwrfAyeR) | [Roque](https://open.spotify.com/artist/0T58iqONtkqeUUMUC8RkdQ) | [Something For Closure](https://open.spotify.com/album/7B2FPlCkJ5um6rC6VI8Bsf) | 6:51 | 2022-09-14 | 2023-02-06 |
 | [Stay For The Night](https://open.spotify.com/track/4KrvgIX9t5QL7ulBfE9Gqt) | [DJ Couza](https://open.spotify.com/artist/3X5oM0ZSNXu9IMIv7Cp3wS) | [Skies Showers EP](https://open.spotify.com/album/2Y36PkF781y7Tiu7ROuQR0) | 8:50 | 2022-09-14 |  |

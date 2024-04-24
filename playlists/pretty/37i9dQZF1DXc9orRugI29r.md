@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc9orRugI29r.md) - [plain]
 
 > 🔥🔥🔥 LAS CANCIONES MÁS 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,817 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,813 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Pushaina](https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Ms\. Nina](https://open.spotify.com/artist/7BJss5wJzKDIAzNK6RRc0f) | [Pushaina](https://open.spotify.com/album/4rec7Zyx4adaPnZIbkGRut) | 2:34 |
+| 1 | [Pushaina](https://open.spotify.com/track/2lXkGFQ17envF8BVmTZqZx) | [Bellakath](https://open.spotify.com/artist/4yjm4SvYqC5FFuLbB6TyHr), [Ms Nina](https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ) | [Pushaina](https://open.spotify.com/album/4rec7Zyx4adaPnZIbkGRut) | 2:34 |
 | 2 | [Teka \(with Peso Pluma\)](https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [Teka \(with Peso Pluma\)](https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu) | 2:43 |
 | 3 | [pa quererte](https://open.spotify.com/track/0FDTPGlLjF8SGWSsHyzNBe) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [pa quererte](https://open.spotify.com/album/1WFoW8tiwae16JkMdQWvH3) | 2:47 |
 | 4 | [Pedro](https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW) | [Jaxomy](https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq), [Agatino Romero](https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r), [Raffaella Carrà](https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85) | [Pedro](https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1) | 2:24 |

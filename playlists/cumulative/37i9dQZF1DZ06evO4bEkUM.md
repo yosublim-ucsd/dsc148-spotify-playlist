@@ -2,7 +2,7 @@
 
 ### [This Is Paramore](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4bEkUM)
 
-> This is Paramore\. The essential tracks, all in one playlist.
+> This Is Paramore\. Los temas esenciales, todos en una lista.
 
 62 songs - 3 hr 42 min
 
@@ -11,9 +11,9 @@
 | [\(One of Those\) Crazy Girls](https://open.spotify.com/track/15aWN1NkuRKKMRJZqgmFQ3) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore \(Deluxe Edition\)](https://open.spotify.com/album/7J2hXOVq8FZ367dTczV7oH) | 3:32 | 2023-01-14 | 2023-01-20 |
 | [\(One of Those\) Crazy Girls](https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 3:32 | 2023-03-08 |  |
 | [26](https://open.spotify.com/track/2EcQY09CYgJ1qk6H1qZf8h) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [After Laughter](https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs) | 3:41 | 2023-01-14 | 2023-03-05 |
-| [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 | 2023-01-14 | 2024-04-23 |
+| [Ain't It Fun](https://open.spotify.com/track/1j8z4TTjJ1YOdoFEDwJTQa) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 4:56 | 2023-01-14 |  |
 | [All I Wanted](https://open.spotify.com/track/1Bv3h7Vc4AaYA2BcSM3rVd) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 3:45 | 2023-01-14 |  |
-| [Anklebiters](https://open.spotify.com/track/3hgzEGrm5iTY6pkgJ827qX) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 2:17 | 2023-04-28 |  |
+| [Anklebiters](https://open.spotify.com/track/3hgzEGrm5iTY6pkgJ827qX) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Paramore](https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF) | 2:17 | 2023-04-28 | 2024-04-24 |
 | [Big Man, Little Dignity](https://open.spotify.com/track/2bfOeIn8bQkRr02NNX29tR) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 4:20 | 2023-02-11 |  |
 | [Brick by Boring Brick](https://open.spotify.com/track/1a9YW7fATU351ok4zWjU7a) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [Brand New Eyes](https://open.spotify.com/album/27UqZoE1kV6sIV6uQcI28A) | 4:13 | 2023-01-14 |  |
 | [Brighter](https://open.spotify.com/track/3GoNxPKPZPaAAZVQZ003TI) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [All We Know Is Falling](https://open.spotify.com/album/67f6SSb8yKduNCK15DsafC) | 3:43 | 2023-01-14 |  |

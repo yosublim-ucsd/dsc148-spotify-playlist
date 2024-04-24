@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/13ysCUxRu2H1rcftAcPUSm">ELENA ROSE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-169 songs - 8 hr 40 min
+171 songs - 8 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Exclusivos](https://open.spotify.com/track/0mgWP7XJ4yxwZzUmRX0HGW) | [Periko & Jessi Leon](https://open.spotify.com/artist/31d96XTKL3soxtdxzUVEP6) | [Exclusivos](https://open.spotify.com/album/3H10cEHm6jQyozDBn3NiAe) | 2:50 | 2024-01-29 |  |
 | [Fantasi](https://open.spotify.com/track/0r2PZjzpfFne09oljJZEU8) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:38 | 2024-01-29 |  |
 | [Fantasi](https://open.spotify.com/track/5tEPenW0Q6z2d3W2BXQG8f) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Fantasi \(Video Oficial\)](https://open.spotify.com/album/60gXILJEkV30pUPZanPUIR) | 2:39 | 2024-01-31 | 2024-02-02 |
+| [favorite](https://open.spotify.com/track/3QJsSWa0Xo8MfaRn1gr4Be) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [favorite](https://open.spotify.com/album/6pngQ1BGnsddTXtAJQUkF7) | 2:13 | 2024-04-23 |  |
 | [Feeling](https://open.spotify.com/track/41MTEQrdiERPZfddek3iSQ) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn) | [Unisex](https://open.spotify.com/album/1jBQp6pMhXit5aTC494d9z) | 3:09 | 2024-01-29 |  |
 | [Fenomenal](https://open.spotify.com/track/3vg1cctdWYCeWxzrdzMcNk) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Fenomenal](https://open.spotify.com/album/6ZYraErGewCadNWb1sJ2Vv) | 3:23 | 2024-01-29 |  |
 | [FLASHBACK \(feat\. ELENA ROSE\)](https://open.spotify.com/track/2xr5g6oX9oNatnf176Ry2m) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:25 | 2024-01-29 |  |
@@ -101,6 +102,7 @@
 | [Mami](https://open.spotify.com/track/4FRYHlrIdFDM2C68gxTW3b) | [Paloma Mami](https://open.spotify.com/artist/7rOlQwf8OuFLFQp4aydjBt) | [Mami \(Official Video\)](https://open.spotify.com/album/3sIObCUsYNIp2USoAoXUdj) | 3:18 | 2024-01-31 | 2024-02-02 |
 | [MAMIII](https://open.spotify.com/track/7FlQk2gJ6TBrHHiidvdR2O) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [ESQUEMAS](https://open.spotify.com/album/7eC4wtMG1I2Jtk4FDWbkKC) | 3:46 | 2024-01-31 |  |
 | [MAMIII](https://open.spotify.com/track/3UMpdwMNrTOm8z3ldN2I0N) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAMIII \(Official Video\)](https://open.spotify.com/album/3mIJYbV5fBZglqiRLei3Kp) | 4:33 | 2024-01-29 | 2024-02-01 |
+| [Me Lo Merezco](https://open.spotify.com/track/0vXKNdPKnNqojeHM696Q88) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Me Lo Merezco](https://open.spotify.com/album/2v3SbLqPYXwxzwbE6kRJio) | 2:52 | 2024-04-23 |  |
 | [MEJOR ASÍ](https://open.spotify.com/track/5toFwwO0qh5MwDXuPYRLe2) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf) | [MALA SANTA](https://open.spotify.com/album/13MHW8hoLFjX7SaVEVmj3X) | 2:53 | 2024-01-29 |  |
 | [mi otra mitad](https://open.spotify.com/track/2Cna21irIvinVSJdGda8Om) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9) | [Tú crees en mí?](https://open.spotify.com/album/4wVrfNzE3Dab7EB1Xn6SHo) | 2:46 | 2024-01-29 |  |
 | [Miénteme](https://open.spotify.com/track/6ebo7CQn4ILLGvXRmXHhQz) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:45 | 2024-01-29 |  |

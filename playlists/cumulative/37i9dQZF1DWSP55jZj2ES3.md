@@ -4,7 +4,7 @@
 
 > Indie jams that sound like lounging under the sun with friends.
 
-316 songs - 18 hr 8 min
+317 songs - 18 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Gaims](https://open.spotify.com/track/33QRZ83m8m6l7dO8Qx0mvn) | [KAMAUU](https://open.spotify.com/artist/3IAQ6JspwRCPY06WXnaguc) | [A Gorgeous Fortune EP](https://open.spotify.com/album/1YGlf1GVZRGdiocBTaQerO) | 3:28 | 2021-10-26 | 2024-04-23 |
 | [Gamesofluck](https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Gamesofluck](https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA) | 5:48 | 2024-04-22 |  |
 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 | 2021-10-26 | 2023-09-16 |
-| [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2022-07-28 |  |
+| [Gold](https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS) | [Austin Millz](https://open.spotify.com/artist/43UmVQp9qZILibJ5vHq21k), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Gold](https://open.spotify.com/album/7jlUFBjbua4L7eZXpncXIG) | 2:55 | 2022-07-28 | 2024-04-24 |
 | [Goodie Bag](https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl) | 2:26 | 2021-10-26 | 2022-07-29 |
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2022-07-28 | 2023-09-16 |
 | [Gooey](https://open.spotify.com/track/1gk3FhAV07q9Jg77UxnVjX) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [ZABA](https://open.spotify.com/album/14IOe7ahxQPTwUYUQX3IFi) | 4:49 | 2023-09-16 |  |
@@ -247,6 +247,7 @@
 | [Shadow Man](https://open.spotify.com/track/0EN4QjJqiAufEh6g4xPNvC) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Telefone](https://open.spotify.com/album/5kjqLxeQxdW3CcUdOXuO2c) | 5:11 | 2022-07-28 | 2024-04-19 |
 | [Shadow Man](https://open.spotify.com/track/5RZ9Tlmiy9NioldpMCZvaN) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [telefone](https://open.spotify.com/album/3WQSmz0juSSmEmzXpv9l6M) | 5:11 | 2022-07-28 | 2022-11-17 |
 | [Shadow Man \(feat\. Phoelix, Smino & Saba\)](https://open.spotify.com/track/1h2LHhmyAXi8tPNLi806JA) | [Noname](https://open.spotify.com/artist/1EpyA68dKpjf7jXmQL88Hy), [Phoelix](https://open.spotify.com/artist/2TKC2gVUNBUAlFqfLUoaj0), [Smino](https://open.spotify.com/artist/1ybINI1qPiFbwDXamRtwxD), [Saba](https://open.spotify.com/artist/7Hjbimq43OgxaBRpFXic4x) | [Telefone](https://open.spotify.com/album/18Scpsg5OV1iYNtSaCsjwz) | 5:11 | 2021-10-26 | 2022-09-09 |
+| [Shudder](https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Shudder](https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if) | 2:47 | 2024-04-22 |  |
 | [Shuggie](https://open.spotify.com/track/51XZD1FCrWyU3dDWJH4nzb) | [Foxygen](https://open.spotify.com/artist/55LHFEtIplWhsfyWZUwkf4) | [We Are the 21st Century Ambassadors of Peace & Magic](https://open.spotify.com/album/1iQNqvcWTFwfUYnsGgMYBw) | 3:21 | 2021-10-26 | 2022-04-21 |
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2024-04-22 |  |
 | [Sirens](https://open.spotify.com/track/0EudqIdrpZjHZ1pnSuBKgA) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [This Must Be The Place](https://open.spotify.com/album/01WcFlWlj9ie3YTNSKr3OP) | 4:15 | 2022-07-28 | 2023-01-20 |

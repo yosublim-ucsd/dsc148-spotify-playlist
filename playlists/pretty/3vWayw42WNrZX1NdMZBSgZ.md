@@ -2,17 +2,17 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot; Pedro Capó &amp; Carin León  &quot;Existo&quot; Cover: Sky Rompiendo X Rauw Alejandro
+> The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias, Yotuel &amp; Yng Lvcas &quot;Fria Remix&quot; Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Enrique Iglesias
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 54,059 likes - 175 songs - 9 hr 12 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 53,992 likes - 175 songs - 9 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Espectacular](https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Espectacular](https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS) | 3:05 |
-| 2 | [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 |
-| 3 | [Bahamas](https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bahamas](https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS) | 3:43 |
-| 4 | [Reir pa no llorar](https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Reir pa no llorar](https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm) | 2:44 |
-| 5 | [Fría \- Remix](https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Fría \(Remix\)](https://open.spotify.com/album/26Myqnfs2h2756VNPfPz1I) | 2:56 |
+| 1 | [Fría \- Remix](https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Yotuel](https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8), [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y) | [Fría \(Remix\)](https://open.spotify.com/album/26Myqnfs2h2756VNPfPz1I) | 2:56 |
+| 2 | [Espectacular](https://open.spotify.com/track/4HnuPc5Cng3tbwunyqSMNi) | [Sky Rompiendo](https://open.spotify.com/artist/51XrH5fQP2oIQynuKxSWcW), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [Espectacular](https://open.spotify.com/album/2HLdCDKtyV4VxHLYk5xvAS) | 3:05 |
+| 3 | [Daruma](https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN) | [DARUMAS](https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9) | [Daruma](https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR) | 2:58 |
+| 4 | [Bahamas](https://open.spotify.com/track/3BWpv2yBYqreJmcPiHkuVC) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [Bahamas](https://open.spotify.com/album/2t2TGRu7yTlcXjMbdBZmbS) | 3:43 |
+| 5 | [Reir pa no llorar](https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN) | [Marcelo Rubio](https://open.spotify.com/artist/5Nk0ZytxbTmln7pHwEEVYG) | [Reir pa no llorar](https://open.spotify.com/album/6yF5XTwDNpaW3yC5l0CAdm) | 2:44 |
 | 6 | [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 |
 | 7 | [Baja California](https://open.spotify.com/track/3XAMueRejgCY1TEJDX1gv0) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2) | [Baja California](https://open.spotify.com/album/3qbsCGFjewj30dvxqRJiJf) | 3:07 |
 | 8 | [Bailarina](https://open.spotify.com/track/0PTnMPnIvXRgb5IaANYzVN) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Bailarina](https://open.spotify.com/album/0OCGfj5zYqgfbeqUaXiP2f) | 3:05 |
@@ -184,4 +184,4 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 174 | [Gafas Negras](https://open.spotify.com/track/4s7hIsoRpnmaSvdETaIOSe) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Gafas Negras](https://open.spotify.com/album/3nfeL4QZ0GZfkJbr8FHyHn) | 3:06 |
 | 175 | [El Charal](https://open.spotify.com/track/0LbActOj7FMkOCwvzhvNIt) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Herencia De Grandes](https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz) | [El Charal](https://open.spotify.com/album/6oAFiQX6QKlUDv4A0NHKHQ) | 3:22 |
 
-Snapshot ID: `NDQxOSw3Mjg5YWQyNzdjMDg5ZmQzY2RmYmIxNTA0YTRlYzQ3ZmIyMWM5MDI3`
+Snapshot ID: `NDQyMSw0NGJmNjQzODJkMDc5OWQ0ZTg3ZDlmYWMwOGQyMjMwNGYyMWVhNzZh`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 
 > to the people who look at the stars and wish 🧚‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,554 likes - 77 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,592 likes - 77 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 10 | [Ballerina](https://open.spotify.com/track/5lm18pjbwdth6ENVllxjfl) | [Yehezkel Raz](https://open.spotify.com/artist/31klRMTQJ94NrxwIZJwJBY) | [Preludes, Book 1 \- Streams](https://open.spotify.com/album/1oMUAeEeA32eaJOhrlbM1a) | 1:11 |
 | 11 | [Calm Night Under Red Stars](https://open.spotify.com/track/79fmjTovx8yC2ZutpTefDg) | [Martin Egger](https://open.spotify.com/artist/1Ma9rQWsxr93ayZ9RJB7TS) | [Wanderlust Part 2](https://open.spotify.com/album/1C4qFyA5nttokdjAU8Ez4t) | 1:17 |
 | 12 | [I Saw You in the Blue](https://open.spotify.com/track/5ub9HfLeox5yJamTvYY1yo) | [People in Dreams](https://open.spotify.com/artist/2NS92kmIbk2cHK4NqhIewu) | [I Saw You in the Blue](https://open.spotify.com/album/2MBVu7t8kW1tjmDOtM7rgY) | 5:42 |
-| 13 | [Fairytale \(Violin\)](https://open.spotify.com/track/1YFA2vnDRM6NtZlh0U3kRq) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym), [Dramatic Violin](https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi) | [Fairytale \(Violin\)](https://open.spotify.com/album/5IpSg9YahGaMNaTi38lKoZ) | 2:38 |
+| 13 | [Fairytale \(Violin\)](https://open.spotify.com/track/1YFA2vnDRM6NtZlh0U3kRq) | [Dramatic Violin](https://open.spotify.com/artist/7xFAkXgK99h0nlTo1kHagi) | [Fairytale \(Violin\)](https://open.spotify.com/album/5IpSg9YahGaMNaTi38lKoZ) | 2:38 |
 | 14 | [In Your Dreams](https://open.spotify.com/track/5TdDevaXlEl6EEaMNStiVk) | [Million Eyes](https://open.spotify.com/artist/2sXnk24vARe4jxHbd1HbEq) | [In the Wind](https://open.spotify.com/album/18mso9k7h5CuhwZjeJDaoW) | 1:48 |
 | 15 | [Golden Mile \- Live in Pioneertown](https://open.spotify.com/track/7FEEQ8Qd7K2dlCrTdXsQj4) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [Golden Mile \(Live in Pioneertown\)](https://open.spotify.com/album/77G0y3ln7mf7Y7hPAnVXP1) | 3:54 |
 | 16 | [To Keep You from Breaking](https://open.spotify.com/track/7rIf53zRSn4zAyYtUvt8Lr) | [Kelsey Woods](https://open.spotify.com/artist/0561irRxpOH0x1qJi6C80Y) | [To Keep You from Breaking](https://open.spotify.com/album/5JCNG1G2iZHzn6Ki65Yl7H) | 1:51 |
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZorhbhZSuqi.md) - [plain]
 | 25 | [Fourth of July](https://open.spotify.com/track/5Qnrgqy1pAm9GyNQOgyVFz) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 4:39 |
 | 26 | [Spikeroog](https://open.spotify.com/track/3Hb9YjZLYBLikxJ1kd4BMa) | [Mikolai Stroinski](https://open.spotify.com/artist/6lGCmXtqSxze8o2KEfYD6D) | [The Witcher 3: Wild Hunt \(Original Game Soundtrack\)](https://open.spotify.com/album/6pYNEn4tMc6gdv5fIZf5yn) | 3:05 |
 | 27 | [Hidden In the Sand](https://open.spotify.com/track/0RjG5JmdOWXAR68dGlKBA5) | [Tally Hall](https://open.spotify.com/artist/7lqaPghwYv2mE9baz5XQmL) | [Marvin's Marvelous Mechanical Museum](https://open.spotify.com/album/2TN3NIEBmAOGWmvP96DFs5) | 1:52 |
-| 28 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
-| 29 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 |
+| 28 | [Runaway](https://open.spotify.com/track/1v1oIWf2Xgh54kIWuKsDf6) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [All My Demons Greeting Me As A Friend \(Deluxe\)](https://open.spotify.com/album/6YMSXPIHkA2jPIlFHuejXW) | 4:08 |
+| 29 | [invisible string](https://open.spotify.com/track/6VsvKPJ4xjVNKpI8VVZ3SV) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:12 |
 | 30 | [Rosyln](https://open.spotify.com/track/4k7x3QKrc3h3U0Viqk0uop) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ), [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [The Twilight Saga: New Moon \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PDlvc7K51qC4Bkali3q0R) | 4:49 |
 | 31 | [Paris, Texas \(feat\. SYML\)](https://open.spotify.com/track/0Oqxt6JixieLHbwMfnJGWO) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa), [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [Did you know that there's a tunnel under Ocean Blvd](https://open.spotify.com/album/5HOHne1wzItQlIYmLXLYfZ) | 3:26 |
 | 32 | [Soldier, Poet, King](https://open.spotify.com/track/3xtiXNDbSKxy20I7D6vFUg) | [The Oh Hellos](https://open.spotify.com/artist/3Fe3pszR2t4TOBVz41B1WR) | [Dear Wormwood](https://open.spotify.com/album/6wYIs564dOi2lOT9bGYPLK) | 2:45 |

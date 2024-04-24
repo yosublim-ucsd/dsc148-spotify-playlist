@@ -1,12 +1,12 @@
 {
   "description": "This is Lee Kernaghan. The essential tracks, all in one playlist.",
-  "num_followers": 15849,
+  "num_followers": 15859,
   "original_name": "This Is Lee Kernaghan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGVjOGU0YjQxMmYyYjliZTAwMjkxNWY4Nzc0YTNjOTcy",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDAzYWNiY2ExNjg1YjUyMmZhYWMwMTFiMzVjYWRlYjAz",
   "tracks": [
     {
       "added_at": null,
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 204746,
-      "name": "Beautiful Noise",
-      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
+      "duration_ms": 190346,
+      "name": "It's Only Country",
+      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
     },
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
         }
       ],
-      "duration_ms": 190346,
-      "name": "It's Only Country",
-      "url": "https://open.spotify.com/track/7hHs0N1UdxX0NbcvCp8HqH"
+      "duration_ms": 204746,
+      "name": "Beautiful Noise",
+      "url": "https://open.spotify.com/track/6URkqF2ykpmtK0rkrNGzVF"
     },
     {
       "added_at": null,
@@ -807,22 +807,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Outback Club",
-        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
-      },
-      "artists": [
-        {
-          "name": "Lee Kernaghan",
-          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
-        }
-      ],
-      "duration_ms": 194133,
-      "name": "Country Girls - Remastered 2017",
-      "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come Together",
         "url": "https://open.spotify.com/album/7HFk0vESWMLtK7SAa6W7gz"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 251463,
       "name": "Come Together",
       "url": "https://open.spotify.com/track/5f2kQpa0dKLQuNXKetUbTd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Outback Club",
+        "url": "https://open.spotify.com/album/5m1NwaKeJp9FIzHfrPnJNr"
+      },
+      "artists": [
+        {
+          "name": "Lee Kernaghan",
+          "url": "https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i"
+        }
+      ],
+      "duration_ms": 194133,
+      "name": "Country Girls - Remastered 2017",
+      "url": "https://open.spotify.com/track/1tyzGSuHVIm1ByThDPOTM7"
     },
     {
       "added_at": null,

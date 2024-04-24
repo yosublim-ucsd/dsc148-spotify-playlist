@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Haller, soffie
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,934 likes - 74 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,877 likes - 74 songs - 3 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,17 +12,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 2 | [NINA](https://open.spotify.com/track/0j4WzFni16kp0YquOHOwL8) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [NINA](https://open.spotify.com/album/3AcyNtY9jjJYscS49sdntl) | 2:24 |
 | 3 | [ich brenn für dich](https://open.spotify.com/track/5UvAg513TL86E8JWdJrGeV) | [frytz](https://open.spotify.com/artist/4hX2AmJ9iZiXYA2Zx1vtBO) | [ich brenn für dich](https://open.spotify.com/album/5PDHCtutPfFupwRrAW4bjW) | 2:51 |
 | 4 | [Banger](https://open.spotify.com/track/1HqWJ5O1q9IG4OtYiaQbuT) | [Carla Ahad](https://open.spotify.com/artist/0ic9BGUoRMQidNxGoet7Ln) | [Banger](https://open.spotify.com/album/3zg6tepif8shhKlhHysOjd) | 2:27 |
-| 5 | [ALIEN](https://open.spotify.com/track/0nvWJynJUxMmaQHoiv1XLI) | [JPD](https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN) | [ALIEN](https://open.spotify.com/album/5BqIRh4Q4PQX7cz6NqgrAf) | 2:16 |
+| 5 | [Cool](https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Cool](https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw) | 2:25 |
 | 6 | [In Der Zeit Verlieren](https://open.spotify.com/track/3uF7HxZy1DTZOeMLhZSPbH) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF), [alfons.](https://open.spotify.com/artist/6Y44iZaaZDPqrztfH9dcin) | [In Der Zeit Verlieren](https://open.spotify.com/album/131JPd43brI7u4ad651rj8) | 2:38 |
 | 7 | [such mit mir](https://open.spotify.com/track/54fISEDtMKFkuSA2hx0mlE) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [such mit mir](https://open.spotify.com/album/5ZexdlWkafVGjSwGunsUpo) | 2:14 |
-| 8 | [Fang](https://open.spotify.com/track/4AiBmrYrcxTB5rFM7doAiv) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Fang](https://open.spotify.com/album/4DErDX71xvkmCr2QJdk33d) | 2:30 |
-| 9 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
-| 10 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 |
-| 11 | [Liebe für lau](https://open.spotify.com/track/6FBKpJzECXb30DLLWiGsB5) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Liebe für lau](https://open.spotify.com/album/68khQe9GoKmoc1w3mJf4qJ) | 2:35 |
-| 12 | [Weißt du](https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Weißt du](https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH) | 2:04 |
-| 13 | [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [Willst du](https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3) | 2:56 |
-| 14 | [Zeit x RIN](https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Zeit x RIN](https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV) | 2:15 |
-| 15 | [Cool](https://open.spotify.com/track/6lUbb9wnaz2lo9sczbfpss) | [Haller](https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3), [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Cool](https://open.spotify.com/album/0WXofhhWkaD6NmI5Dwj9pw) | 2:25 |
+| 8 | [Fuß baumeln](https://open.spotify.com/track/7dIi6DS9RA6PDTU90CcNoV) | [Zartmann](https://open.spotify.com/artist/0pVHBkObr9UNIWpms1e4I0), [Drumla](https://open.spotify.com/artist/03k7SIn9vVGUuVvR6JhAW9) | [Fuß baumeln](https://open.spotify.com/album/2BukPk8h55bGp9vildXq57) | 2:27 |
+| 9 | [ALIEN](https://open.spotify.com/track/0nvWJynJUxMmaQHoiv1XLI) | [JPD](https://open.spotify.com/artist/6GINGsiSYu415FMWN9xbBN) | [ALIEN](https://open.spotify.com/album/5BqIRh4Q4PQX7cz6NqgrAf) | 2:16 |
+| 10 | [Fang](https://open.spotify.com/track/4AiBmrYrcxTB5rFM7doAiv) | [Felix Herbst](https://open.spotify.com/artist/5FjvjkbSAOddYcOeOvZh2d) | [Fang](https://open.spotify.com/album/4DErDX71xvkmCr2QJdk33d) | 2:30 |
+| 11 | [Atlantis](https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [kleine Feuer](https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa) | 2:34 |
+| 12 | [Liebe für lau](https://open.spotify.com/track/6FBKpJzECXb30DLLWiGsB5) | [Pablu](https://open.spotify.com/artist/3a7QAPvMYydT1dhUzapIv3) | [Liebe für lau](https://open.spotify.com/album/68khQe9GoKmoc1w3mJf4qJ) | 2:35 |
+| 13 | [Weißt du](https://open.spotify.com/track/6xTQUjMO5hZVrEpSNNo4eu) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Weißt du](https://open.spotify.com/album/1GNaAjx5ns0ptcKNYs0wAH) | 2:04 |
+| 14 | [Willst du](https://open.spotify.com/track/0XeyWcuJsrJo28jZGda4IQ) | [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ), [emi x](https://open.spotify.com/artist/5kDJnYkE7Xm5zgEsJHb23u) | [Willst du](https://open.spotify.com/album/3v6PmEA3aZhxeG1Y62nmS3) | 2:56 |
+| 15 | [Zeit x RIN](https://open.spotify.com/track/0jGC4X9hEVr7MihAhm9ViS) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt), [RIN](https://open.spotify.com/artist/18ISxWwWjV6rPLoVCXf1dz) | [Zeit x RIN](https://open.spotify.com/album/5PsxjZFVj5c1xODJDrS1pV) | 2:15 |
 | 16 | [hello sunshine](https://open.spotify.com/track/0AbX5Xi6d6kGmdpZFovSrY) | [Katha Pauer](https://open.spotify.com/artist/2YxWusBgSh4BLJdypUbFbC) | [hello sunshine](https://open.spotify.com/album/0RqvyJLJdIgR3OsSCPO8NJ) | 3:10 |
 | 17 | [Otto Normal](https://open.spotify.com/track/2XuDucWOZOUjneQXyRVyay) | [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Otto Normal](https://open.spotify.com/album/7q9qdj3phwZm7rpuccOSC9) | 2:37 |
 | 18 | [Für immer Frühling](https://open.spotify.com/track/3pn5z4CvMz95uEysWBUYCc) | [soffie](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Für immer Frühling](https://open.spotify.com/album/5CiWnH7Pwp3re6czR6FLCN) | 2:00 |
@@ -83,4 +83,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 73 | [Schere Stein Papier](https://open.spotify.com/track/35rLzOjaDt0k9L0JwndPYh) | [George JR](https://open.spotify.com/artist/1DEiVfNJKnAbTDbhKy1h3t) | [Schere Stein Papier](https://open.spotify.com/album/2wp0GmMLB4NOjQRLySIDR2) | 2:45 |
 | 74 | [Enttäuscht](https://open.spotify.com/track/0yDzE2lP8xFMpu7Pqp5196) | [das blühende leben](https://open.spotify.com/artist/5j2wAhtgYolAMqJK8JzbLK) | [Enttäuscht](https://open.spotify.com/album/3RMAGCdlzl1zEnnSpJYLmQ) | 3:13 |
 
-Snapshot ID: `MTcxMzQ3NzYwMCwwMDAwMDAwMDIzZjk5NWI5NDFhMWRiOTEzMDA0NGM1N2Y5ZTUzOGIw`
+Snapshot ID: `MTcxMzkwMjI5NSwwMDAwMDAwMDIwZDM3NWRmZjdmOTI2NGNlNzFhZDUyOWRhNGIxMDA2`

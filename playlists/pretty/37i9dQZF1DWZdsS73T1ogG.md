@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 
 > Descubre lo más nuevo del movimiento\. Cover: Gonzy
 
-[Spotify](https://open.spotify.com/user/spotify) - 502,209 likes - 99 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 501,313 likes - 99 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZdsS73T1ogG.md) - [plain]
 | 18 | [offline](https://open.spotify.com/track/7s4emXHJwAuo5VvGBXmnBL) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:21 |
 | 19 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 |
 | 20 | [Dime](https://open.spotify.com/track/7IJph8SanpysMOFmXQCJth) | [El Malilla](https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly), [Maury](https://open.spotify.com/artist/7LRYPLE0QYC8JeRWmFnGyg) | [Dime](https://open.spotify.com/album/0ZojoU0GhpLwBGVrTsEghq) | 2:53 |
-| 21 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Dime Platino](https://open.spotify.com/artist/2LC4ljtDWdhDMGPprXWyZN) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
+| 21 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
 | 22 | [Maquillaje](https://open.spotify.com/track/5eCXvznEquEklXtTrR2BNV) | [Renn](https://open.spotify.com/artist/25HXdVQcRMRgDKWbk5cn0G), [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Maquillaje](https://open.spotify.com/album/6Z2MQdjjQy21GqIR3Innwg) | 3:31 |
 | 23 | [Lollipop \- Remix](https://open.spotify.com/track/1S2WWT5jW9J3MauQ7r7qN4) | [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Lollipop \(Remix\)](https://open.spotify.com/album/7n9GeVtUUEc619yiyhT9AR) | 4:26 |
 | 24 | [BYAK](https://open.spotify.com/track/12Ba9adVh6yrSRv59Y1zoW) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq) | [BYAK](https://open.spotify.com/album/0nBfe3oPM8oiFWbU1TFAP5) | 3:36 |

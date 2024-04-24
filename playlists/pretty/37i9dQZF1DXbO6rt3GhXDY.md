@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 
 > You know em, you love em, these are indie pop hits\.  Cover: Good Neighbours
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,875 likes - 110 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,315 likes - 110 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 45 | [Chateau \(Feel Alright\)](https://open.spotify.com/track/3vjs2MDHoF9xhylNg6Y9un) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [Twenty Twenty](https://open.spotify.com/album/3kxxxUQ9HFVUSg2pDLYoZ0) | 4:32 |
 | 46 | [Run Your Mouth](https://open.spotify.com/track/7lw4J2RfcPs2hEJgPY44lC) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Run Your Mouth](https://open.spotify.com/album/1CffBsDXjxsZH53y29UuiP) | 2:40 |
 | 47 | [Phone Numbers](https://open.spotify.com/track/3f9Mzvd3URfbbIJBX4pz9Z) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs), [Kenny Beats](https://open.spotify.com/artist/1rHOtdmGNr5vcYNw5v7QGC) | [Phone Numbers](https://open.spotify.com/album/6RhSCF1Z3g95Q1rZWqpUdT) | 2:26 |
-| 48 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
-| 49 | [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC) | 5:12 |
+| 48 | [Lo Que Siento](https://open.spotify.com/track/4CYeId6mLAasOb6o0NCz4Y) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Lo Que Siento](https://open.spotify.com/album/69FOLmptEcKSeN1f60UFDC) | 5:12 |
+| 49 | [Alaska](https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Heard It In A Past Life](https://open.spotify.com/album/5AHWNPo3gllDmixgAoFru4) | 3:08 |
 | 50 | [Cinderella](https://open.spotify.com/track/6NgvAmrhjUENGdtVQnBHx8) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Cinderella](https://open.spotify.com/album/3Xp0cLYXLzd47kskTdPVGg) | 4:03 |
 | 51 | [AOK](https://open.spotify.com/track/1sx0XsWUusUoPstbvokZjP) | [Tai Verdes](https://open.spotify.com/artist/2kCO8LXN1usaOPL3iEE28I) | [TV](https://open.spotify.com/album/6E8lxwX7KMAO9nCx4A5tAR) | 2:53 |
 | 52 | [Somebody Else](https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [I like it when you sleep, for you are so beautiful yet so unaware of it](https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4) | 5:47 |
@@ -77,17 +77,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 67 | [Take Me Where Your Heart Is](https://open.spotify.com/track/1RJl5cZ8kFpoVFOS2x6scI) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:12 |
 | 68 | [Silk Chiffon](https://open.spotify.com/track/5ECxiK4Vigo1yRRmAoZc1f) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:26 |
 | 69 | [The Dress](https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Absolutely](https://open.spotify.com/album/4E691gbRgo2Zb6ToII2DWO) | 3:04 |
-| 70 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
-| 71 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
-| 72 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
-| 73 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
+| 70 | [So Hot You're Hurting My Feelings](https://open.spotify.com/track/5B6Kjha6RRIMWGN7zGsAaT) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Pang](https://open.spotify.com/album/4ClyeVlAKJJViIyfVW0yQD) | 3:03 |
+| 71 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
+| 72 | [Peach](https://open.spotify.com/track/5JRMqkR82k2fdDEAim9SCN) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 2:56 |
+| 73 | [Sunny day](https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Beatopia](https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V) | 2:40 |
 | 74 | [Booster Seat](https://open.spotify.com/track/72RC6Kw32QfJi6RzlDKNxs) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [Sunlight](https://open.spotify.com/album/3zZi1vy6CnNZX7lbcRJtXo) | 4:28 |
 | 75 | [HIT EM WHERE IT HURTS](https://open.spotify.com/track/7888F1QWPTn4cPbuknNV4T) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [HIT EM WHERE IT HURTS](https://open.spotify.com/album/2w4bxNOt8ZLIBaKH2oi6ij) | 2:45 |
 | 76 | [Seventeen](https://open.spotify.com/track/4gsR34XSIE2fUY4odwZqym) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [Seventeen](https://open.spotify.com/album/4BrJEabBSw59bwSjKZl25p) | 3:45 |
 | 77 | [Weekend Friend](https://open.spotify.com/track/2d3QlXE6FXFDeodiS66yjM) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Weekend Friend](https://open.spotify.com/album/1U2tk4b49drBLpt9GJ9kPc) | 3:29 |
 | 78 | [Sexy Villain](https://open.spotify.com/track/27sBcXtgTBSJRdUxei1a7J) | [Remi Wolf](https://open.spotify.com/artist/0NB5HROxc8dDBXpkIi1v3d) | [Juno](https://open.spotify.com/album/7tJ8Wtej161vR0uCbGDiDR) | 3:08 |
-| 79 | [North Face](https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:16 |
-| 80 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
+| 79 | [Archie, Marry Me](https://open.spotify.com/track/0KVWVuutF9Dn8li4HdyAeU) | [Alvvays](https://open.spotify.com/artist/3kzwYV3OCB010YfXMF0Avt) | [Alvvays](https://open.spotify.com/album/1K6TvnkvmnLKPhifmPb6N7) | 3:16 |
+| 80 | [North Face](https://open.spotify.com/track/63bAGRSSX2V1hhPSP2NpBC) | [ODIE](https://open.spotify.com/artist/5aMIbwZQvP2MHPMVC5zCGj) | [Analogue](https://open.spotify.com/album/1SgtXskC74No0x9a9iDlfw) | 3:16 |
 | 81 | [Dance, Baby!](https://open.spotify.com/track/5EV4bGHxVN0kHpcAFvgnTt) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Roy Pablo](https://open.spotify.com/album/1D3JNjKm7QRaHcIBzv0Xdn) | 3:18 |
 | 82 | [Nanã](https://open.spotify.com/track/0Psz3az3RIYfJpnsajBT8N) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM) | [Caravelle](https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT) | 3:10 |
 | 83 | [blind](https://open.spotify.com/track/0NuWgxEp51CutD2pJoF4OM) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [our little angel \- EP](https://open.spotify.com/album/6RIPoDTAV7hnyBAM5xrKVV) | 2:33 |
@@ -102,8 +102,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbO6rt3GhXDY.md) - [plain]
 | 92 | [Dark Days](https://open.spotify.com/track/7LZN7FkxHZk6maiN6NdI2i) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Sunlit Youth](https://open.spotify.com/album/2qiPY1CqHGexT4yWrQ5uX0) | 3:00 |
 | 93 | [Something For Your M.I.N.D.](https://open.spotify.com/track/4rCKRVJZKVysScn2piDuOT) | [Superorganism](https://open.spotify.com/artist/0Wkm45quqfx3NepJpXDvwE) | [Superorganism](https://open.spotify.com/album/15TFB6uLZlb3gnCysRrLix) | 2:45 |
 | 94 | [All Your Love](https://open.spotify.com/track/7G7zCzvyqz39BFE7TqPM3O) | [Jakob](https://open.spotify.com/artist/4ub2v80S4RIceZRGnlhjTr) | [All Your Love](https://open.spotify.com/album/1Z35j1egN42Xvtul5WRlu6) | 2:55 |
-| 95 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
-| 96 | [Ugotme](https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 2:07 |
+| 95 | [Ugotme](https://open.spotify.com/track/5Ju9aLa212eAILfl5sWkjc) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Stereo](https://open.spotify.com/album/1DEqCWbOzKMhxRoTPz21Ht) | 2:07 |
+| 96 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 |
 | 97 | [Sea Sick](https://open.spotify.com/track/3qiX7QXv6w6y4wsr5KP6U1) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [Sea Sick](https://open.spotify.com/album/1XQYd61d9bQA3ba5xUrhKB) | 2:10 |
 | 98 | [A Little While](https://open.spotify.com/track/1ahzHj4rfljE8w4ZwpEjOM) | [Yellow Days](https://open.spotify.com/artist/3dv4Q4q3LWOnbLJnC6GgTY) | [Harmless Melodies](https://open.spotify.com/album/5CPwacWmIAaA5DLUq7EHUC) | 5:18 |
 | 99 | [AMBER](https://open.spotify.com/track/3Gxu9gAd5rXsnSS0rUpRAs) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [HUES.](https://open.spotify.com/album/3BL9rMkgTK20yLu3zaeJGM) | 3:31 |

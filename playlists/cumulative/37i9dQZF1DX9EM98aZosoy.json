@@ -624,7 +624,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 181052,
       "name": "Blonde Chaya - Sped Up",
       "url": "https://open.spotify.com/track/6WbDwAoc5xr0kFflHZW0A4"
@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2023-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
@@ -3245,6 +3245,32 @@
     },
     {
       "album": {
+        "name": "Pedro",
+        "url": "https://open.spotify.com/album/5y6RXjI5VPR0RyInghTbf1"
+      },
+      "artists": [
+        {
+          "name": "Jaxomy",
+          "url": "https://open.spotify.com/artist/1c3uso4iIeeX3P0bhKaQDq"
+        },
+        {
+          "name": "Agatino Romero",
+          "url": "https://open.spotify.com/artist/124jbwgd8Hh6LW7jAqTa8r"
+        },
+        {
+          "name": "Raffaella Carr\u00e0",
+          "url": "https://open.spotify.com/artist/6EVyI0S0b1Ld2nm37m5x85"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144846,
+      "name": "Pedro",
+      "url": "https://open.spotify.com/track/48lxT5qJF0yYyf2z4wB4xW"
+    },
+    {
+      "album": {
         "name": "Perfect (Exceeder)",
         "url": "https://open.spotify.com/album/2eScJnMQTMY0WYPz2MXWsp"
       },
@@ -3878,6 +3904,24 @@
       "duration_ms": 135302,
       "name": "TABU.",
       "url": "https://open.spotify.com/track/42Ztw2ZtZR3mtWjXpg0R5I"
+    },
+    {
+      "album": {
+        "name": "Tell Ur Girlfriend",
+        "url": "https://open.spotify.com/album/0S8DGX9LmBkRSVi3ywcCOT"
+      },
+      "artists": [
+        {
+          "name": "Lay Bankz",
+          "url": "https://open.spotify.com/artist/4OVbrPbhvK46A1uXTU1u5F"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124444,
+      "name": "Tell Ur Girlfriend",
+      "url": "https://open.spotify.com/track/3lMzT16MjAKKXF7pSZn13B"
     },
     {
       "album": {

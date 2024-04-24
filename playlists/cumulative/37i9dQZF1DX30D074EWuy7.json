@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 291000,
       "name": "BERSERK",
       "url": "https://open.spotify.com/track/5cLDkIR9EErDqHicPcvawo"
@@ -7652,6 +7652,24 @@
       "duration_ms": 112476,
       "name": "Quietude",
       "url": "https://open.spotify.com/track/2lrkkSj33p5BasyOguA9KR"
+    },
+    {
+      "album": {
+        "name": "Radura",
+        "url": "https://open.spotify.com/album/3nVryxhJJLnfUbuDao2GGv"
+      },
+      "artists": [
+        {
+          "name": "Ossa di Cane",
+          "url": "https://open.spotify.com/artist/1VCj5D1j6fAawIRdWE4hxY"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363000,
+      "name": "Radura",
+      "url": "https://open.spotify.com/track/7uswg3N8MzEXc6f8ACYaCR"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Se acabó el amor\. La música continúa.
 
-227 songs - 13 hr 4 min
+228 songs - 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [Todavía No Te Olvido \(feat\. Carlos Rivera\)](https://open.spotify.com/track/1o4NhRBP3RSnK73rxfW4tU) | [Río Roma](https://open.spotify.com/artist/2O3v9rCTzLhPFaGaAVgZLt), [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Eres la Persona Correcta en el Momento Equivocado \(Deluxe Edition\)](https://open.spotify.com/album/4yLZWoiV6At9flI5Qcyagr) | 3:32 | 2021-12-06 |  |
 | [Todo me recuerda a ti](https://open.spotify.com/track/6gigvFhDskC4ebqGM59Ic6) | [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Todo Me Recuerda a Ti](https://open.spotify.com/album/0KHNRGaM6cuAxwBzZJJZ3r) | 3:25 | 2021-12-06 | 2022-07-13 |
 | [Tomar Distancia](https://open.spotify.com/track/1gd4OWaul0LVm0xsGswjaD) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Tomar Distancia](https://open.spotify.com/album/6jJ1AQcqFL1Dz9P6t3QIgT) | 2:30 | 2021-12-06 | 2023-09-12 |
+| [Tu Canción](https://open.spotify.com/track/2AS8N3sySr3xDS2dDG6oSv) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Nuestro Año](https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES) | 3:12 | 2024-04-19 |  |
 | [Tu Recuerdo \(feat\. La Mari De Chambao & Tommy Torres\) \- MTV Unplugged Version](https://open.spotify.com/track/61hJK3EfAd1LDk7x5OrCTc) | [Ricky Martin](https://open.spotify.com/artist/7slfeZO9LsJbWgpkIoXBUJ), [Lamari](https://open.spotify.com/artist/1Rv4Ogfu7pg6QMo09XWtWK), [Tommy Torres](https://open.spotify.com/artist/264nbMzGPSkDZqTY8nXwCG) | [Ricky Martin MTV Unplugged](https://open.spotify.com/album/7qhZvYXFgsaSzuukZw9WCM) | 4:07 | 2021-12-06 |  |
 | [Tu Última Canción](https://open.spotify.com/track/2rBzZemt8uRmC9HcnOwAA3) | [Pitizion](https://open.spotify.com/artist/0GWdY55YF6xzN5L1A0X8nq) | [Tu Última Canción](https://open.spotify.com/album/1ZhpLc9Bq2Xs7Cr5BAurAd) | 2:40 | 2021-12-06 | 2022-07-29 |
 | [Tú Fuiste para Mí](https://open.spotify.com/track/0qTdJEueaypPv4r6Ezi7IA) | [Carlos Rivera](https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf) | [Yo Creo](https://open.spotify.com/album/3AprieF2G5BAcPGbeANZ6e) | 3:54 | 2021-12-06 | 2022-07-27 |
@@ -227,7 +228,7 @@
 | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/track/1YlHuvmZCFIlt0O1JlReCb) | [Sofi de la Torre](https://open.spotify.com/artist/45VGByxe5GLUyX1XQlcC8I), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Y Duele \(feat\. Pablo Alborán\)](https://open.spotify.com/album/6jNg9aoFBKGeDExlYzbXlv) | 3:21 | 2021-12-06 | 2023-03-05 |
 | [Y Tú Te Vas](https://open.spotify.com/track/7zuwr7YqqpveNtxlKe1vn6) | [Chayanne](https://open.spotify.com/artist/1JbemQ1fPt2YmSLjAFhPBv) | [Grandes Exitos](https://open.spotify.com/album/1HR0VmKYncW4JyMwRCSi9N) | 4:43 | 2023-01-06 |  |
 | [Ya No Estás](https://open.spotify.com/track/4McNXMj0Z47n7PairFFYln) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Ya No Estás](https://open.spotify.com/album/3NXZtSLp4BRmph8pajGnNN) | 3:18 | 2021-12-06 | 2022-07-27 |
-| [Ya No Estás](https://open.spotify.com/track/4gXkuUnAzsdBmhgUblNdtc) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:18 | 2021-12-06 |  |
+| [Ya No Estás](https://open.spotify.com/track/4gXkuUnAzsdBmhgUblNdtc) | [Matisse](https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU) | [Tres](https://open.spotify.com/album/0dpI4KeBTPdazVzW1paxqh) | 3:18 | 2021-12-06 | 2024-04-24 |
 | [Ya No Quiero Amarte](https://open.spotify.com/track/5aa5ycJnO3yDcmSjihjyBu) | [Nabález](https://open.spotify.com/artist/64J3ISAKbfg1CuP4CVCMlF), [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [Ya No Quiero Amarte](https://open.spotify.com/album/1s548Q6mTkf9bOYivdgrE5) | 3:08 | 2021-12-06 | 2022-06-10 |
 | [Yo No Merezco Volver](https://open.spotify.com/track/1uFl33ahAD59XrccuSxpkz) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Balas Perdidas](https://open.spotify.com/album/43mAHKPa4iB2er88lxD9Q8) | 3:40 | 2021-12-06 |  |
 | [¿Cómo Estás?](https://open.spotify.com/track/39UW0ALFyTXCNpCNxBUdNP) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Navegando](https://open.spotify.com/album/3UbZvsLswQE2L5mBiGlzO0) | 2:12 | 2021-12-06 | 2023-03-28 |

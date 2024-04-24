@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5HLync1pXOg.md) - [plain]
 
 > The official playlist for We Are Lady Parts featuring all the original music from the show plus tracks from killer bands and artists\. Streaming now!
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,280 likes - 44 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,284 likes - 44 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

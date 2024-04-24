@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 815812,
+  "num_followers": 814797,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -165,22 +165,6 @@
       "url": "https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR"
     },
     {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "I Know a Place",
-        "url": "https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA"
-      },
-      "artists": [
-        {
-          "name": "Chevy",
-          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
-        }
-      ],
-      "duration_ms": 129000,
-      "name": "I Know a Place",
-      "url": "https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW"
-    },
-    {
       "added_at": "2023-06-16 00:58:30",
       "album": {
         "name": "Every Day's A Lesson In Humility",
@@ -199,6 +183,22 @@
       "duration_ms": 216189,
       "name": "Every Day's A Lesson In Humility",
       "url": "https://open.spotify.com/track/61McqEmrnduKFDgd0lY6xf"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "I Know a Place",
+        "url": "https://open.spotify.com/album/4QpxAjaWDtNgxf6XtxWUsA"
+      },
+      "artists": [
+        {
+          "name": "Chevy",
+          "url": "https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "I Know a Place",
+      "url": "https://open.spotify.com/track/3HopXEwE96WWXPP4OK78wW"
     },
     {
       "added_at": "2023-12-20 18:47:50",
@@ -623,22 +623,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Dusk Till Dawn",
-        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
-      },
-      "artists": [
-        {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
-        }
-      ],
-      "duration_ms": 208568,
-      "name": "Dusk Till Dawn",
-      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/6089f5uzG7inpexDTg1OHm"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 242011,
       "name": "Lover",
       "url": "https://open.spotify.com/track/1g4d7RpKk65jnx2qKZXRH5"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Dusk Till Dawn",
+        "url": "https://open.spotify.com/album/1skDKsDkYykE118scvvhfj"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 208568,
+      "name": "Dusk Till Dawn",
+      "url": "https://open.spotify.com/track/1NWvbQI3bNfPxbxF9OQ1Ek"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Saturday Nights",
-        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+        "name": "Fade into You",
+        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
       },
       "artists": [
         {
-          "name": "Amanda Yang",
-          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
         }
       ],
-      "duration_ms": 178852,
-      "name": "Saturday Nights",
-      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+      "duration_ms": 252596,
+      "name": "Fade into You",
+      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -751,22 +751,6 @@
       "duration_ms": 173250,
       "name": "You Get What You Give",
       "url": "https://open.spotify.com/track/7BoCnys48XsoCiJwE6g491"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Fade into You",
-        "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
-      },
-      "artists": [
-        {
-          "name": "Mallrat",
-          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
-        }
-      ],
-      "duration_ms": 252596,
-      "name": "Fade into You",
-      "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -819,6 +803,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Saturday Nights",
+        "url": "https://open.spotify.com/album/2wkUj7y8b9yZZqjhfScAHv"
+      },
+      "artists": [
+        {
+          "name": "Amanda Yang",
+          "url": "https://open.spotify.com/artist/2hM7Rb0V5wKjvDEgYt1zed"
+        }
+      ],
+      "duration_ms": 178852,
+      "name": "Saturday Nights",
+      "url": "https://open.spotify.com/track/7d3s1XpWyIHZq20ie2ghSp"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Bad Liar",
         "url": "https://open.spotify.com/album/6lumYymEx5DCyt7VEL4QlF"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Pick Me Up Off The Floor",
-        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
-      },
-      "artists": [
-        {
-          "name": "Norah Jones",
-          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
-        }
-      ],
-      "duration_ms": 268600,
-      "name": "To Live",
-      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Beautiful People",
         "url": "https://open.spotify.com/album/2ETALrfBaNSSZbFITODMkM"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 212624,
       "name": "Beautiful People",
       "url": "https://open.spotify.com/track/2G0MFuEXoxdDgBjfFXP65I"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Pick Me Up Off The Floor",
+        "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "duration_ms": 268600,
+      "name": "To Live",
+      "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
-      },
-      "artists": [
-        {
-          "name": "Madison Cunningham",
-          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
-        }
-      ],
-      "duration_ms": 275662,
-      "name": "Life According To Raechel - Spotify Single",
-      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM"
+      },
+      "artists": [
+        {
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
+        }
+      ],
+      "duration_ms": 275662,
+      "name": "Life According To Raechel - Spotify Single",
+      "url": "https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Graveyard",
-        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
-      },
-      "artists": [
-        {
-          "name": "Highland Peak",
-          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
-        }
-      ],
-      "duration_ms": 254296,
-      "name": "Graveyard - Acoustic",
-      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Summertime",
         "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 227250,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Graveyard",
+        "url": "https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1"
+      },
+      "artists": [
+        {
+          "name": "Highland Peak",
+          "url": "https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV"
+        }
+      ],
+      "duration_ms": 254296,
+      "name": "Graveyard - Acoustic",
+      "url": "https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "CSN",
-        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
-      },
-      "artists": [
-        {
-          "name": "Crosby, Stills & Nash",
-          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
-        }
-      ],
-      "duration_ms": 274040,
-      "name": "Shadow Captain",
-      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -1399,6 +1383,22 @@
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "CSN",
+        "url": "https://open.spotify.com/album/63AF6wD9Mt1vQgKPNZaAXx"
+      },
+      "artists": [
+        {
+          "name": "Crosby, Stills & Nash",
+          "url": "https://open.spotify.com/artist/2pdvghEHZJtgSXZ7cvNLou"
+        }
+      ],
+      "duration_ms": 274040,
+      "name": "Shadow Captain",
+      "url": "https://open.spotify.com/track/7yw2UnCNLPTlPOQaaPHYCN"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Fractal",
-        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
-      },
-      "artists": [
-        {
-          "name": "Margarita Siempre Viva",
-          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
-        }
-      ],
-      "duration_ms": 265173,
-      "name": "Fractal",
-      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Tren Al Sur",
         "url": "https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS"
       },
@@ -1775,6 +1759,22 @@
       "duration_ms": 235982,
       "name": "Tren Al Sur",
       "url": "https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Fractal",
+        "url": "https://open.spotify.com/album/4vvUwAGBHBfLNhzhnhDJO2"
+      },
+      "artists": [
+        {
+          "name": "Margarita Siempre Viva",
+          "url": "https://open.spotify.com/artist/2XNJ1dXD5AjaHZTSM7qPlH"
+        }
+      ],
+      "duration_ms": 265173,
+      "name": "Fractal",
+      "url": "https://open.spotify.com/track/6iXXwXnXktrdJrGbiBdBvp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1835,22 +1835,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
-      },
-      "artists": [
-        {
-          "name": "Zoe Gotusso",
-          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
-        }
-      ],
-      "duration_ms": 277674,
-      "name": "Ganas - Spotify Singles",
-      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Everyone's In Love With You (Spotify Singles)",
         "url": "https://open.spotify.com/album/5PGP5bo8rMgca4lBoy2LJz"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 150000,
       "name": "Everyone's In Love With You - Spotify Singles",
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX"
+      },
+      "artists": [
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
+        }
+      ],
+      "duration_ms": 277674,
+      "name": "Ganas - Spotify Singles",
+      "url": "https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2085,6 +2085,22 @@
       "url": "https://open.spotify.com/track/5Usv5MphawKc1YZGbTlAly"
     },
     {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Limoneros",
+        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
+      },
+      "artists": [
+        {
+          "name": "Borneo",
+          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
+        }
+      ],
+      "duration_ms": 175786,
+      "name": "Limoneros",
+      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
+    },
+    {
       "added_at": "2024-01-05 03:19:09",
       "album": {
         "name": "better on my own (na podstawie serii \"Friends\" Aleksandry Negro\u0144skiej)",
@@ -2107,22 +2123,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Limoneros",
-        "url": "https://open.spotify.com/album/4EifjjgUQ3Fp0CUNLUXqJb"
-      },
-      "artists": [
-        {
-          "name": "Borneo",
-          "url": "https://open.spotify.com/artist/0w9lu4ZDXuidfh3SfJ7Bdz"
-        }
-      ],
-      "duration_ms": 175786,
-      "name": "Limoneros",
-      "url": "https://open.spotify.com/track/1CzjmKHAE1phlC2meLmdCJ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Levels",
         "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
       },
@@ -2135,6 +2135,22 @@
       "duration_ms": 110277,
       "name": "Levels",
       "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Acoustic Visions",
+        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
+      },
+      "artists": [
+        {
+          "name": "Veil",
+          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
+        }
+      ],
+      "duration_ms": 228922,
+      "name": "Enjoy the Silence",
+      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2167,22 +2183,6 @@
       "duration_ms": 214500,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Acoustic Visions",
-        "url": "https://open.spotify.com/album/0YMcgc8Y9BOkupPMOvP7xm"
-      },
-      "artists": [
-        {
-          "name": "Veil",
-          "url": "https://open.spotify.com/artist/2CZfm09pHpIVkVRW75kmHg"
-        }
-      ],
-      "duration_ms": 228922,
-      "name": "Enjoy the Silence",
-      "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2519,22 +2519,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Ocean Eyes",
-        "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
-      },
-      "artists": [
-        {
-          "name": "Jameson David",
-          "url": "https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq"
-        }
-      ],
-      "duration_ms": 178143,
-      "name": "Ocean Eyes",
-      "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Field Notes",
         "url": "https://open.spotify.com/album/7gUs6NF3izcZI6J5hw7nDh"
       },
@@ -2547,6 +2531,22 @@
       "duration_ms": 230253,
       "name": "Arueira Mata",
       "url": "https://open.spotify.com/track/4pfiirejtPup2SaslK9B5e"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Ocean Eyes",
+        "url": "https://open.spotify.com/album/4wbKBzvjGYMMlJIdzBW7Wb"
+      },
+      "artists": [
+        {
+          "name": "Jameson David",
+          "url": "https://open.spotify.com/artist/66pRpCCxdVALakZpifVDwq"
+        }
+      ],
+      "duration_ms": 178143,
+      "name": "Ocean Eyes",
+      "url": "https://open.spotify.com/track/1xzOCZA9ZR2bK0aq5mJj8N"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

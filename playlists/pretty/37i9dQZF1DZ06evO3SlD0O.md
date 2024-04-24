@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 
 ### [This Is Los Traileros Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3SlD0O)
 
-> This is Los Traileros Del Norte\. The essential tracks, all in one playlist.
+> This Is Los Traileros Del Norte\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,601 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,608 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3SlD0O.md) - [plain]
 | 49 | [Una Noche No](https://open.spotify.com/track/2lDBDJRUX5OdpzFG0jSmUu) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amor De Los Dos](https://open.spotify.com/album/3GQXdspUXYELLuh9lRPFN4) | 2:46 |
 | 50 | [Ahora Que Estuviste Lejos](https://open.spotify.com/track/3g9YsvJjIeKa2W2sXg7tae) | [Los Traileros Del Norte](https://open.spotify.com/artist/6ySHNrLBDCdYRyQKGfsZ37) | [Amnesia](https://open.spotify.com/album/7303vr0nPaEu0hGye4S4rz) | 2:34 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGNkMTgyYjU3YTQxODliMjIxNWVkNDU3NDRkYWQ3NWY4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDZiNWMzNzI1MTBmZjZmZjdjNjdiYjY5YmI1MTlkOTUz`

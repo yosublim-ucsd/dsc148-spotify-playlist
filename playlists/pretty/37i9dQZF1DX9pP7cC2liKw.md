@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 
 > Immerse yourself in the mysticism of Tulum!
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,861 likes - 70 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,214 likes - 70 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 52 | [Selva y mar](https://open.spotify.com/track/2DsUXoqK3HXx2Sat09W7uN) | [Tati Falco](https://open.spotify.com/artist/2iaZ9zGdSh6fSP3uBS6jV6) | [Selva y mar](https://open.spotify.com/album/79AHYPMxeWRc5NR7WqwUFG) | 4:08 |
 | 53 | [French Samba](https://open.spotify.com/track/6wLK0SBUsxpfsl8XhxII7c) | [ASHA](https://open.spotify.com/artist/0GKwVF8JH8RpfTUe3x6pyN) | [French Samba](https://open.spotify.com/album/4HY9SRfYRPhM0yNsOIlejt) | 2:43 |
 | 54 | [Aima](https://open.spotify.com/track/2ZLSvb7IJl7k9FDDuO0P3q) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn) | [Hybridism](https://open.spotify.com/album/34ZtJJKrCWgno0vQYtDN5H) | 5:08 |
-| 55 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
-| 56 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
+| 55 | [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 |
+| 56 | [Tropical Gypsy](https://open.spotify.com/track/2NT4Qm591F5sel8OupNhWp) | [DJ Cam](https://open.spotify.com/artist/1hwAhXzyuEUjug2pyNVSvg) | [Tropical Gypsy](https://open.spotify.com/album/57y7GwBbU7iWlVt3fO4yQA) | 3:01 |
 | 57 | [Pacifico Soy](https://open.spotify.com/track/3HU8CSLqd7d6XSHOfWggmK) | [Electropico](https://open.spotify.com/artist/0vBqXIopwkJEQZEssLZEBK), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [Fiera](https://open.spotify.com/album/1yjWcaPexYHc4DYKFfVfuc) | 2:50 |
 | 58 | [Noche de Amor](https://open.spotify.com/track/1CYuo0OfQLSoqkaM8Hrrxt) | [Ondatrópica](https://open.spotify.com/artist/00E0xvoM67oRJk8a5iTyEh), [Juancho Vargas](https://open.spotify.com/artist/6AEhqCT1ckh6RsfvvFoXhT) | [Noche de Amor](https://open.spotify.com/album/1NvVlQFSVOjr7w0Jh18VZ6) | 7:23 |
 | 59 | [Morena](https://open.spotify.com/track/7z1q1J4zcB1d736GJZUkLa) | [Palmasur](https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M), [Flora Vida](https://open.spotify.com/artist/5gprsG9LtyIlMuQjotp3w8), [DreamBetter](https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi) | [Morena](https://open.spotify.com/album/4uxHO0UkGVUckaCScCgI5U) | 2:29 |
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9pP7cC2liKw.md) - [plain]
 | 62 | [Agujas en el pecho](https://open.spotify.com/track/0np9UFhTftjmtGJSe0C9wP) | [Cheo](https://open.spotify.com/artist/2sshGYdyr1ZEl4Np76RRxG), [Catalina García](https://open.spotify.com/artist/2eWiATMtcOCS8vAjRJp9iY) | [Agujas en el pecho](https://open.spotify.com/album/2rCqZjc7bYddHbQ4h7ABHt) | 5:20 |
 | 63 | [Soy la lluvia](https://open.spotify.com/track/6nBTtVXOr8tXZQaJRguy8r) | [Los Bosques](https://open.spotify.com/artist/49Pl9Au4UinKf0RVdBycOG), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Soy la lluvia](https://open.spotify.com/album/6Z8c45wjOmc0m8kFhyYrLB) | 5:27 |
 | 64 | [Aves del Sur](https://open.spotify.com/track/1WCKyOIdH8eoWlssFxqOzg) | [Baco Beats](https://open.spotify.com/artist/7MVKon23QCaCGUoM7Ay7mv), [Jiony](https://open.spotify.com/artist/5jaiaZFHhEcPR2uAz8yGHP) | [Aves del Sur](https://open.spotify.com/album/6jPPLhWB8iF9k7AGatCTOe) | 3:09 |
-| 65 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
-| 66 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 65 | [Alma Seca](https://open.spotify.com/track/0TjNcJLSuyWByX7IjYYYs9) | [Juanita Euka](https://open.spotify.com/artist/5a7zFB39QFXzf8amit9zJh) | [Mabanzo](https://open.spotify.com/album/27YMkY29ejf68IpDywP91w) | 4:51 |
+| 66 | [Play by Play](https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF) | [Claude Fontaine](https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y) | [Claude Fontaine](https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7) | 4:06 |
 | 67 | [Towards The Mountain](https://open.spotify.com/track/4Wp7sd3BXs68y8qhEl2Ixa) | [Pachyman](https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l) | [El Sonido Nuevo de](https://open.spotify.com/album/1UHFfBD2kb9JeUcnQqsOUh) | 3:20 |
-| 68 | [Juicy](https://open.spotify.com/track/37BcvlCPdEu1fQuuad7TZ1) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Juicy](https://open.spotify.com/album/1l9h8V3bk4SUoGrAyviH2K) | 3:45 |
-| 69 | [Siempre Simón y Nunca Nel](https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Siempre Simón y Nunca Nel](https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq) | 4:01 |
-| 70 | [Lada](https://open.spotify.com/track/5glkUKqLtkk9z54kJAxjgF) | [Mitú](https://open.spotify.com/artist/3OlI3HjAc1LQUmd7wozF6k) | [Balnear](https://open.spotify.com/album/0HXvHufu18kcQI2xKTFhwO) | 3:43 |
+| 68 | [Siempre Simón y Nunca Nel](https://open.spotify.com/track/5R4VAb4lnEMFtSEmB0wiya) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Siempre Simón y Nunca Nel](https://open.spotify.com/album/4Elk6iWJSPWjp8rktFkFKq) | 4:01 |
+| 69 | [La de la terraza](https://open.spotify.com/track/2gRGnFeaYf0IbzujjrHGAd) | [Ezequiel Borra](https://open.spotify.com/artist/0SzGHC9KInmae0WJoM4aon), [Sonidos enraizados](https://open.spotify.com/artist/16g2mYYlZcGFHaT9VBHOMw) | [La de la terraza](https://open.spotify.com/album/5kvhEaHTcbmBziwnEZk05g) | 2:43 |
+| 70 | [Juicy](https://open.spotify.com/track/37BcvlCPdEu1fQuuad7TZ1) | [Alex Figueira](https://open.spotify.com/artist/1KKpoCjkEc0b0vAuiMe2uT) | [Juicy](https://open.spotify.com/album/1l9h8V3bk4SUoGrAyviH2K) | 3:45 |
 
 Snapshot ID: `MTcxMzgzMTY5MCwwMDAwMDAwMDJhMGFlMTE3ZjVlZDcyNjQ1ODQ3OGMxYmI5ZTNmZjBl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 
 > La música que enciende las fiestas navideñas y de fin de año en Colombia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,807 likes - 80 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,774 likes - 80 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdzaqVxgwaoV.md) - [plain]
 | 51 | [Qué Voy a Hacer Sin Ti](https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr) | [Armando Hernandez](https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe), [El Combo Caribe](https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V) | [Éxitos Armando Hernández](https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f) | 3:36 |
 | 52 | [Traicionera \- Digitally Remastered Original](https://open.spotify.com/track/0iYUChSCKX2ZBJJDHGOUPw) | [Pastor Lopez](https://open.spotify.com/artist/6Ud6RjvNXVe39mKiGUb7zE) | [Sus Más Grandes Éxitos](https://open.spotify.com/album/3NUMhmhwTK4uatK413RSOd) | 3:25 |
 | 53 | [El Solitario](https://open.spotify.com/track/7q82VvrWXF2ENfLkCZzSAD) | [Alfredo Gutierrez](https://open.spotify.com/artist/7esYnrPzQX1JWWIyWxYu5A) | [Colecciones de Oro](https://open.spotify.com/album/5rMb7dMhK7k7OILWRtswUe) | 3:36 |
-| 54 | [Farolito \(Little Star\)](https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG) | 4:39 |
-| 55 | [Tu Ausencia](https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Juan Carlos Acosta](https://open.spotify.com/artist/2Px53AqxDfgxdNcq8t6Y09) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:14 |
+| 54 | [Tu Ausencia](https://open.spotify.com/track/37stDm8VrYDRNBf0bzbqH9) | [Los Tupamaros](https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo), [Juan Carlos Acosta](https://open.spotify.com/artist/2Px53AqxDfgxdNcq8t6Y09) | [Éxitos los Tupamaros](https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM) | 3:14 |
+| 55 | [Farolito \(Little Star\)](https://open.spotify.com/track/62EOnIW2A0dbWZiIN82nS2) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Abriendo Puertas](https://open.spotify.com/album/1wXWeF4U9kpTYcBNBa1udG) | 4:39 |
 | 56 | [Plegaria](https://open.spotify.com/track/2KT2fxUXxlNLvmMqaGDpNE) | [Rodolfo Aicardi](https://open.spotify.com/artist/3IUAZiICL3J7GlHYPgT414), [La Tipica Ra7](https://open.spotify.com/artist/0WJbT6T0nkWfYO5zEbUPOG) | [Rescatando los Éxitos Originales de Long Play](https://open.spotify.com/album/1LxXO1YM55J3siUROq2i51) | 3:27 |
 | 57 | [Apagame La Vela](https://open.spotify.com/track/3I27f71VwlMVPe6wqAXPew) | [Billo's Caracas Boys Vs\. Los Melódicos](https://open.spotify.com/artist/65gL397VToxBjWk3kfPTpV) | [Mano A Mano](https://open.spotify.com/album/75HCZI5SShGQENunzEeXYr) | 2:01 |
 | 58 | [El Mujeriego](https://open.spotify.com/track/66hMCXEj9s7yMfMUa0HCEY) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [El Mujeriego](https://open.spotify.com/album/2txJvfyWUlQSjWV6RNtHiv) | 3:01 |

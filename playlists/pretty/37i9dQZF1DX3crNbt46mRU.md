@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,794 likes - 92 songs - 4 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,806 likes - 92 songs - 4 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 57 | [war dabei](https://open.spotify.com/track/467TBxcDXq34o85onMX2CH) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9), [Fatoni](https://open.spotify.com/artist/4riceIF5JCEKaSIwwLqIYt) | [war dabei](https://open.spotify.com/album/1poplU38WDX5WvNyt0mZXK) | 3:42 |
 | 58 | [KOMM SCHON!](https://open.spotify.com/track/7LB2fevVNV8mBQ5enoZEaQ) | [Tim Bendzko](https://open.spotify.com/artist/3xDVmZmDpaF1uuez2N7mKl) | [KOMM SCHON!](https://open.spotify.com/album/2cia55T8ILus3aX5uWsNZk) | 3:10 |
 | 59 | [Please Adore Me](https://open.spotify.com/track/2qsRD8uIGbBPOQM2ODr3xU) | [Lost in Lona](https://open.spotify.com/artist/6GpX7OGPoZNG1GMbtbiOPD) | [Please Adore Me](https://open.spotify.com/album/5pkkKtLVTGnpPSu3yGCJfM) | 3:08 |
-| 60 | [Money Money \(Money Money\)](https://open.spotify.com/track/4N0ugvsztVvVcWVGJqv0re) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0) | [Money Money \(Money Money\)](https://open.spotify.com/album/22JmQtBJDcHMDHOLmKDjGW) | 1:52 |
+| 60 | [Money Money \(Money Money\)](https://open.spotify.com/track/4N0ugvsztVvVcWVGJqv0re) | [Haftbefehl](https://open.spotify.com/artist/6ynopZPMBXcIGBI9M02Un5), [Frizzo](https://open.spotify.com/artist/44gg6tVRVzjoLVJlF4G3x0), [Veysel](https://open.spotify.com/artist/4VuARVJiWGsH2msKTdsKdQ) | [Money Money \(Money Money\)](https://open.spotify.com/album/22JmQtBJDcHMDHOLmKDjGW) | 1:52 |
 | 61 | [That's My Girl](https://open.spotify.com/track/2V0Vlkbb6fUEHl1gk8Lwr6) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [That's My Girl & Tired](https://open.spotify.com/album/1kfbsMBtTpCrrXqUnBYjjH) | 2:14 |
 | 62 | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Erik Bandt](https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb), [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B) | [How You Feel \(Ft\. Leven Kali\)](https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9) | 3:16 |
 | 63 | [HERicane](https://open.spotify.com/track/64fITmtln0OJqcxPf09vnY) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [HERicane](https://open.spotify.com/album/4YQ8O3PQb7cZnnLeqNPaa1) | 3:47 |

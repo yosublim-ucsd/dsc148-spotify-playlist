@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 49370,
+  "2024-04-24": 49425,
   "date_first_scraped": "2022-08-25",
   "description": "Enjoy music from DEN-ON-BU! \u6c17\u92ed\u306e\u30b3\u30f3\u30dd\u30fc\u30b6\u30fc\u304c\u591a\u6570\u53c2\u52a0\u3057\u3001\u4eca\u8a71\u984c\u306e\u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u30d7\u30ed\u30b8\u30a7\u30af\u30c8<a href=\"https://denonbu.jp/\">\u300c\u96fb\u97f3\u90e8\u300d</a>\u3092\u7279\u96c6!! \u30ad\u30e3\u30e9\u30af\u30bf\u30fc\u3068\u7d21\u3050\u96fb\u5b50\u97f3\u697d\u306e\u4e16\u754c\u306b\u98db\u3073\u8fbc\u3082\u3046\u3002",
   "name": "DEN-ON-BU \u96fb\u97f3\u90e8",
@@ -1537,24 +1537,6 @@
     {
       "album": {
         "name": "Dive Out",
-        "url": "https://open.spotify.com/album/4HRYlkiEjt8ckvvX88eUdf"
-      },
-      "artists": [
-        {
-          "name": "Divermy (MILIA/RARA/RIRI/KONA/YOO)",
-          "url": "https://open.spotify.com/artist/3LrI6xqtCkS1rNxJVEXofR"
-        }
-      ],
-      "date_added": "2024-04-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 219941,
-      "name": "Dive Out",
-      "url": "https://open.spotify.com/track/0qnhkfOU7OjjrYg4qL7oTa"
-    },
-    {
-      "album": {
-        "name": "Dive Out",
         "url": "https://open.spotify.com/album/1toleh3WDPh2EL82aKONox"
       },
       "artists": [
@@ -1569,6 +1551,28 @@
       "duration_ms": 219941,
       "name": "Dive Out",
       "url": "https://open.spotify.com/track/6zEN0UTIJbRRGBzSYmkno9"
+    },
+    {
+      "album": {
+        "name": "Dive Out",
+        "url": "https://open.spotify.com/album/4HRYlkiEjt8ckvvX88eUdf"
+      },
+      "artists": [
+        {
+          "name": "Divermy (MILIA/RARA/RIRI/KONA/YOO)",
+          "url": "https://open.spotify.com/artist/3LrI6xqtCkS1rNxJVEXofR"
+        },
+        {
+          "name": "\u96fb\u97f3\u90e8",
+          "url": "https://open.spotify.com/artist/3wCJxpjgYDXbwLn4vmSBEx"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219941,
+      "name": "Dive Out",
+      "url": "https://open.spotify.com/track/0qnhkfOU7OjjrYg4qL7oTa"
     },
     {
       "album": {

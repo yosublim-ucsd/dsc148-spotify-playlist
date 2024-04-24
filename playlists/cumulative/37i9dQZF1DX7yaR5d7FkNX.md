@@ -4,7 +4,7 @@
 
 > ✨❤️🌹Para Rocanlovers
 
-217 songs - 13 hr 20 min
+222 songs - 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Azul Oscuro](https://open.spotify.com/track/0QN72F39qCxtXJnyBGoUvy) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Gran Salto 1997\-2014](https://open.spotify.com/album/3Wag0awiCvOgN4Sj6BXSuy) | 4:20 | 2022-01-28 |  |
 | [Azul Oscuro](https://open.spotify.com/track/0foav3p9d6BKaYhzFkGP7Y) | [Zurdok](https://open.spotify.com/artist/2A2x3ZwZEOgWdSmSHZRIok) | [Rock Latino Pa' Curar La Cruda](https://open.spotify.com/album/37g0WUTlL4p92pVKi9gRqg) | 4:21 | 2022-01-28 | 2022-11-13 |
 | [Azul Oscuro](https://open.spotify.com/track/2arKxdHBNpI1zwTJDNmjwn) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Azul Oscuro](https://open.spotify.com/album/5iYmmcWr3mTo9xzQOXByPe) | 4:21 | 2022-01-28 | 2024-04-19 |
+| [Big Bang](https://open.spotify.com/track/6u7lzip5DLfQzyOph4PUR8) | [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Realismo Mágico](https://open.spotify.com/album/0MUX7s8aRLGMdu5A7Yoe7P) | 3:24 | 2024-04-23 |  |
 | [Brillando](https://open.spotify.com/track/0LWWuL2b4xRHe0AzerNRl6) | [Pehuenche](https://open.spotify.com/artist/7oXCcD0gC5pmtZk0HIxOhk), [Carlos Sadness](https://open.spotify.com/artist/2LCcy9CZWwZ7Vvykt8IVVq) | [Brillando](https://open.spotify.com/album/3cpu7Bc6c6VQw6VBnHw6i6) | 4:31 | 2022-03-18 | 2023-07-01 |
 | [Brillas](https://open.spotify.com/track/0wVU74Grfynyrl7vlaCM0E) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Baladas Románticas Latinas](https://open.spotify.com/album/07EhDhHjge4hEJcXzUUq0j) | 3:44 | 2022-01-28 | 2022-11-13 |
 | [Brillas](https://open.spotify.com/track/6OKmGZASRCmiKQKz4hCNrs) | [León Larregui](https://open.spotify.com/artist/4ClsVDy2g7RKSSlvq8cF6d) | [Solstis \- De León Larregui](https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ) | 3:44 | 2022-01-28 | 2024-04-19 |
@@ -56,10 +57,12 @@
 | [Cuando](https://open.spotify.com/track/2zLpAVqDJ2YfxIFNGMS8y0) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY) | [Nave Especial](https://open.spotify.com/album/6OF2h9gMF6CmnuMN2hyfiL) | 3:26 | 2022-04-26 |  |
 | [Cámara De Faltas](https://open.spotify.com/track/6O3D5ai8UmEHwyicBq07pk) | [Enjambre](https://open.spotify.com/artist/1ZdhAl62G6ZlEKqIwUAfZR) | [Enjambre Y Los Huéspedes Del Orbe](https://open.spotify.com/album/2wvZoVfLcQeDdErfx6jHiP) | 3:43 | 2022-04-26 | 2023-07-01 |
 | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/track/7jNBgXRCQ8HWnSIX19vho7) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ), [Yonatan Mazor](https://open.spotify.com/artist/3vIIkATsfM6dzKmHgv7qlZ) | [DE ESTE SUEÑO NO ME DESPIERTO](https://open.spotify.com/album/68mnlQeSr1hXXOPZxYaRJa) | 3:17 | 2023-04-28 |  |
+| [De Verdad \- Versión Acústica](https://open.spotify.com/track/6W9UqX0GbQm78CCwaJtDn3) | [Alex Ferreira](https://open.spotify.com/artist/3COVuPWvshbsdm0kdMMTr7) | [Versiones Para El Tiempo Y La Distancia, Vol\. 2](https://open.spotify.com/album/3nuFz3EVPwX5eyUYKezjIS) | 3:23 | 2024-04-23 |  |
 | [DECIR ADIOS "OYE NARRADOR" \(with Cuco\)](https://open.spotify.com/track/4AZrS6z6r4T7vpBRE7doUG) | [DannyLux](https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [DLUX](https://open.spotify.com/album/5pAgLx8XeBoItzjT81csbJ) | 3:48 | 2024-03-04 |  |
 | [Departamento](https://open.spotify.com/track/2RGk67GArzQcQa3AWSulJb) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adan Jodorowsky](https://open.spotify.com/artist/5qUyJ52ARWXdUNECvFHBag) | [Departamento](https://open.spotify.com/album/2ye38S3VSsbseIzQgtTP40) | 3:54 | 2022-01-28 | 2022-07-29 |
 | [Departamento](https://open.spotify.com/track/0L7UzdYmOkLhHoDLEcUa8f) | [Bandalos Chinos](https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp), [Adanowsky](https://open.spotify.com/artist/3yS2Ua2b0erJP5dx3xs063) | [Departamento](https://open.spotify.com/album/6HOznOXnB3b994Rq9HMlzj) | 3:54 | 2022-01-28 | 2023-07-01 |
 | [Desde Que](https://open.spotify.com/track/4QLfVqOrpBOJra53EhlEX0) | [Liquits](https://open.spotify.com/artist/6gtggUV7CgB7b7bCpWa6PC) | [Jardin](https://open.spotify.com/album/38SjCB7KnLKUgyEBjRfGmC) | 3:38 | 2022-01-28 |  |
+| [Diamantes](https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp) | [Siddhartha](https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x), [El Zar](https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi) | [Diamantes](https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8) | 4:03 | 2024-04-23 |  |
 | [Dientes](https://open.spotify.com/track/74cqgSQGf1qznCiWyqu7w5) | [iiis](https://open.spotify.com/artist/2bp4bYrLHmI6gekDL7433D), [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [Dientes](https://open.spotify.com/album/0Lzfz2swBfJWGJIAzZRgMV) | 4:46 | 2023-06-30 | 2023-09-02 |
 | [Dime](https://open.spotify.com/track/3kgBm26rI8faWMTxyzyJF3) | [Polaris](https://open.spotify.com/artist/4f8qDCXvGLNPj783d6PTWS) | [Dime](https://open.spotify.com/album/3Q8Wtw6UB5xLQQ15tb7z9B) | 3:01 | 2022-01-28 | 2023-11-07 |
 | [Dime Como Tú Quieras](https://open.spotify.com/track/09uJJFpcg2q2zuiYRC4PZT) | [Los Mesoneros](https://open.spotify.com/artist/0OluGbRuQQEcYyttGww517) | [Pangea](https://open.spotify.com/album/4ZXSSk6W16s3Jn7EXOnVFU) | 3:08 | 2022-01-28 | 2023-07-01 |
@@ -122,6 +125,7 @@
 | [La Magia](https://open.spotify.com/track/6Z8JXcW9fQuNRXznoBMfgp) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/7F82fBlo73zEKEauNfNQLP) | 4:05 | 2022-01-28 |  |
 | [lagunas](https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [lagunas](https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx) | 3:39 | 2023-12-22 |  |
 | [las calles de mi ciudad](https://open.spotify.com/track/5wPC3oJqHkrFqnpO5Hk2q9) | [Bilbao](https://open.spotify.com/artist/0auztALogdXmk4KYvF1FoT), [Planeta No](https://open.spotify.com/artist/47hetBUhKhfBmk8nXeriqN) | [las calles de mi ciudad](https://open.spotify.com/album/2UA7eyMtgoFEqkR4U3eQ1S) | 3:09 | 2023-06-16 |  |
+| [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 | 2024-04-23 |  |
 | [Libertad](https://open.spotify.com/track/1MMoSzv2oTgPNpsy54DKUR) | [Celest](https://open.spotify.com/artist/2tpIEJakXfrYv4CwlUL1Fl) | [Libertad](https://open.spotify.com/album/0dq3J0IKSXF3wDPbmrWSz8) | 5:05 | 2022-09-28 | 2023-02-18 |
 | [Lloro](https://open.spotify.com/track/2A2is5EUKFNtdcIT3yX9Gj) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Lloro](https://open.spotify.com/album/2I3XUFeagyBtNOsqVR0rxj) | 3:24 | 2022-04-26 | 2022-12-12 |
 | [Lloro](https://open.spotify.com/track/2eEIKn5hRMjeTiHlwlpBqZ) | [Marion Raw](https://open.spotify.com/artist/1BRIIX1uolmIQV9PrcedGj) | [Ghost In The Machine](https://open.spotify.com/album/3Yc31Lta4Yr3Sn0UlsdSPi) | 3:24 | 2022-04-26 | 2023-02-18 |
@@ -173,6 +177,7 @@
 | [Perra Soledad](https://open.spotify.com/track/6wYF5EU5fLmemMGDGaIaVF) | [Vicente Jáuregui](https://open.spotify.com/artist/0tKbVcaRHN7QplkBvX1Is9) | [Perra Soledad](https://open.spotify.com/album/3doJ5jjjid4alv36j9yssG) | 3:30 | 2023-03-03 |  |
 | [Pijamas](https://open.spotify.com/track/1AYgMuI3cgL5EjnfhnZVoq) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Mucho](https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3) | 3:29 | 2022-01-28 |  |
 | [Plate of Pie](https://open.spotify.com/track/4xsHMYE4RkggbBGFDiSYNr) | [Base Stereo Club](https://open.spotify.com/artist/4WCxqglOLB9kHPSsTNap7q) | [Plate of Pie](https://open.spotify.com/album/41G02cfTAHtRlAUfxoclLb) | 4:33 | 2022-03-18 | 2023-07-01 |
+| [playaplaya](https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui) | [Gepe](https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM) | [playaplaya](https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ) | 2:45 | 2024-04-23 |  |
 | [Poli](https://open.spotify.com/track/5WsHtvVnbfY17VNF93rQ7w) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Reptilectric](https://open.spotify.com/album/6Tqp8Twmyl9xRhePhKS668) | 3:20 | 2022-01-28 |  |
 | [Polvo De Estrellas](https://open.spotify.com/track/0tjqKnpDhZ7cjj8I0Gd2SX) | [Chetes](https://open.spotify.com/artist/5sIuOfUs74K1zFv5BqVaQY), [Calexico](https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ) | [Polvo De Estrellas](https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR) | 3:59 | 2024-03-04 | 2024-03-30 |
 | [Popular](https://open.spotify.com/track/3uEx77R6b16SAltboKfQjh) | [Zoé](https://open.spotify.com/artist/6IdtcAwaNVAggwd6sCKgTI) | [Sonidos De Karmática Resonancia](https://open.spotify.com/album/4a9Zz5WbFy2guHD98gHEyO) | 4:30 | 2022-01-28 | 2023-07-01 |

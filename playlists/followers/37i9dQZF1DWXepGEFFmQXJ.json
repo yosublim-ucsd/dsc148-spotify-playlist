@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 384020,
+  "2024-04-24": 384146,
   "date_first_scraped": "2022-01-02",
   "description": "The cream of today's Country crop. Cover: Y.O.G.A",
   "name": "Fresh Country",
@@ -165,6 +165,24 @@
       "duration_ms": 211053,
       "name": "5 Leaf Clover",
       "url": "https://open.spotify.com/track/2RbIoEQeXBoJzWt09eitEI"
+    },
+    {
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
     },
     {
       "album": {
@@ -2567,7 +2585,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 217356,
       "name": "Dream Baby",
       "url": "https://open.spotify.com/track/0yrG3eeWvuj9DJkVPsYWpJ"

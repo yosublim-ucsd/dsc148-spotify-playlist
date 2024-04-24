@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 
 > Country Music that rocks\. Cover: Ole 60
 
-[Spotify](https://open.spotify.com/user/spotify) - 592,164 likes - 100 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 592,181 likes - 100 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,9 +41,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWH0izG4erma.md) - [plain]
 | 31 | [Midnight Train To Memphis](https://open.spotify.com/track/6tInq1Sn2eehdsQGA9Aafh) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [From A Room: Volume 2](https://open.spotify.com/album/24fkX2Gdqw4a6pR9BUYbE5) | 3:42 |
 | 32 | [Break My Bones](https://open.spotify.com/track/1VSJKbdlrDRdI8oYu3tnzi) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Break My Bones](https://open.spotify.com/album/6jfQgc5MPRJrPqeJ8L1eu5) | 3:26 |
 | 33 | [Wanna Be Saved](https://open.spotify.com/track/0QIycBLxxiOSt72lTxb61k) | [Austin Williams](https://open.spotify.com/artist/1VKH3J7gGkVyOX0sEqsFSR) | [Wanna Be Saved](https://open.spotify.com/album/1VQpcSSC03gR55vH8orBOz) | 3:08 |
-| 34 | [Dirt](https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:50 |
+| 34 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
 | 35 | [Martha Divine](https://open.spotify.com/track/7cokvE1fABqkJL8FgUiBcS) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV) | [Never Will](https://open.spotify.com/album/0GETdJ0C2pHIqCFLoUa0rP) | 3:37 |
-| 36 | [Love You Again](https://open.spotify.com/track/1cAupeTLZyhhtfmRc4qaYy) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Love You Again](https://open.spotify.com/album/08J0usmnyEIpNH9GEtTk5p) | 2:53 |
+| 36 | [Dirt](https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:50 |
 | 37 | [Running Away](https://open.spotify.com/track/3DqluBhdHm3yd7g5UKQgCo) | [Kolby Cooper](https://open.spotify.com/artist/2dz0ijxEHh6AzUzQBwBSKx) | [Running Away](https://open.spotify.com/album/0tUApfCmluO2i5lNTbPcgg) | 3:14 |
 | 38 | [SOLD OUT](https://open.spotify.com/track/3I56OBwJkDAyt9L00c8ois) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [SOLD OUT](https://open.spotify.com/album/7btdv2v09pv92AOX2SvmKm) | 3:22 |
 | 39 | [Something's Gonna Kill Me](https://open.spotify.com/track/41cv1emXVm5Su4DWvltXa6) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | [Something's Gonna Kill Me](https://open.spotify.com/album/1ST1AL02131q4x1nzMO8It) | 3:03 |

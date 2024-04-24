@@ -1,12 +1,12 @@
 {
   "description": "This is LEGADO 7. The essential tracks, all in one playlist.",
-  "num_followers": 79792,
+  "num_followers": 79818,
   "original_name": "This Is LEGADO 7",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDI1MGMxNzVlYTM3OTg0MjMzYzg2ODdiZWRlOTc1ZGQy",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDJkZTc3NTVmMTg3MzM3OWRjNDQzNGIwNWFiNDJmNGQ1",
   "tracks": [
     {
       "added_at": null,
@@ -111,8 +111,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Ranchero",
-        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
+        "name": "100% Corridos Verdes (En Vivo)",
+        "url": "https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r"
       },
       "artists": [
         {
@@ -120,9 +120,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 235728,
-      "name": "El Ranchero",
-      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
+      "duration_ms": 172746,
+      "name": "El Afro (En Vivo)",
+      "url": "https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m"
     },
     {
       "added_at": null,
@@ -147,8 +147,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "100% Corridos Verdes (En Vivo)",
-        "url": "https://open.spotify.com/album/6wC84ki9uLVWAijIijE02r"
+        "name": "El Ranchero",
+        "url": "https://open.spotify.com/album/1gMHDCpvHESeXVamqZyaEn"
       },
       "artists": [
         {
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
         }
       ],
-      "duration_ms": 172746,
-      "name": "El Afro (En Vivo)",
-      "url": "https://open.spotify.com/track/1DoeAYZPdp1RPea7cqDH4m"
+      "duration_ms": 235728,
+      "name": "El Ranchero",
+      "url": "https://open.spotify.com/track/2LMF4sDKysFt18OJcJc6Sz"
     },
     {
       "added_at": null,
@@ -439,26 +439,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duetos Con La Clika",
-        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        },
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 126249,
-      "name": "Bien Tumbado",
-      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El 7 De Fontana",
         "url": "https://open.spotify.com/album/2oK2LRH64DJEAwxPHoAyYe"
       },
@@ -479,6 +459,26 @@
       "duration_ms": 147506,
       "name": "El 7 De Fontana",
       "url": "https://open.spotify.com/track/0uY8iUh4kIITAKwz3zCEWI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duetos Con La Clika",
+        "url": "https://open.spotify.com/album/5EV8DzL0vYdtHCOuZ2JDUq"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 126249,
+      "name": "Bien Tumbado",
+      "url": "https://open.spotify.com/track/21TM6acDWDZOzvamVZnlsD"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Chamaco Sin Futuro",
-        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
-      },
-      "artists": [
-        {
-          "name": "LEGADO 7",
-          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
-        }
-      ],
-      "duration_ms": 141197,
-      "name": "El Amor No Va Conmigo",
-      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo con Tololoche Vol. 1",
         "url": "https://open.spotify.com/album/6qUgwVEuv48l4qe2ZQrvOg"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 174739,
       "name": "Pancho Conos",
       "url": "https://open.spotify.com/track/5NNu8DfB4Db1cbr4BSeUsu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Chamaco Sin Futuro",
+        "url": "https://open.spotify.com/album/0I8yvmHFAvAnyKFxHd5KSI"
+      },
+      "artists": [
+        {
+          "name": "LEGADO 7",
+          "url": "https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ"
+        }
+      ],
+      "duration_ms": 141197,
+      "name": "El Amor No Va Conmigo",
+      "url": "https://open.spotify.com/track/5BC3WcsvtWm3d7nVuyAGMe"
     },
     {
       "added_at": null,

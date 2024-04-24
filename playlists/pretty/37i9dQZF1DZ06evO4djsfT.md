@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 
 > This is KB\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,025 likes - 49 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,034 likes - 49 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 29 | [Away](https://open.spotify.com/track/41lW4DB7gvfMvumKvwmtNL) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [His Glory Alone II](https://open.spotify.com/album/2GDH8TKAkCxM2IBZPGEUcQ) | 3:28 |
 | 30 | [The Name \(feat\. Koryn Hawthorne\)](https://open.spotify.com/track/1OLkuTadZZSdfzgUeemRsU) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Koryn Hawthorne](https://open.spotify.com/artist/03qM4LmPCrR7CuHTE0WAIW) | [His Glory Alone](https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj) | 3:49 |
 | 31 | [Undefeated \(feat\. KB\)](https://open.spotify.com/track/3MU0cqyxgy3jc3Z4mu766m) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Hills and Valleys \(Deluxe Edition\)](https://open.spotify.com/album/30BOQ9C4YXbORhmIpvMrVw) | 3:57 |
-| 32 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 |
-| 33 | [Long Live the Champion](https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Yariel](https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T) | [Long Live the Champion](https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW) | 4:23 |
+| 32 | [Long Live the Champion](https://open.spotify.com/track/6fUxgWa744fqILNOVFrysp) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Gabriel EMC](https://open.spotify.com/artist/0rOLLmeuTbBAx7YKcVEECH), [Yariel](https://open.spotify.com/artist/2eu1Av4h29jABu0xlHSt2T) | [Long Live the Champion](https://open.spotify.com/album/0AN00aCqSqB60vYCBInkDW) | 4:23 |
+| 33 | [Worship in the Moshpit](https://open.spotify.com/track/6MHQObYccj0fpYH3NnxewV) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Worship in the Moshpit](https://open.spotify.com/album/3ccBgpEeVPly4YAOLBDuPX) | 3:10 |
 | 34 | [Start Right Here \(HGA Version\)](https://open.spotify.com/track/6iLtLgh5wyYIN4OVgxiSAV) | [Casting Crowns](https://open.spotify.com/artist/6eJqAWJdd8JhAN1pQGie4r), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [Start Right Here \(HGA Version\)](https://open.spotify.com/album/0k32rDwHYgyV5Zk6GvaVHQ) | 2:53 |
 | 35 | [Friends](https://open.spotify.com/track/5BJJSqA42n4aZGMaFZJHeH) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p) | [His Glory Alone II \(Deluxe\)](https://open.spotify.com/album/15oZTncvUSuzlvxBOwsPZS) | 3:30 |
 | 36 | [The Power +](https://open.spotify.com/track/2cF2KO5fdHfoUBo4DAxO7L) | [Ty Brasel](https://open.spotify.com/artist/419NjKezGEJOVPtiymCp2p), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Divine Storm](https://open.spotify.com/album/5FviCI60k4C6DI0bxFqfDe) | 3:27 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4djsfT.md) - [plain]
 | 48 | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/track/2TYtWTZO97F1Uyuwov8wSk) | [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc), [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [Zhalarina](https://open.spotify.com/artist/4YGH9xeBuphWZaiiWmG8sC) | [So Tired \(feat\. Bizzle & Zhalarina\)](https://open.spotify.com/album/4pLXkCFVxFL1yNy85N3vSb) | 3:28 |
 | 49 | [Smoke Free](https://open.spotify.com/track/4N0kn2312eWP0ufX6O6lkZ) | [Bizzle](https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr), [KB](https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc) | [The Messenger 4: Independents Day](https://open.spotify.com/album/0mi8gsJuVUlshWtP5yaq3U) | 4:19 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDUyNmExODVmOTU3YWQ0OWVmMWRlZTQwYTVhNDFjOWI5`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGUyYzE0ODVlMTUxYTQwZmJjOTAwOTcyMWQ1ODE3ZGJk`

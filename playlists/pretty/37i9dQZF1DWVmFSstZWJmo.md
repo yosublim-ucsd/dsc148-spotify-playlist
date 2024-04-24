@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 
 > Is "indie sleaze" in the room with us now? ft\. M.I.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,966 likes - 100 songs - 6 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 144,143 likes - 100 songs - 6 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,18 +88,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVmFSstZWJmo.md) - [plain]
 | 78 | [Your English Is Good](https://open.spotify.com/track/0A4W1mAnTMVnq4v6SEyAwa) | [Tokyo Police Club](https://open.spotify.com/artist/3wyfo3svXNWnszGAEVey11) | [Elephant Shell](https://open.spotify.com/album/5P63h0mTC5WRVXqVfA7InJ) | 3:11 |
 | 79 | [Play Your Part \(Pt\. 1\)](https://open.spotify.com/track/5udnrY00yVUOAzupil2H56) | [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Feed the Animals](https://open.spotify.com/album/1B5Lwt0D1ZetRreaCBYobP) | 4:44 |
 | 80 | [I Found Out](https://open.spotify.com/track/2zpG6GUvNc1hqDBsLIJOOp) | [The Pigeon Detectives](https://open.spotify.com/artist/7FPkZue0zzjHaOPJb4WCw3) | [Wait for Me](https://open.spotify.com/album/3EVZWeTZ5XDe8Z1O746XP3) | 2:07 |
-| 81 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 |
-| 82 | [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 |
-| 83 | [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 |
-| 84 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
+| 81 | [Remember Me](https://open.spotify.com/track/2gd00D6APhLate8i83azYd) | [Suzy Clue](https://open.spotify.com/artist/0gohQ3t7I3QY3fjr7DJtUK) | [Remember Me](https://open.spotify.com/album/7EL0UXeIM8xTYwf4FhA8o8) | 4:11 |
+| 82 | [Rich Girls](https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ) | [The Virgins](https://open.spotify.com/artist/6RNuLHIAlLt1FQHm03oEru) | [The Virgins](https://open.spotify.com/album/2u24W1w4uHRgPUka8xhIvj) | 3:00 |
+| 83 | [Paris \- Aeroplane Remix](https://open.spotify.com/track/4hHjWMWYIuAFVa5RQZJFIP) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p), [Aeroplane](https://open.spotify.com/artist/31CtLHmSL7Oa7TPU9YyBEu) | [Friendly Fires](https://open.spotify.com/album/3K9dieeJJ3mDIwvz9t3bxK) | 7:45 |
+| 84 | [Ice Cream](https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9) | [New Young Pony Club](https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w) | [Fantastic Playroom](https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA) | 3:08 |
 | 85 | [We Own The Sky](https://open.spotify.com/track/44jJCNW8frQLEWpYuAQz47) | [M83](https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz) | [Saturdays = Youth](https://open.spotify.com/album/4HshNHpHWtmaw8sDrOXNuE) | 5:04 |
 | 86 | [Round and Round](https://open.spotify.com/track/0IpxdHYUGxYvhZTeCdppH6) | [Ariel Pink](https://open.spotify.com/artist/5H0YoDsPDi9fObFmJtTjfN) | [Before Today](https://open.spotify.com/album/4dFE0GGL1lOGd76kx6yl4J) | 5:08 |
 | 87 | [I'll Believe in Anything](https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau) | [Wolf Parade](https://open.spotify.com/artist/0XSqX2PB3C5dTMv7SZaxSm) | [Apologies to the Queen Mary](https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ) | 4:36 |
 | 88 | [The World I’m Searching For](https://open.spotify.com/track/4bGxZBtZU18y9ASWHS1nFA) | [Jersey](https://open.spotify.com/artist/7C4JBZtbD3cLEOufhgSHzQ) | [The World I’m Searching For](https://open.spotify.com/album/3a1fretZwzrNhZUP74qhrV) | 2:53 |
 | 89 | [Music Is My Hot, Hot Sex](https://open.spotify.com/track/5GpV1FvwKtSD1u6UcyiYXW) | [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Cansei De Ser Sexy](https://open.spotify.com/album/4hE0UliYSCQiItKmKRDBaD) | 3:07 |
 | 90 | [Infinity Guitars](https://open.spotify.com/track/5u3LixvEX1twpOW6v3V2H7) | [Sleigh Bells](https://open.spotify.com/artist/59pWgeY26Q6yJy37QvJflh) | [Treats](https://open.spotify.com/album/3dEgxewsJAZ6s2nVUieNA5) | 2:31 |
-| 91 | [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 |
-| 92 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 |
+| 91 | [BTSTU \- Edit](https://open.spotify.com/track/5hqVCLyCQJA24IupqEEmvL) | [Jai Paul](https://open.spotify.com/artist/53wZLCnhshZKDRs3uopFBc) | [BTSTU \(Edit\)](https://open.spotify.com/album/1y2SUIU3BjdIsBsdTRJtBe) | 3:29 |
+| 92 | [I'm Good, I'm Gone](https://open.spotify.com/track/2GjycBB2VHP4NSIzUrJkrE) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 3:09 |
 | 93 | [Cassius](https://open.spotify.com/track/2UU4NqZQ3RK7pTSq6le2t3) | [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Antidotes](https://open.spotify.com/album/5zUndTRjHpsB5UTsPp5MeM) | 3:49 |
 | 94 | [Digital Versicolor](https://open.spotify.com/track/5WQwLtyRifa7JQdaYHBHBO) | [Glass Candy](https://open.spotify.com/artist/7atGlyFY5574ph1tGMs6gD) | [B/E/A/T/B/O/X](https://open.spotify.com/album/34HdlwbafaANIXhwqNTnlb) | 5:58 |
 | 95 | [Jane Fonda](https://open.spotify.com/track/0Y2QejubtJugRGvfPgOQ1w) | [Mickey Avalon](https://open.spotify.com/artist/546WiMGysEqWZTzP8hJvB2) | [Mickey Avalon](https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV) | 3:40 |

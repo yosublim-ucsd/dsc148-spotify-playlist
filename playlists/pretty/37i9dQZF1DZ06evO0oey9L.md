@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 
 ### [This Is El de La Guitarra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0oey9L)
 
-> This Is El de La Guitarra\. Los temas esenciales, todos en una lista.
+> This is El de La Guitarra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,367 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,342 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0oey9L.md) - [plain]
 | 49 | [Fino El Porteson](https://open.spotify.com/track/6QqbWrnaAFOKI9jv0nbAkf) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Instinto](https://open.spotify.com/album/47wc9jfJLLeaWQUPzKVFk1) | 2:27 |
 | 50 | [La Fiesta Ya Empezo](https://open.spotify.com/track/3m30n1vtmAZsLhONgZ1P5d) | [El de La Guitarra](https://open.spotify.com/artist/0LIyZkH7LLbsA9T4YwUnEk) | [Va Por Todos](https://open.spotify.com/album/5Yzvp7ml8IarfxxghAB4BA) | 2:28 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDkxMDY3MDBkZWEzMmYyOTcxYzg3ODQ4MTliMzdkNGEy`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDVlNmVmZDc1ODBkYjI2NTNiMGNlNjhhYTJiOWRlZjg1`

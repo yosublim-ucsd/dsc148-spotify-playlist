@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaR954ExpGKR.md) - [plain]
 
 > The best Latin music from all around the world! Cover: Maria Becerra & Prabh Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,688 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,871 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

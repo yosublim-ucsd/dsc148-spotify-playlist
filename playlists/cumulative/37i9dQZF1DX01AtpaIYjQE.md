@@ -4,7 +4,7 @@
 
 > The essential tracks from LiSA\. アニメシーンから世界へと羽ばたく歌姫、LiSAのオールタイム・ベスト!
 
-166 songs - 11 hr 49 min
+167 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -157,6 +157,7 @@
 | [往け](https://open.spotify.com/track/0IvfMAxkx2lbAfJUYmwS7J) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:49 | 2022-11-15 | 2023-06-14 |
 | [悪女のオキテ](https://open.spotify.com/track/29cqealgSJ6M7qSd6ilP6A) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 3:01 | 2022-11-15 |  |
 | [愛錠](https://open.spotify.com/track/567GpcEdlzyrjzWh4vfRzX) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LEO\-NiNE](https://open.spotify.com/album/6qi56zXbhq7PU5lvzWNXIO) | 4:05 | 2022-05-31 |  |
+| [拝啓、わたしへ](https://open.spotify.com/track/5b34ld3EjSkD6b0gCc8yxC) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [拝啓、わたしへ](https://open.spotify.com/album/6qHp8By4YBR4N64lffM54n) | 4:31 | 2024-04-23 |  |
 | [明け星](https://open.spotify.com/track/4zfiFwHNwOH0iNKTSGp4kx) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [LANDER](https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv) | 4:27 | 2022-11-15 | 2023-06-14 |
 | [明け星](https://open.spotify.com/track/3J34JtfZNylVXSKN4TDf12) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星](https://open.spotify.com/album/4iQhpT848HsgBFeXfLgBoY) | 4:29 | 2022-11-15 |  |
 | [明け星](https://open.spotify.com/track/60iYkEAcSpAFcsjRrgTlrc) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [明け星 / 白銀](https://open.spotify.com/album/0Tucjk9hYUvIDUtsLw5DeV) | 4:29 | 2022-05-31 | 2022-11-16 |

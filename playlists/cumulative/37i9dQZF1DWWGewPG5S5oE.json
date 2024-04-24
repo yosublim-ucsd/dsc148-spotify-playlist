@@ -671,6 +671,24 @@
     },
     {
       "album": {
+        "name": "Brown And Black",
+        "url": "https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT"
+      },
+      "artists": [
+        {
+          "name": "\u5e02\u5ddd\u7a7a",
+          "url": "https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 509253,
+      "name": "Brown And Black",
+      "url": "https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65"
+    },
+    {
+      "album": {
         "name": "Calming Influence",
         "url": "https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ"
       },
@@ -1822,7 +1840,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 337471,
       "name": "How Deep Is Your Love",
       "url": "https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD"
@@ -2932,7 +2950,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 179000,
       "name": "Plasma",
       "url": "https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF"
@@ -5308,6 +5326,24 @@
       "duration_ms": 532666,
       "name": "\u61d0\u304b\u3057\u304d\u65e5\u3005 (Dear Memories)",
       "url": "https://open.spotify.com/track/3svIR9AT7XEHjOuwi7fPfI"
+    },
+    {
+      "album": {
+        "name": "\u7167\u3089\u3059",
+        "url": "https://open.spotify.com/album/4pWSCXLQMUlFHlKzxQ17BE"
+      },
+      "artists": [
+        {
+          "name": "\u9b5a\u8fd4\u660e\u672a",
+          "url": "https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 399600,
+      "name": "\u66c7\u308a\u7a7a",
+      "url": "https://open.spotify.com/track/1CpklF118GMJNBM8HFtq0v"
     },
     {
       "album": {

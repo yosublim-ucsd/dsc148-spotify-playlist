@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country music releases in one playlist! Featuring Wyatt Flores, MacKenzie Porter, Corey Kent and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,248 likes - 70 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,406 likes - 70 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,11 +22,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 12 | [Hold](https://open.spotify.com/track/1d8B9NxHaLgrTBhP1E3Lj5) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Hold](https://open.spotify.com/album/2x06IDX95AxFbAH6GQ9ZSD) | 2:59 |
 | 13 | [Off the Map](https://open.spotify.com/track/4D6SOP98ZKMs0pg4WDyDGu) | [Michael Warren](https://open.spotify.com/artist/4jaMlhvqHdr7aBdujxJ8Dq) | [Off the Map](https://open.spotify.com/album/4bnv6LEx079pjHJBACEosh) | 3:02 |
 | 14 | [Easy To Love](https://open.spotify.com/track/0sxoEtpGZKcelKPU3xQyAF) | [Seaforth](https://open.spotify.com/artist/1ryJB2bhfYjjIt8kqy4BoG) | [Easy To Love](https://open.spotify.com/album/4fIAnqinLU9HISWz9PeCqf) | 2:18 |
-| 15 | [Gin & Juice](https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice](https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9) | 4:00 |
+| 15 | [Gin & Juice \- HARDY’s Version](https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice \(HARDY’s Version\)](https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9) | 4:00 |
 | 16 | [Off The Wagon](https://open.spotify.com/track/5tZK4fQveimVaoGbKcwQ3x) | [Ollie Joseph](https://open.spotify.com/artist/6BZKGQf9EnToQ6F7KdMd1m) | [Off The Wagon](https://open.spotify.com/album/3J4temjQFNPz1NUcvn1nJO) | 2:18 |
 | 17 | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/track/0mGVfytxzgPXgGJf7RknpU) | [Rvshvd](https://open.spotify.com/artist/4YTk2H7LWeoCgdoQ5umieQ), [Paul Wall](https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg) | [Hunnids In A Honky Tonk \(feat\. Paul Wall\)](https://open.spotify.com/album/3BW2kxCEMimQumskwX0Q9b) | 3:17 |
 | 18 | [Only Smoke When I Drink](https://open.spotify.com/track/2dNf1NFL1syOWvRNu0QWg5) | [Hayden Coffman](https://open.spotify.com/artist/5p7Ph7LBiVb8cUCCSGq5aF) | [Only Smoke When I Drink](https://open.spotify.com/album/5NwYrDM2Iy0HB3onJndwgO) | 3:31 |
-| 19 | [Let It Roll \(feat\. Randy Rogers\)](https://open.spotify.com/track/3QxrEvK3SkTMbnyINGpAAw) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Randy Rogers](https://open.spotify.com/artist/2DwAtAKSDY87F2pu50Csrk) | [Let It Roll \(feat\. Randy Rogers\)](https://open.spotify.com/album/1ISNWgStZ6ZFW4SyOhbkrA) | 3:17 |
+| 19 | [Let It Roll \(feat\. Randy Rogers\)](https://open.spotify.com/track/3QxrEvK3SkTMbnyINGpAAw) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav), [Randy Rogers](https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv) | [Let It Roll \(feat\. Randy Rogers\)](https://open.spotify.com/album/1ISNWgStZ6ZFW4SyOhbkrA) | 3:17 |
 | 20 | [Ghost On The Canvas \(with Sting\)](https://open.spotify.com/track/36EFjdli7tKnbdxs40NcS6) | [Glen Campbell](https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Glen Campbell Duets: Ghost On The Canvas Sessions](https://open.spotify.com/album/5YFkGhaiIJVkOqfmq3IvAw) | 4:14 |
 | 21 | [Tractor Time](https://open.spotify.com/track/73F8haBiSXvLjlr0jnEZD6) | [Darryl Worley](https://open.spotify.com/artist/4zIBkSJcqRp4ADuFI94WvO), [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9), [Justin Moore](https://open.spotify.com/artist/30e8DmahrEamvLbFRPdWmk) | [Tractor Time](https://open.spotify.com/album/3WxTJOiVUYai0DOHtmkrzK) | 3:04 |
 | 22 | [On The Other Hand](https://open.spotify.com/track/71U5x7C2TxHsb0BbIBPvuz) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [On The Other Hand](https://open.spotify.com/album/2OAK0W2nyeax03rfPUeJzX) | 3:11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 
 > Disfruta con mamá la era dorada de los 80's.
 
-[Spotify](https://open.spotify.com/user/spotify) - 599,605 likes - 75 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 599,630 likes - 75 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV01pw5Lcxuv.md) - [plain]
 | 58 | [She Works Hard For The Money](https://open.spotify.com/track/3FlOciKDqFlTMPeC7t92Qy) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [She Works Hard For The Money](https://open.spotify.com/album/0x3qYJCMrhJPgi7hTqxEl2) | 5:20 |
 | 59 | [De Niña a Mujer](https://open.spotify.com/track/2YhVvYKpwAFM01pCAn0rTW) | [Julio Iglesias](https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5) | [De Nina A Mujer](https://open.spotify.com/album/79oKAi17dXJifpfz78vC7B) | 3:18 |
 | 60 | [Louis](https://open.spotify.com/track/4yK3AVfdhq9SqCzuLJwYOW) | [Franco De Vita](https://open.spotify.com/artist/4NEYQeEYBUjfaXgDQGvFvu) | [Al Norte Del Sur](https://open.spotify.com/album/6i3LZIVP1qEDdN6UM3zK3W) | 5:09 |
-| 61 | [Chiquitita \- Spanish Version](https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 5:33 |
-| 62 | [Toda la Vida](https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:49 |
+| 61 | [Toda la Vida](https://open.spotify.com/track/6X8J99PRgZx5m2xVe6Ou7c) | [Emmanuel](https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576) | [Desnudo Emmanuel](https://open.spotify.com/album/2iCrYYzvzCQYt7IOBq9eyG) | 4:49 |
+| 62 | [Chiquitita \- Spanish Version](https://open.spotify.com/track/0Fuc8WMl8xSXjb8d4M6Xqo) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Gracias Por La Musica \(Deluxe Edition\)](https://open.spotify.com/album/1ZVourNSOich8buZk5ILdZ) | 5:33 |
 | 63 | [Voy a Llenarte Toda](https://open.spotify.com/track/6RjJbVwSkEdr6UnzVUDtn4) | [José José](https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV) | [Secretos](https://open.spotify.com/album/1Bzdy4dRu2czCWd4bpCzUh) | 5:24 |
 | 64 | [Fotografia](https://open.spotify.com/track/2ZZNEhPfLbc4sxhDwUwyk3) | [Oscar Athie](https://open.spotify.com/artist/5wk7LFJizWvjj1m7ybEA3J) | [Fotografia](https://open.spotify.com/album/0psZmb1gOGoFm1iCFhOM3T) | 3:45 |
 | 65 | [Me Va A Extranar](https://open.spotify.com/track/0RWbbc4NCcd33aU9tQnaZA) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [Un Toque De Misterio](https://open.spotify.com/album/7xpuQcTsD5qYl4kOJkhVPi) | 4:17 |

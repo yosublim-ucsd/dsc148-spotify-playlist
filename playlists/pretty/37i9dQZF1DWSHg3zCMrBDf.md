@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 
 > The hottest tracks in Ghana\. Cover: Gyakie
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,609 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,697 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSHg3zCMrBDf.md) - [plain]
 | 21 | [SIMMER DOWN](https://open.spotify.com/track/58PIq4XvTG4bR3IJbE6yX5) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [Take Care of Yourself Blacko](https://open.spotify.com/album/1rUsK77wSF6p2cw1FnCTZg) | 2:58 |
 | 22 | [Otan](https://open.spotify.com/track/3r256b0OBDc0Shy4rhmbX5) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Otan](https://open.spotify.com/album/3sLJsL9MU1JdAjS0A43jh1) | 3:16 |
 | 23 | [Monica](https://open.spotify.com/track/5gL8d9dzG8wU4BYgJOGy0B) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [LOVE AND CHAOS](https://open.spotify.com/album/0lpxbiuXWT5ofEGgo3Yh9h) | 2:56 |
-| 24 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [XlimKid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
+| 24 | [LONELY ROAD](https://open.spotify.com/track/2rrXhDtfbDWzo3nbtMYGX3) | [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [PAIN IN GLORY](https://open.spotify.com/album/2RMzKqHpoxVKMNJu73Anha) | 3:00 |
 | 25 | [Anabella](https://open.spotify.com/track/1U1RKt97fE9kZvPCrRedm4) | [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Anabella](https://open.spotify.com/album/3JDhPfsTuNRI2rbsKFKizV) | 2:04 |
 | 26 | [Odo Bi Ye Bad](https://open.spotify.com/track/0vKCeI0yetwp5BfBNihg3o) | [Rap Fada](https://open.spotify.com/artist/2B2GXzW2b4x6pohKQ5C40a), [King Paluta](https://open.spotify.com/artist/7b6IvXftHBf6fYfFRsEhQT) | [Odo Bi Ye Bad](https://open.spotify.com/album/2thtAFmA3VQWLZfuMi3LbV) | 3:56 |
 | 27 | [reason](https://open.spotify.com/track/4tX2xt8g17C6Kyv4EAnsYw) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone: Deluxe Edition](https://open.spotify.com/album/0z1EmisGVrMzYZzr5RsgTq) | 2:27 |

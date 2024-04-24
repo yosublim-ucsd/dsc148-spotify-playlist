@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 
 > 새벽 감성\. Issa Vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,334 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,353 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbShqaetC9Tw.md) - [plain]
 | 34 | [This Night](https://open.spotify.com/track/15BICHMgXBWNJ8EXwHuSXZ) | [Rad Museum](https://open.spotify.com/artist/6UdKtISMXYKSR8jcgtFePo) | [SINK](https://open.spotify.com/album/16xCQMS0ioflP8PWrLD0UN) | 3:10 |
 | 35 | [Poker \(Feat\. Dvwn\)](https://open.spotify.com/track/22FORLyoDr8bjJCVOeUan2) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Dvwn](https://open.spotify.com/artist/6WWUJGBY4ETAE22tRmgJ8b) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 3:32 |
 | 36 | [Rose](https://open.spotify.com/track/7l0hHj7VlbVpDIpGrLCqFU) | [imzoo](https://open.spotify.com/artist/6j2dniBiWyEM20bd5GEc0Y) | [Rose](https://open.spotify.com/album/6CUqE9kcnmCQsqID8nkZt6) | 3:08 |
-| 37 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
+| 37 | [m o v i e \(Feat\. Jade\)](https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [m o v i e](https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP) | 3:17 |
 | 38 | [That's Why I Can't Talk About Love \(Feat\. Woo\)](https://open.spotify.com/track/1BmvCldqrJeAKZ898FPdUZ) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [That's Why I Can't Talk About Love](https://open.spotify.com/album/1RrhtJWm5crbMBiIP34arG) | 3:22 |
-| 39 | [m o v i e \(Feat\. Jade\)](https://open.spotify.com/track/7nD9LjsenfCRv4uxy93xhZ) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Jade](https://open.spotify.com/artist/4WmtKVMoT1cQyHhD6lduGh) | [m o v i e](https://open.spotify.com/album/02XiYEnw92DRIBrfSFoFBP) | 3:17 |
+| 39 | [Fireplace](https://open.spotify.com/track/6X8cpgM2Cf3rnZqXxfSjHQ) | [JONGHYUN](https://open.spotify.com/artist/5rGgflnIpRNizTCozbYBuY) | [JONGHYUN The Collection "Story Op.2"](https://open.spotify.com/album/3eHhVAhT8uCrEPlZywai3o) | 4:22 |
 | 40 | [Moon, 12:04am](https://open.spotify.com/track/57mWHxgHxZnhFhFiBrpYUV) | [offonoff](https://open.spotify.com/artist/0dTj3SqwE8kPnCzyzvYzhT) | [boy.](https://open.spotify.com/album/4crHesv3PHfci2PBJ6m9sj) | 3:43 |
 | 41 | [LA VIE](https://open.spotify.com/track/0eW5FMPvIQXhMYZQhea7Hj) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Little Women, Pt\. 2 \(Original Television Soundtrack\)](https://open.spotify.com/album/2AoSgorhPk4logk3wEufL6) | 3:49 |
 | 42 | [Free \(I'm Gonna Be\)](https://open.spotify.com/track/2Ia6LfAOorF0dAAgCqYDWd) | [GSoul](https://open.spotify.com/artist/4oEXworvhegyK83rZwVyWL) | [Natural](https://open.spotify.com/album/2yOqQbBoXX0nNPBqts1dmZ) | 3:47 |

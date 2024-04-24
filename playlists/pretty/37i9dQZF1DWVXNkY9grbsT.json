@@ -1,6 +1,6 @@
 {
   "description": "Genre-defying artists pushing boundaries in electronic ambient music. Cover: JakoJako",
-  "num_followers": 92500,
+  "num_followers": 92558,
   "original_name": "Electronic X",
   "owner": {
     "name": "Spotify",
@@ -267,6 +267,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Infirmary / Unknown Summer",
+        "url": "https://open.spotify.com/album/3rMoDF90sBDolYvPz1rlsM"
+      },
+      "artists": [
+        {
+          "name": "Burial",
+          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
+        }
+      ],
+      "duration_ms": 580834,
+      "name": "Unknown Summer",
+      "url": "https://open.spotify.com/track/0fjA0ybeOE6lLgVGfQ5HVt"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Pause (Reimagined by Hinako Omori)",
         "url": "https://open.spotify.com/album/2qiYBmRxBzmzDLiuBpI9dU"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 200013,
       "name": "Pause - Reimagined by Hinako Omori",
       "url": "https://open.spotify.com/track/4bwhDILzlftJSXsAf8TbrI"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Infirmary / Unknown Summer",
-        "url": "https://open.spotify.com/album/3rMoDF90sBDolYvPz1rlsM"
-      },
-      "artists": [
-        {
-          "name": "Burial",
-          "url": "https://open.spotify.com/artist/0uCCBpmg6MrPb1KY2msceF"
-        }
-      ],
-      "duration_ms": 580834,
-      "name": "Unknown Summer",
-      "url": "https://open.spotify.com/track/0fjA0ybeOE6lLgVGfQ5HVt"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -487,6 +487,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "In Electric Time",
+        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
+      },
+      "artists": [
+        {
+          "name": "Jeremiah Chiu",
+          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+        }
+      ],
+      "duration_ms": 271240,
+      "name": "Seawater Swell",
+      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Human By Mistake",
         "url": "https://open.spotify.com/album/6uHXUChW9vvjmX2KkIArwF"
       },
@@ -527,18 +543,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "In Electric Time",
-        "url": "https://open.spotify.com/album/0GPfDLCGEDrCLQTcBTZYHh"
+        "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
+        "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
       },
       "artists": [
         {
-          "name": "Jeremiah Chiu",
-          "url": "https://open.spotify.com/artist/1RpHbIW5eeEBs693nyrhSa"
+          "name": "Pool Boy",
+          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
+        },
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
         }
       ],
-      "duration_ms": 271240,
-      "name": "Seawater Swell",
-      "url": "https://open.spotify.com/track/6il51bAsGmEcR23Vtcw53v"
+      "duration_ms": 299931,
+      "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
+      "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -563,26 +583,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Movie Night Cancelled (Domenique Dumont Ambient Remix)",
-        "url": "https://open.spotify.com/album/3JfqvFhdAbRCXE9GQysRsl"
-      },
-      "artists": [
-        {
-          "name": "Pool Boy",
-          "url": "https://open.spotify.com/artist/0JA5uqKcjlx67kfQ5atued"
-        },
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 299931,
-      "name": "Movie Night Cancelled - Domenique Dumont Ambient Remix",
-      "url": "https://open.spotify.com/track/6ZEBJELL4zzOSSAHCYGEV8"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Penelope Trappes Death Revisited",
         "url": "https://open.spotify.com/album/3TBjkgkSa19gNdMBS7TTWy"
       },
@@ -603,6 +603,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Night Journeys II",
+        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
+      },
+      "artists": [
+        {
+          "name": "Courtesy",
+          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
+        }
+      ],
+      "duration_ms": 436776,
+      "name": "Night Journeys II",
+      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Pelikan (Aukai Rework)",
         "url": "https://open.spotify.com/album/2rdPBsfFLn02O3LXYt0Jzp"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 332633,
       "name": "Pelikan - Aukai Rework",
       "url": "https://open.spotify.com/track/3xv8lO7UIkKUFh6hbOkl0R"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Night Journeys II",
-        "url": "https://open.spotify.com/album/5CAU2Xx0mL2PyKGOW8y1Pp"
-      },
-      "artists": [
-        {
-          "name": "Courtesy",
-          "url": "https://open.spotify.com/artist/0osYTSrOpW6YESEC1lClwN"
-        }
-      ],
-      "duration_ms": 436776,
-      "name": "Night Journeys II",
-      "url": "https://open.spotify.com/track/43uv8HHkDXbCi5JsjpPS0t"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -691,6 +691,26 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Windmills (Salamanda Remix)",
+        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
+      },
+      "artists": [
+        {
+          "name": "Anchorsong",
+          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
+        },
+        {
+          "name": "Salamanda",
+          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Windmills - Salamanda Remix",
+      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Contain (In Key)",
         "url": "https://open.spotify.com/album/3juMh8Hi5Mo0t9MlkacYAo"
       },
@@ -727,26 +747,6 @@
       "duration_ms": 316433,
       "name": "Weltenwandler - Radio Edit",
       "url": "https://open.spotify.com/track/6pKvjYAe7hTN17bemswHyl"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Windmills (Salamanda Remix)",
-        "url": "https://open.spotify.com/album/40cal5z6ThtaqoTlOGic4t"
-      },
-      "artists": [
-        {
-          "name": "Anchorsong",
-          "url": "https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh"
-        },
-        {
-          "name": "Salamanda",
-          "url": "https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Windmills - Salamanda Remix",
-      "url": "https://open.spotify.com/track/2OED5zZJw9gNHeZWwm5wLg"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Bloodsport",
-        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 221775,
-      "name": "An Absolute Living Hell, Pt. 1",
-      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Reflections 06",
         "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 138720,
       "name": "Cutting Room I",
       "url": "https://open.spotify.com/track/6iQWxbUdH7SUrEOLwD45b6"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Bloodsport",
+        "url": "https://open.spotify.com/album/2EmIqtCm4czU2Kc6YbVE3J"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 221775,
+      "name": "An Absolute Living Hell, Pt. 1",
+      "url": "https://open.spotify.com/track/4wMM0j73CI2PwLQn0HjUEl"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1007,22 +1007,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Ten As One",
-        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
+        "name": "HYbr:ID Ectopia Field 1",
+        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
       },
       "artists": [
         {
-          "name": "Matthias Vogt",
-          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
-        },
-        {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 336251,
-      "name": "Carmel",
-      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
+      "duration_ms": 245407,
+      "name": "HYbr:ID Ectopia Field 1",
+      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1063,18 +1059,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "HYbr:ID Ectopia Field 1",
-        "url": "https://open.spotify.com/album/6oacIh4SymWxdUqxWQgTi6"
+        "name": "Ten As One",
+        "url": "https://open.spotify.com/album/1qedPbL0X9hdk9MkK0iuqV"
       },
       "artists": [
         {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+          "name": "Matthias Vogt",
+          "url": "https://open.spotify.com/artist/7d1QENqGWiOKVegaYEoPfY"
+        },
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/5OKlzH3DGCKLZoYwRiRTRD"
         }
       ],
-      "duration_ms": 245407,
-      "name": "HYbr:ID Ectopia Field 1",
-      "url": "https://open.spotify.com/track/6toNdTYJdRlRXItNO0Bx7h"
+      "duration_ms": 336251,
+      "name": "Carmel",
+      "url": "https://open.spotify.com/track/6p7rJm00kefcjiGuQuAV6w"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1111,22 +1111,18 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Atlas der Gedanken",
-        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+        "name": "Diamond Beach",
+        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
       },
       "artists": [
         {
-          "name": "Mareena",
-          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
-        },
-        {
-          "name": "JakoJako",
-          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+          "name": "Modula",
+          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
         }
       ],
-      "duration_ms": 322857,
-      "name": "Tagtraum",
-      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
+      "duration_ms": 184000,
+      "name": "Diamond Beach",
+      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1147,18 +1143,38 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Diamond Beach",
-        "url": "https://open.spotify.com/album/6IGCfHfrExdHSnLHRrcngE"
+        "name": "HYbr:ID II",
+        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
       },
       "artists": [
         {
-          "name": "Modula",
-          "url": "https://open.spotify.com/artist/0UplKQAaI4vQKJ1AheVyE7"
+          "name": "alva noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Diamond Beach",
-      "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
+      "duration_ms": 474155,
+      "name": "HYbr:ID Ectopia Elastic 2",
+      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Atlas der Gedanken",
+        "url": "https://open.spotify.com/album/7wfZ5uzenW8vPrAhE4P8oe"
+      },
+      "artists": [
+        {
+          "name": "Mareena",
+          "url": "https://open.spotify.com/artist/1CryrWkZNf7uK8riKHTa6s"
+        },
+        {
+          "name": "JakoJako",
+          "url": "https://open.spotify.com/artist/2ROWhaqtdj8ztIxWekIW4E"
+        }
+      ],
+      "duration_ms": 322857,
+      "name": "Tagtraum",
+      "url": "https://open.spotify.com/track/2wY21rTqBmiqenCLLGDQG6"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1227,22 +1243,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "HYbr:ID II",
-        "url": "https://open.spotify.com/album/3Q1ZzsQgj7RFkQ461bx023"
-      },
-      "artists": [
-        {
-          "name": "alva noto",
-          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
-        }
-      ],
-      "duration_ms": 474155,
-      "name": "HYbr:ID Ectopia Elastic 2",
-      "url": "https://open.spotify.com/track/1nxXXmFSOruCTHumHkwayb"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Information - EP",
         "url": "https://open.spotify.com/album/5LYsOZNhrwuiUdzZHuhlRw"
       },
@@ -1271,22 +1271,6 @@
       "duration_ms": 404301,
       "name": "Artificial Body",
       "url": "https://open.spotify.com/track/7HkmXcuYMvmxiHDvRLz8EH"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Past and Future Tense",
-        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
-      },
-      "artists": [
-        {
-          "name": "The Album Leaf",
-          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
-        }
-      ],
-      "duration_ms": 224848,
-      "name": "MD 2",
-      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Past and Future Tense",
+        "url": "https://open.spotify.com/album/0iftoHeK1BK8TEe7dGK6CR"
+      },
+      "artists": [
+        {
+          "name": "The Album Leaf",
+          "url": "https://open.spotify.com/artist/02uPe16VFxPaiueQsPEDkE"
+        }
+      ],
+      "duration_ms": 224848,
+      "name": "MD 2",
+      "url": "https://open.spotify.com/track/6EOKh3JL7rmv0pCM1R0UVW"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "Earth and Beyond",
         "url": "https://open.spotify.com/album/2Fq3lGA9bAcFK9sZQStCiR"
       },
@@ -1387,26 +1387,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Made In Silence",
-        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
-      },
-      "artists": [
-        {
-          "name": "dBridge",
-          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
-        },
-        {
-          "name": "Madison Willing",
-          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
-        }
-      ],
-      "duration_ms": 154740,
-      "name": "One Note",
-      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Night Journeys III",
         "url": "https://open.spotify.com/album/5WPkWpnoYsKKnbyj3xEMDU"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 483790,
       "name": "Amos",
       "url": "https://open.spotify.com/track/4pUjWXlupdVcphAq7gkRTk"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Made In Silence",
+        "url": "https://open.spotify.com/album/3ei0jT1ME3lIF1nvBy3riV"
+      },
+      "artists": [
+        {
+          "name": "dBridge",
+          "url": "https://open.spotify.com/artist/4G1BTcGLvvsItegHSvBH0y"
+        },
+        {
+          "name": "Madison Willing",
+          "url": "https://open.spotify.com/artist/6b94jpRH15mdDslUuqDwMl"
+        }
+      ],
+      "duration_ms": 154740,
+      "name": "One Note",
+      "url": "https://open.spotify.com/track/3P8AwFnMXOgHNkbuwu8GfP"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
-        "name": "Suikerplein EP",
-        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
-      },
-      "artists": [
-        {
-          "name": "BSS (AMS)",
-          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
-        }
-      ],
-      "duration_ms": 313701,
-      "name": "Westerpark",
-      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
         "name": "Shortwave Memories",
         "url": "https://open.spotify.com/album/67qmzR9XdcpPAoqBJIgzdy"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 340974,
       "name": "Tan\u00df",
       "url": "https://open.spotify.com/track/4pycEDAeyKSWyumBrtnn3S"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Suikerplein EP",
+        "url": "https://open.spotify.com/album/17ol2aT2nydTFDhZviWvWQ"
+      },
+      "artists": [
+        {
+          "name": "BSS (AMS)",
+          "url": "https://open.spotify.com/artist/6ZNNn6WWgGY5JNRGleeohH"
+        }
+      ],
+      "duration_ms": 313701,
+      "name": "Westerpark",
+      "url": "https://open.spotify.com/track/3moHTcmktLHetLd4SdMovC"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1675,6 +1675,22 @@
     {
       "added_at": "2023-12-01 18:01:27",
       "album": {
+        "name": "Failure",
+        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
+      },
+      "artists": [
+        {
+          "name": "Banshee",
+          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
+        }
+      ],
+      "duration_ms": 164250,
+      "name": "Failure",
+      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
         "name": "A Model of Reality Reworks",
         "url": "https://open.spotify.com/album/7M1cjVMv47tIBl3Uuw3rPK"
       },
@@ -1695,38 +1711,6 @@
       "duration_ms": 425000,
       "name": "A Model Of Reality - Firephly Remix",
       "url": "https://open.spotify.com/track/5METpYOvtb9Z1tplNUvNUE"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Failure",
-        "url": "https://open.spotify.com/album/51bIrOWGkHi450cs2HrWy0"
-      },
-      "artists": [
-        {
-          "name": "Banshee",
-          "url": "https://open.spotify.com/artist/2Ol2OMdYRXNkAteRTzbttB"
-        }
-      ],
-      "duration_ms": 164250,
-      "name": "Failure",
-      "url": "https://open.spotify.com/track/3UBUuSTpia3mTXUN3V3dgl"
-    },
-    {
-      "added_at": "2023-12-01 18:01:27",
-      "album": {
-        "name": "Falling but Not Alone",
-        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
-      },
-      "artists": [
-        {
-          "name": "Worriedaboutsatan",
-          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
-        }
-      ],
-      "duration_ms": 600028,
-      "name": "Hang in There, Baby!",
-      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
     },
     {
       "added_at": "2023-12-01 18:01:27",
@@ -1759,6 +1743,22 @@
       "duration_ms": 239224,
       "name": "Alabaster",
       "url": "https://open.spotify.com/track/5sOn6uTTYpuDbUO6OYqsF3"
+    },
+    {
+      "added_at": "2023-12-01 18:01:27",
+      "album": {
+        "name": "Falling but Not Alone",
+        "url": "https://open.spotify.com/album/0blBx0EVnhd9rsAOIDAjFr"
+      },
+      "artists": [
+        {
+          "name": "Worriedaboutsatan",
+          "url": "https://open.spotify.com/artist/2C1P3ThaFeWtrpLNwWzpTT"
+        }
+      ],
+      "duration_ms": 600028,
+      "name": "Hang in There, Baby!",
+      "url": "https://open.spotify.com/track/7h6BXxQhqpqcMMPn2h8tUd"
     },
     {
       "added_at": "2023-12-01 18:01:27",

@@ -4,7 +4,7 @@
 
 > Sit back, relax, and let these chill tunes calm you down.
 
-100 songs - 5 hr 50 min
+101 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [lowkey](https://open.spotify.com/track/7ipqVwkp2MhZv0Ojzqy1NV) | [NIKI](https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh) | [lowkey](https://open.spotify.com/album/22Es8oTgrk3zdUcoV9gW9y) | 2:51 | 2024-01-30 | 2024-03-29 |
 | [Memories](https://open.spotify.com/track/4cktbXiXOapiLBMprHFErI) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [JORDI \(Deluxe\)](https://open.spotify.com/album/1pCA38N6MkLlthXtAOvZTU) | 3:09 | 2023-11-10 | 2024-04-19 |
 | [Mess It Up](https://open.spotify.com/track/0PLhwCmQ7cC3ThRGPn3HxF) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Mess It Up](https://open.spotify.com/album/6VnfHoGb1PKxRPmjNBmeMf) | 2:51 | 2024-04-19 |  |
+| [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:23 | 2024-04-24 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-11-10 | 2024-02-08 |
 | [No Love \(with SZA\)](https://open.spotify.com/track/08SB2OtZkaliju77WYEKxk) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Still Over It](https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx) | 3:51 | 2024-02-27 |  |
 | [Paradise](https://open.spotify.com/track/6xRiL9BVkWfZryQJmdHTmv) | [Chase Atlantic](https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT) | [Paradise \- EP](https://open.spotify.com/album/7p7vt3VZb5ORhePGbHAf8S) | 4:16 | 2024-04-19 |  |
@@ -80,7 +81,7 @@
 | [seasons](https://open.spotify.com/track/5VBjyOQzqlPNgdRPMM6prF) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [summer flows 0.02](https://open.spotify.com/album/3NRNR4txhuRLhnQUUlqWXH) | 4:15 | 2023-11-12 | 2024-04-19 |
 | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/track/4fwPxcF4rZQIBZr1h6Qd2S) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB), [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Separate Ways \(feat\. The Marías\)](https://open.spotify.com/album/0RPUD4sJF4iHT97MKwyyNz) | 3:26 | 2023-11-10 | 2024-01-11 |
 | [Slow Dancing](https://open.spotify.com/track/5h1BN75CEh8wdSwE1xrbSe) | [V](https://open.spotify.com/artist/3JsHnjpbhX4SnySpvpa9DK) | [Layover](https://open.spotify.com/album/7ixOAT89NSsgUITYc5ByB5) | 3:07 | 2023-11-10 |  |
-| [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-04-19 |  |
+| [Some Things I'll Never Know](https://open.spotify.com/track/3sXWFs0hku4tR5cy54PnRz) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [I've Tried Everything But Therapy \(Part 1\)](https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB) | 4:02 | 2024-04-19 | 2024-04-24 |
 | [Someone You Loved](https://open.spotify.com/track/7qEHsqek33rTcFNT9PFqLf) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Divinely Uninspired To A Hellish Extent](https://open.spotify.com/album/5658aM19fA3JVwTK6eQX70) | 3:02 | 2023-11-10 |  |
 | [Strangers](https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz) | [Lewis Capaldi](https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB) | [Broken By Desire To Be Heavenly Sent \(Extended Edition\)](https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q) | 3:34 | 2024-01-10 | 2024-01-31 |
 | [Stuck with U \(with Justin Bieber\)](https://open.spotify.com/track/4HBZA5flZLE435QTztThqH) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Stuck with U](https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi) | 3:48 | 2023-11-10 |  |

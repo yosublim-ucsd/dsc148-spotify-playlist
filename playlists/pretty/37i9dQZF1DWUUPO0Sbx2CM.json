@@ -1,6 +1,6 @@
 {
   "description": "A mix of EDM, Pop, Hip Hop, Worship, and remixes!  Discover songs from artists defining the sound of now and tomorrow!",
-  "num_followers": 199934,
+  "num_followers": 200041,
   "original_name": "Christian Dance Party",
   "owner": {
     "name": "Spotify",
@@ -467,6 +467,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Good Feeling (Radio Version)",
+        "url": "https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U"
+      },
+      "artists": [
+        {
+          "name": "Austin French",
+          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
+        }
+      ],
+      "duration_ms": 161583,
+      "name": "Good Feeling - Radio Version",
+      "url": "https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Growing Up, Pt.2",
         "url": "https://open.spotify.com/album/095pCpYCaDjZF7txmFbhIr"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 166666,
       "name": "RELATE (R3HAB Remix)",
       "url": "https://open.spotify.com/track/6hZQGrJlAQwrNnUyFkdO8r"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Good Feeling (Radio Version)",
-        "url": "https://open.spotify.com/album/07E1cGcwpYZWJlElLI5G4U"
-      },
-      "artists": [
-        {
-          "name": "Austin French",
-          "url": "https://open.spotify.com/artist/5m8b1Ofn4kNkzRV84GopBU"
-        }
-      ],
-      "duration_ms": 161583,
-      "name": "Good Feeling - Radio Version",
-      "url": "https://open.spotify.com/track/1OvPbFYqXUA640MvcsoIFe"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -639,6 +639,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Phenomena (DA DA) Remixes",
+        "url": "https://open.spotify.com/album/6av2XMSiwiTMbf5dLLZ1Wk"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 154385,
+      "name": "Freedom Is Coming - Reimagined",
+      "url": "https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "FOUGHT 4 LOVE",
         "url": "https://open.spotify.com/album/0rGLBwhYzI5VfXWztSKFHx"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 150000,
       "name": "FOUGHT 4 LOVE",
       "url": "https://open.spotify.com/track/4Sor9OP41KfK7AB9uJYYM1"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Phenomena (DA DA) Remixes",
-        "url": "https://open.spotify.com/album/6av2XMSiwiTMbf5dLLZ1Wk"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 154385,
-      "name": "Freedom Is Coming - Reimagined",
-      "url": "https://open.spotify.com/track/5R1JVwgo4l0eFLjzWmseqF"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Empty",
-        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        }
-      ],
-      "duration_ms": 241371,
-      "name": "Empty",
-      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Searching For",
         "url": "https://open.spotify.com/album/7zY4HF5n4vHhlTp7hAuPPf"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 255118,
       "name": "Searching For",
       "url": "https://open.spotify.com/track/1c57E3GgckZveqzUkDzvqd"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Empty",
+        "url": "https://open.spotify.com/album/5rCzSmzEvlebO9cPkDdc5E"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        }
+      ],
+      "duration_ms": 241371,
+      "name": "Empty",
+      "url": "https://open.spotify.com/track/4TaEBIHkCz3fnVF8gdehSL"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -855,22 +855,6 @@
       "duration_ms": 204613,
       "name": "Nothing But The Truth",
       "url": "https://open.spotify.com/track/7trY7vybnipAG4fbm53TMT"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Conversation",
-        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
-      },
-      "artists": [
-        {
-          "name": "Soulsician",
-          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
-        }
-      ],
-      "duration_ms": 236347,
-      "name": "Conversation",
-      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -951,6 +935,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Conversation",
+        "url": "https://open.spotify.com/album/26qSpAIvmpQFn5bgZI6uuc"
+      },
+      "artists": [
+        {
+          "name": "Soulsician",
+          "url": "https://open.spotify.com/artist/2dtqpsPMsRwt3CaiMrt0Kt"
+        }
+      ],
+      "duration_ms": 236347,
+      "name": "Conversation",
+      "url": "https://open.spotify.com/track/5OfN4P2gKl36SVjbr2GUjI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Tempo",
         "url": "https://open.spotify.com/album/7p5h5fCyKUSY3oiAmD0vSh"
       },
@@ -963,6 +963,22 @@
       "duration_ms": 178587,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/4vCOWKHmZGscJ4i0g9JVXg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Say It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+      },
+      "artists": [
+        {
+          "name": "Jordan Feliz",
+          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+        }
+      ],
+      "duration_ms": 196161,
+      "name": "Stained Glass",
+      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -991,18 +1007,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Say It (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2HwzqxG3WpaIqGjjbvXvWz"
+        "name": "Covered",
+        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
       },
       "artists": [
         {
-          "name": "Jordan Feliz",
-          "url": "https://open.spotify.com/artist/0TgNiaeQaWssaH9aWjbqnA"
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
         }
       ],
-      "duration_ms": 196161,
-      "name": "Stained Glass",
-      "url": "https://open.spotify.com/track/71ikD1S5jJUIiWAfuVhqXQ"
+      "duration_ms": 196987,
+      "name": "Covered",
+      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Covered",
-        "url": "https://open.spotify.com/album/4jh2AV1FQb7QRNRj23VY1D"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 196987,
-      "name": "Covered",
-      "url": "https://open.spotify.com/track/3BRT8Js2RaXg5KPicqK0gb"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "This Is Love",
         "url": "https://open.spotify.com/album/4aExnwAGR6qJ8wgMmVf4VY"
       },
@@ -1107,6 +1107,22 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "Say Goodbye (Say Hello)",
+        "url": "https://open.spotify.com/album/1lcvSD9QEzDXdcbqSc0nCQ"
+      },
+      "artists": [
+        {
+          "name": "The Afters",
+          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
+        }
+      ],
+      "duration_ms": 195358,
+      "name": "Say Goodbye (Say Hello)",
+      "url": "https://open.spotify.com/track/25lxh52ko6CaGeE615bdGI"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Everything",
         "url": "https://open.spotify.com/album/1m14FZAOUPoSBjBxl6QHZ7"
       },
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Say Goodbye (Say Hello)",
-        "url": "https://open.spotify.com/album/1lcvSD9QEzDXdcbqSc0nCQ"
-      },
-      "artists": [
-        {
-          "name": "The Afters",
-          "url": "https://open.spotify.com/artist/1Q9nxD19emMUTTWtFi7jZc"
-        }
-      ],
-      "duration_ms": 195358,
-      "name": "Say Goodbye (Say Hello)",
-      "url": "https://open.spotify.com/track/25lxh52ko6CaGeE615bdGI"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
         "name": "Happy Day - Retain Remix",
         "url": "https://open.spotify.com/album/4fBa38ySFa0gYrP5N7aZzk"
       },
@@ -1155,22 +1155,6 @@
       "duration_ms": 200903,
       "name": "Happy Day - Retain Remix",
       "url": "https://open.spotify.com/track/4CbSxyiD3zOziagpHFszCc"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Better View, Part II",
-        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
-      },
-      "artists": [
-        {
-          "name": "Switch",
-          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
-        }
-      ],
-      "duration_ms": 184393,
-      "name": "Invited",
-      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1203,6 +1187,22 @@
       "duration_ms": 225520,
       "name": "Heavy",
       "url": "https://open.spotify.com/track/7Fmk7xa6JijQVUpDILAxrR"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Better View, Part II",
+        "url": "https://open.spotify.com/album/6VJwdT4jWHtnhCtC7tzMNy"
+      },
+      "artists": [
+        {
+          "name": "Switch",
+          "url": "https://open.spotify.com/artist/67xUUajI1dXaeY4e4ouwEN"
+        }
+      ],
+      "duration_ms": 184393,
+      "name": "Invited",
+      "url": "https://open.spotify.com/track/4LHJUZCjDrjI7mQEbM48r3"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1275,6 +1275,42 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
+        "name": "You, Me, The Church, That's Us - Side B",
+        "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
+      },
+      "artists": [
+        {
+          "name": "planetboom",
+          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
+        }
+      ],
+      "duration_ms": 188120,
+      "name": "Word - Live",
+      "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Out Of The Dark (Petey Martin Remix)",
+        "url": "https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH"
+      },
+      "artists": [
+        {
+          "name": "Mandisa",
+          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
+        },
+        {
+          "name": "Petey Martin",
+          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+        }
+      ],
+      "duration_ms": 165941,
+      "name": "Out Of The Dark - Petey Martin Remix",
+      "url": "https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
         "name": "Worship",
         "url": "https://open.spotify.com/album/4XYdo6BWkLGi8Ib8FbS59L"
       },
@@ -1291,22 +1327,6 @@
       "duration_ms": 155887,
       "name": "This Time",
       "url": "https://open.spotify.com/track/4BMfCr1ltbxM1BTF7hyvnK"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "You, Me, The Church, That's Us - Side B",
-        "url": "https://open.spotify.com/album/2yJsvDKWdnG1pszRmhqSpK"
-      },
-      "artists": [
-        {
-          "name": "planetboom",
-          "url": "https://open.spotify.com/artist/3xDe2V5Jo2zjAT6oemUeDj"
-        }
-      ],
-      "duration_ms": 188120,
-      "name": "Word - Live",
-      "url": "https://open.spotify.com/track/5c2fafEPiPWYGBWBRxcjVg"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1383,8 +1403,24 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Out Of The Dark (Petey Martin Remix)",
-        "url": "https://open.spotify.com/album/79HDfZmxKg9v2NCsvpNboH"
+        "name": "Only You Can Do It",
+        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+      },
+      "artists": [
+        {
+          "name": "Chris August",
+          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+        }
+      ],
+      "duration_ms": 140347,
+      "name": "Only You Can Do It",
+      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+    },
+    {
+      "added_at": "2023-02-07 17:43:21",
+      "album": {
+        "name": "Overcomer: The Remixes",
+        "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
       },
       "artists": [
         {
@@ -1392,13 +1428,13 @@
           "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
         },
         {
-          "name": "Petey Martin",
-          "url": "https://open.spotify.com/artist/30B2OY2t19A6zCXGFUNlGB"
+          "name": "Julie Lov",
+          "url": "https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR"
         }
       ],
-      "duration_ms": 165941,
-      "name": "Out Of The Dark - Petey Martin Remix",
-      "url": "https://open.spotify.com/track/4SfcLgPBOZa0ZFtHt3HBXO"
+      "duration_ms": 196738,
+      "name": "Overcomer - Julie and Ruslan Remix",
+      "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1423,18 +1459,18 @@
     {
       "added_at": "2023-02-07 17:43:21",
       "album": {
-        "name": "Only You Can Do It",
-        "url": "https://open.spotify.com/album/5rhWXmx3zQh0z2F2bcaOV1"
+        "name": "Crown (Deluxe)",
+        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
       },
       "artists": [
         {
-          "name": "Chris August",
-          "url": "https://open.spotify.com/artist/5ThfTvfTCfzJAEvtEI2Jf8"
+          "name": "Hannah Schaefer",
+          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
         }
       ],
-      "duration_ms": 140347,
-      "name": "Only You Can Do It",
-      "url": "https://open.spotify.com/track/0wUKaAELGGKa0M1SMhJI88"
+      "duration_ms": 197000,
+      "name": "Turn This Ship Around - Gregatron Remix",
+      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1463,22 +1499,6 @@
       "duration_ms": 184335,
       "name": "Won't Stop - Reyer Remix",
       "url": "https://open.spotify.com/track/5scmtvav3joe03DAihMTd6"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Crown (Deluxe)",
-        "url": "https://open.spotify.com/album/6rUPUSBIpgtxaP8MkILbxC"
-      },
-      "artists": [
-        {
-          "name": "Hannah Schaefer",
-          "url": "https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s"
-        }
-      ],
-      "duration_ms": 197000,
-      "name": "Turn This Ship Around - Gregatron Remix",
-      "url": "https://open.spotify.com/track/3UrFh7gpx5UFPpH4Kdr0Sl"
     },
     {
       "added_at": "2023-02-07 17:43:21",
@@ -1575,26 +1595,6 @@
       "duration_ms": 152520,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/2pqZrVeXTBgxky4wDxiUIy"
-    },
-    {
-      "added_at": "2023-02-07 17:43:21",
-      "album": {
-        "name": "Overcomer: The Remixes",
-        "url": "https://open.spotify.com/album/2deAoRH9urnjAY8XKR8zTc"
-      },
-      "artists": [
-        {
-          "name": "Mandisa",
-          "url": "https://open.spotify.com/artist/0YPElKYjOD1sofFCtLdYj3"
-        },
-        {
-          "name": "Julie Lov",
-          "url": "https://open.spotify.com/artist/5nAOuMlz0LCXhGVTfT03QR"
-        }
-      ],
-      "duration_ms": 196738,
-      "name": "Overcomer - Julie and Ruslan Remix",
-      "url": "https://open.spotify.com/track/6FFJU39AqFjtkALONLjRZv"
     },
     {
       "added_at": "2023-02-07 17:43:21",

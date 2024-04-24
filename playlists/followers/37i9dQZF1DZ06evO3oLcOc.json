@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 221113,
+  "2024-04-24": 221078,
   "date_first_scraped": "2023-06-08",
-  "description": "This is Tyga. The essential tracks, all in one playlist.",
+  "description": "This is Tyga\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "This Is Tyga",
   "tracks": [
     {
@@ -21,7 +21,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 225226,
       "name": "Ayo",
       "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
@@ -1021,7 +1021,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 286373,
       "name": "Lights Out (feat. Fat Trel)",
       "url": "https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt"

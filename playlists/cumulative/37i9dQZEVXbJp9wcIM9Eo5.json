@@ -884,7 +884,7 @@
       ],
       "date_added": "2023-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 224285,
       "name": "ALV",
       "url": "https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA"
@@ -2606,7 +2606,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-30",
+      "date_removed": null,
       "duration_ms": 207626,
       "name": "Candy",
       "url": "https://open.spotify.com/track/2ctjDCCg1wHoQSjIJ8p6U4"
@@ -4612,7 +4612,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 215213,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/27ze5t5tIDPlVits0KRbxT"
@@ -8148,7 +8148,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
@@ -8686,7 +8686,7 @@
       ],
       "date_added": "2023-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-05",
+      "date_removed": null,
       "duration_ms": 212253,
       "name": "Like Crazy (English Version)",
       "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
@@ -10152,7 +10152,7 @@
       ],
       "date_added": "2023-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 154374,
       "name": "MI EX TEN\u00cdA RAZ\u00d3N",
       "url": "https://open.spotify.com/track/54zcJnb3tp9c5OVKREZ1Is"
@@ -12866,7 +12866,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 186455,
       "name": "Primera Cita",
       "url": "https://open.spotify.com/track/3fJHbMUnzceimOnNjp63fF"
@@ -13318,7 +13318,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 169418,
       "name": "QUE VUELVAS",
       "url": "https://open.spotify.com/track/5HR7yfhSCeoOHRQN05XnZQ"
@@ -15704,7 +15704,7 @@
       ],
       "date_added": "2022-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 282463,
       "name": "The Astronaut",
       "url": "https://open.spotify.com/track/0h7QMc9ZRzA9QJrbEHytn2"
@@ -16860,6 +16860,28 @@
       "duration_ms": 232496,
       "name": "Una Vez",
       "url": "https://open.spotify.com/track/5J7teKIJGtqVypgYI6sqXj"
+    },
+    {
+      "album": {
+        "name": "Una Vida Pasada",
+        "url": "https://open.spotify.com/album/3hc06uuIEsjOu8CwOumEbd"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218500,
+      "name": "Una Vida Pasada",
+      "url": "https://open.spotify.com/track/7y91nQBMhyeHWTn9wVvhKl"
     },
     {
       "album": {

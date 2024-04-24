@@ -579,6 +579,24 @@
     },
     {
       "album": {
+        "name": "TYLA",
+        "url": "https://open.spotify.com/album/3KGVOGmIbinlrR97aFufGE"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148517,
+      "name": "ART",
+      "url": "https://open.spotify.com/track/40ds3xedbMkWhszkGnZwxi"
+    },
+    {
+      "album": {
         "name": "BABYDOLL",
         "url": "https://open.spotify.com/album/5lB0QAZik2r9T51pB5gG0u"
       },
@@ -626,7 +644,7 @@
       ],
       "date_added": "2022-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 232114,
       "name": "Bad Habit",
       "url": "https://open.spotify.com/track/5CM4UuQ9Gnd6K2YyKGPMoK"
@@ -1064,7 +1082,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210285,
       "name": "Chanel",
       "url": "https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh"
@@ -1600,7 +1618,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-20",
+      "date_removed": null,
       "duration_ms": 201946,
       "name": "Crystalised",
       "url": "https://open.spotify.com/track/5UBBJnFxsfjFxfrtvErQoH"
@@ -1904,7 +1922,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 272394,
       "name": "Do I Wanna Know?",
       "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
@@ -2520,7 +2538,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": "2023-08-05",
+      "date_removed": null,
       "duration_ms": 178274,
       "name": "Fantasy (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/1dvqHhLNccePPBHq11TW7v"
@@ -2846,7 +2864,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-04-21",
+      "date_removed": null,
       "duration_ms": 120157,
       "name": "Frozen",
       "url": "https://open.spotify.com/track/6lknMmJZALXxx7emwwZWLX"
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 278179,
       "name": "Get You (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7zFXmv6vqI4qOt4yGf3jYZ"
@@ -3274,7 +3292,7 @@
       ],
       "date_added": "2022-09-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 124959,
       "name": "HEARTBEAT",
       "url": "https://open.spotify.com/track/6nStBZGqGgTR87MrBpNza0"
@@ -3436,7 +3454,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 122221,
       "name": "Hex",
       "url": "https://open.spotify.com/track/7D7e6hm2LiNd6nLuJF6K9Q"
@@ -3990,7 +4008,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 196767,
       "name": "Into It",
       "url": "https://open.spotify.com/track/4HwDCXsMBC7SUdp2WT4MZP"
@@ -4272,6 +4290,24 @@
       "duration_ms": 256528,
       "name": "Kollage",
       "url": "https://open.spotify.com/track/6vX00oaG3bMuNBKxapoPYO"
+    },
+    {
+      "album": {
+        "name": "L o s e M y M i n d",
+        "url": "https://open.spotify.com/album/2nFAUxmo2SkqO6PmnDuowt"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183990,
+      "name": "L o s e M y M i n d",
+      "url": "https://open.spotify.com/track/4mCdid0oWqylN7m1QgqbHu"
     },
     {
       "album": {
@@ -4572,7 +4608,7 @@
       ],
       "date_added": "2022-02-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-07-29",
+      "date_removed": null,
       "duration_ms": 207546,
       "name": "Love Me",
       "url": "https://open.spotify.com/track/4qgMPzf9QOETWQFUcFkHD4"
@@ -4706,7 +4742,7 @@
       ],
       "date_added": "2022-02-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 256320,
       "name": "Loveeeeeee Song",
       "url": "https://open.spotify.com/track/5Mk1tgVrSuoWWwPVFNS0jB"
@@ -5276,7 +5312,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 260640,
       "name": "No Guidance (feat. Drake)",
       "url": "https://open.spotify.com/track/6XHVuErjQ4XNm6nDPVCxVX"
@@ -5658,7 +5694,7 @@
       ],
       "date_added": "2023-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 239613,
       "name": "Open Arms (feat. Travis Scott)",
       "url": "https://open.spotify.com/track/0xaFw2zDYf1rIJWl2dXiSF"
@@ -6158,7 +6194,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-22",
+      "date_removed": null,
       "duration_ms": 246773,
       "name": "PRBLMS",
       "url": "https://open.spotify.com/track/4AtZRwSR8BOTTQg5ihSggt"
@@ -6246,6 +6282,24 @@
       "duration_ms": 185692,
       "name": "Put On Repeat",
       "url": "https://open.spotify.com/track/4ADMbmfzTk6BWBeKOIdfF8"
+    },
+    {
+      "album": {
+        "name": "R e a l W o m a n",
+        "url": "https://open.spotify.com/album/05Zpvjm9aGodlwFnnh1rRE"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194733,
+      "name": "R e a l W o m a n",
+      "url": "https://open.spotify.com/track/5bhDnM1VMFDTs3urFBq4Na"
     },
     {
       "album": {
@@ -8080,7 +8134,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 177899,
       "name": "Upset (feat. Tommy Richman & FELIX!)",
       "url": "https://open.spotify.com/track/5iwUwADk4uQUvgMF6PlTRl"
@@ -8434,7 +8488,7 @@
       ],
       "date_added": "2023-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-20",
+      "date_removed": null,
       "duration_ms": 211373,
       "name": "White Tee (with NO1-NOAH)",
       "url": "https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR"

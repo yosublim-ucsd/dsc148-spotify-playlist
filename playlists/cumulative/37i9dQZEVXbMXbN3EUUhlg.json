@@ -2650,7 +2650,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -3703,6 +3703,28 @@
     },
     {
       "album": {
+        "name": "Para\u00edso Particular (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2LweFzHQTdOl0LSqwOS5uM"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        },
+        {
+          "name": "Ana Castela",
+          "url": "https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124511,
+      "name": "Canudinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/1OwoPY7wYgKQIyl9maWmSM"
+    },
+    {
+      "album": {
         "name": "Para\u00edso Particular Vol. 01 (Ao Vivo)",
         "url": "https://open.spotify.com/album/5xbSsOJsCXNSodcAE7IsAA"
       },
@@ -3740,7 +3762,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 124511,
       "name": "Canudinho - Ao Vivo",
       "url": "https://open.spotify.com/track/476o0POREG1XMArNtHRAy2"
@@ -5988,7 +6010,7 @@
       ],
       "date_added": "2023-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 173370,
       "name": "Dois Fugitivos - Ao Vivo",
       "url": "https://open.spotify.com/track/4YKujFSyakVjLdH1sDllVc"
@@ -7980,7 +8002,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 154164,
       "name": "Falta de Mim - Ao Vivo",
       "url": "https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb"
@@ -9708,7 +9730,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 142514,
       "name": "i like the way you kiss me",
       "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
@@ -10450,7 +10472,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 159322,
       "name": "Lapada Dela - Ao Vivo",
       "url": "https://open.spotify.com/track/4f0aDk7HX37SfzerfznYlr"
@@ -14692,7 +14714,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 164138,
       "name": "Ol\u00e1, Mo\u00e7a",
       "url": "https://open.spotify.com/track/7umgf0NrHZgIAI0ep64sLc"
@@ -16328,7 +16350,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 144360,
       "name": "Problemas de um Milion\u00e1rio",
       "url": "https://open.spotify.com/track/0VybBobSYSzliyEJ1VqwGR"
@@ -19306,7 +19328,7 @@
       ],
       "date_added": "2024-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 158122,
       "name": "Tem Caf\u00e9",
       "url": "https://open.spotify.com/track/6XvFnICxXsVc8OK4eh1E9b"
@@ -19890,6 +19912,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {
@@ -20526,7 +20566,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 171712,
       "name": "Um M\u00eas E Pouco - Ao Vivo",
       "url": "https://open.spotify.com/track/3PqU6gHWUaBTtIZi5oxEJ7"

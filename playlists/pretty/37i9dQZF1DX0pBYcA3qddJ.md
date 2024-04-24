@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,977 likes - 100 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,980 likes - 100 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 95 | [Solaris](https://open.spotify.com/track/3mw4OxKGvEG542yNl5Ypi3) | [yanaco](https://open.spotify.com/artist/2uRX0L8p4Mdh293wJ7U8dq) | [Solaris](https://open.spotify.com/album/6cBibsodTbuM4xuFfUNcjK) | 3:41 |
 | 96 | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/track/7xmsz7uSxf88gQ1aLtsmqi) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND), [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Empty Lake \(feat\. Clara Mann\)](https://open.spotify.com/album/7mSgfi9tU0a61heEkhyRJi) | 3:16 |
 | 97 | [See you Soon](https://open.spotify.com/track/5W5N23Xz1Zk6Qi8wkP8UPM) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [See you Soon](https://open.spotify.com/album/7K4sR6OiINBpj00mFmiLoG) | 3:26 |
-| 98 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
+| 98 | [Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Delibes: Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V) | 2:13 |
 | 99 | [drip&trip](https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [drip&trip](https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB) | 2:45 |
-| 100 | [Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/track/4u0eCzsxpHtu7ESBe24cL9) | [Léo Delibes](https://open.spotify.com/artist/1M9AXZkNPdOd1IPEsQsXnT), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Delibes: Lakmé: Flower Duet \(Arr\. Naoumoff for Piano\)](https://open.spotify.com/album/64w9xv7aEMPYbcI59PHm8V) | 2:13 |
+| 100 | [Cairngorms](https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Cairngorms](https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3) | 4:12 |
 
 Snapshot ID: `MTcwOTgyMzYwMCwwMDAwMDAwMGE0MmI3ODQwMzY3ZmViNWFmZmNjM2UyNzg0YTU0OTVj`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-06-10",
-  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: \u82b1\u6fa4\u9999\u83dc",
+  "description": "\u30a2\u30cb\u30e1\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u9054\u3092\u7279\u96c6\uff01 Celebrate the great female artists from anime culture. Cover: LiSA",
   "name": "EQUAL Anime",
   "tracks": [
     {
@@ -6256,7 +6256,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 250826,
       "name": "VIVID WORLD",
       "url": "https://open.spotify.com/track/13gw5jBlx5lupIiuKFfAtm"
@@ -10298,7 +10298,7 @@
       ],
       "date_added": "2023-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 221686,
       "name": "\u5947\u7e01\u30ed\u30de\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH"
@@ -10732,6 +10732,24 @@
       "duration_ms": 289334,
       "name": "\u6253\u4e0a\u82b1\u706b",
       "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
+    },
+    {
+      "album": {
+        "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
+        "url": "https://open.spotify.com/album/6qHp8By4YBR4N64lffM54n"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271045,
+      "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
+      "url": "https://open.spotify.com/track/5b34ld3EjSkD6b0gCc8yxC"
     },
     {
       "album": {
@@ -12098,6 +12116,24 @@
       "duration_ms": 266373,
       "name": "\u967d\u306f\u307e\u305f\u6607\u308b\u304b\u3089",
       "url": "https://open.spotify.com/track/43PlsJn27zRG2KjpL12eb7"
+    },
+    {
+      "album": {
+        "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
+        "url": "https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh"
+      },
+      "artists": [
+        {
+          "name": "\u30c8\u30b2\u30ca\u30b7\u30c8\u30b2\u30a2\u30ea",
+          "url": "https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184243,
+      "name": "\u96d1\u8e0f\u3001\u50d5\u3089\u306e\u8857",
+      "url": "https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ"
     },
     {
       "album": {

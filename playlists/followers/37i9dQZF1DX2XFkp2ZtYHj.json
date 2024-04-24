@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 10920,
+  "2024-04-24": 11034,
   "date_first_scraped": "2023-10-22",
   "description": "No lyrics, no distractions, just chilled piano and study vibes for as long as you need. ",
   "name": "8 Hours of Study Music",
@@ -669,6 +669,24 @@
       "duration_ms": 140102,
       "name": "Calm Wind",
       "url": "https://open.spotify.com/track/6fjZ39b5dT9uZzFsVRLwSi"
+    },
+    {
+      "album": {
+        "name": "Calolziocorte",
+        "url": "https://open.spotify.com/album/1OchRw8VptiaBKQvFPbcdi"
+      },
+      "artists": [
+        {
+          "name": "Grazia Bellini",
+          "url": "https://open.spotify.com/artist/03r4oR4wLUyjzpYtSf2RDS"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140247,
+      "name": "Calolziocorte",
+      "url": "https://open.spotify.com/track/1eq8ybJ7diRj2rGsVwNVv6"
     },
     {
       "album": {
@@ -3859,6 +3877,24 @@
       "duration_ms": 146466,
       "name": "Vicino a te",
       "url": "https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb"
+    },
+    {
+      "album": {
+        "name": "Villa Cortese",
+        "url": "https://open.spotify.com/album/0Q9SFuITF91V41glxx88Dn"
+      },
+      "artists": [
+        {
+          "name": "Livia Marcella",
+          "url": "https://open.spotify.com/artist/3KwM0iGMCIBr2BJbDB8RQq"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159466,
+      "name": "Villa Cortese",
+      "url": "https://open.spotify.com/track/0XBYGS44lCaxUKtrjJEWtu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 
 > This is CeCe Winans\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,954 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,027 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1ZeHVf.md) - [plain]
 | 49 | [When You Love \(feat\. CeCe Winans, Yolanda Adams & Mary Mary\)](https://open.spotify.com/track/7lCkz84Hd3LnRbEPhvIZOg) | [Donnie McClurkin](https://open.spotify.com/artist/74IEeKcuS34kF2TjOigXra), [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb), [Yolanda Adams](https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11), [Mary Mary](https://open.spotify.com/artist/12Kgt2eahvxNWhD5PnSUde) | [We All Are One \(Live In Detroit\)](https://open.spotify.com/album/0OsTWxuUeYBTQL3lftiMpk) | 4:26 |
 | 50 | [I Am](https://open.spotify.com/track/1EjiSDVT1YgLKO4W71NAmA) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Everlasting Love](https://open.spotify.com/album/3MHub5tyWVwztqFLoKQWjd) | 4:19 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDMzYWE5NDYxYzMyYTQ3ZjE2NjNjOWQ0YWRmYzliNmFi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGYyNWRiMTQ2MDQ1M2MzZDRmNTcyNjZiZGEwMDlkZTdl`

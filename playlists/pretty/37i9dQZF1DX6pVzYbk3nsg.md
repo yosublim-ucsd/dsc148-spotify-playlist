@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 
 > Los sonidos tradicionales de la Isla del Encanto.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,786 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,806 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6pVzYbk3nsg.md) - [plain]
 | 14 | [El Conde De Loiza](https://open.spotify.com/track/5Pt8ozofQZg1dVdLSvWO4R) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 2:15 |
 | 15 | [Medley: Mañana por la Mañana/Voy Subiendo](https://open.spotify.com/track/3rC9Tw4X3PZjQJMhPACK0l) | [Gary Nuñez & Plena Libre](https://open.spotify.com/artist/0NLCkTfPqA0wthAwSrYlOF) | [Regalo de Navidad](https://open.spotify.com/album/4z2PmxDQaFrCfVyNIsdpBo) | 6:51 |
 | 16 | [Campo](https://open.spotify.com/track/15HmdlLczXj5jlqUlmUNS8) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy), [Cojunto Melodia](https://open.spotify.com/artist/0Pc2l1icFRWh3iI9uPoudM) | [Puerto Rico, Puerto Rico Mi Tierra Natal](https://open.spotify.com/album/28nERzqmaa2n4hve9UxlnQ) | 4:58 |
-| 17 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
-| 18 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
+| 17 | [Ola de la Mar](https://open.spotify.com/track/7kXpYpbjWQb1wlgYztYaC8) | [Félix Alduén](https://open.spotify.com/artist/7rXVbGmjHojoHXkunNoKa9) | [Candela!](https://open.spotify.com/album/6fDIfyDziBLqYANN8GtUS1) | 4:20 |
+| 18 | [Palo'e bandera](https://open.spotify.com/track/1H6dRL7M0IVylujpVGZwlh) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:14 |
 | 19 | [Inyere](https://open.spotify.com/track/09WBf9td049VNUcah8Xgbe) | [Yuba Ire](https://open.spotify.com/artist/2kBeW8r7YUM5n43ReapUfr) | [¡Ya está! ¡Se formó!](https://open.spotify.com/album/0smxpFHmwxzz9hWmn0yvTR) | 3:09 |
 | 20 | [Bombero Eh](https://open.spotify.com/track/6IP4iBxur2Q6HnYaBbWuGj) | [Hermanos Ayala](https://open.spotify.com/artist/11sGNsoAafVYuvbsXre9BE) | [Bomba De Loiza](https://open.spotify.com/album/3vGGMqUHgOQv3aOsom3plI) | 2:56 |
 | 21 | [Campo \(Land\) / Yo cantaré esta bomba \(I Will Sing this Bomba\)](https://open.spotify.com/track/3re4zafR80jdjih18UJYvF) | [Los Pleneros de la 21](https://open.spotify.com/artist/0t8zL6r1pfqXi0XSJMUhgy) | [Para Todos Ustedes](https://open.spotify.com/album/304SxpX0NsaNayS1gAAhn5) | 7:34 |
-| 22 | [Pa’ un Plenero \(plena\)](https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Viento de Agua Unplugged: Materia Prima](https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u) | 5:25 |
+| 22 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 |
 | 23 | [Afro Boricua](https://open.spotify.com/track/7feVDHYgNORokGJQqLgytd) | [Grupo Afro Boriqua, Director William Cepeda](https://open.spotify.com/artist/3WtjPwL9iHJCBCjqxDJ1QM) | [Bombazo](https://open.spotify.com/album/57x4LW3rXa6OUutg6UALTf) | 5:38 |
-| 24 | [Preparate Reparada \(Guembe\) \[Live\]](https://open.spotify.com/track/66Z8gMxXEOXhubR79KlTu5) | [Buya](https://open.spotify.com/artist/29u8U8MD9gvMcxkkJxikna) | [Buya \(Live\)](https://open.spotify.com/album/3CN7dh6Ov68yvDzIwl2udq) | 4:21 |
+| 24 | [Pa’ un Plenero \(plena\)](https://open.spotify.com/track/4kwCrqBHB5j10zFinAKHid) | [Viento De Agua](https://open.spotify.com/artist/42veAQPAg36vBaE3WVh8CE) | [Viento de Agua Unplugged: Materia Prima](https://open.spotify.com/album/2XFQHvOwAMDyDFeyuQm68u) | 5:25 |
 | 25 | [Una Noche En Borinquen](https://open.spotify.com/track/37jIcJvAVdr2MwozISalA3) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/artist/0z9lpQaueAr4klPeko7UJG) | [Los Pleneros del Quinto Olivo](https://open.spotify.com/album/6qiTayP9dcVf9c8WvmUvXs) | 3:47 |
 | 26 | [La Revolución \(A la Calle Plenero\)](https://open.spotify.com/track/2cgM9f7eupk28w9skPjEKA) | [Totin Agosto Arará y la Liga Rumbera](https://open.spotify.com/artist/2dJK73cxBsmcCYh3t089J7) | [Orgánico y Medicinal](https://open.spotify.com/album/76iolqxBkeTjzGlC7gw1lE) | 5:00 |
 | 27 | [Si te preguntaran](https://open.spotify.com/track/4NbNwSJakq5ArlNsQwdqZQ) | [Paracumbé](https://open.spotify.com/artist/7dDuGb3Z43pHtrWgLdD0pt), [Nelie Lebron Robles](https://open.spotify.com/artist/4aiMXsjHkohWHVUnXNJc99) | [Tambó](https://open.spotify.com/album/08AGzsFnTPjV1or0eqjUda) | 3:45 |

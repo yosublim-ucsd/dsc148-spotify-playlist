@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1c2S9zEjadnB6Mt2aOOLWn">Ollie Green</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-125 songs - 6 hr 52 min
+126 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Like I Loved You](https://open.spotify.com/track/26ifimYrFYMka2Z7S8I4GK) | [Emeli Sandé](https://open.spotify.com/artist/7sfgqEdoeBTjd8lQsPT3Cy) | [How Were We To Know](https://open.spotify.com/album/2aCBNEaJ7hmfe64QWCaGIG) | 3:32 | 2024-02-03 |  |
 | [Liverpool](https://open.spotify.com/track/1OFKUwul0KnJA4v4em3rso) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [The End Of The Storm \(Official Soundtrack\)](https://open.spotify.com/album/1WmdszaBk5ksWMRLar99TC) | 3:39 | 2024-01-29 |  |
 | [London](https://open.spotify.com/track/4q6kvDd16UTfNHXLc5a923) | [Hamzaa](https://open.spotify.com/artist/3TXjnAw0sg1VVdnR9fGdBs) | [London](https://open.spotify.com/album/63GgFXDeK5LlZbvyb5Yt0Y) | 2:54 | 2024-01-29 |  |
+| [Loose Ends](https://open.spotify.com/track/1IAGVO9a3LDO5VttJ96DtA) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [Loose Ends](https://open.spotify.com/album/0YoJT2pQtuoTmgzj6TUon6) | 2:24 | 2024-04-23 |  |
 | [Lose Your Love \(with Matt Maeson\)](https://open.spotify.com/track/1PknqupRJmUOeOj0ghpwLZ) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Matt Maeson](https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn) | [Alive](https://open.spotify.com/album/5SeY9BQPi8AzEy6fhPEr1v) | 3:31 | 2024-01-29 |  |
 | [Love Me Again](https://open.spotify.com/track/6o4Gxltfc3hqWVRHXAyRRs) | [Frances](https://open.spotify.com/artist/4m6VmvHDXWmVdIw6EJGQ86) | [Things I've Never Said](https://open.spotify.com/album/4X6Ipz2wEWYuw2VwWhEa23) | 2:47 | 2024-01-29 |  |
 | [Lovebug](https://open.spotify.com/track/2pFRr20vrPWveznPTwQADB) | [Zoe Nash](https://open.spotify.com/artist/1yFie7615gesdLbvVVpYU5) | [Lovebug](https://open.spotify.com/album/62PT5tJV8q2LhXZwbMlAk1) | 3:09 | 2024-01-29 |  |

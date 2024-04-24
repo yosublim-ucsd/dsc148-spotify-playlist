@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4RDXswvP6Mj.md) - [plain]
 
 > Let's party & clubbing with your favorite K\-pop dance hits!! \(Cover: KISS OF LIFE\) \[지금 가장 핫한 댄스곡들을 만나보세요.\]
 
-[Spotify](https://open.spotify.com/user/spotify) - 850,489 likes - 106 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 851,328 likes - 106 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Hyperanhas. The essential tracks, all in one playlist.",
-  "num_followers": 3515,
+  "num_followers": 3522,
   "original_name": "This Is Hyperanhas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDkxYTYwZjViMDNhOWM0OTFmNmRhNjc3Nzg2MDRjNzBk",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDBmMDc5NzE2MzAyOWUyOTc1MTZhMGNhZWI3MzhmYTZi",
   "tracks": [
     {
       "added_at": null,
@@ -823,26 +823,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ECL\u00c9TICO",
-        "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
+        "name": "Flash",
+        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
       },
       "artists": [
         {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+          "name": "Mc Vittin PV",
+          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 253884,
-      "name": "Chamo Ela Vem",
-      "url": "https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y"
+      "duration_ms": 238075,
+      "name": "Flash",
+      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
     },
     {
       "added_at": null,
@@ -871,22 +867,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flash",
-        "url": "https://open.spotify.com/album/1VFyE0WYtCtWLZDU4HZCKD"
+        "name": "ECL\u00c9TICO",
+        "url": "https://open.spotify.com/album/3L3KKjl7QGb1WxFsaGmFYn"
       },
       "artists": [
         {
-          "name": "Mc Vittin PV",
-          "url": "https://open.spotify.com/artist/6fTuuqOYCnU7oleecp16zB"
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
         },
         {
           "name": "Hyperanhas",
           "url": "https://open.spotify.com/artist/7oNGVWHSEpvIGJpNDtgudz"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
         }
       ],
-      "duration_ms": 238075,
-      "name": "Flash",
-      "url": "https://open.spotify.com/track/31C6dstRTDMEK5tOpGWyIM"
+      "duration_ms": 253884,
+      "name": "Chamo Ela Vem",
+      "url": "https://open.spotify.com/track/3fVMUkxJJid5GCCeaHuF1Y"
     },
     {
       "added_at": null,

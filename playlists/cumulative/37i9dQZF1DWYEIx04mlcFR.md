@@ -4,7 +4,7 @@
 
 > la nueva ola de artistas con Leon Leiden en portada\. 🌊✨
 
-485 songs - 1 day 1 hr 3 min
+486 songs - 1 day 1 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -230,7 +230,7 @@
 | [Mal](https://open.spotify.com/track/0fcOslEdofeYkzDQHm97t5) | [Caroh](https://open.spotify.com/artist/4oaTqNQEXY4QrSzks8kImL) | [Colorimetría](https://open.spotify.com/album/3A1zt3znZxrX2na0tkDxbE) | 3:14 | 2022-10-14 | 2023-01-28 |
 | [mal hábito](https://open.spotify.com/track/0o9C7uGWMkW4yj79xawR8L) | [Salma](https://open.spotify.com/artist/5kT96PWNMl0164QMytMqc0) | [BASADO EN HECHOS REALES](https://open.spotify.com/album/0IcITWG6ouM737VCcXxanj) | 2:43 | 2021-12-10 | 2022-04-14 |
 | [Mala](https://open.spotify.com/track/7ye6e2xa9jzs5PAMVfm2Db) | [Curena Mía](https://open.spotify.com/artist/25zGv6p87TUY5q5PmSLsjx) | [Mala](https://open.spotify.com/album/2CDD9HRVRQFq5hRiaA4HAV) | 3:55 | 2022-02-25 | 2022-05-28 |
-| [Mala Suerte](https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Mala Suerte](https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte) | 3:00 | 2024-03-08 |  |
+| [Mala Suerte](https://open.spotify.com/track/4VNa5rouNOB5KtR7X7cFPy) | [Joaquina Mertz](https://open.spotify.com/artist/7lSGnBub2g8JGbNDgmrXsJ) | [Mala Suerte](https://open.spotify.com/album/7qJjyD3vNZ16RoaX4xqOte) | 3:00 | 2024-03-08 | 2024-04-24 |
 | [Mala Vida](https://open.spotify.com/track/3QUsNIAM9lH8uLlDwI5tNN) | [Samantha Barrón](https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk), [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW) | [Mala Vida](https://open.spotify.com/album/1WybN2EANyfkYsthhI5djM) | 2:50 | 2022-04-13 | 2022-07-05 |
 | [Mami Perfecta](https://open.spotify.com/track/4hIpMTeH1QUqivJCGFTbJs) | [ElArturo](https://open.spotify.com/artist/2i64HL05WcatPAtIFUOZrL) | [Mami Perfecta](https://open.spotify.com/album/44bTsKvLKPAfrBZ5nQwVkY) | 3:34 | 2021-12-10 | 2022-02-26 |
 | [Mamixhula](https://open.spotify.com/track/4e2h6gpPL3j1hHJt6YHApL) | [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd) | [Mamixhula](https://open.spotify.com/album/0NXREpZBXGM2YSfntjRZg8) | 2:30 | 2021-12-10 | 2022-05-10 |
@@ -310,6 +310,7 @@
 | [Nunca Nos Fuimos](https://open.spotify.com/track/0DN1KHZWcefWyZvlL9TWJc) | [Daniel Quién](https://open.spotify.com/artist/3zxodnZ10PEbv27ixLeQdQ) | [Aroma A Nostalgia \(Deluxe Edition\)](https://open.spotify.com/album/3K6S0Mt1ZMrcjuCiOztmBJ) | 4:34 | 2021-12-10 | 2022-02-19 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/6VfjKPhMwcPJYTBgB3k7xo) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [NMDQH](https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x) | 3:24 | 2023-11-29 | 2024-01-13 |
 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 | 2022-11-25 |  |
+| [Obra de arte](https://open.spotify.com/track/7r8Hm0HknnPEcZVdwME1Fq) | [Planeta Tres](https://open.spotify.com/artist/2eATLFTN3YsqxXMa13faPq) | [Obra de arte](https://open.spotify.com/album/11L1nxjSwv6Xp5bEuafW7F) | 3:02 | 2024-04-12 |  |
 | [odiarte](https://open.spotify.com/track/7ljgbvaKZi1W4rhXWMfsxU) | [Ivana](https://open.spotify.com/artist/5AXxk4cxkMNsTb4TtwLAQJ) | [odiarte](https://open.spotify.com/album/4MfTBFDwxb1Hz0uUxrswPA) | 3:10 | 2023-04-21 |  |
 | [odio esta casa \(cuando te vas\)](https://open.spotify.com/track/2gz0jf6QA7EhF8P29AUYbE) | [Carlos Colosio](https://open.spotify.com/artist/2kAfu4SJeTLKbvAnjbT2Au) | [odio esta casa \(cuando te vas\)](https://open.spotify.com/album/13BfMjOrCPVMQsaz89js8b) | 3:14 | 2023-05-19 |  |
 | [oggy](https://open.spotify.com/track/0v9ujRJ4jHLOdENX8n4Jft) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls) | [oggy](https://open.spotify.com/album/72w1hO2b0fLm1yJnBwahAN) | 2:08 | 2023-11-03 |  |

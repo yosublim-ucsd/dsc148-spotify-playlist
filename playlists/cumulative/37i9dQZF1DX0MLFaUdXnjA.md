@@ -4,7 +4,7 @@
 
 > Keeping it lowkey with the best chill pop\. Cover: Laufey
 
-1,693 songs - 3 day 19 hr 10 min
+1,694 songs - 3 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1113,7 +1113,7 @@
 | [Over the Moon](https://open.spotify.com/track/2JFSlL1Xsy2j7T5HdRCxpp) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Over the Moon](https://open.spotify.com/album/3mYz8u9eL7mRUoyKSN2Oef) | 4:16 | 2024-02-16 |  |
 | [Over You](https://open.spotify.com/track/73sP0b1YZ74voCWVWbbueL) | [Mokita](https://open.spotify.com/artist/3sKeaby6GMSJWgYueZaSjE) | [Over You](https://open.spotify.com/album/6Gy9u1jVgnQWjW0bCJKnWD) | 3:00 | 2020-05-30 | 2020-07-24 |
 | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/5P8EHRl1ANXNPEqiy0JoH1) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Overtime \(feat\. Kacey Musgraves\)](https://open.spotify.com/album/5KVwmGWboSCfHiJM6IuDue) | 2:53 | 2024-04-05 |  |
-| [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 | 2024-03-08 |  |
+| [Pages](https://open.spotify.com/track/0pLnDuoc1Ddg9KHgvBdjVP) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Pages](https://open.spotify.com/album/3kGscDtpreWkmSCrKb5aia) | 3:14 | 2024-03-08 | 2024-04-24 |
 | [Palladium](https://open.spotify.com/track/1bI1ASTRif9GKJO9b7PQk3) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/2YyWyMCjuegqxsrfo1672e) | 4:07 | 2022-06-24 | 2022-09-20 |
 | [Palladium](https://open.spotify.com/track/2w5XsMl3XdLCpqqaNFpX7I) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/6u7YzxT7QZho04xVGjjFy1) | 4:07 | 2022-09-23 | 2023-02-25 |
 | [Palladium](https://open.spotify.com/track/43p2QBqcMqf6ddjd9NuqLb) | [Greyson Chance](https://open.spotify.com/artist/0Qnx1MPnHYt3jJCYrRFVwX) | [Palladium](https://open.spotify.com/album/3Ce6hTcDVumkMvdtBL0LoR) | 4:07 | 2022-09-19 | 2022-09-25 |
@@ -1503,6 +1503,7 @@
 | [This Is How It Feels \(with Laufey\)](https://open.spotify.com/track/6BQPRUFGHsgtNYJxuwhktR) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32), [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:44 | 2023-06-02 |  |
 | [this is how you fall in love](https://open.spotify.com/track/0742PcMPo2Akmo4vHC29VZ) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [this is how you fall in love](https://open.spotify.com/album/5nAv0lNEyaR9IC0RR2UQiW) | 2:54 | 2021-01-15 | 2021-06-26 |
 | [this is what autumn feels like](https://open.spotify.com/track/2YOGCTiPJWMhZRdeadFj8G) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what autumn feels like](https://open.spotify.com/album/7J1igBIEs797Vk07u18VdI) | 3:39 | 2023-09-15 | 2024-02-17 |
+| [this is what slow dancing feels like](https://open.spotify.com/track/4EhqimHdoK9OmCNvCfioH6) | [JVKE](https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK) | [this is what slow dancing feels like](https://open.spotify.com/album/24LaJk9nxJvZWtSmt7qMm5) | 2:25 | 2024-04-24 |  |
 | [This Love \(Taylor’s Version\)](https://open.spotify.com/track/4d1CG5ei1E2vGbvmgf5KKv) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [This Love \(Taylor’s Version\)](https://open.spotify.com/album/3In1CblWZswwun5MhOa10y) | 4:10 | 2022-05-06 | 2023-03-18 |
 | [This Shouldn't Work](https://open.spotify.com/track/5emMvT62CP2ulTtk7Q1TsZ) | [RHODES](https://open.spotify.com/artist/07FfkbljNIdl45Ijlh1aXS) | [This Shouldn't Work](https://open.spotify.com/album/36GFEZJyNWa3bWlMgxE8Qn) | 3:14 | 2020-04-26\* | 2020-05-01 |
 | [This Summer](https://open.spotify.com/track/6esheCKKzDlgyms0c1wOhv) | [Loren Allred](https://open.spotify.com/artist/0LyOADBjj28cbvJWTXUEGA) | [This Summer](https://open.spotify.com/album/4WNXsgnqvcYSEREmSB74Fr) | 3:19 | 2020-09-18 | 2020-10-16 |

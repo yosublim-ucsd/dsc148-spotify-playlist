@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,567 likes - 39 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,842 likes - 39 songs - 1 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 23 | [i need u](https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [A Great Chaos](https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW) | 2:28 |
 | 24 | [Shoot](https://open.spotify.com/track/54dqQJpIq0QUd2vBl5KzTJ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:46 |
 | 25 | [Clutch](https://open.spotify.com/track/11GKYHTMZHqIH6wR03pA4t) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:11 |
-| 26 | [Fuk 12](https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 1:24 |
-| 27 | [Teenager Rager](https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:44 |
+| 26 | [Teenager Rager](https://open.spotify.com/track/0MwOpzSByFjvmgjeY0It4a) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:44 |
+| 27 | [Fuk 12](https://open.spotify.com/track/0VhL5q6JhQdD2kmbMbK0cj) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [X](https://open.spotify.com/album/191PJkW2uvXGUJPyl9KcdF) | 1:24 |
 | 28 | [Lookbook](https://open.spotify.com/track/240K86W7ysqLlNG9NS7cvQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [XTENDED](https://open.spotify.com/album/4Pangd3z0ZrONFpx3zMrFK) | 2:30 |
 | 29 | [Hella](https://open.spotify.com/track/4EEX7k5Bo5iBdJC6hZJGo1) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:41 |
 | 30 | [Why](https://open.spotify.com/track/6ALDTINxlHOp96KoLWYvqK) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/33afeafKvnHqT7p2lYgdhd) | 1:45 |
@@ -48,4 +48,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 38 | [Change](https://open.spotify.com/track/0MyP4cSQBIkyogzz8xWwHQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Project X](https://open.spotify.com/album/4Vd0qWsKeNJzsouF5Dg1yS) | 2:40 |
 | 39 | [On the Low](https://open.spotify.com/track/5dZOZ75mViIFTs3etMFq5d) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X : Relapsed](https://open.spotify.com/album/1NwCufbDWeIm6nOKGp0Et6) | 1:17 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDFmMGU0OWIxZGM5ZWRhYWZkZGQ1NzBiYzE5NjY1Y2Ji`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDE0MTc2NDM1N2JkYjQ4YmMzMmMzMTYwODAxN2IxZDA2`

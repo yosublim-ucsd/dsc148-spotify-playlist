@@ -1,12 +1,12 @@
 {
-  "description": "This is J. Cole. C\u00e1c b\u1ea3n nh\u1ea1c b\u1ea1n n\u00ean nghe, t\u1ea5t c\u1ea3 trong m\u1ed9t danh s\u00e1ch ph\u00e1t.",
-  "num_followers": 872712,
+  "description": "This is J. Cole. The essential tracks, all in one playlist.",
+  "num_followers": 872835,
   "original_name": "This Is J. Cole",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDBhOWM2YTFmNWY2N2ZlMmE0M2JjOGNkYmRmYWViZmZj",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGNkMjEwNWU0MGMwMzQyMDg2ZTJkYzAwMjg4NmU1OWVi",
   "tracks": [
     {
       "added_at": null,
@@ -687,6 +687,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For All The Dogs Scary Hours Edition",
+        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 227692,
+      "name": "Evil Ways (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born Sinner (Deluxe Version)",
         "url": "https://open.spotify.com/album/5FP9keIJnlSCKnkdVOf623"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 209080,
       "name": "She's Mine Pt. 1",
       "url": "https://open.spotify.com/track/0HtOJj7Kl74s1Ngf3MWeif"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For All The Dogs Scary Hours Edition",
-        "url": "https://open.spotify.com/album/4Q7cRXio6mF2ImVUCcezPO"
-      },
-      "artists": [
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        },
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 227692,
-      "name": "Evil Ways (feat. J. Cole)",
-      "url": "https://open.spotify.com/track/2ut4BOQSqxLpcX5MtPjzYa"
     },
     {
       "added_at": null,
@@ -795,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 278920,
-      "name": "She's Mine Pt. 2",
-      "url": "https://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday 2",
         "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 244446,
       "name": "Let Me Calm Down (feat. J. Cole)",
       "url": "https://open.spotify.com/track/44gmXwbdHjwQsQvsiraj14"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 278920,
+      "name": "She's Mine Pt. 2",
+      "url": "https://open.spotify.com/track/5rmcjZTrE9JR1YrbNZDFNW"
     },
     {
       "added_at": null,
@@ -883,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
-      },
-      "artists": [
-        {
-          "name": "J. Cole",
-          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
-        }
-      ],
-      "duration_ms": 331480,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Milky Way",
         "url": "https://open.spotify.com/album/6sDQacCej53Q43vZF9PJ8i"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 238053,
       "name": "Tribe (with J. Cole)",
       "url": "https://open.spotify.com/track/0YAQnYt2oB8OdoaeqnHyTI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "4 Your Eyez Only",
+        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+      },
+      "artists": [
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 331480,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/3pjUyVbFmM96tYhSaKJwTt"
     },
     {
       "added_at": null,
@@ -963,18 +963,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "4 Your Eyez Only",
-        "url": "https://open.spotify.com/album/3CCnGldVQ90c26aFATC1PW"
+        "name": "Shea Butter Baby",
+        "url": "https://open.spotify.com/album/3hejjJbFsinMBc1KBqF71w"
       },
       "artists": [
+        {
+          "name": "Ari Lennox",
+          "url": "https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom"
+        },
         {
           "name": "J. Cole",
           "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
         }
       ],
-      "duration_ms": 194346,
-      "name": "Ville Mentality",
-      "url": "https://open.spotify.com/track/2z3joGXrdGL2iEjIKQTiN1"
+      "duration_ms": 211610,
+      "name": "Shea Butter Baby (with J. Cole)",
+      "url": "https://open.spotify.com/track/5BOBHIBuzvQuIYL1E1nDzl"
     }
   ],
   "unique_name": "This Is J. Cole",

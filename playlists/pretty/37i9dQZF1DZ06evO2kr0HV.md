@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 ### [This Is Esteman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kr0HV)
 
-> This is Esteman\. The essential tracks, all in one playlist.
+> This Is Esteman\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,764 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,795 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,10 +32,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 22 | [Baila](https://open.spotify.com/track/0kIPoNlimbRPn16NfQ7ggt) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:42 |
 | 23 | [Extraños](https://open.spotify.com/track/4ATNybPTNGnSm1L7S1Prhl) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Rozalén](https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:52 |
 | 24 | [Para Siempre](https://open.spotify.com/track/7jrVi2QpvDGgmPr72w5xWf) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Para Siempre](https://open.spotify.com/album/4hA1fpxVbsZYw8CsxDEjdI) | 4:00 |
-| 25 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
+| 25 | [Aquí Estoy Yo \(feat\. Andrea Echeverri\)](https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:46 |
 | 26 | [Como Vez Primera](https://open.spotify.com/track/7akpZSIOBwaSDES0wS6ekC) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Caótica Belleza](https://open.spotify.com/album/7MVYNG79vMkMN7mxBNxYvS) | 3:33 |
 | 27 | [Hasta Que Tú Me Quieras](https://open.spotify.com/track/78PMNyj9nQ0GzWCgWLpWUr) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Si Volviera A Nacer](https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq) | 3:57 |
-| 28 | [Aquí Estoy Yo \(feat\. Andrea Echeverri\)](https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Andrea Echeverri](https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ) | [1er Acto](https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg) | 3:46 |
+| 28 | [Bailando](https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN) | [Ruzzi](https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Bailando](https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY) | 3:07 |
 | 29 | [Solo](https://open.spotify.com/track/367p3heMzeLfeQtx2GufOn) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Amor Libre](https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F) | 3:43 |
 | 30 | [PORNOSTALGIA](https://open.spotify.com/track/10WvWY5nn25dbS0AgIaJQF) | [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [PORNOSTALGIA](https://open.spotify.com/album/0BAbKM8PIcemaaW7tG1p2j) | 3:21 |
 | 31 | [El Noa Noa \- Remix](https://open.spotify.com/track/6qLlx57PqwweZtEFtystTu) | [Georgel](https://open.spotify.com/artist/0K8M0RUbeMZscUCj1Mb24j), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [Raymix](https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064), [Celso Piña](https://open.spotify.com/artist/6PmfbeAL7jAauFPNyQ5UPi), [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy) | [El Noa Noa \(Remix\)](https://open.spotify.com/album/6GKgeat1bQOZgkUok74F5Q) | 3:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 48 | [Cada paso \(feat\. Esteman\) \- Acústica](https://open.spotify.com/track/7ywq7yAzasSDAt0tbUwO1S) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fin de la primera vida](https://open.spotify.com/album/49r4PlotqmoaXEeEM9j1ku) | 3:02 |
 | 49 | [A quién le importa \- Latin Pride Version by Juan Sueiro](https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lucrecia](https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14), [Edith Salazar](https://open.spotify.com/artist/0WJz68BdO4VBwOom3W15EM), [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX), [Amparo Sandino](https://open.spotify.com/artist/3oegWGTjRuLbcou3oSUZ3C), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf), [NAIZA](https://open.spotify.com/artist/64tOF1AuYOTyd0JSDLTyo0), [Luna Manzanares](https://open.spotify.com/artist/6J4O8juzVNrJpZ0PNIGM6E), [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Sandra Love](https://open.spotify.com/artist/6G5tquDgGxnfOFjJ2ogXqm), [Juan Sueiro](https://open.spotify.com/artist/0zVeeM7NYxVYxb453RXcL8) | [A quién le importa](https://open.spotify.com/album/1iqyCZETxBHb57Mv4JqG1J) | 4:12 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGUzMmIwMzgwMWYyZWQzNDA0MTIwZTI5MjkyNjVlNDY4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGEwMmJjNzcwZDgwOWQ1NTE2ZjdmMTRiNGI4MjM0YTZi`

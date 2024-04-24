@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 
 > Feel on top of the world with these uplifting anthems of the 70s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,804 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,913 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWg3YRMu4AEF.md) - [plain]
 | 47 | [Solsbury Hill](https://open.spotify.com/track/6vZZtivPrtpggT5SSXsYTy) | [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I) | [Peter Gabriel 1: Car \(Remastered\)](https://open.spotify.com/album/0kDFjyfGFtiIMXlxJ120Ok) | 4:21 |
 | 48 | [Peaceful Easy Feeling \- 2013 Remaster](https://open.spotify.com/track/40h65HAR8COEoqkMwUUQHu) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [Eagles \(2013 Remaster\)](https://open.spotify.com/album/51B7LbLWgYLKBVSpkan8Z7) | 4:17 |
 | 49 | [Ooh La La](https://open.spotify.com/track/4lJ6YVXQ0jUk5ILu0PSrA4) | [Faces](https://open.spotify.com/artist/3v4feUQnU3VEUqFrjmtekL) | [Ooh La La](https://open.spotify.com/album/4eTVgxB6wm5eGvesA4cUN5) | 3:34 |
-| 50 | [Brown Sugar \- Remastered 2009](https://open.spotify.com/track/61UuPxxYUvacEH6SHIK3sU) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Sticky Fingers \(Remastered\)](https://open.spotify.com/album/29m6DinzdaD0OPqWKGyMdz) | 3:48 |
+| 50 | [\(They Long To Be\) Close To You](https://open.spotify.com/track/2kyVQg00pphEufGT59M2XH) | [Carpenters](https://open.spotify.com/artist/1eEfMU2AhEo7XnKgL7c304) | [Close To You](https://open.spotify.com/album/5z8MFnoVUIfVo6MQW0uIul) | 4:33 |
 
 Snapshot ID: `MTY4NjgzNTc1NywwMDAwMDAwMDMxNmM2OGNiNjUwMjUzNTFlMzY1N2NkMjY5OTY4ZjNh`

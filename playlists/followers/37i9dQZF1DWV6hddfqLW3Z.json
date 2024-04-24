@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 795518,
+  "2024-04-24": 795335,
   "date_first_scraped": "2022-09-09",
   "description": "Pegue seu caf\u00e9, ache um bom lugar para sentar, ajuste seu fone de ouvido e aproveite o momento.",
   "name": "Cafezinho",
@@ -187,6 +187,24 @@
       "duration_ms": 225018,
       "name": "Algo Parecido",
       "url": "https://open.spotify.com/track/1xd17oTRJ5sFIHySHLnad9"
+    },
+    {
+      "album": {
+        "name": "Real / Surreal (Deluxe)",
+        "url": "https://open.spotify.com/album/5QR2xVbwCNxOBgssCLEmhP"
+      },
+      "artists": [
+        {
+          "name": "Scalene",
+          "url": "https://open.spotify.com/artist/4PTd1rpXV7XDffOuLY7M0z"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170706,
+      "name": "Amanheceu",
+      "url": "https://open.spotify.com/track/2dnsqxCyWYslPCT6ajjUDI"
     },
     {
       "album": {
@@ -571,7 +589,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 212040,
       "name": "Concrete Jungle",
       "url": "https://open.spotify.com/track/2FgcXLNOqk8jr9S1HGdnio"

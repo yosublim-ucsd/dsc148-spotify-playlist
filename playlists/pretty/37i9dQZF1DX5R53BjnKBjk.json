@@ -1,6 +1,6 @@
 {
   "description": "Uma sele\u00e7\u00e3o de novos artistas da cena brasileira que voc\u00ea precisa conhecer.  Foto: dad\u00e1 Jo\u00e3ozinho / Arte: Isu Kim",
-  "num_followers": 19425,
+  "num_followers": 19431,
   "original_name": "Fresh Finds Brasil",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Boemia, de Fato",
-        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
-      },
-      "artists": [
-        {
-          "name": "NUNEZ",
-          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
-        },
-        {
-          "name": "Mano Lox",
-          "url": "https://open.spotify.com/artist/3VlSOz5b2gEI7vXilAVtsO"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Amor de Mar",
-      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Futurea",
         "url": "https://open.spotify.com/album/69xqVcgw0e3isdlb9WPv4K"
       },
@@ -183,6 +163,26 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Boemia, de Fato",
+        "url": "https://open.spotify.com/album/6u6IGXmGZNngMOA4zxrrmd"
+      },
+      "artists": [
+        {
+          "name": "NUNEZ",
+          "url": "https://open.spotify.com/artist/6RvP5pZMli48YYw0nwreXZ"
+        },
+        {
+          "name": "Mano Lox",
+          "url": "https://open.spotify.com/artist/3VlSOz5b2gEI7vXilAVtsO"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Amor de Mar",
+      "url": "https://open.spotify.com/track/0cOXBqb6bsKwyL9Edj8Yww"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Passa",
         "url": "https://open.spotify.com/album/0Z70oBy0p7wjoxnV1SyGkq"
       },
@@ -199,22 +199,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Um Brinde",
-        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
-      },
-      "artists": [
-        {
-          "name": "Rick Agra",
-          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
-        }
-      ],
-      "duration_ms": 153634,
-      "name": "Um Brinde",
-      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Ventilador",
         "url": "https://open.spotify.com/album/53ARAS1GKpLQYtHusiYkUs"
       },
@@ -227,6 +211,22 @@
       "duration_ms": 179076,
       "name": "Ventilador",
       "url": "https://open.spotify.com/track/5pks7N1kfqxMjh44BktzGM"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Um Brinde",
+        "url": "https://open.spotify.com/album/1vOwSOaTYvQd8cqvpGcFX2"
+      },
+      "artists": [
+        {
+          "name": "Rick Agra",
+          "url": "https://open.spotify.com/artist/0Nt78ssG93jnXJjmJO3KnN"
+        }
+      ],
+      "duration_ms": 153634,
+      "name": "Um Brinde",
+      "url": "https://open.spotify.com/track/1rt90TEAfqAtnfHZlI3uyV"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -463,6 +463,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
+        "name": "Tarde no Walkiria",
+        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
+      },
+      "artists": [
+        {
+          "name": "\u00cdtallo",
+          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
+        }
+      ],
+      "duration_ms": 239950,
+      "name": "Palavra de Amor",
+      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
         "name": "Bate Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/59fy8PyhcS41SP2Go7xLEE"
       },
@@ -479,22 +495,6 @@
       "duration_ms": 177141,
       "name": "Bate Cora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/3cKNmRGrd77JZ0PQVXPUhN"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
-        "name": "Tarde no Walkiria",
-        "url": "https://open.spotify.com/album/3d9WQ7ir8GSaHmMMog7qfr"
-      },
-      "artists": [
-        {
-          "name": "\u00cdtallo",
-          "url": "https://open.spotify.com/artist/3Z8iiGCNdH9SM2dxr0WZp9"
-        }
-      ],
-      "duration_ms": 239950,
-      "name": "Palavra de Amor",
-      "url": "https://open.spotify.com/track/7z8gTjbcWPazkxjybrwV3K"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -883,22 +883,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Devaneios",
-        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
+        "name": "Ma\u00e7\u00e3 do Amor",
+        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
       },
       "artists": [
         {
-          "name": "Fraterna Trip",
-          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
+          "name": "G\u00f3bi",
+          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
         },
         {
-          "name": "John",
-          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
+          "name": "Bianca Rhoden",
+          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
         }
       ],
-      "duration_ms": 201137,
-      "name": "Devaneios",
-      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
+      "duration_ms": 275882,
+      "name": "Se Eu Te Ver de Novo",
+      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -919,22 +919,22 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Ma\u00e7\u00e3 do Amor",
-        "url": "https://open.spotify.com/album/2b1X7WinJHgCeLO8LihyIa"
+        "name": "Devaneios",
+        "url": "https://open.spotify.com/album/0phS3hYLWXplAnJ6iEqTJh"
       },
       "artists": [
         {
-          "name": "G\u00f3bi",
-          "url": "https://open.spotify.com/artist/19nkGd7GShR772VW7nrhos"
+          "name": "Fraterna Trip",
+          "url": "https://open.spotify.com/artist/2qJbdrwX5dlARkvyea6FfL"
         },
         {
-          "name": "Bianca Rhoden",
-          "url": "https://open.spotify.com/artist/4Oi3CXGzhIlrGInMf36RkI"
+          "name": "John",
+          "url": "https://open.spotify.com/artist/5ZKMbk9PmY14dHKhIViFlF"
         }
       ],
-      "duration_ms": 275882,
-      "name": "Se Eu Te Ver de Novo",
-      "url": "https://open.spotify.com/track/0MehrXQw4CfMsyy3RPho7c"
+      "duration_ms": 201137,
+      "name": "Devaneios",
+      "url": "https://open.spotify.com/track/1plbDctYNoH59WBmSxgLtL"
     },
     {
       "added_at": "2023-11-30 21:58:24",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2023-11-30 21:58:24",
       "album": {
-        "name": "Por um Fio",
-        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
-      },
-      "artists": [
-        {
-          "name": "Sulamericana",
-          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
-        }
-      ],
-      "duration_ms": 189271,
-      "name": "Por um Fio",
-      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
-    },
-    {
-      "added_at": "2023-11-30 21:58:24",
-      "album": {
         "name": "Queda livre",
         "url": "https://open.spotify.com/album/0XBxBinisK7SboSGUFHZvp"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 198000,
       "name": "Queda livre",
       "url": "https://open.spotify.com/track/39w1alJZX8NjXmsmeLbjhX"
+    },
+    {
+      "added_at": "2023-11-30 21:58:24",
+      "album": {
+        "name": "Por um Fio",
+        "url": "https://open.spotify.com/album/7Ii1ewzjCQfZkULEOCMdDd"
+      },
+      "artists": [
+        {
+          "name": "Sulamericana",
+          "url": "https://open.spotify.com/artist/2FTphbeJlzLPNdfsOU7rRJ"
+        }
+      ],
+      "duration_ms": 189271,
+      "name": "Por um Fio",
+      "url": "https://open.spotify.com/track/1APCTPKE5pVFC8GUr2kMA4"
     },
     {
       "added_at": "2023-11-30 21:58:24",

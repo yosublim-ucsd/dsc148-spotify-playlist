@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,002 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,076 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 49 | [Benji Puts His Mum To Rest](https://open.spotify.com/track/34G1uKTSzL3Rw0FzX93Mpw) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:09 |
 | 50 | [Where The Wild Things](https://open.spotify.com/track/1ooP2mxAp73HtHb4KJ8dtB) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 3:18 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDEzZDU2MGI3YjM2NmJmYWMyOTdkNTIzMTg1ZDRiY2Y4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGQ2MWY1NTA4MGE2NmY5ODU2ODFkNGY1ODE1YmE0ZDg5`

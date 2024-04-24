@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 
 > me dicen tú, baby Mikooo ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 635,236 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 634,778 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5AVYhCeISA6.md) - [plain]
 | 24 | [PROVENZA](https://open.spotify.com/track/7dSZ6zGTQx66c2GF91xCrb) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [PROVENZA](https://open.spotify.com/album/1wLB2bnCl2m5m9M9g8r93Y) | 3:30 |
 | 25 | [1, 2, 3 \(feat\. Jason Derulo & De La Ghetto\)](https://open.spotify.com/track/737gzPI5VAmgUGWiJ9yXuu) | [Sofía Reyes](https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2), [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Mal De Amores](https://open.spotify.com/album/3F5VmDv3oeerueNteT7JFc) | 3:21 |
 | 26 | [La Triple T](https://open.spotify.com/track/1rEsfHhBFTuTPekF8M5O3f) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Cupido](https://open.spotify.com/album/3HWlgRjxW0H7fWm1n2LBbE) | 2:47 |
-| 27 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 |
-| 28 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
+| 27 | [Soy Mia](https://open.spotify.com/track/5anRovfNkeo83bshruaWX9) | [NATTI NATASHA](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV) | [Iluminatti](https://open.spotify.com/album/53k64d93T2Pwjy8x71zQVO) | 3:41 |
+| 28 | [JET\_Set.mp3](https://open.spotify.com/track/4AINuhTujSI5LmfO7sJRA8) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [NATHY PELUSO](https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN) | [JET\_Set.mp3](https://open.spotify.com/album/3UQ9Yd5Rsz6McPImmr3jWW) | 2:25 |
 | 29 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 |
 | 30 | [MAÑANA SERÁ BONITO](https://open.spotify.com/track/4bycD60yZgR6anIBtmU8UH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Carla Morrison](https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:30 |
 | 31 | [Bota Niña](https://open.spotify.com/track/2EbRFerXy6IPM3EfAOqZkB) | [Bad Gyal](https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Bota Niña](https://open.spotify.com/album/3RCMoOMrcSNTHKPVDQRERR) | 3:29 |
 | 32 | [bien](https://open.spotify.com/track/7iqWxH5QBMBKOPV8PzU482) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [un mechón de pelo](https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga) | 2:52 |
-| 33 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
-| 34 | [AMANECER](https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:23 |
+| 33 | [AMANECER](https://open.spotify.com/track/1JsmV1V1IRPR44tVDHpYUZ) | [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [CHILDSTAR](https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH) | 3:23 |
+| 34 | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/track/3LWay44eeYFEh27Gf1UA7J) | [RENEE](https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR) | [Nunca Tristes \(Me Vale Madre\)](https://open.spotify.com/album/5YoNvYemEqvFVdWicpjPe8) | 3:24 |
 | 35 | [Te Mata](https://open.spotify.com/track/4kvDU8vfvxupVezsVPag5v) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [Te Mata](https://open.spotify.com/album/6VSUq5wSN8VEYbFUdzJm7Z) | 3:52 |
 | 36 | [Minifalda](https://open.spotify.com/track/4cccqGxzMZXzBrdNUKjnIl) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX), [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Minifalda](https://open.spotify.com/album/67Pk3PkpV1j7xYf4dw001k) | 2:58 |
 | 37 | [Con los Años Que Me Quedan](https://open.spotify.com/track/5UPd6Gyj4aoaTUTlpWSak5) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Mi Tierra](https://open.spotify.com/album/2K2yvhTFeRBZdDboSQzFAJ) | 4:36 |

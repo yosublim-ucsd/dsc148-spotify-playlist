@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 
 ### [This Is Los Dos Carnales](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1bH9ni)
 
-> This Is Los Dos Carnales\. Los temas esenciales, todos en una lista.
+> This is Los Dos Carnales\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,365 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,412 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 16 | [Mis Raíces](https://open.spotify.com/track/3VbqAMmP2nCkxWfEFj9v0D) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:39 |
 | 17 | [Tuyo y Mío](https://open.spotify.com/track/4msyEItsAavVb5pZYCuz4n) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Mis Manos](https://open.spotify.com/album/1PuH88Md0tzB8UrnBfboJA) | 3:20 |
 | 18 | [El Corrido de Panchito](https://open.spotify.com/track/5X1fOMurUPOobZJj95NDef) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 3:22 |
-| 19 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 |
-| 20 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
+| 19 | [Mis Raíces](https://open.spotify.com/track/6d0JsZ14cVI4pkFFJl8wb5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cabrones y Vagos](https://open.spotify.com/album/0L6b2Rdy7a4OTY092E5Ei1) | 2:33 |
+| 20 | [El Mensaje](https://open.spotify.com/track/0kI4ECAdY6qItGhPa3TgJy) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Mensaje](https://open.spotify.com/album/4boHu426ldWkKuKjrDq4Mv) | 3:13 |
 | 21 | [Somos Arrieros](https://open.spotify.com/track/5fbpA0qTcTDd4I5h39ox4a) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Somos Arrieros](https://open.spotify.com/album/0LST5ZEgbeq7DAKBUlB5rT) | 2:58 |
 | 22 | [Ay Nomás](https://open.spotify.com/track/1GmqZP4DB7qi0MEMbdiHac) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Al Estilo Rancheron](https://open.spotify.com/album/7jomGVik8nyxBGpIMSCnRd) | 2:37 |
 | 23 | [Lupe Campos](https://open.spotify.com/track/4td9uuqgQFAzJ3qoJS6Ozx) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Circo](https://open.spotify.com/album/04lyNlxXhRxoZPC9RLq5Oq) | 3:36 |
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 26 | [Cholos al Punto](https://open.spotify.com/track/7knvkQS97TeGHM4MdoohpB) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Cholos al Punto](https://open.spotify.com/album/2cPLZSwKE24J1sZLqzoIg1) | 2:39 |
 | 27 | [El Mismo \- En Vivo](https://open.spotify.com/track/6hSV8Iaro3R8BwzSJXUNhy) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Dio Vuelta la Moneda \(En Vivo\)](https://open.spotify.com/album/2voNK949lqZy11l6U52x58) | 2:37 |
 | 28 | [La Propina](https://open.spotify.com/track/3MNizqH3Vgli5czbnBDCie) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [La Propina](https://open.spotify.com/album/5Fe9UKkyuhIZQLkx0MnrqL) | 2:22 |
-| 29 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 |
-| 30 | [Me Estoy Acostumbrando](https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:09 |
+| 29 | [Me Estoy Acostumbrando](https://open.spotify.com/track/123ZTlYqsFk57j8Q9ge47R) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Boleros de Hoy](https://open.spotify.com/album/7HG8mHWv4u3KBrzRfiMjox) | 3:09 |
+| 30 | [El Estrés](https://open.spotify.com/track/5MsVbEhkVyVUf6YeIp0WAk) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Los Dos Carnales Con Sax](https://open.spotify.com/album/0h2aKd80PYoq8U4oP3iAlo) | 3:47 |
 | 31 | [No Estaré Aquí](https://open.spotify.com/track/3em3YfqWFgBXqwPehgti6l) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [No Estaré Aquí](https://open.spotify.com/album/37w7YHhpXOlpSPpiXm4D0b) | 2:26 |
 | 32 | [Home Run](https://open.spotify.com/track/4wsxPS9JoTlBfsUmdgYFiC) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Borracho](https://open.spotify.com/album/5njN1rfBj1cSTtGAV16lta) | 2:48 |
 | 33 | [Kilómetro 11\-60 \- En Vivo](https://open.spotify.com/track/6QQ2oYrRCeHNpAW9NehqzX) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3), [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi) | [Corridos Con Olor a Monte \(En Vivo\)](https://open.spotify.com/album/6Ip0lzUjI4ICXLKpdRpZDU) | 3:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1bH9ni.md) - [plain]
 | 49 | [Cabrón y Vago \- En Vivo](https://open.spotify.com/track/4Baf5WbZIHnItDgprvfX6G) | [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [Recordando los Inicios \(En Vivo\)](https://open.spotify.com/album/1h5zAN0B3z5IUnaXFg6H6B) | 2:21 |
 | 50 | [El Federal de Caminos](https://open.spotify.com/track/5gV3vaCDEedjUoFXqI6LGh) | [LOS DOS DE TAMAULIPAS](https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi), [Los Dos Carnales](https://open.spotify.com/artist/25UNJbwGZSQKvz5cPLWlv3) | [El Federal de Caminos](https://open.spotify.com/album/3S76sDaZy2ioOzhQX2ckOl) | 3:03 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDJjZmZjYTgzYTQwOWNhNDU5NWE4YjQwMGQ3M2JjOThl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGFjNmMxZWY2MmZhNzkzNTJlZDQ1ZGRiZTE4ZWRjZjA1`

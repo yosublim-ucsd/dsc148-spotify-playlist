@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 
 > Los próceres de la historia del rock nacional\. El Novio de México en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,074 likes - 100 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,090 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYMHB55fgZrY.md) - [plain]
 | 77 | [Afroman](https://open.spotify.com/track/4Ghq7XXreyLUJmmRBGlbbw) | [Plastilina Mosh](https://open.spotify.com/artist/4PtVXWSOmF4Tox1jj6ctSq) | [Aquamosh](https://open.spotify.com/album/6QxPNkckiFeiIB5ijjyWSk) | 3:39 |
 | 78 | [Botas Negras](https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT) | [Radio Kaos](https://open.spotify.com/artist/2kS6fJbWluJG8ay4WDRUIc) | [Botas Negras](https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox) | 5:43 |
 | 79 | [Estático](https://open.spotify.com/track/0uZvNFgJxJnwFF7pQycIzH) | [Zurdok](https://open.spotify.com/artist/6aknH45IYM52OZgDiamuMF) | [Maquillaje](https://open.spotify.com/album/0fUtuTbbZ7rqU1cQqZ0RFu) | 4:00 |
-| 80 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
-| 81 | [Nos Tragamos](https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:09 |
+| 80 | [Nos Tragamos](https://open.spotify.com/track/2A8MWa3QBtZaPE7oXMGGHe) | [San Pascualito Rey](https://open.spotify.com/artist/3y4u1V2WmArOAws2yjRVi6) | [Sufro Sufro Sufro](https://open.spotify.com/album/0np21WDUyCaqdEB2grsjcx) | 4:09 |
+| 81 | [Corazon](https://open.spotify.com/track/16UE8ZYzWC2tTA4EmIM58B) | [Titán](https://open.spotify.com/artist/4pznqIbj3YFnwvG44k1GIu) | [Elevator](https://open.spotify.com/album/2C2nZrvhfYm06xbhrUjjl9) | 4:37 |
 | 82 | [De Mis Pasos](https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ) | [Julieta Venegas](https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm) | [Aqui](https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ) | 3:18 |
 | 83 | [Horror Amor](https://open.spotify.com/track/4yG7J0NdjBVsM77nw24WIz) | [$6 Million Dollar Weirdo](https://open.spotify.com/artist/1s0oZV9v5zH3A9exHV7RlL) | [Ep1](https://open.spotify.com/album/0A506zY9EIXw9KeCm4x6nY) | 3:47 |
 | 84 | [Me Quieres Cotorrear](https://open.spotify.com/track/3x6PbRi1ExFp6I5CjUxSPR) | [Kenny y los Eléctricos](https://open.spotify.com/artist/4HvW0NM2QwnXGZXxLRuW1N) | [La Historia](https://open.spotify.com/album/2NN9Cm20CPmuzlbCqeaHGH) | 3:17 |

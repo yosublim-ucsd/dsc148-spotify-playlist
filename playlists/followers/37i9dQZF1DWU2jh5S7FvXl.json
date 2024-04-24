@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 87882,
+  "2024-04-24": 87892,
   "date_first_scraped": "2022-06-06",
   "description": "Just try not to move to this mix of recent hits. Cover: Kx5",
   "name": "Dance Favourites",
@@ -5446,6 +5446,28 @@
     },
     {
       "album": {
+        "name": "Rhyme Dust",
+        "url": "https://open.spotify.com/album/53MYxcczbSWNjO6KIG5DuG"
+      },
+      "artists": [
+        {
+          "name": "MK",
+          "url": "https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9"
+        },
+        {
+          "name": "Dom Dolla",
+          "url": "https://open.spotify.com/artist/205i7E8fNVfojowcQSfK9m"
+        }
+      ],
+      "date_added": "2024-02-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181364,
+      "name": "Rhyme Dust",
+      "url": "https://open.spotify.com/track/5mKiwDDrwG22qKKVL6JZqF"
+    },
+    {
+      "album": {
         "name": "Ride It",
         "url": "https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E"
       },
@@ -6217,7 +6239,7 @@
       ],
       "date_added": "2022-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 273997,
       "name": "SUMMER RENAISSANCE",
       "url": "https://open.spotify.com/track/3HyR1j49TY5ACP2lseF1jx"

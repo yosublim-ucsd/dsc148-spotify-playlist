@@ -1,6 +1,6 @@
 {
   "description": "Softer kinda <a href=\"spotify:genre:edm_dance\">dance</a>.",
-  "num_followers": 3696746,
+  "num_followers": 3695199,
   "original_name": "Chill Tracks",
   "owner": {
     "name": "Spotify",
@@ -607,66 +607,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Lonely",
-        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
-      },
-      "artists": [
-        {
-          "name": "CLOVER",
-          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
-        },
-        {
-          "name": "Plaha",
-          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
-        },
-        {
-          "name": "Piece Wise",
-          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
-        }
-      ],
-      "duration_ms": 178604,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Cold Enough For Snow",
-        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Julia Church",
-          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
-        }
-      ],
-      "duration_ms": 251731,
-      "name": "Glasshouse (feat. Julia Church)",
-      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        }
-      ],
-      "duration_ms": 239334,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Favourite Place",
         "url": "https://open.spotify.com/album/0hi96KFhhFchURSGce2nq1"
       },
@@ -707,6 +647,66 @@
       "duration_ms": 235702,
       "name": "Flown",
       "url": "https://open.spotify.com/track/6gCjAOIzTnH7knVlAOvhFH"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/6YZz8CZAqqCyxyf01ix0TX"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        }
+      ],
+      "duration_ms": 239334,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/6G9Q0Br0TIdJuvaL3dTsoz"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Lonely",
+        "url": "https://open.spotify.com/album/4tja9y8DTcIwetXDI8Lalm"
+      },
+      "artists": [
+        {
+          "name": "CLOVER",
+          "url": "https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC"
+        },
+        {
+          "name": "Plaha",
+          "url": "https://open.spotify.com/artist/6zYjUGkES36bUhs1hWqmQU"
+        },
+        {
+          "name": "Piece Wise",
+          "url": "https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk"
+        }
+      ],
+      "duration_ms": 178604,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/56v1HwCZeldmJ82yViKQhZ"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Cold Enough For Snow",
+        "url": "https://open.spotify.com/album/0Mc3GAbIwtgywCJadgGFgi"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Julia Church",
+          "url": "https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727"
+        }
+      ],
+      "duration_ms": 251731,
+      "name": "Glasshouse (feat. Julia Church)",
+      "url": "https://open.spotify.com/track/1fUyoGJs0QM15YnBFUwOVb"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -831,6 +831,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Body",
+        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+      },
+      "artists": [
+        {
+          "name": "Nathan C",
+          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+        },
+        {
+          "name": "Lilly Ahlberg",
+          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+        }
+      ],
+      "duration_ms": 204761,
+      "name": "Body",
+      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/76KSQ3akvHhp39YWJAQsTx"
       },
@@ -851,26 +871,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "IOU",
-        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
-      },
-      "artists": [
-        {
-          "name": "EMBRZ",
-          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
-        },
-        {
-          "name": "Lizzy Land",
-          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
-        }
-      ],
-      "duration_ms": 212906,
-      "name": "IOU",
-      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "DESCEND",
         "url": "https://open.spotify.com/album/3cfa9GsEVzMU1tFt0TkDQY"
       },
@@ -887,22 +887,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Body",
-        "url": "https://open.spotify.com/album/3TWWMgB3Jro6ei4vSBFwEa"
+        "name": "IOU",
+        "url": "https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp"
       },
       "artists": [
         {
-          "name": "Nathan C",
-          "url": "https://open.spotify.com/artist/2mNOoqXYY177q7TtuqJL9q"
+          "name": "EMBRZ",
+          "url": "https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh"
         },
         {
-          "name": "Lilly Ahlberg",
-          "url": "https://open.spotify.com/artist/2s8bgT1CE6KOA0a2omeCDk"
+          "name": "Lizzy Land",
+          "url": "https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux"
         }
       ],
-      "duration_ms": 204761,
-      "name": "Body",
-      "url": "https://open.spotify.com/track/56MET7XMqoUAsoC07pkkSB"
+      "duration_ms": 212906,
+      "name": "IOU",
+      "url": "https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1004,9 +1004,25 @@
           "url": "https://open.spotify.com/artist/66MHOWX8McW33r6RTu49ZY"
         }
       ],
-      "duration_ms": 216000,
+      "duration_ms": 215000,
       "name": "This Is Love",
       "url": "https://open.spotify.com/track/0bM4BcYlz8hyOC3g1j83UD"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "When The Light Breaks",
+        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
+      },
+      "artists": [
+        {
+          "name": "Vandelux",
+          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
+        }
+      ],
+      "duration_ms": 191557,
+      "name": "Right Now",
+      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1027,22 +1043,6 @@
       "duration_ms": 263503,
       "name": "This Is It",
       "url": "https://open.spotify.com/track/1RmdXgrkvOYnHrXbz2A8WC"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "When The Light Breaks",
-        "url": "https://open.spotify.com/album/3M6HrQ6zlE9wwcVmLB5r2h"
-      },
-      "artists": [
-        {
-          "name": "Vandelux",
-          "url": "https://open.spotify.com/artist/2rdSCmWgrIWA8pmwhS1T2k"
-        }
-      ],
-      "duration_ms": 191557,
-      "name": "Right Now",
-      "url": "https://open.spotify.com/track/6dB3JYkDHYOIiEG3WpIjde"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
+      },
+      "artists": [
+        {
+          "name": "Carlita",
+          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+        }
+      ],
+      "duration_ms": 124710,
+      "name": "Time - Edit",
+      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Pangea",
         "url": "https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 241983,
       "name": "Pangea (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Time",
-        "url": "https://open.spotify.com/album/0Q4VYWUJUfB8nRz4XNNEEp"
-      },
-      "artists": [
-        {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
-        }
-      ],
-      "duration_ms": 124710,
-      "name": "Time - Edit",
-      "url": "https://open.spotify.com/track/3VNoo8PUhcbWG0oxHcpeBs"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1487,26 +1487,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Pieces",
-        "url": "https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC"
-      },
-      "artists": [
-        {
-          "name": "Forester",
-          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
-        },
-        {
-          "name": "Leo Stannard",
-          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
-        }
-      ],
-      "duration_ms": 257560,
-      "name": "Pieces",
-      "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Summer Love (Jan Blomqvist Remix)",
         "url": "https://open.spotify.com/album/68scr1Ev9AoX1Czp74KJ6i"
       },
@@ -1523,6 +1503,26 @@
       "duration_ms": 349400,
       "name": "Summer Love - Jan Blomqvist Remix",
       "url": "https://open.spotify.com/track/7tbrktfjBjRc12mE9cV8ri"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Pieces",
+        "url": "https://open.spotify.com/album/0nU0MVCOgtsWRJJOTxADyC"
+      },
+      "artists": [
+        {
+          "name": "Forester",
+          "url": "https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc"
+        },
+        {
+          "name": "Leo Stannard",
+          "url": "https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0"
+        }
+      ],
+      "duration_ms": 257560,
+      "name": "Pieces",
+      "url": "https://open.spotify.com/track/2Rzn7HieHsGDMIJNNGFKyg"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Lost In Time",
-        "url": "https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f"
-      },
-      "artists": [
-        {
-          "name": "Tobias Bergson",
-          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
-        }
-      ],
-      "duration_ms": 324000,
-      "name": "Lost In Time",
-      "url": "https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Enter",
         "url": "https://open.spotify.com/album/519cygxrNzWY4C3hyTdMHk"
       },
@@ -1599,6 +1583,22 @@
       "duration_ms": 240316,
       "name": "Losing Game",
       "url": "https://open.spotify.com/track/3tCA2JJ8Udtnry8BIMQijU"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Lost In Time",
+        "url": "https://open.spotify.com/album/3WF0tSjsDIbYgdttZTWO8f"
+      },
+      "artists": [
+        {
+          "name": "Tobias Bergson",
+          "url": "https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3"
+        }
+      ],
+      "duration_ms": 324000,
+      "name": "Lost In Time",
+      "url": "https://open.spotify.com/track/3NgS3hX9JXheEU0g7c1H7T"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1647,6 +1647,26 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U"
+      },
+      "artists": [
+        {
+          "name": "Jerro",
+          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
+        },
+        {
+          "name": "Kasbo",
+          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
+        }
+      ],
+      "duration_ms": 297803,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
         "name": "Solitude",
         "url": "https://open.spotify.com/album/6686LB7eTGiHwFtOU0IkSC"
       },
@@ -1667,22 +1687,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
-      },
-      "artists": [
-        {
-          "name": "Joris Voorn",
-          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
-        }
-      ],
-      "duration_ms": 199682,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Gleams",
         "url": "https://open.spotify.com/album/4YrxxFmElZO6FgUjc8R3Lo"
       },
@@ -1695,6 +1699,22 @@
       "duration_ms": 293133,
       "name": "Gleams",
       "url": "https://open.spotify.com/track/07SjDKarzZO519FaIfGxT1"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/5zAjWJkgSUpFaWjk9t17I2"
+      },
+      "artists": [
+        {
+          "name": "Joris Voorn",
+          "url": "https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU"
+        }
+      ],
+      "duration_ms": 199682,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5YN7zT6oM0FduuivNbVRgi"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1803,42 +1823,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "How Does It Feel",
-        "url": "https://open.spotify.com/album/784uIN74gtMGGKTQNDnB4U"
-      },
-      "artists": [
-        {
-          "name": "Jerro",
-          "url": "https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K"
-        },
-        {
-          "name": "Kasbo",
-          "url": "https://open.spotify.com/artist/1ikID9RZZMvkuBGDWrqajq"
-        }
-      ],
-      "duration_ms": 297803,
-      "name": "How Does It Feel",
-      "url": "https://open.spotify.com/track/1hrle9bhEQsnykiEWXzDa9"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "Friday Lake",
-        "url": "https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova"
-      },
-      "artists": [
-        {
-          "name": "Catching Flies",
-          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
-        }
-      ],
-      "duration_ms": 196500,
-      "name": "Friday Lake",
-      "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Burnin'",
         "url": "https://open.spotify.com/album/1dLN65huLLcvL8Vjq9QyAK"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 341409,
       "name": "Burnin'",
       "url": "https://open.spotify.com/track/2OwotsG0NuhOapwalJtqMV"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Friday Lake",
+        "url": "https://open.spotify.com/album/17u0E5PLaCn1SJMPXj8Ova"
+      },
+      "artists": [
+        {
+          "name": "Catching Flies",
+          "url": "https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ"
+        }
+      ],
+      "duration_ms": 196500,
+      "name": "Friday Lake",
+      "url": "https://open.spotify.com/track/6maRenLzXyL8x72a2gTDMY"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1899,26 +1899,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Nothing To Lose (feat. Circa Waves)",
-        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        },
-        {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
-        }
-      ],
-      "duration_ms": 258284,
-      "name": "Nothing To Lose (feat. Circa Waves)",
-      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "The Woods (The Kite String Tangle Remix)",
         "url": "https://open.spotify.com/album/79Qp0naxcBtsNeti5P2gNg"
       },
@@ -1935,6 +1915,26 @@
       "duration_ms": 231425,
       "name": "The Woods - The Kite String Tangle Remix",
       "url": "https://open.spotify.com/track/7zzkfz6RDlOvbYP39p9JP7"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Nothing To Lose (feat. Circa Waves)",
+        "url": "https://open.spotify.com/album/25b7zCdvfIzaKupV2GRPvw"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        },
+        {
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+        }
+      ],
+      "duration_ms": 258284,
+      "name": "Nothing To Lose (feat. Circa Waves)",
+      "url": "https://open.spotify.com/track/4iU0r23eZnO9uOQ0y0xJ7F"
     },
     {
       "added_at": "2024-04-19 04:00:00",

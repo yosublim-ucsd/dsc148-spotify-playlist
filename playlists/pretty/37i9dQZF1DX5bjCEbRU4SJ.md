@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 
 > Calm Down with this chilled out playlist\. For when it's time to just sit and bask in the afterglow.
 
-[Spotify](https://open.spotify.com/user/spotify) - 552,785 likes - 70 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 552,382 likes - 70 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,16 +40,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5bjCEbRU4SJ.md) - [plain]
 | 30 | [Only Love](https://open.spotify.com/track/0QB71BDzh36guAExsTIgNO) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Every Kingdom](https://open.spotify.com/album/1HWi1cL1VGLCiIYGfvHJmG) | 4:09 |
 | 31 | [Fire and Rain](https://open.spotify.com/track/3LcYYV9ozePfgYYmXv0P3r) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Sweet Baby James](https://open.spotify.com/album/2NEQ5Q4sBbUHVVx3Wf8TEZ) | 3:20 |
 | 32 | [Nicole](https://open.spotify.com/track/4N9OaYVfmzxcOOPNFyAUjV) | [Gravenhurst](https://open.spotify.com/artist/1nqfBsX1oJ0jTDTyA18xH9) | [Fires In Distant Buildings](https://open.spotify.com/album/1erl73PdaM7Liy07kBZZmN) | 5:13 |
-| 33 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
-| 34 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
-| 35 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
+| 33 | [Three Months](https://open.spotify.com/track/7rJBr0zLQQyHws9E9Ck8P8) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:30 |
+| 34 | [Farewell Transmission](https://open.spotify.com/track/4fkAWGCbxNizyNwsHlrajH) | [Songs: Ohia](https://open.spotify.com/artist/3uQ5cxFHxXddqPL58egs1z) | [Magnolia Electric Co\. \(Deluxe Edition\)](https://open.spotify.com/album/41RHNc47RzqBt9FBmhb8YY) | 7:22 |
+| 35 | [I Don't Know](https://open.spotify.com/track/6ejOqrr7r2LcUDxIqZyygp) | [Nick Hakim](https://open.spotify.com/artist/1Goe2NezNnym45kco2xTk6) | [Where Will We Go, Pt\. 2](https://open.spotify.com/album/0bBNzY4QWzJQeINFVoum9v) | 4:59 |
 | 36 | [There Can Be Only One](https://open.spotify.com/track/6mbbXTBC7ADcjh5RCNrooU) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Big Wheel and Others](https://open.spotify.com/album/56KG63TFrh23oy9lcqPEnt) | 4:17 |
-| 37 | [The Magician](https://open.spotify.com/track/0pNA2zQRy93duN1zqbcL3T) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Magician](https://open.spotify.com/album/3HMfETBoNhyuPPoVEtdmbm) | 3:51 |
-| 38 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
-| 39 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
-| 40 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
-| 41 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
-| 42 | [Three Months](https://open.spotify.com/track/7rJBr0zLQQyHws9E9Ck8P8) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ) | [Hummingbird](https://open.spotify.com/album/1Zmq4tEgCSyTkud2ahysrq) | 4:30 |
+| 37 | [The Weight \- Remastered](https://open.spotify.com/track/0sDqo9UPzPUtu9wEkI3zRB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Expanded Edition\)](https://open.spotify.com/album/0nuPXgAXAfPmz9AW1PPrlk) | 4:38 |
+| 38 | [The Magician](https://open.spotify.com/track/0pNA2zQRy93duN1zqbcL3T) | [Andy Shauf](https://open.spotify.com/artist/5mFKYdmiYwNJTDtSzgFyQx) | [The Magician](https://open.spotify.com/album/3HMfETBoNhyuPPoVEtdmbm) | 3:51 |
+| 39 | [Sunday Morning](https://open.spotify.com/track/3lX49Bqy21Y5HneUJ7p55G) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary \(Super Deluxe Edition\)](https://open.spotify.com/album/1gGjSTfser1MPfowGiuy9l) | 2:55 |
+| 40 | [To Be Alone With You](https://open.spotify.com/track/3tchJ8gDgMdaSxpaLxlr1F) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Seven Swans](https://open.spotify.com/album/71M94qZwSYHxlae0EFxpsy) | 2:48 |
+| 41 | [Maybe I’m Amazed \- Remastered 2011](https://open.spotify.com/track/34jOBavlBgAG0ILZOlXmWm) | [Paul McCartney](https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB) | [McCartney \(Special Edition\)](https://open.spotify.com/album/764Xck7VA3j2dZraTUI09H) | 3:49 |
+| 42 | [Nancy From Now On](https://open.spotify.com/track/0qHrE21zGV4DThyfx0HdFu) | [Father John Misty](https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT) | [Fear Fun](https://open.spotify.com/album/0r0uA6OMU5fTbWetcMf867) | 3:54 |
 | 43 | [Walk on the Wild Side](https://open.spotify.com/track/0EFEkt29P7Icr7dO4vN6yk) | [Lou Reed](https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL) | [Transformer](https://open.spotify.com/album/3JKDzf9F11y9kjWnehKna1) | 4:13 |
 | 44 | [Mad Sounds](https://open.spotify.com/track/3msQ1AerRdSbjrBk3F4W0q) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [AM](https://open.spotify.com/album/5bU1XKYxHhEwukllT20xtk) | 3:35 |
 | 45 | [The Upswing](https://open.spotify.com/track/6eCnpakN2g0R7CQttki1cg) | [Bell X1](https://open.spotify.com/artist/2fGa9song5Gee8UEGf6W7I) | [Arms](https://open.spotify.com/album/4mgRBnUuUT2YjT8mqcxwcf) | 4:59 |

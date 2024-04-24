@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 
 > Porque no to' e' Dembow en RD loco\. Portada: Dowba Montana
 
-[Spotify](https://open.spotify.com/user/spotify) - 231,964 likes - 65 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 232,087 likes - 65 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZVuIRLEh0tE.md) - [plain]
 | 3 | [Voy Después](https://open.spotify.com/track/2FjjWl25GW1MPVIgHgZcyD) | [Amenazzy](https://open.spotify.com/artist/6kq4GHwUcUojGIu0ziSNXf) | [Voy Después](https://open.spotify.com/album/1gzRiTyJJG9l8RDPc2YTr4) | 3:22 |
 | 4 | [Tiki Tiki](https://open.spotify.com/track/1JnRfqRvQN2sjQJlINz6cl) | [Chocoleyrol](https://open.spotify.com/artist/2kF83E9c7WmW5XdqwUrJd2), [Yeral El De Lo Palo](https://open.spotify.com/artist/0gNBwt2gBwViwnZKRYoPJb) | [Tiki Tiki](https://open.spotify.com/album/17Hmvcc0QZCowX7ut7D2Td) | 2:01 |
 | 5 | [Salida](https://open.spotify.com/track/4iXYOa1juyX4ovosDzNSMv) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ), [Foreign Teck](https://open.spotify.com/artist/12lHTAdc9T204lw5qPtasv) | [Salida](https://open.spotify.com/album/1a6tdnMxKaseyvfzhiAiUy) | 2:14 |
-| 6 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy), [Dime Platino](https://open.spotify.com/artist/2LC4ljtDWdhDMGPprXWyZN) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
+| 6 | [Delincuente Con Traje](https://open.spotify.com/track/24dH4IFNJmxgYKruvERgMM) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [Delincuente Con Traje](https://open.spotify.com/album/2C5EwUJUFVaIrc1JRMmp9G) | 2:27 |
 | 7 | [Ante](https://open.spotify.com/track/6GjJOJ3TWG4TTNmQ12fInn) | [NTG](https://open.spotify.com/artist/6GlX3FdCQrMftGfVaWcmPZ) | [Ante](https://open.spotify.com/album/5nwY2q23E9tzoONdq8x0La) | 2:05 |
 | 8 | [Bad Bxtch](https://open.spotify.com/track/4BEcJvyMdI4ux7WlNCzo3R) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Bad Bxtch](https://open.spotify.com/album/2FP12DnDWJk9MG81zX0C7j) | 2:20 |
 | 9 | [DM](https://open.spotify.com/track/0XKqFNGb80dIVeVKVyAitY) | [Yailin la Mas Viral](https://open.spotify.com/artist/4ncaw2cfA3Wlly1tBD2eWt) | [Resiliencia](https://open.spotify.com/album/3VtCd0WwP9PUzQzt00fyiE) | 2:18 |

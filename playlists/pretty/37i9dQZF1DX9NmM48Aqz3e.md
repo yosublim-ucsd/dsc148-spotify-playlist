@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9NmM48Aqz3e.md) - [plain]
 
 > Favourites from Canadians who dominated the 1990s\. Cover: Alanis Morissette
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,485 likes - 100 songs - 7 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,495 likes - 100 songs - 7 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

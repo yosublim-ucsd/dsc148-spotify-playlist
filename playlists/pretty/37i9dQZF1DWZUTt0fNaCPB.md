@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 
 > No need for a gadget, just play these rock songs to set your pace!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,053,330 likes - 75 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,053,150 likes - 75 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 25 | [I Don't Wanna Stop](https://open.spotify.com/track/5axOkQnmQmwtjr4bv1Xt7i) | [Ozzy Osbourne](https://open.spotify.com/artist/6ZLTlhejhndI4Rh53vYhrY) | [Black Rain \(Expanded Edition\)](https://open.spotify.com/album/6wiS0vTk9GfsiUKJEOav8Z) | 3:59 |
 | 26 | [Superbeast](https://open.spotify.com/track/4eNnMvUrSu2TRpySjVC0Pv) | [Rob Zombie](https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5) | [Hellbilly Deluxe](https://open.spotify.com/album/2B4lHoTCpWbxQPTZmCOjnH) | 3:40 |
 | 27 | [Stranded](https://open.spotify.com/track/60fUDmIWuKhngaeBIVhqIV) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt) | [Magma](https://open.spotify.com/album/7D7V6M05UIOTjLdqbwRX0w) | 4:29 |
-| 28 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
-| 29 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
+| 28 | [Paranoia](https://open.spotify.com/track/3HhaSocKwTptze7PySNZlW) | [A Day To Remember](https://open.spotify.com/artist/4NiJW4q9ichVqL1aUsgGAN) | [Bad Vibrations \(Deluxe Edition\)](https://open.spotify.com/album/5rSgMFmmuaKQxma4bSEviU) | 3:20 |
+| 29 | [The Devil's Bleeding Crown](https://open.spotify.com/track/3TjQAc2PzWzlSDrnq61J1y) | [Volbeat](https://open.spotify.com/artist/0L5fC7Ogm2YwgqVCRcF1bT) | [Seal The Deal & Let's Boogie \(Deluxe\)](https://open.spotify.com/album/3v78ZZiv9L2Fb5x5fC8kVC) | 3:58 |
 | 30 | [Enemies](https://open.spotify.com/track/1SDl9wY1MqbpJQW0yKEWxL) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [Amaryllis](https://open.spotify.com/album/2WvIDc4wdKshyFh2EzLAs0) | 3:08 |
 | 31 | [Psychosocial](https://open.spotify.com/track/2MvIMgtWyK88OiPi0J8Dg3) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [All Hope Is Gone](https://open.spotify.com/album/0hFWapnP7orzXCMwNU5DuA) | 4:43 |
 | 32 | [Inside the Fire](https://open.spotify.com/track/5cxp9kjCFyJwzv3lzeX7ku) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [Indestructible \(Deluxe Edition\)](https://open.spotify.com/album/6hz9f6H7URtoigU517WjD6) | 3:51 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZUTt0fNaCPB.md) - [plain]
 | 63 | [Hollywood](https://open.spotify.com/track/5ns4Dobpei2ze7NJvgigNT) | [After Midnight Project](https://open.spotify.com/artist/1CCtRpOlg6EL0HP9DdEtk4) | [Let's Build Something To Break](https://open.spotify.com/album/1VbvHqARu0WjoXRiF2yak7) | 3:02 |
 | 64 | [She's A Blast](https://open.spotify.com/track/428x14AvuMoTmmO6pBeozu) | [Beautiful Bodies](https://open.spotify.com/artist/1L5Wcid8qi4K85Ynq7mLaZ) | [Battles](https://open.spotify.com/album/7mYRLbEp6R5P5iYadPENUy) | 2:47 |
 | 65 | [Killing Time](https://open.spotify.com/track/0GMymbP7AQkxEt5nq20BfZ) | [Doom Unit](https://open.spotify.com/artist/4qb82fknNpR3TQGbpmhMxC) | [Cross The Line](https://open.spotify.com/album/1s8DrerI7Ios2Wre9V4z0V) | 3:57 |
-| 66 | [Raven's Flight](https://open.spotify.com/track/6MUxFq07nqKi16xJ56CLZW) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Raven's Flight](https://open.spotify.com/album/1BegkvFXzbtzefGeFq0gH0) | 5:20 |
-| 67 | [Untouched](https://open.spotify.com/track/5HZOQLjnUJkqcOdLZomiIo) | [The Local Band](https://open.spotify.com/artist/48Na4uSLjGeKvx2AUSDmKZ) | [Locals Only \- Dark Edition](https://open.spotify.com/album/2IdQFKiNoDMDlcU9NUmJYu) | 4:11 |
+| 66 | [Untouched](https://open.spotify.com/track/5HZOQLjnUJkqcOdLZomiIo) | [The Local Band](https://open.spotify.com/artist/48Na4uSLjGeKvx2AUSDmKZ) | [Locals Only \- Dark Edition](https://open.spotify.com/album/2IdQFKiNoDMDlcU9NUmJYu) | 4:11 |
+| 67 | [Raven's Flight](https://open.spotify.com/track/6MUxFq07nqKi16xJ56CLZW) | [Amon Amarth](https://open.spotify.com/artist/3pulcT2wt7FEG10lQlqDJL) | [Raven's Flight](https://open.spotify.com/album/1BegkvFXzbtzefGeFq0gH0) | 5:20 |
 | 68 | [Run Run Run](https://open.spotify.com/track/144fBZWn4968hszzQkXV9q) | [Black Paisley](https://open.spotify.com/artist/6mGp1hXgz27GRQOkHD8d5m) | [Late Bloomer](https://open.spotify.com/album/6ArbLISzajVrvRQ95O25il) | 4:30 |
 | 69 | [Cannot Be Judged](https://open.spotify.com/track/2KxLX1zzJ6A2tgYgqdKRvh) | [Full House Brew Crew](https://open.spotify.com/artist/3KUdRZ13QmXU2FHZZFL6aL) | [Me Against You](https://open.spotify.com/album/5bzSu7IkGapeqXlXB2MgC6) | 3:37 |
 | 70 | [Bear the Cross](https://open.spotify.com/track/0KU8BYpNr112tz68grzVVp) | [Poisonblack](https://open.spotify.com/artist/1mBXJUab9jbcHhYxMuWbxO) | [A Dead Heavy Day](https://open.spotify.com/album/1Nt7VK5YdHhI1ZeCq15RxK) | 3:50 |

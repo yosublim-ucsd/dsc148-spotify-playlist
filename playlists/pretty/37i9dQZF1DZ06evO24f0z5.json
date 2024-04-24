@@ -1,12 +1,12 @@
 {
   "description": "This Is Zona Ganjah. Los temas esenciales, todos en una lista.",
-  "num_followers": 78668,
+  "num_followers": 78705,
   "original_name": "This Is Zona Ganjah",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDljNDU2NmQ0YTMxNzdkNmJlYWQ4NWI4ZjRkYjkxMTRl",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGI1NjIwZWZmODA4ZmI2ZTAzYWE3YWQxODcxMWE5NTk4",
   "tracks": [
     {
       "added_at": null,
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 198855,
-      "name": "Amor",
-      "url": "https://open.spotify.com/track/5wleH1Q7TtVP81uDoCztKd"
+      "duration_ms": 183103,
+      "name": "Esa luz",
+      "url": "https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2"
         }
       ],
-      "duration_ms": 183103,
-      "name": "Esa luz",
-      "url": "https://open.spotify.com/track/7oybXXuWUzWRZ7SP9swASq"
+      "duration_ms": 198855,
+      "name": "Amor",
+      "url": "https://open.spotify.com/track/5wleH1Q7TtVP81uDoCztKd"
     },
     {
       "added_at": null,

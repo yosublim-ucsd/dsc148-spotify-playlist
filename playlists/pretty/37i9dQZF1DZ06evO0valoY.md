@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 
 ### [This Is Eslabon Armado](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0valoY)
 
-> This is Eslabon Armado\. The essential tracks, all in one playlist.
+> This Is Eslabon Armado\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,177 likes - 46 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,265 likes - 46 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0valoY.md) - [plain]
 | 45 | [Tres de la Mañana](https://open.spotify.com/track/2KZVUNMAbJ30Tvy9PkY7dB) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Tu Veneno Mortal](https://open.spotify.com/album/6fLur4KDfJ782l1m05kLWx) | 3:36 |
 | 46 | [¿Donde Has Estado?](https://open.spotify.com/track/6hklGK8K5sqP4IK2PZHGkV) | [Eslabon Armado](https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR) | [Vibras de Noche](https://open.spotify.com/album/5vRoBEolA8ng3JUw3HQjMG) | 4:52 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDlkOGJlNTU1ZTM2MTEyMzI5MzY0MmUyNTJhMzcyNzll`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGNjNTFlMzg5YzFlYjhlZDk1OTgwZTNhZWU2Yjg2MGQx`

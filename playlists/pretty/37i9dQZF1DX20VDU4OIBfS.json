@@ -1,6 +1,6 @@
 {
   "description": "Temas inolvidables del ba\u00fal de los recuerdos.",
-  "num_followers": 3042957,
+  "num_followers": 3039970,
   "original_name": "Canciones del Recuerdo",
   "owner": {
     "name": "Spotify",
@@ -403,6 +403,22 @@
     {
       "added_at": "2024-01-04 18:13:50",
       "album": {
+        "name": "Amor Libre",
+        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
+      },
+      "artists": [
+        {
+          "name": "Camilo Sesto",
+          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
+        }
+      ],
+      "duration_ms": 204293,
+      "name": "Jam\u00e1s",
+      "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
+    },
+    {
+      "added_at": "2024-01-04 18:13:50",
+      "album": {
         "name": "Canta En Espa\u00f1ol Con Los Panchos",
         "url": "https://open.spotify.com/album/09bB3v1b09ROK8YZkRd87w"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 168400,
       "name": "Sabor a M\u00ed",
       "url": "https://open.spotify.com/track/0Hja9zlVQHC768PsPjWscW"
-    },
-    {
-      "added_at": "2024-01-04 18:13:50",
-      "album": {
-        "name": "Amor Libre",
-        "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
-      },
-      "artists": [
-        {
-          "name": "Camilo Sesto",
-          "url": "https://open.spotify.com/artist/2Cy7KBSkqu7otJfuMTWT7Y"
-        }
-      ],
-      "duration_ms": 204293,
-      "name": "Jam\u00e1s",
-      "url": "https://open.spotify.com/track/0ScrUVrcTYIZijbqDZ3CJE"
     },
     {
       "added_at": "2024-01-04 18:13:50",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-01-04 18:13:50",
       "album": {
-        "name": "Fuiste M\u00eda un Verano",
-        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Favio",
-          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
-        }
-      ],
-      "duration_ms": 199013,
-      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
-      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
-    },
-    {
-      "added_at": "2024-01-04 18:13:50",
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/2EKOijjOeD2UQ9gXAp1xF8"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 170800,
       "name": "Melina",
       "url": "https://open.spotify.com/track/3utK0tH0YhlB5fIjdy3em7"
+    },
+    {
+      "added_at": "2024-01-04 18:13:50",
+      "album": {
+        "name": "Fuiste M\u00eda un Verano",
+        "url": "https://open.spotify.com/album/5f06LnwgFScMv0Z4WEyIPm"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Favio",
+          "url": "https://open.spotify.com/artist/7JWJRzjFr2Qt5yB9ondmoq"
+        }
+      ],
+      "duration_ms": 199013,
+      "name": "O Quiz\u00e1s Simplemente Le Regale una Rosa",
+      "url": "https://open.spotify.com/track/3kCCDi4L4yVw2FklTpEBdv"
     },
     {
       "added_at": "2024-01-04 18:13:50",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-01-04 18:13:50",
       "album": {
-        "name": "Thalia",
-        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 269120,
-      "name": "No Me Ense\u00f1aste",
-      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
-    },
-    {
-      "added_at": "2024-01-04 18:13:50",
-      "album": {
         "name": "RCA 100 A\u00f1os De Musica",
         "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 130066,
       "name": "Amor de Estudiante",
       "url": "https://open.spotify.com/track/0nwKAvbDJeBs5dPH8sdeRO"
+    },
+    {
+      "added_at": "2024-01-04 18:13:50",
+      "album": {
+        "name": "Thalia",
+        "url": "https://open.spotify.com/album/5aHuKZqTY34cuOcIFfohrt"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 269120,
+      "name": "No Me Ense\u00f1aste",
+      "url": "https://open.spotify.com/track/37QuCMe2SASXrkLm5NhT5m"
     },
     {
       "added_at": "2024-01-04 18:13:50",
@@ -1055,6 +1055,22 @@
     {
       "added_at": "2024-01-04 18:13:50",
       "album": {
+        "name": "RCA 100 A\u00f1os De Musica",
+        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
+      },
+      "artists": [
+        {
+          "name": "Roberto Jordan",
+          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
+      "url": "https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq"
+    },
+    {
+      "added_at": "2024-01-04 18:13:50",
+      "album": {
         "name": "Llorar\u00e1s",
         "url": "https://open.spotify.com/album/5YNFzMy6Y8GBjKli0KZbV7"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 316840,
       "name": "Due\u00f1o de Nada",
       "url": "https://open.spotify.com/track/01U3wUHEeqYtj3vPk08AC9"
-    },
-    {
-      "added_at": "2024-01-04 18:13:50",
-      "album": {
-        "name": "RCA 100 A\u00f1os De Musica",
-        "url": "https://open.spotify.com/album/7vMnaKzlmBN2GRVYCMOMqc"
-      },
-      "artists": [
-        {
-          "name": "Roberto Jordan",
-          "url": "https://open.spotify.com/artist/5SyvBTttsNPEcFjtceTBmx"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "Hazme una Se\u00f1al - Gimme Little Sign",
-      "url": "https://open.spotify.com/track/0TL0wshZGOrvNcUD66HGfq"
     },
     {
       "added_at": "2024-01-04 18:13:50",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-01-04 18:13:50",
       "album": {
-        "name": "Mocedades 5",
-        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
-      },
-      "artists": [
-        {
-          "name": "Mocedades",
-          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
-      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
-    },
-    {
-      "added_at": "2024-01-04 18:13:50",
-      "album": {
         "name": "Tiempo De Vals",
         "url": "https://open.spotify.com/album/5vdBZ9BMY2tZbvxYmKsGUR"
       },
@@ -1275,6 +1259,22 @@
       "duration_ms": 247933,
       "name": "Tiempo De Vals",
       "url": "https://open.spotify.com/track/2d6m2u18196oYQS2mbaO6t"
+    },
+    {
+      "added_at": "2024-01-04 18:13:50",
+      "album": {
+        "name": "Mocedades 5",
+        "url": "https://open.spotify.com/album/09wkGIEU9667gEzg6Ywsbx"
+      },
+      "artists": [
+        {
+          "name": "Mocedades",
+          "url": "https://open.spotify.com/artist/4Sm7JCttzWMwHJtb3UJ8SY"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "T\u00f3mame o D\u00e9jame - Remasterizado",
+      "url": "https://open.spotify.com/track/1ZJe2q23LXHnE79UjnJqyx"
     },
     {
       "added_at": "2024-01-04 18:13:50",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-01-04 18:13:50",
       "album": {
-        "name": "Juanello",
-        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
-      },
-      "artists": [
-        {
-          "name": "Juanello",
-          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Espejismo",
-      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
-    },
-    {
-      "added_at": "2024-01-04 18:13:50",
-      "album": {
         "name": "Daniela Romo",
         "url": "https://open.spotify.com/album/2gJ6tGS2FHniYfpHIR1153"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 161026,
       "name": "Celos",
       "url": "https://open.spotify.com/track/4RjEM3PPICm6ng7ZITXZgG"
+    },
+    {
+      "added_at": "2024-01-04 18:13:50",
+      "album": {
+        "name": "Juanello",
+        "url": "https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj"
+      },
+      "artists": [
+        {
+          "name": "Juanello",
+          "url": "https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Espejismo",
+      "url": "https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck"
     },
     {
       "added_at": "2024-01-04 18:13:50",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2024-01-04 18:13:50",
       "album": {
-        "name": "Entre El Agua Y El Fuego",
-        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Luis Perales",
-          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Canci\u00f3n de Oto\u00f1o",
-      "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
-    },
-    {
-      "added_at": "2024-01-04 18:13:50",
-      "album": {
         "name": "Celebridades- Daniela Romo",
         "url": "https://open.spotify.com/album/13HtNoDUSIMopEbZl087rR"
       },
@@ -1483,6 +1467,22 @@
       "duration_ms": 231440,
       "name": "Yo No Te Pido La Luna",
       "url": "https://open.spotify.com/track/5DP6Uxk8O9ej6xLPb4gDiE"
+    },
+    {
+      "added_at": "2024-01-04 18:13:50",
+      "album": {
+        "name": "Entre El Agua Y El Fuego",
+        "url": "https://open.spotify.com/album/2D6nGOEEyp7GZCyWlO99GI"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Luis Perales",
+          "url": "https://open.spotify.com/artist/5RwfJb8wxN1fuodcPORVxP"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Canci\u00f3n de Oto\u00f1o",
+      "url": "https://open.spotify.com/track/47MCxsBOrd49mWTdqmUxhm"
     },
     {
       "added_at": "2024-01-04 18:13:50",

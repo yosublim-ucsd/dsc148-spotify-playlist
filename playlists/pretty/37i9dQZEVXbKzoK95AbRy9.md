@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,329 likes - 50 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,594 likes - 50 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Deus, Por favor](https://open.spotify.com/track/2329XxRFYoAPdQSb4DmjXQ) | [Mc IG](https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN), [Mc Kevin](https://open.spotify.com/artist/5pBMkZNIlbGTH3hrsQJqAa), [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5) | [Todo Mundo Odeia o IG](https://open.spotify.com/album/5DgYAKr0iKOHjwEf9nKMs4) | 4:39 |
 | 50 | [Ritmista 1.0](https://open.spotify.com/track/3ZNjlT5zR0jkEVzSSZCQeJ) | [DJ WN](https://open.spotify.com/artist/3joq445M6f168kb3mkp7BB), [MC Hariel](https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [MC Paulin da Capital](https://open.spotify.com/artist/592JnViQ2tot63c1SbtgK2), [Mc Lipi](https://open.spotify.com/artist/0cjkWe9VXcECGiOEHFuTfc), [MC Vinny](https://open.spotify.com/artist/0dNyaMJp0r9zBYG86JgRDI), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2), [Mc Kadu](https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv), [Mc Daniel](https://open.spotify.com/artist/6YzSM19LzpLH0nVKKU6Jsy), [MC GH do 7](https://open.spotify.com/artist/5XUMgbLR3zyRPesnTQY31C), [NOG](https://open.spotify.com/artist/1QAoT8rjnSPy5pXpu3yiHS), [Love Funk](https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC) | [Ritmista 1.0](https://open.spotify.com/album/3WGjmOFzUrvNmkiiqevMbJ) | 10:15 |
 
-Snapshot ID: `NzY3MTUwNDAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

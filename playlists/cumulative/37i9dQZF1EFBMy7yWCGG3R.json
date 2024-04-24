@@ -1273,6 +1273,24 @@
     },
     {
       "album": {
+        "name": "In Search Of The Antidote",
+        "url": "https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143546,
+      "name": "Ego Talking",
+      "url": "https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k"
+    },
+    {
+      "album": {
         "name": "Either Way (Official Video)",
         "url": "https://open.spotify.com/album/6OBdlaBLFdclnF4n9aBZLv"
       },

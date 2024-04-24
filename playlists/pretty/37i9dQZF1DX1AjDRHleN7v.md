@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 307,520 likes - 60 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 307,567 likes - 60 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 53 | [Se Joga](https://open.spotify.com/track/5lWp2PF9f1GDtkjVNqF8XS) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Se Joga](https://open.spotify.com/album/38I1Q4e9SGC3n5jEKvpVzG) | 2:53 |
 | 54 | [Enquanto Houver](https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj) | [Walace Fonseca](https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW), [Bruno Harry](https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF) | [Enquanto Houver](https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O) | 3:00 |
 | 55 | [O Amor Venceu](https://open.spotify.com/track/1OJs9U8EpYxyTtawy8mRRg) | [Luc DubWise](https://open.spotify.com/artist/0NXMeMdtkYLVWlvL9mPIGU) | [O Amor Venceu](https://open.spotify.com/album/3x1JYZZhhtiGBt0knJ0mfl) | 3:07 |
-| 56 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
-| 57 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 |
+| 56 | [Abre a Janela](https://open.spotify.com/track/1BpohBNMRmbD2mbm1Z0PBZ) | [Maresia Ragga Surf](https://open.spotify.com/artist/7N2LChaHcTgIP5jCPT6TGx) | [Abre a Janela](https://open.spotify.com/album/4DNJ8zWxSi0LQEPZ0RD3os) | 4:42 |
+| 57 | [Na Jornada \- Remasterizado](https://open.spotify.com/track/7cyvT2L0e4dGKLRMLTSb9s) | [Amaro Lima](https://open.spotify.com/artist/7lrI5k7baxankvaESuS4ag) | [Coletivo \(Remasterizado\)](https://open.spotify.com/album/2490YcvYldR03aJHLmbC9G) | 4:14 |
 | 58 | [Pra Que Fazer Assim? \- Versão Instrumental](https://open.spotify.com/track/2JHOyiQHkUsIhr75VdCDaT) | [Mateus Menezes](https://open.spotify.com/artist/2OmkPZFRWq9lBwUEtTF5Wz) | [Pra Que Fazer Assim? \(Versão Instrumental\)](https://open.spotify.com/album/79ZK3MKk56dn4iNp3esrtf) | 2:49 |
 | 59 | [Pôr do Sol](https://open.spotify.com/track/14OvMZKORBzPf16ZWwQtUL) | [Noel Ferrari](https://open.spotify.com/artist/44SfcAfSnOkXQleRmVCwux) | [Pôr do Sol](https://open.spotify.com/album/5vdy3biDY8tZP2OzcHiC0w) | 3:48 |
 | 60 | [Acordo Cedo](https://open.spotify.com/track/3fp09hk7iBE338wH4vbP2n) | [Sobral](https://open.spotify.com/artist/1iffB8upqqDnx6UX8P3kz2) | [Acordo Cedo](https://open.spotify.com/album/058ktMlIudmSi3yvqOKFPB) | 2:05 |

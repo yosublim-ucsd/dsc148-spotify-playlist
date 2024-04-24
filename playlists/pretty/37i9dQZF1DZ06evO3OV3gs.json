@@ -1,12 +1,12 @@
 {
   "description": "This is Madonna. The essential tracks, all in one playlist.",
-  "num_followers": 641879,
+  "num_followers": 642247,
   "original_name": "This Is Madonna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGIwMmQ3YTJhMjNlMzNiM2VmMTMxOWI2OTEyODI3NjQ2",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGIzMmQyZTRjNTNmN2I0MDBhNjU4YjNjYWE5NTQzZTBh",
   "tracks": [
     {
       "added_at": null,
@@ -315,22 +315,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 281880,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/55whbebR4olz2HHcRQa2kx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Who's That Girl Soundtrack",
         "url": "https://open.spotify.com/album/21vHnROXDZY51gJxsjTLXZ"
       },
@@ -375,22 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "True Blue",
-        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 257466,
-      "name": "True Blue",
-      "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ray of Light",
         "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
@@ -403,6 +371,22 @@
       "duration_ms": 322000,
       "name": "Ray of Light",
       "url": "https://open.spotify.com/track/4Fpsa3pYc3gozrxHRRPvR6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "True Blue",
+        "url": "https://open.spotify.com/album/6fmnT17jc2Sc69q3nza1eD"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 257466,
+      "name": "True Blue",
+      "url": "https://open.spotify.com/track/7azOuDeJGbxt5mvq3GQHXp"
     },
     {
       "added_at": null,
@@ -491,22 +475,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "In The Zone",
-        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
       },
       "artists": [
-        {
-          "name": "Britney Spears",
-          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
-        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 223773,
-      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
-      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
+      "duration_ms": 267345,
+      "name": "Nothing Really Matters",
+      "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
     },
     {
       "added_at": null,
@@ -527,18 +507,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ray of Light",
-        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+        "name": "In The Zone",
+        "url": "https://open.spotify.com/album/0z7pVBGOD7HCIB7S8eLkLI"
       },
       "artists": [
+        {
+          "name": "Britney Spears",
+          "url": "https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4"
+        },
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 267345,
-      "name": "Nothing Really Matters",
-      "url": "https://open.spotify.com/track/6bZPQHvekmIFBZZB7nMB5X"
+      "duration_ms": 223773,
+      "name": "Me Against the Music (feat. Madonna) - LP Version / Video Mix",
+      "url": "https://open.spotify.com/track/7mS8RbJji2UZAaguRGsOCH"
     },
     {
       "added_at": null,
@@ -623,22 +607,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Back That Up To The Beat",
-        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 211475,
-      "name": "Back That Up To The Beat - demo version",
-      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Erotica (PA Version)",
         "url": "https://open.spotify.com/album/1a2NoE9makqEWb1uUogxFQ"
       },
@@ -655,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madonna",
-        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+        "name": "Back That Up To The Beat",
+        "url": "https://open.spotify.com/album/2gDxombRu8s5Acs8EPKpqt"
       },
       "artists": [
         {
@@ -664,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
         }
       ],
-      "duration_ms": 337840,
-      "name": "Lucky Star",
-      "url": "https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q"
+      "duration_ms": 211475,
+      "name": "Back That Up To The Beat - demo version",
+      "url": "https://open.spotify.com/track/5ZQ2slXNqImBi0SdomcjYN"
     },
     {
       "added_at": null,
@@ -683,6 +651,22 @@
       "duration_ms": 263813,
       "name": "I'll Remember (Theme from the Motion Picture With Honors)",
       "url": "https://open.spotify.com/track/00U0pedRUMEzREpyRqbVT6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 337840,
+      "name": "Lucky Star",
+      "url": "https://open.spotify.com/track/2hWI9GNr3kBrxZ7Mphho4Q"
     },
     {
       "added_at": null,
@@ -719,6 +703,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something to Remember",
+        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 278135,
+      "name": "You'll See",
+      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rebel Heart (Deluxe)",
         "url": "https://open.spotify.com/album/5TAX07toYGN4AFshlKpmZb"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 227480,
       "name": "Bitch I'm Madonna",
       "url": "https://open.spotify.com/track/2bZMOs3RjmhhGca6MEzjyl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something to Remember",
-        "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 278135,
-      "name": "You'll See",
-      "url": "https://open.spotify.com/track/0Fb8sdyNluLawg08N1zs48"
     },
     {
       "added_at": null,
@@ -791,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Confessions on a Dance Floor",
-        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 262320,
-      "name": "Forbidden Love",
-      "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Something to Remember",
         "url": "https://open.spotify.com/album/7kUiJdXqLkMTkpY0PmXUv5"
       },
@@ -823,22 +791,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "Frozen On Fire",
-        "url": "https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac"
+        "name": "Confessions on a Dance Floor",
+        "url": "https://open.spotify.com/album/1hg0pQJLE9dzfT1kgZtDPr"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        },
-        {
-          "name": "Sickick",
-          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Frozen On Fire",
-      "url": "https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m"
+      "duration_ms": 262320,
+      "name": "Forbidden Love",
+      "url": "https://open.spotify.com/track/2DuaKXVHCHSSTTeOnYSMG9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MDNA",
+        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 223066,
+      "name": "Girl Gone Wild",
+      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
     },
     {
       "added_at": null,
@@ -859,18 +839,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MDNA",
-        "url": "https://open.spotify.com/album/2trAegxlPgPnZHfYrUNvp0"
+        "name": "Frozen On Fire",
+        "url": "https://open.spotify.com/album/1tigrws32UpX26xU9Y3Yac"
       },
       "artists": [
         {
           "name": "Madonna",
           "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        },
+        {
+          "name": "Sickick",
+          "url": "https://open.spotify.com/artist/3NR7hAacOhmcztWvD7vJfS"
         }
       ],
-      "duration_ms": 223066,
-      "name": "Girl Gone Wild",
-      "url": "https://open.spotify.com/track/3ZfMci7n6qk9nRodX8BfIb"
+      "duration_ms": 192000,
+      "name": "Frozen On Fire",
+      "url": "https://open.spotify.com/track/7MfRwjpGwlZpxOvKiMlf1m"
     },
     {
       "added_at": null,
@@ -923,6 +907,22 @@
       "duration_ms": 293933,
       "name": "Human Nature",
       "url": "https://open.spotify.com/track/4Cna7QxOOTNnylVHLtShCi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Madonna",
+        "url": "https://open.spotify.com/album/5lrlWKjNY0eTDXp9Bd3LpW"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Burning Up",
+      "url": "https://open.spotify.com/track/48YZhmKL3aZKhQUfpvkelu"
     },
     {
       "added_at": null,

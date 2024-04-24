@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: Loopy\(루피\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: BE'O\(비오\)\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-688 songs - 1 day 13 hr 17 min
+689 songs - 1 day 13 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -116,7 +116,7 @@
 | [COCO BOTTLE](https://open.spotify.com/track/3hHpCjJdBBw4KjizY8l72r) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [COCO BOTTLE](https://open.spotify.com/album/18T01XcLc1WzIZ3bCzwOsg) | 3:07 | 2022-05-26 |  |
 | [Coin Laundry](https://open.spotify.com/track/7c15oEQBX6E0hGdDSsGxZy) | [Donutman](https://open.spotify.com/artist/2xH4dYFMVhdOGIhgIWonbc) | [Coin Laundry](https://open.spotify.com/album/1WiFGqAYwIO3Zb16PXe9Q3) | 2:44 | 2022-04-01 | 2022-11-11 |
 | [Cold \(Feat\. SUPERBEE\) \(Prod\. Way Ched\)](https://open.spotify.com/track/187yTccJjpINpPGWH1qtDy) | [D.Ark](https://open.spotify.com/artist/2UaheMCNCnN1CrrnZnmh3j), [SUPERBEE](https://open.spotify.com/artist/0Q5XzDpn7DCI5jlubok4xb) | [School Rapper4 Semi Final 1](https://open.spotify.com/album/6ulztrg2KC1H7pjfp1l8Et) | 4:01 | 2022-04-21 | 2022-07-13 |
-| [COLD AVE.](https://open.spotify.com/track/6Q7HKTGjFMrDCucN86eu2O) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [MARNI](https://open.spotify.com/album/5Jc65PONU8FqRCeZEjVJMj) | 2:38 | 2024-04-12 |  |
+| [COLD AVE.](https://open.spotify.com/track/6Q7HKTGjFMrDCucN86eu2O) | [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [MARNI](https://open.spotify.com/album/5Jc65PONU8FqRCeZEjVJMj) | 2:38 | 2024-04-12 | 2024-04-24 |
 | [COLDBLUE \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/track/5D9UA4XxudVNxQZAZ5tqxI) | [Wilcox](https://open.spotify.com/artist/6DetogFDfNsSYy4u5OYz7o), [Kim Mi Jeong](https://open.spotify.com/artist/62i8ukH7NagOk7lZE6B3xA) | [COLDBLUE \(Feat\. Kim Mi Jeong\)](https://open.spotify.com/album/5teb4keIZfN8A9eSt7Qjyn) | 3:14 | 2022-07-04 | 2022-07-15 |
 | [Come Over](https://open.spotify.com/track/5aVs6FABPmT7TkqE3qZO2u) | [SIM2](https://open.spotify.com/artist/6RuP6GVxx8trGK6dINhoUR) | [Variety](https://open.spotify.com/album/6LBR8q31AIj9AoGfrbVrIu) | 3:08 | 2022-05-02 | 2022-07-28 |
 | [Come Over \(Feat\. Keita, TAG, WON of Ciipher\)](https://open.spotify.com/track/7F4JIyhUR74RyuozB4vT8t) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz), [Keita](https://open.spotify.com/artist/4Sp0k5cY12SKnOGUghMljj), [TAG](https://open.spotify.com/artist/6wWzrvB5m2BSseIfpeWtJX), [WON](https://open.spotify.com/artist/6IcjdUrGirpvqVO6z6HEVa) | [PIECES by RAIN](https://open.spotify.com/album/0bLtrJW5gsxMIJF6CvJB6x) | 3:36 | 2022-04-21 | 2022-06-22 |
@@ -692,6 +692,7 @@
 | [담아](https://open.spotify.com/track/5OH5VvM5qIZDiJC1JVWLfe) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Wiz World](https://open.spotify.com/artist/64uYVs5XasE9xxAItdyPCn), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [M1NUWORLD](https://open.spotify.com/album/6TxDYynoC6vnuC3vKlBb9h) | 3:31 | 2023-01-25 | 2023-02-16 |
 | [무너져 \(Art\. VEAN\)](https://open.spotify.com/track/6VVIJyheSpW8hM4CTr9xXR) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. VEAN](https://open.spotify.com/album/58ke1EMXzfH9T6NgmSsXOd) | 2:52 | 2022-05-11 | 2022-05-21 |
 | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 |  |
+| [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-24 |  |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |
 | [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 | 2022-09-06 | 2023-04-17 |
 | [이 고요가 너무 좋아](https://open.spotify.com/track/2KvpeVhE15918QtnCc3QCJ) | [BOYHOOD](https://open.spotify.com/artist/2r8smtQqQ7z4M9guHnawaM) | [수면마취](https://open.spotify.com/album/4aXsVV3ulNKMj6H3TZThgS) | 3:06 | 2022-04-01 | 2022-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 
 > Soundtrack your life with our ever evolving 'Moments' playlist that updates for all major holidays and events! Listen now to our playlist dedicated to Earth Day\.  <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a>
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 110,940 likes - 45 songs - 2 hr 56 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 110,793 likes - 45 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/0ZWYUjUMhaq0Rammqq3qu1.md) - [plain]
 | 44 | [I'll Follow The Sun \- Remastered 2009](https://open.spotify.com/track/45WX2cfbL8bCIqv3rOq1G3) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Beatles For Sale \(Remastered\)](https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a) | 1:48 |
 | 45 | [Fallen Fruit](https://open.spotify.com/track/5iUnomffoLeQsdlY2k5TDU) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Solar Power](https://open.spotify.com/album/4SBl4zvNIL4H137YRf2P0J) | 3:58 |
 
-Snapshot ID: `NDgyNyxlZjU0N2Y4ZjFiZmRlYWI3ODk1MTk3YmZhY2UwMmU2NWI1ZjQ3Y2Iy`
+Snapshot ID: `NDgzMCwyYTU4NTkyNmFhOTQ5MDI4M2QwOWRmMTc2ZTQ4OGI0Y2NjZTM3MmE0`

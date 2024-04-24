@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 
 > This is Joan Baez\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,349 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,364 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 2 | [The Night They Drove Old Dixie Down](https://open.spotify.com/track/0uHYplBhwLYey7f9qAmnSM) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Blessed Are...](https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye) | 3:26 |
 | 3 | [Here's to you \(feat\. Joan Baez\)](https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1) | [Ennio Morricone](https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C), [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Sacco e Vanzetti \(Original Motion Picture Soundtrack\) \[Remastered\]](https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK) | 3:08 |
 | 4 | [Farewell, Angelina](https://open.spotify.com/track/1rI0sMuAEeAOPihDEwPa3y) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 3:18 |
-| 5 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 |
-| 6 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 |
+| 5 | [Fountain Of Sorrow](https://open.spotify.com/track/7Epjhq046YB3Sjjtz9nx0J) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:30 |
+| 6 | [Don't Think Twice, It's All Right](https://open.spotify.com/track/3ORn0rgu27z7hlnNgvYWse) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:09 |
 | 7 | [Love Is Just A Four\-Letter Word](https://open.spotify.com/track/5NNSLOPIXs1rQE6hDNFS5e) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 4:27 |
 | 8 | [Blowin' In The Wind \- Live](https://open.spotify.com/track/3Fd225w3GoHV26eYzEpbiR) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [From Every Stage](https://open.spotify.com/album/2e5Zu2l6AT2VXTyPtREEkd) | 2:35 |
 | 9 | [Brothers in Arms](https://open.spotify.com/track/4xFsqBho4pb6caTAredS1r) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Complete Gold Castle Masters](https://open.spotify.com/album/7JEJFAm32YkLtwpDEimMOI) | 5:06 |
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 13 | [It Ain't Me Babe](https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Baez Sings Dylan](https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG) | 3:21 |
 | 14 | [Jesse](https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Diamonds & Rust](https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg) | 4:28 |
 | 15 | [Sweet Sir Galahad](https://open.spotify.com/track/0wVsSz391qR4eORwDy3Xvg) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The First 10 Years](https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn) | 3:43 |
-| 16 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
-| 17 | [Let It Be](https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 3:36 |
+| 16 | [Let It Be](https://open.spotify.com/track/4nzuujPepvK9gaUyxulAPT) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Greatest Hits And Others](https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj) | 3:36 |
+| 17 | [Love Song To A Stranger](https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 3:53 |
 | 18 | [There But For Fortune](https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [The Best Of Joan Baez](https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY) | 3:16 |
 | 19 | [If You Were A Carpenter](https://open.spotify.com/track/54r96rfihIM6TXasz0mYxL) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan](https://open.spotify.com/album/7MHKK9mfQGgNOF3BXOvcUD) | 2:10 |
 | 20 | [The Boxer](https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm), [Paul Simon](https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI) | [Joan Baez 75th Birthday Celebration](https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl) | 7:25 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0V2kc4.md) - [plain]
 | 44 | [Guantanamera](https://open.spotify.com/track/6cef8uDKAs49T2SCwwxQ1t) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:54 |
 | 45 | [Prison Trilogy \(Billy Rose\)](https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Come From The Shadows](https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw) | 4:23 |
 | 46 | [Let Your Love Flow](https://open.spotify.com/track/4JJl5T6nQlSiN7rbYPQIJ0) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Honest Lullaby](https://open.spotify.com/album/3o4lNwGYID49P7xTQoBcYd) | 2:55 |
-| 47 | [Sad\-Eyed Lady Of The Low Lands](https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 11:17 |
+| 47 | [The Wild Mountain Thyme](https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:37 |
 | 48 | [El Preso Numero Nueve](https://open.spotify.com/track/68GlMzT0rj2xpUzDetTbA4) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Gracias A La Vida \(Here's To Life\)](https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7) | 3:24 |
-| 49 | [The Wild Mountain Thyme](https://open.spotify.com/track/6t5Z3MLqcNu471STaCpGPj) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Farewell, Angelina](https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun) | 4:37 |
+| 49 | [Sad\-Eyed Lady Of The Low Lands](https://open.spotify.com/track/6B9Y454zvW0ThTRzeIdhng) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Any Day Now](https://open.spotify.com/album/4CRzOSYsOxwYVPIwMro4Fl) | 11:17 |
 | 50 | [Plaisir D' Amour](https://open.spotify.com/track/6sOpRCmFS2tc2sD0PVF9df) | [Joan Baez](https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm) | [Joan Baez, Vol\. Ii](https://open.spotify.com/album/05okUkdZoQT6MgJsfN7kwg) | 3:10 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDM2MmJkMmZkNmM3MTA0NzgyMDE4MzA5NTEyYTNmMDA3`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDQ3YmI5MzhjYjg2ZTVkNTgwYzhhMzM5YmViNmM4ZGE0`

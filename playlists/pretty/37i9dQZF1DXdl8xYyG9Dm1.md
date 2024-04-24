@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: <a href="https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T?si=OgpcR6CdTI2uGibQDAmtSg"> Omar Sterling</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,533 likes - 70 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,540 likes - 70 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 30 | [Who's True](https://open.spotify.com/track/3vMItL2i0J010aWIw1YUwr) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [JAE5](https://open.spotify.com/artist/3NbqBIc16CNAe5nYSmHR3p), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Green With Envy](https://open.spotify.com/album/4YWgs2cK2u6lrIzM9Ve2wc) | 3:36 |
 | 31 | [Cloak & Dagger \(feat\. J Hus\)](https://open.spotify.com/track/519SuHU1ai91BsRxDnT9Ki) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa), [J Hus](https://open.spotify.com/artist/2a0uxJgbvvIRI4GX8pYfcr) | [Love, Damini](https://open.spotify.com/album/1xaHgMftad2egI7Q4DX7Bc) | 3:31 |
 | 32 | [Jack](https://open.spotify.com/track/0MydMUtzMjfPI1htepCM6J) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Jack](https://open.spotify.com/album/6wECibFr4zHhkIFLxyNdvx) | 2:22 |
-| 33 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
-| 34 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 |
+| 33 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 |
+| 34 | [SCAR](https://open.spotify.com/track/3q29n7RqZ4lRzfnKzIqDZy) | [Song bird](https://open.spotify.com/artist/4QLKyJHQZs4nlsQIEFb8Gt), [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ), [JBEE](https://open.spotify.com/artist/3LIh5lV3zpZkgmO0K6R6bq) | [SCAR](https://open.spotify.com/album/6DYZXRdAM1qUFdFVGoUlC5) | 3:23 |
 | 35 | [Life & Money](https://open.spotify.com/track/5smSKFma3LioFp4HNK1wq8) | [Stonebwoy](https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [5th Dimension](https://open.spotify.com/album/6P09BN0UfWRJt4jCIaAGS4) | 3:05 |
 | 36 | [OH NO](https://open.spotify.com/track/2VhFflRmXimh8NNpD9jFgR) | [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ) | [OH NO](https://open.spotify.com/album/0s7eJWEUJSSiO2963hcQRd) | 2:33 |
 | 37 | [Guy Man](https://open.spotify.com/track/6eE4ecWXq8Ijh8DYyJQ57s) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Guy Man](https://open.spotify.com/album/7Ef71u8NNLYzlRhKC6PwuD) | 2:46 |

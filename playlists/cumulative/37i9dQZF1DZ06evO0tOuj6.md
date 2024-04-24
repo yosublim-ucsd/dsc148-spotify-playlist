@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DZ06evO0tOuj6.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DZ06evO0tOuj6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0tOuj6)
 
-### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
+### [This Is 東京スカパラダイスオーケストラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is Tokyo Ska Paradise Orchestra\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
+> This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 34 min
 
@@ -66,7 +66,7 @@
 | [明日以外すべて燃やせ \- feat.宮本浩次](https://open.spotify.com/track/5EfzlCnJqVApzkjgKf6Kf5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hiroji Miyamoto](https://open.spotify.com/artist/37yA8FvkJWnXZXbRg4IQaT) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 4:21 | 2023-01-14 |  |
 | [星降る夜に](https://open.spotify.com/track/6fcIUJpgdpRvyhSjJzQouI) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [BEST OF TOKYO SKA 1998\-2007](https://open.spotify.com/album/1RdNgVSyLueO46yH5SAjkc) | 4:13 | 2023-01-14 |  |
 | [暗夜行路](https://open.spotify.com/track/1uC00Bl7GJUxSNzh0kKMAE) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 4:15 | 2023-01-14 | 2023-02-12 |
-| [流れゆく世界の中で](https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [SKA ME FOREVER](https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P) | 5:13 | 2023-01-14 | 2024-04-23 |
+| [流れゆく世界の中で](https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [SKA ME FOREVER](https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P) | 5:13 | 2023-01-14 |  |
 | [流星とバラード](https://open.spotify.com/track/6v15Dbe89xjPzgkHCypVAd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WORLD SKA SYMPHONY](https://open.spotify.com/album/6FMGCdAnQARKhUc7ITMAaL) | 4:33 | 2023-01-14 |  |
 | [無責任ヒーロー jam with 東京スカパラダイスオーケストラ](https://open.spotify.com/track/49WjKuQ5lTbv5y9RYb5Gsh) | [SUPER EIGHT](https://open.spotify.com/artist/7hPEh2rcIFbRsUdy6ZzFpQ), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GR8EST](https://open.spotify.com/album/0hYKZACQIdhp52JXlTpAwM) | 4:59 | 2024-01-03 |  |
 | [白と黒のモントゥーノ](https://open.spotify.com/track/6fHZjCE9bQH7SR1oPRLFRM) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [斎藤宏介](https://open.spotify.com/artist/0QpGuycOM3kFnbZmrucNl2) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 3:31 | 2023-02-16 | 2023-03-01 |

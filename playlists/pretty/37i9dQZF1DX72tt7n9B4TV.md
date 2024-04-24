@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 
 > Hot noise for those summer days.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,912 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,914 likes - 80 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 33 | [Do Your Worst](https://open.spotify.com/track/1ZDq0oRT40CkuADdE4Jvrq) | [Rival Sons](https://open.spotify.com/artist/356c8AN5YWKvz86B4Sb1yf) | [Feral Roots](https://open.spotify.com/album/2OsED4DmBABqdP9NwGUpAu) | 3:30 |
 | 34 | [Everybody](https://open.spotify.com/track/4yR1YTsrs38dHP6fzcXM93) | [DON BROCO](https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia) | [Technology](https://open.spotify.com/album/0R3iUk31drnPKGCdb35Cbw) | 3:20 |
 | 35 | [CAROLINE](https://open.spotify.com/track/0NbeWXqyar63pQGA4G7Jf2) | [ThxSoMch](https://open.spotify.com/artist/4MvZhE1iuzttcoyepkpfdF) | [CAROLINE](https://open.spotify.com/album/7o4LMz7AI7szCT5QJacZ7n) | 3:12 |
-| 36 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
-| 37 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
+| 36 | [Los Ageless](https://open.spotify.com/track/2qTy3hGSbxoSenKmlKGHFw) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [MASSEDUCTION](https://open.spotify.com/album/4RoOGpdrgfiIUyv0kLaC4e) | 4:41 |
+| 37 | [Angelica](https://open.spotify.com/track/3EwTIu5qka2l5ZekB0b6QC) | [Wet Leg](https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ) | [Wet Leg](https://open.spotify.com/album/0r9awI5WRCZpwk0aVQ4bKO) | 3:52 |
 | 38 | [These Are The Days](https://open.spotify.com/track/7iqQK2bzlcVePuTbfw7zEd) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:45 |
 | 39 | [Under You](https://open.spotify.com/track/1x0NfY1A4q8eKN3k4X8sfE) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Under You](https://open.spotify.com/album/2XD1xj7tbNEsiwmwyXAKu8) | 3:39 |
 | 40 | [The Funeral](https://open.spotify.com/track/1nU2ooQKyk4CsYJMBdIK4J) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [The Funeral](https://open.spotify.com/album/1q3OyLN3JyyvfVbFRqqcWW) | 3:31 |
@@ -57,12 +57,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 47 | [Just To Keep You Satisfied](https://open.spotify.com/track/06YDsNc6mrl60G2FZeUOmE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Cuts & Bruises](https://open.spotify.com/album/2qZd7lp0lLRjeFe0O9Ou6S) | 3:35 |
 | 48 | [Visitor](https://open.spotify.com/track/0z3Sa7vtRfn4ywaHzZzBLK) | [Of Monsters and Men](https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz) | [Visitor](https://open.spotify.com/album/41oni1NWTzN3lOrGU4JxYf) | 3:27 |
 | 49 | [All I Need](https://open.spotify.com/track/3aMyQSDW0DJ7LTOkrd29hU) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [All I Need](https://open.spotify.com/album/4ZXK260CRmgXgQ5tCs1hmk) | 3:36 |
-| 50 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
-| 51 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 |
+| 50 | [California](https://open.spotify.com/track/5RmGKBLOYl9hbNE7BuDmur) | [girlfriends](https://open.spotify.com/artist/4Dwhb9SL7iO3L27oXvEiO7) | [girlfriends](https://open.spotify.com/album/3cuyb6sSpCSEc6TLBh1sUQ) | 2:43 |
+| 51 | [By The Time You're Reading This](https://open.spotify.com/track/0uuxAXS1X7kH0WjC0nD6q9) | [YONAKA](https://open.spotify.com/artist/3Wcyta3gkOdQ4TfY0WyZpu) | [Welcome To My House](https://open.spotify.com/album/0ImZVp5Lh6vnyMUkQtnQIw) | 3:10 |
 | 52 | [Fireman & Dancer](https://open.spotify.com/track/5Ylm93lRkYCLo6jUeF1VnG) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [Club Majesty](https://open.spotify.com/album/2PzfMWIpq6JKucGhkS1X5M) | 2:48 |
 | 53 | [Once In A Lifetime](https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Once In A Lifetime](https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd) | 3:09 |
-| 54 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
-| 55 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
+| 54 | [Heaven Without You](https://open.spotify.com/track/4NardHbUoTLDH54bOBJ9T8) | [KID BRUNSWICK](https://open.spotify.com/artist/4QxIol1JzAa4ePmDytv0e4) | [Heaven Without You](https://open.spotify.com/album/21vS3D6XnWr0L0QZwiJFI6) | 2:55 |
+| 55 | [Golden](https://open.spotify.com/track/0woKDRMZzsFWeHppNQnGlS) | [Barns Courtney](https://open.spotify.com/artist/5tFRohaO5yEsuJxmMnlCO9) | [Golden](https://open.spotify.com/album/50SocXtryJeL2lfhNhDq2B) | 2:50 |
 | 56 | [estella//](https://open.spotify.com/track/4v2Bq0xDB7uNN73I5b44Du) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [estella//](https://open.spotify.com/album/03q6OOInl2G0qYtmFlybqh) | 1:58 |
 | 57 | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/track/4pi7qRGw2DDKAJMGHGcZ2O) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh), [nothing,nowhere.](https://open.spotify.com/artist/7FngGIEGgN3Iwauw1MvO4P) | [deathwish \(feat\. nothing,nowhere.\)](https://open.spotify.com/album/04tqbIcuZwsGL5Ut22eOKw) | 2:27 |
 | 58 | [Is Everybody Going Crazy?](https://open.spotify.com/track/3CauBZqN2EuHTJo4sSpjbS) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Is Everybody Going Crazy?](https://open.spotify.com/album/5J2B0xzIbsFSqwLTLrlRe1) | 3:57 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX72tt7n9B4TV.md) - [plain]
 | 77 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
 | 78 | [The Wire](https://open.spotify.com/track/3h8mGFJU0OSrMGyOSRF5xH) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE) | [Days Are Gone](https://open.spotify.com/album/0eXAgjcMHbFt3fS0XXp8Kw) | 4:05 |
 | 79 | [23, Never Me](https://open.spotify.com/track/6X1qkAaZoCIgcrqyeRJP8L) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [23, Never Me](https://open.spotify.com/album/4q4NgtvMSCRc8LukyOks4F) | 2:55 |
-| 80 | [Crash and Burn](https://open.spotify.com/track/4wFK5ESRSBrmVDjOkOSa7g) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:39 |
+| 80 | [I EXIST](https://open.spotify.com/track/3eI62ZWWxkl4LUaBqXvA6Y) | [VUKOVI](https://open.spotify.com/artist/1844Ua6R4gOuH6GLdlR4dt) | [I EXIST](https://open.spotify.com/album/278scJHsCyBRWl94O0C0d5) | 4:29 |
 
 Snapshot ID: `MTcwNzI0NjE1MiwwMDAwMDAwMGYyYmVlYzM5ZGJhY2NlMmQ5YmExZTgxOWIyYTI4NTc5`

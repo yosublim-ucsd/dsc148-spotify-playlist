@@ -1,12 +1,12 @@
 {
   "description": "This is Edgardo Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 30121,
+  "num_followers": 30181,
   "original_name": "This Is Edgardo Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDJmY2U2MDA5MzcyOTM3YTVlZWJjYzJiZjYyYzVmOTNh",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDRmODllOTY4NjU5NjIxMWQyZjM1ODliMGMxYzMzNDE2",
   "tracks": [
     {
       "added_at": null,
@@ -283,26 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arriba Guasave (Chapito Isidro)",
-        "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
-      },
-      "artists": [
-        {
-          "name": "Enigma Norte\u00f1o",
-          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Arriba Guasave (Chapito Isidro)",
-      "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Brothers (09/19)",
         "url": "https://open.spotify.com/album/0A5XLLKJ8Z7G6AM7uL4WzI"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 216310,
       "name": "Los Brothers (09/19)",
       "url": "https://open.spotify.com/track/0c8WcRLJRUuQfQIdmXAzpA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Arriba Guasave (Chapito Isidro)",
+        "url": "https://open.spotify.com/album/0rn4s2Zltv41VZOcJe6hqn"
+      },
+      "artists": [
+        {
+          "name": "Enigma Norte\u00f1o",
+          "url": "https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Arriba Guasave (Chapito Isidro)",
+      "url": "https://open.spotify.com/track/6dFr7IdkMiFq3vRE9tLVcx"
     },
     {
       "added_at": null,
@@ -403,26 +403,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Es por Ella",
-        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
-      },
-      "artists": [
-        {
-          "name": "Chicho Castro y Sus Alia2",
-          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 170908,
-      "name": "No Es por Ella",
-      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Polvo Soy",
         "url": "https://open.spotify.com/album/7D0Kkh6JDZkP2fF3JWJ7rI"
       },
@@ -443,34 +423,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos 602 Vol.3 (En Vivo)",
-        "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
+        "name": "No Es por Ella",
+        "url": "https://open.spotify.com/album/3CcLFuxfmJV1Q8TyY59zew"
       },
       "artists": [
+        {
+          "name": "Chicho Castro y Sus Alia2",
+          "url": "https://open.spotify.com/artist/0dc0PZKnH4whnbo7cPKABC"
+        },
         {
           "name": "Edgardo Nu\u00f1ez",
           "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 177258,
-      "name": "Demonio Dormido - En Vivo",
-      "url": "https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos 602 Vol.2",
-        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "El Piyi",
-      "url": "https://open.spotify.com/track/3h6yZoWyDVjWU7YGpWfY2f"
+      "duration_ms": 170908,
+      "name": "No Es por Ella",
+      "url": "https://open.spotify.com/track/65aRqpfHbDRWhFfupWm26H"
     },
     {
       "added_at": null,
@@ -491,6 +459,38 @@
       "duration_ms": 144080,
       "name": "El Humo De Mi Gallo",
       "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.2",
+        "url": "https://open.spotify.com/album/7dTvUbDrd00XPzv52KruTk"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "El Piyi",
+      "url": "https://open.spotify.com/track/3h6yZoWyDVjWU7YGpWfY2f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos 602 Vol.3 (En Vivo)",
+        "url": "https://open.spotify.com/album/3138cEr6EhvN39pNSjJwV7"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 177258,
+      "name": "Demonio Dormido - En Vivo",
+      "url": "https://open.spotify.com/track/2SANdIdArza7A5wfat0eLM"
     },
     {
       "added_at": null,
@@ -595,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Cambio la Suerte",
+        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 171430,
+      "name": "Me Cambio la Suerte",
+      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Kyc",
         "url": "https://open.spotify.com/album/0t4CFNHeuPozzQ8GsE4At7"
       },
@@ -615,22 +631,6 @@
       "duration_ms": 169523,
       "name": "Kyc",
       "url": "https://open.spotify.com/track/2W1939GIXBdA58meh74sUU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Cambio la Suerte",
-        "url": "https://open.spotify.com/album/5cIjsNTgxNwzmfnfN1AyYV"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 171430,
-      "name": "Me Cambio la Suerte",
-      "url": "https://open.spotify.com/track/7iSLBztgZArYWUMmZV5b1c"
     },
     {
       "added_at": null,

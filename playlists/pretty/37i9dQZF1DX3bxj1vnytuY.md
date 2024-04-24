@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 
 > Deephouse that travels from Afro to Eastern sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,269 likes - 100 songs - 9 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,361 likes - 100 songs - 9 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3bxj1vnytuY.md) - [plain]
 | 7 | [Kibe](https://open.spotify.com/track/060BS9l7ElcJ05jsnQ7F6t) | [Rancido](https://open.spotify.com/artist/0wtDZVdBWiPXM4gQt3ZNUq), [AfroTura](https://open.spotify.com/artist/3vvjmN7sqoO42Wsusz4wBS), [Bun Xapa](https://open.spotify.com/artist/0tD4QlKohHKqpuPZKELnwZ), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk) | [Kibe](https://open.spotify.com/album/3BySqole2DAhAo1iuh4dCM) | 7:32 |
 | 8 | [Thandaza](https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [Alan Dixon](https://open.spotify.com/artist/0yEnnivHzCPxaTfNbWjV7x), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j), [Arabic Piano](https://open.spotify.com/artist/0Na64T53YX2qe1XG97JyCO) | [Thandaza](https://open.spotify.com/album/2RwaFaBi6nvVUiT9RGbXRD) | 6:01 |
 | 9 | [Premier Gaou \- Nitefreak Remix](https://open.spotify.com/track/57e5ib2PnvuiaTvaI4jGDp) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Magic System](https://open.spotify.com/artist/6MvRVq0CtpQQlwnIiszV8F), [Nitefreak](https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ) | [Premier Gaou \(Nitefreak Remix\)](https://open.spotify.com/album/1kfRbSlDcUF3hz3P9Zhg4c) | 3:42 |
-| 10 | [Koyo Ganda \- Amine K Remix](https://open.spotify.com/track/5Zxxmckr3EcDeQfZaQsn5m) | [K'lid](https://open.spotify.com/artist/7vDWonsXaNMD4klWcmBgST), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Koyo Ganda](https://open.spotify.com/album/6Kkfme3fugKzid7YIhuVrv) | 3:31 |
+| 10 | [Koyo Ganda \- Amine K Remix](https://open.spotify.com/track/5Zxxmckr3EcDeQfZaQsn5m) | [K'lid](https://open.spotify.com/artist/7vDWonsXaNMD4klWcmBgST), [Abdellah Stitou](https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK), [Amine K](https://open.spotify.com/artist/4Jh6PxSFH7CrZrQpDivlYf) | [Koyo Ganda](https://open.spotify.com/album/6Kkfme3fugKzid7YIhuVrv) | 3:31 |
 | 11 | [2 Roots](https://open.spotify.com/track/2rixeRSqKJP98HHOsLnHhr) | [Walid Martinez](https://open.spotify.com/artist/1JRdXMJIEbwd3vVl0cnxY6) | [2 Roots](https://open.spotify.com/album/1eT3yt0QMBaM8GT6N8e3Wp) | 6:49 |
 | 12 | [Sound Of Drums](https://open.spotify.com/track/1G4ITAFN5ysOCkasmi4Eom) | [4Rain](https://open.spotify.com/artist/7mgeWKf0QP5WtjDreBuNME), [Sico Vox](https://open.spotify.com/artist/2pNk2cveUVPedNtESA1PsP) | [Sound Of Drums](https://open.spotify.com/album/2GeoElEWD6TPsbxCdorMmr) | 5:20 |
 | 13 | [Anchor Point](https://open.spotify.com/track/38VyljyWXnVxtYWSiH5Hzc) | [Ahmed Spins](https://open.spotify.com/artist/4jercY4pUhY6jB8eQjpVJV), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [Anchor Point EP](https://open.spotify.com/album/1L8kegBtw3HkqpxTlqc1Fm) | 5:59 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 
 > A playback of <a href="https://open.spotify.com/playlist/37i9dQZF1DX2PG4mbkilf3?si=729501707e594624">Mood Ring</a>’s all\-stars\. Cover: PARTYNEXTDOOR
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,760 likes - 75 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,763 likes - 75 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMv098gRPM7.md) - [plain]
 | 24 | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/track/6rb3wFQ66EWR7DcPG0oEE1) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [We Caa Done \(feat\. Drake\)](https://open.spotify.com/album/4yJNcgX3otzDbMMyrdJBN5) | 4:05 |
 | 25 | [Superpowers](https://open.spotify.com/track/736PP5LTtREkDgktNmX3Gu) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 2:54 |
 | 26 | [FOREVER \(with 6LACK\)](https://open.spotify.com/track/2lVYLiHGIX6GajMqYXF1Un) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [YESSIE](https://open.spotify.com/album/50mB1fMh9YFuLjx92ywsqV) | 3:43 |
-| 27 | [Heartbreaker](https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 4:22 |
-| 28 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 27 | [West](https://open.spotify.com/track/2R5GzHdM4xdA8HNLIF8lOY) | [River Tiber](https://open.spotify.com/artist/1FHDMgGdmIP4IsoFkAwbS0), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Indigo](https://open.spotify.com/album/7H23XdhKb4H4mSCRd6gpwU) | 2:32 |
+| 28 | [Heartbreaker](https://open.spotify.com/track/2GCKWEsbb0Xo1oodTOKVi1) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Journals](https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA) | 4:22 |
 | 29 | [Start Over](https://open.spotify.com/track/7DvlNrYFvmZieL8GdhJuoy) | [Planet Giza](https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG) | [Don't Throw Rocks At The Moon](https://open.spotify.com/album/11enzbnR8lIHAwA82Zz3nH) | 2:10 |
 | 30 | [Peak \(Fed Up\)](https://open.spotify.com/track/3KcDfeZ1UAMtun8TuvG1kT) | [RAAHiiM](https://open.spotify.com/artist/5Bo5WRNdz8ZOSVA6nJs5M9) | [Peak \(Fed Up\)](https://open.spotify.com/album/0bXAy3LZaokYu7txrbmScK) | 3:08 |
 | 31 | [IMPORTED \(with 6LACK\)](https://open.spotify.com/track/2shEeQzAAL3nnOXfB5pJXx) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [6LACK](https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83) | [BEFORE LOVE CAME TO KILL US](https://open.spotify.com/album/42MQxlJENU0xJORW7byNNS) | 3:45 |

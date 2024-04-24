@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe9taVHVUODv.md) - [plain]
 
 > Murder is so 1987\. Listen to the music from and inspired by Blumhouse TV's <i>Totally Killer</i>, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,887 likes - 24 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,988 likes - 24 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

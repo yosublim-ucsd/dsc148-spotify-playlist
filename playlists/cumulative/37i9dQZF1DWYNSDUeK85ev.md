@@ -2,7 +2,7 @@
 
 ### [Joda](https://open.spotify.com/playlist/37i9dQZF1DWYNSDUeK85ev)
 
-> 🥂🍾🧼🫧🛁
+> La playlist que prende la fiesta.
 
 443 songs - 1 day 1 hr 50 min
 

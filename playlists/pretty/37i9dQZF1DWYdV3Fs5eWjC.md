@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 
 > Discover the multifaceted creativity of the black queer community\. Cover: Janelle Monáe
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,447 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,442 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 30 | [Lgbt](https://open.spotify.com/track/0lsw4q8Jei7gEoV7kFe3DS) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Audacious](https://open.spotify.com/album/0Gg0Pn44Sh7FYtBDzgc5CF) | 2:41 |
 | 31 | [Pynk \(feat\. Grimes\)](https://open.spotify.com/track/5OpiyfqaQLdtwHd3SfembH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs), [Grimes](https://open.spotify.com/artist/053q0ukIDRgzwTr4vNSwab) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 4:00 |
 | 32 | [Change Your Life \(feat\. Jhené Aiko\)](https://open.spotify.com/track/1YqXXJDSlDHrp66g9as4uo) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [It Was Good Until It Wasn't](https://open.spotify.com/album/6ROLwnmW9pOioLned0DaP3) | 3:11 |
-| 33 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
-| 34 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
+| 33 | [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 |
+| 34 | [OUTTA CONTROL](https://open.spotify.com/track/6Vuas3LiStIwzv3iG2WZV3) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [OUTTA CONTROL](https://open.spotify.com/album/3SOrMCFaErYHw8BDd1XxYi) | 3:25 |
 | 35 | [Green Eyes](https://open.spotify.com/track/36qo9oMO8yRrZMsDcd5x83) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Green Eyes](https://open.spotify.com/album/4EXAihXfy75Ly68SzicZUp) | 3:17 |
 | 36 | [Grrrl Like](https://open.spotify.com/track/4EZGpYmEN1m5erWvnVsa8a) | [Dope Saint Jude](https://open.spotify.com/artist/47e6jtFUUl53YpTpvzOOMN) | [Grrrl Like](https://open.spotify.com/album/5kqRjRGnmafy2tv229uHsp) | 2:51 |
 | 37 | [Only Have Eyes 42](https://open.spotify.com/track/6kIgzGx7gH0qAKTFTF5GsU) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [The Age of Pleasure](https://open.spotify.com/album/3440hCSfwYXxJcbQ0j3jAJ) | 2:50 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYdV3Fs5eWjC.md) - [plain]
 | 42 | [Gimme A Chance](https://open.spotify.com/track/3Hu3EPU5S3ftac3ulsEw7d) | [Dreamer Isioma](https://open.spotify.com/artist/6u6AbTVrbabv27DLcSrF8i) | [Princess Forever](https://open.spotify.com/album/24nQZEr8mncYgewoIVbCHR) | 3:31 |
 | 43 | [Bruises](https://open.spotify.com/track/5EKjnrnyrw688C3yoMfbwK) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Raven](https://open.spotify.com/album/06uhdSmIYrWRkdnAPjcRcT) | 4:15 |
 | 44 | [Joyride](https://open.spotify.com/track/7t97jbSsGY54ULs52xAV5a) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [ARIZONA BABY](https://open.spotify.com/album/6wi40lIjhukePWyXRKY7qO) | 3:36 |
-| 45 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
-| 46 | [chosen](https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:49 |
+| 45 | [chosen](https://open.spotify.com/track/7EAd7AkfMCXd5JN4VvhFRS) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [CROSSOVER \(Deluxe\)](https://open.spotify.com/album/3blh2LrECEQA15PwechWtO) | 2:49 |
+| 46 | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/track/2ak79ho44RiDi9DFrqYgfq) | [Matoma](https://open.spotify.com/artist/4YXycRbyyAE0wozTk7QMEq), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs) | [Bruised Not Broken \(feat\. MNEK & Kiana Ledé\)](https://open.spotify.com/album/0z4oE7Qw23PPTKR8Upu0Iu) | 2:40 |
 | 47 | [Sick Bitch](https://open.spotify.com/track/7FfPZEeRpDjisWER6xohdV) | [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [Sick Bitch](https://open.spotify.com/album/05DFlfUTOkmIKQJVtAD6ZC) | 4:19 |
 | 48 | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/track/4lUEgk2Da44ikFhF5TS863) | [Marzz](https://open.spotify.com/artist/21ZpqFOa1Viho0YiuEB8lG), [Dee Gatti](https://open.spotify.com/artist/7w8xMJxmzaZeeHRV8eToLT) | [Switching Sides \(feat\. Dee Gatti\)](https://open.spotify.com/album/0t0KTaeuABJBI0XiNM9vyr) | 2:19 |
 | 49 | [SWITCH](https://open.spotify.com/track/2vQ1is9lsYZ94S3jpK1cpK) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ) | [SWITCH](https://open.spotify.com/album/25PmquWhVVEAHM4b0BDxnW) | 1:44 |
-| 50 | [Back Together](https://open.spotify.com/track/1KoXAHzunI8OY34GwmnIQV) | [Amorphous](https://open.spotify.com/artist/2mvAbMVwkxiZWJXjorKpdK), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Back Together](https://open.spotify.com/album/5aW4rl6oNbpoL0LwteyYNH) | 4:09 |
+| 50 | [macrodosing \- Spotify Singles](https://open.spotify.com/track/7BDQqjYCBiqtEuDzWtUaln) | [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [macrodosing \- Spotify Singles](https://open.spotify.com/album/5TGRGz8e1vdknsuShTrBZr) | 2:50 |
 
 Snapshot ID: `MTY5NjUyOTc1MSwwMDAwMDAwMDg3ZGIwNjg2MGI3NjQ0MzVjN2ZhMTQxNTFkNmY2MWQ2`

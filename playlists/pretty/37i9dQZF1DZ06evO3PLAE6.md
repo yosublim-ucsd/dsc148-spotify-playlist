@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 
 > This is Kasey Chambers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,144 likes - 49 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,147 likes - 49 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3PLAE6.md) - [plain]
 | 48 | [Love Like A Hurricane](https://open.spotify.com/track/4CrJxr4egNEYhniSDNITy4) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Little Bird](https://open.spotify.com/album/2UTvgUVmmP7SJFNeaXbzBU) | 3:09 |
 | 49 | [Have Mercy On Me](https://open.spotify.com/track/3pkx8nZDJWB72d8wUTOABy) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE), [Shane Nicholson](https://open.spotify.com/artist/2VGE8KFAYM3yE0qOsDGf6t) | [Wreck & Ruin](https://open.spotify.com/album/4rq15QdhJoQuy9Cju6Q3cZ) | 2:55 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDM4N2ZjNDkyMTk1MDY5N2Y5NzMyNzEzNDQ5MmZmNDli`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGRjMGUzZjQxMDc4MGQ5NDMzNWRiY2Y0OWU3ZWYzMDY2`

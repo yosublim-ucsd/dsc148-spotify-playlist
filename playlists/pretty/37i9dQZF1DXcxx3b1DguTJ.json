@@ -1,6 +1,6 @@
 {
   "description": "Grandes cl\u00e1sicos del pop en espa\u00f1ol. \u00a1Todo limpio y ordenado!",
-  "num_followers": 138954,
+  "num_followers": 139019,
   "original_name": "Pa Planchar",
   "owner": {
     "name": "Spotify",
@@ -123,22 +123,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
-      },
-      "artists": [
-        {
-          "name": "Fonseca",
-          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
-        }
-      ],
-      "duration_ms": 228680,
-      "name": "Te Mando Flores",
-      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "Qui\u00e9n Como t\u00fa",
         "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 211733,
       "name": "Qui\u00e9n Como T\u00fa",
       "url": "https://open.spotify.com/track/4hfiDzgfMqtcOiUQpZidBQ"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/6O0WvW7JA4B02y8D9Kd3Bx"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        }
+      ],
+      "duration_ms": 228680,
+      "name": "Te Mando Flores",
+      "url": "https://open.spotify.com/track/2in1gSZtv2lRbcZUmN9aAl"
     },
     {
       "added_at": "2023-02-13 21:24:01",
@@ -235,22 +235,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Sobre El Amor Y Sus Efectos Secundarios",
-        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
-      },
-      "artists": [
-        {
-          "name": "Morat",
-          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
-        }
-      ],
-      "duration_ms": 202120,
-      "name": "En Un S\u00f3lo Dia",
-      "url": "https://open.spotify.com/track/2quYcQ34rPm5AtvpNCWDsg"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "Pecado Original",
         "url": "https://open.spotify.com/album/5JRGlJtz53p6P1qlfrcPxe"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 201040,
       "name": "\u00a1Ay Amor!",
       "url": "https://open.spotify.com/track/0fC6Szw2CX8XZYsydOLmVC"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
+        "name": "Sobre El Amor Y Sus Efectos Secundarios",
+        "url": "https://open.spotify.com/album/50eHcXc4qede9mUKCYOuoz"
+      },
+      "artists": [
+        {
+          "name": "Morat",
+          "url": "https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD"
+        }
+      ],
+      "duration_ms": 202120,
+      "name": "En Un S\u00f3lo Dia",
+      "url": "https://open.spotify.com/track/2quYcQ34rPm5AtvpNCWDsg"
     },
     {
       "added_at": "2023-02-13 21:24:01",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Locas Por La M\u00fasica",
-        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 222413,
-      "name": "C\u00f3mo Te Va Mi Amor",
-      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "Nek (spanish version)",
         "url": "https://open.spotify.com/album/04HNYs9ilzC2h31dq7pVcP"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 225239,
       "name": "Laura no est\u00e0",
       "url": "https://open.spotify.com/track/10tzk7ZRjwnLKd3gjKLtTA"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
+        "name": "Locas Por La M\u00fasica",
+        "url": "https://open.spotify.com/album/5skXUuGQ0Pg7H07k6NywN5"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 222413,
+      "name": "C\u00f3mo Te Va Mi Amor",
+      "url": "https://open.spotify.com/track/6Vy53iriyX8Vqx0V68Jzn2"
     },
     {
       "added_at": "2023-02-13 21:24:01",
@@ -747,22 +747,6 @@
     {
       "added_at": "2023-02-13 21:24:01",
       "album": {
-        "name": "Solo Lo Mejor - 20 Exitos",
-        "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
-      },
-      "artists": [
-        {
-          "name": "Pandora",
-          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
-        }
-      ],
-      "duration_ms": 295866,
-      "name": "Popurri Juan Gabriel Medley",
-      "url": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
-    },
-    {
-      "added_at": "2023-02-13 21:24:01",
-      "album": {
         "name": "Franco De Vita En Primera Fila",
         "url": "https://open.spotify.com/album/6IIvdAgLtisXjNnxZpBxOX"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 234040,
       "name": "Un Buen Perdedor",
       "url": "https://open.spotify.com/track/68RvCYDKtz9HR1WMR9D9VV"
+    },
+    {
+      "added_at": "2023-02-13 21:24:01",
+      "album": {
+        "name": "Solo Lo Mejor - 20 Exitos",
+        "url": "https://open.spotify.com/album/1Cazr5vgNlHFUPgueb51Eb"
+      },
+      "artists": [
+        {
+          "name": "Pandora",
+          "url": "https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP"
+        }
+      ],
+      "duration_ms": 295866,
+      "name": "Popurri Juan Gabriel Medley",
+      "url": "https://open.spotify.com/track/2HtaztxlMW5bPI7ddDSXDd"
     },
     {
       "added_at": "2023-02-13 21:24:01",

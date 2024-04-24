@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 
 > All the of punk rock that you need in your life.
 
-[Spotify](https://open.spotify.com/user/spotify) - 911,559 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 911,398 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 34 | [Pretend We're Dead](https://open.spotify.com/track/3z5ggGtcs4t8pizW521gW9) | [L7](https://open.spotify.com/artist/2zMQOJ4Cyl4BYbw6WqaO3h) | [Bricks Are Heavy](https://open.spotify.com/album/0z7Dc7FRsDH7E4kj32mKyM) | 3:55 |
 | 35 | [Human Fly](https://open.spotify.com/track/0ElRzK07sc9eszyk1ea9Ab) | [The Cramps](https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3) | [Off The Bone](https://open.spotify.com/album/1n1znRLH7iRtkhjbrCs0wi) | 2:16 |
 | 36 | [The State Of Massachusetts](https://open.spotify.com/track/0kXpvPNNjjPsEGRg3SE0xW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest Of Times](https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX) | 3:52 |
-| 37 | [Have Love Will Travel](https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:40 |
-| 38 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
+| 37 | [Sell Out](https://open.spotify.com/track/6SJ1hWFVBIiUgGgHKvwXCQ) | [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Turn The Radio Off](https://open.spotify.com/album/5nO5x1Qgnf7zwmO83qrHRn) | 3:47 |
+| 38 | [Have Love Will Travel](https://open.spotify.com/track/2uXkW8uJcOIhlbUatEPLPs) | [The Sonics](https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy) | [Here Are the Sonics](https://open.spotify.com/album/4vqaqoTEbNyeeSHJA6KpdM) | 2:40 |
 | 39 | [I'm Waiting For The Man](https://open.spotify.com/track/3fElupNRLRJ0tbUDahPrAb) | [The Velvet Underground](https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC), [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [The Velvet Underground & Nico 45th Anniversary](https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV) | 4:39 |
 | 40 | [Rip It Up](https://open.spotify.com/track/5tHFPtV7dT01fxDe2AhKjD) | [Little Richard](https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm) | [Here's Little Richard \(Deluxe Edition\)](https://open.spotify.com/album/18tV6PLXYvVjsdOVk0S7M8) | 2:21 |
 | 41 | [Carousel](https://open.spotify.com/track/3gVXAW2pduBl7tzjAGUVRb) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Cheshire Cat](https://open.spotify.com/album/6uTjljlshthbtA2U7V6u83) | 3:14 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd6tJtr4qeot.md) - [plain]
 | 47 | [Josie](https://open.spotify.com/track/5IKqS0Kmme9uVOVjulysEV) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [Dude Ranch](https://open.spotify.com/album/0RADUK8yTUBidzBke6Eszq) | 3:19 |
 | 48 | [I Can't Explain \- Mono Version](https://open.spotify.com/track/4B3gkbr7aGC2sujjgivK0s) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation \(50th Anniversary / Super Deluxe\)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | 2:05 |
 | 49 | [Superman](https://open.spotify.com/track/6cL7NCFSvqWrBH5r4mkvVV) | [Goldfinger](https://open.spotify.com/artist/7sVQKNtdP2NylxMgbNOJMM) | [The Best Of Goldfinger](https://open.spotify.com/album/2Fhk8LPPX8d14HwEKjmJ1O) | 3:05 |
-| 50 | [New Girl](https://open.spotify.com/track/7bFNtX22XJMy5TuEpQfa3C) | [The Suicide Machines](https://open.spotify.com/artist/31v7ijnAMVL9V7Uzr1sFcI) | [Destruction By Definition](https://open.spotify.com/album/6XN3a05K0LVycfy137CSvL) | 2:03 |
+| 50 | [1985](https://open.spotify.com/track/4UuHWIkAWnN176A2rx7YFB) | [Bowling For Soup](https://open.spotify.com/artist/5ND0mGcL9SKSjWIjPd0xIb) | [A Hangover You Don't Deserve](https://open.spotify.com/album/7JST4gPYSXFegyuk9nKFb0) | 3:13 |
 
 Snapshot ID: `MTcwNzI0ODIxMiwwMDAwMDAwMDlkZmEzNTc3NDI1MGVhNmM1NWMxNTMzNTc4YzFlYTA1`

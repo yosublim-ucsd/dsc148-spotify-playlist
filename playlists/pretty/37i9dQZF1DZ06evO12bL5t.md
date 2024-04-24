@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 
 > This is Herencia de Patrones\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,088 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,173 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,12 +19,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 9 | [Plush](https://open.spotify.com/track/3iOYS9G3ABuHK36IT8f9es) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [HERNAN TREJO](https://open.spotify.com/artist/2JW58Zzu11HCWLaMou9UGD) | [Plush](https://open.spotify.com/album/3FdVasYYRNSMgmdtcMGxh1) | 2:57 |
 | 10 | [Feria en el Sobre](https://open.spotify.com/track/5npAbr2v6wRL75IHWp2Noi) | [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Feria en el Sobre](https://open.spotify.com/album/23Mm9RJhQPOToWrGdcAmRc) | 3:14 |
 | 11 | [Pa Que Sepan](https://open.spotify.com/track/4EJKQ9fDwPddxk44CyxYin) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Grupo Triple L](https://open.spotify.com/artist/63VkI7oaQL2Ou1KH9FhN3k) | [Para Los Que Conocen El Rollo](https://open.spotify.com/album/6mru0SSKCLIY91sdcYjEWH) | 3:44 |
-| 12 | [Moreno 80](https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Moreno 80 \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO) | 3:02 |
-| 13 | [Capitan Del Barco](https://open.spotify.com/track/4FMd1bWKZXcyQi9iBiuqYN) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:34 |
+| 12 | [Capitan Del Barco](https://open.spotify.com/track/4FMd1bWKZXcyQi9iBiuqYN) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:34 |
+| 13 | [Moreno 80](https://open.spotify.com/track/1MGJxKsoJ88nwrEMnueAE5) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Moreno 80 \(feat\. Herencia de Patrones\)](https://open.spotify.com/album/5StKBBdChEqEpYAJlsl5lO) | 3:02 |
 | 14 | [Siempre Activo](https://open.spotify.com/track/0K4SyhuWJ915Og82kI8DRz) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 4:26 |
 | 15 | [99 Problemas](https://open.spotify.com/track/6Td09iZqppMRhWaCCJiplg) | [Los Del Puerto](https://open.spotify.com/artist/00yQbObT5JJf3n8RO9476e), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [99 Problemas](https://open.spotify.com/album/2d5jDHiiFvFnxLO3pFVpeA) | 3:12 |
-| 16 | [El Capitan](https://open.spotify.com/track/5dxoI7r19Bwb6U57iTnpxk) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 3:12 |
-| 17 | [Lo Que Es](https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:22 |
+| 16 | [Lo Que Es](https://open.spotify.com/track/3I8CEUQgFMuGu1UkGrtSTk) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Sorry For The Wait](https://open.spotify.com/album/6yk8A7JtAQZbqiF2OK6iuZ) | 3:22 |
+| 17 | [El Capitan](https://open.spotify.com/track/5dxoI7r19Bwb6U57iTnpxk) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Corazon Tumbado](https://open.spotify.com/album/1szNQrO35SYGUVFbInudGc) | 3:12 |
 | 18 | [Buena Vida Mala Fama](https://open.spotify.com/track/29n0HRYteSorRJK9a4rKrp) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4) | [Pa' las Vibras 2](https://open.spotify.com/album/6WTGGJdnAShmVQLDH1EcKE) | 2:32 |
 | 19 | [Buen Ejemplo](https://open.spotify.com/track/0IZfXjvd4yF8obhsr1SKbe) | [Hermanos Figueroa](https://open.spotify.com/artist/7BuH7TfZEJD0XJiNfmtRya), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6), [Esteban Gabriel](https://open.spotify.com/artist/6RPeBghYnSwGV6FOw7huuN) | [Buen Ejemplo](https://open.spotify.com/album/6uStvNsIm7ymwGUAbRk5gW) | 3:25 |
 | 20 | [Bien Pilas](https://open.spotify.com/track/2D3GD6rdUMvYrezCeeoPWT) | [Los Hijos De Garcia](https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa), [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Bien Pilas](https://open.spotify.com/album/3B5VpXorHXwY9my6lY8VAp) | 2:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12bL5t.md) - [plain]
 | 49 | [Gelatti](https://open.spotify.com/track/1R1Qreuyg0MzfrHvShfCby) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [HP Everything](https://open.spotify.com/album/7DMfZUWisuEojumNEaolpr) | 3:00 |
 | 50 | [Pasajes De La Vida](https://open.spotify.com/track/3Z5upGPXmrFYWmDsTvw5Yv) | [Herencia de Patrones](https://open.spotify.com/artist/1Q6SZxTvaE3HhslV0iXbI6) | [Pa Las Vibras](https://open.spotify.com/album/6oElOd3f50sDYPdjW1qMNM) | 2:41 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGQ5OGZiMDY3ZDNjNjVlOTQyZGNmY2IzNjkzNzk2YzQx`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDczNjM5ZGMxOWY0M2Q1ZDM2ZTRmZDRhOWU1ZjlmMjhj`

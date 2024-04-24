@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 
 ### [This Is Metallica](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1sJmec)
 
-> This is Metallica\. The essential tracks, all in one playlist.
+> This is Metallica\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,913,857 likes - 50 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,913,895 likes - 50 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 34 | [Screaming Suicide](https://open.spotify.com/track/2hBn08QphNtdnhwDNtnZMg) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 5:30 |
 | 35 | [Creeping Death \- Creeping Death EP Version / Remastered](https://open.spotify.com/track/1Gn1FeIYUMZ2a7PrbaaQhl) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:35 |
 | 36 | [Moth Into Flame](https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Hardwired…To Self\-Destruct](https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7) | 5:50 |
-| 37 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
+| 37 | [Harvester Of Sorrow](https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 5:45 |
 | 38 | [72 Seasons](https://open.spotify.com/track/3uSATa7xWXVJrMhJJSnGGk) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 7:39 |
-| 39 | [Harvester Of Sorrow](https://open.spotify.com/track/1V3wAgMB4ESaN4rStlrUNz) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [...And Justice For All](https://open.spotify.com/album/6Eycw3dwcDMEFSqkUvLQ7g) | 5:45 |
+| 39 | [Nothing Else Matters \- Jungle Cruise Version Part 1](https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Jungle Cruise \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq) | 1:26 |
 | 40 | [Ride The Lightning \- Remastered](https://open.spotify.com/track/2O7UGwJPVlix15Wn4sa5vw) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Ride The Lightning \(Deluxe / Remastered\)](https://open.spotify.com/album/4K5E5mWQbECn9aThu6Xnkx) | 6:36 |
 | 41 | [All Nightmare Long](https://open.spotify.com/track/3e7wv9TChjWrnXHrk5NyBU) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Death Magnetic](https://open.spotify.com/album/3bK58rVcWBh3V3vxMLzi0V) | 7:57 |
 | 42 | [Too Far Gone?](https://open.spotify.com/track/2ZPnedMaS4W1de05Xz18hF) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 4:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1sJmec.md) - [plain]
 | 49 | [Leper Messiah](https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Master Of Puppets \(Remastered\)](https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21) | 5:39 |
 | 50 | [If Darkness Had a Son](https://open.spotify.com/track/1oCQLSGSiHozdyx7lOqkIt) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/6UwjRSX9RQyNgJ3LwYhr9i) | 6:36 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDA3ZGY5YjBkMmEzYzNmOTE2YTcyN2RkMDU3Nzg5NDA0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGUwZWJiNzRjYTJiMTBmNmJlOWFmYzRkZGNkZDdkZWVh`

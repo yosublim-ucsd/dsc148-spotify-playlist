@@ -1,6 +1,6 @@
 {
   "description": "nos fuimos de fiesta con J Balvin & Will Smith. \ud83c\udf89",
-  "num_followers": 904530,
+  "num_followers": 902953,
   "original_name": "Fiesta",
   "owner": {
     "name": "Spotify",
@@ -323,30 +323,6 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
-        "name": "ELOVRGA",
-        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Joaquin Medina",
-          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
-        }
-      ],
-      "duration_ms": 194769,
-      "name": "ELOVRGA",
-      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
         "name": "The Academy: Segunda Misi\u00f3n",
         "url": "https://open.spotify.com/album/2de63hNYGRgcNTXCtXQGvu"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 229738,
       "name": "LA RANGER (feat. Myke Towers)",
       "url": "https://open.spotify.com/track/0QoaFLmBJyuVuzOIGy6iCS"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
+        "name": "ELOVRGA",
+        "url": "https://open.spotify.com/album/2EmOYnsIj3bkiPYTuhsqZR"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        },
+        {
+          "name": "Joaquin Medina",
+          "url": "https://open.spotify.com/artist/6bpv92ES2Vcv2OKA3DAhgw"
+        }
+      ],
+      "duration_ms": 194769,
+      "name": "ELOVRGA",
+      "url": "https://open.spotify.com/track/2TJKY0WSFufZOzbRNgl6zE"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1195,30 +1195,6 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
-        "name": "Coraz\u00f3n Roto (Remix)",
-        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
-      },
-      "artists": [
-        {
-          "name": "Brray",
-          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 275040,
-      "name": "Coraz\u00f3n Roto - Remix",
-      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
         "name": "La Jumpa",
         "url": "https://open.spotify.com/album/6LOhj1aK7vkGHJXtKU16PN"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 232549,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/6Za3190Sbw39BBC77WSS1C"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
+        "name": "Coraz\u00f3n Roto (Remix)",
+        "url": "https://open.spotify.com/album/6tt4TtcglWQFVSI0AGUvEF"
+      },
+      "artists": [
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 275040,
+      "name": "Coraz\u00f3n Roto - Remix",
+      "url": "https://open.spotify.com/track/6k5wiT5l9DK8iZmhvEvoqo"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1471,6 +1471,22 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
+        "name": "M\u00e1s Negro Que Rojo",
+        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Hecha Pa' Mi",
+      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
         "name": "ENOC",
         "url": "https://open.spotify.com/album/69iuPQsXel3luOSDNF0q2Q"
       },
@@ -1495,22 +1511,6 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
-        "name": "M\u00e1s Negro Que Rojo",
-        "url": "https://open.spotify.com/album/1dzGsItgF4Gp1G4TNsdoXU"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Hecha Pa' Mi",
-      "url": "https://open.spotify.com/track/3VvA1wSxukMLsvXoXtlwWx"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
         "name": "La_Original.mp3",
         "url": "https://open.spotify.com/album/54okOxhsxH5Lmxgdv4WwKN"
       },
@@ -1531,26 +1531,6 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
-        "name": "Labios Mordidos (with KAROL G)",
-        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
-      },
-      "artists": [
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 195373,
-      "name": "Labios Mordidos (with KAROL G)",
-      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
         "name": "JOSE",
         "url": "https://open.spotify.com/album/11GmvpYnbgK0rSryPaV5BP"
       },
@@ -1567,6 +1547,26 @@
       "duration_ms": 217360,
       "name": "Qu\u00e9 M\u00e1s Pues?",
       "url": "https://open.spotify.com/track/6D2TCm4nf5nxAcdGJ7w3QP"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
+        "name": "Labios Mordidos (with KAROL G)",
+        "url": "https://open.spotify.com/album/0HtbxbNfX3gME4K0SIR0lT"
+      },
+      "artists": [
+        {
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 195373,
+      "name": "Labios Mordidos (with KAROL G)",
+      "url": "https://open.spotify.com/track/1HLaJowFbNM3MPyqnk5vjW"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1595,42 +1595,6 @@
       "duration_ms": 219358,
       "name": "GODIVA",
       "url": "https://open.spotify.com/track/3eBTioPtHkBHLiHXEmLtaA"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
-        "name": "MAMIII",
-        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
-      },
-      "artists": [
-        {
-          "name": "Becky G",
-          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 226088,
-      "name": "MAMIII",
-      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
-        "name": "REMIX EXCLUSIVO",
-        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
-      },
-      "artists": [
-        {
-          "name": "Feid",
-          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
-        }
-      ],
-      "duration_ms": 206946,
-      "name": "REMIX EXCLUSIVO",
-      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1667,6 +1631,26 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
+        "name": "MAMIII",
+        "url": "https://open.spotify.com/album/6GHUywBU0u92lg0Dhrt40R"
+      },
+      "artists": [
+        {
+          "name": "Becky G",
+          "url": "https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 226088,
+      "name": "MAMIII",
+      "url": "https://open.spotify.com/track/1ri9ZUkBJVFUdgwzCnfcYs"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
         "name": "Nost\u00e1lgico",
         "url": "https://open.spotify.com/album/3752EkZZ1wjEzZ1MRd9rsV"
       },
@@ -1691,22 +1675,18 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
-        "name": "Desesperados",
-        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
+        "name": "REMIX EXCLUSIVO",
+        "url": "https://open.spotify.com/album/0K9klyLQafG164T9f7NKkS"
       },
       "artists": [
         {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Desesperados",
-      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
+      "duration_ms": 206946,
+      "name": "REMIX EXCLUSIVO",
+      "url": "https://open.spotify.com/track/3eqCJfgJJs8iKx49KO12s3"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1743,22 +1723,22 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
-        "name": "PLEBADA",
-        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
+        "name": "Desesperados",
+        "url": "https://open.spotify.com/album/3w1Tr9F91XMcsmBJQ8hS7H"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
         },
         {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
         }
       ],
-      "duration_ms": 221739,
-      "name": "PLEBADA",
-      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
+      "duration_ms": 224996,
+      "name": "Desesperados",
+      "url": "https://open.spotify.com/track/6ZOcbKub95XSDESsKKuH41"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1779,6 +1759,26 @@
       "duration_ms": 166529,
       "name": "Arranca (feat. Omega)",
       "url": "https://open.spotify.com/track/6IdcyYfBz9LG3SWIKVyNgh"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
+        "name": "PLEBADA",
+        "url": "https://open.spotify.com/album/61FGBfOI8At3VCHFjqhWR2"
+      },
+      "artists": [
+        {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "duration_ms": 221739,
+      "name": "PLEBADA",
+      "url": "https://open.spotify.com/track/7uSLF2yhpjLlYBLtyPX3Lb"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
-        "name": "COCO LOCO",
-        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        }
-      ],
-      "duration_ms": 166734,
-      "name": "COCO LOCO",
-      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
         "name": "Un Cigarrillo",
         "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
       },
@@ -1951,6 +1935,22 @@
       "duration_ms": 184266,
       "name": "Un Cigarrillo",
       "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
+        "name": "COCO LOCO",
+        "url": "https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "duration_ms": 166734,
+      "name": "COCO LOCO",
+      "url": "https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk"
     },
     {
       "added_at": "2024-04-15 06:15:31",
@@ -1991,6 +1991,50 @@
     {
       "added_at": "2024-04-15 06:15:31",
       "album": {
+        "name": "Los Legendarios 001",
+        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
+      },
+      "artists": [
+        {
+          "name": "Los Legendarios",
+          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
+        },
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 261665,
+      "name": "Fiel",
+      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
+        "name": "Afrodis\u00edaco",
+        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 231594,
+      "name": "Reloj",
+      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
+    },
+    {
+      "added_at": "2024-04-15 06:15:31",
+      "album": {
         "name": "LOS MARCIANOS Vol.1: Dei V Version",
         "url": "https://open.spotify.com/album/6G0d1PrCPMXe80Hjyq4D2a"
       },
@@ -2019,50 +2063,6 @@
       "duration_ms": 235146,
       "name": "BAD BOY",
       "url": "https://open.spotify.com/track/3Zm9ZCH5iQcpp1tdvU9rb7"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
-        "name": "Afrodis\u00edaco",
-        "url": "https://open.spotify.com/album/3fq06DDIkadDRB9RuBb22v"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 231594,
-      "name": "Reloj",
-      "url": "https://open.spotify.com/track/4loQgPwJHocL3dFwLfjb1J"
-    },
-    {
-      "added_at": "2024-04-15 06:15:31",
-      "album": {
-        "name": "Los Legendarios 001",
-        "url": "https://open.spotify.com/album/7g5WqPI4CdA22Cy8LxRXCf"
-      },
-      "artists": [
-        {
-          "name": "Los Legendarios",
-          "url": "https://open.spotify.com/artist/0n6sKrG0xKAf8xmdqeNGke"
-        },
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Jhayco",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 261665,
-      "name": "Fiel",
-      "url": "https://open.spotify.com/track/7Bk0uXKk1uPT0XuQbpFzvs"
     },
     {
       "added_at": "2024-04-15 06:15:31",

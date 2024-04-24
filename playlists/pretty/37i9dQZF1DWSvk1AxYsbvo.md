@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,716 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,723 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 21 | [SHE](https://open.spotify.com/track/36ty55F3OvW2lXtzTqLXQH) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta), [Yoon Jiyoung](https://open.spotify.com/artist/5SkCZXyRQxw5ZLWAH5r4UJ) | [SHE](https://open.spotify.com/album/6mMVN3CgIq54BGZPgjU9IQ) | 3:18 |
 | 22 | [Like a Bird](https://open.spotify.com/track/7qNGHALgM8RPLQDGVt6rok) | [MeloMance](https://open.spotify.com/artist/6k4r73Wq8nhkCDoUsECL1e) | [PLAYLIST \(Original Soundtrack\), Pt.1](https://open.spotify.com/album/1jXIHAXoA7oz18tsTh4jw4) | 4:41 |
 | 23 | [What Should I do](https://open.spotify.com/track/4ARhTCA10vYH49DceecURl) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [What Should I do](https://open.spotify.com/album/4uJHtqDoEdNtRYxCmLMURt) | 4:27 |
-| 24 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
-| 25 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 |
+| 24 | [People](https://open.spotify.com/track/0onFXxwLDxFtnnLRI5T1xc) | [deulrejang](https://open.spotify.com/artist/1jdSKlrCsJ5qLsT7YuOiwM) | [Hi, I am Deulre Jang](https://open.spotify.com/album/7kSPx9x0TpAhYrt3Tuomt9) | 3:25 |
+| 25 | [Bloom](https://open.spotify.com/track/7IElhPx2i4MjnVgzOZVqrB) | [CHAI](https://open.spotify.com/artist/0zNxCxEjUGAsb6ygZd27fC) | [Bloom](https://open.spotify.com/album/1IXM5QxiYDAd4BwCUxOg95) | 3:24 |
 | 26 | [i and i](https://open.spotify.com/track/33PhGGthxOh1gmUCW28gMB) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [i and i](https://open.spotify.com/album/6DnaYS5enLDhJwz5KbQwrU) | 2:58 |
 | 27 | [To You](https://open.spotify.com/track/3opoCKM7OSYocDSwAdDS0m) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:13 |
 | 28 | [a story to tell \(Original Ver.\)](https://open.spotify.com/track/7s1qstK42U47xyFOJHiqhH) | [Betty](https://open.spotify.com/artist/3BakCONT5qkN5wyybtOUhW) | [Beautiful GunbarI OST](https://open.spotify.com/album/6J9aBraciskBz10VIcOwo5) | 2:51 |
@@ -46,15 +46,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 36 | [Going home](https://open.spotify.com/track/6rnHkf4EUMA9HWWsHEuLYh) | [Lucia](https://open.spotify.com/artist/3VHFAtB6fPQwpAWQ5rn4uc) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 8](https://open.spotify.com/album/47BJR3AeDuXKNUewXf1OAq) | 3:33 |
 | 37 | [Monologue](https://open.spotify.com/track/7fNmFxnGqipleYaNDnnVHj) | [김수영 Kim Suyoung](https://open.spotify.com/artist/7nj9JLgGDx7CRNUKzptaCj) | [Don't Know](https://open.spotify.com/album/5jnvJERFgLcdXTtlaY8yMI) | 3:30 |
 | 38 | [시소](https://open.spotify.com/track/1laBlIGkUWub0P9SUEIl8J) | [KiTak](https://open.spotify.com/artist/1GVOCXlt9J5PcnyGBtArvM) | [시소](https://open.spotify.com/album/4vF3ZgalUlgCgNWyAQESAR) | 2:43 |
-| 39 | [Lazy Me](https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:07 |
-| 40 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
-| 41 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
+| 39 | [Don't Ever Leave Me](https://open.spotify.com/track/6uxdpSep0dmUqN5iv3XGAs) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [Seoul Check\-in OST Part 8](https://open.spotify.com/album/7l6dDeN2rIh2t4QHx2Trf5) | 2:58 |
+| 40 | [Lazy Me](https://open.spotify.com/track/3WHtA1TRzo9TCLFAPBafnq) | [Sandeul](https://open.spotify.com/artist/2QeJBmgBdpH4i3uJns5Rdx) | [My Little Thought](https://open.spotify.com/album/0uH4sHGp8WT9KyK5d8Ge8g) | 3:07 |
+| 41 | [Do You Know My Heart \(Feat\. NUITNUIT\)](https://open.spotify.com/track/5NmIcpSaKgwkmezmI8LQDC) | [Norwegian Wood](https://open.spotify.com/artist/2Uvrls9HlspsRUtW6mp4Q3), [NUITNUIT](https://open.spotify.com/artist/7magwQRiJcYtu4rix7MlqM) | [Do You Know My Heart](https://open.spotify.com/album/5BZA1HF4gHVHejvemSXfYD) | 3:21 |
 | 42 | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/track/3LcdUoTKft3YWEtD0kZsLm) | [Narae Lee](https://open.spotify.com/artist/2BfdOTwtSqVgQlahK3cSO1) | [Our Endless Sea \(All the way to you\)](https://open.spotify.com/album/0Z0gQleFzsGTfWQFWfq3mM) | 3:24 |
 | 43 | [내일이 되면](https://open.spotify.com/track/6PMHyBLXJft4jmxdCjgmta) | [soon](https://open.spotify.com/artist/1G3jhXJfaqMfNojx7SxDcW) | [내일이 되면](https://open.spotify.com/album/06P2vAqOGRpEgvs1eUrIyz) | 3:40 |
 | 44 | [Call me now](https://open.spotify.com/track/7AfXFqHlw1HVRPobCInpsU) | [JI JIN SEOK](https://open.spotify.com/artist/5iwc2ZJnuU9g4F6JaAY6Zw) | [Call me now](https://open.spotify.com/album/31a95WflUiSabbWq0RAchF) | 3:53 |
 | 45 | [OceanooM∘☽](https://open.spotify.com/track/6BlMjy03nLmO7s60Ql1Uc2) | [MAKTUB](https://open.spotify.com/artist/0frNU3rG4ltOP4GNBA1g4j) | [OceanooM∘☽](https://open.spotify.com/album/7DuHhV2JLZRN36IpeQ8Jcq) | 3:25 |
-| 46 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
-| 47 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 46 | [Hello](https://open.spotify.com/track/2XeZwMyRKG9vSvTLq7Y40Z) | [Haze Moon](https://open.spotify.com/artist/5qWj6gxjgEq3Ut7QKG1Wjd) | [My Beautiful Apartment \(O'PENing\) \(Original Soundtrack\)](https://open.spotify.com/album/1t9pAo9XneaecUx94i27ms) | 3:48 |
+| 47 | [Shadow](https://open.spotify.com/track/4eiB70BZrnHWf1YehBPjGg) | [Jo eunsae](https://open.spotify.com/artist/3uUEE8V8efV6AAD3F5oZtj) | [Shadow](https://open.spotify.com/album/3ilZqI8FLVaCnKtdjNB24q) | 3:27 |
 | 48 | [Free Giveaway](https://open.spotify.com/track/2z6tFZKtzpgEYa0Fcvk7Bi) | [Coffeeboy](https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM) | [Free Giveaway](https://open.spotify.com/album/0FwnweLabHiRQG1qYenKjY) | 3:31 |
 | 49 | [Cheer Up \- Acoustic Version](https://open.spotify.com/track/6kBb78hkYvUu5jllXys9vQ) | [THE ADE](https://open.spotify.com/artist/60ftnqC2sZGUXDqElMPvTy) | [RE: CORD](https://open.spotify.com/album/1Fq2NBoPpMl3izpHzwcW7L) | 3:11 |
 | 50 | [My \(Prod\. Norwegian Wood\)](https://open.spotify.com/track/6qIXTn914YMxHWvHNm14Nh) | [Baek Sun](https://open.spotify.com/artist/3OyQSzRpBjTj8LIkbkjU8O) | [My](https://open.spotify.com/album/6lxViYPgD2UjJ1nhgXz9kw) | 2:46 |

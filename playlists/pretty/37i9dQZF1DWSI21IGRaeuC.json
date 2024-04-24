@@ -1,6 +1,6 @@
 {
   "description": "Dive into the deep end of the tech house spectrum.",
-  "num_followers": 35268,
+  "num_followers": 35318,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "Dusty Showbiz",
-        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
-      },
-      "artists": [
-        {
-          "name": "Sosa UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Dusty Showbiz",
-      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
         "name": "Space Bump",
         "url": "https://open.spotify.com/album/3hyeFEy3z2lB4Iq7oue2Ji"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 167004,
       "name": "Space Bump",
       "url": "https://open.spotify.com/track/76oZNzrXQRRGW4imfrPB1R"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "Dusty Showbiz",
+        "url": "https://open.spotify.com/album/5AT9JXNAlwdeYOxocxjfyb"
+      },
+      "artists": [
+        {
+          "name": "Sosa UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Dusty Showbiz",
+      "url": "https://open.spotify.com/track/30VJGgRcj2MoyeW7UHQgrO"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1695,18 +1695,22 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "GUNZ.OUT",
-        "url": "https://open.spotify.com/album/5BlsT6kGQG0gXscybrFdsQ"
+        "name": "Fuego",
+        "url": "https://open.spotify.com/album/1U7zIaMNbQJU120cU6iEym"
       },
       "artists": [
         {
           "name": "Blackchild (ITA)",
           "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        },
+        {
+          "name": "Moonage",
+          "url": "https://open.spotify.com/artist/3IA8v0laMEfTiVfDPekUDX"
         }
       ],
-      "duration_ms": 186000,
-      "name": "GUNZ.OUT",
-      "url": "https://open.spotify.com/track/1iS1TDkqPMN7eLRMGuKGqe"
+      "duration_ms": 138750,
+      "name": "Fuego",
+      "url": "https://open.spotify.com/track/2JK0WG92P4bHOxRtWgWt6i"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1727,26 +1731,18 @@
     {
       "added_at": "2024-04-19 04:00:00",
       "album": {
-        "name": "JS04",
-        "url": "https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL"
+        "name": "YAP EP",
+        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
       },
       "artists": [
         {
-          "name": "Jump Source",
-          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
-        },
-        {
-          "name": "Patrick Holland",
-          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
-        },
-        {
-          "name": "Priori",
-          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+          "name": "Kollektiv Turmstrasse",
+          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
         }
       ],
-      "duration_ms": 346666,
-      "name": "Scrap",
-      "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
+      "duration_ms": 246474,
+      "name": "YAP",
+      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1763,22 +1759,6 @@
       "duration_ms": 320000,
       "name": "What We Got",
       "url": "https://open.spotify.com/track/0VSqvYrv6dK7W6oCBmNDWQ"
-    },
-    {
-      "added_at": "2024-04-19 04:00:00",
-      "album": {
-        "name": "YAP EP",
-        "url": "https://open.spotify.com/album/05R0wLkqu505xO4Jx40KVf"
-      },
-      "artists": [
-        {
-          "name": "Kollektiv Turmstrasse",
-          "url": "https://open.spotify.com/artist/1oXiuCd5F0DcnmXH5KaM6N"
-        }
-      ],
-      "duration_ms": 246474,
-      "name": "YAP",
-      "url": "https://open.spotify.com/track/13HJKOxoj5k0XsBOAEdqAt"
     },
     {
       "added_at": "2024-04-19 04:00:00",
@@ -1803,6 +1783,30 @@
       "duration_ms": 215642,
       "name": "Targa - Logic1000 Remix",
       "url": "https://open.spotify.com/track/6Q9RgcT8pB3USUFjG9MY9s"
+    },
+    {
+      "added_at": "2024-04-19 04:00:00",
+      "album": {
+        "name": "JS04",
+        "url": "https://open.spotify.com/album/2SMTDzqLo6MAThic9FnCrL"
+      },
+      "artists": [
+        {
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        }
+      ],
+      "duration_ms": 346666,
+      "name": "Scrap",
+      "url": "https://open.spotify.com/track/3PjcHWlpdtwQzut2MtXDZ4"
     },
     {
       "added_at": "2024-04-19 04:00:00",

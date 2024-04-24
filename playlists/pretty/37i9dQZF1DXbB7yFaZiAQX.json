@@ -1,6 +1,6 @@
 {
   "description": "'80s New Wave, New Romantic and Post-punk.",
-  "num_followers": 1032897,
+  "num_followers": 1032985,
   "original_name": "'80s All Lined Up",
   "owner": {
     "name": "Spotify",
@@ -379,18 +379,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Stone Roses",
-        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
+        "name": "Never for Ever (2018 Remaster)",
+        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
       },
       "artists": [
         {
-          "name": "The Stone Roses",
-          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+          "name": "Kate Bush",
+          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
         }
       ],
-      "duration_ms": 278826,
-      "name": "Waterfall - Remastered",
-      "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
+      "duration_ms": 199226,
+      "name": "Babooshka - 2018 Remaster",
+      "url": "https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -427,18 +427,18 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Never for Ever (2018 Remaster)",
-        "url": "https://open.spotify.com/album/0KBFDO8qcY0zhybIESEQUt"
+        "name": "The Stone Roses",
+        "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
       "artists": [
         {
-          "name": "Kate Bush",
-          "url": "https://open.spotify.com/artist/1aSxMhuvixZ8h9dK9jIDwL"
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
         }
       ],
-      "duration_ms": 199226,
-      "name": "Babooshka - 2018 Remaster",
-      "url": "https://open.spotify.com/track/6VpNGCU2ig4NQmsLfALdJU"
+      "duration_ms": 278826,
+      "name": "Waterfall - Remastered 2009",
+      "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -539,22 +539,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Daydream Nation (Deluxe Edition)",
         "url": "https://open.spotify.com/album/23O4F21GDWiGd33tFN3ZgI"
       },
@@ -571,6 +555,22 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
         "name": "The Stone Roses",
         "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
       },
@@ -581,7 +581,7 @@
         }
       ],
       "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
+      "name": "Fools Gold - Remastered 2009",
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Essential: Eighties",
-        "url": "https://open.spotify.com/album/0YPugIAB3jrt4uPAm0FKMl"
-      },
-      "artists": [
-        {
-          "name": "Yazoo",
-          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
-        }
-      ],
-      "duration_ms": 176026,
-      "name": "Don't Go - 2008 Remaster",
-      "url": "https://open.spotify.com/track/2pNrFj3AYoCU1uQTvJmtw3"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Joined Up Writing/The Sitting Room",
         "url": "https://open.spotify.com/album/15eoAwjHark9zAPE5z2GKJ"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 324600,
       "name": "Our Darkness",
       "url": "https://open.spotify.com/track/09QcX1GC5LylW50EaLBAT5"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Essential: Eighties",
+        "url": "https://open.spotify.com/album/0YPugIAB3jrt4uPAm0FKMl"
+      },
+      "artists": [
+        {
+          "name": "Yazoo",
+          "url": "https://open.spotify.com/artist/1G1mX30GpUJqOr1QU2eBSs"
+        }
+      ],
+      "duration_ms": 176026,
+      "name": "Don't Go - 2008 Remaster",
+      "url": "https://open.spotify.com/track/2pNrFj3AYoCU1uQTvJmtw3"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Rattlesnakes",
-        "url": "https://open.spotify.com/album/4OfGDQC3Z2CdHMknAQMdig"
-      },
-      "artists": [
-        {
-          "name": "Lloyd Cole and the Commotions",
-          "url": "https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp"
-        }
-      ],
-      "duration_ms": 207426,
-      "name": "Rattlesnakes",
-      "url": "https://open.spotify.com/track/3JocHDZrr2rpOK0xsiZK8T"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Thirty Thousand Feet Over China",
         "url": "https://open.spotify.com/album/5Obv3KwOfysf310dXYqXQH"
       },
@@ -1551,6 +1535,22 @@
       "duration_ms": 241320,
       "name": "I'm In Love With A German Film Star",
       "url": "https://open.spotify.com/track/7A3rywP8wA9HbL36NMnD81"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Rattlesnakes",
+        "url": "https://open.spotify.com/album/4OfGDQC3Z2CdHMknAQMdig"
+      },
+      "artists": [
+        {
+          "name": "Lloyd Cole and the Commotions",
+          "url": "https://open.spotify.com/artist/6juuiuCv8jRHZOcvP2BqKp"
+        }
+      ],
+      "duration_ms": 207426,
+      "name": "Rattlesnakes",
+      "url": "https://open.spotify.com/track/3JocHDZrr2rpOK0xsiZK8T"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1667,22 +1667,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Night And Day",
-        "url": "https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t"
-      },
-      "artists": [
-        {
-          "name": "Joe Jackson",
-          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
-        }
-      ],
-      "duration_ms": 242573,
-      "name": "Real Men",
-      "url": "https://open.spotify.com/track/5ImoRAws2ni1qYWrLR7sqi"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Mange Tout (Extended Version)",
         "url": "https://open.spotify.com/album/2LzsjicxCFmETqfLZJsQGv"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 210533,
       "name": "Don't Tell Me",
       "url": "https://open.spotify.com/track/493NNPBvpP6cj5r0VBqcL4"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Night And Day",
+        "url": "https://open.spotify.com/album/0qXKy00l8syNSBNjE15o4t"
+      },
+      "artists": [
+        {
+          "name": "Joe Jackson",
+          "url": "https://open.spotify.com/artist/6KOqPxwfNAmZPkiCnDE9yT"
+        }
+      ],
+      "duration_ms": 242573,
+      "name": "Real Men",
+      "url": "https://open.spotify.com/track/5ImoRAws2ni1qYWrLR7sqi"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Autoamerican (Remastered 2001)",
-        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
-      },
-      "artists": [
-        {
-          "name": "Blondie",
-          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
-        }
-      ],
-      "duration_ms": 391426,
-      "name": "Rapture - Remastered 2001",
-      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "From The Lion's Mouth",
         "url": "https://open.spotify.com/album/2neFxutkHmjJ8jVAXcXynI"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 258079,
       "name": "Winning",
       "url": "https://open.spotify.com/track/7EOCSmPvQ8psymuLTsKfN2"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "Autoamerican (Remastered 2001)",
+        "url": "https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya"
+      },
+      "artists": [
+        {
+          "name": "Blondie",
+          "url": "https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB"
+        }
+      ],
+      "duration_ms": 391426,
+      "name": "Rapture - Remastered 2001",
+      "url": "https://open.spotify.com/track/0D6qZlc6vNR7PDW2RKGPsV"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "New Gold Dream (81/82/83/84)",
-        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
-      },
-      "artists": [
-        {
-          "name": "Simple Minds",
-          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
-        }
-      ],
-      "duration_ms": 300368,
-      "name": "Big Sleep",
-      "url": "https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Bite",
         "url": "https://open.spotify.com/album/6HJUiwsBuAI9uhL9FkpUuG"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 291320,
       "name": "Don't Talk to Me About Love",
       "url": "https://open.spotify.com/track/4QBZTbaM3vreybFgzRO5QQ"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "New Gold Dream (81/82/83/84)",
+        "url": "https://open.spotify.com/album/6dn2O3un8SV0QZ421jDdEj"
+      },
+      "artists": [
+        {
+          "name": "Simple Minds",
+          "url": "https://open.spotify.com/artist/6hN9F0iuULZYWXppob22Aj"
+        }
+      ],
+      "duration_ms": 300368,
+      "name": "Big Sleep",
+      "url": "https://open.spotify.com/track/6IgEGOy7TDUwitAtKgUqeO"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2055,7 +2055,7 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "Non Stop Erotic Cabaret (Deluxe Edition)",
+        "name": "Non Stop Erotic Cabaret (Deluxe Edition / Remastered 2008)",
         "url": "https://open.spotify.com/album/1xza4j8vMQdGqqQdHa30lI"
       },
       "artists": [
@@ -2065,7 +2065,7 @@
         }
       ],
       "duration_ms": 542360,
-      "name": "Tainted Love / Where Did Our Love Go? - Extended Version",
+      "name": "Tainted Love / Where Did Our Love Go? - Extended Version / Remastered 2008",
       "url": "https://open.spotify.com/track/5fkfdFPtgeYGvpGYblD7l1"
     },
     {
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "20th Century Masters: The Millennium Collection: Best Of Grace Jones",
-        "url": "https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 282600,
-      "name": "Pull Up To The Bumper",
-      "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "Greatest Hits Volume One: A Slight Case Of Overbombing (2018 Remaster)",
         "url": "https://open.spotify.com/album/5qjUHQuDQfh8UwkQ9C5udu"
       },
@@ -2147,6 +2131,22 @@
       "duration_ms": 617489,
       "name": "This Corrosion - 2018 Remaster",
       "url": "https://open.spotify.com/track/2JOAxHYCYFiFF5YmOxQ5O9"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "20th Century Masters: The Millennium Collection: Best Of Grace Jones",
+        "url": "https://open.spotify.com/album/41voXxMLKUvdo3TtXEBa5e"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 282600,
+      "name": "Pull Up To The Bumper",
+      "url": "https://open.spotify.com/track/5FuQfnQIld9Jax9SlzqeBF"
     },
     {
       "added_at": "2023-05-03 07:47:14",
@@ -2355,22 +2355,6 @@
     {
       "added_at": "2023-05-03 07:47:14",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/5nCjfqLalpFlsZ45jVbxgA"
-      },
-      "artists": [
-        {
-          "name": "Grace Jones",
-          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
-        }
-      ],
-      "duration_ms": 269146,
-      "name": "I've Seen That Face Before (Libertango)",
-      "url": "https://open.spotify.com/track/5pkykO4PBUKMwjcOzrlfJd"
-    },
-    {
-      "added_at": "2023-05-03 07:47:14",
-      "album": {
         "name": "The Ship",
         "url": "https://open.spotify.com/album/2Lhn1uGzabDM713fom28uW"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 189000,
       "name": "Zanna (feat. Anna Domino) - 2005 Remaster",
       "url": "https://open.spotify.com/track/6TClQCXbRlBuLm39Y8VKfX"
+    },
+    {
+      "added_at": "2023-05-03 07:47:14",
+      "album": {
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/5nCjfqLalpFlsZ45jVbxgA"
+      },
+      "artists": [
+        {
+          "name": "Grace Jones",
+          "url": "https://open.spotify.com/artist/2f9ZiYA2ic1r1voObUimdd"
+        }
+      ],
+      "duration_ms": 269146,
+      "name": "I've Seen That Face Before (Libertango)",
+      "url": "https://open.spotify.com/track/5pkykO4PBUKMwjcOzrlfJd"
     },
     {
       "added_at": "2023-05-03 07:47:14",

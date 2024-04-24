@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 
 > This is thủy\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,264 likes - 49 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,279 likes - 49 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 23 | [in my bag](https://open.spotify.com/track/45T4uUz8dMls9hQ2xLvONF) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this](https://open.spotify.com/album/2nYJj90btoAVA4UE0GWz8P) | 2:24 |
 | 24 | [inhibitions \(feat\. P\-Lo\)](https://open.spotify.com/track/3uNdcFuXINs0nic38GuXfz) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a), [P\-Lo](https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 2:49 |
 | 25 | [dumb luck](https://open.spotify.com/track/0X5C7k7mm6lc4WKiwJagd2) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry](https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE) | 2:46 |
-| 26 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 |
-| 27 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
+| 26 | [mood ring](https://open.spotify.com/track/6K2XtWOGBJJLttE8NFNw0o) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [mood ring](https://open.spotify.com/album/6hon78tr9upFF2OvLelBNq) | 2:56 |
+| 27 | [Never Yours](https://open.spotify.com/track/3a9o2LTowJfEYBvp19efLy) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Never Yours](https://open.spotify.com/album/1hdziZxJ3jB02fmFhfhtVD) | 2:52 |
 | 28 | [fresh white tee](https://open.spotify.com/track/3xBBEYCKA3OzCvr7UphG32) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [girls like me don't cry \(deluxe\)](https://open.spotify.com/album/3tzL6SeVT3j5ux571sx1nu) | 2:47 |
 | 29 | [day dream](https://open.spotify.com/track/08JJQk3E3UAEqhRByXJKW8) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [day dream](https://open.spotify.com/album/3i8F0QlXAq0j2EWdRLGz3d) | 3:30 |
 | 30 | [distance between us](https://open.spotify.com/track/0U3yx4Wnmtox0XjsvldOeY) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [i hope u see this \(deluxe\)](https://open.spotify.com/album/0Oe5Gm4E0bJ8shtpMkvo1Y) | 3:24 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2fphZf.md) - [plain]
 | 48 | [holiday szn](https://open.spotify.com/track/0bpRZSjPHbZ3zl5iRszVwi) | [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [holiday szn](https://open.spotify.com/album/2a9Re5YephRD9LvoySDKcs) | 2:47 |
 | 49 | [Reasons](https://open.spotify.com/track/3BEOKlFeiFCEFrfqTVH53F) | [Young Gully](https://open.spotify.com/artist/5E5xTsOgXvqOiAidVaiBTy), [thủy](https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a) | [Reasons \(feat\. Thuy\) \- Single](https://open.spotify.com/album/0SEahu9fVx9ivOEuqgDSki) | 3:24 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDZiYTJiNDdhNDZhMGZjYzY5YjUxNjUyZjAzN2E2MjFl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGVjYTA4MjllOWJiOGEwNWY0YzJiNjI5ZjIxY2RkYjM4`

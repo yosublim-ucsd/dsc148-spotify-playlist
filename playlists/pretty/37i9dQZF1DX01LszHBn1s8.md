@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01LszHBn1s8.md) - [plain]
 
 > i'm so depressed, i act like it's my birthday every day 🎂
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,202 likes - 933 songs - 2 day 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,207 likes - 933 songs - 2 day 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

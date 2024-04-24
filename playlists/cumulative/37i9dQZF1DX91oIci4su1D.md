@@ -4,7 +4,7 @@
 
 > Setting sights on banging <a href="spotify:genre:0JQ5DAqbMKFFfBKlpu08ru">trance and progressive</a>.
 
-887 songs - 2 day 5 hr 50 min
+888 songs - 2 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -219,6 +219,7 @@
 | [Edge of Tomorrow](https://open.spotify.com/track/7q5rYWltVXyYloLt7K9Efs) | [Aly & Fila](https://open.spotify.com/artist/2hL1EouqXLtBEB6JKnPF0h), [Chapter 47](https://open.spotify.com/artist/1cHBpxIOcQfyOAX1MWI734), [Richard Bedford](https://open.spotify.com/artist/5JbD3IL6449LrMT8ct6KTB) | [Edge of Tomorrow](https://open.spotify.com/album/0IRsFZxn79L0oItnOXFI3c) | 4:01 | 2023-03-03 | 2023-10-14 |
 | [Electric Love](https://open.spotify.com/track/1CKS5yZ9XsAesSWW6obPzp) | [Siskin](https://open.spotify.com/artist/6egwmgA3pYD9IF1jdiRrzi) | [Electric Love](https://open.spotify.com/album/3IvLlPa2AcBhm6jquZYYpt) | 3:42 | 2021-12-17 | 2023-02-25 |
 | [Elements](https://open.spotify.com/track/6qWyL3wlqjxUbNhwcvlmcG) | [Steve Brian](https://open.spotify.com/artist/4xSQ9zt3zGyyiCXazv4mhf), [Freak E Beatz](https://open.spotify.com/artist/72PA5rE1ByXjTijXCZA48C) | [Elements](https://open.spotify.com/album/2xxXLUlty5N29185Dcrqxp) | 3:41 | 2023-09-29 |  |
+| [Elevate](https://open.spotify.com/track/0iF3VTHA1QSrUZRjsaGpX2) | [Allen Watts](https://open.spotify.com/artist/04FzGJxkYQ7zIRoCLQzLqR) | [Elevate](https://open.spotify.com/album/7KbloOEzxIRrSzHobwFBLQ) | 3:46 | 2024-04-19 |  |
 | [Ellipsis](https://open.spotify.com/track/4ItNI65feNcstJ0IzR8LWa) | [John Grand](https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy) | [Ellipsis](https://open.spotify.com/album/3dy2cumKj5MUB8PYNfruG8) | 3:39 | 2022-07-01 | 2023-04-22 |
 | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/track/3tgzSZb9sHfTTmQXEnMpYE) | [Daxson](https://open.spotify.com/artist/4WwMR8h0vztJLNgiL5ZFqW) | [Elysium \[Transmission 2024 Theme\]](https://open.spotify.com/album/49bCIw1A3H9YoBYcLemVNi) | 2:38 | 2024-03-08 |  |
 | [Emotions of Colour](https://open.spotify.com/track/6eBUO6Nb29FOvkIwkUc5li) | [Cosmic Gate](https://open.spotify.com/artist/6ySxYu68zTsO5ghsThpGtS), [Gid Sedgwick](https://open.spotify.com/artist/3Y43xMeiPftAookVOSKu1Y) | [Emotions of Colour](https://open.spotify.com/album/0nH0K8vP8UTgZNHLYSGe5K) | 4:26 | 2023-03-03 |  |
@@ -643,7 +644,7 @@
 | [Rocket Surgery](https://open.spotify.com/track/1a8k7S9KHEkwSTq5O3dCC9) | [Robert Nickson](https://open.spotify.com/artist/0dMK3g7XAApwIpLTyE7mqJ) | [Rocket Surgery](https://open.spotify.com/album/0453U2KtXxgGHTr6Qa8hZz) | 3:40 | 2022-10-28 | 2023-06-10 |
 | [Rude Place](https://open.spotify.com/track/3jaCvMRb5sDRzZsNy6Xm3l) | [Tomcraft](https://open.spotify.com/artist/2E4lzxgBnCEqLawsXeRKWp) | [Rude Place](https://open.spotify.com/album/63pizMS8BZrBvtxMhpbHPX) | 3:09 | 2024-03-15 | 2024-04-10 |
 | [Run & Hide](https://open.spotify.com/track/4FiHdM1KtAJVE7CaZxnSK1) | [Marco V](https://open.spotify.com/artist/24xpaWFyBOwoB8lBBolWzv) | [Run & Hide](https://open.spotify.com/album/5yGEKyr9VIbc3NgwtZaSUL) | 3:18 | 2022-04-22 | 2022-06-11 |
-| [Run Into Better Times](https://open.spotify.com/track/1Pnup2MWt4ROMYTfrsOnAg) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Run Into Better Times](https://open.spotify.com/album/4tJlr36clBJ728NT0IX8Z0) | 3:49 | 2023-06-30 |  |
+| [Run Into Better Times](https://open.spotify.com/track/1Pnup2MWt4ROMYTfrsOnAg) | [Dj T.H.](https://open.spotify.com/artist/4ulezsrIi1ZZ4uUx1QqasZ), [Natalie Gioia](https://open.spotify.com/artist/7Im3RJDHc4svDzWNlSvoAO) | [Run Into Better Times](https://open.spotify.com/album/4tJlr36clBJ728NT0IX8Z0) | 3:49 | 2023-06-30 | 2024-04-24 |
 | [Répondez\-moi](https://open.spotify.com/track/0JNarOg7c1UnBxE11DWhKZ) | [gardenstate](https://open.spotify.com/artist/1XcPIHqirx1Jaxm2bAxMeV), [Gjon's Tears](https://open.spotify.com/artist/0RIwEP1SaALlxn9jOVqHfA) | [Inspirations](https://open.spotify.com/album/56nPJqeftLlTjZDZjIqdCS) | 3:42 | 2021-12-17 | 2022-02-26 |
 | [Saltwater \- Ilan Bluestone Remix](https://open.spotify.com/track/6kfV43UhRUbv8FMRNs19JN) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv), [Ilan Bluestone](https://open.spotify.com/artist/1yoZuH2j43vVSWsOwYuQyn) | [Saltwater \(Ilan Bluestone Remix\)](https://open.spotify.com/album/1YkXjp5qjHg1cuUYC1m2Cj) | 3:33 | 2023-09-15 |  |
 | [Saltwater \- Young Marco Remix \[Edit\]](https://open.spotify.com/track/34EEdp1GEpjPSe0u3OAL4a) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD), [Young Marco](https://open.spotify.com/artist/7zpN81tVvPwlHcJSkSCyRa), [Moya Brennan](https://open.spotify.com/artist/3ZvmmlF8EMEpnnK90jfuJv) | [Saltwater \(Young Marco Remix\)](https://open.spotify.com/album/7Aon6BWy92A73x97A2m8L2) | 4:22 | 2023-08-18 | 2023-10-07 |

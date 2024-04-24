@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 
 > Quer fazer aquele exercício empolgante e sem estresse? Fizemos uma playlist com o som certo para você alcançar novas metas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 557,971 likes - 80 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 557,210 likes - 80 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78yU2od6grb.md) - [plain]
 | 22 | [Be Kind \(with Halsey\)](https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Be Kind \(with Halsey\)](https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC) | 2:52 |
 | 23 | [Some Say \- Felix Jaehn Remix](https://open.spotify.com/track/7C1trmcQQ5n5RNy4l6ziCv) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Some Say \(Felix Jaehn Remix\)](https://open.spotify.com/album/3HE3e3QqmuhAsxcJGtxyEr) | 3:06 |
 | 24 | [Know Your Worth](https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et) | [Know Your Worth](https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5) | 3:01 |
-| 25 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 |
-| 26 | [Hymn for the Weekend \- Seeb Remix](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Hymn for the Weekend \(Seeb Remix\)](https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw) | 3:32 |
+| 25 | [Hymn for the Weekend \- Seeb Remix](https://open.spotify.com/track/6s3GEN8wK0OMzzzZbXj0fu) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Seeb](https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq) | [Hymn for the Weekend \(Seeb Remix\)](https://open.spotify.com/album/0ezwRysfWCrR5tDgpBwkIw) | 3:32 |
+| 26 | [Hallucinate](https://open.spotify.com/track/1nYeVF5vIBxMxfPoL0SIWg) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Future Nostalgia](https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI) | 3:28 |
 | 27 | [bad guy \(with Justin Bieber\)](https://open.spotify.com/track/3yNZ5r3LKfdmjoS3gkhUCT) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [bad guy \(with Justin Bieber\)](https://open.spotify.com/album/6lMlX68jJrx67hiCqdiDvW) | 3:14 |
 | 28 | [Ritual](https://open.spotify.com/track/3M9Apu4OZfylLTFKvgEtKa) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Rita Ora](https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr) | [Ritual](https://open.spotify.com/album/0efvl0HsK2xxttk4IVOJry) | 3:18 |
 | 29 | [Rise](https://open.spotify.com/track/7HXBG0W8gFJwHUh5mVF9tf) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Rise](https://open.spotify.com/album/48rrtJw6xklCA9GIV3Eb2L) | 3:13 |

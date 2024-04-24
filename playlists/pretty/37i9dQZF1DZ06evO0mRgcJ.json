@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDc5ZjZjZjg2MDhmNWM1ZTA2MmZkOWJiMjE4OWNjODI2",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDFjMTY3ZjNjZDVjMmQ2MjRlZjA1ZWEyY2U5YWVhZDMx",
   "tracks": [
     {
       "added_at": null,
@@ -243,26 +243,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Lynwood Transito",
-        "url": "https://open.spotify.com/album/0CECKpMVo8kFrGfFdIPkrI"
-      },
-      "artists": [
-        {
-          "name": "Los Desvelados",
-          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
-        },
-        {
-          "name": "Dueto Consentido",
-          "url": "https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "En Lynwood Transito",
-      "url": "https://open.spotify.com/track/5FIaAzVDQoAWc4bQdrkuz2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
         "url": "https://open.spotify.com/album/7MgODVOyJPFXuThp6bivKL"
       },
@@ -283,6 +263,26 @@
       "duration_ms": 157367,
       "name": "Johnny Boy (feat. Los Nuevos Ilegales & La Decima Banda)",
       "url": "https://open.spotify.com/track/4APetySIwtHz0sUdBcwsNw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Lynwood Transito",
+        "url": "https://open.spotify.com/album/0CECKpMVo8kFrGfFdIPkrI"
+      },
+      "artists": [
+        {
+          "name": "Los Desvelados",
+          "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
+        },
+        {
+          "name": "Dueto Consentido",
+          "url": "https://open.spotify.com/artist/5oTnGKTgUQYePdPHjbTM4R"
+        }
+      ],
+      "duration_ms": 235440,
+      "name": "En Lynwood Transito",
+      "url": "https://open.spotify.com/track/5FIaAzVDQoAWc4bQdrkuz2"
     },
     {
       "added_at": null,
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 201732,
-      "name": "EL LOS",
-      "url": "https://open.spotify.com/track/6NAFF3diA0iYXsFHvtH94Y"
+      "duration_ms": 155991,
+      "name": "EL TERMINATOR",
+      "url": "https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0JqtmoAuCmkDrdfpHzBBW9"
         }
       ],
-      "duration_ms": 155991,
-      "name": "EL TERMINATOR",
-      "url": "https://open.spotify.com/track/6gVc3POmDDgTqia2v3xdKg"
+      "duration_ms": 201732,
+      "name": "EL LOS",
+      "url": "https://open.spotify.com/track/6NAFF3diA0iYXsFHvtH94Y"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Yo Hai Haryanvi Hip\-Hop! Cover: Dhanda Nyoliwala
 
-224 songs - 11 hr 52 min
+225 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Haryana Zone](https://open.spotify.com/track/2zVR7bexpJ8wP1ewN4r5II) | [Oye Amti](https://open.spotify.com/artist/1aYZzT07CepkQFWaQDECss) | [Haryana Zone](https://open.spotify.com/album/4tz7GSeVevhfjXSddHw4J3) | 3:03 | 2023-04-14 | 2023-09-28 |
 | [Haryane Aale](https://open.spotify.com/track/5RQHt34f1wn4W8QMetB3Nf) | [Badal](https://open.spotify.com/artist/0aLbfu2yo1hLo6J0SNBSPp), [Karan Kanchan](https://open.spotify.com/artist/5mZ0Ee8OG1U9c4Wv2FKqvs) | [Mtv Hustle 03 Represent Episode 5](https://open.spotify.com/album/1ilZ2aAxhdtzQDqBvtm1FR) | 2:52 | 2023-11-22 |  |
 | [Headshot](https://open.spotify.com/track/4dlDoH3H44W5X0y8lG99mX) | [Candy Sheoran](https://open.spotify.com/artist/5Gv7YQyjnnTxplUzBuKSUY) | [Headshot](https://open.spotify.com/album/237fwmNkFmLaypCScLiRN8) | 2:27 | 2023-08-30 | 2023-09-09 |
-| [HHH \- Hip Hop Haryana](https://open.spotify.com/track/4IeV70SlCuHIghIebyAcxE) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [HHH \- Hip Hop Haryana](https://open.spotify.com/album/6WWxMRqdGFcjpWPewmYm0L) | 6:16 | 2023-03-28 |  |
+| [HHH \- Hip Hop Haryana](https://open.spotify.com/track/4IeV70SlCuHIghIebyAcxE) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [HHH \- Hip Hop Haryana](https://open.spotify.com/album/6WWxMRqdGFcjpWPewmYm0L) | 6:16 | 2023-03-28 | 2024-04-24 |
 | [HMM](https://open.spotify.com/track/1vGFCl9e0zVpFSl2K8oOGZ) | [KhullarG](https://open.spotify.com/artist/2yAbjVguK4dIqZ6IdVJP4i), [Bluish Music](https://open.spotify.com/artist/3KlLo4hL4Qq2mhSIGMfas6) | [HMM](https://open.spotify.com/album/1appD8E7s8Zuju8u0NrQDi) | 3:04 | 2024-02-06 |  |
 | [Hollywood](https://open.spotify.com/track/1mGTLPsrLmDqElnb7urLNK) | [Divesh Khatana](https://open.spotify.com/artist/3iKTund4Lk0ABArnhE53lX) | [Hollywood](https://open.spotify.com/album/4JVu7ANPoiT6kvbNlLDOHG) | 4:32 | 2023-03-28 | 2023-04-04 |
 | [HR Mashup](https://open.spotify.com/track/02GPZPUJAZ8gevwlzxst82) | [GP JI](https://open.spotify.com/artist/6ywjnb6yFBU9sEvF4onlX5) | [HR Mashup](https://open.spotify.com/album/0DsNQpOYvXCr4j16ottimR) | 2:48 | 2023-03-28 | 2023-04-29 |
@@ -143,6 +143,7 @@
 | [Laado](https://open.spotify.com/track/0NuWRfZRWzn1oc9piFhK9n) | [MC SQUARE](https://open.spotify.com/artist/5WZViOJ21095FUcGPMpKFF), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Laado](https://open.spotify.com/album/0vEzErGiuiczFnmuOD35sB) | 2:28 | 2023-08-31 |  |
 | [Lal Dabbi](https://open.spotify.com/track/5DKyVzIjrD99sb4i1gp3bh) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/1xFXeCGBk96SDtK0TmDolR) | [Lal Dabbi](https://open.spotify.com/album/5D3nsWdMjguRgVKibtbVFi) | 3:04 | 2023-11-06 | 2024-04-10 |
 | [Lal Dabbi](https://open.spotify.com/track/5QLfwWCGw6u3ZfTe0hQur8) | [Amanraj Gill](https://open.spotify.com/artist/07hzX8SH6CEg7B2yl4hoKs), [Bulbul](https://open.spotify.com/artist/74AoG8xO3Qrx0iJvsAu0bj) | [Lal Dabbi](https://open.spotify.com/album/5ZjswUmFtP0wSs10RYmdkM) | 3:04 | 2024-04-18 |  |
+| [Lemme Know](https://open.spotify.com/track/4YU9SN7GT4cAZPjSdhjnKo) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [Lemme Know](https://open.spotify.com/album/1JJKTzJOd3yIBobyq2ktLJ) | 3:41 | 2024-04-24 |  |
 | [MAHAKAAL](https://open.spotify.com/track/6bwmcJiXjx2297D0mgdeFF) | [KD DESIROCK](https://open.spotify.com/artist/4Pq2LW79qotJK4YAMFwlO0) | [MAHAKAAL](https://open.spotify.com/album/6P1oRqxxhiRkmOvSdG0hw0) | 3:19 | 2023-03-28 |  |
 | [Marji](https://open.spotify.com/track/3bUWnXRP05sA2UdKkj9wha) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Marji](https://open.spotify.com/album/4iLVMVlFJJiXTgl4JX2M5B) | 3:00 | 2024-02-16 | 2024-04-19 |
 | [Marji](https://open.spotify.com/track/6UHAB3jfGj7JEBeLQdjQSq) | [Devender Ahlawat](https://open.spotify.com/artist/0qzAeY2wBeUBxDUbBex1Hg) | [Marji](https://open.spotify.com/album/4Ty05e0xG0aB96ghx60w2j) | 3:00 | 2024-02-06 | 2024-02-15 |

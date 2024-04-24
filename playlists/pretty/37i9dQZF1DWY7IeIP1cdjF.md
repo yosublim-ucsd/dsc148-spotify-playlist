@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY7IeIP1cdjF.md) - [plain]
 
 > Reggaeton hits from Lyanno, Rauw Alejandro, KAROL G, Anitta and more.🔥🍑
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,667,222 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,651,828 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

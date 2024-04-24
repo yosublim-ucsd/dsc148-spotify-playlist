@@ -4,7 +4,7 @@
 
 > 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover:川嶋哲郎
 
-281 songs - 22 hr 42 min
+283 songs - 22 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [Blues for K](https://open.spotify.com/track/1VnOzW4zYaDifRPreUur35) | [Tsuyoshi Yamamoto](https://open.spotify.com/artist/4Le6xcHzz9CpoxAmXgtZP5) | [Blues For K](https://open.spotify.com/album/4xomV4Sw1aCp2SyEHNtALk) | 3:52 | 2023-01-24 | 2023-04-19 |
 | [Bon](https://open.spotify.com/track/3n6PVc0hHuYbIuPaZbO4g9) | [Akira Ishiguro](https://open.spotify.com/artist/2IAEUPE8iYRV5IWKh3ldvg) | [Bon](https://open.spotify.com/album/1WSp8SF0pVmqAUJRGWjhP0) | 4:56 | 2023-12-12 | 2024-01-10 |
 | [Borsalino](https://open.spotify.com/track/7jDMXduqVG5RPqiYVduwJr) | [EXOTIC SKATES](https://open.spotify.com/artist/0Gmp3J9ioTkaKxeynbZ9CP), [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O) | [Borsalino](https://open.spotify.com/album/7hPxldYIIggDIeWfp9ZKME) | 4:11 | 2023-10-31 | 2023-12-13 |
+| [Brown And Black](https://open.spotify.com/track/05Qh40y3LeS94KQ5qfky65) | [市川空](https://open.spotify.com/artist/6r1gCeT5yIWmtnerBQpAmZ) | [Brown And Black](https://open.spotify.com/album/6iKM2co4OHPkuvzJVEjTjT) | 8:29 | 2024-04-23 |  |
 | [Calming Influence](https://open.spotify.com/track/6oxJq06up4ZTTgRavK6Z4N) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [Pecori](https://open.spotify.com/artist/1seX236woEXAlmlfqDLi3t), [ODD Foot Works](https://open.spotify.com/artist/4QBaxNPLrpxn48GQpBvNgn) | [Calming Influence](https://open.spotify.com/album/0nx6HgpMKXO9fM3KXFFgXZ) | 4:48 | 2022-12-06 | 2023-01-11 |
 | [Can't Hide Love](https://open.spotify.com/track/4EGnoNlgvp9qtg4SsGszEN) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [m\_unit: Beyond Orbits](https://open.spotify.com/album/1vEFCTIEfv5oueGhxYfq7u) | 5:59 | 2023-09-26 | 2024-04-19 |
 | [Can’t Hide Love](https://open.spotify.com/track/3say48b5YjOGpHkrHyIfap) | [Miho Hazama](https://open.spotify.com/artist/2CCeO3wscYC4zDJ0jbrkvV) | [Beyond Orbits](https://open.spotify.com/album/3W0Me7Gsn13sSJft44KHBI) | 5:59 | 2023-09-12 |  |
@@ -101,7 +102,7 @@
 | [Highway](https://open.spotify.com/track/25BXE8InZQK5CBhP1n7mFm) | [田中さとこ](https://open.spotify.com/artist/79fINByBtobHwIrMTeHn7N) | [Piano Scenes](https://open.spotify.com/album/7q4sFyc7TjG2gUIql8O837) | 3:36 | 2024-01-31 | 2024-04-19 |
 | [Hilarious](https://open.spotify.com/track/4Dv7ZG44TPxxRDJyf8X5W4) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2baMPvKUmxUghuOUqKm9AL) | 4:03 | 2024-01-09 | 2024-01-11 |
 | [Hilarious](https://open.spotify.com/track/4MCR0GMtMnryCukxwl3ilp) | [jizue](https://open.spotify.com/artist/6RuS4udHwx3C9ysk4KXtNw) | [Hilarious](https://open.spotify.com/album/2nalZQ0dRQRMjwZySTpLK4) | 4:03 | 2024-01-10 | 2024-02-14 |
-| [How Deep Is Your Love](https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [SEIKO JAZZ 3](https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR) | 5:37 | 2024-02-13 |  |
+| [How Deep Is Your Love](https://open.spotify.com/track/4rrKjivpzmyc40tatIxWiD) | [Seiko Matsuda](https://open.spotify.com/artist/3E5NLQpQbd0eJ18XO9zC0h) | [SEIKO JAZZ 3](https://open.spotify.com/album/5xohvyPtGGW1wks4Z4qzbR) | 5:37 | 2024-02-13 | 2024-04-24 |
 | [I Am, Because You Are](https://open.spotify.com/track/1wj3FHoR0swq6HCWxiGyeS) | [海野 雅威](https://open.spotify.com/artist/21xCR4SZh2XrwLsloXp6vx) | [I Am, Because You Are](https://open.spotify.com/album/0iuOHpxqkPyAzEokYTpge5) | 6:49 | 2023-05-23 | 2023-07-12 |
 | [IDEA](https://open.spotify.com/track/5MZ9qKKkXY4yekcGDyCuyh) | [Sara Wakui](https://open.spotify.com/artist/6VololcSI4D0XFNG5OaDC9), [ermhoi](https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc) | [Into My System](https://open.spotify.com/album/44TqGExh3o6ucPOPsokHRt) | 5:37 | 2024-03-05 |  |
 | [If Sea Could Sing](https://open.spotify.com/track/2NGtsSSgjvq2ZbFxDDnAUT) | [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [Betsu No Jikan](https://open.spotify.com/album/6osbGxXryMZUWTlysq7Tcu) | 5:45 | 2022-09-06 | 2022-10-02 |
@@ -156,7 +157,7 @@
 | [Piece of cake](https://open.spotify.com/track/07PAaMh4UAcoSTR9OU7fUa) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [PEACE St\. The REVIVAL](https://open.spotify.com/album/6PTUezIZhjE5fj9HiqJOFi) | 2:50 | 2023-01-31 | 2023-03-08 |
 | [Piece of cake](https://open.spotify.com/track/14vYoxigOkrEKcobVsKSvg) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/38Wranl2WGyCw2pfYnSGEi) | 2:50 | 2023-01-03 | 2023-01-05 |
 | [Piece of cake](https://open.spotify.com/track/4kpdFbe0J0iYgRS245VDmd) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Piece of cake](https://open.spotify.com/album/3CRmlpT10DW8lsQ10gZzAA) | 2:50 | 2023-01-03 | 2023-02-05 |
-| [Plasma](https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Plasma](https://open.spotify.com/album/6QiIL3Qn2uFYvJvUB2h4Zh) | 2:59 | 2024-04-02 |  |
+| [Plasma](https://open.spotify.com/track/0yh918TKzldNo6MK4RwHFF) | [Ryosuke Kojima](https://open.spotify.com/artist/1RvRcyEoFhC2hxNJ182Vi2) | [Plasma](https://open.spotify.com/album/6QiIL3Qn2uFYvJvUB2h4Zh) | 2:59 | 2024-04-02 | 2024-04-24 |
 | [Purple](https://open.spotify.com/track/6nCe4faA9KsbypblyqcApZ) | [stim](https://open.spotify.com/artist/0waPc4GXTg5faPNYSD4l1g) | [Purple](https://open.spotify.com/album/3M1sVKiqJFIzCjkuqYNeJP) | 5:11 | 2024-01-30 | 2024-04-03 |
 | [qualia](https://open.spotify.com/track/5I9k1tmY1hk5WUYQDAvMbh) | [PRIMITIVE ART ORCHESTRA](https://open.spotify.com/artist/5HrFJi08nNdu50d0AQVEi0) | [qualia](https://open.spotify.com/album/17h27Orkm3gSuw7KwjZymP) | 3:24 | 2022-09-06 |  |
 | [Raindrops Keep Fallin' On My Head](https://open.spotify.com/track/0pprlGhcsm15D9sFGnK7At) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [Kazumi Tateishi Trio meets Beautiful Standards](https://open.spotify.com/album/0ng3lS4pEfjFS59i3A0d8A) | 4:50 | 2023-10-10 | 2024-04-19 |
@@ -275,6 +276,7 @@
 | [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 | 2023-07-25 | 2023-07-27 |
 | [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 | 2024-03-12 |  |
 | [懐かしき日々 \(Dear Memories\)](https://open.spotify.com/track/3svIR9AT7XEHjOuwi7fPfI) | [佐藤允彦](https://open.spotify.com/artist/3bwiUTynrQmanFXBFFqNbF), [類家心平](https://open.spotify.com/artist/2jflfJoKsw26yXhJDp2p4L), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [坂井紅介](https://open.spotify.com/artist/6pBzDUB3nApIQ3aMVCm0QP) | [懐かしき日々 \(Dear Memories\) ～ SONG FOR KEN\-SAN](https://open.spotify.com/album/0PPBVzijMpFm2T78PqrtK7) | 8:52 | 2024-01-16 | 2024-02-07 |
+| [曇り空](https://open.spotify.com/track/1CpklF118GMJNBM8HFtq0v) | [魚返明未](https://open.spotify.com/artist/1fxVeIoQpbBUEVZycjl8AP) | [照らす](https://open.spotify.com/album/4pWSCXLQMUlFHlKzxQ17BE) | 6:39 | 2024-04-23 |  |
 | [最後の夜汽車](https://open.spotify.com/track/6zQvFxPFLSmisCA1UYAr4c) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [MISIA SOUL JAZZ SESSION](https://open.spotify.com/album/0lAWJPnLw3LQYqPV86qKhd) | 4:54 | 2022-09-06 | 2023-12-10 |
 | [月刊配信野郎](https://open.spotify.com/track/6HVOTmmMttcKUSsnKk8c4V) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [月刊配信野郎](https://open.spotify.com/album/0v7UHezk6yvbSXptBElqBA) | 3:27 | 2024-04-02 |  |
 | [本日は晴天](https://open.spotify.com/track/3STBOXNnwPWEwDdxfHPuqF) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [本日は晴天](https://open.spotify.com/album/1TsDnMjGiFpnOBa6h9ectt) | 4:18 | 2023-03-07 | 2023-03-29 |

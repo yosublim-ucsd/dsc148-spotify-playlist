@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 335550,
+  "num_followers": 335752,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -863,6 +863,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
+        "name": "OUR LOVE (80'S)",
+        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
+      },
+      "artists": [
+        {
+          "name": "YOURS",
+          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
+        }
+      ],
+      "duration_ms": 179323,
+      "name": "OUR LOVE (80'S)",
+      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
         "name": "Nightrider",
         "url": "https://open.spotify.com/album/4u5C68CzGi223ErII6MD3l"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 300990,
       "name": "Nightrider",
       "url": "https://open.spotify.com/track/0i7jazn1Rtp51KPM4iSs6z"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
-        "name": "OUR LOVE (80'S)",
-        "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
-      },
-      "artists": [
-        {
-          "name": "YOURS",
-          "url": "https://open.spotify.com/artist/1Jlo1wSVOtMmEMpTbhEdI7"
-        }
-      ],
-      "duration_ms": 179323,
-      "name": "OUR LOVE (80'S)",
-      "url": "https://open.spotify.com/track/02SqV6QA81sYUUlWPEme9O"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -927,18 +927,22 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "People",
-        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
+        "name": "Feel It",
+        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
       },
       "artists": [
         {
-          "name": "PL\u00dcM",
-          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
+          "name": "Cupidon",
+          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
+        },
+        {
+          "name": "Milaa",
+          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
         }
       ],
-      "duration_ms": 174065,
-      "name": "People",
-      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
+      "duration_ms": 214214,
+      "name": "Feel It",
+      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -963,22 +967,18 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "Feel It",
-        "url": "https://open.spotify.com/album/6jUhWTr06uh84L3x84u1aS"
+        "name": "People",
+        "url": "https://open.spotify.com/album/693j0kfWsGfe7FWaGfWjRV"
       },
       "artists": [
         {
-          "name": "Cupidon",
-          "url": "https://open.spotify.com/artist/1qz3nYVQit24tcOsCOdCvb"
-        },
-        {
-          "name": "Milaa",
-          "url": "https://open.spotify.com/artist/24JHpIKWsvY9VMETUZqfHB"
+          "name": "PL\u00dcM",
+          "url": "https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL"
         }
       ],
-      "duration_ms": 214214,
-      "name": "Feel It",
-      "url": "https://open.spotify.com/track/5qKEArG4jwMAYTAsuG4rpH"
+      "duration_ms": 174065,
+      "name": "People",
+      "url": "https://open.spotify.com/track/1HEs44PJB2lrOhFMHqs6lz"
     },
     {
       "added_at": "2024-04-04 15:22:42",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2024-04-04 15:22:42",
       "album": {
-        "name": "What Kinda Music (Bonus Tracks)",
-        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
-      },
-      "artists": [
-        {
-          "name": "Tom Misch",
-          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
-        },
-        {
-          "name": "Yussef Dayes",
-          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
-        }
-      ],
-      "duration_ms": 189683,
-      "name": "Can You Feel It",
-      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
-    },
-    {
-      "added_at": "2024-04-04 15:22:42",
-      "album": {
         "name": "You Could Be",
         "url": "https://open.spotify.com/album/32bdwKmh9xPoBmYlCjNNZI"
       },
@@ -1087,6 +1067,26 @@
       "duration_ms": 218024,
       "name": "You Could Be",
       "url": "https://open.spotify.com/track/56tNMHvbcFPvYiDxA7xROH"
+    },
+    {
+      "added_at": "2024-04-04 15:22:42",
+      "album": {
+        "name": "What Kinda Music (Bonus Tracks)",
+        "url": "https://open.spotify.com/album/5ciBtE0wpwlIew7zvUKmd2"
+      },
+      "artists": [
+        {
+          "name": "Tom Misch",
+          "url": "https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye"
+        },
+        {
+          "name": "Yussef Dayes",
+          "url": "https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht"
+        }
+      ],
+      "duration_ms": 189683,
+      "name": "Can You Feel It",
+      "url": "https://open.spotify.com/track/4jbzmPDdZMp4JFcif3OPnH"
     },
     {
       "added_at": "2024-04-04 15:22:42",

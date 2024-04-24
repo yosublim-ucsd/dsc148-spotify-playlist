@@ -4,7 +4,7 @@
 
 > This is Pabllo Vittar\. The essential tracks, all in one playlist.
 
-72 songs - 3 hr 22 min
+73 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Balinha de Coração \(feat\. Anitta\) \- PZZS Remix ft MC Naninha](https://open.spotify.com/track/2okI0omjueFu0GzrLUs7fY) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Mc Naninha](https://open.spotify.com/artist/2LuUSYYh2XcCrNvqAMzZzy), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [PZZS](https://open.spotify.com/artist/1h27s7BnaBATagMAgDOcDF) | [AFTER](https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ) | 3:25 | 2023-10-10 | 2023-12-14 |
 | [Bandida \(feat\. Mc Mayara\)](https://open.spotify.com/track/2VFTgZwiAdrADSLrUNHWt9) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Mc Mayara](https://open.spotify.com/artist/06KW64mW1lFahvaJVV0TRe) | [111 DELUXE](https://open.spotify.com/album/50a3b78Dxu3JENEgakhzaP) | 2:26 | 2023-10-10 |  |
 | [BANDIDONA](https://open.spotify.com/track/70t5xVFE5WJcg80wklPbcX) | [POCAH](https://open.spotify.com/artist/11iQCRz636WFdHj42qxAF6), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Papatinho](https://open.spotify.com/artist/0iZz25uH5PLaShpqq84uYv) | [BANDIDONA](https://open.spotify.com/album/3le9u1jM09SXaQY0HyeEpK) | 2:16 | 2023-12-13 |  |
-| [BRUXARIA 3000](https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [BRUXARIA 3000](https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa) | 2:57 | 2023-11-10 |  |
+| [BRUXARIA 3000](https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Mc Aleff](https://open.spotify.com/artist/0TLNtcIt6Lyu1g22EDhwe1), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [BRUXARIA 3000](https://open.spotify.com/album/4dSYs3xICrNR4Mob4nn3Sa) | 2:57 | 2023-11-10 | 2024-04-24 |
+| [BRUXARIA 3000](https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Yure IDD](https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS), [Mc Alleff](https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [FUTURO FLUXO](https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y) | 2:54 | 2024-04-24 |  |
 | [Buzina](https://open.spotify.com/track/7fP2cpq8jUlXz3h2QfEpgs) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Não Para Não](https://open.spotify.com/album/7GRhzFj2BulxZBqqOMBdDe) | 2:17 | 2023-10-10 |  |
 | [Cadeado](https://open.spotify.com/track/5jsCH1ydkfz1icE9BabgnZ) | [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Noitada](https://open.spotify.com/album/6FwzHdmi1hoOUSnirEqGRO) | 2:48 | 2023-10-10 |  |
 | [Caliente \(feat\. Pabllo Vittar\)](https://open.spotify.com/track/75V0RdaCFKsQZX91mI9AD3) | [Lali](https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Brava](https://open.spotify.com/album/5obU0I3k0EkmZl8L3a6dY1) | 3:12 | 2023-10-10 | 2024-04-08 |

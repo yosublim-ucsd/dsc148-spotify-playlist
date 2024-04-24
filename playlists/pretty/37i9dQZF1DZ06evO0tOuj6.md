@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0tOuj6) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0tOuj6)
 
-### [This Is Tokyo Ska Paradise Orchestra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
+### [This Is 東京スカパラダイスオーケストラ](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tOuj6)
 
-> This is Tokyo Ska Paradise Orchestra\. 꼭 들어야 하는 트랙을 하나의 플레이리스트에 모았습니다.
+> This is 東京スカパラダイスオーケストラ\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,585 likes - 49 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,604 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,18 +44,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tOuj6.md) - [plain]
 | 34 | [ゴッドファーザー愛のテーマ](https://open.spotify.com/track/3wMcumG7H13Oq3HvHeeok5) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [WILD PEACE](https://open.spotify.com/album/5R19j19wldlcON2ZTaJikv) | 3:42 |
 | 35 | [サボタージュ \- VS\. ALI](https://open.spotify.com/track/5VKxSh8WcTp5M3Uv9SD81Y) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [サボタージュ \(VS\. ALI\)](https://open.spotify.com/album/6mFPQaQNRgWZNbFzsep3AD) | 4:16 |
 | 36 | [JUMON \- feat.アイナ・ジ・エンド](https://open.spotify.com/track/1L2graoM4Kycxf3qLRmMJA) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [AiNA THE END](https://open.spotify.com/artist/5k7KS34gxQbzdQaXWSOVKC) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:24 |
-| 37 | [JUNK or GEM](https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 2:58 |
-| 38 | [Glorious](https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 2:48 |
-| 39 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 |
+| 37 | [流れゆく世界の中で](https://open.spotify.com/track/2KhhivOdgLRgpmdnOYQiOh) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [MONGOL800](https://open.spotify.com/artist/2zUQjYvy0TevSi4d3PjqQO) | [SKA ME FOREVER](https://open.spotify.com/album/7FRUaVNNKto1z5YAbThI4P) | 5:13 |
+| 38 | [JUNK or GEM](https://open.spotify.com/track/7GHryxJjJpJRPO1cq9ASie) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 2:58 |
+| 39 | [Glorious](https://open.spotify.com/track/5TQthly71VsBZ7f0Ow2pU7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [GLORIOUS](https://open.spotify.com/album/1mnvNcSwmtkcoB4XONpwvS) | 2:48 |
 | 40 | [多重露光 \- feat.川上洋平](https://open.spotify.com/track/1S29G9NDzS6CTjPeQpyWCd) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 3:13 |
-| 41 | [黄昏を遊ぶ猫](https://open.spotify.com/track/3kvySsFmIKAM3tWacJ883D) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [欲望](https://open.spotify.com/album/4PYr4vs7P4lqnSBxV3znHi) | 3:25 |
-| 42 | [君と僕](https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [スカパラ登場](https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0) | 2:11 |
-| 43 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 |
+| 41 | [DOWN BEAT STOMP](https://open.spotify.com/track/3orD5C1CKx2oGtLgSQOEhB) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 4:15 |
+| 42 | [黄昏を遊ぶ猫](https://open.spotify.com/track/3kvySsFmIKAM3tWacJ883D) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [欲望](https://open.spotify.com/album/4PYr4vs7P4lqnSBxV3znHi) | 3:25 |
+| 43 | [君と僕](https://open.spotify.com/track/0SAJaOuI1rksHdpxJWbpeb) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [スカパラ登場](https://open.spotify.com/album/3Isu8uqZJR9rpLQUsrOJA0) | 2:11 |
 | 44 | [9](https://open.spotify.com/track/3Z9XZr4bCHiDzULCOYQ1W7) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [SKA=ALMIGHTY](https://open.spotify.com/album/4JkTB7zgbEOh96u47q9P9C) | 2:42 |
-| 45 | [北斗七星](https://open.spotify.com/track/39g89cqTVnDGbqt4OVHJRo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 3:54 |
-| 46 | [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 |
-| 47 | [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 |
-| 48 | [Pride Of Lions](https://open.spotify.com/track/3DiWVJ7ULgCB3PoHT7UWdz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 |
-| 49 | [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 |
+| 45 | [The Last Ninja](https://open.spotify.com/track/5eyBvbGD5GagW1bmJQaO9z) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [The Last Ninja](https://open.spotify.com/album/6XVd92aIz6HcFN90c7PQlF) | 3:36 |
+| 46 | [北斗七星](https://open.spotify.com/track/39g89cqTVnDGbqt4OVHJRo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [JUNK or GEM](https://open.spotify.com/album/0PoeRosC0p1QeV3KTIWxXw) | 3:54 |
+| 47 | [ウタカタラッタラ](https://open.spotify.com/track/1qa4usnRGmZZsDxusBZCgN) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ウタカタラッタラ](https://open.spotify.com/album/3zF0jfkD8FiEO9Ps2TUyxD) | 3:08 |
+| 48 | [ハズムリズム](https://open.spotify.com/track/304bvRFSa1FWWhEikehA1c) | [Puffy AmiYumi](https://open.spotify.com/artist/2wPaW7JIZGyM16donpyBmW), [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Hit & Fun](https://open.spotify.com/album/1NX7JIVLTM2CO65qlL3y6e) | 4:26 |
+| 49 | [Pride Of Lions](https://open.spotify.com/track/3DiWVJ7ULgCB3PoHT7UWdz) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [TOKYO SKA PARADISE ORCHESTRA〜Selecao Brasileira〜](https://open.spotify.com/album/6hfDogTMwv2sOedEilBONy) | 5:08 |
+| 50 | [仮面ライダーセイバー \- 『仮面ライダーセイバー』エンディングテーマ](https://open.spotify.com/track/5Pp5PkCW8QgvSJGcD1dsdQ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 3:02 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDY5YWJlODk4NzI4Y2VkMmQ5ZGE5ZDcyNGNkZWIwZmYy`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDFkOTYyNjczZDAwMmNlZjM0MTk3N2E4Nzg1NThhZTRl`

@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
         "name": "A Beautiful Life (Music From The Netflix Film)",
         "url": "https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C"
       },
@@ -2628,7 +2646,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 148317,
       "name": "Belong Together",
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
@@ -9314,7 +9332,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210789,
       "name": "Fresh Out The Slammer",
       "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
@@ -9844,6 +9862,28 @@
       "duration_ms": 212165,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/3KyKxJ4P3pVCgaZwaq2rUC"
+    },
+    {
+      "album": {
+        "name": "Gata Only",
+        "url": "https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        },
+        {
+          "name": "Cris Mj",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222000,
+      "name": "Gata Only",
+      "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
     },
     {
       "album": {
@@ -12778,7 +12818,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 156297,
       "name": "I Can Fix Him (No Really I Can)",
       "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
@@ -14216,7 +14256,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174333,
       "name": "Jeg Er En Gamer",
       "url": "https://open.spotify.com/track/6crE5bktd0Kr3ihxQ4ZWpt"
@@ -15416,7 +15456,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 171696,
       "name": "Kom & Gik (feat. Hans Philip)",
       "url": "https://open.spotify.com/track/3X6DHQxD7T4eZTsRKYfU2l"
@@ -16948,7 +16988,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 277156,
       "name": "loml",
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
@@ -25244,7 +25284,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -26682,7 +26722,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 245541,
       "name": "The Smallest Man Who Ever Lived",
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
@@ -27162,10 +27202,28 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Vangelis. The essential tracks, all in one playlist.",
-  "num_followers": 104514,
+  "num_followers": 104524,
   "original_name": "This Is Vangelis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDI5OGYwYmI0NjYxOTYwOThmYzJjZGMwODdmY2E1MWY0",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDIyYTc2NWNiMjU3OWE2ODU3M2ViYjBkYjE3NTcyMzFl",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Oceanic",
+        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
+      },
+      "artists": [
+        {
+          "name": "Vangelis",
+          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Bon Voyage",
+      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Best Of",
         "url": "https://open.spotify.com/album/6sPYk2K1ZoF9mJJfF1Yp39"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 127106,
       "name": "In the magic of Cosmos",
       "url": "https://open.spotify.com/track/6l6eGJDCe2d0sEsgJNi2cU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oceanic",
-        "url": "https://open.spotify.com/album/7gzxLnMS0lmzbbW0ebaBNb"
-      },
-      "artists": [
-        {
-          "name": "Vangelis",
-          "url": "https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Bon Voyage",
-      "url": "https://open.spotify.com/track/1vNxtrQYbr9w3wwmslzNR3"
     },
     {
       "added_at": null,

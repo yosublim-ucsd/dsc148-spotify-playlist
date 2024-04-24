@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 
 > Just chill the F\*\*\* out to our mix of relaxing hits\. Tune in for tracks from Billie Eilish, Olivia Rodrigo, Taylor Swift and many many more! <a href="https://lnk.to/EndOfYearSaleOS">All these hits available to buy on vinyl here!</a> Chill Pop \| Relaxing Pop \| Chill Vibes \| Lazy Sundays \| Chilled Mix
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 103,245 likes - 52 songs - 3 hr 3 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 102,935 likes - 52 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/1jelEUwXFe9YeEjdAR3aC8.md) - [plain]
 | 51 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 |
 | 52 | [What A Time \(feat\. Niall Horan\)](https://open.spotify.com/track/5WtfUKzXircvW8l5aaVZWT) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Niall Horan](https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4) | [Inner Monologue Part 1](https://open.spotify.com/album/1xJ7jIK1tT0aVoJw1fPE6r) | 2:53 |
 
-Snapshot ID: `ODA1Niw5ODM2NjcxZmU3ZTVmNjUyNzg3NmQ2YzBlZjY1NTgwNDg5ZjgwYTJj`
+Snapshot ID: `ODA1OSw3MGUzODc5NDdhNjMyMGJmNTgwMzQwODgyNjk4MDdhYTMyMjA1MDQ3`

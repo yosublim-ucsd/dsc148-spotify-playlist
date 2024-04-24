@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 3787,
+  "num_followers": 3841,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
@@ -967,22 +967,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Flow State",
-        "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
-      },
-      "artists": [
-        {
-          "name": "Casper Sage",
-          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
-        }
-      ],
-      "duration_ms": 242580,
-      "name": "Flow State",
-      "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Same Streets But I Don't See You Around",
         "url": "https://open.spotify.com/album/5ZjT9pDdMBwGByS0DBRPZg"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 173196,
       "name": "Have I Ever Been",
       "url": "https://open.spotify.com/track/2myy3lzRU87HPV9Gxs9ddQ"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Flow State",
+        "url": "https://open.spotify.com/album/3RsIqH2zBlSWAnehnZ8KwP"
+      },
+      "artists": [
+        {
+          "name": "Casper Sage",
+          "url": "https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE"
+        }
+      ],
+      "duration_ms": 242580,
+      "name": "Flow State",
+      "url": "https://open.spotify.com/track/4Xoiihr9prpVellzwZ9I7P"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "rocketship",
+        "url": "https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE"
+      },
+      "artists": [
+        {
+          "name": "Adriel",
+          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
+        },
+        {
+          "name": "yuji",
+          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
+        }
+      ],
+      "duration_ms": 159226,
+      "name": "rocketship",
+      "url": "https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "Sophie",
         "url": "https://open.spotify.com/album/47cphz8bSNm8xnXlgWrT7I"
       },
@@ -1407,26 +1427,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "rocketship",
-        "url": "https://open.spotify.com/album/5y40MyatlF2aCaMsFTRJDE"
-      },
-      "artists": [
-        {
-          "name": "Adriel",
-          "url": "https://open.spotify.com/artist/06kH3673gPPQE1y6I0Dx2N"
-        },
-        {
-          "name": "yuji",
-          "url": "https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW"
-        }
-      ],
-      "duration_ms": 159226,
-      "name": "rocketship",
-      "url": "https://open.spotify.com/track/76DunIkk8KTicv9fX4iqTc"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Once Upon The End",
         "url": "https://open.spotify.com/album/3dBDP3noYghnGpGZsKLxdZ"
       },
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Clean Sheets, Dirty Walls",
-        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
-      },
-      "artists": [
-        {
-          "name": "Cleffy",
-          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "Meet you at the Graveyard",
-      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "choose u everytime",
         "url": "https://open.spotify.com/album/6M5xJWRZwxY6zbZSMqi7RV"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 216413,
       "name": "choose u everytime",
       "url": "https://open.spotify.com/track/3OcFT2KkQ8xWEPl1mFyvTZ"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Clean Sheets, Dirty Walls",
+        "url": "https://open.spotify.com/album/1XBXF77YB5WTnLAkfFMwkM"
+      },
+      "artists": [
+        {
+          "name": "Cleffy",
+          "url": "https://open.spotify.com/artist/0Dd84sfPxs6Aj0PjlCM1P7"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "Meet you at the Graveyard",
+      "url": "https://open.spotify.com/track/5wQyLDy36ihxX69E7JBi4L"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
+        "name": "I Keep My Feet on the Fragile Plane",
+        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
+      },
+      "artists": [
+        {
+          "name": "Allegra Krieger",
+          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
+        }
+      ],
+      "duration_ms": 125199,
+      "name": "Making Sense Of",
+      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
         "name": "tainted in our memories",
         "url": "https://open.spotify.com/album/3jfCvTkeYzUOxfuuUIcu7T"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 199454,
       "name": "Lose You - A COLORS SHOW",
       "url": "https://open.spotify.com/track/3QfI3tTncp1CjYLMypO2vA"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
-        "name": "I Keep My Feet on the Fragile Plane",
-        "url": "https://open.spotify.com/album/6Dr79gzcCMcPDaaftGSzcf"
-      },
-      "artists": [
-        {
-          "name": "Allegra Krieger",
-          "url": "https://open.spotify.com/artist/1m2AHwvNSDIm5mf8vPGH39"
-        }
-      ],
-      "duration_ms": 125199,
-      "name": "Making Sense Of",
-      "url": "https://open.spotify.com/track/1CZanBJYGF7876i6XEPqjz"
     }
   ],
   "unique_name": "Fresh Finds: Class of 2023",

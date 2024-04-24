@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 145199,
+  "2024-04-24": 145154,
   "date_first_scraped": "2023-12-31",
   "description": "minha carne \u00e9 de carnaval, meu cora\u00e7\u00e3o \u00e9 igual",
   "name": "carnavalizar",
@@ -359,6 +359,28 @@
       "duration_ms": 201655,
       "name": "Caetano Veloso",
       "url": "https://open.spotify.com/track/5D0hucIfvHIZCDfiodP8gn"
+    },
+    {
+      "album": {
+        "name": "Vagabundo Ao Vivo",
+        "url": "https://open.spotify.com/album/3n95npT8f24QSsH7KL4KVU"
+      },
+      "artists": [
+        {
+          "name": "Ney Matogrosso",
+          "url": "https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn"
+        },
+        {
+          "name": "Pedro Luis E A Parede",
+          "url": "https://open.spotify.com/artist/0gr5W0V12A1QsoG9lRdfQT"
+        }
+      ],
+      "date_added": "2023-03-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289466,
+      "name": "Caio No Suingue",
+      "url": "https://open.spotify.com/track/0TdGBoZxgV22792QMKp3Ud"
     },
     {
       "album": {
@@ -959,7 +981,7 @@
       ],
       "date_added": "2023-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 263146,
       "name": "O Carnaval Quem \u00c9 Que Faz?",
       "url": "https://open.spotify.com/track/2TPCINjlzZ9Hbp0tCRQC2b"

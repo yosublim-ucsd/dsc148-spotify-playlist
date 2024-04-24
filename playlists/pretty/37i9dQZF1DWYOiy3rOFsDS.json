@@ -1,6 +1,6 @@
 {
   "description": "Romance a la antig\u00fcita con Daniela Romo y Fabiola Roudha en portada.",
-  "num_followers": 532155,
+  "num_followers": 531666,
   "original_name": "Boleros Pop",
   "owner": {
     "name": "Spotify",
@@ -823,22 +823,6 @@
     {
       "added_at": "2024-04-19 16:59:35",
       "album": {
-        "name": "Amores Ajenos",
-        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
-      },
-      "artists": [
-        {
-          "name": "Pat\u00e9 de Fu\u00e1",
-          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
-        }
-      ],
-      "duration_ms": 205794,
-      "name": "Cien A\u00f1os",
-      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
-    },
-    {
-      "added_at": "2024-04-19 16:59:35",
-      "album": {
         "name": "Tanto Amor",
         "url": "https://open.spotify.com/album/6PpdfncqVG0Hmx5pSIdAQz"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 185783,
       "name": "Tanto Amor",
       "url": "https://open.spotify.com/track/2DSBxnRi8Y1Tk4f0Am8pzA"
+    },
+    {
+      "added_at": "2024-04-19 16:59:35",
+      "album": {
+        "name": "Amores Ajenos",
+        "url": "https://open.spotify.com/album/3FRBtXIYzHiiDSXykW2WVT"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        }
+      ],
+      "duration_ms": 205794,
+      "name": "Cien A\u00f1os",
+      "url": "https://open.spotify.com/track/0sg2tsm1SRoCFbTCdRoJL8"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -879,26 +879,6 @@
     {
       "added_at": "2024-04-19 16:59:35",
       "album": {
-        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
-        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        },
-        {
-          "name": "Carlos Cuevas",
-          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
-        }
-      ],
-      "duration_ms": 228026,
-      "name": "Contigo en la Distancia (with Carlos Cuevas)",
-      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
-    },
-    {
-      "added_at": "2024-04-19 16:59:35",
-      "album": {
         "name": "Manteles & Arrugas",
         "url": "https://open.spotify.com/album/7LeORvjo14xEvtFlZJGBGY"
       },
@@ -915,18 +895,22 @@
     {
       "added_at": "2024-04-19 16:59:35",
       "album": {
-        "name": "25 Exitos",
-        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+        "name": "Jos\u00e9 Jos\u00e9 Duetos Volumen 1",
+        "url": "https://open.spotify.com/album/4ZFE0VVdjRY5fv41SFyPrT"
       },
       "artists": [
         {
-          "name": "Guitarras M\u00e1gicas",
-          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        },
+        {
+          "name": "Carlos Cuevas",
+          "url": "https://open.spotify.com/artist/5oyTT8C73YIMhLyuXYLtiL"
         }
       ],
-      "duration_ms": 233000,
-      "name": "Secreto de Amor",
-      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
+      "duration_ms": 228026,
+      "name": "Contigo en la Distancia (with Carlos Cuevas)",
+      "url": "https://open.spotify.com/track/2DBD5WswXbHNUcrBU52cUP"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -955,6 +939,22 @@
       "duration_ms": 296360,
       "name": "Con Los A\u00f1os Que Me Quedan (feat. Leonel Garc\u00eda, Samo & Jes\u00fas Navarro)",
       "url": "https://open.spotify.com/track/2Tro7hx63xXau7mLtvA1gE"
+    },
+    {
+      "added_at": "2024-04-19 16:59:35",
+      "album": {
+        "name": "25 Exitos",
+        "url": "https://open.spotify.com/album/6rmBa08mpIj55kcE4AdSBS"
+      },
+      "artists": [
+        {
+          "name": "Guitarras M\u00e1gicas",
+          "url": "https://open.spotify.com/artist/20lOJusSoLyiJR1CYQH4a0"
+        }
+      ],
+      "duration_ms": 233000,
+      "name": "Secreto de Amor",
+      "url": "https://open.spotify.com/track/6zUaoRAegPui4OsVE1AANi"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -1175,22 +1175,22 @@
     {
       "added_at": "2024-04-19 16:59:35",
       "album": {
-        "name": "Tuyo",
-        "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
+        "name": "B\u00e9same mucho",
+        "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
       },
       "artists": [
         {
-          "name": "El David Aguilar",
-          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
+          "name": "Edna Vazquez",
+          "url": "https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP"
         },
         {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Pink Martini",
+          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Tuyo",
-      "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
+      "duration_ms": 244711,
+      "name": "B\u00e9same mucho",
+      "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -1219,22 +1219,22 @@
     {
       "added_at": "2024-04-19 16:59:35",
       "album": {
-        "name": "B\u00e9same mucho",
-        "url": "https://open.spotify.com/album/6dFvBCQkwOJwCWQsSHsFEW"
+        "name": "Tuyo",
+        "url": "https://open.spotify.com/album/1Sv7uosU6z24BvsEm5AG7g"
       },
       "artists": [
         {
-          "name": "Edna Vazquez",
-          "url": "https://open.spotify.com/artist/4GxX2P0gUw7uiWtg8nNOrP"
+          "name": "El David Aguilar",
+          "url": "https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk"
         },
         {
-          "name": "Pink Martini",
-          "url": "https://open.spotify.com/artist/6KyUat70qaniuiZq63HzFZ"
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 244711,
-      "name": "B\u00e9same mucho",
-      "url": "https://open.spotify.com/track/1AwB8JSmLNu0X76njUpqzz"
+      "duration_ms": 198653,
+      "name": "Tuyo",
+      "url": "https://open.spotify.com/track/3X0lef4eZlP1u8v2oEq4Qi"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -1255,22 +1255,6 @@
       "duration_ms": 188139,
       "name": "Tu Camisa",
       "url": "https://open.spotify.com/track/6ZbiPemrNyXHLHLZ8Bf85y"
-    },
-    {
-      "added_at": "2024-04-19 16:59:35",
-      "album": {
-        "name": "Justo As\u00ed",
-        "url": "https://open.spotify.com/album/0ysUSiAtXzU2vrYxy0HDIk"
-      },
-      "artists": [
-        {
-          "name": "Sebasti\u00e1n Romero",
-          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
-        }
-      ],
-      "duration_ms": 143964,
-      "name": "Justo As\u00ed",
-      "url": "https://open.spotify.com/track/3jxQbsFWh5MfsqPq30K0Hc"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -1303,6 +1287,22 @@
       "duration_ms": 189320,
       "name": "La Copa Rota",
       "url": "https://open.spotify.com/track/4tl5rhoOV51BDiQ4TIfz7o"
+    },
+    {
+      "added_at": "2024-04-19 16:59:35",
+      "album": {
+        "name": "Justo As\u00ed",
+        "url": "https://open.spotify.com/album/0ysUSiAtXzU2vrYxy0HDIk"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Romero",
+          "url": "https://open.spotify.com/artist/0FpJe752weMmwiyJyF8zXq"
+        }
+      ],
+      "duration_ms": 143964,
+      "name": "Justo As\u00ed",
+      "url": "https://open.spotify.com/track/3jxQbsFWh5MfsqPq30K0Hc"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -1423,26 +1423,6 @@
     {
       "added_at": "2024-04-19 16:59:35",
       "album": {
-        "name": "M\u00e1s Que Ella",
-        "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
-      },
-      "artists": [
-        {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
-        },
-        {
-          "name": "Santiago En La Guitarra",
-          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "M\u00e1s Que Ella",
-      "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
-    },
-    {
-      "added_at": "2024-04-19 16:59:35",
-      "album": {
         "name": "\u00d3diame",
         "url": "https://open.spotify.com/album/4i56u98co2Jrz0krusaCtt"
       },
@@ -1459,6 +1439,26 @@
       "duration_ms": 193130,
       "name": "\u00d3diame",
       "url": "https://open.spotify.com/track/5QBKmig3mYQawgaDJUwYbo"
+    },
+    {
+      "added_at": "2024-04-19 16:59:35",
+      "album": {
+        "name": "M\u00e1s Que Ella",
+        "url": "https://open.spotify.com/album/5e5OW8eP7TzqaHsjRBAl8e"
+      },
+      "artists": [
+        {
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+        },
+        {
+          "name": "Santiago En La Guitarra",
+          "url": "https://open.spotify.com/artist/5QNE44Hg4taZiM0J8nxzwV"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "M\u00e1s Que Ella",
+      "url": "https://open.spotify.com/track/2NkS02tMmV0Aab8ghVdoCc"
     },
     {
       "added_at": "2024-04-19 16:59:35",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-04-19 16:59:35",
       "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
-    },
-    {
-      "added_at": "2024-04-19 16:59:35",
-      "album": {
         "name": "En las Noches",
         "url": "https://open.spotify.com/album/2CPuqoB1XiRqOmmX6MUa5e"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 239412,
       "name": "En las Noches",
       "url": "https://open.spotify.com/track/6rs3m0e1GYVFjLQaUXAiZ6"
+    },
+    {
+      "added_at": "2024-04-19 16:59:35",
+      "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2024-04-19 16:59:35",

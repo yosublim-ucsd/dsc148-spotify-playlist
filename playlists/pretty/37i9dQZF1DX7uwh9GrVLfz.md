@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 
 > The legendary classics meet the newest cutting edge\. This is Japanese punk\. cover: GOOD4NOTHING
 
-[Spotify](https://open.spotify.com/user/spotify) - 118,637 likes - 100 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 118,667 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -103,10 +103,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7uwh9GrVLfz.md) - [plain]
 | 93 | [Ohichyo](https://open.spotify.com/track/4PCTknCvdlBSZuOw9gpH6F) | [KEMURI](https://open.spotify.com/artist/3tRqvT7FoScxartUAj68Wp) | [77 Days](https://open.spotify.com/album/2MGPBJ3elGWwjgKRBXy1ib) | 2:23 |
 | 94 | [TRAIN\-TRAIN](https://open.spotify.com/track/1z6CljeqsqNfFTr67lg2Ks) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [TRAIN\-TRAIN](https://open.spotify.com/album/3VdSixq61uexxlDKfSG5hI) | 3:53 |
 | 95 | ["Let it die \-Subete wa isutori game\-" \(Let it die \-All is musical chairs\-\)](https://open.spotify.com/track/2TAxUxm124Yt8hvtUS9oXi) | [PAN](https://open.spotify.com/artist/2YKxuLK7kkCTYnTkX4O17T) | [Goo Goo Goo](https://open.spotify.com/album/7xgE9X3dQw5GBMognMf1oE) | 3:12 |
-| 96 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 |
-| 97 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
+| 96 | [オトナノススメ](https://open.spotify.com/track/7L23l0zf58d4fFN4KEz903) | [Dohatsuten](https://open.spotify.com/artist/2UUHBIbp6MHWflVwNbPUOE) | [オトナマイト・ダンディー](https://open.spotify.com/album/74xgGFWbafTwQkfUI5d6Av) | 4:45 |
+| 97 | [HEARTBEAT](https://open.spotify.com/track/4XRP6yJ7CPzCVM3jcZbMwz) | [TENDOUJI](https://open.spotify.com/artist/7kOS7xo3ryc1MmhfP0fNnX) | [HEARTBEAT](https://open.spotify.com/album/2Szuh3zqRSHAQZywLXU7jc) | 3:04 |
 | 98 | [Miracle](https://open.spotify.com/track/1meDmOUSJzltRqEtDMcxkt) | [TOTALFAT](https://open.spotify.com/artist/2Bxu9stwgeIGzYeTNRicKE) | [BAND FOR HAPPY](https://open.spotify.com/album/5xJPX8mkswZHKkYM6dkWTk) | 1:12 |
-| 99 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
-| 100 | [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 |
+| 99 | [ハローフィクサー](https://open.spotify.com/track/6vDYdnpW1ZX7fsFI5d0apl) | [10\-FEET](https://open.spotify.com/artist/0QZqdhoRQkn1VphAa5eX8h) | [ハローフィクサー](https://open.spotify.com/album/7Flmbxp4j9gbkPsWmIgiqJ) | 3:23 |
+| 100 | [me, myself & I.](https://open.spotify.com/track/5GgcrApeRYdvBxupHHhoUP) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [me, myself & I.](https://open.spotify.com/album/7APsZI60jzYxEdmEWc0Cdj) | 3:08 |
 
 Snapshot ID: `MTcxMzI3OTYwMCwwMDAwMDAwMGJmNzczMjNiMWU4MWJiNTk5YTYxMmQzODhlMjA4Zjlk`

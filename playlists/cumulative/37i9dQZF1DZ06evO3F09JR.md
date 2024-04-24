@@ -4,7 +4,7 @@
 
 > This is Alessandro Cortini\. The essential tracks, all in one playlist.
 
-104 songs - 9 hr 52 min
+106 songs - 10 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [AMARO AMORE](https://open.spotify.com/track/34aLJYyLaPXQoQEa2rls0a) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 6:00 | 2022-06-01 | 2023-07-21 |
 | [AMORE AMARO](https://open.spotify.com/track/2XkS3JibKUeLfIHzZm3ALd) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/21wC2FR62EbrsmfD1gpmhN) | 5:02 | 2022-06-06 | 2022-10-13 |
 | [AMORE AMARO](https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [VOLUME MASSIMO](https://open.spotify.com/album/0eQcXzLkavsGjvi6wN81TK) | 5:02 | 2022-05-29 |  |
+| [Aspettare](https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:19 | 2024-04-24 |  |
 | [At First Sight](https://open.spotify.com/track/0kkV16AVMLlMt5tMYZEM2H) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Illusion Of Time](https://open.spotify.com/album/12STkzO9PrEMfcnRUKMVfi) | 3:27 | 2022-05-29 |  |
 | [B1](https://open.spotify.com/track/0tgKuqVOLUlZtgO7RaD1yf) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Baseck](https://open.spotify.com/artist/3osPFn4n6nIX1cI3EOaJMq) | [Dirty A.D.](https://open.spotify.com/album/4VYWrDOWysHeCogEzl6i2H) | 4:40 | 2024-01-25 |  |
 | [Baresi](https://open.spotify.com/track/3X0GKQRNLjVjNs3E5z695C) | [Daniel Avery](https://open.spotify.com/artist/1EULJuDFWpZ9xg4YwtUGGt), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Baresi](https://open.spotify.com/album/0sBNgCtkmhq1eC7RR3UQ1y) | 4:54 | 2022-05-29 | 2023-09-16 |
@@ -69,6 +70,7 @@
 | [Mourning the Fallen](https://open.spotify.com/track/5oblJwpXzETf1DGPAeXXOg) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 1:38 | 2022-10-30 | 2024-03-23 |
 | [NESSUNO](https://open.spotify.com/track/31wrcWjDXqJG1ix2GgHlyu) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/7GdeIkHAyeOJDPpg34hNAg) | 8:10 | 2023-07-29 |  |
 | [NESSUNO](https://open.spotify.com/track/67pkFDREsQbXENCn57fbuj) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [SCURO CHIARO](https://open.spotify.com/album/2GPhGDECpXqZfQ7XdVNR6u) | 8:10 | 2022-07-27 | 2023-07-15 |
+| [Nonfare](https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 7:38 | 2024-04-24 |  |
 | [Operation Citadel](https://open.spotify.com/track/1dqLUaHIVw3VTCSu5mDw6W) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 2:16 | 2022-11-23 | 2022-12-14 |
 | [Panther](https://open.spotify.com/track/4EeoyH0Uh9VEkUn6dqVtCw) | [Alain Johannes](https://open.spotify.com/artist/57vhIhkzqXdrZnLoD0yl9C), [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg), [Norm Block](https://open.spotify.com/artist/65mdUmTmDJRbmWkiHfYElm) | [Tom Clancy's Ghost Recon Breakpoint \(Original Game Soundtrack\)](https://open.spotify.com/album/7vIZpj2mo0Drf3ccWS6zeO) | 3:23 | 2022-05-29 | 2024-04-01 |
 | [Perdere](https://open.spotify.com/track/5EVaeRCaBAOdbsChFHOiS4) | [Alessandro Cortini](https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg) | [Avanti](https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj) | 6:16 | 2024-04-21 |  |

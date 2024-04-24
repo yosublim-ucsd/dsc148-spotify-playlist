@@ -1,28 +1,76 @@
 {
-  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Kara Jackson performing at Fresh Finds Chicago March, 2024",
-  "num_followers": 66495,
+  "description": "Fresh folk and roots music from independent artists every Wednesday. Cover: Bloomsday",
+  "num_followers": 66684,
   "original_name": "Fresh Finds Folk ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMyNjQwMCwwMDAwMDAwMDJmZjIxNTI2YWRiZTI4MjJiYzQwYjhlYzQwZGJkZGNm",
+  "snapshot_id": "MTcxMzkzMTIwMCwwMDAwMDAwMDFlNmY1MGMxZjVlOGMyMzIyOTZmMDliOWRjNmQ5NjNl",
   "tracks": [
     {
-      "added_at": "2024-04-17 04:00:00",
+      "added_at": "2024-04-24 04:00:00",
       "album": {
-        "name": "Stretch",
-        "url": "https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX"
+        "name": "Virtual Hug",
+        "url": "https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT"
       },
       "artists": [
         {
-          "name": "April",
-          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+          "name": "Bloomsday",
+          "url": "https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI"
         }
       ],
-      "duration_ms": 241470,
-      "name": "Stretch",
-      "url": "https://open.spotify.com/track/290x0HFZibOGZ7jgMIlKgU"
+      "duration_ms": 189829,
+      "name": "Virtual Hug",
+      "url": "https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Givin It Up",
+        "url": "https://open.spotify.com/album/00SJUenrxFgSKlWfKY8eyH"
+      },
+      "artists": [
+        {
+          "name": "Legit Smitty",
+          "url": "https://open.spotify.com/artist/1jzrVsvcSp4J1n5OctWBEu"
+        }
+      ],
+      "duration_ms": 240052,
+      "name": "Givin It Up",
+      "url": "https://open.spotify.com/track/72wJX6tzZeM2pZy1tn9l8M"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "eyes",
+        "url": "https://open.spotify.com/album/42eYQJOgQiFktnzYgGvpWx"
+      },
+      "artists": [
+        {
+          "name": "Noah Pope",
+          "url": "https://open.spotify.com/artist/2o5q7YGI95tcmQHA3BfZUy"
+        }
+      ],
+      "duration_ms": 251919,
+      "name": "eyes",
+      "url": "https://open.spotify.com/track/3g7IctpuA0o4dE3lAAf0Ug"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Did You Hear Me Think About It (Been On My Mind)",
+        "url": "https://open.spotify.com/album/5xZBR5cV4PJumocwdOfEbW"
+      },
+      "artists": [
+        {
+          "name": "Jelly Crystal",
+          "url": "https://open.spotify.com/artist/4UOv0GRUcowmMub8VH0pxP"
+        }
+      ],
+      "duration_ms": 193291,
+      "name": "Did you hear me think about it (Been on my mind)",
+      "url": "https://open.spotify.com/track/3iiAiW4n4pwp8Crk4aH3yq"
     },
     {
       "added_at": "2024-04-10 04:00:00",
@@ -41,6 +89,54 @@
       "url": "https://open.spotify.com/track/08q9oymzN5ozNuE8q4YzrG"
     },
     {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Whatever He's On",
+        "url": "https://open.spotify.com/album/7Im9yWhdtAGqVbHM8NG5dD"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 174485,
+      "name": "Whatever He's On",
+      "url": "https://open.spotify.com/track/5NbjRFW7CYSdETUMEgUPFz"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Bloom",
+        "url": "https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4"
+      },
+      "artists": [
+        {
+          "name": "Alexander Grandjean",
+          "url": "https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp"
+        }
+      ],
+      "duration_ms": 221166,
+      "name": "Bloom",
+      "url": "https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "With Small We Start",
+        "url": "https://open.spotify.com/album/1e3PPw7d76uh9dJq86FRUl"
+      },
+      "artists": [
+        {
+          "name": "Emily Barker",
+          "url": "https://open.spotify.com/artist/25uHIpsCWoj8wEHFOEhbuV"
+        }
+      ],
+      "duration_ms": 243546,
+      "name": "With Small We Start",
+      "url": "https://open.spotify.com/track/4iQGuE9dpdo69dij5Qy6DA"
+    },
+    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "amen!",
@@ -55,6 +151,86 @@
       "duration_ms": 155750,
       "name": "good wind",
       "url": "https://open.spotify.com/track/6X0V8H3CWWV0ahbRfdGUP8"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Your Presence",
+        "url": "https://open.spotify.com/album/1H6Dv712b57GUsb9VvtdYT"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9lie Farren",
+          "url": "https://open.spotify.com/artist/6xRbdqe7I2llmjw533rYnG"
+        }
+      ],
+      "duration_ms": 199471,
+      "name": "Your Presence",
+      "url": "https://open.spotify.com/track/6urvD8IGktg5UZAsrpxEpp"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/722yld0yP6gdy4tFsJNsfg"
+      },
+      "artists": [
+        {
+          "name": "Ariella",
+          "url": "https://open.spotify.com/artist/6w0vaIhMHgLjF7HUDmth81"
+        }
+      ],
+      "duration_ms": 140015,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/6UujWZbimR3yS5m65C0Nir"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "The Sweetest Thing",
+        "url": "https://open.spotify.com/album/2Ra0VTl4kLMl1t5iOykaK8"
+      },
+      "artists": [
+        {
+          "name": "Lana Nauphal",
+          "url": "https://open.spotify.com/artist/5UuFrHL6sal97ebpBq24YJ"
+        }
+      ],
+      "duration_ms": 212540,
+      "name": "The Sweetest Thing",
+      "url": "https://open.spotify.com/track/4zE6piiNp17e7xa5NGDsz3"
+    },
+    {
+      "added_at": "2024-04-10 04:00:00",
+      "album": {
+        "name": "The Favorite",
+        "url": "https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43"
+      },
+      "artists": [
+        {
+          "name": "India Thieriot",
+          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
+        }
+      ],
+      "duration_ms": 185975,
+      "name": "The Favorite",
+      "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Stretch",
+        "url": "https://open.spotify.com/album/1Y00m2WKm4XYK30iKSe3NX"
+      },
+      "artists": [
+        {
+          "name": "April",
+          "url": "https://open.spotify.com/artist/4szhr7vkREIJ7DlW49pF5d"
+        }
+      ],
+      "duration_ms": 241470,
+      "name": "Stretch",
+      "url": "https://open.spotify.com/track/290x0HFZibOGZ7jgMIlKgU"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -89,22 +265,6 @@
       "url": "https://open.spotify.com/track/3bnQOgLJTjr4286CHnTNlS"
     },
     {
-      "added_at": "2024-04-10 04:00:00",
-      "album": {
-        "name": "The Favorite",
-        "url": "https://open.spotify.com/album/42zSMFzegNPqbs8roRvI43"
-      },
-      "artists": [
-        {
-          "name": "India Thieriot",
-          "url": "https://open.spotify.com/artist/6MuOTOv4gVJpTYFPBb3awg"
-        }
-      ],
-      "duration_ms": 185975,
-      "name": "The Favorite",
-      "url": "https://open.spotify.com/track/5fOJ2ER7TB9DNjFchr9m3P"
-    },
-    {
       "added_at": "2024-04-17 04:00:00",
       "album": {
         "name": "Lying / Nightlight",
@@ -135,6 +295,22 @@
       "duration_ms": 114000,
       "name": "Whenever You Get Old",
       "url": "https://open.spotify.com/track/6Q5tvipMXV8970Qqz4UMX8"
+    },
+    {
+      "added_at": "2024-04-03 04:00:00",
+      "album": {
+        "name": "Pocket",
+        "url": "https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E"
+      },
+      "artists": [
+        {
+          "name": "Margot Liotta",
+          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pocket",
+      "url": "https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -263,22 +439,6 @@
       "duration_ms": 255499,
       "name": "Lunch",
       "url": "https://open.spotify.com/track/5ZIenhLODzGK8d5wwPPjOz"
-    },
-    {
-      "added_at": "2024-04-03 04:00:00",
-      "album": {
-        "name": "Pocket",
-        "url": "https://open.spotify.com/album/2cy9UiKp4m5TuYTQD5rg3E"
-      },
-      "artists": [
-        {
-          "name": "Margot Liotta",
-          "url": "https://open.spotify.com/artist/56WiHoGRrAnik3ru29V8pM"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Pocket",
-      "url": "https://open.spotify.com/track/4tEbhflVi5PzSl2om3C3so"
     },
     {
       "added_at": "2024-04-10 04:00:00",
@@ -1455,186 +1615,6 @@
       "duration_ms": 107566,
       "name": "Intro, Dream",
       "url": "https://open.spotify.com/track/6h3eqlgYSMVbxQvNsfIwN3"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "A Promise",
-        "url": "https://open.spotify.com/album/5FexbBBHbhjhsyBC6k0vp8"
-      },
-      "artists": [
-        {
-          "name": "Meernaa",
-          "url": "https://open.spotify.com/artist/6x8L59xNfuXIM7UfzoSe7g"
-        }
-      ],
-      "duration_ms": 177822,
-      "name": "A Promise",
-      "url": "https://open.spotify.com/track/1sibZ12UhxsG33aQgcXYCp"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Bells",
-        "url": "https://open.spotify.com/album/0DBqjwSgBd1YyTnyH60RX0"
-      },
-      "artists": [
-        {
-          "name": "HAFFWAY",
-          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
-        }
-      ],
-      "duration_ms": 191460,
-      "name": "Bells",
-      "url": "https://open.spotify.com/track/2kzM7UmYRNDOrZnnwIHOvn"
-    },
-    {
-      "added_at": "2024-02-14 05:00:00",
-      "album": {
-        "name": "Stay at Home",
-        "url": "https://open.spotify.com/album/5YgLsT6HRQtoxkyDax8r7w"
-      },
-      "artists": [
-        {
-          "name": "Laney Jones",
-          "url": "https://open.spotify.com/artist/7uRgKJfoqXp05a5OKhpEXS"
-        }
-      ],
-      "duration_ms": 219026,
-      "name": "Stay at Home",
-      "url": "https://open.spotify.com/track/6vlk3gFyQgB9Oy4f4FPykh"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Cowboy Song",
-        "url": "https://open.spotify.com/album/0sc8w9PIOdSNhCBeNIkzMH"
-      },
-      "artists": [
-        {
-          "name": "Boy Deco",
-          "url": "https://open.spotify.com/artist/2ToFHcW8xlcnx73z5Jzzu7"
-        },
-        {
-          "name": "Quantum Keys",
-          "url": "https://open.spotify.com/artist/5lw9kgX2il5YmYfqoSh3ve"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "Cowboy Song",
-      "url": "https://open.spotify.com/track/6WTxv1kJXyOHV24Vl7iiqa"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "worthwhile",
-        "url": "https://open.spotify.com/album/41MpSMm42mc0bFFeQQLky7"
-      },
-      "artists": [
-        {
-          "name": "Alexa Cirri",
-          "url": "https://open.spotify.com/artist/0jitaHotzcSiJNkm4amOOr"
-        }
-      ],
-      "duration_ms": 246357,
-      "name": "worthwhile",
-      "url": "https://open.spotify.com/track/1NVdtQhsc1dO7ZZWS3oxX3"
-    },
-    {
-      "added_at": "2024-02-28 05:00:00",
-      "album": {
-        "name": "Alaska",
-        "url": "https://open.spotify.com/album/4YdpBlz2PcozEEDcDH6Z7b"
-      },
-      "artists": [
-        {
-          "name": "Tyler Cain",
-          "url": "https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd"
-        }
-      ],
-      "duration_ms": 218290,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4hnrh0AyELTcz5FST6Lhxw"
-    },
-    {
-      "added_at": "2024-01-24 05:00:00",
-      "album": {
-        "name": "Cairngorms",
-        "url": "https://open.spotify.com/album/5L2BHB36P5IQYu1QCw80K3"
-      },
-      "artists": [
-        {
-          "name": "Sarah Julia",
-          "url": "https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ"
-        }
-      ],
-      "duration_ms": 252878,
-      "name": "Cairngorms",
-      "url": "https://open.spotify.com/track/2d5gLLZEhhkwKpFR5akW0F"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "The Same",
-        "url": "https://open.spotify.com/album/0AmNwYMbWiRVW47GnuFgDk"
-      },
-      "artists": [
-        {
-          "name": "Kaleah Lee",
-          "url": "https://open.spotify.com/artist/6JgC582KHI4BpHIhbFHVAQ"
-        }
-      ],
-      "duration_ms": 170925,
-      "name": "The Same",
-      "url": "https://open.spotify.com/track/42aN26zSK9ZNZcJQrYUURv"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Paper Horses",
-        "url": "https://open.spotify.com/album/0r7QWFxKM5XN9WBmGS99sN"
-      },
-      "artists": [
-        {
-          "name": "Paper Horses",
-          "url": "https://open.spotify.com/artist/4gdDTJi3KRIhEKqiAIZuWW"
-        },
-        {
-          "name": "Leslie Jordan",
-          "url": "https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh"
-        },
-        {
-          "name": "Taylor Leonhardt",
-          "url": "https://open.spotify.com/artist/1OUylyH2arsswxRe6dOz3i"
-        },
-        {
-          "name": "Sandra McCracken",
-          "url": "https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN"
-        },
-        {
-          "name": "Jess Ray",
-          "url": "https://open.spotify.com/artist/7pPNHLzwbrHYlCMTftK3A3"
-        }
-      ],
-      "duration_ms": 243800,
-      "name": "Why Don't We",
-      "url": "https://open.spotify.com/track/6Hwse3UUiShB05dbZP4h51"
-    },
-    {
-      "added_at": "2024-02-21 05:00:00",
-      "album": {
-        "name": "Your Melody",
-        "url": "https://open.spotify.com/album/3OVLX0EscxQeLAGCfOyFIL"
-      },
-      "artists": [
-        {
-          "name": "Stella Smyth",
-          "url": "https://open.spotify.com/artist/73XgyFPPVBCDDSj1lp2Gmx"
-        }
-      ],
-      "duration_ms": 171639,
-      "name": "Your Melody",
-      "url": "https://open.spotify.com/track/5oehlLTugy2jajet81l7W3"
     }
   ],
   "unique_name": "Fresh Finds Folk ",

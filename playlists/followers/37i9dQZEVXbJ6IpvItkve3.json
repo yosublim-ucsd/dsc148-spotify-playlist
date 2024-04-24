@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 61546,
+  "2024-04-24": 61569,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Israel.",
   "name": "Top 50 - Israel",
@@ -2615,7 +2615,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 261228,
       "name": "Down Bad",
       "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
@@ -3635,7 +3635,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 187752,
       "name": "Hatikvah - Himmo Nacional De Israel",
       "url": "https://open.spotify.com/track/1z3Bn1GUF2OKnccecXp2qR"
@@ -5759,7 +5759,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 203801,
       "name": "My Boy Only Breaks His Favorite Toys",
       "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
@@ -6571,7 +6571,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 232774,
       "name": "Push Ups",
       "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
@@ -7397,7 +7397,7 @@
       ],
       "date_added": "2024-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 262974,
       "name": "So Long, London",
       "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
@@ -8107,7 +8107,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 293048,
       "name": "The Tortured Poets Department",
       "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
@@ -11707,7 +11707,7 @@
       ],
       "date_added": "2021-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 187901,
       "name": "\u05d4\u05d9\u05d9 \u05d1\u05d9\u05d9\u05d1",
       "url": "https://open.spotify.com/track/1D8HR389yohrWVZ1yHI2bc"
@@ -13244,6 +13244,24 @@
     },
     {
       "album": {
+        "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/14Ve7iPxyRWwM0tA3KHIhi"
+      },
+      "artists": [
+        {
+          "name": "\u05e9\u05d9\u05dc\u05d4 \u05d1\u05df \u05e1\u05e2\u05d3\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/25121FSeQqqD3El2C3t9L1"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202000,
+      "name": "\u05db\u05d5\u05db\u05d1\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/4EN9nGt9TWutt0iDTRnXjY"
+    },
+    {
+      "album": {
         "name": "\u05e9\u05d1\u05e2\u05d4 \u05d9\u05e8\u05d7\u05d9\u05dd",
         "url": "https://open.spotify.com/album/0dT7h6FQ94qYgUqgaC2eQY"
       },
@@ -14185,7 +14203,7 @@
       ],
       "date_added": "2023-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 190039,
       "name": "\u05dc\u05e6\u05d0\u05ea \u05de\u05d3\u05d9\u05db\u05d0\u05d5\u05df",
       "url": "https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL"
@@ -16199,7 +16217,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 230742,
       "name": "\u05e2\u05d3 \u05e9\u05d9\u05d9\u05e8\u05d3 \u05d4\u05e1\u05d4\u05e8",
       "url": "https://open.spotify.com/track/1pizAMAnDm5kDUSBKY3SPk"
@@ -16807,6 +16825,24 @@
       "duration_ms": 167225,
       "name": "\u05e4\u05dc\u05d5\u05d0\u05d5 \u05e9\u05dc \u05d8\u05de\u05d1\u05dc 2",
       "url": "https://open.spotify.com/track/4PcdcSDUImHuVjoCezSYuC"
+    },
+    {
+      "album": {
+        "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV"
+      },
+      "artists": [
+        {
+          "name": "Osher Cohen",
+          "url": "https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178236,
+      "name": "\u05e4\u05dc\u05e1\u05d8\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1"
     },
     {
       "album": {
@@ -17449,7 +17485,7 @@
       ],
       "date_added": "2023-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 114625,
       "name": "\u05e8\u05d5\u05e0\u05d3\u05dc\u05d9\u05dd",
       "url": "https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3"

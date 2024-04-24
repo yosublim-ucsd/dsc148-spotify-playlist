@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 
 > This is Aerosmith\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 678,504 likes - 50 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 678,421 likes - 50 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4x3X2w.md) - [plain]
 | 49 | [Nine Lives](https://open.spotify.com/track/1baMSM7DZXYKVTHyxnYgzd) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Nine Lives](https://open.spotify.com/album/1WEfOTItaPIa0dVxxLJqlI) | 4:01 |
 | 50 | [Remember \(Walking In The Sand\)](https://open.spotify.com/track/4X0ATVwJsosL3PUvsEeAAs) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Night In The Ruts](https://open.spotify.com/album/2ksXsCYl9lqPQKEESlbPPK) | 4:04 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDE4ODVmMjQ2N2M0NzVlZmMzZjRkMmJmYzE0YjM0MWY1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGVkODlmNWJmNTgyZDc0OGU5YjAxYWEzZmZmMWMzMTZh`

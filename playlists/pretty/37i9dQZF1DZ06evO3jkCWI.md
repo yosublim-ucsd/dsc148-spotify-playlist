@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 
 > This is Los Invasores De Nuevo León\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,914 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,944 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3jkCWI.md) - [plain]
 | 46 | [Lucio Peña](https://open.spotify.com/track/2szJfT5bYhIB0jdjsgpWNj) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Corridos De Pegue](https://open.spotify.com/album/2iStr0qc3jeFmGeud0h29Q) | 3:13 |
 | 47 | [Reproches Del Viento](https://open.spotify.com/track/6UftyO69RjPSEMf8bluuVO) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Es Demasiado Tarde](https://open.spotify.com/album/3RhITFDOGFitmcOtfUE2Kx) | 3:26 |
 | 48 | [Qué Valor De Mujer](https://open.spotify.com/track/4GT3fRkjpQO8uXEWe0A4oB) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [15 Boleros De Oro](https://open.spotify.com/album/3tTkjFxSMIyKTi3KgnqgpT) | 3:13 |
-| 49 | [Que Poca](https://open.spotify.com/track/4XKtNegKyGMCdgIdCxfcMQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 3:22 |
-| 50 | [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 |
+| 49 | [Amor A La Ligera](https://open.spotify.com/track/4jjLfOGnXPza7iXX8TebTn) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Amor A La Ligera](https://open.spotify.com/album/5jaSL4vBSHGuQrIRFWQSwm) | 2:24 |
+| 50 | [Que Poca](https://open.spotify.com/track/4XKtNegKyGMCdgIdCxfcMQ) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Tiempo Al Tiempo](https://open.spotify.com/album/1LVdQN6LXJlhIxl2IeEcne) | 3:22 |
 | 51 | [Te Quiero Para Mi](https://open.spotify.com/track/6K36cGSYWq4kRO4lMEKXJf) | [Los Invasores De Nuevo León](https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv) | [Ventanas Al Viento](https://open.spotify.com/album/6KkN3P3M0gqz7IeiejsZwE) | 3:08 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDFkODY3MzgyMDFjOTIxMGJkZWI1MTdmYWYxYjhmYzVk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDAzZDVmY2FjZjc0NjNhMTg2MjYwYTc4MTQ4OGJmMjE0`

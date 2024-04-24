@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 
 > Você não para quando está cansado, só quando terminar!
 
-[Spotify](https://open.spotify.com/user/spotify) - 398,480 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 397,996 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 57 | [Holy Diver](https://open.spotify.com/track/3a9urnht8HvfFzPwd0ipx6) | [Killswitch Engage](https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l) | [As Daylight Dies \(Special Edition\)](https://open.spotify.com/album/6iJEtgHTEbVlSS5isIS71z) | 4:10 |
 | 58 | [Testify](https://open.spotify.com/track/7lmeHLHBe4nmXzuXc0HDjk) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [The Battle Of Los Angeles](https://open.spotify.com/album/2eia0myWFgoHuttJytCxgX) | 3:30 |
 | 59 | [Avalanche](https://open.spotify.com/track/4EyPadLFhtWojU7mkT5hqT) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [That's The Spirit](https://open.spotify.com/album/7FqHuAvmREiIwVXVpZ9ooP) | 4:22 |
-| 60 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
-| 61 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
+| 60 | [Dig](https://open.spotify.com/track/7vrLphPq4yjaX7jiDdd2Nc) | [Mudvayne](https://open.spotify.com/artist/2Pfv2w8a20xzC7Dr7QXRqM) | [L.D\. 50](https://open.spotify.com/album/79cxLehm2WE9NMIRcJaqK9) | 2:42 |
+| 61 | [Down with the Sickness](https://open.spotify.com/track/4ImIJRZNJhNQLLdUFSYJoS) | [Disturbed](https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa) | [The Sickness \(10th Anniversary Edition\)](https://open.spotify.com/album/07w0hGS9XUdFsPBvDHy16y) | 4:38 |
 | 62 | [Chelsea Dagger](https://open.spotify.com/track/3ItzRpwvKtkDSNdRSjXu7Z) | [The Fratellis](https://open.spotify.com/artist/3M4ThdJR28z9eSMcQHAZ5G) | [Costello Music](https://open.spotify.com/album/6R6pjR9ocMYuqSuNx5e4mg) | 3:35 |
 | 63 | [Swerve City](https://open.spotify.com/track/2OUR8g12h5qsGDs1v5lqvp) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Koi No Yokan](https://open.spotify.com/album/4PIVdqvL1Rc7T7Vfsr8n8Q) | 2:44 |
 | 64 | [Alive \- Chris Lord\-Alge Mix](https://open.spotify.com/track/1X4Ntw6Lbaa1ACgilCqMpr) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 3:25 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 76 | [Headup](https://open.spotify.com/track/4dfvPFbLEa6JzZV4dZTWt7) | [Deftones](https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH) | [Around the Fur](https://open.spotify.com/album/7o4UsmV37Sg5It2Eb7vHzu) | 6:12 |
 | 77 | [Song \#3](https://open.spotify.com/track/5jsDxDkJ1PqyYUWhDMr86B) | [Stone Sour](https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF) | [Hydrograd](https://open.spotify.com/album/4PERSgw7TXqpEZlIVN6zHr) | 4:16 |
 | 78 | [Soldiers](https://open.spotify.com/track/1iWgFnhR0oW5Mup8yXDAPW) | [Otherwise](https://open.spotify.com/artist/1OVyBGCKn7vObVIVPXcmLa) | [Soldiers](https://open.spotify.com/album/6wI2K6ApwaqRa80EEQlLzZ) | 4:01 |
-| 79 | [Thunderstruck](https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Iron Man 2](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv) | 4:52 |
-| 80 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
+| 79 | [Judas](https://open.spotify.com/track/2QQDH8gt4nyxFu2XX6bhG8) | [Fozzy](https://open.spotify.com/artist/59CIPNdUfewexxn1CJEdp5) | [Judas](https://open.spotify.com/album/3mr9etJ9IMRFRXAfLkGWcJ) | 4:10 |
+| 80 | [Thunderstruck](https://open.spotify.com/track/52UWtKlYjZO3dHoRlWuz9S) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Iron Man 2](https://open.spotify.com/album/4ydl8Ci7OsndhI2ALnrpIv) | 4:52 |
 | 81 | [Narcissistic Cannibal \(feat\. Skrillex & Kill the Noise\)](https://open.spotify.com/track/65XY6Cx0263J5BPnY8mPyE) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:10 |
 | 82 | [Black Wedding \(feat\. Rob Halford\)](https://open.spotify.com/track/3zUwwYcmob803s2Bkck8GY) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT), [Rob Halford](https://open.spotify.com/artist/7CTjkl9M3enzBBfm1u10Sy) | [Ritual](https://open.spotify.com/album/1JIIc6FIetBaCAzWkCSBjL) | 4:07 |
 | 83 | [Bullet With Butterfly Wings \- Remastered 2012](https://open.spotify.com/track/4qMzPtAZe0C9KWpWIzvZAP) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Mellon Collie And The Infinite Sadness \(Remastered\)](https://open.spotify.com/album/4bPT6Q8ppaSNppk1kbEbLl) | 4:18 |
@@ -100,9 +100,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakWdSZ8mUMO.md) - [plain]
 | 90 | [Crawl](https://open.spotify.com/track/2G1xOn9PhRgi63XWp2ToZx) | [Breaking Benjamin](https://open.spotify.com/artist/5BtHciL0e0zOP7prIHn3pP) | [Dear Agony](https://open.spotify.com/album/0mBvlBWI6TMDrWvQ8bKOKV) | 3:58 |
 | 91 | [Wait](https://open.spotify.com/track/45R6DmpsaoqLujIn6qPTPH) | [Earshot](https://open.spotify.com/artist/6eeYhqOX2cpsiHY6gVuvPA) | [Two](https://open.spotify.com/album/0LRzUvkIwBzRFDjKCo2cfe) | 3:33 |
 | 92 | [Devil on My Shoulder](https://open.spotify.com/track/6M2EVaf2a9qhnY04CVvO95) | [Billy Talent](https://open.spotify.com/artist/08yf5A2nS4XEeNvabDXqyg) | [Billy Talent III](https://open.spotify.com/album/58IwNbkCL527REhNX7emWv) | 3:49 |
-| 93 | [Call You Out](https://open.spotify.com/track/6MLiQIWMaTaaOB04R1VC0k) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [New Horizons](https://open.spotify.com/album/50C4oRAunKnFnFkbZaob6a) | 2:19 |
-| 94 | [Get Up! \(feat\. Skrillex\)](https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:42 |
-| 95 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
+| 93 | [Get Up! \(feat\. Skrillex\)](https://open.spotify.com/track/25EgA1A1OZBRw25Mjyw08g) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX) | [The Path of Totality \(Special Edition\)](https://open.spotify.com/album/3ARqpnmjMB5O8uihXOOxbW) | 3:42 |
+| 94 | [Infra\-Red](https://open.spotify.com/track/6oe2HcrgnNU66Eyq8BY45Z) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [Outsider](https://open.spotify.com/album/3e8KUqPO1wRmwqAxENX38s) | 3:50 |
+| 95 | [Call You Out](https://open.spotify.com/track/6MLiQIWMaTaaOB04R1VC0k) | [Flyleaf](https://open.spotify.com/artist/4IliztYDlfMvzQzbx50o60) | [New Horizons](https://open.spotify.com/album/50C4oRAunKnFnFkbZaob6a) | 2:19 |
 | 96 | [Rats](https://open.spotify.com/track/1WjcX541kITk0ACPf5K6Bp) | [Ghost](https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D) | [Prequelle](https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV) | 4:21 |
 | 97 | [My Body](https://open.spotify.com/track/1KDYN3odJHnj9pqGHN3FVs) | [Young the Giant](https://open.spotify.com/artist/4j56EQDQu5XnL7R3E9iFJT) | [Young The Giant \(Special Edition\)](https://open.spotify.com/album/2ww7MYrkExsljnKhcINDse) | 4:04 |
 | 98 | [Los Angeles](https://open.spotify.com/track/5dJqHtAc4toOPTRX9xfOB6) | [Sugarcult](https://open.spotify.com/artist/04RtvnUz0XrUbUZzOA8ZoW) | [Lights Out](https://open.spotify.com/album/771aiFNWSoOrZfRQ4jWLOc) | 3:57 |

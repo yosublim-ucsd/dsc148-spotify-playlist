@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 
 > Música brasileira para temperar as receitas do dia\-a\-dia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 126,053 likes - 60 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 126,068 likes - 60 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWA91mpJ5Ldc.md) - [plain]
 | 55 | [Entretanto](https://open.spotify.com/track/2AavGz7eGM802LKuaoJpmR) | [Mart'nália](https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX) | [Minha Cara](https://open.spotify.com/album/7j3svtZ7QYarjiH5LSFroe) | 3:57 |
 | 56 | [Paradise](https://open.spotify.com/track/2X4CPCeIpodiM1sPCYcXtL) | [DJ Center](https://open.spotify.com/artist/1h3GrJokWIvpbdKn6h4Owq), [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Thalma De Freitas](https://open.spotify.com/artist/7dRgH9TbkPlyf3auU5jZKY) | [Paradise](https://open.spotify.com/album/1NBcAphFK9qE9rAA6LV8t6) | 3:39 |
 | 57 | [Estragar a Amizade](https://open.spotify.com/track/5Z63GzkLQZ8aNVsOWqkRKa) | [Isa Buzzi](https://open.spotify.com/artist/1upZO7ZfMNrTqqrjx4blBP), [Gamboa](https://open.spotify.com/artist/27RkTK2hr9OQEAzzCv0uHL) | [Estragar a Amizade](https://open.spotify.com/album/5APMx5lSHqxUh0w7x0h2jG) | 3:21 |
-| 58 | [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 |
+| 58 | [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 |
 | 59 | [Chororô](https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w) | [Luedji Luna](https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc) | [Bom Mesmo É Estar Debaixo D'Água](https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq) | 3:29 |
-| 60 | [Parafuso](https://open.spotify.com/track/6EEglMg2h3npZVTQQzIOeX) | [Qinhones](https://open.spotify.com/artist/0pcMoyp7o9Fv8sGMm9rjAU) | [Parafuso](https://open.spotify.com/album/76F6NYWGJgkqU3WbR9Mo3F) | 4:39 |
+| 60 | [Caju](https://open.spotify.com/track/1WOwgLCv4mCJPatwib6jLi) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz) | [Brasileiro](https://open.spotify.com/album/6r0GYeEO1BddAuBD4eM4cq) | 4:02 |
 
 Snapshot ID: `MTcwMzU1OTY2MCwwMDAwMDAwMGY5MjM1NTgxZDRlNTMyNjQ5YTg0OTJkY2EyNDA0YTNj`

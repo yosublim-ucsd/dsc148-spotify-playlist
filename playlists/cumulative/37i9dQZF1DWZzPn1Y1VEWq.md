@@ -4,7 +4,7 @@
 
 > 100 canciones de la época nostálgica más reciente.
 
-140 songs - 8 hr 59 min
+141 songs - 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@
 | [Cosas Del Amor](https://open.spotify.com/track/5NLQrrvnWFrwbtl5Li3AuB) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Nunca Se Acaba](https://open.spotify.com/album/5sN0cr5TIs5sm29m0FfOCY) | 3:03 | 2022-07-06 | 2024-04-19 |
 | [Creo](https://open.spotify.com/track/5Bi9Cq5oVFy1OtUgecbegZ) | [Callejeros](https://open.spotify.com/artist/2osoVujXgV0PA8lhqDKYFw) | [Señales](https://open.spotify.com/album/573TG9cHInMww2QgBeKqTy) | 4:49 | 2022-07-06 |  |
 | [Crimen](https://open.spotify.com/track/3oqWr0jDWNXxWufNogGREp) | [Gustavo Cerati](https://open.spotify.com/artist/1QOmebWGB6FdFtW7Bo3F0W) | [Ahí Vamos](https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP) | 3:52 | 2022-07-06 |  |
-| [Cuadros Dentro De Cuadros](https://open.spotify.com/track/4PRDdpZXJrrTDGnl4nJPrZ) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuadros Dentro De Cuadros](https://open.spotify.com/album/1c8zPwKLrZT7j4CHBtiH0e) | 3:01 | 2024-03-25 |  |
+| [Cuadros Dentro De Cuadros](https://open.spotify.com/track/4PRDdpZXJrrTDGnl4nJPrZ) | [Catupecu Machu](https://open.spotify.com/artist/059ysTnWcrm4yFwTr0NDjc) | [Cuadros Dentro De Cuadros](https://open.spotify.com/album/1c8zPwKLrZT7j4CHBtiH0e) | 3:01 | 2024-03-25 | 2024-04-24 |
 | [Cuatro Personalidades](https://open.spotify.com/track/1kTLi5AdnjOWyJg7oJmi52) | [Turf](https://open.spotify.com/artist/0Zncosr79q01riJYbSBNA1) | [Turfshow](https://open.spotify.com/album/0znWJZ1tkHSKC94Ymxp2m7) | 3:44 | 2022-07-06 |  |
 | [De Regreso Al Penal](https://open.spotify.com/track/2PpnjTOCtpBjAmEDu10Vr8) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [Cumbia Callejera](https://open.spotify.com/album/4a8IlEXVXvZCTp9q1YwZGy) | 4:03 | 2022-07-06 | 2024-04-19 |
 | [Deja De Llorar](https://open.spotify.com/track/3tddzXTgneWrkV2cYNUBZe) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [Sigo Por El Objetivo](https://open.spotify.com/album/2mDUQf0t9BfK4niWwr3Mdx) | 2:26 | 2022-07-06 |  |
@@ -106,6 +106,7 @@
 | [Que Calor](https://open.spotify.com/track/6UhA9om01c39JQAT17rtQn) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [La Lata](https://open.spotify.com/album/5FiOEoJn43wbtD6aqLrQqP) | 4:04 | 2024-03-25 |  |
 | [Que No Me Pierda](https://open.spotify.com/track/1hddbV736FaAFxMho50n75) | [Diego Torres](https://open.spotify.com/artist/0LALueHEQunQ2d61fXGeZh) | [Un Mundo Diferente](https://open.spotify.com/album/6lQH3MxpJygGIGs9mOZUNf) | 5:05 | 2022-07-06 |  |
 | [Quieren bajarme](https://open.spotify.com/track/3XDJemacsxOxdwBjA8Mjw9) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [Operacion Damas Gratis](https://open.spotify.com/album/4xM6QpVTidPwR4ohNdJMg9) | 3:39 | 2024-03-25 |  |
+| [Revoloteando](https://open.spotify.com/track/0Vuh6a1lDHMLYG4NBOnsHi) | [Árbol](https://open.spotify.com/artist/6OO01j5rLKCyPg4i3FuzIT) | [Hormigas](https://open.spotify.com/album/1sIA6YTTCHQ50lQTBregzD) | 3:56 | 2024-03-25 |  |
 | [Reyes de la Noche](https://open.spotify.com/track/3nnDwYz3dEd4p2ESdpS1G0) | [Guasones](https://open.spotify.com/artist/2wjmZuSHtRx96Qxb8HiP2o) | [Toro Rojo](https://open.spotify.com/album/5RQqvJeGRUrvVbvKGlMceO) | 4:10 | 2022-07-06 |  |
 | [Rubí](https://open.spotify.com/track/2Dsv2vdCfLucFIoECqAK6U) | [Babasónicos](https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2) | [Jessico](https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh) | 3:45 | 2022-07-06 |  |
 | [Runaway](https://open.spotify.com/track/2lqFwTECuP5VNUvzzotxWo) | [Los Pericos](https://open.spotify.com/artist/7FnZWGw9lwOr7WzieTKEPR) | [Pampas Reggae](https://open.spotify.com/album/5UT1U06RzF2hWq6d7SGaTn) | 3:25 | 2022-07-06 | 2024-04-19 |

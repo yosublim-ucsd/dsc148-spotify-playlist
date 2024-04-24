@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 
 > essa é pros apaixonados
 
-[Spotify](https://open.spotify.com/user/spotify) - 769,067 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 768,040 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 14 | [Apenas Mais uma de Amor](https://open.spotify.com/track/6YNCE5qtrTa7YcnAOAEsDQ) | [Lulu Santos](https://open.spotify.com/artist/0A1oy7PC7fdzURgaLaWkL1) | [Lulu Acústico](https://open.spotify.com/album/14xCfgcBE9uCrwwR36NoVB) | 3:38 |
 | 15 | [Piloto](https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob) | [Flora Matos](https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3) | [Piloto](https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU) | 3:17 |
 | 16 | [Interessante](https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8) | [Ferrugem](https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2) | [Interessante](https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4) | 2:52 |
-| 17 | [Outra Vida](https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Semente](https://open.spotify.com/album/5ankef7uixssXhd76nE2Aw) | 3:14 |
-| 18 | [Vamos Fugir](https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Radiola](https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe) | 4:00 |
+| 17 | [Vamos Fugir](https://open.spotify.com/track/7dxK6RSoCWZcb5gobxs1h9) | [Skank](https://open.spotify.com/artist/4C4kpaAdp6aKSkguw40SsU) | [Radiola](https://open.spotify.com/album/6Gl3phBwyHvRtRAMQddCpe) | 4:00 |
+| 18 | [Outra Vida](https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE) | [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Semente](https://open.spotify.com/album/5ankef7uixssXhd76nE2Aw) | 3:14 |
 | 19 | [Equalize](https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT) | [Admirável Chip Novo](https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK) | 3:52 |
 | 20 | [A noite](https://open.spotify.com/track/06XSmh92M0FIYNGC4Ss0CX) | [Tiê](https://open.spotify.com/artist/5rTjH3aABAmPM5B6DZebZ7) | [Esmeraldas \(Álbum Comentado\)](https://open.spotify.com/album/6EtAuxIwZCEuUZEqn2DwII) | 3:38 |
 | 21 | [Pique Djavan \- Ao Vivo](https://open.spotify.com/track/7D9sdH2LEs3To9nMZnLXUt) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:46 |
@@ -87,16 +87,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 77 | [coisa mais bonita](https://open.spotify.com/track/3mxWZCTWCx0zb5QVEfDh4M) | [Caike Souza](https://open.spotify.com/artist/6tjtXcfi8CU4froDsEydxa) | [coisa mais bonita](https://open.spotify.com/album/6quZjmU82PLIJQJPoYZTZb) | 2:56 |
 | 78 | [Se Eu Não Te Amasse Tanto Assim \- Acústico Em Trancoso / Ao Vivo](https://open.spotify.com/track/5z9gmHdAMTFjxFOpuWzyYO) | [Ivete Sangalo](https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ) | [Acústico Em Trancoso \(Ao Vivo\)](https://open.spotify.com/album/6Aqv0T76VtYRBhZMsd0Pa4) | 3:44 |
 | 79 | [Anjo Protetor](https://open.spotify.com/track/3VdeZzowGusdGH9YbNX5fu) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Outono](https://open.spotify.com/album/2V6U3S4sRuT69AiLFgKU3y) | 3:39 |
-| 80 | [Não Há Nada Mais Lindo](https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v) | [Leo Fressato](https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8) | [Canções para o Inverno Passar Depressa](https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6) | 1:57 |
-| 81 | [Cosquinha No Coração \- Ao Vivo](https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 3:13 |
+| 80 | [Cosquinha No Coração \- Ao Vivo](https://open.spotify.com/track/67e7dtapoeyCkaHFOaBIQy) | [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Ao Vivo Em Brasília \(Ao Vivo / Vol.1\)](https://open.spotify.com/album/3QeUaFs0eR6nsuz45OdxLZ) | 3:13 |
+| 81 | [Não Há Nada Mais Lindo](https://open.spotify.com/track/3Hj5L7A5u78lBfc2Twvx3v) | [Leo Fressato](https://open.spotify.com/artist/0CnYTlcwb3tBVt7S9F4xg8) | [Canções para o Inverno Passar Depressa](https://open.spotify.com/album/3MJF9CFMiDxHFx28ZYBIA6) | 1:57 |
 | 82 | [Eu Sou Você](https://open.spotify.com/track/1S5xxCLAVai7U3iNn4GztE) | [Eu, Trovador](https://open.spotify.com/artist/5UoJcZMaNYTNDVwKyEJi88) | [Eu Sou Você](https://open.spotify.com/album/7mdQkEIU6pBlz9y9E9lEX1) | 3:35 |
 | 83 | [Chico](https://open.spotify.com/track/6dZDlGzteUj6t8ztc2COMO) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 3:02 |
 | 84 | [Medo Bobo](https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Medo Bobo](https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV) | 3:18 |
 | 85 | [Amor I Love You / Citação: Trecho Da Obra Intitulada "Primo Basilio" De Eça De Queiroz Declamado Por Arnaldo Antunes](https://open.spotify.com/track/7zUNqxNQQ44iWnI6o4Oqlo) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Memorias Cronicas E Declaracoes De Amor "Textos, Provas E Desmentidos"](https://open.spotify.com/album/2tWENeaWpm2HTS357wM5pn) | 3:11 |
 | 86 | [Velha Infancia \- 2004 Digital Remaster;](https://open.spotify.com/track/3KYlOzxN5xO7eEauO1VF06) | [Tribalistas](https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD) | [Tribalistas](https://open.spotify.com/album/7tkP1p2yTttMg2SY45nB5Y) | 4:10 |
-| 87 | [O Amor É o Segredo](https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor É o Segredo](https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR) | 3:03 |
+| 87 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
 | 88 | [Anel de Coco \- Acústico \| Ao Vivo](https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Anel de Coco Acústico \(Ao Vivo\)](https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8) | 3:02 |
-| 89 | [Fica](https://open.spotify.com/track/0lwrkYbCwtAWTI0OIWEnd6) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe), [Matheus & Kauan](https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr) | [Fica](https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5) | 3:04 |
+| 89 | [O Amor É o Segredo](https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P) | [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [O Amor É o Segredo](https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR) | 3:03 |
 | 90 | [Quando Bate Aquela Saudade](https://open.spotify.com/track/76bcaYeKOKTrj9lEc9BZFU) | [Rubel](https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW) | [Pearl](https://open.spotify.com/album/25fli8PlxpP10WpirvDpMT) | 6:34 |
 | 91 | [Eu Me Lembro \(feat\. Silva\)](https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng) | [Clarice Falcão](https://open.spotify.com/artist/1wFTlPjO7zRtvylmu5pm1d) | [Monomania](https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99) | 3:37 |
 | 92 | [Que Seja pra Ficar](https://open.spotify.com/track/4voUXakolytCg27412L3Ur) | [Mariana Nolasco](https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH) | [Que Seja pra Ficar](https://open.spotify.com/album/05wUV6CRluelafa4uC3ete) | 3:42 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3J5toT8HI72.md) - [plain]
 | 94 | [Totalmente Seu](https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ) | [Marisa Monte](https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH) | [Portas](https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y) | 2:12 |
 | 95 | [Ouro](https://open.spotify.com/track/6QcHZSh7EV7EvhUnovI1Bw) | [Jhama](https://open.spotify.com/artist/5mXYWM38dlAs01e3XQEtma) | [Ouro](https://open.spotify.com/album/3crtjM7DJVNSvXfn2v65Lq) | 2:58 |
 | 96 | [Minha Flor Meu Bebê](https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [A Arte De Cazuza](https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi) | 3:06 |
-| 97 | [Deusa do Amor](https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB) | 5:09 |
-| 98 | [Singular](https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:26 |
+| 97 | [Singular](https://open.spotify.com/track/3eGK0WFi6ISJ9UZA6Za4HX) | [ANAVITÓRIA](https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe) | [ANAVITÓRIA](https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t) | 3:26 |
+| 98 | [Deusa do Amor](https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn) | [Moreno Veloso](https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK) | [Moreno Veloso Solo in Tokyo](https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB) | 5:09 |
 | 99 | [Voce E Linda](https://open.spotify.com/track/23ztZ0wgb5cNLZsziJWoRB) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ) | [Caetanear](https://open.spotify.com/album/2mlC3iABmrrpPDqzdBzEJr) | 4:59 |
 | 100 | [Codinome Beija\-Flor](https://open.spotify.com/track/2jERD2u9uoC7gGNQ0LbCrI) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Melhores Momentos](https://open.spotify.com/album/2jGyiRzQpIUs4ZATSHzUVa) | 2:31 |
 

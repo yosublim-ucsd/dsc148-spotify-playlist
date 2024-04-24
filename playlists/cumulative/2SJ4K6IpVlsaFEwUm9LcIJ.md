@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: march\-april 2024 \(previous playlists archived on my profile\)
 
-128 songs - 6 hr 42 min
+129 songs - 6 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,5 +136,6 @@
 | [Where's Bill Grundy Now?](https://open.spotify.com/track/5BuwHy2cxsCEZWrqogTuFr) | [Television Personalities](https://open.spotify.com/artist/4MlLVFHiA4e7BU7vQ4r5Lh) | [Yes Darling, But Is It Art](https://open.spotify.com/album/4Eoo1HxRn7hPV6BDSNoA9e) | 2:16 | 2024-01-22 | 2024-03-10 |
 | [You got it](https://open.spotify.com/track/3edBcJprxqa0uNyiM9cq5k) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Are You Looking Up / You got it](https://open.spotify.com/album/7l0sG15g8sYyDgebPA5UyX) | 2:14 | 2024-01-19 | 2024-03-10 |
 | [You're Too Young](https://open.spotify.com/track/7Lka4stiULYgZnEYxF9o65) | [Rocketship](https://open.spotify.com/artist/2dLzeuFyFPAYdWKU3UuYTA) | [Here Comes...Rocketship](https://open.spotify.com/album/0gyvoicwrAC6ma7fkm1Vdf) | 2:39 | 2024-01-31 | 2024-03-10 |
+| [甜蜜蜜](https://open.spotify.com/track/0aIQZBntZW3LCptADbkfKZ) | [Teresa Teng](https://open.spotify.com/artist/3ienC90A5I1X3irDyQoqWZ) | [BTB 鄧麗君15週年](https://open.spotify.com/album/5joHY66NwcFkf0ho0u4Kym) | 3:28 | 2024-04-23 |  |
 
 \*This playlist was first scraped on 2024-02-12. Prior content cannot be recovered.

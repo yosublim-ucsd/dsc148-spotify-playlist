@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De nieuwste releases elke vrijdag op Spotify! Cover: Taylor Swift
 
-[Spotify](https://open.spotify.com/user/spotify) - 259,948 likes - 93 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,044 likes - 93 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 |
-| 2 | [Gezichten](https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Gezichten](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:10 |
+| 2 | [Gezichten](https://open.spotify.com/track/55dawM1LFdFkQepYdEuidp) | [Antoon](https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [Gezichten EP](https://open.spotify.com/album/3jBDb7CmEwRl7TLE54Tfct) | 2:10 |
 | 3 | [Voor Je ‘t Weet](https://open.spotify.com/track/0kQW438RAa27ixstP4bIhD) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4), [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Voor Je ‘t Weet](https://open.spotify.com/album/3azvOPrY1wCSaESVjQVAmc) | 3:17 |
 | 4 | [Wahala \(feat\. Olamide\)](https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Wahala \(feat\. Olamide\)](https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW) | 2:50 |
 | 5 | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/track/1RAwKDC2VKpxLy6es0KZTJ) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Tay Keith](https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3) | [Cry No More \(feat\. Stormzy & Tay Keith\)](https://open.spotify.com/album/33hSbrSSZZfaXtmEnphHgG) | 3:24 |

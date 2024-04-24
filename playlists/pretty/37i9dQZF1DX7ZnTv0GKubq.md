@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 
 > Late night chilled vibes, for those intimate moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 363,761 likes - 50 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 363,658 likes - 50 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZnTv0GKubq.md) - [plain]
 | 41 | [Sunshine \(feat\. Fousheé\)](https://open.spotify.com/track/2FPmvXIMpjgzJQbUeJo8Iv) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp), [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 4:53 |
 | 42 | [Fight for Love](https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [11](https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8) | 4:57 |
 | 43 | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/track/4lIA2yIyg1nPmJ1rBwNFUG) | [Jacob Collier](https://open.spotify.com/artist/0QWrMNukfcVOmgEU0FEDyD), [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu) | [Witness Me \(feat\. Shawn Mendes, Stormzy & Kirk Franklin\)](https://open.spotify.com/album/0FNmNqZYPEXQbLajHmR9En) | 3:45 |
-| 44 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
-| 45 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
+| 44 | [Girl Like Me \(feat\. H.E.R.\)](https://open.spotify.com/track/2sXydP9vPEYUH4uAWotuGu) | [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Heaux Tales](https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9) | 3:44 |
+| 45 | [Ride for Me](https://open.spotify.com/track/4SVvpjmHsFKmXBcdsG5B84) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Ride for Me](https://open.spotify.com/album/3buKj4qYFKO2qKMdgdv3rg) | 3:14 |
 | 46 | [17](https://open.spotify.com/track/034KyQEk7IhbLtniVhBErj) | [Pink Sweat$](https://open.spotify.com/artist/1W7FNibLa0O0b572tB2w7t) | [17](https://open.spotify.com/album/6DQxe5EW0vZ1AfaoD8thFq) | 2:40 |
 | 47 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 48 | [Speed Of Plight](https://open.spotify.com/track/1t2YGrS7RAznI7zFR0aIIP) | [Loyle Carner](https://open.spotify.com/artist/4oDjh8wNW5vDHyFRrDYC4k) | [hugo](https://open.spotify.com/album/3McfY0EGNjsrVdYa9ZnoSH) | 3:00 |

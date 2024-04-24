@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-438 songs - 22 hr 13 min
+440 songs - 22 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Brommers Kieken](https://open.spotify.com/track/1sFOo3OyMgonEYdi4bTXHd) | [Boer Harm](https://open.spotify.com/artist/5IHZu2yYPqXd8JNzDP91Os) | [Brommers Kieken](https://open.spotify.com/album/3AryJg88r4Hr8mSj74KaVP) | 2:26 | 2024-03-04 |  |
 | [Bruder + Schwester](https://open.spotify.com/track/5w0aZKZX1ICmjqHNcFWi87) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR), [gladde paling](https://open.spotify.com/artist/6GVd3327JY65jGWX4X3wHS) | [Bruder + Schwester](https://open.spotify.com/album/0AdOCPNJYVXoy3CTGkxkIu) | 1:42 | 2023-02-23 | 2023-04-19 |
 | [Bunda](https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm) | [Bram Krikke](https://open.spotify.com/artist/5B4zg4qSXc3znw9xUbh7mk), [Pieter Valley](https://open.spotify.com/artist/41vxXybYeV3y7FLzwPZO7k) | [Bunda](https://open.spotify.com/album/1rK2NHrwrMKitKdC58GIf1) | 1:43 | 2023-04-29 | 2023-10-03 |
+| [Burning Love \- with The Royal Philharmonic Orchestra](https://open.spotify.com/track/7E6IYKyvJ7dfYl3iTRmozl) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra](https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt) | 3:29 | 2024-04-23 |  |
 | [Butta My Bread](https://open.spotify.com/track/3aJF7HsFOwuUAFOaRMQCxR) | [JZyNo](https://open.spotify.com/artist/3gYUwwn7FiiBMKHe36OUaQ), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Butta My Bread](https://open.spotify.com/album/3WlxlO16ydHEisWjriRpHk) | 2:28 | 2023-07-25 | 2023-12-15 |
 | [Buurman Uit Berlijn \- Radio Edit](https://open.spotify.com/track/22OehECsOcoKPjcLkLzBBr) | [MCR\-T](https://open.spotify.com/artist/4m7q9onIm2bqhwHy9utqmw), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Buurman Uit Berlijn](https://open.spotify.com/album/7kzvFxJhbI6deTcwJjSYOE) | 3:14 | 2024-02-06 | 2024-04-17 |
 | [Bécane \- A COLORS SHOW](https://open.spotify.com/track/3oUEzTAoOxqZHN4xiqTGqJ) | [Yamê](https://open.spotify.com/artist/0wiCfDEHaEcPkKZOi7Nivl) | [Bécane \- A COLORS SHOW](https://open.spotify.com/album/7oBuvko8hsXKXHEUHvDXnB) | 3:02 | 2023-11-23 | 2024-01-26 |
@@ -202,6 +203,7 @@
 | [Kill Bill](https://open.spotify.com/track/3OHfY25tqY28d16oZczHc8) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 2:33 | 2023-02-23 | 2023-03-02 |
 | [Kill Bill \- Sped Up Version](https://open.spotify.com/track/2ty6DmPnxVPpEFuB23XM0x) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Kill Bill](https://open.spotify.com/album/63nEYsFMdabB1qkWCOhsv7) | 2:17 | 2023-03-15 | 2023-05-02 |
 | [Koekje Met Je Moeder](https://open.spotify.com/track/6LS9fogxPFK44XKwJeDPtM) | [Kalvijn](https://open.spotify.com/artist/11X2JfCZ9k1u9xMKTGkpdK), [Guy](https://open.spotify.com/artist/6flKo6gEeGkXDriW0feXYk) | [Koekje Met Je Moeder](https://open.spotify.com/album/5aC24MWtXJZpy3NhZJ6hNS) | 2:05 | 2023-07-04 | 2023-12-30 |
+| [kompa pasión](https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2) | [kompa pasión](https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf) | 2:27 | 2024-04-23 |  |
 | [La Bebe \- Remix](https://open.spotify.com/track/2UW7JaomAMuX9pZrjVpHAU) | [Yng Lvcas](https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [La Bebe \(Remix\)](https://open.spotify.com/album/6aBVGuOUEuX18rHxyDWbti) | 3:54 | 2023-04-11 | 2023-05-24 |
 | [labour](https://open.spotify.com/track/2Ggr9IfS70wYQacW8nZKPG) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [labour](https://open.spotify.com/album/4h7ERA3MzqEh9B3edziLAn) | 3:57 | 2023-04-20 | 2023-05-24 |
 | [labyrinth \(sped up\)](https://open.spotify.com/track/5hNKOpGzXIU6pnGdW04H6R) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [labyrinth \(Remixes\)](https://open.spotify.com/album/6i5V0jE5qXmrRGPsB7wDH5) | 1:28 | 2023-04-11 | 2023-05-02 |

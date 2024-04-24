@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUrqe4wqsboB.md) - [plain]
 
 > Indie, pop, alternativo..\. y un poco más allá\. Cover: Ana Macho
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,499 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,511 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

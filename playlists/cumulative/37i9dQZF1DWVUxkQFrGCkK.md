@@ -2,9 +2,9 @@
 
 ### [Umami](https://open.spotify.com/playlist/37i9dQZF1DWVUxkQFrGCkK)
 
-> ANOTR is back!!
+> giza desert rave
 
-511 songs - 1 day 13 hr 47 min
+512 songs - 1 day 13 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -367,6 +367,7 @@
 | [Pneuma](https://open.spotify.com/track/4qBwFgJNIwz4wtvcRdyJRa) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp) | [Endless](https://open.spotify.com/album/2z7lW733Epysy8Sf5Vz2aG) | 4:18 | 2023-05-11 | 2023-08-02 |
 | [pomelo](https://open.spotify.com/track/7wJaL46QEUIX3Eksc71DNG) | [Stuzzi](https://open.spotify.com/artist/492u2je7zqQVJVpc2ctWCr) | [Le Fruit Disco II](https://open.spotify.com/album/60sjF9j6WP0WGcqeIY5elU) | 3:58 | 2023-06-22 | 2023-08-02 |
 | [porco rosso](https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN) | [sunflwr](https://open.spotify.com/artist/1vXY7FiXJPu6j456ZcrtIF) | [porco rosso](https://open.spotify.com/album/2DkNjsTfC3rPkgmN77x1fS) | 3:39 | 2023-04-13 | 2023-08-25 |
+| [Privity \- Extented Version](https://open.spotify.com/track/6wR6WdlYHHWPbsq7MHye02) | [Anthony Godfather](https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8), [Elilluminari](https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq) | [Privity \(Extented Version\)](https://open.spotify.com/album/1dND1YOVxq16W6mrEnJxBn) | 6:35 | 2024-04-23 |  |
 | [Promises \- VIP](https://open.spotify.com/track/2fGoNwWte7OojQlB8x31ku) | [Logic1000](https://open.spotify.com/artist/2EFsfh1zewsSWhDINv7j1I), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Promises \(VIP\)](https://open.spotify.com/album/74yuH2VgQ82I13TNrOW9cf) | 4:07 | 2024-02-29 | 2024-03-09 |
 | [Public Demand](https://open.spotify.com/track/4K1QtToqoDgfopYzTrD9KK) | [Cabu](https://open.spotify.com/artist/44hPDOKyTwkFxOL08UzNQE) | [Public Demand](https://open.spotify.com/album/30ZrywHKsEsrCWagYeyoug) | 2:31 | 2023-10-19 |  |
 | [Que Pasa](https://open.spotify.com/track/4XwHUW9PAPHIYOW8bXEaSK) | [SOMMA](https://open.spotify.com/artist/656ibQgcoUQrUPdhQWRcI3), [LE YORA](https://open.spotify.com/artist/0JguaqQNo1CgVjFqtIXyGR) | [Que Pasa](https://open.spotify.com/album/7ppvKpJGdfqeqkhM5lP6ur) | 7:19 | 2023-09-28 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: BARBEL
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,892 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,921 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 5 | [Sin Latexxx \(feat\. Danny Yash\)](https://open.spotify.com/track/0kTjuAVtSTJeaKWI25Jo1r) | [PM Beatz](https://open.spotify.com/artist/6wcfcQKvD00ZO41wa5FxDp), [Jorkan](https://open.spotify.com/artist/7LCgsRll55YeMXV0LGYYCm), [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Danny Yash](https://open.spotify.com/artist/3tULsHfYJH7joHTmn5vLNn) | [Sin Latexxx \(feat\. Danny Yash\)](https://open.spotify.com/album/1txkHTxRUtvPS3k5LFnCTS) | 3:38 |
 | 6 | [La Niña Consentida](https://open.spotify.com/track/2H5lq3Gn1t7FBX5l4as2im) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Kevin Ice](https://open.spotify.com/artist/6T7bOrkvmlGkEVPer6rDp3) | [La Niña Consentida](https://open.spotify.com/album/6HSMFCODetruC7z5k8MalQ) | 4:59 |
 | 7 | [Desbloquear](https://open.spotify.com/track/2C1Cw4faElzsWkJXah77ke) | [Makano](https://open.spotify.com/artist/5F73ZVq8ivLhsYF2pGg4Fc) | [Desbloquear](https://open.spotify.com/album/2kxpKhHh5eNFKB5Udc4j38) | 2:43 |
-| 8 | [Besitos](https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Besitos](https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj) | 5:01 |
+| 8 | [Besitos](https://open.spotify.com/track/7yS5ru5Zte13ujlQZqVbtC) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [Besitos](https://open.spotify.com/album/0ywsmAj4XOjXIP0OwJJJBj) | 5:01 |
 | 9 | [Culpable](https://open.spotify.com/track/0e2o9c76QyoqeQ1mEaVN4p) | [Rik](https://open.spotify.com/artist/3fx9NeQCytxm0fzefBOqlh), [Doris](https://open.spotify.com/artist/4H0ICfwyopdGJyBZkegvDU) | [No Stop](https://open.spotify.com/album/6cfd7u01OYTJEUc8L2wHEi) | 2:32 |
 | 10 | [Ya Ya](https://open.spotify.com/track/3F5xUtUiSC6W1CDIwC3jnc) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 2:40 |
 | 11 | [Tu Chacal](https://open.spotify.com/track/5IWsYLhoYS1kTaMh2bVnhz) | [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [Tu Chacal](https://open.spotify.com/album/54TJ2t2cbWixJjwffEK68w) | 2:51 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 14 | [Abracadabra](https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [Tu Puto Rock Star](https://open.spotify.com/album/2AsfhvrXVEVrJllqaIZHCd) | 3:30 |
 | 15 | [POSE](https://open.spotify.com/track/4qGgvcNoSLt3Q0ap5wWIuu) | [Tachi](https://open.spotify.com/artist/4rGGVLUW4jKwW7HVwTr40U), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr) | [POSE](https://open.spotify.com/album/2OJ7GXLxyKiUdMs4M5H1CA) | 3:15 |
 | 16 | [La Ruta](https://open.spotify.com/track/5h4mgbGijQ2CXMNuF4c4rW) | [Haquil](https://open.spotify.com/artist/3JptABIhEERG63NRckg6EG), [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d), [JEYSON](https://open.spotify.com/artist/0ghH5fsPlkf2XIALKJNSsb) | [La Ruta](https://open.spotify.com/album/1sTGqUxkt0vT7S3IN9cVbn) | 3:41 |
-| 17 | [IGNORANT SH!T \(Maleanteria\)](https://open.spotify.com/track/7MbIDgvG9lkKn1yJZBjUEd) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [IGNORANT SH!T \(Maleanteria\)](https://open.spotify.com/album/4zgU5GUocpTGIT6omIrpqU) | 2:46 |
+| 17 | [IGNORANT SH\*T \(Maleanteria\)](https://open.spotify.com/track/7MbIDgvG9lkKn1yJZBjUEd) | [Los Rakas](https://open.spotify.com/artist/513odGmQbPb6hVERfJGeF0), [Kenny Man](https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf) | [IGNORANT SH\*T \(Maleanteria\)](https://open.spotify.com/album/4zgU5GUocpTGIT6omIrpqU) | 2:46 |
 | 18 | [Carta a mi toxica](https://open.spotify.com/track/4WWFXMZhVHyzBEX5cqxrxb) | [Bin$ho](https://open.spotify.com/artist/0b0ghBgG9mQtHd9iWBKStQ) | [Carta a mi toxica](https://open.spotify.com/album/4Cd72hdpKGGzxVfiK4bXSM) | 2:56 |
 | 19 | [Antes Que Te Maten](https://open.spotify.com/track/2dRMBixGY6BMusFVOxOQZ4) | [Japanese](https://open.spotify.com/artist/0gMAKyA5gWUJiVU5S082KT) | [Primero las Timbers](https://open.spotify.com/album/1iqvJoMstBPfQr97W9uZmq) | 3:20 |
 | 20 | [Errores](https://open.spotify.com/track/03QMCESooLqQkjjbQBp1Fv) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ) | [Errores](https://open.spotify.com/album/1mzynOfZmXhXPiUqvjuReT) | 3:24 |

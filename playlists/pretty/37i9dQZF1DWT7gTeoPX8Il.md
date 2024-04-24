@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 
 > layan je
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,865 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,106 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 8 | [Karena Kamu](https://open.spotify.com/track/5UHnOvi0XFvwY8ege9DNdD) | [Geisha](https://open.spotify.com/artist/3txNoNUfBAHT1ZSGT2R30y) | [Meraih Bintang](https://open.spotify.com/album/4PO8qNb2v8Xef5ixuWZTRL) | 3:54 |
 | 9 | [Ku Ingin Pisah](https://open.spotify.com/track/1uy2DsaTtdBO9jBo7KBLWE) | [Nabila Taqiyyah](https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe) | [Ku Ingin Pisah](https://open.spotify.com/album/3ngxVN1TATHxEYzefJPTQO) | 3:55 |
 | 10 | [Runtuh](https://open.spotify.com/track/6Hii26x3qDErVitnGW8QtO) | [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Fiersa Besari](https://open.spotify.com/artist/06QVnTCdjs4jPKO0487EGV) | [Runtuh](https://open.spotify.com/album/5boeKAXsTkdFlm6OnkQxQW) | 3:43 |
-| 11 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 |
-| 12 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
+| 11 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
+| 12 | [Duka](https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC) | [Last Child](https://open.spotify.com/artist/1v1khTmozNfxB2ET1Ep288) | [Duka](https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q) | 5:25 |
 | 13 | [Bercinta Lewat Kata \- OST Jatuh Cinta Seperti di Film\-Film](https://open.spotify.com/track/7wlfGt5NkpPT6nRC6yCr7u) | [Donne Maula](https://open.spotify.com/artist/5DKFj8QL05LWzVG82W29CG) | [Bercinta Lewat Kata \(OST Jatuh Cinta Seperti di Film\-Film\)](https://open.spotify.com/album/2uqiUX7WQx2Yj4TcBy6UHd) | 2:49 |
 | 14 | [Nanti Kita Seperti Ini](https://open.spotify.com/track/2NjbJR8y083mOV59255QSe) | [Batas Senja](https://open.spotify.com/artist/4AhHkaGz7W2bKKJK90IaV2) | [Nanti Kita Seperti Ini](https://open.spotify.com/album/2UF7W9r1nqberWW2Bkx4ZT) | 3:29 |
 | 15 | [Sempurna](https://open.spotify.com/track/2UgCs0i0rNHUH2jKE5NZHE) | [Andra & The Backbone](https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU) | [Andra & The Backbone](https://open.spotify.com/album/2puZQ79KT5q5RPae7khveD) | 4:28 |
@@ -46,9 +46,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7gTeoPX8Il.md) - [plain]
 | 36 | [Kenangan Terindah](https://open.spotify.com/track/5TtmfZaNSYEcTR49cureT0) | [SAMSONS](https://open.spotify.com/artist/6HHje5tfmzWK8PsSaoJ9Xp) | [Naluri Lelaki \(Special Edition\)](https://open.spotify.com/album/7Ls7Id4vLjwONTyxywzrg7) | 4:07 |
 | 37 | [Tega](https://open.spotify.com/track/0aD0wrs2WlqnV3l7VXqlfM) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tega](https://open.spotify.com/album/6VbwcSfUBjsGTReD8wTh5Z) | 4:35 |
 | 38 | [Semua Aku Dirayakan](https://open.spotify.com/track/2x3vwXWuecPrRqgEUuSUJA) | [Nadin Amizah](https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn) | [Semua Aku Dirayakan](https://open.spotify.com/album/36D5g0IFrPL3Rdzj3vARGZ) | 5:10 |
-| 39 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 |
-| 40 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
-| 41 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |
+| 39 | [HAHAHA](https://open.spotify.com/track/0coPXOjcMS7mhizONlReis) | [Juicy Luicy](https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV) | [HAHAHA](https://open.spotify.com/album/32KsXDdSdv8lJFKwt1cSEI) | 3:13 |
+| 40 | [Pelangi](https://open.spotify.com/track/3ZwqWrRpylU9nfy99qwKdR) | [Hivi!](https://open.spotify.com/artist/4ubEZ6sMsrrbQChueyouCC) | [Kereta Kencan](https://open.spotify.com/album/4X40KZmA4LE4beNaNrQuNw) | 3:37 |
+| 41 | [Cukup](https://open.spotify.com/track/5zSJzkLYPRtqJvnnPuEc8V) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Cukup](https://open.spotify.com/album/794JGNtaDH2qLOmd72w4kr) | 3:40 |
 | 42 | [Aku Yang Tersakiti](https://open.spotify.com/track/5pzblRSSo6YWd2dQR3sp2m) | [Judika](https://open.spotify.com/artist/5fS7aONqrIhiw6YzgKVOsd) | [Setengah Mati Merindu](https://open.spotify.com/album/5rCDvtR73a8KsViwOZz2PF) | 4:02 |
 | 43 | [Denting](https://open.spotify.com/track/4i7xD6pmEaV25wL6K7Pjd0) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Denting](https://open.spotify.com/album/1nZGplPUPFeiAxhJnl0Ajx) | 3:09 |
 | 44 | [Mencintaimu](https://open.spotify.com/track/26aNjbOgTVrFZEx7was69A) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [Mencintaimu](https://open.spotify.com/album/6sGKwCYtM7MlRkVYFWbNQY) | 4:34 |

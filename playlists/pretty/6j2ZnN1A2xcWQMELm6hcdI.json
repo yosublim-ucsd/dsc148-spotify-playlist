@@ -1,12 +1,12 @@
 {
   "description": "The baddest and most influential women in music [Ex. <a href=\"https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m\">Beyonc\u00e9</a>] Cover: Lola Brooke",
-  "num_followers": 335100,
+  "num_followers": 334798,
   "original_name": "Influence \ud83d\udc85 Hot Girl Era 2024",
   "owner": {
     "name": "Filtr US",
     "url": "https://open.spotify.com/user/myplay.com"
   },
-  "snapshot_id": "MzY4MSwxMDRjOWU3YTYxZTU0ZGRkNmU4NjU0MGZmZTBkYzAwNmE3MmQ3MjBh",
+  "snapshot_id": "MzY4MixlYWJhMDA1MDdkNGVmMzI5NTIyNTg2YTBhMDMxMzYxZjdiODdjZTNi",
   "tracks": [
     {
       "added_at": "2024-04-19 13:24:33",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/7wLShogStyDeZvL0a6daN5"
     },
     {
+      "added_at": "2024-04-19 14:26:02",
+      "album": {
+        "name": "Daruma",
+        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "duration_ms": 178987,
+      "name": "Daruma",
+      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
+    },
+    {
       "added_at": "2024-03-22 14:21:58",
       "album": {
         "name": "TYLA",
@@ -107,22 +123,6 @@
       "duration_ms": 133333,
       "name": "Something To Listen To",
       "url": "https://open.spotify.com/track/5oHMni51hzOywNQFh7jmXn"
-    },
-    {
-      "added_at": "2024-04-19 14:26:02",
-      "album": {
-        "name": "Daruma",
-        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
-      },
-      "artists": [
-        {
-          "name": "DARUMAS",
-          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
-        }
-      ],
-      "duration_ms": 178987,
-      "name": "Daruma",
-      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
     },
     {
       "added_at": "2024-04-19 14:25:02",

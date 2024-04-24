@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Joyner Lucas
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,594,239 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,593,338 likes - 50 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 27 | [Three Little Pigs](https://open.spotify.com/track/6kcjECjGff27bbXZ4fILFa) | [Joyner Lucas](https://open.spotify.com/artist/6C1ohJrd5VydigQtaGy5Wa) | [Not Now I'm Busy](https://open.spotify.com/album/3nk0Fqc9VCCNbfMJcF8pM2) | 3:11 |
 | 28 | [Love Life](https://open.spotify.com/track/4NW3t9GA7CyBisyoROefUs) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:56 |
 | 29 | [PNW](https://open.spotify.com/track/1OdakIOGXoXMISY5TFYvMa) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX) | [PNW](https://open.spotify.com/album/4YdEQj0jlsKJTLH5R99igR) | 4:27 |
-| 30 | [Muggsy Bogues](https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muggsy Bogues](https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W) | 3:20 |
-| 31 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 |
+| 30 | [Mancala \(feat\. Vince Staples\)](https://open.spotify.com/track/3G2Xq0ZA5nra0iHMjbXOYD) | [Earl Sweatshirt](https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [VOIR DIRE](https://open.spotify.com/album/2jFEoWXPcVtO7MX0j12kZ6) | 2:41 |
+| 31 | [Muggsy Bogues](https://open.spotify.com/track/17VsGeETmPijC3sjZq1lwu) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb), [Method Man](https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt) | [Muggsy Bogues](https://open.spotify.com/album/476DYeSACCOnbGwVThJ82W) | 3:20 |
 | 32 | [MiNt cHoCoLaTe \(feat\. Conway the Machine\)](https://open.spotify.com/track/6Xa3ZCamaDFWBmxOFoR2n8) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW), [Conway the Machine](https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS) | [MiNt cHoCoLaTe \(feat\. Conway The Machine\)](https://open.spotify.com/album/0xz6nwwvcqjXlzXZunvMUA) | 3:33 |
 | 33 | [Never Die \(feat\. Lil Wayne\)](https://open.spotify.com/track/5uTQKPRk3rfOOt97WIHf8f) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Magic 3](https://open.spotify.com/album/1NLLTGSKTYOvlFKFtRXFGz) | 3:10 |
 | 34 | [Oprah & Gayle \(feat\. Benny The Butcher\)](https://open.spotify.com/track/0CFqRIdR0LbMGGHSjTaQYt) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 5:13 |

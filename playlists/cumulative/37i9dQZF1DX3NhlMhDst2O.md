@@ -4,7 +4,7 @@
 
 > Porque el romance nunca pasará de moda.
 
-143 songs - 7 hr 45 min
+144 songs - 7 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Busca Otro Amor](https://open.spotify.com/track/3L3O0ikCkltRMaJQGtPEGA) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 3:45 | 2023-11-06 | 2024-04-19 |
 | [Celos de ti](https://open.spotify.com/track/1DCZooIrBm0DCyrb5vbamm) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [Grandes Éxitos](https://open.spotify.com/album/6w5TPjUmZiim7lDFP9cdXF) | 4:14 | 2023-01-04 | 2023-09-20 |
 | [Celos De Ti](https://open.spotify.com/track/1DeMLkxCC8lAoOHzHnkPcv) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos Vol\. 2](https://open.spotify.com/album/7kvowluQkpvjIGpvOGPC9f) | 4:15 | 2023-01-04 | 2024-04-19 |
-| [Celos De Ti](https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos, Vol\. 2](https://open.spotify.com/album/21JpnaOhZSnwCmsPc2brqv) | 4:15 | 2023-11-06 |  |
+| [Celos De Ti](https://open.spotify.com/track/67pVsXRvhlBZP4sTAT65jF) | [La Migra](https://open.spotify.com/artist/3ClO4HFyTz0SfwVYBDsb76) | [15 Grandes Exitos, Vol\. 2](https://open.spotify.com/album/21JpnaOhZSnwCmsPc2brqv) | 4:15 | 2023-11-06 | 2024-04-24 |
 | [Como No Voy a Quererte](https://open.spotify.com/track/1fadIgrQWhRxFsIddVU40l) | [Los Prados](https://open.spotify.com/artist/619Ki7Z3lW1xCr24TzvsgK) | [Como No Voy a Quererte](https://open.spotify.com/album/2136DyGZn2DKRvYnhTghyb) | 3:05 | 2023-11-06 |  |
 | [Como sufro](https://open.spotify.com/track/6ZSHgXodh3huSt8f78zg1K) | [Los Baby's](https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9) | [Antología...Los Baby's](https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV) | 2:58 | 2023-01-04 |  |
 | [Como Te Extraño](https://open.spotify.com/track/0W4z5QkqwDWIAFMsZvTN5d) | [La Revolución De Emiliano Zapata](https://open.spotify.com/artist/2EoCwZo2xMt4mkFRwlgqb2) | [Éxitos Románticos \(De Colección\)](https://open.spotify.com/album/6h11WKrIIACDQSQKfGqKYL) | 3:04 | 2023-01-04 |  |
@@ -61,6 +61,7 @@
 | [Esclavo y Amo](https://open.spotify.com/track/0XphBzDRrUSuyB1QXwbBNZ) | [Los Originales Pasteles Verdes Del Peru](https://open.spotify.com/artist/1ej2UXtVvZ7D6qX8mUWMw1) | [25 Aniversario](https://open.spotify.com/album/7F0eY7TbrkgXUUxlcsjbUh) | 3:40 | 2023-01-04 | 2024-04-19 |
 | [Espejismo](https://open.spotify.com/track/0VmvHXrh43fkRYszGYYRck) | [Juanello](https://open.spotify.com/artist/5cNtT3ILdrynZyfVPk4XX6) | [Juanello](https://open.spotify.com/album/5we1e4gjzNfjhEI6eRZknj) | 3:06 | 2023-01-04 |  |
 | [Frío de Ausencia](https://open.spotify.com/track/4LvVnIfsV2A6pbc8HDgbkc) | [Los Chicanos](https://open.spotify.com/artist/4CtmyXgladHink6882NHrX) | [Éxitos..](https://open.spotify.com/album/1ukRNJ1deHMIlBkquZ71i4) | 3:53 | 2023-11-06 | 2024-04-19 |
+| [Fue en un Cafe](https://open.spotify.com/track/0kPv89kbdck3kuZnsJ4t32) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/5YIaqX4l18vFQ0fcYSq0kU) | 3:03 | 2023-11-06 |  |
 | [Fue en un Cafe](https://open.spotify.com/track/2HQTezBLYHy67n3JCMb49m) | [Los Apson Boys](https://open.spotify.com/artist/7yoZZmz8dp4y0o6LN37UWZ) | [Atras de la Raya](https://open.spotify.com/album/0Bt4hZC4r3muWncfT2lUG5) | 3:03 | 2023-01-04 | 2024-04-19 |
 | [Hay cosas inolvidables](https://open.spotify.com/track/5Hjuu63Z7WiQ6hUYx9nTXl) | [Los Solitarios](https://open.spotify.com/artist/5oXtNxxScsHb1cRjqqfcMj) | [Antología\. \. \. Los Solitarios](https://open.spotify.com/album/0yui0kzwnX3DgfpKKYIlrg) | 2:52 | 2023-01-04 | 2024-04-19 |
 | [Hipocresía](https://open.spotify.com/track/4chqVW5pZrwhhmM6wnTZG5) | [Los Originales Pasteles Verdes Del Peru](https://open.spotify.com/artist/1ej2UXtVvZ7D6qX8mUWMw1) | [25 Aniversario](https://open.spotify.com/album/7F0eY7TbrkgXUUxlcsjbUh) | 4:13 | 2023-01-04 | 2024-04-19 |

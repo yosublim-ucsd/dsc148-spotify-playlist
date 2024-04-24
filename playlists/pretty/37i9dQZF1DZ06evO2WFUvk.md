@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 
 ### [This Is Rodrigo Gonzalez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WFUvk)
 
-> This is Rodrigo Gonzalez\. The essential tracks, all in one playlist.
+> This is Rodrigo Gonzalez\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,242 likes - 30 songs - 2 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,244 likes - 30 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2WFUvk.md) - [plain]
 | 29 | [Get In \- Bass In A Box Remix](https://open.spotify.com/track/4K2nNErTVNliBxHld6yBJM) | [Mekane](https://open.spotify.com/artist/5D9jBfim9QHqi1yijIEDLx), [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Get In](https://open.spotify.com/album/6yhTxkPv6HT28HS4k1hXef) | 6:30 |
 | 30 | [Close The Door \- Original Mix](https://open.spotify.com/track/3MJRf5wkPowDhcpiYEqidr) | [Rodrigo Gonzalez](https://open.spotify.com/artist/511LiKYCkXD9SfHMQefuPM) | [Decibels Loudness And Perception](https://open.spotify.com/album/1KoSQBf2ODU0X0Udp5elrg) | 9:19 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGI0YmViZWU3YTM3MmQyMzA0M2FlZTE0M2FjYmZlZjY2`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDFmZTQ0MTIxNGU1NWYyYTJkYWMzNGJhZDllZWYzZGYz`

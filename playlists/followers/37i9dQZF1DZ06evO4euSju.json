@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 1183,
+  "2024-04-24": 1184,
   "date_first_scraped": "2022-09-17",
   "description": "This is Teenage Wrist. The essential tracks, all in one playlist.",
   "name": "This Is Teenage Wrist",
@@ -195,7 +195,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 191323,
       "name": "Dark Sky",
       "url": "https://open.spotify.com/track/5cNGzuptAf9M47qvH4F4zx"
@@ -235,6 +235,24 @@
       "duration_ms": 226886,
       "name": "Digital Self",
       "url": "https://open.spotify.com/track/1NGiJCk7ca274tEp0xiwmt"
+    },
+    {
+      "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/2Cpp5NKmwqriSjzgOuk16d"
+      },
+      "artists": [
+        {
+          "name": "Teenage Wrist",
+          "url": "https://open.spotify.com/artist/79HbBkVgOVUuVhuTJ50pIx"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234686,
+      "name": "Diorama",
+      "url": "https://open.spotify.com/track/2P4WDJAjCHHUULO7wnzzvC"
     },
     {
       "album": {

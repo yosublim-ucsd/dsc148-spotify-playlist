@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 
 > Listen the 00's best collection of K\-Pop dance\. \(Cover: 2NE1\) \(2000년대를 수 놓았던 케이팝 댄스곡들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,928 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,254 likes - 100 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 44 | [XOXO](https://open.spotify.com/track/3Fm1KdUH8FmJOdtFi8MBvx) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:06 |
 | 45 | [Hoot](https://open.spotify.com/track/1uLBl4JvBl7bwSRkxmggkS) | [Girls' Generation](https://open.spotify.com/artist/0Sadg1vgvaPqGTOjxu0N6c) | [Hoot \- The 3rd Mini Album](https://open.spotify.com/album/2qEugS42uGnquWJnufwjyg) | 3:19 |
 | 46 | [애인만들기](https://open.spotify.com/track/0S5b4F4ZT8EImBRIg9Mxjc) | [SS501](https://open.spotify.com/artist/6rmMpoeu2SIV4OLURCOn2e) | [꽃보다 남자 \(Original Television Soundtrack\) Pt\. 2](https://open.spotify.com/album/02ZevGxNYtV6KqhU942FMq) | 3:15 |
-| 47 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
+| 47 | [Mamacita \(아야야\)](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:27 |
 | 48 | [STEP](https://open.spotify.com/track/3YxK7NqMCWDpmrQ82Wvx25) | [KARA](https://open.spotify.com/artist/7aZ221EQfonNG2lO9Hh192) | [KARA 3rd Album STEP](https://open.spotify.com/album/3D9pw2IEWic2jPL7ER8sM9) | 3:23 |
-| 49 | [Mamacita \(아야야\)](https://open.spotify.com/track/23z7nLq4CD83EyzeeIokkt) | [SUPER JUNIOR](https://open.spotify.com/artist/6gzXCdfYfFe5XKhPKkYqxV) | [MAMACITA \- The 7th Album](https://open.spotify.com/album/53i190Z2uGOLljuS3DCvz2) | 3:27 |
+| 49 | [첫 사랑니 \(Rum Pum Pum Pum\)](https://open.spotify.com/track/22sIPXiQzcPydCC6skPPPq) | [f\(x\)](https://open.spotify.com/artist/3wRA5UYoo08BBKJnzyKkpF) | [Pink Tape \- The 2nd Album](https://open.spotify.com/album/62tuEHFtjk3L6Xjdkzyt4z) | 3:17 |
 | 50 | [I Like That](https://open.spotify.com/track/4wAjmojVxc6Wbeca9XvnDo) | [SISTAR](https://open.spotify.com/artist/2wTLheTmMcFCA4hdY8hZJP) | [INSANE LOVE](https://open.spotify.com/album/4Yz1WY6PlJepdbnl4m72b8) | 3:41 |
 | 51 | [History](https://open.spotify.com/track/3AmxvnqctdvnJnyNPaHTbv) | [EXO\-K](https://open.spotify.com/artist/6wPBIyIIMxoqgux29bGF8I) | [Mama \- The 1st Mini Album](https://open.spotify.com/album/6W3V8bPlayCUbCDRoIRWuc) | 3:29 |
 | 52 | [Lucky](https://open.spotify.com/track/546Y4NAdcGBeOpMWOvuJdw) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [The 1st Album 'XOXO' \(Repackage\)](https://open.spotify.com/album/4qduCvpyBL5hGYdBvCvcDA) | 3:23 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUoY6Ih7vsxr.md) - [plain]
 | 96 | [Mona Lisa](https://open.spotify.com/track/5FPaK0UNFA124uvUMJgIFE) | [MBLAQ](https://open.spotify.com/artist/14f1WN9TUDVBK4sHUStmLG) | [Mona Lisa](https://open.spotify.com/album/72wKfG02gkSv77CiPamZao) | 3:41 |
 | 97 | [Whatcha Doin' Today](https://open.spotify.com/track/4zPF7ERedaIZGDIxnE1KVH) | [4Minute](https://open.spotify.com/artist/6cdC1cwqh3eJAXaxXJt2jv) | [4minute WORLD](https://open.spotify.com/album/3uI4TkXyzJKZEWeKXbB9PG) | 3:26 |
 | 98 | [Hey You](https://open.spotify.com/track/2XXXPN8xMAR9kot7S0GLbE) | [CNBLUE](https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi) | [EAR FUN](https://open.spotify.com/album/1T6afD49NhOiQVSc4Srwtk) | 3:56 |
-| 99 | [Ring My Bell](https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:18 |
-| 100 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
+| 99 | [Atlantis Princess](https://open.spotify.com/track/7sQaZvlFFqlBsObK8A3y0S) | [BoA](https://open.spotify.com/artist/4muJrGMndyYWqZtfk8OWy4) | [Atlantis Princess \- The 3rd Album](https://open.spotify.com/album/3uDxYE7bWvaQH2oZpLzoRV) | 3:44 |
+| 100 | [Ring My Bell](https://open.spotify.com/track/19euxgpVaBlvBOIRTLsgJQ) | [Girl's Day](https://open.spotify.com/artist/13kJgvU22LHMsJtGWLmx7W) | [Girl's Day Love Second Album](https://open.spotify.com/album/6bf0r561nSUanYZ9ej56Me) | 3:18 |
 
 Snapshot ID: `MTcxMTU0OTQ4NywwMDAwMDAwMGE3YmIyYzAzZWUwOWM5NjE0NmNhZTQzYTJiNDFkZjdm`

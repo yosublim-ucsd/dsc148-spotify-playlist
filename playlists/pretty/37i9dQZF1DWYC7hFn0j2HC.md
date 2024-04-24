@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 
 > ¡Lo mejor de los charros cantores! Vicente Fernández en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,952 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,082 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYC7hFn0j2HC.md) - [plain]
 | 44 | [A Quién Vas a Amar Más Que a Mí](https://open.spotify.com/track/1IV8PlSxx5PUiaxKwVrlg9) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 2:47 |
 | 45 | [La Derrota](https://open.spotify.com/track/5kYjvOHOQtPoeKLHbN35rU) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Vicente Fernandez Para Siempre](https://open.spotify.com/album/3o98FgxhuEuR7PrLRIA203) | 3:16 |
 | 46 | [Lástima Que Seas Ajena](https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Lastima Que Seas Ajena](https://open.spotify.com/album/1C4HOslKRQixKHC1Qzf2OX) | 4:17 |
-| 47 | [Media Vuelta](https://open.spotify.com/track/0QvxVQaOUIMgqxyvk9GpFE) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La Malagradecida](https://open.spotify.com/album/47G10Sm0a5KsorzrGoeLWR) | 2:38 |
-| 48 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
+| 47 | [De un Rancho a Otro](https://open.spotify.com/track/2ffhBUWXoCpRFSzXkPbGEC) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [De Un Rancho A Otro](https://open.spotify.com/album/6MEQvpznWiaqUWsScLArVb) | 2:20 |
+| 48 | [Media Vuelta](https://open.spotify.com/track/0QvxVQaOUIMgqxyvk9GpFE) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [La Malagradecida](https://open.spotify.com/album/47G10Sm0a5KsorzrGoeLWR) | 2:38 |
 | 49 | [Un Mundo Raro](https://open.spotify.com/track/6l13zG1kziZAn5LnaIqFjv) | [José Alfredo Jimenez](https://open.spotify.com/artist/2T06whb4s6UiufL1j5Qtz9) | [Ella...La Que Se Fue](https://open.spotify.com/album/6nXy5pKpv1JY4WLqZczzcH) | 3:48 |
 | 50 | [La Ley del Monte](https://open.spotify.com/track/5DUU1yPitGPugNXB1YjNnu) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Hijo Del Pueblo](https://open.spotify.com/album/1TUMG8VFTVolUJLLdM2gQn) | 3:23 |
 | 51 | [Muy despacito](https://open.spotify.com/track/2kRPH2YipMzJd4BxCRuNYE) | [Pedro Infante](https://open.spotify.com/artist/7y33enVLfDvft6HGNmcxdV) | [60 Rancheras Inmortales](https://open.spotify.com/album/7r20ZE4dXhmE7Ldc9sGeok) | 2:33 |

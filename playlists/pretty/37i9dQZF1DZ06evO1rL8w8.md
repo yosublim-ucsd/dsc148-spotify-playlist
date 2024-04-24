@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 
 > This is El Komander\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,623 likes - 52 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,685 likes - 52 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1rL8w8.md) - [plain]
 | 48 | [Me Gustas Mucho \(En Vivo\)](https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Desde Zapopan \(En Vivo\)](https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon) | 3:49 |
 | 49 | [El cantador \- En vivo](https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El cantador \(En vivo\)](https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3) | 3:20 |
 | 50 | [Detras Del Miedo](https://open.spotify.com/track/13NdtUB6A6OAWFbV9PZUzm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Detras Del Miedo](https://open.spotify.com/album/6AIaxMBkR2dK1NzgZEgIc9) | 2:28 |
-| 51 | [No Soy De Modas](https://open.spotify.com/track/6zIuZ3d2omLHovvVAzoCKb) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Soy De Modas](https://open.spotify.com/album/2SdmqBcmimSz8LYusIYWzR) | 3:11 |
-| 52 | [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 |
+| 51 | [Estrategias De Escape](https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [Archivo Privado](https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG) | 2:27 |
+| 52 | [No Soy De Modas](https://open.spotify.com/track/6zIuZ3d2omLHovvVAzoCKb) | [La Ventaja](https://open.spotify.com/artist/6tmdudtl1wM5WwTIqZX0WD), [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [No Soy De Modas](https://open.spotify.com/album/2SdmqBcmimSz8LYusIYWzR) | 3:11 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDBmOGE5ODJmMDE4NGMxMDQzYTRiMWY2MGU4YWVkOTcy`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDVmOTc5ODhmODAyOGYyOTA4NjAwODEyZWRjMGVkNjg1`

@@ -1,6 +1,6 @@
 {
   "description": "Las m\u00e1s bichotas de la escena featuring Aura BAE.",
-  "num_followers": 34075,
+  "num_followers": 34091,
   "original_name": "EQUAL Urbano",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2024-03-07 19:42:39",
       "album": {
+        "name": "La Ducha",
+        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 209941,
+      "name": "La Ducha",
+      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
+    },
+    {
+      "added_at": "2024-03-07 19:42:39",
+      "album": {
         "name": "Aprovechame BB",
         "url": "https://open.spotify.com/album/3F5VD1oinu70b2B9WWQ4ZU"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 192705,
       "name": "Aprovechame BB",
       "url": "https://open.spotify.com/track/29VflI9cjsWbGfEkvu0Tyk"
-    },
-    {
-      "added_at": "2024-03-07 19:42:39",
-      "album": {
-        "name": "La Ducha",
-        "url": "https://open.spotify.com/album/3cRg2kyX1JIc1bCKnjbdnp"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 209941,
-      "name": "La Ducha",
-      "url": "https://open.spotify.com/track/6K8b79GjwyTgg0Juafi5v1"
     },
     {
       "added_at": "2024-03-07 19:42:39",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-03-07 19:42:39",
       "album": {
-        "name": "nunca es lo mismo y.y",
-        "url": "https://open.spotify.com/album/1VXkungPamxIJ0A8rcQMFV"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 194400,
-      "name": "nunca es lo mismo y.y",
-      "url": "https://open.spotify.com/track/1rA4phidcfjdWIN73fG75X"
-    },
-    {
-      "added_at": "2024-03-07 19:42:39",
-      "album": {
         "name": "ALGARETE",
         "url": "https://open.spotify.com/album/7leHFUki2RpwAxMJU6Du3n"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 208549,
       "name": "ALGARETE",
       "url": "https://open.spotify.com/track/2ec3eRB4zEYzuBl3cja0qA"
+    },
+    {
+      "added_at": "2024-03-07 19:42:39",
+      "album": {
+        "name": "nunca es lo mismo y.y",
+        "url": "https://open.spotify.com/album/1VXkungPamxIJ0A8rcQMFV"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 194400,
+      "name": "nunca es lo mismo y.y",
+      "url": "https://open.spotify.com/track/1rA4phidcfjdWIN73fG75X"
     },
     {
       "added_at": "2024-03-07 19:42:39",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-03-07 19:42:39",
       "album": {
-        "name": "001",
-        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
-      },
-      "artists": [
-        {
-          "name": "AKRIILA",
-          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "DESPERTAR",
-      "url": "https://open.spotify.com/track/3naWjm5xr47HBkQzx1JAAl"
-    },
-    {
-      "added_at": "2024-03-07 19:42:39",
-      "album": {
         "name": "besitos, cu\u00eddate",
         "url": "https://open.spotify.com/album/3kfb4ye7atyQ1mEoI5Lecu"
       },
@@ -1323,6 +1307,22 @@
       "duration_ms": 147370,
       "name": "Nena Trampa",
       "url": "https://open.spotify.com/track/2wjA6V7u0rLcFehcty11aN"
+    },
+    {
+      "added_at": "2024-03-07 19:42:39",
+      "album": {
+        "name": "001",
+        "url": "https://open.spotify.com/album/4hg1fV1YKWKPF3XUpO12z1"
+      },
+      "artists": [
+        {
+          "name": "AKRIILA",
+          "url": "https://open.spotify.com/artist/39hfuTf4PHfnHgIl0QBDGL"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "DESPERTAR",
+      "url": "https://open.spotify.com/track/3naWjm5xr47HBkQzx1JAAl"
     },
     {
       "added_at": "2024-03-07 19:42:39",

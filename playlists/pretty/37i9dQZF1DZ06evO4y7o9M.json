@@ -1,12 +1,12 @@
 {
-  "description": "This Is Junior H. Los temas esenciales, todos en una lista.",
-  "num_followers": 693679,
+  "description": "This is Junior H. The essential tracks, all in one playlist.",
+  "num_followers": 694771,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDNlMDkyMmIwZmRiYjEzMDFkMGUwNmE3NTc2ZjAzMWFi",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDkxYmM3NjlkN2Y0OGEyNjkwMzZlMjA4MTI0MzIyOTk5",
   "tracks": [
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 221813,
+      "name": "No Me Pesa",
+      "url": "https://open.spotify.com/track/4YU704KDCv4tyE6qQxliY3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PLAYA SATURNO",
         "url": "https://open.spotify.com/album/6E7Awtyx6opYTbPXx6ApzB"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 215172,
       "name": "PICARD\u00cdA",
       "url": "https://open.spotify.com/track/05OnZaYopHpb0z7ktT2FIF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cruisin' with Junior H",
-        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 221813,
-      "name": "No Me Pesa",
-      "url": "https://open.spotify.com/track/4YU704KDCv4tyE6qQxliY3"
     },
     {
       "added_at": null,

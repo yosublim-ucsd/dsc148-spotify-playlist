@@ -739,6 +739,24 @@
     },
     {
       "album": {
+        "name": "ROBERT",
+        "url": "https://open.spotify.com/album/4VTHhmhVaB2gpViAdHbKHg"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128920,
+      "name": "f",
+      "url": "https://open.spotify.com/track/02Nkt660XIvXwZQf9bkwh6"
+    },
+    {
+      "album": {
         "name": "XX",
         "url": "https://open.spotify.com/album/6aDVb2GbQbmztdcWlttJ34"
       },
@@ -1032,6 +1050,28 @@
       "duration_ms": 205474,
       "name": "han gang gang",
       "url": "https://open.spotify.com/track/3DYoqCSudlbumn6waFswIE"
+    },
+    {
+      "album": {
+        "name": "Sir.Robert",
+        "url": "https://open.spotify.com/album/528Gdwx8VgE1UucUW8OcuE"
+      },
+      "artists": [
+        {
+          "name": "BOBBY",
+          "url": "https://open.spotify.com/artist/7ieMQQDR0bdBPz572mtxwS"
+        },
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183866,
+      "name": "harmless (Feat. CHANMINA)",
+      "url": "https://open.spotify.com/track/7cvtsCXaLRyBmDgrtDCfxa"
     },
     {
       "album": {

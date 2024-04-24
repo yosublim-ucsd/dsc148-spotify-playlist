@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 
 > Aumente o volume e ouça as bandas que estão com tudo no rock! Foto: Twenty One Pilots
 
-[Spotify](https://open.spotify.com/user/spotify) - 666,434 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 665,426 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 31 | [Limbo](https://open.spotify.com/track/5nUrlBwZiaPcCKpBM7iT1W) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Limbo](https://open.spotify.com/album/0xzwaeIpyKeCIPKxSyhxNE) | 4:53 |
 | 32 | [The Falling Sky](https://open.spotify.com/track/22MaTYGutS36j4KOXfqvQn) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [The Falling Sky](https://open.spotify.com/album/3YCJJtpStsr9BbwmgF31qq) | 3:38 |
 | 33 | [BURIED ALIVE](https://open.spotify.com/track/6sSxm01OMK2yfX7bfTiFXl) | [Our Last Night](https://open.spotify.com/artist/00YTqRClk82aMchQQpYMd5) | [BURIED ALIVE](https://open.spotify.com/album/7jM3UEuq5ybIxtzliHZiKL) | 3:33 |
-| 34 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
-| 35 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 |
+| 34 | [Cut The Line](https://open.spotify.com/track/4NsPN2aQZCrgraYbKoMKsO) | [Papa Roach](https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X) | [Cut The Line](https://open.spotify.com/album/3rv2w5JJMNl3YCJXt5wPFw) | 3:29 |
+| 35 | [Still There](https://open.spotify.com/track/7uUCmwEwG2OAo1Q9rXis7E) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Still There](https://open.spotify.com/album/6hfCNvEvJYM2ZVsLp0KTfq) | 3:09 |
 | 36 | [Fade Away](https://open.spotify.com/track/3sOfcud8C4YSVOiCGWynYM) | [Axty](https://open.spotify.com/artist/4zVeGdifjxGkC3eCSmCo0H) | [Fade Away](https://open.spotify.com/album/2c3I2PZ07EIbtqlxUFTz0f) | 3:10 |
 | 37 | [Going Crazy](https://open.spotify.com/track/4roPy7UCHujegMBkutBawy) | [The Goo Goo Dolls](https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA) | [Chaos In Bloom](https://open.spotify.com/album/2uHbskNXxJFARyl686aN6T) | 3:58 |
 | 38 | [Bad Friend](https://open.spotify.com/track/304JMEIUEQw4t5MKsY0Ad6) | [Bad Wolves](https://open.spotify.com/artist/0eI3X5rAzHRZVe5FPk4MN1) | [Bad Friend](https://open.spotify.com/album/3cyXgBvwkhf1rIO5B23H8m) | 3:31 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 41 | [Enter Sandman](https://open.spotify.com/track/494G3Mjgv0bLEQ3DGzG9t4) | [Halocene](https://open.spotify.com/artist/1S4xN9nvW5vlFoRBisdxUL), [Lauren Babic](https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX), [Violet Orlandi](https://open.spotify.com/artist/3amoyQla9uUhiJhhMS7CLz) | [Enter Sandman](https://open.spotify.com/album/1DDaQfNe1xrphcpezscTf7) | 5:22 |
 | 42 | [Ready For Something](https://open.spotify.com/track/7jxszj5PkDm69WQGda2S21) | [The Amazons](https://open.spotify.com/artist/7243txmysJ4KbRmH8UAMKO) | [Ready For Something](https://open.spotify.com/album/0kybYEkeYAZJDCzxqmrtvE) | 3:57 |
 | 43 | [Unstoppable](https://open.spotify.com/track/0KgSpr6WwXmNIkgd0ud7yK) | [Skindred](https://open.spotify.com/artist/3jTlKw98Ql1jGRPYqhqHap) | [Unstoppable](https://open.spotify.com/album/2aK16HUleontSb3OXaRKVc) | 3:03 |
-| 44 | [Call Us by Her Name](https://open.spotify.com/track/3I6n7hgL6fwhsPleITTwGn) | [Ego Kill Talent](https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i) | [Call Us by Her Name](https://open.spotify.com/album/3OMKbvZnvcUqCjB31U7YzI) | 3:31 |
-| 45 | [Kingdom](https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Kingdom](https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB) | 4:32 |
+| 44 | [Kingdom](https://open.spotify.com/track/4UyoswHCt1WgJhPCrfX330) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1) | [Kingdom](https://open.spotify.com/album/2Chidgv4qlo6nTFczR85NB) | 4:32 |
+| 45 | [Call Us by Her Name](https://open.spotify.com/track/3I6n7hgL6fwhsPleITTwGn) | [Ego Kill Talent](https://open.spotify.com/artist/2FkHoIxJdhomebqlsXKZ3i) | [Call Us by Her Name](https://open.spotify.com/album/3OMKbvZnvcUqCjB31U7YzI) | 3:31 |
 | 46 | [Fortunate Son \- Nowhere Sessions](https://open.spotify.com/track/3cGCENd2skTiSOQjDNFpZo) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Nowhere Sessions](https://open.spotify.com/album/0kosDsw7YzVlvAeg2E7sbD) | 1:54 |
 | 47 | [Daddy's Coming Home](https://open.spotify.com/track/3hEPgYSujPEuatqzNybeAH) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq) | [Daddy's Coming Home](https://open.spotify.com/album/2Mfu4FHHdKiW6hBII5KtQ1) | 3:09 |
 | 48 | [Landslide](https://open.spotify.com/track/1zFTEPn42vvop4cKypq5Uh) | [Fuel](https://open.spotify.com/artist/0EyuKHE1AeE9lWUF8mzKVp) | [ÅNOMÅLY](https://open.spotify.com/album/0RqWsYCZW4WnA12fCE3rHv) | 2:58 |
@@ -68,15 +68,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4908CEYEdlz.md) - [plain]
 | 58 | [Dreadpool](https://open.spotify.com/track/3Xj5buo2mNxOyxPgT8Xkzy) | [Black Pantera](https://open.spotify.com/artist/2PftOgEPewb4XsaeE4567t) | [Dreadpool](https://open.spotify.com/album/3vF3bDExugJaSubn8KgPwQ) | 2:59 |
 | 59 | [Soul On Fire](https://open.spotify.com/track/2u89RsYYNCCXwNvHgTnzmf) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Lighting Up The Sky](https://open.spotify.com/album/5puvjdeWFxlB0P1222trxX) | 4:05 |
 | 60 | [Here And Now](https://open.spotify.com/track/1WI3vLQfstHF8q9CqJN3zY) | [Staind](https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb) | [Here And Now](https://open.spotify.com/album/3MsVFWup3Chu5w0aeAo0fq) | 3:57 |
-| 61 | [Slow Me](https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival](https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi) | 3:48 |
+| 61 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
 | 62 | [Crawl!](https://open.spotify.com/track/3wev7PYoYj9UZlMmlpda57) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C) | [CRAWLER](https://open.spotify.com/album/1WXcTQXt1jeF5VGUNAeySv) | 4:20 |
 | 63 | [Hourglass](https://open.spotify.com/track/1Pv2QqugNiCvldP9kAY352) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [Hotel Kalifornia](https://open.spotify.com/album/4LbLIANVeJ8JQ9i5V3c05s) | 2:43 |
-| 64 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
+| 64 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |
 | 65 | [Surrender](https://open.spotify.com/track/4tYDiMb5vYQ2YlhuS9I0Ig) | [Godsmack](https://open.spotify.com/artist/6gZq1Q6bdOxsUPUG1TaFbF) | [Surrender](https://open.spotify.com/album/72Vq7wgEn0Z55nOPfDoAgJ) | 3:40 |
 | 66 | [Talk Sick](https://open.spotify.com/track/01SBf2gcEx65tfMmuGdycy) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [Talk Sick](https://open.spotify.com/album/6sDeXuu7RK9p2JBC6Um7j5) | 4:34 |
-| 67 | [Foregone, Pt\. 2](https://open.spotify.com/track/3K7YN5yFIZFPTtSwXjpXHR) | [In Flames](https://open.spotify.com/artist/57ylwQTnFnIhJh4nu4rxCs) | [Foregone, Pt\. 2](https://open.spotify.com/album/6xQGhi9dsEWYn8Jwj4MD9S) | 4:30 |
+| 67 | [No More Tears To Cry](https://open.spotify.com/track/11beGBTthT9XhdQXYFkajZ) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [No More Tears To Cry](https://open.spotify.com/album/0aAcMNWv3LRwqpRa6rb7X0) | 3:41 |
 | 68 | [The Saints Of Violence And Innuendo](https://open.spotify.com/track/3qdTM1rNjRUvmbuF4d82Mv) | [Shinedown](https://open.spotify.com/artist/70BYFdaZbEKbeauJ670ysI) | [The Saints Of Violence And Innuendo](https://open.spotify.com/album/3WgIObFq2Z0z5ulE29sCw4) | 3:41 |
-| 69 | [More Than Machines](https://open.spotify.com/track/1y1l61KJCj8EDE35iS4ZgC) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [More Than Machines](https://open.spotify.com/album/3h4MWIFNt3pb3IHaifAW83) | 3:21 |
+| 69 | [Slow Me](https://open.spotify.com/track/5ZtIuVEKcvfjHeYgit0xDa) | [Bush](https://open.spotify.com/artist/78SHxLdtysAXgywQ4vE0Oa) | [The Art Of Survival](https://open.spotify.com/album/7lDTe11so67WdsLFd25dwi) | 3:48 |
 | 70 | [City Of The Dead](https://open.spotify.com/track/39sHS8PN9SDZSZ7w1wjRYb) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [City Of The Dead](https://open.spotify.com/album/36OypNDN6ZVkr5u08ZCmJG) | 2:53 |
 | 71 | [Fighting On \- 2021 \- Remaster](https://open.spotify.com/track/1oanSbsnFXySrSFgQznX1R) | [Sepultura](https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4) | [Dante XXI \(2021 \- Remaster\)](https://open.spotify.com/album/7ERVgqxIIkmy5CfPRlWrWi) | 4:29 |
 | 72 | [We Are The Rest](https://open.spotify.com/track/0VTGtiDMRwvzKngUwKoyc0) | [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [We Are The Rest](https://open.spotify.com/album/5apvStWagsi9GAVhALWeKE) | 3:02 |

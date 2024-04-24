@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 1327284,
+  "2024-04-24": 1327227,
   "date_first_scraped": "2019-07-30",
   "description": "Genre-less. Quality first always. Cover: UCHE YARA",
   "name": "POLLEN",
@@ -23647,6 +23647,24 @@
       "duration_ms": 210703,
       "name": "JOY (Where I Wanna Be)",
       "url": "https://open.spotify.com/track/7jcs7Uz8A4gclrMnnTatpk"
+    },
+    {
+      "album": {
+        "name": "joycelyn's dance",
+        "url": "https://open.spotify.com/album/1ZmhzQQWURtuF9K7yPcAoJ"
+      },
+      "artists": [
+        {
+          "name": "berlioz",
+          "url": "https://open.spotify.com/artist/3k3RY7kR8f0vp8Cq27P141"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198500,
+      "name": "joycelyn's dance",
+      "url": "https://open.spotify.com/track/6OI1stBQI4YHH2ceWVIrk4"
     },
     {
       "album": {

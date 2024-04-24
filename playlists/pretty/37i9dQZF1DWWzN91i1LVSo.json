@@ -1,6 +1,6 @@
 {
   "description": "a fresh & mellow mix from some of today's best singer-songwriters. Cover: Bre Kennedy",
-  "num_followers": 123992,
+  "num_followers": 123981,
   "original_name": "Chill Singer-Songwriter",
   "owner": {
     "name": "Spotify",
@@ -127,18 +127,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "James Bay Spotify Session 2015",
-        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
+        "name": "Waiting on a Song",
+        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
       },
       "artists": [
         {
-          "name": "James Bay",
-          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
+          "name": "Dan Auerbach",
+          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
         }
       ],
-      "duration_ms": 236786,
-      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
-      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
+      "duration_ms": 176026,
+      "name": "Never in My Wildest Dreams",
+      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -175,18 +175,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Waiting on a Song",
-        "url": "https://open.spotify.com/album/0OSYZ7EMRs14RPvwowd13F"
+        "name": "James Bay Spotify Session 2015",
+        "url": "https://open.spotify.com/album/2DSUg9hHXIb9KBvOWXQvNf"
       },
       "artists": [
         {
-          "name": "Dan Auerbach",
-          "url": "https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC"
+          "name": "James Bay",
+          "url": "https://open.spotify.com/artist/4EzkuveR9pLvDVFNx6foYD"
         }
       ],
-      "duration_ms": 176026,
-      "name": "Never in My Wildest Dreams",
-      "url": "https://open.spotify.com/track/3MJov5mT64K42o1Rffhblq"
+      "duration_ms": 236786,
+      "name": "If You Ever Wanna Be In Love - James Bay Spotify Session 2015",
+      "url": "https://open.spotify.com/track/359lSGQwvAM3aZA5UNwqiQ"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "The Village Sessions",
-        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
-      },
-      "artists": [
-        {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
-        }
-      ],
-      "duration_ms": 232706,
-      "name": "Slow Dancing in a Burning Room - Acoustic",
-      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Love Like That (Words from Her)",
         "url": "https://open.spotify.com/album/2cyVImStYiCtHmE3xdlWIy"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 174489,
       "name": "Love Like That (Words from Her)",
       "url": "https://open.spotify.com/track/1ALOR6EcFzN0AcIAzwWl2U"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "The Village Sessions",
+        "url": "https://open.spotify.com/album/6DcQ0gH9Hxp42PvNBoo5gX"
+      },
+      "artists": [
+        {
+          "name": "John Mayer",
+          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        }
+      ],
+      "duration_ms": 232706,
+      "name": "Slow Dancing in a Burning Room - Acoustic",
+      "url": "https://open.spotify.com/track/3PSMcb1gU5A8DveqU2K4z2"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -507,22 +507,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Learning",
-        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
-      },
-      "artists": [
-        {
-          "name": "Debbii Dawson",
-          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
-        }
-      ],
-      "duration_ms": 136250,
-      "name": "Eulogy For Nobody",
-      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "By the Way, I Forgive You",
         "url": "https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 241146,
       "name": "Every Time I Hear That Song",
       "url": "https://open.spotify.com/track/0hoRmVUp5cZ1empu0nSHU8"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Learning",
+        "url": "https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG"
+      },
+      "artists": [
+        {
+          "name": "Debbii Dawson",
+          "url": "https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh"
+        }
+      ],
+      "duration_ms": 136250,
+      "name": "Eulogy For Nobody",
+      "url": "https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -807,22 +807,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Music Box",
-        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
-      },
-      "artists": [
-        {
-          "name": "Leith Ross",
-          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
-        }
-      ],
-      "duration_ms": 265772,
-      "name": "Music Box",
-      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Save My Life (Radio Edit)",
         "url": "https://open.spotify.com/album/20BcK0UDu480rOworsrKLF"
       },
@@ -835,6 +819,22 @@
       "duration_ms": 217973,
       "name": "Save My Life - Radio Edit",
       "url": "https://open.spotify.com/track/2s5QYW4Ls3GsxWKhEKGraJ"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Music Box",
+        "url": "https://open.spotify.com/album/3l3xNSj9nQGYJ4ZPXBWVmf"
+      },
+      "artists": [
+        {
+          "name": "Leith Ross",
+          "url": "https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG"
+        }
+      ],
+      "duration_ms": 265772,
+      "name": "Music Box",
+      "url": "https://open.spotify.com/track/2h89x1ycsTH904Poc5COS4"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "freckles,",
-        "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
-      },
-      "artists": [
-        {
-          "name": "normal the kid",
-          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
-        }
-      ],
-      "duration_ms": 230615,
-      "name": "freckles,",
-      "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/7Gw4m9PhmzpBp3MjKa6V4d"
       },
@@ -959,18 +943,18 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Immune",
-        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+        "name": "freckles,",
+        "url": "https://open.spotify.com/album/5TKz75cyEBwz3CDaBbqwlJ"
       },
       "artists": [
         {
-          "name": "Jensen McRae",
-          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+          "name": "normal the kid",
+          "url": "https://open.spotify.com/artist/3qPVBAEhS0Rc09oB4O065V"
         }
       ],
-      "duration_ms": 210165,
-      "name": "Immune",
-      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
+      "duration_ms": 230615,
+      "name": "freckles,",
+      "url": "https://open.spotify.com/track/0uroC8QaqmOF1qRrJvMFM6"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1003,6 +987,22 @@
       "duration_ms": 196893,
       "name": "Just You and I - Acoustic",
       "url": "https://open.spotify.com/track/0lsbbaa7nj7LtUXVdk0BQe"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Immune",
+        "url": "https://open.spotify.com/album/1UQp3aKtwOaczyLpvf5NYn"
+      },
+      "artists": [
+        {
+          "name": "Jensen McRae",
+          "url": "https://open.spotify.com/artist/11dABkjSoOjcP9p3TFSNRj"
+        }
+      ],
+      "duration_ms": 210165,
+      "name": "Immune",
+      "url": "https://open.spotify.com/track/3b9xmyHRcolDEoaECLJ3OF"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Devil On My Shoulder",
-        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 212493,
-      "name": "Devil On My Shoulder",
-      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "The Sound Experiment - EP",
         "url": "https://open.spotify.com/album/2XtAaXbOyK67vRQbfS2bA4"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 194120,
       "name": "Only Wanna Be with You - Unplugged",
       "url": "https://open.spotify.com/track/6ppFSsCpKpOONCuw9hxM3p"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Devil On My Shoulder",
+        "url": "https://open.spotify.com/album/1ZSDwevftMUQ8SqGx6clvZ"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 212493,
+      "name": "Devil On My Shoulder",
+      "url": "https://open.spotify.com/track/1jLUaPGjk5zwV9kXUt4Jt1"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Fool For Waiting",
-        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
-      },
-      "artists": [
-        {
-          "name": "Dan Mangan",
-          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
-        }
-      ],
-      "duration_ms": 243200,
-      "name": "Fool For Waiting",
-      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "K.",
         "url": "https://open.spotify.com/album/5zm06yB6kALQUeaUxc8NCO"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 269000,
       "name": "K.",
       "url": "https://open.spotify.com/track/6vG1pcmNGdG6Vu62I9nLGL"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Fool For Waiting",
+        "url": "https://open.spotify.com/album/1PA2kEj3hK95dBfkzCPxdl"
+      },
+      "artists": [
+        {
+          "name": "Dan Mangan",
+          "url": "https://open.spotify.com/artist/5ByjU6oarxRC2Y85JpKx1n"
+        }
+      ],
+      "duration_ms": 243200,
+      "name": "Fool For Waiting",
+      "url": "https://open.spotify.com/track/2ISrBfPX4YBkwiMgvdbV4V"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Things I Chose To Remember",
-        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
-      },
-      "artists": [
-        {
-          "name": "Rhys Lewis",
-          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
-        }
-      ],
-      "duration_ms": 229773,
-      "name": "Better Than Today",
-      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "In Plain Sight",
         "url": "https://open.spotify.com/album/5ucZskRXstBtzif13kXYM0"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 156802,
       "name": "In Plain Sight",
       "url": "https://open.spotify.com/track/266v6l2hpwcRVrmMxNZkp4"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Things I Chose To Remember",
+        "url": "https://open.spotify.com/album/1bxlSBesh71i89ZitdykUX"
+      },
+      "artists": [
+        {
+          "name": "Rhys Lewis",
+          "url": "https://open.spotify.com/artist/4T2k9bgIoC8bbqjqiEl9vZ"
+        }
+      ],
+      "duration_ms": 229773,
+      "name": "Better Than Today",
+      "url": "https://open.spotify.com/track/1r7J0ELqOw62KVlgjrmKnw"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1447,6 +1447,22 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
+        "name": "Cobwebs",
+        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
+      },
+      "artists": [
+        {
+          "name": "David Keenan",
+          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
+        }
+      ],
+      "duration_ms": 250040,
+      "name": "The Friary",
+      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
         "name": "Funeral (feat. James Bay)",
         "url": "https://open.spotify.com/album/1slDM0u5okZsvKG4sdVbxr"
       },
@@ -1463,22 +1479,6 @@
       "duration_ms": 154013,
       "name": "Funeral (feat. James Bay)",
       "url": "https://open.spotify.com/track/22iSD46gegyVRBsNuqrVvx"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
-        "name": "Cobwebs",
-        "url": "https://open.spotify.com/album/1LcnviaqzuzuuHkDVnIMXa"
-      },
-      "artists": [
-        {
-          "name": "David Keenan",
-          "url": "https://open.spotify.com/artist/4RhFWLvAR5H5uXvjWVmxMG"
-        }
-      ],
-      "duration_ms": 250040,
-      "name": "The Friary",
-      "url": "https://open.spotify.com/track/4ma6fuBfPGNWbAev6w5GdV"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1515,22 +1515,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "You Look Like You Can't Swim",
-        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
-      },
-      "artists": [
-        {
-          "name": "Matilda Mann",
-          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
-        }
-      ],
-      "duration_ms": 168086,
-      "name": "You Look Like You Can't Swim",
-      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "I'm Different Now",
         "url": "https://open.spotify.com/album/6pwcK3JeJsT865X43eOFCW"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 192733,
       "name": "Hold Me Like A Fire",
       "url": "https://open.spotify.com/track/6Ps0fZMwBZQZdEtRUqAcSe"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "You Look Like You Can't Swim",
+        "url": "https://open.spotify.com/album/5p0Lg2f9QD83otSSTyX15n"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 168086,
+      "name": "You Look Like You Can't Swim",
+      "url": "https://open.spotify.com/track/1ahs8RtwmDz1NpAaQdss9r"
     },
     {
       "added_at": "2024-02-23 16:54:41",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2024-02-23 16:54:41",
       "album": {
-        "name": "Lay It on Me (Acoustic)",
-        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 201561,
-      "name": "Lay It on Me - Acoustic",
-      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
-    },
-    {
-      "added_at": "2024-02-23 16:54:41",
-      "album": {
         "name": "Halfway There",
         "url": "https://open.spotify.com/album/5QUryCIUy22JuF9uaTDkFI"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 194365,
       "name": "Halfway There",
       "url": "https://open.spotify.com/track/2DNtJvsZW8rM6PvR6pDx1s"
+    },
+    {
+      "added_at": "2024-02-23 16:54:41",
+      "album": {
+        "name": "Lay It on Me (Acoustic)",
+        "url": "https://open.spotify.com/album/7dtiKh6AIZDNNDduDZdoR7"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 201561,
+      "name": "Lay It on Me - Acoustic",
+      "url": "https://open.spotify.com/track/0ikmhbH2wPx0iFayhraSWp"
     },
     {
       "added_at": "2024-02-23 16:54:41",

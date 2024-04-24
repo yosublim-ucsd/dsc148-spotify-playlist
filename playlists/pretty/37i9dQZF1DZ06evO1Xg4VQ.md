@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 
 ### [This Is Lila Downs](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Xg4VQ)
 
-> This is Lila Downs。アーティストの代表曲をひとつのプレイリストに。
+> This Is Lila Downs\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,808 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,815 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Xg4VQ.md) - [plain]
 | 43 | [Perhaps, Perhaps, Perhaps](https://open.spotify.com/track/4WRdLh6kc09oE1wt28gepF) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Border](https://open.spotify.com/album/2kQyxjRV8lDYUILVpV6rxc) | 4:45 |
 | 44 | [Toda la Noche](https://open.spotify.com/track/75f2UFzDlMOG1MzmXAl2ka) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 2:44 |
 | 45 | [Son del Chile Frito](https://open.spotify.com/track/1uPt8iweNKc5c6IhGlpiqX) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Al Chile](https://open.spotify.com/album/4rHzFWlUjwjUqn3ucSJ2k9) | 3:35 |
-| 46 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
-| 47 | [La Primavera \(feat\. Lila Downs\) \- Directo Acústico](https://open.spotify.com/track/6wr3oc1d5vyzCkaxhoJCNb) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Esto Es Estopa \(Directo Acústico\)](https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr) | 3:21 |
+| 46 | [La Primavera \(feat\. Lila Downs\) \- Directo Acústico](https://open.spotify.com/track/6wr3oc1d5vyzCkaxhoJCNb) | [Estopa](https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Esto Es Estopa \(Directo Acústico\)](https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr) | 3:21 |
+| 47 | [En el último trago](https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [En El Último Trago](https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6) | 3:27 |
 | 48 | [Vas de Salida](https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [La Sánchez](https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf) | 3:02 |
-| 49 | [En el último trago](https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l) | [Andrés Calamaro](https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [En El Último Trago](https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6) | 3:27 |
+| 49 | [Dignificada](https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [One Blood \(Una Sangre\)](https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT) | 3:46 |
 | 50 | [Gracias a la Vida](https://open.spotify.com/track/4JM6RkLoNpC0H0eApxXzNX) | [Las Voces de Latinoamérica](https://open.spotify.com/artist/38p5B1KoPgdaegOGm1jEt0), [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP), [Teresa Parodi](https://open.spotify.com/artist/4D56DujhnBViJ4oYCSl1GK), [Susana Baca](https://open.spotify.com/artist/1DiaZsjdOzFCdk7Dw9KIs0), [Liliana Herrero](https://open.spotify.com/artist/6iqeypk1XRa2zQVRcIVmlF), [María Fernanda Rivera](https://open.spotify.com/artist/5R3cXcDrqWiBPRX9ouKmkz), [Pascuala Ilabaca](https://open.spotify.com/artist/34BMaYA9uw88I9Hyme5MDn), [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2), [Niyireth Alarcon](https://open.spotify.com/artist/79v7QMO04JLZs3ehbULM7K), [Margarita Laso](https://open.spotify.com/artist/1Ruw39HFexQEfPD75F3QHM), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY), [Pascuala Ilabaca y Fauna](https://open.spotify.com/artist/6nf17XGXCx2PSgkhPYjSIA) | [Gracias a la Vida](https://open.spotify.com/album/1jDYMiHXJ9GRXKbamkq5uE) | 4:36 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGIyZDY1MzJiZjg2MmEzMjNlYThhOTU3NTg1NjFhZTNk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDZlYmYzYzcyYjAwZTZjNmU2MTM0ZjRiNGVhZDkxM2Fi`

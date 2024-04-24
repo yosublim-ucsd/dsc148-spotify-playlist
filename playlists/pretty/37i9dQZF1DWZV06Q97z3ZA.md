@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain]
 
 > Love who you want\. It’s good foreign policy\. Listen to the music from and inspired by Red, White & Royal Blue, now streaming on Prime Video.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,220 likes - 24 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,225 likes - 24 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,6 +31,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZV06Q97z3ZA.md) - [plain]
 | 21 | [That Thing You Do \(Lhotse Remix\)](https://open.spotify.com/track/5BnXueFIAFvnrD26ZO6B90) | [Ellem](https://open.spotify.com/artist/0ehmsw6dIJWtA0Jw5wvAyD), [Lhotse](https://open.spotify.com/artist/5CFO1lbjoMQ8NqmjnKURx5) | [That Thing You Do \(Lhotse Remix\)](https://open.spotify.com/album/3e55gQAmsqXETQD7KE9X4d) | 5:00 |
 | 22 | [Duda Dance](https://open.spotify.com/track/76y1ht6e8MyL5yzOLEbSjS) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Duda Dance](https://open.spotify.com/album/4OEbI8hWfwvg9XTN88tFIF) | 2:37 |
 | 23 | [Color my life](https://open.spotify.com/track/7BejoLVTKcqTpVyrEedplW) | [Chicano Batman](https://open.spotify.com/artist/0LklyUMMUhpIjMgYHlV0hN) | [Invisible People](https://open.spotify.com/album/0LQ5gWM3pvpS2iUhppk57p) | 3:28 |
-| 24 | ["Was mir behagt, ist nur die muntre Jagd" Cantata, BWV 208 \- arr\. Mary Howe for two pianos: 9\. Schafe können sicher weiden](https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars) | [Bach](https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M) | 4:15 |
+| 24 | ["Was mir behagt, ist nur die muntre Jagd" Cantata, BWV 208: 9\. Schafe können sicher weiden \(Arr\. For Piano Four Hands by Mary Howe\)](https://open.spotify.com/track/4JWVkr5jUjylM3hMG5zvXw) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lucas Jussen](https://open.spotify.com/artist/37L0Uo5R9LbpeCQDtlAgtI), [Arthur Jussen](https://open.spotify.com/artist/6VLXCeUjBgCPBwa58xUars) | [Bach](https://open.spotify.com/album/5kKkGS4pzAehXKcvrZEF9M) | 4:15 |
 
 Snapshot ID: `MTY5MjAyMDA3OSwwMDAwMDAwMDFhYWNiNWJkZmE0MGEyNDQwYjBlYmQxMzhmOGZhYzAw`

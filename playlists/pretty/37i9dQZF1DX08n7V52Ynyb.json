@@ -1,6 +1,6 @@
 {
   "description": "Soft and smooth vocal Jazz to help you relax and unwind.",
-  "num_followers": 48557,
+  "num_followers": 48641,
   "original_name": "Relaxing Vocal Jazz",
   "owner": {
     "name": "Spotify",
@@ -507,18 +507,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "The Women Who Raised Me",
-        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
+        "name": "The Complete Ella And Louis On Verve",
+        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
       },
       "artists": [
         {
-          "name": "Kandace Springs",
-          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
+          "name": "Ella Fitzgerald",
+          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
+        },
+        {
+          "name": "Louis Armstrong",
+          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
         }
       ],
-      "duration_ms": 216274,
-      "name": "The Nearness Of You",
-      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
+      "duration_ms": 223000,
+      "name": "Moonlight In Vermont",
+      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -559,22 +563,18 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "The Complete Ella And Louis On Verve",
-        "url": "https://open.spotify.com/album/2uqlkJu6vckJahCsp6Hfcn"
+        "name": "The Women Who Raised Me",
+        "url": "https://open.spotify.com/album/2g6J9bq2p9cRxMoBEldSEF"
       },
       "artists": [
         {
-          "name": "Ella Fitzgerald",
-          "url": "https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz"
-        },
-        {
-          "name": "Louis Armstrong",
-          "url": "https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek"
+          "name": "Kandace Springs",
+          "url": "https://open.spotify.com/artist/19j0iFmJ5A6CMT0MVZZU4O"
         }
       ],
-      "duration_ms": 223000,
-      "name": "Moonlight In Vermont",
-      "url": "https://open.spotify.com/track/6zK83IKs3vP6Uxm2UpYYpo"
+      "duration_ms": 216274,
+      "name": "The Nearness Of You",
+      "url": "https://open.spotify.com/track/5aCK19OZrLt5chyuYDY7mq"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -683,6 +683,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "Alfie",
+        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
+      },
+      "artists": [
+        {
+          "name": "Ellas Kapell",
+          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
+        }
+      ],
+      "duration_ms": 334933,
+      "name": "Alfie",
+      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Live Sings Sassy",
         "url": "https://open.spotify.com/album/1iimKeyogFlVxDgnrpaKTr"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 376085,
       "name": "You Go to My Head",
       "url": "https://open.spotify.com/track/1xxxPMRx3geNxH5IzUGpbX"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
-        "name": "Alfie",
-        "url": "https://open.spotify.com/album/6QJsii8JfWE1bUHQnEd2jj"
-      },
-      "artists": [
-        {
-          "name": "Ellas Kapell",
-          "url": "https://open.spotify.com/artist/33PHFG2fpRWLLSr6Wg4Dxb"
-        }
-      ],
-      "duration_ms": 334933,
-      "name": "Alfie",
-      "url": "https://open.spotify.com/track/0HKf7o2cKrbsCUelKF8Cri"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "My Mood Is You",
-        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
-      },
-      "artists": [
-        {
-          "name": "Freddy Cole",
-          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
-        }
-      ],
-      "duration_ms": 345821,
-      "name": "My Mood Is You",
-      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "Songs to Comfort",
         "url": "https://open.spotify.com/album/10cKBHZzGy3ykvZVHngmy8"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 338186,
       "name": "Song to Comfort",
       "url": "https://open.spotify.com/track/2sJl5vXX9cVaDYZFfjPTLc"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
+        "name": "My Mood Is You",
+        "url": "https://open.spotify.com/album/6Eqi72QvWARDyhff3pQbqY"
+      },
+      "artists": [
+        {
+          "name": "Freddy Cole",
+          "url": "https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK"
+        }
+      ],
+      "duration_ms": 345821,
+      "name": "My Mood Is You",
+      "url": "https://open.spotify.com/track/17kume3IjetNXGJlsrs3HE"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "SEED",
+        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
+      },
+      "artists": [
+        {
+          "name": "Yotam Ishay",
+          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
+        }
+      ],
+      "duration_ms": 328176,
+      "name": "I Fall In Love Too Easily",
+      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Voces Veladas, Vol.2-Un Homenaje a Letristas e Int\u00e9rpretes de Jazz",
         "url": "https://open.spotify.com/album/68Zzm6yDNA2CUBGA5rsjbe"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 317800,
       "name": "I Walk A Little Faster",
       "url": "https://open.spotify.com/track/13IsFI2oDwC0CNR2hLAKeS"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
-        "name": "SEED",
-        "url": "https://open.spotify.com/album/1VHxkrq4ZeKF0JaeoGvNtg"
-      },
-      "artists": [
-        {
-          "name": "Yotam Ishay",
-          "url": "https://open.spotify.com/artist/3ABpfCZ60PQjECYhCuXRWs"
-        }
-      ],
-      "duration_ms": 328176,
-      "name": "I Fall In Love Too Easily",
-      "url": "https://open.spotify.com/track/5YLwLTd5iacl6v2wVZLDb8"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "Coming Forth by Day",
+        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
+      },
+      "artists": [
+        {
+          "name": "Cassandra Wilson",
+          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "The Way You Look Tonight",
+      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Staying in Touch",
         "url": "https://open.spotify.com/album/4Gl8Sg5Ik5MoNbaUo24fbL"
       },
@@ -1131,22 +1147,6 @@
       "duration_ms": 254066,
       "name": "The Long and Winding Road",
       "url": "https://open.spotify.com/track/7cqppiPKNniJMBfdNTvQOi"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
-        "name": "Coming Forth by Day",
-        "url": "https://open.spotify.com/album/3Remng6plhUxCGnBHbQsYU"
-      },
-      "artists": [
-        {
-          "name": "Cassandra Wilson",
-          "url": "https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "The Way You Look Tonight",
-      "url": "https://open.spotify.com/track/5C6D1r13OrEp1MpKVDUF8v"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "My Funny Valentine (For Oskar and Eli)",
-        "url": "https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH"
-      },
-      "artists": [
-        {
-          "name": "Amos Lee",
-          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
-        }
-      ],
-      "duration_ms": 127400,
-      "name": "My Funny Valentine (For Oskar and Eli)",
-      "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "Here You Come Again",
         "url": "https://open.spotify.com/album/5I8ibWprKS3IJA41m1HSS9"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 309810,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/1Op7axBAcQMIBAQrP3welR"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
+        "name": "My Funny Valentine (For Oskar and Eli)",
+        "url": "https://open.spotify.com/album/1gWuzvRkirEnoeRkqLPPlH"
+      },
+      "artists": [
+        {
+          "name": "Amos Lee",
+          "url": "https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2"
+        }
+      ],
+      "duration_ms": 127400,
+      "name": "My Funny Valentine (For Oskar and Eli)",
+      "url": "https://open.spotify.com/track/4EzDKhYBnbDvbDGqJxK1HZ"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
-        "name": "Hands Off",
-        "url": "https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy"
-      },
-      "artists": [
-        {
-          "name": "Viktoria Tolstoy",
-          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
-        }
-      ],
-      "duration_ms": 263600,
-      "name": "Hands Off",
-      "url": "https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
         "name": "This Bitter Earth",
         "url": "https://open.spotify.com/album/46Kn3u0Fzlvo1Zmba26EB7"
       },
@@ -1607,6 +1591,22 @@
       "duration_ms": 281480,
       "name": "By The Time I Get To Phoenix",
       "url": "https://open.spotify.com/track/5gOZnszNJ6dwPxkqsFrQoS"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
+        "name": "Hands Off",
+        "url": "https://open.spotify.com/album/7fRrrDob3OiR8Q8O4IFpFy"
+      },
+      "artists": [
+        {
+          "name": "Viktoria Tolstoy",
+          "url": "https://open.spotify.com/artist/7blyuo5sQPRB2tmtUf2SpZ"
+        }
+      ],
+      "duration_ms": 263600,
+      "name": "Hands Off",
+      "url": "https://open.spotify.com/track/2qu8K7kFsLe19yUCVcWfna"
     },
     {
       "added_at": "2024-03-20 13:56:44",
@@ -1727,6 +1727,22 @@
     {
       "added_at": "2024-03-20 13:56:44",
       "album": {
+        "name": "Willow Weep For Me",
+        "url": "https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x"
+      },
+      "artists": [
+        {
+          "name": "Olivia Van Goor",
+          "url": "https://open.spotify.com/artist/2FWAbctEyBW7vxsl2UMvpy"
+        }
+      ],
+      "duration_ms": 283377,
+      "name": "Willow Weep For Me",
+      "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
+    },
+    {
+      "added_at": "2024-03-20 13:56:44",
+      "album": {
         "name": "Musa",
         "url": "https://open.spotify.com/album/5jeSkpB4Ntk9q3mt6eNCY0"
       },
@@ -1755,22 +1771,6 @@
       "duration_ms": 181923,
       "name": "The Sweetest Sounds",
       "url": "https://open.spotify.com/track/6RU16zKipfEnU5qENAxvBK"
-    },
-    {
-      "added_at": "2024-03-20 13:56:44",
-      "album": {
-        "name": "Willow Weep For Me",
-        "url": "https://open.spotify.com/album/46rIGsBH4cGh39xDCSD13x"
-      },
-      "artists": [
-        {
-          "name": "Olivia Van Goor",
-          "url": "https://open.spotify.com/artist/2FWAbctEyBW7vxsl2UMvpy"
-        }
-      ],
-      "duration_ms": 283377,
-      "name": "Willow Weep For Me",
-      "url": "https://open.spotify.com/track/4VO3tcKdrr7xiyu7bGZGyo"
     },
     {
       "added_at": "2024-03-20 13:56:44",

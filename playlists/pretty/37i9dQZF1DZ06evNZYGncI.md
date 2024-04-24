@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 
 > This is Slipknot\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 941,400 likes - 45 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 941,734 likes - 45 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZYGncI.md) - [plain]
 | 44 | [Warranty](https://open.spotify.com/track/6AUfiRcpnffzH1KhI121f1) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 3:51 |
 | 45 | [Adderall](https://open.spotify.com/track/1PcANFoqnDsexSHXpWrn8Q) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 5:40 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDAzNjE4ZDQzMWFmMmI5ZTQxMWVkYjQyZmI5NThiMjNi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDAzNjg1YmM1NTQ5YWQxYjQ5MTgzYjRlZmE1YzhiZGE1`

@@ -1,12 +1,12 @@
 {
   "description": "This is Zudizilla. The essential tracks, all in one playlist.",
-  "num_followers": 767,
+  "num_followers": 768,
   "original_name": "This Is Zudizilla",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDcyYmM4ZWU0YjY5ZjIyOTBhYmEzYjBkNDk4ZWIzMDVi",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGM0ZDNiYTc3NTljOTdhMWYwMzQzYzkzNTc1YTg3OTYz",
   "tracks": [
     {
       "added_at": null,
@@ -855,34 +855,6 @@
       "duration_ms": 263360,
       "name": "Sem Distra\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/7vJK71XqozpRpH0tAqqQrd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hip Hop Machine Temporada 2",
-        "url": "https://open.spotify.com/album/5H5GGraw2Bn43x6KvaOVRI"
-      },
-      "artists": [
-        {
-          "name": "Leo Gandelman",
-          "url": "https://open.spotify.com/artist/7q1dPac1mIOp9NZX12ApbW"
-        },
-        {
-          "name": "Machine Series",
-          "url": "https://open.spotify.com/artist/1xu1L93nrtesFrEuWRTqJG"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Zudizilla",
-          "url": "https://open.spotify.com/artist/3QyfatVntfbVCZDKYFyim6"
-        }
-      ],
-      "duration_ms": 348314,
-      "name": "Raio De Sol",
-      "url": "https://open.spotify.com/track/1A60gepW790C5S9JKATGQB"
     }
   ],
   "unique_name": "This Is Zudizilla",

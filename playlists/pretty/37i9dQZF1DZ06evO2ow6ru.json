@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 170920,
+  "num_followers": 170912,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGY3YTBlMjZlNzEzMTI3N2FlZThjZWU1ZTE0MGFjMDI4",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDU4MDExODgwMzgwMTA5MTlhZWZiNTE1MWRkYWJlZGZj",
   "tracks": [
     {
       "added_at": null,
@@ -90,11 +90,15 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 187344,
-      "name": "Sleepwalking",
-      "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
+      "duration_ms": 184054,
+      "name": "New Religion (feat. Teddy Swims)",
+      "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
     },
     {
       "added_at": null,
@@ -154,15 +158,11 @@
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 184054,
-      "name": "New Religion (feat. Teddy Swims)",
-      "url": "https://open.spotify.com/track/5Vwaft3Bs1oqSPZrviuXnD"
+      "duration_ms": 187344,
+      "name": "Sleepwalking",
+      "url": "https://open.spotify.com/track/06v0btRazrSHDX4s1mXSex"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+        "name": "Blinding Lights",
+        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 209933,
-      "name": "Time-Bomb",
-      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
+      "duration_ms": 193151,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
     },
     {
       "added_at": null,
@@ -667,8 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blinding Lights",
-        "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 193151,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
+      "duration_ms": 209933,
+      "name": "Time-Bomb",
+      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
     },
     {
       "added_at": null,

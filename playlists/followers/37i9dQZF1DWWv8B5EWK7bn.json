@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 181166,
+  "2024-04-24": 181290,
   "date_first_scraped": "2022-05-11",
   "description": "Oblique: Angular. Asymmetrical. Experimental.",
   "name": "Oblique",
@@ -2229,6 +2229,32 @@
       "duration_ms": 215583,
       "name": "Garter Snake",
       "url": "https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph"
+    },
+    {
+      "album": {
+        "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+        "url": "https://open.spotify.com/album/2ndDnbSBOwQWuQcn8d2Ixm"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "NATURE",
+          "url": "https://open.spotify.com/artist/1clB4n7uMUiSx5ZZ0FQoM1"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257273,
+      "name": "Get Real - Sounds Right Mix (feat. NATURE)",
+      "url": "https://open.spotify.com/track/0WzoCNIiEUEHi4IfVifu1Y"
     },
     {
       "album": {
@@ -7125,7 +7151,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 403653,
       "name": "Void",
       "url": "https://open.spotify.com/track/4FyZknHKfTxbVnsvnt8BEk"

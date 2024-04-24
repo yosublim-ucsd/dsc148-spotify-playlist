@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 5 hr 53 min
+113 songs - 5 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Selling Me Love](https://open.spotify.com/track/1V1ufE4DPOcPgv7HHHiCOj) | [Flynn](https://open.spotify.com/artist/4yxeyorUKkW9fOOBeguEC9) | [One Of Us \- EP](https://open.spotify.com/album/4ndZBPZvC36mvk7aGUlxKS) | 2:40 | 2022-05-25 |  |
 | [SHADOW](https://open.spotify.com/track/0Wv6HtcBNex6lwPugykWCd) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [MORE & MORE](https://open.spotify.com/album/1bUx6TFAyzCdZY9ugEXxRh) | 2:48 | 2022-05-25 |  |
 | [Snake Dance](https://open.spotify.com/track/1Vdz8Ye8jfw6Hb1n9fGRQD) | [Forever Kids](https://open.spotify.com/artist/2J2Z7pqlBnq0B2BDDpje6u), [SICKOTOY](https://open.spotify.com/artist/4oE7f7lNFkh0EbEZWEawBF) | [Snake Dance](https://open.spotify.com/album/6lbGCSWEy4fuUxsPkTG1EF) | 2:39 | 2022-05-25 |  |
+| [Start of Something](https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48) | [Rachael O'Connor](https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO) | [Start of Something](https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX) | 2:47 | 2024-04-23 |  |
 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 | 2022-10-19 |  |
 | [State of Love](https://open.spotify.com/track/65FYT2bXZO3ORrQHPjzORZ) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/6NW8p8IBDzSJzQdcoiH5T6) | [State of Love](https://open.spotify.com/album/6U0tCHP4Mfe9a3HTXz3IPA) | 3:23 | 2022-05-25 | 2022-10-20 |
 | [Stay \- Piano ver.](https://open.spotify.com/track/1yT4l2NRZubuYRYT1lVD9a) | [Mizki](https://open.spotify.com/artist/5zJpeKLSuVa7kulMcgRGcE) | [Stay \(Piano ver.\)](https://open.spotify.com/album/4u9KIaeMZgkgi9LZSqVaVD) | 3:20 | 2022-05-25 |  |

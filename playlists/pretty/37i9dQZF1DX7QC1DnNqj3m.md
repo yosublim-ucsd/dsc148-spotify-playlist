@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 
 > Bask in the sound of soul, old and new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 527,626 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 527,506 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,9 +16,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 6 | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/track/6jmc9xnc6QdM5x2Uj04T6m) | [IAMDDB](https://open.spotify.com/artist/7za6M9P94wuMsOVCHopTsI), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [RASTA PASTA \(ft\. Masego\)](https://open.spotify.com/album/1LQhqs9bkQg2USpCzfnBZm) | 4:10 |
 | 7 | [Lovely Day](https://open.spotify.com/track/0bRXwKfigvpKZUurwqAlEh) | [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Menagerie](https://open.spotify.com/album/3QjPTUI6UcPr5m9RujkO3c) | 4:14 |
 | 8 | [Static](https://open.spotify.com/track/4OmfWzukSVD140NiAIEjem) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 2:36 |
-| 9 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
+| 9 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
 | 10 | [Illusions](https://open.spotify.com/track/0FdvQVBKMN5Vc2SiN7bU0Z) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Illusions](https://open.spotify.com/album/7G5uHjRAwBYcot5JH79iNz) | 3:36 |
-| 11 | [Let's Stay Together](https://open.spotify.com/track/63xdwScd1Ai1GigAwQxE8y) | [Al Green](https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93) | [Let's Stay Together](https://open.spotify.com/album/58eMx3QrTkiRmGGbSz2XL0) | 3:19 |
+| 11 | [At Last](https://open.spotify.com/track/4Hhv2vrOTy89HFRcjU3QOx) | [Etta James](https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb) | [At Last!](https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt) | 2:59 |
 | 12 | [I Try](https://open.spotify.com/track/5TAf4lnZCZTLlZHNZMLFLi) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa) | [On How Life Is](https://open.spotify.com/album/50DkoLL4ArRVXhWx9ssQSe) | 3:59 |
 | 13 | [Karma](https://open.spotify.com/track/2Fyjjpg03fn7n5cj0Qm380) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:08 |
 | 14 | [Praise Jah In The Moonlight](https://open.spotify.com/track/3h5TiWTqGxjSjFrbruPFH9) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [Praise Jah In The Moonlight](https://open.spotify.com/album/3BicSFhksEP3QHanmBM1Wd) | 4:23 |
@@ -52,10 +52,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QC1DnNqj3m.md) - [plain]
 | 42 | [Why iii Love The Moon.](https://open.spotify.com/track/2x5Frs6ts14U4MSLrQQlXg) | [Phony Ppl](https://open.spotify.com/artist/0oBsnAC3fzYkTHF3bkfNx6) | [Yesterday's Tomorrow](https://open.spotify.com/album/6IGDCUkBJ3LEUoAcoTD46u) | 5:31 |
 | 43 | [Love Is A Losing Game](https://open.spotify.com/track/570ZDO2Lmh6NQChOU5xPUL) | [Amy Winehouse](https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR) | [Back To Black](https://open.spotify.com/album/097eYvf9NKjFnv4xA9s2oV) | 2:34 |
 | 44 | [I Get The Sweetest Feeling](https://open.spotify.com/track/7F1eoVZd2ySSJ70iP3PN1m) | [Jackie Wilson](https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju) | [I Get The Sweetest Feeling](https://open.spotify.com/album/35PUYxZnmBjyVSbw5ictX6) | 2:58 |
-| 45 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
-| 46 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
-| 47 | [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 |
-| 48 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
+| 45 | [Morning Matters](https://open.spotify.com/track/1EeS8SQ0BAhNrLVLCNrxrj) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Morning Matters](https://open.spotify.com/album/3VEmUbg3oFmZ2Bfn7b5bit) | 4:06 |
+| 46 | [sobeautiful](https://open.spotify.com/track/2PN3gbuBn5WBEwrEJH3xiu) | [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [onmyradio](https://open.spotify.com/album/50kPvqerqvDdl0JoWNMukp) | 4:51 |
+| 47 | [There Will Be No Crying](https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gold](https://open.spotify.com/album/67DWn1tZ245gendegv7Ioz) | 3:49 |
+| 48 | [ICU \(with Justin Timberlake\) \- Remix](https://open.spotify.com/track/1xs5R1koW93bXtXD2s59nR) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [ICU \(with Justin Timberlake\) \[Remix\]](https://open.spotify.com/album/2WknTzc9xga0IgeYMY3pZ7) | 3:38 |
 | 49 | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/track/4ehkZtzPTbjsRULRfQSWYu) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x), [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Inside Friend \(feat\. John Mayer\)](https://open.spotify.com/album/2zYmSJZxBTCvDYBAEcixyV) | 2:55 |
 | 50 | [Rain](https://open.spotify.com/track/3VHF4e5x49Mcpom7zPE2A9) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Run Home Slow](https://open.spotify.com/album/2VXeD0hKkY9i8TyGb0chVi) | 4:14 |
 | 51 | [It's A Shame \- Remastered](https://open.spotify.com/track/5LuVBkfELaydohNZahwvNN) | [The Spinners](https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5) | [Definitive Soul: Spinners](https://open.spotify.com/album/4Njh8ZQ1VG46bOo8YBF2L9) | 3:12 |

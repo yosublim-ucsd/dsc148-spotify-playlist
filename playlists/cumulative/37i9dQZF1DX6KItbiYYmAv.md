@@ -4,7 +4,7 @@
 
 > Hol dir dein Lieblingscafé nach Hause.
 
-316 songs - 20 hr 15 min
+317 songs - 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,6 +236,7 @@
 | [Sense of Home](https://open.spotify.com/track/6oImxt6z8HDS56epRgOi0I) | [Harrison Storm](https://open.spotify.com/artist/5Ld19xtpAR80G2boTcHaVx) | [Sense of Home](https://open.spotify.com/album/1MggtpuaGB0IPfFUYaY40U) | 4:25 | 2022-08-18 | 2024-04-19 |
 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 | 2022-08-18 | 2022-12-13 |
 | [Should Have Known Better](https://open.spotify.com/track/3AyuigFWbuirWHvidbMz8O) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Carrie & Lowell](https://open.spotify.com/album/64xtjfsPHNHch0CZ7fPTjS) | 5:07 | 2022-08-18 | 2024-04-19 |
+| [Silence](https://open.spotify.com/track/5DfBII8BTQtF9WdFk95ja4) | [Emmy Meli](https://open.spotify.com/artist/71szvmFWd7TUa7b6XmXj9k) | [Silence](https://open.spotify.com/album/6q4cHdQkVJe4MRuOPHrwdx) | 2:15 | 2024-04-24 |  |
 | [Simple Song](https://open.spotify.com/track/1Ne8Bps9vPxCmmSetoJSBd) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Simple Song](https://open.spotify.com/album/7cIbon1lg6X8cb2dQnNj2u) | 3:48 | 2022-08-18 |  |
 | [Sink](https://open.spotify.com/track/3lTxG17fsMrjrNkTNJ9NaZ) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Busyhead](https://open.spotify.com/album/3DNQrMjvVGiueVrj1qquJd) | 3:45 | 2022-08-18 | 2024-04-19 |
 | [Sinking Ship](https://open.spotify.com/track/3pC8tUjIZPORslYYmJbJcz) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Sinking Ship / Back & Forth](https://open.spotify.com/album/0zMY9ikg9RB64fPHXKAmYt) | 4:07 | 2022-08-18 |  |
@@ -250,7 +251,7 @@
 | [Sophie](https://open.spotify.com/track/5Ics32fcXJuInGCu9DPpqg) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Without/Within](https://open.spotify.com/album/0yvBc7miQsWYDcV4A8gjEv) | 5:04 | 2022-08-18 | 2024-04-19 |
 | [Souvenir](https://open.spotify.com/track/21JL0gpeAYgbSUmzhgSPJz) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw), [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG), [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [boygenius](https://open.spotify.com/album/6RjlLIuDFC8Dw91yRAdPz9) | 3:32 | 2022-08-18 | 2024-04-19 |
 | [Standing in the Rain](https://open.spotify.com/track/5S4pAZfIugwULt49eneojF) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Train Ride Home](https://open.spotify.com/album/4amdDYo23aSOrv7hSZrCMT) | 3:41 | 2022-08-18 | 2023-05-28 |
-| [Starbuck](https://open.spotify.com/track/5UKwcsu3N0XE4pYlbqywUc) | [Petula](https://open.spotify.com/artist/1MrClFtBKno2QUEerDxm4J) | [Starbuck](https://open.spotify.com/album/1g7udubqWRyGQpsd01TArC) | 2:14 | 2024-03-15 |  |
+| [Starbuck](https://open.spotify.com/track/5UKwcsu3N0XE4pYlbqywUc) | [Petula](https://open.spotify.com/artist/1MrClFtBKno2QUEerDxm4J) | [Starbuck](https://open.spotify.com/album/1g7udubqWRyGQpsd01TArC) | 2:14 | 2024-03-15 | 2024-04-24 |
 | [Staring At The Sun](https://open.spotify.com/track/1auVS5mEgwN52E8VCNqOMc) | [Pat Burgener](https://open.spotify.com/artist/7wDjdS9h3CXK18Y1H1hO5I) | [Staring At The Sun](https://open.spotify.com/album/01fn47uEgW2WVIdiGEutnV) | 3:43 | 2024-03-15 |  |
 | [Stay Alive](https://open.spotify.com/track/1STWuVv5dKJABRJROltWFr) | [Roo Panes](https://open.spotify.com/artist/0XHM5ZNJDU8e4CfbWMeSzC), [Mahogany](https://open.spotify.com/artist/4Kp21tQEUB0PHgNV3B86ah) | [Stay Alive](https://open.spotify.com/album/6i7Blm3uQosKZSQo57ewqL) | 3:53 | 2022-08-18 | 2022-11-13 |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-08-18 | 2024-04-19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 
 > Nothing but beautiful country love songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,707,698 likes - 85 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,707,070 likes - 85 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 21 | [Better Together](https://open.spotify.com/track/6gdLyYNuhWBzqwlOFSsXC7) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Is What You Get](https://open.spotify.com/album/0S9D5NIDp2YXhYwlvuJzqx) | 3:39 |
 | 22 | [Islands in the Stream](https://open.spotify.com/track/4mnOVRRXsaqg9Nb041xR8u) | [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU), [Kenny Rogers](https://open.spotify.com/artist/4tw2Lmn9tTPUv7Gy7mVPI4) | [Dolly](https://open.spotify.com/album/3QmIn4Ilj5fV1eRbYzt21P) | 4:09 |
 | 23 | [never til now](https://open.spotify.com/track/4232gJU5ljjFmKaPh0cKds) | [Ashley Cooke](https://open.spotify.com/artist/2qwXeRk8VBAegbUnf3xdyi), [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Already Drank That Beer](https://open.spotify.com/album/38kLDWmm1uaKAtvYTT3ZAI) | 2:53 |
-| 24 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
-| 25 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
+| 24 | [Rumor](https://open.spotify.com/track/56eGOeSsqdg3FLxdo83TwV) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Lee Brice](https://open.spotify.com/album/3GyH4lUfzEkbxlaW5xTYYL) | 3:18 |
+| 25 | [Would You Go With Me](https://open.spotify.com/track/1KhrAWvLIjRlQIJtSTgvsi) | [Josh Turner](https://open.spotify.com/artist/7vCtweS8UVAXTyau2j0rDT) | [Your Man](https://open.spotify.com/album/5NATaOfEAcyQFATqWZRKLO) | 3:48 |
 | 26 | [She's In Love With The Boy \- Single Version](https://open.spotify.com/track/2ulBBx6YQ3qY3ci34RadtN) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Trisha Yearwood](https://open.spotify.com/album/6US5XlX7w7nL9pRE0F5jeI) | 4:08 |
 | 27 | [Carrying Your Love With Me](https://open.spotify.com/track/7puxIVNdj5nsBJk43zM3bH) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Carrying Your Love With Me](https://open.spotify.com/album/3YwF2y9Y3FfEy2NOtDuDZZ) | 3:52 |
 | 28 | [Forever After All](https://open.spotify.com/track/6IBcOGPsniK3Pso1wHIhew) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [What You See Ain't Always What You Get \(Deluxe Edition\)](https://open.spotify.com/album/25TJxI6ZH6XjT8geRQAFz5) | 3:52 |
@@ -61,10 +61,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 51 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
 | 52 | [It Takes A Woman](https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [It Takes A Woman](https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR) | 4:06 |
 | 53 | [Mind On You](https://open.spotify.com/track/7rr3gguU3TcVnLZD9VzASE) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Mind On You](https://open.spotify.com/album/0FVH9WJPHicjhOLfsPpnxL) | 2:57 |
-| 54 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 |
+| 54 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
 | 55 | [Dance With You](https://open.spotify.com/track/5SIb4S2seQAeCHPXxiNHBL) | [Brett Young](https://open.spotify.com/artist/0fiWOxhsBsQQvFDtxUQWo0) | [Dance With You](https://open.spotify.com/album/7rbVJCe9cnXniQ9cgJW7lp) | 3:03 |
-| 56 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
-| 57 | [All On Me](https://open.spotify.com/track/2mfahQ0EaaZWq4cFNg6A1o) | [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [Dark Horse](https://open.spotify.com/album/0veZCRGPKNnX0ufHxiUnTM) | 3:44 |
+| 56 | [Prayed For You](https://open.spotify.com/track/4j6GMcVcqZf1r0GDqMtYp6) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [Everywhere But On](https://open.spotify.com/album/02G55ZxQ3h3cfGQV8RVDEO) | 3:30 |
+| 57 | [Then](https://open.spotify.com/track/3XKbdb9GB6u3hsnUklQTav) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [American Saturday Night](https://open.spotify.com/album/0GCQzPEkcFv8bR90sJf41x) | 5:21 |
 | 58 | [Wreckage](https://open.spotify.com/track/33hQJTNI0T2FHVtku3smJf) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Wreckage](https://open.spotify.com/album/5dhPRULRRExFdwyi8BubQ6) | 3:32 |
 | 59 | [Forever To Me](https://open.spotify.com/track/38RJG8nLAwGycitlHOiifP) | [Cole Swindell](https://open.spotify.com/artist/1mfDfLsMxYcOOZkzBxvSVW) | [Forever To Me](https://open.spotify.com/album/35O9rSmb63xn6dvFNFvNbK) | 2:59 |
 | 60 | [Take Forever \(Hally's Song\)](https://open.spotify.com/track/3pBYIDSYwHpGMjq0nss6KZ) | [Cooper Alan](https://open.spotify.com/artist/0AtQAehoytV7j1r4O16dRb) | [Take Forever](https://open.spotify.com/album/0A9pp8RhqncFeWsS3XlYU8) | 3:04 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8WMG8VPSOJC.md) - [plain]
 | 63 | [Glad You Exist](https://open.spotify.com/track/472vIK1ldetTxRxG3ovaiY) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Glad You Exist](https://open.spotify.com/album/4z2eVLzV0UxLc2O4VZMIjV) | 2:24 |
 | 64 | [Waves](https://open.spotify.com/track/027269uzraETHuoG6aMs6a) | [Luke Bryan](https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I) | [Born Here Live Here Die Here \(Deluxe Edition\)](https://open.spotify.com/album/1Trg5OuUpkNFLF21HdbOg6) | 3:48 |
 | 65 | [Worth the Wait](https://open.spotify.com/track/3nB1jprfn5Yo50qcWHvyWs) | [Spencer Crandall](https://open.spotify.com/artist/6to2NJmRWY1h7rLU4c9TyG) | [Worth the Wait](https://open.spotify.com/album/0ibFF1l5VTiQxugbcjktAC) | 3:09 |
-| 66 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
-| 67 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
+| 66 | [Hell Of A View](https://open.spotify.com/track/1kBx9VGumfuvlfqdlAGorE) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Hell Of A View](https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW) | 2:55 |
+| 67 | [We Danced](https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Who Needs Pictures](https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk) | 3:46 |
 | 68 | [Growing Old With You](https://open.spotify.com/track/5n4kMW5dn7MHFhXQuJb9zG) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Growing Old With You](https://open.spotify.com/album/161OJ4mZwXGzdeLI2jibXZ) | 3:16 |
 | 69 | [Nobody](https://open.spotify.com/track/5TWAIHYaOnYg4txfmCgon5) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x) | [Nothing To Do Town](https://open.spotify.com/album/2du0g6QFWaA3uA5lhFGaQX) | 2:42 |
 | 70 | [How Do I Live](https://open.spotify.com/track/1PJ1JyZJg3aZgZQfg3ciWn) | [Trisha Yearwood](https://open.spotify.com/artist/3XlIhgydjvC4EniPFZT20j) | [Ballads](https://open.spotify.com/album/2C0OBNu8hYwn5vxWUainU5) | 4:02 |

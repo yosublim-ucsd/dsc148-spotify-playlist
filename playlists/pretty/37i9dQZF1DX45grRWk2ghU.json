@@ -1,6 +1,6 @@
 {
   "description": "\u2728 life in plastic is fantastic \u2728",
-  "num_followers": 449620,
+  "num_followers": 450543,
   "original_name": "Hot Pink",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,6 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "Tortura",
-        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
-      },
-      "artists": [
-        {
-          "name": "Kenia OS",
-          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
-        }
-      ],
-      "duration_ms": 132400,
-      "name": "Tortura",
-      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
         "name": "Teenage Dream: The Complete Confection",
         "url": "https://open.spotify.com/album/5BvgP623rtvlc0HDcpzquz"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 234653,
       "name": "California Gurls",
       "url": "https://open.spotify.com/track/6tS3XVuOyu10897O3ae7bi"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
+        "name": "Tortura",
+        "url": "https://open.spotify.com/album/6etfz9ZOgLi6EMY7O5LxDg"
+      },
+      "artists": [
+        {
+          "name": "Kenia OS",
+          "url": "https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG"
+        }
+      ],
+      "duration_ms": 132400,
+      "name": "Tortura",
+      "url": "https://open.spotify.com/track/5sgXFYthNSatpAyZ64QVs2"
     },
     {
       "added_at": "2024-04-06 18:52:13",
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "The Dutchess",
-        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
-      },
-      "artists": [
-        {
-          "name": "Fergie",
-          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
-        },
-        {
-          "name": "will.i.am",
-          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
-        }
-      ],
-      "duration_ms": 292373,
-      "name": "Fergalicious",
-      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
         "name": "Singled Out",
         "url": "https://open.spotify.com/album/4nLyl2aEgi2qQrcPiFlmD7"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 151983,
       "name": "Let Me Think About It",
       "url": "https://open.spotify.com/track/4LjfIjS8iweFCPdKxLnEoV"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
+        "name": "The Dutchess",
+        "url": "https://open.spotify.com/album/3t8HFQNlwLBW7htwLvFfzA"
+      },
+      "artists": [
+        {
+          "name": "Fergie",
+          "url": "https://open.spotify.com/artist/3r17AfJCCUqC9Lf0OAc73G"
+        },
+        {
+          "name": "will.i.am",
+          "url": "https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA"
+        }
+      ],
+      "duration_ms": 292373,
+      "name": "Fergalicious",
+      "url": "https://open.spotify.com/track/1D066zixBwqFYqBhKgdPzp"
     },
     {
       "added_at": "2024-04-06 18:52:13",
@@ -999,22 +999,6 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "Lip Gloss",
-        "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
-      },
-      "artists": [
-        {
-          "name": "Lil Mama",
-          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "Lip Gloss",
-      "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
         "name": "Queen Elizabitch",
         "url": "https://open.spotify.com/album/4nJ65lptuDZXNr0deIWKiU"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 208463,
       "name": "Cpr",
       "url": "https://open.spotify.com/track/35mBYyB61qTcGGj7MXIRM1"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
+        "name": "Lip Gloss",
+        "url": "https://open.spotify.com/album/3vgVsm9GY3i39fZ7b1sqV5"
+      },
+      "artists": [
+        {
+          "name": "Lil Mama",
+          "url": "https://open.spotify.com/artist/5qK5bOC6wLtuLhG5KvU17c"
+        }
+      ],
+      "duration_ms": 219773,
+      "name": "Lip Gloss",
+      "url": "https://open.spotify.com/track/1Y4ZdPOOgCUhBcKZOrUFiS"
     },
     {
       "added_at": "2024-04-06 18:52:13",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "WET DREAM",
-        "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
-      },
-      "artists": [
-        {
-          "name": "SNOW WIFE",
-          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
-        }
-      ],
-      "duration_ms": 150755,
-      "name": "WET DREAM",
-      "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
         "name": "Lady Wood",
         "url": "https://open.spotify.com/album/1tuekzsMZQOuiMejKP6t2Y"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 199179,
       "name": "Cool Girl",
       "url": "https://open.spotify.com/track/3tJ4y2Zqx6gM9xOAuFfsSF"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
+        "name": "WET DREAM",
+        "url": "https://open.spotify.com/album/4m7bDTiTwfiJFotfmEyEkb"
+      },
+      "artists": [
+        {
+          "name": "SNOW WIFE",
+          "url": "https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33"
+        }
+      ],
+      "duration_ms": 150755,
+      "name": "WET DREAM",
+      "url": "https://open.spotify.com/track/4B2ZFUncmZK3HjL0gDmUms"
     },
     {
       "added_at": "2024-04-06 18:52:13",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
+        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 242160,
+      "name": "What Dreams Are Made Of",
+      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+    },
+    {
+      "added_at": "2024-04-06 18:52:13",
+      "album": {
         "name": "S&M Remix",
         "url": "https://open.spotify.com/album/4rLvbAUc2aqGSwkG4TQRgs"
       },
@@ -1259,34 +1275,26 @@
     {
       "added_at": "2024-04-06 18:52:13",
       "album": {
-        "name": "BLUE LIPS (lady wood phase II)",
-        "url": "https://open.spotify.com/album/6jggnLM3SdDnjQ3GWmIZ4L"
+        "name": "Pop 2",
+        "url": "https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC"
       },
       "artists": [
         {
-          "name": "Tove Lo",
-          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
-        }
-      ],
-      "duration_ms": 223794,
-      "name": "disco tits",
-      "url": "https://open.spotify.com/track/1TIiWomS4i0Ikaf9EKdcLn"
-    },
-    {
-      "added_at": "2024-04-06 18:52:13",
-      "album": {
-        "name": "The Lizzie McGuire Movie (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/4DduywjewTFQCcshWzXhMh"
-      },
-      "artists": [
+          "name": "Charli XCX",
+          "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
+        },
         {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
         }
       ],
-      "duration_ms": 242160,
-      "name": "What Dreams Are Made Of",
-      "url": "https://open.spotify.com/track/7J1S5n6Kn4wZEu6xrBT0gk"
+      "duration_ms": 232933,
+      "name": "Unlock it (Lock It) - feat. Kim Petras and Jay Park",
+      "url": "https://open.spotify.com/track/3qGHAKgjQruzj6doKkyEb5"
     }
   ],
   "unique_name": "Hot Pink",

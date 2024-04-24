@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-11-29",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVJqRUYjMtlQ>Ariana Grande</a>, <a href=spotify:playlist:37i9dQZF1EIXDGo0vWYROm>Noah Kahan</a>, <a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZP1kY6rcyaY>Mitski</a>, <a href=spotify:playlist:37i9dQZF1EIVd6ZBwo8yir>Lord Huron</a>, <a href=spotify:playlist:37i9dQZF1EIUnslPhwwdfa>Zach Bryan</a> and more",
   "name": "Moody Mix",
   "tracks": [
     {
@@ -2552,7 +2552,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-28",
+      "date_removed": null,
       "duration_ms": 242013,
       "name": "drivers license",
       "url": "https://open.spotify.com/track/5wANPM4fQCJwkGd4rN57mH"
@@ -3250,7 +3250,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 246735,
       "name": "Fire On Fire",
       "url": "https://open.spotify.com/track/7t3Xdbufg7q2onVsR8RBdY"
@@ -3694,7 +3694,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 207520,
       "name": "Happier",
       "url": "https://open.spotify.com/track/2RttW7RAu5nOAfq6YFvApB"
@@ -3874,7 +3874,7 @@
       ],
       "date_added": "2022-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 193080,
       "name": "Heal",
       "url": "https://open.spotify.com/track/4KlL5Bwlm4yHYxr0B2rHci"
@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2024-02-25",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 227195,
       "name": "I Remember Everything (feat. Kacey Musgraves)",
       "url": "https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG"
@@ -8547,6 +8547,24 @@
     },
     {
       "album": {
+        "name": "someday i'll get it",
+        "url": "https://open.spotify.com/album/2YXww1viuuKZPi458rdopk"
+      },
+      "artists": [
+        {
+          "name": "Alek Olsen",
+          "url": "https://open.spotify.com/artist/27sdgIaFiz55vkR68fBiy8"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 94750,
+      "name": "someday i'll get it",
+      "url": "https://open.spotify.com/track/1lb0KfG9EyfSBsEifTUtXY"
+    },
+    {
+      "album": {
         "name": "Revival",
         "url": "https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC"
       },
@@ -8854,7 +8872,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182346,
       "name": "Stick Season",
       "url": "https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv"
@@ -9416,7 +9434,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-23",
+      "date_removed": null,
       "duration_ms": 160184,
       "name": "the remedy for a broken heart (why am I so in love)",
       "url": "https://open.spotify.com/track/4UKCKdYiLN6IMA5ZESUTL7"
@@ -10040,7 +10058,7 @@
       ],
       "date_added": "2022-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-02",
+      "date_removed": null,
       "duration_ms": 179094,
       "name": "V\u00e1monos a Marte",
       "url": "https://open.spotify.com/track/2TzkIzgzIHhewMxyh1u4hh"
@@ -10218,7 +10236,7 @@
       ],
       "date_added": "2024-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 228639,
       "name": "we can't be friends (wait for your love)",
       "url": "https://open.spotify.com/track/51ZQ1vr10ffzbwIjDCwqm4"

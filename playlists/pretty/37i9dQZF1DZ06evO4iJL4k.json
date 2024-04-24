@@ -1,12 +1,12 @@
 {
-  "description": "This is Filipe Ret. The essential tracks, all in one playlist.",
-  "num_followers": 240484,
+  "description": "This is Filipe Ret. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 240793,
   "original_name": "This Is Filipe Ret",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFhNGI0ODQ5YjEzZjU3MjAyOWE2ODhjMjNkMjhlZjc3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGE0NDI0YWZmMDg1NTY1NzBjMDM3ZmZjMGVmY2JjNDFm",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Distante",
-        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
-      },
-      "artists": [
-        {
-          "name": "MD Chefe",
-          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
-        },
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "Distante",
-      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imaterial (Deluxe)",
         "url": "https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 127741,
       "name": "Al\u00e9m do Dinheiro",
       "url": "https://open.spotify.com/track/7qLM93TElkbHLnLBNviq3y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Distante",
+        "url": "https://open.spotify.com/album/0ipAbh8IRfQez8fvS9HIl7"
+      },
+      "artists": [
+        {
+          "name": "MD Chefe",
+          "url": "https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs"
+        },
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 172800,
+      "name": "Distante",
+      "url": "https://open.spotify.com/track/7oE08PPqw5XozzHUv1P9XD"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 148863,
+      "name": "Dentro de Voc\u00ea / A Libertina - Ao Vivo",
+      "url": "https://open.spotify.com/track/65RtZeSSVw0rrHSgEAe063"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivaz",
         "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 220171,
       "name": "Neur\u00f3tico de Guerra",
       "url": "https://open.spotify.com/track/3CifOzXLZCSq918PwlsD73"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 148863,
-      "name": "Dentro de Voc\u00ea / A Libertina - Ao Vivo",
-      "url": "https://open.spotify.com/track/65RtZeSSVw0rrHSgEAe063"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "FRXV (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        }
+      ],
+      "duration_ms": 195066,
+      "name": "Me Sinto Aben\u00e7oado - Ao Vivo",
+      "url": "https://open.spotify.com/track/3bysApQ8IhtbbfQKGWFHSy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vivaz",
         "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
       },
@@ -771,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRXV (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi"
+        "name": "Audaz",
+        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
       },
       "artists": [
         {
@@ -780,9 +796,9 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         }
       ],
-      "duration_ms": 195066,
-      "name": "Me Sinto Aben\u00e7oado - Ao Vivo",
-      "url": "https://open.spotify.com/track/3bysApQ8IhtbbfQKGWFHSy"
+      "duration_ms": 227681,
+      "name": "Fa\u00e7a Voc\u00ea Mesmo",
+      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
     },
     {
       "added_at": null,
@@ -843,22 +859,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Audaz",
-        "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        }
-      ],
-      "duration_ms": 227681,
-      "name": "Fa\u00e7a Voc\u00ea Mesmo",
-      "url": "https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vivaz",
         "url": "https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g"
       },
@@ -875,8 +875,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revel",
-        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
+        "name": "Tudo do Melhor",
+        "url": "https://open.spotify.com/album/0AFvUWJbsl049V5M6De4bk"
       },
       "artists": [
         {
@@ -884,13 +884,37 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "M\u00e3olee",
-          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Reid",
+          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
+        },
+        {
+          "name": "PJ HOUDINI",
+          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
+        },
+        {
+          "name": "AREN",
+          "url": "https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC"
+        },
+        {
+          "name": "Anezzi",
+          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
+        },
+        {
+          "name": "Dallass",
+          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
         }
       ],
-      "duration_ms": 256997,
-      "name": "Invicto",
-      "url": "https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD"
+      "duration_ms": 273008,
+      "name": "Tudo do Melhor",
+      "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
     },
     {
       "added_at": null,
@@ -947,50 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tudo do Melhor",
-        "url": "https://open.spotify.com/album/0AFvUWJbsl049V5M6De4bk"
-      },
-      "artists": [
-        {
-          "name": "Filipe Ret",
-          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
-        },
-        {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
-        },
-        {
-          "name": "Reid",
-          "url": "https://open.spotify.com/artist/0YWKYHR1rKdnPRlYvisCqo"
-        },
-        {
-          "name": "PJ HOUDINI",
-          "url": "https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim"
-        },
-        {
-          "name": "AREN",
-          "url": "https://open.spotify.com/artist/31QiBU59hNzPdCfPpRXykC"
-        },
-        {
-          "name": "Anezzi",
-          "url": "https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk"
-        },
-        {
-          "name": "Dallass",
-          "url": "https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        }
-      ],
-      "duration_ms": 273008,
-      "name": "Tudo do Melhor",
-      "url": "https://open.spotify.com/track/4sfslUCiSjOBJZcu08U1qb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Revel",
         "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
       },
@@ -1004,9 +984,9 @@
           "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 234252,
-      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
-      "url": "https://open.spotify.com/track/7pwSEJ0HuN067dxCiGvaUh"
+      "duration_ms": 256997,
+      "name": "Invicto",
+      "url": "https://open.spotify.com/track/3ecQ7EFhQCJbPfM8fQ5JaD"
     },
     {
       "added_at": null,
@@ -1059,6 +1039,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dentro de Voc\u00ea",
+        "url": "https://open.spotify.com/album/5wSXLd7oIgwI6LGo3e0QzH"
+      },
+      "artists": [
+        {
+          "name": "Filipe Ret",
+          "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
+        },
+        {
+          "name": "MC Kevin o Chris",
+          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+        }
+      ],
+      "duration_ms": 235102,
+      "name": "Dentro de Voc\u00ea",
+      "url": "https://open.spotify.com/track/15kW9fqlnorhFhzJosKu0F"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Audaz",
         "url": "https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa"
       },
@@ -1079,8 +1079,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dentro de Voc\u00ea",
-        "url": "https://open.spotify.com/album/5wSXLd7oIgwI6LGo3e0QzH"
+        "name": "Revel",
+        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
       },
       "artists": [
         {
@@ -1088,13 +1088,13 @@
           "url": "https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54"
         },
         {
-          "name": "MC Kevin o Chris",
-          "url": "https://open.spotify.com/artist/2UMj7NCbuqy1yUZmiSYGjJ"
+          "name": "M\u00e3olee",
+          "url": "https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK"
         }
       ],
-      "duration_ms": 235102,
-      "name": "Dentro de Voc\u00ea",
-      "url": "https://open.spotify.com/track/15kW9fqlnorhFhzJosKu0F"
+      "duration_ms": 234252,
+      "name": "S\u00f3 Pra Voc\u00ea Lembrar",
+      "url": "https://open.spotify.com/track/7pwSEJ0HuN067dxCiGvaUh"
     },
     {
       "added_at": null,
@@ -1188,7 +1188,7 @@
       "added_at": null,
       "album": {
         "name": "Revel",
-        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
       "artists": [
         {
@@ -1202,7 +1202,7 @@
       ],
       "duration_ms": 296122,
       "name": "Isso Que \u00c9 Vida",
-      "url": "https://open.spotify.com/track/7JSCzHrg0FXEKJplK14ySy"
+      "url": "https://open.spotify.com/track/0f1wz7Dm3slZdTwenTjcAn"
     },
     {
       "added_at": null,
@@ -1268,7 +1268,7 @@
       "added_at": null,
       "album": {
         "name": "Revel",
-        "url": "https://open.spotify.com/album/422XU7tl8bg3VIklzD1VGf"
+        "url": "https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq"
       },
       "artists": [
         {
@@ -1282,7 +1282,7 @@
       ],
       "duration_ms": 276491,
       "name": "Chefe do Crime Perfeito",
-      "url": "https://open.spotify.com/track/6SWhcTNT762HkE26aBQgpw"
+      "url": "https://open.spotify.com/track/6MVFI8t52RU5ESYQyLp5MI"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 
 > From Toronto to Nashville\- country is more than a genre, it's a lifestyle! Subscribe <a href="https://forms.umusic\-online.com/forms/\-MzVRuWCJewxwySP2ZdQ">here</a> for the most up to date country music news, sneak peeks, contests and more! Cover: Tyler Hubbard
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 10,381 likes - 80 songs - 4 hr 26 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 10,371 likes - 80 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/0N2psSxKwz0licgMefLKx2.md) - [plain]
 | 24 | [If I Had a Lover](https://open.spotify.com/track/6a9VsSmDtb7wxv1oRgCfIa) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Songs in the Gravel](https://open.spotify.com/album/5LH0DO3n956vBZ5vK0mLL2) | 3:23 |
 | 25 | [Save Me \(with Lainey Wilson\)](https://open.spotify.com/track/30LZU3ReFIndjHLfaahreM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Whitsitt Chapel](https://open.spotify.com/album/2v1Lb9hidHkvvlIXYzSmeZ) | 3:57 |
 | 26 | [Tucson Too Late](https://open.spotify.com/track/2hNQDbZcN3vqRAuwiz7poI) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [Bluebird Days](https://open.spotify.com/album/6izHNYgyKzGdRpYwtYFaaG) | 2:52 |
-| 27 | [Gin & Juice](https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice](https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9) | 4:00 |
+| 27 | [Gin & Juice \- HARDY’s Version](https://open.spotify.com/track/3RSKGpek3rN4jaj0yuhBRx) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy) | [Gin & Juice \(HARDY’s Version\)](https://open.spotify.com/album/780NNJ4wBv7iacbC51cEq9) | 4:00 |
 | 28 | [Messed Up As Me](https://open.spotify.com/track/4Znwf3U6xJsQrj0UveLpOx) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Messed Up As Me](https://open.spotify.com/album/6U6AwUuoxscav9cG7yQ5n9) | 3:16 |
 | 29 | [Off The Rails](https://open.spotify.com/track/6h3eHLBhpWL5KQLRKxXz76) | [Brantley Gilbert](https://open.spotify.com/artist/5q8HGNo0BjLWaTAhRtbwxa) | [Off The Rails](https://open.spotify.com/album/4Hem3OoaopJ70xEEAQGBYO) | 3:04 |
 | 30 | [World on Fire](https://open.spotify.com/track/5ya0TmUQw2wHMkq36rPsnd) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [NATE SMITH \(DELUXE\)](https://open.spotify.com/album/2WSeZEFsZKPJQ09abZCIaz) | 3:09 |

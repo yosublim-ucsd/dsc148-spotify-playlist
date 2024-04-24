@@ -1,6 +1,6 @@
 {
   "description": "Pop gems to help you concentrate and stay focused.",
-  "num_followers": 458905,
+  "num_followers": 458798,
   "original_name": "Pop Study",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "We Sing. We Dance. We Steal Things.",
-        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
-      },
-      "artists": [
-        {
-          "name": "Jason Mraz",
-          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-        }
-      ],
-      "duration_ms": 242946,
-      "name": "I'm Yours",
-      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Be Alright",
         "url": "https://open.spotify.com/album/0YZLXTaHLcgl5UdtKDiUXD"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 196373,
       "name": "Be Alright",
       "url": "https://open.spotify.com/track/3EPXxR3ImUwfayaurPi3cm"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "We Sing. We Dance. We Steal Things.",
+        "url": "https://open.spotify.com/album/04G0YylSjvDQZrjOfE5jA5"
+      },
+      "artists": [
+        {
+          "name": "Jason Mraz",
+          "url": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+        }
+      ],
+      "duration_ms": 242946,
+      "name": "I'm Yours",
+      "url": "https://open.spotify.com/track/1EzrEOXmMH3G43AXT1y7pA"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -495,6 +495,22 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
+        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
+        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
+      },
+      "artists": [
+        {
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "duration_ms": 347520,
+      "name": "Somebody Else",
+      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
         "name": "A Star Is Born Soundtrack (Without Dialogue)",
         "url": "https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 217212,
       "name": "Shallow - Radio Edit",
       "url": "https://open.spotify.com/track/6QfS2wq5sSC1xAJCQsTSlj"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
-        "name": "I like it when you sleep, for you are so beautiful yet so unaware of it",
-        "url": "https://open.spotify.com/album/1JFmNyVPdBF1ECvv4fhpW4"
-      },
-      "artists": [
-        {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-        }
-      ],
-      "duration_ms": 347520,
-      "name": "Somebody Else",
-      "url": "https://open.spotify.com/track/5hc71nKsUgtwQ3z52KEKQk"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -599,22 +599,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "The Pains Of Growing",
-        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
-      },
-      "artists": [
-        {
-          "name": "Alessia Cara",
-          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
-        }
-      ],
-      "duration_ms": 227693,
-      "name": "Out Of Love",
-      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 214293,
       "name": "Rainbow",
       "url": "https://open.spotify.com/track/79qxwHypONUt3AFq0WPpT9"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "The Pains Of Growing",
+        "url": "https://open.spotify.com/album/0LzVdypBGpn6dGuHqVGwwt"
+      },
+      "artists": [
+        {
+          "name": "Alessia Cara",
+          "url": "https://open.spotify.com/artist/2wUjUUtkb5lvLKcGKsKqsR"
+        }
+      ],
+      "duration_ms": 227693,
+      "name": "Out Of Love",
+      "url": "https://open.spotify.com/track/4WzhjxvLP95y7AMDy0Atwb"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -735,22 +735,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "For Emma, Forever Ago",
-        "url": "https://open.spotify.com/album/1r5JEclOv0s5S8GhFet0Wx"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 238532,
-      "name": "Skinny Love",
-      "url": "https://open.spotify.com/track/1HkOPLwAJH3kE8UnqgxF4s"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Ocean (feat. Khalid)",
         "url": "https://open.spotify.com/album/1XQ6XbZ6ZM1V5iEtWlYDeH"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 216419,
       "name": "Ocean (feat. Khalid)",
       "url": "https://open.spotify.com/track/3nc420PXjTdBV5TN0gCFkS"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "For Emma, Forever Ago",
+        "url": "https://open.spotify.com/album/1r5JEclOv0s5S8GhFet0Wx"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 238532,
+      "name": "Skinny Love",
+      "url": "https://open.spotify.com/track/1HkOPLwAJH3kE8UnqgxF4s"
     },
     {
       "added_at": "2022-07-21 17:03:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2022-07-21 17:03:38",
       "album": {
-        "name": "i don't want to watch the world end with someone else",
-        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
-      },
-      "artists": [
-        {
-          "name": "Clinton Kane",
-          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
-        }
-      ],
-      "duration_ms": 184505,
-      "name": "i don't want to watch the world end with someone else",
-      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
-    },
-    {
-      "added_at": "2022-07-21 17:03:38",
-      "album": {
         "name": "Girls Like You (feat. Cardi B)",
         "url": "https://open.spotify.com/album/75iQSBSaztFIAun9qLLCnb"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 235545,
       "name": "Girls Like You (feat. Cardi B) - Cardi B Version",
       "url": "https://open.spotify.com/track/6FRLCMO5TUHTexlWo8ym1W"
+    },
+    {
+      "added_at": "2022-07-21 17:03:38",
+      "album": {
+        "name": "i don't want to watch the world end with someone else",
+        "url": "https://open.spotify.com/album/610pjYthQHEHqSdF8kCTcP"
+      },
+      "artists": [
+        {
+          "name": "Clinton Kane",
+          "url": "https://open.spotify.com/artist/7okSU80WTrn4LXlyXYbX3P"
+        }
+      ],
+      "duration_ms": 184505,
+      "name": "i don't want to watch the world end with someone else",
+      "url": "https://open.spotify.com/track/58qX77t2VWMWcycsh9zKLc"
     },
     {
       "added_at": "2022-07-21 17:03:38",

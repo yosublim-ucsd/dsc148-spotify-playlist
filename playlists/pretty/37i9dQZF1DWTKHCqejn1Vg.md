@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 
 > 사랑이 더욱 뜨겁게 섞일 때.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,060 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,069 likes - 60 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTKHCqejn1Vg.md) - [plain]
 | 51 | [I want to \(Feat\. meenoi\)](https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8), [MEENOI](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 3:33 |
 | 52 | [2080](https://open.spotify.com/track/3F5HhdyBfvCbzuPJbGBHkc) | [msftz](https://open.spotify.com/artist/2v9xvjxXMMndxvLJ86Ice4) | [ETERNITY](https://open.spotify.com/album/4AaUEBm8sByHNPpVSQoQPI) | 3:40 |
 | 53 | [Hated you](https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Hated you](https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm) | 3:29 |
-| 54 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 |
-| 55 | [Runners](https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:28 |
+| 54 | [Runners](https://open.spotify.com/track/4tQ5wivXoTknZ8PQrgtaYn) | [CAMO](https://open.spotify.com/artist/2YkhzcYyxJvtl5W6pY0PuF) | [Fragile](https://open.spotify.com/album/0sb0tegIC42FpaodGVDVNe) | 2:28 |
+| 55 | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/track/2GVt6mnbR93GbBNnUYuM7Z) | [Choco And Vanilla](https://open.spotify.com/artist/1MssCyzGvRSVvzCUzVVTj1) | [Stigma Effect \(Original Webtoon Soundtrack\)Pt.1 \- Do You Love Me Just Like Me?](https://open.spotify.com/album/5h0z6aaqNXkyiIshrVmE13) | 2:56 |
 | 56 | [What if we met at another place ?](https://open.spotify.com/track/0nXiqvjBx6HE6Z8IWNZrkn) | [OSUN](https://open.spotify.com/artist/5B0qfgiKQ1593oBKreR5Fb) | [What if we met at another place ?](https://open.spotify.com/album/6fu5RdZvG8sf335STIfs4J) | 2:59 |
 | 57 | [MY RIDE](https://open.spotify.com/track/0cpDaRIGcQOIOORtwQzQ50) | [JASMINE](https://open.spotify.com/artist/3zoeO3T9qt9Vt3sHmaT1UQ) | [MY RIDE](https://open.spotify.com/album/2CeGbSrinsDbNzjsJU0fi2) | 3:06 |
 | 58 | [CANTSAY](https://open.spotify.com/track/6SwETSlZoH20S9ScCNzufA) | [Bryn](https://open.spotify.com/artist/74r4YBm6qWOBKKF6MhVXVq) | [VELVETMOTH](https://open.spotify.com/album/0rn0Jqs2Pt92th8tZK5zNx) | 3:16 |

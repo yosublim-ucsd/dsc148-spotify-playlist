@@ -1779,6 +1779,24 @@
     },
     {
       "album": {
+        "name": "Start of Something",
+        "url": "https://open.spotify.com/album/0QWwQEnegx6V4PuE98fvPX"
+      },
+      "artists": [
+        {
+          "name": "Rachael O'Connor",
+          "url": "https://open.spotify.com/artist/33b9NGd3gHIZbBfOwBMAHO"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167890,
+      "name": "Start of Something",
+      "url": "https://open.spotify.com/track/00Kg79l6oqxYjnJXCuzt48"
+    },
+    {
+      "album": {
         "name": "State of Love",
         "url": "https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR"
       },

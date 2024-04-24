@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 
 > Everyday should be a happy day when you listen to this fun K\-Pop playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 217,082 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 216,880 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 25 | [Savage](https://open.spotify.com/track/3dbLT62Cvs46Ju7a8gpr36) | [aespa](https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE) | [Savage \- The 1st Mini Album](https://open.spotify.com/album/3vyyDkvYWC36DwgZCYd3Wu) | 3:58 |
 | 26 | [Wife](https://open.spotify.com/track/6hWU8LrnjLyYHShDyNWFZj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Wife](https://open.spotify.com/album/0C8qSTYZDkVcfnY6tIHIzK) | 2:01 |
 | 27 | [Love Lee](https://open.spotify.com/track/1qosh64U6CR5ki1g1Rf2dZ) | [AKMU](https://open.spotify.com/artist/6OwKE9Ez6ALxpTaKcT5ayv) | [Love Lee](https://open.spotify.com/album/47xcjDSi1t6pQE2RvXKdUF) | 2:59 |
-| 28 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 |
-| 29 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
+| 28 | [Rock with you](https://open.spotify.com/track/6LnEoRQKMcaFTR5UvaKuBy) | [SEVENTEEN](https://open.spotify.com/artist/7nqOGRxlXj7N2JYbgNEjYH) | [SEVENTEEN 9th Mini Album 'Attacca'](https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd) | 3:00 |
+| 29 | [Smoothie](https://open.spotify.com/track/2jaapqz7L9MpMf7vpkqU9I) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAM\( \)SCAPE](https://open.spotify.com/album/2urIpiAu1CySTyyNuQQxcz) | 3:08 |
 | 30 | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/track/0VPFT123HKoQ2J6ipeDcI1) | [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Standing Next to You \(USHER Remix\)](https://open.spotify.com/album/3bKfV6NFUOd6KMCkDJyEbh) | 3:34 |
 | 31 | [Get A Guitar](https://open.spotify.com/track/4H65EdACzwqV8sTt3dDyA0) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Get A Guitar](https://open.spotify.com/album/3E5VbhGdSMotB0oQ3LwT9k) | 2:40 |
 | 32 | [TOO MUCH](https://open.spotify.com/track/0rKWJnmo6Q0ovoPOLoLm0t) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Jung Kook](https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [TOO MUCH](https://open.spotify.com/album/7gCggwpSuqUmVzWniLdpKR) | 3:23 |
@@ -50,13 +50,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1uG5byNIgDA.md) - [plain]
 | 40 | [Tamed\-Dashed](https://open.spotify.com/track/1zoyteFQmeUUqyOl2Xznpy) | [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9) | [DIMENSION : DILEMMA](https://open.spotify.com/album/5jGRqioNCSWZGBl3QmyuFI) | 3:16 |
 | 41 | [Love 119](https://open.spotify.com/track/7M7d0e8Ue3Z7QieuZe72J9) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Love 119](https://open.spotify.com/album/5EkyygSUp3nVFEimo2ENdP) | 2:53 |
 | 42 | [Do It Like That](https://open.spotify.com/track/7kaFsQygyiCqRboWCXztxZ) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Do It Like That](https://open.spotify.com/album/0Z1ebaoFTQDDzebTh3fD2P) | 2:25 |
-| 43 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 |
-| 44 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
+| 43 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 |
+| 44 | [Zero](https://open.spotify.com/track/5LMoKDVzW2kDneNu2UbspP) | [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d) | [Zero](https://open.spotify.com/album/2zYcjcNUzcgMntymoukwZR) | 2:34 |
 | 45 | [Fancy \- Spotify Singles](https://open.spotify.com/track/0y0uzuB1HxljAY2j0tLETp) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Fancy \- Spotify Singles](https://open.spotify.com/album/23EfZLPRMwseUucHSXCCTq) | 3:13 |
 | 46 | [Yes or No \(Feat\. 허윤진 of LE SSERAFIM, Crush\)](https://open.spotify.com/track/3m5PgWSClkZ44vdFmPiqpq) | [GroovyRoom](https://open.spotify.com/artist/29HqjVbJr3vsc2l6BTI4eB), [HUH YUNJIN](https://open.spotify.com/artist/13yWtUnz63q5VIs5SwoMhy), [Crush](https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g) | [Yes or No](https://open.spotify.com/album/5O1y2JYcAX1wnNuotm6qWF) | 2:59 |
 | 47 | [Hello Future](https://open.spotify.com/track/332GJ8ykVuEt3jOT1sy7j6) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hello Future \- The 1st Album Repackage](https://open.spotify.com/album/1fRqXYwoLDxG3EwP70qnjM) | 3:40 |
 | 48 | [BBIBBI](https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [BBIBBI](https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI) | 3:14 |
 | 49 | [NOBODY](https://open.spotify.com/track/4loUHO28CuvSbEiZXId1BD) | [JEON SOYEON](https://open.spotify.com/artist/6Xg22wJOAcnvPUfk5WvODH), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI), [LIZ \(IVE\)](https://open.spotify.com/artist/2Cl2zS9nttS8xQeCp7zYT1) | [NOBODY](https://open.spotify.com/album/1Y48ZHmfvedT16bNakv13v) | 2:41 |
-| 50 | [INVU](https://open.spotify.com/track/7rXcCpIAoOUCydkVDMcoPV) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [INVU \- The 3rd Album](https://open.spotify.com/album/7i2YLTVQ0dyngRuUqtGmr9) | 3:24 |
+| 50 | [Memories](https://open.spotify.com/track/7egcmrxRDee6C5M3AtXZ7L) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Memories](https://open.spotify.com/album/6mYpshqw0Y8pQTT6iRX8s1) | 2:58 |
 
 Snapshot ID: `MTcxMTU1MDkzNCwwMDAwMDAwMGEzMTgzMmNmNTg2NWFkY2FlNjc0ZGQyMzI3ODA1NjIz`

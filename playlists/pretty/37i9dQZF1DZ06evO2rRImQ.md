@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 
 ### [This Is Banda Los Recoditos](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2rRImQ)
 
-> This Is Banda Los Recoditos\. Los temas esenciales, todos en una lista.
+> This is Banda Los Recoditos\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,945 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,886 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,10 +34,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 24 | [Y ¿Qué Tiene?](https://open.spotify.com/track/6V0i3tXv6askzWc2BiPoKi) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak), [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl) | [Y ¿Qué Tiene?](https://open.spotify.com/album/4zYI2PJ7ptO9JMklxWdLVJ) | 2:52 |
 | 25 | [Me Va A Perder](https://open.spotify.com/track/0irNPJFAn4CjaNE6JRapMT) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Va A Perder](https://open.spotify.com/album/4oZ0ozTz16miAPCbzeJc6g) | 2:55 |
 | 26 | [Vas A Querer Volver](https://open.spotify.com/track/7dNvYibEFTGRvNi8hBzs4f) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vas A Querer Volver](https://open.spotify.com/album/2qWqD6MErYIzVs3Kby8Hlf) | 2:40 |
-| 27 | [Vivir La Vida](https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 2:57 |
-| 28 | [Eres Difícil](https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:30 |
-| 29 | [No Te Quiero Perder](https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 3:28 |
-| 30 | [Tiempo](https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:54 |
+| 27 | [Eres Difícil](https://open.spotify.com/track/2ocArDj3UeIwT12lHlZd7D) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [A Toda Madre](https://open.spotify.com/album/1wQmPnmTyFBI0DSAkQUmzy) | 2:30 |
+| 28 | [Vivir La Vida](https://open.spotify.com/track/5vELhlTajEjglTEwGp8WAI) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Vivir La Vida](https://open.spotify.com/album/79Tqv63Tf1JyKL7jHUhwXF) | 2:57 |
+| 29 | [Tiempo](https://open.spotify.com/track/37XW5aASeeNbt0OyIJfMIk) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Los Gustos Que Me Doy](https://open.spotify.com/album/37KAZDlCcCpLZuVltkaQfQ) | 2:54 |
+| 30 | [No Te Quiero Perder](https://open.spotify.com/track/7hncTibNAY3HQCQOr3N5Ou) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Ando Bien Pedo](https://open.spotify.com/album/09qTTNASCK9Vrnnk8Yyh65) | 3:28 |
 | 31 | [Esta Va Por Ti](https://open.spotify.com/track/1bkcIokOXvuIoKK9YNIx0m) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Perfecta](https://open.spotify.com/album/00n5EfgpQUDaHpcYRP7alm) | 3:20 |
 | 32 | [La Baraja](https://open.spotify.com/track/1iq9EbjK0nWVdGmbCvXFV3) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [La Baraja](https://open.spotify.com/album/0WeABPJfCiAM9DSAetL8CR) | 2:55 |
 | 33 | [Al Rescate](https://open.spotify.com/track/6RYkjZLxo7xZSR9LNr57K9) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Me Está Gustando](https://open.spotify.com/album/3LLGf8yNKPKud3ErCdOkAu) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2rRImQ.md) - [plain]
 | 49 | [Chiquitita](https://open.spotify.com/track/1gejXzSYPS7XXDYuOjcvr8) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [¿En Qué Les Molesta?](https://open.spotify.com/album/0GRPiLUKUtYQRr7kvlDkXw) | 2:36 |
 | 50 | [¿Cuánto Cuesta?](https://open.spotify.com/track/78gyWuojzXoH8J9q9M22Vw) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [Las Bandas Románticas](https://open.spotify.com/album/02ppLOUh6pj8fV2JGEoLGN) | 2:19 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGMyZGMxZTY4NWQ3MzU0YThiMDdhYzdhMGEzZWYyYzQ4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGQ3YjBiODliYTRhZWNhYzQ3ZjZiZDU1ZGUzZDVhZjcz`

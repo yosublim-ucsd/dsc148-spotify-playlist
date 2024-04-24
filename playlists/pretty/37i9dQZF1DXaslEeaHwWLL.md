@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 
 > The biggest songs in Latin America in 2017\. Cover: Daddy Yankee & Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,980 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,067 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaslEeaHwWLL.md) - [plain]
 | 47 | [100 Años](https://open.spotify.com/track/4gJzpOMYyOpVnbDXlT5aWL) | [Ha\*Ash](https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [30 de Febrero](https://open.spotify.com/album/2OxyM5ID5JYs1wh8hTsJph) | 3:05 |
 | 48 | [Chambea](https://open.spotify.com/track/1Bqg4yFeVDJxchh6MjkGKy) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Chambea](https://open.spotify.com/album/3cNcI17xidck0JlZrNUpXw) | 3:12 |
 | 49 | [Hey DJ](https://open.spotify.com/track/1XgpK29CGGjZnxPYkiRbh4) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD) | [CNCO](https://open.spotify.com/album/0YCyFUN3ihGbP2x9C09NF6) | 3:26 |
-| 50 | [Explícale \(feat\. Bad Bunny\)](https://open.spotify.com/track/1LszjjoVwDDZcWUQbzeDLG) | [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [\#Update](https://open.spotify.com/album/3tAW0n99Uq2IlvzBsW3tQq) | 3:43 |
+| 50 | [Que Va](https://open.spotify.com/track/6J1R5wtPXiHiwiPstOSI56) | [Alex Sensation](https://open.spotify.com/artist/0OROVBEZCocg0FcgJpyBse), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Que Va](https://open.spotify.com/album/1mt3ZuNrHnd6gtRJhSy7Fn) | 3:58 |
 
 Snapshot ID: `MTcxMjM2NDE2OCwwMDAwMDAwMGRlMzVhYmJmM2MxMTMyNjRjYzgxZjQzNmRhYjdiNjc1`

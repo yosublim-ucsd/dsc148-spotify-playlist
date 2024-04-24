@@ -4,7 +4,7 @@
 
 > The best of the 1980s classics from Michael Jackson, Journey, Whitney Houston, TOTO, AC/DC, Kenny Loggins, Billy Joel, Survivor + more.
 
-215 songs - 15 hr 4 min
+219 songs - 15 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Jump \(For My Love\) \- Single Remix](https://open.spotify.com/track/4WoT9wgK9o1cxBfKRWlRzx) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [The Essential Pointer Sisters](https://open.spotify.com/album/6QmOTNMb8Ab1ZbDd5sJ3AU) | 3:58 | 2022-05-27 | 2023-01-20 |
 | [Jump \(Original Mix\)](https://open.spotify.com/track/1kIu9zpYtWjgrLlsactlna) | [The Pointer Sisters](https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N) | [Break Out \(1983 Version \- Expanded Edition\)](https://open.spotify.com/album/6h1sv7NHAZA7tiErfICYLM) | 4:22 | 2023-02-21 |  |
 | [Jump \- 2015 Remaster](https://open.spotify.com/track/7N3PAbqfTjSEU1edb2tY8j) | [Van Halen](https://open.spotify.com/artist/2cnMpRsOVqtPMfq7YiFE6K) | [1984 \(Remastered\)](https://open.spotify.com/album/3REUXdj5OPKhuDTrTtCBU0) | 4:01 | 2023-05-08 | 2023-06-15 |
+| [Just Can't Get Enough](https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Speak and Spell \(Deluxe\)](https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu) | 3:40 | 2024-04-23 |  |
 | [Just like Heaven](https://open.spotify.com/track/76GlO5H5RT6g7y0gev86Nk) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Kiss Me, Kiss Me, Kiss Me](https://open.spotify.com/album/37Q22g0n9PzBLX6lNddrIa) | 3:32 | 2023-02-21 | 2023-06-15 |
 | [Just the Two of Us \(feat\. Bill Withers\)](https://open.spotify.com/track/7Lk83uozmGWre1q8eyOOUP) | [Grover Washington, Jr.](https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1), [Bill Withers](https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj) | [Love Songs](https://open.spotify.com/album/7rcAB5TsfvqT77pHd4edmc) | 7:18 | 2023-02-21 | 2023-06-15 |
 | [Keep on Loving You](https://open.spotify.com/track/4rcHWl68ai6KvpXlc8vbnE) | [REO Speedwagon](https://open.spotify.com/artist/55vs7NT1KxcFjbMC4y202E) | [Hi Infidelity \(30th Anniversary Edition\)](https://open.spotify.com/album/0X4ZNTZw7SYgrp5rlBQC3N) | 3:20 | 2022-05-27 |  |
@@ -135,6 +136,7 @@
 | [Miami, My Amy](https://open.spotify.com/track/5K1HsMKNWMrxADlqAUjpIp) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [L.A\. to Miami](https://open.spotify.com/album/2KtKTDPHET53VNgccwlYvj) | 3:27 | 2022-05-27 | 2023-01-20 |
 | [Never Gonna Give You Up](https://open.spotify.com/track/7GhIk7Il098yCjg4BQjzvb) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/6XhjNHCyCDyyGJRM5mg40G) | 3:32 | 2022-05-27 | 2023-01-20 |
 | [Never Gonna Give You Up](https://open.spotify.com/track/4cOdK2wGLETKBW3PvgPWqT) | [Rick Astley](https://open.spotify.com/artist/0gxyHStUsqpMadRV0Di1Qt) | [Whenever You Need Somebody](https://open.spotify.com/album/5Z9iiGl2FcIfa3BMiv6OIw) | 3:33 | 2023-05-08 |  |
+| [Never Let Me Down Again](https://open.spotify.com/track/0T57cTUpYpvSvZ3GowBuTP) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:47 | 2024-04-23 |  |
 | [Never Let Me Down Again \- 2006 Remaster](https://open.spotify.com/track/2H1BmB1b6Px9KJXIUpD03u) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(2006 Remaster\)](https://open.spotify.com/album/4tPRXghD4ago6NYyyfrtES) | 4:50 | 2022-05-27 | 2023-01-20 |
 | [Never Tear Us Apart](https://open.spotify.com/track/1qQSRy9DjrGh3jtsSCU6B1) | [INXS](https://open.spotify.com/artist/1eClJfHLoDI4rZe5HxzBFv) | [Kick](https://open.spotify.com/album/7cuwWzS0oiApEt2fpKafkX) | 3:05 | 2023-02-21 | 2023-06-15 |
 | [Never Too Much](https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 3:50 | 2022-05-27 |  |
@@ -142,6 +144,7 @@
 | [Open Arms](https://open.spotify.com/track/2w4EpqGasrz9qdTwocx54t) | [Journey](https://open.spotify.com/artist/0rvjqX7ttXeg3mTy8Xscbt) | [Escape \(Bonus Track Version\)](https://open.spotify.com/album/43wpzak9OmQfrjyksuGwp0) | 3:22 | 2023-01-19 |  |
 | [Paradise City](https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 6:45 | 2023-05-08 |  |
 | [Party All the Time](https://open.spotify.com/track/6N5DRCQUSXT1qQqmqsO92B) | [Eddie Murphy](https://open.spotify.com/artist/1Zq8pfBl4ejCMrWdeAdphc) | [How Could It Be](https://open.spotify.com/album/2ghvihRomDb37X59VK6hp5) | 4:13 | 2022-05-27 | 2023-01-20 |
+| [People Are People](https://open.spotify.com/track/4WoKuMjwJXuy9IqX6AH5JE) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Some Great Reward \(Deluxe\)](https://open.spotify.com/album/5wfikaEZXnQTXWBZ5osw9A) | 3:51 | 2024-04-23 |  |
 | [Poison](https://open.spotify.com/track/5XcZRgJv3zMhTqCyESjQrF) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [Trash](https://open.spotify.com/album/033cvSPAuSU5ArRfIgQSDU) | 4:30 | 2022-05-27 |  |
 | [Private Eyes](https://open.spotify.com/track/5HQ639Z3ms3hnZx0KfWnkp) | [Daryl Hall & John Oates](https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H) | [Private Eyes \(Expanded Edition\)](https://open.spotify.com/album/7rfpaXxmQG7dnFycZjLae0) | 3:37 | 2023-01-19 |  |
 | [Purple Rain](https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j) | [Purple Rain](https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc) | 8:40 | 2023-05-08 | 2023-06-15 |
@@ -164,6 +167,7 @@
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/1Hv1VTm8zeOeybub15mA2R) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best of Sade](https://open.spotify.com/album/3uSWaQxJAdm5MWKQkQJNoK) | 4:18 | 2023-01-19 |  |
 | [Smooth Operator \- Single Version](https://open.spotify.com/track/3XEtw7t4V5sfd2vtkp0ql7) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Best Of Sade](https://open.spotify.com/album/5eLHiRRgWKHtzEbQCew8pK) | 4:18 | 2022-05-27 | 2023-01-20 |
 | [Start Me Up \- Remastered 2009](https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Tattoo You \(2009 Re\-Mastered\)](https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ) | 3:33 | 2023-05-08 | 2023-06-15 |
+| [Strangelove](https://open.spotify.com/track/2dQd2qrFB5VtuUMp45G41p) | [Depeche Mode](https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX) | [Music for the Masses \(Deluxe\)](https://open.spotify.com/album/06we4RiGhODMsbAPWmogy2) | 4:54 | 2024-04-23 |  |
 | [Summer Of '69](https://open.spotify.com/track/0GONea6G2XdnHWjNZd6zt3) | [Bryan Adams](https://open.spotify.com/artist/3Z02hBLubJxuFJfhacLSDc) | [Reckless \(30th Anniversary / Deluxe Edition\)](https://open.spotify.com/album/2o2G49EPi4lua5zgxUKhLL) | 3:36 | 2023-05-08 |  |
 | [Sweet Child O' Mine](https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW) | [Guns N' Roses](https://open.spotify.com/artist/3qm84nBOXUEQ2vnTfUTTFC) | [Appetite For Destruction](https://open.spotify.com/album/28yHV3Gdg30AiB8h8em1eW) | 5:56 | 2023-05-08 |  |
 | [Sweet Dreams \(Are Made of This\) \- Remastered](https://open.spotify.com/track/1TfqLAPs4K3s2rJMoCokcS) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Sweet Dreams \(Are Made Of This\)](https://open.spotify.com/album/5jNDWA19BJbE24x1UUJGRY) | 3:36 | 2022-05-27 |  |

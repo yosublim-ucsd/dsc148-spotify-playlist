@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 
 ### [This Is The XCERTS](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4pXTlk)
 
-> This Is The XCERTS\. Los temas esenciales, todos en una lista.
+> This is The XCERTS\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569 likes - 38 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 568 likes - 38 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4pXTlk.md) - [plain]
 | 37 | [I Scare Easy](https://open.spotify.com/track/4X3bochi0tHmuob5vBWMlE) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 3:22 |
 | 38 | [Tar Ok](https://open.spotify.com/track/1u1jI9VL59hB2YrgdCYU3a) | [The XCERTS](https://open.spotify.com/artist/7sKlSlGo7d1D3dhFYKO0Y5) | [Scatterbrain](https://open.spotify.com/album/7qJcUjJEAzI5t3xdD496Ap) | 0:59 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDEyYmYwN2YyYThmMmNmN2EzMmJlMGVjMDhjYzRmNThi`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDcyOGFjYjBhYjEzMmY3OTNmOTNlMzFhNTljODc0NTkw`

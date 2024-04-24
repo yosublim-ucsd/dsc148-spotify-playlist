@@ -1,6 +1,6 @@
 {
   "description": "A collection of <a href=\"https://open.spotify.com/playlist/37i9dQZF1DX59ogDi1Z2XL?si=75c9bb9755f54283\">Northern Bars</a>\u2019 finest. Cover: Mindflip",
-  "num_followers": 11136,
+  "num_followers": 11148,
   "original_name": "Hip-Hop Rewind",
   "owner": {
     "name": "Spotify",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-04-17 16:28:51",
       "album": {
-        "name": "Flatline (feat. Kenny Mason)",
-        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
-      },
-      "artists": [
-        {
-          "name": "TOBi",
-          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
-        },
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 240080,
-      "name": "Flatline (feat. Kenny Mason)",
-      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
-    },
-    {
-      "added_at": "2024-04-17 16:28:51",
-      "album": {
         "name": "Window Shopping (feat. Lil Baby)",
         "url": "https://open.spotify.com/album/1ihYyrjsmkOCAYAMaHZv1J"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 160812,
       "name": "Window Shopping (feat. Lil Baby)",
       "url": "https://open.spotify.com/track/5RmUd1skWw9kMFlxPgfcYW"
+    },
+    {
+      "added_at": "2024-04-17 16:28:51",
+      "album": {
+        "name": "Flatline (feat. Kenny Mason)",
+        "url": "https://open.spotify.com/album/7D2GAnlKHnfquzGKHSZSTx"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        },
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 240080,
+      "name": "Flatline (feat. Kenny Mason)",
+      "url": "https://open.spotify.com/track/17wZ58uIxULAVELzhEURni"
     },
     {
       "added_at": "2024-04-17 16:28:51",
@@ -843,26 +843,6 @@
     {
       "added_at": "2024-04-17 16:28:51",
       "album": {
-        "name": "The Jungle",
-        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
-      },
-      "artists": [
-        {
-          "name": "Bandokay",
-          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
-        },
-        {
-          "name": "Pressa",
-          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
-        }
-      ],
-      "duration_ms": 167026,
-      "name": "The Jungle",
-      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
-    },
-    {
-      "added_at": "2024-04-17 16:28:51",
-      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/3IkBPsHdtfjTozntH3W9ek"
       },
@@ -879,6 +859,26 @@
       "duration_ms": 272052,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/2Ai10rvOZla3w0GZXuuFSp"
+    },
+    {
+      "added_at": "2024-04-17 16:28:51",
+      "album": {
+        "name": "The Jungle",
+        "url": "https://open.spotify.com/album/2Ao1lDSZ1N9JmkTaR9PuQF"
+      },
+      "artists": [
+        {
+          "name": "Bandokay",
+          "url": "https://open.spotify.com/artist/0CqfkYr7CBuSySa4wUBChE"
+        },
+        {
+          "name": "Pressa",
+          "url": "https://open.spotify.com/artist/5olrQpDroHT7sjmYWMLivy"
+        }
+      ],
+      "duration_ms": 167026,
+      "name": "The Jungle",
+      "url": "https://open.spotify.com/track/6bpsyayAnCZoPTjGt9Ifhw"
     },
     {
       "added_at": "2024-04-17 16:28:51",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-04-17 16:28:51",
       "album": {
+        "name": "Time & It's Order",
+        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
+      },
+      "artists": [
+        {
+          "name": "FRVRFRIDAY",
+          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
+        }
+      ],
+      "duration_ms": 135221,
+      "name": "Time & It's Order",
+      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
+    },
+    {
+      "added_at": "2024-04-17 16:28:51",
+      "album": {
         "name": "Flowers (feat. MAVI)",
         "url": "https://open.spotify.com/album/5BoyqCSSuqxD6ZXiVWnWaD"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 182201,
       "name": "Flowers (feat. MAVI)",
       "url": "https://open.spotify.com/track/2e8OPXNNk9onHe4pknBZhD"
-    },
-    {
-      "added_at": "2024-04-17 16:28:51",
-      "album": {
-        "name": "Time & It's Order",
-        "url": "https://open.spotify.com/album/5k0XSTYg5WgESO7PolSjkV"
-      },
-      "artists": [
-        {
-          "name": "FRVRFRIDAY",
-          "url": "https://open.spotify.com/artist/2jwmP4TgzTGqjCfcXMDayW"
-        }
-      ],
-      "duration_ms": 135221,
-      "name": "Time & It's Order",
-      "url": "https://open.spotify.com/track/6SCl4VK0Dq3jFe7U8D9k7D"
     },
     {
       "added_at": "2024-04-17 16:28:51",
@@ -1115,22 +1115,18 @@
     {
       "added_at": "2024-04-17 16:28:51",
       "album": {
-        "name": "BURN EVERYTHING",
-        "url": "https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow"
+        "name": "Save Yourself",
+        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
       },
       "artists": [
         {
-          "name": "Sean Leon",
-          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
-        },
-        {
-          "name": "Ye",
-          "url": "https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt"
+          "name": "LocoCity",
+          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
         }
       ],
-      "duration_ms": 169463,
-      "name": "BURN EVERYTHING",
-      "url": "https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj"
+      "duration_ms": 139213,
+      "name": "Job Done",
+      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
     },
     {
       "added_at": "2024-04-17 16:28:51",
@@ -1151,18 +1147,22 @@
     {
       "added_at": "2024-04-17 16:28:51",
       "album": {
-        "name": "Save Yourself",
-        "url": "https://open.spotify.com/album/3PTji8JGoC9hdONYRuZQPA"
+        "name": "BURN EVERYTHING",
+        "url": "https://open.spotify.com/album/5wb97Ic2ukhlspPZAC29ow"
       },
       "artists": [
         {
-          "name": "LocoCity",
-          "url": "https://open.spotify.com/artist/3F8zBQBtVl3lb2bEQHBFou"
+          "name": "Sean Leon",
+          "url": "https://open.spotify.com/artist/5dtbsNKCK6Q9yZzdhZpaqW"
+        },
+        {
+          "name": "Ye",
+          "url": "https://open.spotify.com/artist/7F8mOnK6NxES96O7SiGlLt"
         }
       ],
-      "duration_ms": 139213,
-      "name": "Job Done",
-      "url": "https://open.spotify.com/track/30TjGnttNF0xb14fZwf6pC"
+      "duration_ms": 169463,
+      "name": "BURN EVERYTHING",
+      "url": "https://open.spotify.com/track/3Bcphu5Gi1NdhMKAwx2yIj"
     },
     {
       "added_at": "2024-04-17 16:28:51",

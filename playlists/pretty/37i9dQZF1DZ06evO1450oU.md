@@ -28,4 +28,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1450oU.md) - [plain]
 | 18 | [Weathervane](https://open.spotify.com/track/3vf4tcRsnsQWT0T3EqXGrD) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Where Strangers Go](https://open.spotify.com/album/0MKJJDtTo9y0Dfmi7nJDpp) | 3:25 |
 | 19 | [INVU](https://open.spotify.com/track/6JJHorLRd92dlBaLsoDxOe) | [Salt Creek](https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y) | [Out of the Sky](https://open.spotify.com/album/6YQJd8IIyIs3MBBhvqNptM) | 2:55 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGJhMWJkOWU0MTU2NjcyMTJhZDhmODA5MWM0YWE1ZjA2`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGVlYzEyYTQ1OTcwNDg5NGZkZTRlYTIxNWNlODU5N2Nm`

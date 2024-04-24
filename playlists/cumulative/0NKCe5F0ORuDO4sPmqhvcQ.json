@@ -1123,6 +1123,36 @@
     },
     {
       "album": {
+        "name": "Best Regret",
+        "url": "https://open.spotify.com/album/7BloG8a18YU5QF4fyYjgF1"
+      },
+      "artists": [
+        {
+          "name": "moistbreezy",
+          "url": "https://open.spotify.com/artist/2MsEwFDbnOeYHEaIkJBBCi"
+        },
+        {
+          "name": "Briana Wolf",
+          "url": "https://open.spotify.com/artist/0KI9ED3fgA77tif1YSGvkL"
+        },
+        {
+          "name": "Kit Major",
+          "url": "https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap"
+        },
+        {
+          "name": "girl_irl",
+          "url": "https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165405,
+      "name": "Best Regret",
+      "url": "https://open.spotify.com/track/1UE3eJorfhsy2j3QBKraAp"
+    },
+    {
+      "album": {
         "name": "Better Now",
         "url": "https://open.spotify.com/album/5BYdygO5E12koFAocSZQvQ"
       },
@@ -3698,6 +3728,28 @@
       "duration_ms": 262447,
       "name": "Fall In",
       "url": "https://open.spotify.com/track/6uEy133no179YW6ulcmalc"
+    },
+    {
+      "album": {
+        "name": "Fallen Angel (feat. Nu-La)",
+        "url": "https://open.spotify.com/album/6A9JUPCcsIlQtBBX0meVjs"
+      },
+      "artists": [
+        {
+          "name": "Nu-La",
+          "url": "https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR"
+        },
+        {
+          "name": "Manila Killa",
+          "url": "https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194545,
+      "name": "FALLEN ANGEL",
+      "url": "https://open.spotify.com/track/7hnmOd4ZD2iJJiyxS30XsY"
     },
     {
       "album": {

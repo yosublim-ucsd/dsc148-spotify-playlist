@@ -2,9 +2,9 @@
 
 ### [Indie Korea \(인디 코리아\)](https://open.spotify.com/playlist/37i9dQZF1DXdTb8AG95jne)
 
-> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: dosii\(도시\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
+> Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: PARKJIWOO\(박지우\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-639 songs - 1 day 15 hr 8 min
+641 songs - 1 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2022-06-19 |
 | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/track/1qj9iKSLJ8MPHKcmn4B0YS) | [Kim Doeon](https://open.spotify.com/artist/0TGFTWpeT8b9vj6Fy7UaKg), [So!YoON!](https://open.spotify.com/artist/7H5EC2qaylGun66YeRrVHg) | [Fort \(feat\. So!YoON!\)](https://open.spotify.com/album/1jIH9KeCzSSnfge1KEtb45) | 3:12 | 2022-05-11 | 2022-05-18 |
 | [Fortune Teller \(feat\. Stella Jang\)](https://open.spotify.com/track/66216rH0JIcTsLCEDq2yeD) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [I'll see you when I see you](https://open.spotify.com/album/0Tg70L8Bneo43Ml3chP19k) | 2:47 | 2021-12-21 | 2022-07-27 |
+| [Fourth Crack](https://open.spotify.com/track/01u4yoR2vEjSin4b4e1zTd) | [PARKJIWOO](https://open.spotify.com/artist/0NuBvSQbbZW2NL9cwbnpER) | [Fourth Crack](https://open.spotify.com/album/20pw3sGEheWBU2wNpDb2DN) | 3:22 | 2024-04-23 |  |
 | [Free My Mind](https://open.spotify.com/track/2Mwy8p7paYnL2BvnFrQVxK) | [Lee Moon Sae](https://open.spotify.com/artist/2eVlgLy3Aym09gM3dqx6cq), [Gaeko](https://open.spotify.com/artist/0tkHE1pQ5ZCgQb8WZ0ba79) | [BETWEEN US](https://open.spotify.com/album/4ifUv7P3yDnid3OL9hYy89) | 4:15 | 2022-03-31 | 2022-04-21 |
 | [Free Up](https://open.spotify.com/track/3Fz1BLsoKFUeNqrwERbli8) | [YESEO](https://open.spotify.com/artist/3ZjoQ5yuRyPhZSIw5nCVBb) | [TRY FREE!](https://open.spotify.com/album/7JiodAhidw6DtlDpgwwdIp) | 2:59 | 2022-03-31 | 2022-04-17 |
 | [friend to lover](https://open.spotify.com/track/7un5FM27KmkEMpsPQ2T062) | [Standing Egg](https://open.spotify.com/artist/6a3Mfrn2XBR1DfPg1QGa1d) | [friend to lover](https://open.spotify.com/album/4bjDmQW2Vu2Br4RPCi12hr) | 3:07 | 2021-12-12 |  |
@@ -277,7 +278,7 @@
 | [Instant Lover](https://open.spotify.com/track/76NDJ0hAQ9i3r7WmF6gCJ4) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Instant Lover](https://open.spotify.com/album/5ejmTfFlUP6fuiBzm0RRLD) | 4:29 | 2021-12-21 | 2022-07-26 |
 | [Intentions](https://open.spotify.com/track/2TVS9pryzolWkSwPDp6yRe) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [yuenn](https://open.spotify.com/artist/1BhO0A1mRlN1f4XxG1ugU4) | [Intentions](https://open.spotify.com/album/7CfKlyjdwKrliAU59i1eNC) | 3:05 | 2022-03-31 | 2022-07-26 |
 | [isle](https://open.spotify.com/track/77yv6fASf9WOxyPm3qqyMc) | [pigfrog](https://open.spotify.com/artist/37sRcX6lbXm3LbG8IHPTkB) | [pigfrog](https://open.spotify.com/album/2BtpxA0g6PcyMzg30T7c0Z) | 3:21 | 2021-12-21 | 2022-07-28 |
-| [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2021-12-21 |  |
+| [Islet](https://open.spotify.com/track/1FsPpscUq0qFD9d8lM5FvR) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [Islet](https://open.spotify.com/album/3UEl0ZAaAM5OWosC1NqZjB) | 3:01 | 2021-12-21 | 2024-04-24 |
 | [It's Alright](https://open.spotify.com/track/00vVtTOe1npIhSPDdnA0MY) | [Kang e\-rae](https://open.spotify.com/artist/5gp9GOtIksrarktqtDUOla) | [It's Alright](https://open.spotify.com/album/25lujKqHjleqhEQaZBXHv4) | 3:48 | 2022-03-31 | 2022-04-22 |
 | [It's Beautiful Digging Club Seoul Version](https://open.spotify.com/track/6jMhNF4hbbB8zr7ugpksLe) | [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [Onstage Digging Club Seoul Pt\. 3](https://open.spotify.com/album/1wODyT1p1d1XjvwMqIChsM) | 3:54 | 2022-03-31 | 2022-04-21 |
 | [It's Raining](https://open.spotify.com/track/33pFdhZM3hNMTq6QPJf1Mu) | [Sunwoojunga](https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW) | [\[Vol.24\] You Hee yul's Sketchbook 10th Anniversary Project : 11th Voice 'Sketchbook X Sunwoojunga'](https://open.spotify.com/album/0ZJew5maK3dTxEqdBlOFgw) | 5:19 | 2021-12-21 | 2022-07-06 |
@@ -409,6 +410,7 @@
 | [Paradise](https://open.spotify.com/track/0ZzJjFumxMbb2T1f6KA0np) | [Woo Ye Rin](https://open.spotify.com/artist/4fwMfZcOMGXSgZvw5F28UL) | [Paradise](https://open.spotify.com/album/6xOGLpPsVSAkNAM8GYjl6Q) | 3:57 | 2021-12-12 | 2022-06-19 |
 | [Parallel Lines \(Parallel\)](https://open.spotify.com/track/5vowZu66SSMjdN3oGbYCJ3) | [BOY.D](https://open.spotify.com/artist/2pX5CBngRO41WQHHimZ7sf) | [Parallel Lines \(Parallel\)](https://open.spotify.com/album/3VvrRLoPYLGtZIRReUsKhT) | 4:09 | 2022-03-31 | 2022-04-19 |
 | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/track/5Os2F2MbUv9eJcb7jxHmFD) | [dress](https://open.spotify.com/artist/72b1XZ6SmDRgHEOB7ypw9z), [Meego](https://open.spotify.com/artist/1a09srXkFLTxDTfQRGRpNy), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Parents \(Feat\. Kid Milli\)](https://open.spotify.com/album/01HcaVOVBDK2gCXqPr4hGj) | 4:04 | 2022-03-31 | 2022-04-16 |
+| [Pasadena](https://open.spotify.com/track/36P3PbOaXo4uiv0CIDcTg2) | [92914](https://open.spotify.com/artist/0Zoe6ljAJo85rggnN6OaOF) | [Pasadena](https://open.spotify.com/album/2xa1TuBl9eiUkHCIh3C0JG) | 2:43 | 2024-04-23 |  |
 | [People sometimes want me to fail](https://open.spotify.com/track/5jHcrQa9lC3CMot6CjQghX) | [2apartment](https://open.spotify.com/artist/3eAafmKFLEYAq6y9ZrWXtS) | [People sometimes want me to fail](https://open.spotify.com/album/5dx9WZvhhxNQzCJohO2os3) | 3:19 | 2022-03-31 | 2022-04-02 |
 | [Perfect](https://open.spotify.com/track/5fI0JERjR9jDo8JFLS2KyI) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [Love Playlist3 Part.1](https://open.spotify.com/album/7v83AxfLka9IiTGEv4d9DI) | 3:57 | 2022-03-31 |  |
 | [Pet 펫](https://open.spotify.com/track/1ttJj42WLsNEol2TTPvpUQ) | [Jaejoo Boys](https://open.spotify.com/artist/6Z41VjRzi0cKNZAVp5u7VZ) | [Pet 펫](https://open.spotify.com/album/0SUf4GLpQIegjQI8aXV40F) | 3:57 | 2022-03-31 | 2022-04-11 |
@@ -547,7 +549,7 @@
 | [To Him](https://open.spotify.com/track/2WH59CCJ7KMVRIRyG7za66) | [e\_so](https://open.spotify.com/artist/1KsLHf4SObKZZUWrENllYL) | [To Him](https://open.spotify.com/album/55TJJh7LpVS3XFPO62vh1F) | 4:06 | 2022-04-12 | 2022-04-14 |
 | [To My Friend](https://open.spotify.com/track/3v7xLuhQtnm74cJBASJ9eZ) | [Lee MinHyuk](https://open.spotify.com/artist/2KbxyNY5Dt6CJ6FBLcWfkH) | [Asteroid](https://open.spotify.com/album/5geu7QO5MtvQHbN8ohLjNj) | 3:30 | 2022-03-31 | 2022-04-19 |
 | [Today's Mood](https://open.spotify.com/track/4v1WbXCkegXLnHTXPe7yzx) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [I can't tell you everything](https://open.spotify.com/album/19cnTIC9Q9V5YykBCRxvOL) | 3:45 | 2021-12-21 |  |
-| [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 |  |
+| [tokki](https://open.spotify.com/track/2865p4BUG6BH7v5WIjfGWN) | [CIKI](https://open.spotify.com/artist/39EEmUKhvMcVn8icCyQlg5) | [tokki](https://open.spotify.com/album/73CjMy4n5mnulB7w3PFXI0) | 3:30 | 2023-02-14 | 2024-04-24 |
 | [Treat You Right 사랑해줄래](https://open.spotify.com/track/4czJNPeQ4afZ00Vf779e2b) | [LambC](https://open.spotify.com/artist/0BpbTGO68X4wV2aLBzjnhL) | [Treat You Right 사랑해줄래](https://open.spotify.com/album/2InpzXMQUzTPoMFK1bIKN7) | 3:25 | 2022-03-31 | 2022-04-29 |
 | [Tree \(Feat\. Eily\)](https://open.spotify.com/track/09M5Yrj4L4wnJsB2A57kiB) | [lofi](https://open.spotify.com/artist/6AQ46ZELHFOGM8YAVjMmT9), [Eily](https://open.spotify.com/artist/6mkDOz32DQrnbO6uwCLSdD) | [Tree](https://open.spotify.com/album/7K8YzXvTz5vOfLiRmgqH9J) | 3:43 | 2021-12-21 | 2022-07-24 |
 | [Tryin' to forget you](https://open.spotify.com/track/3WligRZmcEPhsWT7iZClsH) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ), [Double4Nine](https://open.spotify.com/artist/6aKJuORK8GKMuFt5aK9bQB) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:39 | 2022-03-31 | 2022-04-10 |

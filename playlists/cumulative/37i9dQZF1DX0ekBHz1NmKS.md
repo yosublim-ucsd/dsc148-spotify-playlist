@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,195 songs - 2 day 14 hr 38 min
+1,196 songs - 2 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -710,7 +710,7 @@
 | [My Friends](https://open.spotify.com/track/5G4xG632nZ9b3l9L4eI1hK) | [Nadja Kasanesh](https://open.spotify.com/artist/11VSQqCvMHu2UNkfyuIoXa) | [My Friends](https://open.spotify.com/album/0sgJCD4bUVQi7cbTb0jWUQ) | 2:57 | 2022-04-07 | 2022-05-08 |
 | [My Love](https://open.spotify.com/track/7z1w4IrnedvSTn5GZ2P5qm) | [Ess Bogale](https://open.spotify.com/artist/0iR8N3LhYx9AqADZL9RKd7) | [My Love](https://open.spotify.com/album/3BntMcd0jqbsXgRfseNuAy) | 2:49 | 2022-03-24 | 2022-04-19 |
 | [My Name](https://open.spotify.com/track/382xlBIkKxzIhpOobszUCE) | [Peg Parnevik](https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6) | [My Name](https://open.spotify.com/album/5yqYKtzpJhpsqN1666cQXt) | 2:14 | 2021-12-16 | 2022-05-13 |
-| [Mycket bättre](https://open.spotify.com/track/3eCfXw6wt5ejoEt4sBrv9C) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Mycket bättre](https://open.spotify.com/album/3FowZl9TscFdAmRsUfdTI7) | 2:39 | 2024-04-18 |  |
+| [Mycket bättre](https://open.spotify.com/track/3eCfXw6wt5ejoEt4sBrv9C) | [Nano](https://open.spotify.com/artist/48Z0MG7G6UQeWYibHpXgQe) | [Mycket bättre](https://open.spotify.com/album/3FowZl9TscFdAmRsUfdTI7) | 2:39 | 2024-04-18 | 2024-04-24 |
 | [Måndagsbarn \- Spotify Singles](https://open.spotify.com/track/6sLEtc4bWznxS0ERA6lt1k) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [Måndagsbarn \(Spotify Singles\)](https://open.spotify.com/album/19WGMtXFnntmUQvqfAdmPC) | 3:00 | 2023-04-27 | 2023-10-20 |
 | [Mår du bra mår jag också bra \(feat\. Linnea Henriksson\)](https://open.spotify.com/track/6dSx3eK7i0WBrG8MpUANKA) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [Linnea Henriksson](https://open.spotify.com/artist/3IsULVZIf4iGp9ExB7yJVq) | [Mår du bra mår jag också bra \(feat\. Linnea Henriksson\)](https://open.spotify.com/album/7dIy44DA7Fj9jGiYmCN0MZ) | 2:39 | 2024-03-21 |  |
 | [Mörkret är min bästa vän](https://open.spotify.com/track/2AWSgJKK0gthr6PtDltE9M) | [Lancelot](https://open.spotify.com/artist/4GUTpgvf1FMbkI9SIv3Tap) | [Konsten att fly](https://open.spotify.com/album/6px7zvuCY3QhjzbD15W8bt) | 3:23 | 2023-10-05 | 2024-01-19 |
@@ -895,6 +895,7 @@
 | [Siri](https://open.spotify.com/track/6TpiEC8TyqjUqhX29msNFB) | [Maxida Märak](https://open.spotify.com/artist/3FfnFeTonanbog4rEvYXns) | [Siri](https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8) | 4:03 | 2023-11-16 | 2024-02-09 |
 | [Sista gången](https://open.spotify.com/track/6VEHZjdc9WLeyJjTBN3Lzm) | [råsa](https://open.spotify.com/artist/7xt4XwzlemR8yD2e3M26Wj) | [Sista gången](https://open.spotify.com/album/7oGmIcZOWuH4BYfyh8F7Wz) | 3:00 | 2021-12-16 | 2022-03-11 |
 | [Sjunde himlen](https://open.spotify.com/track/3aYYlA41rjSIhKjGjRU21S) | [Lellow](https://open.spotify.com/artist/2pKGHbm0UKKTMOaiMMGtPM), [NEZS](https://open.spotify.com/artist/6GERmAfI3ernnroEuU4Nt4) | [Sjunde himlen](https://open.spotify.com/album/5al1GAzVu91SnMa7Q2KaiX) | 2:19 | 2024-01-18 | 2024-03-15 |
+| [Sjung om](https://open.spotify.com/track/4pKUmlSbhRAuPXp9PSsvB9) | [Strobaek](https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp) | [Sjung om](https://open.spotify.com/album/0UIqHlwrA85a3f5Ypm7vAe) | 3:28 | 2024-04-19 |  |
 | [Ska det räcka](https://open.spotify.com/track/570r4eJskCF4cas9ryRgxx) | [Ambivalensen](https://open.spotify.com/artist/0ZF9JhwucCz0sMbxOGVa4Z) | [Ska det räcka](https://open.spotify.com/album/5vhWhP7gNCzmI7PdbAVI6j) | 3:55 | 2024-01-25 | 2024-02-04 |
 | [Ska du lämna mig då?](https://open.spotify.com/track/1giGdrvlrnqHPcrKlspCNe) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf) | [Ska du lämna mig då?](https://open.spotify.com/album/1u6UY7O7n3IVkFzderccjs) | 3:17 | 2023-12-14 | 2024-01-28 |
 | [Ska du lämna mig då?](https://open.spotify.com/track/26iVzcvsJyJ15KKNRfDlu0) | [Byz](https://open.spotify.com/artist/4edQilKMzaQG7GzgAMJDbf) | [Ska du lämna mig då?](https://open.spotify.com/album/3edS2wI7RLMseIqLtc8HSt) | 3:17 | 2024-02-08 | 2024-02-23 |

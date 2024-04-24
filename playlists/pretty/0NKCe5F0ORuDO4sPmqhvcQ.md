@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,773 likes - 124 songs - 7 hr 0 min
+[Moving Castle](https://open.spotify.com/user/moving-castle) - 20,768 likes - 126 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,5 +132,7 @@ pretty - [cumulative](/playlists/cumulative/0NKCe5F0ORuDO4sPmqhvcQ.md) - [plain]
 | 122 | [Throw It Back](https://open.spotify.com/track/6mjAMJjMb5FUvRFOyBLeKv) | [4B](https://open.spotify.com/artist/0LIl9fjMPEZp8UDiL8Yuo4), [Viperactive](https://open.spotify.com/artist/7HeSEuZA4D7EtdygBjCbi9) | [Throw It Back](https://open.spotify.com/album/3eKEOVPOf9zuTO66tszH9x) | 2:20 |
 | 123 | [The Song of You](https://open.spotify.com/track/7iWx1V2BqnNdRyO4ZsN0D1) | [Golden Vessel](https://open.spotify.com/artist/6bJCrLZcvsBMzve04BmgwS), [Headaches](https://open.spotify.com/artist/385XMCKUEnTVlM7UVFRLHl) | [The Song of You](https://open.spotify.com/album/4NUKgm26zPv5N4VKz266gR) | 2:10 |
 | 124 | [Tear Me Down](https://open.spotify.com/track/290iL1wFwGAWJC6IREJgXQ) | [k?d](https://open.spotify.com/artist/714O3xvBNiclo82vxBn8Bf) | [Tear Me Down](https://open.spotify.com/album/6EWDO4bXbu0d42rmm4ohGW) | 3:05 |
+| 125 | [FALLEN ANGEL](https://open.spotify.com/track/7hnmOd4ZD2iJJiyxS30XsY) | [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Fallen Angel \(feat\. Nu\-La\)](https://open.spotify.com/album/6A9JUPCcsIlQtBBX0meVjs) | 3:14 |
+| 126 | [Best Regret](https://open.spotify.com/track/1UE3eJorfhsy2j3QBKraAp) | [moistbreezy](https://open.spotify.com/artist/2MsEwFDbnOeYHEaIkJBBCi), [Briana Wolf](https://open.spotify.com/artist/0KI9ED3fgA77tif1YSGvkL), [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Best Regret](https://open.spotify.com/album/7BloG8a18YU5QF4fyYjgF1) | 2:45 |
 
-Snapshot ID: `MTA2ODYsNDIwY2JiMTc1NWU0MGVkNWY3YzhjY2ZlNGEwZWIxNzZlZmI2ZGQ4MA==`
+Snapshot ID: `MTA2ODgsZDllZTVlZDBkODFjOGY4N2JkMWIzNWY0YWYzNWY1NGU2M2U2NDI2NQ==`

@@ -1,6 +1,6 @@
 {
   "description": "Beats with a flavour of Jazz. Cover: Blue Lab Beats",
-  "num_followers": 49341,
+  "num_followers": 49433,
   "original_name": "Jazzy Beats",
   "owner": {
     "name": "Spotify",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "folding edges",
-        "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
-      },
-      "artists": [
-        {
-          "name": "betahost",
-          "url": "https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W"
-        }
-      ],
-      "duration_ms": 141882,
-      "name": "folding edges",
-      "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Routes To Knowledge",
         "url": "https://open.spotify.com/album/3dfHOUwl0BfRzbl1Z1IuBl"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 177201,
       "name": "Routes To Knowledge",
       "url": "https://open.spotify.com/track/6tlLhNrTfEMShuT44YypyN"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "folding edges",
+        "url": "https://open.spotify.com/album/0LrIgQ8ru1dhWY00oPms5p"
+      },
+      "artists": [
+        {
+          "name": "betahost",
+          "url": "https://open.spotify.com/artist/1vGlmIKLKgaYfgAcSKhd4W"
+        }
+      ],
+      "duration_ms": 141882,
+      "name": "folding edges",
+      "url": "https://open.spotify.com/track/5n5y0n7equo0sYNbjN6kg4"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "OLDRICH",
-        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
-      },
-      "artists": [
-        {
-          "name": "Tamotsu LeftGroove",
-          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
-        }
-      ],
-      "duration_ms": 141020,
-      "name": "OLDRICH",
-      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Beginner's Mind",
         "url": "https://open.spotify.com/album/4BzI2Xv2bWiHpgnmefZBMb"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 346000,
       "name": "Bitter Suite",
       "url": "https://open.spotify.com/track/7GXxdVV5Tbel46PBO7YKES"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "OLDRICH",
+        "url": "https://open.spotify.com/album/74LtG7zlykNAZ9O5B8AlBl"
+      },
+      "artists": [
+        {
+          "name": "Tamotsu LeftGroove",
+          "url": "https://open.spotify.com/artist/5M46qXuGk8gGVaGhZ2hVDx"
+        }
+      ],
+      "duration_ms": 141020,
+      "name": "OLDRICH",
+      "url": "https://open.spotify.com/track/7qeKWyg3a01pG6NeppeuUx"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -811,26 +811,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq"
-      },
-      "artists": [
-        {
-          "name": "Paul Grant",
-          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
-        },
-        {
-          "name": "Chris Keys",
-          "url": "https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Sapphire",
         "url": "https://open.spotify.com/album/3l1BpaDK1dFnKJZ2m5ypDC"
       },
@@ -847,6 +827,26 @@
       "duration_ms": 144026,
       "name": "Sapphire",
       "url": "https://open.spotify.com/track/4EZmaOxulwwYXoDTIjRUTl"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/24btn0dNAQauTIEK9sGQGq"
+      },
+      "artists": [
+        {
+          "name": "Paul Grant",
+          "url": "https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl"
+        },
+        {
+          "name": "Chris Keys",
+          "url": "https://open.spotify.com/artist/4Reen2gOVFXG3PIVMiq9ur"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/5mCtECEiN0CmjDDUB450KR"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1023,26 +1023,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Poolday",
-        "url": "https://open.spotify.com/album/0CWEHEdbxMu2w92XiE93xq"
+        "name": "Better Worlds",
+        "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
       },
       "artists": [
         {
-          "name": "Tom Doolie",
-          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
         },
         {
-          "name": "Burrito Eats",
-          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
-        },
-        {
-          "name": "miamore",
-          "url": "https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB"
+          "name": "Kissamil\u00e9",
+          "url": "https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR"
         }
       ],
-      "duration_ms": 130449,
-      "name": "Poolday",
-      "url": "https://open.spotify.com/track/7vtfIwFyzFSFvjUjHbEQoG"
+      "duration_ms": 181333,
+      "name": "Better Worlds",
+      "url": "https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1063,22 +1059,26 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Better Worlds",
-        "url": "https://open.spotify.com/album/1f0IRafmVNgjl27cGRA4lC"
+        "name": "Poolday",
+        "url": "https://open.spotify.com/album/0CWEHEdbxMu2w92XiE93xq"
       },
       "artists": [
         {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+          "name": "Tom Doolie",
+          "url": "https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i"
         },
         {
-          "name": "Kissamil\u00e9",
-          "url": "https://open.spotify.com/artist/7darGNapWiX3YbwJXwl0hR"
+          "name": "Burrito Eats",
+          "url": "https://open.spotify.com/artist/1htKvrPWdVTogycYChaLVT"
+        },
+        {
+          "name": "miamore",
+          "url": "https://open.spotify.com/artist/23sH6BNUvKukpazBNr5HqB"
         }
       ],
-      "duration_ms": 181333,
-      "name": "Better Worlds",
-      "url": "https://open.spotify.com/track/1QUykTReTicU0CXhHPm9Y0"
+      "duration_ms": 130449,
+      "name": "Poolday",
+      "url": "https://open.spotify.com/track/7vtfIwFyzFSFvjUjHbEQoG"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Remote Planet",
+        "url": "https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R"
+      },
+      "artists": [
+        {
+          "name": "Matt Wilde",
+          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Remote Planet",
+      "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "KARPEH",
         "url": "https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF"
       },
@@ -1263,18 +1279,18 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Remote Planet",
-        "url": "https://open.spotify.com/album/2haESr4vtT5qJnJlucCk1R"
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
       },
       "artists": [
         {
-          "name": "Matt Wilde",
-          "url": "https://open.spotify.com/artist/3zcRSyyzkg8qI2WPvXLaek"
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Remote Planet",
-      "url": "https://open.spotify.com/track/4smyrNQADEnjkGPq63Mhqo"
+      "duration_ms": 158117,
+      "name": "Je Pense A Toi",
+      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1295,22 +1311,6 @@
       "duration_ms": 148556,
       "name": "Discovery at the Beach",
       "url": "https://open.spotify.com/track/0qAjgijsYT17O88SbesPEo"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        }
-      ],
-      "duration_ms": 158117,
-      "name": "Je Pense A Toi",
-      "url": "https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1379,58 +1379,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Deciphering The Message",
-        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
-      },
-      "artists": [
-        {
-          "name": "Makaya McCraven",
-          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
-        }
-      ],
-      "duration_ms": 197373,
-      "name": "C.F.D.",
-      "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Realm of Ideas",
-        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
-      },
-      "artists": [
-        {
-          "name": "High John",
-          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
-        },
-        {
-          "name": "Sandro S\u00e1ez",
-          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Minding My Business",
-      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Is This Jazz?",
-        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
-      },
-      "artists": [
-        {
-          "name": "Otis McDonald",
-          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
-        }
-      ],
-      "duration_ms": 181855,
-      "name": "Is This Jazz?",
-      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "The Betrayal",
         "url": "https://open.spotify.com/album/77UysfbnlDD2AIoeFABimZ"
       },
@@ -1455,6 +1403,58 @@
       "duration_ms": 117746,
       "name": "Croydon Smash",
       "url": "https://open.spotify.com/track/3ArFJR37rzbtmyqypgQN0m"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Realm of Ideas",
+        "url": "https://open.spotify.com/album/4pVmtV0zKvpv0yhneUtdj1"
+      },
+      "artists": [
+        {
+          "name": "High John",
+          "url": "https://open.spotify.com/artist/6pxhj7jWxb2vzhFNyUpV80"
+        },
+        {
+          "name": "Sandro S\u00e1ez",
+          "url": "https://open.spotify.com/artist/71P7tytRaoKRwY1Rx2tvKO"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Minding My Business",
+      "url": "https://open.spotify.com/track/3NaH4hu4TzPWn2C6NFNL4q"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Deciphering The Message",
+        "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
+      },
+      "artists": [
+        {
+          "name": "Makaya McCraven",
+          "url": "https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa"
+        }
+      ],
+      "duration_ms": 197373,
+      "name": "C.F.D.",
+      "url": "https://open.spotify.com/track/3vitE6XRGDP8SdoDwu40Ty"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Is This Jazz?",
+        "url": "https://open.spotify.com/album/53vRGLHsQWtBqHLe1CfkM8"
+      },
+      "artists": [
+        {
+          "name": "Otis McDonald",
+          "url": "https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T"
+        }
+      ],
+      "duration_ms": 181855,
+      "name": "Is This Jazz?",
+      "url": "https://open.spotify.com/track/5TJuM3PlBezT2tcTziwhcT"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1699,22 +1699,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Wonderment",
-        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
-      },
-      "artists": [
-        {
-          "name": "Jonny Tobin",
-          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Wonderment",
-      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Chris Holm \u00b7 \u00d8yvind Blomstr\u00f8m \u00b7 Kim \u00c5ge Furuhaug",
         "url": "https://open.spotify.com/album/42JZYmmcsuoEXqf3FleBGo"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 340000,
       "name": "Langeland Frukt & Tobakk",
       "url": "https://open.spotify.com/track/0s7UF7Hx8q9scbkcCDOLZT"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Wonderment",
+        "url": "https://open.spotify.com/album/33BNvmKLpLEMl8FjetvtCs"
+      },
+      "artists": [
+        {
+          "name": "Jonny Tobin",
+          "url": "https://open.spotify.com/artist/5obWvG0ikceXOD0a45DSHO"
+        }
+      ],
+      "duration_ms": 199500,
+      "name": "Wonderment",
+      "url": "https://open.spotify.com/track/26kYnw6WLvGp7Ra74JITZH"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -1919,6 +1919,22 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
+        "name": "Royal Sessions",
+        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
+      },
+      "artists": [
+        {
+          "name": "loophole",
+          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
+        }
+      ],
+      "duration_ms": 315910,
+      "name": "Icebreaker",
+      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
         "name": "delaye",
         "url": "https://open.spotify.com/album/0mtkx7GqWodAyKHDMpDoMK"
       },
@@ -1951,22 +1967,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Royal Sessions",
-        "url": "https://open.spotify.com/album/1FiFvkqqv0RoX5lEEEHSr6"
-      },
-      "artists": [
-        {
-          "name": "loophole",
-          "url": "https://open.spotify.com/artist/6d6FPb70570apTFpsJkCPE"
-        }
-      ],
-      "duration_ms": 315910,
-      "name": "Icebreaker",
-      "url": "https://open.spotify.com/track/4mhFjlGiPelgsMvD6ChKKR"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Deciphering The Message",
         "url": "https://open.spotify.com/album/3yrDdyKK5WdYFAHUNmradZ"
       },
@@ -1979,22 +1979,6 @@
       "duration_ms": 228413,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/5PAQ2JpAOHW8q7u17qqh58"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "The Changing Tides of Dreams",
-        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
-      },
-      "artists": [
-        {
-          "name": "SHOLTO",
-          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
-        }
-      ],
-      "duration_ms": 181761,
-      "name": "The Pleasure Principle",
-      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -2015,6 +1999,42 @@
       "duration_ms": 209973,
       "name": "Palmers - Alfa Mist Remix",
       "url": "https://open.spotify.com/track/2YQL42b8wokw9j0Ty8rsmT"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "The Changing Tides of Dreams",
+        "url": "https://open.spotify.com/album/2eeg6bbrUX1NWJRix0wi4I"
+      },
+      "artists": [
+        {
+          "name": "SHOLTO",
+          "url": "https://open.spotify.com/artist/7ExeVJhe1xFgmfbrag2v0u"
+        }
+      ],
+      "duration_ms": 181761,
+      "name": "The Pleasure Principle",
+      "url": "https://open.spotify.com/track/4BT2EgvDvzQUki9ixfqQls"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Post Koma",
+        "url": "https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh"
+      },
+      "artists": [
+        {
+          "name": "Koma Saxo",
+          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
+        },
+        {
+          "name": "Petter Eldh",
+          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
+        }
+      ],
+      "duration_ms": 98173,
+      "name": "Koma",
+      "url": "https://open.spotify.com/track/58GkabYcH4AIf4Mb6IuyQL"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -2051,26 +2071,6 @@
       "duration_ms": 356146,
       "name": "Pinecone (feat. Joe Webb)",
       "url": "https://open.spotify.com/track/4VGut8AX4LO2dWv4YbN6VS"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
-        "name": "Post Koma",
-        "url": "https://open.spotify.com/album/0Kg10FOiXQVIsBAoMRhzLh"
-      },
-      "artists": [
-        {
-          "name": "Koma Saxo",
-          "url": "https://open.spotify.com/artist/28Ua0GwMz73dcNeUZIXDq8"
-        },
-        {
-          "name": "Petter Eldh",
-          "url": "https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx"
-        }
-      ],
-      "duration_ms": 98173,
-      "name": "Koma",
-      "url": "https://open.spotify.com/track/58GkabYcH4AIf4Mb6IuyQL"
     },
     {
       "added_at": "2024-03-20 12:30:49",
@@ -2155,22 +2155,6 @@
     {
       "added_at": "2024-03-20 12:30:49",
       "album": {
-        "name": "Be Water / You Can Fly",
-        "url": "https://open.spotify.com/album/68TYTxBLueBYiXeV5XNQur"
-      },
-      "artists": [
-        {
-          "name": "Klaus Layer",
-          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
-        }
-      ],
-      "duration_ms": 80875,
-      "name": "Be Water",
-      "url": "https://open.spotify.com/track/1FaBri7R5R5g3yIvjuMKXa"
-    },
-    {
-      "added_at": "2024-03-20 12:30:49",
-      "album": {
         "name": "Elsewhere",
         "url": "https://open.spotify.com/album/42B90GVqHsrQNOZYOHGOew"
       },
@@ -2183,6 +2167,22 @@
       "duration_ms": 183395,
       "name": "Everything We Don't Say",
       "url": "https://open.spotify.com/track/2WpL9ffTMRAafYzdjJ473x"
+    },
+    {
+      "added_at": "2024-03-20 12:30:49",
+      "album": {
+        "name": "Be Water / You Can Fly",
+        "url": "https://open.spotify.com/album/68TYTxBLueBYiXeV5XNQur"
+      },
+      "artists": [
+        {
+          "name": "Klaus Layer",
+          "url": "https://open.spotify.com/artist/0qU9C0toB3cUdPP8NMZl9x"
+        }
+      ],
+      "duration_ms": 80875,
+      "name": "Be Water",
+      "url": "https://open.spotify.com/track/1FaBri7R5R5g3yIvjuMKXa"
     },
     {
       "added_at": "2024-03-20 12:30:49",

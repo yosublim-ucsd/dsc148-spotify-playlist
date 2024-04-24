@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 
 ### [This Is Dharius](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Bunfq)
 
-> This Is Dharius\. Los temas esenciales, todos en una lista.
+> This is Dharius\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,193 likes - 46 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,267 likes - 46 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,4 +55,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Bunfq.md) - [plain]
 | 45 | [Mala Vibra](https://open.spotify.com/track/5iP4QSHomTFVp1GFA80KfQ) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Mala Fama, Buena Vidha](https://open.spotify.com/album/6HDPRXDl3Vsj8ksZyfpP5V) | 3:46 |
 | 46 | [El After Porky](https://open.spotify.com/track/0floU1nPyzIRi2QaEvm4Bu) | [Dharius](https://open.spotify.com/artist/66RfYVdftqnuHRicyClgL0) | [Directo Hasta Arriba](https://open.spotify.com/album/15StyDArmT6s2A3zaiI552) | 3:43 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDU0ZTRiNmM4ZjIyNTQxZjdiNmFmZGI2NTExOThiNzdl`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDBiNGNjNTNlNGYxMDEwODMxOGRhODQzYmU1MTU4NzBl`

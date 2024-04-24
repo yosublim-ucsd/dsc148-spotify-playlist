@@ -1,6 +1,6 @@
 {
   "description": "Ideale muziek voor de werkdag ",
-  "num_followers": 37964,
+  "num_followers": 38024,
   "original_name": "Werkdag FM",
   "owner": {
     "name": "Spotify",
@@ -659,6 +659,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Be More",
+        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
+      },
+      "artists": [
+        {
+          "name": "Stephen Sanchez",
+          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
+        }
+      ],
+      "duration_ms": 231684,
+      "name": "Be More",
+      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Space in My Heart",
         "url": "https://open.spotify.com/album/7CATUcNzHCmx3vsOETqKM9"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 178849,
       "name": "Space in My Heart",
       "url": "https://open.spotify.com/track/4vMI6s3uwWcxcAqVoXkATn"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Be More",
-        "url": "https://open.spotify.com/album/3td8YUGhx5odYjMPV7HPNF"
-      },
-      "artists": [
-        {
-          "name": "Stephen Sanchez",
-          "url": "https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT"
-        }
-      ],
-      "duration_ms": 231684,
-      "name": "Be More",
-      "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -919,6 +919,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "All This Bad Blood",
+        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 196346,
+      "name": "Oblivion",
+      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Catch & Release (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7dyBP3v1TAckCmUUbxpdt4"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 196198,
       "name": "Catch & Release - Deepend Remix",
       "url": "https://open.spotify.com/track/2OpEZpU0wW1spa6dBl0nK4"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "All This Bad Blood",
-        "url": "https://open.spotify.com/album/5G6oMu9zNW2acdV0lqzI3L"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "Oblivion",
-      "url": "https://open.spotify.com/track/3IvSKBO9Fu4yEWRPXvfrLU"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1147,6 +1147,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "These Tears",
+        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
+      },
+      "artists": [
+        {
+          "name": "Andy Grammer",
+          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
+        }
+      ],
+      "duration_ms": 169656,
+      "name": "These Tears",
+      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Hurts 2B Human",
         "url": "https://open.spotify.com/album/6JKkXVEljQJ1wKbRG5MywC"
       },
@@ -1163,22 +1179,6 @@
       "duration_ms": 188120,
       "name": "Love Me Anyway (feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/0pwdJLLVxlJa1lnR9UeMZY"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "These Tears",
-        "url": "https://open.spotify.com/album/60fN3YpVgSWbGeJ1REe2zO"
-      },
-      "artists": [
-        {
-          "name": "Andy Grammer",
-          "url": "https://open.spotify.com/artist/2oX42qP5ineK3hrhBECLmj"
-        }
-      ],
-      "duration_ms": 169656,
-      "name": "These Tears",
-      "url": "https://open.spotify.com/track/1Nt4hDwC9bGT8P9NU5TuFX"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1247,22 +1247,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Rainbow Valley",
-        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 262257,
-      "name": "Miracle Love",
-      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Seventeen Going Under (Acoustic)",
         "url": "https://open.spotify.com/album/1fjmi1ythcL9bx9rhaGEYy"
       },
@@ -1279,6 +1263,22 @@
       "duration_ms": 270840,
       "name": "Seventeen Going Under - Acoustic",
       "url": "https://open.spotify.com/track/1vXmhTcKkv7Kck2gBap1fz"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Rainbow Valley",
+        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 262257,
+      "name": "Miracle Love",
+      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "We're All Going Home",
+        "url": "https://open.spotify.com/album/5zZjrDAnqhbeslF6OCGqE7"
+      },
+      "artists": [
+        {
+          "name": "The Wanderer ",
+          "url": "https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK"
+        }
+      ],
+      "duration_ms": 184746,
+      "name": "We're All Going Home",
+      "url": "https://open.spotify.com/track/5cXq69EbEhTaWE7lUTOwsK"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Love's Train",
         "url": "https://open.spotify.com/album/6QKXGIgwWmWBMmIktMOchR"
       },
@@ -1355,18 +1371,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "We're All Going Home",
-        "url": "https://open.spotify.com/album/5zZjrDAnqhbeslF6OCGqE7"
+        "name": "Kids Are Born Stars",
+        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
       },
       "artists": [
         {
-          "name": "The Wanderer ",
-          "url": "https://open.spotify.com/artist/12j1w2RmtWd81xSKRpxhXK"
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
         }
       ],
-      "duration_ms": 184746,
-      "name": "We're All Going Home",
-      "url": "https://open.spotify.com/track/5cXq69EbEhTaWE7lUTOwsK"
+      "duration_ms": 187026,
+      "name": "Kids Are Born Stars",
+      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1383,22 +1399,6 @@
       "duration_ms": 149013,
       "name": "Only You",
       "url": "https://open.spotify.com/track/2ZaYFNn1YQuLSVdHhanr4Q"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Kids Are Born Stars",
-        "url": "https://open.spotify.com/album/7HhcskxiIqyd0KthMqR7eA"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 187026,
-      "name": "Kids Are Born Stars",
-      "url": "https://open.spotify.com/track/2pD74s7WAlBWUXjrTsKgdS"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "HILDA",
-        "url": "https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj"
-      },
-      "artists": [
-        {
-          "name": "Jessica Mauboy",
-          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "Little Things",
-      "url": "https://open.spotify.com/track/240WkSGaUBJMBmHLqS33WA"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Films About Ghosts (The Best Of Counting Crows)",
         "url": "https://open.spotify.com/album/7FJlveNFRrWYiD6xWGPHSb"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 225426,
       "name": "Big Yellow Taxi",
       "url": "https://open.spotify.com/track/0KTfZWEWivacSuZSjUe7JS"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "HILDA",
+        "url": "https://open.spotify.com/album/36JKBe1pJrnrxPOFLCE0uj"
+      },
+      "artists": [
+        {
+          "name": "Jessica Mauboy",
+          "url": "https://open.spotify.com/artist/6rHWAH6F4mr2AViSxMV673"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "Little Things",
+      "url": "https://open.spotify.com/track/240WkSGaUBJMBmHLqS33WA"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "The Reason (15th Anniversary Deluxe)",
-        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
-      },
-      "artists": [
-        {
-          "name": "Hoobastank",
-          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
-        }
-      ],
-      "duration_ms": 232800,
-      "name": "The Reason",
-      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "As It Was (Acoustic)",
         "url": "https://open.spotify.com/album/5tozhcFvFMQl9vjheT5PCj"
       },
@@ -1663,6 +1647,22 @@
       "duration_ms": 155823,
       "name": "As It Was - Acoustic",
       "url": "https://open.spotify.com/track/3Ui57V8wCESmGs615NTC2b"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "The Reason (15th Anniversary Deluxe)",
+        "url": "https://open.spotify.com/album/2zE1YKY7Okj10Tjl09jjth"
+      },
+      "artists": [
+        {
+          "name": "Hoobastank",
+          "url": "https://open.spotify.com/artist/2MqhkhX4npxDZ62ObR5ELO"
+        }
+      ],
+      "duration_ms": 232800,
+      "name": "The Reason",
+      "url": "https://open.spotify.com/track/77loZpT5Y5PRP1S451P9Yz"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1715,22 +1715,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
-      },
-      "artists": [
-        {
-          "name": "Son Mieux",
-          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
-        }
-      ],
-      "duration_ms": 154435,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/0Ep95NHSRnEPeSNJMNtmzo"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Nightfalls",
         "url": "https://open.spotify.com/album/0x8GE8IGZ5ow4R30vBNuMC"
       },
@@ -1743,6 +1727,22 @@
       "duration_ms": 220892,
       "name": "Nightfalls",
       "url": "https://open.spotify.com/track/40dk5rE3CFqxJG8sII98Hq"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/0fG9xxdKyq4ArHAuucm4oX"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "duration_ms": 154435,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/0Ep95NHSRnEPeSNJMNtmzo"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1767,22 +1767,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "So Good To Me",
-        "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
-      },
-      "artists": [
-        {
-          "name": "Chris Malinchak",
-          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
-        }
-      ],
-      "duration_ms": 158677,
-      "name": "So Good To Me - Radio Edit",
-      "url": "https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Start Again",
         "url": "https://open.spotify.com/album/6AZP6Qm8YD7hUALhn0pd6O"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 217974,
       "name": "Start Again",
       "url": "https://open.spotify.com/track/5Km6e8PWkwEPVKlifElIDB"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "So Good To Me",
+        "url": "https://open.spotify.com/album/67XCgRpDrGHQS1tLnYaTGD"
+      },
+      "artists": [
+        {
+          "name": "Chris Malinchak",
+          "url": "https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih"
+        }
+      ],
+      "duration_ms": 158677,
+      "name": "So Good To Me - Radio Edit",
+      "url": "https://open.spotify.com/track/7u0lV6ZS6IzqpWt7GoJEvg"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Kiss You",
-        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
-      },
-      "artists": [
-        {
-          "name": "Caity Baser",
-          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Kiss You",
-      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Tennessee Whiskey",
         "url": "https://open.spotify.com/album/71KzrFnqFfcPOptYLPboZM"
       },
@@ -1915,22 +1899,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "half a world away",
-        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+        "name": "Kiss You",
+        "url": "https://open.spotify.com/album/3WSuMX82JwjiyR3fUfw97c"
       },
       "artists": [
         {
-          "name": "remme",
-          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
-        },
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+          "name": "Caity Baser",
+          "url": "https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC"
         }
       ],
-      "duration_ms": 207954,
-      "name": "half a world away",
-      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
+      "duration_ms": 152506,
+      "name": "Kiss You",
+      "url": "https://open.spotify.com/track/61vlpInisekQjqqipr7HkP"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -1951,6 +1931,26 @@
       "duration_ms": 170868,
       "name": "Wish You Well (Feat. Bernard Fanning)",
       "url": "https://open.spotify.com/track/18DoMepvkwmJk4CPH0HCbk"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "half a world away",
+        "url": "https://open.spotify.com/album/25RxV46h2mPurwhtc03UC7"
+      },
+      "artists": [
+        {
+          "name": "remme",
+          "url": "https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5"
+        },
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 207954,
+      "name": "half a world away",
+      "url": "https://open.spotify.com/track/0qYSlBFBpuE61liPdMBQHW"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -2223,22 +2223,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Rise (Acoustic)",
-        "url": "https://open.spotify.com/album/2cvjDszYknCglVHqHc2IOY"
-      },
-      "artists": [
-        {
-          "name": "Calum Scott",
-          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
-        }
-      ],
-      "duration_ms": 213630,
-      "name": "Rise - Acoustic",
-      "url": "https://open.spotify.com/track/4SSS0EPphdDS3CAoVUW05M"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Ready For The Sky",
         "url": "https://open.spotify.com/album/6p57HASzXc9WVwpJTb0Pc4"
       },
@@ -2251,6 +2235,22 @@
       "duration_ms": 197475,
       "name": "Ready For The Sky",
       "url": "https://open.spotify.com/track/3XOX3I1JNdxQNGbMvXjEPY"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Rise (Acoustic)",
+        "url": "https://open.spotify.com/album/2cvjDszYknCglVHqHc2IOY"
+      },
+      "artists": [
+        {
+          "name": "Calum Scott",
+          "url": "https://open.spotify.com/artist/6ydoSd3N2mwgwBHtF6K7eX"
+        }
+      ],
+      "duration_ms": 213630,
+      "name": "Rise - Acoustic",
+      "url": "https://open.spotify.com/track/4SSS0EPphdDS3CAoVUW05M"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "The Indien",
-        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
-      },
-      "artists": [
-        {
-          "name": "The Indien",
-          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
-        }
-      ],
-      "duration_ms": 181333,
-      "name": "16",
-      "url": "https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Wicked Map",
         "url": "https://open.spotify.com/album/4wvNU1fLBizBoBuAZeqnuc"
       },
@@ -2371,6 +2355,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "The Indien",
+        "url": "https://open.spotify.com/album/05PciBASYTdhW356MVCSLS"
+      },
+      "artists": [
+        {
+          "name": "The Indien",
+          "url": "https://open.spotify.com/artist/1M6DAgCuvRE1Ct0Tsq74Lb"
+        }
+      ],
+      "duration_ms": 181333,
+      "name": "16",
+      "url": "https://open.spotify.com/track/1sE6dCnU6k9IRnURYFxKtl"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Let\u2019s Go Home Together (Stripped)",
         "url": "https://open.spotify.com/album/6hcBHK0n7wQygb6UN3MvKf"
       },
@@ -2391,22 +2391,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Lift You Up",
-        "url": "https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX"
-      },
-      "artists": [
-        {
-          "name": "Jasper Steverlinck",
-          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
-        }
-      ],
-      "duration_ms": 181649,
-      "name": "Lift You Up",
-      "url": "https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Queen For A Day",
         "url": "https://open.spotify.com/album/1Dn1MhYuEOO6eMijYqnKCG"
       },
@@ -2419,6 +2403,22 @@
       "duration_ms": 213800,
       "name": "Run Away Together",
       "url": "https://open.spotify.com/track/5HNTGn5VIRRBgMdFV09Zh3"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Lift You Up",
+        "url": "https://open.spotify.com/album/0VpQQARdV5LQijcfgFIoLX"
+      },
+      "artists": [
+        {
+          "name": "Jasper Steverlinck",
+          "url": "https://open.spotify.com/artist/5M9Q9H6jHj5txCVX5KSM8V"
+        }
+      ],
+      "duration_ms": 181649,
+      "name": "Lift You Up",
+      "url": "https://open.spotify.com/track/7Gu7NjUmWPvX5I35WolbIQ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -2551,6 +2551,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Still Love",
+        "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
+      },
+      "artists": [
+        {
+          "name": "Jack Jarryd",
+          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
+        }
+      ],
+      "duration_ms": 177233,
+      "name": "Still Love",
+      "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Crazy",
         "url": "https://open.spotify.com/album/2IUqvXtUJG23ozaIffSr28"
       },
@@ -2627,22 +2643,6 @@
       "duration_ms": 209670,
       "name": "Borrow Your Time",
       "url": "https://open.spotify.com/track/1LEy7NUZqXHuc9SE5Xgv5A"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Still Love",
-        "url": "https://open.spotify.com/album/7i076sfhcW2scS62C8bHQQ"
-      },
-      "artists": [
-        {
-          "name": "Jack Jarryd",
-          "url": "https://open.spotify.com/artist/5Dam89i2XdJgnz3Gk9Achk"
-        }
-      ],
-      "duration_ms": 177233,
-      "name": "Still Love",
-      "url": "https://open.spotify.com/track/3VN2hCxJRJEVjWwAMd10sL"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -2939,22 +2939,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Carry It Well (Acoustic)",
-        "url": "https://open.spotify.com/album/2TXE5r0FbzfmOHWYe3xWTX"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        }
-      ],
-      "duration_ms": 226173,
-      "name": "Carry It Well - Acoustic",
-      "url": "https://open.spotify.com/track/5WD2D369riKav4v92rzFjz"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Bobbie's Song",
         "url": "https://open.spotify.com/album/6canaf9tWSYr7bhrCzQemP"
       },
@@ -2967,6 +2951,22 @@
       "duration_ms": 145017,
       "name": "Bobbie's Song",
       "url": "https://open.spotify.com/track/07DydynEAQfvBrOOIuHNcz"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Carry It Well (Acoustic)",
+        "url": "https://open.spotify.com/album/2TXE5r0FbzfmOHWYe3xWTX"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        }
+      ],
+      "duration_ms": 226173,
+      "name": "Carry It Well - Acoustic",
+      "url": "https://open.spotify.com/track/5WD2D369riKav4v92rzFjz"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "weed & videogames",
-        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
-      },
-      "artists": [
-        {
-          "name": "Joe Buck",
-          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
-        }
-      ],
-      "duration_ms": 183715,
-      "name": "weed & videogames",
-      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Irrational",
         "url": "https://open.spotify.com/album/1cNx0aM4urNQ0gMalkNnQ1"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 175804,
       "name": "Tututu",
       "url": "https://open.spotify.com/track/60CDsfALVxdHCtWSGNEIib"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "weed & videogames",
+        "url": "https://open.spotify.com/album/4VomEJXaT4uQeNzfP9aVmr"
+      },
+      "artists": [
+        {
+          "name": "Joe Buck",
+          "url": "https://open.spotify.com/artist/66ko2UINS5X1TRK48kdsyh"
+        }
+      ],
+      "duration_ms": 183715,
+      "name": "weed & videogames",
+      "url": "https://open.spotify.com/track/5V8NIbC1m0FC2t697j6Bua"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3051,6 +3051,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Heart And Soul",
+        "url": "https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up"
+      },
+      "artists": [
+        {
+          "name": "Niels Geusebroek",
+          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
+        }
+      ],
+      "duration_ms": 174570,
+      "name": "Heart And Soul",
+      "url": "https://open.spotify.com/track/2qsxxtgNo91XMsz6fZjFYs"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Now That We\u2019ve Found Love",
         "url": "https://open.spotify.com/album/3WULnd7n20VfVa3ROMe9Z8"
       },
@@ -3067,22 +3083,6 @@
       "duration_ms": 154176,
       "name": "Now That We\u2019ve Found Love",
       "url": "https://open.spotify.com/track/66ZX9xQyCmwDnGUjwhYwNJ"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Heart And Soul",
-        "url": "https://open.spotify.com/album/2BgRGjEHjI4mCsBtIir7Up"
-      },
-      "artists": [
-        {
-          "name": "Niels Geusebroek",
-          "url": "https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l"
-        }
-      ],
-      "duration_ms": 174570,
-      "name": "Heart And Soul",
-      "url": "https://open.spotify.com/track/2qsxxtgNo91XMsz6fZjFYs"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3119,6 +3119,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Away From Here",
+        "url": "https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ann",
+          "url": "https://open.spotify.com/artist/0BLtgRpARRInhUuj2RnpBJ"
+        }
+      ],
+      "duration_ms": 284320,
+      "name": "The Poetry Man",
+      "url": "https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Ride or Die",
         "url": "https://open.spotify.com/album/1GBFKMecUkExm0TbTrNpbg"
       },
@@ -3151,18 +3167,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Away From Here",
-        "url": "https://open.spotify.com/album/2sU6VJXNO21g8i55eZY9f7"
+        "name": "Breaking Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
       },
       "artists": [
         {
-          "name": "Stevie Ann",
-          "url": "https://open.spotify.com/artist/0BLtgRpARRInhUuj2RnpBJ"
+          "name": "Lisa Lois",
+          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
         }
       ],
-      "duration_ms": 284320,
-      "name": "The Poetry Man",
-      "url": "https://open.spotify.com/track/0BLMTt0ufk4vqgKUU6T3MP"
+      "duration_ms": 216533,
+      "name": "Silhouette",
+      "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3183,22 +3199,6 @@
       "duration_ms": 166585,
       "name": "Take A Chance - Acoustic",
       "url": "https://open.spotify.com/track/7maJDADttwHBFlcuTzf2s9"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Breaking Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4JwM6rGlSRICnJk0NRgK9o"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lois",
-          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Silhouette",
-      "url": "https://open.spotify.com/track/3tn88WWmoGXnFelINCXRRw"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3415,6 +3415,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Wandering Heart",
+        "url": "https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At"
+      },
+      "artists": [
+        {
+          "name": "Tim Knol",
+          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
+        }
+      ],
+      "duration_ms": 200840,
+      "name": "Wandering Heart",
+      "url": "https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Used To Have It All (Acoustic Version)",
         "url": "https://open.spotify.com/album/62tzkQeijTanN4Uuz4UgfJ"
       },
@@ -3431,22 +3447,6 @@
       "duration_ms": 181934,
       "name": "Used To Have It All - Acoustic",
       "url": "https://open.spotify.com/track/7ITWyuMyhjlR9PRQhQtA1l"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Wandering Heart",
-        "url": "https://open.spotify.com/album/10THMG976Sqzl7Bh5yE7At"
-      },
-      "artists": [
-        {
-          "name": "Tim Knol",
-          "url": "https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K"
-        }
-      ],
-      "duration_ms": 200840,
-      "name": "Wandering Heart",
-      "url": "https://open.spotify.com/track/3nB886s0ieK7TwHFjQgoOz"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3507,6 +3507,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Pennies From Heaven",
+        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+      },
+      "artists": [
+        {
+          "name": "Josh Island",
+          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+        }
+      ],
+      "duration_ms": 255000,
+      "name": "Pennies From Heaven",
+      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Company",
         "url": "https://open.spotify.com/album/0nUk17FZxbfpK1AOQF4cHD"
       },
@@ -3519,22 +3535,6 @@
       "duration_ms": 182808,
       "name": "Company",
       "url": "https://open.spotify.com/track/6lf2e8a0NOf8877D78GpaP"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "= (Tour Edition)",
-        "url": "https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 231546,
-      "name": "One Life",
-      "url": "https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3559,18 +3559,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Pennies From Heaven",
-        "url": "https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2"
+        "name": "= (Tour Edition)",
+        "url": "https://open.spotify.com/album/4MOKrYo3bMUWjUnSirhNz3"
       },
       "artists": [
         {
-          "name": "Josh Island",
-          "url": "https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4"
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
         }
       ],
-      "duration_ms": 255000,
-      "name": "Pennies From Heaven",
-      "url": "https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe"
+      "duration_ms": 231546,
+      "name": "One Life",
+      "url": "https://open.spotify.com/track/2lORrsvCKbWd6OZd5GtqwJ"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3627,22 +3627,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "One Last Chance (I Won't Let You Down)",
-        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
-      },
-      "artists": [
-        {
-          "name": "FRIDAY",
-          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
-        }
-      ],
-      "duration_ms": 199169,
-      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
-      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Too Young Too Dumb",
         "url": "https://open.spotify.com/album/1ag0kvvPtIEE4qcw0j9ZYo"
       },
@@ -3655,6 +3639,22 @@
       "duration_ms": 165000,
       "name": "California Stars",
       "url": "https://open.spotify.com/track/370uyPhDzFob479OYuRYCe"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "One Last Chance (I Won't Let You Down)",
+        "url": "https://open.spotify.com/album/0O04QO41IgvIAV7GIy1Ai2"
+      },
+      "artists": [
+        {
+          "name": "FRIDAY",
+          "url": "https://open.spotify.com/artist/1nzhkCvUySFs0Fsj57qXYX"
+        }
+      ],
+      "duration_ms": 199169,
+      "name": "One Last Chance (I Won't Let You Down) - Acoustic",
+      "url": "https://open.spotify.com/track/1TE4d1HGXHnkSo2vA4ZV5n"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3675,6 +3675,22 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
+        "name": "Call It Luck",
+        "url": "https://open.spotify.com/album/7bA32Baio6U41HINomt4KY"
+      },
+      "artists": [
+        {
+          "name": "VanVelzen",
+          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
+        }
+      ],
+      "duration_ms": 197532,
+      "name": "Call It Luck",
+      "url": "https://open.spotify.com/track/7yTfxJLtcHqcHlQev1pdbL"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
         "name": "Seatbelts",
         "url": "https://open.spotify.com/album/7dx3bn5pvZnNwVA1Gptpll"
       },
@@ -3691,18 +3707,18 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Call It Luck",
-        "url": "https://open.spotify.com/album/7bA32Baio6U41HINomt4KY"
+        "name": "The Wait Is Over!",
+        "url": "https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY"
       },
       "artists": [
         {
-          "name": "VanVelzen",
-          "url": "https://open.spotify.com/artist/3Lq6Tb3SbS4n6dVuCx0Zzi"
+          "name": "Matthew Crosby",
+          "url": "https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r"
         }
       ],
-      "duration_ms": 197532,
-      "name": "Call It Luck",
-      "url": "https://open.spotify.com/track/7yTfxJLtcHqcHlQev1pdbL"
+      "duration_ms": 235800,
+      "name": "The Wait Is Over!",
+      "url": "https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3723,22 +3739,6 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC"
-      },
-      "artists": [
-        {
-          "name": "Jeangu Macrooy",
-          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
-        }
-      ],
-      "duration_ms": 214953,
-      "name": "Second Hand Lover",
-      "url": "https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
         "name": "Songs to Soothe",
         "url": "https://open.spotify.com/album/0MRyCWBOc0EyOiLmPYRg7K"
       },
@@ -3755,18 +3755,34 @@
     {
       "added_at": "2024-04-11 22:00:00",
       "album": {
-        "name": "The Wait Is Over!",
-        "url": "https://open.spotify.com/album/30aDWY29De1BweSR5kEZoY"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/3nziLyYhBlU55CVhB7PDGC"
       },
       "artists": [
         {
-          "name": "Matthew Crosby",
-          "url": "https://open.spotify.com/artist/6USf974SHTa6CJBaXcHO4r"
+          "name": "Jeangu Macrooy",
+          "url": "https://open.spotify.com/artist/3t9HafA5eFHM992s4GZ0Gr"
         }
       ],
-      "duration_ms": 235800,
-      "name": "The Wait Is Over!",
-      "url": "https://open.spotify.com/track/71ngUdvQfCsmK6pVWv9twa"
+      "duration_ms": 214953,
+      "name": "Second Hand Lover",
+      "url": "https://open.spotify.com/track/4uFws0rPYlbDCcPXTMjbfC"
+    },
+    {
+      "added_at": "2024-04-11 22:00:00",
+      "album": {
+        "name": "Crazy",
+        "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
+      },
+      "artists": [
+        {
+          "name": "Lisa Lois",
+          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Crazy",
+      "url": "https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa"
     },
     {
       "added_at": "2024-04-11 22:00:00",
@@ -3815,22 +3831,6 @@
       "duration_ms": 178320,
       "name": "Blind",
       "url": "https://open.spotify.com/track/3anDmW1xckOuO95EgqpMkm"
-    },
-    {
-      "added_at": "2024-04-11 22:00:00",
-      "album": {
-        "name": "Crazy",
-        "url": "https://open.spotify.com/album/31r84Xu8EUGaws9CrhlzV8"
-      },
-      "artists": [
-        {
-          "name": "Lisa Lois",
-          "url": "https://open.spotify.com/artist/1dGsUN9Hwx78H6MdDquxLL"
-        }
-      ],
-      "duration_ms": 223253,
-      "name": "Crazy",
-      "url": "https://open.spotify.com/track/0JYPUB7FFVAew3qXxhfXVa"
     }
   ],
   "unique_name": "Werkdag FM",

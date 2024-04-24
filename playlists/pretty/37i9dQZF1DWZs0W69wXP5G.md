@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 
 > Everything Broadway\-adjacent\. Cover: WONKA
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,868 likes - 90 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,895 likes - 90 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 2 | [World Burn](https://open.spotify.com/track/41G077moVwIPkFSO4Bt00L) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Cast of Mean Girls](https://open.spotify.com/artist/6Ve5oEOT8RbNXWHfsZpICN) | [World Burn](https://open.spotify.com/album/7pISfAjwsGSIO6NLhoFWMN) | 3:35 |
 | 3 | [I'm Just Ken](https://open.spotify.com/track/3zXIvb4nZ3cTdT8CsbTy3U) | [Ryan Gosling](https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue) | [Barbie The Album](https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW) | 3:42 |
 | 4 | [Loser, Baby](https://open.spotify.com/track/7sRz3vO2bEMhZGEkjnfMxb) | [Andrew Underberg](https://open.spotify.com/artist/4zXroEby35IgWPERRcW4Ay), [Sam Haft](https://open.spotify.com/artist/3osxpNwDgRAPs3aZZNsdV8), [Keith David](https://open.spotify.com/artist/1LPgqTHt7RmHwYtS9KQTMY), [Blake Roman](https://open.spotify.com/artist/18p5uhOP0T6w7EwYy389ej) | [Hazbin Hotel Original Soundtrack \(Part 1\)](https://open.spotify.com/album/6t46iwkX96skdtur1bWUvy) | 2:55 |
-| 5 | [Cabaret \- From "Cabaret"](https://open.spotify.com/track/7xCLMphhWKJhCUB8sPcXoO) | [Self Esteem](https://open.spotify.com/artist/3K9muOlJVKLgH4SIwwZiDe) | [Cabaret: The Maida Vale Session](https://open.spotify.com/album/0qMso6K6mgEPv6RfpFIzmd) | 4:33 |
+| 5 | [Spanish or Vanish](https://open.spotify.com/track/0ijwa9A6H3WFoEFzBNzrxo) | [Duolingo](https://open.spotify.com/artist/5H7yCVEeAz3fdNJ16QO3Iq) | [Duolingo on Ice \(Original Broadway Recording\)](https://open.spotify.com/album/2igT4o8J4ldF4CLLauFmmF) | 1:00 |
 | 6 | [Any Worse \(Squeak’s Song\)](https://open.spotify.com/track/2mjZYvLsOCoBuFZp6G1jQX) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [The Color Purple \(Music From And Inspired By\)](https://open.spotify.com/album/3OWJJ98IlTcnSKKrbgeCT5) | 4:26 |
 | 7 | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/track/37kP0yUo66nRnFHtC5rV1M) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Not My Fault \(with Megan Thee Stallion\)](https://open.spotify.com/album/0CUn0aYLhWWL6LBMFSoaJj) | 2:50 |
 | 8 | [A World of Your Own](https://open.spotify.com/track/1ZfYtdc9FXkRmVXyNXxjoy) | [Timothée Chalamet](https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb), [The Cast of Wonka](https://open.spotify.com/artist/31L4YQDSTiISRYoBVWUPt2) | [Wonka \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2JVBfHtsTmDQin2kyV8FKO) | 3:42 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZs0W69wXP5G.md) - [plain]
 | 89 | [If I Were a Man](https://open.spotify.com/track/7dsxoeycurkfJpmV0Le5Oi) | [Barlow & Bear](https://open.spotify.com/artist/2JymsYVZ5c5prv9mOdPB3p), [Abigail Barlow](https://open.spotify.com/artist/5rw6jWzcS6bQimR39VPBXu), [Emily Bear](https://open.spotify.com/artist/0K1ilFOGrYhSKNZaDCYRvk) | [The Unofficial Bridgerton Musical](https://open.spotify.com/album/7gXx19GNHIiQ3fIbXxeY1U) | 2:58 |
 | 90 | [Let's Generalize About Men \(feat\. Rachel Bloom, Donna Lynne Champlin, Vella Lovell & Gabrielle Ruiz\)](https://open.spotify.com/track/73hr344AmxNViy6IgFw6QL) | [Crazy Ex\-Girlfriend Cast](https://open.spotify.com/artist/2Dzk9smBaIfEFjF7T2Gygz), [Donna Lynne Champlin](https://open.spotify.com/artist/4W6kSTuYNVuHw97QMvb2TB), [Gabrielle Ruiz](https://open.spotify.com/artist/5MVEzr4FAatsTTkPhDXkHj), [Rachel Bloom](https://open.spotify.com/artist/2tCT4ybLKzhFYsDF6ZOKAY), [Vella Lovell](https://open.spotify.com/artist/4QLs1KUSQaafoB2dGnxvmR) | [Crazy Ex\-Girlfriend: Season 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/61qQpAsfOVhFo5iDnKth4o) | 2:38 |
 
-Snapshot ID: `MTcxMTE0MjgxOSwwMDAwMDAwMDU4OTNlMTJkYzgzZmMxZTYyN2I1ODdiMzEyMThlNGJm`
+Snapshot ID: `MTcxMzkxNzUyNSwwMDAwMDAwMGJiNTBjYmI5Zjg5YzI0MmRkNzJiODg5ZjZjYzAwNGVj`

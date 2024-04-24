@@ -1,6 +1,6 @@
 {
   "description": "Yerli Afro, Latin ve trap ritimleri ile yaz\u0131n en hareketli hali.",
-  "num_followers": 87854,
+  "num_followers": 87905,
   "original_name": "Yaz Ritmi",
   "owner": {
     "name": "Spotify",
@@ -83,6 +83,26 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
+        "name": "Pofuduk",
+        "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
+      },
+      "artists": [
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        },
+        {
+          "name": "Jugglerz",
+          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
+        }
+      ],
+      "duration_ms": 142855,
+      "name": "Pofuduk",
+      "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
         "name": "KONTAK (feat. Ezhel)",
         "url": "https://open.spotify.com/album/357L1OdvSrxQwifYcDkTDw"
       },
@@ -103,26 +123,6 @@
       "duration_ms": 158023,
       "name": "KONTAK (feat. Ezhel)",
       "url": "https://open.spotify.com/track/0nHmrbUG2lvhiJ7dL4FfzU"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
-        "name": "Pofuduk",
-        "url": "https://open.spotify.com/album/5eNHvrxTk4IdTgqFB1cLmu"
-      },
-      "artists": [
-        {
-          "name": "Ezhel",
-          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
-        },
-        {
-          "name": "Jugglerz",
-          "url": "https://open.spotify.com/artist/5dM0ApSI0k1TcOseiik0sY"
-        }
-      ],
-      "duration_ms": 142855,
-      "name": "Pofuduk",
-      "url": "https://open.spotify.com/track/7eaIFSCVBsXIwQ03aG8ClE"
     },
     {
       "added_at": "2023-08-31 21:00:00",
@@ -719,22 +719,6 @@
     {
       "added_at": "2023-08-31 21:00:00",
       "album": {
-        "name": "bu gece da\u011f\u0131t\u0131cam..",
-        "url": "https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX"
-      },
-      "artists": [
-        {
-          "name": "Kozmos",
-          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
-        }
-      ],
-      "duration_ms": 139978,
-      "name": "bu gece da\u011f\u0131t\u0131cam..",
-      "url": "https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE"
-    },
-    {
-      "added_at": "2023-08-31 21:00:00",
-      "album": {
         "name": "\u00dccra",
         "url": "https://open.spotify.com/album/4PypqHBUVxAuaApFq9Mbxr"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 199600,
       "name": "\u00dccra",
       "url": "https://open.spotify.com/track/77Ny1rmMwjTdRrYmK3Gjzg"
+    },
+    {
+      "added_at": "2023-08-31 21:00:00",
+      "album": {
+        "name": "bu gece da\u011f\u0131t\u0131cam..",
+        "url": "https://open.spotify.com/album/7af93QWDFzJliE8Y67CIhX"
+      },
+      "artists": [
+        {
+          "name": "Kozmos",
+          "url": "https://open.spotify.com/artist/0qERHMCWkMoZvWZMngc1A6"
+        }
+      ],
+      "duration_ms": 139978,
+      "name": "bu gece da\u011f\u0131t\u0131cam..",
+      "url": "https://open.spotify.com/track/4hqipk4YpAV3tXlsZ3usQE"
     },
     {
       "added_at": "2023-08-31 21:00:00",

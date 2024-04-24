@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 
 > A selection of relaxing, spiritual, and instrumental tracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,424 likes - 40 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,412 likes - 40 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvGPolkxTYD.md) - [plain]
 | 12 | [Nada](https://open.spotify.com/track/0nqKh7q35gKJSXv7VuqtH7) | [Clarissa Bitar](https://open.spotify.com/artist/3EHSTkb1qOtOUqFSuvZDHH) | [Hassan Sabi](https://open.spotify.com/album/0NtEHDs6K85QbceqGIqKaR) | 2:16 |
 | 13 | [Taqsîm en maqâm : Nahawand\-kabîr](https://open.spotify.com/track/6UWZUL60UVWXE2CwbntY7B) | [Munir Bashir](https://open.spotify.com/artist/7u3rioJ6JfINqENIQ67k6A) | [Iraq \- Irak : The Art of the 'ûd](https://open.spotify.com/album/2M1g6EKg4ZfqH5mOI87e9x) | 9:35 |
 | 14 | [Imminent Journey](https://open.spotify.com/track/6fgXqK3T2JWc4K9K43zOe4) | [Rabih Abou\-Khalil](https://open.spotify.com/artist/7cM9Y2LNnnmmqivaEuH8vT) | [Yara](https://open.spotify.com/album/23j6IQwXCryKrnxwnctIr1) | 1:21 |
-| 15 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
-| 16 | [Biçare](https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2), [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Ismail Tuncbilek](https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm) | [Taksim Trio](https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P) | 7:40 |
+| 15 | [Biçare](https://open.spotify.com/track/0p0dR8t4lqyMrXUWw4fJPW) | [Taksim Trio](https://open.spotify.com/artist/5rWGIr699je11ELP9xW5T2), [Aytac Dogan](https://open.spotify.com/artist/457nwUldk400eeh8gUsUDi), [Hüsnü Senlendirici](https://open.spotify.com/artist/3rb0KaOJL3sOZ2MChHR6xF), [Ismail Tuncbilek](https://open.spotify.com/artist/4RnKYAfktqnvcbjkbQC7Fm) | [Taksim Trio](https://open.spotify.com/album/7pDyWGWfciTjfl6z1ewx1P) | 7:40 |
+| 16 | [Farah](https://open.spotify.com/track/0wq45hP23wftYYNG6OvIjZ) | [Basel Zayed](https://open.spotify.com/artist/7t4g2P8W9I8SFczpM05L9H) | [Ayn Trio](https://open.spotify.com/album/0PtCwe55hHVT7352NP9emZ) | 3:15 |
 | 17 | [Hams \(Whispers\)](https://open.spotify.com/track/1ghf2UiUHpdByC8upKcQ6G) | [Mohammed Naiem](https://open.spotify.com/artist/4qINgRu65OpAt7YUgZl6dE) | [Hossam Ramzy Presents: Master of the Arabian Flute](https://open.spotify.com/album/1BeKirbevENdLNLHUy4Swf) | 5:17 |
 | 18 | [The Land of the Sun](https://open.spotify.com/track/69hUAO39hrnOvD9vWYwteW) | [Sami Yusuf](https://open.spotify.com/artist/7GnedB795OhbMbojdC3bzj) | [The Land of the Sun](https://open.spotify.com/album/08QpXpM3nNYdIBOwfzKNre) | 3:58 |
 | 19 | [Roubbama](https://open.spotify.com/track/1LTQewXIUPvVXGNTekUvcT) | [Le Trio Joubran](https://open.spotify.com/artist/4TKtK5MMFFrQjhPvvu5YRI) | [Majâz](https://open.spotify.com/album/6bYVfnQq7psGFlF6qSSsTA) | 6:08 |

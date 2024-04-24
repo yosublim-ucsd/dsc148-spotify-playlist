@@ -1,10 +1,10 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain](/playlists/plain/37i9dQZF1DZ06evO0urPQk) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DZ06evO0urPQk)
 
-### [This Is Nana Mizuki](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
+### [This Is 水樹奈々](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0urPQk)
 
-> This is: Nana Mizuki\. Alle wichtigen Tracks in einer Playlist.
+> This is 水樹奈々\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,034 likes - 50 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,032 likes - 50 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 7 | [Synchrogazer](https://open.spotify.com/track/69QNXJNXFddfmzcz0mDB6m) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:27 |
 | 8 | [TESTAMENT](https://open.spotify.com/track/2QSZ2xvqALjTBqZfKxsMeI) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [TESTAMENT](https://open.spotify.com/album/1eHKjExL0WvsYvrO9yHa4K) | 3:58 |
 | 9 | [ETERNAL BLAZE](https://open.spotify.com/track/6FghEVkOL58IWEkRFqfKks) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [HYBRID UNIVERSE](https://open.spotify.com/album/7kG9Xw25lb8zAgCOOqdHsk) | 5:07 |
-| 10 | [WILD EYES](https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:10 |
+| 10 | [ヒメムラサキ](https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [WILD EYES](https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv) | 4:59 |
 | 11 | [Vitalization](https://open.spotify.com/track/44HokGU8V1GTc0vdOIXrmL) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 3:46 |
-| 12 | [ヒメムラサキ](https://open.spotify.com/track/5vWrf8YWJ0lsRqr6hH67yV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [WILD EYES](https://open.spotify.com/album/7G8FGpeEVgitvFOuSD9Gkv) | 4:59 |
+| 12 | [WILD EYES](https://open.spotify.com/track/0LD8q25QxAjLGL0xqie6XH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM](https://open.spotify.com/album/0JOdN0FpOm7Z224Svf5OaT) | 4:10 |
 | 13 | [METANOIA](https://open.spotify.com/track/1pu0l2CLyOBzI9SRdqOqTV) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [METANOIA](https://open.spotify.com/album/2dTATpcLTVwwestFBVO8v7) | 4:35 |
 | 14 | [Glorious Break](https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [SMASHING ANTHEMS](https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK) | 5:16 |
 | 15 | [禁断のレジスタンス](https://open.spotify.com/track/1Ri399EucsujfZgNZ6jyfe) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:25 |
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 18 | [恋の抑止力\-type EXCITER\-](https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [IMPACT EXCITER](https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA) | 4:56 |
 | 19 | [Exterminate](https://open.spotify.com/track/22b3p38QWCoHEZI3PQ5RnK) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM Ⅲ](https://open.spotify.com/album/4h4j5FEupRxpbGss2AabF2) | 4:05 |
 | 20 | [終末のラブソング](https://open.spotify.com/track/6qFbz5JKXWvf48QuyfXRPt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [エデン](https://open.spotify.com/album/6wJxfvqu3PHr5bAYKpSvoI) | 3:57 |
-| 21 | [SCARLET KNIGHT](https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:10 |
+| 21 | [Pray](https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:28 |
 | 22 | [嘆きの華](https://open.spotify.com/track/0sykGYWNmdFkBXJurdnWKo) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEVER SURRENDER](https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj) | 3:52 |
 | 23 | [UNLIMITED BEAT](https://open.spotify.com/track/4QxfaPNmAjZxY2yP6rKyvF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [NEOGENE CREATION](https://open.spotify.com/album/4YcSRnOhzrtrX5LDNIK8jR) | 4:28 |
 | 24 | [天空のカナリア](https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [夢幻](https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF) | 3:59 |
-| 25 | [Pray](https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:28 |
+| 25 | [SCARLET KNIGHT](https://open.spotify.com/track/7goJieTP7XVVLMLdb5OFHd) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [THE MUSEUM II](https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN) | 4:10 |
 | 26 | [innocent starter](https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [innocent starter](https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856) | 4:41 |
 | 27 | [Synchrogazer\-Aufwachen Form\-](https://open.spotify.com/track/1lmfLQ7e8m2lp3kgeGepxM) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ROCKBOUND NEIGHBORS](https://open.spotify.com/album/3tXxl7ZKlCSfAMWr2AhMeP) | 5:21 |
 | 28 | [Dancing in the velvet moon](https://open.spotify.com/track/28dDBhBG9O6MheKdPvbFp8) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ULTIMATE DIAMOND](https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL) | 4:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0urPQk.md) - [plain]
 | 49 | [革命デュアリズム \-アニメバージョン\-](https://open.spotify.com/track/2ViUOdaqvpNEKFiXiYj6Qg) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE), [T.M.Revolution](https://open.spotify.com/artist/3jdzcmtw5XOmOkSb2mRDtr) | [革命デュアリズム](https://open.spotify.com/album/2PC0pafvHcNe9j66iGfwQv) | 1:31 |
 | 50 | [FIRE SCREAM](https://open.spotify.com/track/1q4RbhcSDoeyrR2uly6yQt) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [FIRE SCREAM](https://open.spotify.com/album/7t9tYlGR5fuMfUZPMvesRH) | 3:45 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDY3OTFmOGYwYjdjNGZmOWIxM2NjMDU4Njg3YmQyMDIy`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDVmMTVjZjE1YzhlM2IzMzY3M2E5MjMxZDViNGJiYTM1`

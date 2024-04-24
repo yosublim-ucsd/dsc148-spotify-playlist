@@ -1,12 +1,12 @@
 {
-  "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 32764,
+  "description": "This Is Esteman. Los temas esenciales, todos en una lista.",
+  "num_followers": 32795,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGUzMmIwMzgwMWYyZWQzNDA0MTIwZTI5MjkyNjVlNDY4",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGEwMmJjNzcwZDgwOWQ1NTE2ZjdmMTRiNGI4MjM0YTZi",
   "tracks": [
     {
       "added_at": null,
@@ -459,22 +459,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando",
-        "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
       "artists": [
         {
-          "name": "Ruzzi",
-          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
-        },
-        {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Andrea Echeverri",
+          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
         }
       ],
-      "duration_ms": 187697,
-      "name": "Bailando",
-      "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
+      "duration_ms": 226253,
+      "name": "Aqu\u00ed Estoy Yo (feat. Andrea Echeverri)",
+      "url": "https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq"
     },
     {
       "added_at": null,
@@ -511,22 +511,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+        "name": "Bailando",
+        "url": "https://open.spotify.com/album/2IhWrFHNfirViEtYfTm0VY"
       },
       "artists": [
         {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+          "name": "Ruzzi",
+          "url": "https://open.spotify.com/artist/1hjFlLW9xl3RCn7IWPSmxY"
         },
         {
-          "name": "Andrea Echeverri",
-          "url": "https://open.spotify.com/artist/56WwKhBsxrWjpwXvJVLAjZ"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 226253,
-      "name": "Aqu\u00ed Estoy Yo (feat. Andrea Echeverri)",
-      "url": "https://open.spotify.com/track/1B2tNAkR6GKP2PcjZqf7Sq"
+      "duration_ms": 187697,
+      "name": "Bailando",
+      "url": "https://open.spotify.com/track/4U2ZR1idYA8HnS53apJTxN"
     },
     {
       "added_at": null,

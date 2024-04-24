@@ -1,6 +1,6 @@
 {
   "description": "The corridos our abuelos and parents listened to, viejitos y perrones! Cover: Los Tigres del Norte",
-  "num_followers": 81741,
+  "num_followers": 81842,
   "original_name": "We Love Corridos Viejitos ",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
+        "name": "La Cadena",
+        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
+      },
+      "artists": [
+        {
+          "name": "Los Morros Del Norte",
+          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
+        }
+      ],
+      "duration_ms": 174693,
+      "name": "La Botella (Dos Botellas De Mescal)",
+      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
+    },
+    {
+      "added_at": "2023-08-21 17:43:47",
+      "album": {
         "name": "Nieves De Enero",
         "url": "https://open.spotify.com/album/0l1m4FOStVJxLb3Ogf9EKn"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 208956,
       "name": "Anastasio Pacheco",
       "url": "https://open.spotify.com/track/2wcbC2ViEAKUjCx4pz1q6J"
-    },
-    {
-      "added_at": "2023-08-21 17:43:47",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 165880,
-      "name": "Soy Alba\u00f1il",
-      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
     },
     {
       "added_at": "2023-08-21 17:43:47",
@@ -579,18 +579,18 @@
     {
       "added_at": "2023-08-21 17:43:47",
       "album": {
-        "name": "La Cadena",
-        "url": "https://open.spotify.com/album/0AzHFYoAtsdnzNfkHvrAu3"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/0JhXGPB09fcgetkpyy7p6R"
       },
       "artists": [
         {
-          "name": "Los Morros Del Norte",
-          "url": "https://open.spotify.com/artist/5xvUFw0p8yfQfHVliD1dZG"
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 174693,
-      "name": "La Botella (Dos Botellas De Mescal)",
-      "url": "https://open.spotify.com/track/2m42oF2K5zPQalKjlGVuez"
+      "duration_ms": 165880,
+      "name": "Soy Alba\u00f1il",
+      "url": "https://open.spotify.com/track/5dBBdICmRbmr3k49A5Je1i"
     },
     {
       "added_at": "2023-08-21 17:43:47",

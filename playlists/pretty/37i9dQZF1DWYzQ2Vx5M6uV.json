@@ -1,6 +1,6 @@
 {
   "description": "Bringing you the hottest collaborations between Afro & Latin artists. Cover: Rvssian, Ayra Starr & Rauw Alejandro ",
-  "num_followers": 114567,
+  "num_followers": 114526,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
+        "name": "Parcerita",
+        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
+      },
+      "artists": [
+        {
+          "name": "Dahili",
+          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
+        }
+      ],
+      "duration_ms": 166950,
+      "name": "Parcerita",
+      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
+    },
+    {
+      "added_at": "2024-04-05 05:42:37",
+      "album": {
         "name": "Don't Rush (Remix)",
         "url": "https://open.spotify.com/album/7F360hzRX7Ig1r5sQPc3db"
       },
@@ -883,22 +899,6 @@
       "duration_ms": 201013,
       "name": "Don't Rush - Remix",
       "url": "https://open.spotify.com/track/4ltz90zE6hPqE12EGHDMDu"
-    },
-    {
-      "added_at": "2024-04-05 05:42:37",
-      "album": {
-        "name": "Parcerita",
-        "url": "https://open.spotify.com/album/0LbiIr1Wxs9wY2hTOMRJy9"
-      },
-      "artists": [
-        {
-          "name": "Dahili",
-          "url": "https://open.spotify.com/artist/6H8CeqAmIA9VtwSDSvrViE"
-        }
-      ],
-      "duration_ms": 166950,
-      "name": "Parcerita",
-      "url": "https://open.spotify.com/track/6yXw5aGmUCTut8mpTqWRWK"
     },
     {
       "added_at": "2024-04-05 05:42:37",
@@ -1391,30 +1391,6 @@
     {
       "added_at": "2024-04-05 05:42:37",
       "album": {
-        "name": "Certainly",
-        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
-      },
-      "artists": [
-        {
-          "name": "SKN The Divine",
-          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
-        },
-        {
-          "name": "Anni3",
-          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
-        },
-        {
-          "name": "Joe On The Beat",
-          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
-        }
-      ],
-      "duration_ms": 133323,
-      "name": "Certainly",
-      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
-    },
-    {
-      "added_at": "2024-04-05 05:42:37",
-      "album": {
         "name": "Vamos Com Tudo (feat. Preto Show)",
         "url": "https://open.spotify.com/album/2fTzljF7q1dG2tXkoPBS9L"
       },
@@ -1483,6 +1459,30 @@
       "duration_ms": 179257,
       "name": "Next To You Part II (feat. Rvssian & Davido)",
       "url": "https://open.spotify.com/track/00yinrzqPZKA2vbnwnn3hS"
+    },
+    {
+      "added_at": "2024-04-05 05:42:37",
+      "album": {
+        "name": "Certainly",
+        "url": "https://open.spotify.com/album/2jcdTpJpZSeMF14FlLerQ1"
+      },
+      "artists": [
+        {
+          "name": "SKN The Divine",
+          "url": "https://open.spotify.com/artist/02f7L2f2zIZ7TSP7WCQAJK"
+        },
+        {
+          "name": "Anni3",
+          "url": "https://open.spotify.com/artist/1SVYYGAAaNV3UBoMO889b2"
+        },
+        {
+          "name": "Joe On The Beat",
+          "url": "https://open.spotify.com/artist/2stlNmSzpsNsSD3hpjDdfF"
+        }
+      ],
+      "duration_ms": 133323,
+      "name": "Certainly",
+      "url": "https://open.spotify.com/track/4nNACvnffnDaOm7YeXcyGB"
     }
   ],
   "unique_name": "Afro Ritmo",

@@ -1,6 +1,6 @@
 {
   "description": "The Country Coffeehouse is open! Grab a cup and lean back to some low-key country.",
-  "num_followers": 722494,
+  "num_followers": 722280,
   "original_name": "Country Coffeehouse",
   "owner": {
     "name": "Spotify",
@@ -723,18 +723,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Supernova",
-        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
+        "name": "Miles Away",
+        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
       },
       "artists": [
         {
-          "name": "Caitlyn Smith",
-          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
+          "name": "Krysta Nick",
+          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
         }
       ],
-      "duration_ms": 156386,
-      "name": "Supernova",
-      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
+      "duration_ms": 220000,
+      "name": "Miles Away",
+      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -755,18 +755,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Miles Away",
-        "url": "https://open.spotify.com/album/5TdJYg0fQ7IvBxFqwtChfv"
+        "name": "Supernova",
+        "url": "https://open.spotify.com/album/2m9qpnKqmy3c8FbwApTSvb"
       },
       "artists": [
         {
-          "name": "Krysta Nick",
-          "url": "https://open.spotify.com/artist/3hld0M8pAutQUblD6tI1ol"
+          "name": "Caitlyn Smith",
+          "url": "https://open.spotify.com/artist/3uikSah4dwqwuk0EidFI4R"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Miles Away",
-      "url": "https://open.spotify.com/track/0QnOPRxrCRLeRUEJKqecaG"
+      "duration_ms": 156386,
+      "name": "Supernova",
+      "url": "https://open.spotify.com/track/66xwYKVQrraFqAwHyCDGao"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -995,18 +995,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "Better Than That",
-        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
+        "name": "End of the Rain",
+        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
       },
       "artists": [
         {
-          "name": "Ian McConnell",
-          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
+          "name": "Jason Blaine",
+          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
         }
       ],
-      "duration_ms": 193242,
-      "name": "Better Than That",
-      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
+      "duration_ms": 195701,
+      "name": "End of the Rain",
+      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1027,18 +1027,18 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
-        "name": "End of the Rain",
-        "url": "https://open.spotify.com/album/2AjVO7FIhjSQLqtLDm8xAb"
+        "name": "Better Than That",
+        "url": "https://open.spotify.com/album/2KsHuCJUVL0VtCqSLKxhRi"
       },
       "artists": [
         {
-          "name": "Jason Blaine",
-          "url": "https://open.spotify.com/artist/4k4DTNqE48dzmwOQU8PaKQ"
+          "name": "Ian McConnell",
+          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
         }
       ],
-      "duration_ms": 195701,
-      "name": "End of the Rain",
-      "url": "https://open.spotify.com/track/3ZzPTO2Qbo6cI72DBjOLep"
+      "duration_ms": 193242,
+      "name": "Better Than That",
+      "url": "https://open.spotify.com/track/3doRPkGBQUl1ukOGagcFVs"
     },
     {
       "added_at": "2023-12-01 05:00:00",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2023-12-01 05:00:00",
       "album": {
+        "name": "Weed Garden",
+        "url": "https://open.spotify.com/album/1xKEX6KhO9pRM85WT7aOel"
+      },
+      "artists": [
+        {
+          "name": "Iron & Wine",
+          "url": "https://open.spotify.com/artist/4M5nCE77Qaxayuhp3fVn4V"
+        }
+      ],
+      "duration_ms": 195200,
+      "name": "Autumn Town Leaves",
+      "url": "https://open.spotify.com/track/4xI1VwZa8u3ymeS8hsHKed"
+    },
+    {
+      "added_at": "2023-12-01 05:00:00",
+      "album": {
         "name": "Johnny Cash: Forever Words",
         "url": "https://open.spotify.com/album/12dKVQFRucbEnvC5ZNmlCH"
       },
@@ -1219,22 +1235,6 @@
       "duration_ms": 297746,
       "name": "The Captain's Daughter (Johnny Cash: Forever Words)",
       "url": "https://open.spotify.com/track/5ZZtNu0ZMABs6Jwomk8isG"
-    },
-    {
-      "added_at": "2023-12-01 05:00:00",
-      "album": {
-        "name": "Roadtripsong",
-        "url": "https://open.spotify.com/album/0whoMO50hfMmwTWyP2SjUB"
-      },
-      "artists": [
-        {
-          "name": "Abby Cates",
-          "url": "https://open.spotify.com/artist/2LwlPBOoq9EqTOmKi4lJ2n"
-        }
-      ],
-      "duration_ms": 221142,
-      "name": "Roadtripsong",
-      "url": "https://open.spotify.com/track/7bZP1hWx4jVnRUr0FgZ4nR"
     }
   ],
   "unique_name": "Country Coffeehouse",

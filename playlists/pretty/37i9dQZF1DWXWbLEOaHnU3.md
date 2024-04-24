@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 
 > Lose yourself in the cosmic spheres of Psytrance.
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,413 likes - 75 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,558 likes - 75 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWbLEOaHnU3.md) - [plain]
 | 64 | [Tonight](https://open.spotify.com/track/4zc3rzC5FsX1NXF3EZwP2r) | [Darius & Finlay](https://open.spotify.com/artist/1w67D3PakcxjYGt6xPnnke), [Bastiqe](https://open.spotify.com/artist/4YepO0c4kXzTyaRgzvhhTb), [Paul Keen](https://open.spotify.com/artist/4pDTUbU3HuTpPwm1jjS0iF) | [Tonight](https://open.spotify.com/album/2KfNqc84udLBA2a0pSBpUh) | 2:29 |
 | 65 | [You Wanna Stay](https://open.spotify.com/track/1zCEQgOjjQRzGieDb3OVKh) | [Infected Mushroom](https://open.spotify.com/artist/6S2tas4z6DyIklBajDqJxI) | [Shroomeez](https://open.spotify.com/album/6WjT81kkedROKlbYj6SInQ) | 6:30 |
 | 66 | [Ecstasy of Gold \- P.R.O.G\. Remix](https://open.spotify.com/track/12RsxZLU2oVpHLu9yhNosu) | [WHITENO1SE](https://open.spotify.com/artist/0o6xglPZ7ZGNSIPBSwwau2), [P.R.O.G.](https://open.spotify.com/artist/43WlFAeasc7FjUP2CkY83f) | [Ecstasy of Gold \(P.R.O.G\. Remix\)](https://open.spotify.com/album/1RgK6wvA0ZUi9KDmlbseBo) | 5:20 |
-| 67 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |
-| 68 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
+| 67 | [Lose My Cool](https://open.spotify.com/track/7lvS3mihQS16M9mK3gMCoz) | [Johnny Carrera](https://open.spotify.com/artist/57QPPgwDvwwZb5WWYCbQrX), [Umali](https://open.spotify.com/artist/2ffuroI8ThHZxbC3G8Gs1D), [Djapatox](https://open.spotify.com/artist/2EiIyLrf5Cqayp3uuH2hvS) | [Lose My Cool](https://open.spotify.com/album/6mXqLL6fexVxQanfBiVAwv) | 3:56 |
+| 68 | [Behind](https://open.spotify.com/track/1kYEeWOIctxfaPSFFUkExZ) | [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs), [Deep Kontakt](https://open.spotify.com/artist/0y3Swirv7gm6gjXl2sayna) | [Behind](https://open.spotify.com/album/5Pi3BlWvAQUYvgGoedaLvt) | 4:33 |
 | 69 | [Someone Else](https://open.spotify.com/track/2peA9evFHZedrys82CcDr4) | [Interactive Noise](https://open.spotify.com/artist/4lA68EVFzoodItMp7RH2cv), [Phill Groh](https://open.spotify.com/artist/3KwlDkTroNYhkEtwBCNigp) | [Someone Else](https://open.spotify.com/album/3R5bwfK41PlcujliH2X2UZ) | 3:35 |
 | 70 | [Road to You](https://open.spotify.com/track/6UgRQwY5a5cr9utpFKU95K) | [Jacob](https://open.spotify.com/artist/5IRGhffWFbNGJqS7wc7UDN), [Psycho Cat](https://open.spotify.com/artist/6lJSb6YH8I0BxXqaPJ8qdp) | [Road to You](https://open.spotify.com/album/40St0blvPq3jpP7j5NSSXX) | 4:44 |
 | 71 | [Elsewhere \- Original mix](https://open.spotify.com/track/6rr9fNtCD6NJISKD3X6Q2u) | [Liquid Soul](https://open.spotify.com/artist/64nL3MP8zmuLqUq8DDaIKS), [Emok](https://open.spotify.com/artist/0n7N0GtNzbN6xgx7J14pWg), [Martin Vice](https://open.spotify.com/artist/3U9kaA6XFr26x70Va6y3Jv) | [Elsewhere](https://open.spotify.com/album/3XpUhJ5qINVQxYS5OqnIUE) | 6:57 |
 | 72 | [Sapana \- Avalon Remix](https://open.spotify.com/track/5XOsVtC4JMqNUVg48w9z13) | [Astrix](https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit), [Avalon](https://open.spotify.com/artist/0SFwBkGokPRtTX212zO7xo) | [Remixes](https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16) | 8:11 |
 | 73 | [Other Days](https://open.spotify.com/track/3fShZcL2jCLVvefM2Hy8mL) | [Ghost Rider](https://open.spotify.com/artist/6ZJDt01Lh0XOPMMJbUMcUi), [Durs](https://open.spotify.com/artist/3Bs4g9IT8bAbCqmzaXYUzs) | [Other Days](https://open.spotify.com/album/3lvGQU4VigEh1QqpUQXcQS) | 4:05 |
 | 74 | [Gracias a la Vida](https://open.spotify.com/track/7cM7j8Po2ORcNOnpmMJsNn) | [Tao Andra](https://open.spotify.com/artist/1zcGW4JIJJPbA8SdYwNLLC) | [Gracias a la Vida](https://open.spotify.com/album/20hNuXuFlGOcb1LBozzqnV) | 5:48 |
-| 75 | [Feel Alive](https://open.spotify.com/track/5s5fN7k5z3xyx0Ckz5OzzX) | [Phazed](https://open.spotify.com/artist/14tndkroegMGtPSz50zZAb) | [Feel Alive](https://open.spotify.com/album/4eR53Ww2OBRCJsMSTK7rma) | 5:03 |
+| 75 | [The Hook](https://open.spotify.com/track/2KJc0tlouvIy4xwwlp40Hr) | [Reality Test](https://open.spotify.com/artist/4hGD47LaZWcMLj1gH3uru8), [Gproject](https://open.spotify.com/artist/4hTA1aFIjHiyJhDb5sPW7P), [HYBIT](https://open.spotify.com/artist/7JvI8sDHJ3vnAkfqS4XPW2) | [The Hook](https://open.spotify.com/album/6eKYwQDPRKIdZQnC5K1r1Q) | 4:45 |
 
 Snapshot ID: `MTcwMDkzNzAwMCwwMDAwMDAwMDQ5NzBjNDk2NDVhODZmMWFjYmQ0M2ZkNGM0MDRjODYz`

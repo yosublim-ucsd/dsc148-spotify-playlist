@@ -1,6 +1,6 @@
 {
   "description": "Soft songs that gives you a gentle start of the day.",
-  "num_followers": 9762,
+  "num_followers": 9804,
   "original_name": "Soft Morning",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "10 Summers",
+        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
+      },
+      "artists": [
+        {
+          "name": "Ashley Singh",
+          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
+        }
+      ],
+      "duration_ms": 160500,
+      "name": "10 Summers",
+      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Without You",
         "url": "https://open.spotify.com/album/5gJz01RcHXsdy2IDWsnPtP"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 118826,
       "name": "Rosie",
       "url": "https://open.spotify.com/track/09t8F6vwElB6scMtsGpyaP"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "10 Summers",
-        "url": "https://open.spotify.com/album/1ELZRd8Ctp6zy7mwpwzOsx"
-      },
-      "artists": [
-        {
-          "name": "Ashley Singh",
-          "url": "https://open.spotify.com/artist/0W5v1wZ9vqtoIgklZa1wcH"
-        }
-      ],
-      "duration_ms": 160500,
-      "name": "10 Summers",
-      "url": "https://open.spotify.com/track/4QKiy0xETxTVnf8kNpsreo"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "I Will Wait",
+        "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 216841,
+      "name": "I Will Wait",
+      "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "The Book Of Love (Acoustic)",
         "url": "https://open.spotify.com/album/40UacYFsNld2mzqYBkAqPX"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "I Will Wait",
-        "url": "https://open.spotify.com/album/32aNqk2YkbDuULGnhW0UaX"
+        "name": "If I Were You",
+        "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
       },
       "artists": [
         {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+          "name": "Victoria Nadine",
+          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
         }
       ],
-      "duration_ms": 216841,
-      "name": "I Will Wait",
-      "url": "https://open.spotify.com/track/2VVWWwQ3FiWnmbukTb6Kd3"
+      "duration_ms": 192604,
+      "name": "If I Were You",
+      "url": "https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1159,22 +1175,6 @@
       "duration_ms": 195737,
       "name": "Cut Me Loose (feat. SKAAR) - Acoustic",
       "url": "https://open.spotify.com/track/0fHTzQDHHNGlX1gwPZWENh"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "If I Were You",
-        "url": "https://open.spotify.com/album/33lhloR9jksZUrSIpJYo1R"
-      },
-      "artists": [
-        {
-          "name": "Victoria Nadine",
-          "url": "https://open.spotify.com/artist/59ha4Qt5jtbrFQljKZrx8K"
-        }
-      ],
-      "duration_ms": 192604,
-      "name": "If I Were You",
-      "url": "https://open.spotify.com/track/1W90AsFODVp6SbRitqmpc6"
     },
     {
       "added_at": "2023-06-23 11:57:00",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
+      },
+      "artists": [
+        {
+          "name": "The Mayries",
+          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
+        }
+      ],
+      "duration_ms": 186128,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
         "name": "Alien (Acoustic)",
         "url": "https://open.spotify.com/album/6lA3p7IHcwFXjdy08QkGWS"
       },
@@ -1319,22 +1335,6 @@
       "duration_ms": 204629,
       "name": "Alien - Acoustic",
       "url": "https://open.spotify.com/track/6VDRCKWp49mhQhrvAeI5QT"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/5wAKEeRp8jjJNuR8cIFqpu"
-      },
-      "artists": [
-        {
-          "name": "The Mayries",
-          "url": "https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID"
-        }
-      ],
-      "duration_ms": 186128,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/5vuWnrXHFlKMQVcVu9fmRd"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Survivors (Acoustic)",
-        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        }
-      ],
-      "duration_ms": 269015,
-      "name": "Survivors - Acoustic",
-      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Let Me Down Slow (Acoustic)",
         "url": "https://open.spotify.com/album/46eyWTzXNAdBkt1JzUIOVz"
       },
@@ -1415,6 +1399,22 @@
       "duration_ms": 190373,
       "name": "Let Me Down Slow - Acoustic",
       "url": "https://open.spotify.com/track/67EbNY9iDrlwQ7h33jVb5E"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Survivors (Acoustic)",
+        "url": "https://open.spotify.com/album/2qwkydqrFXErPlx9bWWzcW"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        }
+      ],
+      "duration_ms": 269015,
+      "name": "Survivors - Acoustic",
+      "url": "https://open.spotify.com/track/0HE3TnUyHfk9HW09zzbbxc"
     },
     {
       "added_at": "2023-02-10 06:37:00",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2023-02-10 06:37:00",
       "album": {
-        "name": "Sorry For Writing All The Songs About You (Acoustic)",
-        "url": "https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8"
-      },
-      "artists": [
-        {
-          "name": "Clara Mae",
-          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
-        }
-      ],
-      "duration_ms": 192338,
-      "name": "Us - Acoustic",
-      "url": "https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH"
-    },
-    {
-      "added_at": "2023-02-10 06:37:00",
-      "album": {
         "name": "Blackbirds and Foxtails",
         "url": "https://open.spotify.com/album/6Xcbx0D39CgHzi7UrLuhW7"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 156482,
       "name": "Cherry",
       "url": "https://open.spotify.com/track/7iAkXOgqV4DlgBqJJxslVI"
+    },
+    {
+      "added_at": "2023-02-10 06:37:00",
+      "album": {
+        "name": "Sorry For Writing All The Songs About You (Acoustic)",
+        "url": "https://open.spotify.com/album/4jnlpvJbPBkI5MVPpTkuf8"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "duration_ms": 192338,
+      "name": "Us - Acoustic",
+      "url": "https://open.spotify.com/track/6vkGJCsMQc4HVZ1H8Yh2PH"
     },
     {
       "added_at": "2023-02-10 06:37:00",

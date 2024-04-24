@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 
 > The Official EA Sports FIFA 23 Soundtrack.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,227 likes - 104 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,278 likes - 104 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 25 | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/track/2CAQr9uW764IVG1eIQyeSg) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Totally Enormous Extinct Dinosaurs](https://open.spotify.com/artist/0g3NiCRhEv7M4SEDMrpItN) | [Walking On Water \(feat\. Totally Enormous Extinct Dinosaurs\)](https://open.spotify.com/album/1LGKKLcYxRAyILvCjMmiH2) | 3:36 |
 | 26 | [Playground](https://open.spotify.com/track/1Rv0Xew7tgajMBfd2XpsHJ) | [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D) | [Playground](https://open.spotify.com/album/7tkXq8OvQW8gBK0zaZkvdP) | 3:52 |
 | 27 | [Run em Down](https://open.spotify.com/track/6p2qoyg0qauFKy84UMjbmu) | [Graham Lake](https://open.spotify.com/artist/255KmzQ3ecWS4KAPnF1PJ8), [Avelino](https://open.spotify.com/artist/039zhJoEkboZ8Ii6K40Fb6) | [Run em Down](https://open.spotify.com/album/5Ow8sD6GpoqXtfNglsxtwY) | 2:36 |
-| 28 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |
-| 29 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
+| 28 | [Ounana](https://open.spotify.com/track/5vG6arj1VenNFvm33XTAoP) | [Bianca Costa](https://open.spotify.com/artist/1DcL22xdIWcdNa4ZHaXZjT) | [Ounana](https://open.spotify.com/album/5usO7FkdsJQRcRL3FckUFH) | 2:31 |
+| 29 | [Made of Gold](https://open.spotify.com/track/2dOlQsivPlIDjgISeoTJQw) | [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [Spell 31](https://open.spotify.com/album/6STKW3SGtdk3Gy2QrDuO5m) | 3:48 |
 | 30 | [Otomo](https://open.spotify.com/track/59QNyVtGhYoDnpO6T1e4yR) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb), [O'Flynn](https://open.spotify.com/artist/7LTSTQkL7iK7zndjFQgHQo) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 6:11 |
 | 31 | [First Flight To Mars](https://open.spotify.com/track/6UKz34hAzN9swLxG4Fz9i4) | [Ark Woods](https://open.spotify.com/artist/7rFWIQhhSOCe5eCBJhE77e) | [First Flight To Mars](https://open.spotify.com/album/450XgNiRqk6pdeKSIY504s) | 3:07 |
 | 32 | [Falling Apart](https://open.spotify.com/track/48DEKIyp57dlFy7Yn2O12V) | [Sea Girls](https://open.spotify.com/artist/45FqwUG4hTT6d39r2HUsUe) | [Falling Apart](https://open.spotify.com/album/7kAdBoeMx7uw9aI2cJ4mwj) | 3:20 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vgOVqe6BJn.md) - [plain]
 | 35 | [40\-16 Building](https://open.spotify.com/track/7LbIccTR3F9yYaWmMGMKtn) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Magic](https://open.spotify.com/album/1tiCHRx9AI11hfcLmkGEXT) | 2:55 |
 | 36 | [a\-okay](https://open.spotify.com/track/70I8nlO75XOU0IPXcnT5gj) | [blackwave.](https://open.spotify.com/artist/0nvdwVbj7NT1WL9P8JowLD), [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [a\-okay](https://open.spotify.com/album/0WF2rsNICGVdMoXOqpWfPK) | 3:40 |
 | 37 | [Dog Food \(feat\. Denzel Curry\)](https://open.spotify.com/track/2WTbnYggqMxe2SIixTrooY) | [IDK](https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Simple.](https://open.spotify.com/album/2BeEXKn0ecWhwxOftmUZhy) | 3:04 |
-| 38 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
-| 39 | [ALL THE HIGHS](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [ALL THE HIGHS](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 |
+| 38 | [ALL THE HIGHS](https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo) | [ALL THE HIGHS](https://open.spotify.com/album/4Z9aZaIeSiKBVOf7v7oHCI) | 3:26 |
+| 39 | [Run Run](https://open.spotify.com/track/2SJm5XYmsKvzPaHI3mW1GB) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Run Run](https://open.spotify.com/album/1H6H54RJH3fGexhTOyzIBr) | 3:06 |
 | 40 | [Hello Alien](https://open.spotify.com/track/4apqIevNZl1POiQccrGWls) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hello Alien](https://open.spotify.com/album/0dZ0p4707siTGOUEvr98D5) | 3:25 |
 | 41 | [Smthng](https://open.spotify.com/track/6MOO3hJJFrNV9ST0hmKX8X) | [Muddy Monk](https://open.spotify.com/artist/5rv6OYiDFLm0gQ8wbihOib) | [Ultra Dramatic Kid](https://open.spotify.com/album/2eknfGBt9LvrlcPY38x0lD) | 4:19 |
 | 42 | [White City](https://open.spotify.com/track/2FPVYeyKBKSNUUKrg4L0rk) | [Willow Kayne](https://open.spotify.com/artist/7b6l5JehVDc5Wb7L8iPvJN) | [White City](https://open.spotify.com/album/3xm5CfmCOizd2OT4BrQtqX) | 3:06 |

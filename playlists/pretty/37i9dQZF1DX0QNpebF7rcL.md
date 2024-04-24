@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QNpebF7rcL.md) - [plain]
 
 > The best in blues right now\. Cover: Toronzo Cannon
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,375 likes - 100 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,409 likes - 100 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

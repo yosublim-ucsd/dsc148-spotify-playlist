@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 
 > Hand\-picked and nourishing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,797 likes - 80 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,897 likes - 80 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 36 | [Headlands](https://open.spotify.com/track/0Byhp1XEGzIaXLkChB2Twn) | [Kingfishr](https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f) | [Headlands](https://open.spotify.com/album/6D8pLQ86Kn8dWheFs01GNe) | 4:42 |
 | 37 | [I Can't Get My Head Around You](https://open.spotify.com/track/72TRVAfkS1BeMgkbPPBa19) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 |
 | 38 | [Hold In, Hold On](https://open.spotify.com/track/0WebpqjAhluHB2WREW9x4R) | [Kid Bloom](https://open.spotify.com/artist/5CXdWANGwYYRPClH6hhC0P) | [Hold In, Hold On](https://open.spotify.com/album/3j7CpIcTP7jFEbQjIMcuud) | 2:39 |
-| 39 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 |
-| 40 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
+| 39 | [Turn The World On](https://open.spotify.com/track/2pkVFnJrUixqjhjf3In0G0) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [My Big Day](https://open.spotify.com/album/038nwIuL7EFF8sqKvsH7RO) | 3:30 |
+| 40 | [Like A Lesson](https://open.spotify.com/track/2MxDVhWDvd2f7ROLe8VDYe) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Like A Lesson](https://open.spotify.com/album/7htHFZFmrO9ChMSK82QLXx) | 3:19 |
 | 41 | [Confirmation](https://open.spotify.com/track/6erM0iK1QJH7Qaw29Vzqow) | [Westerman](https://open.spotify.com/artist/09s6bLEw45wioK9ytf3nsA) | [Confirmation / I Turned Away](https://open.spotify.com/album/7nC3k0PpLQ1MVsmcB7xTl4) | 3:29 |
 | 42 | [Mol y Sol](https://open.spotify.com/track/7AlzbuJ7jtFC2roWwgXvLL) | [Hugo Brijs](https://open.spotify.com/artist/1w6YfDok1oXwLvE1rlHewV) | [Glitra](https://open.spotify.com/album/7GYLONcNgPmog4Zqn8sm3b) | 3:30 |
 | 43 | [Mountain](https://open.spotify.com/track/4TFTlwrYFCLqmJtIgxRVUT) | [M\. Byrd](https://open.spotify.com/artist/2AzGGPCjkv7D9o7KkpxJYi) | [Mountain](https://open.spotify.com/album/5lLrspzGxZevZkbByj9zwd) | 3:02 |
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 65 | [Seaforth](https://open.spotify.com/track/0ws8eQLYkwVWWw6oizEtmy) | [King Krule](https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai) | [Seaforth](https://open.spotify.com/album/42PzjjlMNrWtKbZW7gseqr) | 4:05 |
 | 66 | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/track/0UdYkM8rQeOV9B8n65fsfN) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED), [Rivers Cuomo](https://open.spotify.com/artist/4LAz9VRX8Nat9kvIzgkg2v), [Pink Siifu](https://open.spotify.com/artist/40ZElxHldNyvn7x8WRC6fh) | [Running Red Lights \(feat\. Rivers Cuomo & Pink Siifu\)](https://open.spotify.com/album/0H6aN1da6Hv7nnZK5RrQVm) | 4:39 |
 | 67 | [It's Still Cool If You Don't](https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [It's Still Cool If You Don't](https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU) | 3:57 |
-| 68 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
-| 69 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
+| 68 | [Lover \(Don't Let Me Down\)](https://open.spotify.com/track/4tD2yU85sj8pjWPbsA3KDE) | [Palace](https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm) | [Lover \(Don’t Let Me Down\)](https://open.spotify.com/album/6o73F8z9Ik02r09k3gIqPD) | 4:10 |
+| 69 | [Good Day](https://open.spotify.com/track/2dHTK5Bc61ddJ07vhpNnfn) | [Bombay Bicycle Club](https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV) | [Everything Else Has Gone Wrong](https://open.spotify.com/album/11yHtE6IzOk6elh9cJzldJ) | 3:52 |
 | 70 | [Every Side Of You](https://open.spotify.com/track/731oIHe1EeEyTEwdtY0lRj) | [Vance Joy](https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT) | [Every Side Of You](https://open.spotify.com/album/6xLceFaewP4juAD4GjBd45) | 3:24 |
 | 71 | [Hometown](https://open.spotify.com/track/5cgB9o3llPiEDWVE9qhqWB) | [Nature TV](https://open.spotify.com/artist/43oBGBlKaDxrti8m7QiQrC) | [Hometown](https://open.spotify.com/album/1jOmue2WJLpDfvcJnDSook) | 3:42 |
 | 72 | [Beautiful Soul](https://open.spotify.com/track/6YSMslNGZJe23ZjCMXUOlx) | [Katy J Pearson](https://open.spotify.com/artist/6xBsaFua2lgAUlNv8Yh0nQ) | [Return](https://open.spotify.com/album/3ZLJDULvZPo4lZaZXsRkE0) | 3:16 |
@@ -85,8 +85,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVOwpsn6QxFY.md) - [plain]
 | 75 | [Pick](https://open.spotify.com/track/2opMGBCXLhtv94ffMd6vBf) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Big Picture](https://open.spotify.com/album/08AEeRKieqKS9Z9tU8SnPr) | 2:45 |
 | 76 | [It's The Future, Baby](https://open.spotify.com/track/0RtEzbmkNCnp416nGpGxGm) | [Gretel](https://open.spotify.com/artist/39HYn2OCDJFkUauHXqwBsG) | [Slugeye](https://open.spotify.com/album/0MUAv36cjquuVxonDFQSrH) | 3:44 |
 | 77 | [Andrew](https://open.spotify.com/track/0ZHnNz24gXtnyFsCeECPnZ) | [M Field](https://open.spotify.com/artist/2YCr3gD8aO0ck8k4i5vhU3) | [Andrew](https://open.spotify.com/album/3L5Tn8fZfACHkX0btiFAo0) | 2:44 |
-| 78 | [Glastonbury](https://open.spotify.com/track/3bOZlwqkyzEJLVieXorDtZ) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [Cinematic Baby](https://open.spotify.com/album/3zR3tVqYP1dAL6uxGOaJUg) | 3:48 |
-| 79 | [Pink Pools](https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Can't Stop The Dawn](https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL) | 3:18 |
+| 78 | [Pink Pools](https://open.spotify.com/track/01IeBj8Ep24Pgeh2WilK3E) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Can't Stop The Dawn](https://open.spotify.com/album/0x9Rt5SlVWjeI2TjGkACLL) | 3:18 |
+| 79 | [Glastonbury](https://open.spotify.com/track/3bOZlwqkyzEJLVieXorDtZ) | [Jo Hill](https://open.spotify.com/artist/1AbLfK2cwcwDcmiqyHQVF8) | [Cinematic Baby](https://open.spotify.com/album/3zR3tVqYP1dAL6uxGOaJUg) | 3:48 |
 | 80 | [27 Club](https://open.spotify.com/track/3lLEyB09dGdmsTY8F7P0Kw) | [Freak Slug](https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS) | [27 Club](https://open.spotify.com/album/2uWsbp1QOEZj9ofqSkKXQW) | 3:34 |
 
 Snapshot ID: `MTcxMTExNjIwNiwwMDAwMDAwMGEzMzY0YWI3ZDYxZDRjZWYzZDQ0NGZmZGRkOGJkNDA1`

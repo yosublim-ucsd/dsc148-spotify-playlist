@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 300849,
+  "num_followers": 300951,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Acustico (Live)",
-        "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
-      },
-      "artists": [
-        {
-          "name": "Rita Lee",
-          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
-        }
-      ],
-      "duration_ms": 212293,
-      "name": "Agora S\u00f3 Falta Voc\u00ea - Ao Vivo",
-      "url": "https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Spotify Sessions",
         "url": "https://open.spotify.com/album/4oieM9FgOhdsYIssk1SoM2"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 396968,
       "name": "Sweet Child O' Mine (feat. Myles Kennedy and The Conspirators) - Live at Spotify, London",
       "url": "https://open.spotify.com/track/1BMDaiVYDREQnrQZA7Drpk"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Acustico (Live)",
+        "url": "https://open.spotify.com/album/2bMTuolrlzBvZIXBzfxw1s"
+      },
+      "artists": [
+        {
+          "name": "Rita Lee",
+          "url": "https://open.spotify.com/artist/7dnT2FUXhjirperXaH22IJ"
+        }
+      ],
+      "duration_ms": 212293,
+      "name": "Agora S\u00f3 Falta Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/7J0N1re4mmmCl40GrW1vnY"
     },
     {
       "added_at": "2024-04-19 19:00:01",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
+        "name": "Big Jet Plane (Acoustic)",
+        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
+      },
+      "artists": [
+        {
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        }
+      ],
+      "duration_ms": 149516,
+      "name": "Big Jet Plane - Acoustic",
+      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
         "name": "Imprevis\u00edvel (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/5j4JF0JaqOzsPxIfXP0bDf"
       },
@@ -815,22 +831,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Big Jet Plane (Acoustic)",
-        "url": "https://open.spotify.com/album/1fTbvUUJNJ1LiX4C0akX9e"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        }
-      ],
-      "duration_ms": 149516,
-      "name": "Big Jet Plane - Acoustic",
-      "url": "https://open.spotify.com/track/4ZHJU9kCqZK6a39YXIZFxc"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Quando Eu Te Encontrar",
         "url": "https://open.spotify.com/album/4MtuejkQXYqgYBLrCY69Jy"
       },
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-04-19 19:00:01",
       "album": {
-        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
-        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
-      },
-      "artists": [
-        {
-          "name": "Jota Quest",
-          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
-        }
-      ],
-      "duration_ms": 190651,
-      "name": "Guerra e Paz - Ac\u00fastico Live",
-      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
-    },
-    {
-      "added_at": "2024-04-19 19:00:01",
-      "album": {
         "name": "Digital (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/32L9YGyYkP4jXe2ZrUfQTk"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 196023,
       "name": "Digital - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1LJvDkYyNLz4ZOYV6De1qX"
+    },
+    {
+      "added_at": "2024-04-19 19:00:01",
+      "album": {
+        "name": "Jota Quest Ac\u00fastico CCBB LIVE EP",
+        "url": "https://open.spotify.com/album/7zxSEA6cNt4FPPZGs4yYMU"
+      },
+      "artists": [
+        {
+          "name": "Jota Quest",
+          "url": "https://open.spotify.com/artist/5re6NsyXzHg6uvNimzQ3F6"
+        }
+      ],
+      "duration_ms": 190651,
+      "name": "Guerra e Paz - Ac\u00fastico Live",
+      "url": "https://open.spotify.com/track/0GqflosdHRexuPNdL0ocT6"
     },
     {
       "added_at": "2024-04-19 19:00:01",

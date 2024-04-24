@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 251264,
+  "num_followers": 251450,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Green Onions",
-        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
-      },
-      "artists": [
-        {
-          "name": "Booker T. & the M.G.'s",
-          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
-        }
-      ],
-      "duration_ms": 176333,
-      "name": "Green Onions",
-      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Everything's Archie",
         "url": "https://open.spotify.com/album/3Yx7rFz5gPsuWOoNncW0UP"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 167213,
       "name": "Sugar Sugar",
       "url": "https://open.spotify.com/track/6MTd61g9zq6CB1FnJydjEb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Green Onions",
+        "url": "https://open.spotify.com/album/2aGFVLz0oQPa3uxCfq9lcU"
+      },
+      "artists": [
+        {
+          "name": "Booker T. & the M.G.'s",
+          "url": "https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5"
+        }
+      ],
+      "duration_ms": 176333,
+      "name": "Green Onions",
+      "url": "https://open.spotify.com/track/4fQMGlCawbTkH9yPPZ49kP"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -457,22 +457,6 @@
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Do you Believe In Magic",
-        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 125826,
-      "name": "Do You Believe in Magic?",
-      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
-    },
-    {
       "added_at": "2023-05-30 09:14:29",
       "album": {
         "name": "The Second",
@@ -487,6 +471,22 @@
       "duration_ms": 271573,
       "name": "Magic Carpet Ride",
       "url": "https://open.spotify.com/track/4c4jJJoaiY21t2TyRZgdWS"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Do you Believe In Magic",
+        "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 125826,
+      "name": "Do You Believe in Magic?",
+      "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -895,6 +895,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The Chiffons Absolutely The Best!",
+        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
+      },
+      "artists": [
+        {
+          "name": "The Chiffons",
+          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
+        }
+      ],
+      "duration_ms": 112520,
+      "name": "He's So Fine - Remastered 2000",
+      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Take Two",
         "url": "https://open.spotify.com/album/0My58U9zPnyq4TIZOr7brK"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 177666,
       "name": "It Takes Two",
       "url": "https://open.spotify.com/track/0UERoCKd24PKovd4BwRzBQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The Chiffons Absolutely The Best!",
-        "url": "https://open.spotify.com/album/1WvYZcG9v3WzzNNkwpreGq"
-      },
-      "artists": [
-        {
-          "name": "The Chiffons",
-          "url": "https://open.spotify.com/artist/05sIdEkXAYDbDDdv3T56Oj"
-        }
-      ],
-      "duration_ms": 112520,
-      "name": "He's So Fine - Remastered 2000",
-      "url": "https://open.spotify.com/track/2Bs1Lw9LX8hBm70t1iGdlh"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Make It Happen",
-        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
-      },
-      "artists": [
-        {
-          "name": "Smokey Robinson & The Miracles",
-          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
-        }
-      ],
-      "duration_ms": 181800,
-      "name": "The Tears Of A Clown",
-      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "It's Our Thing (Expanded Edition)",
         "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 149800,
       "name": "Take Good Care Of My Baby",
       "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Make It Happen",
+        "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
+      },
+      "artists": [
+        {
+          "name": "Smokey Robinson & The Miracles",
+          "url": "https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt"
+        }
+      ],
+      "duration_ms": 181800,
+      "name": "The Tears Of A Clown",
+      "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1983,6 +1983,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "Rhino Hi-Five: Trini Lopez",
+        "url": "https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI"
+      },
+      "artists": [
+        {
+          "name": "Trini Lopez",
+          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
+        }
+      ],
+      "duration_ms": 179400,
+      "name": "If I Had a Hammer",
+      "url": "https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Twist & Shout",
         "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 173973,
       "name": "Gimme Some Lovin' - Single Mix",
       "url": "https://open.spotify.com/track/0g6UcrVsACnRJyTGX6uSHu"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Rhino Hi-Five: Trini Lopez",
-        "url": "https://open.spotify.com/album/0njpKtai2m3jKLzsiLSGWI"
-      },
-      "artists": [
-        {
-          "name": "Trini Lopez",
-          "url": "https://open.spotify.com/artist/5FlTKgucbhHvlJVf0pnvOv"
-        }
-      ],
-      "duration_ms": 179400,
-      "name": "If I Had a Hammer",
-      "url": "https://open.spotify.com/track/44Btht5msS0IQ7o2DZuFdu"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2280,6 +2280,22 @@
           "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
+      "duration_ms": 131213,
+      "name": "Can't Buy Me Love - Remastered 2015",
+      "url": "https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "1 (Remastered)",
+        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
       "duration_ms": 140920,
       "name": "She Loves You - Mono / Remastered",
       "url": "https://open.spotify.com/track/2Fk411Ix3qnMG8t8Qa74ZX"
@@ -2299,22 +2315,6 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered",
       "url": "https://open.spotify.com/track/4Z1fbYp0HuxLBje4MOZcSD"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "1 (Remastered)",
-        "url": "https://open.spotify.com/album/5ju5Ouzan3QwXqQt1Tihbh"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 131213,
-      "name": "Can't Buy Me Love - Remastered 2015",
-      "url": "https://open.spotify.com/track/7pQAq14Z73YUFMtxCyt0bG"
     },
     {
       "added_at": "2022-06-16 22:02:00",

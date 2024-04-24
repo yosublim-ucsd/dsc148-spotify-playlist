@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 64 | [Primero Muerta](https://open.spotify.com/track/6meWroBtBSUwcTfDFZ98ym) | [Diana Reyes](https://open.spotify.com/artist/5bY76TkueuNA4eqIm67Pkz) | [Yo No Creo en los Hombres](https://open.spotify.com/album/6QZP7gsvCUtxizd2pknkYj) | 3:16 |
 | 65 | [Conectando \(Conectando\)](https://open.spotify.com/track/2ikhylgjcAPjpHyVGgm56W) | [Z4](https://open.spotify.com/artist/5srJ7AfiYT2RgeN6pkShBx) | [Z4 em Espanhol](https://open.spotify.com/album/5w9EHxR8lLrE8Xgw4toFwM) | 2:35 |
 | 66 | [Mi Mujer Es un Policia](https://open.spotify.com/track/0W9DlZs84KztEtex3eHg99) | [Luisito Ayala Y La Puerto Rican Power](https://open.spotify.com/artist/2UoLlLFDkqewHH7EzaZcl7) | [Tranquilo y Tropical](https://open.spotify.com/album/1gYTKWdnL1Cb5AAoJUL1NY) | 4:34 |
-| 67 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
-| 68 | [Si Te Quieres Quedar](https://open.spotify.com/track/1pYIOnzAI58NMOIFbPqkoz) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:05 |
+| 67 | [Si Te Quieres Quedar](https://open.spotify.com/track/1pYIOnzAI58NMOIFbPqkoz) | [Erika Ender](https://open.spotify.com/artist/5HPu6u2rDA0f6jp51xZAEq) | [MP3\-45](https://open.spotify.com/album/2r68bWBWqNzRqPQAZrOjRS) | 4:05 |
+| 68 | [Si Estas Paredes Hablaran](https://open.spotify.com/track/3OrFxB3qMlN1pUQdZegMOa) | [Tamara](https://open.spotify.com/artist/1BY90fgPEPLRdSrdIV9zrz) | [Perfecto](https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4) | 3:46 |
 | 69 | [Hechicera](https://open.spotify.com/track/0PaAM2fi2zOHrJN7QR34AY) | [Marcos Llunas](https://open.spotify.com/artist/4Zczh0uPcVMO6o80jJDPz5) | [Hechicera](https://open.spotify.com/album/1ZVF58hLH31xOaBAwFsej6) | 3:38 |
 | 70 | [Parece Mentira](https://open.spotify.com/track/2CngZ9QEOY2RaZkF6uDnCC) | [Andres De Leon](https://open.spotify.com/artist/33TuJe4aKhcIps7wxKmfzm), [Daniela Castillo](https://open.spotify.com/artist/7nriakmj7Rcq8KhhaLSgja) | [Parece Mentira](https://open.spotify.com/album/5j832ytWjQF5ZXDLqFIC6L) | 3:46 |
 | 71 | [Caída Libre](https://open.spotify.com/track/3tQo4LCoLO0XRvIYKdFTg7) | [Ednita Nazario](https://open.spotify.com/artist/1Lvrnoz3ZKzzrBuZ446e6P) | [Desnuda](https://open.spotify.com/album/0x1njlKQdxOQD1HtcQsOd3) | 3:06 |
@@ -160,4 +160,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFSNh47B6MoYD.md) - [plain]
 | 150 | [A Donde Vas?](https://open.spotify.com/track/2hynyvo4Yrg7p28zFehp5t) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 4:18 |
 | 151 | [Sin Rumbo](https://open.spotify.com/track/6cNFdyjODCc2ooX7XyMAxt) | [Lenys Paredes](https://open.spotify.com/artist/63iNv5IQAeYBecX9nFAyjE) | [Empiezo a Vivir](https://open.spotify.com/album/3RXFx7yvhlpoc3f5xfMlJh) | 3:30 |
 
-Snapshot ID: `Mjg1NjQwMzUsMDAwMDAwMDA1ODg2ZTdkNWZhMDRiYjJhZTViYjBmOGU0YWZmYTE3Nw==`
+Snapshot ID: `Mjg1NjYzNzUsMDAwMDAwMDA0Y2I0ZmM2YmUwNDk2MWNlMzQ5OTVmNjhiMjE5NjE5Yg==`

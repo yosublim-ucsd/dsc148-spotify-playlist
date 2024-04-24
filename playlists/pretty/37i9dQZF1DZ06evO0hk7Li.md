@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 
 ### [This Is Jacob Banks](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0hk7Li)
 
-> This is Jacob Banks\. The essential tracks, all in one playlist.
+> This is Jacob Banks\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,123 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,132 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0hk7Li.md) - [plain]
 | 49 | [Photograph](https://open.spotify.com/track/6BvAeJI35GUw2kNK6yMupI) | [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [The Boy Who Cried Freedom](https://open.spotify.com/album/6agNoT5WXMENsbQvhxGEws) | 2:17 |
 | 50 | [Broken Chandeliers](https://open.spotify.com/track/3Na204EPxuFTcXM1WBIr7C) | [Kofi Stone](https://open.spotify.com/artist/0htlZDCG9I8LSENteF1TyQ), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Broken Chandeliers](https://open.spotify.com/album/6olyJyF1pBAuI1YrGg03Tp) | 3:23 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGNjOTUwZTFkZDQ3MDM1OTU5MTUyOTgyZWZlNjRlMzg2`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGFmMjdhODVlMTMwM2RmODQyODAxNGQxZjhhODIzODNh`

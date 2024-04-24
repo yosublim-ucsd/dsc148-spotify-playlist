@@ -4,7 +4,7 @@
 
 > Featuring up\-and\-coming Tamil artists from the Indie scene<br/>Cover : Sai Abhyankar
 
-266 songs - 15 hr 22 min
+267 songs - 15 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,6 +123,7 @@
 | [Love Rocket](https://open.spotify.com/track/6XGJ92Wy1U8w7KOGJnVSMA) | [Yokesh Ravilla](https://open.spotify.com/artist/5AhtI9OadgjCSkFvNpUGsR), [Sathish K](https://open.spotify.com/artist/1A5uByEnQ5Qhim7K8CfPhC) | [Love Rocket](https://open.spotify.com/album/4QRLuH6CpWycgOSdFgCItM) | 3:12 | 2023-11-15 |  |
 | [Maarambari](https://open.spotify.com/track/4xPz0QQczOI5mllfIhamHP) | [Shanker](https://open.spotify.com/artist/1fblT0Y2Eq5zyTHBUJ29eM), [Tikx Kooda](https://open.spotify.com/artist/550h9wiTpYT12T8Zyihl69), [Mirun Pradhap](https://open.spotify.com/artist/7eOB1fI6XehKYZ1pmzC50r) | [Maarambari](https://open.spotify.com/album/3av6K5LWeEqxsbeXHxjLxd) | 3:19 | 2023-08-04 | 2023-10-21 |
 | [Makal](https://open.spotify.com/track/4HyqWvunNGcNrkz9Ik4Wsh) | [Sudeep Palanad](https://open.spotify.com/artist/5gEbn8GU8GPvl5V7nnbHF3) | [Makal](https://open.spotify.com/album/0tSGRLL1qHoR2HoLeCAP2r) | 4:06 | 2023-11-14 | 2024-01-03 |
+| [Malare](https://open.spotify.com/track/1Yhy3yuMn358yD7LMOU5wW) | [Ramesh Ramamoorthy](https://open.spotify.com/artist/3WKrBCDSsXblXjpDNQ7oxz), [Sikkil Gurucharan](https://open.spotify.com/artist/2n5XFSvKch0WL1A066NLFt), [Sanjeev Venkataramanan](https://open.spotify.com/artist/4oXQTJFc30wSqRRJD1A3zV) | [Malare](https://open.spotify.com/album/3jT3LOUaPkSzj3s3h5p7nF) | 2:20 | 2024-04-24 |  |
 | [Malarum Vazhvey](https://open.spotify.com/track/1VM7VykzWXMDRbFgOl6BUH) | [Sanathan Shree Krishnan](https://open.spotify.com/artist/0FkY0miVokq6NnCKVg2Gko) | [Malarum Vazhvey](https://open.spotify.com/album/3GJjZW1ty3XpsK1FuWoBTn) | 2:54 | 2023-03-21 | 2023-07-25 |
 | [Mama](https://open.spotify.com/track/1kBRm822ev9Vz8GWPlp2Jl) | [Iykki Berry](https://open.spotify.com/artist/0I0EZKnUpimGfzPY17L1yD), [Dev Major](https://open.spotify.com/artist/4Iwi2N3FmmKmxAuGlD3AQv) | [Mama](https://open.spotify.com/album/66RmVpnMXxZoAvS60lje0i) | 3:26 | 2024-01-30 |  |
 | [Manam](https://open.spotify.com/track/78aq6l0X3srW5K7kHkrUrK) | [Sandhya Chari](https://open.spotify.com/artist/3c9OLxs9AiWd0ec9k08Y6X) | [Manam](https://open.spotify.com/album/1PjbUFaXW8HFuvYGwIwtdd) | 4:00 | 2023-09-01 |  |
@@ -203,7 +204,7 @@
 | [Scene Podaathadi](https://open.spotify.com/track/0KSC5FHBDUGJ0HH0rjBvCV) | [Sajay ARS](https://open.spotify.com/artist/4CiDnvUhyQmU50RYWMGfD2), [Ruthra Kabi](https://open.spotify.com/artist/4vsRVAC4QikMjYBxYjj3KV) | [Scene Podaathadi](https://open.spotify.com/album/1s5Jr6YVAiBmdssiIQPbmE) | 3:54 | 2023-03-21 | 2023-07-28 |
 | [Sernthom Pirinthom](https://open.spotify.com/track/15ZUtomY7AmhvWrrSxzwOS) | [Hidden frequencies](https://open.spotify.com/artist/5rAZDoXWpwb5v3pqstP4WB) | [Sernthom Pirinthom](https://open.spotify.com/album/1EzqQmsgWsqYkyAyWN4RMu) | 3:43 | 2023-07-10 | 2024-02-16 |
 | [Shiva Thandavam](https://open.spotify.com/track/2nwc64nkdBuT655QCKopWY) | [Kaviisai Vallavan](https://open.spotify.com/artist/0Eour79zyRHEZLexWRu2Z3) | [Shiva Thandavam](https://open.spotify.com/album/2vvjTqC3sGfNBacT2tBTkE) | 3:48 | 2023-11-16 | 2024-04-16 |
-| [Shoe Theriyudha](https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm) | [Sumesh Kumar](https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr) | [Shoe Theriyudha](https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk) | 3:34 | 2023-10-06 |  |
+| [Shoe Theriyudha](https://open.spotify.com/track/7FG1BPAP93BBgtofxyZLEm) | [Sumesh Kumar](https://open.spotify.com/artist/7d2JB1nMqIEwLdpw0oJVWr) | [Shoe Theriyudha](https://open.spotify.com/album/4FEwyWz8W3PA8CLyzaXEHk) | 3:34 | 2023-10-06 | 2024-04-24 |
 | [Show Time](https://open.spotify.com/track/3gLDF0FVNVcFQojbLdyFJs) | [Mrs Go](https://open.spotify.com/artist/1RRxqiZw0jqxLjQSUx4lZT), [Debbie Pari](https://open.spotify.com/artist/5EaGIUUHZvkivRGvlWkfpr), [Kalla Sha](https://open.spotify.com/artist/2LJPuiESacNin3Pz3SOXVd) | [Show Time](https://open.spotify.com/album/0AjLHcwTPKpJRTChf9uazw) | 4:16 | 2024-02-09 |  |
 | [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/track/65TpoCFjxcKOqqeG8HmzPT) | [Nanthaa SRISKANTHARAJAH](https://open.spotify.com/artist/6vYtOgkXRZxSarw7zyyeuR), [Sri Jeya Ragavan](https://open.spotify.com/artist/0Tkx7aPCt1tqlzzZZ2OHFW) | [SHRUNGAARAPPOOVE \(ENN VAASHAL\)](https://open.spotify.com/album/0QepAr4SimliR2x459D4k4) | 4:22 | 2024-02-16 |  |
 | [Shy Boi](https://open.spotify.com/track/5dF6MnJUCc2LuLMQ5w82wA) | [Mk Muziq](https://open.spotify.com/artist/2Ww6FB7QYmV6Kz0pZVYN5M), [Baila Curry](https://open.spotify.com/artist/5DyGDTfz4KZ7XcUXHcXrly), [Double J The Rapper](https://open.spotify.com/artist/4oS28QL714oJei3rN7QrIf) | [Shy Boi](https://open.spotify.com/album/2JA7ebasiQYXt9jaw5cNz2) | 2:37 | 2023-08-07 | 2023-11-07 |

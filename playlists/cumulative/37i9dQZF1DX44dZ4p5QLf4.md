@@ -4,7 +4,7 @@
 
 > A blend of new songs and artists in the soul space\. Cover: FKJ
 
-413 songs - 1 day 0 hr 33 min
+414 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/track/6rVomZSCiNuuJmVlpgfZkt) | [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO), [Free Nationals](https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj) | [Through The Night \(feat\. Free Nationals\)](https://open.spotify.com/album/1KUP4jLGY0Jil7j43w3dx8) | 4:18 | 2023-07-07 |  |
 | [Till Then](https://open.spotify.com/track/6cCdW3KSYyXf5RUMpYLRLI) | [Benny Atlas](https://open.spotify.com/artist/6IXnkjY4xozfLmaA0DxuoS) | [Daphne](https://open.spotify.com/album/6Cfk8r536eOg7neP6W3Pfl) | 3:16 | 2022-12-02 | 2023-02-18 |
 | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/track/2zkZLLgRH6nrJYNlYhK47N) | [Sebastian Mikael](https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf), [KIRBY](https://open.spotify.com/artist/5lcDGoJUr5WY5bCFAfYbCU) | [Time \(Remix\) \[feat\. KIRBY\]](https://open.spotify.com/album/6W3vlNqiYjKE5BEAKTmlpP) | 3:33 | 2021-12-16 | 2022-06-17 |
+| [TIRED](https://open.spotify.com/track/6N8VWaHtkUzJ4uF1gj5wIU) | [Rya](https://open.spotify.com/artist/5o0oa7D3vG5hisRVA4M3Vp) | [TIRED](https://open.spotify.com/album/4dQLC2L4bzoTUafGssjJEX) | 2:10 | 2024-04-23 |  |
 | [Told you so](https://open.spotify.com/track/0ghflGGfVvifD3szXw4LwO) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [IRONEYE](https://open.spotify.com/album/63EPS17zm5uUritHjGzs3C) | 4:49 | 2023-02-17 | 2024-02-10 |
 | [Told you so](https://open.spotify.com/track/21X3h6KM8BfxqcrrHD7ybj) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [Told you so](https://open.spotify.com/album/0NtlI4QSCeyq9S3LLLZVp1) | 4:49 | 2022-12-21 | 2023-01-16 |
 | [Told you so](https://open.spotify.com/track/2S5Ews7qHXfQTtbTPF7oB7) | [Adja](https://open.spotify.com/artist/6mfAnYseSIw2FCo3YvVz1g) | [To be naive](https://open.spotify.com/album/4lVIjRZ5J3zUSKTHV7iV3X) | 4:49 | 2022-12-29 | 2023-02-26 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 
 > Música tranquila para evadirse.
 
-[Spotify](https://open.spotify.com/user/spotify) - 399,091 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 399,158 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 40 | [OPPENHEIMER](https://open.spotify.com/track/5VW0caqrvndBLyofAjjscO) | [TRISTÁN!](https://open.spotify.com/artist/4XWTmdheb3gjg0P3tNQwT0) | [OPPENHEIMER](https://open.spotify.com/album/1DHmGusWeGzJOnYrKBzLFu) | 2:21 |
 | 41 | [Conversations in the Dark](https://open.spotify.com/track/6TYlDTa9AQDvjqwbxlvFyI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Conversations in the Dark](https://open.spotify.com/album/5LVi2qET36RvkLil7mJclb) | 3:57 |
 | 42 | [ocean eyes \- Recorded Live at Jungle City Studios](https://open.spotify.com/track/7rLokcIMP9p8fl0iROdVfC) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [Spotify Singles](https://open.spotify.com/album/5AS789PRyPv5B6l17kLfAW) | 3:04 |
-| 43 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
-| 44 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
+| 43 | [Te Lo Voy a Decir](https://open.spotify.com/track/3WDMlT5t2UWDnkre7CrZbU) | [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Te Lo Voy a Decir](https://open.spotify.com/album/6MeNE5UGAISIbnDkj27hNF) | 4:06 |
+| 44 | [Beanie](https://open.spotify.com/track/2NlxHzUzAHhNcZdaOEuLzq) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Beanie](https://open.spotify.com/album/6ZEGxtC2UW02PF0TR4CsKh) | 2:12 |
 | 45 | [Delicate](https://open.spotify.com/track/6MY1xABxoZATrEr4FeUhEM) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [O](https://open.spotify.com/album/3ADELRoZ4I8WLE7clLU7La) | 5:12 |
 | 46 | [Song For You](https://open.spotify.com/track/0BfLvshnvJldGROufmYCrv) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Blood](https://open.spotify.com/album/6yoGOJsTjU7w2amKcUUX7S) | 3:58 |
 | 47 | [Jesus, Etc.](https://open.spotify.com/track/4wd09wCccmxUB7XVJp0RNn) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Yankee Hotel Foxtrot](https://open.spotify.com/album/0rPtXOMN42nsLDiShvGamv) | 3:51 |
@@ -72,13 +72,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcjpPPxCzYRE.md) - [plain]
 | 62 | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/track/371akJ9fYgSkrAFMyWoTdL) | [Band of Horses](https://open.spotify.com/artist/0OdUWJ0sBjDrqHygGUXeCF) | [No One's Gonna Love You \(Stockholm Version\)](https://open.spotify.com/album/5Dw1GPGxKN6LfNoiFj3LJY) | 3:48 |
 | 63 | [Everyday Life](https://open.spotify.com/track/6WMf0Om41Z6HlMzXFuZ4F0) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [Everyday Life](https://open.spotify.com/album/2lbe1rWHU4a03qZipEaMDB) | 4:18 |
 | 64 | [Time After Time](https://open.spotify.com/track/4zUd12gfWCDzSNBp1b0jiE) | [Vazquez Sounds](https://open.spotify.com/artist/7M5Z4j6N9k2Jd3CukFUv5e) | [Time After Time](https://open.spotify.com/album/3q7JpBcbZ1uGUypD5Dg8Xc) | 3:26 |
-| 65 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
-| 66 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
+| 65 | [I Don't Want to Change You](https://open.spotify.com/track/2WOpBtXX02RS4UCzBholDq) | [Damien Rice](https://open.spotify.com/artist/14r9dR01KeBLFfylVSKCZQ) | [My Favourite Faded Fantasy](https://open.spotify.com/album/1dMqVfKYgHAjG76ZZufxSW) | 5:26 |
+| 66 | [All the Pretty Girls \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/2Sqv9Ne6ibOZsKxY7o0t6t) | [KALEO](https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc) | [Spotify Singles](https://open.spotify.com/album/0ePAbfGZqHBfhlQfX8ioGz) | 5:07 |
 | 67 | [every day is a game](https://open.spotify.com/track/64ircYoqL31h8dhGPpiUYO) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [every day is a game](https://open.spotify.com/album/7r1igo5Ea58ReRVLPXfa2e) | 4:09 |
 | 68 | [Cambios](https://open.spotify.com/track/2pehRZBrGUQrsAnnyG02ET) | [Mario Diaz](https://open.spotify.com/artist/0p1xvmO3gEsrCdvRLf4qLh), [Colectivo Panamera](https://open.spotify.com/artist/7aFW3s8aXxis0oiGyOM3Yw) | [Cambios](https://open.spotify.com/album/1JgQALH4p7iOtrcJPHrYqD) | 3:23 |
 | 69 | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/track/7MQsvYlWeJUnMuY84MraBg) | [Macaco](https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Confitados \(feat\. El Kanka\)](https://open.spotify.com/album/0ol8B8mnMgdkTJCR3ipqQx) | 3:16 |
-| 70 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
-| 71 | [You and I](https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK) | 3:24 |
+| 70 | [You and I](https://open.spotify.com/track/5i57BBhq5eNVS5cBkDD69j) | [Wilco](https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM) | [Wilco \(The Album\)](https://open.spotify.com/album/3UeSYkvpAJfXp97Os7Y1sK) | 3:24 |
+| 71 | [the man](https://open.spotify.com/track/6OTVvKhi3Wb16TEiQEokrs) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o) | [the man](https://open.spotify.com/album/5c4WcxUUeJNjIkGfylXRBI) | 2:39 |
 | 72 | [Hold Your Head Up High](https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX) | [Darlingside](https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm) | [Hold Your Head Up High](https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J) | 3:37 |
 | 73 | [Unspoken](https://open.spotify.com/track/66MxyiQy54baNhSyg3wiIn) | [Aaron Smith](https://open.spotify.com/artist/5Nm4sZeWDNd1sOs5HcxAbl) | [Unspoken](https://open.spotify.com/album/7kRUXMREmvFYqvh5IEZvmt) | 3:30 |
 | 74 | [Madrid](https://open.spotify.com/track/6DQQzhWtXNwnFrp3EZRCx7) | [Pajaro Sunrise](https://open.spotify.com/artist/32QlIuGzOsKVaQzQrSGOPq), [Yuri Méndez](https://open.spotify.com/artist/2ymu2JqHgHPUQKj9ZmJW1H) | [Madrid](https://open.spotify.com/album/2ZXY7q485ZgTRc9qiw4uGA) | 4:00 |

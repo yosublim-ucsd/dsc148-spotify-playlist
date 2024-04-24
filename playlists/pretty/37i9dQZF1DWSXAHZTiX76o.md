@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 
 > Los nuevos clásicos para fiestear ✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,442 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,435 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSXAHZTiX76o.md) - [plain]
 | 27 | [I Follow Rivers](https://open.spotify.com/track/336ZYcU6poBWi3s8yzRcAD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Wounded Rhymes](https://open.spotify.com/album/43uf0nTu6b5ReBCoQkLtsF) | 3:48 |
 | 28 | [Ooh La](https://open.spotify.com/track/2Uf9WTBWMA8S9Lh3k3Rui6) | [The Kooks](https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4) | [Inside In / Inside Out](https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY) | 3:28 |
 | 29 | [Let's Dance to Joy Division](https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Proudly Present..\. A Guide to Love, Loss & Desperation](https://open.spotify.com/album/75l5Bqvc0BH45UhJrS04Xj) | 3:11 |
-| 30 | [She Bangs the Drums \- Remastered](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
+| 30 | [She Bangs the Drums \- Remastered 2009](https://open.spotify.com/track/3clIHVzJ9J2rvvrFUKLICo) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | 3:52 |
 | 31 | [Blue Monday \- 2016 Remaster](https://open.spotify.com/track/1RSy7B2vfPi84N80QJ6frX) | [New Order](https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3) | [Singles \(2016 Remaster\)](https://open.spotify.com/album/2ODAEaYlqS88SU4ZZu1bI6) | 7:30 |
 | 32 | [I Will Survive](https://open.spotify.com/track/4THrHKyBL0yaDDw9yg37Zk) | [CAKE](https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV) | [Fashion Nugget](https://open.spotify.com/album/6kPOXxCYCdXBzEbb9dqE90) | 5:10 |
 | 33 | [Golden Touch \- Full Length](https://open.spotify.com/track/13bEwk7dTy0RdOAY3ZNNBD) | [Razorlight](https://open.spotify.com/artist/450iujbtN6XgiA9pv6fVZz) | [Up All Night](https://open.spotify.com/album/4HKGobgiysyDLsWp86chaK) | 3:25 |

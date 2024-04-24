@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 
 > Roll the windows down and take a few risks out on the open, country roads.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,968 likes - 80 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,971 likes - 80 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,8 +66,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 56 | [Over Drinking](https://open.spotify.com/track/6pmUZU4mDjodUy7LEbxKYZ) | [Little Big Town](https://open.spotify.com/artist/3CygdxquGHurS7f9LjNLkv) | [Nightfall](https://open.spotify.com/album/4qs02AtQxPiPkklCBD7y8q) | 3:10 |
 | 57 | [You Look Good in Neon](https://open.spotify.com/track/2pMA8br4faGr6rQKOZkhgU) | [Silverada](https://open.spotify.com/artist/5fTJlk4f1YRh4ObYssJo44) | [You Look Good in Neon](https://open.spotify.com/album/5ItpHOg0EK9Yw2DVvfp5mg) | 4:00 |
 | 58 | [Lotta Fun](https://open.spotify.com/track/4Qpm33fWxkNNV4wJ0rTLYE) | [Lukas Nelson and Promise of the Real](https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY) | [Turn Off The News \(Build A Garden\)](https://open.spotify.com/album/4pq1gNWh38JQfazZqxjH5m) | 2:57 |
-| 59 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
-| 60 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
+| 59 | [Drive](https://open.spotify.com/track/6is4HZ5UFpIPGxUNdVdKbV) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Drive](https://open.spotify.com/album/1uyjNRxaNNpqYFPBXMAXsZ) | 2:48 |
+| 60 | [Champagne Corolla](https://open.spotify.com/track/6zFZuHLAUd1JNDWtBQRDaQ) | [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [J.T.](https://open.spotify.com/album/02DqMqXTuEauf2EQsHZtmB) | 3:35 |
 | 61 | [Honky Tonk Hell](https://open.spotify.com/track/6zBCsjkZd6SLDX32I8ZzrF) | [Gabe Lee](https://open.spotify.com/artist/4d7vxlNVahWbjoKO3ZBHD4) | [Honky Tonk Hell](https://open.spotify.com/album/7A07KizyQlXTvwFY0Nj0XF) | 3:53 |
 | 62 | [Prisoner Of The Highway](https://open.spotify.com/track/17ovUJrgt7GvsemAskk0Vs) | [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [That's How Rumors Get Started](https://open.spotify.com/album/0QFMgwRbj0jhGR8FEAmVdL) | 3:44 |
 | 63 | [Wrangled](https://open.spotify.com/track/6QyeZn2b2LFLdX1AJ9PPZN) | [Angaleena Presley](https://open.spotify.com/artist/7hmwyQifkGl8GgOMVJZvW0) | [Wrangled](https://open.spotify.com/album/0zwOXYFER5nHUzF1xiuS58) | 4:42 |
@@ -75,9 +75,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdIGcLx6BTyA.md) - [plain]
 | 65 | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/track/5zTpwOHztQElKRizyTayWa) | [Logan Ledger](https://open.spotify.com/artist/4KcXOZaofRdvBDl0b8LOYM) | [\(I’m Gonna Get Over This\) Some Day](https://open.spotify.com/album/0uZDVcg1RcF8WoWbyN0R5Y) | 2:52 |
 | 66 | [Everything Is Broken](https://open.spotify.com/track/3UHyIr4CEma2wusb208Wyl) | [Sheryl Crow](https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Everything Is Broken](https://open.spotify.com/album/6wBh8mo97CY42OTfh1DjHi) | 4:32 |
 | 67 | [Terlingua Girl](https://open.spotify.com/track/0YqdhC1eKW6zuAodDlhTZ8) | [Lillie Mae](https://open.spotify.com/artist/32bF8EkwKNXBZyEo371paF) | [Terlingua Girl](https://open.spotify.com/album/1sie66Xsn9KhVGseBhdNeF) | 4:14 |
-| 68 | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t) | 3:55 |
-| 69 | [The Luckier You Get](https://open.spotify.com/track/65UpRy3wUTP9tPETrBeQQQ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [The Luckier You Get](https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP) | 3:01 |
-| 70 | [Wild Love](https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:51 |
+| 68 | [Wild Love](https://open.spotify.com/track/0pNMGl99ohJrxz0O3ardvu) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP) | [Sparrow](https://open.spotify.com/album/0Frgzm1xuM3cy8VxuTOkNu) | 3:51 |
+| 69 | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/track/3aIhA9TSOdl6xUgJ2syUDR) | [John Prine](https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT), [Margo Price](https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl) | [Unwed Fathers \(feat\. Margo Price\)](https://open.spotify.com/album/4evWI9DiccsMHwbh0sn81t) | 3:55 |
+| 70 | [The Luckier You Get](https://open.spotify.com/track/65UpRy3wUTP9tPETrBeQQQ) | [American Aquarium](https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT) | [The Luckier You Get](https://open.spotify.com/album/2DEuSzjxQQvkFIDaRmR5FP) | 3:01 |
 | 71 | [Joshua Tree](https://open.spotify.com/track/36XvVcxYLXYOQj37McVSHD) | [Ruthie Collins](https://open.spotify.com/artist/4qf3V2xmsI9GDIkQGlMfwV) | [Joshua Tree](https://open.spotify.com/album/604SYSnLaQAYume81vqV1z) | 4:11 |
 | 72 | [My Love Will Not Change](https://open.spotify.com/track/0UIIgCWdaWgw7MnvHjyWgB) | [Aubrie Sellers](https://open.spotify.com/artist/27IiEYV6p8fs5j8n39Pk1u), [Steve Earle](https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh) | [My Love Will Not Change](https://open.spotify.com/album/4UzPpqEh0vxcbDNF644Z5u) | 3:35 |
 | 73 | [Be There](https://open.spotify.com/track/25fvTbY7ZwGM8l9NMucYn4) | [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [What It Is](https://open.spotify.com/album/440AzTicFLovCInQhORffL) | 3:06 |

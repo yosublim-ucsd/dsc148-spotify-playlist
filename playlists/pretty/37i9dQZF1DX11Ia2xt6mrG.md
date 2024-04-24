@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 
 > Descubre lo más fresco de la electrónica mexicana\. Mr\. Pig en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,871 likes - 90 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,885 likes - 90 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX11Ia2xt6mrG.md) - [plain]
 | 63 | [Pass The Dutch](https://open.spotify.com/track/0Tk3EEE8mCTb8VaS5Phqc0) | [JADED](https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf), [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Pass The Dutch](https://open.spotify.com/album/4jd1mPf6zBve7aMue5g4qj) | 3:28 |
 | 64 | [LA LLORONA](https://open.spotify.com/track/0yeqFFADufeX5WrPZnYG7V) | [LEX](https://open.spotify.com/artist/7e9fkXTW7DlRaBOPoiaKCV) | [LA LLORONA](https://open.spotify.com/album/4R4l8ss2gfFI0RAw0bk9ZZ) | 4:01 |
 | 65 | [Ruja](https://open.spotify.com/track/7ipNXtOqIcUh6Gs9jVSI8O) | [Flavor Dudes](https://open.spotify.com/artist/1D6VT59kurnCfxoxZot88y), [Roylets](https://open.spotify.com/artist/2NddLaj0FTrT2DvM0fCppY), [Adán Cruz](https://open.spotify.com/artist/645xd9cHiiLqqehoLzLMDR) | [Ruja](https://open.spotify.com/album/74wEP2eT4uSD4bX7MVibiS) | 2:54 |
-| 66 | [Lunar Spirits](https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB) | [Canø](https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL) | [Lunar Spirits](https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0) | 6:39 |
-| 67 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 |
+| 66 | [Amanece](https://open.spotify.com/track/6HKuxsAa6tCoIcBi8pCsZe) | [Plano](https://open.spotify.com/artist/0yeQVsx3NrVR2TCLyvTWG1) | [Amanece](https://open.spotify.com/album/0MQWqKc8nJ1rmrmQFZx8a8) | 5:32 |
+| 67 | [Lunar Spirits](https://open.spotify.com/track/26TzE87XsAR0zd9SkruqxB) | [Canø](https://open.spotify.com/artist/61y7GkU4OOPseS05owEXtL) | [Lunar Spirits](https://open.spotify.com/album/7gZaCDSfzWTxJ0arszwSI0) | 6:39 |
 | 68 | [Mi Amor](https://open.spotify.com/track/1eA6VJPzWaqTcOqzXdxYAN) | [Bsno](https://open.spotify.com/artist/1ou0Yboh9yJJHRt2bxxz29), [Keep It Dope](https://open.spotify.com/artist/638zBnRaMj32pQn3C2Q18y), [Priscila](https://open.spotify.com/artist/48wvp5MbVxUwAyF9BdiqdX) | [Mi Amor](https://open.spotify.com/album/4mQSYNviTSOjMHxQ0cazal) | 3:31 |
 | 69 | [Up & Down](https://open.spotify.com/track/5EtCF40r2POQGEc9vNLXd7) | [Chela Rivas](https://open.spotify.com/artist/1NUXnGPzPYyTiaEegkod3n) | [Up & Down](https://open.spotify.com/album/7gjjiVVsuez0UMZpu6LlnJ) | 3:04 |
 | 70 | [Addicted](https://open.spotify.com/track/1zhjA6rwA47d8AgbDreubK) | [Iker Azcué](https://open.spotify.com/artist/0Jys4stNQNQIGfNUsm1sJp) | [Addicted](https://open.spotify.com/album/7dqGsfYRubwBKhRdMHetlw) | 2:46 |

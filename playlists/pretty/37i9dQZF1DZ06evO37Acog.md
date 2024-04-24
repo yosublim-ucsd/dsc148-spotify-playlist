@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 
 ### [This Is Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/playlist/37i9dQZF1DZ06evO37Acog)
 
-> This Is Ramon Ayala Y Sus Bravos Del Norte\. Los temas esenciales, todos en una lista.
+> This is Ramon Ayala Y Sus Bravos Del Norte\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,775 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,778 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 37 | [Me Sacaron Del Tenampa](https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [PURA MUSICA DE CANTINA](https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z) | 2:57 |
 | 38 | [Triste Recuerdo](https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Triste Recuerdo \(Aferrado Por Ti\)](https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS) | 3:05 |
 | 39 | [Vino Maldito](https://open.spotify.com/track/1XvSiILaUqz0a3llmPcGXx) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [15 Norteñas De Exito Herencia Musical De](https://open.spotify.com/album/1ts28Fgr2woLWxk1lh5PKQ) | 3:11 |
-| 40 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
-| 41 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
+| 40 | [Seis Pies Abajo](https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Amor Vaquero](https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I) | 3:44 |
+| 41 | [Besos Y Caricias](https://open.spotify.com/track/3UkRv2fhCSshw9w23V4Lfe) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Besos Y Caricias](https://open.spotify.com/album/0IgrzDlCJEiQhvxKlKQHsl) | 2:29 |
 | 42 | [No Porque Seas Tú](https://open.spotify.com/track/79kcLoI5YEYCuAANwIYuE5) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Imprescindibles](https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE) | 2:22 |
 | 43 | [Te Traigo Estas Flores A Dueto Con Freddie Martinez](https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES](https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp) | 2:47 |
 | 44 | [Gerardo Gonzalez](https://open.spotify.com/track/2aipeBHbFwBtPNDyOVxpta) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [\(DE LA PELICULA\) DINASTIA DE LA MUERTE \(Grabación Original Remasterizada\)](https://open.spotify.com/album/1bEyiwgCSxtRBpqgEaQ9Qs) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO37Acog.md) - [plain]
 | 49 | [Mándame A La Tumba](https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Casas de Madera](https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM) | 3:55 |
 | 50 | [Cuánto Me Cuesta](https://open.spotify.com/track/3oDxYmvYgseohA7m347NZK) | [Ramon Ayala Y Sus Bravos Del Norte](https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9) | [Central Camionera](https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu) | 2:36 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDQwZmRmNTQ1ZDE1N2E3MzRiOTdmMWNhNmQ0YjYxYTA1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDc0Y2FmMzZjZGZkZThiYWYyZmY2MDY5N2I1YTUyNTI4`

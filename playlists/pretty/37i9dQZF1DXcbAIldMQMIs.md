@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > Indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 533,534 likes - 70 songs - 3 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 533,592 likes - 70 songs - 3 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 29 | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/track/72794Eag03xdy7TO0KNuid) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Cayendo \(Side A \- Acoustic\)](https://open.spotify.com/album/0FAWfXvd58Rm2VUSZMF8pr) | 3:22 |
 | 30 | [Little Bit](https://open.spotify.com/track/0Ps4Eh6SQjeLnubbCsQTDD) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Youth Novels](https://open.spotify.com/album/65ain97ltDAxldCiOcBtHo) | 4:33 |
 | 31 | [Cologne](https://open.spotify.com/track/1NaDK3atogQEn9glK5fYuy) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Our Extended Play](https://open.spotify.com/album/6EBrUVVsjIQD8N0c63mqjv) | 2:44 |
-| 32 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
-| 33 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
+| 32 | [Be My Mistake](https://open.spotify.com/track/18UsAG7SfOQ5sxJEdjAMH0) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [A Brief Inquiry Into Online Relationships](https://open.spotify.com/album/6PWXKiakqhI17mTYM4y6oY) | 4:16 |
+| 33 | [Habit](https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Habit](https://open.spotify.com/album/2vIIWsslRiFHiHPWFTsdaE) | 2:33 |
 | 34 | [Crush Culture](https://open.spotify.com/track/2sHwSBNDZN2yjCtgwStYt1) | [Conan Gray](https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea) | [Sunset Season](https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz) | 3:24 |
 | 35 | [Pleaser](https://open.spotify.com/track/11zf7m4vw9Ze7cer9Nyhk1) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Pleaser](https://open.spotify.com/album/3XwLvPyeeyTjFKeBdtC978) | 3:07 |
 | 36 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 49 | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/track/4VEEDnEFLI9dUy5QA51rom) | [Foster](https://open.spotify.com/artist/6vCIRD06VaQwwaZS0TqiCz), [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt), [Sarcastic Sounds](https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ) | [fools \(can't help falling in love\) \(feat\. Sody\)](https://open.spotify.com/album/4mNmrwxha3NNfEyciju5wc) | 2:45 |
 | 50 | [Fool](https://open.spotify.com/track/7asyVbwQE7IbA3x2be7bdI) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8) | [Lemon Boy](https://open.spotify.com/album/5rvA7Pth9X8PFp5jHqFl3V) | 3:53 |
 | 51 | [She](https://open.spotify.com/track/45h4w81P5iJJTSeR0jJUQ8) | [dodie](https://open.spotify.com/artist/21TinSsF5ytwsfdyz5VSVS) | [Human](https://open.spotify.com/album/6Kr92CEAh6YLlEO8ubps17) | 3:33 |
-| 52 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 |
-| 53 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
+| 52 | [If You Want To](https://open.spotify.com/track/7I1kle4TNmkfednJDKo8GR) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Patched Up](https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7) | 3:43 |
+| 53 | [i <3 u](https://open.spotify.com/track/5EcGSkkNBMAWOePvLgKde1) | [boy pablo](https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw) | [Wachito Rico](https://open.spotify.com/album/3PwdobIILbq5GSoptbJrK5) | 4:15 |
 | 54 | [blue](https://open.spotify.com/track/7pt64sepCy5QmDrgy9wOJS) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [blue](https://open.spotify.com/album/3GsV8bdcTiMKRlrRlnnHvo) | 3:04 |
 | 55 | [OUTTA MY MIND](https://open.spotify.com/track/7zTTDkkLkJ2iHAqq1daDCr) | [Monsune](https://open.spotify.com/artist/6NgYKD0TKGjwtRFqTyyqKF) | [OUTTA MY MIND](https://open.spotify.com/album/6WWXMhWEmIM9SaAyZCFvYL) | 3:46 |
 | 56 | [Make Me Your Queen](https://open.spotify.com/track/5QJuMhGWTUB4t9BqR7ndL3) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Do You Think About the Car?](https://open.spotify.com/album/3HJiLDJgWA9Z0MvCxlzHYQ) | 3:41 |
@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 59 | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/track/4dHdqpGaO9km4TEw9nNQSR) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw), [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [Line Without a Hook \(feat\. mxmtoon\)](https://open.spotify.com/album/6uDkQYNploKRDP7Pu36DNz) | 4:11 |
 | 60 | [One More Weekend](https://open.spotify.com/track/19YOJKCVvOL7v6B2Oe3UBc) | [Maude Latour](https://open.spotify.com/artist/3MNLhvqJkWsO6tcjY9ps62) | [One More Weekend](https://open.spotify.com/album/4tylLsr8HZOfL4FQ6h7SB7) | 2:22 |
 | 61 | [sorry haha i fell asleep](https://open.spotify.com/track/4EzVsSkEdO7JJRe80MxtQk) | [Egg](https://open.spotify.com/artist/6zQlhM6cyJRrzuqAbB8PlB) | [sorry haha i fell asleep](https://open.spotify.com/album/10BhgUIfF4zFcLwqHhioL6) | 2:37 |
-| 62 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
-| 63 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 |
-| 64 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 |
+| 62 | [Calling U Back](https://open.spotify.com/track/5WVWQQpBJqljbZtxo19CxS) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [CINEMA](https://open.spotify.com/album/5TkaDC4mYSLBvdG6UrIB0v) | 3:19 |
+| 63 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
+| 64 | [hello!](https://open.spotify.com/track/7a2IJHzw9WJjoknwdnCop0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [oh, how perfect](https://open.spotify.com/album/5xNYe96E1oMXdS1FdboZZv) | 3:08 |
 | 65 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 |
 | 66 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
 | 67 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |

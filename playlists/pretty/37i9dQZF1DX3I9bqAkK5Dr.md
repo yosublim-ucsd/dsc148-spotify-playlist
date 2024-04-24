@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Sravana Bhargavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,392 likes - 75 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,407 likes - 75 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 4 | [Nuvvamma](https://open.spotify.com/track/1VATC6zT8q1GodfCoNBnce) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Karthik](https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD) | [Nuvvamma](https://open.spotify.com/album/0jZaHcLOsgapAaMEttISus) | 4:21 |
 | 5 | [Kalavarama](https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kalavarama](https://open.spotify.com/album/0WnDNGyNuz476RAJMHXk8N) | 3:29 |
 | 6 | [Cheli Ra!](https://open.spotify.com/track/4KzYSEkjEfm6JkeaF7nbX1) | [Niteesh](https://open.spotify.com/artist/3iu4ocNZqxRdlR7m8VuICs) | [Cheli Ra!](https://open.spotify.com/album/4h38E5NQOMoLPaXc8h0kbD) | 3:24 |
-| 7 | [Ninna Monnalo](https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo) | [Nikesh Kumar D](https://open.spotify.com/artist/2RQkDxPMDAyFQVUOgb5oBm) | [Ninna Monnalo](https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX) | 3:14 |
+| 7 | [Ninna Monnalo](https://open.spotify.com/track/07ekNKDk0Qjwys3e7yIVUo) | [Nikesh Kumar Dasagrandhi](https://open.spotify.com/artist/44ypzO2HIOu1ibL5Jfv5Sd) | [Ninna Monnalo](https://open.spotify.com/album/6QghMWDm66h3hsOJdjupMX) | 3:14 |
 | 8 | [Ayyo](https://open.spotify.com/track/573sYOFcHtV6cG8PrVsy1o) | [Jedediah.wtf](https://open.spotify.com/artist/0AWGG7HynXZCGLfp0xfTFT), [Asura](https://open.spotify.com/artist/3nCR5IOuKcua8VQJToRuT6), [Ricky B](https://open.spotify.com/artist/1Y7K9EkvGcVj1RCaE8Ioxc) | [Ayyo](https://open.spotify.com/album/4eoPfLSiI63LU3E89x8zBt) | 3:38 |
 | 9 | [Nanna](https://open.spotify.com/track/3sg1o6wwTvZ8osPnMyHNNw) | [Shravan Bharadwaj](https://open.spotify.com/artist/3T0lUjLJ29ApjVCaVxdLfx), [Maruthi Ashok Anand](https://open.spotify.com/artist/5RE6YIiuve68BsLoRJFN1R) | [Nanna](https://open.spotify.com/album/4mDRYVIXxUcFSL2B0UdCSJ) | 4:48 |
 | 10 | [Veluthunnaa](https://open.spotify.com/track/29LjHw8uiqgznxttdytpOt) | [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX) | [Veluthunnaa](https://open.spotify.com/album/3mPP4usMQBYnCozSl1JMEF) | 3:47 |

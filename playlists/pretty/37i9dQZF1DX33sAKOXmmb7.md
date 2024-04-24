@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 
 > Indie folk that defined the 2010s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 67,463 likes - 120 songs - 7 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 67,575 likes - 120 songs - 7 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,9 +86,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 76 | [The Mother](https://open.spotify.com/track/6jeIbpsYPF0CTId7QrLLer) | [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [By the Way, I Forgive You](https://open.spotify.com/album/2wDKBKgco7u3V1IWEK5V8l) | 3:16 |
 | 77 | [The Gardener](https://open.spotify.com/track/5ewQvWOpYJ60zpy9Ap8aK0) | [The Tallest Man On Earth](https://open.spotify.com/artist/2BpAc5eK7Rz5GAwSp9UYXa) | [Shallow Grave](https://open.spotify.com/album/20H8EwDZDsZ4H0qLJe3TVe) | 3:57 |
 | 78 | [Real Peach](https://open.spotify.com/track/6p4mASLulKdpNFLxQhs0ff) | [Henry Jamison](https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC) | [The Wilds](https://open.spotify.com/album/6mG8sVZlEsKwNZeSq8sMpA) | 3:53 |
-| 79 | [Cold Little Heart \- Acoustic](https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Acoustic\)](https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12) | 4:29 |
+| 79 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
 | 80 | [Sinking Ship](https://open.spotify.com/track/1kYeZHJpBpbGQPlF9jznCs) | [Wild Child](https://open.spotify.com/artist/1xLMexpeeTKQ20SwGMaGSK) | [Expectations](https://open.spotify.com/album/1RYP4jpaZn8uKR2HLSPLWm) | 4:07 |
-| 81 | [Shame](https://open.spotify.com/track/1d39v4V4DmrrLiFX4DKHBv) | [Ciaran Lavery](https://open.spotify.com/artist/7zOuMHqRJ6YOMnCGpLfuTU) | [Not Nearly Dark](https://open.spotify.com/album/6kUNN69mPV5AxDEyypv6hB) | 4:11 |
+| 81 | [Cold Little Heart \- Acoustic](https://open.spotify.com/track/5bMtpnI01NMBbCLd8XFFOd) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Acoustic\)](https://open.spotify.com/album/4d1Len7ZUGFqZJ2GCBwR12) | 4:29 |
 | 82 | [Jealous Guy](https://open.spotify.com/track/2faT135hfs9Ro4YUlKIG8o) | [Hurray For The Riff Raff](https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt) | [My Dearest Darkest Neighbor](https://open.spotify.com/album/6TqZFQjNfsOFRJoic0KrI9) | 3:27 |
 | 83 | [Agape](https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi) | [Bear's Den](https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi) | [Islands](https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp) | 4:17 |
 | 84 | [I Need a Teacher](https://open.spotify.com/track/7nvAdiuXhFeHICyy2OzOcS) | [Hiss Golden Messenger](https://open.spotify.com/artist/37eqxl8DyLd5sQN54wYJbE) | [Terms of Surrender](https://open.spotify.com/album/4eKRqA554vK2k4khe190Yu) | 3:17 |
@@ -116,13 +116,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX33sAKOXmmb7.md) - [plain]
 | 106 | [Distant Sures](https://open.spotify.com/track/7vLWnCf4KEbde9pG4mHqd8) | [The Cave Singers](https://open.spotify.com/artist/4SjCvf9Ctuz369ZKAnjkZP) | [No Witch](https://open.spotify.com/album/0oxIRAe6kVERSR8DaNUyUC) | 3:11 |
 | 107 | [Advanced Falconry](https://open.spotify.com/track/6aA2LcC91SFaRgz0jPXZIa) | [Mutual Benefit](https://open.spotify.com/artist/0AUwa5xmiy57qdGlOksvea) | [Love's Crushing Diamond](https://open.spotify.com/album/63eYXtU9LBjEha4RIFeOsM) | 5:05 |
 | 108 | [Crane Your Neck \- Remastered](https://open.spotify.com/track/7FMedJPiag48GjON0tp2PO) | [Lady Lamb](https://open.spotify.com/artist/2wunbYU5KWrpI7RCRBkwF0) | [Ripely Pine](https://open.spotify.com/album/0f0Owyducr559mI43AW8Mt) | 6:27 |
-| 109 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 |
-| 110 | [Moonshine Freeze](https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 3:41 |
-| 111 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
+| 109 | [Riding For The Feeling](https://open.spotify.com/track/6qo9HElLHUptcwpVprsS4C) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Apocalypse](https://open.spotify.com/album/13VVtuvboNAaPFcKsQsjLP) | 6:05 |
+| 110 | [Get Out](https://open.spotify.com/track/4UjZKgbOBEwb6i6zHupD1B) | [Frightened Rabbit](https://open.spotify.com/artist/6fVcDUckTwxqg56qNsEvUr) | [Painting of a Panic Attack \(Deluxe Edition\)](https://open.spotify.com/album/2I7bN0vjfoFw9di77xAZ4Y) | 3:21 |
+| 111 | [Moonshine Freeze](https://open.spotify.com/track/5jzHvA7xPl24wKuICkpEWL) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/5RYg5ZR0qfRebkseuqlGJj) | 3:41 |
 | 112 | [Real Death](https://open.spotify.com/track/4RLr8yJXuhJ6ZrIQkZ4JlA) | [Mount Eerie](https://open.spotify.com/artist/4Sw0SFu1fFdYXdAEVdrqnO) | [A Crow Looked at Me](https://open.spotify.com/album/5p64XgvFREt1P6mC7Xl6XN) | 2:27 |
 | 113 | [The Water \- feat\. Laura Marling](https://open.spotify.com/track/69FraOspp1B24ZFBqlUaoV) | [Johnny Flynn](https://open.spotify.com/artist/1UQRtt7eHW6Bt4INNTUtb3), [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Been Listening](https://open.spotify.com/album/6zhW0ymzbX1lgiJB2ptape) | 4:14 |
-| 114 | [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 |
-| 115 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
+| 114 | [Dark Child \- Single Edit](https://open.spotify.com/track/0vmVWuvmYuhVNV7t0B6fSc) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [Dark Child](https://open.spotify.com/album/5nYlhb6IIM0mrPp1PO6eaN) | 3:57 |
+| 115 | [Everything Looks Better \(In Hindsight\)](https://open.spotify.com/track/4IL5B1c7iUHMA5Rr1ucNo6) | [The Wild Reeds](https://open.spotify.com/artist/3Q9WLyqkHw04V6DDtvPWwH) | [The World We Built](https://open.spotify.com/album/3Z7jF3AHU6lNKkqDFYCern) | 5:28 |
 | 116 | [Green Eyes and a Heart of Gold](https://open.spotify.com/track/5jQQSl7Uae4S8mlRkR4W8j) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [The Lone Bellow](https://open.spotify.com/album/3inGHKOz7EFUwJPuSAPwZB) | 4:12 |
 | 117 | [Live And Die](https://open.spotify.com/track/1HOjry8kvObcLsyOVMVCml) | [The Avett Brothers](https://open.spotify.com/artist/196lKsA13K3keVXMDFK66q) | [The Carpenter](https://open.spotify.com/album/3zvxtXSdWY2JHkKmoIG3OG) | 4:31 |
 | 118 | [King and Cross](https://open.spotify.com/track/63USNUX5HaTygvykNFo0RB) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [In the Silence \(Deluxe Edition\)](https://open.spotify.com/album/6ltUyqAtJxfAfdqLXZGCkZ) | 3:33 |

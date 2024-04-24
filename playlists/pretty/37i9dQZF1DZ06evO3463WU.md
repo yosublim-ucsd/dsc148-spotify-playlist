@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 
 ### [This Is Pancho Barraza](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3463WU)
 
-> This Is Pancho Barraza\. Los temas esenciales, todos en una lista.
+> This is Pancho Barraza\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,887 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,910 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 22 | [Andamos Borrachos Todos \- En Vivo](https://open.spotify.com/track/0OiBmdNifHrKDer8l1bUUJ) | [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ), [Luis Angel "El Flaco"](https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl), [Jorge Medina](https://open.spotify.com/artist/4uZP9vHYfFu3DW9ywwtLpf), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Desde La Playa Vol\. 2 \(En Vivo\)](https://open.spotify.com/album/5Cg2SJc24bmBeoTQZ3ulVt) | 3:14 |
 | 23 | [Mi Amor Sin Ella](https://open.spotify.com/track/4PPFkIR5X1DwVr2SC1ZZdq) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:12 |
 | 24 | [Ojalá Sea Cierto](https://open.spotify.com/track/4m6NWuvSrcS7keLJAO1aGD) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 2:36 |
-| 25 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 |
-| 26 | [Perfecta](https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h) | [Perfecta](https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3) | 2:48 |
+| 25 | [Perfecta](https://open.spotify.com/track/07YG8ICjrjgUFtQxTqerMN) | [Linea M](https://open.spotify.com/artist/0HwIz0sUkYsV0nFuKfC2V3), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [Jesús Uriarte](https://open.spotify.com/artist/5LcrkFKWDGskQSKn4KVY4h) | [Perfecta](https://open.spotify.com/album/3aTunEoRKVkwVIrAk1FIZ3) | 2:48 |
+| 26 | [Los Amantes](https://open.spotify.com/track/0h43pLYpldnoNwESdxnoDI) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Lo Mejor De Mi Repertorio](https://open.spotify.com/album/3dEdr01jgZ35RTRKO3HEaR) | 3:28 |
 | 27 | [Pasion de Amor](https://open.spotify.com/track/7p5sJ5TGAip4705FHdm6KB) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/71EFMwN2oaKfHw7W9l1WIa) | 3:38 |
 | 28 | [Cuenta Conmigo](https://open.spotify.com/track/3ejMMFhxszcFqPzsYfLnNL) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 3:36 |
 | 29 | [El Vagabundo Que Te Ama](https://open.spotify.com/track/4WtQNRxMmkyQUwhFVvpQoe) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Vagabundo Que Te Ama](https://open.spotify.com/album/5ArPxAo4IyU0pEsCIZsg0F) | 2:25 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3463WU.md) - [plain]
 | 45 | [Inventame Un Amor](https://open.spotify.com/track/6Nd55mIC9CFul1mVagPtFa) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [20 Exitos](https://open.spotify.com/album/0z3EHq0Bni4Fv60XoTtk21) | 4:01 |
 | 46 | [Con El Alma Marchita](https://open.spotify.com/track/0u0BI9iLG7JzCr0x4eXXWw) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp), [El Mimoso Luis Antonio López](https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g) | [Con El Alma Marchita](https://open.spotify.com/album/7sYFshjpDNY6M4Z1AGySqb) | 3:20 |
 | 47 | [Esta Va por Ti](https://open.spotify.com/track/3R8WZ9lTTEFHifPtRbVTpZ) | [Edwin Luna y La Trakalosa de Monterrey](https://open.spotify.com/artist/4LFOoXhMhnq9U8VsZkSwxl), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Esta Va por Ti](https://open.spotify.com/album/2ldbuKO6qKF6iNxn43cusK) | 3:25 |
-| 48 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
-| 49 | [Te Deseo Lo Mejor \- Versión Mariachi](https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Deseo Lo Mejor \(Versión Mariachi\)](https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr) | 2:38 |
+| 48 | [Te Deseo Lo Mejor \- Versión Mariachi](https://open.spotify.com/track/4JmJUdY5z9NhJYDdRx6cuC) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Te Deseo Lo Mejor \(Versión Mariachi\)](https://open.spotify.com/album/4n1aw8mKj9hZTqC8TcXoDr) | 2:38 |
+| 49 | [Un Poco de Amor](https://open.spotify.com/track/2G5Qo1oIz1FbDV6FeFIHQ4) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Un Poco de Amor](https://open.spotify.com/album/3G5nEXnC2PE17Qf3gXG83O) | 2:51 |
 | 50 | [Historia De Un Amor](https://open.spotify.com/track/1011TrqHFhpKhgOzKnV0ZS) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Historia De Un Amor](https://open.spotify.com/album/49mNs4aM6Xs7i0x9Gr3f3D) | 2:59 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGE2YjI4MzI3ODg2ZTk5ODI1ODA5MzM2OTdkMTc1NjRk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDFmMGNmNTg0MjkxZjVmM2YwMjgxM2E3YzQ4MDQzNzI0`

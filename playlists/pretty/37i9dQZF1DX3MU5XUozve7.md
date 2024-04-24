@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 
 > A mix of new and classic melodic punk songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,243 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,443 likes - 100 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,8 +49,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 39 | [Check Yes Juliet](https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7) | [We The Kings](https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl) | [We The Kings](https://open.spotify.com/album/2F1hfUOuMnOxtSfrktL8VX) | 3:40 |
 | 40 | [Pretty Vacant](https://open.spotify.com/track/21rz5LMBiIpQWRGQcb0xIg) | [Sex Pistols](https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR) | [Never Mind The Bollocks, Here’s The Sex Pistols](https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv) | 3:17 |
 | 41 | [What It Is To Burn \- New Version](https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [What It Is To Burn](https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x) | 4:29 |
-| 42 | [On A Turntable](https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:38 |
-| 43 | [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 |
+| 42 | [I Don't Wanna Be An Asshole Anymore](https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [Rented World](https://open.spotify.com/album/49Q3EfStlDspsaOo8VAgtW) | 3:04 |
+| 43 | [On A Turntable](https://open.spotify.com/track/5BdbpAak9RUhjwT8fwciZe) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Say It Out Loud](https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs) | 2:38 |
 | 44 | [All My Friends Are Dead](https://open.spotify.com/track/6fEztciYVlIyWTBe66clVj) | [Turbonegro](https://open.spotify.com/artist/191rVxQbbZ05wcICUSvLkz) | [Party Animals](https://open.spotify.com/album/3AZ1nJRyRQag2qI5Bb2WF5) | 2:38 |
 | 45 | [Nervous Breakdown](https://open.spotify.com/track/3NoOwvxhI2yMYknxqnFUVx) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Nervous Breakdown](https://open.spotify.com/album/4jBYjoYLD7GOHzVQ8olPlV) | 2:09 |
 | 46 | [Heavy Gloom](https://open.spotify.com/track/5YESYAHcr5GpjheBegwFd4) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [The Story So Far](https://open.spotify.com/album/3yWw068pxlaTirtN51cXf5) | 2:49 |
@@ -59,10 +59,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 49 | [Too Drunk to Fuck](https://open.spotify.com/track/0gJ4X2ojTykeaoDEDEE1Xj) | [Dead Kennedys](https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV) | [Give Me Convenience or Give Me Death](https://open.spotify.com/album/5Xv8PCJ7ZMmRd3jXnJqg3V) | 2:40 |
 | 50 | [Lexicon Devil](https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW) | [Germs](https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY) | [GI](https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo) | 1:44 |
 | 51 | [The Hell Song](https://open.spotify.com/track/5jVKpqA8ARnVuMmt8yTyGi) | [Sum 41](https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT) | [Does This Look Infected?](https://open.spotify.com/album/6sYVlvyWjlwvVHKpvXxqdG) | 3:19 |
-| 52 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
-| 53 | [After the Party](https://open.spotify.com/track/3cnD0uH9C0AY4oxmb84gpc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [After The Party](https://open.spotify.com/album/1nzDVfQopF9YBkpPAfUck3) | 3:50 |
-| 54 | [History Of A Boring Town](https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:22 |
-| 55 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
+| 52 | [After the Party](https://open.spotify.com/track/3cnD0uH9C0AY4oxmb84gpc) | [The Menzingers](https://open.spotify.com/artist/7HWFXU9pHBj0u58yoRwwOJ) | [After The Party](https://open.spotify.com/album/1nzDVfQopF9YBkpPAfUck3) | 3:50 |
+| 53 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 |
+| 54 | [Six Pack](https://open.spotify.com/track/5Og9VyCOfxmZCuv1UhIyxE) | [Black Flag](https://open.spotify.com/artist/5Mhs3Eu8lU6sRCtRYsmABV) | [Damaged](https://open.spotify.com/album/34aFnrFRBlErcbU6moRZR3) | 2:20 |
+| 55 | [History Of A Boring Town](https://open.spotify.com/track/6xOZCV4EPCupXwvqajSKzq) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Hello Rockview](https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss) | 3:22 |
 | 56 | [Shut Up!](https://open.spotify.com/track/2SMYQhVrLA7NRjUxAVghSH) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [Still Not Getting Any](https://open.spotify.com/album/7l3v1MPa9GlbxbVJmaVrVd) | 3:02 |
 | 57 | [We All Float Down Here](https://open.spotify.com/track/44RrOIa9ziCFW9YC6ndAUL) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [Four Year Strong](https://open.spotify.com/album/3vV8Tam4ubcWalQSGZWuC8) | 3:07 |
 | 58 | [Machine Gun Blues](https://open.spotify.com/track/3d5Cnswx1dxmjUbn1Dp3JQ) | [Social Distortion](https://open.spotify.com/artist/16nn7kCHPWIB6uK09GQCNI) | [Hard Times And Nursery Rhymes \(Deluxe Edition\)](https://open.spotify.com/album/0HQyWxluYZTbQN22MAPNiK) | 3:33 |
@@ -104,9 +104,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MU5XUozve7.md) - [plain]
 | 94 | [Do The Paranoid Style](https://open.spotify.com/track/2kT4Xbm7e82XVnuPcU0fu7) | [Bad Religion](https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9) | [Age Of Unreason](https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz) | 1:45 |
 | 95 | [SOS](https://open.spotify.com/track/7JlEMpVRdzuqiVDuQuS2c0) | [Millencolin](https://open.spotify.com/artist/74xFFXkvOq9dPDigOWTHiX) | [SOS](https://open.spotify.com/album/0ctzayIDFaD7ayi0WuI711) | 3:19 |
 | 96 | [All My Friends Are Nobodies](https://open.spotify.com/track/451h1BW2NaOBnMXnbRJhkG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Brain Invaders](https://open.spotify.com/album/6raNo19l2GfDMaquJmYAVr) | 3:03 |
-| 97 | [Alchemy](https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ) | [Banner Pilot](https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj) | [Heart Beats Pacific](https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7) | 2:14 |
-| 98 | [Failed Imagineer](https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:11 |
+| 97 | [Failed Imagineer](https://open.spotify.com/track/3JTQe7ek31DCy9glNCL5Xe) | [Propagandhi](https://open.spotify.com/artist/7qpy5KY3DVrezixTl6mziA) | [Victory Lap \(Deluxe Edition\)](https://open.spotify.com/album/01lJjCxlvrddTRzIbtKHmP) | 2:11 |
+| 98 | [Alchemy](https://open.spotify.com/track/7yhPFKShKFymungjXhdYxZ) | [Banner Pilot](https://open.spotify.com/artist/2XhpclWPWJPpYnpFGRGIzj) | [Heart Beats Pacific](https://open.spotify.com/album/41Zyth4BpMZZyr5xWngKR7) | 2:14 |
 | 99 | [Scream Out](https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ) | [The Unseen](https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z) | [State Of Discontent](https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS) | 2:51 |
-| 100 | [Black Hole In My Mind](https://open.spotify.com/track/1pxdFGV2kO8oBmM8vys3F4) | [The Lillingtons](https://open.spotify.com/artist/3DRyYmaDKNmiTVzvMtAmhX) | [Death By Television](https://open.spotify.com/album/2T1lerPY9FutFgOdbJpA5r) | 3:16 |
+| 100 | [Gangsters and Thugs](https://open.spotify.com/track/77LJcGtVHqhMssgqJgzpRi) | [Transplants](https://open.spotify.com/artist/6f9zLIMqyEu7abKhGMFr5q) | [Haunted Cities](https://open.spotify.com/album/10mexDSzBb2FQtuWTJs5l8) | 3:54 |
 
 Snapshot ID: `MTcwNzQzNjMyMCwwMDAwMDAwMDk3ODEyN2QxYWY1NmI0ZTkwNTI3YmE1YzFmZTBjZWU3`

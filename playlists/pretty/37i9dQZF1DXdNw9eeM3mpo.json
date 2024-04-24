@@ -1,6 +1,6 @@
 {
   "description": "100% ska en espa\u00f1ol. Tomo Como Rey en portada.",
-  "num_followers": 457839,
+  "num_followers": 457770,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
@@ -623,26 +623,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Vete Por Donde Viniste",
-        "url": "https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Vete Por Donde Viniste",
-      "url": "https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "El \u00daltimo Ska",
         "url": "https://open.spotify.com/album/6Nk8Oethod52ndZwJ5FOI0"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 274653,
       "name": "El \u00daltimo Ska",
       "url": "https://open.spotify.com/track/5xx3UJqIo8SsSc00znFPtK"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "Vete Por Donde Viniste",
+        "url": "https://open.spotify.com/album/3u0gAPe5il3ljfI9wUWP0n"
+      },
+      "artists": [
+        {
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Vete Por Donde Viniste",
+      "url": "https://open.spotify.com/track/5Wn97vM7JaTNyp8DQIM60d"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "El Diablo",
-        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
-      },
-      "artists": [
-        {
-          "name": "Out Of Control Army",
-          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
-        },
-        {
-          "name": "Kotardo",
-          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
-        }
-      ],
-      "duration_ms": 142252,
-      "name": "El Diablo",
-      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
         "name": "5 A\u00f1os Con Sabor a 20",
         "url": "https://open.spotify.com/album/7yOMgXnagrpEyIkKyyEHIY"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 184666,
       "name": "Corrupci\u00f3n Ska",
       "url": "https://open.spotify.com/track/4kl5KRleflL90aIGrhBtqX"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
+        "name": "El Diablo",
+        "url": "https://open.spotify.com/album/02yBHrVxOXoF3v2z2wh0iW"
+      },
+      "artists": [
+        {
+          "name": "Out Of Control Army",
+          "url": "https://open.spotify.com/artist/71j95n0DvSMJIYUcTk3lQy"
+        },
+        {
+          "name": "Kotardo",
+          "url": "https://open.spotify.com/artist/3vNYbJoqDoeMKsNeCPo79P"
+        }
+      ],
+      "duration_ms": 142252,
+      "name": "El Diablo",
+      "url": "https://open.spotify.com/track/1lY9ZV5TaqoNsFCr3Mm26b"
     },
     {
       "added_at": "2024-04-19 06:00:00",

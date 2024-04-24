@@ -1,6 +1,6 @@
 {
   "description": "Rise with a relaxing blend of folk and acoustic.",
-  "num_followers": 1170403,
+  "num_followers": 1168973,
   "original_name": "Morning Acoustic",
   "owner": {
     "name": "Spotify",
@@ -671,22 +671,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Some People I Know",
-        "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
-      },
-      "artists": [
-        {
-          "name": "The Brother Brothers",
-          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
-        }
-      ],
-      "duration_ms": 139060,
-      "name": "Red And Gold",
-      "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Howl",
         "url": "https://open.spotify.com/album/1yPy6Kn7SESPYYS80oPDpj"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 183773,
       "name": "Howl",
       "url": "https://open.spotify.com/track/68i6MdF0uPSiUAOqY7r0fr"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Some People I Know",
+        "url": "https://open.spotify.com/album/1BpdKszhtmmlaOqG3McH0g"
+      },
+      "artists": [
+        {
+          "name": "The Brother Brothers",
+          "url": "https://open.spotify.com/artist/7bsyET4aRFBJ9dOtGeHCX5"
+        }
+      ],
+      "duration_ms": 139060,
+      "name": "Red And Gold",
+      "url": "https://open.spotify.com/track/0t0RCYwio7OT0mtCAmv5mS"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -887,22 +887,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "When I Say That I Love You",
-        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
-      },
-      "artists": [
-        {
-          "name": "Gabe Goodman",
-          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
-        }
-      ],
-      "duration_ms": 177674,
-      "name": "When I Say That I Love You",
-      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "always you",
         "url": "https://open.spotify.com/album/33tWymlxl5cpgscFbxkHnI"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 188799,
       "name": "always you",
       "url": "https://open.spotify.com/track/1VnzFfaYbMIcau8j5NIHoA"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "When I Say That I Love You",
+        "url": "https://open.spotify.com/album/0cPJV0lQbAtuMXeFK3a784"
+      },
+      "artists": [
+        {
+          "name": "Gabe Goodman",
+          "url": "https://open.spotify.com/artist/3ak5fTKu5X8h4yhvf5ThmF"
+        }
+      ],
+      "duration_ms": 177674,
+      "name": "When I Say That I Love You",
+      "url": "https://open.spotify.com/track/1L5jdavZ7YMWIFafo1gyZD"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -949,22 +949,6 @@
       "url": "https://open.spotify.com/track/74XfNFAVAxZrTUupTlQ5SB"
     },
     {
-      "added_at": "2024-01-12 05:00:00",
-      "album": {
-        "name": "Precious Days",
-        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
-      },
-      "artists": [
-        {
-          "name": "Forest Sun",
-          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
-        }
-      ],
-      "duration_ms": 165829,
-      "name": "Precious Days",
-      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
-    },
-    {
       "added_at": "2023-10-27 04:00:00",
       "album": {
         "name": "The Spur",
@@ -979,6 +963,22 @@
       "duration_ms": 232748,
       "name": "The Spur",
       "url": "https://open.spotify.com/track/27ViD2ifBwYqlwzpY5LoTB"
+    },
+    {
+      "added_at": "2024-01-12 05:00:00",
+      "album": {
+        "name": "Precious Days",
+        "url": "https://open.spotify.com/album/2P7AC2PBAtVtcm9JZgdDUC"
+      },
+      "artists": [
+        {
+          "name": "Forest Sun",
+          "url": "https://open.spotify.com/artist/4apOiTBEMqQgDWu4n6fAYf"
+        }
+      ],
+      "duration_ms": 165829,
+      "name": "Precious Days",
+      "url": "https://open.spotify.com/track/5axqvLkin2hooZIOkMAz68"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "New Wall",
-        "url": "https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2"
-      },
-      "artists": [
-        {
-          "name": "Tori Forsyth",
-          "url": "https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w"
-        }
-      ],
-      "duration_ms": 158426,
-      "name": "New Wall",
-      "url": "https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Extralife",
         "url": "https://open.spotify.com/album/5OK6JHJhkSwle7EIeZZQ2E"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 285346,
       "name": "Futures",
       "url": "https://open.spotify.com/track/71t9ZaeCkxa0tMVHVfAXFi"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "New Wall",
+        "url": "https://open.spotify.com/album/43BULtlzGsqok8PoRPypm2"
+      },
+      "artists": [
+        {
+          "name": "Tori Forsyth",
+          "url": "https://open.spotify.com/artist/0UVISIZtASrGYL3975rp6w"
+        }
+      ],
+      "duration_ms": 158426,
+      "name": "New Wall",
+      "url": "https://open.spotify.com/track/5oF2zpG0BoSdqVkN7bwyWs"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 158306,
-      "name": "Jealous Sun",
-      "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
-    },
-    {
-      "added_at": "2023-10-27 04:00:00",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/6LLJ8sHSiPlTXBNcNTiKOC"
       },
@@ -1223,18 +1207,18 @@
     {
       "added_at": "2023-10-27 04:00:00",
       "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/0cPPcr4ZDcVVolsBZL6HOS"
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
       },
       "artists": [
         {
-          "name": "Freyr",
-          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
         }
       ],
-      "duration_ms": 197331,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/2te2574HryYNJMPHJSpQvN"
+      "duration_ms": 158306,
+      "name": "Jealous Sun",
+      "url": "https://open.spotify.com/track/70wMwfp8wAqaxip65R8Hkf"
     },
     {
       "added_at": "2023-10-27 04:00:00",
@@ -1251,6 +1235,22 @@
       "duration_ms": 224986,
       "name": "Is There Something Wrong With Me?",
       "url": "https://open.spotify.com/track/5lu2iqVrNKMcJxQGk7BYyi"
+    },
+    {
+      "added_at": "2023-10-27 04:00:00",
+      "album": {
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/0cPPcr4ZDcVVolsBZL6HOS"
+      },
+      "artists": [
+        {
+          "name": "Freyr",
+          "url": "https://open.spotify.com/artist/0XEC2bQgKvaq09BZFPDA9y"
+        }
+      ],
+      "duration_ms": 197331,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/2te2574HryYNJMPHJSpQvN"
     }
   ],
   "unique_name": "Morning Acoustic",

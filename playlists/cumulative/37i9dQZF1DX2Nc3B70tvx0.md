@@ -4,7 +4,7 @@
 
 > The best in modern indie\. Cover: Suki Waterhouse
 
-2,148 songs - 5 day 9 hr 8 min
+2,149 songs - 5 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@
 | [Billions](https://open.spotify.com/track/4gsdYgnktO0jmKEVoL8kfm) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Billions](https://open.spotify.com/album/4DpAPqdJ1jVhoWZrxWLRH5) | 4:56 | 2022-02-18 | 2022-04-09 |
 | [Bioluminescence](https://open.spotify.com/track/2Xm2BD8quy1r576X4L0MGT) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Bioluminescence](https://open.spotify.com/album/3ljdLdZzfpPaaz95B1xGG9) | 5:12 | 2023-07-28 | 2023-11-25 |
 | [Birch \(feat\. Taylor Swift\)](https://open.spotify.com/track/7wo2UNeQBowm28hfAJsEMz) | [Big Red Machine](https://open.spotify.com/artist/7gXy60xRcwYujBFoYHnR2O), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [How Long Do You Think It's Gonna Last?](https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T) | 5:30 | 2021-09-02 | 2022-01-24 |
-| [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 | 2024-02-22 |  |
+| [Birdseye](https://open.spotify.com/track/3g3WLQLqNNLyzCY7rBZup7) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Birdseye](https://open.spotify.com/album/15nDuQXtC6M3m3esLEa4w7) | 2:31 | 2024-02-22 | 2024-04-24 |
 | [Black Dog](https://open.spotify.com/track/1NGPZKzplieiPc5g6lAJ49) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Black Dog](https://open.spotify.com/album/7g57U9ugd9ObC65ecCeEHy) | 3:45 | 2020-05-15 | 2020-10-29 |
 | [Black Fins](https://open.spotify.com/track/6uEApBBOzrHPJFG5iQ7uQN) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Black Fins](https://open.spotify.com/album/7IAnQxcd63aG5cpRQVqYWL) | 4:22 | 2023-07-20 | 2023-09-02 |
 | [Black Hole](https://open.spotify.com/track/07gbjddL6AZ4PYKaviVMOQ) | [boygenius](https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw) | [the rest](https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz) | 2:21 | 2023-10-13 | 2023-12-09 |
@@ -436,6 +436,7 @@
 | [DANDELION](https://open.spotify.com/track/6N6iesIVj3DOuPb4RHmkto) | [ill peach](https://open.spotify.com/artist/79E3M2o4FRthRViQXaCWDt) | [DANDELION](https://open.spotify.com/album/4GKSKzLd3STRz3wAL1Fzmc) | 3:21 | 2022-01-07 | 2022-06-22 |
 | [Dang](https://open.spotify.com/track/7ddHGUPt5bOpVFAtX6TJN8) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Dang](https://open.spotify.com/album/3DZodwqZN2YkjgI0NAwyS8) | 2:44 | 2023-10-18 | 2024-02-23 |
 | [Dare Me](https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl) | [Beach Fossils](https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC) | [Dare Me](https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk) | 2:25 | 2023-04-14 | 2023-04-29 |
+| [Dark Vacay](https://open.spotify.com/track/0vs7mPhFEivytZiyzxVp8r) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Dark Vacay](https://open.spotify.com/album/33oGkitXxjRXWQwCx00jDb) | 3:33 | 2024-04-23 |  |
 | [Darkness Of The Night](https://open.spotify.com/track/7uewMG4oKBNpCeso1KiI1i) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Darkness Of The Night](https://open.spotify.com/album/2W9Amgivg5XBGMNoN3bG5x) | 3:14 | 2022-01-07 | 2022-07-07 |
 | [Darling](https://open.spotify.com/track/6UpgMTjhFiKV3Sk0emuqDz) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/4StdgB0YaIYLGhhXBLuoWl) | 5:02 | 2022-07-29 | 2022-09-23 |
 | [Day After Tomorrow](https://open.spotify.com/track/67vdvRJhersPUkVjvJTKcf) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Day After Tomorrow](https://open.spotify.com/album/1yKI6Fn02MZ1JFQ9M3zwJ7) | 6:05 | 2021-12-10 | 2022-04-04 |

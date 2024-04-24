@@ -4,7 +4,7 @@
 
 > selects from music we've been listening to @ Moving Castle\. Manila Killa's album, Dusk drops July 21st!
 
-598 songs - 1 day 9 hr 37 min
+600 songs - 1 day 9 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Beloved](https://open.spotify.com/track/3A0CuG6A2FsdwwLyva84r1) | [Devault](https://open.spotify.com/artist/1VBAKMui4zm5MnBWNn3NbL) | [I Will / Beloved](https://open.spotify.com/album/6fMuOTyOG2V1gOA9qFo7d8) | 3:19 | 2022-08-12 | 2022-09-17 |
 | [Best Part About You](https://open.spotify.com/track/3dxIrAJ1fp8c8rOscz0VLa) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t) | [Dusk](https://open.spotify.com/album/2saT3ivIn0akmEnW9N2SoG) | 2:29 | 2022-07-21 | 2023-01-20 |
 | [Best Part About You \- camoufly Remix](https://open.spotify.com/track/7sTUQPICrchuyGg7pfIZUn) | [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [camoufly](https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ) | [Best Part About You \(camoufly Remix\)](https://open.spotify.com/album/6VMsqDQQWBssZR5j3daWLM) | 3:11 | 2022-12-02 |  |
+| [Best Regret](https://open.spotify.com/track/1UE3eJorfhsy2j3QBKraAp) | [moistbreezy](https://open.spotify.com/artist/2MsEwFDbnOeYHEaIkJBBCi), [Briana Wolf](https://open.spotify.com/artist/0KI9ED3fgA77tif1YSGvkL), [Kit Major](https://open.spotify.com/artist/71oyyC5F9hCLXF1Gfni0ap), [girl\_irl](https://open.spotify.com/artist/0JVxdYzBWXOjkjt2e5r76D) | [Best Regret](https://open.spotify.com/album/7BloG8a18YU5QF4fyYjgF1) | 2:45 | 2024-04-24 |  |
 | [Better Now](https://open.spotify.com/track/4qd6nttH7VO67H42wbmdhh) | [Thorne](https://open.spotify.com/artist/2v3NVhIerh7ksVRXbG9MOT) | [Better Now](https://open.spotify.com/album/5BYdygO5E12koFAocSZQvQ) | 3:08 | 2024-04-12 |  |
 | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/track/3lX5X6V3Tas48tuZ8g3PLU) | [Bleu Clair](https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr), [Tania Foster](https://open.spotify.com/artist/4Edy0AEO2mh3eZSNggPM7Y) | [Better Things \(feat\. Tania Foster\)](https://open.spotify.com/album/5RFAAqoNmmhMebhjlFEsF4) | 3:25 | 2022-02-04 | 2022-02-16 |
 | [BILLIE EILISH.](https://open.spotify.com/track/27ZZdyTSQWI7Cug2d2PkqV) | [Armani White](https://open.spotify.com/artist/2qAwMsiIjTzlmfAkXKvhVA) | [BILLIE EILISH.](https://open.spotify.com/album/4MajX5vPeY4cX5pv6rf0sA) | 1:39 | 2022-09-17 | 2023-01-20 |
@@ -188,6 +189,7 @@
 | [fade](https://open.spotify.com/track/0Pi7TJXg48pyHaAPP4b1I7) | [Shoffy](https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG) | [..\. Onward](https://open.spotify.com/album/7DJ0bdtLsehTTj541oS2Pk) | 2:49 | 2022-09-13 | 2023-07-20 |
 | [Falcon](https://open.spotify.com/track/11NbL1wxxGZUqvHK46K1hD) | [Cherry Flavored Antacids](https://open.spotify.com/artist/45WhFmbNarLeiAJr9YElJ7) | [Falcon](https://open.spotify.com/album/2SF71EDbFOE3EkQ7skpqth) | 5:41 | 2022-08-02 | 2022-09-19 |
 | [Fall In](https://open.spotify.com/track/6uEy133no179YW6ulcmalc) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [Fall In](https://open.spotify.com/album/0O87u3ZNG6B7jXiRh9TOoz) | 4:22 | 2022-03-30 |  |
+| [FALLEN ANGEL](https://open.spotify.com/track/7hnmOd4ZD2iJJiyxS30XsY) | [Nu\-La](https://open.spotify.com/artist/4yzrGOiPCcssfpKBT0bnHR), [Manila Killa](https://open.spotify.com/artist/4EukMPjtYsdi87lkU1hIxN) | [Fallen Angel \(feat\. Nu\-La\)](https://open.spotify.com/album/6A9JUPCcsIlQtBBX0meVjs) | 3:14 | 2024-04-24 |  |
 | [fallforu](https://open.spotify.com/track/4PHm7uYgyYNQ5Kl2t4MU3D) | [44 Ardent](https://open.spotify.com/artist/1R2O77qTPhGAIdRESKwc1J) | [intothedeep](https://open.spotify.com/album/39HS7epzzW2dowDQWJP047) | 2:36 | 2022-08-11 | 2022-09-17 |
 | [Fallin'](https://open.spotify.com/track/5S50KnoWF8B39yp0DziC7U) | [Late Night Therapy](https://open.spotify.com/artist/2mlllc3fdsSFJHJDBcg33I) | [Fallin'](https://open.spotify.com/album/5u0iectTVN6O01g7ca1yCt) | 4:32 | 2023-10-12 | 2024-03-23 |
 | [Falling \(with Njomza & Daniel Allan\)](https://open.spotify.com/track/6hDdCDnxu7omTDIKC1BICK) | [Louis The Child](https://open.spotify.com/artist/7wg1qvie3KqDNQbAkTdbX0), [NJOMZA](https://open.spotify.com/artist/3zOUpziwcfY2bCh4VyJ4Am), [Daniel Allan](https://open.spotify.com/artist/5JQ1XqKJ2Art01rF4tu1Ra) | [Falling \(with Njomza & Daniel Allan\)](https://open.spotify.com/album/5VmLZMnN4Vivwnj8shv4ud) | 3:24 | 2024-03-29 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 
 ### [This Is Parkway Drive](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0zVFVC)
 
-> This is Parkway Drive\. The essential tracks, all in one playlist.
+> This is Parkway Drive\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 95,480 likes - 47 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 95,508 likes - 47 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0zVFVC.md) - [plain]
 | 46 | [Smoke 'Em If You Got 'Em](https://open.spotify.com/track/3vbplXokNSSglwXOyZtnY5) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:40 |
 | 47 | [Mutiny](https://open.spotify.com/track/0JhU5780ClX6njQAN21bP9) | [Parkway Drive](https://open.spotify.com/artist/159qqlGwzE04xyqpfAwRLo) | [Killing With A Smile](https://open.spotify.com/album/7J8yT8vOWAX5OxvSlcJVS1) | 3:13 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGY3ZjExOTFjYjllNmQ1NjhlMTVjZTRhNGFhNGY3ZGU1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGQ0ZjQwMWIxOTQxYWM2NTUyMzc5NDFiM2VhZDQ2YjQy`

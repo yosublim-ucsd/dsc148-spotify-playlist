@@ -4,7 +4,7 @@
 
 > y de la buena!
 
-295 songs - 17 hr 11 min
+296 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/track/3suelWfLweuFrb1Fbgsg94) | [Los Lirios De Santa Fe](https://open.spotify.com/artist/75ykMrcaF4136KUIbcxBP7) | [CUMBIA, CUMBIA, CUMBIA](https://open.spotify.com/album/6xfbKv5OeSyeGxh12mGkHb) | 2:51 | 2023-01-13 | 2023-03-11 |
 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2023-08-04 | 2023-09-09 |
 | [Curame el Corazón](https://open.spotify.com/track/3QDnzNNZKMdfVbuwqXAC42) | [La Banda De Lechuga](https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ), [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Letras al Corazón](https://open.spotify.com/album/5GIM2zhvWzyjkx1SO6UMMs) | 4:07 | 2021-12-24 | 2022-01-08 |
-| [Cuéntale](https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Cuéntale](https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K) | 2:41 | 2024-04-19 |  |
+| [Cuéntale](https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Cuéntale](https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K) | 2:41 | 2024-04-19 | 2024-04-24 |
 | [Cuéntaselo](https://open.spotify.com/track/3DAZJ0L6bR5QRMsxLExvEh) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c), [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Cuéntaselo](https://open.spotify.com/album/4uTQXTiKvrzX17kuzlM0aM) | 3:11 | 2023-05-12 | 2023-08-05 |
 | [Cómo le Gusta](https://open.spotify.com/track/5yrK1Uw6fQUcbqBvvawSmr) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Cómo le Gusta](https://open.spotify.com/album/67V8P2PQIobKRhkNjSboUd) | 3:10 | 2022-07-15 | 2022-12-03 |
 | [Cómo No Amarte](https://open.spotify.com/track/3I7RZ8jbuzNTLTFal2kEbb) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [En La Cima](https://open.spotify.com/album/7grjj6Q3ZmcOEjeu0veFi9) | 4:24 | 2022-12-23 | 2023-03-25 |
@@ -72,6 +72,7 @@
 | [El Embrujo](https://open.spotify.com/track/3YBVqmMUSusvJyQwd545yw) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Coti](https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj) | [El Embrujo](https://open.spotify.com/album/3TGUkmPnQzcG2NHoXwPufy) | 3:56 | 2021-12-24 | 2024-03-09 |
 | [EL Gil De Tu Ex](https://open.spotify.com/track/5hMadRUTp4S3ewaJIaI7Qo) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [En El Ojo Del Huracán](https://open.spotify.com/album/6BvsB3GWe7LlRBZyK5nBAQ) | 3:13 | 2021-12-24 | 2022-12-03 |
 | [El humo de mi fasito](https://open.spotify.com/track/0afBIRqOPTLPNHzRMPLEf0) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [100% Negro Cumbiero](https://open.spotify.com/album/1sbZFQTIJl41nnRvXYI4gf) | 3:32 | 2021-12-24 |  |
+| [El Liston de Tu Pelo](https://open.spotify.com/track/0URKAkRgFg97sZj6lOG2Zr) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [El Listón de Tu Pelo](https://open.spotify.com/album/4oei4M2FnGxR99GP7Fctsz) | 4:06 | 2024-04-24 |  |
 | [El Matador/en la Orilla de Mi Cama](https://open.spotify.com/track/613mAugJpYd49eFybQ6g4k) | [La Contra](https://open.spotify.com/artist/2N4oh0cKq5FwoO94p4DTVK), [Onda Sabanera](https://open.spotify.com/artist/25CQYerNOaucOLHuEuvC9P) | [El Matador/En La Orilla De Mi Cama](https://open.spotify.com/album/23mD8VK46XkVZWeZur4jLg) | 4:02 | 2023-10-20 | 2023-12-09 |
 | [El mundo](https://open.spotify.com/track/21tKZARgqHBsiR3OhQTLd2) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [El mundo](https://open.spotify.com/album/7LK2C6D562BcNafXJ7WqPL) | 3:24 | 2022-09-23 |  |
 | [El Mundo a Tus Pies](https://open.spotify.com/track/23Kku3qq2hoS385N6QKRss) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [El Mundo a Tus Pies](https://open.spotify.com/album/1hTtFHLyyWa5kMSgRsvInj) | 2:54 | 2022-04-15 | 2022-06-04 |

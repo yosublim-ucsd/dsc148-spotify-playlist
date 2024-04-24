@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 ### [This Is Aitana](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4hy48b)
 
-> This is Aitana\. The essential tracks, all in one playlist.
+> This Is Aitana\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,732 likes - 48 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,755 likes - 48 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 12 | [CORAZÓN SIN VIDA](https://open.spotify.com/track/4yWFdN9K3CgzPfMltDZ8Cj) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:01 |
 | 13 | [LAS BABYS](https://open.spotify.com/track/1FhRIZtz1d4qLVe4928exT) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [LAS BABYS](https://open.spotify.com/album/13GYhvuREUNOpRznLCQGuh) | 2:33 |
 | 14 | [Llueve sobre mojado](https://open.spotify.com/track/3z4XtoZVf8AOoR18Lnp7e1) | [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Álvaro De Luna](https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5) | [Llueve sobre mojado](https://open.spotify.com/album/16KVHgtlAeiAiav4Yko9KB) | 3:48 |
-| 15 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
+| 15 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 |
 | 16 | [+ \(MÁS\)](https://open.spotify.com/track/1MXzojJav1N4cREWTFm1iZ) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Cali Y El Dandee](https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 3:39 |
-| 17 | [En El Coche](https://open.spotify.com/track/5mcYWxQAAlqGAhEPqVMMR5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [En El Coche](https://open.spotify.com/album/6sIXTuaE9F2p4PcXVuawjp) | 2:05 |
+| 17 | [Aunque No Sea Conmigo](https://open.spotify.com/track/6GfqNqXkAofNOakU77MWEb) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Evaluna Montaner](https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC) | [Aunque No Sea Conmigo](https://open.spotify.com/album/1nv68APHpQMhYtlqln442M) | 2:59 |
 | 18 | [Berlín](https://open.spotify.com/track/5N5GaRpXYZl5ZKKU5a5LtH) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Berlín](https://open.spotify.com/album/7s4icf5JqLJUpGuRncOTCK) | 2:26 |
 | 19 | [Dararí](https://open.spotify.com/track/260rBjdoUcXRK8AeAqeg5X) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [alpha](https://open.spotify.com/album/7itZH9cqWCweOqCGsjWlLx) | 2:50 |
 | 20 | [SI NO VAS A VOLVER](https://open.spotify.com/track/7es67JIZ333OB30dYfjfal) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [11 RAZONES](https://open.spotify.com/album/0e1CKKCDX94OvUk79Zlr9D) | 2:35 |
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 47 | [A la calle](https://open.spotify.com/track/2LH0ang4YHYvupIFK2P7DS) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:28 |
 | 48 | [Oasis](https://open.spotify.com/track/1bU795MH97xqMytiTzvHdI) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [La Última \(Banda Sonora Original\)](https://open.spotify.com/album/2K8Jw6BgO5befV6LSdYXur) | 2:56 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGE2ZTJmYjI1YmYzYWNlMjA4ODYwNDIxYzc4MGYxYWE3`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDM3NjUxN2EyMTMwOTA2ZTg4ZGMxMzE2ODhhZGQ1NzRh`

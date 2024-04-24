@@ -4,15 +4,16 @@
 
 > This is SUBSHIFT\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 27 min
+51 songs - 2 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [2 LA](https://open.spotify.com/track/0Nwr2tgFoTgnKwG1sc8n8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Z A K](https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf) | [2 LA](https://open.spotify.com/album/7tjJCsyo9jqtQQ1DnLr85F) | 2:36 | 2022-10-10 | 2023-12-15 |
+| [2 LA](https://open.spotify.com/track/0Nwr2tgFoTgnKwG1sc8n8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Z A K](https://open.spotify.com/artist/7BF3vz2rJ9RnK0j1mYOxYf) | [2 LA](https://open.spotify.com/album/7tjJCsyo9jqtQQ1DnLr85F) | 2:36 | 2022-10-10 |  |
 | [After Hours](https://open.spotify.com/track/1RsPpQPKq3REgPS2reByKR) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Hours](https://open.spotify.com/album/0xHSBEVtHFggmTWPKLXYtl) | 3:12 | 2022-10-10 | 2023-03-18 |
 | [After Hours](https://open.spotify.com/track/6QZBEp2SpZA8Ws7BoDmK1Y) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Hours](https://open.spotify.com/album/3ZLBV0Pq2nEEN1XvCr6BGB) | 3:12 | 2023-03-17 |  |
 | [After Party](https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [After Party](https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b) | 3:36 | 2022-10-10 |  |
-| [Amped](https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 3:01 | 2022-10-10 |  |
+| [Amped](https://open.spotify.com/track/2TXlFaOrA286GiRSJPEvmg) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I) | 3:01 | 2024-04-24 |  |
+| [Amped](https://open.spotify.com/track/5b3FKpYuq2RbHCBf4Fz5H1) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 3:01 | 2022-10-10 | 2024-04-24 |
 | [Back Again](https://open.spotify.com/track/5AjHfQmvYqKs3I4Qc0aFXo) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [JERO](https://open.spotify.com/artist/4UrjjYgWIyCWRkLTTswfHy) | [Back Again](https://open.spotify.com/album/1TIw2arqA2nlo3xeBe3cSj) | 3:09 | 2022-10-10 |  |
 | [Bad Decisions](https://open.spotify.com/track/2DsCTWTL6j3KpCkBow7B3O) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:04 | 2022-10-10 |  |
 | [Breakout](https://open.spotify.com/track/2cevf1aWBm8JcRiVCLv4OM) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Breakout](https://open.spotify.com/album/7yQjA4ww0AJcvas0NJsuIc) | 3:35 | 2023-04-08 |  |
@@ -46,13 +47,14 @@
 | [Pressure](https://open.spotify.com/track/5Bhpw5EbF6fLflC41NI4HD) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Pressure](https://open.spotify.com/album/5dxB50EGjlSa9p1F9z2gfX) | 2:56 | 2022-12-03 |  |
 | [Raise It Up](https://open.spotify.com/track/3VZu1gYJn13l0nevx4FSoV) | [Makla](https://open.spotify.com/artist/1ngUu0NNbd7uGigLW2je0M), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [MC Kane](https://open.spotify.com/artist/7nwtn0dNIn3H879bbwJTwt) | [Raise It Up](https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE) | 3:55 | 2022-10-10 |  |
 | [Reasons](https://open.spotify.com/track/2UV4as6h8ps2pQKVtojacQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Reasons](https://open.spotify.com/album/1lkizjmEM7phja1LAX1WS7) | 2:34 | 2024-01-13 |  |
-| [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 | 2022-10-10 |  |
+| [Resonate](https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Resonate](https://open.spotify.com/album/52pFLc5i0hPOWmGmsz6NKV) | 3:07 | 2022-10-10 | 2024-04-24 |
 | [Ride or Die](https://open.spotify.com/track/62qtbxjKbsVHUWkM9HQeyQ) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Ride or Die](https://open.spotify.com/album/3OWhCtgffNKn97Zw6KKNSO) | 3:08 | 2022-10-10 |  |
 | [Shake The Dice \(SUBSHIFT Remix\)](https://open.spotify.com/track/3BqjW0Fn2qpvAn5bf4Hdeq) | [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shake The Dice \(Remixes\)](https://open.spotify.com/album/34wzQzTQ7XvmxQO7BSKYLH) | 3:16 | 2023-06-10 |  |
 | [Shutdown](https://open.spotify.com/track/4eUuY3G6yQwMqZtVQlbEsW) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Shutdown](https://open.spotify.com/album/4ZQoniqkWM5cCB1ZuXteb0) | 2:52 | 2022-10-10 |  |
 | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/track/5hj1JdeMFcm7bAoX1Pmb6B) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Soundboy \(feat\. LexBlaze\)](https://open.spotify.com/album/0XNOTUhvEvt6VWNzvoHHdI) | 2:49 | 2023-12-13 |  |
 | [The Rhythm](https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Rhythm](https://open.spotify.com/album/5l92sWpRLi1fkgxPKg3JL6) | 3:09 | 2022-10-10 |  |
-| [The Streets](https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 2:38 | 2022-10-10 |  |
+| [The Streets](https://open.spotify.com/track/6YQJlkvGbbxejDvtHL6W0y) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/6GeDEhukBDiDhVAcsAY36I) | 2:38 | 2024-04-24 |  |
+| [The Streets](https://open.spotify.com/track/77P9MI3yqXZqVXyjlCAEKV) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [The Streets](https://open.spotify.com/album/4e1i0fGriLNA8t9h9I0CNT) | 2:38 | 2022-10-10 | 2024-04-24 |
 | [Trouble](https://open.spotify.com/track/0cjbNJIeYroXbn1q9Mbq8N) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo) | [Club 95](https://open.spotify.com/album/0fNlbFMbJMUXjLPf7s53CA) | 2:49 | 2022-10-10 |  |
 | [U Know It](https://open.spotify.com/track/2exKEOiqq6sEEuJHUpBl4F) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Fantom Freq](https://open.spotify.com/artist/4kwPEoKIm8IwQKOvYjg5OM) | [Bad Decisions](https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM) | 3:39 | 2022-10-10 |  |
 | [Unexpected](https://open.spotify.com/track/6jb6JbRfw2USnHQ0cWVHg8) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [NEIV](https://open.spotify.com/artist/3ut90lKywC3gUtTmaX2gOg) | [Unexpected](https://open.spotify.com/album/0urXrwEoImhImR2E88h9q3) | 2:54 | 2023-10-10 |  |

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 
 ### [This Is Daniela Araújo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0tRpwc)
 
-> This is Daniela Araújo\. The essential tracks, all in one playlist.
+> This is Daniela Araújo\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,074 likes - 50 songs - 3 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,049 likes - 50 songs - 3 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0tRpwc.md) - [plain]
 | 43 | [Você Consegue Sim](https://open.spotify.com/track/0Y5aPaB3hkQ2JiWU9BZfFn) | [Jessé Aguiar](https://open.spotify.com/artist/0g4xsygciHCrujQzdXUudC), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Acústico, Vol\. 2](https://open.spotify.com/album/4y7PkUs6sIIuKdlbkUFxGB) | 3:19 |
 | 44 | [Salmo 100](https://open.spotify.com/track/1X8R9oRMvFJXDQpEsdCiIG) | [Turma do Barulho](https://open.spotify.com/artist/3VXunR6vEr8Yi3Mbhdyrch), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Jorginho Araújo](https://open.spotify.com/artist/6JvCmY2aReO0jOHrTO0U92), [Elen Diana](https://open.spotify.com/artist/6VCgK0kbVf9l47vjmW6MvE), [Suelen Araújo](https://open.spotify.com/artist/5pwRTK98q8ffGHJd5HBvc7) | [Turma do Barulho, Vol\. 4](https://open.spotify.com/album/03PKatGi4RL00Yo0CAnOQr) | 2:38 |
 | 45 | [Coração de Pedra](https://open.spotify.com/track/0ZqrbdSQrwCB523ggelHhu) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [André Nine](https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq), [Adriano Daga](https://open.spotify.com/artist/0b3DjFBA5CoBiW5Sz2zhbU) | [Catarse: Lado B](https://open.spotify.com/album/0VtThfRfXxZKzI1thF7PSt) | 3:42 |
-| 46 | [Agosto](https://open.spotify.com/track/3R43RMacWkMUFF1KrSQynL) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Agosto](https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2) | 5:02 |
-| 47 | [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 |
+| 46 | [Seja o Centro](https://open.spotify.com/track/6IX12PDdTOA5YgESL8bTqV) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 3:29 |
+| 47 | [Agosto](https://open.spotify.com/track/3R43RMacWkMUFF1KrSQynL) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC), [Mauro Henrique](https://open.spotify.com/artist/3KypZFGzCHTbqXAAhFuLwd) | [Agosto](https://open.spotify.com/album/0prdRbt3UnxKHVvWB4gkR2) | 5:02 |
 | 48 | [Abba](https://open.spotify.com/track/58NQJq6MIMpgrF5ytneVo4) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Abba](https://open.spotify.com/album/2FWnd1O8LVTNgri202OR2W) | 4:23 |
 | 49 | [Lo Que Hace Falta](https://open.spotify.com/track/4QqyzeKCR16fgCz4RGgVEN) | [Indiomar](https://open.spotify.com/artist/4fdudhIT1GNNvtvM309dyM), [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Nexus VII](https://open.spotify.com/album/2R3mfkFyi2rdOHqVhdE5fw) | 4:45 |
-| 50 | [Purificação](https://open.spotify.com/track/0OW1AOkDwDLXeEX252d35Y) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Catarse: Lado A](https://open.spotify.com/album/0S4YR4nYhn8jPcQ6c2m1qB) | 3:47 |
+| 50 | [Junho](https://open.spotify.com/track/2fOehLLcslyjeaI4QKP35A) | [Daniela Araújo](https://open.spotify.com/artist/0V3UPrVVcCxIxQU43xYDxC) | [Doze](https://open.spotify.com/album/1sUTbCE2WUT0AHNWzP8QRb) | 4:02 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGE0NjZmOWY5NjQ3NTI0ZWVmNjkyYjI2M2ZmOGFmMGFj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDMzYTJlMWQ4ZDE4ZmI0MzgwNDdkMjU3NDA0ODhlNDgx`

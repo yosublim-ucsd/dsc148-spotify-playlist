@@ -2,7 +2,7 @@
 
 ### [This Is EST Gee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JD1f2)
 
-> This is EST Gee\. The essential tracks, all in one playlist.
+> This is EST Gee\. Todos os maiores hits em uma só playlist.
 
 107 songs - 4 hr 52 min
 
@@ -19,7 +19,7 @@
 | [All I Know \(feat\. Pooh Shiesty\)](https://open.spotify.com/track/2z24gKxpLTBgi0CNuvwgyd) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe) | [Bigger Than Life Or Death](https://open.spotify.com/album/1RsqFdvHFKN9VGpBmJtUku) | 2:12 | 2022-10-28 |  |
 | [Anthem \(with Big Sean & EST Gee\) \- Soundtrack Version](https://open.spotify.com/track/7BG1Wlc6CjHuwvUg0XzGNw) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Creed III: The Soundtrack](https://open.spotify.com/album/4V6qjHa2otWYkYHB6bdO1S) | 2:05 | 2023-03-05 | 2023-03-08 |
 | [Anthem \(with Big Sean & EST Gee\) \- Soundtrack Version](https://open.spotify.com/track/7CeNOTM3asX0zt6pAi9a6W) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Creed III: The Soundtrack](https://open.spotify.com/album/00hCNOuhFfKYCeLgRRRAT6) | 2:05 | 2023-03-07 |  |
-| [At Will \(feat\. EST Gee\)](https://open.spotify.com/track/1inQjfrPjWSM8DehYMfIxi) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [At Will \(feat\. EST Gee\)](https://open.spotify.com/album/1efkAIrYwFqFvHUFzWBq3d) | 2:50 | 2022-10-28 | 2023-08-22 |
+| [At Will \(feat\. EST Gee\)](https://open.spotify.com/track/1inQjfrPjWSM8DehYMfIxi) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [At Will \(feat\. EST Gee\)](https://open.spotify.com/album/1efkAIrYwFqFvHUFzWBq3d) | 2:50 | 2022-10-28 |  |
 | [Back and Forth \(feat\. EST Gee\)](https://open.spotify.com/track/2zeP2m00YmZFr36mOQCBuK) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:01 | 2022-10-28 |  |
 | [Backstage Passes \(feat\. Jack Harlow\)](https://open.spotify.com/track/2BSl2gSFHdzJAMus74qzNj) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:38 | 2022-10-28 |  |
 | [BALL LIKE ME TOO](https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [MAD](https://open.spotify.com/album/47uIW0hqDyqeO9Qrzq4b8k) | 2:38 | 2023-03-19 | 2023-10-11 |
@@ -54,7 +54,7 @@
 | [Get Money \(feat\. Yo Gotti\)](https://open.spotify.com/track/1qgGitQYJs68OQbfL5kQ4W) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Yo Gotti](https://open.spotify.com/artist/6Ha4aES39QiVjR0L2lwuwq) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:29 | 2022-10-28 |  |
 | [Have Mercy](https://open.spotify.com/track/1hssS4fYPc9EGQsppj2DaQ) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:37 | 2022-10-28 | 2022-12-08 |
 | [Hell](https://open.spotify.com/track/0Xo1UKGBbgcy9Q6OwTEwqG) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Never Felt Nun](https://open.spotify.com/album/0A4xJz6OAedAQGriJH7pjn) | 2:19 | 2022-10-28 | 2023-06-19 |
-| [Hmhmm \(feat\. EST Gee\)](https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:24 | 2022-10-28 |  |
+| [Hmhmm \(feat\. EST Gee\)](https://open.spotify.com/track/0Tnw0FXl9CYNec5VsPN0y8) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Breezy](https://open.spotify.com/album/31U6s6obQrBLTqyvqfqzlM) | 3:24 | 2022-10-28 | 2024-04-24 |
 | [I LIKE](https://open.spotify.com/track/5rAV8NxCASv0isWVJVff6k) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:47 | 2023-08-21 | 2024-04-19 |
 | [I Still Dont Feel Nun](https://open.spotify.com/track/46p6sJzt93LopLhYZHafHL) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Still Dont Feel Nun](https://open.spotify.com/album/7ilMGv7d9zo5DF6k87qv7w) | 2:04 | 2022-10-28 |  |
 | [I THINK \(FEAT\. LIL BABY\)](https://open.spotify.com/track/4wYXfAEYdfKkOmtOE6c8Hx) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 2:25 | 2023-08-19 |  |

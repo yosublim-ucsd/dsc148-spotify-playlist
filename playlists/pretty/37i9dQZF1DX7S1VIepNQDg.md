@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 
 > Got that summertime feeling 🌴
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,461 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,455 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 54 | [Always Got The Love](https://open.spotify.com/track/7b6qmu1okgI61UixU29UcK) | [Cub Sport](https://open.spotify.com/artist/6vqMDhoigg5btfdPsPTVFt) | [Jesus At The Gay Bar](https://open.spotify.com/album/5ysXcSOiSf2pSPGjuZRh7K) | 3:27 |
 | 55 | [I Like It](https://open.spotify.com/track/3ouCBumDkGHdhIAHavtvya) | [Teenage Dads](https://open.spotify.com/artist/0GEHcYh6naBVfaLKy7CEhw) | [I Like It](https://open.spotify.com/album/2dOegifzkyE9ZrdwW33tq4) | 3:01 |
 | 56 | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/track/52hSgk5YbiBmdDdIrGDPsd) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36), [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [You Thought \(feat\. Janelle Monáe\)](https://open.spotify.com/album/35ejmgq9Xl3fz18MQmVSs6) | 3:01 |
-| 57 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
-| 58 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 |
+| 57 | [Oh Laura](https://open.spotify.com/track/2Lq7rOLcBBTvBa86k1YTW0) | [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG) | [AudioLust & HigherLove](https://open.spotify.com/album/5861K3sQgAwu1sswhe5Gw8) | 3:36 |
+| 58 | [I Used To Be Fun](https://open.spotify.com/track/7sCMZKSjZbx563QSkqxTqC) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF) | [I Used To Be Fun](https://open.spotify.com/album/5gpJSwcv4t4W5s9YAFxjlI) | 2:41 |
 | 59 | [Hurt This Bad](https://open.spotify.com/track/4yLLisoMs9LKTWIcAsUn96) | [Tobiahs](https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs) | [Hurt This Bad](https://open.spotify.com/album/0S87KAjBtCfieA9T5KlFKv) | 2:52 |
 | 60 | [Coffee](https://open.spotify.com/track/7uS0B4O1PDYQhZJQIuFjtR) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Coffee](https://open.spotify.com/album/5QvtSMjg0Qr2DFa7LRKA1u) | 3:13 |
 | 61 | [Chez Moi \(Waiting For You\) \- Edit](https://open.spotify.com/track/1VwmC2Sw9b9EztWkRvC07M) | [CC:DISCO!](https://open.spotify.com/artist/37fxVoFAMzet5CiiDg7SL7), [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [Chez Moi \(Waiting For You\)](https://open.spotify.com/album/5HwZIHl2vkaEGzuvNorz84) | 4:27 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7S1VIepNQDg.md) - [plain]
 | 70 | [Don't Really Care](https://open.spotify.com/track/6Sse51km3PDp5kHMgcVFXf) | [Djanaba](https://open.spotify.com/artist/4bxUDYFtReRPY0uBnNyqFr) | [Don't Really Care](https://open.spotify.com/album/3809RidvYF5fZH1rFEFDFt) | 2:58 |
 | 71 | [Radiohead](https://open.spotify.com/track/0JfNtlCzaVvwYtRy0bxO7H) | [FRIDAY\*](https://open.spotify.com/artist/0blI5gUBCHXkvOYrJ8kRvk) | [Darling](https://open.spotify.com/album/5RPzyXi3rpoPtRhF5QaseW) | 2:43 |
 | 72 | [Too Much Fun](https://open.spotify.com/track/37UG9jRXurN9Yr6sx9cq8l) | [Memphis LK](https://open.spotify.com/artist/7z3XgqpRYdNJ7RvEUlYaUe) | [Too Much Fun](https://open.spotify.com/album/6DVEb2UcjI2o4W4SdOXksM) | 2:34 |
-| 73 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
-| 74 | [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 |
+| 73 | [Those Tears](https://open.spotify.com/track/3YH2FpulAMIsnJjUcFUL9T) | [GUDFELLA](https://open.spotify.com/artist/3KjZMSSy0BaCVdvL0VABRO), [SACHI](https://open.spotify.com/artist/6kG0WKHsAOfWp5IsizmQxR), [BIM](https://open.spotify.com/artist/4nPeiGLLiSRWBFJm5DsDfC) | [Those Tears](https://open.spotify.com/album/6ZXS1NJdKgSnmspaQ69v8v) | 3:42 |
+| 74 | [Shining](https://open.spotify.com/track/3fELwzVdYerUr3JuxaEa5C) | [Tentendo](https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W), [Annalisa Fernandez](https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f) | [Morning Light](https://open.spotify.com/album/5mMNVDT4FcwzAVQSJDGco6) | 3:23 |
 | 75 | [Break Your Composure](https://open.spotify.com/track/6Xp5WQZCUMGXNnmRmoeLrR) | [Jordan Burns](https://open.spotify.com/artist/5Aapt5sVTPkERQAz6TtuZS) | [Break Your Composure](https://open.spotify.com/album/0wBYaOuAvUWJhi81UjZlYz) | 2:54 |
 
 Snapshot ID: `MTcwMjk3Njg0NywwMDAwMDAwMDA3NDM0MWY4Y2EzN2EwYjljYjhlNWMwNDkzNjc3NjFi`

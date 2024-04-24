@@ -1,12 +1,12 @@
 {
-  "description": "This is Lila Downs\u3002\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u4ee3\u8868\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
-  "num_followers": 68808,
+  "description": "This Is Lila Downs. Los temas esenciales, todos en una lista.",
+  "num_followers": 68815,
   "original_name": "This Is Lila Downs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGIyZDY1MzJiZjg2MmEzMjNlYThhOTU3NTg1NjFhZTNk",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDZlYmYzYzcyYjAwZTZjNmU2MTM0ZjRiNGVhZDkxM2Fi",
   "tracks": [
     {
       "added_at": null,
@@ -975,22 +975,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Blood (Una Sangre)",
-        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 226626,
-      "name": "Dignificada",
-      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esto Es Estopa (Directo Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4SiLNaIeJ75aIJz13HjLZr"
       },
@@ -1011,22 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La S\u00e1nchez",
-        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
-      },
-      "artists": [
-        {
-          "name": "Lila Downs",
-          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
-        }
-      ],
-      "duration_ms": 182160,
-      "name": "Vas de Salida",
-      "url": "https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En El \u00daltimo Trago",
         "url": "https://open.spotify.com/album/54zPJXpQnBrIHKSfWY4cF6"
       },
@@ -1043,6 +1011,38 @@
       "duration_ms": 207200,
       "name": "En el \u00faltimo trago",
       "url": "https://open.spotify.com/track/2bZK0muecji5JyEEhnId9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La S\u00e1nchez",
+        "url": "https://open.spotify.com/album/4oG5SgcJ04vSuxUmpZO8Lf"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 182160,
+      "name": "Vas de Salida",
+      "url": "https://open.spotify.com/track/1fAlzrqtkmH6GX9lJ5al9b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One Blood (Una Sangre)",
+        "url": "https://open.spotify.com/album/417veGNmonVv9o0iGlFyjT"
+      },
+      "artists": [
+        {
+          "name": "Lila Downs",
+          "url": "https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP"
+        }
+      ],
+      "duration_ms": 226626,
+      "name": "Dignificada",
+      "url": "https://open.spotify.com/track/5jRzAstjJuMwUP9P4Sj6Ng"
     },
     {
       "added_at": null,

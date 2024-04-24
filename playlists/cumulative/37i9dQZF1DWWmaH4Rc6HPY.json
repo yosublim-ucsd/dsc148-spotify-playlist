@@ -429,6 +429,24 @@
     },
     {
       "album": {
+        "name": "Cuando No Quedan Ganas",
+        "url": "https://open.spotify.com/album/429JGm0V8RYYukDHa1wyp1"
+      },
+      "artists": [
+        {
+          "name": "David Otero",
+          "url": "https://open.spotify.com/artist/4cA5JN7tiNZ8afYeuSQj5h"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204510,
+      "name": "Cuando No Quedan Ganas",
+      "url": "https://open.spotify.com/track/7tdgfhY5F2VmDh22xQ40qL"
+    },
+    {
+      "album": {
         "name": "C\u00f3mplices",
         "url": "https://open.spotify.com/album/6JhinkHNQUKvMqpyDCyRik"
       },
@@ -440,7 +458,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 260290,
       "name": "C\u00f3mplices",
       "url": "https://open.spotify.com/track/0g9wwRv9mqQ2Tav1A6sFK4"
@@ -505,6 +523,28 @@
     },
     {
       "album": {
+        "name": "Diamantes",
+        "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        },
+        {
+          "name": "El Zar",
+          "url": "https://open.spotify.com/artist/1cj1ov4uZ0Htsx9PWDpNvi"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243234,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "album": {
         "name": "Dinamita",
         "url": "https://open.spotify.com/album/1SAoYE0RLlIDHeF2n8CjTE"
       },
@@ -534,7 +574,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 184706,
       "name": "Dynamite - BTS Cover",
       "url": "https://open.spotify.com/track/2JoAFuXvqXXgx3uz2EocAf"
@@ -794,6 +834,28 @@
       "duration_ms": 178000,
       "name": "La Radio",
       "url": "https://open.spotify.com/track/7u5dWxjBLUGLZqYLwtvGPE"
+    },
+    {
+      "album": {
+        "name": "La Salvaci\u00f3n",
+        "url": "https://open.spotify.com/album/6KJVk8Zi4jj3kvj9bL1AhC"
+      },
+      "artists": [
+        {
+          "name": "Arde Bogot\u00e1",
+          "url": "https://open.spotify.com/artist/2Wwiu1wnq1W8AMYbWuRFDH"
+        },
+        {
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285480,
+      "name": "La Salvaci\u00f3n",
+      "url": "https://open.spotify.com/track/6XY4Zaf0AoE5movPc2FfaZ"
     },
     {
       "album": {
@@ -1092,7 +1154,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 159918,
       "name": "Muriendome",
       "url": "https://open.spotify.com/track/07cpSOrJeK2TNrbLXq3hCG"
@@ -1457,6 +1519,24 @@
     },
     {
       "album": {
+        "name": "playaplaya",
+        "url": "https://open.spotify.com/album/5yB8QFZFsq5NqmrlErBlwQ"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165306,
+      "name": "playaplaya",
+      "url": "https://open.spotify.com/track/6ZajgXF30GEtlVDRaqygui"
+    },
+    {
+      "album": {
         "name": "Polvo De Estrellas",
         "url": "https://open.spotify.com/album/1dp8qyTLNa95cJE09TBOxR"
       },
@@ -1490,7 +1570,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 224584,
       "name": "Porcelana",
       "url": "https://open.spotify.com/track/7BUGFriDT5M1MSMlPq9HrZ"

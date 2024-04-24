@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5biIUI9J7lF.md) - [plain]
 
 > I'm just a girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,748 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,789 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Relive your favourite K\-Drama moments with these classic soundtracks\. \(그 시절 그 때의 감성이 담겨 있는 OST 명곡들을 만나보세요.\)
 
-289 songs - 18 hr 39 min
+290 songs - 18 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -101,6 +101,7 @@
 | [Home](https://open.spotify.com/track/5c26OuSMT9s3zuNxA8GvHu) | [Janet Suhh](https://open.spotify.com/artist/5xhVZ42ABidt3DS9HJ5Uzm) | [Our Beloved Summer \(Original Television Soundtrack\), Pt\. 6](https://open.spotify.com/album/22vwnmmlPoPk04mJfvwTBo) | 3:51 | 2022-10-06 |  |
 | [Hopefully sky](https://open.spotify.com/track/0w246i6rL2nkjgnyNNAmg6) | [Sohyang](https://open.spotify.com/artist/2TCV57G47ttyy1JsVyucXg) | [Hi Bye Mama \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/5qM2yc5dwte5lQiuw2Dnvy) | 4:29 | 2022-05-11 | 2022-07-22 |
 | [Horizon](https://open.spotify.com/track/0BDJTB38QlbuLJYQuP3NBZ) | [KLANG](https://open.spotify.com/artist/3lxXfdGXe8k188bUZgKqgF) | [Black Dog: Being a Teacher \(Original Television Soundtrack\), Pt\. 3](https://open.spotify.com/album/2tJflNSw531Y0XW5KmabiA) | 4:14 | 2022-06-09 | 2022-07-01 |
+| [How Can I Love You](https://open.spotify.com/track/2bgOhdw80vH03155D5Bm3s) | [XIA](https://open.spotify.com/artist/0ZHbYuRbvC4tWW0iOdybwi) | [Descendants Of The Sun Pt.10 \(Original Television Soundtrack\)](https://open.spotify.com/album/2pnAzG7QBcvCcZFBvp1Pvl) | 4:20 | 2024-04-04 |  |
 | [Hyehwadong \(or Sangmundong\)](https://open.spotify.com/track/0OPtu3k4727xyRXVV5Yf6d) | [Park Boram](https://open.spotify.com/artist/6tvrEIVX5eKJlipdzt11wi) | [Reply 1988 \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/6AD37A2yi3XJgsSdEwfyYi) | 4:24 | 2024-04-03 |  |
 | [I Believe](https://open.spotify.com/track/3Xksp5RxM8ozB7LawqAqDT) | [Shin Seung Hun](https://open.spotify.com/artist/4xgRWQOK2y3pGRFtmWNjyw) | [8th](https://open.spotify.com/album/6O7jMvf68Ce2UwfbUWkqrt) | 4:44 | 2022-05-11 | 2022-07-15 |
 | [I Don't Love You](https://open.spotify.com/track/7neOIVKDsLaUXV5y84jGuY) | [Urban Zakapa](https://open.spotify.com/artist/1dOMFM5wDNsENQQW0nl0K8) | [STILL](https://open.spotify.com/album/58TmgciyuB1FVBk6pP18ZU) | 4:14 | 2024-04-03 |  |
@@ -136,7 +137,7 @@
 | [It\`s you](https://open.spotify.com/track/1MuSKl3GY0J3pLdiNjynTg) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Whats wrong with secretary kim OST](https://open.spotify.com/album/4AnAiO6p63i5cCj2t94CWu) | 3:39 | 2022-05-11 | 2022-07-29 |
 | [It\`s you](https://open.spotify.com/track/3dvPPS5KXskeRbrSY80gwt) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Whats wrong with secretary kim OST Part.2](https://open.spotify.com/album/33Pnr6Xe94tVdfMvZKKntT) | 3:39 | 2024-04-03 |  |
 | [It′s My Life](https://open.spotify.com/track/01zMJ3mp9nqZmJTCeb3lLl) | [Yoon Mirae](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [HOSPITAL PLAYLIST Season2 \(Original Television Soundtrack\), Pt\. 10](https://open.spotify.com/album/36VmbKKMtbSt0GUcQkwRV8) | 4:16 | 2022-05-11 | 2022-07-01 |
-| [It′s Okay, That′s Love](https://open.spotify.com/track/1ybq1nfLfpyvga0hkNXFAu) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [It's Okay, That's Love, Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 4:04 | 2024-04-04 |  |
+| [It′s Okay, That′s Love](https://open.spotify.com/track/1ybq1nfLfpyvga0hkNXFAu) | [DAVICHI](https://open.spotify.com/artist/4z6yrDz5GfKXkeQZjOaZdq) | [It's Okay, That's Love, Vol.1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6QW5oofVFc5T7zAdCJEHd0) | 4:04 | 2024-04-04 | 2024-04-24 |
 | [Just stay](https://open.spotify.com/track/6zoRfHnv1ohgmCkmkwtZg9) | [Hyolyn](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [30 But 17 OST Part.2](https://open.spotify.com/album/5dpAz2loETsN1IuUmmq4QK) | 3:32 | 2022-05-11 | 2022-07-28 |
 | [Kiss me](https://open.spotify.com/track/1OWxRQ27f5B0FS8P1NeGUp) | [TAEYEON](https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu) | [Do You Like Brahms? OST Part.5](https://open.spotify.com/album/7xfdlQq97HTfxn5XqySL3t) | 3:59 | 2022-06-09 | 2022-07-25 |
 | [Laggard](https://open.spotify.com/track/5aJ9DSaUu4Y5VEcgGTebO9) | [SHIN YOUME](https://open.spotify.com/artist/2xST7A5VgPIcA7u5F8alGE) | [My Liberation Notes OST Part 3](https://open.spotify.com/album/4owVl5lSW1wYKDwVAxR4hh) | 3:28 | 2022-10-06 | 2023-03-14 |

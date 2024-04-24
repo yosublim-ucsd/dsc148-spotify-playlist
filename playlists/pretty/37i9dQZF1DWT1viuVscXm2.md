@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 
 > y de la buena!
 
-[Spotify](https://open.spotify.com/user/spotify) - 949,227 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 949,125 likes - 100 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 5 | [Todo Comenzó Bailando \- Remix](https://open.spotify.com/track/5nJP1qwTNnXF4CiCrfmNjy) | [Marama](https://open.spotify.com/artist/4GepMkTgrIZECoCC55vqjW), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Todo Comenzó Bailando \(Remix\)](https://open.spotify.com/album/5uETffhuDgeUDZhN4PacAJ) | 2:43 |
 | 6 | [El Amor De Mi Vida](https://open.spotify.com/track/04sktg3deiYUweHfbFUZTM) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [El Amor De Mi Vida](https://open.spotify.com/album/2RPuxZNaziqNHjbUgoE8iW) | 3:04 |
 | 7 | [Otra Noche](https://open.spotify.com/track/5i82o3878xCPNCUK8VIeqX) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Otra Noche](https://open.spotify.com/album/202ZNK1Xpb0r72VyHsz23L) | 3:19 |
-| 8 | [Cuéntale](https://open.spotify.com/track/6K7r6PQYIfGgLZRWnJjVOL) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk), [Michelle Maciel](https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6) | [Cuéntale](https://open.spotify.com/album/2l4FrrkppHP9XPwZRAs63K) | 2:41 |
+| 8 | [El Liston de Tu Pelo](https://open.spotify.com/track/0URKAkRgFg97sZj6lOG2Zr) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M), [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [El Listón de Tu Pelo](https://open.spotify.com/album/4oei4M2FnGxR99GP7Fctsz) | 4:06 |
 | 9 | [La Luna y Tú](https://open.spotify.com/track/4PGopmEXr1E5OQa4eA8s8S) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS), [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [La Luna y Tú](https://open.spotify.com/album/6tj3hUb520RFwQHHM5Osyk) | 3:36 |
 | 10 | [Una Cerveza](https://open.spotify.com/track/3LNZSTiwQYL7BnTfHvIOII) | [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Una Cerveza](https://open.spotify.com/album/1g4pk2xu9KBJXTdtOwaO4C) | 4:00 |
 | 11 | [A PURO DOLOR](https://open.spotify.com/track/7Ho0Xbf3vHdBJiTbQocuxQ) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Rusherking](https://open.spotify.com/artist/3Apb2lGmGJaBmr0TTBJvIZ), [Angel Lopez](https://open.spotify.com/artist/0w57qOEVTcqs0bLyFJ7Q52) | [A PURO DOLOR](https://open.spotify.com/album/3FQi4Oecz065SbJVuvvJXT) | 3:26 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1viuVscXm2.md) - [plain]
 | 99 | [ALV](https://open.spotify.com/track/32hCeeK3ayPux4UauNPsgA) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sentimiento, Elegancia y Más Maldad](https://open.spotify.com/album/21TAcmAXy0OY0U7B9LlwlY) | 3:44 |
 | 100 | [Te Perdoné Tantas Veces](https://open.spotify.com/track/5aJWoXivicRge1Q1bSpl16) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [La Diosa \- Los 20 Éxitos Más Pedidos](https://open.spotify.com/album/0zqbRHvwt2s6f3vjNOU0eq) | 2:23 |
 
-Snapshot ID: `MTcxMzQ5NTYwMCwwMDAwMDAwMGQ3ZjQ2NmQyOTU5ZmU5MGZjZjk3MGVjMDdkNjA3ZmYz`
+Snapshot ID: `MTcxMzk3MjM4OSwwMDAwMDAwMGViMTcyNGQwMzc2ODU1YjlmMDVlMGEwNzY1NjIxMWQx`

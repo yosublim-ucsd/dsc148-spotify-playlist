@@ -1,6 +1,6 @@
 {
   "description": "Hacele honor al domingo y terminalo bien arriba.",
-  "num_followers": 71159,
+  "num_followers": 71164,
   "original_name": "Antidomingo",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Calle 13 (Explicit Version)",
-        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
-      },
-      "artists": [
-        {
-          "name": "Calle 13",
-          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
-        }
-      ],
-      "duration_ms": 239306,
-      "name": "Atr\u00e9vete-Te-Te",
-      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "The Getaway",
         "url": "https://open.spotify.com/album/43otFXrY0bgaq5fB3GrZj6"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 302000,
       "name": "Dark Necessities",
       "url": "https://open.spotify.com/track/2oaK4JLVnmRGIO9ytBE1bt"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
+        "name": "Calle 13 (Explicit Version)",
+        "url": "https://open.spotify.com/album/5pmuwmV2OcuiTX7kNczQ16"
+      },
+      "artists": [
+        {
+          "name": "Calle 13",
+          "url": "https://open.spotify.com/artist/0yNSzH5nZmHzeE2xn6Xshb"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Atr\u00e9vete-Te-Te",
+      "url": "https://open.spotify.com/track/1q8NdCAQ9QUjpYiqzdd3mv"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -899,22 +899,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Mucho",
-        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
-      },
-      "artists": [
-        {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 240520,
-      "name": "Como Eran Las Cosas",
-      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "Harleys In Hawaii",
         "url": "https://open.spotify.com/album/30UjBkRwwBeCdspCGPBB8V"
       },
@@ -931,22 +915,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+        "name": "Mucho",
+        "url": "https://open.spotify.com/album/0DUCdIMPrlfPFPPKsNyzx3"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
         }
       ],
-      "duration_ms": 143291,
-      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
-      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
+      "duration_ms": 240520,
+      "name": "Como Eran Las Cosas",
+      "url": "https://open.spotify.com/track/61qPUnazSdkvua4wgA4L8C"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -967,6 +947,26 @@
       "duration_ms": 189322,
       "name": "Bandit (with YoungBoy Never Broke Again)",
       "url": "https://open.spotify.com/track/6Gg1gjgKi2AK4e0qzsR7sd"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
+        "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+        "url": "https://open.spotify.com/album/11kIpu7f0W1xLshyUW1z7n"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
+        }
+      ],
+      "duration_ms": 143291,
+      "name": "Nicki Nicole: Bzrp Music Sessions, Vol. 13",
+      "url": "https://open.spotify.com/track/2S93hylQBYLndMnaJuso8S"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Mother's Milk",
-        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Higher Ground - Remastered 2003",
-      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -1063,18 +1047,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Jessico",
-        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+        "name": "Mother's Milk",
+        "url": "https://open.spotify.com/album/1oOkcBu5bgkUzZTvKD1m8z"
       },
       "artists": [
         {
-          "name": "Babas\u00f3nicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
         }
       ],
-      "duration_ms": 185826,
-      "name": "El Loco",
-      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
+      "duration_ms": 202053,
+      "name": "Higher Ground - Remastered 2003",
+      "url": "https://open.spotify.com/track/5arVt2Wg0zbiWwAOZef2Nl"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1091,6 +1075,22 @@
       "duration_ms": 176394,
       "name": "MEL\u00d3N VINO",
       "url": "https://open.spotify.com/track/5uHAzGa4d9j35DEbhUwGhi"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
+        "name": "Jessico",
+        "url": "https://open.spotify.com/album/2VMsGuuC4CDcyZ8qp7njWh"
+      },
+      "artists": [
+        {
+          "name": "Babas\u00f3nicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 185826,
+      "name": "El Loco",
+      "url": "https://open.spotify.com/track/2jEjxOyKqMpkcThWl697hf"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "TRES PUNTOS SUSPENSIVOS",
-        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
-      },
-      "artists": [
-        {
-          "name": "WOS",
-          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
-        }
-      ],
-      "duration_ms": 173913,
-      "name": "ALMA DINAMITA",
-      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1239,22 +1223,18 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "Morad: Bzrp Music Sessions, Vol. 47",
-        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+        "name": "TRES PUNTOS SUSPENSIVOS",
+        "url": "https://open.spotify.com/album/3uogbVO1vXh4OZ7FQpnmuJ"
       },
       "artists": [
         {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Morad",
-          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+          "name": "WOS",
+          "url": "https://open.spotify.com/artist/5YCc6xS5Gpj3EkaYGdjyNK"
         }
       ],
-      "duration_ms": 177583,
-      "name": "Morad: Bzrp Music Sessions, Vol. 47",
-      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
+      "duration_ms": 173913,
+      "name": "ALMA DINAMITA",
+      "url": "https://open.spotify.com/track/2ONADYjJvqYVwjWavuY0H1"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1271,6 +1251,26 @@
       "duration_ms": 307880,
       "name": "LUST.",
       "url": "https://open.spotify.com/track/06FCvd7rrRcF3DdvWH5Isp"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
+        "name": "Morad: Bzrp Music Sessions, Vol. 47",
+        "url": "https://open.spotify.com/album/15nuuVNmTJG6QNBQZMVVyR"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "Morad",
+          "url": "https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9"
+        }
+      ],
+      "duration_ms": 177583,
+      "name": "Morad: Bzrp Music Sessions, Vol. 47",
+      "url": "https://open.spotify.com/track/39yyHtQ4tkjZzd8TfIBKQw"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1359,6 +1359,26 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+      },
+      "artists": [
+        {
+          "name": "Bizarrap",
+          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
+        },
+        {
+          "name": "C.R.O",
+          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+        }
+      ],
+      "duration_ms": 146341,
+      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
+      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "So Much Fun",
         "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
@@ -1435,8 +1455,8 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
-        "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-        "url": "https://open.spotify.com/album/6JRgIvDqCA1WxzEhV52zny"
+        "name": "Recuerdos",
+        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
       },
       "artists": [
         {
@@ -1444,13 +1464,13 @@
           "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
         },
         {
-          "name": "C.R.O",
-          "url": "https://open.spotify.com/artist/4puAp107dCehraE47QXVQX"
+          "name": "Nicki Nicole",
+          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
         }
       ],
-      "duration_ms": 146341,
-      "name": "C.R.O: Bzrp Music Sessions, Vol. 29",
-      "url": "https://open.spotify.com/track/0qPbQWcqNDVrReSSvMoJxk"
+      "duration_ms": 198850,
+      "name": "Plegarias",
+      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1483,34 +1503,6 @@
       "duration_ms": 176568,
       "name": "220",
       "url": "https://open.spotify.com/track/6ZvsmvXknoN8uK2MSEGpwT"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
-        "name": "Perfect Ten",
-        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
-      },
-      "artists": [
-        {
-          "name": "Mustard",
-          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
-        },
-        {
-          "name": "NAV",
-          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
-        },
-        {
-          "name": "Playboi Carti",
-          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174100,
-      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
-      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1567,6 +1559,34 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "Perfect Ten",
+        "url": "https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy"
+      },
+      "artists": [
+        {
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        },
+        {
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        },
+        {
+          "name": "Playboi Carti",
+          "url": "https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174100,
+      "name": "Baguettes in the Face (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)",
+      "url": "https://open.spotify.com/track/2zjGJ0dChMR0KxBZS15aqo"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "El Disco de Tu Coraz\u00f3n",
         "url": "https://open.spotify.com/album/23sglTmI7lQhVogpoa5TXe"
       },
@@ -1619,6 +1639,22 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 248640,
+      "name": "My Friends",
+      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "JACKBOYS",
         "url": "https://open.spotify.com/album/1Sf8GsXG32t0jNrX11xqWx"
       },
@@ -1639,42 +1675,6 @@
       "duration_ms": 244873,
       "name": "HIGHEST IN THE ROOM (feat. ROSAL\u00cdA & Lil Baby) - REMIX",
       "url": "https://open.spotify.com/track/7h0d2h0fUmzbs7zeFigJPn"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
-        "name": "Recuerdos",
-        "url": "https://open.spotify.com/album/16ZMrJHpIg8yz4We1xuvuu"
-      },
-      "artists": [
-        {
-          "name": "Bizarrap",
-          "url": "https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36"
-        },
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        }
-      ],
-      "duration_ms": 198850,
-      "name": "Plegarias",
-      "url": "https://open.spotify.com/track/4DfhsWuqZonO5URxvwkBSK"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
-        "name": "One Hot Minute (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 248640,
-      "name": "My Friends",
-      "url": "https://open.spotify.com/track/6HksxcBzMVdT17aq1Q79Xe"
     },
     {
       "added_at": "2023-12-15 20:05:00",
@@ -1763,6 +1763,22 @@
     {
       "added_at": "2023-12-15 20:05:00",
       "album": {
+        "name": "One Hot Minute (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 285066,
+      "name": "Aeroplane",
+      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
+    },
+    {
+      "added_at": "2023-12-15 20:05:00",
+      "album": {
         "name": "El N\u00famero Imperfecto",
         "url": "https://open.spotify.com/album/1nE0dr9IW4y6nKDtVO8yTn"
       },
@@ -1827,22 +1843,6 @@
       "duration_ms": 141826,
       "name": "Goin Baby",
       "url": "https://open.spotify.com/track/3WyRgi8CzQnhzO0xw79tTS"
-    },
-    {
-      "added_at": "2023-12-15 20:05:00",
-      "album": {
-        "name": "One Hot Minute (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2rQ135imvelvp89D8eEZOi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 285066,
-      "name": "Aeroplane",
-      "url": "https://open.spotify.com/track/0VLdJcQUsqHBBwqPp4CIKJ"
     }
   ],
   "unique_name": "Antidomingo",

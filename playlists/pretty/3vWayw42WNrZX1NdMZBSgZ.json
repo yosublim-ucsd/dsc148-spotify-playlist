@@ -1,13 +1,37 @@
 {
-  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot; Pedro Cap\u00f3 &amp; Carin Le\u00f3n  &quot;Existo&quot; Cover: Sky Rompiendo X Rauw Alejandro  ",
-  "num_followers": 54059,
+  "description": "The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias, Yotuel &amp; Yng Lvcas &quot;Fria Remix&quot; Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Enrique Iglesias",
+  "num_followers": 53992,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "NDQxOSw3Mjg5YWQyNzdjMDg5ZmQzY2RmYmIxNTA0YTRlYzQ3ZmIyMWM5MDI3",
+  "snapshot_id": "NDQyMSw0NGJmNjQzODJkMDc5OWQ0ZTg3ZDlmYWMwOGQyMjMwNGYyMWVhNzZh",
   "tracks": [
+    {
+      "added_at": "2024-04-19 04:29:22",
+      "album": {
+        "name": "Fr\u00eda (Remix)",
+        "url": "https://open.spotify.com/album/26Myqnfs2h2756VNPfPz1I"
+      },
+      "artists": [
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+        },
+        {
+          "name": "Yotuel",
+          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "duration_ms": 176606,
+      "name": "Fr\u00eda - Remix",
+      "url": "https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q"
+    },
     {
       "added_at": "2024-04-19 01:10:18",
       "album": {
@@ -79,30 +103,6 @@
       "duration_ms": 164949,
       "name": "Reir pa no llorar",
       "url": "https://open.spotify.com/track/4prqRVaMnTzHNWftd76iqN"
-    },
-    {
-      "added_at": "2024-04-19 04:29:22",
-      "album": {
-        "name": "Fr\u00eda (Remix)",
-        "url": "https://open.spotify.com/album/26Myqnfs2h2756VNPfPz1I"
-      },
-      "artists": [
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
-        },
-        {
-          "name": "Yotuel",
-          "url": "https://open.spotify.com/artist/3IzFiozYX6N0Qoz0drX8w8"
-        },
-        {
-          "name": "Yng Lvcas",
-          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
-        }
-      ],
-      "duration_ms": 176606,
-      "name": "Fr\u00eda - Remix",
-      "url": "https://open.spotify.com/track/1alnEk6Ileyn9W2pAINu0q"
     },
     {
       "added_at": "2024-03-22 04:09:49",

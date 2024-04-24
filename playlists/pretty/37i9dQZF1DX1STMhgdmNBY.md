@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 
 > For body and mind, blues straight from the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,678 likes - 70 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,793 likes - 70 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 37 | ['Tain't Nobody's Biz'ness If I Do](https://open.spotify.com/track/6SVMrke6GfTo8VFWaDH8Yu) | [Jay McShann](https://open.spotify.com/artist/1qZnWtvzKVV0lJQZBapchU) | [The Last Of The Blue Devils](https://open.spotify.com/album/6uVMAymadbYSAusGSUnNqw) | 7:01 |
 | 38 | [Ain't Nobody's Business](https://open.spotify.com/track/6wDGgiUZIpC7eCgrSoguie) | [Otis Spann](https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X) | [The Biggest Thing Since Colossus](https://open.spotify.com/album/3c4ALOvwjqyHULa9T7jNqX) | 5:11 |
 | 39 | [I Must Be In A Good Place Now](https://open.spotify.com/track/75J1XqFui85iw1L8ocepuF) | [Seth Walker](https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9) | [I Must Be In A Good Place Now](https://open.spotify.com/album/3M4bCDvBhAyP7gFMOTerot) | 3:07 |
-| 40 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
-| 41 | [Three O'Clock Blues](https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Essential Blue Archive: Take a Swing with Me](https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu) | 3:00 |
+| 40 | [Three O'Clock Blues](https://open.spotify.com/track/4GnCQfhL41HMe2pgx4bK9T) | [B.B\. King](https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U) | [The Essential Blue Archive: Take a Swing with Me](https://open.spotify.com/album/7tsw1IjRv2bjN1qam1ojwu) | 3:00 |
+| 41 | [The Little Red Rooster](https://open.spotify.com/track/3knwd2whi9QUViKgWCsixF) | [Willie Dixon](https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY) | [I Am The Blues](https://open.spotify.com/album/0y79HnVGwEtybfIcfD6M7N) | 3:36 |
 | 42 | [Better Day](https://open.spotify.com/track/4iSvnsxzZBte3qgstEd5qI) | [Sonny Terry and Brownie McGhee](https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw) | [Brownie McGhee and Sonny Terry Sing](https://open.spotify.com/album/1bnGRRSXinuQPmeeQM7AIv) | 3:04 |
 | 43 | [I Know I've Been Changed](https://open.spotify.com/track/6nUIuLITcryRxnLQ74YBeQ) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:37 |
 | 44 | [Gambler's Blues](https://open.spotify.com/track/3hLxjGBGvO1VF3p6BMPn8x) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 5:41 |
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1STMhgdmNBY.md) - [plain]
 | 49 | [Celebrated Walkin' Blues](https://open.spotify.com/track/4oNnxT1kVOAcAYkt8gxXAS) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp) | [Taj Mahal](https://open.spotify.com/album/0kEaFupzvrGdcczROS519i) | 8:51 |
 | 50 | [Reconsider Baby](https://open.spotify.com/track/0Ex94hahnMHF9f2c1sXh5o) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [Reconsider Baby](https://open.spotify.com/album/4A8C7S4wtpKwwNVdFDnEyL) | 3:10 |
 | 51 | [Is It Over](https://open.spotify.com/track/6CTNoKveaQYSOhvYWJUAHl) | [Don Bryant](https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I) | [You Make Me Feel](https://open.spotify.com/album/5nmTyPcWtLpY6HfkQI5AQN) | 4:30 |
-| 52 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
-| 53 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 |
+| 52 | [Riding Out The Storm](https://open.spotify.com/track/0l0wYl68QJuudGMyG7tlEu) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Riding Out The Storm](https://open.spotify.com/album/2dNNevpsGablniVIMdhEEC) | 4:38 |
+| 53 | [Uncloudy Day](https://open.spotify.com/track/6ZNz2aaMwy8yaQzlnT9507) | [The Staple Singers](https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC) | [Faith And Grace: A Family Journey 1953\-1976](https://open.spotify.com/album/0DkzL2vbWM8cJsfxzSzmCI) | 2:57 |
 | 54 | [Reap What You Sow](https://open.spotify.com/track/09PAOMUiAjZho9HVkd5umo) | [Otis Rush](https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP) | [Mourning In The Morning](https://open.spotify.com/album/39zS4QvdYkdcoa7VzG7KHe) | 4:55 |
 | 55 | [It's Mighty Hard](https://open.spotify.com/track/4OvJmdA6sHxhKsyD6bXnHN) | [Katie Webster](https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe) | [No Foolin'!](https://open.spotify.com/album/5YxmBxdk0V7Mx2XS3ExyB6) | 6:30 |
 | 56 | [I Got a Mind to Give up Living](https://open.spotify.com/track/0WpiGyQFNJbtfxlSvBiQl2) | [The Paul Butterfield Blues Band](https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i) | [Complete Albums 1965\-1980](https://open.spotify.com/album/74Q5wVKJAvWBv2wDOSoJPg) | 4:58 |

@@ -4,10 +4,11 @@
 
 > Worship 2024 \| Your favorite praise and worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-424 songs - 1 day 17 hr 5 min
+425 songs - 1 day 17 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [1,000 Names](https://open.spotify.com/track/0LxqmMhefR4Wd2DtYZj509) | [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [1,000 Names](https://open.spotify.com/album/1EUSij1Z8g0aYZ9ENNzEiL) | 5:24 | 2024-04-23 |  |
 | [10,000 Armies \- Live](https://open.spotify.com/track/6KT2LmKWum34CzB53sFEk4) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [ages \(Deluxe / Live\)](https://open.spotify.com/album/0fqGvPL2KwVyif5k81ZjJo) | 5:43 | 2022-02-17 | 2022-07-14 |
 | [10,000 Reasons \(Bless The Lord\) \- Live](https://open.spotify.com/track/0fxpHpK3aw2nFWII6yveDD) | [Matt Redman](https://open.spotify.com/artist/0bz9hDpUbAw5JElgEiuIYZ) | [10,000 Reasons \(Live\)](https://open.spotify.com/album/0av22wHGgPZRC0BkGrnVVJ) | 5:42 | 2022-04-05 |  |
 | [A Love That Remains \- Live](https://open.spotify.com/track/1FdOOpG8dbKNtaYZoRyUaK) | [Bryan McCleery](https://open.spotify.com/artist/3rObLZdf0Oo2pr06KSZlD1) | [A Love That Remains \(Live\)](https://open.spotify.com/album/0YyW1L5DWyeiCQWV4pUfXY) | 8:30 | 2022-02-18 | 2022-04-05 |

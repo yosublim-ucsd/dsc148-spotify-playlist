@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 
 > morrxs chidos haciendo música chida\. Pau Laggies en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,448 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,484 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX68kWwWBDPYS.md) - [plain]
 | 49 | [Injusto](https://open.spotify.com/track/1uWuaKvvTcrdEBLM5NRuuN) | [Molinette Cinema](https://open.spotify.com/artist/46tDpQqnHEX6mMCJfkE3l7) | [Injusto](https://open.spotify.com/album/4bZe1QnqD5bYWSo7Aj6YYd) | 3:33 |
 | 50 | [Algo de ti \)](https://open.spotify.com/track/17r6nmZ6x1Qq35j5D9bqZO) | [Ivenno](https://open.spotify.com/artist/3LCBCKAbNvRtIAWXnWzv8j), [1982 \(diecinueve ochenta y dos\)](https://open.spotify.com/artist/5TM0RQvmHVybWPQtQHoTd4) | [Algo de ti \)](https://open.spotify.com/album/0IwqT4XFPgIZTQy62Fqlx4) | 3:53 |
 
-Snapshot ID: `MTcxMzU1MDAxMywwMDAwMDAwMDcxMzZkNDZmMTg1YmUzMmU3YTIzNmIxNDM5MDgyNzg4`
+Snapshot ID: `MTcxMzk3NzI1NiwwMDAwMDAwMGEyNTg2ZWMwNTBiOWZiMGEwOWE1ZDY5NDRkZjc2ZTBj`

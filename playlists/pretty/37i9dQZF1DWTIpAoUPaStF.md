@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 
 > Música para ver llover, con buen cobijo y una taza de té entre las manos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46,361 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 46,371 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,13 +14,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTIpAoUPaStF.md) - [plain]
 | 4 | [Maybe October](https://open.spotify.com/track/2ou8EQgoiqk73toLQrEIsc) | [Dekker](https://open.spotify.com/artist/2Udd2jgFaz8tXG1w3PyMtN) | [I Won't Be Your Foe](https://open.spotify.com/album/6OhfRDchySkjM7GEUtrBFV) | 2:44 |
 | 5 | [Yards / Gardens](https://open.spotify.com/track/3PphHkiVdhRaO1EWH6ZWqZ) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:21 |
 | 6 | [Lost With You](https://open.spotify.com/track/4ZJXI6GhniCI0kSuin51lF) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Lost With You](https://open.spotify.com/album/6AlrbtZvNPmKrgZCQCCOgd) | 2:55 |
-| 7 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
-| 8 | [soleil soleil](https://open.spotify.com/track/6m3ObG4d6M92hJWYplJfnb) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 2:37 |
+| 7 | [soleil soleil](https://open.spotify.com/track/6m3ObG4d6M92hJWYplJfnb) | [Pomme](https://open.spotify.com/artist/6e3pZKXUxrPfnUPJ960Hd9) | [les failles](https://open.spotify.com/album/3Iq43NGfIN8tc8AVJ9Konz) | 2:37 |
+| 8 | [cardigan \- cabin in candlelight version](https://open.spotify.com/track/2hmafYGj1CXYKIYcMnX4lj) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [cardigan \(cabin in candlelight version\)](https://open.spotify.com/album/3kqqalY92DENp7FiztDOjH) | 3:48 |
 | 9 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 |
 | 10 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 |
 | 11 | [Hiding Out In The Open](https://open.spotify.com/track/6Q34tUtXLuWst5c63ddQ7N) | [Feist](https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj) | [Multitudes](https://open.spotify.com/album/1p4Q0pUvvURdCwC842Abjn) | 3:21 |
-| 12 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 |
-| 13 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 12 | [Every Time You Go Away](https://open.spotify.com/track/5OtvDpNhxUde1hkAjvzSzE) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot), [Kevin Garrett](https://open.spotify.com/artist/56tbeL5xhBPxby544GuK3E) | [Spotify Singles](https://open.spotify.com/album/0dlIoNzi1FAca3VcyPFj5S) | 4:25 |
+| 13 | [Can You Feel The Love Tonight](https://open.spotify.com/track/3AYEHr6hL0nOHxMrP5UiCu) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Modern Classics](https://open.spotify.com/album/1gpSsZXNXdGb2FujzivQHD) | 4:39 |
 | 14 | [Melody Noir](https://open.spotify.com/track/1e1a7eAlICks9mch3UVsEH) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Wave](https://open.spotify.com/album/4sgJYX3we1RoranerDs8ph) | 3:14 |
 | 15 | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/track/2NbS9E0ZZKAMJAppj8P53N) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Weird Goodbyes \(feat\. Bon Iver\)](https://open.spotify.com/album/2HQGXK9797uB6Ir8yd7Das) | 5:03 |
 | 16 | [Wondrous Place](https://open.spotify.com/track/0oXJQ8CyDcQJXASZiCSNGa) | [Drug Store Romeos](https://open.spotify.com/artist/7MMjkDVrjxW9iObeZeeejh) | [Wondrous Place](https://open.spotify.com/album/2otVcTMllFwg2QW6paGMmF) | 2:13 |

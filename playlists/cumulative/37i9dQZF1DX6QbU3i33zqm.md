@@ -4,7 +4,7 @@
 
 > El mejor Dance.
 
-132 songs - 6 hr 52 min
+133 songs - 6 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Not Fair](https://open.spotify.com/track/0JZ1ABjN8q7TNwMP39NjvU) | [Niklas Dee](https://open.spotify.com/artist/1ZPGzmbFTn8GRjqTqnLiFE), [Old Jim](https://open.spotify.com/artist/6v2YWK8EvCyut0QtBcAypu), [Enny\-Mae](https://open.spotify.com/artist/61PUjJm9JH5ck3LxD6RypE) | [Not Fair](https://open.spotify.com/album/57jsctxgXIlNnaWtZpjweW) | 2:43 | 2024-04-18 |  |
 | [Numb](https://open.spotify.com/track/10xV5l9nhLvFpR8mqzs0bL) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Numb](https://open.spotify.com/album/3SBeYxkc3Ce7lanK0f3epk) | 2:35 | 2023-09-21 |  |
 | [On My Love](https://open.spotify.com/track/0dxp7DyPJEo6JhtnjUtBnN) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On My Love](https://open.spotify.com/album/1NoYjCb7ReBR4kfmjntHTi) | 3:42 | 2023-11-17 |  |
-| [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2023-09-21 |  |
+| [On Repeat](https://open.spotify.com/track/4xbXuRfZ2ZLktw5QEdGYnX) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [On Repeat](https://open.spotify.com/album/18DHRG697Xqb5yLR1UQeIw) | 3:10 | 2023-09-21 | 2024-04-24 |
 | [One in a Million](https://open.spotify.com/track/3YfGTvsTAWGC2lgoDOikUz) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [One in a Million](https://open.spotify.com/album/65L5VcKGKe6sOJIPNFc0Q1) | 2:40 | 2023-09-21 |  |
 | [One with the Wolves](https://open.spotify.com/track/0X1KsfG08N1K8brMqGXEXv) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Pink](https://open.spotify.com/album/2RfJhw7ge51dinrgOe6gSL) | 3:00 | 2023-09-21 | 2023-10-12 |
 | [Paradise](https://open.spotify.com/track/3ol5EIFVcL4XneXKXjQpfx) | [Sophie and the Giants](https://open.spotify.com/artist/4FrXHrpbDLNyO3pbVv8RmF), [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4) | [Paradise](https://open.spotify.com/album/7Ddr2KE2jdn3QRvcuFGDE3) | 3:17 | 2023-09-21 |  |
@@ -112,6 +112,7 @@
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/72GVdRHK49beKrC1NqRCqj) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/7w3dPme8pmDgsKWGkcOk5f) | 2:56 | 2023-12-01 | 2024-04-19 |
 | [Roses \- Imanbek Remix](https://open.spotify.com/track/0zLCBJZSiELJf02ucPP9wb) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ), [Imanbek](https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj) | [While The World Was Burning](https://open.spotify.com/album/1OmWlObj9gAwNnTNgxBUmz) | 2:56 | 2023-09-21 | 2023-12-10 |
 | [Run](https://open.spotify.com/track/6oYXbji1rn7U6bFuNYekpQ) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [Run](https://open.spotify.com/album/7JCAQ1ISjY2Le5hcXUmU0L) | 3:08 | 2023-09-21 | 2023-11-05 |
+| [Savage](https://open.spotify.com/track/76A1RRDEyHKtmV3Vh6PeVN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR) | [Savage](https://open.spotify.com/album/6xBP3A3LFhaVl1Hb7XBCsM) | 2:47 | 2024-04-19 |  |
 | [Scared to Be Lonely](https://open.spotify.com/track/3ebXMykcMXOcLeJ9xZ17XH) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Scared to Be Lonely](https://open.spotify.com/album/2v9rQe4F8fVSh5v8bAq0jF) | 3:40 | 2023-09-21 |  |
 | [Secrets](https://open.spotify.com/track/66W1rVTnEv86dIkFhoiElg) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Secrets](https://open.spotify.com/album/6AgcNXTAFBxcOFRfxHUtxs) | 2:56 | 2023-09-21 |  |
 | [Silhouettes \- Original Radio Edit](https://open.spotify.com/track/06h3McKzmxS8Bx58USHiMq) | [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Silhouettes](https://open.spotify.com/album/56Wdv50B0BK8z3PhOIz7WE) | 3:31 | 2023-11-17 |  |

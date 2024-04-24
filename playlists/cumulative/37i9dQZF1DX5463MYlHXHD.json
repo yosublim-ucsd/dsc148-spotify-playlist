@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 156746,
       "name": "El avion",
       "url": "https://open.spotify.com/track/5YkgW3IIZxSvDl3GO9x4VA"
@@ -3034,6 +3034,24 @@
       "duration_ms": 227080,
       "name": "Mata - Remix",
       "url": "https://open.spotify.com/track/5Wa4c3jpfHpL1Cg5QoepbV"
+    },
+    {
+      "album": {
+        "name": "Ma\u00f1ana Qu\u00e9 Haremos",
+        "url": "https://open.spotify.com/album/2q1KckNS0egklcUgQDOa0C"
+      },
+      "artists": [
+        {
+          "name": "Papacho Mc Caco",
+          "url": "https://open.spotify.com/artist/5RDHCtwFu9tGeKqTdtd7LM"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202360,
+      "name": "Ma\u00f1ana Qu\u00e9 Haremos",
+      "url": "https://open.spotify.com/track/3cimZHGwkt26PPWTj5Hvi7"
     },
     {
       "album": {

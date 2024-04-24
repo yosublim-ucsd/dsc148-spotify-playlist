@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 7732,
+  "2024-04-24": 7744,
   "date_first_scraped": "2024-01-30",
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
   "name": "This Is Jake Shimabukuro",
@@ -421,7 +421,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 150760,
       "name": "Hi'ilawe",
       "url": "https://open.spotify.com/track/19wjOn6TbyIbW00NN7bLM6"
@@ -1039,7 +1039,7 @@
       ],
       "date_added": "2024-01-29",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-11",
+      "date_removed": null,
       "duration_ms": 221560,
       "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
       "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"

@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 181333,
+  "2024-04-24": 181223,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ecuador.",
   "name": "Top 50 - Ecuador",
@@ -4507,7 +4507,7 @@
       ],
       "date_added": "2024-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 189668,
       "name": "El Merengue",
       "url": "https://open.spotify.com/track/5KbBVSj6AJZ5662fO8EYFh"
@@ -7207,7 +7207,7 @@
       ],
       "date_added": "2021-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 242573,
       "name": "LA CANCI\u00d3N",
       "url": "https://open.spotify.com/track/0fea68AdmYNygeTGI4RC18"
@@ -8929,7 +8929,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 219201,
       "name": "Mamichula - con Nicki Nicole",
       "url": "https://open.spotify.com/track/0TUW9faHNaBmi89wsYGp9y"
@@ -10845,6 +10845,24 @@
       "duration_ms": 244444,
       "name": "Otro Atardecer",
       "url": "https://open.spotify.com/track/0E0DRHf5PfMeor0ZCwB3oT"
+    },
+    {
+      "album": {
+        "name": "\u00bfD\u00f3nde Jugar\u00e1n Los Ni\u00f1os?",
+        "url": "https://open.spotify.com/album/2G0I22upYkTLYxfoAHiwBK"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263306,
+      "name": "Oye Mi Amor",
+      "url": "https://open.spotify.com/track/5EJ2THuhAapEIeQOtXUQ0x"
     },
     {
       "album": {

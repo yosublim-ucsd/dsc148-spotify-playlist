@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 
 ### [This Is Coi Leray](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3TuhDH)
 
-> This is Coi Leray。アーティストの代表曲をひとつのプレイリストに。
+> This is Coi Leray\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,941 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,946 likes - 50 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 9 | [Make My Day \(with David Guetta\)](https://open.spotify.com/track/4f0i8ligJspqXf8qeAV1sS) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [COI](https://open.spotify.com/album/3LnOoljW00eYKDbBD88eLJ) | 2:15 |
 | 10 | [Save The Day \(feat\. Coi Leray & LouGotCash\)](https://open.spotify.com/track/0vkzRCT7wzqWCFJw5TN1MQ) | [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry), [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [LouGotCash](https://open.spotify.com/artist/1Sz0VZ2PxcZPD2qRIX9GSK) | [Spider\-Man: Into the Spider\-Verse \(Soundtrack From & Inspired by the Motion Picture\)](https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs) | 2:58 |
 | 11 | [Flip A Switch\. \(feat\. Coi Leray\) \- Remix](https://open.spotify.com/track/72b7GzsnUAjsk5I56hLkjp) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Flip A Switch\. \(feat\. Coi Leray\) \[Remix\]](https://open.spotify.com/album/6il1IQ2A2yvZaGPgcqXDBd) | 3:21 |
-| 12 | [Slide \(with Gunna\)](https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:28 |
-| 13 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
+| 12 | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/track/3zMp6WgIRFof3uq6B43iQO) | [DD Osama](https://open.spotify.com/artist/4JpFNbLvh0BGXAubKIthEM), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Upnow \(feat\. Coi Leray\)](https://open.spotify.com/album/3viZxJWjypFlTL3tRHmvGD) | 2:42 |
+| 13 | [Slide \(with Gunna\)](https://open.spotify.com/track/5zYmGeAGeqM4pA4jb64NHI) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Now or Never](https://open.spotify.com/album/1H9q5lbH1sO7Xn1W27Ms8G) | 3:28 |
 | 14 | [Blick Blick \(with Nicki Minaj\)](https://open.spotify.com/track/7LczcBaamU9pTkV4Cl9NyX) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Blick Blick](https://open.spotify.com/album/0UiZQvEgPpnPV6fuvmWTKf) | 2:58 |
 | 15 | [2055](https://open.spotify.com/track/0VhA1feaHVoftAyZ5fGGHA) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Still Sleep? \(Deluxe\)](https://open.spotify.com/album/0ZjOFfItjIA9YbzhERRIBr) | 1:59 |
 | 16 | [Bops](https://open.spotify.com/track/72vMwCjJuRRa1r0bhFBbE1) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Bops](https://open.spotify.com/album/2wVIh2YkTMZgjQf64sbPFM) | 2:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3TuhDH.md) - [plain]
 | 49 | [Sex So Good \(feat\. Coi Leray\)](https://open.spotify.com/track/40mQXYRIZl7c8Of0mfnRBC) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Fortune Favors the Bold](https://open.spotify.com/album/6TMDH24QJCPTjUnRuXvEY0) | 2:32 |
 | 50 | [Isabel Marant](https://open.spotify.com/track/7Mb66KGl6xxptERMMeMAoj) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 1:37 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDNjYmY3MjRlZjc2ZDRmMGRkYTg0MTZjOWFmMzViYjM0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDBlMzk0YTE1OTc3NzQ1ZTkyYmEzZmVkYzdlMGFhN2Vl`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 
 > Les plus grands tubes de variété française d'hier et d'aujourd'hui.
 
-[Spotify](https://open.spotify.com/user/spotify) - 477,479 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 477,337 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,8 +30,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Y4aXXQXWv.md) - [plain]
 | 20 | [Sensualité](https://open.spotify.com/track/6ri4yWOtcfGpTcigL2YeBe) | [Axelle Red](https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw) | [Sans plus attendre](https://open.spotify.com/album/4hohzFtQgP88UliHfUWGnt) | 3:52 |
 | 21 | [La lettre](https://open.spotify.com/track/2qaFgVtoMyWAb53M1UcCjj) | [Renan Luce](https://open.spotify.com/artist/7f2jQ928ZRehCJrGGHN46J) | [Repenti](https://open.spotify.com/album/2LOczhJs15w6n5UbuNm72q) | 3:17 |
 | 22 | [beau\-papa](https://open.spotify.com/track/5wXkbtZO1HsOQ1P75zi35p) | [Vianney](https://open.spotify.com/artist/4Nrd0CtP8txoQhnnlRA6V6) | [N'attendons pas](https://open.spotify.com/album/3iW7wfF8uocwH8Q6fqTK8Y) | 3:17 |
-| 23 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
-| 24 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
+| 23 | [La grenade](https://open.spotify.com/track/7ixCRBD0FZMRBeOBhTu2KD) | [Clara Luciani](https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0) | [Sainte\-Victoire](https://open.spotify.com/album/4oOotUMoznVTdGWzdUoEuy) | 3:14 |
+| 24 | [Tout le bonheur du monde](https://open.spotify.com/track/2jY4XzyntBSe2ns2EwA2pL) | [Sinsémilia](https://open.spotify.com/artist/7xtiaP8V8z95pASVuIrCRY) | [Debout les yeux ouverts](https://open.spotify.com/album/4Bgs5Nfk9CN0L8QGvVig6H) | 3:49 |
 | 25 | [Je te donne](https://open.spotify.com/track/55mXuPsEm6aboDIM68RM74) | [Jean\-Jacques Goldman](https://open.spotify.com/artist/2Cx19OTMqa6gpz2l60cGG2), [Michael Jones](https://open.spotify.com/artist/0AF8vOjsrk66ofuPhHCKqW) | [Non homologué](https://open.spotify.com/album/3svVRotnkGO3jhrPcCeeCA) | 4:25 |
 | 26 | [Je t'aimais, je t'aime, je t'aimerai \- Remastered](https://open.spotify.com/track/1sTWIzAlg8HapeWz2fXvfJ) | [Francis Cabrel](https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv) | [Samedi soir sur la terre \(Remastered\)](https://open.spotify.com/album/4KXrFpUXZO6e5RdZ70HaK8) | 4:38 |
 | 27 | [Dommage](https://open.spotify.com/track/4BEWiTPV0v87mBryf7gdxK) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [La vraie vie \(Deluxe\)](https://open.spotify.com/album/3iTiNTUw39tyag6Ip8rnbM) | 3:58 |

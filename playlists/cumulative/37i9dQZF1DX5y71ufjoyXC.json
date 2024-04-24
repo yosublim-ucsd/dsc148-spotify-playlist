@@ -775,6 +775,32 @@
     },
     {
       "album": {
+        "name": "BBY BOO (REMIX)",
+        "url": "https://open.spotify.com/album/4Rx0nQkh5sR1O0Z8lBgig9"
+      },
+      "artists": [
+        {
+          "name": "iZaak",
+          "url": "https://open.spotify.com/artist/4s6Xg38sbqh4xpf4OqhVUK"
+        },
+        {
+          "name": "Jhayco",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275862,
+      "name": "BBY BOO - REMIX",
+      "url": "https://open.spotify.com/track/43PiEypaceH339CSNiggyj"
+    },
+    {
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -1468,7 +1494,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 145000,
       "name": "curita",
       "url": "https://open.spotify.com/track/1z4CQKZOaWtGaE1XnbXwft"
@@ -1690,7 +1716,7 @@
       ],
       "date_added": "2023-10-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 197052,
       "name": "DILUVIO",
       "url": "https://open.spotify.com/track/2kz1YOhJiNubjigR1gB1VX"
@@ -1962,6 +1988,28 @@
       "duration_ms": 191320,
       "name": "El Cielo",
       "url": "https://open.spotify.com/track/4PA1wK0leCjmRZlP5dQ8Lv"
+    },
+    {
+      "album": {
+        "name": "El Conjuntito",
+        "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
+      },
+      "artists": [
+        {
+          "name": "El Bobe",
+          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158711,
+      "name": "El Conjuntito",
+      "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
     },
     {
       "album": {
@@ -4244,7 +4292,7 @@
       ],
       "date_added": "2023-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 184027,
       "name": "M.A.I",
       "url": "https://open.spotify.com/track/6ERI20r4GlgPI6ZDVLcGMO"
@@ -5848,7 +5896,7 @@
       ],
       "date_added": "2023-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"
@@ -6469,6 +6517,52 @@
     },
     {
       "album": {
+        "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
+        "url": "https://open.spotify.com/album/3Vvq8r0SVI5vOUFNQV8xSc"
+      },
+      "artists": [
+        {
+          "name": "The Academy: Segunda Misi\u00f3n",
+          "url": "https://open.spotify.com/artist/4C3ZmIqca9MWwThLaYbfXu"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        },
+        {
+          "name": "Lenny Tav\u00e1rez",
+          "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "D\u00edmelo Flow",
+          "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx"
+        },
+        {
+          "name": "Yandel",
+          "url": "https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234103,
+      "name": "QU\u00cdTENME EL TEL\u00c9FONO (feat. Yandel, Jay Wheeler)",
+      "url": "https://open.spotify.com/track/6ksWOJ7FWEAT1ax5hWKuzN"
+    },
+    {
+      "album": {
         "name": "Rara Vez",
         "url": "https://open.spotify.com/album/26wRfIX4WqKLKHll9O3KnF"
       },
@@ -6736,6 +6830,32 @@
       "duration_ms": 156500,
       "name": "SABOR FRESA",
       "url": "https://open.spotify.com/track/1UMm1Qs3u59Wvk53zBUE8r"
+    },
+    {
+      "album": {
+        "name": "Santa",
+        "url": "https://open.spotify.com/album/0SqUi6bPIlAaWfvZibBfia"
+      },
+      "artists": [
+        {
+          "name": "Rvssian",
+          "url": "https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193038,
+      "name": "Santa",
+      "url": "https://open.spotify.com/track/5bi0gh89wRuH2OgjdAKFsb"
     },
     {
       "album": {
@@ -7694,7 +7814,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 279275,
       "name": "UNA CERVEZA",
       "url": "https://open.spotify.com/track/0lbDzTINTToToBpkrnQT2t"
@@ -8230,7 +8350,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 187172,
       "name": "Young Miko: Bzrp Music Sessions, Vol. 58",
       "url": "https://open.spotify.com/track/6VciS3dRMpZhJiDxT8ArFi"

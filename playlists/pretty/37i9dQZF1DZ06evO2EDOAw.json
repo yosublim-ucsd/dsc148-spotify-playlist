@@ -1,12 +1,12 @@
 {
   "description": "This is Kierra Sheard. The essential tracks, all in one playlist.",
-  "num_followers": 4288,
+  "num_followers": 4294,
   "original_name": "This Is Kierra Sheard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDUzNzM4ZGFkNjIwNmUxNGFjMmM0YjI1NGVjMzgzMjVk",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGJiMjg0YzViYTJjZDQzMDA3OGJhYjNhOTA1MTE4N2Vk",
   "tracks": [
     {
       "added_at": null,
@@ -955,6 +955,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Something To Believe In",
+        "url": "https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk"
+      },
+      "artists": [
+        {
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        },
+        {
+          "name": "The Apartment",
+          "url": "https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "Something To Believe In",
+      "url": "https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Reset",
         "url": "https://open.spotify.com/album/7zEQOVHHzD8U0YybvF79rS"
       },
@@ -983,50 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Church",
-        "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
-      },
-      "artists": [
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        }
-      ],
-      "duration_ms": 453329,
-      "name": "How Great Thou Art",
-      "url": "https://open.spotify.com/track/5FnP7QoLkJJqMTMkDF7SBc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Something To Believe In",
-        "url": "https://open.spotify.com/album/0XZIvYGJOZIrnWiKpBb2Pk"
-      },
-      "artists": [
-        {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Kierra Sheard",
-          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
-        },
-        {
-          "name": "The Apartment",
-          "url": "https://open.spotify.com/artist/69IXR0c07FhGnuP7b3YShP"
-        }
-      ],
-      "duration_ms": 177000,
-      "name": "Something To Believe In",
-      "url": "https://open.spotify.com/track/14wxEVv4BL1iUFSzbEKUkD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Royalty: Live At The Ryman",
         "url": "https://open.spotify.com/album/2TumCYVu9ozTqrttuH0Vkw"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 547048,
       "name": "You Must Break - Live",
       "url": "https://open.spotify.com/track/0VKBh0ADbBSiDbvB97NuqK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Church",
+        "url": "https://open.spotify.com/album/5vqskMdlhybKNMes3uEAEn"
+      },
+      "artists": [
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        },
+        {
+          "name": "Kierra Sheard",
+          "url": "https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y"
+        }
+      ],
+      "duration_ms": 453329,
+      "name": "How Great Thou Art",
+      "url": "https://open.spotify.com/track/5FnP7QoLkJJqMTMkDF7SBc"
     },
     {
       "added_at": null,

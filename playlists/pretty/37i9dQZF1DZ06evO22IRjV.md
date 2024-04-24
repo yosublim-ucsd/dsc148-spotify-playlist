@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 
 ### [This Is FLOW](https://open.spotify.com/playlist/37i9dQZF1DZ06evO22IRjV)
 
-> This is FLOW\. The essential tracks, all in one playlist.
+> This is FLOW\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,893 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,891 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22IRjV.md) - [plain]
 | 49 | [WORD OF THE VOICE](https://open.spotify.com/track/0kESE99ri5BLsgtxCaYdiM) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [\#5](https://open.spotify.com/album/0Q1yRFAqGMM58SjTyPT3xV) | 3:47 |
 | 50 | [Voyage](https://open.spotify.com/track/4omDxqC1xPp6wFfs7UZHVv) | [FLOW](https://open.spotify.com/artist/3w2HqkKa6upwuXEULtGvnY) | [Voyage](https://open.spotify.com/album/5zSvFaWhWwksDGOLYkKOb5) | 3:39 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGRjZTBjNTUzZThjMzJlOGQxNmNjMjQyOWQyNzc2ODY4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDVlNGU4OWNjNDUyMGM2MmM3YTEzNzc2Y2U1MzMxYWEy`

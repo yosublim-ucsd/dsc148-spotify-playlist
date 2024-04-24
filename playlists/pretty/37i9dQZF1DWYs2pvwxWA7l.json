@@ -1,6 +1,6 @@
 {
   "description": "The hottest Afropop records on the planet.  Cover:  Ruger & Bnxn",
-  "num_followers": 556199,
+  "num_followers": 556503,
   "original_name": "Afropop",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,18 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
-        "name": "LA MELO EST GANGX",
-        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
+        "name": "Me & U",
+        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
       },
       "artists": [
         {
-          "name": "Gazo",
-          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
-        },
-        {
-          "name": "Tiakola",
-          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
         }
       ],
-      "duration_ms": 233240,
-      "name": "MAMI WATA",
-      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
+      "duration_ms": 192935,
+      "name": "Me & U",
+      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -143,18 +139,22 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
-        "name": "Me & U",
-        "url": "https://open.spotify.com/album/0D1Qm49Hq9cwYbRDeC1HGa"
+        "name": "LA MELO EST GANGX",
+        "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
       },
       "artists": [
         {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+          "name": "Gazo",
+          "url": "https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I"
+        },
+        {
+          "name": "Tiakola",
+          "url": "https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh"
         }
       ],
-      "duration_ms": 192935,
-      "name": "Me & U",
-      "url": "https://open.spotify.com/track/4nFrcGM7MY1mpoQCC7Kefj"
+      "duration_ms": 233240,
+      "name": "MAMI WATA",
+      "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -459,6 +459,22 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
+        "name": "Not An Angel",
+        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        }
+      ],
+      "duration_ms": 185639,
+      "name": "Not An Angel",
+      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
+    },
+    {
+      "added_at": "2024-04-19 07:56:26",
+      "album": {
         "name": "S2",
         "url": "https://open.spotify.com/album/24bAAFr3dK2TMVMaCZWMJM"
       },
@@ -475,22 +491,6 @@
       "duration_ms": 180638,
       "name": "IDK (feat. Zlatan)",
       "url": "https://open.spotify.com/track/5KV5UXd1uNZZafWTudrVft"
-    },
-    {
-      "added_at": "2024-04-19 07:56:26",
-      "album": {
-        "name": "Not An Angel",
-        "url": "https://open.spotify.com/album/0rWWei7R5XHkr9X4mui55k"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        }
-      ],
-      "duration_ms": 185639,
-      "name": "Not An Angel",
-      "url": "https://open.spotify.com/track/4hbadZZrbM08KZIQZomWaI"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -843,22 +843,6 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
-        "name": "Rent Free",
-        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 136842,
-      "name": "Rent Free",
-      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
-    },
-    {
-      "added_at": "2024-04-19 07:56:26",
-      "album": {
         "name": "Walk Away",
         "url": "https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 221242,
       "name": "Mistaken",
       "url": "https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3"
+    },
+    {
+      "added_at": "2024-04-19 07:56:26",
+      "album": {
+        "name": "Rent Free",
+        "url": "https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 136842,
+      "name": "Rent Free",
+      "url": "https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
-        "name": "Oh My",
-        "url": "https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1"
+        "name": "Agent Secret",
+        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
       },
       "artists": [
         {
-          "name": "Fireboy DML",
-          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
         }
       ],
-      "duration_ms": 182307,
-      "name": "Oh My",
-      "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
+      "duration_ms": 164737,
+      "name": "Agent secret",
+      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -1091,6 +1091,22 @@
       "duration_ms": 196008,
       "name": "Love Made Me Do It",
       "url": "https://open.spotify.com/track/0EDveqCZ7ExWFkF0SE4NV7"
+    },
+    {
+      "added_at": "2024-04-19 07:56:26",
+      "album": {
+        "name": "Oh My",
+        "url": "https://open.spotify.com/album/5udTHcnbnYDVv6ltR4mfP1"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        }
+      ],
+      "duration_ms": 182307,
+      "name": "Oh My",
+      "url": "https://open.spotify.com/track/5ms1yX1DJXb0TT2Z5cbgSq"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -1183,22 +1199,6 @@
       "duration_ms": 148651,
       "name": "Danger",
       "url": "https://open.spotify.com/track/3Kc2ZkX5CjmoaOSIi1kyh2"
-    },
-    {
-      "added_at": "2024-04-19 07:56:26",
-      "album": {
-        "name": "Agent Secret",
-        "url": "https://open.spotify.com/album/0XoS4VGmUz0yAlkirrl03X"
-      },
-      "artists": [
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 164737,
-      "name": "Agent secret",
-      "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
     },
     {
       "added_at": "2024-04-19 07:56:26",
@@ -1303,22 +1303,18 @@
     {
       "added_at": "2024-04-19 07:56:26",
       "album": {
-        "name": "Likor (feat. Stonebwoy)",
-        "url": "https://open.spotify.com/album/7DgfJZxWTpXnUNif7nmgnW"
+        "name": "FADE AWAY",
+        "url": "https://open.spotify.com/album/5NpiYMXcL0jr4JCh3WDpHb"
       },
       "artists": [
         {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        },
-        {
-          "name": "Stonebwoy",
-          "url": "https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq"
+          "name": "Crayon",
+          "url": "https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb"
         }
       ],
-      "duration_ms": 164705,
-      "name": "Likor (feat. Stonebwoy)",
-      "url": "https://open.spotify.com/track/0x7K0Gxgm4rNPB5Kx12Bvn"
+      "duration_ms": 168019,
+      "name": "FADE AWAY",
+      "url": "https://open.spotify.com/track/3FIuvNRbMDueDoYERFy7yg"
     }
   ],
   "unique_name": "Afropop",

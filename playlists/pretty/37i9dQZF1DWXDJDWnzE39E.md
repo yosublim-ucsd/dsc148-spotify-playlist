@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 
 > A salute to all of the women opening up the pit\. Cover: Cassyette
 
-[Spotify](https://open.spotify.com/user/spotify) - 670,715 likes - 80 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 670,797 likes - 80 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,9 +32,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 22 | [Tsunami \(11:11\)](https://open.spotify.com/track/0u4SRuld2zPAnyImNdfMAo) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Tsunami \(11:11\)](https://open.spotify.com/album/1mQwEcEkEfQ5EFW9Q4PpsE) | 3:08 |
 | 23 | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/track/1dxx2lYR9cBgd3ULMG3Pc9) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [The Rapture \(but it’s Pink\) \[feat\. Mothica\]](https://open.spotify.com/album/6RWgLevYdI5PuF95hfykPf) | 2:28 |
 | 24 | [weapon](https://open.spotify.com/track/1MUExGawtk7kNqKaMO28wD) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [weapon](https://open.spotify.com/album/3MBuWCEWssM1Yc7JmvuYB7) | 3:17 |
-| 25 | [I Hope You Choke](https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [I Hope You Choke](https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6) | 3:27 |
+| 25 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
 | 26 | [WARZ0NE](https://open.spotify.com/track/3lJehRIz8KnVMbDgnVEhUP) | [Stand Atlantic](https://open.spotify.com/artist/1W2Fv4YUnjC8hx2qQd6fGh) | [WARZ0NE](https://open.spotify.com/album/3PXLLgeOEdD6aJNy3g2ujn) | 2:38 |
-| 27 | [Handshake with Hell](https://open.spotify.com/track/2t5NYzZgq3cf7ck9Eg51ZQ) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Handshake with Hell](https://open.spotify.com/album/0NGaiN3rXHa54qJwqzLJLV) | 5:38 |
+| 27 | [I Hope You Choke](https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [I Hope You Choke](https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6) | 3:27 |
 | 28 | [Kamikaze](https://open.spotify.com/track/5ijQMO46fAA1zLF4xVhH4h) | [RedHook](https://open.spotify.com/artist/6OVWDN6Ty6RfnhUJlrYBlI), [Will King](https://open.spotify.com/artist/3g3ei7i91lYAZuV3UWPZgt) | [Bad Decisions](https://open.spotify.com/album/1BrlrOBkf4gZ8NP3tT2JhB) | 3:12 |
 | 29 | [Ultraviolet](https://open.spotify.com/track/4mB4OnvJp7Grfw5U8AQMz9) | [As Everything Unfolds](https://open.spotify.com/artist/28IImD2QqPWTQ2cWgOMQNT) | [Ultraviolet](https://open.spotify.com/album/3shvTPBaqgggoWWKIZXC94) | 3:52 |
 | 30 | [WITCH](https://open.spotify.com/track/6L3L8S4nkmJl9nDE7bXnFL) | [Delilah Bon](https://open.spotify.com/artist/5JUFYlgwsbqpLcU9TMlsve), [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [WITCH](https://open.spotify.com/album/0zECxYD8vdnOWX6FJ7cPXJ) | 3:54 |
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 61 | [Last Dance](https://open.spotify.com/track/6xrsNVrcVdTgoR7ikHWZWX) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [Last Dance](https://open.spotify.com/album/6Tayomr8QmeU9u0f2GJ0Vt) | 3:31 |
 | 62 | [METAL KINGDOM](https://open.spotify.com/track/5qL6RJj9Nj20DGAajzGAYi) | [BABYMETAL](https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq) | [METAL KINGDOM](https://open.spotify.com/album/10aTpSUuXqxbhPJdo4kEyE) | 5:51 |
 | 63 | [Mr\. Magic](https://open.spotify.com/track/0VwhP56nyBybH9WhLhMPrG) | [Reliqa](https://open.spotify.com/artist/1R9eQdiIWCTdMAeIMA3oLK) | [Mr\. Magic](https://open.spotify.com/album/0YyqEjOMn7E0hhSgIrhl1A) | 4:24 |
-| 64 | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/track/6H7dnpIpKtGAzV2BenMBvD) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/album/1eHGtp7HwxcYq6JGcDEbed) | 5:20 |
+| 64 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 |
 | 65 | [Salma Hayek](https://open.spotify.com/track/61Fus2laOu8yWJM1YntJCY) | [WARGASM \(UK\)](https://open.spotify.com/artist/1NRudBLaT84LXxfsYdFMhB) | [Salma Hayek](https://open.spotify.com/album/3hmU83q2m8wuNgBiqziBYP) | 3:39 |
-| 66 | [Egregore](https://open.spotify.com/track/2l7yet2WjW2JbQi9mVvuOG) | [Bambie Thug](https://open.spotify.com/artist/6g3orasGcMPn0gwcE3JMAC) | [Egregore](https://open.spotify.com/album/06p7KNMP9DaSOQgJKtbItt) | 3:03 |
+| 66 | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/track/6H7dnpIpKtGAzV2BenMBvD) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [Abyss of Time \- Countdown to Singularity \-](https://open.spotify.com/album/1eHGtp7HwxcYq6JGcDEbed) | 5:20 |
 | 67 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 |
 | 68 | [Selkie](https://open.spotify.com/track/7KmOdUvmCw5VQSXRt4qsef) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Selkie](https://open.spotify.com/album/30S5mUJoW5fMUGFNUxSHOE) | 4:23 |
-| 69 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
-| 70 | [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 |
+| 69 | [HATE PARTY](https://open.spotify.com/track/2NoH5sopROxmX9qVm6h09z) | [bodyimage](https://open.spotify.com/artist/7pn8MYeH0VgKGDnYAiS7Pg), [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [HATE PARTY](https://open.spotify.com/album/6L4voUmXNjOw6fTimrXJnn) | 2:28 |
+| 70 | [Ava of Death](https://open.spotify.com/track/3PGVf5SlJVHgz0zKC12pmq) | [Eleine](https://open.spotify.com/artist/2L2rV1gDa17HwFcFCWBIAx) | [Ava of Death](https://open.spotify.com/album/3Sya5RIH8NDaJ3X9rhhXdG) | 4:06 |
 | 71 | [Serves You Right](https://open.spotify.com/track/1xPlB6cboQgE0C9yVlVc0v) | [DIAMANTE](https://open.spotify.com/artist/6jMXENspOIBHOTQNQDTxsW) | [Serves You Right](https://open.spotify.com/album/1peMzsH0CEKYGcj4t2wdrg) | 3:34 |
 | 72 | [Swamped XX](https://open.spotify.com/track/3iqzSkWevZvDTgugUQhUB9) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Swamped XX](https://open.spotify.com/album/6FkY7M23Zqy1MrRYJJJals) | 3:32 |
 | 73 | [Crave](https://open.spotify.com/track/7ykAoOUwjYSzqinw4Sk7vc) | [Fate DeStroyed](https://open.spotify.com/artist/0SLTP7xRXkIReIAaUpg7WA) | [Crave](https://open.spotify.com/album/1oht8Pr8e0nBYfkSfbcd47) | 3:36 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXDJDWnzE39E.md) - [plain]
 | 76 | [Deadly Diminuendo](https://open.spotify.com/track/2pegQHGPUESaQVskx8abmD) | [Blackbriar](https://open.spotify.com/artist/6PXQUX3BYTSVj7LcvviOmI) | [Deadly Diminuendo](https://open.spotify.com/album/18IqZIXN29LgCfyOW1eSFl) | 5:00 |
 | 77 | [Faking It](https://open.spotify.com/track/0lP6unRRdWs0cqa6qjsSmn) | [Svalbard](https://open.spotify.com/artist/2HLQr8aUMombMeuIEDv6wA) | [Faking It](https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF) | 5:28 |
 | 78 | [Ugly Fucker](https://open.spotify.com/track/4Nn1QhNCbg405jWYRgIybs) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [Ugly Fucker](https://open.spotify.com/album/4XsoXgTq479PpAFbzExxF6) | 3:14 |
-| 79 | [BEAVER CAGE](https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [BEAVER CAGE](https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z) | 3:38 |
-| 80 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |
+| 79 | [Last One Standing](https://open.spotify.com/track/0l9zlXpT3inDwP7pRvnIS7) | [Icon For Hire](https://open.spotify.com/artist/1Jy0lTKAQDnTklKzF0g2o7) | [Last One Standing](https://open.spotify.com/album/09BxkLEcznMDHJ9MWH4FtE) | 3:24 |
+| 80 | [BEAVER CAGE](https://open.spotify.com/track/2CXqW7JahyyrDEJPX9Tkp0) | [Butcher Babies](https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj) | [BEAVER CAGE](https://open.spotify.com/album/5JV4NKwb73DvgeUOcjlV6Z) | 3:38 |
 
 Snapshot ID: `MTcxMTQ3MjAxOCwwMDAwMDAwMGZmNzhmYzlhMjkzZWU4MjU5M2I5ZjFjMDkyYzMyOTE4`

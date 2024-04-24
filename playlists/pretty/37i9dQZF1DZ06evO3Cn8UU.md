@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 
 ### [This Is Teddy Pendergrass](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Cn8UU)
 
-> This is Teddy Pendergrass\. The essential tracks, all in one playlist.
+> This Is Teddy Pendergrass\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,814 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,823 likes - 50 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3Cn8UU.md) - [plain]
 | 49 | [You Can't Hide / You Can't Hide From Yourself \(Touch of Class GMF Remix\)](https://open.spotify.com/track/1mptorrisuiE0miwVYqW06) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Grandmaster Flash](https://open.spotify.com/artist/1JfnADNz5yYEq3hrzlZHLk) | [The Get Down: Original Soundtrack From The Netflix Original Series \(Deluxe Version\)](https://open.spotify.com/album/7ezeSBh9E63ijDAxn8Ke4P) | 4:56 |
 | 50 | [Two Hearts](https://open.spotify.com/track/6aiRo3mKnVMKJ2TZKxIf2w) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g), [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ) | [Stephanie](https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6) | 4:43 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDAzMWE0MzFkMDA0NmFkNGNlNGU0ZTI3YjRmNjEwZDk0`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGNmMDJiNjBkMWViYTBjYmMzYTQ0M2RmODhiMzFjZTQ5`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Pina Colada Blues
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,017 likes - 75 songs - 5 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,038 likes - 75 songs - 5 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1UloYFdbD8M.md) - [plain]
 | 9 | [Vaanil Nila](https://open.spotify.com/track/2RaJo1HIKjyMjxZYJ2HdME) | [Anusree Deepak](https://open.spotify.com/artist/25iCaIN4jpNT7K37yeSTPa) | [Vaanil Nila](https://open.spotify.com/album/1dnXlWoQzKtze8d9Uj6zcJ) | 3:56 |
 | 10 | [The Bacardi Song](https://open.spotify.com/track/6V6Gp9FBvuge8f7IwijFUX) | [Rinosh George](https://open.spotify.com/artist/3sMWWB27n75DQtRwIAo0Ru) | [The Bacardi Song](https://open.spotify.com/album/7moZLvp3D9nj5xjL83fjCr) | 3:54 |
 | 11 | [Castle In The Sky](https://open.spotify.com/track/7IXkNPrfMWjigapPfs1BoL) | [Niranjan Menon](https://open.spotify.com/artist/3U14e8ytLENdFrJLKArp7d), [Artemis Fall](https://open.spotify.com/artist/2MTUquJfZa080O7BQoDBgu), [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa) | [Castle In The Sky](https://open.spotify.com/album/4JYNyfvDS7So6b0HmnAZ2i) | 4:48 |
-| 12 | [Roses](https://open.spotify.com/track/12ungtim2fPt6ebI8RyFtd) | [AshaJeevan](https://open.spotify.com/artist/2NWmz0T0DY65DUDEF3aERn), [Neha Nair](https://open.spotify.com/artist/78NGdhTf5oKXObZbj278qk) | [Roses](https://open.spotify.com/album/6X7ET7nPqOy9Yhsnm5Trqu) | 3:26 |
+| 12 | [Roses](https://open.spotify.com/track/12ungtim2fPt6ebI8RyFtd) | [AshaJeevan](https://open.spotify.com/artist/2NWmz0T0DY65DUDEF3aERn), [Neha S\. Nair](https://open.spotify.com/artist/1Ixc8hKrbw01MHtuP6SNUH) | [Roses](https://open.spotify.com/album/6X7ET7nPqOy9Yhsnm5Trqu) | 3:26 |
 | 13 | [Thedi Ninne](https://open.spotify.com/track/77S4AzWeaNvBYEhZOKuvJp) | [P S Ajmal Shah](https://open.spotify.com/artist/6UfrHGnTCdPQQvvB8XHPtR) | [Thedi Ninne](https://open.spotify.com/album/7if2HqVWnVJmCZC1lhrDlJ) | 3:06 |
 | 14 | [Duniyaav](https://open.spotify.com/track/3MS0WFDWxwJ3DNG4NUewEN) | [MUSLI](https://open.spotify.com/artist/05XtLThhzw83Gcv3kFV9BO), [Vocal Dude](https://open.spotify.com/artist/6e7toXPTMHFuuQpnQgoHqI), [BSM](https://open.spotify.com/artist/2KTMQdrxtZNOFAz2jxxth3) | [Duniyaav](https://open.spotify.com/album/0FZItbmrkQxcQ2buwitxE0) | 2:17 |
 | 15 | [BHAAVAM](https://open.spotify.com/track/0tbRl9AXpgaT8EQLmAEWdh) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [BHAAVAM](https://open.spotify.com/album/5Le5NUhFAZ65gKlxOSWe55) | 5:23 |

@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 15,
+  "2024-04-24": 15,
   "date_first_scraped": "2024-02-23",
   "description": "",
   "name": "main playlist",
@@ -327,7 +327,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 281306,
       "name": "Anthem",
       "url": "https://open.spotify.com/track/2KN0Kgfb15aNLR0p2J4pkr"
@@ -765,7 +765,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 294065,
       "name": "Black Sheep - Brie Larson Vocal Version",
       "url": "https://open.spotify.com/track/60TThBDrPpek5k520l0W0L"
@@ -895,6 +895,24 @@
       "duration_ms": 340428,
       "name": "But Daddy I Love Him",
       "url": "https://open.spotify.com/track/4QMgEffJQuKtjCNvqfRZ0m"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 340428,
+      "name": "But Daddy I Love Him",
+      "url": "https://open.spotify.com/track/5og4Qzt92jJzVDkOtSEilb"
     },
     {
       "album": {
@@ -1880,6 +1898,24 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261228,
+      "name": "Down Bad",
+      "url": "https://open.spotify.com/track/2F3N9tdombb64aW6VtZOdo"
+    },
+    {
+      "album": {
         "name": "Rumours (Super Deluxe)",
         "url": "https://open.spotify.com/album/0BwWUstDMUbgq2NYONRqlu"
       },
@@ -2362,6 +2398,28 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215463,
+      "name": "Florida!!! (feat. Florence + The Machine)",
+      "url": "https://open.spotify.com/track/3ZVFcD8Wlw9T9klGqmJf9F"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -2460,6 +2518,28 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Post Malone",
+          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228965,
+      "name": "Fortnight (feat. Post Malone)",
+      "url": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -2479,6 +2559,24 @@
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone)",
       "url": "https://open.spotify.com/track/6dODwocEuGzHAavXqTbwHv"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210789,
+      "name": "Fresh Out The Slammer",
+      "url": "https://open.spotify.com/track/3fO566xJgwxIa3qGCGBvIC"
     },
     {
       "album": {
@@ -2796,6 +2894,24 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254365,
+      "name": "Guilty as Sin?",
+      "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -2868,6 +2984,24 @@
     },
     {
       "album": {
+        "name": "evermore",
+        "url": "https://open.spotify.com/album/5jmVg7rwRcgd6ARPAeYNSm"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315146,
+      "name": "happiness",
+      "url": "https://open.spotify.com/track/0EFdoyXHpRHhEmsOlQhIXO"
+    },
+    {
+      "album": {
         "name": "Norman Fucking Rockwell!",
         "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
@@ -2933,7 +3067,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 341255,
       "name": "Heat Above",
       "url": "https://open.spotify.com/track/7pn2efhCkZcPCM2zlR4RtY"
@@ -3250,6 +3384,42 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218004,
+      "name": "I Can Do It With a Broken Heart",
+      "url": "https://open.spotify.com/track/4q5YezDOIPcoLr8R81x9qy"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156297,
+      "name": "I Can Fix Him (No Really I Can)",
+      "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -3363,6 +3533,24 @@
       "duration_ms": 170640,
       "name": "I Forgot That You Existed",
       "url": "https://open.spotify.com/track/43rA71bccXFGD4C8GOpIlN"
+    },
+    {
+      "album": {
+        "name": "I Get It Now",
+        "url": "https://open.spotify.com/album/5zZHAGHasjwkR9B1xX3Xq6"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212165,
+      "name": "I Get It Now",
+      "url": "https://open.spotify.com/track/03ECDyILFfQ98k106zwcIt"
     },
     {
       "album": {
@@ -4110,6 +4298,24 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277156,
+      "name": "loml",
+      "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
+    },
+    {
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -4641,7 +4847,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 175312,
       "name": "Morning Sex",
       "url": "https://open.spotify.com/track/2fGRJzoiYJYAzlQAyBONMb"
@@ -4699,6 +4905,24 @@
       "duration_ms": 230013,
       "name": "Murder On The Dancefloor",
       "url": "https://open.spotify.com/track/4tKGFmENO69tZR9ahgZu48"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203801,
+      "name": "My Boy Only Breaks His Favorite Toys",
+      "url": "https://open.spotify.com/track/2XXwLdtuAcE0HSCu61ijAb"
     },
     {
       "album": {
@@ -5377,7 +5601,7 @@
       ],
       "date_added": "2022-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
@@ -5399,6 +5623,24 @@
       "duration_ms": 213313,
       "name": "Paul Revere",
       "url": "https://open.spotify.com/track/1dHtMSJ1Ozg2Ja6GX4McAO"
+    },
+    {
+      "album": {
+        "name": "folklore (deluxe version)",
+        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234000,
+      "name": "peace",
+      "url": "https://open.spotify.com/track/6JlI8Ay77m4nJvZTHvfT1J"
     },
     {
       "album": {
@@ -5641,7 +5883,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 196026,
       "name": "Raspberry",
       "url": "https://open.spotify.com/track/1F5A4LpF8ylUVtPoMAvNvn"
@@ -6268,6 +6510,24 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262974,
+      "name": "So Long, London",
+      "url": "https://open.spotify.com/track/3Vevii7qKqrmW8CcyzBHDl"
+    },
+    {
+      "album": {
         "name": "THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY",
         "url": "https://open.spotify.com/album/5H7ixXZfsNMGbIE5OBSpcb"
       },
@@ -6391,7 +6651,7 @@
       ],
       "date_added": "2022-04-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 297489,
       "name": "Stardust Chords",
       "url": "https://open.spotify.com/track/07p7PALHp6ZcD5tmlbO94N"
@@ -6759,7 +7019,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 255466,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/5MKSl2ZHsImt0wOfBAs87U"
@@ -6835,6 +7095,24 @@
       "duration_ms": 183878,
       "name": "The Albatross",
       "url": "https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196900,
+      "name": "The Alchemy",
+      "url": "https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn"
     },
     {
       "album": {
@@ -7358,6 +7636,24 @@
     },
     {
       "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245541,
+      "name": "The Smallest Man Who Ever Lived",
+      "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
+    },
+    {
+      "album": {
         "name": "Speak Now (Taylor's Version)",
         "url": "https://open.spotify.com/album/5AEDGbliTTfjOB8TSm1sxt"
       },
@@ -7373,6 +7669,24 @@
       "duration_ms": 267653,
       "name": "The Story Of Us (Taylor's Version)",
       "url": "https://open.spotify.com/track/6dTA6y0C2ReQklntzZl8l3"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293048,
+      "name": "The Tortured Poets Department",
+      "url": "https://open.spotify.com/track/3NMrVbIVWT3fPXBj0rNDKG"
     },
     {
       "album": {
@@ -7459,7 +7773,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 244586,
       "name": "There Is a Light That Never Goes Out - 2011 Remaster",
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI"
@@ -7567,7 +7881,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 207133,
       "name": "This Is Why We Can't Have Nice Things",
       "url": "https://open.spotify.com/track/07NxDD1iKCHbAldceD7QLP"
@@ -8015,6 +8329,24 @@
       "duration_ms": 334084,
       "name": "Who\u2019s Afraid of Little Old Me?",
       "url": "https://open.spotify.com/track/2d8UxVNhJinc8uat9PoM9y"
+    },
+    {
+      "album": {
+        "name": "THE TORTURED POETS DEPARTMENT",
+        "url": "https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334084,
+      "name": "Who\u2019s Afraid of Little Old Me?",
+      "url": "https://open.spotify.com/track/36t6frENUtCYKuZus6aYDO"
     },
     {
       "album": {

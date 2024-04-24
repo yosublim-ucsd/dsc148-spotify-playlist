@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 193024,
+  "num_followers": 193132,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGU5ZjU4ZjQxNjFjOWY0NDA2YzcyOWJmZjE1NzU3Zjk3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDFiNzdlMDdhYTBmMzIwNjQxNzIwY2JlMmRiNDJiMWY2",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Decided 2",
-        "url": "https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ"
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
       },
       "artists": [
-        {
-          "name": "YoungBoy Never Broke Again",
-          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
-        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 243037,
-      "name": "Better Than Ever (feat. Rod Wave)",
-      "url": "https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t"
+      "duration_ms": 205714,
+      "name": "2019",
+      "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
     },
     {
       "added_at": null,
@@ -619,18 +615,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+        "name": "Decided 2",
+        "url": "https://open.spotify.com/album/5kK8oDrnJr64xQhyaHFjtQ"
       },
       "artists": [
+        {
+          "name": "YoungBoy Never Broke Again",
+          "url": "https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b"
+        },
         {
           "name": "Rod Wave",
           "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
         }
       ],
-      "duration_ms": 205714,
-      "name": "2019",
-      "url": "https://open.spotify.com/track/5uDCagy7HnW0b3qBHfaOAO"
+      "duration_ms": 243037,
+      "name": "Better Than Ever (feat. Rod Wave)",
+      "url": "https://open.spotify.com/track/7KeM63RotkWiGnHKkboz4t"
     },
     {
       "added_at": null,

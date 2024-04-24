@@ -19749,6 +19749,28 @@
     },
     {
       "album": {
+        "name": "I SEE THE FUTURE EP",
+        "url": "https://open.spotify.com/album/2i2p1CfDwLdjkmemstHiWt"
+      },
+      "artists": [
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        },
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120002,
+      "name": "ROLLIN' LOUD",
+      "url": "https://open.spotify.com/track/4ke0LXdbM4c6CoL1yv4lI4"
+    },
+    {
+      "album": {
         "name": "minority room",
         "url": "https://open.spotify.com/album/6GwFoOMMZhVXtgkhO6fAKa"
       },

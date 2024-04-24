@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 
 > The best TikTok Gym playlist\. Your new Release Radar\. Anime Hardstyle, AOT, anime phonk, tatli depression, zyzz, xqc, attack on titan, JCORE
 
-[ig @godmodearc](https://open.spotify.com/user/shihu) - 54,377 likes - 238 songs - 11 hr 40 min
+[ig @godmodearc](https://open.spotify.com/user/shihu) - 54,353 likes - 238 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,7 +112,7 @@ pretty - [cumulative](/playlists/cumulative/0Z8dYUrW0ZgdSMSVmlWlxR.md) - [plain]
 | 102 | [Winstrol](https://open.spotify.com/track/1IzkTqD1Ua8MVrwOnjpaX1) | [Yosuf](https://open.spotify.com/artist/0pceb68in41LfgvQbkvCzg), [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [Winstrol](https://open.spotify.com/album/6CaXxp5CIgHlEChFRNlbKU) | 2:12 |
 | 103 | [The People \- Dimatik Remix](https://open.spotify.com/track/4nyqcnj3pTl72hFsJCO0S5) | [KSHMR](https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ), [Dimatik](https://open.spotify.com/artist/2Zvo5BEkHyaHD1zk180kMz) | [The People \(Dimatik Remix\)](https://open.spotify.com/album/0Tvfsa4WH95rNK3zcxUMdA) | 3:15 |
 | 104 | [Ready For The Madness](https://open.spotify.com/track/4JwIGYAdOi3vbY5XBxEyNc) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2) | [Lose Control](https://open.spotify.com/album/0tMlXtDtwKQ4BCpKjqFJZI) | 1:58 |
-| 105 | [Warcry \(An Ember Dawn Mix\)](https://open.spotify.com/track/6lW3RUd1BN4S6vxETUN338) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [Warcry \(An Ember Dawn Mix\)](https://open.spotify.com/album/7cIqd0tpIdqKJKenP5q9pG) | 4:05 |
+| 105 | [Warcry \- An Ember Dawn Mix](https://open.spotify.com/track/6lW3RUd1BN4S6vxETUN338) | [Neolux](https://open.spotify.com/artist/6kNykeJK1CTSW1zJYcAUvQ) | [Warcry \(An Ember Dawn Mix\)](https://open.spotify.com/album/7cIqd0tpIdqKJKenP5q9pG) | 4:05 |
 | 106 | [ADRENALIN](https://open.spotify.com/track/1xoigddYLuUFszTRCoPvkr) | [SHADXWBXRN](https://open.spotify.com/artist/5ZzO786ViqgegCIoa28OPx) | [ADRENALIN](https://open.spotify.com/album/6nX4WB8Aw5KovtyZE55kRw) | 1:58 |
 | 107 | [Get Into It](https://open.spotify.com/track/75W9BtSuju8inTMIDpgEOs) | [kirakira](https://open.spotify.com/artist/73dSW1k3dqO5tGxLp3p3MW) | [SAN](https://open.spotify.com/album/5T9y4Wc3JeCU2qJt3dmOdp) | 2:00 |
 | 108 | [Dead Descent](https://open.spotify.com/track/1IWrkumoqevr4EkjsyCe6C) | [Stravy](https://open.spotify.com/artist/0q6LIg3EExctnTreiwrj3T) | [Dead Descent](https://open.spotify.com/album/2hiAaNKcd4BFZZLHIWVs8A) | 1:45 |

@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: $ONOS CLIQ
 
-1,809 songs - 3 day 13 hr 29 min
+1,810 songs - 3 day 13 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -540,6 +540,7 @@
 | [FOMO](https://open.spotify.com/track/7vJUbd7bLIc50cA0NJqzNB) | [badchieff](https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6) | [AVANTI](https://open.spotify.com/album/2jONoCNyNjktjSbta9y4ph) | 2:16 | 2023-06-15 | 2023-07-28 |
 | [FOMO](https://open.spotify.com/track/0cKSYTMDSprUy4VGyQaJV3) | [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e), [MANIS](https://open.spotify.com/artist/6UTeoyE5DmlcRgYoV5e50n) | [FOMO](https://open.spotify.com/album/5BVduvlVJN1gvw2fZ64esn) | 2:27 | 2023-11-30 | 2023-12-15 |
 | [for better or worse](https://open.spotify.com/track/07jmXuwPiLeENEsbfyShUk) | [lovesick by choice](https://open.spotify.com/artist/6hw8TaF4rsDgimKMCpOcR4) | [for better or worse](https://open.spotify.com/album/5sd84ORrbreYD0ic7z0zDh) | 2:28 | 2022-07-11 | 2022-07-26 |
+| [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-23 |  |
 | [fragment](https://open.spotify.com/track/77OWuDUCJMhizuSjOXDJbl) | [sadeyes](https://open.spotify.com/artist/5fj4oi7qHDoklvnnYmSBl0) | [grim](https://open.spotify.com/album/0PCca8yteh8duIBDV9PX55) | 2:14 | 2022-07-11 | 2022-07-26 |
 | [Friday Night](https://open.spotify.com/track/6wgmzw64fvWGVNfDRbOHFh) | [orbit](https://open.spotify.com/artist/6aEgar707cpB5zzGyZlyRv) | [Summer Someday](https://open.spotify.com/album/3T5GjO0RHixIYMXeUsq099) | 3:49 | 2023-03-16 | 2023-07-07 |
 | [Friends With Your EX](https://open.spotify.com/track/5dLhmqJRJiV0RyRwv7VUdv) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Friends With Your EX](https://open.spotify.com/album/6Lv24dBmFka5bThmdwMCOn) | 1:58 | 2024-01-04 | 2024-02-02 |
@@ -1022,7 +1023,7 @@
 | [Mockingbird](https://open.spotify.com/track/561jH07mF1jHuk7KlaeF0s) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [Encore \(Deluxe Version\)](https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif) | 4:10 | 2022-10-20 | 2023-03-18 |
 | [Mockingbird \- Remix](https://open.spotify.com/track/33LFIMKizfQaC2RFeYLQXw) | [E1 \(3x3\)](https://open.spotify.com/artist/63ebc5zUpJ36aoTDQJHa9B) | [Mockingbird \(Remix\)](https://open.spotify.com/album/7BXb7pTQSCicF0duwhWd9E) | 3:12 | 2022-07-25 | 2022-09-30 |
 | [Moet](https://open.spotify.com/track/4Q51ZH2NEeO8n69tXT4m14) | [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA), [bluesonus](https://open.spotify.com/artist/76ISBs1WkuQdgN28n99zv1) | [Moet](https://open.spotify.com/album/6NuCKvRLbeoKORuZOL6fwC) | 2:03 | 2023-06-22 | 2023-07-21 |
-| [Molto Allegro](https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw) | [G&J](https://open.spotify.com/artist/70DyeGC3ucG1pMEWCcjFUU) | [Molto Allegro](https://open.spotify.com/album/6LtuUagNwof5jLK7IO7r1g) | 3:09 | 2023-12-21 |  |
+| [Molto Allegro](https://open.spotify.com/track/2tbf8Kg7mmr6wliHGFJrjw) | [G&J](https://open.spotify.com/artist/70DyeGC3ucG1pMEWCcjFUU) | [Molto Allegro](https://open.spotify.com/album/6LtuUagNwof5jLK7IO7r1g) | 3:09 | 2023-12-21 | 2024-04-24 |
 | [Moment](https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ) | [Nicolas Binder](https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA) | [Moment](https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV) | 3:24 | 2023-03-24 | 2023-08-30 |
 | [mona lisa](https://open.spotify.com/track/4ZQ1aAbr7ZNScyUawToAvo) | [BELLUCCI BOI](https://open.spotify.com/artist/5c68xeIPEWsKVqod15NMi2) | [mona lisa](https://open.spotify.com/album/6vtKSbUyiCpuDQWQugobnu) | 3:09 | 2023-03-24 | 2023-04-07 |
 | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/track/37CoOXIsgF3NzbK1zHZetk) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Mona Lisa \(Spider\-Man: Across the Spider\-Verse\)](https://open.spotify.com/album/57bOm4y0cT0j9Kwl7Osasj) | 3:06 | 2023-06-06 | 2023-07-04 |

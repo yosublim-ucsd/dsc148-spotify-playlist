@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 
 > Experience the best of live worship here\. Cover: <a href="spotify:artist:3yAv8udgy9z6yF6rREcgfB">Rock City Worship</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 893,300 likes - 100 songs - 10 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 892,963 likes - 100 songs - 10 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdrxKdrXE2Vk.md) - [plain]
 | 6 | [This Is Our God](https://open.spotify.com/track/6StHK5sgz9rjxVZv7CApW2) | [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [This Is Our God](https://open.spotify.com/album/1AOGcBpy6CxShBK8Pu3wB5) | 4:25 |
 | 7 | [Monday Morning Faith](https://open.spotify.com/track/7qMRmcVM1ki7z6YgiPmXrU) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Heart Cry](https://open.spotify.com/album/29KBqH474Kpmrfc6cCtzWF) | 6:56 |
 | 8 | [Joy In The Morning](https://open.spotify.com/track/6VorEVnu2fEEk6dcG9vb5v) | [Tauren Wells](https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4), [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix) | [Joy In The Morning](https://open.spotify.com/album/170FUziX94zYLzcV7arINC) | 8:48 |
-| 9 | [We Crown You](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 |
+| 9 | [We Crown You \- Live](https://open.spotify.com/track/01BsgrD3uoUEhVxyCHc9r2) | [Jeremy Riddle](https://open.spotify.com/artist/6jZbQXvNtDjnj18yoHMuvi) | [Live in the Prayer Room](https://open.spotify.com/album/2aGiv73UJKLLSjqE4Tvejd) | 7:29 |
 | 10 | [Jehovah \(feat\. Chris Brown\)](https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chris Brown](https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw) | [CAN YOU IMAGINE?](https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2) | 5:54 |
 | 11 | [Death Is Hollow \(Live\)](https://open.spotify.com/track/5v7qO8qitDFzTaOWyxGnZo) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Kristene DiMarco](https://open.spotify.com/artist/0uWNGisbRTdz6E5O3V3Sc8) | [Death Is Hollow](https://open.spotify.com/album/5Ti4NcO8efw0WohpUXgPJg) | 8:39 |
 | 12 | [Honest Offering / I Surrender All \- Live](https://open.spotify.com/track/6qWGguLKmE88iJMBxCRH4G) | [CAIN](https://open.spotify.com/artist/2XDaX0gxzE4eCXjPPAREEq) | [Honest Offering \(Live\)](https://open.spotify.com/album/4ZruUTVf0jFq3wdoCFqNfp) | 4:37 |

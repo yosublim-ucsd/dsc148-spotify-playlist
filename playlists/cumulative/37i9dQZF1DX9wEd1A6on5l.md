@@ -4,7 +4,7 @@
 
 > Get the party started with these Naija bangers!
 
-408 songs - 19 hr 46 min
+409 songs - 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Bankruptcy](https://open.spotify.com/track/6tbnqrQJWzPPQzlzvoIewt) | [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Pheelz](https://open.spotify.com/artist/5Jv1MsZBh0sqokFq7pU8Xg) | [DND](https://open.spotify.com/album/4P84VNKfBLVKhIliJ5D0dW) | 2:31 | 2023-07-28 | 2023-08-11 |
 | [Beautiful Song](https://open.spotify.com/track/4wYRLUhYqHgzxHlWSbk4JL) | [Starsamm](https://open.spotify.com/artist/1iBtMaom4KzYIK2oynJGXY), [Dj Six7even](https://open.spotify.com/artist/7yyFlB8IOlpxT5aKGLdGZk) | [Beautiful Song](https://open.spotify.com/album/12eBsPwe1lf7gZLlGujZpW) | 4:36 | 2024-02-16 | 2024-03-22 |
 | [Begging](https://open.spotify.com/track/771tThfRECkaHjTKb6clZx) | [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Begging](https://open.spotify.com/album/2YnH0BZHt58uxsgnnNeeYH) | 2:15 | 2022-07-22 | 2022-09-26 |
-| [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-14 |  |
+| [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-14 | 2024-04-24 |
 | [Belle Full](https://open.spotify.com/track/7ppSFPUTqVqp97SmOci4q8) | [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [KTIZO](https://open.spotify.com/artist/4iRmNYPp7K9YaLrQXohMPr) | [Belle Full](https://open.spotify.com/album/6RWa45eSEJ9454G5dgA1dQ) | 3:11 | 2023-07-21 | 2023-08-11 |
 | [bend you](https://open.spotify.com/track/4cukkgbgG9P9PKouQ462aV) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Boy Alone](https://open.spotify.com/album/5NLjxx8nRy9ooUmgpOvfem) | 2:39 | 2022-07-14 | 2023-02-04 |
 | [Better Time](https://open.spotify.com/track/46T7QV8rOaK6EfuRWhpG8z) | [Deena Ade](https://open.spotify.com/artist/4URSzB6wfRtpXEISyX7Nsb), [Luigi Anywhere](https://open.spotify.com/artist/5a9qc56VdoSQ7pw6d464GK) | [Better Time](https://open.spotify.com/album/3hk2c0wMrFmRJddOzmeM61) | 3:49 | 2024-02-23 | 2024-03-22 |
@@ -300,6 +300,7 @@
 | [Para](https://open.spotify.com/track/7DLUJXxs8jXuyub7VodFW3) | [Candy Bleakz](https://open.spotify.com/artist/2QPpxx2U3qEeZZsF3uaXn0) | [Para](https://open.spotify.com/album/4WuOzEl2n7TvInsmclmGob) | 2:12 | 2024-03-22 |  |
 | [PARA](https://open.spotify.com/track/5O1GLRH88wNbCzLYKFwHK3) | [Kid MARLEY](https://open.spotify.com/artist/2WwYHrjL0qClKU9T7JXwjg), [Odumodublvck](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [PARA](https://open.spotify.com/album/5lIW4ZVGLazp4s7E43EPuc) | 2:58 | 2023-02-16 | 2023-02-24 |
 | [PARIWO](https://open.spotify.com/track/20fEWd3EZSTTLuHHllpRl9) | [Mohbad](https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [PARIWO](https://open.spotify.com/album/0Jkvu3rltjFQC0khKkivk8) | 2:00 | 2023-09-29 | 2023-11-09 |
+| [Party Monster](https://open.spotify.com/track/6XQ3ver8HQA5voTiXDk0xG) | [Ruger](https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [RnB](https://open.spotify.com/album/1L9bJDoHYbV5NbUmIT36gu) | 2:55 | 2024-04-19 |  |
 | [Party No Dey Stop](https://open.spotify.com/track/0Em4eY10PGyiBlmjWxcav3) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Party No Dey Stop](https://open.spotify.com/album/6LFrJCjt9PDLQRdLpHiLeq) | 2:48 | 2023-03-18 |  |
 | [Party No Dey Stop \(with JayO & Byron Messia\) \- JayO & Byron Messia Remix](https://open.spotify.com/track/6qOGmElVBG9ERlgN88TxjQ) | [Adekunle Gold](https://open.spotify.com/artist/2IK173RXLiCSQ8fhDlAb3s), [JayO](https://open.spotify.com/artist/1IMENE2OCzsrXuu62aW1mD), [Byron Messia](https://open.spotify.com/artist/3IDfJpj4YVkaBl7Dd52Pxv) | [Party No Dey Stop \(JayO & Byron Messia Remix\)](https://open.spotify.com/album/0wg0yuzwpRpdRwKNzDd7Wk) | 2:32 | 2023-11-03 | 2024-02-28 |
 | [Patek](https://open.spotify.com/track/3Ry6M5to0EblssBg3pfJt8) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Patek](https://open.spotify.com/album/2LQzJSGVHLyIJX8rGUlhU0) | 3:38 | 2022-09-23 | 2023-11-09 |

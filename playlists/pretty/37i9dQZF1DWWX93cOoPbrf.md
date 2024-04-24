@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de la cosecha 2024\. Tito Double P, Jaziel Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 816,790 likes - 75 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 816,543 likes - 75 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

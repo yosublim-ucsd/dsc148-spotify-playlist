@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,874 likes - 50 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,877 likes - 50 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 11 | [Call Me A Fool \[Feat\. Carla Thomas\]](https://open.spotify.com/track/4nNft158MTJ5fbbPt0tb2l) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:43 |
 | 12 | [Ordinary World](https://open.spotify.com/track/1om1YO2BUOfjL7yimgAnsJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Ordinary World](https://open.spotify.com/album/327HasqiXSg84xOEbiNdLl) | 4:40 |
 | 13 | [Workin' Woman Blues](https://open.spotify.com/track/58KQWfgO3DEu4kHlsmQEXz) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:05 |
-| 14 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
-| 15 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
+| 14 | [Cosmic Dancer](https://open.spotify.com/track/5jXqgEjfy9IPrBv5SQtYtT) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cosmic Dancer](https://open.spotify.com/album/2iYmMZu2Fmum7r6tFyZ2zn) | 4:25 |
+| 15 | [Little Wing](https://open.spotify.com/track/6W6xbvrkBXRXALFVDYXeMq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Little Wing](https://open.spotify.com/album/31ouv0slZULXCbafbGF0kF) | 2:55 |
 | 16 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
 | 17 | [Happy Or Lonesome](https://open.spotify.com/track/4vzU9v60ThI1hzgGJZphI9) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Sweetheart 2014](https://open.spotify.com/album/0qjDs1pSBA36pw3qL57LAx) | 1:51 |
 | 18 | [Long Lonely Road](https://open.spotify.com/track/4l0bi7g9dOp1L3QDBbCTjk) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 3:56 |
@@ -35,10 +35,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 25 | [Why The Bright Stars Glow](https://open.spotify.com/track/7gYMQltOReqftzZDH3jWs8) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:25 |
 | 26 | [Look At Miss Ohio](https://open.spotify.com/track/37PBWFvPnrdKaz9tiI24EI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 3:25 |
 | 27 | [The Front Door](https://open.spotify.com/track/4UK7HAqhQ0GOeJnPibJrzJ) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Order Of Time](https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k) | 4:14 |
-| 28 | [I Can't Stand the Rain](https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Traveler's Soul](https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly) | 4:08 |
+| 28 | [The Fact](https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Goodtime Charlie](https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN) | 3:27 |
 | 29 | [Stay Meditation](https://open.spotify.com/track/2dm0jizi5StxHnOWuhub85) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 0:54 |
 | 30 | [Into My Arms](https://open.spotify.com/track/5UpRKWaVwwLQMH7ME6Pxr0) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:10 |
-| 31 | [The Fact](https://open.spotify.com/track/1Xq0XTjQVQkLNrOgDQ7hrf) | [Mick Flannery](https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Goodtime Charlie](https://open.spotify.com/album/58WR5ej6EJFRGjQp1qrfpN) | 3:27 |
+| 31 | [I Can't Stand the Rain](https://open.spotify.com/track/2ueEb5EeFRF2vINyQ5bP9x) | [Blues Traveler](https://open.spotify.com/artist/3pHeBYl1yujXcZqqfF1UyQ), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Traveler's Soul](https://open.spotify.com/album/5vqWpNKeUOfzYTyoeQoCly) | 4:08 |
 | 32 | [Trials, Troubles, Tribulations](https://open.spotify.com/track/16sKiqhg3YdpeyJ8bsxYxM) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 3:02 |
 | 33 | [Colors](https://open.spotify.com/track/0yVv3bVTl6VRiBJ1qSAWU3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 4:19 |
 | 34 | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/track/2V5o61Yu0ddJDFz1Pi8T3N) | [North Mississippi Allstars](https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Up and Rolling \(feat\. Son Little and Valerie June\)](https://open.spotify.com/album/6YgBwPmvrWQYRd2QeoiXpq) | 3:21 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 49 | [Don’t It Make You Want To Go Home](https://open.spotify.com/track/1IiRdOcgZNojYYbVwU0w8Z) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Under Cover](https://open.spotify.com/album/6vw0q0HwJCJUmSfkjCKtwH) | 4:39 |
 | 50 | [Rain Dance](https://open.spotify.com/track/0NyLQvtPwo19usBXekOgbs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Mountain of Rose Quartz](https://open.spotify.com/album/2ExPB3sevswcHXOXiyajDH) | 2:47 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDMyNThlYWU4MzhmZDJjMmJjMjAyYzM0NTAwNGQ2ODA1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDE2ZDExOThjYTIyZWE3MTgyNTg1ZGFlNTdjOTBhNGIx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 
 > This is Isabel LaRosa\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,389 likes - 20 songs - 48 min 4 sec
+[Spotify](https://open.spotify.com/user/spotify) - 27,694 likes - 20 songs - 48 min 4 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO32laA8.md) - [plain]
 | 19 | [i don't forgive you](https://open.spotify.com/track/6D2HY29PYcdXCicrs55Icx) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:44 |
 | 20 | [praying](https://open.spotify.com/track/2nPOaOSY7HAitNxGGhM0cR) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [YOU FEAR THE GOD THAT LOVES YOU](https://open.spotify.com/album/3O0sAN2kHcVQ5QqfQL8cyB) | 2:46 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGY1MWY3NzdiM2Y4OTI0MDI1NmI1MGYxMmYxNGM4NmI4`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDU3MTM4M2VkYTQxYzAxYTRmOWMwNTgwYjU4NWIwM2Y4`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Sube la temperatura con las nuevas rolitas de DJ Snake con Peso Pluma, Ángela Aguilar, y Edén Muñoz! 🥵 Tay\-Tay en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 833,594 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 833,227 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 | 27 | [Cangrinaje](https://open.spotify.com/track/5sJXSkZDAJjWrwtJHXLFTI) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [Cangrinaje](https://open.spotify.com/album/1Oc453GOhH2ghgtrp2qDTa) | 3:09 |
 | 28 | [UNDERWATER](https://open.spotify.com/track/6cy8lRkS9jvgL9P7Z3h2Tx) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc) | [UNDERWATER](https://open.spotify.com/album/3UBxVekC61UQJLNnRDdZVQ) | 3:23 |
 | 29 | [Apágalo](https://open.spotify.com/track/138aUp8rOibpO2lTm5QBka) | [Full THM](https://open.spotify.com/artist/1wp3PNNbj7GpiXOQ1VemCy), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Apágalo](https://open.spotify.com/album/7fsQwnkGUKAzggaGwlV5zo) | 3:12 |
-| 30 | [RAYBEN CAP 7: BELLAKACOQUETTE \(El Burger, Smi\-Lee\) \[feat\. Profeta Yao Yao & Cachirula\]](https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb) | [RAYBEN CAP 7: BELLAKACOQUETTE \(El Burger, Smi\-Lee\) \[feat\. Profeta Yao Yao & Cachirula\]](https://open.spotify.com/album/6oacIxkILsvDG3nG045io9) | 2:39 |
+| 30 | [RAYBEN CAP 7: BELLAKACOQUETTE \(feat\. Profeta Yao Yao & Cachirula\)](https://open.spotify.com/track/2PliTxLuOKE7RykFqDeDGb) | [RAYBEN](https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47), [El Burger](https://open.spotify.com/artist/55sUDNma3qznDILZgydRHT), [Smi\-Lee](https://open.spotify.com/artist/4kcrrhbTk7KqY1KKeonwKA), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [Profeta Yao Yao](https://open.spotify.com/artist/4tXFiCOQKSg5avRjHnYJAb) | [RAYBEN CAP 7: BELLAKACOQUETTE \(feat\. Profeta Yao Yao & Cachirula\)](https://open.spotify.com/album/6oacIxkILsvDG3nG045io9) | 2:39 |
 | 31 | [Promesas](https://open.spotify.com/track/4354fubltNCknagyX8ZirV) | [AQUIHAYAQUIHAY](https://open.spotify.com/artist/3zMBw1jxFritUP7Mpce68i) | [Promesas](https://open.spotify.com/album/72qPBrZO98nSnEXT3AgmIO) | 2:36 |
 | 32 | [La Respuesta](https://open.spotify.com/track/1swRz7g1JAi6jRlKF2xYfY) | [Absa G.](https://open.spotify.com/artist/2qAN5f6Dcq9KTMt3PbcjC1), [Zizzy](https://open.spotify.com/artist/2h8f3bQReG6QLk3tA1j7NS) | [La Respuesta](https://open.spotify.com/album/2hNEz7DstBrG5X1kmZS2il) | 2:58 |
 | 33 | [Nothing To Do](https://open.spotify.com/track/2Eza3ko1jcN2xkm6BkeUM4) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Nothing To Do](https://open.spotify.com/album/5YoeeJL0Ks1sYbc79jOBO7) | 2:55 |

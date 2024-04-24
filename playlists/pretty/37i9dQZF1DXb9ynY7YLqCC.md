@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 
 > Canciones directas y banderas al viento\. Foto: La 25.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,811 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,812 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9ynY7YLqCC.md) - [plain]
 | 64 | [Reflejo](https://open.spotify.com/track/1RaYc8dytOsWlmL2bEuG2I) | [La Beriso](https://open.spotify.com/artist/0Dy32zfSrQ332Bz8wsthKJ) | [Reflejo](https://open.spotify.com/album/6FsAipsUvB2WP4o6ho5u2i) | 4:19 |
 | 65 | [Lo Artesanal \- Remix](https://open.spotify.com/track/6G69Rca1fS52ypIOp5KJBX) | [Viejas Locas](https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV) | [Sigue Pegando](https://open.spotify.com/album/5Nv6koWaTbbunAJhE8cYeT) | 5:40 |
 | 66 | [La ilusión que me condena](https://open.spotify.com/track/1woygbhtsdzT0BJX7rs0ue) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Gladiadores del rock](https://open.spotify.com/album/753PebEMtBEDIt8PyP5Snp) | 5:06 |
-| 67 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 |
-| 68 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
+| 67 | [Rock del Pedazo](https://open.spotify.com/track/5MRelkZAqB0SrxUtZmexQo) | [Ratones Paranoicos](https://open.spotify.com/artist/5fVtUielMhdztOA34ArB6c) | [X 16](https://open.spotify.com/album/45UGwtbbmTeqJAoFnhiLx7) | 2:46 |
+| 68 | [3 Acordes](https://open.spotify.com/track/69OeKslZFI2RPaYDQUGFHh) | [Caras Extrañas](https://open.spotify.com/artist/5Bc5XHQ2svsLbZjwQqEIEP) | [3 Acordes](https://open.spotify.com/album/5oKMFaF7iCoq2JGZuOabNR) | 3:12 |
 | 69 | [Sangrecaliente](https://open.spotify.com/track/6fkCxYCuTdwS9vAmGE9TYy) | [Revanchistas](https://open.spotify.com/artist/0doxvsFqliwpll9oqvUGEQ) | [De Sangre Caliente](https://open.spotify.com/album/54L6YD2YIuEGajL1v3RIs1) | 4:26 |
 | 70 | [Ruleta](https://open.spotify.com/track/3cTcRPhf3Kal3UOmtVpwKo) | [Los Piojos](https://open.spotify.com/artist/0SnyKkoyBaB2fG8IJH4xmU) | [Verde Paisaje del Infierno](https://open.spotify.com/album/5BXYr7iU56rEX24QQPYcjO) | 4:16 |
 | 71 | [Buen Recuerdo](https://open.spotify.com/track/7akXU0fDGqQ1QRWooxo1Ug) | [Pier](https://open.spotify.com/artist/7E0i3aKAcm8iGK15QePkog) | [Buen Recuerdo](https://open.spotify.com/album/7HUBMKHKAZ7kVBfacExMhR) | 4:11 |

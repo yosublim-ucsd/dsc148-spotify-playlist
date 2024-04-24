@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 
 > All the indelible tunes from the other side of the 00s\. Cover: LCD Soundsystem
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,767 likes - 80 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,875 likes - 80 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,14 +54,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 44 | [In For The Kill](https://open.spotify.com/track/6yRraj2ghJiIcVbQ6Vb59Q) | [La Roux](https://open.spotify.com/artist/3K2zB87GZv1krx031en5VA) | [La Roux](https://open.spotify.com/album/3CcCqXsbyjCDDSA3omcGoy) | 4:08 |
 | 45 | [Club Foot](https://open.spotify.com/track/6C0xucNj75wRdlejwWIEW1) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [Kasabian](https://open.spotify.com/album/0VyDvw4MT9XDoSzE24yBCc) | 3:34 |
 | 46 | [Not Nineteen Forever](https://open.spotify.com/track/19CIsQ1HElu4XHdLCMlSqu) | [Courteeners](https://open.spotify.com/artist/1NfJU4hy56Z4UM4iyIa1B2) | [St\. Jude](https://open.spotify.com/album/3fKNYg9Ti0jyxtYBTtlRL4) | 4:03 |
-| 47 | [Never Miss A Beat](https://open.spotify.com/track/0bXhjlgUddDlJzHOeVM4Tq) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Off With Their Heads](https://open.spotify.com/album/1cMowxUDW6TPg6NXnOdM3n) | 3:06 |
-| 48 | [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 |
+| 47 | [PDA](https://open.spotify.com/track/286mFeYjBJ9fkioaIzaxoN) | [Interpol](https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B) | [Turn On The Bright Lights](https://open.spotify.com/album/4sW8Eql2e2kdRP1A1R1clG) | 4:59 |
+| 48 | [Never Miss A Beat](https://open.spotify.com/track/0bXhjlgUddDlJzHOeVM4Tq) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Off With Their Heads](https://open.spotify.com/album/1cMowxUDW6TPg6NXnOdM3n) | 3:06 |
 | 49 | [What Else Is There?](https://open.spotify.com/track/2cTOee6bTauDFK1QuDS1BD) | [Röyksopp](https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH) | [The Understanding](https://open.spotify.com/album/1HkKeOklBwC1auQJ5Huwcm) | 5:17 |
 | 50 | [You've Got The Love](https://open.spotify.com/track/0fPf9CDFzVnHpcfld5XVtO) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [You've Got The Love](https://open.spotify.com/album/77JmKGdCSo3JuNelG5fofU) | 2:48 |
-| 51 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
-| 52 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
-| 53 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
-| 54 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
+| 51 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 |
+| 52 | [Sticks 'N' Stones](https://open.spotify.com/track/1khoSOxg6VHzvRlVkczrbl) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Kings & Queens](https://open.spotify.com/album/4e3fJnly4W3A5kL339KOuc) | 4:00 |
+| 53 | [My Girls](https://open.spotify.com/track/7jZBPuJmkOsfPkwFD30dAA) | [Animal Collective](https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj) | [Merriweather Post Pavilion](https://open.spotify.com/album/6BRq5g6CWiFgN3NrjLGAYq) | 5:40 |
+| 54 | [Over And Over](https://open.spotify.com/track/3RCj5fG55qjtmnEML1gpnA) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:47 |
 | 55 | [Someone Great](https://open.spotify.com/track/2VGDntFPvgvqSiUf9ITEfW) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Sound of Silver](https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X) | 6:30 |
 | 56 | [She Wants To Move](https://open.spotify.com/track/4Vqd7MuPVrciqRS3EzhKWb) | [N.E.R.D](https://open.spotify.com/artist/5wPoxI5si3eJsYYwyXV4Wi) | [Fly Or Die](https://open.spotify.com/album/1DDsclE9PANAkXHyNjlDI4) | 3:33 |
 | 57 | [Heavy Cross](https://open.spotify.com/track/4N6R6yqkFUTyF3AYOdR0T7) | [Gossip](https://open.spotify.com/artist/3sFTupo9UGgrujjN21BjwR) | [Heavy Cross](https://open.spotify.com/album/6iKQraIqR247eFKjdTMoDR) | 4:02 |
@@ -79,11 +79,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0YKekzl0blG.md) - [plain]
 | 69 | [Get Over It](https://open.spotify.com/track/0SLOiJClXkAZluClYpke95) | [OK Go](https://open.spotify.com/artist/3hozsZ9hqNq7CoBGYNlFTz) | [OK Go](https://open.spotify.com/album/0pkXh1gRCwOAWbTuMdStyZ) | 3:16 |
 | 70 | [Gold Lion](https://open.spotify.com/track/6tuiDRFaXOBqFLpeTBjAAn) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Show Your Bones](https://open.spotify.com/album/3lgIiynXHTZYaSvS1ZrMxG) | 3:07 |
 | 71 | [Ghosts](https://open.spotify.com/track/3LHg768dEKqJKht2uPTlVR) | [Laura Marling](https://open.spotify.com/artist/7B2edU3Q7btJoNsoHCNohM) | [Alas I Cannot Swim](https://open.spotify.com/album/1P3B7c85W4mTXHk0fafGw2) | 2:59 |
-| 72 | [Daniel](https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Two Suns](https://open.spotify.com/album/7cj1dERc5yhFBqtxlRYGSe) | 4:11 |
-| 73 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 |
-| 74 | [Tribulations](https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:59 |
-| 75 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
-| 76 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
+| 72 | [Oh My God](https://open.spotify.com/track/24KqWcpyrY1COcRPYt2ef5) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Employment](https://open.spotify.com/album/6jOas0sYexfB4MDNShABrw) | 3:34 |
+| 73 | [Tribulations](https://open.spotify.com/track/5JOO8UMaEpOfhhatQQsAqm) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [LCD Soundsystem](https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL) | 4:59 |
+| 74 | [Daniel](https://open.spotify.com/track/5VvsZvy1mwx4teyvI7O9rs) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Two Suns](https://open.spotify.com/album/7cj1dERc5yhFBqtxlRYGSe) | 4:11 |
+| 75 | [Hounds of Love](https://open.spotify.com/track/7mAF2MJdbNT75VrVcgwT6F) | [The Futureheads](https://open.spotify.com/artist/3TBfn8PtXr42OrTPaoC3E8) | [The Futureheads \(new version\)](https://open.spotify.com/album/2G9UuU6wxAa4FoIv1rwHBo) | 3:02 |
+| 76 | [Move Your Feet](https://open.spotify.com/track/4jacsL77ZYnpInmTtUBaJW) | [Junior Senior](https://open.spotify.com/artist/7xNPROyVfkH4mcIxxCxySm) | [d\-d\-don't don't stop the beat \(Explicit Content U.S\. Version\)](https://open.spotify.com/album/7xJ6am4jsZw1Bg0S0g0hmI) | 3:01 |
 | 77 | [Blind \- Radio Edit](https://open.spotify.com/track/2acK24b60RQD2zBpW0Zsrw) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Blind](https://open.spotify.com/album/4vdHNQcsvi2eUFjxrEXoig) | 5:45 |
 | 78 | [Nobody Move, Nobody Get Hurt](https://open.spotify.com/track/0iUano4euaiUETVUd1u0cx) | [We Are Scientists](https://open.spotify.com/artist/35YNL4wwv11ZkmeWWL51y7) | [With Love And Squalor](https://open.spotify.com/album/2IQ6OI4Yt3yZtB8j5E2lsa) | 3:12 |
 | 79 | [Date With The Night](https://open.spotify.com/track/0EJHhccadE8UvdZ5wGI1SN) | [Yeah Yeah Yeahs](https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2) | [Fever To Tell \(Deluxe Remastered\)](https://open.spotify.com/album/44ePwTuWK88vnalqutqJEG) | 2:35 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Zach Bryan. The essential tracks, all in one playlist.",
-  "num_followers": 390738,
+  "num_followers": 391306,
   "original_name": "This Is Zach Bryan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDkyZmZjMTA1ZTYwNDFkZWMxNjE5MWEyNTQ1YmNhMmIz",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDM0Y2ViM2VlZTVmZGU3NzUwNThmZjM1ZDI0YmYyMWMw",
   "tracks": [
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+        "name": "Elisabeth",
+        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 243709,
-      "name": "November Air",
-      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
+      "duration_ms": 163531,
+      "name": "Loom",
+      "url": "https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Elisabeth",
-        "url": "https://open.spotify.com/album/3TkSm0esbUBPygKvMrwWQn"
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
         }
       ],
-      "duration_ms": 163531,
-      "name": "Loom",
-      "url": "https://open.spotify.com/track/46dUiDTF3xDchz5lZ3T36s"
+      "duration_ms": 243709,
+      "name": "November Air",
+      "url": "https://open.spotify.com/track/0u9NVrPqUINrHIFCuPOnYm"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
       "duration_ms": 220057,
       "name": "Jamie (feat. Charles Wesley Godwin)",
       "url": "https://open.spotify.com/track/11xeawurZXUDqRPxCasaDt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 197211,
-      "name": "Traveling Man",
-      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
     },
     {
       "added_at": null,
@@ -615,6 +599,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 197211,
+      "name": "Traveling Man",
+      "url": "https://open.spotify.com/track/1cfi4ewXF9ifZ7it025zDK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Summertime Blues",
         "url": "https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA"
       },
@@ -627,22 +627,6 @@
       "duration_ms": 166341,
       "name": "Us Then",
       "url": "https://open.spotify.com/track/6K155OgCAeWxx4Be2kHkym"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 209089,
-      "name": "Let You Down",
-      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
     },
     {
       "added_at": null,
@@ -679,6 +663,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 209089,
+      "name": "Let You Down",
+      "url": "https://open.spotify.com/track/1HMFdKHDiHY0qmqdVH710d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Greatest Day of My Life",
         "url": "https://open.spotify.com/album/6MwqYJ85YSYpDhcJh8kJW7"
       },
@@ -691,22 +691,6 @@
       "duration_ms": 238624,
       "name": "The Greatest Day of My Life",
       "url": "https://open.spotify.com/track/2leovgVrJjIhnm85tKTemI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiet, Heavy Dreams",
-        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 206416,
-      "name": "Birmingham",
-      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
     },
     {
       "added_at": null,
@@ -739,6 +723,22 @@
       "duration_ms": 184500,
       "name": "From a Lover's Point of View",
       "url": "https://open.spotify.com/track/6N7FFwu2DQer3wB7rEmm6u"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quiet, Heavy Dreams",
+        "url": "https://open.spotify.com/album/70KAbDjO08A8nfTLShbraZ"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 206416,
+      "name": "Birmingham",
+      "url": "https://open.spotify.com/track/7DyMTd5uNSi6ioB6z5BGtG"
     },
     {
       "added_at": null,

@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 11284,
+  "2024-04-24": 11287,
   "date_first_scraped": "2022-05-26",
-  "description": "This Is Lou Rawls. Los temas esenciales, todos en una lista.",
+  "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
   "name": "This Is Lou Rawls",
   "tracks": [
     {
@@ -572,6 +572,24 @@
     },
     {
       "album": {
+        "name": "Great Gentlemen Of Song / Spotlight On Lou Rawls",
+        "url": "https://open.spotify.com/album/0ShsS7Pjej9Wc1MRJzgoGX"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262133,
+      "name": "How Long, How Long Blues",
+      "url": "https://open.spotify.com/track/5hTqlBptemLV2heH622E4X"
+    },
+    {
+      "album": {
         "name": "Brotherman!: Lou Rawls Sings His Hits",
         "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
@@ -583,7 +601,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2022-10-06",
+      "date_removed": null,
       "duration_ms": 181826,
       "name": "I Can't Make It Alone",
       "url": "https://open.spotify.com/track/3wMEyUb0sc9CP9Hlw1dyP0"
@@ -1789,7 +1807,7 @@
       ],
       "date_added": "2022-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 120986,
       "name": "Unforgettable - Live",
       "url": "https://open.spotify.com/track/2PtvNwBX1Bbuh7iNxDZJy8"
@@ -1829,7 +1847,7 @@
       ],
       "date_added": "2022-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 256160,
       "name": "We Understand Each Other",
       "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"

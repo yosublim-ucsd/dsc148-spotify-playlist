@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 
 > Canciones de ayer y de hoy grabadas a fuego en el corazón.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,138 likes - 90 songs - 5 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,162 likes - 90 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 13 | [Te Vas](https://open.spotify.com/track/2idbEBZxsGaKM4QxzShgd2) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Te Vas](https://open.spotify.com/album/4SOIv6vtvF8rLywEiQzYmg) | 2:10 |
 | 14 | [Dueña de Mi Alma](https://open.spotify.com/track/4X6W8eU2duqUHmSN1euAHY) | [Campedrinos](https://open.spotify.com/artist/5EQuMf3chH4yv7UPEiVIxx) | [Dueña de Mi Alma](https://open.spotify.com/album/2STMKBpE4k24Q7y1Dk7pfa) | 4:09 |
 | 15 | [Cómplices](https://open.spotify.com/track/6IjYr3ioZO2yDLFsVWPd6A) | [AHYRE](https://open.spotify.com/artist/2IucHN96T0BZ3e4mXe9AgP), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa) | [Cómplices](https://open.spotify.com/album/55QxtsOzQKo2F0g0puf4jM) | 5:20 |
-| 16 | [Cuando Llegue El Alba](https://open.spotify.com/track/3BTDGRUiGAf4aki71sVObH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:02 |
+| 16 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
 | 17 | [Olvida Que Te He Amado](https://open.spotify.com/track/0addwQw947UzHhby2thnGg) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Mi Cantar](https://open.spotify.com/album/2K9taShKqjDEg9ebn4yngX) | 4:19 |
 | 18 | [Zamba del Cantor Enamorado](https://open.spotify.com/track/7Jq2TLAjRAiKZH0EctiAhJ) | [El Chango Nieto](https://open.spotify.com/artist/5z7054rmpJ05mohSsOE0sM) | [Lo Mejor de la Zamba Argentina](https://open.spotify.com/album/0Pp6Z81iR3LT1y88KpX07g) | 3:43 |
 | 19 | [Mi Loco Amor](https://open.spotify.com/track/2IkjSf9VxQAA7uSipkNsOJ) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Mi Loco Amor](https://open.spotify.com/album/6oNvO33sdfOdnE2o2RLP62) | 3:33 |
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 21 | [Eterno Amor](https://open.spotify.com/track/3x4TnooiGvW4itV28CVsV7) | [Los Alonsitos](https://open.spotify.com/artist/1sObDTvhRtaW8yjty7sT7H) | [Eterno Amor](https://open.spotify.com/album/12wekh0j8rkjGbzWejlU1X) | 3:56 |
 | 22 | [Vuela una Lagrima](https://open.spotify.com/track/2qhnJ56sGfxNQuuG3QulPP) | [Los Nocheros](https://open.spotify.com/artist/2ydE5oBt6cwsDxH1TpIFmO), [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Carnaval, Pasión del Norte](https://open.spotify.com/album/0WaV0ZGsHi6ImqIe8OTDvC) | 4:57 |
 | 23 | [Anaranjado \- Mas Allá De La Ternura](https://open.spotify.com/track/6gSV038YhbtaZ5IXPSQpzk) | [Los Changos](https://open.spotify.com/artist/5fQdSkybNhdOYKwLLUWL71) | [Mas Alla De La Ternura](https://open.spotify.com/album/7bDXvo0f6646ayD4xSaeBc) | 4:12 |
-| 24 | [Hoy](https://open.spotify.com/track/5LwjcFrvqLcfa4ONEcDP3o) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [Gira](https://open.spotify.com/album/1VyygGuS90quhVk1uG01SM) | 3:45 |
+| 24 | [Cuando Llegue El Alba](https://open.spotify.com/track/3BTDGRUiGAf4aki71sVObH) | [Los Huayra](https://open.spotify.com/artist/796YUyTCTkXZAZg4CLUoWl) | [La Voz Del Viento](https://open.spotify.com/album/0fbAh4EhR85ddKTzO7vS8a) | 4:02 |
 | 25 | [Si Pudiera](https://open.spotify.com/track/2S9oyHCvXTaaIFm2dkpwge) | [Sele Vera y Pampas de Bariloche](https://open.spotify.com/artist/4HV6BIPvbEwBgQT3y7yGOM) | [Si Pudiera](https://open.spotify.com/album/1wMLkuAbaKSaqZr11xG32C) | 2:53 |
 | 26 | [Te Pido En Agosto](https://open.spotify.com/track/39EGOt9hySCsyT0Bamt8v2) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6), [Luciano Pereyra](https://open.spotify.com/artist/6ZZ2DeepA3GpoGU4KwqSlU) | [PACHAKUTI](https://open.spotify.com/album/5vSZkx2vIdCNH0IVndOHpi) | 3:36 |
 | 27 | [El Punto Final](https://open.spotify.com/track/4YBxqpFfiPYkBUWEmupg7b) | [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [El Punto Final](https://open.spotify.com/album/1hfe0fdFG8n6sj6WOYOvcF) | 3:33 |
@@ -60,8 +60,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRhcVioua5c.md) - [plain]
 | 50 | [Tal Como Siento](https://open.spotify.com/track/1ubO0IhgfyLLsiLilCYryr) | [Soledad](https://open.spotify.com/artist/0K59Fm1y7s3j498ueS4qzY) | [Tal Como Siento](https://open.spotify.com/album/4RD7YJolJUp5VbNYGtawfn) | 4:00 |
 | 51 | [Luna Llena](https://open.spotify.com/track/27682VM2spSTjaneKmvNjk) | [Juan Fuentes](https://open.spotify.com/artist/3sTzey9Yo1tfeSQD0PIYRF) | [Luna Llena](https://open.spotify.com/album/3qNKPQP0exJIApWPz1SzWR) | 3:07 |
 | 52 | [Nada](https://open.spotify.com/track/3MZj5HNiSCfcBE4fMRiSpX) | [Los del Portezuelo](https://open.spotify.com/artist/2803Kpv7qVYIAyKWfl2RNc) | [Nada](https://open.spotify.com/album/0vfHVUcxFuIesJnzwubbbB) | 3:33 |
-| 53 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
-| 54 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
+| 53 | [Zambita pa' Enamorar](https://open.spotify.com/track/6TVKi26ExwcSdv7NhAi8Iq) | [Franco Ramirez](https://open.spotify.com/artist/3wtmjgdgUKVK3tonnKSh9a) | [De Barrio](https://open.spotify.com/album/6hm9pBwn4NXDV29seneaJ7) | 3:12 |
+| 54 | [Ojos de Cielo](https://open.spotify.com/track/0Y0Odb0Fhy6NU2Fj0mRgBn) | [Yanet Mayoral](https://open.spotify.com/artist/1V9GLyhNrUws44RjOZ3eLO) | [Ojos de Cielo](https://open.spotify.com/album/1NT5OYNcowSUQFdypTjtmA) | 2:49 |
 | 55 | [Entrega de Amor](https://open.spotify.com/track/3kogL0GmyIz6TjX9ZQ3uqf) | [Efrain Colombo](https://open.spotify.com/artist/32778N5Y2svyyJGp8HwxBY), [Jorge Rojas](https://open.spotify.com/artist/45SolwUehJs6vFkuAfqMf6) | [Entrega de Amor](https://open.spotify.com/album/2LbaW1WZijr0QOrBIQtVSq) | 3:05 |
 | 56 | [Quédate](https://open.spotify.com/track/2MTuRel1Cm6ecWOyiN2hQ7) | [Los Tekis](https://open.spotify.com/artist/0iutktJLkNNtErs8c3EoF6) | [Quedate](https://open.spotify.com/album/3bzGBcnH8VDRCM0gyq4rrT) | 4:27 |
 | 57 | [Tonada del Viejo Amor](https://open.spotify.com/track/3XXTR1PxuCslxeQCpRHpmW) | [Eduardo Falú](https://open.spotify.com/artist/3GmAEo2lOqrVb7BrHvUS5M), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [El Sueño de Mi Guitarra](https://open.spotify.com/album/0ngbYyZKSgybDqyaWtOGOR) | 4:01 |

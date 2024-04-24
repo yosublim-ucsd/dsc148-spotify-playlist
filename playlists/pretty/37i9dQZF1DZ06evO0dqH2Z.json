@@ -1,12 +1,12 @@
 {
   "description": "This is Tigers Jaw. The essential tracks, all in one playlist.",
-  "num_followers": 3660,
+  "num_followers": 3661,
   "original_name": "This Is Tigers Jaw",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDYxMDAwMGZhNjNlZDZiMTkwYTZjYjMyNzU1ODZkMjg3",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDMzMjQzNWYwZTU0MGYxNGIxZjlmNzA2NDQ5YjRiOTE2",
   "tracks": [
     {
       "added_at": null,
@@ -676,7 +676,7 @@
       "added_at": null,
       "album": {
         "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
+        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
       },
       "artists": [
         {
@@ -684,9 +684,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 148733,
-      "name": "Two Worlds",
-      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
+      "duration_ms": 112946,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe"
     },
     {
       "added_at": null,
@@ -724,7 +724,7 @@
       "added_at": null,
       "album": {
         "name": "Two Worlds",
-        "url": "https://open.spotify.com/album/7ogk8xz4DoKUcVOT3KbbwP"
+        "url": "https://open.spotify.com/album/6QwYOgquTNb9e3pJklcmqn"
       },
       "artists": [
         {
@@ -732,9 +732,9 @@
           "url": "https://open.spotify.com/artist/0tLaqkKW7K6tc3QF9SM0M8"
         }
       ],
-      "duration_ms": 112946,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3T634xUoZHDer4u5nZCzfe"
+      "duration_ms": 148733,
+      "name": "Two Worlds",
+      "url": "https://open.spotify.com/track/36Xh8ttDu0NOUvTQ4KhjpT"
     },
     {
       "added_at": null,

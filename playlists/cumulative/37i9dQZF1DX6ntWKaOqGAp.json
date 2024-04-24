@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-14",
-  "description": "The biggest Japanese rock hits right now.  Cover: Saucy Dog \u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
+  "description": "The biggest Japanese rock hits right now.  Cover: go!go!vanillas \u65e5\u672c\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u306e\u6700\u65b0\u8a71\u984c\u66f2\u3092\u3072\u3068\u3064\u306e\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u306b\u3002",
   "name": "J-Rock ON!!",
   "tracks": [
     {
@@ -1178,6 +1178,24 @@
       "duration_ms": 191733,
       "name": "baby blue eyes",
       "url": "https://open.spotify.com/track/1ZH8xfse7AimYhri5u29ew"
+    },
+    {
+      "album": {
+        "name": "BACKLIT",
+        "url": "https://open.spotify.com/album/2HlQg1rXbnX9NF3v98cXLJ"
+      },
+      "artists": [
+        {
+          "name": "mol-74",
+          "url": "https://open.spotify.com/artist/7sVShwPweG5PNLgVPdWlbx"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161962,
+      "name": "BACKLIT",
+      "url": "https://open.spotify.com/track/0IkVJdTAr7EIyZAbHzyCdU"
     },
     {
       "album": {
@@ -6104,7 +6122,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 115705,
       "name": "k.r.k.r.",
       "url": "https://open.spotify.com/track/0A4xGe5noApa54rAewO7Hw"
@@ -8523,6 +8541,24 @@
     },
     {
       "album": {
+        "name": "New York, New York",
+        "url": "https://open.spotify.com/album/1TSfQqnrUoK7xv73yoXLHw"
+      },
+      "artists": [
+        {
+          "name": "I Don't Like Mondays.",
+          "url": "https://open.spotify.com/artist/2DKISYy7EvTDO7eJHBK6yF"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213850,
+      "name": "New York, New York",
+      "url": "https://open.spotify.com/track/3Qqo0xwfoe091yG3XDy9qt"
+    },
+    {
+      "album": {
         "name": "Nichijo",
         "url": "https://open.spotify.com/album/0KOyJBfietC8GvIOWIGVze"
       },
@@ -8966,7 +9002,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 225573,
       "name": "OK\u30ef\u30fc\u30c9",
       "url": "https://open.spotify.com/track/6wgpQueVkOyM1glLdtJkwE"
@@ -9930,6 +9966,24 @@
       "duration_ms": 225675,
       "name": "Reach Out",
       "url": "https://open.spotify.com/track/5ozd2TezfmXoIFgZq7KvdW"
+    },
+    {
+      "album": {
+        "name": "Record Dogs",
+        "url": "https://open.spotify.com/album/5bwnn9spG9n2BR9Y6xpOyZ"
+      },
+      "artists": [
+        {
+          "name": "Maki",
+          "url": "https://open.spotify.com/artist/6UW7Pcu9boprqMAXaePWZA"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200156,
+      "name": "Record Dogs",
+      "url": "https://open.spotify.com/track/22BJYbV3ldjwzgKnnHu3l2"
     },
     {
       "album": {
@@ -10948,7 +11002,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 239970,
       "name": "SHAKE",
       "url": "https://open.spotify.com/track/6306c6Uash8OObSz2fWQqZ"
@@ -11885,6 +11939,24 @@
     },
     {
       "album": {
+        "name": "POPCORN",
+        "url": "https://open.spotify.com/album/0bFMParGQWnD6IpXuhcojP"
+      },
+      "artists": [
+        {
+          "name": "THE BAWDIES",
+          "url": "https://open.spotify.com/artist/2zrpw0rjWCFEMb8MVhug5F"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220333,
+      "name": "SUGAR PUFF",
+      "url": "https://open.spotify.com/track/080GUsiGyP1nko9hZ5SNv2"
+    },
+    {
+      "album": {
         "name": "SUGAR PUFF",
         "url": "https://open.spotify.com/album/4L0eMH0yk0kCigoM7ChwJU"
       },
@@ -11914,7 +11986,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 220333,
       "name": "SUGAR PUFF",
       "url": "https://open.spotify.com/track/3lcAj13cDKhbRKyvS4mivz"
@@ -12148,7 +12220,7 @@
       ],
       "date_added": "2023-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 321103,
       "name": "Sweet sweet candy time",
       "url": "https://open.spotify.com/track/7KIYIwWDNssdv7tsw90Z8V"
@@ -14875,6 +14947,24 @@
     },
     {
       "album": {
+        "name": "\u305d\u3046\u3044\u3046\u597d\u304d",
+        "url": "https://open.spotify.com/album/2JVzO9ckRmdpfRWRN7Rkri"
+      },
+      "artists": [
+        {
+          "name": "wacci",
+          "url": "https://open.spotify.com/artist/7jCHrVGjeHUYP2pHv8FOJ3"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267400,
+      "name": "\u305d\u3046\u3044\u3046\u597d\u304d",
+      "url": "https://open.spotify.com/track/6L9sCPyFMlxFa90GjwgWvk"
+    },
+    {
+      "album": {
         "name": "\u305d\u306e\u4ed6\u5927\u52e2",
         "url": "https://open.spotify.com/album/5TgFCGghZFdgWgVB0wymxK"
       },
@@ -15380,6 +15470,24 @@
       "duration_ms": 250106,
       "name": "\u3078\u3063\u307d\u3053\u8056\u5263\u58eb",
       "url": "https://open.spotify.com/track/49iGgcordCDcak4qyUs1q7"
+    },
+    {
+      "album": {
+        "name": "\u7570(\u4e0b)",
+        "url": "https://open.spotify.com/album/0Ou9qjo6yH1wNDZOFQFFYM"
+      },
+      "artists": [
+        {
+          "name": "domico",
+          "url": "https://open.spotify.com/artist/0CQuAKiUYqH0OK020E3miJ"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99933,
+      "name": "\u307e\u3044\u3089\u3089\u3070\u3044",
+      "url": "https://open.spotify.com/track/7acjNMn09KKwo2LUtFgKMC"
     },
     {
       "album": {
@@ -16500,7 +16608,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 220211,
       "name": "\u30ad\u30e3\u30f3\u30c9\u30eb\u30bd\u30f3\u30b0",
       "url": "https://open.spotify.com/track/7ojsb0V4rZhcYuKD1grOPI"
@@ -19918,7 +20026,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 206933,
       "name": "\u30e9\u30f4\u306e\u5143\u578b",
       "url": "https://open.spotify.com/track/5AOoLf1lxCLcbMDsv0du8c"
@@ -20246,7 +20354,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 196017,
       "name": "\u4e00\u559c\u4e00\u6182",
       "url": "https://open.spotify.com/track/7aAqYiDzc8zl3GhU2WFJuG"
@@ -22283,6 +22391,24 @@
     },
     {
       "album": {
+        "name": "\u5e73\u5b89",
+        "url": "https://open.spotify.com/album/3uuNRFtMmxz5Z1yuKb2XZw"
+      },
+      "artists": [
+        {
+          "name": "go!go!vanillas",
+          "url": "https://open.spotify.com/artist/0aqPTOZlKG6ltJHv7BNlsm"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "\u5e73\u5b89",
+      "url": "https://open.spotify.com/track/4OpE0RXET72v9D2oLRDIbw"
+    },
+    {
+      "album": {
         "name": "\u5e78\u305b",
         "url": "https://open.spotify.com/album/7EDKJ08ds5T3C7aJZZs6OV"
       },
@@ -23256,7 +23382,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 157000,
       "name": "\u6625\u306e\u30c1\u30e3\u30f3\u30b9",
       "url": "https://open.spotify.com/track/7gEQDvsI4oXnUFbFgfAsdP"
@@ -23390,6 +23516,24 @@
       "duration_ms": 270705,
       "name": "\u6674\u308b",
       "url": "https://open.spotify.com/track/5eY7692tmgHB9dbmq6wa2M"
+    },
+    {
+      "album": {
+        "name": "\u6674\u308c\u305f\u3089\u3044\u3044\u306a",
+        "url": "https://open.spotify.com/album/1GEuw5jBAhDRr5gneWgmMt"
+      },
+      "artists": [
+        {
+          "name": "Mr.FanTastiC",
+          "url": "https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187429,
+      "name": "\u6674\u308c\u305f\u3089\u3044\u3044\u306a",
+      "url": "https://open.spotify.com/track/27Y5d6jOpCaXcJIUapMvk2"
     },
     {
       "album": {
@@ -25858,6 +26002,24 @@
       "duration_ms": 195293,
       "name": "\u9234\u3005",
       "url": "https://open.spotify.com/track/6IfLdaA77asZvofXazYibP"
+    },
+    {
+      "album": {
+        "name": "\u9583\u5149\u914d\u4fe1",
+        "url": "https://open.spotify.com/album/1a39oxRKgYRZ4A3iE78OqL"
+      },
+      "artists": [
+        {
+          "name": "Bye-Bye-Hand\u306e\u65b9\u7a0b\u5f0f",
+          "url": "https://open.spotify.com/artist/6IIf2Pbh4lI8Jz7MvknzIf"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137773,
+      "name": "\u9583\u5149\u914d\u4fe1",
+      "url": "https://open.spotify.com/track/3agn9FdMlV6Ecl2MOsTl5U"
     },
     {
       "album": {

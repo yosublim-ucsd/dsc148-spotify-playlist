@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6ZGCSS2mWfQa1SXZ83hZIO">KAYTRANADA</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,564 likes - 135 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,562 likes - 135 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 28 | [Twin Flame](https://open.spotify.com/track/15cYjzRUBRrDHn76GdxWiv) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Twin Flame](https://open.spotify.com/album/1SzuRFxlqSZTIWUEE587Oy) | 3:52 |
 | 29 | [Communicate](https://open.spotify.com/track/5PqVcm1TdqsjXkShVVV7UY) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx), [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [The Healing Component](https://open.spotify.com/album/2IjEb3Ob7GHEpLwSgaWJiX) | 3:57 |
 | 30 | [Sossaup](https://open.spotify.com/track/6y5UMIVVJDsULZwfZ0bNRX) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 2:36 |
-| 31 | [TRACK UNO](https://open.spotify.com/track/2yuRPuX2qOUDaBlbZDSZl9) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 5:44 |
-| 32 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
+| 31 | [Can’t Punk Me \(feat\. EARTHGANG\)](https://open.spotify.com/track/2H2l7zo9EqtqxFr8R8N8Zg) | [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V) | [The Forever Story \(Extended Version\)](https://open.spotify.com/album/4rJDCELWL0fjdmN9Gn4f4g) | 3:23 |
+| 32 | [TRACK UNO](https://open.spotify.com/track/2yuRPuX2qOUDaBlbZDSZl9) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 5:44 |
 | 33 | [LEAVE ME ALONE \(feat\. Shay Lia\)](https://open.spotify.com/track/44dOBMeJCASW2TfKraoGnl) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Shay Lia](https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 4:37 |
 | 34 | [ONE TOO MANY](https://open.spotify.com/track/11jR36qzNpUnQ2YbMrru1p) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Phonte](https://open.spotify.com/artist/5SyCTZ8X8YQCI0J1VRp4iC) | [99.9%](https://open.spotify.com/album/6JD4Qerb8IcaAzFgpFw0sa) | 3:38 |
 | 35 | [Freefall \(feat\. Durand Bernarr\)](https://open.spotify.com/track/2flqiTbuPeDZXxgEW67rxw) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:01 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 43 | [Your Time \(feat\. KAYTRANADA\)](https://open.spotify.com/track/7JzXmXuqPRJNClCdOAE1Ah) | [Nick Murphy](https://open.spotify.com/artist/2Q0MyH5YMI5HPQjFjlq5g3), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Missing Link](https://open.spotify.com/album/6GxbfAJrMfFhMNjuAYJ7Z0) | 4:04 |
 | 44 | [Taste \(feat\. VanJess\)](https://open.spotify.com/track/0BrNxl46Vnt1Ln8jVJFktl) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 3:37 |
 | 45 | [Come Inside \(Kaytranada Edit\)](https://open.spotify.com/track/7vE5BCq8NB9aOrCo8IVhw6) | [Lou Phelps](https://open.spotify.com/artist/74EhQOxqIuZSj1wsMLQabN), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Jazz Cartier](https://open.spotify.com/artist/0sc5zYshOdiFD4ayqMrJbJ) | [002 / LOVE ME](https://open.spotify.com/album/5leZNrFKUULuMcQjhlA2Kj) | 4:26 |
-| 46 | [DESPITE THE WEATHER](https://open.spotify.com/track/4kQT1Ep2CUYOHnve4G3hWA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 2:01 |
-| 47 | [Honeymoon](https://open.spotify.com/track/350Chcil9fuAh7OpxwYLi5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:04 |
+| 46 | [Honeymoon](https://open.spotify.com/track/350Chcil9fuAh7OpxwYLi5) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [Love Sick](https://open.spotify.com/album/26z5llzd194mcCZHADWd6k) | 3:04 |
+| 47 | [DESPITE THE WEATHER](https://open.spotify.com/track/4kQT1Ep2CUYOHnve4G3hWA) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [99.9%](https://open.spotify.com/album/3XmoA9zwTpg4VZJCcOGkNZ) | 2:01 |
 | 48 | [Iced Tea](https://open.spotify.com/track/6kmXHLDDK7RQXTjHooTCzH) | [Joyce Wrice](https://open.spotify.com/artist/24Cf1irKt7kcewb9OOkPum), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [Iced Tea](https://open.spotify.com/album/56Z5er1cgYmXDuG49B953d) | 3:25 |
 | 49 | [Your Love](https://open.spotify.com/track/3ETuqR9uCVMAlqdNk6dhB3) | [Mick Jenkins](https://open.spotify.com/artist/1FvjvACFvko2Z91IvDljrx) | [Wave\[s\]](https://open.spotify.com/album/5yXvXFTwuqoAHFuPeliqvZ) | 3:14 |
 | 50 | [Culture \(feat\. Teedra Moses\)](https://open.spotify.com/track/23zOqixUia8E5BVMYHXL0c) | [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu), [Teedra Moses](https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE) | [BUBBA](https://open.spotify.com/album/5FQ4sOGqRWUA5wO20AwPcO) | 4:08 |
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCJRVvilN81F.md) - [plain]
 | 134 | [Hold Tight](https://open.spotify.com/track/0pne7H1f67nyV7uPasAatn) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 3:28 |
 | 135 | [Undercover](https://open.spotify.com/track/5dUW0FWt3OO052bu7oczo9) | [AMAKA](https://open.spotify.com/artist/37BQKlogkKqPt9nioMBLOa) | [OASIS](https://open.spotify.com/album/3v8y0QkA77jNoEzDTNUTDH) | 4:07 |
 
-Snapshot ID: `Mjg1NjQwMjQsMDAwMDAwMDBkMzYyOWM2OGQ4NTNjMjI2OTQyYTA1MzcwODFhNTFmNw==`
+Snapshot ID: `Mjg1NjYzNjQsMDAwMDAwMDAxNTdkNzQ3OTVmMjg5NzEwMzFhMjhlMzA1Mjk2ODZkYg==`

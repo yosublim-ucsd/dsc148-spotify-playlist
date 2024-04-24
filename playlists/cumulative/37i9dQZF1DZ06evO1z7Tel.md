@@ -2,7 +2,7 @@
 
 ### [This Is Carlos Y Jose](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1z7Tel)
 
-> This is Carlos Y Jose\. The essential tracks, all in one playlist.
+> This Is Carlos Y Jose\. Los temas esenciales, todos en una lista.
 
 84 songs - 4 hr 10 min
 
@@ -27,9 +27,9 @@
 | [Dados Cargados](https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [15 Éxitos De \(Vol\. 2\)](https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW) | 2:40 | 2022-08-13 |  |
 | [Dados Cargados](https://open.spotify.com/track/2V9lolR3rDL9wf1961MDMt) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Coleccion Superma Plus\- Carlos Y Jose](https://open.spotify.com/album/2K2mjjkSyQp0Ote1B3aCaY) | 2:43 | 2022-06-01 | 2022-08-14 |
 | [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/3jT3Rt7yQvoi2xVkJS9h7V) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/3U8v9XcvNZr51ivvRwnJtX) | 2:37 | 2022-06-01 | 2023-11-11 |
-| [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 2:37 | 2023-11-10 | 2024-04-23 |
+| [De Esta Sierra a la Otra Sierra](https://open.spotify.com/track/4Ka9s1TF4VVTATe9TufX87) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [20 Exitos de Coleccion](https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi) | 2:37 | 2023-11-10 |  |
 | [Dos Cruces En La Curva](https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Patrulla 05 Corridos Con](https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq) | 3:47 | 2022-06-02 |  |
-| [Dos Seres Que Se Aman](https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Busca Otro Amor](https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO) | 2:44 | 2024-04-23 |  |
+| [Dos Seres Que Se Aman](https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Busca Otro Amor](https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO) | 2:44 | 2024-04-23 | 2024-04-24 |
 | [El Arbol De La Horca](https://open.spotify.com/track/6Unaw76VUQCRt5xSEDGqKQ) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [Los Monstruos Del Corrido](https://open.spotify.com/album/1PQZACqo58aGGs0ni2Xpcc) | 3:19 | 2022-06-02 | 2022-08-25 |
 | [El Capitan Fantasma](https://open.spotify.com/track/11OvGYqYhmq0bZ7UAysOKw) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:35 | 2022-06-01 |  |
 | [El Chubasco](https://open.spotify.com/track/0ESzwDSlzdKpaJ6CkyAe5x) | [Carlos Y Jose](https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb) | [El Chubasco](https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh) | 3:08 | 2022-06-01 | 2022-10-29 |

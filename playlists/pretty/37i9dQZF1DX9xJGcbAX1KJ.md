@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 
 > Go ahead, lounge a little longer with a fun mix of your favorite covers...
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,335 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,338 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,16 +39,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 29 | [Crazy in Love](https://open.spotify.com/track/6m0qBDIhzICOwWMPZdgyVK) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Crazy in Love](https://open.spotify.com/album/3WtUVBD7BEAfA9NjG6LnBk) | 3:47 |
 | 30 | [Chasing Cars](https://open.spotify.com/track/5qCAMmVToq2m3snrMX9mKO) | [The Wind and The Wave](https://open.spotify.com/artist/5GMZzcgmUwopsHBB7TyCsy) | [Chasing Cars](https://open.spotify.com/album/3fH0zVDwnb05Uw4XYHacSj) | 4:28 |
 | 31 | [Don't Dream It's Over \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/4PFnROqBlAVnizUrhF1x7C) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Spotify Singles](https://open.spotify.com/album/7txW0oEFE7Cxj1OPROdRvq) | 4:33 |
-| 32 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
-| 33 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 |
+| 32 | [Halo](https://open.spotify.com/track/5mVDhLnXTHlBWJnMHXa9Qs) | [Lotte Kestner](https://open.spotify.com/artist/0LmmhAkoebSsbFfgCybcGI) | [The Bluebird of Happiness](https://open.spotify.com/album/4WnodV9BrrFECJxQo56FrX) | 4:29 |
+| 33 | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/track/6TqDrmjUDqQo4JiF1apQnL) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5), [Keelan Donovan](https://open.spotify.com/artist/4dOtX7sKkyguhRj1Gkvvl7) | [Summertime Sadness \(Acoustic Cover\) feat\. Keelan Donovan](https://open.spotify.com/album/0NXkGd9M9rDxCHTGVvzC66) | 3:51 |
 | 34 | [Hurt](https://open.spotify.com/track/5rpRzNcJZqKQXk9PIjreB6) | [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Unearthed](https://open.spotify.com/album/5xeMctXQWNmMq4aAjwuR3e) | 3:36 |
 | 35 | [Girls Just Wanna Have Fun \- Acoustic](https://open.spotify.com/track/7rohDMzsbmSmol7sIZs0Px) | [The Mayries](https://open.spotify.com/artist/38SWPOPO1YqxUPnT4AAoID) | [Girls Just Wanna Have Fun](https://open.spotify.com/album/1WJCyViZxB0GWgvZicSxKY) | 2:52 |
-| 36 | [I'm On Fire](https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Heroes & Heretics](https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe) | 3:33 |
-| 37 | [Ordinary World](https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Ordinary World](https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp) | 5:14 |
+| 36 | [Ordinary World](https://open.spotify.com/track/1Rzv9hwuNO1H7N947tD1e8) | [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa) | [Ordinary World](https://open.spotify.com/album/0yN19KuHWWvVMcaC7ygfIp) | 5:14 |
+| 37 | [I'm On Fire](https://open.spotify.com/track/3xSdEH8yjB0hiCcj9CG0xR) | [Town Mountain](https://open.spotify.com/artist/5cudslRGWg0GsXaN79Wifs) | [Heroes & Heretics](https://open.spotify.com/album/3hqfZkAkGENyOubiN2wDJe) | 3:33 |
 | 38 | [Losing My Religion \(Cover\)](https://open.spotify.com/track/1wJNpWv8GbyEVAxoxlf3gT) | [Passenger](https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66) | [Sunday Night Sessions](https://open.spotify.com/album/2G0bWocjlwYUOkO57TwrIs) | 4:43 |
 | 39 | [Wildflowers](https://open.spotify.com/track/1VJ4tttfxHq0Eu5x2nTCvx) | [Trampled by Turtles](https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4) | [Wildflowers](https://open.spotify.com/album/0hJydfH36mKREO2dkuuLGs) | 2:48 |
-| 40 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 |
-| 41 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 |
+| 40 | [Hey Ya \- solo version](https://open.spotify.com/track/6QeLUyIfNHCJhEMSPGwDgi) | [Obadiah Parker](https://open.spotify.com/artist/3Kji8hBU9Tqea6pAWRwagQ) | [The Tip Jar Volume One](https://open.spotify.com/album/75YvythgsopCVDoPR4R1Lx) | 4:58 |
+| 41 | [Just Breathe \(feat\. Lukas Nelson\)](https://open.spotify.com/track/3rIgqH7rTzpB7Gtvo6oDsA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9) | [Heroes](https://open.spotify.com/album/4pwOr5WCJyqrFxwYLFB2nT) | 4:02 |
 | 42 | [Despacito](https://open.spotify.com/track/4vxA3aI7l73i0Hi819OQhH) | [Madilyn Bailey](https://open.spotify.com/artist/0NxhAEPOSeCg6vypFr7yjU), [Leroy Sanchez](https://open.spotify.com/artist/1qwVM2JnEMXbKgvZESGsRn) | [Despacito](https://open.spotify.com/album/0B75OuY7kuQXfz7qF5r2l3) | 2:50 |
 | 43 | [Limit To Your Love](https://open.spotify.com/track/33BnSMHgX0AsbKSIbkuMwh) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [James Blake](https://open.spotify.com/album/0qY6lBQSi8IMJjHYDPdAqX) | 4:36 |
 | 44 | [Everybody Hurts \- MTV Unplugged Live Version](https://open.spotify.com/track/3HHTF12zYLGtLsZbBaLMhk) | [The Corrs](https://open.spotify.com/artist/1VbWUxZTRNY2gw3qZ1tg9W) | [The Corrs Unplugged](https://open.spotify.com/album/68QpU7XGT0RIX4NNkPLXzx) | 5:49 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9xJGcbAX1KJ.md) - [plain]
 | 47 | [Mad World \- Recorded at Metropolis Studios, London](https://open.spotify.com/track/1B8C0h5Y8MRvzK7j17BODg) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Spotify Singles](https://open.spotify.com/album/3SkXoYr84jE1JzWxc0yXcJ) | 2:53 |
 | 48 | [See You Again, Love Me Like You Do, Sugar \- Acoustic Mashup](https://open.spotify.com/track/29Ns3avs48iQhNQgrHMEkm) | [Megan Davies](https://open.spotify.com/artist/09kCHZp9iFO2FJNb9lR6G5) | [See You Again, Love Me Like You Do, Sugar \(Acoustic Mashup\)](https://open.spotify.com/album/598yk60jws90rsCDHU4lkl) | 3:51 |
 | 49 | [Tim McGraw \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/5sn1BmEOPP1bu4cZq9OgoF) | [Maggie Rogers](https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe) | [Spotify Singles](https://open.spotify.com/album/5lLa32kU65Y7mhYLMiEcXn) | 4:10 |
-| 50 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
+| 50 | [City of Stars](https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj) | [Gavin James](https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE) | [City of Stars](https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU) | 2:34 |
 
 Snapshot ID: `MTcwNjU2NzU1NiwwMDAwMDAwMDExYWMyNWNjZDY2Nzk4NDNiMmE4Yjg3ZWIwMGUxOGVl`

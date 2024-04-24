@@ -1,12 +1,12 @@
 {
-  "description": "This is Fernanda Brum. The essential tracks, all in one playlist.",
-  "num_followers": 70897,
+  "description": "This is Fernanda Brum. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 70849,
   "original_name": "This Is Fernanda Brum",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDFmZDY3M2RiNWE0NGE4Y2FiZGE5YmU4OThiYWE1Yzhk",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDIxMDViYzQ2YmY0ZmQwN2RkNjBkZjk5ZTkzY2Q0Zjlj",
   "tracks": [
     {
       "added_at": null,
@@ -307,6 +307,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Amor Que Cura (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "duration_ms": 261999,
+      "name": "O Amor Que Cura - Ao Vivo",
+      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Apenas um Toque",
         "url": "https://open.spotify.com/album/2a9dxd5z61o4if1fI16vel"
       },
@@ -335,22 +351,6 @@
       "duration_ms": 212137,
       "name": "Aos Teus P\u00e9s",
       "url": "https://open.spotify.com/track/0QwjKbaLcj9CgLBGMbkKa3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Amor Que Cura (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3XTXGvthPvk7uBuxQi2SyB"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        }
-      ],
-      "duration_ms": 261999,
-      "name": "O Amor Que Cura - Ao Vivo",
-      "url": "https://open.spotify.com/track/5b47ZWRCXkysAs2sK2bkrG"
     },
     {
       "added_at": null,

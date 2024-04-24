@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 
 > Jazzy love songs\. Cover: Lady Gaga & Tony Bennett
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,218,127 likes - 100 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,217,708 likes - 100 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTbzY5gOVvKd.md) - [plain]
 | 40 | [At Last](https://open.spotify.com/track/1wzJczNkW2BJc1QgYapAMX) | [Malene Mortensen](https://open.spotify.com/artist/6K6MsblQYdl29dlOgCKul2) | [Date With A Dream](https://open.spotify.com/album/3EXXFkUIEiElEPgxDlA2TO) | 4:12 |
 | 41 | [Keep Me From The Cold](https://open.spotify.com/track/7nTc8LOMcVoYJAbhV9dD2z) | [Curtis Stigers](https://open.spotify.com/artist/2bNtosg6E8tvmN6wYxPCfu) | [Keep Me From The Cold](https://open.spotify.com/album/4Y9uQddBrMS2hj3r2kXHOv) | 4:43 |
 | 42 | [Wild Is The Wind](https://open.spotify.com/track/5vPHV6iJIotTSqzjf45C3T) | [Kari Kirkland](https://open.spotify.com/artist/7Jeb6sMs1pOvVXeugcoNeU) | [Wild Is The Wind](https://open.spotify.com/album/1MpomkUbmIFOp5vRn9AEMp) | 5:43 |
-| 43 | [Autumn In New York \(feat\. Chris Potter, Bill Cunliffe & Vinnie Colaiuta\)](https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC) | [Andy James](https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [An Evening with/ Andy James & John Patitucci](https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl) | 4:23 |
-| 44 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
+| 43 | [Moonlight Becomes You](https://open.spotify.com/track/0p5hnLhOSlRpn8BMYEed4Q) | [Barry Manilow](https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX) | [Night Songs II](https://open.spotify.com/album/1X7eqeVcBMjmPvvUHFb7kV) | 3:27 |
+| 44 | [Autumn In New York \(feat\. Chris Potter, Bill Cunliffe & Vinnie Colaiuta\)](https://open.spotify.com/track/6DwflQH9R5Y4hpJrGPeNsC) | [Andy James](https://open.spotify.com/artist/1MXvoR1huidjc1GRRcAs1F), [John Patitucci](https://open.spotify.com/artist/4KmKbbEq6PMnW2TdkrbBIH), [Chris Potter](https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB), [Bill Cunliffe](https://open.spotify.com/artist/2FfWqpDJg7emSdQljKfwHM), [Vinnie Colaiuta](https://open.spotify.com/artist/3JE0rhvpwUB5mK2OgUnWlO) | [An Evening with/ Andy James & John Patitucci](https://open.spotify.com/album/3wmErkWqIMYJiQhplNUPhl) | 4:23 |
 | 45 | [Monday](https://open.spotify.com/track/4FYmHTavxSVFUPyM2GUpPb) | [Cécile McLorin Salvant](https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn) | [For One to Love](https://open.spotify.com/album/7HPMR4vGuzd6vnGS4H3ppu) | 2:01 |
 | 46 | [Time Alone](https://open.spotify.com/track/7Jt9DpsKlKRcR3RI9qUl9w) | [Eliane Elias](https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR) | [Dreamer](https://open.spotify.com/album/2zQNS2IJZzWHQEotUVREXY) | 6:36 |
 | 47 | [All The Things You Are](https://open.spotify.com/track/7dW9KIZvcQJnjQb3vy5Q6i) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [Bill Charlap](https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg) | [The Silver Lining \- The Songs of Jerome Kern](https://open.spotify.com/album/6HT89sSe135gyyxJhaLs2m) | 4:37 |

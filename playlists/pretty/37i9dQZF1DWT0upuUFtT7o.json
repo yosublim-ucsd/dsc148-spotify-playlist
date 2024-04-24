@@ -1,13 +1,141 @@
 {
-  "description": "The best new indie tracks from independent artists & labels. Cover: Slow Pulp performing at Fresh Finds Chicago March, 2024",
-  "num_followers": 215226,
+  "description": "The best new indie tracks from independent artists & labels. Cover: Ugly (UK)",
+  "num_followers": 215388,
   "original_name": "Fresh Finds Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzMyNjQwMCwwMDAwMDAwMDRiNTk0ZmFmNGI3M2ZlMGMyMTE2ZDYwZDQ3MjZkZThm",
+  "snapshot_id": "MTcxMzk3MzUxOSwwMDAwMDAwMDVkZjAzYzhkYTVhYjZjMGMyYjVkYjQ1ODc1OWQyOTMz",
   "tracks": [
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "spiderman",
+        "url": "https://open.spotify.com/album/4SaeXlHe7uTbg6wPxOq79v"
+      },
+      "artists": [
+        {
+          "name": "Haley Bridge",
+          "url": "https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos"
+        }
+      ],
+      "duration_ms": 175182,
+      "name": "spiderman",
+      "url": "https://open.spotify.com/track/4egsNbOOKxuyfXgmMzhOJ0"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "bashment jam",
+        "url": "https://open.spotify.com/album/4DIREjnlgH2eROT4nKpCjv"
+      },
+      "artists": [
+        {
+          "name": "Cosmo's Demos",
+          "url": "https://open.spotify.com/artist/5fi1Z5nm2ioK3KTj7SS0VU"
+        }
+      ],
+      "duration_ms": 178295,
+      "name": "bashment jam",
+      "url": "https://open.spotify.com/track/4jPk4dKVKUlqAn54FaJgvw"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Twice Around The Sun",
+        "url": "https://open.spotify.com/album/3wzMjiyIQ2zDv3suwSHxpp"
+      },
+      "artists": [
+        {
+          "name": "Ugly (UK)",
+          "url": "https://open.spotify.com/artist/5V1vRp27m0PLepQehI2tnf"
+        }
+      ],
+      "duration_ms": 408950,
+      "name": "Icy Windy Sky",
+      "url": "https://open.spotify.com/track/66U7274Oapr417BNqeQLoS"
+    },
+    {
+      "added_at": "2024-04-24 15:45:19",
+      "album": {
+        "name": "fair",
+        "url": "https://open.spotify.com/album/6DiW98ZoKsnnx0IerRi2Q0"
+      },
+      "artists": [
+        {
+          "name": "dog eyes",
+          "url": "https://open.spotify.com/artist/4LfvbRzg2KRaJbr5Nw2yOc"
+        }
+      ],
+      "duration_ms": 146352,
+      "name": "fair",
+      "url": "https://open.spotify.com/track/2pQoTEXycAOQEfZRei7fmC"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Cutting Ties",
+        "url": "https://open.spotify.com/album/4lTbFn2sXX0s94c15wQGQ1"
+      },
+      "artists": [
+        {
+          "name": "Talking Points",
+          "url": "https://open.spotify.com/artist/0HOOEubA7zC2e5UXtKHNyG"
+        }
+      ],
+      "duration_ms": 257374,
+      "name": "Cutting Ties",
+      "url": "https://open.spotify.com/track/7HQHTxc7F8k0fnlQMiaMna"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Burner",
+        "url": "https://open.spotify.com/album/6QEubYvTOj36YYpFRQpSAg"
+      },
+      "artists": [
+        {
+          "name": "Connie Campsie",
+          "url": "https://open.spotify.com/artist/27ypqOvpNc3CXggjLJNfFs"
+        }
+      ],
+      "duration_ms": 200813,
+      "name": "Burner",
+      "url": "https://open.spotify.com/track/2arEFpdh3Wh1VqO3S2IiUz"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Up To You",
+        "url": "https://open.spotify.com/album/1O2iGb1Y5ciQjsu6kQCbJN"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "duration_ms": 261290,
+      "name": "Up To You",
+      "url": "https://open.spotify.com/track/2GdJCSLD7xGJTlmO8DusCo"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "Pamela",
+        "url": "https://open.spotify.com/album/7fdWpqb6dg0gX0Ga7Do0Kz"
+      },
+      "artists": [
+        {
+          "name": "Ellie Bleach",
+          "url": "https://open.spotify.com/artist/5ahGL7pdoC2nvzna5z5Fz3"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Pamela",
+      "url": "https://open.spotify.com/track/5jomePZJeAuY6IuMD9orzy"
+    },
     {
       "added_at": "2024-04-17 04:00:00",
       "album": {
@@ -23,6 +151,38 @@
       "duration_ms": 200624,
       "name": "Angel Blessings",
       "url": "https://open.spotify.com/track/2GMa39HCjyvuiYYFfipifp"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/1MbuCuWYq7RZjqC90LUCcs"
+      },
+      "artists": [
+        {
+          "name": "fathermerk",
+          "url": "https://open.spotify.com/artist/3UEfzntmhxbkNGSZYbAc1V"
+        }
+      ],
+      "duration_ms": 151671,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/52jT8NTEuIoBWhDreFGmSI"
+    },
+    {
+      "added_at": "2024-04-24 04:00:00",
+      "album": {
+        "name": "...(CONT'D)",
+        "url": "https://open.spotify.com/album/2a5T90hwx5cpKEU6dxnxPB"
+      },
+      "artists": [
+        {
+          "name": "Alex Banin",
+          "url": "https://open.spotify.com/artist/2fTTmPI3XaJwqM19w5QiRz"
+        }
+      ],
+      "duration_ms": 179411,
+      "name": "...(CONT'D)",
+      "url": "https://open.spotify.com/track/6ogrkyWujQGrasrLlBB4vP"
     },
     {
       "added_at": "2024-04-12 16:31:04",
@@ -1495,154 +1655,6 @@
       "duration_ms": 154104,
       "name": "LOSTWITHOUTMARIA",
       "url": "https://open.spotify.com/track/5vHRQOgc2tQb4h7KrBQUmS"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "In The Past",
-        "url": "https://open.spotify.com/album/0V7KZ1LmgeqXuRMrieqDPx"
-      },
-      "artists": [
-        {
-          "name": "Rory Ryan",
-          "url": "https://open.spotify.com/artist/4f5o2YhdfEybsyz5pthpdk"
-        }
-      ],
-      "duration_ms": 225554,
-      "name": "In The Past",
-      "url": "https://open.spotify.com/track/0D8GcHnb29vXqCws2OjMPW"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Like Me",
-        "url": "https://open.spotify.com/album/2ZAeVAkYsJ5XACYVz7my0c"
-      },
-      "artists": [
-        {
-          "name": "Nu Fvnk",
-          "url": "https://open.spotify.com/artist/30XGohmPXRz344ZBt74x2R"
-        }
-      ],
-      "duration_ms": 137402,
-      "name": "Like Me",
-      "url": "https://open.spotify.com/track/6nMKU3uNB9Q7bk80XKUh8G"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Dreamt",
-        "url": "https://open.spotify.com/album/0TDItPfDRGQuV1Szs52Y18"
-      },
-      "artists": [
-        {
-          "name": "Twice Eyes",
-          "url": "https://open.spotify.com/artist/1Vnla1zhuG8GGOyomO8i1q"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Dreamt",
-      "url": "https://open.spotify.com/track/6EVRm9emcGEV2vi88dh80q"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Souvenirs d'hiver",
-        "url": "https://open.spotify.com/album/0H8eWhsR7YF42qoYxCj4tn"
-      },
-      "artists": [
-        {
-          "name": "En St\u00e9r\u00e9o",
-          "url": "https://open.spotify.com/artist/3dqLqFUBy9bxdLwDncL0pm"
-        }
-      ],
-      "duration_ms": 244571,
-      "name": "Souvenirs d'hiver",
-      "url": "https://open.spotify.com/track/1RA7rGvpb7IcxyIGA6Tbog"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "No",
-        "url": "https://open.spotify.com/album/5jGKy49kIhQk4EE8ZxjaXC"
-      },
-      "artists": [
-        {
-          "name": "Tomato Flower",
-          "url": "https://open.spotify.com/artist/32g8Z2L0lqQH65njcLcBUG"
-        }
-      ],
-      "duration_ms": 144800,
-      "name": "Radical",
-      "url": "https://open.spotify.com/track/6NdZ2PDrUa8ezJyOIXu93v"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Temptation",
-        "url": "https://open.spotify.com/album/1G6sjX1SKZuie8PV47QHU7"
-      },
-      "artists": [
-        {
-          "name": "Echo Thrills",
-          "url": "https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF"
-        }
-      ],
-      "duration_ms": 191439,
-      "name": "Temptation",
-      "url": "https://open.spotify.com/track/1ZtCULlU6FKT2xyA6xbWI7"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "it's ok 2 lie 2 me",
-        "url": "https://open.spotify.com/album/6hnFX2RgeQWxofinGAFEnO"
-      },
-      "artists": [
-        {
-          "name": "Midwife",
-          "url": "https://open.spotify.com/artist/5vjIHa1u3TnOlDvVDR9qQa"
-        },
-        {
-          "name": "Nyxy Nyx",
-          "url": "https://open.spotify.com/artist/2GOjeRp6LwND6l2w5Ou1JG"
-        }
-      ],
-      "duration_ms": 208109,
-      "name": "it's ok 2 lie 2 me",
-      "url": "https://open.spotify.com/track/1Q8uOB3a7AzKGgb2Q3BbAB"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Mind & Body",
-        "url": "https://open.spotify.com/album/2KnyrLukBJW5j3O1fuPrTY"
-      },
-      "artists": [
-        {
-          "name": "Tol\u00fc Makay",
-          "url": "https://open.spotify.com/artist/337qYJNRgFq2iddKtqiHDG"
-        }
-      ],
-      "duration_ms": 176849,
-      "name": "Mind & Body",
-      "url": "https://open.spotify.com/track/3yyFIipRUtykOqYDMquF2p"
-    },
-    {
-      "added_at": "2024-03-06 05:00:00",
-      "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2DftFtuJ89dQX7Mz3ob0OJ"
-      },
-      "artists": [
-        {
-          "name": "Nowhere Blue",
-          "url": "https://open.spotify.com/artist/4rSnpj0LK5jbdGUTKeBLzP"
-        }
-      ],
-      "duration_ms": 202093,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/6PVXqgR8oHdbZzgAO49cw2"
     }
   ],
   "unique_name": "Fresh Finds Indie",

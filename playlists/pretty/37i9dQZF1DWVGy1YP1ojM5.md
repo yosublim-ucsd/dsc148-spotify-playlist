@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 
 > Silky sounds for the sheets.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,450,075 likes - 75 songs - 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,448,348 likes - 75 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,14 +29,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVGy1YP1ojM5.md) - [plain]
 | 19 | [Garden Kisses](https://open.spotify.com/track/62d6YXEYxmMWAuLpw1EysL) | [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Garden Kisses](https://open.spotify.com/album/0vlxPQi5fE04iM7FX4Jb49) | 3:15 |
 | 20 | [Superstar](https://open.spotify.com/track/18JosZY3HzD3lMy6iOOSAY) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Confessions \(Expanded Edition\)](https://open.spotify.com/album/1RM6MGv6bcl6NrAG8PGoZk) | 3:11 |
 | 21 | [Every Kind Of Way](https://open.spotify.com/track/0Aa3g9EQoPNt6PiKjaUeb7) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 2:40 |
-| 22 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
-| 23 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
+| 22 | [Hold On](https://open.spotify.com/track/5tqZJUHEuqdN12RZVq2l9p) | [The Internet](https://open.spotify.com/artist/7GN9PivdemQRKjDt4z5Zv8) | [Hive Mind](https://open.spotify.com/album/27ThgFMUAx3MXLQ297DzWF) | 6:46 |
+| 23 | [Let Me Explain](https://open.spotify.com/track/1trZGMI2CGyVT44STkpCoN) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Let Me Explain](https://open.spotify.com/album/3BjVNKsPNcmSGG5n4bHNUq) | 3:43 |
 | 24 | [Get It Together](https://open.spotify.com/track/4eDCsyIHTSu3cQZ5wDIyP7) | [702](https://open.spotify.com/artist/2S8UlyXW4JjjHcbeg8ddIo) | [No Doubt](https://open.spotify.com/album/5Zm0jwZc5J4jWk9rLmABKO) | 4:51 |
 | 25 | [Kickin’ Back](https://open.spotify.com/track/5xjTqz4aYQeBnFhwMPmfx9) | [Mila J](https://open.spotify.com/artist/6cN9XwPMj9bWzJ32GC6V7v) | [213](https://open.spotify.com/album/3wlzfD1t9CCQToaqR0rYFG) | 3:22 |
 | 26 | [living room flow \- Bonus](https://open.spotify.com/track/4Li8dc3ucCesQJMKErU5zM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Sailing Soul\(s\)](https://open.spotify.com/album/6zp8MKrhIwSdZojADmIDim) | 4:22 |
 | 27 | [Focus](https://open.spotify.com/track/3tZs3nVjySLbL320lP4mvs) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [H.E.R.](https://open.spotify.com/album/0pV0Mx07aMApIpF19oSQgY) | 3:20 |
-| 28 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
-| 29 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
+| 28 | [Rain](https://open.spotify.com/track/4G1qRhOk1YY0kewtMaCrMC) | [SWV](https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa) | [Release Some Tension](https://open.spotify.com/album/2bHrxJQDBQdvow7vktRVUj) | 4:24 |
+| 29 | [2 Sugar \(feat\. Ayra Starr\)](https://open.spotify.com/track/1DA2ADZs6O28y2rmdmpekw) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [More Love, Less Ego](https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY) | 3:07 |
 | 30 | [CPR](https://open.spotify.com/track/5Tp4UJvnsF4Zd05k0zXUte) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Last Day Of Summer](https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz) | 3:23 |
 | 31 | [Good & Plenty \- Remix](https://open.spotify.com/track/6T3Ebo7EOh8cUOyE4OhFpp) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Alex Isley](https://open.spotify.com/artist/7E2ioKxoxI2J94tUkIx6As), [Jack Dine](https://open.spotify.com/artist/2NWuUOptHRTogSZghYspAE) | [Good & Plenty \(Remix\)](https://open.spotify.com/album/3myUd2MqJKr3rfUrAf41Us) | 3:24 |
 | 32 | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/track/6NblUCwJXYkQlQ6LhcmSlQ) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [Ooh Nah Nah \(feat\. Masego\)](https://open.spotify.com/album/4RmDIqdJ2mgmOuEvtnu8fl) | 4:00 |

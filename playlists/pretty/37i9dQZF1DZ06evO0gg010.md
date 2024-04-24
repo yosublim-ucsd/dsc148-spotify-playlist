@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 
 ### [This Is Fuerza Regida](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0gg010)
 
-> This Is Fuerza Regida\. Sus mejores éxitos, todos en una playlist.
+> This Is Fuerza Regida\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 433,907 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 435,126 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0gg010.md) - [plain]
 | 49 | [El Deportivo](https://open.spotify.com/track/73VqJQTEcqbgbVBxDPIaz6) | [Enigma Norteño](https://open.spotify.com/artist/3441uYrkzgTWwjXLd13R0U), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [El Deportivo](https://open.spotify.com/album/7vfslBmJvEgsacoR5oPGbg) | 3:12 |
 | 50 | [¿Qué Se Te Quitó?](https://open.spotify.com/track/2VaHYCxdN3xpNAQdPzIqkG) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [¿Qué Se Te Quitó?](https://open.spotify.com/album/0IHTlF1XZDLBtiGKiULBuW) | 1:27 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGU3MjcyNDI0ODYzMzNjNDY0NDY2NDM3OTQwMmIwMTU1`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGI3OTVkOWQ5YTBmYzc3OWMwZmEwNTg0ZjFhZGYyMzFk`

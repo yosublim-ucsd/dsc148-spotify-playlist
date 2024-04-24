@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Linkin Park au top des meilleurs morceaux rock du moment.",
+  "description": "Pearl Jam au top des meilleurs morceaux rock du moment.",
   "name": "Top of the Rock",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 123293,
       "name": "Abyss - from Kaiju No. 8",
       "url": "https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5"
@@ -214,7 +214,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 162000,
       "name": "B/W Rainbow",
       "url": "https://open.spotify.com/track/4Mao9J2KxOWkqp9u1LULTd"
@@ -975,6 +975,24 @@
     },
     {
       "album": {
+        "name": "Get Out",
+        "url": "https://open.spotify.com/album/4ckU05Gz1l6kf4buoNG4Ay"
+      },
+      "artists": [
+        {
+          "name": "Twin Atlantic",
+          "url": "https://open.spotify.com/artist/4A9xtvezlouTD7H0kyUje9"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178300,
+      "name": "Get Out",
+      "url": "https://open.spotify.com/track/5ERyOjxbrhVZfwAPpX2O6G"
+    },
+    {
+      "album": {
         "name": "Giant's Despair",
         "url": "https://open.spotify.com/album/39SxqEswZM29iCSaJ0jKpz"
       },
@@ -1232,6 +1250,24 @@
       "duration_ms": 199196,
       "name": "I Hope You Choke!",
       "url": "https://open.spotify.com/track/5q6pgHMUEIdq78NVmmytL5"
+    },
+    {
+      "album": {
+        "name": "I Love It When It Rains",
+        "url": "https://open.spotify.com/album/2D8aGAzCrpTESFd4r1cJpm"
+      },
+      "artists": [
+        {
+          "name": "Loveless",
+          "url": "https://open.spotify.com/artist/1MP7xlABJ13LtmHfG77SCJ"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198487,
+      "name": "I Love It When It Rains",
+      "url": "https://open.spotify.com/track/2iRpC6staR7gkZgitFa6rQ"
     },
     {
       "album": {
@@ -2337,6 +2373,24 @@
     },
     {
       "album": {
+        "name": "SPINE",
+        "url": "https://open.spotify.com/album/0Cid17L0G17hI9bmEuR5G2"
+      },
+      "artists": [
+        {
+          "name": "WesGhost",
+          "url": "https://open.spotify.com/artist/6YmJPuYzqe1HsJArGYcHBJ"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180715,
+      "name": "SPINE",
+      "url": "https://open.spotify.com/track/6Stz1dIY7OD61gU7SdVR22"
+    },
+    {
+      "album": {
         "name": "Spiral City",
         "url": "https://open.spotify.com/album/72Fz5Nvjn0gS7Hf9qtwFt5"
       },
@@ -3004,7 +3058,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182332,
       "name": "World Class Entertainment",
       "url": "https://open.spotify.com/track/5lpL6jOF11mnl4lNP6jJLu"

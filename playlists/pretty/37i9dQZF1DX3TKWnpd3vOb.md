@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: Los Tres
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,528 likes - 90 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,269 likes - 90 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 20 | [Únete A Mi Ser](https://open.spotify.com/track/1Sfe6sTE6E3pkW1wjSmLRS) | [Kuervos del Sur](https://open.spotify.com/artist/6BYwseleN4FiZvX4dFirBj) | [De La Luz](https://open.spotify.com/album/7Aum3NoxOUSKlD0fzjGdp0) | 4:41 |
 | 21 | [Calles de Talcahuano](https://open.spotify.com/track/0KqGmiYvF82ThoZsyrVEUX) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Calles de Talcahuano](https://open.spotify.com/album/5bIBnHST3LzbrlEktSUXWE) | 3:46 |
 | 22 | [Amor Violento](https://open.spotify.com/track/2QBLfZKOgGhjjhtsAtStHI) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Los Tres Unplugged 20 Años](https://open.spotify.com/album/5qwIg1kBzo0HabN4VwaX0P) | 4:45 |
-| 23 | [Eternos](https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Eternos](https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C) | 3:25 |
+| 23 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
 | 24 | [Vida de locos](https://open.spotify.com/track/0iOA58UWDwq5jilLLOhR30) | [Tomo Como Rey](https://open.spotify.com/artist/7DGQ1BwG33jSlcQC6krZLD), [La Pegatina](https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK), [Adrià Salas](https://open.spotify.com/artist/1c7dIKNsUH2LZ998pvirXH) | [Baile Infinito](https://open.spotify.com/album/1zmmya1G0UWUrDVyZ2MssT) | 3:15 |
-| 25 | [Resiste Más Que Yo](https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ) | [De Saloon](https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt), [Denisse Malebrán](https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr) | [Resiste Más Que Yo](https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv) | 5:59 |
+| 25 | [Eternos](https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx) | [We Are The Grand](https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT) | [Eternos](https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C) | 3:25 |
 | 26 | [La Llamada](https://open.spotify.com/track/7LDc6HR0Z2wvcPmlH3zvAG) | [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX) | [La Llamada](https://open.spotify.com/album/7HKAzGH5Lo7v2WYRIAuZDt) | 4:09 |
 | 27 | [Luna](https://open.spotify.com/track/23U4DUgZM7YQU1Q5DbjRPr) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [Relatos Falsos De Historias Verdaderas](https://open.spotify.com/album/69WV2fR1pnJFNaskXNz6sS) | 3:56 |
 | 28 | [Infiel](https://open.spotify.com/track/6wKBgNVGgDT1wT6dQhJa2Q) | [Los Bunkers](https://open.spotify.com/artist/3RTAXX6KGdljBsOIupyZgT) | [Infiel](https://open.spotify.com/album/1EL3qmK14CMawfXH5hlAFb) | 4:13 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 
 > The essential tracks from the label VP Records\. Cover: Beenie Man
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,375 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,458 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX70zl2mz7vvV.md) - [plain]
 | 45 | [Too Young](https://open.spotify.com/track/4YC0g1gFRX4PG3C8TvVNcn) | [Cocoa Tea](https://open.spotify.com/artist/7z7anCUBwfJUFuTQ4D1x6R), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Good Life](https://open.spotify.com/album/2OqPHmyhLyQ4kwdWDRLIiz) | 3:47 |
 | 46 | [Trueversation \(feat\. Damian Marley\)](https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq) | [Queen Ifrica](https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Climb](https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z) | 3:39 |
 | 47 | [Put Down The Weapon \(feat\. Capleton\)](https://open.spotify.com/track/4UPNMTYRckH4PCrnTzNwpl) | [Yami Bolo](https://open.spotify.com/artist/6K4qT7qjaR6q5SqwQ1oA3o), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Jah Love](https://open.spotify.com/album/2lC2ZgJcDOxOlHroVLcCbG) | 4:01 |
-| 48 | [I Am Not Afraid](https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [The Strong One](https://open.spotify.com/album/0Ypu0QySaX7HxWhzRBBjGZ) | 3:54 |
-| 49 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
+| 48 | [Hold You](https://open.spotify.com/track/6oBhPRIctSuiSA01i7bnzT) | [Gyptian](https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi) | [Down In Jamaica: 40 Years of VP Records](https://open.spotify.com/album/3ctPMDnCls1JnmcpZYVqXn) | 3:52 |
+| 49 | [I Am Not Afraid](https://open.spotify.com/track/0EhMnGX0ayyKkwBiHCzfQy) | [Etana](https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm) | [The Strong One](https://open.spotify.com/album/0Ypu0QySaX7HxWhzRBBjGZ) | 3:54 |
 | 50 | [Dust A Sound Boy](https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza) | [Super Beagle](https://open.spotify.com/artist/0vD2WzuswHKLaJQIAiPrfc) | [Reggae Anthology: Winston Riley \- Quintessential Techniques](https://open.spotify.com/album/3IPuQhufdjBHf3kpi3oHav) | 3:37 |
 
 Snapshot ID: `MTY4NjgzNDU5NSwwMDAwMDAwMGQ1NmRjYzkwYmFjMmUwNGQ5ZjUxYjdmZmRlOTIxNTM1`

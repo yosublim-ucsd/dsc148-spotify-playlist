@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 
 > This is Lil Tecca\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,319 likes - 47 songs - 1 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,388 likes - 47 songs - 1 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 21 | [When You Down \(with Polo G feat\. Lil Durk\)](https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 3:13 |
 | 22 | [Shots](https://open.spotify.com/track/6eSU1exzDvBEXmBRxspeh5) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca](https://open.spotify.com/album/1I6FpscJIfwf4T56VxGVsB) | 1:49 |
 | 23 | [SHOW ME UP](https://open.spotify.com/track/4Whbjw2RncZLcNSDQbFWVY) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [We Love You Tecca 2 \(Deluxe\)](https://open.spotify.com/album/2ybRB5pXB2XCjLbvRQMrw9) | 2:46 |
-| 24 | [Yves](https://open.spotify.com/track/7DRM6aQqMhVMweZ8H7UBei) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:17 |
+| 24 | [Need Me](https://open.spotify.com/track/6hAsChsFiKALkmIishhyVT) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [TEC](https://open.spotify.com/album/4EURMuWFiLLRmQYoH5cgiE) | 2:20 |
 | 25 | [JETSKI](https://open.spotify.com/track/4gtZjfZN7FBrF562pv0K4f) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk) | [JETSKI](https://open.spotify.com/album/0E3nVyJnesYyyr9GQAJqZl) | 2:45 |
 | 26 | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/track/6E6RS1uUDxxYiWMmEKrxnh) | [S1mba](https://open.spotify.com/artist/71jSVPQ6yskfyvWeiwvT5s), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Rover \(feat\. Lil Tecca\)](https://open.spotify.com/album/4mywvojjCi9vsVNSPRCNfR) | 2:46 |
 | 27 | [Chemistry](https://open.spotify.com/track/7niut1GcKrCVZe4mx7Tqp8) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Virgo World](https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX) | 2:13 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2K7vh9.md) - [plain]
 | 46 | [Good Life](https://open.spotify.com/track/4dQRw7ylWmjumuK5LQycqJ) | [TyFontaine](https://open.spotify.com/artist/3U1jsFYwwJHv7VB4Frf3F4), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [Ascension \(Deluxe\) – Virtual World 2](https://open.spotify.com/album/1s79D8PDeLsbpj7EYDzMBI) | 2:16 |
 | 47 | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5) | [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0), [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo), [Ken Carson](https://open.spotify.com/artist/6BURJsrwD35kYYZlpMw2Xs) | [She Want Some More \(feat\. Ken Carson\)](https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C) | 3:04 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDI0Y2I0MjVlYWU3NDJjYjc1M2U3MmQyNDc3ZDMzM2Vj`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDQwYzhjOTI0OTRjMzQyNmQ0NTcwMGFlZTI0Nzk3NTdm`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 
 > This is Gabito Ballesteros\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,450 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,773 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 10 | [El Tsurito](https://open.spotify.com/track/1piak4R3yW4otWWyaSqyCH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [El Tsurito](https://open.spotify.com/album/2Vsd77mgdyNDlYG1XYmBuA) | 3:14 |
 | 11 | [AMG](https://open.spotify.com/track/1lRtH4FszTrwwlK5gTSbXO) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [AMG](https://open.spotify.com/album/0s2sLResjP92wRavoj9k0O) | 2:54 |
 | 12 | [Vamos Para Arriba](https://open.spotify.com/track/7cZoAjj5vufdREBJZGW2lH) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vamos Para Arriba](https://open.spotify.com/album/0vzPpFmWik8bxZ7GSvOD37) | 2:52 |
-| 13 | [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 |
-| 14 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 |
+| 13 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 |
+| 14 | [Ya Corazón](https://open.spotify.com/track/49lbKqbCI8SmJfW64OYXGZ) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is) | [Ya Corazón](https://open.spotify.com/album/0v7kIoSFh2xLJX5cU8PZkK) | 2:57 |
 | 15 | [La Mamoncita del Insta](https://open.spotify.com/track/4Dg3WEqGpBbSu4EKjudiwV) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [La Mamoncita del Insta](https://open.spotify.com/album/4bzLOdILYkhPvhrErSjLxn) | 3:13 |
 | 16 | [TENDIDO](https://open.spotify.com/track/6coFuGT9MX2iptViTbMiU1) | [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [TENDIDO](https://open.spotify.com/album/46i4abJlERWTOoySWensFT) | 2:44 |
 | 17 | [Fendi](https://open.spotify.com/track/7oey14Rg8UhqMCQjOp0OST) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Fendi](https://open.spotify.com/album/5aczlIix8ceVTmh7nbmPkb) | 3:00 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43Xw6T.md) - [plain]
 | 50 | [Pensaron Que No Podia](https://open.spotify.com/track/0iGc4BWHQdN7iv1IN7Fx3X) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [No Ando Solo](https://open.spotify.com/album/4r2CQPM8TknOs9XI2iMYx0) | 2:36 |
 | 51 | [Ya Comieron?](https://open.spotify.com/track/4Vrkqy10qbb5R1nRnbfD55) | [Giovanny Ayala](https://open.spotify.com/artist/0OmIOUU8SceGFVrqrEm70j), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Ya Comieron?](https://open.spotify.com/album/1cKEr2VczSEJqTsRSduaIL) | 2:58 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGJkMDk0ZTRiYThiZGMwYjA2NWRkYmU5MDVlYzFiYTYz`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDRmODFhYmFmNmU4YzVkMDM2MmVhOGU0YjFlMDgwNGE3`

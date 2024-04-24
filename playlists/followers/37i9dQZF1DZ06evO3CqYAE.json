@@ -1,7 +1,7 @@
 {
-  "2024-04-23": 8985,
+  "2024-04-24": 9004,
   "date_first_scraped": "2023-04-03",
-  "description": "This Is Mercy Chinwo. Los temas esenciales, todos en una lista.",
+  "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
   "name": "This Is Mercy Chinwo",
   "tracks": [
     {
@@ -177,7 +177,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-14",
+      "date_removed": null,
       "duration_ms": 280424,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/7LcoRUZI1URqzeumgGbKWp"
@@ -213,7 +213,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 280440,
       "name": "Chinedum",
       "url": "https://open.spotify.com/track/2Ec5ca9NM0Rwb0MddtQSHI"
@@ -1219,7 +1219,7 @@
       ],
       "date_added": "2023-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 296751,
       "name": "Strong Tower",
       "url": "https://open.spotify.com/track/4MhjzqLa696TkrCXRk7bsU"

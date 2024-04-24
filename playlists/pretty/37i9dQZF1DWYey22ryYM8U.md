@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 
 > Hits con sabor\. Cover: Camilo & Evaluna Montaner
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,204 likes - 100 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,933 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 10 | [La Noviecita](https://open.spotify.com/track/1LbrwVt7V2Qp3iJqo1a9h6) | [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Radio Güira](https://open.spotify.com/album/3gMqG4ClTg0tjJGBCVx9UH) | 3:41 |
 | 11 | [LA CAPI](https://open.spotify.com/track/68OXeY9CUQebrOAAh3b3Jw) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LVEU: VIVE LA TUYA...NO LA MIA](https://open.spotify.com/album/1ZVJTCW5rxpHKNgsNL91J2) | 3:22 |
 | 12 | [COCO LOCO](https://open.spotify.com/track/3kmWIej9tXjSWWYc9tPjJk) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [COCO LOCO](https://open.spotify.com/album/21HEULXdjdbOsXoR0ajBeB) | 2:46 |
-| 13 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
-| 14 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
+| 13 | [Después de la Playa](https://open.spotify.com/track/1dm6z1fWB0cErMszU25dy2) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 3:50 |
+| 14 | [DESPECHÁ](https://open.spotify.com/track/5ildQOEKmJuWGl2vRkFdYc) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [DESPECHÁ](https://open.spotify.com/album/5omNd3Mkij9C3ZeW19rRmv) | 2:37 |
 | 15 | [VAGABUNDO](https://open.spotify.com/track/1MB8kTH7VKvAMfL9SHgJmG) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [VAGABUNDO](https://open.spotify.com/album/0Rl1vI3oOOh3rylfBLiemc) | 3:35 |
 | 16 | [Monotonía](https://open.spotify.com/track/6G12ZafqofSq7YtrMqUm76) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Monotonía](https://open.spotify.com/album/5pJtcJojr98hbb6KF0ImMe) | 2:38 |
 | 17 | [Rechazame](https://open.spotify.com/track/07p0kLnvfQQ2bLujHyzSGK) | [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC) | [Prince Royce](https://open.spotify.com/album/5zEFCJy9kAyD8rMbBESdYh) | 3:43 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYey22ryYM8U.md) - [plain]
 | 92 | [Créeme](https://open.spotify.com/track/6hmZuaBLzSLuvHVGCMJwlh) | [Michel Robles](https://open.spotify.com/artist/6cu8qsCgvrKHDLzHOHSeBi), [Yahaira Plasencia](https://open.spotify.com/artist/7GEHoJXxJ6wnS8dbgm0b1E) | [Créeme](https://open.spotify.com/album/3WUjknYm964pru7qXzI85J) | 5:32 |
 | 93 | [Esta Noche Pinta Bien](https://open.spotify.com/track/7E88yORnDfAQ7jE2gftnY1) | [Septeto Acarey](https://open.spotify.com/artist/5Vz74ibGHBQaUa2ALDOH0v), [Jose Alberto](https://open.spotify.com/artist/0Ij5XvrnnRFo7wCrUrwV5x) | [La Llave del Son](https://open.spotify.com/album/06uEnV3HMObiKgnRcA0f17) | 4:26 |
 | 94 | [Quiero Decirte \- DJ C Remix](https://open.spotify.com/track/76Na3nHNJrkdjZ9qkuiJMz) | [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl), [DJ C](https://open.spotify.com/artist/3SchaCFy44QEGv2EdF4ZjS) | [Quiero Decirte \- Remixes](https://open.spotify.com/album/3U2wtzZJqd55HGBfqVHruU) | 3:49 |
-| 95 | [Ziriguidum](https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Ziriguidum](https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB) | 3:21 |
-| 96 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
+| 95 | [El Combo del Mundo](https://open.spotify.com/track/3UzyeFG7yH1ckPctgo9jB6) | [El Gran Combo De Puerto Rico](https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu) | [En Cuarentena](https://open.spotify.com/album/6c9ZcBA14ALIayEO8r8wX2) | 4:19 |
+| 96 | [Ziriguidum](https://open.spotify.com/track/3IlSiEt3LZHvGiaOwC1RAi) | [Grupo Mania](https://open.spotify.com/artist/2RqhDUsFkCJbhHntsnCVqp) | [Ziriguidum](https://open.spotify.com/album/6nTUpThOpMeB9eDIdWcITB) | 3:21 |
 | 97 | [Abrete](https://open.spotify.com/track/2JT09i9gxPolHFrliKbxsD) | [Chiko Swagg](https://open.spotify.com/artist/0zz9lzzQBgwxEDsYHy0H2n), [Elvis Martinez](https://open.spotify.com/artist/66U02qGDesTqZImnLSiYeE), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF) | [Abrete](https://open.spotify.com/album/06PuNPUtn9QmMWuSgmMAz5) | 4:14 |
-| 98 | [Tuyo \- \(Nueva Versión\)](https://open.spotify.com/track/0n6lBsv06EKbI55c6q9ngf) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Legendario](https://open.spotify.com/album/2sukPu1GQw02oMmN05Y986) | 5:17 |
-| 99 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tú No Bailas Mas Que Yo](https://open.spotify.com/album/4G7Ap84rNIhYgF5NXHmP8q) | 3:03 |
+| 98 | [Tú No Bailas Mas Que Yo](https://open.spotify.com/track/2U2xfA3zCdjsLVhAX2rQ3y) | [Jerry Rivera](https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Tú No Bailas Mas Que Yo](https://open.spotify.com/album/4G7Ap84rNIhYgF5NXHmP8q) | 3:03 |
+| 99 | [No Me Canso](https://open.spotify.com/track/3tbKkKbrG64V5aSEPHgG36) | [Josimar y Su Yambú](https://open.spotify.com/artist/25gsQNkL2qTq778NWyughs) | [No Me Canso](https://open.spotify.com/album/0EbxeksRLXDTEIKw9VXvOw) | 4:40 |
 | 100 | [Sin Fronteras](https://open.spotify.com/track/0EjGZf0b32jCa43xMkEt13) | [Tony Succar](https://open.spotify.com/artist/17S2mEKDY4xHBWCy9kAPzk), [LA INDIA](https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck), [Mimy Succar](https://open.spotify.com/artist/1hOnt6Sw9sCHTUbljZwayv), [Haila](https://open.spotify.com/artist/4qaVBTUcoHpMlgf5NpQY7P) | [Sin Fronteras \(feat\. Haila\)](https://open.spotify.com/album/5qgoLsJKKnbHtVpqO4FD4C) | 5:01 |
 
 Snapshot ID: `MTcxMzQ5OTIwMCwwMDAwMDAwMGY0Mzc1ZGQzNmJlMzcyNzM2MzUzMGNjN2Y3M2QzNWVi`

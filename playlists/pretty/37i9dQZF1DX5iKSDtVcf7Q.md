@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 
 > Music paying tribute to the Heartland of America.
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,664 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,712 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 47 | [Boys 'Round Here \(feat\. Pistol Annies & Friends\)](https://open.spotify.com/track/39FwE8edwuyiaa4PrGBkP7) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw), [Pistol Annies](https://open.spotify.com/artist/2wSgVsgLUZeDJwoLcPO7ny) | [Based on a True Story..\. \(Deluxe Edition\)](https://open.spotify.com/album/6MzrSTAQdDR92tHLLAhYp0) | 4:48 |
 | 48 | [These Are My People](https://open.spotify.com/track/5jFid6SUnYqohvNvNuZvIz) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [If You're Going Through Hell](https://open.spotify.com/album/5YG0aqiSCfhcWmW2KEsSWJ) | 3:33 |
 | 49 | [All\-American Girl](https://open.spotify.com/track/2dRPQFwPqAmc42mDRnsDQu) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Carnival Ride](https://open.spotify.com/album/5HwzpaqYOZABPnmvl5JYFX) | 3:32 |
-| 50 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
-| 51 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
+| 50 | [Watching Airplanes](https://open.spotify.com/track/63u5QGp9dKXAoYTVKUKBYn) | [Gary Allan](https://open.spotify.com/artist/37W8SKV5Vc8lcGtdyWCA5m) | [Living Hard](https://open.spotify.com/album/2iShcXr1PRM3VMF15iHwP8) | 4:02 |
+| 51 | [ONE BEER \(feat\. Lauren Alaina & Devin Dawson\)](https://open.spotify.com/track/5FmvaZGd6fulojSToozLRD) | [HARDY](https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy), [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv), [Devin Dawson](https://open.spotify.com/artist/2ySHS7UojGu20XfUPaBlyu) | [HIXTAPE: Vol\. 1](https://open.spotify.com/album/5e3Kjap4XBZ44dc36AqtEo) | 2:53 |
 | 52 | [Dirt](https://open.spotify.com/track/5CXnIPD6rTjszYYQm6fY2P) | [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Anything Goes](https://open.spotify.com/album/5NG7WZaCZZ12M5LJm0JcVc) | 3:50 |
 | 53 | [Heartland \- Pure Country/Soundtrack Version](https://open.spotify.com/track/0U4R6UqrJo43TmImPku9H8) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Pure Country](https://open.spotify.com/album/5K0Ic5xrsWbWzlDFse0KCX) | 2:18 |
 | 54 | [Glory Days](https://open.spotify.com/track/7qaMlLPdwNiiU1Uiy1oAdO) | [Gabby Barrett](https://open.spotify.com/artist/6Iz3eq2aQGFf7TbGT2iahL) | [Glory Days](https://open.spotify.com/album/0aRxuDLQsKlZMgz61rb3t8) | 2:42 |
@@ -103,8 +103,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5iKSDtVcf7Q.md) - [plain]
 | 93 | [I Go Back](https://open.spotify.com/track/0Ox458KpvZQ1Kuj9mUNPLL) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O) | [Greatest Hits II](https://open.spotify.com/album/2d4eS9a7DRTlfeTKVJQ0kr) | 4:00 |
 | 94 | [My Town](https://open.spotify.com/track/5M8oqeozsjPMSXbkjo0SyD) | [Montgomery Gentry](https://open.spotify.com/artist/3bGXaFVQLASmDMdjjeJr8a) | [Something To Be Proud Of: Best Of 1999\-2005](https://open.spotify.com/album/5xPDOWC4cy0sS9FrF7HiHZ) | 4:45 |
 | 95 | [Famous In a Small Town](https://open.spotify.com/track/4oXOOBwZsHFnRRNBNXrr9X) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Crazy Ex\-Girlfriend](https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb) | 4:05 |
-| 96 | [Red Light](https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'm About To Come Alive](https://open.spotify.com/album/33DAhrPxgxfXeljwzpgi0y) | 4:06 |
-| 97 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
+| 96 | [It’s America](https://open.spotify.com/track/6QbcLktLNe7eYqh8TjZeCd) | [Rodney Atkins](https://open.spotify.com/artist/2qgvmDsc4jrqbAbjq1HGM2) | [It's America](https://open.spotify.com/album/1bWrDfZLiqzpac2iNiFAJH) | 3:33 |
+| 97 | [Red Light](https://open.spotify.com/track/66EhdSD4MPXk5ZXljDJWI6) | [David Nail](https://open.spotify.com/artist/4DZGvSv2oMkBUnPz67E6z6) | [I'm About To Come Alive](https://open.spotify.com/album/33DAhrPxgxfXeljwzpgi0y) | 4:06 |
 | 98 | [River Bank](https://open.spotify.com/track/0U6uTxVPeoXFcxlXMIWgAR) | [Brad Paisley](https://open.spotify.com/artist/13YmWQJFwgZrd4bf5IjMY4) | [Moonshine in the Trunk](https://open.spotify.com/album/5jz1XHH4z5CegCDlAe9ujP) | 2:59 |
 | 99 | [Bonfire At Tina's](https://open.spotify.com/track/3qNCc4GzLQKpAhTjXYBR8z) | [Ashley McBryde](https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV), [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9), [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S), [Pillbox Patti](https://open.spotify.com/artist/1tAy2qZQdjG9ulfI9btLoO) | [Ashley McBryde Presents: Lindeville](https://open.spotify.com/album/3a2NKD0RDfoAlr8lNTZzJq) | 3:40 |
 | 100 | [Don't Forget to Remember Me](https://open.spotify.com/track/0SCtEUwSkgavjuzebBznX5) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Some Hearts](https://open.spotify.com/album/0kys2jaKAiDPfNBd4z7LAg) | 4:00 |

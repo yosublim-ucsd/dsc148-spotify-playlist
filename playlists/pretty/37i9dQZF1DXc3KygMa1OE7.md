@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 
 > The most unforgettable love songs from the 80s.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,551,303 likes - 75 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,550,466 likes - 75 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 23 | [Sexual Healing](https://open.spotify.com/track/3VZmChrnVW8JK6ano4gSED) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [Midnight Love](https://open.spotify.com/album/3gPlX9Zs3tXZZKNCyoOkSm) | 3:58 |
 | 24 | [Drive \- 2017 Remaster](https://open.spotify.com/track/2lFFiNm0XtgJ6wkdncTB4k) | [The Cars](https://open.spotify.com/artist/6DCIj8jNaNpBz8e5oKFPtp) | [Heartbeat City \(Expanded Edition\)](https://open.spotify.com/album/7LPfdVDw4uXf9Bw5LQDESf) | 3:54 |
 | 25 | [Nothing's Gonna Change My Love for You](https://open.spotify.com/track/0vB4Vd6PtkJSEnWsmqATnZ) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [20/20](https://open.spotify.com/album/23HV3deh17hOFNg3OKmGnW) | 4:02 |
-| 26 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
-| 27 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
+| 26 | [I'll Be Over You](https://open.spotify.com/track/1WeoeHh0TSzsApyJ6Q8OOK) | [TOTO](https://open.spotify.com/artist/0PFtn5NtBbbUNbU9EAmIWF) | [Fahrenheit](https://open.spotify.com/album/2FsaIC8jrXvWGIfokVZ4Jg) | 3:49 |
+| 27 | [Missing You](https://open.spotify.com/track/1Qrdlkgg9I4J7r3P4kZNwr) | [John Waite](https://open.spotify.com/artist/2TPyCsRoh2tjeZLTQ2ojlj) | [No Brakes](https://open.spotify.com/album/65Uo74eW8L3zXUxSOlSm6H) | 4:29 |
 | 28 | [Making Love Out of Nothing at All](https://open.spotify.com/track/01MXkFA8sL7at6txavDErt) | [Air Supply](https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW) | [All Out Of Love](https://open.spotify.com/album/1Z0JbC9RPMJNxE82vTQcIX) | 5:41 |
 | 29 | [Stuck On You](https://open.spotify.com/track/6HPLeKiNm92RbykX2BDTUB) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 3:12 |
 | 30 | [Arthur's Theme \(Best That You Can Do\)](https://open.spotify.com/track/5fnOrhQ4KgT5irGCjIccGH) | [Christopher Cross](https://open.spotify.com/artist/695W5F2Ih8dYahLdjVOIoH) | [Arthur \- The Album \[Original Soundtrack\]](https://open.spotify.com/album/0QXYfxXpKeLlr3hueenIHB) | 3:54 |
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 34 | [Every Time You Go Away \- Radio Edit](https://open.spotify.com/track/05fHQeRbCSjKVS6z0WbQKJ) | [Paul Young](https://open.spotify.com/artist/6rqU9HQ57NYGBnBzbrY3a4) | [From Time To Time \- The Singles Collection](https://open.spotify.com/album/6bDQgC4mNcwz46wHKI6h2y) | 4:27 |
 | 35 | [True \- Single Edit](https://open.spotify.com/track/0CsM8VGDi38kusMv3pxyj1) | [Spandau Ballet](https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv) | [True \- The Digital E.P.](https://open.spotify.com/album/2ZcceaFPxi5CuqoBUfedKn) | 5:29 |
 | 36 | [One More Night \- 2016 Remaster](https://open.spotify.com/track/6fkvIT9KFKxO8poBeKfaEf) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [No Jacket Required \(2016 Remaster\)](https://open.spotify.com/album/1rVhockt4RAiZFaK3M3zPB) | 4:48 |
-| 37 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
+| 37 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
 | 38 | [Hello](https://open.spotify.com/track/6HMvJcdw6qLsyV1b5x29sa) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Can't Slow Down](https://open.spotify.com/album/5U0NU0T1JKIJwgq2ZDWb2T) | 4:06 |
-| 39 | [Saving All My Love for You](https://open.spotify.com/track/1lx8ddGT5wCD6W2xmLeRKG) | [Whitney Houston](https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP) | [Whitney Houston](https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes) | 3:58 |
+| 39 | [What A Feeling](https://open.spotify.com/track/0aAR5HogGoT68EWFbyRFqx) | [Irene Cara](https://open.spotify.com/artist/3oZa8Xs6IjlIUGLAhVyK4G) | [What A Feeling](https://open.spotify.com/album/7C65CLdoGCQZ739kfYVcwY) | 4:04 |
 | 40 | [Slave To Love](https://open.spotify.com/track/1c9dnQbOzw01ID7X2IsYOE) | [Bryan Ferry](https://open.spotify.com/artist/5RNFFojXkPRmlJZIwXeKQC) | [Boys And Girls](https://open.spotify.com/album/3SsNd5MeJKc1IK3nazaWg2) | 4:26 |
 | 41 | [What's Love Got to Do with It](https://open.spotify.com/track/4kOfxxnW1ukZdsNbCKY9br) | [Tina Turner](https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak) | [What's Love Got to Do with It?](https://open.spotify.com/album/5HmYiJnUkFuciiqRrAAv4o) | 3:46 |
 | 42 | [Woman in Love](https://open.spotify.com/track/1pTGc8pwyo6xtgXBKCBcFn) | [Barbra Streisand](https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6) | [Guilty](https://open.spotify.com/album/5mMebbufullX8FIhpCxwCt) | 3:51 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc3KygMa1OE7.md) - [plain]
 | 53 | [The Power of Love](https://open.spotify.com/track/18DfMhEx4ddoreHrvZDF6Q) | [Jennifer Rush](https://open.spotify.com/artist/3fsCWTIuWIRvEGS7gerSJX) | [The Power Of Love: The Best Of Jennifer Rush](https://open.spotify.com/album/6qCyqeMjwwh2wRQWvQyHgG) | 4:28 |
 | 54 | [I Just Can't Stop Loving You \(feat\. Siedah Garrett\) \- 2012 Remaster](https://open.spotify.com/track/2fytePz8UsbUr8n33QBEcm) | [Michael Jackson](https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm), [Siedah Garrett](https://open.spotify.com/artist/7EVlecngyrLHfQUqFMpwkT) | [Bad 25th Anniversary](https://open.spotify.com/album/24TAupSNVWSAHL0R7n71vm) | 4:11 |
 | 55 | [Wind Beneath My Wings](https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q) | [Bette Midler](https://open.spotify.com/artist/13y0kncDD4J9wxCyfKr10W) | [Beaches \(Original Soundtrack Recording\)](https://open.spotify.com/album/7hKfx1hjTjzdU4SysDMNc9) | 4:53 |
-| 56 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
-| 57 | [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:14 |
+| 56 | [Uptown Girl](https://open.spotify.com/track/3CSpzkoL1XgDBZ1q9aDCUV) | [Billy Joel](https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e) | [The Essential Billy Joel](https://open.spotify.com/album/7r36rel1M4gyBavfcJP6Yz) | 3:14 |
+| 57 | [Love Changes \(Everything\)](https://open.spotify.com/track/1y748kOQshZECWk5MddfOv) | [Climie Fisher](https://open.spotify.com/artist/3bpvhFSIErguVNQUiutctF) | [Everything](https://open.spotify.com/album/1gYHcOcMdlzkXhJkJwPJ9C) | 4:28 |
 | 58 | [Woman \- Remastered 2010](https://open.spotify.com/track/1BrbXIJ7b161oQ0PfC0K32) | [John Lennon](https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H) | [Double Fantasy](https://open.spotify.com/album/1NWA2fPLUAW5df7UGI5thp) | 3:32 |
 | 59 | [Love Will Lead You Back](https://open.spotify.com/track/3HLgjHYaEhKFvV4SSvI9Te) | [Taylor Dayne](https://open.spotify.com/artist/32lVGr0fSRGT6okLKHiP68) | [Can't Fight Fate \(Expanded Edition\)](https://open.spotify.com/album/2Zfh05UDjO13pJqtVcr8b9) | 4:37 |
 | 60 | [Crazy for You](https://open.spotify.com/track/6B4oVElDIKRNcNUary0WG7) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration \(double disc version\)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | 3:44 |

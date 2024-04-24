@@ -1,6 +1,6 @@
 {
   "description": "Raza... si dios me castigo con algo fue con dinero, nom\u00e1s pa que sepan AHHHHH JA JA JAAAAA",
-  "num_followers": 27505,
+  "num_followers": 27530,
   "original_name": "XD",
   "owner": {
     "name": "Spotify",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Don Dimadon",
         "url": "https://open.spotify.com/album/3AL6ynr4iZhCbOHO3XzLtA"
       },
@@ -403,26 +423,6 @@
       "duration_ms": 184987,
       "name": "Don Dimadon",
       "url": "https://open.spotify.com/track/1LfsvLFQprosUmrEtGPHAe"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -859,22 +859,18 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Point Em Out (with DaBaby)",
-        "url": "https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew"
+        "name": "Tu Veneno Mortal, Vol. 2",
+        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
       },
       "artists": [
         {
-          "name": "That Mexican OT",
-          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
-        },
-        {
-          "name": "DaBaby",
-          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          "name": "Eslabon Armado",
+          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
         }
       ],
-      "duration_ms": 133983,
-      "name": "Point Em Out (with DaBaby)",
-      "url": "https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf"
+      "duration_ms": 214626,
+      "name": "Regresa Mami",
+      "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -895,18 +891,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
-        "name": "Tu Veneno Mortal, Vol. 2",
-        "url": "https://open.spotify.com/album/3SF8e5ewF7PaqWw6rPnfEg"
+        "name": "Point Em Out (with DaBaby)",
+        "url": "https://open.spotify.com/album/4OokZs4MaEgyCHN35wJtew"
       },
       "artists": [
         {
-          "name": "Eslabon Armado",
-          "url": "https://open.spotify.com/artist/0XeEobZplHxzM9QzFQWLiR"
+          "name": "That Mexican OT",
+          "url": "https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA"
+        },
+        {
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
         }
       ],
-      "duration_ms": 214626,
-      "name": "Regresa Mami",
-      "url": "https://open.spotify.com/track/7bGwqRNetDyNOFDWJN8gvm"
+      "duration_ms": 133983,
+      "name": "Point Em Out (with DaBaby)",
+      "url": "https://open.spotify.com/track/1oaV97SzklGWVLi9LdW4Hf"
     },
     {
       "added_at": "2024-04-19 06:00:00",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-04-19 06:00:00",
       "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
+    },
+    {
+      "added_at": "2024-04-19 06:00:00",
+      "album": {
         "name": "Trapicheo: EL DON",
         "url": "https://open.spotify.com/album/5IgfITgolOnYBRJevWS2GO"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 210816,
       "name": "Tu Si Eres Real",
       "url": "https://open.spotify.com/track/201ssZsPpsLtX96LLGgPwQ"
-    },
-    {
-      "added_at": "2024-04-19 06:00:00",
-      "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
     },
     {
       "added_at": "2024-04-19 06:00:00",

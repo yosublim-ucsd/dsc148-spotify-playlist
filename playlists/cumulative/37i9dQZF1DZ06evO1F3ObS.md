@@ -2,7 +2,7 @@
 
 ### [This Is ReoNa](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1F3ObS)
 
-> This is ReoNa。アーティストの代表曲をひとつのプレイリストに。
+> This is ReoNa\. The essential tracks, all in one playlist.
 
 88 songs - 6 hr 39 min
 

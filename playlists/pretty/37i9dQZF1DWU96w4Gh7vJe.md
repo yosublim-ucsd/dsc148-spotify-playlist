@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 
 > Sit back and relax to our favorite local indie and R&B sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 576,944 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 576,287 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWU96w4Gh7vJe.md) - [plain]
 | 27 | [Mikasa](https://open.spotify.com/track/12TuXwmfjap9XnPVtBHS8B) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22), [Janine Berdin](https://open.spotify.com/artist/4qPhnQfRgdgcZEdXgENOnr) | [Mikasa](https://open.spotify.com/album/4xhKTo8zhVUzDDwsNb9Cdq) | 4:13 |
 | 28 | [Catriona](https://open.spotify.com/track/4YMfE4r1JWADFw2Fn74XW2) | [Matthaios](https://open.spotify.com/artist/1SrWbIDP84JcSDr0oTBAQw) | [Catriona](https://open.spotify.com/album/6epJqGK57I0W0PMN2kyTso) | 3:24 |
 | 29 | [With a Smile \(feat\. Kelly Badon\)](https://open.spotify.com/track/6XmskR1cMfgys1W7dExmgi) | [South Border](https://open.spotify.com/artist/6ZgBJRjJsK1iOJGKGZxEUv), [Kelly Badon](https://open.spotify.com/artist/32pTJUDIqu5vvX5McsyU26) | [Ultraelectromagnetic Jam](https://open.spotify.com/album/7tfDmiKEApFiZmT5MzIN1o) | 4:24 |
-| 30 | [Buko](https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 5:12 |
-| 31 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
+| 30 | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/track/1ER60P43ftVOLaMRvBfpnt) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Don't Know What To Do \(Don't Know What To Say\)](https://open.spotify.com/album/6ZozvLGJfI8IEdQCTeivYc) | 2:47 |
+| 31 | [Buko](https://open.spotify.com/track/5uH5Gl7brNoFCpR9Ds9k94) | [Jireh Lim](https://open.spotify.com/artist/6urxZktbtGcTIIqxQZ1d8q) | [Love And Soul](https://open.spotify.com/album/1e0Tqcfn0eqgFicrFFYNMl) | 5:12 |
 | 32 | [Sabik](https://open.spotify.com/track/6vMDpwwkfsvSIsH6EVOgWz) | [DENȲ](https://open.spotify.com/artist/2Q2uIXpaRSH3Or0oT5nFXR), [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [LOVES7AGE](https://open.spotify.com/album/69ewkNFbekxjGlMyc5kCYQ) | 4:54 |
 | 33 | [Para Sa Akin](https://open.spotify.com/track/0MqkYdGBzHx7lnaFvo7doR) | [Sitti](https://open.spotify.com/artist/0t7vWPRBcVv4xBEHPZHSWA) | [Cafe Bossa](https://open.spotify.com/album/0JPSXvzFg02DSytNE16MSw) | 3:06 |
 | 34 | [Bakit?](https://open.spotify.com/track/1PpuRYoMSWX8CQZDTE1MRV) | [Maki](https://open.spotify.com/artist/6AvnL2gWjNYs1hRVJx4huK) | [Bakit?](https://open.spotify.com/album/4yUpIXYnlsHPTT3mIAzIKI) | 3:14 |

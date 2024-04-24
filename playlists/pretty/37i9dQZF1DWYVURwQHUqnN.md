@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo: Naps
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,079,976 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,079,518 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 6 | [Tiki Taka](https://open.spotify.com/track/0K55ldOka1q2n10pRLSTvs) | [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds), [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Tiki Taka](https://open.spotify.com/album/4343mGadh7SO09UfVRIMTq) | 2:45 |
 | 7 | [No love](https://open.spotify.com/track/1JvMPB1mkcrQsnasBGMBYd) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 3:22 |
 | 8 | [Saga](https://open.spotify.com/track/0Cnw4vb7xbbl6bkUaDcMaJ) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [AD VITAM ÆTERNAM](https://open.spotify.com/album/5nAPqNlNOBzQjLv3JK5zxM) | 3:14 |
-| 9 | [45](https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 3\)](https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan) | 2:56 |
+| 9 | [45](https://open.spotify.com/track/2FJychFhFkGOxKDGg8vBh8) | [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [SUR LE CHEMIN \(Phase 3\)](https://open.spotify.com/album/6yV4ZCSKZNoOJan78YLKan) | 2:54 |
 | 10 | [Seya](https://open.spotify.com/track/5EVY9jwZDhgyLDyNGCGWYh) | [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv), [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Seya](https://open.spotify.com/album/2VJcmi0iisyLekBIgoKKvw) | 3:08 |
 | 11 | [Blue](https://open.spotify.com/track/74Sbxr7GNTQM8RyPEmp9Nq) | [Kaneki](https://open.spotify.com/artist/6y9D9asiDbnfHSZETC6pkZ), [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Naps](https://open.spotify.com/artist/6W5uA6CNMf3hd2j4a2XWCx) | [Blue](https://open.spotify.com/album/029ymf5WOrdIbvXv1EdmSN) | 3:07 |
 | 12 | [Sans Coeur](https://open.spotify.com/track/0F74FBWgkvXjP3V6tRlCx4) | [Shay](https://open.spotify.com/artist/3MNnSV5hDd2UzZzgqD8xlU), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [Sans Coeur](https://open.spotify.com/album/25zx2Wv1z9Xt1Gi15WdFHk) | 2:56 |

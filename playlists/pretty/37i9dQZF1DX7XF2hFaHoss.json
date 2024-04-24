@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Aoife O\u2019Donovan",
-  "num_followers": 151377,
+  "num_followers": 151334,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "This Is What It Feels Like",
-        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
-      },
-      "artists": [
-        {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
-        }
-      ],
-      "duration_ms": 217368,
-      "name": "Rockland",
-      "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "So My Darling (Acoustic)",
         "url": "https://open.spotify.com/album/2FceNexUuKIatc3YFEq08L"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 228922,
       "name": "So My Darling - Acoustic",
       "url": "https://open.spotify.com/track/5NtmfJwkA0AXsp2WWHviPn"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "This Is What It Feels Like",
+        "url": "https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at"
+      },
+      "artists": [
+        {
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+        }
+      ],
+      "duration_ms": 217368,
+      "name": "Rockland",
+      "url": "https://open.spotify.com/track/5V03tsbEzYG0PmRrh3K4rF"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -783,22 +783,6 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "With You - A Sweet Little Love Song Demo",
-        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 154573,
-      "name": "With You - A Sweet Little Love Song Demo",
-      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
         "name": "Queen of Silver Linings",
         "url": "https://open.spotify.com/album/7D92mNHIk4xJf4ydx4fLPS"
       },
@@ -815,18 +799,18 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
-        "name": "Better Now (Acoustic)",
-        "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
+        "name": "With You - A Sweet Little Love Song Demo",
+        "url": "https://open.spotify.com/album/3lQhFqO6d6t4FULaRHSAJJ"
       },
       "artists": [
         {
-          "name": "CLOVES",
-          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 234551,
-      "name": "Better Now - Acoustic",
-      "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
+      "duration_ms": 154573,
+      "name": "With You - A Sweet Little Love Song Demo",
+      "url": "https://open.spotify.com/track/1RbhQxFFJM7QNKALY5JebS"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -843,6 +827,22 @@
       "duration_ms": 254200,
       "name": "Feel Alive Again",
       "url": "https://open.spotify.com/track/2wgCnWW5jtA6aNAJxgcEN2"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
+        "name": "Better Now (Acoustic)",
+        "url": "https://open.spotify.com/album/2kFBZkUYEkrV2LdibnX0tu"
+      },
+      "artists": [
+        {
+          "name": "CLOVES",
+          "url": "https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c"
+        }
+      ],
+      "duration_ms": 234551,
+      "name": "Better Now - Acoustic",
+      "url": "https://open.spotify.com/track/7iqqjQINhAvsNNwXWMU8ga"
     },
     {
       "added_at": "2024-03-08 05:00:00",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-03-08 05:00:00",
       "album": {
+        "name": "Empty Rooms",
+        "url": "https://open.spotify.com/album/4qNykGqmrHXbZj2pBtQxVb"
+      },
+      "artists": [
+        {
+          "name": "Elise Davis",
+          "url": "https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1"
+        }
+      ],
+      "duration_ms": 257532,
+      "name": "Yellow Bed",
+      "url": "https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8"
+    },
+    {
+      "added_at": "2024-03-08 05:00:00",
+      "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/5SEcw1vkEs9avEUReaz6G8"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 203973,
       "name": "Higher (feat. David Rawlings)",
       "url": "https://open.spotify.com/track/1f1HTENF8WaUKEzCH7BNRZ"
-    },
-    {
-      "added_at": "2024-03-08 05:00:00",
-      "album": {
-        "name": "Empty Rooms",
-        "url": "https://open.spotify.com/album/4qNykGqmrHXbZj2pBtQxVb"
-      },
-      "artists": [
-        {
-          "name": "Elise Davis",
-          "url": "https://open.spotify.com/artist/53r8T2Ft90oQgYQPjhsrm1"
-        }
-      ],
-      "duration_ms": 257532,
-      "name": "Yellow Bed",
-      "url": "https://open.spotify.com/track/1zQoOFTtwlEZjUCfRCagm8"
     },
     {
       "added_at": "2024-03-08 05:00:00",

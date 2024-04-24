@@ -1,6 +1,6 @@
 {
   "description": "Remixed pop and <a href=\"spotify:genre:edm_dance\">dance</a> collabs. Cover: Ariana Grande",
-  "num_followers": 3387004,
+  "num_followers": 3384621,
   "original_name": "Pop Remix",
   "owner": {
     "name": "Spotify",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-04-16 16:27:07",
       "album": {
-        "name": "Whatever (The Remixes)",
-        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
-      },
-      "artists": [
-        {
-          "name": "Kygo",
-          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
-    },
-    {
-      "added_at": "2024-04-16 16:27:07",
-      "album": {
         "name": "La Bebe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
       },
@@ -883,22 +863,22 @@
     {
       "added_at": "2024-04-16 16:27:07",
       "album": {
-        "name": "Got Me Started (Bag Raiders Remix)",
-        "url": "https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX"
+        "name": "Whatever (The Remixes)",
+        "url": "https://open.spotify.com/album/4wqObiiJfSvC0W52YG1X0s"
       },
       "artists": [
         {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
         },
         {
-          "name": "Bag Raiders",
-          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 221762,
-      "name": "Got Me Started - Bag Raiders Remix",
-      "url": "https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg"
+      "duration_ms": 165714,
+      "name": "Whatever (with Ava Max) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/2e0Lsi6FfpmjKtdKkaZHuO"
     },
     {
       "added_at": "2024-04-16 16:27:07",
@@ -955,6 +935,26 @@
       "duration_ms": 162540,
       "name": "Rise (Sam Feldt Remix)",
       "url": "https://open.spotify.com/track/2PI3dfxZWkaEpBoCJq56RK"
+    },
+    {
+      "added_at": "2024-04-16 16:27:07",
+      "album": {
+        "name": "Got Me Started (Bag Raiders Remix)",
+        "url": "https://open.spotify.com/album/3LSSfe6q1TZDAr4fYZt3jX"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        },
+        {
+          "name": "Bag Raiders",
+          "url": "https://open.spotify.com/artist/6fXEqmGQEt6ONuqVmwrN46"
+        }
+      ],
+      "duration_ms": 221762,
+      "name": "Got Me Started - Bag Raiders Remix",
+      "url": "https://open.spotify.com/track/3DDLRC6c693OtavNQlFHJg"
     },
     {
       "added_at": "2024-04-16 16:27:07",
@@ -1027,30 +1027,6 @@
     {
       "added_at": "2024-04-16 16:27:07",
       "album": {
-        "name": "Dance Alone (Ofenbach Remix)",
-        "url": "https://open.spotify.com/album/6umwUX0AZ2kh89048ghhL9"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        },
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        },
-        {
-          "name": "Ofenbach",
-          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
-        }
-      ],
-      "duration_ms": 156074,
-      "name": "Dance Alone (Ofenbach Remix)",
-      "url": "https://open.spotify.com/track/2JjuoolLOG0YuJTv2fJuX7"
-    },
-    {
-      "added_at": "2024-04-16 16:27:07",
-      "album": {
         "name": "Moth To A Flame (Adriatique Remix)",
         "url": "https://open.spotify.com/album/0lyIECV269U9MTTCc3gOkC"
       },
@@ -1095,6 +1071,30 @@
       "duration_ms": 172913,
       "name": "Numb - Alok Remix",
       "url": "https://open.spotify.com/track/7nwEab6Y4LXbKUZDNofOag"
+    },
+    {
+      "added_at": "2024-04-16 16:27:07",
+      "album": {
+        "name": "Dance Alone (Ofenbach Remix)",
+        "url": "https://open.spotify.com/album/6umwUX0AZ2kh89048ghhL9"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        },
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "Ofenbach",
+          "url": "https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw"
+        }
+      ],
+      "duration_ms": 156074,
+      "name": "Dance Alone (Ofenbach Remix)",
+      "url": "https://open.spotify.com/track/2JjuoolLOG0YuJTv2fJuX7"
     },
     {
       "added_at": "2024-04-16 16:27:07",
@@ -1223,26 +1223,6 @@
     {
       "added_at": "2024-04-16 16:27:07",
       "album": {
-        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
-      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
-    },
-    {
-      "added_at": "2024-04-16 16:27:07",
-      "album": {
         "name": "One in a Million (Alok Remix)",
         "url": "https://open.spotify.com/album/73bk5G6KNwb6gF1rjBXa4o"
       },
@@ -1263,6 +1243,26 @@
       "duration_ms": 142816,
       "name": "One in a Million - Alok Remix",
       "url": "https://open.spotify.com/track/0nuszfz2u3hjdCDaNhc4m2"
+    },
+    {
+      "added_at": "2024-04-16 16:27:07",
+      "album": {
+        "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+        "url": "https://open.spotify.com/album/2B0PXzy8733OS2TdmU58in"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "2 Be Loved (Am I Ready) [PNAU Remix]",
+      "url": "https://open.spotify.com/track/3rJvr6YpIZTsx32nSDJ26Q"
     },
     {
       "added_at": "2024-04-16 16:27:07",
@@ -1331,6 +1331,26 @@
     {
       "added_at": "2024-04-16 16:27:07",
       "album": {
+        "name": "Head Underwater (James Carter Remix)",
+        "url": "https://open.spotify.com/album/4JOoZ1ckKAFgIj1oCJgHvv"
+      },
+      "artists": [
+        {
+          "name": "Tom Walker",
+          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+        },
+        {
+          "name": "James Carter",
+          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+        }
+      ],
+      "duration_ms": 153559,
+      "name": "Head Underwater - James Carter Remix",
+      "url": "https://open.spotify.com/track/5mNOhqvMV2Hj77yYO07gGS"
+    },
+    {
+      "added_at": "2024-04-16 16:27:07",
+      "album": {
         "name": "CAN'T TOUCH THIS (R3HAB Remix)",
         "url": "https://open.spotify.com/album/1amOzRWbywWaYwBzIWTVuC"
       },
@@ -1347,30 +1367,6 @@
       "duration_ms": 123214,
       "name": "CAN'T TOUCH THIS - R3HAB Remix",
       "url": "https://open.spotify.com/track/2m4k5snVJgpZ7yPYKnw1Wm"
-    },
-    {
-      "added_at": "2024-04-16 16:27:07",
-      "album": {
-        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
-        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
-      },
-      "artists": [
-        {
-          "name": "MEDUZA",
-          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
-        },
-        {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-        },
-        {
-          "name": "Ti\u00ebsto",
-          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
-        }
-      ],
-      "duration_ms": 175312,
-      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
-      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
     },
     {
       "added_at": "2024-04-16 16:27:07",
@@ -1395,22 +1391,26 @@
     {
       "added_at": "2024-04-16 16:27:07",
       "album": {
-        "name": "Head Underwater (James Carter Remix)",
-        "url": "https://open.spotify.com/album/4JOoZ1ckKAFgIj1oCJgHvv"
+        "name": "Tell It To My Heart (Ti\u00ebsto Remix)",
+        "url": "https://open.spotify.com/album/7AodWtZlBa8wXffasz7E30"
       },
       "artists": [
         {
-          "name": "Tom Walker",
-          "url": "https://open.spotify.com/artist/7z2avKuuiMAT4XZJFv8Rvh"
+          "name": "MEDUZA",
+          "url": "https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu"
         },
         {
-          "name": "James Carter",
-          "url": "https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        },
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 153559,
-      "name": "Head Underwater - James Carter Remix",
-      "url": "https://open.spotify.com/track/5mNOhqvMV2Hj77yYO07gGS"
+      "duration_ms": 175312,
+      "name": "Tell It To My Heart (feat. Hozier) - Ti\u00ebsto Remix",
+      "url": "https://open.spotify.com/track/4bL0sCjnM6a1rKoBIHJYxI"
     },
     {
       "added_at": "2024-04-16 16:27:07",

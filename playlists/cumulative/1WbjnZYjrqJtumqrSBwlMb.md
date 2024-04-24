@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-876 songs - 2 day 5 hr 54 min
+877 songs - 2 day 5 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -331,6 +331,7 @@
 | [Hello You](https://open.spotify.com/track/5ygEUpyZy5qtZ1423zymBW) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:04 | 2022-10-20 |  |
 | [Helmet](https://open.spotify.com/track/0DmkBOGgEWMbUJlL6VwwF2) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [Gemini Rights](https://open.spotify.com/album/3Ks0eeH0GWpY4AU20D5HPD) | 3:21 | 2022-09-11 |  |
 | [Here We Go… Again \(feat\. Tyler, the Creator\)](https://open.spotify.com/track/1NhjYYcYTRywc0di98xHxf) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:29 | 2022-01-15 |  |
+| [Here With Me](https://open.spotify.com/track/5LrN7yUQAzvthd4QujgPFr) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [Petals to Thorns](https://open.spotify.com/album/3rrrTOHiXGzuW4FP7t0O1A) | 4:02 | 2024-04-23 |  |
 | [HERMANOS](https://open.spotify.com/track/4BFteJu5Hv7XStDXghJbQ7) | [JPEGMAFIA](https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO), [Danny Brown](https://open.spotify.com/artist/7aA592KWirLsnfb5ulGWvU) | [SCARING THE HOES: DLC PACK](https://open.spotify.com/album/20KXgVL9yHtkk6Its2bmpO) | 4:25 | 2023-07-11 |  |
 | [hesitation](https://open.spotify.com/track/1QwYL1JmXingJ2UQeLEeBH) | [Andrew Garden](https://open.spotify.com/artist/52edEK1d76neXRL7odUZwi) | [hesitation](https://open.spotify.com/album/2O1vUJU8wqdnoUDOUdllIi) | 2:57 | 2022-04-07 |  |
 | [High For This](https://open.spotify.com/track/2ye9iWj5V4g6k6HFeTTAKa) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [House Of Balloons \(Original\)](https://open.spotify.com/album/7zCODUHkfuRxsUjtuzNqbd) | 4:09 | 2022-12-17 |  |

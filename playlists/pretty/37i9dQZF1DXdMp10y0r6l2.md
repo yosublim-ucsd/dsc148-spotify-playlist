@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 
 > El infierno hecho ruido\. Bienvenido al culto de La Bestia\. Takeover: Bruce Dickinson
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,468 likes - 59 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,366 likes - 59 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 24 | [Seven Seas Of Rhye \- Remastered 2011](https://open.spotify.com/track/1IhLUUzMxDDJ9pzfT95exy) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Queen II \(Deluxe Edition 2011 Remaster\)](https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP) | 2:48 |
 | 25 | [School's Out](https://open.spotify.com/track/5Z8EDau8uNcP1E8JvmfkZe) | [Alice Cooper](https://open.spotify.com/artist/3EhbVgyfGd7HkpsagwL9GS) | [School's Out](https://open.spotify.com/album/0zKjnOsXxs63unPR6TWoHq) | 3:30 |
 | 26 | [5:15](https://open.spotify.com/track/73awNm2nHlTkUilOkrk7MR) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [Quadrophenia](https://open.spotify.com/album/3JV6BIIXo3mj6GLIGH9p8a) | 4:59 |
-| 27 | [Tears of the Dragon \(2001 Remaster\)](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 |
+| 27 | [Tears of the Dragon \- 2001 Remaster](https://open.spotify.com/track/3EiQGaaHMHFk5ykD1a7vYt) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [Balls to Picasso \(2001 Remaster\)](https://open.spotify.com/album/2AKNnewiklMkna3HbigH5X) | 6:24 |
 | 28 | [747 \(Strangers in the Night\) \(2009 \- Remaster\)](https://open.spotify.com/track/46WKQbgvgnSDlP0SqbJnBB) | [Saxon](https://open.spotify.com/artist/71vVmHeNgCVSa5SVmfvscU) | [Wheels of Steel \(2009 \- Remaster\)](https://open.spotify.com/album/458ITDzXtWicHaaSnZ8AmO) | 4:58 |
 | 29 | [Walking In The Shadow Of The Blues \- Live](https://open.spotify.com/track/2rN3npM96Ab8c2WYPzIvhX) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [Live \- In The Shadow of The Blues](https://open.spotify.com/album/4i3uno6IcLI0FJi2yzi2v3) | 5:10 |
 | 30 | [Ride On](https://open.spotify.com/track/594ONMYoHlJnqHPEx98t08) | [AC/DC](https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un) | [Dirty Deeds Done Dirt Cheap](https://open.spotify.com/album/76mvVgXOde87B9aOzLXCOI) | 5:50 |
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 36 | [Who Wants To Live Forever \- Remastered 2011](https://open.spotify.com/track/3SGP8It5WDnCONyApJKRTJ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Greatest Hits II \(Remastered\)](https://open.spotify.com/album/1uG9cIT7IRuq9NqFvKFUsI) | 4:55 |
 | 37 | [Fanfare for the Common Man \(2017 \- Remaster\)](https://open.spotify.com/track/3Emtq2nx51RSRuarZFvauq) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Works, Vol\. 1 \(2017 \- Remaster\)](https://open.spotify.com/album/6SqgkL5caDG5qo1JNI7Iec) | 9:44 |
 | 38 | [Dazed and Confused \- 1990 Remaster](https://open.spotify.com/track/6hu1f1cXSw7OAqhpSQ2zDy) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Led Zeppelin](https://open.spotify.com/album/3ycjBixZf7S3WpC5WZhhUK) | 6:26 |
-| 39 | [The Alchemist \(2001 Remaster\)](https://open.spotify.com/track/4wtVgSUYJQCbcEMw2j5mSW) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 6:03 |
+| 39 | [The Alchemist \- 2001 Remaster](https://open.spotify.com/track/4wtVgSUYJQCbcEMw2j5mSW) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 6:03 |
 | 40 | [N.I.B.](https://open.spotify.com/track/2SjFLrJMRB1dfPC6LyVTdy) | [Black Sabbath](https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ) | [The Ultimate Collection](https://open.spotify.com/album/60LVewOQwluam8vtf7vg6n) | 6:04 |
 | 41 | [Deutschland](https://open.spotify.com/track/2bPGTMB5sFfFYQ2YvSmup0) | [Rammstein](https://open.spotify.com/artist/6wWVKhxIU2cEi0K81v7HvP) | [Rammstein](https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek) | 5:22 |
 | 42 | [Dust in the Wind](https://open.spotify.com/track/6zeE5tKyr8Nu882DQhhSQI) | [Kansas](https://open.spotify.com/artist/2hl0xAkS2AIRAu23TVMBG1) | [Point Of Know Return \(Expanded Edition\)](https://open.spotify.com/album/6oU298pdPTCQnMx1PYwyUA) | 3:26 |
@@ -66,6 +66,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdMp10y0r6l2.md) - [plain]
 | 56 | [Jesus Christ Pose \- Remastered](https://open.spotify.com/track/2UoHjfejHhemj0KSWCOV2A) | [Soundgarden](https://open.spotify.com/artist/5xUf6j4upBrXZPg6AI4MRK) | [Badmotorfinger \(25th Anniversary Remaster\)](https://open.spotify.com/album/2W6MaUiInBkna5DfBES4E3) | 5:51 |
 | 57 | [Soldier of Fortune \- 2023 Remix](https://open.spotify.com/track/3Aki4Iz8BWnt6QvCkrAfLZ) | [Whitesnake](https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP) | [The Purple Album: Special Gold Edition](https://open.spotify.com/album/4TUGvvvuiUmlIYzoBdCZJt) | 3:21 |
 | 58 | [Earth Mother](https://open.spotify.com/track/764F5dyelTQhL8TwWkl5Fj) | [Samson](https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7) | [Survivors / Head on / Head on \(Tony Platt Alternative Mix\) / Shock Tactics / Live at Reading](https://open.spotify.com/album/3MCcIeFltmMGTqP4NdsyNO) | 4:40 |
-| 59 | [Chemical Wedding \(2001 Remaster\)](https://open.spotify.com/track/4rHBxp5ss7VnYrEo5m3Cfg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 4:06 |
+| 59 | [Chemical Wedding \- 2001 Remaster](https://open.spotify.com/track/4rHBxp5ss7VnYrEo5m3Cfg) | [Bruce Dickinson](https://open.spotify.com/artist/7Iffw1nP3NjCWkRIx3Ily9) | [The Chemical Wedding](https://open.spotify.com/album/0ixzPRuTcEmvftZdRRG4t5) | 4:06 |
 
 Snapshot ID: `MTcxMTM2MDYyNywwMDAwMDAwMGI2YWQ3ZmVmNzg4YzhhZWJhZjI1YTU1NTYyMmZkZTg2`

@@ -1,6 +1,6 @@
 {
   "description": "The tracks sticking us together.",
-  "num_followers": 10531,
+  "num_followers": 10697,
   "original_name": "Family Glue",
   "owner": {
     "name": "Spotify",
@@ -27,22 +27,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Parachutes",
-        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 266773,
-      "name": "Yellow",
-      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "I Love You.",
         "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
       },
@@ -59,18 +43,34 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Songs From The Big Chair (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
+        "name": "Parachutes",
+        "url": "https://open.spotify.com/album/6ZG5lRT77aJ3btmArcykra"
       },
       "artists": [
         {
-          "name": "Tears For Fears",
-          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
         }
       ],
-      "duration_ms": 251488,
-      "name": "Everybody Wants To Rule The World",
-      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
+      "duration_ms": 266773,
+      "name": "Yellow",
+      "url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "FOUR (Deluxe)",
+        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+      },
+      "artists": [
+        {
+          "name": "One Direction",
+          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+        }
+      ],
+      "duration_ms": 226600,
+      "name": "Night Changes",
+      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -91,18 +91,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "FOUR (Deluxe)",
-        "url": "https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY"
+        "name": "Songs From The Big Chair (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3myPwaMYjdwhtq0nFgeG6W"
       },
       "artists": [
         {
-          "name": "One Direction",
-          "url": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
         }
       ],
-      "duration_ms": 226600,
-      "name": "Night Changes",
-      "url": "https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ"
+      "duration_ms": 251488,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -387,22 +387,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "In The Lonely Hour",
-        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        }
-      ],
-      "duration_ms": 239316,
-      "name": "I'm Not The Only One",
-      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Whitney",
         "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
@@ -415,6 +399,22 @@
       "duration_ms": 291293,
       "name": "I Wanna Dance with Somebody (Who Loves Me)",
       "url": "https://open.spotify.com/track/2tUBqZG2AbRi7Q0BIrVrEj"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "In The Lonely Hour",
+        "url": "https://open.spotify.com/album/08jWgM4vSkTose4blKBWov"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 239316,
+      "name": "I'm Not The Only One",
+      "url": "https://open.spotify.com/track/7795WJLVKJoAyVoOtCWqXN"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -499,22 +499,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Beauty Behind The Madness",
-        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        }
-      ],
-      "duration_ms": 213520,
-      "name": "Can't Feel My Face",
-      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "She's So Unusual",
         "url": "https://open.spotify.com/album/1FvdZ1oizXwF9bxogujoF0"
       },
@@ -527,6 +511,22 @@
       "duration_ms": 241333,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/7o9uu2GDtVDr9nsR7ZRN73"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Beauty Behind The Madness",
+        "url": "https://open.spotify.com/album/0P3oVJBFOv3TDXlYRhGL7s"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "duration_ms": 213520,
+      "name": "Can't Feel My Face",
+      "url": "https://open.spotify.com/track/22VdIZQfgXJea34mQxlt81"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Songs About Jane: 10th Anniversary Edition",
-        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 259453,
-      "name": "She Will Be Loved - Radio Mix",
-      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "G I R L",
         "url": "https://open.spotify.com/album/0lrmy4pJINsFzycJvttX2W"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 232720,
       "name": "Happy - From \"Despicable Me 2\"",
       "url": "https://open.spotify.com/track/60nZcImufyMA1MKQY3dcCH"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Songs About Jane: 10th Anniversary Edition",
+        "url": "https://open.spotify.com/album/5zClcGCSWj926AMjvBNSLc"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 259453,
+      "name": "She Will Be Loved - Radio Mix",
+      "url": "https://open.spotify.com/track/4llK75pXNWZz6KAho2Gp16"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "V",
-        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
-      },
-      "artists": [
-        {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
-        }
-      ],
-      "duration_ms": 235493,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "California 37",
         "url": "https://open.spotify.com/album/5zseibu9WEsPaZmkJUMkz1"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 195973,
       "name": "Drive By",
       "url": "https://open.spotify.com/track/0KAiuUOrLTIkzkpfpn9jb9"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "V",
+        "url": "https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 235493,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/2iuZJX9X9P0GKaE93xcPjk"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -775,22 +775,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Tattoo You (2009 Re-Mastered)",
-        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
-      },
-      "artists": [
-        {
-          "name": "The Rolling Stones",
-          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
-        }
-      ],
-      "duration_ms": 213066,
-      "name": "Start Me Up - Remastered 2009",
-      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Outlandos D'Amour (Remastered 2003)",
         "url": "https://open.spotify.com/album/1H9g6j4Wwj6wh6p8YHVtkf"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 191946,
       "name": "Roxanne",
       "url": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Tattoo You (2009 Re-Mastered)",
+        "url": "https://open.spotify.com/album/15XNBzVWARPMlu0sEbfBjJ"
+      },
+      "artists": [
+        {
+          "name": "The Rolling Stones",
+          "url": "https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe"
+        }
+      ],
+      "duration_ms": 213066,
+      "name": "Start Me Up - Remastered 2009",
+      "url": "https://open.spotify.com/track/7HKez549fwJQDzx3zLjHKC"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1063,18 +1063,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Dare!",
-        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
       },
       "artists": [
         {
-          "name": "The Human League",
-          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
         }
       ],
-      "duration_ms": 236920,
-      "name": "Don't You Want Me",
-      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+        "name": "Dare!",
+        "url": "https://open.spotify.com/album/3ls7tE9D2SIvjTmRuEtsQY"
       },
       "artists": [
         {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+          "name": "The Human League",
+          "url": "https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG"
         }
       ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
+      "duration_ms": 236920,
+      "name": "Don't You Want Me",
+      "url": "https://open.spotify.com/track/3L7RtEcu1Hw3OXrpnthngx"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1235,6 +1235,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Discovery",
+        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
+      },
+      "artists": [
+        {
+          "name": "Electric Light Orchestra",
+          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
+        }
+      ],
+      "duration_ms": 243373,
+      "name": "Don't Bring Me Down",
+      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "More Than Just a Dream (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3IWUFJCM3CvCCQIHQ4vtRK"
       },
@@ -1263,22 +1279,6 @@
       "duration_ms": 265173,
       "name": "Beast Of Burden - Remastered 1994",
       "url": "https://open.spotify.com/track/77oU2rjC5XbjQfNe3bD6so"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Discovery",
-        "url": "https://open.spotify.com/album/1CvVSn2MtKDBR6aWMkNkem"
-      },
-      "artists": [
-        {
-          "name": "Electric Light Orchestra",
-          "url": "https://open.spotify.com/artist/7jefIIksOi1EazgRTfW2Pk"
-        }
-      ],
-      "duration_ms": 243373,
-      "name": "Don't Bring Me Down",
-      "url": "https://open.spotify.com/track/72ahyckBJfTigJCFCviVN7"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Greatest",
-        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 212253,
-      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
-      "url": "https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Get Born",
         "url": "https://open.spotify.com/album/6NrLpQCPYrNS3kVWxDgIlg"
       },
@@ -1375,6 +1359,22 @@
       "duration_ms": 251840,
       "name": "Dog Days Are Over",
       "url": "https://open.spotify.com/track/1YLJVmuzeM2YSUkCCaTNUB"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Greatest",
+        "url": "https://open.spotify.com/album/5YHZaCxCuuK81h4Fimb9rT"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 212253,
+      "name": "Night Fever - From \"Saturday Night Fever\" Soundtrack",
+      "url": "https://open.spotify.com/track/5KgbyD2lQQlIupAaPjgiXg"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1491,22 +1491,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Goodbye Yellow Brick Road (Remastered)",
-        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 322548,
-      "name": "Bennie And The Jets - Remastered 2014",
-      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "TROLLS (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/65ayND23IInUPHJKsaAqe7"
       },
@@ -1519,6 +1503,22 @@
       "duration_ms": 237546,
       "name": "CAN'T STOP THE FEELING! (from DreamWorks Animation's \"TROLLS\")",
       "url": "https://open.spotify.com/track/1WkMMavIMc4JZ8cfMmxHkI"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Goodbye Yellow Brick Road (Remastered)",
+        "url": "https://open.spotify.com/album/5WupqgR68HfuHt3BMJtgun"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 322548,
+      "name": "Bennie And The Jets - Remastered 2014",
+      "url": "https://open.spotify.com/track/5Wj1rJnCLpMHdLaxsFtJLs"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 186440,
+      "name": "Tears Dry On Their Own",
+      "url": "https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "American Fool",
         "url": "https://open.spotify.com/album/4gouGcdQn9OvjX42xnWrF0"
       },
@@ -1571,18 +1587,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+        "name": "Don't Shoot Me I'm Only The Piano Player",
+        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
       },
       "artists": [
         {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
         }
       ],
-      "duration_ms": 186440,
-      "name": "Tears Dry On Their Own",
-      "url": "https://open.spotify.com/track/7MDfN1ldfTMtuXXdVz2Pzc"
+      "duration_ms": 235440,
+      "name": "Crocodile Rock",
+      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1619,6 +1635,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Back To Black (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
+      },
+      "artists": [
+        {
+          "name": "Amy Winehouse",
+          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
+        }
+      ],
+      "duration_ms": 257186,
+      "name": "You Know I'm No Good",
+      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "Speak and Spell (Deluxe)",
         "url": "https://open.spotify.com/album/0Zp2eVzR9FW6lKX05lRpcu"
       },
@@ -1631,22 +1663,6 @@
       "duration_ms": 220893,
       "name": "Just Can't Get Enough",
       "url": "https://open.spotify.com/track/0qi4b1l0eT3jpzeNHeFXDT"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Don't Shoot Me I'm Only The Piano Player",
-        "url": "https://open.spotify.com/album/1reJ8DttK5EGwdyf7y9FBR"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 235440,
-      "name": "Crocodile Rock",
-      "url": "https://open.spotify.com/track/6WCeFNVAXUtNczb7lqLiZU"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1667,22 +1683,6 @@
       "duration_ms": 228267,
       "name": "Higher Love",
       "url": "https://open.spotify.com/track/6oJ6le65B3SEqPwMRNXWjY"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Back To Black (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0E4xv5gPjykrwBgBZzI8XG"
-      },
-      "artists": [
-        {
-          "name": "Amy Winehouse",
-          "url": "https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR"
-        }
-      ],
-      "duration_ms": 257186,
-      "name": "You Know I'm No Good",
-      "url": "https://open.spotify.com/track/0DMRKqrpd0QO4RWiEdMib0"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Never Too Much",
-        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Never Too Much",
-      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Barefoot Blue Jean Night",
         "url": "https://open.spotify.com/album/4GeJssW5iLOSLOIXhLfOUJ"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 167426,
       "name": "Barefoot Blue Jean Night",
       "url": "https://open.spotify.com/track/3ts6xK5GzfMAAriT9AIBmP"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Never Too Much",
+        "url": "https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Never Too Much",
+      "url": "https://open.spotify.com/track/3nFJbZCHP4d9vduKjJLdBL"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2175,22 +2175,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Shake Your Money Maker",
-        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
-      },
-      "artists": [
-        {
-          "name": "The Black Crowes",
-          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
-        }
-      ],
-      "duration_ms": 188066,
-      "name": "Hard To Handle",
-      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Show Me Love",
         "url": "https://open.spotify.com/album/2xpjgSvZVYjzdlWxeAJFy8"
       },
@@ -2203,6 +2187,22 @@
       "duration_ms": 252106,
       "name": "Show Me Love",
       "url": "https://open.spotify.com/track/4t0UsYzmmmZRMTWn77jiGF"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Shake Your Money Maker",
+        "url": "https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3"
+      },
+      "artists": [
+        {
+          "name": "The Black Crowes",
+          "url": "https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC"
+        }
+      ],
+      "duration_ms": 188066,
+      "name": "Hard To Handle",
+      "url": "https://open.spotify.com/track/05NYcsjJwOYq4jIiKPVj9p"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2367,6 +2367,22 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
+        "name": "Let's Dance (2018 Remaster)",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ],
+      "duration_ms": 288339,
+      "name": "Modern Love - 2018 Remaster",
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
         "name": "Higher And Higher",
         "url": "https://open.spotify.com/album/4OgYmImCWz3VK7At9GTWHN"
       },
@@ -2383,18 +2399,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Let's Dance (2018 Remaster)",
-        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+        "name": "Harvest Moon",
+        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
       },
       "artists": [
         {
-          "name": "David Bowie",
-          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
         }
       ],
-      "duration_ms": 288339,
-      "name": "Modern Love - 2018 Remaster",
-      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5"
+      "duration_ms": 303213,
+      "name": "Harvest Moon",
+      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2427,22 +2443,6 @@
       "duration_ms": 219466,
       "name": "I'm Gonna Be (500 Miles)",
       "url": "https://open.spotify.com/track/66S14BkJDxgkYxLl5DCqOz"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
-        "name": "Harvest Moon",
-        "url": "https://open.spotify.com/album/0tdm853TNWjVVChbJRbu3Q"
-      },
-      "artists": [
-        {
-          "name": "Neil Young",
-          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
-        }
-      ],
-      "duration_ms": 303213,
-      "name": "Harvest Moon",
-      "url": "https://open.spotify.com/track/5l9c6bJmzvftumhz4TMPgk"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2495,22 +2495,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "We Are Family (1995 Remaster)",
-        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
-      },
-      "artists": [
-        {
-          "name": "Sister Sledge",
-          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
-        }
-      ],
-      "duration_ms": 216733,
-      "name": "We Are Family - 1995 Remaster",
-      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Speakerboxxx/The Love Below",
         "url": "https://open.spotify.com/album/1UsmQ3bpJTyK6ygoOOjG1r"
       },
@@ -2543,6 +2527,22 @@
       "duration_ms": 271333,
       "name": "Me and Bobby McGee",
       "url": "https://open.spotify.com/track/1IqFh00G2kvvMm8pRMpehA"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "We Are Family (1995 Remaster)",
+        "url": "https://open.spotify.com/album/4GSidaoqyGNwaG5mNKmuLT"
+      },
+      "artists": [
+        {
+          "name": "Sister Sledge",
+          "url": "https://open.spotify.com/artist/6gkWznnJkdkwRPVcmnrays"
+        }
+      ],
+      "duration_ms": 216733,
+      "name": "We Are Family - 1995 Remaster",
+      "url": "https://open.spotify.com/track/5IKLwqBQG6KU6MP2zP80Nu"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2771,22 +2771,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 221093,
-      "name": "Hold Up",
-      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Gossip In The Grain",
         "url": "https://open.spotify.com/album/2CbLBSlkvh2vR4JRLDRQso"
       },
@@ -2799,6 +2783,22 @@
       "duration_ms": 231840,
       "name": "You Are the Best Thing",
       "url": "https://open.spotify.com/track/1jyddn36UN4tVsJGtaJfem"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 221093,
+      "name": "Hold Up",
+      "url": "https://open.spotify.com/track/0rzNMzZsubFcXSEh7dnem7"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -2967,22 +2967,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Commodores",
-        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
-      },
-      "artists": [
-        {
-          "name": "Commodores",
-          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
-        }
-      ],
-      "duration_ms": 208893,
-      "name": "Brick House",
-      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "This Is How We Do It",
         "url": "https://open.spotify.com/album/4GZFWGyRE8SfRw8wEu3WoL"
       },
@@ -2999,6 +2983,22 @@
       "duration_ms": 238800,
       "name": "This Is How We Do It",
       "url": "https://open.spotify.com/track/6uQKuonTU8VKBz5SHZuQXD"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Commodores",
+        "url": "https://open.spotify.com/album/2tzbNCAUTmW4MIM2Ulvrwl"
+      },
+      "artists": [
+        {
+          "name": "Commodores",
+          "url": "https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm"
+        }
+      ],
+      "duration_ms": 208893,
+      "name": "Brick House",
+      "url": "https://open.spotify.com/track/5VJjhHyG8NZ5xdgG6uTb3P"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3135,22 +3135,6 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Rubber Soul (Remastered)",
-        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 148893,
-      "name": "Drive My Car - Remastered 2009",
-      "url": "https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91"
-    },
-    {
-      "added_at": "2021-08-31 00:52:34",
-      "album": {
         "name": "Around the World in a Day",
         "url": "https://open.spotify.com/album/5FbrTPPlaNSOsChhKUZxcu"
       },
@@ -3163,6 +3147,22 @@
       "duration_ms": 215173,
       "name": "Raspberry Beret",
       "url": "https://open.spotify.com/track/5jSz894ljfWE0IcHBSM39i"
+    },
+    {
+      "added_at": "2021-08-31 00:52:34",
+      "album": {
+        "name": "Rubber Soul (Remastered)",
+        "url": "https://open.spotify.com/album/50o7kf2wLwVmOTVYJOTplm"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 148893,
+      "name": "Drive My Car - Remastered 2009",
+      "url": "https://open.spotify.com/track/06ypiqmILMdVeaiErMFA91"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3263,18 +3263,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "The Essential Daryl Hall & John Oates",
-        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
+        "name": "Beatles For Sale (Remastered)",
+        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
       },
       "artists": [
         {
-          "name": "Daryl Hall & John Oates",
-          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
         }
       ],
-      "duration_ms": 144333,
-      "name": "Rich Girl",
-      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
+      "duration_ms": 163600,
+      "name": "Eight Days A Week - Remastered 2009",
+      "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
     },
     {
       "added_at": "2021-08-31 00:52:34",
@@ -3295,18 +3295,18 @@
     {
       "added_at": "2021-08-31 00:52:34",
       "album": {
-        "name": "Beatles For Sale (Remastered)",
-        "url": "https://open.spotify.com/album/1vANZV20H5B4Fk6yf7Ot9a"
+        "name": "The Essential Daryl Hall & John Oates",
+        "url": "https://open.spotify.com/album/0gCDvloPR42pZRZhmbGYVI"
       },
       "artists": [
         {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+          "name": "Daryl Hall & John Oates",
+          "url": "https://open.spotify.com/artist/77tT1kLj6mCWtFNqiOmP9H"
         }
       ],
-      "duration_ms": 163600,
-      "name": "Eight Days A Week - Remastered 2009",
-      "url": "https://open.spotify.com/track/1Dg4dFJr3HW7sbA7vPejre"
+      "duration_ms": 144333,
+      "name": "Rich Girl",
+      "url": "https://open.spotify.com/track/5E3P9e1hvjyIOlFyqNB5eD"
     }
   ],
   "unique_name": "Family Glue",

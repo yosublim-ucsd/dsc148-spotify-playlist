@@ -2,7 +2,7 @@
 
 ### [This Is Manu Dibango](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1JZBOa)
 
-> This is Manu Dibango\. The essential tracks, all in one playlist.
+> This Is Manu Dibango\. Los temas esenciales, todos en una lista.
 
 138 songs - 10 hr 27 min
 
@@ -24,9 +24,9 @@
 | [Angola](https://open.spotify.com/track/0Oqm0L0kG0TIQ5ncBMGDyP) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 4:26 | 2022-02-19 | 2022-02-21 |
 | [Ba\-Kuba](https://open.spotify.com/track/0F7SrgvWE55PgFxxsUe96v) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [African Voodoo](https://open.spotify.com/album/7MBGe4Yu7W0TTAgm8bzah1) | 3:53 | 2021-12-28 | 2022-11-27 |
 | [Baobab Sunset](https://open.spotify.com/track/4TDKAGpQ975zwKU6U75oX5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu Dibango Anthology](https://open.spotify.com/album/4WDsHhoLJTSGVAt7ydCoPN) | 6:55 | 2021-12-28 | 2022-10-13 |
-| [Bayam Sell'Am](https://open.spotify.com/track/2t0c9foU1L4kNsNSK5zBWF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afrovision](https://open.spotify.com/album/2VS5qtVnp4Ce0U8Klil9cL) | 5:53 | 2024-04-23 |  |
+| [Bayam Sell'Am](https://open.spotify.com/track/2t0c9foU1L4kNsNSK5zBWF) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afrovision](https://open.spotify.com/album/2VS5qtVnp4Ce0U8Klil9cL) | 5:53 | 2024-04-23 | 2024-04-24 |
 | [Besoka on Salsa](https://open.spotify.com/track/1R7OaZSi8gazDJnjBWUXK5) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Manu 76](https://open.spotify.com/album/0Dw4vJzTx70RTxa8d7NXiJ) | 7:37 | 2021-12-28 |  |
-| [Bessoka \- Version courte](https://open.spotify.com/track/6iJvaERQxKK0ci0zv3jqTH) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [B Sides](https://open.spotify.com/album/1D7rUTXW9MV3ymf7tUDgD5) | 3:26 | 2024-01-07 | 2024-04-23 |
+| [Bessoka \- Version courte](https://open.spotify.com/track/6iJvaERQxKK0ci0zv3jqTH) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [B Sides](https://open.spotify.com/album/1D7rUTXW9MV3ymf7tUDgD5) | 3:26 | 2024-01-07 |  |
 | [Bessoka \- Version courte](https://open.spotify.com/track/0vl2pa6k6kBZa0LNRC9ufl) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Afro\-Soul Machine](https://open.spotify.com/album/1yRSGm5kcA6QJhiGNeTio4) | 3:28 | 2021-12-28 | 2024-01-03 |
 | [Big Blow](https://open.spotify.com/track/7McyuC2aBOHuISZDaV5vNK) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW) | [Seventie's](https://open.spotify.com/album/4bFS2cSFPn02EBXo5yu9fP) | 5:45 | 2021-12-28 |  |
 | [Biko \(feat\. Alex Brown, Peter Gabriel, Ladysmith Black Mambazo & Geoffrey Oryema\)](https://open.spotify.com/track/5PlwfYLmedp2BPxf0oGy8x) | [Manu Dibango](https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW), [Alex Brown](https://open.spotify.com/artist/1BG2BiAu02wXrhuMkEMxDM), [Peter Gabriel](https://open.spotify.com/artist/7C4sUpWGlTy7IANjruj02I), [Ladysmith Black Mambazo](https://open.spotify.com/artist/3FdLhnmXynPvZkbILPpB6d), [Geoffrey Oryema](https://open.spotify.com/artist/4JzBPiRKBOG8U0jef4M60l) | [Wakafrika](https://open.spotify.com/album/0HFQkFxNEhRA91aRyqGmCC) | 5:08 | 2022-01-01 |  |

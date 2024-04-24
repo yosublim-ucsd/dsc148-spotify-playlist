@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/2ZVouz4dTMifmRDJLVfySB?si=23DKVGDdQx2UwAtMSwcAWA">Prime Circle</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,795 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,814 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 21 | [Dis 'N Land](https://open.spotify.com/track/0roieQC2tOtmF2oEme5rSV) | [Van Coke Kartel](https://open.spotify.com/artist/256RIQ6zTG7LTrRlAxB5xw) | [Wie's Bang](https://open.spotify.com/album/5pmX2N8DT69U8hCEfBERp2) | 3:32 |
 | 22 | [Afrikaners Is Plesierig](https://open.spotify.com/track/3GHN9QEIr3mYiGRmtleNvc) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Ultimate Zoid](https://open.spotify.com/album/6umebim7hsEZeR3DfsWmpX) | 3:44 |
 | 23 | [Ten Seconds](https://open.spotify.com/track/7D9KPaGWVYgKVICbKaBsoi) | [Cutting Jade](https://open.spotify.com/artist/22MjeBWM1RMBsMKMYl3aSr) | [Between Two Lives](https://open.spotify.com/album/48QZU5VRCZTlFDstYCT8eJ) | 3:32 |
-| 24 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
-| 25 | [Hoop \(In Die Donker\)](https://open.spotify.com/track/0rewZ2OgrKpqifSqioVWs8) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Hoop \(In Die Donker\)](https://open.spotify.com/album/4z2lEEAcjmXoZR5CpQ0T5W) | 2:57 |
+| 24 | [Hoop \(In Die Donker\)](https://open.spotify.com/track/0rewZ2OgrKpqifSqioVWs8) | [Jammer](https://open.spotify.com/artist/4fFAhBaPkNqlELaWEY9jHf) | [Hoop \(In Die Donker\)](https://open.spotify.com/album/4z2lEEAcjmXoZR5CpQ0T5W) | 2:57 |
+| 25 | [Dans Deur Die Donker](https://open.spotify.com/track/7qJBfedTGqxSzdqSuBfrW6) | [Fokofpolisiekar](https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x) | [Dans Deur Die Donker](https://open.spotify.com/album/63sTwGlgIvUrLTz5ZimooE) | 3:02 |
 | 26 | [Hey Mister](https://open.spotify.com/track/6WYfKDuPFNiKS36G4FqRv8) | [Henry Ate](https://open.spotify.com/artist/54wEBpZEvBl4YK94yhCkvn) | [96\-03 The Singles](https://open.spotify.com/album/5bYKIrlRp4F2CIVcG9MgyO) | 3:13 |
 | 27 | [Knip die Tou](https://open.spotify.com/track/40rNFyake81tsu8uqGhGRl) | [Tian Nienaber](https://open.spotify.com/artist/3nVhBs9i3aMlljbb6pOUpf) | [Knip die Tou](https://open.spotify.com/album/20AWF6lGGsHmxNfQsYUB9G) | 3:38 |
 | 28 | [The Knife](https://open.spotify.com/track/7khXO8XOnhXVgoTVftybJf) | [Zebra & Giraffe](https://open.spotify.com/artist/42snysjS5m2BFhECXLfBEd) | [Collected Memories](https://open.spotify.com/album/4AuGlvMuH8t9YtSnb1J9E7) | 4:17 |
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9mHcd54VItZ.md) - [plain]
 | 44 | [Yo Yo](https://open.spotify.com/track/2jxyMRUWl5unzLhU2d0uts) | [Karen Zoid](https://open.spotify.com/artist/1x6N4tQft8TwRuhOfRUgWC) | [Yo Yo](https://open.spotify.com/album/33mO5GqcxB34k3bZ2zU9yf) | 6:18 |
 | 45 | [I'm On My Way](https://open.spotify.com/track/6NC0SYFAjL8MlI9gdVjmlG) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B) | [I'm On My Way](https://open.spotify.com/album/1g96zxNAGoNrKREJ9oM64A) | 3:08 |
 | 46 | [Wicked Wonder \- Remastered](https://open.spotify.com/track/5t6IjFvqIUAMRzpIzvwi2W) | [Arapaho](https://open.spotify.com/artist/5yA0PesbdKjJz16gjF1vjF) | [The Wicked Selection](https://open.spotify.com/album/5fyXBZ9YgmOgTu3wrt5m5W) | 4:37 |
-| 47 | [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 |
-| 48 | [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 |
+| 47 | [Supermark](https://open.spotify.com/track/3d7Lg6QGDLKEgIeWnFcBiT) | [Aya Nixon](https://open.spotify.com/artist/6IgXgD603KdZ9WVJSfaVhY) | [Supermark](https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj) | 3:00 |
+| 48 | [wies nie weird nie?](https://open.spotify.com/track/4u4fiRQEA7ZoOUmrANQa8H) | [Skrikkeljaar](https://open.spotify.com/artist/62F3uYbEowDVVfkWcwP8Az) | [wies nie weird nie?](https://open.spotify.com/album/6PlptlQbUZ7CELQDeL2BYH) | 3:49 |
 | 49 | [Patience](https://open.spotify.com/track/4WhPLGHy7mVIFDx3saaYvf) | [We Kill Cowboys](https://open.spotify.com/artist/2M7xonKOedqLEmBlxm1U8k) | [Patience](https://open.spotify.com/album/7aLOnvf1S2TJ3Zr9R0QWeN) | 5:33 |
 | 50 | [Good Life](https://open.spotify.com/track/4nZNhweRT6VJWd0XYeEzBQ) | [The Finkelstiens](https://open.spotify.com/artist/34ileyID0hIkQBkMpwwfCj) | [The Finkelstiens vs Rock n Roll](https://open.spotify.com/album/5rCcsjOvyWzENs0VB3Z24B) | 3:07 |
 

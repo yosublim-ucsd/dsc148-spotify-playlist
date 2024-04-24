@@ -4,7 +4,7 @@
 
 > Sleep with sounds of pouring rain and occasional rolling thunder.
 
-458 songs - 20 hr 28 min
+459 songs - 20 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -344,6 +344,7 @@
 | [Scandinavian Rain](https://open.spotify.com/track/1ahdB6Gm8DebWJxgTeYzoi) | [Northerly Nature](https://open.spotify.com/artist/5jNKsTKXS0Ub5ng4c4XsL1) | [Scandinavian Rain](https://open.spotify.com/album/1KYpqdkgChN7cRPriZTDFJ) | 3:08 | 2021-11-08 | 2023-02-14 |
 | [Searching For Cover](https://open.spotify.com/track/61DyLRwrghWPY9o93BoTNw) | [Peter Graham](https://open.spotify.com/artist/0z6S9Vu5DzgaYlPfa4t9lv) | [Searching For Cover](https://open.spotify.com/album/5wKxqBdrmequiiLVZaDlg7) | 2:40 | 2021-11-08 |  |
 | [Seaside Harbor \- Rain](https://open.spotify.com/track/40Sbi8GwdiszUczHmym3fG) | [NatuREM](https://open.spotify.com/artist/03eX3RX46RbMeY7FA8xF99) | [Drizzling Days](https://open.spotify.com/album/5d0ac3jdhP8PGJehBqpHbQ) | 2:40 | 2022-02-18 |  |
+| [Sevilla Summer Showers](https://open.spotify.com/track/6b7Hogbueg7xuq5x9uZZCf) | [Nebulous Lull](https://open.spotify.com/artist/55PxXPnziY16HPoKLQkBe6) | [Rain in Spain](https://open.spotify.com/album/3i3AZpuhEpK3XDIDAjSIjL) | 2:27 | 2024-03-21 |  |
 | [Shelter From Rain And Thunder](https://open.spotify.com/track/6hjH2icOU51DUn09Luv3u5) | [The Relaxation Hub](https://open.spotify.com/artist/6J2XOkGyDdC603Fmf44J5e) | [The Relaxation Hub](https://open.spotify.com/album/4yf6oR4OwkGuk0rlOGIwco) | 3:50 | 2021-11-08 | 2023-02-14 |
 | [Shibuya Intense Rain](https://open.spotify.com/track/67nOtJ94CRz6CpUxRPYEFH) | [Che Dormono](https://open.spotify.com/artist/0lEQ29Wf4vAjAdyK0jGTRp) | [Shinjuku Night Showers](https://open.spotify.com/album/506N61I0wuYHbHUiAJ3lCu) | 2:54 | 2024-03-21 |  |
 | [Sizzling Light Rain](https://open.spotify.com/track/1mRx1szA3v8VA8JOfQrCyZ) | [Aire Vega](https://open.spotify.com/artist/7cAoFd2D0GjQOI14qyK3xB) | [Sizzling Light Rain](https://open.spotify.com/album/7h38GTSwmMahkfpUXiw3IH) | 3:14 | 2024-03-21 |  |
@@ -404,7 +405,7 @@
 | [Stormy Weather](https://open.spotify.com/track/3du4x4mjmzMZNXu5CFNkIE) | [Rain Hive](https://open.spotify.com/artist/7926Y6ve9rJTFcjeCYTjqx) | [Rain Hive](https://open.spotify.com/album/5hAjWiqgkKLll4XWQ3n2Yx) | 2:14 | 2021-11-08 |  |
 | [Strawberry Rain](https://open.spotify.com/track/06EYu330c8GVTs3fDGJ0pD) | [DreamDrops](https://open.spotify.com/artist/20XfshUALsTbm05gj6Ea5M) | [Strawberry Rain](https://open.spotify.com/album/2sQA6ju0ve2lCiPHJo4VC1) | 3:32 | 2021-11-08 |  |
 | [Strike of Lightning](https://open.spotify.com/track/16sx5xwm1gENlnG4HaKR3X) | [It Can Be Done](https://open.spotify.com/artist/5rEZYkp7IH0CYH0bLaEhrj) | [Strike of Lightning](https://open.spotify.com/album/31WXAKnBJOpRT2VyjVDRnN) | 3:40 | 2021-11-08 |  |
-| [Strong Rain](https://open.spotify.com/track/5WCKWlR0uNc6SxBlSqh5zj) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Strong Rain](https://open.spotify.com/album/2HmENem14B3nlOrKgHRskI) | 2:38 | 2024-03-21 |  |
+| [Strong Rain](https://open.spotify.com/track/5WCKWlR0uNc6SxBlSqh5zj) | [Organic Nature](https://open.spotify.com/artist/51pWYHXlT0KXM8zYZ6IhRa) | [Strong Rain](https://open.spotify.com/album/2HmENem14B3nlOrKgHRskI) | 2:38 | 2024-03-21 | 2024-04-24 |
 | [Struck by lightning](https://open.spotify.com/track/01OzUhNPtpn2xqQpNZ5vCN) | [Indra](https://open.spotify.com/artist/4mZVOEyscSE2MEbntY11c3) | [Storm](https://open.spotify.com/album/0X0aO8gxJeV2xHf53J8gFI) | 3:00 | 2021-11-08 | 2024-03-22 |
 | [Summer Rain](https://open.spotify.com/track/1sHXqphcVMiOzIS8ZxOeQo) | [Haya Sounds](https://open.spotify.com/artist/39JG88X2ortGs8wgP8DIJ2) | [Days Of Rain](https://open.spotify.com/album/0cBWB9SDm1IIxQ7weGrpiG) | 3:28 | 2021-11-08 |  |
 | [Summer Rain in Berlin](https://open.spotify.com/track/1XROkBFBaW947gPDzYk4As) | [Sugar Pine Sounds](https://open.spotify.com/artist/3dYzcc9uzbFghFxGtLvIRH) | [Water](https://open.spotify.com/album/3QeU2pjzT25h16jbSeIG7Z) | 2:51 | 2024-03-21 |  |

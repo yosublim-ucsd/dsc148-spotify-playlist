@@ -4,7 +4,7 @@
 
 > Gospel music from across East Africa
 
-153 songs - 11 hr 59 min
+154 songs - 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 | 2022-12-19 | 2023-12-22 |
 | [Everything \(Amen\)](https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b) | 3:57 | 2023-11-17 | 2024-01-10 |
 | [Fall On Me \(feat\. Carly Pearce\)](https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G), [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [CAVES](https://open.spotify.com/album/1Rtopf52bLtF0kdxQsL8TL) | 4:24 | 2024-01-19 |  |
+| [Firm Foundation \(He Won’t\) \- Live](https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK) | [Cody Carnes](https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0) | [Firm Foundation \(Live\)](https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l) | 6:20 | 2024-01-19 |  |
 | [Fly Away](https://open.spotify.com/track/6OTBSObTPBgyVHHLs97Stx) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/3QhC4P5UhOObGxi77cqEAx) | 2:35 | 2024-01-19 | 2024-02-14 |
 | [Fly Away](https://open.spotify.com/track/2tIHYnZsOOSP0mIGavVRRi) | [Forrest Frank](https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ), [Hulvey](https://open.spotify.com/artist/3zSrc5vUlUxyDdS0KrxFJO) | [New Hymns](https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP) | 2:35 | 2024-01-19 | 2024-04-19 |
 | [For My Good \(feat\. Todd Galberth\)](https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [The Maverick Way Complete](https://open.spotify.com/album/3R11N2u1LlPZmraUEhAI54) | 8:18 | 2024-01-19 |  |
@@ -90,7 +91,7 @@
 | [Naomba](https://open.spotify.com/track/3Js89zRlholrVwfRJpWGEV) | [Adawnage](https://open.spotify.com/artist/23AJRPsc0fX6FvUnaLu9b3) | [Safari: The Journey](https://open.spotify.com/album/0ykVA7hvydCUNs0IlKmmiy) | 4:42 | 2023-06-16 | 2024-01-19 |
 | [Narudisha](https://open.spotify.com/track/3x95KiKvcpqSBuGLPHkDkY) | [Gloria Muliro](https://open.spotify.com/artist/22EUP7xdGe9A2jzD7zdSxV) | [Narudisha](https://open.spotify.com/album/3sFqgqQH7abGlGF1U0WG6T) | 4:29 | 2022-12-19 | 2024-01-19 |
 | [Ndio](https://open.spotify.com/track/3CnETTK4rc5A5XnTWpvjWZ) | [Rehema Simfukwe](https://open.spotify.com/artist/6LL0XXSfIWHDxuDf9HmnjL) | [Ndio](https://open.spotify.com/album/5CzUS1DY6pEqcYUxq9fiLm) | 9:23 | 2023-07-14 | 2024-01-19 |
-| [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 | 2024-01-19 |  |
+| [Never](https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl) | [Tasha Layton](https://open.spotify.com/artist/3yCv2yloJueOb4Y3HEYgSq) | [Never](https://open.spotify.com/album/1DdKZXJOtsK4N1YKMcGN9f) | 3:34 | 2024-01-19 | 2024-04-24 |
 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 | 2024-01-19 |  |
 | [Nikumbushe Wema Wako](https://open.spotify.com/track/62cnrFkQOy5jBuOoCBm5qT) | [Angel Benard](https://open.spotify.com/artist/7lfpPXqQTNddUIYXLDVbbD) | [Nikumbushe Wema Wako](https://open.spotify.com/album/5u0BBGqAaYEgN3Kkrk41AX) | 7:19 | 2022-12-19 | 2023-08-25 |
 | [Nikupendeze](https://open.spotify.com/track/6PsXyv0ljD3fuOTZRiOw4Z) | [Mercy Masika](https://open.spotify.com/artist/768ba0tQi1ULwowdydY05T) | [Mwema](https://open.spotify.com/album/6nXlu9652BlZrJySXjdnsX) | 3:54 | 2022-12-19 | 2023-06-16 |

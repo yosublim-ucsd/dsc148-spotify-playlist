@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/58hAgtMO44tADTax7J2lEG">Albert Hype</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26 likes - 78 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 27 likes - 78 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 29 | [PLN](https://open.spotify.com/track/5nUQvg3l33BKuyU42ai7eN) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [PLN](https://open.spotify.com/album/5gPi0LEcwWMCg6WJEYpLUg) | 2:45 |
 | 30 | [MENTE \(with Tainy & Mau y Ricky\)](https://open.spotify.com/track/5OVYDbQP9pMKpF0ViSyMty) | [Dylan Fuentes](https://open.spotify.com/artist/4Wcscw7z9AAE6y7qWdIAin), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Mau y Ricky](https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU) | [MENTE \(with Tainy & Mau y Ricky\)](https://open.spotify.com/album/3svtbAQNLpKVpUFlArRN3n) | 3:46 |
 | 31 | [¿Qué Somos?](https://open.spotify.com/track/30d3QDKSRgsiPr8yenfSYK) | [Sech](https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht) | [42](https://open.spotify.com/album/3tRrovXWGrSfBU3MYHqsVJ) | 2:52 |
-| 32 | [Presente Y Futuro](https://open.spotify.com/track/7InkTnO35uecjCJucwXrWx) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:14 |
-| 33 | [Online ;\(](https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:42 |
+| 32 | [Online ;\(](https://open.spotify.com/track/4ZL7RxR7Ce5sXDhaWkAaGa) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW) | [Felicilandia](https://open.spotify.com/album/7jg09IJJXi1eigVLZja2hN) | 3:42 |
+| 33 | [Presente Y Futuro](https://open.spotify.com/track/7InkTnO35uecjCJucwXrWx) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr) | [Fino](https://open.spotify.com/album/7dCbtoA5iytgbxUXUsK9Z2) | 3:14 |
 | 34 | [La Luz](https://open.spotify.com/track/3b6c7OG17RpjolAdT1a3x9) | [Thalia](https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb), [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [desAMORfosis](https://open.spotify.com/album/5x6WtKftK68fbgtinzgeSG) | 2:02 |
 | 35 | [PAPA JOHNS](https://open.spotify.com/track/78priJC6WYdAjjH9CoaXMA) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LYKE MIKE](https://open.spotify.com/album/5qhxJXwhtjXAmCr22FXG3Q) | 2:28 |
 | 36 | [Niño Soñador](https://open.spotify.com/track/2kRrmu3UpV9t9jM8yFxzGk) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Niño Soñador](https://open.spotify.com/album/2Ng7X89Y4M7gxNMABtyij0) | 3:02 |
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFM1V9WPOWLF2.md) - [plain]
 | 77 | [Parece Falso](https://open.spotify.com/track/2OwcfT3oWowyhLKRaBdt59) | [Akim](https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3) | [Parece Falso](https://open.spotify.com/album/1nRYqTPXNyJtjMeEeMR0J0) | 3:11 |
 | 78 | [BALLIN'](https://open.spotify.com/track/3c6B6MZyACJ20C1VUdU8lU) | [Kris Floyd](https://open.spotify.com/artist/7aG8YUI5alfF2pi0n5Cg5H) | [POR LA CULTURA MIXTAPE VOL\. 1](https://open.spotify.com/album/1OFtSDQuCHuLjDwEqIAqDH) | 2:17 |
 
-Snapshot ID: `Mjg1NjQwMjcsMDAwMDAwMDA1ZTg0ZmRhNzZlM2RmYWQ2N2MzZDk1NDdhNGE5ZTM0Yw==`
+Snapshot ID: `Mjg1NjYzNjcsMDAwMDAwMDA4MTI0NWVjNDdiZmRkM2MxN2MzZWI4OWM0NTg1NGFiZQ==`

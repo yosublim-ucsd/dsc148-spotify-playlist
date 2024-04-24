@@ -1,6 +1,6 @@
 {
   "description": "When the dance floor calls your name, that's amore.",
-  "num_followers": 207409,
+  "num_followers": 207831,
   "original_name": "Italo Disco",
   "owner": {
     "name": "Spotify",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2024-04-04 22:01:00",
       "album": {
-        "name": "Baby I Love You (Original) - Single",
-        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
-      },
-      "artists": [
-        {
-          "name": "Easy Going",
-          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
-        }
-      ],
-      "duration_ms": 503920,
-      "name": "Baby I Love You",
-      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
-    },
-    {
-      "added_at": "2024-04-04 22:01:00",
-      "album": {
         "name": "It's a War (Purple Disco Machine & Lorenz Rhode Remix)",
         "url": "https://open.spotify.com/album/5qbgEZzMrc15CmURgLIAWZ"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 401773,
       "name": "It's a War - Purple Disco Machine & Lorenz Rhode Instrumental",
       "url": "https://open.spotify.com/track/0ntbNSYXSiSpgrH1NLWHkN"
+    },
+    {
+      "added_at": "2024-04-04 22:01:00",
+      "album": {
+        "name": "Baby I Love You (Original) - Single",
+        "url": "https://open.spotify.com/album/7LZpZKT1adV23tV8AJe44U"
+      },
+      "artists": [
+        {
+          "name": "Easy Going",
+          "url": "https://open.spotify.com/artist/3t1n3uomLdEAVdSc5WkVf1"
+        }
+      ],
+      "duration_ms": 503920,
+      "name": "Baby I Love You",
+      "url": "https://open.spotify.com/track/0GpbUTVkLhMb200mH8WBOW"
     },
     {
       "added_at": "2024-04-04 22:01:00",

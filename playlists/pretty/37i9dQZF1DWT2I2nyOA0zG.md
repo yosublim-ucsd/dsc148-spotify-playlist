@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2I2nyOA0zG.md) - [plain]
 
 > Cool vibes from the African continent.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,175 likes - 88 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,168 likes - 88 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Encuentra un mix de cl\u00e1sicos y nuevos talentos. Foto: Los Tres",
-  "num_followers": 192528,
+  "num_followers": 192269,
   "original_name": "Rock Chileno",
   "owner": {
     "name": "Spotify",
@@ -375,18 +375,22 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Eternos",
-        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
+        "name": "Resiste M\u00e1s Que Yo",
+        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
       },
       "artists": [
         {
-          "name": "We Are The Grand",
-          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
+          "name": "De Saloon",
+          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
+        },
+        {
+          "name": "Denisse Malebr\u00e1n",
+          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
         }
       ],
-      "duration_ms": 205765,
-      "name": "Eternos",
-      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
+      "duration_ms": 359233,
+      "name": "Resiste M\u00e1s Que Yo",
+      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
     },
     {
       "added_at": "2024-03-29 03:00:00",
@@ -415,22 +419,18 @@
     {
       "added_at": "2024-03-29 03:00:00",
       "album": {
-        "name": "Resiste M\u00e1s Que Yo",
-        "url": "https://open.spotify.com/album/1lJTxv8uuQ7JduMfysDUJv"
+        "name": "Eternos",
+        "url": "https://open.spotify.com/album/185elkt7JwuHDngR8Zwu7C"
       },
       "artists": [
         {
-          "name": "De Saloon",
-          "url": "https://open.spotify.com/artist/04Z3mRXKnp5PmZcJ8QCULt"
-        },
-        {
-          "name": "Denisse Malebr\u00e1n",
-          "url": "https://open.spotify.com/artist/34JOOFEs2qzslbI0YAGBXr"
+          "name": "We Are The Grand",
+          "url": "https://open.spotify.com/artist/4DAFJvYjVrSQfEM67zeXQT"
         }
       ],
-      "duration_ms": 359233,
-      "name": "Resiste M\u00e1s Que Yo",
-      "url": "https://open.spotify.com/track/2nTWDoNNk9n14Mf2OTAwyQ"
+      "duration_ms": 205765,
+      "name": "Eternos",
+      "url": "https://open.spotify.com/track/0BUmMJhkDWkTafX43x0AUx"
     },
     {
       "added_at": "2024-03-29 03:00:00",

@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined the other side of the 80s. Cover: Kate Bush",
-  "num_followers": 958465,
+  "num_followers": 958900,
   "original_name": "Alternative 80s",
   "owner": {
     "name": "Spotify",
@@ -337,7 +337,7 @@
         }
       ],
       "duration_ms": 292800,
-      "name": "I Wanna Be Adored - Remastered",
+      "name": "I Wanna Be Adored - Remastered 2009",
       "url": "https://open.spotify.com/track/758wEKVqfYopJIHYWdLVd4"
     },
     {
@@ -497,7 +497,7 @@
         }
       ],
       "duration_ms": 278826,
-      "name": "Waterfall - Remastered",
+      "name": "Waterfall - Remastered 2009",
       "url": "https://open.spotify.com/track/4CWgqHRJjDLd2PCedMz8eY"
     },
     {
@@ -609,7 +609,7 @@
         }
       ],
       "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
+      "name": "Fools Gold - Remastered 2009",
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
@@ -757,22 +757,6 @@
       "url": "https://open.spotify.com/track/5O7RVmqK3AYoFfyeafxOqH"
     },
     {
-      "added_at": "2022-11-17 20:08:09",
-      "album": {
-        "name": "Entertainment!",
-        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
-      },
-      "artists": [
-        {
-          "name": "Gang Of Four",
-          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
-        }
-      ],
-      "duration_ms": 207200,
-      "name": "Damaged Goods",
-      "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm"
-    },
-    {
       "added_at": "2024-03-18 22:21:44",
       "album": {
         "name": "99 Luftballons",
@@ -787,6 +771,22 @@
       "duration_ms": 230666,
       "name": "99 Red Balloons",
       "url": "https://open.spotify.com/track/2bdcFXS61ey6x6Y1andx0F"
+    },
+    {
+      "added_at": "2022-11-17 20:08:09",
+      "album": {
+        "name": "Entertainment!",
+        "url": "https://open.spotify.com/album/1UMvR1rwj9EzLnbj4L6Zoy"
+      },
+      "artists": [
+        {
+          "name": "Gang Of Four",
+          "url": "https://open.spotify.com/artist/3AmWjMXXtBJOmNGpUFSOAl"
+        }
+      ],
+      "duration_ms": 207200,
+      "name": "Damaged Goods",
+      "url": "https://open.spotify.com/track/62uw0iWu8jLB4cYBQxjdcm"
     },
     {
       "added_at": "2022-11-17 20:08:09",

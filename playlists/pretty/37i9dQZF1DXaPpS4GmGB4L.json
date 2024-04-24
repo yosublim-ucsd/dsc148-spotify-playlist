@@ -1,6 +1,6 @@
 {
   "description": "Grab your dancing shoes and strut your stuff with these upbeat blues numbers.",
-  "num_followers": 60748,
+  "num_followers": 60792,
   "original_name": "Upbeat Blues",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
-        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
-      },
-      "artists": [
-        {
-          "name": "Hound Dog Taylor",
-          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
-        }
-      ],
-      "duration_ms": 214520,
-      "name": "Give Me Back My Wig - Remastered",
-      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Watch Your Back",
         "url": "https://open.spotify.com/album/3k5iL04w1N2VQhpwXfgClW"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 239426,
       "name": "Old School",
       "url": "https://open.spotify.com/track/54sI3jSzu7Q3xaiU9o2nI7"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Alligator Records 50 Years Of Genuine Houserockin' Music",
+        "url": "https://open.spotify.com/album/30aecilbP86mA0dVdWcFp0"
+      },
+      "artists": [
+        {
+          "name": "Hound Dog Taylor",
+          "url": "https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4"
+        }
+      ],
+      "duration_ms": 214520,
+      "name": "Give Me Back My Wig - Remastered",
+      "url": "https://open.spotify.com/track/3kkCpDqhrOEBf0eOR2igEE"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -579,26 +579,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+        "name": "If These Walls Could Talk",
+        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
       },
       "artists": [
         {
-          "name": "James Bracken",
-          "url": "https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN"
+          "name": "Luke Winslow-King",
+          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
         },
         {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        },
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+          "name": "Roberto Luti",
+          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
         }
       ],
-      "duration_ms": 147560,
-      "name": "Steppin' Out - Mono",
-      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
+      "duration_ms": 216716,
+      "name": "Watch Me Change",
+      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -619,22 +615,26 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "If These Walls Could Talk",
-        "url": "https://open.spotify.com/album/1oSDdZ6ANLOXgxT8sW75uw"
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
       "artists": [
         {
-          "name": "Luke Winslow-King",
-          "url": "https://open.spotify.com/artist/1VN3hs1Ra3vupNT3zN3baC"
+          "name": "James Bracken",
+          "url": "https://open.spotify.com/artist/58fUt7QRp6wXTLz4MRTNaN"
         },
         {
-          "name": "Roberto Luti",
-          "url": "https://open.spotify.com/artist/33Cme6gMFRML19GrfipNMH"
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        },
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
         }
       ],
-      "duration_ms": 216716,
-      "name": "Watch Me Change",
-      "url": "https://open.spotify.com/track/01jQJSRH05Y1GnldY8nhp1"
+      "duration_ms": 147560,
+      "name": "Steppin' Out - Mono",
+      "url": "https://open.spotify.com/track/4XpLqmD7SxGzaKuTs07FM0"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -755,8 +755,8 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Excello Singles Anthology",
-        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
+        "name": "Sings Raining In My Heart",
+        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 149800,
-      "name": "Shake Your Hips - Single Version",
-      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
+      "duration_ms": 132173,
+      "name": "Don't Start Crying Now",
+      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -803,22 +803,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "The Chess Box",
-        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Trouble No More",
-      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Very Best of Wilson Pickett",
         "url": "https://open.spotify.com/album/1tXKFPGHTVOAWjahKxacXH"
       },
@@ -831,6 +815,22 @@
       "duration_ms": 187826,
       "name": "Mustang Sally",
       "url": "https://open.spotify.com/track/5DxJfzKzdBFLu01SxGpnfg"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "The Chess Box",
+        "url": "https://open.spotify.com/album/182PeD4zms8Cup3oZcACOB"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Trouble No More",
+      "url": "https://open.spotify.com/track/3wFXuJfiiQYZquZmNnH3m6"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -903,8 +903,8 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Sings Raining In My Heart",
-        "url": "https://open.spotify.com/album/5DqktKLSuwx51XACoKu1Hg"
+        "name": "The Excello Singles Anthology",
+        "url": "https://open.spotify.com/album/38mE82CkxuGVkZ2yN1sGGi"
       },
       "artists": [
         {
@@ -912,9 +912,9 @@
           "url": "https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ"
         }
       ],
-      "duration_ms": 132173,
-      "name": "Don't Start Crying Now",
-      "url": "https://open.spotify.com/track/3Q7RuFIaAf7iJ2sd5R0NXQ"
+      "duration_ms": 149800,
+      "name": "Shake Your Hips - Single Version",
+      "url": "https://open.spotify.com/track/5H28g1Be16hLJaz3RrWCpQ"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -939,22 +939,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Down The Road Apiece -The Best Of Amos Milburn",
-        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
-      },
-      "artists": [
-        {
-          "name": "Amos Milburn",
-          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
-        }
-      ],
-      "duration_ms": 179893,
-      "name": "Down The Road Apiece",
-      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Heartbreaker",
         "url": "https://open.spotify.com/album/516Bv1lX91UTFGLIdpKYYt"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 230459,
       "name": "Heartbreaker",
       "url": "https://open.spotify.com/track/35j5tUnce6812hJBmwxXGV"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Down The Road Apiece -The Best Of Amos Milburn",
+        "url": "https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp"
+      },
+      "artists": [
+        {
+          "name": "Amos Milburn",
+          "url": "https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX"
+        }
+      ],
+      "duration_ms": 179893,
+      "name": "Down The Road Apiece",
+      "url": "https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 173040,
-      "name": "Got My Mojo Working",
-      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Oscar's Motel",
         "url": "https://open.spotify.com/album/3OaTkkcE8j9gFJQCmlSZJ4"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 117346,
       "name": "Pontiac Blues",
       "url": "https://open.spotify.com/track/5MbAKetPv91d2m1EwSyjpB"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "His Best 1956-1964 - The Chess 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/21Lv19NsmMPpwUL58JCP57"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 173040,
+      "name": "Got My Mojo Working",
+      "url": "https://open.spotify.com/track/65VzqBb5ogD2xIFD8jetMG"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1247,6 +1247,22 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Hail To The Kings!",
+        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
+      },
+      "artists": [
+        {
+          "name": "The Cash Box Kings",
+          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
+        }
+      ],
+      "duration_ms": 170293,
+      "name": "The Wrong Number",
+      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Rumpshaker",
         "url": "https://open.spotify.com/album/2TAatpkEA5nQcZkh9AiW6g"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 171040,
       "name": "Mellow Down Easy",
       "url": "https://open.spotify.com/track/3w7JOstC58U7VxTQcm7GIN"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Hail To The Kings!",
-        "url": "https://open.spotify.com/album/6c78ccr3oXB3tYLtW8PrRA"
-      },
-      "artists": [
-        {
-          "name": "The Cash Box Kings",
-          "url": "https://open.spotify.com/artist/05eG6kRq0vo8hfQxW2sh8c"
-        }
-      ],
-      "duration_ms": 170293,
-      "name": "The Wrong Number",
-      "url": "https://open.spotify.com/track/7gE08bSorAo6bCH5pmuZCA"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Lucille",
-        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "You Move Me So",
-      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Choo Ma Gum",
         "url": "https://open.spotify.com/album/5h1Z15QryGdZRCdLZsD8WE"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 260000,
       "name": "Choo Ma Gum",
       "url": "https://open.spotify.com/track/6pTovnxQRzYQ6DlJO18sGf"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Lucille",
+        "url": "https://open.spotify.com/album/5aowahjEeRgbLALRPb9a2s"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "You Move Me So",
+      "url": "https://open.spotify.com/track/06MLrSTAZxLhdrIpHPt2GO"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "I'm Slippin' In (Mono Version)",
-        "url": "https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8"
-      },
-      "artists": [
-        {
-          "name": "Ford Eaglin",
-          "url": "https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL"
-        }
-      ],
-      "duration_ms": 173164,
-      "name": "I'm Slippin' In",
-      "url": "https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Juke Joint Chapel",
         "url": "https://open.spotify.com/album/29nPDxXHBFcsp2o4rZZKIs"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 460640,
       "name": "Bad Boy",
       "url": "https://open.spotify.com/track/7IiqtwxMj0kV0hTutzZmzy"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "I'm Slippin' In (Mono Version)",
+        "url": "https://open.spotify.com/album/3r02imfha3Ub5VykcF54l8"
+      },
+      "artists": [
+        {
+          "name": "Ford Eaglin",
+          "url": "https://open.spotify.com/artist/6ItYrf72JVG1kovlFxoRDL"
+        }
+      ],
+      "duration_ms": 173164,
+      "name": "I'm Slippin' In",
+      "url": "https://open.spotify.com/track/6momA2GAoXWxJLNdykzfQe"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1663,22 +1663,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Proud Disturber of the Peace",
-        "url": "https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI"
-      },
-      "artists": [
-        {
-          "name": "William The Conqueror",
-          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
-        }
-      ],
-      "duration_ms": 221373,
-      "name": "Mind Keeps Changing",
-      "url": "https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "The Sun is Shining Down",
         "url": "https://open.spotify.com/album/5xuD9DAR2jAPxlYw4XnaXt"
       },
@@ -1695,6 +1679,22 @@
       "duration_ms": 300143,
       "name": "Hungry and Ready (feat. Melvin Taylor)",
       "url": "https://open.spotify.com/track/1gbujLyUUFGmgxjJ8EGuZt"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Proud Disturber of the Peace",
+        "url": "https://open.spotify.com/album/2cIAXqoRWFfKAZxfR5ervI"
+      },
+      "artists": [
+        {
+          "name": "William The Conqueror",
+          "url": "https://open.spotify.com/artist/1r3usFuloWo113ldctoDnX"
+        }
+      ],
+      "duration_ms": 221373,
+      "name": "Mind Keeps Changing",
+      "url": "https://open.spotify.com/track/5LmnECs0CjogD3qLbMNUf9"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1811,6 +1811,38 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Mississippi Nights (Live)",
+        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
+      },
+      "artists": [
+        {
+          "name": "Mike Zito",
+          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
+        }
+      ],
+      "duration_ms": 300929,
+      "name": "Mississippi Nights - Live",
+      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Somebody Save Me",
+        "url": "https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY"
+      },
+      "artists": [
+        {
+          "name": "Sugaray Rayford",
+          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
+        }
+      ],
+      "duration_ms": 217361,
+      "name": "Time to Get Movin'",
+      "url": "https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "Ain't No Good (But It's Good Enough For Me)",
         "url": "https://open.spotify.com/album/1cXisOYjn31sHHxnEldlbY"
       },
@@ -1831,22 +1863,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Mississippi Nights (Live)",
-        "url": "https://open.spotify.com/album/1cvWBICxDY8MTlff2niSji"
-      },
-      "artists": [
-        {
-          "name": "Mike Zito",
-          "url": "https://open.spotify.com/artist/4IPDnwurwc0J2tXUty2hO4"
-        }
-      ],
-      "duration_ms": 300929,
-      "name": "Mississippi Nights - Live",
-      "url": "https://open.spotify.com/track/4FdgENJLxPqHFu9kX3iR4j"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Shuggie's Boogie: Shuggie Otis Plays The Blues",
         "url": "https://open.spotify.com/album/6WSeoiDc3zAjZVjFzMyLBC"
       },
@@ -1859,22 +1875,6 @@
       "duration_ms": 141493,
       "name": "I Got the Walkin' Blues",
       "url": "https://open.spotify.com/track/4r57hl0xZ4re7wldHUBvOq"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Somebody Save Me",
-        "url": "https://open.spotify.com/album/6FGuP68nWXCaLrskmUipbY"
-      },
-      "artists": [
-        {
-          "name": "Sugaray Rayford",
-          "url": "https://open.spotify.com/artist/4dctcbWDGbSj1Nn29CV4g3"
-        }
-      ],
-      "duration_ms": 217361,
-      "name": "Time to Get Movin'",
-      "url": "https://open.spotify.com/track/1srQrPOCvEGRn5kScgDnTv"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -1927,22 +1927,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "RED DRESS",
-        "url": "https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA"
-      },
-      "artists": [
-        {
-          "name": "Ethan Wilson",
-          "url": "https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP"
-        }
-      ],
-      "duration_ms": 196754,
-      "name": "RED DRESS",
-      "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "No Entry",
         "url": "https://open.spotify.com/album/54Q3cyvgB0PlWf3ML7v3rD"
       },
@@ -1971,6 +1955,22 @@
       "duration_ms": 144933,
       "name": "Hey, Hey",
       "url": "https://open.spotify.com/track/19gGTp7TUX1GaWw05Ji1IR"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "RED DRESS",
+        "url": "https://open.spotify.com/album/4uh2J2yGXDUpXqN3VNSTtA"
+      },
+      "artists": [
+        {
+          "name": "Ethan Wilson",
+          "url": "https://open.spotify.com/artist/0HrxgAPTbsueVGzLVZ6RzP"
+        }
+      ],
+      "duration_ms": 196754,
+      "name": "RED DRESS",
+      "url": "https://open.spotify.com/track/7piAoG8DsUIsXzahToJ5Yb"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2075,6 +2075,38 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
+        "name": "Sweet Like Sugar",
+        "url": "https://open.spotify.com/album/0IP5xdy2rkJ7wZE5mNw51y"
+      },
+      "artists": [
+        {
+          "name": "Jesse Ray and the Carolina Catfish",
+          "url": "https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy"
+        }
+      ],
+      "duration_ms": 173984,
+      "name": "Sweet Like Sugar",
+      "url": "https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Every Day Is Sunshine",
+        "url": "https://open.spotify.com/album/0eH3QJ17XrwxARxoJ5ELbo"
+      },
+      "artists": [
+        {
+          "name": "Jim Byrne",
+          "url": "https://open.spotify.com/artist/03KcaOeaZcf494ziGkK4QS"
+        }
+      ],
+      "duration_ms": 195253,
+      "name": "Black Sky Blues",
+      "url": "https://open.spotify.com/track/7LMnIq7uTvwq6jW5dB49kp"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
         "name": "French Cricket",
         "url": "https://open.spotify.com/album/0QxCkPJNB6e3oxjAENImTF"
       },
@@ -2111,22 +2143,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Sweet Like Sugar",
-        "url": "https://open.spotify.com/album/0IP5xdy2rkJ7wZE5mNw51y"
-      },
-      "artists": [
-        {
-          "name": "Jesse Ray and the Carolina Catfish",
-          "url": "https://open.spotify.com/artist/4Qafc3GarByfVBFGCi81zy"
-        }
-      ],
-      "duration_ms": 173984,
-      "name": "Sweet Like Sugar",
-      "url": "https://open.spotify.com/track/44LsPNyywQt1ztLNiSXC5H"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Just As Gone",
         "url": "https://open.spotify.com/album/6RZhnzYqtpDr5dZpgqMUvh"
       },
@@ -2139,22 +2155,6 @@
       "duration_ms": 148933,
       "name": "Just As Gone",
       "url": "https://open.spotify.com/track/3i5jNMGAX9EnyeiSLtm83W"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
-        "name": "Every Day Is Sunshine",
-        "url": "https://open.spotify.com/album/0eH3QJ17XrwxARxoJ5ELbo"
-      },
-      "artists": [
-        {
-          "name": "Jim Byrne",
-          "url": "https://open.spotify.com/artist/03KcaOeaZcf494ziGkK4QS"
-        }
-      ],
-      "duration_ms": 195253,
-      "name": "Black Sky Blues",
-      "url": "https://open.spotify.com/track/7LMnIq7uTvwq6jW5dB49kp"
     },
     {
       "added_at": "2023-11-24 19:21:59",
@@ -2307,22 +2307,6 @@
     {
       "added_at": "2023-11-24 19:21:59",
       "album": {
-        "name": "Footprints on My Floor",
-        "url": "https://open.spotify.com/album/7MBv0PMZFBn1t7YB84pG0X"
-      },
-      "artists": [
-        {
-          "name": "Hillfolk Noir",
-          "url": "https://open.spotify.com/artist/4alcboeaGrEX6CcqhSsyBb"
-        }
-      ],
-      "duration_ms": 221489,
-      "name": "Footprints on My Floor",
-      "url": "https://open.spotify.com/track/0SxiUVY0WZpZxghvz2aV1j"
-    },
-    {
-      "added_at": "2023-11-24 19:21:59",
-      "album": {
         "name": "Goldfish Blues",
         "url": "https://open.spotify.com/album/37ch8gg8aeKqab8LwgCPO4"
       },
@@ -2335,6 +2319,22 @@
       "duration_ms": 222733,
       "name": "Dirty Dog",
       "url": "https://open.spotify.com/track/0ndUl4xQ5DRt9yEVDV0I0s"
+    },
+    {
+      "added_at": "2023-11-24 19:21:59",
+      "album": {
+        "name": "Footprints on My Floor",
+        "url": "https://open.spotify.com/album/7MBv0PMZFBn1t7YB84pG0X"
+      },
+      "artists": [
+        {
+          "name": "Hillfolk Noir",
+          "url": "https://open.spotify.com/artist/4alcboeaGrEX6CcqhSsyBb"
+        }
+      ],
+      "duration_ms": 221489,
+      "name": "Footprints on My Floor",
+      "url": "https://open.spotify.com/track/0SxiUVY0WZpZxghvz2aV1j"
     },
     {
       "added_at": "2023-11-24 19:21:59",

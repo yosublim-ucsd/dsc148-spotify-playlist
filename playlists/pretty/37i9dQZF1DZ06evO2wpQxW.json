@@ -1,12 +1,12 @@
 {
-  "description": "This Is Calibre 50. Los temas esenciales, todos en una lista.",
-  "num_followers": 668431,
+  "description": "This is Calibre 50. The essential tracks, all in one playlist.",
+  "num_followers": 668253,
   "original_name": "This Is Calibre 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMGFhNTk2NWViZjNiNWE0OWFlZmU1NzlkYjRiODY1YTVj",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDJkMmQzOWYyODA5OWE0MjgyYTdhMTEyNWM5Zjk2ODNi",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Sea",
+        "url": "https://open.spotify.com/album/59uULSbzUmeuVBiDGbLsqR"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 170506,
+      "name": "Que Sea",
+      "url": "https://open.spotify.com/track/4yKC4OVtG5Z9nIX98r7SQp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Desde El Rancho",
         "url": "https://open.spotify.com/album/3JGd3lmLv4Z7pQUZPu6EnH"
       },
@@ -99,22 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "De Sinaloa Para El Mundo",
-        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 161613,
-      "name": "Escuela Del Virus Antrax",
-      "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -127,6 +131,22 @@
       "duration_ms": 203200,
       "name": "Simplemente Gracias",
       "url": "https://open.spotify.com/track/3K6noLeoPTQJ5jUErC8jT5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Sinaloa Para El Mundo",
+        "url": "https://open.spotify.com/album/0nSVxIyIILGvDr417ogi39"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 161613,
+      "name": "Escuela Del Virus Antrax",
+      "url": "https://open.spotify.com/track/4UUf48kLSSO3fLL0lYkfoe"
     },
     {
       "added_at": null,
@@ -163,22 +183,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "M\u00edranos Ahora",
-        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "M\u00edranos Ahora",
-      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Simplemente Gracias",
         "url": "https://open.spotify.com/album/6s3BOoMKnK60Blq4hIh2cq"
       },
@@ -191,6 +195,22 @@
       "duration_ms": 140880,
       "name": "Chalito",
       "url": "https://open.spotify.com/track/6Lb8ikDcpKjF3yx2AnlwzG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "M\u00edranos Ahora",
+        "url": "https://open.spotify.com/album/0cuCvmXFuaN8eS5lvAlQt3"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "M\u00edranos Ahora",
+      "url": "https://open.spotify.com/track/5VfkfKTTo5BRKqHwfENF0V"
     },
     {
       "added_at": null,
@@ -839,22 +859,6 @@
       "duration_ms": 139000,
       "name": "El Triste Alegre",
       "url": "https://open.spotify.com/track/2mNRZ3ewIzRD5JU8M7yOZ2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Renovar O Morir",
-        "url": "https://open.spotify.com/album/0Npb5RTXimPOeUQONeuz3A"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 148026,
-      "name": "Callejero Y Mujeriego",
-      "url": "https://open.spotify.com/track/4fs0BA5PTPb7C31uzfWY4J"
     }
   ],
   "unique_name": "This Is Calibre 50",

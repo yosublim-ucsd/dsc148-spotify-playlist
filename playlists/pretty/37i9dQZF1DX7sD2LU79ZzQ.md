@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Abeliano
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,346 likes - 90 songs - 6 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,363 likes - 90 songs - 6 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 9 | [Masih Hatiku](https://open.spotify.com/track/6L1jkVbb331DNvK89C3L8u) | [Arsy Widianto](https://open.spotify.com/artist/7j5PGC0BF48rRtcmgbVvOT), [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Masih Hatiku](https://open.spotify.com/album/6uwl5luJhAy6CLqoU8ExTY) | 4:22 |
 | 10 | [Kita Bikin Romantis](https://open.spotify.com/track/7geh51STedQfizitdiNPCg) | [MALIQ & D'Essentials](https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs) | [Kita Bikin Romantis](https://open.spotify.com/album/0empe1Mwd55VSS0tqE6gRo) | 3:56 |
 | 11 | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/track/2sKcTM22jfcWz5EoQxEcZU) | [Suara Kayu](https://open.spotify.com/artist/327ipGIr9bD3MkLb2eucqC) | [Jutaan Salah, Milyaran Maaf](https://open.spotify.com/album/4RKTztO3kvduH6VYaUlT2p) | 4:30 |
-| 12 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:18 |
+| 12 | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/track/2iZzXW2wD6x6vyr4RSD0Wp) | [Dewa 19](https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d), [Marcello Tahitoe](https://open.spotify.com/artist/3Al8UPsWIzZPMApZDU9Isp) | [Laki\-Laki Bukan Pengecut](https://open.spotify.com/album/17ACrVS7WmOdu8mwnj4765) | 4:20 |
 | 13 | [Cinta Luka Sempurna](https://open.spotify.com/track/7ayDko6D9pHNsXjJ00iHom) | [BAALE](https://open.spotify.com/artist/62CEo98IwJIKhJ9fQ4Emta) | [Cinta Luka Sempurna](https://open.spotify.com/album/2EVvxh7yPooWJObCMM22gZ) | 5:00 |
 | 14 | [Wanita Biasa](https://open.spotify.com/track/5Gk5wniF0YSpkKMPmQqaxZ) | [Ziva Magnolya](https://open.spotify.com/artist/2wZWkw5jo8P4NVonVanxYd) | [Wanita Biasa](https://open.spotify.com/album/3wWZ03MvMHn8mVE7cFztFi) | 4:05 |
 | 15 | [Sepenuh Hati](https://open.spotify.com/track/5FInkXMyxWHOvwejaEnPRd) | [Rony Parulian](https://open.spotify.com/artist/13y29W8mEcA2gKqUr1SPLJ), [Andi Rianto](https://open.spotify.com/artist/4yRVdMqPrguKBFwZYpmke0) | [Sepenuh Hati](https://open.spotify.com/album/1SCxm7IxbHVv9my7yM832a) | 4:07 |

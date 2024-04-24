@@ -2,7 +2,7 @@
 
 ### [This Is Baby Tate](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2am4qZ)
 
-> This Is Baby Tate\. Los temas esenciales, todos en una lista.
+> This is Baby Tate\. The essential tracks, all in one playlist.
 
 91 songs - 4 hr 25 min
 

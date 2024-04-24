@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 700335,
+  "num_followers": 699815,
   "original_name": "PARTY MODE",
   "owner": {
     "name": "Spotify",
@@ -667,26 +667,6 @@
     {
       "added_at": "2024-04-19 16:56:25",
       "album": {
-        "name": "Disconnect",
-        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
-      },
-      "artists": [
-        {
-          "name": "Becky Hill",
-          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
-        },
-        {
-          "name": "Chase & Status",
-          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
-        }
-      ],
-      "duration_ms": 164914,
-      "name": "Disconnect",
-      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
-    },
-    {
-      "added_at": "2024-04-19 16:56:25",
-      "album": {
         "name": "Good Love",
         "url": "https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 169534,
       "name": "Good Love",
       "url": "https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP"
+    },
+    {
+      "added_at": "2024-04-19 16:56:25",
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/3H9K8wtrhvkSSqnkevhaHA"
+      },
+      "artists": [
+        {
+          "name": "Becky Hill",
+          "url": "https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "duration_ms": 164914,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/602d2gJewoiF1FivuOMMwE"
     },
     {
       "added_at": "2024-04-19 16:56:25",
@@ -1487,6 +1487,22 @@
     {
       "added_at": "2024-04-19 16:56:25",
       "album": {
+        "name": "Melody",
+        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
+      },
+      "artists": [
+        {
+          "name": "Sigala",
+          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
+        }
+      ],
+      "duration_ms": 167142,
+      "name": "Melody",
+      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
+    },
+    {
+      "added_at": "2024-04-19 16:56:25",
+      "album": {
         "name": "Side Effects",
         "url": "https://open.spotify.com/album/2LgiXusyrxXV3OqXJLK13j"
       },
@@ -1503,22 +1519,6 @@
       "duration_ms": 153742,
       "name": "Side Effects",
       "url": "https://open.spotify.com/track/5vOWdyk23iqRryEmbNCrCp"
-    },
-    {
-      "added_at": "2024-04-19 16:56:25",
-      "album": {
-        "name": "Melody",
-        "url": "https://open.spotify.com/album/1pLnRSFohTMJjT6gW9CIXg"
-      },
-      "artists": [
-        {
-          "name": "Sigala",
-          "url": "https://open.spotify.com/artist/1IueXOQyABrMOprrzwQJWN"
-        }
-      ],
-      "duration_ms": 167142,
-      "name": "Melody",
-      "url": "https://open.spotify.com/track/6Owc2SuzwO3LW1SAODYK3l"
     },
     {
       "added_at": "2024-04-19 16:56:25",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2024-04-19 16:56:25",
       "album": {
+        "name": "On A Mission",
+        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
+      },
+      "artists": [
+        {
+          "name": "Katy B",
+          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
+        }
+      ],
+      "duration_ms": 219120,
+      "name": "Katy on a Mission",
+      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
+    },
+    {
+      "added_at": "2024-04-19 16:56:25",
+      "album": {
         "name": "No More Idols",
         "url": "https://open.spotify.com/album/245j9BaZFuEso2vfLRVnQr"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 233666,
       "name": "Blind Faith",
       "url": "https://open.spotify.com/track/04OxTCLGgDKfO0MMA2lcxv"
-    },
-    {
-      "added_at": "2024-04-19 16:56:25",
-      "album": {
-        "name": "On A Mission",
-        "url": "https://open.spotify.com/album/6KV9kNSuC1mmzrXKx6p6vV"
-      },
-      "artists": [
-        {
-          "name": "Katy B",
-          "url": "https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M"
-        }
-      ],
-      "duration_ms": 219120,
-      "name": "Katy on a Mission",
-      "url": "https://open.spotify.com/track/47uhrF6IvyE2eUyyfLAEzf"
     },
     {
       "added_at": "2024-04-19 16:56:25",
@@ -1907,6 +1907,22 @@
     {
       "added_at": "2024-04-19 16:56:25",
       "album": {
+        "name": "FLUTE",
+        "url": "https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF"
+      },
+      "artists": [
+        {
+          "name": "MONSS",
+          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
+        }
+      ],
+      "duration_ms": 197489,
+      "name": "FLUTE",
+      "url": "https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO"
+    },
+    {
+      "added_at": "2024-04-19 16:56:25",
+      "album": {
         "name": "Liquid Spirit (Claptone Remix)",
         "url": "https://open.spotify.com/album/2IeDDT5i132tRkKHrdfWS2"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 383552,
       "name": "Liquid Spirit - Claptone Remix",
       "url": "https://open.spotify.com/track/6wp5tGVNQYpKJPo1s3WUEY"
-    },
-    {
-      "added_at": "2024-04-19 16:56:25",
-      "album": {
-        "name": "FLUTE",
-        "url": "https://open.spotify.com/album/5wd6GqCH0LfjgoklXABWxF"
-      },
-      "artists": [
-        {
-          "name": "MONSS",
-          "url": "https://open.spotify.com/artist/54cUSKoWHHsLuuX2JuCAKz"
-        }
-      ],
-      "duration_ms": 197489,
-      "name": "FLUTE",
-      "url": "https://open.spotify.com/track/6D1v5PAr6RKuJ8VuaS5aIO"
     },
     {
       "added_at": "2024-04-19 16:56:25",

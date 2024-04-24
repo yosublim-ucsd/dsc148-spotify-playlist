@@ -2,7 +2,7 @@
 
 ### [Dubstep Don](https://open.spotify.com/playlist/37i9dQZF1DX5Q27plkaOQ3)
 
-> All <a href="spotify:genre:bass">wobble</a>\. Cover: Wooli
+> All <a href="spotify:genre:bass">wobble</a>\. Cover: Wooli and SampliFire
 
 607 songs - 1 day 10 hr 13 min
 
@@ -28,7 +28,7 @@
 | [All Your Lies](https://open.spotify.com/track/0TI191mYlDr4wOpuqDWcZS) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Lexi Norton](https://open.spotify.com/artist/4jjDncozkOf5MTdXPkBYdV) | [All Your Lies](https://open.spotify.com/album/2C6autjettV455fh9GbFGD) | 3:43 | 2022-04-15 | 2023-04-01 |
 | [Always Wanna Talk](https://open.spotify.com/track/37WgviAL9YLn5HHCCFZLmd) | [Big Gigantic](https://open.spotify.com/artist/7o7mC95EDbJKTcPAAs8C3r), [Smoakland](https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs) | [Always Wanna Talk](https://open.spotify.com/album/2UOWENmQspXrv17EzBqHK2) | 2:51 | 2024-03-15 |  |
 | [Angels & Blindfolds](https://open.spotify.com/track/5iy9QH67HXDjgThOthkDeV) | [Oddprophet](https://open.spotify.com/artist/6KqmNCHompcbyvzpesJTYU) | [Angels & Blindfolds](https://open.spotify.com/album/5sI33yhZyJjD43lZDdzwHP) | 4:12 | 2022-01-28 | 2023-04-01 |
-| [ANGELS IN HELL](https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL), [Xuitcasecity](https://open.spotify.com/artist/6YxrfNCKBcQlbITpmDLErL) | [ANGELS IN HELL](https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF) | 3:54 | 2023-12-22 |  |
+| [ANGELS IN HELL](https://open.spotify.com/track/6g7dSKYqZTuaGSLsf4o0s5) | [Ryan Nevis](https://open.spotify.com/artist/3lTv6FUrCLwLJqLkkqWRij), [Gomey](https://open.spotify.com/artist/5ibWbhA0IkPT3xCN0YicRL) | [ANGELS IN HELL](https://open.spotify.com/album/6eQp2cvNbakYkWLip21vPF) | 3:54 | 2023-12-22 |  |
 | [Another One](https://open.spotify.com/track/5YtIeVlxDt8riaDmOhiDqq) | [Wodd](https://open.spotify.com/artist/3TFrAhV5T8qgFOhpaQlUHG), [VLCN](https://open.spotify.com/artist/4jTgru4XsqeKA1L9xB9AzW), [Donna Tella](https://open.spotify.com/artist/39czNpwEAe5tGKIE53XDmm) | [Another One](https://open.spotify.com/album/6Z6zEnG4XVYwOebFAVIHUZ) | 4:11 | 2023-12-22 | 2024-01-27 |
 | [Arabian Knights](https://open.spotify.com/track/2kO0AAHz7hYN6taN6oUMwT) | [RIOT](https://open.spotify.com/artist/0qPGd8tOMHlFZt8EA1uLFY), [Soltan](https://open.spotify.com/artist/6wIbmO0mcpIyQ6CFXIJmIy) | [Arabian Knights](https://open.spotify.com/album/1PicnlQtu8oliMzWJcQcZV) | 3:06 | 2022-06-17 | 2023-05-13 |
 | [Arcade Fire](https://open.spotify.com/track/6oXQKW4cXq2c1HaTycVIlF) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ), [FuntCase](https://open.spotify.com/artist/6v1BAWFVNPbPJlnFHWR78D) | [Arcade Fire](https://open.spotify.com/album/3MxrpzVBvts8GL1xMrF3WH) | 3:54 | 2021-12-17 | 2022-10-08 |

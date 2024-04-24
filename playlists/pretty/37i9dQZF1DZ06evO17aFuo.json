@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 277909,
+  "num_followers": 278030,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzY1NzYwMCwwMDAwMDAwMDhiNDIxZjNkZmM2ZTM3NGU3YmVhMTE5NzcyNTAzZDk5",
+  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGYxMTFlN2RmYzc4ZjIyYzE1YmQwMWM1ZGRhZGQyZmFi",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Youthanasia (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 211226,
-      "name": "Train Of Consequences - Remastered 2004",
-      "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 265133,
       "name": "Dread and the Fugitive Mind",
       "url": "https://open.spotify.com/track/5ThljNlaUX5zNgNWBmanmG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Youthanasia (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 211226,
+      "name": "Train Of Consequences - Remastered 2004",
+      "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Killing Is My Business...And Business Is Good!",
-        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 265266,
-      "name": "Mechanix",
-      "url": "https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Needs a Hero",
         "url": "https://open.spotify.com/album/1BbQ01oDFvVK4aHdgvsBB9"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 268706,
       "name": "Promises",
       "url": "https://open.spotify.com/track/196rNjJkKTjsk2NTEtJKLq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Killing Is My Business...And Business Is Good!",
+        "url": "https://open.spotify.com/album/0TFQuO4m3XR5pTJCFS88Qk"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 265266,
+      "name": "Mechanix",
+      "url": "https://open.spotify.com/track/2bfwYcc1FzkIym0XRkYb7F"
     },
     {
       "added_at": null,

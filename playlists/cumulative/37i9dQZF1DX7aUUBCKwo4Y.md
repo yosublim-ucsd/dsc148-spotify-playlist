@@ -4,7 +4,7 @@
 
 > Country music's 50 most played songs in the world\. Updated weekly\. Cover: Morgan Wallen
 
-247 songs - 13 hr 50 min
+248 songs - 13 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Dead of Night](https://open.spotify.com/track/08unC8N1V1dEcqiyi06g6W) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Pony](https://open.spotify.com/album/3950FHVErcINW3tjRgjebQ) | 3:59 | 2022-01-26 | 2022-03-03 |
 | [Deeper Well](https://open.spotify.com/track/2lJn77IeZAP9cmv6DPXOrL) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/2NXiMKrwmPrqU8epp20pW8) | 3:52 | 2024-02-20 |  |
 | [Deeper Well](https://open.spotify.com/track/333XFHKsHU0pOocFzBgrJi) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Deeper Well](https://open.spotify.com/album/5SxZmGwc4eJuPp6PcO4JgJ) | 3:52 | 2024-03-13 | 2024-04-19 |
+| [Devil You Know](https://open.spotify.com/track/6tWGe6nvXFWT0KhGCXM89q) | [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N) | [Devil You Know](https://open.spotify.com/album/4OWkgV3qaf52HEXYsRSTZM) | 3:12 | 2024-04-24 |  |
 | [Die A Happy Man](https://open.spotify.com/track/5kNe7PE09d6Kvw5pAsx23n) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Tangled Up](https://open.spotify.com/album/4ykbJPI8MPscFzROE8dqLy) | 3:47 | 2021-12-29 | 2023-05-11 |
 | [Doin' This](https://open.spotify.com/track/4GyD3o5hWoyCuYpdlzZlRL) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Doin' This](https://open.spotify.com/album/6bpCbQ5GTNZ9IE1nvJ0zQA) | 4:14 | 2021-12-29 | 2022-08-19 |
 | [Don't Think Jesus](https://open.spotify.com/track/1TUuhV75FeOF6UObRsABo2) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Don't Think Jesus](https://open.spotify.com/album/6Lh4g6sKzuiuBCzEXgwCuz) | 3:46 | 2022-04-27 | 2022-09-09 |
@@ -181,7 +182,7 @@
 | [Soul](https://open.spotify.com/track/3vCUelLOtiuNF78p9LNWZF) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 2:47 | 2022-05-18 | 2022-12-15 |
 | [Speechless](https://open.spotify.com/track/3GJ4hzg4lrGwU51Y3VARbF) | [Dan + Shay](https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T) | [Dan + Shay](https://open.spotify.com/album/0g1F5eGVwX4Sxi1n8ojPkE) | 3:33 | 2021-12-29 | 2022-04-07 |
 | [Spin You Around \(1/24\)](https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Spin You Around \(1/24\)](https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It) | 3:29 | 2024-02-07 | 2024-03-07 |
-| [Springsteen](https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 4:23 | 2024-04-17 |  |
+| [Springsteen](https://open.spotify.com/track/05ZACkzW8YbRq3eFgIfSNB) | [Eric Church](https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV) | [Chief](https://open.spotify.com/album/5dtw6CoMhbrSj01YUvdQOF) | 4:23 | 2024-04-17 | 2024-04-24 |
 | [Starting Over](https://open.spotify.com/track/3K07bGe8iljQ3mOKArHLDo) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/0sOeI7pbAmIc8aDFyvkBUW) | 4:00 | 2023-03-29 | 2023-04-09 |
 | [Starting Over](https://open.spotify.com/track/3TNSVsiFngfe68UJpMq1oS) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Starting Over](https://open.spotify.com/album/4AOloVYcXn1aa4p4IhwhRM) | 4:00 | 2021-12-29 | 2024-03-07 |
 | [Stop Draggin' Your Boots](https://open.spotify.com/track/0ODaBMQ3tbTefbmbMWTwdT) | [Danielle Bradbery](https://open.spotify.com/artist/5iqStkZi6QmG8sgQZQrfGN) | [Stop Draggin' Your Boots](https://open.spotify.com/album/4uWN7YSR2HKkNkrlY9HiQP) | 2:44 | 2022-07-13 | 2022-09-29 |

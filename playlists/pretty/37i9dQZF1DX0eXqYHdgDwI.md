@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 
 > canzoni su cui piangere 🥀
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,533 likes - 60 songs - 3 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,543 likes - 60 songs - 3 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,9 +30,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 20 | [Someone To Stay](https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN) | [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Revival](https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC) | 4:14 |
 | 21 | [Stay](https://open.spotify.com/track/0GNI8K3VATWBABQFAzBAYe) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H), [Mikky Ekko](https://open.spotify.com/artist/1buzCmyYZE4kcdLRudsb8V) | [Unapologetic \(Deluxe\)](https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY) | 4:00 |
 | 22 | [Control](https://open.spotify.com/track/50Td3qilgs8BLtv8mHyT1t) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Control](https://open.spotify.com/album/4w177LbRYa3z07NifGptFp) | 3:50 |
-| 23 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
+| 23 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
 | 24 | [Can We Kiss Forever?](https://open.spotify.com/track/58wyJLv6yH1La9NIZPl3ne) | [Kina](https://open.spotify.com/artist/4qIVPF0s71ZYW3qzhu5GkF), [Adriana Proenza](https://open.spotify.com/artist/7KHA7OOevgTDFhlym0oEyP) | [Can We Kiss Forever?](https://open.spotify.com/album/0MGcjBIFcL2qaCrgGjIGFb) | 3:07 |
-| 25 | [Say Something](https://open.spotify.com/track/6Vc5wAMmXdKIAM7WUoEb7N) | [A Great Big World](https://open.spotify.com/artist/5xKp3UyavIBUsGy3DQdXeF), [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS) | [Is There Anybody Out There?](https://open.spotify.com/album/1yOcLa4euMk9sV7rRJ89Dl) | 3:49 |
+| 25 | [you were good to me](https://open.spotify.com/track/4CxFN5zON70B3VOPBYbd6P) | [Jeremy Zucker](https://open.spotify.com/artist/3gIRvgZssIb9aiirIg0nI3), [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [brent](https://open.spotify.com/album/16mjtcKPxpQ4ajFHmJ0hJC) | 3:39 |
 | 26 | [A Year Ago](https://open.spotify.com/track/3DBJE1Zndql25OGUQSv7aD) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [A Year Ago](https://open.spotify.com/album/4mXHsCQ4aRccewmcKUxIBJ) | 2:50 |
 | 27 | [Not About Angels](https://open.spotify.com/track/5sF7hdYvhrcgNq8NZjfK8L) | [Birdy](https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP) | [Not About Angels](https://open.spotify.com/album/7DRvJhjucsH34zMXtEh0ER) | 3:09 |
 | 28 | [birthday cake](https://open.spotify.com/track/7dDrR6vMK1JAwZZ5MIWgme) | [Dylan Conrique](https://open.spotify.com/artist/2S054G7qnCK45KY0XzpX30) | [birthday cake](https://open.spotify.com/album/6Z2I7RVroN2B24d7mms0tT) | 3:25 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0eXqYHdgDwI.md) - [plain]
 | 54 | [Complicated](https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf) | [Olivia O'Brien](https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp) | [Complicated](https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ) | 3:09 |
 | 55 | [Someone Like You](https://open.spotify.com/track/6QPKYGnAW9QozVz2dSWqRg) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8) | 4:45 |
 | 56 | [Let Me Love You Like A Woman](https://open.spotify.com/track/4HvE2E9rXJDcQhE4YfeNuG) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Let Me Love You Like A Woman](https://open.spotify.com/album/6yEZH1HexM9sqOX34qUE4u) | 3:20 |
-| 57 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
-| 58 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 |
+| 57 | [Happiest Year](https://open.spotify.com/track/5kcvBnt6DPX3AMEsCx1qDh) | [Jaymes Young](https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2) | [Happiest Year](https://open.spotify.com/album/2LJiFAtg7CyHrkUGr4mwGl) | 3:48 |
+| 58 | [Fingers Crossed](https://open.spotify.com/track/5S9Zs5g9lTWnLIboN1pdlU) | [Lauren Spencer Smith](https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50) | [Fingers Crossed](https://open.spotify.com/album/1UPlwdM0JYNwlDcKbeXrKZ) | 2:55 |
 | 59 | [It's You](https://open.spotify.com/track/6moU77g9RQyMzHNuKEaQKq) | [Ali Gatie](https://open.spotify.com/artist/4rTv3Ejc7hKMtmoBOK1B4T) | [It's You](https://open.spotify.com/album/40vQONzvJb6sKejDN3eWza) | 3:32 |
 | 60 | [when the party's over](https://open.spotify.com/track/14JzyD6FlBD5z0wV5P07YI) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [when the party's over](https://open.spotify.com/album/2DfPdWWXknoGKrfa2Eicyw) | 3:19 |
 

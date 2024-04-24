@@ -2731,6 +2731,24 @@
     },
     {
       "album": {
+        "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
+        "url": "https://open.spotify.com/album/6qHp8By4YBR4N64lffM54n"
+      },
+      "artists": [
+        {
+          "name": "LiSA",
+          "url": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271045,
+      "name": "\u62dd\u5553\u3001\u308f\u305f\u3057\u3078",
+      "url": "https://open.spotify.com/track/5b34ld3EjSkD6b0gCc8yxC"
+    },
+    {
+      "album": {
         "name": "LANDER",
         "url": "https://open.spotify.com/album/0YOUWQVuRAc2SpGdJJt6xv"
       },

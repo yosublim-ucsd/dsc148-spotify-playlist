@@ -730,7 +730,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 247680,
       "name": "Hazir Main Rahun",
       "url": "https://open.spotify.com/track/10JqzOpxi2zL4RcuvwBRtW"
@@ -2201,6 +2201,32 @@
     },
     {
       "album": {
+        "name": "Sadqay",
+        "url": "https://open.spotify.com/album/6DCDw6OlKLmVlVrp9J6YWD"
+      },
+      "artists": [
+        {
+          "name": "Aashir Wajahat",
+          "url": "https://open.spotify.com/artist/4Kd6rJWBl4KpwRYct9PFMo"
+        },
+        {
+          "name": "NAYEL",
+          "url": "https://open.spotify.com/artist/7B0H8l9inK2UBRm5Xsc9zO"
+        },
+        {
+          "name": "Nehaal Naseem",
+          "url": "https://open.spotify.com/artist/6YSVUxXGsQQD2cWSJhN8re"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154455,
+      "name": "Sadqay",
+      "url": "https://open.spotify.com/track/2lX53kXvYnvpV8Vqfe4S7s"
+    },
+    {
+      "album": {
         "name": "Sham (Sunset Edition By Nikhil Dsouza)",
         "url": "https://open.spotify.com/album/3v24ZyDKEepP51BboVRMLd"
       },
@@ -2346,6 +2372,28 @@
       "duration_ms": 299159,
       "name": "Sooha Saaha",
       "url": "https://open.spotify.com/track/54dHaY92XZ47ltrZqZulGt"
+    },
+    {
+      "album": {
+        "name": "Sunday",
+        "url": "https://open.spotify.com/album/34YGRvUlSxeevZHXZ7fl9m"
+      },
+      "artists": [
+        {
+          "name": "Aditya A",
+          "url": "https://open.spotify.com/artist/4wwYGgSpeBtvk5WX6HBqzw"
+        },
+        {
+          "name": "NAALAYAK",
+          "url": "https://open.spotify.com/artist/6BWd8VpOoODhMOPks4sI6R"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144923,
+      "name": "Sunday",
+      "url": "https://open.spotify.com/track/1GMFeGQBppaepcx6NsR7qB"
     },
     {
       "album": {
@@ -2854,7 +2902,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 139826,
       "name": "Zaroori Nahi",
       "url": "https://open.spotify.com/track/12O0B3JWQMQH94BKLqMHcv"

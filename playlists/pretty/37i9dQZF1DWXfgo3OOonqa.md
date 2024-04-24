@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > Håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 327,275 likes - 98 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 327,326 likes - 98 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

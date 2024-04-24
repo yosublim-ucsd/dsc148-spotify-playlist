@@ -1,6 +1,6 @@
 {
   "description": "New & best K-Electronic music is here. (Cover: B\u00c9BE YANA)",
-  "num_followers": 24501,
+  "num_followers": 24536,
   "original_name": "Electronii'K",
   "owner": {
     "name": "Spotify",
@@ -355,26 +355,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Hold You",
-        "url": "https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw"
-      },
-      "artists": [
-        {
-          "name": "Chill Satellite",
-          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
-        },
-        {
-          "name": "P3PPER",
-          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
-        }
-      ],
-      "duration_ms": 168937,
-      "name": "Hold You",
-      "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol. 28: Get A Guitar Remixes",
         "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
       },
@@ -391,6 +371,26 @@
       "duration_ms": 167576,
       "name": "Get A Guitar - Chromeo Remix",
       "url": "https://open.spotify.com/track/2unK3dXVGcy4BpJu3gFY9g"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "Hold You",
+        "url": "https://open.spotify.com/album/2jNiU6yeQ3Lj8R2uj2fuXw"
+      },
+      "artists": [
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        },
+        {
+          "name": "P3PPER",
+          "url": "https://open.spotify.com/artist/0iq9s28aS7Tzobq9Yznwnj"
+        }
+      ],
+      "duration_ms": 168937,
+      "name": "Hold You",
+      "url": "https://open.spotify.com/track/19DjnoLxpF2Nly502nDPGG"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -551,22 +551,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.30 : To. X Remixes",
-        "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
+        "name": "iScreaM Vol. 28: Get A Guitar Remixes",
+        "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
       },
       "artists": [
         {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+          "name": "RIIZE",
+          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
         },
         {
-          "name": "GINJO",
-          "url": "https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM"
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 284541,
-      "name": "Fabulous - GINJO Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/6U2cbwRR7YeNM2H49opI7J"
+      "duration_ms": 167576,
+      "name": "Get A Guitar (English Version) - Chromeo Remix",
+      "url": "https://open.spotify.com/track/5iOn6Blh3DVovnLQRWGWM4"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -611,22 +611,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol. 28: Get A Guitar Remixes",
-        "url": "https://open.spotify.com/album/49AQvxM6i13Zwjm4o3PyHo"
+        "name": "iScreaM Vol.30 : To. X Remixes",
+        "url": "https://open.spotify.com/album/6kR9Gky1BBCFn17lA6ZO9x"
       },
       "artists": [
         {
-          "name": "RIIZE",
-          "url": "https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX"
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
         },
         {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
+          "name": "GINJO",
+          "url": "https://open.spotify.com/artist/75vTLAnhUDaUwzjPCKvaJM"
         }
       ],
-      "duration_ms": 167576,
-      "name": "Get A Guitar (English Version) - Chromeo Remix",
-      "url": "https://open.spotify.com/track/5iOn6Blh3DVovnLQRWGWM4"
+      "duration_ms": 284541,
+      "name": "Fabulous - GINJO Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/6U2cbwRR7YeNM2H49opI7J"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -755,26 +755,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.9 : Hot Sauce Remixes",
-        "url": "https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk"
-      },
-      "artists": [
-        {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
-        },
-        {
-          "name": "Hitchhiker",
-          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Hot Sauce - Hitchhiker Remix",
-      "url": "https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.11 : Queendom Remix",
         "url": "https://open.spotify.com/album/7uCTBsGC6JHlwmmrOCIUBw"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 194754,
       "name": "Queendom - Demicat Remix",
       "url": "https://open.spotify.com/track/76fqR3nf37J4WQ3K8NrXMM"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "iScreaM Vol.9 : Hot Sauce Remixes",
+        "url": "https://open.spotify.com/album/6f8Coii7w0nJi3TKVMXoWk"
+      },
+      "artists": [
+        {
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+        },
+        {
+          "name": "Hitchhiker",
+          "url": "https://open.spotify.com/artist/5ePDPFrSdmaieYrKrPDJPx"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Hot Sauce - Hitchhiker Remix",
+      "url": "https://open.spotify.com/track/5b9Xo4A6XODIi8tkD1Qdz9"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -887,22 +887,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.2 : Ridin' Remixes",
-        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
+        "name": "iScreaM Vol.12 : Bad Boy Remixes",
+        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
       },
       "artists": [
         {
-          "name": "NCT DREAM",
-          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
+          "name": "Red Velvet",
+          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
         },
         {
-          "name": "Minit",
-          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
+          "name": "nomad",
+          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
         }
       ],
-      "duration_ms": 197538,
-      "name": "BOOM - Minit Remix, Bonus Track",
-      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
+      "duration_ms": 211845,
+      "name": "Bad Boy - nomad Remix",
+      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -931,22 +931,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "iScreaM Vol.12 : Bad Boy Remixes",
-        "url": "https://open.spotify.com/album/46q4DrAttifm5PnrAtYqp2"
+        "name": "iScreaM Vol.2 : Ridin' Remixes",
+        "url": "https://open.spotify.com/album/2hgdXJ0nks91XuWstwLwuN"
       },
       "artists": [
         {
-          "name": "Red Velvet",
-          "url": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+          "name": "NCT DREAM",
+          "url": "https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02"
         },
         {
-          "name": "nomad",
-          "url": "https://open.spotify.com/artist/2xPc9Yvp2U0uUYxZdvFLOz"
+          "name": "Minit",
+          "url": "https://open.spotify.com/artist/6TXbTOTnLFaF1iHywOaV1m"
         }
       ],
-      "duration_ms": 211845,
-      "name": "Bad Boy - nomad Remix",
-      "url": "https://open.spotify.com/track/49FchQE6EsiDYK9Ls0YtiN"
+      "duration_ms": 197538,
+      "name": "BOOM - Minit Remix, Bonus Track",
+      "url": "https://open.spotify.com/track/03YS92LnXaaMSxPiz8ZEiM"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1007,22 +1007,6 @@
       "duration_ms": 203720,
       "name": "Don't Call Me - Fox Stevenson Remix",
       "url": "https://open.spotify.com/track/41w4ZjkJpDIOUizWS6KlSm"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "Lift Me Up",
-        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
-      },
-      "artists": [
-        {
-          "name": "DUE",
-          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
-        }
-      ],
-      "duration_ms": 121406,
-      "name": "Lift Me Up",
-      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1099,6 +1083,22 @@
       "duration_ms": 136413,
       "name": "Down Low",
       "url": "https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/3EfxRgpDIoCtDYgYrh1Y6A"
+      },
+      "artists": [
+        {
+          "name": "DUE",
+          "url": "https://open.spotify.com/artist/4150G9GrM7VzaOzUmPCf5m"
+        }
+      ],
+      "duration_ms": 121406,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/2lahORylPr5NKed4le9ODg"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Off Ways",
-        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
-      },
-      "artists": [
-        {
-          "name": "SUNGYOO",
-          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
-        },
-        {
-          "name": "Chill Satellite",
-          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
-        }
-      ],
-      "duration_ms": 180816,
-      "name": "Off Ways",
-      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "iScreaM Vol.15 : INVU Remixes",
         "url": "https://open.spotify.com/album/3SgU4s35dXtFmIZP5AdqTw"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 251026,
       "name": "INVU - Moon Kyoo Remix",
       "url": "https://open.spotify.com/track/0T6VXBiZWKQgxmVFZL8x37"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "Off Ways",
+        "url": "https://open.spotify.com/album/5GrvHifcpCyzKUMHI2Mtyy"
+      },
+      "artists": [
+        {
+          "name": "SUNGYOO",
+          "url": "https://open.spotify.com/artist/2XHuEfa7Twhus6j7omuKb8"
+        },
+        {
+          "name": "Chill Satellite",
+          "url": "https://open.spotify.com/artist/4vZ2mRnHWxGV3JEn2SO0aA"
+        }
+      ],
+      "duration_ms": 180816,
+      "name": "Off Ways",
+      "url": "https://open.spotify.com/track/28oDhUdHX9CqwVrdJTKubW"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1619,18 +1619,18 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Power (Remixes)",
-        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
+        "name": "Sarah",
+        "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
       },
       "artists": [
         {
-          "name": "EXO",
-          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
+          "name": "KIRARA",
+          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
         }
       ],
-      "duration_ms": 256959,
-      "name": "Power - SHAUN Remix",
-      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
+      "duration_ms": 355852,
+      "name": "Wish",
+      "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1655,18 +1655,18 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Sarah",
-        "url": "https://open.spotify.com/album/6RX4hUA7LUBK5XxZqmwloY"
+        "name": "Power (Remixes)",
+        "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
       "artists": [
         {
-          "name": "KIRARA",
-          "url": "https://open.spotify.com/artist/6Q4tDWdAQdRjV4pAuqiHQW"
+          "name": "EXO",
+          "url": "https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O"
         }
       ],
-      "duration_ms": 355852,
-      "name": "Wish",
-      "url": "https://open.spotify.com/track/1Rf9oOHLlFxnsFkRq8IywM"
+      "duration_ms": 256959,
+      "name": "Power - SHAUN Remix",
+      "url": "https://open.spotify.com/track/2fLgM0XJuxmtiwz5KrrOkn"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
+        "name": "PSILOCYBIN",
+        "url": "https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI"
+      },
+      "artists": [
+        {
+          "name": "HYPNOSIS THERAPY",
+          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
+        }
+      ],
+      "duration_ms": 127250,
+      "name": "@_@",
+      "url": "https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
         "name": "iScreaM Vol.7 : Don't Call Me Remixes",
         "url": "https://open.spotify.com/album/2dw5OhTWlveInSayuXHYik"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 181463,
       "name": "Don't Call Me - ESAI Remix",
       "url": "https://open.spotify.com/track/0IOwemmG89kd7zavZz6bvS"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
-        "name": "PSILOCYBIN",
-        "url": "https://open.spotify.com/album/1rUoceFLTQxAlMGuYpWCCI"
-      },
-      "artists": [
-        {
-          "name": "HYPNOSIS THERAPY",
-          "url": "https://open.spotify.com/artist/6JwAbXBmKAP4lIett8KUiP"
-        }
-      ],
-      "duration_ms": 127250,
-      "name": "@_@",
-      "url": "https://open.spotify.com/track/5fmIHR4PfKC7h4XIF1Kaqe"
     },
     {
       "added_at": "2024-04-18 05:50:31",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2024-04-18 05:50:31",
       "album": {
-        "name": "Techno Drop",
-        "url": "https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC"
-      },
-      "artists": [
-        {
-          "name": "NAEMS",
-          "url": "https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO"
-        },
-        {
-          "name": "Arkins",
-          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
-        }
-      ],
-      "duration_ms": 161727,
-      "name": "Techno Drop",
-      "url": "https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF"
-    },
-    {
-      "added_at": "2024-04-18 05:50:31",
-      "album": {
         "name": "Power (Remixes)",
         "url": "https://open.spotify.com/album/6kMYsqzcglsUJZodFLGD51"
       },
@@ -1831,6 +1811,26 @@
       "duration_ms": 194569,
       "name": "SCREAM",
       "url": "https://open.spotify.com/track/6F3cF9xuPXYa6vZKrAQOlo"
+    },
+    {
+      "added_at": "2024-04-18 05:50:31",
+      "album": {
+        "name": "Techno Drop",
+        "url": "https://open.spotify.com/album/6H77wIORIEe2156QVDgWzC"
+      },
+      "artists": [
+        {
+          "name": "NAEMS",
+          "url": "https://open.spotify.com/artist/5IGKglmmj5FyV0aJ53sEkO"
+        },
+        {
+          "name": "Arkins",
+          "url": "https://open.spotify.com/artist/0U5VaBswRTkquQ6rXxzjVH"
+        }
+      ],
+      "duration_ms": 161727,
+      "name": "Techno Drop",
+      "url": "https://open.spotify.com/track/64FyCvuRQz97BlujorXRrF"
     },
     {
       "added_at": "2024-04-18 05:50:31",

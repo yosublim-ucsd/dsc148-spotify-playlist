@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 
 > Dope, Asian, and Femme\. Cover: YOASOBI
 
-[Spotify](https://open.spotify.com/user/spotify) - 85,354 likes - 90 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 85,362 likes - 90 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,8 +95,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1kZBqCJkwLM.md) - [plain]
 | 85 | [Sublime](https://open.spotify.com/track/5hfn3tbQM78sjfEp0yRTlC) | [Jolianne](https://open.spotify.com/artist/0GuaoBVOFuVXuhbrmSD1je), [CARELESS](https://open.spotify.com/artist/6ZPADYpgSS0VwqZPJeX54p) | [Sublime](https://open.spotify.com/album/5fFw29w9WN8DowadchtaCr) | 3:30 |
 | 86 | [Bicycle](https://open.spotify.com/track/7wDVvxMUdW5MtJUqFtuXUz) | [CHUNG HA](https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y) | [Querencia](https://open.spotify.com/album/1p2OBhqq0d1N8awjHV9xA3) | 2:59 |
 | 87 | [RIP To My Feelings](https://open.spotify.com/track/6O006yehRUETdQvxfCAVl9) | [TRACE](https://open.spotify.com/artist/5k7Y2t4cB5dG219QgFCvXW), [TheGifted](https://open.spotify.com/artist/03JZckISPavxXkoReAt6oI) | [RIP To My Feelings](https://open.spotify.com/album/5jqqcOyvjES1yHArXDJINR) | 3:24 |
-| 88 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
-| 89 | [MADAME](https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [MADAME](https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO) | 3:03 |
-| 90 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
+| 88 | [MADAME](https://open.spotify.com/track/2QM5FStfpfbT7SKgVwY0D5) | [SYA](https://open.spotify.com/artist/0rW7V7HZoluUNdKnHK2lTl) | [MADAME](https://open.spotify.com/album/2CEbEMSPSd5dc764yqIyfO) | 3:03 |
+| 89 | [Look At Me Now](https://open.spotify.com/track/5e4v3Y79FXRKrmdLVAdzwS) | [Ramengvrl](https://open.spotify.com/artist/0AsbBukUWcA4lJT5ARtlgQ), [Ted Park](https://open.spotify.com/artist/4ph6JucAkc6pnPPad0uiJT) | [Can't Speak English](https://open.spotify.com/album/6mi1RxPYbLPUw1gMWVsRQc) | 2:49 |
+| 90 | [Loved By U](https://open.spotify.com/track/1SldN7GTd0ADTjspv96wCl) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Loved By U](https://open.spotify.com/album/3ZWTn4QQX16aHY64yVeC1D) | 3:27 |
 
 Snapshot ID: `MTcxMzI4MzQ3MSwwMDAwMDAwMGEwYTQ5MTFkZDFlZTE0YjZhOTEzYzI0ZWI3ZGM0ZGZm`

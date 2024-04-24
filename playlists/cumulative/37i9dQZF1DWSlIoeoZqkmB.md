@@ -4,10 +4,11 @@
 
 > 2024年5月11日\(土\)＆12日\(日\)Kアリーナ横浜にて開催される「<a href="https://kingsuperlive.jp/">KING SUPER LIVE2024</a>」公式プレイリスト予習編！
 
-42 songs - 2 hr 30 min
+43 songs - 2 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [ADRENALIZED](https://open.spotify.com/track/1RFwwyKSGsQEuR776Ywe6a) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ADRENALIZED](https://open.spotify.com/album/5YJyrGRr8FE3IRZdaTG94T) | 3:41 | 2024-04-23 |  |
 | [bi\-dama](https://open.spotify.com/track/6jYimcDQCoeWPZT7YW1u2W) | [HACHI](https://open.spotify.com/artist/2ksMoRs5T9ErEe5H7gxv7C) | [Close to heart](https://open.spotify.com/album/4GKdTchAb3il8S28ibi9Xt) | 3:27 | 2024-02-01 | 2024-04-19 |
 | [Blessing](https://open.spotify.com/track/06Ib3ZdvO0VyAZMdq0qpaw) | [千葉翔也](https://open.spotify.com/artist/4K9KcKXSLwOVO44wHuxML1) | [Blessing](https://open.spotify.com/album/2fg7Y4nRH7bTtqO9wSOMJm) | 4:19 | 2024-02-01 |  |
 | [DREAMS](https://open.spotify.com/track/655tvyhcRmteX32HfJVAdz) | [Romantic Mode](https://open.spotify.com/artist/1HWjBMDxhQeelXKA2vdgbp) | [DREAMS](https://open.spotify.com/album/4EuIn0YldaIEf1I0iayIkg) | 5:01 | 2024-02-01 |  |

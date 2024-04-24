@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 
 ### [This Is Bobby Pulido](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Jdbs4)
 
-> This is Bobby Pulido\. Tutti i brani in un'unica playlist.
+> This Is Bobby Pulido\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,403 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,409 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Jdbs4.md) - [plain]
 | 49 | [Llórame](https://open.spotify.com/track/2uBdikf4ImGwMP4UZCpt0W) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Llórame](https://open.spotify.com/album/0XT8nEBbAPG8TTRc5ZwLqf) | 3:06 |
 | 50 | [Quiero Decirte](https://open.spotify.com/track/26ljxPYYQaVOMvTBxEifEG) | [Bobby Pulido](https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg) | [Desvelado](https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2) | 3:19 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDNkODAwOWJiZDE1NGUxOWUxOGI4ZTNiMzljNDc1OGYx`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDQ4M2M5NjNkNDdjZTEwYTkwODEyNDMxZmJkMzVlYThk`

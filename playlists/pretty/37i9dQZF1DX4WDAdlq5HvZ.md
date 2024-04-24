@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 
 > Happy Mother's Day!  Send love to all the mothers and remind them what a blessing they are with these songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,375 likes - 85 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,391 likes - 85 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4WDAdlq5HvZ.md) - [plain]
 | 37 | [Fighter](https://open.spotify.com/track/6xcaBP6eJajda8AgSNsYun) | [Danny Gokey](https://open.spotify.com/artist/5Yu3b48Y29bZlI1cLPOZJz) | [Haven't Seen It Yet](https://open.spotify.com/album/1keC2a4EU43ByCNGktRgB6) | 3:21 |
 | 38 | [Whole Heart \(Hold Me Now\) \- Acoustic](https://open.spotify.com/track/2ZUlzVNFZz359SJ3tfHhL7) | [Hillsong UNITED](https://open.spotify.com/artist/74cb3MG0x0BOnYNW1uXYnM), [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW), [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf) | [People \(Live\)](https://open.spotify.com/album/5tLfBSUv5KGNNOqbyKo1rD) | 5:40 |
 | 39 | [A Mother Like You](https://open.spotify.com/track/4Vnbh54MMkRf2uZXcON3Av) | [JJ Heller](https://open.spotify.com/artist/7dq8KEwf0kQXJhM79iwcPh) | [A Mother Like You](https://open.spotify.com/album/7DrWjwgmmTZPGdQxfP8qi6) | 3:54 |
-| 40 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 |
-| 41 | [More Beautiful You](https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [More Beautiful You](https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp) | 3:51 |
+| 40 | [More Beautiful You](https://open.spotify.com/track/0BD6kjnLp2CGYAY3Vb6bUY) | [Jonny Diaz](https://open.spotify.com/artist/4HKCjseZVD2vG7EJG3yLwt) | [More Beautiful You](https://open.spotify.com/album/27qh9LZsrPEPAdxKvbUPBp) | 3:51 |
+| 41 | [What I Never Knew I Always Wanted](https://open.spotify.com/track/5b0QOGqikWl9VZ3H3uHrUb) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Storyteller](https://open.spotify.com/album/4q3SkZWPYJtKno1RbnrjL4) | 3:35 |
 | 42 | [Slow Down](https://open.spotify.com/track/5ih42me52UDonDOMv1gl7o) | [Nichole Nordeman](https://open.spotify.com/artist/0KSjxPoT71Dq8qcgfWTdHh) | [The Unmaking](https://open.spotify.com/album/5Hbn1AQBK8wzLX5OBe0v0x) | 3:58 |
 | 43 | [Footprints in the Sand \- Single Mix](https://open.spotify.com/track/0mrqlJrZRPEaH6RXkztRT2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Spirit](https://open.spotify.com/album/7t1veDv7FWHYXskQEoU7dq) | 3:56 |
 | 44 | [Help Us To Love](https://open.spotify.com/track/6LPnHQr7o95lezO5Y6qJVE) | [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [The HamilTones](https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs) | [Hiding Place](https://open.spotify.com/album/5A5ePoPwlIuxVmn3cIhiFw) | 3:45 |

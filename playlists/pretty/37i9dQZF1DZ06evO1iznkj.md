@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 
 ### [This Is Gunna](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1iznkj)
 
-> This is Gunna。アーティストの代表曲をひとつのプレイリストに。
+> This is Gunna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,419 likes - 51 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,491 likes - 51 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,17 +24,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 14 | [Never Recover \(Lil Baby & Gunna, Drake\)](https://open.spotify.com/track/6wWaVoUOzLQJHd3bWAUpdZ) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 3:14 |
 | 15 | [Who You Foolin](https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip or Drown 2](https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj) | 2:31 |
 | 16 | [pushin P \(feat\. Young Thug\)](https://open.spotify.com/track/3XOalgusokruzA5ZBA2Qcb) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:16 |
-| 17 | [Bittersweet](https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bittersweet](https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY) | 3:11 |
-| 18 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
+| 17 | [back to the moon](https://open.spotify.com/track/3OGCNLxpBmTYRxPZg2yDE5) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 3:13 |
+| 18 | [Bittersweet](https://open.spotify.com/track/7yfRb4seXT7w8zVMW0dXNa) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bittersweet](https://open.spotify.com/album/4rqR6LyYV1AHn1DUi6UwjY) | 3:11 |
 | 19 | [Stuck In A Dream \(feat\. Gunna\)](https://open.spotify.com/track/7iHHxY2NLlJRAmlAmC4ahQ) | [Lil Mosey](https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Certified Hitmaker](https://open.spotify.com/album/0y1rJ1B0Q9MqxX9Svuyuyp) | 2:03 |
 | 20 | [I Cannot Be \(A Sadder Song\) \(with Gunna\)](https://open.spotify.com/track/4IxeKzzxUSEgivgtbSbyIK) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Twelve Carat Toothache](https://open.spotify.com/album/3HHNR44YbP7XogMVwzbodx) | 2:49 |
-| 21 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
-| 22 | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox) | 2:46 |
+| 21 | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/track/55WLWX71YkHt2tSucNIf1g) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Sold Out Dates \(feat\. Lil Baby\)](https://open.spotify.com/album/2na1cAK6nayzGL0Mt7AZox) | 2:46 |
+| 22 | [Banking On Me](https://open.spotify.com/track/7Fege3yv4dvehB3NdRBGwI) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Banking On Me](https://open.spotify.com/album/0J2kO9eiQauyjKyYgBFtPn) | 3:20 |
 | 23 | [south to west](https://open.spotify.com/track/7rEUuRanwV9piOwwPKxPIM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [DS4EVER](https://open.spotify.com/album/02uWB8Kekadkl3yGBoOOcx) | 2:02 |
 | 24 | [Heatin Up \(feat\. Gunna\)](https://open.spotify.com/track/7KSSdFCBHCfq4KPzz78ghk) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 2:57 |
 | 25 | [What Happened To Virgil \(feat\. Gunna\)](https://open.spotify.com/track/7ohROa13QK43JBRqfCmz4P) | [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [7220](https://open.spotify.com/album/0vRN2oePynCSTspdY9NDsM) | 3:01 |
-| 26 | [Bachelor](https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bachelor](https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk) | 4:01 |
-| 27 | [All The Money \(with Gunna\) \[Bonus\]](https://open.spotify.com/track/4a1fh9vJMMoRjNrBmEWoM0) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:47 |
+| 26 | [All The Money \(with Gunna\) \[Bonus\]](https://open.spotify.com/track/4a1fh9vJMMoRjNrBmEWoM0) | [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [HEROES & VILLAINS](https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP) | 2:47 |
+| 27 | [Bachelor](https://open.spotify.com/track/35gu7pEQ2gOLUvskspCD3Y) | [Turbo](https://open.spotify.com/artist/002HSjuWsGMinkXTa7JcRp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Bachelor](https://open.spotify.com/album/5csXVq16N67kRKWhgUmWpk) | 4:01 |
 | 28 | [Solid \(feat\. Drake\)](https://open.spotify.com/track/6rTInqW3YECMkQsBEHw4sd) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Slime Language 2](https://open.spotify.com/album/3ihwKkIMJWmmp1huNH0iWC) | 3:35 |
 | 29 | [ca$h $hit](https://open.spotify.com/track/48rsYvIQXUAtxcmIoStOaM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [a Gift & a Curse](https://open.spotify.com/album/5qmZefgh78fN3jsyPPlvuw) | 2:11 |
 | 30 | [MET GALA](https://open.spotify.com/track/4loM16743hROPC6uIJG6wM) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:29 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iznkj.md) - [plain]
 | 50 | [TOP FLOOR \(feat\. Travis Scott\)](https://open.spotify.com/track/4YhJ3a6kBPGJWX4Ek77sDd) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [WUNNA](https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu) | 2:49 |
 | 51 | [Start Wit Me \(feat\. Gunna\)](https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Please Excuse Me for Being Antisocial](https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba) | 2:38 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMGNhMWE3YjhmZTRlZmFmNTI2MzdjY2I4ZjlhM2U5MzBk`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGJiODkxYTUzYWFkNzQzYjgyZjk2M2MxYzhjMWU1OWUw`

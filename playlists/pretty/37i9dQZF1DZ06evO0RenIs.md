@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 
 ### [This Is Phoenix](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0RenIs)
 
-> This is Phoenix\. The essential tracks, all in one playlist.
+> This Is Phoenix\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,808 likes - 48 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,818 likes - 48 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0RenIs.md) - [plain]
 | 47 | [Victim of the Crime](https://open.spotify.com/track/2ThMLsmAtcKOmXaEgKdJ93) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [Alphabetical](https://open.spotify.com/album/0q1YbH7gLkklLFxNBLRKHD) | 4:05 |
 | 48 | [Definitive Breaks](https://open.spotify.com/track/1BfKwzPvTyt45fXq7zUQPZ) | [Phoenix](https://open.spotify.com/artist/1xU878Z1QtBldR7ru9owdU) | [United](https://open.spotify.com/album/5MBUL8d9FAYCCMrogOFX68) | 1:40 |
 
-Snapshot ID: `MTcxMzY1NzYwMCwwMDAwMDAwMDI4ZGY3YWJlMmNlYmFkMjk2NDRhMzE0Yjc3ZTg3ODhm`
+Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDcwYTA1YmY5NTRmZGE3MmRhZGU1YzlhNTI4NjE5MWRm`

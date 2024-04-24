@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 
 > Sit back with this fun and diverse mix of acoustic covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,679,084 likes - 151 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,676,921 likes - 151 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -145,7 +145,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXmlLSKkfdAk.md) - [plain]
 | 135 | [Taylor Swift 1989 Medley](https://open.spotify.com/track/4Pt2aOG6KETMQp5mukYhD3) | [Gardiner Sisters](https://open.spotify.com/artist/3J28FLi8jjXtUGWf69cP7I) | [Taylor Swift 1989 Medley](https://open.spotify.com/album/6db7iWQUXALMDTVzRcOGpy) | 2:59 |
 | 136 | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/track/1XmhBZq2QahjdqebUbFwTW) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G), [Waxahatchee](https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF) | [Take Me Home, Country Roads \(ft\. Waxahatchee\)](https://open.spotify.com/album/6F92H0EuolbqbRUE4BygP8) | 2:45 |
 | 137 | [Wild World \- Acoustic Version](https://open.spotify.com/track/0ZWSpn7UgqAp4exbKEUD5g) | [Joanna Wang](https://open.spotify.com/artist/1km0aro5NJuoX5dE0Mub5C) | [为爱做的一切](https://open.spotify.com/album/019FOSKZXxS56quC2Wmb1K) | 3:45 |
-| 138 | [Hannah Hunt \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
+| 138 | [Hannah Hunt](https://open.spotify.com/track/2es17WUR55CXoDIcKtT0eZ) | [I'm With Her](https://open.spotify.com/artist/3oXddLOOjkoUuC2sX1RMdr) | [Spotify Singles](https://open.spotify.com/album/3r2nsltTqzo00OsH4aty5a) | 4:38 |
 | 139 | [Steal My Girl](https://open.spotify.com/track/1A0ikIo9hqyp2D3SHxsLk4) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [Steal My Girl \- Single](https://open.spotify.com/album/4ak0sQEx1xteb1eO6nupIp) | 3:28 |
 | 140 | [I Kissed a Girl](https://open.spotify.com/track/4TBZ0i75gIWHedxf6N4Qwc) | [William Fitzsimmons](https://open.spotify.com/artist/41FEVJCBGidsJwbjq0KfgM) | [Derivatives](https://open.spotify.com/album/4Dd7OQGnbrlcNFHD9rf9W4) | 3:12 |
 | 141 | [How's It Going to Be](https://open.spotify.com/track/5j4zV7vxT2mbLrOOpyC95d) | [Jack and White](https://open.spotify.com/artist/2U5RgZDZdAR13tX6yivvRy), [Brooke White](https://open.spotify.com/artist/1feuQE7d9izI54MoL5Lc7t) | [Undercover](https://open.spotify.com/album/7iq1vJH3Ch9NORI4IfazEU) | 4:02 |

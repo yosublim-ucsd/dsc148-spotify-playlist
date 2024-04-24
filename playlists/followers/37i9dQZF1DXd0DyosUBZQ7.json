@@ -1,5 +1,5 @@
 {
-  "2024-04-23": 582554,
+  "2024-04-24": 582952,
   "date_first_scraped": "2021-12-28",
   "description": "The most beautiful love songs of the 2000s",
   "name": "00s Love Songs",
@@ -619,7 +619,7 @@
       ],
       "date_added": "2023-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-23",
       "duration_ms": 198146,
       "name": "Come Away With Me",
       "url": "https://open.spotify.com/track/0Cvjlph1WGbwZY1PlMEtJY"
@@ -695,6 +695,24 @@
       "duration_ms": 213520,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4wCD0qOFNRu1Q6O3N6ycm4"
+    },
+    {
+      "album": {
+        "name": "Come Away With Me",
+        "url": "https://open.spotify.com/album/1JvoMzqg04nC29gam4Qaiq"
+      },
+      "artists": [
+        {
+          "name": "Norah Jones",
+          "url": "https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N"
+        }
+      ],
+      "date_added": "2023-11-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186146,
+      "name": "Don't Know Why",
+      "url": "https://open.spotify.com/track/6ybViy2qrO9sIi41EgRJgx"
     },
     {
       "album": {

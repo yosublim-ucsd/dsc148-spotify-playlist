@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1267690,
+  "num_followers": 1268417,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,26 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "2 Piece",
+        "url": "https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57"
+      },
+      "artists": [
+        {
+          "name": "Dave East",
+          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
+        },
+        {
+          "name": "Harry Fraud",
+          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Bacc 2 Harlem",
+      "url": "https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "That Jazz",
         "url": "https://open.spotify.com/album/5fmTUqAxnXPx3UjgV8VYds"
       },
@@ -1139,26 +1159,6 @@
       "duration_ms": 177713,
       "name": "Factor",
       "url": "https://open.spotify.com/track/4P2wL0Bt5X2NyrpHywsuPM"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "2 Piece",
-        "url": "https://open.spotify.com/album/4ETZDoRT2DmjIb3L2IUo57"
-      },
-      "artists": [
-        {
-          "name": "Dave East",
-          "url": "https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5"
-        },
-        {
-          "name": "Harry Fraud",
-          "url": "https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S"
-        }
-      ],
-      "duration_ms": 186666,
-      "name": "Bacc 2 Harlem",
-      "url": "https://open.spotify.com/track/4GMQyTh4yglx08mb1Aci6y"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1247,26 +1247,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "It's Nice Outside",
-        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
-      },
-      "artists": [
-        {
-          "name": "Anti Lilly",
-          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
-        },
-        {
-          "name": "Phoniks",
-          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "It's Nice Outside",
-      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "EQUINOX",
         "url": "https://open.spotify.com/album/5WP3TQg4wJ4iUN80HbuJk7"
       },
@@ -1283,30 +1263,6 @@
       "duration_ms": 218920,
       "name": "Misty",
       "url": "https://open.spotify.com/track/0U7sCk6TIauNE7Jey4Eclp"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "YHWH is LOVE",
-        "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
-      },
-      "artists": [
-        {
-          "name": "Jahari Massamba Unit",
-          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
-        },
-        {
-          "name": "Karriem Riggins",
-          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
-        },
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 189418,
-      "name": "Anointed Soul",
-      "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1335,6 +1291,50 @@
       "duration_ms": 355720,
       "name": "Black Superhero [Feat. Killer Mike, BJ The Chicago Kid & Big K.R.I.T.]",
       "url": "https://open.spotify.com/track/6i8K68TanxPlhBlRiQIdC3"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "It's Nice Outside",
+        "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
+      },
+      "artists": [
+        {
+          "name": "Anti Lilly",
+          "url": "https://open.spotify.com/artist/0PbnRQE0uPP2QRqiPac6sn"
+        },
+        {
+          "name": "Phoniks",
+          "url": "https://open.spotify.com/artist/5YrpR5RPxUnjQYdNw3WkkH"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "It's Nice Outside",
+      "url": "https://open.spotify.com/track/41H7ayURsGvzBWj77ZddWt"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "YHWH is LOVE",
+        "url": "https://open.spotify.com/album/0GCFzQmxBDBjUcVFHh3Mji"
+      },
+      "artists": [
+        {
+          "name": "Jahari Massamba Unit",
+          "url": "https://open.spotify.com/artist/0wQu6RGpwgoD20qNxb4vwj"
+        },
+        {
+          "name": "Karriem Riggins",
+          "url": "https://open.spotify.com/artist/6e7BQ0gM6o8ecMXRZkXxlZ"
+        },
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 189418,
+      "name": "Anointed Soul",
+      "url": "https://open.spotify.com/track/6kPK6JPNSsWovpDcnfOIyQ"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "One of Those Feelings",
+        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
+      },
+      "artists": [
+        {
+          "name": "Classik",
+          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
+        },
+        {
+          "name": "CrazyJaZz",
+          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
+        }
+      ],
+      "duration_ms": 156342,
+      "name": "One of Those Feelings",
+      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "Last Nite",
         "url": "https://open.spotify.com/album/5LfD9m1peTRqw0JBdbthq5"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 221333,
       "name": "Last Nite",
       "url": "https://open.spotify.com/track/0tyzW2eT67ggLRTVvvXeAM"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "One of Those Feelings",
-        "url": "https://open.spotify.com/album/0XY4UL9J8m3twHBUCK3vit"
-      },
-      "artists": [
-        {
-          "name": "Classik",
-          "url": "https://open.spotify.com/artist/0yxqzeTXKE8mrIG2PCxyf6"
-        },
-        {
-          "name": "CrazyJaZz",
-          "url": "https://open.spotify.com/artist/7nT0BfoHBOjL5yGLTRLmhm"
-        }
-      ],
-      "duration_ms": 156342,
-      "name": "One of Those Feelings",
-      "url": "https://open.spotify.com/track/2H3E4e3q2Qdhz5cMCMh1xU"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "MIDST",
-        "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
-      },
-      "artists": [
-        {
-          "name": "Nyota Parker",
-          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
-        }
-      ],
-      "duration_ms": 160236,
-      "name": "MIDST",
-      "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Blessing in Disguise",
         "url": "https://open.spotify.com/album/77vFBBZ5yCoUsdoo5PRT2Y"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 214700,
       "name": "No Hard Feelings",
       "url": "https://open.spotify.com/track/3euwxpQ0BRPGxy8qg1zijH"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "MIDST",
+        "url": "https://open.spotify.com/album/2AUuYLf37fCO2FEnz3fVER"
+      },
+      "artists": [
+        {
+          "name": "Nyota Parker",
+          "url": "https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl"
+        }
+      ],
+      "duration_ms": 160236,
+      "name": "MIDST",
+      "url": "https://open.spotify.com/track/53PNIzmsDfZZ7IxhSbvxz6"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1691,26 +1691,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Cosca",
-        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
-      },
-      "artists": [
-        {
-          "name": "Conway the Machine",
-          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
-        },
-        {
-          "name": "Wun Two",
-          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
-        }
-      ],
-      "duration_ms": 116756,
-      "name": "Cosca",
-      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/2Esry53MOhCSaf5jOOcF4P"
       },
@@ -1735,38 +1715,22 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Evil Cute",
-        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
+        "name": "Cosca",
+        "url": "https://open.spotify.com/album/7mrB72SorH1BWaW8UNPCVe"
       },
       "artists": [
         {
-          "name": "Shunaji",
-          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
-        }
-      ],
-      "duration_ms": 128914,
-      "name": "Evil Cute",
-      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
-        "name": "Alchemy",
-        "url": "https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o"
-      },
-      "artists": [
-        {
-          "name": "MANIK MC",
-          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+          "name": "Conway the Machine",
+          "url": "https://open.spotify.com/artist/67gqUXxHedeUGDTxwBzdjS"
         },
         {
-          "name": "Maverick Sabre",
-          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+          "name": "Wun Two",
+          "url": "https://open.spotify.com/artist/69cjjIQEN8M6heOBT2SqZE"
         }
       ],
-      "duration_ms": 193362,
-      "name": "Alchemy",
-      "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
+      "duration_ms": 116756,
+      "name": "Cosca",
+      "url": "https://open.spotify.com/track/2R5rLyz7W77xL7dEsMMNkY"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1791,6 +1755,22 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
+        "name": "Evil Cute",
+        "url": "https://open.spotify.com/album/6a4oaeUkfzuWu8MukjuGUa"
+      },
+      "artists": [
+        {
+          "name": "Shunaji",
+          "url": "https://open.spotify.com/artist/1bR8vHth2l5FyrI6Btgonx"
+        }
+      ],
+      "duration_ms": 128914,
+      "name": "Evil Cute",
+      "url": "https://open.spotify.com/track/13b15FZFkjeqby3OIaEvzv"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
         "name": "Morning Walk",
         "url": "https://open.spotify.com/album/4e9WJyGgbyfxGAv06RneXG"
       },
@@ -1811,6 +1791,26 @@
       "duration_ms": 193450,
       "name": "Morning Walk",
       "url": "https://open.spotify.com/track/4C2y1aKylM9BcA0qrk0ABY"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Alchemy",
+        "url": "https://open.spotify.com/album/137mUauJjgIwCPORvCsk5o"
+      },
+      "artists": [
+        {
+          "name": "MANIK MC",
+          "url": "https://open.spotify.com/artist/5Bapg9halr8vzjfc0Cbxol"
+        },
+        {
+          "name": "Maverick Sabre",
+          "url": "https://open.spotify.com/artist/0ukgrNYk51TkMQr0f2Br4Q"
+        }
+      ],
+      "duration_ms": 193362,
+      "name": "Alchemy",
+      "url": "https://open.spotify.com/track/02ck9tzXidQ4fTTMMGX43t"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Win",
-        "url": "https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf"
-      },
-      "artists": [
-        {
-          "name": "IDK",
-          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
-        }
-      ],
-      "duration_ms": 235554,
-      "name": "Win",
-      "url": "https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY"
-    },
-    {
-      "added_at": "2024-04-19 04:01:00",
-      "album": {
         "name": "i don\u2019t mind",
         "url": "https://open.spotify.com/album/5v552VdSpVJ6pxDF9sNlGP"
       },
@@ -1911,22 +1895,18 @@
     {
       "added_at": "2024-04-19 04:01:00",
       "album": {
-        "name": "Premium",
-        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
+        "name": "Win",
+        "url": "https://open.spotify.com/album/5bncDKF5dQRBc1Ze0GbGUf"
       },
       "artists": [
         {
-          "name": "Padre T\u00f3xico",
-          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
-        },
-        {
-          "name": "Awon",
-          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+          "name": "IDK",
+          "url": "https://open.spotify.com/artist/6aiFCgyKNwF9Rv5TOxnE8E"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Premium",
-      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
+      "duration_ms": 235554,
+      "name": "Win",
+      "url": "https://open.spotify.com/track/4X4EtnTuuVY0QMZroFVwHY"
     },
     {
       "added_at": "2024-04-19 04:01:00",
@@ -1947,6 +1927,26 @@
       "duration_ms": 220797,
       "name": "Battiti in parole",
       "url": "https://open.spotify.com/track/1EtXY815EYdOeZgz7ILBhL"
+    },
+    {
+      "added_at": "2024-04-19 04:01:00",
+      "album": {
+        "name": "Premium",
+        "url": "https://open.spotify.com/album/5IR3xKNBHV8zcJUOWc6w3P"
+      },
+      "artists": [
+        {
+          "name": "Padre T\u00f3xico",
+          "url": "https://open.spotify.com/artist/5uxLOvJty3MKT7ftXvmTkZ"
+        },
+        {
+          "name": "Awon",
+          "url": "https://open.spotify.com/artist/2M9OIHcdVSxhPVCYQ3z5Rf"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Premium",
+      "url": "https://open.spotify.com/track/4d2VRSpCPthFd4UUZdRVTf"
     },
     {
       "added_at": "2024-04-19 04:01:00",

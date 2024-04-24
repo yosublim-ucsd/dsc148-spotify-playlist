@@ -1,73 +1,13 @@
 {
-  "description": "ANOTR is back!!",
-  "num_followers": 260080,
+  "description": "giza desert rave",
+  "num_followers": 264468,
   "original_name": "Umami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzQ3NzYwMCwwMDAwMDAwMDM1ZTIzYjcxMGI0OGRhMmM4MjBmNTRiZjE4MWY5MDlh",
+  "snapshot_id": "MTcxMzg3NDQ0NSwwMDAwMDAwMDhlN2RiMjhmOTFhYzJlYTU2ODZlZWQ3ZGE2MDM3YjE4",
   "tracks": [
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "How You Feel (Ft. Leven Kali)",
-        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
-      },
-      "artists": [
-        {
-          "name": "ANOTR",
-          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
-        },
-        {
-          "name": "Erik Bandt",
-          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
-        },
-        {
-          "name": "Leven Kali",
-          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
-        }
-      ],
-      "duration_ms": 196853,
-      "name": "How You Feel (Ft. Leven Kali)",
-      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Kongo (Han\u00ee 's Remix)",
-        "url": "https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119"
-      },
-      "artists": [
-        {
-          "name": "Kolinga",
-          "url": "https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM"
-        },
-        {
-          "name": "HAN\u00ce",
-          "url": "https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv"
-        }
-      ],
-      "duration_ms": 233505,
-      "name": "Kongo (Han\u00ee\u00b4s Remix)",
-      "url": "https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN"
-    },
-    {
-      "added_at": "2024-04-18 22:00:00",
-      "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/3bffYGq3XpK2TMgoe0itJV"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/01BjQ7kJDzs7JEVSF1ZHHL"
-    },
     {
       "added_at": "2024-04-18 22:00:00",
       "album": {
@@ -103,6 +43,66 @@
       "duration_ms": 361810,
       "name": "Thandaza",
       "url": "https://open.spotify.com/track/48cPrTt0TLRsXQCLxQWwc7"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Kongo (Han\u00ee 's Remix)",
+        "url": "https://open.spotify.com/album/1wMmeCeow1EZ422q2e7119"
+      },
+      "artists": [
+        {
+          "name": "Kolinga",
+          "url": "https://open.spotify.com/artist/1l4wo8qR1qvFN8aym2xmDM"
+        },
+        {
+          "name": "HAN\u00ce",
+          "url": "https://open.spotify.com/artist/1M56F5uqrk6uA42Gmy6Vqv"
+        }
+      ],
+      "duration_ms": 233505,
+      "name": "Kongo (Han\u00ee\u00b4s Remix)",
+      "url": "https://open.spotify.com/track/0ogdZxS5XtjVQeRfwgkjUN"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "How You Feel (Ft. Leven Kali)",
+        "url": "https://open.spotify.com/album/76AAYzJLL9rJHfOkPNAeB9"
+      },
+      "artists": [
+        {
+          "name": "ANOTR",
+          "url": "https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf"
+        },
+        {
+          "name": "Erik Bandt",
+          "url": "https://open.spotify.com/artist/4vhZgo4uiuMnCgnSJEb7yb"
+        },
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        }
+      ],
+      "duration_ms": 196853,
+      "name": "How You Feel (Ft. Leven Kali)",
+      "url": "https://open.spotify.com/track/3Kwj07sN1wdzlRNMU8rNX0"
+    },
+    {
+      "added_at": "2024-04-18 22:00:00",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/3bffYGq3XpK2TMgoe0itJV"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/01BjQ7kJDzs7JEVSF1ZHHL"
     },
     {
       "added_at": "2024-04-18 22:00:00",
@@ -195,6 +195,26 @@
       "duration_ms": 213216,
       "name": "OFF THE HOOK - NYC EDIT",
       "url": "https://open.spotify.com/track/5YB1bwuhCoQMURJ6lZgtQy"
+    },
+    {
+      "added_at": "2024-04-23 08:27:40",
+      "album": {
+        "name": "Privity (Extented Version)",
+        "url": "https://open.spotify.com/album/1dND1YOVxq16W6mrEnJxBn"
+      },
+      "artists": [
+        {
+          "name": "Anthony Godfather",
+          "url": "https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8"
+        },
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        }
+      ],
+      "duration_ms": 395625,
+      "name": "Privity - Extented Version",
+      "url": "https://open.spotify.com/track/6wR6WdlYHHWPbsq7MHye02"
     },
     {
       "added_at": "2024-04-18 22:00:00",

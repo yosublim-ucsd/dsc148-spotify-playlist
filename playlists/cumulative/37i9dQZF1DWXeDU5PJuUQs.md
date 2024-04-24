@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes.
 
-153 songs - 10 hr 10 min
+154 songs - 10 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/1BFY2GhALH2uua588f0zkK) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo](https://open.spotify.com/album/0wdwM7dPqceHeIdCXL5UGL) | 1:04 | 2021-12-10 |  |
 | [Jurabas Tu \- En Vivo](https://open.spotify.com/track/0JpPQbqEYy5fctotzdaSyJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo 2019](https://open.spotify.com/album/2TNP2hyka7p1k13ZUTApE8) | 2:27 | 2021-12-10 |  |
 | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/track/4M2oCrINgfIbOfSoD2YoLY) | [Rocío Quiroz](https://open.spotify.com/artist/43PjjBbR7LawCx75hCbLmn), [La Kuppe](https://open.spotify.com/artist/7krUxybhp1bUwFBxpOtmZb) | [Jurabas Tú / Mis Sentimientos \(En Vivo\)](https://open.spotify.com/album/4n43selPpgHWfgrUkHGjCL) | 5:30 | 2021-12-10 |  |
-| [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 | 2022-08-26 |  |
+| [Karma / Me Voy / Solita Me Voy \- En Vivo](https://open.spotify.com/track/7yAvnC7FXbIS3jdGtHXYbm) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d) | [En Vivo Desde el Teatro Opera](https://open.spotify.com/album/1fFkykZxNYcnlCcXAqzIyy) | 7:13 | 2022-08-26 | 2024-04-24 |
 | [La Cancioncita \- En Vivo en el Luna Park](https://open.spotify.com/track/2tpT0U8jjwUphoM6Ljjffp) | [La Delio Valdez](https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q), [Orquesta Infanto\-juvenil de Constitución](https://open.spotify.com/artist/46wLN4FFktx8BW3Cupi56v) | [La Cancioncita \(En Vivo en el Luna Park\)](https://open.spotify.com/album/7pMmJWBQlASCck4Q8eN4Zj) | 5:39 | 2023-12-08 | 2024-01-14 |
 | [La Cola Less \- En Vivo](https://open.spotify.com/track/1Mc3igeO36vqjsEknZtj4I) | [Altos Cumbieros](https://open.spotify.com/artist/5Fkc9gWSpppkCsbxpQLkMM) | [La Fiesta \(En Vivo\)](https://open.spotify.com/album/2vw8QONQeAzZrOfOppQomN) | 2:03 | 2023-06-16 | 2023-09-24 |
 | [La Cumbia de los Rotos y los Descosidos \- En Vivo](https://open.spotify.com/track/34JqqBUM4wzwGX2ovPYNae) | [Diego González](https://open.spotify.com/artist/65FeQY2sD1xPBSrhTm4LC9), [Cumbia Club](https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x) | [La Cumbia de los Rotos y los Descosidos \(En Vivo\)](https://open.spotify.com/album/0Vlb6ovPyHchgesQAqtrYZ) | 3:40 | 2024-04-12 |  |
@@ -129,6 +129,7 @@
 | [Session Live: Te Llevas Todo / Me Preocupa Sin Ti / Déjenla Que Llore Sola](https://open.spotify.com/track/0ipf9Js7CHIj2LXzuFMFkR) | [Brian Lanzelotta](https://open.spotify.com/artist/6SV6TCY7KVVWmAhnX5WnS3) | [Session Live: Te Llevas Todo / Me Preocupa Sin Ti / Déjenla Que Llore Sola](https://open.spotify.com/album/6GPnVSdpLG7EkcFBywAVmK) | 5:06 | 2022-03-25 | 2022-07-25 |
 | [Si No Te Hubieras Ido \- En Vivo](https://open.spotify.com/track/57qxHH0ICKbvykxgUkarIB) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [En Vivo](https://open.spotify.com/album/1m4nIhyZjhE5sQziBlHDzB) | 4:41 | 2021-12-10 |  |
 | [Si Te Vas \- Vivo](https://open.spotify.com/track/4v17MVpCUu5l2p0mSlw8PK) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Mago Y La Nueva](https://open.spotify.com/artist/0pelomsVlROuivdE2RgeDU) | [Si Te Vas \(Vivo\)](https://open.spotify.com/album/3P9PZxc8N5rAXTQfqWS3sM) | 4:35 | 2021-12-10 | 2023-09-16 |
+| [Sin ti no se vivir](https://open.spotify.com/track/7L9YJpt99uvrMBHpSfAUEC) | [Carlos Montalvo](https://open.spotify.com/artist/0ZzSqYTxFlbTOmJsLX645M) | [Grandes Éxitos](https://open.spotify.com/album/5P7VEteqUqUhaDje7L2UVf) | 2:28 | 2024-04-24 |  |
 | [Sobreviviendo \(En Vivo\)\[Remasterizado 2021\]](https://open.spotify.com/track/3OXxqVWiyMMkqQuLrlmLaB) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [En Vivo en Joya 2019 \(Remasterizado 2021\)](https://open.spotify.com/album/137WQeUeXMRTBzjE1Kvq54) | 1:19 | 2021-12-10 | 2023-12-10 |
 | [Sobrio](https://open.spotify.com/track/6EWMUGtUePQYOAsiFpdfDJ) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Le Mandamos Cumbia Perro](https://open.spotify.com/album/0CQHJkJVQUaK8fjwuPJcDX) | 1:11 | 2023-12-29 | 2024-04-19 |
 | [Sobrio \- En Vivo](https://open.spotify.com/track/3HrvBkmU54RnjhHD09ddDk) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Le Mandamos Cumbia Perro \(En Vivo\)](https://open.spotify.com/album/7FhhJjQ9dez8uMOblDZ8Fm) | 1:11 | 2023-01-17 |  |

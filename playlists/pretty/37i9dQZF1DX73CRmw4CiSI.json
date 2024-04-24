@@ -1,6 +1,6 @@
 {
   "description": "Rock y rumba para esos d\u00edas de sol, sangr\u00eda y amigxs.",
-  "num_followers": 89422,
+  "num_followers": 89534,
   "original_name": "Veranito a la Espa\u00f1ola",
   "owner": {
     "name": "Spotify",
@@ -179,22 +179,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 190626,
-      "name": "Tu Calorro",
-      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Bacilos (Re-Issue)",
         "url": "https://open.spotify.com/album/3oCkAeDln8FVoGIOvf9TNl"
       },
@@ -207,6 +191,22 @@
       "duration_ms": 312400,
       "name": "Tabaco y Chanel",
       "url": "https://open.spotify.com/track/48svUiwMMYQRPyesVEnof1"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 190626,
+      "name": "Tu Calorro",
+      "url": "https://open.spotify.com/track/0DXI6c9tNWsI4tvUftkQN8"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -275,6 +275,22 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
+        "name": "Estopa",
+        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
+      },
+      "artists": [
+        {
+          "name": "Estopa",
+          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
+        }
+      ],
+      "duration_ms": 202826,
+      "name": "Por la Raja de Tu Falda",
+      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
         "name": "El Sentimiento Garrapatero Que Nos Traen Las Flores",
         "url": "https://open.spotify.com/album/2GmC3j6Wzb2PETn8vhyeJt"
       },
@@ -319,22 +335,6 @@
       "duration_ms": 160000,
       "name": "D\u00e9jame",
       "url": "https://open.spotify.com/track/74anwTmdyvA3f8RUtCQqKD"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
-        "name": "Estopa",
-        "url": "https://open.spotify.com/album/5EiebUqlX025HxiCvVTsNs"
-      },
-      "artists": [
-        {
-          "name": "Estopa",
-          "url": "https://open.spotify.com/artist/5ZqnEfVdEGmoPxtELhN7ai"
-        }
-      ],
-      "duration_ms": 202826,
-      "name": "Por la Raja de Tu Falda",
-      "url": "https://open.spotify.com/track/5OaqffbeQyVVqtnA71Ci7K"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -539,22 +539,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Muchas Flores",
-        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
-      },
-      "artists": [
-        {
-          "name": "Rosario",
-          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
-        }
-      ],
-      "duration_ms": 267720,
-      "name": "C\u00f3mo Quieres Que Te Quiera",
-      "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Animales",
         "url": "https://open.spotify.com/album/6TFvbSAqnlvjOSkuryxUKe"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 260733,
       "name": "Todo",
       "url": "https://open.spotify.com/track/09QG9D1BI4TRvGq64NghRg"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Muchas Flores",
+        "url": "https://open.spotify.com/album/5sQsi6UbT9nYh72ziLRivg"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
+        }
+      ],
+      "duration_ms": 267720,
+      "name": "C\u00f3mo Quieres Que Te Quiera",
+      "url": "https://open.spotify.com/track/6jAs8GeDUmnr6l7u1HU2zB"
     },
     {
       "added_at": "2022-01-25 22:47:02",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2022-01-25 22:47:02",
       "album": {
-        "name": "Toma Ketama",
-        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
-      },
-      "artists": [
-        {
-          "name": "Ketama",
-          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
-        }
-      ],
-      "duration_ms": 253213,
-      "name": "Agustito",
-      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
-    },
-    {
-      "added_at": "2022-01-25 22:47:02",
-      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 169987,
       "name": "Vivir (with Estopa)",
       "url": "https://open.spotify.com/track/7BHiGNHqbH89W8ftWrI3tc"
+    },
+    {
+      "added_at": "2022-01-25 22:47:02",
+      "album": {
+        "name": "Toma Ketama",
+        "url": "https://open.spotify.com/album/4C5MI6q1hEJhweXULCnVpH"
+      },
+      "artists": [
+        {
+          "name": "Ketama",
+          "url": "https://open.spotify.com/artist/5s9GgX51pD0YhcsQRSYlpF"
+        }
+      ],
+      "duration_ms": 253213,
+      "name": "Agustito",
+      "url": "https://open.spotify.com/track/0CcK0UAwjHSPOGWjupepRF"
     },
     {
       "added_at": "2022-01-25 22:47:02",

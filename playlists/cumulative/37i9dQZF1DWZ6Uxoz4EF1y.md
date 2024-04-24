@@ -4,7 +4,7 @@
 
 > Tuyo es el reino, Tuyo el poder y la gloria por siempre, Señor.
 
-155 songs - 14 hr 11 min
+156 songs - 14 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [En Memoria De Ti](https://open.spotify.com/track/62fL5RqurblUV6egM3IVjf) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [ECCOS](https://open.spotify.com/artist/6OnDxasjEMPIRrazHkH61l), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi), [Lluvia Richards](https://open.spotify.com/artist/3kcszo6x9oxggpewnHZheB), [Steven Richards](https://open.spotify.com/artist/7nV5z8aBZuot66MlL143o4) | [En Memoria De Ti](https://open.spotify.com/album/0KKXwGOfPCVNNV9tbtS0ZO) | 5:23 | 2024-03-20 |  |
 | [En Tu Presencia](https://open.spotify.com/track/1YUjGUPt2KLzJSRnvs7VTW) | [Ayrton Day](https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um) | [En Tu Presencia](https://open.spotify.com/album/6K7dzB9G1E8FmIPHpZnzA5) | 5:34 | 2023-04-09 |  |
 | [Enciende una luz](https://open.spotify.com/track/1UEwI2FyRaowh1kUWCzNLg) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [En adoración](https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD) | 4:59 | 2023-04-09 | 2024-04-19 |
-| [Enciende una Luz](https://open.spotify.com/track/7ubpbwZYoyYMhR9TLeaKhG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Antología](https://open.spotify.com/album/6ullOdkWQVvxOgI1YyC7iz) | 4:59 | 2024-03-20 |  |
+| [Enciende una Luz](https://open.spotify.com/track/7ubpbwZYoyYMhR9TLeaKhG) | [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Antología](https://open.spotify.com/album/6ullOdkWQVvxOgI1YyC7iz) | 4:59 | 2024-03-20 | 2024-04-24 |
 | [Encontré Mi Lugar](https://open.spotify.com/track/4TpvT0B2oAonwQvBN1Qwsu) | [Kairy Marquez](https://open.spotify.com/artist/4UyJzXklWMYXkbT5F2g1T8) | [Encontré Mi Lugar](https://open.spotify.com/album/46CxJyWkehHBkPUFNV2Tkf) | 4:56 | 2023-04-09 |  |
 | [Eres Tu](https://open.spotify.com/track/0lXL1oSS0rAM2MSwQagDr4) | [Luis Santiago](https://open.spotify.com/artist/57wRcdGLAS9zQr9XyVtVbE) | [Si Tu No Estas](https://open.spotify.com/album/63YxkoEStzX5qttiPP5EwG) | 6:12 | 2023-04-09 |  |
 | [Eterna luz](https://open.spotify.com/track/1u1d13KMNYZAIIEEWIo5ng) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Kim Richards](https://open.spotify.com/artist/5njxJJEEXE6Kxkr4yiFeJi) | [Música en el Desierto](https://open.spotify.com/album/7LNruLOqxbdoXT2gucKbKN) | 4:31 | 2024-03-20 | 2024-04-20 |
@@ -148,6 +148,7 @@
 | [Supe Que Me Amabas](https://open.spotify.com/track/36e4Sr0dXiyzjVeBWv8cON) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T) | [Mas Que Un Anhelo](https://open.spotify.com/album/2Kk1sYvCz3LI2wn9lp0NIZ) | 4:51 | 2020-09-18 | 2024-04-19 |
 | [Sé Entronado \(Live\)](https://open.spotify.com/track/6RjPeSyTInfDrkfOdKHUXa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Hunter G K Thompson](https://open.spotify.com/artist/3GGJS8pn81Kc9HnJ6flXEo) | [Bethel Music en Español](https://open.spotify.com/album/1VCnNZHwArLVhTZZrqYlk1) | 7:45 | 2023-04-09 |  |
 | [Te Amo Jesús](https://open.spotify.com/track/1G7lUahhD2iJZd8DTwkG9d) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/3Ceaj1zts2EVTqzGV0JcLQ) | 3:33 | 2023-04-09 | 2024-04-19 |
+| [Te Amo Jesús](https://open.spotify.com/track/1OjgBiVillUN6xXgrZLkyg) | [Daniel Calveti](https://open.spotify.com/artist/4lZXpKLxWjMDFeNmiU4H1h) | [Vivo para Ti](https://open.spotify.com/album/5wRPQ3vuSsJOd4qCcbszFy) | 3:33 | 2024-03-20 |  |
 | [Te Dejo Ganar](https://open.spotify.com/track/0UdWxA5X4OBqCi3kIpC7Fb) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/1GdYY1AU74YnIufNkby72P) | 3:21 | 2024-03-20 |  |
 | [Te Dejo Ganar](https://open.spotify.com/track/4wrq8qLtW8fhIq6agng9Mv) | [Jesús Adrián Romero](https://open.spotify.com/artist/29SeiO68HQHBs7pDdWOvvX) | [Soplando Vida](https://open.spotify.com/album/6YZVfMLWM9PBIPujBdc7dJ) | 3:21 | 2020-09-18 | 2024-04-19 |
 | [Te Deseo](https://open.spotify.com/track/6DialW5HyoOppXovC3CwCw) | [Majo y Dan](https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi) | [Majo y Dan](https://open.spotify.com/album/5epHePkyLeQ9htZwIDJXjn) | 5:39 | 2020-09-18 | 2024-04-19 |

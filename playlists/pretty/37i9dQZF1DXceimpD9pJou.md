@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 
 > Las mejores nuevas canciones Cristianas\.  Foto: <a href="spotify:artist:5GlkVOsZJwtYsvY55B8ExI">Pescao Vivo</a> y <a href="spotify:artist:0K2Feyu8wJj25eXYZr3rT5">Travy Joe</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,745 likes - 100 songs - 7 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,696 likes - 100 songs - 7 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXceimpD9pJou.md) - [plain]
 | 5 | [Corito Sano](https://open.spotify.com/track/06RXk3AAcnK99fnjSxLlUa) | [Niko Eme](https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL), [Pauneto](https://open.spotify.com/artist/1cs6ODU6Bu1cxX7nqsBC7W) | [Un Corito Sano](https://open.spotify.com/album/6xdRTqB80pIisUAjFNtFc8) | 2:41 |
 | 6 | [La Bondad De Dios \(Goodness Of God\)](https://open.spotify.com/track/13nFpzoqCNoGn6wJOonVl0) | [Kyrios](https://open.spotify.com/artist/5cUbvyY8zvSBl2KOeAGd7B) | [La Bondad De Dios \(Goodness Of God\)](https://open.spotify.com/album/1JcwKvGdp1IfIdNJUW1IG9) | 4:38 |
 | 7 | [NO TEMERÉ](https://open.spotify.com/track/56wbmb2ex5flgsXKdnQybC) | [Danay Suárez](https://open.spotify.com/artist/2bMCqLC25iBaqp2gDYEgDT) | [NO TEMERÉ](https://open.spotify.com/album/3tksuzzXCA6cgnKE94WwF8) | 2:54 |
-| 8 | [Soy Salvo](https://open.spotify.com/track/5BWIJEni18Z66S4CZ1ftqw) | [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [UnitySound](https://open.spotify.com/artist/1tfpoaoPOEZXbeKKdMIVfY) | [Soy Salvo](https://open.spotify.com/album/7Da9rVyMHdEeqp5D1jAv54) | 3:06 |
+| 8 | [Soy Salvo](https://open.spotify.com/track/5BWIJEni18Z66S4CZ1ftqw) | [Kafu Banton](https://open.spotify.com/artist/5RLb16s3zfrdWdRF0l7xij), [Unity Sound](https://open.spotify.com/artist/5K354VQ6YnadcAq59TNgwH) | [Soy Salvo](https://open.spotify.com/album/7Da9rVyMHdEeqp5D1jAv54) | 3:06 |
 | 9 | [Corazón de David \(En Vivo\)](https://open.spotify.com/track/5ZisguSKEUjRDXsts9OwlH) | [David Lugo](https://open.spotify.com/artist/0OzUa2KiynKiryhf1cSgvS) | [Corazón de David \(En Vivo\)](https://open.spotify.com/album/3qTWEDyVOMVgzchkf65ZxQ) | 9:52 |
 | 10 | [¿Por qué?](https://open.spotify.com/track/6qupOPVn8IldSRBz2SbuZJ) | [Marcela Gandara](https://open.spotify.com/artist/2zF0KCQEt1O4Z9fWVUVi4T), [Samu Robles](https://open.spotify.com/artist/2fvKekLjq0z3TzIljRraPl) | [¿Por qué?](https://open.spotify.com/album/1ng7i0E8PZa5PtOaIVUboh) | 2:42 |
 | 11 | [DIEZ TRES](https://open.spotify.com/track/52i6fFvKp73lA7TbyRcd6K) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [Redimi2](https://open.spotify.com/artist/0WZOmdnCln6FK6GM9e2tGm) | [DIEZ TRES](https://open.spotify.com/album/4cySlWwwNv3D2XtmoNsGEK) | 3:54 |
