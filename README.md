@@ -3,7 +3,7 @@
 > Daily snapshots of public Spotify playlists
 
 - Website: https://spotifyplaylistarchive.com/
-- All playlists: [`playlists/index.md`](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
+- List of playlists: [`playlists/index.md`](https://github.com/mackorone/spotify-playlist-archive/blob/main/playlists/index.md)
 - Source code: [mackorone/spotify-playlist-archive-src](https://github.com/mackorone/spotify-playlist-archive-src)
 
 ## Motivation
