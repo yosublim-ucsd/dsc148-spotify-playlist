@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 533368,
+  "2024-04-25": 533414,
   "date_first_scraped": "2021-12-21",
   "description": "Indie jams that sound like lounging under the sun with friends. ",
   "name": "Park Hangs",
@@ -2011,7 +2011,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 175416,
       "name": "Gold",
       "url": "https://open.spotify.com/track/5Dz6wdHlI45KAOBAfMSJRS"
@@ -4633,6 +4633,24 @@
       "duration_ms": 311000,
       "name": "Shadow Man (feat. Phoelix, Smino & Saba)",
       "url": "https://open.spotify.com/track/1h2LHhmyAXi8tPNLi806JA"
+    },
+    {
+      "album": {
+        "name": "Shudder",
+        "url": "https://open.spotify.com/album/5rNHpyAfV4fdowwcH1U1if"
+      },
+      "artists": [
+        {
+          "name": "Jelani Aryeh",
+          "url": "https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86"
+        }
+      ],
+      "date_added": "2024-04-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167271,
+      "name": "Shudder",
+      "url": "https://open.spotify.com/track/1c1iyuIpgPr7FBbMBkQEzJ"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [This Is Jennifer Lopez](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1vOtdC)
 
-> This Is Jennifer Lopez\. Los temas esenciales, todos en una lista.
+> This is Jennifer Lopez\. The essential tracks, all in one playlist.
 
 74 songs - 4 hr 32 min
 
@@ -46,7 +46,7 @@
 | [I'm Real \(feat\. Ja Rule\) \- Murder Remix](https://open.spotify.com/track/6MLsahMK3VvH9NUwXOktdS) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Ja Rule](https://open.spotify.com/artist/1J2VVASYAamtQ3Bt8wGgA6) | [J.Lo](https://open.spotify.com/album/76QqoE30i9HVwxtxYMkWXT) | 4:22 | 2023-07-28 |  |
 | [If You Had My Love](https://open.spotify.com/track/3x4yV0hW5Ve3TKhFkXSqFn) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/3Gby5NNeNYkMgAnrtEA3lc) | 4:26 | 2023-07-28 |  |
 | [Jenny from the Block \(feat\. Jadakiss & Styles P.\) \- Track Masters Remix](https://open.spotify.com/track/7LqjznQwfrax7MjQXmxqdQ) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Jadakiss](https://open.spotify.com/artist/5pnbUBPifNnlusY8kTBivi), [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX) | [This Is Me...Then](https://open.spotify.com/album/1l8TpRDfjJjKdtbzNtSycM) | 3:07 | 2023-07-28 |  |
-| [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 | 2023-07-28 |  |
+| [Let's Get Loud](https://open.spotify.com/track/6kQz6t5z1FK4uohPh8Kd73) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 3:58 | 2023-07-28 | 2024-04-25 |
 | [Live It Up](https://open.spotify.com/track/2FHdoPa5aWaAmjuf362KJ0) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Live It Up](https://open.spotify.com/album/5fnPOybc8Zo7IYvWbvrCKR) | 4:03 | 2023-07-28 |  |
 | [Llegaste](https://open.spotify.com/track/303QCzQP10nYoAE8wsWtRF) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Amor Sin Límite](https://open.spotify.com/album/0ZqDgVix0ojjXBc1ypqKVN) | 3:56 | 2023-07-28 |  |
 | [Lonely](https://open.spotify.com/track/72hzVy2sGZDsE62RdHELvI) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Pa Ti + Lonely](https://open.spotify.com/album/006fEVu63b1nSxinsXZgAt) | 3:18 | 2023-08-06 | 2023-08-14 |
@@ -55,7 +55,7 @@
 | [Mad in Love](https://open.spotify.com/track/6HYEyEv1J30JSAjtMNIR3q) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:06 | 2024-02-22 | 2024-04-15 |
 | [Marry Me \- Kat & Bastian Duet](https://open.spotify.com/track/7wCqBjOdJ9Gk0OtNVnRB0W) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 2:37 | 2023-07-28 |  |
 | [Miami](https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9), [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [La Última Misión](https://open.spotify.com/album/08QB1puuJGgRx8N7Yn1twL) | 2:54 | 2023-07-28 | 2023-12-14 |
-| [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 | 2024-02-28 | 2024-04-11 |
+| [Midnight Trip to Vegas](https://open.spotify.com/track/2eKXOcKmnCbyLGoAwxafDV) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [This Is Me...Now](https://open.spotify.com/album/22B2vyeQD9MWvsuLDU3yCt) | 3:11 | 2024-02-28 |  |
 | [Ni Tú Ni Yo \(feat\. Gente de Zona\)](https://open.spotify.com/track/5xMzazov0IHYllrc8U2K6F) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Ni Tú Ni Yo \(feat\. Gente de Zona\)](https://open.spotify.com/album/5ekcwlR6IVNcv2OMjcuz0G) | 3:35 | 2023-07-28 |  |
 | [No Me Ames \(with Marc Anthony\) \- Tropical Remix](https://open.spotify.com/track/2F9GxThWActrY2FsKiPguj) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR), [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6) | [On The 6](https://open.spotify.com/album/43CV8Hxctvm8BUCesUaxMk) | 5:02 | 2023-07-28 |  |
 | [Nobody's Watching \(Marry Me\)](https://open.spotify.com/track/5hQ9Pn43MLtBzlBQSPVhEG) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [Marry Me \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6seUERIBHA7qbR5ReDm66x) | 2:56 | 2023-08-03 | 2024-02-24 |

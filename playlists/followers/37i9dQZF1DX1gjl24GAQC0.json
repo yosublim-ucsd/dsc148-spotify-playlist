@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 812648,
+  "2024-04-25": 812479,
   "date_first_scraped": "2021-12-21",
-  "description": "Is it your favorite oppa or dongsaeng? (Cover: ONEWE(\uc6d0\uc704)) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
+  "description": "Is it your favorite oppa or dongsaeng? (Cover: ZEROBASEONE(\uc81c\ub85c\ubca0\uc774\uc2a4\uc6d0) [\ub2f9\uc2e0\uc758 \ucd5c\uc560 \uc544\uc774\ub3cc \ubcf4\uc774 \uadf8\ub8f9\uc740 \uc5b4\ub5a4 \uadf8\ub8f9\uc778\uac00\uc694?]",
   "name": "Hallyu Boy Bands",
   "tracks": [
     {
@@ -1297,7 +1297,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 192240,
       "name": "BODY",
       "url": "https://open.spotify.com/track/3jH1IMkaF2I1sDgNDbegq5"
@@ -2227,7 +2227,7 @@
       ],
       "date_added": "2023-07-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-02-18",
+      "date_removed": null,
       "duration_ms": 185320,
       "name": "Cream Soda",
       "url": "https://open.spotify.com/track/42h7yc9Rda1IOMYLACVgld"
@@ -7614,6 +7614,24 @@
     },
     {
       "album": {
+        "name": "Kick-START",
+        "url": "https://open.spotify.com/album/3mL42aTQDuu8MxM4gkdzvy"
+      },
+      "artists": [
+        {
+          "name": "TIOT",
+          "url": "https://open.spotify.com/artist/2hoCMH0KWwpjFJEGh0ECe7"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182893,
+      "name": "ROCK THANG",
+      "url": "https://open.spotify.com/track/19Rqlm7wniVmb2XejSVlE9"
+    },
+    {
+      "album": {
         "name": "SEVENTEEN 9th Mini Album 'Attacca'",
         "url": "https://open.spotify.com/album/2PIReru2w5i4JXOzeZnamd"
       },
@@ -8479,7 +8497,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 218042,
       "name": "Star",
       "url": "https://open.spotify.com/track/7uG8ZxJPQt6BMN0OE5sxYR"
@@ -8735,6 +8753,24 @@
       "duration_ms": 237853,
       "name": "Superhuman",
       "url": "https://open.spotify.com/track/0TU7xhMfZbI1okpLyHptFV"
+    },
+    {
+      "album": {
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/0s6DjhEFFZOUSfnFmPMVIG"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/3BzjdhbQH8VlQ81RbvRoV8"
     },
     {
       "album": {
@@ -10245,7 +10281,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 200466,
       "name": "Youth2Youth",
       "url": "https://open.spotify.com/track/4jxftDEbX3u20EROtLpKyf"

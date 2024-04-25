@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 533701,
+  "2024-04-25": 533759,
   "date_first_scraped": "2023-03-19",
   "description": "Music that just *hits different* Cover: Taylor Swift",
   "name": "*hits different*",
@@ -735,7 +735,7 @@
       ],
       "date_added": "2023-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 184013,
       "name": "Chemical",
       "url": "https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu"
@@ -2095,7 +2095,7 @@
       ],
       "date_added": "2023-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 161567,
       "name": "High",
       "url": "https://open.spotify.com/track/5hlPrSCx9BvnQ3rCTkblMZ"

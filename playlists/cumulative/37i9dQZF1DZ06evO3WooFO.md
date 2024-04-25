@@ -2,7 +2,7 @@
 
 ### [This Is blink\-182](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3WooFO)
 
-> This is blink\-182\. Todos os maiores hits em uma só playlist.
+> This is blink\-182\. The essential tracks, all in one playlist.
 
 85 songs - 4 hr 19 min
 

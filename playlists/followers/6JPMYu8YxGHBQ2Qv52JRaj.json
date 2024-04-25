@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 0,
+  "2024-04-25": 0,
   "date_first_scraped": "2022-07-19",
   "description": "Updated at least once a month... cover image - https:&#x2F;&#x2F;bit.ly&#x2F;3uiJD6B ",
   "name": "Mac's Mixtape",
@@ -79,7 +79,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 175312,
       "name": "911",
       "url": "https://open.spotify.com/track/7wkjbEz5ZKO2BD2UQ9xng5"
@@ -229,6 +229,24 @@
       "duration_ms": 159375,
       "name": "Assumptions (feat. Purple Velvet Curtains)",
       "url": "https://open.spotify.com/track/03j8OmSMpzzdl0lS31kiBB"
+    },
+    {
+      "album": {
+        "name": "Automatic",
+        "url": "https://open.spotify.com/album/15xLRQ3xbSbUKcVSjQCMSO"
+      },
+      "artists": [
+        {
+          "name": "NuBass",
+          "url": "https://open.spotify.com/artist/5Nd61ppMOQbbtF1HV13kBO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166285,
+      "name": "Automatic",
+      "url": "https://open.spotify.com/track/5UTcXCoN6lJwjaBjTFlt9B"
     },
     {
       "album": {
@@ -627,7 +645,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 165942,
       "name": "Boombox (feat. Madam Parker)",
       "url": "https://open.spotify.com/track/76Ha6CD61eRztnKUbiUXbf"
@@ -748,6 +766,28 @@
     },
     {
       "album": {
+        "name": "Bring It",
+        "url": "https://open.spotify.com/album/73urxOIceB1W6TUudf9xZ8"
+      },
+      "artists": [
+        {
+          "name": "OOTORO",
+          "url": "https://open.spotify.com/artist/3kWLEfykUXgiuhbR2NwnLI"
+        },
+        {
+          "name": "ZDX",
+          "url": "https://open.spotify.com/artist/47nioEb6pIp7utNqQ9UqzA"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188437,
+      "name": "Bring It",
+      "url": "https://open.spotify.com/track/4gUg5vmjYicLAn029z1E1G"
+    },
+    {
+      "album": {
         "name": "Bring the Beat",
         "url": "https://open.spotify.com/album/3gc9meW9ULef9Fn4jJwzhj"
       },
@@ -853,6 +893,24 @@
       "duration_ms": 187619,
       "name": "Can't See",
       "url": "https://open.spotify.com/track/1kYkGEVNpugTZiigbiNK2W"
+    },
+    {
+      "album": {
+        "name": "CASH",
+        "url": "https://open.spotify.com/album/5yPmLk3SMzOtbkHp9jnivj"
+      },
+      "artists": [
+        {
+          "name": "Habstrakt",
+          "url": "https://open.spotify.com/artist/1YYJxpOXYk1z1WtqdeLMkn"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "CASH",
+      "url": "https://open.spotify.com/track/10Tg2LXtZG5yHyrYxM8dEk"
     },
     {
       "album": {
@@ -1350,6 +1408,24 @@
     },
     {
       "album": {
+        "name": "DNA (Radio Edit)",
+        "url": "https://open.spotify.com/album/1hzPSg9JPNLCSsIzBDbKss"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178190,
+      "name": "DNA - Radio Edit",
+      "url": "https://open.spotify.com/track/29Aui4Zhp6GQKfIJULRfHT"
+    },
+    {
+      "album": {
         "name": "Dubz, Vol. 3",
         "url": "https://open.spotify.com/album/5KBXpV9fwqhwIZ3PG0QC2B"
       },
@@ -1832,6 +1908,28 @@
     },
     {
       "album": {
+        "name": "Frikitona (Odd Mob Remix)",
+        "url": "https://open.spotify.com/album/0tDuxbHaSqjfQrqCDYalHk"
+      },
+      "artists": [
+        {
+          "name": "Andruss",
+          "url": "https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI"
+        },
+        {
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191718,
+      "name": "Frikitona - Odd Mob Remix",
+      "url": "https://open.spotify.com/track/4VmJrlaQyNESNp5kAK7zIY"
+    },
+    {
+      "album": {
         "name": "Full Set",
         "url": "https://open.spotify.com/album/05lVfK0S1UIIropNwaWux5"
       },
@@ -1847,7 +1945,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 193935,
       "name": "Full Set",
       "url": "https://open.spotify.com/track/6dLkpuLzve2oLxlJ4RtRoM"
@@ -3018,6 +3116,28 @@
     },
     {
       "album": {
+        "name": "Like This",
+        "url": "https://open.spotify.com/album/70Y499sKPQoo4qVMdT7RwD"
+      },
+      "artists": [
+        {
+          "name": "Jack Beats",
+          "url": "https://open.spotify.com/artist/5dUIQXIt7WeBKpETFZyTFW"
+        },
+        {
+          "name": "Qlank",
+          "url": "https://open.spotify.com/artist/0oQ4s2gqzSvD7G1t97kO2y"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153750,
+      "name": "Like This",
+      "url": "https://open.spotify.com/track/4A2vWdaWh7cF3SBguQm9l3"
+    },
+    {
+      "album": {
         "name": "Off the Chain",
         "url": "https://open.spotify.com/album/7DcBi3tOzyjaKnWL5ndply"
       },
@@ -3210,6 +3330,28 @@
     },
     {
       "album": {
+        "name": "MARAVILLOSA",
+        "url": "https://open.spotify.com/album/1ws8EoubWWoxcprSyoHsbb"
+      },
+      "artists": [
+        {
+          "name": "ero808",
+          "url": "https://open.spotify.com/artist/6x9CKUBQ96VjXxKgGE5hIw"
+        },
+        {
+          "name": "NXSTY",
+          "url": "https://open.spotify.com/artist/0fVqst4UD6o7SKW6SsWPfU"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152812,
+      "name": "MARAVILLOSA",
+      "url": "https://open.spotify.com/track/2gqTJ6kG9qgbRuwsRb66LA"
+    },
+    {
+      "album": {
         "name": "Mental",
         "url": "https://open.spotify.com/album/1Mqfcwqjbw3pscfdBeTGlr"
       },
@@ -3261,7 +3403,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 180610,
       "name": "Mind Eraser",
       "url": "https://open.spotify.com/track/5QIPbGl0nRVoaLYrrbsNy5"
@@ -3529,10 +3671,28 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 156190,
       "name": "Naughty",
       "url": "https://open.spotify.com/track/78mKxouHttqRkAl7IeyRiU"
+    },
+    {
+      "album": {
+        "name": "Need My Love",
+        "url": "https://open.spotify.com/album/4Doqei3f3QFbYetrrQIN4X"
+      },
+      "artists": [
+        {
+          "name": "Birthdayy Partyy",
+          "url": "https://open.spotify.com/artist/2oOuwFJjxe5enJAkDgPkHp"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174500,
+      "name": "Need My Love",
+      "url": "https://open.spotify.com/track/3T4wzWbX6MirfuYdJek7AR"
     },
     {
       "album": {
@@ -3753,7 +3913,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 171448,
       "name": "Old Picta",
       "url": "https://open.spotify.com/track/0YVRDuGFxIzzrSCxu1z5nh"
@@ -4034,6 +4194,24 @@
     },
     {
       "album": {
+        "name": "OVERN!GHT",
+        "url": "https://open.spotify.com/album/0VjQZjB5Y9rBDwYXPs5p2N"
+      },
+      "artists": [
+        {
+          "name": "dhuss",
+          "url": "https://open.spotify.com/artist/0VCdowS9c0KjYcVJAZCvBd"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293760,
+      "name": "OVERN!GHT",
+      "url": "https://open.spotify.com/track/7FMKInxdXSjAAFRnVDXybH"
+    },
+    {
+      "album": {
         "name": "Overrated",
         "url": "https://open.spotify.com/album/7MoY9ZvnB9hyIU1TGGSp0g"
       },
@@ -4288,6 +4466,24 @@
     },
     {
       "album": {
+        "name": "Put Em' High",
+        "url": "https://open.spotify.com/album/68ZSSaNKoyjZJcnFHTqGyM"
+      },
+      "artists": [
+        {
+          "name": "CASHEW",
+          "url": "https://open.spotify.com/artist/15ouNMI0IA7d45Tez6JbRw"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243779,
+      "name": "Put Em' High",
+      "url": "https://open.spotify.com/track/6PbEpqfl9An6JeNKdmFADk"
+    },
+    {
+      "album": {
         "name": "Rave Alert",
         "url": "https://open.spotify.com/album/3V9nRhbyUI5PWRgv5d5mdP"
       },
@@ -4415,7 +4611,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 187263,
       "name": "Resonate",
       "url": "https://open.spotify.com/track/7pc4HTXf4y2WSVWXhJ0NQw"
@@ -5377,7 +5573,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 236987,
       "name": "To The Beat",
       "url": "https://open.spotify.com/track/1D3jKMGvMr9NmirT6cnMyO"
@@ -5931,7 +6127,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 305116,
       "name": "White Tiger",
       "url": "https://open.spotify.com/track/5sK6BGBWbB8HxgSgAWoBjq"
@@ -6055,7 +6251,7 @@
       ],
       "date_added": "2024-03-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 167619,
       "name": "WTFYF (feat. Hawaiian Hue Hefner)",
       "url": "https://open.spotify.com/track/3FMyAIbq7tiZfjF15rawsx"

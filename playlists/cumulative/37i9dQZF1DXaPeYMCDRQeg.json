@@ -121,6 +121,46 @@
     },
     {
       "album": {
+        "name": "Before You Go",
+        "url": "https://open.spotify.com/album/4bXS4Vs7WMBRiJ1VdPTCte"
+      },
+      "artists": [
+        {
+          "name": "Blxst",
+          "url": "https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170702,
+      "name": "About You",
+      "url": "https://open.spotify.com/track/50XeBuSbhueY24KqJZcEAd"
+    },
+    {
+      "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "album": {
         "name": "Kaleidoscope Dream",
         "url": "https://open.spotify.com/album/21XMv0TCsnhWPt7MNVvkzD"
       },
@@ -404,6 +444,24 @@
       "duration_ms": 317890,
       "name": "At Your Best (You Are Love) - Spotify Singles",
       "url": "https://open.spotify.com/track/5OFoInHe162W9I97oVDzY8"
+    },
+    {
+      "album": {
+        "name": "Bryson Tiller",
+        "url": "https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX"
+      },
+      "artists": [
+        {
+          "name": "Bryson Tiller",
+          "url": "https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216043,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/7tr8SXmP9j0uVqUU0qoapb"
     },
     {
       "album": {
@@ -842,7 +900,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 250586,
       "name": "Can't Hide Love",
       "url": "https://open.spotify.com/track/6hsQO3hz648zS7t2QyUpfz"
@@ -1416,7 +1474,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 198057,
       "name": "Drugs N Hella Melodies (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/0IX5OFffosy8wk16m1IFCa"
@@ -1470,7 +1528,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 283933,
       "name": "Escapade",
       "url": "https://open.spotify.com/track/5HAv1Ckfe50DUjv8ghwTrz"
@@ -1528,7 +1586,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 205373,
       "name": "F.U.C.K.",
       "url": "https://open.spotify.com/track/0iDuW211AjTsYDPsLxyqX4"
@@ -1990,10 +2048,32 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 169600,
       "name": "Hold You Down",
       "url": "https://open.spotify.com/track/4bfl59MmcQeAtYOVWlIf07"
+    },
+    {
+      "album": {
+        "name": "Cloud 19",
+        "url": "https://open.spotify.com/album/0Z4zmV6ITJ6PUjCmAsHxdE"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        },
+        {
+          "name": "Kyle Dion",
+          "url": "https://open.spotify.com/artist/5qfkUSH3ip5dD2eEPhjkT3"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219354,
+      "name": "How We Do Us (feat. Kyle Dion)",
+      "url": "https://open.spotify.com/track/10sP6mykiMbeyA8jx2kUF0"
     },
     {
       "album": {
@@ -2138,7 +2218,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 349666,
       "name": "I Don't Want To Do Anything",
       "url": "https://open.spotify.com/track/7pFAycgyex95RR5uLFxDfd"
@@ -2380,7 +2460,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 207066,
       "name": "I. Pink Toes",
       "url": "https://open.spotify.com/track/4OfESCGOUVZMuGvppCU51j"
@@ -2420,6 +2500,24 @@
       "duration_ms": 241624,
       "name": "ICU",
       "url": "https://open.spotify.com/track/58cMDjQSUdWJUgFmHxRhjt"
+    },
+    {
+      "album": {
+        "name": "Because the Internet",
+        "url": "https://open.spotify.com/album/62yjWIhnATHxPqGbgC9Lqr"
+      },
+      "artists": [
+        {
+          "name": "Childish Gambino",
+          "url": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 73386,
+      "name": "III. Urn",
+      "url": "https://open.spotify.com/track/1wYIv0ySOwjMFWLOtrgtbo"
     },
     {
       "album": {
@@ -3025,6 +3123,28 @@
     },
     {
       "album": {
+        "name": "DAMN.",
+        "url": "https://open.spotify.com/album/4eLPsYPBmXABThSJ821sqY"
+      },
+      "artists": [
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Zacari",
+          "url": "https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213400,
+      "name": "LOVE. FEAT. ZACARI.",
+      "url": "https://open.spotify.com/track/6PGoSes0D9eUDeeAafB2As"
+    },
+    {
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/4eddbruVtOqw8khwxSH6H2"
       },
@@ -3250,7 +3370,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 96021,
       "name": "more than a trend",
       "url": "https://open.spotify.com/track/0yk8VLT5BXbqHK8DZD3xUg"
@@ -3783,6 +3903,28 @@
     },
     {
       "album": {
+        "name": "East Atlanta Love Letter",
+        "url": "https://open.spotify.com/album/3fc97ZWLIMc1xawhxbKrh2"
+      },
+      "artists": [
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240341,
+      "name": "Pretty Little Fears (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/4at3d5QWnlibMVN75ECDrp"
+    },
+    {
+      "album": {
         "name": "BLACKsummers'night (2009)",
         "url": "https://open.spotify.com/album/1cXFSOdjxmS13cOTtnNQAo"
       },
@@ -3848,7 +3990,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 299333,
       "name": "Reasons",
       "url": "https://open.spotify.com/track/1srD2uc11TcQiOmHHrJp8M"
@@ -4768,7 +4910,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 238893,
       "name": "The Ways (with Swae Lee)",
       "url": "https://open.spotify.com/track/5jyyPsIGM2yqkZN9R3TmvN"
@@ -4876,7 +5018,7 @@
       ],
       "date_added": "2021-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-11",
+      "date_removed": null,
       "duration_ms": 249506,
       "name": "This Luv",
       "url": "https://open.spotify.com/track/4l34rbUYqKWufYEWriVnB5"
@@ -5269,6 +5411,28 @@
     },
     {
       "album": {
+        "name": "WORTH IT (feat. Don Toliver)",
+        "url": "https://open.spotify.com/album/1TLxAcly1q7a0tyavTGeNq"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        },
+        {
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "WORTH IT (feat. Don Toliver)",
+      "url": "https://open.spotify.com/track/08oo0eCDQZ9XC3zQR8q44y"
+    },
+    {
+      "album": {
         "name": "Street Love",
         "url": "https://open.spotify.com/album/6Lq7nLkIq7C0zVJp0OGSGO"
       },
@@ -5324,6 +5488,24 @@
       "duration_ms": 366733,
       "name": "You Don't Know My Name",
       "url": "https://open.spotify.com/track/6LGwYMXXgURfaequXipzHx"
+    },
+    {
+      "album": {
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+      },
+      "artists": [
+        {
+          "name": "Whitney Houston",
+          "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277240,
+      "name": "You Give Good Love",
+      "url": "https://open.spotify.com/track/0t6DdFmFQhQYWhmfa5FJer"
     },
     {
       "album": {

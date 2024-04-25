@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6xnkAwJX7tn.md) - [plain]
 
 > The biggest party hits of the 1980s\. Cover: Bananarama
 
-[Spotify](https://open.spotify.com/user/spotify) - 761,386 likes - 150 songs - 10 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,448 likes - 150 songs - 10 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

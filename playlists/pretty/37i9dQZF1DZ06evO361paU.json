@@ -1,12 +1,12 @@
 {
   "description": "This is Lenny Kravitz. The essential tracks, all in one playlist.",
-  "num_followers": 255014,
+  "num_followers": 255031,
   "original_name": "This Is Lenny Kravitz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGJhZmM1ODk0ZDFkMGM2NTBkZDI5ZjZjZjA2Y2RmM2Q5",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDIyNjgyYTJkMzkzODExNTI5YmU3ODNmYjQwNTIxNWZi",
   "tracks": [
     {
       "added_at": null,
@@ -43,6 +43,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 221332,
+      "name": "Fly Away",
+      "url": "https://open.spotify.com/track/1OxcIUqVmVYxT6427tbhDW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7aiQ0WWBBC0HzeI0PgGYJs"
       },
@@ -55,22 +71,6 @@
       "duration_ms": 231666,
       "name": "Again",
       "url": "https://open.spotify.com/track/5c1QJAiC3773EwiZLwHf5x"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 257733,
-      "name": "I Belong To You",
-      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
     },
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/3YcbqIhwAiHy3w2vWy2orI"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 257733,
+      "name": "I Belong To You",
+      "url": "https://open.spotify.com/track/02UjN28wB5uyeqUhZTiuZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Circus",
         "url": "https://open.spotify.com/album/0WGH7xwdRoCCNLJEyQQ4Z0"
       },
@@ -123,22 +139,6 @@
       "duration_ms": 274000,
       "name": "Can't Get You Off My Mind",
       "url": "https://open.spotify.com/track/7bk6iZ5dsrMySXB0aVFYXO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "5",
-        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 264560,
-      "name": "American Woman",
-      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
     },
     {
       "added_at": null,
@@ -171,6 +171,38 @@
       "duration_ms": 255693,
       "name": "Stillness Of Heart",
       "url": "https://open.spotify.com/track/7eYVOdiqYA0wcPhhOC1g92"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "5",
+        "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 264560,
+      "name": "American Woman",
+      "url": "https://open.spotify.com/track/3X6iIrFuQoCshIWBseEKPl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Are You Gonna Go My Way",
+        "url": "https://open.spotify.com/album/35LzZH7Fgog8lf1hfcdoMQ"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 191200,
+      "name": "Heaven Help",
+      "url": "https://open.spotify.com/track/0uHbPoDjquncfYsLt00Aj2"
     },
     {
       "added_at": null,
@@ -791,38 +823,6 @@
       "duration_ms": 464733,
       "name": "Little Girl's Eyes",
       "url": "https://open.spotify.com/track/3JvKhMWM71THA9WIX6x8o6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mama Said",
-        "url": "https://open.spotify.com/album/7A3LlV59lh4KljWa7I6Tks"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "More Than Anything In This World",
-      "url": "https://open.spotify.com/track/1UWyfK84h7uPHMEPf8qba2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Raise Vibration",
-        "url": "https://open.spotify.com/album/4e83uqVOZLxULgNO6z8dhL"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 378040,
-      "name": "Johnny Cash",
-      "url": "https://open.spotify.com/track/2KB62sZq0v8PQUlMSb3kBR"
     }
   ],
   "unique_name": "This Is Lenny Kravitz",

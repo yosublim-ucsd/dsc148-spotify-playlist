@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 209190,
+  "2024-04-25": 209197,
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music by independent artists and labels. Cover: Brooke Daya. Artwork by Paola Saliby",
+  "description": "The best new pop music by independent artists and labels. Cover: Mercer Henderson. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -111,6 +111,24 @@
       "duration_ms": 183106,
       "name": "1-800-miss-ur-guts",
       "url": "https://open.spotify.com/track/7mwt5PimLZUfWcpQr4KzfN"
+    },
+    {
+      "album": {
+        "name": "1000 Fucks Ago",
+        "url": "https://open.spotify.com/album/1VHuC9E78kQDik3UAvpLgT"
+      },
+      "artists": [
+        {
+          "name": "Aria Lisslo",
+          "url": "https://open.spotify.com/artist/4HxxoSZ3v9gHeaLJZFhMBl"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184041,
+      "name": "1000 Fucks Ago",
+      "url": "https://open.spotify.com/track/00zT4M0FbjHzCOSezbypmP"
     },
     {
       "album": {
@@ -2427,7 +2445,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 148500,
       "name": "All Time Low",
       "url": "https://open.spotify.com/track/3w03xQK7wqiNBWu0T6h800"
@@ -3415,7 +3433,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 186883,
       "name": "are you there tonight?",
       "url": "https://open.spotify.com/track/2UHmiHEZ0Gwx2tqqMdpFUQ"
@@ -4553,7 +4571,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 208978,
       "name": "Bad Timing",
       "url": "https://open.spotify.com/track/2lZm0uLCYliR9mS9fELd26"
@@ -15751,7 +15769,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 159946,
       "name": "eat me alive",
       "url": "https://open.spotify.com/track/6AYNmsHwCWmfYrniipNAWe"
@@ -17573,6 +17591,24 @@
       "duration_ms": 206573,
       "name": "Falling Into You",
       "url": "https://open.spotify.com/track/0z6AuCoTK782Gb4d0JhALP"
+    },
+    {
+      "album": {
+        "name": "Fallout",
+        "url": "https://open.spotify.com/album/65B2RvJC85fF6pNCymLMDF"
+      },
+      "artists": [
+        {
+          "name": "Elyse Jewel",
+          "url": "https://open.spotify.com/artist/56k4POEm6y9BnlWP5yQ8Py"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139898,
+      "name": "Fallout",
+      "url": "https://open.spotify.com/track/5gM6XHLOdzgWq17yd0bE2o"
     },
     {
       "album": {
@@ -20615,6 +20651,24 @@
       "duration_ms": 158313,
       "name": "Giant Teddy",
       "url": "https://open.spotify.com/track/2iISqUEIbrwTXDEJ0Vj8JZ"
+    },
+    {
+      "album": {
+        "name": "GIBBERISH",
+        "url": "https://open.spotify.com/album/3GBJyXKYfHRAErVreiHsfK"
+      },
+      "artists": [
+        {
+          "name": "Tangerine Cassette",
+          "url": "https://open.spotify.com/artist/4iPGbAiNjBqWiCvQoTA31n"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "GIBBERISH",
+      "url": "https://open.spotify.com/track/5mVH76OjsBkg7vyvxk56NE"
     },
     {
       "album": {
@@ -25719,7 +25773,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210500,
       "name": "Hurt Somebody",
       "url": "https://open.spotify.com/track/4c3O9CbWKhXM1UMCNRvEA5"
@@ -41344,6 +41398,24 @@
     },
     {
       "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5gxKdEOpAY4AOe2AnTkR5Y"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242653,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/10YGow8ChEZt6EWd4Mfc9S"
+    },
+    {
+      "album": {
         "name": "PAIN 3000",
         "url": "https://open.spotify.com/album/5ICxd6g3NN3qvWAcjxBbBB"
       },
@@ -50880,6 +50952,24 @@
     },
     {
       "album": {
+        "name": "Sticks and Stones",
+        "url": "https://open.spotify.com/album/4QGuaJoRjdOw326Ex7xzwp"
+      },
+      "artists": [
+        {
+          "name": "Ella Red",
+          "url": "https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212800,
+      "name": "Sticks and Stones",
+      "url": "https://open.spotify.com/track/3CdMzFEOICekztAAcJw3ct"
+    },
+    {
+      "album": {
         "name": "still cry sometimes",
         "url": "https://open.spotify.com/album/5uf0HURzK4bg7co6aZy8eq"
       },
@@ -53931,7 +54021,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174851,
       "name": "That Energy",
       "url": "https://open.spotify.com/track/4goO2EkCJh6Gw3ufpJ4jZt"
@@ -60019,6 +60109,24 @@
       "duration_ms": 178666,
       "name": "WHAT YOU WANT?",
       "url": "https://open.spotify.com/track/5qmkQlGvAsjEMdWfrUUwKP"
+    },
+    {
+      "album": {
+        "name": "What You Wanted",
+        "url": "https://open.spotify.com/album/2ChOLNTVc64tdbcmkXygbe"
+      },
+      "artists": [
+        {
+          "name": "Mercer Henderson",
+          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177803,
+      "name": "What You Wanted",
+      "url": "https://open.spotify.com/track/6id2Exr8Jp9bO1uFUC2i9B"
     },
     {
       "album": {

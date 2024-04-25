@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 141859,
+  "2024-04-25": 141971,
   "date_first_scraped": "2021-12-21",
   "description": "Fresh rock from independent artists every Wednesday. Cover: Slow Joy",
   "name": "Fresh Finds Rock ",
@@ -233,7 +233,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 289760,
       "name": "2 2 BOOTLEG",
       "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
@@ -590,6 +590,24 @@
     },
     {
       "album": {
+        "name": "Action Painting",
+        "url": "https://open.spotify.com/album/1bhBLbRYnvITVmzqvxIuRb"
+      },
+      "artists": [
+        {
+          "name": "Perennial",
+          "url": "https://open.spotify.com/artist/7oLhWWqX188fvNQ6aqxLz3"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121858,
+      "name": "Action Painting",
+      "url": "https://open.spotify.com/track/5VsPSsmnSr0bTTMDfZrFBD"
+    },
+    {
+      "album": {
         "name": "Addicted",
         "url": "https://open.spotify.com/album/77zQVsNEeCKTopwaMJ5pwx"
       },
@@ -608,6 +626,24 @@
     },
     {
       "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/0Od1v1llALPpgnxp3OiD6b"
+      },
+      "artists": [
+        {
+          "name": "We Hate You Please Die",
+          "url": "https://open.spotify.com/artist/6Ts5nm6bMuPIqKy1fZRE8l"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244223,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3Ir78IJjPU3eODC44pzlnf"
+    },
+    {
+      "album": {
         "name": "Afraid of Love",
         "url": "https://open.spotify.com/album/4BEJ61iyWOtYrmimCFjG65"
       },
@@ -619,7 +655,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 267148,
       "name": "Afraid of Love",
       "url": "https://open.spotify.com/track/05Ex4k06zKLhAbVym8G0cm"
@@ -763,7 +799,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 143376,
       "name": "Alcoholic",
       "url": "https://open.spotify.com/track/50yrd6laLgnTqvvNeSq2Bf"
@@ -817,7 +853,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 189230,
       "name": "ALIEN",
       "url": "https://open.spotify.com/track/4GBj02UTxaa9cLKg7qU8UE"
@@ -875,6 +911,24 @@
       "duration_ms": 185650,
       "name": "All I'm Seeing",
       "url": "https://open.spotify.com/track/2uGr25CqOjX0F0MgwNh0qp"
+    },
+    {
+      "album": {
+        "name": "All My Friends",
+        "url": "https://open.spotify.com/album/0AXB3EOh9uSBdQrcoBnlyu"
+      },
+      "artists": [
+        {
+          "name": "Queen of Jeans",
+          "url": "https://open.spotify.com/artist/61HFuOrTUb63I9b11WdnqL"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272190,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/3LPdRRMTSeZ0FdjmpOnfKB"
     },
     {
       "album": {
@@ -1055,6 +1109,24 @@
       "duration_ms": 185873,
       "name": "American Psycho",
       "url": "https://open.spotify.com/track/3oQkPjn9TE19bRxPPpWp08"
+    },
+    {
+      "album": {
+        "name": "Amnesia",
+        "url": "https://open.spotify.com/album/7nKdgCnwH657TEKLNPoVW9"
+      },
+      "artists": [
+        {
+          "name": "Fake A Smile",
+          "url": "https://open.spotify.com/artist/3sHwzQ71N1kblQD9D2WxDm"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149400,
+      "name": "Amnesia",
+      "url": "https://open.spotify.com/track/1QLsB1p8qoqLho63QdhLYU"
     },
     {
       "album": {
@@ -1451,7 +1523,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 65654,
       "name": "Art History",
       "url": "https://open.spotify.com/track/6ZW6mNdkyhqe7ouKpFTImd"
@@ -2355,7 +2427,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 214680,
       "name": "Better Than Me",
       "url": "https://open.spotify.com/track/3Ef2bhdiJBgz8sX9Kd1tCE"
@@ -2499,7 +2571,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 208697,
       "name": "Big Fish",
       "url": "https://open.spotify.com/track/7kY5rVq2LKZN2bjVryVN7A"
@@ -3245,6 +3317,24 @@
       "duration_ms": 164404,
       "name": "Bravo",
       "url": "https://open.spotify.com/track/1nV3jf92BAy8w2p5dD4Ulo"
+    },
+    {
+      "album": {
+        "name": "Breaking In Brooklyn",
+        "url": "https://open.spotify.com/album/64cJi0RRWD8b6UTcZz06FC"
+      },
+      "artists": [
+        {
+          "name": "Dogpark",
+          "url": "https://open.spotify.com/artist/2VlmDb05CPERyCZfmZI3x7"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186864,
+      "name": "Breaking In Brooklyn",
+      "url": "https://open.spotify.com/track/3TGO0j7ylfqmeQADB1qaea"
     },
     {
       "album": {
@@ -4477,7 +4567,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210732,
       "name": "Cigarettes in Bed",
       "url": "https://open.spotify.com/track/04PfmujQdnWfCz09W87hj6"
@@ -5263,7 +5353,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 163914,
       "name": "Cruise",
       "url": "https://open.spotify.com/track/2HxGutaMBJvIF8qRh3yBjl"
@@ -6023,7 +6113,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 207760,
       "name": "Default Parody",
       "url": "https://open.spotify.com/track/1H92yQ4R0sreZR0kDvTE2s"
@@ -6383,7 +6473,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 181907,
       "name": "Distant Dawn",
       "url": "https://open.spotify.com/track/4MpB1UVoAYkI2GpQYtxzvQ"
@@ -7755,7 +7845,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 137743,
       "name": "Falling in",
       "url": "https://open.spotify.com/track/4cbm57Rl7bs1loMHZbzUco"
@@ -9293,7 +9383,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 259812,
       "name": "Gold",
       "url": "https://open.spotify.com/track/50aXpb8bB1FyPdOZsic4h3"
@@ -9679,7 +9769,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 155520,
       "name": "Happy Place",
       "url": "https://open.spotify.com/track/1XCyRASRZQpKVRU0V7Z18b"
@@ -14051,7 +14141,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 241133,
       "name": "Lucca (Universe)",
       "url": "https://open.spotify.com/track/61OEqVGvlOmEmwnRg9dOHn"
@@ -14109,6 +14199,24 @@
       "duration_ms": 164586,
       "name": "Lucky You",
       "url": "https://open.spotify.com/track/5dourGbYNsSbm3V3KTzHMK"
+    },
+    {
+      "album": {
+        "name": "lust",
+        "url": "https://open.spotify.com/album/0Lm2tTEWpEYyZKhS5tXzku"
+      },
+      "artists": [
+        {
+          "name": "Glixen",
+          "url": "https://open.spotify.com/artist/3eimPofmo9TuKJTgpM9Bcj"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228741,
+      "name": "lust",
+      "url": "https://open.spotify.com/track/3QRwycTXCQrrDaFvQn235B"
     },
     {
       "album": {
@@ -15430,6 +15538,24 @@
     },
     {
       "album": {
+        "name": "Nest",
+        "url": "https://open.spotify.com/album/51WwDzkviWXOdIqztS7fTw"
+      },
+      "artists": [
+        {
+          "name": "Spilly Cave",
+          "url": "https://open.spotify.com/artist/67mzMEdm10hCcDU3E4RH3l"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149720,
+      "name": "Nest",
+      "url": "https://open.spotify.com/track/1rKGfMOG6HxI3TzzO2F79F"
+    },
+    {
+      "album": {
         "name": "Loosey",
         "url": "https://open.spotify.com/album/2nCJxgGHGeRUZz8HzhIvJd"
       },
@@ -16087,7 +16213,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 196500,
       "name": "Now",
       "url": "https://open.spotify.com/track/7AxeQfiFdNxmcRBLCBFDGC"
@@ -16307,7 +16433,7 @@
       ],
       "date_added": "2023-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 213000,
       "name": "oh well",
       "url": "https://open.spotify.com/track/2ZnqebkfOu2u8dV0hMLwtb"
@@ -16329,6 +16455,24 @@
       "duration_ms": 152550,
       "name": "Oil Spill",
       "url": "https://open.spotify.com/track/50DMQMCiF6p80OZVP4htDz"
+    },
+    {
+      "album": {
+        "name": "Old Enough",
+        "url": "https://open.spotify.com/album/5BacxbMY5EcHEt3koKoAND"
+      },
+      "artists": [
+        {
+          "name": "talker",
+          "url": "https://open.spotify.com/artist/1wcTmtixisIzV10W69W6lm"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208021,
+      "name": "Old Enough",
+      "url": "https://open.spotify.com/track/6nPwcJ7Sq2McddBwqGqieD"
     },
     {
       "album": {
@@ -17265,7 +17409,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 282073,
       "name": "Plateau",
       "url": "https://open.spotify.com/track/3VBNyssoLrTaLW1NAbibss"
@@ -18649,6 +18793,24 @@
       "duration_ms": 161784,
       "name": "RUN TO BUY VACUUM",
       "url": "https://open.spotify.com/track/0fWHQ0HDdc9XBKx4lC0xQ1"
+    },
+    {
+      "album": {
+        "name": "Running",
+        "url": "https://open.spotify.com/album/4C1HvmMvjDuVTammFGIADL"
+      },
+      "artists": [
+        {
+          "name": "Fat Dog",
+          "url": "https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317467,
+      "name": "Running",
+      "url": "https://open.spotify.com/track/1EqavzBokG9fKmRfK6VJGp"
     },
     {
       "album": {
@@ -22035,7 +22197,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 114320,
       "name": "Temple of the Mind",
       "url": "https://open.spotify.com/track/7DrgRNtdIqzaabxfoCYRCj"
@@ -22961,7 +23123,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 189111,
       "name": "Too Late",
       "url": "https://open.spotify.com/track/4GdkBsqaIopybSiKDnuUSH"
@@ -25263,6 +25425,24 @@
       "duration_ms": 259626,
       "name": "You Work All Day And Then You Die",
       "url": "https://open.spotify.com/track/4dYFnwuetvtsFYpLCZIe4N"
+    },
+    {
+      "album": {
+        "name": "You're A Man",
+        "url": "https://open.spotify.com/album/4JOlfTLPleVwdHyGnpzAUR"
+      },
+      "artists": [
+        {
+          "name": "Big Bliss",
+          "url": "https://open.spotify.com/artist/0hfTpj6KhTNt3H7SXCXbDx"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203945,
+      "name": "You're A Man",
+      "url": "https://open.spotify.com/track/618VUciNRcAPYz78PFgUjw"
     },
     {
       "album": {

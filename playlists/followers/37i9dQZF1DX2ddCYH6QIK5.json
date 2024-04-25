@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 28918,
+  "2024-04-25": 28930,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Magdalena Wawra, Artwork: Isu Kim.\n",
+  "description": "The best new music by independent artists and labels, updated every Wednesday. Cover: Heavent, Artwork: Isu Kim.\n",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -4247,7 +4247,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 155492,
       "name": "Deine Stra\u00dfe",
       "url": "https://open.spotify.com/track/585TXTK16mHP1qQv1vFOJE"
@@ -4987,6 +4987,24 @@
       "duration_ms": 308693,
       "name": "Du Bist Hier",
       "url": "https://open.spotify.com/track/2mMMDJM85hhd5vtoQK75U7"
+    },
+    {
+      "album": {
+        "name": "du bleibst",
+        "url": "https://open.spotify.com/album/42iPVnvfAxk67gW298MDet"
+      },
+      "artists": [
+        {
+          "name": "JOPPE",
+          "url": "https://open.spotify.com/artist/32SGyqDBvd9HrVhL3ulIvE"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147293,
+      "name": "du bleibst",
+      "url": "https://open.spotify.com/track/7riZdelgc5zAYScR0s8Aq7"
     },
     {
       "album": {
@@ -6406,6 +6424,24 @@
     },
     {
       "album": {
+        "name": "Flugmodus",
+        "url": "https://open.spotify.com/album/3gd79pOuuBIi4yRvTj5SGJ"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177959,
+      "name": "Flugmodus",
+      "url": "https://open.spotify.com/track/6vHy6AC1haEhnAP1N8Gn3k"
+    },
+    {
+      "album": {
         "name": "Follow Your Love",
         "url": "https://open.spotify.com/album/1KK6EL915z7sOeNgCVGAAq"
       },
@@ -7501,7 +7537,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 107462,
       "name": "Halb so high",
       "url": "https://open.spotify.com/track/1s0sorwRB17dDp4wVvcfQ6"
@@ -7786,6 +7822,24 @@
     },
     {
       "album": {
+        "name": "Heart Still Beats 4 U",
+        "url": "https://open.spotify.com/album/6fTpXItb9bHDwD5J7R7aDb"
+      },
+      "artists": [
+        {
+          "name": "Martha Rose",
+          "url": "https://open.spotify.com/artist/2to0DT3S4QZofED8qsAcnO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218649,
+      "name": "Heart Still Beats 4 U",
+      "url": "https://open.spotify.com/track/4TJBP4HTaJyujk0L0Yf8h7"
+    },
+    {
+      "album": {
         "name": "airplane mode",
         "url": "https://open.spotify.com/album/4qEVH8Dt5AruQvQpU7w3iL"
       },
@@ -7941,7 +7995,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 186000,
       "name": "Here to Stay",
       "url": "https://open.spotify.com/track/3avf3jb1HVYK5TkZBjytuB"
@@ -8187,6 +8241,24 @@
       "duration_ms": 221347,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/5q9TIPIzxkBKuACZaJKLNU"
+    },
+    {
+      "album": {
+        "name": "Holding Your Heart",
+        "url": "https://open.spotify.com/album/2WAECECNXHxWF6ElsM2PHW"
+      },
+      "artists": [
+        {
+          "name": "EX GENERATION",
+          "url": "https://open.spotify.com/artist/7aePbjQ413f884sVyRtQtn"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220580,
+      "name": "Holding Your Heart",
+      "url": "https://open.spotify.com/track/141GEs0sthqirmbpV6nnmF"
     },
     {
       "album": {
@@ -9719,7 +9791,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174137,
       "name": "Katze",
       "url": "https://open.spotify.com/track/1H17wACf2TRrKpFePwGjGP"
@@ -12126,6 +12198,24 @@
     },
     {
       "album": {
+        "name": "Nemo",
+        "url": "https://open.spotify.com/album/4ZOSjbv4OqKdFKLCbQb5Qq"
+      },
+      "artists": [
+        {
+          "name": "Heavent",
+          "url": "https://open.spotify.com/artist/6Phe79G3G9eEADucEW70NV"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "Nemo",
+      "url": "https://open.spotify.com/track/66m5wQxTelUD57tJYy0dUl"
+    },
+    {
+      "album": {
         "name": "NEUROSEN",
         "url": "https://open.spotify.com/album/0eROVoI2CP5PQdmdgckYN6"
       },
@@ -12751,7 +12841,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 243496,
       "name": "OCEANS MISSING YOU",
       "url": "https://open.spotify.com/track/3LpukLeiwm9d0Mo4eCZLCG"
@@ -12859,7 +12949,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 239865,
       "name": "Oh Brother",
       "url": "https://open.spotify.com/track/47BJwTCFxnxTQNyJMfVxBN"
@@ -14849,7 +14939,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 219913,
       "name": "Running",
       "url": "https://open.spotify.com/track/3gDSnFgQxSuAXIiLVEHhgx"
@@ -15627,7 +15717,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 171978,
       "name": "Skirt On Pants",
       "url": "https://open.spotify.com/track/1nUkCpO17PMooe6uRAkGkw"
@@ -15649,6 +15739,24 @@
       "duration_ms": 171222,
       "name": "sleep",
       "url": "https://open.spotify.com/track/0Zt1rFdighzqNQDgmN4srr"
+    },
+    {
+      "album": {
+        "name": "sleep a week",
+        "url": "https://open.spotify.com/album/7E9508kdaaAV5owWmtyEoO"
+      },
+      "artists": [
+        {
+          "name": "little boys dreaming",
+          "url": "https://open.spotify.com/artist/0ErJ8nNIXcblUIMsvXNCnH"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120250,
+      "name": "sleep a week",
+      "url": "https://open.spotify.com/track/5hmBLmRYl3R6fNIidAe8hz"
     },
     {
       "album": {
@@ -17352,6 +17460,24 @@
     },
     {
       "album": {
+        "name": "The Night is Cold",
+        "url": "https://open.spotify.com/album/5NGD3Wk6F8EnYjGCaBLptx"
+      },
+      "artists": [
+        {
+          "name": "Alicia Shaneen",
+          "url": "https://open.spotify.com/artist/2JFEImNoVBgptVErjqWJk3"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205999,
+      "name": "The Night is Cold",
+      "url": "https://open.spotify.com/track/4bj3dvSEk74yp69Mm99Mlx"
+    },
+    {
+      "album": {
         "name": "THE PASSION",
         "url": "https://open.spotify.com/album/3NH5Pa5Zkb675eYomZueeu"
       },
@@ -18356,6 +18482,24 @@
     },
     {
       "album": {
+        "name": "Universum",
+        "url": "https://open.spotify.com/album/2txQKpNxTPcUYl120xKHRE"
+      },
+      "artists": [
+        {
+          "name": "Jette Sorgenfrey",
+          "url": "https://open.spotify.com/artist/30yHAwHCY1olgo23dXQbPT"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162000,
+      "name": "Universum",
+      "url": "https://open.spotify.com/track/00717OHJtlgRXfR4EbyVrf"
+    },
+    {
+      "album": {
         "name": "Unruhe",
         "url": "https://open.spotify.com/album/598A78ybotoNKq85DjETFo"
       },
@@ -19002,6 +19146,28 @@
     },
     {
       "album": {
+        "name": "Weightless",
+        "url": "https://open.spotify.com/album/3biQ3VIzH8p3HirpaSKdlZ"
+      },
+      "artists": [
+        {
+          "name": "Emina Sonnad",
+          "url": "https://open.spotify.com/artist/42x2L7eaYJd1j2nqyVzWmz"
+        },
+        {
+          "name": "Stephan Winter",
+          "url": "https://open.spotify.com/artist/64C7BP8YbawFzAQz7GeLLv"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180967,
+      "name": "Weightless",
+      "url": "https://open.spotify.com/track/3p1OaMB89QZTgO7UcVHblg"
+    },
+    {
+      "album": {
         "name": "Bitte Nicht / Weit Weg",
         "url": "https://open.spotify.com/album/7mt9KpxCtZj3YRNAcEBSJH"
       },
@@ -19031,7 +19197,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 143500,
       "name": "Weit weg",
       "url": "https://open.spotify.com/track/45GQBrjltJYKPUC3MVJBf0"
@@ -19457,7 +19623,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 161906,
       "name": "Wie Berlin",
       "url": "https://open.spotify.com/track/66JUFEw7AuUx3SazWxjuqh"

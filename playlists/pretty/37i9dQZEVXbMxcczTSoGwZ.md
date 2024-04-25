@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Finland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 154,898 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 154,914 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMxcczTSoGwZ.md) - [plain]
 | 49 | [Tulipalo](https://open.spotify.com/track/50MCpRAPLw8KXn8j6j2yb7) | [KUUMAA](https://open.spotify.com/artist/3YC5DVJDjyazvB8hxJSybr) | [Hyvikset ja pahikset](https://open.spotify.com/album/24CZMvczsQC6vHMB05weD0) | 3:03 |
 | 50 | [Monaco](https://open.spotify.com/track/1WboGiF8KWA7HTKoaXlqGa) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Monaco](https://open.spotify.com/album/00JuIgdcWaBoOzyvlYB3vw) | 3:26 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

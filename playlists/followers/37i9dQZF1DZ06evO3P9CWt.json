@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 275406,
+  "2024-04-25": 275400,
   "date_first_scraped": "2023-10-11",
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
   "name": "This Is Pabllo Vittar",
@@ -375,10 +375,40 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 177782,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH"
+    },
+    {
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Mc Alleff",
+          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174213,
+      "name": "BRUXARIA 3000",
+      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
     },
     {
       "album": {

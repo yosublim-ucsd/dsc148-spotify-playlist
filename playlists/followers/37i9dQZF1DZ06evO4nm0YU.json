@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 149028,
+  "2024-04-25": 149053,
   "date_first_scraped": "2022-09-09",
-  "description": "This Is H\u00e9ctor Lavoe. Los temas esenciales, todos en una lista.",
+  "description": "This is H\u00e9ctor Lavoe. The essential tracks, all in one playlist.",
   "name": "This Is H\u00e9ctor Lavoe",
   "tracks": [
     {
@@ -307,7 +307,7 @@
       ],
       "date_added": "2022-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 206827,
       "name": "Dia De Ayer",
       "url": "https://open.spotify.com/track/2UmblzGZJ9L39cGBamLhgs"
@@ -467,7 +467,7 @@
       ],
       "date_added": "2022-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 262680,
       "name": "El Todopoderoso",
       "url": "https://open.spotify.com/track/0Mg0kjsLUfzgBMtbxRnIGL"

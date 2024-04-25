@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5IRdCjOHb6RwaIl1PaomPV.md) - [plain]
 
 > The latest tracks from Mad Decent and friends\. New music from Snow Strippers plus the latest cuts from Omar Souleyman, DJ\_Dave and more.
 
-[Mad Decent](https://open.spotify.com/user/maddecent) - 50,756 likes - 97 songs - 5 hr 13 min
+[Mad Decent](https://open.spotify.com/user/maddecent) - 50,752 likes - 97 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

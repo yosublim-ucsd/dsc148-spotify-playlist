@@ -1812,7 +1812,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 169655,
       "name": "Ai Caralh*",
       "url": "https://open.spotify.com/track/3U2jpqcfhA9vpy2jwEQqYr"
@@ -42107,6 +42107,28 @@
     },
     {
       "album": {
+        "name": "Tapa na Cara Pux\u00e3o de Cabelo",
+        "url": "https://open.spotify.com/album/53c4XyF4uGBzyLSywWw59j"
+      },
+      "artists": [
+        {
+          "name": "Dj Ryann",
+          "url": "https://open.spotify.com/artist/0DtRYqiLCeTt8wr62M8asZ"
+        },
+        {
+          "name": "DJ Kikito SP",
+          "url": "https://open.spotify.com/artist/5YNZ5oL8CEW9idv381Nymk"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147828,
+      "name": "Tapa na Cara Pux\u00e3o de Cabelo",
+      "url": "https://open.spotify.com/track/5XNbAtPWTfedFcXpTiTAIH"
+    },
+    {
+      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/0LRTS7FyYLppkDLOZT02Xp"
       },
@@ -43428,7 +43450,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 185238,
       "name": "The Sound of Silence - CYRIL Remix",
       "url": "https://open.spotify.com/track/1LY3GhF0zxIVgbYEQjCbUO"
@@ -44072,10 +44094,28 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {
@@ -47366,6 +47406,24 @@
       "duration_ms": 183185,
       "name": "Vou Falar o Que?",
       "url": "https://open.spotify.com/track/532c5QACGW10DFZWyNaMKL"
+    },
+    {
+      "album": {
+        "name": "Vou Fazer Meu Golzinho de Puteiro",
+        "url": "https://open.spotify.com/album/24tm5S9Det8dxb1j12SG3e"
+      },
+      "artists": [
+        {
+          "name": "DJ PERTUBADO",
+          "url": "https://open.spotify.com/artist/16RrFZwuMzmgcFIs3oXDwu"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153235,
+      "name": "Vou Fazer Meu Golzinho de Puteiro",
+      "url": "https://open.spotify.com/track/12DszOyU8REG5GdgI12WEs"
     },
     {
       "album": {

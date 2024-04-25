@@ -1,12 +1,12 @@
 {
   "description": "This is Baby Tate. The essential tracks, all in one playlist.",
-  "num_followers": 4275,
+  "num_followers": 4276,
   "original_name": "This Is Baby Tate",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDRiOGVmMzg0NTFiMTNjODY0NTI2ZWNlYTZkMTc4OGVj",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGNjOTVhNjQ4Y2UyMDIwYzIyY2VmZTkxYjNkNTkwYWNi",
   "tracks": [
     {
       "added_at": null,
@@ -391,26 +391,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "While You Wait",
-        "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
+        "name": "Picky (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/67G5PaoGn8tGMLQLrq9Cab"
       },
       "artists": [
         {
-          "name": "Vedo",
-          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
-        },
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+          "name": "Leaf",
+          "url": "https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l"
         },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 208149,
-      "name": "Come First",
-      "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
+      "duration_ms": 159402,
+      "name": "Picky (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0"
     },
     {
       "added_at": null,
@@ -447,6 +443,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "While You Wait",
+        "url": "https://open.spotify.com/album/3L0ST7zHUCBnqXGNQmy2TL"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        },
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 208149,
+      "name": "Come First",
+      "url": "https://open.spotify.com/track/0W1ULIQlbqZzfH2wP5A3WN"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nasty (Remix)",
         "url": "https://open.spotify.com/album/2MFhY2h3Eb6IvQ6AWmxIKs"
       },
@@ -479,42 +499,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bow (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL"
+        "name": "Mani/Pedi",
+        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
       },
       "artists": [
-        {
-          "name": "MFS",
-          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
-        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 94524,
-      "name": "Bow (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Picky (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/67G5PaoGn8tGMLQLrq9Cab"
-      },
-      "artists": [
-        {
-          "name": "Leaf",
-          "url": "https://open.spotify.com/artist/5IqdDgKZLckft62bdi1C0l"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 159402,
-      "name": "Picky (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/192uOLdDgV4cNLJJ1vkLN0"
+      "duration_ms": 189887,
+      "name": "Dancing Queen",
+      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mani/Pedi",
-        "url": "https://open.spotify.com/album/1PggRLfABCLlNktVA64NDh"
+        "name": "Bow (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/2bf8hfYFu0gMwdT0LVfJoL"
       },
       "artists": [
+        {
+          "name": "MFS",
+          "url": "https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd"
+        },
         {
           "name": "Baby Tate",
           "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 189887,
-      "name": "Dancing Queen",
-      "url": "https://open.spotify.com/track/6CeSwg2uQVfz20KXwXqKZQ"
+      "duration_ms": 94524,
+      "name": "Bow (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5TRZOLd92OksSG1I04LziQ"
     },
     {
       "added_at": null,
@@ -627,30 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STUPID (feat. Ashnikko & Yung Baby Tate) [Sped Up Nightcore]",
-        "url": "https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL"
-      },
-      "artists": [
-        {
-          "name": "sped up nightcore",
-          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
-        },
-        {
-          "name": "Ashnikko",
-          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 144233,
-      "name": "STUPID (feat. Ashnikko & Yung Baby Tate) - Sped Up Nightcore",
-      "url": "https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "zer0",
         "url": "https://open.spotify.com/album/5orXIakLkSIQAi9XsHOWEb"
       },
@@ -671,6 +647,30 @@
       "duration_ms": 192697,
       "name": "Like We",
       "url": "https://open.spotify.com/track/0A2YRDNyOpVHJ9uBd83OCJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STUPID (feat. Ashnikko & Yung Baby Tate) [Sped Up Nightcore]",
+        "url": "https://open.spotify.com/album/7I2HnKQFARWPLxSsUjIDIL"
+      },
+      "artists": [
+        {
+          "name": "sped up nightcore",
+          "url": "https://open.spotify.com/artist/0M2CO5ijP35MDhNwvpgxTV"
+        },
+        {
+          "name": "Ashnikko",
+          "url": "https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 144233,
+      "name": "STUPID (feat. Ashnikko & Yung Baby Tate) - Sped Up Nightcore",
+      "url": "https://open.spotify.com/track/6cxzd3vNyGtNOTnv34OCwO"
     },
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "oOo that's my type (feat. Yung Baby Tate)",
-        "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
-      },
-      "artists": [
-        {
-          "name": "Marian Hill",
-          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 161595,
-      "name": "oOo that's my type (feat. Yung Baby Tate)",
-      "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Grown",
         "url": "https://open.spotify.com/album/0qg7zJ3vm8Mv7xtrrYYhQV"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 127312,
       "name": "Want Not A Need (feat. Baby Tate)",
       "url": "https://open.spotify.com/track/71sEDegC32gkp1Y0vdrAf9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "oOo that's my type (feat. Yung Baby Tate)",
+        "url": "https://open.spotify.com/album/12MXzGTIgDokAvCMR0qXHN"
+      },
+      "artists": [
+        {
+          "name": "Marian Hill",
+          "url": "https://open.spotify.com/artist/1xHQO9GJIW9OXHxGBISYc5"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 161595,
+      "name": "oOo that's my type (feat. Yung Baby Tate)",
+      "url": "https://open.spotify.com/track/3hafGbhod5a1pRxeUrVD1O"
     },
     {
       "added_at": null,
@@ -991,22 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
-        "url": "https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK"
-      },
-      "artists": [
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 66240,
-      "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
-      "url": "https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ms. Out Tonight",
         "url": "https://open.spotify.com/album/5dlGTLkjRhY4xpkrAZTKUq"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 209577,
       "name": "Dirty Girl (with Baby Tate)",
       "url": "https://open.spotify.com/track/7uaf9grGM3ICiLAWv3dcTJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
+        "url": "https://open.spotify.com/album/4XG9ENFZoKawzarcGx6CWK"
+      },
+      "artists": [
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
+        }
+      ],
+      "duration_ms": 66240,
+      "name": "GIVE U LIFE (From LIFEWTR\u2019s LIFE UNSEEN Collection)",
+      "url": "https://open.spotify.com/track/7JCwTLIjLGpOT8QuQI1NkR"
     }
   ],
   "unique_name": "This Is Baby Tate",

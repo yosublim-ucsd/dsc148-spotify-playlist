@@ -1,12 +1,12 @@
 {
-  "description": "This is Natanael Cano. Les chansons essentielles, toutes regroup\u00e9es dans une seule liste de lecture.",
-  "num_followers": 618135,
+  "description": "This Is Natanael Cano. Los temas esenciales, todos en una lista.",
+  "num_followers": 618601,
   "original_name": "This Is Natanael Cano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDU5NmExODI3ZDE4YjU2MDJlNTQyNDBkZWZmOGUwNDNl",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDA0NmY0ZWVlMmJhMjc5MTQ3Zjk2ZmZhMWZmZjc0Njhk",
   "tracks": [
     {
       "added_at": null,
@@ -103,8 +103,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Endiamantado / Entre las de 20",
-        "url": "https://open.spotify.com/album/7kzmadmAbWRPtLbpQveynY"
+        "name": "Entre las de 20",
+        "url": "https://open.spotify.com/album/0teu3BYgtk8WuPBZWeDVN6"
       },
       "artists": [
         {
@@ -118,7 +118,7 @@
       ],
       "duration_ms": 168511,
       "name": "Entre las de 20",
-      "url": "https://open.spotify.com/track/3184c0tjCakg9oaNZYJODD"
+      "url": "https://open.spotify.com/track/61OsemtnuPJ5R0LMEkw60S"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "NataKong",
+        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 169510,
+      "name": "Cuento",
+      "url": "https://open.spotify.com/track/3MP9oRQ2LVNzgzgS1aRU2d"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Habla de un Muchacho",
         "url": "https://open.spotify.com/album/5JlSE8bBR9BCjfxcm3jODD"
       },
@@ -919,22 +935,6 @@
       "duration_ms": 177523,
       "name": "Se Habla de un Muchacho",
       "url": "https://open.spotify.com/track/7gX3wbDHclXJZTJqSiAnHe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "NataKong",
-        "url": "https://open.spotify.com/album/2irmTvrbuG1ox2Qa6R8J1L"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 169510,
-      "name": "Cuento",
-      "url": "https://open.spotify.com/track/3MP9oRQ2LVNzgzgS1aRU2d"
     },
     {
       "added_at": null,

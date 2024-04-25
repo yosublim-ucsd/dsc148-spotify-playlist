@@ -13509,6 +13509,24 @@
     },
     {
       "album": {
+        "name": "Cold Visions",
+        "url": "https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL"
+      },
+      "artists": [
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 70549,
+      "name": "PARANOIA INTRO",
+      "url": "https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW"
+    },
+    {
+      "album": {
         "name": "Party Girlz",
         "url": "https://open.spotify.com/album/7q27DgPhiFNgKehyAIKABp"
       },

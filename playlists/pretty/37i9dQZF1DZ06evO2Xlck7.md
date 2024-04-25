@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 
 ### [This Is Finch](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Xlck7)
 
-> This is Finch\. The essential tracks, all in one playlist.
+> This is Finch\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,853 likes - 25 songs - 1 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,854 likes - 25 songs - 1 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Xlck7.md) - [plain]
 | 24 | [Bang That](https://open.spotify.com/track/3VcCv2mLj6xTZs39TBC4DB) | [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Bang That](https://open.spotify.com/album/2j68CXKPfydWEvs5DLmpLq) | 2:34 |
 | 25 | [Pre World \- Main Floor House Mix](https://open.spotify.com/track/66ZKOcvJDUL2H7BtXv7Xm6) | [Ralphie](https://open.spotify.com/artist/2IDvsIFKUFVeRV4mTtKDGz), [Finch](https://open.spotify.com/artist/528t5c0zyuG9beehtth4Za) | [Love My Vol.9](https://open.spotify.com/album/0FKj3jBjNh8GZ0vMIwMwPh) | 5:45 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDA2N2JlNDhhOTA5MTBiMmU1MDg3YTRjOGYzYTU1Y2M1`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDQ5YWFhNjkxODVlNTJlZTZmMjk0NmFkNjdkZDNhYzRm`

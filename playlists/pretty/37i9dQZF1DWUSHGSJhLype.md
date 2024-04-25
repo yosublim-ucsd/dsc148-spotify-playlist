@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi farofa açaí cm peixe frito enfim desfrute / Foto: Mc Jacaré, Luan Pereira
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,180 likes - 85 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 506,533 likes - 85 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 84 | [Wonderful Pagode Rmx](https://open.spotify.com/track/33sVci9mshFZmvaRXCRlL4) | [Lala New Beat](https://open.spotify.com/artist/5dD7xgaacX4jvCNDSlSQRr) | [Wonderful Pagode Rmx](https://open.spotify.com/album/2RlvLl7eSa2eLP1ojEfUUF) | 4:48 |
 | 85 | [Um Por Cento \(UN X100TO\) \- Ao Vivo](https://open.spotify.com/track/6K8wlAJ1bTws9wk5xRn8CE) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Virado No Pagode \(Ao Vivo\)](https://open.spotify.com/album/1SXOjReTOGWZo79wMUR0v3) | 3:18 |
 
-Snapshot ID: `MTcxMzgxNzg3NiwwMDAwMDAwMDEzN2QyZjNjODQzMDNhOGRiN2MxNTk4NGEyMTcwYTAw`
+Snapshot ID: `MTcxMzk4NTM2NSwwMDAwMDAwMDBkZDA1YzQxYTc1MmJhN2Y1YWNhOWRjY2FhMDFhNGYx`

@@ -1,12 +1,12 @@
 {
-  "description": "This is The Offspring. The essential tracks, all in one playlist.",
-  "num_followers": 384806,
+  "description": "This is The Offspring. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 384821,
   "original_name": "This Is The Offspring",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGZmNWUzOTFmYTdjYmMwNTY3MWEyNTM0ZWIyZTAwNTNm",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNlNDM5ZTI5M2E0ZTZmMzllMDk3M2I0MTVlYWM0ZmI1",
   "tracks": [
     {
       "added_at": null,
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 165146,
-      "name": "One Fine Day",
-      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
+      "duration_ms": 219800,
+      "name": "Million Miles Away",
+      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
     },
     {
       "added_at": null,
@@ -440,9 +440,9 @@
           "url": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Million Miles Away",
-      "url": "https://open.spotify.com/track/6tNeHmedp9qo3BsBp5zOPe"
+      "duration_ms": 165146,
+      "name": "One Fine Day",
+      "url": "https://open.spotify.com/track/0sRviro3ekvHWmPqT2uYFP"
     },
     {
       "added_at": null,

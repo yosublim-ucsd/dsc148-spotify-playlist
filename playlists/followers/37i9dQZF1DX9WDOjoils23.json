@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 20327,
+  "2024-04-25": 20331,
   "date_first_scraped": "2023-08-27",
   "description": "Your favorite Punjabi Ghazals and Qawwalis. Cover: Jagjit Singh",
   "name": "Punjabi Ghazals & Qawwalis",
@@ -208,6 +208,24 @@
     },
     {
       "album": {
+        "name": "Merian Gallan Yaad Karengi",
+        "url": "https://open.spotify.com/album/0TYRJT4ttquHauBI32E8tm"
+      },
+      "artists": [
+        {
+          "name": "Parvez Mehdi",
+          "url": "https://open.spotify.com/artist/6cm8IAzdec1i8SMx8gErwJ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 329545,
+      "name": "Goriye Main Jana Pardes",
+      "url": "https://open.spotify.com/track/59OLGVun7cv5pqsSg5PmL9"
+    },
+    {
+      "album": {
         "name": "Punjabi Mehfil",
         "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
       },
@@ -277,6 +295,24 @@
       "duration_ms": 345476,
       "name": "Ja Ve Pardesia",
       "url": "https://open.spotify.com/track/6WrTw0AwTzqgYhl7I74IQM"
+    },
+    {
+      "album": {
+        "name": "Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/2G0aJaQ7NgRl1U0FAD3Usu"
+      },
+      "artists": [
+        {
+          "name": "Afshan",
+          "url": "https://open.spotify.com/artist/5KGyT7BuVG7qfJHstr7WSO"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265781,
+      "name": "Jaan Kadh Layee Aa Beimana",
+      "url": "https://open.spotify.com/track/02x9Iqu6YKsYIdqVjChg9x"
     },
     {
       "album": {
@@ -370,6 +406,28 @@
     },
     {
       "album": {
+        "name": "Ghulam Ali Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        },
+        {
+          "name": "Abdul Sattar Tari",
+          "url": "https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 529160,
+      "name": "Ki Hath Aya Tere Sahnoon Tarpaha Ke",
+      "url": "https://open.spotify.com/track/0YGDJmZrd4TQ9J3L5WzRMw"
+    },
+    {
+      "album": {
         "name": "30 Greatest Hits Nusrat Fateh Ali Khan and Sabri Brothers",
         "url": "https://open.spotify.com/album/0bGcGPQfXs78eUEgJ2XfHp"
       },
@@ -403,6 +461,28 @@
       "duration_ms": 578260,
       "name": "Kinna Sohna Tainu",
       "url": "https://open.spotify.com/track/6ZSg7tQPECNUrGI2KSzFW1"
+    },
+    {
+      "album": {
+        "name": "Ghulam Ali Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        },
+        {
+          "name": "Abdul Sattar Tari",
+          "url": "https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442866,
+      "name": "Kivain Gori Chalni Ae",
+      "url": "https://open.spotify.com/track/48qsTL4KxMPkaCJJRWQpiz"
     },
     {
       "album": {
@@ -442,6 +522,28 @@
     },
     {
       "album": {
+        "name": "Ghulam Ali Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        },
+        {
+          "name": "Abdul Sattar Tari",
+          "url": "https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 612106,
+      "name": "Lag Gaye Nain Awarey",
+      "url": "https://open.spotify.com/track/4jxr7cQ61h1ojNxHJhx9ho"
+    },
+    {
+      "album": {
         "name": "Night Song",
         "url": "https://open.spotify.com/album/1Wf0XzcNrA9lceFv0SBHPs"
       },
@@ -461,6 +563,28 @@
       "duration_ms": 335600,
       "name": "Longing",
       "url": "https://open.spotify.com/track/36RxCz8eUDCc6nKp9cvlhb"
+    },
+    {
+      "album": {
+        "name": "Ghulam Ali Punjabi Mehfil",
+        "url": "https://open.spotify.com/album/0RutIwb1qQWNeAk2ExYrtV"
+      },
+      "artists": [
+        {
+          "name": "Ghulam Ali",
+          "url": "https://open.spotify.com/artist/62mCohf6aiF3nryWghwCxM"
+        },
+        {
+          "name": "Abdul Sattar Tari",
+          "url": "https://open.spotify.com/artist/5a75FBOofgVIoDb33jmiz2"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442200,
+      "name": "Mere Shauk Da Nahin Etbar",
+      "url": "https://open.spotify.com/track/2snklMZDtJsfRJLK1WKboZ"
     },
     {
       "album": {
@@ -497,6 +621,24 @@
       "duration_ms": 395589,
       "name": "Merian Gallan Yaad Karengee",
       "url": "https://open.spotify.com/track/3cc8pkYg6JbEgngka0Z8NJ"
+    },
+    {
+      "album": {
+        "name": "Meri Pasand",
+        "url": "https://open.spotify.com/album/6ZAFPHUK38sQGNeLoqFl76"
+      },
+      "artists": [
+        {
+          "name": "Noor Jehan",
+          "url": "https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197506,
+      "name": "Neendar Nain Aawndi",
+      "url": "https://open.spotify.com/track/2rlxA33dXhCL6XGBYMz0Ce"
     },
     {
       "album": {
@@ -663,6 +805,24 @@
       "duration_ms": 371017,
       "name": "Ruttan Aaiyan Mera Yaar Ni Aaya",
       "url": "https://open.spotify.com/track/4MiqW92WfkDrdt9LMUZfs2"
+    },
+    {
+      "album": {
+        "name": "Meri Pasand",
+        "url": "https://open.spotify.com/album/6ZAFPHUK38sQGNeLoqFl76"
+      },
+      "artists": [
+        {
+          "name": "Noor Jehan",
+          "url": "https://open.spotify.com/artist/0LruguA5aIP6yvLUIkxANh"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256386,
+      "name": "Sanun Nahar Wale Pul",
+      "url": "https://open.spotify.com/track/5Va8mH395NByfbTPyp2h1q"
     },
     {
       "album": {

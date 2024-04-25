@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8D7KQ5MCl7U.md) - [plain]
 
 > All Coke Studio Pakistan tracks in one place\. Season 15 updated live.
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,211 likes - 150 songs - 16 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,245 likes - 150 songs - 16 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

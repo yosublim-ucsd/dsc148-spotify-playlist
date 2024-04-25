@@ -4,7 +4,7 @@
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-58 songs - 3 hr 46 min
+59 songs - 3 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [モノローグ](https://open.spotify.com/track/28hm427YkOm24SGkOngxSX) | [Kiro Akiyama](https://open.spotify.com/artist/0JROVv4P85ZVPFbaJIqAty) | [From DROPOUT](https://open.spotify.com/album/0xyXWlYQT4idyZJfTHk0dx) | 4:11 | 2024-04-18 |  |
 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 | 2024-04-01 |  |
 | [回転・天使](https://open.spotify.com/track/0cVaG276BeCnxIxf42puZ1) | [betcover!!](https://open.spotify.com/artist/0qOuNoGdyXOUZlgdqPbTz3) | [時間](https://open.spotify.com/album/7hhhZ2apbHb5XZj2sXY2FU) | 5:40 | 2024-04-16 |  |
+| [夜を使いはたして feat\. PUNPEE](https://open.spotify.com/track/5UxtXZBNTO1EDBVZH4I9Mf) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Pushin'](https://open.spotify.com/album/4h3fUSF2oKaS1J5t6FCaR7) | 4:54 | 2024-04-25 |  |
 | [夜間飛行](https://open.spotify.com/track/1wcu44bluvl1QEefHxKhsf) | [多次元制御機構よだか](https://open.spotify.com/artist/2GJMiGBEYG8xiK6XAojxCd) | [夜間飛行](https://open.spotify.com/album/2aeHBBhhrrdV9OUdrFgufv) | 4:00 | 2024-04-18 |  |
 | [死ぬのがいいわ](https://open.spotify.com/track/0HYAsQwJIO6FLqpyTeD3l6) | [Fujii Kaze](https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi) | [HELP EVER HURT NEVER](https://open.spotify.com/album/03QiFOKDh6xMiSTkOnsmMG) | 3:05 | 2024-04-18 |  |
 | [水星 \(feat\. オノマトペ大臣\)](https://open.spotify.com/track/6XA6rD06U0Y7L8q9EISVGX) | [tofubeats](https://open.spotify.com/artist/2FzqIT8JP1gd3Tlo6ix1fT), [オノマトペ大臣](https://open.spotify.com/artist/575g2KDApbVOueuZbqtJPU) | [水星](https://open.spotify.com/album/0HN0p05E303NlGcdmwEVld) | 4:33 | 2024-04-03 |  |

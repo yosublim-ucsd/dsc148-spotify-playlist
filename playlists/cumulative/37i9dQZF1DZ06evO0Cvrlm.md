@@ -2,7 +2,7 @@
 
 ### [This Is George Michael](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0Cvrlm)
 
-> This is George Michael\. The essential tracks, all in one playlist.
+> This is George Michael\. Todos os maiores hits em uma só playlist.
 
 64 songs - 5 hr 10 min
 
@@ -31,7 +31,7 @@
 | [Going To A Town \- Live](https://open.spotify.com/track/3yTgmjZoG8OnQXmE9aNSc2) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Symphonica \(Deluxe Version\)](https://open.spotify.com/album/50JXdvjNWtNWVuboQhEQkO) | 4:45 | 2023-07-28 |  |
 | [Hand to Mouth \- Remastered](https://open.spotify.com/track/4wLjiz87aGbmDhADeMQWwt) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Faith](https://open.spotify.com/album/34K1Kvskt9arWy8E1Gz3Lw) | 4:36 | 2023-12-19 | 2024-04-15 |
 | [Heal the Pain \- Remastered](https://open.spotify.com/track/2EBWsH43kZsQd6MSPygouy) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice / MTV Unplugged \(Deluxe\)](https://open.spotify.com/album/0ZeOyoJHPD6czbTPAT9Qaj) | 4:39 | 2023-07-28 | 2023-12-17 |
-| [Heal the Pain \- Remastered](https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 | 2024-01-24 | 2024-04-24 |
+| [Heal the Pain \- Remastered](https://open.spotify.com/track/5XGN3T9LLz72Zxg4JXjyGJ) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 4:40 | 2024-01-24 |  |
 | [How Do You Keep the Music Playing?](https://open.spotify.com/track/6c1BwNumEAwmAUBOKx5WjI) | [Tony Bennett](https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Duets An American Classic](https://open.spotify.com/album/0RPgKTqFhjUD8KEf9vR7jX) | 5:23 | 2023-07-28 | 2023-10-11 |
 | [I Can't Make You Love Me \- Studio Version](https://open.spotify.com/track/2w4a4ur2uRf530cbzyTlWo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Ladies And Gentlemen..\. The Best Of George Michael](https://open.spotify.com/album/3coLNlyStg9h7f8CZ103Rl) | 5:20 | 2023-07-28 | 2024-01-28 |
 | [I Knew You Were Waiting \(For Me\)](https://open.spotify.com/track/2gJDyiRxxIglLXp545SPVL) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [ARETHA](https://open.spotify.com/album/0RemO3TlI1NdaeWqdE4E9H) | 4:00 | 2023-07-28 |  |
@@ -58,7 +58,7 @@
 | [Secret Love](https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 2:39 | 2023-07-28 |  |
 | [Somebody to Love](https://open.spotify.com/track/1kn8Jj0i9IwyO3yDgDyUSR) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo), [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [Ladies & Gentlemen](https://open.spotify.com/album/0IJcpy0eM4o63J43qij68g) | 5:18 | 2023-07-28 |  |
 | [Somebody To Love \- Live At The Freddie Mercury Tribute Concert For AIDS Awareness, Wembley / 1992](https://open.spotify.com/track/3g8OM1tEhwNQqsXDHhVbQQ) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d), [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Greatest Hits III](https://open.spotify.com/album/2BY5L3fpnj4pEduW3T1qN7) | 5:07 | 2023-07-28 |  |
-| [Something to Save \- Remastered](https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:18 | 2023-07-28 |  |
+| [Something to Save \- Remastered](https://open.spotify.com/track/0reIhlNWbYxMc2AAyKHzFX) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Listen Without Prejudice \(Remastered\)](https://open.spotify.com/album/3wefJju6OeLfLCd5KJWi7o) | 3:18 | 2023-07-28 | 2024-04-25 |
 | [Spinning the Wheel](https://open.spotify.com/track/4V4Ur4PJskr5vR2ek8VHWw) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 6:21 | 2023-07-28 |  |
 | [Star People](https://open.spotify.com/track/2x8rw8kMwjbxdThFw1NCIX) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Older](https://open.spotify.com/album/45evuVVrY9LzPez8geNEIF) | 5:16 | 2023-07-28 | 2024-04-20 |
 | [The First Time Ever I Saw Your Face](https://open.spotify.com/track/6T0gaMfEfNWXZCGQKh1wlo) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 5:19 | 2023-07-28 |  |

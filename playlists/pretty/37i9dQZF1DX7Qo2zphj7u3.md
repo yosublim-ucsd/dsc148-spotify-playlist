@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Qo2zphj7u3.md) - [plain]
 
 > Las románticas de hoy y de siempre\. Foto: Luis Fonsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,983,215 likes - 250 songs - 16 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,982,847 likes - 250 songs - 16 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 898234,
+  "2024-04-25": 898429,
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: Mrs. GREEN APPLE",
+  "description": "The hottest hits in Japan right now. \u65e5\u672c\u306e\u30dd\u30c3\u30d7\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u6700\u65b0\u30d9\u30b9\u30c850\u3002Cover: \u306a\u3068\u308a",
   "name": "Tokyo Super Hits! ",
   "tracks": [
     {
@@ -2089,7 +2089,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 165253,
       "name": "Click",
       "url": "https://open.spotify.com/track/2kFUlPHiyXAYMfE0fhoRS4"
@@ -3297,7 +3297,7 @@
       ],
       "date_added": "2024-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251546,
       "name": "Eye's Sentry",
       "url": "https://open.spotify.com/track/0nuWbGxJRzi8odd18gmtuH"
@@ -4752,6 +4752,24 @@
     },
     {
       "album": {
+        "name": "hanataba",
+        "url": "https://open.spotify.com/album/0M2bwPryy0miQQJD0xyiLi"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246533,
+      "name": "hanataba",
+      "url": "https://open.spotify.com/track/4mMRlmw3cKKpKHCKFNZgyx"
+    },
+    {
+      "album": {
         "name": "Happy Ending",
         "url": "https://open.spotify.com/album/0dSDXhmYL9VjTIj9PMn1ny"
       },
@@ -4767,6 +4785,24 @@
       "duration_ms": 229847,
       "name": "Happy Ending",
       "url": "https://open.spotify.com/track/3b2BqLB9U3PNdMhcGq8pOR"
+    },
+    {
+      "album": {
+        "name": "Happy Order?",
+        "url": "https://open.spotify.com/album/0oGqRZnSSNtsbOfUeWTCAG"
+      },
+      "artists": [
+        {
+          "name": "imase",
+          "url": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211140,
+      "name": "Happy Order?",
+      "url": "https://open.spotify.com/track/42m2Tyvsx9DRuujxfeTjfi"
     },
     {
       "album": {
@@ -5563,6 +5599,24 @@
       "duration_ms": 225533,
       "name": "I Wanna Be Your Ghost (feat. Ghosts)",
       "url": "https://open.spotify.com/track/12qmPGMrOCogibc7qyxT9s"
+    },
+    {
+      "album": {
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/2Pwsp7jElXMU0fUwzHo1je"
+      },
+      "artists": [
+        {
+          "name": "Da-iCE",
+          "url": "https://open.spotify.com/artist/71UIOLnsacxQHlU55TvfiH"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157746,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/00Q3uYmFKFVYTRjbsnUq7H"
     },
     {
       "album": {
@@ -10389,7 +10443,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 248901,
       "name": "Run",
       "url": "https://open.spotify.com/track/5Hi3N1zV22FTZzWrjFMsQp"
@@ -10877,7 +10931,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 210537,
       "name": "Shine Out",
       "url": "https://open.spotify.com/track/2FgLVjctguMwUcYURQUOYA"
@@ -11967,6 +12021,24 @@
       "duration_ms": 196463,
       "name": "Subway",
       "url": "https://open.spotify.com/track/2OxczpBvSXVhWoGk2T4njd"
+    },
+    {
+      "album": {
+        "name": "MIRAI",
+        "url": "https://open.spotify.com/album/33C5LuLiEG4U4gA2OmpamM"
+      },
+      "artists": [
+        {
+          "name": "ME:I",
+          "url": "https://open.spotify.com/artist/0wsE3L0l083t6bxC8jJefC"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173733,
+      "name": "Sugar Bomb",
+      "url": "https://open.spotify.com/track/2n7RsaMrg4IrKeSmPlBNxF"
     },
     {
       "album": {
@@ -13915,7 +13987,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 242470,
       "name": "Water Carrier",
       "url": "https://open.spotify.com/track/675sPQdIf74UzpPrPR4tLZ"
@@ -15175,7 +15247,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 245076,
       "name": "\u3053\u306e\u9577\u3044\u65c5\u306e\u4e2d\u3067",
       "url": "https://open.spotify.com/track/3gJ4LBpaY48JF754kgEwLb"
@@ -15765,7 +15837,7 @@
       ],
       "date_added": "2024-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 162960,
       "name": "\u307e\u305f\u65c5\u306b\u8a98\u308f\u308c\u3066",
       "url": "https://open.spotify.com/track/5l0SzsTg6IBI3LwfLvq4f2"
@@ -16811,7 +16883,7 @@
       ],
       "date_added": "2024-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 202533,
       "name": "\u30b5\u30af\u30e9\u30ad\u30df\u30ef\u30bf\u30b7",
       "url": "https://open.spotify.com/track/4bM9itWEyMkLUSd2VeROAd"
@@ -19506,6 +19578,24 @@
     },
     {
       "album": {
+        "name": "\u4eba\u9593\u3068\u3057\u3066",
+        "url": "https://open.spotify.com/album/4MsdAUFUgoGUJIb6r2fY2V"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "\u4eba\u9593\u3068\u3057\u3066",
+      "url": "https://open.spotify.com/track/7y2hvKgupK5xKLBDJs4rIQ"
+    },
+    {
+      "album": {
         "name": "\u4eca\u4e16\u7d00\u6700\u5927\u306e\u5922",
         "url": "https://open.spotify.com/album/1kpFuWgqpwrpXOXaDxVyua"
       },
@@ -20228,6 +20318,24 @@
     },
     {
       "album": {
+        "name": "\u5589\u4ecf",
+        "url": "https://open.spotify.com/album/40NShvuQIl5osOvG9jpm1G"
+      },
+      "artists": [
+        {
+          "name": "Creep Hyp",
+          "url": "https://open.spotify.com/artist/6POfB0fHdzXFLWL3RHxLv8"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206141,
+      "name": "\u5589\u4ecf",
+      "url": "https://open.spotify.com/track/0pZ367OSDMoeZ2eP407lxG"
+    },
+    {
+      "album": {
         "name": "\u559c\u5287",
         "url": "https://open.spotify.com/album/0W9ENhe5arttYknqbp67DB"
       },
@@ -20301,6 +20409,24 @@
       "duration_ms": 300666,
       "name": "\u56de\u6625",
       "url": "https://open.spotify.com/track/6iZygJfbfzt7eWeFtDUt3Z"
+    },
+    {
+      "album": {
+        "name": "\u5730\u7344\u604b\u6587",
+        "url": "https://open.spotify.com/album/0AJ47lb4B3HBCrHywk1efs"
+      },
+      "artists": [
+        {
+          "name": "tuki.",
+          "url": "https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167973,
+      "name": "\u5730\u7344\u604b\u6587",
+      "url": "https://open.spotify.com/track/7eUt3Ed2PSocfPSVaNhAEI"
     },
     {
       "album": {
@@ -24149,6 +24275,24 @@
       "duration_ms": 191047,
       "name": "\u9065\u304b",
       "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
+    },
+    {
+      "album": {
+        "name": "\u9082\u9005",
+        "url": "https://open.spotify.com/album/1Mi4mOmC4qs9aVO0xivi2h"
+      },
+      "artists": [
+        {
+          "name": "BUMP OF CHICKEN",
+          "url": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282702,
+      "name": "\u9082\u9005",
+      "url": "https://open.spotify.com/track/0OrXdLzyZ1JvaEAQJOVfdI"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover: <a href="https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=cLFVOA\-VQeqHMKkv\-AyyDQ">Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,589 likes - 90 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,601 likes - 90 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

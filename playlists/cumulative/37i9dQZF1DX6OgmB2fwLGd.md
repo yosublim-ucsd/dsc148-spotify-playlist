@@ -4,7 +4,7 @@
 
 > Shotgun Willy, born and raised on the internet.
 
-997 songs - 1 day 16 hr 41 min
+998 songs - 1 day 16 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -694,6 +694,7 @@
 | [PAP SHIESTY](https://open.spotify.com/track/63QsJJakeUZs3hg3LLnT9Y) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Rx Papi](https://open.spotify.com/artist/56gMovAlFdnmrDk2BcfUlJ) | [\#HEAVENSGATE VOL\. 1](https://open.spotify.com/album/3KvLqvjycoPfH0DTkU9riY) | 1:48 | 2024-02-02 |  |
 | [PAPARAZZI](https://open.spotify.com/track/001U2oRRZXrLbeOJMduXSc) | [Mike Dimes](https://open.spotify.com/artist/6rIaHuCIUu32uj2CjlEBN3) | [IN DIMES WE TRUST](https://open.spotify.com/album/6iQuqlO95HG2WVqVh4jxRi) | 2:28 | 2022-03-11 | 2022-09-17 |
 | [Paralyzed](https://open.spotify.com/track/1FMiq74MKAcEcbrlJpIMCI) | [YSB Tril](https://open.spotify.com/artist/79TnwjflPC7KqP9O4pXpDQ), [midwxst](https://open.spotify.com/artist/7CGSp2GbiOpLPSq61qjxf8) | [Paralyzed](https://open.spotify.com/album/7yIAC9MyrWgVeWovHZ5LLT) | 2:47 | 2022-01-28 | 2022-02-23 |
+| [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-04-24 |  |
 | [Party Girlz](https://open.spotify.com/track/4dbthnQWUKNzEMDZ9Kc3jR) | [Dom Corleo](https://open.spotify.com/artist/6nFBSlEb2tkIOH3YtIIw6F) | [Party Girlz](https://open.spotify.com/album/7q27DgPhiFNgKehyAIKABp) | 2:13 | 2023-01-20 | 2023-02-15 |
 | [PASTA](https://open.spotify.com/track/7yCnwyfRq6GSxmivcxnyKp) | [Mighty Bay](https://open.spotify.com/artist/6vAbPprzkLR2v8FpTgyYcV), [TisaKorean](https://open.spotify.com/artist/6lEhBhAv6HOopjXssi09cq) | [PASTA](https://open.spotify.com/album/4AMWdPPnZpFQTUwMXWsHjo) | 2:06 | 2022-06-28 | 2022-08-29 |
 | [PELICAN](https://open.spotify.com/track/0V5TfRvQm0qLtv9Q0IPOKS) | [Cashout Mike](https://open.spotify.com/artist/00AolXifCyBruO9xdTyWgF) | [PELICAN](https://open.spotify.com/album/3pURr9iMS8fy1kK0K2SxK2) | 1:43 | 2022-03-12 | 2022-05-20 |

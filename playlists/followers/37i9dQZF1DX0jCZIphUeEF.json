@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 13806,
+  "2024-04-25": 13812,
   "date_first_scraped": "2022-08-02",
   "description": "<a href=\"spotify:artist:4Jh6PxSFH7CrZrQpDivlYf\">Amine K</a>'s favorite tracks. Updated regularly. Curated by Amine K. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
   "name": "Amine K's track IDs",
@@ -93,7 +93,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 245669,
-      "name": "Again (DJ Dep Remix)",
+      "name": "Again - DJ Dep Remix",
       "url": "https://open.spotify.com/track/7zZEYvl5ubalfjuNeZXFAm"
     },
     {
@@ -1697,6 +1697,10 @@
         {
           "name": "K'lid",
           "url": "https://open.spotify.com/artist/7vDWonsXaNMD4klWcmBgST"
+        },
+        {
+          "name": "Abdellah Stitou",
+          "url": "https://open.spotify.com/artist/63SrIY9ixkSjv6CDjqkJaK"
         },
         {
           "name": "Amine K",

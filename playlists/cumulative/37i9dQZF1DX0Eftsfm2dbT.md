@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: Kaneee
 
-672 songs - 1 day 10 hr 44 min
+673 songs - 1 day 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Be Okay](https://open.spotify.com/track/6nJhj9WxACmME1v7jzcPeP) | [YELLADIGOS](https://open.spotify.com/artist/4XoMdQKZT6hC57PRnacpYa), [TWIGY](https://open.spotify.com/artist/3LRuRmJcuRBvc7mLhTli0v) | [Y.L.F\. EP](https://open.spotify.com/album/1a1R7iGEBEScUfpb6W4IJY) | 3:36 | 2023-10-31 | 2023-11-02 |
 | [Be Okay \(Chi, Chi\)](https://open.spotify.com/track/6GbEscXY1vx8CeFSyBjicy) | [DJ KANJI](https://open.spotify.com/artist/2pNpSANblSC6W1FgxkAAzN), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [YungFLX](https://open.spotify.com/artist/4602NT3AQtVUISnd0cSXSe) | [Be Okay \(Chi, Chi\)](https://open.spotify.com/album/2P55vwv1If8Tg2nadp16Rs) | 3:36 | 2024-04-18 |  |
 | [BE THE MONSTER](https://open.spotify.com/track/2vXeK0sw7rosotTVRN0wsQ) | [梅田サイファー](https://open.spotify.com/artist/6jGXROxZ2l5mTSyfVqjLn2), [KOPERU](https://open.spotify.com/artist/4Bt4T2lyR5VbORTf9qCrp7), [Cosaqu](https://open.spotify.com/artist/44ZQx3QiQvIGWhspW2PJwZ), [KBD](https://open.spotify.com/artist/37N9Y4NAPygkVMVzuDGxQT), [KennyDoes](https://open.spotify.com/artist/0bPWFJWNIvStegSnt43THc), [teppei](https://open.spotify.com/artist/2prlN3wUFSsbl5mHjdu8hi), [コーラ](https://open.spotify.com/artist/6aqpFZcblA9r01IzFzBVRe), [KZ](https://open.spotify.com/artist/5ksQc2aN5T6BWc6dEyJSV8), [ILL SWAG GAGA](https://open.spotify.com/artist/0aDq1adfK1gC9phu0eqGtc), [peko](https://open.spotify.com/artist/4FXJy6E3hz7rbsdoKnKtLg), [TAKE\-M](https://open.spotify.com/artist/2MyIIGdQqHZBcKt9PoG0QL) | [BE THE MONSTER](https://open.spotify.com/album/4jjL7ScXT5c2dKWNRs4OSc) | 2:50 | 2023-12-20 | 2024-01-24 |
+| [BEEF](https://open.spotify.com/track/1PeEjROgoRyU9r5NWgiDk3) | [MIYACHI](https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P) | [BEEF](https://open.spotify.com/album/6rgLMr4N0seHRVcpjyfdXv) | 2:28 | 2024-04-24 |  |
 | [BEGIN](https://open.spotify.com/track/2puFMGaonKk8wFdGEqoluD) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [BEGIN](https://open.spotify.com/album/6aRmlziU38DAn4AFzUJoLZ) | 3:04 | 2024-03-21 | 2024-04-19 |
 | [BEGIN](https://open.spotify.com/track/44rn7NSzDcaylPBiSMzTK0) | [SANTAWORLDVIEW](https://open.spotify.com/artist/1Vf1H37mPCwbwQXf4NI14R) | [BEGIN](https://open.spotify.com/album/5mA6nq0QsmrwoUGqt0xtgI) | 3:04 | 2024-03-21 | 2024-04-24 |
 | [Best Way 2 Die](https://open.spotify.com/track/2Z98lKrvtMjVrPLlajm4MY) | [DJ CHARI](https://open.spotify.com/artist/5vEZZrTMbKhrd5Mgs37m8p), [DJ TATSUKI](https://open.spotify.com/artist/22CyfYzF7NMyITy8gKIYT5), [Jin Dogg](https://open.spotify.com/artist/05mWue0RvlBL9VqcG3xCwK), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [YOUNGBONG](https://open.spotify.com/artist/1hvu40N8E6jm8OtwgCo6q1) | [GOLDEN ROUTE](https://open.spotify.com/album/7g8P5rDMl5Y0n5hSVYImn4) | 3:32 | 2023-09-21 | 2023-10-12 |

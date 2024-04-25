@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 67637,
+  "2024-04-25": 67647,
   "date_first_scraped": "2022-08-25",
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
   "name": "This Is Dvo\u0159\u00e1k",
@@ -1046,6 +1046,32 @@
     },
     {
       "album": {
+        "name": "Dvorak: Overtures",
+        "url": "https://open.spotify.com/album/0R8Tj2uajqU0Zysp6kFYBE"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "BBC Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/2os8ZaeBvYxyVgTKrHtnvK"
+        },
+        {
+          "name": "Stephen Gunzenhauser",
+          "url": "https://open.spotify.com/artist/0Do8lkxP8HHqyl7IgHjO45"
+        }
+      ],
+      "date_added": "2022-09-30",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 851306,
+      "name": "In Nature's Realm, Op. 91, B. 168",
+      "url": "https://open.spotify.com/track/7x4ToPotVnQ8oIweL07Y7n"
+    },
+    {
+      "album": {
         "name": "Poetic Tone Pictures, Op.85/IX. Serenade",
         "url": "https://open.spotify.com/album/36qLB0biVdPu8ULEOdDsi3"
       },
@@ -1857,7 +1883,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 361400,
       "name": "Stabat Mater, Op. 58, B. 71: Inflammatus et accensus",
       "url": "https://open.spotify.com/track/2WcU7QahxomTTrv2NHEAhv"

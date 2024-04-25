@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 5059,
+  "2024-04-25": 5061,
   "date_first_scraped": "2023-04-07",
   "description": "Gospel music from across East Africa",
   "name": "Sunday Service",
@@ -465,6 +465,24 @@
       "duration_ms": 264386,
       "name": "Fall On Me (feat. Carly Pearce)",
       "url": "https://open.spotify.com/track/0mA4Uq9WRl32K5C39jAFUF"
+    },
+    {
+      "album": {
+        "name": "Firm Foundation (Live)",
+        "url": "https://open.spotify.com/album/7JItqwtqscE2BMoRPIJj4l"
+      },
+      "artists": [
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "date_added": "2024-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 380666,
+      "name": "Firm Foundation (He Won\u2019t) - Live",
+      "url": "https://open.spotify.com/track/2HdibfM50khhtRTeKI0FkK"
     },
     {
       "album": {
@@ -1661,7 +1679,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 214932,
       "name": "Never",
       "url": "https://open.spotify.com/track/5HGrUHHL9w04CI4FAV0ebl"

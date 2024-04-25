@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 165398,
+  "2024-04-25": 165464,
   "date_first_scraped": "2023-09-16",
   "description": "This is Lefty Sm. The essential tracks, all in one playlist.",
   "name": "This Is Lefty Sm",
@@ -953,6 +953,24 @@
       "duration_ms": 194899,
       "name": "Quien Te Viera",
       "url": "https://open.spotify.com/track/7bNh1GMNO05HFyOiFqVqIw"
+    },
+    {
+      "album": {
+        "name": "Qu\u00e9 Agusticidad",
+        "url": "https://open.spotify.com/album/3vNil6NgFu48XzULEcIWBs"
+      },
+      "artists": [
+        {
+          "name": "Lefty Sm",
+          "url": "https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260571,
+      "name": "Qu\u00e9 Agusticidad",
+      "url": "https://open.spotify.com/track/6YQL3rt9kcyCsOTwzFPPRN"
     },
     {
       "album": {

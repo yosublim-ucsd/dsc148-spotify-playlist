@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 
 ### [This Is Esteman](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2kr0HV)
 
-> This Is Esteman\. Los temas esenciales, todos en una lista.
+> This is Esteman\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,795 likes - 49 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,812 likes - 49 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kr0HV.md) - [plain]
 | 48 | [Cada paso \(feat\. Esteman\) \- Acústica](https://open.spotify.com/track/7ywq7yAzasSDAt0tbUwO1S) | [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R) | [Fin de la primera vida](https://open.spotify.com/album/49r4PlotqmoaXEeEM9j1ku) | 3:02 |
 | 49 | [A quién le importa \- Latin Pride Version by Juan Sueiro](https://open.spotify.com/track/1qlUwEvjwotC8lvju3rR3u) | [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Miranda!](https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY), [Lucrecia](https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14), [Edith Salazar](https://open.spotify.com/artist/0WJz68BdO4VBwOom3W15EM), [Karina](https://open.spotify.com/artist/4bCJFFuTF8fuditJEIS1GX), [Amparo Sandino](https://open.spotify.com/artist/3oegWGTjRuLbcou3oSUZ3C), [Esteman](https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R), [YADAM](https://open.spotify.com/artist/6JTZ3lKjLYsw1h5jDkwDhf), [NAIZA](https://open.spotify.com/artist/64tOF1AuYOTyd0JSDLTyo0), [Luna Manzanares](https://open.spotify.com/artist/6J4O8juzVNrJpZ0PNIGM6E), [Marcos French](https://open.spotify.com/artist/22kjElNe2hsztOI6ORleRc), [Sandra Love](https://open.spotify.com/artist/6G5tquDgGxnfOFjJ2ogXqm), [Juan Sueiro](https://open.spotify.com/artist/0zVeeM7NYxVYxb453RXcL8) | [A quién le importa](https://open.spotify.com/album/1iqyCZETxBHb57Mv4JqG1J) | 4:12 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGEwMmJjNzcwZDgwOWQ1NTE2ZjdmMTRiNGI4MjM0YTZi`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDc3YWUyNjA5NmNiNDBkNDQwZWMxODhkODgzN2JhMzJh`

@@ -1671,6 +1671,24 @@
     },
     {
       "album": {
+        "name": "BEEF",
+        "url": "https://open.spotify.com/album/6rgLMr4N0seHRVcpjyfdXv"
+      },
+      "artists": [
+        {
+          "name": "MIYACHI",
+          "url": "https://open.spotify.com/artist/04mGcrL09AEKdlGVrjpf1P"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148282,
+      "name": "BEEF",
+      "url": "https://open.spotify.com/track/1PeEjROgoRyU9r5NWgiDk3"
+    },
+    {
+      "album": {
         "name": "BEGIN",
         "url": "https://open.spotify.com/album/6aRmlziU38DAn4AFzUJoLZ"
       },

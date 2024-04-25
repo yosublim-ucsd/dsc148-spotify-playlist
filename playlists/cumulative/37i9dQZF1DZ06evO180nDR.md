@@ -2,7 +2,7 @@
 
 ### [This Is Los Dareyes De La Sierra](https://open.spotify.com/playlist/37i9dQZF1DZ06evO180nDR)
 
-> This is Los Dareyes De La Sierra\. Todos os maiores hits em uma só playlist.
+> This Is Los Dareyes De La Sierra\. Los temas esenciales, todos en una lista.
 
 107 songs - 5 hr 44 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1rVvRgjX59F.md) - [plain]
 
 > These songs rocked the 90s\. Cover: The Offspring
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,473,883 likes - 101 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,473,786 likes - 101 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

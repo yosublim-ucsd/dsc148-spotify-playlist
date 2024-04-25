@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 156531,
+  "2024-04-25": 156535,
   "date_first_scraped": "2023-11-11",
-  "description": "This is Gloria Groove. The essential tracks, all in one playlist.",
+  "description": "This Is Gloria Groove. Todas as faixas essenciais numa \u00fanica playlist.",
   "name": "This Is Gloria Groove",
   "tracks": [
     {
@@ -225,7 +225,7 @@
       ],
       "date_added": "2023-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 156325,
       "name": "BARULHADA",
       "url": "https://open.spotify.com/track/4wQBMjqW9zSS3Pwf1ApjhY"
@@ -299,10 +299,40 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 177782,
       "name": "BRUXARIA 3000",
       "url": "https://open.spotify.com/track/4WerFN1IRbgy8RGqpe08SH"
+    },
+    {
+      "album": {
+        "name": "FUTURO FLUXO",
+        "url": "https://open.spotify.com/album/5mFbRtI39Lf04HHLtoEm1Y"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        },
+        {
+          "name": "Yure IDD",
+          "url": "https://open.spotify.com/artist/3g1NhInk2OwAa1UNhBgWiS"
+        },
+        {
+          "name": "Mc Alleff",
+          "url": "https://open.spotify.com/artist/61G3rtsKx3Vj0bJVstqO3l"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174213,
+      "name": "BRUXARIA 3000",
+      "url": "https://open.spotify.com/track/5jd4Ojm5yDifraTb8zGvyp"
     },
     {
       "album": {
@@ -351,6 +381,28 @@
       "duration_ms": 198620,
       "name": "Capric\u00f3rnio",
       "url": "https://open.spotify.com/track/2lcSfqZ5QO07wH3xz8SzOK"
+    },
+    {
+      "album": {
+        "name": "Catuaba",
+        "url": "https://open.spotify.com/album/43u7ry5SAOMz2BB4pKK3ui"
+      },
+      "artists": [
+        {
+          "name": "Aretuza Lovi",
+          "url": "https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe"
+        },
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192012,
+      "name": "Catuaba",
+      "url": "https://open.spotify.com/track/7DN5QOaEBUQcBRwGkzEwVC"
     },
     {
       "album": {

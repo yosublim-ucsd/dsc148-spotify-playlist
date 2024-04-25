@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 153017,
+  "2024-04-25": 153031,
   "date_first_scraped": "2022-12-28",
   "description": "Les meilleurs airs d'autoroute.",
   "name": "Bleu Blanc Route",
@@ -635,7 +635,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 202303,
       "name": "Grandir",
       "url": "https://open.spotify.com/track/0ruriS7oaQE0j1NE0AAW3o"
@@ -707,7 +707,7 @@
       ],
       "date_added": "2022-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-08",
+      "date_removed": null,
       "duration_ms": 236600,
       "name": "Je dis aime",
       "url": "https://open.spotify.com/track/5cwlOmStS0IdMEH0nAuXNO"

@@ -2,7 +2,7 @@
 
 ### [This Is Rio](https://open.spotify.com/playlist/37i9dQZF1DZ06evO16W1u2)
 
-> This is Rio\. The essential tracks, all in one playlist.
+> This Is Rio\. Los temas esenciales, todos en una lista.
 
 55 songs - 3 hr 20 min
 
@@ -19,7 +19,7 @@
 | [Buenos Días](https://open.spotify.com/track/7hR8jam0t4Kn63mzSLgJeZ) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V) | 3:40 | 2023-08-25 | 2023-08-31 |
 | [Carol Quiere un Viaje a Londres](https://open.spotify.com/track/5TVYykPNOs7gt1urSqsEih) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Rock And Qué](https://open.spotify.com/album/6tGrXhKGXL2ygPo2EwI5qs) | 3:25 | 2023-08-23 |  |
 | [Contéstame](https://open.spotify.com/track/5ZC0vItywihOMCql4TRQRj) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 3:38 | 2023-08-23 |  |
-| [Creo Que Te Voy a Disparar](https://open.spotify.com/track/0ZZgvC6siLmFH7OPXnJj7q) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V) | 3:07 | 2024-04-21 |  |
+| [Creo Que Te Voy a Disparar](https://open.spotify.com/track/0ZZgvC6siLmFH7OPXnJj7q) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Revolución](https://open.spotify.com/album/1w5Nmi1bfyXKRZoWaNUG2V) | 3:07 | 2024-04-21 | 2024-04-25 |
 | [Cómo Te Va](https://open.spotify.com/track/23Tq3thBgcq10RjBCFJo3V) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [33](https://open.spotify.com/album/6qGa3CmvZD4Zt9yzviVHMS) | 3:39 | 2023-08-23 |  |
 | [Decías](https://open.spotify.com/track/72aA9sJbHNNsjqDF7uzR5X) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a) | 2:02 | 2023-08-23 |  |
 | [Dicen Que el Viento](https://open.spotify.com/track/59sK1Yh41uN5kRzybFhSvS) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a) | 3:58 | 2023-08-23 |  |
@@ -51,7 +51,7 @@
 | [Si No](https://open.spotify.com/track/4kavxnP6SS9vleYQKTP8Z5) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 3:59 | 2023-08-23 |  |
 | [Sin Ti](https://open.spotify.com/track/5bgjVuSH4A1XkGdiH7Xayi) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Relax](https://open.spotify.com/album/2Jwt1qBfC4QfafHJlHAEug) | 4:38 | 2023-08-23 |  |
 | [Siénteme](https://open.spotify.com/track/1sHlR9KVDk35KBOLAx2tCO) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 5:04 | 2023-08-23 | 2023-08-26 |
-| [Te Extraño Igual](https://open.spotify.com/track/4Wgx6yhLn56No7kkyjOd9t) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 2:46 | 2023-09-09 | 2024-04-23 |
+| [Te Extraño Igual](https://open.spotify.com/track/4Wgx6yhLn56No7kkyjOd9t) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Día de Pesca](https://open.spotify.com/album/6KvSbIYpEcl3Xek132nHp5) | 2:46 | 2023-09-09 |  |
 | [Televidente](https://open.spotify.com/track/0nzVEX7ycl6THLtaOsQBxM) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Lo Peor de Todo \(Remasterizado\)](https://open.spotify.com/album/6yupnkuEaW58l51gic72Cb) | 4:04 | 2023-08-23 |  |
 | [Todo Estaba Bien](https://open.spotify.com/track/3vUkyvc3QTvsFrFfypwsBE) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [Donde Vamos a Parar \(Remasterizado\)](https://open.spotify.com/album/5Vg6U57ux1H8DiPLclsHTl) | 4:50 | 2023-08-23 |  |
 | [Todo Lo Que Quiero](https://open.spotify.com/track/2cXRuJKl16xftUhDCaJUqr) | [Rio](https://open.spotify.com/artist/1Y08JdtP0X185Yk0tjjc2E) | [La Cría](https://open.spotify.com/album/0iJXylSSJOtXNh0gyxaL5a) | 4:03 | 2023-08-23 |  |

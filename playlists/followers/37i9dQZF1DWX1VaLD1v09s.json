@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 80196,
+  "2024-04-25": 80185,
   "date_first_scraped": "2022-03-01",
   "description": "The most incredible songs to celebrate the life, death and resurrection of our Lord Jesus are all here in one collection.  Sit back and let it provide the praise for glorious day!",
   "name": "Easter",
@@ -3757,7 +3757,7 @@
       ],
       "date_added": "2021-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 301002,
       "name": "High & Lowly",
       "url": "https://open.spotify.com/track/3JJ0ir0D41tww1n28pBWEV"
@@ -4695,7 +4695,7 @@
       ],
       "date_added": "2022-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 346110,
       "name": "Jesus Paid It All",
       "url": "https://open.spotify.com/track/533vFeNPtb4R5WTSLUnUnk"
@@ -5229,6 +5229,28 @@
       "duration_ms": 327000,
       "name": "Living Hope",
       "url": "https://open.spotify.com/track/6nVm313QmsPlNllntTart1"
+    },
+    {
+      "album": {
+        "name": "Long Live The King (Versions) - EP",
+        "url": "https://open.spotify.com/album/5DuNnFldG0pyZWbLUw25xH"
+      },
+      "artists": [
+        {
+          "name": "Influence Music",
+          "url": "https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC"
+        },
+        {
+          "name": "Matt Gilman",
+          "url": "https://open.spotify.com/artist/73hSbuO7zeiAnHpkyhQN5P"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353015,
+      "name": "Long Live The King - Acoustic",
+      "url": "https://open.spotify.com/track/5gZgxdUFIUeNOMgZ0h6vgv"
     },
     {
       "album": {
@@ -9125,6 +9147,28 @@
       "duration_ms": 198747,
       "name": "Yes He Can",
       "url": "https://open.spotify.com/track/5QJRT6u1hJuHSE0BeuEEud"
+    },
+    {
+      "album": {
+        "name": "Yes He Lives",
+        "url": "https://open.spotify.com/album/03DcLwW9JcAV336p2JFnk0"
+      },
+      "artists": [
+        {
+          "name": "Hannah Hobbs",
+          "url": "https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX"
+        },
+        {
+          "name": "Alexander Pappas",
+          "url": "https://open.spotify.com/artist/5bjQjhv3Zzxo1VoxGcyaHC"
+        }
+      ],
+      "date_added": "2024-03-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285773,
+      "name": "Yes He Lives - Live",
+      "url": "https://open.spotify.com/track/0PIbTI6cRxRiPl7tFDO1co"
     },
     {
       "album": {

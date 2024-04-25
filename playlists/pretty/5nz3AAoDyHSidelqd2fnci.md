@@ -4,21 +4,21 @@ pretty - [cumulative](/playlists/cumulative/5nz3AAoDyHSidelqd2fnci.md) - [plain]
 
 > 
 
-[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 51 min 14 sec
+[Felipe Arriagada PIPEMANUEL](https://open.spotify.com/user/12145835791) - 0 like - 12 songs - 55 min 59 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Crawling](https://open.spotify.com/track/57BrRMwf9LrcmuOsyGilwr) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Hybrid Theory \(Bonus Edition\)](https://open.spotify.com/album/6hPkbAV3ZXpGZBGUvL6jVM) | 3:28 |
-| 2 | [Man On The Moon](https://open.spotify.com/track/74q8a3WdCCSHbRLU2aoP8a) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People \(U.S\. Version\)](https://open.spotify.com/album/006Qsi10luS9xEBAcIWGTf) | 5:13 |
-| 3 | [Chasing The Dragon](https://open.spotify.com/track/6z9M1vrUzaG81HFTceSrh0) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Divine Conspiracy](https://open.spotify.com/album/66YoOlsUvwcNFTBkDCX6TX) | 7:40 |
-| 4 | [All The Way Gone](https://open.spotify.com/track/54Ej8xRXYprENDF7drtEQN) | [Randall Fowler](https://open.spotify.com/artist/3vwAMZ5P3yBifpoq371QB0) | [All The Way Gone](https://open.spotify.com/album/2b6jcmOItJKKqluqzQY5li) | 2:19 |
-| 5 | [Belong](https://open.spotify.com/track/2wOyPDZOKhzebwrxKyGVZk) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(U.S\. Version\)](https://open.spotify.com/album/4v5hSLj6ClyLqj2nnaPbfD) | 4:06 |
-| 6 | [Blow](https://open.spotify.com/track/1QQPdR1BYLoZyYe8C8XW9C) | [Atreyu](https://open.spotify.com/artist/3LkSiHbjqOHCKCqBfEZOTv) | [Lead Sails Paper Anchor](https://open.spotify.com/album/1iTr1QCKteUqPY5oQL8xuD) | 4:11 |
-| 7 | [En Dirección Contraria](https://open.spotify.com/track/6M5dKD84KOitpWLKmIqXjt) | [Natalia y La Forquetina](https://open.spotify.com/artist/2aotoGt6dVYi7Mr3YRmDK3) | [Casa](https://open.spotify.com/album/5enGaxg9iMoOz8r38uWAu5) | 4:17 |
-| 8 | [Little Things](https://open.spotify.com/track/6vFD3c1WI1zuKoyk22dMw3) | [Good Charlotte](https://open.spotify.com/artist/5aYyPjAsLj7UzANzdupwnS) | [Good Charlotte](https://open.spotify.com/album/0KfIGgasOmBV70OgVTRLHs) | 3:23 |
-| 9 | [Falso Augurio](https://open.spotify.com/track/13NCxy1StYFZ8nuUrVCfGx) | [Disaster](https://open.spotify.com/artist/5f6sKSxl6Z7NqaImfcqhkS) | [Rituales de Sangre](https://open.spotify.com/album/3JtvSjSdIVXfyeRtmJRdM3) | 4:28 |
-| 10 | [Hush \- 1998 Remaster](https://open.spotify.com/track/1dX0NML9pxDIJxrGWzIoJW) | [Deep Purple](https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf) | [The Platinum Collection](https://open.spotify.com/album/1G5FycaSPGPZiwMDxrumgm) | 4:26 |
-| 11 | [My Last Words \- Remastered](https://open.spotify.com/track/2x90KgJooOCuHD8Llz2WS9) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf) | [Peace Sells...But Who's Buying \(Deluxe Edition \- Remastered\)](https://open.spotify.com/album/4PqSk2iBHnsYQK0ecXjS9k) | 4:49 |
-| 12 | [Plan 2](https://open.spotify.com/track/1sbvKy0ftZGqFr8pcbWNq5) | [Hank Heaven](https://open.spotify.com/artist/6bsNV1qaLfpRFLI2eWIHkf) | [Plan 2](https://open.spotify.com/album/72EJvBLpKKhys6e0A6KUCf) | 2:48 |
+| 1 | [Open Letter](https://open.spotify.com/track/4F6rElm8VLH8gUdNbxTw9A) | [CVMILLE](https://open.spotify.com/artist/5Lz2Klao37ArvAt73yMqNv) | [A Blue Room](https://open.spotify.com/album/6SZRwMuyFyb6EG6uK7GguW) | 4:00 |
+| 2 | [Bendita Tu Luz](https://open.spotify.com/track/5TCYUngmqOOtLFbqUTPMMB) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz), [Juan Luis Guerra 4.40](https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559) | [Amar es Combatir](https://open.spotify.com/album/6EuWSWRMKjUNJCKOXnbGga) | 4:24 |
+| 3 | [Live For Today \(Mozaix Remix\)](https://open.spotify.com/track/40Ip77nqyAolluHilW9tFH) | [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [Hate Me \(Deluxe\)](https://open.spotify.com/album/5799SJcxpgYqEXu3bS1qYL) | 3:57 |
+| 4 | [Somebody Someone](https://open.spotify.com/track/64JDlPi7vPusXR7vsXuKBt) | [Korn](https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD) | [Greatest Hits, Vol\. 1](https://open.spotify.com/album/3NSivK5tIM5k4IiH5wobRr) | 3:49 |
+| 5 | [NZT48 \- Instrumental Version](https://open.spotify.com/track/4DtVb1jjKKjLbzQOIRSPHK) | [I See Stars](https://open.spotify.com/artist/3iCJOi5YKh247eutgCyLFe) | [Digital Renegade \[Instrumental Version\]](https://open.spotify.com/album/2EGx88OVWH7a0BQXpfvP6M) | 4:20 |
+| 6 | [Gimme Hope Jo'anna](https://open.spotify.com/track/6295Cr4SGdjJgnJ6DLtZFn) | [Eddy Grant](https://open.spotify.com/artist/6j2HWcd7z61iTLbi8eD0hA) | [The Biggest Reggae Hits](https://open.spotify.com/album/1GDBjjWoOsRzvmK4PRo92a) | 4:03 |
+| 7 | [Sensorium \- Orchestral Version](https://open.spotify.com/track/3Dgb6JMds2sOz3xssrW0ul) | [Epica](https://open.spotify.com/artist/5HA5aLY3jJV7eimXWkRBBp) | [The Phantom Agony \(Expanded Edition\)](https://open.spotify.com/album/5qBmY4zyWEYP8bNJsq9Xjf) | 4:54 |
+| 8 | [Phantom of the Opera \- 2015 Remaster](https://open.spotify.com/track/14H2fE4WEdkEem0kjVeODT) | [Iron Maiden](https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao) | [Iron Maiden \(2015 Remaster\)](https://open.spotify.com/album/3DNeMApEMCo4IDXNMYnlFi) | 7:21 |
+| 9 | [MOTHER ATE](https://open.spotify.com/track/6S2LusrzKx5Khn4FxfzhYw) | [Jane Bell](https://open.spotify.com/artist/77bNmKoq4fuzSlRB8KDCKk) | [MOTHER ATE](https://open.spotify.com/album/17SKda70MgNi3mViFcweHp) | 3:21 |
+| 10 | [Taking Back My Soul](https://open.spotify.com/track/7rk5lB4drqcl2O7fcZoTj9) | [Arch Enemy](https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx) | [Doomsday Machine](https://open.spotify.com/album/7gesblPNpHD2mhMQyKd6MS) | 4:35 |
+| 11 | [Through The Fire And Flames](https://open.spotify.com/track/1UMdbkqX19OiwfExH7gzYA) | [DragonForce](https://open.spotify.com/artist/2pH3wEn4eYlMMIIQyKPbVR) | [Inhuman Rampage](https://open.spotify.com/album/0v2dlZrkVAjKdkwpjoKzPG) | 7:19 |
+| 12 | [Snaggletooth](https://open.spotify.com/track/5M1Y7W5PAxcI2FixtOmTCt) | [Motörhead](https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M) | [No Remorse \(Deluxe Edition\)](https://open.spotify.com/album/6NnCvI782a1lKvMAIbzzAG) | 3:51 |
 
-Snapshot ID: `OTUsNmNmYWE5NDBlNzIxMjIwNzUwMWEzZDliMmFmNTBjMzgzYWYxM2E3NQ==`
+Snapshot ID: `OTYsY2M0NjQ3MDNkNGNhMzNkYzY3MTc5YWUyNTY4YjJjMGQ4ZjI4OTJhOQ==`

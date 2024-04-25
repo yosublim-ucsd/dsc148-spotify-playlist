@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 117975,
+  "num_followers": 117981,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDI3ZGNlODllMTA5MjA0NTZjMDE1YTFlODVhZmZhYjAz",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNjMDFjMjEwMjRhNDc2YmM3NWFjYzRlMTc0MGNjY2Ey",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
+        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
+      },
+      "artists": [
+        {
+          "name": "Rob Zombie",
+          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        }
+      ],
+      "duration_ms": 135813,
+      "name": "In The Age Of The Consecrated Vampire We All Get High",
+      "url": "https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Burn MF (feat. Rob Zombie)",
         "url": "https://open.spotify.com/album/1ZVbge0YzDj1T3769sm7Ey"
       },
@@ -387,22 +403,6 @@
       "duration_ms": 217847,
       "name": "Burn MF (feat Rob Zombie)",
       "url": "https://open.spotify.com/track/0Pzeu20wyR194P9A9Ihmol"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Electric Warlock Acid Witch Satanic Orgy Celebration Dispenser",
-        "url": "https://open.spotify.com/album/4cwVkh8oYGwLGeVM0Jl35K"
-      },
-      "artists": [
-        {
-          "name": "Rob Zombie",
-          "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        }
-      ],
-      "duration_ms": 135813,
-      "name": "In The Age Of The Consecrated Vampire We All Get High",
-      "url": "https://open.spotify.com/track/3yZulDilluz9V8sJTs9VB8"
     },
     {
       "added_at": null,

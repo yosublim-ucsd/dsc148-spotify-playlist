@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 128870,
+  "2024-04-25": 128864,
   "date_first_scraped": "2022-10-24",
   "description": "\u90fd\u4f1a\u306e\u7a7a\u3092\u898b\u4e0a\u3052\u308b\u3068\u8074\u3053\u3048\u3066\u304f\u308b\u97f3\u697d\u3002 cover painting: \u6c38\u4e95\u535a",
   "name": "\u90fd\u4f1a\u306e\u7a7a\u3068\u97f3\u697d\u3068",
@@ -219,7 +219,7 @@
       ],
       "date_added": "2024-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182278,
       "name": "A Million More",
       "url": "https://open.spotify.com/track/70PorMN2mwLfWi3jKZ1jS3"
@@ -1490,6 +1490,28 @@
     },
     {
       "album": {
+        "name": "Blue Eclipse",
+        "url": "https://open.spotify.com/album/2veHkCq3sm8RAedI04bDlG"
+      },
+      "artists": [
+        {
+          "name": "Blue Lab Beats",
+          "url": "https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR"
+        },
+        {
+          "name": "Natalie Lindi",
+          "url": "https://open.spotify.com/artist/6nXILNJclmemd6XXq6u7Fv"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228200,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2Sf8zOw0J5qRxxaRYGknzC"
+    },
+    {
+      "album": {
         "name": "bud",
         "url": "https://open.spotify.com/album/1u7uQbPuJeaJk1VRE1feWG"
       },
@@ -2347,7 +2369,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 186967,
       "name": "Daydreaming",
       "url": "https://open.spotify.com/track/6qqq5zPYV7U4UsKnGC82tw"
@@ -4943,7 +4965,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 255053,
       "name": "I CAN FEEL IT - Single Mix",
       "url": "https://open.spotify.com/track/7FWeDeM8akEONTdfAVewJ5"
@@ -7115,7 +7137,7 @@
       ],
       "date_added": "2023-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 209639,
       "name": "Moonlight",
       "url": "https://open.spotify.com/track/20oWyi2kyCBXvgmD41XYEm"
@@ -7203,6 +7225,36 @@
       "duration_ms": 223350,
       "name": "My Plan",
       "url": "https://open.spotify.com/track/2MKuMuQZbLOW16zXQksZse"
+    },
+    {
+      "album": {
+        "name": "Mygem",
+        "url": "https://open.spotify.com/album/6KJSVEhYJ5nI4LWPbxOA0u"
+      },
+      "artists": [
+        {
+          "name": "DJ KRUTCH",
+          "url": "https://open.spotify.com/artist/6quCZUk219wxHsLw2yt08t"
+        },
+        {
+          "name": "G.RINA",
+          "url": "https://open.spotify.com/artist/0r51Lcwiq3z84XVlXDFeWS"
+        },
+        {
+          "name": "Emi Okamoto",
+          "url": "https://open.spotify.com/artist/20RZYpmOiZTCdkl4c5u4li"
+        },
+        {
+          "name": "sequick",
+          "url": "https://open.spotify.com/artist/2FF7FThVxHipfbsPw8g6eV"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287702,
+      "name": "Mygem",
+      "url": "https://open.spotify.com/track/1jnwhGGLRc4D6DDp0sK8Hv"
     },
     {
       "album": {
@@ -8499,7 +8551,7 @@
       ],
       "date_added": "2023-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251922,
       "name": "Pacific Line",
       "url": "https://open.spotify.com/track/6yN1zbeAA8idD6IktDlEsi"
@@ -9196,6 +9248,32 @@
     },
     {
       "album": {
+        "name": "Reckless",
+        "url": "https://open.spotify.com/album/7oPh0pLzhXLXXlLgVG9d0l"
+      },
+      "artists": [
+        {
+          "name": "Otomodatchi",
+          "url": "https://open.spotify.com/artist/1YtYMJNUVAW60TKtwu6PQj"
+        },
+        {
+          "name": "Amiide",
+          "url": "https://open.spotify.com/artist/7BKuLuQjskBFEVCk3JlDGR"
+        },
+        {
+          "name": "Jyodan",
+          "url": "https://open.spotify.com/artist/7n0YtK7gMQVm6XPELdDFG6"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Reckless",
+      "url": "https://open.spotify.com/track/3TO18Fmqh9VEtIv6JSrhNx"
+    },
+    {
+      "album": {
         "name": "Regrets",
         "url": "https://open.spotify.com/album/0NHlP5m9h1M40a652X1se5"
       },
@@ -9607,6 +9685,24 @@
       "duration_ms": 217067,
       "name": "Say It All 2",
       "url": "https://open.spotify.com/track/4eVvOOMDDk7Axq3hK8AlGp"
+    },
+    {
+      "album": {
+        "name": "Found in Tokyo",
+        "url": "https://open.spotify.com/album/1CLhqua3C3qKKJiM4gtIuj"
+      },
+      "artists": [
+        {
+          "name": "Nenashi",
+          "url": "https://open.spotify.com/artist/675S7vvHTkabWlPQinidmX"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238069,
+      "name": "Say My Name feat. Daichi Yamamoto",
+      "url": "https://open.spotify.com/track/3UpOKtq2M8zIEJwWKlzY5X"
     },
     {
       "album": {
@@ -14599,7 +14695,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 234288,
       "name": "\u7729\u3057\u3044\u3001\u7729\u3057\u3059\u304e\u308b",
       "url": "https://open.spotify.com/track/4UKcaWqFHMEJ9Q7NzOST3L"

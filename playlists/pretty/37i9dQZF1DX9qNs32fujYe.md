@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9qNs32fujYe.md) - [plain]
 
 > Heavy Metal forever \\m/ classics to brand new tracks, play it loud\. Cover: Kittie
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,230,492 likes - 200 songs - 14 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,230,558 likes - 200 songs - 14 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

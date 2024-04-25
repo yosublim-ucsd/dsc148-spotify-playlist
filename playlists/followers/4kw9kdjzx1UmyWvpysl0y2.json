@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 126113,
+  "2024-04-25": 126108,
   "date_first_scraped": "2022-01-22",
   "description": "Brand new music from Monstercat, all in one place.",
   "name": "New Music Weekly | Monstercat",
@@ -1557,7 +1557,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 163200,
       "name": "Bloodshot",
       "url": "https://open.spotify.com/track/4Q7x6l8nCaDuYAX3NQqU4g"
@@ -5670,6 +5670,32 @@
     },
     {
       "album": {
+        "name": "Hideaway",
+        "url": "https://open.spotify.com/album/59hq4Ta7AkKuhQquOi4JTZ"
+      },
+      "artists": [
+        {
+          "name": "hayve",
+          "url": "https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs"
+        },
+        {
+          "name": "ROY KNOX",
+          "url": "https://open.spotify.com/artist/6rADW3yvxPKpxWuNUKEed3"
+        },
+        {
+          "name": "Skyelle",
+          "url": "https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215862,
+      "name": "Hideaway",
+      "url": "https://open.spotify.com/track/5uk6ghqCN4wYDeHIQSNAFS"
+    },
+    {
+      "album": {
         "name": "High",
         "url": "https://open.spotify.com/album/0GDqyCePdn98PHuMoWCuMJ"
       },
@@ -7503,6 +7529,28 @@
       "duration_ms": 186857,
       "name": "Lost My Way",
       "url": "https://open.spotify.com/track/5Euq8gNFRLyd75tGhpXKNC"
+    },
+    {
+      "album": {
+        "name": "Lotus",
+        "url": "https://open.spotify.com/album/06AIpflCIvYljD1FPbrU8J"
+      },
+      "artists": [
+        {
+          "name": "A.M.R",
+          "url": "https://open.spotify.com/artist/1VYDrE9BSCRxSX8VHVJZNc"
+        },
+        {
+          "name": "Blood Groove & Kikis",
+          "url": "https://open.spotify.com/artist/7KIJwcYLtYSSNmP8KzmA9V"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204750,
+      "name": "Lotus",
+      "url": "https://open.spotify.com/track/3phEyCMH5CW7e21bSfTJpx"
     },
     {
       "album": {
@@ -10079,7 +10127,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 192879,
       "name": "Real Girls",
       "url": "https://open.spotify.com/track/0OIr6KOWCt5C6VxLJq08vy"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,492,510 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,492,456 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMXbN3EUUhlg.md) - [plain]
 | 49 | [Canudinho \- Ao Vivo](https://open.spotify.com/track/1OwoPY7wYgKQIyl9maWmSM) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Paraíso Particular \(Ao Vivo\)](https://open.spotify.com/album/2LweFzHQTdOl0LSqwOS5uM) | 2:04 |
 | 50 | [Fronteira \- Ao Vivo](https://open.spotify.com/track/2IvsDK2p7Kq3aDrVtESDIg) | [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex), [Gustavo Mioto](https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP) | [Boiadeira Internacional \(Ao Vivo\)](https://open.spotify.com/album/1eLF8DMP6DQrGcJXqqIlAa) | 2:46 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

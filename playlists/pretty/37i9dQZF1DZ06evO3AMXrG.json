@@ -1,12 +1,12 @@
 {
   "description": "This Is Cultura Prof\u00e9tica. Los temas esenciales, todos en una lista.",
-  "num_followers": 228187,
+  "num_followers": 228195,
   "original_name": "This Is Cultura Prof\u00e9tica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDk5NzRkODMzZTg5NWRkZjQ0NDRmMjJmYTVmY2MyYTk4",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGNlMmViODhjNjE5NGNkYjA0ZDBlMDk0ZDA3ZWJlMDJj",
   "tracks": [
     {
       "added_at": null,
@@ -579,8 +579,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Canci\u00f3n de Alerta",
-        "url": "https://open.spotify.com/album/28PuYwXsKVqszvz05ErQ0q"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
         }
       ],
-      "duration_ms": 263933,
-      "name": "Fruto de la Tierra",
-      "url": "https://open.spotify.com/track/7L0E4HQmpPLDIWhpDqYJez"
+      "duration_ms": 307856,
+      "name": "Hasta la Noche (Ilegal)",
+      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
       "duration_ms": 255800,
       "name": "Borik\u00e9n",
       "url": "https://open.spotify.com/track/0i9k4cD2p8nqOLt0HMlIwh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/0zewwoQ6hQkcgpl29PXCA8"
-      },
-      "artists": [
-        {
-          "name": "Cultura Prof\u00e9tica",
-          "url": "https://open.spotify.com/artist/65HuWBUC1d8ty1q6J42Nfi"
-        }
-      ],
-      "duration_ms": 307856,
-      "name": "Hasta la Noche (Ilegal)",
-      "url": "https://open.spotify.com/track/4xxlqEaJ1x84t8Ihvpl24X"
     },
     {
       "added_at": null,

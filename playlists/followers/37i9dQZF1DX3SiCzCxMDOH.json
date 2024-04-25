@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 477177,
+  "2024-04-25": 477247,
   "date_first_scraped": "2022-04-20",
   "description": "Find your study focus with calm instrumental Jazz.",
   "name": "Jazz for Study",
@@ -299,6 +299,24 @@
       "duration_ms": 168077,
       "name": "A Long Day",
       "url": "https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8"
+    },
+    {
+      "album": {
+        "name": "A look of confusion",
+        "url": "https://open.spotify.com/album/0T4R4FUftoMBkd7FJmkvYL"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215950,
+      "name": "A look of confusion",
+      "url": "https://open.spotify.com/track/4zNMkaNjhCpnVJm1RQHgv2"
     },
     {
       "album": {
@@ -2427,7 +2445,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 241516,
       "name": "Clowns And Crowns",
       "url": "https://open.spotify.com/track/2xQWfbb9oAoPpeLNNIyOoR"
@@ -6492,6 +6510,24 @@
     },
     {
       "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/4xhU21k5nDS4D0V1RpL1JB"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292623,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7DStSdmgPggkeAzVhZFj6s"
+    },
+    {
+      "album": {
         "name": "Late Night Serenade",
         "url": "https://open.spotify.com/album/0vgWnvmrW0MKhqM0x47EoG"
       },
@@ -6593,7 +6629,7 @@
       ],
       "date_added": "2023-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 192711,
       "name": "Least-Dressed Woman",
       "url": "https://open.spotify.com/track/4LuOtrVQrtJB8pdD5H7vi2"
@@ -6863,7 +6899,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 241273,
       "name": "Little One",
       "url": "https://open.spotify.com/track/0RiEqTnuAuI6wgxfOSHthW"
@@ -7461,6 +7497,24 @@
       "duration_ms": 258836,
       "name": "Mancuso's Joint",
       "url": "https://open.spotify.com/track/5bVT6a3fLBhW0969fn40lo"
+    },
+    {
+      "album": {
+        "name": "Margot In May",
+        "url": "https://open.spotify.com/album/0MvK5Sdk8vo5BSUgqMW3su"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "Margot In May",
+      "url": "https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v"
     },
     {
       "album": {
@@ -8699,7 +8753,7 @@
       ],
       "date_added": "2023-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 211757,
       "name": "Nothing Like a Spring",
       "url": "https://open.spotify.com/track/3nSTb8hxLHbDdG8oEXYy5u"
@@ -9621,6 +9675,24 @@
       "duration_ms": 240004,
       "name": "Reverie",
       "url": "https://open.spotify.com/track/39g5kkVtR6sTOrGXYWZ20C"
+    },
+    {
+      "album": {
+        "name": "Rhapsody in Raindrops",
+        "url": "https://open.spotify.com/album/15MNDdWdIfPW4i3tJgR5Gl"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200495,
+      "name": "Rhapsody in Raindrops",
+      "url": "https://open.spotify.com/track/3ezuMYDq4bDEjG0wl1a18b"
     },
     {
       "album": {
@@ -11998,6 +12070,24 @@
     },
     {
       "album": {
+        "name": "There's Something",
+        "url": "https://open.spotify.com/album/4WqhUlSM1wVrDjc0zpobcV"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213739,
+      "name": "There's Something",
+      "url": "https://open.spotify.com/track/57WkEsl35BbjihKAnDNh4N"
+    },
+    {
+      "album": {
         "name": "These Foolish Things",
         "url": "https://open.spotify.com/album/06BC4Bp7zymTxVWhCZfXBy"
       },
@@ -13575,7 +13665,7 @@
       ],
       "date_added": "2022-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 224215,
       "name": "You Left Your Mark On Me",
       "url": "https://open.spotify.com/track/5sIXcPEq8AfCiwIWBJakA7"

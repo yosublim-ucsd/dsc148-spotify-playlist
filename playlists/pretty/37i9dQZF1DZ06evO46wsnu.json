@@ -1,12 +1,12 @@
 {
   "description": "This is Rise Against. The essential tracks, all in one playlist.",
-  "num_followers": 160334,
+  "num_followers": 160340,
   "original_name": "This Is Rise Against",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDY0YTg3YWY2MzQxNTRiYTAyOTI0ZDRjOWY5ZmViZGQ1",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDZjNWNlZjFlMjYwNmUzN2E3NTk3ZGI5ZDhkNTdlMjM4",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 199213,
-      "name": "Injection",
-      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
+      "duration_ms": 195120,
+      "name": "Behind Closed Doors",
+      "url": "https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
         }
       ],
-      "duration_ms": 195120,
-      "name": "Behind Closed Doors",
-      "url": "https://open.spotify.com/track/0DJlwA89Xc3Noc5PR9RJbe"
+      "duration_ms": 199213,
+      "name": "Injection",
+      "url": "https://open.spotify.com/track/75rAjnPV6h0RgSORx2dUPi"
     },
     {
       "added_at": null,

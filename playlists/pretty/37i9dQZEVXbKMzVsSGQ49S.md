@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Iceland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,604 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,603 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKMzVsSGQ49S.md) - [plain]
 | 49 | [Krumla](https://open.spotify.com/track/1ahTtx2UIz4Kj59aMbcwSh) | [ICEGUYS](https://open.spotify.com/artist/0OCQtSY66ZM9xUUsuvjDXw) | [Krumla](https://open.spotify.com/album/6hsyX5ypUgZ5FogcntKnHd) | 3:15 |
 | 50 | [Unwritten](https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf) | [Natasha Bedingfield](https://open.spotify.com/artist/7o95ZoZt5ZYn31e9z1Hc0a) | [Unwritten](https://open.spotify.com/album/3PEzTAuPW5IjLJ58FzwQeL) | 4:19 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gPDOAK0Yqv.md) - [plain]
 
 > A hypnotic journey through Melodic Techno, featuring Anyma
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,046 likes - 125 songs - 9 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,088 likes - 125 songs - 9 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

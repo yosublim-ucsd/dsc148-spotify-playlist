@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 33568,
+  "2024-04-25": 33564,
   "date_first_scraped": "2022-11-26",
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
   "name": "Navidad Con Sabor",
@@ -1865,7 +1865,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-10",
+      "date_removed": null,
       "duration_ms": 300920,
       "name": "La Fiesta Se Pone Buena",
       "url": "https://open.spotify.com/track/0iG4fSbECL4BUhLWVMZrSr"
@@ -2131,7 +2131,7 @@
       ],
       "date_added": "2022-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 306200,
       "name": "Llego Navidad",
       "url": "https://open.spotify.com/track/4x4UuFFWDIDwIZA6DNhM9z"

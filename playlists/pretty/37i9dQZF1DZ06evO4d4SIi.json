@@ -1,12 +1,12 @@
 {
-  "description": "This Is Jordan Davis. Los temas esenciales, todos en una lista.",
-  "num_followers": 31770,
+  "description": "This is Jordan Davis. The essential tracks, all in one playlist.",
+  "num_followers": 31783,
   "original_name": "This Is Jordan Davis",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGUyZWFiOWJmYjQwM2VjOWEwZDBhZDAzMjcxMDI1YjM0",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGQ3YTNiMTgzMDdkOTBjZjEyMjZkODgxMWQ1NTk5ZTc4",
   "tracks": [
     {
       "added_at": null,
@@ -495,6 +495,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Guiding Light (feat. Sam Hunt / Live Acoustic)",
+        "url": "https://open.spotify.com/album/2Yivsi4urNKVmfWlQPhejR"
+      },
+      "artists": [
+        {
+          "name": "Jordan Davis",
+          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
+        },
+        {
+          "name": "Sam Hunt",
+          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
+        }
+      ],
+      "duration_ms": 304499,
+      "name": "Guiding Light (feat. Sam Hunt / Live Acoustic)",
+      "url": "https://open.spotify.com/track/5lA1Xfr3ZnIKGJRDPcdfxY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
         "url": "https://open.spotify.com/album/30rdiduDKCF2u35tlagbOP"
       },
@@ -551,26 +571,6 @@
       "duration_ms": 160079,
       "name": "On the Road Again (ACM Lifting Lives Edition) [feat. Ingrid Andress, Gabby Barrett, Jordan Davis, Russell Dickerson, Lindsay Ell, Riley Green, Caylee Hammack, Cody Johnson, Tenille Townes, Morgan Wallen]",
       "url": "https://open.spotify.com/track/3cHY2wfceJZ3wcsOuvi1a9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Guiding Light (feat. Sam Hunt / Live Acoustic)",
-        "url": "https://open.spotify.com/album/2Yivsi4urNKVmfWlQPhejR"
-      },
-      "artists": [
-        {
-          "name": "Jordan Davis",
-          "url": "https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI"
-        },
-        {
-          "name": "Sam Hunt",
-          "url": "https://open.spotify.com/artist/2kucQ9jQwuD8jWdtR9Ef38"
-        }
-      ],
-      "duration_ms": 304499,
-      "name": "Guiding Light (feat. Sam Hunt / Live Acoustic)",
-      "url": "https://open.spotify.com/track/5lA1Xfr3ZnIKGJRDPcdfxY"
     }
   ],
   "unique_name": "This Is Jordan Davis",

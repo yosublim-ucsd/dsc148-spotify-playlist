@@ -1,12 +1,12 @@
 {
   "description": "This is Cassiane. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 33575,
+  "num_followers": 33578,
   "original_name": "This Is Cassiane",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGFkOWZiYjIyMGEwOTdmOTNhNzZjYzNkMGEzNGIzOGMw",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNiM2Y2OGM4NjhjMWZhNzQ4Y2YyODNjNzBkNTJhMzFm",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Harpa Vol.2",
-        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
-      },
-      "artists": [
-        {
-          "name": "Cassiane",
-          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
-        }
-      ],
-      "duration_ms": 337803,
-      "name": "A Face Adorada de Jesus",
-      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sele\u00e7\u00e3o Essencial - Grandes Sucessos - Cassiane",
         "url": "https://open.spotify.com/album/6Z0LRoCexkdlVof1Qo0Axn"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 276840,
       "name": "Fa\u00e7a a diferen\u00e7a",
       "url": "https://open.spotify.com/track/5jqhsYvka1SpClRNjTwIy9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Harpa Vol.2",
+        "url": "https://open.spotify.com/album/5SUEVRCx1ccyoeWunYiZ9r"
+      },
+      "artists": [
+        {
+          "name": "Cassiane",
+          "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
+        }
+      ],
+      "duration_ms": 337803,
+      "name": "A Face Adorada de Jesus",
+      "url": "https://open.spotify.com/track/3UFnjCUJSvM0NbIeRlq0IF"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 311286,
-      "name": "O Fogo de Deus",
-      "url": "https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k"
+      "duration_ms": 321549,
+      "name": "Louvor sem Fim",
+      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
     },
     {
       "added_at": null,
@@ -864,9 +864,9 @@
           "url": "https://open.spotify.com/artist/6MQhMvMTFK4nAQzoOKrwY3"
         }
       ],
-      "duration_ms": 321549,
-      "name": "Louvor sem Fim",
-      "url": "https://open.spotify.com/track/5wJHuTjDSIRgIPsCVBegqm"
+      "duration_ms": 311286,
+      "name": "O Fogo de Deus",
+      "url": "https://open.spotify.com/track/7EznXYdL3RtJkJdFYpZc9k"
     },
     {
       "added_at": null,

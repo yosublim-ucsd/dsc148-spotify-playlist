@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/1z3Cykt3bMtNbrY9SPGSI2?si=2H2mJFrhRVuQ30Zb4Q\_TEg">Werner Van der Hoven</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,169 likes - 75 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,170 likes - 75 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

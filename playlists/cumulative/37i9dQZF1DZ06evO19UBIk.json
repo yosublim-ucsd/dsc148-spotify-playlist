@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-12",
-  "description": "This is The Doors. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is The Doors. The essential tracks, all in one playlist.",
   "name": "This Is The Doors",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2022-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 197400,
       "name": "Alabama Song (Whisky Bar)",
       "url": "https://open.spotify.com/track/0JNZGIavoUrdup1NsgJOQs"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2023-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 151666,
       "name": "Twentieth Century Fox",
       "url": "https://open.spotify.com/track/7mc2TP4Vzuyw2vNf1bLW9f"

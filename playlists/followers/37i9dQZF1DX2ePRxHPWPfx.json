@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 6227,
+  "2024-04-25": 6229,
   "date_first_scraped": "2023-10-28",
   "description": "Warm tunes to get you in the snuggle spirit, la fogata y el chocolate caliente son opcionales.",
   "name": "cozied up",
@@ -631,7 +631,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 245672,
       "name": "Milagro y Desastre",
       "url": "https://open.spotify.com/track/6EHmvfEPEp9LjUxuA4LZXE"
@@ -887,7 +887,7 @@
       ],
       "date_added": "2023-10-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-03",
+      "date_removed": null,
       "duration_ms": 201861,
       "name": "Sagitario",
       "url": "https://open.spotify.com/track/1jvRSXvGCUXD545RQJ3FcR"

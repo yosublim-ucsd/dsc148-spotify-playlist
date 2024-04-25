@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 452235,
+  "2024-04-25": 452194,
   "date_first_scraped": "2020-10-20",
   "description": "Get nostalgic with all the summer hits and bangers you'll need. From Beyonc\u00e9, Alicia Keys, John Legend, Miley Cyrus, P!nk and many more....",
   "name": "2010s Summer Throwbacks \u2600\ufe0f\ud83e\udda9\ud83c\udf34",
@@ -1727,6 +1727,24 @@
       "duration_ms": 206413,
       "name": "Feel So Close - Radio Edit",
       "url": "https://open.spotify.com/track/1gihuPhrLraKYrJMAEONyc"
+    },
+    {
+      "album": {
+        "name": "Hot Summer Party Mix",
+        "url": "https://open.spotify.com/album/3QOQli73d2qHfw8Y5aS76R"
+      },
+      "artists": [
+        {
+          "name": "Calvin Harris",
+          "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206413,
+      "name": "Feel So Close - Radio Edit",
+      "url": "https://open.spotify.com/track/3JX7WoULJNBopkfAXKmSsY"
     },
     {
       "album": {
@@ -5470,6 +5488,24 @@
     },
     {
       "album": {
+        "name": "Sundress",
+        "url": "https://open.spotify.com/album/3AlyvIIMZyT5LjWFeK5LSl"
+      },
+      "artists": [
+        {
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158205,
+      "name": "Sundress",
+      "url": "https://open.spotify.com/track/2aPTvyE09vUCRwVvj0I8WK"
+    },
+    {
+      "album": {
         "name": "All I Want Is You",
         "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
       },
@@ -6071,6 +6107,28 @@
       "duration_ms": 173325,
       "name": "Truth Hurts",
       "url": "https://open.spotify.com/track/5qmq61DAAOUaW8AUo8xKhh"
+    },
+    {
+      "album": {
+        "name": "These Things Happen",
+        "url": "https://open.spotify.com/album/6xVVfIRbs9yh3kWzff6HUR"
+      },
+      "artists": [
+        {
+          "name": "G-Eazy",
+          "url": "https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z"
+        },
+        {
+          "name": "Christoph Andersson",
+          "url": "https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255680,
+      "name": "Tumblr Girls (feat. Christoph Andersson)",
+      "url": "https://open.spotify.com/track/3uAgHKnp9NtuWCRdnpI5U5"
     },
     {
       "album": {

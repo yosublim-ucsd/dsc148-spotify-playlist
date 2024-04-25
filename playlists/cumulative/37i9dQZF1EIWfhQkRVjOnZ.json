@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a> and <a href=spotify:playlist:37i9dQZF1EIVekjEtHp0aF>For All Eternity</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a>, <a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a> and <a href=spotify:playlist:37i9dQZF1EIVGQng2sQO2r>Corpus Christi</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -38,6 +38,24 @@
       "duration_ms": 180506,
       "name": "A Bag Of Marbles",
       "url": "https://open.spotify.com/track/0Gv0VlvEqJEjrtv4W6MUsw"
+    },
+    {
+      "album": {
+        "name": "Controller",
+        "url": "https://open.spotify.com/album/48QUEWlstIprnOzPkLeBa8"
+      },
+      "artists": [
+        {
+          "name": "Misery Signals",
+          "url": "https://open.spotify.com/artist/0OSABE1yGiZK2ALQDJ0SeO"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205853,
+      "name": "A Certain Death",
+      "url": "https://open.spotify.com/track/6570Ws4MQ6eDI0EZc6TFNM"
     },
     {
       "album": {
@@ -142,7 +160,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 235946,
       "name": "Alpha Omega",
       "url": "https://open.spotify.com/track/4Upj7Dz6tu1HBeIZfziOlE"
@@ -160,7 +178,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 274866,
       "name": "Anodyne Sea",
       "url": "https://open.spotify.com/track/5XlgvmakaU9N7IoGabsJyk"
@@ -182,6 +200,24 @@
       "duration_ms": 157440,
       "name": "Breathing In A New Mentality",
       "url": "https://open.spotify.com/track/3hMTsuLSxgOTMyEEkvfad1"
+    },
+    {
+      "album": {
+        "name": "Children Of Fire",
+        "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
+      },
+      "artists": [
+        {
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209040,
+      "name": "Children Of Fire",
+      "url": "https://open.spotify.com/track/0rYM1u1oZxuWGxbnf4AZ3d"
     },
     {
       "album": {
@@ -214,7 +250,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 169466,
       "name": "Condemned",
       "url": "https://open.spotify.com/track/3Gr6fisu6QAHN49IHD6lGC"
@@ -257,6 +293,42 @@
     },
     {
       "album": {
+        "name": "The Here and Now",
+        "url": "https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190413,
+      "name": "Day in Day Out",
+      "url": "https://open.spotify.com/track/53GxYXHHRJG6Sj6U74mJ8H"
+    },
+    {
+      "album": {
+        "name": "Daybreaker (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6rvoCczjq9prDGSoxQr1Xq"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212920,
+      "name": "Daybreak",
+      "url": "https://open.spotify.com/track/1ARkHSVKsDO1RWu2vedbpm"
+    },
+    {
+      "album": {
         "name": "Lost In The Sound Of Separation",
         "url": "https://open.spotify.com/album/613KEpSUb8NIzGmpfqhXAw"
       },
@@ -293,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Matriarch",
+        "url": "https://open.spotify.com/album/7Jmux2NJCZLt2vRv3KztiT"
+      },
+      "artists": [
+        {
+          "name": "Veil Of Maya",
+          "url": "https://open.spotify.com/artist/2i7CQcVBh2K6uOR3CH09M1"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183818,
+      "name": "Ellie",
+      "url": "https://open.spotify.com/track/2AhorjdW10KzoqUTGEWeck"
+    },
+    {
+      "album": {
         "name": "End Transmission",
         "url": "https://open.spotify.com/album/3NaXK4bwmOXbNebIoRrL97"
       },
@@ -322,7 +412,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 186000,
       "name": "Endseekers",
       "url": "https://open.spotify.com/track/2Zx9X4HJMDnegzTRy8xdFV"
@@ -340,7 +430,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 318026,
       "name": "Forsaken",
       "url": "https://open.spotify.com/track/4mJLIuwbDZ31r6ptHOXmMm"
@@ -376,7 +466,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 284106,
       "name": "I Never Wanted",
       "url": "https://open.spotify.com/track/0RAqGFqsW6moDVpJw4ky8c"
@@ -466,7 +556,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 203066,
       "name": "Losing Sight",
       "url": "https://open.spotify.com/track/21lljWLLI0vIPrco0kQNoV"
@@ -502,7 +592,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 192626,
       "name": "Meaning in Tragedy",
       "url": "https://open.spotify.com/track/1oe7vtdnSYSh2po2YGkXQ3"
@@ -563,6 +653,24 @@
     },
     {
       "album": {
+        "name": "Oxygen",
+        "url": "https://open.spotify.com/album/7cBh2zJkvF9koovCMKxGUh"
+      },
+      "artists": [
+        {
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191625,
+      "name": "Oxygen",
+      "url": "https://open.spotify.com/track/3hBP0Uuu2b1gq5H8RzdO5S"
+    },
+    {
+      "album": {
         "name": "Saints",
         "url": "https://open.spotify.com/album/413EKD48QvCCtxxqHJDrTj"
       },
@@ -592,7 +700,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 191533,
       "name": "Reflection",
       "url": "https://open.spotify.com/track/5bOGLDXDi0pbNJ8WFzNoUX"
@@ -743,6 +851,24 @@
     },
     {
       "album": {
+        "name": "Of Mice & Men",
+        "url": "https://open.spotify.com/album/5I01RpDS7Thw5zEABRTgxL"
+      },
+      "artists": [
+        {
+          "name": "Of Mice & Men",
+          "url": "https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230080,
+      "name": "The Ballad of Tommy Clayton & the Rawdawg Millionaire",
+      "url": "https://open.spotify.com/track/2qppHEbcFcux7Awi3UoVQh"
+    },
+    {
+      "album": {
         "name": "The Flood (Deluxe Reissue)",
         "url": "https://open.spotify.com/album/6DpR2DTKQ9hH4xEGqYQmLV"
       },
@@ -754,7 +880,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 190506,
       "name": "The Flood",
       "url": "https://open.spotify.com/track/4JootIUZqWEfvhIuvljZTu"
@@ -779,6 +905,24 @@
     },
     {
       "album": {
+        "name": "Get What You Give",
+        "url": "https://open.spotify.com/album/3r2Tup1FQ1xiDr78Q7s71v"
+      },
+      "artists": [
+        {
+          "name": "The Ghost Inside",
+          "url": "https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187012,
+      "name": "Thirty Three",
+      "url": "https://open.spotify.com/track/0qOUuIgtAPgh5bE7Mf5upL"
+    },
+    {
+      "album": {
         "name": "An Ocean Between Us",
         "url": "https://open.spotify.com/album/2hghqPOGmfBdEfWeMsQWdN"
       },
@@ -790,7 +934,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 294893,
       "name": "This Is Who We Are",
       "url": "https://open.spotify.com/track/2lUh4kkepza5MHsPQZNShn"
@@ -833,6 +977,24 @@
     },
     {
       "album": {
+        "name": "No Sleep",
+        "url": "https://open.spotify.com/album/47PNyfphw9gBMz9SvxCPzP"
+      },
+      "artists": [
+        {
+          "name": "Volumes",
+          "url": "https://open.spotify.com/artist/1DgmdsnwOexqTH8ohPCFAU"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254250,
+      "name": "Up All Night",
+      "url": "https://open.spotify.com/track/4s1XgdLhMuYFh5Npxo6ZMv"
+    },
+    {
+      "album": {
         "name": "Beyond the Gates",
         "url": "https://open.spotify.com/album/42zKdunwvqKiWWd6Tz5BMP"
       },
@@ -844,7 +1006,7 @@
       ],
       "date_added": "2024-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 212506,
       "name": "Vacant Room",
       "url": "https://open.spotify.com/track/15JH5nL5yM7FuQMbbBaUWl"
@@ -916,7 +1078,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 290415,
       "name": "White Light",
       "url": "https://open.spotify.com/track/6Ybo9MDUnzddO7tYYkpgeE"
@@ -956,6 +1118,42 @@
       "duration_ms": 174986,
       "name": "Without Sight",
       "url": "https://open.spotify.com/track/3WS2p9UqQS0DxplRAm9L0V"
+    },
+    {
+      "album": {
+        "name": "Son Of The Morning",
+        "url": "https://open.spotify.com/album/0gcMOIqISuu9lWZAuFXAuJ"
+      },
+      "artists": [
+        {
+          "name": "Oh, Sleeper",
+          "url": "https://open.spotify.com/artist/3HMsQNXUa0je3yG5REHkQ7"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "World Without A Sun",
+      "url": "https://open.spotify.com/track/6lXmSzGnZelDfUR7euqv2C"
+    },
+    {
+      "album": {
+        "name": "For We Are Many",
+        "url": "https://open.spotify.com/album/265S1PnneYr8bc7LH3wxxt"
+      },
+      "artists": [
+        {
+          "name": "All That Remains",
+          "url": "https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179613,
+      "name": "\u2026For We Are Many",
+      "url": "https://open.spotify.com/track/5eCSIkidchszEOyQJn3meC"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1EIWfhQkRVjOnZ"

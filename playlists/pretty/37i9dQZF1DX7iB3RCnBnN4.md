@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7iB3RCnBnN4.md) - [plain]
 
 > All the songs with more than 1 BILLION streams on Spotify\. Cover: Shawn Mendes
 
-[Spotify](https://open.spotify.com/user/spotify) - 593,655 likes - 622 songs - 1 day 13 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 593,841 likes - 622 songs - 1 day 13 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

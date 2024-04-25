@@ -2,7 +2,7 @@
 
 ### [This Is Angelique Kidjo](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2WUSS8)
 
-> This is Angelique Kidjo\. The essential tracks, all in one playlist.
+> This Is Angelique Kidjo\. Los temas esenciales, todos en una lista.
 
 125 songs - 8 hr 21 min
 

@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 95507,
+  "2024-04-25": 95504,
   "date_first_scraped": "2022-05-09",
   "description": "Tecnica, stile e talento: MVP starter pack, nel rap come nel gaming \ud83c\udfae",
   "name": "GOOD GAME",
@@ -2871,7 +2871,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 205426,
       "name": "Money In The Grave (Drake ft. Rick Ross)",
       "url": "https://open.spotify.com/track/5ry2OE6R2zPQFDO85XkgRb"
@@ -3705,6 +3705,24 @@
       "duration_ms": 227093,
       "name": "Puro Sinaloa (feat. Tedua, Rkomi & Lazza)",
       "url": "https://open.spotify.com/track/5E75l3Zb0vzdiDNJczr29z"
+    },
+    {
+      "album": {
+        "name": "Push Ups",
+        "url": "https://open.spotify.com/album/06me0leRR3AuF4IFiEytml"
+      },
+      "artists": [
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232774,
+      "name": "Push Ups",
+      "url": "https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ"
     },
     {
       "album": {

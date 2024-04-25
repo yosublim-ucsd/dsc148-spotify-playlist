@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 111704,
+  "2024-04-25": 111697,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Hong Kong.",
   "name": "Top 50 - Hong Kong",
@@ -4029,7 +4029,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 156297,
       "name": "I Can Fix Him (No Really I Can)",
       "url": "https://open.spotify.com/track/2h3MDMf8sd9s4XIzpTBIjX"
@@ -4163,6 +4163,24 @@
       "duration_ms": 219462,
       "name": "I Know (feat. AGA)",
       "url": "https://open.spotify.com/track/35bTq9CeIvJQTKrPuSoDv8"
+    },
+    {
+      "album": {
+        "name": "i like the way you kiss me",
+        "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
+      },
+      "artists": [
+        {
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142514,
+      "name": "i like the way you kiss me",
+      "url": "https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf"
     },
     {
       "album": {
@@ -9133,7 +9151,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 196900,
       "name": "The Alchemy",
       "url": "https://open.spotify.com/track/1dhMTsEZz6ZEquGvmzVoHn"
@@ -9335,7 +9353,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 245541,
       "name": "The Smallest Man Who Ever Lived",
       "url": "https://open.spotify.com/track/2v1ivOOsgn64g5OywuH55L"
@@ -11960,6 +11978,24 @@
     },
     {
       "album": {
+        "name": "\u5583\u5638\u5e2b\u611f\u5b98\u6f2b\u904a",
+        "url": "https://open.spotify.com/album/1wy1PufTo2DFzDDj3lpTym"
+      },
+      "artists": [
+        {
+          "name": "Terence Lam",
+          "url": "https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189000,
+      "name": "\u5583\u5638\u5e2b\u611f\u5b98\u6f2b\u904a",
+      "url": "https://open.spotify.com/track/5jbSWid6JzCiCk3dGgc1aG"
+    },
+    {
+      "album": {
         "name": "SABINA\u4e4b\u6dda",
         "url": "https://open.spotify.com/album/5Pw6K47tHMJzjlyMqqF0yf"
       },
@@ -14307,7 +14343,7 @@
       ],
       "date_added": "2022-02-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-21",
+      "date_removed": null,
       "duration_ms": 258924,
       "name": "\u7559\u4e00\u5929\u8207\u4f60\u5598\u606f",
       "url": "https://open.spotify.com/track/6flgMTTqhbJSNryAPCYcvA"

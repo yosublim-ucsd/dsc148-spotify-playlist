@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock from independent artists every Wednesday\. Cover: Slow Joy
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,859 likes - 105 songs - 6 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,971 likes - 105 songs - 6 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

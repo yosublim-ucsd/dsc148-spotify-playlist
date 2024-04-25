@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Lithuania.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,352 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,346 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbMx56Rdq5lwc.md) - [plain]
 | 49 | [Push Ups](https://open.spotify.com/track/3eh51r6rFWAlGQRlHx9QnQ) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Push Ups](https://open.spotify.com/album/06me0leRR3AuF4IFiEytml) | 3:52 |
 | 50 | [Vienas](https://open.spotify.com/track/7bi0RIjwiZ0r6HlW0Lb4eq) | [Free Finga](https://open.spotify.com/artist/3jfKIjYYnAfdUW40Uragnd) | [Plastika](https://open.spotify.com/album/7szy2af4pQ10JvLx6fGRmF) | 4:13 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

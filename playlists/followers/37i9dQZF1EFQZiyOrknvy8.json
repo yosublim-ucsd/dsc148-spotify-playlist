@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 265,
+  "2024-04-25": 265,
   "date_first_scraped": "2024-01-30",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0TXhxoo7C4jisEGDp8fiUS\">Kalli</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Kalli",
@@ -793,6 +793,42 @@
       "duration_ms": 192826,
       "name": "Deine Nummer",
       "url": "https://open.spotify.com/track/26TNQnJywu36ynLrOtkgFo"
+    },
+    {
+      "album": {
+        "name": "Der Sommer ist vorbei (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3x9knypYf8RHLk3baTPRxq"
+      },
+      "artists": [
+        {
+          "name": "Juli",
+          "url": "https://open.spotify.com/artist/7g13nmmxq4XN0hd64Jzkol"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189373,
+      "name": "Delfine",
+      "url": "https://open.spotify.com/track/0tOocgAVu0c4L8TKnhsI63"
+    },
+    {
+      "album": {
+        "name": "Die Hoffnung klaut mir Niemand",
+        "url": "https://open.spotify.com/album/1VLKFGaQoKLvxzIWQxLKZI"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173186,
+      "name": "Der Letzte Tag",
+      "url": "https://open.spotify.com/track/5R8IzUnU6YAB409rYK3Of5"
     },
     {
       "album": {

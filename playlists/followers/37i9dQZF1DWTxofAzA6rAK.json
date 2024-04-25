@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 64840,
+  "2024-04-25": 64874,
   "date_first_scraped": "2021-12-29",
   "description": "Latest and biggest tracks from Jamaica's Dancehall scene. Cover: Intence ",
   "name": "Back a Yard",
@@ -1422,7 +1422,7 @@
     },
     {
       "album": {
-        "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
+        "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
         "url": "https://open.spotify.com/album/7LtfkzsGno2TsHLCkEa8BD"
       },
       "artists": [
@@ -1431,19 +1431,19 @@
           "url": "https://open.spotify.com/artist/0wEvWMQRqaXcgnrZv6KtyL"
         },
         {
-          "name": "Shaggy",
-          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
-        },
-        {
           "name": "Sean Paul",
           "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
         }
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 154666,
-      "name": "Go Down Deh (feat. Shaggy and Sean Paul)",
+      "name": "Go Down Deh (feat. Sean Paul & Shaggy)",
       "url": "https://open.spotify.com/track/0VzBKgimNRMauaqzT2rEnS"
     },
     {

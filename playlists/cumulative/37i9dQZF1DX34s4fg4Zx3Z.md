@@ -4,7 +4,7 @@
 
 > Như thanh long trong mì tôm, đây là những 🎶 có thể lần đầu nghe đến\. Ảnh bìa: Tuấn Võ
 
-1,590 songs - 3 day 21 hr 2 min
+1,591 songs - 3 day 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Alexander](https://open.spotify.com/track/5dpaDNSgDWOGnVhf9ZhAAJ) | [DopeMan](https://open.spotify.com/artist/1IWqwv4Nmco9yWB4vD9R33), [KiddiG](https://open.spotify.com/artist/4JQxhwRWwrrTDQYTsKFR3z), [Hà Nhi](https://open.spotify.com/artist/3XOuN4VDN4EL0GjKov5mWL) | [Alexander](https://open.spotify.com/album/7ngpNgkZ6BReomEgvcgEzv) | 4:13 | 2023-05-01 | 2023-05-16 |
 | [Alive](https://open.spotify.com/track/6g91HFAgMhOJiVqXHySOM2) | [Raven x Rabbit](https://open.spotify.com/artist/3EbhwySdn2EFUhSF55GM2v) | [Alive](https://open.spotify.com/album/56a7K9PjWWPWTxGKt4ijPX) | 3:38 | 2024-02-23 | 2024-03-22 |
 | [All you gotta do \(feat\. Wansentai\)](https://open.spotify.com/track/6pYGoYSJFXQU956kfK1PJ0) | [Jayden](https://open.spotify.com/artist/2pqK5DP6YLy2JOxYME8pHp), [Wansentai](https://open.spotify.com/artist/6mFA5OZanTiNrlG3A2RGsP) | [BEDROOM the EP \(feat\. Wansentai\)](https://open.spotify.com/album/3CJi7QbITFGYmEx76RsyIh) | 2:36 | 2023-09-28 | 2023-10-24 |
-| [Alo?!](https://open.spotify.com/track/3IZbWDGwzV4qpKeaRXdet7) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh), [Kai Vua Dau Beat](https://open.spotify.com/artist/5t56uv0YhDKPVU9ekBLPWh) | [Alo?!](https://open.spotify.com/album/4nmJSfXtMNTdXa7ADsQJSR) | 3:04 | 2024-03-19 |  |
+| [Alo?!](https://open.spotify.com/track/3IZbWDGwzV4qpKeaRXdet7) | [Soonerr](https://open.spotify.com/artist/1cTygyyG6dtnj7uNnM10Lh), [Kai Vua Dau Beat](https://open.spotify.com/artist/5t56uv0YhDKPVU9ekBLPWh) | [Alo?!](https://open.spotify.com/album/4nmJSfXtMNTdXa7ADsQJSR) | 3:04 | 2024-03-19 | 2024-04-25 |
 | [am i in love?](https://open.spotify.com/track/4rrlU5omVhZN4RVKg83g8j) | [blackvelvetz](https://open.spotify.com/artist/3LM41UKgiR9khIkg8FS1k3) | [am i in love?](https://open.spotify.com/album/16Y4UUjzli47FkbPqYieXx) | 3:25 | 2023-10-19 | 2023-11-13 |
 | [AMATERASU](https://open.spotify.com/track/0iBlQqIH3Lx9MgCjQf9maI) | [Kinn](https://open.spotify.com/artist/1deDBB69YQHCr0hfw2INEt), [VCC Left Hand](https://open.spotify.com/artist/3QjJx8Yp2mXYoHtiPI7VMI) | [AMATERASU](https://open.spotify.com/album/6RUQU2ZNtwMLJLgnqyrY5w) | 3:07 | 2024-04-24 |  |
 | [An Toàn](https://open.spotify.com/track/4HVYdhMsuFGYM85euE2Hw7) | [1nG](https://open.spotify.com/artist/12scI4mEdyEDBi7cdkxkVZ) | [An Toàn](https://open.spotify.com/album/58JJrXXA83sPGLQszLqQKn) | 3:51 | 2023-01-12 | 2024-02-22 |
@@ -416,6 +416,7 @@
 | [Don't love me](https://open.spotify.com/track/2DhSku1iI1dPvNv8oDrlZu) | [Fuji](https://open.spotify.com/artist/3Zw1XinO6O5eXm8EpGZc9Y), [Dab](https://open.spotify.com/artist/7dFC6SVFS2YkIcRfE2SyfV) | [Don't love me](https://open.spotify.com/album/6HwWysO6tPzRY8LU9yFIs4) | 2:57 | 2022-06-30 | 2022-09-22 |
 | [Don't Worry](https://open.spotify.com/track/5nip6bO6OzyeanmLe04Edm) | [Lil Roff](https://open.spotify.com/artist/3BBFbrYDfJFpWuwQZnALpp) | [Don't Worry](https://open.spotify.com/album/5ABbeILTHwdwlzlYj6uXYr) | 2:22 | 2023-04-13 | 2023-06-16 |
 | [dream](https://open.spotify.com/track/1FeuEcWB2Q0vEm37paZp3f) | [Niz](https://open.spotify.com/artist/5iLsTjgsYTcbjkRJXrNMeS) | [dream](https://open.spotify.com/album/3JUDKvRIsi8KIjuDNVBygM) | 2:32 | 2023-07-03 | 2023-07-27 |
+| [Dreamboat](https://open.spotify.com/track/6wkUagrscMyyHQTY3kGlwk) | [Grassic](https://open.spotify.com/artist/4mCkqAH51xAWHQjrngxPsg) | [Dreamboat](https://open.spotify.com/album/3VrLOHmBp3PtywjTEIaa18) | 3:45 | 2024-04-25 |  |
 | [DREAMYBAE](https://open.spotify.com/track/1hOqLQYe1QYYCA5d0f3rN6) | [Arrow](https://open.spotify.com/artist/1DsuMvxjjWbfju1FGdcH3w) | [DREAMYBAE](https://open.spotify.com/album/3rlRrwJqGGG9oGyajkaaMm) | 3:03 | 2022-04-07 | 2022-05-27 |
 | [Du Ca Khúc](https://open.spotify.com/track/3Zhj3xciEukUSbRwvMowSs) | [Mer](https://open.spotify.com/artist/0s9oqVCJ2iXTqSUR5fcky5), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Du Ca Khúc](https://open.spotify.com/album/33PgsFP4fN6zHyrCPOA9vP) | 1:58 | 2022-04-19 | 2023-01-06 |
 | [Duyên Duyên Số Số](https://open.spotify.com/track/3kFCxdOwl9n0nbSB3ZLJlT) | [DuUyen](https://open.spotify.com/artist/5qezoIN1LR4ePe08Bz8H0Q) | [Duyên Duyên Số Số](https://open.spotify.com/album/3dvJswkdZ3EoPvGlO81lGz) | 5:21 | 2022-08-21 | 2022-10-05 |

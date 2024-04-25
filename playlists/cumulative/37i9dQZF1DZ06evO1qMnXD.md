@@ -2,7 +2,7 @@
 
 ### [This Is Mitski](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1qMnXD)
 
-> This Is Mitski\. Los temas esenciales, todos en una lista.
+> This is Mitski\. The essential tracks, all in one playlist.
 
 56 songs - 2 hr 45 min
 

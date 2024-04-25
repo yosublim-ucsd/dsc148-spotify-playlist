@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGVkNzAwYWU2NjM3ZWVkNTEyZDI1YTljOTU3Y2RjMTNh",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDdiMGY0NjQ5YjY1N2MzZDMwNWNkYTgyYTgwZDFhMTg1",
   "tracks": [
     {
       "added_at": null,
@@ -119,8 +119,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cherry",
-        "url": "https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM"
+        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
       },
       "artists": [
         {
@@ -128,9 +128,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 205224,
-      "name": "Cherry",
-      "url": "https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR"
+      "duration_ms": 184281,
+      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
     },
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/37KRITWJS6Awq8NmJOsXLG"
+        "name": "Cherry",
+        "url": "https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 184281,
-      "name": "Eye For An Eye (Single from John Wick: Chapter 4 Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/5dEeT1r0H6uK0iIEpOBZOg"
+      "duration_ms": 205224,
+      "name": "Cherry",
+      "url": "https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR"
     },
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 267369,
-      "name": "Tokyo Love Hotel",
-      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
+      "duration_ms": 208128,
+      "name": "Bad Friend",
+      "url": "https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7"
     },
     {
       "added_at": null,
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
         }
       ],
-      "duration_ms": 208128,
-      "name": "Bad Friend",
-      "url": "https://open.spotify.com/track/1ApN1loxlt0rzRFc8iETw7"
+      "duration_ms": 267369,
+      "name": "Tokyo Love Hotel",
+      "url": "https://open.spotify.com/track/6pbBCVX3nWsPY6f7p2lGxu"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Valentine (What's It Gonna Be)",
-        "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 207355,
-      "name": "Valentine (What's It Gonna Be)",
-      "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SAWAYAMA (Deluxe Edition)",
         "url": "https://open.spotify.com/album/39WmCBKGptRLti86qxZAVc"
       },
@@ -579,6 +563,22 @@
       "duration_ms": 106832,
       "name": "Bees & Honey (Bonus Track)",
       "url": "https://open.spotify.com/track/3PkmtBWfb6OERS7wLBagln"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Valentine (What's It Gonna Be)",
+        "url": "https://open.spotify.com/album/74StlHqfhj4TdqDspB2tEO"
+      },
+      "artists": [
+        {
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ],
+      "duration_ms": 207355,
+      "name": "Valentine (What's It Gonna Be)",
+      "url": "https://open.spotify.com/track/2Cqnn3kIApkW3UUn12qnDr"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc6qgnxonYgp.md) - [plain]
 
 > Featuring today's dopest MCs.<br/>Cover : Paal  Dabba
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,982 likes - 75 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,979 likes - 75 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

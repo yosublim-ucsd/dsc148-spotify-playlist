@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSOkubnsDCSS.md) - [plain]
 
 > Keeping it 140 \- Welcome to Grime Shutdown\. Cover: Manga Saint Hilare, Kamakaze & MoreNight
 
-[Spotify](https://open.spotify.com/user/spotify) - 736,286 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 736,217 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

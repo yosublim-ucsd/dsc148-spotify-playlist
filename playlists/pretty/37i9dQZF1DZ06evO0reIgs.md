@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 
 ### [This Is Cynthia Luz](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0reIgs)
 
-> This is Cynthia Luz\. The essential tracks, all in one playlist.
+> This Is Cynthia Luz\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 81,423 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 81,420 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0reIgs.md) - [plain]
 | 49 | [Anjos E Ancestrais](https://open.spotify.com/track/125ytOCb7oOEy9KAyDqXYD) | [Urbanamente](https://open.spotify.com/artist/49rYuhLNSc8WNdIw5CV0kT), [Budah](https://open.spotify.com/artist/08zSkHjCY3ypH4gdBVHWgO), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Elana Dara](https://open.spotify.com/artist/4wh03gpwWgB5koOyZr8XxB), [Billy Billy](https://open.spotify.com/artist/1uUyWteV2hZskmno7GVARe), [Riff](https://open.spotify.com/artist/3hVaXZ6pyvforJCQD78BmH), [Jay Kay](https://open.spotify.com/artist/1hMrgRIkEemGJWByc74Kki) | [Anjos E Ancestrais](https://open.spotify.com/album/7hIG0UDU2dWiObYml5ZNxz) | 3:33 |
 | 50 | [O Troco \- Ao Vivo](https://open.spotify.com/track/44dzl8rVR1mMPccqsc0rdV) | [Thais Macedo](https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu) | [O Troco \(Ao Vivo\)](https://open.spotify.com/album/0qmayW0UP1sJLj6eX0g1EM) | 3:11 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGMzMzUzYTRkYzhmMTVhYmFlODIyNTA2ODRiYzRkZjNl`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDA2YmU4ZWNjODFiYWYxZWIyZmMzMTIwYjBjZWE2ZjE4`

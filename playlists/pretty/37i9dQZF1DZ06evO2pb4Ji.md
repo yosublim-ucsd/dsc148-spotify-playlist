@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 
 ### [This Is League of Legends](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2pb4Ji)
 
-> This is League of Legends\. The essential tracks, all in one playlist.
+> This Is League of Legends\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 387,296 likes - 51 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 387,305 likes - 51 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2pb4Ji.md) - [plain]
 | 50 | [Hwei, the Visionary](https://open.spotify.com/track/2D4duiQsK4GJ6b6sl1TC7t) | [Ben Hicks](https://open.spotify.com/artist/3zTYcPDNUMSm7plwLKrH4p), [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD) | [Hwei, the Visionary](https://open.spotify.com/album/1CNmUDQWcgSdMHm1AAvlCb) | 4:07 |
 | 51 | [Volibear, the Relentless Storm](https://open.spotify.com/track/6wMKi4VyXoxUHAOOJIJ1by) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [Einar Selvik](https://open.spotify.com/artist/4QwiYnKp4dh2PTv1Vgw3c5) | [Volibear, the Relentless Storm](https://open.spotify.com/album/76VWvyYXtwPv3gX2gVOR8z) | 3:18 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDEyN2Q2OWNmOGU4YjY5ZGQ5YjYyOTc2YmE4ZWM2YWM4`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMGVkZTYwNDFlNjM2NmIwMjM5OTVjYWY1ZTViODhhNDVh`

@@ -1,12 +1,12 @@
 {
-  "description": "This Is Avenged Sevenfold. Los temas esenciales, todos en una lista.",
-  "num_followers": 459764,
+  "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
+  "num_followers": 459797,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDk0YzhhMDlmNTc3MDgyYThmMjI1MDNmZDM2ODY4MTA4",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDU2YTdkZDY4OGUzZTgyZmMyMzI0ZDViMzllOGEwN2Jh",
   "tracks": [
     {
       "added_at": null,
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 330386,
-      "name": "Mattel",
-      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
+      "duration_ms": 451160,
+      "name": "Cosmic",
+      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
     },
     {
       "added_at": null,
@@ -484,9 +484,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 451160,
-      "name": "Cosmic",
-      "url": "https://open.spotify.com/track/1xA87lWGnZlIjG8tw4327F"
+      "duration_ms": 330386,
+      "name": "Mattel",
+      "url": "https://open.spotify.com/track/4KyghCEewQOSZ4OdvQwFN3"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vWnOprRIq7.md) - [plain]
 
 > El lado electrónico del indie latino, featuring Peces Raros.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,996 likes - 89 songs - 5 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,003 likes - 89 songs - 5 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

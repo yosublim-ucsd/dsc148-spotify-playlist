@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 237561,
+  "2024-04-25": 237595,
   "date_first_scraped": "2020-07-07",
   "description": "Fold time and space through sound to reach imaginary universes.",
   "name": "Sci-Fi Scapes",
@@ -2208,6 +2208,24 @@
     },
     {
       "album": {
+        "name": "Hornworm Metamorphosis",
+        "url": "https://open.spotify.com/album/0mv1O7gvOmPxfHgsgMpguK"
+      },
+      "artists": [
+        {
+          "name": "Ozoyo",
+          "url": "https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104000,
+      "name": "Hornworm Metamorphosis",
+      "url": "https://open.spotify.com/track/4MCM8icHb3i2vCXEmwpvvq"
+    },
+    {
+      "album": {
         "name": "Practice",
         "url": "https://open.spotify.com/album/3p2YnEe3fq3KIldwwvh7J8"
       },
@@ -3911,7 +3929,7 @@
       ],
       "date_added": "2022-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 223200,
       "name": "Novu Hisy",
       "url": "https://open.spotify.com/track/6qkQJb5eMlowLx7ZzYLZYv"

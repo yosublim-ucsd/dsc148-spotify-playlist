@@ -1,12 +1,12 @@
 {
-  "description": "This Is Young Thug. Los temas esenciales, todos en una lista.",
-  "num_followers": 227665,
+  "description": "This is Young Thug. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 227673,
   "original_name": "This Is Young Thug",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGQ5Y2VmY2NmYjllNDNjNWFkM2ZjNzFiOTVhMWYzNzMx",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDk3ZDYwOTRmZWVhYTc2MzU1ZWZkMDE2Njg3ZjEyNzMy",
   "tracks": [
     {
       "added_at": null,
@@ -427,30 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
-      },
-      "artists": [
-        {
-          "name": "Travis Scott",
-          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
-        },
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 202794,
-      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
-      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bless",
         "url": "https://open.spotify.com/album/5J380O739v6VvloJG1Vg5n"
       },
@@ -471,6 +447,30 @@
       "duration_ms": 162778,
       "name": "Bless (feat. Young Thug)",
       "url": "https://open.spotify.com/track/2FI2cZGlZ1nmRt2IkjnoMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+        "url": "https://open.spotify.com/album/4Bp7LKA5Afo1PRoXuQe8qZ"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "duration_ms": 202794,
+      "name": "FRANCHISE (feat. Young Thug & M.I.A.)",
+      "url": "https://open.spotify.com/track/4jVBIpuOiMj1crqd8LoCrJ"
     },
     {
       "added_at": null,
@@ -919,6 +919,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "On the Run",
+        "url": "https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "6LACK",
+          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
+        }
+      ],
+      "duration_ms": 189093,
+      "name": "Climax (feat. 6lack)",
+      "url": "https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SremmLife",
         "url": "https://open.spotify.com/album/6eDx949ONWDCN0O22wFZf7"
       },
@@ -939,26 +959,6 @@
       "duration_ms": 260453,
       "name": "Throw Sum Mo",
       "url": "https://open.spotify.com/track/5uqphUYsR45kPYplrYSAQh"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On the Run",
-        "url": "https://open.spotify.com/album/6VCDStheOuhrQaoYbHP2iO"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        },
-        {
-          "name": "6LACK",
-          "url": "https://open.spotify.com/artist/4IVAbR2w4JJNJDDRFP3E83"
-        }
-      ],
-      "duration_ms": 189093,
-      "name": "Climax (feat. 6lack)",
-      "url": "https://open.spotify.com/track/4N9QsmvQJcGwJHAmDmBttU"
     },
     {
       "added_at": null,
@@ -999,22 +999,6 @@
       "duration_ms": 162400,
       "name": "Mannequin Challenge (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/5TnLXSd4h6G06Fbt2ApOpa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D.A.B. Muzic, Vol. 1",
-        "url": "https://open.spotify.com/album/1aBzIVyoNah5QzW5LHZEXD"
-      },
-      "artists": [
-        {
-          "name": "Young Thug",
-          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
-        }
-      ],
-      "duration_ms": 187324,
-      "name": "Power",
-      "url": "https://open.spotify.com/track/0fujQqs6ybS47td4sEwPcA"
     },
     {
       "added_at": null,
@@ -1111,6 +1095,26 @@
       "duration_ms": 207007,
       "name": "die in california (feat. Gunna, Young Thug & Landon Barker)",
       "url": "https://open.spotify.com/track/28ZGbkz2MDnpvHhSRQw4f1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BUSINESS IS BUSINESS",
+        "url": "https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D"
+      },
+      "artists": [
+        {
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "duration_ms": 194706,
+      "name": "Want Me Dead (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/3GXjlz7evuodm50dfiDDWo"
     }
   ],
   "unique_name": "This Is Young Thug",

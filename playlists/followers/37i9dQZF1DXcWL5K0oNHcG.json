@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 215123,
+  "2024-04-25": 215279,
   "date_first_scraped": "2022-01-26",
   "description": "Fresh jazz by independent artists every Wednesday. Cover: CHERISE. Artwork: Joy Yamusangie.",
   "name": "Fresh Finds Jazz",
@@ -2166,6 +2166,40 @@
     },
     {
       "album": {
+        "name": "Bai\u00e3o de Gude",
+        "url": "https://open.spotify.com/album/23HxDFTNv1g6NhKlFe1Lbk"
+      },
+      "artists": [
+        {
+          "name": "Adam Woch & Robert Guzik",
+          "url": "https://open.spotify.com/artist/2i8El5Gurr2X4FSsLWzcg2"
+        },
+        {
+          "name": "Adam Woch",
+          "url": "https://open.spotify.com/artist/4DN9HS2pGFOhpi2Yhj6c1E"
+        },
+        {
+          "name": "Robert Guzik",
+          "url": "https://open.spotify.com/artist/0q9yxRT67aeqQlZe8ce1mT"
+        },
+        {
+          "name": "Marek Napi\u00f3rkowski",
+          "url": "https://open.spotify.com/artist/0AYJ3eg4zKi9ilGrhVaINs"
+        },
+        {
+          "name": "Bodek Janke",
+          "url": "https://open.spotify.com/artist/1vlAFbslUYhnM0F0gfS9YE"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353216,
+      "name": "Bai\u00e3o de Gude",
+      "url": "https://open.spotify.com/track/79DPA13wwNZJ8DOCupG6DK"
+    },
+    {
+      "album": {
         "name": "Bakeren",
         "url": "https://open.spotify.com/album/29vxqC6XoqZkfCB0O5j0Xv"
       },
@@ -4229,6 +4263,32 @@
       "duration_ms": 207946,
       "name": "Catch the Rabbit",
       "url": "https://open.spotify.com/track/0kXdUHF4bnmJkrDvabbibq"
+    },
+    {
+      "album": {
+        "name": "Caterpillar Dance",
+        "url": "https://open.spotify.com/album/5W5UVtuiSkEWwgbCGKjfaZ"
+      },
+      "artists": [
+        {
+          "name": "Dolphin Hyperspace",
+          "url": "https://open.spotify.com/artist/6tTZ6fX5qsm8Alc9GLwJ9q"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Logan Kane",
+          "url": "https://open.spotify.com/artist/1sKdqE5PRHkzmEa8wb47EQ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219962,
+      "name": "Caterpillar Dance",
+      "url": "https://open.spotify.com/track/4HUfkOgHB7gt9FVe87B1mg"
     },
     {
       "album": {
@@ -7266,7 +7326,7 @@
     },
     {
       "album": {
-        "name": "El Novio - Versi\u00f3n Mariachi",
+        "name": "El Novio (Versi\u00f3n Mariachi)",
         "url": "https://open.spotify.com/album/2Ja4lHFaO65yTQ9zMNZ4C2"
       },
       "artists": [
@@ -9227,6 +9287,24 @@
       "duration_ms": 280000,
       "name": "Fruta de Andaluc\u00eda",
       "url": "https://open.spotify.com/track/17rs7TS0p3jZXqe5tAZJCd"
+    },
+    {
+      "album": {
+        "name": "FUEGO",
+        "url": "https://open.spotify.com/album/5q6I6ow3dPKubgxi4kbnRS"
+      },
+      "artists": [
+        {
+          "name": "QUANZA",
+          "url": "https://open.spotify.com/artist/7hs8g3jBavjFRILV4XJlTy"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220068,
+      "name": "FUEGO",
+      "url": "https://open.spotify.com/track/28hQYkZ3uRTXZE1UoRH7CB"
     },
     {
       "album": {
@@ -16886,6 +16964,24 @@
     },
     {
       "album": {
+        "name": "Nymphea",
+        "url": "https://open.spotify.com/album/4QPC8VgOOEh6pBGmlPbSF0"
+      },
+      "artists": [
+        {
+          "name": "Emile Londonien",
+          "url": "https://open.spotify.com/artist/5xl5tvMxqmHqRbSUHajNS7"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286298,
+      "name": "Nymphea",
+      "url": "https://open.spotify.com/track/1HxY3Z3vFws3fTsiOW1utQ"
+    },
+    {
+      "album": {
         "name": "Oak Song",
         "url": "https://open.spotify.com/album/7L6z8Wu8AcpJCx5JVyf8Cr"
       },
@@ -20440,6 +20536,28 @@
     },
     {
       "album": {
+        "name": "Sans Titres",
+        "url": "https://open.spotify.com/album/5IVUlnhsixA5TMLP0EBBhU"
+      },
+      "artists": [
+        {
+          "name": "Nikitch",
+          "url": "https://open.spotify.com/artist/7H9Yrb2KoVErAUw0S0UVvv"
+        },
+        {
+          "name": "Alexis Moutzouris",
+          "url": "https://open.spotify.com/artist/0ylPzaDugTCUlmpHHmOKai"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186943,
+      "name": "Sans Titres",
+      "url": "https://open.spotify.com/track/6cyoqa6hcmBDaHeqSXYieB"
+    },
+    {
+      "album": {
         "name": "Roll Forward",
         "url": "https://open.spotify.com/album/4TVOI2Frx5uP40oJvE2Ewp"
       },
@@ -21889,6 +22007,24 @@
       "duration_ms": 247109,
       "name": "Source Code",
       "url": "https://open.spotify.com/track/0JwfDsnA7d0THz2utlzMkF"
+    },
+    {
+      "album": {
+        "name": "South African Jam",
+        "url": "https://open.spotify.com/album/2eTZ0JG4f7EtDCGQPICRHC"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Jiyane Tree-O",
+          "url": "https://open.spotify.com/artist/4OKERbN3Zv7ZLU8XfINKBH"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 364024,
+      "name": "South African Jam",
+      "url": "https://open.spotify.com/track/54WxmHt1Y5bUJDpsLUQAHa"
     },
     {
       "album": {
@@ -25638,6 +25774,40 @@
     },
     {
       "album": {
+        "name": "Touch\u00e9 Hombre",
+        "url": "https://open.spotify.com/album/4nlelsIWODJltsJbErXmfD"
+      },
+      "artists": [
+        {
+          "name": "Nick Marks",
+          "url": "https://open.spotify.com/artist/24oDE0vaH0JH83VNAQ7pGL"
+        },
+        {
+          "name": "Andrew Gould",
+          "url": "https://open.spotify.com/artist/43x1BBwvvb5NXdjg1VTHY0"
+        },
+        {
+          "name": "Dave Levy",
+          "url": "https://open.spotify.com/artist/7gBlwt8sGulq5GXOmgCY0x"
+        },
+        {
+          "name": "Bob Lanzetti",
+          "url": "https://open.spotify.com/artist/2mGngESqZt9pUPlyLGpDPY"
+        },
+        {
+          "name": "Doron Lev",
+          "url": "https://open.spotify.com/artist/5uLyADgoaWkfY0YYhnH9uU"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295506,
+      "name": "Touch\u00e9 Hombre",
+      "url": "https://open.spotify.com/track/3n1nN2sx8b4fyrloyKHJVl"
+    },
+    {
+      "album": {
         "name": "Tower Of Liars",
         "url": "https://open.spotify.com/album/6aWIJx0iBPs0PbuWWKD1d2"
       },
@@ -26671,6 +26841,24 @@
       "duration_ms": 164306,
       "name": "VII",
       "url": "https://open.spotify.com/track/7CnHkH3qYVkqmrxFSfgcS5"
+    },
+    {
+      "album": {
+        "name": "Vir Elsa",
+        "url": "https://open.spotify.com/album/1G72a9d4DK2Jbf5bkyCwGR"
+      },
+      "artists": [
+        {
+          "name": "Melorie Jane",
+          "url": "https://open.spotify.com/artist/5NE7Re2uiABrj44sckzUAy"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 475441,
+      "name": "Vir Elsa",
+      "url": "https://open.spotify.com/track/6CZEVA2YFWwn3P41Nxtyio"
     },
     {
       "album": {

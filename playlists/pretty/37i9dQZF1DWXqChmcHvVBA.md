@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXqChmcHvVBA.md) - [plain]
 
 > No es cumbia, tampoco reggaetón\. Foto: Gusty DJ, DobleP & Salastkbron.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,925 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 196,094 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Deep Purple. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 285121,
+  "num_followers": 285127,
   "original_name": "This Is Deep Purple",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGUxM2ZhNmE1NWEwMzI2ZjM5OTMxZjUxYTdjYTg0NDg3",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDg4MWZmMjk1YjNhZDEzZjUyYzQzMGIxZjc0YmYwNDM1",
   "tracks": [
     {
       "added_at": null,
@@ -683,8 +683,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extras: The Infinite B-Sides and Bonus Songs",
-        "url": "https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc"
+        "name": "Original Album Classics",
+        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
       },
       "artists": [
         {
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 75706,
-      "name": "Simple Folk",
-      "url": "https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV"
+      "duration_ms": 391533,
+      "name": "Anya",
+      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
     },
     {
       "added_at": null,
@@ -731,8 +731,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Original Album Classics",
-        "url": "https://open.spotify.com/album/4Y9AB5Xy4WS3ifb5xJzUJb"
+        "name": "Extras: The Infinite B-Sides and Bonus Songs",
+        "url": "https://open.spotify.com/album/1tk2fJEkbes3rEw36iY5Cc"
       },
       "artists": [
         {
@@ -740,9 +740,9 @@
           "url": "https://open.spotify.com/artist/568ZhdwyaiCyOGJRtNYhWf"
         }
       ],
-      "duration_ms": 391533,
-      "name": "Anya",
-      "url": "https://open.spotify.com/track/4tnjWDvVaMmZa3his0lxRp"
+      "duration_ms": 75706,
+      "name": "Simple Folk",
+      "url": "https://open.spotify.com/track/6xDU8lJWqm2IqiPlUFmicV"
     },
     {
       "added_at": null,

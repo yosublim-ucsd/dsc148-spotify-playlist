@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 
 ### [This Is Limp Bizkit](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AuSbK)
 
-> This is Limp Bizkit\. Todos os maiores hits em uma só playlist.
+> This Is Limp Bizkit\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 385,440 likes - 42 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 385,482 likes - 42 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0AuSbK.md) - [plain]
 | 41 | [The Story](https://open.spotify.com/track/3fCk6T2IJsMVEZ45079urc) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 3:49 |
 | 42 | [The Propaganda](https://open.spotify.com/track/7m8leIR2d0XtLWm1lPXaKu) | [Limp Bizkit](https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb) | [The Unquestionable Truth \(Pt\. 1\)](https://open.spotify.com/album/0VsNR8ay7aO8DQGNng2Fko) | 5:16 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGUxNDM1Y2M3ZDRhOGYxYjViYzc2OWMyZWJiZGZhNDM5`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDJjNWJjMmQ3NWYzY2EwY2I5OTEwODIwNzYxODFmM2Yx`

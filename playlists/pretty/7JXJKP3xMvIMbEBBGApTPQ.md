@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7JXJKP3xMvIMbEBBGApTPQ.md) - [plain]
 
 > Tune in for the years hottest Kpop tracks.K\-Pop Tunes \| Kpop Mix \| Kpop Boyband \| Kpop Girl Groups \| Cover: NewJeans
 
-[Digster Global](https://open.spotify.com/user/digster.fm) - 333,200 likes - 85 songs - 4 hr 19 min
+[Digster Global](https://open.spotify.com/user/digster.fm) - 333,128 likes - 85 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

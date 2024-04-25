@@ -1,13 +1,29 @@
 {
   "description": "Turn this playlist all the way up! Babyface Ray, Money Man &amp; Young Dolph x Key Glock. ",
-  "num_followers": 42319,
+  "num_followers": 42294,
   "original_name": "All The Way Up",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "Njc1MCw0ZmQxZmY1ZmIyY2M2MjQ5NzcwYzRkNjhkNGRjODc5YmE2YjliNjFk",
+  "snapshot_id": "Njc2NCw0OThlZDE4MTY2MDRmMzEzZDRiMTI1ZTQ5NzFkYTI4NTVkOTEzM2Yx",
   "tracks": [
+    {
+      "added_at": "2024-04-24 23:11:22",
+      "album": {
+        "name": "A Bar Song (Tipsy)",
+        "url": "https://open.spotify.com/album/6egBeCLeGITzGSo5VyRjwZ"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 171291,
+      "name": "A Bar Song (Tipsy)",
+      "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
     {
       "added_at": "2024-01-19 21:16:13",
       "album": {
@@ -25,20 +41,56 @@
       "url": "https://open.spotify.com/track/5C8h9PY9oTneqJihbn10NB"
     },
     {
-      "added_at": "2024-01-19 21:21:00",
+      "added_at": "2024-04-24 23:11:47",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/4D0xJxkAhrO1mFJBDR0UQO"
+        "name": "Let's Go (Remix)",
+        "url": "https://open.spotify.com/album/1Ecv7ghGqYhfdQzYZnOgG2"
       },
       "artists": [
         {
           "name": "Key Glock",
           "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        },
+        {
+          "name": "Young Dolph",
+          "url": "https://open.spotify.com/artist/3HiuzBlSW7pGDXlSFMhO2g"
         }
       ],
-      "duration_ms": 140106,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/76TJAFvcsT53qPU0bAR4an"
+      "duration_ms": 139466,
+      "name": "Let's Go - Remix",
+      "url": "https://open.spotify.com/track/55i5Hdv7VkcQtXCn1zyvKg"
+    },
+    {
+      "added_at": "2024-04-24 23:08:44",
+      "album": {
+        "name": "Wait, There's More",
+        "url": "https://open.spotify.com/album/3lalL7rvTnf3QAKbqraKBJ"
+      },
+      "artists": [
+        {
+          "name": "Inayah",
+          "url": "https://open.spotify.com/artist/2jomvyAKdqYYimeLl3XcdZ"
+        }
+      ],
+      "duration_ms": 197439,
+      "name": "Pressure",
+      "url": "https://open.spotify.com/track/4FYhPppqSSvjmi46jWOhjM"
+    },
+    {
+      "added_at": "2024-04-24 23:08:29",
+      "album": {
+        "name": "2 Faced",
+        "url": "https://open.spotify.com/album/3v7vNJp4YPbuZM9L5eLf4M"
+      },
+      "artists": [
+        {
+          "name": "LUCKI",
+          "url": "https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD"
+        }
+      ],
+      "duration_ms": 119998,
+      "name": "PAIDNFULL",
+      "url": "https://open.spotify.com/track/7I3qbhPnoesyyqQdFJjjDb"
     },
     {
       "added_at": "2024-03-25 21:46:11",

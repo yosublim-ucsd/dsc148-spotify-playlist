@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Italy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,222 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,083 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIQnj7RRhdSX.md) - [plain]
 | 49 | [ROSSOFUOCO](https://open.spotify.com/track/5B5p5w9QV0QFBsnASmtL24) | [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [ROSSOFUOCO](https://open.spotify.com/album/4r6P74TpYpXFgHam09a8KA) | 2:42 |
 | 50 | [Fantasmi \(feat\. Geolier\)](https://open.spotify.com/track/0uXDSAM6q44glALKnQQyqW) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Radio Gotham](https://open.spotify.com/album/6hGUJpYzwN9DPqVUC2onlU) | 2:13 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

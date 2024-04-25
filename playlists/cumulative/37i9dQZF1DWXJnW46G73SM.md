@@ -4,7 +4,7 @@
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي جمال
 
-922 songs - 2 day 4 hr 11 min
+923 songs - 2 day 4 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -762,7 +762,7 @@
 | [خدت بالاسباب](https://open.spotify.com/track/762M3diVKh0EKm7AbCSBna) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [خدت بالاسباب](https://open.spotify.com/album/78uUlxEAp2KfExHFo3JGRe) | 3:18 | 2023-08-28 | 2023-12-19 |
 | [خطير يا أخوانا](https://open.spotify.com/track/1cfFsCfABOXS6QXEZ8oCHl) | [Medhat Saleh](https://open.spotify.com/artist/7z2djNV3tKrdEsotTv8KH0), [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [خطير يا أخوانا](https://open.spotify.com/album/5Z3VmUZ2YRl1vwMUpJ3y9v) | 2:41 | 2023-09-19 | 2023-09-21 |
 | [خليني](https://open.spotify.com/track/6fO7U0lirfa5kcgJngHqA8) | [Almas](https://open.spotify.com/artist/3HctDes7HXVEnK9uuejru0) | [خليني](https://open.spotify.com/album/5fE5KlF2945Q1Vm2sQXOuU) | 3:12 | 2023-03-02 | 2023-05-05 |
-| [خليني أشوفك](https://open.spotify.com/track/5wFGQw4SWEtId68rnnE7An) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/3xjnY2ScY6agVQ0jBXIp7e) | 3:12 | 2024-04-10 |  |
+| [خليني أشوفك](https://open.spotify.com/track/5wFGQw4SWEtId68rnnE7An) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/3xjnY2ScY6agVQ0jBXIp7e) | 3:12 | 2024-04-10 | 2024-04-25 |
 | [خليني شوية معاك](https://open.spotify.com/track/72MgKDXeRf7NRQ2kMUmags) | [Angham](https://open.spotify.com/artist/0IiR4LJwslf6HBSdk9W3Dg) | [خليني شوية معاك](https://open.spotify.com/album/7CltOkKejw4x6BoD3aWOZc) | 4:12 | 2023-02-14 | 2023-03-31 |
 | [دادينا](https://open.spotify.com/track/7AInJeOGXWBT9xnxhRTVZW) | [Bahaa Sultan](https://open.spotify.com/artist/2KJgliIl1dMyeOMyCcnYv7) | [دادينا](https://open.spotify.com/album/69fom2qf7DQkMcBdsMYdfw) | 3:18 | 2023-10-15 | 2023-12-26 |
 | [دلعنا كتير](https://open.spotify.com/track/6zNFUlt8E8NcT2ljRqK5GM) | [Mohamed Hamaki](https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX) | [دلعنا كتير](https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1) | 2:52 | 2023-08-24 | 2023-12-08 |
@@ -894,6 +894,7 @@
 | [هرمون السعادة \- من فيلم تاج](https://open.spotify.com/track/1BhCzjyNwFOJoCZqMXIdUg) | [Tamer Hosny](https://open.spotify.com/artist/4cGfgRmpFc9zgZMfuSXhqy) | [هرمون السعادة \(من فيلم تاج\)](https://open.spotify.com/album/6uXSbOjm2YQbn1JfUMuig1) | 2:47 | 2023-06-23 | 2023-07-26 |
 | [هروني بوس](https://open.spotify.com/track/5u4uB8pojwUBSgqMVuomHs) | [Diab](https://open.spotify.com/artist/4Mu7ghiOfrNznIBR7nnbte) | [هروني بوس](https://open.spotify.com/album/14RamPJelhtmLOxa1pEdNP) | 3:31 | 2023-09-28 | 2024-01-05 |
 | [هنتقابل بعدين](https://open.spotify.com/track/4zyDUiz5Z19Gt93O4xFRpY) | [Haytham Shaker](https://open.spotify.com/artist/6qRALpme6YIgJ8jWM2D0G2) | [هنتقابل بعدين](https://open.spotify.com/album/474Bf3FITUcUkns8TzeXd4) | 4:29 | 2022-03-09 | 2022-07-02 |
+| [هنسى اسمك](https://open.spotify.com/track/5JlzkV5lnKxjrREddDBp62) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 3:35 | 2024-04-24 |  |
 | [هنهد الدنيا رقص](https://open.spotify.com/track/3SijXpJbvCeeI1U3h5pXLe) | [Akram Hosny](https://open.spotify.com/artist/0uFv3QyIZZuL1ZzT9J19Fi) | [هنهد الدنيا رقص](https://open.spotify.com/album/15TrGwBbOxKZ1u9UVUYT3T) | 2:46 | 2023-08-28 | 2023-12-15 |
 | [هو احنا غرب](https://open.spotify.com/track/1elQRhX2LeoWf6QdNbzksN) | [Bader AlShuaibi](https://open.spotify.com/artist/2R1yoDsSddlxGn9DmAtJTj) | [النسخة الجديدة](https://open.spotify.com/album/2Ri8hAF6UfEkpRN5Bc5Kxu) | 3:00 | 2023-01-19 | 2023-03-03 |
 | [هي حكاية](https://open.spotify.com/track/6xfNtpD91E67pos5nC4YlF) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [هي حكاية](https://open.spotify.com/album/1S0tU3wayCissjqOuroaYF) | 3:03 | 2024-01-23 | 2024-02-14 |

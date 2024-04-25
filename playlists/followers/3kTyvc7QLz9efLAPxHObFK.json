@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 16,
+  "2024-04-25": 16,
   "date_first_scraped": "2023-10-10",
   "description": "",
   "name": "UK Hardcore/Hardstyle/Hardcore/J-Core/Frenchcore/Hard Dance",
@@ -19747,6 +19747,28 @@
       "duration_ms": 219437,
       "name": "Roll Up",
       "url": "https://open.spotify.com/track/0a7aRMRFOc3a9jPMfD4aJp"
+    },
+    {
+      "album": {
+        "name": "I SEE THE FUTURE EP",
+        "url": "https://open.spotify.com/album/2i2p1CfDwLdjkmemstHiWt"
+      },
+      "artists": [
+        {
+          "name": "Anderex",
+          "url": "https://open.spotify.com/artist/7wXBtpPB5GFddtz9OeBlPW"
+        },
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120002,
+      "name": "ROLLIN' LOUD",
+      "url": "https://open.spotify.com/track/4ke0LXdbM4c6CoL1yv4lI4"
     },
     {
       "album": {

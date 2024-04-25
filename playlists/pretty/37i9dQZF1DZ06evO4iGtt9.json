@@ -1,12 +1,12 @@
 {
   "description": "This is Timaya. The essential tracks, all in one playlist.",
-  "num_followers": 6441,
+  "num_followers": 6442,
   "original_name": "This Is Timaya",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGUwOGRiOWYxN2ZhNDU3ZGNiNjQxOWI5NThlMmYzZjM2",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNkYmM0MTkwZGUxNDgyNGY1ODhjZTgwNjA4MDVlNTMz",
   "tracks": [
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tomato",
+        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 162222,
+      "name": "Tomato",
+      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Than Them",
         "url": "https://open.spotify.com/album/6H2aBp4vE8SklHfreSHSuk"
       },
@@ -523,22 +539,6 @@
       "duration_ms": 213921,
       "name": "Better Than Them",
       "url": "https://open.spotify.com/track/2ISEd8diW26TrrX3S7k3Jl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tomato",
-        "url": "https://open.spotify.com/album/2IYwJByBrftAl7iTZpQtB0"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 162222,
-      "name": "Tomato",
-      "url": "https://open.spotify.com/track/7rOIsrQoYyFJErSu1k0JdV"
     },
     {
       "added_at": null,
@@ -575,30 +575,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mood and Ecstasy",
-        "url": "https://open.spotify.com/album/2UHF1nV4IqK6mkMr04NB6f"
-      },
-      "artists": [
-        {
-          "name": "CDQ",
-          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
-        },
-        {
-          "name": "D'banj",
-          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 148928,
-      "name": "Igbalode",
-      "url": "https://open.spotify.com/track/1owUBARhG8dGPFRy1WwzwP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Gehn Gehn Album",
         "url": "https://open.spotify.com/album/3XgHoC7QgrDvusnQP1AdZS"
       },
@@ -619,6 +595,30 @@
       "duration_ms": 207317,
       "name": "Ogede",
       "url": "https://open.spotify.com/track/4hvUYAEp6xTdwMI3M4W5nF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mood and Ecstasy",
+        "url": "https://open.spotify.com/album/2UHF1nV4IqK6mkMr04NB6f"
+      },
+      "artists": [
+        {
+          "name": "CDQ",
+          "url": "https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg"
+        },
+        {
+          "name": "D'banj",
+          "url": "https://open.spotify.com/artist/5RCdjio4ASMQ8CFaSuAl6C"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 148928,
+      "name": "Igbalode",
+      "url": "https://open.spotify.com/track/1owUBARhG8dGPFRy1WwzwP"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Get My Money Right",
-        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 177088,
-      "name": "Get My Money Right",
-      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CITIZEN OF THE WORLD",
         "url": "https://open.spotify.com/album/3nzji2IKW3lBgsScOR0jVe"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Get My Money Right",
+        "url": "https://open.spotify.com/album/0qcfLCEkFZqXz6yOwLPy5Z"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 177088,
+      "name": "Get My Money Right",
+      "url": "https://open.spotify.com/track/1ivWkOzOy7pmTYk7coyCvl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Erima",
         "url": "https://open.spotify.com/album/0CwSh6QbgD9EQIwtRB19bJ"
       },
@@ -939,6 +939,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "M.O.N.E.Y",
+        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
+      },
+      "artists": [
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+        }
+      ],
+      "duration_ms": 231106,
+      "name": "M.O.N.E.Y",
+      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Samankwe",
         "url": "https://open.spotify.com/album/0kFolnvDYsBzn9QlzeJprS"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 212554,
       "name": "Samankwe",
       "url": "https://open.spotify.com/track/0O7hr1gLAktDObqnoUnjSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M.O.N.E.Y",
-        "url": "https://open.spotify.com/album/1uNCB1fOilauCaBSe96ZMt"
-      },
-      "artists": [
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
-        }
-      ],
-      "duration_ms": 231106,
-      "name": "M.O.N.E.Y",
-      "url": "https://open.spotify.com/track/4PoPav5R9LgVl5Di8bp91t"
     },
     {
       "added_at": null,

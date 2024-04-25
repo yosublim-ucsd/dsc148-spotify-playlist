@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 66835,
+  "2024-04-25": 66836,
   "date_first_scraped": "2022-05-30",
   "description": "Tune into the finest of Tamil Indie music!\nCover : Sai Abhyankkar ",
   "name": "Tamil Indie",
@@ -9571,7 +9571,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 376774,
       "name": "Thamizh Vaazhthu | Coke Studio Tamil",
       "url": "https://open.spotify.com/track/4XvxndH2koU01sfjR9nCNf"
@@ -10393,6 +10393,28 @@
       "duration_ms": 269250,
       "name": "Uyirthuli - Anthem on Breastfeeding Awareness",
       "url": "https://open.spotify.com/track/5tmf8OpFN5yGqJC93vha4j"
+    },
+    {
+      "album": {
+        "name": "Vaa En Uyire",
+        "url": "https://open.spotify.com/album/3Z4nPTwNxdOMi5XRd2b9jI"
+      },
+      "artists": [
+        {
+          "name": "Stephen Zechariah",
+          "url": "https://open.spotify.com/artist/4ONKKiZXVVuz5nAWCUnnjG"
+        },
+        {
+          "name": "Srinisha Jayaseelan",
+          "url": "https://open.spotify.com/artist/4fbPpuZDZjzbTdGIwhD45a"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289608,
+      "name": "Vaa En Uyire",
+      "url": "https://open.spotify.com/track/4ENAMXXs65X9nBZeJNWDo7"
     },
     {
       "album": {

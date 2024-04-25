@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 
 > Aqui o verão dura 365 dias! Passe o protetor solar, aumente o som e aperte o play!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,119 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 439 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxZllbpuwRi.md) - [plain]
 | 99 | [Esos Días \- Spotify Singles](https://open.spotify.com/track/1XtYMqXi4XelZSdxn3kYBY) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Esos Días \- Spotify Singles](https://open.spotify.com/album/7eidjZ0TAgQDOexGWwBIJQ) | 2:31 |
 | 100 | [Silent Sun \- Radio Mix](https://open.spotify.com/track/3jfK087ZBZMPvt3gAkCSOz) | [Sillaz](https://open.spotify.com/artist/7EroDVPELCYcB8zyB2XN9F), [WOAK](https://open.spotify.com/artist/0YlRs4DoQ4WctkmsbUUpBb), [RodMac](https://open.spotify.com/artist/7dbe4S6XKgCPQrZ5YtWOyP) | [Silent Sun](https://open.spotify.com/album/05iq8d40SzD2vJ45p38fpj) | 2:51 |
 
-Snapshot ID: `MTcxMDE2Mzc0NiwwMDAwMDAwMGQzYWEzMGYyMjVkN2E2ZTM0YjdlZGYxMjM3M2E0MjE1`
+Snapshot ID: `MTcxMzk4NTM2NSwwMDAwMDAwMGRiZWY3MDNhNmI5MjEzZWM3NzliZDMwNmIwMWY4YTkz`

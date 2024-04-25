@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 264468,
+  "2024-04-25": 264753,
   "date_first_scraped": "2023-04-15",
-  "description": "ANOTR is back!!",
+  "description": "giza desert rave",
   "name": "Umami",
   "tracks": [
     {
@@ -7509,6 +7509,28 @@
       "duration_ms": 219840,
       "name": "porco rosso",
       "url": "https://open.spotify.com/track/5165zeO9t08BHlSJH7h0iN"
+    },
+    {
+      "album": {
+        "name": "Privity (Extented Version)",
+        "url": "https://open.spotify.com/album/1dND1YOVxq16W6mrEnJxBn"
+      },
+      "artists": [
+        {
+          "name": "Anthony Godfather",
+          "url": "https://open.spotify.com/artist/1CYqCVVCerhOIUu6gmGpP8"
+        },
+        {
+          "name": "Elilluminari",
+          "url": "https://open.spotify.com/artist/0BHo5QBLAjH32hoe4xHGYq"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 395625,
+      "name": "Privity - Extented Version",
+      "url": "https://open.spotify.com/track/6wR6WdlYHHWPbsq7MHye02"
     },
     {
       "album": {

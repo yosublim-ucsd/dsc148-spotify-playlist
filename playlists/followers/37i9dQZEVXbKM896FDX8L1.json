@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 242698,
+  "2024-04-25": 242678,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Ireland.",
   "name": "Top 50 - Ireland",
@@ -17698,6 +17698,24 @@
     },
     {
       "album": {
+        "name": "nah nah nah",
+        "url": "https://open.spotify.com/album/1nYJkEsSJEcG9YmFyalU9b"
+      },
+      "artists": [
+        {
+          "name": "Robin Novaku",
+          "url": "https://open.spotify.com/artist/2qKm6UtxKTF2zh9RNK5QOc"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168626,
+      "name": "nah nah nah",
+      "url": "https://open.spotify.com/track/2992e9BcyYkh8ZVYhkHj22"
+    },
+    {
+      "album": {
         "name": "Nail Tech",
         "url": "https://open.spotify.com/album/72r4dr0xDsXOWRwP2o7ZIP"
       },
@@ -25241,7 +25259,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 183878,
       "name": "The Albatross",
       "url": "https://open.spotify.com/track/4EF6IyONolQy0bIQXm2EmX"
@@ -26629,7 +26647,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -26651,6 +26669,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {

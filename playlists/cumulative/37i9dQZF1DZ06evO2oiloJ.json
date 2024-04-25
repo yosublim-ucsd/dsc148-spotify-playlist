@@ -589,6 +589,24 @@
     },
     {
       "album": {
+        "name": "Numb (2024)",
+        "url": "https://open.spotify.com/album/6olJ0gCPTGEFXsolFIll70"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174645,
+      "name": "Numb - 2024",
+      "url": "https://open.spotify.com/track/5Gz52yJ9UJLNuV42sqPnS1"
+    },
+    {
+      "album": {
         "name": "PTSD",
         "url": "https://open.spotify.com/album/7m3LlqH5j3aGBaJ6M6anIm"
       },

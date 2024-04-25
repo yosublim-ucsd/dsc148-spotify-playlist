@@ -1,12 +1,12 @@
 {
-  "description": "This Is KURT. Los temas esenciales, todos en una lista.",
-  "num_followers": 30260,
+  "description": "This is KURT. The essential tracks, all in one playlist.",
+  "num_followers": 30261,
   "original_name": "This Is KURT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDZhOWFlZTIxMjRkZmY5Y2IzZjM2NjVhOWI0YjMzOGVm",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDUzMzVkOTJhYTZmZjIyMWUzZjdjNjIzMDA1YjMwNTM1",
   "tracks": [
     {
       "added_at": null,
@@ -119,6 +119,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        }
+      ],
+      "duration_ms": 204320,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Medio De Este Ruido (Deluxe)",
         "url": "https://open.spotify.com/album/3dQMAkuJBVVZoe2xVTZzqB"
       },
@@ -135,22 +151,6 @@
       "duration_ms": 211480,
       "name": "Sonre\u00edr",
       "url": "https://open.spotify.com/track/3EYbyZ31BsZ96HEraj3za7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/69RB9Dn2ljGX8u92XV4Dap"
-      },
-      "artists": [
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 204320,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/2MX8KwSwCNyJtVTVYfSFNX"
     },
     {
       "added_at": null,
@@ -547,26 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Por Su Amor (with KURT)",
-        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
-      },
-      "artists": [
-        {
-          "name": "Sting",
-          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
-        },
-        {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
-        }
-      ],
-      "duration_ms": 221336,
-      "name": "Por Su Amor (with KURT)",
-      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nadie Nos Entiende",
         "url": "https://open.spotify.com/album/2qZ4zsYYzMmThZMXHGc8Ms"
       },
@@ -587,22 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "B\u00f3rrame",
-        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+        "name": "Por Su Amor (with KURT)",
+        "url": "https://open.spotify.com/album/0hj1gYgviTYvdi2nRxyMzP"
       },
       "artists": [
         {
-          "name": "KURT",
-          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+          "name": "Sting",
+          "url": "https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk"
         },
         {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
         }
       ],
-      "duration_ms": 173226,
-      "name": "B\u00f3rrame",
-      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
+      "duration_ms": 221336,
+      "name": "Por Su Amor (with KURT)",
+      "url": "https://open.spotify.com/track/4YdQIvvHkj5jzcFUURKHe3"
     },
     {
       "added_at": null,
@@ -619,6 +599,26 @@
       "duration_ms": 202760,
       "name": "10 Veces Mejor",
       "url": "https://open.spotify.com/track/6NjfQuRydh6ckU1Xlf336w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B\u00f3rrame",
+        "url": "https://open.spotify.com/album/6PBHZU81Y7aElnriNbmzRw"
+      },
+      "artists": [
+        {
+          "name": "KURT",
+          "url": "https://open.spotify.com/artist/4kcnsS1aAB40FMcLD01gmI"
+        },
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 173226,
+      "name": "B\u00f3rrame",
+      "url": "https://open.spotify.com/track/28C9fie2Nw8g84LIyKXryW"
     },
     {
       "added_at": null,

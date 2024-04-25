@@ -29387,6 +29387,32 @@
     },
     {
       "album": {
+        "name": "Kontra",
+        "url": "https://open.spotify.com/album/0hzXI3akCy0pGzHf6hOurj"
+      },
+      "artists": [
+        {
+          "name": "Kweller",
+          "url": "https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07"
+        },
+        {
+          "name": "Enzo Cello",
+          "url": "https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU"
+        },
+        {
+          "name": "Giana Mello",
+          "url": "https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132922,
+      "name": "Vermelho Neon",
+      "url": "https://open.spotify.com/track/01Mfhyx7ZIBmAJ5dC4ku76"
+    },
+    {
+      "album": {
         "name": "Vermelho Tomate",
         "url": "https://open.spotify.com/album/4ncgC7OepJotGrOtBQ0ELB"
       },

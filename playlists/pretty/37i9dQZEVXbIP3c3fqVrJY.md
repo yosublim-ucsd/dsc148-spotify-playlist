@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Czech Republic.
 
-[Spotify](https://open.spotify.com/user/spotify) - 68,360 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 68,356 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbIP3c3fqVrJY.md) - [plain]
 | 49 | [Cikády](https://open.spotify.com/track/4enbO9cZhJLSZ6Tf21LRnv) | [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i) | [ROADTRIP](https://open.spotify.com/album/7urc9xduLqYClz4nNzQQhc) | 2:48 |
 | 50 | [Až na měsíc](https://open.spotify.com/track/3rxHQ7HeJCpiei1d6ANDPW) | [Viktor Sheen](https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i), [Calin](https://open.spotify.com/artist/5lEkQtWa3UKlI1hj7sktcd), [Hasan](https://open.spotify.com/artist/2AHugDX8XYbm2SNxbvptQW), [Nik Tendo](https://open.spotify.com/artist/6gvVFtkTV4OCyQSCzGgU1h) | [Černobílej svět](https://open.spotify.com/album/09YHBplLJ8UR90lOdCzXfx) | 3:28 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

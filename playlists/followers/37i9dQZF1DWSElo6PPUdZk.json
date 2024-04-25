@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 31911,
+  "2024-04-25": 31915,
   "date_first_scraped": "2023-03-25",
   "description": "Catch the queens of Punjabi Pop. Cover: Baani Sandhu",
   "name": "Equal Punjabi Pop",
@@ -357,7 +357,7 @@
       ],
       "date_added": "2023-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194541,
       "name": "FAKES AND SNAKES",
       "url": "https://open.spotify.com/track/7cB6IgaZmVDxhUxkDAEIYH"
@@ -471,7 +471,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 211964,
       "name": "Good Luck",
       "url": "https://open.spotify.com/track/73TvYoUkicK6IPA21WDXdW"
@@ -627,7 +627,7 @@
       ],
       "date_added": "2023-03-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 144939,
       "name": "Jutti",
       "url": "https://open.spotify.com/track/1SdkVBaXo4tplWhol6POlM"
@@ -744,6 +744,28 @@
     },
     {
       "album": {
+        "name": "Kinna Pyar Karan",
+        "url": "https://open.spotify.com/album/3k1InutqRcvVcBmwOiX58d"
+      },
+      "artists": [
+        {
+          "name": "Shipra Goyal",
+          "url": "https://open.spotify.com/artist/7gOZcXPfLtLbFgUyHGV7cZ"
+        },
+        {
+          "name": "R Nait",
+          "url": "https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187764,
+      "name": "Kinna Pyar Karan",
+      "url": "https://open.spotify.com/track/5k1zCA31FEQ62FrnV9RHIW"
+    },
+    {
+      "album": {
         "name": "Kuwait Wala Koka",
         "url": "https://open.spotify.com/album/5Gst6VK89e4LeTHOT0CvAQ"
       },
@@ -821,7 +843,7 @@
       ],
       "date_added": "2023-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 192750,
       "name": "Lala Lala",
       "url": "https://open.spotify.com/track/02FQ4MmF9Q7us88QgTSQnJ"
@@ -891,6 +913,24 @@
       "duration_ms": 178958,
       "name": "Like Me",
       "url": "https://open.spotify.com/track/2K1Drq6wbuLJ994USxQBFt"
+    },
+    {
+      "album": {
+        "name": "Main Bandey",
+        "url": "https://open.spotify.com/album/1gjsHHeXtPmFg55MwzONLV"
+      },
+      "artists": [
+        {
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Main Bandey",
+      "url": "https://open.spotify.com/track/1GgQk7wSLTalLVZfivdiHo"
     },
     {
       "album": {
@@ -1129,6 +1169,24 @@
       "duration_ms": 225912,
       "name": "Pasand Bangi",
       "url": "https://open.spotify.com/track/0PQkxMXbAWaqRZfdLxeamN"
+    },
+    {
+      "album": {
+        "name": "Perfection",
+        "url": "https://open.spotify.com/album/4IToiiA9yQfiSmAJJcQM4a"
+      },
+      "artists": [
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100863,
+      "name": "Perfection",
+      "url": "https://open.spotify.com/track/6hN5PBVrnAwydgOYNWeUWj"
     },
     {
       "album": {
@@ -1493,6 +1551,32 @@
       "duration_ms": 255714,
       "name": "Teri Life Meri Life",
       "url": "https://open.spotify.com/track/7jdPeLhBFX1hfWeTIpuQpP"
+    },
+    {
+      "album": {
+        "name": "Throughout India",
+        "url": "https://open.spotify.com/album/1ttVBeIUtxc9tL0aYcCUgG"
+      },
+      "artists": [
+        {
+          "name": "Pari Pandher",
+          "url": "https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA"
+        },
+        {
+          "name": "Bunty Bains",
+          "url": "https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x"
+        },
+        {
+          "name": "Jassi X",
+          "url": "https://open.spotify.com/artist/3rJlJIcCjbAyj4X08YQqsS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145714,
+      "name": "Throughout India",
+      "url": "https://open.spotify.com/track/7j1DG6gSjOJGlJfxlzrERW"
     },
     {
       "album": {

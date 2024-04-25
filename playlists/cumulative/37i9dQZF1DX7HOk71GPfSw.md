@@ -4,7 +4,7 @@
 
 > these songs will break your phone\. ft\. Odetari x Ayesha Erotica
 
-2,034 songs - 3 day 20 hr 31 min
+2,035 songs - 3 day 20 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1345,6 +1345,7 @@
 | [paper plane](https://open.spotify.com/track/5Nuq71qQlePrI8GErxJsFw) | [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u), [8485](https://open.spotify.com/artist/3LwiPwIJNshV4ItekGcIMo) | [protector](https://open.spotify.com/album/2U1iBOYHrh9hkwPSa2zMlv) | 2:48 | 2022-12-02 | 2023-01-25 |
 | [papercuts](https://open.spotify.com/track/0lg5TreDpALNZe8o09eufg) | [Mochila](https://open.spotify.com/artist/353QOV1e01ESfqcytsQiwe) | [papercuts](https://open.spotify.com/album/0dFHz3vnVhoYdqwhNDIZ9L) | 2:06 | 2021-01-23 | 2021-02-26 |
 | [paralyzed](https://open.spotify.com/track/4lmakRbRXL33ihch8L5k34) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA) | [paralyzed](https://open.spotify.com/album/6LAJ80K0n0WnFNdynaG3SD) | 2:44 | 2022-08-05 | 2022-08-27 |
+| [PARANOIA INTRO](https://open.spotify.com/track/5cXQjDLQbbuQqJBRKvJqjW) | [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [Cold Visions](https://open.spotify.com/album/5fjDXtY8tws1sbPFHw34pL) | 1:10 | 2024-04-24 |  |
 | [Paranoid](https://open.spotify.com/track/5CsZsGlmbvSBJqilcODxVs) | [Alice Gas](https://open.spotify.com/artist/4RhJ79LFbfmdtpuir6C9nR) | [Paranoid](https://open.spotify.com/album/1a8Y2Fass8O0nFSjKu0ou6) | 2:10 | 2020-10-13\* | 2021-02-10 |
 | [paranoid](https://open.spotify.com/track/3amEwFrehp8bMJsk2JOzfG) | [Senses](https://open.spotify.com/artist/2soiLmeGhmq9uQ9fqZm3KA), [mint](https://open.spotify.com/artist/18ZZFZYue9xTQel14oTWBd) | [paranoid](https://open.spotify.com/album/6ifk66PjfkFLOV76nDFU6O) | 2:37 | 2023-02-24 | 2023-06-16 |
 | [paranoid!](https://open.spotify.com/track/7nG7bMpUu8fXvgAiGKnNfJ) | [lando!](https://open.spotify.com/artist/4WMvqyhx0a3HOL2oPHFM4p), [blackwinterwells](https://open.spotify.com/artist/4tF39UYlbBLqTo5JK3qX1u) | [paranoid!](https://open.spotify.com/album/6lTukKU6omiHtn262ytsSs) | 2:12 | 2020-10-13\* | 2021-01-08 |

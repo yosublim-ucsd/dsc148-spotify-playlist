@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 313611,
+  "2024-04-25": 313707,
   "date_first_scraped": "2022-02-13",
   "description": "Groovy, dancy, funky stuff. When in doubt, turn this on at the party.\n",
   "name": "Soir\u00e9e",
@@ -7632,6 +7632,24 @@
     },
     {
       "album": {
+        "name": "Some Nights",
+        "url": "https://open.spotify.com/album/6M8f9J7mDJnuWKDN4rD01r"
+      },
+      "artists": [
+        {
+          "name": "Class Fools",
+          "url": "https://open.spotify.com/artist/6SNEXjd9Jo5XonaIfYoZrt"
+        }
+      ],
+      "date_added": "2024-02-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168188,
+      "name": "Some Nights",
+      "url": "https://open.spotify.com/track/6CNBjy0QKglD4PQZ9Apfgv"
+    },
+    {
+      "album": {
         "name": "Is This It",
         "url": "https://open.spotify.com/album/2k8KgmDp9oHrmu0MIj4XDE"
       },
@@ -8593,7 +8611,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 134412,
       "name": "Uglyfisherman",
       "url": "https://open.spotify.com/track/0soF6Of8Zw4wsjkrFWyKf2"

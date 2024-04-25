@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 242473,
+  "2024-04-25": 242547,
   "date_first_scraped": "2022-05-13",
   "description": "\u0632\u0645\u064a\u0644\u064a \u0628\u064a\u0633\u0623\u0644 \u0639\u0646 \u0627\u0644\u0645\u0628\u062f\u0623 \u0648\u0642\u062a \u0627\u0644\u0645\u0627\u062f\u0629 \u0628\u064a\u0631\u0648\u062d \u0641\u064a\u0646\u061f.\u063a\u0644\u0627\u0641:\u0645\u0631\u0648\u0627\u0646 \u0628\u0627\u0628\u0644\u0648 ",
   "name": "\u0645\u0644\u0648\u0643 \u0627\u0644\u0633\u064a\u0646",
@@ -2247,7 +2247,7 @@
       ],
       "date_added": "2024-01-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 149126,
       "name": "Howa Enta Ahbal?",
       "url": "https://open.spotify.com/track/4B1qzWpCaah3EQPYS8ZuJF"
@@ -4307,6 +4307,24 @@
       "duration_ms": 133655,
       "name": "Share3 El 100",
       "url": "https://open.spotify.com/track/7auDtMn8PF8wvM5JIu0ndx"
+    },
+    {
+      "album": {
+        "name": "SHED F TARFO",
+        "url": "https://open.spotify.com/album/6MMlotsbFacSgj8QFi1TSf"
+      },
+      "artists": [
+        {
+          "name": "TURK",
+          "url": "https://open.spotify.com/artist/1wFfctC3FJR269GkjAajLL"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156736,
+      "name": "SHED F TARFO",
+      "url": "https://open.spotify.com/track/7p9fo8NM2SrquqIn1rhYNH"
     },
     {
       "album": {

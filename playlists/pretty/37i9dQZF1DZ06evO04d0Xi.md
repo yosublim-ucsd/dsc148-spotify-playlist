@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 
 > This is Fernanda Brum\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,849 likes - 51 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,835 likes - 51 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO04d0Xi.md) - [plain]
 | 50 | [Orai Por Todas As Crianças \- Ao Vivo](https://open.spotify.com/track/1rnfBA2xLScmsTYruJWLEI) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [Orai Por Todas As Crianças \(Ao Vivo\)](https://open.spotify.com/album/6lQNpiPsw8SbRGdU3odT2F) | 4:53 |
 | 51 | [És Real pra Mim](https://open.spotify.com/track/2hsERnD409nL9T06rhZC01) | [Fernanda Brum](https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8) | [És Real Pra Mim](https://open.spotify.com/album/3IAu3yi2pl9l3sF8wUv69A) | 5:34 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDIxMDViYzQ2YmY0ZmQwN2RkNjBkZjk5ZTkzY2Q0Zjlj`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDQ0MTVhMWM4ZmE1YmFlOTRkY2ZmMDI5NGU1YTc2NWY1`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Vietnam.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,508 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,490 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLdGSmz6xilI.md) - [plain]
 | 49 | [Tình cờ yêu em](https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX) | [Kuun Đức Nam](https://open.spotify.com/artist/05xxXziuRhVsmlSjTD4Soh), [Linh Thộn](https://open.spotify.com/artist/50bDh0lNWnngFN237F1rJq) | [Tình cờ yêu em](https://open.spotify.com/album/633b3JiGJnZoepcvZeu2yo) | 4:18 |
 | 50 | [Hà Nội \(ft\. VSTRA\)](https://open.spotify.com/track/0SLhB9JLM4Ksz1XdwK3aQD) | [Obito](https://open.spotify.com/artist/0ZbgKh0FgPYeFP38nVaEGp), [VSTRA](https://open.spotify.com/artist/2aMo0CYbTieTisS0BlWc59), [Shiki](https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq) | [Đánh Đổi](https://open.spotify.com/album/5NODJ4FZWvaLLiFd554kLI) | 2:45 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

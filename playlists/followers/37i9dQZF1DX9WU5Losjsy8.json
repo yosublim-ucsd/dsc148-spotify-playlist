@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 404606,
+  "2024-04-25": 404631,
   "date_first_scraped": "2023-07-28",
   "description": "ist nur einmal im Jahr...",
   "name": "Malle Party 2024",
@@ -309,6 +309,24 @@
       "duration_ms": 129652,
       "name": "BIER",
       "url": "https://open.spotify.com/track/44Elooy8S8twBdOoVVHPDA"
+    },
+    {
+      "album": {
+        "name": "BIERBAUCH\ud83c\udf7a",
+        "url": "https://open.spotify.com/album/5xjoCoZ8l3Bot75FwbGwEO"
+      },
+      "artists": [
+        {
+          "name": "Andi schiebt anders",
+          "url": "https://open.spotify.com/artist/0Q0sIZyJbKnxvo5Vt7SsqC"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126000,
+      "name": "BIERBAUCH\ud83c\udf7a",
+      "url": "https://open.spotify.com/track/58AhzC7faLBXUFyu9XQQwo"
     },
     {
       "album": {
@@ -825,7 +843,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 162352,
       "name": "Ein bisschen Frieden - Stereoact #Remix",
       "url": "https://open.spotify.com/track/2htsBWFGjnCmlb1c7eKLRZ"
@@ -1714,6 +1732,54 @@
     },
     {
       "album": {
+        "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+        "url": "https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC"
+      },
+      "artists": [
+        {
+          "name": "MXM",
+          "url": "https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4"
+        },
+        {
+          "name": "Chris van Dutch",
+          "url": "https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240781,
+      "name": "Major Tom (V\u00f6llig losgel\u00f6st)",
+      "url": "https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7"
+    },
+    {
+      "album": {
+        "name": "MALLE BEREIT",
+        "url": "https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH"
+      },
+      "artists": [
+        {
+          "name": "Mia Julia",
+          "url": "https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4"
+        },
+        {
+          "name": "MAKZ 38",
+          "url": "https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF"
+        },
+        {
+          "name": "MartinBepunkt",
+          "url": "https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169885,
+      "name": "MALLE BEREIT",
+      "url": "https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O"
+    },
+    {
+      "album": {
         "name": "Mallelelele",
         "url": "https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb"
       },
@@ -1839,7 +1905,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 200314,
       "name": "Marie",
       "url": "https://open.spotify.com/track/1vCEGctxBKGxWeMS46cCoe"
@@ -1861,6 +1927,24 @@
       "duration_ms": 128713,
       "name": "MDMA",
       "url": "https://open.spotify.com/track/4c1TXKNAh4yb5cb0zE3x1X"
+    },
+    {
+      "album": {
+        "name": "Mehr Promille als IQ",
+        "url": "https://open.spotify.com/album/5ush4anvGhOx30W7BTOOyD"
+      },
+      "artists": [
+        {
+          "name": "Mickie Krause",
+          "url": "https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211417,
+      "name": "Mehr Promille als IQ",
+      "url": "https://open.spotify.com/track/3Kjs4D4ml9pLRxZr0KcJoU"
     },
     {
       "album": {
@@ -2411,7 +2495,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 238978,
       "name": "Senorita",
       "url": "https://open.spotify.com/track/5OHOykHs3Ct2pgbqod8uMD"
@@ -2643,7 +2727,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 201859,
       "name": "Wenn Du Bock hast (kannst Du Dir noch'n Korn abholen)",
       "url": "https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD"

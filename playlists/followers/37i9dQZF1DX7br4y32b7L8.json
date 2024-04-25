@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 30796,
+  "2024-04-25": 30824,
   "date_first_scraped": "2023-02-25",
   "description": "songs voor je playlist! #fyp",
   "name": "Viral Hits NL",
@@ -1063,6 +1063,28 @@
       "duration_ms": 103972,
       "name": "Bunda",
       "url": "https://open.spotify.com/track/0dibU6Iktkhk94uPKESVFm"
+    },
+    {
+      "album": {
+        "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
+        "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
+      },
+      "artists": [
+        {
+          "name": "Elvis Presley",
+          "url": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
+        },
+        {
+          "name": "Royal Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209760,
+      "name": "Burning Love - with The Royal Philharmonic Orchestra",
+      "url": "https://open.spotify.com/track/7E6IYKyvJ7dfYl3iTRmozl"
     },
     {
       "album": {
@@ -3859,6 +3881,24 @@
       "duration_ms": 125600,
       "name": "Koekje Met Je Moeder",
       "url": "https://open.spotify.com/track/6LS9fogxPFK44XKwJeDPtM"
+    },
+    {
+      "album": {
+        "name": "kompa pasi\u00f3n",
+        "url": "https://open.spotify.com/album/7e1ONcI4irpbaj0mYEyEdf"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "kompa pasi\u00f3n",
+      "url": "https://open.spotify.com/track/1EwIdgeVfiXTIDfFHpgqfI"
     },
     {
       "album": {

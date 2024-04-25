@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-877 songs - 2 day 5 hr 58 min
+878 songs - 2 day 6 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -857,6 +857,7 @@
 | [What's the Use?](https://open.spotify.com/track/2dgrYdgguVZKeCsrVb9XEs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Swimming](https://open.spotify.com/album/5wtE5aLX5r7jOosmPhJhhk) | 4:48 | 2022-09-18 |  |
 | [When The Sun Goes Down](https://open.spotify.com/track/2zzLRQ78kKfPTx8FJQCdC2) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Whatever People Say I Am, That's What I'm Not](https://open.spotify.com/album/50Zz8CkIhATKUlQMbHO3k1) | 3:22 | 2020-08-20 |  |
 | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/08uWHOhYijA1DXxhHSDBDH) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [When We Die \(Can We Still Get High?\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/3pgq59bj7H3zljjzgXvs6A) | 5:00 | 2024-01-27 |  |
+| [when you sleep](https://open.spotify.com/track/2KylN9C0wNbzLgZNTG9oiU) | [my bloody valentine](https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5) | [loveless](https://open.spotify.com/album/3USQKOw0se5pBNEndu82Rb) | 4:11 | 2024-04-24 |  |
 | [Where Evil Grows](https://open.spotify.com/track/3w56u6nrL0K1YYpinkfTeP) | [The Poppy Family](https://open.spotify.com/artist/0XawOhZ28ajmIWwPpRJuDA), [Terry Jacks](https://open.spotify.com/artist/16AJvLZdw3lK1VTBrJjEt0), [Susan Jacks](https://open.spotify.com/artist/6GH8lDgqqfg1KSDfFRFGzK) | [A Good Thing Lost: 1968\-1973](https://open.spotify.com/album/6Drcfiy2b9bJDPR5CllOyy) | 2:51 | 2022-03-23 |  |
 | [WHO CARES?](https://open.spotify.com/track/1SKN0qfmaLESOcr9rV9kvn) | [Rex Orange County](https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL) | [WHO CARES?](https://open.spotify.com/album/2yI4m5Yu2tl8v0It5P9WVz) | 2:29 | 2022-04-29 |  |
 | [Who The Fuck Are Arctic Monkeys?](https://open.spotify.com/track/05FVS9qqWq2A82fYCtblkt) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Who The F\*\*\* Are Arctic Monkeys?](https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb) | 5:36 | 2020-04-16 |  |

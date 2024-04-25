@@ -1,12 +1,12 @@
 {
   "description": "This is Jelly Roll. The essential tracks, all in one playlist.",
-  "num_followers": 206160,
+  "num_followers": 206213,
   "original_name": "This Is Jelly Roll",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDAyNTE2YmExNzU5YjdlMjkxNjVkMWZjM2U3MDZkNzM0",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDk0MTIwZGIyNWM2NTQ4M2E0MmQyNTJkYWNiMGI1YzY2",
   "tracks": [
     {
       "added_at": null,
@@ -727,26 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enlisted",
-        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
-      },
-      "artists": [
-        {
-          "name": "Craig Morgan",
-          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
-        },
-        {
-          "name": "Jelly Roll",
-          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
-        }
-      ],
-      "duration_ms": 280647,
-      "name": "Almost Home",
-      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ballads of the Broken",
         "url": "https://open.spotify.com/album/4HNIAKT3412itayEYv2BxL"
       },
@@ -763,22 +743,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "NASHVILLE, TENNESSEE",
-        "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
+        "name": "Enlisted",
+        "url": "https://open.spotify.com/album/5aEnEDTGJInHwBfuOLyyed"
       },
       "artists": [
         {
-          "name": "ERNEST",
-          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+          "name": "Craig Morgan",
+          "url": "https://open.spotify.com/artist/6ktyNEnEukKzskQEiXgCFD"
         },
         {
           "name": "Jelly Roll",
           "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
         }
       ],
-      "duration_ms": 214708,
-      "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
-      "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
+      "duration_ms": 280647,
+      "name": "Almost Home",
+      "url": "https://open.spotify.com/track/6IsnHsAA1kUOxASB9ynaOl"
     },
     {
       "added_at": null,
@@ -851,6 +831,26 @@
       "duration_ms": 191024,
       "name": "Outlaw Classics",
       "url": "https://open.spotify.com/track/3MZI08IlR1CnfxJLMkm5rg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NASHVILLE, TENNESSEE",
+        "url": "https://open.spotify.com/album/4aD7IAPv6OlCGoYWrUJZ3K"
+      },
+      "artists": [
+        {
+          "name": "ERNEST",
+          "url": "https://open.spotify.com/artist/4GGfAshSkqoxpZdoaHm7ky"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "duration_ms": 214708,
+      "name": "I Went To College / I Went To Jail (feat. Jelly Roll)",
+      "url": "https://open.spotify.com/track/7kKdZ6PNaVD4aqsA9jvnyv"
     },
     {
       "added_at": null,

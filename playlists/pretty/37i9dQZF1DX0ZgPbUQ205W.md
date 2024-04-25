@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 
 > Calm and soft sounds of Jazz to help you relax and unwind.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,588 likes - 200 songs - 13 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,623 likes - 200 songs - 13 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZgPbUQ205W.md) - [plain]
 | 199 | [Good Morning Heartache](https://open.spotify.com/track/3Lye44P9cPy94QWjvFRLq4) | [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Good Morning Heartache](https://open.spotify.com/album/5hViZsJbP1o4f4xAkv2Z5M) | 5:25 |
 | 200 | [Sound Flower](https://open.spotify.com/track/6ihL2LDx69EHKQQgtWRvLd) | [Jakob Bro](https://open.spotify.com/artist/6slrkfC61k7yWM5Hl5USES), [Arve Henriksen](https://open.spotify.com/artist/32pN1An13076I4PTMzn2g7), [Jorge Rossy](https://open.spotify.com/artist/0bUTRhTTU18M19hpsAPSrE) | [Uma Elmo](https://open.spotify.com/album/2YxlIAhEn3nFJUYaI5R8ts) | 5:55 |
 
-Snapshot ID: `MTcxMDkzNzk1MCwwMDAwMDAwMGJiMjMwMzcxOTgwMzE4YmY3MTM2NWY5NTNkYmI5NTQz`
+Snapshot ID: `MTcxMzk4MTg2OCwwMDAwMDAwMDRlMTQzYWU1MDhiMTU3YzRlNmZjN2QzNzE4MWYxNGMz`

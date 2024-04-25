@@ -2,7 +2,7 @@
 
 ### [This Is Ana Bárbara](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2mOf7x)
 
-> This is Ana Bárbara\. Todos os maiores hits em uma só playlist.
+> This Is Ana Bárbara\. Los temas esenciales, todos en una lista.
 
 66 songs - 3 hr 50 min
 

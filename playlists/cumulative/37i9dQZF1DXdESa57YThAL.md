@@ -4,7 +4,7 @@
 
 > Music from "Mushoku Tensei: Jobless Reincarnation" /「無職転生  ～異世界行ったら本気だす～ 」の楽曲を1つのプレイリストで。©理不尽な孫の手/MFブックス/「無職転生Ⅱ」製作委員会
 
-102 songs - 4 hr 43 min
+103 songs - 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [シルフィの涙](https://open.spotify.com/track/6EvgHrWqgl7GybxzFwsc4J) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 2:12 | 2024-04-16 |  |
 | [ゾルダードの優しさ](https://open.spotify.com/track/2PxXmj6k4vmaaIvmXywKaW) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/3oh7Y1kjqDwbEhLZiD1ZqV) | 3:05 | 2024-04-16 |  |
 | [ゾルダードの優しさ](https://open.spotify.com/track/3Ocd9AQe5KHf1kkXIABURO) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 ～異世界行ったら本気だす～』 第２期 オリジナル・サウンドトラック](https://open.spotify.com/album/7Hj3o4iLjM6UeDxd9qTC5i) | 3:05 | 2023-10-02 | 2024-04-19 |
+| [ツバサ](https://open.spotify.com/track/43Ff3ZHJTb8zektG7mzlf6) | [ナナホシ\(CV:若山詩音\)](https://open.spotify.com/artist/3MdRFCCJU0zkW9cS6jnx42) | [ツバサ](https://open.spotify.com/album/4M7pKfPo53IqfYxR7x2lc3) | 4:33 | 2024-04-25 |  |
 | [パウロ VS ルディ](https://open.spotify.com/track/7JLBUQb0uNLLBVkbcggU7L) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/0TfkBkBMpvVJCVF9LVTAeH) | 2:15 | 2023-10-02 | 2024-04-19 |
 | [パウロ VS ルディ](https://open.spotify.com/track/7t8f7gpwt8YNfqvzKcLRr1) | [藤澤慶昌](https://open.spotify.com/artist/1sNFJ2IaKm03L1qQs2wZw6) | [『無職転生 〜異世界行ったら本気だす〜』 オリジナル・サウンドトラック](https://open.spotify.com/album/5lTvav1e07wHkyaqrsLciC) | 2:15 | 2024-04-16 |  |
 | [ムスビメ](https://open.spotify.com/track/0pkVxyrTqqlv3moOEA2wOt) | [大原ゆい子](https://open.spotify.com/artist/3FDDeKHEecoQUOBHCgExUy) | [ムスビメ](https://open.spotify.com/album/3PRUbUlarV6rpompdRENpr) | 4:50 | 2023-10-02 | 2024-04-19 |

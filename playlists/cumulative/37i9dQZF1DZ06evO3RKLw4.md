@@ -2,13 +2,13 @@
 
 ### [This Is Rancid](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3RKLw4)
 
-> This is Rancid\. The essential tracks, all in one playlist.
+> This Is Rancid\. Los temas esenciales, todos en una lista.
 
 89 songs - 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [100 Years](https://open.spotify.com/track/5Xo1fVEsW5u24XPWOH1UxL) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 1:56 | 2024-03-30 |  |
+| [100 Years](https://open.spotify.com/track/5Xo1fVEsW5u24XPWOH1UxL) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [B Sides and C Sides](https://open.spotify.com/album/5qfvA94YQObUVpJCHDxNks) | 1:56 | 2024-03-30 | 2024-04-25 |
 | [Adina](https://open.spotify.com/track/4PIRphLLoKGsjSNCBGr5Ha) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid](https://open.spotify.com/album/0ELny42cJ5M3cjHAVeLVdr) | 1:39 | 2022-09-16 | 2024-03-30 |
 | [An Intimate Close Up Of A Street Punk Trouble Maker](https://open.spotify.com/track/7IejBxjTUvI6A1Kprlxqfz) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Trouble Maker \(Deluxe Edition\)](https://open.spotify.com/album/0IJ8KmhJausnsCjUvgM5vY) | 2:34 | 2022-09-16 | 2024-03-18 |
 | [Antennas](https://open.spotify.com/track/6vYgCVhPyr6cSzyROqf8fd) | [Rancid](https://open.spotify.com/artist/6xTk3EK5T9UzudENVvu9YB) | [Rancid \(5\)](https://open.spotify.com/album/0mAo7j2DjyboBbRC7mG2uw) | 1:10 | 2022-09-16 |  |

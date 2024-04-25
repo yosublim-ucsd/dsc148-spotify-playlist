@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2NoR0KhNZ8oZnC3HoNt2FV.md) - [plain]
 
 > We Don't Trust You + We Still Don't Trust You
 
-[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,840 likes - 701 songs - 1 day 15 hr 43 min
+[PlayStation®️](https://open.spotify.com/user/playstation_music) - 227,826 likes - 701 songs - 1 day 15 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

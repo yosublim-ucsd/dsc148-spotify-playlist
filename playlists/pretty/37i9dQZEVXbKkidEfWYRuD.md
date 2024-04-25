@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,425 likes - 50 songs - 2 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,424 likes - 50 songs - 2 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKkidEfWYRuD.md) - [plain]
 | 49 | [Долоні](https://open.spotify.com/track/28nCv762IfyLVB2OGGQcMb) | [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Долоні](https://open.spotify.com/album/3NmrYQxt3SIQg22hmZvxOq) | 2:44 |
 | 50 | [Буревіями \- 2023 Remastered Version](https://open.spotify.com/track/7fjPLaFXmMhDKReqzmNWq6) | [SHUMEI](https://open.spotify.com/artist/1BtGSVQey2HyYbFiw8O1mz), [ZLATA OGNEVICH](https://open.spotify.com/artist/187fS4swOKe4m6p5G0ciwF) | [Комета](https://open.spotify.com/album/4ejGUrhLMAqUFQZAeGrc01) | 3:47 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

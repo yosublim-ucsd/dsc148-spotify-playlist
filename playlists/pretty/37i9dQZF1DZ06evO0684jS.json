@@ -1,12 +1,12 @@
 {
-  "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 847429,
+  "description": "This Is Nicki Minaj. Los temas esenciales, todos en una lista.",
+  "num_followers": 847398,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGIxNDk5NGMwMDZkMTI0ODQ4NDY1NjllYzJhYzRjZGQ3",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDcyOTc1MTA5ZGNiY2EzM2I0ZTE2MTMzYTU5M2ZhZDRm",
   "tracks": [
     {
       "added_at": null,
@@ -683,26 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2 (Gag City PLUTO Edition)",
-        "url": "https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 201418,
-      "name": "Press Play (feat. Future)",
-      "url": "https://open.spotify.com/track/412SI13OfbJ6cpg2XYCtzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Tape",
         "url": "https://open.spotify.com/album/2ua5bFkZLZl1lIgKWtYZIz"
       },
@@ -763,6 +743,26 @@
       "duration_ms": 303076,
       "name": "MotorSport",
       "url": "https://open.spotify.com/track/4wFjTWCunQFKtukqrNijEt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2 (Gag City PLUTO Edition)",
+        "url": "https://open.spotify.com/album/2lbQSK3qnWtWVYwjZiyvbM"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 201418,
+      "name": "Press Play (feat. Future)",
+      "url": "https://open.spotify.com/track/412SI13OfbJ6cpg2XYCtzz"
     },
     {
       "added_at": null,
@@ -1023,6 +1023,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Love Yourself \u7d50 'Answer'",
+        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260233,
+      "name": "IDOL",
+      "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Pinkprint (Deluxe Edition)",
         "url": "https://open.spotify.com/album/5qs8T6ZHSrnllnOuUk6muC"
       },
@@ -1043,26 +1063,6 @@
       "duration_ms": 220466,
       "name": "Truffle Butter",
       "url": "https://open.spotify.com/track/7e44z4wOjkllaD8eulUeMd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Yourself \u7d50 'Answer'",
-        "url": "https://open.spotify.com/album/43wFM1HquliY3iwKWzPN4y"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 260233,
-      "name": "IDOL",
-      "url": "https://open.spotify.com/track/54azQnjuDYDFfImXimGFsA"
     }
   ],
   "unique_name": "This Is Nicki Minaj",

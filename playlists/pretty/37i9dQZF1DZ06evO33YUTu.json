@@ -1,12 +1,12 @@
 {
-  "description": "This is Greeicy. The essential tracks, all in one playlist.",
-  "num_followers": 117990,
+  "description": "This Is Greeicy. Los temas esenciales, todos en una lista.",
+  "num_followers": 117979,
   "original_name": "This Is Greeicy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGJlMTE5ZDlkYTBlNDY2Mzg0NTlkMjIzYjdmZjEwMWQw",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDBjYWZkNjk0YmNlZjc0YjlhNDQ0MmEyOGZiZWUyYTA5",
   "tracks": [
     {
       "added_at": null,
@@ -732,74 +732,6 @@
           "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
         }
       ],
-      "duration_ms": 139973,
-      "name": "Vete",
-      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
-        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 154920,
-      "name": "Que me quiera",
-      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Error",
-        "url": "https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
-      "duration_ms": 209361,
-      "name": "Error",
-      "url": "https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Jacuzzi",
-        "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
-        }
-      ],
-      "duration_ms": 184106,
-      "name": "Jacuzzi",
-      "url": "https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "YELIANA",
-        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
-      },
-      "artists": [
-        {
-          "name": "Greeicy",
-          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
-        }
-      ],
       "duration_ms": 136293,
       "name": "I Try For You",
       "url": "https://open.spotify.com/track/4OZ6TtvvAM4LZUi6UDJIzu"
@@ -835,6 +767,74 @@
       "duration_ms": 274437,
       "name": "La Ducha Remix (con Becky G, Tini)",
       "url": "https://open.spotify.com/track/0044ljTRPPQdAkCUXK6s7A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Error",
+        "url": "https://open.spotify.com/album/7eRvVezqELiJfp1vSrDx0u"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 209361,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/7eOs4mwrf7rp7lGEF2tjGu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA - Cap.1 - Que me quiera / Lokita",
+        "url": "https://open.spotify.com/album/4DqEPS1D4QsCtL7m0m5DZ1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 154920,
+      "name": "Que me quiera",
+      "url": "https://open.spotify.com/track/17VarGZ9nd9MZRBO0zKsdq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "YELIANA",
+        "url": "https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        }
+      ],
+      "duration_ms": 139973,
+      "name": "Vete",
+      "url": "https://open.spotify.com/track/58LhEQTSIEG3nOTiucvNR3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jacuzzi",
+        "url": "https://open.spotify.com/album/6hourrBLixE67puzTocZUh"
+      },
+      "artists": [
+        {
+          "name": "Greeicy",
+          "url": "https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+        }
+      ],
+      "duration_ms": 184106,
+      "name": "Jacuzzi",
+      "url": "https://open.spotify.com/track/68AFwp0MnkWketMmnfvzR8"
     },
     {
       "added_at": null,

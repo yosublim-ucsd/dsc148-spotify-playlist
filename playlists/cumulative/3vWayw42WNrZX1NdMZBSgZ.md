@@ -2,9 +2,9 @@
 
 ### [Pop Latin Hits](https://open.spotify.com/playlist/3vWayw42WNrZX1NdMZBSgZ)
 
-> The perfect mix of the latest pop hits! Follow this playlist and play Enrique Iglesias, Yotuel &amp; Yng Lvcas &quot;Fria Remix&quot; Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Enrique Iglesias
+> The perfect mix of the latest pop hits! Follow this playlist and play Nicki Nicole &quot;Ojos Verdes,&quot; Enrique Iglesias, Yotuel &amp; Yng Lvcas &quot;Fria Remix&quot; Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Reik &quot;Baja California&quot;, Shakira &amp; Cardi B &quot;Puntería,&quot;  Cover: Nicki Nicole
 
-745 songs - 1 day 15 hr 56 min
+746 songs - 1 day 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -503,6 +503,7 @@
 | [Ojalá](https://open.spotify.com/track/4dLIAE3xbJLoiIBbKkZWJk) | [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8), [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Adam Levine](https://open.spotify.com/artist/4bYPcJP5jwMhSivRcqie2n) | [Ojalá](https://open.spotify.com/album/00XhrF5bpFfMJ0tT85DkTY) | 3:09 | 2022-10-20 | 2023-06-08 |
 | [Ojalá Te Duela](https://open.spotify.com/track/5Pndhvqkucz0wGpP6G4MfH) | [Marc Anthony](https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6), [Pepe Aguilar](https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit) | [Ojalá Te Duela](https://open.spotify.com/album/0tqEuVWZDUV5BwgieE14JA) | 3:52 | 2023-10-06 |  |
 | [Ojos Rojos](https://open.spotify.com/track/5hYRabCQuFZN8yVCQsSeyF) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [Ojos Rojos](https://open.spotify.com/album/4Vk8xZfdH45J2gDHs3lSjY) | 2:32 | 2022-02-02 | 2023-06-08 |
+| [Ojos Verdes](https://open.spotify.com/track/2RmtEc2ZNDCzAU3vH0AbKx) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Ojos Verdes](https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk) | 2:22 | 2024-04-25 |  |
 | [ojos\. labios\. cara.](https://open.spotify.com/track/0Ont2OoEaOYF9BYeSIhaFT) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [ojos\. labios\. cara.](https://open.spotify.com/album/1CTsEbkffQZulUwUZKzmCX) | 2:53 | 2023-10-26 |  |
 | [On My Way \(Marry Me\)](https://open.spotify.com/track/0PjqDT5SzI91kgzGnylyOd) | [Jennifer Lopez](https://open.spotify.com/artist/2DlGxzQSjYe5N6G9nkYghR) | [On My Way \(Marry Me\)](https://open.spotify.com/album/66daDQM7cYuXqEC8BbRlXx) | 3:12 | 2022-02-02 | 2023-05-26 |
 | [Orgullo](https://open.spotify.com/track/102SKCq72cPNo26kwyi5sT) | [Slow Mike](https://open.spotify.com/artist/25ffNKG1EAXf8RBN88lXKH), [El Vega](https://open.spotify.com/artist/6HWumjoLO58NYInUHk9565) | [Orgullo](https://open.spotify.com/album/3A1Hq7J1FY2xvK3RWtZCn9) | 2:57 | 2023-12-01 |  |

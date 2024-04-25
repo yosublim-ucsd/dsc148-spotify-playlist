@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 61968,
+  "2024-04-25": 61970,
   "date_first_scraped": "2022-05-26",
   "description": "Nuevos temas de g\u00e9neros tropicales. Foto: Ryan Castro.",
   "name": "Novedades Tropicales",
@@ -31722,6 +31722,24 @@
     },
     {
       "album": {
+        "name": "POR EL CONTRARIO / MIL PREGUNTAS (En Vivo)",
+        "url": "https://open.spotify.com/album/5nBjHgR1cTrvw0Qc15DiB7"
+      },
+      "artists": [
+        {
+          "name": "Omega",
+          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169170,
+      "name": "POR EL CONTRARIO / MIL PREGUNTAS - En Vivo",
+      "url": "https://open.spotify.com/track/4p3x3vKr0dsT9Hnnrzr0pN"
+    },
+    {
+      "album": {
         "name": "Por Ella (Radio Edit)",
         "url": "https://open.spotify.com/album/2yBx1vaavMtL4Izv0q1QE4"
       },
@@ -31759,24 +31777,6 @@
       "duration_ms": 194746,
       "name": "Por La Iglesia Y Por Lo Civil",
       "url": "https://open.spotify.com/track/4tVfzSsvnyMVszJVLV3ETo"
-    },
-    {
-      "album": {
-        "name": "POR LO CONTRARIO - MIL PREGUNTAS (En vivo)",
-        "url": "https://open.spotify.com/album/5nBjHgR1cTrvw0Qc15DiB7"
-      },
-      "artists": [
-        {
-          "name": "Omega",
-          "url": "https://open.spotify.com/artist/1iUzrM5MrTizYrOdqVH5bK"
-        }
-      ],
-      "date_added": "2024-04-19",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 169170,
-      "name": "POR LO CONTRARIO - MIL PREGUNTAS - En vivo",
-      "url": "https://open.spotify.com/track/4p3x3vKr0dsT9Hnnrzr0pN"
     },
     {
       "album": {

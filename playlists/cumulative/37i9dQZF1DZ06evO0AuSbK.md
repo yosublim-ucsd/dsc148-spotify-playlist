@@ -2,7 +2,7 @@
 
 ### [This Is Limp Bizkit](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0AuSbK)
 
-> This is Limp Bizkit\. Todos os maiores hits em uma só playlist.
+> This Is Limp Bizkit\. Los temas esenciales, todos en una lista.
 
 45 songs - 2 hr 58 min
 

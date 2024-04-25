@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 
 > أحدث الأغاني المصرية هنا🤩 الغلاف: رامي جمال
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,102 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,105 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [في بيتها](https://open.spotify.com/track/48mtjvHdCVeGn7R5lns0vY) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [في بيتها](https://open.spotify.com/album/0InYuGw4GTOFh2G6wrGuf3) | 3:31 |
-| 2 | [والله](https://open.spotify.com/track/1yIC2CxzGZzec1f9VCxEai) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [والله](https://open.spotify.com/album/4VXKepecSRxXQgWut9g2Rp) | 2:51 |
-| 3 | [بقول واكدب](https://open.spotify.com/track/4Lep7DGWWogIqr3tpAHfSC) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقول واكدب](https://open.spotify.com/album/2Gc1wvyvsKOrJQm91zGF92) | 4:40 |
+| 1 | [هنسى اسمك](https://open.spotify.com/track/5JlzkV5lnKxjrREddDBp62) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/5JwGbgFci3q0pLCKHzGZPc) | 3:35 |
+| 2 | [في بيتها](https://open.spotify.com/track/48mtjvHdCVeGn7R5lns0vY) | [Ahmed Gamal](https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj) | [في بيتها](https://open.spotify.com/album/0InYuGw4GTOFh2G6wrGuf3) | 3:31 |
+| 3 | [والله](https://open.spotify.com/track/1yIC2CxzGZzec1f9VCxEai) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [والله](https://open.spotify.com/album/4VXKepecSRxXQgWut9g2Rp) | 2:51 |
 | 4 | [ايام ونسيتها](https://open.spotify.com/track/1SJXNoG9rW3kkEDfPN9YWV) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [ايام ونسيتها](https://open.spotify.com/album/27pxn0VeLoRrQTA4vuNDrM) | 3:58 |
 | 5 | [الحمدلله](https://open.spotify.com/track/6SaiYvNlHIh2gdVfAyAQKD) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [الحمدلله](https://open.spotify.com/album/7vnRTngy32esACDIZdroyC) | 3:17 |
 | 6 | [Moog](https://open.spotify.com/track/5biAZYSL9ujS1A87ZHm3Y0) | [L5VAV](https://open.spotify.com/artist/7iriVfN6kftRpKDqdm492u) | [Moog \(Red Bull Sada Sot\)](https://open.spotify.com/album/3s4lJrMp7HSVKf6mT4AbzU) | 3:22 |
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 8 | [Awlad Misk](https://open.spotify.com/track/5gkVGDhKUVOugX4EtdKAMy) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD), [3enba](https://open.spotify.com/artist/4U7K3Xm1CXe5FpBGYUcHUZ) | [Awlad Misk](https://open.spotify.com/album/6sCIOOppSkOmDxpwZkpPkT) | 2:38 |
 | 9 | [خبط خبط](https://open.spotify.com/track/4yECK82XOZ7UUi50TREPxC) | [Abd El Fattah Grini](https://open.spotify.com/artist/6ncRJcK3BssZxM1vE8M3J2) | [خبط خبط](https://open.spotify.com/album/4C85aQZ62amt2opB2Ls8Ti) | 2:27 |
 | 10 | [أنا الندل](https://open.spotify.com/track/5jnggsioZ2JbgjDZq2KrPV) | [Ali Loka](https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1) | [أنا الندل](https://open.spotify.com/album/6kuuM31USrZHwLNX9xwvW7) | 2:39 |
-| 11 | [خليني أشوفك](https://open.spotify.com/track/5wFGQw4SWEtId68rnnE7An) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [خليني أشوفك](https://open.spotify.com/album/3xjnY2ScY6agVQ0jBXIp7e) | 3:12 |
-| 12 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
-| 13 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 |
+| 11 | [Ganeni](https://open.spotify.com/track/2qXSWquHZScT6OMJARM6Ql) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [WOLEDTO](https://open.spotify.com/album/3wCKwy1cHwBUCW4RQFvHHQ) | 2:57 |
+| 12 | [لذاذة \- من مسلسل بابا جه](https://open.spotify.com/track/03Kv0B3BKyM2Ik2RNYsb2d) | [Ramy Sabry](https://open.spotify.com/artist/5LtHZB7vU02HtNoOzNcVhc) | [لذاذة \(من مسلسل بابا جه\)](https://open.spotify.com/album/2v0WlxhOficmnLhwRjlNVf) | 2:53 |
+| 13 | [بقول واكدب](https://open.spotify.com/track/4Lep7DGWWogIqr3tpAHfSC) | [Ramy Gamal](https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID) | [بقول واكدب](https://open.spotify.com/album/2Gc1wvyvsKOrJQm91zGF92) | 4:40 |
 | 14 | [اللي فارق فارق](https://open.spotify.com/track/3ennab2R1UImbtrBTAp3YP) | [وليد سعد](https://open.spotify.com/artist/1GJnzGsOGrWp1toY0ABndy) | [اللي فارق فارق](https://open.spotify.com/album/4qbmqnZoZaYEbVpxVBceTQ) | 3:01 |
 | 15 | [آخرة طريقى دا إيه ؟ \- من مسلسل كوبرا](https://open.spotify.com/track/4k3ygO9jqERGUnHB5UnOtG) | [Ahmed Sheba](https://open.spotify.com/artist/7BugP3twaHMfVgDlgiEvLc) | [آخرة طريقى دا إيه ؟ \(من مسلسل كوبرا\)](https://open.spotify.com/album/3Qgdwj8TYUrv0ksxVsn6KN) | 2:29 |
 | 16 | [Malnash Gher Ba3dna](https://open.spotify.com/track/1rxBgFaKG1X27in26OEC2c) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [Malnash Gher Ba3dna](https://open.spotify.com/album/7wpvaS3EV2phb8CEfHEnly) | 3:13 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnW46G73SM.md) - [plain]
 | 74 | [Fan El Taghafol](https://open.spotify.com/track/21rhidrYUh7H2SCkdP3tIG) | [Samira Said](https://open.spotify.com/artist/5zHWEsVHtXWQRxPqwJdUYD) | [Fan El Taghafol](https://open.spotify.com/album/76w25Qac3kUww8vSSPME8k) | 2:30 |
 | 75 | [Kol El Habiba](https://open.spotify.com/track/5E75d0gLJzysLedwDQeWIR) | [Mai Farouk](https://open.spotify.com/artist/6WDborvz84s4INwkuajFxP) | [Kol El Habiba](https://open.spotify.com/album/1k485w1wXZn2AM4BCXe6iA) | 4:47 |
 
-Snapshot ID: `MTcxMzk0ODEzNiwwMDAwMDAwMGQ3ZmZmYzk1YzQ3ZDViM2NlM2FhM2NjMDBhMTBlMTYw`
+Snapshot ID: `MTcxMzk5MTkwNywwMDAwMDAwMDQ0MWY3OWUxYmYyNWQzNTY4ZmNlNTRlMGVjMzNlYTE0`

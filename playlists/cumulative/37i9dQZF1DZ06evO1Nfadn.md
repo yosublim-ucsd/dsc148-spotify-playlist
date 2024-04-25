@@ -2,7 +2,7 @@
 
 ### [This Is Banda Maguey](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1Nfadn)
 
-> This is Banda Maguey\. The essential tracks, all in one playlist.
+> This is Banda Maguey\. Todos os maiores hits em uma só playlist.
 
 116 songs - 5 hr 35 min
 

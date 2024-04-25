@@ -2,7 +2,7 @@
 
 ### [This Is Travis Scott](https://open.spotify.com/playlist/37i9dQZF1DZ06evO0vGf4I)
 
-> This Is Travis Scott\. Les titres incontournables, réunis dans une seule et même playlist.
+> This Is Travis Scott\. Los temas esenciales, todos en una lista.
 
 64 songs - 3 hr 52 min
 

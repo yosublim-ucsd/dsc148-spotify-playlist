@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFmyho2wkQU.md) - [plain]
 
 > Drive slow homie\. cover: Big Tymers
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,169 likes - 150 songs - 10 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,245 likes - 150 songs - 10 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

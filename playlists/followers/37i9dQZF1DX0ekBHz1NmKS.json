@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 195629,
+  "2024-04-25": 195623,
   "date_first_scraped": "2021-12-21",
   "description": "En samling av de b\u00e4sta svenska l\u00e5tarna just nu.",
   "name": "Made in Sweden",
@@ -13161,7 +13161,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 159069,
       "name": "Mycket b\u00e4ttre",
       "url": "https://open.spotify.com/track/3eCfXw6wt5ejoEt4sBrv9C"
@@ -16601,6 +16601,24 @@
       "duration_ms": 139432,
       "name": "Sjunde himlen",
       "url": "https://open.spotify.com/track/3aYYlA41rjSIhKjGjRU21S"
+    },
+    {
+      "album": {
+        "name": "Sjung om",
+        "url": "https://open.spotify.com/album/0UIqHlwrA85a3f5Ypm7vAe"
+      },
+      "artists": [
+        {
+          "name": "Strobaek",
+          "url": "https://open.spotify.com/artist/082YfpbTrmcJ7CVtnQcbQp"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208067,
+      "name": "Sjung om",
+      "url": "https://open.spotify.com/track/4pKUmlSbhRAuPXp9PSsvB9"
     },
     {
       "album": {

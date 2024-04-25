@@ -2,7 +2,7 @@
 
 ### [This Is Taking Back Sunday](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1b7p16)
 
-> This Is Taking Back Sunday\. Los temas esenciales, todos en una lista.
+> This is Taking Back Sunday\. The essential tracks, all in one playlist.
 
 70 songs - 4 hr 5 min
 
@@ -63,7 +63,7 @@
 | [Swing](https://open.spotify.com/track/66tVNSi55Hh2J4mfa3Dvuj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [New Again](https://open.spotify.com/album/5wRjl19Zy5H45GTTQ5olYS) | 3:26 | 2022-10-25 |  |
 | [S’old](https://open.spotify.com/track/0eMecDjtpUfpi0mc1qzKVi) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S'old](https://open.spotify.com/album/1jsyRZ5yUSQGOigC50bNef) | 2:43 | 2023-08-31 | 2023-11-11 |
 | [S’old](https://open.spotify.com/track/3CnO992SN5Pg4teEUJ8z2X) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 2:43 | 2023-11-10 |  |
-| [S’old \(Acoustic\)](https://open.spotify.com/track/3K3piObEj9QrcJq1kFuhgY) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S’old \(Acoustic\)](https://open.spotify.com/album/4fO8xivU0iLXNWAeDoqcuk) | 2:39 | 2024-03-27 |  |
+| [S’old \(Acoustic\)](https://open.spotify.com/track/3K3piObEj9QrcJq1kFuhgY) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [S’old \(Acoustic\)](https://open.spotify.com/album/4fO8xivU0iLXNWAeDoqcuk) | 2:39 | 2024-03-27 | 2024-04-25 |
 | [The Ballad Of Sal Villanueva](https://open.spotify.com/track/5wd2AS3onzv83EUFPxuOkj) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Victory Style, Vol\. 5](https://open.spotify.com/album/2WTpvwVyDW00HMYAjVyc9k) | 3:52 | 2022-10-25 | 2023-11-11 |
 | [The One](https://open.spotify.com/track/7JmnFOR3DUiRTkEybOlDqh) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [The One](https://open.spotify.com/album/45FGsNi8qTqFla0M1DlnKa) | 3:17 | 2023-07-01 | 2023-12-14 |
 | [The One](https://open.spotify.com/track/6pPAZMk6ELhS23soG1G3je) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [152](https://open.spotify.com/album/00lrMqGJScSgTrwT6WEL4N) | 3:17 | 2023-12-13 |  |

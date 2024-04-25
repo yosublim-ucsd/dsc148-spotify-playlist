@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 1977648,
+  "2024-04-25": 1977232,
   "date_first_scraped": "2024-01-30",
   "description": "Mga nangunguna sa mundo ng OPM. \nCover: NOBITA",
   "name": "Tatak Pinoy",
@@ -151,6 +151,24 @@
       "duration_ms": 175320,
       "name": "Araw-Araw w/ You",
       "url": "https://open.spotify.com/track/1o0OXfkYfNKhANdE0LPbHa"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/1zk01WEUn4lsTxjqkOIr5u"
+      },
+      "artists": [
+        {
+          "name": "TONEEJAY",
+          "url": "https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285489,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/3rRFT0NdIHEdtk18TqrjAY"
     },
     {
       "album": {
@@ -379,7 +397,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 174545,
       "name": "Di kita trip",
       "url": "https://open.spotify.com/track/1lS1wmAFXcj4RMbQ3pEhDt"
@@ -517,7 +535,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 148292,
       "name": "Ganon ka rin?",
       "url": "https://open.spotify.com/track/2wgl2AjXAtSv0ZCBMk00lV"
@@ -623,7 +641,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 217000,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/2jLLMjl9iIt9dgwIrHpJ64"
@@ -750,6 +768,28 @@
     },
     {
       "album": {
+        "name": "IISA (feat. Jrldm)",
+        "url": "https://open.spotify.com/album/5sjbPKdR120Gq5OZpvi6HS"
+      },
+      "artists": [
+        {
+          "name": "jikamarie",
+          "url": "https://open.spotify.com/artist/2M1iyuNJojQoNdyfIMr54j"
+        },
+        {
+          "name": "Jrldm",
+          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191500,
+      "name": "IISA (feat. Jrldm)",
+      "url": "https://open.spotify.com/track/1o4qTccTZLT2NVPhRfBVQ8"
+    },
+    {
+      "album": {
         "name": "Ikot",
         "url": "https://open.spotify.com/album/00VUKdbjLHeG9BSEAIzdiv"
       },
@@ -819,6 +859,24 @@
       "duration_ms": 234666,
       "name": "Kailan?",
       "url": "https://open.spotify.com/track/3ySu1fXHuIogUKdotleIxg"
+    },
+    {
+      "album": {
+        "name": "Karera",
+        "url": "https://open.spotify.com/album/6eG8V6yBx09xmexOLpcn9R"
+      },
+      "artists": [
+        {
+          "name": "BINI",
+          "url": "https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268474,
+      "name": "Karera",
+      "url": "https://open.spotify.com/track/6xfsvHFXr8GgRzaFAkmjAY"
     },
     {
       "album": {
@@ -1054,6 +1112,36 @@
     },
     {
       "album": {
+        "name": "Manatili",
+        "url": "https://open.spotify.com/album/4nIgH8kbETeM3HVdkEzCAa"
+      },
+      "artists": [
+        {
+          "name": "Clien",
+          "url": "https://open.spotify.com/artist/1zCgO4JLvzY9JUYRoUBMqK"
+        },
+        {
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+        },
+        {
+          "name": "Keii",
+          "url": "https://open.spotify.com/artist/7b4D4CjNIJZu5bfm62oDru"
+        },
+        {
+          "name": "AA",
+          "url": "https://open.spotify.com/artist/296oZra5MHdhFWConltLga"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288855,
+      "name": "Manatili",
+      "url": "https://open.spotify.com/track/3coArR1muD6ainIHX2ynk4"
+    },
+    {
+      "album": {
         "name": "Maria Clara",
         "url": "https://open.spotify.com/album/4mzHz0TvlGGnwc6m9VoWj6"
       },
@@ -1245,7 +1333,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 236571,
       "name": "Nandiyan Pa Ba? (feat. Josh Villena of Autotelic, Bayang Barrios & 6cyclemind kids)",
       "url": "https://open.spotify.com/track/38TWELRTS1gCaGY1FFmrWN"
@@ -1339,6 +1427,24 @@
       "duration_ms": 166569,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/5d9QunA2YMB6gKQ65fE8cs"
+    },
+    {
+      "album": {
+        "name": "Paanong Gagawin?",
+        "url": "https://open.spotify.com/album/0EyU8kruF6GrZii2c5GfQM"
+      },
+      "artists": [
+        {
+          "name": "Kristina Dawn",
+          "url": "https://open.spotify.com/artist/5Two5JCWeQdaAbGKUFQx8d"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185783,
+      "name": "Paanong Gagawin?",
+      "url": "https://open.spotify.com/track/4j2kQpKR86BfqWOAFqZ8oj"
     },
     {
       "album": {
@@ -1505,7 +1611,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 263571,
       "name": "PLANETA",
       "url": "https://open.spotify.com/track/1g3bRh2QMoIFsDqjxSrALk"
@@ -1679,7 +1785,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 161632,
       "name": "Sabik",
       "url": "https://open.spotify.com/track/4TFRpNfvdaW1sNmoUtZ5fV"
@@ -1781,6 +1887,28 @@
       "duration_ms": 228553,
       "name": "SITWASYONSHIP",
       "url": "https://open.spotify.com/track/0wNf0yIreg4A8C5ZUY6b6Q"
+    },
+    {
+      "album": {
+        "name": "SOBRANG SOLID",
+        "url": "https://open.spotify.com/album/7GZveuL9U8QsWEQFeG7pyC"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "NEXXFRIDAY",
+          "url": "https://open.spotify.com/artist/6yWj0mvdzglZZDHa0FHmpd"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "SOBRANG SOLID",
+      "url": "https://open.spotify.com/track/0Ol6h1ldPVt1ARNYiYLZ6g"
     },
     {
       "album": {

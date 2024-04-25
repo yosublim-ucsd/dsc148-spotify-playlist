@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9GRpeH4CL0S.md) - [plain]
 
 > The greatest Alternative Rock songs through the decades\. Cover: Gorillaz
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,476 likes - 225 songs - 14 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,911 likes - 225 songs - 14 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 110956,
+  "num_followers": 110965,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGQwM2QxMGVkMWZjNGVhOTJmMDAxODFmMzhmMmFjZmQ3",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGFmMzFkMmQ3MTM3YmI2ZmU1YjEyYzY1ZGU5OWM1OGEy",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toby Keith 35 Biggest Hits",
-        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 214800,
-      "name": "Stays In Mexico",
-      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pull My Chain",
         "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 200973,
       "name": "My List",
       "url": "https://open.spotify.com/track/5WFDseVq6n2LnKQMByCYnj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toby Keith 35 Biggest Hits",
+        "url": "https://open.spotify.com/album/3UBjWaGRf6ppcvnJd9M9UC"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214800,
+      "name": "Stays In Mexico",
+      "url": "https://open.spotify.com/track/3EaUpHrrmoupWICI0uf6Y0"
     },
     {
       "added_at": null,

@@ -2,7 +2,7 @@
 
 ### [This Is Evaluna Montaner](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2XvZn2)
 
-> This Is Evaluna Montaner\. Los temas esenciales, todos en una lista.
+> This is Evaluna Montaner\. The essential tracks, all in one playlist.
 
 42 songs - 2 hr 24 min
 

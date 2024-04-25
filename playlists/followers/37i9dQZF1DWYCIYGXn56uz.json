@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 383194,
+  "2024-04-25": 383157,
   "date_first_scraped": "2023-03-28",
   "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Will",
   "name": "GENERAZIONE Z",
@@ -3126,7 +3126,7 @@
     },
     {
       "album": {
-        "name": "JAKARTA (feat. Pepe)",
+        "name": "JAKARTA",
         "url": "https://open.spotify.com/album/6o66691lBA17fu0kiLhK8F"
       },
       "artists": [
@@ -3143,7 +3143,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198888,
-      "name": "JAKARTA (feat. Pepe)",
+      "name": "JAKARTA",
       "url": "https://open.spotify.com/track/6i1GnFUtvsb2yRX8PtrDqs"
     },
     {
@@ -4905,12 +4905,12 @@
       },
       "artists": [
         {
-          "name": "Astol",
-          "url": "https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy"
-        },
-        {
           "name": "Lortex",
           "url": "https://open.spotify.com/artist/0ItmqfCN0IYX9N8LcDHj45"
+        },
+        {
+          "name": "Astol",
+          "url": "https://open.spotify.com/artist/13LaDWlkqsIjVkIA9Hdciy"
         },
         {
           "name": "Donis & Dazzo",

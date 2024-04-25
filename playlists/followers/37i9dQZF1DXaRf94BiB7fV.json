@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 51159,
+  "2024-04-25": 51162,
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Divyam Sodhi & Khwaab, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: DAWgeek, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2560,6 +2560,28 @@
     },
     {
       "album": {
+        "name": "Berukh Hai Hum",
+        "url": "https://open.spotify.com/album/6KVvpw8RcFj5aO0nm4kvR3"
+      },
+      "artists": [
+        {
+          "name": "DAWgeek",
+          "url": "https://open.spotify.com/artist/1ZQrXHNpfWtP9jIzUSoSFD"
+        },
+        {
+          "name": "Neha Karode",
+          "url": "https://open.spotify.com/artist/4GUWRLqQ58vGlU9aIfC9QN"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197007,
+      "name": "Berukh Hai Hum",
+      "url": "https://open.spotify.com/track/6ZQNURIWEs7XMVB93nmM5a"
+    },
+    {
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/2LbRnmHDvZvsN0Ag8uC2at"
       },
@@ -2943,7 +2965,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 216315,
       "name": "Bruises",
       "url": "https://open.spotify.com/track/650qKFoyAxyYawbiAsp04j"
@@ -4692,6 +4714,28 @@
     },
     {
       "album": {
+        "name": "Dil Ke Dhaage",
+        "url": "https://open.spotify.com/album/4lrkdUlFIwbchQ8s0ySYcc"
+      },
+      "artists": [
+        {
+          "name": "Purple Stringz",
+          "url": "https://open.spotify.com/artist/4Iehn39e1T1sd4LfVqHXWB"
+        },
+        {
+          "name": "Prim4l",
+          "url": "https://open.spotify.com/artist/7xPjYvBpWN3dypuCZfi6Z9"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243433,
+      "name": "Dil Ke Dhaage",
+      "url": "https://open.spotify.com/track/2kgy2YRT9Sw63x1cTIQyeI"
+    },
+    {
+      "album": {
         "name": "Dil Khaali",
         "url": "https://open.spotify.com/album/3TReouJorynAbM6ANTWtyo"
       },
@@ -5605,7 +5649,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 296000,
       "name": "Ek Arsa",
       "url": "https://open.spotify.com/track/4NYcNzYKksQNHqq2YqDxfS"
@@ -7052,6 +7096,36 @@
     },
     {
       "album": {
+        "name": "Guzra Zamana",
+        "url": "https://open.spotify.com/album/2crcjqZRtaYMEMN6qnaYtG"
+      },
+      "artists": [
+        {
+          "name": "Ankkit Singh",
+          "url": "https://open.spotify.com/artist/3UXS7C1BeRwPNkwj5DNvxd"
+        },
+        {
+          "name": "Moolmantra",
+          "url": "https://open.spotify.com/artist/1f9q5W6Ex45WBNhKunAEwB"
+        },
+        {
+          "name": "Unnati Davara",
+          "url": "https://open.spotify.com/artist/50xHBUBYRbSZ9NVmkcHvBj"
+        },
+        {
+          "name": "Sehban Azim",
+          "url": "https://open.spotify.com/artist/0dQJx01PdA03SaWcncZvLX"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363176,
+      "name": "Guzra Zamana",
+      "url": "https://open.spotify.com/track/1CFXr04gdUgdu72Hq8sTt5"
+    },
+    {
+      "album": {
         "name": "halo in the dark.",
         "url": "https://open.spotify.com/album/29Jyi7q0DmmSJdFKQWqjcM"
       },
@@ -7161,7 +7235,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 197684,
       "name": "Hassi (Zindagi)",
       "url": "https://open.spotify.com/track/7dIijILxAPosJlrTELjmt0"
@@ -11502,6 +11576,24 @@
     },
     {
       "album": {
+        "name": "Kiske Liye",
+        "url": "https://open.spotify.com/album/4XHF1sFzPETXrSR7EvZ9JS"
+      },
+      "artists": [
+        {
+          "name": "Ronit Vohra",
+          "url": "https://open.spotify.com/artist/5jOD38xgCfgiGT7z6eWxw0"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206249,
+      "name": "Kiske Liye",
+      "url": "https://open.spotify.com/track/6ALz5MWfAnHLEuGUlVN4Ms"
+    },
+    {
+      "album": {
         "name": "Kiss Me",
         "url": "https://open.spotify.com/album/6BV9SDxODAF0q64EziaJ6T"
       },
@@ -13079,7 +13171,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 231081,
       "name": "Mann",
       "url": "https://open.spotify.com/track/0SyNKe3xMrLV1bto6i2zhi"
@@ -14132,6 +14224,32 @@
     },
     {
       "album": {
+        "name": "Moti",
+        "url": "https://open.spotify.com/album/0jLnN2JVWv52ARNu6DjxHV"
+      },
+      "artists": [
+        {
+          "name": "Hrutul",
+          "url": "https://open.spotify.com/artist/6AoIk9DDhoc4bl1UlMNL6A"
+        },
+        {
+          "name": "Tirth Thakkar",
+          "url": "https://open.spotify.com/artist/3b98XmPzCYNOIX2m8GzqAf"
+        },
+        {
+          "name": "Divya Vora",
+          "url": "https://open.spotify.com/artist/0ifjq1FPbzQ8BWEzL4Djp4"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225599,
+      "name": "Moti",
+      "url": "https://open.spotify.com/track/328NG89XHn6XHYUsK5Yd1q"
+    },
+    {
+      "album": {
         "name": "Moved On",
         "url": "https://open.spotify.com/album/5LQiWJEJXTvu8ouRIoWfft"
       },
@@ -14223,7 +14341,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 221905,
       "name": "Murky Waters",
       "url": "https://open.spotify.com/track/1u7B9MawFxR9krbYw2C2Ea"
@@ -14866,6 +14984,44 @@
     },
     {
       "album": {
+        "name": "No Vices",
+        "url": "https://open.spotify.com/album/0kDN3Si9tTnOahUBSheCfq"
+      },
+      "artists": [
+        {
+          "name": "Jaimin",
+          "url": "https://open.spotify.com/artist/2yHl2ywtGURKuL3QeFPbRv"
+        },
+        {
+          "name": "Kadambari Zokarkar",
+          "url": "https://open.spotify.com/artist/0UnbYjdU25HiOZxpZUwXKF"
+        },
+        {
+          "name": "Pradyumna Singh Manot",
+          "url": "https://open.spotify.com/artist/1zD7QQJJWPfBChpd4gr3lC"
+        },
+        {
+          "name": "Charles Parker Mertens",
+          "url": "https://open.spotify.com/artist/37XAa84VecRp01Z1vXzeF0"
+        },
+        {
+          "name": "Anchit Sengupta",
+          "url": "https://open.spotify.com/artist/0xXWeEnk4wmJbpVodBad2i"
+        },
+        {
+          "name": "Arjun Chakraborty",
+          "url": "https://open.spotify.com/artist/5nt7xhqFyfYtZtOrnuBAlX"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264191,
+      "name": "No Vices",
+      "url": "https://open.spotify.com/track/1vyT3ZvJmrZwHzRk8kp2Dw"
+    },
+    {
+      "album": {
         "name": "Noor",
         "url": "https://open.spotify.com/album/6nldQkUdWKO503C0K1zYl1"
       },
@@ -15309,7 +15465,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 63000,
       "name": "Outta My Way",
       "url": "https://open.spotify.com/track/4hhDb9CjEY4HuqviFY3KNH"
@@ -17088,6 +17244,28 @@
     },
     {
       "album": {
+        "name": "Roohbaru",
+        "url": "https://open.spotify.com/album/0oeoG480QLZEyN9yNBPigA"
+      },
+      "artists": [
+        {
+          "name": "MADDAY",
+          "url": "https://open.spotify.com/artist/77GXfjlaSUZVNQV8Lhx06s"
+        },
+        {
+          "name": "Amartian",
+          "url": "https://open.spotify.com/artist/268FyIfy3fY3kBJFBlVHEl"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242962,
+      "name": "Roohbaru",
+      "url": "https://open.spotify.com/track/3tcd2Dvo5c8u9rufJCucOk"
+    },
+    {
+      "album": {
         "name": "roshe.",
         "url": "https://open.spotify.com/album/7AYZWdX5ek0G3uStol4rPn"
       },
@@ -17437,6 +17615,24 @@
       "duration_ms": 170663,
       "name": "Saath Tum Mere",
       "url": "https://open.spotify.com/track/15b35KYNZzZW1TAvPrmPXW"
+    },
+    {
+      "album": {
+        "name": "Saavan",
+        "url": "https://open.spotify.com/album/4CANhyg7rbVrzJvba2TJnA"
+      },
+      "artists": [
+        {
+          "name": "miraan",
+          "url": "https://open.spotify.com/artist/5ZHUg7zjQ8sM9X650bodAt"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171214,
+      "name": "Saavan",
+      "url": "https://open.spotify.com/track/0kTTSKEauNeCYp9YWYDu8d"
     },
     {
       "album": {
@@ -18055,6 +18251,24 @@
       "duration_ms": 173666,
       "name": "Saza",
       "url": "https://open.spotify.com/track/5vl3NQ1ttgUr2pshh6nGtB"
+    },
+    {
+      "album": {
+        "name": "Saza",
+        "url": "https://open.spotify.com/album/6OTAFDoOYkMH6fn9muZ5wS"
+      },
+      "artists": [
+        {
+          "name": "Vincent Boral",
+          "url": "https://open.spotify.com/artist/0ZWcvDl5x0q79wjTREH2IH"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220323,
+      "name": "Saza",
+      "url": "https://open.spotify.com/track/0WMY7hiFm8rID3N2famaMC"
     },
     {
       "album": {
@@ -18805,7 +19019,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 195506,
       "name": "Spotlight",
       "url": "https://open.spotify.com/track/1Wjh698gFxj4PybqwMkZTy"
@@ -19516,6 +19730,24 @@
     },
     {
       "album": {
+        "name": "Tasveer",
+        "url": "https://open.spotify.com/album/3cs4twaHMoreHZ2ci9DkmQ"
+      },
+      "artists": [
+        {
+          "name": "Pulkit Jain",
+          "url": "https://open.spotify.com/artist/1XUV920NkslALtUg2Msk4U"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194307,
+      "name": "Tasveer",
+      "url": "https://open.spotify.com/track/1yXjnMoQ0efLuS9ITfLIJ1"
+    },
+    {
+      "album": {
         "name": "Khidhki",
         "url": "https://open.spotify.com/album/7k3oL8GeSMNFcJBcjZcnew"
       },
@@ -19737,7 +19969,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 181594,
       "name": "Tere Liye",
       "url": "https://open.spotify.com/track/66uV9XKf1T1jEWsQlEYD7i"
@@ -22173,7 +22405,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 143333,
       "name": "We're Stars",
       "url": "https://open.spotify.com/track/6LuVUoYKHSHjRnHXackkNJ"

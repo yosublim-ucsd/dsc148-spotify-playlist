@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 73937,
+  "2024-04-25": 73942,
   "date_first_scraped": "2021-12-28",
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
   "name": "Norske viser",
@@ -663,7 +663,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2022-08-19",
+      "date_removed": null,
       "duration_ms": 193079,
       "name": "Det begynner \u00e5 bli et liv",
       "url": "https://open.spotify.com/track/6y8CZLX2vn58EVpjOejesi"
@@ -1819,7 +1819,7 @@
       ],
       "date_added": "2023-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 154444,
       "name": "Han er ikkje deg",
       "url": "https://open.spotify.com/track/7cRsdtV7gS336CqQwgRM4M"

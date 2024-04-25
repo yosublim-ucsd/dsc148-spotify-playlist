@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 68550,
+  "2024-04-25": 68572,
   "date_first_scraped": "2022-02-21",
-  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover: tuki.",
+  "description": "Spotify\u304c\u6ce8\u76ee\u3059\u308b\u30cb\u30e5\u30fc\u30ab\u30de\u30fc\u30fb\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8\u3002Cover:\u5341\u660e",
   "name": "RADAR: Early Noise ",
   "tracks": [
     {
@@ -1451,6 +1451,24 @@
       "duration_ms": 211266,
       "name": "bathroom",
       "url": "https://open.spotify.com/track/2lNJGoEJX2FpJDUGZRIuu0"
+    },
+    {
+      "album": {
+        "name": "Beautiful Days",
+        "url": "https://open.spotify.com/album/0sxo4N0m8NZOfge4xZ0STq"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152500,
+      "name": "Beautiful Days",
+      "url": "https://open.spotify.com/track/2eGVreND1HLkJbC6FDNnAn"
     },
     {
       "album": {
@@ -4672,6 +4690,24 @@
     },
     {
       "album": {
+        "name": "The Gourd Ailand",
+        "url": "https://open.spotify.com/album/4IxtHzU8PE8jjWfh3jsPLL"
+      },
+      "artists": [
+        {
+          "name": "omeme tenten",
+          "url": "https://open.spotify.com/artist/0uwxPKyoIIT8WIQLYpXSFC"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182174,
+      "name": "favorite jinx",
+      "url": "https://open.spotify.com/track/46EOK7ad6RhG1gwFdpeq5t"
+    },
+    {
+      "album": {
         "name": "feat. \u3042\u306a\u305f",
         "url": "https://open.spotify.com/album/6eXHmzEFeY1Q3Hwvz793j7"
       },
@@ -4683,7 +4719,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 200173,
       "name": "feat. \u3042\u306a\u305f",
       "url": "https://open.spotify.com/track/1Y8w8X8vqCcruiNXVqrGPt"
@@ -4701,7 +4737,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 184214,
       "name": "Feel The Same",
       "url": "https://open.spotify.com/track/6yzc8hNAysupCM89UNzggh"
@@ -6361,7 +6397,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 240933,
       "name": "Hollywood",
       "url": "https://open.spotify.com/track/3aOVI6YoZNX2FPE6rFcGZK"
@@ -6971,6 +7007,24 @@
       "duration_ms": 213745,
       "name": "In Our Town (Machi no Thema)",
       "url": "https://open.spotify.com/track/6ySroP2ie6CIR97pfrE671"
+    },
+    {
+      "album": {
+        "name": "In The City",
+        "url": "https://open.spotify.com/album/410yKxb03zRnjmb6k2VZCs"
+      },
+      "artists": [
+        {
+          "name": "magicHour",
+          "url": "https://open.spotify.com/artist/1qoz9VuS349JOH8M6E5LEQ"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189583,
+      "name": "In The City",
+      "url": "https://open.spotify.com/track/0tBqXKUyp2Oc4fVUGZWVh9"
     },
     {
       "album": {
@@ -9715,6 +9769,24 @@
       "duration_ms": 303808,
       "name": "Nevermore",
       "url": "https://open.spotify.com/track/25McpBGoKrqT8zRgBAoLwU"
+    },
+    {
+      "album": {
+        "name": "NEW ERA",
+        "url": "https://open.spotify.com/album/3htICbV2jG4NvRMwsxIRu2"
+      },
+      "artists": [
+        {
+          "name": "Toaka",
+          "url": "https://open.spotify.com/artist/0xFsJRSOYJmmuozISzreTR"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185555,
+      "name": "NEW ERA",
+      "url": "https://open.spotify.com/track/1asOZNLcDul6HBXArmOqYn"
     },
     {
       "album": {
@@ -22265,6 +22337,24 @@
     {
       "album": {
         "name": "\u521d\u604b",
+        "url": "https://open.spotify.com/album/02ULCKviJRoFg00ml8AL45"
+      },
+      "artists": [
+        {
+          "name": "Blooming Bungei",
+          "url": "https://open.spotify.com/artist/2IPuwNd2QsC2AXZ9gBW7d1"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "\u521d\u604b",
+      "url": "https://open.spotify.com/track/2ZHMS6pqwf4umlsmZfsS9W"
+    },
+    {
+      "album": {
+        "name": "\u521d\u604b",
         "url": "https://open.spotify.com/album/5j59Yk7RbdJTsfxWprg2hD"
       },
       "artists": [
@@ -22661,7 +22751,7 @@
       ],
       "date_added": "2024-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 274425,
       "name": "\u56fd\u9053",
       "url": "https://open.spotify.com/track/3npeD02s5dotM8fePwOlko"
@@ -25547,7 +25637,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 221763,
       "name": "\u7070\u304b\u3076\u308a",
       "url": "https://open.spotify.com/track/42u1tC79WuOEhMH8JnXyWn"
@@ -27165,7 +27255,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 205600,
       "name": "\u91d1\u6728\u7280",
       "url": "https://open.spotify.com/track/1VlUWjaVvYriHH6luqNndp"
@@ -27529,6 +27619,24 @@
       "duration_ms": 175998,
       "name": "\u9b3c\u30ce\u5bb4",
       "url": "https://open.spotify.com/track/096KHkONhQm4MQNH35mU22"
+    },
+    {
+      "album": {
+        "name": "\u9b54\u6027\u306e\u5973A",
+        "url": "https://open.spotify.com/album/5G0oUO9nPLkRRxU4mBWYgn"
+      },
+      "artists": [
+        {
+          "name": "\u7d2b \u4eca",
+          "url": "https://open.spotify.com/artist/0iWST9kIo1KHBRQ5mYAqmY"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220833,
+      "name": "\u9b54\u6027\u306e\u5973A",
+      "url": "https://open.spotify.com/track/5HxH3gGdJx18CUuCFg61Lg"
     },
     {
       "album": {

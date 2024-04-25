@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Worship 2024 \| Your favorite praise and worship songs of 2024\. Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,133 likes - 118 songs - 11 hr 1 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 117,122 likes - 118 songs - 11 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

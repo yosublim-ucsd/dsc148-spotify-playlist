@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDllZjYxZDFkZDNjMWY0MDM4MWFiZmNkZTY1MGY4MzNj",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDU5YmNkZDEyOTliNzNmM2Y3YTU5YjVhNTI5NThhY2Rl",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mind Yo Business (Feat. Latto)",
+        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "Latto",
+          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+        }
+      ],
+      "duration_ms": 122266,
+      "name": "Mind Yo Business (Feat. Latto)",
+      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bitch Duh (Remix)",
         "url": "https://open.spotify.com/album/5Jnm3UWiuxJMcsn443Vb3i"
       },
@@ -91,26 +111,6 @@
       "duration_ms": 172235,
       "name": "Bitch Duh (Remix)",
       "url": "https://open.spotify.com/track/4mu8JZ7AQKkSYk1DNBKjZT"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mind Yo Business (Feat. Latto)",
-        "url": "https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk"
-      },
-      "artists": [
-        {
-          "name": "Lakeyah",
-          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
-        }
-      ],
-      "duration_ms": 122266,
-      "name": "Mind Yo Business (Feat. Latto)",
-      "url": "https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja"
     },
     {
       "added_at": null,

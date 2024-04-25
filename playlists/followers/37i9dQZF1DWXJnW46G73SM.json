@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 127102,
+  "2024-04-25": 127105,
   "date_first_scraped": "2021-12-28",
   "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627\ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u0631\u0627\u0645\u064a \u062c\u0645\u0627\u0644\n",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
@@ -879,7 +879,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 194454,
       "name": "Ala Bali",
       "url": "https://open.spotify.com/track/6QHUAy3VluFJuVSiGRpPCu"
@@ -12124,6 +12124,24 @@
     },
     {
       "album": {
+        "name": "\u0623\u0646\u0627 \u0627\u0644\u0646\u062f\u0644",
+        "url": "https://open.spotify.com/album/6kuuM31USrZHwLNX9xwvW7"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159157,
+      "name": "\u0623\u0646\u0627 \u0627\u0644\u0646\u062f\u0644",
+      "url": "https://open.spotify.com/track/5jnggsioZ2JbgjDZq2KrPV"
+    },
+    {
+      "album": {
         "name": "\u0623\u0647\u0644\u0627\u064b \u064a\u0627 \u0639\u0635\u0627\u0628\u0629",
         "url": "https://open.spotify.com/album/67t7ewVf6XgYiRMGU5oEIc"
       },
@@ -15396,6 +15414,24 @@
     },
     {
       "album": {
+        "name": "\u0641\u064a \u0628\u064a\u062a\u0647\u0627",
+        "url": "https://open.spotify.com/album/0InYuGw4GTOFh2G6wrGuf3"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Gamal",
+          "url": "https://open.spotify.com/artist/37ZFIxEwsxUpd09dNpRMVj"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211944,
+      "name": "\u0641\u064a \u0628\u064a\u062a\u0647\u0627",
+      "url": "https://open.spotify.com/track/48mtjvHdCVeGn7R5lns0vY"
+    },
+    {
+      "album": {
         "name": "\u0641\u064a \u062e\u064a\u0627\u0644\u064a - Fe Khyaly",
         "url": "https://open.spotify.com/album/5GN7aPZwB7li3qxOI5dgLe"
       },
@@ -15985,7 +16021,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 168803,
       "name": "\u0644\u0648 \u0633\u0627\u0645\u062d\u0646\u0627",
       "url": "https://open.spotify.com/track/0mPK1phdFDMa38fY9FmByI"
@@ -16003,7 +16039,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 202800,
       "name": "\u0644\u0648 \u064a\u0631\u062c\u0639",
       "url": "https://open.spotify.com/track/0Qcvtb92fzNlgM34hQrY0s"
@@ -16881,6 +16917,24 @@
       "duration_ms": 231130,
       "name": "\u0648\u0627\u062d\u0634\u0646\u064a \u0646\u0641\u0633\u064a - \u062a\u062a\u0631 \u0628\u062f\u0627\u064a\u0647 \u0645\u0633\u0644\u0633\u0644 \u062c\u0639\u0641\u0631 \u0627\u0644\u0639\u0645\u062f\u0647",
       "url": "https://open.spotify.com/track/1WxfSAzZvFpAskwfTQcd58"
+    },
+    {
+      "album": {
+        "name": "\u0648\u0627\u0644\u0644\u0647",
+        "url": "https://open.spotify.com/album/4VXKepecSRxXQgWut9g2Rp"
+      },
+      "artists": [
+        {
+          "name": "Ali Loka",
+          "url": "https://open.spotify.com/artist/2llLuXpn4BLMUltSxkkcJ1"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "\u0648\u0627\u0644\u0644\u0647",
+      "url": "https://open.spotify.com/track/1yIC2CxzGZzec1f9VCxEai"
     },
     {
       "album": {

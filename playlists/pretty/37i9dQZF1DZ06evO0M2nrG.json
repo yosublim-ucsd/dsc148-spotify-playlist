@@ -1,12 +1,12 @@
 {
-  "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 65568,
+  "description": "This is Mike Bah\u00eda. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 65566,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDIyYWY4NzUzZGRlODhlNTEwYmNjZmM0Mzk2NGRjOWZk",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDA5ODc0NmQ4YThiMzNjYWRjOWU4ZjlkMzBiOGViZjYx",
   "tracks": [
     {
       "added_at": null,
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 161860,
-      "name": "Sufrimos De Lo Mismo",
-      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
+      "duration_ms": 183092,
+      "name": "Qu\u00e9date Aqu\u00ed",
+      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
     },
     {
       "added_at": null,
@@ -572,9 +572,9 @@
           "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
         }
       ],
-      "duration_ms": 183092,
-      "name": "Qu\u00e9date Aqu\u00ed",
-      "url": "https://open.spotify.com/track/3BACFM8lX32l9N6jVqxsiY"
+      "duration_ms": 161860,
+      "name": "Sufrimos De Lo Mismo",
+      "url": "https://open.spotify.com/track/4MfgiylBOsMHirFwqSJssN"
     },
     {
       "added_at": null,
@@ -623,26 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 182926,
-      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
-      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Enemiga",
         "url": "https://open.spotify.com/album/0uAiQ6Ul6cmEZp0py1AQpD"
       },
@@ -659,6 +639,26 @@
       "duration_ms": 206237,
       "name": "Tu Enemiga",
       "url": "https://open.spotify.com/track/3NxJKoYi9WMBuZdk4UdJuK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+        "url": "https://open.spotify.com/album/4r5UeVObvgWb1a6L1tXonA"
+      },
+      "artists": [
+        {
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 182926,
+      "name": "Si t\u00fa te vas (feat. Mike Bah\u00eda)",
+      "url": "https://open.spotify.com/track/3CpQ9L1ReRdPXIhxB5TDWt"
     },
     {
       "added_at": null,
@@ -707,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "D\u00e9jame",
+        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
+      },
+      "artists": [
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 189679,
+      "name": "D\u00e9jame",
+      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Darte Amor",
         "url": "https://open.spotify.com/album/7H167tMzZ3uBzn5ZAweO7W"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 189250,
       "name": "Darte Amor",
       "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D\u00e9jame",
-        "url": "https://open.spotify.com/album/0wsNEg43tjHfK862JUUeXF"
-      },
-      "artists": [
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 189679,
-      "name": "D\u00e9jame",
-      "url": "https://open.spotify.com/track/7MhVLCLbMMKKg3gJCxsGey"
     },
     {
       "added_at": null,

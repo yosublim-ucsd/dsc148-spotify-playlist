@@ -1,12 +1,12 @@
 {
   "description": "This is Isadora Pompeo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 104734,
+  "num_followers": 104724,
   "original_name": "This Is Isadora Pompeo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGUzNjZjZTQ1YTNlNDdmYWU1NGUzY2Y5YjU2YjAxYzA3",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDcxN2MyM2E4NWM2NTM4NmJjMTkxYWIyYjdkMjcyOWJl",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Confio em Ti",
+        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
+      },
+      "artists": [
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
+        },
+        {
+          "name": "Isadora Pompeo",
+          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
+        }
+      ],
+      "duration_ms": 252453,
+      "name": "Confio em Ti",
+      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Seu Amor",
         "url": "https://open.spotify.com/album/08J3DhJqaCRwIGeIZL7FBl"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 192402,
       "name": "Seu Amor",
       "url": "https://open.spotify.com/track/0MUqcBCI1UV1LezKrBh7dG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Confio em Ti",
-        "url": "https://open.spotify.com/album/1UHI806hrGV9QVZFjq7xJB"
-      },
-      "artists": [
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        },
-        {
-          "name": "Isadora Pompeo",
-          "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
-        }
-      ],
-      "duration_ms": 252453,
-      "name": "Confio em Ti",
-      "url": "https://open.spotify.com/track/3UBwVX5qweI2yIrkvLjRzM"
     },
     {
       "added_at": null,
@@ -775,8 +775,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 Anos",
-        "url": "https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z"
+        "name": "Azeite (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 199338,
-      "name": "10 Anos",
-      "url": "https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m"
+      "duration_ms": 272786,
+      "name": "Azeite - Ao Vivo",
+      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
     },
     {
       "added_at": null,
@@ -811,8 +811,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Azeite (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7GnXwS8TebApYSBsIeRRnf"
+        "name": "10 Anos",
+        "url": "https://open.spotify.com/album/5BqkDaAaj07vQuxqNgPx4z"
       },
       "artists": [
         {
@@ -820,9 +820,9 @@
           "url": "https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB"
         }
       ],
-      "duration_ms": 272786,
-      "name": "Azeite - Ao Vivo",
-      "url": "https://open.spotify.com/track/6pVm1C9RyzEZJI0o643h74"
+      "duration_ms": 199338,
+      "name": "10 Anos",
+      "url": "https://open.spotify.com/track/6FN0YpMMkDM3ziaH14MC9m"
     },
     {
       "added_at": null,

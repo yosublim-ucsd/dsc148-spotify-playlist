@@ -1,12 +1,12 @@
 {
-  "description": "This Is M\u00e5neskin. Los temas esenciales, todos en una lista.",
+  "description": "This is M\u00e5neskin. The essential tracks, all in one playlist.",
   "num_followers": 5154,
   "original_name": "This Is M\u00e5neskin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDY4ZGQ0ZTU5YWY2ZGE0ZDI0NWE1ZmZkMTkwODFlZjRh",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGE1OWJjYzA1MGNjYWFjOWU0NTM1YjZjNjMyZGUyYjU2",
   "tracks": [
     {
       "added_at": null,
@@ -107,8 +107,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teatro d'ira - Vol. I",
-        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
+        "name": "Il ballo della vita",
+        "url": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
       },
       "artists": [
         {
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 194786,
-      "name": "ZITTI E BUONI",
-      "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
+      "duration_ms": 126706,
+      "name": "L'altra dimensione",
+      "url": "https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa"
     },
     {
       "added_at": null,
@@ -159,8 +159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Il ballo della vita",
-        "url": "https://open.spotify.com/album/44a7Wk3Jh2JGVhjcFYWozj"
+        "name": "Teatro d'ira - Vol. I",
+        "url": "https://open.spotify.com/album/7KF1Ain9mYYlg5M46g0i4A"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
         }
       ],
-      "duration_ms": 126706,
-      "name": "L'altra dimensione",
-      "url": "https://open.spotify.com/track/36ONZ2CvV8KsLPapNPGTqa"
+      "duration_ms": 194786,
+      "name": "ZITTI E BUONI",
+      "url": "https://open.spotify.com/track/776AftMmFFAWUIEAb3lHhw"
     },
     {
       "added_at": null,

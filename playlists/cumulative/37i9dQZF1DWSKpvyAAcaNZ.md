@@ -2,9 +2,9 @@
 
 ### [Blues & Roots Rock](https://open.spotify.com/playlist/37i9dQZF1DWSKpvyAAcaNZ)
 
-> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Ben Harper
+> It's edgy, innovative, and rooted in soul, folk, Americana, and of course, the blues\. Cover: Gary Clark Jr.
 
-318 songs - 20 hr 10 min
+321 songs - 20 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Baby We're Through](https://open.spotify.com/track/138LkLoWuHhs4eteMxjPde) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [You Broke Me](https://open.spotify.com/album/6FUkiLmFmp38aCV9DP6vAh) | 3:56 | 2023-06-30 | 2024-04-19 |
 | [Baby We're Through](https://open.spotify.com/track/2TQjuRQINEQxEWpqaGZM7F) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [Baby We're Through](https://open.spotify.com/album/07BLwEv9lflgXcyLqihBNU) | 3:56 | 2022-02-25 |  |
 | [Bad Things](https://open.spotify.com/track/3lwBgpUnYL2pnPGRlWEkd9) | [Rayland Baxter](https://open.spotify.com/artist/251UrhgNbMr15NLzQ2KyKq) | [Ashkelon](https://open.spotify.com/album/4Hg3nMjHlIr0wtswiknM5z) | 5:13 | 2021-12-17 | 2022-06-18 |
-| [Be Enough](https://open.spotify.com/track/2bZQo6fEj21r1gDz8nKBbq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Be Enough](https://open.spotify.com/album/23MBziPP4TVvxaRjIsi3Px) | 4:12 | 2022-06-24 |  |
+| [Be Enough](https://open.spotify.com/track/2bZQo6fEj21r1gDz8nKBbq) | [Ariel Posen](https://open.spotify.com/artist/2eiy8nxhJQnnBYMMXR6u5y) | [Be Enough](https://open.spotify.com/album/23MBziPP4TVvxaRjIsi3Px) | 4:12 | 2022-06-24 | 2024-04-25 |
 | [Better Feeln' Better Days](https://open.spotify.com/track/3zkdaLqbeTXcIyJnMAwA35) | [KaiL Baxley](https://open.spotify.com/artist/3fV14PAU0MWFaj0Kt8MDWx) | [A Light That Never Dies](https://open.spotify.com/album/3bVTjHIf9SQb5azkxNTVVE) | 3:43 | 2021-12-17 | 2022-06-04 |
 | [Better Way](https://open.spotify.com/track/39hd4z3UN6ueATWaXqNfPn) | [Kim Logan](https://open.spotify.com/artist/3GSKpbKZfN9fIucqq2Iprh) | [Better Way](https://open.spotify.com/album/1Q3V2eobeVSrN3CQP78sWK) | 4:04 | 2021-12-17 | 2022-07-23 |
 | [Black Crow](https://open.spotify.com/track/2Mf0weOgnhLU7KIoMI6lLo) | [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [Kiss Somebody \- Country Favorites](https://open.spotify.com/album/01yzvQ3kzsbUsQFJyF33yi) | 4:30 | 2022-09-30 | 2022-11-13 |
@@ -72,7 +72,7 @@
 | [Don't Give Up](https://open.spotify.com/track/3CjgKNCLVh3TTVClRgoCZZ) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Don't Give Up](https://open.spotify.com/album/1lzlt8bvtCKmHoaBkAiN4g) | 4:42 | 2021-12-17 |  |
 | [Don't Let the Green Grass Fool You](https://open.spotify.com/track/5THq6PaoknpouVWXSYb7TQ) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU), [The Midnight Band](https://open.spotify.com/artist/4QIUZHZcicCxWwPhdxIoFR) | [Don't Let the Green Grass Fool You](https://open.spotify.com/album/6YbAF3vpQIHA0XXa4GzS5A) | 3:45 | 2021-12-17 |  |
 | [Don't Strike Me Down](https://open.spotify.com/track/3XWoCqLGA0Hjnl2qVYiNgj) | [William Elliott Whitmore](https://open.spotify.com/artist/55N838yCXjxLVkBkIM5pnf) | [Radium Death](https://open.spotify.com/album/65eAnqYOKWp6MI6kWkw3XT) | 3:35 | 2021-12-17 |  |
-| [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 | 2021-12-17 |  |
+| [Down In the Flood](https://open.spotify.com/track/5U51nS2N1TDL1HEHEio7mC) | [The Derek Trucks Band](https://open.spotify.com/artist/1YwfENKEZrowcmtR1nALZn) | [Already Free](https://open.spotify.com/album/1I4Ydy7hVvINSdRHV7n4fS) | 5:02 | 2021-12-17 | 2024-04-25 |
 | [Downtown](https://open.spotify.com/track/2UvlS6WCq3F4BQNQU8OUnx) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Future Nostalgia](https://open.spotify.com/album/2oGPxBc6HlFVUcOanYz29E) | 3:35 | 2022-07-22 | 2023-12-02 |
 | [Downtown](https://open.spotify.com/track/7tpeg78Vs5xQw3dx2NwymI) | [The Sheepdogs](https://open.spotify.com/artist/4U33udokhmKATsu8UoqUEN) | [Downtown](https://open.spotify.com/album/6sYe6xExPwNCbGnjm8sFZ4) | 3:35 | 2021-12-17 | 2022-07-29 |
 | [Dreamcatchers](https://open.spotify.com/track/51F9dj6Hc3shNVFNNWi4sx) | [Odetta Hartman](https://open.spotify.com/artist/0fhRF7RN2smrrRXlB1S2GM) | [222](https://open.spotify.com/album/7xnWrKtdWfj3PjGmK6Tq1P) | 1:51 | 2022-07-22 | 2023-04-29 |
@@ -109,7 +109,7 @@
 | [Habbie Doobie](https://open.spotify.com/track/1fARuRnr9G2eD6oKwjXBc6) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [TX Jelly](https://open.spotify.com/album/40Zugqf29kw14VuFBFFSUY) | 6:16 | 2024-03-08 | 2024-04-19 |
 | [Habbie Doobie](https://open.spotify.com/track/6IpcOV0Re2M1l8APgqkTrJ) | [The Texas Gentlemen](https://open.spotify.com/artist/6EuVxyAGrWCKJtj5pRSHaw) | [Habbie Doobie](https://open.spotify.com/album/1OQaOXq9ss7U8IA9a7GhEk) | 6:16 | 2021-12-17 |  |
 | [Habits \- Radio Edit](https://open.spotify.com/track/2rgglZkiWfNuKupGuuvvdr) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [The Alt List](https://open.spotify.com/album/16qWGSLBRnDTTbz50GNPIS) | 3:31 | 2024-03-08 | 2024-04-19 |
-| [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 |  |
+| [Habits \- Radio Edit](https://open.spotify.com/track/4IPMVoDEzVAwwrNPqM0qmq) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp) | [Habits](https://open.spotify.com/album/6EiqbvEYWkkB7xmYwGQ3u6) | 3:31 | 2024-03-08 | 2024-04-25 |
 | [Hades Pleads](https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz) | [Parker Millsap](https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur) | [The Very Last Day](https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T) | 2:36 | 2021-12-17 |  |
 | [Half My Fault](https://open.spotify.com/track/5kHCIdvSRoDgt4Fzfi0U7P) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/35LXXukiQmYjZ9sRjpga2I) | 3:20 | 2021-12-17 |  |
 | [Half My Fault](https://open.spotify.com/track/7gucs6k5y19L9OfkuZ61ZP) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [A Little Calamity](https://open.spotify.com/album/7clOVsfQ9IkT4GjjTbtBEZ) | 3:20 | 2023-05-26 | 2024-04-19 |
@@ -137,6 +137,7 @@
 | [Hurry Up and Wait](https://open.spotify.com/track/1P0YruQuAFBmGgDxMM6gER) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Any Way, Shape or Form](https://open.spotify.com/album/2ToigbV7EfFQvSSwn3pqP7) | 3:03 | 2024-03-08 | 2024-04-19 |
 | [Hurry Up And Wait](https://open.spotify.com/track/3J9cIhqTC2KQT737cFexIo) | [Ben Miller Band](https://open.spotify.com/artist/692LYMl7s0bV6X3iduX5rG) | [Any Way, Shape Or Form](https://open.spotify.com/album/6ku0ECOC4mRbf3n2YGl81S) | 3:03 | 2021-12-17 |  |
 | [I Feel Love \(Every Million Miles\)](https://open.spotify.com/track/5gLr6cmDqa1FI4qhb7sUsw) | [The Dead Weather](https://open.spotify.com/artist/4AZab8zo2nTYd7ORDmQu0V) | [I Feel Love \(Every Million Miles\)](https://open.spotify.com/album/6nWrvRzCqL7lPL0HRIqfpU) | 3:15 | 2021-12-17 | 2022-06-04 |
+| [I Forgot To Be Your Lover](https://open.spotify.com/track/7DHlJLCXFlny3WhjnEL9qY) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:27 | 2024-04-24 |  |
 | [I Gotcha \- Rock Version](https://open.spotify.com/track/4lEfAkMl6Aq7YBG5g4neX5) | [Jimmy Barnes](https://open.spotify.com/artist/1k5aZWIOUbUfKcnMxtEivJ) | [I Gotcha \(Rock Version\)](https://open.spotify.com/album/7eGOKI22KNSI4B6BNmbGvw) | 4:24 | 2022-06-10 |  |
 | [I Killed Robert Johnson](https://open.spotify.com/track/6hb8MK0RcVOOxfpNDbZAIS) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/790mhPtbtIdMDRdZM3Jimz) | 5:25 | 2021-12-17 |  |
 | [I Killed Robert Johnson](https://open.spotify.com/track/7eogexfpzqrkrJ8Z6B9kHQ) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Bears & Bulls](https://open.spotify.com/album/53N4FKFKdWe2i5JeRgEOkt) | 5:25 | 2022-07-22 | 2024-04-19 |
@@ -190,6 +191,7 @@
 | [Mediterranean Blues](https://open.spotify.com/track/5L5zRByIRyGRGurVWwnWkT) | [Matt Phillips](https://open.spotify.com/artist/22BCyjczCSuALgagXSUm3p), [Phil Harmonic](https://open.spotify.com/artist/5szI3Z1nioD6Shb3QP3VBA) | [Move](https://open.spotify.com/album/1MqwG4kOK1G51LydYHqsV6) | 3:30 | 2021-12-17 |  |
 | [Mercy](https://open.spotify.com/track/5cR458T2K00QovnaTO8bSj) | [War & Pierce](https://open.spotify.com/artist/1YPZK8wRkpV1pyTD3OsgBh) | [Mercy](https://open.spotify.com/album/2Qb1mbVSoGlehiJewFUT57) | 3:40 | 2021-12-17 |  |
 | [Mockingbird](https://open.spotify.com/track/6NXWl8y3sGXZduzeNqhGp6) | [Quaker City Night Hawks](https://open.spotify.com/artist/521Jw1ixgckc0WJHhm2Klu) | [Mockingbird](https://open.spotify.com/album/6wtlrcgFPJd6axKzjPPZe2) | 3:19 | 2021-12-17 |  |
+| [Muddy Water](https://open.spotify.com/track/02FcRwLxP00Bwx3ZNTIMzw) | [Zach Person](https://open.spotify.com/artist/0lgtMXcZRhFOUU2ZPddLoA) | [Let's Get Loud](https://open.spotify.com/album/3p4c8IRujfvliWsiA0jS8n) | 4:48 | 2024-04-24 |  |
 | [My Babe](https://open.spotify.com/track/30jQJuhVI8riaN1K3TEwFA) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/7b81vGpyRoiuYEs56zPnUr) | 2:18 | 2021-12-17 |  |
 | [My Babe](https://open.spotify.com/track/5skNyajERDfPHvKNdzSpRU) | [Whitehorse](https://open.spotify.com/artist/3PSH5PsWfZQiD2wieKU0ss) | [My Babe](https://open.spotify.com/album/4bdKuZONP3UEQuLAHvmlTP) | 2:18 | 2022-07-22 | 2024-04-19 |
 | [Nashville Money](https://open.spotify.com/track/36XYWC37Rai5NjYNP8OHfD) | [Myron Elkins](https://open.spotify.com/artist/0jeJvES8frg5KT4HMg4NZi) | [Factories, Farms & Amphetamines](https://open.spotify.com/album/3ZUO4WvP0zVHg0vdchYGTr) | 3:33 | 2023-01-13 |  |
@@ -301,6 +303,7 @@
 | [We Need To Talk About It](https://open.spotify.com/track/1SWk8chKisB7HJvKizuf36) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 2:53 | 2022-07-22 |  |
 | [We Need To Talk About It](https://open.spotify.com/track/2oIBjeGgsdb5mEB7t32UzI) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [We Need To Talk About It](https://open.spotify.com/album/7BTfvWrBKPESCs1UKXrfYZ) | 2:53 | 2022-06-17 | 2022-07-23 |
 | [Weight of the World](https://open.spotify.com/track/1rV2EKQbWZMr4y7BXB0iEO) | [Texas Hill](https://open.spotify.com/artist/2Yl1rRB2mi1HPnXAuy9jqq) | [Weight of the World](https://open.spotify.com/album/1OXjOFCV8hg3VcCX5ggp3C) | 4:19 | 2024-03-08 |  |
+| [What About The Children](https://open.spotify.com/track/4bGTNdEbmrDlvqYJKRKJxR) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 4:39 | 2024-04-24 |  |
 | [What've I Done To Help](https://open.spotify.com/track/30kyfRMzJ7IxwQ5rEndvwn) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [What’ve I Done to Help](https://open.spotify.com/album/4woWpmM4ghIPQeo3bGmNSY) | 6:40 | 2021-12-17 |  |
 | [What've I Done to Help](https://open.spotify.com/track/3t8IB18uEO2pebnfLUv7B0) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf) | [Reunions](https://open.spotify.com/album/5XIafkwTpyvL7jjLJx1xKz) | 6:40 | 2022-07-22 | 2024-04-19 |
 | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/track/3o34F9z7g0SDeIAKWir4PR) | [Ida Mae](https://open.spotify.com/artist/3AhsxbcW6Bscf7xIPK02YK), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [When Eden Was My Girl \(feat\. Marcus King\)](https://open.spotify.com/album/3jR7qt6pFn6OBxRZDnyJqK) | 4:25 | 2023-03-24 |  |

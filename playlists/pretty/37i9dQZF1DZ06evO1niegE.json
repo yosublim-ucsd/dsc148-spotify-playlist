@@ -1,12 +1,12 @@
 {
-  "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 7161,
+  "description": "This Is RENEE. Los temas esenciales, todos en una lista.",
+  "num_followers": 7162,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDA3NmEyNzIyYzAwNzJjMTdlNGY3NDE1ZWJlMmFjM2Zj",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDg3YjQyNTI1NTdjZDgyNzAxYzU3YzI3Yzk3N2FjY2Vi",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Perfecto",
-        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
+        "name": "for good (with RENEE)",
+        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
       },
       "artists": [
         {
-          "name": "Estilo Sin Limite",
-          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
+          "name": "Danny Schiller",
+          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 152050,
-      "name": "Perfecto",
-      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
+      "duration_ms": 182481,
+      "name": "for good (with RENEE)",
+      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
     },
     {
       "added_at": null,
@@ -407,22 +407,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "for good (with RENEE)",
-        "url": "https://open.spotify.com/album/3WdMJuv0B4oYEZBaFVJI2H"
+        "name": "Perfecto",
+        "url": "https://open.spotify.com/album/5k6QNIKLvjMn4nfu3OV7Na"
       },
       "artists": [
         {
-          "name": "Danny Schiller",
-          "url": "https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC"
+          "name": "Estilo Sin Limite",
+          "url": "https://open.spotify.com/artist/3EhvqOxws7gMwok2Z9XOjd"
         },
         {
           "name": "RENEE",
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 182481,
-      "name": "for good (with RENEE)",
-      "url": "https://open.spotify.com/track/78HK0gO7EqqvTrxvnHX9VP"
+      "duration_ms": 152050,
+      "name": "Perfecto",
+      "url": "https://open.spotify.com/track/13ONDA0L1dvjt4j8mPU6g8"
     },
     {
       "added_at": null,
@@ -631,6 +631,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 187573,
+      "name": "Soy",
+      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Todo Te Da Igual",
         "url": "https://open.spotify.com/album/1nFx1eTuIFIgJDtNtVgfwU"
       },
@@ -647,22 +663,6 @@
       "duration_ms": 161000,
       "name": "Todo Te Da Igual",
       "url": "https://open.spotify.com/track/3GpXbieCpFyFhripXlvZLJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 187573,
-      "name": "Soy",
-      "url": "https://open.spotify.com/track/20uLEIzctSD6LCyCN8DI7R"
     },
     {
       "added_at": null,
@@ -711,6 +711,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Canto Tu Historia (VOL. 1)",
+        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 176173,
+      "name": "D\u00eda De Abril",
+      "url": "https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hardinero Sound",
         "url": "https://open.spotify.com/album/20CDeLYK9ZVLq1rUUv290j"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 183035,
       "name": "Madrugada",
       "url": "https://open.spotify.com/track/2Zq5sYodvD0MbWAlqUMSfE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Canto Tu Historia (VOL. 1)",
-        "url": "https://open.spotify.com/album/5GDSnouaflpMgpevTSYnKz"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 176173,
-      "name": "D\u00eda De Abril",
-      "url": "https://open.spotify.com/track/3ZoSR2D2UCPQMbuZJIRKzJ"
     },
     {
       "added_at": null,

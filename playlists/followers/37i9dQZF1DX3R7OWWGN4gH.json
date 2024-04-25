@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 1279051,
+  "2024-04-25": 1279219,
   "date_first_scraped": "2022-02-11",
   "description": "Who\u2019s afraid of little old me?",
   "name": "Villain Mode",
@@ -1095,7 +1095,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 228961,
       "name": "Comfortable",
       "url": "https://open.spotify.com/track/1BEioZa6o8AVDmOh5Sc86j"
@@ -2988,6 +2988,24 @@
     },
     {
       "album": {
+        "name": "LET THE WORLD BURN",
+        "url": "https://open.spotify.com/album/5QytORVSwlSBhDtikzvcV5"
+      },
+      "artists": [
+        {
+          "name": "Chris Grey",
+          "url": "https://open.spotify.com/artist/0F3maSKfGGVtfATaAyeyPG"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163290,
+      "name": "LET THE WORLD BURN",
+      "url": "https://open.spotify.com/track/1De425SCFJULIHbcmeebUw"
+    },
+    {
+      "album": {
         "name": "Vices & Virtues",
         "url": "https://open.spotify.com/album/5S0nsfYhHa1uz10V4yoWSL"
       },
@@ -3804,6 +3822,24 @@
     },
     {
       "album": {
+        "name": "Pretty Little Devil",
+        "url": "https://open.spotify.com/album/1FSU0DJC5861DJHdk2OTVw"
+      },
+      "artists": [
+        {
+          "name": "Shaya Zamora",
+          "url": "https://open.spotify.com/artist/4gmgH3IgZoetXRskbdI02q"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167690,
+      "name": "Pretty Little Devil",
+      "url": "https://open.spotify.com/track/3fxWcOWUQxapuKin9NhCcf"
+    },
+    {
+      "album": {
         "name": "Pretty Pills for Broken Hearts",
         "url": "https://open.spotify.com/album/3nCNqsMDqxkcXpNuEamhUA"
       },
@@ -4433,7 +4469,7 @@
       ],
       "date_added": "2022-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 117727,
       "name": "STRUT",
       "url": "https://open.spotify.com/track/749rod7GCmj0OVdumGfzVq"

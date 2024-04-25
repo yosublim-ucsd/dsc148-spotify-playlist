@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 541202,
+  "2024-04-25": 541156,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Norway.",
   "name": "Top 50 - Norway",
@@ -9344,6 +9344,28 @@
     },
     {
       "album": {
+        "name": "Feite Damer (The Broject)",
+        "url": "https://open.spotify.com/album/6NZYCNSPO4AZEcNovlkJSF"
+      },
+      "artists": [
+        {
+          "name": "\u00d8sen",
+          "url": "https://open.spotify.com/artist/37gAlZahvuBPUXHqeLfyVo"
+        },
+        {
+          "name": "Da D\u00f8nk Project",
+          "url": "https://open.spotify.com/artist/7k44tBmiqKcpDUMDbhQSbB"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Feite Damer (The Broject)",
+      "url": "https://open.spotify.com/track/1lMcrRsRphljbTorQk8Nav"
+    },
+    {
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/3No96PtEFyRfX1oELmZTPu"
       },
@@ -11399,7 +11421,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 254365,
       "name": "Guilty as Sin?",
       "url": "https://open.spotify.com/track/0W0iAC1VGlB82PI6elxFYf"
@@ -13593,6 +13615,24 @@
       "duration_ms": 140800,
       "name": "Hurts Me",
       "url": "https://open.spotify.com/track/0RBw4ODUQPO4cuAOZtBGga"
+    },
+    {
+      "album": {
+        "name": "hva om jeg slutta \u00e5 bry meg",
+        "url": "https://open.spotify.com/album/0r8iLgMrTIDdsa5ourX69b"
+      },
+      "artists": [
+        {
+          "name": "lille Caesar",
+          "url": "https://open.spotify.com/artist/79ydqO3TZ35NwkWtjyvugR"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186000,
+      "name": "hva om jeg slutta \u00e5 bry meg",
+      "url": "https://open.spotify.com/track/4X1EwzdgQpIIqzHO5HVYQ2"
     },
     {
       "album": {
@@ -18227,7 +18267,7 @@
       ],
       "date_added": "2024-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 277156,
       "name": "loml",
       "url": "https://open.spotify.com/track/6RSG1dKPV5gEvILwJb4QtS"
@@ -30119,7 +30159,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/0AjmK0Eai4zGrLaJwPvrDp"
@@ -30141,6 +30181,24 @@
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/4IadxL6BUymXlh8RCJJu7T"
+    },
+    {
+      "album": {
+        "name": "Unreal Unearth: Unheard",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251424,
+      "name": "Too Sweet",
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 
 > This is Davido\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,258 likes - 51 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,270 likes - 51 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0vEAMw.md) - [plain]
 | 50 | [Ke Star \(feat\. Virgo Deep\) \- Remix](https://open.spotify.com/track/71JcMmqaJ2rGxxTcufwkSg) | [Focalistic](https://open.spotify.com/artist/2GJMSZ7M3D0KyyKRhYgWju), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Virgo Deep](https://open.spotify.com/artist/4Ml0ZcVza4oApvqWK8K7wM) | [Ke Star \(feat\. Virgo Deep\) \[Remix\]](https://open.spotify.com/album/3YVMs7Ktt0s5Lt9vRCOcf3) | 5:28 |
 | 51 | [Dream Girl \- Global Remix](https://open.spotify.com/track/5Etwr8GddDDAwuTK84m5JI) | [Ir Sais](https://open.spotify.com/artist/4NEThNYJ3WyNcJWcmpjq88), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Dream Girl \(Global Remix\)](https://open.spotify.com/album/0sQ2hDPOvRDi71FSWB73JD) | 3:32 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDU0N2NjZWQxYTQ5NGUyODIxYmI2MGQyY2RkYTI5YTQy`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDAyNjRmODg3M2U3OTVlYzM5YTg5OGY1YTQ5YzY4Yzlm`

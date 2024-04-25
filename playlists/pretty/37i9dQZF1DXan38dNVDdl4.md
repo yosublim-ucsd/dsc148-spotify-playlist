@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXan38dNVDdl4.md) - [plain]
 
 > The biggest Dancehall playlist in the world\. Cover: Shenseea
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,356,365 likes - 79 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,356,295 likes - 79 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

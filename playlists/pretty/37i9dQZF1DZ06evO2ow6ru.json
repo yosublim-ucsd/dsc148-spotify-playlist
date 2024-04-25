@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 170912,
+  "num_followers": 170911,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDU4MDExODgwMzgwMTA5MTlhZWZiNTE1MWRkYWJlZGZj",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDNiZDYzMTkwNTM0ZjNiZDgzNjQ3MzMyYjlhZDRiYmY5",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 201075,
-      "name": "Backseat Serenade",
-      "url": "https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969"
+      "duration_ms": 224200,
+      "name": "Therapy",
+      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
     },
     {
       "added_at": null,
@@ -239,8 +239,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
       },
       "artists": [
         {
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 224200,
-      "name": "Therapy",
-      "url": "https://open.spotify.com/track/371Tb0eNfpjpSqggjcLv8c"
+      "duration_ms": 201075,
+      "name": "Backseat Serenade",
+      "url": "https://open.spotify.com/track/47eL0bckn5g3k5VBwgu969"
     },
     {
       "added_at": null,
@@ -267,6 +267,38 @@
       "duration_ms": 189418,
       "name": "Something's Gotta Give",
       "url": "https://open.spotify.com/track/1SeefzwSDiFCjRWaBslRIj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 187000,
+      "name": "Damned If I Do Ya (Damned If I Don't)",
+      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tell Me I'm Alive",
+        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 155562,
+      "name": "Tell Me I\u2019m Alive",
+      "url": "https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n"
     },
     {
       "added_at": null,
@@ -291,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tell Me I'm Alive",
-        "url": "https://open.spotify.com/album/0gPGmJSxuqrpvXiWdOLcRh"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 155562,
-      "name": "Tell Me I\u2019m Alive",
-      "url": "https://open.spotify.com/track/1H4BiYE8G4XuaKpVxvtJ4n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 187000,
-      "name": "Damned If I Do Ya (Damned If I Don't)",
-      "url": "https://open.spotify.com/track/4CDlYQu16nUtVGwgwqj3I3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Umbrella",
         "url": "https://open.spotify.com/album/1CFjrFSA35xbgP134I8Xtq"
       },
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 244823,
-      "name": "Missing You",
-      "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
+      "duration_ms": 227466,
+      "name": "Lost In Stereo",
+      "url": "https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya"
     },
     {
       "added_at": null,
@@ -371,8 +371,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
       },
       "artists": [
         {
@@ -380,9 +380,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 227466,
-      "name": "Lost In Stereo",
-      "url": "https://open.spotify.com/track/2WO1QXoR1o0R1rYKAxF7Ya"
+      "duration_ms": 244823,
+      "name": "Missing You",
+      "url": "https://open.spotify.com/track/0LSY3NePenK0VG7nRUTVk8"
     },
     {
       "added_at": null,
@@ -599,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "HELLRAISERS, Part 2",
-        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
       },
       "artists": [
-        {
-          "name": "Cheat Codes",
-          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
-        },
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 167965,
-      "name": "Ghost Story (with All Time Low)",
-      "url": "https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq"
+      "duration_ms": 199986,
+      "name": "Poppin' Champagne",
+      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
     },
     {
       "added_at": null,
@@ -683,18 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+        "name": "HELLRAISERS, Part 2",
+        "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
       },
       "artists": [
+        {
+          "name": "Cheat Codes",
+          "url": "https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU"
+        },
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 199986,
-      "name": "Poppin' Champagne",
-      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
+      "duration_ms": 167965,
+      "name": "Ghost Story (with All Time Low)",
+      "url": "https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq"
     },
     {
       "added_at": null,

@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 6867,
+  "2024-04-25": 6866,
   "date_first_scraped": "2024-01-30",
   "description": "Your daily update of the most viral tracks right now - Bulgaria.",
   "name": "Viral 50 - Bulgaria",
@@ -159,7 +159,7 @@
       ],
       "date_added": "2024-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 171782,
       "name": "Austin",
       "url": "https://open.spotify.com/track/2uqYupMHANxnwgeiXTZXzd"
@@ -315,7 +315,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -766,6 +766,24 @@
     },
     {
       "album": {
+        "name": "Fireworks & Rollerblades",
+        "url": "https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm"
+      },
+      "artists": [
+        {
+          "name": "Benson Boone",
+          "url": "https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186359,
+      "name": "Cry",
+      "url": "https://open.spotify.com/track/3h76tbaYIamSeJL81X7ZwI"
+    },
+    {
+      "album": {
         "name": "CUTE DEPRESSED",
         "url": "https://open.spotify.com/album/5qaY84OJqYT635rMGeWBzJ"
       },
@@ -911,7 +929,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 120165,
       "name": "DICE AND ROLL",
       "url": "https://open.spotify.com/track/6yMGcFkUPJWW7Mwy5pY6GC"
@@ -1129,6 +1147,24 @@
       "duration_ms": 160218,
       "name": "Europapa",
       "url": "https://open.spotify.com/track/0uHrMbMv3c78398pIANDqR"
+    },
+    {
+      "album": {
+        "name": "Eyes Closed",
+        "url": "https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200010,
+      "name": "Eyes Closed",
+      "url": "https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX"
     },
     {
       "album": {
@@ -1401,6 +1437,24 @@
       "duration_ms": 148551,
       "name": "Get It Sexyy",
       "url": "https://open.spotify.com/track/2MjXWroB9wlTG2kqv3avfS"
+    },
+    {
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
     },
     {
       "album": {
@@ -1935,7 +1989,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 152304,
       "name": "It's Not Right But It's Okay",
       "url": "https://open.spotify.com/track/5OFVzqSeFxGpvDGyHvVeLj"
@@ -2005,6 +2059,24 @@
       "duration_ms": 156000,
       "name": "Kapal\u0131 Kap\u0131lar",
       "url": "https://open.spotify.com/track/4tFRoWT0hpshwYHAaDxcLj"
+    },
+    {
+      "album": {
+        "name": "Karma",
+        "url": "https://open.spotify.com/album/0XSC4BVMGrT5ewWnpIcwak"
+      },
+      "artists": [
+        {
+          "name": "JoJo Siwa",
+          "url": "https://open.spotify.com/artist/2ai8yQyHp5UEjSS5v9g5fP"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187711,
+      "name": "Karma",
+      "url": "https://open.spotify.com/track/2uqxsofWmgRT0ekghgy3ln"
     },
     {
       "album": {
@@ -2607,6 +2679,24 @@
       "duration_ms": 172199,
       "name": "Meet you at the Graveyard",
       "url": "https://open.spotify.com/track/2vXSHAPCNpWZ7DNFDkEDMz"
+    },
+    {
+      "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/1HfTA0xDoZ0mswFO3GB3ef"
+      },
+      "artists": [
+        {
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162880,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/0vaxYDAuAO1nPolC6bQp7V"
     },
     {
       "album": {
@@ -4911,7 +5001,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 192720,
       "name": "Vqca mq",
       "url": "https://open.spotify.com/track/49Y5xdksgA3dhdK7HPVGPJ"
@@ -5030,6 +5120,28 @@
     },
     {
       "album": {
+        "name": "Ehhthang Ehhthang",
+        "url": "https://open.spotify.com/album/0SW0LplxFID1otCk4bhhHI"
+      },
+      "artists": [
+        {
+          "name": "GloRilla",
+          "url": "https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG"
+        },
+        {
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156444,
+      "name": "Wanna Be (with Megan Thee Stallion)",
+      "url": "https://open.spotify.com/track/7mOC6phfrfz3jfigg1aGsE"
+    },
+    {
+      "album": {
         "name": "eternal sunshine",
         "url": "https://open.spotify.com/album/5EYKrEDnKhhcNxGedaRQeK"
       },
@@ -5063,7 +5175,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 155480,
       "name": "We Fell Apart - Slowed",
       "url": "https://open.spotify.com/track/4oExAGoqR0JWK628dYaQ2f"
@@ -5493,7 +5605,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 212560,
       "name": "Zhestoko",
       "url": "https://open.spotify.com/track/1jv1aUi7t8MNNuyDhtOmGg"
@@ -5576,6 +5688,32 @@
     },
     {
       "album": {
+        "name": "\u0410\u043a\u043e \u0441\u0435 \u043e\u0431\u0430\u0434\u0438\u0448",
+        "url": "https://open.spotify.com/album/0GNmtZjbXqYmu6RAetC1R9"
+      },
+      "artists": [
+        {
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/6mdVQvlAoyqpPcakFvVVnz"
+        },
+        {
+          "name": "Dara Ekimova",
+          "url": "https://open.spotify.com/artist/1ow8YzLZ6aRPqE2zev82sa"
+        },
+        {
+          "name": "ymprl",
+          "url": "https://open.spotify.com/artist/4RUbWmEkJdH4HjzXWfEME6"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187164,
+      "name": "\u0410\u043a\u043e \u0441\u0435 \u043e\u0431\u0430\u0434\u0438\u0448",
+      "url": "https://open.spotify.com/track/2MEuBgeNUfk8ARB5RdFxSr"
+    },
+    {
+      "album": {
         "name": "\u0411\u0435\u0437 \u0431\u0430\u0433\u0430\u0436",
         "url": "https://open.spotify.com/album/1ET7pefkYWcVkPUxMSb1jQ"
       },
@@ -5605,7 +5743,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 182602,
       "name": "\u0411\u0435\u0437 \u0431\u0430\u0433\u0430\u0436",
       "url": "https://open.spotify.com/track/2aszQWhKr53wJc9QPORz1D"
@@ -5781,7 +5919,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 249350,
       "name": "\u0417\u0434\u0440\u0430\u0432 \u0411\u043e\u0434\u044a\u0440 \u0414\u0443\u0445",
       "url": "https://open.spotify.com/track/3iYds4ZaAY9ueYdNC0osjc"
@@ -6209,6 +6347,50 @@
       "duration_ms": 171902,
       "name": "\u0422\u0438 \u0441\u0438 \u0442\u043e\u043f",
       "url": "https://open.spotify.com/track/1gAQUXOp4j183SPY8wGIgx"
+    },
+    {
+      "album": {
+        "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
+        "url": "https://open.spotify.com/album/0SjTFgK4uWJgntsGLObsNz"
+      },
+      "artists": [
+        {
+          "name": "Toni Storaro",
+          "url": "https://open.spotify.com/artist/42APSc9etBGptl3otzihIZ"
+        },
+        {
+          "name": "Kiril Kirilov",
+          "url": "https://open.spotify.com/artist/37BgmbtPxXjBRKTOdl7zhA"
+        },
+        {
+          "name": "Alisia",
+          "url": "https://open.spotify.com/artist/5mNFpEfI0KApCz2Y88LYW6"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214222,
+      "name": "\u0422\u043e\u043f, \u0442\u043e\u043f, \u0442\u043e\u043f",
+      "url": "https://open.spotify.com/track/5btaxbk6nG46VQTyLpBxTu"
+    },
+    {
+      "album": {
+        "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
+        "url": "https://open.spotify.com/album/1GAhTWXPYPtkquR0qJsU5N"
+      },
+      "artists": [
+        {
+          "name": "SIMONA",
+          "url": "https://open.spotify.com/artist/6NtH0d4qlaU5FakRdrdNwq"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206000,
+      "name": "\u0425\u0430\u043f\u0438 \u043c\u0435",
+      "url": "https://open.spotify.com/track/4CdCa2gcNtsqPTA9JELgqb"
     },
     {
       "album": {

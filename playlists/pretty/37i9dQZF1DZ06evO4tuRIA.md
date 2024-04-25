@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 
 ### [This Is LEGADO 7](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4tuRIA)
 
-> This is LEGADO 7\. The essential tracks, all in one playlist.
+> This Is LEGADO 7\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,818 likes - 51 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,827 likes - 51 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4tuRIA.md) - [plain]
 | 50 | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/track/10DlJh9Rjh9WEJR9XsF12r) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ), [Régulo Caro](https://open.spotify.com/artist/0YRwUbRxrawmnBdixwJi5W) | [En Guadalajara \(feat\. Regulo Caro\)](https://open.spotify.com/album/6i227sRqKcAUgVVozEnkzt) | 2:47 |
 | 51 | [Nuevos Talentos](https://open.spotify.com/track/2mDiFVZo6phlOcjbh5vShb) | [LEGADO 7](https://open.spotify.com/artist/7yCGrS6Xh3UngvY6Ad5sMJ) | [Una Vez Más \(En Vivo\)](https://open.spotify.com/album/3jBjL4EUESfAaPjVosHAbb) | 2:48 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDJkZTc3NTVmMTg3MzM3OWRjNDQzNGIwNWFiNDJmNGQ1`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMGNhMWEyMTkxMWQ0ZThhYTY3ZjE3ZDQyNTAzODE0NDgz`

@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 112921,
+  "2024-04-25": 112932,
   "date_first_scraped": "2022-03-22",
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: BARBEL",
   "name": "Flow Panam\u00e1",
@@ -605,6 +605,10 @@
         {
           "name": "BARBEL",
           "url": "https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ"
+        },
+        {
+          "name": "Bombermusik",
+          "url": "https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ"
         }
       ],
       "date_added": "2023-12-01",
@@ -2194,7 +2198,7 @@
     },
     {
       "album": {
-        "name": "IGNORANT SH!T (Maleanteria)",
+        "name": "IGNORANT SH*T (Maleanteria)",
         "url": "https://open.spotify.com/album/4zgU5GUocpTGIT6omIrpqU"
       },
       "artists": [
@@ -2211,7 +2215,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166961,
-      "name": "IGNORANT SH!T (Maleanteria)",
+      "name": "IGNORANT SH*T (Maleanteria)",
       "url": "https://open.spotify.com/track/7MbIDgvG9lkKn1yJZBjUEd"
     },
     {

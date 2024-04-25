@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 
 > Take comfort in these sad piano songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,797 likes - 197 songs - 8 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,790 likes - 197 songs - 8 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -206,4 +206,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YGSllK2cJ4.md) - [plain]
 | 196 | [Reading Life](https://open.spotify.com/track/67XsGbJOJeoHm7ez27nCar) | [Martyn Justice](https://open.spotify.com/artist/0LtEXMqxbMVIGBDSRDGpJh) | [Reading Life](https://open.spotify.com/album/5IJMYSNkVFCLCa3MVnxXti) | 2:44 |
 | 197 | [When We Beat The Odds](https://open.spotify.com/track/4CREi2evM6PjRU6Y6lIYIT) | [Willow J\. Wilson](https://open.spotify.com/artist/5V2XzGtcdmXM5QZq2wnH0T) | [When We Beat The Odds](https://open.spotify.com/album/7nkoWfuYeZpqK5pkjO4QLF) | 2:00 |
 
-Snapshot ID: `MTcxMzc4MTc2OSwwMDAwMDAwMGQ1ZGMyMmFhNDc4ODZiNWRkNjMzNjI5ZjU1NzkxNzA5`
+Snapshot ID: `MTcxMzk4Mzg2NywwMDAwMDAwMDhjNDM3NGQ4ZDRkYmRhODU5MGExZmFjOTgxZTRmYWU2`

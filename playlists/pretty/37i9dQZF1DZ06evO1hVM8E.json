@@ -1,12 +1,12 @@
 {
-  "description": "This is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 38517,
+  "description": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga. Los temas esenciales, todos en una lista.",
+  "num_followers": 38516,
   "original_name": "This Is La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDE0YjcwZTM1ZDk1MTc3NDExMWFiZTAzNDBmYmRhZDZl",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGU1YzVkYjZhMzUyYTM0MzNhZDRhY2ZhNzY0YjUzZTFh",
   "tracks": [
     {
       "added_at": null,
@@ -287,6 +287,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chatita de Mis Amores",
+        "url": "https://open.spotify.com/album/0STb39hcGQLDU7Ge0iMpqO"
+      },
+      "artists": [
+        {
+          "name": "Al Tiro de Armando Ramos",
+          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
+        },
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 140078,
+      "name": "Chatita de Mis Amores",
+      "url": "https://open.spotify.com/track/7xvRwBykEmbOibLF8WC4Zn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Se Te Olvid\u00f3",
         "url": "https://open.spotify.com/album/3oiSnqUzFbSrekYtLyypon"
       },
@@ -315,26 +335,6 @@
       "duration_ms": 167546,
       "name": "El 24 De Junio",
       "url": "https://open.spotify.com/track/1K8OcTGhqE2o4bjVWcSxP1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chatita de Mis Amores",
-        "url": "https://open.spotify.com/album/0STb39hcGQLDU7Ge0iMpqO"
-      },
-      "artists": [
-        {
-          "name": "Al Tiro de Armando Ramos",
-          "url": "https://open.spotify.com/artist/6fvE3WfQ7mEyYOc4hY6t8O"
-        },
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 140078,
-      "name": "Chatita de Mis Amores",
-      "url": "https://open.spotify.com/track/7xvRwBykEmbOibLF8WC4Zn"
     },
     {
       "added_at": null,
@@ -699,6 +699,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Primer Lugar",
+        "url": "https://open.spotify.com/album/2Ppqps1zuF3NPsto5mJfCa"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        },
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 278453,
+      "name": "El Destino",
+      "url": "https://open.spotify.com/track/17ZtUnwNLCHd1H9PJ11Vg6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Derecho De Antig\u00fcedad",
         "url": "https://open.spotify.com/album/5NvPZJ8WktUvoVxnyXpgOT"
       },
@@ -815,22 +835,6 @@
       "duration_ms": 163613,
       "name": "Guarecita",
       "url": "https://open.spotify.com/track/0wHFB3V27Tf7dKtZnsgy4Z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nuestra Colecci\u00f3n de Oro",
-        "url": "https://open.spotify.com/album/3NLVLDgR1CFQwCf1lBb0Je"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 174000,
-      "name": "Vida Prestada",
-      "url": "https://open.spotify.com/track/1ZxJMsXgZdVqguQvm1AvuK"
     },
     {
       "added_at": null,

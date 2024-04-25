@@ -1,12 +1,12 @@
 {
-  "description": "This Is Linkin Park. Los temas esenciales, todos en una lista.",
-  "num_followers": 2608804,
+  "description": "This is Linkin Park. The essential tracks, all in one playlist.",
+  "num_followers": 2608784,
   "original_name": "This Is Linkin Park",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDQyZTU4Mjc1Y2E5ZjI5MWI4NDU0YjM4ZjBlMWRhOGQy",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDM0ZGQwMzk0NDUyN2Q0YzkyZGIzMTY1MmMyNGE5OTQ2",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 289906,
-      "name": "Shadow of the Day",
-      "url": "https://open.spotify.com/track/0OYcEfskah1egYHjYRvbg1"
+      "duration_ms": 221693,
+      "name": "No More Sorrow",
+      "url": "https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 221693,
-      "name": "No More Sorrow",
-      "url": "https://open.spotify.com/track/4CWhc9FaMMfBTt4ANjfbOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "RECHARGED",
         "url": "https://open.spotify.com/album/2FUsvD1bw53HGOjAg56vRD"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 229439,
       "name": "A LIGHT THAT NEVER COMES",
       "url": "https://open.spotify.com/track/3BnBKNItMng824sLx0pUfy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minutes to Midnight (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Across the Line",
+      "url": "https://open.spotify.com/track/4dbveKUpOx62SiwXQCALQH"
     },
     {
       "added_at": null,
@@ -663,22 +663,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Minutes to Midnight (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4JtIVJRA342O0YoAchen5Q"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 190186,
-      "name": "Across the Line",
-      "url": "https://open.spotify.com/track/4dbveKUpOx62SiwXQCALQH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Collision Course (Deluxe Version)",
         "url": "https://open.spotify.com/album/5NH94cATqx5fjBE794xZLy"
       },
@@ -695,6 +679,22 @@
       "duration_ms": 295826,
       "name": "Points of Authority / 99 Problems / One Step Closer",
       "url": "https://open.spotify.com/track/65eohvrL4ttjA7EfFkQOhX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LIVING THINGS",
+        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 224466,
+      "name": "POWERLESS",
+      "url": "https://open.spotify.com/track/4zNk347FJz4yDDcjUhJJMI"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
       "duration_ms": 211413,
       "name": "Good Goodbye (feat. Pusha T and Stormzy)",
       "url": "https://open.spotify.com/track/650OeHTLxZAQmb4aEbGmaA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LIVING THINGS",
-        "url": "https://open.spotify.com/album/4XHIjbhjRmqWlosjj5rqSI"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 224466,
-      "name": "POWERLESS",
-      "url": "https://open.spotify.com/track/4zNk347FJz4yDDcjUhJJMI"
     },
     {
       "added_at": null,
@@ -775,22 +759,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One More Light",
-        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 225546,
-      "name": "Nobody Can Save Me",
-      "url": "https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meteora 20th Anniversary Edition",
         "url": "https://open.spotify.com/album/3Q9wXhEAX7NYCPP0hxIuDz"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 211402,
       "name": "Healing Foot",
       "url": "https://open.spotify.com/track/6lXhmc2P7lGOBZDasmS9Uv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "One More Light",
+        "url": "https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 225546,
+      "name": "Nobody Can Save Me",
+      "url": "https://open.spotify.com/track/3dJj6o9o1fRgrojWjailuz"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 181893,
       "name": "The Messenger",
       "url": "https://open.spotify.com/track/0pQZMrYNcfwZbt2Zt0pjaA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 218013,
+      "name": "In Pieces",
+      "url": "https://open.spotify.com/track/7jeI6EdY0elPSNz80mAKS8"
     },
     {
       "added_at": null,

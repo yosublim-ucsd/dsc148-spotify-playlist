@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Poland.
 
-[Spotify](https://open.spotify.com/user/spotify) - 261,566 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 261,511 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbN6itCcaL3Tt.md) - [plain]
 | 49 | [Stumblin' In](https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom) | [Stumblin' In](https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc) | 3:33 |
 | 50 | [PG$](https://open.spotify.com/track/2Bvmq94ifFUXQmaFPR5Vis) | [Young Leosia](https://open.spotify.com/artist/0iBTVnJ1Sff92zCDujfvyJ), [bambi](https://open.spotify.com/artist/5ic8bWWvZHWf0dDBi9ThNk), [PG$](https://open.spotify.com/artist/5qgkVkdZIIBHLdnrpa3w3s), [francis](https://open.spotify.com/artist/6HdxibJzoNkDUUDHagx3Ko) | [PG$](https://open.spotify.com/album/0jQlIVeY05n6f5Es8ShhYs) | 3:04 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzODAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

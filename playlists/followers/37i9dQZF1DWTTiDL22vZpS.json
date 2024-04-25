@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 23740,
+  "2024-04-25": 23760,
   "date_first_scraped": "2022-11-22",
   "description": "Funk-inspired beats by latinos.",
   "name": "feels like latin funk",
@@ -281,7 +281,7 @@
       ],
       "date_added": "2023-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 219505,
       "name": "Comida",
       "url": "https://open.spotify.com/track/5uJC0Bx0EO5Mrk9n2NDKJa"
@@ -415,6 +415,24 @@
       "duration_ms": 233974,
       "name": "Dame una se\u00f1al",
       "url": "https://open.spotify.com/track/2N1TDOZLjpLLGwPiRoeuwT"
+    },
+    {
+      "album": {
+        "name": "Daruma",
+        "url": "https://open.spotify.com/album/5VL2DKVdqb7hnhpPw5ShOR"
+      },
+      "artists": [
+        {
+          "name": "DARUMAS",
+          "url": "https://open.spotify.com/artist/3BtncWAC6RrQFca3UnvsS9"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178987,
+      "name": "Daruma",
+      "url": "https://open.spotify.com/track/4RNpctPjIdBJrB5Fd459oN"
     },
     {
       "album": {

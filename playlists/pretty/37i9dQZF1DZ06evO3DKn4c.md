@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 
 ### [This Is Black Alien](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3DKn4c)
 
-> This is Black Alien\. The essential tracks, all in one playlist.
+> This is Black Alien\. Todos os maiores hits em uma só playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,528 likes - 41 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,536 likes - 41 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,7 +47,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3DKn4c.md) - [plain]
 | 37 | [Terra \- Acústico](https://open.spotify.com/track/2raY0UodsOKaKxV9pP8d5T) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Rael Convida: Black Alien \(Acústico\)](https://open.spotify.com/album/2vZQ7eD2GaHIuZYhiJOyHl) | 4:01 |
 | 38 | [Feeling](https://open.spotify.com/track/6cz9TcEstLOxC3y4ZZD5Tz) | [Costa Gold](https://open.spotify.com/artist/7q1aEytv83jXNECmyaMhgn), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Menestrel](https://open.spotify.com/artist/3P3lkDIOlpOLZAk3dcjf2i), [Cynthia Luz](https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu), [Marechal](https://open.spotify.com/artist/2CUoA5eNl575NSKMDwy9Ej), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [300](https://open.spotify.com/album/49aodr19IxR7j392H2CIJm) | 7:00 |
 | 39 | [Somos o Mundo](https://open.spotify.com/track/5PlRYhWSeZpOE4C1KhDjMg) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Céu](https://open.spotify.com/artist/2eFVsaX3yHLPeWpiqvmeFn) | [No Princípio Era o Verbo \- Babylon by Gus, Vol\. II](https://open.spotify.com/album/4Jse3kwJO87INCHv3DmKBN) | 4:14 |
-| 40 | [Mic Masters](https://open.spotify.com/track/5mVvDreTJ956BQHYBQ0b3E) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ogi](https://open.spotify.com/artist/5tQCsrqxW41tECpfMWbm4j) | [Bendito](https://open.spotify.com/album/7K34wocIiDx0k9ptLTwCaC) | 4:20 |
-| 41 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
+| 40 | [U\-Informe \(Ao Vivo\)](https://open.spotify.com/track/7hEuT00TQjRqhalX1uIOav) | [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx) | [Babylon by Gus Vol\. 1 \- O Ano do Macaco \(Ao Vivo\)](https://open.spotify.com/album/6N3dbZ1njWxuZSV3gQrVna) | 3:58 |
+| 41 | [Mic Masters](https://open.spotify.com/track/5mVvDreTJ956BQHYBQ0b3E) | [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Black Alien](https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Froid](https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII), [Ogi](https://open.spotify.com/artist/5tQCsrqxW41tECpfMWbm4j) | [Bendito](https://open.spotify.com/album/7K34wocIiDx0k9ptLTwCaC) | 4:20 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDhjZGQ4NGE5MGY0MWYxYzI4MTExYzYwYjNkYzhmNWRi`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDIwZDE0NjNkZDNkOTg1M2Y4ODA2ZGNkNzFmODY5YWU2`

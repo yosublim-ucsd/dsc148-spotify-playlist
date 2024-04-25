@@ -1,12 +1,12 @@
 {
-  "description": "This Is Natalia Lafourcade. Los temas esenciales, todos en una lista.",
-  "num_followers": 491488,
+  "description": "This is Natalia Lafourcade. Todos os maiores hits em uma s\u00f3 playlist.",
+  "num_followers": 491476,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDBhNjU4NDdmM2QxNmQ1NTkzYjlkNzc1OWI4NTBiODlj",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGI0MzMwNmQxODkyZjZkZmZkM2Y3ZTZhYTUwZDQ5ZDY3",
   "tracks": [
     {
       "added_at": null,
@@ -447,6 +447,26 @@
       "duration_ms": 190820,
       "name": "Que la Vida Vale",
       "url": "https://open.spotify.com/track/4SDPTQRh2WvydrhBTAmdt1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pel\u00edcula Muda, Pt. 1",
+        "url": "https://open.spotify.com/album/2f7V6LPb6YxOOioi016Bpc"
+      },
+      "artists": [
+        {
+          "name": "Pat\u00e9 de Fu\u00e1",
+          "url": "https://open.spotify.com/artist/188pkeHUWXnROe7lFVYRRa"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 264880,
+      "name": "Mi Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4WKwqrYOcAbUlmmVQjZo2U"
     },
     {
       "added_at": null,
@@ -935,26 +955,6 @@
       "duration_ms": 136279,
       "name": "Mudanza",
       "url": "https://open.spotify.com/track/2p607VlsD6tMuYukIxolRw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mujer Divina - Homenaje a Agust\u00edn Lara",
-        "url": "https://open.spotify.com/album/3IwQTuKlyYUjH5foI0gACh"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 194920,
-      "name": "La Fugitiva (with Kevin Johansen)",
-      "url": "https://open.spotify.com/track/1jmDkMtuAQJgSiN9AulFcx"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

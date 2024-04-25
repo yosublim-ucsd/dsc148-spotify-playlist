@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 804807,
+  "2024-04-25": 804833,
   "date_first_scraped": "2020-10-13",
   "description": "Future K-Pop hits! Cover: KIM WOOJIN",
   "name": "K-Pop Rising",
@@ -6091,6 +6091,24 @@
       "duration_ms": 298173,
       "name": "Forever (\uc57d\uc18d)",
       "url": "https://open.spotify.com/track/26YNVqHuwAPeBVfDscTPds"
+    },
+    {
+      "album": {
+        "name": "YUQ1",
+        "url": "https://open.spotify.com/album/7LYc8ngbhwha4aGJ5kVauc"
+      },
+      "artists": [
+        {
+          "name": "YUQI",
+          "url": "https://open.spotify.com/artist/22aCD8IrQZjcPgZw728QT6"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171080,
+      "name": "FREAK",
+      "url": "https://open.spotify.com/track/6ERs9uORCo1MfV0m9ixCuv"
     },
     {
       "album": {

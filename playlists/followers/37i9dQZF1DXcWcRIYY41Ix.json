@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 123194,
+  "2024-04-25": 123204,
   "date_first_scraped": "2021-12-28",
   "description": "La nueva ola de trovadores del Siglo XXI. En portada: Sebasti\u00e1n Romero.",
   "name": "Cancionistas",
@@ -4339,7 +4339,7 @@
       ],
       "date_added": "2021-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 179324,
       "name": "Herba de Namorar",
       "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
@@ -11267,6 +11267,24 @@
       "duration_ms": 232719,
       "name": "\u00c1mbar y el Mar",
       "url": "https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9"
+    },
+    {
+      "album": {
+        "name": "\u00c1ngeles",
+        "url": "https://open.spotify.com/album/7FeTKiOKGu7URr1mxjLMzs"
+      },
+      "artists": [
+        {
+          "name": "Solomon Zu",
+          "url": "https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw"
+        }
+      ],
+      "date_added": "2024-04-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224375,
+      "name": "\u00c1ngeles",
+      "url": "https://open.spotify.com/track/1rLKzfFAUwUXlWK5ocaD7m"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 
 > as novas de pop rock br / Foto: TINN
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,145 likes - 85 songs - 4 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,650 likes - 85 songs - 4 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3xuDGW6ByRP.md) - [plain]
 | 84 | [A Cura](https://open.spotify.com/track/4xawu6VJn17igipPIGayeU) | [Mayra](https://open.spotify.com/artist/3XSWVsSggcTo6Bv8pcDqnt) | [A Cura](https://open.spotify.com/album/2kpzLThPuJZYuZSLTX6w6c) | 3:27 |
 | 85 | [Coocoocrazy](https://open.spotify.com/track/4BliVo1uZWjMDu6iP1S4Gy) | [Karen Jonz](https://open.spotify.com/artist/2Pq5MMGyujBoU9C9Ax9n5C), [CSS](https://open.spotify.com/artist/2K13AVg3bFpHSxDM1vJ0qA) | [Coocoocrazy](https://open.spotify.com/album/3rRVEwcZU3BTbu2X7AmEPp) | 2:06 |
 
-Snapshot ID: `MTcwODYyMjcxNSwwMDAwMDAwMDRhNDI4YmRlNzk4YmQzNGNkN2NmN2ZlN2Y5M2NiNDMy`
+Snapshot ID: `MTcxMzk4NTQ4MywwMDAwMDAwMDljOGQ2ODk0MjVhNDNlNTA2ODA0NjFkYmQ5NWUxOWYz`

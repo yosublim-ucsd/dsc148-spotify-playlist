@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2KWq7Xwva8j.md) - [plain]
 
 > El futuro está aquí\. Foto: Charlie USG
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,306 likes - 37 songs - 1 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,304 likes - 37 songs - 1 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

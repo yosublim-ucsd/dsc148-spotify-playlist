@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 2201214,
+  "2024-04-25": 2201193,
   "date_first_scraped": "2019-05-26",
   "description": "The original chill instrumental beats playlist.",
   "name": "Jazz Vibes",
@@ -17589,7 +17589,7 @@
       ],
       "date_added": "2024-02-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 130472,
       "name": "Distant",
       "url": "https://open.spotify.com/track/1IMMtM5oAW5elaQA9o5ZnT"
@@ -41376,6 +41376,28 @@
     },
     {
       "album": {
+        "name": "Low Tide",
+        "url": "https://open.spotify.com/album/4NKElIDmOSXyChrfwC5DW2"
+      },
+      "artists": [
+        {
+          "name": "S\u00e1tyr",
+          "url": "https://open.spotify.com/artist/5D6V4Z6oPz4waooiuBaWIf"
+        },
+        {
+          "name": "Mosalla",
+          "url": "https://open.spotify.com/artist/2MlmctFTcQ5Qhjq5ataD5C"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136846,
+      "name": "Low Tide",
+      "url": "https://open.spotify.com/track/7DvFefh4tcbBPuqlLZkYlY"
+    },
+    {
+      "album": {
         "name": "Lowkey",
         "url": "https://open.spotify.com/album/7C7gCgTVEEP92CUns6luGd"
       },
@@ -48173,7 +48195,7 @@
       ],
       "date_added": "2024-02-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 88421,
       "name": "New Sneakers",
       "url": "https://open.spotify.com/track/5enJFKY7H1neRxwbvhtPOg"
@@ -58307,7 +58329,7 @@
           "url": "https://open.spotify.com/artist/0L1eY5MVRiGxxfMa77yy3n"
         },
         {
-          "name": "S-Ilo",
+          "name": "S-ilo",
           "url": "https://open.spotify.com/artist/04zvEg1lhzzyN1rLgfO8hG"
         },
         {
@@ -79949,6 +79971,28 @@
       "duration_ms": 156430,
       "name": "Who's World Is This?",
       "url": "https://open.spotify.com/track/6dL7z10QINju4SHT3O3cxC"
+    },
+    {
+      "album": {
+        "name": "Whoo!",
+        "url": "https://open.spotify.com/album/0XIwJ52izm8uR9Aj2FEsOj"
+      },
+      "artists": [
+        {
+          "name": "Louk",
+          "url": "https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O"
+        },
+        {
+          "name": "Glimlip",
+          "url": "https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3"
+        }
+      ],
+      "date_added": "2024-04-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157767,
+      "name": "Whoo!",
+      "url": "https://open.spotify.com/track/14kO9fxCfz4K5PXSMiOxJe"
     },
     {
       "album": {

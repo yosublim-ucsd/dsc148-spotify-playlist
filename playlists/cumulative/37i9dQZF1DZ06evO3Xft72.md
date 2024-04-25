@@ -2,7 +2,7 @@
 
 ### [This Is Def Leppard](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3Xft72)
 
-> This Is Def Leppard\. Los temas esenciales, todos en una lista.
+> This is Def Leppard\. The essential tracks, all in one playlist.
 
 75 songs - 5 hr 24 min
 

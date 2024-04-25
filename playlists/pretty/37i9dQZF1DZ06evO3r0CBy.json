@@ -1,12 +1,12 @@
 {
-  "description": "This is Rodr\u00edguez. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 37292,
+  "description": "This is Rodr\u00edguez. The essential tracks, all in one playlist.",
+  "num_followers": 37295,
   "original_name": "This Is Rodr\u00edguez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDA0ZjlmMmFmMzE0ZTk5Mjk4NTE2Mzg4MDc5N2FmNjVi",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGYzYmEzNDAzYWIwMWI0MjgyMzlhMWMxZjI2YWQ2NTgz",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 153653,
-      "name": "Hate Street Dialogue",
-      "url": "https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7"
+      "duration_ms": 154240,
+      "name": "I Wonder",
+      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX"
         }
       ],
-      "duration_ms": 154240,
-      "name": "I Wonder",
-      "url": "https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC"
+      "duration_ms": 153653,
+      "name": "Hate Street Dialogue",
+      "url": "https://open.spotify.com/track/3Y0iZyngvwiGF15eLRttN7"
     },
     {
       "added_at": null,

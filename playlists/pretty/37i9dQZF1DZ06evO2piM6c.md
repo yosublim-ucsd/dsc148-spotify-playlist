@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 
 ### [This Is Sade](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2piM6c)
 
-> This is Sade\. The essential tracks, all in one playlist.
+> This Is Sade\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376,775 likes - 45 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 376,825 likes - 45 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2piM6c.md) - [plain]
 | 44 | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/track/3F6dDV4voQ5OTTYpzpIVYt) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [Flower of the Universe \(From Disney's "A Wrinkle in Time"\)](https://open.spotify.com/album/4vdEa3KgM0G1paD9aMhLh2) | 3:49 |
 | 45 | [Love Is Found](https://open.spotify.com/track/5Mxq7vByHJGcKLsSb85J8G) | [Sade](https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx) | [The Ultimate Collection](https://open.spotify.com/album/3JYT9f8X9LOfpTzbKDWN4a) | 4:08 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGY5OTJlY2E3ZWUxZDYzY2NhYzRmYzU2NWNjNmI0Njkw`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMGEwMWQwMzdlOGU0OWI2OGQxNGRjYjc0ZTNlNTM0ZWE2`

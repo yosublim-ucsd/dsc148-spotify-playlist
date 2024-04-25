@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqfMFK4d691.md) - [plain]
 
 > Your daily update of the most played tracks right now \- Bolivia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,960 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,950 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbJqfMFK4d691.md) - [plain]
 | 49 | [FILTRO](https://open.spotify.com/track/0SAGpMJQz3XdfRFdwuSX9b) | [De Parranda](https://open.spotify.com/artist/0OTHm6AFLxgeTm0gHNOuWi), [Luis Vega](https://open.spotify.com/artist/5JMJt80HJWR1e4hMw63Z5t) | [FILTRO](https://open.spotify.com/album/4Qy2tHdIc9D1mh2xSFduDH) | 3:48 |
 | 50 | [Carta de Despedida](https://open.spotify.com/track/7In4Lnz4mpkFkG5zOAzLuE) | [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [RONNY J](https://open.spotify.com/artist/3TKCdsX8yNNoiC1gesn6or) | [Carta de Despedida](https://open.spotify.com/album/1BQAi9dnZNj2102wIIcDzd) | 3:04 |
 
-Snapshot ID: `NzY3Mjg5NjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`
+Snapshot ID: `NzY3MzIzMjAwLDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDY1NmU=`

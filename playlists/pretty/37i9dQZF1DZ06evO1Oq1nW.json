@@ -1,12 +1,12 @@
 {
-  "description": "This is The O'Jays. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 30640,
+  "description": "This Is The O'Jays. Los temas esenciales, todos en una lista.",
+  "num_followers": 30638,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDAyNmZiMmRlZTZjZDllYzM3ZTdkNjdkZDg0NzdjZDFi",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDQ4NWZmOTRjODliOGE3NmQwYzA1M2NmNzAxOGQzZGU2",
   "tracks": [
     {
       "added_at": null,
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 251746,
-      "name": "Brandy",
-      "url": "https://open.spotify.com/track/4FgHURAh8kHbMCQJJ37Etc"
+      "duration_ms": 333453,
+      "name": "Cry Together",
+      "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
     },
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 333453,
-      "name": "Cry Together",
-      "url": "https://open.spotify.com/track/7bmvCeN6JaeGN448OEGgLW"
+      "duration_ms": 251746,
+      "name": "Brandy",
+      "url": "https://open.spotify.com/track/4FgHURAh8kHbMCQJJ37Etc"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The O'Jays In Philly",
+        "url": "https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 159706,
+      "name": "Deeper (In Love with You)",
+      "url": "https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "My Favorite Person",
         "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
       },
@@ -491,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The O'Jays In Philly",
-        "url": "https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP"
+        "name": "Survival",
+        "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
       "artists": [
         {
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 159706,
-      "name": "Deeper (In Love with You)",
-      "url": "https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF"
+      "duration_ms": 250800,
+      "name": "Give the People What They Want",
+      "url": "https://open.spotify.com/track/2ROR4vROCM58XLVIoCUgbm"
     },
     {
       "added_at": null,
@@ -747,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Favorite Person",
-        "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 255733,
-      "name": "My Favorite Person",
-      "url": "https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Survival",
         "url": "https://open.spotify.com/album/1fOZphC5VkWPwhX4X5OuAb"
       },
@@ -779,6 +779,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "My Favorite Person",
+        "url": "https://open.spotify.com/album/6inkUk39Y7bzsJuQtCDCya"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 255733,
+      "name": "My Favorite Person",
+      "url": "https://open.spotify.com/track/5o6oXm9EqlIU9OtfSu1gCy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Message In The Music",
         "url": "https://open.spotify.com/album/1XoURLvpVgr7WR4fJ6OJSC"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 269320,
       "name": "Let Life Flow",
       "url": "https://open.spotify.com/track/64tjdNWWJA9RDh9NZGoPU9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Essential O'Jays",
-        "url": "https://open.spotify.com/album/4pdU7xetOuKZTvpqW5Kor8"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 197613,
-      "name": "The Big Gangster",
-      "url": "https://open.spotify.com/track/52tSalNlWbR6DXOo49p4SM"
     }
   ],
   "unique_name": "This Is The O'Jays",

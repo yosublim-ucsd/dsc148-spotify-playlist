@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZheHO7xislj.md) - [plain]
 
 > Classic and new soul music for the perfect dinner vibe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 140,356 likes - 200 songs - 12 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 140,359 likes - 200 songs - 12 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,7 +2,7 @@
 
 ### [This Is Finch](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2Xlck7)
 
-> This is Finch\. The essential tracks, all in one playlist.
+> This is Finch\. Todos os maiores hits em uma só playlist.
 
 42 songs - 2 hr 42 min
 

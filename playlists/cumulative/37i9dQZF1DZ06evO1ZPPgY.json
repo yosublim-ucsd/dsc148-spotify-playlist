@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-20",
-  "description": "This is Barry White. The essential tracks, all in one playlist.",
+  "description": "This Is Barry White. Los temas esenciales, todos en una lista.",
   "name": "This Is Barry White",
   "tracks": [
     {
@@ -290,7 +290,7 @@
       ],
       "date_added": "2022-10-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 194173,
       "name": "Honey Please, Can't Ya See",
       "url": "https://open.spotify.com/track/6yPBONQzToDpSP5302UjTJ"
@@ -524,7 +524,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 220493,
       "name": "I've Found Someone",
       "url": "https://open.spotify.com/track/4RlRqOg8hNWvJ0sY3gCimo"
@@ -560,7 +560,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-23",
+      "date_removed": null,
       "duration_ms": 190333,
       "name": "I've Got So Much To Give",
       "url": "https://open.spotify.com/track/30BIQMWprmAlVae1W4BRBw"
@@ -596,7 +596,7 @@
       ],
       "date_added": "2023-12-18",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 181950,
       "name": "I've Got the World to Hold Me Up",
       "url": "https://open.spotify.com/track/3DVBE9gdehucz81D8G0yQN"
@@ -792,7 +792,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": true,
-      "date_removed": "2024-04-24",
+      "date_removed": null,
       "duration_ms": 340826,
       "name": "Lady, Sweet Lady",
       "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
@@ -882,7 +882,7 @@
       ],
       "date_added": "2023-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-25",
       "duration_ms": 425826,
       "name": "Love Serenade",
       "url": "https://open.spotify.com/track/37ioNakPkoUoI5FcjUDdWB"

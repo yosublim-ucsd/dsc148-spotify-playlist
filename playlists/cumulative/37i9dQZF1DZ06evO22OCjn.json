@@ -85,6 +85,28 @@
     },
     {
       "album": {
+        "name": "Afrikan Sauce",
+        "url": "https://open.spotify.com/album/4J2sMmMUFcjCExurtDQZJU"
+      },
+      "artists": [
+        {
+          "name": "Sauti Sol",
+          "url": "https://open.spotify.com/artist/4Rj9lQm9oSiMlirgpsM6eo"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "date_added": "2024-04-25",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194526,
+      "name": "Afrikan Star",
+      "url": "https://open.spotify.com/track/57ZphidHkoCJY20u4QSIZA"
+    },
+    {
+      "album": {
         "name": "Levels (Explicit)",
         "url": "https://open.spotify.com/album/2vaRvfNXHyrXOQ8Aw6MEXe"
       },

@@ -649,6 +649,24 @@
     },
     {
       "album": {
+        "name": "You Gotta Go There To Come Back",
+        "url": "https://open.spotify.com/album/65ekRZTdz7ufM6yULqgjo8"
+      },
+      "artists": [
+        {
+          "name": "Stereophonics",
+          "url": "https://open.spotify.com/artist/21UJ7PRWb3Etgsu99f8yo8"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272946,
+      "name": "Maybe Tomorrow",
+      "url": "https://open.spotify.com/track/6SXy02aTZU3ysoGUixYCz0"
+    },
+    {
+      "album": {
         "name": "Strange Trails",
         "url": "https://open.spotify.com/album/4sD1qg4jwTZR4mvR4Iflk5"
       },
@@ -1154,6 +1172,28 @@
       "duration_ms": 218601,
       "name": "Those Eyes",
       "url": "https://open.spotify.com/track/1EstYSjIaL8l203EfVvY9T"
+    },
+    {
+      "album": {
+        "name": "The Crimson Wing: Mystery Of The Flamingos",
+        "url": "https://open.spotify.com/album/48zPKXSCFOdMlgTaeVQn5u"
+      },
+      "artists": [
+        {
+          "name": "The Cinematic Orchestra",
+          "url": "https://open.spotify.com/artist/32ogthv0BdaSMPml02X9YB"
+        },
+        {
+          "name": "London Metropolitan Orchestra",
+          "url": "https://open.spotify.com/artist/3fYr24qYhJejxewFrckFE4"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316040,
+      "name": "Transformation",
+      "url": "https://open.spotify.com/track/6zGAgfm8fbkUq51sBg194z"
     },
     {
       "album": {

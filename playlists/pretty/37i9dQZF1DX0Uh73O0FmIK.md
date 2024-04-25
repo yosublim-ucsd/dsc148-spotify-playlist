@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Uh73O0FmIK.md) - [plain]
 
 > 01101110 01100101 01110010 01100100
 
-[Spotify](https://open.spotify.com/user/spotify) - 188,210 likes - 100 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 188,216 likes - 100 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

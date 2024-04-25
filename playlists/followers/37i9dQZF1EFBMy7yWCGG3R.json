@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 19168,
+  "2024-04-25": 19168,
   "date_first_scraped": "2023-12-31",
   "description": "The essentials from songwriter <a href=\"https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0\">Julia Michaels</a>, all in one playlist. <a href=\"spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O\">Discover more songwriters on Spotify</a>.",
   "name": "Written By Julia Michaels",
@@ -1271,6 +1271,24 @@
       "duration_ms": 233140,
       "name": "Easy Lover - Workout Remix 140 Bpm",
       "url": "https://open.spotify.com/track/3r36au0ztmAKCiPLKr6nIJ"
+    },
+    {
+      "album": {
+        "name": "In Search Of The Antidote",
+        "url": "https://open.spotify.com/album/1ZXvAPiGoqDXWsLHd3oZ8Q"
+      },
+      "artists": [
+        {
+          "name": "FLETCHER",
+          "url": "https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143546,
+      "name": "Ego Talking",
+      "url": "https://open.spotify.com/track/4HaPYfxnpWPoK7AaH1rC0k"
     },
     {
       "album": {

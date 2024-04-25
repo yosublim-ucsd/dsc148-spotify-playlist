@@ -4,7 +4,7 @@
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: WIU, Teto
 
-1,190 songs - 2 day 11 hr 10 min
+1,191 songs - 2 day 11 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1133,6 +1133,7 @@
 | [Vem Desestressar](https://open.spotify.com/track/2SFLZ4b8md59HSDxmomQxx) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [Vem Desestressar](https://open.spotify.com/album/7mOeU0TxEZhzCFQkjnuRSV) | 4:00 | 2024-04-05 |  |
 | [Vem Jogar O Popo Pra Mim](https://open.spotify.com/track/4JnFYQqZaKw3wQikPQHmVJ) | [Abbot](https://open.spotify.com/artist/1ZcIMjx9kP46pUdFOdjWKQ), [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE) | [Toda Noite](https://open.spotify.com/album/1ybO5RFlM3hhjgssvNfKNe) | 2:49 | 2023-08-25 | 2023-09-30 |
 | [Vermelho Ferrari](https://open.spotify.com/track/7bGzlo9GIMPa8gONg5X8xp) | [Pexande](https://open.spotify.com/artist/2q0FHjgmI45xHxbdXkxYAK), [Di Paiva](https://open.spotify.com/artist/6VgzwK3rGqvD6bkug6XYk6), [DogDu BEAT$](https://open.spotify.com/artist/2Ce5qAualGsritIDCedjAO) | [Luzes de Neon](https://open.spotify.com/album/3CzxhIOvHQlt8YlqUo6ZFD) | 2:20 | 2022-03-04 | 2022-06-25 |
+| [Vermelho Neon](https://open.spotify.com/track/01Mfhyx7ZIBmAJ5dC4ku76) | [Kweller](https://open.spotify.com/artist/4W4NkfM4A1sX2S2bfYlV07), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Giana Mello](https://open.spotify.com/artist/2z4LMq3xuAqNh0gNIicsVi) | [Kontra](https://open.spotify.com/album/0hzXI3akCy0pGzHf6hOurj) | 2:12 | 2024-04-24 |  |
 | [Vermelho Tomate](https://open.spotify.com/track/6ggxPi8ByauCjGo1KAf5nk) | [Duzz](https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz), [Ecologyk](https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW), [Manocchio](https://open.spotify.com/artist/6eF2txpySndQt339aJjQE2) | [Vermelho Tomate](https://open.spotify.com/album/4ncgC7OepJotGrOtBQ0ELB) | 2:04 | 2023-02-10 | 2023-02-23 |
 | [Versace](https://open.spotify.com/track/2GvPGP32IAGg3StcgFZJcx) | [Druhh e Drehh](https://open.spotify.com/artist/5ubDYnubwiewGEI6JPrmMf), [Vulgo FK](https://open.spotify.com/artist/27azwwkxutWL1BWMkgNIh0), [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [Versace](https://open.spotify.com/album/1w88VF51xOry8vPZk5vdcV) | 2:50 | 2022-10-10 | 2022-11-12 |
 | [versace](https://open.spotify.com/track/5oabi3qmfZ6t7AMlRj5jqZ) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [versace](https://open.spotify.com/album/6JSaYPs983BY4E7I7VENjB) | 2:31 | 2022-02-18 | 2022-03-12 |

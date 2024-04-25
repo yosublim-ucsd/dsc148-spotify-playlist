@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4UtSsGT1Sbe.md) - [plain]
 
 > The biggest songs of the 1980s\. Cover: Bonnie Tyler.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,864,432 likes - 150 songs - 10 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,864,987 likes - 150 songs - 10 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

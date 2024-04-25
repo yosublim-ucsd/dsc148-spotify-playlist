@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDNmZjYwOWJlOWE1MDEyYWYxZThmMzg3OTQyZmU4YzI5",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDczMGFhYTc3YzIzZDE4ZDAyYzlmM2JiNzAyMDIzZTdi",
   "tracks": [
     {
       "added_at": null,
@@ -511,8 +511,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+        "name": "M'Bemba",
+        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
       },
       "artists": [
         {
@@ -520,9 +520,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 328080,
-      "name": "San Ka Na",
-      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
+      "duration_ms": 373973,
+      "name": "Yambo",
+      "url": "https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk"
     },
     {
       "added_at": null,
@@ -559,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "M'Bemba",
-        "url": "https://open.spotify.com/album/6GUNbIwHYDkuSkcckTDawO"
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
       },
       "artists": [
         {
@@ -568,9 +568,9 @@
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 373973,
-      "name": "Yambo",
-      "url": "https://open.spotify.com/track/25fS72Gn3j78nfYOKLcrQk"
+      "duration_ms": 328080,
+      "name": "San Ka Na",
+      "url": "https://open.spotify.com/track/2Oqz0gR5F14zI7zA1ZKEDz"
     },
     {
       "added_at": null,
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Diff\u00e9rence",
-        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
-      },
-      "artists": [
-        {
-          "name": "Salif Keita",
-          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
-        }
-      ],
-      "duration_ms": 419186,
-      "name": "Papa",
-      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Mansa Of Mali ... A Retrospective",
         "url": "https://open.spotify.com/album/29ERIEUf3msDNaYcJ9Wk3a"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 302840,
       "name": "Djembe",
       "url": "https://open.spotify.com/track/30102u9oWhTedLkAY26isZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Diff\u00e9rence",
+        "url": "https://open.spotify.com/album/7a4afzRjojaKFCf9EGmd8B"
+      },
+      "artists": [
+        {
+          "name": "Salif Keita",
+          "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
+        }
+      ],
+      "duration_ms": 419186,
+      "name": "Papa",
+      "url": "https://open.spotify.com/track/7FJETIwlHuxinqGBaufsYz"
     },
     {
       "added_at": null,
@@ -795,22 +795,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "La gouache",
-        "url": "https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0"
+        "name": "Soro",
+        "url": "https://open.spotify.com/album/0f9D2ul5epWCta3847KfNR"
       },
       "artists": [
-        {
-          "name": "R.Wan",
-          "url": "https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT"
-        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 242177,
-      "name": "Des humains (feat. Salif Keita)",
-      "url": "https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU"
+      "duration_ms": 361960,
+      "name": "Cono",
+      "url": "https://open.spotify.com/track/3HMQXE2tma5gy9LOcgf0QR"
     },
     {
       "added_at": null,
@@ -831,18 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soro",
-        "url": "https://open.spotify.com/album/0f9D2ul5epWCta3847KfNR"
+        "name": "La gouache",
+        "url": "https://open.spotify.com/album/6BdRY8R7yMvzWMSJ3qFHw0"
       },
       "artists": [
+        {
+          "name": "R.Wan",
+          "url": "https://open.spotify.com/artist/4mKvEitgF7NfkYzNzApnwT"
+        },
         {
           "name": "Salif Keita",
           "url": "https://open.spotify.com/artist/0VVnWF3KNaa5O7ESohKhAx"
         }
       ],
-      "duration_ms": 361960,
-      "name": "Cono",
-      "url": "https://open.spotify.com/track/3HMQXE2tma5gy9LOcgf0QR"
+      "duration_ms": 242177,
+      "name": "Des humains (feat. Salif Keita)",
+      "url": "https://open.spotify.com/track/1qam3RPfPkugXYYTT1h0nU"
     },
     {
       "added_at": null,

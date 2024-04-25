@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXco4ODkIraMD.md) - [plain]
 
 > Esos éxitos que todavía quieres seguir escuchando\. Foto: Anuel AA & Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 654,679 likes - 125 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 654,713 likes - 125 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

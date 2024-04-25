@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxqgjSiQ9K.md) - [plain]
 
 > Las canciones de fe que más se escuchan en Latinoamérica\. Foto: <a href="spotify:artist:4VMYDCV2IEDYJArk749S6m">Daddy Yankee</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,211 likes - 108 songs - 8 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,106 likes - 108 songs - 8 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

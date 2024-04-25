@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 
 ### [This Is EST Gee](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2JD1f2)
 
-> This is EST Gee\. Todos os maiores hits em uma só playlist.
+> This is EST Gee\. The essential tracks, all in one playlist.
 
 [Spotify](https://open.spotify.com/user/spotify) - 10,860 likes - 51 songs - 2 hr 13 min
 
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2JD1f2.md) - [plain]
 | 50 | [Off White Mikes \(feat\. EST Gee\)](https://open.spotify.com/track/1sJE6dY3LYW3L0BMcMH8Ym) | [22nd Jim](https://open.spotify.com/artist/0ROLbpYHvwZWVbPBibRwPU), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Rich Off The Pack](https://open.spotify.com/album/7uHyX5l5ZEqNoP62SVD4LL) | 2:07 |
 | 51 | [At Will \(feat\. EST Gee\)](https://open.spotify.com/track/1inQjfrPjWSM8DehYMfIxi) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [At Will \(feat\. EST Gee\)](https://open.spotify.com/album/1efkAIrYwFqFvHUFzWBq3d) | 2:50 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDRlZjFjMDQzNmViZWYzZWIyNjBjODRkY2ZkYmM5NTg0`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDJjODBjNWQ1ODY4MjRjODUzMTc3OGE0YjliODhlYTI3`

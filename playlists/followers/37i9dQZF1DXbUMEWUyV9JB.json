@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 272365,
+  "2024-04-25": 272372,
   "date_first_scraped": "2022-04-01",
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! De todas, Norte\u00f1as, Sonideras, con Banda y mas! Cover: Grupo Frontera & Bad Bunny",
   "name": "Super Cumbias",
@@ -2436,6 +2436,32 @@
     },
     {
       "album": {
+        "name": "Leyenda",
+        "url": "https://open.spotify.com/album/4adY26jTGV09nyL11n5bil"
+      },
+      "artists": [
+        {
+          "name": "Calo",
+          "url": "https://open.spotify.com/artist/2Qm12OdHFDHSpWhBMpO16L"
+        },
+        {
+          "name": "Andres Castillo",
+          "url": "https://open.spotify.com/artist/6swtbYCVvjJIjCb5MWaIT2"
+        },
+        {
+          "name": "Margarita La Diosa de La Cumbia",
+          "url": "https://open.spotify.com/artist/6aElsiQxMQyf8Wo0yhxTqL"
+        }
+      ],
+      "date_added": "2023-05-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248560,
+      "name": "La Colegiala",
+      "url": "https://open.spotify.com/track/6Ds2mSfCcXskyuUcKnh5kK"
+    },
+    {
+      "album": {
         "name": "Grandes Exitos Originales",
         "url": "https://open.spotify.com/album/0AhjOKoGXJiGqt9MJ3PAUP"
       },
@@ -3097,7 +3123,7 @@
       ],
       "date_added": "2023-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 128073,
       "name": "Me Aceptaste - En Vivo",
       "url": "https://open.spotify.com/track/1I24KOlgCNqaLUlYO2Biav"

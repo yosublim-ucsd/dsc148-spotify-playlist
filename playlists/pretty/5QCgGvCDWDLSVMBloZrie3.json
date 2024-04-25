@@ -6,7 +6,7 @@
     "name": "Sally_e713",
     "url": "https://open.spotify.com/user/itov256mqod07n3bpf2efdo8u"
   },
-  "snapshot_id": "MTIxNSw3ODU0ZmQxNmEwNmFiYmExMjJkZDI4MmRmMmVlOTMwNjNlN2M3MmQ4",
+  "snapshot_id": "MTIxNyw1NDRmZmVjYWI2MzBhMjVlODkwMjM0MDZiNDQwNDAyMDgzYmMxODEw",
   "tracks": [
     {
       "added_at": "2022-04-11 12:00:45",
@@ -6947,6 +6947,38 @@
       "duration_ms": 216662,
       "name": "Clara Bow",
       "url": "https://open.spotify.com/track/1UlhrRvYzbHEyugEDspXUB"
+    },
+    {
+      "added_at": "2024-04-24 21:29:35",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 229667,
+      "name": "Caesar on a TV Screen",
+      "url": "https://open.spotify.com/track/2w4cRBhWvHCsDpvyhiDkjq"
+    },
+    {
+      "added_at": "2024-04-24 21:29:44",
+      "album": {
+        "name": "Prelude to Ecstasy",
+        "url": "https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn"
+      },
+      "artists": [
+        {
+          "name": "The Last Dinner Party",
+          "url": "https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s"
+        }
+      ],
+      "duration_ms": 201414,
+      "name": "Burn Alive",
+      "url": "https://open.spotify.com/track/54wX7jxwKL2TQS9itIIMyJ"
     }
   ],
   "unique_name": "main playlist",

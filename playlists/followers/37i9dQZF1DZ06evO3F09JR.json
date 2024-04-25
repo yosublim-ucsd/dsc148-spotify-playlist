@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 1247,
+  "2024-04-25": 1246,
   "date_first_scraped": "2022-05-30",
   "description": "This is Alessandro Cortini. The essential tracks, all in one playlist.",
   "name": "This Is Alessandro Cortini",
@@ -119,6 +119,24 @@
       "duration_ms": 302923,
       "name": "AMORE AMARO",
       "url": "https://open.spotify.com/track/6fiijXOYS8H4e3klBNBVxX"
+    },
+    {
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 439648,
+      "name": "Aspettare",
+      "url": "https://open.spotify.com/track/3ZLgXv8bEuUHZAJ2jCNhra"
     },
     {
       "album": {
@@ -1297,6 +1315,24 @@
       "duration_ms": 490870,
       "name": "NESSUNO",
       "url": "https://open.spotify.com/track/67pkFDREsQbXENCn57fbuj"
+    },
+    {
+      "album": {
+        "name": "Avanti",
+        "url": "https://open.spotify.com/album/2eTB3kKvlQ31f6nhHjv7gj"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Cortini",
+          "url": "https://open.spotify.com/artist/6cGVZq9WhCCRkTnn4cJYOg"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 458393,
+      "name": "Nonfare",
+      "url": "https://open.spotify.com/track/1B3Ku4mE5u1INrAdmULIFl"
     },
     {
       "album": {

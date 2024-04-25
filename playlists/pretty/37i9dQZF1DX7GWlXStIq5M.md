@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 
 > Os hits e novos nomes do pop dividindo o mesmo palco!  / Foto: LUDMILLA, Ryan Castro
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,227 likes - 85 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 372,134 likes - 85 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GWlXStIq5M.md) - [plain]
 | 84 | [Carnificina](https://open.spotify.com/track/3hwGnwRkIAs8iQ9CJZiWkd) | [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Escândalo Íntimo](https://open.spotify.com/album/5MGR1iBTBfsb28mHFSM5KV) | 2:20 |
 | 85 | [Casi Casi](https://open.spotify.com/track/7n15qubhDdwZjrySpHO1ma) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Funk Generation: A Favela Love Story](https://open.spotify.com/album/1O8dDXKfYHJDZTrCuxb6qL) | 2:13 |
 
-Snapshot ID: `MTcxMzU1MDgyMiwwMDAwMDAwMDRlN2I2MDgyMjllNTVlMDFiN2JmN2QzYWE0OWU1MjA5`
+Snapshot ID: `MTcxMzk4NTU4MiwwMDAwMDAwMDMyYTQzMzcyMjhiNzAwODQzODA3ZTM5Y2FjYTlhYzRl`

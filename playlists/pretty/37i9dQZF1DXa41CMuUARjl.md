@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa41CMuUARjl.md) - [plain]
 
 > This week's handpicked new <a href="spotify:genre:edm\_dance">dance and electronic music</a>, featuring new music from DJ Snake and Peso Pluma
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,240 likes - 110 songs - 6 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,249 likes - 110 songs - 6 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

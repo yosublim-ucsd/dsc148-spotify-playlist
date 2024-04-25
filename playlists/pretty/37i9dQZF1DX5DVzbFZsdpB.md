@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DVzbFZsdpB.md) - [plain]
 
 > Podcasts you need to have on your RADAR: Half\-Arsed History, We Don't Have Time For This and The Tom and Frenchy Podcast.
 
-[Spotify](https://open.spotify.com/user/spotify) - 906 likes - 24 songs - 22 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 905 likes - 24 songs - 22 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

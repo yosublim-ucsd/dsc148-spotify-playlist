@@ -1,12 +1,12 @@
 {
-  "description": "This is Aphex Twin. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 62886,
+  "description": "This is Aphex Twin. The essential tracks, all in one playlist.",
+  "num_followers": 62898,
   "original_name": "This Is Aphex Twin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDczNThkNzEzNWJkNTJmYWI5NTMwMTQ4YmRmYjdmYzdh",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDM3NGZkNWNmM2FhNzU1MWM1M2JjOWJhNTlmYjFhYjkz",
   "tracks": [
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Richard D. James Album",
-        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Fingerbib",
-      "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Syro",
         "url": "https://open.spotify.com/album/4mwrMLVKo940qLFXEIef4w"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 191466,
       "name": "180db_ [130]",
       "url": "https://open.spotify.com/track/5oKbtirX6EbMMOgD2fMJ6E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Richard D. James Album",
+        "url": "https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Fingerbib",
+      "url": "https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT"
     },
     {
       "added_at": null,

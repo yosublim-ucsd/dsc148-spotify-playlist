@@ -1,12 +1,12 @@
 {
   "description": "This is Djonga. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 195558,
+  "num_followers": 195583,
   "original_name": "This Is Djonga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDMxYjAxMDI1MjgzMTFhODdiZmZmZGVkMDdlMjU1YTM2",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDg5ZmUzZmYwYTY3ZjUwZWQxZmE0MDFhNzI1YWE5ZGE2",
   "tracks": [
     {
       "added_at": null,
@@ -1095,30 +1095,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "TI RICK",
-        "url": "https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl"
+        "name": "Ladr\u00e3o",
+        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
       },
       "artists": [
-        {
-          "name": "MC Rick",
-          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
-        },
-        {
-          "name": "Borges",
-          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
-        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Dj Tg Da Inestan",
-          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
         }
       ],
-      "duration_ms": 145153,
-      "name": "Disse Que \u00e9 F\u00e3 de Rap",
-      "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
+      "duration_ms": 222128,
+      "name": "FALC\u00c3O",
+      "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
     },
     {
       "added_at": null,
@@ -1155,22 +1147,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ladr\u00e3o",
-        "url": "https://open.spotify.com/album/4bVYzv8uj0wanD6BdwmdwM"
+        "name": "TI RICK",
+        "url": "https://open.spotify.com/album/7267xHOHkbbf7AMgKoFksl"
       },
       "artists": [
+        {
+          "name": "MC Rick",
+          "url": "https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt"
+        },
+        {
+          "name": "Borges",
+          "url": "https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX"
+        },
         {
           "name": "Djonga",
           "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
         },
         {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+          "name": "Dj Tg Da Inestan",
+          "url": "https://open.spotify.com/artist/07hde6KjeHapJ75M3jSfFl"
         }
       ],
-      "duration_ms": 222128,
-      "name": "FALC\u00c3O",
-      "url": "https://open.spotify.com/track/2YSH4CHnZIyAEG7hXxMV1l"
+      "duration_ms": 145153,
+      "name": "Disse Que \u00e9 F\u00e3 de Rap",
+      "url": "https://open.spotify.com/track/1j6isjsmiAugGzj202NFhP"
     },
     {
       "added_at": null,
@@ -1251,30 +1251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zero Chances (Ao Vivo)",
-        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
-      },
-      "artists": [
-        {
-          "name": "Akatu",
-          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
-        },
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        },
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        }
-      ],
-      "duration_ms": 218410,
-      "name": "Zero Chances - Ao Vivo",
-      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VER\u00c3O CRIMINOSO",
         "url": "https://open.spotify.com/album/4CGf0iysUv0JUMoBqx4GOx"
       },
@@ -1299,6 +1275,30 @@
       "duration_ms": 192004,
       "name": "REAL NIGGA",
       "url": "https://open.spotify.com/track/6cL2kYwllJ29fyvrGMKWxE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Zero Chances (Ao Vivo)",
+        "url": "https://open.spotify.com/album/46Wor6bbb4uOs3xhIgfSR9"
+      },
+      "artists": [
+        {
+          "name": "Akatu",
+          "url": "https://open.spotify.com/artist/1AuDtbIuaPj9LHnOUMT3C8"
+        },
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        },
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        }
+      ],
+      "duration_ms": 218410,
+      "name": "Zero Chances - Ao Vivo",
+      "url": "https://open.spotify.com/track/2BApXORsRdAgiHFlmuxAMz"
     },
     {
       "added_at": null,

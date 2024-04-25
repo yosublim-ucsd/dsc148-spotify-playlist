@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4o1oenSJRJd.md) - [plain]
 
 > The biggest songs of the 2000s\. Cover: Kelly Clarkson
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,171,594 likes - 150 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,172,041 likes - 150 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

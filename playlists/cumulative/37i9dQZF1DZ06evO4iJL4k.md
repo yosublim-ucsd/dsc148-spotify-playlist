@@ -2,9 +2,9 @@
 
 ### [This Is Filipe Ret](https://open.spotify.com/playlist/37i9dQZF1DZ06evO4iJL4k)
 
-> This is Filipe Ret\. Todos os maiores hits em uma só playlist.
+> This is Filipe Ret\. The essential tracks, all in one playlist.
 
-68 songs - 4 hr 19 min
+69 songs - 4 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,7 +43,8 @@
 | [Jamais Serão](https://open.spotify.com/track/2nDoREifQ978QhJXbnxLe8) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK), [Start](https://open.spotify.com/artist/2wDK7CcPdIb0WJ3SiYaf1h) | [Numa Margem Distante](https://open.spotify.com/album/7FlYqBtcwB9b51uq0OZYjJ) | 4:03 | 2023-09-21 | 2024-03-24 |
 | [Konteiner](https://open.spotify.com/track/347KmRWwYXcZSUgelz7Cit) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:30 | 2023-09-21 |  |
 | [Lenda](https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 3:12 | 2023-12-14 |  |
-| [Libertários Não Morrem](https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:10 | 2023-09-21 |  |
+| [Libertários Não Morrem](https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:10 | 2024-04-25 |  |
+| [Libertários Não Morrem](https://open.spotify.com/track/6dV20GCkZXZA8ytRh3U8UB) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/2UzFlatMqvN6LN8MN6a89g) | 4:10 | 2023-09-21 | 2024-04-25 |
 | [Louco Pra Voltar](https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:30 | 2023-09-21 |  |
 | [Me Sinto Abençoado](https://open.spotify.com/track/7HjZD0NPC1hzFpjUjo45GR) | [Mc Poze do Rodo](https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Ajaxx](https://open.spotify.com/artist/0y7B2G0jNMGWyQJsOoRMUt) | [Me Sinto Abençoado](https://open.spotify.com/album/0CuUCSHvpqUcuXffl0rcQD) | 3:34 | 2023-09-21 |  |
 | [Me Sinto Abençoado \- Ao Vivo](https://open.spotify.com/track/3bysApQ8IhtbbfQKGWFHSy) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [FRXV \(Ao Vivo\)](https://open.spotify.com/album/2qu44hB5GkwiKF9v4eQvPi) | 3:15 | 2023-12-22 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXBpzmyaNx1V.md) - [plain]
 
 > ¡Nos vemos del 6 al 10 de Marzo! Cinco días de música en recintos icónicos de la CDMX\. Compra tus boletos <a href="https://lnk.bio/pitchforkcdmx"> aquí</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,374 likes - 65 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,369 likes - 65 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

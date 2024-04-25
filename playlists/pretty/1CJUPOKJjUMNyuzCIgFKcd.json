@@ -1,13 +1,169 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23931,
+  "num_followers": 23924,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "OTQ5MSwzYzU0ZDkxYjQ0M2Y2MGMxNDhiOTY3YWExNjliYTJiMmEwMWEwMGFh",
+  "snapshot_id": "OTUwMixhNjgwZGM4M2U3MGVhY2MyNjQ3YzZiMmIxNGYxYjk5MDZkMjhjOWZk",
   "tracks": [
+    {
+      "added_at": "2024-04-24 23:13:56",
+      "album": {
+        "name": "Imported Couches",
+        "url": "https://open.spotify.com/album/6fNdtvi2y9otv0oSYaXDDo"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 216046,
+      "name": "Imported Couches",
+      "url": "https://open.spotify.com/track/5YWyB1Unzq0sO6DBTqiVuw"
+    },
+    {
+      "added_at": "2024-04-24 23:16:19",
+      "album": {
+        "name": "Tangled",
+        "url": "https://open.spotify.com/album/31FHbVXYHZrw1f58OA4kF2"
+      },
+      "artists": [
+        {
+          "name": "Money Man",
+          "url": "https://open.spotify.com/artist/3Rx4PJ7SP6unkOk5elPUK7"
+        }
+      ],
+      "duration_ms": 121045,
+      "name": "Tangled",
+      "url": "https://open.spotify.com/track/0HJvudKR9GNkrkHBiBaCXW"
+    },
+    {
+      "added_at": "2024-04-24 23:16:38",
+      "album": {
+        "name": "Dead Trolls",
+        "url": "https://open.spotify.com/album/0qy4MKczI27Aax3Xu0pO0g"
+      },
+      "artists": [
+        {
+          "name": "Lil Yee",
+          "url": "https://open.spotify.com/artist/19lRQBKp4lxRDaxoKVUE9i"
+        },
+        {
+          "name": "Lil Bean",
+          "url": "https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef"
+        }
+      ],
+      "duration_ms": 219130,
+      "name": "Dead Trolls",
+      "url": "https://open.spotify.com/track/4p4VbXI0kqI3yaezBQJ7p5"
+    },
+    {
+      "added_at": "2024-04-24 23:16:54",
+      "album": {
+        "name": "Your Love Is All I Need",
+        "url": "https://open.spotify.com/album/4vTUoDz2degpD1NHfCJ0vg"
+      },
+      "artists": [
+        {
+          "name": "Vedo",
+          "url": "https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL"
+        }
+      ],
+      "duration_ms": 176843,
+      "name": "Your Love Is All I Need",
+      "url": "https://open.spotify.com/track/5K4XGPDbG9CR6hoAM0Htua"
+    },
+    {
+      "added_at": "2024-04-24 23:14:25",
+      "album": {
+        "name": "Confirmation (Remix) [feat. Lil Wayne]",
+        "url": "https://open.spotify.com/album/3rVybpJz7iFiWoNvnJSzhX"
+      },
+      "artists": [
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Confirmation (feat. Lil Wayne) - Remix",
+      "url": "https://open.spotify.com/track/62VfxpqUyqcHLs2ecnpooC"
+    },
+    {
+      "added_at": "2024-04-24 23:14:37",
+      "album": {
+        "name": "Charged Up",
+        "url": "https://open.spotify.com/album/7tM3cKpt6DrUg1OW4B4BSf"
+      },
+      "artists": [
+        {
+          "name": "Tink",
+          "url": "https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v"
+        }
+      ],
+      "duration_ms": 179123,
+      "name": "Charged Up",
+      "url": "https://open.spotify.com/track/4HN6CicOpFp1nrkxHFM3Gt"
+    },
+    {
+      "added_at": "2024-04-24 23:14:46",
+      "album": {
+        "name": "She Sexy",
+        "url": "https://open.spotify.com/album/7hvhvTRHBlJ23NB84Uqat4"
+      },
+      "artists": [
+        {
+          "name": "G Perico",
+          "url": "https://open.spotify.com/artist/4Q2hTDZYFCohf17D5GvkIb"
+        }
+      ],
+      "duration_ms": 133846,
+      "name": "She Sexy",
+      "url": "https://open.spotify.com/track/6vbR1YuCZwMew0gajfEeMW"
+    },
+    {
+      "added_at": "2024-04-24 23:14:54",
+      "album": {
+        "name": "SNA!",
+        "url": "https://open.spotify.com/album/2YjKD34MexENYYHb3uFqIw"
+      },
+      "artists": [
+        {
+          "name": "Chow Lee",
+          "url": "https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL"
+        }
+      ],
+      "duration_ms": 128011,
+      "name": "SNA!",
+      "url": "https://open.spotify.com/track/2fSad0CA0zitpRWsZWKvwq"
+    },
+    {
+      "added_at": "2024-04-24 23:15:19",
+      "album": {
+        "name": "I (feat. Paid n Full Rocky)",
+        "url": "https://open.spotify.com/album/4CmARZ3Pdaump47ore6LRv"
+      },
+      "artists": [
+        {
+          "name": "HoodRich Pablo Juan",
+          "url": "https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer"
+        },
+        {
+          "name": "Paid n Full Rocky",
+          "url": "https://open.spotify.com/artist/3zL1TxBZ9UkboXj9NvKPn4"
+        }
+      ],
+      "duration_ms": 184728,
+      "name": "I (feat. Paid n Full Rocky)",
+      "url": "https://open.spotify.com/track/1cFvtCXAdSfgzj00iteqR0"
+    },
     {
       "added_at": "2024-03-30 01:30:51",
       "album": {

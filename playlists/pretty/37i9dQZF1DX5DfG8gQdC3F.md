@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Taylor Swift, Drake, DJ Snake & Peso Pluma, RealestK, Jamie xx and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 356,448 likes - 102 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 356,468 likes - 102 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

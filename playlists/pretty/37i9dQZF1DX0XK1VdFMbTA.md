@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0XK1VdFMbTA.md) - [plain]
 
 > Any songs you forgot existed? Let's go deep into 70s rock! Cover: Pink Floyd
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,607 likes - 500 songs - 1 day 10 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,661 likes - 500 songs - 1 day 10 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

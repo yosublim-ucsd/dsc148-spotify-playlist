@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 
 ### [This Is Peggy Gou](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1lPLb3)
 
-> This Is Peggy Gou\. Les titres incontournables, réunis dans une seule et même playlist.
+> This is Peggy Gou\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,541 likes - 24 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,548 likes - 24 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1lPLb3.md) - [plain]
 | 23 | [Travelling Without Arriving](https://open.spotify.com/track/4FiadIuhjYbjq5jkEwCOFF) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Travelling Without Arriving](https://open.spotify.com/album/6deWiLAKj3Zpb85JrFbvlO) | 5:57 |
 | 24 | [In Sum](https://open.spotify.com/track/03lJOQU2pvvNVTppJ3VvIs) | [Peggy Gou](https://open.spotify.com/artist/2mLA48B366zkELXYx7hcDN) | [Art of War EP](https://open.spotify.com/album/2GSiOe0Olm5qoWM6jLtxKo) | 6:36 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDY3ZTE0NTI1M2EyNDUzZTg5OTc1YTU0MmE5Nzg1MTYx`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDU0MTQ0MmYxZDQxNDFkMzY1OGE3N2Y4YTQwNzk3YmU4`

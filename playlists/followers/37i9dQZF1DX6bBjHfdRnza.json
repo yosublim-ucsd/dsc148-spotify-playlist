@@ -1,7 +1,7 @@
 {
-  "2024-04-24": 173392,
+  "2024-04-25": 173545,
   "date_first_scraped": "2021-12-21",
-  "description": "The best new dance & electronic by independent artists and labels. Cover: jigitz performing at Fresh Finds Chicago March 2024. Artwork by Rewina Beshue.",
+  "description": "The best new dance & electronic by independent artists and labels. Cover: BRUX. Artwork by Rewina Beshue.",
   "name": "Fresh Finds Dance",
   "tracks": [
     {
@@ -2187,7 +2187,7 @@
       ],
       "date_added": "2024-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 170118,
       "name": "AROUND THE WORLD - Centre Court Remix",
       "url": "https://open.spotify.com/track/6hoDmwV5D2hs7zxQQDErd7"
@@ -3273,7 +3273,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 229411,
       "name": "be with you",
       "url": "https://open.spotify.com/track/1Vd5j7qyC4XKHsWfurNEXm"
@@ -6180,6 +6180,32 @@
     },
     {
       "album": {
+        "name": "CHOONZ",
+        "url": "https://open.spotify.com/album/3Shnkz8Qijs8nYHpWRHJDy"
+      },
+      "artists": [
+        {
+          "name": "FAHU",
+          "url": "https://open.spotify.com/artist/0DWyQopVmVJoDZnoA9UzWs"
+        },
+        {
+          "name": "Noah Slee",
+          "url": "https://open.spotify.com/artist/2inX1svE5swPuIBIJdrFyo"
+        },
+        {
+          "name": "Aka Kelzz",
+          "url": "https://open.spotify.com/artist/6t4XItjt4Lsk0bCBH3KGpb"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256836,
+      "name": "CHOONZ",
+      "url": "https://open.spotify.com/track/39Sgj7Pj29L9dX1uhOk2Ht"
+    },
+    {
+      "album": {
         "name": "Cigarette",
         "url": "https://open.spotify.com/album/6JJUx5ImjU5D10N4mpLs7f"
       },
@@ -6235,7 +6261,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 160587,
       "name": "Clarity",
       "url": "https://open.spotify.com/track/3y8Vm5FfhIxMaacpS2IShA"
@@ -9581,7 +9607,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 196363,
       "name": "Don't Leave",
       "url": "https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId"
@@ -10814,6 +10840,24 @@
     },
     {
       "album": {
+        "name": "EMBERS",
+        "url": "https://open.spotify.com/album/3BQOMjdmppGQ8Ne9MDN9LO"
+      },
+      "artists": [
+        {
+          "name": "BRUX",
+          "url": "https://open.spotify.com/artist/05jtmvy7zPhTp4GQexPkXY"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225985,
+      "name": "EMBERS",
+      "url": "https://open.spotify.com/track/21Cx6z51SqNTZaiB221atC"
+    },
+    {
+      "album": {
         "name": "Emerald",
         "url": "https://open.spotify.com/album/3EKOVl8p9GoZ9rKd59uOHk"
       },
@@ -11779,6 +11823,28 @@
       "duration_ms": 267842,
       "name": "Fading",
       "url": "https://open.spotify.com/track/6a6ukMkLFXcWvqP0fdlDfZ"
+    },
+    {
+      "album": {
+        "name": "Fall Apart",
+        "url": "https://open.spotify.com/album/5XAogfEMF4Lpxg43S4rqMc"
+      },
+      "artists": [
+        {
+          "name": "Glimji",
+          "url": "https://open.spotify.com/artist/7LqcxF2CAiCymAsy9bCzFc"
+        },
+        {
+          "name": "Soak XP",
+          "url": "https://open.spotify.com/artist/692VNmy3ODXsrALPWOVyi2"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223314,
+      "name": "Fall Apart",
+      "url": "https://open.spotify.com/track/1wICnj0tNvqfL2t7ZzJ782"
     },
     {
       "album": {
@@ -12807,7 +12873,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 132140,
       "name": "focus on me",
       "url": "https://open.spotify.com/track/1DbQsKYmIJXBebNOX8youe"
@@ -15853,6 +15919,24 @@
     {
       "album": {
         "name": "Higher",
+        "url": "https://open.spotify.com/album/46nHHymUyr3YZlxNRK9Y5h"
+      },
+      "artists": [
+        {
+          "name": "Pretty Girl",
+          "url": "https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212463,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/3AfHjDjQcA8yyMyCMCZ77V"
+    },
+    {
+      "album": {
+        "name": "Higher",
         "url": "https://open.spotify.com/album/5OSKx32HIa1NaBgIAAO6vs"
       },
       "artists": [
@@ -17225,7 +17309,7 @@
       ],
       "date_added": "2024-02-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 172444,
       "name": "i have zero care",
       "url": "https://open.spotify.com/track/7BZP33GGS34GmUZQrPlivk"
@@ -19356,6 +19440,24 @@
     },
     {
       "album": {
+        "name": "keep coming back",
+        "url": "https://open.spotify.com/album/1RvPCMWyMaq64A9AtQjDF9"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227076,
+      "name": "keep coming back",
+      "url": "https://open.spotify.com/track/2LgTydGnRSUknlCumw2ouF"
+    },
+    {
+      "album": {
         "name": "Keep It Up",
         "url": "https://open.spotify.com/album/4l8hjfPNhj7CKnpWJBHInq"
       },
@@ -20669,6 +20771,24 @@
       "duration_ms": 177826,
       "name": "Lock&Key",
       "url": "https://open.spotify.com/track/7xpdg8CYqEj9khHJECllMm"
+    },
+    {
+      "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/6H5RoOEjdjk5K5xOdDMd6l"
+      },
+      "artists": [
+        {
+          "name": "Enzo is Burning",
+          "url": "https://open.spotify.com/artist/2KIWGryAlZJj1PwpdRTDCB"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207026,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/4eTOiOcfn4CRhkuJuqXD86"
     },
     {
       "album": {
@@ -22101,7 +22221,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 282000,
       "name": "Mars and Its Moons",
       "url": "https://open.spotify.com/track/7jysG69WpZjSnXtinBWHIf"
@@ -22847,6 +22967,28 @@
       "duration_ms": 202052,
       "name": "Money",
       "url": "https://open.spotify.com/track/1ymOZisiTxceb5cdqhwUv7"
+    },
+    {
+      "album": {
+        "name": "Monkeys",
+        "url": "https://open.spotify.com/album/7h9a3rwRZrAMqQ5jDT0iIU"
+      },
+      "artists": [
+        {
+          "name": "Gee Lane",
+          "url": "https://open.spotify.com/artist/4r7DlvmonxB4JiqgJNm5eJ"
+        },
+        {
+          "name": "Mabreezee",
+          "url": "https://open.spotify.com/artist/4ixydE8BVYzM2P1mFrBWac"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227000,
+      "name": "Monkeys",
+      "url": "https://open.spotify.com/track/18atwa0TRUm873rlrvgY4Y"
     },
     {
       "album": {
@@ -23869,6 +24011,24 @@
       "duration_ms": 218431,
       "name": "Need To Talk - Kordz Remix",
       "url": "https://open.spotify.com/track/1QaWHjfOLFKjUGczBY02Xz"
+    },
+    {
+      "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/5ZbC2gZrQ6WAC1AroTczip"
+      },
+      "artists": [
+        {
+          "name": "tanvi",
+          "url": "https://open.spotify.com/artist/2oq1PXgnTtflp9kw08ddB3"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174338,
+      "name": "Need You Now",
+      "url": "https://open.spotify.com/track/5X21uANL3TPmskQEphYNgR"
     },
     {
       "album": {
@@ -25975,7 +26135,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 266253,
       "name": "Outta",
       "url": "https://open.spotify.com/track/6qa238zrPRzBkfd7pJuPmh"
@@ -27939,7 +28099,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 180747,
       "name": "Ras In France",
       "url": "https://open.spotify.com/track/3qcwqE8ZrkoK2zvDPVczMn"
@@ -30101,7 +30261,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 338000,
       "name": "Shameless Ting",
       "url": "https://open.spotify.com/track/5lJOaTpUdfnPft0IUbyrYA"
@@ -31594,6 +31754,24 @@
     },
     {
       "album": {
+        "name": "SORRY",
+        "url": "https://open.spotify.com/album/2Ms52TKWZxqep2t1vhmqPl"
+      },
+      "artists": [
+        {
+          "name": "DJ SCHEMA",
+          "url": "https://open.spotify.com/artist/3hZal3f00zwevclHIxqGyB"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193600,
+      "name": "SORRY",
+      "url": "https://open.spotify.com/track/1XQNOZS49KxbIGFsDJZ57Q"
+    },
+    {
+      "album": {
         "name": "Soulfood",
         "url": "https://open.spotify.com/album/5LPPro6tM993UWvrAb5CvW"
       },
@@ -32913,6 +33091,24 @@
       "duration_ms": 324000,
       "name": "Supernova",
       "url": "https://open.spotify.com/track/4tZlq5tqgbY1oIDv3PSMWN"
+    },
+    {
+      "album": {
+        "name": "Sur",
+        "url": "https://open.spotify.com/album/3BrhfDb3hrcIid09vbtDjw"
+      },
+      "artists": [
+        {
+          "name": "Kloyd",
+          "url": "https://open.spotify.com/artist/2KF47WT2Ju9B5tFlNU7Uz7"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 334000,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/3YQZGmQ0ZetJLe0R3oHY04"
     },
     {
       "album": {
@@ -34325,7 +34521,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 302625,
       "name": "The Gates Will Open - Glimji Remix",
       "url": "https://open.spotify.com/track/2ZPMDmgjLLddJKDEOiAjRb"
@@ -34987,6 +35183,24 @@
       "duration_ms": 159120,
       "name": "There for You (Go in Life)",
       "url": "https://open.spotify.com/track/2B79elgywm5nubnBtUdstS"
+    },
+    {
+      "album": {
+        "name": "there she goes!",
+        "url": "https://open.spotify.com/album/1Tecp6YGtuur5HZ0317Er2"
+      },
+      "artists": [
+        {
+          "name": "niina",
+          "url": "https://open.spotify.com/artist/4GUXcdZFwb8zNdpqkXQWkh"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117120,
+      "name": "there she goes!",
+      "url": "https://open.spotify.com/track/0rAcqehC5wtS5PfgoP6NOJ"
     },
     {
       "album": {
@@ -38311,7 +38525,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 195428,
       "name": "When I See U",
       "url": "https://open.spotify.com/track/0zW0XIVD89Xz8DBUpoO7Nj"
@@ -39539,6 +39753,24 @@
       "duration_ms": 271024,
       "name": "Young Wild Free",
       "url": "https://open.spotify.com/track/54ER4whFXNiKAcVzJosIl7"
+    },
+    {
+      "album": {
+        "name": "Your",
+        "url": "https://open.spotify.com/album/1MXLc70HeKb8l4xGgOnAw3"
+      },
+      "artists": [
+        {
+          "name": "DJ Football",
+          "url": "https://open.spotify.com/artist/4XPalh4iMml1meSDMvyoKf"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176517,
+      "name": "Your",
+      "url": "https://open.spotify.com/track/3npxOIjktGR2efNexj8vES"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > 🎵 they'd make beautiful babies 🎵  📷: Towa Bird & Reneé Rapp
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,491,313 likes - 150 songs - 7 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,491,190 likes - 150 songs - 7 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

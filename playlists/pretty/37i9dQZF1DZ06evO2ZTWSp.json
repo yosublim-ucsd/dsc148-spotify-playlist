@@ -1,12 +1,12 @@
 {
-  "description": "This is Lizzo. Todos os maiores hits em uma s\u00f3 playlist.",
-  "num_followers": 491501,
+  "description": "This is Lizzo. The essential tracks, all in one playlist.",
+  "num_followers": 491496,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGE2MmU4ZTc5YjAyYTczN2U2M2ZjNWNhY2E4YzY1OGNi",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMDg3ZTk2YTczMzY3NGNkYWI3NzZiMmY3NzdhY2FkM2Mx",
   "tracks": [
     {
       "added_at": null,
@@ -599,26 +599,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
+        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        },
+        {
+          "name": "GRADES",
+          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Sasha Flute",
-          "url": "https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs"
         }
       ],
-      "duration_ms": 468590,
-      "name": "Stairway To Heaven",
-      "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
+      "duration_ms": 61796,
+      "name": "Torn Apart, Pt II (Bastille Vs. GRADES Vs. Lizzo)",
+      "url": "https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm"
     },
     {
       "added_at": null,
@@ -655,26 +655,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "VS. (Other People\u2019s Heartache, Pt. III)",
-        "url": "https://open.spotify.com/album/1YXsPGQingGkJZLA8uuQNL"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
         {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        },
-        {
-          "name": "GRADES",
-          "url": "https://open.spotify.com/artist/5xtS6AoBUHhaAhxC1JN3PY"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Sasha Flute",
+          "url": "https://open.spotify.com/artist/0g0F72umHz8PinSfuFZfHs"
         }
       ],
-      "duration_ms": 61796,
-      "name": "Torn Apart, Pt II (Bastille Vs. GRADES Vs. Lizzo)",
-      "url": "https://open.spotify.com/track/6Gy30w4ebJg02BjLdULdNm"
+      "duration_ms": 468590,
+      "name": "Stairway To Heaven",
+      "url": "https://open.spotify.com/track/4GSesDykx8IoiyvU8hLQkB"
     },
     {
       "added_at": null,

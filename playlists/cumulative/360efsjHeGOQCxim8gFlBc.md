@@ -4,7 +4,7 @@
 
 > Close your eyes and relax to calm, peaceful piano melodies.
 
-307 songs - 12 hr 7 min
+308 songs - 12 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -115,7 +115,8 @@
 | [Golden Hourglass \(piano version\)](https://open.spotify.com/track/1kH0T5k0ryiI1H8spI77Zm) | [Luminious Dreams](https://open.spotify.com/artist/5ePse43Q0Wakx5FBZOhZIL) | [Golden Hourglass \(piano version\)](https://open.spotify.com/album/4m0B4VP5oTd1Wks9UWGsVk) | 2:21 | 2023-10-29 |  |
 | [golden sunset](https://open.spotify.com/track/2K0xrK3IDOVAiQEoFcn7z6) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [golden sunset](https://open.spotify.com/album/21kqeomupEL6PUU7KW1mKv) | 2:48 | 2023-11-15 |  |
 | [goodbye](https://open.spotify.com/track/0USNWV9YJVTFviRNW74fbA) | [Archish Arun](https://open.spotify.com/artist/4f5hsDIno1YcAWvudVPyeu) | [goodbye](https://open.spotify.com/album/1ACNyGTgj7Fk8YoR9CR4mC) | 2:25 | 2024-04-20 |  |
-| [grasshopper waltz](https://open.spotify.com/track/5QiFtNcW8HdfHWdblIrFd1) | [Enzo Corne](https://open.spotify.com/artist/5ldxKdXCYqiOJ360NVVyZA) | [grasshopper waltz](https://open.spotify.com/album/3fz7PiSJbdxReICBRLgXYo) | 1:13 | 2024-04-20 |  |
+| [grasshopper waltz](https://open.spotify.com/track/1E64pLetn4W2RHtUj6q7gJ) | [Enzo Corne](https://open.spotify.com/artist/5ldxKdXCYqiOJ360NVVyZA) | [grasshopper waltz](https://open.spotify.com/album/7oNQt9XizrQEyHziOYMXZK) | 1:13 | 2024-04-24 |  |
+| [grasshopper waltz](https://open.spotify.com/track/5QiFtNcW8HdfHWdblIrFd1) | [Enzo Corne](https://open.spotify.com/artist/5ldxKdXCYqiOJ360NVVyZA) | [grasshopper waltz](https://open.spotify.com/album/3fz7PiSJbdxReICBRLgXYo) | 1:13 | 2024-04-20 | 2024-04-25 |
 | [growing](https://open.spotify.com/track/7iOhbTOlMljoBvXvoGPqL4) | [laurel green](https://open.spotify.com/artist/0D4IT1f1VhnbLSluIogLkk) | [growing](https://open.spotify.com/album/7toDCmXaDO2oGcx6puLhJC) | 2:37 | 2024-04-13 |  |
 | [growing old](https://open.spotify.com/track/1d51vvubceobrHPXDJ6Wvs) | [Jonas Hoffmann](https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP) | [growing old](https://open.spotify.com/album/5BzW6onKV8CMZTQXGGgUeo) | 2:35 | 2023-10-29 |  |
 | [Growing Stir](https://open.spotify.com/track/3dRd7BC1B47oBewvFhJdNE) | [Daniel Zachary](https://open.spotify.com/artist/0tpeAohUKkUOoZEFF6C1XO), [Anna Zoëga](https://open.spotify.com/artist/11Rb60nj6GDnWmFYjkAOtw), [Cozy](https://open.spotify.com/artist/5uqJiVzMoEr0K9oTeqgoGq), [Cozy Piano](https://open.spotify.com/artist/4KoFp9AxtTenV2l6hSzrR6) | [Growing Stir](https://open.spotify.com/album/7fAPb4OJetJAkcGEL37OOR) | 1:42 | 2023-10-29 | 2024-04-14 |

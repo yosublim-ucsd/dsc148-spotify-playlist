@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 
 ### [This Is A Boogie Wit da Hoodie](https://open.spotify.com/playlist/37i9dQZF1DZ06evO1KBxkc)
 
-> This Is A Boogie Wit da Hoodie\. Los temas esenciales, todos en una lista.
+> This is A Boogie Wit da Hoodie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 195,205 likes - 53 songs - 2 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 195,226 likes - 53 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1KBxkc.md) - [plain]
 | 52 | [Booby Trap](https://open.spotify.com/track/6PqRhA7KUAhWaD0iQeQ6cR) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [B4 BOA](https://open.spotify.com/album/5QDOKezJwT63L54s17jMgw) | 2:16 |
 | 53 | [Head Melodies](https://open.spotify.com/track/4gAJm7FWFn57TodthhA4MK) | [Luh Kel](https://open.spotify.com/artist/24CgJHK6T7C5OmUbiLLMjJ), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Head Melodies](https://open.spotify.com/album/0KtppoaIZmN1DPOt5Z5fEj) | 3:51 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDhjYTJiMjA0ZjEzODhjMDNmZjFjNjYwNzg4NDhhNmQ3`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDlmZmVlZWE1ZjA4NzQxNmM3Y2RhZjU1NDFjNzFiNzhl`

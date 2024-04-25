@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 813678,
+  "2024-04-25": 813564,
   "date_first_scraped": "2021-03-27",
   "description": "Your daily update of the most played tracks right now - Turkey.",
   "name": "Top 50 - Turkey",
@@ -3051,6 +3051,24 @@
       "duration_ms": 186815,
       "name": "Bilmem Mi?",
       "url": "https://open.spotify.com/track/0IF4B98sMyCv1lZjpS1FGz"
+    },
+    {
+      "album": {
+        "name": "Krali\u00e7e",
+        "url": "https://open.spotify.com/album/4kHAWGBdk9ZlMAqSKW7LCU"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273558,
+      "name": "Bir Bela",
+      "url": "https://open.spotify.com/track/5kR2RqcjHEyCDXkE9WHhoF"
     },
     {
       "album": {
@@ -6727,6 +6745,28 @@
       "duration_ms": 126959,
       "name": "G\u00d6NDER GELS\u0130N",
       "url": "https://open.spotify.com/track/6zUeLNZHEzENd8ts4V9yj2"
+    },
+    {
+      "album": {
+        "name": "G\u00f6r Bak",
+        "url": "https://open.spotify.com/album/1DivhWbVDQtOJNWqNwygkm"
+      },
+      "artists": [
+        {
+          "name": "Fatih Bulut",
+          "url": "https://open.spotify.com/artist/4QYrSz56GbbWzazB3ykW7G"
+        },
+        {
+          "name": "Elmas",
+          "url": "https://open.spotify.com/artist/7G5tUGKHqDFfyxsCnzE2jd"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218086,
+      "name": "G\u00f6r Bak",
+      "url": "https://open.spotify.com/track/00zpoHL8I7zlPzWEbSYDgB"
     },
     {
       "album": {
@@ -12989,7 +13029,7 @@
       ],
       "date_added": "2023-06-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 142055,
       "name": "Pi\u015fman De\u011filim",
       "url": "https://open.spotify.com/track/4Sdj67b8WF9PhAXh4tvBi6"
@@ -14613,7 +14653,7 @@
       ],
       "date_added": "2023-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 172427,
       "name": "SIMARIK",
       "url": "https://open.spotify.com/track/5m0FBZ3g71Tv2v5XYZ4pKv"

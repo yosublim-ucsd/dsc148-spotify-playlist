@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 
 > 実写映画「<a href="https://gaga.ne.jp/buzzynoise\_movie/">バジーノイズ</a>」5月3日公開！作者 むつき潤による選曲のオフィシャル・プレイリストが到着。/ The official playlist selected by Mutsuki Jun.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,050 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,058 likes - 51 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXccKkcayc3Ru.md) - [plain]
 | 45 | [永遠のブルー](https://open.spotify.com/track/3zSgE6oQiPLO28dZkvKGbX) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 3:51 |
 | 46 | [Q](https://open.spotify.com/track/2gUZMWbJCCVsJFxPbQFFDN) | [Tempalay](https://open.spotify.com/artist/5IlQkA8Lq4X0dOWHBumeJP) | [Q](https://open.spotify.com/album/5PDrKfXanutCbajW1uu5jO) | 4:24 |
 | 47 | [世界各国の夜](https://open.spotify.com/track/46SeB4xDa6GFG5KvdaislT) | [VIDEOTAPEMUSIC](https://open.spotify.com/artist/7yyl43NN4h6ZFP1DnbzeaJ) | [世界各国の夜](https://open.spotify.com/album/0qvZD8eYRscYqR4N9DwC3Q) | 3:18 |
-| 48 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
-| 49 | [Native Dancer](https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx) | 5:58 |
-| 50 | [Talk:Comic artist&Film director これから映画を観る方へ](https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:43 |
+| 48 | [夜を使いはたして feat\. PUNPEE](https://open.spotify.com/track/5UxtXZBNTO1EDBVZH4I9Mf) | [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d), [PUNPEE](https://open.spotify.com/artist/0mP8A1qIoufScrsxq18Cw6) | [Pushin'](https://open.spotify.com/album/4h3fUSF2oKaS1J5t6FCaR7) | 4:54 |
+| 49 | [Luv\(sic.\) pt3 \(feat\. Shing02\)](https://open.spotify.com/track/4xlpJ99yL9xYQtzG6c3hwk) | [Nujabes](https://open.spotify.com/artist/3Rq3YOF9YG9YfCWD4D56RZ), [Shing02](https://open.spotify.com/artist/0FB6beTn4vescDdnHeCUm9) | [Modal Soul](https://open.spotify.com/album/6nVACH6a27eOWiumAJhDWS) | 5:36 |
+| 50 | [Native Dancer](https://open.spotify.com/track/00F3OgPKZMifNnzBD6G09H) | [D.A.N.](https://open.spotify.com/artist/1pnciyHx1BO7b1EqyatTrx) | [D.A.N.](https://open.spotify.com/album/0gVBrSHwg9ebQvz8WQ1LEx) | 5:58 |
+| 51 | [Talk:Comic artist&Film director これから映画を観る方へ](https://open.spotify.com/track/64Xr5YY1eZunhaTgeU3QBv) | [むつき潤、風間太樹](https://open.spotify.com/artist/1GAc54Vtw6J7ngJmkskL4m) | [Talk：むつき潤、風間太樹](https://open.spotify.com/album/4DfYg7NmOUqBu7OKg3Rc7E) | 1:43 |
 
-Snapshot ID: `MTcxMzg4OTMxNywwMDAwMDAwMGMyMjU1YTgxNWY2ZDFkZWU3MWViNjMyNmM4MTdiNmYz`
+Snapshot ID: `MTcxNDAxMDAwNCwwMDAwMDAwMGYxNzc1MTA5YTIwM2M1NzQ5NjI4Zjk1ZDQ4NDViZTkx`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 
 > This Is Zona Ganjah\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,705 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,709 likes - 50 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 13 | [Conquista](https://open.spotify.com/track/17sW761x3jqh4xrgGzVGbt) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 4:25 |
 | 14 | [Dos que Brillamos](https://open.spotify.com/track/3g6a9iLkuWfUnqD7bslHC4) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:05 |
 | 15 | [Seguiré Avanzando](https://open.spotify.com/track/1F518frrGW0CuWmewWeVKk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 4:49 |
-| 16 | [Fuma del humo y sana](https://open.spotify.com/track/5EmRwcbzzhuB2OpHizoSPz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 4:01 |
-| 17 | [Bendita](https://open.spotify.com/track/6KEplTCsOOfPbnGMR6DyB6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:11 |
+| 16 | [Bendita](https://open.spotify.com/track/6KEplTCsOOfPbnGMR6DyB6) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 3:11 |
+| 17 | [Fuma del humo y sana](https://open.spotify.com/track/5EmRwcbzzhuB2OpHizoSPz) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 4:01 |
 | 18 | [Somos R](https://open.spotify.com/track/69N8sDFDYqlJxAIjlNIQbt) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Sanazion](https://open.spotify.com/album/0zxOfn59rNMPrlgiZZiDzy) | 3:09 |
 | 19 | [Vivo feliz](https://open.spotify.com/track/7erjjvDimUHHNM0m9fYrSh) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Mas alla de la zona](https://open.spotify.com/album/4ZPM1p5tu95uWijgWycIpB) | 3:33 |
 | 20 | [Algo mejor \- Remastered](https://open.spotify.com/track/0iITTpeIsR2NQIv1QiIkKx) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:58 |
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 40 | [Rasta es](https://open.spotify.com/track/79xm3eDXWsx3qgzljMjSnO) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Poder](https://open.spotify.com/album/5JwIXJe8JRlVsufRiYi4aG) | 3:17 |
 | 41 | [Por lo que obtuve](https://open.spotify.com/track/01ernt9QunzqmKMegy3EQh) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 2:42 |
 | 42 | [Amor](https://open.spotify.com/track/5wleH1Q7TtVP81uDoCztKd) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 3:18 |
-| 43 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 |
-| 44 | [En Zion mi anhelo](https://open.spotify.com/track/2Zyo7QD2QZ4gswBZNDDJiS) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:13 |
+| 43 | [En Zion mi anhelo](https://open.spotify.com/track/2Zyo7QD2QZ4gswBZNDDJiS) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Alabanza y Gracia](https://open.spotify.com/album/05YahOU9uFFs6bOgGZ04jI) | 4:13 |
+| 44 | [Cuanto Heredamos](https://open.spotify.com/track/4K4KM1DRrEY3GkOMMXjzbp) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cuanto Heredamos](https://open.spotify.com/album/0vyJAPxf1s9TphV9Fng2nL) | 3:28 |
 | 45 | [Laberinto interno](https://open.spotify.com/track/4W5AGY6yA6jQb8UiHQpJD0) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:53 |
 | 46 | [Buscándote](https://open.spotify.com/track/0MZ8BVLMsfmzN5UUmqvtqX) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Cristal 9](https://open.spotify.com/album/5QWvvygpPGzkw0wS8qVi2t) | 2:38 |
 | 47 | [Luces de la ciudad](https://open.spotify.com/track/3zznC4iFBLSBcPFg1R0Adk) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [Con Rastafari Todo Concuerda](https://open.spotify.com/album/6cdQ6F0AWi4lrolEwbCDYN) | 3:18 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO24f0z5.md) - [plain]
 | 49 | [No existen fronteras](https://open.spotify.com/track/16bxK01sjphWvfyqX6x19L) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [La Búsqueda](https://open.spotify.com/album/3jVxkfB39y5PEC7yiPCYWJ) | 3:00 |
 | 50 | [Cerca del río](https://open.spotify.com/track/5mzjAGV0xeLAQj6fFQUrVO) | [Zona Ganjah](https://open.spotify.com/artist/3yyWIPmsesks6c7uMnvNn2) | [En Vivo](https://open.spotify.com/album/6zkr5NOO12d8ncJreiviA6) | 5:02 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGI1NjIwZWZmODA4ZmI2ZTAzYWE3YWQxODcxMWE5NTk4`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMGRmYmM5ZDc0NmYzZjIzOGE5OTYyYjhkZjEwOGRkMGEw`

@@ -2,7 +2,7 @@
 
 ### [RADAR Korea](https://open.spotify.com/playlist/37i9dQZF1DX9IALXsyt8zk)
 
-> Unearthing up\-and\-coming Korean acts\. Cover: Zior Park
+> Unearthing up\-and\-coming Korean acts\. \(Cover: RIIZE\)
 
 384 songs - 20 hr 37 min
 

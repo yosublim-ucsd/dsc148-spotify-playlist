@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 
 ### [This Is UVERworld](https://open.spotify.com/playlist/37i9dQZF1DZ06evO3KBMI1)
 
-> This is UVERworld\. The essential tracks, all in one playlist.
+> This Is UVERworld\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,416 likes - 50 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,420 likes - 50 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3KBMI1.md) - [plain]
 | 49 | [High Light!](https://open.spotify.com/track/5ciNbUcDEWLV0kZPREwmyG) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [Eye's Sentry](https://open.spotify.com/album/7eQ7opjUTYoo92d4Ix5jtZ) | 4:06 |
 | 50 | [ナノ・セカンド\(album ver.\)](https://open.spotify.com/track/4Hz1T64ZZiHkM4fYHFN0MV) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [0 CHOIR](https://open.spotify.com/album/64hkibORri9uiP4j6bucRY) | 4:55 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGU5OWU0ZWRlZThlZDVkZTBjZDVlOGY4M2Y5MjQzNzdm`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDI1NGZkMWQ0NDU4NjYzZjYxNjYyNzk4MzIzYTJkYmM5`

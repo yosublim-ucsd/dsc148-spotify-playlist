@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX949uWWpmTjT.md) - [plain]
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,663 likes - 800 songs - 2 day 0 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,719 likes - 800 songs - 2 day 0 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

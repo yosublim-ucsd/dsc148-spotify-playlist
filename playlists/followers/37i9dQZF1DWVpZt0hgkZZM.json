@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 30444,
+  "2024-04-25": 30451,
   "date_first_scraped": "2023-05-16",
   "description": "\u00a1Pasad\u00eda y sabrosura!",
   "name": "\u00c9xitos de Balneario",
@@ -199,7 +199,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 339114,
       "name": "Alicia Adorada",
       "url": "https://open.spotify.com/track/7CRIeEj0hYofPyXDMZGCxY"
@@ -1183,6 +1183,24 @@
       "duration_ms": 259186,
       "name": "El Comejen",
       "url": "https://open.spotify.com/track/6KWj4TAjZMVwZWxXzvHIGD"
+    },
+    {
+      "album": {
+        "name": "Historia Musical de los Nemus del Pac\u00edfico",
+        "url": "https://open.spotify.com/album/5pVdcHE66L2zzccmsCZEkv"
+      },
+      "artists": [
+        {
+          "name": "Los Nemus Del Pacifico",
+          "url": "https://open.spotify.com/artist/58JENxULlTFsqJb5l2Nb50"
+        }
+      ],
+      "date_added": "2024-04-06",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271573,
+      "name": "El Debilitao",
+      "url": "https://open.spotify.com/track/35FUH5hc5u5VkgleIdOIKA"
     },
     {
       "album": {

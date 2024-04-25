@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMRmURm95Lk.md) - [plain]
 
 > Beat e rime, oggi come una volta\. Jack The Smoker e Big Joe in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,578 likes - 120 songs - 7 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,586 likes - 120 songs - 7 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

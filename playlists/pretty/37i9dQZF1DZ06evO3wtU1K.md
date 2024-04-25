@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 
 > This is Tasha Cobbs Leonard\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,970 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,975 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wtU1K.md) - [plain]
 | 49 | [It Is Well \- Live](https://open.spotify.com/track/09ZvDOJkKi76sig28txpQn) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx), [Jennifer Hudson](https://open.spotify.com/artist/35GL8Cu2GKTcHzKGi75xl5), [Ricky Dillard](https://open.spotify.com/artist/3EDwVZensg15abkTt5zfTM) | [Hymns \(Live\)](https://open.spotify.com/album/1ZecqYyaNHmlU7zXhkuk6u) | 7:06 |
 | 50 | [I'm Free \- Live](https://open.spotify.com/track/5GYogyslF0t1JkhCDv0UE0) | [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Heart\. Passion\. Pursuit.: Live At Passion City Church](https://open.spotify.com/album/3to6tIB6taMg12hPGxfyyN) | 0:54 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMGY5MjE3ZGY4ZDNiMzgyMmU1NzZmOTk4YTJiMjFlMGYx`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMGVkODY2NDI5YjVlYzJmMmE1N2MyZTYwNWIxZDcxOWYz`

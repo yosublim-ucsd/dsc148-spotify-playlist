@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 320726,
+  "2024-04-25": 320773,
   "date_first_scraped": "2022-05-13",
   "description": "\u0623\u0641\u0636\u0644 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0627\u0644\u0622\u0646 \u0645\u0646 \u0642\u0644\u0628 \u0645\u0635\u0631 \u0625\u0644\u0649 \u0627\u0644\u0639\u0627\u0644\u0645\ud83d\udd25\ud83d\udd1d. \u0627\u0644\u063a\u0644\u0627\u0641: <a href=\"https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu?si=8WwDgnZjSWCx-d3cVmkM2g\">\u00a0\u0639\u0635\u0627\u0645 \u0635\u0627\u0635\u0627 </a>",
   "name": "\u0627\u0644\u062a\u0648\u0628",
@@ -1983,7 +1983,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 253634,
       "name": "Lehqt Nafsy",
       "url": "https://open.spotify.com/track/45yi4QfgBNiUEs4QfCpiYK"
@@ -2337,7 +2337,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 193714,
       "name": "Men Sokat",
       "url": "https://open.spotify.com/track/3fPOOQ7oYuHdZtwKtKtGEN"
@@ -2881,7 +2881,7 @@
       ],
       "date_added": "2023-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 156770,
       "name": "Salt El Zein - \u0635\u0644\u0627\u0629 \u0627\u0644\u0632\u064a\u0646",
       "url": "https://open.spotify.com/track/5o7YSTsbNeo98lSacuNIi5"
@@ -3619,7 +3619,7 @@
       ],
       "date_added": "2024-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 239600,
       "name": "\u0627\u0628\u0646 \u0627\u0645\u0628\u0627\u0631\u062d",
       "url": "https://open.spotify.com/track/74zhameHOFlWAhXWTwp5GQ"
@@ -4254,6 +4254,24 @@
     },
     {
       "album": {
+        "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+        "url": "https://open.spotify.com/album/3xjnY2ScY6agVQ0jBXIp7e"
+      },
+      "artists": [
+        {
+          "name": "Ramy Gamal",
+          "url": "https://open.spotify.com/artist/5miyPYjh5EcpOSqloDJPID"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "\u062e\u0644\u064a\u0646\u064a \u0623\u0634\u0648\u0641\u0643",
+      "url": "https://open.spotify.com/track/5wFGQw4SWEtId68rnnE7An"
+    },
+    {
+      "album": {
         "name": "\u062f\u0644\u0639\u0646\u0627 \u0643\u062a\u064a\u0631",
         "url": "https://open.spotify.com/album/4fXbai8cyBy3BdHgVMTGu1"
       },
@@ -4283,7 +4301,7 @@
       ],
       "date_added": "2023-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 178751,
       "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
       "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
@@ -4554,6 +4572,24 @@
     },
     {
       "album": {
+        "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644",
+        "url": "https://open.spotify.com/album/5D3OSz8QKq8CkNkPaTh3rE"
+      },
+      "artists": [
+        {
+          "name": "Mahmoud El Leithy",
+          "url": "https://open.spotify.com/artist/2iToE4LH0W9zs4hVw3A7m6"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220434,
+      "name": "\u0639\u0645 \u0627\u0644\u0645\u062c\u0627\u0644",
+      "url": "https://open.spotify.com/track/3MzJ2M9PzfCtaGMHAirjIM"
+    },
+    {
+      "album": {
         "name": "\u0642\u0631\u0627\u0645\u064a\u0637 \u0642\u0631\u0627\u0645\u064a\u0637 \u0648 \u0627\u0644\u0647\u0644\u0627\u0641\u064a\u062a \u0639\u0627\u0645\u0644\u064a\u0646 \u0645\u0638\u0627\u0628\u064a\u0637 (\u0635\u062d\u0628\u064a \u0627\u0644\u0644\u064a \u0627\u062f\u0627\u0643 \u064a\u062f\u064a\u0646\u0627 )",
         "url": "https://open.spotify.com/album/4ZrbdcI2JPDlkInji4FlaV"
       },
@@ -4587,6 +4623,28 @@
       "duration_ms": 264228,
       "name": "\u0642\u0635\u0627\u062f \u0639\u064a\u0646\u0649",
       "url": "https://open.spotify.com/track/3bISYorQwMHFlDaAhNyWd8"
+    },
+    {
+      "album": {
+        "name": "\u0642\u0645\u0628\u0644\u0629 \u0627\u0644\u062c\u064a\u0644 ( \u0627\u062e\u062a\u064a \u0648\u0635\u062d\u0628\u062a\u064a )",
+        "url": "https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac"
+      },
+      "artists": [
+        {
+          "name": "Hassan Shakosh",
+          "url": "https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt"
+        },
+        {
+          "name": "\u062d\u0645\u0627\u062f\u0629 \u0645\u062c\u062f\u064a",
+          "url": "https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179211,
+      "name": "\u0642\u0645\u0628\u0644\u0629 \u0627\u0644\u062c\u064a\u0644 ( \u0627\u062e\u062a\u064a \u0648\u0635\u062d\u0628\u062a\u064a )",
+      "url": "https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp"
     },
     {
       "album": {
@@ -4667,6 +4725,24 @@
       "duration_ms": 200816,
       "name": "\u0643\u0644\u0647 \u0628\u0623\u0644\u0641 \u0648\u0634",
       "url": "https://open.spotify.com/track/2xa1lKFfSDDEBeJURGDXf6"
+    },
+    {
+      "album": {
+        "name": "\u0643\u0644\u0647\u0627 \u0628\u0642\u0627 \u0644\u064a\u0647\u0627 \u0627\u062e\u0635\u0627\u0645 (\u0639\u0644\u064a\u0627 \u0627\u0644\u0637\u0644\u0627\u0642 \u0643\u0644\u0647 \u0628\u064a\u0643\u062f\u0628)",
+        "url": "https://open.spotify.com/album/76zWCg8Bm8Ifac89Vww2al"
+      },
+      "artists": [
+        {
+          "name": "Kozbara",
+          "url": "https://open.spotify.com/artist/0EKrH3Q5caLq96nRdcYBkG"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "\u0643\u0644\u0647\u0627 \u0628\u0642\u0627 \u0644\u064a\u0647\u0627 \u0627\u062e\u0635\u0627\u0645 - \u0639\u0644\u064a\u0627 \u0627\u0644\u0637\u0644\u0627\u0642 \u0643\u0644\u0647 \u0628\u064a\u0643\u062f\u0628",
+      "url": "https://open.spotify.com/track/4vLMzTyW0qq87QEaX2enxW"
     },
     {
       "album": {
@@ -5025,6 +5101,24 @@
       "duration_ms": 237871,
       "name": "\u0645\u0639\u0644\u0634",
       "url": "https://open.spotify.com/track/0XbZAACv4UZAU5mKOCLa9T"
+    },
+    {
+      "album": {
+        "name": "\u0645\u0646 \u0641\u0636\u0644 \u0627\u0644\u0627\u062e\u0635\u0627\u0645 \u062e\u0641\u0648 \u0627\u0644\u062a\u062e\u0637\u064a\u0631 ( \u0627\u0646\u0627 \u0645\u0634 \u0639 \u0627\u0644\u062f\u0648\u0627\u0642 )",
+        "url": "https://open.spotify.com/album/1vwPrjUDOb4GAZl7CJn73e"
+      },
+      "artists": [
+        {
+          "name": "Essam Sasa",
+          "url": "https://open.spotify.com/artist/2KjiHtx0h8tyJXbg8aYRgu"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179118,
+      "name": "\u0645\u0646 \u0641\u0636\u0644 \u0627\u0644\u0627\u062e\u0635\u0627\u0645 \u062e\u0641\u0648 \u0627\u0644\u062a\u062e\u0637\u064a\u0631 ( \u0627\u0646\u0627 \u0645\u0634 \u0639 \u0627\u0644\u062f\u0648\u0627\u0642 )",
+      "url": "https://open.spotify.com/track/2CA1VER7dNNdgDyH9iL3BE"
     },
     {
       "album": {

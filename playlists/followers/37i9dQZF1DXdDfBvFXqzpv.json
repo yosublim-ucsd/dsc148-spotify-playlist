@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 106309,
+  "2024-04-25": 106306,
   "date_first_scraped": "2022-11-05",
   "description": "Discover your personalized playlist of tracks from FIFA '98 to FIFA '23.",
   "name": "EA SPORTS FIFA Mix",
@@ -907,7 +907,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 594453,
-      "name": "Fools Gold - Remastered",
+      "name": "Fools Gold - Remastered 2009",
       "url": "https://open.spotify.com/track/2mv6GY70UsHiTCGQZ4JfgC"
     },
     {
@@ -1423,7 +1423,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 184933,
       "name": "Lift Off",
       "url": "https://open.spotify.com/track/3ZcLmonVVD1MTQtmQb8yf3"
@@ -1919,7 +1919,7 @@
       ],
       "date_added": "2022-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-22",
+      "date_removed": null,
       "duration_ms": 193853,
       "name": "On Our Way",
       "url": "https://open.spotify.com/track/3GTXok0dIm0mMqBiVklBYS"

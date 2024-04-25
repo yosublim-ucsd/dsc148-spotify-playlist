@@ -1,12 +1,12 @@
 {
-  "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 451425,
+  "description": "This Is KISS. Los temas esenciales, todos en una lista.",
+  "num_followers": 451441,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMDE2NDk2ODBjNzZlYmRiODkzYzQwNjE5YjIwYTc0MzU4",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGYzOWE4NzU2ZTU4YmVkNTJjNWY2ZDU1ZjA3ODMxMWU5",
   "tracks": [
     {
       "added_at": null,
@@ -219,22 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "KISS 40",
-        "url": "https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 241106,
-      "name": "I Was Made For Lovin' You - Single Mix",
-      "url": "https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynasty",
         "url": "https://open.spotify.com/album/4FA68GsblSfvKZZRfM1tI1"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 241506,
       "name": "Sure Know Something",
       "url": "https://open.spotify.com/track/1HBDWCrQVjrALiOA5rILnE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "KISS 40",
+        "url": "https://open.spotify.com/album/721Qky2RUeTXh0rCmVvqkM"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 241106,
+      "name": "I Was Made For Lovin' You - Single Mix",
+      "url": "https://open.spotify.com/track/7dEKwMoUZCpvUFLLuJQjju"
     },
     {
       "added_at": null,

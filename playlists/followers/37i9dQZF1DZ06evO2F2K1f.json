@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 987,
+  "2024-04-25": 987,
   "date_first_scraped": "2022-05-30",
   "description": "This is Alan Hawkshaw. The essential tracks, all in one playlist.",
   "name": "This Is Alan Hawkshaw",
@@ -151,7 +151,7 @@
       ],
       "date_added": "2022-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 117106,
       "name": "Beach Buggy (A)",
       "url": "https://open.spotify.com/track/1zLiRIhQoqLRpmRFC5t4kp"
@@ -1897,6 +1897,24 @@
       "duration_ms": 204760,
       "name": "Reminiscences",
       "url": "https://open.spotify.com/track/6vAqNQAPjqzx5ztO88PQX9"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: Big Business / Wind of Change",
+        "url": "https://open.spotify.com/album/5KjRUiHG28Lv7rILL40ONY"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2024-04-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137133,
+      "name": "Road and Rail",
+      "url": "https://open.spotify.com/track/3mYdUtdNzgDKagUA77PkOy"
     },
     {
       "album": {

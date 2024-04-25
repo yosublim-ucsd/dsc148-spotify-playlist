@@ -1,5 +1,5 @@
 {
-  "2024-04-24": 825082,
+  "2024-04-25": 896049,
   "date_first_scraped": "2022-01-01",
   "description": "Mellow jazz to stay focused or unwind.",
   "name": "Chilled Jazz",
@@ -335,6 +335,24 @@
       "duration_ms": 168077,
       "name": "A Long Day",
       "url": "https://open.spotify.com/track/0G9w3EodK2pcqKhzB7KpN8"
+    },
+    {
+      "album": {
+        "name": "A look of confusion",
+        "url": "https://open.spotify.com/album/0T4R4FUftoMBkd7FJmkvYL"
+      },
+      "artists": [
+        {
+          "name": "Reuben Plays",
+          "url": "https://open.spotify.com/artist/5RktRZOHbkKduKINbyTHNC"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215950,
+      "name": "A look of confusion",
+      "url": "https://open.spotify.com/track/4zNMkaNjhCpnVJm1RQHgv2"
     },
     {
       "album": {
@@ -3861,7 +3879,7 @@
       ],
       "date_added": "2022-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 203480,
       "name": "Easy To Love",
       "url": "https://open.spotify.com/track/5p5CfayA88AVKc76DcwK5e"
@@ -4902,6 +4920,24 @@
     },
     {
       "album": {
+        "name": "Forever Us",
+        "url": "https://open.spotify.com/album/5IvCve1OuNTSE61TeThDop"
+      },
+      "artists": [
+        {
+          "name": "Andy Goodman",
+          "url": "https://open.spotify.com/artist/2zsZdG7rQdh5YDhxCSeVJi"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224000,
+      "name": "Forever Us",
+      "url": "https://open.spotify.com/track/27eHVF7OweTM4E7XcU3O7g"
+    },
+    {
+      "album": {
         "name": "Forever Yours",
         "url": "https://open.spotify.com/album/1Mu3jAcHRiLymCVjAI6svJ"
       },
@@ -5061,6 +5097,24 @@
       "duration_ms": 229822,
       "name": "Freesia",
       "url": "https://open.spotify.com/track/0LHwEY4ECqNf4t0JrSR9eH"
+    },
+    {
+      "album": {
+        "name": "French books",
+        "url": "https://open.spotify.com/album/0mGGOvMTDBtRt0HXZ9ZA5S"
+      },
+      "artists": [
+        {
+          "name": "Mabon Clarke Quartet",
+          "url": "https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197279,
+      "name": "French books",
+      "url": "https://open.spotify.com/track/6MWz69gBN3Es6dEk3OeMZF"
     },
     {
       "album": {
@@ -5921,7 +5975,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 245241,
       "name": "I awake",
       "url": "https://open.spotify.com/track/6AianoPQwgFLarNY5s3ntc"
@@ -7153,6 +7207,24 @@
     {
       "album": {
         "name": "Isfahan",
+        "url": "https://open.spotify.com/album/7KMTe6qasqhNYZknr4FMZ3"
+      },
+      "artists": [
+        {
+          "name": "Gene Hart Trio",
+          "url": "https://open.spotify.com/artist/5iUzoJfVuTECa0aM3nCCCh"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233416,
+      "name": "Isfahan",
+      "url": "https://open.spotify.com/track/1xUj0IyCqDQuMFIBbEel3s"
+    },
+    {
+      "album": {
+        "name": "Isfahan",
         "url": "https://open.spotify.com/album/6VC7itIVScZfwaNoNArgBw"
       },
       "artists": [
@@ -7991,7 +8063,7 @@
       ],
       "date_added": "2022-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 236250,
       "name": "Last Dance",
       "url": "https://open.spotify.com/track/7Jz9FKIbjpFvql18j77cpy"
@@ -8067,6 +8139,24 @@
       "duration_ms": 239125,
       "name": "Late Bagatelle",
       "url": "https://open.spotify.com/track/7BfOE71MK4usBrYmArJt5M"
+    },
+    {
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/4xhU21k5nDS4D0V1RpL1JB"
+      },
+      "artists": [
+        {
+          "name": "Trio Del Norte",
+          "url": "https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292623,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/7DStSdmgPggkeAzVhZFj6s"
     },
     {
       "album": {
@@ -8211,6 +8301,24 @@
       "duration_ms": 192711,
       "name": "Least-Dressed Woman",
       "url": "https://open.spotify.com/track/4LuOtrVQrtJB8pdD5H7vi2"
+    },
+    {
+      "album": {
+        "name": "Leave Your Umbrella at Home",
+        "url": "https://open.spotify.com/album/05ap7L64mGjQP9plKI35Vf"
+      },
+      "artists": [
+        {
+          "name": "Billy Hicks Quartet",
+          "url": "https://open.spotify.com/artist/4ICOVaHa5cPigwgMb9opB5"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202087,
+      "name": "Leave Your Umbrella at Home",
+      "url": "https://open.spotify.com/track/1lSNa1Da5Q5OeNhjzgovSg"
     },
     {
       "album": {
@@ -9186,6 +9294,24 @@
     },
     {
       "album": {
+        "name": "Margot In May",
+        "url": "https://open.spotify.com/album/0MvK5Sdk8vo5BSUgqMW3su"
+      },
+      "artists": [
+        {
+          "name": "Mike Coen",
+          "url": "https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226750,
+      "name": "Margot In May",
+      "url": "https://open.spotify.com/track/44csXD1kDXphaXU3VAFM1v"
+    },
+    {
+      "album": {
         "name": "Maybe We'll Meet Again",
         "url": "https://open.spotify.com/album/5jlgTkBJTWhoO3BdPsThlW"
       },
@@ -9870,6 +9996,24 @@
     },
     {
       "album": {
+        "name": "Morning Story",
+        "url": "https://open.spotify.com/album/6KhUfUf0XbpuQ1UI1DJEmD"
+      },
+      "artists": [
+        {
+          "name": "Ikigai",
+          "url": "https://open.spotify.com/artist/0bNWgPLuFJzQ3IXoDfydPv"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245000,
+      "name": "Morning Story",
+      "url": "https://open.spotify.com/track/39DP77BXBUwsOVqeKm46V4"
+    },
+    {
+      "album": {
         "name": "Morristown Blue",
         "url": "https://open.spotify.com/album/3mvq8WFbWietlyrYBceJPw"
       },
@@ -9899,7 +10043,7 @@
       ],
       "date_added": "2023-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 220879,
       "name": "Muddy Trail",
       "url": "https://open.spotify.com/track/7xi4NE5HjjIU4sjk2OP466"
@@ -10331,7 +10475,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 254920,
       "name": "Never Let Me Go",
       "url": "https://open.spotify.com/track/25VqRlCspcn3W04pGctbcn"
@@ -11724,6 +11868,24 @@
     },
     {
       "album": {
+        "name": "Rhapsody in Raindrops",
+        "url": "https://open.spotify.com/album/15MNDdWdIfPW4i3tJgR5Gl"
+      },
+      "artists": [
+        {
+          "name": "Tannenbaum Trio",
+          "url": "https://open.spotify.com/artist/5o0nK5sGCqA1E4MTOCgpSn"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200495,
+      "name": "Rhapsody in Raindrops",
+      "url": "https://open.spotify.com/track/3ezuMYDq4bDEjG0wl1a18b"
+    },
+    {
+      "album": {
         "name": "Your Laugh",
         "url": "https://open.spotify.com/album/1zdhx2ty0QErwb2BvtFqTL"
       },
@@ -11735,7 +11897,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 207931,
       "name": "Right Now Right Here",
       "url": "https://open.spotify.com/track/0ruQME0dBzzcbdYCqD6x0j"
@@ -14277,7 +14439,7 @@
       ],
       "date_added": "2022-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 189292,
       "name": "The Party's Over",
       "url": "https://open.spotify.com/track/3bCDBqVpu1lDbRGEV0El1J"
@@ -14511,7 +14673,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2024-04-24",
       "duration_ms": 207367,
       "name": "Then you appeared",
       "url": "https://open.spotify.com/track/33bQpN9jengdybIZ0ecfON"
@@ -14551,6 +14713,24 @@
       "duration_ms": 299349,
       "name": "There Will Be Better Days",
       "url": "https://open.spotify.com/track/3muzfT0ljP8aBBipCCZUba"
+    },
+    {
+      "album": {
+        "name": "There's Something",
+        "url": "https://open.spotify.com/album/4WqhUlSM1wVrDjc0zpobcV"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "date_added": "2024-04-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213739,
+      "name": "There's Something",
+      "url": "https://open.spotify.com/track/57WkEsl35BbjihKAnDNh4N"
     },
     {
       "album": {

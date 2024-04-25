@@ -1,12 +1,12 @@
 {
-  "description": "This is Luca Brasi. Todos os maiores hits em uma s\u00f3 playlist.",
+  "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
   "num_followers": 828,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MTcxMzc0NDAwMCwwMDAwMDAwMGVkZjY2MDQ4M2QyZDNiMmI2YTRiMWM4OGJjZjA3ZDE2",
+  "snapshot_id": "MTcxMzgzMDQwMCwwMDAwMDAwMGRkN2Q5MDU2ZjYxYjNkZWY2Y2M1NTkwZWVlODk4YmQ1",
   "tracks": [
     {
       "added_at": null,
@@ -59,22 +59,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 189906,
-      "name": "The World Don't Owe You Anything",
-      "url": "https://open.spotify.com/track/44wjc3admuhjgP8W1ZFRIR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 227738,
       "name": "Anything Near Conviction",
       "url": "https://open.spotify.com/track/7zFgEkuYQRUtKPHXvzckZA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 189906,
+      "name": "The World Don't Owe You Anything",
+      "url": "https://open.spotify.com/track/44wjc3admuhjgP8W1ZFRIR"
     },
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 169266,
-      "name": "Habits",
-      "url": "https://open.spotify.com/track/3igoVqqRIqOtEFSgSVueHw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "If This Is All We're Going to Be",
         "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 202706,
       "name": "Aeroplane",
       "url": "https://open.spotify.com/track/2RLGb8mvqpSY6v3h1muLok"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 169266,
+      "name": "Habits",
+      "url": "https://open.spotify.com/track/3igoVqqRIqOtEFSgSVueHw"
     },
     {
       "added_at": null,
@@ -187,22 +187,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 98493,
-      "name": "The Entry Ramp",
-      "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jackies Are On The March",
         "url": "https://open.spotify.com/album/6uqe4KG28xyYXHq44KzJ5u"
       },
@@ -215,6 +199,22 @@
       "duration_ms": 135630,
       "name": "Jackies Are On The March",
       "url": "https://open.spotify.com/track/4MSxYD2ufYwbDoX5mzTzb4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 98493,
+      "name": "The Entry Ramp",
+      "url": "https://open.spotify.com/track/6cEbKUpsVZjgNoq6wt83DJ"
     },
     {
       "added_at": null,
@@ -251,22 +251,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 220440,
-      "name": "Sonny",
-      "url": "https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Everything is Tenuous",
         "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
       },
@@ -283,38 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "'Til Forever",
-        "url": "https://open.spotify.com/album/3Ouz4BXlPk9xvbY8OLY31q"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 168760,
-      "name": "'Til Forever",
-      "url": "https://open.spotify.com/track/4LYF3Ioe7PoekNKuhHuC51"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stay",
-        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 186270,
-      "name": "Collisions",
-      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The World Don't Owe You Anything",
         "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
       },
@@ -324,25 +276,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 204533,
-      "name": "Rinse and Repeat",
-      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Everything is Tenuous",
-        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 164228,
-      "name": "Every Time You're Here (I'm Gone)",
-      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
+      "duration_ms": 220440,
+      "name": "Sonny",
+      "url": "https://open.spotify.com/track/5JLEFymt4B4AvtQvx0G4VO"
     },
     {
       "added_at": null,
@@ -372,25 +308,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 214959,
-      "name": "Got to Give",
-      "url": "https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The World Don't Owe You Anything",
-        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 176893,
-      "name": "Party Scene",
-      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
+      "duration_ms": 186270,
+      "name": "Collisions",
+      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
     },
     {
       "added_at": null,
@@ -404,9 +324,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 187101,
-      "name": "Remiss of Me",
-      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
+      "duration_ms": 164228,
+      "name": "Every Time You're Here (I'm Gone)",
+      "url": "https://open.spotify.com/track/3c0yDaPl4NvXfobNgoCMZ2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 204533,
+      "name": "Rinse and Repeat",
+      "url": "https://open.spotify.com/track/13oycWNPkO5TstF1DO1x5D"
     },
     {
       "added_at": null,
@@ -436,25 +372,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 168451,
-      "name": "Reeling",
-      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 162293,
-      "name": "Isaac Bowen",
-      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
+      "duration_ms": 214959,
+      "name": "Got to Give",
+      "url": "https://open.spotify.com/track/3Djrqb7qEsnp4LrocvbTaC"
     },
     {
       "added_at": null,
@@ -468,9 +388,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 246347,
-      "name": "Never the Right Time",
-      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
+      "duration_ms": 187101,
+      "name": "Remiss of Me",
+      "url": "https://open.spotify.com/track/3qQxv1BBsSnDtJE82pcLnR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The World Don't Owe You Anything",
+        "url": "https://open.spotify.com/album/5380vNQwfXfMQEpIBgnGRg"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 176893,
+      "name": "Party Scene",
+      "url": "https://open.spotify.com/track/1QYnJPrOiBy6slMePfc0cA"
     },
     {
       "added_at": null,
@@ -491,8 +427,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "By a Thread",
-        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+        "name": "Stay",
+        "url": "https://open.spotify.com/album/2Pmz99qx28KSvdsSqN5uO0"
       },
       "artists": [
         {
@@ -500,9 +436,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 176518,
-      "name": "Get Sad, See Mates",
-      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Everything is Tenuous",
+        "url": "https://open.spotify.com/album/1CauYGf4kborz50koSaKMd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 246347,
+      "name": "Never the Right Time",
+      "url": "https://open.spotify.com/track/5eQo8AdL0PUKw2NgbhJQSZ"
     },
     {
       "added_at": null,
@@ -516,41 +468,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 160573,
-      "name": "Southbound",
-      "url": "https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ReWiggled",
-        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 81016,
-      "name": "The Shimmie Shake",
-      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "If This Is All We're Going to Be",
-        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 180888,
-      "name": "Overwhelmed / Ill Prepared",
-      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
+      "duration_ms": 162293,
+      "name": "Isaac Bowen",
+      "url": "https://open.spotify.com/track/4KwCfSTIxcGWnOA53KdIRf"
     },
     {
       "added_at": null,
@@ -571,6 +491,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "If This Is All We're Going to Be",
+        "url": "https://open.spotify.com/album/4kQLPycBD0uZWdE9mzhVLa"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 180888,
+      "name": "Overwhelmed / Ill Prepared",
+      "url": "https://open.spotify.com/track/6haquBBkW3zJhqRpEKeNPC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ReWiggled",
+        "url": "https://open.spotify.com/album/7pMmcRjBt41hvqnFQHqYb2"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 81016,
+      "name": "The Shimmie Shake",
+      "url": "https://open.spotify.com/track/4aNbYoDOmasKeeYVyFg1o5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Extended Family",
         "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
       },
@@ -580,9 +532,25 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 207400,
-      "name": "Like a Charm",
-      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
+      "duration_ms": 160573,
+      "name": "Southbound",
+      "url": "https://open.spotify.com/track/5ZBZMJwfKxJyZHWrQ4Yn0i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "By a Thread",
+        "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 176518,
+      "name": "Get Sad, See Mates",
+      "url": "https://open.spotify.com/track/3JtufvZRp5Z3kXXMuTs9z8"
     },
     {
       "added_at": null,
@@ -619,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 207400,
+      "name": "Like a Charm",
+      "url": "https://open.spotify.com/track/7egjZUjcF8YnCkVUDUWvRT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "By a Thread",
         "url": "https://open.spotify.com/album/7fjdamLdDfPcoTyx5fhRyx"
       },
@@ -635,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extended Family",
-        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
-      },
-      "artists": [
-        {
-          "name": "Luca Brasi",
-          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
-        }
-      ],
-      "duration_ms": 167426,
-      "name": "Beacons",
-      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tassie",
         "url": "https://open.spotify.com/album/18NtphyUEcBYeorDyGHwXv"
       },
@@ -663,6 +631,22 @@
       "duration_ms": 197825,
       "name": "Passed the Break",
       "url": "https://open.spotify.com/track/39dNS79yWZLw96FEemTSsO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extended Family",
+        "url": "https://open.spotify.com/album/7966wZO0fRIORtU55s7PVd"
+      },
+      "artists": [
+        {
+          "name": "Luca Brasi",
+          "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
+        }
+      ],
+      "duration_ms": 167426,
+      "name": "Beacons",
+      "url": "https://open.spotify.com/track/5CJLEtRqo4VeojZvUfDaPK"
     },
     {
       "added_at": null,

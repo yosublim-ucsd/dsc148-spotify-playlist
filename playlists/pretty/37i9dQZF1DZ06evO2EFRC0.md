@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 
 ### [This Is Marcos Witt](https://open.spotify.com/playlist/37i9dQZF1DZ06evO2EFRC0)
 
-> This is Marcos Witt\. The essential tracks, all in one playlist.
+> This Is Marcos Witt\. Los temas esenciales, todos en una lista.
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,839 likes - 51 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,827 likes - 51 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2EFRC0.md) - [plain]
 | 50 | [A Ti & Temprano Yo Te Buscaré \(feat\. Marcos Witt\)](https://open.spotify.com/track/1o733VX6GW0U6mPlYx4deP) | [Kike Pavón](https://open.spotify.com/artist/2TkDdk47FGnvxcjQGDdPd0), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [Ayer y Hoy](https://open.spotify.com/album/7svEhoIUz5fCkt6IXhcAsc) | 6:02 |
 | 51 | [Cielo En La Tierra](https://open.spotify.com/track/6mq6N3kTJAZmzbLIQsnFWz) | [Un Corazón](https://open.spotify.com/artist/4UGA0TDpRVVt2SCz8FZOMm), [Marcos Witt](https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2) | [X SIEMPRE](https://open.spotify.com/album/2PXwDxoypiirghBUPoECYW) | 6:01 |
 
-Snapshot ID: `MTcxMzc0NDAwMCwwMDAwMDAwMDE5NzE0NjE3NGRhOGRkODllZjYwMGM2YTFjYmNkZDg1`
+Snapshot ID: `MTcxMzgzMDQwMCwwMDAwMDAwMDBjYTRlZGNlM2E2NzAxYTQ2ZGI4OTU2N2Q1MmFkMDIy`
